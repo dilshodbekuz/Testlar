@@ -20,6 +20,8 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import threading
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 # ================== SOZLAMALAR ==================
@@ -38,6 +40,7 @@ API_MODEL = "claude-sonnet-4-5"  # faqat "api" uchun; joriy nomini docs.claude.c
 SAVOL_SONI = 30                  # 3 ga bo'linadigan son bo'lsin (oson/o'rtacha/qiyin teng)
 MAX_MATN = 40000                 # bitta mavzu uchun yuboriladigan matn uzunligi (belgi)
 YETARLI_FARQ = 2                 # 30 o'rniga 28 ta chiqsa ham qabul qilinadi (qayta so'rov qimmat)
+PARALLEL = 5                     # bir vaqtda nechta mavzu ishlansin (1 = ketma-ket)
 # ================================================
 
 DARAJALAR = ["oson", "o'rtacha", "qiyin"]
@@ -64,6 +67,15 @@ except Exception:
 
 class LimitTugadi(Exception):
     pass
+
+
+_CHOP = threading.Lock()         # parallel oqimlar yozuvi aralashmasligi uchun
+TOXTA = threading.Event()        # limit tugasa - qolganlari darrov to'xtaydi
+
+
+def yoz(*a):
+    with _CHOP:
+        print(*a, flush=True)
 
 
 MAVZU_PROMPT = """Quyida darslikning har bir PDF sahifasining boshlang'ich qismi berilgan.
@@ -142,7 +154,7 @@ def claude(prompt, model=None):
             raise LimitTugadi(oxirgi)      # limit tugagan - qayta urinish behuda
         if n == 0 and len(urinishlar) > 1:
             TEJAMKOR = False               # boshqa mavzularda ham urinib o'tirmaymiz
-            print("    ! tejamkor rejim bu kompyuterda ishlamadi - oddiy rejimga o'tildi")
+            yoz("    ! tejamkor rejim bu kompyuterda ishlamadi - oddiy rejimga o'tildi")
     raise LimitTugadi(oxirgi)
 
 
@@ -232,38 +244,62 @@ def kitob(pdf):
         mf.write_text(json.dumps(mavzular, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"  {len(mavzular)} ta mavzu (model: {model})")
 
-    for k, m in enumerate(mavzular, 1):
+    def bitta_mavzu(k, m):
+        """Bitta mavzuni to'liq ishlaydi. Parallel oqimlarda chaqiriladi."""
+        if TOXTA.is_set():
+            return
         jf = papka / (fayl_nomi(k, m["mavzu"]) + ".json")
         if jf.exists():
-            continue
+            return
         bosh = max(1, int(m["bosh"]))
         oxir = max(bosh, int(m["oxir"]))
         matn = "\n".join(pages[bosh - 1:oxir])[:MAX_MATN]
 
         savollar = []
-        for _ in range(2):  # har darajadan yetarli chiqmasa bir marta qayta urinadi
+        for _ in range(2):  # yetarli chiqmasa bir marta qayta urinadi
             try:
                 javob = claude(TEST_PROMPT.format(sinf=sinf, mavzu=m["mavzu"], n=SAVOL_SONI,
                                                   k=SAVOL_SONI // 3, matn=matn), model)
                 yangi = darajala(tekshir(json_ol(javob)))
             except LimitTugadi:
+                TOXTA.set()            # qolgan oqimlar ham to'xtasin
                 raise
             except Exception as e:
-                print(f"    xato: {e}")
+                yoz(f"    xato: {e}")
                 continue
             if len(yangi) > len(savollar):
                 savollar = yangi
             if yetarlimi(savollar):
                 break
         if not savollar:
-            print(f"    ! [{k}] {m['mavzu']} - o'tkazildi")
-            continue
+            yoz(f"    ! [{k}] {m['mavzu']} - o'tkazildi")
+            return
 
-        jf.write_text(json.dumps({"sinf": sinf, "kitob": pdf.stem, "mavzu": m["mavzu"],
-                                  "savollar": savollar}, ensure_ascii=False, indent=1),
-                      encoding="utf-8")
+        # Fayl to'liq yozilishiga ishonch: avval vaqtinchalik nomga, keyin ko'chiramiz.
+        # Aks holda dastur to'xtab qolsa yarim fayl "tayyor" deb hisoblanardi.
+        vaqt = jf.with_suffix(".yozilmoqda")
+        vaqt.write_text(json.dumps({"sinf": sinf, "kitob": pdf.stem, "mavzu": m["mavzu"],
+                                    "savollar": savollar}, ensure_ascii=False, indent=1),
+                        encoding="utf-8")
         txt_yoz(jf.with_suffix(".txt"), m["mavzu"], savollar)
-        print(f"    [{k}/{len(mavzular)}] {m['mavzu']} - {len(savollar)} ta")
+        vaqt.replace(jf)
+        yoz(f"    [{k}/{len(mavzular)}] {m['mavzu']} - {len(savollar)} ta")
+
+    ish = list(enumerate(mavzular, 1))
+    if PARALLEL > 1:
+        with ThreadPoolExecutor(max_workers=PARALLEL) as ex:
+            natijalar = [ex.submit(bitta_mavzu, k, m) for k, m in ish]
+            limit = None
+            for f in natijalar:
+                try:
+                    f.result()
+                except LimitTugadi as e:
+                    limit = e
+        if limit:
+            raise limit
+    else:
+        for k, m in ish:
+            bitta_mavzu(k, m)
 
     # hamma mavzu tayyor bo'lsa - bitta umumiy fayl
     tayyor = [papka / (fayl_nomi(k, m["mavzu"]) + ".json") for k, m in enumerate(mavzular, 1)]
