@@ -40,7 +40,7 @@ API_MODEL = "claude-sonnet-4-5"  # faqat "api" uchun; joriy nomini docs.claude.c
 SAVOL_SONI = 30                  # 3 ga bo'linadigan son bo'lsin (oson/o'rtacha/qiyin teng)
 MAX_MATN = 40000                 # bitta mavzu uchun yuboriladigan matn uzunligi (belgi)
 YETARLI_FARQ = 2                 # 30 o'rniga 28 ta chiqsa ham qabul qilinadi (qayta so'rov qimmat)
-PARALLEL = 5                     # bir vaqtda nechta mavzu ishlansin (1 = ketma-ket)
+PARALLEL = 3                     # bir vaqtda nechta mavzu ishlansin (1 = ketma-ket)
 # ================================================
 
 DARAJALAR = ["oson", "o'rtacha", "qiyin"]
