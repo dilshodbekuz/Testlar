@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Odobnoma",
+ "mavzu": "Mening bo‘sh vaqtim",
+ "savollar": [
+  {
+   "savol": "Xalqimizda qanday maqol mavjud?",
+   "variantlar": [
+    "Vaqting ketdi — baxting ketdi",
+    "Ish - halol rizq",
+    "Kitob - yaxshi do'st",
+    "Pul - donishmandning sinasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vaqtni ortga qaytarib bo'ladimi?",
+   "variantlar": [
+    "Ha, sa'y qilsak bo'ladi",
+    "Yo'q, bo'lmaydi",
+    "Ba'zan qaytib boradi",
+    "Faqat buyuk kuchga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, yoshlikda nima o'rganish kerak?",
+   "variantlar": [
+    "Faqat uxlash",
+    "Faqat kitob o'qish",
+    "Faqat o'yinlar o'ynash",
+    "Bilim va hunar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Donishmand qanday soatlarni bekor ketgan deb atadi?",
+   "variantlar": [
+    "O'yinlari o'ynaganи",
+    "Kitob o'qiganlari",
+    "Uxlab o'tgan soatlari",
+    "Yaxshilik va ilm o'rganish imkoni bo'la turib qilinmaganlari"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Allomaning fikriga ko'ra, kimki kunini bekor o'tkazsa, nima bilan to'qnashadi?",
+   "variantlar": [
+    "Do'stlariga qiziq",
+    "O'ziga jabr",
+    "Oilasiga o'yki",
+    "Kattalariga ishat"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, dangasa va ishyoqmaslar vaqtni qanday sarflaydi?",
+   "variantlar": [
+    "Savdali qo'llanadi",
+    "Unumli foydalanadi",
+    "Behuda sarflaydi",
+    "To'g'ri qo'llanadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vaqtni to'g'ri taqsimlagan odam nima erishadi?",
+   "variantlar": [
+    "O'ykiga",
+    "Kasallikka",
+    "Ko'p yutuqlarga",
+    "Ranjga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matndagi bo'sh vaqt jadvalidagi mashg'ulotlardan biri qaysi?",
+   "variantlar": [
+    "Kitob o'qish",
+    "Jamoat transportida yo'l olish",
+    "Mashinada haydash",
+    "Ofisda ishash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, yoshlikda bilim olgan odam kelajakda nima topadi?",
+   "variantlar": [
+    "Masalani",
+    "Kasallik",
+    "O'z baxtini",
+    "O'yki"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Allomaning fikriga ko'ra, insoni jabr qiladigan amallarga tegishli emas:",
+   "variantlar": [
+    "Yaxshi amal qilmash",
+    "Insonlarga chiroyli so'z aytish",
+    "Ilm o'rganmaslik",
+    "Kunini bekor o'tkazish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar siz bo'sh vaqtingizda kitob o'qisangiz, bu qanday foyda?",
+   "variantlar": [
+    "Vaqtni behuda sarflash",
+    "Bilim olish",
+    "Kasallik",
+    "O'yki"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, sport bilan shugʻullanish bo'sh vaqtda qanday amal?",
+   "variantlar": [
+    "Isrofi",
+    "Zarar beruvchi",
+    "Behuda vaqt",
+    "Unumli faoliyat"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hunar o'rganish va ilm o'rganish matndagi ma'noda:",
+   "variantlar": [
+    "Qarama-qarshi",
+    "Har xildir",
+    "Ikkalasi kelajakda baxt beradi",
+    "Birlashmasdi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar siz bo'sh vaqtingizda uy ishlariga yordam bersangiz, bu nima?",
+   "variantlar": [
+    "Yaxshi amal",
+    "Kutilmagan",
+    "Behuda vaqt",
+    "Zarar"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bo'sh vaqtda unumliroq nima qilish?",
+   "variantlar": [
+    "Bilim va hunar bilan mashg'ul bo'lish",
+    "Faqat o'ynash",
+    "Hech nima qilmaslik",
+    "Faqat uxlash"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Donishmandning fikriga ko'ra, bekor ketgan soatlardanfoyda ko'rish uchun:",
+   "variantlar": [
+    "Kitobni yopib qo'yish",
+    "Yaxshilik va ilm o'rganishni boshlash kerak",
+    "O'yinni to'xtash",
+    "Ko'proq uxlash"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, yoshlikda undan foydalanib, odam kelajakda nima topadi?",
+   "variantlar": [
+    "Qattalikni",
+    "Masalani",
+    "Kasallikni",
+    "O'z baxtini"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dangasa odam vaqtni qanday ishlatadi?",
+   "variantlar": [
+    "To'g'ri taqsimlab chiqadi",
+    "Yaxshi qadrlab",
+    "Behuda sarflaydi",
+    "Unumli qo'llaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Vaqtning qadrini biling odam bo'sh vaqtida qanday qiladi?",
+   "variantlar": [
+    "Unumli narsalar qiladi",
+    "Behuda vaqt o'tkazadi",
+    "Faqat o'ynaydi",
+    "Hech nima qilmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, \"bekor ketgan soat\" deb qanday soatlarni chaqiradi?",
+   "variantlar": [
+    "Uyda o'tganlari",
+    "Uxlab o'tganlari",
+    "Yaxshilik va ilm o'rganish imkoni bo'la turib qilinmaganlari",
+    "O'yinlari o'ynaganи"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Allomaning fikri va xalq maqoli bir biriga nisbatan nima ko'rsatadi?",
+   "variantlar": [
+    "Pul muhimligini",
+    "Kitob o'qishni",
+    "Vaqtning ahamiyatini",
+    "Sport kerakligini"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yoshlikda bilim va hunar o'rgani, vaqtni to'g'ri taqsimlagan odam kelajakda:",
+   "variantlar": [
+    "Ranj ko'radi",
+    "Dangasa bo'ladi",
+    "Yutuq va baxtga erishadi",
+    "Hech narsaga erisha olmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Bekor ketgan\" va \"unumli qo'llangan\" soatlar orasidagi farq matnga ko'ra:",
+   "variantlar": [
+    "Ikkalasi bir xil",
+    "Birinchi yaxshi",
+    "Farq yo'q",
+    "Birinchi - imkoni bo'la turib qilinmagan, ikkinchi - yaxshilik va ilm o'rganishga sarflangan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Vaqtni qadrlamagan va qadrlaganlar orasida kelajak farqi nima?",
+   "variantlar": [
+    "Ikkalasi yutuqsiz",
+    "Qadrlamagan yutuqsiz, qadrlagani munavaffaq",
+    "Farq yo'q",
+    "Ikkalasi munavaffaq"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Vaqtni to'g'ri taqsimlash zaruriyati matnga ko'ra nima bilan bog'liq?",
+   "variantlar": [
+    "Pul topish",
+    "Kelajakda ko'p yutuqlarga erishish",
+    "Kasallikdan qochish",
+    "Faqat o'ynamaslik"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Vaqtning ortga qaytarilmasligini biling insonda yuzaga keladi:",
+   "variantlar": [
+    "Faqat sportning mas'uliyati",
+    "Faqat o'qishning mas'uliyati",
+    "Undan unumli foydalanish mas'uliyati",
+    "Hechqanday mas'uliyat"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga ko'ra yoshlikdagi vaqt sarflash va kelajakdagi baxt topish o'rtasida:",
+   "variantlar": [
+    "To'g'ri bog'lanish bor",
+    "Hech nima emas",
+    "Teskari bog'lanish",
+    "Bog'lanish yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Vaqti bo'lib, foydalanmaydigan va foydalanayigan ikkita odam uchun kelajak:",
+   "variantlar": [
+    "Farq yo'q",
+    "Bir xil bo'ladi",
+    "Har xil bo'ladi: birinchi yutuqsiz, ikkinchi munavaffaq",
+    "Birinchi yaxshi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bo'sh vaqtda ko'p o'ynashligi matni tomonidan qo'yilmagining sababini toping:",
+   "variantlar": [
+    "Sog'lik zarar ko'radi",
+    "Faqat kitob kerak",
+    "O'yin xavfli",
+    "Vaqtni behuda sarflash charchasiga olib keladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Allomaning fikrida insonni eng ko'p jabr qiluvchi nima?",
+   "variantlar": [
+    "Puli yo'qligiga",
+    "Kasallikka",
+    "Vaqtini behuda sarflamasi, yaxshi amal qilmasligi, ilm o'rganmasligi",
+    "Yolg'iz bo'lishiga"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}
