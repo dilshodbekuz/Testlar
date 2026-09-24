@@ -1,0 +1,10 @@
+# Qator oxirlarini OT bo'yicha to'g'ri saqlash.
+# .command (Mac) faqat LF bilan ishlaydi, .bat (Windows) esa CRLF ni xohlaydi.
+* text=auto
+*.command text eol=lf
+*.sh       text eol=lf
+*.bat      text eol=crlf
+*.py       text
+*.json     text
+*.md       text
+*.txt      text

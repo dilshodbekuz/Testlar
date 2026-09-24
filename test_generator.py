@@ -29,14 +29,35 @@ ASOSIY = Path(__file__).resolve().parent
 KITOBLAR_PAPKASI = ASOSIY / "kitoblar"
 NATIJA_PAPKASI = ASOSIY / "testlar"
 BACKEND = "claude_code"          # "claude_code" yoki "api"
-CLAUDE_MODEL = "sonnet"          # claude_code uchun: "sonnet" limitni tejaydi, "opus" kuchliroq, "" = standart
+# claude_code uchun model. Kichik sinflarda savollar sodda - "haiku" yetarli va
+# limitni ancha tejaydi. Katta sinflarda "qiyin" savollar ko'p qadamli fikrlashni
+# talab qiladi, u yerda "haiku" savollarni bir xil qolipda chiqaradi.
+# Ikkalasini ham bir xil qilmoqchi bo'lsangiz - ikkala qatorga bir xil nom yozing.
+CLAUDE_MODEL = "haiku"           # 3 - 6-sinflar uchun
+KATTA_SINF_MODEL = "sonnet"      # 7-sinf va undan yuqorisi uchun ("opus" kuchliroq)
+KATTA_SINF = 7                   # shu sinfdan boshlab KATTA_SINF_MODEL ishlatiladi
 API_MODEL = "claude-sonnet-4-5"  # faqat "api" uchun; joriy nomini docs.claude.com dan tekshiring
 SAVOL_SONI = 30                  # 3 ga bo'linadigan son bo'lsin (oson/o'rtacha/qiyin teng)
-ISHCHILAR = 3                   # bir vaqtda nechta mavzu qilinadi (tezlik). Limit tez tugasa 2 qiling
 MAX_MATN = 40000                 # bitta mavzu uchun yuboriladigan matn uzunligi (belgi)
+YETARLI_FARQ = 2                 # 30 o'rniga 28 ta chiqsa ham qabul qilinadi (qayta so'rov qimmat)
+PARALLEL = 3                     # bir vaqtda nechta mavzu ishlansin (1 = ketma-ket)
 # ================================================
 
 DARAJALAR = ["oson", "o'rtacha", "qiyin"]
+
+# claude_code uchun qisqa tizim prompti. Claude Code'ning o'z tizim prompti va
+# tool ta'riflari ~39 000 token tutadi; bu yerda ular kerak emas, shuning uchun
+# --tools "" va --system-prompt bilan almashtiriladi (~1 100 tokenga tushadi).
+TIZIM_PROMPT = ("Siz o'zbek maktabining tajribali o'qituvchisisiz. "
+                "Sizdan so'ralgan JSON ma'lumotni qaytaring - "
+                "izoh, sarlavha yoki kod bloki belgisisiz, faqat JSON.")
+
+TEJAMKOR_BAYROQLAR = ["--tools", "",
+                      "--system-prompt", TIZIM_PROMPT,
+                      "--strict-mcp-config",
+                      "--setting-sources", "",
+                      "--no-session-persistence"]
+TEJAMKOR = True                  # ishlamasa dastur o'zi False ga o'tkazadi
 
 try:
     sys.stdout.reconfigure(encoding="utf-8")
@@ -48,15 +69,13 @@ class LimitTugadi(Exception):
     pass
 
 
-TOXTA = threading.Event()
-_QULF = threading.Lock()
+_CHOP = threading.Lock()         # parallel oqimlar yozuvi aralashmasligi uchun
+TOXTA = threading.Event()        # limit tugasa - qolganlari darrov to'xtaydi
 
 
-def yoz(matn):
-    with _QULF:
-        print(matn, flush=True)
-
-XABAR = []
+def yoz(*a):
+    with _CHOP:
+        print(*a, flush=True)
 
 
 MAVZU_PROMPT = """Quyida darslikning har bir PDF sahifasining boshlang'ich qismi berilgan.
@@ -86,7 +105,16 @@ MATN:
 {matn}"""
 
 
-def claude(prompt):
+def model_tanla(sinf):
+    """"7-sinf" kabi nomdan raqamni ajratib, mos modelni qaytaradi."""
+    raqam = re.match(r"\s*(\d+)", str(sinf))
+    if raqam and int(raqam.group(1)) >= KATTA_SINF:
+        return KATTA_SINF_MODEL
+    return CLAUDE_MODEL
+
+
+def claude(prompt, model=None):
+    model = model or CLAUDE_MODEL
     if BACKEND == "api":
         import anthropic
         r = anthropic.Anthropic().messages.create(
@@ -101,14 +129,33 @@ def claude(prompt):
     # Shuning uchun uni olib tashlaymiz - faqat claude.ai obunangiz ishlatiladi.
     env = {k: v for k, v in os.environ.items()
            if k not in ("ANTHROPIC_API_KEY", "ANTHROPIC_AUTH_TOKEN")}
-    cmd = [exe, "-p"] + (["--model", CLAUDE_MODEL] if CLAUDE_MODEL else [])
-    r = subprocess.run(cmd, input=prompt, capture_output=True, text=True,
-                       encoding="utf-8", errors="replace", timeout=1200,
-                       cwd=tempfile.gettempdir(), env=env)
-    out = r.stdout or ""
-    if r.returncode != 0 or (len(out) < 400 and re.search(r"limit", out, re.I)):
-        raise LimitTugadi((out + (r.stderr or ""))[-500:])
-    return out
+    model_bayrogi = ["--model", model] if model else []
+
+    # 1-urinish: tokenni tejaydigan bayroqlar bilan (tool ta'riflari, MCP
+    # serverlar, sozlama fayllari va uzun standart tizim prompti yuborilmaydi -
+    # bitta so'rov ~39 500 token o'rniga ~1 100 tokenga tushadi).
+    # 2-urinish: agar ular ishlamasa (eski Claude Code versiyasi yoki Windows'da
+    # bo'sh matnli bayroq muammosi) - oddiy usulda, dastur to'xtab qolmasin.
+    global TEJAMKOR
+    urinishlar = [TEJAMKOR_BAYROQLAR + model_bayrogi] if TEJAMKOR else []
+    urinishlar.append(model_bayrogi)
+
+    oxirgi = None
+    for n, qoshimcha in enumerate(urinishlar):
+        r = subprocess.run([exe, "-p"] + qoshimcha, input=prompt,
+                           capture_output=True, text=True, encoding="utf-8",
+                           errors="replace", timeout=1200,
+                           cwd=tempfile.gettempdir(), env=env)
+        out = r.stdout or ""
+        oxirgi = (out + (r.stderr or ""))[-500:]
+        if r.returncode == 0 and out.strip():
+            return out
+        if re.search(r"limit|usage", oxirgi, re.I) and len(out) < 400:
+            raise LimitTugadi(oxirgi)      # limit tugagan - qayta urinish behuda
+        if n == 0 and len(urinishlar) > 1:
+            TEJAMKOR = False               # boshqa mavzularda ham urinib o'tirmaymiz
+            yoz("    ! tejamkor rejim bu kompyuterda ishlamadi - oddiy rejimga o'tildi")
+    raise LimitTugadi(oxirgi)
 
 
 def json_ol(matn):
@@ -149,8 +196,9 @@ def darajala(savollar):
 
 
 def yetarlimi(savollar):
-    k = SAVOL_SONI // 3
-    return all(sum(s["qiyinlik"] == d for s in savollar) >= k for d in DARAJALAR)
+    # Bitta-ikkita savol yetmasa ham qabul qilamiz: butun so'rovni qaytadan
+    # yuborish bitta savolga arzimaydi.
+    return len(savollar) >= SAVOL_SONI - YETARLI_FARQ
 
 
 def txt_yoz(yol, mavzu, savollar):
@@ -180,6 +228,7 @@ def kitob(pdf):
     papka = natija_papkasi(pdf)
     papka.mkdir(parents=True, exist_ok=True)
     sinf = pdf.relative_to(KITOBLAR_PAPKASI).parts[0]
+    model = model_tanla(sinf)
     pages = sahifalar(pdf)
     if sum(len(p.strip()) for p in pages) < 2000:
         print("  ! matn topilmadi (skaner PDF?) - o'tkazildi")
@@ -190,11 +239,13 @@ def kitob(pdf):
         mavzular = json.loads(mf.read_text(encoding="utf-8"))
     else:
         xarita = "\n".join(f"=== SAHIFA {i + 1} ===\n{p.strip()[:250]}" for i, p in enumerate(pages))
-        mavzular = json_ol(claude(MAVZU_PROMPT + xarita))
+        # Mavzularni ajratish oddiy ish - eng arzon model bilan.
+        mavzular = json_ol(claude(MAVZU_PROMPT + xarita, CLAUDE_MODEL))
         mf.write_text(json.dumps(mavzular, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"  {len(mavzular)} ta mavzu")
+    print(f"  {len(mavzular)} ta mavzu (model: {model})")
 
-    def bitta(k, m):
+    def bitta_mavzu(k, m):
+        """Bitta mavzuni to'liq ishlaydi. Parallel oqimlarda chaqiriladi."""
         if TOXTA.is_set():
             return
         jf = papka / (fayl_nomi(k, m["mavzu"]) + ".json")
@@ -205,15 +256,14 @@ def kitob(pdf):
         matn = "\n".join(pages[bosh - 1:oxir])[:MAX_MATN]
 
         savollar = []
-        for _ in range(2):  # har darajadan yetarli chiqmasa bir marta qayta urinadi
+        for _ in range(2):  # yetarli chiqmasa bir marta qayta urinadi
             try:
                 javob = claude(TEST_PROMPT.format(sinf=sinf, mavzu=m["mavzu"], n=SAVOL_SONI,
-                                                  k=SAVOL_SONI // 3, matn=matn))
+                                                  k=SAVOL_SONI // 3, matn=matn), model)
                 yangi = darajala(tekshir(json_ol(javob)))
-            except LimitTugadi as e:
-                TOXTA.set()
-                XABAR.append(str(e))
-                return
+            except LimitTugadi:
+                TOXTA.set()            # qolgan oqimlar ham to'xtasin
+                raise
             except Exception as e:
                 yoz(f"    xato: {e}")
                 continue
@@ -225,16 +275,31 @@ def kitob(pdf):
             yoz(f"    ! [{k}] {m['mavzu']} - o'tkazildi")
             return
 
-        jf.write_text(json.dumps({"sinf": sinf, "kitob": pdf.stem, "mavzu": m["mavzu"],
-                                  "savollar": savollar}, ensure_ascii=False, indent=1),
-                      encoding="utf-8")
+        # Fayl to'liq yozilishiga ishonch: avval vaqtinchalik nomga, keyin ko'chiramiz.
+        # Aks holda dastur to'xtab qolsa yarim fayl "tayyor" deb hisoblanardi.
+        vaqt = jf.with_suffix(".yozilmoqda")
+        vaqt.write_text(json.dumps({"sinf": sinf, "kitob": pdf.stem, "mavzu": m["mavzu"],
+                                    "savollar": savollar}, ensure_ascii=False, indent=1),
+                        encoding="utf-8")
         txt_yoz(jf.with_suffix(".txt"), m["mavzu"], savollar)
+        vaqt.replace(jf)
         yoz(f"    [{k}/{len(mavzular)}] {m['mavzu']} - {len(savollar)} ta")
 
-    with ThreadPoolExecutor(ISHCHILAR) as ex:
-        list(ex.map(lambda km: bitta(*km), enumerate(mavzular, 1)))
-    if TOXTA.is_set():
-        raise LimitTugadi(XABAR[0] if XABAR else '')
+    ish = list(enumerate(mavzular, 1))
+    if PARALLEL > 1:
+        with ThreadPoolExecutor(max_workers=PARALLEL) as ex:
+            natijalar = [ex.submit(bitta_mavzu, k, m) for k, m in ish]
+            limit = None
+            for f in natijalar:
+                try:
+                    f.result()
+                except LimitTugadi as e:
+                    limit = e
+        if limit:
+            raise limit
+    else:
+        for k, m in ish:
+            bitta_mavzu(k, m)
 
     # hamma mavzu tayyor bo'lsa - bitta umumiy fayl
     tayyor = [papka / (fayl_nomi(k, m["mavzu"]) + ".json") for k, m in enumerate(mavzular, 1)]

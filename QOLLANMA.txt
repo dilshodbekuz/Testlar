@@ -6,13 +6,20 @@ TEST GENERATOR - QO'LLANMA
    (Fan bo'yicha qo'shimcha ichki papka bo'lsa ham bo'ladi.)
 
 2) Ishga tushirish - 2 yo'l:
+   (Windows'da .bat fayllar, Mac'da .command fayllar - qolgani bir xil.)
 
-   A) ENG OSON: "ishga_tushir.bat" ni ikki marta bosing.
+   A) ENG OSON: "ishga_tushir.bat" (Mac: "ishga_tushir.command") ni ikki marta bosing.
       Faqat bitta sinf: terminalda  ishga_tushir.bat 7-sinf
+      Mac'da:                       ./ishga_tushir.command 7-sinf
+      Holatni ko'rish: "holat.bat" / "holat.command".
 
-   B) Claude Code orqali: AVVAL bir marta "sozlash.bat" ni ikki marta bosing
-      (buyruqlarni .claude papkasiga o'rnatadi). Keyin shu papkada terminal ochib
-      claude  deb yozing va:
+      Mac'da birinchi marta "ruxsat yo'q" desa, papkada terminal ochib bir marta:
+        chmod +x *.command
+      Mac "noma'lum dasturchi" desa: faylga o'ng tugma -> Open -> Open.
+
+   B) Claude Code orqali: AVVAL bir marta "sozlash.bat" (Mac: "sozlash.command") ni
+      ikki marta bosing (buyruqlarni .claude papkasiga o'rnatadi). Keyin shu papkada
+      terminal ochib  claude  deb yozing va:
         /boshla            - hamma kitoblar
         /boshla 7-sinf     - faqat 7-sinf
         /holat             - qancha tayyor
@@ -26,5 +33,9 @@ TEST GENERATOR - QO'LLANMA
      001_<mavzu>.json  - saytga yuklash uchun
      _TOLIQ.json       - kitobdagi hamma mavzular bitta faylda
 
-Talablar: Python, Claude Code (terminalda "claude" ishlashi kerak).
+5) Tezlik: dastur bir vaqtda 3 ta mavzuni ishlaydi. Sekinlashtirish yoki
+   tezlatish kerak bo'lsa test_generator.py boshidagi PARALLEL sonini
+   o'zgartiring (1 = ketma-ket, eski holat).
+
+Talablar: Python (Mac'da python3), Claude Code (terminalda "claude" ishlashi kerak).
 Sozlamalar test_generator.py boshida (savol soni, model).
