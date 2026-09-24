@@ -248,12 +248,21 @@ def kitob(pdf):
         return
 
     mf = papka / "_mavzular.json"
+    mavzular = []
     if mf.exists():
-        mavzular = json.loads(mf.read_text(encoding="utf-8"))
-    else:
+        try:
+            mavzular = json.loads(mf.read_text(encoding="utf-8"))
+        except Exception:
+            mavzular = []              # buzuq fayl - qaytadan aniqlaymiz
+    if not mavzular:
         xarita = "\n".join(f"=== SAHIFA {i + 1} ===\n{p.strip()[:250]}" for i, p in enumerate(pages))
         # Mavzularni ajratish oddiy ish - eng arzon model bilan.
         mavzular = json_ol(claude(MAVZU_PROMPT + xarita, CLAUDE_MODEL))
+        # Bo'sh ro'yxatni SAQLAMAYMIZ: aks holda kitob abadiy 0 mavzuda qolardi
+        # va keyingi ishga tushirishlarda qayta urinilmasdi.
+        if not mavzular:
+            print("  ! mavzular aniqlanmadi - o'tkazildi (keyingi safar qayta urinadi)")
+            return
         mf.write_text(json.dumps(mavzular, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"  {len(mavzular)} ta mavzu (model: {model})")
 
