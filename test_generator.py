@@ -20,6 +20,8 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import threading
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 # ================== SOZLAMALAR ==================
@@ -30,6 +32,7 @@ BACKEND = "claude_code"          # "claude_code" yoki "api"
 CLAUDE_MODEL = "sonnet"          # claude_code uchun: "sonnet" limitni tejaydi, "opus" kuchliroq, "" = standart
 API_MODEL = "claude-sonnet-4-5"  # faqat "api" uchun; joriy nomini docs.claude.com dan tekshiring
 SAVOL_SONI = 30                  # 3 ga bo'linadigan son bo'lsin (oson/o'rtacha/qiyin teng)
+ISHCHILAR = 3                   # bir vaqtda nechta mavzu qilinadi (tezlik). Limit tez tugasa 2 qiling
 MAX_MATN = 40000                 # bitta mavzu uchun yuboriladigan matn uzunligi (belgi)
 # ================================================
 
@@ -43,6 +46,17 @@ except Exception:
 
 class LimitTugadi(Exception):
     pass
+
+
+TOXTA = threading.Event()
+_QULF = threading.Lock()
+
+
+def yoz(matn):
+    with _QULF:
+        print(matn, flush=True)
+
+XABAR = []
 
 
 MAVZU_PROMPT = """Quyida darslikning har bir PDF sahifasining boshlang'ich qismi berilgan.
@@ -180,10 +194,12 @@ def kitob(pdf):
         mf.write_text(json.dumps(mavzular, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"  {len(mavzular)} ta mavzu")
 
-    for k, m in enumerate(mavzular, 1):
+    def bitta(k, m):
+        if TOXTA.is_set():
+            return
         jf = papka / (fayl_nomi(k, m["mavzu"]) + ".json")
         if jf.exists():
-            continue
+            return
         bosh = max(1, int(m["bosh"]))
         oxir = max(bosh, int(m["oxir"]))
         matn = "\n".join(pages[bosh - 1:oxir])[:MAX_MATN]
@@ -194,24 +210,31 @@ def kitob(pdf):
                 javob = claude(TEST_PROMPT.format(sinf=sinf, mavzu=m["mavzu"], n=SAVOL_SONI,
                                                   k=SAVOL_SONI // 3, matn=matn))
                 yangi = darajala(tekshir(json_ol(javob)))
-            except LimitTugadi:
-                raise
+            except LimitTugadi as e:
+                TOXTA.set()
+                XABAR.append(str(e))
+                return
             except Exception as e:
-                print(f"    xato: {e}")
+                yoz(f"    xato: {e}")
                 continue
             if len(yangi) > len(savollar):
                 savollar = yangi
             if yetarlimi(savollar):
                 break
         if not savollar:
-            print(f"    ! [{k}] {m['mavzu']} - o'tkazildi")
-            continue
+            yoz(f"    ! [{k}] {m['mavzu']} - o'tkazildi")
+            return
 
         jf.write_text(json.dumps({"sinf": sinf, "kitob": pdf.stem, "mavzu": m["mavzu"],
                                   "savollar": savollar}, ensure_ascii=False, indent=1),
                       encoding="utf-8")
         txt_yoz(jf.with_suffix(".txt"), m["mavzu"], savollar)
-        print(f"    [{k}/{len(mavzular)}] {m['mavzu']} - {len(savollar)} ta")
+        yoz(f"    [{k}/{len(mavzular)}] {m['mavzu']} - {len(savollar)} ta")
+
+    with ThreadPoolExecutor(ISHCHILAR) as ex:
+        list(ex.map(lambda km: bitta(*km), enumerate(mavzular, 1)))
+    if TOXTA.is_set():
+        raise LimitTugadi(XABAR[0] if XABAR else '')
 
     # hamma mavzu tayyor bo'lsa - bitta umumiy fayl
     tayyor = [papka / (fayl_nomi(k, m["mavzu"]) + ".json") for k, m in enumerate(mavzular, 1)]
