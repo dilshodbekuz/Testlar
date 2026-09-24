@@ -49,6 +49,13 @@ TIZIM_PROMPT = ("Siz o'zbek maktabining tajribali o'qituvchisisiz. "
                 "Sizdan so'ralgan JSON ma'lumotni qaytaring - "
                 "izoh, sarlavha yoki kod bloki belgisisiz, faqat JSON.")
 
+TEJAMKOR_BAYROQLAR = ["--tools", "",
+                      "--system-prompt", TIZIM_PROMPT,
+                      "--strict-mcp-config",
+                      "--setting-sources", "",
+                      "--no-session-persistence"]
+TEJAMKOR = True                  # ishlamasa dastur o'zi False ga o'tkazadi
+
 try:
     sys.stdout.reconfigure(encoding="utf-8")
 except Exception:
@@ -110,22 +117,33 @@ def claude(prompt, model=None):
     # Shuning uchun uni olib tashlaymiz - faqat claude.ai obunangiz ishlatiladi.
     env = {k: v for k, v in os.environ.items()
            if k not in ("ANTHROPIC_API_KEY", "ANTHROPIC_AUTH_TOKEN")}
-    # Tokenni tejaydigan bayroqlar: tool ta'riflari, MCP serverlar, sozlama
-    # fayllari va uzun standart tizim prompti yuborilmaydi.
-    cmd = [exe, "-p",
-           "--tools", "",
-           "--system-prompt", TIZIM_PROMPT,
-           "--strict-mcp-config",
-           "--setting-sources", "",
-           "--no-session-persistence"]
-    cmd += ["--model", model] if model else []
-    r = subprocess.run(cmd, input=prompt, capture_output=True, text=True,
-                       encoding="utf-8", errors="replace", timeout=1200,
-                       cwd=tempfile.gettempdir(), env=env)
-    out = r.stdout or ""
-    if r.returncode != 0 or (len(out) < 400 and re.search(r"limit", out, re.I)):
-        raise LimitTugadi((out + (r.stderr or ""))[-500:])
-    return out
+    model_bayrogi = ["--model", model] if model else []
+
+    # 1-urinish: tokenni tejaydigan bayroqlar bilan (tool ta'riflari, MCP
+    # serverlar, sozlama fayllari va uzun standart tizim prompti yuborilmaydi -
+    # bitta so'rov ~39 500 token o'rniga ~1 100 tokenga tushadi).
+    # 2-urinish: agar ular ishlamasa (eski Claude Code versiyasi yoki Windows'da
+    # bo'sh matnli bayroq muammosi) - oddiy usulda, dastur to'xtab qolmasin.
+    global TEJAMKOR
+    urinishlar = [TEJAMKOR_BAYROQLAR + model_bayrogi] if TEJAMKOR else []
+    urinishlar.append(model_bayrogi)
+
+    oxirgi = None
+    for n, qoshimcha in enumerate(urinishlar):
+        r = subprocess.run([exe, "-p"] + qoshimcha, input=prompt,
+                           capture_output=True, text=True, encoding="utf-8",
+                           errors="replace", timeout=1200,
+                           cwd=tempfile.gettempdir(), env=env)
+        out = r.stdout or ""
+        oxirgi = (out + (r.stderr or ""))[-500:]
+        if r.returncode == 0 and out.strip():
+            return out
+        if re.search(r"limit|usage", oxirgi, re.I) and len(out) < 400:
+            raise LimitTugadi(oxirgi)      # limit tugagan - qayta urinish behuda
+        if n == 0 and len(urinishlar) > 1:
+            TEJAMKOR = False               # boshqa mavzularda ham urinib o'tirmaymiz
+            print("    ! tejamkor rejim bu kompyuterda ishlamadi - oddiy rejimga o'tildi")
+    raise LimitTugadi(oxirgi)
 
 
 def json_ol(matn):
