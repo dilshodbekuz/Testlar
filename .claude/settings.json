@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python test_generator.py:*)",
+      "Bash(python -m pip install:*)",
+      "Bash(pip install:*)",
+      "Read(testlar/**)"
+    ],
+    "deny": [
+      "Read(kitoblar/**/*.pdf)"
+    ]
+  }
+}

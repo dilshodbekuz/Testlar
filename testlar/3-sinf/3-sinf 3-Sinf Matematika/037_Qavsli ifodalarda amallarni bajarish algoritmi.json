@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Matematika",
+ "mavzu": "Qavsli ifodalarda amallarni bajarish algoritmi",
+ "savollar": [
+  {
+   "savol": "Qavsli ifodada amallar qaysi tartibda bajariladi?",
+   "variantlar": [
+    "Avval eng oxirgi amal bajariladi",
+    "Avval qavsdan tashqaridagi amal bajariladi",
+    "Avval qavs ichidagi amal bajariladi",
+    "Amallar tartibi bo'lmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "8 + (5 – 2) ifodada birinchi bo'lib qaysi amal bajariladi?",
+   "variantlar": [
+    "8 – 2",
+    "8 + 5",
+    "Hammasi birdan",
+    "5 – 2"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qavssiz ifodada qo'shish, ayirish, ko'paytirish va bo'lish bo'lsa, avval qaysi amallar bajariladi?",
+   "variantlar": [
+    "Qo'shish va ayirish",
+    "Faqat qo'shish",
+    "Ko'paytirish va bo'lish",
+    "Faqat ayirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qavssiz ifodada faqat qo'shish va ayirish bo'lsa, amallar qanday tartibda bajariladi?",
+   "variantlar": [
+    "Tasodifiy tartibda",
+    "Chapdan o'ngga",
+    "O'ngdan chapga",
+    "Ayirish avval, qo'shish keyin"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "10 – (4 + 3) ifodada qavs ichida qaysi amal bor?",
+   "variantlar": [
+    "Ayirish",
+    "Ko'paytirish",
+    "Bo'lish",
+    "Qo'shish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qavslar ifodada nima uchun qo'yiladi?",
+   "variantlar": [
+    "Sonlarni chiroyli qilish uchun",
+    "Amallarni o'chirish uchun",
+    "Javobni kattalashtirish uchun",
+    "Amallar tartibini o'zgartirish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "20 : 4 · 5 ifodada birinchi bo'lib qaysi amal bajariladi?",
+   "variantlar": [
+    "20 – 4",
+    "Ikkalasi birdan",
+    "20 : 4",
+    "4 · 5"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "240 – 120 : (3 + 9) ifodada birinchi bo'lib nima bajariladi?",
+   "variantlar": [
+    "3 + 9",
+    "120 : 3",
+    "240 : 3",
+    "240 – 120"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "6 + 4 · 2 ifodada birinchi bo'lib qaysi amal bajariladi?",
+   "variantlar": [
+    "6 · 2",
+    "Qo'shish",
+    "6 + 4",
+    "4 · 2"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(6 + 4) – 3 ifodaning qiymati nechaga teng?",
+   "variantlar": [
+    "13",
+    "10",
+    "7",
+    "5"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "870 – (36 – 9) + 23 ifodaning qiymatini toping.",
+   "variantlar": [
+    "902",
+    "820",
+    "866",
+    "858"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "870 – 36 – (9 + 23) ifodaning qiymatini toping.",
+   "variantlar": [
+    "768",
+    "802",
+    "834",
+    "866"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(240 – 120) : 3 + 9 ifodaning qiymatini toping.",
+   "variantlar": [
+    "129",
+    "31",
+    "40",
+    "49"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "240 – 120 : (3 + 9) ifodaning qiymatini toping.",
+   "variantlar": [
+    "10",
+    "230",
+    "40",
+    "10"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "324 + x = 240 · 3 tenglamada x nechaga teng?",
+   "variantlar": [
+    "720",
+    "396",
+    "396 + 324",
+    "404"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "143 · 6 = 429 + x tenglamada x nechaga teng?",
+   "variantlar": [
+    "286",
+    "572",
+    "858",
+    "429"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ustun shaklida 458 + 527 ni hisoblang.",
+   "variantlar": [
+    "995",
+    "975",
+    "985",
+    "1085"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ustun shaklida 931 – 568 ni hisoblang.",
+   "variantlar": [
+    "463",
+    "363",
+    "453",
+    "373"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "720 – 80 : (20 + 20) ifodaning qiymatini toping.",
+   "variantlar": [
+    "718",
+    "52",
+    "16",
+    "702"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Vertolyot 100 km masofaga 20 litr yoqilg'i sarflaydi. U 225 km masofaga uchishi uchun necha litr yoqilg'i sarflaydi?",
+   "variantlar": [
+    "45 litr",
+    "50 litr",
+    "55 litr",
+    "40 litr"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Toshkentdan «Neksiya» 80 km/soat tezlikda Samarqandgacha 320 km yo'l yuradi. Buxorodan «Matiz» 70 km/soat tezlikda Samarqandgacha 280 km yo'l yuradi. Qaysi avtomobil manzilga avval yetib keladi?",
+   "variantlar": [
+    "«Neksiya» avval yetadi",
+    "Ikkalasi bir vaqtda yetadi",
+    "Aniqlab bo'lmaydi",
+    "«Matiz» avval yetadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Birinchi o'ramda 176 m, ikkinchi o'ramda 144 m sim bor. Uchinchisida esa har ikkala o'ramda qancha bo'lsa, shundan 4 marta kam. Hamma o'ramda necha metr sim bor?",
+   "variantlar": [
+    "320 m",
+    "400 m",
+    "384 m",
+    "480 m"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Birinchi o'ramda 176 m, ikkinchi o'ramda 144 m sim bor. Uchinchi o'ramda ikkalasining yig'indisidan 4 marta kam sim bor. Uchinchi o'ramda necha metr sim bor?",
+   "variantlar": [
+    "80 m",
+    "90 m",
+    "40 m",
+    "70 m"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "720 – 80 : 20 + 20 = 52 tenglik to'g'ri bo'lishi uchun qavslarni qanday qo'yish kerak?",
+   "variantlar": [
+    "720 – 80 : (20 + 20)",
+    "(720 – 80) : 20 + 20",
+    "720 – (80 : 20 + 20)",
+    "720 – (80 : 20) + 20"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Neksiya» 80 km/soat, «Matiz» 70 km/soat tezlikda yursa, ikkalasi 2 soatda jami necha kilometr yo'l yuradi?",
+   "variantlar": [
+    "320 km",
+    "150 km",
+    "280 km",
+    "300 km"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "870 – (36 – 9) + 23 ifodaning qiymati 870 – 36 – (9 + 23) ifodaning qiymatidan qancha ko'p?",
+   "variantlar": [
+    "74",
+    "54",
+    "64",
+    "24"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(240 – 120) : 3 + 9 va 240 – 120 : (3 + 9) ifodalar qiymatlarining yig'indisini toping.",
+   "variantlar": [
+    "289",
+    "59",
+    "279",
+    "269"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "324 + x = 240 · 3 va 143 · 6 = 429 + x tenglamalardagi noma'lumlarning yig'indisi nechaga teng?",
+   "variantlar": [
+    "835",
+    "815",
+    "825",
+    "725"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Vertolyot 100 km ga 20 litr sarflasa, 225 km ga uchishi uchun 100 km ga uchgandagidan necha litr ko'p yoqilg'i sarflaydi?",
+   "variantlar": [
+    "35 litr",
+    "45 litr",
+    "25 litr",
+    "20 litr"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ustun shaklida 931 – 568 va 870 – 489 ayirmalarini toping. Ularning yig'indisi nechaga teng?",
+   "variantlar": [
+    "734",
+    "744",
+    "754",
+    "844"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

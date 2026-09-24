@@ -1,0 +1,30 @@
+TEST GENERATOR - QO'LLANMA
+==========================
+
+1) PDF kitoblarni joylang:
+   kitoblar\3-sinf\  ...  kitoblar\11-sinf\  papkalariga har bir fan kitobini tashlang.
+   (Fan bo'yicha qo'shimcha ichki papka bo'lsa ham bo'ladi.)
+
+2) Ishga tushirish - 2 yo'l:
+
+   A) ENG OSON: "ishga_tushir.bat" ni ikki marta bosing.
+      Faqat bitta sinf: terminalda  ishga_tushir.bat 7-sinf
+
+   B) Claude Code orqali: AVVAL bir marta "sozlash.bat" ni ikki marta bosing
+      (buyruqlarni .claude papkasiga o'rnatadi). Keyin shu papkada terminal ochib
+      claude  deb yozing va:
+        /boshla            - hamma kitoblar
+        /boshla 7-sinf     - faqat 7-sinf
+        /holat             - qancha tayyor
+        /tekshir Fizika    - sifatini namunadan tekshirish
+
+3) Limit tugasa dastur o'zi to'xtaydi. Keyinroq yana ishga tushiring -
+   tayyorlari o'tkazib yuboriladi, qolgan joyidan davom etadi.
+
+4) Natija: testlar\<sinf>\<kitob>\
+     001_<mavzu>.txt   - o'qish uchun (to'g'ri javob oldida "+")
+     001_<mavzu>.json  - saytga yuklash uchun
+     _TOLIQ.json       - kitobdagi hamma mavzular bitta faylda
+
+Talablar: Python, Claude Code (terminalda "claude" ishlashi kerak).
+Sozlamalar test_generator.py boshida (savol soni, model).

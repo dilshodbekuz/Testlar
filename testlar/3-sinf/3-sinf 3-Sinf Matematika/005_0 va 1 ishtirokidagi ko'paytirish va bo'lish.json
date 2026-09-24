@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Matematika",
+ "mavzu": "0 va 1 ishtirokidagi ko'paytirish va bo'lish",
+ "savollar": [
+  {
+   "savol": "Nolni istalgan songa ko'paytirsak, nima hosil bo'ladi?",
+   "variantlar": [
+    "Hech narsa chiqmaydi",
+    "O'sha son",
+    "0",
+    "1"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nolni noldan farqli songa bo'lsak, nima hosil bo'ladi?",
+   "variantlar": [
+    "O'sha son",
+    "0",
+    "1",
+    "Bo'lib bo'lmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Istalgan sonni 1 ga ko'paytirsak, nima hosil bo'ladi?",
+   "variantlar": [
+    "O'sha son",
+    "0",
+    "Son ikki marta ortadi",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Istalgan sonni 1 ga bo'lsak, nima hosil bo'ladi?",
+   "variantlar": [
+    "O'sha son",
+    "Bo'lib bo'lmaydi",
+    "1",
+    "0"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Noldan farqli sonni o'ziga bo'lsak, nima hosil bo'ladi?",
+   "variantlar": [
+    "2",
+    "O'sha son",
+    "0",
+    "1"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nolga bo'lish haqida qaysi gap to'g'ri?",
+   "variantlar": [
+    "Nolga bo'lganda 1 chiqadi",
+    "Nolga bo'lish mumkin emas",
+    "Nolga bo'lganda 0 chiqadi",
+    "Nolga bo'lganda son o'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "3 · 2 = 2 · 3 = ?",
+   "variantlar": [
+    "9",
+    "6",
+    "5",
+    "8"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'paytuvchilarning o'rin almashtirish xossasi qaysi gapda to'g'ri ifodalangan?",
+   "variantlar": [
+    "Ko'paytuvchilar o'rni almashtirilsa, ko'paytma ikki marta ortadi",
+    "Ko'paytuvchilar o'rni almashtirilsa, ko'paytma kamayadi",
+    "Ko'paytuvchilar o'rni almashtirilsa, ko'paytma o'zgarmaydi",
+    "Ko'paytuvchilar o'rni almashtirilsa, ko'paytma 0 bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "0 : 4 = ?",
+   "variantlar": [
+    "1",
+    "4",
+    "Bo'lib bo'lmaydi",
+    "0"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "3 · 4 = 4 · 3 = ?",
+   "variantlar": [
+    "14",
+    "7",
+    "12",
+    "10"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(98 – 45) · 0 + 450 ifodaning qiymatini toping.",
+   "variantlar": [
+    "450",
+    "53",
+    "503",
+    "0"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "0 · (620 – 260) + 500 ifodaning qiymatini toping.",
+   "variantlar": [
+    "360",
+    "0",
+    "860",
+    "500"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(740 – 420) : 1 + 24 ifodaning qiymatini toping.",
+   "variantlar": [
+    "296",
+    "344",
+    "320",
+    "24"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "53 : (37 + 16) : 1 ifodaning qiymatini toping.",
+   "variantlar": [
+    "53",
+    "1",
+    "16",
+    "0"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "42 : 6 + 0 : 3 + 58 ifodaning qiymatini toping.",
+   "variantlar": [
+    "65",
+    "100",
+    "72",
+    "58"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(63 : 7 + 8 · 6) : 57 ifodaning qiymatini toping.",
+   "variantlar": [
+    "0",
+    "57",
+    "1",
+    "9"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "9 · 5 + 9 : (67 – 58) ifodaning qiymatini toping.",
+   "variantlar": [
+    "45",
+    "46",
+    "54",
+    "9"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(560 – 480) · 0 + 74 ifodaning qiymatini toping.",
+   "variantlar": [
+    "0",
+    "154",
+    "80",
+    "74"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 · (830 – 830) + 86 ifodaning qiymatini toping.",
+   "variantlar": [
+    "86",
+    "0",
+    "916",
+    "830"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Yulduzcha» ko'rik-tanlovida 340 ta ishtirokchi qatnashdi. Har biri bittadan sahna ko'rinishi taqdim etdi. Nechta sahna ko'rinishi namoyish etilgan?",
+   "variantlar": [
+    "34",
+    "341",
+    "1",
+    "340"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yig'indisi ham, ko'paytmasi ham teng bo'lgan uchta sonni toping.",
+   "variantlar": [
+    "2, 3, 4",
+    "1, 2, 3",
+    "2, 2, 2",
+    "1, 1, 2"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tomoni 1 cm bo'lgan kvadratlardan bo'yi 1 cm, eni 12 cm bo'lgan tasma hosil qilindi. Ikki chetdagi kvadratlarning markazlari kesma bilan birlashtirildi. Kesma uzunligi necha cm?",
+   "variantlar": [
+    "13 cm",
+    "10 cm",
+    "11 cm",
+    "12 cm"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tomoni 1 cm bo'lgan kvadratlardan bo'yi 1 cm, eni 20 cm bo'lgan tasma hosil qilindi. Ikki chetdagi kvadratlarning markazlarini birlashtiruvchi kesma necha cm?",
+   "variantlar": [
+    "21 cm",
+    "18 cm",
+    "19 cm",
+    "20 cm"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "0 : 4 + (72 + 35) – (98 – 45) · 0 ifodaning qiymatini toping.",
+   "variantlar": [
+    "53",
+    "107",
+    "0",
+    "160"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(560 – 480) · 0 + 74 + 1 · (830 – 830) + 86 ifodaning qiymatini toping.",
+   "variantlar": [
+    "240",
+    "160",
+    "86",
+    "74"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi ifodaning qiymati 0 ga teng emas?",
+   "variantlar": [
+    "0 · 15",
+    "0 : 15",
+    "15 : 15",
+    "(15 – 15) · 9"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Biror son 1 ga ko'paytirilganda 68 chiqdi. Shu son 1 ga bo'linsa, necha bo'ladi?",
+   "variantlar": [
+    "69",
+    "0",
+    "68",
+    "1"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir son 0 ga ko'paytirildi, natijaga 38 qo'shildi. Yakuniy natija necha?",
+   "variantlar": [
+    "38",
+    "76",
+    "0",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tanlovda 340 ta ishtirokchi ro'yxatdan o'tgan, har biri bittadan sahna ko'rinishi tayyorlagan. Ulardan 40 tasi kelmadi. Nechta sahna ko'rinishi namoyish etildi?",
+   "variantlar": [
+    "380",
+    "40",
+    "300",
+    "340"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(63 : 7 + 8 · 6) : 57 + 53 : (37 + 16) ifodaning qiymatini toping.",
+   "variantlar": [
+    "0",
+    "1",
+    "110",
+    "2"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}
