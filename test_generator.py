@@ -31,9 +31,17 @@ CLAUDE_MODEL = "sonnet"          # claude_code uchun: "sonnet" limitni tejaydi, 
 API_MODEL = "claude-sonnet-4-5"  # faqat "api" uchun; joriy nomini docs.claude.com dan tekshiring
 SAVOL_SONI = 30                  # 3 ga bo'linadigan son bo'lsin (oson/o'rtacha/qiyin teng)
 MAX_MATN = 40000                 # bitta mavzu uchun yuboriladigan matn uzunligi (belgi)
+YETARLI_FARQ = 2                 # 30 o'rniga 28 ta chiqsa ham qabul qilinadi (qayta so'rov qimmat)
 # ================================================
 
 DARAJALAR = ["oson", "o'rtacha", "qiyin"]
+
+# claude_code uchun qisqa tizim prompti. Claude Code'ning o'z tizim prompti va
+# tool ta'riflari ~39 000 token tutadi; bu yerda ular kerak emas, shuning uchun
+# --tools "" va --system-prompt bilan almashtiriladi (~1 100 tokenga tushadi).
+TIZIM_PROMPT = ("Siz o'zbek maktabining tajribali o'qituvchisisiz. "
+                "Sizdan so'ralgan JSON ma'lumotni qaytaring - "
+                "izoh, sarlavha yoki kod bloki belgisisiz, faqat JSON.")
 
 try:
     sys.stdout.reconfigure(encoding="utf-8")
@@ -87,7 +95,15 @@ def claude(prompt):
     # Shuning uchun uni olib tashlaymiz - faqat claude.ai obunangiz ishlatiladi.
     env = {k: v for k, v in os.environ.items()
            if k not in ("ANTHROPIC_API_KEY", "ANTHROPIC_AUTH_TOKEN")}
-    cmd = [exe, "-p"] + (["--model", CLAUDE_MODEL] if CLAUDE_MODEL else [])
+    # Tokenni tejaydigan bayroqlar: tool ta'riflari, MCP serverlar, sozlama
+    # fayllari va uzun standart tizim prompti yuborilmaydi.
+    cmd = [exe, "-p",
+           "--tools", "",
+           "--system-prompt", TIZIM_PROMPT,
+           "--strict-mcp-config",
+           "--setting-sources", "",
+           "--no-session-persistence"]
+    cmd += ["--model", CLAUDE_MODEL] if CLAUDE_MODEL else []
     r = subprocess.run(cmd, input=prompt, capture_output=True, text=True,
                        encoding="utf-8", errors="replace", timeout=1200,
                        cwd=tempfile.gettempdir(), env=env)
@@ -135,8 +151,9 @@ def darajala(savollar):
 
 
 def yetarlimi(savollar):
-    k = SAVOL_SONI // 3
-    return all(sum(s["qiyinlik"] == d for s in savollar) >= k for d in DARAJALAR)
+    # Bitta-ikkita savol yetmasa ham qabul qilamiz: butun so'rovni qaytadan
+    # yuborish bitta savolga arzimaydi.
+    return len(savollar) >= SAVOL_SONI - YETARLI_FARQ
 
 
 def txt_yoz(yol, mavzu, savollar):
