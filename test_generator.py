@@ -27,7 +27,13 @@ ASOSIY = Path(__file__).resolve().parent
 KITOBLAR_PAPKASI = ASOSIY / "kitoblar"
 NATIJA_PAPKASI = ASOSIY / "testlar"
 BACKEND = "claude_code"          # "claude_code" yoki "api"
-CLAUDE_MODEL = "sonnet"          # claude_code uchun: "sonnet" limitni tejaydi, "opus" kuchliroq, "" = standart
+# claude_code uchun model. Kichik sinflarda savollar sodda - "haiku" yetarli va
+# limitni ancha tejaydi. Katta sinflarda "qiyin" savollar ko'p qadamli fikrlashni
+# talab qiladi, u yerda "haiku" savollarni bir xil qolipda chiqaradi.
+# Ikkalasini ham bir xil qilmoqchi bo'lsangiz - ikkala qatorga bir xil nom yozing.
+CLAUDE_MODEL = "haiku"           # 3 - 6-sinflar uchun
+KATTA_SINF_MODEL = "sonnet"      # 7-sinf va undan yuqorisi uchun ("opus" kuchliroq)
+KATTA_SINF = 7                   # shu sinfdan boshlab KATTA_SINF_MODEL ishlatiladi
 API_MODEL = "claude-sonnet-4-5"  # faqat "api" uchun; joriy nomini docs.claude.com dan tekshiring
 SAVOL_SONI = 30                  # 3 ga bo'linadigan son bo'lsin (oson/o'rtacha/qiyin teng)
 MAX_MATN = 40000                 # bitta mavzu uchun yuboriladigan matn uzunligi (belgi)
@@ -80,7 +86,16 @@ MATN:
 {matn}"""
 
 
-def claude(prompt):
+def model_tanla(sinf):
+    """"7-sinf" kabi nomdan raqamni ajratib, mos modelni qaytaradi."""
+    raqam = re.match(r"\s*(\d+)", str(sinf))
+    if raqam and int(raqam.group(1)) >= KATTA_SINF:
+        return KATTA_SINF_MODEL
+    return CLAUDE_MODEL
+
+
+def claude(prompt, model=None):
+    model = model or CLAUDE_MODEL
     if BACKEND == "api":
         import anthropic
         r = anthropic.Anthropic().messages.create(
@@ -103,7 +118,7 @@ def claude(prompt):
            "--strict-mcp-config",
            "--setting-sources", "",
            "--no-session-persistence"]
-    cmd += ["--model", CLAUDE_MODEL] if CLAUDE_MODEL else []
+    cmd += ["--model", model] if model else []
     r = subprocess.run(cmd, input=prompt, capture_output=True, text=True,
                        encoding="utf-8", errors="replace", timeout=1200,
                        cwd=tempfile.gettempdir(), env=env)
@@ -183,6 +198,7 @@ def kitob(pdf):
     papka = natija_papkasi(pdf)
     papka.mkdir(parents=True, exist_ok=True)
     sinf = pdf.relative_to(KITOBLAR_PAPKASI).parts[0]
+    model = model_tanla(sinf)
     pages = sahifalar(pdf)
     if sum(len(p.strip()) for p in pages) < 2000:
         print("  ! matn topilmadi (skaner PDF?) - o'tkazildi")
@@ -193,9 +209,10 @@ def kitob(pdf):
         mavzular = json.loads(mf.read_text(encoding="utf-8"))
     else:
         xarita = "\n".join(f"=== SAHIFA {i + 1} ===\n{p.strip()[:250]}" for i, p in enumerate(pages))
-        mavzular = json_ol(claude(MAVZU_PROMPT + xarita))
+        # Mavzularni ajratish oddiy ish - eng arzon model bilan.
+        mavzular = json_ol(claude(MAVZU_PROMPT + xarita, CLAUDE_MODEL))
         mf.write_text(json.dumps(mavzular, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"  {len(mavzular)} ta mavzu")
+    print(f"  {len(mavzular)} ta mavzu (model: {model})")
 
     for k, m in enumerate(mavzular, 1):
         jf = papka / (fayl_nomi(k, m["mavzu"]) + ".json")
@@ -209,7 +226,7 @@ def kitob(pdf):
         for _ in range(2):  # har darajadan yetarli chiqmasa bir marta qayta urinadi
             try:
                 javob = claude(TEST_PROMPT.format(sinf=sinf, mavzu=m["mavzu"], n=SAVOL_SONI,
-                                                  k=SAVOL_SONI // 3, matn=matn))
+                                                  k=SAVOL_SONI // 3, matn=matn), model)
                 yangi = darajala(tekshir(json_ol(javob)))
             except LimitTugadi:
                 raise
