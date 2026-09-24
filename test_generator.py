@@ -65,8 +65,16 @@ except Exception:
     pass
 
 
-class LimitTugadi(Exception):
-    pass
+class ClaudeXato(Exception):
+    """`claude` chaqiruvi natija bermadi."""
+
+
+class LimitTugadi(ClaudeXato):
+    """Haftalik / 5 soatlik limit tugadi - keyinroq davom etadi."""
+
+
+class KirishYoq(ClaudeXato):
+    """Claude Code'ga kirilmagan - `claude` ochib `/login` qilish kerak."""
 
 
 _CHOP = threading.Lock()         # parallel oqimlar yozuvi aralashmasligi uchun
@@ -149,13 +157,18 @@ def claude(prompt, model=None):
         out = r.stdout or ""
         oxirgi = (out + (r.stderr or ""))[-500:]
         if r.returncode == 0 and out.strip():
+            # Zaxira urinish ishladi - demak aybdor tejamkor bayroqlar.
+            # Faqat shu holatda o'chiramiz (nosozlik boshqa sababdan bo'lsa emas).
+            if n > 0 and TEJAMKOR:
+                TEJAMKOR = False
+                yoz("    ! tejamkor rejim bu kompyuterda ishlamadi - oddiy rejimga o'tildi")
             return out
-        if re.search(r"limit|usage", oxirgi, re.I) and len(out) < 400:
-            raise LimitTugadi(oxirgi)      # limit tugagan - qayta urinish behuda
-        if n == 0 and len(urinishlar) > 1:
-            TEJAMKOR = False               # boshqa mavzularda ham urinib o'tirmaymiz
-            yoz("    ! tejamkor rejim bu kompyuterda ishlamadi - oddiy rejimga o'tildi")
-    raise LimitTugadi(oxirgi)
+        # Qayta urinish foydasiz bo'lgan holatlar - darrov to'xtaymiz.
+        if re.search(r"not logged in|/login|unauthorized|authentication", oxirgi, re.I):
+            raise KirishYoq(oxirgi)
+        if re.search(r"limit|quota", oxirgi, re.I) and len(out) < 400:
+            raise LimitTugadi(oxirgi)
+    raise ClaudeXato(oxirgi)
 
 
 def json_ol(matn):
@@ -261,7 +274,7 @@ def kitob(pdf):
                 javob = claude(TEST_PROMPT.format(sinf=sinf, mavzu=m["mavzu"], n=SAVOL_SONI,
                                                   k=SAVOL_SONI // 3, matn=matn), model)
                 yangi = darajala(tekshir(json_ol(javob)))
-            except LimitTugadi:
+            except ClaudeXato:
                 TOXTA.set()            # qolgan oqimlar ham to'xtasin
                 raise
             except Exception as e:
@@ -293,7 +306,7 @@ def kitob(pdf):
             for f in natijalar:
                 try:
                     f.result()
-                except LimitTugadi as e:
+                except ClaudeXato as e:
                     limit = e
         if limit:
             raise limit
@@ -346,8 +359,17 @@ def main():
         print(f"[{n}/{len(pdflar)}] {pdf.relative_to(KITOBLAR_PAPKASI)}")
         try:
             kitob(pdf)
+        except KirishYoq as e:
+            print("\nClaude Code'ga kirilmagan. Terminalda `claude` ni ishga tushirib,")
+            print("`/login` buyrug'i bilan hisobingizga kiring, so'ng shu dasturni qayta bosing.")
+            print(e)
+            return
         except LimitTugadi as e:
             print("\nLimit tugadi. Keyinroq qayta ishga tushiring - ish shu joydan davom etadi.")
+            print(e)
+            return
+        except ClaudeXato as e:
+            print("\n`claude` javob bermadi. Quyidagi xabarni tekshiring:")
             print(e)
             return
         except Exception as e:
