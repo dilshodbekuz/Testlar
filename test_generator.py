@@ -10,7 +10,8 @@ Buyruqlar:
     python test_generator.py              # hamma kitoblar
     python test_generator.py 7-sinf       # faqat nomida "7-sinf" bo'lganlar (fan nomi ham bo'ladi)
     python test_generator.py --holat      # progress: qaysi kitob qancha tayyor
-Limit tugasa dastur to'xtaydi; qayta ishga tushirilsa qolgan joyidan davom etadi.
+Limit tugasa dastur KUTISH_DAQIQA kutib o'zi qayta uradi va qolgan joyidan davom etadi
+(`--bir-marta` bilan kutmasdan to'xtaydi).
 """
 import json
 import os
@@ -21,6 +22,7 @@ import subprocess
 import sys
 import tempfile
 import threading
+import time
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
@@ -41,6 +43,7 @@ SAVOL_SONI = 30                  # 3 ga bo'linadigan son bo'lsin (oson/o'rtacha/
 MAX_MATN = 40000                 # bitta mavzu uchun yuboriladigan matn uzunligi (belgi)
 YETARLI_FARQ = 2                 # 30 o'rniga 28 ta chiqsa ham qabul qilinadi (qayta so'rov qimmat)
 PARALLEL = 3                     # bir vaqtda nechta mavzu ishlansin (1 = ketma-ket)
+KUTISH_DAQIQA = 1                # limit tugasa shuncha kutib o'zi qayta uradi (--bir-marta o'chiradi)
 # ================================================
 
 DARAJALAR = ["oson", "o'rtacha", "qiyin"]
@@ -356,6 +359,44 @@ def holat(pdflar):
     print(f"\nJami: {len(pdflar)} kitob, boshlanganlarida {jami_t}/{jami_m} mavzu tayyor")
 
 
+def bir_aylanish(pdflar):
+    """Bitta to'liq o'tish. "tayyor" | "limit" | "toxta" qaytaradi."""
+    TOXTA.clear()
+    for n, pdf in enumerate(pdflar, 1):
+        print(f"[{n}/{len(pdflar)}] {pdf.relative_to(KITOBLAR_PAPKASI)}")
+        try:
+            kitob(pdf)
+        except KirishYoq as e:
+            print("\nClaude Code'ga kirilmagan. Terminalda `claude` ni ishga tushirib,")
+            print("`/login` buyrug'i bilan hisobingizga kiring, so'ng shu dasturni qayta bosing.")
+            print(e)
+            return "toxta"
+        except LimitTugadi as e:
+            print("\nLimit tugadi.")
+            print(e)
+            return "limit"
+        except ClaudeXato as e:
+            print("\n`claude` javob bermadi. Quyidagi xabarni tekshiring:")
+            print(e)
+            return "toxta"
+        except Exception as e:
+            print(f"  ! xato: {e}")
+    return "tayyor"
+
+
+def kut(daqiqa):
+    """Limit tiklanishini kutadi; har 10 daqiqada qolgan vaqtni yozadi."""
+    qoldi = daqiqa
+    print(f"Limit tiklanishi kutilmoqda: {qoldi} daqiqa. To'xtatish uchun Ctrl+C.")
+    while qoldi > 0:
+        bolak = min(10, qoldi)
+        time.sleep(bolak * 60)
+        qoldi -= bolak
+        if qoldi:
+            print(f"  ... yana {qoldi} daqiqa")
+    print("Qaytadan urinilmoqda - ish to'xtagan joydan davom etadi.\n")
+
+
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     pdflar = sorted(KITOBLAR_PAPKASI.rglob("*.pdf"), key=tartib)
@@ -367,26 +408,21 @@ def main():
         return
 
     print(f"{len(pdflar)} ta PDF topildi\n")
-    for n, pdf in enumerate(pdflar, 1):
-        print(f"[{n}/{len(pdflar)}] {pdf.relative_to(KITOBLAR_PAPKASI)}")
+    while True:
+        natija = bir_aylanish(pdflar)
+        if natija == "tayyor":
+            print("\nHammasi tayyor!")
+            return
+        if natija == "toxta":
+            return
+        if "--bir-marta" in sys.argv:
+            print("Keyinroq qayta ishga tushiring - ish shu joydan davom etadi.")
+            return
         try:
-            kitob(pdf)
-        except KirishYoq as e:
-            print("\nClaude Code'ga kirilmagan. Terminalda `claude` ni ishga tushirib,")
-            print("`/login` buyrug'i bilan hisobingizga kiring, so'ng shu dasturni qayta bosing.")
-            print(e)
+            kut(KUTISH_DAQIQA)
+        except KeyboardInterrupt:
+            print("\nTo'xtatildi. Qayta ishga tushirsangiz shu joydan davom etadi.")
             return
-        except LimitTugadi as e:
-            print("\nLimit tugadi. Keyinroq qayta ishga tushiring - ish shu joydan davom etadi.")
-            print(e)
-            return
-        except ClaudeXato as e:
-            print("\n`claude` javob bermadi. Quyidagi xabarni tekshiring:")
-            print(e)
-            return
-        except Exception as e:
-            print(f"  ! xato: {e}")
-    print("\nHammasi tayyor!")
 
 
 if __name__ == "__main__":

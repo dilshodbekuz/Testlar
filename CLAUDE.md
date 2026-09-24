@@ -18,6 +18,7 @@ test_generator.py        asosiy dastur (sozlamalar fayl boshida)
 - Hammasi: `python test_generator.py`
 - Bitta sinf yoki fan: `python test_generator.py 7-sinf` / `python test_generator.py Fizika`
 - Progress: `python test_generator.py --holat`
+- Limit tugasa dastur 1 daqiqa kutib o'zi qayta uradi; kutmaslik uchun `--bir-marta`
 - Kutubxona (bir marta): `python -m pip install -r requirements.txt`
 
 ## Siz (Claude) uchun QAT'IY QOIDALAR
@@ -27,8 +28,8 @@ test_generator.py        asosiy dastur (sozlamalar fayl boshida)
 3. Dasturni **orqa fonda** ishga tushir (`run_in_background: true`) — u soatlab ishlaydi,
    oddiy Bash chaqiruvi vaqt chegarasiga uriladi. Keyin progressni `--holat` bilan ko'r.
 4. Natija fayllarini butunlay o'qima. Tekshirish kerak bo'lsa bitta `.txt` fayldan 2-3 savolni ko'r.
-5. "Limit tugadi" chiqsa — foydalanuvchiga keyinroq qayta ishga tushirishni ayt. Dastur
-   tayyor mavzularni o'tkazib yuboradi, ish qolgan joydan davom etadi.
+5. "Limit tugadi" chiqsa — dastur o'zi 1 daqiqa kutib davom ettiradi (KUTISH_DAQIQA).
+   Tayyor mavzular o'tkazib yuboriladi, ish qolgan joydan davom etadi.
 6. Mavzular noto'g'ri ajratilgan bo'lsa: o'sha kitobning `_mavzular.json` faylini tuzat
    (yoki o'chir — qayta aniqlanadi), noto'g'ri mavzu `.json/.txt` larini o'chirib qayta ishga tushir.
 7. Skaner (matnsiz) PDF'lar o'tkazib yuboriladi — foydalanuvchiga ro'yxatini ayt, o'zing OCR qilma
