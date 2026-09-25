@@ -360,8 +360,9 @@ def holat(pdflar):
 
 
 def bir_aylanish(pdflar):
-    """Bitta to'liq o'tish. "tayyor" | "limit" | "toxta" qaytaradi."""
+    """Bitta to'liq o'tish. "tayyor" | "limit" | "nosoz" | "toxta" qaytaradi."""
     TOXTA.clear()
+    nosoz = False
     for n, pdf in enumerate(pdflar, 1):
         print(f"[{n}/{len(pdflar)}] {pdf.relative_to(KITOBLAR_PAPKASI)}")
         try:
@@ -376,12 +377,15 @@ def bir_aylanish(pdflar):
             print(e)
             return "limit"
         except ClaudeXato as e:
-            print("\n`claude` javob bermadi. Quyidagi xabarni tekshiring:")
-            print(e)
-            return "toxta"
+            # timeout / vaqtinchalik nosozlik - kitobni o'tkazib yuboramiz,
+            # aylanish oxirida qayta urinib ko'riladi.
+            print("  ! `claude` javob bermadi, bu kitob keyinga qoldirildi:")
+            print(f"    {e}")
+            nosoz = True
+            continue
         except Exception as e:
             print(f"  ! xato: {e}")
-    return "tayyor"
+    return "nosoz" if nosoz else "tayyor"
 
 
 def kut(daqiqa):
@@ -415,6 +419,8 @@ def main():
             return
         if natija == "toxta":
             return
+        if natija == "nosoz":
+            print("\nBa'zi kitoblar xato tufayli qoldi - qayta urinamiz.")
         if "--bir-marta" in sys.argv:
             print("Keyinroq qayta ishga tushiring - ish shu joydan davom etadi.")
             return
