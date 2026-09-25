@@ -1,0 +1,337 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Fizika",
+ "mavzu": "12-§. TEKIS TEZLANUVCHAN HARAKATLANAYOTGAN JISM TEZLANISHINI ANIQLASH",
+ "savollar": [
+  {
+   "savol": "Masalalarda erkin tushish tezlanishi qanday qiymatda olinadi?",
+   "variantlar": [
+    "g = 10 m/s²",
+    "g = 10 m/s",
+    "g = 100 m/s²",
+    "g = 1 m/s²"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tezlanishni aniqlash formulasi qaysi?",
+   "variantlar": [
+    "a = υ · t",
+    "a = (υ − υ₀) · t",
+    "a = t / (υ − υ₀)",
+    "a = (υ − υ₀) / t"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tezlanishning xalqaro birligi qaysi?",
+   "variantlar": [
+    "m/s²",
+    "s/m",
+    "m",
+    "m/s"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tekis tezlanuvchan harakatda tezlikning vaqtga bog'lanish grafigi qanday ko'rinishda bo'ladi?",
+   "variantlar": [
+    "Og'ma (qiya) to'g'ri chiziq",
+    "Vertikal to'g'ri chiziq",
+    "Vaqt o'qiga parallel to'g'ri chiziq",
+    "Aylana"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tezlik grafigi bilan vaqt o'qi orasidagi yuza nimani ifodalaydi?",
+   "variantlar": [
+    "O'rtacha tezlikni",
+    "Bosib o'tilgan yo'lni",
+    "Massani",
+    "Tezlanishni"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Havoning qarshiligi hisobga olinmasa, erkin tushayotgan jism qanday harakatlanadi?",
+   "variantlar": [
+    "Tezligi o'zgarmas",
+    "Tekis sekinlanuvchan",
+    "Tekis harakat",
+    "Tekis tezlanuvchan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Boshlang'ich tezligi nolga teng bo'lgan erkin tushayotgan jismning tezligi qaysi formula bilan topiladi?",
+   "variantlar": [
+    "υ = t / g",
+    "υ = g + t",
+    "υ = g / t",
+    "υ = gt"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'rtacha tezlik qanday aniqlanadi?",
+   "variantlar": [
+    "Faqat oxirgi tezlik sifatida",
+    "Barcha tezliklarning eng kattasi sifatida",
+    "Boshlang'ich va oxirgi tezliklarning ko'paytmasi sifatida",
+    "Butun bosib o'tilgan yo'lni butun sarflangan vaqtga bo'lish bilan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tinch holatdan boshlangan harakatda boshlang'ich tezlik nimaga teng?",
+   "variantlar": [
+    "υ₀ = 1 m/s",
+    "υ₀ = 0",
+    "υ₀ = 10 m/s",
+    "υ₀ = g"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vertikal yuqoriga otilgan jismning tezlanishi (havo qarshiligi hisobga olinmasa) qanday yo'nalgan?",
+   "variantlar": [
+    "Gorizontal",
+    "Faqat eng yuqori nuqtada nolga teng",
+    "Yuqoriga",
+    "Yerga tomon (pastga)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ma'lum balandlikdan qo'yib yuborilgan jism erkin tushmoqda. U qancha vaqtda 80 m/s tezlikka erishadi? (g = 10 m/s²)",
+   "variantlar": [
+    "4 s",
+    "8 s",
+    "16 s",
+    "80 s"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jism ma'lum balandlikdan 5 m/s tezlik bilan pastga tik otildi. 5 s dan keyin uning tezligi qancha bo'ladi? (g = 10 m/s²)",
+   "variantlar": [
+    "50 m/s",
+    "55 m/s",
+    "25 m/s",
+    "45 m/s"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jism tinch holatdan 2 m/s² tezlanish bilan tekis tezlanuvchan harakatlanmoqda. 5 s dan keyin tezligi qancha bo'ladi?",
+   "variantlar": [
+    "10 m/s",
+    "7 m/s",
+    "20 m/s",
+    "2,5 m/s"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jismning tezligi 4 s ichida 4 m/s dan 12 m/s gacha tekis oshdi. Tezlanishi qancha?",
+   "variantlar": [
+    "4 m/s²",
+    "3 m/s²",
+    "2 m/s²",
+    "8 m/s²"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jism tinch holatdan erkin tushmoqda. U 3 s da qancha yo'l bosib o'tadi? (g = 10 m/s²)",
+   "variantlar": [
+    "45 m",
+    "90 m",
+    "30 m",
+    "15 m"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tezlik grafigi to'g'ri chiziq bo'lib, υ₀ = 0 va t = 5 s da tezlik 10 m/s ga yetgan. Jism 5 s da qancha yo'l bosib o'tgan?",
+   "variantlar": [
+    "50 m",
+    "25 m",
+    "10 m",
+    "5 m"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tinch turgan vertolyotdan tashlangan yuk 12 s da yerga tushdi. Yuk qanday balandlikdan tashlangan? (g = 10 m/s², havo qarshiligi hisobga olinmasin)",
+   "variantlar": [
+    "360 m",
+    "120 m",
+    "1440 m",
+    "720 m"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tinch turgan vertolyotdan tashlangan yuk 12 s da yerga tushdi. U yerga qanday tezlik bilan urilgan? (g = 10 m/s²)",
+   "variantlar": [
+    "12 m/s",
+    "60 m/s",
+    "120 m/s",
+    "720 m/s"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Avtomobil 20 m/s tezlikdan tekis sekinlanib, 5 s da to'xtadi. Uning tezlanishi moduli qancha?",
+   "variantlar": [
+    "5 m/s²",
+    "100 m/s²",
+    "4 m/s²",
+    "0,25 m/s²"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jismning boshlang'ich tezligi 2 m/s, tezlanishi 3 m/s². 4 s dan keyin tezligi qancha bo'ladi?",
+   "variantlar": [
+    "14 m/s",
+    "10 m/s",
+    "24 m/s",
+    "12 m/s"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Avtomobil 30 km masofani 15 m/s tezlikda, keyingi 40 km masofani 1 soatda bosib o'tdi. Butun yo'l davomidagi o'rtacha tezligi qancha?",
+   "variantlar": [
+    "12,5 m/s",
+    "15 m/s",
+    "70 m/s",
+    "20 m/s"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jism tinch holatdan erkin tushmoqda. U to'rtinchi sekund davomida (3 s dan 4 s gacha) qancha yo'l bosib o'tadi? (g = 10 m/s²)",
+   "variantlar": [
+    "80 m",
+    "35 m",
+    "40 m",
+    "45 m"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jism 5 m/s tezlik bilan pastga tik otildi. U 4 s da qancha yo'l bosib o'tadi? (g = 10 m/s²)",
+   "variantlar": [
+    "85 m",
+    "120 m",
+    "100 m",
+    "80 m"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jism tinch holatdan 2 m/s² tezlanish bilan harakatlanib, 20 m/s tezlikka erishdi. U shu vaqt ichida qancha yo'l bosib o'tgan?",
+   "variantlar": [
+    "100 m",
+    "200 m",
+    "40 m",
+    "10 m"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jism vertikal yuqoriga 30 m/s tezlik bilan otildi. U qanday eng katta balandlikka ko'tariladi? (g = 10 m/s², havo qarshiligi hisobga olinmasin)",
+   "variantlar": [
+    "90 m",
+    "150 m",
+    "30 m",
+    "45 m"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jism vertikal yuqoriga 40 m/s tezlik bilan otildi. 3 s dan keyin uning tezligi qanday bo'ladi? (g = 10 m/s²)",
+   "variantlar": [
+    "10 m/s, yuqoriga yo'nalgan",
+    "10 m/s, pastga yo'nalgan",
+    "70 m/s, pastga yo'nalgan",
+    "30 m/s, yuqoriga yo'nalgan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Erkin tushayotgan jism 50 m/s tezlikka erishdi. U qanday balandlikdan tushgan? (boshlang'ich tezlik nol, g = 10 m/s²)",
+   "variantlar": [
+    "500 m",
+    "125 m",
+    "250 m",
+    "50 m"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jismning tezligi 6 s davomida tinch holatdan 30 m/s gacha tekis oshdi. Shu 6 s ichida bosib o'tgan yo'li qancha?",
+   "variantlar": [
+    "30 m",
+    "180 m",
+    "150 m",
+    "90 m"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki jism bir vaqtda tashlandi: birinchisi tinch holatdan tushirildi, ikkinchisi 10 m/s tezlik bilan pastga otildi. 3 s dan keyin ularning tezliklari farqi qancha bo'ladi? (g = 10 m/s²)",
+   "variantlar": [
+    "0 m/s",
+    "30 m/s",
+    "40 m/s",
+    "10 m/s"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jism tinch holatdan 4 m/s² tezlanish bilan tekis tezlanuvchan harakatlanmoqda. Harakatning keyingi 2 s (2 s dan 4 s gacha) davomida u qancha yo'l bosadi?",
+   "variantlar": [
+    "24 m",
+    "32 m",
+    "16 m",
+    "8 m"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

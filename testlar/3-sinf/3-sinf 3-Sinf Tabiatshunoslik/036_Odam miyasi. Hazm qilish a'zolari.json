@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Tabiatshunoslik",
+ "mavzu": "Odam miyasi. Hazm qilish a'zolari",
+ "savollar": [
+  {
+   "savol": "Odam tanasini qaysi tizim boshqaradi?",
+   "variantlar": [
+    "Suyak tizimi",
+    "Hazm tizimi",
+    "Qon tizimi",
+    "Nerv tizimi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bosh miya qayerida joylashgan?",
+   "variantlar": [
+    "Muvazzafka",
+    "Qorin ichida",
+    "Ko'krakda",
+    "Kalla suyagi ichida"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hazm qilish a'zolariga quyidagilardan qaysi biri kiradi?",
+   "variantlar": [
+    "Burun, tomoq, qorin, buyrak",
+    "Og'iz, tomoq, oshqozon, ichak",
+    "Og'iz, yurak, o'pka, jigar",
+    "Tishlar, miya, nerv, qon"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ingichka ichak qancha uzun?",
+   "variantlar": [
+    "6-7 metr",
+    "10 metr",
+    "1-2 metr",
+    "15 metr"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ovqat ingichka ichakda qancha vaqt turadi?",
+   "variantlar": [
+    "3-5 soat",
+    "1-2 soat",
+    "Bir kun",
+    "10-12 soat"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'pka qayda joylashgan?",
+   "variantlar": [
+    "Qorin ichida",
+    "Kalla ichida",
+    "Gavdaning orqasida",
+    "Ko'krakda"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Odamda qancha o'pka bo'ladi?",
+   "variantlar": [
+    "Bir",
+    "Bir juft",
+    "To'rttasi",
+    "Uchta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Endigina tug'ilgan chaqaloq bir minutda necha marta nafas oladi?",
+   "variantlar": [
+    "70-80 marta",
+    "15-20 marta",
+    "30-45 marta",
+    "50-60 marta"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Odamning qo'l va oyoqlari harakati kim orqali boshqariladi?",
+   "variantlar": [
+    "Oshqozon va ichak",
+    "Yurak va o'pka",
+    "Jigar va buyrak",
+    "Bosh miya va orqa miya"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O't suyuqligi qayerdan ishlab chiqiladi?",
+   "variantlar": [
+    "Jigardan",
+    "Qizilo'ngachda",
+    "Buyrakda",
+    "Oshqozonda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ovqat oshqozonga kelib tushishidan oldin qayerda chaynaladi?",
+   "variantlar": [
+    "Qizilo'ngachda",
+    "Tomoqda",
+    "Og'izda",
+    "Burunda"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ingichka ichakdan keyin hazm bo'lmagan ovqat qoldiqlari qayerga o'tadi?",
+   "variantlar": [
+    "Jigariga",
+    "Buyrakka",
+    "Yo'g'on ichakka",
+    "Oshqozonga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yo'g'on ichakning asosiy vazifasi nima?",
+   "variantlar": [
+    "Ovqat qoldiqlari tanadan tashqariga chiqarilishi",
+    "Qon tozalash",
+    "Oziq moddalarni hazm qilish",
+    "Kislorod qonga o'tkazish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'pkada asosan nima bo'ladi?",
+   "variantlar": [
+    "Buyrak ishlaydi",
+    "Ovqat hazm bo'ladi",
+    "Qonni kislorod bilan to'yintirish",
+    "Oziq moddalar to'planadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Havo o'pkaga kelishidan oldin qayerda tozalanadi va isiydi?",
+   "variantlar": [
+    "Burnunda",
+    "Qizilo'ngachda",
+    "Ko'krak qafasida",
+    "Tomoqda"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jigarning vazifalaridan biri nima?",
+   "variantlar": [
+    "Hazm bo'lmagan moddalar to'lanadi",
+    "Ovqatni chaynash",
+    "Havo to'ladi",
+    "Qonning tozalanishi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Buyrak tomonidan tutilgan ortiqcha moddalar qayga yuboriladi?",
+   "variantlar": [
+    "O't pufagiga",
+    "Siydik pufagiga",
+    "Oshqozonga",
+    "Ingichka ichakka"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Miyaning berilgan topshiriqlar qaylar orqali tegishli a'zolarga yetkaziladi?",
+   "variantlar": [
+    "Muskullar orqali",
+    "Suyak orqali",
+    "Nerv tolalari orqali",
+    "Qon tomirlari orqali"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ko'krak qafasining bo'shlig'i nafas olganimizda qanday o'zgaradi?",
+   "variantlar": [
+    "Suyaklashadi",
+    "O'zgarmas",
+    "Kengyadi",
+    "Torayadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "9-10 yoshli bola bir minutda necha marta nafas oladi?",
+   "variantlar": [
+    "16-18 marta",
+    "30-45 marta",
+    "10-15 marta",
+    "20-25 marta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Barmoq qaynoq narsaga tegdi, shu zahoti nerv tolalari orqali xabar qayerga yetib boradi?",
+   "variantlar": [
+    "Orqa miyaga",
+    "Yurakka",
+    "O'pkaga",
+    "Bosh miyaga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ingichka ichakdan qonga o'tgan foydali oziq moddalar tananing qayerlarida tozalanadi?",
+   "variantlar": [
+    "Jigar va buyrakda",
+    "Faqat jigarida",
+    "Faqat buyrakda",
+    "Qizilo'ngachda"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Vena orqali qaytib kelayotgan qondagi nima tashqariga chiqadi?",
+   "variantlar": [
+    "O't",
+    "Karbonat angidrid",
+    "Siydik",
+    "Kislorod"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nafas olish jarayonining to'g'ri ketma-ketligi qaysi?",
+   "variantlar": [
+    "Burun → Qizilo'ngach → O'pka → Yurak",
+    "Burun → Oshqozon → Ichak → O'pka",
+    "Burun → O'pka → Yurak → Qon → Tanam",
+    "Burun → O'pka → Qon → Tanam"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Orqa miya berilgan bu «xabar» ni qayga yuboradi?",
+   "variantlar": [
+    "Bosh miyaga",
+    "Qo'l muskullariga",
+    "Yurakka",
+    "O'pkaga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar havoda kislorod yetishmasa, odam nima sezadi?",
+   "variantlar": [
+    "Qorin og'rig'i",
+    "Tuyuqlik",
+    "Horg'in",
+    "Tishlar og'rig'i"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'pkada qaynoq, kislorod bilan toyingan qon qayga boradi?",
+   "variantlar": [
+    "Yurakka",
+    "Jigariga",
+    "Ingichka ichakka",
+    "Oshqozonga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yugurganda nafas olish qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmas qoladi",
+    "Sekinlashadi",
+    "40-45 martaga yetadi",
+    "To'xtab qoladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi a'zolardan qaysilari oziq moddalarning parchalanishida ishtirok etadi?",
+   "variantlar": [
+    "Faqat jigar",
+    "Faqat oshqozon",
+    "Oshqozon, ingichka ichak va o't pufagi",
+    "Oshqozon va ingichka ichak"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ingichka ichakdan keyin hazm bo'lmagan qoldiqlari tanadan chiqarilgunga qadar qayerlar orqali o'tadi?",
+   "variantlar": [
+    "Ingichka ichak → Yo'g'on ichak → Tashqarida",
+    "Jigardi to'planib qoladi",
+    "Oshqozon → Yo'g'on ichak",
+    "Yo'g'on ichak → Oshqozon"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

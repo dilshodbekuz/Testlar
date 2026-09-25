@@ -1,0 +1,337 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Ona tili",
+ "mavzu": "GUMON OLMOSHLARI",
+ "savollar": [
+  {
+   "savol": "Gumon olmoshlari qanday hosil qilinadi?",
+   "variantlar": [
+    "So'roq olmoshlari oldiga hech so'zini qo'yish bilan",
+    "So'roq olmoshlariga alla- yoki -dir qo'shimchasini qo'shish bilan",
+    "Ikkita olmoshni juft qilib yozish bilan",
+    "Olmoshni ikki marta takrorlash bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Alla- qo'shimchasi so'roq olmoshiga qayerdan qo'shiladi?",
+   "variantlar": [
+    "Oldidan",
+    "Oxiridan",
+    "O'rtasidan",
+    "Ham oldidan, ham oxiridan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "-dir qo'shimchasi so'roq olmoshiga qayerdan qo'shiladi?",
+   "variantlar": [
+    "So'ngidan",
+    "Oldidan",
+    "O'rtasidan",
+    "Faqat narsa so'ziga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gumon olmoshlarini hosil qiluvchi qo'shimchalar asos qism bilan qanday yoziladi?",
+   "variantlar": [
+    "Chiziqcha bilan",
+    "Ikkita so'z qilib",
+    "Qo'shib",
+    "Ajratib"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi so'z faqat alla- qo'shimchasi yordamida gumon olmoshiga aylanadi?",
+   "variantlar": [
+    "qaysi",
+    "qachon",
+    "kim",
+    "narsa"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri gumon olmoshi?",
+   "variantlar": [
+    "kim",
+    "qanday",
+    "hech kim",
+    "kimdir"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir so'zi kishi, narsa, nima kabi so'zlarga qo'shilganda ularga qanday ma'no yuklaydi?",
+   "variantlar": [
+    "Ko'plik ma'nosini",
+    "Gumon ma'nosini",
+    "Bo'lishsizlik ma'nosini",
+    "So'roq ma'nosini"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi so'z kimdir so'zi bilan erkin almashina olgani uchun gumon olmoshi hisoblanadi?",
+   "variantlar": [
+    "hamma",
+    "birov",
+    "o'zi",
+    "bu"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "«Qachon» so'roq olmoshiga -dir qo'shimchasini qo'shsak, qaysi gumon olmoshi hosil bo'ladi?",
+   "variantlar": [
+    "hech qachon",
+    "allaqachon",
+    "qachondir",
+    "bir qachon"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "«Qanday» so'roq olmoshiga alla- qo'shimchasini qo'shsak, qaysi gumon olmoshi hosil bo'ladi?",
+   "variantlar": [
+    "hech qanday",
+    "allaqandaydir",
+    "allaqanday",
+    "qandaydir"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi qatorlardan qaysi birida barcha so'zlar gumon olmoshi?",
+   "variantlar": [
+    "hech kim, allakim, nimadir",
+    "kimdir, allanima, qachondir",
+    "kimdir, hech nima, allaqanday",
+    "kim, nima, qachon"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Hovlida allakimning qorasi ko'rindi» gapida qaysi so'z gumon olmoshi?",
+   "variantlar": [
+    "hovlida",
+    "qorasi",
+    "allakimning",
+    "ko'rindi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Bu yigitning nimasidir unga rahmatli otasini eslatardi» gapida gumon olmoshi qaysi?",
+   "variantlar": [
+    "yigitning",
+    "nimasidir",
+    "otasini",
+    "unga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Qanday» so'roq olmoshiga -dir qo'shimchasi qo'shilsa, qaysi so'z hosil bo'ladi?",
+   "variantlar": [
+    "dirqanday",
+    "qanday-dir",
+    "qandaydir",
+    "qanday dir"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Nima» so'roq olmoshiga alla- qo'shimchasi qo'shilsa, qaysi gumon olmoshi hosil bo'ladi?",
+   "variantlar": [
+    "bir nima",
+    "nimadir",
+    "allanima",
+    "hech nima"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Bir kishi eshikni taqillatdi» gapida bir kishi birikmasi o'rniga qaysi gumon olmoshini qo'llash mumkin?",
+   "variantlar": [
+    "kimdir",
+    "kim",
+    "hech kim",
+    "qanday"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Birovning aybini senga aytgan sening aybingni ham birovga aytadi» maqolida birov so'zi qaysi gumon olmoshi bilan almashinishi mumkin?",
+   "variantlar": [
+    "qaysidir",
+    "nimadir",
+    "qachondir",
+    "kimdir"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Bir narsa esimga tushdi» gapida bir narsa o'rniga qaysi gumon olmoshini qo'yish mumkin?",
+   "variantlar": [
+    "qaysidir",
+    "nimadir",
+    "qachondir",
+    "kimdir"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi gaplarning qaysi birida gumon olmoshi ishtirok etgan?",
+   "variantlar": [
+    "U haqda hech qanday xabar yo'q.",
+    "Hunarli odam hech qachon kam bo'lmaydi.",
+    "Kimdir ot yetaklab o'tdi.",
+    "Majlisda hech kim churq etmadi."
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Allaqancha piyozni qanorlarga joyladik» gapidagi allaqancha so'zi qanday olmosh hisoblanadi va qanday hosil bo'lgan?",
+   "variantlar": [
+    "So'roq olmoshi, qancha so'ziga -mi yuklangan",
+    "Gumon olmoshi, qancha so'roq olmoshiga alla- qo'shilgan",
+    "Bo'lishsizlik olmoshi, qancha oldiga hech qo'yilgan",
+    "Gumon olmoshi, qancha so'ziga -dir qo'shilgan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Qaysidir yili, aniq esimda yo'q, qish juda erta keldi» gapidagi gumon olmoshini alla- qo'shimchasi bilan almashtirsak, qaysi shakl to'g'ri bo'ladi?",
+   "variantlar": [
+    "alla qaysi yili",
+    "allaqaysi yili",
+    "qaysi alla yili",
+    "allaqaysidir yili"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Kimdir allaqanday shubha bilan birovga nimadir dedi» gapida nechta gumon olmoshi bor?",
+   "variantlar": [
+    "2 ta",
+    "3 ta",
+    "4 ta",
+    "5 ta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi so'zlardan qaysi biri qoidaga xilof ravishda yozilgan?",
+   "variantlar": [
+    "nimadir",
+    "kimdir",
+    "allaqaysi",
+    "alla qaysi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi qatorlardan qaysi birida bitta gumon olmoshi va bitta bo'lishsizlik olmoshi berilgan?",
+   "variantlar": [
+    "allakim, hech qachon",
+    "kimdir, allanima",
+    "hech kim, hech nima",
+    "nimadir, qachondir"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi qatorda barcha gumon olmoshlari faqat -dir qo'shimchasi yordamida hosil qilingan?",
+   "variantlar": [
+    "nimadir, allanima, qachondir, qaysidir",
+    "allakim, allanima, allaqanday, allaqancha",
+    "kimdir, allakim, qachondir, qaysidir",
+    "kimdir, nimadir, qachondir, qaysidir"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Bir narsa esimga tushdi» gapida bir narsa o'rniga quyidagilardan qaysi birini qo'llab bo'lmaydi?",
+   "variantlar": [
+    "nimadir",
+    "allanarsa",
+    "allanima",
+    "narsadir"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Allaqayerdan kimdir kelib, birovga allanimani aytdi» gapida nechta gumon olmoshi ishtirok etgan?",
+   "variantlar": [
+    "2 ta",
+    "3 ta",
+    "5 ta",
+    "4 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi qatorlarning qaysi birida barcha gumon olmoshlari faqat alla- qo'shimchasi yordamida hosil bo'lgan?",
+   "variantlar": [
+    "allakim, allanima, allaqancha, allanarsa",
+    "kimdir, allanima, allaqancha, allanarsa",
+    "allakim, allanima, qachondir, allanarsa",
+    "allakim, nimadir, allaqancha, allanarsa"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi qatorda faqat gumon olmoshlari berilgan?",
+   "variantlar": [
+    "kimdir, allanima, hech qachon, qachondir",
+    "kimdir, allanima, birov, qachondir",
+    "hech kim, allanima, birov, qachondir",
+    "kimdir, hech nima, birov, qachondir"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Kim» va «narsa» so'zlaridan alla- yoki -dir qo'shimchalari bilan jami nechta gumon olmoshi hosil qilish mumkin?",
+   "variantlar": [
+    "2 ta",
+    "3 ta",
+    "4 ta",
+    "1 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

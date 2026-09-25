@@ -1,0 +1,326 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Texnologiya",
+ "mavzu": "Elektromagnitlar va ularning qo'llanishi",
+ "savollar": [
+  {
+   "savol": "Elektromagnit qanday magnit hisoblanadi?",
+   "variantlar": [
+    "Tabiiy magnit",
+    "Doimiy magnit",
+    "Su'niy magnit",
+    "Suyuq magnit"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektromagnit g'altagining ichiga nima joylanadi?",
+   "variantlar": [
+    "Suv",
+    "Havo o'tkazmaydigan idish",
+    "Yumshoq o'zak",
+    "Plastmassa parcha"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektromagnit chulg'ami qanday simdan tayyorlanadi?",
+   "variantlar": [
+    "Po'lat arqondan",
+    "Izolyatsiyalanmagan alyuminiy simdan",
+    "Izolyatsiyalanmagan qo'rg'oshin simdan",
+    "Izolyatsiyalangan mis simdan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektromagnit g'altagining karkasi asosan qaysi materiallardan tayyorlanadi?",
+   "variantlar": [
+    "Shisha yoki chinnidan",
+    "Elektrokarton (pressshpan) yoki fibradan",
+    "Mis yoki alyuminiydan",
+    "Rezina yoki shishadan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektromagnitning temir yakorni tortish kuchi nimaga to'g'ri proporsional?",
+   "variantlar": [
+    "Tok kuchiga va g'altakning uzunlik birligiga to'g'ri keladigan o'ramlar soniga",
+    "Faqat sim rangiga",
+    "Faqat karkas o'lchamiga",
+    "Havo haroratiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yakorning g'altakka tortilish kuchi qaysi asbob yordamida o'lchanadi?",
+   "variantlar": [
+    "Barometr",
+    "Termometr",
+    "Dinamometr",
+    "Voltmetr"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektromagnitli rele nima uchun xizmat qiladi?",
+   "variantlar": [
+    "Kuchlanishni o'lchash uchun",
+    "Suvni isitish uchun",
+    "Tok manbaini almashtirish uchun",
+    "Kuchsiz tok orqali katta quvvatli tokni masofadan boshqarish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Relening asosiy qismi qaysi?",
+   "variantlar": [
+    "Reostat",
+    "Termistor",
+    "Elektromagnit",
+    "Qo'ng'iroq kosachasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Boshqaruvchi zanjir uzilganda relening yakorini orqaga nima tortadi?",
+   "variantlar": [
+    "Prujina",
+    "Reostat",
+    "Termistor",
+    "Dinamometr"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr qo'ng'iroqda yakor bolg'achasi nimaga uriladi?",
+   "variantlar": [
+    "Termistorga",
+    "Dinamometrga",
+    "Qo'ng'iroq kosachasiga",
+    "Reostatga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektromagnit g'altagidagi tok 3 marta orttirilsa, yakorning tortilish kuchi qanday o'zgaradi (o'ramlar soni o'zgarmaydi)?",
+   "variantlar": [
+    "3 marta kamayadi",
+    "9 marta ortadi",
+    "3 marta ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Elektromagnitning tortish kuchi 2 N bo'lgan. Tok kuchi 4 marta orttirilsa, tortish kuchi qancha bo'ladi?",
+   "variantlar": [
+    "8 N",
+    "4 N",
+    "16 N",
+    "6 N"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tortish kuchi 12 N bo'lgan elektromagnitda tok kuchi 3 marta kamaytirilsa, tortish kuchi qancha bo'ladi?",
+   "variantlar": [
+    "4 N",
+    "36 N",
+    "3 N",
+    "9 N"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'ramlar soni (uzunlik birligiga) 2 marta orttirilsa, tortish kuchi qanday o'zgaradi (tok o'zgarmaydi)?",
+   "variantlar": [
+    "2 marta kamayadi",
+    "O'zgarmaydi",
+    "4 marta ortadi",
+    "2 marta ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Elektromagnit o'zagi uchun qaysi material ishlatiladi?",
+   "variantlar": [
+    "Bo'shatilgan po'lat yoki temirning kremniy va nikel bilan qotishmasi",
+    "Yog'och",
+    "Shisha",
+    "Sof mis"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri elektromagnit qo'llaniladigan qurilma emas?",
+   "variantlar": [
+    "Oddiy yog'och stul",
+    "Ko'targich kran",
+    "Elektr qo'ng'irog'i",
+    "Telegraf"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yong'in signalizatsiyasida harorat ortganda termistorlarning qarshiligi qanday o'zgaradi?",
+   "variantlar": [
+    "Nolga teng bo'lib qoladi",
+    "O'zgarmaydi",
+    "Keskin kamayadi",
+    "Keskin ortadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Elektr qo'ng'iroqda elektromagnit o'zagiga yakor tortilganda nima sodir bo'ladi?",
+   "variantlar": [
+    "Tok kuchi ortadi",
+    "Kuchlanish ikki marta ortadi",
+    "Zanjir yanada mustahkam ulanadi",
+    "Zanjir uziladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Vaqt relelari qanday vazifani bajaradi?",
+   "variantlar": [
+    "Oldindan belgilangan vaqt o'tgach ish zanjirini ulaydi yoki uzadi",
+    "Faqat haroratni o'lchaydi",
+    "Tok manbaini zaryadlaydi",
+    "Kuchlanishni oshiradi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Relening ish zanjirida odatda nima bo'ladi?",
+   "variantlar": [
+    "Boshqaruvchi zanjir bilan bir xil kuchsiz tok",
+    "Alohida tok manbai va katta quvvatli iste'molchilar",
+    "Faqat termistor",
+    "Faqat dinamometr"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tortish kuchi 5 N bo'lgan elektromagnitda tok 2 marta, o'ramlar soni (uzunlik birligiga) 3 marta orttirilsa, tortish kuchi qancha bo'ladi?",
+   "variantlar": [
+    "25 N",
+    "30 N",
+    "15 N",
+    "10 N"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektromagnitda tok 2 marta orttirildi, o'ramlar soni (uzunlik birligiga) esa 4 marta kamaytirildi. Dastlab tortish kuchi 8 N edi. Yangi tortish kuchi qancha?",
+   "variantlar": [
+    "4 N",
+    "2 N",
+    "1 N",
+    "16 N"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tortish kuchi 6 N bo'lgan elektromagnitni 18 N kuchga chiqarish uchun o'ramlar soni (uzunlik birligiga) o'zgarmasa, tokni necha marta orttirish kerak?",
+   "variantlar": [
+    "9 marta",
+    "2 marta",
+    "3 marta",
+    "6 marta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yong'in signalizatsiyasida xona harorati 80–100°C ga ko'tarilganda qo'ng'iroq chalinishining to'g'ri ketma-ketligi qaysi?",
+   "variantlar": [
+    "Termistor qarshiligi kamayadi → tok kamayadi → prujina yakorni tortadi → qo'ng'iroq chaladi",
+    "Termistor qarshiligi o'zgarmaydi → ish zanjiri uziladi → qo'ng'iroq chaladi",
+    "Termistor qarshiligi kamayadi → boshqaruvchi zanjirda tok ortadi → yakor o'zakka tortiladi → ish zanjiri ulanib qo'ng'iroq chaladi",
+    "Termistor qarshiligi ortadi → tok kamayadi → yakor tortiladi → qo'ng'iroq chaladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun elektromagnitli rele yordamida katta quvvatli elektrodvigatelni kuchsiz tok bilan boshqarish mumkin?",
+   "variantlar": [
+    "Chunki dvigatel boshqaruvchi zanjirning manbaidan ishlaydi",
+    "Chunki rele dvigatelning qarshiligini nolga tushiradi",
+    "Chunki boshqaruvchi zanjirdagi kuchsiz tok yakorni tortib, alohida manbali ish zanjirini tutashtiradi",
+    "Chunki rele kuchsiz tokni o'zi kuchaytirib dvigatelga beradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektr qo'ng'iroqda yakor bolg'achasi qo'ng'iroq kosachasiga takror-takror urilishining sababi qaysi?",
+   "variantlar": [
+    "Zanjir hech qachon uzilmaydi, yakor doim tortilib turadi",
+    "Kosachaning o'zi tebranib bolg'achani uradi",
+    "Zanjir uzilganda yakor dastlabki holatga qaytadi, zanjir yana ulanib, yakor yana tortiladi",
+    "Tok yo'nalishi har urilishda o'zgaradi va o'zak yo'qoladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Reostat yordamida g'altakdagi tok 2 marta orttirilganda dinamometr ko'rsatishi 3 N dan qancha bo'ladi va bu qaysi qoidaga mos keladi?",
+   "variantlar": [
+    "1,5 N; tortish kuchi tok kuchiga teskari proporsional",
+    "9 N; tortish kuchi tok kuchi kvadratiga proporsional",
+    "3 N; tortish kuchi tokka bog'liq emas",
+    "6 N; tortish kuchi tok kuchiga to'g'ri proporsional"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektromagnitli releda boshqaruvchi zanjir uzilsa, ish zanjirida nima sodir bo'ladi?",
+   "variantlar": [
+    "Yakor o'zakka yanada kuchliroq tortiladi",
+    "Ish zanjiridagi tok ikki marta ortadi",
+    "Elektromagnit doimiy magnitga aylanadi",
+    "Prujina yakorni orqaga tortadi va ish zanjiridagi tok uziladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita elektromagnit bir xil o'zak va bir xil o'ramlar soniga ega. Birinchisida tok 2 A, ikkinchisida 6 A. Birinchisining tortish kuchi 4 N bo'lsa, ikkinchisiniki qancha?",
+   "variantlar": [
+    "12 N",
+    "24 N",
+    "8 N",
+    "36 N"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

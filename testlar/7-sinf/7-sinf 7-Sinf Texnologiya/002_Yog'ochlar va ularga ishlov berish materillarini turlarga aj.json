@@ -1,0 +1,315 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Texnologiya",
+ "mavzu": "Yog'ochlar va ularga ishlov berish materillarini turlarga ajratish",
+ "savollar": [
+  {
+   "savol": "Yog'och olinadigan daraxtlar qanday asosiy turlarga ajratiladi?",
+   "variantlar": [
+    "Yosh va qari",
+    "Igna bargli va yaproqli (bargli)",
+    "Mevali va mevasiz",
+    "Baland va past"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri igna bargli daraxtga kiradi?",
+   "variantlar": [
+    "Eman",
+    "Qarag'ay",
+    "Shumtol",
+    "Chinor"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, dunyoda qarag'ayning nechta turi ma'lum?",
+   "variantlar": [
+    "Taxminan 40 ta",
+    "Taxminan 100 ta",
+    "Taxminan 20 ta",
+    "Taxminan 10 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, kedrning nechta turi mavjud?",
+   "variantlar": [
+    "45 ta",
+    "20 ta",
+    "10 ta",
+    "4 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Igna bargli daraxtlardan qanday yog'och olinadi?",
+   "variantlar": [
+    "Juda og'ir",
+    "Qattiq va mo'rt",
+    "Yumshoq",
+    "Chirib ketadigan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yaproqli daraxtlardan qanday yog'och olinadi?",
+   "variantlar": [
+    "Qattiq va mo'rt",
+    "Yumshoq va yengil",
+    "Faqat smolali",
+    "Juda yumshoq"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Terakning bir turi bo'lgan tog'terak yog'ochidan nima tayyorlanadi?",
+   "variantlar": [
+    "Faner",
+    "Eshik va deraza",
+    "Gugurt, chang'i, bochka",
+    "To'sin va reyka"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi daraxt zichligi ortiq, puxta, qattiq va nam ta'siriga chidamliligi bilan ajralib turadi?",
+   "variantlar": [
+    "Eman",
+    "Qarag'ay",
+    "Tilog'och",
+    "Terak"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hozirgi vaqtda yog'och qaysi sanoatda asosiy material hisoblanadi?",
+   "variantlar": [
+    "Metallurgiyada",
+    "Shisha ishlab chiqarishda",
+    "Plastmassa sanoatida",
+    "Sellyuloza sanoatida"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Oq qayin yaqin yillargacha qanday maqsadda ishlatilgan?",
+   "variantlar": [
+    "Gugurt sifatida",
+    "Qurilishda to'sin sifatida",
+    "Faner sifatida",
+    "Faqat o'tin sifatida"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nima uchun nina bargli yog'ochlar chirimaydi va xizmat muddati uzoq bo'ladi?",
+   "variantlar": [
+    "Ular bargli bo'lgani uchun",
+    "Ular juda qattiq bo'lgani uchun",
+    "Ular og'ir bo'lgani uchun",
+    "Tarkibida smolali moddalar bo'lgani uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun nina bargli yog'ochlarni bir joydan ikkinchi joyga tashish oson?",
+   "variantlar": [
+    "Ular juda qattiq",
+    "Ular bargli yog'ochlarga qaraganda yengil",
+    "Ular nam bo'ladi",
+    "Ularning tanasi egri"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun nina bargli yog'ochlarga ishlov berish oson?",
+   "variantlar": [
+    "Ular bargli yog'ochlardan yumshoq",
+    "Ular bargli yog'ochlardan qattiq",
+    "Ular juda og'ir",
+    "Ular chiroyli teksturali"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ustaga qarag'aydan tayyorlangan materiallar kerak. U qaysi buyumlarni olishi mumkin?",
+   "variantlar": [
+    "Faqat gugurt va chang'i",
+    "Taxta, to'sin va reyka",
+    "Faqat faner",
+    "Faqat o'tin"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'sib turgan daraxtning turini qaysi belgilarga qarab farqlash mumkin?",
+   "variantlar": [
+    "Po'stlog'i, shoxlari tuzilishi va bargiga qarab",
+    "Faqat ildiziga qarab",
+    "Faqat balandligiga qarab",
+    "Faqat soyasiga qarab"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Taxta, to'sin va xoda holidagi yog'och turi nimaga qarab aniqlanadi?",
+   "variantlar": [
+    "Faqat balandligiga",
+    "Rangi, tabiiy guli, hidi va tovlanishiga",
+    "Barglariga",
+    "Po'stlog'iga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri bargli daraxt yog'ochlariga kiradi?",
+   "variantlar": [
+    "Kedr",
+    "Pixta",
+    "Archa",
+    "Arg'uvon"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yog'och va yog'och materiallarining qurishi jarayonida bukilib, buralib ketishining oldini olish uchun nima qilish kerak?",
+   "variantlar": [
+    "Quritish qoidalariga to'liq rioya qilish",
+    "Ularni bosmasdan qoldirish",
+    "Ularni quyoshda tez quritish",
+    "Ularni suvga solib qo'yish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quritish jarayonida yog'ochni bosib turish uchun nima qilinadi?",
+   "variantlar": [
+    "Bo'yaladi",
+    "Suv sepiladi",
+    "Ustidan toshlar qo'yiladi",
+    "Mixlanadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, quyidagi daraxtlar turlari sonini taqqoslang. Qaysi javob to'g'ri tartibda (ko'pdan kamga) berilgan?",
+   "variantlar": [
+    "Qarag'ay, archa, pixta, tilog'och",
+    "Qarag'ay, pixta, archa, tilog'och",
+    "Pixta, qarag'ay, archa, tilog'och",
+    "Archa, qarag'ay, pixta, tilog'och"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qarag'ay (100 ga yaqin), tilog'och (20 dan ortiq) va kedr (4) turlari sonini qo'shsak, taxminan nechta tur bo'ladi?",
+   "variantlar": [
+    "Taxminan 60",
+    "Taxminan 100",
+    "Taxminan 124 dan ortiq",
+    "Taxminan 200"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qurilishda nina bargli yog'ochlar asosiy material hisoblanishining sabablari to'g'ri keltirilgan qatorni toping.",
+   "variantlar": [
+    "Smolali, yengil, yumshoq va tanasi to'g'ri bo'lgani uchun",
+    "Ular kam uchragani uchun",
+    "Juda og'ir va mo'rt bo'lgani uchun",
+    "Faqat rangi chiroyli bo'lgani uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ustaga namlikka chidamli, puxta va chiroyli teksturali yog'och kerak. Matndagi qaysi daraxt eng mos keladi?",
+   "variantlar": [
+    "Tog'terak",
+    "Qarag'ay",
+    "Eman",
+    "Oq qayin"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yig'ma temir beton konstruksiyalarning ishlatilishi yog'ochga ehtiyojga qanday ta'sir qildi va yog'och qayerda asosiy material bo'lib qoldi?",
+   "variantlar": [
+    "Ehtiyoj ortdi, gugurt sanoatida asosiy bo'ldi",
+    "Ehtiyoj kamaydi, yog'och butunlay ishlatilmay qoldi",
+    "Ehtiyoj ancha kamaydi, sellyuloza sanoatida asosiy material bo'lib qoldi",
+    "Ehtiyoj o'zgarmadi, faner sanoatida asosiy bo'ldi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun nina bargli daraxtlardan yaxshi sifatli xoda tayyorlanadi?",
+   "variantlar": [
+    "Tanasi egri bo'lgani uchun",
+    "Yog'ochi juda mo'rt bo'lgani uchun",
+    "Bargi keng bo'lgani uchun",
+    "Tanasi to'g'ri va silliq bo'lgani uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yog'ochning ishlatilishi nimalarga bog'liq bo'ladi?",
+   "variantlar": [
+    "Fizik va mexanik xossalariga, ishlatilish sharoitiga va miqdoriga",
+    "Faqat daraxt balandligiga",
+    "Faqat narxiga",
+    "Faqat rangiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Oq qayinning ahamiyati vaqt o'tishi bilan qanday o'zgargan?",
+   "variantlar": [
+    "Gugurtdan bochkaga aylangan",
+    "O'tindan faner va sanoat uchun qimmatbaho materialga aylangan",
+    "O'zgarmagan",
+    "Fanerdan o'tinga aylangan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Eshik, deraza va imoratlarning zarur qismlarini yasash uchun qaysi daraxtlar yog'ochidan asosan foydalaniladi?",
+   "variantlar": [
+    "Qarag'ay va tilog'och kabi daraxtlardan",
+    "Faqat emandan",
+    "Faqat tog'terakdan",
+    "Faqat oq qayindan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

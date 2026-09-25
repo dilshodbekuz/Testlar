@@ -1,0 +1,337 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Algebra",
+ "mavzu": "Qisqa ko'paytirish formulalari",
+ "savollar": [
+  {
+   "savol": "Ikki son yig'indisining kvadrati formulasi qaysi?",
+   "variantlar": [
+    "(a+b)² = a² + 2ab + b²",
+    "(a+b)² = a² - 2ab + b²",
+    "(a+b)² = a² + b²",
+    "(a+b)² = a² + ab + b²"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikki son ayirmasining kvadrati formulasi qaysi?",
+   "variantlar": [
+    "(a-b)² = a² - b²",
+    "(a-b)² = a² + 2ab + b²",
+    "(a-b)² = a² - 2ab + b²",
+    "(a-b)² = a² - ab + b²"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kvadratlar ayirmasi formulasi qaysi?",
+   "variantlar": [
+    "a² - b² = a² - 2ab + b²",
+    "a² - b² = (a+b)²",
+    "a² - b² = (a-b)²",
+    "a² - b² = (a-b)(a+b)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yig'indining kubi formulasi qaysi?",
+   "variantlar": [
+    "(a+b)³ = a³ + 3ab + b³",
+    "(a+b)³ = a³ + 2a²b + 2ab² + b³",
+    "(a+b)³ = a³ + b³",
+    "(a+b)³ = a³ + 3a²b + 3ab² + b³"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ayirmaning kubi formulasi qaysi?",
+   "variantlar": [
+    "(a-b)³ = a³ - 3a²b - 3ab² - b³",
+    "(a-b)³ = a³ - 3a²b + 3ab² - b³",
+    "(a-b)³ = a³ - b³",
+    "(a-b)³ = a³ + 3a²b + 3ab² - b³"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kublar yig'indisi formulasi qaysi?",
+   "variantlar": [
+    "a³ + b³ = (a+b)³",
+    "a³ + b³ = (a+b)(a² + ab + b²)",
+    "a³ + b³ = (a-b)(a² + ab + b²)",
+    "a³ + b³ = (a+b)(a² - ab + b²)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kublar ayirmasi formulasi qaysi?",
+   "variantlar": [
+    "a³ - b³ = (a+b)(a² + ab + b²)",
+    "a³ - b³ = (a-b)(a² - ab + b²)",
+    "a³ - b³ = (a-b)(a² + ab + b²)",
+    "a³ - b³ = (a-b)³"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(x+5)² ifoda ko'phad shaklida qanday yoziladi?",
+   "variantlar": [
+    "x² + 10x + 25",
+    "x² - 10x + 25",
+    "x² + 5x + 25",
+    "x² + 25"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'phadni ko'paytuvchilarga ajratishda birinchi navbatda nima qilinadi?",
+   "variantlar": [
+    "Barcha hadlar kvadratga oshiriladi",
+    "Kub formulalari qo'llanadi",
+    "Guruhlash usuli qo'llanadi",
+    "Umumiy ko'paytuvchi (agar bor bo'lsa) qavsdan tashqariga chiqariladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(1+a)² ≈ 1+2a taqribiy tenglik qachon qo'llaniladi?",
+   "variantlar": [
+    "a ning moduli 1 ga nisbatan juda kichik bo'lganda",
+    "a = 1 bo'lganda",
+    "a butun son bo'lganda",
+    "a katta son bo'lganda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(3m - 2n)² ni ko'phad shaklida yozing.",
+   "variantlar": [
+    "3m² - 12mn + 2n²",
+    "9m² + 12mn + 4n²",
+    "9m² - 6mn + 4n²",
+    "9m² - 12mn + 4n²"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hisoblang: 99²",
+   "variantlar": [
+    "9899",
+    "9901",
+    "9601",
+    "9801"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hisoblang: 63·57",
+   "variantlar": [
+    "3581",
+    "3609",
+    "3591",
+    "3600"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "16x² - 25 ni ko'paytuvchilarga ajrating.",
+   "variantlar": [
+    "(8x-5)(2x+5)",
+    "(4x-5)²",
+    "(16x-5)(x+5)",
+    "(4x-5)(4x+5)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x² + 10x + 25 ni ko'paytuvchilarga ajrating.",
+   "variantlar": [
+    "(x-5)²",
+    "(x+25)(x+1)",
+    "(x+5)²",
+    "(x+10)(x+15)"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "27 + b³ ni ko'paytuvchilarga ajrating.",
+   "variantlar": [
+    "(3-b)(9 + 3b + b²)",
+    "(3+b)³",
+    "(3+b)(9 + 3b + b²)",
+    "(3+b)(9 - 3b + b²)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hisoblang: 52²",
+   "variantlar": [
+    "2714",
+    "2504",
+    "2704",
+    "2604"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(1,002)² ning taqribiy qiymatini (1+a)² ≈ 1+2a formulasi bilan toping.",
+   "variantlar": [
+    "1,004",
+    "1,002",
+    "1,200",
+    "1,020"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a³ - a ni ko'paytuvchilarga ajrating.",
+   "variantlar": [
+    "a(a²+1)",
+    "(a-1)(a²+a+1)",
+    "a(a-1)²",
+    "a(a-1)(a+1)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hisoblang: 47² - 37²",
+   "variantlar": [
+    "100",
+    "740",
+    "840",
+    "940"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "4x² + 12x + 9 = 0 tenglamani yeching.",
+   "variantlar": [
+    "x = -1,5",
+    "x = 3 va x = -3",
+    "x = 1,5",
+    "x = -3"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(a²+1)² - 4a² ifodani ko'paytuvchilarga ajrating.",
+   "variantlar": [
+    "(a-1)²(a+1)²",
+    "(a²-1)²",
+    "(a²+3)(a²-1)",
+    "(a²+2a+1)(a²-2a+1) ni ko'paytirib bo'lmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x² - 36 = 0 tenglamaning ildizlari qaysi?",
+   "variantlar": [
+    "x = 36",
+    "x = 6 va x = -6",
+    "x = 18",
+    "x = 6"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "n toq son bo'lsa, (n+2)² - 1 ifodaning har doim qaysi songa bo'linishi isbotlanadi?",
+   "variantlar": [
+    "8 ga",
+    "6 ga",
+    "5 ga",
+    "7 ga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hisoblang: (258³ - 147³)/(258² + 258·147 + 147²)",
+   "variantlar": [
+    "405",
+    "147",
+    "258",
+    "111"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kvadratning ikki qarama-qarshi tomoni 8 sm ga uzaytirilib, qolgan ikki tomoni 8 sm ga qisqartirildi. Yuzi qanday o'zgaradi (a - kvadrat tomoni)?",
+   "variantlar": [
+    "16a sm² ga kamayadi",
+    "64 sm² ga ortadi",
+    "o'zgarmaydi",
+    "64 sm² ga kamayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a = 4, b = 48 bo'lsa, 5a² - ... emas, quyidagini hisoblang: m = 14, n = 4 da 5m² - 10mn + 5n² ning qiymati nechaga teng?",
+   "variantlar": [
+    "400",
+    "100",
+    "500",
+    "250"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x³ - 8 ni ko'paytuvchilarga ajratish natijasi qaysi?",
+   "variantlar": [
+    "(x-2)(x² - 2x + 4)",
+    "(x+2)(x² - 2x + 4)",
+    "(x-2)(x² + 2x + 4)",
+    "(x-2)³"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(x-3)(x²+3x+9) - x(x+4)(x-4) = 21 tenglamani yeching.",
+   "variantlar": [
+    "x = -3",
+    "x = 3",
+    "x = 1",
+    "x = -1"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x⁴ - 16 ni to'liq ko'paytuvchilarga ajrating.",
+   "variantlar": [
+    "(x-4)(x+4)(x²+1)",
+    "(x-2)²(x+2)²",
+    "(x²-4)²",
+    "(x-2)(x+2)(x²+4)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

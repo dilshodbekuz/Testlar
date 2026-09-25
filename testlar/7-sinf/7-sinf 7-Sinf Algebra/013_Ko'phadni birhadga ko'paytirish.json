@@ -1,0 +1,337 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Algebra",
+ "mavzu": "Ko'phadni birhadga ko'paytirish",
+ "savollar": [
+  {
+   "savol": "Ko'phadni birhadga ko'paytirish uchun nima qilish kerak?",
+   "variantlar": [
+    "Faqat ko'phadning oxirgi hadini birhadga ko'paytirish kerak",
+    "Ko'phadning hadlarini qo'shib, yig'indini birhadga qo'shish kerak",
+    "Ko'phadning har bir hadini shu birhadga ko'paytirib, hosil bo'lgan ko'paytmalarni qo'shish kerak",
+    "Faqat ko'phadning birinchi hadini birhadga ko'paytirish kerak"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'phadni birhadga ko'paytirish natijasida nima hosil bo'ladi?",
+   "variantlar": [
+    "Ko'phad",
+    "Butun son",
+    "Kasr",
+    "Birhad"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'phadni birhadga ko'paytirgandan keyin hosil bo'lgan ko'phad bilan nima qilish kerak?",
+   "variantlar": [
+    "Uni o'zgartirmasdan qoldirish kerak",
+    "Hadlarini standart shaklda yozib, soddalashtirish kerak",
+    "Uning faqat birinchi hadini qoldirish kerak",
+    "Uni birhadga bo'lish kerak"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'phadni birhadga ko'paytirishda qaysi qonundan foydalaniladi?",
+   "variantlar": [
+    "Ayirishning taqsimot qonuni",
+    "Qo'shishning o'rin almashtirish qonuni",
+    "Qo'shishning guruhlash qonuni",
+    "Ko'paytirishning taqsimot qonuni"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "3(a + b) ifodani ko'phad shaklida yozing.",
+   "variantlar": [
+    "3a + 3b",
+    "a + 3b",
+    "3a + b",
+    "3ab"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Birhadni ko'phadga ko'paytirish nima uchun ko'phadni birhadga ko'paytirishga o'xshash bajariladi?",
+   "variantlar": [
+    "Chunki birhad har doim 1 ga teng",
+    "Chunki ko'paytuvchilarning o'rinlarini almashtirish bilan ko'paytma o'zgarmaydi",
+    "Chunki ko'phad birhad bilan bir xil",
+    "Chunki qo'shish har doim ko'paytirishga teng"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "2a(a + 1) ko'paytmani toping.",
+   "variantlar": [
+    "a² + 2a",
+    "2a + 2",
+    "2a² + 2a",
+    "2a² + 1"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(-5)·(10 + m) ko'paytmani toping.",
+   "variantlar": [
+    "50 - 5m",
+    "-15 - 5m",
+    "-50 + 5m",
+    "-50 - 5m"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'g'ri burchakli parallelepipedning hajmi qanday topiladi?",
+   "variantlar": [
+    "Asosining perimetri bilan balandligining yig'indisiga teng",
+    "Asosining yuzi bilan balandligining ko'paytmasiga teng",
+    "Asosining yuzi bilan balandligining yig'indisiga teng",
+    "Faqat balandligining kvadratiga teng"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "5(x - 2) ifodani ko'phad shaklida yozing.",
+   "variantlar": [
+    "5x + 10",
+    "5x - 10",
+    "5x - 2",
+    "x - 10"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "7ab(2ab + 3) ko'paytmani toping.",
+   "variantlar": [
+    "14a²b² + 3",
+    "14ab + 21ab",
+    "9a²b² + 10ab",
+    "14a²b² + 21ab"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "-6x(5y - x²) ko'paytmani toping.",
+   "variantlar": [
+    "-30xy - 6x³",
+    "-30y + 6x³",
+    "-30xy + 6x³",
+    "30xy + 6x³"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(-5x + 4yz)·2 ko'paytmani toping.",
+   "variantlar": [
+    "10x + 8yz",
+    "-10x + 4yz",
+    "-10x + 8yz",
+    "-5x + 8yz"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3a(a² - 2a + 1) ko'paytmani toping.",
+   "variantlar": [
+    "3a² - 6a + 3",
+    "3a³ - 6a² + 3a",
+    "3a³ - 2a² + 1",
+    "3a³ - 6a² + 1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "5(a - b) - 4(a + b) ifodani soddalashtiring.",
+   "variantlar": [
+    "a - b",
+    "9a - b",
+    "a - 9b",
+    "a + 9b"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3(2x - 1) ifodaning x = 2 bo'lgandagi qiymatini toping.",
+   "variantlar": [
+    "5",
+    "6",
+    "12",
+    "9"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2a(3a - b) ko'paytmani toping.",
+   "variantlar": [
+    "6a² - b",
+    "6a² - 2ab",
+    "5a² - 2ab",
+    "6a - 2ab"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "-2x(3x² - x + 4) ko'paytmani toping.",
+   "variantlar": [
+    "-6x³ - 2x² - 8x",
+    "-6x³ + 2x² - 8x",
+    "-6x³ + 2x² + 8x",
+    "6x³ + 2x² - 8x"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(a + 2b + c)(3ab) ko'paytmani standart shaklda yozganda, ab² hadning koeffitsiyenti nechaga teng?",
+   "variantlar": [
+    "2",
+    "6",
+    "1",
+    "3"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "4pq(3p² - q + 2) = 12p³q - 4pq² + 8pq tenglikda ko'paytmaning ikkinchi hadi qaysi?",
+   "variantlar": [
+    "-4pq²",
+    "8pq",
+    "4pq²",
+    "12p³q"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2x(x - 3) - x(x + 2) ifodani soddalashtiring.",
+   "variantlar": [
+    "x² - 4x",
+    "3x² - 8x",
+    "x² + 8x",
+    "x² - 8x"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3(2a - b) - 2(a - 3b) ifodaning a = 2, b = -1 bo'lgandagi qiymatini toping.",
+   "variantlar": [
+    "5",
+    "-1",
+    "11",
+    "8"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Parallelepipedning o'lchamlari a, 2b va c bo'lib, hajmi (a + 2b + c)(3ab) ifoda bilan berilgan. a = 1, b = 1, c = 2 bo'lsa, ifodaning qiymati nechaga teng?",
+   "variantlar": [
+    "15",
+    "30",
+    "12",
+    "18"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2x(x + 3) = 2x² + □ tenglikda □ o'rniga nimani yozish kerak?",
+   "variantlar": [
+    "3x",
+    "6x",
+    "6",
+    "5x"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "□·(a + b) = 3a² + 3ab tenglik to'g'ri bo'lishi uchun □ o'rniga qanday birhad yozish kerak?",
+   "variantlar": [
+    "3b",
+    "3ab",
+    "3a",
+    "a"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3(x - 2) = 2(x + 1) tenglamani yeching.",
+   "variantlar": [
+    "x = 8",
+    "x = 4",
+    "x = -8",
+    "x = 5"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a(a + b) - b(a - b) ifodani soddalashtiring.",
+   "variantlar": [
+    "a² + 2ab + b²",
+    "a² + b²",
+    "a² + ab + b²",
+    "a² - b²"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a(2b + 1) - b(2a - 1) ifodaning a = 10, b = 5 bo'lgandagi qiymatini toping.",
+   "variantlar": [
+    "5",
+    "25",
+    "15",
+    "105"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3x(x + k) = 3x² + 12x tenglik to'g'ri bo'lishi uchun k nechaga teng bo'lishi kerak?",
+   "variantlar": [
+    "3",
+    "12",
+    "4",
+    "9"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2a(a² - 3a + 4) ko'paytma standart shaklga keltirilganda, uning barcha koeffitsiyentlari yig'indisi nechaga teng?",
+   "variantlar": [
+    "-4",
+    "0",
+    "12",
+    "4"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

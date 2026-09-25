@@ -1,0 +1,326 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Ona tili",
+ "mavzu": "TENG BOG'LOVCHILAR",
+ "savollar": [
+  {
+   "savol": "O'zaro teng munosabatdagi gap bo'laklari va gaplarni bog'lab keluvchi bog'lovchilar qanday bog'lovchilar hisoblanadi?",
+   "variantlar": [
+    "Teng bog'lovchilar",
+    "Ergashtiruvchi bog'lovchilar",
+    "Yordamchi bog'lovchilar",
+    "Bog'lovchi vositalar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri biriktiruv bog'lovchilari qatoriga kiradi?",
+   "variantlar": [
+    "na ... na",
+    "ammo, lekin, biroq",
+    "yoki, goh ... goh",
+    "va, hamda, bilan, ham"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zidlov bog'lovchilari qatorini toping.",
+   "variantlar": [
+    "na ... na",
+    "yoki, yo ... yo",
+    "va, hamda",
+    "ammo, lekin, biroq"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri ayiruv bog'lovchisi emas?",
+   "variantlar": [
+    "xoh ... xoh",
+    "ammo",
+    "dam ... dam",
+    "yoki"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Inkor bog'lovchisi qaysi?",
+   "variantlar": [
+    "na ... na",
+    "yo ... yo",
+    "goh ... goh",
+    "hamda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Teng bog'lovchilar nechta guruhga bo'linadi?",
+   "variantlar": [
+    "3 ta",
+    "2 ta",
+    "5 ta",
+    "4 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Teng bog'lovchilar gap bo'laklari va gaplarni bog'lash bilan birga yana nimani ro'yobga chiqaradi?",
+   "variantlar": [
+    "Ular o'rtasidagi mazmuniy munosabatni",
+    "Gapning ohangini",
+    "So'zning ma'nosini o'zgartirishni",
+    "Gapning egasini"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Bir ... bir\" bog'lovchisi qaysi guruhga kiradi?",
+   "variantlar": [
+    "Zidlov bog'lovchilari",
+    "Inkor bog'lovchisi",
+    "Ayiruv bog'lovchilari",
+    "Biriktiruv bog'lovchilari"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Ba'zan ... ba'zan\" bog'lovchisi qaysi guruhga kiradi?",
+   "variantlar": [
+    "Biriktiruv bog'lovchilari",
+    "Zidlov bog'lovchilari",
+    "Inkor bog'lovchisi",
+    "Ayiruv bog'lovchilari"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Bilan\" so'zi qaysi bog'lovchilar guruhida berilgan?",
+   "variantlar": [
+    "Biriktiruv bog'lovchilari",
+    "Ayiruv bog'lovchilari",
+    "Zidlov bog'lovchilari",
+    "Inkor bog'lovchisi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Ammo u kampirga biror og'iz ham shirin so'z so'zlamabdi\" gapida \"ammo\" qanday mazmuniy munosabatni bildiradi?",
+   "variantlar": [
+    "Biriktirish",
+    "Ayirish",
+    "Inkor",
+    "Zidlik"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Kovush tikishga na charm bor, na sirach, na mix, na lok\" gapida \"na ... na\" qanday munosabatni ifodalaydi?",
+   "variantlar": [
+    "Inkor",
+    "Biriktirish",
+    "Ayirish",
+    "Zidlik"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Goh tentirab ketaman uzoq\" misrasidagi \"goh\" so'zi qaysi guruhdagi bog'lovchining bir qismi?",
+   "variantlar": [
+    "Zidlov bog'lovchilari",
+    "Biriktiruv bog'lovchilari",
+    "Ayiruv bog'lovchilari",
+    "Inkor bog'lovchisi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Bu qizcha undan jon so'rasa, balki, ayamasdi. Lekin non qani?\" gapidagi \"lekin\" qaysi guruhga kiradi?",
+   "variantlar": [
+    "Biriktiruv bog'lovchisi",
+    "Ayiruv bog'lovchisi",
+    "Zidlov bog'lovchisi",
+    "Inkor bog'lovchisi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Va lekin dumida nish – zahari bor\" misrasida qaysi bog'lovchilar qatnashgan?",
+   "variantlar": [
+    "va (biriktiruv) va lekin (zidlov)",
+    "va (inkor) va lekin (zidlov)",
+    "va (ayiruv) va lekin (biriktiruv)",
+    "faqat lekin (zidlov)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi gapda biriktiruv bog'lovchisi ishlatilgan?",
+   "variantlar": [
+    "Ali va Vali maktabga bordi.",
+    "Ali keldi, ammo Vali kelmadi.",
+    "Ali yoki Vali keladi.",
+    "Na Ali, na Vali keldi."
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi gapda zidlov bog'lovchisi ishlatilgan?",
+   "variantlar": [
+    "Men va sen boramiz.",
+    "Men borardim, biroq vaqtim yo'q edi.",
+    "Men na boraman, na qolaman.",
+    "Men yoki sen borasan."
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi gapda ayiruv bog'lovchisi ishlatilgan?",
+   "variantlar": [
+    "Bahor keldi, lekin sovuq.",
+    "Na bahor, na yoz keldi.",
+    "Bahor va yoz keldi.",
+    "Yo bahor keladi, yo yoz."
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi gapda inkor bog'lovchisi ishlatilgan?",
+   "variantlar": [
+    "Yomg'ir hamda qor yog'di.",
+    "Na yomg'ir yog'di, na qor.",
+    "Yomg'ir yog'di, ammo qor yog'madi.",
+    "Yomg'ir yoki qor yog'di."
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Hamda, biroq, dam ... dam, yoki\" bog'lovchilari qaysi guruhlarga mansub (tartib bo'yicha)?",
+   "variantlar": [
+    "biriktiruv, ayiruv, zidlov, inkor",
+    "biriktiruv, zidlov, ayiruv, ayiruv",
+    "ayiruv, zidlov, biriktiruv, ayiruv",
+    "zidlov, biriktiruv, ayiruv, ayiruv"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"U rostini gapirib bergani uchun onasi urishmadi, balki yolg'on gapirish odobli bolaning ishi emasligini aytdi\" gapida \"balki\" bog'lovchisi qaysi mazmuniy munosabatni ifodalaydi (matndagi mashqqa ko'ra)?",
+   "variantlar": [
+    "Inkor",
+    "Ayirish",
+    "Zidlik",
+    "Biriktirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi qatorlardan qaysi birida barcha bog'lovchilar turli guruhlarga mansub?",
+   "variantlar": [
+    "va, hamda, bilan, ham",
+    "ammo, lekin, biroq, yoki",
+    "va, ammo, yoki, na ... na",
+    "yo ... yo, goh ... goh, va, hamda"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi qatordagi barcha bog'lovchilar ayiruv bog'lovchilariga kiradi?",
+   "variantlar": [
+    "yoki, ammo, goh ... goh, xoh ... xoh",
+    "yoki, xoh ... xoh, bir ... bir, dam ... dam",
+    "yo ... yo, lekin, biroq, bir ... bir",
+    "va, yoki, dam ... dam, ba'zan ... ba'zan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga ko'ra, guruhlar bo'yicha bog'lovchilar sonini hisoblang: biriktiruv va zidlov bog'lovchilari jami nechta (\"na ... na\" hisobga olinmaydi)?",
+   "variantlar": [
+    "7 ta",
+    "5 ta",
+    "8 ta",
+    "6 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ayiruv bog'lovchilari ro'yxatida (yoki, yo ... yo, goh ... goh, dam ... dam, bir ... bir, ba'zan ... ba'zan, xoh ... xoh) nechta bog'lovchi berilgan?",
+   "variantlar": [
+    "6 ta",
+    "8 ta",
+    "5 ta",
+    "7 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Yomg'ir goh to'xtadi, goh yana boshlandi\" gapida bog'lovchi qaysi guruhga kiradi va nimani bildiradi?",
+   "variantlar": [
+    "Inkor; rad etishni",
+    "Biriktiruv; qo'shishni",
+    "Ayiruv; voqealarning navbatlashuvini",
+    "Zidlov; qarama-qarshilikni"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Men shirinlik yeyman, lekin ... \" gapini mazmunan to'g'ri davom ettiruvchi variantni toping (zidlov bog'lovchisi ma'nosiga ko'ra).",
+   "variantlar": [
+    "tish shifokoriga borishdan qo'rqaman.",
+    "yoki sut ichaman.",
+    "na non, na go'sht yeyman.",
+    "va yana shokolad ham yeyman."
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi gaplarning qaysi birida bog'lovchi noto'g'ri turga kiritilgan?",
+   "variantlar": [
+    "Kitob va daftar stol ustida edi. (biriktiruv)",
+    "U keldi, ammo kutmadi. (zidlov)",
+    "Na kitob, na daftar bor edi. (ayiruv)",
+    "Yo o'qi, yo yoz. (ayiruv)"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi gapda bir vaqtning o'zida biriktiruv va zidlov bog'lovchilari qatnashgan?",
+   "variantlar": [
+    "Ali keldi, ammo Vali biroq kelmadi.",
+    "Ali hamda Vali keldi, lekin Karim kelmadi.",
+    "Na Ali, na Vali keldi.",
+    "Ali yoki Vali keldi, yo Karim keldi."
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

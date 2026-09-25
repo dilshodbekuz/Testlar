@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Tabiatshunoslik",
+ "mavzu": "Odam tanasi",
+ "savollar": [
+  {
+   "savol": "Odam tanasining asosiy qismlari qanday?",
+   "variantlar": [
+    "Faqat bosh, bo'yin va gavda",
+    "Bosh, bo'yin, gavda, qo'l va oyoq",
+    "Gavda, qo'l, oyoq va qorin",
+    "Bosh, qo'l, oyoq va shox"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Odam tanasini qanday narsa qoplagan?",
+   "variantlar": [
+    "Qon tomirlari",
+    "Teri",
+    "Muskullar",
+    "Suyaklar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Teri ostida nima bor?",
+   "variantlar": [
+    "O'pka",
+    "Ichaklar",
+    "Suyaklar",
+    "Muskullar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Muskullar nimaga birikkan?",
+   "variantlar": [
+    "Nervlarga",
+    "Teriga",
+    "Suyaklarga",
+    "Qon tomirlariga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Odam tanasi ichida qanday muhim ichki a'zolar bor?",
+   "variantlar": [
+    "Yurak, jigar, oyoq va qo'l",
+    "Faqat yurak va o'pka",
+    "Yurak, o'pka, jigar, oshqozon, ichak",
+    "Jigar, oshqozon va ichak"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Teri tanamizni nimalardan himoya qiladi?",
+   "variantlar": [
+    "Faqat shikastlanishdan",
+    "Faqat mikroblardan",
+    "Faqat chang va suv",
+    "Shikastlanish, suv, chang va mikroblardan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Terida qanday tomirlari bor?",
+   "variantlar": [
+    "Juda mayda qon tomirlari",
+    "Faqat vena",
+    "Faqat arteriya",
+    "Katta qon tomirlari"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Teridagi xaltacha va naychalarda nima bo'ladi?",
+   "variantlar": [
+    "Faqat yog'",
+    "Muskullar",
+    "Faqat ter (suv)",
+    "Yog' va ter (suv)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ter va yog' tanamizda qanday vazifani bajaradi?",
+   "variantlar": [
+    "Faqat harakatni ta'minlaydi",
+    "Tana haroratini saqlab turishda ishtirok etadi",
+    "Faqat ovqatni hazm qiladi",
+    "Faqat himoya qiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qanday a'zolar odam tanasining asosiy tashqi qismlari?",
+   "variantlar": [
+    "Bosh, bo'yin, gavda, qo'l, oyoq",
+    "Yurak, o'pka, jigar",
+    "Miya, nerv, qon",
+    "Suyak, muskullar, teri"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Teri qon tomirlari orqali tana haroratini saqlab turishda qanday rol o'ynaydi?",
+   "variantlar": [
+    "Jigar harorat boshqaruvi uchun mas'ul",
+    "Terida bo'lgan yog' va ter haroratni regulyatsiya qiladi",
+    "Muskullar yagona harorat regulyatori",
+    "Faqat suyaklar haroratni boshqaradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Muskullar suyaklarga birikishi odam tanamizida qanday ahamiyatga ega?",
+   "variantlar": [
+    "Harakatni ta'minlaydi va tanamizni mustahkam qiladi",
+    "Faqat rang beraydi",
+    "Faqat sog'linadi",
+    "Faqat gidlang bo'laydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yurak va o'pka birgalikda odam tanasida qanday funktsiya bajaradi?",
+   "variantlar": [
+    "Faqat miyadagi signallarni uzatadi",
+    "Faqat ruxni toza qiladi",
+    "Faqat ovqatni hazm qiladi",
+    "Qonni aylantirib, unga kislorod ta'minlaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Oshqozon va ichaklar birgalikda qanday vazifani bajaradi?",
+   "variantlar": [
+    "Ruxni toza qiladi",
+    "Ovqatni hazm qiladi va oziqlantiraydi",
+    "Qonni aylantirib chiqadi",
+    "Shuluklarga qarab turadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Teri tanamizni chang va mikroblardan qanday himoya qiladi?",
+   "variantlar": [
+    "Teri faqat haroratni regulyatsiya qiladi",
+    "Teri qon aylantirishni boshqaradi",
+    "Teri ovqatni hazm qiladi",
+    "Teri tashqida joylashgan saqlavchi baryer bo'lib xizmat qiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Odam tanasining tashqi qismlari ichki a'zolarga nimasi orqali bog'lanadi?",
+   "variantlar": [
+    "Faqat muskullar",
+    "Faqat qon tomirlari",
+    "Faqat teri",
+    "Muskullar, qon tomirlari va nervlar orqali"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jigar odam tanasida qanday muhim rol o'ynaydi?",
+   "variantlar": [
+    "Faqat ovqatni hazm qiladi",
+    "Faqat o'pka ishini boshqaradi",
+    "Faqat qonni aylantirib chiqadi",
+    "Zararli moddalarni tozalaydi va oziq moddalarni qayta ishlaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Teri va muskullar odam harakatida qanday birgalikda ishlaywadi?",
+   "variantlar": [
+    "Teri va muskullar alohida ishlaydi",
+    "Muskullar suyaklarga birikib, harakatni ta'minlaydi",
+    "Muskullar teri orqali o'zlarini faoliyatini yuboradilar",
+    "Teri muskullarni harakatlantirib chiqadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Odam tanasining barcha qislari birgalikda ishlashi uchun nima zarur?",
+   "variantlar": [
+    "Yurak, o'pka, jigar va boshqa a'zolar birgalikda ishlashlari kerak",
+    "Faqat suyaklar ishlashi kerak",
+    "Faqat teri muhim",
+    "Faqat yurak yetarli"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Teri qanday tuzilish tufayli tanamizni barcha khatarlardan himoya qiladi?",
+   "variantlar": [
+    "Faqat yuqori qavati",
+    "Teri mayda qon tomirlari va ich xaltachalari bilan tashkil topgan",
+    "Faqat bosh qatlamining teri",
+    "Faqat pastki qavati"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Odam tanasining tuzilishi uni qanday shakllarda mustahkamlagni ko'rsatadi?",
+   "variantlar": [
+    "Faqat muskullar",
+    "Suyaklar, muskullar, teri va ichki a'zolarning koordinatsiyalangan tizimi",
+    "Faqat suyaklar",
+    "Teri yagona himoya faktori"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Teri himoya funktsiyasini to'liq bajarishi uchun qanday xususiyatlarga ega bo'lishi zarur?",
+   "variantlar": [
+    "Faqat rang tarqatish",
+    "Faqat soyamiz bo'lish",
+    "Faqat mustahkamlashish",
+    "Mayda qon tomirlari, yog' va ter bilan qoplangan bo'lishi kerak"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Teridag yog' va suv (ter) harorat regulyatsiyasida qanday roli bor?",
+   "variantlar": [
+    "Ikkilasi ham faqat naminadi",
+    "Yog' issiqni saqlab qoladi, ter sog'lanish orqali haroratni tushiradi",
+    "Faqat ter muhim",
+    "Faqat yog' haroratni regulyatsiya qiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yurak, o'pka, jigar va oshqozonning birgalikda ishlemasi odamni qanday ta'minlaydi?",
+   "variantlar": [
+    "Faqat ovqat hazmi",
+    "Qonni aylantirib, unga kislorod va oziq moddalarni ta'minlab, zararli moddalrni tozalab, ovqatni hazm qiladi",
+    "Faqat qon aylanishi",
+    "Faqat kislorod ta'minoti"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Odam tanasining tashqi va ichki qismlari o'zaro bog'lanishning ahamiyati nima?",
+   "variantlar": [
+    "Bog'lanish faqat tasavvufi",
+    "Bog'lanish faqat rangda ko'rinadi",
+    "Har bir a'zo o'z vazifasini bajarishi uchun bu bog'lanish zarur",
+    "Tashqi va ichki qismlari alohida ishlashlari mumkin"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Teri qon tomirlari hayot funktsiyasida qanday rol o'ynaydi?",
+   "variantlar": [
+    "Faqat qonni o'zida saqlaydi",
+    "Qon orqali oziq moddalar va kislorod yetkazip, zararli moddalarn olib ketadi",
+    "Faqat oziq moddalarni yetkazadi",
+    "Faqat kislorodni yetkazadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Muskullar suyaklarga biriktirish orqali odam harakati qanday organizmni ta'minlaydi?",
+   "variantlar": [
+    "Muskullar kontraktsiya qilish orqali suyakni harakatlantirib, yurishni, qo'lni siljitishni ta'minlaydi",
+    "Faqat qo'lni siljitishni",
+    "Faqat o'zini tutish",
+    "Faqat yurishni ta'minlaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Odam tanasining har bir a'zosi o'z vazifasini bajarmasdan hayot qanday ta'sirga uchraydi?",
+   "variantlar": [
+    "A'zolar takroriy bo'ladi",
+    "Har bir a'zo muhim bo'lganidan, agar biror a'zo buzilsa odam sog'ligi yomonlashadi",
+    "Faqat yurak muhimdir",
+    "Biror a'zo buzilsa boshqasi uning o'rnini bosadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tani tashkil etuvchi barcha tizimlar (teri, muskullar, suyaklar, ichki a'zolar) birgalikda ishlashining prinsipi nima?",
+   "variantlar": [
+    "Har bir tizim alohida vazifani bajarish bilan bir qatorda, barchasi birgalikda odam organismi faoliyatini ta'minlaydi",
+    "Har bir tizim yagona ishlaydi",
+    "Birgalikda ishlash kerak emas",
+    "Tanamiz o'z o'zini boshqarib chiqadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Teri himoyasi faqat tashqida bo'lgan khatarlardan emas, qanday yo'l bilan ichka haroratni ham regulyatsiya qiladi?",
+   "variantlar": [
+    "Faqat yurak orqali",
+    "Faqat muskullar bilan",
+    "Faqat jigar orqali",
+    "Terida mayda qon tomirlari orqali yuqaladigan issiqlik miqdorini boshqarib, ter sog'lanishi orqali haroratni tushiradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

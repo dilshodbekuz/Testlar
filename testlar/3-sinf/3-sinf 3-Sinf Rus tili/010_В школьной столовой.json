@@ -1,0 +1,326 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Rus tili",
+ "mavzu": "В школьной столовой",
+ "savollar": [
+  {
+   "savol": "Stol orqasida vilka qaysi qo'lda tutiladi?",
+   "variantlar": [
+    "Chap qo'lda",
+    "Boshqa joyda",
+    "O'ng qo'lda",
+    "Ikkala qo'lda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Stol orqasida pichoq qaysi qo'lda tutiladi?",
+   "variantlar": [
+    "O'ng qo'lda",
+    "Ikkala qo'lda",
+    "Piyolada",
+    "Chap qo'lda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ovqatdan oldin nima qilish kerak?",
+   "variantlar": [
+    "Ko'zni yuvish",
+    "Tish cho'tkasi bilan tozalash",
+    "Oyoqni yuvish",
+    "Qo'llarni yuvish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Stol orqasida ovqat qilayotganda nima qilmaslik kerak?",
+   "variantlar": [
+    "Vilka ishlatmaslik",
+    "Supp ichmaslik",
+    "Non yemoq",
+    "Gapirmaslik"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vitya nima yo'qotdi?",
+   "variantlar": [
+    "Tushlik",
+    "Qalamni",
+    "Kitob",
+    "Pul"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Volodya Vityaga nima berdi?",
+   "variantlar": [
+    "Supp",
+    "Non sariyog'li",
+    "Plov",
+    "Chay"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sendvichni tayyorlash uchun birinchi qadami nima?",
+   "variantlar": [
+    "Ikkita non bo'lagi olish",
+    "Non kesish",
+    "Terelicha qo'yish",
+    "Chay pishirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Maktab kafetasida qaysi salatalar bor?",
+   "variantlar": [
+    "Faqat Olivier",
+    "Faqat vinegret",
+    "Olivier va ashanasi",
+    "Olivier va vinegret"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Maktab kafetasida qaysi ikinchi taomlar bor?",
+   "variantlar": [
+    "Supp va borshch",
+    "Kotleta, befstroganov, tuxum qovurilgan",
+    "Plov va ashanasi",
+    "Non va salat"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Non qaysi ko'l bilan olinadi?",
+   "variantlar": [
+    "Chashshani bilan",
+    "Qo'l bilan",
+    "Vilka bilan",
+    "Pichoq bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar stol orqasida vilka chap qo'lda, pichoq o'ng qo'lda bo'lsa va tinch o'tirsang, qaysi qoidalarni bajarasan?",
+   "variantlar": [
+    "Hech bir qoidani",
+    "Vilka va tinchlik qoidalarini",
+    "Faqat vilka qoidasini",
+    "Faqat tinchlik qoidasini"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sendvichni tayyorlashning ikkinchi qadami nima?",
+   "variantlar": [
+    "Non kesish",
+    "Non bo'lagiga sariyog' surtish",
+    "Supp qo'yish",
+    "Med surtish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sendvichni tayyorlashda uchinchi qadami nima?",
+   "variantlar": [
+    "Non kesish",
+    "Supp qo'yish",
+    "Chay pishirish",
+    "Ikkinchi bo'lagiga med surtish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sendvichni tayyorlashning oxirgi qadami nima?",
+   "variantlar": [
+    "Chay bilan yemoq",
+    "Chay pishirish",
+    "Non bo'laklarni birlashtirish",
+    "Terelicha qo'yish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar stol orqasida xavf chiqarsang va gapirsan, qaysi qoidalarni buzasan?",
+   "variantlar": [
+    "Faqat xavf chiqarish qoidasini",
+    "Faqat gapirish qoidasini",
+    "Xavf chiqarish va gapirish qoidalarini",
+    "Vilka qoidasini"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kichik qiz doktor so'zini eshitgandan keyin o'z xatti-harakatida nima o'zgartirib yubordi?",
+   "variantlar": [
+    "\"Men o'zim!\" demoqni boshladi",
+    "Doktorni yashirina boshladi",
+    "Ko'p gapira boshladi",
+    "Ovqat yemoqni to'xtadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Doktor kichik qizning onasiga nima dedi?",
+   "variantlar": [
+    "Ovqat yomon tayyorladi",
+    "Choy ko'p ichish kerak",
+    "Qo'z o'z-o'zini o'rganib olmagunicha, ona tuzalmaydi",
+    "Ko'chada o'ynash kerak"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sorshkorrogvoriyada \"Masha kasha nadoela\" dedilsa, bu nima anglatadi?",
+   "variantlar": [
+    "Kasha yomon tayyorlandi",
+    "Masha kashasini yedi",
+    "Masha kasha yemaydigan qilib o'tdi",
+    "Masha kashasidan bezor bo'ldi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sorshkorrogvoriyada \"Masha, kashu doyeda\" nima anglatadi?",
+   "variantlar": [
+    "Masha kashasini tugamasin, onasini xafa qilmasin",
+    "Masha kasha yemoqni boshsin",
+    "Kasha yomon ekan",
+    "Kasha achchiq ekan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Maktab kafetasining menusida qarchoq taomlar nima?",
+   "variantlar": [
+    "Bulochka va pirogni",
+    "Chay va kompot",
+    "Supp va borshch",
+    "Plov va befstroganov"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Vitya, Kolya, Misha va Volodyaning hikoyasida Volodya Vityaga qanday maslahat bermadi?",
+   "variantlar": [
+    "Non kesishni aytdi",
+    "Doskoni to'ntarib yubordi",
+    "Supp ichishni aytdi",
+    "Sarflash, faqat non berdi va gapirmasdi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sendvich tayyorlashda sariyog' va medni qaysi qismlarga surtiladi?",
+   "variantlar": [
+    "Ikkita turli non bo'lagiga",
+    "Terelicha",
+    "Birgina non bo'lagiga",
+    "Piyolaga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Vitya tushlikni yo'qotgandan keyin do'stlarining harakatlari tabiiy edi deb siz fikridan, Kolya va Misha nima qildi?",
+   "variantlar": [
+    "Tushlik qidira boshladi",
+    "Faqat savollar berdiler",
+    "Gapiroq berdi faqat",
+    "Birga Non yedi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Stol orqasida xulq-atvofa qoidalarini bajarish uchun nechi xil narsani bilish kerak?",
+   "variantlar": [
+    "Vilka, pichoq, tinchlik va gapirish qoidalarini",
+    "Faqat vilka qoidasini",
+    "Faqat supp qoidasini",
+    "Faqat non yemoq qoidasini"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar biror bolaning stol orqasida xatti-harakati Vitya kabi bo'lsa, siz unga nima maslahat bergan bo'lar edingiz?",
+   "variantlar": [
+    "Volodya kabi samimiy maslahat ber va yordam ber",
+    "Tushlik qidira turish",
+    "Ovqat yemoqni to'xtatin",
+    "Ovqat yomasligi haqida gapir"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kichik qizning talab-talaqlari endi o'zgarib, onaning sog'lig'i yaxshi bo'ldi. Bu nima sabab bo'ldi?",
+   "variantlar": [
+    "Uyda yotdi",
+    "Doktor dorilar berdi",
+    "Qo'z o'z-o'zi harakat qila boshlagan va ona kasallanmasdan",
+    "Dorilar ekanligidan"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Maktab kafetasida birinchi taomlardan qaysilarni tayyorlash qiyin?",
+   "variantlar": [
+    "Kompot va sho'rva",
+    "Supp va shurpa",
+    "Borshch va plov",
+    "Faqat supp"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Stol orqasida xulq-atvofa qoidalarini Vitya va kichik qizning qissalari orqali qanday ko'rinadi?",
+   "variantlar": [
+    "Qoidalar faqat kata odamlar uchun",
+    "Qoidalar qo'lga tushmaydi",
+    "Qoidalar zaruriy emas",
+    "Vitya bilmasa, Volodya ko'rsatdi; qo'z o'rganib, o'ziga olik bo'ldi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar siz maktab kafetasida tushlik qilganda stol orqasida tinch o'tirsangiz, vilka, pichoq va non qoidalarini bajargan bo'lar edingiz. Biroq xavf chiqartirsangiz, siz nechta qoidani buzgan bo'lar edingiz?",
+   "variantlar": [
+    "Uchta qoidani",
+    "Bitta qoidani",
+    "Ikkita qoidani",
+    "To'rtta qoidani"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

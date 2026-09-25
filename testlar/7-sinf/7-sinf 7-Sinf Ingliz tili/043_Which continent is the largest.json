@@ -1,0 +1,337 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Ingliz tili",
+ "mavzu": "Which continent is the largest?",
+ "savollar": [
+  {
+   "savol": "Matnga ko'ra, dunyodagi eng uzun daryo qaysi?",
+   "variantlar": [
+    "Sirdaryo",
+    "Nil",
+    "Amazonka",
+    "Volga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, eng baland bo'yli hayvon qaysi?",
+   "variantlar": [
+    "Gepard",
+    "Jirafa",
+    "Fil",
+    "Karkidon"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, eng tez yuguruvchi hayvon qaysi?",
+   "variantlar": [
+    "Jirafa",
+    "Oq karkidon",
+    "Gepard",
+    "Fil"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dunyodagi eng katta issiq cho'l qaysi?",
+   "variantlar": [
+    "Qoraqum",
+    "Qizilqum",
+    "Gobi",
+    "Sahara"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kilimanjaro tog'i qaysi davlatda joylashgan?",
+   "variantlar": [
+    "Tanzaniya",
+    "Efiopiya",
+    "Misr",
+    "Keniya"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nil daryosi qaysi dengizga quyiladi?",
+   "variantlar": [
+    "Kaspiy dengizi",
+    "O'rta dengiz",
+    "Qizil dengiz",
+    "Qora dengiz"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Afrikada birinchi odamlar taxminan qachon paydo bo'lgan?",
+   "variantlar": [
+    "10 000 000 yil oldin",
+    "1 000 000 yil oldin",
+    "10 000 yil oldin",
+    "100 000 yil oldin"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Afrikada nechtadan ortiq turli xalq guruhlari bor?",
+   "variantlar": [
+    "3 000 tadan",
+    "300 tadan",
+    "30 000 tadan",
+    "30 tadan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Viktorina (quiz) ni bajarish uchun o'quvchilar nechta kishilik guruhlarda ishlaydi?",
+   "variantlar": [
+    "Uchta",
+    "Ikkita",
+    "To'rtta",
+    "Beshta"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nil daryosining uzunligi qancha?",
+   "variantlar": [
+    "6 853 km",
+    "5 863 km",
+    "8 653 km",
+    "6 583 km"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nil daryosi nechta davlatni kesib o'tadi?",
+   "variantlar": [
+    "O'n ikki",
+    "O'n",
+    "Sakkiz",
+    "Besh"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nil daryosi O'rta dengizga qaysi davlatda quyiladi?",
+   "variantlar": [
+    "Liviyada",
+    "Keniyada",
+    "Tanzaniyada",
+    "Misrda"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sahara cho'lining o'rtacha harorati qancha?",
+   "variantlar": [
+    "40°C",
+    "30°C",
+    "20°C",
+    "50°C"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sahara cho'lida qayd etilgan eng yuqori harorat qancha?",
+   "variantlar": [
+    "58°C",
+    "30°C",
+    "45°C",
+    "50°C"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Afrikadagi milliy yovvoyi tabiat bog'larida qaysi noyob hayvonlarga g'amxo'rlik qilinadi?",
+   "variantlar": [
+    "Gepard va jirafaga",
+    "Oq va qora karkidonlarga",
+    "Ayiq va bo'riga",
+    "Sher va yo'lbarsga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, Afrikada ba'zi odamlar qaysi Yevropa tillarida gaplashadi?",
+   "variantlar": [
+    "Ingliz va fransuz",
+    "Rus va italyan",
+    "Xitoy va yapon",
+    "Nemis va ispan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Afrikadagi milliy yovvoyi tabiat bog'larining maqsadi nima?",
+   "variantlar": [
+    "Tog'larga chiqish",
+    "Daryolarni kesib o'tish",
+    "Noyob hayvonlarga g'amxo'rlik qilish",
+    "Cho'l haroratini o'lchash"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nil daryosining uzunligi 6 853 km. Uni yuzlikkacha yaxlitlasak, qancha bo'ladi?",
+   "variantlar": [
+    "6 900 km",
+    "6 850 km",
+    "7 000 km",
+    "6 800 km"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Saharada eng issiq oylarda harorat 50°C, eng yuqori qayd etilgan harorat esa 58°C. Ular orasidagi farq qancha?",
+   "variantlar": [
+    "10°C",
+    "6°C",
+    "8°C",
+    "12°C"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"10,000,000\" soni so'zlar bilan qanday o'qiladi?",
+   "variantlar": [
+    "O'n ming",
+    "Yuz million",
+    "O'n million",
+    "Bir million"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sahara cho'lida eng yuqori harorat (58°C) o'rtacha haroratdan (30°C) necha gradusga baland?",
+   "variantlar": [
+    "28°C",
+    "18°C",
+    "88°C",
+    "20°C"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sahara cho'lida eng issiq oylardagi harorat (50°C) o'rtacha haroratdan (30°C) necha gradusga baland?",
+   "variantlar": [
+    "30°C",
+    "80°C",
+    "20°C",
+    "10°C"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kema Nil daryosining boshidan 1 000 km yo'l bosdi. Daryoning qolgan qismi necha km?",
+   "variantlar": [
+    "7 853 km",
+    "5 853 km",
+    "5 753 km",
+    "5 953 km"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nil daryosi 6 853 km. 8 000 km ga yetishi uchun unga yana necha km qo'shish kerak?",
+   "variantlar": [
+    "1 153 km",
+    "1 247 km",
+    "2 147 km",
+    "1 147 km"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita Nil daryosi uzunligini ketma-ket qo'ysak (6 853 km + 6 853 km), jami qancha bo'ladi?",
+   "variantlar": [
+    "14 706 km",
+    "13 706 km",
+    "12 706 km",
+    "13 606 km"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi juftliklardan qaysi biri matnga ko'ra to'g'ri moslashtirilgan?",
+   "variantlar": [
+    "Nil – Qizil dengiz",
+    "Kilimanjaro – Misr",
+    "Kilimanjaro – Tanzaniya",
+    "Gepard – eng baland bo'yli hayvon"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi fikrlardan qaysi biri matnga ko'ra NOTO'G'RI?",
+   "variantlar": [
+    "Nil – dunyodagi eng uzun daryo",
+    "Sahara – dunyodagi eng katta issiq cho'l",
+    "Afrikada 3 000 dan ortiq xalq guruhlari bor",
+    "Jirafa – eng tez hayvon"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nil daryosining uzunligini minglikkacha yaxlitlasak va kesib o'tadigan davlatlar sonini yozsak, qaysi javob to'g'ri bo'ladi?",
+   "variantlar": [
+    "6 000 km va 10 ta davlat",
+    "7 000 km va 8 ta davlat",
+    "6 900 km va 10 ta davlat",
+    "7 000 km va 10 ta davlat"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi haroratlarni matnga ko'ra kichigidan kattasiga tartiblang: eng yuqori harorat, o'rtacha harorat, eng issiq oylardagi harorat.",
+   "variantlar": [
+    "30°C, 58°C, 50°C",
+    "50°C, 30°C, 58°C",
+    "30°C, 50°C, 58°C",
+    "58°C, 50°C, 30°C"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sayohatchi Nil daryosi bo'ylab oqim yo'nalishida oxirigacha bordi. U qaysi dengizga va qaysi davlatda yetib keladi?",
+   "variantlar": [
+    "O'rta dengizga, Misrda",
+    "Qizil dengizga, Tanzaniyada",
+    "O'rta dengizga, Tanzaniyada",
+    "Qizil dengizga, Misrda"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

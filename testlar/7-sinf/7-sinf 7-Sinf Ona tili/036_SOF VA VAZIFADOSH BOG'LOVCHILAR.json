@@ -1,0 +1,337 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Ona tili",
+ "mavzu": "SOF VA VAZIFADOSH BOG'LOVCHILAR",
+ "savollar": [
+  {
+   "savol": "Qaysi bog'lovchilar sof bog'lovchilar sanaladi?",
+   "variantlar": [
+    "Faqat bog'lovchi vazifasini bajaruvchi yordamchi so'zlar",
+    "Faqat yuklama vazifasini bajaruvchi so'zlar",
+    "Bir o'rinda bog'lovchi, boshqa o'rinda ko'makchi bo'lib keluvchi so'zlar",
+    "Modal so'z vazifasida keluvchi so'zlar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi bog'lovchilar vazifadosh bog'lovchilar sanaladi?",
+   "variantlar": [
+    "Faqat bog'lovchi vazifasini bajaruvchilar",
+    "Faqat ikkita so'zni bog'lovchilar",
+    "Bir o'rinda bog'lovchi, boshqa o'rinda ko'makchi, yuklama yoki modal so'z vazifasida keluvchilar",
+    "Faqat gap boshida keluvchilar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilarning qaysi biri sof bog'lovchi?",
+   "variantlar": [
+    "ammo",
+    "ham",
+    "-da",
+    "bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Darslikda sof bog'lovchilarga qaysi qator misol qilib keltirilgan?",
+   "variantlar": [
+    "uchun, kabi, sari, bilan",
+    "ham, bilan, -da, -u",
+    "va, lekin, ammo, biroq",
+    "goh, na, balki, emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bog'lovchilar qaysi so'z turkumi singari sof va vazifadosh turlarga bo'linadi?",
+   "variantlar": [
+    "Ot",
+    "Ko'makchilar",
+    "Sifat",
+    "Fe'l"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "«Bilimli kishi o'lsa ham uning nomi o'chmaydi» gapida «ham» qanday vazifada kelgan?",
+   "variantlar": [
+    "Bog'lovchi",
+    "Modal so'z",
+    "Yuklama",
+    "Ko'makchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "«Yozda Buxoroga qarindoshlarimizni ko'rgani bordik ham tarixiy obidalarni tomosha qildik» gapida «ham» qanday vazifada kelgan?",
+   "variantlar": [
+    "Modal so'z",
+    "Ko'makchi",
+    "Bog'lovchi",
+    "Yuklama"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vazifadosh bog'lovchilar qaysi vazifalarda kelishi mumkin?",
+   "variantlar": [
+    "Faqat undov vazifasida",
+    "Ko'makchi, yuklama yoki modal so'z vazifasida",
+    "Faqat fe'l vazifasida",
+    "Faqat ot va sifat vazifasida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "«Kozimbek bilan Manzuraxon perronda kezishar edi» gapida «bilan» qanday vazifada kelgan?",
+   "variantlar": [
+    "Undov",
+    "Yuklama",
+    "Bog'lovchi",
+    "Modal so'z"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "«Oramizdagi farq shuki, men nima uchun shu ishni qilayotganimni bilaman, ammo sizlar bilmaysizlar» gapida qaysi sof bog'lovchi ishtirok etgan?",
+   "variantlar": [
+    "ammo",
+    "shu",
+    "nima",
+    "uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "«Mushuk koptokni u yoqdan bu yoqqa dumalatish bilan ovora edi» gapida «bilan» qanday vazifada kelgan?",
+   "variantlar": [
+    "Ko'makchi",
+    "Bog'lovchi vazifasida",
+    "Yuklama",
+    "Sof bog'lovchi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Boyvachcha yer o'pib, tavba qilibdi va keksa ota-onasini rozi qilish uchun ularning huzuriga shoshilibdi» gapidagi «va» qanday bog'lovchi?",
+   "variantlar": [
+    "Vazifadosh bog'lovchi",
+    "Sof bog'lovchi",
+    "Ko'makchi",
+    "Yuklama"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi gapda «ham» vazifadosh bog'lovchi sifatida kelgan?",
+   "variantlar": [
+    "Kitob o'qidim ham daftar to'ldirdim.",
+    "Sen ham ishondingmi?",
+    "Ertaga ham kelaman.",
+    "U ham bilmaydi."
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi gapda sof bog'lovchi ishtirok etgan?",
+   "variantlar": [
+    "Men ham bordim.",
+    "Bahor keldi va gullar ochildi.",
+    "Sen bilan boraman.",
+    "Kelsang ham xursand bo'laman."
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Men bilan bordi» va «Men bilan sen bordik» gaplarida «bilan» qanday vazifada keladi?",
+   "variantlar": [
+    "Birinchisida ko'makchi, ikkinchisida bog'lovchi",
+    "Birinchisida bog'lovchi, ikkinchisida ko'makchi",
+    "Ikkalasida ham sof bog'lovchi",
+    "Ikkalasida ham ko'makchi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Uning esiga na sevgi, na istirohat keldi» gapida qaysi so'z ikki marta takrorlangan bog'lovchi?",
+   "variantlar": [
+    "esiga",
+    "keldi",
+    "na",
+    "uning"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Bu ish qiyin, lekin men uni bajaraman» gapida bog'lovchi qaysi?",
+   "variantlar": [
+    "uni",
+    "lekin",
+    "men",
+    "bu"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi so'z sof bog'lovchi emas, balki vazifadosh bog'lovchi bo'lishi mumkin?",
+   "variantlar": [
+    "ammo",
+    "lekin",
+    "biroq",
+    "ham"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Bilimli kishi o'lsa ham nomi o'chmaydi» gapida «ham» ni «bog'lovchi» deb bo'lmaydi, chunki:",
+   "variantlar": [
+    "U gap boshida kelgan",
+    "U ikki gapni yoki bir xil bo'lakni bog'lamayapti, ma'noni kuchaytiryapti",
+    "U ko'makchi bo'lgan",
+    "U fe'lga qo'shilgan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Nega endi natijaga baho berishadi-yu, sababini tekshirib ko'rishmaydi?» gapida «-yu» qanday vazifada?",
+   "variantlar": [
+    "Modal so'z",
+    "Undov",
+    "Bog'lovchi",
+    "Ko'makchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi gaplarning qaysi birida ham sof, ham vazifadosh bog'lovchi ishtirok etgan?",
+   "variantlar": [
+    "Ali keldi, lekin Vali kelmadi, u bilan gaplashdim.",
+    "Ali bilan Vali keldi.",
+    "Ali va Vali keldi.",
+    "Ali keldi ham ketdi."
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi gapda ikkita sof bog'lovchi bor?",
+   "variantlar": [
+    "Men ham bordim.",
+    "U ham, men ham bilmaymiz.",
+    "Kun isidi va qor eridi, ammo shamol sovuq edi.",
+    "Ali bilan Vali keldi."
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Sen ham, men ham shunga ishonibmiz-a?» gapida «ham» so'zlari qanday vazifada va nima uchun?",
+   "variantlar": [
+    "Modal so'z, chunki shubha bildiryapti",
+    "Sof bog'lovchi, chunki faqat gap boshida keladi",
+    "Ko'makchi, chunki ot bilan keladi",
+    "Bog'lovchi, chunki ikki bir xil bo'lak (sen, men) ni biriktiryapti"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun «ammo» sof bog'lovchi, «bilan» esa vazifadosh bog'lovchi deyiladi?",
+   "variantlar": [
+    "«Ammo» uzun so'z, «bilan» qisqa",
+    "«Ammo» faqat bog'lovchi vazifasini bajaradi, «bilan» esa boshqa vazifalarda (ko'makchi) ham keladi",
+    "«Bilan» faqat gap oxirida keladi",
+    "«Ammo» ot turkumiga kiradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi gaplarning qaysi birida «bilan» so'zi bog'lovchi vazifasida kelgan?",
+   "variantlar": [
+    "U qalam bilan yozdi.",
+    "Men do'stim bilan maktabga bordim.",
+    "Ustoz bilan Nodira kutubxonaga kirdi.",
+    "U sevinch bilan gapirdi."
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Oy goh eshik tirqishlaridan mo'ralar, goh bulutlar orasida g'oyib bo'lardi» gapida «goh» so'zi haqida to'g'ri fikr qaysi?",
+   "variantlar": [
+    "Ko'makchi",
+    "Takrorlanib kelgan bog'lovchi bo'lib, ikki hodisani bog'lab keladi",
+    "Undov",
+    "Faqat bitta bo'lak"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sof va vazifadosh bog'lovchilar haqida qaysi hukm to'g'ri?",
+   "variantlar": [
+    "Har ikkalasi ham faqat bog'lovchi vazifasida keladi",
+    "Sof bog'lovchi faqat bog'laydi, vazifadosh bog'lovchi esa gapda o'ziga xos boshqa vazifada ham kelishi mumkin",
+    "Vazifadosh bog'lovchi faqat sof bog'lovchiga aylanadi",
+    "Sof bog'lovchilar ko'makchi vazifasida ham keladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Biz faqat jismonan emas, balki ma'naviy jihatdan ham chiniqar ekanmiz» gapida «balki» va «ham» haqida to'g'ri fikr qaysi?",
+   "variantlar": [
+    "Ikkalasi ham modal so'z",
+    "«Balki» yuklama, «ham» bog'lovchi",
+    "«Balki» bog'lovchi, «ham» esa bu yerda yuklama vazifasida kelgan",
+    "Ikkalasi ham ko'makchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Bir kuni kechasi bir hiyla o'ylab chiqdim-da, erta turgach, eski maktab sari jo'nadim» gapida «-da» qanday vazifada va «sari» nima?",
+   "variantlar": [
+    "Ikkalasi ham bog'lovchi",
+    "Ikkalasi ham yuklama",
+    "«-da» bog'lovchi, «sari» ko'makchi",
+    "«-da» ko'makchi, «sari» bog'lovchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi gaplardan qaysi birida vazifadosh bog'lovchi ishtirok etmagan?",
+   "variantlar": [
+    "Ota bilan o'g'il ishladi.",
+    "Sen ham, men ham keldik.",
+    "Havo sovuq, ammo biz sayrga chiqdik.",
+    "U kelsa ham, men ketaman."
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Algebra",
+ "mavzu": "Algebraik ifodalar",
+ "savollar": [
+  {
+   "savol": "Algebraik ifoda deb nimaga aytiladi?",
+   "variantlar": [
+    "Tenglama belgisi qatnashgan yozuvga",
+    "Faqat sonlardan tuzilgan tenglikka",
+    "Faqat harflardan tuzilgan ifodaga",
+    "Sonlar va harflardan tuzilib, amallar belgilari bilan birlashtirilgan ifodaga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Algebraik ifodaga kirgan harflar o'rniga son qo'yilib, ko'rsatilgan amallar bajarilsa, hosil bo'lgan son nima deyiladi?",
+   "variantlar": [
+    "Ifodaning formulasi",
+    "Ifodaning perimetri",
+    "Ifodaning son qiymati",
+    "Ifodaning noma'lumi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(a + b) : c tenglikda c harfi qanday shartni qanoatlantirishi kerak?",
+   "variantlar": [
+    "c ≠ 0",
+    "c < 0",
+    "c = 0",
+    "c = 1"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Juft son formulasi qaysi javobda to'g'ri yozilgan (n — natural son)?",
+   "variantlar": [
+    "a = n + 2",
+    "a = 2n − 1",
+    "a = 2n + 1",
+    "a = 2n"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Toq son formulasi b = 2n + 1 da n qanday son bo'lishi mumkin?",
+   "variantlar": [
+    "Faqat nol",
+    "Natural son yoki nol",
+    "Faqat juft son",
+    "Faqat manfiy son"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Toq natural sonlar formulasi yana qanday yozilishi mumkin (k — natural son)?",
+   "variantlar": [
+    "b = 2k",
+    "b = k − 2",
+    "b = 2k + 2",
+    "b = 2k − 1"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tomonlari a va b bo'lgan to'g'ri to'rtburchakning yuzi S formulasi qaysi?",
+   "variantlar": [
+    "S = 2(a + b)",
+    "S = a + b",
+    "S = ab",
+    "S = 2ab + 2"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tomonlari a va b bo'lgan to'g'ri to'rtburchakning perimetri P formulasi qaysi?",
+   "variantlar": [
+    "P = 2(a + b)",
+    "P = a + b",
+    "P = ab",
+    "P = 2ab"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Algebraga harfiy belgini kiritishning asoschisi hisoblangan XVI asr matematigi kim?",
+   "variantlar": [
+    "Isaak Nyuton",
+    "Muhammad al-Xorazmiy",
+    "Yevklid",
+    "Fransua Viyet"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi tenglik to'g'ri: a − (b + c) = ?",
+   "variantlar": [
+    "a − b + c",
+    "a − b − c",
+    "a + b + c",
+    "a + b − c"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "2ab + 3 ifodaning qiymatini a = 3, b = −2 bo'lganda toping.",
+   "variantlar": [
+    "15",
+    "9",
+    "−9",
+    "−15"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Toq son formulasi n = 2k + 1 bo'yicha k = 7 bo'lganda n nechaga teng?",
+   "variantlar": [
+    "13",
+    "15",
+    "14",
+    "16"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "s = a + 60t formula bo'yicha a = 5 va t = 0,5 bo'lganda s ni toping.",
+   "variantlar": [
+    "65",
+    "35",
+    "305",
+    "30"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "s = a + 60t formuladan s = 70, a = 10 bo'lganda t ni toping.",
+   "variantlar": [
+    "80 soat",
+    "0,5 soat",
+    "2 soat",
+    "1 soat"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x va y sonlar ayirmasining uchlanganini qaysi ifoda bildiradi?",
+   "variantlar": [
+    "3(x + y)",
+    "x − 3y",
+    "3(x − y)",
+    "3x − y"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bog' yuzi dastlab ab km² edi, yangi yer o'zlashtirilgach 0,88 km² ga ortdi. a = 2,2 va b = 0,8 bo'lsa, yangi yuz necha km²?",
+   "variantlar": [
+    "2,2",
+    "3,52",
+    "2,64",
+    "1,76"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kinoteatrda har birida n ta o'rindiq bo'lgan m ta qator va yana k ta qo'shimcha o'rindiq bor. m = 30, n = 25, k = 60 bo'lsa, hammasi bo'lib nechta o'rindiq bor?",
+   "variantlar": [
+    "115",
+    "1500",
+    "810",
+    "750"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Albom 200 so'm, daftar 40 so'm, ruchka 60 so'm. c = 9 albom, a = 21 daftar, b = 4 ruchkaning umumiy bahosi p = 200c + 40a + 60b bo'yicha necha so'm?",
+   "variantlar": [
+    "2640",
+    "2400",
+    "2880",
+    "3120"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Birinchi qopda m kg un, ikkinchisida n kg kam un bor. m = 50, n = 12 bo'lsa, ikkinchi qopda necha kg un bor?",
+   "variantlar": [
+    "28",
+    "62",
+    "38",
+    "48"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(a + b)(a − b) ifodaning qiymatini a = 7, b = 3 bo'lganda toping.",
+   "variantlar": [
+    "40",
+    "58",
+    "16",
+    "20"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kichigi 2k ga teng bo'lgan uchta ketma-ket juft natural sonning yig'indisi qaysi ifoda bilan yoziladi?",
+   "variantlar": [
+    "6k + 3",
+    "6k",
+    "6k + 6",
+    "2k + 6"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kichigi n ga teng bo'lgan ikkita ketma-ket natural son yig'indisini algebraik ifoda shaklida yozing va n = 10 bo'lganda qiymatini toping.",
+   "variantlar": [
+    "2n + 1; 21",
+    "2n + 2; 22",
+    "n(n + 1); 110",
+    "n + n; 20"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "To'g'ri to'rtburchakning bo'yi kvadrat tomoni x dan 8 m uzun, eni esa x dan 4 m qisqa. Uning perimetri qaysi ifoda bilan yoziladi?",
+   "variantlar": [
+    "4x + 8",
+    "2x + 8",
+    "4x + 4",
+    "2x + 4"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "To'g'ri to'rtburchakning bo'yi kvadrat tomoni x dan 8 m uzun, eni 4 m qisqa. x = 6 m bo'lsa, to'g'ri to'rtburchakning yuzi necha m²?",
+   "variantlar": [
+    "36",
+    "28",
+    "20",
+    "48"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Avtobus t soatda s km yo'l bosadi. Avtomobil shu yo'lni avtobusdan 1 soat oldin bosib o'tishi uchun qanday tezlikka ega bo'lishi kerak?",
+   "variantlar": [
+    "s : (t + 1)",
+    "s − t + 1",
+    "s : t − 1",
+    "s : (t − 1)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Velosipedchi soatiga v km tezlik bilan harakat qilib, s km uzoqlikdagi qishloqqa bormoqda. 3 km yo'l bosgan. s = 36 km, v = 12 km/soat bo'lsa, qaysi fikr to'g'ri?",
+   "variantlar": [
+    "Unga s : v = 3 soat kerak, 2,5 soatda yetib bora olmaydi",
+    "Unga (s − 3) : v = 2,5 soat kerak, aynan yetib boradi",
+    "Unga (s − 3) : v = 2,75 soat kerak, 2,5 soatda yetib bora olmaydi",
+    "Unga (s − 3) : v = 2,75 soat kerak, 2,5 soatda yetib bora oladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir avtomobil 100 km ga 5 l, ikkinchisi 10 l benzin sarflaydi. Har birining bakida a = 20 l benzin bor. Toshkent–Samarqand masofasi 300 km bo'lsa, qaysi fikr to'g'ri?",
+   "variantlar": [
+    "Faqat birinchisi (400 km) yetib boradi, ikkinchisi (200 km) yetolmaydi",
+    "Ikkalasi ham yetib boradi",
+    "Faqat ikkinchisi yetib boradi",
+    "Hech biri yetib bora olmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bankka 50 000 so'm qo'yildi. Bir yildan so'ng jamg'arma p % ko'paydi. Bir yildan keyingi miqdor qaysi ifoda bilan yoziladi?",
+   "variantlar": [
+    "50 000 + 50p",
+    "50 000 + 500p",
+    "50 000 · p",
+    "50 000 + p"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Asosi a dm, perimetri 42 dm bo'lgan to'g'ri to'rtburchakning yuzi S = a(21 − a) bo'yicha a = 12 bo'lganda necha dm²?",
+   "variantlar": [
+    "108",
+    "96",
+    "252",
+    "144"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

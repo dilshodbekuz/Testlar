@@ -1,0 +1,4251 @@
+[
+ {
+  "sinf": "7-sinf",
+  "kitob": "7-sinf 7-Sinf Geometriya",
+  "mavzu": "I BOB - BOSHLANG'ICH GEOMETRIK MA'LUMOTLAR. PLANIMETRIYA",
+  "savollar": [
+   {
+    "savol": "\"Geometriya\" so'zi qaysi tilda va qanday ma'noni anglatadi?",
+    "variantlar": [
+     "Yunoncha: geo – yer, metrio – o'lchash",
+     "Forscha: yer – hisoblash",
+     "Arabcha: handasa – shakl",
+     "Lotincha: geo – shakl, metrio – chizish"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Geometriyaning eng asosiy tushunchalari qaysilar (ta'rif berilmaydigan)?",
+    "variantlar": [
+     "Kesma, nur, burchak",
+     "Nuqta, to'g'ri chiziq va tekislik",
+     "Aylana, doira, kesma",
+     "Nuqta, kesma, uchburchak"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Bir tekislikda joylashgan geometrik shakllarning xossalarini geometriyaning qaysi bo'limi o'rganadi?",
+    "variantlar": [
+     "Trigonometriya",
+     "Planimetriya",
+     "Algebra",
+     "Stereometriya"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Qadimgi yunon olimi Evklid o'zining qaysi kitobida geometrik tushuncha va xossalarni tartibga keltirib bayon etgan?",
+    "variantlar": [
+     "\"Al-jabr\"",
+     "\"Boburnoma\"",
+     "\"Negizlar\"",
+     "\"Usturlob risolasi\""
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ikki nuqtadan nechta to'g'ri chiziq o'tadi?",
+    "variantlar": [
+     "Cheksiz ko'p",
+     "Hech qanday",
+     "Ikkita",
+     "Faqat bitta"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Kesma deb nimaga aytiladi?",
+    "variantlar": [
+     "Ikki nuqtadan cheksiz davom etgan chiziqqa",
+     "To'g'ri chiziqning ikki nuqtasi orasida yotgan nuqtalaridan iborat qismiga",
+     "Tekislikning to'g'ri chiziq bilan chegaralangan qismiga",
+     "To'g'ri chiziqning bir nuqtadan bir tomonga davom etgan qismiga"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Aylananing markazidan o'tuvchi vatar nima deb ataladi?",
+    "variantlar": [
+     "Diametr",
+     "Urinma",
+     "Yoy",
+     "Radius"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Teng shakllar deb qanday shakllarga aytiladi?",
+    "variantlar": [
+     "Rangi bir xil bo'lgan shakllarga",
+     "Birini ikkinchisining ustiga aynan ustma-ust tushadigan qilib qo'yish mumkin bo'lgan shakllarga",
+     "Yuzlari bir xil bo'lgan shakllarga",
+     "Nomlari bir xil bo'lgan shakllarga"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Kesmaning o'rtasi deb qanday nuqtaga aytiladi?",
+    "variantlar": [
+     "Kesmadan tashqaridagi nuqtaga",
+     "Kesmani ikkita teng kesmaga ajratuvchi nuqtaga",
+     "Kesmaning istalgan ichki nuqtasiga",
+     "Kesmaning uchiga"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Aylananing markazi, radiusi va diametri haqida qaysi fikr to'g'ri?",
+    "variantlar": [
+     "Diametr radiusdan ikki marta kichik",
+     "Diametr radiusdan uch marta katta",
+     "Diametr radiusdan ikki marta katta",
+     "Diametr radiusga teng"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "To'g'ri chiziqda A, B, C nuqtalar berilgan, B nuqta A va C orasida yotadi. AB = 8 sm, BC = 11 sm bo'lsa, AC necha sm?",
+    "variantlar": [
+     "9,5 sm",
+     "88 sm",
+     "19 sm",
+     "3 sm"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Aylana radiusi 45 sm bo'lsa, uning diametri necha sm?",
+    "variantlar": [
+     "22,5 sm",
+     "45 sm",
+     "135 sm",
+     "90 sm"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Doira diametri 7 sm bo'lsa, uning radiusi qancha?",
+    "variantlar": [
+     "2,5 sm",
+     "7 sm",
+     "14 sm",
+     "3,5 sm"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "To'g'ri chiziqda 10 ta nuqta belgilansa, u to'g'ri chiziqni nechta bo'lakka bo'ladi?",
+    "variantlar": [
+     "9",
+     "12",
+     "11",
+     "10"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Xaritada masshtab 1 sm da 100 km. Ikki shahar orasi xaritada 4,07 sm bo'lsa, haqiqiy masofa necha km?",
+    "variantlar": [
+     "4,07 km",
+     "40,7 km",
+     "407 km",
+     "4070 km"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "AB = 7,2 sm, AC = 2 dm, B nuqta A va C orasida emas, balki A nuqta B va C orasida yotadi (BAC). BC necha sm?",
+    "variantlar": [
+     "12,8 sm",
+     "27,2 sm",
+     "5,2 sm",
+     "14,4 sm"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "1 km, 1 dm, 1 sm, 1 mm larning metrdagi qiymatlari qaysi qatorda to'g'ri berilgan?",
+    "variantlar": [
+     "1000 m; 0,01 m; 0,1 m; 0,001 m",
+     "100 m; 0,1 m; 0,01 m; 0,001 m",
+     "1000 m; 0,1 m; 0,01 m; 0,001 m",
+     "1000 m; 0,1 m; 0,001 m; 0,01 m"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "To'g'ri chiziq tekislikni nechta yarimtekislikka ajratadi va to'g'ri chiziqning o'zi qanday hisoblanadi?",
+    "variantlar": [
+     "Ikkita; ularning umumiy chegarasi",
+     "Ikkita; hech biriga tegishli emas",
+     "Bitta; tekislikning o'rtasi",
+     "Uchta; birinchisiga tegishli"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Turli yarimtekisliklardan bittadan olingan A va B nuqtalarni tutashtiruvchi AB kesma haqida nima deyish mumkin?",
+    "variantlar": [
+     "To'g'ri chiziqqa parallel bo'ladi",
+     "Chegaraviy to'g'ri chiziqni albatta kesadi",
+     "Faqat chiziq ustida yotadi",
+     "To'g'ri chiziqni kesmaydi"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Hech qaysi uchtasi bir to'g'ri chiziqda yotmaydigan 4 ta nuqtaning har bir jufti orqali nechta to'g'ri chiziq o'tkazish mumkin?",
+    "variantlar": [
+     "4",
+     "8",
+     "6",
+     "12"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Hech qaysi uchtasi bir to'g'ri chiziqda yotmaydigan 7 ta nuqtaning har ikkitasi orqali jami nechta to'g'ri chiziq o'tkaziladi?",
+    "variantlar": [
+     "42",
+     "28",
+     "14",
+     "21"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Tekislikda to'rtta to'g'ri chiziqning har ikkitasi kesishgan nuqtalari soni ko'pi bilan nechta bo'ladi?",
+    "variantlar": [
+     "5",
+     "8",
+     "6",
+     "4"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Uchta to'g'ri chiziq tekislikni ko'pi bilan nechta qismga ajratishi mumkin?",
+    "variantlar": [
+     "4",
+     "6",
+     "8",
+     "7"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "To'g'ri chiziqda A, B, C, D nuqtalar berilgan, D nuqta B va C orasida yotadi. DC = 4,2 sm, BD = 2,4 sm, AB kesma DC dan ikki marta uzun. AC ning uzunligi (B nuqta A va D orasida deb olinadi) necha sm?",
+    "variantlar": [
+     "15,0 sm dan kam, 12 sm",
+     "12,6 sm",
+     "15 sm",
+     "8,4 sm"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Uzunligi 15 m bo'lgan AB kesmada C nuqta olingan va AC : BC = 2 : 3. AC va BC uzunliklari qaysi javobda to'g'ri?",
+    "variantlar": [
+     "AC = 7,5 m, BC = 7,5 m",
+     "AC = 9 m, BC = 6 m",
+     "AC = 6 m, BC = 9 m",
+     "AC = 5 m, BC = 10 m"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Aylana radiusi uning diametridan 20 sm qisqa. Aylana diametri necha sm?",
+    "variantlar": [
+     "40 sm",
+     "20 sm",
+     "10 sm",
+     "30 sm"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Doira diametri 36 sm. Markazdan 19 sm uzoqlikdagi nuqta shu doiraga tegishli bo'ladimi?",
+    "variantlar": [
+     "Yo'q, chunki radius 18 sm va 19 > 18",
+     "Ha, chunki 19 > 18",
+     "Yo'q, chunki radius 19 sm",
+     "Ha, chunki radius 36 sm"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "AB = 48 va C nuqta AB kesmada yotadi, AC = 3·BC. BC necha birlik?",
+    "variantlar": [
+     "12",
+     "16",
+     "36",
+     "24"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Dengizga yuborilgan ultratovush 5 sekundda qaytib keldi. Tovushning suvdagi tezligi 1490 m/s bo'lsa, dengiz chuqurligi necha metr?",
+    "variantlar": [
+     "7450 m",
+     "2980 m",
+     "1490 m",
+     "3725 m"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "7-sinf",
+  "kitob": "7-sinf 7-Sinf Geometriya",
+  "mavzu": "1. Geometriya fani va predmeti. Geometriya fanining vazifalari",
+  "savollar": [
+   {
+    "savol": "Geometriyaga oid dastlabki tushunchalar bundan necha ming yil muqaddam paydo bo'lgan?",
+    "variantlar": [
+     "4-5 ming yil",
+     "500 yil",
+     "1-2 ming yil",
+     "10-12 ming yil"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Geometriyaga oid dastlabki tushunchalar qaysi mamlakatda paydo bo'lgan?",
+    "variantlar": [
+     "Qadimgi Rimda",
+     "Qadimgi Hindistonda",
+     "Qadimgi Misrda",
+     "Qadimgi Xitoyda"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "\"Geometriya\" so'zidagi \"geo\" nimani anglatadi?",
+    "variantlar": [
+     "O'lchash",
+     "Shakl",
+     "Suv",
+     "Yer"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "\"Geometriya\" so'zidagi \"metrio\" nimani anglatadi?",
+    "variantlar": [
+     "Yer",
+     "Hisoblash",
+     "O'lchash",
+     "Chiziq"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "\"Negizlar\" kitobining muallifi kim?",
+    "variantlar": [
+     "Ulug'bek",
+     "Evklid",
+     "Pifagor",
+     "Beruniy"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Geometriya nimani o'rganadigan fan?",
+    "variantlar": [
+     "Tabiat hodisalarini",
+     "Yer qatlamlarini",
+     "Geometrik shakllar va ularning xossalarini",
+     "Sonlar va amallarni"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Planimetriya qanday shakllarning xossalarini o'rganadi?",
+    "variantlar": [
+     "Bir tekislikda joylashgan shakllarni",
+     "Faqat shar va kubni",
+     "Fazodagi shakllarni",
+     "Faqat jismlarni"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Fazoviy shakllarning xossalarini geometriyaning qaysi bo'limi o'rganadi?",
+    "variantlar": [
+     "Planimetriya",
+     "Arifmetika",
+     "Algebra",
+     "Stereometriya"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Sharq mamlakatlarida geometriya qanday atalgan?",
+    "variantlar": [
+     "Jabr",
+     "Hisob",
+     "Handasa",
+     "Mizon"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Parallelepipedning yoqlari qanday shaklda bo'ladi (matnga ko'ra)?",
+    "variantlar": [
+     "Kvadrat",
+     "Uchburchak",
+     "Aylana",
+     "To'g'ri to'rtburchak"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Qadimgi Misrda Nil daryosi suvi toshib ekin maydonlarini yuvgani uchun nima qilishga to'g'ri kelgan?",
+    "variantlar": [
+     "Ekin ekmaslik",
+     "Daryoni to'sish",
+     "Maydonlarni belgilash va o'lchash",
+     "Boshqa yerga ko'chish"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Quyidagilardan qaysi biri yassi shakl (daftarga to'liq chizish mumkin)?",
+    "variantlar": [
+     "Uchburchak",
+     "Kub",
+     "Shar",
+     "Piramida"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Quyidagilardan qaysi biri fazoviy shakl?",
+    "variantlar": [
+     "Kvadrat",
+     "Burchak",
+     "Kesma",
+     "Shar"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Parallelepipedning uchlari nimalardan iborat va nechta?",
+    "variantlar": [
+     "To'rtburchaklar, 8 ta",
+     "Kesmalar, 12 ta",
+     "Nuqtalar, 8 ta",
+     "Nuqtalar, 6 ta"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Parallelepipedning qirralari nimalardan iborat va nechta?",
+    "variantlar": [
+     "To'g'ri to'rtburchaklar, 6 ta",
+     "Nuqtalar, 8 ta",
+     "Kesmalar, 12 ta",
+     "Kesmalar, 8 ta"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Jismlarni geometrik nuqtai nazardan o'rganishda ularning nimasiga e'tibor beramiz?",
+    "variantlar": [
+     "Faqat shakliga",
+     "Og'irligiga",
+     "Narxiga",
+     "Rangiga"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Qadimgi Xorazmda yer o'lchash ishlari qaysi daryoning quyi qismida bajarilgan?",
+    "variantlar": [
+     "Amudaryo",
+     "Nil",
+     "Zarafshon",
+     "Sirdaryo"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Quyidagi olimlardan qaysi biri matnda o'zbek (vatandosh) olimlari qatorida sanalgan?",
+    "variantlar": [
+     "Evklid",
+     "Pifagor",
+     "Ahmad Farg'oniy",
+     "Arximed"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Quyidagi shakllardan qaysi biri planimetriyaning o'rganish ob'ekti bo'la olmaydi?",
+    "variantlar": [
+     "Burchak",
+     "Shar",
+     "Uchburchak",
+     "Kvadrat"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Evklid \"Negizlar\"i maktablar uchun necha yil eng muhim darslik vazifasini o'tagan?",
+    "variantlar": [
+     "Yuz yil",
+     "Besh yuz yil",
+     "Ikki ming yil",
+     "Yigirma yil"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Quyidagi shakllar ro'yxatida nechta yassi shakl bor: nuqta, kesma, kub, burchak, shar, kvadrat?",
+    "variantlar": [
+     "3 ta",
+     "4 ta",
+     "2 ta",
+     "5 ta"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Parallelepipedning uchlari, qirralari va yoqlari sonlari yig'indisi nechaga teng?",
+    "variantlar": [
+     "24",
+     "20",
+     "26",
+     "28"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Parallelepipedning qirralari soni yoqlari sonidan necha marta ko'p?",
+    "variantlar": [
+     "Bir xil",
+     "3 marta",
+     "4 marta",
+     "2 marta"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Nima uchun geometriya \"yer o'lchash\" ma'nosini anglatuvchi so'z bilan atalgan?",
+    "variantlar": [
+     "Chunki u faqat yer sharini o'rganadi",
+     "Chunki uni yerdan kelgan olimlar yaratgan",
+     "Chunki u faqat sonlarni o'rganadi",
+     "Chunki dastlab ekin maydonlarini o'lchash zaruratidan paydo bo'lgan va yunonlar bu usulni misrliklardan o'rganib shunday nomlagan"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Nima uchun kub va piramidani daftar varag'iga to'liq chizib bo'lmaydi?",
+    "variantlar": [
+     "Ular juda kichik",
+     "Ular fazoviy shakllar bo'lib, faqat ko'rinishini tasvirlash mumkin",
+     "Ular faqat yassi shakllar",
+     "Ular geometrik shakl emas"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Quyidagi tasdiqlardan qaysi biri matnga ko'ra to'g'ri?",
+    "variantlar": [
+     "Stereometriya bir tekislikdagi shakllarni o'rganadi",
+     "Geometriyani o'rganish planimetriyadan boshlanadi",
+     "Evklid geometriyani Misrda yaratgan",
+     "Planimetriya fazoviy shakllarni o'rganadi"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "\"Injener\" so'zining \"muhandis\" deyilishi qanday kelib chiqqan?",
+    "variantlar": [
+     "Geometriya injenerlik bilan qo'shib \"handasa\" deb atalganidan",
+     "Evklid shunday nomlagani uchun",
+     "Yunoncha \"geo\" so'zidan",
+     "Misrliklar shunday atagani uchun"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Quyidagi jismlar va ularning shakllari juftliklaridan qaysi biri to'g'ri: g'isht, karton quti, to'p?",
+    "variantlar": [
+     "G'isht va karton quti - to'g'ri burchakli parallelepiped",
+     "Karton quti - uchburchak",
+     "To'p - kvadrat, g'isht - aylana",
+     "G'isht - shar, karton quti - kub"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Quyidagi fikrlardan qaysi biri to'g'ri: Evklid \"Negizlar\"ida nima bayon etilgan va uning ahamiyati qanday?",
+    "variantlar": [
+     "Faqat fazoviy shakllar bayon etilgan",
+     "Faqat Pifagor teoremasi bayon etilgan, u Bobilda yozilgan",
+     "Kitob faqat Sharq olimlari uchun yozilgan",
+     "O'sha paytgacha ma'lum geometrik tushuncha va xossalar tartibga keltirilgan, hozirgi o'qitish ham shu g'oyalarga tayanadi"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "7-sinf",
+  "kitob": "7-sinf 7-Sinf Geometriya",
+  "mavzu": "2. Eng sodda geometrik shakllar: nuqta, to'g'ri chiziq va tekislik",
+  "savollar": [
+   {
+    "savol": "Geometriyaning eng asosiy (dastlabki) tushunchalari qaysi qatorda to'g'ri ko'rsatilgan?",
+    "variantlar": [
+     "Nur, kesma va to'rtburchak",
+     "Nuqta, to'g'ri chiziq va tekislik",
+     "Aylana, doira va kvadrat",
+     "Kesma, burchak va uchburchak"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Nuqtalar qanday belgilanadi?",
+    "variantlar": [
+     "Katta lotin harflari bilan",
+     "Raqamlar bilan",
+     "Yunon harflari bilan",
+     "Kichik lotin harflari bilan"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "To'g'ri chiziqlar qanday belgilanadi?",
+    "variantlar": [
+     "Kichik lotin harflari bilan",
+     "Katta lotin harflari bilan",
+     "Faqat raqamlar bilan",
+     "Faqat qavslar bilan"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Evklid o'zining \"Negizlar\" asarida nuqtani qanday ta'riflagan?",
+    "variantlar": [
+     "Hech bir qismga ega bo'lmagan shakl",
+     "Uzunligi 1 sm bo'lgan shakl",
+     "Eng kichik doira",
+     "Ikki chiziqning kesishgan joyi"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "To'g'ri chiziq haqida qaysi fikr to'g'ri?",
+    "variantlar": [
+     "U ikki nuqta orasidagi bo'lakdir",
+     "U cheksiz shakl bo'lib, ikki tomonga chek siz davom etadi",
+     "U faqat bir tomonga davom etadi",
+     "U chekli uzunlikka ega"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Har qanday ikki nuqtadan nechta to'g'ri chiziq o'tadi?",
+    "variantlar": [
+     "Ikkita",
+     "Faqat bitta",
+     "Uchta",
+     "Cheksiz ko'p"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Har bir to'g'ri chiziq tekislikni nechta qismga ajratadi?",
+    "variantlar": [
+     "Ajratmaydi",
+     "Uchta qismga",
+     "Ikkita yarimtekislikka",
+     "To'rtta qismga"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Quyidagilardan qaysi biri tekislikning geometrik timsoli bo'la oladi?",
+    "variantlar": [
+     "Yoritqich nuri",
+     "Qalam uchining izi",
+     "Tarang tortilgan ip",
+     "Stolning ustki qismi"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "\"A nuqta c to'g'ri chiziqqa tegishli\" degan gapni qisqacha qanday aytish mumkin?",
+    "variantlar": [
+     "A o'tadi c ga",
+     "A kesishadi c ga",
+     "A tegishli emas c ga",
+     "A tegishli c ga"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Yorug'lik nuri qanday tarqaladi?",
+    "variantlar": [
+     "Egri chiziq bo'ylab",
+     "To'g'ri chiziq bo'ylab",
+     "Aylana bo'ylab",
+     "Tekislik bo'ylab faqat pastga"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "b va c har xil to'g'ri chiziqlar. O nuqta ham b ga, ham c ga tegishli. Bu chiziqlar haqida nima deyish mumkin?",
+    "variantlar": [
+     "b va c ikkita umumiy nuqtaga ega",
+     "b va c bir-biriga ustma-ust tushadi",
+     "b va c O nuqtada kesishadi",
+     "b va c umuman kesishmaydi"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "AB va AK har xil to'g'ri chiziqlar. Ular eng ko'pi bilan nechta umumiy nuqtaga ega bo'lishi mumkin?",
+    "variantlar": [
+     "Bitta",
+     "Cheksiz ko'p",
+     "Ikkita",
+     "Uchta"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ixtiyoriy uchtasi bir to'g'ri chiziqda yotmaydigan uchta nuqtani juft-jufti bilan tutashtiruvchi nechta to'g'ri chiziq o'tkazish mumkin?",
+    "variantlar": [
+     "2 ta",
+     "6 ta",
+     "4 ta",
+     "3 ta"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ixtiyoriy uchtasi bir to'g'ri chiziqda yotmaydigan to'rtta nuqtani juft-jufti bilan tutashtiruvchi nechta to'g'ri chiziq o'tkazish mumkin?",
+    "variantlar": [
+     "8 ta",
+     "6 ta",
+     "5 ta",
+     "4 ta"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "To'rtta to'g'ri chiziqning har ikkitasi kesishgan nuqtalari belgilandi. Nuqtalar soni ko'pi bilan nechta bo'ladi?",
+    "variantlar": [
+     "4 ta",
+     "8 ta",
+     "12 ta",
+     "6 ta"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Beshta to'g'ri chiziqning har ikkitasi kesishgan nuqtalari belgilandi. Nuqtalar soni ko'pi bilan nechta bo'ladi?",
+    "variantlar": [
+     "20 ta",
+     "15 ta",
+     "10 ta",
+     "5 ta"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "To'g'ri chiziqning o'zi ajratgan yarimtekisliklarga nisbatan qanday hisoblanadi?",
+    "variantlar": [
+     "Ikkala yarimtekislikka ham tegishli, ularning umumiy chegarasi",
+     "Faqat birinchi yarimtekislikka tegishli",
+     "Faqat ikkinchi yarimtekislikka tegishli",
+     "Hech qaysi yarimtekislikka tegishli emas"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "A va B nuqtalar d to'g'ri chiziqqa tegishli, C nuqta esa d ga tegishli emas. AB va AC to'g'ri chiziqlar haqida nima deyish mumkin?",
+    "variantlar": [
+     "Ular har xil va A nuqtada kesishadi",
+     "Ular ustma-ust tushadi",
+     "Ular ikkita umumiy nuqtaga ega",
+     "Ular kesishmaydi"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Tekislikda istalgan to'g'ri chiziq olinsa, uning nuqtalari va unga tegishli bo'lmagan nuqtalar haqida qaysi fikr to'g'ri?",
+    "variantlar": [
+     "Chiziqqa tegishli bo'lmagan nuqta yo'q",
+     "Chiziqqa tegishli nuqtalar ham, tegishli bo'lmagan nuqtalar ham mavjud",
+     "Chiziqqa tegishli nuqta yo'q",
+     "Barcha nuqtalar shu chiziqqa tegishli bo'ladi"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Tekislikda ixtiyoriy uchtasi bir to'g'ri chiziqda yotmaydigan beshta nuqta berilgan. Ularni juft-jufti bilan tutashtiruvchi nechta to'g'ri chiziq o'tkazish mumkin?",
+    "variantlar": [
+     "5 ta",
+     "10 ta",
+     "15 ta",
+     "20 ta"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Tekislikda beshta nuqtadan to'rttasi bir to'g'ri chiziqda yotadi, beshinchisi esa shu chiziqda yotmaydi. Har ikkitasi orqali o'tuvchi turli to'g'ri chiziqlar nechta bo'ladi?",
+    "variantlar": [
+     "5 ta",
+     "4 ta",
+     "10 ta",
+     "6 ta"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ixtiyoriy uchtasi bir to'g'ri chiziqda yotmaydigan oltita nuqtani juft-jufti bilan tutashtiruvchi nechta to'g'ri chiziq o'tkazish mumkin?",
+    "variantlar": [
+     "15 ta",
+     "36 ta",
+     "30 ta",
+     "12 ta"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Uchta har xil to'g'ri chiziq bitta O nuqtadan o'tadi. Ularning kesishish nuqtalari nechta bo'ladi?",
+    "variantlar": [
+     "2 ta",
+     "3 ta",
+     "1 ta",
+     "Cheksiz ko'p"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Nima uchun ikki har xil to'g'ri chiziq ikkita umumiy nuqtaga ega bo'la olmaydi?",
+    "variantlar": [
+     "Chunki to'g'ri chiziqda faqat bitta nuqta bor",
+     "Chunki to'g'ri chiziqlar juda ingichka",
+     "Chunki to'g'ri chiziqlar hech qachon kesishmaydi",
+     "Chunki ikki nuqtadan faqat bitta to'g'ri chiziq o'tadi, shuning uchun ular ustma-ust tushib qolardi"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ixtiyoriy uchtasi bir to'g'ri chiziqda yotmaydigan nuqtalarni juft-jufti bilan tutashtirganda 21 ta to'g'ri chiziq hosil bo'ldi. Nuqtalar nechta?",
+    "variantlar": [
+     "8 ta",
+     "6 ta",
+     "7 ta",
+     "10 ta"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ixtiyoriy uchtasi bir to'g'ri chiziqda yotmaydigan nuqtalarni juft-jufti bilan tutashtirganda 45 ta to'g'ri chiziq hosil bo'ldi. Nuqtalar nechta?",
+    "variantlar": [
+     "15 ta",
+     "9 ta",
+     "10 ta",
+     "11 ta"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "A va B nuqtalar c to'g'ri chiziqqa tegishli, C nuqta esa AB to'g'ri chiziqqa tegishli. C nuqta c to'g'ri chiziqqa tegishlimi va nima uchun?",
+    "variantlar": [
+     "Aniq aytib bo'lmaydi",
+     "Ha, chunki ikki nuqtadan faqat bitta to'g'ri chiziq o'tadi, demak AB va c ustma-ust tushadi",
+     "Yo'q, chunki C boshqa harf bilan belgilangan",
+     "Yo'q, chunki c chiziq faqat A va B nuqtalardan iborat"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ixtiyoriy uchtasi bir to'g'ri chiziqda yotmaydigan A, B, C nuqtalar orqali AB, BC va CA to'g'ri chiziqlar o'tkazildi. Bu uchta chiziqning kesishish nuqtalari nechta bo'ladi?",
+    "variantlar": [
+     "3 ta",
+     "6 ta",
+     "2 ta",
+     "1 ta"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "7-sinf",
+  "kitob": "7-sinf 7-Sinf Geometriya",
+  "mavzu": "3. Kesma va",
+  "savollar": [
+   {
+    "savol": "Kesma deb nimaga aytiladi?",
+    "variantlar": [
+     "Tekislikning bir qismiga",
+     "To'g'ri chiziqning ikki nuqtasi orasida yotgan nuqtalaridan iborat qismiga",
+     "Ikki tomonga cheksiz davom etgan chiziqqa",
+     "To'g'ri chiziqning bir nuqtadan bir tomonda yotgan barcha nuqtalaridan iborat qismiga"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Nur deb nimaga aytiladi?",
+    "variantlar": [
+     "To'g'ri chiziqning ikki nuqtasi orasidagi qismiga",
+     "Ikki tomonga cheksiz davom etgan chiziqqa",
+     "To'g'ri chiziqning biror nuqtadan bir tomonda yotgan barcha nuqtalaridan iborat qismiga",
+     "Tekislikning yarmiga"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Kesmaning chetki nuqtalari nima deb ataladi?",
+    "variantlar": [
+     "Kesmaning ichki nuqtalari",
+     "Kesmaning o'rtasi",
+     "Kesmaning boshlang'ich nuqtasi",
+     "Kesmaning uchlari"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "«AB kesma» va «BA kesma» yozuvlari haqida qaysi fikr to'g'ri?",
+    "variantlar": [
+     "Ular ikki xil kesmani bildiradi",
+     "Ular bir xil kesmani bildiradi",
+     "BA yozuvi noto'g'ri",
+     "BA kesma AB kesmadan uzun bo'ladi"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "«OA nur» yozuvida birinchi o'rinda nima yoziladi?",
+    "variantlar": [
+     "Nurning oxirgi nuqtasi",
+     "Nurning uchi",
+     "Nurning istalgan nuqtasi",
+     "Nurning o'rtasi"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Bir to'g'ri chiziqda olingan istalgan uchta nuqtadan nechtasi qolgan ikkitasining orasida yotadi?",
+    "variantlar": [
+     "Hech biri",
+     "Faqat bittasi",
+     "Ikkitasi",
+     "Uchalasi ham"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Tekislikda o'tkazilgan to'g'ri chiziq shu tekislikni nechta yarimtekislikka ajratadi?",
+    "variantlar": [
+     "Bitta",
+     "Uchta",
+     "Ikkita",
+     "To'rtta"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "To'g'ri chiziqda yotgan O nuqta shu to'g'ri chiziqni nechta nurga ajratadi?",
+    "variantlar": [
+     "Uchta nurga",
+     "Ikkita bir-birini to'ldiruvchi nurga",
+     "Nurga ajratmaydi",
+     "Bitta nurga"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Kesmaning uchlari orasida yotgan nuqtalari nima deb yuritiladi?",
+    "variantlar": [
+     "Chetki nuqtalar",
+     "Uch nuqtalar",
+     "Ichki nuqtalar",
+     "Boshlang'ich nuqtalar"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "To'g'ri chiziq bilan chegaralangan bitta yarimtekislikda A va B nuqtalar olingan. AB kesma haqida nima deyish mumkin?",
+    "variantlar": [
+     "Ikkala yarimtekislikda yotadi",
+     "To'g'ri chiziq ustida yotadi",
+     "To'liq shu yarimtekislikda yotadi va chegarani kesmaydi",
+     "To'g'ri chiziqni albatta kesadi"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "B va C nuqtalar to'g'ri chiziq hosil qilgan turli yarimtekisliklarda yotadi. BC kesma to'g'ri chiziqni...",
+    "variantlar": [
+     "kesmaydi",
+     "albatta kesadi",
+     "kesishi mumkin ham, mumkin emas ham",
+     "faqat uchida kesadi"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "To'g'ri chiziqda 3 ta nuqta belgilangan. Ular to'g'ri chiziqni nechta bo'lakka bo'ladi?",
+    "variantlar": [
+     "4 ta",
+     "6 ta",
+     "3 ta",
+     "5 ta"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "To'g'ri chiziqda n ta nuqta belgilangan. Ular to'g'ri chiziqni nechta bo'lakka bo'ladi?",
+    "variantlar": [
+     "n − 1 ta",
+     "n ta",
+     "n + 1 ta",
+     "2n ta"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "To'g'ri chiziqda A, B, C, D nuqtalar berilgan. Uchlari shu nuqtalarda bo'lgan nechta kesma bor?",
+    "variantlar": [
+     "5 ta",
+     "4 ta",
+     "6 ta",
+     "8 ta"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "To'g'ri chiziqda yotgan 2 ta nuqta shu to'g'ri chiziqda yotgan nechta nurni aniqlaydi?",
+    "variantlar": [
+     "3 ta",
+     "6 ta",
+     "4 ta",
+     "2 ta"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Tekislikda yotgan ikki to'g'ri chiziq shu tekislikni ko'pi bilan necha qismga ajratadi?",
+    "variantlar": [
+     "4 qismga",
+     "3 qismga",
+     "6 qismga",
+     "2 qismga"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "To'g'ri chiziq va unda yotmaydigan A, B, C nuqtalar berilgan. AB kesma to'g'ri chiziqni kesib o'tadi, AC kesma esa kesib o'tmaydi. BC kesma to'g'ri chiziqni kesib o'tadimi?",
+    "variantlar": [
+     "Ha, kesib o'tadi",
+     "Ba'zan kesadi",
+     "Yo'q, kesib o'tmaydi",
+     "Aniqlab bo'lmaydi"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "To'g'ri chiziqda C va D nuqtalar berilgan. CD nur va DC nur ustma-ust tushadimi?",
+    "variantlar": [
+     "Faqat C nuqtada tushadi",
+     "Faqat D nuqtada tushadi",
+     "Ha, ustma-ust tushadi",
+     "Yo'q, chunki ular turli nuqtalardan qarama-qarshi yo'nalishda chiqadi"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "To'g'ri chiziqda M va N nuqtalar berilgan. MN nur va NM nurning umumiy nuqtalari to'plami nima bo'ladi?",
+    "variantlar": [
+     "Butun to'g'ri chiziq",
+     "Bitta nuqta",
+     "Umumiy nuqtasi yo'q",
+     "MN kesma"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "B, C, D nuqtalar bir to'g'ri chiziqda yotadi va C nuqta B va D nuqtalar orasida joylashgan. D nuqtadan bir tomonda qaysi nuqtalar yotadi?",
+    "variantlar": [
+     "B va C",
+     "Faqat B",
+     "Faqat C",
+     "C va D"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "To'g'ri chiziqda 10 ta nuqta belgilangan. Hosil bo'lgan bo'laklar orasida nechta kesma bor?",
+    "variantlar": [
+     "11 ta",
+     "8 ta",
+     "9 ta",
+     "10 ta"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "A, B, C, D nuqtalar to'g'ri chiziqda yotmaydi. AB, BC va CD kesmalar to'g'ri chiziqni kesib o'tadi. AD kesma to'g'ri chiziqni kesadimi?",
+    "variantlar": [
+     "Kesadi",
+     "Faqat AD = BC bo'lsa kesadi",
+     "Aniqlab bo'lmaydi",
+     "Kesmaydi"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "A, B, C, D nuqtalar to'g'ri chiziqda yotmaydi. AB, BC va CD kesmalar to'g'ri chiziqni kesmasa, AD haqida nima deyish mumkin?",
+    "variantlar": [
+     "Kesmaydi",
+     "Kesadi",
+     "Aniqlab bo'lmaydi",
+     "Chiziqda yotadi"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "A, B, C, D nuqtalar to'g'ri chiziqda yotmaydi. AC va BC kesmalar to'g'ri chiziqni kesadi, BD kesmasa. AD kesma to'g'ri chiziqni kesadimi?",
+    "variantlar": [
+     "Kesadi",
+     "Kesmaydi",
+     "Aniqlab bo'lmaydi",
+     "Faqat D nuqtada kesadi"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "A, B, C, D nuqtalar to'g'ri chiziqda yotmaydi. AB va CD kesmalar to'g'ri chiziqni kesadi, BC esa kesmaydi. AD kesma to'g'ri chiziqni kesadimi?",
+    "variantlar": [
+     "Kesmaydi",
+     "Ba'zan kesadi",
+     "Aniqlab bo'lmaydi",
+     "Kesadi"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "To'g'ri chiziqda 4 ta nuqta belgilangan. Ular shu to'g'ri chiziqda nechta nurni aniqlaydi?",
+    "variantlar": [
+     "6 ta",
+     "4 ta",
+     "10 ta",
+     "8 ta"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "To'g'ri chiziqda 5 ta nuqta belgilangan. Uchlari shu nuqtalarda bo'lgan nechta kesma hosil bo'ladi?",
+    "variantlar": [
+     "5 ta",
+     "10 ta",
+     "15 ta",
+     "20 ta"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "To'g'ri chiziq va unda yotmaydigan A, B, C nuqtalar berilgan. AB va AC kesmalar to'g'ri chiziqni kesib o'tadi. BC kesma to'g'ri chiziqni kesib o'tadimi?",
+    "variantlar": [
+     "Yo'q, kesib o'tmaydi",
+     "Faqat bir nuqtada kesadi",
+     "Aniqlab bo'lmaydi",
+     "Ha, kesib o'tadi"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Bir to'g'ri chiziqda A, B, C nuqtalar berilgan. B va C nuqtalar A nuqtadan bir tomonda, A va B nuqtalar esa C nuqtadan bir tomonda yotadi. Qaysi nuqta qolgan ikkitasining orasida yotadi?",
+    "variantlar": [
+     "A nuqta",
+     "Aniqlab bo'lmaydi",
+     "B nuqta",
+     "C nuqta"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "O, A, B nuqtalar bir to'g'ri chiziqda yotadi va A nuqta O va B nuqtalar orasida joylashgan. OA nur va OB nur haqida qaysi fikr to'g'ri?",
+    "variantlar": [
+     "Ular turli to'g'ri chiziqlarda yotadi",
+     "Ularning umumiy nuqtasi faqat O",
+     "Ular bir-birini to'ldiruvchi nurlar",
+     "Ular ustma-ust tushadi, chunki ikkalasi ham O dan A tomonga chiqadi"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "7-sinf",
+  "kitob": "7-sinf 7-Sinf Geometriya",
+  "mavzu": "4. Aylana va doira",
+  "savollar": [
+   {
+    "savol": "Tayin O nuqtadan teng uzoqlikda yotgan barcha nuqtalar to'plami nima deb ataladi?",
+    "variantlar": [
+     "Nur",
+     "Doira",
+     "Kesma",
+     "Aylana"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Aylananing ixtiyoriy nuqtasidan uning markazigacha bo'lgan masofa nima deb ataladi?",
+    "variantlar": [
+     "Radius",
+     "Diametr",
+     "Vatar",
+     "Yoy"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Aylananing ixtiyoriy ikki nuqtasini tutashtiruvchi kesma nima deb ataladi?",
+    "variantlar": [
+     "Radius",
+     "Diametr",
+     "Vatar",
+     "Markaz"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Aylananing markazidan o'tuvchi vatar nima deb ataladi?",
+    "variantlar": [
+     "Radius",
+     "Yoy",
+     "Diametr",
+     "Urinma"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Aylananing eng katta vatari qaysi?",
+    "variantlar": [
+     "Diametr",
+     "Eng qisqa vatar",
+     "Markazdan o'tmaydigan vatar",
+     "Radius"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Tekislikning aylana bilan chegaralangan qismi nima deb ataladi?",
+    "variantlar": [
+     "Radius",
+     "Vatar",
+     "Kesma",
+     "Doira"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Diametr uzunligi radius uzunligidan necha marta katta?",
+    "variantlar": [
+     "1,5 marta",
+     "4 marta",
+     "3 marta",
+     "2 marta"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Aylanani chizish uchun qaysi asbobdan foydalaniladi?",
+    "variantlar": [
+     "Chizg'ich",
+     "Sirkul",
+     "Transportir",
+     "Ugolnik"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Nuqtalarning geometrik o'rniga qaysi juftlik misol bo'la oladi?",
+    "variantlar": [
+     "Aylana va doira",
+     "Kesma va nur",
+     "To'g'ri chiziq va nuqta",
+     "Kvadrat va uchburchak"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Katak daftarda sirkulsiz aylana chizishda nechta nuqta belgilanadi va ular ketma-ket qanday chiziq bilan tutashtiriladi?",
+    "variantlar": [
+     "12 ta, to'g'ri chiziq bilan",
+     "6 ta, yoysimon chiziq bilan",
+     "8 ta, to'g'ri chiziq bilan",
+     "12 ta, yoysimon chiziq bilan"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Aylana radiusi 18 mm bo'lsa, uning diametri qancha?",
+    "variantlar": [
+     "18 mm",
+     "54 mm",
+     "36 mm",
+     "9 mm"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Aylana radiusi 2 m 11 sm bo'lsa, uning diametri qancha?",
+    "variantlar": [
+     "4 m 11 sm",
+     "4 m 22 sm",
+     "1 m 5,5 sm",
+     "2 m 22 sm"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Doira diametri 1 m 14 sm bo'lsa, uning radiusi qancha?",
+    "variantlar": [
+     "67 sm",
+     "28 sm",
+     "2 m 28 sm",
+     "57 sm"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Doira diametri 7 sm bo'lsa, radiusi qancha?",
+    "variantlar": [
+     "3 sm",
+     "3,5 sm",
+     "14 sm",
+     "7 sm"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Radiusi 8 m bo'lgan doiraning eng katta vatari necha metr?",
+    "variantlar": [
+     "4 m",
+     "8 m",
+     "32 m",
+     "16 m"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Markazi O nuqtada, radiusi R bo'lgan aylanaga A nuqta tegishli bo'lishi qaysi shart bilan ifodalanadi?",
+    "variantlar": [
+     "OA = 2R",
+     "OA = R",
+     "OA > R",
+     "OA < R"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Aylana radiusi 45 sm bo'lsa, diametri necha sm?",
+    "variantlar": [
+     "90 sm",
+     "22,5 sm",
+     "135 sm",
+     "45 sm"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Doira diametri 10 sm bo'lsa, uning radiusi necha sm?",
+    "variantlar": [
+     "10 sm",
+     "20 sm",
+     "5 sm",
+     "2 sm"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Diametri 36 sm bo'lgan doiraning radiusi necha sm?",
+    "variantlar": [
+     "36 sm",
+     "9 sm",
+     "72 sm",
+     "18 sm"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Qog'ozga chizilgan aylana qaychi bilan qirqib chiqilsa, nechta doira hosil bo'ladi va ular qanday?",
+    "variantlar": [
+     "Hech qanday doira hosil bo'lmaydi",
+     "Ikkita: qog'oz doira va teshik",
+     "Bitta: qog'oz doira",
+     "Uchta doira"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Aylananing diametri radiusidan 65 sm uzun. Aylana diametri necha sm?",
+    "variantlar": [
+     "65 sm",
+     "195 sm",
+     "32,5 sm",
+     "130 sm"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Aylananing radiusi diametridan 20 sm qisqa. Aylana diametri necha sm?",
+    "variantlar": [
+     "20 sm",
+     "40 sm",
+     "80 sm",
+     "10 sm"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Doira diametri 36 sm. Doira markazidan 19 sm uzoqlikdagi nuqta shu doiraga tegishli bo'ladimi?",
+    "variantlar": [
+     "Yo'q, chunki 19 > 18",
+     "Ha, chunki 19 < 36",
+     "Ha, chunki 19 > 18",
+     "Yo'q, chunki 19 < 18"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Doira diametri 36 sm. Doira markazidan 15 sm uzoqlikdagi nuqta shu doiraga tegishlimi va nima uchun?",
+    "variantlar": [
+     "Ha, chunki 15 < 18",
+     "Yo'q, chunki 15 < 36",
+     "Ha, chunki 15 > 18",
+     "Yo'q, chunki 15 < 18"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Aylananing diametri radiusidan 30 sm uzun. Aylana radiusi necha sm?",
+    "variantlar": [
+     "90 sm",
+     "60 sm",
+     "15 sm",
+     "30 sm"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Aylananing diametri radiusidan 12 sm uzun. Aylana diametri necha sm?",
+    "variantlar": [
+     "6 sm",
+     "24 sm",
+     "12 sm",
+     "36 sm"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Radiusi 5 sm bo'lgan aylananing diametri 2 marta kichraytirilgan radiusdan (ya'ni radiusning yarmidan) necha marta katta?",
+    "variantlar": [
+     "3 marta",
+     "4 marta",
+     "5 marta",
+     "2 marta"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Aylananing radiusi 7 sm. Uning diametri va radiusi yig'indisi necha sm?",
+    "variantlar": [
+     "49 sm",
+     "21 sm",
+     "14 sm",
+     "28 sm"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ikkita aylananing radiuslari mos ravishda 4 sm va 6 sm. Ularning diametrlari yig'indisi necha sm?",
+    "variantlar": [
+     "10 sm",
+     "5 sm",
+     "20 sm",
+     "40 sm"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Doiraning diametri 2 m 14 sm. Radiusi necha sm?",
+    "variantlar": [
+     "1 m 14 sm",
+     "107 sm",
+     "57 sm",
+     "214 sm"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "7-sinf",
+  "kitob": "7-sinf 7-Sinf Geometriya",
+  "mavzu": "II BOB - BURCHAK",
+  "savollar": [
+   {
+    "savol": "Bir nuqtadan chiqqan ikki nurdan iborat shakl nima deb ataladi?",
+    "variantlar": [
+     "Burchak",
+     "To'g'ri chiziq",
+     "Kesma",
+     "Yarimtekislik"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Yoyiq burchakning gradus o'lchovi necha gradusga teng?",
+    "variantlar": [
+     "360°",
+     "180°",
+     "120°",
+     "90°"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Gradus o'lchovi 90° ga teng bo'lgan burchak qanday burchak deyiladi?",
+    "variantlar": [
+     "To'g'ri burchak",
+     "O'tkir burchak",
+     "O'tmas burchak",
+     "Yoyiq burchak"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Burchakning uchidan chiqib, uni teng ikki burchakka ajratuvchi nur nima deb ataladi?",
+    "variantlar": [
+     "Og'ma",
+     "Burchak tomoni",
+     "Perpendikulyar",
+     "Bissektrisa"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Burchaklarning gradus o'lchovi qaysi asbob yordamida topiladi?",
+    "variantlar": [
+     "Sirkul",
+     "Transportir",
+     "Chizg'ich",
+     "Ruletka"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Qo'shni burchaklar yig'indisi nimaga teng?",
+    "variantlar": [
+     "90°",
+     "270°",
+     "360°",
+     "180°"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Vertikal burchaklarning asosiy xossasi qaysi javobda to'g'ri ifodalangan?",
+    "variantlar": [
+     "Ular o'zaro teng",
+     "Yig'indisi 90° ga teng",
+     "Ular doim to'g'ri burchak",
+     "Yig'indisi 180° ga teng"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Perpendikulyar to'g'ri chiziqlar qanday burchak ostida kesishadi?",
+    "variantlar": [
+     "60°",
+     "180°",
+     "90°",
+     "45°"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Geometriyada ta'rifsiz qabul qilinadigan boshlang'ich tushunchalarga qaysi javobdagilar kiradi?",
+    "variantlar": [
+     "Bissektrisa, og'ma va perpendikulyar",
+     "Teorema, aksioma va isbot",
+     "Burchak, kesma va nur",
+     "Nuqta, to'g'ri chiziq va tekislik"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Isbotsiz, o'z-o'zidan ravshan deb qabul qilinadigan tasdiq nima deb ataladi?",
+    "variantlar": [
+     "Teorema",
+     "Xulosa",
+     "Ta'rif",
+     "Aksioma"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "70° li burchakka qo'shni bo'lgan burchak necha gradus?",
+    "variantlar": [
+     "70°",
+     "290°",
+     "20°",
+     "110°"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "1° ning 1/60 qismi nima deb ataladi va qanday belgilanadi?",
+    "variantlar": [
+     "Minut, ″",
+     "Minut, ′",
+     "Sekund, ′",
+     "Sekund, ″"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Burchakning bissektrisasi uning tomoni bilan 30° li burchak hosil qilsa, burchakning o'zi necha gradus?",
+    "variantlar": [
+     "15°",
+     "60°",
+     "30°",
+     "120°"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "AOB burchakni uning ichidan o'tuvchi OC nur AOC = 25° va COB = 40° bo'ladigan qilib ajratgan. AOB necha gradus?",
+    "variantlar": [
+     "65°",
+     "75°",
+     "15°",
+     "55°"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Soat 3:00 ni ko'rsatganda soat va minut millari orasidagi burchak necha gradus?",
+    "variantlar": [
+     "60°",
+     "120°",
+     "30°",
+     "90°"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Soatning minut mili 5 minutda necha gradusga buriladi?",
+    "variantlar": [
+     "30°",
+     "60°",
+     "5°",
+     "15°"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikki to'g'ri chiziq kesishganda hosil bo'lgan vertikal burchaklardan biri 50° bo'lsa, qolgan ikki burchakning har biri necha gradus?",
+    "variantlar": [
+     "310°",
+     "40°",
+     "130°",
+     "50°"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "O'tkir burchakka qo'shni bo'lgan burchak qanday burchak bo'ladi?",
+    "variantlar": [
+     "O'tmas",
+     "To'g'ri",
+     "O'tkir",
+     "Yoyiq"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikki to'g'ri chiziq kesishganda hosil bo'lgan burchaklardan biri 90° bo'lsa, qolgan burchaklar haqida nima deyish mumkin?",
+    "variantlar": [
+     "Ikkitasi 45°, ikkitasi 135°",
+     "Hammasi o'tkir bo'ladi",
+     "Hammasi o'tmas bo'ladi",
+     "Hammasi 90° bo'ladi"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikki to'g'ri chiziq kesishganda hosil bo'lgan burchaklardan biri ikkinchisidan 24° katta (ular qo'shni). Kichigini toping.",
+    "variantlar": [
+     "24°",
+     "66°",
+     "102°",
+     "78°"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Qo'shni burchaklardan biri ikkinchisidan 3 marta katta. Kichik burchak necha gradus?",
+    "variantlar": [
+     "45°",
+     "135°",
+     "60°",
+     "30°"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Qo'shni burchaklarning gradus o'lchovlari nisbati 2:7 bo'lsa, kichigi necha gradus?",
+    "variantlar": [
+     "35°",
+     "20°",
+     "40°",
+     "140°"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ikki to'g'ri chiziq kesishganda hosil bo'lgan burchaklardan uchtasining yig'indisi 200° bo'lsa, eng kichik burchak necha gradus?",
+    "variantlar": [
+     "60°",
+     "40°",
+     "20°",
+     "80°"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "AOD = 135° burchak OB va OC nurlar bilan AOB = BOC = COD bo'ladigan qilib uchta teng burchakka bo'lingan. AOB va COD burchaklarning bissektrisalari orasidagi burchak necha gradus?",
+    "variantlar": [
+     "67,5°",
+     "112,5°",
+     "90°",
+     "45°"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "AOB = 50° va COB = 80° burchaklarning bissektrisalari orasidagi burchak necha gradus (AOB va COB bir-birining ichida yotmaydi, ikkalasi ham OB tomonga ega va qarama-qarshi tomonda yotadi)?",
+    "variantlar": [
+     "15°",
+     "130°",
+     "65°",
+     "30°"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ikki to'g'ri chiziq kesishganda hosil bo'lgan burchaklardan ikkitasining yig'indisi 120° bo'lsa (bu burchaklar vertikal), ulardan biri va unga qo'shni burchak necha gradus?",
+    "variantlar": [
+     "90° va 90°",
+     "60° va 120°",
+     "30° va 150°",
+     "120° va 60°"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Soat 4:00 ni ko'rsatganda soat va minut millari orasidagi burchak necha gradus?",
+    "variantlar": [
+     "60°",
+     "120°",
+     "90°",
+     "150°"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Soatning soat mili 6 soatda necha gradusga buriladi?",
+    "variantlar": [
+     "180°",
+     "360°",
+     "120°",
+     "90°"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Qo'shni burchaklar bissektrisalari orasidagi burchak necha gradus?",
+    "variantlar": [
+     "180°",
+     "45°",
+     "60°",
+     "90°"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "7-sinf",
+  "kitob": "7-sinf 7-Sinf Geometriya",
+  "mavzu": "III BOB - KO'PBURCHAKLAR VA UCHBURCHAKLAR",
+  "savollar": [
+   {
+    "savol": "Ketma-ket kelgan, o'zaro qo'shni kesmalari bir to'g'ri chiziqda yotmaydigan A1A2, A2A3, ..., An-1An kesmalardan tashkil topgan shakl nima deyiladi?",
+    "variantlar": [
+     "Nur",
+     "Siniq chiziq",
+     "Burchak",
+     "Ko'pburchak"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "O'z-o'zini kesmaydigan yopiq siniq chiziq nima deb ataladi?",
+    "variantlar": [
+     "To'g'ri chiziq",
+     "Ochiq siniq chiziq",
+     "Kesma",
+     "Ko'pburchak"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Siniq chiziqning uzunligi nimaga teng?",
+    "variantlar": [
+     "Eng kichik tomoniga",
+     "Uchlari sonining tomon uzunligiga ko'paytmasiga",
+     "Eng katta tomoniga",
+     "Tomonlari uzunliklarining yig'indisiga"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Har qanday ko'pburchak tekislikni nechta sohaga ajratadi?",
+    "variantlar": [
+     "Bitta",
+     "Cheksiz ko'p",
+     "Ikkita",
+     "Uchta"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Uchburchakning perimetri nima?",
+    "variantlar": [
+     "Uchala tomoni uzunliklarining yig'indisi",
+     "Eng katta tomonining uzunligi",
+     "Uchala burchagining yig'indisi",
+     "Uchburchak ichki sohasining o'lchami"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Uchala tomoni o'zaro teng bo'lgan uchburchak qanday uchburchak deyiladi?",
+    "variantlar": [
+     "Teng tomonli",
+     "O'tmas burchakli",
+     "To'g'ri burchakli",
+     "Turli tomonli"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Uchburchakning biror uchini shu uch qarshisidagi tomonning o'rtasi bilan tutashtiruvchi kesma nima deyiladi?",
+    "variantlar": [
+     "Bissektrisa",
+     "Balandlik",
+     "O'rta perpendikulyar",
+     "Mediana"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Uchburchakning nechta medianasi bor?",
+    "variantlar": [
+     "Bitta",
+     "Uchta",
+     "Oltita",
+     "Ikkita"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Teng yonli uchburchakning qaysi burchaklari o'zaro teng bo'ladi?",
+    "variantlar": [
+     "Uchidagi va asosidagi burchagi",
+     "Asosidagi burchaklari",
+     "Barcha burchaklari",
+     "Hech qaysi burchagi"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Uchburchaklar tengligining TBT alomati qanday elementlar bo'yicha aniqlanadi?",
+    "variantlar": [
+     "Uch burchak",
+     "Uch tomon",
+     "Bir tomon va unga yopishgan ikki burchak",
+     "Ikki tomon va ular orasidagi burchak"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Perimetri 28 sm bo'lgan teng yonli uchburchakning asosi yon tomonidan 4 sm uzun. Uning yon tomoni necha sm?",
+    "variantlar": [
+     "9",
+     "8",
+     "10",
+     "12"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Teng yonli uchburchakning bir tomoni 3 sm, ikkinchi tomoni 4 sm. Uning perimetri qaysi qiymatlar bo'lishi mumkin?",
+    "variantlar": [
+     "7 sm yoki 14 sm",
+     "10 sm faqat",
+     "11 sm faqat",
+     "10 sm yoki 11 sm"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Tomoni 4 sm bo'lgan teng tomonli uchburchak tomonlarining o'rtalari tutashtirilsa, hosil bo'lgan uchburchakning perimetri necha sm bo'ladi?",
+    "variantlar": [
+     "8",
+     "4",
+     "6",
+     "12"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "ABC va DEF teng uchburchaklar, AB = 5 sm, BC = 7 sm, AC = 9 sm. DEF uchburchakning perimetri necha sm?",
+    "variantlar": [
+     "21",
+     "14",
+     "23",
+     "19"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Teng yonli uchburchakning perimetri 48 sm, yon tomoni 18 sm. Uning asosi necha sm?",
+    "variantlar": [
+     "12",
+     "18",
+     "30",
+     "16"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "AB kesmaning o'rta perpendikulyari ustidagi C nuqta uchun AC = 9 sm bo'lsa, BC necha sm?",
+    "variantlar": [
+     "Aniqlab bo'lmaydi",
+     "18",
+     "4,5",
+     "9"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "ABC uchburchakning BC tomoniga o'tkazilgan o'rta perpendikulyar AC tomonni E nuqtada kesadi. BE = 6 sm, AC = 8,4 sm bo'lsa, AE necha sm?",
+    "variantlar": [
+     "1,4",
+     "14,4",
+     "6",
+     "2,4"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "ABC va A1B1C1 uchburchaklarda AB = A1B1, AC = A1C1 va A = A1. Bu uchburchaklar qaysi alomat bo'yicha teng?",
+    "variantlar": [
+     "TTT",
+     "BTB",
+     "Teng emas",
+     "TBT"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Teng yonli uchburchakning uchidan chiqarilgan bissektrisa asosni qanday bo'ladi?",
+    "variantlar": [
+     "Asosga parallel bo'ladi",
+     "Teng ikkiga bo'ladi, lekin perpendikulyar bo'lmaydi",
+     "Turli bo'laklarga bo'ladi",
+     "Teng ikkiga bo'ladi va asosga perpendikulyar bo'ladi"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "ABC uchburchakda AB = BC, BD medianasi 4 sm, ABD uchburchakning perimetri 12 sm. ABC uchburchakning perimetri necha sm?",
+    "variantlar": [
+     "24",
+     "20",
+     "16",
+     "8"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Perimetri 36 bo'lgan uchburchakning balandligi uni perimetrlari 18 va 24 bo'lgan uchburchaklarga ajratadi. Balandlik necha?",
+    "variantlar": [
+     "6",
+     "9",
+     "3",
+     "12"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Perimetri 36 bo'lgan uchburchakning bissektrisasi uni perimetrlari 24 va 30 bo'lgan uchburchaklarga ajratadi. Bissektrisa necha?",
+    "variantlar": [
+     "9",
+     "6",
+     "12",
+     "18"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Teng yonli uchburchakning asosi yon tomonidan 3 sm katta, lekin yon tomonlarining yig'indisidan 5 sm kichik. Uning perimetri necha sm?",
+    "variantlar": [
+     "21",
+     "30",
+     "24",
+     "27"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Teng yonli uchburchakning perimetri 18,4 m, asosi yon tomonidan 3,6 m qisqa. Uning asosi necha m?",
+    "variantlar": [
+     "8",
+     "6,4",
+     "3,6",
+     "4,4"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "AD va BC kesmalar O nuqtada kesishib, shu nuqtada teng ikkiga bo'linadi. AOB uchburchakda A = 35° va B = 62° bo'lsa, DOC uchburchakning D va C burchaklari qanday?",
+    "variantlar": [
+     "83° va 35°",
+     "35° va 83°",
+     "35° va 62°",
+     "62° va 35°"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Teng yonli uchburchakning perimetri 36, tomonlaridan biri 16. Qolgan ikki tomoni qanday bo'lishi mumkin?",
+    "variantlar": [
+     "10 va 10 yoki 16 va 4",
+     "Faqat 16 va 4",
+     "Faqat 10 va 10",
+     "Bunday uchburchak mavjud emas"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Teng yonli ABC (AB = AC) uchburchakda BE va CD bissektrisalar o'tkazilgan. BE = CD ekanligi qaysi tenglikdan kelib chiqadi?",
+    "variantlar": [
+     "Bu tenglik isbotlanmaydi",
+     "ABE = ACD (TTT alomati)",
+     "BCD = CBE (BTB alomati)",
+     "BDC = CEB (TBT, ikki burchak teng)"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "ABC va A1B1C1 uchburchaklarda AB = A1B1, BC = B1C1 va perimetrlari teng. Ular teng bo'ladimi va qaysi alomatga ko'ra?",
+    "variantlar": [
+     "Ha, BTB alomatiga ko'ra",
+     "Ha, TBT alomatiga ko'ra",
+     "Yo'q, teng bo'lmaydi",
+     "Ha, TTT alomatiga ko'ra"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "MNK va PQR uchburchaklar teng, MN = 3 sm, NK = 4 sm, PQ = 5 sm. Bundan qaysi burchaklar teng ekanligi kelib chiqadi?",
+    "variantlar": [
+     "N = R",
+     "M = Q",
+     "K = R, lekin N = Q",
+     "N = P"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "7-sinf",
+  "kitob": "7-sinf 7-Sinf Geometriya",
+  "mavzu": "IV BOB - PARALLEL TO'G'RI CHIZIQLAR",
+  "savollar": [
+   {
+    "savol": "Qanday to'g'ri chiziqlar parallel deyiladi?",
+    "variantlar": [
+     "To'g'ri burchak ostida kesishadigan to'g'ri chiziqlar",
+     "Bir tekislikda yotib, o'zaro kesishmaydigan to'g'ri chiziqlar",
+     "Turli tekisliklarda yotgan har qanday chiziqlar",
+     "Bir nuqtada kesishadigan to'g'ri chiziqlar"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "a to'g'ri chiziq b to'g'ri chiziqqa parallel ekanligi qanday yoziladi?",
+    "variantlar": [
+     "a ⊥ b",
+     "a ∈ b",
+     "a = b",
+     "a || b"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "To'g'ri chiziqda yotmagan nuqtadan shu to'g'ri chiziqqa nechta parallel to'g'ri chiziq o'tkazish mumkin (parallellik aksiomasi)?",
+    "variantlar": [
+     "Uchta",
+     "Faqat bitta",
+     "Ikkita",
+     "Istalgancha"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Parallellik aksiomasi qanday nom bilan mashhur?",
+    "variantlar": [
+     "Arximed qonuni",
+     "Evklidning 5-postulati",
+     "Fales teoremasi",
+     "Pifagor teoremasi"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Bitta to'g'ri chiziqqa perpendikulyar bo'lgan ikki to'g'ri chiziq haqida qaysi tasdiq to'g'ri?",
+    "variantlar": [
+     "Ular perpendikulyar bo'ladi",
+     "Ular ustma-ust tushadi",
+     "Ular o'zaro kesishadi",
+     "Ular o'zaro paralleldir"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ikki to'g'ri chiziq va kesuvchi hosil qilgan 8 ta burchakdan 3 va 5 burchaklar (a, b to'g'ri chiziqlar va c kesuvchi, burchaklar 1-4 yuqorida, 5-8 pastda) qanday burchaklar deyiladi?",
+    "variantlar": [
+     "Tashqi bir tomonli burchaklar",
+     "Mos burchaklar",
+     "Ichki almashinuvchi burchaklar",
+     "Ichki bir tomonli burchaklar"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Bir to'g'ri chiziqqa parallel bo'lgan ikki to'g'ri chiziq haqida qaysi tasdiq to'g'ri?",
+    "variantlar": [
+     "O'zaro perpendikulyar bo'ladi",
+     "O'zaro kesishadi",
+     "Ustma-ust tushishi shart",
+     "O'zaro paralleldir"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ikki parallel to'g'ri chiziq va kesuvchi hosil qilgan ichki almashinuvchi burchaklar haqida nima deyish mumkin?",
+    "variantlar": [
+     "Yig'indisi 90° ga teng",
+     "Yig'indisi 180° ga teng",
+     "Ayirmasi 180° ga teng",
+     "O'zaro teng bo'ladi"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ikki parallel to'g'ri chiziq va kesuvchi hosil qilgan ichki bir tomonli burchaklar yig'indisi necha gradusga teng?",
+    "variantlar": [
+     "360°",
+     "180°",
+     "120°",
+     "90°"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Teoremadan to'g'ridan-to'g'ri kelib chiqadigan xossa nima deyiladi?",
+    "variantlar": [
+     "Faraz",
+     "Natija",
+     "Ta'rif",
+     "Aksioma"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ikki to'g'ri chiziq kesuvchi bilan kesilganda ichki bir tomonli burchaklardan biri 70° bo'lsa, bu to'g'ri chiziqlar parallel bo'lishi uchun ikkinchisi necha gradus bo'lishi kerak?",
+    "variantlar": [
+     "110°",
+     "70°",
+     "290°",
+     "20°"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikki to'g'ri chiziq kesuvchi bilan kesilganda hosil bo'lgan mos burchaklardan biri 47° bo'lsa, to'g'ri chiziqlar parallel bo'lishi uchun ikkinchi mos burchak necha gradus bo'lishi kerak?",
+    "variantlar": [
+     "43°",
+     "94°",
+     "47°",
+     "133°"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikki parallel to'g'ri chiziqni kesuvchi kesganda hosil bo'lgan burchaklardan biri 72° bo'lsa, qolgan yettita burchakdan nechtasi 108° ga teng?",
+    "variantlar": [
+     "2 ta",
+     "5 ta",
+     "4 ta",
+     "3 ta"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikki parallel to'g'ri chiziqni kesuvchi kesganda hosil bo'lgan ichki bir tomonli burchaklarning biri 65° bo'lsa, ikkinchisi necha gradus?",
+    "variantlar": [
+     "295°",
+     "25°",
+     "65°",
+     "115°"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikki to'g'ri chiziqni kesuvchi kesganda hosil bo'lgan ichki almashinuvchi burchaklar 55° va 55° bo'lsa, bu to'g'ri chiziqlar haqida nima deyish mumkin?",
+    "variantlar": [
+     "Perpendikulyar",
+     "Parallel",
+     "Ustma-ust tushadi",
+     "Kesishadi"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikki to'g'ri chiziqni kesuvchi kesganda hosil bo'lgan mos burchaklar 32° va 33° bo'lsa, bu to'g'ri chiziqlar parallel bo'ladimi?",
+    "variantlar": [
+     "Yo'q, parallel emas",
+     "Perpendikulyar bo'ladi",
+     "Ustma-ust tushadi",
+     "Ha, parallel"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikki parallel to'g'ri chiziqdan biriga perpendikulyar bo'lgan to'g'ri chiziq ikkinchisiga nisbatan qanday bo'ladi?",
+    "variantlar": [
+     "Perpendikulyar",
+     "Parallel",
+     "Ustma-ust",
+     "Hech qanday munosabatda emas"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "'Agar burchaklar vertikal bo'lsa, ular teng bo'ladi' teoremasiga teskari tasdiq qaysi?",
+    "variantlar": [
+     "Vertikal burchaklar 180° ga teng",
+     "Agar burchaklar teng bo'lsa, ular qo'shni bo'ladi",
+     "Agar burchaklar teng bo'lsa, ular vertikal bo'ladi",
+     "Agar burchaklar vertikal bo'lmasa, ular teng emas"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "'Agar burchaklar vertikal bo'lsa, ular teng bo'ladi' teoremasiga teskari tasdiq haqida qaysi gap to'g'ri?",
+    "variantlar": [
+     "U har doim to'g'ri",
+     "U ta'rif",
+     "U aksioma",
+     "U to'g'ri emas"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikki parallel to'g'ri chiziqni kesuvchi kesganda hosil bo'lgan ichki bir tomonli burchaklarning ayirmasi 30° bo'lsa, ular qanday?",
+    "variantlar": [
+     "80° va 100°",
+     "60° va 90°",
+     "75° va 105°",
+     "85° va 115°"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ikki parallel to'g'ri chiziqni kesuvchi kesganda hosil bo'lgan ichki almashinuvchi burchaklar yig'indisi 84° bo'lsa, hosil bo'lgan burchaklar qanday qiymatlarga ega?",
+    "variantlar": [
+     "21° va 159°",
+     "42° va 138°",
+     "42° va 48°",
+     "84° va 96°"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ikki parallel to'g'ri chiziqni kesuvchi kesganda hosil bo'lgan burchaklardan biri ikkinchisidan 8 marta katta (ular qo'shni). Kichik burchak necha gradus?",
+    "variantlar": [
+     "24°",
+     "20°",
+     "22°",
+     "18°"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ikki parallel to'g'ri chiziqni kesuvchi kesganda hosil bo'lgan ichki almashinuvchi burchaklarning bissektrisalari o'zaro qanday bo'ladi?",
+    "variantlar": [
+     "Perpendikulyar",
+     "Parallel",
+     "Ustma-ust tushadi",
+     "Kesishadi"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ikki parallel to'g'ri chiziqni kesuvchi kesganda hosil bo'lgan uchta ichki burchak yig'indisi 290° bo'lsa, to'rtinchi ichki burchak necha gradus? (Ichki burchaklar: ikkitasi x, ikkitasi 180°−x.)",
+    "variantlar": [
+     "36°",
+     "110°",
+     "145°",
+     "70°"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ikki parallel to'g'ri chiziqni kesuvchi kesganda hosil bo'lgan burchaklardan biri 40° bo'lsa, qolgan yettita burchakdan birortasi 120° ga teng bo'la oladimi?",
+    "variantlar": [
+     "Faqat ikkitasi 60° bo'lsa",
+     "Yo'q, bo'lmaydi",
+     "Ha, ikkita",
+     "Ha, bitta"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ikki parallel to'g'ri chiziq va kesuvchida x + x + 48° = 180° tenglama hosil bo'lsa (x — ichki almashinuvchi burchak, yoyiq burchak tarkibida), x necha gradus?",
+    "variantlar": [
+     "76°",
+     "132°",
+     "56°",
+     "66°"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ikki parallel to'g'ri chiziq kesuvchi bilan kesilganda hosil bo'lgan bir tomonli burchaklardan biri x, ikkinchisi 4x bo'lsa, x necha gradus?",
+    "variantlar": [
+     "60°",
+     "30°",
+     "36°",
+     "45°"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "a||b, a⊥c va c||d bo'lsa, a va d to'g'ri chiziqlar orasidagi munosabat qanday?",
+    "variantlar": [
+     "a||d",
+     "a⊥d",
+     "a va d ustma-ust",
+     "Aniqlab bo'lmaydi"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Mos tomonlari parallel bo'lgan burchaklardan biri o'tkir, ikkinchisi o'tmas bo'lsa, ularning yig'indisi necha gradus?",
+    "variantlar": [
+     "90°",
+     "270°",
+     "360°",
+     "180°"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "7-sinf",
+  "kitob": "7-sinf 7-Sinf Geometriya",
+  "mavzu": "32. To'g'ri chiziqlarning parallelligi",
+  "savollar": [
+   {
+    "savol": "Qanday to'g'ri chiziqlar parallel deb ataladi?",
+    "variantlar": [
+     "O'zaro 90° burchak hosil qiladigan to'g'ri chiziqlar",
+     "Bir tekislikda yotib, o'zaro kesishmaydigan to'g'ri chiziqlar",
+     "Turli tekisliklarda yotgan har qanday to'g'ri chiziqlar",
+     "Bir nuqtada kesishadigan to'g'ri chiziqlar"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "a va b to'g'ri chiziqlarning parallelligi qanday yoziladi?",
+    "variantlar": [
+     "a ∈ b",
+     "a || b",
+     "a ⊥ b",
+     "a = b"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Parallellik aksiomasiga ko'ra, tekislikda to'g'ri chiziqqa uning ustida yotmagan nuqtadan nechta parallel to'g'ri chiziq o'tkazish mumkin?",
+    "variantlar": [
+     "Cheksiz ko'p",
+     "Faqat bitta",
+     "Hech qanday",
+     "Faqat ikkita"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Parallellik aksiomasi qanday nom bilan mashhur?",
+    "variantlar": [
+     "Pifagor teoremasi",
+     "Fales teoremasi",
+     "Evklidning 5-postulati",
+     "Arximed qonuni"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Bitta to'g'ri chiziqqa perpendikulyar bo'lgan ikki to'g'ri chiziq haqida nima deyish mumkin?",
+    "variantlar": [
+     "Ular albatta kesishadi",
+     "Ular o'zaro paralleldir",
+     "Ular o'zaro perpendikulyar bo'ladi",
+     "Ular ustma-ust tushadi"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Bir to'g'ri chiziqqa parallel bo'lgan ikki to'g'ri chiziq haqida qaysi tasdiq to'g'ri?",
+    "variantlar": [
+     "Ular albatta ustma-ust tushadi",
+     "Ular o'zaro kesishadi",
+     "Ular o'zaro perpendikulyardir",
+     "Ular o'zaro paralleldir"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Quyidagilardan qaysi biri parallel kesmalarga misol bo'la oladi?",
+    "variantlar": [
+     "Kesishgan yo'l chorrahasi",
+     "Temir yo'l relslari",
+     "Soatning ikki strelkasi 3:00 da",
+     "Uchburchakning ikki tomoni"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "To'g'ri to'rtburchakning qarama-qarshi tomonlari o'zaro qanday joylashgan?",
+    "variantlar": [
+     "Ustma-ust tushadi",
+     "Kesishadi",
+     "Parallel",
+     "Bir-biriga qo'shni bo'ladi"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Parallel to'g'ri chiziqlarda yotgan kesmalar va nurlar haqida nima deyiladi?",
+    "variantlar": [
+     "Ular parallel bo'la olmaydi",
+     "Ular faqat perpendikulyar bo'ladi",
+     "Ular ham o'zaro parallel deb yuritiladi",
+     "Ular doim kesishadi"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ta'rifga ko'ra, to'g'ri chiziqlar parallel bo'lishi uchun ular qaysi shartlarni bajarishi kerak?",
+    "variantlar": [
+     "Uzunliklari teng bo'lishi",
+     "Bir tekislikda yotishi va umumiy nuqtaga ega bo'lmasligi",
+     "Bir nuqtada kesishishi va bir tekislikda yotishi",
+     "Ikkalasi ham gorizontal bo'lishi"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "a || c va b || c ekanligi ma'lum. Bu ma'lumotdan qaysi xulosa kelib chiqadi?",
+    "variantlar": [
+     "a va b bitta nuqtada kesishadi",
+     "a ⊥ b",
+     "a || b",
+     "a va c kesishadi"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "a to'g'ri chiziqqa tegishli bo'lmagan O nuqtadan a ga parallel to'g'ri chiziq o'tkazishda birinchi qadam nima?",
+    "variantlar": [
+     "O nuqtadan a ni kesib o'tuvchi ixtiyoriy chiziq o'tkaziladi",
+     "a ustida ikki nuqta belgilanadi va ulanadi",
+     "O nuqtadan a ga urinma o'tkaziladi",
+     "O nuqtadan a ga perpendikulyar OA o'tkaziladi"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "m ⊥ p va n ⊥ p bo'lsa, m va n to'g'ri chiziqlar o'zaro qanday bo'ladi?",
+    "variantlar": [
+     "Ustma-ust tushuvchi",
+     "Perpendikulyar",
+     "Kesishuvchi",
+     "Parallel"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Tekislikda l to'g'ri chiziq va uning ustida yotmagan M nuqta berilgan. M nuqtadan l ga parallel nechta to'g'ri chiziq o'tkazish mumkin?",
+    "variantlar": [
+     "1 ta",
+     "3 ta",
+     "2 ta",
+     "Cheksiz ko'p"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Katakli daftar varag'idagi ikkita gorizontal chiziq o'zaro qanday joylashgan?",
+    "variantlar": [
+     "Perpendikulyar",
+     "Kesishuvchi",
+     "Parallel",
+     "Bir-biriga tegib turuvchi"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikkita to'g'ri chiziq c to'g'ri chiziqqa perpendikulyar. Ularning kesishishi mumkinmi?",
+    "variantlar": [
+     "Yo'q, ular parallel bo'ladi",
+     "Ha, 90° burchak ostida kesishadi",
+     "Faqat bir tekislikda bo'lmasa kesishadi",
+     "Ha, doim kesishadi"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "a || b va b || c bo'lsa, quyidagilardan qaysi biri to'g'ri?",
+    "variantlar": [
+     "a ⊥ c",
+     "a va c kesishadi",
+     "a || c",
+     "a va c haqida hech narsa deb bo'lmaydi"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Nima uchun kesishmaydigan ikki kesmani har doim ham parallel deb bo'lmaydi?",
+    "variantlar": [
+     "Kesmalar to'g'ri chiziq emas, shuning uchun",
+     "Kesmalarning uzunligi har xil bo'ladi",
+     "Ular yotgan to'g'ri chiziqlar kesishishi mumkin",
+     "Kesmalar hech qachon parallel bo'lmaydi"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikkita nur kesishmasa, ularni parallel deyish uchun qanday shart bajarilishi kerak?",
+    "variantlar": [
+     "Hech qanday shart kerak emas",
+     "Nurlarning boshi bir nuqtada bo'lishi kerak",
+     "Nurlar bir xil yo'nalishga ega bo'lishi kerak",
+     "Ular yotgan to'g'ri chiziqlar parallel bo'lishi kerak"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Chizg'ich va go'niya yordamida parallel to'g'ri chiziq chizish usuli qaysi teoremaga asoslanadi?",
+    "variantlar": [
+     "Uchburchak burchaklari yig'indisi haqidagi teorema",
+     "Pifagor teoremasi",
+     "Vertikal burchaklarning tengligi",
+     "Bitta to'g'ri chiziqqa perpendikulyar ikki to'g'ri chiziqning parallelligi"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "a || c va b || c bo'lsin. Teoremani isbotlashda a va b bir A nuqtada kesishadi deb faraz qilinsa, qanday ziddiyat kelib chiqadi?",
+    "variantlar": [
+     "a va b perpendikulyar bo'lib qoladi, bu shartga zid",
+     "A nuqta c da yotib qoladi, bu shartga zid",
+     "a va b ning uzunliklari teng bo'lib qoladi",
+     "A nuqtadan c ga ikkita parallel to'g'ri chiziq o'tgan bo'lib qoladi, bu aksiomaga zid"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "a || b, b || c, c || d bo'lsa, a va d to'g'ri chiziqlar haqida nima deyish mumkin?",
+    "variantlar": [
+     "a || d",
+     "a va d kesishadi",
+     "a ⊥ d",
+     "Hech narsa deb bo'lmaydi"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "M nuqta l to'g'ri chiziqda yotmaydi. M dan l ga parallel to'g'ri chiziqlar a va b o'tkazilgan deb faraz qilaylik. Parallellik aksiomasiga ko'ra a va b haqida nima deyish mumkin?",
+    "variantlar": [
+     "a va b M nuqtada perpendikulyar bo'ladi",
+     "a va b ustma-ust tushadi (bitta to'g'ri chiziq)",
+     "a va b parallel bo'lib, farqli bo'ladi",
+     "a va b l ni kesib o'tadi"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "a to'g'ri chiziq b ga parallel, c to'g'ri chiziq esa a ni kesib o'tadi (a, b, c bir tekislikda). Parallellik aksiomasidan foydalanib, c va b haqida qanday xulosa qilish mumkin?",
+    "variantlar": [
+     "c va b albatta parallel",
+     "c va b parallel bo'la olmaydi, ular kesishadi",
+     "c va b ustma-ust tushadi",
+     "c va b perpendikulyar bo'ladi"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Bir tekislikda a ⊥ c, b ⊥ c va d || a bo'lsin. d va b to'g'ri chiziqlar haqida qaysi xulosa to'g'ri?",
+    "variantlar": [
+     "d ⊥ b",
+     "d va c parallel",
+     "d || b",
+     "d va b kesishadi"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Tekislikda a || b va m to'g'ri chiziq a ni kesib o'tadi. Quyidagi mulohazalardan qaysi biri parallellik aksiomasiga asoslanib to'g'ri xulosa beradi?",
+    "variantlar": [
+     "m to'g'ri chiziq b ga parallel bo'ladi",
+     "m to'g'ri chiziq b ni ham kesib o'tadi",
+     "m to'g'ri chiziq b bilan ustma-ust tushadi",
+     "m to'g'ri chiziq a ga perpendikulyar bo'ladi"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Bir tekislikda uchta a, b, c to'g'ri chiziq berilgan: a ⊥ c va b ⊥ c. Yana d to'g'ri chiziq b ga parallel va d ≠ b. d va a haqida nima deyish mumkin?",
+    "variantlar": [
+     "d va a kesishadi",
+     "d || a",
+     "d ⊥ a",
+     "d va c parallel"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Kvadrat ABCD ning AB tomoni CD tomoniga parallel, BC tomoni ham AD ga parallel. AB ⊥ BC bo'lsa, AB va AD haqida nima deyish mumkin (rasmsiz, matndagi qoidalar asosida)?",
+    "variantlar": [
+     "AB va AD ustma-ust tushadi",
+     "AB va AD haqida hech narsa deb bo'lmaydi",
+     "AB || AD",
+     "AB ⊥ AD, chunki AD || BC va AB ⊥ BC"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Nima uchun \"a to'g'ri chiziqqa perpendikulyar bo'lgan ikki to'g'ri chiziq kesishishi mumkin emas\" tasdig'i to'g'ri?",
+    "variantlar": [
+     "Chunki ular bir xil uzunlikka ega",
+     "Chunki ular a ni kesib o'tmaydi",
+     "Chunki perpendikulyar chiziqlar hech qachon chizilmaydi",
+     "Chunki kesishsa, kesishish nuqtasidan a ga ikkita perpendikulyar tushgan bo'lar edi, bu mumkin emas"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "7-sinf",
+  "kitob": "7-sinf 7-Sinf Geometriya",
+  "mavzu": "33. Ikki to'g'ri chiziq va kesuvchi hosil qilgan burchaklar",
+  "savollar": [
+   {
+    "savol": "Ikki to'g'ri chiziq va kesuvchi kesishganda nechta burchak hosil bo'ladi?",
+    "variantlar": [
+     "12 ta",
+     "6 ta",
+     "8 ta",
+     "4 ta"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ikki to'g'ri chiziq va kesuvchi hosil qilgan burchaklarning 3 va 5 (rasmdagi belgilanishga ko'ra, 3 ichki, 5 ichki, kesuvchining qarama-qarshi tomonida) juftligi qanday nomlanadi?",
+    "variantlar": [
+     "Mos burchaklar",
+     "Tashqi bir tomonli burchaklar",
+     "Ichki bir tomonli burchaklar",
+     "Ichki almashinuvchi burchaklar"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Matndagi belgilanishga ko'ra, 4 va 5 burchaklar qanday burchaklar juftligi hisoblanadi?",
+    "variantlar": [
+     "Ichki bir tomonli burchaklar",
+     "Ichki almashinuvchi burchaklar",
+     "Mos burchaklar",
+     "Tashqi almashinuvchi burchaklar"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Matndagi belgilanishga ko'ra, 1 va 5 burchaklar qanday burchaklar?",
+    "variantlar": [
+     "Tashqi bir tomonli burchaklar",
+     "Vertikal burchaklar",
+     "Mos burchaklar",
+     "Ichki almashinuvchi burchaklar"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ikki to'g'ri chiziqning parallellik alomatiga ko'ra, ichki almashinuvchi burchaklar teng bo'lsa, bu to'g'ri chiziqlar qanday bo'ladi?",
+    "variantlar": [
+     "Ustma-ust tushadi",
+     "Perpendikulyar",
+     "Faqat kesishadi",
+     "O'zaro parallel"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ikki parallel to'g'ri chiziq va kesuvchi hosil qilgan ichki bir tomonli burchaklar yig'indisi necha gradus?",
+    "variantlar": [
+     "270°",
+     "360°",
+     "180°",
+     "90°"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ikki parallel to'g'ri chiziq va kesuvchi hosil qilgan mos burchaklar haqida nima deyish mumkin?",
+    "variantlar": [
+     "Ular o'zaro teng",
+     "Yig'indisi 180° ga teng",
+     "Yig'indisi 90° ga teng",
+     "Ular doim to'g'ri burchak"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Teoremadan to'g'ridan-to'g'ri kelib chiqadigan xossa nima deb ataladi?",
+    "variantlar": [
+     "Masala",
+     "Aksioma",
+     "Natija",
+     "Ta'rif"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Teoremaning sharti va xulosasi o'rni almashtirilsa, hosil bo'lgan (to'g'ri bo'lsa) teorema qanday ataladi?",
+    "variantlar": [
+     "Alomat emas",
+     "Yangi aksioma",
+     "Teskari teorema",
+     "Natija"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Berilgan to'g'ri chiziqda yotmagan nuqta orqali shu to'g'ri chiziqqa nechta parallel to'g'ri chiziq o'tkazish mumkin?",
+    "variantlar": [
+     "Cheksiz ko'p",
+     "Bitta ham emas",
+     "Ikkita",
+     "Faqat bitta"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ikki to'g'ri chiziq va kesuvchi hosil qilgan burchaklardan 2 = 60° bo'lsa, unga vertikal bo'lgan 4 necha gradus bo'ladi? (2 va 4 vertikal burchaklar deb oling.)",
+    "variantlar": [
+     "120°",
+     "30°",
+     "60°",
+     "90°"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ichki bir tomonli burchaklardan biri 70° bo'lib, to'g'ri chiziqlar parallel bo'lsa, ikkinchisi necha gradus?",
+    "variantlar": [
+     "20°",
+     "70°",
+     "110°",
+     "290°"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Parallel to'g'ri chiziqlar va kesuvchi hosil qilgan bir juft mos burchakdan biri 65° bo'lsa, ikkinchisi necha gradus?",
+    "variantlar": [
+     "25°",
+     "130°",
+     "65°",
+     "115°"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikki to'g'ri chiziq va kesuvchi hosil qilgan bir juft ichki bir tomonli burchaklar 105° va 75° bo'lsa, bu to'g'ri chiziqlar haqida nima deyish mumkin?",
+    "variantlar": [
+     "Ustma-ust tushadi",
+     "Perpendikulyar",
+     "Kesishadi",
+     "Parallel"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikki to'g'ri chiziq va kesuvchi hosil qilgan bir juft mos burchak 32° va 33° bo'lsa, bu to'g'ri chiziqlar parallel bo'ladimi?",
+    "variantlar": [
+     "Ha, parallel",
+     "Faqat perpendikulyar bo'ladi",
+     "Aniqlab bo'lmaydi",
+     "Yo'q, parallel emas"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "a burchak 25° bo'lib, b nur va c nur a nurning bir tomoniga (ab) = 25° va (ac) = 155° qilib qo'yilgan. Ular haqida (parallellik alomati bilan) nima deyish mumkin? (Bir tomonli burchaklar yig'indisini hisoblang.)",
+    "variantlar": [
+     "Ular perpendikulyar",
+     "25° + 155° = 180°, shuning uchun parallel deyish mumkin",
+     "Yig'indi 180° emas, shuning uchun parallel emas",
+     "Ular ustma-ust tushadi"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Parallel to'g'ri chiziqlar va kesuvchi hosil qilgan ikkita ichki almashinuvchi burchakning yig'indisi 150° bo'lsa, ularning har biri necha gradus?",
+    "variantlar": [
+     "30°",
+     "75°",
+     "150°",
+     "60°"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikkita parallel to'g'ri chiziq va kesuvchi hosil qilgan burchaklardan biri 72° bo'lsa, qolgan yettita burchakdan nechtasi 108° ga teng?",
+    "variantlar": [
+     "3 ta",
+     "7 ta",
+     "2 ta",
+     "4 ta"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikkita parallel to'g'ri chiziq va kesuvchi hosil qilgan ikkita ichki bir tomonli burchakning ayirmasi 20° bo'lsa, katta burchak necha gradus?",
+    "variantlar": [
+     "110°",
+     "80°",
+     "90°",
+     "100°"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikkita parallel to'g'ri chiziq va kesuvchi hosil qilgan burchaklardan biri 40° bo'lsa, qolgan yettita burchakdan birortasi 120° ga teng bo'la oladimi?",
+    "variantlar": [
+     "Ha, mos burchak sifatida",
+     "Yo'q, burchaklar faqat 40° yoki 140° bo'ladi",
+     "Ha, vertikal burchak sifatida",
+     "Ha, ichki almashinuvchi sifatida"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "ABC va BAD uchburchaklar teng bo'lib, C va D nuqtalar AB to'g'ri chiziqdan turli tomonda yotadi (mos burchaklar: ∠CAB = ∠DBA). AC va BD to'g'ri chiziqlar parallel bo'lishini qaysi alomat asosida isbotlash mumkin?",
+    "variantlar": [
+     "Uchburchak burchaklari yig'indisi",
+     "Ichki almashinuvchi burchaklar tengligi alomati",
+     "Vertikal burchaklar tengligi",
+     "Qo'shni burchaklar alomati"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ichki almashinuvchi burchaklar teng bo'lsa, ichki bir tomonli burchaklar yig'indisi 180° ekanini isbotlashda qaysi xossalar ketma-ket ishlatiladi?",
+    "variantlar": [
+     "Faqat uchburchak burchaklari yig'indisi",
+     "Vertikal burchaklar tengligi va qo'shni burchaklar yig'indisi 180°",
+     "Faqat vertikal burchaklar tengligi",
+     "Faqat parallellik aksiomasi"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "1-rasmda a va b chiziqlar c kesuvchi bilan kesishgan, ∠2 = 55° va ∠5 = 125° bo'lsa (matndagi masala: 4 va 2 vertikal, 5 va 6 qo'shni), a va b haqida to'g'ri xulosa qaysi?",
+    "variantlar": [
+     "∠4 = 55°, ∠6 = 55°, ichki almashinuvchi burchaklar teng, shuning uchun a || b",
+     "∠4 = 125°, ∠6 = 55°, parallel emas",
+     "∠4 = 35°, ∠6 = 55°, parallel emas",
+     "∠4 = 55°, ∠6 = 125°, parallel emas"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ikki parallel to'g'ri chiziq va kesuvchi hosil qilgan bir juft ichki almashinuvchi burchak x va x, ular bilan birga bir uchli yoyiq burchakda x + x + 48° = 180° tenglama hosil bo'ladi (a || b). x necha gradus?",
+    "variantlar": [
+     "66°",
+     "90°",
+     "48°",
+     "132°"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ikki to'g'ri chiziq va kesuvchi hosil qilgan ichki bir tomonli burchaklar x va 4x bo'lib, a || b bo'lsa, x necha gradus?",
+    "variantlar": [
+     "144°",
+     "36°",
+     "30°",
+     "45°"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ikki parallel to'g'ri chiziq va kesuvchi hosil qilgan ichki bir tomonli burchaklardan biri ikkinchisidan 3 marta katta bo'lsa, kichik burchak necha gradus?",
+    "variantlar": [
+     "60°",
+     "45°",
+     "135°",
+     "30°"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Teskari teorema haqida qaysi tasdiq to'g'ri?",
+    "variantlar": [
+     "Teskari tasdiq har doim ham to'g'ri bo'lavermaydi, masalan «teng burchaklar vertikal bo'ladi» noto'g'ri",
+     "Teskari tasdiqni isbotlash shart emas",
+     "Teskari tasdiq to'g'ri teorema bilan bir xil",
+     "To'g'ri teoremaga teskari tasdiq har doim to'g'ri bo'ladi"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ikki parallel to'g'ri chiziqning biriga perpendikulyar to'g'ri chiziq ikkinchisiga nisbatan qanday joylashadi?",
+    "variantlar": [
+     "Unga parallel bo'ladi",
+     "U bilan 45° burchak hosil qiladi",
+     "Unga ustma-ust tushadi",
+     "Unga ham perpendikulyar bo'ladi"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "ABC burchak 80°, BCD burchak 120° bo'lib, ular ichki bir tomonli burchaklar hisoblansa (BC kesuvchi), AB va CD parallel bo'la oladimi?",
+    "variantlar": [
+     "Ha, chunki 80° + 120° = 200° > 180°",
+     "Ha, chunki ikkalasi ham o'tkir",
+     "Yo'q, chunki yig'indi 180° ga teng emas",
+     "Ha, chunki ayirma 40°"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "7-sinf",
+  "kitob": "7-sinf 7-Sinf Geometriya",
+  "mavzu": "V BOB - UCHBURCHAK TOMONLARI VA BURCHAKLARI ORASIDAGI MUNOSABATLAR",
+  "savollar": [
+   {
+    "savol": "Uchburchak ichki burchaklarining yig'indisi necha gradusga teng?",
+    "variantlar": [
+     "360°",
+     "90°",
+     "180°",
+     "270°"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Uchburchakning ichki burchagiga qo'shni bo'lgan burchak nima deb ataladi?",
+    "variantlar": [
+     "Vertikal burchak",
+     "Yoyiq burchak",
+     "Tashqi burchak",
+     "Ichki almashinuvchi burchak"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "To'g'ri burchakli uchburchakda to'g'ri burchak qarshisidagi tomon nima deb ataladi?",
+    "variantlar": [
+     "Mediana",
+     "Asos",
+     "Katet",
+     "Gipotenuza"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "To'g'ri burchakli uchburchakning ikkita o'tkir burchagi yig'indisi necha gradus?",
+    "variantlar": [
+     "90°",
+     "180°",
+     "60°",
+     "120°"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Uchburchakning nechta burchagi to'g'ri bo'lishi mumkin?",
+    "variantlar": [
+     "Uchta",
+     "Ikkita",
+     "Hech qanday",
+     "Ko'pi bilan bitta"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Uchburchakning katta tomoni qarshisida qanday burchak yotadi?",
+    "variantlar": [
+     "To'g'ri burchak doim",
+     "Teng burchak doim",
+     "Katta burchak",
+     "Kichik burchak"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Uchburchak tengsizligiga ko'ra uchburchakning istalgan tomoni qolgan ikki tomon yig'indisidan qanday bo'ladi?",
+    "variantlar": [
+     "Teng",
+     "Kichik",
+     "Katta",
+     "Ikki barobar katta"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "To'g'ri burchakli uchburchaklar tengligining GK alomati qaysi elementlarga asoslanadi?",
+    "variantlar": [
+     "Gipotenuza va o'tkir burchak",
+     "Gipotenuza va katet",
+     "Katet va o'tkir burchak",
+     "Ikki katet"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "To'g'ri burchakli uchburchakning gipotenuzaga tushirilgan medianasi nimaga teng?",
+    "variantlar": [
+     "Gipotenuzaning yarmiga",
+     "Katetning yarmiga",
+     "Gipotenuzaning uchdan biriga",
+     "Gipotenuzaga"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Burchak bissektrisasining ixtiyoriy nuqtasidan burchak tomonlarigacha bo'lgan masofalar qanday bo'ladi?",
+    "variantlar": [
+     "Nolga teng",
+     "O'zaro teng",
+     "Turlicha",
+     "Ikki barobar farq qiladi"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Uchburchakning ikki burchagi 60° va 40° bo'lsa, uchinchi burchagi necha gradus?",
+    "variantlar": [
+     "70°",
+     "100°",
+     "90°",
+     "80°"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Uchburchakning ikki ichki burchagi 70° va 50° bo'lsa, uchinchi burchakning tashqi burchagi necha gradus (uchinchi uchdagi tashqi burchak)?",
+    "variantlar": [
+     "130°",
+     "110°",
+     "60°",
+     "120°"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Uchburchak burchaklari 2:3:7 nisbatda. Eng katta burchagi necha gradus?",
+    "variantlar": [
+     "105°",
+     "90°",
+     "70°",
+     "120°"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "To'g'ri burchakli uchburchakning gipotenuzasi 20 sm. 30° li burchak qarshisidagi katet necha sm?",
+    "variantlar": [
+     "10",
+     "40",
+     "20",
+     "5"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "To'g'ri burchakli uchburchakning gipotenuzaga tushirilgan medianasi 8 sm. Gipotenuza necha sm?",
+    "variantlar": [
+     "12",
+     "8",
+     "16",
+     "4"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Uchburchak tomonlari 2; 3; 6 bo'lsa, u haqida nima deyish mumkin?",
+    "variantlar": [
+     "Teng tomonli uchburchak",
+     "Bunday uchburchak mavjud emas",
+     "Teng yonli uchburchak",
+     "To'g'ri burchakli uchburchak"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Uchburchakning ikki tomoni 0,7 va 1,9. Uchinchi tomoni butun son bo'lsa, u nimaga teng?",
+    "variantlar": [
+     "3",
+     "2",
+     "4",
+     "1"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Teng yonli uchburchakning uchidagi burchagi 40° bo'lsa, asosidagi burchagi necha gradus?",
+    "variantlar": [
+     "140°",
+     "100°",
+     "70°",
+     "40°"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "ABC uchburchakda AB = 12 sm, BC = 10 sm, CA = 7 sm. Eng katta burchak qaysi?",
+    "variantlar": [
+     "A burchak",
+     "C burchak",
+     "Barchasi teng",
+     "B burchak"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Uchburchakning bir tashqi burchagi 120° va unga qo'shni bo'lmagan ichki burchaklaridan biri 50° bo'lsa, ikkinchisi necha gradus?",
+    "variantlar": [
+     "130°",
+     "70°",
+     "30°",
+     "60°"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Uchburchakning ikki ichki burchagi nisbati 5:9, uchinchi burchagi shu ikki burchakning kichigidan 10° kichik. Burchaklar qaysi qatorda to'g'ri berilgan?",
+    "variantlar": [
+     "50°, 80°, 50°",
+     "50°, 90°, 40°",
+     "45°, 81°, 35°",
+     "40°, 72°, 68°"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Uchburchakning 108° li tashqi burchagiga qo'shni bo'lmagan ichki burchaklari nisbati 5:4. Bu burchaklar qaysi qatorda?",
+    "variantlar": [
+     "60° va 48°",
+     "72° va 36°",
+     "54° va 54°",
+     "60° va 40°"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "To'g'ri burchakli uchburchakning bitta o'tkir burchagi ikkinchisidan 2 marta katta, kichik tomoni 6 sm. Katta tomoni (gipotenuza) necha sm?",
+    "variantlar": [
+     "18",
+     "6",
+     "12",
+     "9"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Teng yonli uchburchakning bir tashqi burchagi 70° bo'lsa, uning ichki burchaklari qanday?",
+    "variantlar": [
+     "Ham 110°, 35°, 35° ham 70°, 70°, 40° bo'lishi mumkin",
+     "70°, 70°, 40°",
+     "110°, 70°, 0°",
+     "110°, 35°, 35°"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "PQR uchburchakda P uchidagi tashqi burchak 120°, Q uchidagi tashqi burchak 100°. R burchak necha gradus?",
+    "variantlar": [
+     "20°",
+     "60°",
+     "80°",
+     "40°"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "ABC uchburchakning A va B burchaklari bissektrisalari O nuqtada kesishadi. Agar C = 80° bo'lsa, AOB necha gradus?",
+    "variantlar": [
+     "100°",
+     "140°",
+     "130°",
+     "50°"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Teng yonli uchburchakning perimetri 25 sm, bir tomoni ikkinchisidan 4 sm ortiq va tashqi burchaklaridan biri o'tkir. Uning tomonlari qanday?",
+    "variantlar": [
+     "7, 11, 11",
+     "9, 9, 7",
+     "7, 7, 11",
+     "8, 8, 9"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Uzunliklari 2; 3; 4; 5 va 6 bo'lgan kesmalardan nechta turli uchburchak yasash mumkin? (Faqat uchta har xil kesma olinadi, tomonlari turlicha.)",
+    "variantlar": [
+     "6",
+     "7",
+     "9",
+     "8"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Uchburchak burchaklari 1:2:3 nisbatda, katta tomoni 36 bo'lsa, kichik tomoni nimaga teng?",
+    "variantlar": [
+     "9",
+     "24",
+     "18",
+     "12"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "7-sinf",
+  "kitob": "7-sinf 7-Sinf Geometriya",
+  "mavzu": "VI BOB - YASASHGA DOIR MASALALAR",
+  "savollar": [
+   {
+    "savol": "Yasashga doir masalalarni yechishda qaysi ikki asbobdan foydalanishga ruxsat beriladi?",
+    "variantlar": [
+     "Millimetrli chizg'ich va transportir",
+     "Transportir va sirkul",
+     "Goniya va transportir",
+     "Sirkul va bir tomoni tekis oddiy chizg'ich"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Yasashga doir masalalarni yechish san'at darajasiga qaysi davlatda ko'tarilgan?",
+    "variantlar": [
+     "Qadimgi Xitoyda",
+     "Qadimgi Rimda",
+     "Qadimgi Yunonistonda",
+     "Qadimgi Misrda"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Yasashda oddiy chizg'ich yordamida quyidagilardan qaysi birini bajarishga ruxsat etiladi?",
+    "variantlar": [
+     "Burchakni o'lchash",
+     "Kesma uzunligini o'lchash",
+     "Ikki nuqtadan o'tuvchi to'g'ri chiziq chizish",
+     "Chizg'ichning ikki qirrasi bilan parallel chiziq o'tkazish"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Sirkul yordamida quyidagilardan qaysi birini bajarishga ruxsat etiladi?",
+    "variantlar": [
+     "Burchakni o'lchash",
+     "Kesma uzunligini santimetrda o'lchash",
+     "Perpendikulyar chiziqni chamalab chizish",
+     "Berilgan kesmaga teng kesmani nurga uning boshidan boshlab qo'yish"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Yasashga doir masalalarda yasashdan tashqari yana nima talab qilinadi?",
+    "variantlar": [
+     "Kesmalarni o'lchash",
+     "Rasmni bo'yash",
+     "Yasash to'g'riligini va to'liq bajarilganini isbotlash",
+     "Yasashni tez bajarish"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Berilgan burchakni teng ikkiga bo'luvchi nur nima deb ataladi?",
+    "variantlar": [
+     "Bissektrisa",
+     "Perpendikulyar",
+     "Mediana",
+     "Balandlik"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Burchak bissektrisasini yasashning asoslanishida uchburchaklar tengligining qaysi alomatidan foydalaniladi?",
+    "variantlar": [
+     "TTT alomati",
+     "BTB alomati",
+     "TBT alomati",
+     "Faqat gipotenuza bo'yicha"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Uchburchak yasash mumkin bo'lishi uchun a, b, c tomonlar (c eng katta) qanday shartni qanoatlantirishi kerak?",
+    "variantlar": [
+     "a + b = c",
+     "a + b < c",
+     "a = b = c",
+     "a + b > c"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Berilgan burchakka teng burchakni yasash masalasi nechta yechimga ega?",
+    "variantlar": [
+     "Uchta",
+     "Cheksiz ko'p",
+     "Bitta",
+     "Ikkita"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Kesmani teng ikkiga bo'lishda radiusi AB kesmaga teng va markazlari A va B nuqtalarda bo'lgan ikki aylana kesishgan C va C1 nuqtalar nima qilinadi?",
+    "variantlar": [
+     "C1 va B tutashtiriladi",
+     "C va A tutashtiriladi",
+     "C va C1 tutashtirilib, CC1 ning AB bilan kesishish nuqtasi olinadi",
+     "Aylanalar o'chiriladi"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Aylanadan tashqaridagi nuqtadan aylananing eng yaqin va eng uzoq nuqtalarigacha masofalar mos ravishda 2 sm va 10 sm. Aylana radiusi necha sm?",
+    "variantlar": [
+     "3",
+     "4",
+     "8",
+     "6"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Uzunligi 12 sm va 5 sm bo'lgan kesmalar berilgan. Sirkul va chizg'ich yordamida qaysi uzunlikdagi kesmani yasash mumkin emas (oddiy qo'shish, ayirish orqali)?",
+    "variantlar": [
+     "17 sm",
+     "24 sm",
+     "7 sm",
+     "Hammasini yasash mumkin"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Tomonlari 3 sm, 4 sm va 7 sm bo'lgan uchburchak yasash mumkinmi?",
+    "variantlar": [
+     "Mumkin, chunki 3 + 7 > 4",
+     "Mumkin emas, chunki tomonlar butun son",
+     "Mumkin, chunki 3 + 4 = 7",
+     "Mumkin emas, chunki 3 + 4 > 7 emas"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Tomonlari a = 2, b = 3, c = 6 bo'lgan kesmalardan uchburchak yasash mumkinmi?",
+    "variantlar": [
+     "Mumkin emas, chunki 2 < 3",
+     "Mumkin, chunki 2 + 3 > 6",
+     "Mumkin emas, chunki 2 + 3 < 6",
+     "Mumkin, chunki 6 > 3"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "O'ntamon: 1200 li burchakni sirkul va chizg'ich bilan teng ikkiga bo'lsak, necha gradusli burchak hosil bo'ladi?",
+    "variantlar": [
+     "45°",
+     "90°",
+     "30°",
+     "60°"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "90° li burchakni bissektrisa yasash orqali teng ikkiga bo'lsak, hosil bo'lgan burchak necha gradus?",
+    "variantlar": [
+     "30°",
+     "60°",
+     "45°",
+     "15°"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "AB = 5 sm bo'lsa, BA nurda B nuqtadan boshlab BC = 2AB bo'ladigan kesma qo'yilsa, BC necha sm bo'ladi?",
+    "variantlar": [
+     "10 sm",
+     "2,5 sm",
+     "7 sm",
+     "5 sm"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Berilgan a to'g'ri chiziqqa uning O nuqtasidan perpendikulyar yasashda, markazi O bo'lgan aylana to'g'ri chiziqni A va B nuqtalarda kesadi. Keyin nima qilinadi?",
+    "variantlar": [
+     "AB kesma o'lchanadi",
+     "Faqat transportir ishlatiladi",
+     "O dan A ga chiziq o'tkaziladi",
+     "A va B markazli AB radiusli aylanalar chiziladi va ularning kesishish nuqtasi C bilan O tutashtiriladi"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Uchburchak tomonlarining uzunliklari a = 3 sm, b = 8 sm, c = 9 sm. Uchburchak yasash mumkinmi va nima uchun?",
+    "variantlar": [
+     "Mumkin emas, chunki a < b",
+     "Mumkin, chunki 3 + 8 = 11 > 9",
+     "Mumkin emas, chunki c juft emas",
+     "Mumkin emas, chunki a + b > c"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "A = 40° va B = 30° burchaklar berilgan. Ularning yig'indisiga teng burchak yasalsa, u necha gradus bo'ladi?",
+    "variantlar": [
+     "70°",
+     "80°",
+     "35°",
+     "10°"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "45° va 30° li burchaklar berilgan. Ularning ayirmasiga teng burchak necha gradus?",
+    "variantlar": [
+     "15°",
+     "75°",
+     "45°",
+     "30°"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "36° li burchak berilgan. Sirkul va chizg'ich yordamida 99° li burchakni yasash uchun qaysi yo'l to'g'ri?",
+    "variantlar": [
+     "36° ni 3 marta qo'yish",
+     "36° ni 90° ga qo'shib 126°, so'ng 27° ni ayirish (bissektrisa orqali 90° dan 45° hosil qilinmaydi)",
+     "36° ni 2 marta qo'shib 72°, so'ng 27° ni qo'shish",
+     "36° ni ikki marta qo'yib, 90° ni qo'shish"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Berilgan burchak yasashning to'g'riligi qaysi tengliklarga asoslanadi (ABC va OB1C1 uchburchaklar)?",
+    "variantlar": [
+     "AB = OC1, AC = OB1",
+     "AB = OB1, AC = OC1, BC = B1C1",
+     "Faqat AC = OC1",
+     "BC = OB1 va AB = B1C1"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "15° li burchakni sirkul va chizg'ich yordamida yasashning to'g'ri usuli qaysi?",
+    "variantlar": [
+     "45° ga 30° ni qo'shish",
+     "60° ni yasab, bir marta teng ikkiga bo'lish",
+     "60° ni yasab, uni ikki marta teng ikkiga bo'lish",
+     "90° ni teng uchga bo'lish"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ixtiyoriy ikki tomonining yig'indisi 10 sm bo'lgan teng tomonli uchburchakning perimetri necha sm?",
+    "variantlar": [
+     "10 sm",
+     "30 sm",
+     "15 sm",
+     "20 sm"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Uchburchakning perimetri tomonlaridan mos ravishda 14 sm, 16 sm va 24 sm uzun. Uchburchakning eng katta tomoni necha sm?",
+    "variantlar": [
+     "13 sm",
+     "16 sm",
+     "12 sm",
+     "15 sm"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Teng yonli ABC (AB = BC) uchburchakning perimetri 48 sm, BH balandlik, BHC uchburchakning perimetri 32 sm. BH necha sm?",
+    "variantlar": [
+     "8 sm",
+     "5 sm",
+     "4 sm",
+     "6 sm"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "A, B nuqtalar bir to'g'ri chiziqda va sirkulning berilgan kesmani qo'yish qoidasiga ko'ra, AB = 4 sm bo'lsa, AB + CD (CD = 3 sm) ga teng kesma qo'yilganda hosil bo'lgan A1D1 kesma necha sm bo'ladi?",
+    "variantlar": [
+     "12 sm",
+     "1 sm",
+     "3,5 sm",
+     "7 sm"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Berilgan a to'g'ri chiziqda yotmaydigan O nuqtadan perpendikulyar yasashda O markazli aylana a ni A va B nuqtalarda kesadi. Markazlari A va B bo'lgan, radiusi shu aylana radiusiga teng aylanalarning kesishish nuqtalari O va O1 bo'lsa, perpendikulyar qaysi to'g'ri chiziq bo'ladi?",
+    "variantlar": [
+     "OO1",
+     "AB",
+     "OB",
+     "OA"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "7-sinf",
+  "kitob": "7-sinf 7-Sinf Geometriya",
+  "mavzu": "VII BOB - TAKRORLASH",
+  "savollar": [
+   {
+    "savol": "Darslikka ko'ra, geometrik masalalarni yechish odatda nechta bosqichda bajariladi?",
+    "variantlar": [
+     "2 ta",
+     "4 ta",
+     "3 ta",
+     "5 ta"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Masalani yechishning birinchi bosqichi qaysi?",
+    "variantlar": [
+     "Rejalashtirish",
+     "Masalani tushunish",
+     "Yechish",
+     "Tekshirish"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Geometrik masalalar mohiyatiga qarab qaysi turlarga bo'linadi?",
+    "variantlar": [
+     "Algebraik, arifmetik va mantiqiy",
+     "Faqat hisoblashga va isbotlashga doir",
+     "Oson, o'rtacha va qiyin",
+     "Hisoblashga, isbotlashga va yasashga doir"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Yoyiq burchak necha gradusga teng?",
+    "variantlar": [
+     "180°",
+     "90° dan kichik",
+     "360°",
+     "90°"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Teng tomonli uchburchakning har bir burchagi necha gradusga teng?",
+    "variantlar": [
+     "30°",
+     "60°",
+     "45°",
+     "90°"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "To'g'ri burchakli uchburchakning o'tkir burchaklari yig'indisi necha gradus?",
+    "variantlar": [
+     "180°",
+     "90°",
+     "120°",
+     "60°"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Aylananing radiusi 3,2 sm bo'lsa, uning diametri necha sm?",
+    "variantlar": [
+     "6,4",
+     "1,6",
+     "5,2",
+     "3,2"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Berilgan nuqtadan berilgan to'g'ri chiziqqa parallel qilib nechta to'g'ri chiziq o'tkazish mumkin?",
+    "variantlar": [
+     "3 ta",
+     "2 ta",
+     "1 ta",
+     "Istalgancha"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Uchburchakning tashqi burchagi nimaga teng?",
+    "variantlar": [
+     "Unga qo'shni bo'lmagan ikki ichki burchak yig'indisiga",
+     "Unga qo'shni ichki burchakka",
+     "Uchala ichki burchak yig'indisiga",
+     "180° ga"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Qo'shni burchaklarning bissektrisalari qanday burchak ostida kesishadi?",
+    "variantlar": [
+     "30°",
+     "90°",
+     "45°",
+     "60°"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Qo'shni burchaklardan biri ikkinchisidan 3 marta katta. Bu burchaklar ayirmasini toping.",
+    "variantlar": [
+     "90°",
+     "45°",
+     "75°",
+     "60°"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Qo'shni burchaklardan biri ikkinchisidan 4 marta kichik. Kattasini toping.",
+    "variantlar": [
+     "120°",
+     "36°",
+     "150°",
+     "144°"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "ABC teng yonli uchburchakning uchidagi B burchagi 80° ga teng. Uning A uchidagi tashqi burchagini toping.",
+    "variantlar": [
+     "120°",
+     "110°",
+     "100°",
+     "130°"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "ABC uchburchakda ∠A = 50° va ∠B = 70° bo'lsa, uning katta tomonini aniqlang.",
+    "variantlar": [
+     "AB",
+     "BC",
+     "AC",
+     "Aniqlab bo'lmaydi"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Teng yonli uchburchakning perimetri 7,6 sm, asosi 2 sm. Yon tomonini toping.",
+    "variantlar": [
+     "2,6 sm",
+     "2,8 sm",
+     "3,8 sm",
+     "5,6 sm"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "ABC uchburchakda ∠B = 30°, ∠C = 90° va AC = 10 sm. AB gipotenuzasini toping.",
+    "variantlar": [
+     "15 sm",
+     "20 sm",
+     "5 sm",
+     "10 sm"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikki parallel to'g'ri chiziqni uchinchi to'g'ri chiziq kesganda hosil bo'lgan burchaklardan biri 55° ga teng. Ichki bir tomonli burchaklardan biri 55° bo'lsa, ikkinchisi necha gradus?",
+    "variantlar": [
+     "35°",
+     "145°",
+     "125°",
+     "55°"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Perimetri 30 sm bo'lgan uchburchakning bir tomoni ikkinchi tomonidan 2 sm katta, uchinchi tomonidan 2 sm kichik. Uchburchakning katta tomonini toping.",
+    "variantlar": [
+     "12 sm",
+     "10 sm",
+     "14 sm",
+     "11 sm"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "A nuqta BC kesmaning B va C nuqtalari orasida yotadi. BC = 15 sm, AC kesma AB dan 3 sm qisqa. AB kesmaning uzunligini toping.",
+    "variantlar": [
+     "7,5 sm",
+     "12 sm",
+     "9 sm",
+     "6 sm"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Teng yonli uchburchakning uchidagi burchagi 96° ga teng. Asosidagi burchaklarning bissektrisalari kesishishidan hosil bo'lgan o'tkir burchakni toping.",
+    "variantlar": [
+     "48°",
+     "84°",
+     "21°",
+     "42°"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "To'g'ri burchakli uchburchakning to'g'ri burchagidan bissektrisa va balandlik chiqarilgan, ular orasidagi burchak 24°. Uchburchakning o'tkir burchaklarini toping.",
+    "variantlar": [
+     "45° va 45°",
+     "30° va 60°",
+     "21° va 69°",
+     "24° va 66°"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Teng yonli uchburchakning yon tomoniga tushirilgan balandligi bilan ikkinchi yon tomoni orasidagi burchak 20° ga teng (uchburchakning uchidagi burchagi o'tkir). Uchburchakning asosidagi burchagini toping.",
+    "variantlar": [
+     "70°",
+     "35°",
+     "80°",
+     "55°"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Perimetri 42 sm bo'lgan uchburchakning medianasi uni perimetrlari 33 sm va 35 sm bo'lgan ikkita uchburchakka ajratadi. Mediananing uzunligini toping.",
+    "variantlar": [
+     "13 sm",
+     "26 sm",
+     "11 sm",
+     "15 sm"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Uchburchakning bir tashqi burchagi 100° ga teng. Unga qo'shni bo'lmagan burchaklar nisbati 2:3 kabi. Uchburchakning katta burchagini toping.",
+    "variantlar": [
+     "100°",
+     "60°",
+     "80°",
+     "40°"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Uchburchakning balandligi 5 sm bo'lib, uni perimetrlari 18 sm va 26 sm bo'lgan ikkita uchburchakka ajratadi. Berilgan uchburchakning perimetrini toping.",
+    "variantlar": [
+     "31 sm",
+     "34 sm",
+     "44 sm",
+     "39 sm"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "A, B, C, D nuqtalar shu tartibda bir to'g'ri chiziqda yotadi, AB = BC = 1, CD = 2. K nuqta BC kesmada shunday joylashganki, BK : KC = AK : KD. Shu nisbatni toping.",
+    "variantlar": [
+     "1 : 3",
+     "1 : 1",
+     "1 : 2",
+     "2 : 3"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "ABC uchburchakda AB = 1, A burchakning bissektrisasi B uchidan tushirilgan medianaga perpendikulyar va BC tomon butun son bilan ifodalanadi. Uchburchakning perimetrini toping.",
+    "variantlar": [
+     "4",
+     "6",
+     "7",
+     "5"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "ABC uchburchakda A va B burchaklarning bissektrisalari O nuqtada kesishadi va ∠AOB = 136° bo'lsa, ∠ACB necha gradus?",
+    "variantlar": [
+     "46°",
+     "88°",
+     "92°",
+     "44°"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Teng yonli uchburchakning ikki tomoni 2 sm va 7 sm ga teng. Uning perimetrini toping.",
+    "variantlar": [
+     "16 sm",
+     "11 sm",
+     "9 sm",
+     "18 sm"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ }
+]

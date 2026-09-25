@@ -1,0 +1,326 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Kimyo",
+ "mavzu": "Tuproqning suvli eritmasini tayyorlash va unda ishqor borligini aniqlash",
+ "savollar": [
+  {
+   "savol": "Tuproq ko'pincha qanday muhitga ega bo'ladi?",
+   "variantlar": [
+    "Faqat tuzli",
+    "Kislotali",
+    "Faqat neytral",
+    "Ishqoriy"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qishloq xo'jaligida kislotali tuproq nima yordamida neytrallanadi?",
+   "variantlar": [
+    "Osh tuzi",
+    "Kaliy xlorid",
+    "Ohak",
+    "Spirt"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tuproqqa ortiqcha ohak solinsa, qanday holat yuz beradi?",
+   "variantlar": [
+    "Tuproq suvda butunlay eriydi",
+    "Tuproq rangini yo'qotadi",
+    "Tuproq yanada kislotali bo'ladi",
+    "Tuproq ishqorlashadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tuproq eritmasini tayyorlash uchun taxminan qancha tuproq namunasi tortib olinadi?",
+   "variantlar": [
+    "500 g",
+    "50 g",
+    "5 g",
+    "1 g"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tuproq solingan probirkaga qaysi eritmadan 12,5 ml quyiladi?",
+   "variantlar": [
+    "Distillangan suv",
+    "1 molarli natriy gidroksid",
+    "10% li osh tuzi",
+    "1 molarli kaliy xlorid"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Silkitilgan probirka necha minut tindirib qo'yiladi?",
+   "variantlar": [
+    "2 minut",
+    "10 minut",
+    "30 minut",
+    "5 minut"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tuproq eritmasini filtrlaganda filtrda nima qoladi?",
+   "variantlar": [
+    "Indikator",
+    "Tuproqning suvda erimaydigan qismi",
+    "Kaliy xlorid eritmasi",
+    "Tiniq filtrat"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tuproq ishqoriy muhitga ega bo'lsa, lakmus qog'ozi qanday rangga o'tadi?",
+   "variantlar": [
+    "Ko'kdan sariqqa",
+    "Rangi o'zgarmaydi",
+    "Binafshadan ko'k rangga",
+    "Binafshadan qizilga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Molar konsentratsiya qaysi formula bilan hisoblanadi (m – massa, M – molar massa, V – hajm)?",
+   "variantlar": [
+    "CM = M·1000 / (m·V)",
+    "CM = m·V / (M·1000)",
+    "CM = E·1000 / (m·V)",
+    "CM = m·1000 / (M·V)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A g tuz B g suvda eritildi. Foiz konsentratsiya qaysi formula bilan topiladi?",
+   "variantlar": [
+    "C% = (A+B)/A · 100%",
+    "C% = A/B · 100%",
+    "C% = A/(A+B) · 100%",
+    "C% = B/(A+B) · 100%"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "50 g osh tuzi 450 g suvda eritildi. Eritmaning foiz konsentratsiyasi qancha?",
+   "variantlar": [
+    "5%",
+    "11,1%",
+    "10%",
+    "50%"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tuzlar konsentratsiyasi 4% bo'lgan 10 kg ko'l suvi bug'latilsa, qancha tuz qoladi?",
+   "variantlar": [
+    "4 kg",
+    "2,5 kg",
+    "40 g",
+    "0,4 kg"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2 litr eritmada 16 g NaOH bor (Mr = 40). Eritmaning molar konsentratsiyasi qancha?",
+   "variantlar": [
+    "0,8 mol/l",
+    "0,2 mol/l",
+    "8 mol/l",
+    "0,4 mol/l"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2 mol/l li 500 ml kalsiy xlorid eritmasini tayyorlash uchun qancha CaCl2 kerak (M = 111 g/mol)?",
+   "variantlar": [
+    "111 g",
+    "1000 g",
+    "222 g",
+    "55,5 g"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yodning spirtdagi 10% li 500 g eritmasini tayyorlash uchun qancha yod va spirt kerak?",
+   "variantlar": [
+    "100 g yod va 400 g spirt",
+    "5 g yod va 495 g spirt",
+    "10 g yod va 490 g spirt",
+    "50 g yod va 450 g spirt"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Natriy sulfatning 6,5% li 50 g eritmasida qancha tuz bor?",
+   "variantlar": [
+    "32,5 g",
+    "6,5 g",
+    "0,325 g",
+    "3,25 g"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "5 g osh tuzi 35 g suvda eritildi. Eritmaning foiz konsentratsiyasi qancha?",
+   "variantlar": [
+    "12,5%",
+    "14,3%",
+    "10%",
+    "87,5%"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3% li 200 g kalsiy xlorid eritmasini tayyorlash uchun qancha quruq tuz va qancha suv kerak?",
+   "variantlar": [
+    "6 g tuz va 200 g suv",
+    "60 g tuz va 140 g suv",
+    "6 g tuz va 194 g suv",
+    "3 g tuz va 197 g suv"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Universal indikator qog'ozi tuproq eritmasiga tushirilganda sariqdan pushti rangga o'tdi. Bu nimani bildiradi?",
+   "variantlar": [
+    "Tuproq kislotali",
+    "Eritmada tuz yo'q",
+    "Tuproq neytral",
+    "Tuproq ishqoriy"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kaliy xlorid eritmasi 12,5 ml olinib, 5 g tuproq bilan aralashtirilsa, tuproq massasi va eritma hajmi nisbati qanday bo'ladi (tuproq g : eritma ml)?",
+   "variantlar": [
+    "1 : 2,5",
+    "1 : 12,5",
+    "1 : 5",
+    "2 : 5"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "200 g 10% li tuz eritmasi shu tuzning 300 g 20% li eritmasi bilan aralashtirildi. Yangi eritmaning massa ulushi qancha?",
+   "variantlar": [
+    "18%",
+    "16%",
+    "15%",
+    "14%"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Natriy sulfatning 7,1% li 200 g eritmasiga mo'l miqdorda bariy xlorid eritmasi quyildi. Hosil bo'lgan BaSO4 cho'kmasining massasi qancha (Na2SO4 = 142, BaSO4 = 233)?",
+   "variantlar": [
+    "2,33 g",
+    "14,2 g",
+    "46,6 g",
+    "23,3 g"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "5 litr 0,1 M li aluminiy sulfat Al2(SO4)3 eritmasini tayyorlash uchun qancha tuz kerak (M = 342 g/mol)?",
+   "variantlar": [
+    "171 g",
+    "85,5 g",
+    "34,2 g",
+    "342 g"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "8 g NaOH suvda eritilib, eritma hajmi 500 ml ga yetkazildi (M = 40 g/mol). Eritmaning molar konsentratsiyasi qancha?",
+   "variantlar": [
+    "0,2 mol/l",
+    "0,1 mol/l",
+    "0,4 mol/l",
+    "0,8 mol/l"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nitrat kislotaning 10% li eritmasi (zichligi 1,056 g/sm3, M(HNO3) = 63 g/mol) molar konsentratsiyasi taxminan qancha?",
+   "variantlar": [
+    "0,16 mol/l",
+    "10 mol/l",
+    "1,68 mol/l",
+    "1,06 mol/l"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tuzlar konsentratsiyasi 4% bo'lgan ko'l suvidan 2 kg tuz olish uchun necha kg suvni bug'latish kerak?",
+   "variantlar": [
+    "80 kg",
+    "25 kg",
+    "50 kg",
+    "8 kg"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tuproq eritmasini tayyorlash bosqichlarining to'g'ri ketma-ketligini ko'rsating.",
+   "variantlar": [
+    "KCl quyish → ertasi kungacha qoldirish → tuproq tortish → silkitish",
+    "Silkitish → KCl quyish → tuproq tortish → tindirish",
+    "Tuproq tortish → KCl quyish → silkitish → 10 minut tindirish → ertasi kungacha qoldirish",
+    "Tuproq tortish → tindirish → KCl quyish → filtrlash"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun tuproq muhitini aniqlashda pipetka bilan eritma olinayotganda probirka tubidagi cho'kma qo'zg'atilmasligi kerak?",
+   "variantlar": [
+    "Pipetka cho'kmada sinib qoladi",
+    "Cho'kma kaliy xloridni parchalab yuboradi",
+    "Cho'kma indikator rangini yo'qotadi",
+    "Tiniq eritma olinishi va tuproq zarralari natijaga xalaqit bermasligi uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2 mol/l li 250 ml kalsiy xlorid eritmasi uchun qancha CaCl2 kerak (2 mol = 222 g)?",
+   "variantlar": [
+    "222 g",
+    "27,75 g",
+    "55,5 g",
+    "111 g"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

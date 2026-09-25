@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Tabiatshunoslik",
+ "mavzu": "Mevali daraxtlar",
+ "savollar": [
+  {
+   "savol": "Olma mevalarining yetilish oylarini ko'rsating.",
+   "variantlar": [
+    "Iyun va iyul",
+    "Sentabr va oktabr",
+    "Dekabr va yanvar",
+    "Fevral va mart"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tok qanday oyda gullaydi?",
+   "variantlar": [
+    "Fevral oyida",
+    "Aprel oyida",
+    "Noyabr oyida",
+    "Iyul oyida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Anjir mevalarining yetilish oyini ko'rsating.",
+   "variantlar": [
+    "Iyun oyida",
+    "Noyabr oyida",
+    "May oyida",
+    "Sentabr oyida"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Anor mevalarining yetilish oyini ko'rsating.",
+   "variantlar": [
+    "Iyun oyida",
+    "Avgust oyida",
+    "Iyul oyida",
+    "Oktabr oyida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Anor va anjir qanday yo'l bilan ko'paytiriladi?",
+   "variantlar": [
+    "Urug'dan",
+    "Ildizdan",
+    "Novdasidan",
+    "Kurtaklardan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Malina va qorag'at qanday o'simlik sifatida yetishtiriladi?",
+   "variantlar": [
+    "Mevali butalar",
+    "Poliz ekinlari",
+    "O'tkazuvchan o'simliklar",
+    "Sazoq ekinlari"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nok mevalarining yetilish oylarini ko'rsating.",
+   "variantlar": [
+    "Iyun va iyul",
+    "Fevral va mart",
+    "Dekabr va yanvar",
+    "Sentabr va oktabr"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tok poyasi va novdalari nima bilan bog'lab qo'yiladi?",
+   "variantlar": [
+    "Tayoqlarga",
+    "Zanjirga",
+    "Simlarga",
+    "Shnurlarga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tok poyasi va novdalari nima sababli ishkom qilinadi?",
+   "variantlar": [
+    "Ular kesib olish uchun",
+    "Ular juda tez o'sadi",
+    "Ular halol bo'ladi",
+    "Ular o'zini tik tutib tura olmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tok novdalari bahor kelishi bilan nimani chiqaradi?",
+   "variantlar": [
+    "Gul",
+    "Urug'",
+    "Barg",
+    "Poliz"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ertapishar uzum navlari qanday oyida yetiladi?",
+   "variantlar": [
+    "Iyun oyida",
+    "Iyul oyida",
+    "Avgust oyida",
+    "May oyida"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Boshqa navli uzumlar qanday oylarida pishadi?",
+   "variantlar": [
+    "Avgust va sentabr oylarida",
+    "Iyun va iyul oylarida",
+    "Iyul va avgust oylarida",
+    "Sentabr va oktabr oylarida"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Uzum kishmish navidan nimani tayyorlaymiz?",
+   "variantlar": [
+    "Mus",
+    "Mayiz",
+    "Kompot",
+    "Shurup"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Malina qanday oydan boshlab pishadi?",
+   "variantlar": [
+    "May oyidan",
+    "Iyun oyidan",
+    "Aprel oyidan",
+    "Iyul oyidan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qorag'at qanday oydan boshlab pishadi?",
+   "variantlar": [
+    "Aprel oyidan",
+    "May oyidan",
+    "Iyun oyidan",
+    "Iyul oyidan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Malina va qorag'at ildizlarida nimalar bo'ladi?",
+   "variantlar": [
+    "Novdalar",
+    "Tuxumlar",
+    "Kurtaklar",
+    "Barglar"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tok aprel oyida gullaydi. Bu o'rinda tok qanday faslni ko'chirmoqda?",
+   "variantlar": [
+    "Bahor faslini",
+    "Yoz faslini",
+    "Kuz faslini",
+    "Qish faslini"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar tok poyasi simlarga bog'lanmasa, nima bo'ladi?",
+   "variantlar": [
+    "Ular yanada tez o'sadi",
+    "Ular urug' beradi",
+    "Ular yiqilib tushadi",
+    "Ular qorallanadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'lkamizda qaysi uzum navlari yetishtiriladi?",
+   "variantlar": [
+    "Faqat qora janjal",
+    "Husayni, qora janjal, charos, kishmish va boshqalar",
+    "Faqat kishmish",
+    "Faqat husayni"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Anor va anjir qaysi oyda pishadi?",
+   "variantlar": [
+    "Dekabr va yanvarida",
+    "Bir xil oyda",
+    "Aprel va mayda",
+    "Turli oylarida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Poliz ekinlari (tarvuz, qovun) va mevali daraxtlarni (olma, nok) solishtiring. Ularning asosiy farqi nima?",
+   "variantlar": [
+    "Mevali daraxtlar zaif",
+    "Poliz ekinlari bir yillik o'simlikdir",
+    "Mevali daraxtlar bir yillik o'simlikdir",
+    "Poliz ekinlari kichikroq"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Malina va qorag'at dorivor o'simlik bo'lsa, ularning mevalari odamlar tomonidan nima sifatida ishlatiladi?",
+   "variantlar": [
+    "Ovqat va dori uchun",
+    "Faqat ovqat uchun",
+    "Faqat dori uchun",
+    "Hechqanday maqsadda ishlatilmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tok aprel oyida gullaydi va ertapishar uzumlar iyun oyida yetiladi. Bu qancha vaqt turadi?",
+   "variantlar": [
+    "4 oy",
+    "3 oy",
+    "2 oy",
+    "1 oy"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nok va olma sentabr-oktabr oylarida yetiladi, anor esa avgust oyida, anjir iyun oyida pishadi. Bu nima anglatadi?",
+   "variantlar": [
+    "Ular bir vaqtda o'sadi",
+    "Ular bir paytda pishadi",
+    "Ular turli biologik xususiyatlarga ega",
+    "Ularning barglari bir xil"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Anor va anjir novdasidan ko'paytiriladi, malina va qorag'at esa ildizlarining kurtaklardan ko'paytiriladi. Bu nimaning dalili?",
+   "variantlar": [
+    "Ularning poyalari farq qiladi",
+    "Ularning ildizlari turli",
+    "Ularning mevalari farq qiladi",
+    "Ko'paytirilish usuli ularning biologik xususiyatiga bog'liq"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tok poyasi va novdalari simlarga bog'lab qo'yiladi, chunki ular o'zini tik tutib tura olmaydi. Bu tok qanday o'simlik ekanini ko'rsatadi?",
+   "variantlar": [
+    "Tok struktural jihatdan zaif o'simlikdir",
+    "Tok quruq mahallada o'sadi",
+    "Tok juda katta o'sadi",
+    "Tok kuchli o'simlikdir"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Poliz ekini tushunchasi qaysi o'simliklar uchun to'g'ri?",
+   "variantlar": [
+    "Ko'p yillik o'simliklar uchun",
+    "Bir yillik o'simliklar uchun",
+    "Mevali daraxtlar uchun",
+    "Hammasiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uzum novlarining (husayni, qora janjal, charos, kishmish va boshqalar) har bir nomi qanday xususiyatining farqini ko'rsatadi?",
+   "variantlar": [
+    "Yetishtirilish sharoitining",
+    "O'simsh tezligining",
+    "Ko'paytirilish usulinng",
+    "Mevalari ko'rinish va taami"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'lkamizda tok, uzum, olma, nok, anor, anjir, malina va qorag'at yetishtiriladi. Bu o'simliklarni ikki guruhga bo'lish mumkin. Qaysi asosda?",
+   "variantlar": [
+    "Dorivor yoki qisman dorivor",
+    "Bir yillik yoki ko'p yillik",
+    "Katta yoki kichik",
+    "Poliz yoki mevali"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ertapishar uzumlar iyun oyida yetiladi, boshqa uzumlar esa avgust va sentabr oylarida pishadi. Bu nima anglatadi?",
+   "variantlar": [
+    "Ertapishar uzumlar kuchli",
+    "Boshqa uzumlar barobar o'sadi",
+    "Ertapishar uzumlar tez o'sadi va pishadi",
+    "Ertapishar uzumlar sekin o'sadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Ona tili",
+ "mavzu": "O'RIN-PAYT KELISHIGI SHAKLI",
+ "savollar": [
+  {
+   "savol": "Payt otlariga qo'shilib, hokim qismdagi harakatning paytini bildiruvchi o'rin-payt kelishigi shaklidagi so'z qaysi so'roqqa javob bo'ladi?",
+   "variantlar": [
+    "qachon?",
+    "kimda?",
+    "nimadan?",
+    "qayerda?"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Payt otlariga qo'shilgan o'rin-payt kelishigi shaklidagi so'z gapda qaysi vazifada keladi?",
+   "variantlar": [
+    "To'ldiruvchi",
+    "Payt holi",
+    "Sabab holi",
+    "O'rin holi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shaxs va narsa otlariga qo'shilib, kimda? nimada? so'roqlariga javob bo'ladigan so'zlar gapda qaysi vazifada keladi?",
+   "variantlar": [
+    "Sabab holi",
+    "O'rin holi",
+    "Payt holi",
+    "To'ldiruvchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chiqish kelishigi qo'shimchasi o'rin-joy otlariga qo'shilganda qaysi so'roqqa javob bo'ladi?",
+   "variantlar": [
+    "nimani?",
+    "qayerga?",
+    "qayerda?",
+    "qayerdan?"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chiqish kelishigi shaklidagi o'rin-joy otlari gapda qaysi vazifani bajaradi?",
+   "variantlar": [
+    "O'rin holi",
+    "Sabab holi",
+    "Payt holi",
+    "To'ldiruvchi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chiqish kelishigi shaklidagi payt otlari qaysi so'roqqa javob bo'ladi?",
+   "variantlar": [
+    "qachon?",
+    "qayerdan?",
+    "nima sababdan?",
+    "nimadan?"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chiqish kelishigi shaklidagi shaxs va narsa otlari qaysi so'roqlarga javob bo'ladi?",
+   "variantlar": [
+    "kimdan? nimadan?",
+    "kimda? nimada?",
+    "kimni? nimani?",
+    "kimga? nimaga?"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ba'zan ayrim otlar, sifatdoshlar va boshqa so'zlarga qo'shilgan chiqish kelishigi qaysi so'roqqa javob bo'ladi?",
+   "variantlar": [
+    "qayerda?",
+    "nima sababdan?",
+    "kimda?",
+    "qachon?"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chiqish kelishigi shaklidagi so'z sabab so'rog'iga javob bo'lganda gapda qaysi vazifada keladi?",
+   "variantlar": [
+    "O'rin holi",
+    "Payt holi",
+    "To'ldiruvchi",
+    "Sabab holi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'rin-payt kelishigi shaklini yasovchi qo'shimcha qaysi?",
+   "variantlar": [
+    "-da",
+    "-dan",
+    "-ga",
+    "-ni"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi qatorda barcha so'zlar payt otlariga misol bo'ladi?",
+   "variantlar": [
+    "Pastda, orqada, o'rtada",
+    "Senda, Ahmadda, maktabda",
+    "Tongda, kuzda, saharda",
+    "Ishda, uyquda, o'roqda"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Pastda» so'zi qaysi so'roqqa javob bo'ladi va gapda qanday vazifada keladi?",
+   "variantlar": [
+    "qayerda? – o'rin holi",
+    "kimda? – to'ldiruvchi",
+    "nimadan? – to'ldiruvchi",
+    "qachon? – payt holi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Ahmadda kitobim qoldi» gapida «Ahmadda» so'zi qaysi so'roqqa javob bo'ladi?",
+   "variantlar": [
+    "kimda?",
+    "qayerda?",
+    "qachon?",
+    "nimada?"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Kuzda bog'lar zarhal tusga kiradi» gapida «kuzda» so'zi qanday vazifada kelgan?",
+   "variantlar": [
+    "O'rin holi",
+    "To'ldiruvchi",
+    "Payt holi",
+    "Sabab holi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Toshkent... ketmoq» birikmasida nuqta o'rniga qaysi qo'shimcha qo'yiladi?",
+   "variantlar": [
+    "-dan",
+    "-da",
+    "-ni",
+    "-ning"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Sahar... ishni boshlamoq» birikmasida nuqta o'rniga qaysi qo'shimcha to'g'ri keladi va u qaysi so'roqqa javob beradi?",
+   "variantlar": [
+    "-ni, nimani?",
+    "-dan, qayerdan?",
+    "-da, qachon?",
+    "-da, qayerda?"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Harakatchanligi... muvaffaqiyat qozonmoq» birikmasida nuqta o'rniga qaysi qo'shimcha mos va u nimani bildiradi?",
+   "variantlar": [
+    "-ni, obyekt",
+    "-dan, sabab",
+    "-ga, maqsad",
+    "-da, o'rin"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Adolat kuchda emas» gapida «kuchda» so'zi qaysi so'roqqa javob bo'ladi?",
+   "variantlar": [
+    "qachon?",
+    "nimada?",
+    "kimda?",
+    "qayerdan?"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Uzumdan yemoq» birikmasidagi «uzumdan» so'zi qaysi kelishikda?",
+   "variantlar": [
+    "Chiqish kelishigi",
+    "O'rin-payt kelishigi",
+    "Qaratqich kelishigi",
+    "Tushum kelishigi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Sharqda qadim-qadimdan oila muqaddas Vatan sanalgan» gapida «Sharqda» va «qadim-qadimdan» so'zlari qaysi kelishikda va qanday so'roqlarga javob bo'ladi?",
+   "variantlar": [
+    "Ikkalasi ham chiqish: qayerdan?",
+    "Sharqda – o'rin-payt (qayerda?); qadim-qadimdan – chiqish (qachondan/qachon?)",
+    "Sharqda – chiqish (qayerdan?); qadim-qadimdan – o'rin-payt (qachon?)",
+    "Ikkalasi ham o'rin-payt: qayerda?"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi qatorda so'zlarning hammasi to'ldiruvchi vazifasida kelishi mumkin bo'lgan o'rin-payt kelishigidagi shaxs-narsa otlari berilgan?",
+   "variantlar": [
+    "Tongda, kuzda, tushda",
+    "Ishda, maktabda, saharda",
+    "Pastda, orqada, o'rtada",
+    "Senda, Ahmadda, o'roqda"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi so'zlarning qaysi biri o'rin-payt kelishigida bo'lib, ham o'rin, ham payt ma'nosida kelishi mumkin?",
+   "variantlar": [
+    "Maktabda (o'rin), tushda (payt) – har biri o'z ma'nosida",
+    "Faqat tongda",
+    "Faqat Ahmadda",
+    "Faqat pastda"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Uzumni yemoq», «uzumdan yemoq» birikmalari orasidagi farq nimada?",
+   "variantlar": [
+    "Ikkalasi bir xil ma'noli",
+    "Birinchisi sabab, ikkinchisi maqsad bildiradi",
+    "Birinchisida payt, ikkinchisida o'rin bildiriladi",
+    "Birinchisida uzumning hammasi, ikkinchisida bir qismi yeyilishi anglashiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi gapda o'rin-payt kelishigidagi so'z payt holi vazifasida kelgan?",
+   "variantlar": [
+    "Odamlar orasida yoqib qolgan kishi do'st bo'ladi.",
+    "Do'stlik insonning bolalik davrida boshlanadi.",
+    "Vatan insonning yuragida bo'lmog'i lozim.",
+    "Bolalikdan boshlangan do'stlik alohida o'rin tutadi."
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi gapda o'rin-payt kelishigidagi so'z o'rin holi vazifasida kelgan?",
+   "variantlar": [
+    "Vatan har bir insonning yuragida bo'lmog'i lozim.",
+    "Do'stlik davrida boshlanadi.",
+    "Sahar mehnat boshlandi.",
+    "Odam umri davomida do'st orttiradi."
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi so'z «qachon?» so'rog'iga javob bermaydi?",
+   "variantlar": [
+    "Tushda",
+    "Peshinda",
+    "Dastgohda",
+    "Uyquda"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Temir... qattiq» va «shamol... tez» birikmalaridagi nuqtalar o'rniga qaysi qo'shimcha qo'yiladi va nima ma'no anglashiladi?",
+   "variantlar": [
+    "-ga; maqsad",
+    "-ni; obyekt",
+    "-da; o'rin",
+    "-dan; qiyoslash (temirdan qattiq, shamoldan tez)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Ishda» va «ishdan» so'zlarini taqqoslang. To'g'ri fikrni toping.",
+   "variantlar": [
+    "Ikkalasi ham kimni? so'rog'iga javob bo'ladi",
+    "Ikkalasi ham qayerda? so'rog'iga javob bo'ladi",
+    "Ishda – qayerda?, ishdan – qayerdan? so'rog'iga javob bo'ladi",
+    "Ishda – qayerdan?, ishdan – qayerda?"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Mehr va qadr bor yerda hamma narsa bor» gapidagi «yerda» so'zi haqida qaysi fikr to'g'ri?",
+   "variantlar": [
+    "Chiqish kelishigida, qayerdan? so'rog'iga javob bo'ladi",
+    "O'rin-payt kelishigida, qachon? so'rog'iga javob bo'ladi",
+    "Tushum kelishigida, nimani? so'rog'iga javob bo'ladi",
+    "O'rin-payt kelishigida, qayerda? so'rog'iga javob bo'lib, o'rin holi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Informatika",
+ "mavzu": "15-dars. Elektron pochta",
+ "savollar": [
+  {
+   "savol": "Elektron pochta manzili qanday ko'rinishda yoziladi?",
+   "variantlar": [
+    "<pochta serveri nomi>@<foydalanuvchi nomi>",
+    "<foydalanuvchi nomi>#<pochta serveri nomi>",
+    "<foydalanuvchi nomi>@<pochta serveri nomi>",
+    "www.<foydalanuvchi nomi>.uz"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektron pochta manzilida albatta qatnashadigan belgi qaysi?",
+   "variantlar": [
+    "@",
+    "#",
+    "%",
+    "&"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "«@» belgisining boshqacha nomi qaysi?",
+   "variantlar": [
+    "Kuchukcha",
+    "Mushukcha",
+    "Qo'ng'iroq",
+    "Yulduzcha"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Pochta qutisi nima?",
+   "variantlar": [
+    "Uyingizdagi xat solinadigan quti",
+    "Brauzer dasturi",
+    "Kompyuterning klaviaturasi",
+    "Internet tizimidagi maxsus server diskida siz uchun ajratilgan joy"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Pochta qutisi va elektron manzil bilan abonentlarni kim ta'minlaydi?",
+   "variantlar": [
+    "Klaviatura",
+    "Brauzer",
+    "Provayder",
+    "Modem"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri elektron pochta xabarlarini qabul qilish va jo'natish uchun ishlatiladigan dastur?",
+   "variantlar": [
+    "Outlook Express",
+    "Rambler.ru",
+    "Inbox.uz",
+    "Mail.ru"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi saytlardan qaysi biri ham qidiruv tizimi, ham elektron pochta xizmatini taklif etadi?",
+   "variantlar": [
+    "Rambler.ru",
+    "uMail.uz",
+    "Windows Live Mail",
+    "Inbox.uz"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Saytlardagi pochta qutisidan odatda qancha vaqt foydalanilmasa, u Internet tizimidan olib tashlanadi?",
+   "variantlar": [
+    "3 oy",
+    "1 hafta",
+    "1 oy",
+    "1 yil"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ro'yxatdan o'tish oynasida (*) belgisi bilan belgilangan maydonlar haqida qaysi fikr to'g'ri?",
+   "variantlar": [
+    "Ularga ma'lumot kiritish shart",
+    "Ularni to'ldirish shart emas",
+    "Ular faqat rasm uchun",
+    "Ular parolni ko'rsatadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bitta serverda ikkita bir xil elektron pochta manzili bo'lishi mumkinmi?",
+   "variantlar": [
+    "Yo'q, mumkin emas",
+    "Ha, doimo mumkin",
+    "Faqat ism boshqa bo'lsa mumkin",
+    "Faqat parol boshqa bo'lsa mumkin"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Saytdagi elektron pochtaning afzalligi qaysi?",
+   "variantlar": [
+    "Dunyoning ixtiyoriy chekkasidan foydalanish mumkin",
+    "Faqat bitta kompyuterda ishlaydi",
+    "Parol talab qilinmaydi",
+    "Internetsiz ishlaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun saytdagi pochta qutisini ochish uchun o'z shaxsiy kompyuteringiz bo'lishi shart emas?",
+   "variantlar": [
+    "Chunki pochta qutisi qog'ozda bo'ladi",
+    "Chunki dastur o'rnatish shart",
+    "Chunki Internetga ulangan istalgan kompyuterdan foydalanish mumkin",
+    "Chunki pochta qutisi telefon raqamida saqlanadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Foydalanuvchi ro'yxatdan o'tishda tanlagan login band bo'lsa, nima qilish kerak?",
+   "variantlar": [
+    "Parolni o'zgartirish kerak",
+    "Boshqa login kiritish kerak",
+    "Xuddi shu loginni qayta kiritish kerak",
+    "Kompyuterni o'chirish kerak"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Inbox.uz da pochta qutisi nomi (login) uchun qaysi biri talabga mos keladi?",
+   "variantlar": [
+    "maktab@15",
+    "maktab uzun nom bilan yozilgan 20 belgili",
+    "maktab_15",
+    "abc"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Inbox.uz da login ko'pi bilan nechta belgidan iborat bo'lishi mumkin?",
+   "variantlar": [
+    "5",
+    "10",
+    "16",
+    "20"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Inbox.uz da login kamida nechta belgidan iborat bo'lishi kerak?",
+   "variantlar": [
+    "8",
+    "3",
+    "1",
+    "5"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Inbox.uz da parol kiritishda qaysi harflarni qatnashtirmaslik kerak?",
+   "variantlar": [
+    "Kichik harflarni",
+    "Kirill harflarini",
+    "Raqamlarni",
+    "Lotin harflarini"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Inbox.uz da parolni ikki marta kiritishdan maqsad nima?",
+   "variantlar": [
+    "Rasmni kiritish",
+    "Parolni uzunroq qilish",
+    "Parol to'g'ri kiritilganini tekshirish",
+    "Loginni almashtirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Maxfiy savol va unga javob nima uchun kerak?",
+   "variantlar": [
+    "Xabar yuborish uchun",
+    "Esdan chiqarilgan parolni eslash yoki almashtirish uchun",
+    "Login tanlash uchun",
+    "Rasm yuklash uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ro'yxatdan o'tishda rasmdagi belgilarni kiritish maydoni nima uchun mavjud?",
+   "variantlar": [
+    "Parolni yashirish uchun",
+    "Xabarni tezlashtirish uchun",
+    "Pochta manzilini o'zgartirish uchun",
+    "Avtomatik ro'yxatdan o'tishni cheklash uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Foydalanuvchi uMail.uz da ro'yxatdan o'tmadi. Quyidagilardan qaysi biri sabab bo'lishi MUMKIN EMAS?",
+   "variantlar": [
+    "Login band bo'lishi",
+    "Parol juda sodda bo'lishi",
+    "Tekshiruv belgilari xato kiritilgani",
+    "Klaviatura rangi boshqacha bo'lgani"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ali «ali_2010» loginini Inbox.uz da tanladi. Uning manzili qanday bo'ladi?",
+   "variantlar": [
+    "inbox.uz@ali_2010",
+    "www.ali_2010@inbox.uz",
+    "ali_2010.inbox.uz",
+    "ali_2010@inbox.uz"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi manzil elektron pochta manzili, web-sahifa manzili emas?",
+   "variantlar": [
+    "rtm@xtv.uz",
+    "http://xtv.uz",
+    "www.xtv.uz",
+    "xtv.uz/rtm"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Vali kompyuteri o'chiq paytida unga xat yuborildi. Xat qayerda saqlanadi va qachongacha?",
+   "variantlar": [
+    "Server diskidagi pochta qutisida, u qabul qilib olinmaguncha",
+    "Xat yo'qoladi",
+    "Vali brauzerida vaqtincha",
+    "Yuboruvchi kompyuterida abadiy"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun elektron pochta xizmatidan foydalanish uchun faqat pochta qutisi va manzilga ega bo'lish yetarli emas?",
+   "variantlar": [
+    "Chunki parol bo'lmaydi",
+    "Xabarlarni qabul qilish va jo'natish uchun maxsus dasturlar (yoki sayt) ham kerak",
+    "Chunki provayder yo'q",
+    "Chunki manzilda @ belgisi yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Foydalanuvchi pochta qutisini ochdi, lekin 3 oydan ortiq kirmadi. Nima bo'lishi mumkin?",
+   "variantlar": [
+    "Hech narsa o'zgarmaydi",
+    "Pochta qutisi ikki barobar kattalashadi",
+    "Parol avtomatik o'zgaradi",
+    "Pochta qutisi Internet tizimidan olib tashlanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Inbox.uz da ro'yxatdan o'tish jarayonida qaysi tartib to'g'ri?",
+   "variantlar": [
+    "Tugma, login, mamlakat, parol",
+    "Login, parol, ism-familiya, tug'ilgan kun, jins, mamlakat, maxfiy savol, rasmdagi belgilar, tugma",
+    "Parol, tugma, login, jins",
+    "Rasmdagi belgilar, login, tugma, parol"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun uMail.uz da «Login» va «Asosiy pochta qutisi» maydonlariga kiritilgan ma'lumotlar takrorlanmas bo'lishi shart?",
+   "variantlar": [
+    "Chunki ular rasm bo'ladi",
+    "Chunki serverda ikkita bir xil manzil bo'lishi mumkin emas",
+    "Chunki ular faqat raqam bo'ladi",
+    "Chunki ular parol bilan bir xil bo'lishi kerak"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi tasdiqlardan qaysi biri to'g'ri?",
+   "variantlar": [
+    "Elektron pochta orqali matn bilan birga tovushli va video xabarlar ham yuborish mumkin",
+    "Elektron pochta manzilida @ bo'lmaydi",
+    "Elektron pochta faqat matn yuboradi",
+    "Pochta qutisi kompyuteringiz diskida joylashadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Algebra",
+ "mavzu": "V BOB. Algebraik kasrlar",
+ "savollar": [
+  {
+   "savol": "a² − b² ifoda quyidagilardan qaysi biriga teng?",
+   "variantlar": [
+    "(a − b)(a + b)",
+    "(a + b)²",
+    "a² + b²",
+    "(a − b)²"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Algebraik kasrning surat va maxrajini noldan farqli bir xil ifodaga ko'paytirsak yoki bo'lsak, kasr qiymati qanday o'zgaradi?",
+   "variantlar": [
+    "Nolga aylanadi",
+    "Teskarisiga aylanadi",
+    "O'zgarmaydi",
+    "Ikki barobar oshadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Algebraik kasr deb qanday ifodaga aytiladi?",
+   "variantlar": [
+    "Faqat sonlardan iborat kasrga",
+    "Faqat butun ifodalarning yig'indisiga",
+    "Surati va maxraji ko'phad bo'lgan, maxraji nolga teng bo'lmagan a/b ko'rinishdagi ifodaga",
+    "Maxraji nolga teng bo'lgan ifodaga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Maxrajlari bir xil bo'lgan a/c va b/c kasrlar qo'shilganda natija qanday bo'ladi?",
+   "variantlar": [
+    "(a + b)/c",
+    "(a·b)/c",
+    "(a + b)/(2c)",
+    "(a + b)/(c + c)"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Algebraik kasrni kasrga bo'lish qoidasi qaysi javobda to'g'ri berilgan?",
+   "variantlar": [
+    "a/b : c/d = ad/bc",
+    "a/b : c/d = (a − c)/(b − d)",
+    "a/b : c/d = ac/bd",
+    "a/b : c/d = bc/ad"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Algebraik kasrni natural darajaga ko'tarish qoidasi qaysi javobda to'g'ri?",
+   "variantlar": [
+    "(a/b)ⁿ = aⁿ/bⁿ",
+    "(a/b)ⁿ = na/nb",
+    "(a/b)ⁿ = a/bⁿ",
+    "(a/b)ⁿ = aⁿ/b"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x/(x − 3) kasr x ning qaysi qiymatida ma'noga ega bo'lmaydi?",
+   "variantlar": [
+    "x = −3",
+    "x = 1",
+    "x = 3",
+    "x = 0"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(a + b)² ifoda qaysi javobga teng?",
+   "variantlar": [
+    "a² + 2ab + b²",
+    "a² + b²",
+    "a² − 2ab + b²",
+    "a² + ab + b²"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikkihadni ixtiyoriy natural darajaga ko'tarish qoidalari qaysi asarda berilgan?",
+   "variantlar": [
+    "Ulug'bekning „Ziji jadidi Ko'ragoniy“ asarida",
+    "Beruniyning „Qonuni Mas'udiy“ asarida",
+    "Al-Koshiyning „Arifmetika kaliti“ asarida",
+    "Al-Xorazmiyning „Al-jabr“ asarida"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikkita algebraik kasrni ko'paytirish qoidasi qaysi javobda to'g'ri?",
+   "variantlar": [
+    "a/b · c/d = (a + c)/(b + d)",
+    "a/b · c/d = ac/bd",
+    "a/b · c/d = ad/bc",
+    "a/b · c/d = ac/(b + d)"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "6a/(9a²) kasrni qisqartiring (a ≠ 0).",
+   "variantlar": [
+    "2a/3",
+    "2/(3a²)",
+    "3/(2a)",
+    "2/(3a)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(x² − 4)/(x − 2) kasrni qisqartiring (x ≠ 2).",
+   "variantlar": [
+    "x² + 2",
+    "2",
+    "x − 2",
+    "x + 2"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "5/(a − 2) − 3/(a − 2) ayirmani hisoblang.",
+   "variantlar": [
+    "8/(a − 2)",
+    "2/(a − 2)",
+    "2",
+    "2/(a − 4)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(2/a) · (a²/6) ko'paytmani soddalashtiring (a ≠ 0).",
+   "variantlar": [
+    "3/a",
+    "a/3",
+    "a²/3",
+    "a/12"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(a/b) : (a²/b²) bo'linmani soddalashtiring (a ≠ 0, b ≠ 0).",
+   "variantlar": [
+    "ab",
+    "a²/b²",
+    "b/a",
+    "a/b"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(2x/3)² ni hisoblang.",
+   "variantlar": [
+    "4x/9",
+    "4x²/3",
+    "4x²/9",
+    "2x²/9"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1/2 + 1/x yig'indini umumiy maxrajga keltirib qo'shing (x ≠ 0).",
+   "variantlar": [
+    "(x + 1)/(2x)",
+    "2/(2x)",
+    "2/(x + 2)",
+    "(x + 2)/(2x)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(x² − 9)/(x + 3) ifodaning x = 5 dagi qiymatini toping.",
+   "variantlar": [
+    "4",
+    "8",
+    "2",
+    "16"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(a + 3)² ifodani ko'phad shaklida yozing.",
+   "variantlar": [
+    "a² − 6a + 9",
+    "a² + 6a + 9",
+    "a² + 3a + 9",
+    "a² + 9"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(x − 4)/(x + 1) kasrning qiymati nolga teng bo'ladigan x ni toping.",
+   "variantlar": [
+    "1",
+    "−1",
+    "4",
+    "−4"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(x² − 6x + 9)/(x² − 9) kasrni qisqartiring (x ≠ ±3).",
+   "variantlar": [
+    "1",
+    "(x − 3)/3",
+    "(x + 3)/(x − 3)",
+    "(x − 3)/(x + 3)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1/(x − 1) − 1/(x + 1) ayirmani hisoblang (x ≠ ±1).",
+   "variantlar": [
+    "2/(x² − 1)",
+    "2/(x − 1)",
+    "0",
+    "2x/(x² − 1)"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(x + 2)/(x − 2) − (x − 2)/(x + 2) ayirmani soddalashtiring (x ≠ ±2).",
+   "variantlar": [
+    "8/(x² − 4)",
+    "4x/(x² − 4)",
+    "0",
+    "8x/(x² − 4)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(x² − 1)/(x² + 2x + 1) : (x − 1)/(x + 1) bo'linmani soddalashtiring (x ≠ ±1).",
+   "variantlar": [
+    "(x + 1)/(x − 1)",
+    "x + 1",
+    "1",
+    "(x − 1)/(x + 1)"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar x + 1/x = 3 bo'lsa, x² + 1/x² nimaga teng?",
+   "variantlar": [
+    "9",
+    "7",
+    "5",
+    "11"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qisqa ko'paytirish formulasidan foydalanib 51² − 49² ni hisoblang.",
+   "variantlar": [
+    "2",
+    "200",
+    "100",
+    "400"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(a − b)²/(b − a) kasrni soddalashtiring (a ≠ b).",
+   "variantlar": [
+    "a − b",
+    "1",
+    "a + b",
+    "b − a"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Xitoy matematiklari ishlatgan (p² − q²)² + (2pq)² = (p² + q²)² tenglikda p = 3, q = 2 bo'lsa, to'g'ri burchakli uchburchakning tomonlari qanday bo'ladi?",
+   "variantlar": [
+    "9, 12, 15",
+    "6, 8, 10",
+    "3, 4, 5",
+    "5, 12, 13"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(x² − 4x + 4)/(x² − 4) kasrning x = 4 dagi qiymatini toping.",
+   "variantlar": [
+    "1/6",
+    "1/2",
+    "1/3",
+    "2/3"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(1/a + 1/b) : (1/a − 1/b) ifodani soddalashtiring (a ≠ 0, b ≠ 0, a ≠ b).",
+   "variantlar": [
+    "(b − a)/(a + b)",
+    "(a + b)/(a − b)",
+    "(a + b)/(b − a)",
+    "(a − b)/(a + b)"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

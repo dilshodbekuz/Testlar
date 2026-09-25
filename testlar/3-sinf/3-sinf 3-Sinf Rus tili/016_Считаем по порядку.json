@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Rus tili",
+ "mavzu": "Считаем по порядку",
+ "savollar": [
+  {
+   "savol": "Haftada nechta kun bor?",
+   "variantlar": [
+    "6",
+    "7",
+    "8",
+    "5"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Haftaning birinchi kuni nima deyiladi?",
+   "variantlar": [
+    "Chorshanba",
+    "Payshanba",
+    "Seshanba",
+    "Dushanba"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Haftaning yettinchi kuni nima deyiladi?",
+   "variantlar": [
+    "Shanba",
+    "Payshanba",
+    "Yakshanba",
+    "Juma"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Raqam \"bir\" uchun tartib raqami nima?",
+   "variantlar": [
+    "Birinchi",
+    "To'rtinchi",
+    "Ikkinchi",
+    "Uchinchi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Raqam \"uch\" uchun tartib raqami nima?",
+   "variantlar": [
+    "Ikkinchi",
+    "To'rtinchi",
+    "Uchinchi",
+    "Beshinchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Raqam \"sakkiz\" uchun tartib raqami nima?",
+   "variantlar": [
+    "Yettinchi",
+    "To'qquzinchi",
+    "O'ninchi",
+    "Sakkizinchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Svetofor nechta ko'zga ega?",
+   "variantlar": [
+    "2",
+    "4",
+    "3",
+    "5"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Svetofor birinchi ko'zi qaysi rang?",
+   "variantlar": [
+    "Qizil",
+    "Oq",
+    "Yashil",
+    "Sariq"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Svetofor uchinchi ko'zi qaysi rang?",
+   "variantlar": [
+    "Qizil",
+    "Qora",
+    "Yashil",
+    "Sariq"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Svetofor qaysi ko'zi yoqilganda kutish kerak?",
+   "variantlar": [
+    "Sariq",
+    "Oq",
+    "Yashil",
+    "Qizil"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Avtobusda birinchi bolaning yashovchi shahri qaysi?",
+   "variantlar": [
+    "Andijan",
+    "Samarcanda",
+    "Buxara",
+    "Termeza"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Avtobusda ikkinchi bolaning yashovchi shahri qaysi?",
+   "variantlar": [
+    "Andijan",
+    "Samarcanda",
+    "Buxara",
+    "Termeza"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Avtobusda uchinchi bolaning yashovchi shahri qaysi?",
+   "variantlar": [
+    "Andijan",
+    "Buxara",
+    "Samarcanda",
+    "Termeza"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Avtobusda 4-chi va 5-chi bolalar qayerda yashadilar?",
+   "variantlar": [
+    "Samarcandada",
+    "Andijanda",
+    "Khoresimda",
+    "Termezada"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Avtobusda 6-chi, 7-chi va 9-chi bolalar qayerda yashadilar?",
+   "variantlar": [
+    "Termezada",
+    "Djizakda",
+    "Khoresimda",
+    "Buxarada"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Avtobusda o'ninchi bolaning yashovchi shahri qaysi?",
+   "variantlar": [
+    "Khoresim",
+    "Termeza",
+    "Samarcanda",
+    "Djizak"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Katya qaysi o'rinni egalladi?",
+   "variantlar": [
+    "To'rtinchi",
+    "Birinchi",
+    "Ikkinchi",
+    "Uchinchi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sardor qaysi o'rinni egalladi?",
+   "variantlar": [
+    "Birinchi",
+    "To'rtinchi",
+    "Uchinchi",
+    "Ikkinchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar siz yo'l kesmoqchi bo'lsangiz, svetofor qaysi rangli bo'lishi kerak?",
+   "variantlar": [
+    "Qizil",
+    "Qora",
+    "Yashil",
+    "Sariq"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Avtobusda nechta qiz safar qilayotgan edi?",
+   "variantlar": [
+    "6",
+    "4",
+    "5",
+    "3"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Haftaning kunlari tartibida: Dushanba, Seshanba, ?, Payshanba... Uchinchi kun nima?",
+   "variantlar": [
+    "Shanba",
+    "Chorshanba",
+    "Juma",
+    "Payshanba"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tartib raqamlari qatorida qanday qoida bo'yicha tuziladi: Birinchi, Ikkinchi, Uchinchi...?",
+   "variantlar": [
+    "Bir xil bo'ladi",
+    "Raqamlar ortib boradi",
+    "Tasodifiy",
+    "Raqamlar kamayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Avtobusda jami nechta bola bo'lgan? (1+1+1+2+3+1)",
+   "variantlar": [
+    "8",
+    "9",
+    "11",
+    "10"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Futbol o'yinlari jadvali: Nukus, Urgench, Navoi, Djizak, Guliston, Tashkent, Buxara, Samarcanda. O'yinlar soni nechta?",
+   "variantlar": [
+    "6",
+    "9",
+    "7",
+    "8"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Svetofor rang-kod: Qizil=kutish, Sariq=tayorlash, Yashil=harakat. Yo'l kesuvchi harakat qilmoqchi bo'lsa, qaysi rang turishi kerak?",
+   "variantlar": [
+    "Sariq",
+    "Oq",
+    "Yashil",
+    "Qizil"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Avtobusda bolalar qaysi shaharlardan kelgan? (Samarcanda, Buxara, Andijan, Termeza, Khoresim, Djizak)",
+   "variantlar": [
+    "7 shaharda",
+    "6 shaharda",
+    "5 shaharda",
+    "8 shaharda"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Haftaning kunlarini tartibga qo'yganingizda, 3-chi, 4-chi, 5-chi kunlar qaysi bo'ladi?",
+   "variantlar": [
+    "Payshanba, Juma, Shanba",
+    "Chorshanba, Payshanba, Juma",
+    "Dushanba, Seshanba, Chorshanba",
+    "Seshanba, Chorshanba, Payshanba"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Katya qizil futbolikal, Sanjar yashil futbolikal, Sardor sariq futbolikal kiydi. Ikkinchi o'rinni egallagan kisi qaysi rangda futbolikalni kiygan?",
+   "variantlar": [
+    "Sariq",
+    "Oq",
+    "Qizil",
+    "Yashil"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tartib raqamlari ro'y'xati: 1-Birinchi, 2-Ikkinchi, 3-Uchinchi, 4-To'rtinchi, 5-Beshinchi, 6-Oltinchi, 7-Yettinchi, 8-Sakkizinchi, 9-To'qquzinchi, 10-O'ninchi. Sakkizinchi raqamdan oldin qaysi tartib raqami keladli?",
+   "variantlar": [
+    "Beshinchi",
+    "To'rtinchi",
+    "Yettinchi",
+    "Oltinchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Svetofor kodiga ko'ra (Qizil=kutish, Sariq=tayorlash, Yashil=harakat), yo'l kesuvchining harakat ketma-ketligi qanday bo'ladi?",
+   "variantlar": [
+    "Kutish->Tayorlash->Harakat",
+    "Harakat->Tayorlash->Kutish",
+    "Harakat->Kutish->Tayorlash",
+    "Tayorlash->Harakat->Kutish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Informatika",
+ "mavzu": "18-dars. WEB-SAYT TARKIBI BILAN ISHLASH",
+ "savollar": [
+  {
+   "savol": "Barcha CMSlarda odatda nima bilan ishlash ko'zda tutiladi?",
+   "variantlar": [
+    "Faqat kompyuter qurilmalari bilan",
+    "Sayt dizayni va tarkibi bilan",
+    "Faqat sayt dizayni bilan",
+    "Faqat elektron pochta bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sayt dizayni va tarkibidan qaysi biri nisbatan tez-tez o'zgarib turadi?",
+   "variantlar": [
+    "Sayt tarkibi",
+    "Ikkalasi ham bir xil",
+    "Hech biri o'zgarmaydi",
+    "Sayt dizayni"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "CMSlarning aksariyati qaysi vizual muharrirdan foydalanishga asoslangan?",
+   "variantlar": [
+    "Publish",
+    "WYSIWYG",
+    "MySQL",
+    "Trash"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sayt tarkibi va kiritilgan ma'lumotlar qayerda saqlanadi?",
+   "variantlar": [
+    "Ma'lumotlar bazasida (MySQL)",
+    "Menyuda",
+    "Sichqonchada",
+    "Brauzer belgisida"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sayt sahifalariga o'tishni osonlashtiradigan bo'limlar nomlaridan iborat to'plam nima deb ataladi?",
+   "variantlar": [
+    "Menu (menyu)",
+    "Trash",
+    "Quick edit",
+    "Media"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sayt tarkibiga yangi sahifa qo'shish uchun Pages tarkibidagi qaysi bo'lim tanlanadi?",
+   "variantlar": [
+    "Add new",
+    "Trash",
+    "All Pages",
+    "View"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sayt sahifasini o'chirish uchun sahifa nomi ustida qaysi bo'lim tanlanadi?",
+   "variantlar": [
+    "Quick edit",
+    "View",
+    "Edit",
+    "Trash"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xabarlarni qo'shish va tahrirlash qaysi bo'lim yordamida amalga oshiriladi?",
+   "variantlar": [
+    "Media",
+    "Posts",
+    "Pages",
+    "Menus"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sayt tarkibiga mediakontent (audio, video va tasvir) qo'shish uchun qaysi bo'lim ishlatiladi?",
+   "variantlar": [
+    "Trash",
+    "Posts",
+    "Search page",
+    "Media"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sahifaning tarkibi kiritilib, xususiyatlari sozlangandan keyin qaysi tugmacha bosiladi?",
+   "variantlar": [
+    "Publish yoki Update",
+    "Remove",
+    "Trash",
+    "Search page"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Siz sayt sahifasining vizual holatini ko'rmoqchisiz. Sahifa nomi ustiga sichqoncha ko'rsatkichini olib kelib, qaysi bo'limni tanlaysiz?",
+   "variantlar": [
+    "Edit",
+    "Trash",
+    "Quick edit",
+    "View"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sahifaning xususiyatini (tarkibini emas) tezda o'zgartirish uchun qaysi bo'lim tanlanadi?",
+   "variantlar": [
+    "View",
+    "Add new",
+    "Trash",
+    "Quick edit"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sahifani nomi bo'yicha qidirish uchun nima qilinadi?",
+   "variantlar": [
+    "Trash bo'limi tanlanadi",
+    "Publish tugmachasi bosiladi",
+    "Menus bo'limi ochiladi",
+    "Bo'sh maydonga nom yoziladi va Search page bosiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yangi menyu yaratish qaysi bo'limda amalga oshiriladi?",
+   "variantlar": [
+    "Posts bo'limida",
+    "Media bo'limida",
+    "Appearanse tarkibidagi Menus bo'limida",
+    "Pages tarkibidagi All Pages bo'limida"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Menyuga tanlangan elementni qo'shish uchun qaysi tugmacha bosiladi?",
+   "variantlar": [
+    "Publish",
+    "Add to menu",
+    "Remove",
+    "Save menu"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Menyuga ortiqcha qo'shilgan elementni o'chirish uchun nimadan foydalaniladi?",
+   "variantlar": [
+    "Manage Locations",
+    "Save menu",
+    "Remove",
+    "Add to menu"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yaratilgan menyuni sahifaning yuqori yoki chap qismiga biriktirish uchun qaysi bo'limdan foydalaniladi?",
+   "variantlar": [
+    "Quick edit",
+    "Manage Locations",
+    "Menu Name",
+    "Custom Links"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yangi sahifada foydalanuvchilarga izoh qoldirishga ruxsat berish uchun qaysi sozlama ishlatiladi?",
+   "variantlar": [
+    "Discussion – Allow comments",
+    "Manage Locations",
+    "Page Attributes – Parent page",
+    "Featured image"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnli kontentni yaratishda o'quvchini jalb qilish va qidiruvda samarali bo'lishi uchun nimaga harakat qilish lozim?",
+   "variantlar": [
+    "Kalit so'zlarni ko'proq va samarali ishlatishga",
+    "Matnni abzaslarga ajratmaslikka",
+    "Xatolarni ko'paytirishga",
+    "Rasm va video qo'shmaslikka"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Menyu elementlari sifatida quyidagilardan qaysi birini qo'shish mumkin?",
+   "variantlar": [
+    "Pages, Posts va Custom Links",
+    "Faqat Trash",
+    "Faqat Pages",
+    "Faqat Media"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kitoblar do'konida \"Badiiy kitoblar\" sahifasi \"Mahsulotlar\" sahifasiga tegishli bo'lishi kerak. Buni ko'rsatish uchun qaysi sozlama ishlatiladi?",
+   "variantlar": [
+    "Manage Locations",
+    "Featured image – set featured image",
+    "Page Attributes – Parent page",
+    "Discussion – Allow comments"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yangi menyu yaratish jarayonining to'g'ri tartibini ko'rsating.",
+   "variantlar": [
+    "Publish bosish, so'ng menyuga nom berish",
+    "Trash tanlash, so'ng menyuni saqlash",
+    "Menyuga nom berish, elementlarni qo'shish va tahrirlash, ortiqchasini o'chirish, Save menu orqali saqlash",
+    "Save menu bosish, so'ng nom berish, so'ng elementlarni qo'shish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir saytda \"yuqori menyu\" va \"chap menyu\" bor. Ularni bir-biridan ajratish uchun nima qilinadi?",
+   "variantlar": [
+    "Har biriga alohida nom beriladi",
+    "Ulardan biri Trash orqali o'chiriladi",
+    "Ularning ikkalasi bir xil nomda saqlanadi",
+    "Ular faqat Media orqali ajratiladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun sayt tarkibi vaqti-vaqti bilan yangilanib turishi, dizayn esa kamdan-kam o'zgarishi mumkin?",
+   "variantlar": [
+    "Chunki CMS faqat dizayn bilan ishlaydi",
+    "Chunki dizayn ma'lumotlar bazasida saqlanmaydi",
+    "Chunki tarkib tez-tez o'zgaradi, dizayn esa nisbatan doimiy bo'ladi va CMS ular bilan alohida ishlashga imkon beradi",
+    "Chunki tarkibni yangilash mumkin emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Foydalanuvchi sahifani ko'rib chiqdi va uning nomi hamda xususiyatini ham o'zgartirmoqchi, ammo sahifani o'chirmoqchi emas. Qaysi bo'limlar to'g'ri juftlikni tashkil etadi?",
+   "variantlar": [
+    "Tarkib uchun Quick edit, xususiyat uchun Search page",
+    "Tarkib uchun Trash, xususiyat uchun View",
+    "Tarkib uchun View, xususiyat uchun Trash",
+    "Tarkib uchun Edit, xususiyat uchun Quick edit"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi fikrlardan qaysi biri matnda keltirilgan yuqori sifatli kontent talablariga MOS KELMAYDI?",
+   "variantlar": [
+    "Matnda imloviy va uslubiy xatolar bo'lmasligi kerak",
+    "Katta matnni abzaslarga ajratmasdan, bir butunlikda berish foydalidir",
+    "Muallif matni takrorlanmas va o'ziga xos bo'lishi kerak",
+    "Kontent foydali va mazmunga boy bo'lishi kerak"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sayt egasi yangi sahifaga parol qo'ymoqchi, uni qoralama sifatida saqlamoqchi va rasm ham qo'shmoqchi. Sozlamalar sahifaning qaysi qismida joylashgan?",
+   "variantlar": [
+    "Faqat menyu bo'limida",
+    "Faqat Search page maydonida",
+    "Faqat Trash bo'limida",
+    "O'ng blokda"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Menyu tuzilmasini shakllantirib bo'lgach, uni sahifaning quyi qismida ko'rsatish uchun ketma-ket qaysi amallar bajariladi?",
+   "variantlar": [
+    "Save menu bilan saqlab, Manage Locations orqali quyi blokka biriktiriladi",
+    "Quick edit tanlanadi, so'ng Search page bosiladi",
+    "Remove bosiladi, so'ng Publish bosiladi",
+    "Trash tanlanadi, so'ng View bosiladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sayt muvaffaqiyati va tarkibi haqidagi matnga ko'ra, quyidagilardan qaysi biri to'liq yuqori sifatli tarkibni ifodalaydi?",
+   "variantlar": [
+    "Faqat rasm va video",
+    "Faqat matn",
+    "Matn, rasm, video, audio, ma'lumotnoma, sarlavha va metateglar",
+    "Faqat sarlavha va menyu"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Foydalanuvchi mijoz so'roviga ko'ra sahifada ma'lumotni ko'rmoqda. Ushbu jarayon matnga ko'ra qanday izohlanadi?",
+   "variantlar": [
+    "Ma'lumotlar Trash bo'limidan olinadi",
+    "Ma'lumotlar faqat menyuda saqlanadi",
+    "Ma'lumotlar faqat brauzer belgisida saqlanadi",
+    "Kiritilgan ma'lumotlar ma'lumotlar bazasida saqlanadi va mijoz so'roviga ko'ra sahifaga chiqariladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

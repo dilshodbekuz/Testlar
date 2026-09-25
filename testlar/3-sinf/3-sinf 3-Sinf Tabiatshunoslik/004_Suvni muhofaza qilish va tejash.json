@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Tabiatshunoslik",
+ "mavzu": "Suvni muhofaza qilish va tejash",
+ "savollar": [
+  {
+   "savol": "Tog'larda daryo boshlanishida suv qanday bo'ladi?",
+   "variantlar": [
+    "Bug' shaklida",
+    "Qattiq",
+    "Ifloslanadi",
+    "Tiniq va toza"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suvni ifloslatadigun narsalar qaysisi?",
+   "variantlar": [
+    "Tog'lar",
+    "Chiqindi va korxonalarning oqava suvlari",
+    "Muz",
+    "Daryo"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ifloslangan suvdan kimlar zarar lanadi?",
+   "variantlar": [
+    "Barcha tirik mavjudot",
+    "Faqat baliqlar",
+    "Faqat o'tlar",
+    "Faqat hayvonlar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ifloslangan suvni ichib bo'ladimi?",
+   "variantlar": [
+    "Yo'q, xavfli",
+    "Faqat balvador suv",
+    "Ha, qaynatib so'ng",
+    "Ha, tindirib so'ng"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vodoprovod suvi nimalarndan toza va xavfsiz tayyorlangan?",
+   "variantlar": [
+    "Mineral moddalaardan",
+    "Zararli mikroblardan",
+    "Chiqindilardan",
+    "Tuzlardan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suvni tejash nimani anglatadi?",
+   "variantlar": [
+    "Daryoga quydirish",
+    "Ifloslanish",
+    "Behudaga sarf bo'lmay, tejab ishlatish",
+    "Behudaga sarflash"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ba'zi xonadonlarda vodoprovod suvi qanday xolda bo'ladi?",
+   "variantlar": [
+    "Behudaga oqib yotadi",
+    "Behudaga qaynaydi",
+    "Behudaga muzga aylanadi",
+    "Behudaga yig'iladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vodoprovoddan oqib turgan suvni to'xtatish uchun nima qilish kerak?",
+   "variantlar": [
+    "Yangi vodoprovod qurish",
+    "Daryoni kattalashtirish",
+    "Suv yig'ishni boshlash",
+    "Jo'mragi burab, suvni to'xtatib qo'yish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suvni tejash nima uchun zarur?",
+   "variantlar": [
+    "O'qituvchi ayta bo'lgani uchun",
+    "Vodoprovodga suv olib kelishda ko'plab mehnati sarflangan bo'lgani uchun",
+    "Pul tejaydigan bo'lgani uchun",
+    "Suv yetishmayapti"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tog'dan daryo boshlanadi, lekin daryo suvi nima orqasida ifloslanadi?",
+   "variantlar": [
+    "Tuzlar orqasida",
+    "Chiqindi va korxonalarning oqava suvlari orqasida",
+    "Nur orqasida",
+    "Shamol orqasida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar chiqindilar daryoga tashlansa, daryo suvi nima bo'ladi?",
+   "variantlar": [
+    "Ifloslanadi",
+    "Uyida turadi",
+    "Toza bo'lib qoladi",
+    "Ucharib ketadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Korxonalarning oqava suvlari daryoga quyilsa, natija qanday?",
+   "variantlar": [
+    "Daryoni yuksaladi",
+    "Daryoni ifloslaydi",
+    "Daryoni issiqlanadi",
+    "Daryoni quyshib ketadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar ifloslangan suv dengizga quyilsa, nima bo'ladi?",
+   "variantlar": [
+    "Suv o'z-o'zidan tozalanadi",
+    "Faqat daryo ifloslanadi",
+    "Hech narsa bo'lmaydi",
+    "Daryo va dengiz ikkalasi ham ifloslanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ifloslangan suvni tindirganda, odam ichsa nima bo'ladi?",
+   "variantlar": [
+    "Hech narsa bo'lmaydi",
+    "Suv issiqlanib ketadi",
+    "Odam kasallana oladi",
+    "Suv yanada toza bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Vodoprovod suvi qaysi xususiyat bilan tayyorlangan?",
+   "variantlar": [
+    "Qoyni shaklida",
+    "Suvni qaynatilib",
+    "Haroratga o'tkazalib",
+    "Zararli mikroblardan tozalalib"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Vodoprovoddan suv behudaga oqib tursa, nima uchun to'xtatib qo'yish kerak?",
+   "variantlar": [
+    "Suv issiqlanadi",
+    "Vodoprovod xarab bo'ladi",
+    "Suv behudaga sarflanadi",
+    "Suv sodetadan oqib ketadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matinda aytilgandek, suvga chiqindi tashlansa nima bo'ladi?",
+   "variantlar": [
+    "Suv mavajlandi bo'ladi",
+    "Daryo to'xtaydi",
+    "Suv ifloslanadi",
+    "Suv yanada toza bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Suvni tejab ishlatish har bir odam uchun nima?",
+   "variantlar": [
+    "Cheklangan",
+    "Faqat kecha",
+    "Ixtiyorik",
+    "Burchimuz"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnda aytilgandek, ifloslangan suvni qaynatib ichsa nima bo'ladi?",
+   "variantlar": [
+    "Xavfli bo'lib qoladi",
+    "Yaxshi bo'ladi",
+    "Toza bo'ladi",
+    "Hech narsa bo'lmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tog'dan daryo boshlanib, tog'dan pastda suv qanday bo'lishi mumkin?",
+   "variantlar": [
+    "Suv ifloslanib qoladi",
+    "Suv toza bo'lib qoladi",
+    "Suv gazga aylanadi",
+    "Daryo to'xtaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tog'dagi tiniq suv, daryo yo'lida ifloslanadi. Agar shu ifloslangan suv dengizga quyilsa nima bo'ladi?",
+   "variantlar": [
+    "Daryo ham, dengiz ham ifloslanadi",
+    "Ifloslanish to'xtaydi",
+    "Faqat daryoni ifloslanadi",
+    "Hech narsaham bo'lmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Vodoprovod suviga odam nima uchun tejashni to'g'ri hisoblaydj?",
+   "variantlar": [
+    "O'qituvchi ayta bo'lgani uchun",
+    "Pul yetishmaydi",
+    "Vodoprovodga suv olishda ko'plab mehnati sarflangan",
+    "Suv kamayib ketadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ifloslangan suvni qaynatib ichgan odam nima bo'ladi?",
+   "variantlar": [
+    "Hech narsa bo'lmaydi",
+    "Kasallana oladi, chunki qaynatish iflosanishni to'xtatmaydi",
+    "Suv yanada yaxshi bo'ladi",
+    "Toza suv ichadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Suvni muhofaza qilish va tejash orasida qanday aloqa bor?",
+   "variantlar": [
+    "Muhofaza tejashning bir qismi",
+    "Tejash muhofaza qilishning bir qismi",
+    "Ayni paytda amalga oshadi",
+    "Bog'lanmagan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Korxonalarning oqava suvlari muammosini hal qilish uchun nima kerak?",
+   "variantlar": [
+    "Ifloslangan suvni tejash",
+    "Korxonalarni yo'qlatish",
+    "Daryoni kattalashtirish",
+    "Suvlarni tozalash va ifloslash oldini olish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ba'zi xonadonlarning suv behuda oqib yotgan muammosida nima kerak?",
+   "variantlar": [
+    "Yangi vodoprovod qurishi kerak",
+    "Javobgarligi yo'q",
+    "Faqat kecha qilishi kerak",
+    "Jo'mragi burab, suvni to'xtatishi kerak"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Vodoprovod suvini olib kelishda ko'plab kishilarning mehnati sarflangan\" deb yozildi, bu nima tushuntirish uchun?",
+   "variantlar": [
+    "Tog'lardagi suv haqida",
+    "Odamlarning mehnati",
+    "Suvni tejashning ahamiyati",
+    "Vodoprovodning qiymati"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ifloslangan suvning odam uchun xavfliligi qaydan kelib chiqadi?",
+   "variantlar": [
+    "Suv qaynashidan",
+    "Suv issiqligidan",
+    "Suv ifloslanishidan",
+    "Ifloslangan suvda zarar beruvchi narsa bo'lishidan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matinda \"tog'da tiniq suv bo'ladi\" deb yozildi, bu nima uchun muhim?",
+   "variantlar": [
+    "Tog'da suv ifloslangan suvdan farq qiladi",
+    "Tog'da suv ifloslanmadi",
+    "Tog'da suv har doim toza",
+    "Tog'da suv issiq bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Suvni muhofaza qilish va tejashni bir vaqtda bajarish uchun odam nima qilishi kerak?",
+   "variantlar": [
+    "Vodoprovoddan oqib turgan suvni to'xtatib qo'ysa",
+    "Suvga chiqindi tashlasa",
+    "Suvga chiqindi tashlama va vodoprovoddan oqib turgan suvni to'xtatib qo'ysa",
+    "Hech narsa qilmasa"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

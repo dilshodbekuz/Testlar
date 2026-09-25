@@ -1,0 +1,337 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Algebra",
+ "mavzu": "Arifmetik amallarning xossalari",
+ "savollar": [
+  {
+   "savol": "Arifmetik amallar deb qaysi amallarga aytiladi?",
+   "variantlar": [
+    "Qo'shish va ko'paytirishga",
+    "Faqat ko'paytirish va bo'lishga",
+    "Qo'shish, ayirish, ko'paytirish va bo'lishga",
+    "Faqat qo'shish va ayirishga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a + b = b + a va ab = ba tengliklar qaysi qonunni ifodalaydi?",
+   "variantlar": [
+    "O'rin almashtirish qonuni",
+    "Taqsimot qonuni",
+    "Guruhlash qonuni",
+    "Teskari amal qonuni"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(a + b) + c = a + (b + c) va (ab)c = a(bc) tengliklar qaysi qonunni ifodalaydi?",
+   "variantlar": [
+    "Guruhlash qonuni",
+    "O'rin almashtirish qonuni",
+    "Qavslarni ochish qonuni",
+    "Taqsimot qonuni"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a(b + c) = ab + ac tenglik qaysi qonunni ifodalaydi?",
+   "variantlar": [
+    "Taqsimot qonuni",
+    "Guruhlash qonuni",
+    "O'rin almashtirish qonuni",
+    "Ayirish qonuni"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Amallarning asosiy xossalari odatda nima deb ataladi?",
+   "variantlar": [
+    "Formulalar",
+    "Teoremalar",
+    "Ta'riflar",
+    "Qonunlar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a sondan b sonni ayirish nimaga teng?",
+   "variantlar": [
+    "a + (-b)",
+    "a + b",
+    "a · (-b)",
+    "b - a"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "6a va 35a qo'shiluvchilar qanday qo'shiluvchilar deyiladi (ular faqat koeffitsiyentlari bilan farq qiladi)?",
+   "variantlar": [
+    "Ixtiyoriy",
+    "O'xshash",
+    "Qarama-qarshi",
+    "Teskari"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qo'shish amaliga teskari amal qaysi?",
+   "variantlar": [
+    "Darajaga ko'tarish",
+    "Bo'lish",
+    "Ayirish",
+    "Ko'paytirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'paytirish amaliga teskari amal qaysi?",
+   "variantlar": [
+    "Bo'lish",
+    "Qo'shish",
+    "Ayirish",
+    "Modul olish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qavs oldida \"-\" ishorasi turgan bo'lsa, qavslarni ochishda qavs ichidagi qo'shiluvchilarning ishoralari qanday o'zgaradi?",
+   "variantlar": [
+    "Faqat oxirgisining ishorasi o'zgaradi",
+    "Saqlanib qoladi",
+    "Faqat birinchisining ishorasi o'zgaradi",
+    "Har birining ishorasi qarama-qarshisiga o'zgaradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qo'shish xossalaridan foydalanib hisoblang: 75 + 37 + 25 + 13",
+   "variantlar": [
+    "140",
+    "145",
+    "160",
+    "150"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3(2a + 4b) ifodadagi qavslarni oching.",
+   "variantlar": [
+    "6a + 7b",
+    "5a + 7b",
+    "6a + 4b",
+    "6a + 12b"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a - (b - c + d) ifodadagi qavslarni oching.",
+   "variantlar": [
+    "a - b - c - d",
+    "a - b + c + d",
+    "a + b - c + d",
+    "a - b + c - d"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ixchamlang: 6a + 12b + 35a + 5b",
+   "variantlar": [
+    "18a + 41b",
+    "58ab",
+    "41a + 7b",
+    "41a + 17b"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hisoblang: 8 - 6 + 12 - 4 + 7 - 13",
+   "variantlar": [
+    "2",
+    "5",
+    "4",
+    "3"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'xshash hadlarni ixchamlang: 5x - 2y + 3x + 7y",
+   "variantlar": [
+    "15x + 5y",
+    "8x + 9y",
+    "8x + 5y",
+    "8x - 5y"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hisoblang: 3 - (-7) + (-2)",
+   "variantlar": [
+    "12",
+    "-2",
+    "8",
+    "-6"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "To'g'ri to'rtburchakning yuzi 380 sm², tomonlaridan biri 95 sm. Ikkinchi tomoni necha sm?",
+   "variantlar": [
+    "4 sm",
+    "285 sm",
+    "3 sm",
+    "5 sm"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Toshkentdan Samarqandgacha 300 km, Toshkentdan Jizzaxgacha 180 km. Jizzaxdan Samarqandgacha bo'lgan masofa necha km?",
+   "variantlar": [
+    "100 km",
+    "150 km",
+    "480 km",
+    "120 km"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Amallarning xossalaridan foydalanib hisoblang: 29 · 0,45 + 71 · 0,45",
+   "variantlar": [
+    "0,45",
+    "450",
+    "45",
+    "4,5"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "4(3x - 5y) + 6(x - y) ifodani soddalashtirib, x = 2, y = 1 bo'lgandagi qiymatini toping.",
+   "variantlar": [
+    "-10",
+    "62",
+    "10",
+    "36"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "5(2x + 1) - 3(x - 2) ifodani soddalashtiring.",
+   "variantlar": [
+    "7x + 3",
+    "13x + 11",
+    "7x + 11",
+    "7x - 1"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(5a - 2b) - (3b - a) ifodani soddalashtiring.",
+   "variantlar": [
+    "4a + b",
+    "6a - 5b",
+    "6a + b",
+    "4a - 5b"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3x + (5x - (8x - 3)) ifodani soddalashtiring.",
+   "variantlar": [
+    "-3",
+    "16x + 3",
+    "3",
+    "16x - 3"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a - b + c - d ifodani qavs oldiga \"-\" ishorasini qo'yib, a dan keyingi barcha qo'shiluvchilarni qavs ichiga oling. Qaysi yozuv to'g'ri?",
+   "variantlar": [
+    "a - (-b + c - d)",
+    "a - (b + c - d)",
+    "a - (b - c - d)",
+    "a - (b - c + d)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(2c + 5d) - (c + 4d) ifodani soddalashtirib, c = 0,4 va d = 0,6 bo'lgandagi qiymatini toping.",
+   "variantlar": [
+    "2",
+    "0,4",
+    "1",
+    "1,6"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bolalar oromgohi uchun 10 ta shaxmat (bittasi a so'm) va 15 ta koptok (bittasi b so'm) sotib olindi. Jami xarid uchun qancha pul to'langan?",
+   "variantlar": [
+    "25(a + b) so'm",
+    "10a + 15b so'm",
+    "150ab so'm",
+    "15a + 10b so'm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(a + b)/c = a/c + b/c (c ≠ 0) tengligini isbotlashda bo'lishni ko'paytirish bilan almashtirgandan so'ng (a + b)·(1/c) ifodaga qaysi qonun qo'llanadi?",
+   "variantlar": [
+    "Hech qaysi qonun qo'llanmaydi",
+    "Taqsimot qonuni",
+    "Guruhlash qonuni",
+    "O'rin almashtirish qonuni"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(x - 4) + (x + 6) = 4 tenglamani yeching.",
+   "variantlar": [
+    "x = 3",
+    "x = 2",
+    "x = -1",
+    "x = 1"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "23 - (x + 5) = 13 tenglamani yeching.",
+   "variantlar": [
+    "x = 5",
+    "x = 15",
+    "x = 10",
+    "x = 3"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

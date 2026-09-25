@@ -1,0 +1,187 @@
+VI BOB. Kombinatorika elementlari. Kombinatorikaning asosiy qoidalari
+
+--- OSON ---
+
+1. Samarqanddan Toshkentga 4 xil yo'l bilan, Toshkentdan Xo'jakentga 3 xil yo'l bilan borish mumkin. Samarqanddan Toshkent orqali Xo'jakentga necha xil usulda borish mumkin?
+A) 10
++B) 12
+C) 16
+D) 7
+
+2. Kombinatorikaning asosiy qoidasi qaysi?
+A) Qo'shish qoidasi
+B) Bo'lish qoidasi
++C) Ko'paytirish qoidasi
+D) Ayirish qoidasi
+
+3. n ta elementdan tuzilgan o'rin almashtirishlar soni P_n qanday ifodalanadi?
+A) n+(n-1)+...+2+1
++B) n·(n-1)·...·2·1
+C) n·n
+D) n·(n+1)
+
+4. 4 ta elementdan tuzilgan o'rin almashtirishlar soni P_4 nechaga teng?
+A) 16
++B) 24
+C) 10
+D) 12
+
+5. n ta elementdan k tadan olib tuzilgan guruhlar soni C_n^k qaysi formula bilan hisoblanadi?
+A) n!/k!
++B) n!/(k!(n-k)!)
+C) k!/(n-k)!
+D) n!·k!/(n-k)!
+
+6. 4, 7, 9 raqamlaridan ularni takrorlamasdan nechta uch xonali son tuzish mumkin?
+A) 3
+B) 27
+C) 9
++D) 6
+
+7. 3, 4, 5, 6, 8, 9 raqamlaridan raqamlari takrorlanishi mumkin bo'lgan nechta uch xonali son tuzish mumkin?
+A) 18
+B) 36
+C) 120
++D) 216
+
+8. 3, 4, 5, 6, 8, 9 raqamlaridan raqamlari takrorlanmaydigan nechta uch xonali son tuzish mumkin?
+A) 20
+B) 216
+C) 60
++D) 120
+
+9. C_5^2 ning qiymati nechaga teng?
++A) 10
+B) 20
+C) 15
+D) 5
+
+10. Aylanadagi 5 ta nuqtaning har biridan 4 tadan kesma o'tkazib, 5·4 = 20 hosil qilindi. Nima uchun 20 ni 2 ga bo'lish kerak?
++A) Har bir kesma ikki marta sanalgani uchun
+B) Nuqtalar 2 ta bo'lgani uchun
+C) Aylana 2 ta yarim aylanadan iborat bo'lgani uchun
+D) Kesmalar soni doim juft bo'lgani uchun
+
+--- O'RTACHA ---
+
+11. 4 ta turli xatni 4 ta turli konvertga (har biriga bittadan) necha xil usulda joylash mumkin?
+A) 20
+B) 16
+C) 12
++D) 24
+
+12. 5 nafar o'quvchidan 2 nafarini bellashuvda qatnashish uchun necha xil usulda tanlash mumkin?
+A) 20
+B) 15
++C) 10
+D) 5
+
+13. Doskada 12 ta ot, 8 ta fe'l va 7 ta sifat yozilgan. Gap tuzish uchun har bir so'z turkumidan bittadan olinsa, buni necha xil usulda amalga oshirish mumkin?
++A) 672
+B) 27
+C) 96
+D) 84
+
+14. Taqsimchada 8 ta yong'oq bor. Abbos ixtiyoriy 3 tasini necha xil usulda olishi mumkin?
++A) 56
+B) 48
+C) 336
+D) 24
+
+15. A shahardan B ga 6 ta, B dan C ga 4 ta yo'l bor. A dan D ga 2 ta, D dan C ga 3 ta yo'l bor. A dan C ga necha xil yo'l bilan borish mumkin?
+A) 24
+B) 10
+C) 48
++D) 30
+
+16. Aylanada 20 ta nuqta belgilangan. Uchlari shu nuqtalarda bo'lgan vatarlar nechta?
+A) 20
+B) 380
+C) 400
++D) 190
+
+17. Futbol chempionatida 18 ta jamoa qatnashmoqda. Har bir jamoa boshqa har bir jamoa bilan o'z maydonida ham, raqib maydonida ham o'ynasa, jami nechta o'yin bo'ladi?
+A) 324
++B) 306
+C) 153
+D) 36
+
+18. 12 ta fandan dars o'tiladi. Dushanba kuni 5 soat dars bo'lib, har soatda har xil fan o'tiladi. Dushanba kungi jadvalni necha xil usulda tuzish mumkin?
+A) 248832
+B) 60480
+C) 792
++D) 95040
+
+19. 5 ta stulga 3 nafar o'quvchini necha xil usulda o'tqazish mumkin?
+A) 10
++B) 60
+C) 125
+D) 15
+
+20. 10 nafar bola o'zaro shaxmat turniri o'tkazmoqda, har bir bola qolgan har bir bola bilan bir partiya o'ynaydi. Jami nechta partiya o'ynaladi?
+A) 100
+B) 90
+C) 55
++D) 45
+
+--- QIYIN ---
+
+21. Yozuvida hech bo'lmaganda bitta juft raqam qatnashgan 4 xonali sonlar nechta? (Jami 4 xonali sonlar 9000 ta, faqat toq raqamlardan iborat 4 xonali sonlar esa 5·5·5·5 ta.)
+A) 9000
+B) 5625
++C) 8375
+D) 625
+
+22. 7 yigit va 4 qizdan iborat guruhdan 6 ta o'quvchi shunday tanlanadiki, ularning ichida qizlar soni ikkitadan kam bo'lmaydi. Buni necha xil usulda amalga oshirish mumkin?
+A) 420
+B) 210
+C) 350
++D) 371
+
+23. 7×4 o'lchamli to'g'ri to'rtburchak 28 ta kvadratchaga bo'lingan. Kvadratchalarning tomonlari bo'ylab A burchakdan qarama-qarshi B burchakka boruvchi eng qisqa yo'llar soni nechta?
+A) 28
+B) 462
+C) 11
++D) 330
+
+24. 1, 2, 3, ..., 8 raqamlaridan ularni takrorlamay tuzilgan 8 xonali sonlar ichida 1 va 8 raqamlari yonma-yon turadiganlari nechta?
+A) 1440
+B) 5040
++C) 10080
+D) 40320
+
+25. Qavariq oltiburchakning diagonallari nechta nuqtada kesishadi? (Hech qaysi uchta diagonal bitta nuqtada kesishmaydi.)
++A) 15
+B) 36
+C) 20
+D) 6
+
+26. Nechta uch xonali sonning yozuvida faqatgina bitta 7 raqami bor?
++A) 225
+B) 243
+C) 162
+D) 216
+
+27. Ikkita parallel to'g'ri chiziqning birida 5 ta, ikkinchisida 3 ta nuqta belgilangan. Uchlari shu nuqtalarda bo'lgan nechta uchburchak mavjud?
+A) 15
+B) 30
++C) 45
+D) 56
+
+28. 0, 1, 2, 3, 4, 5 raqamlaridan raqamlari takrorlanmaydigan nechta 4 xonali son tuzish mumkin?
+A) 240
+B) 360
+C) 120
++D) 300
+
+29. 3 ta tovuq, 4 ta o'rdak va 2 ta g'ozdan bir nechta parrandani shunday tanlash kerakki, ular ichida tovuq ham, o'rdak ham, g'oz ham bo'lsin. Shunday tanlashlar soni nechta?
++A) 315
+B) 9
+C) 511
+D) 24
+
+30. 1, 2, 3, 4, 5 raqamlaridan raqamlari takrorlanmaydigan jami nechta ikki xonali, uch xonali va to'rt xonali son yozish mumkin?
+A) 120
+B) 125
+C) 180
++D) 200

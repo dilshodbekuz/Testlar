@@ -1,0 +1,337 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Ona tili",
+ "mavzu": "SO'ROQ OLMOSHLARI",
+ "savollar": [
+  {
+   "savol": "So'roq olmoshlari nimalar haqida so'roqni bildiradi?",
+   "variantlar": [
+    "Faqat miqdor va belgi haqida",
+    "Faqat shaxs va narsa haqida",
+    "Faqat payt va o'rin haqida",
+    "Shaxs, narsa-hodisa, belgi-xususiyat, miqdor, sabab, maqsad, o'rin va payt haqida"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Kim?\" so'roqlari nimani aniqlash uchun beriladi?",
+   "variantlar": [
+    "Shaxs",
+    "Miqdor",
+    "Payt",
+    "O'rin"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Nima?\" so'rog'i qaysi so'roq turiga kiradi?",
+   "variantlar": [
+    "Narsa-hodisa so'rog'i",
+    "Payt so'rog'i",
+    "Sabab so'rog'i",
+    "Shaxs so'rog'i"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Qachon?\" so'rog'i nimani aniqlash uchun beriladi?",
+   "variantlar": [
+    "Payt",
+    "Miqdor",
+    "Shaxs",
+    "O'rin"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Qayer?\" so'rog'i qaysi so'roq turiga kiradi?",
+   "variantlar": [
+    "Miqdor so'rog'i",
+    "Sabab so'rog'i",
+    "O'rin-joy so'rog'i",
+    "Payt so'rog'i"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Nega?\" so'rog'i qaysi so'roq turiga kiradi?",
+   "variantlar": [
+    "Payt so'rog'i",
+    "Sabab-maqsad so'rog'i",
+    "Shaxs so'rog'i",
+    "Belgi-xususiyat so'rog'i"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Qancha?\" so'rog'i nimani aniqlash uchun beriladi?",
+   "variantlar": [
+    "O'rin",
+    "Payt",
+    "Shaxs",
+    "Miqdor"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "So'roq olmoshlari ishtirok etgan gaplar qanday gap hisoblanadi?",
+   "variantlar": [
+    "So'roq gap",
+    "Buyruq gap",
+    "Undov gap",
+    "Darak gap"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "So'roq olmoshlari ishtirok etgan gap oxiriga yozuvda qanday belgi qo'yiladi?",
+   "variantlar": [
+    "Vergul",
+    "Nuqta",
+    "So'roq belgisi",
+    "Undov belgisi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Qaysi?\" va \"qanday?\" so'roqlari qaysi so'roq turiga kiradi?",
+   "variantlar": [
+    "Miqdor so'roqlari",
+    "Shaxs so'rog'i",
+    "Belgi-xususiyat so'roqlari",
+    "Payt so'roqlari"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Sinfingizda nechta o'quvchi bor?\" gapidagi so'roq olmoshi va uning turi qaysi javobda to'g'ri berilgan?",
+   "variantlar": [
+    "o'quvchi – shaxs so'rog'i",
+    "sinfingizda – o'rin so'rog'i",
+    "bor – payt so'rog'i",
+    "nechta – miqdor so'rog'i"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Siz qaysi kitoblarni o'qigansiz?\" gapida qaysi so'z so'roq olmoshi?",
+   "variantlar": [
+    "o'qigansiz",
+    "qaysi",
+    "siz",
+    "kitoblarni"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Dunyoda nima kuchli?\" gapida so'roq o'rniga javob (\"aql\") qo'yilsa, \"Dunyoda aql kuchli.\" qanday gap bo'ladi?",
+   "variantlar": [
+    "Undov gap",
+    "Darak gap",
+    "Buyruq gap",
+    "So'roq gap"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Kim shaxmat to'garagiga qatnashadi?\" gapida \"kim\" so'rog'i o'rniga qavsdagi qaysi so'z mos keladi?",
+   "variantlar": [
+    "Vali",
+    "kitob",
+    "yigirmata",
+    "aql"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Nega muncha g'amgin nayning navosi?\" gapidagi \"nega\" olmoshi qanday so'roq turiga kiradi?",
+   "variantlar": [
+    "Payt so'rog'i",
+    "O'rin so'rog'i",
+    "Sabab-maqsad so'rog'i",
+    "Miqdor so'rog'i"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Mukarrama, ular kim ekan?\" gapidagi \"kim\" olmoshi qaysi so'roq turiga kiradi?",
+   "variantlar": [
+    "Payt so'rog'i",
+    "Shaxs so'rog'i",
+    "O'rin so'rog'i",
+    "Narsa-hodisa so'rog'i"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Bir yilda necha kun bor?\" gapidagi \"necha\" olmoshi qanday so'roq turiga kiradi?",
+   "variantlar": [
+    "O'rin so'rog'i",
+    "Sabab so'rog'i",
+    "Miqdor so'rog'i",
+    "Payt so'rog'i"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Qanaqa o'rik?\" gapidagi \"qanaqa\" olmoshi qaysi so'roq turiga kiradi?",
+   "variantlar": [
+    "Shaxs so'rog'i",
+    "Sabab so'rog'i",
+    "Belgi-xususiyat so'rog'i",
+    "Payt so'rog'i"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Kimga sovg'a qilmoqchisiz?\" gapidagi \"kimga\" so'zi qanday hosil bo'lgan?",
+   "variantlar": [
+    "qachon olmoshiga -ga qo'shimchasi qo'shilgan",
+    "nima olmoshiga -ga qo'shimchasi qo'shilgan",
+    "kim olmoshiga -ga qo'shimchasi qo'shilgan",
+    "kim olmoshiga -da qo'shimchasi qo'shilgan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi qatorlarning qaysi birida faqat so'roq olmoshlari berilgan?",
+   "variantlar": [
+    "kim, men, sen, u",
+    "hamma, barcha, bari, butun",
+    "har kim, har narsa, har qancha, har bir",
+    "kim, nima, qachon, qayer"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Kimki unga ega bo'lsa, qadr-u qiymati baland bo'ladi\" gapida \"kimki\" so'roq olmoshidan hosil bo'lgan. Nega bu gap so'roq gap hisoblanmaydi?",
+   "variantlar": [
+    "Chunki gap so'roq ohangida aytilmaydi, oxirida so'roq belgisi yo'q va darak mazmunini bildiradi",
+    "Chunki gapda faqat ikkita so'z bor",
+    "Chunki gapda kim so'zi ishlatilmagan",
+    "Chunki gap juda uzun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi gapda ham shaxs, ham miqdor so'roq olmoshi ishtirok etgan?",
+   "variantlar": [
+    "Dunyoda nima kuchli?",
+    "Nega uni otdami, aravadami eltib qo'ymadi?",
+    "Qanaqa o'rik?",
+    "Kimga sovg'a qilmoqchisiz, yoshi nechada?"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Nega uni otdami, aravadami eltib qo'ymadi?\" gapida nechta so'roq olmoshi bor?",
+   "variantlar": [
+    "Hech qaysi",
+    "Ikkita",
+    "Bitta",
+    "Uchta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Sinfimizda yigirmata o'quvchi bor.\" darak gapiga javob bo'ladigan so'roq gapni toping.",
+   "variantlar": [
+    "Sinfimizda nechta o'quvchi bor?",
+    "Sinfimizda kim bor?",
+    "Sinfimizda qayer o'quvchi bor?",
+    "Sinfimizda qachon o'quvchi bor?"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Vali kecha maktabga bordi.\" gapidagi \"kecha\" so'zi o'rniga qaysi so'roq olmoshini qo'yib, to'g'ri so'roq gap hosil qilamiz?",
+   "variantlar": [
+    "Vali maktabga kim bordi?",
+    "Vali maktabga qachon bordi?",
+    "Vali maktabga nega bordi?",
+    "Vali maktabga nechta bordi?"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Xudoyo, tavba qildim, bu qanday kun? Yo qudratingdan, bu qanday odam?\" parchasida so'roq olmoshi necha marta va qaysi turda qo'llangan?",
+   "variantlar": [
+    "Ikki marta, shaxs so'rog'i",
+    "Ikki marta, belgi-xususiyat so'rog'i",
+    "Bir marta, payt so'rog'i",
+    "Uch marta, miqdor so'rog'i"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1-topshiriqdagi gaplar asosida quyidagi juftliklardan qaysi biri mos emas?",
+   "variantlar": [
+    "Siz nechanchi sinfda o'qiysiz? – yettinchi",
+    "Sinfingizda nechta o'quvchi bor? – shamol",
+    "Kim shaxmat to'garagiga qatnashadi? – Vali",
+    "Dunyoda nima kuchli? – aql"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi qatorlarning qaysi birida so'roq olmoshlari va ularning turlari to'liq to'g'ri juftlangan?",
+   "variantlar": [
+    "nega – o'rin, qachon – payt, qayer – miqdor, qancha – shaxs",
+    "nega – sabab-maqsad, qachon – payt, qayer – o'rin-joy, qancha – miqdor",
+    "nega – sabab-maqsad, qachon – o'rin, qayer – payt, qancha – belgi",
+    "nega – payt, qachon – sabab, qayer – o'rin, qancha – miqdor"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Nima ishlari bor ekan? – so'radi Zulayho xola.\" gapi haqida qaysi fikr to'g'ri?",
+   "variantlar": [
+    "\"Nima\" – miqdor so'rog'i, so'roq gap emas",
+    "\"Nima\" – narsa-hodisa so'rog'i, so'roq gap qatnashgan",
+    "\"Nima\" – payt so'rog'i, so'roq gap qatnashgan",
+    "\"Nima\" – shaxs so'rog'i, so'roq gap emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Bayram qayerda va qachon o'tadi?\" gapida qaysi so'roq turlari ishtirok etgan?",
+   "variantlar": [
+    "O'rin-joy va payt so'roqlari",
+    "Sabab va miqdor so'roqlari",
+    "Shaxs va narsa-hodisa so'roqlari",
+    "Belgi va sabab so'roqlari"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

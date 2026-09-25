@@ -1,0 +1,337 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Ona tili",
+ "mavzu": "OLMOSH SO'Z TURKUMI VA UNING TASNIFI",
+ "savollar": [
+  {
+   "savol": "Olmosh deb nimaga aytiladi?",
+   "variantlar": [
+    "Narsa-buyumning nomini bildiruvchi so'zlarga",
+    "Barcha mustaqil so'z turkumlari, so'z birikmasi va gap o'rnida almashinib qo'llaniluvchi, ularga ishora qiluvchi yoki so'roq bildiruvchi so'zlarga",
+    "Narsaning belgisini bildiruvchi so'zlarga",
+    "Harakat-holatni bildiruvchi so'zlarga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri kishilik olmoshlari qatoriga kiradi?",
+   "variantlar": [
+    "hamma, barcha, bari",
+    "kim, nima, qayer",
+    "bu, shu, o'sha",
+    "men, sen, u, biz, siz, ular"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'zlik olmoshi qaysi?",
+   "variantlar": [
+    "u",
+    "shu",
+    "hamma",
+    "o'z"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri ko'rsatish olmoshi emas?",
+   "variantlar": [
+    "shu",
+    "kimdir",
+    "bu",
+    "o'sha"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "So'roq olmoshlari qatorini toping.",
+   "variantlar": [
+    "kim, nima, qayer, qaysi, necha",
+    "hamma, barcha, bari",
+    "kimdir, nimadir",
+    "hech kim, hech narsa"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Belgilash olmoshlari qatorini toping.",
+   "variantlar": [
+    "hamma, barcha, bari, har bir, har qanday",
+    "kimdir, allakim",
+    "men, sen, biz",
+    "hech kim, hech qachon"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bo'lishsizlik olmoshi qaysi qatorda berilgan?",
+   "variantlar": [
+    "hech kim, hech narsa, hech qachon",
+    "allakim, allanarsa",
+    "har kim, har narsa",
+    "nima, qayer, qancha"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gumon olmoshlari qaysi qatorda to'g'ri berilgan?",
+   "variantlar": [
+    "hech kim, hech narsa",
+    "kimdir, nimadir, allakim, allaqanday, qaysidir",
+    "kim, nima, qayer",
+    "bu, shu, u"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'rsatish olmoshlari so'z ma'nosini aniqlab kelganda qayerda qo'llanadi?",
+   "variantlar": [
+    "Gapning boshida albatta",
+    "Aniqlayotgan so'zdan oldin",
+    "Gapning oxirida",
+    "Aniqlayotgan so'zdan keyin"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Olmoshlarning aniq atash ma'nosi bo'ladimi?",
+   "variantlar": [
+    "Faqat kishilik olmoshlarida bo'ladi",
+    "Ha, har doim aniq ma'nosi bo'ladi",
+    "Faqat so'roq olmoshlarida bo'ladi",
+    "Yo'q, uning ma'nosi matnda qaysi so'z yoki gap o'rnida kelishiga qarab belgilanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Kitobni ko'p o'qisangiz, undan ko'p hikmat topasiz\" gapidagi \"undan\" olmoshi qaysi so'z o'rnida qo'llangan?",
+   "variantlar": [
+    "kitob (ot)",
+    "o'qisangiz (fe'l)",
+    "hikmat (ot)",
+    "ko'p (miqdor)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Istagim shuki, doimo tinchlik bo'lsin\" gapidagi \"shuki\" olmoshi nima o'rnida qo'llangan?",
+   "variantlar": [
+    "Son o'rnida",
+    "Gap o'rnida",
+    "Sifat o'rnida",
+    "Ot o'rnida"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Bu daftar meniki\" gapidagi \"bu\" olmoshi qaysi turga kiradi?",
+   "variantlar": [
+    "Kishilik olmoshi",
+    "So'roq olmoshi",
+    "Ko'rsatish olmoshi",
+    "Gumon olmoshi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Kim ko'p o'qisa, u ko'p biladi\" gapidagi \"kim\" olmoshi qaysi turga kiradi va qaysi so'roqqa javob bo'ladi?",
+   "variantlar": [
+    "So'roq olmoshi, kim?",
+    "Belgilash olmoshi, qaysi?",
+    "Gumon olmoshi, nima?",
+    "Kishilik olmoshi, kim?"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Men fikrimni jamlab, hikoyamni boshladim\" gapidagi \"men\" olmoshi qaysi turga kiradi?",
+   "variantlar": [
+    "Belgilash olmoshi",
+    "Bo'lishsizlik olmoshi",
+    "O'zlik olmoshi",
+    "Kishilik olmoshi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Nazir ota yuzlarida qandaydir tabassum bilan qutini tita boshladi\" gapidagi \"qandaydir\" qaysi olmosh turiga kiradi?",
+   "variantlar": [
+    "Belgilash olmoshi",
+    "So'roq olmoshi",
+    "Gumon olmoshi",
+    "Ko'rsatish olmoshi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"U yerda bo'lgan har qanday odam ruhan yengil tortadi\" gapidagi \"har qanday\" olmoshi qaysi turga kiradi?",
+   "variantlar": [
+    "Kishilik olmoshi",
+    "Gumon olmoshi",
+    "Belgilash olmoshi",
+    "Bo'lishsizlik olmoshi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"O'zingdan o'zgadan marhamat kutma, o'zbek o'g'li, o'zligingni unutma\" she'ridagi \"o'zing\" so'zi qaysi olmosh turiga kiradi?",
+   "variantlar": [
+    "O'zlik olmoshi",
+    "So'roq olmoshi",
+    "Ko'rsatish olmoshi",
+    "Kishilik olmoshi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Bizning sinfimiz musobaqada birinchi o'rinni oldi. ... o'ringa intilgan o'quvchilar ko'p edi\" gapidagi nuqtalar o'rniga qaysi olmosh mos keladi?",
+   "variantlar": [
+    "Nima",
+    "Hech kim",
+    "Kimdir",
+    "O'sha"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Yigit bechoraning rangi quv o'chib ketgan. ... lablari pir-pir uchadi\" gapidagi nuqtalar o'rniga qaysi olmosh mos keladi?",
+   "variantlar": [
+    "Har bir",
+    "Kimning",
+    "Uning",
+    "Hech kimning"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi gapda takrorlanishni bartaraf etish uchun ajratilgan so'z o'rniga qaysi olmosh qo'llanadi: \"Xudoyberdi To'xtaboyev – bolalarning sevimli yozuvchisi. Xudoyberdi To'xtaboyev ko'plab asarlar yozgan\"?",
+   "variantlar": [
+    "Kim",
+    "Bu",
+    "U",
+    "Hech kim"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Olim musobaqada g'olib chiqdi. Bu hammamizni quvontirdi\" gapida \"bu\" olmoshi nima o'rnida qo'llangan?",
+   "variantlar": [
+    "Oldingi gap (Olim musobaqada g'olib chiqdi) o'rnida",
+    "Faqat \"musobaqa\" so'zi o'rnida",
+    "Faqat \"g'olib\" so'zi o'rnida",
+    "Faqat \"Olim\" so'zi o'rnida"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Kim nayzani uzukdan o'tkazsa, o'sha g'olib bo'ladi\" gapida \"kim\" va \"o'sha\" olmoshlarining turlari qaysi javobda to'g'ri ko'rsatilgan?",
+   "variantlar": [
+    "Kim – ko'rsatish olmoshi, o'sha – so'roq olmoshi",
+    "Kim – so'roq olmoshi, o'sha – ko'rsatish olmoshi",
+    "Kim – gumon olmoshi, o'sha – kishilik olmoshi",
+    "Kim – kishilik olmoshi, o'sha – belgilash olmoshi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi gaplarning qaysi birida gumon olmoshi qo'llangan?",
+   "variantlar": [
+    "Hamma o'z vaqtida keldi.",
+    "Qishloq allaqachon uyg'ongan, ammo hovlida kimdir yurardi.",
+    "Bu kitob menga yoqdi.",
+    "Hech kim darsga kechikmadi."
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi qatorlarning qaysi birida barcha so'zlar bir xil turdagi (bo'lishsizlik) olmoshlariga kiradi?",
+   "variantlar": [
+    "hech kim, hech narsa, hech qachon, hech qaysi",
+    "hech qachon, har qanday, o'sha, biz",
+    "hech kim, kimdir, hamma, bu",
+    "hech narsa, nimadir, barcha, u"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Undan har birimiz foydalanishimiz mumkin. U shunday mo'jizaviy xazinaki, qancha olsangiz ham kamaymaydi\" matnida \"undan\" va \"u\" olmoshlari nimaga ishora qiladi (matn: \"Kitoblar – insoniyatning eng bebaho ma'naviy mulki\")?",
+   "variantlar": [
+    "Insoniyatga",
+    "Mutolaaga",
+    "Kutubxonaga",
+    "Kitoblarga"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Bu hol odamni beixtiyor ajib o'ylarga g'arq qiladi\" gapida ko'rsatish olmoshi va u aniqlab kelayotgan so'z qaysi javobda to'g'ri berilgan?",
+   "variantlar": [
+    "Bu – hol",
+    "Bu – ajib",
+    "Bu – odamni",
+    "Bu – o'ylarga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Bizda harakat qilgan odam yomon yashamaydi\" gapida \"bizda\" so'zi qaysi olmosh turiga kiradi va qaysi shaxsni bildiradi?",
+   "variantlar": [
+    "Kishilik olmoshi, ikkinchi shaxs birlik",
+    "O'zlik olmoshi, birinchi shaxs birlik",
+    "Ko'rsatish olmoshi, uchinchi shaxs",
+    "Kishilik olmoshi, birinchi shaxs ko'plik"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Shuncha qalamni nima qilasan?\" gapidagi \"shuncha\" va \"nima\" so'zlari haqida qaysi fikr to'g'ri?",
+   "variantlar": [
+    "\"Shuncha\" miqdorga ishora qiladi, \"nima\" so'roq olmoshi",
+    "\"Shuncha\" va \"nima\" ikkalasi ham so'roq olmoshi",
+    "\"Shuncha\" gumon olmoshi, \"nima\" ko'rsatish olmoshi",
+    "\"Shuncha\" kishilik olmoshi, \"nima\" belgilash olmoshi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Dunyoda yagona tilagim shuki, yaxshi nomingizga g'ubor tushmasin\" gapidagi \"shuki\" olmoshi va \"Bu kalit doimo sizning ixtiyoringizda\" gapidagi \"bu\" olmoshi haqida qaysi fikr to'g'ri?",
+   "variantlar": [
+    "Ikkalasi ham kishilik olmoshi",
+    "\"Shuki\" ot o'rnida, \"bu\" esa gap o'rnida keladi",
+    "Ikkalasi ham faqat sifat o'rnida keladi",
+    "\"Shuki\" gap o'rnida, \"bu\" esa \"kalit\" so'zini aniqlab keladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

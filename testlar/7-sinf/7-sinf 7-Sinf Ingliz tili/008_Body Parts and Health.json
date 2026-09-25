@@ -1,0 +1,315 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Ingliz tili",
+ "mavzu": "Body Parts and Health",
+ "savollar": [
+  {
+   "savol": "Darslik matniga ko'ra, odamning tanasida nechta suyak bor?",
+   "variantlar": [
+    "206",
+    "150",
+    "240",
+    "245"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, mushuklarning tanasida nechta suyak bor?",
+   "variantlar": [
+    "300-310 ta",
+    "206 ta",
+    "240-245 ta",
+    "100-120 ta"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Heart\" so'zining o'zbekcha ma'nosi qaysi?",
+   "variantlar": [
+    "Oshqozon",
+    "Yurak",
+    "Til",
+    "Ko'krak qafasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Stomach\" so'zining o'zbekcha ma'nosi qaysi?",
+   "variantlar": [
+    "Oshqozon",
+    "Tovon",
+    "Bilak",
+    "Bosh barmoq"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Wrist\" so'zining o'zbekcha ma'nosi qaysi?",
+   "variantlar": [
+    "Oyoq boldiri",
+    "Quloq",
+    "Til",
+    "Bilak (kaftusti)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Thumb\" so'zining o'zbekcha ma'nosi qaysi?",
+   "variantlar": [
+    "Bosh barmoq",
+    "Yurak",
+    "Til",
+    "Ko'krak"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Tongue\" so'zining o'zbekcha ma'nosi qaysi?",
+   "variantlar": [
+    "Tish",
+    "Ko'z",
+    "Burun",
+    "Til"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Pain\" so'zining o'zbekcha ma'nosi qaysi?",
+   "variantlar": [
+    "Sovuq",
+    "Shifokor",
+    "Og'riq",
+    "Dam olish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Ankle\" so'zi tananing qaysi qismini bildiradi?",
+   "variantlar": [
+    "Bo'yin",
+    "Oyoq bilagi (to'piq)",
+    "Tirsak",
+    "Yelka"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Chest\" so'zining o'zbekcha ma'nosi qaysi?",
+   "variantlar": [
+    "Bel",
+    "Ko'krak qafasi",
+    "Qorin",
+    "Bosh"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quloqingiz og'risa, matndagi namunaga ko'ra qaysi gapni aytasiz?",
+   "variantlar": [
+    "I have a pain in my ear.",
+    "I have a pain in my stomach.",
+    "I have a pain in my ankle.",
+    "I have a pain in my wrist."
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matndagi dialogda A \"I have a pain in my ear\" desa, B nima deb javob beradi?",
+   "variantlar": [
+    "I can't see you.",
+    "I can't walk.",
+    "I can't write.",
+    "I can't hear you."
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ko'zingiz og'risa, qaysi ishni qila olmaysiz?",
+   "variantlar": [
+    "Walk (yura olmaysiz)",
+    "Eshita olmaysiz",
+    "See (ko'ra olmaysiz)",
+    "Write (yoza olmaysiz), faqat quloq og'rigani uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Oyoq bilagingiz (ankle) og'risa, matndagi fe'llardan qaysi birini qila olmaysiz?",
+   "variantlar": [
+    "See",
+    "Walk",
+    "Write",
+    "Hear"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bilagingiz (wrist) jarohatlansa, qaysi ishni qilish qiyin bo'ladi?",
+   "variantlar": [
+    "Write",
+    "Hear",
+    "See",
+    "Walk"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matndagi namunada bola nima uchun shamollagan?",
+   "variantlar": [
+    "Sinfdoshi bilan urishgani uchun",
+    "Televizor ko'p ko'rgani uchun",
+    "Ko'p gamburger yegani uchun",
+    "Butun kechqurun qor koptok o'ynagani va havo juda sovuq bo'lgani uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"I should stay at home and lie in bed\" gapida \"lie in bed\" nimani anglatadi?",
+   "variantlar": [
+    "Yotib dam olish (to'shakda yotish)",
+    "Shifokorga borish",
+    "Maktabga borish",
+    "Choy ichish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matndagi \"visit a doctor\" iborasi nimani anglatadi?",
+   "variantlar": [
+    "Do'stnikiga borish",
+    "Maktabga borish",
+    "Uyda qolish",
+    "Shifokorga borish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Have a hot tea\" iborasi qaysi ma'noni beradi?",
+   "variantlar": [
+    "Ovqat yeyish",
+    "Sovuq suv ichish",
+    "Dori ichish",
+    "Issiq choy ichish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mushukda odamga qaraganda suyaklar soni nechtaga ko'p (matndagi eng kam va eng ko'p qiymatlar bo'yicha oraliq)?",
+   "variantlar": [
+    "206 tagacha",
+    "240 dan 245 tagacha",
+    "34 dan 39 tagacha",
+    "10 dan 15 tagacha"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kimdir kechqurun PI darsida musobaqada yugurib yiqilib, oyog'ining bilagini (ankle) jarohatladi. Matndagi mantiqqa ko'ra u nima qilishi kerak?",
+   "variantlar": [
+    "Dam olishi va shifokorga borishi kerak",
+    "Ko'p gamburger yeyishi kerak",
+    "Ko'p yugurishi kerak",
+    "Kompyuter o'yinlarini ko'p o'ynashi kerak"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bola sinfdoshi bilan urishib, bilagini (wrist) og'ritdi. Matndagi \"Yesterday / Today / I can't / I should\" jadvaliga ko'ra, qaysi javob eng mantiqiy?",
+   "variantlar": [
+    "I can't see. I should go to school.",
+    "I can't walk. I should watch TV a lot.",
+    "I can't hear. I should play computer games.",
+    "I can't write. I should visit a doctor."
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ko'p gamburger yegan o'quvchining qaysi a'zosi og'rishi mantiqan eng ehtimolli va u nima qilishi kerak?",
+   "variantlar": [
+    "Ear; ko'proq eshitishi kerak",
+    "Stomach; dam olishi va shifokorga borishi kerak",
+    "Wrist; ko'proq yozishi kerak",
+    "Eyes; televizor ko'rishi kerak"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Televizor va kompyuter o'yinlarini juda ko'p ko'rgan/o'ynagan o'quvchida matndagi qaysi a'zo bilan bog'liq muammo bo'lishi mumkin va u nimani qila olmaydi?",
+   "variantlar": [
+    "Stomach; write",
+    "Ankle; walk",
+    "Eyes; see (ko'ra olmaydi)",
+    "Ear; hear"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi namunaviy hikoyada ketma-ketlik qanday?",
+   "variantlar": [
+    "Kecha uxladi, bugun urishdi, keyin choy ichdi",
+    "Kecha kasal edi, bugun qor koptok o'ynadi, keyin maktabga bordi",
+    "Bugun shifokorga bordi, kecha maktabga bordi, keyin sovuq qotdi",
+    "Kecha qor koptok o'ynadi, sovuq qotdi, bugun o'zini yomon his qilyapti, maktabga bora olmaydi, uyda yotishi kerak"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi \"Do you know?\" qismidagi ma'lumotga ko'ra, quyidagi mulohazalardan qaysi biri to'g'ri?",
+   "variantlar": [
+    "Odam va mushukda suyaklar soni teng",
+    "Odam tanasida mushukdan ko'proq suyak bor",
+    "Mushukda 206 ta suyak bor",
+    "Mushuk tanasida odamdan ko'proq suyak bor"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bola \"I can't hear\" desa, uning qaysi a'zosi og'riyotgan bo'lishi mumkin va u qaysi so'z bilan boshlanadigan gapni aytgan bo'lardi?",
+   "variantlar": [
+    "Wrist; I have a pain in my wrist.",
+    "Ear; I have a pain in my ear.",
+    "Ankle; I have a pain in my ankle.",
+    "Eyes; I have a pain in my eyes."
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi holatlardan qaysi biri to'g'ri sabab-oqibat juftligini ko'rsatadi?",
+   "variantlar": [
+    "Oyoq bilagi og'rig'i: ko'ra olmaslik",
+    "Bilak jarohati: yoza olmaslik",
+    "Ko'z og'rig'i: eshita olmaslik",
+    "Quloq og'rig'i: yura olmaslik"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

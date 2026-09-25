@@ -1,0 +1,337 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Algebra",
+ "mavzu": "Algebraik kasrlarni soddalashtirish va amallar",
+ "savollar": [
+  {
+   "savol": "Kasr ma'noga ega bo'lishi uchun uning maxraji qanday bo'lishi kerak?",
+   "variantlar": [
+    "Nolga teng bo'lishi kerak",
+    "Faqat musbat bo'lishi kerak",
+    "Nolga teng bo'lmasligi kerak",
+    "Suratdan katta bo'lishi kerak"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kasrning surat va maxrajini nolga teng bo'lmagan bir xil songa ko'paytirsak, kasrning qiymati qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Ikki marta ortadi",
+    "Ikki marta kamayadi",
+    "Nolga teng bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Maxrajlari bir xil kasrlarni qo'shishda qanday amal bajariladi?",
+   "variantlar": [
+    "Suratlar qo'shiladi, maxraj o'zgarishsiz qoladi",
+    "Suratlar va maxrajlar qo'shiladi",
+    "Suratlar ko'paytiriladi, maxraj qoladi",
+    "Maxrajlar qo'shiladi, surat qoladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a/b · c/d ko'paytma nimaga teng?",
+   "variantlar": [
+    "ad/(bc)",
+    "ac/(b+d)",
+    "(a+c)/(b+d)",
+    "ac/(bd)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a/b : c/d bo'linma nimaga teng (b, c, d ≠ 0)?",
+   "variantlar": [
+    "ad/(bc)",
+    "(a·b)/(c·d)",
+    "ac/(bd)",
+    "bc/(ad)"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kasrni darajaga ko'tarish qoidasi qaysi?",
+   "variantlar": [
+    "(a/b)ⁿ = a/bⁿ",
+    "(a/b)ⁿ = aⁿ/bⁿ",
+    "(a/b)ⁿ = aⁿ/b",
+    "(a/b)ⁿ = a·n/b·n"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a² − b² ifoda qaysi ko'paytmaga teng?",
+   "variantlar": [
+    "(a − b)(a + b)",
+    "(a + b)²",
+    "a(a − b)",
+    "(a − b)²"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Algebraik kasrni soddalashtirish nimani anglatadi?",
+   "variantlar": [
+    "Faqat maxrajni o'zgartirish",
+    "Surat va maxrajni umumiy ko'paytuvchiga qisqartirish",
+    "Kasrni o'nli kasrga aylantirish",
+    "Suratni maxrajga qo'shish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x/5 − 2x/5 ayirma nimaga teng?",
+   "variantlar": [
+    "−x/5",
+    "x/5",
+    "3x/5",
+    "−x/10"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hajmi V bo'lgan hovuz birinchi quvur orqali a soatda to'ladi. Bu quvur bir soatda qancha hajmni to'ldiradi?",
+   "variantlar": [
+    "a/V",
+    "V − a",
+    "V·a",
+    "V/a"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(a² − 4)/(a − 2) kasrni soddalashtiring (a ≠ 2).",
+   "variantlar": [
+    "2a",
+    "a − 2",
+    "a + 2",
+    "a² + 2"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "12x²y/(18xy²) kasrni soddalashtiring.",
+   "variantlar": [
+    "3y/(2x)",
+    "2x/(3y)",
+    "2x/(3y²)",
+    "2xy/3"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "5/(2a) + 3/(4a) yig'indini hisoblang.",
+   "variantlar": [
+    "8/(4a)",
+    "8/(6a)",
+    "13/(4a)",
+    "2/a"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(2a/(3b)) · (9b/(4a²)) ko'paytmani soddalashtiring.",
+   "variantlar": [
+    "3b/(2a)",
+    "3/(2a)",
+    "6/(a)",
+    "2a/3"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(a/b) : (a²/b²) ni soddalashtiring (a, b ≠ 0).",
+   "variantlar": [
+    "a/b",
+    "b/a",
+    "a/b²",
+    "ab"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(2x/3)³ ni hisoblang.",
+   "variantlar": [
+    "6x³/9",
+    "2x³/27",
+    "8x/27",
+    "8x³/27"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3/(x − 5) kasr x ning qaysi qiymatida ma'noga ega bo'lmaydi?",
+   "variantlar": [
+    "x = 0",
+    "x = 3",
+    "x = 5",
+    "x = −5"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1/x − 1/y ayirmani bitta kasr ko'rinishida yozing.",
+   "variantlar": [
+    "(y − x)/(x + y)",
+    "(x − y)/(xy)",
+    "(y − x)/(xy)",
+    "1/(x − y)"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1/(a − 3) va 1/(a + 3) kasrlarning eng qulay umumiy maxraji qaysi?",
+   "variantlar": [
+    "a − 3",
+    "a² + 9",
+    "a + 3",
+    "(a − 3)(a + 3)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hovuz birinchi quvur orqali a soatda, ikkinchisi orqali b soatda to'ladi. Ikkala quvur bir vaqtda ochilsa, hovuz necha soatda to'ladi?",
+   "variantlar": [
+    "a·b/(a + b) soatda",
+    "(a + b)/2 soatda",
+    "(a + b)/(ab) soatda",
+    "a + b soatda"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Beruniy masalasi: bir buyumdan 10 tasi, ikkinchisidan 15 tasi bir dinor turadi. Bir dinorga ikkala buyumdan bir xil miqdorda necha donadan sotib olish mumkin?",
+   "variantlar": [
+    "8 donadan",
+    "5 donadan",
+    "6 donadan",
+    "12 donadan"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hovuz birinchi quvur orqali 12 soatda, ikkinchisi orqali 4 soatda to'ladi. Ikkala quvur birga ochilsa, hovuz necha soatda to'ladi?",
+   "variantlar": [
+    "2 soatda",
+    "3 soatda",
+    "8 soatda",
+    "4 soatda"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1/(x − 1) − 1/(x + 1) ni soddalashtiring.",
+   "variantlar": [
+    "0",
+    "2/(x² − 1)",
+    "2x/(x² − 1)",
+    "1/(x² − 1)"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(a/b + b/a) : (1/a + 1/b) ni soddalashtiring (a, b ≠ 0, a + b ≠ 0).",
+   "variantlar": [
+    "(a² + b²)/(ab)",
+    "a + b",
+    "(a + b)/(ab)",
+    "(a² + b²)/(a + b)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(x + 1)/(x − 1) − (x − 1)/(x + 1) ayirmani soddalashtiring.",
+   "variantlar": [
+    "2x/(x² − 1)",
+    "4x/(x² − 1)",
+    "2/(x² − 1)",
+    "4/(x² − 1)"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(1 − 1/a) : (1 − 1/a²) ni soddalashtiring (a ≠ 0, a ≠ ±1).",
+   "variantlar": [
+    "(a − 1)/a",
+    "a/(a + 1)",
+    "(a + 1)/a",
+    "a/(a − 1)"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Motorli qayiqning turg'un suvdagi tezligi v km/soat, oqim tezligi v₁ km/soat (v > v₁). Qayiq oqim bo'yicha s km yo'l bosdi. Shu vaqt ichida oqimga qarshi qancha masofa bosadi?",
+   "variantlar": [
+    "s·v/(v + v₁)",
+    "s(v − v₁)",
+    "s(v − v₁)/(v + v₁)",
+    "s(v + v₁)/(v − v₁)"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hajmi V bo'lgan muz bo'lagining massasi p kg. Hajmi V₁ bo'lgan muz bo'lagining massasi nimaga teng?",
+   "variantlar": [
+    "pV/V₁",
+    "V·V₁/p",
+    "p·V₁/V",
+    "p + V₁ − V"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Avtomobil soatiga v km tezlik bilan yurib, s km yo'l bosdi. Mototsiklchi shu vaqt ichida soatiga u km tezlik bilan qancha yo'l bosadi?",
+   "variantlar": [
+    "u·s/v",
+    "u·v/s",
+    "s/(u·v)",
+    "v·s/u"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(a² − b²)/(a + b)² : (a − b)/(a + b) ifodani soddalashtiring (a ≠ ±b).",
+   "variantlar": [
+    "0",
+    "a − b",
+    "1",
+    "a + b"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

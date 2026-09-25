@@ -1,0 +1,326 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Informatika",
+ "mavzu": "12-dars. CMS PLATFORMALARI BILAN TANISHISH",
+ "savollar": [
+  {
+   "savol": "CMS platformalar nechta guruhga bo'linadi (ochiq va yopiq kodli bo'yicha)?",
+   "variantlar": [
+    "2 ta",
+    "5 ta",
+    "3 ta",
+    "4 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ochiq kodli CMS platformalar qanday tizimlar hisoblanadi?",
+   "variantlar": [
+    "Faqat internet do'konlar uchun mo'ljallangan tizimlar",
+    "Ichki kodini o'zgartirishga ruxsat beriladigan bepul tarqatiladigan tizimlar",
+    "Shifrlangan va o'zgartirib bo'lmaydigan tizimlar",
+    "Faqat tijorat maqsadida tarqatiladigan tizimlar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri yopiq kodli CMS platformasi?",
+   "variantlar": [
+    "Joomla",
+    "Shopify",
+    "WordPress",
+    "Drupal"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Plugin (plagin) nima?",
+   "variantlar": [
+    "Dasturiy ta'minot uchun uning imkoniyatlarini kengaytiruvchi qo'shimcha ilova",
+    "Sayt uchun domen nomi",
+    "Sayt dizaynini chizuvchi dastur",
+    "Shifrlangan dasturiy ta'minot"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "WordPress dastlab nima yaratishga mo'ljallangan edi?",
+   "variantlar": [
+    "Internet do'konlar",
+    "Bloglar",
+    "Forumlar",
+    "Ijtimoiy tarmoqlar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri universal CMS platformasi hisoblanadi?",
+   "variantlar": [
+    "BigCommerce",
+    "OpenCart",
+    "Typo3",
+    "Shop-Script"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda korporativ saytlar yaratish uchun qaysi CMS platformalar keltirilgan?",
+   "variantlar": [
+    "phpBB, vBulletin",
+    "Joomla, Drupal",
+    "InstantCMS, Social Engine",
+    "Magento, OpenCart"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, sayt yaratishni boshlovchilar uchun mo'ljallangan, o'ta sodda bepul tizim qaysi?",
+   "variantlar": [
+    "Magento",
+    "Joomla",
+    "Drupal",
+    "Shopify"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, WordPress va Joomlaga nisbatan xavfsizroq platforma qaysi?",
+   "variantlar": [
+    "Serendipity",
+    "Typo3",
+    "OpenCart",
+    "Drupal"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yopiq kodli platforma haqida qaysi gap to'g'ri?",
+   "variantlar": [
+    "Faqat bloglar uchun ishlatiladi",
+    "Uni bepul tarqatishadi va o'zgartirish mumkin",
+    "Uning tarkibini tahrirlash va o'zgartirish mumkin emas",
+    "U faqat ta'lim uchun mo'ljallangan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kompaniya internet-do'kon yaratmoqchi va bepul, ochiq kodli, yuqori ixtisoslashgan platforma kerak. Qaysi birini tanlash mumkin?",
+   "variantlar": [
+    "DataLife Engine",
+    "BigCommerce",
+    "Shop-Script",
+    "OpenCart"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kompaniyada sayt yaratish uchun mutaxassislar yetishmaydi. Matnga ko'ra, ular nima qiladi?",
+   "variantlar": [
+    "Faqat yopiq kodli dastur sotib oladi",
+    "Standart funksiyalar to'plamiga ega CMS platformadan foydalanadi",
+    "Saytni \"nol\"dan mustaqil yozadi",
+    "Saytni umuman yaratmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shaxsiy sayt yaratmoqchi bo'lgan foydalanuvchiga matndagi qaysi platforma mos keladi?",
+   "variantlar": [
+    "InstantCMS",
+    "phpBB",
+    "WordPress",
+    "Magento"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ijtimoiy tarmoq yaratmoqchi bo'lgan dasturchi matnga ko'ra qaysi platformani tanlaydi?",
+   "variantlar": [
+    "Social Engine",
+    "OpenCart",
+    "Monstra",
+    "Joomla"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ko'p tilli sayt yaratishda qaysi platformada sayt tillarini qo'shish uchun plaginlar o'rnatish shart emas?",
+   "variantlar": [
+    "WordPress",
+    "Shopify",
+    "Joomla",
+    "OpenCart"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Foydalanuvchi platforma kodini o'zgartirmoqchi. Quyidagilardan qaysi biri unga to'g'ri kelmaydi?",
+   "variantlar": [
+    "PrestaShop",
+    "1С-Битрикс",
+    "Typo3",
+    "Drupal"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Portal yaratish uchun matnda qaysi platformalar tavsiya etilgan?",
+   "variantlar": [
+    "DLE, Drupal",
+    "Monstra, WordPress",
+    "OpenCart, osCommerce",
+    "phpBB, vBulletin"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sayt bir vaqtning o'zida turli kontentlar uchun bir necha shablon yoki mavzudan foydalanishi kerak. Matnga ko'ra qaysi platforma buni beradi?",
+   "variantlar": [
+    "Joomla",
+    "Shop-Script",
+    "Serendipity",
+    "BigCommerce"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri vazifasiga ko'ra yuqori ixtisoslashgan pullik platforma?",
+   "variantlar": [
+    "OpenCart",
+    "BigCommerce",
+    "Magento",
+    "Joomla"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun aksariyat foydalanuvchilar zamonaviy saytni \"nol\"dan yozishdan ko'ra CMS platformadan foydalanishni ma'qul ko'radi?",
+   "variantlar": [
+    "Chunki CMS dasturlash bilimini umuman talab qilmaydi",
+    "Zamonaviy saytlar takrorlash qiyin bo'lgan qat'iy funksiyalarga ega sahifalar to'plamidan iborat",
+    "Chunki CMS saytlar faqat bepul bo'ladi",
+    "Chunki oddiy saytlar zamonaviyroq"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kompaniya kodini o'zgartira oladigan, bepul, universal va deyarli har qanday loyihaga (shaxsiy sayt, portal, internet-do'kon) mos platforma qidirmoqda. Qaysi biri eng mos?",
+   "variantlar": [
+    "WordPress",
+    "Shop-Script",
+    "Shopify",
+    "BigCommerce"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi platformalardan qaysi biri ham ochiq kodli, ham yuqori ixtisoslashgan (internet-do'kon) turga kiradi?",
+   "variantlar": [
+    "Magento",
+    "Shop-Script",
+    "Shopify",
+    "Joomla"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi juftlikda ikkala platforma ham yopiq kodli?",
+   "variantlar": [
+    "CS-cart va DataLife Engine",
+    "WordPress va Shopify",
+    "Joomla va Shop-Script",
+    "Drupal va CS-cart"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi juftlikda ikkala platforma ham ham ochiq kodli, ham universal turga kiradi?",
+   "variantlar": [
+    "WordPress va Shop-Script",
+    "Joomla va Shopify",
+    "Typo3 va BigCommerce",
+    "WordPress va Joomla"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ko'p funksiyali, barcha elementlarni qamrab olgan, xavfsizroq, lekin nisbatan sekin ishlaydigan platforma qaysi?",
+   "variantlar": [
+    "OpenCart",
+    "Drupal",
+    "Joomla",
+    "WordPress"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Joomla va Drupal uchun umumiy bo'lgan xususiyat qaysi?",
+   "variantlar": [
+    "Ikkalasi ham faqat internet-do'kon uchun",
+    "Ikkalasi ham faqat blog uchun mo'ljallangan",
+    "Ikkalasi ham yopiq kodli",
+    "Ikkalasi ham \"maxsus xabar turlari\" bilan ishlay oladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi holatda CMS platformani tanlash to'g'ri hisoblanadi, matnga ko'ra?",
+   "variantlar": [
+    "Faqat eng qimmat platforma yaxshi bo'ladi",
+    "Faqat yopiq kodli platforma xavfsiz",
+    "Platforma tanlash saytga umuman ta'sir qilmaydi",
+    "To'g'ri platforma saytni yaratish, reklama qilish bilan birga mijozga ishonchli ishlash imkonini beradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ochiq kodli platformalar ro'yxatida qaysi bir platforma noto'g'ri ko'rsatilgan bo'lar edi?",
+   "variantlar": [
+    "Chamilo",
+    "ImpressPages",
+    "DataLife Engine",
+    "Drupal"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Internet-do'kon uchun ishlatiladigan bepul va pullik yuqori ixtisoslashgan platformalar qaysi javobda to'g'ri juftlangan (bepul, pullik)?",
+   "variantlar": [
+    "Shop-Script, BigCommerce",
+    "Magento, OpenCart",
+    "BigCommerce, OpenCart",
+    "OpenCart, BigCommerce"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

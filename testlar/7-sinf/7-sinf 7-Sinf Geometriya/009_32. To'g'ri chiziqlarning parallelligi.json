@@ -1,0 +1,326 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Geometriya",
+ "mavzu": "32. To'g'ri chiziqlarning parallelligi",
+ "savollar": [
+  {
+   "savol": "Qanday to'g'ri chiziqlar parallel deb ataladi?",
+   "variantlar": [
+    "O'zaro 90° burchak hosil qiladigan to'g'ri chiziqlar",
+    "Bir tekislikda yotib, o'zaro kesishmaydigan to'g'ri chiziqlar",
+    "Turli tekisliklarda yotgan har qanday to'g'ri chiziqlar",
+    "Bir nuqtada kesishadigan to'g'ri chiziqlar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a va b to'g'ri chiziqlarning parallelligi qanday yoziladi?",
+   "variantlar": [
+    "a ∈ b",
+    "a || b",
+    "a ⊥ b",
+    "a = b"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Parallellik aksiomasiga ko'ra, tekislikda to'g'ri chiziqqa uning ustida yotmagan nuqtadan nechta parallel to'g'ri chiziq o'tkazish mumkin?",
+   "variantlar": [
+    "Cheksiz ko'p",
+    "Faqat bitta",
+    "Hech qanday",
+    "Faqat ikkita"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Parallellik aksiomasi qanday nom bilan mashhur?",
+   "variantlar": [
+    "Pifagor teoremasi",
+    "Fales teoremasi",
+    "Evklidning 5-postulati",
+    "Arximed qonuni"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bitta to'g'ri chiziqqa perpendikulyar bo'lgan ikki to'g'ri chiziq haqida nima deyish mumkin?",
+   "variantlar": [
+    "Ular albatta kesishadi",
+    "Ular o'zaro paralleldir",
+    "Ular o'zaro perpendikulyar bo'ladi",
+    "Ular ustma-ust tushadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir to'g'ri chiziqqa parallel bo'lgan ikki to'g'ri chiziq haqida qaysi tasdiq to'g'ri?",
+   "variantlar": [
+    "Ular albatta ustma-ust tushadi",
+    "Ular o'zaro kesishadi",
+    "Ular o'zaro perpendikulyardir",
+    "Ular o'zaro paralleldir"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri parallel kesmalarga misol bo'la oladi?",
+   "variantlar": [
+    "Kesishgan yo'l chorrahasi",
+    "Temir yo'l relslari",
+    "Soatning ikki strelkasi 3:00 da",
+    "Uchburchakning ikki tomoni"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'g'ri to'rtburchakning qarama-qarshi tomonlari o'zaro qanday joylashgan?",
+   "variantlar": [
+    "Ustma-ust tushadi",
+    "Kesishadi",
+    "Parallel",
+    "Bir-biriga qo'shni bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Parallel to'g'ri chiziqlarda yotgan kesmalar va nurlar haqida nima deyiladi?",
+   "variantlar": [
+    "Ular parallel bo'la olmaydi",
+    "Ular faqat perpendikulyar bo'ladi",
+    "Ular ham o'zaro parallel deb yuritiladi",
+    "Ular doim kesishadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ta'rifga ko'ra, to'g'ri chiziqlar parallel bo'lishi uchun ular qaysi shartlarni bajarishi kerak?",
+   "variantlar": [
+    "Uzunliklari teng bo'lishi",
+    "Bir tekislikda yotishi va umumiy nuqtaga ega bo'lmasligi",
+    "Bir nuqtada kesishishi va bir tekislikda yotishi",
+    "Ikkalasi ham gorizontal bo'lishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a || c va b || c ekanligi ma'lum. Bu ma'lumotdan qaysi xulosa kelib chiqadi?",
+   "variantlar": [
+    "a va b bitta nuqtada kesishadi",
+    "a ⊥ b",
+    "a || b",
+    "a va c kesishadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a to'g'ri chiziqqa tegishli bo'lmagan O nuqtadan a ga parallel to'g'ri chiziq o'tkazishda birinchi qadam nima?",
+   "variantlar": [
+    "O nuqtadan a ni kesib o'tuvchi ixtiyoriy chiziq o'tkaziladi",
+    "a ustida ikki nuqta belgilanadi va ulanadi",
+    "O nuqtadan a ga urinma o'tkaziladi",
+    "O nuqtadan a ga perpendikulyar OA o'tkaziladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "m ⊥ p va n ⊥ p bo'lsa, m va n to'g'ri chiziqlar o'zaro qanday bo'ladi?",
+   "variantlar": [
+    "Ustma-ust tushuvchi",
+    "Perpendikulyar",
+    "Kesishuvchi",
+    "Parallel"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tekislikda l to'g'ri chiziq va uning ustida yotmagan M nuqta berilgan. M nuqtadan l ga parallel nechta to'g'ri chiziq o'tkazish mumkin?",
+   "variantlar": [
+    "1 ta",
+    "3 ta",
+    "2 ta",
+    "Cheksiz ko'p"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Katakli daftar varag'idagi ikkita gorizontal chiziq o'zaro qanday joylashgan?",
+   "variantlar": [
+    "Perpendikulyar",
+    "Kesishuvchi",
+    "Parallel",
+    "Bir-biriga tegib turuvchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkita to'g'ri chiziq c to'g'ri chiziqqa perpendikulyar. Ularning kesishishi mumkinmi?",
+   "variantlar": [
+    "Yo'q, ular parallel bo'ladi",
+    "Ha, 90° burchak ostida kesishadi",
+    "Faqat bir tekislikda bo'lmasa kesishadi",
+    "Ha, doim kesishadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a || b va b || c bo'lsa, quyidagilardan qaysi biri to'g'ri?",
+   "variantlar": [
+    "a ⊥ c",
+    "a va c kesishadi",
+    "a || c",
+    "a va c haqida hech narsa deb bo'lmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun kesishmaydigan ikki kesmani har doim ham parallel deb bo'lmaydi?",
+   "variantlar": [
+    "Kesmalar to'g'ri chiziq emas, shuning uchun",
+    "Kesmalarning uzunligi har xil bo'ladi",
+    "Ular yotgan to'g'ri chiziqlar kesishishi mumkin",
+    "Kesmalar hech qachon parallel bo'lmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkita nur kesishmasa, ularni parallel deyish uchun qanday shart bajarilishi kerak?",
+   "variantlar": [
+    "Hech qanday shart kerak emas",
+    "Nurlarning boshi bir nuqtada bo'lishi kerak",
+    "Nurlar bir xil yo'nalishga ega bo'lishi kerak",
+    "Ular yotgan to'g'ri chiziqlar parallel bo'lishi kerak"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Chizg'ich va go'niya yordamida parallel to'g'ri chiziq chizish usuli qaysi teoremaga asoslanadi?",
+   "variantlar": [
+    "Uchburchak burchaklari yig'indisi haqidagi teorema",
+    "Pifagor teoremasi",
+    "Vertikal burchaklarning tengligi",
+    "Bitta to'g'ri chiziqqa perpendikulyar ikki to'g'ri chiziqning parallelligi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a || c va b || c bo'lsin. Teoremani isbotlashda a va b bir A nuqtada kesishadi deb faraz qilinsa, qanday ziddiyat kelib chiqadi?",
+   "variantlar": [
+    "a va b perpendikulyar bo'lib qoladi, bu shartga zid",
+    "A nuqta c da yotib qoladi, bu shartga zid",
+    "a va b ning uzunliklari teng bo'lib qoladi",
+    "A nuqtadan c ga ikkita parallel to'g'ri chiziq o'tgan bo'lib qoladi, bu aksiomaga zid"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a || b, b || c, c || d bo'lsa, a va d to'g'ri chiziqlar haqida nima deyish mumkin?",
+   "variantlar": [
+    "a || d",
+    "a va d kesishadi",
+    "a ⊥ d",
+    "Hech narsa deb bo'lmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "M nuqta l to'g'ri chiziqda yotmaydi. M dan l ga parallel to'g'ri chiziqlar a va b o'tkazilgan deb faraz qilaylik. Parallellik aksiomasiga ko'ra a va b haqida nima deyish mumkin?",
+   "variantlar": [
+    "a va b M nuqtada perpendikulyar bo'ladi",
+    "a va b ustma-ust tushadi (bitta to'g'ri chiziq)",
+    "a va b parallel bo'lib, farqli bo'ladi",
+    "a va b l ni kesib o'tadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a to'g'ri chiziq b ga parallel, c to'g'ri chiziq esa a ni kesib o'tadi (a, b, c bir tekislikda). Parallellik aksiomasidan foydalanib, c va b haqida qanday xulosa qilish mumkin?",
+   "variantlar": [
+    "c va b albatta parallel",
+    "c va b parallel bo'la olmaydi, ular kesishadi",
+    "c va b ustma-ust tushadi",
+    "c va b perpendikulyar bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir tekislikda a ⊥ c, b ⊥ c va d || a bo'lsin. d va b to'g'ri chiziqlar haqida qaysi xulosa to'g'ri?",
+   "variantlar": [
+    "d ⊥ b",
+    "d va c parallel",
+    "d || b",
+    "d va b kesishadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tekislikda a || b va m to'g'ri chiziq a ni kesib o'tadi. Quyidagi mulohazalardan qaysi biri parallellik aksiomasiga asoslanib to'g'ri xulosa beradi?",
+   "variantlar": [
+    "m to'g'ri chiziq b ga parallel bo'ladi",
+    "m to'g'ri chiziq b ni ham kesib o'tadi",
+    "m to'g'ri chiziq b bilan ustma-ust tushadi",
+    "m to'g'ri chiziq a ga perpendikulyar bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir tekislikda uchta a, b, c to'g'ri chiziq berilgan: a ⊥ c va b ⊥ c. Yana d to'g'ri chiziq b ga parallel va d ≠ b. d va a haqida nima deyish mumkin?",
+   "variantlar": [
+    "d va a kesishadi",
+    "d || a",
+    "d ⊥ a",
+    "d va c parallel"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kvadrat ABCD ning AB tomoni CD tomoniga parallel, BC tomoni ham AD ga parallel. AB ⊥ BC bo'lsa, AB va AD haqida nima deyish mumkin (rasmsiz, matndagi qoidalar asosida)?",
+   "variantlar": [
+    "AB va AD ustma-ust tushadi",
+    "AB va AD haqida hech narsa deb bo'lmaydi",
+    "AB || AD",
+    "AB ⊥ AD, chunki AD || BC va AB ⊥ BC"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun \"a to'g'ri chiziqqa perpendikulyar bo'lgan ikki to'g'ri chiziq kesishishi mumkin emas\" tasdig'i to'g'ri?",
+   "variantlar": [
+    "Chunki ular bir xil uzunlikka ega",
+    "Chunki ular a ni kesib o'tmaydi",
+    "Chunki perpendikulyar chiziqlar hech qachon chizilmaydi",
+    "Chunki kesishsa, kesishish nuqtasidan a ga ikkita perpendikulyar tushgan bo'lar edi, bu mumkin emas"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

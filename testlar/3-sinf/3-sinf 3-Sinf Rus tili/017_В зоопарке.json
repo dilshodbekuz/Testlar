@@ -1,0 +1,326 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Rus tili",
+ "mavzu": "В зоопарке",
+ "savollar": [
+  {
+   "savol": "Zoopark qaysi hayvonlarni o'z ichiga oladi?",
+   "variantlar": [
+    "Medved, lev, slon, kenguru, obezyana",
+    "Faqat Afrikada yasha oladigan hayvonlar",
+    "Faqat predatorlar",
+    "Faqat o't yeyuvchilar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Obezyana qanday?",
+   "variantlar": [
+    "Hazil va kichik",
+    "Katta va kuchli",
+    "Qora va agresiv",
+    "O't yeyuvchi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Slonning quloqlari qanday?",
+   "variantlar": [
+    "O'rtacha",
+    "Yo'q",
+    "Katta",
+    "Kichik"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Slon nima yeydi?",
+   "variantlar": [
+    "Faqat travy",
+    "Faqat go'sht",
+    "Sabzavot va mevalar",
+    "Faqat baliq"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tigr bilan nima bor?",
+   "variantlar": [
+    "Kichik tigryata",
+    "Katta onilar",
+    "Katta erkaklar",
+    "Parandalar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zebra qayerda yashaydi?",
+   "variantlar": [
+    "Meksikada",
+    "Afrikada",
+    "Antarktikada",
+    "Siberiyada"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tolstoy hikoyasida sabog'a va lev necha yil bitasida yashadi?",
+   "variantlar": [
+    "Sakkiz oylar",
+    "Uch oy",
+    "Ikki yil",
+    "Butun yil"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sabog'a nima sabali o'ldi?",
+   "variantlar": [
+    "Bemarish bo'lib",
+    "Quchdan",
+    "Ovqat keraksizligidan",
+    "Yashundan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Lev qanday hayvon?",
+   "variantlar": [
+    "Katta va kuchli",
+    "Suv hayvoni",
+    "Kichik va shoshqolov",
+    "O't yeyuvchi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Krokodil qayerda yashaydi?",
+   "variantlar": [
+    "Suvda",
+    "Chala bo'lib",
+    "Tog'da",
+    "Cho'lda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nega bolalar obezyanaga tez yugurib bordi?",
+   "variantlar": [
+    "Chuni u qorqinchli",
+    "Chuni u katta",
+    "Chuni u issiq",
+    "Chuni u hazil va kumushi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zebra qanday rangli?",
+   "variantlar": [
+    "Sariq va qora",
+    "Sariq va oq",
+    "Oq va qora",
+    "Qora va pushti"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tigryata nima qiladi?",
+   "variantlar": [
+    "Uyiga yotadi",
+    "Yordamchi bordi",
+    "Ovoz chiqaradi",
+    "O'ynaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zebra va slon qaysi biri o't yeyadi?",
+   "variantlar": [
+    "Slon",
+    "Zebra",
+    "Ikkalasi ham emas",
+    "Ikkalasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tolstoy 'Lev va sabog'a' hikoyasida asosiy g'oyasi nima?",
+   "variantlar": [
+    "Zoopark hayoti",
+    "Predatorlar hayoti",
+    "Mehribonlik va yaqin munosabat",
+    "Hayvonlarning zaifligini"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sabog'a levning kletkasiga kiritilganda nima qildi?",
+   "variantlar": [
+    "Levga hujum qildi",
+    "Yemni izladi",
+    "Levning orqasiga yotdi",
+    "Qochib ketdi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Levning sabog'a uchun munosabati qanday edi?",
+   "variantlar": [
+    "Mehribonona",
+    "Shoshqolovona",
+    "Xavfli",
+    "Qiziqmasa"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zebra o't ustidan boshqa nima yeydi?",
+   "variantlar": [
+    "Mevalar",
+    "Baliq",
+    "Go'sht",
+    "Vetka"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Slonning katta quloqlari nimaga xizmat qiladi?",
+   "variantlar": [
+    "Issiqni tartibga solish uchun",
+    "Faqat go'zallik uchun",
+    "Yuzini qopish uchun",
+    "Quvvatni to'plash uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Krokodil nima uchun katta tishga ega?",
+   "variantlar": [
+    "O'zini savni uchun",
+    "Faqat go'zallik uchun",
+    "Suvda yugoqish uchun",
+    "Baliqni ushlab yeyish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Lev sabog'a o'lgandan so'ng necha kunni yemadi?",
+   "variantlar": [
+    "O'n kunni",
+    "Yetti kunni",
+    "Uch kunni",
+    "Besh kunni"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sabog'a va levning munosabati qanday turni namoyish etadi?",
+   "variantlar": [
+    "Xavf va qo'rqu",
+    "Mehribonlik va chuqur muhabbalat",
+    "Ota-o'g'ul aloqasi",
+    "Shiddatli raqobat"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Levning sabog'aga biror go'sht qoldirish harakatini qanday talqin etish mumkin?",
+   "variantlar": [
+    "Faqat go'sht kam ekanligini",
+    "Levning xavfli ekanligini",
+    "Levning sabog'aga bo'lgan mehribonligi",
+    "Levning zaifligini ko'rsatadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nega lev va sabog'a birgalikda yasha olmadi?",
+   "variantlar": [
+    "Sabog'a bemarish bo'lib o'lgani uchun",
+    "Lev sabog'aning qo'rquviga sabab bo'ldi",
+    "Ular xavfli idi",
+    "Kletkada bo'lgan uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tolstoy bu hikoya orqali o'quvchiga nima o'rgatmoqchi edi?",
+   "variantlar": [
+    "Mehribonlik va do'stlikning qiymati",
+    "Hayvonlar xavfli",
+    "Zoopark foydalı joy",
+    "Predatorlar zaif"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Lev 6-kunida o'lik - bu qanday ma'noni anglatadi?",
+   "variantlar": [
+    "Lev sabog'aning yo'qligiga toqat kelmadi",
+    "Bu faqat hikoya uchun",
+    "Lev o'z-o'zidan o'ldi",
+    "Lev kuchsiz edi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zebra va tigr xarakterining farqi nima?",
+   "variantlar": [
+    "Zebra tez yuguradi, tigr sekin",
+    "Ular bir xil",
+    "Zebraning quloqlari bor, tigrning yo'q",
+    "Zebra o't yeyadi, tigr go'sht yeyadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zoopark matni va Tolstoy hikoyasi qanday bog'liq?",
+   "variantlar": [
+    "Faqat hayvonlar nomlari bir xil",
+    "Ular hech bog'liq emas",
+    "Ikkalasi ham hayvonlar muhabbati haqida",
+    "Ularning avtori bir xil"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi hayvonlarning xarakteri qanday tushunish mumkin?",
+   "variantlar": [
+    "Faqat ularning rangiga qarab",
+    "Ularning ishtiyo vasi va jonli tabiatiga qarab",
+    "Matnga bunday ma'lumot yo'q",
+    "Ularning o'lchami bo'yicha"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

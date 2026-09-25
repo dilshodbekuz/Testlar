@@ -1,0 +1,326 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Ingliz tili",
+ "mavzu": "What size do you take?",
+ "savollar": [
+  {
+   "savol": "Matnga ko'ra, 1-mashqda paxta (cotton) qaysi kiyim bilan juftlanadi (e.g. 1d)?",
+   "variantlar": [
+    "Jacket",
+    "Blouse",
+    "T-shirt",
+    "Scarf"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, 'leather' (charm) qaysi kiyim bilan juftlanadi?",
+   "variantlar": [
+    "Scarf",
+    "Jacket",
+    "Shirt",
+    "Sweater"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, 'wool' (jun) qaysi kiyim bilan juftlanadi?",
+   "variantlar": [
+    "Jacket",
+    "Blouse",
+    "Scarf",
+    "T-shirt"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, 'silk' (ipak) qaysi kiyim bilan juftlanadi?",
+   "variantlar": [
+    "Blouse",
+    "Sweater",
+    "Shirt",
+    "Jacket"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, 'flannel' qaysi kiyim bilan juftlanadi?",
+   "variantlar": [
+    "Blouse",
+    "T-shirt",
+    "Scarf",
+    "Shirt"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, 'polyester' qaysi kiyim bilan juftlanadi?",
+   "variantlar": [
+    "Shirt",
+    "Sweater",
+    "Jacket",
+    "Scarf"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Do'kondagi dialogda sotuvchi o'lchamni so'rash uchun qaysi savolni beradi?",
+   "variantlar": [
+    "What size do you take?",
+    "Are you going to take it?",
+    "What kind?",
+    "Is this OK?"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'Try on' iborasi o'zbek tilida nimani anglatadi?",
+   "variantlar": [
+    "Kiyib ko'rmoq",
+    "Tikmoq",
+    "Sotib olmoq",
+    "Yechmoq"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dialogda xaridor o'lchamini aytish uchun qaysi jumlani ishlatadi?",
+   "variantlar": [
+    "I take a size 40/42.",
+    "I'm looking for a skirt.",
+    "I prefer that green one.",
+    "Here's the money."
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matndagi 'embroidered' so'zi qanday ma'noni bildiradi?",
+   "variantlar": [
+    "Qisqa yenglik",
+    "Baland poshnali",
+    "Naqshin tikilgan (kashta solingan)",
+    "Charmdan yasalgan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sotuvchi 'Can I help you?' dedi. Xaridor ko'ylak izlayotgan bo'lsa, qaysi javob mos keladi?",
+   "variantlar": [
+    "It fits me well.",
+    "I take a size 40.",
+    "Good bye.",
+    "I'm looking for a shirt."
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sotuvchi 'What kind?' deb so'radi. Qaysi javob to'g'ri?",
+   "variantlar": [
+    "Here's the money.",
+    "I'd like to try it on.",
+    "Yes, please.",
+    "I'm looking for a short-sleeved shirt."
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Xaridor 'Actually, I prefer that green one' desa, u nima qilyapti?",
+   "variantlar": [
+    "Pulni to'layapti",
+    "Yashil rangni afzal ko'rishini aytyapti",
+    "O'lchamini aytyapti",
+    "Kiyimni qaytaryapti"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kiyim yaxshi mos kelganini aytish uchun qaysi jumla to'g'ri?",
+   "variantlar": [
+    "It wears me well.",
+    "It describes me well.",
+    "It takes me well.",
+    "It fits me well."
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'This is a pink cotton T-shirt' jumlasida kiyim materiali qaysi?",
+   "variantlar": [
+    "Silk",
+    "Pink",
+    "T-shirt",
+    "Cotton"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sotuvchi 'Are you going to take it?' deb so'radi. Xaridor sotib olmoqchi bo'lsa, qaysi javob mos?",
+   "variantlar": [
+    "Yes. Here's the money. Thank you.",
+    "I'm looking for a skirt.",
+    "What size do you take?",
+    "Can I help you?"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'What are you wearing now?' savoliga qaysi javob to'g'ri?",
+   "variantlar": [
+    "Here you are.",
+    "I'd like to try it on.",
+    "I'm wearing a white cotton shirt.",
+    "I take a size 42."
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi juftlik matnda berilgan material-kiyim juftligiga mos KELMAYDI?",
+   "variantlar": [
+    "Leather – jacket",
+    "Silk – blouse",
+    "Cotton – sweater",
+    "Wool – scarf"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi so'z kiyim EMAS, balki material nomi?",
+   "variantlar": [
+    "Socks",
+    "Flannel",
+    "Shorts",
+    "Skirt"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Do'kondagi dialogda gaplar qaysi tartibda kelishi to'g'ri?",
+   "variantlar": [
+    "Xayrlashish – to'lov – o'lcham – kiyib ko'rish",
+    "Salomlashish – o'lcham – kiyib ko'rish – to'lov – xayrlashish",
+    "Kiyib ko'rish – yordam taklifi – o'lcham",
+    "To'lov – o'lcham – yordam taklifi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Xaridor avval 'I'm looking for a shirt' dedi, so'ng sotuvchi 'How do you like this cotton shirt?' deb so'radi. Xaridor boshqa rangni xohlasa, nima deydi?",
+   "variantlar": [
+    "Is this OK?",
+    "I take a size 40.",
+    "Actually, I prefer that blue one.",
+    "Good bye."
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Xaridor kiyimni kiyib ko'rishdan oldin qaysi ikki gapni ketma-ket aytadi?",
+   "variantlar": [
+    "Yes, please. Thank you.",
+    "It fits me well. I'll take it.",
+    "I take a size 40. I'd like to try it on.",
+    "Here's the money. Good bye."
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ali 'I'm looking for a long-sleeved flannel shirt' dedi. Bu gapdan Ali haqida nima aniq?",
+   "variantlar": [
+    "U o'lchamini aytdi",
+    "U qisqa yengli ipak ko'ylak qidiryapti",
+    "U charm kurtka qidiryapti",
+    "U yengi uzun flanel ko'ylak qidiryapti"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun xaridor 'It fits me well' deydi va keyin pulni beradi?",
+   "variantlar": [
+    "O'lchamini bilmaydi",
+    "Kiyim kichik bo'lgani uchun qaytaryapti",
+    "Kiyim mos kelgani uchun sotib olmoqchi",
+    "Sotuvchi bilan xayrlashmoqchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Short-sleeved' va 'long-sleeved' so'zlari nimani farqlaydi?",
+   "variantlar": [
+    "Kiyim rangini",
+    "Kiyim yengining uzunligini",
+    "Kiyim materialini",
+    "Kiyim o'lchamini"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi jumlalardan qaysi biri xaridor tomonidan aytilishi MUMKIN EMAS?",
+   "variantlar": [
+    "What size do you take?",
+    "I'm looking for a skirt.",
+    "Here's the money.",
+    "I'd like to try it on."
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'A blue long-sleeved cotton T-shirt' iborasida sifatlar tartibi qanday?",
+   "variantlar": [
+    "Kiyim – rang – yeng – material",
+    "Material – rang – yeng – kiyim",
+    "Yeng – rang – material – kiyim",
+    "Rang – yeng – material – kiyim"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Xaridor 'I take a size 42' dedi. Sotuvchi keyin nima qiladi?",
+   "variantlar": [
+    "'Here you are. Is this OK?' deb kiyimni beradi",
+    "'Good bye' deb ketadi",
+    "'What size do you take?' deb yana so'raydi",
+    "'I prefer that one' deydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi so'zlarning qaysi biri kiyim turlari ro'yxatida (dress, jacket, trousers, skirt, shirt, shorts, socks) YO'Q?",
+   "variantlar": [
+    "Socks",
+    "Cotton",
+    "Trousers",
+    "Skirt"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

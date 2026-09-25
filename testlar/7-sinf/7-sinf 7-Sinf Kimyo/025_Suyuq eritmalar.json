@@ -1,0 +1,326 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Kimyo",
+ "mavzu": "Suyuq eritmalar",
+ "savollar": [
+  {
+   "savol": "Suyuq eritmalar qanday tuzilmalar?",
+   "variantlar": [
+    "Faqat bitta moddadan iborat suyuqliklar",
+    "Ikki yoki undan ortiq tarkibiy qismdan iborat suyuq gomogen (bir jinsli) tuzilmalar",
+    "Suyuqlik ichida cho'kib yotgan qattiq zarralar aralashmasi",
+    "Faqat gazlardan iborat aralashmalar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Gomogen\" so'zi qanday ma'noni anglatadi?",
+   "variantlar": [
+    "Tez bug'lanuvchi",
+    "Qattiq",
+    "Bir jinsli",
+    "Rangsiz"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Eruvchanlik nima?",
+   "variantlar": [
+    "Moddaning muzlash qobiliyati",
+    "Moddaning bug'lanish tezligi",
+    "Moddaning suvda qaynash qobiliyati",
+    "Moddaning erish qobiliyati"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'yingan eritma qanday eritma?",
+   "variantlar": [
+    "Ayni haroratda eruvchi moddadan ortiqcha erita olmaydigan eritma",
+    "Erigan moddasi juda oz bo'lgan eritma",
+    "Faqat qaynoq suvdagi eritma",
+    "Tarkibida erigan modda umuman bo'lmagan eritma"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Eruvchanlik qanday miqdor bilan belgilanadi?",
+   "variantlar": [
+    "Eritmaning qaynash vaqti bilan",
+    "100 g erituvchida moddadan qancha erishi bilan",
+    "1 l eritmadagi moddaning massasi bilan",
+    "Eritmaning rangi bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "100 g erituvchida 10 g dan ortiq erisa, modda qanday hisoblanadi?",
+   "variantlar": [
+    "Amalda erimaydigan",
+    "Erimaydigan gaz",
+    "Yaxshi eruvchan",
+    "Oz eruvchan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "100 g erituvchida 0,01 g dan kam eriydigan modda qanday hisoblanadi?",
+   "variantlar": [
+    "Yaxshi eruvchan",
+    "To'yingan",
+    "Amalda erimaydigan",
+    "Oz eruvchan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Harorat ortishi bilan gazlarning suvda eruvchanligi qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Ortadi",
+    "Kamayadi",
+    "Avval ortadi, keyin yo'qoladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'pchilik qattiq moddalarning eruvchanligi harorat ortishi bilan qanday o'zgaradi?",
+   "variantlar": [
+    "Ortadi",
+    "O'zgarmaydi",
+    "Kamayadi",
+    "Nolga teng bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi qatorlardan qaysi birida suvda eriy oladigan gazlar keltirilgan?",
+   "variantlar": [
+    "Tuz, mineral, qand",
+    "Spirt, sirka kislota",
+    "Qand, tuz",
+    "Kislorod, vodorod, karbonat angidrid"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tuzning eruvchanligi 30 ga teng. Shu haroratda 200 g suvda eng ko'pi bilan necha gramm tuz eriydi?",
+   "variantlar": [
+    "60 g",
+    "90 g",
+    "45 g",
+    "30 g"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "70 kg li odam tanasida taxminan 45,5 kg suv bor. Suv tana massasining necha foizini tashkil qiladi?",
+   "variantlar": [
+    "45,5%",
+    "55%",
+    "65%",
+    "98%"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1000 g yomg'ir suvi bug'latilganda 3–5 g qattiq qoldiq qoladi. 2000 g yomg'ir suvi bug'latilsa, qoldiq qancha bo'ladi?",
+   "variantlar": [
+    "12–20 g",
+    "3–5 g",
+    "1,5–2,5 g",
+    "6–10 g"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "20°C da 100 g suv 200 g qandni erita oladi. 50 g suvda shu haroratda eng ko'pi bilan necha gramm qand eriydi?",
+   "variantlar": [
+    "400 g",
+    "200 g",
+    "50 g",
+    "100 g"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ba'zi meduzalar tanasining 98% i suvdan iborat. Massasi 500 g bo'lgan shunday meduza tanasida necha gramm suv bor?",
+   "variantlar": [
+    "480 g",
+    "490 g",
+    "98 g",
+    "400 g"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qattiq moddaning to'yinmagan eritmasini to'yingan eritmaga aylantirish uchun nima qilish mumkin (moddaning eruvchanligi harorat ortishi bilan ortadi)?",
+   "variantlar": [
+    "Haroratni kamaytirish",
+    "Eritmani aralashtirmaslik",
+    "Haroratni oshirish",
+    "Ko'proq suv qo'shish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mineral suvli idish ochilganda karbonat angidrid shiddat bilan ajralib chiqadi. Buning sababi nima?",
+   "variantlar": [
+    "Idish ichidagi bosim kamayadi va gazning eruvchanligi kamayadi",
+    "Idish ichidagi bosim ortadi",
+    "Suv qattiq moddaga aylanadi",
+    "Harorat keskin ortadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Modda 100 g suvda 0,005 g eriydi. Bu modda qanday hisoblanadi?",
+   "variantlar": [
+    "Amalda erimaydigan",
+    "Oz eruvchan",
+    "Yaxshi eruvchan",
+    "To'yingan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "250 g suvda 75 g modda eritilganda to'yingan eritma hosil bo'ldi. Moddaning eruvchanligi qancha?",
+   "variantlar": [
+    "30",
+    "25",
+    "33",
+    "75"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "20°C dagi 500 g to'yingan kaliy nitrat eritmasi bug'latilganda 120 g quruq tuz olindi. Tuzning shu haroratdagi eruvchanligi taxminan qancha (100 g suvga nisbatan)?",
+   "variantlar": [
+    "120 g",
+    "31,6 g",
+    "24 g",
+    "38 g"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "20°C da 100 g suv 200 g qandni eritadi. 150 g suvga 350 g qand solinsa, necha gramm qand erimay qoladi?",
+   "variantlar": [
+    "0 g",
+    "50 g",
+    "100 g",
+    "150 g"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "20°C da qandning to'yingan eritmasida (100 g suv + 200 g qand) qandning massa ulushi qancha?",
+   "variantlar": [
+    "33,3%",
+    "66,7%",
+    "50%",
+    "200%"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "20°C da qandning 600 g to'yingan eritmasida necha gramm suv bor? (100 g suv 200 g qand eritadi)",
+   "variantlar": [
+    "400 g",
+    "100 g",
+    "300 g",
+    "200 g"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ma'lum haroratda tuzning 260 g to'yingan eritmasi bug'latilganda 60 g quruq tuz qoldi. Tuzning eruvchanligi qancha?",
+   "variantlar": [
+    "60",
+    "23",
+    "20",
+    "30"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi sharoitda suvda gaz eng ko'p eriydi?",
+   "variantlar": [
+    "Past harorat va yuqori bosimda",
+    "Past harorat va past bosimda",
+    "Yuqori harorat va yuqori bosimda",
+    "Yuqori harorat va past bosimda"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Okean va dengizlardagi suv massasi 1,4·10^18 t, quruqlikdagi chuchuk suv va muzliklardagi suv esa 4·10^15 t. Okean va dengiz suvi chuchuk suvdan necha marta ko'p?",
+   "variantlar": [
+    "3500 marta",
+    "2800 marta",
+    "350 marta",
+    "35 marta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yer yuzining umumiy sathi 510100000 km², shundan 375000000 km² suv bilan qoplangan. Suv Yer sathining taxminan necha foizini egallaydi?",
+   "variantlar": [
+    "85%",
+    "26,5%",
+    "60%",
+    "73,5%"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tuzning eruvchanligi 40. 200 g suvda 70 g shu tuz to'liq eritildi. Hosil bo'lgan eritma haqida qaysi fikr to'g'ri?",
+   "variantlar": [
+    "Eritma to'yinmagan, yana 10 g tuz eritish mumkin",
+    "Eritma to'yingan, tuzning bir qismi erimay qoladi",
+    "Eritma to'yingan, chunki 70 > 40",
+    "Eritma to'yinmagan, yana 40 g tuz eritish mumkin"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Isitilganda qaysi hodisa yuz beradi (qattiq tuzning eruvchanligi harorat ortishi bilan ortadi deb hisoblang)?",
+   "variantlar": [
+    "Tuz ham, gaz ham ajralib chiqadi",
+    "Tuzning to'yingan eritmasi to'yinmagan bo'ladi, gazning to'yingan eritmasidan gaz ajralib chiqadi",
+    "Ikkala eritma ham to'yingan bo'lib qoladi",
+    "Tuzning to'yingan eritmasidan tuz cho'kadi, gaz eruvchanligi ortadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

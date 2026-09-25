@@ -1,0 +1,326 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Ona tili",
+ "mavzu": "SOF KO'MAKCHILAR",
+ "savollar": [
+  {
+   "savol": "Qanday ko'makchilar sof ko'makchilar sanaladi?",
+   "variantlar": [
+    "Atash ma'nosini tamoman yo'qotgan va faqat o'zi birikkan so'zni boshqa so'zga tobelantirib bog'lash uchun xizmat qiladigan ko'makchilar",
+    "Fe'ldan yasalgan ko'makchilar",
+    "Mustaqil ma'noga ega bo'lgan ko'makchilar",
+    "Ot turkumidan yasalgan ko'makchilar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri sof ko'makchi?",
+   "variantlar": [
+    "ichida",
+    "uchun",
+    "oldida",
+    "ustida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi qatorda faqat sof ko'makchilar berilgan?",
+   "variantlar": [
+    "kabi, qadar, ostida, haqida",
+    "bilan, sari, sayin, uchun",
+    "uzra, tufayli, oldida, sayin",
+    "bilan, ustida, sari, uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sof ko'makchilar urg'u oladimi?",
+   "variantlar": [
+    "Faqat gap oxirida kelsa oladi",
+    "Ha, doimo urg'u oladi",
+    "Yo'q, urg'u olmaydi",
+    "Faqat she'riy nutqda oladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'makchi bilan birga kelgan mustaqil so'zda urg'u qayerga tushadi?",
+   "variantlar": [
+    "Ikkinchi bo'g'iniga",
+    "Oxirgi bo'g'iniga",
+    "Ko'makchiga",
+    "Birinchi bo'g'iniga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'makchilar yozuvda qanday yoziladi?",
+   "variantlar": [
+    "Ba'zan qo'shib, ba'zan ajratib yoziladi",
+    "Doimo ajratib yoziladi",
+    "Doimo chiziqcha bilan yoziladi",
+    "Doimo qo'shib yoziladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Badiiy uslubda \"bilan\" ko'makchisi qaysi shaklda qo'llanishi mumkin?",
+   "variantlar": [
+    "-dek",
+    "-chun",
+    "-la",
+    "-day"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Badiiy uslubda \"uchun\" ko'makchisi qaysi shaklda qo'llanadi?",
+   "variantlar": [
+    "-chun",
+    "-ila",
+    "-la",
+    "-birla"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"-la\" va \"-chun\" shakllari qanday yoziladi?",
+   "variantlar": [
+    "Qavs ichida",
+    "Chiziqcha bilan ajratib",
+    "Bo'sh joy qoldirib ajratib",
+    "So'zga qo'shib, chiziqchasiz"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri \"bilan\" ko'makchisining badiiy uslubdagi shakli emas?",
+   "variantlar": [
+    "-la",
+    "ila",
+    "-chun",
+    "birla"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Temur tig'i yetmagan joyni qalam bilan oldi Alisher\" gapida ko'makchi qaysi so'z bilan birga kelgan?",
+   "variantlar": [
+    "joyni",
+    "qalam",
+    "Alisher",
+    "oldi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Qog'oz oq bo'lgani uchun unga so'z bitadilar\" gapida \"uchun\" ko'makchisi qaysi so'z bilan birga kelgan?",
+   "variantlar": [
+    "unga",
+    "bitadilar",
+    "qog'oz",
+    "bo'lgani"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Yuz bergan tabiiy ofat tufayli uyimizning hamma yog'i buzilib ketdi\" gapida \"tufayli\" ko'makchisi qaysi so'z bilan birga kelgan?",
+   "variantlar": [
+    "yuz bergan",
+    "uyimizning",
+    "ofat",
+    "buzilib"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Saida bu haqda bundan ortiq gapirishni lozim ko'rmadi\" gapidagi ko'makchini toping.",
+   "variantlar": [
+    "haqda",
+    "lozim",
+    "ortiq",
+    "bundan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Halollik buyuklik sari dastlabki qadamgina bo'lib qolmay...\" gapida \"sari\" qaysi so'z bilan birga kelgan?",
+   "variantlar": [
+    "qadamgina",
+    "halollik",
+    "buyuklik",
+    "dastlabki"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Qalam-la men to'qiyman qo'shiq\" misrasidagi \"-la\" qaysi ko'makchining shakli?",
+   "variantlar": [
+    "bilan",
+    "uchun",
+    "sari",
+    "kabi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Kimki tong ila tursa, mushkul ishlari bitgay\" gapidagi \"ila\" qaysi ko'makchiga mos keladi?",
+   "variantlar": [
+    "sayin",
+    "uchun",
+    "bilan",
+    "uzra"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"U hamma qishloq bolalari kabi yoshlikdan mehnatga kirishgan\" gapida \"kabi\" ko'makchisi qaysi so'z birikmasi bilan birga kelgan?",
+   "variantlar": [
+    "hamma qishloq bolalari",
+    "yoshlikdan",
+    "mehnatga",
+    "kirishgan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Shu yer uzra ter to'kar hamon\" misrasida \"uzra\" qaysi so'z bilan birga kelgan?",
+   "variantlar": [
+    "shu",
+    "to'kar",
+    "ter",
+    "yer"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Abdulla Oripovga xizmatlari uchun unvon berildi\" gapida \"uchun\" ko'makchisi qaysi so'roqqa javob bo'ladigan so'z bilan kelgan?",
+   "variantlar": [
+    "Kim bilan?",
+    "Qachon?",
+    "Nima uchun? (xizmatlari)",
+    "Qayerga?"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi gaplarning qaysi birida \"uchun\" ko'makchisi to'g'ri yozilgan?",
+   "variantlar": [
+    "Yashash uchun yaroqsiz holga keldi.",
+    "Yashash-uchun yaroqsiz holga keldi.",
+    "Yashashuchun yaroqsiz holga keldi.",
+    "Yashash uch-un yaroqsiz holga keldi."
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun ko'makchi o'zidan oldingi so'z bilan ohang jihatidan bir butunlikni tashkil qilsa ham, yozuvda ajratib yoziladi?",
+   "variantlar": [
+    "Chunki u doim urg'u oladi",
+    "Chunki u urg'u olmaydi, lekin alohida so'z sifatida yoziladi",
+    "Chunki u mustaqil so'z turkumi",
+    "Chunki u faqat she'riy nutqda qo'llanadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi gapda ko'makchi imlosi to'g'ri berilgan?",
+   "variantlar": [
+    "Do'stlar-la safarga chiqdim.",
+    "Do'stlar la safarga chiqdim.",
+    "Do'stlarla-safarga chiqdim.",
+    "Do'stlar -la safarga chiqdim."
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Yerni go'zal qilgani sayin go'zal bo'lar o'zi ham inson\" misrasidagi \"sayin\" ko'makchisi qaysi so'z bilan birga kelib, qanday ma'no bildiradi?",
+   "variantlar": [
+    "\"inson\" bilan, maqsadni",
+    "\"yerni\" bilan, o'rinni",
+    "\"qilgani\" bilan, harakatning davomiyligiga qarab o'zgarishni",
+    "\"go'zal\" bilan, sababni"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi gapda \"bilan\" ko'makchisi vosita (qurol) ma'nosini bildiradi?",
+   "variantlar": [
+    "Ustoz bilan suhbatlashdim.",
+    "Do'stim bilan maktabga bordim.",
+    "Uni namat bilan qonni to'xtatdilar.",
+    "Akam bilan sayr qildim."
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi gaplarning qaysi birida sof ko'makchi ishtirok etmagan?",
+   "variantlar": [
+    "Kitob stol uchun olindi.",
+    "Kitob stol ustida turibdi.",
+    "Bola do'sti bilan keldi.",
+    "U tongdan kechgacha ishladi, sari yo'l oldi."
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Qalam-la\", \"safarga do'stlar-la\", \"shoh satrlar-la\" birikmalaridagi \"-la\" haqida qaysi fikr to'g'ri?",
+   "variantlar": [
+    "U ravish bo'lib, ajratib yoziladi",
+    "U qo'shimcha bo'lib, so'zga qo'shib yoziladi",
+    "U \"bilan\" ko'makchisining badiiy shakli bo'lib, chiziqcha bilan yoziladi",
+    "U \"uchun\" ko'makchisining shakli bo'lib, ajratib yoziladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Kabi\" ko'makchisi haqida qaysi fikr to'g'ri?",
+   "variantlar": [
+    "U badiiy uslubda \"-chun\" shaklida qo'llanadi",
+    "U mustaqil so'z bo'lib, urg'u oladi",
+    "U qo'shimcha bo'lib, so'zga qo'shib yoziladi",
+    "U sof ko'makchi bo'lib, urg'u olmaydi va ajratib yoziladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Bu to'g'rida maktab direktori, o'qituvchilar gapirsa, o'zimga olmas edim\" gapidagi \"to'g'rida\" so'zi bilan bir xil vazifa bajaradigan sof ko'makchi qaysi?",
+   "variantlar": [
+    "kabi",
+    "sari",
+    "haqida",
+    "sayin"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Ona tili",
+ "mavzu": "ERGASHTIRUVCHI BOG'LOVCHILAR",
+ "savollar": [
+  {
+   "savol": "Matnga ko'ra, ergashtiruvchi bog'lovchilarning nechta turi keltirilgan?",
+   "variantlar": [
+    "Uchta: aniqlov, sabab va shart",
+    "Bitta: sabab",
+    "To'rtta: aniqlov, sabab, shart va maqsad",
+    "Ikkita: sabab va shart"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri aniqlov bog'lovchisi?",
+   "variantlar": [
+    "Negaki",
+    "Agar",
+    "Chunki",
+    "Ya'ni"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri sabab bog'lovchisi?",
+   "variantlar": [
+    "Chunki",
+    "Basharti",
+    "Garchi",
+    "Ya'ni"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar, basharti, garchi bog'lovchilari qaysi turga kiradi?",
+   "variantlar": [
+    "Shart bog'lovchilari",
+    "Aniqlov bog'lovchilari",
+    "Sabab bog'lovchilari",
+    "Biriktiruvchi bog'lovchilar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chunki va negaki bog'lovchilari qanday ma'noni ifodalaydi?",
+   "variantlar": [
+    "Shart ma'nosini",
+    "Sabab ma'nosini",
+    "Qarama-qarshilik ma'nosini",
+    "Aniqlashtirish ma'nosini"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yozuvda chunki va negaki bog'lovchilaridan oldin qanday belgi qo'yiladi?",
+   "variantlar": [
+    "Nuqta",
+    "Vergul",
+    "Ikki nuqta",
+    "Tire"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aniqlov bog'lovchisi qanday ma'no ifodalaydi?",
+   "variantlar": [
+    "Shart ma'nosini",
+    "Payt ma'nosini",
+    "Sabab ma'nosini",
+    "Aniqlashtirish ma'nosini"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ergashtiruvchi bog'lovchilar gap bo'laklari va gaplarni qanday bog'laydi?",
+   "variantlar": [
+    "Ajratib qo'yadi",
+    "Faqat takrorlaydi",
+    "Tenglashtirib bog'laydi",
+    "Tobelantirib bog'laydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sabab bog'lovchilari nima uchun shunday nomlanadi?",
+   "variantlar": [
+    "Ular gaplar o'rtasida shart bildirgani uchun",
+    "Ular gaplar o'rtasidagi sabab ma'nosini ifodalagani uchun",
+    "Ular so'zlarni aniqlashtirgani uchun",
+    "Ular faqat savol gaplarda keladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi so'zlardan qaysi biri bog'lovchi hisoblanadi?",
+   "variantlar": [
+    "Lekin",
+    "Juda",
+    "Hozir",
+    "Asta"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Vatanimiz poytaxtida, ya'ni Toshkentda diqqatga sazovor joylar ko'p\" gapidagi \"ya'ni\" bog'lovchisi qaysi turga kiradi?",
+   "variantlar": [
+    "Aniqlov bog'lovchisi",
+    "Shart bog'lovchisi",
+    "Sabab bog'lovchisi",
+    "Ergashtiruvchi emas, hech qaysi turga kirmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Qiz kasbni qunt bilan o'rgandi, ... zavodda bu kasbga ehtiyoj katta edi\" gapida nuqtalar o'rniga qaysi bog'lovchi mos keladi?",
+   "variantlar": [
+    "Negaki",
+    "Ya'ni",
+    "Basharti",
+    "Agar"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Xalq bunday yolborishlarga quloq solmadi, ... g'isht qolipdan ko'chgan edi\" gapida qaysi bog'lovchi mos keladi?",
+   "variantlar": [
+    "Chunki",
+    "Va",
+    "Ya'ni",
+    "Ammo"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Badantarbiya bilan shug'ullanmagan kishi kasalga chalinadi, chunki harakatsizlik natijasida a'zolar zaiflashadi\" gapida sabab bog'lovchisi qaysi?",
+   "variantlar": [
+    "Natijasida",
+    "Kishi",
+    "Chunki",
+    "Bilan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Kishining iste'dodi barcha sohada bir xil bo'lavermaydi, ... yoshlar sevgan ishni tanlay bilishi kerak\" gapida matnga ko'ra qaysi bog'lovchi mos?",
+   "variantlar": [
+    "Chunki",
+    "Ya'ni",
+    "Agar",
+    "Garchi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Nega u siznikida yuradi? – Negaki boradigan joyi yo'q.\" javobidagi \"negaki\" nimani bildiradi?",
+   "variantlar": [
+    "Sabab ma'nosini",
+    "Qarama-qarshilikni",
+    "Aniqlashtirishni",
+    "Shart ma'nosini"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi qatorlarning qaysi birida faqat ergashtiruvchi bog'lovchilar berilgan?",
+   "variantlar": [
+    "Ya'ni, hamda, lekin",
+    "Agar, ammo, lekin",
+    "Chunki, negaki, ya'ni",
+    "Chunki, hamda, garchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Bu xabar unda norozilik tug'dirmadi, chunki ertaroq qaytishga orzumand emas edi\" gapida vergul qayerga qo'yilgan?",
+   "variantlar": [
+    "Vergul kerak emas",
+    "Chunki bog'lovchisidan keyin",
+    "Chunki bog'lovchisidan oldin",
+    "Gap oxiriga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Toshkentda ... poytaxtimizda diqqatga sazovor joylar ko'p\" kabi gapda bir so'zni boshqasi bilan aniqlashtirish uchun qaysi bog'lovchi ishlatiladi?",
+   "variantlar": [
+    "Garchi",
+    "Chunki",
+    "Negaki",
+    "Ya'ni"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi gaplardan qaysi birida sabab bog'lovchisi qatnashgan?",
+   "variantlar": [
+    "Shamol o'kirar, ammo bular uni qo'rqitolmas edi.",
+    "Ota ko'chat ekadi va bog' yaratadi.",
+    "Qo'rqoq do'st dushmandan xavflidir, chunki dushmandan ehtiyot bo'lasan.",
+    "Taraqqiyot tasodif emas, balki zaruriyatdir."
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Zavqiy Mo'minboy bilan uzoq ishlay olmadi, ... boy va uning ukalarini hajv qilgani sababli ishdan bo'shatildi\" gapiga qaysi bog'lovchi mos keladi?",
+   "variantlar": [
+    "Ya'ni",
+    "Garchi",
+    "Agar",
+    "Chunki"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi gaplarning qaysi birida sabab bog'lovchisi ishtirok etmagan?",
+   "variantlar": [
+    "Nega u yuradi? – Negaki boradigan joyi yo'q.",
+    "Vaqt ketdi, chunki yo'l qiyin edi.",
+    "Hamon shamol o'kirar, ammo endi bular uni qo'rqitolmas edi.",
+    "Bu xabar norozilik tug'dirmadi, chunki u qaytishga shoshilmasdi."
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi javobda bog'lovchining turi ham, uning ma'nosi ham to'g'ri juftlangan?",
+   "variantlar": [
+    "Chunki – shart, shart ma'nosi",
+    "Agar – sabab, sabab ma'nosi",
+    "Negaki – aniqlov, aniqlashtirish",
+    "Ya'ni – aniqlov, aniqlashtirish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi qatorda har uchala bog'lovchi ham turli turga mansub (aniqlov, sabab, shart tartibida)?",
+   "variantlar": [
+    "Negaki, chunki, garchi",
+    "Chunki, ya'ni, basharti",
+    "Agar, negaki, ya'ni",
+    "Ya'ni, chunki, agar"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun \"Tarixing bitmakka, xalqim, mingta Firdavsiy kerak, ... bir bor chekkan ohing mingta doston\" gapidagi bo'shliqqa \"chunki\" mos keladi?",
+   "variantlar": [
+    "Chunki ikkinchi qism birinchi qismning sababini bildiradi",
+    "Chunki u shart ma'nosini bildiradi",
+    "Chunki u so'zni aniqlashtiradi",
+    "Chunki u qarama-qarshilik bildiradi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Ish yaxshi bo'ldi, ... Yomontosh darasi ular kutganday mudhish emas edi\" gapida ikkinchi qism birinchisining sababini ochib beradi. Qaysi bog'lovchi mos va uning oldiga nima qo'yiladi?",
+   "variantlar": [
+    "Agar, ikki nuqta",
+    "Chunki, vergul",
+    "Garchi, tire",
+    "Ya'ni, nuqta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi 4 ta gapdan (\"Ya'ni\" ishtirok etgan) qaysi biri aniqlov bog'lovchisi bilan tuzilgan?",
+   "variantlar": [
+    "Taraqqiyot tasodif emas, balki zaruriyatdir.",
+    "Qo'rqoq do'st dushmandan xavflidir, chunki dushmandan ehtiyot bo'lasan.",
+    "Ota nevaralarini yeyishar deb, har bahorda ko'chat ekadi.",
+    "Vatanimiz poytaxtida, ya'ni Toshkentda diqqatga sazovor joylar ko'p."
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'quvchi \"Men kitob o'qidim, ... imtihonga tayyorlanishim kerak edi\" gapini yozmoqda. Bu yerda sabab ma'nosi va yozuv qoidasi bo'yicha qaysi variant to'g'ri?",
+   "variantlar": [
+    "kitob o'qidim, agar imtihonga tayyorlanishim kerak edi",
+    "kitob o'qidim chunki, imtihonga tayyorlanishim kerak edi",
+    "kitob o'qidim, chunki imtihonga tayyorlanishim kerak edi",
+    "kitob o'qidim. Ya'ni imtihonga tayyorlanishim kerak edi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi fikrlardan qaysi biri matnga ko'ra to'g'ri?",
+   "variantlar": [
+    "Chunki va negaki sabab bog'lovchilari bo'lib, ulardan oldin vergul qo'yiladi",
+    "Agar aniqlov bog'lovchisi hisoblanadi",
+    "Ya'ni sabab bog'lovchisi bo'lib, undan oldin vergul qo'yilmaydi",
+    "Garchi sabab bog'lovchisi hisoblanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Faqat, ammo, uchun, juda, asta, chunki, hozir, sal, ya'ni, so'ng, lekin, hamda\" qatoridagi ergashtiruvchi bog'lovchilar to'g'ri berilgan javobni toping.",
+   "variantlar": [
+    "Chunki, ya'ni",
+    "Uchun, so'ng",
+    "Faqat, hamda",
+    "Ammo, lekin"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

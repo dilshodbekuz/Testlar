@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Rus tili",
+ "mavzu": "Погода",
+ "savollar": [
+  {
+   "savol": "Zimani oylariga quyidagilar mansub?",
+   "variantlar": [
+    "Iyun, iyul, avgust",
+    "Sentabr, oktyabr, noyabr",
+    "Dekabr, yanvar, fevral",
+    "Mart, aprel, may"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zimada pogoda qanday bo'ladi?",
+   "variantlar": [
+    "Sovuq",
+    "Issiq",
+    "Changlu",
+    "Iliq"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bahorida o't qanday bo'ladi?",
+   "variantlar": [
+    "Sarg'ayadi",
+    "Ko'zaladi",
+    "Pashaydi",
+    "Qoraydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yozda pogoda qanday?",
+   "variantlar": [
+    "Issiq",
+    "Mushuk",
+    "Iliq",
+    "Sovuq"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kuzayda yomg'ir yog'adimi?",
+   "variantlar": [
+    "Yo'q",
+    "Faqat bir marta",
+    "Tez-tez emas",
+    "Ha"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bahorni oylariga quyidagilar mansub?",
+   "variantlar": [
+    "Sentabr, oktyabr, noyabr",
+    "Iyun, iyul, avgust",
+    "Mart, aprel, may",
+    "Dekabr, yanvar, fevral"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zimada ne yog'adi?",
+   "variantlar": [
+    "To'r",
+    "Yomg'ir",
+    "Qo'n",
+    "Qor"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bahorida qushlar nima qiladi?",
+   "variantlar": [
+    "Uyalashadi",
+    "Keladi",
+    "Ketadi",
+    "O'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kuzayda bolalar qayga borishadi?",
+   "variantlar": [
+    "Parkka",
+    "Basseyniga",
+    "Maktabga",
+    "Xo'jaligiga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yozda o'g'il bolalar nima o'ynashadi?",
+   "variantlar": [
+    "Hokkey",
+    "Futbol",
+    "Badminton",
+    "Voleybol"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zimada Rustam nima qilmoqda?",
+   "variantlar": [
+    "Qushlarni ko'rishadi",
+    "Qushlarni o'ldiradi",
+    "Qushlarni tutadi",
+    "Qushlarni ovqatlantiriladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bahorida Oilya qayerda gulmadi?",
+   "variantlar": [
+    "Uyda",
+    "Parkda",
+    "Darvozada",
+    "Maktabda"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yozda bolalar qayerda sho'nashadi?",
+   "variantlar": [
+    "Oromgohda",
+    "Hovuzda",
+    "Daryoda",
+    "Basseynida"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar bahorida qor ersa va o't ko'zalasa, u nima fasl?",
+   "variantlar": [
+    "Yoz",
+    "Bahor",
+    "Kuzay",
+    "Zima"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zimada Masha nima yasadi?",
+   "variantlar": [
+    "Qor to'pi",
+    "Qor puli",
+    "Qor kitob",
+    "Qor uy"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yozda Serozha nima qiladi?",
+   "variantlar": [
+    "Kitob yozadi",
+    "Kitob o'qiydi",
+    "Futbol o'ynaydi",
+    "Dars tayyorlaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kuzayda qushlar qayga ketadi?",
+   "variantlar": [
+    "Iliq mamlakatlariga",
+    "Shimolga",
+    "Shumalga",
+    "Markazga"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yozda Gailya va Anvar nima qilishadi?",
+   "variantlar": [
+    "Daryoda sho'nashadi",
+    "Qanot yig'adi",
+    "Qor haydaladi",
+    "Gullashadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bahorida daraxtlar qanday bo'ladi?",
+   "variantlar": [
+    "Pashaydi",
+    "Qoraydi",
+    "Sarg'ayadi",
+    "Gulladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bahorida Koilya nima qildi?",
+   "variantlar": [
+    "Kema yasadi",
+    "Qo'shiq kuyladi",
+    "Rasm chizdi",
+    "Sanki haydaladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dekabr, yanvar, fevral qaysi faslning oylariga mansub?",
+   "variantlar": [
+    "Kuzay",
+    "Bahor",
+    "Yoz",
+    "Zima"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi fasllarni harorat bo'yicha tartiblasak, eng sovuq fasl qaysi?",
+   "variantlar": [
+    "Kuzay",
+    "Bahor",
+    "Zima",
+    "Yoz"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yozda nechta bolaning harakati matnnda aytilgan?",
+   "variantlar": [
+    "Oltida",
+    "Ikkida",
+    "Bittada",
+    "To'rttada"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar zimada qor, bahorida o't ko'zalsa, yozda issiq bo'lsa, bu qanday ko'rsatadi?",
+   "variantlar": [
+    "Fasllar turli-turli",
+    "Hech nima",
+    "Fasllar bir xil",
+    "Yumaloq aylanish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qushlarning harakati zimada va kuzayda qanday farq qiladi?",
+   "variantlar": [
+    "Ikkalavida ketadi",
+    "Ikkalavida keladi",
+    "Zimada ketadi, kuzayda keladi",
+    "Zimada keladi, kuzayda ketadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Fasllarni harakati bo'yicha solishtirmasak, eng faoliy fasl qaysi?",
+   "variantlar": [
+    "Bahorida",
+    "Kuzayda",
+    "Zimada",
+    "Yozda"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Oylarning ketma-ketligi aniqlansak, zimadan boshlab qancha fasl bo'ladi?",
+   "variantlar": [
+    "Bittada",
+    "Ikkiga",
+    "To'rttaga",
+    "Sakkizga"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sevora yozda nima qiladi va bu qaysi faslga tegishli?",
+   "variantlar": [
+    "Qanot yig'adi, bahorga",
+    "Qanot yig'adi, yozga",
+    "Qor yasadi, zimaga",
+    "Dars tayyorlaydi, kuzayga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zimada bolalarning harakatlari o'ylansak, ular qanday xarakterga ega?",
+   "variantlar": [
+    "Tiniq va sof",
+    "Faoliy va energik",
+    "Harakatsiz",
+    "Uzun va uzoq"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi faslda qushlar ketadi va bolalar maktabga borishadi?",
+   "variantlar": [
+    "Yoz",
+    "Zima",
+    "Bahor",
+    "Kuzay"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

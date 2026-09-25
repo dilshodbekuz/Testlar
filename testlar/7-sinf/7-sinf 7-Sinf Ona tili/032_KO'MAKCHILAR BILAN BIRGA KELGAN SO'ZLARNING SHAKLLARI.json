@@ -1,0 +1,337 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Ona tili",
+ "mavzu": "KO'MAKCHILAR BILAN BIRGA KELGAN SO'ZLARNING SHAKLLARI",
+ "savollar": [
+  {
+   "savol": "Quyidagi ko'makchilardan qaysi biri bosh kelishik shaklidagi ismlarga qo'shiladi?",
+   "variantlar": [
+    "bilan",
+    "ko'ra",
+    "bo'lak",
+    "keyin"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi ko'makchilar guruhi jo'nalish kelishigi shaklidagi ismlarga qo'shiladi?",
+   "variantlar": [
+    "kabi, singari, uchun, sari",
+    "ko'ra, qaramay, yarasha, asosan, doir, muvofiq",
+    "keyin, bo'lak, boshqa, o'zga",
+    "old, ost, ust"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chiqish kelishigi shaklidagi ismlarga qaysi ko'makchi qo'shiladi?",
+   "variantlar": [
+    "sayin",
+    "singari",
+    "buyon",
+    "bo'ylab"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi ko'makchi bosh va jo'nalish kelishigi shaklidagi ismlarga qo'shiladi?",
+   "variantlar": [
+    "tomon",
+    "keyin",
+    "ko'ra",
+    "uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Old, ost, ust singari vazifadosh ko'makchilar qaysi kelishik shaklidagi ismlarga qo'shiladi?",
+   "variantlar": [
+    "tushum kelishigi",
+    "qaratqich kelishigi",
+    "o'rin-payt kelishigi",
+    "bosh kelishik"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi ko'makchilardan qaysi biri bosh kelishik shaklidagi ismlar bilan qo'llanmaydi?",
+   "variantlar": [
+    "sayin",
+    "singari",
+    "muvofiq",
+    "bo'ylab"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Old, ost, ust kabi ko'makchilar bilan kelgan ismlarda kelishik qo'shimchasi haqida to'g'ri fikr qaysi?",
+   "variantlar": [
+    "kelishik qo'shimchasi hech qachon qo'llanmaydi",
+    "doim tushum kelishigida bo'ladi",
+    "doim chiqish kelishigida bo'ladi",
+    "ba'zan kelishik qo'shimchasi qo'llanmasligi ham mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi qatorda barcha ko'makchilar chiqish kelishigidagi ismlar bilan keladi?",
+   "variantlar": [
+    "ko'ra, yarasha, doir, asosan",
+    "kabi, singari, sayin, sari",
+    "bilan, uchun, tomon, ko'ra",
+    "keyin, oldin, avval, buyon"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "«Borgan sari» birikmasidagi «sari» ko'makchisi qaysi guruhga kiradi?",
+   "variantlar": [
+    "qaratqich kelishigidagi so'z bilan keladigan ko'makchilar",
+    "bosh kelishikdagi so'z bilan keladigan ko'makchilar",
+    "jo'nalish kelishigidagi so'z bilan keladigan ko'makchilar",
+    "chiqish kelishigidagi so'z bilan keladigan ko'makchilar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "«Mehnatiga yarasha» birikmasidagi «yarasha» ko'makchisi qaysi kelishik shaklidagi so'z bilan qo'llangan?",
+   "variantlar": [
+    "jo'nalish kelishigi",
+    "qaratqich kelishigi",
+    "chiqish kelishigi",
+    "bosh kelishik"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi gapda ko'makchi to'g'ri kelishik shaklidagi so'z bilan qo'llangan?",
+   "variantlar": [
+    "Qarorning asosan ish boshlandi.",
+    "Qaror asosan ish boshlandi ko'ra.",
+    "Qarordan asosan ish boshlandi.",
+    "Qarorga asosan ish boshlandi."
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi birikmada ko'makchi chiqish kelishigidagi so'z bilan to'g'ri qo'llangan?",
+   "variantlar": [
+    "tushdan keyin",
+    "tush keyin sari",
+    "tushning bilan",
+    "tushga keyin"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Har qadam ... sayin zaiflasha boradi» gapida nuqtalar o'rniga qaysi shakl to'g'ri keladi?",
+   "variantlar": [
+    "qadamga",
+    "qadamning",
+    "qadamdan",
+    "qadam (bosh kelishik, qo'shimchasiz)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Qishloq ... tomon yurdi» gapida nuqtalar o'rniga qaysi shakl to'g'ri keladi?",
+   "variantlar": [
+    "qishloqqa",
+    "qishloqning",
+    "qishloqni",
+    "qishloqda"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Bir hafta ... beri Namanganda dam olardi» gapida nuqtalar o'rniga qaysi shakl to'g'ri keladi?",
+   "variantlar": [
+    "haftaga",
+    "haftadan",
+    "haftada",
+    "haftani"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«O'g'li ... oldiga borganda» birikmasida nuqtalar o'rniga qaysi shakl to'g'ri keladi (vazifadosh ko'makchi «old» bilan)?",
+   "variantlar": [
+    "o'g'lidan",
+    "o'g'lining",
+    "o'g'liga",
+    "o'g'lini"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Boyazid ... ustiga yurishga qaror qilindi» gapida nuqtalar o'rniga qaysi shakl to'g'ri keladi?",
+   "variantlar": [
+    "Boyazidda",
+    "Boyazidning",
+    "Boyazidni",
+    "Boyazidga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi gapda «keyin» so'zi ko'makchi vazifasida kelgan?",
+   "variantlar": [
+    "Ta'tildan keyin maktabga qaytdik.",
+    "Keyin nima bo'lganini so'radim.",
+    "U keyin gapirdi.",
+    "Keyin ham kech emas."
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi gapda «ichida» so'zi ko'makchi vazifasida kelgan?",
+   "variantlar": [
+    "Bir hafta ichida kitobni yodlab oldi.",
+    "Ichida gapirdi.",
+    "U ichida o'yladi.",
+    "Ichida qo'rquv bor edi."
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Sen bilan» birikmasida «bilan» ko'makchisi qaysi kelishikdagi so'zga bog'langan?",
+   "variantlar": [
+    "qaratqich kelishigi",
+    "chiqish kelishigi",
+    "jo'nalish kelishigi",
+    "bosh kelishik"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi qatorda har bir ko'makchi turli kelishik shaklidagi so'z bilan qo'llangan (bosh, jo'nalish, chiqish tartibida)?",
+   "variantlar": [
+    "uchun, ko'ra, keyin",
+    "sari, bo'lak, sayin",
+    "keyin, uchun, ko'ra",
+    "ko'ra, keyin, uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Qarorga asosan», «o'qishdan so'ng», «gul singari» birikmalaridagi so'zlar qaysi kelishiklarda ekan (mos tartibda)?",
+   "variantlar": [
+    "jo'nalish, bosh, chiqish",
+    "bosh, jo'nalish, chiqish",
+    "jo'nalish, chiqish, bosh",
+    "chiqish, bosh, jo'nalish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi qatorda barcha birikmalar to'g'ri tuzilgan?",
+   "variantlar": [
+    "va'dani muvofiq, bundan bo'lak, daryoning bo'ylab",
+    "va'dadan muvofiq, bundan bo'lak, daryoga bo'ylab",
+    "va'daga muvofiq, bundan bo'lak, daryo bo'ylab",
+    "va'daga muvofiq, bunga bo'lak, daryodan bo'ylab"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi qatorda ko'makchilarning barchasi jo'nalish kelishigidagi so'zlar bilan keladi (tomon bundan mustasno bo'lgan holda, matnga ko'ra)?",
+   "variantlar": [
+    "ko'ra, avval, qaramay",
+    "doir, muvofiq, yarasha",
+    "muvofiq, oldin, asosan",
+    "doir, keyin, yarasha"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Uyga tomon» va «uy tomon» birikmalari haqida qaysi fikr to'g'ri?",
+   "variantlar": [
+    "Ikkalasi ham noto'g'ri",
+    "Faqat «uyga tomon» to'g'ri",
+    "Faqat «uy tomon» to'g'ri",
+    "Ikkalasi ham to'g'ri: «tomon» bosh va jo'nalish kelishigidagi so'zlarga qo'shiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Shunga qaramay» va «bundan boshqa» birikmalarida ko'makchilar bog'langan so'zlarning kelishiklari qaysi qatorda to'g'ri berilgan?",
+   "variantlar": [
+    "chiqish va jo'nalish",
+    "bosh va chiqish",
+    "jo'nalish va bosh",
+    "jo'nalish va chiqish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi ko'makchilardan nechtasi chiqish kelishigidagi so'zlarga qo'shiladi: keyin, bilan, bo'lak, ko'ra, buyon, uchun, avval?",
+   "variantlar": [
+    "5 ta",
+    "4 ta",
+    "3 ta",
+    "2 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi ko'makchilardan nechtasi jo'nalish kelishigidagi so'zlarga qo'shiladi: asosan, sari, doir, oldin, yarasha, muvofiq, uchun?",
+   "variantlar": [
+    "4 ta",
+    "6 ta",
+    "3 ta",
+    "5 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Tushdan keyin uyga qaytdim» gapida ko'makchi va u bog'langan so'z kelishigi qaysi javobda to'g'ri ko'rsatilgan?",
+   "variantlar": [
+    "keyin – chiqish kelishigidagi «tushdan» so'zi bilan",
+    "keyin – bosh kelishikdagi «tush» so'zi bilan",
+    "keyin – jo'nalish kelishigidagi «tushga» so'zi bilan",
+    "uyga – bosh kelishikdagi so'z bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«O'qigan sayin bilimi oshdi» va «Ishiga ko'ra haq oldi» gaplaridagi ko'makchilar bog'langan so'zlarning kelishiklari qaysi qatorda to'g'ri berilgan?",
+   "variantlar": [
+    "chiqish va bosh",
+    "bosh va jo'nalish",
+    "jo'nalish va bosh",
+    "chiqish va jo'nalish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}
