@@ -1,0 +1,326 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Informatika",
+ "mavzu": "18-dars. WordArt obyekti va sarvaraq (titul) yaratish",
+ "savollar": [
+  {
+   "savol": "WordArt so'zining \"Word\" va \"Art\" qismlari nimani anglatadi?",
+   "variantlar": [
+    "\"Word\" (so'z) va \"Art\" (rasm) ma'nolarini anglatadi",
+    "\"Word\" (hujjat) va \"Art\" (jadval) ma'nolarini anglatadi",
+    "\"Word\" (matn) va \"Art\" (san'at) ma'nolarini anglatadi",
+    "\"Word\" (shrift) va \"Art\" (rang) ma'nolarini anglatadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "WordArt objekti menyu tasmasidagi qaysi bo'limning Tekst panelida topiladi?",
+   "variantlar": [
+    "Inserka bo'limi",
+    "Format bo'limi",
+    "Tablica bo'limi",
+    "Diseyn bo'limi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sichqoncha ko'rsatkichi bilan WordArt tugmachasini bosilgach, nima hosil bo'ladi?",
+   "variantlar": [
+    "WordArt obyektining yozuv stillari",
+    "Jadval oynasi",
+    "Ramka parametrlari",
+    "Sahifa dizayni oynasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Joylashtirilgan WordArt objektning qanday parametrlarini o'zgartirib bo'ladi?",
+   "variantlar": [
+    "Faqat rangi",
+    "Shrift va rangi",
+    "Faqat pozitsiyasi",
+    "Faqat o'lchami"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Risunok (4) bo'limidagi qaysi tugmacha rasmli ramkalar ro'yxatini ochadi?",
+   "variantlar": [
+    "To'rtburchak tugmachasi",
+    "Kvadrat tugmachasi",
+    "Uchburchak tugmachasi",
+    "Doira tugmachasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tanlangan ramka qayga tegishli sanaladi?",
+   "variantlar": [
+    "Butun hujjatga",
+    "Faqat birinchi sahifaga",
+    "Faqat jadvallarni",
+    "Faqat rasmli joyga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hoshiya chiziqlari (ramka) joylashtirish uchun menyu tasmasidagi qaysi bo'lim tanlanadi?",
+   "variantlar": [
+    "Tablica bo'limi",
+    "Diseyn bo'limi",
+    "Inserka bo'limi",
+    "Format bo'limi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Boundaries i zalivki oynasi nimani sozlash uchun mo'ljallangan?",
+   "variantlar": [
+    "Jadval elementlarini shakllantirish",
+    "Sahifa rangini o'zgartirilish",
+    "Shriftni o'zgartirilish",
+    "Ramka parametrlarini tanlash"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Granici stranicy piktogrammasi qayda joylashgan?",
+   "variantlar": [
+    "Diseyn bo'limining Фон страницы panelida",
+    "Format bo'limining Shrift panelida",
+    "Tablica bo'limining bosh panelida",
+    "Inserka bo'limining Risunok panelida"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "WordArt objektni joylashtirgandan so'ng, uning qaysi xususiyatlari o'zgartirilishi mumkin?",
+   "variantlar": [
+    "Shrift va rangi",
+    "Faqat stilini",
+    "Faqat o'lchami",
+    "Faqat pozitsiyasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ramkani sarvaraqqa o'rnatish uchun qaysi oynaga murojaat qilish kerak?",
+   "variantlar": [
+    "WordArt oynasi",
+    "Tablica oynasi",
+    "Diseyn oynasi",
+    "Boundaries i zalivki oynasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sahifaga hoshiya chiziqlari joylash uchun qanday ketma-ketlik to'g'ri?",
+   "variantlar": [
+    "Format > Shrift > Ramka",
+    "Inserka > Risunok > Boundaries",
+    "Diseyn > Фон страницы > Granici stranicy",
+    "Tablica > Obedinit > Boundaries"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Risunok bo'limidagi uchburchak tugmachasi bosilgach, nima boshlashga to'g'ri keladi?",
+   "variantlar": [
+    "Jadval yaratiladi",
+    "Rasmli ramkalar ro'yxati hosil bo'ladi",
+    "Shrift o'zgartiriladi",
+    "Rang tanlanadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "WordArt objektni joylashtirgandan so'ng, uning yozuv stilini o'zgartirilishi mumkinmi?",
+   "variantlar": [
+    "Ha, Inserka > Tekst panelidan",
+    "Yo'q, stil o'zgartirilmaydi",
+    "Ha, Boundaries oynasi orqali",
+    "Ha, lekin faqat Diseyn menyu orqali"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Diseyn bo'limida Фон страницы panelini tanlagach, qanday parametrlarni tanlash mumkin?",
+   "variantlar": [
+    "Granici stranicy va boshqa fon parametrlari",
+    "Faqat jadval parametrlari",
+    "Faqat shrift parametrlari",
+    "Faqat rasm parametrlari"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hujjatga ramka joylash uchun qanday menyu tanlanadi?",
+   "variantlar": [
+    "Diseyn menyu",
+    "Format menyu",
+    "Inserka menyu",
+    "Tablica menyu"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Boundaries i zalivki oynasidagi Parametry bo'limi nimani sozlashga yordam beradi?",
+   "variantlar": [
+    "Sahifa o'lchamini",
+    "WordArt shrift va rangini",
+    "Ramka parametrlarini sarvaraqqa o'rnatishni",
+    "Jadval elementlarini"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sahifaning fon parametrlarini o'zgartirilishni qanday boshlasiz?",
+   "variantlar": [
+    "Inserka > Risunok",
+    "Tablica > Obedinit",
+    "Diseyn > Фон страницы",
+    "Format > Shrift"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Risunok (4) bo'limida turli ramka turlarini ko'rish uchun qaysi tegishli amalni bajariladi?",
+   "variantlar": [
+    "Uchburchak tugmachasi bosiladi",
+    "To'rtburchak tugmachasi bosiladi",
+    "Doira tugmachasi bosiladi",
+    "Kvadrat tugmachasi bosiladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar sarvaraq yaratmoqchi bo'lsangiz, WordArt va ramkalardan foydalanmoqchi bo'lsangiz, qaysi ketma-ketlikda amallarni bajarasiz?",
+   "variantlar": [
+    "Avval ramka, keyin WordArt, keyin rang",
+    "Avval WordArt yaratish, shrift va rangini o'zgartirish, keyin ramka qo'shish",
+    "Avval jadval, keyin WordArt, keyin ramka",
+    "Avval rang, keyin jadval, keyin WordArt"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hujjatning birinchi sahifasiga WordArt yozuvi qo'shib, uning rangini va shriftini o'zgartirib, keyin ramka qo'shmoqchi bo'lsangiz, qanday bosqichlarni bajarasiz?",
+   "variantlar": [
+    "Jadval yaratib, keyin WordArt qo'shish",
+    "Ramka qo'shib, keyin WordArt, keyin rang",
+    "Faqat WordArt tanlab, keyin Diseyn menyu",
+    "WordArt tanlab, rangini tanlash > Diseyn > Granici stranicy"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Boundaries i zalivki oynasida ramka turi, rangi va qalinligining hammasini o'zgartirilmoqchi bo'lsangiz, qanday amalni bajarasiz?",
+   "variantlar": [
+    "Parametrlarni o'zgartirilish imkonsiz",
+    "Har bir parametrni alohida tanlash va o'zgartirilish",
+    "Faqat ramka turini o'zgartirilish mumkin",
+    "Bir paytda faqat rang o'zgartiriladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Inserka bo'limidan Tekst paneli orqali WordArt obyek yaratib, uning yozuv stilini tanlang, rangi va shriftini o'zgartirib, keyin sahifaga ramka qo'shmoqchi bo'lsangiz, menyu va panelarning qaysi ketma-ketligi to'g'ri?",
+   "variantlar": [
+    "Tablica > Obedinit > Format",
+    "Diseyn > Inserka > Boundaries",
+    "Inserka > Tekst > uning parametrlari o'zgartiriladi > Diseyn > Фон страницы > Granici stranicy",
+    "Inserka > Tekst > Diseyn > Boundaries"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Risunok (4) bo'limini qo'llash orqali qanday ramka variantlarini ko'rib olish mumkin?",
+   "variantlar": [
+    "Faqat bezatilgan rasmli ramkalar",
+    "Faqat rang o'zgartirilgan ramkalar",
+    "Faqat standart ramkalar",
+    "Standart va bezatilgan rasmli nostandart ramkalar"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar siz darslik matni asosida to'liq sarvaraq (titul) yaratmoqchi bo'lsangiz, qanday texnik vositalar va amallarni ketma-ketlikda qo'llashga to'g'ri keladi?",
+   "variantlar": [
+    "Faqat jadval yaratish",
+    "Faqat rasm joylash",
+    "Faqat rang tanlash",
+    "WordArt qo'shish, shrift va rang o'zgartirilishi, ramka qo'shish, hoshiya chiziqlari tanlash"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "WordArt objektning yozuv stilini Inserka > Tekst panelidan tanlargandan so'ng, objektning qanday qo'shimcha parametrlarini sozlashi mumkin?",
+   "variantlar": [
+    "Faqat pozitsiyasini",
+    "Faqat o'lchamini",
+    "Shrift, rangi va boshqa xususiyatlarini",
+    "Faqat jadval parametrlarini"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar ramkani sarvaraqqa to'g'ri o'rnatmoqchi bo'lsangiz, Boundaries i zalivki oynasida qaysi bo'limning parametrlarini joriy qilish kerak?",
+   "variantlar": [
+    "Parametry bo'limidagi barcha sozlamalar",
+    "Faqat turini",
+    "Faqat qalinligi",
+    "Faqat rangi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Diseyn bo'limi, Фон страницы paneli va Granici stranicy piktogrammasini ketma-ketlikda qo'llash orqali qanday natijaga erishasiz?",
+   "variantlar": [
+    "Sahifaning hoshiya chiziqlari parametrlarini tanlash oynasi ochiladi",
+    "Faqat jadval yaratiladi",
+    "Shrift o'zgartiriladi",
+    "Faqat WordArt ob'ekti yaratiladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "WordArt ya'ni \"Word\" (matn) va \"Art\" (san'at) ma'nolaridagi bu objektning asosiy maqsadi nima?",
+   "variantlar": [
+    "Rasm joylash",
+    "Matnni san'atshunoslik tarzda bezatish",
+    "Formulalar yozish",
+    "Jadval yaratish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

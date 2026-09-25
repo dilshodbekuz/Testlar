@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Matematika (2-qism)",
+ "mavzu": "To'g'ri va noto'g'ri kasrlar",
+ "savollar": [
+  {
+   "savol": "Qaysi kasr to'g'ri kasr hisoblanadi?",
+   "variantlar": [
+    "11/6",
+    "9/8",
+    "4/9",
+    "7/5"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Noto'g'ri kasr qaysi ta'rifga mos?",
+   "variantlar": [
+    "Surati nolga teng kasrlar",
+    "Surati maxrajidan kichik kasrlar",
+    "Surati maxrajiga teng yoki katta kasrlar",
+    "Maxraji nolga teng kasrlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "12/12 kasr nechaga teng?",
+   "variantlar": [
+    "0",
+    "1/2",
+    "1",
+    "2"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'g'ri kasr 1 dan katta yoki 1 dan kichik?",
+   "variantlar": [
+    "1 dan katta",
+    "1 ga teng",
+    "1 dan kichik",
+    "1 dan katta va kichik"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Noto'g'ri kasr 1 dan katta, 1 ga teng yoki 1 dan kichik?",
+   "variantlar": [
+    "1 dan katta yoki 1 ga teng",
+    "1 dan kichik",
+    "Faqat 1 dan katta",
+    "Faqat 1 ga teng"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri to'g'ri kasrdir?",
+   "variantlar": [
+    "15/8",
+    "6/11",
+    "9/7",
+    "8/5"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir xil maxrajli kasrlarni qo'shishda suratlari qo'shilib, maxraj qanday qoldirilib?",
+   "variantlar": [
+    "O'zgarishsiz qoldirilib",
+    "Ikkiga ko'paytirib",
+    "Nolga aylantirib",
+    "O'zgartirib"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kasrning maxraji nimani ko'rsatadi?",
+   "variantlar": [
+    "Qolgan qismini",
+    "Olingan ulushlar sonini",
+    "Butun nechtaga bo'linganini",
+    "Bo'linishning yo'nini"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kasrning surati nimani ko'rsatadi?",
+   "variantlar": [
+    "Bo'linshning hajmini",
+    "Olingan ulushlar sonini",
+    "Qo'lgan qismini",
+    "Butun nechtaga bo'linganini"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "2 : 3 bo'linmani kasr ko'rinishida yozing.",
+   "variantlar": [
+    "3/5",
+    "3/2",
+    "2/3",
+    "1/3"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "3/10 + 4/10 = ?",
+   "variantlar": [
+    "3/4",
+    "7/20",
+    "7/10",
+    "12/10"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "5/9 - 1/9 = ?",
+   "variantlar": [
+    "4/18",
+    "6/9",
+    "4/9",
+    "5/18"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1/8 + 5/8 = ?",
+   "variantlar": [
+    "5/8",
+    "6/8",
+    "6/16",
+    "1/2"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "9/17 - 4/17 = ?",
+   "variantlar": [
+    "13/17",
+    "5/34",
+    "9/34",
+    "5/17"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "13/25 + 14/25 = ?",
+   "variantlar": [
+    "27/50",
+    "14/25",
+    "27/25",
+    "1/25"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x - 3/14 = 5/14 tenglamani yeching.",
+   "variantlar": [
+    "2/14",
+    "10/14",
+    "8/14",
+    "15/14"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "z + 3/21 = 11/21 tenglamani yeching.",
+   "variantlar": [
+    "11/21",
+    "8/21",
+    "3/21",
+    "14/21"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "21/3 kasrni bo'linma ko'rinishida ifodalang va qiymatini toping.",
+   "variantlar": [
+    "21:3 = 8",
+    "21:3 = 7",
+    "21:3 = 5",
+    "21:3 = 6"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "35/7 kasrni bo'linma ko'rinishida ifodalang va qiymatini toping.",
+   "variantlar": [
+    "35:7 = 4",
+    "35:7 = 6",
+    "35:7 = 3",
+    "35:7 = 5"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi kasrlardan qaysi biri 1 dan katta?",
+   "variantlar": [
+    "5/9",
+    "4/3",
+    "2/9",
+    "8/13"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "5/11 + 2/11 + 3/11 = ?",
+   "variantlar": [
+    "9/11",
+    "15/11",
+    "10/33",
+    "10/11"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "9/11 + 8/11 - 10/11 = ?",
+   "variantlar": [
+    "7/11",
+    "8/11",
+    "27/11",
+    "6/11"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "19/21 - 16/21 + 7/21 = ?",
+   "variantlar": [
+    "10/21",
+    "42/63",
+    "11/21",
+    "15/21"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yig'indini songa bo'lish qoidasiga ko'ra (34 + 51) : 17 = ?",
+   "variantlar": [
+    "6",
+    "3",
+    "4",
+    "5"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Maxraji 11 bo'lgan to'g'ri kasr surati qanday bo'lishi kerak?",
+   "variantlar": [
+    "11 ga teng",
+    "11 dan kichik",
+    "11 dan katta",
+    "11 dan katta yoki teng"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Maxraji 13 bo'lgan noto'g'ri kasr surati qanday bo'lishi kerak?",
+   "variantlar": [
+    "13 dan kichik",
+    "12",
+    "13 ga teng yoki undan katta",
+    "0"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a/9 kasr to'g'ri kasr bo'lsa, a ning qiymatı nima bo'lishi kerak?",
+   "variantlar": [
+    "0",
+    "9 dan katta",
+    "9 dan kichik",
+    "9 ga teng yoki katta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "17/35 - x = 8/35 + 3/35 tenglamani yeching.",
+   "variantlar": [
+    "6/35",
+    "11/35",
+    "28/35",
+    "20/35"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "y - 17/21 = 19/21 - 16/21 tenglamani yeching.",
+   "variantlar": [
+    "35/21",
+    "3/21",
+    "2/21",
+    "20/21"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tortning 7/12 qismi o'g'li va 4/12 qismi qiziga berildi. Tortning qancha qismi qoldi?",
+   "variantlar": [
+    "5/12",
+    "11/12",
+    "3/12",
+    "1/12"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

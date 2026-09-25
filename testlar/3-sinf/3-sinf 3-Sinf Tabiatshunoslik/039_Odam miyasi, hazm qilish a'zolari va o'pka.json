@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Tabiatshunoslik",
+ "mavzu": "Odam miyasi, hazm qilish a'zolari va o'pka",
+ "savollar": [
+  {
+   "savol": "Hazm qilish a'zolariga qaysi a'zolar kiradi?",
+   "variantlar": [
+    "Faqat oshqozon",
+    "Faqat ingichka ichak",
+    "Og'iz, til, qizilo'ngach, oshqozon va ichaklar",
+    "Faqat o'pka"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ingichka ichakda ovqat necha soat qoladi?",
+   "variantlar": [
+    "3-5 soat",
+    "24 soat",
+    "10-15 soat",
+    "1-2 soat"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Odamda nechta o'pka bor?",
+   "variantlar": [
+    "Uchitasi",
+    "Bittasi",
+    "To'rttasi",
+    "Ikkitasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Burunda havo qaysi narsadan tozalanadi?",
+   "variantlar": [
+    "Changlardan",
+    "Bakterialardan",
+    "Viruslardan",
+    "Salamatda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ingichka ichakdan keyin qaysi ichak keladi?",
+   "variantlar": [
+    "Yo'g'on ichak",
+    "Oshqozon",
+    "Tomoq",
+    "Og'iz"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O't suyuqligi jigarden qaysi a'zoga tushadi?",
+   "variantlar": [
+    "Ichakka",
+    "Oshqozonga",
+    "O'pkaga",
+    "Yurakka"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bosh miya va orqa miya qayda joylashgan?",
+   "variantlar": [
+    "Ko'krakda",
+    "Bosh va umurtqa suti ichida",
+    "Qolda",
+    "Qorn ichida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qonni kislorodga to'yintiradi qaysi a'zo?",
+   "variantlar": [
+    "Oshqozon",
+    "Buyrak",
+    "Jigar",
+    "O'pka"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "9-10 yoshli bola bitta minutda necha marta nafas oladi?",
+   "variantlar": [
+    "40-45 marta",
+    "20-25 marta",
+    "30-45 marta",
+    "16-18 marta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Siydik pufagiga qaysi a'zolardan moddalar tushadi?",
+   "variantlar": [
+    "Faqat jigardan",
+    "Faqat buyrakdan",
+    "Faqat ichakdan",
+    "Buyrak va oshqozondan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar barmoq qaynoq narsaga tegib ketsa, orqa miya qanday javob beradi?",
+   "variantlar": [
+    "Kuladi",
+    "Uzoq vaqt gapiradi",
+    "Darhol qo'lni tortib olish buyrug'i beradi",
+    "Qizarib ketadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ovqat oshqozonga qaysi yo'l orqali yetadi?",
+   "variantlar": [
+    "To'g'ridan-to'g'ri qon tomirlari orqali",
+    "Ingichka ichak orqali",
+    "Nerv tolalari orqali",
+    "Tomoq orqali"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ingichka ichakdan qonga o'tgan oziq moddalar qayga boradi?",
+   "variantlar": [
+    "Qon tomirlari va naychalari orqali barcha a'zolarga",
+    "To'g'ridan-to'g'ri oyoqqa",
+    "Faqat siydik pufagiga",
+    "Faqat boshga"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jigarda qonning tozalanishi natijasida nima hosil bo'ladi?",
+   "variantlar": [
+    "Siydik",
+    "Qonda moddalar",
+    "O't suyuqligi",
+    "Mineral salts"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O't suyuqligi ichakda qanday vazifani bajaradi?",
+   "variantlar": [
+    "Qonni tozalaydi",
+    "Ovqatni issiqlashtiradi",
+    "Oziq moddalarning parchalanishida ishtirok etadi",
+    "Nafas tizimini boshqaradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Venadan qaytib kelayotgan qondagi qaysi gaz o'pkaga o'tadi?",
+   "variantlar": [
+    "Azot",
+    "Karbonat angidrid",
+    "Geltiy",
+    "Kislorod"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nafas olganimizda ko'krak qafasi qanday o'zgaradi?",
+   "variantlar": [
+    "Kengayadi",
+    "Toraydi",
+    "Jingalak bo'ladi",
+    "Turalib qoladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yugurganda nafas olish qanday o'zgaradi?",
+   "variantlar": [
+    "To'xtab qoladi",
+    "Sekinlashadi",
+    "Tezlashadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Havo oldin qayerga kiradi?",
+   "variantlar": [
+    "To'g'ridan-to'g'ri oshqozonga",
+    "Og'izdan",
+    "Burundan",
+    "To'g'ridan-to'g'ri o'pkaga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Changli havo o'pkaga nima keltirib chiqadi?",
+   "variantlar": [
+    "Zarar",
+    "Suv",
+    "Oziq",
+    "Foyda"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar havo kislorodga boy bo'lmasa, odam nima sezadi?",
+   "variantlar": [
+    "Qo'lda og'riq",
+    "Og'iz quriyadi",
+    "Uyqu keladi",
+    "Tomir urishi tezlashadi va o'zini horg'in sezadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ovqat oshqozonda hazm bo'lgandan keyin qaysi jarayonlar davom etadi?",
+   "variantlar": [
+    "Darhol yo'g'on ichakka o'tadi",
+    "Burundan chiqadi",
+    "Og'izda chayni boshlanadi",
+    "Ingichka ichakda hazm bo'lib, oziq moddalar qonga o'tadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Buyrak va jigar tanamizdagi qon tozalanishida qanday vazifani bajaradi?",
+   "variantlar": [
+    "Faqat qonni pompa qiladi",
+    "Faqat nerv buyruqlari beradi",
+    "O't suyuqligi va siydik hosil qilib, ortiqcha moddalarni tutib qoladi",
+    "Faqat ovqat tayyorlaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hazm qilish jarayonini boshqarayotgan nerv tizimining asosiy qismlari qaysi?",
+   "variantlar": [
+    "Faqat qon tomirlari",
+    "Faqat orqa miya",
+    "Faqat bosh miya",
+    "Bosh miya hamda orqa miya"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'pka va yurak o'zaro qanday jismoniy jarayonlarda ishlaydi?",
+   "variantlar": [
+    "Qonning oqishi va kislorod almashinuvida",
+    "Birgalikda ishlamaydi",
+    "Ovqatni tayyorlashda",
+    "Faqat mexanik bog'lanishda"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Oshqozonning qopchaga o'xshashliği nima uchun zarur?",
+   "variantlar": [
+    "Faqat rang uchun",
+    "Ovqatni to'g'ridan-to'g'ri o'tkaza berish uchun",
+    "Ovqatni saqlash, qisib turish va hazm qilish uchun",
+    "Nafas olish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun xonani shamollatish sog'lig'i uchun zarur?",
+   "variantlar": [
+    "Faqat shamolni chiqarish",
+    "Hum kamaytirib berish uchun",
+    "Sovuq bo'lish uchun",
+    "Havoda kislorod bo'lishi va yaxshi nafas olish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yangi tug'ilgan chaqaloq va katta yoshdagi odam nafas olish tezligida nima farq bor?",
+   "variantlar": [
+    "Katta yoshdagi ko'proq nafas oladi",
+    "Tug'ilgan chaqaloq 30-45, katta yoshdagi 16-18 marta nafas oladi",
+    "Hech qanday farq yo'q",
+    "Teng nafas oladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zavod va fabrikalardan chiqayotgan tutun va gazlar nima uchun xavfli?",
+   "variantlar": [
+    "O'pkaga kirib, organizmning sog'lig'iga zararli",
+    "Faqat shum o'zgaradi",
+    "Faqat rang o'zgaradi",
+    "Faqat havo haroratini o'zgartirib yuboradi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hazm qilish a'zolari va nafas tizimi tananing barcha qismlarini qanday ta'minlaydi?",
+   "variantlar": [
+    "O'zaro bog'lanmaydi",
+    "Hazm qilish moddalarini faqat o'pkaga yuboradi",
+    "Faqat yurak orqali birlashadi",
+    "Hazm qilish a'zolari oziq, nafas tizimi kislorod yetkazib, ikkala tizim ham kooperativ ishlaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

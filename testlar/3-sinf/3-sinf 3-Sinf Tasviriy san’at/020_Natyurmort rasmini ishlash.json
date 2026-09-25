@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Tasviriy san’at",
+ "mavzu": "Natyurmort rasmini ishlash",
+ "savollar": [
+  {
+   "savol": "Natyurmort nima?",
+   "variantlar": [
+    "Odamlarning portret rasmı",
+    "Tora devorning rasmı",
+    "Statik narsalardan tashkil topgan rasm",
+    "Harakatchan hayvonlarning rasmı"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matndagi misolda qanday narsalar tasvirlangan?",
+   "variantlar": [
+    "Ko'za va shaftoli",
+    "Olma va nok",
+    "Nok va jez",
+    "Olma va ko'za"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Natyurmort ishlashning birinchi bosqichi nima?",
+   "variantlar": [
+    "Qalamda chizish",
+    "Rang tanlash",
+    "Bo'yash",
+    "Kuzatish va savollaraga javob topish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Natyurmort ishlashning oxirgi bosqichi nima?",
+   "variantlar": [
+    "Bo'yash",
+    "Qalamda yakunlash",
+    "Qog'ozga joylashtirish",
+    "Xomaki ishlash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Natyurmort ishlashda narsalarni chuqur kuzatish nima uchun zarur?",
+   "variantlar": [
+    "Faqat vaqtni o'tkazish uchun",
+    "Faqat o'qituvchini xursand qilish uchun",
+    "Faqat tez ishlash uchun",
+    "Ularning shakli, o'rtasidagi masofasi va yorug'likni aniqlab olish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tasvirlangan narsalardan qaysi birining shakli dumaloq?",
+   "variantlar": [
+    "Ko'zaning",
+    "Hech birisining emas",
+    "Olmaning",
+    "Ikkisining ham"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rasm ishlashda narsalarni qog'ozga joylashtirish nima bilan amalga oshiriladi?",
+   "variantlar": [
+    "Faqat markerni bilan",
+    "Faqat bo'yash bilan",
+    "Faqat rangli qalamlar bilan",
+    "Qalamda xomaki bilan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Uchta narsaning o'lchamlari qanday bo'lishi mumkin?",
+   "variantlar": [
+    "Har xil o'lchambad",
+    "Hammasi kichik",
+    "Hammasi katta",
+    "Hammasi teng o'lchambad"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Narsalarni tasvirlashda nimalar ishlatiladi?",
+   "variantlar": [
+    "Faqat xashir bilan",
+    "Ranglardan",
+    "Faqat qalamdan",
+    "Faqat qog'ozdan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Narsalar stol ustida turgan bo'lsa, rasmda ularning pastda nima ko'rinadi?",
+   "variantlar": [
+    "Dereza",
+    "Stol sirti",
+    "Osman",
+    "Chuqur suv"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar olma ko'zanining oldida bo'lsa, rasmda qaysi narsa oldinda ko'rinadi?",
+   "variantlar": [
+    "Ko'za",
+    "Olma",
+    "Faqat soya",
+    "Ikkalasi ham teng"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Narsalarning yorug' va soya joylarini bilgandan keyin, ularni rasmlashda nima qilish kerak?",
+   "variantlar": [
+    "Faqat bir xil rang",
+    "Faqat chizza chiziqlar",
+    "Rangsiz qoldirib yuborish",
+    "Har xil ranglar ishlantish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar yorug'lik chap tomondan tushayotgan bo'lsa, soya qaysi tomondan ko'proq bo'ladi?",
+   "variantlar": [
+    "Ustidan",
+    "Chap tomondan",
+    "O'ng tomondan",
+    "Pastdan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Olma va ko'zaning o'lchamlari o'zaro turli bo'lsa, rasmda ularning qaysi biri kattaroq ko'rinadi?",
+   "variantlar": [
+    "O'lchami muhim emas",
+    "Hamma vaqt ko'za kattaroq",
+    "Hamma vaqt olma kattaroq",
+    "Qaysi narsaning o'lchamlari katta bo'lsa, o'shasi kattaroq ko'rinadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Natyurmort ishlashda xomaki bosqichida nima chiziladi?",
+   "variantlar": [
+    "Faqat soyalar",
+    "Narsalarning dastlabki, ochiq chiziqları",
+    "Faqat ranglar",
+    "Faqat fon"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Narsalarning qaysi tomonlari ko'proq ayniyatlik bilan tasvirlanak?",
+   "variantlar": [
+    "Faqat yorug' tomonlar",
+    "Faqat soya tomonlar",
+    "Yorug' va soya tomonlar teng muhim",
+    "Faqat chekka tomonlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar ko'za olmaning balandligidan ikki marta uzoq bo'lsa, rasmda bu nisbat saqlanishikmi?",
+   "variantlar": [
+    "Faqat bo'yash vaqtida saqlanadi",
+    "Yo'q, saqlanmadi",
+    "Saqlanish muhim emas",
+    "Ha, nisbat saqlanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bo'yash jarayonida rang sochishdan oldin nima yakunlangan bo'ladi?",
+   "variantlar": [
+    "Qalamda ishlash to'liq yakunlangan bo'ladi",
+    "Faqat xomaki",
+    "Faqat kuzatish",
+    "Hech nima"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar narsaning bir tomoni soya bo'lsa, boshqa tomoni qanday bo'ladi?",
+   "variantlar": [
+    "Yorug' bo'ladi",
+    "Rangsiz bo'ladi",
+    "Ham soya bo'ladi",
+    "Qora bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matndagi 10 ta savollarning ahamiyati nima?",
+   "variantlar": [
+    "Narsalarning barcha xususiyatlari o'rganib, rasm ishlaganda o'z bilimimdan foydalanish",
+    "Faqat kuzatish uchun",
+    "Faqat vaqtni o'tkazish",
+    "Faqat bilim uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Natyurmort ishlashning bosqichlarini bilish va ularga amal qilish nima uchun muhim?",
+   "variantlar": [
+    "Faqat bilim uchun",
+    "Faqat vaqtni o'tkazish uchun",
+    "Faqat o'qituvchini xursand qilish uchun",
+    "Ishlaning tartiblashtirilganligini ta'minlab, xatosiz yakuniy natija olish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar siz 3 ta narsadan natyurmort ishlamoqchi bo'lsangiz, birinchi navbatda nima qilishingiz kerak?",
+   "variantlar": [
+    "Darhol narsalarni rangga sochish",
+    "Darhol qalamda chizish",
+    "Narsalarni diqqat bilan kuzatib, ularning shakli, o'zaro nisbatlari, o'rni va yorug'likni aniqlab olish",
+    "Darhol bo'yash"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi 'Kuzatish davomida yuqorida keltirilgan 10 ta savolga javob topiladi' degan fikr qanday talqin qilinadi?",
+   "variantlar": [
+    "Kuzatish muhim emas",
+    "Chuqur kuzatish orqasida narsalarning barcha muhim xususiyatlari o'rganib, ulardan rasm ishlaganda foydalaniladi",
+    "Faqat bitta savollga javob etadi",
+    "Savollar qayta-qayta haraka qilshi kerak"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Olma va ko'zaning balandliklari 1:2 nisbatida bo'lsa, rasmda bu nisbatning durusta saqlanishining ahamiyati nima?",
+   "variantlar": [
+    "Rasmning tabiiyligi va o'rtochanligi ta'minlaydi",
+    "Faqat o'qituvchini xursand qiladi",
+    "Faqat bo'yashda muhim",
+    "Hech qanday ahamiyat yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Narsalarning yorug' va soya tomonlarini o'rganib turli ranglar bilan tasvirlashning muhimiyati nima?",
+   "variantlar": [
+    "Muhimiyati yo'q",
+    "Rasmga ko'lem, had-dan-tahayyol ko'rinish beradmi, narsalarning shaxsiyati aniq ko'rinadi",
+    "Faqat rang ko'paylik qiladi",
+    "Faqat chiziq ko'paylik qiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rasmni qog'ozga joylashtirish bosqichida xomaki asosida nima amalga oshiriladi?",
+   "variantlar": [
+    "Faqat rangli qog'oz tanlash",
+    "Faqat qalam bilan chizish",
+    "Narsalarning rasm ichidagi o'rnining xomakida aniqlanib, ularning shakli va o'lchami belgilanadi",
+    "Faqat soyalar chizish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar yorug'lik nuri oldirdan rasm ostiga tusayotgan bo'lsa, narsalarning qaysi tomonida soya ko'proq bo'ladi?",
+   "variantlar": [
+    "Orqa tomonida soya ko'proq bo'ladi, bu narsaning shaxsiyatini ko'rsatadi",
+    "Oldina tomonida soya",
+    "Ikkala tomonida teng",
+    "Yuqori tomonida soya"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Natyurmort ishlashda xomaki va qalamda ishlash bosqichlari o'rtasidagi farq nima?",
+   "variantlar": [
+    "Xomaki qalamda ishlashdan qiy'iq",
+    "Farq yo'q",
+    "Xomakida narsalarning asosiy shaklı, qalamda esa ularning aniq chiziqları belgilanadi",
+    "Qalamda ishlash xomakidan qiy'iq"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar sizda 4 ta har xil o'lchambad narsalar bo'lsa, ularning o'zaro nisbatini aniqlab, rasmda qanday joylashtirish kerak?",
+   "variantlar": [
+    "Faqat kattalashni oldinga joylashtirish",
+    "Hamma narsalarni teng o'lchambad qilish",
+    "Hamma narsalarni ketma-ketlikda joylashtirish",
+    "Har bir narsaning o'lchamlari boshqasiga nisbatan o'lchab, rasm ichida shu nisbatlashiga asoslanib joylashtirish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi 'Natyurmort ishlashni oxiriga yetkazing' vazifasida 'oxiri' nima bilan tugatiladi?",
+   "variantlar": [
+    "Bo'yash jarayoni, ranglar sochish va rasmning to'liq tayyorlanish bilan",
+    "Faqat xomaki qilish bilan",
+    "Faqat kuzatish bilan",
+    "Faqat qalamda chizish bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

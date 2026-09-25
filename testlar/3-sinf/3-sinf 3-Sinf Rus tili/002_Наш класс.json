@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Rus tili",
+ "mavzu": "Наш класс",
+ "savollar": [
+  {
+   "savol": "Sinif qanday?",
+   "variantlar": [
+    "Kichik va yorug'",
+    "Katta va yorug'",
+    "Katta va qorong'i",
+    "Kichik va qorong'i"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Partalar yangi yoki eski?",
+   "variantlar": [
+    "Yangi",
+    "Matinda aytilmagan",
+    "Eski",
+    "O'rtacha"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jurnalni qayerda topish mumkin?",
+   "variantlar": [
+    "Partada",
+    "Shkafda",
+    "Stolda",
+    "Devorda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kitoblar va daftarlar qayerda yotadi?",
+   "variantlar": [
+    "Devorda",
+    "Polda",
+    "Oynada",
+    "Partada"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Portretlar qayerda osiladi?",
+   "variantlar": [
+    "Polda",
+    "Devorda",
+    "Oynada",
+    "Stolda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zanaves'kalar qayerda?",
+   "variantlar": [
+    "Polda",
+    "Devorda",
+    "Partada",
+    "Oynada"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sinifda kitobli shkaф bor?",
+   "variantlar": [
+    "Matinda aytilmagan",
+    "Ha, bor",
+    "Yo'q",
+    "Faqat partada"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Kim?\" savoli qaysi so'zga javob?",
+   "variantlar": [
+    "Doska",
+    "Stol",
+    "Uchenik",
+    "Shkaф"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Nima?\" savoli qaysi so'zga javob?",
+   "variantlar": [
+    "Devochka",
+    "Parta",
+    "Malchik",
+    "Uchitel'"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Doska sinifda yoki shkafda?",
+   "variantlar": [
+    "Shkafda",
+    "Partada",
+    "Sinifda",
+    "Stolda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sinifda nima yangi?",
+   "variantlar": [
+    "Stul",
+    "Doska",
+    "Zanaves'ka",
+    "Parta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dezhurniylar kim?",
+   "variantlar": [
+    "Uchitel' va direktor",
+    "Sanzhar va Feruza",
+    "Malchik va devochka",
+    "Uchenik va uchenitsa"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Uchitel'i va uchitel'nitsa nima?",
+   "variantlar": [
+    "Turli odamlar",
+    "Ikkalasi ham o'quvchi",
+    "Bir xil odamlar",
+    "Ikkalasi ham o'qituvchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Uche'bniki, tetradki va jurnali qayerda topish mumkin?",
+   "variantlar": [
+    "Hamma partada",
+    "Hamma devorda",
+    "Jurnali stolda, uche'bniki partada",
+    "Hamma shkafda"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Kim?\" va \"Nima?\" savollari farqi nima?",
+   "variantlar": [
+    "Matinda aytilmagan",
+    "Ikkalasi ham bir xil",
+    "Birinchisi predmetlar uchun, ikkinchisi odamlar uchun",
+    "Birinchisi odamlar uchun, ikkinchisi predmetlar uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Plakat va kartina qayerda?",
+   "variantlar": [
+    "Plakat devorda, kartina doskalda",
+    "Ikkkalasi devorda",
+    "Ikkkalasi doskalda",
+    "Plakat doskalda, kartina devorda"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sinif darsga qanday?",
+   "variantlar": [
+    "Noto'g'ri tuyutilgan",
+    "To'liq tayyor",
+    "Qisman tayyor",
+    "Tayyor emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi predmetlar mebel?",
+   "variantlar": [
+    "Portret, kartina, zanaves'ka",
+    "Parta, stul, stol",
+    "Jurnali, doska, qalam",
+    "Kitob, qalam, daftar"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sinifda yotgan predmetlar qaysi?",
+   "variantlar": [
+    "Portret, kartina, zanaves'ka",
+    "Parta, stul, stol",
+    "Doska, shkaф, stol",
+    "Kitob, daftar, jurnali"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Uchitel' dars boshida dezhurniyga birinchi savoli nima edi?",
+   "variantlar": [
+    "Sinif qanday?",
+    "Jurnali qayerda?",
+    "Kim dars o'tadi?",
+    "Kim bugun dezhurniy?"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sinifi eng batafsil tavsifini toping:",
+   "variantlar": [
+    "Katta, qorong'i, yangi mebel",
+    "Kichik, qorong'i, eski mebel",
+    "Kichik, yorug', eski mebel",
+    "Katta, yorug', yangi partalar, doska, shkaф"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uchitel' darsning tayyorligini qanday tekshirdi?",
+   "variantlar": [
+    "Jurnali, uche'bniki, tetradki, plakat va kartinanini so'radi",
+    "Faqat dezhurniylarni so'radi",
+    "Faqat jurnalni ko'rdi",
+    "Faqat stol va stoolllarni tekshirdi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uchitel' dersga qaysi predmetlarni tekshirdi?",
+   "variantlar": [
+    "Faqat doska",
+    "Faqat qalam va daftar",
+    "Jurnali, uche'bniki, tetradki, plakat, kartina",
+    "Faqat jurnali"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sinifda nima to'plangan?",
+   "variantlar": [
+    "Faqat mebel",
+    "Faqat predmetlar",
+    "Odamlar va darsga zarur predmetlar",
+    "Faqat odamlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Kitobli shkaф\" nima degani?",
+   "variantlar": [
+    "Shkaф emas, kitob",
+    "Shkaф kitobni saqlamaydi",
+    "Shkaф bilan kitob",
+    "Kitoblarni saqladigan shkaф"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Molodcy! Klass gotov k uroku\" - Buning ma'nosi?",
+   "variantlar": [
+    "Sinif tayyor emas",
+    "Faqat dezhurniylar yaxshi",
+    "Barchasi joyida va darsga tayyor",
+    "Dars boshlanmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Devorda qaysi predmetlar osiladi?",
+   "variantlar": [
+    "Kitob, qalam, daftar",
+    "Stul, stol, shkaф",
+    "Portret, kartina",
+    "Jurnali, doska, parta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi predmetlar yotadi (lezhat)?",
+   "variantlar": [
+    "Parta, stul, stol",
+    "Kitob, daftar, jurnali",
+    "Portret, kartina, zanaves'ka",
+    "Doska, shkaф, portret"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi predmetlar turadi (stoyat)?",
+   "variantlar": [
+    "Portret, kartina",
+    "Parta, stul, shkaф, stol",
+    "Kitob, daftar",
+    "Jurnali, doska"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Osilgan (viyat) predmetlar sinifning qayerida joylashgan?",
+   "variantlar": [
+    "Devorda va oynada",
+    "Polda",
+    "Partada",
+    "Stolda"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

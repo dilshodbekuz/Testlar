@@ -1,0 +1,187 @@
+32-dars. Scratch dasturida shakllar yaratish
+
+--- OSON ---
+
+1. Scratch muhitida sprite boshlang'ich pozitsiyasi qaysi koordinatada joylashadi?
+A) (-100, -100)
++B) (0, 0)
+C) (240, 180)
+D) (100, 100)
+
+2. PenDown buyrug'i nima uchun ishlatiladi?
+A) Peroni polotonga ko'tarish
+B) Pero rangini o'zgartirish
+C) Pero qalinligini o'zgartirish
++D) Peroni polotonga tushirish
+
+3. PenUp buyrug'i nima uchun ishlatiladi?
+A) Pero rangi qo'shish
+B) Pero asosini o'zarish
++C) Peroni polotonga ko'tarish
+D) Peroni polotonga tushirish
+
+4. Scratch muhitida X o'qi qaysi oraliqda joylashadi?
+A) 0 dan 240
++B) -240 dan +240
+C) -100 dan 100
+D) -180 dan +180
+
+5. Scratch muhitida Y o'qi qaysi oraliqda joylashadi?
+A) -240 dan +240
++B) -180 dan +180
+C) -100 dan 100
+D) 0 dan 180
+
+6. Pero (PEN) blok qaysi panelda topiladi?
+A) Sensorlar panelida
+B) Harakat panelida
++C) Rangli bloklar panelida
+D) Ko'rinish panelida
+
+7. Spraytni sahnada ko'rinmas qilish uchun qaysi tugmachani bosish kerak?
+A) Show
+B) Delete
++C) Hide
+D) Clear
+
+8. Spray kostyumlarini almashtirish uchun qaysi bo'limdan foydalaniladi?
+A) Sounds bo'limi
+B) Variables bo'limi
+C) Backdrops bo'limi
++D) Costumes bo'limi
+
+9. Dekart koordinatalar tizimi nima?
+A) O'yinlar uchun maxsus sistema
++B) Matematik koordinatalar sistemi
+C) Scratch dasturining ismi
+D) Rasm chizish uchun maxsus grafik vosita
+
+10. Scratch muhitida rasm yaratishda dastur natijasi qayerda namoyon bo'ladi?
+A) Kod panelida
+B) Sprite panelida
++C) Sahna deb atalgan maydonida
+D) Backdrops maydonida
+
+--- O'RTACHA ---
+
+11. Mushukcha 0,0 pozitsiyasidan qayta boshlashi uchun qaysi blok ishlatiladi?
+A) PenUp
++B) Go To X=0 Y=0
+C) PenDown
+D) Move 100 steps
+
+12. Peroning rangini o'zgartirish uchun qaysi blok ishlatiladi?
++A) Pero rangini o'zgartirish bloki
+B) Hide bloki
+C) Set size bloki
+D) Pen qalinligini o'zarish bloki
+
+13. Chiziq qalinligini o'zgartirish uchun qaysi blok ishlatiladi?
++A) Chiziq qalinligini o'zgartirish bloki
+B) Pero rangini o'zgartirish bloki
+C) Change color bloki
+D) Set size bloki
+
+14. Agar kursor ekranning boshqa nuqtasida paydo bo'lsa, chiziqni qayta markazsizlamash uchun qanday qilish kerak?
+A) Restart butniga bosamiz
+B) Hide blokini ishlatamiz
++C) Go To X=0 Y=0 buyrug'i bilan belgilaymiz
+D) PenUp ishlatamiz
+
+15. Rangli pero biriktirib, 100 qadam tashlasak, sahnada nima chiziladi?
+A) Hech narsa
++B) Rangli chiziq
+C) Qora chiziq
+D) Mushukchaning rasm i
+
+16. Mushukchanining ko'rinmas holatida ('Hide' tugmasini bossak) ekranda nima aks etadi?
+A) Faqat mushukcha
+B) Mushukcha va chiziq
+C) Hech narsa
++D) Faqat chiziq
+
+17. Sprayti 'Hide' buyrug'i bilan o'rnatib, pero polotonga tushirib tashlasak, sahnada qanday bo'ladi?
++A) Faqat chiziq ko'rinadi
+B) Hech narsa ko'rinmaydi
+C) Mushukcha va chiziq ko'rinadi
+D) Faqat mushukcha ko'rinadi
+
+18. PEN blokini qo'shimcha bloklar guruhidan qanday o'rnatamiz?
+A) Dastur oynasining yuqori o'ng burchagi tugmasini bosamiz
++B) Dastur oynasining quyi chap burchagi tugmasini bosamiz
+C) Aylanish tugmasini bosamiz
+D) Qayta boshlash tugmasini bosamiz
+
+19. Rangning nomi, pero polotonga tushurilgan holatda 100 qadam ketishi natijasi qanday?
+A) Faqat chiziq harakat qiladi, spray harakat qilmaydi
++B) Spray o'ziga keyin rangli chiziq chizib boradi
+C) Spray harakat qiladi, lekin chiziq chizilmaydi
+D) Spray o'ziga keyin oq chiziq chizib boradi
+
+20. Qaysi texnologiya asosida sahna turli shakllar yaratishga imkon beradi?
++A) Rangli pero biriktirib, harakatli shaklni tayyorlash orqali
+B) Sound qo'shish orqali
+C) Murakkab matematik formulalar orqali
+D) Keyboard tugmalarini bosish orqali
+
+--- QIYIN ---
+
+21. Mushukcha kvadrat chizish uchun qaysi bloklarni foydalanish kerak?
+A) Faqat 'Turn 90 degrees' bloki
++B) PenDown, 'Move 100 steps', 'Turn 90 degrees' va takrorlash (4 marta)
+C) Faqat PenDown bloki va 'Move 100 steps'
+D) Faqat PenUp bloki
+
+22. Mushukcha har 50 qadam otida 'Myau' ovozi chiqarish uchun qaysi buyruqlar birgalikda ishlatiladi?
+A) Faqat takrorlash bloki
+B) Faqat Sound bloki
+C) Faqat 'Move 50 steps' bloki
++D) Takrorlash + 'Move 50 steps' + Sound bloki
+
+23. Koordinata tekisligida X o'qi va Y o'qining oraliqlarini noto'g'ri ishlatilsa, natijai qanday bo'ladi?
+A) Grafika to'liq shu yo'lda chiziladi va hech narsa o'zgarolmaydi
++B) Koordinatalar noto'g'ri bo'lib, rasm deformatsiyalashadi
+C) Dastur ishlamay qoladi va xato ko'rsatadi
+D) Faqat rasm rangi o'zgarib ketadi
+
+24. Agar PenDown ishlatib, sprayt ko'rinmas qilip ('Hide'), 'Move 100 steps' mo'jaloni beradigan bo'lsak, ekranda nima ko'rinadi?
+A) Faqat mushukcha
++B) Faqat rangli chiziq
+C) Hech narsa ko'rinmaydi
+D) Mushukcha va chiziq birgalikda
+
+25. Sahnaning to'liq koordinata oralig'i haqida bilgan holatda, Y o'qining umumiy uzunligi nechta bo'ladi? (Y o'qi -180 dan +180 gacha)
+A) 480
+B) 240
+C) 180
++D) 360
+
+26. Sprayt 'Move 100 steps' blokini 4 marta takrorlab, har qadamda 90 gradusga bursa, qanday geometrik shakl chiziladi?
+A) Doira
+B) Teng tomonli uchburchak
++C) Kvadrat
+D) Beshburchak
+
+27. Peroning rangi qizilga, qalinligi esa 10 pikselsga o'zgarsa, sahnada qanday chiziq ko'rinadi?
+A) Rang o'zgarmaydigan xiziq
+B) Qora rangli, qalin chiziq
+C) Oq rangli, ingichka chiziq
++D) Qizil rangli, qalin chiziq
+
+28. Rasm chizish jarayonida kursor ekranning boshqa nuqtasiga siljigan bo'lsa, chiziqni to'g'ri qayta markazlashtirishning buyruq tartibi nima?
++A) PenUp → Go To X=0 Y=0 → PenDown
+B) Go To X=0 Y=0 → PenUp → PenDown
+C) PenDown → Go To X=0 Y=0 → PenUp
+D) PenUp → PenDown → Go To X=0 Y=0
+
+29. Agar mushukcha o'ngdan chapga 100 qadam tashlasa, keyin chapdan o'ngga 100 qadam tashlasa va pero oldindan ko'rinmas qilinsa, sahnada nima aks etadi?
+A) Faqat ikkinchi chiziq
+B) Faqat birinchi chiziq
+C) Hech qanday chiziq ko'rinmaydi
++D) Ikki chiziq bir vaqtda
+
+30. Ichma-ich takrorlash blokida tashqi blok 4 marta, ichki blok ham 4 marta qaytarish ko'rsatmasi berilsa, jami necha marta harakat bajariladgan bo'ladi?
+A) 32
+B) 4
+C) 8
++D) 16

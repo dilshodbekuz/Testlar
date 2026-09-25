@@ -1,0 +1,337 @@
+{
+ "sinf": "4-sinf",
+ "kitob": "4-sinf 4-Sinf O‘qish",
+ "mavzu": "BIR XURMACHA SHAVLA",
+ "savollar": [
+  {
+   "savol": "Qizcha o'rmonga nima olib kelish uchun boribdi?",
+   "variantlar": [
+    "Maymunjon olib kelish uchun",
+    "Meva olib kelish uchun",
+    "O't olib kelish uchun",
+    "Gul olib kelish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qizcha o'rmonda kimni uchratib qolibdi?",
+   "variantlar": [
+    "Baqa",
+    "Yigit",
+    "Katta ota",
+    "Kampir"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xurmachada shavla pishirishni boshlash uchun qaysi so'zlarni aytish kerak?",
+   "variantlar": [
+    "Xurmachada shavla tez pish",
+    "Bir, ikki, uch, shavla pish",
+    "Bir, ikki, uch, xurmachada shavla pish",
+    "Bir, ikki, xurmachada shavla"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xurmachani to'xtatorish uchun qaysi so'zlarni aytish kerak?",
+   "variantlar": [
+    "Pishirishdan to'xt",
+    "Bir, ikki, uch, pishirishdan kech",
+    "Xurmachani dum",
+    "Shavla pishmasdan tur"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qizning onasi xurmachani o'z oldiga qo'yib qaysi so'zlarni aytdi?",
+   "variantlar": [
+    "Bir, ikki, uch, shavla pish",
+    "Xurmachada shavla tez pish",
+    "Bir, ikki, uch, pishirishdan kech",
+    "Bir, ikki, uch, xurmachada shavla pish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qizning onasi nima unutib qo'ydi?",
+   "variantlar": [
+    "Qizchaga xabar berish",
+    "Xurmachani shavla pishirishdan to'xtatorish so'zini",
+    "Xurmachani olish",
+    "Shavlani yeyish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shavla qayerlarni bosib ketdi?",
+   "variantlar": [
+    "Uy, uyning tomi, hovli, ko'chalarni",
+    "Faqat hovlini",
+    "Faqat uyni",
+    "Faqat ko'chalarni"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qizcha xurmachani qaysi so'zlarni aytib to'xtattdi?",
+   "variantlar": [
+    "Xurmachani dum",
+    "Bir, ikki, uch, pishirishdan kech",
+    "Shavla pishmasdan tur",
+    "Pishirishdan kech"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shavla nima sabab hech kim shikoyat qilmadi?",
+   "variantlar": [
+    "Shavla erishi bo'ldi",
+    "Shavla sotib beruvchi bo'ldi",
+    "Shavla juda qor va sovuq bo'ldi",
+    "Shavla juda shirin va mazali bo'ldi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kampir qizchaga xurmachani nima sababli sovg'a qildi?",
+   "variantlar": [
+    "Qizcha kampirga eshitdi",
+    "Qizcha maymunjon berdi",
+    "Kampir shoshqaloq bo'ldi",
+    "Qizcha pul berdi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nima sababli kampir qizchaga xurmachani sovg'a qildi?",
+   "variantlar": [
+    "Qizcha kampirga pul berdi",
+    "Qizcha kampirga maymunjon berdi",
+    "Kampir qizchani yoqtirdi",
+    "Kampir shoshqaloq bo'ldi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qizning onasi xurmachani o'z oldiga qo'yib nima uchun pishirishni boshladi?",
+   "variantlar": [
+    "Xurmachani sinovlab ko'rmoqchi bo'ldi",
+    "Shavla juda shirin ko'rinib ketdi",
+    "Shavla ko'rib qizni chaqirdi",
+    "Qizcha xurmachaning kuchi aytib berdi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yo'lda shavla nima bo'lib ketibdi?",
+   "variantlar": [
+    "Qor bo'lib ketdi",
+    "Qor va sharq bo'lib ketdi",
+    "Daryo bo'lib oqqan shavla bo'lib ketdi",
+    "Sovuq bo'lib ketdi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qizning onasi nima sababli qo'rqib ketib qizchasi oldiga yugurib ketdi?",
+   "variantlar": [
+    "Shavla haddan tashqari ko'payib ketdi",
+    "Qizcha asosan kutilmadi",
+    "Qo'shilar kelishini eshitdi",
+    "Eshik maxinasi bo'ldi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shavla haddan tashqari ko'payib ketganda, u qayoqqachon yetibdi?",
+   "variantlar": [
+    "Uy, tomi, hovli va ko'chalarni bosib",
+    "Qo'shniga",
+    "Faqat uyda",
+    "Faqat ko'chalarni"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Xurmachaning ikkala sehrli so'zi qanday natijaga olib keladi?",
+   "variantlar": [
+    "Xurmachani yamlantirish",
+    "Xurmachani rangi o'zgarishi",
+    "Shavlani tez yib ketish",
+    "Shavlani pishirish va to'xtatorish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qizcha issiq shavla oqqan yo'lda nima qilib o'tdi?",
+   "variantlar": [
+    "Yugurub o'tdi",
+    "Juda qiyinchilik bilan kelib o'tdi",
+    "Saylab o'tdi",
+    "Maxinab o'tdi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shavla qishloqdan shaharga borishni qanday ta'sir qilgan?",
+   "variantlar": [
+    "Yo'lni yopib qo'ydi",
+    "Shu masofani yetguncha foydalanish uchun ki'foya qildi",
+    "Shu masofani pul qilib berdi",
+    "Shaxarni qul qildi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ertakda kampir qizchaga xurmachani berish qanday natijaga olib keldi?",
+   "variantlar": [
+    "Shavla jadid bo'lib ketdi",
+    "Qizchani boy qildi",
+    "Hamma joyni shavla qopladi",
+    "Qizning onasi tirik qoldi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qizching onasi xurmachani to'xtatorish so'zini bilgan bo'lsa, nima bo'libdi?",
+   "variantlar": [
+    "Qizcha kutilmas edi",
+    "Shavla yanada ko'payib ketardi",
+    "Hamma bo'lmas edi",
+    "Shavla haddan tashqari ko'payib ketmas edi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qizning onasi sehrli so'zni aytmasdan oldin qanday voqea bo'lgan bo'ldi?",
+   "variantlar": [
+    "Qizcha bozorga ketgan",
+    "Qizning onasi xurmachani ko'rgan",
+    "Qizcha maymunjon bilan kelgan",
+    "Kampir qizchaga xurmachani bergan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ertakda qizchaning roli nima sabab muhim?",
+   "variantlar": [
+    "Onasini dushmanni qilgan",
+    "Shavlani to'xtatorish uchun sehrli so'zlarni bilgan va aytgan",
+    "Maymunjon olib kelgan",
+    "Faqat xurmachani olgan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima sababli qizning onasi xurmachani to'xtatorish so'zini unutib qo'ydi?",
+   "variantlar": [
+    "U faqat pishirish so'zini esladi",
+    "Kampir unga aytmadi",
+    "U xurmachani boshqaga berdi",
+    "Qizchasi aytib berishmadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qizning onasi va qizchaning harakatlari qanday farq qiladi?",
+   "variantlar": [
+    "Hech farq yo'q",
+    "Qizcha qaydi bilgan, onasi unutgan",
+    "Onasi juda aqlli, qizcha dangasa",
+    "Onasi xurush, qizcha xotiraji"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ertakda sehrli xurmachaning kuchi qanday tasvirlangan?",
+   "variantlar": [
+    "Yoshi o'zgaradi",
+    "Rangi o'zgaradi",
+    "Faqat shavla pishiradi",
+    "Cheksiz shavla pishira oladi, aytilgan so'z uchun to'xtaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qizchasi uydan uzoqda bo'lsaydim, qanday oqibat bo'lib tushab edi?",
+   "variantlar": [
+    "Shavla haddan tashqari ko'payib ketib hamma narsani qoplaydi edi",
+    "Shavla eritib ketib edi",
+    "Onasi o'lma edi",
+    "Hech narsa bo'lmas edi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima sababli xavfli shavla oqqan bo'lsa-da hech kim shikoyat qilmadi?",
+   "variantlar": [
+    "Har kuni bo'lib boshqa narsaga o'tdi",
+    "Hamma tezda yeb ketdi",
+    "Shavla juda shirin va mazaliligi sababli",
+    "Hech kim ko'rmadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ertakda kampir sehrli xurmachani kimga berdi va nima shartida?",
+   "variantlar": [
+    "Qizchaga, maymunjon berish shartida",
+    "Qizni sevish shartida",
+    "Qizchaga, maymunjon bilan shurti bo'lib",
+    "Qizning onasiga, pul berish shartida"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ertakdan qanday sabot va oʻrsatma olish mumkin?",
+   "variantlar": [
+    "Narsalarni to'liq bilmasdan ishlatmang",
+    "Sehrli narsalarni xavf qilib ko'ring",
+    "Xurmachani sohlamang",
+    "Maymunjon yoqtiring"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qizchaning tezlik bilan unga yugurib yetishning qanday natijasi bo'ldi?",
+   "variantlar": [
+    "Shavla pishirishni to'xtattdi va hamma jonni saqlab qoldi",
+    "Hech narsa bo'lmadi",
+    "Shavla yanada ko'paydi",
+    "Xurmachani sindirdi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Informatika",
+ "mavzu": "30-dars. Sprayt liboslari (kostyumlari)ni almashtirish",
+ "savollar": [
+  {
+   "savol": "Spraytning kostyumi nima?",
+   "variantlar": [
+    "Sprayting xususiyati",
+    "Sprayting rasm yoki turli holatlarining biri",
+    "Sprayting rangi",
+    "Sprayting harakati"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mushukcha Mukining nechta holatiga misol berilgan?",
+   "variantlar": [
+    "4 ta",
+    "3 ta",
+    "2 ta (yurib ketayotgan va yugurib ketayotgan)",
+    "1 ta"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dastur interfeysida kostuyumlarni qayerdagi banddan tanlaymiz?",
+   "variantlar": [
+    "Bloklar panelida",
+    "Costumes (liboslar) bandida",
+    "Sahna panelida",
+    "Harakatlanish panelida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kostuyumlarni grafik muharrir orqali nima qilish mumkin?",
+   "variantlar": [
+    "Ranglarini o'zgartirish",
+    "O'chirish",
+    "Suratini yopish",
+    "Nomi o'zgartirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yangi qahramonni tanlash uchun qaysi amaldan foydalanamiz?",
+   "variantlar": [
+    "Ribbon",
+    "Paint",
+    "Delete",
+    "Choose a Sprite"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sprayti dasturdan o'chirish uchun qaysi ko'rsatmani tanlaymiz?",
+   "variantlar": [
+    "Paint",
+    "Delete",
+    "Ribbon",
+    "Costumes"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sprayt libosi va kostyumi bir xil tushunchami?",
+   "variantlar": [
+    "Yo'q, ular boshqa-bosh",
+    "Libosi faqat rasm, kostyumi esa harakat",
+    "Ha, ular bir xil ma'noni bildiradi",
+    "Kostyumi faqat Scratch'da bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Liboslarni tanlashning qancha usuli berilgan?",
+   "variantlar": [
+    "2 ta",
+    "3 ta (syurpriz, kompyuter/internet, Paint)",
+    "4 ta",
+    "1 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ten80 Dance qahromoni qayerdagi papkada joylashgan?",
+   "variantlar": [
+    "Animals papkasida",
+    "Objects papkasida",
+    "Dance papkasida",
+    "Characters papkasida"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Paint amali qanday qo'llaniladi?",
+   "variantlar": [
+    "Sprayti o'chirish uchun",
+    "Kostuyumni grafik muharrir yordamida o'zgartirish uchun",
+    "Yangi sprayti tanlash uchun",
+    "Faqat rasm o'chrish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar yangi qahromoni tanlash kerak bo'lsa, qanday ketma-ketlik to'g'ri?",
+   "variantlar": [
+    "Faqat Delete amali",
+    "Faqat Ribbon ni bosish",
+    "Paint orqali o'zgartirish",
+    "Delete ko'rsatmasini tanlab, keyin Choose a Sprite orqali yangi sprayti tanlash"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kostuyumni yangi rangga o'zgartirish uchun qaysi yo'l to'g'ri?",
+   "variantlar": [
+    "Delete amali orqali o'chirish",
+    "Choose a costume Paint ko'rsatmasini bajarish",
+    "Ribbon panelida o'zgartirish",
+    "Costumes bandida faqat tanlash"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mashq 1 da Breakdance o'yini yaratish uchun birinchi nima qilash kerak?",
+   "variantlar": [
+    "Asosiy mushukchani Delete ko'rsatmasini tanlab o'chirish",
+    "Sahna fonini o'zgartirish",
+    "Paint orqali bo'yash",
+    "Yangi kostuyum yaratish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Choose a Sprite piktogrammasi orqali sprayti tanlagandan keyin nima qilish kerak?",
+   "variantlar": [
+    "Ochilgan spraytlar ro'yxatidan papka va qahromoni tanlab olish",
+    "Ribbon panelida yopish",
+    "Delete amalini qaytarish",
+    "Faqat Paint ni bosish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Syurpriz (surprise) amali qanday ishlaydi?",
+   "variantlar": [
+    "Kompyuterdan rasm yuklaydi",
+    "Kostuyumni o'chiradi",
+    "Yangi sprayti qo'shadi",
+    "Tasodifiy tanlangan kostuyumni tanlaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar kompyuter yoki internetdan rasm yuklash kerak bo'lsa, qaysi yo'l to'g'ri?",
+   "variantlar": [
+    "Ribbon panelida Costumes ni yopish",
+    "Liboslarni tanlashning boshqa usullaridan foydalanish",
+    "Paint orqali bo'yash",
+    "Faqat Delete amalidan keyin"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar sprayting bir nechta kostyumi bo'lsa, ularni qanday almashtiramiz?",
+   "variantlar": [
+    "Yangi sprayti tanlashimiz kerak",
+    "Paint orqali barcha kostuyumni bo'yamiz",
+    "Costumes bandida tanlashimiz mumkin",
+    "Delete orqali o'chiramiz"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kostuyumni grafik muharrir orqali o'zgartirishning asosiy qadami nima?",
+   "variantlar": [
+    "Choose a costume Paint ko'rsatmasini bajarish",
+    "Faqat Delete amalini bajarish",
+    "Ribbon panelida Costumes bandini tanlash",
+    "Sprayti yangilash amalini qo'llash"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ten80 Dance qahromoni tanlangandan keyin nima qila olasiz?",
+   "variantlar": [
+    "Faqat kostuyumini ko'rish",
+    "Ribbon panelida faqat tinish",
+    "Kostuyumlarini Costumes bandida ko'rish va Paint orqali o'zgartirish",
+    "Faqat o'chirish va yangi qahromoni tanlash"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Liboslarni tanlashning uchta usulining farqi nima?",
+   "variantlar": [
+    "Hamma usul bir vaqtda ishlatiladi",
+    "Hammasi bir xil natija beradi",
+    "Faqat bittasi to'g'ri",
+    "Syurpriz tasodifiy, kompyuter/internet fayl yordamida, Paint grafik muharrir orqali o'zgartiriladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar Mukni Ten80 Dance bilan almashtirib, uning 3 ta kostyumini ketma-ketlikda ishlatmoqchi bo'lsangiz, dastur qanday tuzish kerak?",
+   "variantlar": [
+    "Choose a Sprite orqali tanlash, keyin Costumes bandida kostyumlarni ketma-ketlikda tanlash va dasturda ko'rsatish",
+    "Faqat Delete orqali o'chirish",
+    "Ribbon panelida Costumes bandini yopish",
+    "Faqat Paint orqali o'zgartirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Grafik muharrir orqali Ten80 Dance qahromoning turli kostyumlarining ranglarini o'zgartirib, yangi animatsiya yaratish mumkinmi?",
+   "variantlar": [
+    "Faqat bitta kostuyumni o'zgartirish mumkin",
+    "Ribbon orqali bo'inamiz",
+    "Yo'q, o'zgartirish mumkin emas",
+    "Ha, Paint amali orqali grafik muharrir yordamida har bir kostuyumni alohida o'zgartirish mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yangi qahromoni yaratish jarayonida qaysi qadamlar to'g'ri ketma-ketlik bilan bajarilishi kerak?",
+   "variantlar": [
+    "Delete → Choose a Sprite → (Costumes bandida tanlash → optional Paint)",
+    "Choose a Sprite → Delete → Paint",
+    "Ribbon → Delete → Choose a Sprite",
+    "Paint → Choose a Sprite → Delete"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dance papkasining boshqa papkalardan asosiy farqi nima?",
+   "variantlar": [
+    "Faqat rasm bor",
+    "Faqat ranglar bor",
+    "Faqat sahnalar bor",
+    "Rasm va turli harakatlar (kostyumlar) mavjud"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar siz sprayting bir nechta kostyumini ketma-ketlikda ko'rsatish animatsiyasini yaratmoqchi bo'lsangiz, qaysi amallar kerak?",
+   "variantlar": [
+    "Faqat Ribbon bosish",
+    "Costumes bandidan kostyumlarni tanlashni davom ettirish va dasturda ularni ketma-ketlikda ko'rsatish",
+    "Faqat Delete",
+    "Faqat Paint"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Syurpriz, kompyuter/internet va Paint usullarining faqli nima?",
+   "variantlar": [
+    "Ularning barchasi bir xil natija beradi",
+    "Syurpriz tasodifiy tanlaydi, kompyuter/internet - fayldan yuklaydi, Paint - grafik muharrir orqali o'zgartiriladi",
+    "Faqat Paint to'g'ri usul",
+    "Faqat syurpriz ishlatiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar siz Mukni Ten80 Dance bilan almashtirib, uning har bir kostuyumini turli rangga bo'ymoqchi bo'lsangiz, qanday qilasiz?",
+   "variantlar": [
+    "Delete → Choose a Sprite → Costumes bandida har bir kostuyumni tanlash → Paint orqali bo'yash",
+    "Faqat Choose a Sprite",
+    "Faqat Ribbon bosish",
+    "Faqat Delete"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Spraytning kostyumlari qanday kontseptsiyasi bilan bog'liq?",
+   "variantlar": [
+    "Faqat sprayting nomi",
+    "Faqat sprayting shovliri",
+    "Sprayting harakati, holati, faoliyati va tashqi ko'rinishi",
+    "Faqat sprayting qo'llanmasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Choose a Sprite orqali Dance papkasida Ten80 Dance'ni topib tanlagandan keyin, nima qila olasiz?",
+   "variantlar": [
+    "O'chirish va yangi qahromoni tanlash",
+    "Faqat kostuyumini ko'rish",
+    "Ribbon panelida faqat tinish",
+    "Costumes bandida barcha kostuyumlarini ko'rish va Paint orqali har birini alohida o'zgartirish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Liboslarni tanlashning uchala usuli (syurpriz, kompyuter/internet, Paint) qaysi holatda va nima uchun qo'llaniladi?",
+   "variantlar": [
+    "Syurpriz - tasodifiy tanlash, kompyuter/internet - fayl yuklash, Paint - o'zgartirishlar uchun",
+    "Ribbon panelida tanlanadi",
+    "Hammasi bir vaqtda",
+    "Faqat Paint to'g'ri"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

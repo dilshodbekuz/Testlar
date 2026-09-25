@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Matematika (1-qism)",
+ "mavzu": "Ko'paytirishning taqsimot qonuni",
+ "savollar": [
+  {
+   "savol": "Ko'paytirishning qo'shishga nisbatan taqsimot qonuni qanday ifodalanadi?",
+   "variantlar": [
+    "a · b = b · a",
+    "(a - b) · c = a · c - b · c",
+    "(a · b) · c = a · (b · c)",
+    "(a + b) · c = a · c + b · c"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'paytirishning ayirishga nisbatan taqsimot qonuni qanday ifodalanadi?",
+   "variantlar": [
+    "(a + b) · c = a · c + b · c",
+    "a · b + a · c = a · (b + c)",
+    "(a - b) · c = a · c - b · c",
+    "a + b = b + a"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yig'indini songa ko'paytirish uchun qanday qilish kerak?",
+   "variantlar": [
+    "Faqat birinchi qo'shiluvchini ko'paytirish",
+    "Qo'shiluvchilarning har birini shu songa ko'paytirish va hosil bo'lgan ko'paytmalarni qo'shish",
+    "Qo'shiluvchilarni ayirish va natijani ko'paytirish",
+    "Hamma qo'shiluvchilarni bir-biriga ko'paytirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ayirmani songa ko'paytirish uchun qanday qilish kerak?",
+   "variantlar": [
+    "Faqat kamayuvchini ko'paytirish",
+    "Ayirmani dastlab hisoblash, keyin ko'paytirish",
+    "Kamayuvchi va ayriluvchini ko'paytirish va natijalarni qo'shish",
+    "Kamayuvchi va ayriluvchini alohida-alohida shu songa ko'paytirish va birinchi ko'paytmadan ikkinchisini ayirish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matndagi plitka masalasida yuvinish xonasi poliga jami nechta plitka yotqizilgan?",
+   "variantlar": [
+    "24",
+    "32",
+    "36",
+    "28"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(3 + 5) · 4 = 3 · 4 + 5 · 4 bu munosabat qaysi qonunni ifodalaydi?",
+   "variantlar": [
+    "Ko'paytirishning assotsiativlik qonuni",
+    "Ko'paytirishning ayirishga nisbatan taqsimot qonuni",
+    "Ko'paytirishning qo'shishga nisbatan taqsimot qonuni",
+    "Qo'shishning kommutativlik qonuni"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(8 - 3) · 4 = 8 · 4 - 3 · 4 bu munosabat qaysi qonunni ifodalaydi?",
+   "variantlar": [
+    "Ko'paytirishning qo'shishga nisbatan taqsimot qonuni",
+    "Ko'paytirishning ayirishga nisbatan taqsimot qonuni",
+    "Ko'paytirishning kommutativlik qonuni",
+    "Qo'shishning assotsiativlik qonuni"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'paytirishning taqsimot qonuni qancha sondagi qo'shiluvchilar uchun o'rinli?",
+   "variantlar": [
+    "Faqat uchta qo'shiluvchi uchun",
+    "Faqat ikki qo'shiluvchi uchun",
+    "Faqat bir qo'shiluvchi uchun",
+    "Ixtiyoriy sondagi qo'shiluvchilar uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "62 · 7 = (60 + 2) · 7 = 420 + 14 = 434 hisoblashda qaysi qonun qo'llanildi?",
+   "variantlar": [
+    "Ko'paytirishning assotsiativlik qonuni",
+    "Qo'shishning kommutativlik qonuni",
+    "Ko'paytirishning ayirishga nisbatan taqsimot qonuni",
+    "Ko'paytirishning qo'shishga nisbatan taqsimot qonuni"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "59 · 6 = (60 - 1) · 6 = 360 - 6 = 354 hisoblashda qaysi qonun qo'llanildi?",
+   "variantlar": [
+    "Ko'paytirishning ayirishga nisbatan taqsimot qonuni",
+    "Ko'paytirishning assotsiativlik qonuni",
+    "Ko'paytirishning qo'shishga nisbatan taqsimot qonuni",
+    "Qo'shishning kommutativlik qonuni"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "7 · (10 + 4) ni taqsimot qonuni qo'llab hisoblang.",
+   "variantlar": [
+    "70",
+    "108",
+    "28",
+    "98"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "9 · (100 + 10) ni taqsimot qonuni qo'llab hisoblang.",
+   "variantlar": [
+    "1080",
+    "1000",
+    "900",
+    "990"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "8 · (90 + 1) ni taqsimot qonuni qo'llab hisoblang.",
+   "variantlar": [
+    "720",
+    "98",
+    "728",
+    "800"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "4 · (30 + 100) ni taqsimot qonuni qo'llab hisoblang.",
+   "variantlar": [
+    "130",
+    "140",
+    "620",
+    "520"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "6 · (20 + 7) ni taqsimot qonuni qo'llab hisoblang.",
+   "variantlar": [
+    "42",
+    "162",
+    "192",
+    "120"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "5 · (100 - 3) ni taqsimot qonuni qo'llab hisoblang.",
+   "variantlar": [
+    "490",
+    "515",
+    "500",
+    "485"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "51 · 7 ni qulay usulda hisoblang (taqsimot qonunidan foydalanib).",
+   "variantlar": [
+    "305",
+    "357",
+    "370",
+    "327"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "24 · 11 ni qulay usulda hisoblang.",
+   "variantlar": [
+    "240",
+    "264",
+    "310",
+    "234"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3 · 71 ni qulay usulda hisoblang.",
+   "variantlar": [
+    "210",
+    "215",
+    "200",
+    "213"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "66 · 15 ni qoidadan foydalanib hisoblang (sonni 10 ga ko'paytirib, yarmi qo'shish).",
+   "variantlar": [
+    "880",
+    "960",
+    "1000",
+    "990"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "299 · 4 ni qulay usulda hisoblang.",
+   "variantlar": [
+    "1196",
+    "1000",
+    "1100",
+    "1200"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "4 · 701 ni qulay usulda hisoblang.",
+   "variantlar": [
+    "2800",
+    "2804",
+    "2900",
+    "2700"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "505 · 6 ni qulay usulda hisoblang.",
+   "variantlar": [
+    "3030",
+    "3000",
+    "3500",
+    "2500"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sonni 5 ga ko'paytirish qoidasiga ko'ra, 528 · 5 ni hisoblang.",
+   "variantlar": [
+    "2650",
+    "2500",
+    "2640",
+    "2700"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "248 · 5 ni hisoblang (sonni 5 ga ko'paytirisning qoidasidan foydalanib).",
+   "variantlar": [
+    "1244",
+    "1240",
+    "1200",
+    "1300"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "374 · 5 ni hisoblang.",
+   "variantlar": [
+    "1870",
+    "1900",
+    "1850",
+    "1800"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "9 · (5x + 2) qavslarini oching. Qaysi ifoda kelib chiqadi?",
+   "variantlar": [
+    "45x + 18",
+    "45x + 2",
+    "45x + 9",
+    "5x + 18"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "7 · (9x - 11) qavslarini oching. Qaysi ifoda kelib chiqadi?",
+   "variantlar": [
+    "9x - 77",
+    "63x - 77",
+    "63x - 11",
+    "63x - 7"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "12a + 51b ifodaning qiymatini toping, agar a = 11 va b = 22 bo'lsa.",
+   "variantlar": [
+    "1254",
+    "1200",
+    "1230",
+    "1300"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "7a - 5b ifodaning qiymatini toping, agar a = 13 va b = 9 bo'lsa.",
+   "variantlar": [
+    "91",
+    "46",
+    "45",
+    "60"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

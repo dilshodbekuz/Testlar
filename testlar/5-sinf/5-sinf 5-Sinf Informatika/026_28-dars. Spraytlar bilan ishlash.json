@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Informatika",
+ "mavzu": "28-dars. Spraytlar bilan ishlash",
+ "savollar": [
+  {
+   "savol": "Scratch dasturlash muhiti nechta muhitda ishlaydi?",
+   "variantlar": [
+    "3 ta (online, offline va serverda)",
+    "1 ta (faqat online)",
+    "2 ta (online va offline)",
+    "4 ta (online, offline, serverda va mobil)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Skript nima?",
+   "variantlar": [
+    "Dasturning eng kichik fragmenti",
+    "Ma'lum algoritm asosida ketma-ket taxlangan rangli bloklar",
+    "Sahna foni o'zgartiradigan kod",
+    "Spray kostyumini o'zgartiradigan buyruq"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Blok nima?",
+   "variantlar": [
+    "Dastur natijasini kuzatish maydoni",
+    "Spray libosining bitta tasviri",
+    "Dasturning eng kichik (minimal) fragmenti",
+    "Sahnaning qismi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sprayt nima?",
+   "variantlar": [
+    "Scratch dasturi stilida yaratilgan obyekt (qahramon)",
+    "Sahnaning foni",
+    "Dastur kodining bitta qatori",
+    "Blok rangining turi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Stage (sahna) nima?",
+   "variantlar": [
+    "Blok paneli",
+    "Spraylarin kutubxonasi",
+    "Bloklarni taxlash joyi",
+    "Dastur natijasini kuzatish mumkin bo'lgan ishchi oyna"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sahnaning eni qancha birlikka teng?",
+   "variantlar": [
+    "640 birlik",
+    "360 birlik",
+    "480 birlik",
+    "500 birlik"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sahnaning bo'yi qancha birlikka teng?",
+   "variantlar": [
+    "360 birlik",
+    "500 birlik",
+    "480 birlik",
+    "640 birlik"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Liboslarni yaratish va o'zgartirish uchun qanday muharrir ishlatiladi?",
+   "variantlar": [
+    "Advanced Editor",
+    "Photo Editor",
+    "Paint Editor",
+    "Image Editor"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yashil bayroqcha qanday vazifani bajaradi?",
+   "variantlar": [
+    "Spraytni o'chiradi",
+    "Dasturni to'xtatadi",
+    "Sahnani o'zgartirad",
+    "Dasturni ishga tushiradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bloklar nechta rangga ajratilgan?",
+   "variantlar": [
+    "7 ta rangga",
+    "5 ta rangga",
+    "11 ta rangga",
+    "9 ta rangga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar sahnani koordinata tekisligi sifatida tasavvur etsak, spraytlarning harakatlanishi qaysi nuqtadan boshlanadi?",
+   "variantlar": [
+    "x=-240, y=-180 nuqtasidan",
+    "x=0, y=0 nuqtasidan",
+    "x=480, y=360 nuqtasidan",
+    "x=240, y=180 nuqtasidan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Scratch dasturlash muhitining asosiy oynasi nechtaqismli ustunchadan iborat?",
+   "variantlar": [
+    "5 qismli",
+    "3 qismli",
+    "2 qismli",
+    "4 qismli"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sahna maydonda qanday loyihalar natijasini kuzatish mumkin?",
+   "variantlar": [
+    "Rasm, o'yin, animatsiya kabi loyihalar",
+    "Faqat o'yin",
+    "Faqat rasm",
+    "Faqat animatsiya"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sprayt qanday elementlardan tashkil topgan?",
+   "variantlar": [
+    "Faqat bloklar",
+    "Faqat liboslar",
+    "Liboslar va ularni harakatga keltiruvchi buyruqlardan",
+    "Faqat o'zgaruvchilardan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Skriptlarni hosil qiluvchi buyruq bloklar qaysi panelda joylashgan?",
+   "variantlar": [
+    "Spraytlarni boshqarish panelida",
+    "Skriptlar (bloklar) panelida",
+    "Markaziy panelda",
+    "Bloklarni o'lcash panelida"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Algoritm asosida bloklar ketma-ket taxlanish qaysi panelda amalga oshiriladi?",
+   "variantlar": [
+    "Markaziy panelda",
+    "Bloklarni o'lcash panelida",
+    "Rangli bloklar panelida",
+    "Skriptlar panelida"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dastur kutubxonasidagi kostyumlarni almashtirish vazifalari qaysi bo'limda bajariladi?",
+   "variantlar": [
+    "Sounds (musiqa) bo'limida",
+    "Costumes (kostyumlar) bo'limida",
+    "Code bo'limida",
+    "Stage bo'limida"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qahramonlarga ovoz berish va musiqa tovushiga harakatlantirish vazifalari qaysi bo'limda bajariladi?",
+   "variantlar": [
+    "Code bo'limida",
+    "Paint bo'limida",
+    "Sounds (musiqa) bo'limida",
+    "Costumes bo'limida"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yangi spraytni qo'shish uchun nechta usul (tugmacha) mavjud?",
+   "variantlar": [
+    "4 ta",
+    "3 ta",
+    "2 ta",
+    "5 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Pushti oltiburchak tugmachasi nima uchun ishlatiladi?",
+   "variantlar": [
+    "Dasturni ishga tushirish uchun",
+    "Spraytni qo'shish uchun",
+    "Sahnani o'zgartiirish uchun",
+    "Namoyishni ixtiyoriy vaqtda to'xtatish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Spray qo'shish tugmachalaridan 'Syurpriz' variantini tanlasangiz nima bo'ladi?",
+   "variantlar": [
+    "Standart mushuk spraytni o'chirib yuboradi",
+    "Dasturning o'zi tanlagan tasodifiy sprayt paydo bo'ladi",
+    "Siz tanlagan sprayt paydo bo'ladi",
+    "Yangi kostyum yaratiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kompyuter xotirasidan yangi spraytni yuklash uchun 5 ta tugmachadan qaysini bosish kerak?",
+   "variantlar": [
+    "Ikkinchi tugmachani",
+    "Birinchi tugmachani",
+    "To'rtinchi tugmachani",
+    "Uchinchi tugmachani"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dasturning o'z grafik muharririda yangi sprayt chizish uchun 5 ta tugmachadan qaysini bosish kerak?",
+   "variantlar": [
+    "Birinchi tugmachani",
+    "To'rtinchi tugmachani",
+    "Ikkinchi tugmachani",
+    "Uchinchi tugmachani"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Spraytni olib tashlash uchun 5 ta tugmachadan qaysini bosish kerak?",
+   "variantlar": [
+    "Ikkinchi tugmachani",
+    "Uchinchi tugmachani",
+    "Beshinchi tugmachani",
+    "Birinchi tugmachani"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yashil bayroqcha 2 marta sichqoncha tugmachasi bilan bosilsa nima sodir bo'ladi?",
+   "variantlar": [
+    "Dasturni to'xtatadi",
+    "Faqat birinchi blok bajariladi",
+    "Barcha buyruqlar ishga tushadi",
+    "Sahnaning rangi o'zgaradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Spraytlar kutubxonasida qahramonlar nima sababga guruhlarga ajratilgan holda saqlanadi?",
+   "variantlar": [
+    "Sahnada joyini o'zgartiirish uchun",
+    "Xotirani tejash uchun",
+    "Ishlash tezligini oshirish uchun",
+    "Qulaylik uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sahnaning markaziy koordinatasi x=0, y=0 bo'lsa, sahnaning yuqori o'ng burchagining koordinatasi qanday bo'ladi?",
+   "variantlar": [
+    "x=240, y=-180",
+    "x=-240, y=180",
+    "x=-240, y=-180",
+    "x=240, y=180"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Markaziy panelga bloklarni sudrab o'tkazish jarayoni qaysi jarayonga o'xshaydi va nima sababga?",
+   "variantlar": [
+    "Fayl nusxalash jarayoniga, chunki ma'lumot ko'chiriladi",
+    "Loyihani tayyorlash jarayoniga, chunki ikkalasi ham yaratish",
+    "Pazl yig'ish jarayoniga, chunki bloklar birbiri bilan bog'lanadi",
+    "Rasm chizish jarayoniga, chunki ekranda tasvirlash"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Spray'ning 'xulqi' deb aytilganda qanday element tushuniladi?",
+   "variantlar": [
+    "Spray'ning kostyum va liboslari",
+    "Spray'ning rangi va o'lcham",
+    "Spray'ning joylashgan sahnaasi",
+    "Spray'ning skripti (o'z buyruqlari)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Spray'ning xususiyati qaysi elementlardan tashkil topgan?",
+   "variantlar": [
+    "Faqat liboslar",
+    "Skriptlar va o'zgaruvchi qiymatlardan",
+    "Faqat skriptlar",
+    "Faqat o'zgaruvchilar"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

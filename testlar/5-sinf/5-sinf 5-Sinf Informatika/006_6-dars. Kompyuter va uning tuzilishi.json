@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Informatika",
+ "mavzu": "6-dars. Kompyuter va uning tuzilishi",
+ "savollar": [
+  {
+   "savol": "Kompyuter so'zi qaysi tildan olingan?",
+   "variantlar": [
+    "Rus tilidan",
+    "Ingiliz tilidan",
+    "Arab tilidan",
+    "Frantsuz tilidan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Monoblok nima?",
+   "variantlar": [
+    "Monitor va tizim bloki birlashtirilgan ixcham kompyuter",
+    "Planshetli qurilma",
+    "Stol usti kompyuteri",
+    "Portable kompyuter"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Monitor nima uchun ishlatiadi?",
+   "variantlar": [
+    "Ma'lumotlarni saqlash uchun",
+    "Tovushni chiqarish uchun",
+    "Ma'lumotlarni kiritish uchun",
+    "Ma'lumotlarni ekranda namoyish qilish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Laptop nima?",
+   "variantlar": [
+    "Ruchaniy planshet",
+    "Stol usti kompyuteri",
+    "Noutbuk (bloknot tipidagi) shaxsiy kompyuter",
+    "Plazmali monitor"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tablet nima?",
+   "variantlar": [
+    "Desktop kompyuter",
+    "Planshetli shaxsiy kompyuter",
+    "Monoblok kompyuter",
+    "Tizim bloki"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zamonaviy kompyuter nima?",
+   "variantlar": [
+    "Faqat hisob-kitoblarni amalga oshiruvchi qurilma",
+    "Axborotni katta tezlikda qayta ishlovchi universal avtomatik qurilma",
+    "Murakkab tuzilishga ega qurilma",
+    "Faqat matnni saqlash qurilmasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tizim blokining tashqi qoplamasi nima deb nomlanadi?",
+   "variantlar": [
+    "Shell",
+    "Qopma",
+    "Cover",
+    "Keys"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Keyboard qanday qatorga o'rnatilgan?",
+   "variantlar": [
+    "4 qatorga",
+    "3 qatorga",
+    "5 qatorga",
+    "6 qatorga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nettop nima uchun mo'ljallangan?",
+   "variantlar": [
+    "Internet ilovalari bilan ishlashga",
+    "Video tahrir uchun",
+    "Rasm tahriri uchun",
+    "Musiqani saqlash uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Monitor turlari qaysilari?",
+   "variantlar": [
+    "Elektron-nurli, plazmali, suyuq kristalli, sensorli",
+    "Faqat suyuq kristalli va plazmali",
+    "Sensorli va monitorli",
+    "Faqat elektron-nurli"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kompyuterlar qanday asoslarda bir-biridan farq qiladi?",
+   "variantlar": [
+    "Faqat tashqi dizayni bilan",
+    "Faqat narxi bilan",
+    "O'lcham hamda ishni bajarish imkoniyatlari bilan",
+    "Faqat rangi bilan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shaxsiy kompyuterni nechi ta qurilma ta'minlab beradi?",
+   "variantlar": [
+    "5 ta",
+    "3 ta",
+    "4 ta",
+    "2 ta"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kompyuterlari qanday asosida quriladi?",
+   "variantlar": [
+    "O'z-o'ziga farqli asosida",
+    "Yagona arxitektura asosida",
+    "Qo'llanuvchi talabi asosida",
+    "Turli-turli asoslarda"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dastlab kompyuter nima uchun yaratilgan?",
+   "variantlar": [
+    "Hovuzni qurishis uchun",
+    "Musik tinyish uchun",
+    "Rasm saqlamak uchun",
+    "Murakkab hisob-kitoblarni amalga oshirish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hozirda jahon bozorlarida qancha modeldagi kompyuter sotuvga chiqarilgan?",
+   "variantlar": [
+    "150 dan ortiq",
+    "100 dan ortiq",
+    "50 dan ortiq",
+    "75 dan ortiq"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Foydalanuvchi kompyuter bilan qanday qurilmalar yordamida muloqot qiladi?",
+   "variantlar": [
+    "Govezi orqali",
+    "Monitor, klaviatura, sichqoncha va tizim bloki yordamida",
+    "Faqat tovush orqali",
+    "Qalam orqali"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Desktop nima?",
+   "variantlar": [
+    "Stol usti shaxsiy kompyuteri",
+    "Monoblok",
+    "Ruchaniy qurilma",
+    "Planshet"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Palmtop nima?",
+   "variantlar": [
+    "Monitor va blok birlashtirilgan",
+    "Stol usti kompyuteri",
+    "Internet uchun mo'ljallangan",
+    "Cho'ntak kompyuteri, organayzerlarga bo'linadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tizim bloki ichida nechi ta komponent mavjud?",
+   "variantlar": [
+    "6 ta",
+    "3 ta",
+    "4 ta",
+    "5 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Keyboard qanday qurilgan?",
+   "variantlar": [
+    "Ekran asosida",
+    "Plata asosida",
+    "Sensorli asos bilan",
+    "Tugmachalardan iborat"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nega yangi kompyuter ishlab chiqaruvchi kompaniyalar paydo bo'lmoqda?",
+   "variantlar": [
+    "Hisoblash osonlashdi",
+    "Kompaniyalar ishonmasalari",
+    "Kompyuterlarga bo'lgan ehtiyojning kundan-kunga oshishi sababli",
+    "Jahonda ortiqcha pul bor"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Turli kompaniyalar ishlab chiqarilgan kompyuterlar bir-biridan nima bilan farq qiladi?",
+   "variantlar": [
+    "Faqat narxi bilan",
+    "Faqat rangi bilan",
+    "Farqi umuman yo'q",
+    "Dizayni, quvvati va qo'shimcha imkoniyatlari bilan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Desktop kompyuterlari nima sababli omma orasida eng ko'p tarqalgan?",
+   "variantlar": [
+    "Universalligi bilan ajralib turishi bilan birgalikda",
+    "Eng arzon",
+    "Eng kichik",
+    "Eng yangi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kompyuterlar bir-biridan tashqi ko'rinishi va o'lchami bilan farq qilsa-da, ularning asosiy xususiyati nima?",
+   "variantlar": [
+    "Turli rang bilan qurilgani",
+    "Turli tillar bilan ishlashi",
+    "Yagona arxitektura asosida qurilgani",
+    "Turli kompaniyalar tomonidan ishlab chiqilgani"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kompyuter savdosi jahon biznesida qanday ahamiyatga ega?",
+   "variantlar": [
+    "Kichik daromad manba",
+    "Umuman daromad emas",
+    "Serdaromad manbalardan biri",
+    "Faqat mahalliy daromad"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tizim blokini olib tashlaganimizda nima ko'rishimiz mumkin?",
+   "variantlar": [
+    "Asosiy plata, protsessor, xotira va boshqa qurilmalar",
+    "Faqat plastmassa",
+    "Hech narsa ko'rinmaydi",
+    "Faqat radiobox"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kompyuter arxitekturasi qaysi qurilmalarda qo'llaniladi?",
+   "variantlar": [
+    "Elektron hisoblash mashinalari, zamonaviy kompyuterlar va smartfonlarda",
+    "Umuman qo'llanilmaydi",
+    "Faqat smartfonlarda",
+    "Faqat eski kompyuterlarda"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kompyuter ishlab chiqarish texnologiyalari nima bo'lmoqda?",
+   "variantlar": [
+    "Orqaga qaytib bormoqda",
+    "To'xtab qolmoqda",
+    "Keskin o'zgarib takomillashib bormoqda",
+    "O'zgarib bormasligi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kompyuter zamonaviy jamiyatning deyarli barcha sohalarida qo'llaniladi. Buning sababi nima?",
+   "variantlar": [
+    "Kompyuterlar juda qimmat",
+    "Davr sinovidan o'tgan yangi avlodiga kirishgani",
+    "Rasmlar juda yangi",
+    "Faqat o'zbekistonda ishi bor"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Birinchi kompyuter dastlab nima uchun mo'ljallangan bo'lsa, keyinchalik uning funksiyalari qanday o'zgarib ketdi?",
+   "variantlar": [
+    "Birinchi - murakkab hisob-kitoblar, keyinchalik - matn, rasm, tovush, videodan ishlash",
+    "Birinchi - ekran, keyinchalik - keyboard",
+    "Birinchi - boshqarish, keyinchalik - saqlash",
+    "Birinchi - o'yin, keyinchalik - ish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

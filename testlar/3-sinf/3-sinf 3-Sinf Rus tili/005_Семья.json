@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Rus tili",
+ "mavzu": "Семья",
+ "savollar": [
+  {
+   "savol": "Dochka nima o'qiyapti?",
+   "variantlar": [
+    "zhurnal",
+    "gazeta",
+    "skazka",
+    "uchebnik"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sin qanday kitob o'qiyapti?",
+   "variantlar": [
+    "gazeta",
+    "skazka",
+    "uchebnik",
+    "zhurnal"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Deti nima o'qiyapti?",
+   "variantlar": [
+    "shaxmaty",
+    "gazeta",
+    "zhurnal",
+    "kitoblar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mama nima qilmoqda?",
+   "variantlar": [
+    "gazeta o'qiyapti",
+    "televizia ko'rmoqda",
+    "shaxmatge o'ynayapti",
+    "obed gotovoqda"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Brater ekranda nima ko'rmoqda?",
+   "variantlar": [
+    "kino",
+    "multfilm",
+    "gazeta",
+    "skazka"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sestra multfilm ko'rmoqda, papa nima qilmoqda?",
+   "variantlar": [
+    "shaxmatge o'ynayapti",
+    "gazeta o'qiyapti",
+    "televizia ko'rmoqda",
+    "obed gotovoqda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dedushka ile brater nima o'ynayapti?",
+   "variantlar": [
+    "loto",
+    "futbol",
+    "tennis",
+    "shaxmaty"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Babushka kuni qachon ko'tariladi?",
+   "variantlar": [
+    "papa va mamadan oldin",
+    "barnadan keyin",
+    "papa va mamadan keyin",
+    "dedushkadan keyin"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mama Tanyaga qanday kitob berdi?",
+   "variantlar": [
+    "yangi kitob",
+    "zhurnal",
+    "eski gazeta",
+    "qisqa skazka"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'Volshebnitsa' she'ri kimning haqida?",
+   "variantlar": [
+    "babushka",
+    "mama",
+    "sestra",
+    "dochka"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mama va dochka obedni qanday tayyorlamoqda?",
+   "variantlar": [
+    "mama yolg'iz",
+    "dochka yolg'iz",
+    "dedushka bilan",
+    "birgalikda"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dialoqda Rustem dya Saidga mama haqida nima deydi?",
+   "variantlar": [
+    "mama obed tayyorlayapti",
+    "mama televizia ko'rmoqda",
+    "mama kitob o'qiyapti",
+    "mama gazeta o'qiyapti"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mama va sestra nima o'qiyapti?",
+   "variantlar": [
+    "gazeta",
+    "zhurnal",
+    "skazka",
+    "kitoblar"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mama Tanya haqida nima deydi?",
+   "variantlar": [
+    "Tanya katta",
+    "Tanya kichkina",
+    "Tanya kamchil",
+    "Tanya xomaki"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tanya babushkaga nima o'qiyapti?",
+   "variantlar": [
+    "uchebnik",
+    "gazeta",
+    "zhurnal",
+    "skazka"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kechqurun oila qayerda?",
+   "variantlar": [
+    "mektebda",
+    "bahchada",
+    "kuchada",
+    "uydа"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Babushka ile dedushka kechqurun nima qilmoqda?",
+   "variantlar": [
+    "skazka o'qiyapti",
+    "gazeta o'qiyapti",
+    "televizia ko'rmoqda",
+    "shaxmaty o'ynayapti"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Babushka har kuni qachon turibdi?",
+   "variantlar": [
+    "shаmolli",
+    "kunduzi",
+    "ertalab",
+    "kechqurun"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Papa ile brater nima qilyapti?",
+   "variantlar": [
+    "obed gotovoqda",
+    "gazeta o'qiyapti",
+    "shaxmaty o'ynayapti",
+    "multfilm ko'rmoqda"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mama Tanya va babushka haqida nima deydi?",
+   "variantlar": [
+    "ular qorayapti",
+    "ular umidali",
+    "ular kichkina",
+    "ular yomon"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matndagi oilada jami nechta kishi?",
+   "variantlar": [
+    "7",
+    "6",
+    "5",
+    "8"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tanya nima uchun mama kitob berdi?",
+   "variantlar": [
+    "Tanya bema'no edi",
+    "Tanya katta bo'ldi",
+    "Tanya kichkina edi",
+    "Tanya xomaki edi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mama Tanya va babushka haqida 'umidasiz' so'zi nima anglatadi?",
+   "variantlar": [
+    "ular zavotchi",
+    "ular g'amxo'r",
+    "ular salohiyatli",
+    "ular yomon"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Babushka 'volshebnitsa' deb ataladi, chunki u nima qiladi?",
+   "variantlar": [
+    "bir necha turli ish qiladi",
+    "faqat gazeta o'qiyadi",
+    "faqat televizia ko'radi",
+    "hech narsa qilmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi oilada hammasi nechta bola bor?",
+   "variantlar": [
+    "4",
+    "1",
+    "3",
+    "2"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tanya mama va babushka ile bir safarда nima qilmoqda?",
+   "variantlar": [
+    "televizia ko'rmoqda",
+    "skazka o'qishmoqda",
+    "shaxmaty o'ynayapti",
+    "gazeta o'qiyapti"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mama 'Tanya katta bo'ldi' deganida nima tushunadi?",
+   "variantlar": [
+    "Tanya xozir yaxshi o'qiydi",
+    "Tanya yoshini ko'paytdi",
+    "Tanya endi maktabga boradi",
+    "Tanya o'ziga qila oladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dialoqda Rustem qayngusi Said opa haqida qanday xabar berdi?",
+   "variantlar": [
+    "papa shaxmaty o'ynayapti",
+    "papa gazeta o'qiyapti",
+    "papa obedni tayyorlayapti",
+    "papa televizia ko'rmoqda"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi oila a'zolari bir safarда nima qilyapti?",
+   "variantlar": [
+    "hech narsa",
+    "bir xil ish",
+    "turli ish",
+    "o'qish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar Tanya babushkaga skazka o'qisa, babushka nima qiladi?",
+   "variantlar": [
+    "televizia ko'radi",
+    "shaxmaty o'ynaydi",
+    "gazeta o'qiyadi",
+    "dinlaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

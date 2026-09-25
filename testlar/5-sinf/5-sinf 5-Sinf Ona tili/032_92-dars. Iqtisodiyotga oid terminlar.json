@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Ona tili",
+ "mavzu": "92-dars. Iqtisodiyotga oid terminlar",
+ "savollar": [
+  {
+   "savol": "Tovar nima?",
+   "variantlar": [
+    "Oila daromadi",
+    "Tovar qiymati",
+    "Sotish uchun chiqarilgan mahsulot",
+    "Tadbirkorning plani"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Narx nima?",
+   "variantlar": [
+    "Sotish uchun chiqarilgan mahsulot",
+    "Oila daromadi",
+    "Tovar qiymatining puldagi ifodasi",
+    "Tadbirkorlik qoidasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Daromad nima?",
+   "variantlar": [
+    "Kishi yoki oilaning ma'lum vaqtda qo'lga kiritgan moddiy hamda pul tushumlari",
+    "Tovar sotish jarayoni",
+    "Faqat pul tushumlari",
+    "Faqat moddiy narsalar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda nechta tadbirkorlikka oid maqola berilgan?",
+   "variantlar": [
+    "Ikkita",
+    "Olti ta",
+    "Sakkiz ta",
+    "To'rt ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Ertangi ishga bugun reja tuz\" maqolasi nimani anglatadi?",
+   "variantlar": [
+    "Reja tuzing kerak, ammo ertalab emas",
+    "Ertangi ish uchun bugundan tayyorlik qil",
+    "Bugun ishlash to'xtadi",
+    "Bugun reja tuzish shart emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Tadbir bilan mushkul oson bo'lar\" deganda nima tushuniladi?",
+   "variantlar": [
+    "Tadbir qo'llash qiyindir",
+    "Tadbir va fikr-e'tibor bilan qiyin ishlarni hal qilish mumkin",
+    "Hamma muammolar o'zi oson",
+    "Muammolar bosib ketadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Qalovini topsang, qor yonar\" maqolasi nima anglatadi?",
+   "variantlar": [
+    "Yo'l topish oson emas",
+    "To'g'ri yo'l topilsa muammolar hal bo'ladi",
+    "Qor yanaroq kerak",
+    "Qor har doim yanadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Daromad quyidagilardan tashkil topadi?",
+   "variantlar": [
+    "Faqat moddiy narsalar",
+    "Moddiy va pul tushumlari",
+    "Faqat pensiya",
+    "Faqat pul"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Foydadan foyda chiqmasa, qora sigir qayda?\" maqolasi nima anglatadi?",
+   "variantlar": [
+    "Sigir rang muhim",
+    "Sigir muhim emas",
+    "Sigirni sotish kerak",
+    "Agar foyda bo'lmasa, jarayonning ma'nosi yo'q"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi so'zlardan qaysi iqtisodga oid?",
+   "variantlar": [
+    "Veb-sahifa",
+    "Narx",
+    "Avatar",
+    "Xeshteg"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar tovar narxi ko'paysa, bu nima anglatadi?",
+   "variantlar": [
+    "Haridorlar kamaygan",
+    "Tovar sifati kamaygan",
+    "Tovarning puldagi qiymati oshgan",
+    "Tadbirkor muvaffaq bo'lmagan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Oila daromadi qaysi manbalardan to'plamlanishi mumkin?",
+   "variantlar": [
+    "Faqat bolalar",
+    "Faqat tadbir",
+    "Faqat ishtidan",
+    "Ish, pensiya, stipendiya va boshqa manbalari"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Puxtaning ishi 'besh', 'shoshma'ning ishi bo'sh\" maqolasi qaysi faoliyat tarzini aytadi?",
+   "variantlar": [
+    "Besh raqami muhimdir",
+    "Ish turi muhim emas",
+    "Tezlik har doim yaxshi",
+    "Tizimli, to'g'ri ish, shoshqaloq ish esa foydali emas"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tovarni sotish uchun muhim narsalar nima?",
+   "variantlar": [
+    "Faqat reklama",
+    "Tovar, narx va xaridor",
+    "Faqat narx",
+    "Faqat mahsulot"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Narx\" iqtisodiyotda qanday rol o'ynaydi?",
+   "variantlar": [
+    "Daromadning turi",
+    "Faqat raqam",
+    "Maqola nomi",
+    "Tovarning puldagi qiymatini ko'rsatadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tadbirkorlik muvaffaq bo'lishi uchun nima zarur?",
+   "variantlar": [
+    "Faqat omad",
+    "Faqat bilim",
+    "Faqat pul",
+    "Reja, tadbir va doimiy mehnat"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tadbirkorlik maqolalarining birgalikdagi ma'nosi nima?",
+   "variantlar": [
+    "Reja, tadbir va tizimli ish ahamiyatli",
+    "Ish va tadbir muhim emas",
+    "Muammolar o'zi hal bo'ladi",
+    "Ishlash qiyndir"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Ot olmay oxur tuzat\" - bu nimani tushuntiradi?",
+   "variantlar": [
+    "Mavjud imkoniyat bilan yangi yechim topish",
+    "Ot narsaning o'zi",
+    "Otni sotib olish kerak",
+    "Oxur juda muhimdir"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Iqtisodga oid qaysi jarayon matnda ko'rsatilgan?",
+   "variantlar": [
+    "Faqat sotish",
+    "Faqat pul",
+    "Internetdan savdo",
+    "Tovar, narx, daromad va tadbirkorlik o'rtasidagi bog'lanish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Oila daromadi va tadbirkorlik o'rtasida qanday aloqadorlik mavjud?",
+   "variantlar": [
+    "Daromad tobora kamayadi",
+    "Tadbirkorlik qiyindir",
+    "Aloqadorlik yo'q",
+    "Muvaffaq tadbirkorlik oila daromadini ko'paytirishi mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tovar, narx va daromad o'rtasida qanday bog'lanish bor?",
+   "variantlar": [
+    "Faqat tovar muhimdir",
+    "Ularning hech qanday aloqasi yo'q",
+    "Daromad erkindir",
+    "Narx tovarning qiymatini bildiradi, uni sotish orqali daromad kiritiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar tovar narxi pasaysa, tadbirkorning daromadi qanday bo'ladi?",
+   "variantlar": [
+    "Ikki baravar ortadi",
+    "Kamayishi mumkin",
+    "O'zgarmaydi",
+    "Ko'payadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Maqolalardan tushunilgan tadbirkorlik faoliyatining asosi nima?",
+   "variantlar": [
+    "Tasodifiy ish",
+    "Boshqalarning maslahat",
+    "Faqat pul",
+    "Shaxsning imkoniyatlarini to'g'ri qo'llash"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Ertangi ishga bugun reja tuz\" va \"Tadbir bilan mushkul oson bo'lar\" maqolalari qaysi fikrni birlashtiradi?",
+   "variantlar": [
+    "Muammolar har doim oson",
+    "Tezlik eng muhimdir",
+    "Pul asosiy ish",
+    "Tayyorlik va tizimli ish muvaffaqiyatning kaliti"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Puxtaning ishi 'besh'\" va \"Ot olmay oxur tuzat\" maqolalari qaysi iqtisodiy tamoyilni ko'rsatadi?",
+   "variantlar": [
+    "Tezlik yagona yechim",
+    "Kichik ish yaxshi",
+    "Faqat pul muhim",
+    "Samarali ish va mavjud imkoniyatlardan foydalanish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tadbirkor muvaffaqiyati qaysi omillarning birlashmasida ko'rinadi?",
+   "variantlar": [
+    "Faqat pul va omad",
+    "Reja, tizimli ish va doimiy mehnat",
+    "Faqat maqolalar",
+    "Tasodifiy natija"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Tovar\" tushunchasining iqtisodiyotdagi ahamiyati nima?",
+   "variantlar": [
+    "Faqat mahsulot",
+    "Rang va tartibi",
+    "Sotish uchun chiqarilgan mahsulot va daromad manba",
+    "Xanjarning nomi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Foydadan foyda chiqmasa, qora sigir qayda?\" maqolasining iqtisodiy ma'nosi nima?",
+   "variantlar": [
+    "Sigir rang muhim",
+    "Sigir sotish lazim",
+    "Foydasiz faoliyat mazmun va asosi yo'q",
+    "Qora rang noto'g'ri"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar tadbirkor tovar narxini noto'g'ri qo'ysa, nima bo'ladi?",
+   "variantlar": [
+    "Hech narsa bo'lmaydi",
+    "Faqat foyda",
+    "Sotuv va daromad muammoga duch kelishi mumkin",
+    "Qo'l olib ketyapti"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Barcha tadbirkorlik maqolalari birgalikda qaysi fikrni ta'kidlaydi?",
+   "variantlar": [
+    "Ish qiyndir",
+    "Tadbirkorlik - tasodifiy ish",
+    "Hamma ish oson",
+    "Tadbirkorlik reja, tadbir, tizim va mehnatning birlashmasidan iborat"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,315 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf O‘qish",
+ "mavzu": "Siz bunga qodirsiz",
+ "savollar": [
+  {
+   "savol": "Saida xola kimdir?",
+   "variantlar": [
+    "Ko'p qavatli uyning qo'shnisi",
+    "Bozorda sotuvchi",
+    "Maktab o'qituvchisi",
+    "Mahallaning raisi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Saida xola har kuni ertalab qanday ishlama qiladilar?",
+   "variantlar": [
+    "Ko'chada yuradi",
+    "Boshqalar uchun ovqat pishiradi",
+    "Bozorga boradi",
+    "Zinalarni supurib, suv sepib chiqadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Saida xola qaysi qavatdan qaysi qavatgacha zinalarni tozalaydi?",
+   "variantlar": [
+    "To'qqizinchi qavatdan birinchi qavatga",
+    "Ikkinchi qavatdan beshinchi qavatga",
+    "Uchinchi qavatdan yettinchi qavatga",
+    "Beshinchi qavatdan o'ninchi qavatga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yo'lak ro'pa-rasidagi bolalar maydonchasida nima bunyod etilgan?",
+   "variantlar": [
+    "O'yin maydoni",
+    "Mehmonhona",
+    "Futbol maydoni",
+    "Gulzor"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Maydoncha atrofidagi daraxtlar qanday daraxtlardir?",
+   "variantlar": [
+    "Harb daraxtlari",
+    "Shohli daraxtlar",
+    "Faqat qanot daraxtlari",
+    "Mevali daraxtlar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Saida xolaning yordamchilari kimlardan iborat?",
+   "variantlar": [
+    "Mahallaning o'qituvchilari",
+    "Ko'p qavatli uyning boshlidanlari",
+    "Shahar xodimollari",
+    "Uning dugonaları va nabiralairi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'p qavatli uyimiz qaysi sababdan har doim maqtovga sazovor bo'ladi?",
+   "variantlar": [
+    "Saida xolaning mehnatli ishoti va go'zallik bilan qurilgani uchun",
+    "Ko'p odam yashaydigan uchun",
+    "Katta va shiqqan bo'lgani uchun",
+    "Yosh uy bo'lgani uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matni yaratgan muallifi kimdir?",
+   "variantlar": [
+    "Somat Murod",
+    "Mirmurod Abdullayev",
+    "Shokirjon Jo'rayev",
+    "Yusuf Fayzullo"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matndagi 'Siz bunga qodirsiz' sarlavhasi nima anglatadi?",
+   "variantlar": [
+    "Siz ham xayrli ishlarni qila olasiz",
+    "Siz baribir qola boshasiz",
+    "Siz hech narsa qila olmaysiz",
+    "Siz vaqtingiz yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Muallif bolajonlardan qanday tadbir qilishni taklif qiladi?",
+   "variantlar": [
+    "Faqat o'yin-kulgi qilish",
+    "Uyning atrofi va mahallaning obodligida ishtirok etish",
+    "Hech narsa qilmaslik",
+    "Faqat darsga borib o'qish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Saida xola nafaqada bo'lsa-yu, nima sababidan har kuni uyning zinalarini supuradi?",
+   "variantlar": [
+    "Mas'uliyat va insonparvari tuyg'usidan",
+    "Kimdir uni boshqaradi uchun",
+    "Pul ishiga boradigan uchun",
+    "Vaqt o'tkazish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gulzorimiz kengayib borayotgan asosiy sabablar qanday?",
+   "variantlar": [
+    "Shaharning yordami sababidan",
+    "Saida xola va uning oila a'zolari mehnat qilishidan",
+    "Pul sarfash sababidan",
+    "Faqat yog'in sababidan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Saida xolaning dugonaları va nabiralarining unga yordam berish nimani ko'rsatadi?",
+   "variantlar": [
+    "Oilaning bir-birini yordam berish tuyg'usini",
+    "Faqat vaqt o'tkazish",
+    "Hech narsa ko'rsatmaydi",
+    "Ular o'yin-kulgi qilishni sevadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar siz ham Saida xoladek qilsangiz, mahallangiz nima bo'lib ketadi?",
+   "variantlar": [
+    "Faqat sizning uyingiz taniqli bo'ladi",
+    "Mahallaning rasi bergan bo'ladi",
+    "Gulzorga aylanadi va to'la, go'zal bo'ladi",
+    "Hech o'zgarmasliq"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matndagi 'Barakalla, ziyrak ekansiz' nima sababidan aytiladi?",
+   "variantlar": [
+    "Faqat madalashtirish uchun",
+    "O'g'il-qizlar obodonlashtirish ishlarini bilib, shunga ishtirok etyayotgan uchun",
+    "Har qanday vaqt aytiladi",
+    "Salom berish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Begona o'tlarni tozalash va daraxtlarni parvarish qilish bunyod etilgan gulzor uchun nima?",
+   "variantlar": [
+    "Zararlidi",
+    "Foydali va zaruriy",
+    "Ahamiyatsiz",
+    "Faqat qiyin"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Muallif 'Hech bo'lmasa, darvozangiz oldidagi daraxtlarni oqlab qo'ying' degan sotsiga nima xohlaydi?",
+   "variantlar": [
+    "Pul sotish",
+    "Faqat daraxtlar kerak",
+    "Kichik ishlardan boshlashni va barcha qo'lda bo'lganini qilishni",
+    "Hech narsa"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ariq bo'yidagi begona o'tlarni tozalash ish nimani bildiradi?",
+   "variantlar": [
+    "Mahalla obodligiga borib keladigan amal",
+    "Qiyin ish",
+    "Noma'qul ish",
+    "Faqat vaqt o'tkazish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Agar o'rtoqlaringizni ham jalb qila olsangiz, yana ham yaxshi' degan satrida muallif nima ta'kidlaydi?",
+   "variantlar": [
+    "O'z ishingni qil",
+    "Faqat yolg'iz ish qilish kerak",
+    "Hech kim yordam bermaydi",
+    "Bir-birimizning hamkorligida ko'proq natija bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Saida xola katta yoshda bo'lgan holda har kuni mehnat qilayotgan ruhiyat qanday?",
+   "variantlar": [
+    "Mas'uliyat va oilasiga muhabbat bilan",
+    "Majburam, lekin qilaman",
+    "O'yin-gulg'i uchun",
+    "Pul uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar Saida xoladek inson bo'lmasa, ko'p qavatli uy nima holatda bo'lar edi?",
+   "variantlar": [
+    "Juda yaxshi",
+    "Kichik",
+    "Ifloslangan va begona o'tlarning to'lgan",
+    "Sodda"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matni o'qigan bolajon Saida xolaning misolidan qanday asosiy dars chiqarishi kerak?",
+   "variantlar": [
+    "Hech narsa qilmaslik yaxshi",
+    "Faqat katta odamlar ish qiladi",
+    "O'z yoshiga qaray har kishi o'z joyida xayrli ish qila oladi",
+    "Kattalarning ishi ham yo'q"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Bolajonlarning yerga ishqi tushgani bois' ibora matndagi gulzorimizning kengayib borishining qaysi sababini bildiradi?",
+   "variantlar": [
+    "Bolajonlarning tuproq, bog'ga bo'lgan muhabbati va ish-faoliyati",
+    "Tabiat",
+    "Faqat yog'in",
+    "Pul"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Obodonlashtirish ishida Saida xola va uning oila a'zolari qanday hamjamiyat yasashdi?",
+   "variantlar": [
+    "Bilim hamjamiyati",
+    "Mas'uliyat, muhabbat va bir-birini yordam berish hamjamiyatini",
+    "Pul hamjamiyati",
+    "Faqat o'yin-kulgi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Muallif matning oxirida 'Bu ishlar qo'lingizdan kelishiga ishonamiz' deganda bolajonlarga nima xabar bermog'ni xohlaydi?",
+   "variantlar": [
+    "Faqat katta odamlar qila oladi",
+    "Hech kim qila olmaydi",
+    "Bolajonlar qilolmaydi",
+    "Bolajonlar ham kuchiga qaray ush tadbir qila oladilar va bunga amin"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi 'Mahallangiz gulzorga aylanadi' gapi bolajonlarni qaysi natijaga olib borishni anglatadi?",
+   "variantlar": [
+    "Faqat raqamli natija",
+    "Hech narsa",
+    "Faqat pul",
+    "Ular mehnat qilsa, mahalla yaxshi, go'zal, toza joy bo'lib ketadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Muallif nima sababidan 'Xulosa chiqarish sizdan' deb yozmog'ni xohlaydi?",
+   "variantlar": [
+    "Faqat o'qish kerak",
+    "Muallif yozmayapti",
+    "Tez-tez yozish kerak",
+    "Har bir bolajon o'z o'yiga qaray Saida xola misolidan dars chiqarsin, o'z fikrni yaratsin"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Saida xolaning ariq bo'yidagi begona o'tlarni yuklash ishini qanday ruh bilan qilishini matni ko'rsatadi?",
+   "variantlar": [
+    "Majburam va norahat",
+    "Alohida mehr va mas'uliyat bilan",
+    "Faqat o'yin-kulgi",
+    "Hech nima ham yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "4-sinf",
+ "kitob": "4-sinf 4-Sinf Ona tili",
+ "mavzu": "Otlarning egalik qo'shimchalari bilan qo'llanishi",
+ "savollar": [
+  {
+   "savol": "Egalik qo'shimchalari nima uchun ishlatiladi?",
+   "variantlar": [
+    "Shaxs va narsa-buyumlarning qaysi shaxsga qarashliligini bildirish uchun",
+    "So'zlarga rang-barang ma'no berish uchun",
+    "So'zlarga qata-qata qo'shimcha qo'shish uchun",
+    "Gapda faqat olinish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi egalik qo'shimchasi I shaxs birlikni bildiradi?",
+   "variantlar": [
+    "-ngiz",
+    "-ng",
+    "-m",
+    "-si"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "II shaxs ko'plikni bildiruvchi egalik qo'shimchasi qaysi?",
+   "variantlar": [
+    "-imiz",
+    "-lar",
+    "-ngiz",
+    "-miz"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "III shaxs egalik qo'shimchalaridan nechtasi quyida berilgan?",
+   "variantlar": [
+    "-i, -m, -si",
+    "-i, -si, -(lar)i",
+    "-im, -i, -(lar)i",
+    "-ng, -i, -si"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Birlik ma'nosini bildiruvchi egalik qo'shimchalar qaysilar?",
+   "variantlar": [
+    "-m, -ng, -miz, -ngiz",
+    "-si, -i, -lar, -lari",
+    "-miz, -imiz, -ngiz, -ingiz, -(lar)i",
+    "-m, -im, -ng, -ing, -i, -si"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'plik ma'nosini bildiruvchi qo'shimchalar qaysilar?",
+   "variantlar": [
+    "-miz, -imiz, -ngiz, -ingiz, -(lar)i",
+    "-m, -im, -ng, -ing",
+    "-i, -si, -(lar)i",
+    "-ng, -ing, -si, -i"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Unli tovushdan so'ng qaysi egalik qo'shimchalari qo'shiladi?",
+   "variantlar": [
+    "-im, -ing, -i, -imiz, -ingiz, -(lar)i",
+    "-si, -i, -ng, -miz",
+    "-m, -im, -ing, -i",
+    "-m, -ng, -si; -miz, -ngiz, -(lar)i"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Undosh tovushdan so'ng qaysi egalik qo'shimchalari qo'shiladi?",
+   "variantlar": [
+    "-m, -ng, -si, -miz, -ngiz",
+    "-si, -m, -ng, -lar",
+    "-im, -ing, -i; -imiz, -ingiz, -(lar)i",
+    "-i, -ing, -im, -imiz, -ingiz"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Kitobim\" so'zida egalik qo'shimchasi nima va qaysi shaxsni bildiradi?",
+   "variantlar": [
+    "-im, II shaxs",
+    "-si, I shaxs",
+    "-i, III shaxs",
+    "-m, I shaxs"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Egalik qo'shimchalari gapda qanday vazifa bajaradi?",
+   "variantlar": [
+    "Gapning ma'nosini teskari o'zgartirad",
+    "So'zlarni bir-biriga bog'laydi",
+    "So'zlarni rang-barang qiladi",
+    "Faqat nom beradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Buvisining\" so'zida qaysi egalik qo'shimchasi bor?",
+   "variantlar": [
+    "-si",
+    "-i",
+    "-m",
+    "-ng"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Oyining\" so'zning asosi va qo'shimchasi qaysi?",
+   "variantlar": [
+    "Asos: oy, qo'shimcha: -ing",
+    "Asos: oy, qo'shimcha: -ning",
+    "Asos: oyi, qo'shimcha: -ng",
+    "Asos: oyin, qo'shimcha: -i"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Akaning\" so'zida qanday tovush o'zgarishi yuz berdi?",
+   "variantlar": [
+    "Unli tovush qo'shildi",
+    "Unli tovush tushib qoldi",
+    "Faqat qo'shimcha qo'shildi",
+    "Undosh tovush tushib qoldi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Kitobingiz\" so'zida qaysi shaxs va son bildiruvchi qo'shimcha bor?",
+   "variantlar": [
+    "I shaxs ko'plik",
+    "II shaxs ko'plik",
+    "II shaxs birlik",
+    "III shaxs birlik"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi so'zga \"-si\" qo'shimchasi qo'shiladi?",
+   "variantlar": [
+    "Undosh tovush bilan tugagan so'zga",
+    "Unli tovush bilan tugagan so'zga",
+    "Har qanday so'zga",
+    "Faqat nom so'zga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Bilagi\" so'zida asosda qanday tovush o'zgarishi bo'ldi?",
+   "variantlar": [
+    "O'zgarish bo'lmadi",
+    "Unli tovush tushib qoldi",
+    "Undosh tovush almashdi",
+    "Unli tovush qo'shildi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Gullari\" so'zining to'g'ri asosi va qo'shimchasi qaysi?",
+   "variantlar": [
+    "Asos: guli, qo'shimcha: -lar",
+    "Asos: gull, qo'shimcha: -ari",
+    "Asos: gulla, qo'shimcha: -ri",
+    "Asos: gul, qo'shimcha: -lari"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Qo'lim\" so'zda qaysi shaxs va son ko'rsatiladi?",
+   "variantlar": [
+    "I shaxs ko'plik",
+    "III shaxs ko'plik",
+    "I shaxs birlik",
+    "II shaxs birlik"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Maktabimiz\" so'zida qaysi egalik qo'shimchasi bor?",
+   "variantlar": [
+    "-im",
+    "-si",
+    "-i",
+    "-miz"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Bola\" so'ziga II shaxs birlik egalik qo'shimchasi qo'shilsa, qanday bo'ladi?",
+   "variantlar": [
+    "bolaing",
+    "bolaingiz",
+    "bolasiz",
+    "bolam"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Og'iz\" so'zidan \"og'zim\" bo'ldi. Asosda qanday tovush o'zgarishi yuz berdi?",
+   "variantlar": [
+    "O'zgarish bo'lmadi, faqat qo'shimcha qo'shildi",
+    "Unli tovush tushib qoldi, undosh almashish uchun",
+    "Undosh tovush almashdi, qo'shimcha qo'shish uchun",
+    "Unli tovush qo'shildi, takrorlanmas qilib"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Burun\" so'zidan \"burnim\" chiqdi. Nima sababdan unli tovush tushib qoldi?",
+   "variantlar": [
+    "Undosh tovush ko'rsatish uchun",
+    "Qo'shimchani tashlab ketish uchun",
+    "Hech qanday sabo'q yo'q",
+    "Unli tovush tushib qoldi, qo'shimchani qo'shishga tayyorlab"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Bilak\" so'zidagi \"a\" unli tovushi nima uchun \"bilagi\"da \"a\"qa tushib, \"i\" bor?",
+   "variantlar": [
+    "Tovush o'zgarishi bo'lmadi",
+    "Qo'shimcha boshqa tovushga almashdi",
+    "Unli tovush o'zgarish uchun qo'shildi",
+    "Unli tovush tushib qoldi, undosh almashdi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Quloq\" va \"qulog'i\" so'zlarni taqqoslang. Asosda nima o'zgarishi bo'ldi?",
+   "variantlar": [
+    "Hech farq yo'q, bir xil so'z",
+    "Unli tovush tushib qoldi, k harfi g harfiga almashdi",
+    "Faqat qo'shimcha qo'shildi, o'zgarish yo'q",
+    "Unli tovush tushib qoldi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Chelak\" so'zdan \"chelagi\" hosil bo'ldi. Asosda nima o'zgarishi yuz berdi?",
+   "variantlar": [
+    "O'zgarish bo'lmadi",
+    "Undosh tovush qo'shildi",
+    "Unli tovush tushib qoldi, k harfi g harfiga",
+    "Unli tovush tushib qoldi, faqat qo'shimcha qo'shildi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Berilgan matndagi \"gullarim\" so'zini to'liq tahlil qiling.",
+   "variantlar": [
+    "I shaxs ko'plik, unli tovush tushib qoldi",
+    "II shaxs birlik, undosh almashdi",
+    "III shaxs ko'plik, asosda tovush o'zgarishi bo'ldi",
+    "I shaxs ko'plik, o'zgarish yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Otasi\", \"oyisi\", \"akasi\" so'zlarida nima umumiy? Ularning asosida nima bo'ldi?",
+   "variantlar": [
+    "III shaxs ko'plik egalik qo'shimchasi, unli tovush qo'shildi",
+    "III shaxs birlik egalik qo'shimchasi, unli tovush tushib qoldi",
+    "II shaxs birlik egalik qo'shimchasi, asosda o'zgarish bo'lmadi",
+    "I shaxs ko'plik egalik qo'shimchasi, undosh almashdi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Bayroq\" so'ziga III shaxs birlik egalik qo'shimchasi qo'shilganda \"bayrog'i\" hosil bo'ldi. Buning jarayonini tushuntiring.",
+   "variantlar": [
+    "Undosh qo'shimcha qo'shildi, q harfi g harfiga almashdi",
+    "Unli tovush tushib qoldi, q harfi g harfiga almashdi",
+    "Faqat qo'shimcha qo'shildi, o'zgarish yo'q",
+    "Qo'shimchaga unli tovush qo'shildi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi \"nevara\" va \"nevarasi\" so'zlarini solishtirib, egalik qo'shimchasining ta'sirini tushuntiring.",
+   "variantlar": [
+    "III shaxs birlik qo'shimchasi, asosda o'zgarish bo'lmadi",
+    "I shaxs ko'plik qo'shimchasi, undosh almashdi",
+    "III shaxs ko'plik qo'shimchasi, asosda o'zgarish bo'ldi",
+    "II shaxs birlik qo'shimchasi, unli tovush tushib qoldi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Otalari\" va \"onalari\" kabi so'zlarda egalik qo'shimchasi va \"lar\" ko'plik ko'rsatgichi bir vaqtda qo'llanadi. Bunda shaxs-son va ma'no qanday tushuniladi?",
+   "variantlar": [
+    "I shaxs birlik, bitta ota-ona",
+    "II shaxs ko'plik, bitta ota-ona",
+    "I shaxs ko'plik, ko'p ota-onalar",
+    "III shaxs ko'plik, ko'p ota-onalar"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

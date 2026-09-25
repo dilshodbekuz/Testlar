@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Informatika",
+ "mavzu": "32-dars. Scratch dasturida shakllar yaratish",
+ "savollar": [
+  {
+   "savol": "Scratch muhitida sprite boshlang'ich pozitsiyasi qaysi koordinatada joylashadi?",
+   "variantlar": [
+    "(-100, -100)",
+    "(0, 0)",
+    "(240, 180)",
+    "(100, 100)"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "PenDown buyrug'i nima uchun ishlatiladi?",
+   "variantlar": [
+    "Peroni polotonga ko'tarish",
+    "Pero rangini o'zgartirish",
+    "Pero qalinligini o'zgartirish",
+    "Peroni polotonga tushirish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "PenUp buyrug'i nima uchun ishlatiladi?",
+   "variantlar": [
+    "Pero rangi qo'shish",
+    "Pero asosini o'zarish",
+    "Peroni polotonga ko'tarish",
+    "Peroni polotonga tushirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Scratch muhitida X o'qi qaysi oraliqda joylashadi?",
+   "variantlar": [
+    "0 dan 240",
+    "-240 dan +240",
+    "-100 dan 100",
+    "-180 dan +180"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Scratch muhitida Y o'qi qaysi oraliqda joylashadi?",
+   "variantlar": [
+    "-240 dan +240",
+    "-180 dan +180",
+    "-100 dan 100",
+    "0 dan 180"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Pero (PEN) blok qaysi panelda topiladi?",
+   "variantlar": [
+    "Sensorlar panelida",
+    "Harakat panelida",
+    "Rangli bloklar panelida",
+    "Ko'rinish panelida"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Spraytni sahnada ko'rinmas qilish uchun qaysi tugmachani bosish kerak?",
+   "variantlar": [
+    "Show",
+    "Delete",
+    "Hide",
+    "Clear"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Spray kostyumlarini almashtirish uchun qaysi bo'limdan foydalaniladi?",
+   "variantlar": [
+    "Sounds bo'limi",
+    "Variables bo'limi",
+    "Backdrops bo'limi",
+    "Costumes bo'limi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dekart koordinatalar tizimi nima?",
+   "variantlar": [
+    "O'yinlar uchun maxsus sistema",
+    "Matematik koordinatalar sistemi",
+    "Scratch dasturining ismi",
+    "Rasm chizish uchun maxsus grafik vosita"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Scratch muhitida rasm yaratishda dastur natijasi qayerda namoyon bo'ladi?",
+   "variantlar": [
+    "Kod panelida",
+    "Sprite panelida",
+    "Sahna deb atalgan maydonida",
+    "Backdrops maydonida"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mushukcha 0,0 pozitsiyasidan qayta boshlashi uchun qaysi blok ishlatiladi?",
+   "variantlar": [
+    "PenUp",
+    "Go To X=0 Y=0",
+    "PenDown",
+    "Move 100 steps"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Peroning rangini o'zgartirish uchun qaysi blok ishlatiladi?",
+   "variantlar": [
+    "Pero rangini o'zgartirish bloki",
+    "Hide bloki",
+    "Set size bloki",
+    "Pen qalinligini o'zarish bloki"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Chiziq qalinligini o'zgartirish uchun qaysi blok ishlatiladi?",
+   "variantlar": [
+    "Chiziq qalinligini o'zgartirish bloki",
+    "Pero rangini o'zgartirish bloki",
+    "Change color bloki",
+    "Set size bloki"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar kursor ekranning boshqa nuqtasida paydo bo'lsa, chiziqni qayta markazsizlamash uchun qanday qilish kerak?",
+   "variantlar": [
+    "Restart butniga bosamiz",
+    "Hide blokini ishlatamiz",
+    "Go To X=0 Y=0 buyrug'i bilan belgilaymiz",
+    "PenUp ishlatamiz"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Rangli pero biriktirib, 100 qadam tashlasak, sahnada nima chiziladi?",
+   "variantlar": [
+    "Hech narsa",
+    "Rangli chiziq",
+    "Qora chiziq",
+    "Mushukchaning rasm i"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mushukchanining ko'rinmas holatida ('Hide' tugmasini bossak) ekranda nima aks etadi?",
+   "variantlar": [
+    "Faqat mushukcha",
+    "Mushukcha va chiziq",
+    "Hech narsa",
+    "Faqat chiziq"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sprayti 'Hide' buyrug'i bilan o'rnatib, pero polotonga tushirib tashlasak, sahnada qanday bo'ladi?",
+   "variantlar": [
+    "Faqat chiziq ko'rinadi",
+    "Hech narsa ko'rinmaydi",
+    "Mushukcha va chiziq ko'rinadi",
+    "Faqat mushukcha ko'rinadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "PEN blokini qo'shimcha bloklar guruhidan qanday o'rnatamiz?",
+   "variantlar": [
+    "Dastur oynasining yuqori o'ng burchagi tugmasini bosamiz",
+    "Dastur oynasining quyi chap burchagi tugmasini bosamiz",
+    "Aylanish tugmasini bosamiz",
+    "Qayta boshlash tugmasini bosamiz"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Rangning nomi, pero polotonga tushurilgan holatda 100 qadam ketishi natijasi qanday?",
+   "variantlar": [
+    "Faqat chiziq harakat qiladi, spray harakat qilmaydi",
+    "Spray o'ziga keyin rangli chiziq chizib boradi",
+    "Spray harakat qiladi, lekin chiziq chizilmaydi",
+    "Spray o'ziga keyin oq chiziq chizib boradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi texnologiya asosida sahna turli shakllar yaratishga imkon beradi?",
+   "variantlar": [
+    "Rangli pero biriktirib, harakatli shaklni tayyorlash orqali",
+    "Sound qo'shish orqali",
+    "Murakkab matematik formulalar orqali",
+    "Keyboard tugmalarini bosish orqali"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mushukcha kvadrat chizish uchun qaysi bloklarni foydalanish kerak?",
+   "variantlar": [
+    "Faqat 'Turn 90 degrees' bloki",
+    "PenDown, 'Move 100 steps', 'Turn 90 degrees' va takrorlash (4 marta)",
+    "Faqat PenDown bloki va 'Move 100 steps'",
+    "Faqat PenUp bloki"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mushukcha har 50 qadam otida 'Myau' ovozi chiqarish uchun qaysi buyruqlar birgalikda ishlatiladi?",
+   "variantlar": [
+    "Faqat takrorlash bloki",
+    "Faqat Sound bloki",
+    "Faqat 'Move 50 steps' bloki",
+    "Takrorlash + 'Move 50 steps' + Sound bloki"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Koordinata tekisligida X o'qi va Y o'qining oraliqlarini noto'g'ri ishlatilsa, natijai qanday bo'ladi?",
+   "variantlar": [
+    "Grafika to'liq shu yo'lda chiziladi va hech narsa o'zgarolmaydi",
+    "Koordinatalar noto'g'ri bo'lib, rasm deformatsiyalashadi",
+    "Dastur ishlamay qoladi va xato ko'rsatadi",
+    "Faqat rasm rangi o'zgarib ketadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar PenDown ishlatib, sprayt ko'rinmas qilip ('Hide'), 'Move 100 steps' mo'jaloni beradigan bo'lsak, ekranda nima ko'rinadi?",
+   "variantlar": [
+    "Faqat mushukcha",
+    "Faqat rangli chiziq",
+    "Hech narsa ko'rinmaydi",
+    "Mushukcha va chiziq birgalikda"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sahnaning to'liq koordinata oralig'i haqida bilgan holatda, Y o'qining umumiy uzunligi nechta bo'ladi? (Y o'qi -180 dan +180 gacha)",
+   "variantlar": [
+    "480",
+    "240",
+    "180",
+    "360"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sprayt 'Move 100 steps' blokini 4 marta takrorlab, har qadamda 90 gradusga bursa, qanday geometrik shakl chiziladi?",
+   "variantlar": [
+    "Doira",
+    "Teng tomonli uchburchak",
+    "Kvadrat",
+    "Beshburchak"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Peroning rangi qizilga, qalinligi esa 10 pikselsga o'zgarsa, sahnada qanday chiziq ko'rinadi?",
+   "variantlar": [
+    "Rang o'zgarmaydigan xiziq",
+    "Qora rangli, qalin chiziq",
+    "Oq rangli, ingichka chiziq",
+    "Qizil rangli, qalin chiziq"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rasm chizish jarayonida kursor ekranning boshqa nuqtasiga siljigan bo'lsa, chiziqni to'g'ri qayta markazlashtirishning buyruq tartibi nima?",
+   "variantlar": [
+    "PenUp → Go To X=0 Y=0 → PenDown",
+    "Go To X=0 Y=0 → PenUp → PenDown",
+    "PenDown → Go To X=0 Y=0 → PenUp",
+    "PenUp → PenDown → Go To X=0 Y=0"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar mushukcha o'ngdan chapga 100 qadam tashlasa, keyin chapdan o'ngga 100 qadam tashlasa va pero oldindan ko'rinmas qilinsa, sahnada nima aks etadi?",
+   "variantlar": [
+    "Faqat ikkinchi chiziq",
+    "Faqat birinchi chiziq",
+    "Hech qanday chiziq ko'rinmaydi",
+    "Ikki chiziq bir vaqtda"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ichma-ich takrorlash blokida tashqi blok 4 marta, ichki blok ham 4 marta qaytarish ko'rsatmasi berilsa, jami necha marta harakat bajariladgan bo'ladi?",
+   "variantlar": [
+    "32",
+    "4",
+    "8",
+    "16"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

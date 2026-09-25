@@ -1,0 +1,326 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Rus tili",
+ "mavzu": "Погода",
+ "savollar": [
+  {
+   "savol": "Qishni tashkil etuvchi oylarni nomi?",
+   "variantlar": [
+    "mart, aprel, may",
+    "sentyabr, oktyabr, noyabr",
+    "iyun, iyul, avgust",
+    "dekabr, yanvar, fevral"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bahor oylarini ko'rsating",
+   "variantlar": [
+    "iyun, iyul, avgust",
+    "mart, aprel, may",
+    "sentyabr, oktyabr, noyabr",
+    "dekabr, yanvar, fevral"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yoz oylarini aytib bering",
+   "variantlar": [
+    "sentyabr, oktyabr, noyabr",
+    "mart, aprel, may",
+    "dekabr, yanvar, fevral",
+    "iyun, iyul, avgust"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kuz oylarini ko'rsating",
+   "variantlar": [
+    "dekabr, yanvar, fevral",
+    "mart, aprel, may",
+    "sentyabr, oktyabr, noyabr",
+    "iyun, iyul, avgust"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, qishda poga qanday?",
+   "variantlar": [
+    "issiq",
+    "iliq",
+    "sovuq",
+    "muligon"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, bahorida poga qanday?",
+   "variantlar": [
+    "issiq",
+    "qora",
+    "sovuq",
+    "iliq"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, yozda poga qanday?",
+   "variantlar": [
+    "salqin",
+    "sovuq",
+    "issiq",
+    "iliq"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, kuzda poga qanday?",
+   "variantlar": [
+    "issiq",
+    "sovuq",
+    "iliq",
+    "qaynoq"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, qor qachon yog'adi?",
+   "variantlar": [
+    "qishda",
+    "yozda",
+    "bahorida",
+    "kuzda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, qushlar qachon keladi?",
+   "variantlar": [
+    "bahorida",
+    "qishda",
+    "yozda",
+    "kuzda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Yanvar\" oyning qaysi faslga tegishli?",
+   "variantlar": [
+    "bahor",
+    "yoz",
+    "qish",
+    "kuz"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Aprel\" oyning qaysi faslga tegishli?",
+   "variantlar": [
+    "qish",
+    "yoz",
+    "kuz",
+    "bahor"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Avgust\" oyning qaysi faslga tegishli?",
+   "variantlar": [
+    "qish",
+    "kuz",
+    "bahor",
+    "yoz"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Oktyabr\" oyning qaysi faslga tegishli?",
+   "variantlar": [
+    "yoz",
+    "bahor",
+    "kuz",
+    "qish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, bahorida tabiatda nima sodir bo'ladi?",
+   "variantlar": [
+    "Yomg'ir ko'p yog'adi",
+    "Qor eriga va o't yashilga",
+    "O't quriraydi",
+    "Qushlar ketadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, Rustam qishda nima qiladi?",
+   "variantlar": [
+    "Qo'sh o'ynoq o'ynaydi",
+    "Qushlarni oziqlantirydi",
+    "Futbol o'ynaadi",
+    "Daryoda cho'miladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, O'lya qaysi faslda parkda gezdiradi?",
+   "variantlar": [
+    "yozda",
+    "qishda",
+    "kuzda",
+    "bahorida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, Ganifa va Anvar qachon daryoda cho'miladi?",
+   "variantlar": [
+    "kuzda",
+    "bahorida",
+    "yozda",
+    "qishda"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, qushlar qachon iliq mamlakatga ketadi?",
+   "variantlar": [
+    "qishda",
+    "yozda",
+    "kuzda",
+    "bahorida"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, Serjozha qaysi faslda futbol o'ynaadi?",
+   "variantlar": [
+    "qishda",
+    "kuzda",
+    "bahorida",
+    "yozda"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matning qaysi qismida \"qor eriga, o't yashilga, qushlar keladi\" degan xarakteristika berilgan?",
+   "variantlar": [
+    "Kuz haqida",
+    "Qish haqida",
+    "Bahor haqida",
+    "Yoz haqida"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Anvar matning ikki xil joyida aytiladi. Qaysi faslda u qo'sh o'ynoq o'ynaydi?",
+   "variantlar": [
+    "kuzda",
+    "yozda",
+    "qishda",
+    "bahorida"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matni to'liq o'qib, qaysi ikkita faslda poga \"sovuq\" deb tavsif qilingan?",
+   "variantlar": [
+    "Yoz va kuz",
+    "Bahor va yoz",
+    "Qish va kuz",
+    "Qish va bahor"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matga ko'ra, qaysi faslning xarakteristikasiga \"Yomg'ir yog'adi, pattiqlar o'ylannadi, qushlar ketadi\" degan tavsif mos keladi?",
+   "variantlar": [
+    "Qish",
+    "Yoz",
+    "Kuz",
+    "Bahor"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matga ko'ra, Masha qaysi faslda qor bo'vaga tuzilyapti va Anvar qaysi faslda qo'sh o'ynoq o'ynaydi?",
+   "variantlar": [
+    "Masha qishda, Anvar bahorida",
+    "Masha bahorida, Anvar yozda",
+    "Masha yozda, Anvar kuzda",
+    "Masha qishda, Anvar qishda"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matga ko'ra, Sevara griblarni yig'adi va Anvar qo'sh o'ynoq o'ynaganiga ko'ra bu qaysi faslga tegishli?",
+   "variantlar": [
+    "Sevara yozda, Anvar qishda",
+    "Sevara yozda, Anvar bahorida",
+    "Sevara bahorida, Anvar kuzda",
+    "Sevara kuzda, Anvar yozda"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matga ko'ra, Kolya qaysi faslda kema qurad va Rustam qaysi faslda qushlarni oziqlantirydi?",
+   "variantlar": [
+    "Kolya bahorida, Rustam qishda",
+    "Kolya qishda, Rustam bahorida",
+    "Kolya bahorida, Rustam yozda",
+    "Kolya yozda, Rustam kuzda"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matning ikkinchi qismida \"Pattiqlar o'ylannadi\" degan gap qaysi faslni ta'riflaydi?",
+   "variantlar": [
+    "Bahor",
+    "Yoz",
+    "Qish",
+    "Kuz"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar matga ko'ra, bolalar qo'sh o'ynoq, futbol va daryoda cho'milsa, bu qaysi faslga tegishli?",
+   "variantlar": [
+    "Faqat yozda",
+    "Faqat kuzda",
+    "Qish va yozda",
+    "Faqat qishda"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

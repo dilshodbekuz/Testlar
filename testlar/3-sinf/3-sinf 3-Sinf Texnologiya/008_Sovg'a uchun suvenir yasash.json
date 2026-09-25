@@ -1,0 +1,326 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Texnologiya",
+ "mavzu": "Sovg'a uchun suvenir yasash",
+ "savollar": [
+  {
+   "savol": "Suvenir yasashda qaysi material ishlatiladi?",
+   "variantlar": [
+    "Yog'och sim",
+    "Yumshoq sim",
+    "Plastik sim",
+    "Temir sim"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gul yaproklari qanday bilan bezatiladi?",
+   "variantlar": [
+    "Nozmunchoqlar (biser) bilan",
+    "Rang bilan",
+    "Qog'oz bilan",
+    "Ipak bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Biserning ranglari necha xil ishlatiladi?",
+   "variantlar": [
+    "To'rtta xil",
+    "Uchta xil",
+    "Bir xil",
+    "Ikki xil"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gul yasashda ishlatiladigan biserlar qanday joylashtiriladi?",
+   "variantlar": [
+    "Tasodifiy",
+    "Ketma-ketlikda",
+    "Birdan-bir",
+    "Katta-katta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tayyorlangan gulga nima kiritish mumkin?",
+   "variantlar": [
+    "Qo'shimcha detallar",
+    "Qora rang",
+    "Kovak",
+    "Shisha"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gul yasashda qanday yondashish taklif etiladi?",
+   "variantlar": [
+    "Xotira",
+    "Tezlik",
+    "Ijodiy yondashish",
+    "Uqishi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suvenir nima?",
+   "variantlar": [
+    "Qiymati ko'p buyum",
+    "Eski buyum",
+    "Sovg'a yoki esda qolish uchun buyum",
+    "Katta narsa"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matni asosan qaysi jarayoni tushuntiradi?",
+   "variantlar": [
+    "Gulni kesib olish",
+    "Gulni yasash jarayoni",
+    "Gulni rang qilish",
+    "Gulni ekilish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mustaqil ishda nima taklif etiladi?",
+   "variantlar": [
+    "O'zgartirish kiritishga harakat qilish",
+    "Bitta usulni ishlatish",
+    "Tezda tugallash",
+    "Qoidalarga amal qilish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ish namunalarini kuzayotganda nima qilish taklif etiladi?",
+   "variantlar": [
+    "Naqla qilish",
+    "Yo'qotib tashlash",
+    "O'zgartirish kiritib yangisini yasash",
+    "Takrorlash"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar siz gul yaproqlari uchun ikkita rangli biserni joylashtirsangiz, qanday natija hosil bo'ladi?",
+   "variantlar": [
+    "Qora gul",
+    "Bir rangli gul",
+    "Rangisiz gul",
+    "Ikki rangli naqshli gul"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yumshoq simga gul yasashda birinchi qadami nima?",
+   "variantlar": [
+    "Rangni tanlab olish",
+    "Gul yaproklari hosil qilish",
+    "Qog'ozni tayyorlash",
+    "Biser yigish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tayyorlangan gulga qo'shimcha kiritish mumkin bo'lgan narsalar nimalar?",
+   "variantlar": [
+    "Faqat rang",
+    "Faqat qog'oz",
+    "Faqat sim",
+    "Barglar, poyalar va boshqa detallar"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Suvenir yasashda ijodiy yondashish nimani anglatadi?",
+   "variantlar": [
+    "Qoida bo'yicha qat'iy ishlash",
+    "Tezda tugallash",
+    "Yangi g'oyalar taklif qilish va sinash",
+    "Eng oson usulni tanlab olish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir nechta gul bargllarini bir-birigа biriktirib gul shaklini hosil qilish uchun nima talab etiladi?",
+   "variantlar": [
+    "Yumshoq sim va gul yaproklari",
+    "Faqat rangli qog'oz",
+    "Faqat biser",
+    "Faqat gul yaprog'i"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Biser ketma-ketlikda joylantirilganda, qanday natija uchun bu talab etiladi?",
+   "variantlar": [
+    "Tezlik uchun",
+    "Ogirlikni kamayitirish uchun",
+    "Naqsh va ranglarning chiroyli ko'rinishi uchun",
+    "Vaqtni tejash uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ish namunalarini kuzayotganda, qanday o'zgartirishlarni kiritish mumkin?",
+   "variantlar": [
+    "Avvalgi usullarni takrorlash",
+    "Shunga o'xshash ishlar yasash",
+    "Yangi g'oyalar va usullarni sinash",
+    "Hechqanday o'zgartirishni kiritmaslik"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tayyorlangan gul suvenirini yaxshiroq ko'rinishiga keltirish uchun nima qilish mumkin?",
+   "variantlar": [
+    "Barglar va qo'shimcha detallar qo'shish",
+    "Faqat rang qo'shish",
+    "Faqat qog'oz o'tash",
+    "Faqat biletin yozish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gul yaproklari uchun nozmunchoq (biser) tanlashda, qanday omillar muhim?",
+   "variantlar": [
+    "Rang, kattalik va sifat",
+    "Faqat yumshaklik",
+    "Faqat kattalik",
+    "Faqat narx"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar siz gul yaproqlari va biserni rang almashinuvchan naqsh bilan joylashtirmoqchi bo'lsangiz, qanday jarayon kerak?",
+   "variantlar": [
+    "Biserlarni tasodifiy qo'llash",
+    "Rang o'tganlari va ularning kombinatsiyasini planirovka qilish",
+    "Faqat bir rangni ishlatish",
+    "Tasodifiy joylashtirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3 xil gul yasashda, har bir gul yaproqlari, biser va rang kombinatsiyasida nima o'zgarishi kerak?",
+   "variantlar": [
+    "Yaprog' o'lchami, biser soni va rangli kombinatsiya",
+    "Faqat biser turi",
+    "Faqat yaprog' shakli",
+    "Faqat sim uzunligi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Suvenirni sovg'a qilmoqchi bo'lsangiz, qanday qo'shimcha tayyorgarchilik kerak?",
+   "variantlar": [
+    "Gul, detallar, bezatish va taqdim shaklini o'ylash",
+    "Faqat biletin yozish",
+    "Faqat qog'oz tayyorlash",
+    "Faqat gul yasash"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mustaqil ishda o'zgartirish kiritish nimani anglatadi?",
+   "variantlar": [
+    "Avvalgi namunalarni takrorlash",
+    "Yangi g'oyalar ijoda qilish va tekshirish",
+    "Qoidaga amal qilish",
+    "Eng oson usulni tanlash"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gul yaproklari joylashtirish vaqtida qiyinchilikka duch kelsangiz, qanday hal qilasiz?",
+   "variantlar": [
+    "O'zgartirib ko'rasiz",
+    "Faqat o'qituvchiga so'rasiz",
+    "Butunlay to'xtab qo'yasiz",
+    "Masalani tahlil qilasiz va ijodiy yo'l izlaysiz"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Turli gul suvenirlar yasashda rang kombinatsiyalarida qanday qonunga amal qilish mumkin?",
+   "variantlar": [
+    "Issiq va sovuq ranglarni almashtirish, toqish va shaffoflarni birlashtirish",
+    "Tasodifiy tanlash",
+    "Faqat bir rangni ishlatish",
+    "Zid ranglarni birgalikda qo'llash"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Suvenir yasashda o'quvchi qanday asosiy malakalarni rivojlantirishga o'rganadi?",
+   "variantlar": [
+    "Faqat hisoblash",
+    "Faqat o'qish",
+    "Ijodiy fikrlash, nozikliklar bilan ishlash va bezatish",
+    "Faqat siqdirvish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tayyorlangan gul suvenirini yanada chiroyliroq qilish uchun qaysi jarayonlarni qo'llash mumkin?",
+   "variantlar": [
+    "Barg, bezatish va to'liq ko'rinishni tayyorlash",
+    "Faqat biletin yozish",
+    "Faqat qog'oz o'tash",
+    "Faqat rang qo'shish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mustaqil ish namunalarini kuzab o'zgartirish kiritib yangisini yasash - bu qanday jarayondir?",
+   "variantlar": [
+    "Eng osonini tanlash",
+    "Faqat qoidaga amal qilish",
+    "Tahlil, yangi g'oyalar ijoda qilish va sinash",
+    "Faqat takrorlash"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ijodiy yondashish qo'llash suvenir yasashda nima beradi?",
+   "variantlar": [
+    "O'z uslubini topish, yangi mavjudotlar ijoda qilish",
+    "Faqat vaqt tejash",
+    "Faqat oson natija",
+    "Faqat tezlik"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

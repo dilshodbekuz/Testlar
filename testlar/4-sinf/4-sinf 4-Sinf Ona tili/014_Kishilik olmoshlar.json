@@ -1,0 +1,337 @@
+{
+ "sinf": "4-sinf",
+ "kitob": "4-sinf 4-Sinf Ona tili",
+ "mavzu": "Kishilik olmoshlar",
+ "savollar": [
+  {
+   "savol": "Men, sen, u, biz, siz, ular so'zlari qaysi turkum so'z?",
+   "variantlar": [
+    "Olmoshlar",
+    "Ravishlar",
+    "Sifatlar",
+    "Otlar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kishilik olmoshlari qaysi so'roqga javob beradi?",
+   "variantlar": [
+    "Qaysi?",
+    "Kim? Kimlar?",
+    "Qanday?",
+    "Nechta?"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi so'z bitta kishini bildiradi?",
+   "variantlar": [
+    "Biz",
+    "Siz",
+    "Men",
+    "Ular"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi olmosh bitta shaxsni bildiradi?",
+   "variantlar": [
+    "U",
+    "Siz",
+    "Ular",
+    "Biz"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'p shaxsni bildiradigar olmoshlar qaysilari?",
+   "variantlar": [
+    "Men, sen, u",
+    "Sen, siz, u",
+    "Biz, siz, ular",
+    "Men, u, ular"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'Men, biz' olmoshlari qaysi shaxs?",
+   "variantlar": [
+    "II shaxs",
+    "Hech qaysi",
+    "III shaxs",
+    "I shaxs"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'Sen, siz' olmoshlari qaysi shaxs?",
+   "variantlar": [
+    "Hech qaysi",
+    "I shaxs",
+    "III shaxs",
+    "II shaxs"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'U, ular' olmoshlari qaysi shaxs?",
+   "variantlar": [
+    "II shaxs",
+    "III shaxs",
+    "I shaxs",
+    "Hech qaysi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kishilik olmoshlari otlardan qanday farq qiladi?",
+   "variantlar": [
+    "Otlar-ot bo'lib, olmoshlar manosiga asoslanadi",
+    "Ularning farqi yo'q",
+    "Otlar biror shaxsning nomi bo'la oladi, olmoshlar bo'la olmaydi",
+    "Otlar noma'lum shaxsni bildiradi, olmoshlar ma'lum shaxsni bildiradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kelishik qo'shimchalari qo'shilganda 'men' olmoshi qaysi shakllarni hosil qiladi?",
+   "variantlar": [
+    "Mening, meni, menga",
+    "Menga, menda, mening",
+    "Meni, menga, menda",
+    "Mening, meni, menga, menda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'Men senga kitob beradim' gapda nechta kishilik olmosh bor?",
+   "variantlar": [
+    "4 ta",
+    "3 ta",
+    "1 ta",
+    "2 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Sening' so'zi qaysi olmosh va kelishikdan hosil bo'ladi?",
+   "variantlar": [
+    "Sen + qaratqich",
+    "Sen + tushum",
+    "Sen + jonalish",
+    "Sen + orin-payt"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Meni' so'zi qaysi olmosh va kelishikdan hosil bo'ladi?",
+   "variantlar": [
+    "Men + jonalish",
+    "Men + qaratqich",
+    "Men + tushum",
+    "Men + orin-payt"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Unga' so'zi qaysi olmosh va kelishikdan hosil bo'ladi?",
+   "variantlar": [
+    "U + tushum",
+    "U + qaratqich",
+    "U + jonalish",
+    "U + orin-payt"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Unda' so'zi qaysi olmosh va kelishikdan hosil bo'ladi?",
+   "variantlar": [
+    "U + jonalish",
+    "U + orin-payt",
+    "U + tushum",
+    "U + qaratqich"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Undan' so'zi qaysi olmosh va kelishikdan hosil bo'ladi?",
+   "variantlar": [
+    "U + chiqish",
+    "U + jonalish",
+    "U + tushum",
+    "U + qaratqich"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'U yetisholmagan orzuga biz yetishdik' gapda nechta kishilik olmosh bor?",
+   "variantlar": [
+    "2 ta",
+    "3 ta",
+    "1 ta",
+    "4 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnda 'Biz bayramni tabiat qo'ynida nishonladik' gapda nechta kishilik olmosh bor?",
+   "variantlar": [
+    "2 ta",
+    "4 ta",
+    "1 ta",
+    "3 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Agar do'sting senga aybingni aytib, nasihat qilsa, sen undan minnatdor bo'l' gapda nechta kishilik olmosh bor?",
+   "variantlar": [
+    "3 ta",
+    "2 ta",
+    "5 ta",
+    "4 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnda 'Biz Vatanni sevishni Fitrat kabi bobolarimizdan o'rganaylik' gapda qaysi shaxs olmosh bor?",
+   "variantlar": [
+    "Faqat I shaxs",
+    "I va III shaxs",
+    "Faqat III shaxs",
+    "Faqat II shaxs"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Men, sen olmoshlari + qaratqich kelishigi qo'shimchasi qo'shilganda qaysi shakllar hosil bo'ladi?",
+   "variantlar": [
+    "Mening, sening",
+    "Meni, seni",
+    "Menda, senda",
+    "Menga, senga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Men, sen olmoshlari + tushum kelishigi qo'shimchasi qo'shilganda qaysi shakllar hosil bo'ladi?",
+   "variantlar": [
+    "Meni, seni",
+    "Mening, sening",
+    "Menda, senda",
+    "Menga, senga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Men, sen olmoshlari + jonalish kelishigi qo'shimchasi qo'shilganda qaysi shakllar hosil bo'ladi?",
+   "variantlar": [
+    "Meni, seni",
+    "Mening, sening",
+    "Menga, senga",
+    "Menda, senda"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Mening aziz Vatanim tong kabi musaffodir' gapda 'mening' so'zi qanday bo'lagi vazifasida keladi?",
+   "variantlar": [
+    "To'ldiruvchi",
+    "Kesim",
+    "Asos",
+    "Narigi kesim"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Ular Ulug'bekning ishlarini davom ettirdilar' gapda 'ular' qanday vazifasida keladi?",
+   "variantlar": [
+    "Asos",
+    "Kesim",
+    "To'ldiruvchi",
+    "Narigi kesim"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "U olmoshi + qaratqich, jonalish, orin-payt, chiqish kelishigi qo'shimchalari qo'shilganda qanday o'zgarish bo'ladi?",
+   "variantlar": [
+    "Kelishik o'zgaradi",
+    "Asos o'zgaradi",
+    "Qo'shimcha o'zgaradi",
+    "Tovush o'zgarishi bo'lmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Biz, siz, ular olmoshlari + kelishigi qo'shimchalari qo'shilganda nima bo'ladi?",
+   "variantlar": [
+    "Qo'shimcha o'zgaradi",
+    "Hamma o'zgaradi",
+    "Asos o'zgaradi",
+    "Tovush o'zgarishi bo'lmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Sen yozgan xatni oldim' gapda II shaxs olmosh necha marta keladi?",
+   "variantlar": [
+    "Ikkita",
+    "Uchta",
+    "Bitta",
+    "To'rtta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda 'Ba'zan ular haqida so'zlab turib o'yga tolishadi va yurak-yuraklaridan ularning hayotlari bevaqt so'nganiga achinib ketishadi' gapda nechta III shaxs olmosh bor?",
+   "variantlar": [
+    "3 ta",
+    "5 ta",
+    "2 ta",
+    "4 ta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kishilik olmoshlari gapda qaysi bo'lak vazifasida kelishi mumkin?",
+   "variantlar": [
+    "Faqat to'ldiruvchi",
+    "Asos, to'ldiruvchi, kesim",
+    "Faqat kesim",
+    "Faqat asos"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

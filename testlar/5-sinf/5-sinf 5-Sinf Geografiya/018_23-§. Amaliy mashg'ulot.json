@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Geografiya",
+ "mavzu": "23-§. Amaliy mashg'ulot",
+ "savollar": [
+  {
+   "savol": "Havoning sutkalik harorati necha soatlik oraliqda o'lchanadi?",
+   "variantlar": [
+    "2 soatda",
+    "3 soatda",
+    "12 soatda",
+    "6 soatda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Havoning sutkalik o'rtacha haroratini aniqlash uchun necha marta o'lchanish kerak?",
+   "variantlar": [
+    "10 marta",
+    "6 marta",
+    "8 marta",
+    "4 marta"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yillik amplituda qanday hisoblanadi?",
+   "variantlar": [
+    "Eng issiq oyning haroratiga eng sovuq oyning haroratini qo'shib",
+    "Eng issiq oyning haroratidan eng sovuq oyning haroratini ayirib",
+    "Eng sovuq oyning haroratidan eng issiq oyning haroratini ayirib",
+    "Oylik o'rtacha haroratlarni 12 ga bo'lib"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Havo bosimi Yer yuzasidan balandlikka ko'tarilganda qanday o'zgaradi?",
+   "variantlar": [
+    "Pasayadi",
+    "Almashib o'zgaradi",
+    "Ko'payadi",
+    "O'zgarib qolmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Havo harorati balandlikka ko'tarilganda qanday o'zgaradi?",
+   "variantlar": [
+    "Ko'payadi",
+    "O'zgarib qolmaydi",
+    "Pasayadi",
+    "Aralash o'zgaradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Har 100 metr balandlikka ko'tarilganda havo bosimi necha mm Hg ga pasayadi?",
+   "variantlar": [
+    "20 mm Hg",
+    "15 mm Hg",
+    "5 mm Hg",
+    "10 mm Hg"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Har 1000 metr balandlikka ko'tarilganda havo harorati necha °C ga pasayadi?",
+   "variantlar": [
+    "4 °C",
+    "6 °C",
+    "8 °C",
+    "3 °C"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Oylik o'rtacha haroratini topishda qaysi ma'lumotlardan foydalaniladi?",
+   "variantlar": [
+    "Faqat tun vaqtidagi o'lchanishlardan",
+    "Har soatlik o'lchanishlardan",
+    "Sutkalik o'rtacha haroratlardan",
+    "Faqat kunduzi o'lchanishlardan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sutkalik o'rtacha harorat nima deyiladi?",
+   "variantlar": [
+    "Kunning eng issiq momentida o'lchanuvchi harorat",
+    "Kunning eng sovuq momentida o'lchanuvchi harorat",
+    "24 soat davomida o'lchanuvchi haroratlarning o'rtachasi",
+    "Shafaqdan quyosh chiqquncha o'lchanuvchi harorat"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Atmosfera nima?",
+   "variantlar": [
+    "Yerning qattiq yadrosini",
+    "Yulduzlar orasidagi bo'sh joy",
+    "Yerning suvli qobig'i",
+    "Yerning havo qobig'i"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sutkalik havo harorati: soat 1 da +4°C, soat 4 da +3°C, soat 7 da +4°C, soat 10 da +10°C, soat 13 da +15°C, soat 16 da +16°C, soat 19 da +8°C, soat 22 da +4°C. O'rtachasi necha?",
+   "variantlar": [
+    "6 °C",
+    "9 °C",
+    "7 °C",
+    "8 °C"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Har 200 metr balandlikka ko'tarilganda havo bosimi necha mm Hg ga pasayadi?",
+   "variantlar": [
+    "25 mm Hg",
+    "20 mm Hg",
+    "15 mm Hg",
+    "10 mm Hg"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Toshkentda (400 m balandlik) havo bosimi 720 mm Hg bo'lganda, 100 metr balandlikdagi nuqtada bosim necha mm Hg bo'ladi?",
+   "variantlar": [
+    "725 mm Hg",
+    "715 mm Hg",
+    "710 mm Hg",
+    "730 mm Hg"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar Toshkentda +30°C bo'lsa, 1000 metr yuqorida havo harorati necha darajaga pasayadi?",
+   "variantlar": [
+    "6 °C",
+    "12 °C",
+    "9 °C",
+    "3 °C"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Havo bosimi 100 mm Hg ga pasaydigan masofani aniqlang.",
+   "variantlar": [
+    "1000 metr",
+    "1500 metr",
+    "500 metr",
+    "2000 metr"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Havo harorati 12°C ga pasaydigan balandlikni aniqlang. (Har 1000 m ga 6°C)",
+   "variantlar": [
+    "4000 metr",
+    "2000 metr",
+    "1000 metr",
+    "3000 metr"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matndagi misolga asoslanib, sutkalik o'lchanish natijalarining yig'indisi 64°C bo'lsa, o'rtachasi necha?",
+   "variantlar": [
+    "7 °C",
+    "8 °C",
+    "9 °C",
+    "10 °C"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Toshkentda (400 m) va Qo'qon shahrida (200 m) bosimlarini solishtiring. Qo'qonda bosim necha mm Hg ko'proq? (Toshkent: 720 mm Hg)",
+   "variantlar": [
+    "30 mm Hg",
+    "10 mm Hg",
+    "20 mm Hg",
+    "40 mm Hg"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Pastga 500 m turilganda havo harorati necha °C ga ko'payadi? (Har 1000 m da 6°C tushadi)",
+   "variantlar": [
+    "4 °C",
+    "2 °C",
+    "5 °C",
+    "3 °C"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sutkalik o'rtacha haroratini topishda quyidagi o'lchanish natijalari berilgan: +2°C, +1°C, +3°C, +7°C, +12°C, +13°C, +5°C, +1°C. O'rtachasi necha?",
+   "variantlar": [
+    "5 °C",
+    "8 °C",
+    "6 °C",
+    "7 °C"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Toshkent (400 m, 720 mm Hg) va Qorjontov tog'i (2400 m) bosimlarini taqqoslang. Qorjontovda bosim necha mm Hg?",
+   "variantlar": [
+    "420 mm Hg",
+    "520 mm Hg",
+    "580 mm Hg",
+    "480 mm Hg"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Toshkentda (+35°C, 400 m) Nurota tog'ida (1400 m) havo harorati necha bo'ladi?",
+   "variantlar": [
+    "26 °C",
+    "23 °C",
+    "32 °C",
+    "29 °C"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "B nuqtaning balandligi 400 m, bosimi 720 mm Hg. Undan 300 m pastdagi C nuqtadagi bosim necha mm Hg?",
+   "variantlar": [
+    "720 mm Hg",
+    "730 mm Hg",
+    "740 mm Hg",
+    "710 mm Hg"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "B nuqtada 400 m balandlikda harorat +36°C. 2000 m balandlikdagi D nuqtada harorat necha?",
+   "variantlar": [
+    "28.4 °C",
+    "20.4 °C",
+    "26.4 °C",
+    "24.6 °C"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "B nuqtada 400 m, bosimi 720 mm Hg. 3000 m balandlikdagi nuqtada bosim necha mm Hg?",
+   "variantlar": [
+    "420 mm Hg",
+    "400 mm Hg",
+    "460 mm Hg",
+    "500 mm Hg"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Toshkentda +35°C va 720 mm Hg. Balandlikka ko'tarilganda bosim 520 mm Hg bo'lganda, u yerdagi harorat necha?",
+   "variantlar": [
+    "19 °C",
+    "23 °C",
+    "21 °C",
+    "25 °C"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yanvar oyida -3°C, iyul oyida +27°C bo'lsa, yillik amplituda necha °C?",
+   "variantlar": [
+    "27 °C",
+    "24 °C",
+    "33 °C",
+    "30 °C"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Havo harorati +24°C ga pasarsa, necha metr balandlikka ko'tarilish kerak? (Har 1000 m da 6°C)",
+   "variantlar": [
+    "5000 m",
+    "2000 m",
+    "3000 m",
+    "4000 m"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Toshkentda 720 mm Hg bosimi. Bosim 500 mm Hg bo'lgan joyda balandlik necha metr? (Toshkent 400 m)",
+   "variantlar": [
+    "1800 m",
+    "1600 m",
+    "2000 m",
+    "2200 m"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bosim 160 mm Hg pasaydi va harorat 9.6°C pasadi. Orqaligidagi balandlik farqi necha metr? (100 m da 10 mmHg, 1000 m da 6°C)",
+   "variantlar": [
+    "1600 m",
+    "1400 m",
+    "1200 m",
+    "1800 m"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Tabiatshunoslik",
+ "mavzu": "Daraxtlar",
+ "savollar": [
+  {
+   "savol": "Daraxtlarning poyasi qanday xususiyatlarga ega?",
+   "variantlar": [
+    "Raqamlangan, shaffof, ko'plik va nozik",
+    "Tosh, yumshoq, ko'plik va shiring",
+    "Ohak, ingichka, bitta va qattiq",
+    "Yog'ochlangan, qattiq, bitta va yo'g'on"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yo'l chetida qaysi daraxtlarni ko'rish mumkin?",
+   "variantlar": [
+    "Nur, olibka, dut",
+    "Archa, yong'oq, do'lana",
+    "Chinor, qarag'ay, eman, zarang, terak, tol",
+    "Olcha, bodom, yovvoyi olma"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tog' yonbag'irlarida qaysi daraxtlar ko'p o'sadi?",
+   "variantlar": [
+    "Tol, zarang, eman",
+    "Chinor, qarag'ay, terak",
+    "Archa, yong'oq, do'lana, yovvoyi olma, olcha, bodom",
+    "Zaraq, duv, silb"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'rmonlar qayerlarda hosil bo'ladi?",
+   "variantlar": [
+    "Issiqlik va namlik yetarli bo'lgan joylarda",
+    "Tog' cho'qqisida",
+    "Suv bo'ylarida",
+    "Cho'l va qumda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'rmon daraxtlari qaysi suvi hisobiga o'sadi?",
+   "variantlar": [
+    "Podzemni suv",
+    "Tog'dan kelib tushadigan suv",
+    "Istemlangan suv",
+    "Yog'inlarning suvi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Daraxtning poyasi necha bo'ladi?",
+   "variantlar": [
+    "Ikkita",
+    "Bitta",
+    "Ko'plik",
+    "Chordita"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chinor, qarag'ay, terak qayerlarda o'sadi?",
+   "variantlar": [
+    "O'rmonlarda",
+    "Cho'lda",
+    "Tog' tepa qismida",
+    "Yo'l chetida"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tog' o'rmonlarida qanday maydonlar katta arenani egallagan?",
+   "variantlar": [
+    "Bodom zonasi",
+    "Tol zonasi",
+    "Archazorlar",
+    "Chinor zonasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Archa daraxtini qayerlarda ko'rish mumkin?",
+   "variantlar": [
+    "Tog' yonbag'irlarida",
+    "Tekislikda",
+    "Yo'l chetida",
+    "Suv bo'ylarida"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'rmon daraxtlari qanday o'sadi?",
+   "variantlar": [
+    "Aylanada",
+    "Siyrak",
+    "Zich bo'lib",
+    "Tartibli"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'lkamizdagi tekisliklarda yozda qanday muammo bor?",
+   "variantlar": [
+    "Issiqlik yetarli emas",
+    "Yog'ingarchilik kam",
+    "Shamol kuchli",
+    "Tuproq yomon"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tog'liklarda yozda daraxtlar o'sishi uchun qanday shart mavjud?",
+   "variantlar": [
+    "Juda issiq bo'lishi kerak",
+    "Faqat namlik",
+    "Yozda ham yog'ingarchilik bo'lib turadi va yerda namlik yetarli",
+    "Faqat issiqlik"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar o'rmon uchun issiqlik va namlik shartlari to'g'ri bo'lsa, u hosil bo'ladimi?",
+   "variantlar": [
+    "Ha, hosil bo'ladi",
+    "Yo'q, qo'shimcha shart kerak",
+    "Lekin siyrak bo'ladi",
+    "Faqat qismik hosil bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qarag'ay daraxtini qayerlarda ko'rish mumkin?",
+   "variantlar": [
+    "Tekislikda",
+    "Tog' tepasida",
+    "Cho'lda",
+    "Yo'l chetida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yong'oq daraxtining tabii yashaviyshy joyi qayerdir?",
+   "variantlar": [
+    "Yo'l chetida",
+    "Tog' yonbag'irlarida",
+    "Tekislik markazi",
+    "Suv yaqinida"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi daraxtlardan qaysi biri yo'l chetida o'sadi?",
+   "variantlar": [
+    "Zarang",
+    "Yong'oq",
+    "Archa",
+    "Do'lana"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Do'lana daraxtini qayerlarda ko'rish mumkin?",
+   "variantlar": [
+    "O'rmonda",
+    "Qumli havzada",
+    "Yo'l chetida",
+    "Tog' yonbag'irlarida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'rmon hosil bo'lishi uchun birinchi navbatda nima kerak?",
+   "variantlar": [
+    "Tog' bo'lishi",
+    "Issiqlik va namlik",
+    "Suv o'tib o'tishi",
+    "Kattalanik"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Olcha daraxtini qaysi yerda ko'rish mumkin?",
+   "variantlar": [
+    "Tog' yonbag'irlarida",
+    "Shahar ichida",
+    "Tekislikda",
+    "Yo'l chetida"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Terak daraxt qaysi joyda o'sadi?",
+   "variantlar": [
+    "Tog'da",
+    "Cho'lda",
+    "O'rmonlarda",
+    "Yo'l chetida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nega tog'liklarda o'rmonlar tekislikdan ko'proq o'sadi?",
+   "variantlar": [
+    "Tog'da tuproq yanada yaxshi",
+    "Tog' tepalik bo'ladi",
+    "Issiqlik ham bor, yozda ham yog'ingarchilik bo'ladi, yerda namlik yetarli",
+    "Tog'da shamol kuchli"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tekisliklarda issiqlik yetarli bo'lishiga qaramay, yozda yog'ingarchilik kam bo'lsa, daraxtlar uchun nima bo'ladi?",
+   "variantlar": [
+    "Rang o'zgartiradi",
+    "Yuqorida ko'tariladi",
+    "O'sishi qiynaladi",
+    "Juda tez o'sadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'rmonlar hosil bo'lishi uchun quyidagi shartlardan qaysilari birga muhim?",
+   "variantlar": [
+    "Faqat namlik",
+    "Issiqlik va namlik birga",
+    "Faqat tuproq",
+    "Faqat issiqlik"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nega o'rmonlarda daraxtlar zich bo'lib o'sadi?",
+   "variantlar": [
+    "Issiqlik va namlik yetarli bo'lishi sababli, shuning uchun o'simliklar ko'p o'sadi",
+    "Daraxtlar bir-biridan qo'rqadi",
+    "Daraxtlar tepa bo'laydi",
+    "Tuproq yanada qattiqlashadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yo'l chetidagi daraxtlar (chinor, qarag'ay) nima uchun o'sha yerda o'sadi?",
+   "variantlar": [
+    "O'sha yerda issiqlik va namlik mos kelyapti",
+    "Shunga o'xshash tabiiy shart bor",
+    "Hechbir sababi yo'q",
+    "O'rmonning yetishmasligini to'ldiradi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar tog'liklarda yozda yog'ingarchilik bo'lmasa, u holda o'rmonlar qanday bo'ladi?",
+   "variantlar": [
+    "Siyrak yoki qayb bo'ladi",
+    "Bunday o'rmonlar yasaladi",
+    "Katta va zich bo'ladi",
+    "Yanada yaxshi o'sadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Do'lana, olcha, bodom tog' yonbag'irlarida o'sadi. Bu nimani ko'rsatadi?",
+   "variantlar": [
+    "Ularga yanada issiqlik kerak",
+    "Bu daraxtlarning tog' sharoitiga mosligini",
+    "Ularga yog'in yetmaydi",
+    "Ularga tog' sharoiti yoqmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'lka tug'ografiyasiga ko'ra, daraxtlar eng yaxshi qaysi joyda o'sadi?",
+   "variantlar": [
+    "Tog'liklarda, chunki yozda ham yog'ingarchilik bo'ladi va yerda namlik yetarli",
+    "Yo'l chetida, chunki sharoiti mos",
+    "Cho'lda, chunki issiqlik maksimal",
+    "Tekislikda, chunki issiqlik yetarli"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Archazorlar tog' o'rmonlarida katta maydonlarni egallagan, bu nima uchun bo'lishi mumkin?",
+   "variantlar": [
+    "Archa eng shakli katta",
+    "Tog'dagi o'sish shartlari archaning o'sishiga mos keladi",
+    "O'rmonchilar archani ko'proq ekitdi",
+    "Archa eng qattiq daraxt"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar tekisliklarda yagona yog'in boshadigan qilib namlik yetib tursa, daraxtlar o'saladimi?",
+   "variantlar": [
+    "Ha, o'sadi, chunki issiqlik bor va namlik yetib turadi",
+    "Juda sekin o'sadi",
+    "Tez-tez o'sadi keyin o'ladi",
+    "Yo'q, o'salmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

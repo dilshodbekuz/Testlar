@@ -1,0 +1,326 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Informatika",
+ "mavzu": "34-dars. Nazorat ishi",
+ "savollar": [
+  {
+   "savol": "1-ayiq sprayti necha foizlik o'lcham bilan oqish kerak?",
+   "variantlar": [
+    "100%",
+    "25%",
+    "50%",
+    "75%"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "2-ayiqcha sprayti qanday o'lcham bilan o'rnatiladi?",
+   "variantlar": [
+    "25%",
+    "75%",
+    "50%",
+    "100%"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Loyihamizga qaysi musiqa tanlanadi?",
+   "variantlar": [
+    "Sounds Loops Garden",
+    "Sounds Loops Video",
+    "Sounds Loops Desert",
+    "Sounds Loops Music"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1-ayiq sprayti y pozitsiyasi necha?",
+   "variantlar": [
+    "-54",
+    "84",
+    "-84",
+    "33"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "2-ayiqcha sprayti x koordinatasi qanday?",
+   "variantlar": [
+    "-132",
+    "-84",
+    "33",
+    "84"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dasturni saqlash uchun qaysi buyruq ishlatiladi?",
+   "variantlar": [
+    "File Delete",
+    "File Save to your computer",
+    "File Print",
+    "File Open"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Spray nima uchun ishlatiladi?",
+   "variantlar": [
+    "Musiqa o'ynash uchun",
+    "Raqamlarni hisoblash uchun",
+    "Harakatlantiriladigan ob'ekt sifatida",
+    "Faqat sahnani rangilanish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dasturni to'xtatish uchun nima qilish kerak?",
+   "variantlar": [
+    "Tugmachasini bosing",
+    "Sprayti o'chirib tashlang",
+    "Musiqa to'xtating",
+    "Ekranni bosing"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "X va Y koordinatalari nimani ko'rsatadi?",
+   "variantlar": [
+    "Spraytin o'lchami",
+    "Spraytin sahnada joylashishi",
+    "Spraytin rangi",
+    "Spraytin tezligi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qo'shimcha skript qayerga qo'shish mumkin?",
+   "variantlar": [
+    "Musiqa fayliga",
+    "Faqat 1-sprayitga",
+    "Ixtiyoriy sprayt kodiga",
+    "Sahnaga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1-ayiq sprayti bilan 2-ayiqcha sprayti o'lcham farqi necha foiz?",
+   "variantlar": [
+    "75%",
+    "25%",
+    "50%",
+    "100%"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1-ayiq x = -132 va 2-ayiqcha x = 33 bo'lsa, ularning x farqi necha?",
+   "variantlar": [
+    "99",
+    "-165",
+    "132",
+    "165"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2-ayiqcha y = -54 dan 0 pozitsiyasiga ko'chirilsa, qancha siljish kerak?",
+   "variantlar": [
+    "0 birlik",
+    "54 birlik yuqoriga",
+    "54 birlik pastga",
+    "-54 birlik"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dasturlash jarayonida sprayti qanday o'zgartiriladi?",
+   "variantlar": [
+    "Faqat nomini",
+    "Faqat rangini",
+    "O'lcam, pozitsiya va boshqa xususiyatlarini",
+    "Faqat o'lchamini"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mustaqil vazifada qaysi algoritm ishlatiladi?",
+   "variantlar": [
+    "Zina, Labirint, Prujina",
+    "Faqat Prujina",
+    "Faqat Zina",
+    "Faqat Labirint"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Loyiha ishini taqdim etishdan oldin nima qilish kerak?",
+   "variantlar": [
+    "Dasturni yangi ochish",
+    "Musiqa o'zgartirib yuborish",
+    "Sprayti o'chirib tashlash",
+    "Tayyorgarlik ko'rish va o'rganish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sprayti kutubxonasidan nima tanlanadi?",
+   "variantlar": [
+    "Faqat allaqachon o'rnatilgan sprayti",
+    "Istalgan qahramon",
+    "Musiqa faylari",
+    "Faqat raqamlar"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dasturni ishga tushirish jarayonida nima amalga oshiriladi?",
+   "variantlar": [
+    "Faqat o'lcamni o'zgartirib yuborish",
+    "Musiikani o'zgartirib yuborish",
+    "Sprayti o'chirib tashlash",
+    "Skriptni bajarish va sahnada ko'rish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sinov testlariga qaysi boblar kiradi?",
+   "variantlar": [
+    "Faqat I-III boblar",
+    "Faqat VI bob",
+    "Faqat VII bob",
+    "Barcha boblar"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar 1-ayiq x koordinatasini -132 dan 100 ga o'tkazish kerak bo'lsa, necha birlik siljishi kerak?",
+   "variantlar": [
+    "232 birlik",
+    "100 birlik",
+    "132 birlik",
+    "32 birlik"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1-ayiq (100%) va 2-ayiqcha (50%) o'lchamlari nisbati qanday?",
+   "variantlar": [
+    "1:2",
+    "2:1",
+    "1:1",
+    "3:2"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkala sprayti y koordinatalarining yig'indisi qanday?",
+   "variantlar": [
+    "-138",
+    "-84",
+    "-30",
+    "138"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2-ayiqcha x = 33 dan x = -50 ga o'tkazilsa, jami siljish qancha?",
+   "variantlar": [
+    "-83 birlik",
+    "83 birlik",
+    "17 birlik",
+    "50 birlik"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1-ayiq y = -84 dan y = 50 ga o'tkazilsa, necha birlik yuqoriga siljishi kerak?",
+   "variantlar": [
+    "-134 birlik",
+    "134 birlik",
+    "84 birlik",
+    "50 birlik"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar 1-ayiq o'lcamini 100% dan 75% ga kamaytirish kerak bo'lsa, necha foiz kamayish?",
+   "variantlar": [
+    "75%",
+    "50%",
+    "25%",
+    "100%"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2-ayiqcha o'lcami 1-ayiq o'lcamiga nisbatan necha marta kichik?",
+   "variantlar": [
+    "1 marta",
+    "0.5 marta",
+    "2 marta",
+    "3 marta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sprayti koordinatalari (-132, -84) dan (33, -54) ga o'tkazish uchun qanday algoritm ishlatiladi?",
+   "variantlar": [
+    "Faqat Y o'zgarishi",
+    "Faqat x o'zgarishi",
+    "O'zgarish yo'q",
+    "X va Y ham o'zgarishi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Loyiha ishida algoritm bo'yicha harakatlash uchun qaysi bosqichlar izchil bajariladi?",
+   "variantlar": [
+    "Zina > Labirint > Prujina",
+    "O'zgaruvchan tartibda",
+    "Har qanday tartibda",
+    "Faqat bitta algoritm"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dasturlash loyihasini to'liq yakuniy o'rnini ko'rishni o'rnatilgan jarayonning qaysi bosmasi?",
+   "variantlar": [
+    "Sprayti tanlash",
+    "Skript yozish",
+    "Musiqa tanl ish",
+    "Dasturni ishga tushirish va tomosha qilish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

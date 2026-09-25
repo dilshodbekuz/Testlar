@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Tabiatshunoslik",
+ "mavzu": "Odam tanasi",
+ "savollar": [
+  {
+   "savol": "Odam tanasining asosiy qismlari nechta?",
+   "variantlar": [
+    "3",
+    "5",
+    "6",
+    "4"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Odam tanasi nima bilan qoplangan?",
+   "variantlar": [
+    "Teri bilan",
+    "Qon bilan",
+    "Suyak bilan",
+    "Muskullar bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Teri ostida nima bor?",
+   "variantlar": [
+    "O'pka",
+    "Muskullar",
+    "Suyaklar",
+    "Ichaklar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Muskullar nimaga birikkan?",
+   "variantlar": [
+    "O'pkaga",
+    "Suyaklarga",
+    "Jigarга",
+    "Yurakka"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Odam tanasi ichida nechta asosiy ichki a'zo bor?",
+   "variantlar": [
+    "5",
+    "4",
+    "3",
+    "7"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rasmdagi \"1\" raqami qaysi ichki a'zoni belgilaydi?",
+   "variantlar": [
+    "Jigar",
+    "Oshqozon",
+    "Yurak",
+    "O'pka"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rasmdagi \"2\" raqami qaysi ichki a'zoni belgilaydi?",
+   "variantlar": [
+    "Ichaklar",
+    "O'pka",
+    "Jigar",
+    "Oshqozon"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rasmdagi \"3\" raqami qaysi ichki a'zoni belgilaydi?",
+   "variantlar": [
+    "Oshqozon",
+    "Jigar",
+    "Yurak",
+    "O'pka"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rasmdagi \"4\" raqami qaysi ichki a'zoni belgilaydi?",
+   "variantlar": [
+    "O'pka",
+    "Jigar",
+    "Oshqozon",
+    "Ichaklar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rasmdagi \"5\" raqami qaysi ichki a'zoni belgilaydi?",
+   "variantlar": [
+    "Jigar",
+    "Oshqozon",
+    "Ichaklar",
+    "O'pka"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Teri tanamizni qanday narsalardan himoya qiladi?",
+   "variantlar": [
+    "Shikastlanishdan, suv, chang va mikroblardan",
+    "Faqat suvdan",
+    "Faqat mikroblardan",
+    "Faqat changdan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Teridagi nayachalarda nima bo'ladi?",
+   "variantlar": [
+    "Suyak",
+    "Suv (ter)",
+    "Muskullar",
+    "Qon hujaylari"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Teridagi xaltachalarda nima bo'ladi?",
+   "variantlar": [
+    "Yog' va suv",
+    "Faqat yog'",
+    "Mikroblar",
+    "Faqat suv"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Teridagi yog' va ter qanday muhim vazifani bajaradi?",
+   "variantlar": [
+    "Nafas olishni ta'minlaydi",
+    "Tana haroratini saqlab turishda ishtirok etadi",
+    "Tanamizni rang beradi",
+    "Ovqat hazm qiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Teridagi qon tomirlari qanday muhim vazifa bajaradi?",
+   "variantlar": [
+    "Teri to'qimalariga ozuqa va kislorod yetkazadi",
+    "Muskullarni harakatlantiradi",
+    "Suyaklarni kuchaytiradi",
+    "Ichak harakat ettiradi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Odam tanasining asosiy qismlari qaysila?",
+   "variantlar": [
+    "Gavda, qo'l, oyoq",
+    "Bosh, bo'yin, gavda",
+    "Bosh, gavda, oyoq",
+    "Bosh, bo'yin, gavda, qo'l, oyoq"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Odam tanasi ichida qanday asosiy ichki a'zolar bor?",
+   "variantlar": [
+    "Yurak, o'pka, jigar, oshqozon, ichaklar",
+    "Faqat jigar va oshqozon",
+    "Faqat ichaklar",
+    "Faqat yurak va o'pka"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Teri ostidagi muskullar qanday vazifa bajaradi?",
+   "variantlar": [
+    "Faqat ovqatni hazm qiladi",
+    "Faqat tana haroratini saqlab turadi",
+    "Faqat tana rangini beradi",
+    "Suyaklarga birikkan va tana harakatlarida ishtirok etadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Har bir odam a'zosi qanday vazifani bajaradi?",
+   "variantlar": [
+    "Faqat harokatni ta'minlaydi",
+    "Odam hayoti uchun zarur bo'lgan muhim vazifalarni",
+    "Boshqasiga bog'liq bo'lmagan mustaqil vazifani",
+    "Hamma bir xil vazifani"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Odam tanasida qanday narsalarning bo'lishi muhim?",
+   "variantlar": [
+    "Faqat tashqi qismlari",
+    "Faqat ichki a'zolari",
+    "Faqat suyaklari",
+    "Ham tashqi ham ichki qismlari"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Odam tanasi qanday tuzilgan ekanligi qaysi variantda to'g'ri ifodalanadi?",
+   "variantlar": [
+    "Teri, muskullar, suyaklar va ichki a'zolardan tashkil topgan",
+    "Faqat suyaklardan",
+    "Faqat ichki a'zolardan",
+    "Faqat teri bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Teri, muskullar va suyaklar odam tanasida qanday o'zaro aloqada turadi?",
+   "variantlar": [
+    "O'zaro bog'liq emas",
+    "Teri muskullarni qoplab, muskullar suyaklarga birikkan",
+    "Faqat suyaklar muhim",
+    "Alohida ishlashadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Teri tanamizni qanday usullar orqali himoya qiladi?",
+   "variantlar": [
+    "Shikastlanishdan, suv va changdan himoya beradi, qon tomirlari orqali ozuqa yetkazadi",
+    "Faqat yuqori qatlamdan",
+    "Faqat hargin bilan",
+    "Faqat muskullar orqali"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tana haroratini saqlab turishda qanday jarayonlar ishtirok etadi?",
+   "variantlar": [
+    "Faqat ovqatni yutish",
+    "Teri, yog' va ter birgalikda qon tomirlari bilan",
+    "Faqat ichki a'zolar ishi",
+    "Faqat nafas olish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Odam tanasi qismlari o'zaro bog'liqligining belgisi nima?",
+   "variantlar": [
+    "Ichki a'zolar tashqi qismlarga bog'liq emas",
+    "Har bir qism alohida ishlaydi",
+    "Faqat tashqi qismlari muhim",
+    "Bittasining ishi boshqasiga ta'sir qiladi, o'zaro bog'liq ishlashadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar muskullar suyaklarga biriktilmasa odam tanasida neler bo'ladi?",
+   "variantlar": [
+    "Nafas olish to'xtaydi",
+    "Tana harakati to'liq mumkin bo'lmaydi",
+    "Ovqat hazm bo'lmaydi",
+    "Teri shikastlanadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Teridagi qon tomirlari, yog' va ter qanday muhim vazifalarni birgalikda bajaradi?",
+   "variantlar": [
+    "Faqat tana rangini aniqlaydi",
+    "Tana haroratini saqlab turish va teri to'qimaliga ozuqa yetkazishda",
+    "Faqat muskullarni kuchaytiradi",
+    "Faqat chang va mikroblardan himoya"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Odam tanasining ichki a'zolari o'zaro bog'liqligining isbolari qaysila?",
+   "variantlar": [
+    "Hamma alohida ishlaydi",
+    "Hechbirortasi bog'liq emas",
+    "Faqat yurak muhim",
+    "Bittasining ishi boshqasiga ta'sir qiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun har bir odam a'zosi tanamiz uchun zarur va muhim?",
+   "variantlar": [
+    "Ichki a'zolar tashqi qismlarga bog'liq emas",
+    "Ba'zilari muhim, ba'zilari keraksiz",
+    "Har biri o'z muhim vazifasini bajaradi va hammasining birga ishi odam hayotini ta'minlaydi",
+    "Faqat bosh va yurak muhim"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Odam tanasining tashqi qismlari ichki a'zolarni qanday muhofaza qiladi?",
+   "variantlar": [
+    "Faqat teri himoya beradi",
+    "Muskullar va suyaklar teri bilan qoplab mustahkam himoya beradi",
+    "Faqat muskullar himoya beradi",
+    "Ichki a'zolar tashqi qismlarga bog'liq emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

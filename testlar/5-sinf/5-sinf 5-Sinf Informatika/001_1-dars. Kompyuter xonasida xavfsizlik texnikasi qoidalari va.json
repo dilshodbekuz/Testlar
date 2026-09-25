@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Informatika",
+ "mavzu": "1-dars. Kompyuter xonasida xavfsizlik texnikasi qoidalari va sanitariya-gigiyena talablari",
+ "savollar": [
+  {
+   "savol": "Kompyuter xonasiga kirish uchun qanday ruxsat zarur?",
+   "variantlar": [
+    "Talabaning ruxsati",
+    "O'qituvchining ruxsati",
+    "O'zbekcha bilish",
+    "Ota-onasining ruxsati"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kompyuter xonasida tez alangalanuvchi buyumlarni ishlatish mumkinmi?",
+   "variantlar": [
+    "Ha, ishlatish mumkin",
+    "Faqat o'qituvchi bo'lsa ishlatish mumkin",
+    "Vaqt-vaqti bilan ishlatish mumkin",
+    "Yo'q, ishlatish mumkin emas"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Monitordan ko'z gacha bo'lgan optimal masofa qancha bo'lishi kerak?",
+   "variantlar": [
+    "20-30 sm",
+    "30-40 sm",
+    "50-60 sm",
+    "80-100 sm"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ish stoligacha bo'lgan minimal masofa necha santimetrov bo'lishi kerak?",
+   "variantlar": [
+    "30 sm dan kam bo'lmasligi",
+    "10 sm dan kam bo'lmasligi",
+    "40 sm dan kam bo'lmasligi",
+    "20 sm dan kam bo'lmasligi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kompyuter xonasiga qanday ichimlik olib kirish mumkin?",
+   "variantlar": [
+    "Har qanday salqin ichimlik",
+    "Ichimlik olib kirish mumkin emas",
+    "Faqat issiq choy",
+    "Faqat suv"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'rindiqda o'tirgan vaqtda umurtqa pog'onasi qanday bo'lishi kerak?",
+   "variantlar": [
+    "Qiyshaygan",
+    "Orqaga yashilgan",
+    "To'g'ri tutilgan",
+    "Bukchaygan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tirsaklar tashkil etgan burchak qanday bo'lishi lozim?",
+   "variantlar": [
+    "90-120 gradus",
+    "30-60 gradus",
+    "60-90 gradus",
+    "120-150 gradus"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Har 20 daqiqada nima qilish kerak?",
+   "variantlar": [
+    "Bosh ko'tarib o'tirish",
+    "Ish stoligacha yaqinlashish",
+    "Kompyuterda davom etish",
+    "Ko'zga dam berib turish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kompyuter yoqilgan holatida qanday jismlarga tegmaslik kerak?",
+   "variantlar": [
+    "Klatavatura va sichqonchi",
+    "Sim, rozetka va ulagichlarga",
+    "Mikrofoniga va kameraga",
+    "Monitorga va qolipka"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kompyuterda kunlik ishlash vaqti qancha bo'lishi kerak?",
+   "variantlar": [
+    "Faqat 1 soat",
+    "5-6 soat",
+    "Butyun kun",
+    "2-3 soatdan ortiq bo'lmasligi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kompyuterda noto'g'ri o'tirish qanday oqibatlarga keltirib chiqishi mumkin?",
+   "variantlar": [
+    "Faqat qo'llarni achchitadi",
+    "Faqat umurtqa pog'onasini zo'riqtiradi",
+    "Hech qanday salbiy oqibat yo'q",
+    "Ko'rish qobiliyatini susaytiradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qo'llarni tegishli tozalash uchun qanday usullarni qo'llash kerak?",
+   "variantlar": [
+    "Sovunlab yuvish yoki antiseptik salfetkalarda artilgan qo'llarni ishlatish",
+    "Faqat suv bilan yuvish",
+    "Boshiga issiq suvga o'qmash",
+    "Kompyuterning tozalash salfetkasidan foydalanish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Noutbukda ishlagan vaqtda bosh qanday pozitsiyada bo'lishi kerak?",
+   "variantlar": [
+    "Biroz pastga egib",
+    "To'liq yuqorida",
+    "Har xil o'ng va chap tomonlarga",
+    "Qat'iy to'g'ri faqat"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ko'z nurining pasayishi qanday holatlar natijasida sodir bo'ladi?",
+   "variantlar": [
+    "Faqat ovqat yoshi noto'g'ridan",
+    "Shunga hech narsa ta'sir ko'rsatmaydi",
+    "Monitorga uzoq tikilib o'tirish va ko'zlarni kam ochilib-yumilishdan",
+    "Faqat yosh tufayli"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Badan gimnastikasi o'rta vaqtida qo'llar qanday bo'lishi kerak?",
+   "variantlar": [
+    "Boshiga qo'ygan",
+    "Qo'lini o'zaro shitib",
+    "Tushirib, tinchlik holatida",
+    "Baland ko'targan holda"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kompyuter xonasida noto'g'ri tartib-intizom qanday shikastlarga olib keladi?",
+   "variantlar": [
+    "Faqat o'tilgan darslarni unutib qolish",
+    "Inson hayoti va sog'lig'iga, qurilmaga zarar va ma'lumotlar yo'chib ketishiga",
+    "Faqat kompyuterning tezligini susaytiradi",
+    "Hech qanday shikastga olib kelmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Favqulotda vaziyatlarda qanday harakat qilish kerak?",
+   "variantlar": [
+    "Boshqa o'quvchilarni chaqirib olish",
+    "Darhol taxyaa vaz gechi kompyuterni o'chirish",
+    "O'zingiz hal qila olganimi o'ylab ko'rish",
+    "Tezda o'qituvchiga xabar berish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Elektr tokining kompyuterda qanday ahamiyati bor?",
+   "variantlar": [
+    "Kompyuter ishlashi uchun shart bo'ladi",
+    "Faqat qo'riqlovchi vazifa bajaradi",
+    "Faqat monitor yoqadi",
+    "Hech qanday vazifasi yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kompyuterda faqat qanday vazifalarni bajarish mumkin?",
+   "variantlar": [
+    "Hamma vaqt istalgan narsa",
+    "Faqat o'yin o'ynash",
+    "O'qituvchi bergan vazifa",
+    "Har doim Internetda sayrallash"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'quvchi sog'ligining asosiy ko'rsatuvchisi qanday harakatlarda namoyon bo'ladi?",
+   "variantlar": [
+    "Darsda yoqilish",
+    "Shunga bog'li yo'q",
+    "O'ngli harakat va intizam",
+    "Faqat o'qituvchiga qulfoq berish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kompyuterda ishlashdagi qoidalarni bilmasligi oqibatida qanday nomaqbul hodisalar yuz berishi mumkin?",
+   "variantlar": [
+    "Faqat oxirgi imtihonni o'ta olmaslik",
+    "Hech qanday salbiy natija yo'q",
+    "Xavfli vaziyatlar, shikastlar va ma'lumotlarning yo'chib ketishi",
+    "Faqat sinfli aeronavtika o'rganish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "To'g'ri o'tirish pozitsiyasiga amal qilishning asosiy sababi nima?",
+   "variantlar": [
+    "Shuning natijasida tezroq ishlash uchun",
+    "Faqat disiplanini saqlash uchun",
+    "Umurtqa pog'onasini zo'riqtirmaslik va ko'rish qobiliyatini saqlash uchun",
+    "Buning sababi yo'q, so'ngi qoidadir"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Monitordan 50-60 sm masofa qanday kelmasi bilan bog'lanadi?",
+   "variantlar": [
+    "Faqat kichik monitorlar uchun qoida",
+    "Faqat monitor yangilash chastotasiga",
+    "Ko'z nurining pasayishini oldini olishi va ko'rish qobiliyatini saqlashi",
+    "Buning sababi yo'q"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sanitariya va gigiyena talablarini rioya qilish inson sog'lig'iga qanday ta'sir ko'rsatadi?",
+   "variantlar": [
+    "Buning ta'siri yo'q",
+    "Shikastlarning oldini oladi, sog'liqni butun umri davomida saqlaydi",
+    "Faqat dars sifatini yaxshilaydi",
+    "Faqat ba'zi shikastlarni kamaytiradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kuniga 2-3 soatdan ortiq kompyuterda ishlash nima uchun qo'pol hisoblanadi?",
+   "variantlar": [
+    "Kompyuter xotirasini zararlasa",
+    "Faqat qurilmaning umrini kamaytiradi",
+    "Ko'zni zo'riqtiradi va badan musiqalarini masalan iltimos beadi",
+    "Buning sababi yo'q"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektr qurilmalarning kompyuter yaqinida qo'llanilishinig xavfi qanday?",
+   "variantlar": [
+    "Faqat kompyuter tezligini susaytiradi",
+    "Qisqa tutashvni va elektr toki xavfini keltirib chiqishi mumkin",
+    "Hech qanday xavfi yo'q",
+    "Shuning sababi yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ko'z va tana mashqlarini doimiy ravishda bajarish qanday natijaga olib keladi?",
+   "variantlar": [
+    "Shikastlanishni oshiradi",
+    "Hech qanday ta'siri yo'q",
+    "Sog'liqni saqlaydi, ko'rish qobiliyatini mustahkamaydi",
+    "Faqat vaqt behuda sarflaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Harakatlanish uchun noqulay, qo'pol kiyimlarda kompyuter xonasiga kirmashlikning asosiy sababi nima?",
+   "variantlar": [
+    "Buning sababi yo'q",
+    "Xavfsizlik qoidalarini buzadi va harakatlanishni cheklaydi",
+    "Darsga diqqat berishni kamaytiradi",
+    "Faqat bezakki ko'rinish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kompyuterda ishni to'xtatgach qo'llarni sovunlab yuvish qanday muhimdirligiga ega?",
+   "variantlar": [
+    "Shuningdek elektr toki va boshqa zaharli moddalarni tozalash uchun zarur",
+    "Faqat vaqt qazilib berish uchun",
+    "Faqat odatga aylantirish uchun",
+    "Hech qanday muhimdiligi yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kompyuter xonasida tartib va tozalikni saqlashning kompyuterning ishlashiga qanday ta'siri bor?",
+   "variantlar": [
+    "Hech qanday ta'siri yo'q",
+    "Qurilmaning uzun muddat ishlashini ta'minlaydi va shikastlarning oldini oladi",
+    "Faqat ko'rinishni yaxshilaydi",
+    "Faqat o'qituvchining ehtiyojiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

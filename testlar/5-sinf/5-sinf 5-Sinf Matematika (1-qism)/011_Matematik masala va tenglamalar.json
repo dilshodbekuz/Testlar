@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Matematika (1-qism)",
+ "mavzu": "Matematik masala va tenglamalar",
+ "savollar": [
+  {
+   "savol": "Tenglama nima?",
+   "variantlar": [
+    "Ma'lum sonlar qo'shmasi",
+    "Noma'lum qatnashgan tenglik",
+    "Ikki sonning ayirmasi",
+    "Masala shartida berilgan kattaliklar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tenglamaning ildizi nima?",
+   "variantlar": [
+    "Noma'lum harfning tenglamani to'g'ri sonli tenglikka aylantiradigan qiymati",
+    "Tenglamadagi barcha sonlar",
+    "Tenglamaning ikkinchi qismi",
+    "Noma'lum sonning asl qiymati"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tenglamani yechish deganda nima tushuniladi?",
+   "variantlar": [
+    "Tenglamani o'qish",
+    "Tenglamaning matematik modelini yasash",
+    "Barcha ildizlarini topish yoki birorta ham ildizi yo'qligini aniqlash",
+    "Tenglamaning shartini o'zgartirishgach"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Noma'lum qo'shiluvchini topish uchun qanday amal bajarish kerak?",
+   "variantlar": [
+    "Yig'indini ma'lum qo'shiluvchiga bo'lish",
+    "Ma'lum qo'shiluvchiga ayirmani qo'shish",
+    "Yig'indidan ma'lum qo'shiluvchini ayirish",
+    "Yig'indiga ma'lum qo'shiluvchini qo'shish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Noma'lum kamayuvchini topish uchun qanday amal bajarish kerak?",
+   "variantlar": [
+    "Ayirmaga ayiriluvchini qo'shish",
+    "Kamayuvchini ayiriluvchiga bo'lish",
+    "Ayiriluvchiga ayirmani qo'shish",
+    "Kamayuvchidan ayirmani ayirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Noma'lum ayiriluvchini topish uchun qanday amal bajarish kerak?",
+   "variantlar": [
+    "Kamayuvchiga ayirmani qo'shish",
+    "Ayirmaga kamayuvchini qo'shish",
+    "Kamayuvchidan ayirmani ayirish",
+    "Ayirmani kamayuvchiga bo'lish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matematik masalaning matematik modeli nima?",
+   "variantlar": [
+    "Masalani yechish usuli",
+    "Masalaning so'ziy ifodalanishi",
+    "Masalani matematik belgilar yordamida ifodalagan shakl",
+    "Masalaning shartidagi raqamlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x + 200 = 500 tenglamaning ildizi qaysi son?",
+   "variantlar": [
+    "200",
+    "400",
+    "500",
+    "300"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Masala shartida ma'lum bo'lgan kattaliklar nimaga kerak?",
+   "variantlar": [
+    "Masala yozni uzunlashtirish uchun",
+    "Tenglamani o'qishni yengillashtirish uchun",
+    "Masalani qiyin qilish uchun",
+    "Noma'lumni topish uchun foydalaniladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Noma'lum harfning berilgan tenglama to'g'ri bo'ladigan qiymatiga nima deb ataladi?",
+   "variantlar": [
+    "Tenglamaning ildizi",
+    "Tenglamaning chap tomoni",
+    "Masala shartiga",
+    "Matematik model"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x + 23 = 57 tenglamani yeching.",
+   "variantlar": [
+    "x = 80",
+    "x = 30",
+    "x = 40",
+    "x = 34"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y - 9 = 16 tenglamani yeching.",
+   "variantlar": [
+    "y = 7",
+    "y = 25",
+    "y = 20",
+    "y = 15"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "38 - z = 12 tenglamani yeching.",
+   "variantlar": [
+    "z = 50",
+    "z = 10",
+    "z = 20",
+    "z = 26"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x + 26 = 142 tenglamani yeching.",
+   "variantlar": [
+    "x = 120",
+    "x = 100",
+    "x = 116",
+    "x = 168"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "23, 45, 12 sonlardan qaysi biri x + 45 = 57 tenglamaning ildizi bo'ladi?",
+   "variantlar": [
+    "12",
+    "45",
+    "23",
+    "Ularning biri ham emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y - 35 = 20 tenglamani yeching.",
+   "variantlar": [
+    "y = 55",
+    "y = 50",
+    "y = 15",
+    "y = 60"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "60 - z = 18 tenglamani yeching.",
+   "variantlar": [
+    "z = 40",
+    "z = 44",
+    "z = 36",
+    "z = 42"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x + 37 = 85 tenglamani yeching.",
+   "variantlar": [
+    "x = 122",
+    "x = 45",
+    "x = 50",
+    "x = 48"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3260 + 4521 = 7781 munosabatidan foydalanib, 7781 - 3260 ni toping.",
+   "variantlar": [
+    "4521",
+    "8041",
+    "3260",
+    "7781"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y - 45 = 30 tenglamani yeching.",
+   "variantlar": [
+    "y = 80",
+    "y = 75",
+    "y = 15",
+    "y = 70"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x + 150 = 300 va y - 50 = 100 tenglamalarning ildizlarining yig'indisini toping.",
+   "variantlar": [
+    "400",
+    "350",
+    "450",
+    "300"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kamayuvchi 80, ayirma 25. Noma'lum ayiriluvchini toping.",
+   "variantlar": [
+    "65",
+    "55",
+    "45",
+    "105"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ayiriluvchi 30, ayirma 40. Noma'lum kamayuvchini toping.",
+   "variantlar": [
+    "60",
+    "80",
+    "70",
+    "75"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yig'indi 150, biri qo'shiluvchi 60. Ikkinchi qo'shiluvchini toping.",
+   "variantlar": [
+    "100",
+    "110",
+    "90",
+    "210"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x - 30 = 45 va 80 - y = 20 tenglamalarning ildizlarining ayirmasini toping.",
+   "variantlar": [
+    "5",
+    "20",
+    "15",
+    "10"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3260 + 4521 = 7781 munosabatidan foydalanib, x - 3260 = 4521 tenglamani yeching.",
+   "variantlar": [
+    "3260",
+    "7781",
+    "4521",
+    "8041"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "5613 - 2123 = 3490 munosabatidan foydalanib, z + 2123 = 5613 tenglamani yeching.",
+   "variantlar": [
+    "5613",
+    "7736",
+    "3490",
+    "2123"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Birinchi tenglamadan x = 28 topildi. Ikkinchi tenglamada y = x + 12. y ning qiymati nechaga teng?",
+   "variantlar": [
+    "16",
+    "42",
+    "35",
+    "40"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita sonning yig'indisi 200. Birinchi son 75. Ikkinchi sonni topish uchun qaysi tenglama tuzish kerak?",
+   "variantlar": [
+    "200 - x = 75",
+    "x + 200 = 75",
+    "75 + x = 200",
+    "x - 75 = 200"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "500 - y = 200 tenglamani yechib, topilgan sondan 100 ko'p sonni toping.",
+   "variantlar": [
+    "400",
+    "350",
+    "250",
+    "300"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "sinf": "4-sinf",
+ "kitob": "4-sinf 4-Sinf Texnologiya",
+ "mavzu": "QORBOBO USTAXONASIDA ARCHA BEZAGINI YASASH",
+ "savollar": [
+  {
+   "savol": "Archa bezagini nima uchun yasash kerak?",
+   "variantlar": [
+    "O'yin-kulgi o'ynash uchun",
+    "O'zingiz yasagan o'yinchoq eng yaxshi bezak hisoblanadi",
+    "Paymi to'yida o'ynash uchun",
+    "Qog'ozni tejash uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'yinchoq yasash uchun eng asosiy material qaysi?",
+   "variantlar": [
+    "Plastmas",
+    "Rangli qog'oz",
+    "Metall",
+    "Yog'i"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'yinchoq yasash jarayonining birinchi qadami qaysi?",
+   "variantlar": [
+    "Tasmaları buklash",
+    "Rangli qog'ozdan uzunchoq tasmalar qirqish",
+    "Yelimlash",
+    "Stepler bilan biriktirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tasmaları buklashdan keyin qanday shakl hosil bo'ladi?",
+   "variantlar": [
+    "To'rtburchak",
+    "Uchburchak",
+    "Kitobcha",
+    "Doira"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'yinchoqning qismlarini biriktirish uchun nima ishlatiladi?",
+   "variantlar": [
+    "Stepler",
+    "Banda",
+    "Sim",
+    "Rezina"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'yinchoq tayyorlashda necha qadam kerak?",
+   "variantlar": [
+    "Yer qadam",
+    "Uch qadam",
+    "To'rt qadam",
+    "Besh qadam"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Birinchi varag'i qanday biriktirish kerak?",
+   "variantlar": [
+    "Ikkiga buklash va yelimlash",
+    "Stepler bilan",
+    "Faqat yelimlab",
+    "Qisqab qirqib"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Stepler nima uchun ishlatiladi?",
+   "variantlar": [
+    "Tasmaların o'rtasini biriktirish uchun",
+    "Tasmaları qisqa qilish uchun",
+    "Yelimlashni tez qilish uchun",
+    "Rangli qog'ozni saqlab qolish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Archa bezatishda o'yinchoq qanday bezak bo'ladi?",
+   "variantlar": [
+    "O'zingiz yasagan o'yinchoq eng yaxshi bezak",
+    "Samarali bo'lmagan bezak",
+    "Eng oddiy bezak",
+    "Vaqtinchalik bezak"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rangli qog'oz tasmalarini qanday qirqib olish kerak?",
+   "variantlar": [
+    "Dumaloq",
+    "Burchakli",
+    "Qisqa-qisqa",
+    "Uzunchoq"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tasmaları birga to'plashdan keyin nima qilish kerak?",
+   "variantlar": [
+    "Faqat yelimlash",
+    "Varaqlarni kesib tashlash",
+    "Faqat stepler bilan biriktirish",
+    "Ikkiga buklash va kitobcha shakli hosil qilish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'yinchoq yasamaning to'g'ri ketma-ketligi qaysi?",
+   "variantlar": [
+    "To'plash → qirqish → buklash → stepler → yelim",
+    "Buklash → qirqish → yelim → stepler → to'plash",
+    "Qirqish → to'plash → buklash → stepler → yelim",
+    "Qirqish → buklash → stepler → yelim → to'plash"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Stepler bilan biriktirish qaysi joyda amalga oshiriladi?",
+   "variantlar": [
+    "Tasmaların o'rta joyida",
+    "Varaqlarning oxirida",
+    "Stepler barcha yerga qo'yiladi",
+    "Kitobchaning birinchi varag'ining qirrasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Birinchi varag'i yelimlashdan keyin qolgan varaqlar bilan nima qilmoq kerak?",
+   "variantlar": [
+    "Faqat kesib tashlash",
+    "Birinchi varag' kabi ikkiga buklash va yelimlab chiqish",
+    "Stepler bilan faqat biriktirish",
+    "Hech nima qilmaydi, tayyor bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yelimlashning asosiy maqsadi nima?",
+   "variantlar": [
+    "Stepler o'rniga foydalaniladi",
+    "Tasmaları kesish",
+    "Varaqlarni bir-biriga biriktirish va qo'shtirish",
+    "Kitobchani rang berish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi qadamdan keyin kitobchaning birinchi varag'ini ikkiga buklash kerak?",
+   "variantlar": [
+    "Tasmaları to'plab stepler bilan biriktirgandan so'ng",
+    "Oxirgi qadamda",
+    "Tasmaları qirqgandan so'ng",
+    "Yelimlashdan oldin"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'yinchoq tayyorlashda stepler va yelim qanday fark qiladi?",
+   "variantlar": [
+    "Ular bir xil ishlaydi",
+    "Stepler o'rtasini biriktiradi, yelim barcha joyni qo'shtiradi",
+    "Yelim o'rtasini biriktiradi, stepler barcha joyni qo'shtiradi",
+    "Faqat stepler muhim, yelim kerak emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Birinchi varag'ini alohida nima bilan yelimlash kerak?",
+   "variantlar": [
+    "Sim bilan",
+    "Stepler bilan",
+    "Rezina bilan",
+    "O'yinchoqni yaxshi qo'shtirish uchun yelim bilan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matndagi o'yinchoqning birinchi va oxirgi qadam qaysisi?",
+   "variantlar": [
+    "Birinchi: buklash, oxirgi: qirqish",
+    "Birinchi: tasma qirqish, oxirgi: yelimlab chiqish",
+    "Birinchi: stepler, oxirgi: buklash",
+    "Birinchi: yelim, oxirgi: qirqish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun tasmalar ikkiga buklangandan keyin kitobcha shakli hosil bo'ladi?",
+   "variantlar": [
+    "Stepler shu shakni yaratadi",
+    "Qog'oz o'zidan kitobcha shaklida bo'ladi",
+    "Yelimlash natijasida bu shakl hosil bo'ladi",
+    "Buklangandan keyin varaqlar qatlam-qatlam bo'lib ketadi va kitobcha ko'rinishiga keladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'yinchoq yasamaning to'liq jarayoni qanday ketma-ketlikda o'tadi?",
+   "variantlar": [
+    "Buklash → qirqish → stepler → yelim → to'plash",
+    "To'plash → qirqish → buklash → stepler → yelim",
+    "Qirqish → buklash → stepler → yelim → to'plash",
+    "Qirqish → to'plash → buklash → stepler → yelim"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Stepler qaysi tartibiy qadam raqamida ishlatiladi?",
+   "variantlar": [
+    "Ikkinchi qadamda",
+    "Beshinchi qadamda",
+    "Uchinchi qadamda",
+    "Birinchi qadamda"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun 'qolgan varaqlarni ham shu tarzda yelimlab chiqish' kerak?",
+   "variantlar": [
+    "Matni toza qilish uchun",
+    "Kitobchaning barcha varaqlarini qo'shtirish va mustahkamlik uchun",
+    "Faqat rang berish uchun",
+    "Waqt ketishi uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'yinchoq yasashda qaysi material eng ahamiyatli rol o'ynaydi?",
+   "variantlar": [
+    "Rezina",
+    "Stepler",
+    "Yelim",
+    "Rangli qog'oz"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bezoq o'yinchoqini yasashda qanday praktik ko'nikma shakladi?",
+   "variantlar": [
+    "Qog'ozni kesish, buklash, stepler va yelimlash ko'nikmalari",
+    "Faqat kitoblarni o'qish",
+    "Til o'rganish",
+    "Rasm chizish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'yinchoq tayyorlashda birinchi uch qadam ketma-ketligi qaysi?",
+   "variantlar": [
+    "Buklash → qirqish → to'plash",
+    "Qirqish → to'plash → buklash",
+    "Stepler → buklash → qirqish",
+    "Qirqish → stepler → buklash"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi o'yinchoq tayyorlashning muhim omillari qaysisi?",
+   "variantlar": [
+    "Faqat rang tanlash",
+    "Faqat buklash",
+    "Qirqish, buklash, stepler va yelimlash jarayonlari",
+    "Faqat yelimlash"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun archa bezagini yasash maktabda foydali bo'ladi?",
+   "variantlar": [
+    "Vaqt o'tkazish uchun",
+    "Faqat o'yin-kulgi uchun",
+    "Rasm chizish o'rgatish uchun",
+    "O'quvchilarni ijodiy faoliyatga undaydi, qollarini mahort qiladi, yangi yil bayrami to'yini yanada mavsumiy qiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Archa bezatishda o'yinchoqning eng muhim xususiyati nima?",
+   "variantlar": [
+    "O'zingiz yasagan o'yinchoq eng yaxshi bezak hisoblanadi",
+    "Juda qimmat",
+    "U zaifi material dan",
+    "Erkak bolalar uchun mos"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

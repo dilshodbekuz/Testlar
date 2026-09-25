@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Informatika",
+ "mavzu": "4-dars. Axborotni kodlash. Axborot o'lchov birliklari",
+ "savollar": [
+  {
+   "savol": "Kodlash nima?",
+   "variantlar": [
+    "Kompyuterda axborotni saqlab turish",
+    "Harflarni raqamlarga almashtirib yuborish",
+    "Maxsus belgilar yordamida axborotni bir ko'rinishdan boshqa ko'rinishga o'tkazish",
+    "Axborotni yozib turish jarayoni"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dekodlash nima?",
+   "variantlar": [
+    "Yangi kod yaratish",
+    "Belgilarni o'zgartirib yuborish",
+    "Axborotni maxfiy qilish",
+    "Kodlangan axborotning mazmunini qayta tiklash"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kod nima?",
+   "variantlar": [
+    "Raqamlat ketma-ketligi",
+    "Qadimgi shifrlash usuli",
+    "Axborotni ifodalashda shartli belgilar tizimi",
+    "Kompyuter programmasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kodlashning necha ta asosiy usuli mavjud?",
+   "variantlar": [
+    "5 ta",
+    "3 ta",
+    "2 ta",
+    "4 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Morze kodida harflarni ifodalash uchun qanday belgilar ishlatiladi?",
+   "variantlar": [
+    "Faqat nuqta",
+    "Faqat tire",
+    "Raqamlar va belgilar",
+    "Nuqta va tire"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 bayt necha bitga teng?",
+   "variantlar": [
+    "4 bit",
+    "16 bit",
+    "32 bit",
+    "8 bit"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bit nima?",
+   "variantlar": [
+    "Axborot o'lchov birligining eng katta qiymati",
+    "Belgilar kombinatsiyasi",
+    "Axborot o'lchov birligining eng kichik qiymati",
+    "Kompyuter xotirasidagi kattalik"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shifrlash nima uchun amalga oshiriladi?",
+   "variantlar": [
+    "Axborotning maxfiyligini saqlash",
+    "Axborotni kichkintay qilish",
+    "Axborotni o'zgartirib yuborish",
+    "Axborotni tezlashtirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Deshifrlash deganda nima tushuniladi?",
+   "variantlar": [
+    "Shifrlangan axborotni dastlabki holatiga keltirish",
+    "Shifrlashni to'xtatish",
+    "Shifrlangan axborotni kodlash",
+    "Yangi shifr yaratish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ssital nima?",
+   "variantlar": [
+    "Sezar shifridir boshlanishi",
+    "Sharq shifrlash usuli",
+    "Qadimgi shifrlash tizimi",
+    "Morze kodining eski nomi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "G harfi 1 baytga teng bo'lsa, \"GO\" so'zi necha bitga teng bo'ladi?",
+   "variantlar": [
+    "24 bit",
+    "16 bit",
+    "32 bit",
+    "8 bit"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2 ta belgi (0 va 1) orqali necha ta har xil kod kombinatsiyasi hosil qilish mumkin?",
+   "variantlar": [
+    "2 ta",
+    "5 ta",
+    "3 ta",
+    "4 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3 ta bitdan foydalanib necha ta turli kombinatsiya hosil qilish mumkin?",
+   "variantlar": [
+    "10 ta",
+    "4 ta",
+    "6 ta",
+    "8 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 Kb (kilobayt) necha baytga teng?",
+   "variantlar": [
+    "1000 bayt",
+    "512 bayt",
+    "1024 bayt",
+    "2048 bayt"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 Mb (megabayt) necha Kb ga teng?",
+   "variantlar": [
+    "512 Kb",
+    "1024 Kb",
+    "2048 Kb",
+    "1000 Kb"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1-jadvaldan foydalanib, 01 08 09 raqamlarni harflarga o'zgartiring. Qanday harflar kelib chiqadi?",
+   "variantlar": [
+    "AIJ",
+    "AIK",
+    "ABD",
+    "AHI"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "8 razryadli kodlashda necha ta turli kombinatsiya hosil qilish mumkin?",
+   "variantlar": [
+    "256 ta",
+    "128 ta",
+    "1024 ta",
+    "512 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi o'lchov birliklarini kattalik bo'yicha tartiblang: Tb, Mb, Kb, Gb, bayt",
+   "variantlar": [
+    "Kb < bayt < Mb < Gb < Tb",
+    "Tb < Gb < Mb < Kb < bayt",
+    "bayt < Kb < Mb < Gb < Tb",
+    "bayt < Mb < Kb < Gb < Tb"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "5 Kb necha baytga teng?",
+   "variantlar": [
+    "5000 bayt",
+    "5120 bayt",
+    "6000 bayt",
+    "5024 bayt"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar A=01, B=02, D=03 bo'lsa, ABD so'zining kodi qanday bo'ladi?",
+   "variantlar": [
+    "030201",
+    "020301",
+    "010302",
+    "010203"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"KITOB\" so'zining axborot hajmi necha baytga teng bo'ladi?",
+   "variantlar": [
+    "6 bayt",
+    "5 bayt",
+    "3 bayt",
+    "4 bayt"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Darslik 40 sahifadan iborat bo'lib, har bir sahifada 25 ta satr, har bir satrda 50 ta belgi mavjud bo'lsa, darslikning axborot hajmi necha Kb ga teng?",
+   "variantlar": [
+    "50 Kb",
+    "58 Kb",
+    "60 Kb",
+    "48.8 Kb"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Maxfiy kod 3 ta harfdan tashkil topgan bo'lib, har bir o'rinda A yoki B harfi qo'llaniladi. Nechta turli kod hosil bo'ladi?",
+   "variantlar": [
+    "4 ta",
+    "6 ta",
+    "9 ta",
+    "8 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1-jadvaldan foydalanib, 21 01 19 01 13 raqamlarini harflarga o'zgartirsangiz, qanday so'z hosil bo'ladi?",
+   "variantlar": [
+    "VAVAN",
+    "VATAN",
+    "XATAN",
+    "VANAN"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"INFORMATIKA ASOSI\" iborasidagi axborot hajmi (bo'sh joylarni hisobga olib) necha baytga teng bo'ladi?",
+   "variantlar": [
+    "19 bayt",
+    "17 bayt",
+    "18 bayt",
+    "16 bayt"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Oddiy katakli daftar 6 varaqdan iborat bo'lib (12 sahifa), har bir sahifada kataklar soni eniga 16 ta, bo'yiga 20 ta bo'lsa, daftardagi umumiy kataklar sonini hisoblang.",
+   "variantlar": [
+    "4000 ta",
+    "3200 ta",
+    "3840 ta",
+    "2880 ta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qayiqda suzish musobaqasida har bir qayiqda 2 tadan yelkan bo'lsa va faqat 2 xil rang (qizil va ko'k) bo'yoq berilgan bo'lsa, har bir jamoa yelkanlarini necha kombinatsiyada bo'yashi mumkin?",
+   "variantlar": [
+    "3 ta",
+    "4 ta",
+    "5 ta",
+    "2 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "512 Mb necha Gb ga teng?",
+   "variantlar": [
+    "1 Gb",
+    "0.25 Gb",
+    "2 Gb",
+    "0.5 Gb"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar shifrlangan xabar \"01001000 01010101 01001011\" bo'lsa va har bir 8 razryadli kod bitta belgi bo'lsa, deshifrlangan xabarning axborot hajmi necha baytga teng bo'ladi?",
+   "variantlar": [
+    "8 bayt",
+    "32 bayt",
+    "16 bayt",
+    "24 bayt"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar 16 ta turli belgi kodlanishi kerak bo'lsa, eng kam necha ta bitni ishlatish kerak?",
+   "variantlar": [
+    "16 bit",
+    "2 bit",
+    "8 bit",
+    "4 bit"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

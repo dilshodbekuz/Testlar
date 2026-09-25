@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Informatika",
+ "mavzu": "11-dars. Fayl va papka tushunchasi",
+ "savollar": [
+  {
+   "savol": "Fayl nima?",
+   "variantlar": [
+    "Kompyuterning asosiy xotirasi",
+    "Kompyuterning biror tashqi xotirasida umumiy bir nom bilan saqlangan har qanday ma'lumot",
+    "Kompyuterdagi barcha dasturlar",
+    "Kompyuterni boshqaruvchi dastur"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Papka (katalog) nima?",
+   "variantlar": [
+    "Dasturni ishga tushirish buyrug'i",
+    "Faqat rasmlarni saqlash joyı",
+    "Bir necha papka va ostki kataloglarning umumiy nomi",
+    "Kompyuterni o'chirish vositasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Fayl nomining nechta qismdan iborat?",
+   "variantlar": [
+    "Uchta qismdan",
+    "To'rtta qismdan",
+    "Ikkita qismdan",
+    "Bir qismdan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yorliq nima?",
+   "variantlar": [
+    "Faylni nusxalash tugmasi",
+    "Dastur faylini ochish xususiyatiga ega rasmli obyekt yoki piktogramma",
+    "Kompyuterning xotirasini tozalash buyrug'i",
+    "Faylni o'chirish vositasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tashxi xotiralarga qaysi qurilmalar kiradi?",
+   "variantlar": [
+    "Faqat memory-card",
+    "Faqat qattiq disklar",
+    "Faqat CD-disklar",
+    "Yumshoq disklar, qattiq disk, Flesh-disk, CD-disk, DVD-disklar, memory-card va flesh-xotiralar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Fayl atributlaridan qaysi biri mavjud emas?",
+   "variantlar": [
+    "Tizimli",
+    "O'lchami",
+    "Faqat o'qish uchun",
+    "Arxivlangan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Fayl nomida qaysi belgi ishlatilmaydi?",
+   "variantlar": [
+    "Raqam",
+    "Nuqta",
+    "Lotin harfi",
+    "Yulduzcha (*)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Fayl nomining maksimal uzunligi nechta belgiden iborat?",
+   "variantlar": [
+    "255 ta",
+    "155 ta",
+    "200 ta",
+    "100 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Fayl kengaytmasi nechta belgidan iborat bo'lishi mumkin?",
+   "variantlar": [
+    "1-2 ta",
+    "3-5 ta",
+    "10 ta",
+    "6-8 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Katalog turlaridan qaysi biri mavjud emas?",
+   "variantlar": [
+    "Ona katalog",
+    "Quyi katalog",
+    "Bosh katalog",
+    "Qo'shni katalog"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Faylni ochish uchun sichqonchaning qaysi tugmachasi bosiladi?",
+   "variantlar": [
+    "Chap tugma",
+    "O'ng tugma",
+    "O'rtadagi tugma",
+    "Ikkala tugma"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Papka hosil qilish uchun kontekst menyusida qaysi buyrug'i tanlanadi?",
+   "variantlar": [
+    "Переименовать",
+    "Создать → Папку",
+    "Открыть",
+    "Удалить"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Faylni o'chirish uchun qanday amal bajariladi?",
+   "variantlar": [
+    "O'ng tugma bosiladi va Удалить tanlanadi",
+    "O'ng tugma bosiladi va Открыть tanlanadi",
+    "Chap tugma bosiladi va Копировать tanlanadi",
+    "O'ng tugma bosiladi va Отправить tanlanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Referat.docx\" faylida \"docx\" nima?",
+   "variantlar": [
+    "Papkaning nomi",
+    "Faylning kengaytmasi",
+    "Dasturning nomi",
+    "Faylning nomi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Fayl parametrlari nima?",
+   "variantlar": [
+    "Dasturning nomi",
+    "O'lchami, yaratilgan sanasi, oxirgi o'zgartirilgan vaqti",
+    "Faylni ochish yo'li",
+    "Faylni boshqarish buyrug'lari"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Faylni nusxalash uchun qanday buyrug'i tanlanadi?",
+   "variantlar": [
+    "Открыть",
+    "Удалить",
+    "Копировать",
+    "Отправить"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Fayl nomida probel (bo'sh joy) o'rniga nima ishlatish tavsiya etiladi?",
+   "variantlar": [
+    "Nuqta (.)",
+    "Chiziq (-)",
+    "Yulduzcha (*)",
+    "Tag chiziq (_)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Faylni qayta nomlash uchun kontekst menyusida qaysi buyrug'i tanlanadi?",
+   "variantlar": [
+    "Переименовать",
+    "Копировать",
+    "Удалить",
+    "Открыть"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Faylni uzatish uchun qanday buyrug'i ishlatiladi?",
+   "variantlar": [
+    "Удалить",
+    "Копировать",
+    "Отправить",
+    "Открыть"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kursor bilan faylni belgilab, sichqonchaning tugmachasi bosilgach, qanday oynachada buyrug'lar paydo bo'ladi?",
+   "variantlar": [
+    "Kontekst menyusida",
+    "Tizim sozlamalarida",
+    "Asosiy menyuda",
+    "Fayl parametrlarida"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun ma'lumotlarni papkalarga bo'lib saqlash zarur?",
+   "variantlar": [
+    "Fayllarni tartib bilan saqlash va chalkashtirib yubormaslik uchun",
+    "Kompyuterning xotirasi kam sarflanish uchun",
+    "Kompyuterni tezroq ishlatish uchun",
+    "Faqat yangi fayllarni yaratish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Fayl atributi va parametrlarining farqi qanday?",
+   "variantlar": [
+    "Hech qanday farqi yo'q",
+    "Atributlar vaqtga bog'liq, parametrlar o'zgarmas",
+    "Parametrlar faylning xususiyatlari, atributlar esa uning o'zgarishi",
+    "Atributlar faylning xususiyatlari, parametrlar esa uning o'lchamlari"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"C:\\\\Windows\\\\System32\\\\calc.exe\" yo'lida nechta katalog mavjud?",
+   "variantlar": [
+    "Ikkita",
+    "To'rtta",
+    "Uchta",
+    "Bitta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ish stolida joylashgan \"My documents\" papkasi nima?",
+   "variantlar": [
+    "Tizimni boshqaruvchi dastur",
+    "Katalogga misol bo'lib, saqlangan papka va hujjatlar ro'yxatini o'z ichiga oladi",
+    "Dasturlarni ishga tushirish buyrug'i",
+    "Faqat rasmlarni saqlash joyı"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kompyuterdagi ma'lumotlar nima uchun kutubxonadagi kitoblar kabi tartiblangan holda saqlanadi?",
+   "variantlar": [
+    "Kompyuterni bezash uchun",
+    "Tez qidirib topish va o'rganish uchun",
+    "Hech qanday ma'no yo'q",
+    "Faqat kompyuter tizimi uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Yashirilgan\" atributi nima uchun ishlatiladi?",
+   "variantlar": [
+    "Faylni kompyuterga qo'shish uchun",
+    "Papkani boshqarish uchun",
+    "Muhim fayllarni foydalanuvchining ko'zidan yashirish uchun",
+    "Faylni o'chirish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tashxi xotiralarga qaysi qurilma kiradi?",
+   "variantlar": [
+    "Faqat protsessor xotirasi",
+    "Faqat RAM xotirasi",
+    "Yumshoq disklar, qattiq disk, Flesh-disk, CD-disk, DVD-disklar, memory-card, flesh-xotiralar",
+    "Faqat qattiq disklar"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dastur va fayl kengaytmasi o'rtasida qanday bog'lanish mavjud?",
+   "variantlar": [
+    "Bog'lanish yo'q",
+    "Har bir dasturning o'z kengaytmasi (formati) mavjud va dastur faylni o'sha formatda avtomatik saqlab qo'yadi",
+    "Faylning kengaytmasi foydalanuvchi tomonidan belgilanadi",
+    "Kengaytma faqat nomi bo'lib, formati bilan bog'liq emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Paint.bmp\", \"Bloknotning.txt\" va \"Fotoramzalar.jpg\" fayllarida qaysi dastur faylarning kengaytmalari noto'g'ri ko'rsatilgan?",
+   "variantlar": [
+    "Fotoramzalar.jpg",
+    "Bloknotning.txt",
+    "Barcha to'g'ri",
+    "Paint.bmp"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kataloglar ierarxiyasida ona katalog deb qaysi katalog nomlanadi?",
+   "variantlar": [
+    "Quyida joylashgan katalog",
+    "Eng yuqori katalog",
+    "Yuqori darajadagi katalog yoki papka",
+    "Eng quyi katalog"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Tabiatshunoslik",
+ "mavzu": "Foydali qazilmalar qanday hosil bo'ladi?",
+ "savollar": [
+  {
+   "savol": "Ko'mir qaysi ikki turdagi bo'ladi?",
+   "variantlar": [
+    "Rang va rangsiz",
+    "Qattiq va yumshoq",
+    "Toshko'mir va qo'ng'ir ko'mir",
+    "Suyuq va gaz"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Neft qaysi holatda bo'ladi?",
+   "variantlar": [
+    "Plastik",
+    "Qattiq",
+    "Suyuq",
+    "Gaz"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tabiiy gaz rangga ega bo'ladimi?",
+   "variantlar": [
+    "Ha, qora rang",
+    "Ha, oq rang",
+    "Ha, qizil rang",
+    "Yo'q, rangsiz"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Temirdan qaysi buyumlar tayyorlanadi?",
+   "variantlar": [
+    "Stol va stullar",
+    "Kitoblar va qalamlar",
+    "Pichoq, qaychi, tesha",
+    "Shaffalon va shumshuq"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'rmonlarning chirigan daraxtlaridan qanday modda hosil bo'lgan?",
+   "variantlar": [
+    "Plastmassa",
+    "Neft",
+    "Osh tuz",
+    "Ko'mir"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Osh tuzi qayerdan olinadi?",
+   "variantlar": [
+    "Tog'lardan",
+    "Dengiz va ko'llardan",
+    "Atmosferadan",
+    "Qorida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vulqon nima?",
+   "variantlar": [
+    "Suv manba",
+    "Yer ostidan otilib chiqqan qaynoq suyuq modda",
+    "Toshli tog'",
+    "Qor tepasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Temirtosh qaysi joylardan qazib olinadi?",
+   "variantlar": [
+    "Havo qatlamlarida",
+    "Faqat yer yuzasida",
+    "Konlarda",
+    "Faqat dengizda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shaxta nima uchun qazilib yer ostida bo'ladi?",
+   "variantlar": [
+    "Ko'mirni qazib olish uchun",
+    "Suv saqlab turish uchun",
+    "Odamlarni saxlab qolish uchun",
+    "Gaz saqlab turish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektrostansiyada ko'mir yoqilganda nima hosil bo'ladi?",
+   "variantlar": [
+    "Suv",
+    "Issiqlik",
+    "Rang",
+    "Tuz"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'mir qadim zamanada qanday hosil bo'lgan?",
+   "variantlar": [
+    "Tog'lardan ishlatlb",
+    "Tengizdan qurib",
+    "Qor ichida saqlanib",
+    "O'rmonlardagi chirigan daraxtlardan million yillar davomida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Neft hosil bo'lishida suv hayvonlarining roli nima edi?",
+   "variantlar": [
+    "Faqat rang berish",
+    "Ularning qoldiqlaridan chirindi qatlam hosil bo'ldi",
+    "Yo'q edi",
+    "Ularni yangilash uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ko'mir yoqilganda nima sifatida foydalaniladi?",
+   "variantlar": [
+    "Rang materyali",
+    "Havo shumlash",
+    "Issiqlik manba",
+    "Suv tozalash"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tabiiy gaz neft bilan qanday bog'langan?",
+   "variantlar": [
+    "Farqi yo'q",
+    "Bog'lanishi yo'q",
+    "Neft tabiiy gazdan qilinadi",
+    "Tabiiy gaz neft bor joyda bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Neft qazib chiqarish uchun qanday qurilmalar kerak?",
+   "variantlar": [
+    "Faqat teshlar",
+    "Faqat qo'l kuchi",
+    "Taksi va mashinalar",
+    "Qudiq, quvur va nasoslar"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ko'mir yoqilganda turbinani aylantirish uchun qanday ishlatiladi?",
+   "variantlar": [
+    "Suv to'g'ridan-to'g'ri",
+    "Issiqlik bevosita",
+    "Suv bug'",
+    "Gaz oqimi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tabiiy gazning alangasi qanday rangli bo'ladi?",
+   "variantlar": [
+    "Qizil",
+    "Sariq",
+    "Zangori",
+    "Qora"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Neft va ko'mirdan qanday mahsulotlar tayyorlanadi?",
+   "variantlar": [
+    "Faqat dori",
+    "Yoqilg'i, bo'yoq, yelim, plastmassa, dori",
+    "Faqat bo'yoq",
+    "Faqat yoqilg'i"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'zbekistonning qaysi viloyatlarida ko'mir konlari bor?",
+   "variantlar": [
+    "Surxondarya va Toshkent",
+    "Faqat Xorazm",
+    "Faqat Toshkent",
+    "Samarqand va Buxoro"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tabiiy gaz yer osti qatlamlarida qanday yig'iladi?",
+   "variantlar": [
+    "Suv shaklida",
+    "Tuz shaklida",
+    "Qattiq shaklda",
+    "Bug'lanib, yer ostining yoriqlarida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ko'mir va neft hosil bo'lishning asosiy farqi nimada?",
+   "variantlar": [
+    "Ko'mir tog'dan, neft qoridan",
+    "Ko'mir o'rmonlardan, neft dengiz va ko'llardan hosil bo'ldi",
+    "Farqi yo'q",
+    "Hamma bir vaqtda hosil bo'ldi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Vulqon jarayonida metallar qanday qotishmalar hosil qiladi?",
+   "variantlar": [
+    "Yer ostidan chiqib tosh va qumlar bilan aralashib qotishmalarni hosil qiladi",
+    "Toza holda qoladi",
+    "Eritib ketadi",
+    "Suv ichiga tusib yo'q bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tabiiy gaz hosil bo'lishining to'liq jarayonini aytib bering?",
+   "variantlar": [
+    "Og'ir bo'lib tushadi",
+    "Qorida qondib turadi",
+    "Neft suyuq holatdan bug'ga aylanib, yer ostining yoriqlarida yig'iladi",
+    "Shunchaki chiqadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektr tokining hosil bo'lish jarayonida nima eng muhim?",
+   "variantlar": [
+    "Gaz bevosita",
+    "Ko'mir yoqilib, issiqlik orqali suv bug'ga aylanib, turbinani aylantirishdi",
+    "Suvni faqat sichqoq berish",
+    "Neft"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Osh tuzining konlari qanday vujudga kelgan?",
+   "variantlar": [
+    "Qorida bo'shashib qoldi",
+    "Dengiz suvlari million yillar davomida bug'lanib, tubida yig'ilib qoldi",
+    "Tor shaklida olinib, to'plab qo'yildi",
+    "Dastag'ina hosil bo'ldi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Foydali qazilmalarning hosil bo'lishida vaqtning ahamiyati qanday?",
+   "variantlar": [
+    "Bir yilni ichida",
+    "Million yillar davomida turli jarayonlar bo'lib hosil bo'ladi",
+    "Bir kunida hosil bo'ladi",
+    "Vaqtning roli yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Temirning turlari va ularning joylashuvi qanday?",
+   "variantlar": [
+    "Faqat bir turi bar va yer sirtida",
+    "Toshko'mir, qo'ng'ir ko'mir va temir turlari konlarda to'shab turadi",
+    "Hammasi dengizda",
+    "Atmosferada yig'ilgan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Suv bug'lanib yer ostining yariqlarida yig'ilib nima hosil bo'ladi?",
+   "variantlar": [
+    "Tabiiy gaz",
+    "Osh tuz",
+    "Ko'mir",
+    "Metall"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'zbekistonning tabiiy gaz konlarida nft ham mavjudligining sababi nima?",
+   "variantlar": [
+    "Tasadif",
+    "Insan o'rniga qo'yib ketdi",
+    "Ixtifoli yo'q",
+    "Odatda neft bor joyda tabiiy gaz ham bo'ladi, ikkalasi bir xil manba dari"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

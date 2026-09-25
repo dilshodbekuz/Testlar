@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Matematika (1-qism)",
+ "mavzu": "Sonli va harfli ifodalalar",
+ "savollar": [
+  {
+   "savol": "Sonli ifoda deb nimaga aytiladi?",
+   "variantlar": [
+    "Harflardan tuzilgan ifoda",
+    "Sonlar, arifmetik amallar va qavslardan tuzilgan ifoda",
+    "Faqat qavslardan tuzilgan ifoda",
+    "Faqat sonlardan tuzilgan ifoda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Harfli ifoda deb qanday ifodaga aytiladi?",
+   "variantlar": [
+    "Faqat qavslardan tuzilgan ifoda",
+    "Faqat harflardan tuzilgan ifoda",
+    "Faqat sonlardan tuzilgan ifoda",
+    "Sonlar, arifmetik amallar va qavslar bilan bir qatorda harflar ham ishtirok etgan ifoda"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Harfli ifodaning qiymati deb nimaga aytiladi?",
+   "variantlar": [
+    "Harfli ifodadagi harf o'rniga son qo'yib hisoblanganda chiqqan natija",
+    "Harfning nomi",
+    "Arifmetik amalning nomi",
+    "Harfli ifodaning shakli"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qo'shishning o'rin aimashtirish qonuni qanday yoziladi?",
+   "variantlar": [
+    "a + b = b + a",
+    "a + 0 = a",
+    "a + (b + c) = (a + b) + c",
+    "a - b = b - a"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qo'shishning guruhiash qonuni qanday yoziladi?",
+   "variantlar": [
+    "a + (b + c) = (a + b) + c",
+    "a + 0 = 0",
+    "a + b = b + a",
+    "a + 0 = a"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qo'shishda nol bilan qanday xossasi mavjud?",
+   "variantlar": [
+    "a + 0 = a",
+    "a + 0 = b",
+    "a + 0 = 0",
+    "0 + a = b"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "2 • 4 + 2 • 6 ifoda qanday ifoda?",
+   "variantlar": [
+    "Harfli ifoda",
+    "O'zgaruvchi bilan ifoda",
+    "Sonli ifoda",
+    "Harflar bilan yozilgan ifoda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a • 40 - a • b ifoda qanday ifoda?",
+   "variantlar": [
+    "Qavsli ifoda",
+    "Sonli ifoda",
+    "Faqat son bilan yozilgan",
+    "Harfli ifoda"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sonli ifoda 2 • 4 + 2 • 6 ning qiymati qancha?",
+   "variantlar": [
+    "15",
+    "20",
+    "18",
+    "22"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "13 • 5 + 98 sonli ifoda ning qiymati qancha?",
+   "variantlar": [
+    "163",
+    "161",
+    "160",
+    "165"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "128 - b harfli ifodaning qiymati b = 31 bo'lganda qancha?",
+   "variantlar": [
+    "95",
+    "98",
+    "97",
+    "99"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "35 + x harfli ifodaning qiymati x = 10 bo'lganda qancha?",
+   "variantlar": [
+    "35",
+    "50",
+    "40",
+    "45"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "23 • 4 + 121 : 11 sonli ifoda ning qiymati qancha?",
+   "variantlar": [
+    "103",
+    "104",
+    "106",
+    "105"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tomonlari 4 cm va 6 cm bo'lgan to'g'ri to'rtburchakning perimetri qancha?",
+   "variantlar": [
+    "24 cm",
+    "20 cm",
+    "18 cm",
+    "22 cm"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "b - 18 harfli ifodaning qiymati b = 39 bo'lganda qancha?",
+   "variantlar": [
+    "22",
+    "21",
+    "20",
+    "19"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "125 - x harfli ifodaning qiymati x = 110 bo'lganda qancha?",
+   "variantlar": [
+    "20",
+    "12",
+    "15",
+    "10"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "5 • 23 + 6 • 41 sonli ifoda ning qiymati qancha?",
+   "variantlar": [
+    "361",
+    "365",
+    "350",
+    "355"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "81 : 9 + 12 • 5 sonli ifoda ning qiymati qancha?",
+   "variantlar": [
+    "60",
+    "62",
+    "69",
+    "61"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "127 • 2 + 145 : 5 sonli ifoda ning qiymati qancha?",
+   "variantlar": [
+    "283",
+    "285",
+    "286",
+    "284"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "28 - c harfli ifodaning qiymati c = 12 bo'lganda qancha?",
+   "variantlar": [
+    "16",
+    "14",
+    "17",
+    "15"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(128 - 12b) + (14b - 18) harfli ifodaning qiymati b = 3 bo'lganda qancha?",
+   "variantlar": [
+    "114",
+    "120",
+    "116",
+    "118"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(5a - 3) + (8a + 16) harfli ifodaning qiymati a = 1 bo'lganda qancha?",
+   "variantlar": [
+    "25",
+    "26",
+    "27",
+    "28"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(19 - 7b) + (9b - 8) harfli ifodaning qiymati b = 1 bo'lganda qancha?",
+   "variantlar": [
+    "15",
+    "13",
+    "12",
+    "14"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(128 - 12b) + (14b - 18) harfli ifodaning qiymati b = 5 bo'lganda qancha?",
+   "variantlar": [
+    "132",
+    "120",
+    "124",
+    "128"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Duradgor birinchi kuni 24 ta, ikkinchi kuni birinchi kundan 8 ta ko'p stul yasadi. Duradgor ikki kunda yasagan jami stullar soni qancha?",
+   "variantlar": [
+    "52",
+    "50",
+    "54",
+    "56"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Duradgor birinchi kuni 24 ta, ikkinchi kuni birinchi kundan 10 ta ko'p stul yasadi. Duradgor ikki kunda yasagan jami stullar soni qancha?",
+   "variantlar": [
+    "62",
+    "56",
+    "58",
+    "60"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qo'shishning o'rin aimashtirish qonuniga asosan 5 + 7 = 7 + 5 bo'lganda, qo'shishning qaysi xossasi foydalaniladi?",
+   "variantlar": [
+    "o'rin aimashtirish qonuni",
+    "ayirish qonuni",
+    "nol bilan xossasi",
+    "guruhiash qonuni"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(19 - 7b) + (9b - 8) harfli ifodaning qiymati b = 2 bo'lganda qancha?",
+   "variantlar": [
+    "14",
+    "16",
+    "13",
+    "15"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Asal x yoshda, Sobir undan 8 yosh kichik. Asalning yoshi 14 bo'lganda Sobirning yoshi qancha?",
+   "variantlar": [
+    "6",
+    "7",
+    "5",
+    "4"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Duradgor birinchi kuni 24 ta, ikkinchi kuni 24 + a ta stul yasadi. a = 12 bo'lganda ikki kuni unda yasagan jami stullar soni qancha?",
+   "variantlar": [
+    "64",
+    "62",
+    "60",
+    "58"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

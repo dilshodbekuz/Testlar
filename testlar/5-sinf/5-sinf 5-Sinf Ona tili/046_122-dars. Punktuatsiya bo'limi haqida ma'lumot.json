@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Ona tili",
+ "mavzu": "122-dars. Punktuatsiya bo'limi haqida ma'lumot",
+ "savollar": [
+  {
+   "savol": "Punktuatsiya deb nimaga aytiladi?",
+   "variantlar": [
+    "Harflarni yozish qoidalarini o'rganuvaladigan bo'lim",
+    "Tinish belgilarining yozma nutqda qo'llanish qoidalarini o'rganuvaladigan bo'lim",
+    "Ritmik va rivojni o'rganuvaladigan bo'lim",
+    "Gapning sonini hisoblash qoidalariga asoslangan bo'lim"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'zbek tilida nechta tinish belgisi mavjud?",
+   "variantlar": [
+    "10 ta",
+    "15 ta",
+    "7 ta",
+    "5 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tire va chiziqcha orasidagi farq qanday?",
+   "variantlar": [
+    "Chiziqcha tinish belgisi, tire imlo belgisidir",
+    "Kettasi ham imlo belgisidir",
+    "Tire tinish belgisi, chiziqcha imlo belgisidir",
+    "Kettasi ham tinish belgisidir"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Darak mazmunidagi gaplardan so'ng qanday belgisi qo'yiladi?",
+   "variantlar": [
+    "Vergul",
+    "Nuqta",
+    "Tire",
+    "Shuol"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Voqea-hodisa, shaxs-narsani nomlash uchun ishlatilgan qisqa gapdan so'ng qanday belgisi qo'yiladi?",
+   "variantlar": [
+    "Tire",
+    "Shuol",
+    "Vergul",
+    "Nuqta"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tartib bildiruvchi arab raqamlaridan so'ng qanday belgisi qo'yiladi?",
+   "variantlar": [
+    "Nuqta",
+    "Tire",
+    "Vergul",
+    "Shuol"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sanash ohangida aytiladigan bo'laklar orasida qanday belgisi qo'yiladi?",
+   "variantlar": [
+    "Shuol",
+    "Vergul",
+    "Nuqta",
+    "Tire"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Undov so'zlardan keyin qanday belgisi qo'yiladi?",
+   "variantlar": [
+    "Tire",
+    "Vergul",
+    "Shuol",
+    "Nuqta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "So'z takrorlansa, uning orasida qanday belgisi qo'yiladi?",
+   "variantlar": [
+    "Shuol",
+    "Tire",
+    "Vergul",
+    "Nuqta"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tinish belgilari matnda nima uchun kerak?",
+   "variantlar": [
+    "Hamma so'zlarni tanga bog'lash uchun",
+    "Faqat uzun gaplarni bo'lish uchun",
+    "Matnda ma'nodagi farqni bildirish va savodxonlik uchun",
+    "Harflarni yoqim qilish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"To'g'ri, yo'llarda yurish xavfli emas\" va \"To'g'ri yo'llarda yurish xavfli emas\" gaplarda nima farq bor?",
+   "variantlar": [
+    "Ikkinchisida to'g'ri zarf kichik harfda yozilgan",
+    "Birinchisida 'To'g'ri' murojaat-undalmasi, ikkinchisida zarfdir",
+    "Birinchisida vergul yo'tishni yo'llarga murojaat bildiradi",
+    "Ikkala gapdagi ma'no mutlaqo bir xildir"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Soliha opang qayerda o'qiydi?\" va \"Soliha, opang qayerda o'qiydi?\" gaplarda qanday farq bor?",
+   "variantlar": [
+    "Birinchisida vergul qo'yish eslatma topilgan",
+    "Ikkinchisida savol belgisi yo'q",
+    "Ikkala gapdagi ma'no bir xildir",
+    "Birinchisida Soliha opaning nomi, ikkinchisida Solihaga murojaat bildiradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "419-mashqdan qaysi gapda tire ishlatilgan?",
+   "variantlar": [
+    "Navoiyning boy fantaziyasiga shak-shubha yo'q",
+    "Navoiy 'Lison ut-tayr' dostonida usturlob haqida ma'lumot beradi",
+    "Navoiy fikricha, Vatanni tark etmoq – ranji g'urbat, alamga to'la ayriliq",
+    "Usturlob bu asar yozilgandan 100 yil keyin yaratilgan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Bobom mosh-guruch soqolli, yuzi ajinlarga to'la barvasta qariya edi\" gapida vergullar nechta?",
+   "variantlar": [
+    "3 ta",
+    "4 ta",
+    "1 ta",
+    "2 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Yashash. Bu – orzular qanotin kermoq\" qismida qanday tinish belgilari ishlatilgan?",
+   "variantlar": [
+    "Nuqta, tire, nuqta",
+    "Vergul, tire, nuqta",
+    "Shuol, tire, vergul",
+    "Nuqta, vergul, tire"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Iya, yubilyar ekansan-da, shosmay tur-chi, hozir\" gapida undov so'zlarni aniqlang.",
+   "variantlar": [
+    "'yubilyar', 'shosmay'",
+    "'Iya', 'hozir'",
+    "'Iya', 'Iya'",
+    "'ekansan-da', 'tur-chi'"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mashq 422-da \"To'ti olti kun deganda podsho saroyiga yetib kelibdi\" gapiga qaysi belgisi qo'yilishi kerak?",
+   "variantlar": [
+    "Tire",
+    "Nuqta",
+    "Vergul",
+    "Shuol"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Qiziq, yuragimda yana o'sha shirin orziqish uyg'ondi\" gapida vergul nima uchun qo'yilgan?",
+   "variantlar": [
+    "Sanash uchun",
+    "So'zlovchining o'zi bildirayotgan fikrega qo'shimcha munosabatini bildiradigan so'z uchun",
+    "Shaxsga murojaat uchun",
+    "Undov so'zdan keyin"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mashq 416-da She'rning \"Tinish belgi – bizga o'rtoq\" satriga asoslanib, tinish belgilari nima deyish mumkin?",
+   "variantlar": [
+    "Shaxsiy tanlovdir",
+    "Faqat boshlang'ich sinflarda kerak belgisi",
+    "Yozish madaniyatining asosi",
+    "Ortiqcha bo'limi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Yo'q, yo'q, yig'layotganim yo'q\" gapida vergullar nechta va ularni nima uchun qo'yilgan?",
+   "variantlar": [
+    "3 ta, sanash ohangida",
+    "1 ta, undov so'z uchun",
+    "4 ta, hamma o'rinlarda",
+    "2 ta, so'z takrorlanganida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Umarjonning, Ominaning ukasining mikrosxemali roboti bor\" va \"Umarjonning, Ominaning ukasining, mikrosxemali roboti bor\" gaplarda qanday ma'no farqi bor?",
+   "variantlar": [
+    "Birinchisida kattasi, ikkinchisida kichikroq",
+    "Birinchisida ikkita ota-ona, ikkinchisida uchita ota-ona",
+    "Ikkala gapdagi ma'no mutlaqo bir xildir",
+    "Birinchisida mikrosxemali robot Umarjonning va Ominaning uka tomonidan, ikkinchisida faqat Ominaning uka tomonidan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda \"Vatan tuprog'idan tumor yasaymiz, uyimiz to'riga qadab qo'yamiz\" qismidan ko'rinib turadiki, tinish belgilari nima roli o'ynaydi?",
+   "variantlar": [
+    "Shunchaki so'zlarni bo'lish",
+    "Rasm chizish uchun",
+    "Harflarni yoqim qilish",
+    "Matnning hissiyotini va munosabatini o'tkazish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Afg'onistondagi elchilik haqidagi matnda tinish belgilari yozilgan matnning hayat va ma'nosini qanday o'zgartirib beradi?",
+   "variantlar": [
+    "Faqat shaklini yaxshilaydi",
+    "Matn yozilmasa yaxshi bo'ladi",
+    "Voqealarning tarti, kirish va hissiyotlarni o'tkazib beradi",
+    "Ma'nodagi ulanish va holiy jihatlarni ochmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Shoir Erkin Vohidovning vergul haqidagi she'rida vergulni \"yangi oy\"ga qiyoslab, uning nima xususiyati ko'rsatilgan?",
+   "variantlar": [
+    "Qoramada nur beradi",
+    "Kattaligin ko'rsatadi",
+    "Haroratini ko'tarib beradi",
+    "Yangi boshlanishni va nurni o'tkazadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'tkir Hoshimovning asaridan keltirilgan gaplarda vergulning birinchi va oxirgi gaplardagi vergullarning asosiy farqi nima?",
+   "variantlar": [
+    "Birinchisida qo'shimcha munosabat, oxiringisida negatsiya bildiradi",
+    "Birinchisida undov so'z, oxiringisida so'z takrorlanishi ko'rsatilgan",
+    "Hech farqi yo'q",
+    "Birinchisida sanash, oxiringisida murojaat"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mashq 419-da \"Navoiy fikricha, Vatanni tark etmoq – ranji g'urbat, alamga to'la ayriliq\" qismida tire va vergullarning qo'llanish sababi nima?",
+   "variantlar": [
+    "Tire ma'nosini tushuntiradi, vergul sanashni ko'rsatadi",
+    "Faqat ortopiya qoidalari",
+    "Tire va vergul o'rin almashtirilishi mumkin",
+    "Hech bir ma'nani bermaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mashq 422-da \"To'qayda bir yirtqich sher bor edi // Vahshatda osmon sheridek qo'rqmas edi\" gaplarining bog'lanishi uchun qanday belgi tanlandi?",
+   "variantlar": [
+    "Nuqta yoki shuol, ikkita alohida gap bo'lganligi uchun",
+    "Vergul, ikkita hodisani sanashlash uchun",
+    "Chiziqcha, imlo qoidasi bo'yicha",
+    "Tire, tushuntirish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Iya, Tohirjon sizning akangiz-ku! Ehtimol, onalarning so'ngan yulduzlari birlashib quyoshga aylangandir?\" gaplarda vergullarning qo'llanish qoidalarini tahlil qiling.",
+   "variantlar": [
+    "Ikkala gapda so'z takrorlanaishi",
+    "Ikkala gapda faqat sanash",
+    "Ikkala gapda shaxsga murojaat",
+    "Birinchisida undov so'z 'Iya', ikkinchisida qo'shimcha munosabat 'Ehtimol'"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda \"Yashash. Bu – orzular qanotin kermoq. Yashash. Bu – muhabbat gullarin termoq\" qismida takror gaplardan keyinga nuqta qo'yilgan sababi nima?",
+   "variantlar": [
+    "Voqea-hodisa nomlamalashi kichik gaplardan keyin nuqta qo'yiladi",
+    "Imlo qoidasiga ko'ra",
+    "O'qituvchi shunday qo'yishni buyurdi",
+    "Shunchaki rast keldi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda \"Lug'at: qavm – bir urug'ga mansub, mahalla; tavof qilmoq – muqaddas, aziz bilib e'zozlamoq\" qismida tirelarning funksiyasi nima?",
+   "variantlar": [
+    "Faqat imlo belgilari",
+    "Shunchaki dizayn elementi",
+    "Takrorlanish belgisi",
+    "Izohni va tushuntirish beruvchi so'zlar bilan asosiy so'zlarni bog'laydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

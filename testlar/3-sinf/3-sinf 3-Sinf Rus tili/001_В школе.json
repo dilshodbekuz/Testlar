@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Rus tili",
+ "mavzu": "В школе",
+ "savollar": [
+  {
+   "savol": "Davron kimdir?",
+   "variantlar": [
+    "O'qituvchidir",
+    "O'quvchidir",
+    "Direktyordir",
+    "Klassnyy rukovoditeldir"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Feruza kimdir?",
+   "variantlar": [
+    "Direktyordir",
+    "O'quvchisidir",
+    "Klassnyy rukovoditeldir",
+    "O'qituvchidir"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Davron va Feruza qanday sinfda o'qiydi?",
+   "variantlar": [
+    "Uchinchi sinfda",
+    "Birinchi sinfda",
+    "Ikkinchi sinfda",
+    "To'rtinchi sinfda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shkolnik nima?",
+   "variantlar": [
+    "O'qituvchi",
+    "O'quvchi",
+    "Klassnyy rukovoditel",
+    "Direktyor"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Uchitel nima?",
+   "variantlar": [
+    "Direktyor",
+    "O'qituvchi",
+    "O'quvchi",
+    "Sinf rahbari"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Klassnyy rukovoditel nima?",
+   "variantlar": [
+    "Sinf rahbari",
+    "O'qituvchining pastdagi xodimi",
+    "Shkolning direktyori",
+    "Librarian"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Davron va Feruzaning sinf rahbari kimdir?",
+   "variantlar": [
+    "Malika Sobirovnа",
+    "Nasiba Karimovna",
+    "Islam Abdullayevich",
+    "Rustam Yakubovich"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zdravstvuyte nima?",
+   "variantlar": [
+    "Xayrlash",
+    "Kitob",
+    "Salom, salomlashish",
+    "Ro'yxat"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shkolning direktyori kimdir?",
+   "variantlar": [
+    "Malika Sobirovnа",
+    "Islam Abdullayevich",
+    "Rustam Yakubovich",
+    "Nasiba Karimovna"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Uchitelnica so'zi nima anglatadi?",
+   "variantlar": [
+    "Sinf rahbari",
+    "Ayol o'qituvchi",
+    "Erkak o'qituvchi",
+    "O'quvchi ayol"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Davron va Feruza qayerda o'qiydi?",
+   "variantlar": [
+    "Ko'chada",
+    "Uyda",
+    "Shkolada",
+    "Bog'da"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar bolalar futbol o'ynash va yugurish bilan shugullanayotgan bo'lsa, bu qaysi dars?",
+   "variantlar": [
+    "Fizkultura",
+    "Rasm darsi",
+    "Matematika",
+    "Musiqa"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar bolalar qalam bilan varaqqa chizayotgan bo'lsa, bu qaysi dars?",
+   "variantlar": [
+    "Musiqa",
+    "Rasm darsi",
+    "Ona tili",
+    "Matematika"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar bolalar hisoblash va masalani yechish bilan shugullanayotgan bo'lsa, bu qaysi dars?",
+   "variantlar": [
+    "Matematika",
+    "Rasm",
+    "Fizkultura",
+    "Ona tili"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Davron va Feruzaning klassnyy rukovoditelining to'liq ismi?",
+   "variantlar": [
+    "Islam Abdullayevich",
+    "Rustam Yakubovich",
+    "Nasiba Karimovna",
+    "Malika Sobirovnа"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Direktyor Islam Abdullayevichning oilaning nomi?",
+   "variantlar": [
+    "Karimov",
+    "Yakubov",
+    "Sobirov",
+    "Abdullayev"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Davron va Feruza direktyorga qandaycha salomlashadi?",
+   "variantlar": [
+    "Hammasi xush",
+    "Ism bilan",
+    "Xush kelibsiz",
+    "Zdravstvuyte, Islam Abdullayevich!"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Klassnyy rukovoditelni o'quvchilar qandaycha chaqiradi?",
+   "variantlar": [
+    "Ismi va sonimi bilan",
+    "Faqat ismi bilan",
+    "Xonim",
+    "Nasiba Karimovna"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Davron va Feruza uchinchi sinfda o'qiydi degan ma'lumotni matndan qaysi yerdan bilamiz?",
+   "variantlar": [
+    "Davron shunday aytadi",
+    "Direktyor shunday aytadi",
+    "Matnda 'uchinchi klassa' deb yozilgan",
+    "Klassnyy rukovoditel shunday aytadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar yana bitta sinf o'quvchisi Mahmud va Sevara bo'lsa va ular uchinchi sinfda o'qiyotgan bo'lsa, Davron va Feruza bilan nima?",
+   "variantlar": [
+    "Dostlar",
+    "Direktyor-o'quvchi",
+    "O'qituvchi-o'quvchi",
+    "Bir sinfning o'quvchilari"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shkolning direktyori va klassnyy rukovoditel o'rtasidagi asosiy farq nima?",
+   "variantlar": [
+    "Direktyor bitta sinfni, klassnyy rukovoditel butun shkoladir",
+    "Direktyor faqat men",
+    "Ularning farqi yo'q",
+    "Klassnyy rukovoditel bitta sinfni, direktyor butun shkoladir"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Davron va Feruza direktyor va klassnyy rukovoditelga formali salomlashadi. Bu nima taklif qiladi?",
+   "variantlar": [
+    "Do'stlikka taklif",
+    "Ta'zim va hurmat",
+    "Shumarlik",
+    "Mehribonlik"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda 'uchitel', 'uchitelnica', 'shkolnik', 'shkolnica' so'zlari ishlatilgan. Ulardan ergalarga nisbatan:?",
+   "variantlar": [
+    "Farqi yo'q",
+    "Faqat o'quvchilarga qo'llanilinadi",
+    "Faqat erkaksiz turli",
+    "Ayollarga '-nica' qo'shimchasi qo'shiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda darslar ko'rsatilgan. Ulardan qaysilari o'quvchilar o'z badani tarbiyalashga va xodisalar bilan ishlashga yordam beradi?",
+   "variantlar": [
+    "Fizkultura va mehnat (trud)",
+    "Ona tili va ruscha til",
+    "Matematika va ona tili",
+    "Rasm va musiqa"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Klassnyy rukovoditelni o'quvchilar 'Nasiba Karimovna' deb chaqiradi. 'Karimovna' nima anglatadi?",
+   "variantlar": [
+    "Yashaydigan joyi",
+    "Otasining ismi asosida tuzilgan ota-onalik atashtirma",
+    "Martabasi",
+    "Oilaning nomi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda keltirilgan darslar ro'yxatidan qaysi birt darslari til o'rganishga to'g'ri taalluqli?",
+   "variantlar": [
+    "Musiqa va jismoniy tarbiya",
+    "Rasm va musiqa",
+    "Matematika va fizkultura",
+    "Ona tili va ruscha til"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Davron va Feruza 'Shkolniki' deb atalib, ular:?",
+   "variantlar": [
+    "Shkolada o'qiyotgan bolalar",
+    "Direktyorning yaqinlari",
+    "Shkolning ishchilar",
+    "Faqat o'qituvchilar"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar Davron va Feruza uchinchi sinfda o'qiyotgan bo'lsa, Mahmud va Sevara ham uchinchi sinfda o'qiyotgan bo'lsa, ularni birga atalish mumkin:?",
+   "variantlar": [
+    "O'qituvchilar",
+    "Dostlar",
+    "Direktyorlar",
+    "Bir sinfning o'quvchilari yoki sinfdoshlar"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda bo'lgan darslardan: ona tili, ruscha til, o'qish, matematika, musiqa, mehnat, rasm, jismoniy tarbiya. Qaysi ikkitasi til o'rganishga tegishli?",
+   "variantlar": [
+    "O'qish va mehnat",
+    "Ona tili va ruscha til",
+    "Ruscha til va rasm",
+    "Ona tili va musiqa"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Davron va Feruza ertalab direktyor va klassnyy rukovoditelga formali salomlashdi. Bu qaysi ijtimoiy normani ko'rsatadi?",
+   "variantlar": [
+    "Bolalar shokarang",
+    "Bolalar ta'zim bilan kattalarga hurmat bilan munosabat qiladi",
+    "Bolalar xavotirchi",
+    "Bolalar mutaasir"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

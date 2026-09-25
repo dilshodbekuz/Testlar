@@ -1,0 +1,326 @@
+{
+ "sinf": "4-sinf",
+ "kitob": "4-sinf 4-Sinf Texnologiya",
+ "mavzu": "QOG'OZDAN KABUTAR YASASH",
+ "savollar": [
+  {
+   "savol": "Qog'ozdan kabutar yasashni boshlaguncha qanday shaklidagi qog'oz kerak?",
+   "variantlar": [
+    "To'rtburchak",
+    "Uchburchak",
+    "Doira",
+    "Kvadrat"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qarama-qarshi uchlarni birlashtirganda nima hosil bo'ladi?",
+   "variantlar": [
+    "Kvadrat",
+    "Doira",
+    "Beshburchak",
+    "Uchburchak"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Uchburchakning pastki uchlarini qayerga birlashtirish kerak?",
+   "variantlar": [
+    "O'rta nuqtasiga",
+    "Yuqori tomondagi uchlariga",
+    "Pastki tomondagi uchlariga",
+    "Yon tomondagi uchlariga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yon tomondagi uchlarni qayar chiziqqa qarab birlashtiriladi?",
+   "variantlar": [
+    "O'rta chiziqqa",
+    "Vertikal chiziqqa",
+    "Diagonalga",
+    "Gorizontal chiziqqa"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Pastki tomondan nima qilish kerak?",
+   "variantlar": [
+    "Orasini oching",
+    "Buklab yuborish",
+    "Yopish",
+    "Kesib tashlash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kabutar dumi va bosh qismi nima orqali hosil bo'ladi?",
+   "variantlar": [
+    "Ranglab qo'yish orqali",
+    "Kesib tashlash orqali",
+    "Xatchi qo'yish orqali",
+    "Qoldirilgan izlarni buklab"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qog'ozni birlashtirgandan keyin qanday o'girish kerak?",
+   "variantlar": [
+    "Orqa tomonga",
+    "O'ng tomonga",
+    "Chap tomonga",
+    "Oldinga tomonga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qog'ozdan kabutar yasashning birinchi qadami nima?",
+   "variantlar": [
+    "Buklab qo'yish",
+    "Uchlarni birlashtirib uchburchak hosil qilish",
+    "Kesib tashlash",
+    "Iz qoldirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Uchburchak hosil bo'lingandan keyin qanday qilish kerak?",
+   "variantlar": [
+    "Rasmga chizish",
+    "Pastki uchlarni yuqori uchlariga birlashtirib orqa tomonga o'girish",
+    "Kesib tashlash",
+    "Ranglab qo'yish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jarayonning oxirgi qadamida nima qilish kerak?",
+   "variantlar": [
+    "Qog'ozni kesib tashlash",
+    "Qog'ozni xatchi qo'yish",
+    "Qog'ozni rang qilish",
+    "Qoldirilgan izlarni buklab kabutar dumi va bosh qismini hosil qilish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Pastki uchlarni yuqori uchlariga birlashtirgandan keyin nima qilish kerak?",
+   "variantlar": [
+    "Kesib tashlash",
+    "Orqa tomonga o'girish",
+    "Qoldirilgan izlarni buklab qo'yish",
+    "Yon tomondagi uchlarni birlashtirib pastki tomondan orasini oching"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yon tomondagi uchlarni birlashtirgandan keyin qanday qilish kerak?",
+   "variantlar": [
+    "Pastki tomondan orasini oching",
+    "O'chirish",
+    "Yozish",
+    "Buklab qo'yish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Iz qoldirish uchun qog'oz qanday qilish kerak?",
+   "variantlar": [
+    "Xatchi qo'yish",
+    "Suv bilan islatish",
+    "Kesib tashlash",
+    "Buklab qo'yish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kabutar dumi hosil qilish uchun qanday amal kerak?",
+   "variantlar": [
+    "Xatchi qo'yish",
+    "Ranglab qo'yish",
+    "Qoldirilgan izlarni buklab",
+    "Kesib tashlash"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Uchburchak hosil qilingandan keyin qanday amal qilish kerak?",
+   "variantlar": [
+    "Ranglab qo'yish",
+    "Yon tomondagi uchlarni o'rta chiziqqa qarab birlashtirib pastki tomondan orasini oching",
+    "Rasmga chizish",
+    "Kesib tashlash"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Pastki tomondan orasini ochgandan keyin qog'oz qanday ko'rinadi?",
+   "variantlar": [
+    "Uchburchak",
+    "Kvadrat",
+    "Kabutar qanatlari ko'rinadi",
+    "Tekis qog'oz"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'rta chiziq qo'llanilishining asosiy maqsadi nima?",
+   "variantlar": [
+    "Yozish uchun",
+    "Rasmga chizish uchun",
+    "Kesib tashlash uchun",
+    "Yon uchlarni birlashtirib oriyentir bo'lish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Orqa tomonga o'girish nima uchun kerak?",
+   "variantlar": [
+    "Kesib tashlash uchun",
+    "Rasmga chizish uchun",
+    "Qog'ozni toza qilish uchun",
+    "Keying uchlarni birlashtirib kabutar bosh va dumi yaratish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qoldirilgan izlar qayin tomonda ko'rinadi?",
+   "variantlar": [
+    "Qog'ozning orqa tomoni",
+    "Qog'ozning oldinga tomoni",
+    "Hech joydagi emas",
+    "Kabutar qanatlida"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qog'ozni o'girish va buklab iz qoldirish jarayoni nima uchun muhim?",
+   "variantlar": [
+    "Kabutar bosh va dumi qismini to'g'ri hosil qilish uchun",
+    "Kesib tashlash uchun",
+    "Qog'ozni kuchli qilish uchun",
+    "Rasmga chizish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yon tomondagi uchlarni o'rta chiziqqa qarab birlashtirishning maqsadi nima?",
+   "variantlar": [
+    "Rasmga chizish uchun",
+    "Kabutar qanatlari o'rtasidagi masofani to'g'ri yaratish uchun",
+    "Qog'ozni kesib tashlash uchun",
+    "Qog'ozni kuchli qilish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kabutar bosh va dumi yasalishi uchun qanday amallar ketma-ketligi kerak?",
+   "variantlar": [
+    "Faqat buklab qo'yish",
+    "Faqat ranglab qo'yish",
+    "Buklab, iz qoldirib va qoldirilgan izlarni qayta buklab",
+    "Faqat kesib tashlash"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uchburchak hosil qilingandan keyin qog'ozning asosiy shakli qanday o'zgaradi?",
+   "variantlar": [
+    "Kesib tashlash orqali qisqaradi",
+    "Shakli o'zgarmaymiz",
+    "Ranglanadi",
+    "Yon uchlarni birlashtirib pastki tomondan ochish orqali kabutar qanatlari hosil bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Iz qoldirish va buklab qayta buklash orasidagi bog'lanish nima?",
+   "variantlar": [
+    "Ular bog'lanmagan",
+    "Buklab iz qoldirish keyin qoldirilgan izlarni buklab bosh va dumi yaratadi",
+    "Ular bir vaqtda bo'ladi",
+    "Buklash iz qoldirish orqali amalga oshadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Pastki tomondan orasini ochish kabutar yasashga qanday ta'sir keltiradi?",
+   "variantlar": [
+    "Qog'oz tekis qoladi",
+    "Ta'sir keltirmaydi",
+    "Kabutar rinohi paydo bo'ladi",
+    "Kabutar qanatlari ko'rinadi va kabutarning to'liq shakli aniqlanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qarama-qarshi uchlardan yuqori va pastda joylashgan uchlarni birlashtirishning ahamiyati nima?",
+   "variantlar": [
+    "Kabutar qanatlari orasidagi tog'ri masofani yaratish",
+    "Qog'ozni kuchli qilish",
+    "Kesib tashlash uchun oriyentir",
+    "Rasmga chizish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qog'ozning yon tomondagi uchlarini birlashtirganda qanday shakliy o'zgarish bo'ladi?",
+   "variantlar": [
+    "Kabutar bosh va dumi qismining evsharasi yaratilishboshi boshlanadi",
+    "O'zgarish bo'lmaydi",
+    "Qog'oz kesib tashlandi",
+    "Qog'oz tekis qoladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kabutar dumi va bosh qismi bir vaqtda hosil bo'lishi imkoni bormi va qanday?",
+   "variantlar": [
+    "Ha, kesib tashlash orqali",
+    "Yo'q, bosh avval hosil bo'ladi",
+    "Ha, qoldirilgan izlarni buklab bir vaqtda hosil bo'ladi",
+    "Yo'q, dumi avval hosil bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jarayonning har bir qadami kabutar shakli yaratishga qanday hissa qo'shadi?",
+   "variantlar": [
+    "Faqat birinchi qadam muhim",
+    "Faqat so'nggi qadam muhim",
+    "Qadamlarning ketma-ketligi muhim emas",
+    "Har bir qadam kabutar tafsilotlarini aniqlashda muhim rol o'ynaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

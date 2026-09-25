@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Texnologiya",
+ "mavzu": "Guldon tayyorlash",
+ "savollar": [
+  {
+   "savol": "Guldon tayyorlashda birinchi qadamda nima tayyorlash kerak?",
+   "variantlar": [
+    "Kartoni",
+    "Makaza",
+    "Chok",
+    "Andaza"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Guldonni qirqib olish uchun qaysi kartonga joylashtiriladi?",
+   "variantlar": [
+    "Gulli kartonga",
+    "Oq kartonga",
+    "Qora kartonga",
+    "Kesik kartonga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Guldon bo'laklarini biriktirib tikishda nimalidan foydalaniladi?",
+   "variantlar": [
+    "O'rash",
+    "Plastilina",
+    "Yopish",
+    "Chok turlaridan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qirqib olish jarayonida qaysi vosita ishlatiladi?",
+   "variantlar": [
+    "Rasm",
+    "Makaza",
+    "Chok",
+    "Qalam"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Andaza nima?",
+   "variantlar": [
+    "Vosita",
+    "Tikishning turi",
+    "Kartoni turi",
+    "Guldonning shaklini belgilashdigan rasm"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Andazani tayyorlangandan keyin uni qayni joyga joylashtiradigan bo'ladi?",
+   "variantlar": [
+    "Gulli yoki rangli kartonga",
+    "O'qituvchining stoli ustiga",
+    "Kutiyaga",
+    "Daftarning ichiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Guldon bo'laklarini qaysi usulda biriktiriladi?",
+   "variantlar": [
+    "Yopish bilan",
+    "Chok turlaridan foydalanib",
+    "O'rash bilan",
+    "Plastilina bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Guldon tayyorlash qaysi sinf o'quvchilariga o'qitiladi?",
+   "variantlar": [
+    "2-sinf",
+    "1-sinf",
+    "3-sinf",
+    "4-sinf"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Andazaning maqsadi nima?",
+   "variantlar": [
+    "Qalam chizish",
+    "Rasm ko'paytirish",
+    "Kartoni bo'yash",
+    "Guldonning shaklini belgilash"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gulli yoki rangli kartoni nima sifatida ishlatiladi?",
+   "variantlar": [
+    "Vosita",
+    "Bo'lak",
+    "Fon",
+    "Tasvir"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar andazani tayyorlangandan keyin uni qirqib olmoqchi bo'lsangiz, birinchi qanday qadamni bajarasiz?",
+   "variantlar": [
+    "Uni gulli kartonga joylashtirasiz",
+    "Makaza olib kelasiz",
+    "Kartoni bo'yasiz",
+    "Kalemi tayyorlaysiz"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Guldon bo'laklarini biriktirib tikishda chok turlarini foydalanish qanday jarayonni anglatadi?",
+   "variantlar": [
+    "Bo'laklar qo'shilmasi",
+    "Boyang",
+    "Chizish",
+    "Qirqib olish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Rangli kartoni o'rniga gulli kartoni ishlatilishi mumkinmi?",
+   "variantlar": [
+    "Yo'q",
+    "Ha, ikkalasi bitta maqsadni bajaradi",
+    "Bilmasman",
+    "Ha, lekin boshqacha ko'rinadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Andazani to'g'ri qirqib olish uchun qanday bo'lishi kerak?",
+   "variantlar": [
+    "Tez qirqib olish",
+    "Kattalashtirib olish",
+    "Asta-sekin va aniq shaklni saqlab qirqib olish",
+    "Qo'l bilan kesish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gulli kartonga joylashtirilgan andazani qirqib olishda qanday foyda bor?",
+   "variantlar": [
+    "Kartoni konserv qilish",
+    "Guldonning shaklini aniq kesib olish",
+    "Kartoni rang berish",
+    "Tez qirqib olish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Guldon bo'laklarini chok turlaridan foydalanib biriktirib tikish nimani anglatadi?",
+   "variantlar": [
+    "Har bir bo'lakni biriktirib tikish",
+    "Chizish",
+    "Qirqib olish",
+    "Boyang"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Chok turlarining turli-xil bo'lishining sababi nima bo'lishi mumkin?",
+   "variantlar": [
+    "Faqat qiyinlik uchun",
+    "Turli xil bo'laklarni turli xil usulda biriktirib tikish",
+    "Faqat rang uchun",
+    "Faqat dekorasiya uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Guldon tayyorlashda andaza tayyorlash nima sababdan muhim?",
+   "variantlar": [
+    "Qalam chizish uchun",
+    "Guldonning shaklini aniq belgilash uchun",
+    "Faqat vaqt sarflash uchun",
+    "Kartoni bo'yash uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Andazani qirqib olish jarayoni boshqa qadamlardan keyin nima sababdan keladi?",
+   "variantlar": [
+    "Hech sabab yo'q",
+    "Faqat vaqt o'tkazish uchun",
+    "Qiyinlik bilan",
+    "Andaza tayyor bo'lgan keyin shaklni kesib olish kerak"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Guldon bo'laklarini biriktirib tikishda eng muhimi nima?",
+   "variantlar": [
+    "Chok turlarini to'g'ri foydalanib mustahkam biriktirib tikish",
+    "Faqat rang",
+    "Faqat dekorasiya",
+    "Tez qilish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Guldon tayyorlashning barcha qadamlarini tartib bilan ko'rsatib boring: A) andaza tayyorlash, B) qirqib olish, C) bo'laklarni biriktirib tikish. Ularning to'g'ri ketma-ketligi qanday?",
+   "variantlar": [
+    "B-C-A",
+    "C-B-A",
+    "A-B-C",
+    "B-A-C"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar siz gulli kartoni o'rniga oq kartoni ishlatish bo'lsa, guldonni qirqib olish jarayoniga nima ta'sir bo'ladi?",
+   "variantlar": [
+    "Qirqib olishda aniqlik yo'qoladi va xatolar ko'payadi",
+    "Qirqib olish osonlashadi",
+    "Faqat rang o'zgaradi",
+    "Hechbir ta'sir bo'lmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Guldon bo'laklarini turli xil chok turlaridan foydalanib biriktirib tikish qanday omillarga bog'liq bo'ladi?",
+   "variantlar": [
+    "Faqat rangga",
+    "Faqat vaqtga",
+    "Faqat dekorasiyaga",
+    "Bo'laklar turli xil bo'lganligiga, ularning shakli va o'lchamiga"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Andazaning to'g'riligi va qirqib olishning aniqmi guldonning yakuniy sifatiga qanday ta'sir qiladi?",
+   "variantlar": [
+    "Ta'sir qilmaydi",
+    "Faqat ko'rinishga ta'sir qiladi",
+    "Guldonning sifat jihatdan baholanishiga ta'sir qiladi",
+    "Faqat vaqtga ta'sir qiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gulli kartonga qo'yilgan andaza bilan rangli kartonga qo'yilgan andazani qirqib olish uchun qanday farq bo'ladi?",
+   "variantlar": [
+    "Rangli kartoni ko'proq yo'miq",
+    "Gulli va rangli kartoni turli xil xossalarga ega bo'lgani uchun qirqib olish usuli o'zgarishi mumkin",
+    "Faqat rang o'zgaradi",
+    "Hechbir farqi yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Guldon bo'laklarini to'g'ri biriktirib tika olmasa, yakuniy mahsulotning sifatiga nima ta'sir bo'ladi?",
+   "variantlar": [
+    "Hechbir ta'sir bo'lmaydi",
+    "Faqat rang o'zgaradi",
+    "Faqat ko'rinish buziladi",
+    "Bo'laklarning biriktirilmasi mustahkam bo'lmaydi, mahsulot tez shikastlanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Guldon tayyorlash uchun xom ashyolarni tanlashda qanday omillarni hisobga olish zarur?",
+   "variantlar": [
+    "Faqat vositaning turi",
+    "Sifat, o'lcham, vositalarning maqsadi",
+    "Faqat vaqt",
+    "Faqat rang"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mustaqil bajarilash talabiga muvofiq guldon tayyorlashda o'quvchi qanday bilimlarini qo'llanadi?",
+   "variantlar": [
+    "Faqat kesish",
+    "Faqat chizish",
+    "Andaza tuziladigan, qirqib olish, biriktirib tikishning chuqur bilimi va ushbu ishlarni mustaqil bajaradigan qoabiliyati",
+    "Faqat bo'yoq"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Guldon va shunga o'xshash qo'lyozmalar tayyorlashda chok turlarining turli-xil bo'lishining ahamiyati nima?",
+   "variantlar": [
+    "Faqat tezlik uchun",
+    "Faqat dekorasiya uchun",
+    "Turli xil bo'laklar va mahsulotlarni turli xil usulda biriktirib tikish imkoniyati",
+    "Faqat rang uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Guldon tayyorlashning ko'nikmalari boshqa qo'lyozma ishlarida qanday qo'llanilishi mumkin?",
+   "variantlar": [
+    "Faqat rasmda",
+    "Boshqa qo'lyozma ishlar tayyorlashda shunga o'xshash usullarni qo'llash mumkin",
+    "Faqat guldon tayyorlashda",
+    "Hechqaysi joyda qo'llanilmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

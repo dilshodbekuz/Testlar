@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Tabiatshunoslik",
+ "mavzu": "Tabiatda havo",
+ "savollar": [
+  {
+   "savol": "Havo nima?",
+   "variantlar": [
+    "Havo rangli suyuqliq",
+    "Havo bizga ko'rinmaydigan gaz",
+    "Havo tosh",
+    "Havo sho'rva"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Stakanda suv solingan idishga bo'sh stakan botirilganda suv stakan ichiga nima uchun kirmaydi?",
+   "variantlar": [
+    "Stakan ichida havo bordek bo'ladi",
+    "Tuproq tiqdi",
+    "Muz eriydi",
+    "Suv muzlagan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Havo tarkibida qaysi gazlar va moddalar bor?",
+   "variantlar": [
+    "Faqat sho'rva",
+    "Faqat suv",
+    "Faqat qum",
+    "Azot, kislorod, karbonat angidrid, suv bug'i va boshqa moddalar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kislorod nima?",
+   "variantlar": [
+    "Quyosh nuri",
+    "Tuproqning rangi",
+    "Suvning ranglanishi",
+    "Havo tarkibidagi gaz"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ob-havo deb nimaga aytiladi?",
+   "variantlar": [
+    "Faqat shamol esishi",
+    "Havoning ma'lum vaqt va joydagi holatlari",
+    "Faqat yomg'ir yog'ishi",
+    "Faqat Quyosh"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shamol nima?",
+   "variantlar": [
+    "Tuproqning harakati",
+    "Suv harakati",
+    "Havoning harakati",
+    "Quyosh nuri"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Termometr nima uchun ishlatiladi?",
+   "variantlar": [
+    "Havo harorati o'lchash uchun",
+    "Tuproq o'lchash uchun",
+    "Suv o'lchash uchun",
+    "Shamol o'lchash uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yozda Yer yuzida quyosh nurlari qanday tushadi?",
+   "variantlar": [
+    "Pastlab tushadi",
+    "Yotiq tushadi",
+    "Chiqib ketadi",
+    "Tikroq tushadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qishda quyosh nurlari qanday tushadi?",
+   "variantlar": [
+    "Yotiq tushadi",
+    "Pastlab tushadi",
+    "Tikroq tushadi",
+    "Kelib tushadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Odamlar va hayvonlar havodagi qaysi gazdan nafas oladi?",
+   "variantlar": [
+    "Kisloroddan",
+    "Azotdan",
+    "Karbonat angidriddan",
+    "Suv bug'idan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Stakan og'dirilganda stakan ichidagi havo qanday holatga o'tadi?",
+   "variantlar": [
+    "Havo ko'tariladi",
+    "Havo pufakchalar bo'lib suv yuziga chiqadi",
+    "Havo qotib qoladi",
+    "Havo yemiriladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Baliq va delfin suv ichida yashashlarida, ular havodan nima uchun nafas oladi?",
+   "variantlar": [
+    "Quyosh orqali",
+    "Tuproq orqali",
+    "Suv ichida ham havo bor",
+    "Suvni bu qiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'simliklar havodan nafas olganida nima chiqaradi?",
+   "variantlar": [
+    "Kislorod chiqaradi",
+    "Qum chiqaradi",
+    "Suv chiqaradi",
+    "Azot chiqaradi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar mo'ridan chiqqan tutun osmonga tik ko'tarilayotgan bo'lsa, ob-havo qanday bo'ladi?",
+   "variantlar": [
+    "Shumanasi yog'ar",
+    "Qor yog'ar",
+    "Havo ochiq bo'ladi",
+    "Yomg'ir yog'adi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar tutun osmonga ko'tarilmasdan pastlab ketsa, tez orada nima bo'lishi mumkin?",
+   "variantlar": [
+    "Shamol kuchayadi",
+    "Yomg'ir yog'ishi mumkin",
+    "Qor yog'adi",
+    "Ob-hava soginadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar qaldirg'och osmonda baland parvoz qilayotgan bo'lsa, havo qanday bo'ladi?",
+   "variantlar": [
+    "Yomg'ir yog'ar",
+    "Shamol esadi",
+    "Qor yog'ar",
+    "Havo ochiq bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar qaldirg'och pastlab uchayotgan bo'lsa, nima yuz berishi mumkin?",
+   "variantlar": [
+    "Quyosh chiqadi",
+    "Bulut kayb bo'ladi",
+    "Yomg'ir yog'ishi mumkin",
+    "Shamol kesadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Daftar bilan qog'oz parchalariga yelpisak, nima bo'ladi?",
+   "variantlar": [
+    "Qog'oz parchasi suyuqlashadi",
+    "Qog'oz parchasi quyin bo'ladi",
+    "Qog'oz parchasi yemiriladi",
+    "Qog'oz parchasi uchib ketadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shardan chiqayotgan havoning harakati nima hosil qiladi?",
+   "variantlar": [
+    "Shamol",
+    "Yomg'ir",
+    "Qor",
+    "Bulut"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kuchli shamol daraxt bilan nima qiladi?",
+   "variantlar": [
+    "Daraxtni shoxlarini egadi",
+    "Daraxtga havo beradi",
+    "Daraxtni yangilaydi",
+    "Daraxtni o'stiradi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nega Yer yuzida o'simliklar ko'p bo'lsa, havoda kislorod shuncha ko'p bo'ladi?",
+   "variantlar": [
+    "Chunki o'simliklar suv ichidan kislorod oladi",
+    "Chunki o'simliklar Quyosh nuri beradi",
+    "Chunki o'simliklar havodagi karbonat angidridni yutib, o'zidan kislorod chiqaradi",
+    "Chunki o'simliklar tuproqdan kislorod oladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nega o'rmon, yaylov va tog' yonbag'irlarida sayr qilganlar havodagi kisloroddan to'yib nafas oladi?",
+   "variantlar": [
+    "Chunki bu joylardagi havoda kislorod ko'p bo'ladi, chunki o'simliklar qalin o'sadi",
+    "Chunki bu joylarda shamol kuchli esadi",
+    "Chunki bu joylarda Quyosh kuchli",
+    "Chunki bu joylarda suv bor"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Stakanda qanday tajriba orqali havoning o'z joyini suvga bo'shtirmayligini ko'rsatish mumkin?",
+   "variantlar": [
+    "Stakanni tiq qo'ysak",
+    "Stakanni quyosh nurida qo'ysak",
+    "Stakanni daftar bilan yelpisak",
+    "Stakanni suvga botirib, og'zini idishdagi suvga qo'yib yuboring"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yozda quyosh nurlari tikroq tushsa, havo harorati yuqori bo'lishiga nima sabab?",
+   "variantlar": [
+    "Bulut ko'p bo'ladi",
+    "Quyosh nurlari tikroq tushsa, hava ko'proq isitadi",
+    "Qor yog'adi",
+    "Shamol esadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nega qishda osmondagi bulutlar havo haroratini yanada pasaytiradi?",
+   "variantlar": [
+    "Chunki bulutlar quyosh nurlarini to'sib, havoga issiqlik beradi",
+    "Chunki bulutlar quyosh nurlarini to'sib, hava isitilmasini to'sqin qiladi",
+    "Chunki bulutlar shamol keltiradi",
+    "Chunki bulutlar suv olib boradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar Quyosh qora bulutlar orqasiga botsasiga ertasiga nima bo'lishi mumkin?",
+   "variantlar": [
+    "Havo ochiq bo'ladi",
+    "Shamol kesadi",
+    "Yog'ingarchilik bo'lishi mumkin",
+    "Qor yog'adi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar Quyosh botayotganda uning atrofi qizg'ish-sarg'ish tusda bo'lsa, ertasiga ob-havo qanday bo'ladi?",
+   "variantlar": [
+    "Havo ochiq bo'ladi",
+    "Yomg'ir yog'ar",
+    "Shamol kuchayar",
+    "Bulut chiqar"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tuproq orasida yashayotgan chuvalchang havodan nima uchun nafas oladi?",
+   "variantlar": [
+    "Chunki tuproq orqali kislorod to'g'ridan-to'g'ri keladi",
+    "Chunki chuvalchang suv ichida yashaydi",
+    "Chunki tuproq orasida ham havo bo'ladi",
+    "Chunki Quyosh tuproqni issitadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Suv hayvonlari faqat suvda yashasalarida, nega ularning ham kislorod kerak?",
+   "variantlar": [
+    "Chunki tuproq orasida yashaydilar",
+    "Chunki havo suv ichida bor",
+    "Chunki tuproq orqali kiritiladi",
+    "Chunki Quyosh uni beradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qadimda odamlar yelkanli kemalar yasab, shamol yordamida suvda suzgan. Bu nima koʻrsatadi?",
+   "variantlar": [
+    "Baliqlar kuchli bo'lgan",
+    "Havoning harakati qadimda qancha kuchli va muhim bo'lgan ekanligini koʻrsatadi",
+    "Shamol zaif bo'lgan",
+    "Odamlar suv ichida yashasalar"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "4-sinf",
+ "kitob": "4-sinf 4-Sinf O‘qish (metodika)",
+ "mavzu": "Topishmoqlar",
+ "savollar": [
+  {
+   "savol": "Topishmoq nima ekan?",
+   "variantlar": [
+    "Qadimgi ishxona",
+    "Qish fasli",
+    "Tabiat manzarasi",
+    "Narsa yoki hodisalarning belgisi va tomonlari orqali ifodalangan xalq og'zaki ijodi janri"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Topishmoq qadimda qanday nomlangan?",
+   "variantlar": [
+    "O'yin-o'yin",
+    "Dot-dot",
+    "Jumboq yoki top-top",
+    "Besh-besh"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Topishmoqlarni kim yaratgan?",
+   "variantlar": [
+    "Faqat bolalar",
+    "Faqat o'qituvchilar",
+    "Xalq",
+    "Faqat kitob mualliflari"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Paxta qanday tavsiflanadi?",
+   "variantlar": [
+    "Pishirsa osh bo'lur",
+    "Qorday oppoq, yungday yumshoq",
+    "Og'zi yo'g'-u, tishi bor",
+    "Atlas ko'ylak qanoti"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Toshbaqa haqidagi topishmoq qanday ifodalanadi?",
+   "variantlar": [
+    "Emaklagan toshni ko'rdim, toshdan chiqqan boshni ko'rdim",
+    "O'zi qizil, go'zal biram",
+    "Ismi bor, jismi yo'q",
+    "Qorday oppoq, yungday yumshoq"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shamol qanday xususiyatga ega ekan?",
+   "variantlar": [
+    "Rangi bor",
+    "Ismi bor, jismi yo'q",
+    "Og'zi bor",
+    "Qo'lidagi kuchli"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rayhon qanday tavsiflanadi?",
+   "variantlar": [
+    "Ovozasi azonda",
+    "O'zi katta, dumi kalta",
+    "Ko'm-ko'k tusi, xushbo'y isi",
+    "Qat-qat quloq, dum-dumaloq"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Topishmoqlar qaysi xalqning hayoti va urf-odasini ko'rsatadi?",
+   "variantlar": [
+    "Barcha dunyoning",
+    "Bitta milliy xalqning",
+    "Faqat o'zbek xalqining",
+    "Uni yaratgan xalqning"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tuxum haqidagi topishmoqda qanday farq ko'rsatiladi?",
+   "variantlar": [
+    "Turli ranglari",
+    "Paxtaning",
+    "Pishirilish holatiga ko'ra osh yoki qush bo'lishi",
+    "Harakati"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dars maqsadlaridan qaysi biri topishmoqlar bilan bog'liq?",
+   "variantlar": [
+    "Ziyraklikka o'rgatish va fikrlash qobiliyatini rivojlantirish",
+    "Faqat o'qishni o'rgatish",
+    "Yo'q, topishmoq bilan bog'li emas",
+    "Faqat vaqtni o'tkazish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikki otim bor, bir-biridan chopog'on topishmoqning javobini toping.",
+   "variantlar": [
+    "Oyoq",
+    "Tusak",
+    "Qo'l",
+    "Qush"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yer tagida qubba igna topishmoq nimani bildiradi?",
+   "variantlar": [
+    "Asallangan quti",
+    "Tundukdagi kletka",
+    "Qiziling",
+    "Tipratikan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Atlas ko'ylak qanoti, xush xabarchi odati topishmoqning javobini toping.",
+   "variantlar": [
+    "Chivin",
+    "Tuya",
+    "Zag'izg'on",
+    "Parrak"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Arra qanday belgilari orqali ifodalanadi?",
+   "variantlar": [
+    "Ismi bor, jismi yo'q",
+    "Qorday oppoq, yungday yumshoq",
+    "Og'zi yo'g'-u, tishi bor",
+    "O'zi qizil, go'zal biram"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'zi qizil, go'zal biram, qirga yozar qizil gilam topishmoq nimani tavsiflab beradi?",
+   "variantlar": [
+    "Mayda mevali o't",
+    "Lola",
+    "To'q rang bo'yoq",
+    "Sumaloq"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Topishmoqda belgisi deb nima tushuniladi?",
+   "variantlar": [
+    "Faqat rang va shaklin",
+    "Narsa yoki hodisaning xususiyatlari: shakli, harakati, holati, vazifasi",
+    "Faqat nomi",
+    "Faqat hajmi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "G'uv-g'uv etar, qorni to'ysa yumalab ketar topishmoq qaysi hayvonni tasvirlaydi?",
+   "variantlar": [
+    "Mushuk",
+    "Urchuq",
+    "Tovuq",
+    "It"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Topishmoqlar xalqning qaysi asarlar turiga kiradi?",
+   "variantlar": [
+    "Yozma adabiyotga",
+    "O'zbek faqatgina adabiyotga",
+    "O'g'zaki ijodiga",
+    "Ilmiy kitoblarga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gulsiz bo'lar mevasi, shirin-shirin donasi topishmoqning javobini toping.",
+   "variantlar": [
+    "Anjir",
+    "Anor",
+    "Tuts",
+    "Shaftoli"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Darsda So'zlovchi quticha o'yini qanday maqsadda o'ynalgan?",
+   "variantlar": [
+    "O'tilgan mavzuni mustahkamlash va mavzuga javob topish uchun",
+    "Bilimlarni tekshirish uchun",
+    "Maqollarni bilmasdan o'tish uchun",
+    "Faqat o'yin uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar topishmoqning javobini emas, balki topishmoqning shaklini o'zgartirsak, uning mazmuni qanday o'zgaradi?",
+   "variantlar": [
+    "Topishmoqning bosh mazmuni ko'rinishga ko'ra qiyinroq yoki osonroq bo'lishi mumkin",
+    "Hech qanday ahamiyati yo'q",
+    "Xud shundayoq qoladi",
+    "Umuman o'zgaradi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi topishmoqlarni tahlil qilsak, qaysisi eng ko'p belgisini beradi?",
+   "variantlar": [
+    "Shamol topishmoqi",
+    "Toshbaqa topishmoqi",
+    "Tuxum topishmoqi",
+    "Paxta topishmoqi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Topishmoqning ta'rifini bilgan holda, qaysisi to'g'ri ta'rifiy xususiyatni ko'rsatmaydi?",
+   "variantlar": [
+    "Narsa yoki hodisani belgisi orqali ifodalash",
+    "O'g'zaki ijod janri ekanlik",
+    "Faqat rang bo'yicha ifodalash",
+    "Uni yaratgan xalqning hayoti bilan bog'liq bo'lish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tinmas bitta, tinglar mingta topishmoqning javobini topgach, uning belgilari orqali yana qanday narsani topishmoq qilish mumkin?",
+   "variantlar": [
+    "Tostiri",
+    "Ishchilik",
+    "Buyumini",
+    "Radioni yoki televiziyon"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Topishmoqlar va maqollarning o'rtasidagi asosiy farq nima?",
+   "variantlar": [
+    "Ularning hammasi bir xil",
+    "Maqol qadim, topishmoq yangi",
+    "Topishmoq faqat o'yindir",
+    "Topishmoq savol-javob shakliga, maqol saboq-nasihatga asoslangan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Darsda Sandiqchaga joyla mashqida topishmoqlar va maqollar alohida sandiqchalarga joylash sababi nima?",
+   "variantlar": [
+    "Ularning turli xalq ijodi turiga ko'ra farqli ekanligini ko'rsatish uchun",
+    "Topishmoqlar faqat bolachilar uchun",
+    "Topishmoqlar muhimroq, maqollar muhimsiz",
+    "Shunchaki o'yin uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar topishmoqni boshqacha shaklda ifodalasak - oddiy izoh ko'rinishida - bu qanday o'zgaradi?",
+   "variantlar": [
+    "Topishmoq qolibiga qoladi",
+    "Topishmoq yanada yangilanadi",
+    "Topishmoqning sirri yo'qoladi va u oddiy izohga aylanadi",
+    "Topishmoqning qiynligi ortadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Topishmoqlarning qaysi xususiyati uni qush va hayvonlarning ovoz-harakatlarini tavsiflaydigan topishmoqlar bilan tutashtiradi?",
+   "variantlar": [
+    "Hamma topishmoq shunday",
+    "Faqat qislashnoma ishtirokida",
+    "Tabiatning turli ko'rinishlarini tavsiflab, xalqning kuzatish qobiliyatini ko'rsatish",
+    "Topishmoq sheklli asarlar bo'lganlik"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'zi katta, dumi kalta va Atlas ko'ylak qanoti topishmoqlarni taqqoslasak, qanday farqni ko'rishimiz mumkin?",
+   "variantlar": [
+    "Birinchisi hayvon, ikkinchisi o't",
+    "Birinchisi ko'p belgili, ikkinchisi kam belgili",
+    "Birinchisi mumkin, ikkinchisi mumkin emas",
+    "Ularning hammasi bir xil"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Topishmoqning javobini biladigan bola va biladigan bola uchun topishmoqni yechish jarayoni qanday farqlanadi?",
+   "variantlar": [
+    "Biladigan bola ko'proq fikrlash kerak bo'ladi, ziyraklik talab etadi",
+    "Biladigan bola to'g'ri javob topsa, biladigan bola xato topadi",
+    "Topishmoqning mazmuni boshqalanadi",
+    "Hech farq yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

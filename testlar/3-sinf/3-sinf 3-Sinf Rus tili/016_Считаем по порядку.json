@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Rus tili",
+ "mavzu": "Считаем по порядку",
+ "savollar": [
+  {
+   "savol": "Haftada nechta kun bor?",
+   "variantlar": [
+    "10 kun",
+    "4 kun",
+    "7 kun",
+    "5 kun"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Haftaning birinchi kuni nima deyiladi (rus tilida)?",
+   "variantlar": [
+    "Vtornik",
+    "Chetverg",
+    "Sreda",
+    "Ponedelnik"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Raqam '3' ordinal shaklida rus tilida nima?",
+   "variantlar": [
+    "Chetvyortyj",
+    "Tretij",
+    "Pyatyj",
+    "Vtoroj"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Raqam '5' ordinal shaklida rus tilida nima?",
+   "variantlar": [
+    "Shestoj",
+    "Chetvyortyj",
+    "Pyatyj",
+    "Tretij"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Raqam '10' ordinal shaklida rus tilida nima?",
+   "variantlar": [
+    "Sedmoj",
+    "Desyatyj",
+    "Vosemoj",
+    "Devyatyj"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Svetoforning nechta ko'zi bor?",
+   "variantlar": [
+    "4 ta",
+    "2 ta",
+    "1 ta",
+    "3 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Haftaning to'rtinchi kuni nima deyiladi (rus tilida)?",
+   "variantlar": [
+    "Subbota",
+    "Pyatnica",
+    "Chetverg",
+    "Ponedelnik"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Svetofor qaysi rangda yonganida kutish kerak?",
+   "variantlar": [
+    "Qizil",
+    "Sariq",
+    "Rang yoq",
+    "Yashil"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Avtobusda birinchi o'rinda qaysi shahardagi bola o'tirgan?",
+   "variantlar": [
+    "Samarqanddan",
+    "Buxaradan",
+    "Andijondan",
+    "Xorazamdan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matematika darsining tartibi qanday belgilandi?",
+   "variantlar": [
+    "Uchinchi dars",
+    "To'rtinchi dars",
+    "Birinchi dars",
+    "Ikkinchi dars"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vtornik (vtoroj den) haftaning qaysi kuni?",
+   "variantlar": [
+    "To'rtinchi",
+    "Birinchi",
+    "Ikkinchi",
+    "Uchinchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sreda (tretij den) haftaning qaysi kuni?",
+   "variantlar": [
+    "Beshinchi",
+    "Ikkinchi",
+    "To'rtinchi",
+    "Uchinchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Pyatnica (pyatyj den) haftaning qaysi kuni?",
+   "variantlar": [
+    "Yettinchi",
+    "Beshinchi",
+    "Sakkizinchi",
+    "To'rtinchi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Chetverg (chetvertyj den) haftaning qaysi kuni?",
+   "variantlar": [
+    "Beshinchi",
+    "To'rtinchi",
+    "Uchinchi",
+    "Ikkinchi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Subbota (shestoj den) haftaning qaysi kuni?",
+   "variantlar": [
+    "Yettinchi",
+    "Sakkizinchi",
+    "To'qqizinchi",
+    "Beshinchi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Svetofor qaysi rangda yonganida harakat qilish mumkin?",
+   "variantlar": [
+    "Yashil",
+    "Rang yo'q",
+    "Qizil",
+    "Sariq"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Avtobusda ikkinchi o'rinda qaysi shahardagi bola o'tirgan?",
+   "variantlar": [
+    "Andijondan",
+    "Buxaradan",
+    "Samarqanddan",
+    "Termezdan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Avtobusda uchinchi o'rinda qaysi shahardagi bola o'tirgan?",
+   "variantlar": [
+    "Samarqanddan",
+    "Andijondan",
+    "Xorazamdan",
+    "Buxaradan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Birinchi dars qaysi fandan bo'lgan?",
+   "variantlar": [
+    "Rus tili",
+    "Jismoniy tarbiya",
+    "Matematika",
+    "Tarix"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Katya sport musobaqasida qanday o'rinda qoldi?",
+   "variantlar": [
+    "To'rtinchi o'rin",
+    "Ikkinchi o'rin",
+    "Uchinchi o'rin",
+    "Birinchi o'rin"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar haftaning birinchi kuni ponedelnik bo'lsa, subbota qaysi kun bo'ladi?",
+   "variantlar": [
+    "Sakkizinchi",
+    "To'qqizinchi",
+    "Beshinchi",
+    "Yettinchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Avtobusda Termezdan nechta bola kelgan?",
+   "variantlar": [
+    "3 ta",
+    "1 ta",
+    "4 ta",
+    "2 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Avtobusda Xorazamdan nechta o'g'il bola kelgan?",
+   "variantlar": [
+    "1 ta",
+    "4 ta",
+    "2 ta",
+    "3 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Haftaning 1-kunidan 4-kunigacha (ikkalasini ham hisob qilib) nechta kun?",
+   "variantlar": [
+    "4 kun",
+    "3 kun",
+    "5 kun",
+    "2 kun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Svetoforning ranglarini to'g'ri tartibda nomlang.",
+   "variantlar": [
+    "Sariq, qizil, yashil",
+    "Qizil, sariq, yashil",
+    "Yashil, sariq, qizil",
+    "Qizil, yashil, sariq"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Avtobusda jami nechta bola bo'lgan? (1-o'rindagidan 10-o'rindigacha)",
+   "variantlar": [
+    "7 ta",
+    "10 ta",
+    "9 ta",
+    "8 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Haftaning oxirgi kuni nima deyiladi (rus tilida)?",
+   "variantlar": [
+    "Voskresenie",
+    "Pyatnica",
+    "Chetverg",
+    "Subbota"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Avtobusda 3-chi va 4-chi o'rindagi bolalar qaysi shaharlarda yashaydi?",
+   "variantlar": [
+    "Samarqand va Andijon",
+    "Termez va Xorazam",
+    "Andijon va Termez",
+    "Buxara va Xorazam"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qol barmaklari rikolamida to'rtinchi barmaq kimni belgilaydi?",
+   "variantlar": [
+    "Bobo",
+    "Ona",
+    "Buvi",
+    "O'zi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Avtobusda birinchi, ikkinchi va uchinchi o'rindagi bolalar qaysi shaharlarda yashaydi?",
+   "variantlar": [
+    "Andijon, Buxara, Samarqand",
+    "Buxara, Andijon, Termez",
+    "Samarqand, Buxara, Andijon",
+    "Samarqand, Samarqand, Andijon"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

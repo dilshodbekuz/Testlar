@@ -1,0 +1,326 @@
+{
+ "sinf": "4-sinf",
+ "kitob": "4-sinf 4-Sinf Rus tili",
+ "mavzu": "В магазинах",
+ "savollar": [
+  {
+   "savol": "Bolalar ertasi qachon chiqadilar?",
+   "variantlar": [
+    "Do'konada",
+    "Kontsertda",
+    "Dars vaqtida",
+    "Uyda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'Kiyim' do'konida bolalar kiyimi qaysi qavatda joylashgan?",
+   "variantlar": [
+    "Podvalda",
+    "Ikkinchi qavatda",
+    "Birinchi qavatda",
+    "Uchinchi qavatda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Svetaning qanday narsasi yo'q?",
+   "variantlar": [
+    "Ayakkabi",
+    "Albom",
+    "Kitob",
+    "Daftar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'leganing qanday narsasi yo'q?",
+   "variantlar": [
+    "Ro'molka",
+    "Daftar",
+    "Noutbuk",
+    "Albom"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Opasining qanday narsasi yo'q?",
+   "variantlar": [
+    "Ayakkabi",
+    "Ruchka",
+    "Kitob",
+    "Daftar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vityada qanday narsasi yo'q?",
+   "variantlar": [
+    "Daftar",
+    "Noutbuk",
+    "Ruchka",
+    "Kitob"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Do'stiga qanday narsasi yo'q?",
+   "variantlar": [
+    "Kiyim",
+    "Gravur",
+    "Ko'ylak",
+    "Ayakkabi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bratuning qanday narsasi yo'q?",
+   "variantlar": [
+    "Noutbuk",
+    "Ruchka",
+    "Daftar",
+    "Ro'molka"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Annaning qanday narsasi yo'q?",
+   "variantlar": [
+    "Ruchka",
+    "Mobil telefon",
+    "Albom",
+    "Daftar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mening sumkamda qanday narsasi yo'q?",
+   "variantlar": [
+    "Ayakkabi",
+    "Kitob",
+    "Daftar",
+    "Ruchka"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bolalar kontsertda chiqish uchun qanday narsalarga ehtiyoj duygan?",
+   "variantlar": [
+    "Daftarga va ruchkaga",
+    "Oziq ovqatga",
+    "Kiyim va ayakkabiga",
+    "Do'stlarga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Svetaning kitobi qaysi do'konda sotiladi?",
+   "variantlar": [
+    "'Kantsiylik buyumlari' do'konida",
+    "Oyoq kiyim do'konida",
+    "Kitob do'konida",
+    "'Kiyim' do'konida"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'leganing albomi qaysi do'konda sotiladi?",
+   "variantlar": [
+    "'Kiyim' do'konida",
+    "'Kantsiylik buyumlari' do'konida",
+    "Oyoq kiyim do'konida",
+    "Kitob do'konida"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Opaning ruchkasi yo'qligiga qarab, u nima qilgan?",
+   "variantlar": [
+    "Yo'qotib qo'ygan",
+    "Bergan",
+    "Ilajon qo'ygan",
+    "Sotib olgan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kitob do'konida oyoq kiyim yo'qsa, ularni qaysi do'konga borish kerak?",
+   "variantlar": [
+    "'Kiyim' do'koniga",
+    "Supermarketga",
+    "'Oyoq kiyim' do'koniga",
+    "Aptekaga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sinfida shkaf va stol yo'qligiga qarab, qanday narsalarni saqlash mumkin emas?",
+   "variantlar": [
+    "Daftarlarni",
+    "Kitoblarni",
+    "O'yinchoqlarni",
+    "Asboblarni"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi do'konda ruchka sotiladi?",
+   "variantlar": [
+    "Oziq ovqat do'konida",
+    "'Kantsiylik buyumlari' do'konida",
+    "'Kiyim' do'konida",
+    "Oyoq kiyim do'konida"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Vityada noutbuk yo'qligiga qarab, u qanday ish bajarish mumkin emas?",
+   "variantlar": [
+    "Chizish",
+    "Kompyuterda ishlash",
+    "Kitob o'qish",
+    "Daftarda yozish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Annaning mobil telefon yo'qligiga qarab, u qanday muloqot qila olmadi?",
+   "variantlar": [
+    "Habar yuborish",
+    "Qarang qilish",
+    "Salom berish",
+    "Telefon orqali gapirish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Kantsiylik buyumlari' do'konida qanday narsalar sotiladi?",
+   "variantlar": [
+    "Oziq ovqatlar",
+    "Ayakkabiler",
+    "Daftar, ruchka, albom",
+    "Kiyimlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bolalar 'Kiyim' do'konida birinchi qavatdan bolalar kiyimi topail olmasa, qanday tavsiya oldi?",
+   "variantlar": [
+    "Ikkinchi qavatga kotirish",
+    "Bozorga borish",
+    "Boshqa do'konaga borish",
+    "Uyga qaytish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar Svetaning kitobi va O'leganing albomi bo'lsa, ular daftarda qanday narsalarni qila oladi?",
+   "variantlar": [
+    "Bosh qayirish",
+    "Faqat chizish",
+    "Faqat o'ynash",
+    "O'qish va yozish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Do'konlardagi turli tovarlarni ko'rab, kitob va daftar qaysi do'konlarda bir vaqtda topilisi mumkin?",
+   "variantlar": [
+    "'Oyoq kiyim' do'konida",
+    "Kitob do'koni va 'Kantsiylik buyumlari' do'konida",
+    "'Kiyim' do'konida",
+    "Aptekada"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Maktabning qaysi xonasida shkaf va stol bo'lmasa, u o'quvchilar uchun qanday muammo tug'diradi?",
+   "variantlar": [
+    "Juda yo'g'on bo'ladi",
+    "Shuva bo'lmaydi",
+    "Kitoblarni qo'yish qiyin bo'ladi",
+    "Juda bo'sh bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar bolalar barcha kiyim va ayakkabini to'plasa, ularning necha turli do'koniga borish kerak?",
+   "variantlar": [
+    "Bitta do'koniga",
+    "To'rtta do'koniga",
+    "Uchta do'koniga",
+    "Ikki do'koniga"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'quvchilarning tetradlari yo'qsa, ularning yozish joyini qayerda topish kerak?",
+   "variantlar": [
+    "Boshqa o'quvchidan olish",
+    "Daftar sotib olish",
+    "'Kantsiylik buyumlari' do'koniga borish",
+    "Yoqasiga yozish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kitob do'konida oyoq kiyim yo'q, 'Oyoq kiyim' do'konida kitob yo'q bo'lsa, bu nima ko'rsatadi?",
+   "variantlar": [
+    "Hech bir narsani ko'rsatmaydi",
+    "Do'konlar yopiq",
+    "Do'konlar turli-turli tovarlarni sotadi",
+    "Do'konlar ortasida muammo"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Vityada noutbuk yo'q, Annada mobil telefon yo'qsa, ular qanday yo'l bilan aloqa qilishlari mumkin?",
+   "variantlar": [
+    "Faqat kompyuter orqali",
+    "Shaxsan uchrashib yoki boshqa usullar orqali",
+    "Faqat telefon orqali",
+    "Aloqa qila olmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bolalar kontsertda chiqish uchun oq ko'ylak, qora kostyu'm va gravur to'plash kerak bo'lsa, ularning jami necha ta narsasi kerak?",
+   "variantlar": [
+    "Beshta",
+    "Uchta",
+    "To'rtta",
+    "Ikki ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

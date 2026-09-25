@@ -1,0 +1,337 @@
+{
+ "sinf": "4-sinf",
+ "kitob": "4-sinf 4-Sinf Matematika",
+ "mavzu": "Mulohazalar",
+ "savollar": [
+  {
+   "savol": "Mulohaza deb nimaga aytiladi?",
+   "variantlar": [
+    "Faqat rasm",
+    "Har qanday gap",
+    "Savolning javobiga o'xshash narsa",
+    "Haqiqiy yoki yolg'on bo'lishi mumkin bo'lgan fikr"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mulohaza qanday turlarga bo'linadi?",
+   "variantlar": [
+    "Katta va kichik",
+    "Qisqa va uzun",
+    "Yaxshi va yomon",
+    "To'g'ri va noto'g'ri"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Toshkent qaysi davlatning poytaxti?",
+   "variantlar": [
+    "O'zbekistonning",
+    "Qirg'izistonning",
+    "Turkiyaning",
+    "Qozog'istonning"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Fevral oyi nechta kundan iborat?",
+   "variantlar": [
+    "30 kun",
+    "28 yoki 29 kun",
+    "32 kun",
+    "31 kun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Eng kichik ikki xonali son qaysi?",
+   "variantlar": [
+    "11",
+    "99",
+    "10",
+    "01"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'g'ri mulohaza degani nima?",
+   "variantlar": [
+    "Eng uzun gap",
+    "Har doim shubhali mulohaza",
+    "Haqiqiyga mos, faktga asoslanuvchi mulohaza",
+    "Raqam bilan boshlangan fikr"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Noto'g'ri mulohaza nima?",
+   "variantlar": [
+    "Faqat savollar",
+    "Haqiqiyga mos kelmaydigan, faktga zid mulohaza",
+    "Qisqa gaplar",
+    "Sonlar yozilgan gaplar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri mulohaza bo'lishi mumkin?",
+   "variantlar": [
+    "Sening kitobingni tut",
+    "Inson qush kabi ucha oladi",
+    "Yer sayyora",
+    "10 raqamining kattaligi nima"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mulohazalarni yozish uchun quyidagilardan qaysi usul ishlatiladi?",
+   "variantlar": [
+    "Gaplar va jumlalardan",
+    "Faqat rasmlardan",
+    "Faqat raqamlardan",
+    "Faqat belgilardan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'g'ri va noto'g'ri mulohazalarning farqi nima?",
+   "variantlar": [
+    "Og'zaki yoki yozma",
+    "Raqamlashtirilgan yoki raqamsiz",
+    "Qisqa yoki uzun",
+    "Haqiqatga mos kelishi yoki kelmasligi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'Toshkent — O'zbekistonning poytaxti' mulohazasi to'g'rimi?",
+   "variantlar": [
+    "Ha, to'g'ri",
+    "Bilmayman",
+    "Yo'q, noto'g'ri",
+    "Qisman to'g'ri"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Fevral 30 kundan iborat' mulohazasi haqida nima to'g'ri?",
+   "variantlar": [
+    "Bu noto'g'ri mulohaza",
+    "Bu to'g'ri mulohaza",
+    "Bilmayman",
+    "Bu qisman to'g'ri"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'11 — eng kichik ikki xonali son' mulohazasi to'g'rimi?",
+   "variantlar": [
+    "Yo'q, eng kichiki 10",
+    "Yo'q, eng kichiki 12",
+    "Ha, to'g'ri",
+    "Aniqlash qiyin"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi mulohazalardan nechtasi to'g'ri? 1) Toshkent O'zbekistonning poytaxti. 2) Fevral 31 kundan iborat. 3) 10 eng kichik ikki xonali son.",
+   "variantlar": [
+    "Ikkalasi",
+    "Bittasi",
+    "Uchtalasi",
+    "Birinchisi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi mulohazalardan nechtasi noto'g'ri? 1) Fevral 30 kun. 2) 11 eng kichik ikki xonali son. 3) Toshkent O'zbekistonning shahri.",
+   "variantlar": [
+    "Birinchisi",
+    "Uchtalasi",
+    "Ikkalasi",
+    "Bittasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi mulohaza matematikaga tegishli to'g'ri mulohaza?",
+   "variantlar": [
+    "Qunosh yulduz",
+    "8 + 7 = 15",
+    "Toshkent eng yirik shahar",
+    "Fevral 29 kundan iborat"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri geografik mulohaza?",
+   "variantlar": [
+    "20 - 15 = 5",
+    "5 + 5 = 10",
+    "Alifbo 33 harfdan iborat",
+    "Toshkent O'zbekistonning poytaxti"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi mulohazalardan qaysilari qarama-qarshi? 1) Fevral 30 kundan iborat. 2) Fevral 30 kundan iborat emas.",
+   "variantlar": [
+    "Faqat birinchisi",
+    "Faqat ikkinchisi",
+    "Biri ham emas",
+    "Ikkalasi ham"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mulohaza noto'g'ri deb bilish uchun nima qilish kerak?",
+   "variantlar": [
+    "Faqat kitobni o'qish",
+    "Faqat o'qituvchi suhbat qilishi kerak",
+    "Faqat o'ylab ko'rish",
+    "Faktga mos kelmaydigan ekanini isbotlash"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki xonali sonlar 10 dan 99 gacha bo'lsa, eng kichiki qaysi?",
+   "variantlar": [
+    "11",
+    "99",
+    "01",
+    "10"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi mulohazalarni e'tiborga olib, to'g'riligi yoki noto'g'riligi haqida fikr yurit: 1) Ikki xonali sonlarning eng kichiki 11 2) Ikki xonali sonlarning eng kichiki 10. Qaysi to'g'ri?",
+   "variantlar": [
+    "Birinchisi",
+    "Ikkalasi",
+    "Biri ham emas",
+    "Ikkinchisi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar 'Har bir oy 31 kundan iborat' deb aytsa, bu noto'g'ri ekanini tushunish uchun nima bilish kerak?",
+   "variantlar": [
+    "Turli oylarning kunlari soni boshqacha ekanini",
+    "Faqat oy nomlarini",
+    "Faqat raqamlarni",
+    "Faqat kalendarni"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matematikada to'g'ri mulohaza bilan noto'g'ri mulohazaning asosiy farqi nima?",
+   "variantlar": [
+    "So'z soni",
+    "Harf soni",
+    "Natija haqiqat va hisob-kitobga mos kelishi yoki kelmasligi",
+    "Belgilar soni"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'zbekistonning poytaxti Toshkent ekanini isbotlash uchun qanday ma'lumot kerak?",
+   "variantlar": [
+    "Faqat kitob",
+    "Faqat taqvim",
+    "Geografik va siyosiy ma'lumotlar",
+    "Faqat rasmlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Fevral oyi har yil bir xil kundan iborat bo'lmasа, 'Fevral 28 kundan iborat' mulohazasi haqida nima aytish mumkin?",
+   "variantlar": [
+    "Har doim to'g'ri",
+    "Har doim noto'g'ri",
+    "Qisman to'g'ri",
+    "Hech qachon to'g'ri emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi mulohazalarni tahlil qiling: 1) Dekabr 31 kundan iborat 2) Yanvar 31 kundan iborat 3) Mart 30 kundan iborat. Nechtasi to'g'ri?",
+   "variantlar": [
+    "Bittasi",
+    "Ikkalasi",
+    "Birinchisi",
+    "Uchalasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mulohazada 'to'g'ri' va 'noto'g'ri' ni aniqlashdan oldin nima qilish juda zarur?",
+   "variantlar": [
+    "Faqat o'ylab ko'rish",
+    "Faqat usta bilan suhbat qilish",
+    "Faqat kitobni o'qish",
+    "Mulohazaning asosini va haqiqatga mos kelishini tushunish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar 'Toshkent O'zbekistonning poytaxti' to'g'ri mulohaza bo'lsa, uning to'liq qarama-qarshi noto'g'ri mulohazasi qaysi bo'ladi?",
+   "variantlar": [
+    "Toshkent O'zbekistonda joylashgan",
+    "Toshkent O'zbekistonning shahri",
+    "Toshkent kichik shahar",
+    "Toshkent O'zbekistonning poytaxti emas"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi mulohazalar ichidan qaysilari bir-birining qarama-qarshi? 1) Alifbo 33 harfdan iborat. 2) Alifbo 33 harfdan iborat emas.",
+   "variantlar": [
+    "Ikkalasi ham",
+    "Biri ham emas",
+    "Faqat ikkinchisi",
+    "Faqat birinchisi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sonli mulohazada agar hisob-kitob natijalari berilgan natijaga teng bo'lmasa, bu mulohaza qanday bo'ladi?",
+   "variantlar": [
+    "Qisman to'g'ri",
+    "Sodda",
+    "Noto'g'ri",
+    "Murakkab"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

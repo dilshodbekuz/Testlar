@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Matematika (1-qism)",
+ "mavzu": "Qoldiqli bo'lish",
+ "savollar": [
+  {
+   "savol": "Qoldiqli bo'lishda qoldiq har doim qanday bo'ladi?",
+   "variantlar": [
+    "Bo'luvchidan kichik",
+    "Nolga teng",
+    "Bo'linuvchiga teng",
+    "Bo'luvchidan kattaroq"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "14 = 3 · 4 + 2 tenglikda 14 nima deb ataladi?",
+   "variantlar": [
+    "Qoldiq",
+    "Bo'linuvchi",
+    "Bo'luvchi",
+    "To'liqsiz bo'linma"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "14 = 3 · 4 + 2 tenglikda 3 nima deb ataladi?",
+   "variantlar": [
+    "Bo'linuvchi",
+    "To'liqsiz bo'linma",
+    "Bo'luvchi",
+    "Qoldiq"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "14 = 3 · 4 + 2 tenglikda 4 nima deb ataladi?",
+   "variantlar": [
+    "Bo'linuvchi",
+    "Qoldiq",
+    "To'liqsiz bo'linma",
+    "Bo'luvchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "14 = 3 · 4 + 2 tenglikda 2 nima deb ataladi?",
+   "variantlar": [
+    "Bo'linuvchi",
+    "Bo'luvchi",
+    "Qoldiq",
+    "To'liqsiz bo'linma"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qoldiqsiz bo'lish deganda nimani tushunasiz?",
+   "variantlar": [
+    "Qoldiq nolga teng bo'lgan bo'lish",
+    "Bo'luvchi nolga teng bo'lgan bo'lish",
+    "To'liqsiz bo'linma nolga teng bo'lgan bo'lish",
+    "Bo'linuvchi nolga teng bo'lgan bo'lish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sonni 5 ga bo'lganda, qoldiq eng ko'pi qancha bo'lishi mumkin?",
+   "variantlar": [
+    "4",
+    "7",
+    "6",
+    "5"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "27 : 4 = 6 (qoldiq 3) tenglikda bo'linuvchi qancha?",
+   "variantlar": [
+    "4",
+    "3",
+    "6",
+    "27"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qoldiqli bo'lish formulasi qaysi?",
+   "variantlar": [
+    "Bo'linuvchi = bo'luvchi + to'liqsiz bo'linma + qoldiq",
+    "Bo'linuvchi = bo'luvchi - to'liqsiz bo'linma + qoldiq",
+    "Bo'linuvchi = bo'luvchi × to'liqsiz bo'linma + qoldiq",
+    "Bo'linuvchi = bo'luvchi ÷ to'liqsiz bo'linma + qoldiq"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sonni 8 ga bo'lganda, 12 qoldiq bo'lishi mumkinmi?",
+   "variantlar": [
+    "Faqat soni 12 dan katta bo'lsa",
+    "Ha, mumkin",
+    "Yo'q, mumkin emas",
+    "Faqat soni 96 ga teng bo'lsa"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "20 : 3 = ? (qoldiq ?)",
+   "variantlar": [
+    "7 (qoldiq 1)",
+    "5 (qoldiq 5)",
+    "6 (qoldiq 2)",
+    "6 (qoldiq 3)"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "35 : 7 = ? (qoldiq ?)",
+   "variantlar": [
+    "4 (qoldiq 7)",
+    "5 (qoldiq 0)",
+    "6 (qoldiq 1)",
+    "5 (qoldiq 1)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "50 : 8 = ? (qoldiq ?)",
+   "variantlar": [
+    "6 (qoldiq 3)",
+    "6 (qoldiq 2)",
+    "5 (qoldiq 10)",
+    "7 (qoldiq 1)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "100 : 9 = ? (qoldiq ?)",
+   "variantlar": [
+    "11 (qoldiq 1)",
+    "11 (qoldiq 2)",
+    "12 (qoldiq 2)",
+    "10 (qoldiq 10)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "67 : 10 = ? (qoldiq ?)",
+   "variantlar": [
+    "6 (qoldiq 7)",
+    "7 (qoldiq 1)",
+    "7 (qoldiq 7)",
+    "6 (qoldiq 10)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2053 = 84 · 24 + 37 tenglik to'g'rimi?",
+   "variantlar": [
+    "To'g'ri",
+    "Noto'g'ri",
+    "Qoldiq noto'g'ri",
+    "Bo'luvchi noto'g'ri"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "4106 = 79 · 51 + 77 tenglik to'g'rimi?",
+   "variantlar": [
+    "Qoldiq 79 dan katta",
+    "Noto'g'ri",
+    "Bo'luvchi noto'g'ri",
+    "To'g'ri"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bo'linuvchi = 32, bo'luvchi = 6, to'liqsiz bo'linma = 5 bo'lsa, qoldiq qancha?",
+   "variantlar": [
+    "6",
+    "3",
+    "1",
+    "2"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "546 : 5 = ? (qoldiq ?)",
+   "variantlar": [
+    "108 (qoldiq 6)",
+    "109 (qoldiq 1)",
+    "110 (qoldiq 0)",
+    "109 (qoldiq 2)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "308 : 7 = ? (qoldiq ?)",
+   "variantlar": [
+    "44 (qoldiq 0)",
+    "44 (qoldiq 1)",
+    "43 (qoldiq 7)",
+    "45 (qoldiq 1)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "32 ga bo'lganda, 24 hosil bolib, 13 qoldiq qolgan son qancha?",
+   "variantlar": [
+    "768",
+    "800",
+    "756",
+    "781"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "200 metrli motodan 6 metrli choyshab tiksa, nechta choyshab tikish mumkin va qancha mato ortib qoladi?",
+   "variantlar": [
+    "33 dona, 2 m ortib qoladi",
+    "33 dona, 6 m ortib qoladi",
+    "34 dona, 0 m ortib qoladi",
+    "32 dona, 8 m ortib qoladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "10 kilogramm choyni 150 grammdan qilib qadoqlansa, nechta qadoq hosil bo'ladi va qancha choy ortib qoladi?",
+   "variantlar": [
+    "66 dona, 150 g ortib qoladi",
+    "67 dona, 50 g ortib qoladi",
+    "65 dona, 250 g ortib qoladi",
+    "66 dona, 100 g ortib qoladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Shirinning 5000 so'm puli bor. Narxi 450 so'm bo'lgan muzqaymoqdan ko'pi bilan nechta sotib olsa, qancha puli ortib qoladi?",
+   "variantlar": [
+    "11 dona, 100 so'm",
+    "10 dona, 500 so'm",
+    "11 dona, 50 so'm",
+    "12 dona, 40 so'm"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "770 tonna bug'doyni 60 tonna sig'uvchi vagonda tashish kerak bo'lsa, nechta vagon kerak bo'ladi va oxirgi vagonga qancha ton yuklanadi?",
+   "variantlar": [
+    "13 vagon, oxirgi vagonga 10 t",
+    "12 vagon, oxirgi vagonga 60 t",
+    "11 vagon, oxirgi vagonga 50 t",
+    "12 vagon, oxirgi vagonga 50 t"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Maktab 370 dona gul xarid qildi. Har bir o'quvchiga 3 donadan gul berildi va 1 dona ortib qoldi. Bitiruvchi o'quvchilar soni qancha?",
+   "variantlar": [
+    "125",
+    "123",
+    "120",
+    "124"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "54103 : 44 = ? (qoldiq ?)",
+   "variantlar": [
+    "1229 (qoldiq 44)",
+    "1230 (qoldiq 0)",
+    "1228 (qoldiq 31)",
+    "1229 (qoldiq 27)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "43 ga bo'lganda, 71 hosil bo'lib, 27 qoldiq qolgan son qancha?",
+   "variantlar": [
+    "3053",
+    "3080",
+    "3107",
+    "3100"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "210 : 19 = ? (qoldiq ?)",
+   "variantlar": [
+    "10 (qoldiq 20)",
+    "11 (qoldiq 1)",
+    "11 (qoldiq 0)",
+    "12 (qoldiq 2)"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "120 : 7 = 16 (qoldiq 8) bu to'g'rimi?",
+   "variantlar": [
+    "Noto'g'ri (ikkisi ham noto'g'ri)",
+    "Noto'g'ri (bo'linma noto'g'ri)",
+    "To'g'ri",
+    "Noto'g'ri (qoldiq noto'g'ri)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

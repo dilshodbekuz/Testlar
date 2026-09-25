@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Ona tili",
+ "mavzu": "124-dars. So'roq belgisining ishlatilishi",
+ "savollar": [
+  {
+   "savol": "So'roq belgisining ko'rinishi qanday?",
+   "variantlar": [
+    ".",
+    "?",
+    "!",
+    ","
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Kim?\" so'roqi qaytiga oid so'zga javob beradi?",
+   "variantlar": [
+    "Sifatga",
+    "Narsaga",
+    "Shaxsga",
+    "Harakcatga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Nima?\" so'roqi qayni turkumiga oid so'zga javob beradi?",
+   "variantlar": [
+    "Narsaga",
+    "Sifatga",
+    "O'ziga",
+    "Harakcatga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "So'roq qo'shimchasi -mi qaysi so'zdan keyin ishlatiladi?",
+   "variantlar": [
+    "Ot so'zidan",
+    "Faqat sifat so'zidan",
+    "Hamma so'zlardan keyin",
+    "Harakat so'zidan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi qo'shimchalardan qaysi biri so'roq mazmunidagi qo'shimcha?",
+   "variantlar": [
+    "-da",
+    "-chi",
+    "-dan",
+    "-ga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Qanday?\" so'roqi qaysi turkumiga oid so'zga javob beradi?",
+   "variantlar": [
+    "Otga",
+    "Soniga",
+    "Sifatga",
+    "Harakatga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda podshohning vazirning o'g'liga nechta savol berilgan?",
+   "variantlar": [
+    "2 ta",
+    "5 ta",
+    "4 ta",
+    "3 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "So'roq so'zlari gap ichida qo'llanganda ortidan qanday belgi qo'yiladi?",
+   "variantlar": [
+    "Undov belgisi",
+    "Nuqta",
+    "So'roq belgisi",
+    "Vergul"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Qancha?\" so'roqi qanday javob ko'rsatadi?",
+   "variantlar": [
+    "Sifatni",
+    "Vaqtni",
+    "Ob'ektni",
+    "Miqdorni"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sifat turkumiga oid so'zlarga qaysi so'roqlar javob beradi?",
+   "variantlar": [
+    "Nima qilmoq?",
+    "Qancha?",
+    "Kim?, Nima?",
+    "Qanday?, Qanaqa?, Qaysi?"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Mening uyim chiroylimi yoki otangnikimi?\" gapida so'roq belgisining asosiy sababi nima?",
+   "variantlar": [
+    "Bolaning bilimini tekshirmoq",
+    "Odam bilmasa, savol beriladi",
+    "Podshoh o'zini bilmoqchi",
+    "Yalg'on gapni bilmoq"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi gaplardan qaysi biri to'g'ri so'roq gapdir?",
+   "variantlar": [
+    "Bugun juda chiroyli kun.",
+    "Men kitobni o'qidim.",
+    "Siz qayerga bormali edi?",
+    "Maktab yopildi."
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Bu uzukdan ham chiroylisini ko'rganmisan?\" gapida -misan qo'shimchasi nima anglatadi?",
+   "variantlar": [
+    "So'roq mazmuni",
+    "Aniq bayonot",
+    "Qaramasa belgisi",
+    "Mufrad son"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnda berilan javoblardan qaysi biri aqli javob hisoblanadi?",
+   "variantlar": [
+    "\"Bola yaxshidir\"",
+    "\"Otamning uyi chiroyli!\"",
+    "\"Uzuk taqilgan qo'l uzukdan chiroyli!\"",
+    "\"Uylar chiroyli\""
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Qaysi?\" so'roqi qaysi misolda to'g'ri ishlatilgan?",
+   "variantlar": [
+    "Qaysi raqam?",
+    "Qaysi vaqtda ketish kerak?",
+    "Qaysi kitobni o'qimoqchi ekansan?",
+    "Qaysi harakat qildi?"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "So'roq so'zi gap boshida kelsa ortidan qanday belgi qo'yiladi?",
+   "variantlar": [
+    "So'roq belgisi",
+    "Vergul",
+    "Nuqta",
+    "Hech qanday belgi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Qancha?\" so'roqi bilan qaysi gap to'g'ridir?",
+   "variantlar": [
+    "Qancha men sevaman?",
+    "Qancha kitob o'qidingiz?",
+    "Qancha men yaxshi?",
+    "Qancha chiroyli?"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Vazirning o'g'li podshohning savollarga qanday javob berganini qanday atash mumkin?",
+   "variantlar": [
+    "Hozirjavobli javob",
+    "Sodda javob",
+    "Noto'g'ri javob",
+    "Qayta so'rash"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnda \"Mendan keyin podshoh bo'lishni istaysanmi?\" gapi nima maqsadda berilgan?",
+   "variantlar": [
+    "Bolani qorquv uchun",
+    "Podshohning o'g'li haqida bilish uchun",
+    "Bolani biror boshiga kelish uchun",
+    "Bolani sinab ko'rish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnda ishlatiladigan so'roq so'zlari qaysi turkumga mansub?",
+   "variantlar": [
+    "Sifatga",
+    "Harakcatga",
+    "Otga",
+    "So'roq so'ziga"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Podshohning bolaga berilgan savollari progressiv ravishda nima ko'rsatadi?",
+   "variantlar": [
+    "Tobora chuqurroq va aqli savollarga o'tish",
+    "Faqat sodda savollar",
+    "Faqat raqamli savollar",
+    "Savol va javoblarning uzunligi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Mening uyim chiroylimi yoki otangnikimi?\" savoli va bola javobining ichida qanday fikrlash turlari ko'rinadi?",
+   "variantlar": [
+    "Ruhiy tanatsioning yodiing",
+    "Sodda taqlid",
+    "Aqli tahlil va salonma javob",
+    "Faqat shodlik"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bola \"Uzuk taqilgan qo'l uzukdan chiroyli\" degan javobda qanday adabiy usuldan foydalanganligi ko'rinadi?",
+   "variantlar": [
+    "Ruhiy halat",
+    "Taqdiriy jumla",
+    "Qiyosiy va metaforali fikrlash",
+    "Hisob-kitab"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "So'roq gaplar hosil qilishning nechta asosiy usuli matnda ko'rsatilgan?",
+   "variantlar": [
+    "To'rtta usul",
+    "Bitta usul",
+    "Uchta usul",
+    "Ikkita usul"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda berilgan \"Podshohning o'g'li mendan ko'ra podshohlikka haqliroq\" javobining mazmuni qanday tahlil qilinishi kerak?",
+   "variantlar": [
+    "Bola shaxs sifatini parchalaydigan aqli javob",
+    "Tahorat",
+    "Faqat javob",
+    "Shunchaki shodlik"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Savol mazmunidagi gaplar bilan undov gaplarning farqi nima?",
+   "variantlar": [
+    "Undov gaplar bilim talab",
+    "Yo'q farqi",
+    "So'roq gaplar bilim talab, undov gaplar his-hayajon talab",
+    "Hech farqi yo'q"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Qanday?\", \"Qanaqa?\", \"Qaysi?\" so'roqlarining umumiy xususiyati nima?",
+   "variantlar": [
+    "Ularning hammasiga bitta javob",
+    "Ularning hammasida sifat turkumiga oid so'zlar javob beradi",
+    "Ularning hammasida harakat javob beradi",
+    "Ularning hammasida raqam javob beradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Podshohning vazirning o'g'liga berilgan uchta savol ichida eng muhim aqli ko'nikma qaysi savolda ko'rinadi?",
+   "variantlar": [
+    "Uchinchi savol",
+    "Ikkinchi savol",
+    "Hamma savol teng",
+    "Birinchi savol"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Bola odobi bilan aziz\" kitobidan olingan ushbu hikoya so'roq belgisining qanday ijtimoiy funksiyasini ko'rsatadi?",
+   "variantlar": [
+    "Faqat tarihiy kontekst",
+    "Adabiy stilistika",
+    "Bilim tekshirish va insonning aqli, adabi xususiyatlarini bilish",
+    "Faqat grammatika qoidalari"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda ishlatiladigan so'roq qo'shimchalari (-mi, -chi, -a, -ya) qanday funktsiyadagi so'zlarga qo'shilishi kerak?",
+   "variantlar": [
+    "Faqat otga",
+    "Barcha so'z turkumiga",
+    "Hisob-kitab bo'yicha",
+    "Faqat harakat so'ziga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

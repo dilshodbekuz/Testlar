@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf O‘qish",
+ "mavzu": "Uch aka va Baxt",
+ "savollar": [
+  {
+   "savol": "\"Men Baxtman!\" kim aytdi?",
+   "variantlar": [
+    "Katta aka",
+    "Baxt",
+    "O'rtancha aka",
+    "Kenja aka"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Baxt qaysi joyda bo'lgan edi?",
+   "variantlar": [
+    "Chuqurda",
+    "O'rmonda",
+    "Shahar bozorida",
+    "Uyda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Katta aka qanday narsani tiladi?",
+   "variantlar": [
+    "Mazali ovqat",
+    "Uy",
+    "Tilla",
+    "Oltin"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'rtancha aka nima tiladi?",
+   "variantlar": [
+    "Uy",
+    "Oltin",
+    "Kitob",
+    "Mazali ovqat"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bahor shabadasi bilan kim uchayotgan edi?",
+   "variantlar": [
+    "O'rtancha aka",
+    "Katta aka",
+    "Kenja aka",
+    "Baxt"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kenja aka Baxtga qanday taklif qildi?",
+   "variantlar": [
+    "Uyga taklif qildi",
+    "Pul berdi",
+    "Chuqurda o'tir",
+    "Qo'lini tutib tortib oldi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Baxt kenja akaga o'zining yonida yurishasiga kimdan ruxsat so'radi?",
+   "variantlar": [
+    "Onasidan",
+    "Allohdan",
+    "Kenja akaning o'zisidan",
+    "Otasidan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Baxt chuqurga qanday tushib ketgan edi?",
+   "variantlar": [
+    "Bahor shabadasi bilan uchayotganda to'fon solib",
+    "Ayrilan ozoda",
+    "Cho'ngi bilan yigrilgan",
+    "Otasining xatosi bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kenja aka Baxtga nima sorasdi?",
+   "variantlar": [
+    "Kimsan o'zi?",
+    "Nima kerak?",
+    "Nega chuqurdassan?",
+    "Qayerdan keldingsan?"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Baxt chuqurdan chiqib ketgach, nima qildi?",
+   "variantlar": [
+    "Yorqin nurlar bilan tovlanib yer yuziga baxt socha boshladi",
+    "Uyga ketdi",
+    "Yugurub ketdi",
+    "Oltin qidirmoqga ketdi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Katta aka va o'rtancha akaning tilishiga qanday farq bor edi?",
+   "variantlar": [
+    "Bittasi oltin, bittasi uy",
+    "Bittasi pul, bittasi uy",
+    "Bittasi pul, bittasi taom",
+    "Bittasi taom, bittasi oltin"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Baxt katta akaning tilishini qanday yeringiha keltirdi?",
+   "variantlar": [
+    "Xotini taqdim etdi",
+    "Pul berdi",
+    "Uy topib berdi",
+    "Kitob olib keldi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Baxt o'rtancha akaga oltin berish uchun nima qildi?",
+   "variantlar": [
+    "Topib berdi",
+    "Sotib oldi",
+    "Yomg'ir solib berdi",
+    "Mulk qildi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'rtancha aka oltinni ko'rib nima aytdi?",
+   "variantlar": [
+    "Yaxshi, lekin oz bo'ldi",
+    "Ajoyib-ku! Shuncha oltin! Bular mening oltinlarim!",
+    "Juda ko'p ekan, yoqmaydi",
+    "Hamma narsa bu oltin bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kenja aka \"Mening qo'limni tut, men seni tortib chiqqaraman\" deb aytganida, Baxt nima sorasdi?",
+   "variantlar": [
+    "Men qo'rqaman",
+    "Yoqmaydi menga",
+    "Yaxshi bo'ladi",
+    "Sen mendan nimani tilagan bo'larding?"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nega katta aka va o'rtancha aka Baxtning Baxt ekani isbotlashini talab qildi?",
+   "variantlar": [
+    "Bilmadilar",
+    "Ishonmadilar",
+    "Dushman bo'lmoqchi edilar",
+    "Xursand emaslardi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kenja aka Baxtning yonida yurishasiga ruxsat berishdagi javobida nima aytdi?",
+   "variantlar": [
+    "Yoqmaydi menga",
+    "Keyin aytarman",
+    "Yo'q, men yashayapman",
+    "Ha, albatta, men juda ham xursand bo'laman"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Baxt kenja akani chuqurdan chiqarganidan keyin uni qanday so'z bilan atalib chiqdi?",
+   "variantlar": [
+    "Rahmat aytdi",
+    "Sherikham bo'lasan",
+    "Yoningda yurinmang",
+    "Dovyurak, oliyjanobsan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Katta akaning tilagi yeringiha kelganida, u nima qildi?",
+   "variantlar": [
+    "Baxtga shukron aytdi",
+    "Uy topib turgan qizga ketdi",
+    "Raqsasa boshladi",
+    "Oltin topib turgan joyga ketdi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matndan ko'ra, Baxt kimning qanday xususiyatini tanidi?",
+   "variantlar": [
+    "O'rtancha akaning tilishini",
+    "Kenja akaning qo'rquvini",
+    "Katta akaning yolg'onini",
+    "Hamma akaning xiyal va istaklarini"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Aka-ukalardagi eng muhim farqi qanday bo'ldi?",
+   "variantlar": [
+    "Kenja aka yaxshilik va mastur bo'lgan",
+    "Katta akasini qiyofasi yaxshi",
+    "O'rtancha akasida ko'p puli bor",
+    "Hammasini shaxsy boyligini ko'rdi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Baxt nur chiqyapti\" deb yozilganining ma'nosi nima?",
+   "variantlar": [
+    "Baxt olovli edi",
+    "Baxt qirmashib ketgan",
+    "Baxt yorqin va yaxshi edi",
+    "Baxt elektr edi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Baxt nima uchun chuqurda qiynalib ketgani haqida dedi?",
+   "variantlar": [
+    "Yosh bo'lgan",
+    "Jismoniy azob chekayotgan",
+    "Och bo'lgan",
+    "Ruhiy azob chekayotgan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Katta aka va o'rtancha akalarning tilishiga nisbatan kenja akaning tilishida nima farq bor?",
+   "variantlar": [
+    "Hammasini bir xil tiladi",
+    "Katta aka taom, o'rtancha oltin tiladi, kenja esa pul tiladi",
+    "Katta aka taom, o'rtancha oltin tiladi, kenja esa faqat sevgi tiladi",
+    "Katta aka pul, o'rtancha taom, kenja oltin tiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Baxt kenja akani \"dovyurak, oliyjanobsan\" deb nomladigi nima anglatadi?",
+   "variantlar": [
+    "Kenja aka balandparvazilik bilan to'lgan",
+    "Kenja aka yaxshilik va shafqat qiluvchi",
+    "Kenja aka juda kichik",
+    "Kenja aka ko'p pul ega"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Baxt kenja akaga \"Sen mendan nimani tilagan bo'larding?\" deb sorasdi - bu nima sabab?",
+   "variantlar": [
+    "Xavfnasiz bo'lmoqchi edi",
+    "Qo'rqib turgan edi",
+    "Kenja akani tekshirmoqchi edi",
+    "Kenja akaning yaxshiligiga amin bo'lmoqchi edi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nega kenja aka Baxtning yonida yurishasiga ruxsat berdi?",
+   "variantlar": [
+    "Baxtni sevib ketdi",
+    "Pul bo'ldi",
+    "Bejaa bo'ldi",
+    "Baxtning yaxshiligiga amin bo'ldi va dovyurak ekanini ko'rdi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matn oxirida \"Endi kenjatoy va Baxt ajralmas, qadrdon bo'lb qolgan edilar\" nima anglatadi?",
+   "variantlar": [
+    "Ular birga yangi uyga yashadilar",
+    "Ular har kunni uchrashadi",
+    "Ular har doim birga yuradila",
+    "Ular bir-birini qadrlab, sevib, e'tiborli bo'ladilar"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Baxt va kenja aka o'rtasida bo'lgan uchrashuvning asosiy o'rni nima?",
+   "variantlar": [
+    "Uy qurilish",
+    "Yaxshilik va sevgi",
+    "Oltin olish",
+    "Pul olish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uch aka va Baxt rivoyatining asosiy ma'nodoshi qanday?",
+   "variantlar": [
+    "Yaxshilik va sevgi haqiqiy baxt",
+    "Aqldan foydalanish kerak",
+    "Boylik muhim emas",
+    "Qo'rquv yo'q bo'lishi kerak"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

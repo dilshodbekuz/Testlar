@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Texnologiya",
+ "mavzu": "Porolon va ipdan yumshoq o'yinchoqlar tayyorlash",
+ "savollar": [
+  {
+   "savol": "Porolon va ipdan yumshoq o'yinchoqlar tayyorlash darsining asosiy maqsadi nima?",
+   "variantlar": [
+    "Sharni pufladirib tashlash",
+    "Xarita chizish",
+    "Porolondan yumshoq o'yinchoqlar yasash",
+    "Televidenini ko'rish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Porolondan qanday shakl tayyorlash kerak?",
+   "variantlar": [
+    "To'g'ri to'rtburchak",
+    "Doira",
+    "Uchburchak",
+    "Oltiburchak"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Baliq qismlarini joylashtirish uchun qanday tartib kerak?",
+   "variantlar": [
+    "Ketma-ketlik tartibi",
+    "Kattadan kichikka",
+    "Teskari tartib",
+    "Ixtiyoriy tartib"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Porolon bo'lagiga nima chizish kerak?",
+   "variantlar": [
+    "Baliq shakli qismlar",
+    "Raqamlar",
+    "Har xil belgiler",
+    "Harflar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'yinchoq yasashda birinchi bosqich nima?",
+   "variantlar": [
+    "Ipni bog'lash",
+    "Porolondan to'g'ri to'rtburchak tayyorlash",
+    "Rasmni to'ldirib bo'yash",
+    "Qirqish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Darsda baliq qismlari nechta bo'ladi?",
+   "variantlar": [
+    "Ikki qism",
+    "Uchta qism",
+    "Bir qism",
+    "To'rta qism"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'yinchoq yasashda qanday vosita ishlatiladi?",
+   "variantlar": [
+    "Faqat qalam",
+    "Qalam va qirqich",
+    "Faqat qirqich",
+    "Faqat chizmacha"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Darsda boshqa jonivorlarni yasash haqida nima aytiladi?",
+   "variantlar": [
+    "Qo'l bermasligi kerak",
+    "Mustaqil ravishda ko'rish mumkin",
+    "Taqiqlangan",
+    "Oila bilan qilish kerak"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Porolondan tayyorlangan o'yinchoqlar nima uchun foydalanadi?",
+   "variantlar": [
+    "Faqat dekor",
+    "Dekor sifatida va o'ynash uchun",
+    "Faqat o'ynash uchun",
+    "Tarix o'rganish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Baliq qismlari qanday materialdan tayyorlanadi?",
+   "variantlar": [
+    "Metall",
+    "Porolon",
+    "Qog'oz",
+    "Plastik"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar porolondan to'g'ri to'rtburchak tayyorlashda xato bo'lsa, nima qilish kerak?",
+   "variantlar": [
+    "Hammasiga ahamiyat bermash",
+    "Boshtan boshlash",
+    "Dars o'qituvchisiga so'rash",
+    "Unga qo'shimcha porolon yopish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Baliq shapini tayyorlagandan keyin qanday davom ettiriladi?",
+   "variantlar": [
+    "To'ldirib bo'yash",
+    "Qirq qo'yish",
+    "Ipga bog'lash",
+    "Rasm chizish va qirqish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Porolondan turli-turli o'yinchoqlar yasash uchun nima bilinishi kerak?",
+   "variantlar": [
+    "Faqat ranglar",
+    "Turli jonivorlaming shakli va qismlari",
+    "Faqat baliq yasash",
+    "Dars vaqti"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'yinchoq chizmalariga asosan qanday qadamda qirqish kerak?",
+   "variantlar": [
+    "Porolonning chegarasi bo'ylab",
+    "Chizilgan chiziqlar bo'ylab",
+    "Ixtiyoriy",
+    "Izohlash sohasi bo'ylab"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Baliq qismlarini ketma-ketlikda joylashtirish nima uchun muhim?",
+   "variantlar": [
+    "To'g'ri va tabiiy jonivor rasmi hosil bo'lishi uchun",
+    "Vaqtni o'tkazish uchun",
+    "Rasm chizish uchun",
+    "Hech nima uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Boshqa jonivorlarni yasaganda baliq yasashdan qanday farq bo'ladi?",
+   "variantlar": [
+    "Shakli va qismlar har xil bo'ladi",
+    "Porolon ishlatilinmaydi",
+    "Hech qanday farq yo'q",
+    "Iplari boshqacha bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'yinchoq yasashda porolondan shape tayyorlarganda qanday qurallar kerak?",
+   "variantlar": [
+    "Vertkalni",
+    "Dasta",
+    "Faqat qalam",
+    "Qirqich va chizmacha"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar baliq qismlarining tartib-tartibi noto'g'ri bo'lsa, o'yinchoqning ko'rinishi qanday bo'ladi?",
+   "variantlar": [
+    "Juda chiroyli bo'ladi",
+    "Baliqga o'xshamasligi mumkin",
+    "Oqilgan bo'ladi",
+    "Hech qanday o'zgarish bo'lmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mustaqil ravishda boshqa jonivorlarni yasab ko'ring buyrugida eng muhim nima?",
+   "variantlar": [
+    "O'qituvchining izni olish",
+    "Buyruqni bajarish",
+    "O'z ixtiyorida jonivor tanlash va yasash",
+    "Shaxmat o'ynash"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Darsda berilgan material va qurallarni to'g'ri ishlatish uchun nima kerak?",
+   "variantlar": [
+    "Otaga so'rash",
+    "Hech narsa kerak emas",
+    "To'liq diqqat va durs-diroya",
+    "Shunchaki ehtiyot bo'lish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Porolondan to'g'ri to'rtburchak shakli tayyorlang va baliq qismlarini chizing deb aytilganda, bu jarayonning asosiy maqsadi nima?",
+   "variantlar": [
+    "Asligar yumshoq o'yinchoq yasashning birinchi bosqichini vujudga keltirish",
+    "Qarashga yoqqan narsani yasash",
+    "Rasmni cho'piga olish",
+    "Faqat vaqt o'tkazish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Baliq jonivoriga porolondan to'g'ri to'rtburchak tanlanganda, bu shakl qanday ahamiyatga ega?",
+   "variantlar": [
+    "Faqat oson bo'lish uchun",
+    "Baliq qismlarini joylashtirish uchun yetarli maydon beradi",
+    "Ixtiyoriy tanlash",
+    "Hech qanday ahamiyatga ega emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar birinchi o'yinchoq muvaffaqiyatli tayyorlangan bo'lsa, boshqa jonivorlarni yasashda qanday usul qo'llaniladi?",
+   "variantlar": [
+    "Butunlay boshqa usul",
+    "O'qituvchiga murojaat qilish",
+    "Faqat kitobdan nusxa olish",
+    "Shunga o'xshash usulni qo'llanish mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Porolondan to'g'ri to'rtburchak shakli tayyorlang, unga baliq shapini chizing va qirqib oling buyrugida qanday ketma-ketlik kuzatiladi?",
+   "variantlar": [
+    "Qirqish → chizish → shape tayyorlash",
+    "Shape tayyorlash → chizish → qirqish",
+    "Hammasini bir vaqtning o'zida bajarish",
+    "Chizish → shape tayyorlash → qirqish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Baliq qismlari nechta qismdan iborat va ularning joylashishi nima uchun muhim?",
+   "variantlar": [
+    "Uchuning barchasi muhim, tabiiy ko'rinish uchun",
+    "Faqat rangi muhim",
+    "Faqat miqdori muhim",
+    "Miqdori muhim emas, joylashishi muhim emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Darsda berilgan turli jonivorlar tayyorlash usuli baliq tayyorlash usuli bilan qanday aloqada?",
+   "variantlar": [
+    "Butunlay boshqa usul",
+    "Shunga o'xshash, porolon va ipdan foydalanib turli jonivorlarni yasash mumkinligini ko'rsatadi",
+    "Hech qanday aloqada emas",
+    "Faqat rasm uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mustaqil ravishda yangi jonivor tasavvur qilib o'yinchoq yasashda o'qituvchi qaysi ko'nikmani rivojlantirishga intiladi?",
+   "variantlar": [
+    "Ijodiy fikirlanish va mustaqil ishlash ko'nikmalarini",
+    "Faqat qirqish ko'nikmasini",
+    "Faqat rasmga chizish",
+    "Vaqt sarfidorlikni"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar porolon bo'lagining o'lchamlari baliq tayyorlash uchun kichik bo'lsa, qanday yechim taklif qilasiz?",
+   "variantlar": [
+    "Baliqni boshqa jonivorga o'zgartirish",
+    "Butunlay boshqa material qo'llash",
+    "Qirqishni to'xtatib qolish",
+    "Bir nechta porolon bo'laklarini birlashtirib qo'llash yoki o'lchamlarni o'zgartirish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Porolon va ipdan yumshoq o'yinchoqlar tayyorlash darsi va boshqa jonivorlarni yasash topshirig'i orasida qanday bog'lanish bor?",
+   "variantlar": [
+    "Birinchisi asosiy usul o'rgatadi, ikkinchisi bu usulni boshqa mavzulariga qo'llash imkoniyatini ko'rsatadi",
+    "Hech qanday bog'lanish yo'q",
+    "Faqat vaqt to'ldirish",
+    "Bittasi bittasiga teng"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yumshoq o'yinchoq yasashda porolon va ipning kombinatsiyasi nima uchun yaxshi tanlov?",
+   "variantlar": [
+    "Boshqa material yo'q",
+    "Faqat arzon",
+    "Yumshoq, xavfsiz va rangarang bo'lishi, hamda oson qayta ishlash mumkin bo'lishi uchun",
+    "Faqat oson"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

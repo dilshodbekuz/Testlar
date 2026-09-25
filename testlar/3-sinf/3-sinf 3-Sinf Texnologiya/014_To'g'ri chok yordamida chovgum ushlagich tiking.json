@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Texnologiya",
+ "mavzu": "To'g'ri chok yordamida chovgum ushlagich tiking",
+ "savollar": [
+  {
+   "savol": "Darsning mavzusi nima?",
+   "variantlar": [
+    "To'g'ri chok yordamida chovgum ushlagich tiking",
+    "To'g'ri chok yordamida rang qilish",
+    "To'g'ri chok yordamida bezatish",
+    "To'g'ri chok yordamida to'qish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chovgum ushlagich nima?",
+   "variantlar": [
+    "Turli xil ko'rinishdagi ushlagich",
+    "Bitta rang bo'lgan ushlagich",
+    "Bitta shaklda bo'lgan ushlagich",
+    "Bitta kattalikda bo'lgan ushlagich"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'g'ri chok yordamida tikling uchun qanday narsalar kerak?",
+   "variantlar": [
+    "Faqat chok",
+    "Faqat ibrayu va ipak",
+    "Faqat ipak",
+    "To'g'ri chok va chovgum ushlagich"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ushlagichni qanday qilish mumkin?",
+   "variantlar": [
+    "Yoqish",
+    "Sindirish",
+    "O'zgartirish",
+    "Kuydirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chovgum ushlagichning shakli...",
+   "variantlar": [
+    "Faqat kichiklashtiriladigan",
+    "Faqat kattalashtiriladigan",
+    "O'zgartirilishi mumkin",
+    "Aslo o'zgarmasligi kerak"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mustaqil ishda nima qilish kerak?",
+   "variantlar": [
+    "Kitob o'qish",
+    "Ushlagichni tikling",
+    "Rasm chizish",
+    "Balandlikni o'lchash"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qulay ushlagich qanday bo'ladi?",
+   "variantlar": [
+    "Juda katta",
+    "Foydalanishga qulay",
+    "Juda og'ir",
+    "Juda kichik"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Darsda qanday bo'limlar bor?",
+   "variantlar": [
+    "Faqat nazariy",
+    "Faqat o'yin",
+    "Nazariy va mustaqil ish namunalari",
+    "Faqat amaliy"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ushlagichni tayyorlash nima?",
+   "variantlar": [
+    "Ushlagichni foydalanishga tayyorlab qo'yish",
+    "Ushlagichni kesish",
+    "Ushlagichni rang qilish",
+    "Ushlagichni yuvish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'g'ri chok nima?",
+   "variantlar": [
+    "Tikling uchun asbob",
+    "Kitob",
+    "Rasm",
+    "Nayza turi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'g'ri chok yordamida chovgum ushlagich tikilsa, natija nima bo'ladi?",
+   "variantlar": [
+    "Ushlagich kichik bo'ladi",
+    "Ushlagich katta bo'ladi",
+    "Ushlagich to'g'ri shaklda bo'ladi",
+    "Ushlagich rang o'zgaradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Chovgum ushlagichning shakliga qanday o'zgartirishlar kiritish mumkin?",
+   "variantlar": [
+    "Faqat kattaligini o'zgartirish",
+    "Turli xil shakllarga o'zgartirish",
+    "Faqat rangni o'zgartirish",
+    "Aslo o'zgartirish mumkin emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ushlagichlarni tayyorlab qo'yishda qanday jarayon bo'ladi?",
+   "variantlar": [
+    "Ushlagichni foydalanishga tayyorlab qo'yish",
+    "Ushlagichni kuydirish",
+    "Ushlagichni kesish",
+    "Ushlagichni rang qilish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qulay ushlagich tanlashda nima hisobga olish kerak?",
+   "variantlar": [
+    "Faqat kattaligi",
+    "Foydalanishning qulayli",
+    "Faqat rangi",
+    "Faqat qiymati"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mustaqil ish namunalarini ko'rib, nima o'rganish mumkin?",
+   "variantlar": [
+    "Aslo hech nima",
+    "Ushlagichning turli shakllari",
+    "Faqat rang",
+    "Faqat tikilish usuli"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ushlagichni tayyorlab qo'yishdan keyin nima qilish kerak?",
+   "variantlar": [
+    "Ushlagichni kuydirish",
+    "Ushlagichni yoqish",
+    "Ushlagichni tikling",
+    "Ushlagichni sindirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tikling jarayonida to'g'ri chokni qanday ishlatish kerak?",
+   "variantlar": [
+    "To'g'ri chok orqali ushlagichni to'g'ri tikling",
+    "Qattiq ushlagichni chiqarish",
+    "Chokni bukling",
+    "Chokni suvga soling"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Turli xil ushlagichlardan qaysi birini tanlash kerak?",
+   "variantlar": [
+    "Eng kichik ushlagichni",
+    "O'z xoni uchun qulay bo'lgan ushlagichni",
+    "Eng katta ushlagichni",
+    "Birinchi ko'rgan ushlagichni"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Chovgum ushlagichni o'zgartirish jarayoni nima?",
+   "variantlar": [
+    "Rangni o'zgartirish mumkin, lekin shakli o'zgarmasligi kerak",
+    "Aslo o'zgartirish mumkin emas",
+    "Shapini o'zgartirish mumkin, lekin rangi o'zgarmasligi kerak",
+    "Turli xil shakllarga o'zgartirish mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mustaqil ish namunalari nima uchun kerak?",
+   "variantlar": [
+    "Darsni chuqur o'rganish uchun",
+    "Tikling usulini o'rganish uchun",
+    "O'z xonini bezatish uchun",
+    "Vaqtni o'tkazish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "To'g'ri chok bilan tikilgan chovgum ushlagichining eng muhim xususiyati qanday?",
+   "variantlar": [
+    "Faqat rangi",
+    "Faqat kattaligi",
+    "Shapining to'g'riligi va sifati",
+    "Faqat qiymati"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Chovgum ushlagichning turli shakllari qayerlarda ko'rinadi?",
+   "variantlar": [
+    "Faqat kitobda",
+    "Faqat darsda",
+    "Hech yerdda ko'rinmaydi",
+    "Mustaqil ish namunalarida va o'qituvchining namunasida"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ushlagichni tayyorlash va tikling natijasi orasida qanday bog'liqlik bor?",
+   "variantlar": [
+    "Faqat rangga ta'sir qiladi",
+    "Hech qanday bog'liqlik yoq",
+    "Faqat vaqtga ta'sir qiladi",
+    "Tayyorlanish sifati tikling natijasiga bevosita ta'sir qiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qulay ushlagichni qanday tanlash kerak?",
+   "variantlar": [
+    "Eng qimmati shodlarini olish",
+    "Iloji hol qadar tez tanlash",
+    "Sinab ko'rib, o'z xoniga mos bo'lganini tanlash",
+    "Eng arzon o'rinlari izlash"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dars matnida \"Ularni tayyorlab ko'ring\" buyrug'i nima anglatadi?",
+   "variantlar": [
+    "Ushlagichlarni yuvish",
+    "Ushlagichlarni rang qilish",
+    "Ushlagichlarni kesish",
+    "Ushlagichlarni tayyorlash va turli shakllarda tikilish uchun tayyorlash"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mustaqil ish namunalarini o'rganib, tikling sifatining qanday omillari muhim ekanini bilish mumkin?",
+   "variantlar": [
+    "Ushlagichning sifati, chokni to'g'ri qo'llash va maistrlikni birlashtirish",
+    "Faqat chok turining ko'rinishi",
+    "Faqat maishiy sharoitlar",
+    "Faqat ipning rangi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "To'g'ri chok bilan tikilgan ushlagichlar qanday jihatlari bilan boshqa ushlagichlardan farq qiladi?",
+   "variantlar": [
+    "Faqat kattaligida",
+    "Faqat rangida",
+    "Hech qanday farq qilmaydi",
+    "Shakl to'g'riligi, sifati va chizmaalligi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tikling jarayonida chovgum ushlagichni qanday xususiyatlari o'zgartirilishi mumkin?",
+   "variantlar": [
+    "Shaki, o'lchami va bezatish xususiyatlari o'zgartiriladi",
+    "Aslo hech nima o'zgarmasligi kerak",
+    "Faqat rangi o'zgaradi",
+    "Faqat kattaligi o'zgaradi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ushlagichning turli shakllarini osongina tikling uchun nima zarur?",
+   "variantlar": [
+    "Hech nima qilish shart emas",
+    "Faqat kitob o'qish",
+    "Faqat nazariyani o'qish",
+    "Mustaqil ish namunalarini diqqat bilan ko'rib, amaliy mashg'ulotni bajarish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qulay ushlagich tanlash va mustaqil ish bajarilishi orasida qanday bog'liqlik mavjud?",
+   "variantlar": [
+    "Faqat ushlagichning ranga ta'sir qiladi",
+    "Bog'liqlik umuman yoq",
+    "Mustaqil ish qo'lga bo'lmasa, ushlagich qulay bo'ladi",
+    "Qulay ushlagich bo'lsa, mustaqil ish yanada yaxshi va sifatli bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

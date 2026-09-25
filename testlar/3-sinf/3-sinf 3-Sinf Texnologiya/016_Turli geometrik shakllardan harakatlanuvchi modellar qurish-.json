@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Texnologiya",
+ "mavzu": "Turli geometrik shakllardan harakatlanuvchi modellar qurish-yasash",
+ "savollar": [
+  {
+   "savol": "Harakatlanuvchi mashina modelini yasashda asosiy material sifatida nimadan foydalaniladi?",
+   "variantlar": [
+    "O'simlik tolasidan",
+    "Temir materialdan",
+    "Bo'sh qutichalardan",
+    "Sement bilan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mashina modelining g'ildiraklari qaysi materialdan yasaladi?",
+   "variantlar": [
+    "Temir tel",
+    "Yog'oc",
+    "Qag'oz",
+    "Plastmassa qopqoqdan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Model yasashda mashina qismlarini qanday belgilash kerak?",
+   "variantlar": [
+    "Qisqa qilish",
+    "To'g'ri belgilash",
+    "Kattalashtirish",
+    "Faqat rangli qilish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Haydovchi odamlarni qayerga yetib oladi?",
+   "variantlar": [
+    "Parkga",
+    "O'z manzillariga",
+    "Bozorga",
+    "Maktabga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Haydovchi qaysi vaqt ish qiladi?",
+   "variantlar": [
+    "Faqat kuniga",
+    "Haftada bir kun",
+    "Erta tongdan kun botgunga qadar",
+    "Faqat tunda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Haydovchilik kasbi qaysi sifatlarni talab etadi?",
+   "variantlar": [
+    "Ziyraklik va hushyorlik",
+    "Yaxshi qo'l",
+    "Tez yugurish",
+    "Yaxshi ko'rish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bo'sh qutichalarning o'lchamlari qanday bo'ladi?",
+   "variantlar": [
+    "Kichik",
+    "Juda katta",
+    "O'rtacha",
+    "Juda kichik"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Model yasashda qismlarni belgilash nima uchun kerak?",
+   "variantlar": [
+    "Ularning vazifasini aniqlash",
+    "Rangli qilish",
+    "Raqam o'rgatish",
+    "Vaqt o'tkazish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Plastmassa qopqoq modelda qayerda ishlatiladi?",
+   "variantlar": [
+    "Rangda",
+    "G'ildirakda",
+    "Qopqoqda",
+    "Duvorda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Harakatlanuvchi mashina modeli qanday yaratiladi?",
+   "variantlar": [
+    "Geometrik shakllardan",
+    "Faqat rangli",
+    "Faqat katta",
+    "Faqat kichik"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar g'ildirak yasashda plastmassa qopqoq ishlatmasak, model qanday bo'ladi?",
+   "variantlar": [
+    "Yo'qoladi",
+    "Tez harakatlanadi",
+    "Harakatlanmasligi mumkin",
+    "Katta bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bo'sh qutichalar modelida qaysi rol o'ynaydi?",
+   "variantlar": [
+    "Faqat tovush",
+    "Faqat rang",
+    "Faqat o'ynatiladi",
+    "Asosiy qurilish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Haydovchilik kasbi nega ziyraklikni talab etadi?",
+   "variantlar": [
+    "Yo'lda bexatar bo'lish",
+    "Gap qilish",
+    "Tez yugurish",
+    "Yugura bilish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Model yasashda o'lchovlar (1 sm, 3,5 sm, 5 sm, 10 sm) nima uchun zarur?",
+   "variantlar": [
+    "Yo'lni o'tkazish",
+    "Faqat raqam o'rgatish",
+    "Qismlarning o'lchamini belgilash",
+    "Rang tanlash"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qutichalardan yasalgan modeli qaysi jarayon bilan boshlansa bo'ladi?",
+   "variantlar": [
+    "Qutichalarni tayyorlash",
+    "Rangli qilish",
+    "Nom o'ylash",
+    "Harakat sinash"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mashina qismlarini to'g'ri belgilash nima uchun muhim?",
+   "variantlar": [
+    "Modelning qurilishi aniq bo'ladi",
+    "Shovqin yaratish",
+    "Vaqt o'tkazish",
+    "O'yin qiziqarli"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Plastmassa qopqoqni g'ildirakka ishlatishning afzalligi nima?",
+   "variantlar": [
+    "Qimmat bo'ladi",
+    "Rang ko'rinadi",
+    "Og'ir bo'ladi",
+    "Harakatlanuvchi bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bo'sh qutichalardan model yasashda qaysi bilimlar birlashadi?",
+   "variantlar": [
+    "Geometrik shakllar va qurilish",
+    "Rang sayi",
+    "Matn o'qish",
+    "Yozish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Harakatlanuvchi mashina modeli qaysi qismlarga bo'linadi?",
+   "variantlar": [
+    "Yuqori va pastki",
+    "Katta va kichik",
+    "Rangli va qarang-qora",
+    "Asosiy, g'ildiraklar va boshqalar"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Model yasashda geometrik shakllarning ahamiyati nima?",
+   "variantlar": [
+    "Faqat rang",
+    "Faqat o'yin",
+    "Faqat shovqin",
+    "Qurilashni ta'minlash"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Haydovchi va harakatlanuvchi mashina modeli o'rtasida qanday bog'liqlik bor?",
+   "variantlar": [
+    "Faqat rang ta'sir qiladi",
+    "Bog'lanishsoni yo'q",
+    "Haydovchi haqiqiy mashinani boshqaradi, model esa o'quv nusxasi",
+    "Faqat o'lchovlar ta'sir qiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bo'sh qutichalar, plastmassa qopqoq va geometrik shakllardan model yasasangiz, nima hosil bo'ladi?",
+   "variantlar": [
+    "Haqiqiy mashinaning ko'chirib tasvirlangan namunasi",
+    "Faqat ranglar",
+    "Faqat o'yunchoq",
+    "Faqat nomi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qismlarni belgilash va plastmassa qopqoqni g'ildirakda ishlatiish o'rtasida qanday munosabat bor?",
+   "variantlar": [
+    "Bog'lanishsoni yo'q",
+    "Faqat o'lchovlar ta'sir qiladi",
+    "Faqat rang ta'sir qiladi",
+    "Aniq qismlar va to'g'ri materiallar modelning ishlashini ta'minlaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Haydovchilik ziyraklik talab etsa, model yasashda qanday aks etadi?",
+   "variantlar": [
+    "Bog'lanishsoni yo'q",
+    "Faqat o'lchovlar ta'sir qiladi",
+    "Faqat rang ta'sir qiladi",
+    "Haydovchi xavfdan o'z, modelni to'g'ri va ehtiyotkorlik bilan yasash kerak"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar g'ildiraklar ishlamasa, model qanday bo'ladi va sababi nima?",
+   "variantlar": [
+    "Model yo'qoladi",
+    "Model harakatlanmaydi, chunki g'ildiraklar harakatlanishni ta'minlaydi",
+    "Model tez harakatlanadi",
+    "Model rang ko'rinadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bo'sh qutichalar, plastmassa qopqoq va geometrik shakllardan model yasashda qaysi bilimlar zarur?",
+   "variantlar": [
+    "Hech qanday bilim",
+    "Faqat nomi haqida",
+    "Geometrik shakllar, o'lchovlar, qurilish va mexanika haqida bilim",
+    "Faqat rang haqida"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Haydovchi erta tongdan kun botgunga qadar ishlaydi, shunga o'xshab mashina qanday xislatga ega bo'lishi kerak?",
+   "variantlar": [
+    "Faqat rang ko'rinishi",
+    "Faqat tez bo'lishi",
+    "Faqat katta bo'lishi",
+    "Uzun vaqt ishlay turishi va turli sharoitda to'g'ri ishlashi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Geometrik shakllar, o'lchovlar, plastmassa, qutichalar va g'ildiraklar o'rtasida qanday munosabat bor?",
+   "variantlar": [
+    "Bular birgalikda harakatlanuvchi, to'g'ri ishlaychi modeli yaratadi",
+    "Faqat nomi ta'sir qiladi",
+    "Bog'lanishsoni yo'q",
+    "Faqat rang ta'sir qiladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'quvchi bo'sh qutichalardan model yasaganda nima o'rganadi?",
+   "variantlar": [
+    "Faqat rangni",
+    "Faqat nomini",
+    "Hech narsa",
+    "Geometrik shakllarni, qurilishni, mexanikani va ijodiy fikrni"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Haydovchilik ziyraklik talab etsa, model yasashda qaysi bilimlar asosiy bo'ladi?",
+   "variantlar": [
+    "Faqat nomi haqida",
+    "Faqat rang haqida",
+    "To'g'ri qurilish, diqqat, ehtiyotkorlik va mexanika haqida bilim",
+    "Faqat o'lchov haqida"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

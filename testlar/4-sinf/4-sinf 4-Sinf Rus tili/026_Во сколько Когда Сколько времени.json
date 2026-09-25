@@ -1,0 +1,337 @@
+{
+ "sinf": "4-sinf",
+ "kitob": "4-sinf 4-Sinf Rus tili",
+ "mavzu": "Во сколько? Когда? Сколько времени?",
+ "savollar": [
+  {
+   "savol": "Soatning nechta strelkasi bor?",
+   "variantlar": [
+    "ikkita",
+    "to'rttita",
+    "uchtita",
+    "beshtita"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Minuta strelkasi nimani ko'rsatadi?",
+   "variantlar": [
+    "kunni",
+    "minutni",
+    "sekundni",
+    "soatni"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Baxrom necha soatda o'rnatiladi?",
+   "variantlar": [
+    "8:00",
+    "9:00",
+    "7:00",
+    "6:00"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Urinlar necha soatda boshlanadi?",
+   "variantlar": [
+    "7:00",
+    "8:00",
+    "9:00",
+    "10:00"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Baxrom necha soatda uxlashga boradi?",
+   "variantlar": [
+    "10:00",
+    "8:00",
+    "9:00 oqshomda",
+    "11:00"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir minut nechta sekunddan iborat?",
+   "variantlar": [
+    "120",
+    "60",
+    "90",
+    "30"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir soat nechta minutdan iborat?",
+   "variantlar": [
+    "120",
+    "60",
+    "90",
+    "30"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir sut nechta soatdan iborat?",
+   "variantlar": [
+    "12",
+    "36",
+    "18",
+    "24"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Soat strelkasi nimani ko'rsatadi?",
+   "variantlar": [
+    "soatni",
+    "minutni",
+    "sekundni",
+    "masofani"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sut nima?",
+   "variantlar": [
+    "kun va tun",
+    "tun",
+    "kun",
+    "12 soat"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Baxrom ertalab qanday ish qiladi?",
+   "variantlar": [
+    "hammasini qiladi",
+    "nonushtaydi",
+    "o'rnatiladi",
+    "zaraqka qiladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnda nechta aniq soat raqami bilan ko'rsatilgan?",
+   "variantlar": [
+    "4",
+    "2",
+    "3",
+    "5"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sekunda strelkasi qanday harakatlanadi?",
+   "variantlar": [
+    "o'rtacha",
+    "harakatsiz",
+    "sekin",
+    "juda tez"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Soat strelkalari qaysi shaklda harakat qiladi?",
+   "variantlar": [
+    "kvadratga",
+    "doiraga",
+    "to'g'ri chiziqda",
+    "uchburchakka"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Baxrom kunning o'rtasida uyida nechta asosiy ish qiladi?",
+   "variantlar": [
+    "4",
+    "2",
+    "1",
+    "3"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Minuta strelkasi soat strelkasiga nisbatan qanday harakat qiladi?",
+   "variantlar": [
+    "teng",
+    "sekinroq",
+    "tezroq",
+    "turganday"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matn 'распорядок дня' qanday vaqtlarni o'z ichiga oladi?",
+   "variantlar": [
+    "oqshom",
+    "ertalab",
+    "kunning o'rtasi",
+    "hammasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Baxrom o'qituvchilardan keyin daxol qanday ish qiladi?",
+   "variantlar": [
+    "uxlashga boradi",
+    "mamalarini qiladi",
+    "do'stlar bilan o'ynaydi",
+    "darhol uyiga boradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Ona medlenno dvizhetsa' qaysi strelka haqida aytilgan?",
+   "variantlar": [
+    "hammasi",
+    "minuta strelkasi",
+    "soat strelkasi",
+    "sekunda strelkasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Baxrom oqshomda mamaga yordam berish dan keyin nima qiladi?",
+   "variantlar": [
+    "o'qiydi",
+    "nonushtaydi",
+    "deda bilan o'ynaydi",
+    "teleki ko'radi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnda Baxromning birinchi aniq vaqt ko'rsatilgan ishi nima?",
+   "variantlar": [
+    "nonushtash",
+    "uxlash",
+    "urinlar",
+    "o'rnatilish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar o'rnatilish 7:00, urinlar 8:00 da bo'lsa, ular oralig'i nechcha?",
+   "variantlar": [
+    "1,5 soat",
+    "1 soat",
+    "30 minut",
+    "2 soat"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir kunni (24 soat) nechta qismga bo'lish mumkin?",
+   "variantlar": [
+    "3 qismga",
+    "5 qismga",
+    "4 qismga",
+    "2 qismga"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Samaya tonkaya strelka' - bu qaysi strelka?",
+   "variantlar": [
+    "katta strelka",
+    "minuta strelkasi",
+    "soat strelkasi",
+    "sekunda strelkasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda 'Qachon?' savoli javobida nimalari ko'rsatilgan?",
+   "variantlar": [
+    "faqat raqamlar",
+    "yo'q",
+    "raqamlar va vaqt so'zlari",
+    "faqat vaqt so'zlari"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Baxrom 7:00 dan 9:00 gacha nechcha soat bilan ish qiladi?",
+   "variantlar": [
+    "2 soat",
+    "1 soat",
+    "3 soat",
+    "2,5 soat"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Soat strelkalarining harakatida qaysi tezroq?",
+   "variantlar": [
+    "minuta tezroq",
+    "minuta va sekunda teng",
+    "soat tezroq",
+    "sekunda tezroq"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Baxromning oqshomda (9:00 gacha) bo'lgan hammasidan nechta ish bor?",
+   "variantlar": [
+    "3",
+    "2",
+    "4",
+    "5"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Chasy stoiyat, chasy speshat' - bu qanday o'yboshlar?",
+   "variantlar": [
+    "vaqtning to'g'ri o'tishi",
+    "vaqt tilida o'yboshlar",
+    "soat harakati",
+    "vaqtning noto'g'ri o'tishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda nechta raqamli soat vaqti berilgan?",
+   "variantlar": [
+    "4",
+    "2",
+    "5",
+    "3"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

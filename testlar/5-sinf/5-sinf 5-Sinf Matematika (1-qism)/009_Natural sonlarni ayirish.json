@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Matematika (1-qism)",
+ "mavzu": "Natural sonlarni ayirish",
+ "savollar": [
+  {
+   "savol": "Ikki sonning ayirmasi deb nimaga aytiladi?",
+   "variantlar": [
+    "Ko'paytirishning teskari amalidir",
+    "Ikki sonning qo'shiluvchilarini topishga deyiladi",
+    "Birinchi son ikkinchisidan qanchaga ko'p ekanligini yoki ikkinchi son birinchisidan qanchaga kam ekanligini anglatadi",
+    "Sonlarni sonlar nuridagi o'rnini belgilashdir"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "72 - 48 = ? tenglikda ayirmasi qaysi son?",
+   "variantlar": [
+    "48",
+    "72",
+    "120",
+    "24"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "72 - 48 = 24 tenglikda kamayuvchi qaysi son?",
+   "variantlar": [
+    "48",
+    "24",
+    "20",
+    "72"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Natural sonlarni ayirishda qaysi qoida bajarilishi shart?",
+   "variantlar": [
+    "Kamayuvchi ayiriluvchidan kichik bo'lmasligi kerak",
+    "Sonlar faqat bir xonali bo'lishi kerak",
+    "Ayiriluvchi kamayuvchidan doim katta bo'ladi",
+    "Kamayuvchi ayiriluvchidan kichik bo'lishi mumkin"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "8 - 5 = ? ayirishning natijasi qancha?",
+   "variantlar": [
+    "8",
+    "5",
+    "13",
+    "3"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ayirishni hisoblashdan so'ng qo'shish amali bilan tekshirish uchun nima qilish kerak?",
+   "variantlar": [
+    "Ayirmani ayiriluvchi bilan qo'shish",
+    "Kamayuvchini ayirmaga qo'shish",
+    "Ayiriluvchini kamayuvchiga qo'shish",
+    "Ikkita ayirmani qo'shish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "654 - 444 ayirishni amalga oshirib bo'ladimi?",
+   "variantlar": [
+    "Yo'q, bu ayirish mumkin emas",
+    "Ha, chunki 654 > 444",
+    "Ha, faqat sonlar bir xonali bo'lganda",
+    "Yo'q, chunki 654 < 444"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "0 - 42 ayirishni amalga oshirib bo'ladimi?",
+   "variantlar": [
+    "Ha, natijasi 0",
+    "Yo'q, kamayuvchi ayiriluvchidan kichik",
+    "Ha, natijasi 42",
+    "Ha, natijasi -42"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kitob 72 betdan iborat va 48 beti o'qildi. O'qilmay qolgan betlar sonini topish uchun qaysi amalni bajarish kerak?",
+   "variantlar": [
+    "48 + 72",
+    "48 - 72",
+    "72 + 48",
+    "72 - 48"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A(8) nuqtadan chapga qarab 5 ta birlik kesma sanaganda qaysi nuqtaga kelamiz?",
+   "variantlar": [
+    "B(8)",
+    "B(5)",
+    "B(13)",
+    "B(3)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sonlar nurida M(15) nuqtani belgiladik. Undan 7 birlik chapda joylashgan T nuqtaning koordinatasi qancha?",
+   "variantlar": [
+    "7",
+    "8",
+    "15",
+    "22"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "C nuqta AB kesmada yotadi. AB = 48 sm va CB = 29 sm ekanligi ma'lum bo'lsa, AC kesma uzunligi qancha?",
+   "variantlar": [
+    "77 sm",
+    "29 sm",
+    "19 sm",
+    "48 sm"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sonlar nuridagi A(0) va B(14) nuqtalar orasidagi masofani toping.",
+   "variantlar": [
+    "28",
+    "7",
+    "0",
+    "14"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir soat davomida birinchi robot 1745 ta, ikkinchi robot 2100 ta detalga ishlov berdi. Ikkinchi robot birinchisiga qaraganda nechta ko'p detalga ishlov bergan?",
+   "variantlar": [
+    "1745 ta",
+    "355 ta",
+    "2100 ta",
+    "3845 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Avtomobil 1050 km masofani bosib o'tishi lozim. Agar birinchi kuni 685 km yurgan bo'lsa, yana necha km yo'l yurishi kerak?",
+   "variantlar": [
+    "1735 km",
+    "1050 km",
+    "365 km",
+    "685 km"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "24 + 48 = 72 yig'indisini chamalab tekshirganda (20 + 50) qaysi yaqin qiymat hosil bo'ladi?",
+   "variantlar": [
+    "70",
+    "50",
+    "72",
+    "100"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "574 - 382 = 192 ayirmani chamalab tekshirganda (600 - 400) qaysi yaqin qiymat hosil bo'ladi?",
+   "variantlar": [
+    "200",
+    "174",
+    "250",
+    "192"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Plastik kartada 125 500 so'm pul bor edi. Do'kondan 25 950 so'mlik xarid qilindi. Kartada necha so'm pul qoldi?",
+   "variantlar": [
+    "125 500 so'm",
+    "151 450 so'm",
+    "99 550 so'm",
+    "25 950 so'm"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2158 - 599 = 1559 bo'lsa, qo'shish amali bilan tekshirganda (1559 + 599) natija qancha bo'ladi?",
+   "variantlar": [
+    "1559",
+    "2158",
+    "599",
+    "1960"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 litr suvning massasi 1000 g. 1 litr benzinning massasi undan 270 g kam. 1 litr benzinning massasi qancha?",
+   "variantlar": [
+    "1270 g",
+    "1000 g",
+    "270 g",
+    "730 g"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jirafaning bo'yi 430 sm. Zebraning bo'yi undan 274 sm qisqa. Zebraning bo'yini toping.",
+   "variantlar": [
+    "274 sm",
+    "430 sm",
+    "156 sm",
+    "704 sm"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "AB kesma uzunligi 43 sm. C va D nuqtalar AB kesmada, D nuqta C va B orasida yotadi. AC = 15 sm, DB = 19 sm bo'lsa, CD kesma uzunligini toping.",
+   "variantlar": [
+    "19 sm",
+    "43 sm",
+    "9 sm",
+    "28 sm"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "ABCD to'rtburchakning perimetri 100 sm. AB = 44 sm, BC tomondan 15 sm qisqa, CD tomondan esa 8 sm uzun. AD tomon uzunligini toping.",
+   "variantlar": [
+    "21 sm",
+    "29 sm",
+    "44 sm",
+    "6 sm"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sonlar nuridagi A(0), C(30), D(70), B(90) nuqtalar orasida A va D nuqtalar orasidagi masofani toping.",
+   "variantlar": [
+    "60",
+    "90",
+    "30",
+    "70"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "C nuqta AB kesmada yotadi. AC = 32 sm, CB = 18 sm. AB kesma uzunligi qancha?",
+   "variantlar": [
+    "32 sm",
+    "50 sm",
+    "14 sm",
+    "18 sm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "534 + 129 = 663 yig'indisini chamalab tekshirganda (500 + 100) qaysi yaqin qiymat hosil bo'ladi?",
+   "variantlar": [
+    "663",
+    "700",
+    "600",
+    "534"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "65 432 - 12 345 = 53 087 ayirishni bajarib, natijani qo'shish amali bilan tekshirganda (53 087 + 12 345) natijalari qancha bo'ladi?",
+   "variantlar": [
+    "12 345",
+    "53 087",
+    "65 432",
+    "77 777"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sonlar nuridagi A(12) va B(24) nuqtalar belgilangan. C nuqta A va B orasida yotadi va AC = 6. CB masofasi qancha?",
+   "variantlar": [
+    "12",
+    "18",
+    "24",
+    "6"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sulton Kozenning bo'yi 2 m 46 sm (246 sm). Xi Ping Pingning bo'yi 74 sm. Sulton Xidan qancha uzun?",
+   "variantlar": [
+    "74 sm",
+    "320 sm",
+    "246 sm",
+    "172 sm"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "AB kesma uzunligi 43 sm. C va D nuqtalar AB kesmada, D nuqta C va B orasida yotadi. AD = 28 sm, CB = 20 sm bo'lsa, CD kesma uzunligini toping.",
+   "variantlar": [
+    "28 sm",
+    "20 sm",
+    "43 sm",
+    "5 sm"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

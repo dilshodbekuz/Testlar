@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Rus tili",
+ "mavzu": "Школьные принадлежности",
+ "savollar": [
+  {
+   "savol": "Portfel maktabga nima olib boriladigan buyumlarni saqlash uchun?",
+   "variantlar": [
+    "Noshta",
+    "Darsliklar va darsga kerak bo'ladigan buyumlar",
+    "Oyunchoqlar",
+    "O'yin-kulgi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Uchebnik qayerda qo'llaniladi?",
+   "variantlar": [
+    "Faqat uyda",
+    "Yo'q, foydalanilmaydi",
+    "Maktabda darslarda",
+    "Faqat 1-sinfda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dnevnik kim tomondan qo'llaniladi?",
+   "variantlar": [
+    "O'qituvchilar baholash uchun",
+    "Ota-onalar",
+    "Maktab direktori",
+    "Roquvchilar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Penalda nima saqlanadi?",
+   "variantlar": [
+    "Kitoblar",
+    "Kiyimlar",
+    "Noshta",
+    "Ruchka, karandash va boshqa yozish vositalari"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tetrad nima uchun zarur?",
+   "variantlar": [
+    "Rasim chizish uchun",
+    "Darslarda yozish va mashqlar uchun",
+    "Baholash uchun",
+    "Kitob o'qish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ruchka asosan nima uchun qo'llaniladi?",
+   "variantlar": [
+    "Faqat plastilinga",
+    "Faqat rasim chizish uchun",
+    "Matni yozish uchun",
+    "Faqat rang berish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Karandash qayda ishlatilaди?",
+   "variantlar": [
+    "Faqat rasm chizish",
+    "Faqat jigarrang rangda",
+    "Faqat matematikada",
+    "Yozish va rasim chizish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kistochka qaysi kabineti uchun zarur?",
+   "variantlar": [
+    "Rus tili kabinetida",
+    "Matematika kabinetida",
+    "Risovka kabinetida",
+    "Ingliz tilida"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Floumaster nima uchun kerak?",
+   "variantlar": [
+    "Rangli rasm chizish uchun",
+    "Dnevnik belgilash uchun",
+    "Tetrada yozish uchun",
+    "Chiziq chizish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Album nima uchun qo'llaniladi?",
+   "variantlar": [
+    "Dnevnik o'rniga",
+    "Portfel saqlash uchun",
+    "Rasm chizish uchun",
+    "Tetrad o'rniga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rasm chizish darsida roquvchiga qaysi to'rt asosiy buyum kerak?",
+   "variantlar": [
+    "Album, karandash, floumaster, kistochka",
+    "Faqat karandash",
+    "Faqat tetrad",
+    "Ruchka, penal, lineyka"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Darslarda yozish uchun minimal nima kerak?",
+   "variantlar": [
+    "Ruchka, tetrad, dnevnik",
+    "Faqat ruchka",
+    "Album va karandash",
+    "Ruchka va tetrad"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kitob o'qish uchun eng zarur buyum qaysi?",
+   "variantlar": [
+    "Tetrad",
+    "Lineyka",
+    "Ruchka",
+    "Kitob yoki uchebnik"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Natasha qanday rangda portfelga ega?",
+   "variantlar": [
+    "Jigarrang",
+    "Ko'k",
+    "Sari",
+    "Qizil"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sasha portfeli qanday rang?",
+   "variantlar": [
+    "Qizil",
+    "Ko'k",
+    "Sari",
+    "Jigarrang"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kolya karandashi qanday rang?",
+   "variantlar": [
+    "Qizil",
+    "Sari",
+    "Ko'k",
+    "Jigarrang"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dialoida bola nima yo'qligi sababli rasm chiza olmadi?",
+   "variantlar": [
+    "Ruchkasi",
+    "Karandashi",
+    "Dnevniki",
+    "Tetradsi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Stihote gribda nima bor?",
+   "variantlar": [
+    "Bosh",
+    "Ruchka",
+    "Shlyapka",
+    "Oyoq"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Stihote igolkada nima bor deyilgan?",
+   "variantlar": [
+    "Ruchka",
+    "Oyoq",
+    "Ushko",
+    "Shlyapka"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Stihote stolda nima bor?",
+   "variantlar": [
+    "Shlyapka",
+    "Ruchka",
+    "Oyoq",
+    "Ushko"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Roquvchi barcha darslarda qatnashy olishi uchun portfelga qaysi to'rt asosiy buyum kerak?",
+   "variantlar": [
+    "Lineyka, penal, karandash, album",
+    "Portfel, dnevnik, album, penal",
+    "Karandash, floumaster, kistochka, ruchka",
+    "Uchebnik, dnevnik, ruchka, tetrad"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Maktabning turli kabinetlarida neden turli buyumlar qo'yilgan?",
+   "variantlar": [
+    "Har bir darsning maqsadi va tabiati bo'yicha",
+    "Hech qanday sab",
+    "Sodir ketshik",
+    "Faqat dekorasiya uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Stihote har bir predmet haqida qanday xususiyat berilgan?",
+   "variantlar": [
+    "Uning rangi",
+    "Uning shaklı",
+    "Uning nima bo'lib turgan va nima bo'lmagan jihatlari",
+    "Uning narxi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tekstida jami nechta bolaning nomi tilga olingan?",
+   "variantlar": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dialoida bolaya nima berilgan?",
+   "variantlar": [
+    "Dnevnik",
+    "Tetrad",
+    "Karandash",
+    "Ruchka"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sarvar qanday buyumlarga ega?",
+   "variantlar": [
+    "Kistochka",
+    "Ruchka va dnevnik",
+    "Portfel",
+    "Qizil karandash va tetrad"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Roquvchi maktabda to'liq ta'hzim bo'lish uchun qaysi buyumlar kerak?",
+   "variantlar": [
+    "Uchebnik, dnevnik, ruchka, karandash, tetrad, portfel",
+    "Faqat ruchka",
+    "Faqat lineyka",
+    "Faqat album"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tekstda nechata turli rang tilga olingan?",
+   "variantlar": [
+    "5",
+    "4",
+    "2",
+    "3"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rasim va yozish darslarida minimal nechata turli buyum talab qilinadi?",
+   "variantlar": [
+    "2",
+    "5",
+    "4",
+    "3"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tekstning asosiy mavzusi nima?",
+   "variantlar": [
+    "Bolalar nomini",
+    "Maktab binosi",
+    "Maktab buyumlari va ulardan foydalanish",
+    "Roquvchi istedollari"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

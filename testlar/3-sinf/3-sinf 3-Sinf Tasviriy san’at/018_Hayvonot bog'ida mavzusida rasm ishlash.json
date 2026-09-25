@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Tasviriy san’at",
+ "mavzu": "Hayvonot bog'ida mavzusida rasm ishlash",
+ "savollar": [
+  {
+   "savol": "Toshkent hayvonot bog'ida qaysi hayvonlarni uchratish mumkin?",
+   "variantlar": [
+    "Baliqlarni emas",
+    "Fil, yo'lbars, sher va maymun",
+    "Faqat quzonlar",
+    "Atroq va tozalar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Filning eng katta qismi qaysi?",
+   "variantlar": [
+    "Boshi",
+    "Quloqlari",
+    "Oyoqlari",
+    "Tanasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Filning boshi va quloqlari qanday kattalikda?",
+   "variantlar": [
+    "Har xil kattalikda",
+    "Boshi katta, quloqlari kichik",
+    "Deyarli bir xil kattalikda",
+    "Quloqlari katta, boshi kichik"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zebra qaysi hayvonning o'xshashida?",
+   "variantlar": [
+    "Ayiqning",
+    "Otning",
+    "Maymunning",
+    "Filning"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hayvonot bog'ida noyob hayvonlar bormi?",
+   "variantlar": [
+    "Ha, o'lkamizda uchramaydigan noyob hayvonlar bor",
+    "Faqat devalar",
+    "Yo'lbars va sher faqat",
+    "Yo'q, faqat tanish hayvonlar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Filning quloqlari qanday shaklga ega?",
+   "variantlar": [
+    "Doira",
+    "Oval",
+    "To'rtburchak",
+    "Uchburchak"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Baliq rasmini ishlashning bosqichlari nechta?",
+   "variantlar": [
+    "To'rtta",
+    "Ikkita",
+    "Beshshta",
+    "Uchta"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Filning tanasi qanday shaklga ega?",
+   "variantlar": [
+    "Doira",
+    "Oval",
+    "To'rtburchak",
+    "Uchburchak"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matndagi asosiy mavzu nima?",
+   "variantlar": [
+    "Hayvonot bog'ida mavzusida rasm ishlash",
+    "Hayvonlarning nimatorligi",
+    "Hayvonlarning ozuqasi",
+    "Hayvon ovozlari"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Filning qaysi qismi xartum hisoblanadi?",
+   "variantlar": [
+    "Burun",
+    "Quloq",
+    "Dum",
+    "Oyoq"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hayvon rasmini ishlayotganingizda birinchi navbatda nimani aniqlash kerak?",
+   "variantlar": [
+    "Rangini",
+    "Uning ta'nasi qanday qismlardan tuzilganligini va bu qismlar qanday shaklga ega ekanligini",
+    "Uning og'irligini",
+    "Uning nomini"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Filning oyoqlari nechta?",
+   "variantlar": [
+    "Beshshta",
+    "To'rtta",
+    "Ikkita",
+    "Uchta"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zebra rasmi ishlaganda, ot rasmidan qanday foydalanish mumkin?",
+   "variantlar": [
+    "Shaklni, qismlarini, nisbatlarini o'rganish uchun",
+    "Hech narsa uchun",
+    "Faqat rang uchun",
+    "Zanharni olib tashlash uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Filning rasmi qaysi geometrik shakllari bilan asosan ishlangani?",
+   "variantlar": [
+    "Faqat to'rtburchaklar",
+    "Asosan ovallar",
+    "Faqat uchburchaklar",
+    "Faqat doiralar"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matndagi hayvonlar ro'yxatida qaysilari o'lkamizda uchramaydi?",
+   "variantlar": [
+    "Yo'lbars, kenguru, maymun",
+    "Fil va ot",
+    "Quyon va baliq",
+    "Sher va bo'ri"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ot va zebra o'rtasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Ot kattaroq",
+    "Hech qanday farq yo'q",
+    "Zebra rangi (koloriti) boshqacha",
+    "Ot quyon, zebra baliq"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hayvon tuzilishini o'rganishda uning qismlarini qanday ko'rsatish mumkin?",
+   "variantlar": [
+    "Qora chiziq bilan o'chrish",
+    "Birgalikda chizish",
+    "Faqat nomlash",
+    "Alohida alohida ajratib ko'rsatish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matndagi rasm bosqichlari uchun qaysi hayvonlardan misollar keltirilgan?",
+   "variantlar": [
+    "Maymun, kenguru, fil, quyon",
+    "Ot, baliq, quyon, ayiq",
+    "Fil, ot, baliq, quyon",
+    "Sher, yo'lbars, ayiq, bo'ri"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Filning bosh va tanasi o'rtasida qanday qism bog'lanadi?",
+   "variantlar": [
+    "Xartum",
+    "Oyoq",
+    "Dum",
+    "Quloq"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar hayvon rasmini ishlasangiz, uning qismlarini alohida ajratish nima uchun muhim?",
+   "variantlar": [
+    "Vaqt o'tkazish uchun",
+    "Imtihon topshirish uchun",
+    "Rangarang qilish uchun",
+    "Hayvonning qisiligan tuzilishini tushunish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar fil rasmida bosh, quloq va tanas barchasi oval shaklda bo'lsa, ularning o'lchamlarini qanday chizasiz?",
+   "variantlar": [
+    "Tanas eng katta, bosh va quloqlari deyarli bir xil va kichikroq",
+    "Barchasi bir xil o'lchamda",
+    "Bosh eng katta, baqasi kichik",
+    "Quloqlar eng katta, baqasi kichik"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Hayvonot bog'ida\" mavzusida boshqa hayvonlar bilan kompozitsiya ishlashda asosiy qoida nima?",
+   "variantlar": [
+    "Yalniz rang qo'llash",
+    "Nomini yozing",
+    "Faqat doira chizish",
+    "Uning ta'nasi qanday qismlardan tuzilganligini va bu qismlar qanday shaklga ega ekanligini aniqlash"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Baliq va quyon rasmlarini taqqoslaganda ularning tuzilishidagi eng muhim farq nima?",
+   "variantlar": [
+    "Quyon oyoqli, baliq oyoqsiz (quyruq va balaniyalar bilan)",
+    "Quyon itlar singari",
+    "Hech qanday farq yo'q",
+    "Ikkalasi ham oval"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Fil, ot, baliq, quyon rasmlarini o'rganib, ularning turli tuzilishini qanday tasniflay olasiz?",
+   "variantlar": [
+    "Tana qismlarining soni va turlari bo'yicha",
+    "Faqat rang bo'yicha",
+    "Faqat o'lchami bo'yicha",
+    "Ovozi bo'yicha"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar fil, yo'lbars va sher ni bir rasmda chizaganda ularning o'lchamlari qanday bo'lishi kerak?",
+   "variantlar": [
+    "Yo'lbars eng katta",
+    "Barchasi bir xil",
+    "Tabii nisbatlarni hisobga olgan holda",
+    "Sher eng katta, fil eng kichik"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hayvonot bog'ida uchraydigan hayvonlarni o'lchamlari bo'yicha guruhlab bo'ladimi?",
+   "variantlar": [
+    "Ha, faqat rang bo'yicha",
+    "Ha, faqat suv-quruq bo'yicha",
+    "Ha, juda katta (fil), katta (sher, yo'lbars), va kichik (quyon, baliq)",
+    "Yo'q, guruhlash mumkin emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rasm ishlash jarayonida \"asliy ko'rinishi\" va \"chizma ko'rinishi\" o'rtasidagi farq nima?",
+   "variantlar": [
+    "Asliy rangli, chizma oq-qora",
+    "Hech qanday farq yo'q",
+    "Chizmada hayvonning ta'nasi qanday qismlardan tuzilganligini va bu qismlar qanday shaklga ega ekanligini ifodalash",
+    "Asliy katta, chizma kichik"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Filning xartumi, oyoqlari, dumini chizaganda ularning nisbati qanday aniqlanadi?",
+   "variantlar": [
+    "Faqat rang bo'yicha",
+    "Tasodifiy",
+    "Matnga qarab",
+    "Filning tabiiy ko'rinishini va tuzilishini hisobga olgan holda"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ot va zebra rasmini bir sahnada chizaganda ularni qanday farqlashingiz mumkin?",
+   "variantlar": [
+    "Otning shaklni asosiy hisobga olgan holda, zebraga yangi xususiyatlar qo'shish",
+    "Nomini yozib",
+    "Xuddi otga o'xshash chizish",
+    "Zebrani fo'to qo'yish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hayvonning qism va shakllarini aniqlash uchun qanday bilimlardan foydalanish kerak?",
+   "variantlar": [
+    "Geometrik shakllarga oid bilim, vizual kuzatish, hayvon tuzilishi",
+    "Faqat kalam",
+    "Faqat rang qo'llash",
+    "Faqat kompyuter"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

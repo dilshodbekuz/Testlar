@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Geografiya",
+ "mavzu": "11-§. Geografik koordinatalar",
+ "savollar": [
+  {
+   "savol": "Daraja to'ri nima?",
+   "variantlar": [
+    "Qutb chiziqlar",
+    "Meridian va parallel chiziqlarining kesishishidan hosil bo'lgan katakchalarni bir-biridan ajratib turgan chiziqlar to'ri",
+    "Faqat parallellar",
+    "Faqat meridianlar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Geografik kenglik nima?",
+   "variantlar": [
+    "Togri chiziq yo'li",
+    "Ekvatordan berilgan nuqtagacha bo'lgan meridian yoyining daraja hisobidagi kattaligi",
+    "Yer aylanasining perimetri",
+    "Bosh meridiandan masofasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Geografik uzunlik nima?",
+   "variantlar": [
+    "Bosh meridiandan berilgan nuqtagacha bo'lgan parallel yoyining daraja hisobidagi uzunligi",
+    "Parallellar orasidagi kesma",
+    "Meridianlar orasidagi masofasi",
+    "Ekvator chizig'ining uzunligi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ekvator chizig'i qanday kenglikka tegishli?",
+   "variantlar": [
+    "0°",
+    "90°",
+    "180°",
+    "45°"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yer qutblarining geografik kengligi qancha?",
+   "variantlar": [
+    "45°",
+    "90°",
+    "0°",
+    "180°"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bosh meridian qayerdan o'tadi?",
+   "variantlar": [
+    "Tokio shahridan",
+    "Grinvich rasadxonasidan",
+    "Parij shahridan",
+    "Moskva shahridan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Geografik uzunlik qanday darajalar oralig'ida hisoblanadi?",
+   "variantlar": [
+    "0° dan 90° gacha",
+    "45° dan 135° gacha",
+    "0° dan 180° gacha",
+    "0° dan 360° gacha"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Toshkentning geografik kengligi qancha?",
+   "variantlar": [
+    "30°",
+    "69°",
+    "41°",
+    "50°"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shimoliy va janubiy kenglik orasidagi farq nimada?",
+   "variantlar": [
+    "Shimoliy kenglik ekvatordan shimol tomondagi nuqtalarga, janubiy kenglik ekvatordan janub tomondagi nuqtalarga tegishli",
+    "Ular bir xil narsadir",
+    "Shimoliy kenglik faqat parallellar uchun, janubiy kenglik meridianlar uchun",
+    "Shimoliy kenglik 0°, janubiy kenglik 180°"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "GPS navigatorlar zamonaviy vaqtda qanday uchun foydalaniladi?",
+   "variantlar": [
+    "Okean chuqurligi o'lchash uchun",
+    "Geografik koordinatalarni aniqlash uchun",
+    "Havo harorati o'lchash uchun",
+    "Yer qatida yo'l topish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Toshkentning geografik uzunligi qancha?",
+   "variantlar": [
+    "30°",
+    "41°",
+    "69°",
+    "90°"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qohira shahri qaysi geografik kenglikda joylashgan?",
+   "variantlar": [
+    "30°",
+    "50°",
+    "40°",
+    "90°"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kiyev shahri qaysi kenglikda joylashgan?",
+   "variantlar": [
+    "69°",
+    "30°",
+    "41°",
+    "50°"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Geografik kenglik va uzunlik ikkalasining birgaligi qanday nomlanadi?",
+   "variantlar": [
+    "Parallel",
+    "Daraja to'ri",
+    "Geografik koordinata",
+    "Meridian"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Xaritada geografik kenglik darajalari qayerda yozib qo'yiladi?",
+   "variantlar": [
+    "Xaritaning chap va o'ng chekkasidagi ramka yoniga",
+    "Xaritaning burchak nuqtalariga",
+    "Xaritaning o'rtasiga",
+    "Xaritaning yuqori va pastki chekkasidagi meridian chiziqlar yoniga"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Xaritada geografik uzunlik darajalari qayerda yozib qo'yiladi?",
+   "variantlar": [
+    "Xaritaning har bir burchagida",
+    "Xaritaning o'rtasiga",
+    "Xaritaning chap va o'ng chekkasidagi ramka yoniga",
+    "Xaritaning yuqori va pastki chekkasidagi chiziqlar yoniga"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar nuqta Bosh meridiandan sharq tomonda joylashgan bo'lsa, uning uzunligi qanday nomlanadi?",
+   "variantlar": [
+    "Janubiy uzunlik",
+    "Sharqiy uzunlik",
+    "Shimoliy uzunlik",
+    "G'arbiy uzunlik"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar nuqta Bosh meridiandan g'arb tomonda joylashgan bo'lsa, uning uzunligi qanday nomlanadi?",
+   "variantlar": [
+    "G'arbiy uzunlik",
+    "Janubiy uzunlik",
+    "Sharqiy uzunlik",
+    "Shimoliy uzunlik"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun geografik kenglik birgina har bir joyni aniq topish uchun yetarli emas?",
+   "variantlar": [
+    "Meridianlar qiymatlari takrorlanib turadi",
+    "Parallel qiymatlari takrorlanib turadi",
+    "Ekvator hamma yerda bir xil",
+    "Geografik xarita unchalik aniq emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yer yuzidagi biror joyni aniq topish uchun qanday ma'lumotlar kerak?",
+   "variantlar": [
+    "Faqat geografik uzunlik",
+    "Faqat daraja to'ri",
+    "Faqat geografik kenglik",
+    "Geografik kenglik va uzunlik"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Meridian va parallel chiziqlarining kesishishida nima hosil bo'ladi?",
+   "variantlar": [
+    "Faqat parallel chiziqlar",
+    "Daraja to'ri deb ataladigan katakchalar",
+    "Faqat meridian chiziqlar",
+    "Ekvator chizig'i"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar biror shahrt 41° shimoliy kenglik va 69° sharqiy uzunlikda joylashgan bo'lsa, bu qaysi shahri koordinatalari?",
+   "variantlar": [
+    "Qohira",
+    "Kiyev",
+    "London",
+    "Toshkent"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Shaxmat taxtasidagi kataklar tartibi bilan geografik xarita va globusdagi katakchalarning ortasida qanday o'xshashlik bor?",
+   "variantlar": [
+    "Kettasi ham geometrik figuralardir",
+    "Hech qanday o'xshashlik yo'q",
+    "Kettasi ham mavsumiy o'zgarishlarga bog'liq",
+    "Kettasi ham harf va raqamlar bilan belgilanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ekvatordan shimol tomonda joylashgan Toshkent shahri uchun geografik kenglik qanday nomlanadi?",
+   "variantlar": [
+    "Janubiy kenglik",
+    "G'arbiy kenglik",
+    "Sharqiy kenglik",
+    "Shimoliy kenglik"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Geografik koordinatalarni zamonaviy vaqtda qanday usullar orqali aniqlash mumkin?",
+   "variantlar": [
+    "Yerning sun'iy yo'ldoshlari va GPS navigatorlar orqali",
+    "Faqat qidiruvchi orqali",
+    "Faqat xarita orqali",
+    "Faqat globus orqali"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar biror nuqtaning kenglik 30° va uzunlik 60° bo'lsa, uning geografik koordinatasi qanday yoziladi?",
+   "variantlar": [
+    "30° kenglik va 60° uzunlik",
+    "30° sharq va 60° shimol",
+    "60° kenglik va 30° uzunlik",
+    "30° va 60°"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Parallellar va meridianlarning asosiy vazifasi nima?",
+   "variantlar": [
+    "Havo haroratini o'lchash",
+    "Yer yuzidagi har bir nuqtaning o'rnini aniqlab berish",
+    "Okeanlar chuqurligi o'lchash",
+    "Yomg'ir miqdorini hisoblash"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki shahrin geografik koordinatalarini solishtirganingizda, Toshkent (41° shimoliy, 69° sharqiy) va Qohira (30° shimoliy, 31° sharqiy) dan qaysi biri shimol tomonda ko'proq joylashgan?",
+   "variantlar": [
+    "Toshkent",
+    "Ikkalasi teng masofada",
+    "Masofani aniqlab bo'lmaydi",
+    "Qohira"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yer yuzasidagi joylarni topishda daraja to'ri qanday rol o'ynaydi?",
+   "variantlar": [
+    "Geografik koordinatalarni bilishga yordam beradi va har bir joyni aniq topishga imkon beradi",
+    "Faqat dekorasiya uchun xizmat qiladi",
+    "Havo harorati o'zgarishi bilan bog'liq",
+    "Faqat geograflar uchun kerak"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Geografik kengliklar globusda qaysi chiziqlar yoniga yozib qo'yiladi?",
+   "variantlar": [
+    "Meridianlar yoniga",
+    "Parallellar yoniga",
+    "Ekvator yoniga",
+    "Bosh meridian yoniga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}
