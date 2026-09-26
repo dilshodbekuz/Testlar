@@ -1,0 +1,326 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Geometriya",
+ "mavzu": "VI BOB - YASASHGA DOIR MASALALAR",
+ "savollar": [
+  {
+   "savol": "Yasashga doir masalalarni yechishda qaysi ikki asbobdan foydalanishga ruxsat beriladi?",
+   "variantlar": [
+    "Millimetrli chizg'ich va transportir",
+    "Transportir va sirkul",
+    "Goniya va transportir",
+    "Sirkul va bir tomoni tekis oddiy chizg'ich"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yasashga doir masalalarni yechish san'at darajasiga qaysi davlatda ko'tarilgan?",
+   "variantlar": [
+    "Qadimgi Xitoyda",
+    "Qadimgi Rimda",
+    "Qadimgi Yunonistonda",
+    "Qadimgi Misrda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yasashda oddiy chizg'ich yordamida quyidagilardan qaysi birini bajarishga ruxsat etiladi?",
+   "variantlar": [
+    "Burchakni o'lchash",
+    "Kesma uzunligini o'lchash",
+    "Ikki nuqtadan o'tuvchi to'g'ri chiziq chizish",
+    "Chizg'ichning ikki qirrasi bilan parallel chiziq o'tkazish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sirkul yordamida quyidagilardan qaysi birini bajarishga ruxsat etiladi?",
+   "variantlar": [
+    "Burchakni o'lchash",
+    "Kesma uzunligini santimetrda o'lchash",
+    "Perpendikulyar chiziqni chamalab chizish",
+    "Berilgan kesmaga teng kesmani nurga uning boshidan boshlab qo'yish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yasashga doir masalalarda yasashdan tashqari yana nima talab qilinadi?",
+   "variantlar": [
+    "Kesmalarni o'lchash",
+    "Rasmni bo'yash",
+    "Yasash to'g'riligini va to'liq bajarilganini isbotlash",
+    "Yasashni tez bajarish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Berilgan burchakni teng ikkiga bo'luvchi nur nima deb ataladi?",
+   "variantlar": [
+    "Bissektrisa",
+    "Perpendikulyar",
+    "Mediana",
+    "Balandlik"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Burchak bissektrisasini yasashning asoslanishida uchburchaklar tengligining qaysi alomatidan foydalaniladi?",
+   "variantlar": [
+    "TTT alomati",
+    "BTB alomati",
+    "TBT alomati",
+    "Faqat gipotenuza bo'yicha"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Uchburchak yasash mumkin bo'lishi uchun a, b, c tomonlar (c eng katta) qanday shartni qanoatlantirishi kerak?",
+   "variantlar": [
+    "a + b = c",
+    "a + b < c",
+    "a = b = c",
+    "a + b > c"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Berilgan burchakka teng burchakni yasash masalasi nechta yechimga ega?",
+   "variantlar": [
+    "Uchta",
+    "Cheksiz ko'p",
+    "Bitta",
+    "Ikkita"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kesmani teng ikkiga bo'lishda radiusi AB kesmaga teng va markazlari A va B nuqtalarda bo'lgan ikki aylana kesishgan C va C1 nuqtalar nima qilinadi?",
+   "variantlar": [
+    "C1 va B tutashtiriladi",
+    "C va A tutashtiriladi",
+    "C va C1 tutashtirilib, CC1 ning AB bilan kesishish nuqtasi olinadi",
+    "Aylanalar o'chiriladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aylanadan tashqaridagi nuqtadan aylananing eng yaqin va eng uzoq nuqtalarigacha masofalar mos ravishda 2 sm va 10 sm. Aylana radiusi necha sm?",
+   "variantlar": [
+    "3",
+    "4",
+    "8",
+    "6"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Uzunligi 12 sm va 5 sm bo'lgan kesmalar berilgan. Sirkul va chizg'ich yordamida qaysi uzunlikdagi kesmani yasash mumkin emas (oddiy qo'shish, ayirish orqali)?",
+   "variantlar": [
+    "17 sm",
+    "24 sm",
+    "7 sm",
+    "Hammasini yasash mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tomonlari 3 sm, 4 sm va 7 sm bo'lgan uchburchak yasash mumkinmi?",
+   "variantlar": [
+    "Mumkin, chunki 3 + 7 > 4",
+    "Mumkin emas, chunki tomonlar butun son",
+    "Mumkin, chunki 3 + 4 = 7",
+    "Mumkin emas, chunki 3 + 4 > 7 emas"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tomonlari a = 2, b = 3, c = 6 bo'lgan kesmalardan uchburchak yasash mumkinmi?",
+   "variantlar": [
+    "Mumkin emas, chunki 2 < 3",
+    "Mumkin, chunki 2 + 3 > 6",
+    "Mumkin emas, chunki 2 + 3 < 6",
+    "Mumkin, chunki 6 > 3"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'ntamon: 1200 li burchakni sirkul va chizg'ich bilan teng ikkiga bo'lsak, necha gradusli burchak hosil bo'ladi?",
+   "variantlar": [
+    "45°",
+    "90°",
+    "30°",
+    "60°"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "90° li burchakni bissektrisa yasash orqali teng ikkiga bo'lsak, hosil bo'lgan burchak necha gradus?",
+   "variantlar": [
+    "30°",
+    "60°",
+    "45°",
+    "15°"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "AB = 5 sm bo'lsa, BA nurda B nuqtadan boshlab BC = 2AB bo'ladigan kesma qo'yilsa, BC necha sm bo'ladi?",
+   "variantlar": [
+    "10 sm",
+    "2,5 sm",
+    "7 sm",
+    "5 sm"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Berilgan a to'g'ri chiziqqa uning O nuqtasidan perpendikulyar yasashda, markazi O bo'lgan aylana to'g'ri chiziqni A va B nuqtalarda kesadi. Keyin nima qilinadi?",
+   "variantlar": [
+    "AB kesma o'lchanadi",
+    "Faqat transportir ishlatiladi",
+    "O dan A ga chiziq o'tkaziladi",
+    "A va B markazli AB radiusli aylanalar chiziladi va ularning kesishish nuqtasi C bilan O tutashtiriladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Uchburchak tomonlarining uzunliklari a = 3 sm, b = 8 sm, c = 9 sm. Uchburchak yasash mumkinmi va nima uchun?",
+   "variantlar": [
+    "Mumkin emas, chunki a < b",
+    "Mumkin, chunki 3 + 8 = 11 > 9",
+    "Mumkin emas, chunki c juft emas",
+    "Mumkin emas, chunki a + b > c"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A = 40° va B = 30° burchaklar berilgan. Ularning yig'indisiga teng burchak yasalsa, u necha gradus bo'ladi?",
+   "variantlar": [
+    "70°",
+    "80°",
+    "35°",
+    "10°"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "45° va 30° li burchaklar berilgan. Ularning ayirmasiga teng burchak necha gradus?",
+   "variantlar": [
+    "15°",
+    "75°",
+    "45°",
+    "30°"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "36° li burchak berilgan. Sirkul va chizg'ich yordamida 99° li burchakni yasash uchun qaysi yo'l to'g'ri?",
+   "variantlar": [
+    "36° ni 3 marta qo'yish",
+    "36° ni 90° ga qo'shib 126°, so'ng 27° ni ayirish (bissektrisa orqali 90° dan 45° hosil qilinmaydi)",
+    "36° ni 2 marta qo'shib 72°, so'ng 27° ni qo'shish",
+    "36° ni ikki marta qo'yib, 90° ni qo'shish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Berilgan burchak yasashning to'g'riligi qaysi tengliklarga asoslanadi (ABC va OB1C1 uchburchaklar)?",
+   "variantlar": [
+    "AB = OC1, AC = OB1",
+    "AB = OB1, AC = OC1, BC = B1C1",
+    "Faqat AC = OC1",
+    "BC = OB1 va AB = B1C1"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "15° li burchakni sirkul va chizg'ich yordamida yasashning to'g'ri usuli qaysi?",
+   "variantlar": [
+    "45° ga 30° ni qo'shish",
+    "60° ni yasab, bir marta teng ikkiga bo'lish",
+    "60° ni yasab, uni ikki marta teng ikkiga bo'lish",
+    "90° ni teng uchga bo'lish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ixtiyoriy ikki tomonining yig'indisi 10 sm bo'lgan teng tomonli uchburchakning perimetri necha sm?",
+   "variantlar": [
+    "10 sm",
+    "30 sm",
+    "15 sm",
+    "20 sm"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uchburchakning perimetri tomonlaridan mos ravishda 14 sm, 16 sm va 24 sm uzun. Uchburchakning eng katta tomoni necha sm?",
+   "variantlar": [
+    "13 sm",
+    "16 sm",
+    "12 sm",
+    "15 sm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Teng yonli ABC (AB = BC) uchburchakning perimetri 48 sm, BH balandlik, BHC uchburchakning perimetri 32 sm. BH necha sm?",
+   "variantlar": [
+    "8 sm",
+    "5 sm",
+    "4 sm",
+    "6 sm"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A, B nuqtalar bir to'g'ri chiziqda va sirkulning berilgan kesmani qo'yish qoidasiga ko'ra, AB = 4 sm bo'lsa, AB + CD (CD = 3 sm) ga teng kesma qo'yilganda hosil bo'lgan A1D1 kesma necha sm bo'ladi?",
+   "variantlar": [
+    "12 sm",
+    "1 sm",
+    "3,5 sm",
+    "7 sm"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Berilgan a to'g'ri chiziqda yotmaydigan O nuqtadan perpendikulyar yasashda O markazli aylana a ni A va B nuqtalarda kesadi. Markazlari A va B bo'lgan, radiusi shu aylana radiusiga teng aylanalarning kesishish nuqtalari O va O1 bo'lsa, perpendikulyar qaysi to'g'ri chiziq bo'ladi?",
+   "variantlar": [
+    "OO1",
+    "AB",
+    "OB",
+    "OA"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

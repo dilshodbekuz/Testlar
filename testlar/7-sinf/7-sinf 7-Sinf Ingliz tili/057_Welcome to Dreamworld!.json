@@ -1,0 +1,315 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Ingliz tili",
+ "mavzu": "Welcome to Dreamworld!",
+ "savollar": [
+  {
+   "savol": "Matnga ko'ra, kenguru necha metrdan ortiq sakray oladi?",
+   "variantlar": [
+    "Olti metrdan",
+    "Ikki metrdan",
+    "Yetmish metrdan",
+    "To'rt metrdan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Koala\" so'zi nimani anglatadi?",
+   "variantlar": [
+    "\"Suv yo'q\"",
+    "\"Daraxt\"",
+    "\"Ayiq\"",
+    "\"Evkalipt\""
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Koala har kuni qancha evkalipt bargi yeydi?",
+   "variantlar": [
+    "Ikki kilo",
+    "Bir kilo",
+    "O'n kilo",
+    "Yarim kilo"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Emu dunyodagi nechanchi eng katta qush?",
+   "variantlar": [
+    "Ikkinchi",
+    "Uchinchi",
+    "Birinchi",
+    "To'rtinchi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Emuning bo'yi qancha?",
+   "variantlar": [
+    "Ikki metr",
+    "Bir metr",
+    "To'rt metr",
+    "Besh metr"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kenguru soatiga necha kilometr tezlikda yura oladi?",
+   "variantlar": [
+    "To'qson kilometr",
+    "Ellik kilometr",
+    "Yetmish kilometr",
+    "Oltmish kilometr"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vombat bolalarini qayerda olib yuradi?",
+   "variantlar": [
+    "Orqasidagi uyasida",
+    "Suvda",
+    "Daraxt kovagida",
+    "Terisidan hosil bo'lgan cho'ntagida"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Emu soatiga necha kilometr tezlikda yugura oladi?",
+   "variantlar": [
+    "Yigirma kilometr",
+    "Besh kilometr",
+    "Yetmish kilometr",
+    "Ellik kilometr"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Avstraliya shimolidagi dengiz va daryolarda qaysi hayvonni uchratish mumkin?",
+   "variantlar": [
+    "Timsohni",
+    "Emuni",
+    "Koalani",
+    "Vombatni"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dreamworld Avstraliyaning qaysi joyida joylashgan?",
+   "variantlar": [
+    "Melburnda",
+    "Kanberrada",
+    "Gold Coast'da",
+    "Sidneyda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Koala uch kunda qancha evkalipt bargi yeydi?",
+   "variantlar": [
+    "Bir kilo",
+    "Uch kilo",
+    "Olti kilo",
+    "Ikki kilo"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kenguru bir xil tezlikda 2 soat yursa, necha kilometr yo'l bosadi?",
+   "variantlar": [
+    "70 km",
+    "140 km",
+    "120 km",
+    "100 km"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Emu bir xil tezlikda 3 soat yugursa, necha kilometr yo'l bosadi?",
+   "variantlar": [
+    "100 km",
+    "50 km",
+    "120 km",
+    "150 km"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Koala o'n kunda qancha evkalipt bargi yeydi?",
+   "variantlar": [
+    "Bir kilo",
+    "O'n kilo",
+    "Besh kilo",
+    "Yigirma kilo"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kenguruning tezligi emuning tezligidan soatiga necha kilometr ortiq?",
+   "variantlar": [
+    "10 km",
+    "20 km",
+    "30 km",
+    "120 km"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Emu haqida qaysi gap matnga mos keladi?",
+   "variantlar": [
+    "U eng katta qush hisoblanadi",
+    "U uchadi va soatiga 50 km tezlikda yuguradi",
+    "U faqat suvda yashaydi",
+    "U uça olmaydi, lekin soatiga 50 km tezlikda yuguradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun \"koala\" (\"suv yo'q\") nomi bu hayvonga mos keladi?",
+   "variantlar": [
+    "U juda ko'p suv ichadi",
+    "U deyarli suv ichmaydi",
+    "U suv ustida yuradi",
+    "U faqat suvda yashaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Olti metrli timsoh ikki metrli emudan necha metr uzun?",
+   "variantlar": [
+    "To'rt metr",
+    "Sakkiz metr",
+    "Ikki metr",
+    "Uch metr"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "So'zlar ro'yxatidagi \"roller-coaster\" so'zi nimani bildiradi?",
+   "variantlar": [
+    "Avstraliyadagi daryoni",
+    "Qushning bir turini",
+    "Baland tepalikdan tez uchadigan attraksionni",
+    "Evkalipt daraxtini"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kenguru va emu bir vaqtda yarim soat yugursa (bir xil tezlikda), kenguru emudan necha kilometr ko'p yo'l bosadi?",
+   "variantlar": [
+    "15 km",
+    "10 km",
+    "5 km",
+    "20 km"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita koala besh kunda jami qancha evkalipt bargi yeydi?",
+   "variantlar": [
+    "Ikki kilo",
+    "Besh kilo",
+    "Yetti kilo",
+    "O'n kilo"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Emu 2 soat, kenguru 1,5 soat yugursa (matndagi tezliklarda), kim necha kilometr ko'p yo'l bosadi?",
+   "variantlar": [
+    "Kenguru 5 km ko'p",
+    "Kenguru 20 km ko'p",
+    "Emu 5 km ko'p",
+    "Emu 20 km ko'p"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi gaplardan qaysi biri matnga ko'ra NOTO'G'RI?",
+   "variantlar": [
+    "Emu uça olmaydi",
+    "Koala juda ko'p suv ichadi",
+    "Timsohlar baʼzan odamlarni ham yeydi",
+    "Vombat ayiqning bir turi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Emu dunyodagi ikkinchi eng katta qush ekanligidan qanday xulosa chiqadi?",
+   "variantlar": [
+    "Emudan kattaroq kamida bitta qush bor",
+    "Emudan kichik qush yo'q",
+    "Emu eng tez uchadigan qush",
+    "Emu eng katta qush"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "To'rtta koala jami 20 kilo evkalipt bargini necha kunda yeydi?",
+   "variantlar": [
+    "O'n kunda",
+    "To'rt kunda",
+    "Yigirma kunda",
+    "Besh kunda"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kenguru ham, emu ham 350 km yo'lni matndagi tezliklarida bosib o'tsa, emu kenguruga qaraganda necha soat ko'p vaqt sarflaydi?",
+   "variantlar": [
+    "2 soat",
+    "3 soat",
+    "1 soat",
+    "5 soat"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga ko'ra timsohlar nimani yemaydi?",
+   "variantlar": [
+    "Kenguruni",
+    "Evkalipt bargini",
+    "Baliqni",
+    "Odamni (ba'zan)"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Juftlikda ishlashda A o'quvchi Avstraliyaga borgan sherigidan nima so'raydi va B nima qiladi?",
+   "variantlar": [
+    "A javob beradi, B savol beradi",
+    "A qaysi joylarni ko'rgani va nimasi yoqqanini so'raydi, B Avstraliyada bo'lgan sifatida javob beradi",
+    "Ikkalasi ham faqat matnni o'qiydi",
+    "Ikkalasi ham faqat rasm chizadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

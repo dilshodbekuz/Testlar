@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf O‘qish",
+ "mavzu": "Kitob, mening do'stimsan",
+ "savollar": [
+  {
+   "savol": "She'rning muallifi kim?",
+   "variantlar": [
+    "Kavsar Turdiyeva",
+    "Zafar Diyor",
+    "Maktabning o'qituvchisi",
+    "Foydaxo'r"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kitobni she'rda nima sifatida taqdim qiladi?",
+   "variantlar": [
+    "O'qituvchi",
+    "Do'st",
+    "Dushman",
+    "Aybdor"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Varaqlasam bir boshdan bag'rim nima qiladi?",
+   "variantlar": [
+    "Quvnab ochiladi",
+    "Tug'iladi",
+    "Xush keladi",
+    "Og'riladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "She'rda 'Shuning uchun deymanki' qatori necha marta takrorlanadi?",
+   "variantlar": [
+    "2 marta",
+    "4 marta",
+    "1 marta",
+    "3 marta"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Har sahifa nima qiladi she'rga ko'ra?",
+   "variantlar": [
+    "Hikoya so'zlaydi",
+    "Tinchlik beradi",
+    "Qo'rqitadi",
+    "Shikoyat qiladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kitob qayni narsani hadya qilgan?",
+   "variantlar": [
+    "Maktab",
+    "Ilm-fan",
+    "Rang",
+    "Pul"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kitob qayni narsani ko'rsatgan?",
+   "variantlar": [
+    "Teng yo'lni",
+    "Qorong'i yo'lni",
+    "Yorug' yo'llarni",
+    "Qisqa yo'lni"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'Maktabim – qutlug' makonim' degan nima demak?",
+   "variantlar": [
+    "Maktab jo'qasi",
+    "Maktab yomon",
+    "Maktab qorong'i",
+    "Maktab yaxshi va quddrat beruvchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shaharchada nima ochildi?",
+   "variantlar": [
+    "Do'kon",
+    "Maktab",
+    "Kompyuter o'yinlari xonasi",
+    "Kutubxona"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Foydaxo'r qayerdan kelgan?",
+   "variantlar": [
+    "Boshqa shaharchadan",
+    "Maktabdan",
+    "Do'kondan",
+    "Kitobxonadan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'Hadya qilib ilm-fan' degan nima demakni?",
+   "variantlar": [
+    "Hadya sifatida kitob berish",
+    "Faqat pul berish",
+    "Hadya sifatida ilm berish",
+    "Faqat yo'l ko'rsatish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Oltin harf-so'zlardan totli ma'no sochilur' misrasida nima anglatiladi?",
+   "variantlar": [
+    "Kitobda qadrli ilm va bilim bor",
+    "Kitobda sargishlik bor",
+    "Kitobda pul bor",
+    "Kitobda faqat rang bor"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'O'qib olim bo'lgin, deb, yaxshi niyat ko'zlaydi' misrasida nima ko'zlaydi?",
+   "variantlar": [
+    "Faqat hikoya",
+    "Faqat o'yin",
+    "Kitob orqali bilimli bo'lishimni",
+    "Faqat dars"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Seni jondan sevaman' degan nima demakni?",
+   "variantlar": [
+    "O'yinni sevish",
+    "Kitobni juda chuqur sevish",
+    "Juda yaxshi sevish",
+    "Vaqtni sevish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ertak sarlavhasi 'Vaqt ketdi – naqding ketdi' nima demak?",
+   "variantlar": [
+    "Vaqt ortib boradi",
+    "Vaqt naqd pul",
+    "Vaqt behuda o'tsa, muhim narsalar ketib boradi",
+    "Vaqt sotib olish mumkin"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Foydaxo'rning asosiy shiorini toping:",
+   "variantlar": [
+    "Pul - vaqt",
+    "O'yin faydasiz",
+    "Vaqt - bu pul",
+    "Kitob yaxshi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mittivoylar kompyuter xonasiga nima uchun bora boshlashdi?",
+   "variantlar": [
+    "O'yin qiziq va vaqt tez o'tadi",
+    "Kitob undan qiyin",
+    "Maktab yopik edi",
+    "Vaqt undan behuda o'tadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Meni tilga o'rgatding' degan nima demak?",
+   "variantlar": [
+    "Kitob tilni o'rgatdi",
+    "Kitob aqliy qobiliyatini rivojlantirdi",
+    "Kitob nutq qobiliyatini rivojlantirdi",
+    "Kitob ijodiy qobiliyatini rivojlantirdi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "She'rning qaysi qismida kitobning uch asosiy xususiyati tilga olinadi?",
+   "variantlar": [
+    "Butun she'rda",
+    "Birinchi va ikkinchi qismda",
+    "Uchinchi qismda",
+    "Ikkinchi va uchinchi qismda"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ertak fragmentida 'behuda' so'zi nima demak?",
+   "variantlar": [
+    "Qiyin",
+    "Foydali",
+    "Oson",
+    "Foydasiz"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "She'r va ertak o'rtasida nima aloqa bor?",
+   "variantlar": [
+    "Kitob foydali, o'yin vaqt behuda o'tkazadi",
+    "She'r qiyin, ertak oson",
+    "Ikkalasi ham o'qish haqida",
+    "Aloqa yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Foydaxo'rning 'Vaqt – bu pul' shiorini tahlil qilib, u nima qilmoqchiligi aniqlang:",
+   "variantlar": [
+    "Vaqtdan foyda olish",
+    "Kitob sotish",
+    "O'yinchilardan pul olish, vaqtni pul sifatida sotish",
+    "Vaqt sotib olish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "She'rda 'Shuning uchun deymanki' takrorlanishi nima anglatadi?",
+   "variantlar": [
+    "Kitob har joyda",
+    "Kitob shu boshdan oson",
+    "Kitobning turli xususiyatlari uchun uni do'st deyish",
+    "Kitob bir xil xush"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Kitobim – buyuk imkonim' degan nima demak?",
+   "variantlar": [
+    "Kitob maktabdan ko'p imkoniyat beradi",
+    "Kitob kichik",
+    "Kitob qiyin",
+    "Kitob xavfli"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ertak fragmentida 'mittivoylar' nima ro'lini o'dynadi?",
+   "variantlar": [
+    "Kitobni o'qiy boshladilar",
+    "Foydaxo'rni to'xtatadilar",
+    "Vaqtning qadrini tushunmay, o'yinga mos shugunlar",
+    "Foydaxo'rga kompyuter berdilar"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "She'rning asosiy g'oyasi qaysi?",
+   "variantlar": [
+    "Kitob eng yaqin do'st, unda ilm va yorug' yo'l bor",
+    "Maktab yaxshi",
+    "O'yin ziyonli",
+    "Pul kerak"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Hadya qilib ilm-fan' iborasida 'hadya' so'zini qanday tushunish kerak?",
+   "variantlar": [
+    "To'liq hadya",
+    "To'lov sifatida",
+    "Faqat amal",
+    "Sovg'a sifatida berish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Shaharchada kompyuter xonasi ochilishi va she'rni yozish o'rtasida nima bog'lanish bor?",
+   "variantlar": [
+    "Shoir vaqtning qadrini tushunish uchun she'rni yozgan",
+    "Maktabda ochilgan",
+    "Foydaxo'r shoir ekan",
+    "Aloqa yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Naqd' so'zi 'Vaqt ketdi – naqding ketdi' sarlavhasida nima anglatadi?",
+   "variantlar": [
+    "Sonlar",
+    "O'qish uchun zarur vaqt va imkoniyat",
+    "Naqsh va rasm",
+    "Naqsh"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kitob va Foydaxo'rning o'yin xonasi o'rtasidagi asosiy farq qaysi?",
+   "variantlar": [
+    "Ikkalasi ham bir xil",
+    "Kitob vaqt behuda o'tkazadi",
+    "Kitob ilm va rivojlanish beradi, o'yin vaqt behuda o'tkazadi",
+    "O'yin kitobdan yaxshi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

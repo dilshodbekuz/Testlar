@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Informatika",
+ "mavzu": "10-dars. SMM ASOSIDA TADQIQOT LOYIHALARINI BOSHQARISH. TELEGRAM TARMOG'IDA KANAL OCHISH",
+ "savollar": [
+  {
+   "savol": "Telegram kanalida kontentlarni nashr qilish huquqi kimga tegishli?",
+   "variantlar": [
+    "Faqat yangi a'zolarga",
+    "Faqat kanalni topgan foydalanuvchilarga",
+    "Faqat administratorga",
+    "Barcha a'zolarga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Telegram kanali qanday vosita hisoblanadi?",
+   "variantlar": [
+    "Faqat fayllarni arxivlash vositasi",
+    "Kontentni bir shaxsdan ko'pchilikka uzatish vositasi",
+    "Faqat rasm tahrirlash dasturi",
+    "Faqat ikki kishi yozishadigan chat"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Public channel (jamoat kanali) qanday kanal?",
+   "variantlar": [
+    "Faqat taklif orqali a'zo bo'lish mumkin bo'lgan kanal",
+    "Faqat administrator ko'ra oladigan kanal",
+    "Barcha foydalanuvchilar qidiruv orqali topib, a'zo bo'la oladigan kanal",
+    "Parol bilan ochiladigan kanal"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Private channel (xususiy kanal)ga qanday a'zo bo'lish mumkin?",
+   "variantlar": [
+    "Faqat taklif murojaati orqali",
+    "Faqat administrator bo'lish orqali",
+    "Kanal nomini yozish orqali",
+    "Qidiruv orqali"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kanal manzili qaysi harflarda yoziladi?",
+   "variantlar": [
+    "Lotin harflarida",
+    "Istalgan harflarda",
+    "Kirill harflarida",
+    "Arab harflarida"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kanaldagi so'rovnomani tashkil etish uchun qaysi bo'limdan foydalaniladi?",
+   "variantlar": [
+    "Add members",
+    "Manage channel",
+    "Delete channel",
+    "Create Poll"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kanalni tarmoqdan o'chirish uchun qaysi ko'rsatma tanlanadi?",
+   "variantlar": [
+    "Delete channel",
+    "Create",
+    "Skip",
+    "Add"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kanalga foydalanuvchilarni qo'shish uchun qaysi bo'lim tanlanadi?",
+   "variantlar": [
+    "Add members",
+    "New channel",
+    "Administrators",
+    "Create Poll"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, kanalni nimaga o'xshatib faraz qilish tavsiya etiladi?",
+   "variantlar": [
+    "Korporativ blog",
+    "Elektron pochta",
+    "Oflayn kutubxona",
+    "Video o'yin"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kanal yaratishda a'zolarni qo'shish qadamini o'tkazib yuborish uchun qaysi tugma bosiladi?",
+   "variantlar": [
+    "Manage",
+    "Create",
+    "Add",
+    "Skip"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Telegram desktop (kompyuter) versiyasida yangi kanal yaratish uchun nima bosiladi?",
+   "variantlar": [
+    "Delete channel tugmasi",
+    "Oynaning chap qismidagi uchta chiziq, so'ng New channel",
+    "Oynaning o'ng pastki qismidagi kamera rasmi",
+    "Faqat Create Poll bo'limi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "iOS qurilmada yangi kanal yaratish uchun nima qilinadi?",
+   "variantlar": [
+    "Skip tugmasi bosiladi",
+    "Chats bo'limining o'ng yuqori qismidagi yangi xabar ikonkasi bosilib, New channel tanlanadi",
+    "Chap qismdagi uchta chiziq bosiladi",
+    "Kamera rasmi bosiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kanalga logotip o'rnatish uchun qaysi belgi tanlanadi?",
+   "variantlar": [
+    "Kamera rasmi",
+    "Savol belgisi",
+    "Uchta chiziq",
+    "Qo'ng'iroq belgisi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Loyiha bo'yicha muzokara va muhokamalar uchun kanalga nima bog'lanadi?",
+   "variantlar": [
+    "Yangi logotip",
+    "Yana bitta xususiy kanal manzili",
+    "Alohida guruh",
+    "So'rovnoma"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kanalga xabarlar kelishi bezovta qilsa, nima qilish mumkin?",
+   "variantlar": [
+    "Bildirishnomani o'chirib qo'yish",
+    "Manzilni o'zgartirish",
+    "Logotipni o'chirish",
+    "Kanalni jamoat kanaliga aylantirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kanalga qo'shimcha administrator qo'shish uchun qaysi bo'limdan foydalaniladi?",
+   "variantlar": [
+    "Delete channel",
+    "Add members",
+    "Administrators",
+    "Create Poll"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kanal nomi va qisqacha mazmuni qaysi bosqichda kiritiladi?",
+   "variantlar": [
+    "A'zolar qo'shilgandan keyin, Skip orqali",
+    "Faqat so'rovnoma yaratilganda",
+    "Kanal yaratishning ikkinchi qadamida, Create tugmasidan oldin",
+    "Kanal o'chirilganda"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kanal manzili kiritishda qanday talab qo'yiladi?",
+   "variantlar": [
+    "Manzil kiritilmaydi",
+    "Boshqa kanal bilan bir xil manzil bo'lishi kerak",
+    "Manzil raqamlardan iborat bo'lishi kerak",
+    "Dastlab mavjud bo'lmagan manzil kiritilishi kerak"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kanalning logotipi, administratorlari kabi sozlashlar uchun qaysi ko'rsatma tanlanadi?",
+   "variantlar": [
+    "New channel",
+    "Create Poll",
+    "Manage channel",
+    "Skip"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kanal yaratishda a'zolarni qo'shish qadamida tarmoq nimani tavsiya etadi?",
+   "variantlar": [
+    "Kontaktlar ro'yxatidagi foydalanuvchilarni",
+    "Faqat o'chirilgan a'zolarni",
+    "Tasodifiy begona foydalanuvchilarni",
+    "Faqat administratorlarni"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Talaba maktab loyihasi uchun kanalga faqat taklif qilingan sinfdoshlar kira olishini istaydi. Qaysi qadamlar to'g'ri ketma-ketligi?",
+   "variantlar": [
+    "New channel, nom va mazmun kiritish, Create, Private channel tanlash, manzil yozish",
+    "Create Poll, Public channel tanlash, Add members",
+    "Manage channel, Skip, Delete channel",
+    "Delete channel, Public channel tanlash, Skip"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kanal a'zolari kontentga fikr bildirib muhokama qilishi kerak, ammo kanalda faqat administrator nashr qila oladi. Qaysi yechim mos?",
+   "variantlar": [
+    "Kanalga bog'langan alohida guruh ochish",
+    "Kanalni o'chirish",
+    "Barcha a'zolarni administrator qilish shart emas, guruh ham kerak emas",
+    "Kanal turini o'zgartirmasdan hech narsa qilmaslik"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Loyiha jamoasi a'zolari kanalga kontent kiritib borishi va mijozlarning talab-takliflari o'rganilishi kerak. Qaysi juftlik to'g'ri?",
+   "variantlar": [
+    "Delete channel va Skip",
+    "Manage channel orqali so'rovnoma yaratish va Skip",
+    "Add members orqali logotip o'rnatish va Private channel",
+    "Administrators orqali qo'shimcha administrator qo'shish va Create Poll orqali so'rovnoma"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kanalni korporativ blog deb faraz qilib, matnga ko'ra qaysi yondashuv to'g'ri?",
+   "variantlar": [
+    "Faqat bildirishnomalarni o'chirish",
+    "Muallif uslubini izlash, eksklyuziv tarkib yaratish va plagiatdan qochish",
+    "Faqat rasmlarni joylash",
+    "Boshqa kanaldan tarkibni ko'chirib qo'yish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun Telegram kanali maqsadli auditoriyani jalb etishda samarali hisoblanadi? Matnga ko'ra to'g'ri xulosani tanlang.",
+   "variantlar": [
+    "Kanalda so'rovnoma o'tkazib bo'lmaydi",
+    "Har bir a'zo istalgan kontentni nashr qila oladi",
+    "Kanalni faqat o'zi yaratgan odam ko'ra oladi",
+    "Barcha kontent bir vaqtda bitta manbadan a'zolarga yuboriladi va a'zolar tematik tarkibni oladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Foydalanuvchi kanal turini tanlayotganda barcha odamlar qidiruv orqali topa olishini xohlaydi. Keyin kanal sozlamalarida nimani o'zgartirish mumkin?",
+   "variantlar": [
+    "Tur bir marta tanlanadi va hech qachon o'zgarmaydi",
+    "Faqat Skip orqali tur o'zgaradi",
+    "Tur faqat kanal o'chirilgandan keyin tanlanadi",
+    "Public channel tanlanadi, keyinchalik sozlashda kanal turini o'zgartirish mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kanal sozlash bo'limida quyidagilardan qaysi birini bajarib bo'lmaydi (matnga ko'ra)?",
+   "variantlar": [
+    "Kanalni tarmoqdan o'chirish",
+    "Kanalga a'zolarni qo'shish va o'chirish",
+    "Kanalga har bir a'zo nomidan kontent nashr qilish",
+    "Kanal nomini, mazmunini va turini o'zgartirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'quvchi loyihasi uchun kanal ochib, logotip qo'ymoqchi, do'stlarini qo'shmoqchi va yangi xabarlar bezovta qilmasligini istaydi. Qaysi to'plam to'g'ri?",
+   "variantlar": [
+    "Kamera rasmi orqali logotip, Add members orqali a'zolar, bildirishnomani o'chirish",
+    "Administrators orqali logotip, Create Poll orqali a'zolar, Skip",
+    "Delete channel, Skip, Create Poll",
+    "Add members orqali logotip, kamera rasmi orqali a'zolar, Delete channel"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kanal yaratishdagi to'g'ri tartibni tanlang.",
+   "variantlar": [
+    "New channel tanlash, nom va mazmun kiritish, kanal turi va manzilini belgilash, a'zolarni qo'shish yoki Skip",
+    "A'zolarni qo'shish, Delete channel, New channel, Create Poll",
+    "Kanal turi, Skip, Create Poll, New channel",
+    "Logotip o'rnatish, Delete channel, nom kiritish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "So'rovnoma yaratishda quyidagilardan qaysi ma'lumotlar ko'rsatiladi?",
+   "variantlar": [
+    "Faqat administratorlar ro'yxati",
+    "Savol, javob variantlari va sozlash qismida so'rovnoma turi",
+    "Kanalning o'chirish sanasi",
+    "Faqat kanal logotipi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Geometriya",
+ "mavzu": "Vektorniy masalalar",
+ "savollar": [
+  {
+   "savol": "Vektor deb nimaga aytiladi?",
+   "variantlar": [
+    "Ikki nuqtadan o'tuvchi to'g'ri chiziqqa",
+    "Yo'nalishsiz kesmaga",
+    "Nuqtadan chiquvchi nurga",
+    "Yo'nalgan kesmaga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikki vektor teng deyiladi, qachonki:",
+   "variantlar": [
+    "Faqat uzunliklari teng bo'lsa",
+    "Bir to'g'ri chiziqda yotsa",
+    "Uzunliklari teng va yo'nalishlari bir xil bo'lsa",
+    "Faqat yo'nalishlari bir xil bo'lsa"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nol vektorning uzunligi nechaga teng?",
+   "variantlar": [
+    "0",
+    "1",
+    "-1",
+    "Aniqlanmagan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi vektorlar kollinear deyiladi?",
+   "variantlar": [
+    "Uzunliklari teng vektorlar",
+    "Bir xil boshlang'ich nuqtaga ega vektorlar",
+    "Bir to'g'ri chiziqda yoki parallel to'g'ri chiziqlarda yotuvchi vektorlar",
+    "Bir nuqtadan chiqqan vektorlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qarama-qarshi vektorlar qanday bo'ladi?",
+   "variantlar": [
+    "Uzunliklari turlicha, yo'nalishlari bir xil",
+    "Uzunliklari turlicha, yo'nalishlari qarama-qarshi",
+    "Uzunliklari teng, yo'nalishlari bir xil",
+    "Uzunliklari teng, yo'nalishlari qarama-qarshi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a vektor va unga qarama-qarshi (−a) vektorning yig'indisi nimaga teng?",
+   "variantlar": [
+    "a",
+    "Nol vektor",
+    "2a",
+    "−a"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a(x1; y1) va b(x2; y2) vektorlarning yig'indisi koordinatalari qanday topiladi?",
+   "variantlar": [
+    "(x1·x2; y1·y2)",
+    "(x1 − x2; y1 − y2)",
+    "(x1 + x2; y1 + y2)",
+    "(x1 + y1; x2 + y2)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a(x; y) vektorni λ songa ko'paytirganda hosil bo'lgan vektorning koordinatalari qanday?",
+   "variantlar": [
+    "(x; λy)",
+    "(λx; y)",
+    "(λx; λy)",
+    "(x + λ; y + λ)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vektorlarni qo'shishning o'rin almashtirish qonuni qaysi?",
+   "variantlar": [
+    "a + b = a · b",
+    "a + b = b + a",
+    "a + 0 = 0",
+    "a + b = a − b"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikki vektorning skalyar ko'paytmasi nima bo'ladi?",
+   "variantlar": [
+    "Vektor",
+    "To'g'ri chiziq",
+    "Nuqta",
+    "Son"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a(3; 4) va b(1; −2) vektorlar berilgan. a + b vektorning koordinatalarini toping.",
+   "variantlar": [
+    "(4; 2)",
+    "(3; −8)",
+    "(4; −2)",
+    "(2; 6)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a(5; 3) va b(2; 7) vektorlar berilgan. a − b vektorning koordinatalarini toping.",
+   "variantlar": [
+    "(3; −4)",
+    "(7; 10)",
+    "(3; 4)",
+    "(−3; 4)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A(1; 2) va B(4; 6) nuqtalar berilgan. AB vektorning koordinatalarini toping.",
+   "variantlar": [
+    "(5; 8)",
+    "(4; 12)",
+    "(−3; −4)",
+    "(3; 4)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a(6; −8) vektorning uzunligini toping.",
+   "variantlar": [
+    "10",
+    "2",
+    "14",
+    "100"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a(2; −1) vektor berilgan. 3a vektorning koordinatalarini toping.",
+   "variantlar": [
+    "(6; −1)",
+    "(5; 2)",
+    "(2; −3)",
+    "(6; −3)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a(2; 3) va b(4; −1) vektorlarning skalyar ko'paytmasini toping.",
+   "variantlar": [
+    "8",
+    "5",
+    "11",
+    "−5"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a(2; k) va b(4; 6) vektorlar kollinear bo'lsa, k nechaga teng?",
+   "variantlar": [
+    "1,5",
+    "3",
+    "12",
+    "4"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a(2; 3) va b(x; 4) vektorlar perpendikulyar bo'lsa, x nechaga teng?",
+   "variantlar": [
+    "−6",
+    "1,5",
+    "−1,5",
+    "6"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "|a| = 5 bo'lsa, (−2a) vektorning uzunligi nechaga teng?",
+   "variantlar": [
+    "−10",
+    "−5",
+    "5",
+    "10"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a(−5; 12) vektorning uzunligini toping.",
+   "variantlar": [
+    "13",
+    "7",
+    "17",
+    "119"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A(−1; 3), B(2; 7), C(4; −1) nuqtalar berilgan. CD = AB bo'ladigan D nuqtaning koordinatalarini toping.",
+   "variantlar": [
+    "(3; 4)",
+    "(1; 3)",
+    "(7; 3)",
+    "(7; 5)"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a(2; −1) va b(−3; 4) vektorlar berilgan. 2a − 3b vektorning koordinatalarini toping.",
+   "variantlar": [
+    "(13; −14)",
+    "(−5; 10)",
+    "(−5; −14)",
+    "(13; 10)"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a(3; 4) vektor va b = 2a berilgan. a + b vektorning uzunligini toping.",
+   "variantlar": [
+    "5",
+    "15",
+    "25",
+    "10"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "ABCD parallelogrammda A(0; 0), B(4; 1), D(1; 3). C uchining koordinatalarini toping.",
+   "variantlar": [
+    "(4; 3)",
+    "(3; −2)",
+    "(5; 2)",
+    "(5; 4)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a(3; 0) va b(0; 4) vektorlar berilgan. a + b vektorning uzunligini toping.",
+   "variantlar": [
+    "5",
+    "25",
+    "7",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a(1; 2) va b(−2; 1) vektorlar berilgan. (a + b)·(a − b) ifodaning qiymatini toping.",
+   "variantlar": [
+    "0",
+    "−5",
+    "10",
+    "5"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a(2; 1) va b(k; 3) vektorlar berilgan. a + b vektor c(1; 1) vektorga kollinear bo'lsa, k nechaga teng?",
+   "variantlar": [
+    "1",
+    "4",
+    "−2",
+    "2"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a va b vektorlar o'zaro perpendikulyar, |a| = 3, |b| = 4 bo'lsa, |a − b| nechaga teng?",
+   "variantlar": [
+    "25",
+    "1",
+    "5",
+    "7"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "ABC uchburchakda AB(2; 3) va BC(−1; 4) bo'lsa, CA vektorning koordinatalarini toping.",
+   "variantlar": [
+    "(−3; 1)",
+    "(−1; −7)",
+    "(1; 7)",
+    "(3; −1)"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a(2; −3) va b(4; m) vektorlar kollinear va bir xil yo'nalishda bo'lsa, m nechaga teng?",
+   "variantlar": [
+    "−6",
+    "3",
+    "−1,5",
+    "6"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

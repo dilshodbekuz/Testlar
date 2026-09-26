@@ -1,0 +1,326 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Geometriya",
+ "mavzu": "Vektorniy operatsiyalar",
+ "savollar": [
+  {
+   "savol": "Markaziy burchakning uchi qayerda joylashgan?",
+   "variantlar": [
+    "Aylanada",
+    "Aylananing markazida",
+    "Aylanadan tashqarida",
+    "Aylana ichidagi ixtiyoriy nuqtada"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Markaziy burchakning gradus o'lchovi nimaga teng?",
+   "variantlar": [
+    "Doim 90° ga",
+    "U tiralgan yoyning yarmiga",
+    "U tiralgan yoyning ikki barobariga",
+    "U tiralgan yoyning gradus o'lchoviga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ichki chizilgan burchakning uchi qayerda bo'ladi?",
+   "variantlar": [
+    "Aylananing markazida",
+    "Aylana ichida, markazdan boshqa nuqtada",
+    "Aylanada",
+    "Aylanadan tashqarida"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ichki chizilgan burchak nimaga teng?",
+   "variantlar": [
+    "Tiralgan yoy o'lchoviga",
+    "180° ga",
+    "Tiralgan yoy o'lchovining yarmiga",
+    "Tiralgan yoy o'lchovining ikki barobariga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Diametrga tiralgan ichki chizilgan burchak necha gradus?",
+   "variantlar": [
+    "180°",
+    "60°",
+    "45°",
+    "90°"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aylananing bir xil yoyiga tiralgan ichki chizilgan burchaklar haqida qaysi gap to'g'ri?",
+   "variantlar": [
+    "Ular o'zaro teng",
+    "Ularning biri ikkinchisidan ikki marta katta",
+    "Ular 180° ga to'ldiradi",
+    "Ular doim 90° bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vektor nima?",
+   "variantlar": [
+    "Faqat uzunlikka ega kesma",
+    "Yo'nalishga ega kesma",
+    "Tekislikdagi nuqta",
+    "To'g'ri chiziq"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "AB vektorning |AB| belgisi nimani bildiradi?",
+   "variantlar": [
+    "Vektorning uzunligini",
+    "Vektorning boshlang'ich nuqtasini",
+    "Vektorning yo'nalishini",
+    "Vektorning oxirgi nuqtasini"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Butun aylananing gradus o'lchovi necha gradus?",
+   "variantlar": [
+    "90°",
+    "270°",
+    "360°",
+    "180°"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yarim aylananing gradus o'lchovi necha gradus?",
+   "variantlar": [
+    "120°",
+    "360°",
+    "90°",
+    "180°"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aylananing yoyi 80° bo'lsa, unga tiralgan ichki chizilgan burchak necha gradus?",
+   "variantlar": [
+    "80°",
+    "20°",
+    "160°",
+    "40°"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ichki chizilgan burchak 35° bo'lsa, u tiralgan yoy necha gradus?",
+   "variantlar": [
+    "17,5°",
+    "145°",
+    "70°",
+    "35°"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Markaziy burchak 110° bo'lsa, xuddi shu yoyga tiralgan ichki chizilgan burchak necha gradus?",
+   "variantlar": [
+    "55°",
+    "110°",
+    "220°",
+    "70°"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Aylanaga ichki chizilgan ABC uchburchakda AB diametr. Agar ∠A = 40° bo'lsa, ∠B necha gradus?",
+   "variantlar": [
+    "90°",
+    "50°",
+    "140°",
+    "40°"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yoyning gradus o'lchovi 100° bo'lsa, unga tiralgan markaziy burchak necha gradus?",
+   "variantlar": [
+    "50°",
+    "200°",
+    "100°",
+    "80°"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ichki chizilgan burchak 25° bo'lsa, u tiralgan yoy necha gradus?",
+   "variantlar": [
+    "12,5°",
+    "50°",
+    "25°",
+    "155°"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Aylanadagi AB yoyi 120° bo'lsa, aylananing qolgan yoyi necha gradus?",
+   "variantlar": [
+    "60°",
+    "180°",
+    "120°",
+    "240°"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Aylana ikki yoyga 1:5 nisbatda bo'lingan. Kichik yoy necha gradus?",
+   "variantlar": [
+    "30°",
+    "72°",
+    "90°",
+    "60°"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ichki chizilgan burchak 90° bo'lsa, u tiralgan yoy qanday?",
+   "variantlar": [
+    "180° li yoy (yarim aylana)",
+    "360° li yoy",
+    "270° li yoy",
+    "90° li yoy"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir yoyga tiralgan ikkita ichki chizilgan burchakdan biri 42° bo'lsa, ikkinchisi necha gradus?",
+   "variantlar": [
+    "42°",
+    "21°",
+    "84°",
+    "138°"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "AB aylananing diametri, C aylanadagi nuqta, ∠CAB = 30°. BC yoyi necha gradus?",
+   "variantlar": [
+    "30°",
+    "120°",
+    "60°",
+    "90°"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Aylana A, B, C, D nuqtalar bilan 2:3:4:3 nisbatdagi to'rtta yoyga bo'lingan. Eng kichik yoyga tiralgan ichki chizilgan burchak necha gradus?",
+   "variantlar": [
+    "120°",
+    "60°",
+    "45°",
+    "30°"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Aylanaga ichki chizilgan ABC uchburchakda AB diametr va ∠A = 2·∠B. ∠B necha gradus?",
+   "variantlar": [
+    "36°",
+    "60°",
+    "30°",
+    "45°"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O markazli aylanada AOB markaziy burchak 120°. OAB burchak necha gradus?",
+   "variantlar": [
+    "30°",
+    "60°",
+    "45°",
+    "120°"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ichki chizilgan ABC burchak 50° bo'lsa, unga mos AOC markaziy burchak (O – markaz) va OAC burchak mos ravishda necha gradus?",
+   "variantlar": [
+    "50° va 25°",
+    "100° va 40°",
+    "100° va 80°",
+    "100° va 50°"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi shart bajarilganda ikki vektor teng deyiladi?",
+   "variantlar": [
+    "Ular bir to'g'ri chiziqda yotsa",
+    "Faqat uzunliklari teng bo'lsa",
+    "Uzunliklari teng va yo'nalishlari bir xil bo'lsa",
+    "Faqat yo'nalishlari bir xil bo'lsa"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Aylanaga ichki chizilgan ABCD to'rtburchakda AC diametr. ∠ABC + ∠ADC yig'indisi necha gradus?",
+   "variantlar": [
+    "90°",
+    "270°",
+    "180°",
+    "360°"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "AB aylananing diametri, C aylanadagi nuqta va AC yoyi 80°. ∠BAC necha gradus?",
+   "variantlar": [
+    "10°",
+    "50°",
+    "80°",
+    "40°"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir yoyga tiralgan markaziy burchak ichki chizilgan burchakdan 35° ga katta. Ichki chizilgan burchak necha gradus?",
+   "variantlar": [
+    "55°",
+    "70°",
+    "35°",
+    "17,5°"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

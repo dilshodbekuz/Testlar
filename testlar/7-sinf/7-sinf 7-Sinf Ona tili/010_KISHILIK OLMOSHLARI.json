@@ -1,0 +1,326 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Ona tili",
+ "mavzu": "KISHILIK OLMOSHLARI",
+ "savollar": [
+  {
+   "savol": "Uch shaxsdan biriga ishora qiluvchi olmoshlar qanday olmoshlar hisoblanadi?",
+   "variantlar": [
+    "O'zlik olmoshlari",
+    "Kishilik olmoshlari",
+    "So'roq olmoshlari",
+    "Ko'rsatish olmoshlari"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, so'zlovchi qaysi shaxs sifatida qaraladi?",
+   "variantlar": [
+    "Ikkinchi shaxs",
+    "Birinchi shaxs",
+    "Uchinchi shaxs",
+    "To'rtinchi shaxs"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, tinglovchi qaysi shaxs sifatida qaraladi?",
+   "variantlar": [
+    "Uchinchi shaxs",
+    "Birinchi shaxs",
+    "O'zlik shaxs",
+    "Ikkinchi shaxs"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri birinchi shaxs kishilik olmoshlari qatoriga kiradi?",
+   "variantlar": [
+    "Men, biz",
+    "U, ular",
+    "Sen, siz",
+    "Sen, ular"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi olmoshlardan qaysi biri ikkinchi shaxs kishilik olmoshlari hisoblanadi?",
+   "variantlar": [
+    "Men, u",
+    "U, ular",
+    "Men, biz",
+    "Sen, siz"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi olmoshlardan qaysi biri birlik ma'nosini bildiradi?",
+   "variantlar": [
+    "Ular",
+    "Siz",
+    "Sen",
+    "Biz"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi qatorlardan qaysi birida faqat ko'plik ma'nosini bildiruvchi kishilik olmoshlari berilgan?",
+   "variantlar": [
+    "Sen, siz, u",
+    "Men, biz, u",
+    "Men, sen, u",
+    "Biz, siz, ular"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nutqdan tashqari barcha shaxs, narsa, voqea-hodisalar qaysi shaxs sifatida qaraladi?",
+   "variantlar": [
+    "Birinchi shaxs",
+    "Uchinchi shaxs",
+    "O'zlik shaxsi",
+    "Ikkinchi shaxs"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kishilik olmoshlari o'rnida qo'llanilib, ko'pincha shaxsni, ba'zan predmetni ko'rsatuvchi qaysi so'z o'zlik olmoshi sanaladi?",
+   "variantlar": [
+    "Shu",
+    "Hamma",
+    "Kim",
+    "O'z"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Men, sen olmoshlariga -ni, -ning, -niki qo'shimchalari qo'shilganda talaffuzda va yozuvda qanday o'zgarish bo'ladi?",
+   "variantlar": [
+    "Bitta n tovushi tushib qoladi",
+    "Oxirgi unli tushib qoladi",
+    "Bitta n tovushi ortadi",
+    "Hech qanday o'zgarish bo'lmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Mening uyim\" o'rniga \"Bizning uyimiz\" deyilganda \"biz\" olmoshi qanday ma'no bildiradi?",
+   "variantlar": [
+    "Kamtarlik, ishida o'zini ta'kidlamaslik",
+    "Ko'plik ma'nosini",
+    "Hurmat",
+    "Buyruq"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Sen kelding\" o'rniga \"Siz keldingiz\" deyilganda \"siz\" olmoshi qanday ma'no bildiradi?",
+   "variantlar": [
+    "Inkor",
+    "Hurmat",
+    "Kamtarlik",
+    "Ta'kid"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Men g'olib chiqdim\" gapini kamtarlik ma'nosida qanday aytish mumkin?",
+   "variantlar": [
+    "Sen g'olib chiqding",
+    "Biz g'olib chiqdik",
+    "Siz g'olib chiqdingiz",
+    "U g'olib chiqdi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"U keldi\" gapini hurmat ma'nosida qanday aytish mumkin?",
+   "variantlar": [
+    "Biz keldik",
+    "Ular keldilar",
+    "Sen kelding",
+    "Men keldim"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Siz\" hurmat ma'nosini bildirganda ko'plik ma'nosini ifodalash uchun unga qaysi qo'shimcha qo'shiladi?",
+   "variantlar": [
+    "-ning",
+    "-lar",
+    "-dan",
+    "-ni"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Sizlarga doimo baxt yor bo'lsin\" gapidagi \"sizlarga\" so'zi qaysi shaxs olmoshi shaklidir?",
+   "variantlar": [
+    "Ikkinchi shaxs",
+    "O'zlik olmoshi",
+    "Uchinchi shaxs",
+    "Birinchi shaxs"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Sen\" olmoshiga -ning qo'shimchasi qo'shilganda qaysi to'g'ri shakl hosil bo'ladi?",
+   "variantlar": [
+    "Sennning",
+    "Seni ning",
+    "Senning",
+    "Sening"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Men\" olmoshiga -niki qo'shimchasi qo'shilsa, qaysi to'g'ri shakl hosil bo'ladi?",
+   "variantlar": [
+    "Menniki",
+    "Meniki",
+    "Mening",
+    "Menki"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi birikmalardan qaysi biri o'zlik olmoshining kishilik olmoshi bilan to'g'ri qo'llanishiga misol bo'ladi?",
+   "variantlar": [
+    "Uning o'zim",
+    "Men o'zing",
+    "Mening o'zim",
+    "Sening o'zim"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Mustaqillik bizga milliy ma'naviyat olamini ochib berdi\" gapida kishilik olmoshi qaysi?",
+   "variantlar": [
+    "Berdi",
+    "Olamini",
+    "Bizga",
+    "Milliy"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Biz g'olib chiqdik\" gapi \"Men g'olib chiqdim\" o'rniga qo'llanganda, gapdagi olmosh qaysi ma'noda ishlatilgan?",
+   "variantlar": [
+    "Uchinchi shaxs, ta'kid ma'nosida",
+    "Ikkinchi shaxs, so'roq ma'nosida",
+    "Son jihatdan ko'plikda, hurmat ma'nosida",
+    "Son jihatdan birlikda, kamtarlik ma'nosida"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Ular keldilar\" gapi bitta kishiga nisbatan aytilgan bo'lsa, \"ular\" olmoshi qaysi shaxs va qanday ma'nodagi olmosh bo'ladi?",
+   "variantlar": [
+    "Ikkinchi shaxs, kamtarlik",
+    "Uchinchi shaxs, kamtarlik",
+    "Uchinchi shaxs, yakka shaxsga hurmat",
+    "Birinchi shaxs, ta'kid"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Sening mehring bilan yashaymiz, Vatan!\" satrida qaysi kishilik olmoshlari qatnashgan?",
+   "variantlar": [
+    "Sening (2-shaxs, ko'plik)",
+    "Sening (1-shaxs, birlik)",
+    "Sening (2-shaxs, birlik)",
+    "Sening (3-shaxs, ko'plik)"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi gaplarning qaysi birida o'z so'zi o'zlik olmoshi vazifasida kelgan?",
+   "variantlar": [
+    "Bu yerda o'z-o'zidan hech narsa bo'lmaydi degan gap bor",
+    "U to'g'ri yo'l tanladi",
+    "Biz o'z tuprog'imizni ko'z qorachig'idek asraymiz",
+    "Sen kitob o'qiding"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi gaplardan qaysi birida kishilik olmoshiga ta'kid ma'nosi yuklangan?",
+   "variantlar": [
+    "Sen o'zing bu ishni bajarding",
+    "U bu ishni bajardi",
+    "Sen bu ishni bajarding",
+    "Siz bu ishni bajarding"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Anovi kungi yosh mehmonni senga maqtasam, achchiqlanding, ammo kelib-kelib bu kun seni o'shanga berdilar\" gapida \"senga\" va \"seni\" so'zlari qaysi shaxs va sonda?",
+   "variantlar": [
+    "Birinchi shaxs, birlik",
+    "Ikkinchi shaxs, ko'plik",
+    "Ikkinchi shaxs, birlik",
+    "Uchinchi shaxs, birlik"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Yutuqlar o'zimizniki\" gapida \"o'zimizniki\" so'zi qaysi shaxs va songa mos keladi?",
+   "variantlar": [
+    "Birinchi shaxs, birlik (men)",
+    "Uchinchi shaxs, birlik (u)",
+    "Birinchi shaxs, ko'plik (biz)",
+    "Ikkinchi shaxs, birlik (sen)"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Sen kelding\" gapini bir necha qadamda hurmat ma'nosida ham, ko'plik ma'nosida ham ifodalash uchun qaysi shakl to'g'ri?",
+   "variantlar": [
+    "Bizlar keldinglar",
+    "Men keldingiz",
+    "Sizlar keldingizlar",
+    "Ular keldingiz"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Sen\" olmoshiga -ni va -ning qo'shimchalari qo'shilganda qaysi qatorda to'g'ri shakllar berilgan?",
+   "variantlar": [
+    "Senni, senning",
+    "Senni, sening",
+    "Seni, sening",
+    "Seni, senning"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

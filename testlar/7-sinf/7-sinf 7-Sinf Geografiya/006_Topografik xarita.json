@@ -1,0 +1,326 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Geografiya",
+ "mavzu": "Topografik xarita",
+ "savollar": [
+  {
+   "savol": "Topografik xaritaning har bir varag'i qanday katakchalarga bo'lingan bo'ladi?",
+   "variantlar": [
+    "Metrli kataklarga",
+    "Gradusli kataklarga",
+    "Santimetrli kataklarga",
+    "Kilometrli kataklarga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Topografik xaritadagi kilometrli katakning tomoni haqiqatda necha metrga teng qilib olinadi?",
+   "variantlar": [
+    "1000 m",
+    "100 m",
+    "500 m",
+    "10 000 m"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Davlat geodeziya to'ri tayanch nuqtalarining shartli belgisi qanday shaklda?",
+   "variantlar": [
+    "Doira",
+    "Yulduzcha",
+    "Kvadrat",
+    "To'g'ri uchburchak"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Daryolar, soylar va ularning irmoqlari topografik xaritada qanday rangda tasvirlanadi?",
+   "variantlar": [
+    "Ko'k",
+    "Qizil",
+    "Yashil",
+    "Qora"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xaritaning pastki ramkasidan yuqori tomonga yo'nalish qaysi harf bilan belgilanadi?",
+   "variantlar": [
+    "z",
+    "x",
+    "a",
+    "y"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xaritaning pastki ramkasidan o'ng tomonga gorizontal yo'nalish qaysi harf bilan belgilanadi?",
+   "variantlar": [
+    "x",
+    "b",
+    "y",
+    "z"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aholi manzilgohlari nomi ostidagi raqamlar nimani ifodalaydi?",
+   "variantlar": [
+    "Yo'l kengligini",
+    "Mutlaq balandlikni",
+    "Xonadonlar sonini",
+    "Daryo chuqurligini"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'llar, suv omborlari va hovuzlar xaritada qanday rang bilan tasvirlanadi?",
+   "variantlar": [
+    "Qora",
+    "Havorang",
+    "Qizil",
+    "Jigarrang"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Masshtabsiz shartli belgilar bilan qaysi obyektlar ko'rsatiladi?",
+   "variantlar": [
+    "Sanoat va madaniy binolar, korxonalar, elektrostansiya",
+    "Faqat ko'llar",
+    "Faqat daryolar",
+    "Faqat o'rmonlar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Geodeziya tayanch nuqtasi shartli belgisi yoniga yozilgan sonlar nimani bildiradi?",
+   "variantlar": [
+    "Daraxt balandligini",
+    "Xonadonlar sonini",
+    "Yo'l kengligini",
+    "Uning mutlaq balandligini"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shaharlar va qishloqlar nomlari xaritada qanday yoziladi?",
+   "variantlar": [
+    "Shaharlar nomi kichik, qishloqlar nomi yirik harflar bilan",
+    "Faqat qizil rangda",
+    "Shaharlar nomi yirik, qishloqlar nomi kichikroq harflar bilan",
+    "Ikkalasi bir xil harflar bilan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Masshtabi 1:25 000 bo'lgan xaritada kilometrli katakning tomoni necha sm bo'ladi?",
+   "variantlar": [
+    "10 sm",
+    "1 sm",
+    "2 sm",
+    "4 sm"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Masshtabi 1:50 000 bo'lgan xaritada kilometrli katakning tomoni necha sm bo'ladi?",
+   "variantlar": [
+    "10 sm",
+    "4 sm",
+    "2 sm",
+    "1 sm"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Masshtabi 1:10 000 bo'lgan xaritada kilometrli katakning tomoni necha sm bo'ladi?",
+   "variantlar": [
+    "2 sm",
+    "10 sm",
+    "4 sm",
+    "1 sm"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Masshtabi 1:100 000 bo'lgan xarita trapetsiyasining o'lchami qanday?",
+   "variantlar": [
+    "Uzunlik bo'yicha 20′, kenglik bo'yicha 30′",
+    "Uzunlik bo'yicha 30′, kenglik bo'yicha 20′",
+    "Uzunlik bo'yicha 5′, kenglik bo'yicha 7′30″",
+    "Uzunlik bo'yicha 7′30″, kenglik bo'yicha 5′"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Masshtabi 1:25 000 bo'lgan xarita trapetsiyasining o'lchami qanday?",
+   "variantlar": [
+    "Uzunlik bo'yicha 30′, kenglik bo'yicha 20′",
+    "Uzunlik bo'yicha 20′, kenglik bo'yicha 30′",
+    "Uzunlik bo'yicha 5′, kenglik bo'yicha 7′30″",
+    "Uzunlik bo'yicha 7′30″, kenglik bo'yicha 5′"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ko'prik tavsifida \"T 16/6 10\" yozilgan. Bu ko'prik haqida qaysi fikr to'g'ri?",
+   "variantlar": [
+    "Temir ko'prik, uzunligi 16 m, kengligi 6 m, yuk ko'tarishi 10 t",
+    "Temir ko'prik, uzunligi 10 m, kengligi 6 m, yuk ko'tarishi 16 t",
+    "Temir ko'prik, uzunligi 6 m, kengligi 16 m, yuk ko'tarishi 10 t",
+    "Toshli ko'prik, uzunligi 16 m, kengligi 10 m, yuk ko'tarishi 6 t"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kechuv tavsifida 17, 1,2 va Q yozilgan. Bu kechuv haqida qaysi fikr to'g'ri?",
+   "variantlar": [
+    "Kengligi 17 m, chuqurligi 1,2 m, tubi qum",
+    "Kengligi 1,2 m, chuqurligi 17 m, tubi qum",
+    "Kengligi 17 m, chuqurligi 1,2 m, tubi qumloq tosh",
+    "Uzunligi 17 m, balandligi 1,2 m, tubi qum"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Daraxtlar tavsifida \"16 — balandligi; 0,30 — yo'g'onligi; 5 — daraxtlar oralig'i\" deyilgan. 16 soni nimani bildiradi?",
+   "variantlar": [
+    "Daraxt yo'g'onligini (m)",
+    "Daraxt balandligini (m)",
+    "Daraxtlar oralig'ini (m)",
+    "Daraxtlar sonini"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Xaritada masshtab 1:25 000 bo'lsa, xaritadagi 6 sm haqiqatda necha metrga to'g'ri keladi (1 sm = 250 m)?",
+   "variantlar": [
+    "150 m",
+    "1500 m",
+    "1200 m",
+    "1800 m"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1:25 000 masshtabli xaritada ikki nuqta orasidagi masofa 8 sm. Haqiqiy masofa necha kilometr?",
+   "variantlar": [
+    "1 km",
+    "8 km",
+    "2 km",
+    "4 km"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Masshtabi 1:50 000 bo'lgan xaritada katak tomoni 2 sm. Shu xaritada ikki nuqta orasi 5 sm bo'lsa, haqiqiy masofa necha km?",
+   "variantlar": [
+    "10 km",
+    "1,5 km",
+    "2,5 km",
+    "5 km"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1:25 000 masshtabli xaritada ikki nuqta orasi 3 ta to'liq katak (tomoni 4 sm) bo'lsa, xaritada necha sm va haqiqatda necha km bo'ladi?",
+   "variantlar": [
+    "12 sm va 3 km",
+    "4 sm va 1 km",
+    "12 sm va 12 km",
+    "3 sm va 3 km"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Xaritada qaysi masshtabda bir xil 2 km masofa eng katta uzunlik (sm) bilan ko'rsatiladi?",
+   "variantlar": [
+    "1:10 000",
+    "1:50 000",
+    "1:100 000",
+    "1:25 000"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Xaritada ikki nuqta orasi 1:10 000 masshtabda 20 sm bo'lsa, haqiqiy masofa necha metr?",
+   "variantlar": [
+    "500 m",
+    "2000 m",
+    "20 000 m",
+    "200 m"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir xil masofa 1:100 000 masshtabli xaritada 3 sm bo'lsa, 1:25 000 masshtabli xaritada necha sm bo'ladi?",
+   "variantlar": [
+    "9 sm",
+    "6 sm",
+    "12 sm",
+    "24 sm"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Xaritada aholi punkti nomi yirik harflar bilan, tagida esa \"120\" yozilgan. Bu haqida to'g'ri xulosa qaysi?",
+   "variantlar": [
+    "Bu shahar bo'lib, unda 120 ta xonadon bor",
+    "Bu qishloq bo'lib, balandligi 120 m",
+    "Bu daryo bo'lib, chuqurligi 120 m",
+    "Bu yo'l bo'lib, kengligi 120 m"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Shosse yo'lida \"10\" to'shamali qismining kengligi, \"14\" umumiy kengligi bo'lsa, yo'l yon qismlarining (chetlarining) umumiy kengligi necha metr?",
+   "variantlar": [
+    "24 m",
+    "14 m",
+    "10 m",
+    "4 m"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ko'prik tavsifi \"T 16/6 10\" bo'lgan ko'prikning uzunligi kengligidan necha metr ortiq?",
+   "variantlar": [
+    "16 m",
+    "6 m",
+    "22 m",
+    "10 m"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

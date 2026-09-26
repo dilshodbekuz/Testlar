@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf O‘qish",
+ "mavzu": "Qorboboga elektron maktub",
+ "savollar": [
+  {
+   "savol": "Sardor maktabdan qanday kayfiyatda keldi?",
+   "variantlar": [
+    "norveul holda",
+    "xaotik ravishda",
+    "o'zgacha hayajon bilan",
+    "juda stressli holda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sardor qo'liga nima oldi?",
+   "variantlar": [
+    "ruchka",
+    "yongli",
+    "qalam",
+    "qarandash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Daftar varag'iga qanday sarlavha qo'ydi?",
+   "variantlar": [
+    "Tog'",
+    "Qor",
+    "Qish",
+    "Sovuq"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Oy qaysi oydi?",
+   "variantlar": [
+    "Yanvar",
+    "Fevral",
+    "Dekabr",
+    "Noyabr"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Deraza yoniga kelib, Sardor nima ko'rdi?",
+   "variantlar": [
+    "Qor yog'magan",
+    "Qor yog'ayotgan",
+    "Qor erimasi",
+    "Qor qolmasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yer qanday holda turgan edi?",
+   "variantlar": [
+    "Suv bilan to'la",
+    "Qorga o'ralgan",
+    "Qup-quruq",
+    "Yashil"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bolalar Qorboboga qanday yo'l bilan xat yuboribdilar?",
+   "variantlar": [
+    "Pochtadan",
+    "Elektron pochtadan",
+    "Odam orqali",
+    "Telefondan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ertak hikoyasida qanday joyda bo'lgan ekan?",
+   "variantlar": [
+    "Qishloqni",
+    "Tog'ni",
+    "O'rmoni",
+    "Shaharni"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ertak hikoyasidagi joyda qish faslida nima bo'lmas ekan?",
+   "variantlar": [
+    "Sovuq",
+    "Qor",
+    "Yomg'ir",
+    "Shamol"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ertasi kuni ustoz nima qildi?",
+   "variantlar": [
+    "Boshqa mavzu o'qitdi",
+    "Maktabni yopdi",
+    "Darsni o'qitdi",
+    "Ertaklarni o'qib berdi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sardor nima sababli deraza yoniga ketdi?",
+   "variantlar": [
+    "Qish haqida qanday ekanligini bilish uchun",
+    "Oyna toza qilish uchun",
+    "Dars yozish uchun",
+    "Havo shomilishi uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sardor nima sababli \"ustozimiz ham qiziq\" deb o'yladi?",
+   "variantlar": [
+    "Dars qiyin bo'lgan",
+    "Matn qiyin bo'lgan",
+    "O'quvchilar kuta bo'lgan",
+    "Qor yog'magan bo'lsa, bolalar qorbobo yasamayotgan bo'lishsa"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sardor fikrladi, ba'zi yerda qish faslida nima bo'lar ekan?",
+   "variantlar": [
+    "Havo issiq bo'lar ekan, qor yog'maydi",
+    "Qor ko'payadi",
+    "Hamma shunchaki o'tiladi",
+    "Qorbobo keladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sardor o'ziga o'zi \"Qorboboga SMS jo'natib\" nima iltimos qilishni hayal qildi?",
+   "variantlar": [
+    "Qorni erish",
+    "Qorbobo kelishi",
+    "Sovuq havo va ko'proq qor yuborish",
+    "Qoyun yuborish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sardor o'z fikridagi muammoni hal qilish uchun nima qildi?",
+   "variantlar": [
+    "Uyiga ketdi",
+    "Boshqa ertak o'qidi",
+    "Ustoza so'rash ketdi",
+    "Ertak yoza boshladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sardor yozgan ertakda bolalar Qorboboga nima orqali xat yuboribdilar?",
+   "variantlar": [
+    "Elektron pochtada",
+    "Kitobda",
+    "Qo'lida",
+    "Avtobusda"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ertak hikoyasida Qorbobo bolalarga qayerdan nima yuboribdi?",
+   "variantlar": [
+    "Shahardan pul",
+    "Boshqa joydan taom",
+    "Tog'lardan va o'rmonlardan qor va sovuq",
+    "Viloyatdan kitob"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bolalar Qorboboga yuborgan xatlarni o'qib, Qorbobo nima qildi?",
+   "variantlar": [
+    "Javob yozdi",
+    "Darhol keldi",
+    "Ko'p-ko'p qor va sovuq yuboribdi",
+    "Hech narsani qilmadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ertakda bolalarning \"murod-u maqsadiga yetishishi\" nima sababli bo'ldi?",
+   "variantlar": [
+    "Qorbobo qor va sovuq yuboribdi, bolalar qor o'ynab, qorbobo yasabdi",
+    "Qorbobo o'zi keldi",
+    "Qor ko'p yog'di",
+    "Bahor keldi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shahzod Sardorga qanday xabar aytdi?",
+   "variantlar": [
+    "Bugun bahor bo'ladi",
+    "Dars vaqti o'zgaradi",
+    "Maktab yopiladi",
+    "Internetdan ko'rdim, bugun qor yog'ar ekan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sardor deraza yoniga kelib qanday muammoga duch keldi?",
+   "variantlar": [
+    "Quloq kesimi",
+    "Ustoz g'azabi",
+    "Qor yog'mashligiga, eratlarini yoza olmasligi",
+    "Dostlarining kelmashligi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sardor \"Voy, shular haqida yozsa bo'ladi-ku!\" deb o'ylashiga nima olib keldi?",
+   "variantlar": [
+    "O'z fikridagi qishloq va Qorbobo masalasini ertak sifatida yozish g'oyasi",
+    "Deraza tashqarida qor",
+    "Shahzod maslahatı",
+    "Ustoz iltiros"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ertakda Qorboboni keltirmay turgan asosiy sabab nima edi?",
+   "variantlar": [
+    "Bolalar xat yuboradi",
+    "Qorbobo boshqa joyda edi",
+    "Qishloqda qor yog'maydi, sovuq bo'lmaydi",
+    "O'qituvchi ruxsat bermadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bolalar elektron xat orqali Qorboboga yuborgan iltimosning natijasi nima bo'ldi?",
+   "variantlar": [
+    "Qorbobo yozib javob berdi",
+    "Qorbobo keldi",
+    "Hech narsa bo'lmadi",
+    "Qorbobo tog'lardan o'rmonlardan qor va sovuq yubordi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sardor yozgan ertaka va haqiqiy dunyoning qanday bog'lanishi ko'rinadi?",
+   "variantlar": [
+    "Faqat haqiqiy voqea",
+    "Birga bo'lmaydi",
+    "Faqat ertak",
+    "Sardorning o'z muammosini (qor bo'lmay, ertak yoza olmaslik) ertakga o'z ichiga yutgan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Bir bor ekan, bir yo'q ekan\" so'zlari o'zbek ertaklarida qanday rol o'ynaydi?",
+   "variantlar": [
+    "Voqeani baholash",
+    "Qorboboni chaqirish",
+    "Ertak boshlashning tarixiy va an'anaviy yo'li",
+    "Qishni tavsifi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sardor bilan Shahzod orasidagi fark nimada?",
+   "variantlar": [
+    "Sardor o'qituvchi, Shahzod o'quvchi",
+    "Sardor hayal qila oldi va ertak yoza oldi, Shahzod haqiqiy hayotdagi qorni yuqorida shahar sharoitida kutadi",
+    "Sardor dars yozdi, Shahzod o'ynadi",
+    "Sardor qolishdi, Shahzod ketdi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ertakda \"Qorbobo bolalardan o'z e-mail-iga kelgan xatlarni o'qib\" turgan ma'nosi nima?",
+   "variantlar": [
+    "Bolalarning muammolarini talaffuz qilish va u muammolarga yechim berish",
+    "Qorbobo foydali",
+    "Qorbobo ijodiy",
+    "Qorbobo texnik savatchisi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ertakda bolalarning qor o'ynab, chana uchibdilar, qordan qorbobo yasabdilar kechilishi nima ko'rsatadi?",
+   "variantlar": [
+    "Bolalar qilg'isa o'yinadi",
+    "Bolalar badbaxtlar",
+    "Qor zarar beradi",
+    "Bolalarning xohishatlari bajarildi va murod-u maqsadiga yetdi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matn qaysi mavzuda taassurotni yaratadi?",
+   "variantlar": [
+    "Hayal va ijodiylik kuchi haqiqiy muammolarni hal qila oladi",
+    "Qor xavfi",
+    "Elektron pochtaning zararlı tomonları",
+    "Qorboboning kuchi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

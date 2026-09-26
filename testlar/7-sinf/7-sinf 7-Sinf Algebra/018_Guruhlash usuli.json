@@ -1,0 +1,337 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Algebra",
+ "mavzu": "Guruhlash usuli",
+ "savollar": [
+  {
+   "savol": "Guruhlash usuli qanday ko'phadlarga qo'llaniladi?",
+   "variantlar": [
+    "Faqat kvadrat ko'rinishidagi ifodalarga",
+    "Faqat bir hadli ifodalarga",
+    "Hamma hadlari uchun umumiy ko'paytuvchi mavjud bo'lmagan ko'phadlarga",
+    "Faqat sonlardan iborat ifodalarga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'phadni guruhlash usuli qaysi qonunlarga asoslangan?",
+   "variantlar": [
+    "Faqat ayirish qonuniga",
+    "Qo'shish va ko'paytirishning guruhlash, o'rin almashtirish va taqsimot qonunlariga",
+    "Faqat ko'paytirishning o'rin almashtirish qonuniga",
+    "Faqat bo'lish qoidasiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a(b + c) + b + c ifodani ko'paytuvchilarga ajrating.",
+   "variantlar": [
+    "(a + b)(a + c)",
+    "(b + c)(a + 1)",
+    "(b − c)(a + 1)",
+    "(b + c)(a − 1)"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a(b − c) − b + c ifodani ko'paytuvchilarga ajrating.",
+   "variantlar": [
+    "(b + c)(a − 1)",
+    "(b + c)(a + 1)",
+    "(b − c)(a − 1)",
+    "(b − c)(a + 1)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'phadni guruhlash usuli bilan ko'paytuvchilarga ajratishning birinchi qadami qaysi?",
+   "variantlar": [
+    "Ko'phadni kvadratga oshirish",
+    "Hadlarni ko'phad shaklidagi umumiy ko'paytuvchiga ega bo'ladigan guruhlarga birlashtirish",
+    "Barcha hadlarni qo'shib yuborish",
+    "Barcha hadlarning ishorasini o'zgartirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hadlar guruhlab bo'lingandan keyin ko'paytuvchilarga ajratishning ikkinchi qadami qaysi?",
+   "variantlar": [
+    "Qavslarni ochib chiqish",
+    "Hamma hadlarni nolga tenglash",
+    "Umumiy ko'paytuvchini qavsdan tashqariga chiqarish",
+    "Hadlarni ko'paytirib yuborish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "m(x + y) + n(x + y) ifodani ko'paytuvchilarga ajrating.",
+   "variantlar": [
+    "(x + y)(m + n)",
+    "(m − n)(x + y)",
+    "(x − y)(m + n)",
+    "mn(x + y)"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "ax + bx + ay + by + az + bz ko'phadni ikkitadan guruhlab ajratganda qanday natija hosil bo'ladi?",
+   "variantlar": [
+    "(a − b)(x + y + z)",
+    "(a + b)(x − y − z)",
+    "(a + b)(x + y + z)",
+    "(a + x)(b + y + z)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikki son yig'indisining kvadrati (a + b)² formulasi qaysi?",
+   "variantlar": [
+    "a² + ab + b²",
+    "a² − 2ab + b²",
+    "a² + 2ab + b²",
+    "a² + b²"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikki son ayirmasining kvadrati (a − b)² formulasi qaysi?",
+   "variantlar": [
+    "a² − 2ab + b²",
+    "a² − b²",
+    "a² + 2ab + b²",
+    "a² − 2ab − b²"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "3x + 3y + ax + ay ko'phadni ko'paytuvchilarga ajrating.",
+   "variantlar": [
+    "(3 + x)(a + y)",
+    "(x + y)(3 + a)",
+    "(x + y)(3 − a)",
+    "(x − y)(3 + a)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ax − ay + bx − by ko'phadni ko'paytuvchilarga ajrating.",
+   "variantlar": [
+    "(x − y)(a − b)",
+    "(x + y)(a + b)",
+    "(a − b)(x + y)",
+    "(x − y)(a + b)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2am + 2an − 3bm − 3bn ko'phad ko'paytuvchilarga ajratilsa, qaysi natija hosil bo'ladi?",
+   "variantlar": [
+    "(m + n)(2a + 3b)",
+    "(m − n)(2a − 3b)",
+    "(m + n)(2a − 3b)",
+    "(a + b)(2m − 3n)"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hisoblang: 139·15 + 18·139 + 15·261 + 18·261",
+   "variantlar": [
+    "14 400",
+    "13 000",
+    "13 200",
+    "12 000"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hisoblang: 14,7·13 − 2·14,7 + 13·5,3 − 2·5,3",
+   "variantlar": [
+    "210",
+    "200",
+    "242",
+    "220"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ax + ay + bx + by ifodaning qiymatini toping, bunda a = 3, b = 2, x = 4, y = 1.",
+   "variantlar": [
+    "35",
+    "25",
+    "20",
+    "30"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x(x − 4) + x − 4 = 0 tenglamaning ildizlari qaysilar?",
+   "variantlar": [
+    "4 va 1",
+    "4 va −1",
+    "−4 va 1",
+    "−4 va −1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "t(t + 7) − 4t − 28 ifodani ko'paytuvchilarga ajrating.",
+   "variantlar": [
+    "(t − 7)(t − 4)",
+    "(t − 7)(t + 4)",
+    "(t + 7)(t − 4)",
+    "(t + 7)(t + 4)"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "4q(p − 1) + p − 1 ifodani ko'paytuvchilarga ajrating.",
+   "variantlar": [
+    "(p + 1)(4q + 1)",
+    "(p − 1)(q + 4)",
+    "(p − 1)(4q + 1)",
+    "(p − 1)(4q − 1)"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ac + bc − 2ad − 2bd ko'phadni ko'paytuvchilarga ajrating.",
+   "variantlar": [
+    "(a − b)(c − 2d)",
+    "(a + b)(c + 2d)",
+    "(a + b)(c − 2d)",
+    "(a + b)(2c − d)"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ac + bc − 2ad − 2bd ifodaning qiymatini toping, bunda a = 2, b = 3, c = 7, d = 2.",
+   "variantlar": [
+    "15",
+    "10",
+    "25",
+    "5"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hisoblang: 125·48 − 31·82 − 31·43 + 125·83",
+   "variantlar": [
+    "12 500",
+    "12 000",
+    "13 100",
+    "11 250"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "ax + 2bx − 3ay − 6by ko'phadni ko'paytuvchilarga ajrating.",
+   "variantlar": [
+    "(a + 2b)(x − 3y)",
+    "(a + 2b)(x + 3y)",
+    "(a − 2b)(x − 3y)",
+    "(a + 3b)(x − 2y)"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3a(2b + c) + 8b + 4c ifodani ko'paytuvchilarga ajrating.",
+   "variantlar": [
+    "(2b + c)(3a − 4)",
+    "(2b − c)(3a + 4)",
+    "(2b + c)(3a + 8)",
+    "(2b + c)(3a + 4)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a² + ab − 5a − 5b ifodaning qiymatini toping, bunda a = 6,6 va b = 0,4.",
+   "variantlar": [
+    "11,2",
+    "8,4",
+    "35",
+    "7"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "t(t + 7) − 4t − 28 = 0 tenglama ildizlarining ko'paytmasi nimaga teng?",
+   "variantlar": [
+    "−28",
+    "3",
+    "−3",
+    "28"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a(b + c) + b + c va a(b − c) − b + c ifodalar ayirmasining birinchisidan ikkinchisini ayirilgandagi qiymatini toping, bunda a = 2, b = 3, c = 4.",
+   "variantlar": [
+    "20",
+    "22",
+    "24",
+    "18"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3mx − my + 3nx − ny ko'phadni ko'paytuvchilarga ajrating.",
+   "variantlar": [
+    "(x − 3y)(m + n)",
+    "(3x − y)(m − n)",
+    "(3x − y)(m + n)",
+    "(3x + y)(m + n)"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "ax − ay − bx + by ifodada x − y = 5 va a − b = 3 bo'lsa, uning qiymati nimaga teng?",
+   "variantlar": [
+    "−15",
+    "2",
+    "8",
+    "15"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a + b = 7 va ab = 10 bo'lsa, a² + b² nimaga teng?",
+   "variantlar": [
+    "39",
+    "49",
+    "29",
+    "19"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

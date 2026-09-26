@@ -1,0 +1,326 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Algebra",
+ "mavzu": "Natural ko'rsatkichli darajaning xossalari",
+ "savollar": [
+  {
+   "savol": "Bir xil asosli darajalarni ko'paytirishda a^m · a^n nimaga teng?",
+   "variantlar": [
+    "a^(m+n)",
+    "a^(m−n)",
+    "a^(m·n)",
+    "(2a)^(m+n)"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a^m : a^n (m > n, a ≠ 0) ifoda nimaga teng?",
+   "variantlar": [
+    "a^(m−n)",
+    "a^(n−m)",
+    "a^(m+n)",
+    "a^(m·n)"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Darajani darajaga ko'tarishda (a^m)^n nimaga teng?",
+   "variantlar": [
+    "a^(m+n)",
+    "a^m · n",
+    "a^(m−n)",
+    "a^(m·n)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'paytmani darajaga ko'tarish xossasi qaysi javobda to'g'ri yozilgan?",
+   "variantlar": [
+    "(ab)^n = a^n · b^n",
+    "(ab)^n = ab^n",
+    "(ab)^n = a^n + b^n",
+    "(ab)^n = a·b^n"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kasrni darajaga ko'tarish xossasi qaysi javobda to'g'ri yozilgan (b ≠ 0)?",
+   "variantlar": [
+    "(a/b)^n = a / b^n",
+    "(a/b)^n = a^n − b^n",
+    "(a/b)^n = a^n / b",
+    "(a/b)^n = a^n / b^n"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir xil asosli darajalarni ko'paytirishda daraja ko'rsatkichlari bilan nima qilinadi?",
+   "variantlar": [
+    "Bo'linadi",
+    "Qo'shiladi",
+    "Ayiriladi",
+    "Ko'paytiriladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir xil asosli darajalarni bo'lishda asos va daraja ko'rsatkichlari haqida qaysi gap to'g'ri?",
+   "variantlar": [
+    "Asos o'zgarmaydi, ko'rsatkichlar qo'shiladi",
+    "Asoslar bo'linadi, ko'rsatkichlar o'zgarmaydi",
+    "Asos o'zgarmaydi, ko'rsatkichlar ko'paytiriladi",
+    "Asos o'zgarmaydi, ko'rsatkichlar ayiriladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Darajaning ikkinchi xossasi (a^m : a^n = a^(m−n)) qanday shartlarda o'rinli?",
+   "variantlar": [
+    "m > n, a = 0",
+    "m = n, a = 0",
+    "m > n, a ≠ 0",
+    "m < n, a ≠ 0"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'paytmani darajaga ko'tarishda (ab)^n ifodada nima sodir bo'ladi?",
+   "variantlar": [
+    "Ko'paytuvchilar qo'shiladi",
+    "Darajaga faqat ikkinchi ko'paytuvchi ko'tariladi",
+    "Har bir ko'paytuvchi shu darajaga ko'tariladi",
+    "Faqat birinchi ko'paytuvchi shu darajaga ko'tariladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a ≠ 0 bo'lganda a^n : a^n ifoda nimaga teng?",
+   "variantlar": [
+    "1",
+    "a",
+    "a^(2n)",
+    "0"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "3^5 · 3^4 ko'paytmani daraja shaklida yozing.",
+   "variantlar": [
+    "3^9",
+    "9^9",
+    "3^20",
+    "3^1"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(2^3)^2 ifodani bitta daraja shaklida yozing.",
+   "variantlar": [
+    "2^9",
+    "2^6",
+    "2^5",
+    "2^8"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(3b)^2 ifodani ko'paytmani darajaga ko'tarish xossasi bo'yicha yozing.",
+   "variantlar": [
+    "9b^2",
+    "6b^2",
+    "3b^2",
+    "9b"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "7^10 : 7^8 ni hisoblang.",
+   "variantlar": [
+    "343",
+    "14",
+    "7",
+    "49"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(a^5)^6 ifodani a asosli daraja shaklida yozing.",
+   "variantlar": [
+    "a^30",
+    "a^1",
+    "a^11",
+    "a^56"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "128 sonini asosi 2 bo'lgan daraja shaklida yozing.",
+   "variantlar": [
+    "2^9",
+    "2^7",
+    "2^6",
+    "2^8"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x · 2^6 = 2^8 tenglamadan x ni toping.",
+   "variantlar": [
+    "2",
+    "16",
+    "4",
+    "8"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(2/3)^3 ni hisoblang.",
+   "variantlar": [
+    "6/9",
+    "8/27",
+    "8/9",
+    "2/27"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(0,25)^7 · 4^7 ifodaning qiymatini toping.",
+   "variantlar": [
+    "7",
+    "4",
+    "1",
+    "0,25"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "n ning qanday qiymatida 2^n = 128 tenglik to'g'ri bo'ladi?",
+   "variantlar": [
+    "64",
+    "8",
+    "6",
+    "7"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a^7 · a^5 · (a^2)^4 ifodani a asosli daraja shaklida yozing.",
+   "variantlar": [
+    "a^16",
+    "a^80",
+    "a^20",
+    "a^24"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(a^7)^5 : (a^3)^4 ifodani a asosli daraja shaklida yozing.",
+   "variantlar": [
+    "a^3",
+    "a^23",
+    "a^12",
+    "a^47"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "n ning qanday qiymatida (3^n)^2 = 81 tenglik to'g'ri bo'ladi?",
+   "variantlar": [
+    "4",
+    "3",
+    "2",
+    "9"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "n ning qanday qiymatida 3 · (3^2)^n = 3^11 tenglik to'g'ri bo'ladi?",
+   "variantlar": [
+    "4",
+    "10",
+    "6",
+    "5"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yorug'likning tezligi 3·10^8 m/s, Yerdan Quyoshgacha masofa 1,5·10^11 m. Yorug'lik nuri bu masofani qancha vaqtda bosib o'tadi?",
+   "variantlar": [
+    "5 min",
+    "500 s = 8 min 20 s",
+    "50 s",
+    "5000 s"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(−0,125)^11 · 8^11 ifodaning qiymatini toping.",
+   "variantlar": [
+    "1",
+    "0,125",
+    "−1",
+    "−8"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(5^8 · 5^7) : 5^13 ifodaning qiymatini toping.",
+   "variantlar": [
+    "125",
+    "5",
+    "5^2 · 5^2 = 625",
+    "25"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "6^20 va 3^40 sonlaridan qaysi biri katta? (Yo'nalish: 6^20 = 2^20 · 3^20, 3^40 = 3^20 · 3^20)",
+   "variantlar": [
+    "6^20 katta",
+    "Solishtirib bo'lmaydi",
+    "3^40 katta",
+    "Ular teng"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yerning massasi 6·10^24 kg, Quyoshning massasi 2·10^30 kg. Quyoshning massasi Yerning massasidan necha marta katta?",
+   "variantlar": [
+    "10^6 : 3 marta",
+    "3·10^6 marta",
+    "12·10^54 marta",
+    "10^54 : 3 marta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

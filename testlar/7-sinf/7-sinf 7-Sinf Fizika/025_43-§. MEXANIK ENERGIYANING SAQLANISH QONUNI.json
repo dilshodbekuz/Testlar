@@ -1,0 +1,337 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Fizika",
+ "mavzu": "43-§. MEXANIK ENERGIYANING SAQLANISH QONUNI",
+ "savollar": [
+  {
+   "savol": "Quvvat qanday kattalik?",
+   "variantlar": [
+    "Bajarilgan ishning shu ish bajarilgan vaqtga nisbati",
+    "Kuchning yo'lga ko'paytmasi",
+    "Massaning tezlikka ko'paytmasi",
+    "Ishning kuchga nisbati"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quvvat qaysi birlikda o'lchanadi?",
+   "variantlar": [
+    "Vatt (W)",
+    "Joul (J)",
+    "Paskal (Pa)",
+    "Nyuton (N)"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Foydali ish koeffitsiyenti qaysi harf bilan belgilanadi?",
+   "variantlar": [
+    "η",
+    "ω",
+    "ρ",
+    "μ"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Foydali ish koeffitsiyenti (FIK) formulasi qaysi javobda to'g'ri yozilgan? (Af – foydali ish, At – sarflangan to'liq ish)",
+   "variantlar": [
+    "η = (Af − At) · 100 %",
+    "η = Af/At · 100 %",
+    "η = Af · At · 100 %",
+    "η = At/Af · 100 %"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nima sababdan mashina va dvigatellarning FIK i har doim birdan (100 %) kichik bo'ladi?",
+   "variantlar": [
+    "Energiya yo'qdan bor bo'ladi",
+    "Mashinalar juda katta massaga ega",
+    "Ishqalanish kuchlari tufayli energiyaning bir qismi issiqlikka aylanib isrof bo'ladi",
+    "Dvigatellar vaqt o'tishi bilan ishdan chiqadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tabiatda energiyaning saqlanish qonuniga ko'ra energiya...",
+   "variantlar": [
+    "faqat mexanik hodisalarda saqlanadi",
+    "doim ortib boradi",
+    "vaqt o'tishi bilan butunlay yo'qoladi",
+    "hech vaqt bordan yo'q bo'lmaydi va yo'qdan bor bo'lmaydi, faqat bir turdan boshqa turga o'tadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishqalanish kuchi ta'sirida harakatlanayotgan jism mexanik energiyasining bir qismi nimaga aylanadi?",
+   "variantlar": [
+    "Potensial energiyaga",
+    "Yorug'likka",
+    "Issiqlikka",
+    "Elektr energiyasiga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gidroelektrostansiyada elektr energiya hosil qilish uchun turbinani nima aylantiradi?",
+   "variantlar": [
+    "Elektr chiroqlar",
+    "Quyosh nuri",
+    "Suvning kinetik energiyasi",
+    "Shamolning issiqligi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Avtomobil qiyalik bo'ylab tepalikka chiqishda tezlikni nima uchun kamaytiradi?",
+   "variantlar": [
+    "Massani kamaytirish uchun",
+    "Energiyani ko'paytirish uchun",
+    "Ishqalanishni yo'qotish uchun",
+    "Tortish kuchini oshirish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xonadonlardagi elektr chiroqlarda energiya qanday aylanadi?",
+   "variantlar": [
+    "Elektr energiya yorug'lik energiyasiga",
+    "Issiqlik energiyasi kinetik energiyaga",
+    "Kinetik energiya potensial energiyaga",
+    "Yorug'lik energiyasi elektr energiyasiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bola 1 soatda 360 kJ ish bajardi. Uning quvvati qancha? (1 soat = 3600 s)",
+   "variantlar": [
+    "10 W",
+    "100 W",
+    "360 W",
+    "1000 W"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Massasi 4 kg bo'lgan jism gorizontal sirtda tekis harakatlanib 5 s davomida 15 m masofaga olib borildi. Ishqalanish koeffitsiyenti 0,2, g = 10 m/s². Harakatlantirish quvvati qancha?",
+   "variantlar": [
+    "40 W",
+    "24 W",
+    "120 W",
+    "8 W"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ot massasi 1 t bo'lgan aravani 1 km masofaga 10 minutda olib bordi. Qarshilik koeffitsiyenti 0,06, g = 10 m/s². Otning foydali quvvati qancha?",
+   "variantlar": [
+    "6000 W",
+    "1000 W",
+    "600 W",
+    "100 W"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Samolyot 900 km/soat (250 m/s) tezlik bilan uchmoqda, motorining foydali quvvati 1,8 MW. Tortish kuchi qancha?",
+   "variantlar": [
+    "720 N",
+    "7200 N",
+    "450 000 N",
+    "72 000 N"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Avtomobil dvigatelining quvvati 100 kW. U 1 minutda 2,4 MJ foydali ish bajardi. Avtomobilning FIK i qancha?",
+   "variantlar": [
+    "24 %",
+    "40 %",
+    "60 %",
+    "80 %"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kichik kran massasi 2 t bo'lgan g'ishtni 30 m balandlikka 1 minutda ko'tardi (g = 10 m/s²). Uning foydali quvvati qancha?",
+   "variantlar": [
+    "1 kW",
+    "50 kW",
+    "10 kW",
+    "100 kW"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bola 0,5 soatda 180 kJ ish bajardi. Uning foydali quvvati qancha? (0,5 soat = 1800 s)",
+   "variantlar": [
+    "360 W",
+    "1000 W",
+    "100 W",
+    "90 W"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Avtomobil dvigatelining quvvati 250 kW. U 1 soatda 360 MJ foydali ish bajardi. Avtomobilning FIK i qancha? (1 soat = 3600 s)",
+   "variantlar": [
+    "40 %",
+    "72 %",
+    "25 %",
+    "60 %"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mexanizmning foydali ishi 300 J, sarflangan to'liq ishi 400 J. Uning FIK i qancha?",
+   "variantlar": [
+    "25 %",
+    "133 %",
+    "30 %",
+    "75 %"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Foydali quvvat 200 W bo'lib, jism 5 m/s tezlik bilan tekis harakatlanmoqda. Tortish kuchi qancha?",
+   "variantlar": [
+    "40 N",
+    "5 N",
+    "200 N",
+    "1000 N"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ko'tarma kran 10 kW quvvatli dvigatel bilan ishlaydi, dvigatelning FIK i 80 %. Massasi 2 t bo'lgan yuk 40 m balandlikka qancha vaqtda chiqariladi? (g = 10 m/s²)",
+   "variantlar": [
+    "80 s",
+    "125 s",
+    "64 s",
+    "100 s"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Samolyot 900 km/soat (250 m/s) tezlik bilan tekis uchmoqda. Dvigatellarining quvvati 1,8 MW, FIK i 70 %. Tortish kuchi qancha?",
+   "variantlar": [
+    "1260 N",
+    "7200 N",
+    "10 285 N",
+    "5040 N"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gidrostansiya to'g'onining balandligi 25 m, undan har sekundda 200 t suv tushadi. Elektr stansiyaning quvvati 10 MW. Mexanik energiyaning elektr energiyaga aylanish FIK i qancha? (g = 10 m/s²)",
+   "variantlar": [
+    "50 %",
+    "20 %",
+    "40 %",
+    "10 %"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kran dvigatelining quvvati 20 kW. U 2 minutda massasi 4000 kg bo'lgan yukni 24 m balandlikka ko'tardi (g = 10 m/s²). Kranning FIK i qancha?",
+   "variantlar": [
+    "48 %",
+    "20 %",
+    "40 %",
+    "80 %"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dvigatelning FIK i 25 %. U 800 kJ energiya sarflasa, qancha energiya issiqlikka aylanib isrof bo'ladi?",
+   "variantlar": [
+    "400 kJ",
+    "750 kJ",
+    "600 kJ",
+    "200 kJ"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mexanizmning foydali quvvati 4 kW, FIK i 80 %. U 2 minut ishlaganda qancha to'liq energiya sarflanadi?",
+   "variantlar": [
+    "384 kJ",
+    "480 kJ",
+    "300 kJ",
+    "600 kJ"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Katta kran massasi 10 t, kichik kran 2 t g'ishtni bir xil balandlikka bir xil vaqtda ko'tardi. Katta kranning foydali quvvati kichik kranning quvvatidan necha marta katta?",
+   "variantlar": [
+    "5 marta",
+    "10 marta",
+    "2 marta",
+    "20 marta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Motorning to'liq quvvati 20 kW, FIK i 60 %. U tekis harakatda 10 m/s tezlik bilan harakatlansa, tortish kuchi qancha?",
+   "variantlar": [
+    "12 000 N",
+    "3333 N",
+    "2000 N",
+    "1200 N"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Avtomobil dvigatelining quvvati o'zgarmas. Tepalikka chiqishda haydovchi tezlikni 2 marta kamaytirsa, tortish kuchi qanday o'zgaradi?",
+   "variantlar": [
+    "o'zgarmaydi",
+    "2 marta kamayadi",
+    "2 marta ortadi",
+    "4 marta ortadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Massasi 2 kg bo'lgan jism 15 m balandlikka 5 s da ko'tarildi. Mexanizmning FIK i 60 % bo'lsa, uning to'liq sarflagan quvvati qancha? (g = 10 m/s²)",
+   "variantlar": [
+    "180 W",
+    "60 kW",
+    "60 W",
+    "100 W"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

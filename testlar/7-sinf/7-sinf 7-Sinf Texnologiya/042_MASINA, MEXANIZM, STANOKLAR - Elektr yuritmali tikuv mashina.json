@@ -1,0 +1,326 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Texnologiya",
+ "mavzu": "MASINA, MEXANIZM, STANOKLAR - Elektr yuritmali tikuv mashinasi",
+ "savollar": [
+  {
+   "savol": "Elektr yuritmali 22-A kl PMZ tikuv mashinasi nechta qismdan iborat?",
+   "variantlar": [
+    "Ikki qismdan: stol va mashina korpusi",
+    "To'rt qismdan",
+    "Uch qismdan",
+    "Besh qismdan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tikuv mashinasi korpusi nimadan tayyorlangan?",
+   "variantlar": [
+    "Rezinadan",
+    "Metallar qotishmasidan",
+    "Yog'ochdan",
+    "Plastmassadan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Universal tikuv mashinasida asosan nechta ish bajaruvchi mexanizm bo'ladi?",
+   "variantlar": [
+    "Uchta",
+    "Oltita",
+    "Beshta",
+    "To'rtta"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri tikuv mashinasining asosiy ish bajaruvchi mexanizmi hisoblanadi?",
+   "variantlar": [
+    "Moki mexanizmi",
+    "Ustki ipni tarangllovchi rostlagich",
+    "Ip yo'naltirgichlar",
+    "Naychaga ip o'raydigan o'ragich"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Motor bilan oyoq tepkisi nima orqali biriktirilgan?",
+   "variantlar": [
+    "Shnur orqali",
+    "Tasma orqali",
+    "Val orqali",
+    "Zanjir orqali"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tepki mexanizmi qanday vazifani bajaradi?",
+   "variantlar": [
+    "Gazlamani suradi",
+    "Naychaga ip o'raydi",
+    "Gazlamani bosib turadi",
+    "Ipni tortib oladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tikuv mashinasining tepkisi (oyoq pedali) qattiq bosilsa, mashina qanday tikadi?",
+   "variantlar": [
+    "To'xtab qoladi",
+    "Orqaga tikadi",
+    "Sekin tikadi",
+    "Tez tikadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr yuritmali tikuv mashinasining tezligi katta bo'lishi nimani oshiradi?",
+   "variantlar": [
+    "Shovqinni",
+    "Ip sarfini",
+    "Mashinaning og'irligini",
+    "Mehnat unumdorligini"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'zli izmalar uchun ko'zi qanday o'lchamda o'yib olinadi?",
+   "variantlar": [
+    "1x1 sm",
+    "0,1x0,1 sm",
+    "0,5x0,5 sm",
+    "0,2x0,2 sm"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Parallel baxyaqator tikish uchun namunaga avval nima qilinadi?",
+   "variantlar": [
+    "Ip uziladi",
+    "Zig-zag chiziq chiziladi",
+    "Chizg'ich yordamida bitta to'g'ri chiziq chizib olinadi",
+    "Gazlama yuviladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ustki g'altakdagi ipni gazlamani teshib mokiga yetkazib turadigan va halqa hosil qiladigan mexanizm qaysi?",
+   "variantlar": [
+    "Surgish mexanizmi",
+    "Igna mexanizmi",
+    "Ip tortkish mexanizmi",
+    "Tepki mexanizmi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gazlamani bitta baxya kengligida surib turadigan mexanizm qaysi?",
+   "variantlar": [
+    "Surgish mexanizmi",
+    "Moki mexanizmi",
+    "Igna mexanizmi",
+    "Tepki mexanizmi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Baxyani mayda va yirik qilib beruvchi rostlagich mashinaning qaysi qismida joylashgan?",
+   "variantlar": [
+    "Maxovik g'ildirakda",
+    "Bosh qismida",
+    "Tana qismida",
+    "Tayanch qismida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Diametri 1 sm bo'lgan yassi tugma uchun izma uzunligi qancha bo'lishi kerak?",
+   "variantlar": [
+    "1,0 sm",
+    "1,5 sm",
+    "1,2 sm",
+    "1,3 sm"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Diametri 2 sm bo'lgan bo'rtgan tugma uchun izma uzunligi qancha bo'lishi kerak?",
+   "variantlar": [
+    "2,5 sm",
+    "2,0 sm",
+    "2,8 sm",
+    "2,3 sm"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tugma qadaydigan mashina bitta tugmani 1 sekundda qadaydi. Bir smenada 5000 ta tugma qadash uchun matnga ko'ra nima deyish mumkin?",
+   "variantlar": [
+    "Mashina bir smenada 5000 ta tugma qadashi mumkin",
+    "Mashina bir smenada 1500 ta tugma qadaydi",
+    "Bu mashinaning tezligi 1500 ob/min ekanini bildiradi",
+    "Mashina bir soatda 5000 ta tugma qadaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ustki va ostki iplarni taqishdan oldin baxya rostlagich richagi eng katta baxya yirikligiga qo'yilganda baxya qadami qancha bo'ladi?",
+   "variantlar": [
+    "2 mm",
+    "4 mm",
+    "5 mm",
+    "3 mm"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qo'sh chokni tikishda detallar dastlab qanday qilib qo'yiladi va necha sm ichkaridan biriktirma chok bilan tikiladi?",
+   "variantlar": [
+    "Teskarisini ichkariga, 0,3–0,4 sm",
+    "Teskarisini ichkariga, 0,5–0,7 sm",
+    "O'ngini ichkariga, 0,1–0,2 sm",
+    "O'ngini ichkariga, 0,3–0,4 sm"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Siniq baxyaqatorli mashinada izma yo'rmalanganda siniq chiziq kengligi qancha bo'ladi?",
+   "variantlar": [
+    "0,5 sm",
+    "1 sm",
+    "0,2 sm",
+    "0,7 sm"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Moki mexanizmi qanday vazifani bajaradi?",
+   "variantlar": [
+    "Gazlamani suradi",
+    "Gazlamani bosib turadi",
+    "Ustki ipni ilib kengaytiradi va ostki ipni naycha atrofidan aylantirib chatishtiradi",
+    "Bitta baxya uchun ipni tortib turadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Siniq baxyaqator hosil qilishda igna qanday harakat qiladi va buning uchun qaysi qo'shimcha mexanizm kerak bo'ladi?",
+   "variantlar": [
+    "Faqat gorizontal; surgish mexanizmi",
+    "Vertikal va gorizontal; ignani og'diruvchi qo'shimcha mexanizm",
+    "Aylanma; moki mexanizmi",
+    "Faqat vertikal; qo'shimcha mexanizm kerak emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tikuvchi ishi ip gazlamadan yengil bolalar kiyimi va choyshab tikish uchun qaysi chok mos va uning tayyor holidagi ichki chiziqlari qanday tikiladi?",
+   "variantlar": [
+    "Qo'sh chok; avval 0,3–0,4 sm, so'ng agdarib 0,5–0,7 sm ichkaridan chiziq yuritiladi",
+    "Qo'sh chok; ikkala chiziq ham 0,1–0,2 sm dan",
+    "Ichki chok; avval 0,5–0,7 sm, so'ng 0,3–0,4 sm",
+    "Ichki chok; ikkita chiziq 0,1–0,2 sm masofada"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tayyor ichki chokning eni 0,6 sm bo'lsa, ostki detalning qirqimi qancha masofaga chiqariladi (matndagi qoidaga ko'ra 0,3–0,5 sm qo'shiladi, eng kichik qiymat olinsa)?",
+   "variantlar": [
+    "0,6 sm",
+    "0,9 sm",
+    "0,8 sm",
+    "1,1 sm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mashinada izma yo'rmalash tartibini to'g'ri ko'rsating.",
+   "variantlar": [
+    "Pastki uchidan boshlanadi va qirqilmaydi",
+    "Yuqori uchidan (ish uchidan) boshlab 0,5 sm kenglikda yo'rmalanadi, boshi va oxirida bir necha baxya qilinadi, so'ng maxsus pichoq yoki qaychi bilan qirqiladi",
+    "Izma qirqiladi, so'ng yo'rmalanadi, oxirida belgilanadi",
+    "Faqat qo'lda yo'rmalanadi va keyin mashinada qirqiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zamonaviy mikrokompyuterli tikuv mashinalarining afzalliklari haqida qaysi javob to'g'ri?",
+   "variantlar": [
+    "Faqat tugma qadash uchun mo'ljallangan",
+    "Dastur asosida kashta tikadi, ignaga ip taqish, ip qirqish moslamalari bor, tezlikni cheklash mumkin",
+    "Faqat qo'lda ishlaydi va elektr talab qilmaydi",
+    "Faqat to'g'ri baxya tikadi va tezligini o'zgartirib bo'lmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mashinaning tayanch qismi va platforma tagida joylashgan detallar to'g'ri berilgan javobni toping.",
+   "variantlar": [
+    "Tayanch qismida baxya rostlagich, platforma tagida moki va surgish mexanizmlari",
+    "Tayanch qismida tepki mexanizmi, platforma tagida motor",
+    "Tayanch qismida maxovik g'ildirak, platforma tagida oyoq tepkisi",
+    "Tayanch qismida igna mexanizmi, platforma tagida elektr lampochka"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Izmani qo'lda yo'rmalashda uning boshi va oxiri puxtalanishi haqida qaysi javob to'g'ri?",
+   "variantlar": [
+    "Izma eniga 2–3 ta qavuq tushirilib, gazlama ilinib, halqa qavuq bilan o'raladi",
+    "Puxtalanmaydi",
+    "Izma bo'ylab 10 ta qavuq tushiriladi",
+    "Faqat yelim bilan yopishtiriladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Namuna-ko'rgazma tayyorlashda gazlama qanday tanlanadi va unga nima yopishtiriladi?",
+   "variantlar": [
+    "Gulli gazlama, qotirma yopishtirilmaydi",
+    "Istalgan gazlama, 30x30 o'lchamda, yopishtirilmaydi",
+    "Gulsiz gazlama, rangi, turi, qalinligiga qarab tanlanib 20x20 o'lchamda qirqiladi va flizilin yopishtiriladi",
+    "Gulsiz gazlama, 10x10 o'lchamda, qog'oz yopishtiriladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ip tortkish mexanizmi haqida qaysi ta'rif to'g'ri va uni boshqa mexanizmlardan nima ajratib turadi?",
+   "variantlar": [
+    "Ustki ipni ilib kengaytiradi",
+    "Gazlamani baxya kengligida suradi",
+    "Gazlamani bosib turadi",
+    "Bitta baxya uchun kerakli ipni ignaga va mokiga yetkazib turadi hamda mokidan ipni tortib oladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

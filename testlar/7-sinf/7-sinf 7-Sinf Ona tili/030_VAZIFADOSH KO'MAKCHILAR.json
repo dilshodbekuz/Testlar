@@ -1,0 +1,337 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Ona tili",
+ "mavzu": "VAZIFADOSH KO'MAKCHILAR",
+ "savollar": [
+  {
+   "savol": "Qaysi ko'makchilar vazifadosh ko'makchilar deyiladi?",
+   "variantlar": [
+    "Faqat fe'llardan yasalgan so'zlar",
+    "Boshqa so'z turkumlaridan hosil bo'lib, ko'makchi vazifasida keladigan so'zlar",
+    "Faqat egalik qo'shimchali so'zlar",
+    "Faqat ko'makchi vazifasida keladigan so'zlar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri ot so'z turkumidan hosil bo'lgan vazifadosh ko'makchi?",
+   "variantlar": [
+    "ost",
+    "deya",
+    "bo'ylab",
+    "oldin"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi qatorda ravish so'z turkumidan hosil bo'lgan vazifadosh ko'makchilar berilgan?",
+   "variantlar": [
+    "bo'ylab, qarab, ko'ra",
+    "orqa, ro'para, qosh",
+    "oldin, avval, keyin, so'ng, tomon",
+    "ost, yon, ust, old"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi qatorda fe'l so'z turkumidan hosil bo'lgan vazifadosh ko'makchilar berilgan?",
+   "variantlar": [
+    "oldin, avval, keyin",
+    "ost, yon, ust, old",
+    "bo'ylab, qarab, ko'ra, deya, deb, atab",
+    "orqa, ro'para, qosh"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vazifadosh ko'makchilar ko'makchi vazifasida kelganda nima bo'ladi?",
+   "variantlar": [
+    "O'z ma'nosini yo'qotadi",
+    "Fe'lga aylanadi",
+    "Ma'nosini yanada kengaytiradi",
+    "Ma'lum so'roqqa javob bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sabab ma'nosini bildiruvchi ko'makchilar qaysi qatorda berilgan?",
+   "variantlar": [
+    "sababli, tufayli",
+    "kabi, singari",
+    "haqida, to'g'risida",
+    "tomon, sari"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yo'nalish ma'nosini bildiruvchi ko'makchilar qaysi qatorda berilgan?",
+   "variantlar": [
+    "tomon, qarab, sari, bo'ylab",
+    "kabi, singari",
+    "haqida, to'g'risida",
+    "sababli, tufayli"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mavzu ma'nosini ifodalovchi ko'makchilar qaysi qatorda?",
+   "variantlar": [
+    "sababli, tufayli",
+    "haqida, to'g'risida",
+    "kabi, singari",
+    "tomon, sari"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'xshatish, qiyoslash ma'nosini ifodalovchi ko'makchilar qaysi qatorda?",
+   "variantlar": [
+    "uchun, tufayli",
+    "qadar, sari",
+    "haqida, to'g'risida",
+    "kabi, singari"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chegara ma'nosini ifodalovchi ko'makchi qaysi?",
+   "variantlar": [
+    "bilan",
+    "uchun",
+    "kabi",
+    "qadar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Qoziq ustida qor turmas\" gapidagi \"ustida\" so'zi qaysi vazifada kelgan?",
+   "variantlar": [
+    "Sof ko'makchi vazifasida",
+    "Vazifadosh ko'makchi vazifasida",
+    "Mustaqil so'z (joy bildiruvchi ot) vazifasida",
+    "Bog'lovchi vazifasida"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Gap futbol o'yini ustida ketardi\" gapida \"ustida\" so'zi qanday vazifada kelgan va uni nima bilan almashtirish mumkin?",
+   "variantlar": [
+    "Ko'makchi; \"bilan\" bilan almashtirib bo'lmaydi",
+    "Mustaqil so'z; \"haqida\" bilan",
+    "Ko'makchi; \"haqida\" bilan",
+    "Mustaqil so'z; \"to'g'risida\" bilan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Muxbirimiz telefon orqali xabar berdi\" gapida \"orqali\" so'zi qaysi ma'noni bildiradi?",
+   "variantlar": [
+    "Chegara ma'nosini",
+    "O'xshatish ma'nosini",
+    "Mavzu ma'nosini",
+    "Vositani bildiruvchi ko'makchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Akam dala ... ketdi\" gapidagi nuqtalar o'rniga qaysi ko'makchi mos keladi?",
+   "variantlar": [
+    "to'g'risida",
+    "uchun",
+    "tomon",
+    "sababli"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Yurt farovonligi ... qayg'uradi\" gapiga qaysi ko'makchi mos keladi va u qanday ma'no bildiradi?",
+   "variantlar": [
+    "to'g'risida; chegara",
+    "uchun; o'xshatish",
+    "uchun; sabab va maqsad",
+    "sababli; yo'nalish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi qatorlardan qaysi birida faqat vazifadosh ko'makchilar berilgan?",
+   "variantlar": [
+    "ustida, ichida, qoshida, tomon",
+    "sari, boshida, qadar, maqsadida",
+    "bilan, orqa, ko'ra, o'rtada",
+    "sababli, oldida, uchun, qarab"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Sof ko'makchilar\"ga qaysi qatordagi so'zlar kiradi (matndagi jadval mantig'iga ko'ra)?",
+   "variantlar": [
+    "ichida, oldida, qarab",
+    "haqida, ustida, orqa",
+    "bilan, uchun, kabi, sari, qadar",
+    "tomon, ko'ra, bo'ylab, keyin"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Ularning sog'lig'i tufayli ...\" jumlasidagi \"tufayli\" ko'makchisi qanday ma'no bildiradi?",
+   "variantlar": [
+    "Maqsad",
+    "Sabab",
+    "Mavzu",
+    "Yo'nalish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Uni bizning maktabimizga tajriba ... olib kelishgandi\" gapiga mos ko'makchi va uning ma'nosi qaysi?",
+   "variantlar": [
+    "haqida; mavzu",
+    "uchun; maqsad",
+    "qadar; chegara",
+    "kabi; o'xshatish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Yana ular futbol ... nazariy bilimlarga ega bo'lishimizni talab qiladilar\" gapiga qaysi ko'makchi mos va ma'nosi qanday?",
+   "variantlar": [
+    "tomon; yo'nalish",
+    "qadar; chegara",
+    "to'g'risida; mavzu",
+    "kabi; o'xshatish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Uyning ustida qush o'tirdi\" va \"Bu masala ustida ko'p o'yladim\" gaplarida \"ust\" so'zi haqida qaysi fikr to'g'ri?",
+   "variantlar": [
+    "Ikkalasida ham ko'makchi",
+    "Birinchisida ko'makchi, ikkinchisida mustaqil so'z",
+    "Ikkalasida ham mustaqil so'z",
+    "Birinchisida mustaqil so'z (joyni bildiradi, qayerda?), ikkinchisida ko'makchi (\"haqida\" ma'nosida)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun vazifadosh ko'makchi o'zi qo'shilgan so'z bilan birga bitta so'roqqa javob bo'ladi?",
+   "variantlar": [
+    "Chunki ko'makchi vazifasida kelganda o'z ma'nosini yo'qotadi va alohida so'roqqa javob bo'lmaydi",
+    "Chunki u mustaqil so'zga aylanadi",
+    "Chunki u har doim otga aylanadi",
+    "Chunki u doim fe'lga bog'lanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Orqadan chuqur soy oqardi\" gapida \"orqa\" so'zi qaysi vazifada va nima uchun?",
+   "variantlar": [
+    "Bog'lovchi, chunki gaplarni bog'laydi",
+    "Sof ko'makchi, chunki bilan bilan almashadi",
+    "Mustaqil so'z, chunki o'z ma'nosini saqlab \"qayerdan?\" so'roqqa javob bo'ladi",
+    "Ko'makchi, chunki o'z ma'nosini yo'qotgan"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi gaplarning qaysi birida ajratib ko'rsatilgan so'z vazifadosh ko'makchi vazifasida kelgan?",
+   "variantlar": [
+    "Kitob haqida so'zladik",
+    "Uy ichi toza edi",
+    "Ko'cha o'rtasida turdik",
+    "Daraxt orqasida bola yashirindi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi to'rt gapdan qaysi birida mustaqil so'z (ko'makchi emas) qatnashgan?",
+   "variantlar": [
+    "Yurtimiz tinchligi uchun kurashamiz",
+    "Biz maktabga tomon yurdik",
+    "Sizning fikringizga ko'ra ish qildik",
+    "Uy oldida mashina turibdi (o'z ma'nosini saqlagan)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "165-mashqdagi so'zlar ichidan nechta ko'makchi yo'nalish ma'nosini bildiradi: sari, tomon, bo'ylab, qarab, kabi, sayin?",
+   "variantlar": [
+    "4 ta",
+    "3 ta",
+    "6 ta",
+    "5 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Boshqotirmadagi topshiriqlardan qaysi javoblar juftligi to'g'ri?",
+   "variantlar": [
+    "Mavzu – tomon; yo'nalish – haqida",
+    "O'xshatish – kabi; chegara – qadar",
+    "Sabab – kabi; maqsad – sari",
+    "O'xshatish – qadar; chegara – kabi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Nigora yaxshi xulqi, chiroyli muomalasi ... ham obro'ga erishishi mumkin edi-ku!\" gapiga eng mos ko'makchi va uning ma'nosi qaysi?",
+   "variantlar": [
+    "haqida; mavzu",
+    "tufayli; sabab",
+    "kabi; o'xshatish",
+    "tomon; yo'nalish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi gaplardan qaysi birida ko'makchi mavzu ma'nosini bildiradi?",
+   "variantlar": [
+    "Biz Vatan haqida qo'shiq kuyladik",
+    "Biz akam kabi bo'lishni istadik",
+    "Biz yomg'ir tufayli qoldik",
+    "Biz maktab tomon yurdik"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi qatorda ma'no turlari ko'makchilarga to'g'ri mos qo'yilgan?",
+   "variantlar": [
+    "tufayli – mavzu, haqida – sabab, bo'ylab – chegara",
+    "qadar – o'xshatish, tomon – mavzu, uchun – yo'nalish",
+    "sababli – yo'nalish, qarab – sabab, kabi – chegara",
+    "sari – yo'nalish, singari – o'xshatish, to'g'risida – mavzu"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Tabiatshunoslik",
+ "mavzu": "Qora va rangli metallar",
+ "savollar": [
+  {
+   "savol": "Temir qora yoki rangli metall?",
+   "variantlar": [
+    "Yumshoq metall",
+    "Suyuq metall",
+    "Rangli metall",
+    "Qora metall"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Temirtosh nechta xilga bo'linadi?",
+   "variantlar": [
+    "5 xil",
+    "2 xil",
+    "3 xil",
+    "4 xil"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Temirdan qanday buyumlar yasaladi?",
+   "variantlar": [
+    "Faqat elektr simlari",
+    "Faqat ornamentlar",
+    "Pichoq, qaychi, bolta, tesha, ombir, belkurak",
+    "Faqat mashinalar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rangli metallarga qanday metallar kiradi?",
+   "variantlar": [
+    "Oltin, kumush, mis, aluminiy",
+    "Temir, temirtosh, oltin",
+    "Faqat oltin va kumush",
+    "Marmar, temirtosh, qo'ng'ir"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Oltin va kumush qanday metallar hisoblanadi?",
+   "variantlar": [
+    "Yumshoq metallar",
+    "Qimmatbaho metallar",
+    "Arzon metallar",
+    "Qora metallar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Oltin va kumushdan nimalar yasaladi?",
+   "variantlar": [
+    "Qurilish materiallari",
+    "Mashinalar",
+    "Zeb-ziynatlar",
+    "Elektr simlari"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mis va aluminiydan nimalar yasaladi?",
+   "variantlar": [
+    "Faqat zeb-ziynatlar",
+    "Faqat qurilish materiallari",
+    "Faqat temirtosh",
+    "Kundalik turmushda ishlatiladigan buyumlar va elektr simlari"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ruda nima?",
+   "variantlar": [
+    "Yumshoq material",
+    "Quyosh nuri",
+    "Toza metall",
+    "Temir va boshqa moddalari aralashgan qotishma"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qora metall rudalari qanday shaklida bo'ladi?",
+   "variantlar": [
+    "Ayrilgan holda",
+    "Gazsimon holda",
+    "Suyuq holda",
+    "Qotishma holda, tosh shaklida"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mis va aluminiy tabiatda qanday holda uchraydi?",
+   "variantlar": [
+    "Faqat ruda shaklida",
+    "Mashinalar tarkibida",
+    "Yerni sirtida",
+    "Qum zarralari orasida sof holda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Temirtosh rudalaridan temir qanday olinadi?",
+   "variantlar": [
+    "Shuv yordamida chiqariladi",
+    "Toza suvda eritiladigan",
+    "Barcha ko'nda o'z-o'zidan",
+    "Maxsus pechlarda eritib olinadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Oltin va kumush tabiatda qanday holda uchraydi?",
+   "variantlar": [
+    "Faqat ruda shaklida",
+    "Qum zarralari orasida sof holda ham, rudalar tarkibida ham",
+    "Hech qayerda uchraymaydi",
+    "Faqat suvda"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qimmatbaho metallar qum zarrlari orasidan qanday olinadi?",
+   "variantlar": [
+    "Qo'l bilan",
+    "Maxsus qurilmalar yordamida",
+    "Shamol orqali",
+    "Suv yordamida"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Rangli metallar qora metall rudalaridan qanday farq qiladi?",
+   "variantlar": [
+    "Ranglari boshqacha",
+    "Juda qiyin materiallar",
+    "Ulardan mashina yasaladi",
+    "Ruda tarkibida juda oz miqdorda bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Konlarda temir qanday holda uchraydi?",
+   "variantlar": [
+    "Gazsimon holda",
+    "Faqat yumshoq metallar",
+    "Toza metall",
+    "Boshqa moddalari bilan aralashgan qotishma holatida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qora metall rudalari turlarining misollari qanday?",
+   "variantlar": [
+    "Faqat aluminiy tosh",
+    "Faqat magnitli temirtosh",
+    "Faqat qo'ng'ir temirtosh",
+    "Magnitli, qo'ng'ir va qizil temirtosh"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ruda tarkibidagi oltin va kumush qanday olinadi?",
+   "variantlar": [
+    "Suyuqda yuvish orqali",
+    "Juda yuqori haroratda eritilib, ajratib olinadi",
+    "Magnet yordamida",
+    "Qo'l bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Metallurgiya kombinatlarida nima qilinadi?",
+   "variantlar": [
+    "Rudalar eritilib, toza metall ajratib olinadi",
+    "Zeb-ziynatlar yasaladi",
+    "Elektr simlari o'rnatiladi",
+    "Metallar sotilib yuboriladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Temir boshqa moddalari bilan aralashgan holda qanday deyiladi?",
+   "variantlar": [
+    "Rangli metall",
+    "Temirtosh",
+    "Toza temir",
+    "Magnitli temir"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Elektr simlari asosan qanday materialdan tayyorlanadi?",
+   "variantlar": [
+    "Faqat aluminiydan",
+    "Mis va aluminiydan",
+    "Temirdan",
+    "Faqat mis"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Temirtosh rudalaridan temir olish jarayonining bosqichlari qanday?",
+   "variantlar": [
+    "Maxsus pechlarda eritib, turli buyumlar va mexanizm qismlari quyiladi",
+    "Sutun qo'yish",
+    "Faqat eritish",
+    "Faqat qo'l bilan chiqarish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nega rangli metallarga oltin, kumush, mis va aluminiy birlashtiriladi?",
+   "variantlar": [
+    "Ularning rangi bir xil",
+    "Ularning qiymati teng",
+    "Ularning barchasi yumshoq",
+    "Ularning qora metall rudalaridan farq qilib, ruda tarkibida juda oz miqdorda bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun oltin va kumush qimmatbaho metallar deb nomlanadi?",
+   "variantlar": [
+    "Chunki ular qora metallar emas",
+    "Chunki ular eng qattiq metallar",
+    "Chunki ular eng katta metallar",
+    "Chunki ularning rangi boshqacha va tabiatda retro bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mis va aluminiy nima uchun faqat ruda shaklida uchraydi?",
+   "variantlar": [
+    "Tabiatda sof holda emas, balki ruda tarkibidagina uchraydi",
+    "Konlarda qo'shni metall bilan yashiringan",
+    "Ular yumshoq materiallar",
+    "Ular arzon metallar"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mamlakatimizda qanday rangli metall konlari mavjud?",
+   "variantlar": [
+    "Faqat mis konlari",
+    "Oltin, kumush, mis, aluminiy konlari",
+    "Rangli metall konlari yo'q",
+    "Faqat oltin konlari"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qora va rangli metall rudalari o'rtasidagi asosiy farq nima?",
+   "variantlar": [
+    "Rangli metallar pechlarda eritilmaydi",
+    "Qora metallar rangli emas",
+    "Qora metallar ruda tarkibida ko'p, rangli metallar oz miqdorda bo'ladi",
+    "Rangli metallar konlarda uchraymaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Temirtosh rudalaridan temir eritib olingandan keyingi bosqich nima?",
+   "variantlar": [
+    "Sot bilan ishlanadi",
+    "Turli buyumlar, mashina qismlari quyiladi",
+    "Boshqa metallarga aylantirilib yuboriladi",
+    "Yana eritiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Oltin va kumush zarralari tabiatda qay joylarda topiladi?",
+   "variantlar": [
+    "Qum zarrlari orasida ham, rudalar tarkibida ham",
+    "Faqat barikamol ko'nda",
+    "Faqat ko'n derinligida",
+    "Faqat qum zarrlari orasida"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rangli metal kombinatlarining asosiy vazifasi nima?",
+   "variantlar": [
+    "Metallarni toza qilish",
+    "Rudalarni eritib, toza metallarni ajratib olish",
+    "Elektr simlari kesish",
+    "Zeb-ziynatlar tayyorlash"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Temir va aluminiy rudalarining mohim farqi qanday?",
+   "variantlar": [
+    "Aluminiy ruda rangli",
+    "Temir ruda qotishma holatida, aluminiy faqat ruda shaklida uchraydi",
+    "Aluminiy ruda yumshoq",
+    "Hech qanday farq yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Algebra",
+ "mavzu": "VI BOB. Kombinatorika elementlari. Kombinatorikaning asosiy qoidalari",
+ "savollar": [
+  {
+   "savol": "Samarqanddan Toshkentga 4 xil yo'l bilan, Toshkentdan Xo'jakentga 3 xil yo'l bilan borish mumkin. Samarqanddan Toshkent orqali Xo'jakentga necha xil usulda borish mumkin?",
+   "variantlar": [
+    "10",
+    "12",
+    "16",
+    "7"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kombinatorikaning asosiy qoidasi qaysi?",
+   "variantlar": [
+    "Qo'shish qoidasi",
+    "Bo'lish qoidasi",
+    "Ko'paytirish qoidasi",
+    "Ayirish qoidasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "n ta elementdan tuzilgan o'rin almashtirishlar soni P_n qanday ifodalanadi?",
+   "variantlar": [
+    "n+(n-1)+...+2+1",
+    "n·(n-1)·...·2·1",
+    "n·n",
+    "n·(n+1)"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "4 ta elementdan tuzilgan o'rin almashtirishlar soni P_4 nechaga teng?",
+   "variantlar": [
+    "16",
+    "24",
+    "10",
+    "12"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "n ta elementdan k tadan olib tuzilgan guruhlar soni C_n^k qaysi formula bilan hisoblanadi?",
+   "variantlar": [
+    "n!/k!",
+    "n!/(k!(n-k)!)",
+    "k!/(n-k)!",
+    "n!·k!/(n-k)!"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "4, 7, 9 raqamlaridan ularni takrorlamasdan nechta uch xonali son tuzish mumkin?",
+   "variantlar": [
+    "3",
+    "27",
+    "9",
+    "6"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "3, 4, 5, 6, 8, 9 raqamlaridan raqamlari takrorlanishi mumkin bo'lgan nechta uch xonali son tuzish mumkin?",
+   "variantlar": [
+    "18",
+    "36",
+    "120",
+    "216"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "3, 4, 5, 6, 8, 9 raqamlaridan raqamlari takrorlanmaydigan nechta uch xonali son tuzish mumkin?",
+   "variantlar": [
+    "20",
+    "216",
+    "60",
+    "120"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "C_5^2 ning qiymati nechaga teng?",
+   "variantlar": [
+    "10",
+    "20",
+    "15",
+    "5"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aylanadagi 5 ta nuqtaning har biridan 4 tadan kesma o'tkazib, 5·4 = 20 hosil qilindi. Nima uchun 20 ni 2 ga bo'lish kerak?",
+   "variantlar": [
+    "Har bir kesma ikki marta sanalgani uchun",
+    "Nuqtalar 2 ta bo'lgani uchun",
+    "Aylana 2 ta yarim aylanadan iborat bo'lgani uchun",
+    "Kesmalar soni doim juft bo'lgani uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "4 ta turli xatni 4 ta turli konvertga (har biriga bittadan) necha xil usulda joylash mumkin?",
+   "variantlar": [
+    "20",
+    "16",
+    "12",
+    "24"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "5 nafar o'quvchidan 2 nafarini bellashuvda qatnashish uchun necha xil usulda tanlash mumkin?",
+   "variantlar": [
+    "20",
+    "15",
+    "10",
+    "5"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Doskada 12 ta ot, 8 ta fe'l va 7 ta sifat yozilgan. Gap tuzish uchun har bir so'z turkumidan bittadan olinsa, buni necha xil usulda amalga oshirish mumkin?",
+   "variantlar": [
+    "672",
+    "27",
+    "96",
+    "84"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Taqsimchada 8 ta yong'oq bor. Abbos ixtiyoriy 3 tasini necha xil usulda olishi mumkin?",
+   "variantlar": [
+    "56",
+    "48",
+    "336",
+    "24"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A shahardan B ga 6 ta, B dan C ga 4 ta yo'l bor. A dan D ga 2 ta, D dan C ga 3 ta yo'l bor. A dan C ga necha xil yo'l bilan borish mumkin?",
+   "variantlar": [
+    "24",
+    "10",
+    "48",
+    "30"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Aylanada 20 ta nuqta belgilangan. Uchlari shu nuqtalarda bo'lgan vatarlar nechta?",
+   "variantlar": [
+    "20",
+    "380",
+    "400",
+    "190"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Futbol chempionatida 18 ta jamoa qatnashmoqda. Har bir jamoa boshqa har bir jamoa bilan o'z maydonida ham, raqib maydonida ham o'ynasa, jami nechta o'yin bo'ladi?",
+   "variantlar": [
+    "324",
+    "306",
+    "153",
+    "36"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "12 ta fandan dars o'tiladi. Dushanba kuni 5 soat dars bo'lib, har soatda har xil fan o'tiladi. Dushanba kungi jadvalni necha xil usulda tuzish mumkin?",
+   "variantlar": [
+    "248832",
+    "60480",
+    "792",
+    "95040"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "5 ta stulga 3 nafar o'quvchini necha xil usulda o'tqazish mumkin?",
+   "variantlar": [
+    "10",
+    "60",
+    "125",
+    "15"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "10 nafar bola o'zaro shaxmat turniri o'tkazmoqda, har bir bola qolgan har bir bola bilan bir partiya o'ynaydi. Jami nechta partiya o'ynaladi?",
+   "variantlar": [
+    "100",
+    "90",
+    "55",
+    "45"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yozuvida hech bo'lmaganda bitta juft raqam qatnashgan 4 xonali sonlar nechta? (Jami 4 xonali sonlar 9000 ta, faqat toq raqamlardan iborat 4 xonali sonlar esa 5·5·5·5 ta.)",
+   "variantlar": [
+    "9000",
+    "5625",
+    "8375",
+    "625"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "7 yigit va 4 qizdan iborat guruhdan 6 ta o'quvchi shunday tanlanadiki, ularning ichida qizlar soni ikkitadan kam bo'lmaydi. Buni necha xil usulda amalga oshirish mumkin?",
+   "variantlar": [
+    "420",
+    "210",
+    "350",
+    "371"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "7×4 o'lchamli to'g'ri to'rtburchak 28 ta kvadratchaga bo'lingan. Kvadratchalarning tomonlari bo'ylab A burchakdan qarama-qarshi B burchakka boruvchi eng qisqa yo'llar soni nechta?",
+   "variantlar": [
+    "28",
+    "462",
+    "11",
+    "330"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1, 2, 3, ..., 8 raqamlaridan ularni takrorlamay tuzilgan 8 xonali sonlar ichida 1 va 8 raqamlari yonma-yon turadiganlari nechta?",
+   "variantlar": [
+    "1440",
+    "5040",
+    "10080",
+    "40320"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qavariq oltiburchakning diagonallari nechta nuqtada kesishadi? (Hech qaysi uchta diagonal bitta nuqtada kesishmaydi.)",
+   "variantlar": [
+    "15",
+    "36",
+    "20",
+    "6"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nechta uch xonali sonning yozuvida faqatgina bitta 7 raqami bor?",
+   "variantlar": [
+    "225",
+    "243",
+    "162",
+    "216"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita parallel to'g'ri chiziqning birida 5 ta, ikkinchisida 3 ta nuqta belgilangan. Uchlari shu nuqtalarda bo'lgan nechta uchburchak mavjud?",
+   "variantlar": [
+    "15",
+    "30",
+    "45",
+    "56"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "0, 1, 2, 3, 4, 5 raqamlaridan raqamlari takrorlanmaydigan nechta 4 xonali son tuzish mumkin?",
+   "variantlar": [
+    "240",
+    "360",
+    "120",
+    "300"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3 ta tovuq, 4 ta o'rdak va 2 ta g'ozdan bir nechta parrandani shunday tanlash kerakki, ular ichida tovuq ham, o'rdak ham, g'oz ham bo'lsin. Shunday tanlashlar soni nechta?",
+   "variantlar": [
+    "315",
+    "9",
+    "511",
+    "24"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1, 2, 3, 4, 5 raqamlaridan raqamlari takrorlanmaydigan jami nechta ikki xonali, uch xonali va to'rt xonali son yozish mumkin?",
+   "variantlar": [
+    "120",
+    "125",
+    "180",
+    "200"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

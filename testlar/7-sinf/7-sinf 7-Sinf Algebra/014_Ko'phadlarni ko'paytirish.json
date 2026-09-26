@@ -1,0 +1,337 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Algebra",
+ "mavzu": "Ko'phadlarni ko'paytirish",
+ "savollar": [
+  {
+   "savol": "Ko'phadni ko'phadga ko'paytirish uchun nima qilish kerak?",
+   "variantlar": [
+    "Birinchi ko'phadning har bir hadini ikkinchi ko'phadning har bir hadiga ko'paytirib, hosil bo'lgan ko'paytmalarni qo'shish kerak",
+    "Faqat birinchi hadlarni o'zaro ko'paytirish kerak",
+    "Ikkala ko'phadni ham qo'shib, so'ng kvadratga ko'tarish kerak",
+    "Ko'phadlarning koeffitsiyentlarini qo'shish kerak"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'phadni ko'phadga ko'paytirish natijasida nima hosil bo'ladi?",
+   "variantlar": [
+    "Ko'phad",
+    "Faqat son",
+    "Birhad",
+    "Bo'linma"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'phadlarni ko'paytirgandan keyin hosil bo'lgan ko'phadni qanday shaklda yozish kerak?",
+   "variantlar": [
+    "Kamayish tartibisiz, ixtiyoriy shaklda",
+    "Kasr shaklda",
+    "Standart shaklda",
+    "Ko'paytuvchilar shaklida"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(a + b)(c + d) ko'paytmani ochganda o'xshash hadlar ixchamlanishidan oldin nechta had hosil bo'ladi?",
+   "variantlar": [
+    "4 ta",
+    "3 ta",
+    "2 ta",
+    "6 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(4a + c)(2a + b) ko'paytmada 4a hadni 2a hadga ko'paytirsak, qanday birhad hosil bo'ladi?",
+   "variantlar": [
+    "6a²",
+    "8a²",
+    "8a",
+    "6a"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(a + 2)(a + 3) ko'paytma nimaga teng?",
+   "variantlar": [
+    "a² + 6",
+    "2a + 5",
+    "a² + 5a + 5",
+    "a² + 5a + 6"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'phadlarni ko'paytirish qaysi qonunga asoslanadi?",
+   "variantlar": [
+    "O'rin almashtirish qonuni",
+    "Darajaga ko'tarish qonuni",
+    "Bo'lish qonuni",
+    "Sonlarni ko'paytirishning taqsimot qonuni"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir nechta ko'phadni ko'paytirish qanday bajariladi?",
+   "variantlar": [
+    "Faqat oxirgi ikkitasi ko'paytiriladi",
+    "Har bir ko'phadning faqat birinchi hadi olinadi",
+    "Navbatma-navbat ko'paytiriladi",
+    "Hammasi bir vaqtda qo'shiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(z - 1)(z + 4) ko'paytmani standart shaklda yozing.",
+   "variantlar": [
+    "z² + 3z + 4",
+    "z² + 5z - 4",
+    "z² + 3z - 4",
+    "z² - 3z - 4"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(m + 1)(n + 1) ko'paytma nimaga teng?",
+   "variantlar": [
+    "mn + m + n + 1",
+    "m + n + 2",
+    "mn + 1",
+    "mn + m + n"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(2x + 1)(x + 4) ko'paytmani standart shaklda yozing.",
+   "variantlar": [
+    "3x² + 9x + 4",
+    "2x² + 9x + 4",
+    "2x² + 8x + 4",
+    "2x² + 4"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(3m - 2)(2m - 1) ko'paytmani standart shaklda yozing.",
+   "variantlar": [
+    "6m² - 7m + 2",
+    "6m² - 7m - 2",
+    "6m² - m + 2",
+    "6m² + 7m + 2"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(a - 10)(a - 2) ko'paytmani standart shaklda yozing.",
+   "variantlar": [
+    "a² - 8a + 20",
+    "a² - 12a - 20",
+    "a² - 12a + 20",
+    "a² + 12a + 20"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(5p - 3q)(4p - q) ko'paytmani standart shaklda yozing.",
+   "variantlar": [
+    "20p² - 7pq + 3q²",
+    "20p² - 17pq - 3q²",
+    "20p² - 17pq + 3q²",
+    "20p² + 17pq + 3q²"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(0,3 - m)(0,3 + m) ko'paytmani standart shaklda yozing.",
+   "variantlar": [
+    "0,09 - m²",
+    "0,6 - m²",
+    "0,3 - m²",
+    "0,09 + m²"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(a + b)(a² - ab + b²) ko'paytmani standart shaklda yozing.",
+   "variantlar": [
+    "a³ + 2ab + b³",
+    "a³ + b³",
+    "a³ + a²b + b³",
+    "a³ - b³"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(x + 3)(x - 3) ko'paytmaning x = 5 dagi qiymatini toping.",
+   "variantlar": [
+    "34",
+    "10",
+    "25",
+    "16"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(x + 2)(x + 3) - x² ifodani soddalashtiring.",
+   "variantlar": [
+    "x + 6",
+    "6x + 5",
+    "5x + 6",
+    "5x + 5"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(2a - 3)(a + 5) ko'paytma standart shaklga keltirilganda a oldidagi koeffitsiyent nimaga teng?",
+   "variantlar": [
+    "10",
+    "7",
+    "13",
+    "-3"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(x + y)(x + 1) ko'paytmani standart shaklda yozing.",
+   "variantlar": [
+    "x² + xy + 1",
+    "x² + x + xy + y",
+    "x² + x + xy",
+    "x² + x + y"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(a + 1)(a + 2)(a + 3) ko'paytmani standart shaklda yozing.",
+   "variantlar": [
+    "a³ + 6a² + 11a + 5",
+    "a³ + 6a² + 6a + 6",
+    "a³ + 5a² + 11a + 6",
+    "a³ + 6a² + 11a + 6"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(x + ?)(x + 4) = x² + 7x + 12 tenglik to'g'ri bo'lishi uchun so'roq belgisi o'rniga qanday son qo'yish kerak?",
+   "variantlar": [
+    "2",
+    "8",
+    "3",
+    "4"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(x + 2)(x - 3) - (x - 1)(x + 4) ifodani soddalashtiring.",
+   "variantlar": [
+    "-4x - 2",
+    "-2x - 2",
+    "-4x - 10",
+    "2x - 2"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(x + 3)(2x - 1) - 2x² ifodaning x = 2 dagi qiymatini toping.",
+   "variantlar": [
+    "10",
+    "13",
+    "9",
+    "7"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(x - 2)(x² + 2x + 4) ko'paytmani standart shaklda yozing.",
+   "variantlar": [
+    "x³ + 8",
+    "x³ + 4x - 8",
+    "x³ - 8",
+    "x³ - 4x² + 8"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tomonlari (x + 2) va (x + 5) bo'lgan to'g'ri to'rtburchakning yuzi x = 3 bo'lganda nimaga teng?",
+   "variantlar": [
+    "45",
+    "40",
+    "30",
+    "35"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(a + b)(a - b)(a² + b²) ko'paytmani standart shaklda yozing.",
+   "variantlar": [
+    "a⁴ + b⁴",
+    "a⁴ - 2a²b² + b⁴",
+    "a⁴ + 2a²b² + b⁴",
+    "a⁴ - b⁴"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(x + y + 1)(x - y) ko'paytmani standart shaklda yozing.",
+   "variantlar": [
+    "x² + y² + x - y",
+    "x² - 2xy - y² + x",
+    "x² - y² + x - y",
+    "x² - y² + x + y"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(n + 1)(n + 2) - n(n + 3) ifodaning qiymatini toping.",
+   "variantlar": [
+    "2n + 2",
+    "6n + 2",
+    "2",
+    "0"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(a + 2)(a - 2) - (a - 1)(a + 1) ifodaning qiymatini toping.",
+   "variantlar": [
+    "-5",
+    "-3",
+    "0",
+    "3"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

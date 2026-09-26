@@ -1,0 +1,326 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Informatika",
+ "mavzu": "4-dars. SMM PLATFORMALAR BILAN TANISHISH. TELEGRAM TARMOG'I",
+ "savollar": [
+  {
+   "savol": "Telegram qanday dastur hisoblanadi?",
+   "variantlar": [
+    "Tezkorlik va xavfsizlikka asoslangan xabar almashish dasturi",
+    "Antivirus dasturi",
+    "Faqat video montaj dasturi",
+    "Matn tahrirlash dasturi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Telegram loyihasi qaysi yilda ishlab chiqilgan?",
+   "variantlar": [
+    "2018-yilda",
+    "2015-yilda",
+    "2010-yilda",
+    "2013-yilda"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Telegram loyihasini kimlar ishlab chiqqan?",
+   "variantlar": [
+    "Mark Sakerberg va uning do'stlari",
+    "Bill Geyts va Pol Allen",
+    "Aka-uka Nikolay va Pavel Durovlar",
+    "Larri Peyj va Sergey Brin"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chat nima?",
+   "variantlar": [
+    "Cheklanmagan abonentlarga xabar yuborish",
+    "Avtomatik javob beruvchi ilova",
+    "Ikki tomon o'rtasidagi yozishmalar",
+    "Faqat audio fayllar to'plami"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Guruhli chat deb nimaga aytiladi?",
+   "variantlar": [
+    "Uch yoki undan ortiq foydalanuvchilar o'rtasidagi yozishmaga",
+    "Ikki foydalanuvchi o'rtasidagi yozishmaga",
+    "Faqat bitta foydalanuvchi yozadigan chatga",
+    "Botlar o'rtasidagi yozishmaga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Botlar nima?",
+   "variantlar": [
+    "Kanal a'zolari ro'yxati",
+    "Maxfiy chatning bir turi",
+    "Foydalanuvchi xabarlariga zudlik bilan avtomatik javob beradigan ilovalar",
+    "Telegramning tilni sozlash bo'limi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bitta foydalanuvchi akkaunti orqali nechta jamoat kanali yaratish mumkin?",
+   "variantlar": [
+    "20 ta",
+    "10 ta",
+    "Cheklanmagan",
+    "5 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Telegramda ro'yxatdan o'tishda ilova ishga tushirilgach qaysi tugmacha tanlanadi?",
+   "variantlar": [
+    "CONTACTS",
+    "START MESSAGING",
+    "SETTINGS",
+    "NEW CHANNEL"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yangi foydalanuvchi kontaktini qo'shish Telegramning qaysi bo'limi orqali amalga oshiriladi?",
+   "variantlar": [
+    "Bots",
+    "Contacts",
+    "Settings",
+    "Folders"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri Telegram orqali jo'natish mumkin bo'lgan fayl turi emas?",
+   "variantlar": [
+    "zip",
+    "mp3",
+    "doc",
+    "Faqat qog'oz hujjat"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kanal a'zolarining o'ziga xos cheklovi qanday?",
+   "variantlar": [
+    "Ular faqat rasm ko'ra oladi",
+    "Ular kanalga kira olmaydi",
+    "Ular faqat 10 ta bo'lishi mumkin",
+    "Ular xabarlarga izoh berolmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kimdir o'z do'kondagi yangiliklarni cheksiz sondagi obunachilarga yubormoqchi. Qaysi vosita eng mos?",
+   "variantlar": [
+    "Maxfiy chat",
+    "Sozlamalardagi papka",
+    "Oddiy chat",
+    "Kanal"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki kishi xabarlarni shifrlangan holda faqat ikki mobil qurilma o'rtasida almashmoqchi. Ular nimadan foydalanishi kerak?",
+   "variantlar": [
+    "Bot",
+    "Jamoat kanali",
+    "Guruhli chat",
+    "Maxfiy chat"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Foydalanuvchi qidiruv orqali topib, a'zo bo'lmasdan ham kira oladigan kanal qaysi?",
+   "variantlar": [
+    "Maxfiy chat",
+    "Guruhli chat",
+    "Jamoat kanali",
+    "Xususiy kanal"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'quvchi profilidagi rasmni o'zgartirmoqchi. U Telegramning qaysi bo'limiga kirishi kerak?",
+   "variantlar": [
+    "Contacts",
+    "START MESSAGING",
+    "Bot",
+    "Settings"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sinfdagi 5 nafar o'quvchi bir vaqtda yozishmoqchi. Qaysi turdagi chat mos keladi?",
+   "variantlar": [
+    "Guruhli chat",
+    "Maxfiy chat",
+    "Faqat oddiy chat",
+    "Faqat bot"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Telegramda statistikani ko'rish va so'rovnomalarga javob olish uchun nimadan foydalaniladi?",
+   "variantlar": [
+    "Maxfiy chatdan",
+    "Kontaktlardan",
+    "Botlardan",
+    "Tarjimondan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ro'yxatdan o'tishda davlat nomi va telefon raqami kiritilgandan keyin nima qilinadi?",
+   "variantlar": [
+    "Papka yaratiladi",
+    "Profil rasmi yuklanadi",
+    "Kanal ochiladi",
+    "Telefon raqamiga kelgan kod teriladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Chat va kanallarni saralash uchun Telegramda nima hosil qilinadi?",
+   "variantlar": [
+    "Jamoat kanali",
+    "Papka",
+    "Bot",
+    "Maxfiy chat"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kompyuterda yozilgan xabar telefonda ham ko'rinishi Telegramning qaysi xususiyati bilan bog'liq?",
+   "variantlar": [
+    "Maxfiy chat shifrlanishi",
+    "Botlarning avtomatik javobi",
+    "Jamoat kanalining ochiqligi",
+    "Bir necha qurilmada sinxron ishlashi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun maxfiy chatni uch kishi o'rtasidagi muloqot uchun ishlatib bo'lmaydi?",
+   "variantlar": [
+    "Chunki maxfiy chat faqat kanallarda ishlaydi",
+    "Chunki maxfiy chat faqat rasm jo'natadi",
+    "Chunki maxfiy chat faqat ikki foydalanuvchi o'rtasidagi yozishma uchun mo'ljallangan",
+    "Chunki maxfiy chatda xabarlar shifrlanmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kanal va guruhli chat o'rtasidagi asosiy farq qaysi javobda to'g'ri ko'rsatilgan?",
+   "variantlar": [
+    "Kanalda faqat 10 ta a'zo bo'ladi, guruhda cheksiz",
+    "Kanal a'zolari xabarlarga izoh berolmaydi, guruhli chatda esa uch va undan ortiq foydalanuvchi yozishadi",
+    "Kanal shifrlangan, guruhli chat shifrlanmagan",
+    "Guruhli chat faqat botlar uchun, kanal faqat odamlar uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kimdir 12 ta jamoat kanali ochmoqchi va buni bitta akkauntdan bajarmoqchi. Nima bo'ladi?",
+   "variantlar": [
+    "Faqat 5 tasini yarata oladi",
+    "Faqat 10 tasini yarata oladi",
+    "Hammasini yarata oladi",
+    "Faqat 12 tadan ko'pini yarata oladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Do'kon egasi mahsulot yangiliklarini e'lon qilish, mijozlar so'rovnomasini o'tkazish va statistikani ko'rishni xohlaydi. Qaysi vositalar birikmasi eng mos?",
+   "variantlar": [
+    "Faqat maxfiy chat",
+    "Kanal va bot",
+    "Maxfiy chat va kontaktlar",
+    "Faqat papka"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Foydalanuvchi ilovani yuklab, ro'yxatdan o'tishni boshlamoqchi. Qadamlar to'g'ri tartibda qaysi javobda berilgan?",
+   "variantlar": [
+    "Kelgan kodni terish, START MESSAGING, davlat kiritish",
+    "START MESSAGING, davlat va raqam kiritish, kelgan kodni terish",
+    "Kodni terish, davlat va raqam kiritish, START MESSAGING",
+    "Davlat va raqam kiritish, kodni terish, START MESSAGING"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Foydalanuvchi profilini himoyalash va tilni o'zgartirishni xohlaydi. U qaysi bo'limga kirishi kerak va nima uchun?",
+   "variantlar": [
+    "Settings, chunki profilni himoyalash va tilni sozlash shu bo'limda",
+    "Maxfiy chat, chunki u tilni o'zgartiradi",
+    "Contacts, chunki u yerda barcha sozlamalar bor",
+    "Bot, chunki botlar profilni himoyalaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kanal haqida qaysi ta'rif to'g'ri: \"yangiliklar tasmasi va tematik blogga o'xshaydi\" iborasi kanalning qaysi xususiyatini bildiradi?",
+   "variantlar": [
+    "Xabarlar bir tomonlama tarqatiladi va a'zolar izoh qoldirmaydi",
+    "Kanalda faqat ikki kishi yozishadi",
+    "Kanalda xabarlar faqat shifrlangan holda bo'ladi",
+    "Kanal xabarlarga avtomatik javob beradi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Foydalanuvchi telefonda yozgan xabari planshetda ham ko'rinayotganini payqadi. Bundan qanday xulosa chiqarish mumkin?",
+   "variantlar": [
+    "Botlar xabarni ko'chirgan",
+    "U maxfiy chatdan foydalanmoqda",
+    "U jamoat kanalini ochgan",
+    "Telegram sinxron tarzda bir necha qurilmada ishlaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Telegram orqali biznes loyihani yuritish uchun quyidagilardan qaysi imkoniyatlar to'g'ri sanalgan?",
+   "variantlar": [
+    "Kanal, jamoat kanali, xususiy kanal va botlar ochish",
+    "Faqat papkalar yaratish",
+    "Faqat maxfiy chat ochish",
+    "Faqat kontaktlar qo'shish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Informatika",
+ "mavzu": "20-dars. LMS (LEARNING MANAGEMENT SYSTEMS — TA'LIMNI BOSHQARUV TIZIMLARI) HAQIDA",
+ "savollar": [
+  {
+   "savol": "LMS so'zining o'zbekcha ma'nosi nima?",
+   "variantlar": [
+    "Ta'limni boshqaruv tizimlari",
+    "Elektron pochta xizmati",
+    "Tarmoq xavfsizligi tizimi",
+    "Dasturlash tili"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "LMS so'zidagi \"Learning\" so'zi nimani anglatadi?",
+   "variantlar": [
+    "O'qitish",
+    "Baholash",
+    "Boshqaruv",
+    "Tizim"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "LMS so'zidagi \"Management\" so'zi nimani anglatadi?",
+   "variantlar": [
+    "Muloqot",
+    "Boshqaruv",
+    "Elektron tizim",
+    "O'qitish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "LMS so'zidagi \"System\" so'zi nimani anglatadi?",
+   "variantlar": [
+    "Elektron tizim",
+    "Kurs",
+    "O'qitish",
+    "Boshqaruv"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chat nima?",
+   "variantlar": [
+    "Axborot almashish real vaqtda olib boriladigan internetdagi muloqot",
+    "Tizimni boshqaruvchi xodim",
+    "Sayt orqali mavzu asosida olib boriladigan muloqot shakli",
+    "Elektron o'quv kitob"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Administrator kim?",
+   "variantlar": [
+    "Faqat tizimda o'qiydigan o'quvchi",
+    "Internet provayderi",
+    "Faqat test tuzuvchi o'quvchi",
+    "Tizimda ishlash va uni boshqarish uchun keng huquqlarga ega bo'lgan mutaxassis-xodim"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Forumda suhbatlar qanday olib boriladi?",
+   "variantlar": [
+    "Mavzusiz, tasodifiy tarzda",
+    "Foydalanuvchi yoki administrator tomonidan kiritilgan mavzu asosida",
+    "Faqat ovozli qo'ng'iroq orqali",
+    "Faqat video orqali"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri LMSning afzalligi hisoblanadi?",
+   "variantlar": [
+    "O'qish xarajatlarini kamaytirish",
+    "O'qituvchi bilan bevosita aloqaning yo'qligi",
+    "Qurilmalarga bo'lgan talabning yuqoriligi",
+    "O'qituvchi pedagogik mahoratini to'liq ko'rsata olmasligi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Masofaviy o'qish o'quvchiga qanday imkoniyat beradi?",
+   "variantlar": [
+    "Xohlagan vaqtida, istalgan joydan turib mustaqil shug'ullanish",
+    "Faqat kunduzi o'qish",
+    "Faqat o'qituvchi bilan yuzma-yuz o'qish",
+    "Faqat sinf xonasida o'qish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri LMSning kamchiligi hisoblanadi?",
+   "variantlar": [
+    "Baholash mezonlarini belgilash imkoniyati",
+    "Statistika yuritilishi",
+    "Zamonaviy texnologik qurilmalarni talab etishi",
+    "Tajriba almashish imkoniyati"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yoshi katta ta'lim oluvchi ish joyidan ajralmasdan o'qimoqchi. LMSning qaysi afzalligi unga qulaylik yaratadi?",
+   "variantlar": [
+    "Foydalanishning erkinligi",
+    "Forum",
+    "Statistika",
+    "Baholash mezoni"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Maktab kutubxonasidan metodik adabiyotlar sotib olishga mablag' sarflanmadi. Bu LMSning qaysi afzalligiga misol?",
+   "variantlar": [
+    "Tajriba almashish",
+    "O'qish xarajatlarini kamaytirish",
+    "Zamon bilan hamnafaslik",
+    "Ta'lim olishning tengligi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qishloqdagi o'quvchi ham shahardagi kuchli maktab o'quvchisi kabi sifatli ta'lim oldi. Bu LMSning qaysi afzalligi?",
+   "variantlar": [
+    "Statistika",
+    "Ta'lim olishning tengligi",
+    "Moslashuvchanlik",
+    "Xarajatni kamaytirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'qituvchi elektron kurs materiallarini yangi standartlarga muvofiq tezda yangiladi. Bu qaysi afzallikka misol?",
+   "variantlar": [
+    "Foydalanishning erkinligi",
+    "Statistika",
+    "Tajriba almashish",
+    "Zamon bilan hamnafaslik"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'qituvchi darsga qatnashish va o'zlashtirish bo'yicha hisobotni xohlagan paytda olmoqchi. Qaysi imkoniyatdan foydalanadi?",
+   "variantlar": [
+    "Statistika",
+    "Forum",
+    "Elektron kutubxona",
+    "Chat"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kurs yaratuvchi o'qituvchi tizimga yangi o'quvchilarni qo'shib, ularni sinflarga biriktirdi. Bu LMSning qaysi vazifasiga kiradi?",
+   "variantlar": [
+    "O'quv kontentlari bilan ishlash",
+    "O'quv jarayonini boshqarish",
+    "Baholash",
+    "Statistika"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'qituvchi tizimga video va audio materiallarni yukladi. Bu LMSning qaysi vazifasiga kiradi?",
+   "variantlar": [
+    "O'quv kontentlari bilan ishlash",
+    "Statistika",
+    "Foydalanuvchilar o'rtasida aloqa",
+    "Baholash"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'quvchi kursni muvaffaqiyatli tugatib, tizimdan sertifikat oldi. Bu LMSning qaysi vazifasiga kiradi?",
+   "variantlar": [
+    "O'quv jarayonini boshqarish",
+    "O'quv kontentlari bilan ishlash",
+    "Foydalanuvchilar o'rtasida aloqa",
+    "Baholash"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'qituvchi o'quvchilar bilan videokonferensiya orqali muloqot qildi va e'lon tarqatdi. Bu qaysi vazifaga kiradi?",
+   "variantlar": [
+    "Baholash",
+    "O'quv kontentlarini import qilish",
+    "Foydalanuvchilar o'rtasida o'zaro aloqa",
+    "Statistika"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Maxsus grafiklar orqali tizimdagi faol foydalanuvchilar haqida ma'lumot olish LMSning qaysi vazifasiga kiradi?",
+   "variantlar": [
+    "Baholash",
+    "Statistika",
+    "Aloqa",
+    "O'quv jarayonini boshqarish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Maktab LMSni joriy etmoqchi. Quyidagi holatlardan qaysi biri eng katta to'siq bo'ladi?",
+   "variantlar": [
+    "Hisobotlar avtomatik shakllanishi",
+    "O'quvchilarda zamonaviy qurilmalar yo'q va o'qituvchilarning AKT kompetentligi past",
+    "Materiallarni tez yangilash imkoniyati mavjudligi",
+    "Chat va forum mavjudligi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'qituvchi LMSda o'quvchi testni qancha vaqtda va qanday topshirganini kuzatmoqchi. Bu ikki imkoniyatning qaysi birikmasi kerak?",
+   "variantlar": [
+    "Faqat chat",
+    "Faqat elektron kutubxona",
+    "Tizimning avtomatik qayd etishi va hisobotlar",
+    "Faqat forum"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun LMSda o'quvchilarni baholash ba'zan qiyinlashadi?",
+   "variantlar": [
+    "Chunki mezonlarni belgilab bo'lmaydi",
+    "Chunki o'quvchi va o'qituvchi o'rtasida bevosita aloqa mavjud emas",
+    "Chunki testlar kiritib bo'lmaydi",
+    "Chunki hisobotlar yuritilmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi holatlardan qaysi biri LMSning \"Management\" (boshqaruv) jihatini to'liq ifodalaydi?",
+   "variantlar": [
+    "O'quvchi kitob sotib oladi",
+    "O'quvchi faqat chatda yozishadi",
+    "O'quvchi faqat video ko'radi",
+    "Administrator o'quvchilar uchun kurs, topshiriq va testlarni belgilaydi hamda uy vazifalari bajarilishini nazorat qiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi mulohazalardan qaysi biri to'g'ri?",
+   "variantlar": [
+    "LMS o'qituvchi pedagogik mahoratini to'liq namoyish etishga imkon beradi",
+    "LMS faqat yuzma-yuz darsda ishlatiladi",
+    "LMSda o'quvchi mustaqil o'qib, o'z-o'zini nazorat qiladi, o'qituvchi esa masofadan kuzatadi",
+    "LMSda o'quvchining o'zlashtirishini kuzatib bo'lmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'qituvchi o'quvchilar faolligini grafikda ko'rdi, so'ng ularga umumiy e'lon yubordi va sertifikat berdi. Bu jarayon qaysi vazifalar birikmasini o'z ichiga oladi?",
+   "variantlar": [
+    "Faqat statistika",
+    "Kontent bilan ishlash va ro'yxatdan o'tkazish",
+    "Faqat kontent bilan ishlash",
+    "Statistika, foydalanuvchilar o'rtasida aloqa va baholash"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri \"O'quv jarayonini boshqarish\" vazifasiga kirmaydi?",
+   "variantlar": [
+    "Sinflar yaratish va o'quvchilarni biriktirish",
+    "Foydalanuvchilarni o'quv kurslardan chetlashtirish",
+    "Sertifikatlar (diplomlar) berish",
+    "Foydalanuvchilarni ro'yxatdan o'tkazish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri \"O'quv kontentlari bilan ishlash\" vazifasiga kirmaydi?",
+   "variantlar": [
+    "Elektron materiallarni import/eksport qilish",
+    "Elektron kutubxona tashkil etish",
+    "Mualliflik dasturlarida yaratilgan resurslarni yuklash",
+    "Chat orqali muloqot tashkil etish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'qituvchi bir xil kursni turli shahardagi o'quvchilarga o'z vaqt jadvaliga moslab o'tdi va har bir o'quvchining natijasini bir xil aniq mezon bilan baholadi. Qaysi afzalliklar birikmasi ishlatilgan?",
+   "variantlar": [
+    "Zamon bilan hamnafaslik va chat",
+    "Statistika va xarajatni kamaytirish",
+    "Moslashuvchanlik va baholashning obyektiv mezoni",
+    "Tajriba almashish va forum"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun LMSda yaratilgan bilimlar bazasini \"bilimlar ombori\" deb atash mumkin?",
+   "variantlar": [
+    "Chunki u faqat kitoblarni sotadi",
+    "Chunki u faqat o'quvchilar ro'yxatini saqlaydi",
+    "Chunki u faqat testlarni saqlaydi",
+    "Chunki u mavzu bo'yicha shakllantirilgan elektron kurs va o'quv materiallarining yagona bazasidir"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

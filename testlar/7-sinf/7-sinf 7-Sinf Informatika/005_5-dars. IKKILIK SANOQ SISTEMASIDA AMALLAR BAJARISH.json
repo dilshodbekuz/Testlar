@@ -1,0 +1,337 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Informatika",
+ "mavzu": "5-dars. IKKILIK SANOQ SISTEMASIDA AMALLAR BAJARISH",
+ "savollar": [
+  {
+   "savol": "Ikkilik sanoq sistemasi qanday raqamlardan tashkil topgan?",
+   "variantlar": [
+    "0, 1 va 2",
+    "0 dan 9 gacha",
+    "1 va 2",
+    "0 va 1"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 1 + 1 nimaga teng?",
+   "variantlar": [
+    "2",
+    "0",
+    "11",
+    "10"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 10 – 1 nimaga teng?",
+   "variantlar": [
+    "1",
+    "10",
+    "11",
+    "0"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 1 • 1 nimaga teng?",
+   "variantlar": [
+    "1",
+    "0",
+    "11",
+    "10"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Biror razryad sonlarini qo'shganda natija sanoq sistemasi asosidan katta chiqsa, nima qilish kerak?",
+   "variantlar": [
+    "Natijani ikkiga bo'lish kerak",
+    "Amalni ayirish bilan almashtirish kerak",
+    "Natijani o'chirib tashlash kerak",
+    "Yig'indining asosdan katta qismini keyingi razryadga o'tkazish kerak"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Pozitsiyali sanoq sistemalarida qo'shish amali qaysi razryaddan boshlanadi?",
+   "variantlar": [
+    "Istalgan razryaddan",
+    "Birliklar razryadidan",
+    "Eng katta razryaddan",
+    "O'rtadagi razryaddan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'nlik sanoq sistemasidagi arifmetik amallarni bajarish usullari qaysi sanoq sistemalari uchun o'rinli?",
+   "variantlar": [
+    "Faqat o'nlik uchun",
+    "Faqat sakkizlik uchun",
+    "Barcha pozitsiyali sanoq sistemalari uchun",
+    "Faqat ikkilik uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Darslikka ko'ra, ikkilik sanoq sistemasida amallar qanday bajarilishini bilish nima uchun maqsadga muvofiq?",
+   "variantlar": [
+    "Faqat matematika fanini o'rganish uchun",
+    "Rasm chizish uchun",
+    "Kompyuterlarning ishlash prinsipini o'rganish uchun",
+    "O'nlik sanoq sistemasini unutish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 0 • 1 nimaga teng?",
+   "variantlar": [
+    "10",
+    "11",
+    "1",
+    "0"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasidagi ayirish jadvaliga ko'ra, 10 – 0 nimaga teng?",
+   "variantlar": [
+    "11",
+    "10",
+    "0",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 101 + 111 nimaga teng?",
+   "variantlar": [
+    "1100",
+    "1000",
+    "1110",
+    "1010"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 1101 + 110 nimaga teng?",
+   "variantlar": [
+    "1111",
+    "10011",
+    "10001",
+    "10101"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 1010 – 110 nimaga teng?",
+   "variantlar": [
+    "110",
+    "100",
+    "10",
+    "101"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 1100 – 11 nimaga teng?",
+   "variantlar": [
+    "1010",
+    "1000",
+    "1001",
+    "111"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 101 • 11 nimaga teng?",
+   "variantlar": [
+    "10101",
+    "1111",
+    "111",
+    "1011"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 110 • 101 nimaga teng?",
+   "variantlar": [
+    "10110",
+    "11111",
+    "11110",
+    "11100"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 1111 + 1011 nimaga teng?",
+   "variantlar": [
+    "11100",
+    "11010",
+    "10110",
+    "11001"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 111 • 11 nimaga teng?",
+   "variantlar": [
+    "11001",
+    "10011",
+    "10101",
+    "10111"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 1011 + 110 nimaga teng?",
+   "variantlar": [
+    "10101",
+    "10011",
+    "1111",
+    "10001"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 1010 + 1111 nimaga teng?",
+   "variantlar": [
+    "10111",
+    "10101",
+    "11001",
+    "11011"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 1001 • 101 – 1110 + 111 ifodani hisoblang.",
+   "variantlar": [
+    "110110",
+    "100100",
+    "100110",
+    "101110"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 100 + 111 + 1111 yig'indisini hisoblang (o'nlikda 4 + 7 + 15).",
+   "variantlar": [
+    "10110",
+    "11100",
+    "11010",
+    "11000"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 11,011 + 101,01 nimaga teng?",
+   "variantlar": [
+    "111,101",
+    "1001,101",
+    "1000,101",
+    "1000,011"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 1011 – 101,11 nimaga teng?",
+   "variantlar": [
+    "100,01",
+    "101,01",
+    "110,01",
+    "101,11"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 11011,11 – 101,01 nimaga teng?",
+   "variantlar": [
+    "10101,1",
+    "10111,1",
+    "10110,01",
+    "10110,1"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 1111 – 10,11 nimaga teng?",
+   "variantlar": [
+    "1100,01",
+    "1101,01",
+    "1011,01",
+    "1100,11"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 1101,101 – 1001,01 nimaga teng?",
+   "variantlar": [
+    "100,011",
+    "11,011",
+    "101,011",
+    "100,101"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 101,11 • 11,01 nimaga teng?",
+   "variantlar": [
+    "10010,1011",
+    "10011,1011",
+    "10010,1101",
+    "1010,1011"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 1011 • 11,01 nimaga teng?",
+   "variantlar": [
+    "100111,11",
+    "100011,01",
+    "10011,11",
+    "100011,11"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkilik sanoq sistemasida 1111,01 • 101 nimaga teng?",
+   "variantlar": [
+    "1000100,01",
+    "1011100,01",
+    "1001100,11",
+    "1001100,01"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

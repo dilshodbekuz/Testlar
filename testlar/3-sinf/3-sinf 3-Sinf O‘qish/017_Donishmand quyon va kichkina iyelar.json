@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf O‘qish",
+ "mavzu": "Donishmand quyon va kichkina iyelar",
+ "savollar": [
+  {
+   "savol": "Ertakda maktab rahbari qanday deyiladi?",
+   "variantlar": [
+    "Jirafa",
+    "Shalpangquloq rahbari",
+    "Birov xat",
+    "Quyon o'qituvchi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jirafalik bo'yni nimaga o'xshagan?",
+   "variantlar": [
+    "Simyog'ochga",
+    "Ustunga",
+    "Daraxtga",
+    "Ko'prikga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Maktabga kimlar keldi?",
+   "variantlar": [
+    "O'qituvchi",
+    "Quyon va Jirafa",
+    "Faqat Quyon",
+    "Faqat Jirafa"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jirafa qanday o'ziga xos sifati bor edi?",
+   "variantlar": [
+    "Aqlli",
+    "Tezkor",
+    "Kichkintoy",
+    "Qalinbark"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ertakda topishmoq nima?",
+   "variantlar": [
+    "Kitob",
+    "Mushkul savol yoki rebus",
+    "Maktab dars",
+    "Ertakni nomi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Saboq qaydan qabul qilinadi?",
+   "variantlar": [
+    "O'rmonda",
+    "Meydonga",
+    "Sinfdan",
+    "Derazadan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ertakda notanish qahramanlari kimlar?",
+   "variantlar": [
+    "Ustoz va Shogird",
+    "Quyon va Jirafa",
+    "Quyon va Rehbar",
+    "Jirafa va Rehbar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Muammoni kim yechdi?",
+   "variantlar": [
+    "Maktab rehbari",
+    "Boshqa hayvon",
+    "Quyon o'qituvchi",
+    "Jirafa"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Buyruq kimdan chiqdi?",
+   "variantlar": [
+    "Xat orqasidang",
+    "Jirafadan",
+    "Shalpangquloq maktab rahbaridang",
+    "Quyon o'qituvchidan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Donishmand\" so'zi kimni bildiradi?",
+   "variantlar": [
+    "Maktab rahbari",
+    "Biror xodeydagi kishi",
+    "Jirafalik",
+    "Quyon o'qituvchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nega Quyon o'qituvchi boshida \"hang-u mang\" bo'ldi?",
+   "variantlar": [
+    "Jirafalik o'qishni sevmadi",
+    "Jirafalik bo'yni uzun ekanini bilmay qoldigi uchun",
+    "Charchasidang",
+    "Vaqt ketib qolgan uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyon o'qituvchi muammoni qanday yechdi?",
+   "variantlar": [
+    "Daftarga yozib",
+    "Jirafalik uzun bo'yini e'tiborga olib",
+    "Ertakni o'qib",
+    "Boshqalardan so'rab"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jirafaning qaysi xususiyati muammoning yechimida foydalanildi?",
+   "variantlar": [
+    "Tezligi",
+    "Uzun bo'yni",
+    "Aql-zakomat",
+    "Kichkintoy bo'lganlik"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Hamma topishmoqning bir javobi bor albatta\" degan so'z nimani bildiradi?",
+   "variantlar": [
+    "Har qanday muammoni yechish mumkin",
+    "Barcha darslar oson",
+    "Jirafa hamma biladi",
+    "Vaqt ketib qolgan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ertakda \"voqea\" degan so'z nima ma'noda ishlatilgan?",
+   "variantlar": [
+    "Jirafa kelib turdi",
+    "Sodir bo'lgan hodisa yoki voqe'a",
+    "Xat",
+    "Maktab"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Maktabga kelgan xat nima haqida edi?",
+   "variantlar": [
+    "Dars jadvali",
+    "Quyon o'qituvchi",
+    "O'quvchilar soni",
+    "Jirafalik maktabga kelayotganlik haqida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyon o'qituvchi qanday malakaga ega edi?",
+   "variantlar": [
+    "Tez yurish",
+    "Shiroq o'qish",
+    "Kichkina o'yni",
+    "Muammoni yechish va donishmandlik"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ertakda \"Donishmand quyon\" nomini nima uchun qo'yilgan?",
+   "variantlar": [
+    "Quyon noma'lum muammoni yechdi",
+    "Quyon sevimli hayvon",
+    "Quyon yosh edi",
+    "Quyon maktabda o'qitadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jirafaning qaysi anatomik xususiyati ishlashga majbur qilindi?",
+   "variantlar": [
+    "Uzun bo'yni",
+    "Oyoqlari",
+    "Ko'zlari",
+    "Qulog'i"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Bosh suqib olar saboq\" degan iborani tahlil qilib, Jirafalik qanday saboq qabul qiladi?",
+   "variantlar": [
+    "Yugurmaganda",
+    "Derazadan bosh suqib",
+    "Sinfda",
+    "Yotib"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ertakdan qanday asosiy xulosa chiqarish mumkin?",
+   "variantlar": [
+    "Saboq oson emas",
+    "Har bir hayvonning o'ziga xos xususiyati mavjud va uni qo'llash kerak",
+    "Jirafa eng kuchli",
+    "Quyon eng aqlli"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyon o'qituvchi jirafalikni masalani hal etishda foydalanish g'oyasiga qanday yetti?",
+   "variantlar": [
+    "Kitobdan o'qidi",
+    "O'ylab topa bildi",
+    "Maktab rahbari aytdi",
+    "Boshqalardan so'radi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ertakda \"muammo\" va \"yechim\" o'rtasidagi munosabat qanday tasvir qilingan?",
+   "variantlar": [
+    "Muammo har doim qiyin",
+    "Yechim oson topiladi",
+    "Har bir muammoning yechimi mavjud",
+    "Muammo yechilmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ertakda \"shalpangquloq\" nomining ma'nosini qanday talqin qilish mumkin?",
+   "variantlar": [
+    "Shaypli quloq",
+    "Shalpa + gap",
+    "Uzun / g'ivdalanib turgan quloqli hayvon",
+    "Shalpak kiygan quloq"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ertakda \"Jirafaning bichimi\" e'tiborga olingani nimani bildiradi?",
+   "variantlar": [
+    "Jirafaning so'zi ahamiyatsiz",
+    "Rasm qarab aniqlandi",
+    "Jirafaning tabiiy xususiyati (bo'yni o'lchami) masalani yechdi",
+    "Jirafalik o'lchab o'qidi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Barcha turib qoldi lol, ikki tomon hayratda\" qatoriga asoslanib, nima sababli hamma hayratda qoldi?",
+   "variantlar": [
+    "Xat juda qalin edi",
+    "Jirafalikni saboq qabul qilishning noyob usuli",
+    "Dars qiyin edi",
+    "Vaqt tugadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ertakni ijobiy tomoni nima?",
+   "variantlar": [
+    "Jirafa maktabdan chiqdi",
+    "Quyon boshqa joyga ketdi",
+    "Har bir masalaning yechimi mavjud va imkoniyat topish kerak",
+    "Maktab o'chirildi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ertakda \"Inobatga olinib\" so'zi qaysi kontekstda ishlatilgan?",
+   "variantlar": [
+    "Noqulay",
+    "Unutilib",
+    "Tez",
+    "E'tiborga olinib, hisobga olinib"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ertakda Quyonning \"donishmandligi\" asosan qaysi fazilatda ko'rinib turadi?",
+   "variantlar": [
+    "Kattalik",
+    "Rang",
+    "Tezligi",
+    "Mas'alalani hal qilishda dastlabki o'y-fikrni boshqalarning imkoniyatidan foydalanishdek qabul qilish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ertakni yakunlashda \"bosh suqib olar saboq\" buyrug'i berish maqsadi nima?",
+   "variantlar": [
+    "Jirafani chastalandi",
+    "Jirafani test qilish",
+    "Maktab dars",
+    "Har bir hayvonning o'ziga xos faoliyati bo'lishi va undan foydalanish kerakligi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

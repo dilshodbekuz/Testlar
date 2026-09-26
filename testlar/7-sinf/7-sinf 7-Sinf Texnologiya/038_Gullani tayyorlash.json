@@ -1,0 +1,326 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Texnologiya",
+ "mavzu": "Gullani tayyorlash",
+ "savollar": [
+  {
+   "savol": "Gul tayyorlash uchun qanday gazlamalardan foydalanish mumkin?",
+   "variantlar": [
+    "Faqat eski gazlamalardan",
+    "Faqat yangi gazlamalardan",
+    "Faqat kimyoviy gazlamalardan",
+    "Yangi ham, eski ham gazlamalardan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Eski gazlamalardan foydalanishdan avval nima qilish kerak?",
+   "variantlar": [
+    "Bo'yash",
+    "Kuydirish",
+    "Qirqib tashlash",
+    "Yaxshilab yuvish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tabiiy va kimyoviy tolali gazlamalar dastlabki ishlovda nima bilan qotiriladi?",
+   "variantlar": [
+    "Jelatin bilan",
+    "Shakar bilan",
+    "Elim bilan",
+    "Kraxmal bilan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shoyi va trikotaj materiallar dastlabki ishlovda nima bilan qotiriladi?",
+   "variantlar": [
+    "Sovun bilan",
+    "Jelatin bilan",
+    "Shamm bilan",
+    "Kraxmal bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kraxmallash uchun 0,5 stakan sovuq suvga necha osh qoshiq kraxmal solinadi?",
+   "variantlar": [
+    "Bir",
+    "Ikki",
+    "Uch",
+    "To'rt"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Atirgul yaprog'i uchun qizil atlas lentadan uzunligi necha sm bo'lgan tasma qirqiladi?",
+   "variantlar": [
+    "10 sm",
+    "5 sm",
+    "11,5 sm",
+    "15 sm"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Amaliy mashg'ulotda atlas lentaning kengligi qancha bo'lishi kerak?",
+   "variantlar": [
+    "5 sm",
+    "7 sm",
+    "3 sm",
+    "10 sm"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qirqilgan lenta joyi sitilib ketmasligi uchun nima qilinadi?",
+   "variantlar": [
+    "Dazmollanadi",
+    "Bir oz kuydirib olinadi",
+    "Elimlanadi",
+    "Kraxmallanadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kiyim odam tanasini nimadan saqlaydi?",
+   "variantlar": [
+    "Faqat quyoshdan",
+    "Iqlim ta'siridan",
+    "Faqat sovuqdan",
+    "Faqat changdan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kiyimning nechta asosiy vazifasi matnda keltirilgan?",
+   "variantlar": [
+    "Uchta",
+    "To'rtta",
+    "Ikkita",
+    "Beshta"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nima uchun ipak (shoyi) gazlama kraxmal o'rniga jelatin bilan qotiriladi degan xulosaga kelish mumkin? Matnga ko'ra jelatinning qaysi xususiyati bunga mos keladi?",
+   "variantlar": [
+    "Gazlamani yengil qiladi",
+    "Gazlamani rangsizlantiradi",
+    "Gazlamani qattiqroq qiladi va shaklni uzoq saqlaydi",
+    "Gazlamani yumshoq qiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Paxta tolali gazlama bo'lagini kraxmallashda qanday amal bajariladi?",
+   "variantlar": [
+    "Faqat sovuq kraxmal surtiladi",
+    "Faqat bir tomoni kraxmallanadi",
+    "Ikki tomoni kraxmallanadi",
+    "Kraxmal surtilmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kraxmal eritmasi tayyorlashda sovuq suvda aralashtirilgach nima qo'shiladi?",
+   "variantlar": [
+    "Bir choy qoshiq shakar",
+    "0,5 stakan qaynoq suv",
+    "1 stakan sovuq suv",
+    "0,5 stakan sut"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kraxmallangan gazlamani doraga osishda nimaga e'tibor berish kerak?",
+   "variantlar": [
+    "Gazlama bir-biriga yopishib qolmasligi",
+    "Siqib osish",
+    "Burab osish",
+    "Ho'l holda dazmollash"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kraxmal surtish uchun gazlama bo'laklari qayerga yoyilib tekislanadi?",
+   "variantlar": [
+    "Yerga",
+    "Doraga",
+    "Dazmol ustiga",
+    "Kleyonka yozilgan stol ustiga"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qurigan gazlama bo'lagi gul kompozitsiyasi uchun ishlatishdan oldin nima qilinadi?",
+   "variantlar": [
+    "Kuydiriladi",
+    "Yuviladi",
+    "Yaxshilab dazmollanadi",
+    "Yana kraxmallanadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yashil gul bargi uchun tasma o'lchami qanday?",
+   "variantlar": [
+    "Uzunligi 20 sm, kengligi 10 sm",
+    "Uzunligi 15 sm, kengligi 5 sm",
+    "Uzunligi 5 sm, kengligi 15 sm",
+    "Uzunligi 11,5 sm, kengligi 5 sm"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gul bargi tayyorlashda diagonal bo'ylab qirqilgan chiziq qanday yopishtiriladi?",
+   "variantlar": [
+    "Kraxmal bilan",
+    "Tikib qo'yiladi",
+    "To'g'nog'ish bilan",
+    "Olovda bir oz eritib yopishtiriladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kiyimning qaysi turi amaliy, himoyaviy, ergonomik va gigienik vazifalarni o'z ichiga oladi?",
+   "variantlar": [
+    "Estetik kiyim",
+    "Ijtimoiy kiyim",
+    "Marosim kiyimi",
+    "Utilitar kiyim"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Atirgul yaprog'ini tayyorlashda lentaning yuqori qismi necha sm ga bukilib to'g'nog'ish bilan mahkamlanadi?",
+   "variantlar": [
+    "5 sm",
+    "3 sm",
+    "2 sm",
+    "1 sm"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Amaliy mashg'ulotda jami 20 dona gul yaprog'i tayyorlanadi. Ulardan 12 donasi bitta atirgulga, 8 donasi 2 ta g'unchaga (5 va 3 dona) ishlatilsa, jami nechta yaprog'i sarflanadi va qoldiq qancha bo'ladi?",
+   "variantlar": [
+    "12 ta sarflanadi, qoldiq 8",
+    "22 ta sarflanadi, qoldiq -2",
+    "18 ta sarflanadi, qoldiq 2",
+    "20 ta sarflanadi, qoldiq 0"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Namgarchilikka chidamli va bergan shaklini uzoq saqlaydigan qotirilgan gazlama olish kerak. Matnga ko'ra qaysi ishlov mos keladi?",
+   "variantlar": [
+    "Faqat yuvish",
+    "Faqat dazmollash",
+    "Kraxmallash",
+    "Jelatinlash"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Atirgul kompozitsiyasida jami nechta yaprog'idan atirgul va g'unchalar yasaladi (1 ta atirgul 12 ta, 2 ta g'uncha 5 va 3 ta yaprog'idan)?",
+   "variantlar": [
+    "16 ta",
+    "20 ta",
+    "24 ta",
+    "18 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kraxmal eritmasi tayyorlash uchun 0,5 stakan sovuq va 0,5 stakan qaynoq suv ishlatilsa, eritmaning umumiy suv hajmi necha stakan bo'ladi?",
+   "variantlar": [
+    "0,5 stakan",
+    "2 stakan",
+    "1,5 stakan",
+    "1 stakan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun kraxmalni avval sovuq suvda aralashtirib, keyin qaynoq suv qo'shiladi? Matndagi bayon tartibiga asoslanib to'g'ri tartibni tanlang.",
+   "variantlar": [
+    "Avval qaynoq suv, keyin kraxmal, so'ng sovuq suv",
+    "Kraxmal sovuq suvda bir xil massa bo'lguncha aralashtiriladi, keyin qaynoq suv qo'shiladi",
+    "Kraxmal to'g'ridan-to'g'ri qaynoq suvga solinadi",
+    "Kraxmal quruq holda gazlamaga sepiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kimyoviy tolali lenta yoki gazlama bilan ishlaganda diagonal chiziqni yopishtirish uchun qaysi jihozlar kerak bo'ladi va nima uchun?",
+   "variantlar": [
+    "Sham va gugurt, chunki kimyoviy material olovda yaxshi eriydi",
+    "Kraxmal va dazmol, chunki material qotadi",
+    "Faqat qaychi, chunki material o'zi yopishadi",
+    "Jelatin va suv, chunki material eriydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kiyimning estetik vazifasi qaysi ta'rifga mos keladi va u boshqa vazifalardan nimasi bilan farq qiladi?",
+   "variantlar": [
+    "Faqat gigienik vazifani bajaradi",
+    "Faqat himoyaviy vazifani bajaradi",
+    "Faqat mintaqaviy marosimlarga tegishli",
+    "Badiiy obrazli vazifani o'z ichiga oladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mustaqil amaliy ish uchun 20 dona qizil atlas tasma kerak bo'lib, har biri 11,5 sm bo'lsa, qirqishga jami necha sm lenta kerak bo'ladi?",
+   "variantlar": [
+    "250 sm",
+    "230 sm",
+    "215 sm",
+    "200 sm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gul bargini tayyorlash tartibi qaysi javobda to'g'ri berilgan?",
+   "variantlar": [
+    "Tasma kraxmallanadi, tikiladi, qirqiladi",
+    "Tasma ikkiga bukiladi, diagonal o'tkaziladi, qirqiladi, eritib yopishtiriladi, o'ngiga ag'dariladi",
+    "Tasma qirqiladi, o'ngiga ag'dariladi, ikkiga bukiladi, kraxmallanadi",
+    "Tasma eritiladi, bukiladi, ag'dariladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

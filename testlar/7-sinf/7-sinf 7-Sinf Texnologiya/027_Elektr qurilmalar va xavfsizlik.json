@@ -1,0 +1,315 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Texnologiya",
+ "mavzu": "Elektr qurilmalar va xavfsizlik",
+ "savollar": [
+  {
+   "savol": "Inson hayoti uchun xavfli hisoblanadigan tok kuchi qancha?",
+   "variantlar": [
+    "1 A",
+    "0,06 A",
+    "0,1 A",
+    "0,01 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Inson uchun halokatli hisoblanadigan tok kuchi qancha?",
+   "variantlar": [
+    "0,01 A",
+    "0,06 A",
+    "0,03 A",
+    "0,1 A"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kuchlanishi qancha voltdan ortiq bo'lgan asboblar bilan ishlaganda izolyatsiyalovchi himoya vositalaridan foydalanish kerak?",
+   "variantlar": [
+    "12 V",
+    "24 V",
+    "220 V",
+    "36 V"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri elektr tokidan izolyatsiyalovchi himoya vositasi hisoblanadi?",
+   "variantlar": [
+    "Temir dasta",
+    "Nam mato",
+    "Dielektrik qo'lqop",
+    "Metall qisqich"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Amalda eng ko'p tarqalgan rele turi qaysi?",
+   "variantlar": [
+    "Bosim relesi",
+    "Yorug'lik relesi",
+    "Issiqlik relesi",
+    "Tovush relesi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Issiqlik relesi nechta asosiy qismdan iborat?",
+   "variantlar": [
+    "Beshta",
+    "Uchta",
+    "To'rtta",
+    "Ikkita"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Issiqlik relesining normal holatda berk bo'ladigan qismi qaysi?",
+   "variantlar": [
+    "Kontakt (KK)",
+    "Elektr isitgich",
+    "Patron",
+    "Invar plastina"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bimetall plastina qanday hosil qilinadi?",
+   "variantlar": [
+    "Ikki metallni bir-biriga qizdirib yopishtirish yoki payvandlash orqali",
+    "Bitta metallni cho'zish orqali",
+    "Metallni suvga solish orqali",
+    "Metallga bo'yoq surtish orqali"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Invar qanday qotishma?",
+   "variantlar": [
+    "Nikel va temir qotishmasi",
+    "Alyuminiy va mis qotishmasi",
+    "Mis va rux qotishmasi",
+    "Qalay va qo'rg'oshin qotishmasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xonodon elektr tarmog'ini montaj qilishdan oldin nima tayyorlanadi yoki chiziladi?",
+   "variantlar": [
+    "Hisobot jadvali",
+    "Xarita",
+    "Rasmiy xat",
+    "Prinsipial sxema"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bimetall plastina qizdirilsa, u qaysi tomonga egiladi?",
+   "variantlar": [
+    "Chiziqli kengayish koeffitsiyenti kichik tomonga",
+    "Egilmaydi",
+    "Chiziqli kengayish koeffitsiyenti katta tomonga",
+    "Har doim yuqoriga"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bimetall plastinaning egilishini kuchaytirish uchun uni qanday tanlash kerak?",
+   "variantlar": [
+    "Qisqa va yupqa",
+    "Uzun va qalin",
+    "Uzun va yupqa",
+    "Qisqa va qalin"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishchi 220 V kuchlanishli asbob bilan ishlamoqchi. Matnga ko'ra nima qilishi kerak?",
+   "variantlar": [
+    "Asbobni suvga tekkizishi",
+    "Faqat nam qo'l bilan ishlashi",
+    "Dielektrik qo'lqop kabi himoya vositalaridan foydalanishi",
+    "Hech qanday choraga hojat yo'q"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kuchlanishi 24 V bo'lgan asbob bilan ishlashda matndagi talab (36 V dan ortiq bo'lsa himoya vositasi) bo'yicha nima deyish mumkin?",
+   "variantlar": [
+    "Talab qo'llanmaydi, chunki 24 V < 36 V",
+    "24 V halokatli",
+    "Faqat qo'lqop kerak emas, lekin kuchlanish 36 V dan ortiq",
+    "Talab albatta qo'llanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zanjirdan 0,08 A tok o'tmoqda. Bu tok matnga ko'ra qanday baholanadi?",
+   "variantlar": [
+    "Inson hayoti uchun xavfli, lekin halokatli chegaradan past",
+    "Hech qanday ta'siri yo'q",
+    "Xavfsiz",
+    "Halokatli"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Faqat himoya vazifasini bajaruvchi issiqlik relesi nimalardan tarkib topadi?",
+   "variantlar": [
+    "Patron va simdan",
+    "Bimetall plastina va isitgichdan",
+    "Elektromagnit va lampadan",
+    "Kalit va rozetkadan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishga tushirish-himoya relesi nimalardan iborat?",
+   "variantlar": [
+    "Faqat bimetall plastinadan",
+    "Faqat kontaktdan",
+    "Elektromagnit va issiqlik himoya relelari to'plamidan",
+    "Faqat isitgichdan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bimetallni qizdirishning amalda keng qo'llaniladigan usuli qaysi?",
+   "variantlar": [
+    "Faqat qo'lda ishqalash orqali",
+    "Iste'molchi toki va maxsus elektr isitgich orqali",
+    "Suv bilan isitish orqali",
+    "Quyosh nuri orqali"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Montajda o'tkazgich tanlashda nimaga e'tibor beriladi?",
+   "variantlar": [
+    "Devor rangiga",
+    "O'rnatiladigan elektr jihozlarining quvvatiga",
+    "Xona balandligiga",
+    "Mebel turiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Issiqlik relesida bimetall plastinaning qizishi natijasida zanjirni himoya qilish qanday amalga oshadi?",
+   "variantlar": [
+    "Plastina erib ketib, tok kuchayadi",
+    "Plastina egilib, kontaktni qo'shimcha ulaydi",
+    "Plastina magnitga aylanadi",
+    "Plastina egilib, normal berk kontaktni ochadi va zanjir uziladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki metallning chiziqli kengayish koeffitsiyentlari a1 < a2 bo'lsa, bir uchi mahkamlangan bimetall qizdirilganda qaysi metall tomoniga egiladi va nima uchun?",
+   "variantlar": [
+    "a2 tomonga, chunki u ko'proq kengayadi",
+    "Egilmaydi, chunki ikkalasi ham kengayadi",
+    "a1 tomonga, chunki u kamroq kengayadi",
+    "a1 tomonga, chunki u ko'proq kengayadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun issiqlik relesi elektr qurilmani ortiqcha tokdan himoya qila oladi?",
+   "variantlar": [
+    "Ortiqcha tok isitgich va bimetallni ko'proq qizdiradi, bimetall egilib zanjirni uzadi",
+    "Ortiqcha tok bimetallni sovutadi",
+    "Ortiqcha tok kontaktni yopib qo'yadi",
+    "Ortiqcha tok invarni eritadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishchi 0,1 A tok o'tayotgan zanjirga tegib ketdi. Matnga ko'ra bu holat qanday oqibatga olib kelishi mumkin?",
+   "variantlar": [
+    "Halokatli oqibatga",
+    "Faqat xavfsiz his",
+    "Faqat yengil qaltirash",
+    "Hech qanday xavf yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bimetall uchun invar va sirti nixrom-nikel bilan qoplangan po'lat birga ishlatiladi. Bu juftlikning egilishi nima uchun kuchli bo'ladi?",
+   "variantlar": [
+    "Invarning kengayishi o'ta kichik, po'latniki yuqori bo'lgani uchun koeffitsiyentlar farqi katta",
+    "Ikkalasi ham erib ketgani uchun",
+    "Ikkalasi ham magnitlangani uchun",
+    "Ikkalasining kengayishi bir xil bo'lgani uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bimetall plastinaning ishlashi va o'lchamlari haqida qaysi xulosa to'g'ri?",
+   "variantlar": [
+    "Yupqa plastina umuman egilmaydi",
+    "Qisqa va qalin plastina eng sezgir bo'ladi",
+    "O'lcham og'ishga ta'sir qilmaydi",
+    "Uzun va yupqa plastina kichik haroratda ham ko'proq og'adi, shuning uchun sezgirroq bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nosoz elektr simlari bilan ishlash xavfini kamaytirish uchun qaysi choralar majmuasi matnga mos keladi?",
+   "variantlar": [
+    "Texnik ekspluatatsiya qoidalariga rioya qilish va 36 V dan yuqori kuchlanishda dielektrik himoya vositalaridan foydalanish",
+    "Himoya vositalarini sinamasdan ishlatish",
+    "Nam qo'l bilan sim ushlash va qoidalarni e'tiborsiz qoldirish",
+    "Faqat metall asbob ishlatish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Xonodon elektr tarmog'ini montaj qilish ketma-ketligi qaysi variantda to'g'ri berilgan?",
+   "variantlar": [
+    "Baholash, montaj qilish, sxema chizish, maket bilan tanishish",
+    "Maket bilan tanishish, lampa va kalit rejasini tuzish, rozetka joyini aniqlash, o'tkazgich tanlash, sxema chizish, montaj qilish",
+    "O'tkazgich tanlash, montaj qilish, rejani tuzish, maket bilan tanishish",
+    "Montaj qilish, sxema chizish, maket bilan tanishish, o'tkazgich tanlash"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Issiqlik relesining uch qismi (isitgich, bimetall plastina, kontakt) haqida qaysi javob to'g'ri juftlikni beradi?",
+   "variantlar": [
+    "Isitgich kontaktni yopadi, bimetall tokni hosil qiladi",
+    "Isitgich bimetallni qizdiradi, bimetall esa kontaktni ochadi",
+    "Kontakt bimetallni qizdiradi, isitgich zanjirni uzadi",
+    "Bimetall isitgichni sovutadi, kontakt tokni kuchaytiradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}
