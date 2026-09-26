@@ -1,0 +1,337 @@
+{
+ "sinf": "6-sinf",
+ "kitob": "6-sinf 6-Sinf Informatika (2)",
+ "mavzu": "Hujjatni formatlash",
+ "savollar": [
+  {
+   "savol": "Hujjatni formatlash deganda nima tushuniladi?",
+   "variantlar": [
+    "Faqat matni o'zgartirish",
+    "Hujjatni saqlash jarayoni",
+    "Faqat sahifa ramkasi o'zgartirish",
+    "Shrift turi, o'lchami, rangi va abzas tekislanishi kabi amallar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Blok deganda nimaga aytiladi?",
+   "variantlar": [
+    "Sahifa ramkasi",
+    "Matndagi belgilangan qism",
+    "Matnni to'liq belgilash",
+    "Matnning belgilangan 7 satri"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnni formatlash uchun birinchi qadamda qanday amalga oshiriladi?",
+   "variantlar": [
+    "Sahifa tartib raqami berish",
+    "Sahifa ramkasi chizish",
+    "Bosh menyuni ochish",
+    "Formatlashni kerak bo'lgan qism belgilanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shrift parametrlariga quyidagilardan qaysi birisi kiradi?",
+   "variantlar": [
+    "Shrift turi, o'lchami, rangi va boshqa xususiyatlar",
+    "Faqat shrift o'lchami",
+    "Faqat shrift turi",
+    "Faqat shrift rangi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shrift parametrlarini tanlashning qaysi usuli Shrift muloqot oynasini ochadi?",
+   "variantlar": [
+    "Shrift mantiqiy guruhidagi belgisi yordamida",
+    "Sahifani belgilash menyusini tanlash",
+    "Bosh menyuning Abzas mantiqiy guruhini tanlash",
+    "Uslublar menyusini tanlash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Abzasni formatlash uchun birinchi qadamda qanday amalga oshiriladi?",
+   "variantlar": [
+    "Yurgich shu abzasga joylashtiriladi",
+    "Bosh menyuning Abzas guruhini tanlash",
+    "Sahifani belgilash menyusi ochiladi",
+    "Abzasning barcha satrlari belgilanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sahifaga tartib raqami berish uchun qaysi tasmadan foydalaniladi?",
+   "variantlar": [
+    "Joylashtirish tasmasining Kolontitullar guruhidan",
+    "Sahifani belgilash tasmasidan",
+    "Bosh tasma",
+    "Ko'rish tasmasidan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Masshtab parametri nima uchun ishlatiladi?",
+   "variantlar": [
+    "Belgilarni rangga aylantirish",
+    "Belgilar ko'lamini o'zgartirish",
+    "Belgilarning turini o'zgartirish",
+    "Belgilar orasidagi bo'shliqni o'zgartirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Oraliq parametri nima uchun ishlatiladi?",
+   "variantlar": [
+    "Belgilarning turini o'zgartirish",
+    "Belgilar ko'lamini o'zgartirish",
+    "Belgilar orasidagi bo'shliqni o'zgartirish",
+    "Belgilarni rangga aylantirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Siljish parametri nima uchun ishlatiladi?",
+   "variantlar": [
+    "Belgilar orasidagi bo'shliqni o'zgartirish",
+    "Belgilarning rangini o'zgartirish",
+    "Belgilarni rangga aylantirish",
+    "Belgilarni satrga nisbatan yuqoriga yoki quyiga siljitish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnni formatlash uchun qanday tartibi bilan amallar bajariladi?",
+   "variantlar": [
+    "Avval sahifa formati o'zgartirish, keyin matnni belgilash",
+    "Avval formatlanishi kerak bo'lgan qism belgilash, keyin kerakli xususiyatlar tanlash",
+    "Avval shrift turini o'zgartirish, keyin abzasni belgilash",
+    "Avval Bosh menyuni ochish, so'ng blok belgilash"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shrift parametrlarini tanlashning qaysi usuli Bosh menyudan foydalanadi?",
+   "variantlar": [
+    "Bosh menyuning Shrift mantiqiy guruhidan kerakli xususiyatlar tanlash",
+    "Shrift mantiqiy guruhidagi belgisini tanlash",
+    "Abzas menyusini tanlash",
+    "Sahifani belgilash menyusini tanlash"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Abzas formatlash uchun qanday usullardan foydalanilishi mumkin?",
+   "variantlar": [
+    "Faqat Abzas muloqot oynasi",
+    "Bosh menyu, Sahifani belgilash menyusi yoki Abzas muloqot oynasi",
+    "Faqat Sahifani belgilash menyusi",
+    "Faqat Bosh menyu"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Abzasga qaysi xususiyatlari o'zgartirilishi mumkin?",
+   "variantlar": [
+    "Tekislash usuli, chekinishi, oralig'i va boshqa xususiyatlar",
+    "Faqat tekislash usuli",
+    "Faqat bosh satr chekinishi",
+    "Faqat oraliq"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bosh satr chekinishi nima uchun bajariladi?",
+   "variantlar": [
+    "Matnni to'liq belgilash uchun",
+    "Sahifaga ramka chizish uchun",
+    "Shrift o'lchami o'zgartirish uchun",
+    "Abzasning bosh satri qolgan satirlaridan chetlanish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Satrlari orasidagi masofani o'zgartirish qaysi parametr orqali bajariladi?",
+   "variantlar": [
+    "Masshtab",
+    "Siljish",
+    "Oraliq",
+    "Abzas satrlari oralig'i"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shrift muloqot oynasi qancha qatlamdan iborat?",
+   "variantlar": [
+    "To'rrtta qatlamdan",
+    "Bir qatlamdan",
+    "Uchta qatlamdan",
+    "Ikkita qatlamdan: Shrift va Qo'shimcha"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Abzas parametrlari muloqot oynasi nechta qatlamdan iborat?",
+   "variantlar": [
+    "Uchta qatlamdan",
+    "To'rrtta qatlamdan",
+    "Bir qatlamdan",
+    "Ikkita qatlamdan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sahifa tartib raqamini joylashtirishning qaysi bo'limidan foydalaniladi?",
+   "variantlar": [
+    "Ko'rish tasmasidan",
+    "Sahifani belgilash",
+    "Joylashtirish tasmasining Kolontitullar guruhidan",
+    "Bosh menyu"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shrift yozuv shakli qanday o'zgartirilib, formatlashni qo'llash mumkin?",
+   "variantlar": [
+    "Faqat Sahifani belgilash menyusidan",
+    "Faqat Bosh menyudan",
+    "Bosh menyuning Shrift mantiqiy guruhidan yoki Shrift muloqot oynasidan",
+    "Faqat Shrift muloqot oynasidan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnda 'Mening vatanim - O'zbekiston' so'zini zangori rangda formatlash uchun qanday qadamlar bajariladi?",
+   "variantlar": [
+    "Faqat so'z belgilanadi va rang tanlanadi",
+    "Faqat Sahifani belgilash menyusidan rang tanlanadi",
+    "Bosh menyudan Abzas tanlash va rang o'zgartirish",
+    "So'z belgilanadi, Shrift mantiqiy guruhidan yoki Shrift muloqot oynasidan rang tanlanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Abzasda bosh satr chekinishi va abzasdan oldin oraliq berish kerak bo'lsa, qanday amallar bajariladi?",
+   "variantlar": [
+    "Faqat oraliq berish",
+    "Faqat Sahifani belgilash menyusi ochiladi",
+    "Bosh satr chekinishi va oraliq berish uchun alohida-alohida parametrlar o'zgartiriladi",
+    "Faqat bosh satr chekinishi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar matnda 'O'zbekiston' so'zi bir nechta joyda uchraydi va barcha joylarida zangori rangni qo'llash kerak bo'lsa, qanday usul ko'proq samarali?",
+   "variantlar": [
+    "Faqat sahifani belgilash menyusidan",
+    "Matnda bu so'zlashni avtomatik belgilash va bir vaqtning o'zida rangini o'zgartirish mumkin",
+    "Birinchi so'zni belgilash va formatini qo'llash",
+    "Har bir so'z uchun alohida belgilash va rangini o'zgartirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Shrift parametrlarini 'Qo'shimcha' qatlamida masshtabni 200% va belgilar oralig'ini siyarak 3 punkt qilish kerak bo'lsa, qanday natija hosil bo'ladi?",
+   "variantlar": [
+    "Hech qanday o'zgarish bo'lmaydi",
+    "Belgi ko'lami oshadi va belgilar orasidagi bo'shliq ham oshadi",
+    "Faqat oraliq o'zgaradi",
+    "Faqat masshtab o'zgaradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Biror abzasning satrlari oralig'i 'ikki' ga o'zgartirilib, shu bilan birga chap hoshiyadan chekinishi 1 sm ga o'zgartirilsa, qanday ta'sir ko'rinadi?",
+   "variantlar": [
+    "Satrlari oralig'i ortadi va matn chap tomondan chetlanadi",
+    "Faqat chap hoshiya chekinishi o'zgaradi",
+    "Faqat satrlari oralig'i o'zgaradi",
+    "Matn qayta yoziladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hujjatning shrift o'lchami 14pt, rangi qizil, yozuv shakli kursiv qilib, abzas satrlari oralig'i 1,5 ga o'zgartirilsa, qanday ta'sir hosil bo'ladi?",
+   "variantlar": [
+    "Faqat shrift o'zgaradi",
+    "Faqat abzas o'zgaradi",
+    "Hujjat saqlanmaydi",
+    "Ham shrift, ham abzas xususiyatlari o'zgaradi va hujjat yangi ko'rinishga ega bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hujjatda sahifaga tartib raqami berish uchun qaysi bosqichlar bajariladi?",
+   "variantlar": [
+    "Faqat Ko'rish tasmasidan ko'rish rejimini o'zgartirish",
+    "Faqat Bosh menyuning Sahifa tartib raqami tugmasini bosish",
+    "Faqat Sahifani belgilash menyusini ochish",
+    "Joylashtirish tasmasining Kolontitullar guruhidan Sahifa tartib raqami tugmasini tanlab, keyin joyi va formatini tanlash"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Biror so'zga masshtab 150%, belgilar oralig'i siyarak 2 punkt va siljish yuqoriga 3 punkt qo'llanilsa, bu so'z qanday ko'rinishga ega bo'ladi?",
+   "variantlar": [
+    "Faqat tetiklik beradi",
+    "Rang o'zgaradi",
+    "Shunchaki kichik bo'lib ko'rinadi",
+    "Ko'lami ortib, belgilar orasidagi bo'shliq ortib va matnning tepasiga ko'tariladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Abzas bosh satrni abzasning qolgan satirlariga nisbatan chetlanish masofasini tanlash uchun qanday vosita ishlatiladi?",
+   "variantlar": [
+    "Masshtab",
+    "Chizg'ich",
+    "Siljish",
+    "Oraliq"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar hujjatning ilk sahifasi bilan oxirgi sahifalarining formatini turlicha qilish kerak bo'lsa (masalan, ilk sahifada tartib raqami bo'lmasin, lekin oxirgi sahifalarda bo'lsin), qanday usuldan foydalaniladi?",
+   "variantlar": [
+    "Kolontitullar orqali turli sahifalar uchun turli format berish mumkin",
+    "Faqat sahifa tartib raqami berish mumkin",
+    "Butun hujjatning formatini bir vaqtda o'zgartiriladi",
+    "Har bir sahifaning formatini alohida-alohida o'zgartirish mumkin emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

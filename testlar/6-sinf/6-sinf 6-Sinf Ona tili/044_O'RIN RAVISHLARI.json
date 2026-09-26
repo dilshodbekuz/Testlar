@@ -1,0 +1,337 @@
+{
+ "sinf": "6-sinf",
+ "kitob": "6-sinf 6-Sinf Ona tili",
+ "mavzu": "O'RIN RAVISHLARI",
+ "savollar": [
+  {
+   "savol": "O'rin ravishlariga qanday so'rogiga javob bo'ladi?",
+   "variantlar": [
+    "nima?",
+    "qayer?",
+    "qancha?",
+    "qanday?"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi so'zlardan qaysi biri o'rin ravishi?",
+   "variantlar": [
+    "erta",
+    "tez",
+    "tashqarida",
+    "ko'p"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Miqdor-daraja ravishlariga qanday so'rogiga javob bo'ladi?",
+   "variantlar": [
+    "qayer?",
+    "qanday?",
+    "qachon?",
+    "qancha?"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Olg'a\" so'zi qanday ravish?",
+   "variantlar": [
+    "vaqt ravishi",
+    "o'rin ravishi",
+    "miqdor-daraja ravishi",
+    "xol-ahvol ravishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi so'zlardan qaysi ikkitasi o'rin ravishlari? \"kunduz\", \"ichkarida\", \"tashqarida\", \"ko'p\"",
+   "variantlar": [
+    "ichkarida va tashqarida",
+    "ichkarida va ko'p",
+    "kunduz va tashqarida",
+    "kunduz va ko'p"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Miqdor-daraja ravishlariga\" qanday so'zlar kiradi?",
+   "variantlar": [
+    "holat bildiradigan so'zlar",
+    "vaqt bildiradigan so'zlar",
+    "o'rin bildiradigan so'zlar",
+    "miqdor-darajani bildiradigan so'zlar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi so'zlardan qaysi biri miqdor-daraja ravishi?",
+   "variantlar": [
+    "oz",
+    "uzoqdan",
+    "olg'a",
+    "ichkarida"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Quyiga\" so'zi qanday ravish?",
+   "variantlar": [
+    "miqdor-daraja ravishi",
+    "o'rin ravishi",
+    "xol-ahvol ravishi",
+    "vaqt ravishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'rin ravishlariga qanday misollar kiradi?",
+   "variantlar": [
+    "ko'p, oz, ancha",
+    "avval, so'ng, oldin",
+    "tashqarida, ichkarida, olg'a",
+    "kunduz, erta, tez"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Miqdor-daraja ravishlariga qanday misollar kiradi?",
+   "variantlar": [
+    "avval, keyin, oldin",
+    "sal, xiyol, ko'p",
+    "olg'a, yuqorida, quyiga",
+    "uzoqdan, ichkarida, tashqarida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Tashqariga chiqib G'ofurjon boydan ketishga izn so'radi\" gapida qanday ravish ishlatilgan?",
+   "variantlar": [
+    "miqdor-daraja ravishi",
+    "o'rin ravishi",
+    "xol-ahvol ravishi",
+    "vaqt ravishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Salmon ota gapni uzoqdan boshladi\" gapida \"uzoqdan\" so'zi nimani anglatadi?",
+   "variantlar": [
+    "o'rinni",
+    "holatni",
+    "miqdorni",
+    "vaqtni"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Ichkariga kiring\" - bu gapda qanday ravish mavjud?",
+   "variantlar": [
+    "xol-ahvol ravishi",
+    "vaqt ravishi",
+    "o'rin ravishi",
+    "miqdor-daraja ravishi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Ko'p o'tmay hamma ichkariga taklif etildi\" gapida ikkita ravish mavjud. Ularni aniqlang.",
+   "variantlar": [
+    "ko'p - vaqt, ichkariga - holat",
+    "ko'p - o'rin, ichkariga - miqdor",
+    "ko'p - miqdor, ichkariga - o'rin",
+    "ko'p - miqdor, ichkariga - vaqt"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Oldiga dasturxon yozibdi\" gapida qanday ravish ishlatilgan?",
+   "variantlar": [
+    "vaqt ravishi",
+    "miqdor-daraja ravishi",
+    "xol-ahvol ravishi",
+    "o'rin ravishi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Uzoqdan bir ayol kela boshlabdi\" gapida \"uzoqdan\" so'zi qayerdan keladigan narsani bildiradi?",
+   "variantlar": [
+    "masofadan",
+    "balanddan",
+    "o'rtadan",
+    "yaqindan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Sal cho'zilsin\" gapida \"sal\" so'zi nimani bildiradi?",
+   "variantlar": [
+    "o'rin",
+    "holat",
+    "vaqt",
+    "miqdor-daraja"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Oldiga dasturxon yozibdi, kechqurun palov qilib olib chiqibdi\" gapda nechta o'rin ravishi mavjud?",
+   "variantlar": [
+    "ikkita",
+    "uchta",
+    "bitta",
+    "to'rtta"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Bir chaqirim ichkariga kirib borgan imizdan keyin tepada teshik ko'rindi\" gapida qanday ravishlar harakat o'rnini bildiradi?",
+   "variantlar": [
+    "Keyin va tepada",
+    "Ichkariga va tepada",
+    "Ichkariga",
+    "Tepada"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Nariroqda turib ish o'rgatib\" gapida \"nariroqda\" so'zi qanday ravish?",
+   "variantlar": [
+    "o'rin ravishi",
+    "xol-ahvol ravishi",
+    "vaqt ravishi",
+    "miqdor-daraja ravishi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Bizga yaqinlashmadi, lekin nariroqda turib ish o'rgatib, bularga baqirib turdi\" gapida qanday ravishlar ishlatilgan?",
+   "variantlar": [
+    "Faqat o'rin ravishlari",
+    "Faqat vaqt ravishlar",
+    "Faqat miqdor ravishlar",
+    "O'rin va miqdor ravishlar"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Bir chaqirim ichkariga kirib borgan imizdan keyin tepada teshik ko'rindi\" gapida nechta o'rin ravishi ishlatilgan?",
+   "variantlar": [
+    "ikkita",
+    "to'rtta",
+    "uchta",
+    "bitta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Uzoqdan bir ayol kela boshlabdi. Cholning yoniga kelib salom beribdi\" gaplarida qanday ravishlar harakat yo'lini bildiradi?",
+   "variantlar": [
+    "Uzoqdan va yoniga",
+    "Faqat yoniga",
+    "Uzoqdan va kelib",
+    "Faqat uzoqdan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Oldiga dasturxon yozibdi, kechqurun palov qilib olib chiqibdi. Bir chaqirim ichkariga kirib borganimizdan keyin tepada teshik ko'rindi\" to'liq matnda qanday turdagi ravishlar uchratiladi?",
+   "variantlar": [
+    "Miqdor va xol-ahvol ravishlar",
+    "Faqat vaqt ravishlar",
+    "Faqat o'rin ravishlar",
+    "O'rin va vaqt ravishlar"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Komandir boshliq jangchilar olg'a tashlanib bostirib boraverardilar\" gapida harakat qanday yo'nalishda amalga oshishi ko'rsatilgan?",
+   "variantlar": [
+    "Oldiga",
+    "Orqaga",
+    "Yoniga",
+    "Pastga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Sherqo'ziga ko'zi oldidan nari ketishi uchun ruxsat bermay qo'ydi\" gapida \"ko'zi oldidan\" iborasi qanday ravish?",
+   "variantlar": [
+    "miqdor-daraja ravishi",
+    "o'rin ravishi",
+    "xol-ahvol ravishi",
+    "vaqt ravishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Bo'ying sal cho'zilsin, bironta duradgor usta topilsa, shogirdlikka topshirardim. U aravani Nuriddin minganini ko'rib, xiyla yengil tortdi\" gaplarida nechta o'rin ravishi va miqdor-daraja ravishi mavjud?",
+   "variantlar": [
+    "1 o'rin, 1 miqdor",
+    "2 o'rin, 1 miqdor",
+    "1 o'rin, 2 miqdor",
+    "2 o'rin, 2 miqdor"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Oldimdan bir uy chiqib qoldi, jon holatda unga o'zimni urdim\" gapda \"oldimdan\" so'zi qanday harakat yo'nalishini ko'rsatadi?",
+   "variantlar": [
+    "Yoniga",
+    "Oldiga",
+    "Orqaga",
+    "Yuqorida"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Kunduzi o'ralashib yurganlardan bu yerda qittay ham qolmagan\" gapida qanday turdagi ravishlar ishlatilgan?",
+   "variantlar": [
+    "O'rin va vaqt ravishlar",
+    "Faqat o'rin ravishlar",
+    "Faqat vaqt ravishlar",
+    "Miqdor va xol-ahvol ravishlar"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Nariroqda turib ish o'rgatib, bularga baqirib turdi. Ko'p o'tmay hamma ichkariga taklif etildi. Kunduzi o'ralashib yurganlardan bu yerda qittay ham qolmagan\" matnda o'rin ravishlarining umumiy soni nechta?",
+   "variantlar": [
+    "to'rtta",
+    "uchta",
+    "bitta",
+    "ikkita"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

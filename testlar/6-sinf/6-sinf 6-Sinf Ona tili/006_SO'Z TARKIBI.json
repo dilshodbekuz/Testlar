@@ -1,0 +1,326 @@
+{
+ "sinf": "6-sinf",
+ "kitob": "6-sinf 6-Sinf Ona tili",
+ "mavzu": "SO'Z TARKIBI",
+ "savollar": [
+  {
+   "savol": "So'z tarkibi nima?",
+   "variantlar": [
+    "Faqat ildizdan iborat",
+    "Faqat harflardan iborat",
+    "Asos va qo'shimchalardan iborat",
+    "Qo'shimchalardan iborat"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Asos qanday qism deyiladi?",
+   "variantlar": [
+    "So'zning oxirgi harflaridan iborat qism",
+    "Asosga qo'shilib yangi ma'no yuklaydigan qism",
+    "So'zning asosiy ma'nosini ifodalab, mustaqil qo'llana oladigan qism",
+    "So'zni bog'lashga xizmat qiladigan qism"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qo'shimcha nima?",
+   "variantlar": [
+    "Gapni bog'laydigan vosita",
+    "So'zning asosiy harflaridan iborat qism",
+    "Mustaqil qo'llana olmaydigan, asosga qo'shilib yangi yoki qo'shimcha ma'no yuklaydigan qism",
+    "Mustaqil qo'llana oladigan qism"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suvchi, ishchi, omborchi, traktorchi, kombaynchi so'zlarida umumiy qo'shimcha qaysi?",
+   "variantlar": [
+    "ish-, suv-, etc",
+    "-uchi",
+    "-chi",
+    "-v"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "So'z yasovchi qo'shimchalar nima uchun kerak?",
+   "variantlar": [
+    "Jinsiy bildirish uchun",
+    "So'zga yangi ma'no hosil qilish uchun",
+    "Birlik bildirish uchun",
+    "Vaqt bildirish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shakl yasovchi qo'shimchalar nima hosil qiladi?",
+   "variantlar": [
+    "Faqat birlik bildiradi",
+    "Yangi ma'no hosil qiladi",
+    "Yangi ma'no hosil qilmaydi",
+    "Faqat ko'plik bildiradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi so'zlardan qaysi birida '-li' qo'shimchasi mavjud?",
+   "variantlar": [
+    "Ilmiy",
+    "Ilmli",
+    "Ilmsiz",
+    "Ilmparvar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xabardor, ilmli, ilmsiz, xabarsiz, ilmiy, ulug'vor, behaqbar, beilm, ulug'lamoq, ilmparvar, ulug'vorlik so'zlardan qaysi birida '-vor' qo'shimchasi bor?",
+   "variantlar": [
+    "Xabardor",
+    "Ilmli",
+    "Ulug'vor",
+    "Behaqbar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qo'shimchalar nechta vazifa asosida turlarga bo'linadi?",
+   "variantlar": [
+    "Uchta",
+    "To'rtta",
+    "Bitta",
+    "Ikkita"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Berilgan so'zlardan qaysi birida '-zor' qo'shimchasi mavjud?",
+   "variantlar": [
+    "Mevaning",
+    "Mevazor",
+    "Mevali",
+    "Mevalarni"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mevazor so'zini asos va qo'shimchaga ajrating.",
+   "variantlar": [
+    "Mevazo + r",
+    "Meva + zor",
+    "Mev + azor",
+    "Me + vazor"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gul asosiga '-chi' qo'shimchasi qo'shilib qanday so'z hosil bo'ladi?",
+   "variantlar": [
+    "Gultoy",
+    "Guldan",
+    "Gulchi",
+    "Gulchik"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Oq asosiga '-la' qo'shimchasi qo'shilib qanday so'z hosil bo'ladi?",
+   "variantlar": [
+    "Oqlik",
+    "Oqda",
+    "Oqshuv",
+    "Oqla"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qo'shimchalar asosga qo'shilib qayni hosil qiladi?",
+   "variantlar": [
+    "Faqat ovozlar",
+    "Faqat harflar",
+    "Yangi so'zlar va ularning shakllari",
+    "Faqat gaplar"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Aql asosiga '-li' so'z yasovchi qo'shimchasi qo'shilsa qanday so'z hosil bo'ladi?",
+   "variantlar": [
+    "Aqlli",
+    "Aqliy",
+    "Aqli",
+    "Aqul"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Taqsim asosiga '-la' qo'shimchasi qo'shilsa qanday so'z hosil bo'ladi?",
+   "variantlar": [
+    "Taqsil",
+    "Taqsimla",
+    "Taqsi-mla",
+    "Taqsimali"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mevazor, mevali, mevaning, mevalarni so'zlaridan qaysilari so'z yasovchi qo'shimcha bilan yasalgan?",
+   "variantlar": [
+    "Mevazor, mevali",
+    "Faqat mevazor",
+    "Mevaning, mevalarni",
+    "Hammasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sezgir so'zini asos va qo'shimchaga ajrating.",
+   "variantlar": [
+    "Se + zgir",
+    "Sez + gi + r",
+    "Sezgi + r",
+    "Sez + gir"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Do'ppido'z so'z nima asoslaridan yasalgan?",
+   "variantlar": [
+    "Do'ppi + do'z",
+    "Do'pp + ido'z",
+    "Do'p + pido'z",
+    "Do'p + pi + do'z"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Behaqbar so'zida qaysi qo'shimcha mavjud?",
+   "variantlar": [
+    "'ha-'",
+    "'-dor'",
+    "'-bar'",
+    "'be-'"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gul asosiga avval '-li' so'z yasovchi qo'shimchasi, keyin '-lar' shakl yasovchi qo'shimchasi qo'shilsa qanday so'z hosil bo'ladi?",
+   "variantlar": [
+    "Guli + lar = gulilar",
+    "Gul + li + lar = gullilar",
+    "Gul + li = gulli",
+    "Gul + lar = gullar"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Oq va aqlli so'zlarni solishtirganda qaysi bayonot to'g'ri?",
+   "variantlar": [
+    "Ikkalasida ham shakl yasovchi qo'shimcha bor",
+    "Oq da qo'shimcha bor",
+    "Ikkalasida ham qo'shimcha yo'q",
+    "Aqlli da '-li' so'z yasovchi qo'shimcha bor"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Behaqbar, ilmli, xabardor so'zlarining tarkibini tahlil qilib, qo'shimchalarning vazifasini tushuntiring.",
+   "variantlar": [
+    "Hammasi so'z yasovchi qo'shimcha",
+    "Hammasi shakl yasovchi qo'shimcha",
+    "Hammasi qo'shimcha yo'q",
+    "Birinchida 'be-' so'z yasovchi, ikkinchida '-li' so'z yasovchi, uchinchida '-dor' so'z yasovchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Odobli, ilmli, barkamol, shijoatli so'zlaridan qaysilari so'z yasovchi qo'shimcha bilan yasalgan?",
+   "variantlar": [
+    "Hammasi",
+    "Faqat odobli va ilmli",
+    "Faqat barkamol",
+    "Odobli, ilmli va shijoatli"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bug'doyzor so'z nechta qo'shimchadan yasalgan va ular qaysi turga tegishli?",
+   "variantlar": [
+    "Uchta qo'shimcha",
+    "Bitta qo'shimcha",
+    "To'rt qo'shimcha",
+    "Ikkita qo'shimcha, ikkalasi so'z yasovchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Chumchuq va chumchuq bolasi so'zlarini taqqoslab, qo'shimcha va tarkibni tushuntiring.",
+   "variantlar": [
+    "Ikkalasida ham faqat asos bor",
+    "Birinchisida asos bor, ikkinchisida '-si' shakl yasovchi qo'shimcha",
+    "Birinchisida asos bor, ikkinchisida '-bolasi' shakl yasovchi qo'shimcha",
+    "Ikkalasida ham asos va qo'shimcha bor"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ipakday, buloqsuviday so'zlardagi '-day' va '-suviday' qo'shimchalarining vazifasini aniqlang.",
+   "variantlar": [
+    "Ikkalasi shakl yasovchi",
+    "Birinchisi so'z yasovchi, ikkinchisi shakl yasovchi",
+    "Ikkalasida ham qo'shimcha yo'q",
+    "Ikkalasi so'z yasovchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qanoti, changalzor, yengilmas so'zlarining tarkibini aniqlang va so'z yasovchi qo'shimchalarni ko'rsating.",
+   "variantlar": [
+    "Qanoti da '-i' shakl yasovchi, changalzor da '-zor' so'z yasovchi, yengilmas da '-mas' so'z yasovchi",
+    "Changalzor da '-zor' so'z yasovchi",
+    "Hammasi shakl yasovchi",
+    "Hammasi asos"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Topishmoqda keltirilgan soralarning javoblarida qaysi so'zlar so'z yasovchi qo'shimcha bilan yasalgan?",
+   "variantlar": [
+    "Qorday, parday, dumaloq, ish laydi",
+    "Qorday, parday, qanoti, lochin",
+    "Faqat dumaloq",
+    "Hammasi shakl yasovchi qo'shimcha"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

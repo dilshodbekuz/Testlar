@@ -1,0 +1,326 @@
+{
+ "sinf": "6-sinf",
+ "kitob": "6-sinf 6-Sinf Informatika",
+ "mavzu": "WORDDA HUJJATNI CHOP ETISH",
+ "savollar": [
+  {
+   "savol": "Hujjatni chop etish uchun Word dasturida qaysi menyu tanlanadi?",
+   "variantlar": [
+    "Tahrirish",
+    "Korinish",
+    "Asosiy",
+    "Fayl"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chop etish lavhasida quyidagi bandlardan nechtasi mavjud?",
+   "variantlar": [
+    "5 ta",
+    "6 ta",
+    "3 ta",
+    "4 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sahifalar bandida \"Barchasi\" ko'rsatmasini tanlansa nima chop etiladi?",
+   "variantlar": [
+    "Belgilangan qism",
+    "Hujjatning barcha sahifalari",
+    "Faqat birinchi sahifa",
+    "Faqat joriy sahifa"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Joriy\" ko'rsatmasida qaysi sahifa chop etiladi?",
+   "variantlar": [
+    "Yurgich turgan sahifa",
+    "Oxirgi sahifa",
+    "Birinchi sahifa",
+    "Belgilangan sahifalar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nusxalar bandida quyidagi ko'rsatmalardan qaysi biri mavjud emas?",
+   "variantlar": [
+    "Nusxalar rangi",
+    "Nusxalar ketma-ketligi",
+    "Nusxalar soni",
+    "Nusxalar bo'yicha ajratish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Masshtab bandida nima ko'rsatiladi?",
+   "variantlar": [
+    "Chop etilish sifati",
+    "Rangli chop etish",
+    "Printerning turi",
+    "Qog'ozning bir sahifasiga necha sahifa chop etilishi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qamrov bandida quyidagi ko'rsatmalardan qaysi biri bor?",
+   "variantlar": [
+    "Rangli sahifalar",
+    "Chiziq sahifalari",
+    "Toq tartib raqamli sahifalar",
+    "Qora-oq sahifalar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Xususiyatlar\" tugmasi Chop etish lavhasining qaysi bandida joylashgan?",
+   "variantlar": [
+    "Nusxalar bandida",
+    "Printer bandida",
+    "Masshtab bandida",
+    "Sahifalar bandida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kitobcha shaklida chop etish xususiyati qaysi printer misoli bilan tushuntirish talab qilingan?",
+   "variantlar": [
+    "HP LaserJet 1300",
+    "Xerox WorkCentre",
+    "Canon Pixma",
+    "Epson L350"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kitobcha shaklida chop etish uchun printer xususiyatlari lavhasining qaysi bo'limiga kiriladi?",
+   "variantlar": [
+    "Chop etish sifati",
+    "Sahifalar joylanishi",
+    "Yakuniy ishlov",
+    "Rang sozlamalari"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sahifalar bandida \"Tartib raqami\" ko'rsatmasida oynaga 1, 3, 5-12 yozilgan bo'lsa, qaysi sahifalar chop etiladi?",
+   "variantlar": [
+    "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+    "1 dan 12 gacha",
+    "Faqat 1, 3, 5, 12",
+    "1, 3, 5, 6, 7, 8, 9, 10, 11, 12"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Ajratilgan qism\" ko'rsatmasini qachon tanlash mumkin?",
+   "variantlar": [
+    "Har doim istalgancha",
+    "Faqat jadvallar tanlangandagina",
+    "Faqat matnning biror qismi belgilangandagina",
+    "Faqat rasmlar tanlangandagina"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hujjatni 3 nusxada chop etayotganda \"Ajratish\" belgilanmagan bo'lsa, ikkinchi sahifa nechta nusxada chop etiladi?",
+   "variantlar": [
+    "1 nusxada",
+    "2 nusxada",
+    "3 nusxada",
+    "6 nusxada"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Nusxalar bo'yicha ajratish\" belgilangan bo'lsa, 3 nusxada chop etishda birinchi nusxasi qanday chop etiladi?",
+   "variantlar": [
+    "Hujjatning birinchi nusxasi to'lig'icha",
+    "Yarmini",
+    "Faqat birinchi qismi",
+    "Birinchi sahifa 3 nusxada"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Masshtab bandida \"4 sahifa\" ko'rsatmasini tanlansa, qog'ozning bitta sahifasiga nechta hujjat sahifasi chop etiladi?",
+   "variantlar": [
+    "1 ta",
+    "2 ta",
+    "4 ta",
+    "8 ta"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qamrov bandida \"Juft tartib raqamli sahifalar\" tanlansa, nima chop etiladi?",
+   "variantlar": [
+    "Hujjatning barcha sahifalari",
+    "Hujjatning faqat juft raqamli sahifalari",
+    "Belgilangan sahifalar",
+    "Hujjatning faqat toq raqamli sahifalari"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hujjatni ikki tomoniga chop etish uchun printer xususiyatlarining Hujjat parametrlari bandida qaysi ko'rsatma tanlanadi?",
+   "variantlar": [
+    "Ikki tomoniga chop etish",
+    "Hujjat sifati",
+    "Matn yo'nalishi",
+    "Qog'ozning o'lchamlari"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Buklet maketida \"Chap tomondan muqovalash\" ko'rsatmasi qaysi joydan muqovalashni anglatadi?",
+   "variantlar": [
+    "Yuqoridan",
+    "O'ng tomondan",
+    "Pastdan",
+    "Chap tomondan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hujjatning belgilangan qismini chop etish uchun Sahifalar bandida qaysi ko'rsatma tanlanadi?",
+   "variantlar": [
+    "Barchasi",
+    "Joriy",
+    "Tartib raqami",
+    "Ajratilgan qism"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qog'ozning bir sahifasiga 4 ta sahifa chop etilsa, 8 sahifali hujjat necha qog'ozga chop etiladi?",
+   "variantlar": [
+    "8 qog'oz",
+    "1 qog'oz",
+    "2 qog'oz",
+    "4 qog'oz"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hujjat 20 sahifali bo'lib, qog'ozning bitta sahifasiga 4 ta sahifa chop etilsa, necha qog'oz kerak?",
+   "variantlar": [
+    "20 qog'oz",
+    "5 qog'oz",
+    "10 qog'oz",
+    "40 qog'oz"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Faqat 2, 4, 6, 8 sahifalarni chop etish uchun Qamrov bandida qaysi ko'rsatma tanlanadi?",
+   "variantlar": [
+    "Barcha sahifalar",
+    "Tartib raqamlari",
+    "Toq tartib raqamli sahifalar",
+    "Juft tartib raqamli sahifalar"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1-8 sahifalarni va keyin 12-20 sahifalarni chop etmoqchi. Tartib raqami oynasiga nima yozish kerak?",
+   "variantlar": [
+    "1-8,12-20",
+    "1-8;12-20",
+    "1 dan 8 gacha va 12 dan 20 gacha",
+    "1-20"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3 nusxada chop etishda \"Nusxalar bo'yicha ajratish\" belgilangan bo'lsa, birinchi nusxasi necha sahifadan iborat?",
+   "variantlar": [
+    "1 sahifa",
+    "Hujjatning barcha sahifalari",
+    "3 sahifa",
+    "Yarim sahifa"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hujjat 12 sahifali bo'lib, qog'ozning bitta sahifasiga 2 ta hujjat sahifasi chop etilsa, necha qog'oz kerak?",
+   "variantlar": [
+    "24 qog'oz",
+    "6 qog'oz",
+    "3 qog'oz",
+    "12 qog'oz"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kitobcha shaklida chop etishda chop etilgan qog'ozlarning tartibini qanday saqlash lozim?",
+   "variantlar": [
+    "Tartibini buzmagan holda",
+    "Tasodifi tartibi bilan",
+    "Yangidan joylashtirish",
+    "Teskari tartibda"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kitobcha shaklida chop etishda hujjatning yarmi qog'ozning qaysi tomoniga chop etiladi?",
+   "variantlar": [
+    "Ikkala tarafiga bir vaqtda",
+    "Orqa tarafiga",
+    "Tepa qirrasiga",
+    "Bir tarafiga"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kitobcha shaklida chop etib bo'lingan qog'ozlarni ikkiga buklashdan oldin qaysi amal bajarish kerak?",
+   "variantlar": [
+    "Printerga qayta joylash",
+    "Quritish",
+    "Qog'ozlarni yuvish",
+    "Tekislash"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hujjatning 1-5 va 10-15 sahifalarini Tartib raqami ko'rsatmasidan foydalanib chop etishda qanday ketma-ketlikda chop etiladi?",
+   "variantlar": [
+    "10-15 keyin 1-5",
+    "1-5 keyin 10-15",
+    "Almashtirib",
+    "Printerning o'zi tanlaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

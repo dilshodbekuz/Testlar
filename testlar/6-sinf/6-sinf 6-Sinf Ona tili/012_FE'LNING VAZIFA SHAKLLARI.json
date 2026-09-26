@@ -1,0 +1,337 @@
+{
+ "sinf": "6-sinf",
+ "kitob": "6-sinf 6-Sinf Ona tili",
+ "mavzu": "FE'LNING VAZIFA SHAKLLARI",
+ "savollar": [
+  {
+   "savol": "Fe'lning vazifa shakllari deb nimaga aytiladi?",
+   "variantlar": [
+    "Fe'lning faqat gapda kesim vazifasida kelishi",
+    "Fe'lning to'g'ridan-to'g'ri harakat bildirishi",
+    "Fe'lning boshqa fe'llarga yordamchi bo'lishi",
+    "Turli gap bo'laklari vazifasida kelish uchun xoslangan fe'l shakllari"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Harakat nomi qaysi qo'shimchalar yordamida yasaladi?",
+   "variantlar": [
+    "-gan, -ydigan, -(a)r",
+    "-(i)sh, -(u)v, -moq",
+    "-ma, -y, -qan",
+    "-(i)b, -a, -gach"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sifatdosh yasovchi qo'shimchalar qaysilar?",
+   "variantlar": [
+    "-ma, -qan, -kan",
+    "-(i)sh, -(u)v, -moq",
+    "-(i)b, -a, -gach",
+    "-gan, -ydigan, -(a)yotgan, -(a)r"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi qo'shimchalardan qaysilari ravishdosh yasovchi?",
+   "variantlar": [
+    "-(i)b, -a, -gach, -guncha",
+    "-ma, -qan, -kan",
+    "-gan, -ydigan, -(a)r",
+    "-(i)sh, -(u)v, -moq"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'tgan zamon sifatdoshi qaysi qo'shimcha yordamida yasaladi?",
+   "variantlar": [
+    "-gan (-kan, -qan)",
+    "-(a)yotgan",
+    "-ydigan (-adigan)",
+    "-ma"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hozirgi zamon sifatdoshi qaysi qo'shimcha yordamida yasaladi?",
+   "variantlar": [
+    "-ydigan",
+    "-(a)r",
+    "-(a)yotgan",
+    "-gan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kelasi zamon sifatdoshi qaysi qo'shimchalar yordamida yasaladi?",
+   "variantlar": [
+    "-(a)yotgan",
+    "-gan (-kan, -qan)",
+    "-ydigan, -adigan, -(a)r",
+    "-(i)b"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'makchi fe'llar deb nimaga aytiladi?",
+   "variantlar": [
+    "Fe'lning asosiy turlaridan biri",
+    "Kesim vazifasida keluvchi fe'llar",
+    "Ravishdoshning -a//-y va -(i)b shakllariga qo'shilib o'z mustaqil ma'nolarini yo'qotgan fe'llar",
+    "Faqat sof fe'l shaklida qo'llaniladigan fe'llar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi variantlardan qaysi bitta harakat nomiga misol?",
+   "variantlar": [
+    "Yoza-yoza",
+    "Yozgan",
+    "Yozaveradi",
+    "Yozmoq"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sifatdosh yasovchi qo'shimchalarning to'g'ri ro'yxati qaysi?",
+   "variantlar": [
+    "-(a)yotgan, -(i)b, -a, -qan",
+    "-ydigan, -ma, -kan, -ar",
+    "-gan, -ydigan, -(a)yotgan, -(a)r",
+    "-gan, -(i)sh, -moq, -(i)b"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Yashash\" so'zi qaysi harakat nomga misol?",
+   "variantlar": [
+    "Yasha + -sh shakli",
+    "Yash + -moq shakli",
+    "Yashar + -ish shakli (yashash)",
+    "Yash + -gan shakli"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Ko'rgan kishi\" gapda \"ko'rgan\" qaysi shakldagi sifatdosh?",
+   "variantlar": [
+    "Bo'lishsiz shakli",
+    "Hozirgi zamon sifatdoshi",
+    "O'tgan zamon sifatdoshi",
+    "Kelasi zamon sifatdoshi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Kelajakda keladigan kun\" gapda \"keladigan\" qaysi zamon sifatdoshiga misol?",
+   "variantlar": [
+    "O'tgan zamon sifatdoshi",
+    "Bo'lishsiz sifatdoshi",
+    "Hozirgi zamon sifatdoshi",
+    "Kelasi zamon sifatdoshi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Yurayotgan mashina\" gapda \"yurayotgan\" qaysi sifatdosh?",
+   "variantlar": [
+    "O'tgan zamon sifatdoshi",
+    "Kelasi zamon sifatdoshi",
+    "Hozirgi zamon sifatdoshi",
+    "Harakat nomi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Unli bilan tugagan fe'l asosiga -gach qo'shimchasi qo'shilganda qanday talaffuz qilinadi?",
+   "variantlar": [
+    "Barcha javoblar to'g'ri",
+    "-qach",
+    "-kach",
+    "-gach"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Chiq\", \"bo'l\", \"tik\" fe'llarining o'tgan zamon sifatdosh shakllarini yozing.",
+   "variantlar": [
+    "Chiqqan, bogan, tikkan",
+    "Chiqgan, bo'lgan, tiqqan",
+    "Chiqmagan, bolmagan, tikmagan",
+    "Chiqqan, bo'lgan, tikkan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Yozib\" va \"yugurib\" ravishdoshlarida -b qo'shimchasi qanday ma'no bildiradi?",
+   "variantlar": [
+    "Harakatning paytini",
+    "Harakatning holatini",
+    "Harakatning maqsadini",
+    "Harakatning sababini"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Harakat nomi otga o'xshashligi nimada ifodalanadi?",
+   "variantlar": [
+    "Gapda kesim bo'lishi",
+    "Harakatni bildirishi",
+    "Egalik, kelishik va ko'plik qo'shimchalarini olishi",
+    "Faqat ega vazifasida kelishi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sifatdosh sifatga qanday jihatlari bilan o'xshaydi?",
+   "variantlar": [
+    "Kelishik qo'shimchasini olmasi",
+    "Kesim vazifasida kelishi",
+    "Faqat gapda aniqlovchi vazifasida kelishi",
+    "Shaxs va narsalarning belgisini bildirishi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Shoshilib keldi\" gapda ravishdosh ravishga qanday jihatlari bilan o'xshaydi?",
+   "variantlar": [
+    "Otga xoslangan shakli",
+    "Gapda faqat aniqlovchi vazifasida kelishi",
+    "Egalik qo'shimchalarini olmasi",
+    "Harakatning belgisini bildirishi va fe'lga bog'lanishi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Ishla\" asosiga -v qo'shimchasi qo'shilganda nima hosil bo'ladi va undagi unli o'zgarishi qanday?",
+   "variantlar": [
+    "Ishluvchi",
+    "Ishlov (a → o asosining unli o'zgaradi)",
+    "Ishlamadi",
+    "Ishlav (o'zgarish yo'q)"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Ko'ch\", \"o's\", \"tiq\", \"tik\" fe'llariga -gan qo'shimchasining talaffuz va yozilish qoidalarini tushuntiring.",
+   "variantlar": [
+    "Talaffuzi va yozilishi bir xil",
+    "Ko'chgan, o'sgan yoziladi; tiqqan, tikkan talaffuzi va yoziladi",
+    "Hamma -qan qo'shimchasi bilan",
+    "Hamma -gan qo'shimchasi bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Yurayotgan\", \"boradigan\", \"yurar\" sifatdoshlarining zamon farqini tushuntiring.",
+   "variantlar": [
+    "Hamma o'tgan zamon",
+    "Birinchisi hozirgi zamon, ikkinchisi kelasi zamon, uchinchisi doimo kelasi",
+    "Hamma kelasi zamon",
+    "Zamon farqi yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sifatdoshning bo'lishli va bo'lishsiz shakli farqi nimada? \"Aytgan\" va \"aytmagan\" misolida.",
+   "variantlar": [
+    "Birinchisi harakatni anglatsa, ikkinchisi harakatning yo'qligini anglatadi",
+    "Farq yo'q",
+    "Birinchisi kesim, ikkinchisi aniqlovchi",
+    "Hamma ikkalasi bir xil ma'noda"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ravishdosh -gach, -guncha, -gani qo'shimchalarining ma'no farqini ayting.",
+   "variantlar": [
+    "Hamma holatni ifodalaydi",
+    "Hamma maqsadni anglatadi",
+    "-gach: paytdan so'ng, -guncha: gacha vaqt, -gani: maqsad",
+    "Hamma payt ma'nosini bildiradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jarangsiz undosh bilan tugagan fe'l asosiga -gach qo'shimchasi qo'shilganda talaffuz va yozilish qoidasi qanday?",
+   "variantlar": [
+    "-gach talaffuz va yoziladi",
+    "-qach talaffuz va yoziladi",
+    "Har doim -kach yoziladi",
+    "-kach talaffuz qilinsa ham -gach yoziladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ko'makchi fe'llar harakatning bosqichlarini qanday bildiradi? \"Yozib boshlamoq\", \"yozib olmoq\", \"yozib chiqmoq\" ma'nolarini solishtiring.",
+   "variantlar": [
+    "Boshlamoq - harakatning boshlanishi, olmoq - imkoniyat, chiqmoq - to'la yakunlangan",
+    "Boshlamoq - tugallanish, olmoq - boshlash",
+    "Hamma ulardan payt ma'nosini bildiradi",
+    "Hamma o'xsha ma'noda"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ko'makchi fe'lda nisbat va bo'lishsizlik shakllari qayerda kelishi mumkin?",
+   "variantlar": [
+    "Ikkalasida ham emas",
+    "Faqat yetakchi fe'lda",
+    "Yetakchi fe'l tarkibida ham, ko'makchi fe'l tarkibida ham",
+    "Faqat ko'makchi fe'lda"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sifatdoshning fe'l shakli bo'lganligi uchun unga xos bo'lgan ma'nolar qaysilar?",
+   "variantlar": [
+    "Zamon, bo'lishli-bo'lishsizlik, nisbat ma'nolari",
+    "Faqat ega",
+    "Faqat kesim",
+    "Faqat aniqlovchi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ravishdosh yetakchi va ko'makchi fe'l tushunchasini tushuntiring. \"Yozib turdi\" misolida.",
+   "variantlar": [
+    "Ikkalasi ham yetakchi",
+    "Ikkalasi ham ko'makchi",
+    "Yozdi - ko'makchi, turdi - yetakchi",
+    "Yozdi - ravishdosh (yetakchi), turdi - ko'makchi fe'l"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

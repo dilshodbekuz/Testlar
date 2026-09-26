@@ -1,0 +1,337 @@
+{
+ "sinf": "6-sinf",
+ "kitob": "6-sinf 6-Sinf Informatika",
+ "mavzu": "WordART KOLLEKSIYASI",
+ "savollar": [
+  {
+   "savol": "WordART nima?",
+   "variantlar": [
+    "Kichik rasmga o'xshash matn",
+    "Rasm fayli",
+    "Manzarali rasm ko'rinishidagi matn bo'lib, maxsus effektlarni qo'llash mumkin",
+    "Oddiy matn turlari"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "WordART bilan quyidagilardan qaysi effektlarni qo'llash mumkin?",
+   "variantlar": [
+    "Faqat matnni bo'yash",
+    "Faqat rang o'zgartirishni",
+    "Faqat shrift o'zgartirishni",
+    "Matnni og'dirish, cho'zish, shakl ko'rinishida joylashtirish yoki turli usullarda bo'yash"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "WordART objektini qaysi tasma orqali joylashtiriladi?",
+   "variantlar": [
+    "Bosh sahifa tasma",
+    "O'zgartirishlar tasma",
+    "Joylashtirish (Вставка) tasma",
+    "Bemorasi tasma"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Joylashtirish tasmasida WordART tugmasi qaysi guruhda joylashgan?",
+   "variantlar": [
+    "Shakllar guruhida",
+    "Chizmalar guruhida",
+    "Matn (Текст) guruhida",
+    "Jadvallar guruhida"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matn kiritish uchun qanday joy ishlatiladi?",
+   "variantlar": [
+    "Jadval katagi",
+    "Hujjat sahifasining har qanday o'rniga",
+    "Bo'yalib turgan matn maydoni",
+    "Rasm oynasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "WordART objektiga formatlash uchun qaysi kontekst-menyu ishlatiladi?",
+   "variantlar": [
+    "Chizish vositalari-Format (Средства рисования-Формат) kontekst-menyu",
+    "Jadval kontekst-menyusi",
+    "Rasm kontekst-menyusi",
+    "Oddiy kontekst-menyu"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "WordART objektiga qaysi formatlash imkoniyatlari qo'llanadi?",
+   "variantlar": [
+    "Faqat shrift",
+    "Matn yo'nalishi, matn o'lchami, matn rangi, bo'yash usuli, matnning aks etish shakli",
+    "Faqat rang",
+    "Faqat o'lcham"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnning aks etish shaklini o'zgartirish uchun qaysi tugma ishlatiladi?",
+   "variantlar": [
+    "Matn yo'nalishi tugmasi",
+    "Animatsiya (Анимация) tugmasi",
+    "Shrift menyusi",
+    "Bo'yash usuli tugmasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'zgartirilsin (Преобразовать) tugmasi ro'yxatidan Halqa (Кольцо) shapini qaysi menyu orqali tanlash mumkin?",
+   "variantlar": [
+    "Joylashtirish tasmasidan",
+    "WordART uslublari (Стили WordArt) guruhining Animatsiya tugmasi ro'yxatidan",
+    "Matn yo'nalishi menyusidan",
+    "Bo'yash usuli menyusidan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bo'yash usuli (Заливка текста) nima?",
+   "variantlar": [
+    "Matnning o'lchamini o'zgartirish",
+    "Matnni erkin burish",
+    "Matnni turli usullarda rang yoki naqsh bilan to'ldirish",
+    "Matnni harakatlantirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "WordART objektini joylashtirish uchun to'g'ri ketma-ketlik qaysi?",
+   "variantlar": [
+    "Bosh sahifa tasmasidan → WordART tugmasi → Uslub tanlash",
+    "Joylashtirish tasmasidan → Matn guruhi → WordART tugmasi → Uslub tanlash → Matn kiritish",
+    "Rasm joylashtirish → WordART konversiyasi",
+    "Shrift → Rang → WordART joylashtirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bo'yalib turgan matn maydoni o'rniga yangi matn qanday kiritiladi?",
+   "variantlar": [
+    "Eski matn ustiga yozib olish",
+    "Belgili bo'lgan matn avtomatik o'chib, yangi matn kiritiladi",
+    "Rasm orqali almashtirish",
+    "Eski matnni o'chirib, yangi matnni terib olish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "WordART uslublari ro'yxatidan kerakli uslubni tanlab olish uchun qanday amallar zarur?",
+   "variantlar": [
+    "Rasm sifatida saqlash",
+    "Shrift o'zgartirishni birinchi qadamda qilish",
+    "Chizish vositalari-Format tasmasini ochib, WordART uslublari guruhidan manzur uslubni tanlash",
+    "Faqat tugmani bosish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Ona vatan O'zbekistonim! Yashna O'zbekiston!\" matni uchun WordART objektini yarash uchun qanday amallar kerak?",
+   "variantlar": [
+    "Rasm joylashtirish → Konversiya",
+    "Faqat uslub tanlash",
+    "Shrift → Rang o'zgartirishni",
+    "Joylashtirish → Uslub → Matn kiritish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matn yo'nalishini, matn o'lchamini va matn rangini o'zgartirish uchun qaysi kontekst-menyu ishlatiladi?",
+   "variantlar": [
+    "Jadval kontekst-menyusi",
+    "Rasm kontekst-menyusi",
+    "Oddiy kontekst-menyu",
+    "Chizish vositalari-Format kontekst-menyu tasmasidagi Matn imkoniyatlari"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "WordART va oddiy matn o'rtasidagi asosiy farq nima?",
+   "variantlar": [
+    "Oddiy matn ham effektlarni qo'lla oladi",
+    "Farq yo'q",
+    "WordART faqat ingliz tilida ishlaydi",
+    "WordART - maxsus effektlarni qo'llash imkoniyati bo'lgan manzarali matn"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matn o'lchamini oshirish uchun qaysi formatlash imkoniyatini ishlatish kerak?",
+   "variantlar": [
+    "Matn yo'nalishi",
+    "Matnning aks etish shakli",
+    "Matn o'lchami (Размер текста)",
+    "Bo'yash usuli"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "WordART objektining o'lchamlarini qanday o'zgartirish mumkin?",
+   "variantlar": [
+    "Rasm sifatida qayta tuzish",
+    "Faqat uslublarni o'zgartirishni",
+    "Siljitish va o'lchamlarini o'zgartirish orqali",
+    "Faqat formatlash orqali"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnni shakl ko'rinishida joylashtirish uchun qaysi tugmani ishlatish kerak?",
+   "variantlar": [
+    "O'zgartirilsin (Преобразовать) tugmasi",
+    "Matn yo'nalishi",
+    "Bo'yash usuli",
+    "Animatsiya"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Aks etish shaklini o'zgartirish uchun to'g'ri jarayon qaysi?",
+   "variantlar": [
+    "Faqat rang o'zgartirishni",
+    "Faqat uslub tanlash",
+    "Shrift o'zgartirishni",
+    "Chizish vositalari-Format → WordART uslublari → Animatsiya → O'zgartirilsin → Kerakli shakl"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "WordART objektiga toliq formatlash uchun qanday jarayonni bajarish kerak?",
+   "variantlar": [
+    "Rasm olish → Konversiya qilish",
+    "Formatlash orqali uslub tanlash",
+    "Joylashtirish → Uslub → Matn kiritish",
+    "Joylashtirish → Uslub → Matn kiritish → Chizish vositalari orqali formatlash imkoniyatlarini qo'llash"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnni og'dirish, cho'zish, shakl ko'rinishida joylashtirish va turli usullarda bo'yash uchun qaysi bilimlarni birlashtirish kerak?",
+   "variantlar": [
+    "Faqat jadval formatlashni",
+    "Faqat oddiy shrift bilimini",
+    "Faqat rasm effektlarini",
+    "WordART effektlari, uslublar, formatlash imkoniyatlarini birlashtirish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Maktabimiz faxrimiz!\" matnini Halqa shakliga o'zgartirish va o'lchamlarini oshirish uchun to'g'ri ketma-ketlik qaysi?",
+   "variantlar": [
+    "Rasm sifatida saqlashni",
+    "Faqat joylashtirish",
+    "Joylashtirish → Uslub → Matn → Chizish vositalari-Format → WordART uslublari → Animatsiya → O'zgartirilsin → Halqa → O'lchamlarini oshirish",
+    "Faqat rang o'zgartirishni"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "WordART objektiga bir necha formatlashni ketma-ket qo'llashda nima kuzatiladi?",
+   "variantlar": [
+    "Faqat oxirgi formatlash qo'llanadi",
+    "Barcha formatlashshlar birga qo'llanib, birlashtirilib aks etadi",
+    "Faqat rang qo'llanadi",
+    "Formatlashshlar bekorga bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matn yo'nalishini, o'lchamini, rangini va bo'yash usulini birgalikda o'zgartirishning to'g'ri jarayoni qaysi?",
+   "variantlar": [
+    "Bitta formatlashni tanlash",
+    "Faqat uslub o'zgartirish",
+    "Chizish vositalari-Format → har bir formatlash imkoniyatini alohida-alohida tanlash va qo'llash",
+    "Rasm effektlarini qo'llash"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "WordART objektini erkin burish imkoniyati qanday ishlatiladi?",
+   "variantlar": [
+    "Faqat uslub tanlash orqali",
+    "Siljitish va o'lchamlarini o'zgartirish orqali, hamda erkin burish imkoniyati mavjud",
+    "Faqat rasm orqali",
+    "Formatlash orqali"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Informatika fanidan referat muqovasi uchun WordART qanday foydali bo'lishi mumkin?",
+   "variantlar": [
+    "Faqat rasm joylashtirish uchun",
+    "Muqova sarlavhasini maxsus effektlar bilan qo'rindirish va diqqat jalb etish",
+    "Faqat jadval yasash uchun",
+    "Faqat matn kiritish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hujjat davomiga turli WordART objektlarini joylashtirish uchun qanday amallarni bajarish kerak?",
+   "variantlar": [
+    "Har bir objekti uchun alohida: Joylashtirish → Uslub → Matn kiritish; jarayonni takrorlash",
+    "Rasm konversiyasi",
+    "Faqat uslub tanlash",
+    "Bitta joylashtirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "WordART objektiga Halqa shaklini tanlab, o'lchamlarini oshirganida qanday o'zgarish bo'ladi?",
+   "variantlar": [
+    "Faqat rang o'zgaradi",
+    "Hech qanday o'zgarish bo'lmaydi",
+    "Matn Halqa shaklida joylanib, o'lchamlari kattalashtirilib aks etadi",
+    "Matn o'chib ketadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "WordART mavzusini toliq o'zlashtirishning muhim komponentlari qanday?",
+   "variantlar": [
+    "Ta'rif, joylashtirish, uslublar, formatlash imkoniyatlari, praktik qo'llash va bir necha formatlarni birgalikda qo'llash",
+    "Faqat shrift bilimi",
+    "Faqat ta'riflarni bilish",
+    "Faqat rasmlash"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

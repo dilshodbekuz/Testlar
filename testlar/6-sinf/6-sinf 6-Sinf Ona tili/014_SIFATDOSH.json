@@ -1,0 +1,337 @@
+{
+ "sinf": "6-sinf",
+ "kitob": "6-sinf 6-Sinf Ona tili",
+ "mavzu": "SIFATDOSH",
+ "savollar": [
+  {
+   "savol": "Sifatdosh deb nimaga aytiladi?",
+   "variantlar": [
+    "Harakat-holatni ifodalovchi so'z",
+    "Fe'lning sifatga xoslangan shakli",
+    "Narsaning miqdorini ifodalovchi so'z",
+    "Narsaning turg'un belgisini ifodalovchi so'z"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sifatdosh yasovchi qo'shimchalarni toping.",
+   "variantlar": [
+    "-man, -san, -di",
+    "-lari, -ning, -ga",
+    "-gan, -ydigan, -(a)yotgan, -(a)r",
+    "-chi, -qoq, -kak"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sifat va sifatdosh orasidagi asosiy farq qanday?",
+   "variantlar": [
+    "Sifat qisqaroq, sifatdosh uzunroq bo'ladi",
+    "Sifat ko'proq, sifatdosh kamroq qo'llaniladi",
+    "Sifat nomdan, sifatdosh so'zdan yasaladi",
+    "Sifat turg'un belgini, sifatdosh o'zgaruvchi belgini ifodalaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'tgan zamon sifatdoshi qanday qo'shimcha bilan yasaladi?",
+   "variantlar": [
+    "-gan (-kan, -qan)",
+    "-ydigan",
+    "-(a)yotgan",
+    "-(a)r"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Oqayotgan daryo\" iborida \"oqayotgan\" qaysi zamon sifatdoshi?",
+   "variantlar": [
+    "O'tgan zamon",
+    "Hozirgi zamon",
+    "Imloviy zamon",
+    "Kelasi zamon"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hozirgi zamon sifatdoshi qanday qo'shimcha yordamida yasaladi?",
+   "variantlar": [
+    "-gan",
+    "-(a)yotgan",
+    "-ydigan",
+    "-mas"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Olinadigan ko'ylak\" iborida \"olinadigan\" qaysi zamon sifatdoshi?",
+   "variantlar": [
+    "Kelasi zamon",
+    "Imloviy zamon",
+    "Hozirgi zamon",
+    "O'tgan zamon"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sifatdosh bo'lishsiz shakli qanday yasaladi?",
+   "variantlar": [
+    "-sin qo'shimchasi orqali",
+    "-ma qo'shimchasi orqali",
+    "-siz qo'shimchasi orqali",
+    "-lik qo'shimchasi orqali"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matni asosida \"eshitgan\", \"oqayotgan\", \"kuylaydigan\" so'zlari nima?",
+   "variantlar": [
+    "Sifatdoshlar",
+    "Ravislar",
+    "Fe'llar",
+    "Sifatlar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Taqmoq\" fe'lidan yasalgan o'tgan zamon sifatdoshi qanday bo'ladi?",
+   "variantlar": [
+    "Taqgan",
+    "Taqdan",
+    "Taqqan",
+    "Taqyan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Ko'rgan odam\" iborida \"ko'rgan\" so'zi qanday shakli?",
+   "variantlar": [
+    "Fe'lning kelasi zamon shakli",
+    "Fe'lning hozirgi zamon shakli",
+    "Fe'lning o'tgan zamon sifatdoshi",
+    "Sifatning o'zgargan shakli"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Kelayotgan mehmon\" iborida \"kelayotgan\" so'zining tarkibi qanday?",
+   "variantlar": [
+    "kelay + otgan",
+    "kel + gan",
+    "kela + yotgan",
+    "kel + ayotgan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Aytilgan so'z — otilgan o'q\" maqolida nechta sifatdosh bor?",
+   "variantlar": [
+    "2 ta",
+    "1 ta",
+    "4 ta",
+    "3 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"O'qimaydigan\" so'zi qaysi fe'ldan yasalgan?",
+   "variantlar": [
+    "O'q",
+    "O'qmoq",
+    "O'qigan",
+    "O'qiy"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Boradigan joy\" iborida \"boradigan\" nima?",
+   "variantlar": [
+    "Fe'l",
+    "Hozirgi zamon sifatdoshi",
+    "O'tgan zamon sifatdoshi",
+    "Kelasi zamon sifatdoshi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Yoqimli yoz shabadasi endigina qad ko'tarib kelayotgan yosh nihollarni\" gapida nechta sifatdosh bor?",
+   "variantlar": [
+    "4 ta",
+    "3 ta",
+    "1 ta",
+    "2 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Chekmoq\" fe'lidan o'tgan zamon sifatdoshi qanday bo'ladi?",
+   "variantlar": [
+    "Chekyan",
+    "Chekdan",
+    "Chekkan",
+    "Chekgan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Kuylayotgan bola\" iborida \"kuylayotgan\" nechi qismdan tashkil topgan?",
+   "variantlar": [
+    "2 qismdan",
+    "1 qismdan",
+    "3 qismdan",
+    "4 qismdan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Eshitgan\", \"o'sgan\", \"taqqan\" so'zlari qanday undosh bilan tugagan fe'llardan yasalgan?",
+   "variantlar": [
+    "Jaranglilar",
+    "Jarangsizlar",
+    "To'ls undoshlar",
+    "Oraliq undoshlar"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Jimbir oqayotgan daryo\" gapida sifatdosh qaysi so'zga tegishli?",
+   "variantlar": [
+    "Daryo",
+    "Oqayotgan",
+    "Gapning turi",
+    "Jimbir"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Katta daryo\" va \"oqar daryo\" iboralarini solishtirsak, qanday xulosa chiqaramiz?",
+   "variantlar": [
+    "Birinchisi sifatdosh, ikkinchisi sifat",
+    "Ikkalasi ham sifat",
+    "Birinchisi sifat, ikkinchisi sifatdosh",
+    "Ikkalasi ham sifatdosh"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'tgan zamon sifatdoshi \"o'sgan\" nima qoida asosida yoziladi?",
+   "variantlar": [
+    "Jarangsiz undosh bilan tugagan asosga -gan yoziladi",
+    "Jarangsiz q undoshi bilan tugagan asosga -qan yoziladi",
+    "Jarangli g' undoshi bilan tugagan asosga -gan yoziladi",
+    "Unli bilan tugagan asosga -gan qo'shiladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Tug'moq\" fe'lidan yasalgan o'tgan zamon sifatdoshi qanday bo'ladi?",
+   "variantlar": [
+    "Tug'gan - jarangli g' undoshi asosan",
+    "Tug'qan - jarangli g' undoshi asosan",
+    "Tuggan - jarangsiz undosh asosan",
+    "Tug'kan - jarangsiz k undoshi asosan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Aytmagan\", \"boradigan\", \"oqmayotgan\" so'zlari zamon va bo'lishli-bo'lishsizlikka ko'ra nechta xil guruh tashkil qiladi?",
+   "variantlar": [
+    "3 ta",
+    "1 ta",
+    "2 ta",
+    "4 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Bilmagan\" so'zini yasalishi va zamonga ko'ra qanday tasniflanadi?",
+   "variantlar": [
+    "Kelasi + bo'lishsiz",
+    "O'tgan + bo'lishsiz",
+    "Hozirgi + bo'lishli",
+    "O'tgan + bo'lishli"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Eshitgan\", \"boqayotgan\", \"duymaydigan\" so'zlarida bo'lishli-bo'lishsiz shakllar nechta bor?",
+   "variantlar": [
+    "3 ta bo'lishli",
+    "2 ta bo'lishli, 1 ta bo'lishsiz",
+    "1 ta bo'lishli, 2 ta bo'lishsiz",
+    "1 ta bo'lishli"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Ko'chgan\" sifatdoshi qaysi qoida asosida yoziladi?",
+   "variantlar": [
+    "Jarangsiz undosh bilan tugagan asosga -gan yoziladi",
+    "Jarangsiz q undoshi bilan tugagan asosga -qan yoziladi",
+    "Unli bilan tugagan asosga -gan qo'shiladi",
+    "Jarangli g' undoshi bilan tugagan asosga -gan yoziladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Endigina ko'tarilib kelayotgan oy sarg'ish nurlar sochib tun qo'ynida mudrayotgan pastqam uylarning tomlarini yoritib turardi\" gapida nechta sifatdosh bor?",
+   "variantlar": [
+    "3 ta",
+    "1 ta",
+    "4 ta",
+    "2 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matindagi \"tug'adigan\", \"bajariladigan\", \"olinadigan\", \"pishiriladigan\" so'zlari qaysi qo'shimchalar orqali yasalgan?",
+   "variantlar": [
+    "-adigan, -iladigan, -inadigan",
+    "-r, -ar, -mas",
+    "-ma, -sin, -ydi",
+    "-gan, -ydigan, -(a)yotgan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Aytgan\", \"ko'raydigan\", \"oqmagan\" sifatdoshlarini nisbat va zamonga ko'ra farqlanishi qanday?",
+   "variantlar": [
+    "Birinchisi o'tgan, ikkinchisi kelasi, uchinchisi bo'lishsiz",
+    "Barcha kelasi zamon",
+    "Barcha o'tgan zamon",
+    "Nisbati har xil, zamoni bir xil"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

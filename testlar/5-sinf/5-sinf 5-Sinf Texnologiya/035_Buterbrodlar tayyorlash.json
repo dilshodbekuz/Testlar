@@ -1,0 +1,326 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Texnologiya",
+ "mavzu": "Buterbrodlar tayyorlash",
+ "savollar": [
+  {
+   "savol": "Buterbrodlarning tayyorlanishi jihatidan nechta turi bor?",
+   "variantlar": [
+    "5 ta",
+    "2 ta",
+    "4 ta",
+    "3 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ochiq buterbrodlarni tayyorlashda non necha sm qalinlikda kesiladi?",
+   "variantlar": [
+    "2 sm",
+    "1 sm",
+    "0,5 sm",
+    "1,5 sm"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yopiq buterbrodlarning noni ochiq buterbrodlarga qaraganda qanday bo'ladi?",
+   "variantlar": [
+    "qalinroq bo'ladi",
+    "yupqaroq bo'ladi",
+    "kalinga bo'ladi",
+    "tez buziladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kanape tayyorlashda non qanday shakllarida kesiladi?",
+   "variantlar": [
+    "faqat doira",
+    "faqat romb",
+    "kub, romb, doira",
+    "faqat kub"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ochiq buterbrodda mahsulot necha tagacha bo'laklang bo'lishi mumkin?",
+   "variantlar": [
+    "2-4 ta",
+    "3-5 ta",
+    "1-2 ta",
+    "1-3 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kanape nonni qanday taraflarida qizartirilib qovuriladi?",
+   "variantlar": [
+    "bitta tarafida",
+    "ikki tarafida",
+    "to'rtta tarafida",
+    "uchta tarafida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tvorogli quymoq tayyorlashda tvorog necha gramm kerak?",
+   "variantlar": [
+    "350 g",
+    "300 g",
+    "200 g",
+    "250 g"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quymoq uchun xamir nimalarga qo'shib tayyorlanadi?",
+   "variantlar": [
+    "faqat un va sut",
+    "faqat tuxum va shakar",
+    "faqat sut va yog'",
+    "un, sut, tuxum, shakar, tuz, yog'"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xamir tayyorlashda tuxum qanday suvda yuviladi?",
+   "variantlar": [
+    "issiq suvda",
+    "iliq suvda",
+    "sovuq sutda",
+    "sovuq suvda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Murabboli quymoq tayyorlashda murabbo necha gramm kerak?",
+   "variantlar": [
+    "300 g",
+    "150 g",
+    "200 g",
+    "250 g"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ochiq buterbrodda non kalit sifatida qanday ishlatiladi?",
+   "variantlar": [
+    "buterbrodning ko'rinishi uchun",
+    "mahsulotlarni tayyorlash uchun",
+    "mahsulotlarni yopib turadigan qilib qo'yiladi",
+    "non oqroq qilish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yopiq buterbrodda mahsulot qayerga qo'yiladi?",
+   "variantlar": [
+    "bitta non bo'lagi ustiga",
+    "ikki non bo'lagi o'rtasiga",
+    "qasilgan non ustiga",
+    "talerka ustiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kanape non ovozi qizartirish uchun qanday vosita ishlatiladi?",
+   "variantlar": [
+    "mikrovolnovka",
+    "tova",
+    "elektr pechka",
+    "gaz plitasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tvorogli qiyma tayyorlashda tvorogga nimalarga qo'shiladi?",
+   "variantlar": [
+    "faqat shakar",
+    "faqat smetana",
+    "shakar va sariyog'",
+    "shakar va smetana"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quymoq xamiri konvert shaklida o'ralganda ichiga nima qo'yiladi?",
+   "variantlar": [
+    "zardevor",
+    "murabbo",
+    "tvorogli qiyma",
+    "smetana"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tovani qizdirishdan oldin nima surtiladi?",
+   "variantlar": [
+    "smetana",
+    "cho'chqa yog'i",
+    "o'simlik moyi",
+    "sariyog'"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Pishgan quymoqlar laganga solishdan avval qayerdan olinadi?",
+   "variantlar": [
+    "tovadan",
+    "qozondan",
+    "plastik idishdan",
+    "tashadan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kanape tayyorlashdan so'ng usti nima bilan bezatiladi?",
+   "variantlar": [
+    "sabzavotlar va ko'katlar",
+    "sariyog' va smetana",
+    "tuz va qora mirch",
+    "shakar va sotish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Murabboli quymoq tayyorlashda xamir qaerda pishirib olinadi?",
+   "variantlar": [
+    "dushtukovda",
+    "pechkada",
+    "tovada",
+    "qozonida"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yopiq buterbrodni tayyorlashda non sirtiga nima surtiladi?",
+   "variantlar": [
+    "smetana",
+    "sariyog'",
+    "cho'chqa yog'i",
+    "o'simlik moyi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ochiq buterbrodni tayyorlash uchun non qalinligi, og'irligi va tayyorlanishi qanday bo'lishi kerak?",
+   "variantlar": [
+    "1 sm, 40 g, tekis qilib kesiladi",
+    "2 sm, 60 g, tekis qilib kesiladi",
+    "1,5 sm, 30 g, tekis qilib kesiladi",
+    "0,5 sm, 50 g, tekis qilib kesiladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kanape tayyorlashning to'liq jarayonida oxirgi qadam nima?",
+   "variantlar": [
+    "ikki tarafini qizartirish",
+    "sirtiga sariyog' surtish",
+    "usti sabzavotlar va ko'katlar bilan bezatish",
+    "non shaklini kesish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tvorogli quymoq tayyorlashda suyuq xamir tayyorlashning to'liq ketma-ketligi qaysi?",
+   "variantlar": [
+    "un, shakar, tuzni aralash, sut qo'sh, un qo'sh, qolgan sut va yog' qo'sh",
+    "shakar, un, tuzni aralash, qolgan sut qo'sh, tuxum qo'sh, yog' qo'sh",
+    "tuxum, un, shakarni aralash, sovuq sut qo'sh, qolgan sut qo'sh, yog' qo'sh",
+    "tuxum, shakar, tuzni aralash, sut qo'sh, un qo'sh, qolgan sut va yog' qo'sh"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tvorogli va murabboli quymoq tayyorlashda xamir tayyorlanishining farqi nima?",
+   "variantlar": [
+    "tvorogli quymoqda sut ko'proq",
+    "murabboli quymoqda tuxum yo'q",
+    "murabboli quymoqda un ko'proq",
+    "xamir tayyorlashi bir xil, faqat to'ldirma va tortilishi farq qiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quymoq tayyorlashda to'rtinchi bosqichda nima qilinadi?",
+   "variantlar": [
+    "pishgan quymoqlar laganga taxlanadi",
+    "tvorogli qiyma tayyorlanadi",
+    "suyuq xamir tayyorlanadi",
+    "xamir tovada ikki tomoni pishirib olinadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Buterbrod turlari orasidagi asosiy farq qanday omillardan iborat?",
+   "variantlar": [
+    "non qalinligi, yopilishi, tayyorlanishi usuli",
+    "faqat mahsulotning turi",
+    "faqat sabzavotlarning soni",
+    "faqat sariyog'ning miqdori"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kanape non shakllarini kesishda maxsus e'tibor berish kerakligi nima?",
+   "variantlar": [
+    "faqat o'lcham katta bo'lishi",
+    "maxsus vosita bilan kichik shakllarida kesiladi",
+    "faqat qirrig'i to'g'ri bo'lishi",
+    "faqat rusumi yaxshi chiqqan bo'lishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Murabboli quymoq tayyorlashda xamirlarni to'rttaga buklaganidan keyin nima qilunadi?",
+   "variantlar": [
+    "darhol dasturxonga tortiladi",
+    "likopchalariga taxlanadi va sovuq holda tortiladi",
+    "qizigan tovada qizartirilib qovuriladi",
+    "yana murabbo surtiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tvorogli quymoq dasturxonga tortilishda oxirgi qadam nima?",
+   "variantlar": [
+    "qizigan tovada qovuriladi",
+    "likopchaga solinib tortiladi",
+    "likopchaga solinib, ustiga sariyog' yoki smetana quyilib tortiladi",
+    "sabzavotlar bilan bezatiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

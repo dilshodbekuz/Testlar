@@ -1,0 +1,337 @@
+{
+ "sinf": "6-sinf",
+ "kitob": "6-sinf 6-Sinf Informatika (1)",
+ "mavzu": "Jadvallar",
+ "savollar": [
+  {
+   "savol": "Jadvalning asosiy elementi nima?",
+   "variantlar": [
+    "ustun",
+    "satr",
+    "chega",
+    "katak"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ixtiyoriy jadval qanday elementlardan tashkil topan?",
+   "variantlar": [
+    "kataklardan va chegalardan",
+    "faqat satrlardan",
+    "faqat ustunlardan",
+    "satrlar va ustunlardan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Katakka qanday ma'lumotlar joylashtirish mumkin?",
+   "variantlar": [
+    "matn va rasm",
+    "faqat jadval",
+    "faqat matn",
+    "faqat rasm"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Wordda jadval joylashtirish uchun qaysi tasma ishlatiladi?",
+   "variantlar": [
+    "Joylashtirish",
+    "Maket",
+    "Ko'rinish",
+    "Bosh sahifa"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jadval katagini o'z navbatida qanday deyish mumkin?",
+   "variantlar": [
+    "satr",
+    "blokka",
+    "mikrohujjat",
+    "o'lchami"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "3x4 jadvalda nechta katak bo'ladi?",
+   "variantlar": [
+    "12",
+    "4",
+    "7",
+    "3"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Birinchi satrdagi katakchalarida odatda nima yoziladi?",
+   "variantlar": [
+    "sarlavhalar",
+    "ma'lumotlar",
+    "rasm",
+    "tartib raqamlari"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Birinchi ustunga odatda nima yoziladi?",
+   "variantlar": [
+    "rasm",
+    "sarlavha",
+    "tartib raqamlari",
+    "matn"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jadval ustunlarining kengligi qanday o'zgartiriladi?",
+   "variantlar": [
+    "Tab klavishi yordamida",
+    "Ctrl klavishi yordamida",
+    "sichqoncha ko'rsatkichi ustunlarning chegara chizig'iga olib kelganida",
+    "Enter klavishi yordamida"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jadvalda matn qanday yo'nalishlarda yozilishi mumkin?",
+   "variantlar": [
+    "faqat yuqoridan pastga",
+    "faqat chapdan o'ngga",
+    "diagonalda",
+    "gorizontal yoki vertikal"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "4x5 jadvalda nechta katak bo'ladi?",
+   "variantlar": [
+    "20",
+    "9",
+    "15",
+    "25"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jadvalga satr qo'shish uchun qaysi tasma va guruh ishlatiladi?",
+   "variantlar": [
+    "Konstruktor > Jadval uslublari",
+    "Joylashtirish > Ozbargular",
+    "Maket > Satrlar va ustunlar",
+    "Bosh sahifa > Shriftlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jadval kataklarini birlashtirish uchun qaysi guruh ishlatiladi?",
+   "variantlar": [
+    "Satrlar va ustunlar",
+    "Tekislash",
+    "Jadval uslublari",
+    "Birlashtirish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jadvaldan satr o'chirish uchun qaysi amallar ketma-ket bajariladi?",
+   "variantlar": [
+    "Satrni tanlash va Ctrl+V",
+    "Satrni tanlash va Ctrl+C",
+    "Satrni tanlash va O'chirilsin tugmasini bosish",
+    "Satrni bosib, sichqonchani sulsib o'chirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kataklarni birlashtirish uchun avval ular qanday olinishi kerak?",
+   "variantlar": [
+    "ustunlarni tanlash kerak",
+    "blokka olinishi kerak",
+    "satrlarga ayrish kerak",
+    "alohida-alohida"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kataklarni bo'lish uchun qaysi tugma tanlanadi?",
+   "variantlar": [
+    "Satrlar qo'shilsin",
+    "Kataklar birlashtirilsin",
+    "Kataklar bo'linsin",
+    "Ustunlar o'chirilsin"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matn yo'nalishini o'zgartirish uchun qaysi guruh ishlatiladi?",
+   "variantlar": [
+    "Ma'lumotlar",
+    "Tekislash",
+    "Birlashtirish",
+    "Satrlar va ustunlar"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2x3 jadval va 3x4 jadvalda jami nechta katak bo'ladi?",
+   "variantlar": [
+    "24",
+    "18",
+    "12",
+    "6"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jadvalga yangi ustun chapga qo'shish uchun qaysi tugma tanlanadi?",
+   "variantlar": [
+    "Pastga joylashtirilsin",
+    "Yuqoriga joylashtirilsin",
+    "O'ngga joylashtirilsin",
+    "Chapga joylashtirilsin"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jadval bilan ishlash kontekst-menyusi qaysi 2 ta tasmasi bilan bog'langan?",
+   "variantlar": [
+    "Konstruktor va Maket",
+    "Bosh sahifa va Maket",
+    "Maket va Ko'rinish",
+    "Bosh sahifa va Joylashtirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "5x6 jadval hosil qilindi, keyin yuqoriga 2 ta satr qo'shildi. Endi nechta katak bo'ladi?",
+   "variantlar": [
+    "40",
+    "48",
+    "38",
+    "30"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadvalda 8 ta satr va 3 ta ustun bo'lsa, keyin 2 ta satrni olib tashlay, nechta katak qoladi?",
+   "variantlar": [
+    "18",
+    "20",
+    "24",
+    "22"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "6x4 jadvalning 2x3 shaklida kataklar birlashtiray, nechta katak qoladi?",
+   "variantlar": [
+    "19",
+    "24",
+    "18",
+    "20"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "4x3 jadvalga 3 ta satr qo'shildi. Nechta katak bo'ladi?",
+   "variantlar": [
+    "24",
+    "20",
+    "12",
+    "18"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadvalga sarlavha qo'shish uchun birinchi satriga yangi satr qo'shiladi. Agar asosiy jadval 5x4 bo'lsa, yangi jadval nechta katakka ega bo'ladi?",
+   "variantlar": [
+    "25",
+    "24",
+    "20",
+    "30"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Birlashtirilishi mumkin bo'lgan kataklar to'g'ri to'rtburchak shaklida qanday olinishi kerak?",
+   "variantlar": [
+    "sichqoncha yordamida blokka olinishi kerak",
+    "Tab klavishi yordamida",
+    "avtomatik ravishda",
+    "alohida-alohida"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3 ta satrli va 4 ta ustunli jadvalga 2 ta ustun qo'shildi va 1 ta satr o'chirildi. Nechta katak qoladi?",
+   "variantlar": [
+    "20",
+    "24",
+    "18",
+    "12"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadval kataklarini turli rangda bo'yash uchun qaysi tasma ishlatiladi?",
+   "variantlar": [
+    "Joylashtirish tasma",
+    "Maket tasma",
+    "Konstruktor tasma",
+    "Bosh sahifa tasma"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2x5 jadvalga 3 ta satr qo'shildi, keyin 1 ta ustun o'chirildi. Nechta katak qoladi?",
+   "variantlar": [
+    "20",
+    "25",
+    "10",
+    "30"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadvalning satrlar va ustunlarini dinamik o'zgartirishda Maket tasmasining qaysi guruhidan foydalaniladi?",
+   "variantlar": [
+    "Tekislash",
+    "Ma'lumotlar",
+    "Satrlar va ustunlar",
+    "Jadval uslublari"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

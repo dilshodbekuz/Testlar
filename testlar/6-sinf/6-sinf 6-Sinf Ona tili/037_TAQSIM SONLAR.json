@@ -1,0 +1,337 @@
+{
+ "sinf": "6-sinf",
+ "kitob": "6-sinf 6-Sinf Ona tili",
+ "mavzu": "TAQSIM SONLAR",
+ "savollar": [
+  {
+   "savol": "Taqsim son qanday soz?",
+   "variantlar": [
+    "Shaxs yoki predmetlarning sonini ko'rsatuvchi soz",
+    "Sonning toq yoki juft ekanligini ko'rsatuvchi soz",
+    "Faqat sonlarni sanash uchun ishlatiladigan soz",
+    "Bir nechta bir xil narsa yoki shaxslarni birga guruhlashgan holda ko'rsatuvchi son"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi soz taqsim son?",
+   "variantlar": [
+    "ikkoviga",
+    "ikkinchi",
+    "ikki",
+    "ikkala"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Taqsim sonlar qanday qo'shimchalar bilan hosil qilinadi?",
+   "variantlar": [
+    "-la, -ni qo'shimchalari bilan",
+    "-tadan, -ov, -tasi va h.z.b qo'shimchalari bilan",
+    "-chi, -man qo'shimchalari bilan",
+    "-ing, -imiz qo'shimchalari bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Ikkitadan bo'lib mindik\" gapida taqsim son qaysi so'zdir?",
+   "variantlar": [
+    "ikkitadan",
+    "bo'lib",
+    "gapda taqsim son yo'q",
+    "mindik"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matndagi qaysi misol taqsim sonni o'z ichiga olgan?",
+   "variantlar": [
+    "\"har yuz ona qo'y\"",
+    "Abdulla Qahhor",
+    "\"to'rttadan odam sig'adigan yigit\"",
+    "\"Laylak\" ism"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Bittadan\" so'zi qanday taqsim sondir?",
+   "variantlar": [
+    "\"bir\" sonidan hosil qilingan taqsim son",
+    "Taqsim son emas, oddiy son",
+    "\"bitt\" so'zidan hosil qilingan",
+    "\"bita\" so'zidan hosil qilingan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Uñhtadan bola oñhar ekan\" gapida necha nafar bola birgalikda keladi?",
+   "variantlar": [
+    "ikki",
+    "bitta",
+    "besh",
+    "o'n"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Taqsim sonlar asosan gapda qanday vazifa bajaradi?",
+   "variantlar": [
+    "ot",
+    "sifat",
+    "kesimta",
+    "to'ldiruvchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Ikkitadan non\" misol qaysi matndagi gapdan olingan?",
+   "variantlar": [
+    "\"Odamlar bitta-ikkitadan bo'lib maydonga to'ðlana boshlashdi\"",
+    "\"Ular ikkitadan bo'lib saf tortishdi\"",
+    "\"Eshak ningustiga ikkitadan bo'lib mindik\"",
+    "\"Har birining oldiga bir siqimdan mayiz, ikkitadan non, bir ñhoynakdan ñhoy qo'yib ñhiqdim\""
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi qaysi so'z taqsim son emas?",
+   "variantlar": [
+    "ikkitadan",
+    "yigirma bittadan",
+    "to'rttadan",
+    "to'rtlik"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Yelka to'rttadan odam sig'anar\" gapida nechta odam bir yelkaga sig'adi?",
+   "variantlar": [
+    "ikkitada",
+    "oltitada",
+    "to'rttada",
+    "bittada"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Ular ikkitadan bo'lib saf tortishdi\" gapidagi taqsim sonni aniqlang?",
+   "variantlar": [
+    "tortishdi",
+    "bo'lib",
+    "saf",
+    "ikkitadan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"10 tadan\" sonini taqsim son ko'rinishida yozing?",
+   "variantlar": [
+    "o'nnasi",
+    "o'nning",
+    "o'ntadan",
+    "o'nni"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"25 tadan\" sonini qanday o'qish kerak?",
+   "variantlar": [
+    "yigirma besh",
+    "yigirma beshtasi",
+    "yigirma beshtadan",
+    "yigirma beshning"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Bitta-ikkitadan bo'lib maydonga to'ðlana boshlashdi\" gapida nechta kishi bir vaqtda maydonga boradi?",
+   "variantlar": [
+    "uchta",
+    "bitta yoki ikkita",
+    "faqat ikkita",
+    "faqat bitta"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Qurolsiz, navkarsiz mulla Fazliddin Ahmad Òanbalday yuz ikki yuztadan qurolli yigitlari bor\" gapidagi taqsim sonni ko'rsating?",
+   "variantlar": [
+    "qurolsiz",
+    "mulla",
+    "qurolli",
+    "yuz ikki yuztadan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"7 tadan\" sonini harflar bilan yozing va taqsim son ko'rinishiga keltiring?",
+   "variantlar": [
+    "sattadan",
+    "sattasi",
+    "sattaning",
+    "sattaon"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Har birining oldiga bir siqimdan mayiz\" gapida mayiz qanday miqdorda beriladi?",
+   "variantlar": [
+    "ko'plab",
+    "ikkitadan",
+    "bir siqimda",
+    "aniqlanmagan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Ikkoviga bittadan ezilgan shaftoli beraman\" gapidagi taqsim sonni topinga?",
+   "variantlar": [
+    "shaftoli",
+    "bittadan",
+    "ezilgan",
+    "ikkoviga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"2 tasi\" sonini qanday taqsim son deb o'qish kerak?",
+   "variantlar": [
+    "ikkitasi",
+    "ikkining",
+    "ikkitan",
+    "ikkisining"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"U bu yilgi bahorda har yuz ona qo'ydan bir yuz yigirma bittadan qorako'l qo'zisi oldi\" gapidagi taqsim sonning mavjudligi va vazifasini aniqlang?",
+   "variantlar": [
+    "Taqsim son faqat sifat bo'lib ishlati",
+    "Taqsim son kesimta vazifasini bajaradi",
+    "\"yuz yigirma bittadan\" taqsim son bo'lib, to'ldiruvchi vazifasini bajaradi",
+    "Gapda taqsim son yo'q"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Azim har yelkasiga to'rttadan odam sig'adigan yigit bo'libdi\" gapidagi taqsim sonning hosil qilinishini tushuntiring?",
+   "variantlar": [
+    "\"to'rt\" soniga \"-dan\" qo'shimchasi qo'shildi",
+    "\"to'rtlik\" so'zidagi \"-lik\" o'chirildi",
+    "\"to'rttaning\" so'zidagi \"-ning\" qo'shimchasi o'chirildi",
+    "\"to'rtta\" so'zining asl shakli"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi barcha taqsim sonlarni sanab, ularni to'plam ko'rinishida ko'rsating. Quyidagilardan qaysi javob to'g'ri?",
+   "variantlar": [
+    "to'rttadan, uñhtadan, yigirma bittadan, ikkitadan, bittadan, ikkitadan, bitta-ikkitadan",
+    "to'rttadan, uñhtadan, yigirma bittadan, ikkitadan, ikkoviga, bittadan, ikkitadan, bitta-ikkitadan",
+    "Taqsim sonlar faqat 3 ta: bittadan, ikkitadan, to'rttadan",
+    "Faqat bittadan, ikkitadan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Pakana buvi tuxum olib hammamizga ikkitadan ulashib ñhiqdi\" gapida taqsim son qanday vazifada ishlati va u nima ko'rsatadi?",
+   "variantlar": [
+    "Pakananing ism-sharifi",
+    "Har bir shaxsga nechta tuxum berilganini ko'rsatadi",
+    "Ishning bajarilish usuli",
+    "Tuxumning umumiy sonini ko'rsatadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita gapni qo'yib, ularning birida \"ikki\" oddiy son, ikkinchisida \"ikkitadan\" taqsim sonni ishlating. Farqi nima?",
+   "variantlar": [
+    "Farq yo'q, shu sababli har qanday sharoitda ishlatiladi",
+    "\"Menda ikki kitob bor\" - jumah sonining ko'rsatilishi; \"Ikkitadan kitob oldim\" - guruhlashgan holda ko'rsatilishi",
+    "Ikki gapda ham oddiy son",
+    "Ikki gapda ham taqsim son"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Laylak har yili uñhtadan bola oñhar ekan\" gapidagi taqsim sonning hosil qilinish yo'lini va ma'noni aniqlang?",
+   "variantlar": [
+    "Har yil bitta bola tug'iladi",
+    "Besh qadar bola istaladi",
+    "Taqsim son \"besh\" sonida qurulgan; guruhlashgan ko'rinishda tug'iladi",
+    "Oddiy son ko'rinishida"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Men ikkoviga bittadan ezilgan shaftoli beraman\" gapida ikkita sonning o'zaro nisbati qanday?",
+   "variantlar": [
+    "Bitta shaftoli ikkita kishiga beriladi",
+    "Boshqa ma'no",
+    "Nisbat noaniq",
+    "Ikkita shaftoli bitta kishiga beriladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi \"bitta-ikkitadan bo'lib maydonga to'ðlana boshlashdi\" gapidagi taqsim sonlar kombinatsiyasi nima tushuntiradi?",
+   "variantlar": [
+    "Faqat bitta odam bor edi",
+    "Odam yoki bitta yoki ikkita bo'lib guruhlashgan",
+    "Faqat ikkita odam bor edi",
+    "To'rtita odam bor edi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Har birining oldiga bir siqimdan mayiz, ikkitadan non, bir ñhoynakdan ñhoy qo'yib ñhiqdim\" gapida nechta taqsim son ishtirok etadi?",
+   "variantlar": [
+    "ikkita",
+    "uchta",
+    "to'rtita",
+    "bitta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Taqsim sonlarning hosil qilinish va qo'llanilish xususiyatlarini umumiy qarab, qaysi ta'rif eng to'g'ri?",
+   "variantlar": [
+    "Taqsim sonlar sonlardan \"-tadan\", \"-ov\", \"-tasi\" va shu kabi qo'shimchalar qo'shib hosil qilinadi, guruhlashgan ko'rinishda narsalarni yoki shaxslarni ko'rsatadi",
+    "Taqsim sonlar faqat sonlardan hosil qilinadi, gapda kesimta bo'ladi",
+    "Taqsim sonlar faqat bitta vazifani bajaradi",
+    "Taqsim sonlar oddiy sonlardan farqi yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

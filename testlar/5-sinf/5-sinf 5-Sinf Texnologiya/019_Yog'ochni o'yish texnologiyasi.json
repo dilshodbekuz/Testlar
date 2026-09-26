@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Texnologiya",
+ "mavzu": "Yog'ochni o'yish texnologiyasi",
+ "savollar": [
+  {
+   "savol": "Egovlar qaysi material bilan yasaladi?",
+   "variantlar": [
+    "Qumli tosh",
+    "Plastik",
+    "Asbobsozlik po'lati",
+    "Beton"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jilvir qanday materiallardan iborat?",
+   "variantlar": [
+    "Faqat shisha kuni",
+    "Faqat qalin qog'oz",
+    "Ip mato yoki qalin qog'oz va minerallar",
+    "Faqat ip mato"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "STD-120 tipidagi stanogining asosiy uzellari nechta?",
+   "variantlar": [
+    "9 ta",
+    "3 ta",
+    "5 ta",
+    "7 ta"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Egovlash deb nimaga aytiladi?",
+   "variantlar": [
+    "Yog'ochni suv bilan yuvish",
+    "Yog'ochni xomaki ishlov berish",
+    "Yog'ochni qayno'q suvga sotish",
+    "Yog'ochni bo'yash"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Oldingi babka stanokda nima qiladi?",
+   "variantlar": [
+    "Yog'ochni surab beradi",
+    "Yog'ochni kesiladi",
+    "Yog'ochni tutib turadi va aylanma harakatga keltiradi",
+    "Yog'ochni ishqalab silliq qiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tirgak stanokda qaysi ish uchun foydalaniladi?",
+   "variantlar": [
+    "Yog'ochni bo'yash",
+    "Yog'ochni jilvir bilan silliqtirish",
+    "Yog'ochni suv bilan yuvish",
+    "Yo'nish, qirqish vaqtida iskanalarni tutib turish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jilvir donalarining yirikligiga qarab nechta asosiy turga bo'linadi?",
+   "variantlar": [
+    "4 ta",
+    "2 ta",
+    "6 ta",
+    "3 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Oldingi babkaning shpindeliga harakat qayerdan uzatiladi?",
+   "variantlar": [
+    "Zanj orqali",
+    "Tasma orqali elektr dvigateldan",
+    "Piyola orqali",
+    "Qo'l bilan surish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yog'ochni o'yish texnologiyasinin asosiy operatsiyalar nechta?",
+   "variantlar": [
+    "4 ta",
+    "5 ta",
+    "3 ta",
+    "6 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Keyingi babka stanokda qanday vazifani bajaradi?",
+   "variantlar": [
+    "Yog'ochni kesish",
+    "Yog'ochni qaynatish",
+    "Yog'ochni bo'yash",
+    "Uzun o'lchamli yog'ochlarni markazda tutib turish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zagatovkaga xomaki ishlov berishda qanday tishli egovlardan foydalaniladi?",
+   "variantlar": [
+    "Tishlari uzun",
+    "Mayda tishli",
+    "5-12 tishli dag'al egovlar",
+    "O'rtacha tishli"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sirtlarni jilvir bilan ishlov berishdan oldin nima qilish kerak?",
+   "variantlar": [
+    "Suv bilan yuvish",
+    "Egovlash va o'tkir qirralarni egovlash",
+    "Quritish",
+    "Bo'yash"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "STD-120 stanogida shpindelning aylanishlar sonini o'zgartirish uchun nima qilish kerak?",
+   "variantlar": [
+    "Shpindelni qo'l bilan surish",
+    "Tasma orqali harakat berish",
+    "Tasmani shkivning turli pog'onalariga almashtirish",
+    "Elektr dvigatelni yangilash"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zagatovkaning dastlabki sirtini ishlov berishda qaysi egov turi ishlatiladi?",
+   "variantlar": [
+    "O'rtacha egovlar",
+    "Jilvir",
+    "Mayda egovlar",
+    "Dag'al egovlar"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kichik yog'och detallarni jilvir bilan ishlov berishda nima qilish kerak?",
+   "variantlar": [
+    "Suv bilan silliqtirish",
+    "Qo'l bilan yopib tashiyish",
+    "Jilvir tekis yuzali taxtaga o'rnatib, detalni ana shu taxtaga qo'yib turli yo'nalishlarda ishqalanadi",
+    "Taxtaga mahkamlash"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Keyingi babka va tirgakni stanogiga qanday qotirib qo'yiladi?",
+   "variantlar": [
+    "Tortqi boltlar bilan",
+    "Yog'och mixlar bilan",
+    "Tog'ri so'zlashib",
+    "Rasm bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ish vaqtida tirgakni qanday holda o'rnatib turib borish zarur?",
+   "variantlar": [
+    "Markazga moslab, yog'ochga yaqin",
+    "Yuqorida o'zgaruvchi",
+    "Markazdan uzoq",
+    "Pastga to'satdan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Egovning tishlari qanday ko'rinishida bo'ladi?",
+   "variantlar": [
+    "Pona shakli",
+    "To'g'ri burchak",
+    "Dumaloq",
+    "To'rt burchak"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ro'zg'or buyumlarini tayyorlashda yog'och turini tanlash uchun qaysi omil eng muhim?",
+   "variantlar": [
+    "Faqat rang",
+    "Faqat narxi",
+    "Qalindligi",
+    "Buyumdan foydalanish jarayonida ro'y beradigan ta'sirlarga chidamlilik"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sabzavotlar to'g'rash taxtasi odatda qaysi qattiqlikdagi yog'ochdan tayyorlanadi?",
+   "variantlar": [
+    "Sochib tashlanishi mumkin bo'lgan",
+    "O'rtacha qattiqlikdagi",
+    "Juda qattiq",
+    "Yumshoq"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nega egovlar har xil shakl va o'lchamlarda tayyorlanadi?",
+   "variantlar": [
+    "Nazariy sabablar uchun",
+    "Shu kuni qiymatini boshqaligi uchun",
+    "Turli sirtlarni egovlash va egovlamaning turli darajalariga moslashtirish",
+    "Rasmda ko'rsatilgani uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yog'ochni o'yish texnologiyasida nima uchun randalash va arralash operatsiyalari bajariladi?",
+   "variantlar": [
+    "Yog'ochni tezroq kuritish",
+    "Yog'ochni rang o'zgartirish",
+    "Yog'ochni mayda kesmokka berish",
+    "Buyumni chizmada ko'rsatilgan o'lchamlarga va shaklga keltirish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Egov tishlari pona shaklida bo'lishining ahamiyati nima?",
+   "variantlar": [
+    "Faqat rang uchun",
+    "Chiroyli ko'rinishi uchun",
+    "Tovush chiqarish uchun",
+    "Tishlarning kuchli va doimiy kesgiligi uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "STD-120 stanogida shpindelni to'g'ri aylanishini tekshirish nima uchun zarur?",
+   "variantlar": [
+    "Ish bilan bog'liq xavfsizlik va samaradorlik uchun",
+    "Faqat madaniyat uchun",
+    "Vaqt o'tishi uchun",
+    "Stanokni to'xtatmaslik uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jilvir donalarining turi va miqdorining ko'pligining asosiy sababi nima?",
+   "variantlar": [
+    "Yog'och turlari boshqalashiga qarab",
+    "Turli darajali silliqtirish va pardozlash ehtiyojlariga javob berish",
+    "Faqat ishlab chiqarishi oson bo'lsin degan uchun",
+    "Rasmlarning ko'p bo'lishi uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Stanokda ishlaganda nega yog'och shpindel va vilka orasiga oynay qo'yilmaydi?",
+   "variantlar": [
+    "Vaqt o'tishi uchun",
+    "Faqat qoidasi bo'lsa yetarli",
+    "Shpindel aylanib turganda qo'l yara olishi mumkin bo'lgan xavfdan",
+    "Stanokka zararni berish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yog'och detallarining sirtiga gullar tushirish uchun qanday usuldan foydalanish eng mo'qul?",
+   "variantlar": [
+    "Qo'l bilan to'satdan",
+    "Tayyorlangan o'yma andaza bilan",
+    "Chiziqdan",
+    "Faqat ko'z tajribasi bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Duradgorlik buyumlarini tayyorlashda arralash operatsiyasi vaqti nima bilan belgilanadi?",
+   "variantlar": [
+    "Yog'och turining qattiqligiga va rejalash chizmaning o'lchamlariga qarab",
+    "Tasodifiy",
+    "Texnologik kitobdan",
+    "Faqat o'qituvchi aytgan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ushbu yog'och ishlov berish texnologiyasida 'ish yurushi' va 'salt yurushi' orasidagi farq nima?",
+   "variantlar": [
+    "Rang farqi",
+    "Faqat tezligida farq",
+    "Ular bir xildir",
+    "Ish yurushi vaqtida asbob bosilib, salt yurishda bosirilmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sabzavotlar taxtasini tayyorlashda nima uchun jilvirlashdan oldin o'tkir qirralarni egovlash talab qilinadi?",
+   "variantlar": [
+    "Faqat shakli uchun",
+    "Yog'ochni jilvir bilan silliq teshirish va xavfsizlikni ta'minlash",
+    "Chizmada ko'rsatilgan bo'lsa",
+    "Vaqt o'tishi uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

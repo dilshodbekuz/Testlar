@@ -1,0 +1,326 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Texnologiya",
+ "mavzu": "Sug'orish usullari va himoya ishlari",
+ "savollar": [
+  {
+   "savol": "Sug'orish deganda nima tushuniladi?",
+   "variantlar": [
+    "O'simliklarni qandiq o'g'itish",
+    "Tuproqni sun'iy namlantirish orqali o'simliklar suv bilan ta'minlanish",
+    "Dalalarga suv oqib ketish",
+    "Tuproqda tuz hosil bo'lishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sug'orishning nechta usuli amalga oshiriladi?",
+   "variantlar": [
+    "Ikkitasi",
+    "Bittasi",
+    "To'rttasi",
+    "Uchitasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sirtdan sug'orish qanday amalga oshiriladi?",
+   "variantlar": [
+    "Tuproqqa yotqizilgan maxsus trubalardan",
+    "Suv o'zi oqib tarqaladi",
+    "Ariqlar orqali",
+    "Yomg'ir mashinalari yordamida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yomg'ir mashinalari bilan sug'orish suvni qanday beradi?",
+   "variantlar": [
+    "Yomg'ir tarzida",
+    "Oqib tarqalish tarzida",
+    "Tuproq orqali",
+    "Ariqlar orqali"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sirtdan sug'orishning asosiy kamchiligi nima?",
+   "variantlar": [
+    "O'pka ishlamaydi",
+    "Suv ko'p sarflanadi va notekis taqsimlanadi",
+    "Hasharotlar ko'payadi",
+    "Tuproq niqlanadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kuzgi bug'doyga sug'orish necha marta beriladi?",
+   "variantlar": [
+    "6-7 marta",
+    "1-2 marta",
+    "8-10 marta",
+    "3-5 marta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kartoshkaga sug'orish necha marta beriladi?",
+   "variantlar": [
+    "6-7 marta",
+    "2-5 marta",
+    "1-2 marta",
+    "7-9 marta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dala ekinlariga zarar yetkaziyadigan hasharotlar qaysilari?",
+   "variantlar": [
+    "Faqat kapalak",
+    "Kapalak, qo'ng'iz, pashsha, shilliqqurt, kemiruvchilar",
+    "Faqat sichqon",
+    "Faqat qo'ng'iz"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'simlik kasalliklari qanday yuzaga keladi?",
+   "variantlar": [
+    "Shunchaki",
+    "Muhitning noqulay sharoitlarida va mikroorganizmlar zarasi natijasida",
+    "Sovuqdan",
+    "Yomg'indan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shiraga qarshi qaysi davrlarda dori sepiladi?",
+   "variantlar": [
+    "Yanvar-fevral",
+    "Iyul-avgust",
+    "Dekabr-yanvar",
+    "May oxiri-iyun"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kartoshkaga birinchi sug'orish qaysi davlarda beriladi?",
+   "variantlar": [
+    "Meva tug'aganda",
+    "G'uncha paydo bo'lganda",
+    "Unib chiqish vaqtida",
+    "Unib chiqgandan 10 kun o'tgach"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kuzgi bug'doyga sug'orishlari qaysi davrlar paytida beriladi?",
+   "variantlar": [
+    "Barcha vaqt",
+    "Har 5 kunda",
+    "Faqat unib chiqganda",
+    "O'simta hosil bo'layotgan vaqtda, don hosil bo'la boshlagach"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ekologik jihatdan eng maqbul himoya usullari qaysilari?",
+   "variantlar": [
+    "Faqat kimyoviy",
+    "Agrotexnik va biologik usullar",
+    "Faqat mexanik",
+    "Hamma bir xil"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Begona o'tlar ekinlarga qanday zarar keltiradi?",
+   "variantlar": [
+    "Faqat rangi yomonlashadi",
+    "Hech qanday",
+    "Faqat haroratni pasaytirib yuboradi",
+    "Oziq moddalarni o'zlashtirib, tuproq unumdorligi kamayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Karam burgasiga qarshi qaysi usullardan foydalaniladi?",
+   "variantlar": [
+    "Sovun eritmasi sepiladi",
+    "Dala quritiladi",
+    "Faqat dori purkashi",
+    "Kulning ohak bilan aralashmasini sepish, yelimli bayroqchalar"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Makkajo'xorini sug'orish qaysi davrlar paytida beriladi?",
+   "variantlar": [
+    "Faqat meva tug'aganda",
+    "Boshlang'ich ildiz, gullash, meva tug'ash davrida",
+    "Faqat unib chiqganda",
+    "Doimo"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hosilni qazib olish uchun optimal havo harorati qancha bo'lishi kerak?",
+   "variantlar": [
+    "20-22 gradus",
+    "10-12 gradus",
+    "0-2 gradus",
+    "4-6 gradus"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qandlavlagi sug'orish necha marta beriladi?",
+   "variantlar": [
+    "2-3 marta",
+    "7-9 marta",
+    "6-7 marta",
+    "3-4 marta"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sabzi sholg'om, lavlagidan nima sababli kechroq yig'ib olinadi?",
+   "variantlar": [
+    "Sabzi butunlay tuproq tagida bo'lib, sovuqdan himoya qilish uchun",
+    "Sabzi qiymati ko'proq",
+    "Sabzi tezroq o'sadi",
+    "Sabzi kemira kundalarga muqobil"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kartoshkaga birinchi sug'orishdan keyingi sug'orish qanday muddatda beriladi?",
+   "variantlar": [
+    "Har 10-12 kunda",
+    "Har 5-7 kunda",
+    "Har 15-20 kunda",
+    "Har 25-30 kunda"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dala ekinlarini sug'orish uchun qaysi usulni tanlash ayniqsa foydali va nima sababga?",
+   "variantlar": [
+    "Sirtdan sug'orish, eng oddiy bo'lganiga",
+    "Tuproq tagidan, suv kam sarflanadi",
+    "Barchasini bir xil vaqtda amalga oshirish",
+    "Yomg'irlatish, chunki yer va havo namligini ta'minlaydi, o'simliklardagi changni yuvadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qandlavlagini sug'orish 6-7 marta, makkajo'xorini esa 3-6 marta beriladi. Nima uchun farq mavjud?",
+   "variantlar": [
+    "Qandlavlagi uzoq o'sish muddatiga ega va ildiz hosil bo'lishi davomi ko'payadi",
+    "Makkajo'xori issiqlikka ko'proq muhtoj",
+    "Makkajo'xori kamroq suv sarflaydi",
+    "Qandlavlagi bozorda qiymati ko'proq"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agrotexnik, kimyoviy, mexanik va biologik himoya usullari foydalanishning asosiy maqsadi nima?",
+   "variantlar": [
+    "O'simliklarni yaxshi sharoitda o'sib unishini ta'minlash bilan bir vaqtda zararkunandalarni kamaytirib ekin sifatini saqlash",
+    "Faqat zararkunandalari o'ldirish",
+    "Faqat kemyoviy vositadan foydalanish",
+    "Hamma zararkunandalari butunlay yo'q qilish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'simlik kasalliklari muhitning noqulay sharoitlarida yuzaga keladi. Bilan kurashish uchun nima qilish kerak?",
+   "variantlar": [
+    "Faqat sovun eritmasi sepish kerak",
+    "Muhit sharoitini yaxshilashi kerak - ideal oziq, harorat, yorug'lik, namlikni ta'minlash",
+    "Dori purkashi kerak",
+    "O'simliklarni kesib tashlab yuborish kerak"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1-20 sentabrda o'simliklar 40 foiz o'sadi. Havo harorati 4-6 gradus pasaygan bo'lsa, nima qilish kerak?",
+   "variantlar": [
+    "Hosilni darhol qazib olishga kirishgan ma'qul, chunki o'sish to'xtaydi",
+    "Dori sepish kerak",
+    "Sug'orish ko'paytirib yuborish kerak",
+    "Yana bir haftani kutish kerak"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kartoshkani yig'ib olgandan keyin saklashga olib qo'yishdan oldin nima qilish kerak? Sabzi nima sababli bu ishni bajarmasligi kerak?",
+   "variantlar": [
+    "Kartoshkani quritish, sabzi yuzasi orqali ko'p namlik yo'qotganiga ko'ra bu ishni bajarmaslik",
+    "Ikkalasini ham quritish kerak",
+    "Hech narsa qilmaslik, darhol saklash",
+    "Kartoshka quritish, sabzi sovuq xonaga olib ketish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sholg'om va lavlagini sabzidan ilgariroq yig'ib olish nima asosda?",
+   "variantlar": [
+    "Sholg'om erkaksi, sabzi ayolsi o'simlik",
+    "Sholg'om va lavlagining bir qismi yer ustida va kuzgi sovuqlar unga zarar yetkazish mumkinligi; sabzi butunlay tuproq tagida",
+    "Sabzi tezroq o'sadi",
+    "Sabzi qiymati ko'proq bo'lganiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zararlanmagan, sovuq urgan o'simliklar mollarga yem beriladi. Nima sababga?",
+   "variantlar": [
+    "Bunday o'simliklar uzoq saqlab bo'lmaydi va buziladi, yem sifatida foydalanish optimal",
+    "Bozorda sotilmaydi",
+    "Mollarni semirtirish uchun",
+    "Yem sifatida arzon bo'lganiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zamonaviy omborlar hosilni saqlash uchun qanday sharoitlarni ta'minlaydi?",
+   "variantlar": [
+    "Hech qaysi o'ziga xos sharoit yo'q",
+    "Faqat namlikni boshqarish",
+    "Havo harorati, namlikni boshqarib boradigan qurilmalar va barcha optimal sharoitlar mavjud",
+    "Faqat haroratni boshqarish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Texnologiya",
+ "mavzu": "Polotno va sarja to'qish",
+ "savollar": [
+  {
+   "savol": "Polotno to'qilishida bo'ylama ip qanday nomlanadi?",
+   "variantlar": [
+    "Ko'ndalang",
+    "Yelim",
+    "Arqoq",
+    "Tanda"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'ndalang ip gazlamada qanday nomlanadi?",
+   "variantlar": [
+    "Arqoq",
+    "Milk",
+    "Bo'ylama",
+    "Tanda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Polotno to'qilishida gazlamaning o'ngi va teskarisi qanday bo'ladi?",
+   "variantlar": [
+    "Har doim turli-turli",
+    "Faqat rangi boshqa",
+    "Har safar boshqa",
+    "Bir xil"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sarja to'qilishida gazlamaning o'ng sirtida qanday yo'llar hosil bo'ladi?",
+   "variantlar": [
+    "To'rtburchaklar",
+    "Diagonal yo'llar",
+    "Aylana shacaklari",
+    "To'g'ri chiziqlar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Polotno to'qilishi qaysi tolali gazlamalarda eng ko'p uchraydi?",
+   "variantlar": [
+    "Paxta va zig'ir tolali",
+    "Faqat yun",
+    "Faqat ipak",
+    "Burama tola"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Paxta tolasining rangi nima?",
+   "variantlar": [
+    "Och ko'k",
+    "Qora",
+    "Sariq",
+    "Oq"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zig'ir tolasining rangi qanday?",
+   "variantlar": [
+    "Qora",
+    "Och ko'k",
+    "Sariq",
+    "Oq"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gazlamaning milki qaysi ipning yo'nalishida bo'ylab o'tadi?",
+   "variantlar": [
+    "Diagonal yo'nalishida",
+    "Random yo'nalishida",
+    "Bo'ylama ipning yo'nalishida",
+    "Ko'ndalang ipning yo'nalishida"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gazlamalar to'qilishda nima chatishib hosil bo'ladi?",
+   "variantlar": [
+    "Rangli va oq qog'oz",
+    "Bo'ylama va ko'ndalang iplari",
+    "Iplar va yelim",
+    "Yo'l va o'tish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qog'ozdan polotno to'qishda bo'ylama (tanda) hisoblanadi?",
+   "variantlar": [
+    "Rangli tasmalar",
+    "Yelim",
+    "Oq qog'ozdagi kesiklar",
+    "Albom"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Polotno va sarja to'qilishining asosiy farqi nima?",
+   "variantlar": [
+    "Sarja to'qilishida diagonal yo'llar hosil bo'ladi",
+    "Polotno paxta, sarja zig'ir",
+    "Sarja faqat ipdan to'qiladi",
+    "Polotno qattiq, sarja mayin"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bo'ylama iplarini aniqlashning qaysi usul noto'g'ri?",
+   "variantlar": [
+    "Milkdan aniqlanadi",
+    "Tovushidan aniqlanadi",
+    "Faqat rangidan aniqlanadi",
+    "Cho'zilishidan aniqlanadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gazlamaning teskarisi qanday aniqlanadi?",
+   "variantlar": [
+    "Faqat rangidan",
+    "Bosilgan gulining, silliqligining, tuki va tozaligiga qarab",
+    "Faqat uzunligidan",
+    "Faqat tukidan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sarja to'qilishida to'qilish moslamasi (rapporti)da eng kam nechta ip ishtirok etadi?",
+   "variantlar": [
+    "2 ta",
+    "1 ta",
+    "4 ta",
+    "3 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Polotno to'qilishni qog'ozdan bajarishda, kesiklar soni qanday bo'lishi kerak?",
+   "variantlar": [
+    "5 ta",
+    "Juft son",
+    "Random",
+    "Toq son"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gazlamada bo'ylama ip ko'ndalang ipga nisbatan qancha cho'ziladi?",
+   "variantlar": [
+    "Iloji yo'q aniqlash",
+    "Bir xil",
+    "Ko'proq",
+    "Kam"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bo'ylama iplarini tez tortganda qanday ovoz chiqadi?",
+   "variantlar": [
+    "Jarangsiz",
+    "Jadali tovush",
+    "Jarangga o'xshash",
+    "Xirillagan tovush"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ipdan polotno to'qishda, oxirgi ipni aylantirib qaytarganda gazlamaning enida nima hosil bo'ladi?",
+   "variantlar": [
+    "Milk",
+    "Teskarisi",
+    "O'tish",
+    "Yo'l"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sarja to'qilishning birinchi qatorida lentalar qanday o'tkaziladi?",
+   "variantlar": [
+    "2 ta tanda ostidan, 1 ta tanda ustidan",
+    "Faqat tanda ostidan",
+    "Faqat tanda ustidan",
+    "3 ta tanda ostidan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gazlamadagi bo'ylama ip ko'ndalang ipga nisbatan qanday xususiyatga ega?",
+   "variantlar": [
+    "Ingichkaroq va silliq",
+    "Yo'g'onroq va tukliroq",
+    "Qisqaroq",
+    "Ranglidiroq"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun polotno to'qiligan gazlamalar boshqa to'qilishdagi gazlamalarga nisbatan pishiq va qattiq bo'ladi?",
+   "variantlar": [
+    "Qandaydir yozuvdan",
+    "Ko'proq vaqt ketak",
+    "Ingichka iplari ishlatiladi",
+    "Bo'ylama va ko'ndalang iplar tez-tez chatishib, gazlamaning tuzilishi zich bo'lib, qattiq bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sarja to'qilishda ikkinchi qatorda lentalar qanday o'tkaziladi?",
+   "variantlar": [
+    "Faqat tanda ostidan",
+    "Uchinchi qator kabi",
+    "Birinchi qator kabi",
+    "1 ta tanda ostidan, 1 ta tanda ustidan, 2 ta tanda ostidan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gazlamaning bo'ylama va ko'ndalang iplarini aniqlash uchun zarur bo'lgan asoblar qaysi?",
+   "variantlar": [
+    "Faqat igna",
+    "Faqat daftar",
+    "Faqat lupa",
+    "Lupa, gazlama parchas, daftar"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Paxta tolasining uzunligi qancha santimetr?",
+   "variantlar": [
+    "25-100",
+    "0,6-5,2",
+    "5-10",
+    "15-25"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zig'ir tolasining uzunligi qancha santimetr?",
+   "variantlar": [
+    "5-15",
+    "0,6-5,2",
+    "25-100",
+    "100-200"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gazlamaning o'ng va teskarisini aniqlab albomga yopishtirilganda, birinchi bo'lagi qaysi tomoni bilan yopishtiriladi?",
+   "variantlar": [
+    "O'ngi",
+    "Yon tomoni",
+    "Qayta iflated",
+    "Teskarisi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qog'ozdan polotno to'qishda rangli tasmalarning eniga qanday mos bo'ladi?",
+   "variantlar": [
+    "Oq qog'ozdagi kesiklar soniga",
+    "Oq qog'ozdagi ikki kesik o'rtasidagi masofaga",
+    "Tasma uzunligiga",
+    "Albomning eniga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ipdan polotno to'qishda, bo'ylama ipni ramkadan qanday aylantirib tortiladi?",
+   "variantlar": [
+    "Gorizontal",
+    "Diagonal",
+    "Bemalol",
+    "Bo'ylamasiga"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sarja to'qilishda uchinchi qatorda lentalar qanday o'tkaziladi?",
+   "variantlar": [
+    "Ikkinchi qator kabi",
+    "Birinchi qator kabi",
+    "1 ta tanda ustidan, 2 ta tanda ostidan",
+    "Faqat tanda ostidan"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gazlamaning milki titilib ketmasligining sababini tushuntiring?",
+   "variantlar": [
+    "Zig'ir tola ishlatilgani uchun",
+    "Ko'ndalang iplar kuchli bo'lgani uchun",
+    "Rangi baland bo'lgani uchun",
+    "Bo'ylama iplari milkda bo'ylab o'tgani uchun va asosiy ip bo'lishi uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

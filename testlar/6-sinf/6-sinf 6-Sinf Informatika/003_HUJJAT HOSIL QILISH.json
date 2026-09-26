@@ -1,0 +1,337 @@
+{
+ "sinf": "6-sinf",
+ "kitob": "6-sinf 6-Sinf Informatika",
+ "mavzu": "HUJJAT HOSIL QILISH",
+ "savollar": [
+  {
+   "savol": "Word dasturida yangi hujjat hosil qilishning birinchi usuli qanday?",
+   "variantlar": [
+    "Ishga tushirilgan dastur nomidan o'z xohishiga yangi hujjat hosil qilish taklifini qabul qilish",
+    "Sichqoncha bilan o'ng-bosish",
+    "Drayvdan o'tish",
+    "Faqat Fayl menyusidan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hujjatni saqlash Menyusu qaysi yerda joylashgan?",
+   "variantlar": [
+    "Fayl menyusu",
+    "Format menyusu",
+    "Ko'rinish menyusu",
+    "Tahrirlash menyusu"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Klaviatura qaysi ikkita registr holatidan biriga bo'ladi?",
+   "variantlar": [
+    "Quyi va yuqori registr",
+    "Aktiv va passiv",
+    "Lotin va kirill",
+    "Ochiq va yopiq"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyi registr holatida kichik harflardan tashqari nima yoziladi?",
+   "variantlar": [
+    "Raqamlar",
+    "Klavishning quyi qismida aks etgan maxsus belgi",
+    "Faqat o'zbek tilidagi harflar",
+    "Bosh harflar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yuqori registrda yozish uchun qaysi klavish bosib turiladi?",
+   "variantlar": [
+    "Shift",
+    "Alt",
+    "Ctrl",
+    "Caps Lock"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Caps Lock belgisi qachon yonadi?",
+   "variantlar": [
+    "Alt+Shift kombinatsiyasida",
+    "Caps Lock klavishi bosilganda",
+    "Quyi registr holatida",
+    "Shift bosilganda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tinish belgisidan keyin nima bosilishi shart?",
+   "variantlar": [
+    "Probel klavishi",
+    "Hech narsa bosilmaydi",
+    "Enter klavishi",
+    "Shift klavishi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Defis qanday yoziladi?",
+   "variantlar": [
+    "Probellar bilan",
+    "Ikkala tomondan probel bilan",
+    "Probellarsiz",
+    "Qavslar ichiga olinib"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tire ikkala tomondan qanday ajratiladi?",
+   "variantlar": [
+    "Tirnoqlar bilan",
+    "Defislar bilan",
+    "Qavslar bilan",
+    "Probellar bilan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Home klavishi yordamida yurgich qayerga o'tadi?",
+   "variantlar": [
+    "Abzas oxiriga",
+    "Matn oxiriga",
+    "Satr boshiga",
+    "Sahifa boshiga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar hujjat birinchi marta saqlangan bo'lsa, navbatdagi saqlanishda qanday qilish kifoya?",
+   "variantlar": [
+    "Hujjatni qayta yozish",
+    "Tezkor paneldagi saqlash tugmasini bosish yoki Fayl menyusidagi Saqlash buyrug'ini tanlash",
+    "Har doim 'Kabi saqlash' buyrug'ini tanlash",
+    "Yangi nom berish shart"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O', o', G', g' harflarini yozish uchun qanday amallar bajariladı?",
+   "variantlar": [
+    "Faqat harfni yozish",
+    "Alt+O bosish",
+    "Shift va Ctrl birgalikda bosish",
+    "O, o, G, g harfini yozish, probel bosish, apostrof belgisi yozish, probel o'chirish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqori registrda matnni yozish uchun qaysi klavishni bosib turib kerakli klavish bosiladi?",
+   "variantlar": [
+    "Ctrl",
+    "Alt",
+    "Shift",
+    "Caps Lock"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Faqat bosh harflarni yozish uchun Caps Lock yoki Shift dan qaysi birini tanlash to'g'ri?",
+   "variantlar": [
+    "Faqat Caps Lock",
+    "Shift bosib turib har klavish bosiladi",
+    "Caps Lock va Shift birga",
+    "Faqat Shift"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Til panelida tanlangan tugmacha sichqoncha yordamida qanday o'zgartiriladi?",
+   "variantlar": [
+    "Tugmani drag qilish",
+    "Sichqoncha g'ildiragi bilan aylantirich",
+    "Tugmani ikki marta bosish",
+    "Tugmani o'ng tomonda ko'rsatib chapdagi rasmdagi kabi tanlov ro'yxatdan kerakli tugmani tanlash"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Alt (yoki Ctrl) klavishini bosib turib Shift klavishini necha marta bosish kerak til o'tkazish uchun?",
+   "variantlar": [
+    "Bir marta",
+    "Shift o'z-o'zidan bosiliadi",
+    "Kerakli marta",
+    "Har doim ikki marta"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qat'iy probel qayda ishlatiladi?",
+   "variantlar": [
+    "Har qaysi so'zlar orasida",
+    "Jumla bir satrda joylashishi shart bo'lganda, masalan A. Fozilov",
+    "Tinish belgilari oldida",
+    "Faqat qavslar bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yumshoq tire (soft hyphen) kirish uchun qaysi klavishlar birgalikda bosiladi?",
+   "variantlar": [
+    "Shift + Enter",
+    "Ctrl va 0 raqami yonidagi - klavishlari",
+    "Alt + hyphen",
+    "Ctrl + Home"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Word dasturida matn yozilganda o'ng chegarasiga yetilganda nima bo'ladi?",
+   "variantlar": [
+    "Xato xabari chiqadi",
+    "Sahifa avtomatik kengayadi",
+    "Matn to'xtatiladi",
+    "Keyingi so'z avtomatik yangi satrga o'tkaziladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir so'zdan ikkinchisiga harakatlanish uchun qaysi kombinatsiya ishlatiladi?",
+   "variantlar": [
+    "Shift + → yoki ←",
+    "Caps Lock + raqam",
+    "Ctrl + → yoki ←",
+    "Alt + ↑ yoki ↓"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar birinchi marta saqlangan hujjatga boshqa nom berilsa va 'Almashtirilsin' taklifi qabul qilinsa nima bo'ladi?",
+   "variantlar": [
+    "Fayl ulanib bitta bo'ladi",
+    "Avvalgi hujjat o'chib ketadi va o'rniga yangi hujjat yoziladi",
+    "Fayl nomi o'zgaradi, ammo mazmuni saqlanib qoladi",
+    "Ikkita fayl bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Word dasturi ishga tushirilganda klaviatura qaysi holatda bo'ladi?",
+   "variantlar": [
+    "Til holati belgilanmagan",
+    "Caps Lock holatida",
+    "Quyi registr holatida",
+    "Yuqori registr holatida"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O', o', G', g' harflari Word dasturida nima sababli muammo yaratadi?",
+   "variantlar": [
+    "Xato ko'rinadi",
+    "Sahifa buziladi",
+    "Avtomatik tuzatiladi",
+    "O, o, G, g harflar va apostrof belgisi to'liq so'z bo'lib ko'rinadi va Word uchun bir nechta alohida so'zga aylanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyi registrda lotin alifbosi holatida '3' raqami yozilganda qanday belgi chiqadi?",
+   "variantlar": [
+    "Bosh harf chiqadi",
+    "Kirill belgisi chiqadi",
+    "Xato belgisi chiqadi",
+    "3 chiqadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qat'iy tire yordamida bo'lingan so'z (masalan, '5-sinf') tahrir jarayonida satr o'zgarsa nima bo'ladi?",
+   "variantlar": [
+    "Tire belgisi yo'q bo'lib qoladi",
+    "Tire belgisi matnda aks etib qoladi",
+    "Avtomatik qisqariladi",
+    "Harf va raqam ajralib qoladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yumshoq tire yordamida yozilgan so'z tahrir jarayonida satrga to'liqligicha sig'adigan bo'lsa nima bo'ladi?",
+   "variantlar": [
+    "Tire belgisi matnda aks etib qoladi",
+    "Tire belgisi ko'rinmaydi va so'z ketma-ket yoziladi",
+    "Satir avtomatik o'zgaradi",
+    "Fayl buziladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rim raqamlarida 1950 yilini yozish uchun qaysi lotin harflari kombinatsiyasidan foydalaniladi?",
+   "variantlar": [
+    "MDCCCCL",
+    "MCML",
+    "MDCCL",
+    "MCD"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'qish holatida hujjat qanday ko'rinadi va boshqa nima o'zgaradi?",
+   "variantlar": [
+    "Faqat matn ko'rinadi",
+    "O'lchamlari ekran o'lchamlariga mos ravishda o'zgaradi hamda ko'p uskunalar aks etmaydi",
+    "Xatti mitti o'zgaradi va fontlar kalkulyatorga o'tadi",
+    "Rasmlar yo'q bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hujjatda Ctrl + Home klavishlari yordamida yurgich qayerga o'tadi?",
+   "variantlar": [
+    "Satr oxiriga",
+    "Matn boshiga",
+    "Satr boshiga",
+    "Matn oxiriga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Struktura holatida hujjat sarlavhalari qanday ko'rinadi?",
+   "variantlar": [
+    "Yo'naltirilgan spektr ko'rinishida",
+    "Hujjat strukturasidagi pog'onasiga mos ravishda siljiydi",
+    "Katalog shaklida pastga o'rnatiladi",
+    "Oddiy ko'rinishda gorizontal"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

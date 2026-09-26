@@ -1,0 +1,337 @@
+{
+ "sinf": "6-sinf",
+ "kitob": "6-sinf 6-Sinf Matematika",
+ "mavzu": "Musbat va manfiy sonlar bilan amallar",
+ "savollar": [
+  {
+   "savol": "Musbat sonlar qanday sonlardir?",
+   "variantlar": [
+    "Manfiy sonlar",
+    "Nol raqami",
+    "Noldan katta sonlar",
+    "Noldan kichik sonlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Manfiy sonlar qanday belgisi bilan yoziladi?",
+   "variantlar": [
+    "-",
+    "=",
+    "×",
+    "+"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi sonlardan qaysi biri musbat?",
+   "variantlar": [
+    "+8",
+    "-12",
+    "0",
+    "-5"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi sonlardan qaysi biri manfiy?",
+   "variantlar": [
+    "-3",
+    "6",
+    "0",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "+5 va -5 sonlar o'zaro nima deyiladi?",
+   "variantlar": [
+    "Joylashgan sonlar",
+    "Qarama-qarshi sonlar",
+    "Teng sonlar",
+    "Bir xil sonlar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "9 sonining moduli (absolyut qiymati) nechaga teng?",
+   "variantlar": [
+    "0",
+    "18",
+    "-9",
+    "9"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "|-7| nimaga teng?",
+   "variantlar": [
+    "14",
+    "-7",
+    "7",
+    "0"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nol qaysi turga mansub?",
+   "variantlar": [
+    "Ikkalasiga ham emas",
+    "Manfiy",
+    "Musbat",
+    "Qarama-qarshi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(-6) soniga qarama-qarshi son qaysi?",
+   "variantlar": [
+    "6",
+    "12",
+    "-12",
+    "-6"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sonning moduli nima?",
+   "variantlar": [
+    "Sonning yarmi",
+    "Sonning belgisi",
+    "Sonning nol dan masofa",
+    "Sonning karrali"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(+3) + (+7) = ?",
+   "variantlar": [
+    "11",
+    "10",
+    "4",
+    "-10"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(-4) + (-6) = ?",
+   "variantlar": [
+    "-10",
+    "2",
+    "-2",
+    "10"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(+9) + (-4) = ?",
+   "variantlar": [
+    "-13",
+    "-5",
+    "13",
+    "5"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(-8) + (+3) = ?",
+   "variantlar": [
+    "11",
+    "5",
+    "-11",
+    "-5"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(+7) - (+5) = ?",
+   "variantlar": [
+    "2",
+    "-12",
+    "-2",
+    "12"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(-6) - (-2) = ?",
+   "variantlar": [
+    "4",
+    "8",
+    "-4",
+    "-8"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(+5) × (+3) = ?",
+   "variantlar": [
+    "-15",
+    "15",
+    "2",
+    "8"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(-3) × (-4) = ?",
+   "variantlar": [
+    "1",
+    "-12",
+    "7",
+    "12"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(+8) × (-2) = ?",
+   "variantlar": [
+    "4",
+    "16",
+    "-16",
+    "6"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(-12) ÷ (+3) = ?",
+   "variantlar": [
+    "9",
+    "-4",
+    "-9",
+    "4"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(+6) + (-2) - (-3) = ?",
+   "variantlar": [
+    "11",
+    "7",
+    "-1",
+    "5"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(-5) + (-4) + (+12) = ?",
+   "variantlar": [
+    "-3",
+    "3",
+    "-21",
+    "9"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(-2) × (-5) + (-6) = ?",
+   "variantlar": [
+    "16",
+    "-16",
+    "-4",
+    "4"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(+10) - (-3) × (+2) = ?",
+   "variantlar": [
+    "4",
+    "-4",
+    "16",
+    "-16"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "|-8| + |-4| = ?",
+   "variantlar": [
+    "4",
+    "-4",
+    "-12",
+    "12"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(-10) ÷ (-2) - (+2) = ?",
+   "variantlar": [
+    "-7",
+    "3",
+    "-3",
+    "7"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(+3) × (-4) + (+5) = ?",
+   "variantlar": [
+    "-7",
+    "17",
+    "7",
+    "-17"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "0 - (-6) + (-4) = ?",
+   "variantlar": [
+    "10",
+    "2",
+    "-2",
+    "-10"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(-4) × (+3) ÷ (-2) = ?",
+   "variantlar": [
+    "-24",
+    "24",
+    "6",
+    "-6"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "|+5| - |-8| + (+3) = ?",
+   "variantlar": [
+    "0",
+    "8",
+    "16",
+    "-8"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

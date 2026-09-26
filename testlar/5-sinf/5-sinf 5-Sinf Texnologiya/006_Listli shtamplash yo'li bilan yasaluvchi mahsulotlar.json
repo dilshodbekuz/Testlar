@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Texnologiya",
+ "mavzu": "Listli shtamplash yo'li bilan yasaluvchi mahsulotlar",
+ "savollar": [
+  {
+   "savol": "Listli shtamplash yo'li bilan qanday mahsulotlar tayyorlanadi?",
+   "variantlar": [
+    "faqat yassi mahsulotlar",
+    "faqat hajmli mahsulotlar",
+    "yassi va hajmli mahsulotlar",
+    "saqalangir mahsulotlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Listli shtamplash usuli issiq va sovuq holda ishlatilishi mumkinmi?",
+   "variantlar": [
+    "faqat issiq holda",
+    "faqat sovuq holda",
+    "umuman ishlatilmaydi",
+    "ikkalasi ham mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyish usuli qanday maxsulotlarni tayyorlovchida keng tarqalgan?",
+   "variantlar": [
+    "plastmassa buyumlar",
+    "zagotovkalar va mashina detallarini",
+    "yumshog'i buyumlar",
+    "haridor uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyish uchun qoliplar qanday turlarga bo'linadi?",
+   "variantlar": [
+    "faqat metall qoliplari",
+    "faqat qum qoliplari",
+    "qum qoliplari va metall qoliplari",
+    "bo'linmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tunukadan qanday buyumlar tayyorlanadi?",
+   "variantlar": [
+    "mashina va asbob-uskunalar korpuslari, suv quvurlari va idishlar",
+    "faqat idishlar",
+    "faqat suv quvurlari",
+    "faqat asboblar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "5 mm dan yo'g'onroq simlar qanday usulda olinadi?",
+   "variantlar": [
+    "prokatlash usulida",
+    "to'g'rilash yo'li bilan",
+    "burish yo'li bilan",
+    "kesish yo'li bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Simlar qanday metallardan tayyorlanadi?",
+   "variantlar": [
+    "faqat po'latdan",
+    "faqat misdan",
+    "po'lat, mis, aluminiy va boshqa metallardan",
+    "faqat aluminiydan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kesib olingan sim bo'lagini ishlatishdan oldin nima qilish lozim?",
+   "variantlar": [
+    "ranglab bo'ladi",
+    "qisilash kerak",
+    "to'g'rilash lozim",
+    "bukilash kerak"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Simlar qanday asboblar bilan qisiladi va bukitiladi?",
+   "variantlar": [
+    "faqat dumaloq jag'li omburlar bilan",
+    "yassi jag'li va dumaloq jag'li omburlar bilan",
+    "faqat yassi jag'li omburlar bilan",
+    "to'q moq bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mis va aluminiy simlardan asosan nima tayyorlanadi?",
+   "variantlar": [
+    "prujinalar",
+    "mixlar",
+    "elektr simlari",
+    "vintlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'tkir jag'li ombur bilan kesilgan sim bo'lagi qanday holda bo'ladi?",
+   "variantlar": [
+    "tekis va to'g'ri",
+    "bukilgan",
+    "to'g'rilangan",
+    "qisilgan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Po'lat simlardan qaysi mahsulotlar tayyorlanadi?",
+   "variantlar": [
+    "faqat suv quvurlari",
+    "faqat elektr simlari",
+    "mix, vint, prujina, shurup, parchin mix va boshqa buyumlar",
+    "faqat mixlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Simlarni to'qmoq bilan plita ustida to'g'rilashning maqsadi nima?",
+   "variantlar": [
+    "simni kesish uchun",
+    "simni qisilash uchun",
+    "bukilgan simni to'g'rilashga keltirish uchun",
+    "simni ranglab bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yumshog' simlarni to'g'rilashda qanday moslamadan foydalaniladi?",
+   "variantlar": [
+    "silindrsimon omburlardan",
+    "yassi jag'li omburlardan",
+    "taxtakachlardan",
+    "to'qmokdan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Halqa shaklidagi buyumlarni yasashda qanday moslamadan foydalaniladi?",
+   "variantlar": [
+    "dumaloq jag'li omburlardan",
+    "silindrsimon to'g'rilash moslamasidan",
+    "yassi jag'li omburlardan",
+    "o'tkir jag'li omburdan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qiyon chiziq shaklidagi murakkab detallarni qanday omburlar bilan yasaladi?",
+   "variantlar": [
+    "dumaloq jag'li omburlar bilan",
+    "silindrsimon omburlar bilan",
+    "o'tkir jag'li omburlar bilan",
+    "yassi jag'li omburlar bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Chilangarlik ishini qanday baholash kerak?",
+   "variantlar": [
+    "muhim emas",
+    "faqat asosiy ish sifati",
+    "faqat o'rganish uchun",
+    "ishlab chiqarishning zamonaviy texnikasini egallashda muhim pog'ona"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Simlarni rulonlab ishlab chiqarilgandan keyin ular bilan nima qilish kerak?",
+   "variantlar": [
+    "ranglab bo'ladi",
+    "o'tkir jag'li ombur bilan kerakli zagotovkalarni kesib olish",
+    "darhol bukish",
+    "darhol qisilash"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Metall qoliplari bir martali yoki ko'p martalimi?",
+   "variantlar": [
+    "faqat bir martali",
+    "takrorlanmaydi",
+    "faqat ko'p martali",
+    "bir yoki ko'p martali"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Simni rejalashning o'zi nima uchun zarur?",
+   "variantlar": [
+    "faqat sim uzunligini bilish uchun",
+    "simni ranglab bo'ladi",
+    "sim zagotovkani kerakli shaklga keltirish uchun",
+    "kesish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar bolalar o'yinchog'ini listli shtamplash yo'li bilan yasamoqchi bo'lsang, bu jarayonda foydalanish kerak bo'ladigan usullar nima bo'lar?",
+   "variantlar": [
+    "faqat bukilash",
+    "faqat kesish",
+    "faqat quyish",
+    "shtamplash yoki quyish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Po'lat sim va mis sim dan turli-turli buyumlar tayyorlanadi. Ushbu farqni tushintiring?",
+   "variantlar": [
+    "ikkalasi ham bir xil ishlatiladi",
+    "po'lat simdan elektr simlari, misdan esa mixlar yasaladi",
+    "farq yo'q",
+    "po'lat simdan mix, vint, prujina yasaladi; mis simdan esa elektr simlari tayyorlanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nisbatan ingichkaroq simlar qanday olinadi?",
+   "variantlar": [
+    "to'qmoq bilan",
+    "prokatlash usulida",
+    "tola lovchi stanoklarda ingichka o'lchamdagi teshikchalardan cho'zish orqali",
+    "kesish yo'li bilan"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sim zagotovkasini to'g'rilashning bir necha usuli bo'lsa, ulardagi asosiy farq nima?",
+   "variantlar": [
+    "sim qanday qalinligini va shaklini bilish asosida turli asbob-moslamalar ishlatiladi",
+    "vaqti",
+    "faqat narxi",
+    "faqat ko'rinishi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'tkir jag'li ombur, yassi jag'li ombur va dumaloq jag'li omburlarni turli vazifalar uchun qanday farq bilan ishlatiladi?",
+   "variantlar": [
+    "o'tkir jag'li - kesish; yassi jag'li - bukilash va qisilash; dumaloq jag'li - qiyon chiziq shaklidagi detallar",
+    "barcha vazifalar uchun bir xil ishlatiladi",
+    "hammasida farq yo'q",
+    "o'tkir jag'li - to'g'rilash; yassi jag'li - kesish; dumaloq jag'li - bukish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Metall qoliplarini maktab ustaxonasida tayyorlash mumkin bo'lsa, buning uchun qanday shartlar zarur?",
+   "variantlar": [
+    "xavfsizlik choralarini ko'rib tayyorlash zarur",
+    "vaqti ko'p bo'ladi",
+    "hech shartning o'zi kerak emas",
+    "faqat metall buyum"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyish usulida mahsulot tayyorlashning to'liq ketma-ketligi qanday?",
+   "variantlar": [
+    "faqat quyish va qotish",
+    "qolip tayyorlash, metall eritish, quyish, qotish, olib berish, ishlov berish",
+    "olib berish va ishlov",
+    "metall quyish, qotish, olib berish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Chilangarlik ustalari qanday bilim va ko'nikmalarga ega bo'lishi zarur?",
+   "variantlar": [
+    "faqat idish yasash",
+    "metall va uning qotishmalarining xususiyatlarini bilish, asbob-uskunalar va stanoklarni ishlatish ko'nikmalari",
+    "faqat oq tunuka",
+    "faqat metall bilan ishlash"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Simlarni ishlatishdan oldin nima qilish kerak va nima uchun bu muhim?",
+   "variantlar": [
+    "faqat kesish kerak",
+    "ranglab bo'ladi",
+    "darhol ishlatsa bo'ladi",
+    "to'g'rilash lozim, chunki bukilgan yoki egri sim to'g'ri bo'lgan shaklda ishlatilishi kerak"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar siz po'lat, mis va aluminiy simlarni tanisa bo'lsangiz, ularni nima asosida ajrata olasiz va har biridan nima tayyorlasiz?",
+   "variantlar": [
+    "ko'rinishi va xususiyatlarini asosida; po'latdan mix, vint, prujina; misdan elektr simlari; aluminiydan yassi buyumlar",
+    "hamma bir xil",
+    "rangi va shaklini asosida; barcha vazifalarni bajaradilar",
+    "qalini va uzunligini asosida; barcha bir xil"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

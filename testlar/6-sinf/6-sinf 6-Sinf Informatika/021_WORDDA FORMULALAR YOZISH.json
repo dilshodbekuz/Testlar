@@ -1,0 +1,337 @@
+{
+ "sinf": "6-sinf",
+ "kitob": "6-sinf 6-Sinf Informatika",
+ "mavzu": "WORDDA FORMULALAR YOZISH",
+ "savollar": [
+  {
+   "savol": "Wordda formulalar yozishda qanday muhim vosita foydalaniladi?",
+   "variantlar": [
+    "Rangli ruchka",
+    "Formulalar muharriri",
+    "Chiziqlar",
+    "Shriftlar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Formulalar muharriri qaysi tasmada joylashgan?",
+   "variantlar": [
+    "Joylashtirish",
+    "Kiritish",
+    "Ko'rinish",
+    "Bosh sahifa"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Formula yozish uchun qanday tugma tanlanadi?",
+   "variantlar": [
+    "Simvollar",
+    "Формула",
+    "Formulalar",
+    "Konstruktor"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Formulalardan chiqish uchun qanday amal bajarish kerak?",
+   "variantlar": [
+    "Formulani o'chirib tashlash",
+    "Escape tugmasini bosish",
+    "Sichqonchani bo'sh joyga olib kelib chap tugmasini bosish",
+    "Ctrl+Z tugmasini bosish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kalit so'zlardan biri qanday?",
+   "variantlar": [
+    "Formulani tahrirlash",
+    "Jadval",
+    "Fayllar",
+    "Sahifa"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Strukturalar guruhida qanday belgilar joylashgan?",
+   "variantlar": [
+    "Kasrlar, radikallar, qavslar",
+    "Harflar va raqamlar",
+    "Shiftlar",
+    "Rangli belgilar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Murakkabroq formulalar yozish uchun qanday ishlatiladi?",
+   "variantlar": [
+    "Telefon",
+    "Sodda yozuv",
+    "Formulalar muharririning imkoniyatlari",
+    "Ruchka"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Formulani yozish boshlang'ichida yurgich qayerga o'rnatiladi?",
+   "variantlar": [
+    "Formula joylashtirilishi lozim bo'lgan satrga",
+    "Hujjat boshiga",
+    "Formulaning ortiga",
+    "Sahifaning oxirga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar yozilgan formulada xatolik bo'lsa, uni qanday tuzatish mumkin?",
+   "variantlar": [
+    "Formulani yangi etibardan yozish",
+    "Hujjatni butunlay o'chirish",
+    "Yangi hujjat ochish",
+    "Formula ustiga sichqoncha olib kelib xatolikni tuzatish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Formulalar muharriri\" nimaning vazifasini bajaradi?",
+   "variantlar": [
+    "Turli ko'rinishdagi formulalar yozish imkoniyati beradi",
+    "Rasm rasmini o'zgartiradi",
+    "Jadval o'chirib tashlaydi",
+    "Faqat matni tahrirlanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Формула tugmasini tanlagach, formula yozish uchun qanday bo'ladi?",
+   "variantlar": [
+    "Sahifa rang o'zgaradi",
+    "Hujjat yopiladi",
+    "Formula uchun joy aks etadi",
+    "Formula avtomatik ravishda yoziladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Simvollar guruhi qaysi maqsadda foydalaniladi?",
+   "variantlar": [
+    "Sahifa raqamini qo'yish uchun",
+    "Jadval yaratish uchun",
+    "Rasm kiritish uchun",
+    "Turli ko'rinishdagi amallar belgilarini joylashtirish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Formulani tahrirlash uchun sichqoncha qayerga olib qanday amal bajarish kerak?",
+   "variantlar": [
+    "Formula ustiga kelib bir marta chap tugmasini bosish",
+    "Formula ostiga kelib chap tugmasini bosish",
+    "Formula ostiga kelib o'ng tugmasini bosish",
+    "Formulaning markazi olib kelib ikki marta bosish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Formula muharriridagi kontekst-menyusi qaysi nomi bilan aks etadi?",
+   "variantlar": [
+    "Tahrirlash-Konstruktor",
+    "Formula bilan ishlash-Konstruktor",
+    "Kiritish-Konstruktor",
+    "Bosh sahifa-Konstruktor"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Formula lavhasidagi yurgichni kerakli joyga qanday o'tkazish mumkin?",
+   "variantlar": [
+    "Avtomatik o'tadi",
+    "Faqat yo'nalish klavishlari yordamida",
+    "Sichqoncha yoki yo'nalish klavishlari yordamida",
+    "Faqat sichqoncha yordamida"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sodda formulalar yozish uchun qanday imkoniyatlardan foydalanish mumkin?",
+   "variantlar": [
+    "Jadvallar",
+    "Faqat formulalar muharriridagi guruhlari",
+    "Faqat shriftlar",
+    "Maxsus belgilar va formatlash imkoniyatlari"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kasrlar qaysi guruhda topiladi?",
+   "variantlar": [
+    "Ko'rinish bo'limida",
+    "Strukturalar guruhida",
+    "Tahrirlash bo'limida",
+    "Simvollar guruhida"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Radikallar qaysi guruhda joylashgan?",
+   "variantlar": [
+    "Simvollar guruhida",
+    "Strukturalar guruhida",
+    "Tahrirlash bo'limida",
+    "Joylashtirish bo'limida"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qavslar shablonlari qaysi guruhda topiladi?",
+   "variantlar": [
+    "Strukturalar guruhida",
+    "Sahifa bo'limida",
+    "Simvollar guruhida",
+    "Ko'rinish bo'limida"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Formula yozish vaqtida Menyular satri qanday ma'lumot beradi?",
+   "variantlar": [
+    "Formula bilan ishlash-Konstruktor kontekst-menyusi va tasmasini",
+    "Formula asosiy shakli",
+    "Faqat satr nomini",
+    "Yozilgan harflar sonini"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Formulalar muharriridagi guruhlash qaysi tamoyilga asoslanadi?",
+   "variantlar": [
+    "Abjad tertibida",
+    "Tasodifiy tartibda",
+    "Rang bo'yicha",
+    "Turli ko'rinishdagi amallar belgilari majmuyiga bo'lingan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Murakkabroq formulalarni yozish uchun qanday ish-harakat kerak?",
+   "variantlar": [
+    "Formulalar muharriridagi barcha guruh va bo'limlardan to'g'ri foydalanish",
+    "Faqat sodda yozuv",
+    "Faqat Strukturalar guruhidan",
+    "Faqat Simvollar guruhidan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sodda va murakkabroq formulalar orasida asosiy farq nima?",
+   "variantlar": [
+    "Hech farq yo'q",
+    "Faqat o'lcham farqi",
+    "Faqat rang farqi",
+    "Soddalari maxsus belgilar bilan, murakkablari formulalar muharriridagi guruhlari bilan yoziladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Formuladagi xatolikni tuzatish jarayonida qaysi qadamlar ketma-ket bajariladi?",
+   "variantlar": [
+    "Yangi hujjat ochish",
+    "Faqat yangi yaratish",
+    "Formula ustiga olib kelish → chap tugmasini bosish → yurgichni joylashtirish → tuzatish",
+    "O'chirish → yangi yaratish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Formulani tahrirlash uchun yurgichni formula lavhasiga joylash nima beradi?",
+   "variantlar": [
+    "Formulani o'chirish imkoni",
+    "Formulani nusxa ko'chirish",
+    "Formula bilan ishlash-Konstruktor menyusini aks ettirish",
+    "Hujjatni yopish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar formulada bir necha xatolik bo'lsa, ularni qanday to'g'ri tuzatish kerak?",
+   "variantlar": [
+    "Faqat birinchi xatolik",
+    "Formulalarni qayta yozish",
+    "Har bir xatolik uchun formula ustiga olib, tahrirlash va tuzatish",
+    "Butunday hujjat o'chirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Simvollar va Strukturalar guruhlari orasida qanday asosiy farq bor?",
+   "variantlar": [
+    "Faqat rang farqi",
+    "Simvollar - amallar belgilari, Strukturalar - kasrlar, radikallar, qavslar va boshqa",
+    "O'lcham farqi",
+    "Faqat shakl farqi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Formula muharriridagi turli bo'limlarni o'rganishning asosiy maqsadi nima?",
+   "variantlar": [
+    "Faqat vaqt o'tkazish",
+    "Yosh uchun",
+    "Har xil formulalarni to'g'ri yozish va turli ifodalarni joylashtirish imkoniyatini bilish",
+    "Dars uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Formulalar muharriridagi imkoniyatlar qanday strukturada tashkil qilingan?",
+   "variantlar": [
+    "Tasodifiy",
+    "Abjad bo'yicha",
+    "Bir necha guruhlarga bo'lingan, har biri ma'lum amallar belgilari majmuyini o'z ichiga oladi",
+    "Bitta guruhda"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Formula yozishda sodda maxsus belgilar va formulalar muharriridagi guruhlari qanday ishlatish kerak?",
+   "variantlar": [
+    "Butun muddat faqat maxsus belgilar",
+    "Faqat sodda belgilar",
+    "Soddalari maxsus belgilar, murakkablari muharriridagi guruhlari qo'llangan",
+    "Faqat muharriri guruhlari"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

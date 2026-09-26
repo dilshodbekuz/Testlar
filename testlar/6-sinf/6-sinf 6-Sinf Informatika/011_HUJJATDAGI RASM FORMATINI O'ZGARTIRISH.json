@@ -1,0 +1,337 @@
+{
+ "sinf": "6-sinf",
+ "kitob": "6-sinf 6-Sinf Informatika",
+ "mavzu": "HUJJATDAGI RASM FORMATINI O'ZGARTIRISH",
+ "savollar": [
+  {
+   "savol": "Hujjatdagi rasm formatini nima uchun o'zgartirish kerak?",
+   "variantlar": [
+    "Rasmning o'lchamlari va joylashish holatini o'zgartirish uchun",
+    "Rasmning rangini o'zgartirish uchun",
+    "Rasmni yorug'roq qilish uchun",
+    "Rasmni burish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hujjatga joylashtirilgan rasmni birinchi marta qanday tanlanadi?",
+   "variantlar": [
+    "Bilgisayarning tugmasini sichqonchaga siljitib",
+    "Klayviatura orqali",
+    "Sichqoncha yordamida",
+    "O'ng tugma sichqoncha bilan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Belgilangan rasm atrofi qanday ko'rinishda bo'ladi?",
+   "variantlar": [
+    "To'g'ri to'rtburchak shaklida chiziq bilan o'ralgan",
+    "Oval shaklida",
+    "Uchburchak shaklida",
+    "Aylananing shaklida"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rasm o'lchamlarini o'zgartirish uchun belgilangan rasm atrofida qaysi nuqtalar ishlatiladi?",
+   "variantlar": [
+    "Faqat tomonlarning o'rta nuqtalari",
+    "Faqat burchak nuqtalari",
+    "Uchlari va tomonlarining o'rtalarida nuqtalar",
+    "Shunday nuqtalar yo'q"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Word dasturida rasmni belgilanganda qaysi kontekst-menyu faollashadi?",
+   "variantlar": [
+    "Shakllar bilan ishlash",
+    "Matn bilan ishlash",
+    "Jadval bilan ishlash",
+    "Rasm bilan ishlash"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Rasm bilan ishlash\" kontekst-menyusida qancha mantiqiy guruh bor?",
+   "variantlar": [
+    "5 ta",
+    "4 ta",
+    "6 ta",
+    "3 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Matn bilan uyg'unligi\" tugmasi rasmning nechta holatini ko'rsatadi?",
+   "variantlar": [
+    "7 ta",
+    "6 ta",
+    "5 ta",
+    "8 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rasm \"Matn orasida\" holatida qanday joylashadi?",
+   "variantlar": [
+    "Matn orqasida",
+    "Matnning ajralmas qismi (shrift) sifatida",
+    "Matn oldida",
+    "Matn yuqorisida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'zgarishlar guruhi nima uchun ishlatiiladi?",
+   "variantlar": [
+    "Rasm qirmini qirqish uchun",
+    "Rasmning chegarasini o'zgartirish uchun",
+    "Rasmning foniga, rang ravshanligi va to'yinganligiga ta'sir etish uchun",
+    "Rasmni burish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rasmlar uslublari guruhi qanday o'zgartirishlarga imkon beradi?",
+   "variantlar": [
+    "Rasmning o'lchamini o'zgartirish",
+    "Rasmning burishi va akslantirishi",
+    "Rasmning rangi va yorug'ligi",
+    "Rasm chegarasi va aks etish uslublarini o'zgartirish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Belgilangan rasmdan nusxa ko'chirish qaysi jarayonga o'xshadi?",
+   "variantlar": [
+    "Matnni nusxalash kabi",
+    "Jadvalga qo'shish kabi",
+    "Shapanning sharifini o'zgartirish kabi",
+    "Matnni burish kabi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sichqoncha ko'rsatkichini rasm nuqtasining ustiga olib kelib, chap tugmasi bosilgan holda siljitilsa nima sodir bo'ladi?",
+   "variantlar": [
+    "Rasm rang almashadi",
+    "Rasm aylanadi",
+    "Rasm matn ichiga kirib qoladi",
+    "Rasm kichrayadi yoki kattalashadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tartiblash guruhi rasmning qanday xususiyatlarini o'zgartirish imkonini beradi?",
+   "variantlar": [
+    "Matnga va boshqa rasmga nisbatan bog'lanishi hamda joylashishini tanlash",
+    "Faqat rasmning yuqoriga joylashish",
+    "Faqat rasmning chap tomoniga joylashish",
+    "Faqat rasmning markazga joylashish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Matn ramka atrofi da\" holatida rasm matnga nisbatan qanday joylashadi?",
+   "variantlar": [
+    "Rasm matn ichida",
+    "Rasm matni to'liq o'raladi",
+    "Matn rasmni to'liq o'raladi",
+    "Matn va rasm bir-biri bilan aloqasiz"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Matn rasm konturi bo'ylab\" holatida matn qanday ko'rinishda qilinadi?",
+   "variantlar": [
+    "Rasmning haqiqiy konturi bo'ylab",
+    "Rasmning to'g'ri to'rtburchak atrofida",
+    "Rasmning faqat quyisida",
+    "Rasmning faqat ustida"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Matn o'tib ketuvchi\" holatida rasm va matn qanday joylashtirilib qoladi?",
+   "variantlar": [
+    "Rasm matnning ichiga kirib qoladi va matn uning ustidan o'tib ketadi",
+    "Matn faqat rasmning ostida",
+    "Rasm faqat matnning ustida",
+    "Rasm va matn alohida"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Matn orasida\" holatidan farq qilib, qolgan holatlarda rasm qanday joylashadi?",
+   "variantlar": [
+    "Faqat matnning quyisida",
+    "Faqat matnning ustida",
+    "Matnning shriftining bir qismi sifatida",
+    "Matndan alohida bo'lib, sahifaning istalgan yeriga"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'lcham guruhi qanday imkoniyatlarni beradi?",
+   "variantlar": [
+    "Rasmning o'lchamlarini o'zgartirish va turli shakllar ko'rinishida qirmini qirqish",
+    "Rasmning rangini o'zgartirish",
+    "Rasmni joylashtirishni tanlash",
+    "Rasmni burish va akslantirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Rasmni burish va akslantirish qaysi guruhi orqali amalga oshiriladi?",
+   "variantlar": [
+    "Rasmlar uslublari guruhi",
+    "Tartiblash guruhi",
+    "O'lcham guruhi",
+    "O'zgarishlar guruhi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Belgilangan rasmni o'chirish jarayoni qanday amalga oshiriladi?",
+   "variantlar": [
+    "Faqat o'ng tugma bosilib, o'chirish variantini tanlab",
+    "Rasmni chap tugma bilan belgilang va Delete tugmasini bosing",
+    "Matn o'chirishdek o'chiriladi",
+    "Shrift menyusidan o'chirtiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar rasmning matn bilan uyg'unligi \"matn rasm konturi bo'ylab\" holatida bo'lsa, rasmni sahifaning istalgan yeriga joylashtirish mumkinmi?",
+   "variantlar": [
+    "Yo'q, rasm matn bilan bog'langan bo'lgani uchun",
+    "Faqat matnning quyisiga joylashtirish mumkin",
+    "Ha, istalgan yeriga, chunki rasm matndan alohida",
+    "Faqat yoniga joylashtirish mumkin"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Matn orasida\" holatida rasmni sahifadagi satrlar bo'ylab siljitish mumkinmi?",
+   "variantlar": [
+    "Yo'q, hech qachon siljitib bo'lmaydi",
+    "Faqat vertikal ravishda siljitish mumkin",
+    "Ha, uni satrlar bo'ylab matning bir bo'lagi sifatida siljitish mumkin",
+    "Faqat gorizontal ravishda siljitish mumkin"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Matn orasida\" holatining \"rasm matnning orqasida\" holatidan asosiy farqi nima?",
+   "variantlar": [
+    "O'lchamlari boshqacha",
+    "Ranglari boshqacha",
+    "Yo'q, ular bir xildir",
+    "Birinchisida rasm matnning ajralmas qismi, ikkinchisida rasm matndan alohida"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hujjatda bir nechta rasmlar bo'lsa, Tartiblash guruhi orqali ularni qanday birlashtirish mumkin?",
+   "variantlar": [
+    "O'z-o'zidan birlashtiradi",
+    "Birlashtirish mumkin emas",
+    "Rasm guruhini (Group) foydalanib birlashtirish yoki ajratish",
+    "Faqat o'chirish orqali"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'zgarishlar, Rasmlar uslublari va O'lcham guruhlarini ketma-ket qo'llansa, rasmda qanday o'zgarishlar bo'ladi?",
+   "variantlar": [
+    "Faqat o'lcham o'zgaradi",
+    "Rasmda o'zgarish bo'lmaydi",
+    "Rasmning barcha xususiyatlari o'zgarishi mumkin",
+    "Faqat tashqi ko'rinish o'zgaradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rasm burchak nuqtalaridan va tomonlarning o'rta nuqtalaridan siljitilganda qanday asosiy farq bo'ladi?",
+   "variantlar": [
+    "Burchaklardan - 2 o'lcham bir vaqtda, o'rtasidan - bitta o'lcham o'zgaradi",
+    "Tomonlarning o'rtasidan - rasm o'zgarishsiz qoladi",
+    "Burchaklardan - rasm o'zgarishsiz qoladi",
+    "Rasm to'liq aylanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Matn yuqorisida va quyisida\" holatida rasm va matnning joylashushi qanday bo'ladi?",
+   "variantlar": [
+    "Matn faqat rasmning ustida",
+    "Matn rasmning yuqorisida va quyisida, rasm esa markazda qoladi",
+    "Rasm va matn bir xildir",
+    "Rasm matn bilan aralashib ketadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Rasm matnning orqasida\" va \"rasm matnning oldida\" holatlaridagi asosiy farq nima?",
+   "variantlar": [
+    "Farq yo'q, ular bir xildir",
+    "Birinchisida rasm kichik, ikkinchisida katta",
+    "Birinchisida matn rasmning ustida ko'rinadi, ikkinchisida rasm matnning ustida ko'rinadi",
+    "Birinchisida rasm matnni to'liq o'raladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hujjatda rasmning o'lchamini tekshirish va aniqlash uchun sichqoncha yordamida necha marta aylantirib ko'rish tavsiya etiladi?",
+   "variantlar": [
+    "Ko'p marta bo'lishi kerak degan talaba yo'q",
+    "Uch marta va undan ortiq",
+    "Birinchi marta shuning o'zi kifoya",
+    "Ikki marta tekshirish kerak"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Matn rasm konturi bo'ylab\" va \"matn ramka atrofi da\" holatlarining asosiy farqi nima?",
+   "variantlar": [
+    "Birinchisida rasm kichik, ikkinchisida katta",
+    "Birinchisida matn ko'k, ikkinchisida qora",
+    "Birinchisida matn rasmning aniq shaklini to'ylab qilinadi, ikkinchisida to'g'ri to'rtburchak atrofida qilinadi",
+    "Yo'q, ular bir xildir"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

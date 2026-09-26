@@ -1,0 +1,337 @@
+{
+ "sinf": "6-sinf",
+ "kitob": "6-sinf 6-Sinf Matematika",
+ "mavzu": "Eng katta umumiy bo'luvchi (EKUB)",
+ "savollar": [
+  {
+   "savol": "Eng katta umumiy bo'luvchi (EKUB) qaysi sonlar uchun topiladi?",
+   "variantlar": [
+    "Faqat juft sonlar uchun",
+    "Faqat tub sonlar uchun",
+    "Faqat bir sonning",
+    "Ikkita yoki undan ko'p sonlar uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "12 va 18 sonlarining umumiy bo'luvchilarini sanab ko'rsating",
+   "variantlar": [
+    "1, 2, 3, 4",
+    "1, 3, 5, 6",
+    "2, 3, 4, 6",
+    "1, 2, 3, 6"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "EKUB(12, 8) nima?",
+   "variantlar": [
+    "4",
+    "8",
+    "6",
+    "2"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "24 sonining barcha bo'luvchilarini sanab ko'rsating",
+   "variantlar": [
+    "1, 2, 3, 4, 5, 6, 7, 8",
+    "2, 3, 4, 6, 8, 12",
+    "1, 2, 3, 4, 6, 8, 12, 24",
+    "1, 4, 8, 12, 24"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar EKUB(a, b) = 1 bo'lsa, a va b sonlari nimaga deyiladi?",
+   "variantlar": [
+    "Teng sonlar",
+    "Toq sonlar",
+    "O'zaro tub sonlar",
+    "Juft sonlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "EKUB(15, 25) nimaga teng?",
+   "variantlar": [
+    "5",
+    "3",
+    "25",
+    "15"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikkita sonning umumiy bo'luvchisi degani nima?",
+   "variantlar": [
+    "Ikkala sonni ham bo'lib ketuvchi son",
+    "Ikkala sondan kattaroq son",
+    "Faqat 1 ga teng son",
+    "Ikkala sondan kichikroq son"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "EKUB(20, 30) nimaga teng?",
+   "variantlar": [
+    "10",
+    "15",
+    "30",
+    "20"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "36 va 48 sonlarining eng katta umumiy bo'luvchisini toping",
+   "variantlar": [
+    "6",
+    "12",
+    "18",
+    "24"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikkita sonning EKUB eng ko'p necha bo'lishi mumkin?",
+   "variantlar": [
+    "Birinchi son",
+    "Ikkinchi son",
+    "Eng kichik son",
+    "Eng katta son"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "EKUB(12, 18) ni toping",
+   "variantlar": [
+    "9",
+    "3",
+    "6",
+    "2"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "EKUB(24, 36) ni toping",
+   "variantlar": [
+    "24",
+    "6",
+    "18",
+    "12"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "EKUB(16, 24) ni toping",
+   "variantlar": [
+    "4",
+    "16",
+    "8",
+    "12"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "EKUB(20, 30) ni hisoblab toping",
+   "variantlar": [
+    "20",
+    "5",
+    "15",
+    "10"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "EKUB(15, 25) ni hisoblab toping",
+   "variantlar": [
+    "15",
+    "3",
+    "5",
+    "25"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "EKUB(28, 42) ni toping",
+   "variantlar": [
+    "28",
+    "7",
+    "21",
+    "14"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "9 va 16 sonlari o'zaro tub ekanligini aniqlang",
+   "variantlar": [
+    "EKUB(9, 16) = 16, o'zaro tub",
+    "EKUB(9, 16) = 9, o'zaro tub emas",
+    "EKUB(9, 16) = 3, o'zaro tub emas",
+    "EKUB(9, 16) = 1, o'zaro tub"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "EKUB(30, 45) ni hisoblab toping",
+   "variantlar": [
+    "15",
+    "30",
+    "10",
+    "5"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "EKUB(18, 27) ni toping",
+   "variantlar": [
+    "9",
+    "18",
+    "6",
+    "3"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "EKUB(40, 60) ni hisoblab toping",
+   "variantlar": [
+    "30",
+    "40",
+    "20",
+    "10"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tamoshani ko'rishga 24 ta erkak va 36 ta ayol keldi. Ularni teng bo'lagan guruhlarga bo'lish kerak. Eng ko'p nechata teng guruh tashkil etish mumkin?",
+   "variantlar": [
+    "12",
+    "8",
+    "6",
+    "24"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "60 va 90 sonlarini asosiy ko'paytuvchilarga ajratib EKUB ni toping",
+   "variantlar": [
+    "45",
+    "30",
+    "15",
+    "10"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "84 va 126 sonlarini asosiy ko'paytuvchilarga ajratib EKUB ni toping",
+   "variantlar": [
+    "63",
+    "14",
+    "42",
+    "21"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "EKUB(a, b) = 12 va a = 36 bo'lsa, b ning qiymatlaridan biri qanday bo'lishi mumkin?",
+   "variantlar": [
+    "60",
+    "12",
+    "24",
+    "48"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "EKUB(72, 96) ni toping",
+   "variantlar": [
+    "36",
+    "24",
+    "12",
+    "48"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tovarlar 15 sm va 25 sm uzunlikdagi bo'laklarga kesib tashlanadi. Eng kichik necha sm uzunlikdagi tovar kesib tashlanishi mumkin?",
+   "variantlar": [
+    "75 sm",
+    "25 sm",
+    "5 sm",
+    "15 sm"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "EKUB(48, 60, 72) ni toping",
+   "variantlar": [
+    "12",
+    "6",
+    "30",
+    "24"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "100 va 150 sonlarini asosiy ko'paytuvchilarga ajratib EKUB ni toping",
+   "variantlar": [
+    "100",
+    "25",
+    "50",
+    "75"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kutubxonada 40 ta ingliz tilida va 56 ta o'zbek tilida kitob bor. Ularni teng miqdorida qutichalar tashkil etish kerak. Eng ko'p nechata qutichalar tashkil etish mumkin?",
+   "variantlar": [
+    "14",
+    "7",
+    "8",
+    "4"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "EKUB(78, 104) ni toping",
+   "variantlar": [
+    "39",
+    "26",
+    "2",
+    "13"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

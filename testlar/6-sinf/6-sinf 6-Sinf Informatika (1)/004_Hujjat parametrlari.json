@@ -1,0 +1,337 @@
+{
+ "sinf": "6-sinf",
+ "kitob": "6-sinf 6-Sinf Informatika (1)",
+ "mavzu": "Hujjat parametrlari",
+ "savollar": [
+  {
+   "savol": "Hujjat parametrlari nima deb ataladi?",
+   "variantlar": [
+    "Shrift turi",
+    "Matn protsessorida tayyorlanayotgan hujjatning xususiyatlari",
+    "Qog'ozning o'lchami",
+    "Satrlar orasidagi masofa"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sahifa parametrlarini tanlash uchun qaysi tasma ishlatiladi?",
+   "variantlar": [
+    "Ko'rinish tasma",
+    "Sahifani belgilash tasma",
+    "Bosh tasma",
+    "Format tasma"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sahifa parametrlarining asosiy manbai nima?",
+   "variantlar": [
+    "Qog'oz turi",
+    "Hujjatni chop etish maqsadi",
+    "Matnning uzunligi",
+    "Foydalanuvchining istami"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hoshiya nima?",
+   "variantlar": [
+    "Satrlar orasidagi masofa",
+    "Matnning o'lchami",
+    "Sahifaning rang",
+    "Sahifaning chap, o'ng, yuqori va pastki qismidan qoldirilgan masofa"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sahifa orientatsiyasining nechta asosiy turi bor?",
+   "variantlar": [
+    "Ikkisi",
+    "Bittasi",
+    "Uchisi",
+    "To'rtasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chizg'ichlar qaysi tasma orqali aks etadi?",
+   "variantlar": [
+    "Sahifani belgilash tasmasida",
+    "Ko'rinish tasmasining Aks ettirish bo'limida",
+    "Bosh tasmasida",
+    "Format tasmasida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shrift parametrlarini tanlash uchun qaysi tasmaning Shrift mantiqiy guruhiga murojaat qilish kerak?",
+   "variantlar": [
+    "Format tasma",
+    "Sahifani belgilash tasma",
+    "Bosh tasma",
+    "Ko'rinish tasma"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Abzas parametrlari qaysi tasmaning Abzas mantiqiy guruhida joylashgan?",
+   "variantlar": [
+    "Format tasmasida",
+    "Bosh tasmasida",
+    "Sahifani belgilash tasmasida",
+    "Ko'rinish tasmasida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sahifa foni o'zgartirishning asosiy maqsadi nima?",
+   "variantlar": [
+    "Matnni ozroq qilish",
+    "Sahifani yanada go'zal va qiziqarli ko'rsatish",
+    "Satrlar orasidagi masofani o'zgartirgish",
+    "Hujjatni chetdan chop etish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sahifa chegaralarida qanday chiziqlardan foydalaniladi?",
+   "variantlar": [
+    "Faqat qora chiziqlar",
+    "Faqat sirt chiziqlar",
+    "Turli turdagi, rangdagi va qalinlikdagi chiziqlar",
+    "Faqat to'q chiziqlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hoshiya o'lchamlarini belgilash uchun qaysi tanlov ro'yxatidan foydalaniladi?",
+   "variantlar": [
+    "Ustunlar",
+    "O'lcham",
+    "Hoshiyalar",
+    "Oriyentatsiya"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qog'oz o'lchamlarini belgilash uchun qaysi tanlov ro'yxatidan foydalaniladi?",
+   "variantlar": [
+    "Ustunlar",
+    "Hoshiyalar",
+    "Oriyentatsiya",
+    "O'lcham"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sahifadagi ustunlar sonini qaysi tanlov ro'yxatidan belgilash mumkin?",
+   "variantlar": [
+    "Oriyentatsiya",
+    "Ustunlar",
+    "Hoshiyalar",
+    "O'lcham"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sahifa parametrlarining to'liq muloqot oynasini ochish uchun qaysi tugma tanlash kerak?",
+   "variantlar": [
+    "Bekor qilish tugmasi",
+    "OK tugmasi",
+    "Qo'llash tugmasi",
+    "Sahifa parametrlari mantiqiy guruhidagi tugmasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hoshiya kengligini o'zgartirishning qaysi usuli mavjud?",
+   "variantlar": [
+    "Faqat chizg'ich orqali",
+    "Gorizontal va vertikal chizg'ich yordamida",
+    "Faqat o'ng bosmani orqali",
+    "Faqat tanlov ro'yxati orqali"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "MS Wordda sahifa foniga qanday usullar qo'llanishi mumkin?",
+   "variantlar": [
+    "Sidirg'a rang yoki turli Bo'yash usullari",
+    "Faqat qora rang",
+    "Faqat to'q ranglar",
+    "Faqat bitta rang"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Abzas tekislanishining qanday turlari mavjud?",
+   "variantlar": [
+    "Chapdan, o'rtadan, o'ngdan",
+    "Faqat o'rtadan",
+    "Faqat chapdan va o'ngdan",
+    "Chapdan, o'rtadan, o'ngdan, sahifa kengligi bo'yicha"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Abzas satrlari oralig'i nechta variant bilan belgilanishi mumkin?",
+   "variantlar": [
+    "Uchta: bir, ikki va uch",
+    "Ikkita: bir va ikki",
+    "Oltita: bir, bir yarim, ikki, minimum, aniq, ko'proq",
+    "To'rtasi: bir, ikki, uch va ko'proq"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Abzas chekinishini o'rnatishning qulay usuli nima?",
+   "variantlar": [
+    "Faqat o'ng bosmani orqali",
+    "Faqat tastatura orqali",
+    "Faqat tanlov ro'yxati orqali",
+    "Gorizontal chizg'ich ko'rsatkichlaridan foydalanib"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hujjatda shrift turi, o'lchami va yozuv shakli qaysi bo'limda tanlanadi?",
+   "variantlar": [
+    "Shrift mantiqiy guruhi",
+    "O'lcham bo'limi",
+    "Abzas bo'limi",
+    "Format bo'limi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Turli hujjatlar turli o'lchamdagi qog'ozga yoziladi. Agar siz rasmiy hujjat tayyorlasangiz, uning parametrlarini qaysi asosda belgilaysiz?",
+   "variantlar": [
+    "Tavakkaliga istalgan parametr tanlash",
+    "Hujjat turiga qarab sahifa parametrlarini tanlash",
+    "Faqat shrift parametrlarini o'zgartirish",
+    "Hojjatning o'lchami muhim emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matn protsessorida hujjat tayyorlanayotganda, qaylar parametrlar belgilab olinadi?",
+   "variantlar": [
+    "Faqat sahifa parametrlari",
+    "Sahifa parametrlari va matn parametrlari (shrift, abzas)",
+    "Faqat matn parametrlari",
+    "Faqat rang parametrlari"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar sahife fonini to'q rang bilan belgilasangiz va matnni qora rangda yozsangiz, qanday muammo yuzaga keladi?",
+   "variantlar": [
+    "Matnning o'lchami o'zgarsdi",
+    "Matnni o'qish qiyin bo'ladi",
+    "Shrift turi o'zgaradi",
+    "Hujjat yanada go'zal ko'rinadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Abzas parametrlari va shrift parametrlarining asosiy farqi nima?",
+   "variantlar": [
+    "Ular o'zaro hech farqi yo'q",
+    "Shrift parametrlari alohida harflarning, abzas parametrlari esa abzaslar to'plamining xususiyatlarini belgilaydi",
+    "Abzas parametrlari faqat raqamni, shrift parametrlari esa matnni o'zgartirgish",
+    "Abzas parametrlari rang, shrift parametrlari esa mazmun o'zgartirgish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar siz \"Mening vatanim – O'zbekiston\" haqida to'plamli matn tayyorlanayotgan bo'lsangiz, matnning to'plamini uchun qaylar parametrlardan foydalanishingiz zarur?",
+   "variantlar": [
+    "Faqat shrift parametrlari",
+    "Faqat hoshiya parametrlari",
+    "Sahifa parametrlari, abzas parametrlari va shrift parametrlari",
+    "Faqat sahifa parametrlari"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hoshiya, sahifa foni va chegaralar o'zgartirilganda, hujjatning ta'siri qanday bo'ladi?",
+   "variantlar": [
+    "Hujjat chetdan chop etilmaydi",
+    "Hujjat yanada professional va go'zal ko'rinish imkoniyati bor",
+    "Hujjat noto'g'ri ko'rinadi",
+    "Hujjat ma'nosi o'zgaradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar siz birorta abzasda satrlar orasidagi masofani \"ikki\" belgilasangiz, boshqa abzasda \"bir\" belgilasangiz, matnning ko'rinishi qanday bo'ladi?",
+   "variantlar": [
+    "Matn butunlay o'zgarib ketadi",
+    "Turli abzaslarda turli satrlar oralig'i bo'ladi",
+    "Hamma bir xil bo'ladi",
+    "Ikkala abzas ayni bir ko'rinishda bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gorizontal chizg'ichni sichqoncha bilan surish orqali qaylar parametrlarni o'zgartirib bo'ladi?",
+   "variantlar": [
+    "Abzas chekinishini va bosh satr chekinishini",
+    "Faqat bosh satr chekinishini",
+    "Faqat sahifa o'lchamini",
+    "Faqat abzas chekinishini"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "MS Wordda \"Mening oilam\" nomli hujjatda albom orientatsiyasini tanlab, har bir abzas uchun turli satrlar oralig'i va turli chekinishni belgilasangiz, natija qanday bo'ladi?",
+   "variantlar": [
+    "Matn ichidagi ma'lumot o'zgaradi",
+    "Shriftning turi o'zgaradi",
+    "Hujjat noto'g'ri bo'ladi",
+    "Hujjat yanada dinamik va ifodaviy ko'rinadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Abzas parametrlarida markerlash, tartiblash va tabaqalashtirish imkoniyatlari nima uchun foydalidir?",
+   "variantlar": [
+    "Matnning o'lchamini o'zgartirgish uchun",
+    "Abzaslarni turli shaklda ko'rsatish va ro'yxatlarni tuzish uchun",
+    "Hoshiyani o'zgartirgish uchun",
+    "Matnning rangini o'zgartirgish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

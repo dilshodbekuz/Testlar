@@ -1,0 +1,326 @@
+{
+ "sinf": "6-sinf",
+ "kitob": "6-sinf 6-Sinf Informatika",
+ "mavzu": "JADVALGA YANGI SATR YOKI USTUN QO'SHISH",
+ "savollar": [
+  {
+   "savol": "Jadvalga yanyi satr qo'shish mavzusida birinchi qadamda nima qilish kerak?",
+   "variantlar": [
+    "Yurgichni qo'shilishi kerak bo'lgan satr yoki ustunga joylashtrish",
+    "Maket menyusini ochish",
+    "To'g'ri kataklarni tanlash",
+    "Birlashtirish tugmasini bosish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Satr yuqoriga qo'shilishi kerak bo'lsa, qaysi tugma tanlanadi?",
+   "variantlar": [
+    "Yuqoriga joylashtirilsin",
+    "Pastga joylashtirilsin",
+    "O'ngga joylashtirilsin",
+    "Chapga joylashtirilsin"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ustun chapga qo'shilishi kerak bo'lsa, qaysi tugma tanlanadi?",
+   "variantlar": [
+    "Pastga joylashtirilsin",
+    "Chapga joylashtirilsin",
+    "Yuqoriga joylashtirilsin",
+    "O'ngga joylashtirilsin"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jadvaldan satrni olib tashlash uchun qaysi guruh ishlatiladi?",
+   "variantlar": [
+    "Qo'shish",
+    "Birlashtirish",
+    "Katakalarni bo'lish",
+    "Satrlar va ustunlar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jadvalning ortiqcha satr yoki ustunini olib tashlash mumkinmi?",
+   "variantlar": [
+    "Yo'q, hech qachon",
+    "Ha, lekin maxsus amal bajariladi",
+    "Faqat satrni, ustunni emas",
+    "Ha, oddiy usulda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kataklarni birlashtirish uchun avval nima qilish kerak?",
+   "variantlar": [
+    "O'chirilsin tugmasini bosish",
+    "Birlashtirilishi kerak bo'lgan kataklarni blokka olish",
+    "Ikkita qatorni tanlash",
+    "Bitta katakalani tanlash"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matni o'rganib ko'rsatilgan kalit so'zlardan biri qaysi?",
+   "variantlar": [
+    "Maketni o'chirish",
+    "Sarlavha qo'shish",
+    "Jadvalda satrni nusxalash",
+    "Kataklarni birlashtirish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir necha satrni birga o'chirish uchun ular qanday o'raladi?",
+   "variantlar": [
+    "Alohida-alohida tanlanadi",
+    "Rang bilan",
+    "Qo'l bilan",
+    "Blokka olinadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Katakalarni birlashtirish uchun qaysi tugma ishlatiladi?",
+   "variantlar": [
+    "Katakalar birlashtirilsin",
+    "O'chirilsin",
+    "Nusxalash",
+    "Qo'shilsin"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matni o'rganib, qaysi birlashma so'z ko'rsatilmagan?",
+   "variantlar": [
+    "Jadval tutashtrirish",
+    "Kataklarni bo'lish",
+    "Satr va ustun qo'shish",
+    "Kataklarni birlashtirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar jadvalning pastiga yanyi satr qo'shilishi kerak bo'lsa, qaysi amallar ketma-ket bajariladi?",
+   "variantlar": [
+    "Yurgichni oxirgi satrga joylash, pastga joylashtirilsin tugmasini tanlash",
+    "Faqat pastga joylashtirilsin tugmasini bosish",
+    "Yurgichni istalgan satrga joylash, yuqoriga joylashtirilsin tanlash",
+    "Yurgichni oxirgi satrga joylash, pastga joylashtirilsin tanlash"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jadvalning o'ngiga yanyi ustun qo'shilishi kerak bo'lsa, yurgich qaerga joylashtiriladi?",
+   "variantlar": [
+    "O'rtadagi ustunga",
+    "Oxirgi ustunga",
+    "Ustun qo'shilishi kerak bo'lgan ustunga",
+    "Birinchi ustunga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Maket tasmasining qaysi guruhida satrlar va ustunlarni boshqarish amallar joylashgan?",
+   "variantlar": [
+    "Satrlar va ustunlar",
+    "Birlashtirish",
+    "O'chirish",
+    "Qo'shish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar jadvaldagi bitta satrni o'chirilishi kerak bo'lsa, shu satrga qaysi tugma tanlanadi?",
+   "variantlar": [
+    "Satrlar o'chirilsin",
+    "Satrlarni alohida o'chirish",
+    "Kataklarni o'chirish",
+    "Ustunlar o'chirilsin"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jadval kataklarini birlashtirish uchun kataklarning qaysi shakli kerak?",
+   "variantlar": [
+    "Dumaloq",
+    "To'g'ri to'rtburchak",
+    "Qavssimon",
+    "Uchburchak"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matndagi Birlashtirish guruhi qaysi amallarni o'z ichiga oladi?",
+   "variantlar": [
+    "Kataklarni birlashtirish",
+    "Faqat satrni o'chirish",
+    "Faqat ustunni qo'shish",
+    "Faqat rangni o'zgartirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jadvalga satr qo'shish uchun qaysi menyusi ishlatiladi?",
+   "variantlar": [
+    "Fayl menyusi",
+    "Ko'rish menyusi",
+    "Tahrir menyusi",
+    "Maket menyusi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar yurgich birlashtirish uchun tanlangan katakalarning tashqarisida bo'lsa, nima bo'ladi?",
+   "variantlar": [
+    "Yanyi qator qo'shadi",
+    "Birlashtirma amalga oshmaydi",
+    "Avtomatik birlashtiradi",
+    "Butun jadvalni o'chiradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ustun o'ng tomonda qo'shilishi kerak bo'lsa, qaysi tugma tanlanadi?",
+   "variantlar": [
+    "Pastga joylashtirilsin",
+    "O'ngga joylashtirilsin",
+    "Yuqoriga joylashtirilsin",
+    "Chapga joylashtirilsin"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matni o'rganib, satrlar va ustunlarni qo'shish uchun qaysi qadamdan boshlanadi?",
+   "variantlar": [
+    "To'g'ridan-to'g'ri tugmani bosish",
+    "Jadvalning rangini o'zgartirish",
+    "Barcha kataklarni tanlash",
+    "Yurgichni kerakli satr yoki ustunga joylashtrish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jadvalning 3-satridan yuqoriga va 5-satridan pastga bir vaqtning o'zida satr qo'shilishi kerak bo'lsa, qaysi usul to'g'ri?",
+   "variantlar": [
+    "Bir vaqtning o'zida ikkala satrga satr qo'shish",
+    "Ikkita alohida amal: avval 3-satrga, keyin 5-satrga",
+    "Birlashtirilgan satrlarni bir vaqtda tanlash",
+    "Faqat 3-satrga qo'shish yetarli"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadvalning to'g'ri to'rtburchak shaklida 2x3 katakasi birlashtrilishi kerak. Qaysi amallar to'g'ri ketma-ketlikda?",
+   "variantlar": [
+    "Ranglarini o'zgartirish",
+    "Katakalarning raqamini o'zgartirish",
+    "Katakalari blokka olish, keyin birlashtirilsin tugmasini bosish",
+    "Har bir katakalani alohida tanlash"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi 'oddiy usulda ularni o'chirib bo'lmaydi' iborasi nima anglatadi?",
+   "variantlar": [
+    "Jadvaldan hech narsa o'chirilmaydi",
+    "Faqat ustunni o'chirish mumkin",
+    "Satrlar va ustunlarni o'chirish uchun maxsus amal bajariladi",
+    "Satrni o'chirish iloji yo'q"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar qoldirish kerak bo'lgan katakalari bir-biriga birlashtirilishi va qoldirmaslari ham turgan satr o'chirilishi kerak bo'lsa, qaysi tartib optimal?",
+   "variantlar": [
+    "Hech qanday amal kerak emas",
+    "Avval birlashtirish, keyin satrni o'chirish",
+    "Avval satrni o'chirish, keyin birlashtirish",
+    "Satrni o'chirish yetarli"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadval 4 ta satr va 3 ta ustundan iborat. 2-satrning barchasi o'chirilsa va 1-ustunga satr qo'shilsa, jadvalning yanyi o'lchami nima bo'ladi?",
+   "variantlar": [
+    "3x3",
+    "4x3",
+    "5x3",
+    "4x2"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Maket tasmasida Satrlar va ustunlar guruhi ichidagi amallar qaysi tartibda bajariladi?",
+   "variantlar": [
+    "Qo'shish, keyin birlashtirish",
+    "O'chirish, keyin qo'shish",
+    "Talabga qarab o'zgaradi",
+    "Birlashtirish, keyin o'chirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar jadvalga bir vaqtning o'zida 2 ta satr yuqoriga va 3 ta ustun o'ngga qo'shilsa, jadvalda nechta yanyi kataka paydo bo'ladi?",
+   "variantlar": [
+    "O'lchami asliga bog'liq",
+    "5 ta",
+    "8 ta",
+    "6 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Katakalrni birlashtirish va satrlarni o'chirish orasidagi asosiy farq nima?",
+   "variantlar": [
+    "Birlashtirish bir necha katakalrani, o'chirish butun satrni o'zgartiradi",
+    "O'chirish katakalani o'zgartiradi",
+    "Birlashtirish bitta katakalani, o'chirish satrni o'zgartiradi",
+    "Hech qanday farq yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadvalning 1-va 3-satrlariga bir vaqtning o'zida satr qo'shilishi kerak bo'lsa (ular bir-biriga tungi emas), qaysi amal optimal?",
+   "variantlar": [
+    "Ikkita alohida amal: 1-satrga, keyin 3-satrga",
+    "Ikkalasini blokka olish va bir vaqtda qo'shish",
+    "Jadvalni yaniysi bilan yaratish",
+    "Faqat 1-satrga qo'shish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,315 @@
+{
+ "sinf": "6-sinf",
+ "kitob": "6-sinf 6-Sinf Informatika",
+ "mavzu": "ABZAS PARAMETRLARI",
+ "savollar": [
+  {
+   "savol": "Abzas parametrlari kompyuter dasturida qayerda joylashgan?",
+   "variantlar": [
+    "Format menyusida",
+    "Jadval menyusida",
+    "Sahifa tasmasida",
+    "Bosh tasmasining Abzas mantiqiy guruhida"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Abzas tekislanishning nechta asosiy turi bor?",
+   "variantlar": [
+    "3 ta",
+    "2 ta",
+    "5 ta",
+    "4 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi variantlarning qaysi biri abzas satrlari oralig'ining turi emas?",
+   "variantlar": [
+    "Bir yarim",
+    "Minimum",
+    "Ikki",
+    "Uch"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Abzas chekinishini o'rnatish uchun eng qulay vosita qaysi?",
+   "variantlar": [
+    "Menyu",
+    "Vertikal chizg'ich",
+    "Gorizontal chizg'ich",
+    "Klaviatura"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Abzas markerlashini o'zgartirishni Bosh tasmasida qayerdan topish mumkin?",
+   "variantlar": [
+    "Abzas mantiqiy guruhida",
+    "Sahifa guruhida",
+    "Tahrirish menyusida",
+    "Shrift guruhida"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Abzasni tartiblashni qayerdan topish mumkin?",
+   "variantlar": [
+    "Sahifa guruhida",
+    "Shakllar menyusida",
+    "Shrift guruhida",
+    "Abzas mantiqiy guruhida"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Abzas foni o'rnatish mumkin emasmi?",
+   "variantlar": [
+    "Faqat bitta so'zga",
+    "Yo'q, mumkin emas",
+    "Faqat matnning hamma abzasiga",
+    "Ha, mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi variantlarning qaysi biri abzas parametri emas?",
+   "variantlar": [
+    "Abzas foni",
+    "Markerlash",
+    "So'zning qalinligi",
+    "Abzas chegarasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gorizontal chizg'ichdagi ko'rsatkichlarni harakatlandirish uchun qaysi moslamadan foydalaniladi?",
+   "variantlar": [
+    "Sichqoncha",
+    "Skaner",
+    "Printer",
+    "Klaviatura"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Formatlashdagi ko'rinmas belgilarni aks ettirish imkoniyati Bosh tasmasida qayerda bor?",
+   "variantlar": [
+    "Shrift guruhida",
+    "Abzas mantiqiy guruhida",
+    "Format menyusida",
+    "Sahifa tasmasida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar matn chapdan tekislangan bo'lsa, uni sahifa kengligi bo'yicha tekislab qo'yish uchun qaysi tugmani bosish kerak?",
+   "variantlar": [
+    "O'ngdan tekislash tugmasi",
+    "Chapdan tekislash tugmasi",
+    "Markazga tekislash tugmasi",
+    "Sahifa kengligi bo'yicha tekislash tugmasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Abzas satrlari oralig'i 'bir yarim' qilinganda satrlar orasidagi masofa qanday bo'ladi?",
+   "variantlar": [
+    "Satrlar orasida minimal masofa bo'ladi",
+    "Satrlar bitta-bitta terishladi",
+    "Satrlar orasida kattalashtirilgan masofa bo'ladi",
+    "Satrlar orasida hech qanday masofa bo'lmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Abzas chekinishini oshirish uchun gorizontal chizg'ich bo'yicha qaysi yo'nalishda surilishi kerak?",
+   "variantlar": [
+    "Chapga",
+    "Pastga",
+    "Tepaga",
+    "O'ngga"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Abzas foni va abzas chegarasi o'rtasidagi asosiy farq nima?",
+   "variantlar": [
+    "Foni — abzasning ichki rangi, chegara — chegarasi chizig'i",
+    "Chegara — abzasning ichki rangi, foni — chegarasi chizig'i",
+    "Foni faqat yozuvga, chegara faqat rasmga ta'sir qiladi",
+    "Farqi yo'q, bir xil"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Abzasni 'markerlash' va 'tartiblash' o'rtasidagi asosiy farq nima?",
+   "variantlar": [
+    "Farqi yo'q, bir xil",
+    "Markerlash — nuqta yoki belgisa, tartiblash — raqam yoki harflar bilan",
+    "Markerlash — raqam bilan, tartiblash — nuqta bilan",
+    "Markerlash faqat bir abzasga, tartiblash — butun hujjatga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bosh satr chekinishini o'rnatishda gorizontal chizg'ichi qaysi ko'rsatkichidan foydalaniladi?",
+   "variantlar": [
+    "O'rtadagi ko'rsatkichdan",
+    "Butun chizg'ichdan",
+    "Pastdagi ko'rsatkichdan",
+    "Yuqori ko'rsatkichdan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Abzas chekinishini kamaytirish uchun gorizontal chizg'ich ko'rsatkichini qaysi yo'nalishda surish kerak?",
+   "variantlar": [
+    "Chapga",
+    "Pastga",
+    "O'ngga",
+    "Tepaga"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Formatlashdagi ko'rinmas belgilari ko'rinib turganida quyidagi variantlarning qaysi biri ko'rinadi?",
+   "variantlar": [
+    "Faqat raqamlari",
+    "Abzas chekinishlari, satr tugashlari va boshqa xizmat belgilari",
+    "Faqat boshlang'ich harflar",
+    "Faqat paragraflar"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar abzasda chapdan chekinish oshirilsa va sahifa kengligi bo'yicha tekislansa, matnning o'ng tomonda nima bo'ladi?",
+   "variantlar": [
+    "O'ng tomondan matn so'ng qoladi",
+    "O'ng tomondan to'liq tekislanadi",
+    "O'ng tomondan matn qisqaradi",
+    "O'ng tomondan keyinchalik bo'shliq qoladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matn mazmuniga mos ravishda turli abzaslarini turli satrlar oralig'i bilan formatlashda qaysi qoida ko'zlari asosiy?",
+   "variantlar": [
+    "Satrlar oralig'i muhim emas",
+    "Faqat bir xil satrlar oralig'i ishlatish kerak",
+    "Hamma abzaslar uchun maksimal satrlar oralig'i",
+    "Muhim qismlar uchun bo'sh satrlar oralig'i, oddiy qismlar uchun sıq satrlar oralig'i"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar formatlashdagi ko'rinmas belgilari ko'rinib tursa, abzas chekinishning aniq qiymatlari gorizontal chizg'ichda qanday ko'rinadi?",
+   "variantlar": [
+    "Belgilar va ko'rsatkichlar bilan ifodalanadi",
+    "Matn ichida ko'rinadi",
+    "Faqat raqamlar bilan",
+    "Ko'rinmas bo'lib turadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar birinchi abzasda satrlari oralig'i 'bir' qilinsa, ikkinchi abzasda 'ikki' qilinsa, matnning ko'rinishi nima bo'ladi?",
+   "variantlar": [
+    "Matn xato bo'ladi",
+    "Farqi yo'q",
+    "Birinchi abzas sıq, ikkinchi abzas bo'sh bo'ladi",
+    "Birinchi abzas bo'sh, ikkinchi abzas sıq bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar abzas fonini qizil rang qilsangiz, abzas chegarasini ko'k chiziq qilsangiz, hujjatda nima ko'rinadi?",
+   "variantlar": [
+    "Faqat qizil rang",
+    "Qizil rang bilan ko'k chegara",
+    "Matn ko'rinmaydi",
+    "Faqat ko'k chiziq"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir hujjatda birinchi abzasda o'rtadan tekislash, ikkinchi abzasda o'ngdan tekislash, uchinchi abzasda chapdan tekislash qo'llanilsa, hujjat qanday ko'rinadi?",
+   "variantlar": [
+    "Faqat birinchi abzas ko'rinadi",
+    "Turli yo'nalishlardan tekislangan, ko'ri noto'rtakib ko'rinadi",
+    "Juda tartibli va teng bo'ladi",
+    "Xato bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bosh satr chekinishini va abzas chekinishini turli qiymatlarga belgilasangiz, gorizontal chizg'ichda nechta ko'rsatkich ko'rinadi?",
+   "variantlar": [
+    "Uch ta ko'rsatkich",
+    "To'rt ta ko'rsatkich",
+    "Ikkita ko'rsatkich",
+    "Faqat bitta ko'rsatkich"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rasmiy hujjatda matnni sahifa kengligi bo'yicha tekislasi va bir vaqtda o'ngdan tekislashni qo'llasangiz, natija qanday bo'ladi?",
+   "variantlar": [
+    "Matn faqat o'ngdan tekislanadi",
+    "Matn faqat sahifa kengligi bo'yicha tekislanadi",
+    "Matn chapdan tekislanadi",
+    "Ikkala o'zgarish e'lon qilinadi, lekin oxirgi qo'llanilgan usul ishlamaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi operatsiyalardan qaysi biri turli abzas strukturasini yaratishda eng ko'p ta'sir qiladi?",
+   "variantlar": [
+    "Abzas chekinishini o'zgartirish",
+    "Abzas tekislashini o'zgartirish",
+    "Satrlar oralig'ini o'zgartirish",
+    "Shrift o'lchamini o'zgartirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matn mazmuniga mos ravishda abzaslarni turli chekinish qiymatlari bilan formatlasa, nima shart bo'ladi?",
+   "variantlar": [
+    "Muhim qismlar uchun katta chekinish, fon matn uchun kichik chekinish qo'llanilishi mumkin",
+    "Hamma abzaslar bir xil chekinish bo'lishi kerak",
+    "Chekinish matnning mazmuniga ta'sir qilmaydi",
+    "Faqat birinchi abzas chekinishi kerak"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

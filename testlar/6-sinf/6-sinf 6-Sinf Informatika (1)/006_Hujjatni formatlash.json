@@ -1,0 +1,337 @@
+{
+ "sinf": "6-sinf",
+ "kitob": "6-sinf 6-Sinf Informatika (1)",
+ "mavzu": "Hujjatni formatlash",
+ "savollar": [
+  {
+   "savol": "Hujjatni formatlash deganda nima tushuniladi?",
+   "variantlar": [
+    "Hujjatni saqlash",
+    "Hujjatni chop etish",
+    "Matnga rang qo'shish",
+    "Matnning tashqi ko'rinishini go'zal qilish uchun shrift, o'lcham, abzas kabi bezaklar bilan boyitish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnning belgilangan qismi qanday aytiladi?",
+   "variantlar": [
+    "Blok",
+    "Abzas",
+    "Qism",
+    "Bosh satr"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnni formatlash uchun birinchi qadam nima?",
+   "variantlar": [
+    "Formatlanishi kerak bo'lgan qism belgilanadi, ya'ni blokka olinadi",
+    "Menyu ochish",
+    "Fayl saqlash",
+    "Shrift rangini tanlash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shrift parametrlari nechta turga bo'linadi?",
+   "variantlar": [
+    "8 ta",
+    "7 ta",
+    "5 ta",
+    "6 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Abzasni formatlash uchun birinchi qadam nima?",
+   "variantlar": [
+    "Yurgich shu abzasga joylashtiriladi",
+    "Shrift parametrlarini o'zgartirish",
+    "Abzasning barcha matnini belgilash",
+    "Sahifa formatini o'zgartirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sahifa tartib raqami odatda qaerga joylashtiriladi?",
+   "variantlar": [
+    "Sahifa quyisiga",
+    "Sahifa tepasiga",
+    "Sahifa o'ng tarafiga",
+    "Sahifa o'rtasiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Masshtab parametri nima uchun ishlatiladi?",
+   "variantlar": [
+    "Belgilarni yuqoriga yoki quyiga siljitadi",
+    "Belgilar rangi o'zgaradi",
+    "Belgilar orasidagi bo'shliqni oshiradi",
+    "Belgilarning sahifada aks etadigan ko'lamini oshiradi yoki kamaytiradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Oraliq punkti qanday o'zgarish kiritadi?",
+   "variantlar": [
+    "Shrift o'lchami o'zgaradi",
+    "Belgilarni satrga nisbatan siljitadi",
+    "Belgilar orasidagi bo'shliqni oshiradi yoki kamaytiradi",
+    "Sahifada ko'rniladigan ko'lamni o'zgartiradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Siljish punkti qanday amalni bajaradi?",
+   "variantlar": [
+    "Belgilar rangini o'zgartiradi",
+    "Belgilarni satrga nisbatan yuqoriga yoki quyiga siljitadi",
+    "Belgilar orasidagi bo'shliqni o'zgartiradi",
+    "Belgilarning o'lchami oshiradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shrift parametrlari muloqot oynasi qancha qatlamdan iborat?",
+   "variantlar": [
+    "Uchta",
+    "To'rtta",
+    "Ikkita - Shrift va Qo'shimcha",
+    "Bitta"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnni formatlash uchun qancha turli usul mavjud?",
+   "variantlar": [
+    "Faqat Bosh menyu orqali",
+    "Faqat muloqot oynasi orqali",
+    "Bosh menyu yoki muloqot oynasi orqali",
+    "Faqat tugmalar orqali"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Abzas tekislanish usullari qancha turni o'z ichiga oladi?",
+   "variantlar": [
+    "Uchta - chap, o'rtada, o'ng",
+    "To'rtta - chapdan, o'rtadan, o'ngdan, sahifa kengligi bo'yicha",
+    "Ikkita - chap va o'ng",
+    "Beshta"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matn darajasini o'zgartirish uchun qanday imkoniyatlar mavjud?",
+   "variantlar": [
+    "Asosiy matn yoki turli sarlavha darajalarini tanlash",
+    "Faqat turli sarlavha darajalarini tanlash",
+    "Oddiy matn yoki asosiy matn",
+    "Faqat oddiy matn"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sahifa tartib raqami berish uchun qaysi tasmasi tanlanadi?",
+   "variantlar": [
+    "Tahrir tasmasi",
+    "Joylashtirish tasmasi",
+    "Rasm tasmasi",
+    "Sahifa tasmasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Abzas parametrlari muloqot oynasi nechta qatlamdan tashkil topgan?",
+   "variantlar": [
+    "To'rtta qatlam",
+    "Ikkita qatlam - Chekinishlar va oraliqlar; Sahifadagi holati",
+    "Bitta qatlam",
+    "Uchta qatlam"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bosh satrni abzasning qolgan satrlariga nisbatan chetlanish masofasini tanlash uchun nima ishlatiladi?",
+   "variantlar": [
+    "Tugma",
+    "Chizg'ich",
+    "Muloqot oynasi",
+    "Menyu"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Abzasdan avval tashlanadigan oraliq qanday o'lchanadi?",
+   "variantlar": [
+    "Punkt hisobida",
+    "Pikseldа",
+    "Santimetrda",
+    "Millimetrda"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Abzas satrlari orasidagi masofani tanlash uchun qanday tanlov mavjud?",
+   "variantlar": [
+    "Istalgan son",
+    "Faqat bir yoki ikki",
+    "Bir, ikki yoki minimum",
+    "Bir, bir yarim, ikki, minimum, aniq, ko'proq"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnning tashqi ko'rinishini go'zal qilish uchun qaysi elementlar ishlatiladi?",
+   "variantlar": [
+    "Faqat shrift turi",
+    "Faqat chegara chizish",
+    "Shrift turi, o'lcham, rang, abzas tekislanishi, chegara chizish va boshqa bezaklar",
+    "Faqat o'lcham va rang"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sahifa xususiyatlarini to'liq bilish uchun matnning qaysi bo'limiga murojaat etish kerak?",
+   "variantlar": [
+    "Faqat oxirgi bo'limga",
+    "Faqat birinchi bo'limga",
+    "Rasm bilan berilgan bo'limga",
+    "Avval ko'rilgan bo'limlarga"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar matnda belgilangan qismga masshtab 200% qo'llanilsa, shrift o'lchami qanday o'zgaradi?",
+   "variantlar": [
+    "Shrift o'lchami 2 marta kattalashadi",
+    "Shrift o'lchami o'zgarmasligi hozil, faqat sahifada aks etadigan ko'lam 2 marta kattalashadi",
+    "Shrift o'lchami va sahifada aks etadigan ko'lam ikkalasi 2 marta kattalashadi",
+    "Shrift o'lchami 2 marta kichiklaşadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda belgilangan qismga 'tagchiziq', 'rang', 'yozuv shakli' kabi xususiyatlarni qo'llay olasiz. Bu qaysi turdagi formatlash?",
+   "variantlar": [
+    "Faqat abzas formatlashi",
+    "Faqat sahifa formatlashi",
+    "Matnni formatlash",
+    "Abzasni formatlash"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Shrift parametrlari muloqot oynasining Qo'shimcha qatlamida qancha tanlov maydonchasi mavjud?",
+   "variantlar": [
+    "2 ta - Masshtab, Oraliq",
+    "5 ta",
+    "3 ta - Masshtab, Oraliq, Siljish",
+    "4 ta - Masshtab, Oraliq, Siljish, Rang"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar abzasga 'Masshtab: birinchi so'z 200%, ikkinchi so'z 100%' qo'llanilsa, qanday natija bo'ladi?",
+   "variantlar": [
+    "Ikkala so'z ham kichiklaşadi",
+    "Birinchi so'z kichikroq bo'ladi",
+    "Birinchi so'z kattaroq bo'ladi, ikkinchi so'z oddiy bo'ladi",
+    "Ikkala so'z ham kattalaşadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Abzas parametrlari muloqot oynasi qaysi ikki qatlamni o'z ichiga oladi?",
+   "variantlar": [
+    "Bosh satr va Qolgan satrlar",
+    "Chekinishlar va oraliqlar; Sahifadagi holati",
+    "Shrift va Qo'shimcha",
+    "Matn va Abzas"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda 'Oraliq: Siyrak 3 punkt' qo'llanilsa, qanday natija bo'ladi?",
+   "variantlar": [
+    "Belgilar orasidagi bo'shliq 3 punktga ortiqlashadi",
+    "Hech qanday o'zgarish bo'lmaydi",
+    "Belgilar siyrak ko'rinishga olinadi va oraliq 3 punktga ortiqlashadi",
+    "Belgilar o'lchami 3 punktga ortiqlashadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Blokka olish' va 'yurgich joylashtrish' orasida qanday farq?",
+   "variantlar": [
+    "Blokka olish matnni tanlash, yurgich joylashtrish abzasni belgilash uchun ishlatiladi",
+    "Blokka olish hujjatni, yurgich joylashtrish satrni belgilaydi",
+    "Hech farq yo'q",
+    "Blokka olish faqat shrift o'zgartirishini, yurgich joylashtrish faqat abzas o'zgartirishini ta'minlaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matn protsessorida matnni formatlash uchun qanday asosiy qadamlar bajariladi?",
+   "variantlar": [
+    "Faqat menyu ochiladi",
+    "Formatlanishi kerak bo'lgan qism belgilanadi, keyin xususiyatlar tanlanadi",
+    "Butun hujjat belgilanadi va oxirida saqlashni bosish",
+    "Faqat shrift parametrlarini tanlash"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sahifanga tartib raqami berish uchun qaysi menyudan foydalaniladi?",
+   "variantlar": [
+    "Bosh menyu",
+    "Sahifa menyu",
+    "Joylashtirish menyu ichidagi Kolontitullar guruhi",
+    "Tahrir menyu"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnning belgilangan qismiga qo'llanilayotgan formatlashlar 'shrift', 'abzas' va 'sahifa' ning qaysi-qaysilarini o'z ichiga oladi?",
+   "variantlar": [
+    "Faqat shriftni",
+    "Shrift, abzas va sahifani",
+    "Faqat abzasni",
+    "Shrift va abzasni"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

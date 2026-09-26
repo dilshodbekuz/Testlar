@@ -1,0 +1,337 @@
+{
+ "sinf": "6-sinf",
+ "kitob": "6-sinf 6-Sinf Informatika",
+ "mavzu": "HUJJATLARNI TAHRIR QILISH",
+ "savollar": [
+  {
+   "savol": "Matnni tahrir qilish deganda nimani tushunasiz?",
+   "variantlar": [
+    "Matnni yangi faylga saqlash",
+    "Matnli hujjatga ixtiyoriy tuzatishlar kiritish",
+    "Matnni boshqa tilga tarjima qilish",
+    "Matnni faqat o'chirib tashlash"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Blok deganda nimani tushunasiz?",
+   "variantlar": [
+    "Matn yozilganda xatolar",
+    "Matnda belgilangan biror qism",
+    "Yurgichni o'rnatish",
+    "Matndagi har bir belgi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga yangi belgi kiritishda yurgich qayda joylashtiriladi?",
+   "variantlar": [
+    "Belgilar kiritilishi kerak bo'lgan joyiga",
+    "Matn oxiriga",
+    "Matn boshiga",
+    "Hujjatdan tashqarida"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Delete klavishi qanday ishlaydi?",
+   "variantlar": [
+    "Butun qatorni o'chiradi",
+    "Yurgichdan keyin turgan belgini o'chiradi",
+    "Hujjatni o'chiradi",
+    "Yurgichdan oldin turgan belgini o'chiradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Backspace klavishi nima uchun ishlatiiladi?",
+   "variantlar": [
+    "Qatorni o'chirish uchun",
+    "Hujjatni saqlash uchun",
+    "Yurgichdan oldin turgan belgini o'chirish uchun",
+    "Yurgichdan keyin turgan belgini o'chirish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ctrl + A klavishlar kombinatsiyasi qanday ishlamdi?",
+   "variantlar": [
+    "Hujjatni to'liq belgilaydi",
+    "Bitta qatorni belgilaydi",
+    "Bitta so'zni belgilaydi",
+    "Bitta harf belgilaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sichqoncha chap tugmasini 2 marta bosish qanday amal bajaradi?",
+   "variantlar": [
+    "Abzasni belgilaydi",
+    "Gapni belgilaydi",
+    "So'zni belgilaydi",
+    "Qatorni belgilaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sichqoncha chap tugmasini 3 marta bosish qanday amal bajaradi?",
+   "variantlar": [
+    "Abzasni belgilaydi",
+    "Gapni belgilaydi",
+    "Sahifani belgilaydi",
+    "So'zni belgilaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shift + o'ng yo'nalish klavishi ketma-ketlikni qanday belgilaydi?",
+   "variantlar": [
+    "Butun qatorni",
+    "Butun hujjatni",
+    "Belgining o'ng tomoniga",
+    "Belgining chap tomoniga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nusxalash tugmasi qaysi tasma va guruhda joylashgan?",
+   "variantlar": [
+    "Bosh tasmasining Almashtirish buferi guruhida",
+    "Design tasmasi",
+    "Insert tasmasi",
+    "Review tasmasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matga yangi belgi qo'shish uchun quyidagi amallarning to'g'ri ketma-ketligi qaysi?",
+   "variantlar": [
+    "Belgini yozish → Ctrl+Z",
+    "Belgini yozish → Yurgichni o'rnatish",
+    "Yurgichni o'rnatish → Belgini yozish",
+    "Yurgichni o'rnatish → Yurgichni harakatlantirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matn qismini blokka olish uchun Shift va yo'nalish klavishlarini ishlatganda:",
+   "variantlar": [
+    "Yurgichni harakatlantirish yetarli",
+    "Yurgichni kerakli joyga o'rnatish → Shift+yo'nalish klavishlarini bosish",
+    "Yurgichni kerakli joyga o'rnatish yetarli",
+    "Shift tugmasini bosmasdan yo'nalish klavishlarini bosish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Belgilangan qismni o'chirish uchun:",
+   "variantlar": [
+    "Backspace tugmasini bosish yetarli",
+    "Qismni belgilash va Backspace tugmasini bosish",
+    "Qismni belgilash va Delete tugmasini bosish",
+    "Delete tugmasini bosish yetarli"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnning biror qismini boshqa joyga ko'chirib o'tkazishning 1-usuli:",
+   "variantlar": [
+    "Sichqoncha yordamida siljitish",
+    "Nusxalash va Joylashtirish",
+    "Qirqib olish va Joylashtirish tugmasini bosish",
+    "Delete va Insert tugmalarini bosish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnning biror qismini boshqa joyga ko'chirib o'tkazishning 2-usuli:",
+   "variantlar": [
+    "Ctrl+V tugmasini bosish",
+    "Qirqib olish",
+    "Shift+Tab tugmasini bosish",
+    "Sichqoncha chap tugmasini bosib turgan holda kerakli joyga siljitish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nusxa ko'chirish jarayonida asosiy farq:",
+   "variantlar": [
+    "Nusxalash uchun belgilangan qism almashtirish buferida saqlanadi, original qism o'chirilmaydi",
+    "Nusxalash faqat Bosh tasmada mumkin",
+    "Nusxalash uchun belgilangan qism o'chiriladi",
+    "Nusxalash uchun hujjat saqlash kerak"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Izlash va almashtirish muloqot oynasini chaqirish uchun:",
+   "variantlar": [
+    "Faqat Ctrl + F tugmasini bosish",
+    "Faqat Bosh menyu → Tahrirlash → Almashtirish tugmasini bosish",
+    "Ctrl + F tugmasini bosish yoki Bosh menyu → Tahrirlash → Almashtirish tugmasini bosish",
+    "Shift+F5 tugmasini bosish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Izlash va almashtirish oynasining asosiy maydonlari qaysilari?",
+   "variantlar": [
+    "Найти va Заменить на maydonlari",
+    "Faqat Найти maydoni",
+    "Faqat Заменить maydoni",
+    "Nusxalash va Joylashtirish maydonlari"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qirqib olish bufferi degani nima?",
+   "variantlar": [
+    "Doimiy saqlash xotirasining bir qismi",
+    "Faqat rasmlar uchun xotira",
+    "Grafik fayllar uchun xotira",
+    "Vaqtinchalik yordamchi xotira, belgilangan qism shu yerda saqlanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Microsoft Word nusxani joylashtirishning nechta turli usulini tavsiya etadi?",
+   "variantlar": [
+    "Bitta usul",
+    "2 ta usul",
+    "4 ta usul",
+    "3 ta usul"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnni tahrirlashda quyidagi amallardan qaysilari bajarilishi mumkin?",
+   "variantlar": [
+    "Belgi o'chirish, almashtrish, qo'shish, matnning turli qismini o'chirish, nusxalash, ko'chirish",
+    "Faqat belgi qo'shish",
+    "Faqat nusxalash",
+    "Faqat belgi o'chirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda belgini o'chirishning ikkita usuli qayasida qo'llaniladigan?",
+   "variantlar": [
+    "Faqat Delete tugmasi yurgich oldidagi belgiga qo'llaniladi",
+    "Faqat Backspace tugmasi yurgich keyin turgan belgiga qo'llaniladi",
+    "Yurgich belgidan oldin bo'lsa Delete, keyin bo'lsa Backspace ishlatiiladi",
+    "Ikkalasi ham bir xil joyda ishlatiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Shift + yo'nalish klavishlari bosishda belgilash qanday bajariladi?",
+   "variantlar": [
+    "Yurgichdan boshlab tanlangan so'nggi belgikacha belgilanadi",
+    "Bitta harf belgilanadi",
+    "Butun qator belgilanadi",
+    "Bitta so'z belgilanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Blok ajratishning sichqoncha yordamida amalga oshiriluvchi usullari qaysilari?",
+   "variantlar": [
+    "Sichqoncha chap tugmasini bosib turgan holda harakatlantirish va matnning turli qismini bir necha marta bosish",
+    "Faqat Ctrl+A",
+    "Faqat Shift+yo'nalish",
+    "Delete tugmasini bosish orqali"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nusxalash va ko'chirib o'tkazishning asosiy farqi qayda?",
+   "variantlar": [
+    "Nusxalashda original qism saqlanadi, ko'chirib o'tkazishda o'chiriladi",
+    "Farq yo'q, bu bir xil amallar",
+    "Ikkalasida ham original bir xil holda qoladi",
+    "Ko'chirib o'tkazishda sichqoncha ishlatiladi, nusxalashda yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Izlash va almashtirish oynasida belgilangan so'zni topish uchun qaysi maydondan foydalaniladi?",
+   "variantlar": [
+    "Tahrirlash maydoni",
+    "Заменить на maydoni",
+    "O'tish maydoni",
+    "Найти maydoni"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Izlash va almashtirish oynasining qaysi tugmasi faqat bitta so'z yoki iborani almashtradi?",
+   "variantlar": [
+    "Keyingisi izlansin (Найти далее)",
+    "O'tish (Перейти)",
+    "Barchasi almashtirilsin (Заменить все)",
+    "Almashtirilsin (Заменить)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Blok ajratishning quyidagi usullarini solishtiring. Qaysi jadval to'g'ri?",
+   "variantlar": [
+    "Delete - qismni o'chirib emas, belgilaydi",
+    "Sichqoncha 2 marta - so'zni belgilaydi, sichqoncha 3 marta - abzasni belgilaydi",
+    "Yurgich o'rnatish - belgini kiritadi",
+    "Ctrl+A - bir qatorni belgilaydi, Shift+→ - bir belgini belgilaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Izlash va almashtirish oynasida 'Barchasi almashtirilsin' tugmasini bosganda:",
+   "variantlar": [
+    "Hujjat to'liq o'chiriladi",
+    "Yashiringan so'zlar almashtiriladi",
+    "Hujjatda topilgan barcha mos so'zlar almashtiriladi",
+    "Bitta so'z almashtiriladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matn tahrirlashda qo'l yozuv va yozuv mashinasida yozilgan matnni qayta yozishdan farg'i nima?",
+   "variantlar": [
+    "Matn protsessorlari va muharrirlari ixtiyoriy tuzatishlar kiritish imkoniyatini beradi",
+    "Xech farq yo'q",
+    "Qo'lda yozilgan matnni tuzatish osonroq",
+    "Yozuv mashinasida yozilgan matnni tahrir qilish mumkin emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

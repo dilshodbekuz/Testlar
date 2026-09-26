@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Texnologiya",
+ "mavzu": "Barcha mexanizmlar va mashinalar alohida qismlardan tashkil topadi",
+ "savollar": [
+  {
+   "savol": "Mexanizmlar va mashinalar nimadan tashkil topadi?",
+   "variantlar": [
+    "Alohida qismlardan va detallardan",
+    "Faqat tishli g'ildirakdan",
+    "Faqat ko'p sonli boltlardan",
+    "Faqat vallar va o'qlardan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Boltlar va gaykalar qaysi mashinalardan uchraydi?",
+   "variantlar": [
+    "Faqat avtomobilda",
+    "Avtomobilda, velosipedlarda, samolyotlarda va boshqa mashinalarda",
+    "Faqat samolyotda",
+    "Faqat teplovozdda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tishli g'ildiraklar qaysi mashinalarning dvigatellarida uchraydi?",
+   "variantlar": [
+    "Teplovozlar, elektrovozlar, avtomashinalar, kombaynlar va boshqa mashinalarning",
+    "Faqat kombaynda",
+    "Faqat avtomashinada",
+    "Faqat teplovozdda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Detallar nechata guruhga bo'linadi?",
+   "variantlar": [
+    "Beshta guruhga",
+    "To'rtta guruhga",
+    "Ikki guruhga",
+    "Uchta guruhga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bolt qanday shakldagi boshchali o'zakga ega?",
+   "variantlar": [
+    "Dumaloq shakldagi",
+    "Olti qirrali yoki kvadrat shakldagi",
+    "Ellips shakldagi",
+    "Uchburchak shakldagi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Val nima uchun xizmat qiladi?",
+   "variantlar": [
+    "Burovchi kuchni o'z o'qi bo'yicha uzatish uchun",
+    "Detallarni ajratish uchun",
+    "Rezba ochish uchun",
+    "Harakatni to'xtatish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shkiv qanday detali?",
+   "variantlar": [
+    "Reykalog uzatmaning detali",
+    "Tasmali uzatmaning g'ildirak ko'rinishidagi detali",
+    "Tishli g'ildirak",
+    "Vint shaklidagi detali"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Podshipnik nechata turga bo'linadi?",
+   "variantlar": [
+    "Uchta turga",
+    "To'rtta turga",
+    "Beshta turga",
+    "Ikki turga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tishli g'ildirak qanday mexanizmning tarkibiy qismi?",
+   "variantlar": [
+    "Reykalog uzatmaning",
+    "Tasmali uzatmaning",
+    "Bosim mexanizmning",
+    "Tishli mexanizmning"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Metalllar ichida eng egiluvchan qaysi?",
+   "variantlar": [
+    "Aluminiy",
+    "Mis",
+    "Q'o'rg'oshindir",
+    "Rux"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tipovoy detallar qaysilar?",
+   "variantlar": [
+    "Maxsus mo'ljallangan detallar",
+    "Ayrim mashinalardagina qo'llanadigan detallar",
+    "Ko'p mashinalarda qo'llanadigan detallar",
+    "Faqat avtomobilida qo'llanadigan detallar"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shpilka qanday tuzilgan?",
+   "variantlar": [
+    "Kvadrat shakldagi o'zak",
+    "Bir qismi rezbalangan o'zak",
+    "Ikki uchi rezbalangan o'zak",
+    "Boshchali o'zak"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gayka nima uchun qo'llaniladi?",
+   "variantlar": [
+    "Vallarni tutish uchun",
+    "Harakatni uzatish uchun",
+    "Rezba ochilgan teshikli detallarni biriktirishga",
+    "Metalni qisqartish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Vint qanday detali?",
+   "variantlar": [
+    "Dumaloq shakldagi detali, biriktirishga xizmat qiladi",
+    "Boshchali o'zak bo'lib, harakat uzatishga xizmat qiladi",
+    "Rezba ochilgan teshikli detali",
+    "Rezbalgan va boshchali o'zak ko'rinishidagi mustahkamlash detali"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Silindrsimon tishli uzatmalarda qanday harakat uzatiladi?",
+   "variantlar": [
+    "Bir tomonlama harakat saqlanib turadi",
+    "Ilgarilanma harakatni aylanma harakatga",
+    "Aylanma harakatni ilgarilanma harakatga",
+    "Aylanma harakatni bir valdan ikkinchi valga"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Reykalog uzatmada qanday harakatni almashtiriladi?",
+   "variantlar": [
+    "Aylanma harakatni ilgarilanma harakatga",
+    "Aylanma harakatni masofaga",
+    "Ilgarilanma harakatni aylanma harakatga",
+    "Harakat saqlanib turadi, o'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tasmali va zanjirli uzatmalar nimandan tuziladi?",
+   "variantlar": [
+    "Faqat podshipnikdan",
+    "Faqat tishli g'ildirakdan",
+    "Faqat ikkita shkivdan",
+    "Ikkita shkiv, tasma yoki zanjirdan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Podshipnik qaysi turga bo'linadi?",
+   "variantlar": [
+    "Yuqori va pastgi podshipniklariga",
+    "Chap va o'ng podshipniklariga",
+    "Sirpanish va dumalash podshipniklariga",
+    "Birlashtirma va ajratish podshipniklariga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Parmalash stanokida kesichni balandligi qanday tekshiriladi?",
+   "variantlar": [
+    "Oddiy lineyka orqali",
+    "Burchakli shablondan foydalanib",
+    "Xodimning ko'zi bilan baholash orqali",
+    "Metrli o'lchov orqali"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zagatovka qaysi patronga joylashtiriladi?",
+   "variantlar": [
+    "Kvadrat patronga",
+    "Markazlovchi uchburchakli patronga",
+    "Dumaloq patronga",
+    "Oval patronga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar mashina murakkab bo'lsa, uning uzellari va detallari haqida qanday xulosa chiqarish mumkin?",
+   "variantlar": [
+    "Shuningdek sodda bo'ladi",
+    "Shunchalik ko'p bo'ladi",
+    "Umuman yo'q bo'ladi",
+    "Shuningdek murakkab bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ko'p mashinalarda bir xil detallar qo'llanilishining asosiy sababi nima?",
+   "variantlar": [
+    "Faqat xavfsizlik sababiga",
+    "Detalllar arzon narxda sotiladi",
+    "Ishlab chiqarish va almashtirish oson bo'ladi",
+    "Mashina tog'ri ishlashini ta'minlash uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Shpilka va bolt o'rtasidagi asosiy farq nima?",
+   "variantlar": [
+    "Shpilka boltdan kichikdir",
+    "Shpilka dumaloq, bolt to'rtburchakdir",
+    "Shpilka ikki uchi rezbalangan, bolt esa bir qismi rezbalangan",
+    "Shpilka boltdan ko'proq vason"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Vint va boltni bir-biridan farqlashtirish uchun qanday alomati ko'rsatish mumkin?",
+   "variantlar": [
+    "Vintning rezba detalning ichiga burab kiritiladi, bolt esa gayka bilan",
+    "Vint boltdan kattadir",
+    "Vint boltdan kichikdir",
+    "Vint qizil rangli, bolt oq rangli"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tasmali va zanjirli uzatmalarning umumiy xususiyati qanday?",
+   "variantlar": [
+    "Faqat reykalog uzatmada foydalaniladi",
+    "Aylanma harakatni masofaga uzatishga xizmat qiladi",
+    "Aylanma harakatni ikkita valga uzatadi",
+    "Ilgarilanma harakatga aylantiriladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qo'pol ishlovni talab qilganda keskichning joylashishi qanday bo'lishi kerak?",
+   "variantlar": [
+    "Detalning o'qidan 0,5-1 mm baland joylashishi kerak",
+    "Detalning markaziy chizig'i bilan teng balandda",
+    "Detalning markaziy chiziqdan 0,5-1 mm past joylashadi",
+    "Detaldan 2 mm uzoqlashishi kerak"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qattiq materiallarga ishlov berilganda keskichning joylashishi qanday bo'lishi kerak?",
+   "variantlar": [
+    "Detalning markaziy chizig'i bilan teng balandda",
+    "Detalning o'qidan 0,5-1 mm baland joylashishi kerak",
+    "Detalning markaziy chiziqdan 0,5-1 mm past joylashadi",
+    "Detaldan 3 mm uzoqlashishi kerak"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yakuniy ishlovdan keyin keskichning joylashishi qanday bo'lishi kerak?",
+   "variantlar": [
+    "Detaldan 1 mm uzoqlashishi kerak",
+    "Detalning o'qidan 0,5-1 mm baland",
+    "Detalning markaziy chizig'i bilan teng",
+    "Detalning markaziy chiziqdan 0,5-1 mm past"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Shpindelni aylanib turganida qanday amaliyot taqiqlanadi?",
+   "variantlar": [
+    "Kalit bilan qotirilmasligi",
+    "Zagatovkani joylashtirilmasligi",
+    "Detalni o'rnatish",
+    "Parmalarni o'rnatish va almashtirish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektr dvigatelini ishlab turgan paytda qanday amaliyot taqiqlanadi?",
+   "variantlar": [
+    "Patronni qotirilmasligi",
+    "Shpindeli aylantirilmasligi",
+    "Tasmani bir tomondan ikkinchi tomonga o'tkazish",
+    "Zagatovkani almashtirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}
