@@ -34,6 +34,9 @@ test_generator.py        asosiy dastur (sozlamalar fayl boshida)
    (yoki o'chir — qayta aniqlanadi), noto'g'ri mavzu `.json/.txt` larini o'chirib qayta ishga tushir.
 7. Skaner (matnsiz) PDF'lar o'tkazib yuboriladi — foydalanuvchiga ro'yxatini ayt, o'zing OCR qilma
    (foydalanuvchi so'ramasa).
+8. **Skaner PDF'ni matnga o'tkazish:** `ocr/README.md` ga qara. macOS'ning o'z OCR'i
+   ishlatiladi (limit yemaydi, ~160 sahifa/daqiqa). Formulali fanlarga (Algebra,
+   Fizika, Chizmachilik) YARAMAYDI — formulalar buziladi.
 
 ## Format (o'zgartirma)
 ```json
