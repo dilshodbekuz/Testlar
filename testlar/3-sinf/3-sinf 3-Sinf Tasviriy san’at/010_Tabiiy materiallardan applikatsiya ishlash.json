@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Tasviriy san’at",
+ "mavzu": "Tabiiy materiallardan applikatsiya ishlash",
+ "savollar": [
+  {
+   "savol": "Applikatsiya nima?",
+   "variantlar": [
+    "Faqat mato bo'laklaridan yasalgan tasvirga aytiladi",
+    "Qog'ozdan faqat kesib yasalgan tasvirga aytiladi",
+    "Tabiiy materiallar, rang-barang qog'oz va mato bo'laklarini qog'ozga yopishtirish orqali hosil qilingan tasvirga aytiladi",
+    "Daraxt barglaridan yasalgan tasvirga aytiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Applikatsiyalar qaysalar materiallardan tuziladi?",
+   "variantlar": [
+    "Faqat mato bo'laklari",
+    "Faqat daraxt barglari",
+    "Faqat rang-barang qog'oz",
+    "Rang-barang qog'oz, mato bo'laklari va tabiiy materiallardan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Barglarni quritish uchun qayerga qo'yiladi?",
+   "variantlar": [
+    "To'pning quyida",
+    "Shaffof oynaning oldida",
+    "To'pning ustida",
+    "Kitoblar orasiga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tabiiy materiallarning qaysilari applikatsiyada ishlatiladi?",
+   "variantlar": [
+    "Faqat daraxt novdalari",
+    "Faqat daraxt barglari",
+    "Meva urug'lari, daraxt novdalari, shoxlari va barglari",
+    "Faqat meva urug'lari"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kapalakning qanotlari nechta bo'ladi?",
+   "variantlar": [
+    "Oltita",
+    "Uchtata",
+    "Ikki juft (to'rttata)",
+    "Beshtata"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyon quloqlari qanday?",
+   "variantlar": [
+    "Qisqa va qalin",
+    "Qisqa va ingichka",
+    "Uzun va qalin",
+    "O'rtacha uzunlikda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Barglar nima bilan qog'ozga yopishtiriladi?",
+   "variantlar": [
+    "Yelim bilan",
+    "Suv bilan",
+    "Nafta bilan",
+    "Silikat bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Urug'lar qanday suvda yuvilib kerak?",
+   "variantlar": [
+    "Issiq suvda",
+    "Tuz suvda",
+    "Qaynatilgan suvda",
+    "Sovuq suvda"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Applikatsiyada qanday qog'oz ishlatiladi?",
+   "variantlar": [
+    "Faqat oq qog'oz",
+    "Shaffof qog'oz",
+    "Rang-barang qog'oz",
+    "Faqat qora qog'oz"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kapalak applikatsiyasida tanasi nimani ifodalaydi?",
+   "variantlar": [
+    "Kapalakining oyoqlarini",
+    "Kapalakining qanotlarini",
+    "Kapalakining tanasini",
+    "Kapalakining boshini"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kapalak applikatsiyasida ustki qanotlar uchun qanday barglar tanlanadi?",
+   "variantlar": [
+    "Qora va oq barglar",
+    "Ikkita eng chiroyli bir xil barglar",
+    "Turli shaklda barglar",
+    "Qisqa va ingichka barglar"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyon applikatsiyasida burun uchun qaysi material ishlatiladi?",
+   "variantlar": [
+    "Meva urug'i",
+    "Qog'oz bo'lagi",
+    "Mato bo'lagi",
+    "Daraxt bargining bandlari"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Applikatsiya tasviri qog'ozga yopishtirish uchun asosan nima kerak?",
+   "variantlar": [
+    "Yelim",
+    "Rangli qalam",
+    "Shaffof qog'oz",
+    "Suv"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Barglarning chang-g'ubori qanday tozalanadi?",
+   "variantlar": [
+    "Suv bilan",
+    "Artib tozalanadi",
+    "Shaffof qog'oz bilan",
+    "Faqat suniy materiallar bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Applikatsiya yasashda barglardan ehtiyotkorlik bilan foydalanish nima sababli zarur?",
+   "variantlar": [
+    "Barglar suv severada haladigan ta'siri uchun",
+    "Barglar katta bo'lganligi uchun",
+    "Barglar o'ta sinuvchan bo'lganligi uchun",
+    "Barglar qora rangli bo'lganligi uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kapalak applikatsiyasida mo'ylov uchun nima ishlatiladi?",
+   "variantlar": [
+    "Meva urug'lar",
+    "Barg bandlari",
+    "Mato parchasi",
+    "Qog'oz bo'laklari"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyon oyoqlari haqida qaysi ma'lumot to'g'ri?",
+   "variantlar": [
+    "Oldingi oyoqlari ingichka, orqa oyoqlari qalin",
+    "Oldingi oyoqlari orqa oyoqlaridan uzunroq",
+    "Hammasining oyoqlari bir xil uzunlikda",
+    "Oldingi oyoqlari orqa oyoqlaridan kaltaroq"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Applikatsiya yasashdan oldin barglar nima bilan tayyorlanadi?",
+   "variantlar": [
+    "Suvda yuvilib",
+    "Issiq ovinda quritiladi",
+    "Rangi bilan tanlanib, shakli ko'ra tayyorlanadi",
+    "Kukuniga tutib tekislanadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kapalak applikatsiyasida ko'z uchun nima tanlanadi?",
+   "variantlar": [
+    "Qog'ozning dumaloq bo'lagi",
+    "Ikkita bir xil urug'",
+    "Bargning bir bo'lagi",
+    "Mato parchasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ostki qanotlar uchun tanlanadigan barglar qanday?",
+   "variantlar": [
+    "Juda katta barglar",
+    "Kichikroq barglar",
+    "Har xil shaklda barglar",
+    "Juda ingichka barglar"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar kichikroq barglar bo'lmasa, sher applikatsiyasini yasash uchun nima qilish kerak?",
+   "variantlar": [
+    "Qog'ozdan kesib oling",
+    "Sher applikatsiyasini umuman yasab bo'lmaydi",
+    "Faqat kapalak applikatsiyasini yasash kerak",
+    "Katta barglardan kesib oling"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Applikatsiya yasashda barglarni kitoblar orasiga qo'yishning sababi nima?",
+   "variantlar": [
+    "Barglarni sovuq tutish uchun",
+    "Barglarni qo'riqlab qo'yish uchun",
+    "Barglarni tekislab va quritib olish uchun",
+    "Barglarni rangli qilish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kapalak applikatsiyasida tanasi uchun qanday barg tavsiflanadi?",
+   "variantlar": [
+    "Ikkita bir xil barg",
+    "Juda katta va lo'ppi barg",
+    "Kichik va qalin barg",
+    "Ingichka va uzun barg"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyon va kapalak applikatsiyalarida 'lo'ppi yonoq' xususiyati qaysi jonivorga mos keladi?",
+   "variantlar": [
+    "Faqat kapalagiga",
+    "Biron jonivorga ham emas",
+    "Faqat quyonga",
+    "Ikkala jonivorga ham"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Applikatsiya tayyorlangandan so'ng uning bilan nima qilinadi?",
+   "variantlar": [
+    "Papkaga yoki kitob orasiga solinadi va ustidan kitoblar bostirib qo'yiladi",
+    "Darhol sinfga qo'yiladi",
+    "Darhol rangli qalamlar bilan raqamlash qilinadi",
+    "Shaffof qog'ozga o'rigan holda eshikka asalib qo'yiladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar kapalak applikatsiyasida ustki qanotlar uchun turli rangli barglar tanlansa, nima bo'ladi?",
+   "variantlar": [
+    "Kapalak tabiiy ko'rinishi yo'qoladi",
+    "Kapalak tasviri noto'g'ri bo'ladi",
+    "Hamma narsa to'g'ri bo'ladi",
+    "Yelim ishlamaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyonning oldingi va orqa oyoqlari orasidagi farq nima?",
+   "variantlar": [
+    "Oldingi oyoqlari orqa oyoqlaridan uzunroq",
+    "Oldingi oyoqlari orqa oyoqlaridan kaltaroq",
+    "Oldingi oyoqlari lo'ppi",
+    "Ularning o'rtasida farq yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Applikatsiya yasashda barglarning sinuvchanligi nima ta'sir ko'rsatadi?",
+   "variantlar": [
+    "Ehtiyotkorlik bilan ishlashni talab qiladi",
+    "Barglarning rangi soyalangan bo'ladi",
+    "Barglar suv bilan tabiiy holga qaytaradi",
+    "Yelim barglarni yagga yopishtirib qo'yadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kapalak applikatsiyasini to'liq yasash uchun qaysi qismlar asosga yelim bilan yopishtirilishi kerak?",
+   "variantlar": [
+    "Faqat tanasi",
+    "Barcha tana qismlari - qanotlar, tanasi, ko'zlari va mo'ylovlari",
+    "Faqat qanotlar",
+    "Faqat ko'zlari"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sher applikatsiyasining ko'zlari va burni qaysi materialdan yasaladi?",
+   "variantlar": [
+    "Barglardan",
+    "Qog'ozdan",
+    "Mato parchalaridan",
+    "Meva urug'laridan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

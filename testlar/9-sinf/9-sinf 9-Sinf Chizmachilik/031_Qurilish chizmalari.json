@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Chizmachilik",
+ "mavzu": "Qurilish chizmalari",
+ "savollar": [
+  {
+   "savol": "Binoning yer osti qismi qanday ataladi?",
+   "variantlar": [
+    "Poydevor",
+    "Sokol",
+    "Devor",
+    "Karniz"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Binoning gorizontal tekislikdagi tasviri qanday nomlanadi?",
+   "variantlar": [
+    "Qirqim",
+    "Bosh plan",
+    "Plan",
+    "Fasad"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Binoning profil tekislikdagi vertikal tasviri qanday ataladi?",
+   "variantlar": [
+    "Fasad",
+    "Qirqim",
+    "Bosh plan",
+    "Plan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Binoning olddan qirqim qo'llanilmagan tasviri qanday nomlanadi?",
+   "variantlar": [
+    "Sokol",
+    "Qirqim",
+    "Fasad",
+    "Plan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bosh plan qaysi dizayn talabiga muvofiq loyihalanadi?",
+   "variantlar": [
+    "Interyer dizayni",
+    "Landshaft dizayni",
+    "Grafik dizayn",
+    "Sanoat dizayni"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bosh planda shamolning ko'proq esish tomonidan tashqari yana qanday belgilar qo'yiladi?",
+   "variantlar": [
+    "Yuqori va quyi",
+    "Sharq va g'arb",
+    "Old va orqa",
+    "Shimol va janub"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bino devorining yuqori qismidagi gorizontal chiqiq qanday ataladi?",
+   "variantlar": [
+    "Karniz",
+    "Poydevor",
+    "Mo'rkon",
+    "Sokol"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Parda devorlarning qalinligi qancha bo'ladi?",
+   "variantlar": [
+    "20-25 cm",
+    "2-4 cm",
+    "8-12 cm",
+    "30-40 cm"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Poydevor qanday vazifani bajaradi?",
+   "variantlar": [
+    "Yog'in-sochindan himoya qiladi",
+    "Binodan keladigan yukni tuproqqa o'tkazadi",
+    "Xonani shamollatadi",
+    "Xonani yoritadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qurilish chizmalarida asosiy tasvir turlariga nimalar kiradi?",
+   "variantlar": [
+    "Plan, fasad, qirqim",
+    "Faqat plan",
+    "Faqat qirqim",
+    "Faqat fasad"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Binoning planida qirqimga tushgan asosiy ko'taruvchi devorlar qanday chiziq bilan tasvirlanadi?",
+   "variantlar": [
+    "Tutash yo'g'on chiziq",
+    "Ingichka tutash chiziq",
+    "Punktir chiziq",
+    "Shtrix chiziq"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Xonalarni ajratib turuvchi parda devorlar qirqimga tushgan bo'lsa, ular qanday chiziqda tasvirlanadi?",
+   "variantlar": [
+    "Punktir chiziqda",
+    "Ingichka tutash chiziqda",
+    "Ikki nuqtali chiziqda",
+    "Tutash yo'g'on chiziqda"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bosh planlar qanday masshtabda chiziladi?",
+   "variantlar": [
+    "M 1:5 yoki M 1:10",
+    "M 1:1 yoki M 1:2",
+    "M 1:500 yoki M 1:1000",
+    "M 1:10 yoki M 1:20"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Binolarning katta-kichikligiga qarab ular qaysi masshtabda chiziladi?",
+   "variantlar": [
+    "M 1:10000",
+    "M 1:500 yoki M 1:1000",
+    "M 1:100 yoki M 1:50",
+    "M 1:1000 yoki M 1:2000"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qurilish chizmalaridagi chiziqli o'lchamlar asosan qanday birlikda qo'yiladi?",
+   "variantlar": [
+    "Metrlarda",
+    "Millimetrlarda",
+    "Kilometrlarda",
+    "Detsimetrlarda"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'lcham chiziqlari va chiqarish chiziqlari kesishgan joyga qanday belgi chiziladi?",
+   "variantlar": [
+    "Doira belgisi",
+    "45° qiyalikdagi shtrix chiziqcha",
+    "Nuqta belgisi",
+    "90° gorizontal chiziq"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sokol devordan qancha masofaga tashqariga chiqib turadi?",
+   "variantlar": [
+    "10-12 cm",
+    "1-3 cm",
+    "30-35 cm",
+    "20-25 cm"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sokol devorga nisbatan ichkariga qancha kirib turishi mumkin?",
+   "variantlar": [
+    "15 cm gacha",
+    "1 cm gacha",
+    "4 cm gacha",
+    "10 cm gacha"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tashqi va ichki asosiy devorlarda nima uchun kanal (mo'ri)lar quriladi?",
+   "variantlar": [
+    "Gaz quvurlari uchun",
+    "Xonalarni shamollatish uchun",
+    "Suv o'tkazish uchun",
+    "Elektr simlari uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'lchamlarni chizmada qanday tarzda qo'yish qabul qilingan?",
+   "variantlar": [
+    "Yopiq zanjir tarzida",
+    "Tarqoq holda",
+    "Ochiq zanjir tarzida",
+    "Faqat markazda"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ko'p qavatli binoning har bir qavatida xonalarning joylashishi turlicha bo'lsa, plan qanday chiziladi?",
+   "variantlar": [
+    "Har bir qavat uchun alohida plan chiziladi",
+    "Faqat oxirgi qavat plani chiziladi",
+    "Faqat birinchi qavat plani chiziladi",
+    "Faqat bitta umumiy plan chiziladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ko'p qavatli binolarda xonalarning joylashishi barcha qavatlarda bir xil bo'lsa, qanday yondashuv qo'llaniladi?",
+   "variantlar": [
+    "Eng yuqori qavat plani qirqimda ko'rsatiladi",
+    "Plan umuman chizilmaydi",
+    "Har bir qavat uchun alohida plan chiziladi",
+    "Faqat birinchi qavat plani chiziladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Fasadlarni tasvirlash qaysi ikki tasvirga asoslanib amalga oshiriladi?",
+   "variantlar": [
+    "Sokol va karniz",
+    "Poydevor va devor",
+    "Bino plani va qirqimi",
+    "Bosh plan va qirqim"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Binoning qirqimida balandlik o'lchamlaridan tashqari yana qanday belgilar qo'yiladi?",
+   "variantlar": [
+    "Yer sathi, pol, xona balandliklari, karniz, shift, tom belgilari",
+    "Faqat qurilish sanasi",
+    "Faqat materiallar nomi",
+    "Faqat rang belgilari"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bitta chizmada bino va uning elementlari turli masshtablarda chizilganda, nima qilish kerak?",
+   "variantlar": [
+    "Faqat bosh masshtab yoziladi",
+    "Hech narsa qilish shart emas",
+    "Har bir tasvirga uning masshtabi yoziladi",
+    "Masshtablarni bir xillashtirish kerak"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qurilish chizmalarida qirqimga tushgan devorlar bilan bog'liq qanday qoida mavjud?",
+   "variantlar": [
+    "Shartli shtrixlanmasliklari mumkin",
+    "Har doim shtrixlanishi shart",
+    "Faqat qora rangda bo'lishi kerak",
+    "Ikki marta shtrixlanishi kerak"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Binoning qirqimida zinaxona bilan bog'liq qanday elementlar ko'rsatiladi?",
+   "variantlar": [
+    "Zina maydonchalari va pillapoyalari",
+    "Faqat zina rangi",
+    "Zina og'irligi",
+    "Faqat zina uzunligi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Poydevor haqida qirqimda qanday ma'lumotlar beriladi?",
+   "variantlar": [
+    "Faqat rangi",
+    "Faqat narxi",
+    "Chuqurligi, shakli va boshqalar",
+    "Faqat qurilish vaqti"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Karniz vazifalarini to'g'ri tavsiflang: u nima uchun xizmat qiladi?",
+   "variantlar": [
+    "Faqat yukni ko'tarish uchun",
+    "Faqat bezash uchun",
+    "Tomni tutib turish, devorni yog'in-sochindan himoya qilish va bezash uchun",
+    "Faqat shamollatish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Loyiha topshirig'i asosida ishlab chiqiladigan texnik loyiha chizmalariga nimalar kirmaydi?",
+   "variantlar": [
+    "Bosh plan",
+    "Binoning plani",
+    "Materiallar narxi ro'yxati",
+    "Qirqimlari"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

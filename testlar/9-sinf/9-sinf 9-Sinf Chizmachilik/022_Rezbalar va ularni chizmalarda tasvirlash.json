@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Chizmachilik",
+ "mavzu": "Rezbalar va ularni chizmalarda tasvirlash",
+ "savollar": [
+  {
+   "savol": "Rezbalar chizmada qaysi standart bo'yicha shartli tasvirlanadi?",
+   "variantlar": [
+    "O'zDSt 2.311:2003",
+    "GOST 2.305",
+    "ISO 9001",
+    "O'zDSt 1.100:2005"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Boltga o'yiladigan rezba qayerda o'yiladi?",
+   "variantlar": [
+    "Shaybada",
+    "Sterjenda",
+    "Gaykada",
+    "Teshikda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gaykaga o'yiladigan rezba qayerda o'yiladi?",
+   "variantlar": [
+    "Sterjenda",
+    "Teshikda",
+    "Boltda",
+    "Shpilkada"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Metrik rezba profili qanday shaklda bo'ladi?",
+   "variantlar": [
+    "Teng tomonli uchburchak, uchi 60°",
+    "Kvadrat shakl",
+    "Teng yonli uchburchak, uchi 55°",
+    "Doira shakl"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quvurli rezba profilining uchidagi burchagi nechchi darajaga teng?",
+   "variantlar": [
+    "45°",
+    "60°",
+    "55°",
+    "90°"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Metrik rezba o'lchami oldiga qanday harf qo'yiladi?",
+   "variantlar": [
+    "D",
+    "M",
+    "G",
+    "R"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 dyuymli quvurli rezba chizmada qanday belgilanadi?",
+   "variantlar": [
+    "M1",
+    "P1",
+    "D1",
+    "G1"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rezba diametri va qadamini ko'rsatuvchi yozuv nima deb ataladi?",
+   "variantlar": [
+    "Rezbani belgilash",
+    "Rezbani qirqish",
+    "Rezbani o'lchash",
+    "Rezbani yasash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gaykada faskalar necha tomonlama bo'ladi?",
+   "variantlar": [
+    "Ikki tomonlama",
+    "Bir tomonlama",
+    "Uch tomonlama",
+    "Faskasiz bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gaykadagi teshik qirqimda (kesimda) qanday tasvirlanadi?",
+   "variantlar": [
+    "Shtrixlanmay bo'sh qoldiriladi",
+    "Ikki marta shtrixlanadi",
+    "To'liq qirqilib tasvirlanadi",
+    "Qirqilmay tasvirlanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tashqi diametri 24 mm, qadami 2 mm bo'lgan metrik rezbaning shartli belgilanishi qanday yoziladi?",
+   "variantlar": [
+    "M24/2",
+    "M24×2",
+    "G24×2",
+    "M2×24"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bolt uchun d=24 mm bo'lsa, d1 (kichik diametr) necha mm bo'ladi? (d1=0,85d)",
+   "variantlar": [
+    "22 mm",
+    "20,4 mm",
+    "16,8 mm",
+    "24 mm"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bolt uchun d=24 mm bo'lsa, D (kallak diametri) necha mm bo'ladi? (D=2d)",
+   "variantlar": [
+    "36 mm",
+    "24 mm",
+    "20,4 mm",
+    "48 mm"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bolt uchun d=24 mm bo'lsa, H (kallak balandligi) necha mm bo'ladi? (H=0,7d)",
+   "variantlar": [
+    "16,8 mm",
+    "19,2 mm",
+    "24 mm",
+    "20,4 mm"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gayka uchun d=24 mm bo'lsa, H necha mm bo'ladi? (H=0,8d)",
+   "variantlar": [
+    "16,8 mm",
+    "48 mm",
+    "24 mm",
+    "19,2 mm"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gayka uchun d=24 mm bo'lsa, D necha mm bo'ladi? (D=2d)",
+   "variantlar": [
+    "48 mm",
+    "24 mm",
+    "36 mm",
+    "19,2 mm"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shayba uchun d=24 mm bo'lsa, do (teshik diametri) necha mm bo'ladi? (do=1,1d)",
+   "variantlar": [
+    "24 mm",
+    "26,4 mm",
+    "3,6 mm",
+    "52,8 mm"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shayba uchun d=24 mm bo'lsa, D0 necha mm bo'ladi? (D0=2,2d)",
+   "variantlar": [
+    "24 mm",
+    "26,4 mm",
+    "3,6 mm",
+    "52,8 mm"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bolt uchun d=24 mm bo'lsa, l0 necha mm bo'ladi? (l0=2d+6)",
+   "variantlar": [
+    "48 mm",
+    "30 mm",
+    "54 mm",
+    "60 mm"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sterjenga o'yilgan rezbaning katta (tashqi) diametri qanday chiziqda tasvirlanadi?",
+   "variantlar": [
+    "Ingichka tutash chiziqda",
+    "Shtrix chiziqda",
+    "Nuqtali chiziqda",
+    "Asosiy tutash yo'g'on (kontur) chiziqda"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "d=30 mm bo'lgan bolt uchun d1 va D larni hisoblang.",
+   "variantlar": [
+    "d1=24 mm, D=60 mm",
+    "d1=27 mm, D=60 mm",
+    "d1=25,5 mm, D=60 mm",
+    "d1=25,5 mm, D=45 mm"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "d=30 mm bo'lgan gayka uchun H va R larni hisoblang.",
+   "variantlar": [
+    "H=24 mm, R=30 mm",
+    "H=24 mm, R=45 mm",
+    "H=24 mm, R=60 mm",
+    "H=19,2 mm, R=45 mm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "d=30 mm bo'lgan shayba uchun h va c larni hisoblang. (h=0,15d, c=0,25h)",
+   "variantlar": [
+    "h=4,5 mm, c=4,5 mm",
+    "h=4,5 mm, c=1,125 mm",
+    "h=3 mm, c=0,75 mm",
+    "h=6 mm, c=1,5 mm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gaykaga o'yilgan rezbaning katta (tashqi) diametri va sterjenga o'yilgan rezbaning katta diametri qanday chiziqlarda tasvirlanishini solishtiring.",
+   "variantlar": [
+    "Ikkalasida ham asosiy chiziq",
+    "Gaykada – asosiy chiziq, sterjenda – ingichka chiziq",
+    "Ikkalasida ham ingichka chiziq",
+    "Gaykada – ingichka chiziq, sterjenda – asosiy (yo'g'on) chiziq"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "d=24 mm, l=70 mm bo'lgan shpilka uchun l1=1,5d qabul qilinsa, l1 qanchaga teng va l bilan solishtirganda qanday?",
+   "variantlar": [
+    "l1=36 mm, l1 l dan kichik",
+    "l1=24 mm, l1 l dan kichik",
+    "l1=42 mm, l1 l dan katta",
+    "l1=36 mm, l1 l dan katta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sterjenga o'yilgan rezbaning tores (old) ko'rinishida kichik diametr aylanasi qanday chiziladi?",
+   "variantlar": [
+    "Simmetriya o'qlari orasidagi bitta chorakka kam qilib",
+    "To'liq aylana qilib",
+    "Faqat yarim aylana qilib",
+    "Aylana chizilmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "d=24 mm bo'lgan shpilka uyasida t (chuqurlik) ni hisoblang, agar l1=1,5d bo'lsa. (t=l1+0,5d)",
+   "variantlar": [
+    "42 mm",
+    "48 mm",
+    "36 mm",
+    "30 mm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Metrik va quvurli rezbalarning profil burchaklari orasidagi farq necha darajani tashkil qiladi?",
+   "variantlar": [
+    "5°",
+    "15°",
+    "10°",
+    "105°"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quvurli rezbaning o'lchami va qadami qanday o'lchov birliklarida beriladi?",
+   "variantlar": [
+    "1\"=254 mm, qadami o'ram soni bilan o'lchanadi",
+    "1\"=25,4 mm, qadami diametr bilan o'lchanadi",
+    "1\"=25,4 mm, qadami 1\" ga to'g'ri keladigan o'ramlar soni bilan o'lchanadi",
+    "1\"=25 mm, qadami mm da o'lchanadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bolt va gaykani chizishda qo'llaniladigan ikki xil usul qanday?",
+   "variantlar": [
+    "Faqat qo'lda chizish",
+    "Faqat kompyuterda chizish",
+    "Standart jadval bo'yicha va taxminiy tenglamalar bo'yicha",
+    "Faqat andozadan foydalanish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

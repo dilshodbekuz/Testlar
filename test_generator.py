@@ -35,7 +35,7 @@ BACKEND = "claude_code"          # "claude_code" yoki "api"
 # limitni ancha tejaydi. Katta sinflarda "qiyin" savollar ko'p qadamli fikrlashni
 # talab qiladi, u yerda "haiku" savollarni bir xil qolipda chiqaradi.
 # Ikkalasini ham bir xil qilmoqchi bo'lsangiz - ikkala qatorga bir xil nom yozing.
-CLAUDE_MODEL = "sonnet"           # 3 - 6-sinflar uchun
+CLAUDE_MODEL = "haiku"           # 3 - 6-sinflar uchun
 KATTA_SINF_MODEL = "sonnet"      # 7-sinf va undan yuqorisi uchun ("opus" kuchliroq)
 KATTA_SINF = 7                   # shu sinfdan boshlab KATTA_SINF_MODEL ishlatiladi
 API_MODEL = "claude-sonnet-4-5"  # faqat "api" uchun; joriy nomini docs.claude.com dan tekshiring
@@ -43,9 +43,6 @@ SAVOL_SONI = 30                  # 3 ga bo'linadigan son bo'lsin (oson/o'rtacha/
 MAX_MATN = 40000                 # bitta mavzu uchun yuboriladigan matn uzunligi (belgi)
 YETARLI_FARQ = 2                 # 30 o'rniga 28 ta chiqsa ham qabul qilinadi (qayta so'rov qimmat)
 PARALLEL = 3                     # bir vaqtda nechta mavzu ishlansin (1 = ketma-ket)
-# Test yaratilmaydigan fanlar. Kitob nomida shu so'zlardan biri bo'lsa, o'tkazib
-# yuboriladi (katta-kichik harf farqi yo'q).
-OTKAZILADIGAN_FANLAR = ["Musiqa", "Tasviriy san", "Chizmachilik"]
 KUTISH_DAQIQA = 1                # limit tugasa shuncha kutib o'zi qayta uradi (--bir-marta o'chiradi)
 # ================================================
 
@@ -407,8 +404,6 @@ def kut(daqiqa):
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     pdflar = sorted(KITOBLAR_PAPKASI.rglob("*.pdf"), key=tartib)
-    pdflar = [p for p in pdflar
-              if not any(f.lower() in p.name.lower() for f in OTKAZILADIGAN_FANLAR)]
     if args:
         pdflar = [p for p in pdflar
                   if any(a.lower() in str(p.relative_to(KITOBLAR_PAPKASI)).lower() for a in args)]

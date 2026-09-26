@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Chizmachilik",
+ "mavzu": "Standart detallar. Gabarit va montaj chizmalari",
+ "savollar": [
+  {
+   "savol": "Standart detallarga quyidagilardan qaysi biri kiradi?",
+   "variantlar": [
+    "Bolt, gayka, shayba",
+    "Kitob",
+    "Televizor",
+    "Kompyuter dasturi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Standartlashtirish nimaga imkon beradi?",
+   "variantlar": [
+    "Detallarni rangini o'zgartirishga",
+    "Detallarni og'irroq qilishga",
+    "Buyumni qimmatlashtirishga",
+    "Bir turdagi buyum detallarini bir-biri bilan almashtirishga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Detal chizmasi qanday hujjat?",
+   "variantlar": [
+    "Detalning tasviri, tayyorlash va nazorat qilish uchun ma'lumotlarni o'z ichiga olgan hujjat",
+    "Yig'ish birligi tarkibini aniqlovchi hujjat",
+    "Buyumning shartli tasviri",
+    "Faqat gabarit o'lchamlari ko'rsatilgan hujjat"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yig'ish chizmasi nimani o'z ichiga oladi?",
+   "variantlar": [
+    "Faqat og'irligini",
+    "Buyumning tasviri, tayyorlash, yig'ish va nazorat qilish uchun barcha ma'lumotlarni",
+    "Faqat narxini",
+    "Faqat buyumning rangini"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gabarit chizma nima?",
+   "variantlar": [
+    "Yig'ish birligi tarkibini aniqlovchi hujjat",
+    "Faqat rang sxemasi",
+    "Buyumning to'liq ichki tuzilishini ko'rsatuvchi chizma",
+    "Buyumning soddalashtirilgan kontur tasviri va gabarit, o'rnatish, biriktirish o'lchamlari ko'rsatilgan hujjat"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Montaj chizmasi nimaga xizmat qiladi?",
+   "variantlar": [
+    "Buyumni bo'yashga",
+    "Buyumni qadoqlashga",
+    "Buyumning kontur tasviri va montaji (o'rnatilishi) uchun zarur ma'lumotlarni berishga",
+    "Buyumning narxini hisoblashga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Spetsifikatsiya qanday hujjat?",
+   "variantlar": [
+    "Sxema",
+    "Yig'ish birligi, komplekt va komplekslar tarkibini aniqlovchi hujjat",
+    "Detal",
+    "Nazariy chizma"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sxema nimani ko'rsatadi?",
+   "variantlar": [
+    "Faqat narxini",
+    "Faqat rangini",
+    "Faqat detal og'irligini",
+    "Buyum yoki uning qismlari va ularning o'zaro bog'lanishining shartli tasvirini"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Konstruktorlik hujjatlari loyihalash darajasiga qarab qanday turlarga bo'linadi?",
+   "variantlar": [
+    "Loyiha va ish hujjatlariga",
+    "Katta va kichik hujjatlarga",
+    "Rangli va oq-qora hujjatlarga",
+    "Elektron va qog'oz hujjatlarga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Umumiy ko'rinish chizmasi nimani aniqlaydi?",
+   "variantlar": [
+    "Buyum konstruksiyasi asosiy tarkibiy qismlarining o'zaro bog'lanishi va ishlash prinsiplarini",
+    "Faqat detalning og'irligini",
+    "Faqat rangini",
+    "Faqat buyumning narxini"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Boltni to'g'ri tanlash uchun nimalarni bilish yetarli?",
+   "variantlar": [
+    "Faqat boltning narxini",
+    "Tatbiq qilinadigan joydagi teshikning diametri va detallarning qalinligini",
+    "Faqat boltning rangini",
+    "Faqat boltning og'irligini"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yig'ish chizmalariga qanday qo'shimcha chizmalar kiritilishi mumkin?",
+   "variantlar": [
+    "Faqat narx jadvallari",
+    "Faqat rang sxemalari",
+    "Faqat sotuv hujjatlari",
+    "Gidromontaj, pnevmomontaj, elektromontaj kabi chizmalar"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Montaj chizmalarga yana qanday chizmalarni kiritish mumkin?",
+   "variantlar": [
+    "Reklama materiallarini",
+    "Sotuv hisobotlarini",
+    "Poydevor chizmalarini",
+    "Ishchilar ro'yxatini"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Loyiha hujjatlariga nimalar kiradi?",
+   "variantlar": [
+    "Faqat ish chizmalari",
+    "Faqat spetsifikatsiya",
+    "Faqat sxemalar",
+    "Texnikaviy takliflar, eskiz va loyihalar"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ish hujjatlariga (chizmalar) nimalar kiradi?",
+   "variantlar": [
+    "Faqat loyihalar",
+    "Buyumlar va ularning tarkibiy qismlarini ishlab chiqarish, nazorat qilish, ishlatish va ta'mirlash uchun zarur chizmalar",
+    "Faqat eskizlar",
+    "Faqat texnikaviy takliflar"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nazariy chizma nimani aniqlaydi?",
+   "variantlar": [
+    "Buyumning geometrik shakli va tarkibiy qismlarini",
+    "Buyumning narxini",
+    "Buyumning rangini",
+    "Buyumning og'irligini"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir xil markadagi avtomobillar misolida detallarning bir-biriga to'g'ri kelishi nimani ko'rsatadi?",
+   "variantlar": [
+    "Detallarning tasodifiy o'xshashligini",
+    "Ishlab chiqaruvchining xatosini",
+    "Standartlashtirish natijasida detallarning o'zaro almashinishini",
+    "Detallarning noyob ekanligini"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishlab chiqarishni avtomatlashtirish jarayonida nima talab qilinadi?",
+   "variantlar": [
+    "Har bir detal va buyumni aniq standart talabiga ko'ra o'ta aniqlik bilan tayyorlash",
+    "Ishlab chiqarishni sekinlashtirish",
+    "Detallarni rangini o'zgartirish",
+    "Detallarni og'irroq qilish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gabarit chizmada qanday o'lchamlar ko'rsatiladi?",
+   "variantlar": [
+    "Faqat rang o'lchamlari",
+    "Faqat narx ko'rsatkichlari",
+    "Gabarit, o'rnatish va biriktirish o'lchamlari",
+    "Faqat vazn ko'rsatkichlari"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Spetsifikatsiya odatda qaysi chizmalar uchun tuziladi?",
+   "variantlar": [
+    "Sxemalar uchun",
+    "Nazariy chizmalar uchun",
+    "Detal chizmalari uchun",
+    "Yig'ish chizmalari uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Detal chizmasi va yig'ish chizmasi orasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Yig'ish chizmasi faqat sxema hisoblanadi",
+    "Detal chizmasida rang bo'lmaydi, yig'ishda bo'ladi",
+    "Detal chizmasi bitta detal, yig'ish chizmasi esa butun buyum haqida ma'lumot beradi",
+    "Ikkalasi ham bir xil ma'lumot beradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gabarit chizma va montaj chizmasining o'xshashligi nimada, farqi esa nimada?",
+   "variantlar": [
+    "Montaj chizmasi faqat detal uchun ishlatiladi",
+    "Gabarit chizma faqat elektron formatda bo'ladi",
+    "Ikkalasi ham soddalashtirilgan kontur tasvirini beradi, lekin gabarit chizma gabarit/biriktirish o'lchamlarini, montaj chizmasi esa o'rnatish uchun ma'lumotlarni beradi",
+    "Ikkalasi ham faqat rangni ko'rsatadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Umumiy ko'rinish chizmasi bilan nazariy chizma o'rtasidagi farq nimada?",
+   "variantlar": [
+    "Umumiy ko'rinish chizmasi tarkibiy qismlarning o'zaro bog'lanishi va ishlash prinsipini, nazariy chizma esa geometrik shaklni aniqlaydi",
+    "Umumiy ko'rinish chizmasi faqat spetsifikatsiya hisoblanadi",
+    "Ikkalasi bir xil ma'lumot beradi",
+    "Nazariy chizma faqat rang haqida"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun avtomatlashtirilgan ishlab chiqarishda standartlarga aniq rioya qilish alohida muhim?",
+   "variantlar": [
+    "Chunki bu narxni oshiradi",
+    "Chunki bu og'irlikni kamaytiradi",
+    "Chunki avtomatlashtirish rangga bog'liq",
+    "Chunki bunda detallar o'zaro aniq almashtirilishi kerak, aks holda avtomatik jarayon buziladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar avtomobil detali standartga mos kelmasa, bu nimaga olib keladi?",
+   "variantlar": [
+    "Avtomobil tezroq yuradi",
+    "Detalni boshqa bir xil markadagi avtomobilga almashtirib bo'lmay qoladi",
+    "Hech qanday muammo bo'lmaydi",
+    "Detal avtomatik ravishda tuzatiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Konstruktorlik hujjatlari qanday hujjatlarni birlashtiradi va ular nimani aniqlaydi?",
+   "variantlar": [
+    "Standartga muvofiq grafik va matnli hujjatlarni, buyumning tarkibi va tuzilishini aniqlaydi",
+    "Faqat rasmlarni, buyum rangini aniqlaydi",
+    "Faqat jadvallarni, ishchilar sonini aniqlaydi",
+    "Faqat matnli hujjatlarni, buyum narxini aniqlaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi ma'lumotlarga ko'ra, nechta asosiy chizma/hujjat turi alohida ta'riflangan (detal, yig'ish, umumiy ko'rinish, nazariy, gabarit, montaj, sxema, spetsifikatsiya)?",
+   "variantlar": [
+    "6 ta",
+    "10 ta",
+    "5 ta",
+    "8 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Spetsifikatsiya bilan yig'ish chizmasi orasidagi bog'liqlik qanday?",
+   "variantlar": [
+    "Spetsifikatsiya yig'ish chizmasidagi yig'ish birligining tarkibini aniqlaydigan hujjat sifatida unga qo'shimcha tuziladi",
+    "Spetsifikatsiya sxemaning bir turi",
+    "Ular umuman bog'liq emas",
+    "Spetsifikatsiya faqat detal chizmasiga tegishli"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Montaj chizmasiga poydevor chizmasi qachon kiritilishi mumkin?",
+   "variantlar": [
+    "Buyum rangi o'zgarganda",
+    "Buyum ta'mirlanmaganda",
+    "Buyum sotilganda",
+    "Buyumni o'rnatish uchun alohida tuzilgan bo'lsa"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Standart asosida kerakli boltni tanlash jarayoni qanday ketma-ketlikda amalga oshiriladi?",
+   "variantlar": [
+    "Bolt tasodifiy tanlanadi",
+    "Faqat bolt rangi tanlanadi",
+    "Avval bolt sotib olinadi, keyin teshik teshiladi",
+    "Avval teshik diametri va detal qalinligi aniqlanadi, so'ng standart jadval bo'yicha mos bolt jamg'armadan olinadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}
