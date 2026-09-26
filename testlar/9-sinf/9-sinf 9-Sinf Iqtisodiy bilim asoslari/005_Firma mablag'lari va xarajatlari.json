@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Iqtisodiy bilim asoslari",
+ "mavzu": "Firma mablag'lari va xarajatlari",
+ "savollar": [
+  {
+   "savol": "Bino va inshootlar, asbob-uskunalar sotib olishga sarflangan mablag'lar qanday nomlanadi?",
+   "variantlar": [
+    "Asosiy mablag'lar",
+    "Aylanma mablag'lar",
+    "Nizom jamg'armasi",
+    "Amortizatsiya ajratmasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xom ashyo, materiallar sotib olish va ishchi kuchini yollashga sarflanadigan mablag'lar qanday ataladi?",
+   "variantlar": [
+    "Nizom jamg'armasi",
+    "Sof foyda",
+    "Aylanma mablag'lar",
+    "Asosiy mablag'lar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Asosiy ishlab chiqarish vositalarining eskirishi natijasida ularning narxi mahsulot narxiga o'tgan qismi qanday ataladi?",
+   "variantlar": [
+    "Amortizatsiya ajratmasi",
+    "Sof foyda",
+    "Nizom jamg'armasi",
+    "O'rtacha xarajat"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Umumiy xarajatni ifodalovchi formula qaysi?",
+   "variantlar": [
+    "TC = FC x VC",
+    "TC = FC + VC",
+    "TC = FC - VC",
+    "TC = FC : VC"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'rtacha xarajatni ifodalovchi formula qaysi?",
+   "variantlar": [
+    "AC = TC x q",
+    "AC = TC - q",
+    "AC = TC + q",
+    "AC = TC : q"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishlab chiqarish hajmiga bog'liq bo'lmagan xarajatlar qanday nomlanadi?",
+   "variantlar": [
+    "O'rtacha xarajatlar",
+    "Doimiy xarajatlar",
+    "Umumiy xarajatlar",
+    "O'zgaruvchan xarajatlar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishlab chiqarish hajmiga bog'liq bo'lgan xarajatlar qanday nomlanadi?",
+   "variantlar": [
+    "Nizom jamg'armasi",
+    "O'zgaruvchan xarajatlar",
+    "Doimiy xarajatlar",
+    "Amortizatsiya ajratmasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bino va inshootlarning odatdagi ishlatilish muddati necha yil qilib belgilanadi?",
+   "variantlar": [
+    "30 yil",
+    "20 yil",
+    "10 yil",
+    "5-7 yil"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Asbob-uskunalarning odatdagi ishlatilish muddati necha yil qilib belgilanadi?",
+   "variantlar": [
+    "15 yil",
+    "1-2 yil",
+    "20 yil",
+    "5-7 yil"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri firmaning ichki moliyaviy manbasi hisoblanadi?",
+   "variantlar": [
+    "Qimmatli qog'ozlar sotishdan tushgan pul",
+    "Firma egalarining qo'shimcha mablag'i",
+    "Bankdan olingan kredit",
+    "Firmaning sof foydasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Korxona binosining narxi 160 mln so'm bo'lib, undan foydalanish muddati 20 yil qilib belgilangan. Yillik amortizatsiya ajratmasi necha so'm bo'ladi?",
+   "variantlar": [
+    "7 mln so'm",
+    "10 mln so'm",
+    "6 mln so'm",
+    "8 mln so'm"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Firma 5000 dona mahsulot ishlab chiqarish uchun 350 000 000 so'm umumiy xarajat qilgan. Bir dona mahsulotning o'rtacha xarajati qancha bo'ladi?",
+   "variantlar": [
+    "60 000 so'm",
+    "65 000 so'm",
+    "75 000 so'm",
+    "70 000 so'm"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Firmaning umumiy xarajati 500 mln so'm, shundan doimiy xarajat 200 mln so'm. O'zgaruvchan xarajat necha so'm bo'ladi?",
+   "variantlar": [
+    "250 mln so'm",
+    "200 mln so'm",
+    "350 mln so'm",
+    "300 mln so'm"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Firmaning o'zgaruvchan xarajati 180 mln so'm, umumiy xarajati 420 mln so'm. Doimiy xarajat necha so'm bo'ladi?",
+   "variantlar": [
+    "260 mln so'm",
+    "220 mln so'm",
+    "240 mln so'm",
+    "200 mln so'm"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi xarajatlardan qaysi biri doimiy xarajatga kiradi?",
+   "variantlar": [
+    "Xom ashyo xarajati",
+    "Yoqilg'i xarajati",
+    "Ijara haqi",
+    "Ish haqi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi xarajatlardan qaysi biri o'zgaruvchan xarajatga kiradi?",
+   "variantlar": [
+    "Qarz foizi",
+    "Energiya manbalari xarajati",
+    "Sug'urta haqi",
+    "Ma'muriy xarajatlar"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri asosiy mablag'ga misol bo'la oladi?",
+   "variantlar": [
+    "Fermerning traktor sotib olish uchun mablag'i",
+    "Fermerning mineral o'g'it sotib olish uchun mablag'i",
+    "Fermerning yonilg'i sotib olish uchun mablag'i",
+    "Fermerning urug' sotib olish uchun mablag'i"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri aylanma mablag'ga misol bo'la oladi?",
+   "variantlar": [
+    "Mineral o'g'it sotib olish uchun mablag'",
+    "Traktor sotib olish uchun mablag'",
+    "Kombayn sotib olish uchun mablag'",
+    "Dala shiyponi qurish uchun mablag'"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri firmaning tashqi moliyaviy manbasiga kiradi?",
+   "variantlar": [
+    "Amortizatsiya jamg'armasi",
+    "Bankdan olingan qarz mablag'i",
+    "Nizom jamg'armasi",
+    "Firmaning sof foydasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Firmaning nizom jamg'armasi qachon ishlatiladi?",
+   "variantlar": [
+    "Firma faoliyatining boshlang'ich davrida",
+    "Faqat firma tugatilganda",
+    "Faqat soliq to'lashda",
+    "Faqat asosiy vositalar sotilganda"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Korxona 400 000 000 so'm umumiy xarajat qilgan. Uning 38% i o'zgaruvchan xarajatlardir. Doimiy xarajat necha so'mni tashkil etadi?",
+   "variantlar": [
+    "248 000 000 so'm",
+    "200 000 000 so'm",
+    "152 000 000 so'm",
+    "260 000 000 so'm"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Korxona 400 000 000 so'm umumiy xarajat qilgan. Uning 38% i o'zgaruvchan xarajatlardir. O'zgaruvchan xarajat necha so'mni tashkil etadi?",
+   "variantlar": [
+    "120 000 000 so'm",
+    "140 000 000 so'm",
+    "160 000 000 so'm",
+    "152 000 000 so'm"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Asbob-uskuna narxi 84 000 000 so'm bo'lib, undan foydalanish muddati 7 yil qilib belgilangan. Yillik amortizatsiya ajratmasi necha so'm bo'ladi?",
+   "variantlar": [
+    "10 000 000 so'm",
+    "12 000 000 so'm",
+    "16 000 000 so'm",
+    "14 000 000 so'm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Firmaning yillik amortizatsiya ajratmasi 15 000 000 so'mni tashkil etadi. Asbob-uskuna narxi 105 000 000 so'm bo'lsa, undan necha yil foydalanish rejalashtirilgan?",
+   "variantlar": [
+    "7 yil",
+    "6 yil",
+    "5 yil",
+    "8 yil"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Firma 10 000 dona mahsulot ishlab chiqarish uchun 500 000 000 so'm umumiy xarajat qilmoqchi. Mahsulotning o'rtacha xarajati qancha bo'ladi va foyda olish uchun narx qanday belgilanishi kerak?",
+   "variantlar": [
+    "50 000 so'm, shu narxdan past sotilsa foyda keladi",
+    "55 000 so'm, shu narxdan yuqori sotilsa foyda keladi",
+    "50 000 so'm, shu narxdan yuqori sotilsa foyda keladi",
+    "45 000 so'm, shu narxdan yuqori sotilsa foyda keladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Firmaning o'rtacha xarajati 25 000 so'm, ishlab chiqarilgan mahsulot miqdori 12 000 dona. Agar firmaning doimiy xarajati 100 000 000 so'm bo'lsa, o'zgaruvchan xarajat necha so'm bo'ladi?",
+   "variantlar": [
+    "200 000 000 so'm",
+    "180 000 000 so'm",
+    "220 000 000 so'm",
+    "150 000 000 so'm"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Firma ishlab chiqarish hajmini ma'lum miqdordan oshirsa, o'rtacha xarajatga qanday ta'sir qiladi?",
+   "variantlar": [
+    "O'rtacha xarajat o'zgarmay qoladi",
+    "O'rtacha xarajat darhol nolga tushadi",
+    "O'rtacha xarajat doimo kamayib boraveradi",
+    "O'rtacha xarajat pasayish o'rniga yana orta boshlaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar firma hech qanday mahsulot ishlab chiqarmasa (q=0), uning umumiy xarajati nimaga teng bo'ladi?",
+   "variantlar": [
+    "Faqat doimiy xarajatga teng bo'ladi",
+    "Nolga teng bo'ladi",
+    "Faqat o'zgaruvchan xarajatga teng bo'ladi",
+    "Aniqlab bo'lmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Firma bank orqali kredit oldi va shu bilan bir vaqtda ta'sischilardan ustav kapitalini oshirish uchun qo'shimcha mablag' jalb qildi. Bu ikkala mablag' manbai qanday manbaga kiradi?",
+   "variantlar": [
+    "Ikkalasi ham ichki manbaga kiradi",
+    "Kredit tashqi, qo'shimcha mablag' ichki manbaga kiradi",
+    "Ikkalasi ham tashqi manbaga kiradi",
+    "Kredit ichki, qo'shimcha mablag' tashqi manbaga kiradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki firma bir xil miqdorda mahsulot ishlab chiqaradi va ularning umumiy xarajatlari teng. Birinchi firmaning doimiy xarajati ikkinchisinikidan yuqori bo'lsa, ikkinchi firmaning o'zgaruvchan xarajati haqida nima deyish mumkin?",
+   "variantlar": [
+    "Ikkinchi firmaning o'zgaruvchan xarajati birinchisinikidan yuqori bo'ladi",
+    "Ikkinchi firmaning o'zgaruvchan xarajati birinchisinikidan past bo'ladi",
+    "O'zgaruvchan xarajat haqida xulosa chiqarib bo'lmaydi",
+    "Ikkala firmaning o'zgaruvchan xarajati teng bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

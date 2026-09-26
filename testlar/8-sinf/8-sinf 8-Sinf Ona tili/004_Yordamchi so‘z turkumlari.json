@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Ona tili",
+ "mavzu": "Yordamchi so‘z turkumlari",
+ "savollar": [
+  {
+   "savol": "Yordamchi so‘z turkumiga qaysilar kiradi?",
+   "variantlar": [
+    "Undov, taqlid, modal so‘z",
+    "Ko‘makchi, bog‘lovchi, yuklama",
+    "Fe’l, ravish, olmosh",
+    "Ot, sifat, son"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yordamchi so‘zlar mustaqil so‘zlardan nimasi bilan farqlanadi?",
+   "variantlar": [
+    "Gapda ega bo‘la olishi bilan",
+    "Ko‘plik qo‘shimchasini olishi bilan",
+    "Mustaqil leksik ma’noga ega emasligi bilan",
+    "Kelishik bilan turlanishi bilan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko‘makchi qanday so‘z turkumi hisoblanadi?",
+   "variantlar": [
+    "Undov so‘z",
+    "Mustaqil so‘z",
+    "Modal so‘z",
+    "Yordamchi so‘z"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bog‘lovchining asosiy vazifasi nima?",
+   "variantlar": [
+    "Fe’llarni tuslash",
+    "Otlarni turlash",
+    "So‘zlarga ma’no qo‘shish",
+    "So‘z, birikma va gaplarni bog‘lash"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yuklamaning vazifasi nima?",
+   "variantlar": [
+    "So‘zlarni turkumlarga ajratish",
+    "Ot va fe’lni farqlash",
+    "Gap bo‘laklarini bog‘lash",
+    "So‘zlarga qo‘shimcha ma’no ottenkasi qo‘shish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bog‘lovchi gapdagi vazifasiga ko‘ra nechta turga bo‘linadi?",
+   "variantlar": [
+    "Beshta",
+    "To‘rtta",
+    "Ikkita",
+    "Uchta"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Xaloyiq\" so‘zi qanday ma’noni bildiradi?",
+   "variantlar": [
+    "Tabiat hodisasi",
+    "Yakka shaxs",
+    "Odamlar, jamoa",
+    "Hayvon turi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Bir ariqdan suv ichmoq\" iborasi qanday ma’noni anglatadi?",
+   "variantlar": [
+    "Dushman bo‘lmoq",
+    "Yonma-yon, qo‘shni bo‘lib yashamoq",
+    "Uzoqda yashamoq",
+    "Suv ichmoq"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Iste’dod\" so‘zining ma’nosi qanday izohlanadi?",
+   "variantlar": [
+    "Oddiy mahorat",
+    "Fizik kuch",
+    "O‘rganilgan ko‘nikma",
+    "Yuqori darajali tug‘ma qobiliyat"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko‘makchi qaysi so‘z turkumiga ko‘proq qo‘shilib keladi?",
+   "variantlar": [
+    "Faqat fe’llarga",
+    "Ko‘proq otlarga",
+    "Faqat olmoshlarga",
+    "Faqat sonlarga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Yig‘ilgan xaloyiq suron ... yangi shahar ... qo‘zg‘aldi\" gapida nuqtalar o‘rniga qaysi turdagi yordamchi so‘z mos keladi?",
+   "variantlar": [
+    "Modal so‘z",
+    "Bog‘lovchi",
+    "Yuklama",
+    "Ko‘makchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Gulnoz shundan keyin uch marta xat yozdi, ... javob kelmadi\" gapida bo‘sh joyga qaysi turdagi so‘z qo‘yiladi?",
+   "variantlar": [
+    "Yuklama",
+    "Zidlov bog‘lovchi",
+    "Undov so‘z",
+    "Ko‘makchi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi so‘zlardan qaysi biri ko‘makchiga misol bo‘la oladi?",
+   "variantlar": [
+    "-mi",
+    "lekin",
+    "va",
+    "bilan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi so‘zlardan qaysi biri bog‘lovchiga misol bo‘la oladi?",
+   "variantlar": [
+    "uchun",
+    "-gina",
+    "sari",
+    "va"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi so‘zlardan qaysi biri yuklamaga misol bo‘la oladi?",
+   "variantlar": [
+    "kabi",
+    "ammo",
+    "tomon",
+    "faqat"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Qobiliyat\" va \"iste’dod\" so‘zlari orasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Iste’dod – qobiliyatning yuqori darajasi",
+    "Ikkalasi bir xil ma’noni bildiradi",
+    "Iste’dod o‘rganish orqali hosil bo‘ladi",
+    "Qobiliyat faqat sportda ishlatiladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bog‘lovchining ikki asosiy turi qaysilar?",
+   "variantlar": [
+    "Old va keyingi bog‘lovchi",
+    "Teng va ergashtiruvchi bog‘lovchi",
+    "Sodda va qo‘shma bog‘lovchi",
+    "Kuchli va kuchsiz bog‘lovchi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yordamchi so‘zlar mustaqil ma’noga ega bo‘lmagani uchun gapda qanday vazifa bajaradi?",
+   "variantlar": [
+    "So‘zlar orasidagi grammatik munosabatni ifodalaydi",
+    "Kesim bo‘lib keladi",
+    "Alohida gap bo‘lagi bo‘la olmaydi va faqat yordamchi vazifa bajaradi",
+    "Ega bo‘lib keladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Insho namunasida \"faqat\" yuklamasi olib tashlansa, gap mazmunida qanday o‘zgarish yuz beradi?",
+   "variantlar": [
+    "Ma’no kuchsizlanib qoladi",
+    "Hech qanday o‘zgarish bo‘lmaydi",
+    "Gap mazmuni butunlay o‘zgaradi",
+    "Gap noto‘g‘ri bo‘lib qoladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ko‘makchi bilan kelishik qo‘shimchalari o‘rtasida qanday o‘xshashlik bor?",
+   "variantlar": [
+    "Ikkalasi ham mustaqil so‘z",
+    "Ikkalasi ham so‘zlar orasidagi munosabatni ifodalaydi",
+    "Ikkalasi ham fe’lga xos",
+    "Ikkalasi ham gap boshida keladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Nahot sen uning talanti ..., shon-shuhrati ... turmushga chiqqan bo‘lsang?\" gapida ikkala bo‘sh joyga bir xil ko‘makchi qo‘yilsa, bu ko‘makchi qanday ma’noni ifodalaydi?",
+   "variantlar": [
+    "Payt ma’nosini",
+    "Sabab ma’nosini",
+    "O‘rin ma’nosini",
+    "Vaqt ma’nosini"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Otlar ... ovchidan qochgan kiyiklar ... qo‘sh oyoqlab shamoldek uchib bormoqda\" gapida ikkala bo‘shliqqa bir xil so‘z qo‘yilsa, bu so‘z qaysi turkumga oid va nima uchun ikki marta takrorlanadi?",
+   "variantlar": [
+    "Ko‘makchi, o‘xshatish ma’nosini ikki tomonga bog‘lash uchun",
+    "Bog‘lovchi, ikki tomonni tenglashtirish uchun",
+    "Modal so‘z, gumon bildirish uchun",
+    "Yuklama, ta’kidlash uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun bog‘lovchilar \"teng\" va \"ergashtiruvchi\" deb ikkiga bo‘linadi?",
+   "variantlar": [
+    "Bunday bo‘linish yo‘q, faqat bitta tur mavjud",
+    "Chunki ular gap boshida yoki oxirida kelishiga qarab nomlanadi",
+    "Chunki ular so‘zlarni turlicha bog‘lash vazifasini bajaradi – teng huquqli yoki bir-biriga bog‘liq qismlarni ulaydi",
+    "Chunki ular otlarga yoki fe’llarga qo‘shilishiga qarab farqlanadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yordamchi so‘zlarning ko‘pchiligi (masalan \"kabi\", \"sari\") mustaqil so‘zlardan kelib chiqqan. Bu holat nimani ko‘rsatadi?",
+   "variantlar": [
+    "Yordamchi so‘zlar hech qachon mustaqil so‘z bo‘lmagan",
+    "Bu holat tilda uchramaydi",
+    "Til taraqqiyotida ba’zi mustaqil so‘zlar ma’nosini yo‘qotib, yordamchi vazifaga o‘tishi mumkin",
+    "Bu holat faqat bog‘lovchilarga xos"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir gapda ham ko‘makchi, ham bog‘lovchi, ham yuklama qatnashishi mumkinmi va bu nimani anglatadi?",
+   "variantlar": [
+    "Ha, mumkin, chunki ular turli vazifalarni bajarib, bir-birini to‘ldiradi",
+    "Yo‘q, bir gapda faqat bitta yordamchi so‘z turkumi bo‘lishi mumkin",
+    "Yo‘q, chunki ular bir-biriga zid ma’no beradi",
+    "Ha, lekin faqat she’riy matnlarda"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Shuni unutmang..., tarbiyaning otasi – mehnat\" gapidagi bo‘sh joyga qo‘yiladigan so‘z qaysi turkumga oid va vazifasi nima?",
+   "variantlar": [
+    "Bog‘lovchi, sanash vazifasi",
+    "Modal so‘z, gumon vazifasi",
+    "Ko‘makchi, o‘rin vazifasi",
+    "Yuklama, ta’kid vazifasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ko‘makchi va yuklamani farqlashning eng ishonchli yo‘li qaysi?",
+   "variantlar": [
+    "Ko‘makchi gapdan chiqarib tashlansa gap ma’nosi butunlay yo‘qoladi, yuklama esa faqat ottenka beradi",
+    "Ko‘makchi ma’no ottenkasi beradi, yuklama otlarga qo‘shiladi",
+    "Ko‘makchi doim gap oxirida keladi, yuklama boshida keladi",
+    "Ikkalasi bir xil vazifani bajaradi, farq yo‘q"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Bilasiz..., siz va biz bir ariqdan suv ichamiz-...\" gapida ishlatilgan yordamchi so‘zlarning umumiy vazifasi nima?",
+   "variantlar": [
+    "Gapni bog‘lash",
+    "Fikrni ta’kidlash, kuchaytirish",
+    "O‘rin-payt bildirish",
+    "Sabab-natija bildirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"va\", \"-mi\", \"bilan\" so‘zlarini yordamchi so‘z turkumlariga to‘g‘ri taqsimlang.",
+   "variantlar": [
+    "va-ko‘makchi, -mi-bog‘lovchi, bilan-yuklama",
+    "va-bog‘lovchi, -mi-yuklama, bilan-ko‘makchi",
+    "Barchasi bog‘lovchi",
+    "va-yuklama, -mi-ko‘makchi, bilan-bog‘lovchi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun yordamchi so‘zlar alohida gap bo‘lagi bo‘la olmaydi, lekin gap qurilishida muhim ahamiyatga ega?",
+   "variantlar": [
+    "Chunki ular mustaqil leksik ma’noga ega emas, faqat grammatik/qo‘shimcha ma’no orqali so‘zlar va gaplar orasidagi bog‘lanishni ta’minlaydi",
+    "Chunki ular faqat yozma nutqda ishlatiladi",
+    "Chunki ular tilning eng qadimiy qatlamiga oid",
+    "Chunki ular faqat she’riy asarlarda uchraydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

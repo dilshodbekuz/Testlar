@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Iqtisodiy bilim asoslari",
+ "mavzu": "Ishsizlik",
+ "savollar": [
+  {
+   "savol": "Ishsizlar deganda kim tushuniladi?",
+   "variantlar": [
+    "Uy bekalari va talabalar",
+    "Faqat pensiyaga chiqqan fuqarolar",
+    "Ishga layoqatli, muayyan ish haqi evaziga ishlashga rozi, lekin ish topa olmagan yoki ish qidirib yurgan fuqarolar",
+    "Faqat 16 yoshgacha bo'lgan o'quvchilar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishchi kuchi taklifi tushunchasi qanday ta'riflanadi?",
+   "variantlar": [
+    "Davlatning ishsizlarga beradigan nafaqasi",
+    "Korxonalarning ishchi kuchini sotib olishga tayyorligi",
+    "Ma'lum vaqt davomida muayyan narxlarda qancha ishchi o'z ishchi kuchini sotishga rozi ekanligi",
+    "Bozordagi tovarlar miqdori"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishchi kuchiga bo'lgan talab nimani anglatadi?",
+   "variantlar": [
+    "Ishsizlarning davlatdan yordam so'rashi",
+    "Ma'lum vaqt davomida muayyan narxlarda qancha ishchining ishchi kuchi korxonalar tomonidan sotib olinishi",
+    "Kasaba uyushmalarining talablari",
+    "Ishchilarning ish haqi miqdorini oshirish talabi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishchi kuchi resurslari deb nimaga aytiladi?",
+   "variantlar": [
+    "Faqat ishlab turgan aholi",
+    "Faqat ishsizlar",
+    "Davlat xodimlari",
+    "Mamlakatning jami mehnatga layoqatli aholisi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishsizlik darajasi qanday aniqlanadi?",
+   "variantlar": [
+    "Ishchi kuchi sonining ishsizlar soniga nisbati",
+    "Ish bilan band aholining umumiy aholiga nisbati",
+    "Ishsizlar sonining mamlakat ishchi kuchining umumiy soniga nisbatan foiz miqdori",
+    "Ishsizlik nafaqasining o'rtacha miqdori"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'zbekiston qonunchiligiga ko'ra necha yoshdan boshlab mehnat qilishga ruxsat etiladi?",
+   "variantlar": [
+    "18 yoshdan",
+    "14 yoshdan",
+    "21 yoshdan",
+    "16 yoshdan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mehnat birjasi qanday tashkilot?",
+   "variantlar": [
+    "Xususiy sug'urta kompaniyasi",
+    "Ishchilarni jazolash uchun tuzilgan tashkilot",
+    "Faqat bank xodimlarini ro'yxatga oluvchi tashkilot",
+    "Ish beruvchi korxonalar va ish qidirib yurgan kishilar o'rtasida vositachilik qiluvchi davlat tashkiloti"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kasaba uyushmasi qanday tashkilot hisoblanadi?",
+   "variantlar": [
+    "Yollanma ishchilar manfaatlarini himoya qiluvchi nodavlat, jamoat tashkiloti",
+    "Xalqaro moliya tashkiloti",
+    "Xususiy bank",
+    "Davlat boshqaruv organi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mamlakatda faqat friksion va tarkibiy ishsizlik mavjud bo'lgan holat qanday ataladi?",
+   "variantlar": [
+    "Tabiiy bandlik",
+    "To'la bandlik",
+    "Qisman bandlik",
+    "Davriy bandlik"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tabiiy ishsizlik darajasining me'yoriy holati necha foizni tashkil qiladi?",
+   "variantlar": [
+    "1-2 foiz",
+    "4-5 foiz",
+    "10-12 foiz",
+    "15-20 foiz"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ilmiy xodim yaqinda ishidan bo'shab, yangi ish qidirmoqda. Bu qanday ishsizlik turiga misol bo'ladi?",
+   "variantlar": [
+    "Mavsumiy ishsizlik",
+    "Friksion ishsizlik",
+    "Davriy ishsizlik",
+    "Tarkibiy ishsizlik"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qishloq xo'jaligida ishlovchi dehqonlar qish oylarida ishsiz qolishadi. Bu qaysi ishsizlik turiga misol bo'ladi?",
+   "variantlar": [
+    "Mavsumiy ishsizlik",
+    "Tarkibiy ishsizlik",
+    "Friksion ishsizlik",
+    "Davriy ishsizlik"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yangi texnologiyalar joriy etilishi natijasida eski kasb egalari o'z malakasini o'zgartirishga majbur bo'lmoqda. Bu qanday ishsizlik turi?",
+   "variantlar": [
+    "Davriy ishsizlik",
+    "Mavsumiy ishsizlik",
+    "Tarkibiy ishsizlik",
+    "Friksion ishsizlik"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mamlakat iqtisodiyoti inqirozga yuz tutib, barcha sohalarda ishlab chiqarish keskin kamayib, ko'plab ishchilar ishdan bo'shatildi. Bu qanday ishsizlik turi?",
+   "variantlar": [
+    "Tarkibiy ishsizlik",
+    "Davriy ishsizlik",
+    "Friksion ishsizlik",
+    "Mavsumiy ishsizlik"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ko'mir koni ishchisi oddiy ishchidan ko'proq maosh oladi. Bu qaysi omil bilan bog'liq?",
+   "variantlar": [
+    "Ishchining yoshi bilan",
+    "Ish beruvchining xohishi bilan",
+    "Kasaba uyushmasining talabi bilan",
+    "Ishning og'irligi va xavfliligi bilan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "24.1-chizmaga ko'ra, ishchi kuchiga bo'lgan talab taklifga teng bo'lganda oylik ish haqi qancha bo'ladi?",
+   "variantlar": [
+    "2 500 so'm",
+    "900 000 so'm",
+    "3 000 so'm",
+    "850 000 so'm"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mashqdagi jadvalda ish haqi 1 600 000 so'm bo'lganda talab va taklif miqdori 200 tani tashkil etadi. Ishchi kuchining bozor narxi nechchi so'm bo'ladi?",
+   "variantlar": [
+    "1 300 000 so'm",
+    "1 500 000 so'm",
+    "1 900 000 so'm",
+    "1 600 000 so'm"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kasaba uyushmalarining asosiy vazifalaridan biri quyidagilardan qaysi biri?",
+   "variantlar": [
+    "Ish beruvchilar foydasini oshirish",
+    "Yangi soliqlar joriy etish",
+    "Ishchi va xizmatchilarning manfaatlarini himoya qilish",
+    "Ishsizlarni ishdan bo'shatish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Davlatning ishsizlikka qarshi chora-tadbirlaridan biri sifatida quyidagilardan qaysi biri to'g'ri?",
+   "variantlar": [
+    "Ish haqini pasaytirish",
+    "Ishchilarni ishga majburiy yollash",
+    "Aholini kasbga yo'naltirish va malaka oshirish ishlarini amalga oshirish",
+    "Barcha korxonalarni yopish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "24.2-chizmaga ko'ra, menejer xodimlarning ishchi kuchi taklifi (S1) oddiy ishchilarning taklifi (S2) ga nisbatan qanday?",
+   "variantlar": [
+    "S1 va S2 teng",
+    "Ular orasida bog'liqlik yo'q",
+    "S1 dan S2 ko'p",
+    "S2 dan S1 ko'p"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mamlakatda tabiiy ishsizlik darajasi 5%, umumiy ishsizlik darajasi 10% bo'lib, friksion va tarkibiy ishsizlik 1 million kishini qamrab olgan. Mamlakatning umumiy ishchi kuchi soni qancha?",
+   "variantlar": [
+    "10 million kishi",
+    "2 million kishi",
+    "5 million kishi",
+    "20 million kishi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi ma'lumotlarga asosan, mamlakatdagi umumiy ishsizlar soni qancha?",
+   "variantlar": [
+    "1,5 million kishi",
+    "2 million kishi",
+    "1 million kishi",
+    "2,5 million kishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi ma'lumotlarga asosan, davriy ishsizlar soni (umumiy ishsizlikdan tabiiy ishsizlikni ayirib) qancha bo'ladi?",
+   "variantlar": [
+    "1,5 million kishi",
+    "500 ming kishi",
+    "2 million kishi",
+    "1 million kishi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun to'qimachilik kombinatining menejeri oddiy ishchiga qaraganda ko'proq maosh oladi, deb to'g'ri asoslash mumkin?",
+   "variantlar": [
+    "Maxsus bilim va boshqaruv qobiliyatiga ega mutaxassislar kam bo'lgani uchun ularning taklifi kam, shu bois narxi yuqori",
+    "Menejer ko'proq soatlab ishlaydi",
+    "Oddiy ishchilar ko'proq soliq to'laydi",
+    "Menejerlar kasaba uyushmasiga a'zo emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun davriy ishsizlik ishsizlik turlari orasida eng zararlisi hisoblanadi?",
+   "variantlar": [
+    "U butun iqtisodiyot va jamiyatga keng ko'lamda salbiy ta'sir ko'rsatadi",
+    "U faqat qishloq joylarda uchraydi",
+    "U faqat yoshlarga ta'sir qiladi",
+    "U qisqa muddatli bo'lib, tezda tugaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar mamlakatda faqat to'la bandlik holati mavjud bo'lsa, ishsizlik darajasi qanday bo'ladi?",
+   "variantlar": [
+    "Davriy ishsizlik darajasi eng yuqori bo'ladi",
+    "Ishsizlik darajasi nolga teng bo'ladi",
+    "Ishsizlik darajasi tabiiy ishsizlik darajasiga teng bo'ladi (faqat friksion va tarkibiy ishsizlik)",
+    "Ishsizlik darajasi 100 foizga yetadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uyda o'tirib, o'z xohishi bilan ishlamayotgan va ish qidirmayotgan uy bekasi mamlakatning qaysi guruhiga kiritiladi?",
+   "variantlar": [
+    "Ish bilan band aholi safiga kiritiladi",
+    "Mehnatga layoqatli aholi safidan chiqarilib, ishchi kuchi tarkibiga kiritilmaydi",
+    "Ishsizlar safiga kiritiladi",
+    "Ishchi kuchi tarkibiga, lekin ishsizlar safiga kirmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun mamlakatda ishsizlikdan butunlay xalos bo'lish mumkin emas?",
+   "variantlar": [
+    "Friksion va tarkibiy ishsizlik doimiy ravishda tabiiy holat sifatida yuzaga kelib turadi",
+    "Ish beruvchilar buni xohlamaydi",
+    "Kasaba uyushmalari buni istamaydi",
+    "Davlat bunga qonuniy taqiq qo'ygan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir tovarga bo'lgan talab kamayib, boshqa tovarga talab ortganda, ishchi kuchi bozorida qanday jarayon sodir bo'ladi?",
+   "variantlar": [
+    "Faqat davlat sektorida o'zgarish yuz beradi",
+    "Ish haqi darhol barcha sohalarda bir xil bo'lib qoladi",
+    "Barcha ishchilar bir vaqtning o'zida ishdan bo'shaydi va ishsizlik butunlay yo'qoladi",
+    "Birinchi sohada ishchi yollash qisqarib, ikkinchi sohada talab oshadi, ishchilar moslashguncha muvozanat buziladi va ishsizlar paydo bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ish beruvchilar tovar sotilishi qiyinlashgani sababli ishchilarni ishdan bo'shatishni, ishchilar esa ish haqi va sharoitlarni yaxshilashni talab qilmoqda. Bu nizoni davlat qanday hal qilishi kutiladi?",
+   "variantlar": [
+    "Nizoga aralashmaydi",
+    "Faqat ishchilar manfaatini himoya qiladi",
+    "Ikkala tomon manfaatini muvozanatlashtirib, ijtimoiy himoya va bandlik siyosatini yuritadi",
+    "Faqat ish beruvchilar manfaatini himoya qiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

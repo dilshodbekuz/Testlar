@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Ona tili",
+ "mavzu": "Bog'lovchisiz qo'shma gap haqida ma'lumot",
+ "savollar": [
+  {
+   "savol": "Bog'lovchisiz qo'shma gap deb qanday gapga aytiladi?",
+   "variantlar": [
+    "Ergashtiruvchi bog'lovchilar bilan bog'langan gap",
+    "Tarkibidagi sodda gaplar mazmunan bog'liq bo'lib, maxsus bog'lovchi vositalarsiz, faqat ohang yordamida bog'langan gap",
+    "Tarkibidagi sodda gaplar teng bog'lovchilar bilan bog'langan gap",
+    "Faqat bitta sodda gapdan iborat bo'lgan gap"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bog'lovchisiz qo'shma gap qismlarini yozuvda ajratish uchun qanday tinish belgilari ishlatiladi?",
+   "variantlar": [
+    "So'roq belgisi, nuqtali vergul",
+    "Nuqta, qavs, undov belgisi",
+    "Vergul, tire, ikki nuqta",
+    "Qavs, nuqta, tire"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qo'shma gap qismlari bir paytda yoki ketma-ket sodir bo'ladigan voqea-hodisalarni ifodalasa, ular orasiga qanday tinish belgisi qo'yiladi?",
+   "variantlar": [
+    "Ikki nuqta",
+    "Vergul",
+    "Nuqtali vergul",
+    "Tire"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qo'shma gap qismlari orasida o'xshatish, zidlash, shart kabi munosabatlar ifodalanganda, ular orasiga qanday tinish belgisi qo'yiladi?",
+   "variantlar": [
+    "Tire",
+    "Nuqta",
+    "Vergul",
+    "Ikki nuqta"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qo'shma gap qismlari orasida izohlash munosabati ifodalanganda, ko'pincha qanday tinish belgisi qo'yiladi?",
+   "variantlar": [
+    "Ikki nuqta",
+    "Nuqtali vergul",
+    "Tire",
+    "Vergul"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tahlilda bog'lovchisiz qo'shma gap qanday qolip orqali ifodalanadi?",
+   "variantlar": [
+    "Bir-biriga chiziq bilan bog'langan ikki to'rtburchak orqali",
+    "Bitta uchburchak orqali",
+    "Uchta to'rtburchak orqali",
+    "Doira orqali"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bog'lovchisiz qo'shma gap qismlari o'zaro qanday bog'lanadi?",
+   "variantlar": [
+    "Ko'makchili qurilmalar bilan",
+    "Faqat ohang yordamida",
+    "Ergashtiruvchi bog'lovchilar bilan",
+    "Teng bog'lovchilar bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zidlik, sabab, shart, payt kabi munosabatlar qanday qo'shma gaplar bilan ifodalanishi mumkin?",
+   "variantlar": [
+    "Faqat ergashgan qo'shma gaplar bilan",
+    "Faqat bog'lovchisiz qo'shma gaplar bilan",
+    "Bog'lovchisiz, bog'langan va ergashgan qo'shma gaplar bilan",
+    "Faqat bog'langan qo'shma gaplar bilan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bog'lovchili (bog'langan va ergashgan) qo'shma gaplarda voqea-hodisalar o'rtasidagi munosabat bog'lovchisiz qo'shma gaplardagiga nisbatan qanday ifodalanadi?",
+   "variantlar": [
+    "Umuman ifodalanmaydi",
+    "Aniqroq",
+    "Noaniqroq",
+    "Farqi yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Hamal keldi – amal keldi\" gapida qismlar orasiga qaysi tinish belgisi qo'yilgan?",
+   "variantlar": [
+    "Ikki nuqta",
+    "Tire",
+    "Nuqtali vergul",
+    "Vergul"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Kuz keldi, yig'im-terim ishlari boshlandi\" gapida qismlar orasiga nima uchun vergul qo'yilgan?",
+   "variantlar": [
+    "Izohlash munosabati borligi uchun",
+    "Ketma-ket sodir bo'ladigan voqea-hodisalar ifodalangani uchun",
+    "Zidlash munosabati borligi uchun",
+    "Shart munosabati borligi uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Bizning qarorimiz shu: hasharda barchamiz faol ishtirok etamiz\" gapida ikki nuqta nima uchun qo'yilgan?",
+   "variantlar": [
+    "Shart munosabati borligi uchun",
+    "Zidlash munosabati borligi uchun",
+    "Izohlash munosabati ifodalangani uchun",
+    "Ketma-ket voqea ifodalangani uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Yurt tinch — sen tinch\" gapi qaysi qo'shma gap turiga misol bo'ladi?",
+   "variantlar": [
+    "Bog'lovchisiz qo'shma gap",
+    "Aralash qo'shma gap",
+    "Ergashgan qo'shma gap",
+    "Bog'langan qo'shma gap"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Yigitlar daraxtlarning ostini yumshatdilar, qizlar maktab hovlisini supurdilar\" gapida vergul nima uchun qo'yilgan?",
+   "variantlar": [
+    "Bir paytda sodir bo'ladigan harakatlar ifodalangani uchun",
+    "Zidlash munosabati uchun",
+    "Izohlash munosabati uchun",
+    "O'xshatish munosabati uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi gaplardan qaysi biri bog'lovchisiz qo'shma gap hisoblanadi?",
+   "variantlar": [
+    "Suv keldi va cho'llarda hayot boshlandi",
+    "Suv kelsa, cho'llarda hayot boshlanadi",
+    "Suv keldi, shuning uchun cho'llarda hayot boshlandi",
+    "Suv keldi – cho'llarda hayot boshlandi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Qor yog'di – don yog'di\" maqolini bog'langan qo'shma gapga aylantirsak, matnda ko'rsatilgan qaysi variant to'g'ri bo'ladi?",
+   "variantlar": [
+    "Qor yog'di, chunki don yog'di",
+    "Qor yog'gani uchun don yog'di",
+    "Qor yog'sa, don yog'ar edi",
+    "Qor yog'di-yu, don yog'di"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bog'lovchisiz qo'shma gapda qaysi tinish belgisi shart munosabatini ham ifodalay oladi?",
+   "variantlar": [
+    "Ikki nuqta",
+    "Vergul",
+    "Tire",
+    "Nuqtali vergul"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Eshakni yaydoq minib bo'lmaydi – yiqiladi kishi\" gapida qismlar orasidagi munosabat qanday?",
+   "variantlar": [
+    "Ketma-ketlik",
+    "Sabab-oqibat (shart)",
+    "Izohlash",
+    "Sanash"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi gaplardan qaysi birida ikki nuqta ishlatilishi kerak?",
+   "variantlar": [
+    "G'animlar duch kelar ... jang bo'lar puxta",
+    "Avval ular yetib olishsin ... keyin jo'naymiz",
+    "Kuz keldi ... yig'im-terim ishlari boshlandi",
+    "Bizning qarorimiz shu ... hasharda faol ishtirok etamiz"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Bir kishi ariq ochadi, ming kishi suv ichadi\" gapini ergashgan qo'shma gapga aylantirsak, qaysi variant to'g'ri bo'ladi?",
+   "variantlar": [
+    "Bir kishi ariq ochsa, ming kishi suv ichadi",
+    "Bir kishi ariq ochadi va ming kishi suv ichadi",
+    "Bir kishi ariq ochadi-yu ming kishi suv ichadi",
+    "Bir kishi ariq ochadi – ming kishi suv ichadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi gaplardan qaysi biri boshqalaridan farqli o'laroq bog'lovchisiz qo'shma gap emas?",
+   "variantlar": [
+    "Suv keldi – nur keldi",
+    "Kuz keldi va yig'im-terim ishlari boshlandi",
+    "Qor yog'di – don yog'di",
+    "Yaxshi o'g'il — el obro'si"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Sir ko'p olam qa'rida, Mo'jizaga kon olam\" gapini bog'lovchisiz qo'shma gapdan bog'langan qo'shma gapga aylantirmoqchi bo'lsak, qaysi bog'lovchi vosita ishlatilishi mumkin emas?",
+   "variantlar": [
+    "agar",
+    "va",
+    "hamda",
+    "-yu"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bog'lovchisiz, bog'langan va ergashgan qo'shma gaplar orasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Ega va kesimning joylashishida",
+    "Kesimlar sonida",
+    "Sodda gaplar sonida",
+    "Voqea-hodisalar o'rtasidagi munosabatning ifodalanish aniqligida"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Ayrilganni ayiq yer, Bo'linganni bo'ri yer\" maqolidagi qismlar orasiga vergul qo'yilishi quyidagi qaysi misoldagi sababga o'xshaydi?",
+   "variantlar": [
+    "Yurt tinch — sen tinch",
+    "Hamal keldi – amal keldi",
+    "Yigitlar daraxtlarning ostini yumshatdilar, qizlar maktab hovlisini supurdilar",
+    "Bizning qarorimiz shu: hasharda barchamiz faol ishtirok etamiz"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi gaplarning qaysi birida qismlar orasida o'xshatish munosabati mavjud?",
+   "variantlar": [
+    "Kuz keldi, yig'im-terim ishlari boshlandi",
+    "Yog'ib yubordi-da yomg'ir, nihoyat, osmon dil qulfini zaminga sochdi",
+    "Yurgan daryo — o'tirgan bo'yra",
+    "Bizning qarorimiz shu: hasharda barchamiz faol ishtirok etamiz"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mazmuni bir xil bo'lgan quyidagi gaplar orasidan qaysi biri sabab-oqibat munosabatini eng aniq ifodalaydi?",
+   "variantlar": [
+    "Eshik ochildi-yu, xonaga rassom kirib keldi",
+    "Eshik ochildi-da, xonaga rassom kirib keldi",
+    "Xonaga rassom kirib keldi, shuning uchun eshik ochildi",
+    "Eshik ochildi, xonaga rassom kirib keldi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Saxovatsiz kishi mevasiz daraxtdir, mevasiz daraxtdan ortiq naf kutma\" gapini ergashgan qo'shma gapga aylantirganda matndagi namunaga ko'ra qaysi vosita ishlatilgan?",
+   "variantlar": [
+    "qachon...o'shanda",
+    "-yu",
+    "shuning uchun",
+    "agar"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Orzum shul: o'chmasin yongan chirog'ing\" gapida ikki nuqta ishlatilishining sababi nima?",
+   "variantlar": [
+    "Izohlash munosabati borligi uchun",
+    "Zidlash munosabati borligi uchun",
+    "Shart munosabati borligi uchun",
+    "Ketma-ket voqea ifodalangani uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Kuz keldi, yig'im-terim ishlari boshlandi\" va \"Hamal keldi – amal keldi\" gaplarini solishtirsak, ular orasida qanday farq bor?",
+   "variantlar": [
+    "Ikkalasi ham bog'langan qo'shma gap",
+    "Birinchisida ketma-ket voqea (vergul), ikkinchisida boshqa munosabat (tire) ifodalangan",
+    "Ikkalasida ham bir xil munosabat (ketma-ketlik) ifodalangan",
+    "Ikkalasida ham izohlash munosabati bor"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bog'lovchisiz qo'shma gapni bog'langan qo'shma gapga aylantirishda odatda qanday bog'lovchi vositalardan foydalaniladi?",
+   "variantlar": [
+    "Faqat nisbiy so'zlar",
+    "Teng bog'lovchilar yoki bog'lovchi-yuklamalar (va, -yu, -u kabi)",
+    "Faqat ergashtiruvchi bog'lovchilar",
+    "Faqat ko'makchili qurilmalar"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

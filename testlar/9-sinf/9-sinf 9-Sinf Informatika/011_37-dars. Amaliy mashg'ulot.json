@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Informatika",
+ "mavzu": "37-dars. Amaliy mashg'ulot",
+ "savollar": [
+  {
+   "savol": "Satrlarni birlashtirish uchun qaysi amaldan foydalaniladi?",
+   "variantlar": [
+    "+",
+    "/",
+    "*",
+    "-"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Satr uzunligini aniqlash uchun qaysi funksiya ishlatiladi?",
+   "variantlar": [
+    "print()",
+    "len()",
+    "input()",
+    "str()"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"\\n\" maxsus belgisi nimani anglatadi?",
+   "variantlar": [
+    "Yangi satrga o'tish belgisi",
+    "Ikkitalik qo'shtirnoq belgisi",
+    "Tabulyatsiya belgisi",
+    "Bittalik qo'shtirnoq belgisi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"\\t\" maxsus belgisi nimani anglatadi?",
+   "variantlar": [
+    "Ikkitalik qo'shtirnoq belgisi",
+    "Yangi satrga o'tish belgisi",
+    "Bittalik qo'shtirnoq belgisi",
+    "Tabulyatsiya belgisi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"\\'\" maxsus belgisi nimani bildiradi?",
+   "variantlar": [
+    "Bittalik qo'shtirnoq belgisi",
+    "Ikkitalik qo'shtirnoq belgisi",
+    "Tabulyatsiya belgisi",
+    "Yangi qatorga o'tish belgisi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"\\\"\" maxsus belgisi nimani bildiradi?",
+   "variantlar": [
+    "Bittalik qo'shtirnoq belgisi",
+    "Yangi qatorga o'tish belgisi",
+    "Tabulyatsiya belgisi",
+    "Ikkitalik qo'shtirnoq belgisi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Satrni bir necha marta takrorlash (ko'paytirish) uchun qaysi amal ishlatiladi?",
+   "variantlar": [
+    "*",
+    "-",
+    "+",
+    "%"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Satrdan qism satr ajratib olish jarayoni qanday nomlanadi?",
+   "variantlar": [
+    "Birlashtirish",
+    "Qirqib olish (kesish)",
+    "Qo'shish",
+    "Ko'paytirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ekranga ma'lumot chiqarish uchun qaysi funksiya ishlatiladi?",
+   "variantlar": [
+    "type()",
+    "input()",
+    "print()",
+    "len()"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Foydalanuvchidan ma'lumot kiritish uchun qaysi funksiya ishlatiladi?",
+   "variantlar": [
+    "len()",
+    "str()",
+    "print()",
+    "input()"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "print('*' * 5) buyrug'i natijasida ekranga nechta yulduzcha chop etiladi?",
+   "variantlar": [
+    "5",
+    "6",
+    "10",
+    "4"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "print(\"Assalomu\" + \" \" + \"alaykum\") buyrug'i natijasida ekranga nima chiqadi?",
+   "variantlar": [
+    "Assalomu  alaykum",
+    "AssalomuAlaykum",
+    "Assalomu alaykum",
+    "Assalomu+alaykum"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "len(\"Python\") buyrug'i natijasi nechaga teng?",
+   "variantlar": [
+    "7",
+    "8",
+    "5",
+    "6"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "print('*' * 3 + ' ' * 2 + '*' * 3) buyrug'i natijasida umumiy nechta belgi (yulduz va bo'sh joy) chop etiladi?",
+   "variantlar": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "print(\"Salom\\nDunyo\") buyrug'i ekranda nechta qatorda ko'rinadi?",
+   "variantlar": [
+    "3",
+    "1",
+    "2",
+    "4"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "input() funksiyasi orqali kiritilgan qiymat dasturda qaysi turda saqlanadi?",
+   "variantlar": [
+    "Butun son",
+    "Satr (matn)",
+    "Mantiqiy qiymat",
+    "Kasr son"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"9\" va \"-sinf\" satrlarini birlashtirish uchun nechta \"+\" amali kerak bo'ladi?",
+   "variantlar": [
+    "0",
+    "3",
+    "2",
+    "1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "len(\"dastur\") buyrug'i natijasi nechaga teng?",
+   "variantlar": [
+    "6",
+    "5",
+    "7",
+    "8"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "print('a' * 4) buyrug'i natijasida ekranga nima chiqadi?",
+   "variantlar": [
+    "4a",
+    "aaaa",
+    "a a a a",
+    "a4"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Men\" va \"o'quvchiman\" so'zlarini orasiga bo'sh joy qo'yib birlashtirish uchun nechta \"+\" amali ishlatiladi?",
+   "variantlar": [
+    "3",
+    "1",
+    "4",
+    "2"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "print('*' * 4 + ' ' * 4 + '*' * 4) buyrug'i natijasida umumiy nechta belgi (yulduz va bo'sh joy birgalikda) chop etiladi?",
+   "variantlar": [
+    "12",
+    "8",
+    "16",
+    "10"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi uchburchak namunasida (*, **, ***, ****) oxirgi, ya'ni 4-qatorda nechta yulduzcha bo'ladi?",
+   "variantlar": [
+    "4",
+    "3",
+    "5",
+    "2"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"+\" belgisi yordamida 5x5 o'lchamli kvadrat yasash uchun print('+' * 5) buyrug'i nechta marta takrorlanishi kerak?",
+   "variantlar": [
+    "6",
+    "4",
+    "25",
+    "5"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Pingvin rasmida \"(O O)\" qatoridan oldin qo'yilgan bo'sh joylar qanday maqsadda ishlatiladi?",
+   "variantlar": [
+    "Tasodifan qo'yilgan",
+    "Harflarni ajratish uchun",
+    "Rasmni markazlashtirish (to'g'ri joylashtirish) uchun",
+    "Satrni uzunroq qilish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"GULTOJIXO'ROZ\" so'zidan \"GUL\", \"TOJI\", \"XO'ROZ\" kabi qism so'zlarni ajratib olish uchun qaysi amaldan foydalaniladi?",
+   "variantlar": [
+    "Qirqib olish (kesish)",
+    "len() funksiyasi",
+    "Ko'paytirish (*)",
+    "Birlashtirish (+)"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "print('*' * 12) va print('*' * 1 + ' ' * 10 + '*' * 1) buyruqlarida chop etiladigan umumiy belgilar soni (yulduz+bo'sh joy) o'zaro tengmi?",
+   "variantlar": [
+    "Solishtirib bo'lmaydi",
+    "Yo'q, ikkinchisida ko'p",
+    "Yo'q, birinchisida ko'p",
+    "Ha, ikkalasida ham 12 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Men 9-sinf o'quvchisi – Dilshodman\" jumlasini foydalanuvchi kiritgan ma'lumotlar asosida tuzishda nechta o'zgaruvchi (sinf va ism) ishlatiladi?",
+   "variantlar": [
+    "1",
+    "2",
+    "4",
+    "3"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"TUZAMAN, PYTHON, DASTUR, TILIDA, MEN\" so'zlaridan mazmunli jumla tuzish uchun ularni qanday birlashtirish kerak?",
+   "variantlar": [
+    "len() funksiyasi bilan hisoblab",
+    "Tartibsiz, \"*\" amali bilan",
+    "Faqat print() ichida vergul bilan ajratib",
+    "To'g'ri tartibda, \"+\" amali va bo'sh joylar bilan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Foydalanuvchidan matn qabul qilib, uning uzunligini hisoblash uchun qaysi funksiyalar ketma-ket ishlatilishi kerak?",
+   "variantlar": [
+    "input() so'ng len()",
+    "str() so'ng print()",
+    "print() so'ng len()",
+    "len() so'ng input()"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi maxsus belgilardan qaysi biri satr ichida bevosita ikkitalik qo'shtirnoq belgisini chiqarish uchun ishlatiladi?",
+   "variantlar": [
+    "\\\"",
+    "\\n",
+    "\\t",
+    "\\'"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

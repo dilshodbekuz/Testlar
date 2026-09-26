@@ -1,0 +1,187 @@
+22-dars. Takrorlanuvchi algoritmlar
+
+--- OSON ---
+
+1. Takrorlanuvchi algoritm deb qanday algoritmga aytiladi?
+A) Shartga qarab ikki yo'nalishdan biriga o'tadigan algoritm
+B) Hech qanday shartsiz bajariladigan algoritm
+C) Faqat bitta marta bajariladigan ko'rsatmalar ketma-ketligi
++D) Biron bir shart tekshirilishi yoki parametrning har xil qiymatlari asosida ko'rsatmalar guruhi qayta-qayta bajariladigan algoritm
+
+2. Matnda keltirilgan takrorlanuvchi jarayonga hayotiy misol qaysi?
+A) Dars jadvalini tuzish
+B) Kitob o'qish
+C) Maktabga borish
++D) Yil fasllarining almashinishi
+
+3. Yig'indi (S) uchun boshlang'ich qiymat odatda nechaga teng qilib olinadi?
+A) S=10
+B) S=100
++C) S=0
+D) S=1
+
+4. Ko'paytma (P) uchun boshlang'ich qiymat odatda nechaga teng qilib olinadi?
+A) P=10
+B) P=2
+C) P=0
++D) P=1
+
+5. "S" harfi inglizcha qaysi so'zning bosh harfidan olingan?
+A) SIGN
+B) STEP
+C) START
++D) SUMM
+
+6. "P" harfi inglizcha qaysi so'zning bosh harfidan olingan?
+A) PROGRAM
+B) POINT
++C) PRODUCT
+D) PROCESS
+
+7. Hisoblash jarayonining ko'p marta takrorlanadigan qismi qanday nomlanadi?
+A) Sikl sharti
+B) Sikl chegarasi
+C) Sikl parametri
++D) Sikl tanasi (jismi)
+
+8. Shart oldin tekshiriluvchi takrorlanuvchi algoritm boshqacha qanday nomlanadi?
+A) Gacha
+B) Aralash
++C) Toki
+D) Parametrli
+
+9. Shart keyin tekshiriluvchi takrorlanuvchi algoritm boshqacha qanday nomlanadi?
++A) Gacha
+B) Tarmoqlanuvchi
+C) Chiziqli
+D) Toki
+
+10. "Parametr A dan B gacha" ko'rinishidagi sikl qachon ishlatiladi?
+A) Faqat manfiy sonlar bilan ishlaganda
+B) Faqat bitta ko'rsatma bajarilganda
+C) Shart hech qachon bajarilmaganda
++D) Takrorlanishlar soni (B-A+1) aniq bo'lganda
+
+--- O'RTACHA ---
+
+11. 9!=1*2*3*4*5*6*7*8*9 ifodasini hisoblash uchun necha marta ko'paytirish amalini bajarish kerak bo'ladi?
+A) 10 marta
+B) 7 marta
+C) 9 marta
++D) 8 marta
+
+12. Qadamlar jadvalida 2-qadamda (i=2 bo'lganda) S ning qiymati nechaga teng bo'ladi?
+A) S=1
++B) S=3
+C) S=6
+D) S=2
+
+13. Qadamlar jadvalida 3-qadamda (i=3 bo'lganda) P ning qiymati nechaga teng bo'ladi?
+A) P=24
++B) P=6
+C) P=2
+D) P=3
+
+14. Qadamlar jadvalida 4-qadamda i ning qiymati nechaga teng bo'ladi?
+A) i=3
++B) i=4
+C) i=5
+D) i=10
+
+15. 1-misolda klaviaturadan kiritilgan sonlar (1, 6, 8, 2, -6, 76, 1, -5) ichida birinchi kiritilgan manfiy son qaysi?
++A) -6
+B) 2
+C) 76
+D) -5
+
+16. 1-misolda birinchi manfiy songacha kiritilgan qaysi sonlarning yig'indisi hisoblanadi?
+A) 6, 8, 2, -6
+B) 76, 1, -5
++C) 1, 6, 8, 2
+D) 1, 6, 8, 2, -6
+
+17. 2-misolda (5 dan 49 gacha toq sonlar ko'paytmasi) P ning boshlang'ich qiymati necha qilib olinadi?
+A) P=0
+B) P=5
+C) P=49
++D) P=1
+
+18. 2-misolda i ning boshlang'ich qiymati necha qilib olinadi?
+A) i=1
++B) i=5
+C) i=49
+D) i=0
+
+19. 2-misolda har bir qadamda i ning qiymatiga qancha son qo'shib boriladi?
+A) 5
++B) 2
+C) 49
+D) 1
+
+20. Toki (shart oldin tekshiriluvchi) siklda agar shart boshidanoq yolg'on bo'lsa, ko'rsatmalar guruhi necha marta bajariladi?
+A) Cheksiz marta
+B) 1 marta
++C) Hech qachon
+D) 2 marta
+
+--- QIYIN ---
+
+21. 9!=1*2*3*4*5*6*7*8*9 ifodasida 9 ta son qatnashsa-da, nima uchun atigi 8 marta ko'paytirish amali bajariladi?
+A) Chunki 9 soni hisobga olinmaydi
+B) Chunki sonlarning yarmi manfiy
+C) Chunki oxirgi son har doim tashlab yuboriladi
++D) Chunki 1 bilan ko'paytirish natijaga ta'sir etmagani uchun boshlang'ich qiymat sifatida olinadi va qolgan 8 ta son ketma-ket ko'paytiriladi
+
+22. Qadamlar jadvalida (S va P birgalikda hisoblanadigan misolda) 4-qadamda S va P ning qiymatlari mos ravishda qanday bo'ladi?
+A) S=6, P=6
++B) S=10, P=24
+C) S=4, P=10
+D) S=24, P=10
+
+23. 2-misolda 5 dan 49 gacha bo'lgan toq sonlar ko'paytmasini hisoblashda jami nechta toq son ko'paytiriladi?
+A) 24 ta
++B) 23 ta
+C) 22 ta
+D) 45 ta
+
+24. 1-misol algoritmida avval S=S+A bajarilib, so'ngra A<0 sharti tekshirilishi bu qaysi tur takrorlanuvchi algoritmga misol bo'ladi?
+A) Chiziqli algoritm
+B) Toki (shart oldin tekshiriluvchi)
++C) Gacha (shart keyin tekshiriluvchi)
+D) Parametr dan-gacha
+
+25. 2-misol algoritmida "agar i≤49 bo'lsa, 4-bandga o'tilsin" ko'rsatmasi orqali sikl tanasi bajarilib bo'lgach shart tekshirilishi qaysi tur siklga xos xususiyat?
+A) Aralash
+B) Parametrli
++C) Gacha
+D) Toki
+
+26. Toki va gacha sikllari birgalikda umumiy nima deb ataladi?
+A) Aralash sikllar
+B) Parametrli sikllar
+C) Chiziqli sikllar
++D) Iteratsion sikllar
+
+27. Agar yig'indi hisoblashda S ning boshlang'ich qiymati 0 o'rniga boshqa musbat son qilib olinsa, yakuniy natijaga qanday ta'sir qiladi?
+A) Algoritm umuman ishlamay qoladi
+B) Hech qanday ta'sir qilmaydi
++C) Yakuniy natija haqiqiy yig'indidan katta chiqadi
+D) Yakuniy natija har doim 0 bo'lib qoladi
+
+28. 1-misol blok-sxemasida A<0 sharti "ha" (rost) bo'lganda algoritm qaysi bosqichga o'tadi?
+A) A kiritilsin bosqichiga
+B) Qayta S=S+A bosqichiga
+C) S=0 bosqichiga
++D) S chiqarilsin bosqichiga
+
+29. Qadamlar jadvalida i=1 bo'lgan 1-qadamda S=0+1=1 va P=1*1=1 hisoblanishi nimani tasdiqlaydi?
+A) i ning qiymati hech qachon o'zgarmasligini
+B) Shart har doim yolg'on bo'lishini
++C) S=0 va P=1 boshlang'ich qiymatlarining yig'indi va ko'paytma natijasiga ta'sir etmasligini
+D) Sikl faqat bir marta bajarilishini
+
+30. Matnga ko'ra, inson hayotida uchraydigan algoritmlar, asosan, qanday algoritmlarning uzviy birligi sifatida namoyon bo'ladi?
+A) Faqat tarmoqlanuvchi algoritmlar
+B) Faqat takrorlanuvchi algoritmlar
++C) Chiziqli, tarmoqlanuvchi va takrorlanuvchi algoritmlar
+D) Faqat chiziqli algoritmlar

@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Geometriya",
+ "mavzu": "Kosinuslar teoremasi",
+ "savollar": [
+  {
+   "savol": "Kosinuslar teoremasiga ko'ra, ABC uchburchakda BC=a, CA=b, AB=c bo'lsa, a² qanday ifodalanadi?",
+   "variantlar": [
+    "a² = b²+c²-2ab·cosA",
+    "a² = b²+c²-2bc·cosA",
+    "a² = b²-c²-2bc·cosA",
+    "a² = b²+c²+2bc·cosA"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kosinuslar teoremasi qaysi uchburchaklar uchun qo'llaniladi?",
+   "variantlar": [
+    "Faqat teng tomonli uchburchaklar uchun",
+    "Istalgan uchburchak uchun",
+    "Faqat to'g'ri burchakli uchburchaklar uchun",
+    "Faqat teng yonli uchburchaklar uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "∠A=90° bo'lganda kosinuslar teoremasidan qaysi teorema kelib chiqadi?",
+   "variantlar": [
+    "Menelay teoremasi",
+    "Pifagor teoremasi",
+    "Tales teoremasi",
+    "Sinuslar teoremasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "cos90° ning qiymati nechaga teng?",
+   "variantlar": [
+    "0",
+    "1",
+    "-1",
+    "0,5"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "cos(180°-A) ifodasi nimaga teng?",
+   "variantlar": [
+    "sinA",
+    "-sinA",
+    "cosA",
+    "-cosA"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kosinuslar teoremasiga ko'ra, uchburchak tomoni kvadrati nimaga teng?",
+   "variantlar": [
+    "Qolgan ikki tomon kvadratlari yig'indisiga",
+    "Qolgan ikki tomon ko'paytmasiga",
+    "Qolgan ikki tomon ayirmasiga",
+    "Qolgan ikki tomon kvadratlari yig'indisidan ular orasidagi burchak kosinusi va shu tomonlar ko'paytmasining ikkilanganini ayirganiga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "cosA ni tomonlar orqali ifodalaydigan formula qaysi?",
+   "variantlar": [
+    "cosA = (a²+b²-c²)/(2ab)",
+    "cosA = (a²-b²-c²)/(2bc)",
+    "cosA = (b²+c²-a²)/(2bc)",
+    "cosA = (b²+c²+a²)/(2bc)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "ABC uchburchakda BD balandligi o'tkazilganda, D nuqta qayerda joylashishi mumkin?",
+   "variantlar": [
+    "Faqat AC tomonda",
+    "Faqat AB tomonda",
+    "Uchburchakdan tashqarida faqat",
+    "AC tomonda yoki uning davomida"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'g'ri burchakli ABD uchburchakda (burchak D=90°) AD tomon qanday ifodalanadi?",
+   "variantlar": [
+    "AD = AB²·cosA",
+    "AD = AB·tgA",
+    "AD = AB·cosA",
+    "AD = AB·sinA"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tomonlari a,b,c bo'lgan uchburchakning B uchidan tushirilgan BD medianasi qaysi formula bilan hisoblanadi?",
+   "variantlar": [
+    "BD = √(2a²+2c²+b²)",
+    "BD = (1/2)√(2a²+2c²-b²)",
+    "BD = √(a²+c²-b²)",
+    "BD = (1/2)√(2a²+2b²-c²)"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "ABC uchburchakda AB=6 cm, AC=7 cm, ∠A=60° berilgan. BC² ni hisoblang.",
+   "variantlar": [
+    "85",
+    "13",
+    "43",
+    "36"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "AB=6 cm, AC=7 cm, ∠A=60° bo'lgan ABC uchburchakda BC tomonni toping.",
+   "variantlar": [
+    "√43 cm",
+    "√85 cm",
+    "7 cm",
+    "43 cm"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ABC uchburchakda AC=3 cm, BC=4 cm, ∠C=60°. AB² ni toping.",
+   "variantlar": [
+    "13",
+    "19",
+    "7",
+    "25"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ABC uchburchakda AB=4 m, BC=4√2 m, ∠B=45°. AC ni toping.",
+   "variantlar": [
+    "16 m",
+    "8 m",
+    "4√2 m",
+    "4 m"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Uchburchak tomonlari a=5 m, b=6 m, c=4 m. Formula (1) yordamida cosA ni hisoblang.",
+   "variantlar": [
+    "5/48",
+    "16/9",
+    "9/16",
+    "27/40"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a=5 m, b=6 m, c=4 m bo'lgan uchburchakda cosA=9/16 topilgan. AD=AB·cosA formulasidan foydalanib AD ni toping (AB=4 m).",
+   "variantlar": [
+    "3 m",
+    "2,25 m",
+    "1,75 m",
+    "2,5 m"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar sinB=0,6 bo'lsa (B o'tkir burchak), cosB ning qiymatini toping (sin²B+cos²B=1 formuladan foydalaning).",
+   "variantlar": [
+    "0,6",
+    "0,8",
+    "0,4",
+    "0,64"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Parallelogrammning diagonallari 10 cm va 12 cm, ular orasidagi burchak 60°. Diagonallar kesishgan nuqtadan hosil bo'lgan uchburchakning ikki tomoni necha sm ga teng bo'ladi (diagonallar teng ikkiga bo'linadi)?",
+   "variantlar": [
+    "10 va 12",
+    "5 va 6",
+    "5 va 12",
+    "2,5 va 3"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tomonlari 5 cm va 7 cm, bir burchagi 120° bo'lgan parallelogrammning kichik diagonali kvadratini toping (60° burchakdan foydalaning).",
+   "variantlar": [
+    "39",
+    "74",
+    "35",
+    "109"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "cos120° ning qiymati nechaga teng?",
+   "variantlar": [
+    "-√3/2",
+    "-0,5",
+    "√3/2",
+    "0,5"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ABC uchburchakda AB=7 dm, AC=6√3 dm, ∠A=150°. BC² ni hisoblang.",
+   "variantlar": [
+    "31",
+    "283",
+    "157",
+    "409"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tomonlari a=5, b=6, c=7 bo'lgan uchburchakda (a burchak A ga qarshi) cosA ni toping.",
+   "variantlar": [
+    "5/7",
+    "19/35",
+    "7/5",
+    "1/5"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a=5, b=6, c=7 bo'lgan uchburchakda (c burchak C ga qarshi) cosC ni toping.",
+   "variantlar": [
+    "19/35",
+    "1/5",
+    "7/12",
+    "5/7"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "ABC uchburchakda AB=10 cm, BC=12 cm, sinB=0,6 (∠B o'tkir). AC² ni hisoblang.",
+   "variantlar": [
+    "436",
+    "52",
+    "244",
+    "92"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "AB=10 cm, BC=12 cm, sinB=0,6 (∠B o'tkir) bo'lgan ABC uchburchakda AC ni toping.",
+   "variantlar": [
+    "√26",
+    "4√13",
+    "√244",
+    "2√13"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Diagonallari 10 cm va 12 cm bo'lgan parallelogrammda ular orasidagi burchak 60°. Diagonallar yarmi (5 va 6) orasidagi 60° burchakka mos uchburchakdan parallelogrammning bir tomonini toping.",
+   "variantlar": [
+    "√11",
+    "√61",
+    "√31",
+    "√91"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Oldingi masaladagi parallelogrammda diagonallar yarmi orasidagi 120° burchakka mos uchburchakdan ikkinchi tomonni toping.",
+   "variantlar": [
+    "√30",
+    "√31",
+    "√91",
+    "√121"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tomonlari 5 cm va 7 cm, bir burchagi 120° bo'lgan parallelogrammning katta diagonalini toping (120° burchakdan to'g'ridan-to'g'ri foydalaning).",
+   "variantlar": [
+    "√39",
+    "√74",
+    "√144",
+    "√109"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uchburchakning ikki tomoni 6 m va 8 m, ular orasidagi burchak 90°. Kosinuslar teoremasi yordamida uchinchi tomonni toping.",
+   "variantlar": [
+    "14 m",
+    "2√7 m",
+    "10 m",
+    "48 m"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uchburchakda ikki tomon teng (b=c=5 sm) va ular orasidagi burchak A=120°. Uchinchi tomon a ni toping.",
+   "variantlar": [
+    "√50 sm",
+    "5√2 sm",
+    "5√3 sm",
+    "10 sm"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

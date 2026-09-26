@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Rus tili",
+ "mavzu": "Как указать на причину действия. Известные учёные и их исследования",
+ "savollar": [
+  {
+   "savol": "Sabab holi qanday savolga javob beradi?",
+   "variantlar": [
+    "qachon?",
+    "nima uchun?/nima sababdan?",
+    "qanday?",
+    "qayerda?"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sabab ergash gapli qo'shma gap qanday savollarga javob bermaydi?",
+   "variantlar": [
+    "qanday sharoitda?",
+    "qaysi sababdan?",
+    "nima uchun?",
+    "nega?"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri sabab ergash gap bog'lovchisi emas?",
+   "variantlar": [
+    "ибо",
+    "так как",
+    "chunki (потому что)",
+    "если"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sabab holi qaysi kelishikdagi ot bilan 'iz-za' predlogi orqali ifodalanishi mumkin?",
+   "variantlar": [
+    "tushum kelishigi",
+    "jo'nalish kelishigi",
+    "qaratqich kelishigi",
+    "o'rin-payt kelishigi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, XI asr tarixchilar tomonidan qanday nom bilan ataladi?",
+   "variantlar": [
+    "'Ulug'bek asri'",
+    "'Ibn Sino asri'",
+    "'Fan asri'",
+    "'Beruni asri'"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Beruni necha ta fundamental asar yaratgan (matnga ko'ra)?",
+   "variantlar": [
+    "200 ta",
+    "150 ta",
+    "100 ta",
+    "50 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Beruni qaysi fan sohasining asoschisi hisoblanadi?",
+   "variantlar": [
+    "tibbiyot",
+    "falakiyot",
+    "matematika",
+    "geodeziya"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shart ergash gapli qo'shma gap qanday savolga javob beradi?",
+   "variantlar": [
+    "nima uchun?",
+    "qanday maqsadda?",
+    "qachon?",
+    "qaysi shartda?"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shart ergash gap uchun eng ko'p qo'llaniladigan bog'lovchi qaysi?",
+   "variantlar": [
+    "если",
+    "несмотря на то что",
+    "потому что",
+    "хотя"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'siqsiz ergash gap qanday savollarga javob beradi?",
+   "variantlar": [
+    "qaysi shartda?/nima uchun?",
+    "qarshiliksiz/nimaga qaramay?",
+    "qachon?/qayerda?",
+    "qanday maqsadda?"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'Картограф по невнимательности сделал ошибку' gapida 'по невнимательности' so'zi qanday gap bo'lagi?",
+   "variantlar": [
+    "sabab holi",
+    "to'ldiruvchi",
+    "payt holi",
+    "aniqlovchi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Из-за ветра метеорологи не могли продолжать эксперимент' gapida sabab holi qaysi predlog bilan ifodalangan?",
+   "variantlar": [
+    "из-за",
+    "ради",
+    "в связи с",
+    "благодаря"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, Beruni matematikaga qanday hissa qo'shgan?",
+   "variantlar": [
+    "algebra faniga asos solgan",
+    "geometrik shakllarni o'rgangan",
+    "trigonometrik jadvallarni tuzgan",
+    "sonlar nazariyasini yaratgan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Оттого что Беруни много сделал для науки об измерениях поверхности земли, он считается основоположником...' gapida qaysi fan nazarda tutilmoqda?",
+   "variantlar": [
+    "matematika",
+    "geografiya",
+    "geodeziya",
+    "astronomiya"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi gaplardan qaysi biri sabab ergash gapli qo'shma gap?",
+   "variantlar": [
+    "U kasal bo'lgani uchun, darsga kelmadi",
+    "U qanday ishlasa, shunday natija oladi",
+    "U yosh bo'lsa ham, ko'p narsani biladi",
+    "Agar yomg'ir yog'sa, biz uyda qolamiz"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi gaplardan qaysi biri shart ergash gapli qo'shma gap?",
+   "variantlar": [
+    "Agar sen o'qisang, bilim olasan",
+    "U kelgani uchun, biz xursand bo'ldik",
+    "Garchi u yosh bo'lsa ham, aqlli edi",
+    "Chunki u charchagan edi, dam oldi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, armiya so'zi qaysi tildan olingan va nimani anglatadi?",
+   "variantlar": [
+    "fransuz tilidan, 'jang'",
+    "yunon tilidan, 'kuch'",
+    "arab tilidan, 'himoya'",
+    "lotin tilidan, 'qurollantirmoq'"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Vooruzhennye sily Respublikasi Uzbekiston safiga chaqirilish uchun yosh chegarasi necha yosh?",
+   "variantlar": [
+    "21 yosh",
+    "18 yosh",
+    "20 yosh",
+    "16 yosh"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Именно оттого, что обсерватория Улугбека была разрушена, многие не верили в её существование' gapida bosh gapda qanday so'z ishlatilgan (logik urg'u tushadigan)?",
+   "variantlar": [
+    "тоже",
+    "также",
+    "поэтому",
+    "именно"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sof'ya Kovalevskaya haqidagi ma'lumotga ko'ra, u kim bo'lgan?",
+   "variantlar": [
+    "faqat yozuvchi",
+    "faqat shoir",
+    "matematik, shoir va yozuvchi",
+    "faqat matematik"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Улугбек занимался астрономией, потому что он любил звёзды' gapini tahlil qiling: bu yerda bosh gap va ergash gap qaysi tartibda joylashgan?",
+   "variantlar": [
+    "ergash gap o'rtada",
+    "tartib aniqlanmaydi",
+    "ergash gap - bosh gap",
+    "bosh gap - ergash gap"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matn asosida fikr yuriting: nima uchun Beruni 'olim-ensiklopedist' deb ataladi?",
+   "variantlar": [
+    "faqat geodeziya bilan shug'ullangani uchun",
+    "ko'plab fan sohalarida (tarix, geografiya, filologiya va h.k.) asarlar yaratgani uchun",
+    "faqat astronomiya bilan shug'ullangani uchun",
+    "faqat tibbiyot bilan shug'ullangani uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Так как тезисы докладов уже готовы, конференция состоится завтра' gapida ergash gap qaysi o'rinda joylashgan va bu qanday ma'no beradi?",
+   "variantlar": [
+    "bosh gapdan oldin, sabab natijadan oldin keltiriladi",
+    "bosh gapdan keyin, sabab natijadan keyin keladi",
+    "ergash gap yo'q",
+    "bosh gap o'rtasida"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Vladimir Dal haqidagi ma'lumotga asoslanib, uning kasbiy faoliyati qanday sohalarni o'z ichiga olgan?",
+   "variantlar": [
+    "faqat harbiy dengizchi",
+    "dengiz ofitseri, shifokor, etnograf va naturalist",
+    "faqat lug'atshunos",
+    "faqat shifokor"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Наш великий предок считал, что понять законы природы можно только с помощью науки, поэтому его труды сыграли большую роль' gapidan Beruni haqida qanday xulosa chiqarish mumkin?",
+   "variantlar": [
+    "u tabiat qonunlarini fan yordamida tushunish mumkin deb hisoblagan va shu sabab uning asarlari muhim rol o'ynagan",
+    "u faqat diniy bilimlarga tayangan",
+    "u tabiat qonunlarini faqat kuzatish orqali tushunish mumkin deb hisoblagan",
+    "u fanni rad etgan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi ikki oddiy gapni sabab ergash gapli qo'shma gapga aylantiring: 'Ibn Sino vrach edi. U amir Buxoroni davoladi.' To'g'ri variant qaysi?",
+   "variantlar": [
+    "Ibn Sino qachon vrach bo'lsa, amir Buxoroni davolaydi",
+    "Ibn Sino vrach bo'lgani uchun, u amir Buxoroni davoladi",
+    "Agar Ibn Sino vrach bo'lsa, u amir Buxoroni davolaydi",
+    "Ibn Sino vrach bo'lsa ham, u amir Buxoroni davoladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Академия Мамуна в Багдаде прославилась благодаря работе аль-Хорезми' gapini ergash gapli qo'shma gapga aylantiring:",
+   "variantlar": [
+    "Al-Xorazmiy ishlagani uchun Bag'dod akademiyasi qachon mashhur bo'ladi",
+    "Bag'doddagi Ma'mun akademiyasi mashhur bo'lsa ham, al-Xorazmiy ishlagan",
+    "Agar al-Xorazmiy ishlasa, Bag'doddagi Ma'mun akademiyasi mashhur bo'ladi",
+    "Bag'doddagi Ma'mun akademiyasi mashhur bo'ldi, chunki al-Xorazmiy u yerda ishlagan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sabab va shart ergash gaplarni farqlang: 'Agar siz bu hikoyani o'qigan bo'lsangiz, mazmunini aytib bering' gapi qanday ergash gap turi va nima uchun?",
+   "variantlar": [
+    "payt ergash gap, chunki vaqtni bildiradi",
+    "shart ergash gap, chunki 'qaysi shartda' savoliga javob beradi va 'agar' bog'lovchisi ishlatilgan",
+    "to'siqsiz ergash gap, chunki qarshilik ma'nosini beradi",
+    "sabab ergash gap, chunki 'nima uchun' savoliga javob beradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga asoslanib, Kori Niyoziy akademik nima sababdan Ulug'bek astronomik maktabi haqida monografiya yozgan?",
+   "variantlar": [
+    "chunki u astronomiyani yoqtirmagan",
+    "chunki u faqat geodeziya bilan shug'ullangan",
+    "chunki u Ulug'bek asarlarini yaxshi o'rgangan",
+    "chunki u shoir bo'lgan"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi gaplarni solishtiring va sabab ergash gapli qo'shma gapni aniqlang:",
+   "variantlar": [
+    "Havo qachon sovuq bo'lsa, biz uyda qolamiz",
+    "Havo sovuq bo'lgani uchun, biz uyda qoldik",
+    "Garchi havo sovuq bo'lsa ham, biz sayr qildik",
+    "Agar havo sovuq bo'lsa, biz uyda qolamiz"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+37-dars. Amaliy mashg'ulot
+
+--- OSON ---
+
+1. Satrlarni birlashtirish uchun qaysi amaldan foydalaniladi?
++A) +
+B) /
+C) *
+D) -
+
+2. Satr uzunligini aniqlash uchun qaysi funksiya ishlatiladi?
+A) print()
++B) len()
+C) input()
+D) str()
+
+3. "\n" maxsus belgisi nimani anglatadi?
++A) Yangi satrga o'tish belgisi
+B) Ikkitalik qo'shtirnoq belgisi
+C) Tabulyatsiya belgisi
+D) Bittalik qo'shtirnoq belgisi
+
+4. "\t" maxsus belgisi nimani anglatadi?
+A) Ikkitalik qo'shtirnoq belgisi
+B) Yangi satrga o'tish belgisi
+C) Bittalik qo'shtirnoq belgisi
++D) Tabulyatsiya belgisi
+
+5. "\'" maxsus belgisi nimani bildiradi?
++A) Bittalik qo'shtirnoq belgisi
+B) Ikkitalik qo'shtirnoq belgisi
+C) Tabulyatsiya belgisi
+D) Yangi qatorga o'tish belgisi
+
+6. "\"" maxsus belgisi nimani bildiradi?
+A) Bittalik qo'shtirnoq belgisi
+B) Yangi qatorga o'tish belgisi
+C) Tabulyatsiya belgisi
++D) Ikkitalik qo'shtirnoq belgisi
+
+7. Satrni bir necha marta takrorlash (ko'paytirish) uchun qaysi amal ishlatiladi?
++A) *
+B) -
+C) +
+D) %
+
+8. Satrdan qism satr ajratib olish jarayoni qanday nomlanadi?
+A) Birlashtirish
++B) Qirqib olish (kesish)
+C) Qo'shish
+D) Ko'paytirish
+
+9. Ekranga ma'lumot chiqarish uchun qaysi funksiya ishlatiladi?
+A) type()
+B) input()
++C) print()
+D) len()
+
+10. Foydalanuvchidan ma'lumot kiritish uchun qaysi funksiya ishlatiladi?
+A) len()
+B) str()
+C) print()
++D) input()
+
+--- O'RTACHA ---
+
+11. print('*' * 5) buyrug'i natijasida ekranga nechta yulduzcha chop etiladi?
++A) 5
+B) 6
+C) 10
+D) 4
+
+12. print("Assalomu" + " " + "alaykum") buyrug'i natijasida ekranga nima chiqadi?
+A) Assalomu  alaykum
+B) AssalomuAlaykum
++C) Assalomu alaykum
+D) Assalomu+alaykum
+
+13. len("Python") buyrug'i natijasi nechaga teng?
+A) 7
+B) 8
+C) 5
++D) 6
+
+14. print('*' * 3 + ' ' * 2 + '*' * 3) buyrug'i natijasida umumiy nechta belgi (yulduz va bo'sh joy) chop etiladi?
+A) 6
+B) 7
++C) 8
+D) 9
+
+15. print("Salom\nDunyo") buyrug'i ekranda nechta qatorda ko'rinadi?
+A) 3
+B) 1
++C) 2
+D) 4
+
+16. input() funksiyasi orqali kiritilgan qiymat dasturda qaysi turda saqlanadi?
+A) Butun son
++B) Satr (matn)
+C) Mantiqiy qiymat
+D) Kasr son
+
+17. "9" va "-sinf" satrlarini birlashtirish uchun nechta "+" amali kerak bo'ladi?
+A) 0
+B) 3
+C) 2
++D) 1
+
+18. len("dastur") buyrug'i natijasi nechaga teng?
++A) 6
+B) 5
+C) 7
+D) 8
+
+19. print('a' * 4) buyrug'i natijasida ekranga nima chiqadi?
+A) 4a
++B) aaaa
+C) a a a a
+D) a4
+
+20. "Men" va "o'quvchiman" so'zlarini orasiga bo'sh joy qo'yib birlashtirish uchun nechta "+" amali ishlatiladi?
+A) 3
+B) 1
+C) 4
++D) 2
+
+--- QIYIN ---
+
+21. print('*' * 4 + ' ' * 4 + '*' * 4) buyrug'i natijasida umumiy nechta belgi (yulduz va bo'sh joy birgalikda) chop etiladi?
++A) 12
+B) 8
+C) 16
+D) 10
+
+22. Matndagi uchburchak namunasida (*, **, ***, ****) oxirgi, ya'ni 4-qatorda nechta yulduzcha bo'ladi?
++A) 4
+B) 3
+C) 5
+D) 2
+
+23. "+" belgisi yordamida 5x5 o'lchamli kvadrat yasash uchun print('+' * 5) buyrug'i nechta marta takrorlanishi kerak?
+A) 6
+B) 4
+C) 25
++D) 5
+
+24. Pingvin rasmida "(O O)" qatoridan oldin qo'yilgan bo'sh joylar qanday maqsadda ishlatiladi?
+A) Tasodifan qo'yilgan
+B) Harflarni ajratish uchun
++C) Rasmni markazlashtirish (to'g'ri joylashtirish) uchun
+D) Satrni uzunroq qilish uchun
+
+25. "GULTOJIXO'ROZ" so'zidan "GUL", "TOJI", "XO'ROZ" kabi qism so'zlarni ajratib olish uchun qaysi amaldan foydalaniladi?
++A) Qirqib olish (kesish)
+B) len() funksiyasi
+C) Ko'paytirish (*)
+D) Birlashtirish (+)
+
+26. print('*' * 12) va print('*' * 1 + ' ' * 10 + '*' * 1) buyruqlarida chop etiladigan umumiy belgilar soni (yulduz+bo'sh joy) o'zaro tengmi?
+A) Solishtirib bo'lmaydi
+B) Yo'q, ikkinchisida ko'p
+C) Yo'q, birinchisida ko'p
++D) Ha, ikkalasida ham 12 ta
+
+27. "Men 9-sinf o'quvchisi – Dilshodman" jumlasini foydalanuvchi kiritgan ma'lumotlar asosida tuzishda nechta o'zgaruvchi (sinf va ism) ishlatiladi?
+A) 1
++B) 2
+C) 4
+D) 3
+
+28. "TUZAMAN, PYTHON, DASTUR, TILIDA, MEN" so'zlaridan mazmunli jumla tuzish uchun ularni qanday birlashtirish kerak?
+A) len() funksiyasi bilan hisoblab
+B) Tartibsiz, "*" amali bilan
+C) Faqat print() ichida vergul bilan ajratib
++D) To'g'ri tartibda, "+" amali va bo'sh joylar bilan
+
+29. Foydalanuvchidan matn qabul qilib, uning uzunligini hisoblash uchun qaysi funksiyalar ketma-ket ishlatilishi kerak?
++A) input() so'ng len()
+B) str() so'ng print()
+C) print() so'ng len()
+D) len() so'ng input()
+
+30. Yuqoridagi maxsus belgilardan qaysi biri satr ichida bevosita ikkitalik qo'shtirnoq belgisini chiqarish uchun ishlatiladi?
++A) \"
+B) \n
+C) \t
+D) \'

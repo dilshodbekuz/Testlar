@@ -1,325 +1,336 @@
 {
  "sinf": "3-sinf",
  "kitob": "3-sinf 3-Sinf Tasviriy san’at",
- "mavzu": "To'rtburchak shaklda naqsh ishlash",
+ "mavzu": "TO'RTBURCHAK SHAKLDA NAQSH ISHLASH",
  "savollar": [
   {
-   "savol": "Kashtachilik buyumlarida to'rtburchak shaklidagi naqshlar qaysi buyumlardan biri bo'ladi?",
+   "savol": "To'rtburchak shaklidagi naqshlar qaysi san'atlarda qo'llaniladi?",
    "variantlar": [
-    "Mashin, avto, ruk",
-    "Palak, so'zana, choyshab",
-    "Kitob, qalam, daftar",
-    "Erkak, ayol, bola"
-   ],
-   "togri": 1,
-   "qiyinlik": "oson"
-  },
-  {
-   "savol": "To'rtburchak shaklidagi naqshlardan qaysi san'atga mansub?",
-   "variantlar": [
-    "Ilmiy san'at",
-    "Musiqa san'ati",
-    "Adabiyot san'ati",
-    "Amaliy san'at"
+    "Faqat kashtachilikda",
+    "Faqat yog'och o'ymakorligida",
+    "Faqat naqqoshlikda",
+    "Naqqoshlik, yog'och o'ymakorligi va ganch o'ymakorligida"
    ],
    "togri": 3,
    "qiyinlik": "oson"
   },
   {
-   "savol": "\"Oygul\" naqsh bezagini belgilash uchun qaysi belgi ishlatiladi?",
+   "savol": "Kashtachilikda qaysi buyumlarda to'rtburchak naqshlar bezatiladi?",
    "variantlar": [
-    "\"*\" belgi",
-    "\"+\" belgi",
-    "\"-\" belgi",
-    "\"?\" belgi"
+    "Kitob, daftar, oynalmaqlarda",
+    "Tuflida, paltada, shoxda",
+    "Rasm, ko'zoynak, shapkada",
+    "Palak, so'zana, choyshab va kirpechda"
    ],
-   "togri": 1,
+   "togri": 3,
    "qiyinlik": "oson"
   },
   {
-   "savol": "\"Barg\" naqsh bezagini belgilash uchun qaysi belgi ishlatiladi?",
+   "savol": "\"Oygul\" bezagi naqshda qaysi belgi bilan belgilanadi?",
    "variantlar": [
-    "\"-\" belgi",
     "\"+\" belgi",
-    "\"!\" belgi",
-    "\"#\" belgi"
+    "\"#\" belgi",
+    "\"*\" belgi",
+    "\"-\" belgi"
    ],
    "togri": 0,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Qog'ozni necha qavat qilib buklab gul bezagi chizib olinadi?",
+   "savol": "\"Barg\" bezagi naqshda qaysi belgi bilan belgilanadi?",
    "variantlar": [
-    "3 qavat",
-    "5 qavat",
+    "\"0\" belgi",
+    "\"+\" belgi",
+    "\"*\" belgi",
+    "\"-\" belgi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qog'ozni buklab naqsh chizilganda nechta qavat yasaladi?",
+   "variantlar": [
+    "4 qavat",
     "8 qavat",
+    "6 qavat",
     "10 qavat"
    ],
-   "togri": 2,
-   "qiyinlik": "oson"
-  },
-  {
-   "savol": "Matnda berilgan bezak gullari qaysilari?",
-   "variantlar": [
-    "Kitobga, qop, tutuniga",
-    "Qor, yer, asma",
-    "Barg bodom, bofta, garmdori, marg'ula, oygul, paxtagul",
-    "Suvga, havoga, yulduzga"
-   ],
-   "togri": 2,
-   "qiyinlik": "oson"
-  },
-  {
-   "savol": "Kashtachilik buyumlarida ko'p uchraydigan tasvirlar nima?",
-   "variantlar": [
-    "Qayiqlar, mashinalar",
-    "O'simliksimon tasvirlar, shox, gulband, guldastalar",
-    "Hayvonlar, baliqlar",
-    "Erkaklar, ayollar"
-   ],
    "togri": 1,
    "qiyinlik": "oson"
   },
   {
-   "savol": "To'rtburchak shapidagi naqshlar qaysi san'at turlarida qo'llaniladi?",
+   "savol": "Bezak gullaridan biri qaysi?",
    "variantlar": [
-    "Faqat kashtachilikda",
-    "Faqat taomlar tayyorlab kelishda",
-    "Faqat o'qituvchilikda",
-    "Naqqoshlik, yog'och o'ymakorligi, ganch o'ymakorligida"
+    "Oq",
+    "Dush",
+    "Tup",
+    "Bodom"
    ],
    "togri": 3,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Sariq rangli qog'ozdan qaysi bezak guli kesib olinadi?",
+   "savol": "Kashtachilik buyumlarida ko'p uchraydi...",
    "variantlar": [
-    "\"Oygul\" bezak guli",
-    "\"Garmdori\" bezak guli",
-    "\"Bodom\" bezak guli",
-    "\"Barg\" bezak guli"
+    "Geometrik shaklar",
+    "Raqamlar va harflar",
+    "Yo'lsimon naqshlar",
+    "O'simliksimon tasvirlar, shox va guldastalar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Naqsh ishlashda qirqib olingan bezak gullari qayda joylashtiriladi?",
+   "variantlar": [
+    "Qizil rangli qog'ozga",
+    "Sariq rangli qog'ozga",
+    "Oq rangli qog'ozga",
+    "Yashil rangli qog'ozga"
    ],
    "togri": 0,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Yashil rangli qog'ozdan qaysi bezak guli kesib olinadi?",
+   "savol": "Sariq va yashil rangli qog'oz nima uchun ishlatiladi?",
    "variantlar": [
-    "\"Paxtagul\" bezak guli",
-    "\"Garmdori\" bezak guli",
-    "\"Oygul\" bezak guli",
-    "\"Barg\" bezak guli"
+    "Rang bo'yash uchun",
+    "Asosga ishlatish uchun",
+    "Chegarani chizish uchun",
+    "Bezak gullarini qirqib olish uchun"
    ],
    "togri": 3,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Buklangan sariq qog'ozni \"oygul\" guli bo'yicha kesish natijasida nechta \"oygul\" bezak guli paydo bo'ladi?",
+   "savol": "Kashtachilikda to'rtburchak naqshlar bilan birga qaysi shakldagi naqshlar ham ishlatiladi?",
    "variantlar": [
-    "16 ta",
-    "4 ta",
-    "2 ta",
-    "8 ta"
+    "Faqat doira",
+    "Faqat kvadrat",
+    "Faqat yo'lsimon",
+    "Yo'lsimon, doira va kvadrat"
    ],
    "togri": 3,
-   "qiyinlik": "o'rtacha"
+   "qiyinlik": "oson"
   },
   {
-   "savol": "Agar yashil qog'ozdan 8 qavat buklab \"barg\" chizib kesish, nechta \"barg\" bezak guli paydo bo'ladi?",
+   "savol": "Sariq qog'ozni 8 qavat buklab \"oygul\" chizib qirqib olingach nechta \"oygul\" hosil bo'ladi?",
    "variantlar": [
-    "4 ta",
-    "10 ta",
-    "6 ta",
-    "8 ta"
-   ],
-   "togri": 3,
-   "qiyinlik": "o'rtacha"
-  },
-  {
-   "savol": "Kesib olingan bezak gullarini qaysi rangli qog'oz ustiga joylashtiriladi?",
-   "variantlar": [
-    "Oq rangli qog'oz ustiga",
-    "Ko'k rangli qog'oz ustiga",
-    "Sariq rangli qog'oz ustiga",
-    "Qizil rangli qog'oz ustiga"
-   ],
-   "togri": 3,
-   "qiyinlik": "o'rtacha"
-  },
-  {
-   "savol": "Naqsh jadvalida \"+\" va \"-\" belgilari nimani belgilaydi?",
-   "variantlar": [
-    "Ranglarni",
-    "Harflarni",
-    "Bezak gullarining o'rnini",
-    "Raqamlarni"
-   ],
-   "togri": 2,
-   "qiyinlik": "o'rtacha"
-  },
-  {
-   "savol": "Palak, so'zana, choyshab kabi kashtachilik buyumlarida qaysi tasvirlar ko'p uchraydi?",
-   "variantlar": [
-    "Harfli naqshlar",
-    "O'simliksimon tasvirlar, shox, gulband, guldastalar",
-    "Geometrik naqshlar",
-    "Raqamli naqshlar"
-   ],
-   "togri": 1,
-   "qiyinlik": "o'rtacha"
-  },
-  {
-   "savol": "Naqsh shaklini ishlash uchun berilgan tarxlardan qanday tanlab olish kerak?",
-   "variantlar": [
-    "Faqat chizib kesish",
-    "Faqat bo'yib rangash",
-    "Tarxlaridan birini tanlab, qirqib olingan bezak gullarini joylashtirib ishlash",
-    "Faqat buklab kesish"
-   ],
-   "togri": 2,
-   "qiyinlik": "o'rtacha"
-  },
-  {
-   "savol": "To'rtburchak shaklidagi naqsh ishlashda naqsh jadvalida berilgan rasmlarda nima ko'rsatiladi?",
-   "variantlar": [
-    "Faqat raqamlar",
-    "Faqat harflar",
-    "Faqat ranglar",
-    "Bezak gullarining o'rnini \"+\" va \"-\" belgilari ko'rsatadi"
-   ],
-   "togri": 3,
-   "qiyinlik": "o'rtacha"
-  },
-  {
-   "savol": "Qog'ozni turlicha qavat qilib buklaganda, kesib olingan bezak gullarining soni qanday o'zgaradi?",
-   "variantlar": [
-    "Faqat rang o'zgaradi",
-    "Qavat soni orttirilsa, bezak gullarining soni ham ortadi",
-    "O'zgarib qolmaydi",
-    "Faqat shakli o'zgaradi"
-   ],
-   "togri": 1,
-   "qiyinlik": "o'rtacha"
-  },
-  {
-   "savol": "Naqshda \"oygul\" sariq qog'ozdan, \"barg\" qaysi rangli qog'ozdan kesib olinadi?",
-   "variantlar": [
-    "Qizil qog'ozdan",
-    "Yashil qog'ozdan",
-    "Ko'k qog'ozdan",
-    "Oq qog'ozdan"
-   ],
-   "togri": 1,
-   "qiyinlik": "o'rtacha"
-  },
-  {
-   "savol": "Naqshni ishlashning birinchi bosqichi qanday?",
-   "variantlar": [
-    "Jadvaldan foydalanish",
-    "Sariq qog'ozni 8 qavat buklab \"oygul\" chizib olish",
-    "Yashil qog'ozni bukish",
-    "Qizil qog'oz ustiga qo'yish"
-   ],
-   "togri": 1,
-   "qiyinlik": "o'rtacha"
-  },
-  {
-   "savol": "Agar qog'ozni 4 qavat buklab \"oygul\" chizib kesish, nechta \"oygul\" bezak guli paydo bo'lardi?",
-   "variantlar": [
-    "2 ta",
+    "64 ta",
     "8 ta",
     "16 ta",
-    "4 ta"
+    "1 ta"
    ],
-   "togri": 3,
-   "qiyinlik": "qiyin"
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Jami 8 ta \"oygul\" va 8 ta \"barg\" kesib olish uchun qaysi rangli qancha qog'oz kerak?",
+   "savol": "Yashil qog'ozdan 8 ta \"barg\" va sariq qog'ozdan 8 ta \"oygul\" qirqib olingach, jami nechta bezak guli bo'ladi?",
    "variantlar": [
-    "Faqat sariq qog'oz",
-    "Sariq va yashil qog'ozdan bittadan",
-    "To'rt rangli qog'oz",
-    "Faqat yashil qog'oz"
+    "32 ta",
+    "16 ta",
+    "24 ta",
+    "8 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Naqsh ishlashning birinchi bosqichida qanday ishlanadi?",
+   "variantlar": [
+    "Sariq qog'ozni 8 qavat qilib buklash",
+    "Naqsh namunasini tanlash",
+    "Qizil qog'ozga bezak guli joylash",
+    "Yashil qog'ozni buklab naqsh chizish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qog'ozni buklab naqsh chizilgandan so'ng nima qilinadi?",
+   "variantlar": [
+    "Rang bo'yanadi",
+    "Yana buklanadi",
+    "Buklangan qog'ozni chizilgan gul bezagi bo'yicha qirqish",
+    "Qizil qog'ozga to'g'ridan-to'g'ri joylashtiriladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bezak gullarini joylashtirishda turlicha usullardan foydalanish mumkinmi?",
+   "variantlar": [
+    "Joylashtirish zarur emas",
+    "Yo'q, faqat bitta usulda",
+    "Faqat ikkita usulda",
+    "Ha, ko'p usulda joylashtirish mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yashil rangli qog'ozdan qanday bezak gullari qirqib olinadi?",
+   "variantlar": [
+    "16 ta \"oygul\"",
+    "16 ta \"barg\"",
+    "8 ta \"barg\"",
+    "8 ta \"oygul\""
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kashtachilik va naqqoshlikda to'rtburchak naqshlar qanday maqsadda qo'llaniladi?",
+   "variantlar": [
+    "Faqat rang uchun",
+    "Faqat chiziq uchun",
+    "Hech qaysi maqsad uchun",
+    "Bezak va naqsh yaratish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ganch o'ymakorligida to'rtburchak naqshlar qo'llanilishi nimani anglatadi?",
+   "variantlar": [
+    "Bu naqsh qimmatli san'atda qo'llanilishini",
+    "Bu naqsh turi juda keng tarqalgan ekanligini",
+    "Bu san'at yo'q ekanligini",
+    "Naqsh faqat kashtachilikda qo'llanilishini"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Naqsh ishlashning qaysi bosqichlarida turli rang qog'ozlar ishlatiladi?",
+   "variantlar": [
+    "Barcha bosqichlarda",
+    "Birinchi, ikkinchi va oxirgi bosqichlarda",
+    "Faqat oxirgi bosqichda",
+    "Faqat birinchi bosqichda"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Palak, so'zana va choyshab kabi kashtachilik buyumlariga qanday tasvirlar bilan bezak qo'llaniladi?",
+   "variantlar": [
+    "Xat va belgalar",
+    "Geometrik shaklar",
+    "Harflar va raqamlar",
+    "O'simliksimon tasvirlar va guldastalar"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sariq qog'ozni 8 qavat buklab \"oygul\" chizib qirqib olingach, paydo bo'ladigan naqsh bezaklarining soni nima asosida aniqlanadi?",
+   "variantlar": [
+    "Buklanish soni × 8",
+    "Har bir qavat = 1 ta bezak guli, jami 8 ta",
+    "Buklanish soni ÷ 8",
+    "Buklanish soni + 8"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Agar naqsh jadvalida \"oygul\" (+) 6 ta, \"barg\" (-) 4 ta bo'lsa, naqshda qaysi bezak ko'p bo'ladi?",
+   "savol": "Agar naqsh ishlashda sariq qog'ozdan 8 ta \"oygul\", yashil qog'ozdan 8 ta \"barg\" qirqib olingansa, qizil qog'ozga joylashtirilganda jami nechta bezak guli bo'ladi?",
    "variantlar": [
-    "Bilish mumkin emas",
-    "Teng bo'ladi",
-    "\"Barg\" ko'p bo'ladi",
-    "\"Oygul\" ko'p bo'ladi"
+    "16 ta",
+    "8 ta",
+    "32 ta",
+    "24 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Naqsh ishlashda sariq va yashil qog'ozning turlicha ishlatilishi qanday foyda keltiradi?",
+   "variantlar": [
+    "Bezak gullarining rangi o'zgaradi",
+    "Qirqish qiynroq bo'ladi",
+    "Turli bezak gullarini turlicha joylashtirish imkonini beradi",
+    "Rasm chizish osonroq bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kashtachilik buyumlarida (palak, so'zana, choyshab, kirpech, zardevor) o'simliksimon tasvirlar bilan naqsh qo'llanilishi nimani ko'rsatadi?",
+   "variantlar": [
+    "Tabiiy motivlarning bezakda muhim rol o'ynaganligini",
+    "Naqsh qo'llash kerak emasligini",
+    "Faqat rang muhim ekanligini",
+    "Faqat kashtachilikda qo'llanilishini"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qog'ozni 8 qavat buklab naqsh chizgandan so'ng qirqib olingach, naqsh bezaklarining soni nimaga bog'liq bo'ladi?",
+   "variantlar": [
+    "Buklanish soniga",
+    "Faqat rang tanlashiga",
+    "Faqat qalam turini tanlashiga",
+    "Qog'ozning o'lchamiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Oygul\" va \"barg\" belgilashda turli belgilar (+ va -) ishlatilishi nima uchun zarur?",
+   "variantlar": [
+    "Faqat chizish qiynligi uchun",
+    "Belgi qo'llash shart emas",
+    "Rang to'plami uchun",
+    "Turli bezak gullarini ajratib turish va naqsh ko'rsatish uchun"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Qog'ozni 8 qavat buklab kesish natijasida nega 8 ta bezak guli paydo bo'ladi?",
+   "savol": "Naqqoshlik, yog'och o'ymakorligi va ganch o'ymakorligida to'rtburchak naqshlar qo'llanilishi nimani bildiradi?",
    "variantlar": [
-    "Qog'oz rangi sabab",
-    "Faqat bitta gul paydo bo'ladi",
-    "Har bir qavat kesishda bittadan gul paydo bo'ladi",
-    "Qog'ozning shakli sabab"
+    "Bu naqsh turi faqat kashtachilikda kerak",
+    "Naqsh shakli muhim emas",
+    "Bu san'atlarda naqsh qo'llash mumkin emas",
+    "To'rtburchak naqsh turi san'atlarda keng tarqalgan va muhim"
    ],
-   "togri": 2,
+   "togri": 3,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Kashtachilikdan tashqari, to'rtburchak shaklidagi naqshlar boshqa qaysi san'at turlarida qo'llaniladi?",
+   "savol": "Agar naqsh kompositsiyasida barg, oygul, uch barg, marg'ula, lolagul, paxtagul va bofta barcha bezak gullari ishtirok etsa, bu naqsh qanday xususiyatga ega bo'ladi?",
    "variantlar": [
-    "Faqat musiqa san'atida",
-    "Faqat kashtachilikda",
-    "Naqqoshlik, yog'och o'ymakorligi, ganch o'ymakorligida",
-    "Faqat o'qituvchilikda"
+    "Faqat oygul bezak guli kerak",
+    "Xato naqsh bo'ladi",
+    "Sodda naqsh bo'ladi",
+    "Bogatli va turli bezak gullardan iborat bo'ladi"
    ],
-   "togri": 2,
+   "togri": 3,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "To'rtburchak shaklidagi naqshda bezak gullarining o'rnini o'zgartirish natijasida nima bo'ladi?",
+   "savol": "Kashtachilik buyumlariga qo'llaniladigan o'simliksimon tasvirlar, shox, gulband va guldastalarning barchasi qaysi naqsh shakli bilan bezatiladi?",
    "variantlar": [
-    "Naqsh o'zgarib qolmaydi",
-    "Naqshning ko'rinishi boshqacharoq bo'ladi",
-    "Faqat rang o'zgaradi",
-    "Faqat katta bo'ladi"
+    "Uchburchak shakl bilan",
+    "To'rtburchak shakl bilan",
+    "Yo'lsimon shakl bilan",
+    "Doira shakl bilan"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Naqsh jadvalida berilgan rasmlarga muvofiq to'rtburchakli naqsh ishlashning to'liq jarayoni qanday?",
+   "savol": "Naqsh ishlashning 1-bosqichida sariq, 2-bosqichida yashil, 3-bosqichida qizil rang qog'oz ishlatilishining tartibiy o'zgarishi nima uchun zarur?",
    "variantlar": [
-    "Faqat bukib kesish",
-    "Faqat bo'yib rangash",
-    "Jadvalga ko'ra bezak gullarini joylashtirish, keyin yopishtirib ishlash",
-    "Faqat chizib kesish"
+    "Rang o'zgarishi uchun",
+    "Har bir bosqichning turli xususiyatiga va maqsadiga mos kelib, bezak yaratish uchun",
+    "Tartib muhim emas",
+    "Rang har safar o'zgarishi shart"
    ],
-   "togri": 2,
-   "qiyinlik": "qiyin"
-  },
-  {
-   "savol": "Agar naqsh jadvalida \"oygul\" 3 ta, \"barg\" 2 ta, keyin yana \"oygul\" 3 ta, \"barg\" 2 ta pattern takrorlansin, jami nechta \"oygul\" va nechta \"barg\" bo'ladi?",
-   "variantlar": [
-    "8 ta oygul va 8 ta barg",
-    "4 ta oygul va 6 ta barg",
-    "6 ta oygul va 4 ta barg",
-    "5 ta oygul va 5 ta barg"
-   ],
-   "togri": 2,
-   "qiyinlik": "qiyin"
-  },
-  {
-   "savol": "Kashtachilik buyumlari bezashda to'rtburchak shaklidagi naqshlardan foydalanishning asosiy sababi nima?",
-   "variantlar": [
-    "Rasm chizish uchun",
-    "O'yin uchun",
-    "O'simliksimon tasvirlar, shox, gulband, guldastalarni qo'yish uchun qulay",
-    "O'quv material sifatida"
-   ],
-   "togri": 2,
+   "togri": 1,
    "qiyinlik": "qiyin"
   }
  ]

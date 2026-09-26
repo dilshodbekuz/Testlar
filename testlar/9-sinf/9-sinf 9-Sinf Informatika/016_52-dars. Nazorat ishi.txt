@@ -1,0 +1,181 @@
+52-dars. Nazorat ishi
+
+--- OSON ---
+
+1. Takrorlanishlar soni oldindan aniq bo‘lmagan masalalarni yechishda qaysi sikl operatoridan foydalangan ma’qul?
+A) if operatori
+B) for sikli
+C) def operatori
++D) while sikli
+
+2. while sikli qanday holatda ishga tushmaydi?
+A) Har doim ishga tushadi
+B) Sikl tanasida xatolik bo‘lsa
++C) Shart boshida False bo‘lsa
+D) O‘zgaruvchi e’lon qilinmagan bo‘lsa
+
+3. Cheksiz sikl hosil qilish uchun while operatorida shart o‘rniga qanday kalit so‘z yoziladi?
++A) True
+B) False
+C) break
+D) None
+
+4. IDLE interfaol muhitida cheksiz siklni to‘xtatish uchun qanday tugmalar birikmasi ishlatiladi?
++A) Ctrl+C
+B) Ctrl+Z
+C) Alt+F4
+D) Shift+Esc
+
+5. Sikl ishini to‘liq to‘xtatib, undan chiqish uchun qaysi operator ishlatiladi?
+A) continue
++B) break
+C) pass
+D) return
+
+6. Sikl tanasidagi joriy iteratsiyani o‘tkazib, keyingi qadamga o‘tish uchun qaysi operator ishlatiladi?
+A) exit
+B) break
+C) stop
++D) continue
+
+7. Python tilida funksiyani e’lon qilish qaysi kalit so‘z bilan boshlanadi?
+A) function
++B) def
+C) proc
+D) func
+
+8. Qism dasturning qaysi turi hech qanday qiymat qaytarmaydi?
+A) Funksiya
+B) Modul
++C) Protsedura
+D) Kutubxona
+
+9. Funksiyaning o‘zini o‘zi chaqirishi qanday nomlanadi?
+A) Deklaratsiya
+B) Import
++C) Rekursiya
+D) Iteratsiya
+
+10. Faqat o‘zi e’lon qilingan funksiya doirasida faol bo‘ladigan o‘zgaruvchi qanday ataladi?
+A) Statik o‘zgaruvchi
++B) Lokal o‘zgaruvchi
+C) Doimiy o‘zgaruvchi
+D) Global o‘zgaruvchi
+
+--- O'RTACHA ---
+
+11. Karra jadvali dasturida foydalanuvchi 'bilmayman' deb javob kiritsa, break operatori qo‘shilgan holda nima sodir bo‘ladi?
+A) Qayta savol beriladi
++B) Sikl to‘xtaydi va 'Tugadi' chiqadi
+C) Keyingi savolga o‘tadi
+D) Dastur xatolik beradi
+
+12. Karra jadvali dasturida foydalanuvchi 'keyingisi' deb javob kiritganda continue operatori tufayli nima sodir bo‘ladi?
+A) Dastur qayta ishga tushadi
+B) Sikl butunlay to‘xtaydi
+C) Xatolik xabari chiqadi
++D) Joriy savol o‘tkazilib, keyingi savolga o‘tiladi
+
+13. a=1, b=2 qiymatlar berilgan holda a, b = b, a buyrug‘i bajarilgach, a va b ning qiymatlari qanday bo‘ladi?
+A) a=1, b=2
+B) a=3, b=3
+C) a=0, b=0
++D) a=2, b=1
+
+14. Funksiya ichida global o‘zgaruvchining qiymatini o‘zgartirish uchun qaysi kalit so‘zdan foydalaniladi?
++A) global
+B) import
+C) static
+D) local
+
+15. import random buyrug‘idan so‘ng randint funksiyasini chaqirish uchun qanday yozish kerak?
+A) random->randint(1,5)
+B) randint(1,5)
+C) import randint(1,5)
++D) random.randint(1,5)
+
+16. from random import * usulida funksiya chaqirilganda, funksiya nomidan oldin modul nomi ko‘rsatiladimi?
+A) Ha, har doim ko‘rsatiladi
+B) Faqat matematik funksiyalarda ko‘rsatiladi
++C) Yo‘q, ko‘rsatilmaydi
+D) Faqat random moduli uchun ko‘rsatiladi
+
+17. n=5 bo‘lganda, i=1, p=1 dan boshlanib while i<=n sharti bilan p=p*i, i+=1 bajariladigan sikl natijasida p ning qiymati nechaga teng bo‘ladi?
+A) 100
+B) 125
+C) 110
++D) 120
+
+18. def val4(d): print(d); d=100; print(d) funksiyasi c=200 bilan chaqirilganda (val4(c)), funksiya ichida d ga yangi qiymat berilishi c ning asosiy dasturdagi qiymatiga ta’sir qiladimi?
+A) c o‘chirib yuboriladi
+B) Dastur xatolik beradi
++C) Yo‘q, c 200 bo‘lib qoladi
+D) Ha, c ham 100 ga o‘zgaradi
+
+19. 60 va 21 sonlarining tub ko‘paytuvchilarga ajratish usuli bilan topilgan EKUB qiymati nechaga teng?
+A) 1
+B) 21
+C) 7
++D) 3
+
+20. b=5 global o‘zgaruvchi bo‘lib, val2 nomli funksiya ichida faqat print(b) buyrug‘i bo‘lsa, funksiya chaqirilganda ekranga qanday natija chiqadi?
+A) Xatolik xabari
++B) 5
+C) b nomi
+D) 0
+
+--- QIYIN ---
+
+21. i=1, s=0 dan boshlab while i<=99 sharti bilan s=s+i*(i+1), i+=2 bajariladigan siklda i necha marta takrorlanadi?
+A) 49 marta
+B) 25 marta
++C) 50 marta
+D) 99 marta
+
+22. i=1, p=1 dan boshlab, while i<=4 sharti bilan p=p*i, i+=1 bajariladigan sikl orqali hisoblangan p qiymati nechaga teng?
+A) 30
+B) 12
+C) 6
++D) 24
+
+23. Rekursiv faktorial funksiyasida 'if n==0: return 1' shartini olib tashlasak, funksiya qanday muammoga duch keladi?
+A) Natija noto‘g‘ri, lekin dastur to‘xtaydi
++B) Cheksiz rekursiya yuzaga keladi
+C) Dastur tezroq ishlaydi
+D) Hech qanday muammo bo‘lmaydi
+
+24. b=5 global o‘zgaruvchi bo‘lib, val3 funksiyasida 'global b' e’lon qilinib, b=b+1 bajarilgach funksiya chaqiriladi. Shundan keyin asosiy dasturda print(b) buyrug‘i qanday natija chiqaradi?
+A) 0
++B) 6
+C) 5
+D) Xatolik
+
+25. max3(a,b,c) funksiyasi return max(max(a,b),c) ko‘rinishida ishlaydi. a=10, b=20, c=15 bo‘lsa, funksiya natijasi nechaga teng?
+A) 45
++B) 20
+C) 15
+D) 10
+
+26. Yevklid algoritmining qoldiqli bo‘lish usuli bilan 48 va 18 sonlarining EKUB'ini topishda nechta bo‘lish amali (qadam) bajariladi?
+A) 5 ta
+B) 4 ta
++C) 3 ta
+D) 2 ta
+
+27. Rekursiv funksiya o‘zini o‘zgarmagan parametr bilan qayta-qayta chaqirsa (masalan, factorial(n) ichida yana factorial(n) chaqirilsa), nima yuz beradi?
++A) Cheksiz rekursiya yuzaga kelib, xotira tugaydi
+B) Funksiya tezda tugaydi
+C) Dastur avtomatik tuzatadi
+D) Natija 0 bo‘ladi
+
+28. Karra jadvali dasturida foydalanuvchi avval 'keyingisi', so‘ng 'bilmayman' deb javob bersa, dastur qanday yakunlanadi?
+A) Faqat break ishlaydi, continue e’tiborga olinmaydi
++B) Continue orqali savol o‘tkaziladi, so‘ng break bilan sikl to‘xtab 'Tugadi' chiqadi
+C) Faqat continue ishlaydi, dastur davom etadi
+D) Dastur xatolik beradi
+
+29. Funksiya ichida 'global' kalit so‘zisiz global o‘zgaruvchiga yangi qiymat berishga urinilsa, natijada nima yuz beradi?
+A) Global o‘zgaruvchi o‘chib ketadi
++B) Funksiya ichida yangi lokal o‘zgaruvchi yaratiladi, global o‘zgaruvchi o‘zgarmaydi
+C) Dastur ishlamay qoladi
+D) Global o‘zgaruvchining qiymati o‘zgaradi

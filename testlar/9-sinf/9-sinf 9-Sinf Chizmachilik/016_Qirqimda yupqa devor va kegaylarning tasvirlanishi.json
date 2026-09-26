@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Chizmachilik",
+ "mavzu": "Qirqimda yupqa devor va kegaylarning tasvirlanishi",
+ "savollar": [
+  {
+   "savol": "\"Liska\" nima?",
+   "variantlar": [
+    "Detalning qalinligini bildiruvchi belgi",
+    "Detalning aylana shaklidagi qismi",
+    "Qirqim chizig'ining nomi",
+    "Detalning geometrik o'qiga parallel tekis yuza qismi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Standart bo'yicha nima hisobiga detalning ko'rinishlari sonini kamaytirish mumkin?",
+   "variantlar": [
+    "Detalni kattalashtirish orqali",
+    "Ruxsat etilgan shartlilik va soddalashtirishlar hisobiga",
+    "Faqat masshtabni o'zgartirish orqali",
+    "Rangli chiziqlar yordamida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Detalning qalinligi chizmada qanday belgi bilan ko'rsatiladi?",
+   "variantlar": [
+    "S bilan (masalan, S2)",
+    "∅ belgisi bilan",
+    "× belgisi bilan",
+    "B harfi bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir xil kattalikdagi elementlar (masalan, teshiklar) ko'p bo'lsa, chizmada nechtasining o'lchami ko'rsatiladi?",
+   "variantlar": [
+    "Faqat bittasining, sonini yozib",
+    "Ikkitasining",
+    "Barchasining",
+    "Hech qaysisining"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Kegay\" so'zi texnik chizmada nimani anglatadi?",
+   "variantlar": [
+    "Qirqim chizig'ini",
+    "Chambarakning spitsasini",
+    "Detalning burchagini",
+    "O'lchov chizig'ini"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Detallarda mustahkamlash devorlari yana qanday nomlanadi?",
+   "variantlar": [
+    "Qovurg'alar",
+    "Kegaylar",
+    "Liskalar",
+    "Faskalar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Frontal qirqimga tushgan yupqa devorning yuzasi qanday tasvirlanadi?",
+   "variantlar": [
+    "Nuqtali chiziq bilan beriladi",
+    "Shtrixlanadi",
+    "Qizil rangda beriladi",
+    "Shtrixlanmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yupqa devor va kegay bo'ylama qirqimga tushganda ular qanday tasvirlanadi?",
+   "variantlar": [
+    "To'liq shtrixlanadi",
+    "Qalin chiziq bilan chizilmaydi",
+    "Ikki marta shtrixlanadi",
+    "Shartli shtrixlanmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yupqa devor yoki kegay ko'ndalang qirqimga to'g'ri kelsa, kesim yuzasi qanday bo'ladi?",
+   "variantlar": [
+    "Shtrixlanmaydi",
+    "Faqat chiziladi, o'lchov qo'yilmaydi",
+    "Bo'sh qoldiriladi",
+    "Shtrixlanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "16.1-chizma, b da qaysi shartli belgilar qo'llanilgan?",
+   "variantlar": [
+    "Faqat kvadrat belgisi",
+    "Faqat masshtab belgisi",
+    "Faqat diametr belgisi",
+    "Kesim, mahalliy qirqim va liska belgilari"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Detalda 8 ta bir xil teshik bo'lsa, standart bo'yicha nechta teshikning o'lchami chizmada ko'rsatiladi?",
+   "variantlar": [
+    "4 ta",
+    "8 ta",
+    "2 ta",
+    "1 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir xil uzunlikdagi uzun detalni soddalashtirib chizishda uning eng uzun joyi qanday chiziq bilan ajratiladi?",
+   "variantlar": [
+    "Nuqta-tire chiziq bilan",
+    "Qalin to'g'ri chiziq bilan",
+    "Punktir chiziq bilan",
+    "To'lqinsimon ingichka chiziq bilan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "To'lqinsimon chiziq bilan qisqartirib tasvirlashda chizma masshtabiga nima bo'ladi?",
+   "variantlar": [
+    "Ikki barobar oshiriladi",
+    "Kattalashtiriladi",
+    "Kichraytiriladi",
+    "O'zgartirishga hojat qolmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A–A tekislik orqali hosil bo'layotgan qirqim va chambarak kegayining ko'ndalang kesimi nimaga misol bo'ladi?",
+   "variantlar": [
+    "Liskaning qo'llanilishiga",
+    "Masshtabning o'zgarishiga",
+    "Kegayning bo'ylama qirqimda shtrixlanmasligiga",
+    "Kegayning ko'ndalang qirqimda shtrixlanishiga"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Detalda 5 ta bir xil teshik bo'lib, faqat bittasi to'liq chizilsa, qolgan 4 tasi chizmada qanday ko'rsatiladi?",
+   "variantlar": [
+    "Umuman ko'rsatilmaydi",
+    "Boshqa o'lchamda chiziladi",
+    "Qizil chiziq bilan belgilanadi",
+    "Faqat o'rinlari (markazlari) ko'rsatiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yupqa devor bo'ylama qirqimga tushganda shtrixlanmasligining sababi nima bilan bog'liq?",
+   "variantlar": [
+    "Devor umuman qirqilmagani uchun",
+    "Devor qalinligi juda kichik bo'lgani uchun tasvir chalkash bo'lib ko'rinmasligi uchun",
+    "Devor faqat old ko'rinishda bo'lgani uchun",
+    "Devor rangli bo'lgani uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Chambarakdagi kegaylar (spitsalar) odatda markazdan chetga qarab qanday yo'nalishda joylashadi?",
+   "variantlar": [
+    "Tasodifiy",
+    "Faqat gorizontal",
+    "Radial (nur shaklida)",
+    "Parallel"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yupqa devor yoki kegay ko'ndalang qirqimda shtrixlanishi nimani anglatadi?",
+   "variantlar": [
+    "Bu joyda hech qanday material yo'qligini",
+    "Bu joyda faqat chiziq borligini",
+    "Bu joyda materialning kesilgan qismi haqiqatda ko'rinayotganini",
+    "Bu joyda detal umuman qirqilmaganini"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Detal qalinligini \"S2\" tarzida yozish qaysi turdagi detallar uchun qo'llaniladi?",
+   "variantlar": [
+    "Chambarak shaklidagi detallar uchun",
+    "Faqat aylana shaklidagi detallar uchun",
+    "Faqat kub shaklidagi detallar uchun",
+    "Tekis (yassi) detallar uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "16-§ da keltirilgan shartlilik va soddalashtirishlarning asosiy maqsadi nima?",
+   "variantlar": [
+    "Rang qo'shish",
+    "Ko'rinishlar sonini kamaytirib, chizmani soddalashtirish",
+    "Chizmani murakkablashtirish",
+    "Masshtabni kattalashtirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nega standart yupqa devor va kegaylarni bo'ylama qirqimda shtrixlashni taqiqlaydi?",
+   "variantlar": [
+    "Chunki bo'ylama qirqimda umuman shtrixlash mumkin emas",
+    "Chunki devor rangli bo'lishi kerak",
+    "Chunki shtrixlash chizmani ortiqcha murakkablashtirib, devor qalin qism kabi noto'g'ri taassurot qoldirishi mumkin",
+    "Chunki shtrixlash uchun vaqt yetarli emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Detalda ham bir xil teshiklar, ham qalinlik belgisi (S2) qo'llash zarur bo'lsa, bu ikki shartlilik chizmada qanday birgalikda qo'llaniladi?",
+   "variantlar": [
+    "Ular bir-birini istisno qiladi, faqat bittasi qo'llanadi",
+    "Faqat rangli chizmada qo'llaniladi",
+    "Ikkalasi ham chizmadan olib tashlanadi",
+    "Teshiklardan bittasi o'lchami bilan chizilib soni yoziladi, qalinlik esa alohida S belgisi bilan ko'rsatiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yupqa devor gorizontal yo'nalishda joylashgan bo'lsa va frontal qirqim tekisligi devor tekisligiga parallel o'tsa, bu qirqim devor uchun qanday hisoblanadi?",
+   "variantlar": [
+    "Faqat mahalliy qirqim hisoblanadi",
+    "Ko'ndalang qirqim, shtrixlanadi",
+    "Bo'ylama qirqim, shtrixlanmaydi",
+    "Qirqim umuman hosil bo'lmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Standart yupqa devor va kegaylarni ko'ndalang qirqimda shtrixlashni talab qilishining sababi nima?",
+   "variantlar": [
+    "Chunki bu shunchaki an'ana",
+    "Chunki bu faqat chambarak detallar uchun amal qiladi",
+    "Chunki ko'ndalang qirqimda material umuman yo'q",
+    "Chunki bu holatda kesim yuzasi haqiqatda material bilan to'lgan holda ko'rinadi va shtrixlash uni to'g'ri ifodalaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Chambarakli detalda bir nechta kegay radial joylashgan bo'lsa, frontal qirqim markazdan o'tganda soddalashtirish qoidasiga ko'ra odatda nechta kegay to'liq ko'ndalang kesimda tasvirlanadi?",
+   "variantlar": [
+    "Faqat bitta shartli kegay (odatda vertikal joylashgani)",
+    "Ikkitasi",
+    "Barcha kegaylar",
+    "Hech biri"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "To'lqinsimon chiziq bilan qisqartirib chizilgan uzun detalning haqiqiy to'liq uzunligini bilish uchun chizmada nima ko'rsatilishi shart?",
+   "variantlar": [
+    "Faqat masshtab nisbati",
+    "Hech qanday o'lchov kerak emas",
+    "Faqat chizilgan qismning o'lchami",
+    "O'sha joyning butun (haqiqiy) uzunligi o'lchami"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar chizmachi yupqa devorni bo'ylama qirqimda xato ravishda shtrixlab qo'ysa, bu qanday noto'g'ri tushunchaga olib kelishi mumkin?",
+   "variantlar": [
+    "Devor haqiqatdan ham qalinroq (to'liq material) qism deb noto'g'ri tushunilishi mumkin",
+    "Chizma o'lchovlari o'zgarib ketadi",
+    "Devor umuman ko'rinmay qolishi mumkin",
+    "Devor teshik deb tushunilishi mumkin"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Liska texnik talabga binoan qanday maqsadda hosil qilinadi va bu chizmada qanday aks etadi?",
+   "variantlar": [
+    "Detalning biror joyida tekis yuza hosil qilish uchun, chizmada u joy × belgisi bilan ko'rsatiladi",
+    "Detalni yengillashtirish uchun, chizmada rang bilan ko'rsatiladi",
+    "Detalni mustahkamlash uchun, chizmada qalin chiziq bilan ko'rsatiladi",
+    "Faqat estetik maqsadda, chizmada hech qanday belgi qo'yilmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ko'rinishlar sonini uchtadan bittaga tushirish uchun qanday shartli belgilar birgalikda qo'llanilishi matndan xulosa qilinsa?",
+   "variantlar": [
+    "Kesim, mahalliy qirqim va liska belgilari birgalikda qo'llaniladi",
+    "Faqat o'lchov chiziqlari o'zgartiriladi",
+    "Faqat masshtab o'zgartiriladi",
+    "Faqat rang qo'shiladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nega standart yupqa devor va kegaylarni shartli shtrixlamaslikka ruxsat beradi (matn asosida asosiy maqsadni umumlashtiring)?",
+   "variantlar": [
+    "Vaqtni behuda sarflash uchun",
+    "Chizmani chalkashtirish uchun",
+    "Faqat an'anaviy qoidalarga rioya qilish uchun",
+    "Chizmani soddalashtirish va detalni to'g'ri, aniq tushunish imkonini berish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+38-dars. Pythonda operator va ifodalar
+
+--- OSON ---
+
+1. input() operatori qanday vazifa bajaradi?
++A) Ma'lumotlarni dasturga kiritish
+B) Ma'lumotlarni ajratish
+C) Ma'lumotlarni faylga yozish
+D) Ma'lumotlarni ekranga chiqarish
+
+2. print() operatori qanday vazifa bajaradi?
+A) Ma'lumotlarni ajratish
+B) Ma'lumotlarni dasturga kiritish
+C) Ma'lumotlarni butun songa aylantirish
++D) Ma'lumotlarni ekranga chiqarish yoki faylga yozish
+
+3. split() usuli qanday vazifa bajaradi?
+A) Sonlarni qo'shadi
++B) Satrni ajratuvchi belgi yordamida qismlarga ajratadi
+C) O'zgaruvchi turini aniqlaydi
+D) Ekranga ma'lumot chiqaradi
+
+4. Odatda split() usulida ajratuvchi belgi vazifasini nima bajaradi?
+A) Nuqta
+B) Vergul
+C) Tire
++D) Probel
+
+5. print() operatorining sep argumenti nima uchun ishlatiladi?
+A) Natijaviy satr qanday belgi bilan tugashini belgilash uchun
+B) Natijani faylga yozish uchun
+C) Ma'lumotni kiritish uchun
++D) Natija ma'lumotlarini ajratish uchun
+
+6. print() operatorining end argumenti nima uchun ishlatiladi?
+A) Ma'lumotlarni kiritish uchun
++B) Natijaviy satr qanday belgi bilan tugashini belgilaydi
+C) Satrni qismlarga ajratish uchun
+D) Natija ma'lumotlarini ajratish uchun
+
+7. Agar split() usulida probeldan boshqa belgi ishlatilsa, bu belgi qayerda ko'rsatiladi?
+A) input() dan tashqarida
+B) O'zgaruvchi nomida
+C) print() qavslari ichida
++D) split() qavslari ichida
+
+8. sep va end nima hisoblanadi?
+A) Mustaqil operatorlar
+B) input() operatorining metodlari
++C) print() funksiyasining argumentlari
+D) split() ning parametrlari
+
+9. Matnda ko'rsatilgan ma'lumotlarni ajratishning ikkita usuli qaysilar?
++A) Defis va yangi satr (\n) belgisi
+B) Probel va vergul
+C) Nuqta va vergul
+D) Qavs va tire
+
+10. split(sep) sintaksisida "sep" nimani bildiradi?
+A) Funksiya nomi
+B) Natija turi
+C) O'zgaruvchi nomi
++D) Qiymatlarni ajratuvchi belgi
+
+--- O'RTACHA ---
+
+11. a='Yulduz', b='14', c='years old' berilgan. print(a,b,c, sep='+') buyrug'ining natijasi qanday bo'ladi?
+A) Yulduz-14-years old
+B) Yulduz 14 years old
+C) Yulduz\n14\nyears old
++D) Yulduz+14+years old
+
+12. Xuddi shu o'zgaruvchilar uchun print(a,b,c, sep='\n') buyrug'ining natijasi qanday bo'ladi?
++A) Har bir qiymat alohida qatorda chiqadi
+B) Yulduz+14+years old
+C) YulduzYulduz14years old
+D) Yulduz 14 years old bir qatorda
+
+13. Foydalanuvchi "book pen pencil notebook" deb kiritganda, a=input().split() buyrug'i natijasida a o'zgaruvchisi qanday qiymatga ega bo'ladi?
++A) ['book', 'pen', 'pencil', 'notebook']
+B) 'book pen pencil notebook'
+C) book, pen, pencil, notebook
+D) ('book','pen','pencil','notebook')
+
+14. Foydalanuvchi "5;8;7;1;2" deb kiritganda, a=input().split(';') buyrug'i natijasida a nechta elementga ega bo'ladi?
+A) 2
++B) 5
+C) 4
+D) 3
+
+15. a='Yulduz', b='14', c='years old' bo'lganda print(a,b,c, sep='-', end='.') buyrug'ining natijasi qanday bo'ladi?
++A) Yulduz-14-years old.
+B) Yulduz-14-years old
+C) Yulduz.14.years old
+D) Yulduz-14-years old\n
+
+16. a=input().split('+') buyrug'idan so'ng a[0] elementining turi qanday bo'ladi?
+A) Butun son (int)
++B) Satr (str)
+C) Ro'yxat (list)
+D) Haqiqiy son (float)
+
+17. a1 = int(a[0]) qatori nima uchun ishlatiladi?
+A) Ekranga chiqarish uchun
+B) Ikki qiymatni qo'shish uchun
++C) Satr ko'rinishidagi qiymatni butun songa aylantirish uchun
+D) Satrni bo'laklarga ajratish uchun
+
+18. n = 8795 bo'lganda, d1 = n % 10 ifodasining qiymati nechaga teng?
+A) 7
++B) 5
+C) 9
+D) 8
+
+19. n = 8795 bo'lganda, d4 = n // 1000 ifodasining qiymati nechaga teng?
+A) 7
++B) 8
+C) 5
+D) 9
+
+20. n = 8795 bo'lganda, d3 = n % 1000 // 100 ifodasining qiymati nechaga teng?
+A) 9
+B) 8
++C) 7
+D) 5
+
+--- QIYIN ---
+
+21. n = 8795 son berilgan. Uning xonalari yig'indisini d1+d2+d3+d4 formulasi orqali hisoblang.
+A) 28
+B) 30
+C) 27
++D) 29
+
+22. Foydalanuvchi "478+874" deb kiritdi. a=input().split('+'), a1=int(a[0]), a2=int(a[1]), b=a1+a2, print(b, end=';') dasturi qanday natija chiqaradi?
+A) 1352.
++B) 1352;
+C) 1352
+D) 478+874
+
+23. Foydalanuvchi "56;78" deb kiritdi. a=input().split(';'), b=int(a[0])+int(a[1]) hisoblansa, b ning qiymati nechaga teng bo'ladi?
+A) 5678
+B) 124
+C) 144
++D) 134
+
+24. a='Salom', b='2024' bo'lsa, print(a,b,sep='*') buyrug'ining natijasi qanday bo'ladi?
++A) Salom*2024
+B) Salom2024
+C) Salom-2024
+D) Salom 2024
+
+25. Foydalanuvchi "12+8" deb kiritdi. a=input().split('+') so'ngra ikkinchi elementni int() ga o'tkazilsa, natijada qanday va qay turdagi qiymat hosil bo'ladi?
+A) 12 butun son sifatida
+B) '12+8' butun satr sifatida
+C) '8' satr sifatida
++D) 8 butun son sifatida
+
+26. n = 1234 son berilgan. d1=n%10, d2=n%100//10, d3=n%1000//100, d4=n//1000 formulalari orqali xonalar yig'indisini hisoblang.
+A) 11
++B) 10
+C) 9
+D) 8
+
+27. print() funksiyasida end argumenti alohida ko'rsatilmasa, standart holatda natijaviy satr qaysi belgi bilan tugaydi?
+A) Vergul bilan
++B) Yangi qator (\n) belgisi bilan
+C) Nuqta bilan
+D) Probel bilan
+
+28. input().split() da ajratuvchi belgi ko'rsatilmagan bo'lsa, qanday belgi standart ajratuvchi hisoblanadi?
+A) Nuqta-vergul
+B) Vergul
++C) Probel
+D) Tire
+
+29. n = 5432 son berilgan. d3 = n % 1000 // 100 ifodasining qiymatini toping.
+A) 3
+B) 2
+C) 5
++D) 4
+
+30. Foydalanuvchi "5746+4186" deb kiritdi. a=input().split('+'), a1=int(a[0]), a2=int(a[1]), b=a1+a2 bo'lsa, b ning qiymati nechaga teng?
+A) 9922
++B) 9932
+C) 9822
+D) 9832

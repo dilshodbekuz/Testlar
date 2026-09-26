@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Iqtisodiy bilim asoslari",
+ "mavzu": "Tanlov",
+ "savollar": [
+  {
+   "savol": "Tanlov nima?",
+   "variantlar": [
+    "Davlatning yagona vazifasi",
+    "Faqat pul bilan bog'liq bo'lgan qaror",
+    "Cheklangan resurslardan foydalanish imkoniyatlari orasidan birini tanlash",
+    "Cheksiz resurslardan foydalanish imkoniyati"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Muqobil imkoniyatlar nima?",
+   "variantlar": [
+    "Cheksiz mavjud bo'lgan resurslar",
+    "Davlat tomonidan beriladigan imkoniyatlar",
+    "Faqat ikkita bo'lishi shart bo'lgan imkoniyatlar",
+    "Birini tanlaganda qolganlaridan voz kechiladigan imkoniyatlar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tanlovning muqobil qiymati qanday aniqlanadi?",
+   "variantlar": [
+    "Eng arzon imkoniyat",
+    "Voz kechilgan imkoniyatlar ichidan eng katta naf keltiruvchisi",
+    "Tanlangan narsaning bozor narxi",
+    "Barcha voz kechilgan imkoniyatlarning yig'indisi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nima uchun cheklanganlik muammosi yuzaga keladi?",
+   "variantlar": [
+    "Odamlar ochko'z bo'lgani uchun",
+    "Pul yetarli emasligi uchun",
+    "Davlat noto'g'ri boshqargani uchun",
+    "Ehtiyojlar cheksiz, resurslar esa cheklangan bo'lgani uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shohjahon dadasidan tug'ilgan kuniga necha so'm pul oldi?",
+   "variantlar": [
+    "50 000 so'm",
+    "100 000 so'm",
+    "200 000 so'm",
+    "150 000 so'm"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shohjahon nechta imkoniyatdan birini tanlashga majbur bo'ldi?",
+   "variantlar": [
+    "Ikkita",
+    "To'rtta",
+    "Uchta",
+    "Beshta"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, shampunning narxi qancha edi?",
+   "variantlar": [
+    "27 000 so'm",
+    "18 000 so'm",
+    "20 000 so'm",
+    "30 000 so'm"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, kremning narxi qancha edi?",
+   "variantlar": [
+    "20 000 so'm",
+    "15 000 so'm",
+    "18 000 so'm",
+    "27 000 so'm"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Murosali (aralash) tanlov deb nimaga aytiladi?",
+   "variantlar": [
+    "Eng qimmat narsani tanlash",
+    "Hech qanday imkoniyatni tanlamaslik",
+    "Bir vaqtning o'zida bir necha imkoniyatlardan qisman-qisman foydalanish",
+    "Faqat bitta imkoniyatni tanlash"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Koordinata o'qlari va chiziq bilan chegaralangan soha nima deb ataladi?",
+   "variantlar": [
+    "Tanlov sohasi",
+    "Muqobil qiymat sohasi",
+    "Iqtisodiy resurslar sohasi",
+    "Ishlab chiqarish imkoniyatlari sohasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shohjahon qoniqish tartibiga ko'ra uchta narsadan qaysi birini sotib oldi?",
+   "variantlar": [
+    "Krossovka",
+    "Futbol to'pi",
+    "Hech birini",
+    "Futbol formasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shohjahon krossovkani tanlagani uchun uning tanlovining muqobil qiymati nima bilan o'lchanadi?",
+   "variantlar": [
+    "Futbol to'pi bilan",
+    "Futbol formasi bilan",
+    "Pul bilan",
+    "Vaqt bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar Abdullayev butun 10.800.000 so'mga faqat shampun sotib olsa, necha dona shampun sotib olishi mumkin?",
+   "variantlar": [
+    "600 dona",
+    "400 dona",
+    "300 dona",
+    "500 dona"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar Abdullayev butun 10.800.000 so'mga faqat krem sotib olsa, necha dona krem sotib olishi mumkin?",
+   "variantlar": [
+    "400 dona",
+    "700 dona",
+    "600 dona",
+    "500 dona"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Abdullayev pulining yarmi — 5.400.000 so'mga necha dona shampun sotib oldi?",
+   "variantlar": [
+    "200 dona",
+    "150 dona",
+    "100 dona",
+    "250 dona"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Abdullayev qolgan yarim puliga necha dona krem sotib oldi?",
+   "variantlar": [
+    "350 dona",
+    "300 dona",
+    "200 dona",
+    "250 dona"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar Abdullayev 100 dona shampun sotib olsa (2.700.000 so'm sarflab), qolgan pulga necha dona krem sotib olishi mumkin?",
+   "variantlar": [
+    "500 dona",
+    "350 dona",
+    "400 dona",
+    "450 dona"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(150; 250) nuqtasi ishlab chiqarish imkoniyatlari sohasining qaysi qismida joylashgan?",
+   "variantlar": [
+    "Soha tashqarisida",
+    "Soha chegarasida",
+    "Koordinata boshida",
+    "Soha ichida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(250; 350) nuqtasi haqida nima deyish mumkin?",
+   "variantlar": [
+    "Bu nuqta soha chegarasida joylashgan",
+    "Bu nuqta soha ichida, resurslardan samarali foydalanilgan",
+    "Bu nuqta soha tashqarisida, Abdullayevning imkoniyat doirasidan tashqarida",
+    "Bu nuqta Shohjahonga tegishli"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnda keltirilgan misollardan qaysi biri davlat miqyosidagi tanlov muammosiga misol bo'ladi?",
+   "variantlar": [
+    "Sog'liqni saqlashga ko'proq pul ajratish yoki neft qayta ishlash zavodi qurish",
+    "Abdullayevning shampun sotib olishi",
+    "Shohjahonning krossovka tanlashi",
+    "Fermer xo'jaligining yer olishi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar Abdullayev 300 dona krem sotib olsa (5.400.000 so'm sarflab), qolgan pulga necha dona shampun sotib olishi mumkin?",
+   "variantlar": [
+    "300 dona",
+    "150 dona",
+    "200 dona",
+    "250 dona"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(150; 250) nuqtasida Abdullayev jami qancha pul sarflaydi va necha so'm pul ishlatilmay qoladi?",
+   "variantlar": [
+    "2.250.000 so'm ishlatilmay qoladi",
+    "1.500.000 so'm ishlatilmay qoladi",
+    "3.000.000 so'm ishlatilmay qoladi",
+    "Barcha pul ishlatiladi, qoldiq yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun (250; 350) nuqtasi Abdullayevning imkoniyat doirasida emas?",
+   "variantlar": [
+    "Chunki Abdullayev bu mahsulotlarni yoqtirmaydi",
+    "Chunki narxlar o'zgargan",
+    "Chunki do'konda bu miqdorda mahsulot yo'q",
+    "Chunki bu miqdorlarni sotib olish uchun 10.800.000 so'mdan ko'proq pul kerak bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Shampun va krem narxlari asosida tuzilgan 3x + 2y = 1200 tenglamasi (x-shampun, y-krem soni) nimani ifodalaydi?",
+   "variantlar": [
+    "Abdullayevning 10.800.000 so'mga sotib olishi mumkin bo'lgan shampun va krem miqdorlarining barcha kombinatsiyalarini",
+    "Faqat krem sotib olish imkoniyatini",
+    "Do'kondagi umumiy mahsulot miqdorini",
+    "Faqat shampun sotib olish imkoniyatini"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar shahar hokimligi yo'l ta'mirlash yoki yangi maktab qurishdan birini tanlasa va maktab qurishni tanlasa, uning tanlovining muqobil qiymati nima bo'ladi?",
+   "variantlar": [
+    "Yo'llarni ta'mirlash imkoniyati",
+    "Mablag' miqdori",
+    "Yangi maktab",
+    "Aholi soni"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nega davlat miqyosida ham cheklanganlik muammosi mavjud?",
+   "variantlar": [
+    "Chunki davlat xorij bilan savdo qilmaydi",
+    "Chunki davlatning ehtiyojlari cheksiz, resurslari esa cheklangan",
+    "Chunki davlat pul chop eta olmaydi",
+    "Chunki davlatda soliq yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Fermer xo'jaligi 10 gektar yerga bahorda qaysi ekinlarni ekish haqida bosh qotiradi. Bu holat qaysi iqtisodiy tushunchalarga misol bo'la oladi?",
+   "variantlar": [
+    "Faqat muqobil qiymatga",
+    "Faqat ishlab chiqarish imkoniyatlari sohasiga",
+    "Faqat murosali tanlovga",
+    "Tanlov va cheklanganlik muammosiga"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar Shohjahon uchta narsa ichidan futbol to'pini tanlagan bo'lsa, matndagi qoniqish tartibiga ko'ra (1-krossovka, 2-to'p, 3-forma) uning tanlovining muqobil qiymati nima bo'lar edi?",
+   "variantlar": [
+    "Hech narsa, chunki barcha narsalar tanlangan",
+    "Krossovka, chunki u qolgan imkoniyatlar ichida eng katta qoniqish beradi",
+    "Pul, chunki u sarflangan",
+    "Futbol formasi, chunki u eng past qoniqish beradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Murosali tanlov bilan oddiy (yagona) tanlov o'rtasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Ular orasida farq yo'q",
+    "Oddiy tanlovda muqobil qiymat mavjud emas",
+    "Murosali tanlovda bir nechta imkoniyatdan qisman-qisman foydalaniladi, oddiy tanlovda esa faqat bittasi tanlanib, qolganlaridan butunlay voz kechiladi",
+    "Murosali tanlov faqat davlat miqyosida qo'llaniladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar Abdullayev 300 dona shampun va 150 dona krem sotib olsa (bu miqdorlar aynan 10.800.000 so'mga to'g'ri keladi), bu qanday tanlov turi hisoblanadi?",
+   "variantlar": [
+    "Bu ishlab chiqarish imkoniyatlari sohasidan tashqarida",
+    "Bu tanlov emas, chunki pul yetarli emas",
+    "Bu ham murosali tanlov, chunki ikkala mahsulotdan ham qisman-qisman foydalanilyapti",
+    "Bu oddiy tanlov, chunki faqat bitta mahsulot tanlangan"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

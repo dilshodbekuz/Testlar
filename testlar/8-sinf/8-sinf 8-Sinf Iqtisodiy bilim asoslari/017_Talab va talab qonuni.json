@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Iqtisodiy bilim asoslari",
+ "mavzu": "Talab va talab qonuni",
+ "savollar": [
+  {
+   "savol": "Talab (tovarga bo'lgan talab) qanday ta'riflanadi?",
+   "variantlar": [
+    "Sotuvchining tovarni ishlab chiqarish miqdori",
+    "Davlatning tovarlarga qo'ygan solig'i miqdori",
+    "Xaridorlarning muayyan vaqt davomida tovarni turli narxlarda qanchadan sotib olish haqidagi xohish va imkoniyatlari",
+    "Tovarning bozordagi umumiy narxi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Talab miqdori nima?",
+   "variantlar": [
+    "Davlat tomonidan belgilangan tovar zaxirasi",
+    "Xaridorlarning muayyan vaqt davomida ma'lum narxda sotib olishi mumkin bo'lgan tovar miqdori",
+    "Ishlab chiqaruvchining tovar ishlab chiqarish hajmi",
+    "Bozordagi barcha tovarlarning umumiy soni"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Talab chizig'i odatda qaysi harf bilan belgilanadi?",
+   "variantlar": [
+    "Q",
+    "P",
+    "S",
+    "D"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Talab chizig'ini belgilashda ishlatiladigan \"D\" harfi ingliz tilidagi qaysi so'zning bosh harfi?",
+   "variantlar": [
+    "Demand",
+    "Department",
+    "Development",
+    "Discount"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Talab qonuniga ko'ra, tovarning narxi past bo'lsa, unga bo'lgan talab miqdori qanday bo'ladi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Nolga teng bo'ladi",
+    "Ko'p bo'ladi",
+    "Kam bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Talab qonuni talab miqdorining narx bilan qanday bog'liqligini ko'rsatadi?",
+   "variantlar": [
+    "Kvadratik bog'liqlik",
+    "Bog'liq emas",
+    "Teskari bog'liqlik",
+    "To'g'ri bog'liqlik"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda talab miqdorining narxga teskari bog'liqligini izohlovchi nechta asosiy omil keltirilgan?",
+   "variantlar": [
+    "Uchta",
+    "Ikkita",
+    "Bitta",
+    "To'rtta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Talab miqdorining narxga teskari bog'liqligini izohlovchi birinchi omil qanday nomlanadi?",
+   "variantlar": [
+    "Sifat omili",
+    "Reklama omili",
+    "Almashtirish omili",
+    "Daromad omili"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Talab miqdorining narxga teskari bog'liqligini izohlovchi ikkinchi omil qanday nomlanadi?",
+   "variantlar": [
+    "Bozor omili",
+    "Almashtirish omili",
+    "Daromad omili",
+    "Talab omili"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Talab p=-aq+b ko'rinishidagi chiziqli funksiya bilan berilganda, a va b uchun qanday shart qo'yiladi?",
+   "variantlar": [
+    "a<0, b<0",
+    "a>0, b≥0",
+    "a<0, b≥0",
+    "a=0, b=0"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Go'sht narxi tushganda, iste'molchilarning xarid qobiliyati oshib, ular qo'shimcha tovar sotib olish imkoniyatiga ega bo'lishi qaysi omil bilan izohlanadi?",
+   "variantlar": [
+    "Narx omili",
+    "Almashtirish omili",
+    "Daromad omili",
+    "Talab omili"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yoz kunlarida olma narxi pasayib, iste'molchilar apelsin o'rniga olma sotib olishga o'tishi qaysi omil bilan izohlanadi?",
+   "variantlar": [
+    "Talab qonuni buzilishi",
+    "Almashtirish omili",
+    "Sifat omili",
+    "Daromad omili"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, bir tovarning sifatli ishlab chiqarilishining o'zi uning talabini oshirishi uchun yetarlimi?",
+   "variantlar": [
+    "Yo'q, faqat narx muhim",
+    "Ha, sifat yetarli",
+    "Yo'q, tovar haqidagi ma'lumot iste'molchilarga yetib borishi ham muhim",
+    "Ha, lekin faqat qishloqda"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Talab jadvali asosida grafik chizilganda, Op o'qqa (vertikal o'qqa) odatda nima joylashtiriladi?",
+   "variantlar": [
+    "Tovar sifati",
+    "Talab miqdori",
+    "Tovarning narxi",
+    "Sotuvchilar soni"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Talab jadvali asosida grafik chizilganda, Oq o'qqa (gorizontal o'qqa) odatda nima joylashtiriladi?",
+   "variantlar": [
+    "Talab miqdori",
+    "Tovarning narxi",
+    "Ishlab chiqarish xarajati",
+    "Sotuvchilar soni"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Talab qonuniga ko'ra, agar tovar narxi oshsa, iste'molchining shu tovarga bo'lgan talab miqdori qanday o'zgaradi?",
+   "variantlar": [
+    "Ortadi",
+    "Avval ortib, keyin kamayadi",
+    "Kamayadi",
+    "O'zgarishsiz qoladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, alohida olingan shaxsning biror tovarga bo'lgan talabi ko'p jihatdan nimaga bog'liq bo'ladi?",
+   "variantlar": [
+    "Tovar haqida qanday va qanchalik to'liq ma'lumotga ega ekanligiga",
+    "Faqat mavsumga",
+    "Faqat davlat siyosatiga",
+    "Faqat uning daromadiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Talab funksiyasi p=-aq+b da a>0 shart qo'yilishi nimani anglatadi?",
+   "variantlar": [
+    "Narx oshsa, talab miqdori ham oshadi",
+    "Talab miqdori doimo o'zgarmaydi",
+    "Narx talab miqdoriga bog'liq emas",
+    "Narx oshsa, talab miqdori kamayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Talab chizig'i qanday hosil qilinadi?",
+   "variantlar": [
+    "Faqat narx nuqtalarini birlashtirib",
+    "Faqat talab miqdori nuqtalarini birlashtirib",
+    "Tasodifiy chiziq chizib",
+    "Narx va talab miqdoriga mos nuqtalarni tutashtirib"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Talab va talab miqdori tushunchalari orasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Ular bir xil tushuncha",
+    "Ular orasida farq yo'q, faqat nomi boshqacha",
+    "Talab - narx bilan miqdor o'rtasidagi umumiy munosabat, talab miqdori esa ma'lum bir narxdagi aniq son",
+    "Talab miqdori umumiy tushuncha, talab esa aniq son"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Robert Giffen kuzatgan hodisada Irlandiyadagi ochlik paytida kartoshka narxi oshganda uni iste'mol qilish nima uchun oshgan?",
+   "variantlar": [
+    "Kartoshka sifati yaxshilangani uchun",
+    "Boshqa oziq-ovqat mahsulotlari yo'q bo'lib qolgani uchun",
+    "Narx oshishi real daromadni kamaytirgan, shu bois odamlar qimmat oziq-ovqatdan voz kechib kartoshkaga o'tishgan",
+    "Davlat kartoshka sotib olishni majburlagani uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Giffen tovarlari holati odatdagi talab qonuniga nisbatan qanday xususiyatga ega?",
+   "variantlar": [
+    "Faqat qishloq joylarda kuzatiladigan qonuniyat",
+    "Talab qonuniga to'liq mos keladi",
+    "Talab qonunidan istisno - narx oshganda talab miqdori ham oshadi",
+    "Talab bilan umuman bog'liq emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga ko'ra, daromad omili va almashtirish omilining o'zaro ta'siri natijasida nima shakllanadi?",
+   "variantlar": [
+    "Tovarga bo'lgan talab miqdori",
+    "Bozordagi sotuvchilar soni",
+    "Tovarning ishlab chiqarish narxi",
+    "Davlat solig'i miqdori"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar bir tovar narxi tushishi bilan bir vaqtda uning o'rnini bosuvchi tovar narxi ham tushsa, bu holatda qaysi omil ta'siri kuchsizroq namoyon bo'ladi deb xulosa qilish mumkin?",
+   "variantlar": [
+    "Daromad omili",
+    "Ikkala omil ham teng darajada kuchayadi",
+    "Almashtirish omili",
+    "Hech qaysi omil ta'sir qilmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matn asosida xulosa chiqaring: sifatli ishlab chiqarilgan, ammo iste'molchilarga yetarlicha reklama qilinmagan tovarning talabi qanday bo'lishi mumkin?",
+   "variantlar": [
+    "Past bo'lishi mumkin, chunki tovar haqidagi ma'lumot iste'molchilarga yetib bormagan",
+    "Albatta yuqori bo'ladi",
+    "Talabga bu holat umuman ta'sir qilmaydi",
+    "Har doim o'rtacha darajada bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Talab funksiyasi p=-aq+b da talab miqdori (q) oshib borganda narx (p) qanday o'zgaradi va bu qanday xulosaga olib keladi?",
+   "variantlar": [
+    "p oshadi, bu talab qonuniga mos keladi",
+    "p kamayadi, bu talab qonuniga (narx bilan talab miqdori teskari bog'liq) mos keladi",
+    "p tasodifiy o'zgaradi, qonuniyat yo'q",
+    "p o'zgarmaydi, bu talab qonuniga zid"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar biror oyda tovar narxi oshgan holda talab miqdori ham oshgan bo'lsa (odatdagi talab qonuniga zid holat), bu qanday tovarga xos hodisa deb baholanadi?",
+   "variantlar": [
+    "Oddiy (odatiy) tovar",
+    "Erkin tovar",
+    "Giffen tovari",
+    "Hashamat tovari"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki xil tovar - biri hashamat tovari, ikkinchisi zaruriy oziq-ovqat tovari bo'lsa, narx oshganda matndagi omillarga asoslanib, qaysi tovarga bo'lgan talab ko'proq kamayishi mumkin?",
+   "variantlar": [
+    "Zaruriy tovarga, chunki uni almashtirib bo'lmaydi",
+    "Hech biriga ta'sir qilmaydi",
+    "Hashamat tovariga, chunki uni osonroq boshqa tovar bilan almashtirish yoki undan voz kechish mumkin",
+    "Ikkalasiga ham bir xil darajada ta'sir qiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Talab qonuni \"boshqa shart-sharoitlar o'zgarmagan holatda\" degan qo'shimcha shart bilan beriladi. Bu shart nima uchun muhim?",
+   "variantlar": [
+    "Chunki bu shartsiz talab qonuni umuman ishlamaydi",
+    "Faqat matematik chiroylilik uchun kiritilgan",
+    "Chunki narxning talabga ta'sirini boshqa omillar ta'siridan ajratib ko'rsatish uchun",
+    "Bu shartning amaliy ahamiyati yo'q"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar iste'molchining daromadi keskin oshsa va shu bilan bir vaqtda tovar narxi ham oshsa, talab qonuni (faqat narxga bog'liqlikni tavsiflashini inobatga olib) bu holatda nimani ko'rsatadi?",
+   "variantlar": [
+    "Talab qonuni faqat narx ta'sirini tavsiflaydi, daromad ta'siri boshqa mavzuda (narxga bog'liq bo'lmagan omillar) o'rganiladi",
+    "Talab miqdori albatta oshadi",
+    "Talab miqdori albatta kamayadi",
+    "Talab umuman o'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

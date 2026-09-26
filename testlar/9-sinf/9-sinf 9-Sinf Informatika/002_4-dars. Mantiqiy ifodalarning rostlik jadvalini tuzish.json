@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Informatika",
+ "mavzu": "4-dars. Mantiqiy ifodalarning rostlik jadvalini tuzish",
+ "savollar": [
+  {
+   "savol": "Mantiqiy ifodada o'zgaruvchilar sonini ifodalovchi harf qaysi?",
+   "variantlar": [
+    "c",
+    "n",
+    "k",
+    "r"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mantiqiy amallar sonini ifodalovchi harf qaysi?",
+   "variantlar": [
+    "c",
+    "k",
+    "n",
+    "r"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jadvaldagi ustunlar sonini hisoblash formulasi qanday?",
+   "variantlar": [
+    "c = 2n",
+    "c = n * k",
+    "c = n - k",
+    "c = n + k"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jadval satrlari sonini (sarlavha satrisiz) hisoblash formulasi qanday?",
+   "variantlar": [
+    "r = n + k",
+    "r = n^2",
+    "r = 2n",
+    "r = 2^n"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mulohazalar to'plami va unda bajariladigan &, ∨, ⏋, =>, <=> amallar birgalikda nima deb ataladi?",
+   "variantlar": [
+    "Mantiqiy formula",
+    "Rostlik jadvali",
+    "Mantiqiy ifoda",
+    "Mulohazalar algebrasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mulohazalarni mantiqiy bog'lovchilar bilan ma'lum tartibda birlashtirib hosil qilingan murakkab mulohaza nima deyiladi?",
+   "variantlar": [
+    "Mantiqiy amal",
+    "Sodda mulohaza",
+    "Rostlik jadvali",
+    "Mantiqiy formula"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mantiqiy ifodaning rostlik jadvalini tuzish jarayoni nechta bosqichdan (banddan) iborat?",
+   "variantlar": [
+    "9",
+    "8",
+    "6",
+    "7"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rostlik jadvalining o'zgaruvchilar va amallar nomlari yozilgan birinchi satri qanday nomlanadi?",
+   "variantlar": [
+    "Natija satri",
+    "Yakuniy satr",
+    "Sarlavha satri",
+    "Kirish satri"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jadval satrlari sonini r=2^n formula bilan aniqlashda nima hisobga olinmaydi?",
+   "variantlar": [
+    "Natija ustuni",
+    "O'zgaruvchilar",
+    "Mantiqiy amallar",
+    "Sarlavha satri"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rostlik jadvalini tuzishning 7-bosqichida o'zgaruvchilar to'plamining qanday raqamlari yoziladi?",
+   "variantlar": [
+    "Sakkizlik raqamlar",
+    "O'nlik raqamlar",
+    "O'n oltilik raqamlar",
+    "Ikkilik raqamlar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A∨A&B mantiqiy ifodasida nechta mantiqiy amal (∨, &) qatnashgan, ya'ni k qiymati?",
+   "variantlar": [
+    "4",
+    "2",
+    "3",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A∨A&B mantiqiy ifodasida nechta o'zgaruvchi (A,B) qatnashgan, ya'ni n qiymati?",
+   "variantlar": [
+    "2",
+    "3",
+    "4",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar mantiqiy ifodada n=2 bo'lsa, jadval satrlari soni (sarlavhasiz) r nechaga teng bo'ladi?",
+   "variantlar": [
+    "4",
+    "2",
+    "3",
+    "8"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar mantiqiy ifodada n=3 bo'lsa, jadval satrlari soni (sarlavhasiz) r nechaga teng bo'ladi?",
+   "variantlar": [
+    "6",
+    "9",
+    "4",
+    "8"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "((A∨B)&⏋A)=>B mulohazasida o'zgaruvchilar soni n va amallar soni k mos ravishda nechaga teng?",
+   "variantlar": [
+    "n=4, k=2",
+    "n=3, k=4",
+    "n=2, k=4",
+    "n=2, k=3"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "((A∨B)&⏋A)=>B mulohazasi uchun jadvaldagi ustunlar soni c nechaga teng?",
+   "variantlar": [
+    "4",
+    "8",
+    "5",
+    "6"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A&(A∨B∨C) mantiqiy ifodasida nechta o'zgaruvchi qatnashgan?",
+   "variantlar": [
+    "1",
+    "2",
+    "4",
+    "3"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar mantiqiy ifodada n=4 bo'lsa, kirish o'zgaruvchilari to'plami 0 dan nechagacha bo'ladi?",
+   "variantlar": [
+    "7",
+    "16",
+    "15",
+    "31"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A&B mantiqiy amalida A=1, B=0 bo'lsa, natija nechaga teng bo'ladi?",
+   "variantlar": [
+    "aniqlanmaydi",
+    "2",
+    "0",
+    "1"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A∨B mantiqiy amalida A=0, B=0 bo'lsa, natija nechaga teng bo'ladi?",
+   "variantlar": [
+    "aniqlanmaydi",
+    "0",
+    "2",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "((A∨B)&⏋A)=>B mulohazasining rostlik jadvalida A=1, B=1 bo'lganda yakuniy natija nechaga teng bo'ladi?",
+   "variantlar": [
+    "2",
+    "0",
+    "1",
+    "aniqlanmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "((A∨B)&⏋A)=>B mulohazasining rostlik jadvalida A=0, B=1 bo'lganda (A∨B)&(⏋A) qism ifodaning qiymati nechaga teng?",
+   "variantlar": [
+    "0",
+    "aniqlanmaydi",
+    "2",
+    "1"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A∨A&B mantiqiy ifodasi uchun jadvaldagi ustunlar soni (c) va satrlar soni (r, sarlavhasiz) yig'indisi nechaga teng?",
+   "variantlar": [
+    "6",
+    "8",
+    "9",
+    "7"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A&(A∨B∨C) mantiqiy ifodasida n=3, k=2 bo'lsa, jadval satrlari soni (sarlavhasiz) r nechaga teng bo'ladi?",
+   "variantlar": [
+    "8",
+    "5",
+    "6",
+    "9"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mantiqiy ifodada n=3 o'zgaruvchi va k=5 amal qatnashsa, jadvaldagi umumiy kataklar soni (sarlavha satrisiz, c*r) nechaga teng bo'ladi?",
+   "variantlar": [
+    "32",
+    "48",
+    "64",
+    "72"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A∨A&B mantiqiy ifodasining rostlik jadvalida A=1, B=0 qatorida A&B va A∨A&B ustunlarining qiymatlari mos ravishda qanday bo'ladi?",
+   "variantlar": [
+    "0 va 1",
+    "1 va 0",
+    "1 va 1",
+    "0 va 0"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "((A∨B)&⏋A)=>B mulohazasining rostlik jadvalida nechta qatorda yakuniy natija 1 ga teng bo'ladi?",
+   "variantlar": [
+    "1",
+    "4",
+    "3",
+    "2"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "((A∨B)&⏋A)=>B mulohazasi tautologiya (har doim rost) ekanligini rostlik jadvali orqali qanday aniqlash mumkin?",
+   "variantlar": [
+    "Faqat bir qatorda natija 1 bo'lsa",
+    "Barcha qatorlarda natija 0 bo'lsa",
+    "Barcha qatorlarda natija 1 bo'lsa",
+    "Ustunlar soni teng bo'lsa"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar mantiqiy ifodada n=2 o'zgaruvchi bo'lsa, sarlavha satrisiz jadval satrlari soni r=4 bo'ladi. Sarlavha satri bilan birga jadvalning umumiy satrlari soni nechaga teng bo'ladi?",
+   "variantlar": [
+    "6",
+    "5",
+    "4",
+    "3"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A&(A∨B∨C) mantiqiy ifodasida n=3, k=2 bo'lsa, jadvaldagi ustunlar soni c nechaga teng bo'ladi?",
+   "variantlar": [
+    "6",
+    "5",
+    "7",
+    "4"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

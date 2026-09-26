@@ -1,0 +1,326 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Informatika",
+ "mavzu": "52-dars. Nazorat ishi",
+ "savollar": [
+  {
+   "savol": "Takrorlanishlar soni oldindan aniq bo‘lmagan masalalarni yechishda qaysi sikl operatoridan foydalangan ma’qul?",
+   "variantlar": [
+    "if operatori",
+    "for sikli",
+    "def operatori",
+    "while sikli"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "while sikli qanday holatda ishga tushmaydi?",
+   "variantlar": [
+    "Har doim ishga tushadi",
+    "Sikl tanasida xatolik bo‘lsa",
+    "Shart boshida False bo‘lsa",
+    "O‘zgaruvchi e’lon qilinmagan bo‘lsa"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Cheksiz sikl hosil qilish uchun while operatorida shart o‘rniga qanday kalit so‘z yoziladi?",
+   "variantlar": [
+    "True",
+    "False",
+    "break",
+    "None"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "IDLE interfaol muhitida cheksiz siklni to‘xtatish uchun qanday tugmalar birikmasi ishlatiladi?",
+   "variantlar": [
+    "Ctrl+C",
+    "Ctrl+Z",
+    "Alt+F4",
+    "Shift+Esc"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sikl ishini to‘liq to‘xtatib, undan chiqish uchun qaysi operator ishlatiladi?",
+   "variantlar": [
+    "continue",
+    "break",
+    "pass",
+    "return"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sikl tanasidagi joriy iteratsiyani o‘tkazib, keyingi qadamga o‘tish uchun qaysi operator ishlatiladi?",
+   "variantlar": [
+    "exit",
+    "break",
+    "stop",
+    "continue"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Python tilida funksiyani e’lon qilish qaysi kalit so‘z bilan boshlanadi?",
+   "variantlar": [
+    "function",
+    "def",
+    "proc",
+    "func"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qism dasturning qaysi turi hech qanday qiymat qaytarmaydi?",
+   "variantlar": [
+    "Funksiya",
+    "Modul",
+    "Protsedura",
+    "Kutubxona"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Funksiyaning o‘zini o‘zi chaqirishi qanday nomlanadi?",
+   "variantlar": [
+    "Deklaratsiya",
+    "Import",
+    "Rekursiya",
+    "Iteratsiya"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Faqat o‘zi e’lon qilingan funksiya doirasida faol bo‘ladigan o‘zgaruvchi qanday ataladi?",
+   "variantlar": [
+    "Statik o‘zgaruvchi",
+    "Lokal o‘zgaruvchi",
+    "Doimiy o‘zgaruvchi",
+    "Global o‘zgaruvchi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Karra jadvali dasturida foydalanuvchi 'bilmayman' deb javob kiritsa, break operatori qo‘shilgan holda nima sodir bo‘ladi?",
+   "variantlar": [
+    "Qayta savol beriladi",
+    "Sikl to‘xtaydi va 'Tugadi' chiqadi",
+    "Keyingi savolga o‘tadi",
+    "Dastur xatolik beradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Karra jadvali dasturida foydalanuvchi 'keyingisi' deb javob kiritganda continue operatori tufayli nima sodir bo‘ladi?",
+   "variantlar": [
+    "Dastur qayta ishga tushadi",
+    "Sikl butunlay to‘xtaydi",
+    "Xatolik xabari chiqadi",
+    "Joriy savol o‘tkazilib, keyingi savolga o‘tiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a=1, b=2 qiymatlar berilgan holda a, b = b, a buyrug‘i bajarilgach, a va b ning qiymatlari qanday bo‘ladi?",
+   "variantlar": [
+    "a=1, b=2",
+    "a=3, b=3",
+    "a=0, b=0",
+    "a=2, b=1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Funksiya ichida global o‘zgaruvchining qiymatini o‘zgartirish uchun qaysi kalit so‘zdan foydalaniladi?",
+   "variantlar": [
+    "global",
+    "import",
+    "static",
+    "local"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "import random buyrug‘idan so‘ng randint funksiyasini chaqirish uchun qanday yozish kerak?",
+   "variantlar": [
+    "random->randint(1,5)",
+    "randint(1,5)",
+    "import randint(1,5)",
+    "random.randint(1,5)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "from random import * usulida funksiya chaqirilganda, funksiya nomidan oldin modul nomi ko‘rsatiladimi?",
+   "variantlar": [
+    "Ha, har doim ko‘rsatiladi",
+    "Faqat matematik funksiyalarda ko‘rsatiladi",
+    "Yo‘q, ko‘rsatilmaydi",
+    "Faqat random moduli uchun ko‘rsatiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "n=5 bo‘lganda, i=1, p=1 dan boshlanib while i<=n sharti bilan p=p*i, i+=1 bajariladigan sikl natijasida p ning qiymati nechaga teng bo‘ladi?",
+   "variantlar": [
+    "100",
+    "125",
+    "110",
+    "120"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "def val4(d): print(d); d=100; print(d) funksiyasi c=200 bilan chaqirilganda (val4(c)), funksiya ichida d ga yangi qiymat berilishi c ning asosiy dasturdagi qiymatiga ta’sir qiladimi?",
+   "variantlar": [
+    "c o‘chirib yuboriladi",
+    "Dastur xatolik beradi",
+    "Yo‘q, c 200 bo‘lib qoladi",
+    "Ha, c ham 100 ga o‘zgaradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "60 va 21 sonlarining tub ko‘paytuvchilarga ajratish usuli bilan topilgan EKUB qiymati nechaga teng?",
+   "variantlar": [
+    "1",
+    "21",
+    "7",
+    "3"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "b=5 global o‘zgaruvchi bo‘lib, val2 nomli funksiya ichida faqat print(b) buyrug‘i bo‘lsa, funksiya chaqirilganda ekranga qanday natija chiqadi?",
+   "variantlar": [
+    "Xatolik xabari",
+    "5",
+    "b nomi",
+    "0"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "i=1, s=0 dan boshlab while i<=99 sharti bilan s=s+i*(i+1), i+=2 bajariladigan siklda i necha marta takrorlanadi?",
+   "variantlar": [
+    "49 marta",
+    "25 marta",
+    "50 marta",
+    "99 marta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "i=1, p=1 dan boshlab, while i<=4 sharti bilan p=p*i, i+=1 bajariladigan sikl orqali hisoblangan p qiymati nechaga teng?",
+   "variantlar": [
+    "30",
+    "12",
+    "6",
+    "24"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rekursiv faktorial funksiyasida 'if n==0: return 1' shartini olib tashlasak, funksiya qanday muammoga duch keladi?",
+   "variantlar": [
+    "Natija noto‘g‘ri, lekin dastur to‘xtaydi",
+    "Cheksiz rekursiya yuzaga keladi",
+    "Dastur tezroq ishlaydi",
+    "Hech qanday muammo bo‘lmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "b=5 global o‘zgaruvchi bo‘lib, val3 funksiyasida 'global b' e’lon qilinib, b=b+1 bajarilgach funksiya chaqiriladi. Shundan keyin asosiy dasturda print(b) buyrug‘i qanday natija chiqaradi?",
+   "variantlar": [
+    "0",
+    "6",
+    "5",
+    "Xatolik"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "max3(a,b,c) funksiyasi return max(max(a,b),c) ko‘rinishida ishlaydi. a=10, b=20, c=15 bo‘lsa, funksiya natijasi nechaga teng?",
+   "variantlar": [
+    "45",
+    "20",
+    "15",
+    "10"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yevklid algoritmining qoldiqli bo‘lish usuli bilan 48 va 18 sonlarining EKUB'ini topishda nechta bo‘lish amali (qadam) bajariladi?",
+   "variantlar": [
+    "5 ta",
+    "4 ta",
+    "3 ta",
+    "2 ta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rekursiv funksiya o‘zini o‘zgarmagan parametr bilan qayta-qayta chaqirsa (masalan, factorial(n) ichida yana factorial(n) chaqirilsa), nima yuz beradi?",
+   "variantlar": [
+    "Cheksiz rekursiya yuzaga kelib, xotira tugaydi",
+    "Funksiya tezda tugaydi",
+    "Dastur avtomatik tuzatadi",
+    "Natija 0 bo‘ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Karra jadvali dasturida foydalanuvchi avval 'keyingisi', so‘ng 'bilmayman' deb javob bersa, dastur qanday yakunlanadi?",
+   "variantlar": [
+    "Faqat break ishlaydi, continue e’tiborga olinmaydi",
+    "Continue orqali savol o‘tkaziladi, so‘ng break bilan sikl to‘xtab 'Tugadi' chiqadi",
+    "Faqat continue ishlaydi, dastur davom etadi",
+    "Dastur xatolik beradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Funksiya ichida 'global' kalit so‘zisiz global o‘zgaruvchiga yangi qiymat berishga urinilsa, natijada nima yuz beradi?",
+   "variantlar": [
+    "Global o‘zgaruvchi o‘chib ketadi",
+    "Funksiya ichida yangi lokal o‘zgaruvchi yaratiladi, global o‘zgaruvchi o‘zgarmaydi",
+    "Dastur ishlamay qoladi",
+    "Global o‘zgaruvchining qiymati o‘zgaradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

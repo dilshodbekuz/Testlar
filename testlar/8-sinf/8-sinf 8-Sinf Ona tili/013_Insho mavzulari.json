@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Ona tili",
+ "mavzu": "Insho mavzulari",
+ "savollar": [
+  {
+   "savol": "Insho necha qismdan iborat bo'ladi?",
+   "variantlar": [
+    "4 qism",
+    "2 qism",
+    "3 qism (kirish, asosiy qism, xulosa)",
+    "5 qism"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Adabiy insho nima haqida yoziladi?",
+   "variantlar": [
+    "Ilmiy kashfiyotlar haqida",
+    "Tarixiy voqealar haqida",
+    "Badiiy asar yoki uning qahramonlari haqida",
+    "Tabiat hodisalari haqida"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Adabiy inshoda tahlil nimaga tayanib qilinadi?",
+   "variantlar": [
+    "Manbalarga",
+    "Boshqa insholarga",
+    "Shaxsiy xayolga",
+    "Kundalik hayotga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1-sinfdan boshlab yoziladigan oddiy yozma ishlar (hikoya, maktub) nima deb atalmaydi?",
+   "variantlar": [
+    "Insho",
+    "Yozma ish",
+    "Topshiriq",
+    "Matn"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda Hamid Olimjon kim sifatida ta'riflangan?",
+   "variantlar": [
+    "Tarixchi",
+    "Olim",
+    "O'zbek adabiyotining atoqli namoyandasi",
+    "Siyosatchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Murakkab reja qaysi qismlarni o'z ichiga oladi?",
+   "variantlar": [
+    "Faqat misollar",
+    "Faqat asosiy qism",
+    "Kirish, bir necha bandli asosiy qism va xulosa",
+    "Faqat kirish va xulosa"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Erkin mavzudagi inshoga ko'pincha qanday reja tuziladi?",
+   "variantlar": [
+    "Murakkab reja",
+    "Ikkala reja ham",
+    "Sodda reja",
+    "Reja tuzilmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Adabiy-ijodiy insho qaysi narsaga asoslanadi?",
+   "variantlar": [
+    "Darslik matniga",
+    "O'quvchi yoqtirgan badiiy asarga",
+    "Faqat ilmiy manbalarga",
+    "Gazeta maqolasiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Eslatmaga ko'ra, insho yozish uchun nima zarur?",
+   "variantlar": [
+    "Faqat chiroyli xat",
+    "Faqat rasm chizish",
+    "Ko'p sahifa yozish",
+    "Maxsus tayyorgarlik, ijodiy izlanish va mustaqil fikrlash"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "15-dars mavzusi nima deb nomlangan?",
+   "variantlar": [
+    "Erkin mavzudagi insholar",
+    "Tarixiy insholar",
+    "Ilmiy insholar",
+    "Adabiy mavzulardagi insholar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "«Alpomish» dostonida qahramonlik tasviri» mavzusi qaysi insho turiga misol bo'ladi?",
+   "variantlar": [
+    "Shaxsiy maktub",
+    "Erkin mavzudagi insho",
+    "Adabiy insho",
+    "Ilmiy insho"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Men sevgan adib» mavzusi ko'proq qaysi insho turiga yaqin?",
+   "variantlar": [
+    "Faqat ilmiy insho",
+    "Erkin mavzudagi insho",
+    "Rasmiy hujjat",
+    "Adabiy-ijodiy insho"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hamid Olimjon rejasida «baxt va shodlik kuychisi» mavzusiga qaysi band mos kelmaydi?",
+   "variantlar": [
+    "Vatan madhi",
+    "Barchasi mos keladi",
+    "Shaxs fojiasi tasviri",
+    "Baxtli muhabbat vasfi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nega oddiy hikoya yoki maktub insho hisoblanmaydi?",
+   "variantlar": [
+    "Aniq reja va mustaqil fikrlash talab etilmagani uchun",
+    "Uzun bo'lgani uchun",
+    "Til boyligi yo'qligi uchun",
+    "Sarlavhasi yo'qligi uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sodda reja asosida yozilgan inshoda kirish, asosiy qism va xulosa qanday ifodalanadi?",
+   "variantlar": [
+    "Alohida sarlavha bilan ko'rsatiladi",
+    "Umuman bo'lmaydi",
+    "Matn mazmunidan anglashiladi",
+    "Jadval shaklida beriladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "43-mashqqa ko'ra, «Iqtidorli yoshlar – xalq iftixori» mavzusiga qanday yondashish tavsiya etiladi?",
+   "variantlar": [
+    "Faqat murakkab reja tuzish",
+    "Faqat xulosa yozish",
+    "Avval sodda reja tuzib, keyin murakkab rejaga aylantirish",
+    "Reja tuzmaslik"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Adabiy insho bilan adabiy-ijodiy insho o'rtasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Ikkalasida ham reja shart emas",
+    "Birida tahlil, ikkinchisida shaxsiy ijodiy yondashuv ustunlik qiladi",
+    "Birida reja yo'q",
+    "Ikkalasi bir xil"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nega ko'pincha adabiy mavzudagi insholarga murakkab reja tuziladi?",
+   "variantlar": [
+    "Mavzu chuqur va ko'p qirrali tahlil talab qilgani uchun",
+    "Qisqa yozish kerak bo'lgani uchun",
+    "Reja shart emasligi uchun",
+    "Mavzu tor bo'lgani uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "44-mashqda o'quvchilardan nima talab qilinadi?",
+   "variantlar": [
+    "Lug'at tuzish",
+    "Test yechish",
+    "She'r yodlash",
+    "Badiiy asar bo'yicha insho mavzulari tuzish va bittasiga mufassal reja shakllantirish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "48-mashqqa ko'ra, erkin mavzudagi inshoni yozish uchun qanday bilim zarur?",
+   "variantlar": [
+    "Faqat tarix bilimi",
+    "Faqat adabiyot bilimi",
+    "Faqat til bilimi",
+    "Turli sohalarga oid bilimlar"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Insho oddiy yozma ishlardan asosan nimasi bilan farq qiladi?",
+   "variantlar": [
+    "Uzunroq yozilishi bilan",
+    "Aniq reja, tayyorgarlik va mustaqil fikrlashni talab qilishi bilan",
+    "Faqat maktabda yozilishi bilan",
+    "Baholanmasligi bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sodda va murakkab reja o'rtasidagi farqni to'g'ri ifodalovchi javobni toping.",
+   "variantlar": [
+    "Murakkab reja qisqaroq bo'ladi",
+    "Ikkalasi bir xil tuzilishga ega",
+    "Sodda reja faqat xulosadan iborat",
+    "Sodda reja uch asosiy qismdan, murakkab reja esa qo'shimcha bandlarga bo'lingan qismlardan iborat"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hamid Olimjon haqidagi rejada qaysi band mavzudan chetga chiqadi, deb hisoblaysiz?",
+   "variantlar": [
+    "Baxtli muhabbat vasfi, chunki mavzuga mos",
+    "Shaxs fojiasi tasviri, chunki mavzu 'baxt va shodlik'ga zid",
+    "Xulosa qismi, chunki keraksiz",
+    "Vatan madhi, chunki mavzuga mos"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Adabiy va adabiy-ijodiy insho orasiga qat'iy chegara qo'yib bo'lmasligining sababi nimada?",
+   "variantlar": [
+    "Ikkalasi mustaqil fan hisoblangani uchun",
+    "Ikkalasi ham bir xil mavzuda yozilgani uchun",
+    "Ikkalasida ham badiiy asar asos bo'lib, faqat tahlil yoki ijodiy yondashuv darajasi farq qilgani uchun",
+    "Ikkalasida ham reja bo'lmagani uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nega ko'pincha erkin mavzudagi inshoga sodda, boshqa turdagi insholarga murakkab reja tuziladi?",
+   "variantlar": [
+    "Farqi yo'q, ixtiyoriy tanlanadi",
+    "Erkin mavzu qiyin bo'lgani uchun",
+    "Erkin mavzu kengroq va shaxsiy fikrga asoslangani uchun sodda reja yetarli, boshqa mavzular chuqur tahlil talab qilgani uchun murakkab reja kerak",
+    "Boshqa mavzular oson bo'lgani uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi holatda insho 'adabiy-ijodiy' deb ataladi, deb xulosa chiqarish mumkin?",
+   "variantlar": [
+    "Faqat darslikdagi matn qaytarilsa",
+    "Faqat rasmiy tahlil bo'lsa",
+    "O'quvchi o'zi yoqtirgan asar asosida ijodiy fikr bildirsa",
+    "Faqat sana va faktlar keltirilsa"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun murakkab reja insho yozishni osonlashtiradi, deb hisoblaysiz?",
+   "variantlar": [
+    "Reja shart emasligi uchun",
+    "Faqat xulosa yetarli bo'lgani uchun",
+    "Har bir bandda nima yozish kerakligi aniq ko'rsatilgani uchun",
+    "Qisqa bo'lgani uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Sen yetim emassan» she'ridan olgan taassurotlarim» mavzusi qaysi insho turiga yaqinroq, deb xulosa chiqarish mumkin?",
+   "variantlar": [
+    "Adabiy-ijodiy insho, chunki shaxsiy taassurotga asoslangan",
+    "Rasmiy hujjat",
+    "Ilmiy insho, chunki faktlarga asoslangan",
+    "Erkin mavzu, chunki bog'liq emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nega insho yozishda 'mustaqil fikrlash' alohida talab sifatida ko'rsatilgan, deb xulosa chiqarish mumkin?",
+   "variantlar": [
+    "Insho faqat she'r bo'lishi kerakligi uchun",
+    "Insho faqat ko'chirma bo'lmasligi, o'quvchining o'z fikrini ifodalashi kerakligi uchun",
+    "Insho uzun bo'lishi kerakligi uchun",
+    "Insho baholanmasligi uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Adabiy mavzudagi insho bilan erkin mavzudagi insho o'rtasidagi asosiy farqni aniqlang.",
+   "variantlar": [
+    "Adabiy insho badiiy asarga, erkin insho esa turli hayotiy mavzularga asoslanadi",
+    "Ikkalasi ham bir xil manbaga tayanadi",
+    "Adabiy insho reja talab qilmaydi",
+    "Erkin insho faqat she'rga asoslanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

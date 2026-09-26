@@ -1,0 +1,187 @@
+4-dars. Mantiqiy ifodalarning rostlik jadvalini tuzish
+
+--- OSON ---
+
+1. Mantiqiy ifodada o'zgaruvchilar sonini ifodalovchi harf qaysi?
+A) c
++B) n
+C) k
+D) r
+
+2. Mantiqiy amallar sonini ifodalovchi harf qaysi?
+A) c
++B) k
+C) n
+D) r
+
+3. Jadvaldagi ustunlar sonini hisoblash formulasi qanday?
+A) c = 2n
+B) c = n * k
+C) c = n - k
++D) c = n + k
+
+4. Jadval satrlari sonini (sarlavha satrisiz) hisoblash formulasi qanday?
+A) r = n + k
+B) r = n^2
+C) r = 2n
++D) r = 2^n
+
+5. Mulohazalar to'plami va unda bajariladigan &, ∨, ⏋, =>, <=> amallar birgalikda nima deb ataladi?
+A) Mantiqiy formula
+B) Rostlik jadvali
+C) Mantiqiy ifoda
++D) Mulohazalar algebrasi
+
+6. Mulohazalarni mantiqiy bog'lovchilar bilan ma'lum tartibda birlashtirib hosil qilingan murakkab mulohaza nima deyiladi?
+A) Mantiqiy amal
+B) Sodda mulohaza
+C) Rostlik jadvali
++D) Mantiqiy formula
+
+7. Mantiqiy ifodaning rostlik jadvalini tuzish jarayoni nechta bosqichdan (banddan) iborat?
+A) 9
++B) 8
+C) 6
+D) 7
+
+8. Rostlik jadvalining o'zgaruvchilar va amallar nomlari yozilgan birinchi satri qanday nomlanadi?
+A) Natija satri
+B) Yakuniy satr
++C) Sarlavha satri
+D) Kirish satri
+
+9. Jadval satrlari sonini r=2^n formula bilan aniqlashda nima hisobga olinmaydi?
+A) Natija ustuni
+B) O'zgaruvchilar
+C) Mantiqiy amallar
++D) Sarlavha satri
+
+10. Rostlik jadvalini tuzishning 7-bosqichida o'zgaruvchilar to'plamining qanday raqamlari yoziladi?
+A) Sakkizlik raqamlar
+B) O'nlik raqamlar
+C) O'n oltilik raqamlar
++D) Ikkilik raqamlar
+
+--- O'RTACHA ---
+
+11. A∨A&B mantiqiy ifodasida nechta mantiqiy amal (∨, &) qatnashgan, ya'ni k qiymati?
+A) 4
++B) 2
+C) 3
+D) 1
+
+12. A∨A&B mantiqiy ifodasida nechta o'zgaruvchi (A,B) qatnashgan, ya'ni n qiymati?
++A) 2
+B) 3
+C) 4
+D) 1
+
+13. Agar mantiqiy ifodada n=2 bo'lsa, jadval satrlari soni (sarlavhasiz) r nechaga teng bo'ladi?
++A) 4
+B) 2
+C) 3
+D) 8
+
+14. Agar mantiqiy ifodada n=3 bo'lsa, jadval satrlari soni (sarlavhasiz) r nechaga teng bo'ladi?
+A) 6
+B) 9
+C) 4
++D) 8
+
+15. ((A∨B)&⏋A)=>B mulohazasida o'zgaruvchilar soni n va amallar soni k mos ravishda nechaga teng?
+A) n=4, k=2
+B) n=3, k=4
++C) n=2, k=4
+D) n=2, k=3
+
+16. ((A∨B)&⏋A)=>B mulohazasi uchun jadvaldagi ustunlar soni c nechaga teng?
+A) 4
+B) 8
+C) 5
++D) 6
+
+17. A&(A∨B∨C) mantiqiy ifodasida nechta o'zgaruvchi qatnashgan?
+A) 1
+B) 2
+C) 4
++D) 3
+
+18. Agar mantiqiy ifodada n=4 bo'lsa, kirish o'zgaruvchilari to'plami 0 dan nechagacha bo'ladi?
+A) 7
+B) 16
++C) 15
+D) 31
+
+19. A&B mantiqiy amalida A=1, B=0 bo'lsa, natija nechaga teng bo'ladi?
+A) aniqlanmaydi
+B) 2
++C) 0
+D) 1
+
+20. A∨B mantiqiy amalida A=0, B=0 bo'lsa, natija nechaga teng bo'ladi?
+A) aniqlanmaydi
++B) 0
+C) 2
+D) 1
+
+--- QIYIN ---
+
+21. ((A∨B)&⏋A)=>B mulohazasining rostlik jadvalida A=1, B=1 bo'lganda yakuniy natija nechaga teng bo'ladi?
+A) 2
+B) 0
++C) 1
+D) aniqlanmaydi
+
+22. ((A∨B)&⏋A)=>B mulohazasining rostlik jadvalida A=0, B=1 bo'lganda (A∨B)&(⏋A) qism ifodaning qiymati nechaga teng?
+A) 0
+B) aniqlanmaydi
+C) 2
++D) 1
+
+23. A∨A&B mantiqiy ifodasi uchun jadvaldagi ustunlar soni (c) va satrlar soni (r, sarlavhasiz) yig'indisi nechaga teng?
+A) 6
++B) 8
+C) 9
+D) 7
+
+24. A&(A∨B∨C) mantiqiy ifodasida n=3, k=2 bo'lsa, jadval satrlari soni (sarlavhasiz) r nechaga teng bo'ladi?
++A) 8
+B) 5
+C) 6
+D) 9
+
+25. Mantiqiy ifodada n=3 o'zgaruvchi va k=5 amal qatnashsa, jadvaldagi umumiy kataklar soni (sarlavha satrisiz, c*r) nechaga teng bo'ladi?
+A) 32
+B) 48
++C) 64
+D) 72
+
+26. A∨A&B mantiqiy ifodasining rostlik jadvalida A=1, B=0 qatorida A&B va A∨A&B ustunlarining qiymatlari mos ravishda qanday bo'ladi?
++A) 0 va 1
+B) 1 va 0
+C) 1 va 1
+D) 0 va 0
+
+27. ((A∨B)&⏋A)=>B mulohazasining rostlik jadvalida nechta qatorda yakuniy natija 1 ga teng bo'ladi?
+A) 1
++B) 4
+C) 3
+D) 2
+
+28. ((A∨B)&⏋A)=>B mulohazasi tautologiya (har doim rost) ekanligini rostlik jadvali orqali qanday aniqlash mumkin?
+A) Faqat bir qatorda natija 1 bo'lsa
+B) Barcha qatorlarda natija 0 bo'lsa
++C) Barcha qatorlarda natija 1 bo'lsa
+D) Ustunlar soni teng bo'lsa
+
+29. Agar mantiqiy ifodada n=2 o'zgaruvchi bo'lsa, sarlavha satrisiz jadval satrlari soni r=4 bo'ladi. Sarlavha satri bilan birga jadvalning umumiy satrlari soni nechaga teng bo'ladi?
+A) 6
++B) 5
+C) 4
+D) 3
+
+30. A&(A∨B∨C) mantiqiy ifodasida n=3, k=2 bo'lsa, jadvaldagi ustunlar soni c nechaga teng bo'ladi?
+A) 6
++B) 5
+C) 7
+D) 4

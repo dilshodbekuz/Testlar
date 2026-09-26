@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Iqtisodiy bilim asoslari",
+ "mavzu": "Mehnat unumdorligi va ixtisoslashuv",
+ "savollar": [
+  {
+   "savol": "Mehnat unumdorligi nima?",
+   "variantlar": [
+    "Korxonadagi ishchilar soni",
+    "Vaqt birligi ichida bir birlik resursdan foydalanib ishlab chiqarilgan tovar va xizmat miqdori",
+    "Mahsulotni sotishdan olingan foyda",
+    "Ishlab chiqarilgan mahsulotning umumiy qiymati"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mahsuldorlik qanday ta'riflanadi?",
+   "variantlar": [
+    "Korxonaning yillik daromadi",
+    "Bozordagi talab miqdori",
+    "Ishchilarning ish haqi miqdori",
+    "Resurslarning muayyan miqdoridan ishlab chiqarilgan mahsulot miqdori"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Texnologiya deganda nima tushuniladi?",
+   "variantlar": [
+    "Korxonaning binosi va joylashuvi",
+    "Ishchilarning malakasi",
+    "Mahsulotning bahosi",
+    "Mahsulot ishlab chiqarishda qaysi resurslardan foydalanish, qanday usul va ketma-ketlikda ishlov berish yo'l-yo'rig'i"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mehnat taqsimoti nima?",
+   "variantlar": [
+    "Korxonalar o'rtasidagi raqobat",
+    "Mahsulot ishlab chiqarish jarayonining ishchilar o'rtasida ishni taqsimlash asosida tashkil qilinishi",
+    "Ishchilarga ish haqi to'lash tartibi",
+    "Mahsulotni bozorga chiqarish jarayoni"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ixtisoslashuv nima?",
+   "variantlar": [
+    "Ishchilarning bir ish joyidan ikkinchisiga o'tishi",
+    "Korxonaning mahsulot narxini belgilashi",
+    "Mahsulotni eksport qilish jarayoni",
+    "Biror mahsulot turini yoki uning bir qismini ishlab chiqarish bo'yicha korxonalar o'rtasidagi mehnat taqsimoti"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hududiy ixtisoslashuv qanday tushuniladi?",
+   "variantlar": [
+    "Sharoit, an'analar, mahalliy imkoniyatlar tufayli butun bir hududning mahsulotning biror turini ishlab chiqarishga moslashuvi",
+    "Mamlakatlar o'rtasidagi savdo shartnomasi",
+    "Bir hududdan ikkinchi hududga ko'chib o'tish",
+    "Bir korxonaning ikkinchi korxona bilan hamkorligi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mehnat unumdorligi formulasi U=Q:T da \"Q\" nimani bildiradi?",
+   "variantlar": [
+    "Sarflangan vaqtni",
+    "Ishchilar sonini",
+    "Mahsulot narxini",
+    "Ishlab chiqarilgan mahsulot miqdorini"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mehnat unumdorligi formulasi U=Q:T da \"T\" nimani bildiradi?",
+   "variantlar": [
+    "Tarmoq nomini",
+    "Mahsulot miqdorini",
+    "Texnologiya turini",
+    "Mahsulotni ishlab chiqarishga sarflangan vaqtni"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra Braziliya qaysi mahsulotni ishlab chiqarishga ixtisoslashgan?",
+   "variantlar": [
+    "Choy",
+    "Paxta",
+    "Qahva",
+    "Shakar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra Hindiston qaysi mahsulotni ishlab chiqarishga ixtisoslashgan?",
+   "variantlar": [
+    "Kofe",
+    "G'alla",
+    "Choy",
+    "Qahva"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri mehnat unumdorligiga ta'sir qiluvchi omillardan biri emas?",
+   "variantlar": [
+    "Ishlab chiqarish dastgohlarining sifati",
+    "Ishchilarning malakasi va kasb mahorati",
+    "Mehnat taqsimotining to'g'ri tashkil etilganligi",
+    "Ishchining tug'ilgan joyi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mehnat taqsimotining ijobiy tomonlaridan qaysi biri to'g'ri?",
+   "variantlar": [
+    "Barcha tovarlar bir xil qolipda ishlab chiqariladi",
+    "Har bir ishchi o'z ishini yaxshiroq va tezroq bajarish malakasiga ega bo'lib boradi",
+    "Ishchilar ishdan bo'shatilganda ish topishi qiyinlashadi",
+    "Ishchilarning mahorat darajasi pasayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mehnat taqsimotining salbiy tomonlaridan qaysi biri to'g'ri?",
+   "variantlar": [
+    "Ishchilar biror kasbni tez egallaydi",
+    "Arzon bahoda ko'proq mahsulot ishlab chiqariladi",
+    "Faqat bir xil ishni bajarish ishchilarni toliqtirishi mumkin",
+    "Ishchi bir joydan ikkinchi joyga ko'chishiga hojat qolmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matndagi avtomobil ishlab chiqarish misolida g'ildirak, oyna va motor haqida qanday ma'lumot berilgan?",
+   "variantlar": [
+    "Ular chet eldan tayyor holda olib kelinadi",
+    "Ularni faqat yig'uv korxonasi ishlab chiqaradi",
+    "Barchasi bitta korxonada ishlab chiqariladi",
+    "Har biri alohida korxonada ishlab chiqarilib, keyin yig'uv korxonasida birlashtiriladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra fermer xo'jaligi misolida ayirboshlash (bozor bahosi) ixtisoslashuvga qanday ta'sir qilishi mumkin?",
+   "variantlar": [
+    "Kartoshka bahosi arzon bo'lib qolsa, fermer boshqa ekin ekishga o'tishi mumkin",
+    "Fermer doim bir xil mahsulot yetishtirishda davom etadi",
+    "Bahoning o'zgarishi ixtisoslashuvga umuman ta'sir qilmaydi",
+    "Fermer ekinni har yili almashtirib turishi shart"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra nima uchun \"Spark\" avtomobili \"Malibu\"ga qaraganda ko'proq ishlab chiqariladi?",
+   "variantlar": [
+    "\"Spark\" tejamkor va arzonligi uchun uni olishni xohlovchilar ko'proq",
+    "\"Malibu\" ishlab chiqarish taqiqlangan",
+    "\"Spark\" faqat eksport uchun ishlab chiqariladi",
+    "\"Spark\" qimmatroq bo'lgani uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir ishchi 6 soatda 30 dona krujka tayyorlasa, uning mehnat unumdorligi necha dona/soatni tashkil qiladi?",
+   "variantlar": [
+    "10 dona/soat",
+    "5 dona/soat",
+    "6 dona/soat",
+    "4 dona/soat"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra iste'molchilar nima uchun tikuv atelyesida tikilgan kiyimlarni afzal ko'rishlari mumkin?",
+   "variantlar": [
+    "Atelyeda ish haqi yuqoriroq bo'lgani uchun",
+    "Fabrikalar kiyim tikishni to'xtatgani uchun",
+    "Fabrika mahsulotlari sifatsiz bo'lgani uchun",
+    "Atelyedagi kiyimlar maxsus buyurtma asosida tikilgani uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra turizm yoki sartaroshlik kabi xizmatlarni qanday korxonalar amalga oshirgani qulayroq?",
+   "variantlar": [
+    "Yirik korxonalar",
+    "Xorijiy korxonalar",
+    "Kichik shaxobchalar",
+    "Faqat davlat korxonalari"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mehnat taqsimoti natijasida odamlar qanday holatga erishadi?",
+   "variantlar": [
+    "Barcha kasblarni bir xilda egallaydi",
+    "Mahsulot narxi doim tushib boradi",
+    "Turli xil kasblar bo'yicha ixtisoslashadi",
+    "Ishsiz qolish xavfi butunlay yo'qoladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki ishchidan biri 8 soatda 40 dona, ikkinchisi 10 soatda 60 dona mahsulot ishlab chiqaradi. Qaysi ishchining mehnat unumdorligi yuqori?",
+   "variantlar": [
+    "Ikkalasi teng, chunki umumiy mahsulot miqdori har xil",
+    "Aniqlab bo'lmaydi, chunki vaqt farqli",
+    "Birinchi ishchi, chunki uning unumdorligi 5 dona/soat, ikkinchisiniki 6 dona/soat bo'lib, birinchisi kamroq mahsulot chiqargani uchun samaraliroq",
+    "Ikkinchi ishchi, chunki uning unumdorligi 6 dona/soat, birinchisiniki esa 5 dona/soat"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mehnat taqsimotining salbiy tomonlaridan biri sifatida ishchilarning ishdan bo'shatilganda ish topishi qiyinlashishi nima bilan bog'liq?",
+   "variantlar": [
+    "Korxonalar yopilib ketishi",
+    "Ishchilar juda ko'p maosh olishi",
+    "Ishchilarning yoshi katta bo'lishi",
+    "Ishchilar bir xil ishni bajarishga ixtisoslashgani uchun boshqa turdagi ishlarni bajara olmasligi mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga ko'ra fermer xo'jaligi kartoshka narxi bir necha yil arzon bo'lib qolsa, qanday oqibatga olib kelishi mumkin?",
+   "variantlar": [
+    "Kartoshka narxi qayta ko'tariladi va hech narsa o'zgarmaydi",
+    "Fermer yerini butunlay sotib yuboradi",
+    "Fermer o'z yerida boshqa ekin ekishga o'tib, ixtisoslashuvi o'zgarishi mumkin",
+    "Fermer kartoshka yetishtirishni yanada kengaytiradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga ko'ra ishlab chiqarishni cheksiz mayda qismlarga bo'lib bo'lmasligi ixtisoslashuvga qanday ta'sir qiladi?",
+   "variantlar": [
+    "Muayyan sondagi bo'linishdan keyin qismlarni yanada bo'lishning iloji bo'lmagani uchun ixtisoslashuvga chegara qo'yadi",
+    "Ixtisoslashuvni yanada kengaytiradi",
+    "Ixtisoslashuvni butunlay bekor qiladi",
+    "Ixtisoslashuvga umuman ta'sir qilmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mahsulotni katta hajmda bir joyda ishlab chiqarish nima uchun ixtisoslashuvga to'sqinlik qilishi mumkin?",
+   "variantlar": [
+    "Chunki uni iste'molchilarga yetkazish ko'p xarajat va vaqtni talab qiladi",
+    "Chunki ishchilar ko'p mahsulot ishlab chiqarishni xohlamaydi",
+    "Chunki davlat bunga ruxsat bermaydi",
+    "Chunki katta hajmdagi mahsulot sifatsiz bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mahsuldorlik va mehnat unumdorligi tushunchalari o'rtasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Mahsuldorlik resurs miqdoridan olingan mahsulotni, mehnat unumdorligi esa vaqt birligida bir birlik resursdan olingan mahsulotni ifodalaydi",
+    "Ular bir xil ma'noni anglatadi",
+    "Mahsuldorlik pul birligida, mehnat unumdorligi esa foizda o'lchanadi",
+    "Mahsuldorlik faqat qishloq xo'jaligiga, mehnat unumdorligi sanoatga tegishli"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun mehnat taqsimoti mehnat unumdorligini oshirishga xizmat qiladi?",
+   "variantlar": [
+    "Chunki mahsulot narxi tushib ketadi",
+    "Chunki ishchilar bir vazifaga ixtisoslashib, ishni tezroq va sifatliroq bajarish malakasiga ega bo'ladi",
+    "Chunki korxona kamroq soliq to'laydi",
+    "Chunki ishchilar soni kamayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Korxonalar o'rtasidagi ixtisoslashuv bilan hududiy ixtisoslashuv o'rtasidagi farq nimada?",
+   "variantlar": [
+    "Hududiy ixtisoslashuv faqat qishloq xo'jaligiga tegishli",
+    "Korxonalar o'rtasidagi ixtisoslashuv bitta mahsulotning qismini ishlab chiqarishga, hududiy ixtisoslashuv esa butun hududning mahsulot turiga moslashuviga tegishli",
+    "Ikkalasi bir xil hodisa",
+    "Korxonalar o'rtasidagi ixtisoslashuv faqat xorijda bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishchilarning mahorat darajasi pasayib borishi nima uchun mehnat taqsimotining salbiy tomoni hisoblanadi?",
+   "variantlar": [
+    "Chunki ishchilar ko'proq dam olishga majbur bo'ladi",
+    "Chunki korxona ularni ishdan bo'shatadi",
+    "Chunki ularning bajaradigan ishini asta-sekin mashinalar bajara boshlaydi va ishchi bir xil ishga qotib qoladi",
+    "Chunki ishchilar ish haqidan mahrum bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga ko'ra ixtisoslashuvning asosiy maqsadi nimalarni birlashtiradi?",
+   "variantlar": [
+    "Faqat mahsulot narxini pasaytirishni",
+    "Faqat ishchilar sonini ko'paytirishni",
+    "Faqat korxona foydasini oshirishni",
+    "Ishlab chiqarish unumdorligini oshirish va ishlab chiqaruvchilar imkoniyatlarini kengaytirishni"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

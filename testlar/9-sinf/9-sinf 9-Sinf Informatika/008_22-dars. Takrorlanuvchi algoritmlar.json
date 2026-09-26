@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Informatika",
+ "mavzu": "22-dars. Takrorlanuvchi algoritmlar",
+ "savollar": [
+  {
+   "savol": "Takrorlanuvchi algoritm deb qanday algoritmga aytiladi?",
+   "variantlar": [
+    "Shartga qarab ikki yo'nalishdan biriga o'tadigan algoritm",
+    "Hech qanday shartsiz bajariladigan algoritm",
+    "Faqat bitta marta bajariladigan ko'rsatmalar ketma-ketligi",
+    "Biron bir shart tekshirilishi yoki parametrning har xil qiymatlari asosida ko'rsatmalar guruhi qayta-qayta bajariladigan algoritm"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda keltirilgan takrorlanuvchi jarayonga hayotiy misol qaysi?",
+   "variantlar": [
+    "Dars jadvalini tuzish",
+    "Kitob o'qish",
+    "Maktabga borish",
+    "Yil fasllarining almashinishi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yig'indi (S) uchun boshlang'ich qiymat odatda nechaga teng qilib olinadi?",
+   "variantlar": [
+    "S=10",
+    "S=100",
+    "S=0",
+    "S=1"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'paytma (P) uchun boshlang'ich qiymat odatda nechaga teng qilib olinadi?",
+   "variantlar": [
+    "P=10",
+    "P=2",
+    "P=0",
+    "P=1"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"S\" harfi inglizcha qaysi so'zning bosh harfidan olingan?",
+   "variantlar": [
+    "SIGN",
+    "STEP",
+    "START",
+    "SUMM"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"P\" harfi inglizcha qaysi so'zning bosh harfidan olingan?",
+   "variantlar": [
+    "PROGRAM",
+    "POINT",
+    "PRODUCT",
+    "PROCESS"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hisoblash jarayonining ko'p marta takrorlanadigan qismi qanday nomlanadi?",
+   "variantlar": [
+    "Sikl sharti",
+    "Sikl chegarasi",
+    "Sikl parametri",
+    "Sikl tanasi (jismi)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shart oldin tekshiriluvchi takrorlanuvchi algoritm boshqacha qanday nomlanadi?",
+   "variantlar": [
+    "Gacha",
+    "Aralash",
+    "Toki",
+    "Parametrli"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shart keyin tekshiriluvchi takrorlanuvchi algoritm boshqacha qanday nomlanadi?",
+   "variantlar": [
+    "Gacha",
+    "Tarmoqlanuvchi",
+    "Chiziqli",
+    "Toki"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Parametr A dan B gacha\" ko'rinishidagi sikl qachon ishlatiladi?",
+   "variantlar": [
+    "Faqat manfiy sonlar bilan ishlaganda",
+    "Faqat bitta ko'rsatma bajarilganda",
+    "Shart hech qachon bajarilmaganda",
+    "Takrorlanishlar soni (B-A+1) aniq bo'lganda"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "9!=1*2*3*4*5*6*7*8*9 ifodasini hisoblash uchun necha marta ko'paytirish amalini bajarish kerak bo'ladi?",
+   "variantlar": [
+    "10 marta",
+    "7 marta",
+    "9 marta",
+    "8 marta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qadamlar jadvalida 2-qadamda (i=2 bo'lganda) S ning qiymati nechaga teng bo'ladi?",
+   "variantlar": [
+    "S=1",
+    "S=3",
+    "S=6",
+    "S=2"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qadamlar jadvalida 3-qadamda (i=3 bo'lganda) P ning qiymati nechaga teng bo'ladi?",
+   "variantlar": [
+    "P=24",
+    "P=6",
+    "P=2",
+    "P=3"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qadamlar jadvalida 4-qadamda i ning qiymati nechaga teng bo'ladi?",
+   "variantlar": [
+    "i=3",
+    "i=4",
+    "i=5",
+    "i=10"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1-misolda klaviaturadan kiritilgan sonlar (1, 6, 8, 2, -6, 76, 1, -5) ichida birinchi kiritilgan manfiy son qaysi?",
+   "variantlar": [
+    "-6",
+    "2",
+    "76",
+    "-5"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1-misolda birinchi manfiy songacha kiritilgan qaysi sonlarning yig'indisi hisoblanadi?",
+   "variantlar": [
+    "6, 8, 2, -6",
+    "76, 1, -5",
+    "1, 6, 8, 2",
+    "1, 6, 8, 2, -6"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2-misolda (5 dan 49 gacha toq sonlar ko'paytmasi) P ning boshlang'ich qiymati necha qilib olinadi?",
+   "variantlar": [
+    "P=0",
+    "P=5",
+    "P=49",
+    "P=1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2-misolda i ning boshlang'ich qiymati necha qilib olinadi?",
+   "variantlar": [
+    "i=1",
+    "i=5",
+    "i=49",
+    "i=0"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2-misolda har bir qadamda i ning qiymatiga qancha son qo'shib boriladi?",
+   "variantlar": [
+    "5",
+    "2",
+    "49",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Toki (shart oldin tekshiriluvchi) siklda agar shart boshidanoq yolg'on bo'lsa, ko'rsatmalar guruhi necha marta bajariladi?",
+   "variantlar": [
+    "Cheksiz marta",
+    "1 marta",
+    "Hech qachon",
+    "2 marta"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "9!=1*2*3*4*5*6*7*8*9 ifodasida 9 ta son qatnashsa-da, nima uchun atigi 8 marta ko'paytirish amali bajariladi?",
+   "variantlar": [
+    "Chunki 9 soni hisobga olinmaydi",
+    "Chunki sonlarning yarmi manfiy",
+    "Chunki oxirgi son har doim tashlab yuboriladi",
+    "Chunki 1 bilan ko'paytirish natijaga ta'sir etmagani uchun boshlang'ich qiymat sifatida olinadi va qolgan 8 ta son ketma-ket ko'paytiriladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qadamlar jadvalida (S va P birgalikda hisoblanadigan misolda) 4-qadamda S va P ning qiymatlari mos ravishda qanday bo'ladi?",
+   "variantlar": [
+    "S=6, P=6",
+    "S=10, P=24",
+    "S=4, P=10",
+    "S=24, P=10"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2-misolda 5 dan 49 gacha bo'lgan toq sonlar ko'paytmasini hisoblashda jami nechta toq son ko'paytiriladi?",
+   "variantlar": [
+    "24 ta",
+    "23 ta",
+    "22 ta",
+    "45 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1-misol algoritmida avval S=S+A bajarilib, so'ngra A<0 sharti tekshirilishi bu qaysi tur takrorlanuvchi algoritmga misol bo'ladi?",
+   "variantlar": [
+    "Chiziqli algoritm",
+    "Toki (shart oldin tekshiriluvchi)",
+    "Gacha (shart keyin tekshiriluvchi)",
+    "Parametr dan-gacha"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2-misol algoritmida \"agar i≤49 bo'lsa, 4-bandga o'tilsin\" ko'rsatmasi orqali sikl tanasi bajarilib bo'lgach shart tekshirilishi qaysi tur siklga xos xususiyat?",
+   "variantlar": [
+    "Aralash",
+    "Parametrli",
+    "Gacha",
+    "Toki"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Toki va gacha sikllari birgalikda umumiy nima deb ataladi?",
+   "variantlar": [
+    "Aralash sikllar",
+    "Parametrli sikllar",
+    "Chiziqli sikllar",
+    "Iteratsion sikllar"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar yig'indi hisoblashda S ning boshlang'ich qiymati 0 o'rniga boshqa musbat son qilib olinsa, yakuniy natijaga qanday ta'sir qiladi?",
+   "variantlar": [
+    "Algoritm umuman ishlamay qoladi",
+    "Hech qanday ta'sir qilmaydi",
+    "Yakuniy natija haqiqiy yig'indidan katta chiqadi",
+    "Yakuniy natija har doim 0 bo'lib qoladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1-misol blok-sxemasida A<0 sharti \"ha\" (rost) bo'lganda algoritm qaysi bosqichga o'tadi?",
+   "variantlar": [
+    "A kiritilsin bosqichiga",
+    "Qayta S=S+A bosqichiga",
+    "S=0 bosqichiga",
+    "S chiqarilsin bosqichiga"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qadamlar jadvalida i=1 bo'lgan 1-qadamda S=0+1=1 va P=1*1=1 hisoblanishi nimani tasdiqlaydi?",
+   "variantlar": [
+    "i ning qiymati hech qachon o'zgarmasligini",
+    "Shart har doim yolg'on bo'lishini",
+    "S=0 va P=1 boshlang'ich qiymatlarining yig'indi va ko'paytma natijasiga ta'sir etmasligini",
+    "Sikl faqat bir marta bajarilishini"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga ko'ra, inson hayotida uchraydigan algoritmlar, asosan, qanday algoritmlarning uzviy birligi sifatida namoyon bo'ladi?",
+   "variantlar": [
+    "Faqat tarmoqlanuvchi algoritmlar",
+    "Faqat takrorlanuvchi algoritmlar",
+    "Chiziqli, tarmoqlanuvchi va takrorlanuvchi algoritmlar",
+    "Faqat chiziqli algoritmlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

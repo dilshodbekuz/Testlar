@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Kimyo",
+ "mavzu": "Suvning qattiqligi va uni yumshatish usullari",
+ "savollar": [
+  {
+   "savol": "Qattiq suv qanday suv hisoblanadi?",
+   "variantlar": [
+    "Tarkibida faqat Na+ ionlari bo'lgan suv",
+    "Tarkibida Ca2+ va Mg2+ ionlari ko'p bo'lgan suv",
+    "Tuzsiz distillangan suv",
+    "Tarkibida faqat anionlar bo'lgan suv"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yumshoq suv qanday suv hisoblanadi?",
+   "variantlar": [
+    "Ca2+ va Mg2+ ionlari yo'q yoki juda kam bo'lgan suv",
+    "Ca2+ va Mg2+ ionlari juda ko'p bo'lgan suv",
+    "Faqat dengiz suvi",
+    "Faqat yomg'ir suvi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vaqtinchalik (karbonat) qattiqlik suvda qanday tuzlar mavjudligi bilan bog'liq?",
+   "variantlar": [
+    "Kalsiy va magniy gidrokarbonatlar bilan",
+    "Natriy tuzlari bilan",
+    "Kalsiy va magniy sulfatlar bilan",
+    "Kalsiy va magniy xloridlar bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Doimiy qattiqlik suvda qanday tuzlar mavjudligi bilan bog'liq?",
+   "variantlar": [
+    "Karbonatlar",
+    "Sulfatlar va xloridlar",
+    "Fosfatlar",
+    "Gidrokarbonatlar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Umumiy qattiqlik nimani anglatadi?",
+   "variantlar": [
+    "Kalsiy va magniy qattiqligining yig'indisi",
+    "Vaqtinchalik va doimiy qattiqlikning ayirmasi",
+    "Faqat magniy qattiqligi",
+    "Faqat kalsiy qattiqligi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kationitlar deb nimaga aytiladi?",
+   "variantlar": [
+    "Faqat organik erituvchilar",
+    "Suvda erimaydigan, kationlarni (Ca2+, Mg2+) almashtira oluvchi qattiq moddalar",
+    "Gaz holatidagi moddalar",
+    "Suvda eriydigan, anionlarni almashtiruvchi moddalar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Anionitlar deb nimaga aytiladi?",
+   "variantlar": [
+    "Suvda eriydigan kislotalar",
+    "Suvda erimaydigan, anionlarga (SO4^2-, Cl-) almashina oluvchi qattiq moddalar",
+    "Kationlarni tutuvchi suyuqliklar",
+    "Faqat metallardan iborat moddalar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suvning qattiqligini pasaytirish uchun qanday asosiy usullardan foydalaniladi?",
+   "variantlar": [
+    "Faqat quyoshda qizdirish",
+    "Faqat filtrlash",
+    "Distillatsiya va kimyoviy usullar",
+    "Faqat muzlatish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, sayyoramiz yuzasining qancha qismi suv bilan qoplangan?",
+   "variantlar": [
+    "3/4",
+    "1/3",
+    "1/2",
+    "2/3"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qattiq suvda nima yaxshi ko'pirmaydi?",
+   "variantlar": [
+    "Sovun",
+    "Sut",
+    "Yog'",
+    "Choy"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suvni qaynatish orqali qaysi qattiqlik turi yo'qotiladi?",
+   "variantlar": [
+    "Vaqtinchalik (karbonat) qattiqlik",
+    "Umumiy qattiqlik to'liq",
+    "Doimiy qattiqlik",
+    "Magniy qattiqligi to'liq"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Doimiy qattiqlik suvni qaynatish bilan yo'qolmaydi. Uni yo'qotish uchun nima qo'shiladi?",
+   "variantlar": [
+    "Faqat toza suv",
+    "Shakar",
+    "Soda yoki natriy fosfat",
+    "Spirt"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qattiq suvga ohakli suv [Ca(OH)2] qo'shilganda Ca(HCO3)2 dan qanday erimaydigan modda hosil bo'ladi?",
+   "variantlar": [
+    "Ca(OH)2",
+    "CaSO4",
+    "CaCl2",
+    "CaCO3"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ca(HCO3)2 ga soda (Na2CO3) ta'sir ettirilganda qanday erimaydigan cho'kma hosil bo'ladi?",
+   "variantlar": [
+    "CaSO4",
+    "CaCl2",
+    "CaCO3",
+    "Ca(HCO3)2 o'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kationitli kolonkadan suv o'tkazilganda, Ca2+ va Mg2+ ionlari o'rniga suvga qaysi ion o'tadi?",
+   "variantlar": [
+    "Na+",
+    "OH-",
+    "Cl-",
+    "SO4^2-"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Isitish tizimi bug' qozonlari devorlarida hosil bo'ladigan quyqa asosan qanday moddalardan iborat?",
+   "variantlar": [
+    "Sof suvdan",
+    "Magniy va kalsiy karbonatlardan",
+    "Kislorod va vodoroddan",
+    "Natriy xloriddan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sanoatda suvning qattiqligini yo'qotish uchun asosan qanday usul qo'llaniladi?",
+   "variantlar": [
+    "Filtrlash",
+    "Bosim ostida siqish",
+    "Ion almashinuv usuli",
+    "Elektroliz"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kalsiy xloridning 20% li 400 g eritmasini tayyorlash uchun necha gramm CaCl2 kerak bo'ladi?",
+   "variantlar": [
+    "40 g",
+    "60 g",
+    "80 g",
+    "100 g"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi eritmani (400 g, 20%) tayyorlash uchun necha gramm distillangan suv kerak bo'ladi?",
+   "variantlar": [
+    "300 g",
+    "280 g",
+    "320 g",
+    "340 g"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Anionitlar qanday tamoyilda ishlaydi?",
+   "variantlar": [
+    "Hech qanday ion almashtirmaydi",
+    "Faqat gazlarni ushlaydi",
+    "Kationlarni ushlab, kationlarni beradi",
+    "Anionlarni (SO4^2-, Cl-) ushlab, harakatchan anionlarni beradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun doimiy qattiqlik oddiy qaynatish yo'li bilan yo'qotib bo'lmaydi?",
+   "variantlar": [
+    "Chunki sulfat va xlorid tuzlari qaynatilganda ham suvda erigan holda qoladi, gidrokarbonatlar kabi parchalanmaydi",
+    "Chunki qaynatishda faqat magniy tuzlari yo'qoladi",
+    "Chunki qaynatish faqat sovuq suvga ta'sir qiladi",
+    "Chunki doimiy qattiqlik umuman mavjud emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ca3(PO4)2 ning molyar massasini hisoblang (Ca=40, P=31, O=16).",
+   "variantlar": [
+    "310 g/mol",
+    "320 g/mol",
+    "290 g/mol",
+    "300 g/mol"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tana massasi 80 kg bo'lgan odamning tana massasining 20% i suyak bo'lsa, suyakning massasi necha kg bo'ladi?",
+   "variantlar": [
+    "16 kg",
+    "18 kg",
+    "12 kg",
+    "14 kg"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "16 kg suyakning 20% i Ca3(PO4)2 bo'lsa, Ca3(PO4)2 ning massasi necha kg bo'ladi?",
+   "variantlar": [
+    "2,8 kg",
+    "3,0 kg",
+    "3,2 kg",
+    "3,4 kg"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "310 kg Ca3(PO4)2 da 120 kg Ca bo'lsa, 3,2 kg Ca3(PO4)2 da qancha kg Ca bo'ladi?",
+   "variantlar": [
+    "1,14 kg",
+    "1,24 kg",
+    "1,04 kg",
+    "1,34 kg"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qattiq suvda sovun nima uchun ko'pirmaydi?",
+   "variantlar": [
+    "Chunki sovun faqat yumshoq suvda ishlab chiqariladi",
+    "Chunki qattiq suvda kislorod yetishmaydi",
+    "Chunki sovun suvda umuman erimaydi",
+    "Chunki magniy va kalsiy ionlari sovun bilan suvda erimaydigan birikmalar hosil qiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kationit reaksiyasi Na2R + Ca2+ → 2Na+ + CaR jarayonida nima sodir bo'ladi?",
+   "variantlar": [
+    "Hech qanday ion almashinuvi bo'lmaydi",
+    "Suvdagi Ca2+ ioni kationitda qolib, Na+ ioni suvga o'tadi",
+    "Faqat anionlar almashinadi",
+    "Suvdagi Na+ ioni kationitda qolib, Ca2+ ioni suvga o'tadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Vaqtinchalik va doimiy qattiqlik orasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Ular orasida farq yo'q, ikkalasi bir xil tuzlardan iborat",
+    "Doimiy qattiqlik faqat sovuq suvda, vaqtinchalik esa issiq suvda uchraydi",
+    "Vaqtinchalik qattiqlik gidrokarbonatlar bilan, doimiy qattiqlik sulfat va xloridlar bilan bog'liq",
+    "Vaqtinchalik qattiqlik faqat magniyga, doimiy qattiqlik faqat kalsiyga tegishli"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mg(HCO3)2 ga ishqor (NaOH) ta'sir ettirilganda qanday ikkita mahsulot hosil bo'ladi?",
+   "variantlar": [
+    "MgCl2 va NaHCO3",
+    "MgCO3 (cho'kma) va Na2CO3 (eriydigan tuz)",
+    "MgSO4 va NaCl",
+    "Mg(OH)2 va NaCl"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Suvni minerallardan to'liq tozalash uchun nima uchun ham kationit, ham anionit birgalikda ishlatiladi?",
+   "variantlar": [
+    "Chunki kationitlar faqat kationlarni, anionitlar faqat anionlarni ushlab qoladi, ikkalasi birgalikda suvni tuzlardan to'liq tozalaydi",
+    "Chunki anionitlar suvni rangini o'zgartiradi",
+    "Chunki faqat kationitlar ishlatilsa suv portlab ketadi",
+    "Chunki ikkalasi birga ishlatilganda suv qaynab ketadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

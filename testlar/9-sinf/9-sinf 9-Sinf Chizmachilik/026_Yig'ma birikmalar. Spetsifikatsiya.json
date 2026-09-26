@@ -1,0 +1,326 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Chizmachilik",
+ "mavzu": "Yig'ma birikmalar. Spetsifikatsiya",
+ "savollar": [
+  {
+   "savol": "Tarkibiy qismlari yig'ish jarayonlari bilan mustahkamlangan buyumlar qanday ataladi?",
+   "variantlar": [
+    "Eskiz chizmalar",
+    "Standart detallar",
+    "Yig'ma birikmalar",
+    "Kesim chizmalari"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yig'ma birikmani yig'ish uchun zarur bo'lgan barcha ma'lumotlarni o'z ichiga oladigan chizma qanday nomlanadi?",
+   "variantlar": [
+    "Yig'ish chizmasi",
+    "Umumiy ko'rinish chizmasi",
+    "Eskiz chizmasi",
+    "Detal chizmasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Spetsifikatsiya nima uchun xizmat qiladi?",
+   "variantlar": [
+    "Detalning og'irligini ko'rsatish uchun",
+    "Yig'ish chizmalarni o'qishni osonlashtirish uchun",
+    "Detalning narxini ko'rsatish uchun",
+    "Detalning rangini ko'rsatish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Spetsifikatsiyaning birinchi ustunida nima yoziladi?",
+   "variantlar": [
+    "Material turi",
+    "Detallar soni",
+    "Chizmadagi detal belgisining tartib raqami",
+    "Detal nomi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Spetsifikatsiyaning ikkinchi ustunida nima ko'rsatiladi?",
+   "variantlar": [
+    "Detallar nomlari",
+    "Eslatma",
+    "Tartib raqami",
+    "Detallar soni"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Spetsifikatsiyaning uchinchi ustunida nima ko'rsatiladi?",
+   "variantlar": [
+    "Detal nomi",
+    "Material nomi",
+    "Tartib raqami",
+    "Detallar soni"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Spetsifikatsiyaning to'rtinchi ustunida nima yoziladi?",
+   "variantlar": [
+    "Detallar qanday materialdan tayyorlanganligi",
+    "Eslatma",
+    "Tartib raqami",
+    "Detallar soni"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Spetsifikatsiyaning beshinchi ustuni nima uchun ajratilgan?",
+   "variantlar": [
+    "Detal soni uchun",
+    "Material uchun",
+    "Eslatma uchun",
+    "Nom uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yig'ish chizmalarida detalni ko'rsatuvchi chiziq qanday chiziladi?",
+   "variantlar": [
+    "Qalin tutash chiziqda",
+    "Uzuq-uzuq chiziqda",
+    "Ingichka tutash chiziqda",
+    "Nuqtali chiziqda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Detalni ko'rsatuvchi chiziqning bir uchi nima bilan tamomlanadi?",
+   "variantlar": [
+    "Tokcha bilan",
+    "Doira bilan",
+    "Strelka bilan",
+    "Kvadrat bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'quv jarayonida yig'ish chizmalarini bajarishning birinchi bosqichida nima amalga oshiriladi?",
+   "variantlar": [
+    "Spetsifikatsiya to'ldiriladi",
+    "Buyumning asli olinib, detallari ajratiladi va o'rganiladi",
+    "Vaziyat raqamlari qo'yiladi",
+    "Yig'ish chizmasi chiziladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'quv jarayonida yig'ish chizmalarini bajarishning ikkinchi bosqichida nima bajariladi?",
+   "variantlar": [
+    "Buyum ajratiladi",
+    "Spetsifikatsiya chiziladi",
+    "Asosiy yozuv to'ldiriladi",
+    "Standart bo'lmagan detallarning eskizlari chizilib, o'lchamlari aniqlanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'quv jarayonida yig'ish chizmalarini bajarishning uchinchi bosqichida nima amalga oshiriladi?",
+   "variantlar": [
+    "Eskizlar chiziladi",
+    "Material aniqlanadi",
+    "Buyumning yig'ish chizmasi chizilib, vaziyat raqamlari qo'yiladi",
+    "Detallar ajratiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yig'ish chizmalarini bajarishning to'rtinchi (oxirgi) bosqichida nima bajariladi?",
+   "variantlar": [
+    "Eskizlar chiziladi",
+    "Asosiy yozuv va spetsifikatsiya chizilib, to'ldiriladi",
+    "Detallar ajratiladi",
+    "Vaziyat raqamlari qo'yiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bitta detalga necha marta chiqarish chizig'i chiziladi?",
+   "variantlar": [
+    "Ikki marta",
+    "To'rt marta",
+    "Uch marta",
+    "Bir marta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Detallardan chiqarilgan chiziqlarning tokchalari qanday joylashtiriladi?",
+   "variantlar": [
+    "Bitta vertikal ustun yoki gorizontal chiziqqa",
+    "Tarqoq holda",
+    "Faqat aylana bo'ylab",
+    "Faqat diagonal bo'ylab"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Guruh detallar uchun chiqarish chizig'i qanday chiziladi?",
+   "variantlar": [
+    "Faqat rangli chiziq bilan",
+    "Har biriga alohida chiziladi",
+    "Umuman chizilmaydi",
+    "Bittasidan chiqarish chizig'i va vertikal ustunga tokchalar chiziladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kesim yuzasi qoralatib bo'yalgan detallarga chiqarish chizig'ida nuqta o'rniga nima qo'yiladi?",
+   "variantlar": [
+    "Kvadrat",
+    "Doira",
+    "Chiziq",
+    "Strelka"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tokcha ustiga yoziladigan tartib raqamlari qanday hajmda yoziladi?",
+   "variantlar": [
+    "Chizma o'lcham raqamlari bilan bir xil",
+    "Umuman yozilmaydi",
+    "Chizma o'lcham raqamlaridan kattaroq",
+    "Chizma o'lcham raqamlaridan kichikroq"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Detalni ko'rsatuvchi chiziqning ikkinchi uchi odatda nima bilan yakunlanadi?",
+   "variantlar": [
+    "Doira bilan",
+    "Strelka bilan",
+    "Nuqta bilan",
+    "Uchburchak bilan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Avtomobil, traktor va go'shtqiymalagich kabi buyumlar nima uchun yig'ma birikma deb hisoblanadi?",
+   "variantlar": [
+    "Ular metalldan yasalgani uchun",
+    "Ularning tarkibiy qismlari yig'ish jarayonlari bilan mustahkamlangani uchun",
+    "Ular og'ir bo'lgani uchun",
+    "Ular sanoatda ishlab chiqarilgani uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yig'ish chizmasini tayyorlashda nega avval standart bo'lmagan detallarning eskizlari chiziladi, keyin esa yig'ish chizmasi tuziladi?",
+   "variantlar": [
+    "Yig'ish chizmasi eskizsiz chizilmaydi degan qoida yo'q",
+    "Eskizlar yig'ish chizmasi uchun zarur aniq o'lchamlarni beradi",
+    "Eskizlar shunchaki qo'shimcha material",
+    "Standart detallar uchun eskiz kerak emasligi uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Spetsifikatsiyada vaz. 3 raqami orqali detal haqida qanday ma'lumotlarni bir vaqtda bilib olish mumkin?",
+   "variantlar": [
+    "Faqat detal narxi",
+    "Faqat detal nomi",
+    "Detal nomi, soni va materiali",
+    "Faqat detal rangi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yig'ish chizmasida vaziyat raqamini topib, unga mos detal haqida ma'lumot olish uchun qanday ketma-ketlikda harakat qilinadi?",
+   "variantlar": [
+    "To'g'ridan-to'g'ri spetsifikatsiyaga qaraladi, chizma ko'rilmaydi",
+    "Faqat material ustuni tekshiriladi",
+    "Chizmadagi raqam topilib, tokcha chizig'i orqali detalga boriladi, so'ng spetsifikatsiyaga murojaat qilinadi",
+    "Faqat detalning o'zi ko'riladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun bir xil detallardan iborat guruh uchun faqat bitta chiqarish chizig'i ishlatiladi?",
+   "variantlar": [
+    "Chunki chizmani soddalashtirish va bir xil detallarni umumlashtirish uchun",
+    "Chunki ular alohida spetsifikatsiyaga kiritiladi",
+    "Chunki bir xil detallar chizmada ko'rsatilmaydi",
+    "Chunki qoida bo'yicha ko'p chiziq chizish taqiqlangan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar detalning kesim yuzasi qoralatib bo'yalgan bo'lsa, chiqarish chizig'idagi belgi qanday o'zgaradi va bu nimani anglatadi?",
+   "variantlar": [
+    "Faqat rang o'zgaradi",
+    "Chiziq butunlay olib tashlanadi",
+    "Nuqta o'rniga strelka qo'yiladi, bu kesim yuzasini alohida ajratib ko'rsatish uchun",
+    "Hech qanday o'zgarish bo'lmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yig'ish chizmasi va spetsifikatsiya o'rtasidagi bog'liqlik nimada ko'rinadi?",
+   "variantlar": [
+    "Ular bir-biriga bog'liq emas",
+    "Vaziyat raqamlari orqali chizmadagi detal spetsifikatsiyadagi ma'lumot bilan bog'lanadi",
+    "Faqat o'lcham orqali bog'lanadi",
+    "Faqat rang orqali bog'lanadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nega yig'ish chizmasini tuzishdan oldin buyumning detallarini bir-biridan ajratib, sinchiklab o'rganish zarur?",
+   "variantlar": [
+    "Chunki bu faqat spetsifikatsiya uchun kerak",
+    "Chunki har bir detalning tuzilishi va o'lchamlarini aniq bilmasdan to'g'ri eskiz va chizma tuzib bo'lmaydi",
+    "Chunki bu shunchaki an'ana",
+    "Chunki detallarni ajratish shart emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yig'ish chizmasi va uning spetsifikatsiyasini tuzishning to'rt bosqichli jarayonida qaysi bosqich boshqalaridan keyin bajariladi va nega?",
+   "variantlar": [
+    "Yig'ish chizmasini chizish, chunki u birinchi bosqich",
+    "Asosiy yozuv va spetsifikatsiyani to'ldirish, chunki u avvalgi bosqichlarda olingan barcha ma'lumotlarga asoslanadi",
+    "Detallarni ajratish, chunki u eng oson",
+    "Eskiz chizish, chunki o'lcham kerak emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

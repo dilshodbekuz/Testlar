@@ -1,0 +1,187 @@
+64-dars. Amaliy mashg'ulot
+
+--- OSON ---
+
+1. math modulidagi ceil(x) funksiyasi nima vazifani bajaradi?
+A) x sonining modulini hisoblaydi
++B) x sonini eng yaqin katta butun songacha yaxlitlaydi
+C) x sonining kvadrat ildizini hisoblaydi
+D) x sonini eng yaqin kichik butun songacha yaxlitlaydi
+
+2. math modulidagi floor(x) funksiyasi nima vazifani bajaradi?
+A) x sonining faktorialini hisoblaydi
+B) x sonini eng yaqin katta butun songacha yaxlitlaydi
+C) x sonini gradusga o'tkazadi
++D) x sonini eng yaqin kichik butun songacha yaxlitlaydi
+
+3. round(x) funksiyasi nimani bajaradi?
+A) x sonining sinusini hisoblaydi
++B) x sonini yaxlitlaydi
+C) x sonining logarifmini hisoblaydi
+D) x sonining darajasini hisoblaydi
+
+4. round(x, n) funksiyasi nimani bajaradi?
+A) x sonining n-ildizini hisoblaydi
+B) x sonini n marta ko'paytiradi
+C) x sonini n-darajaga ko'taradi
++D) x sonini nuqtadan keyin n ta belgi qolgunga qadar yaxlitlaydi
+
+5. log(a, b) funksiyasi nimani hisoblaydi?
+A) a sonining o'nli logarifmini
+B) b ning a-darajasini
++C) b asosga ko'ra a logarifmini
+D) a ning b-darajasini
+
+6. log10(x) funksiyasi nimani hisoblaydi?
+A) x sonining faktorialini
+B) x sonining kvadrat ildizini
+C) x sonining tabiiy logarifmini
++D) x sonining o'nli logarifmini
+
+7. sqrt(x) funksiyasi nimani hisoblaydi?
+A) x ning kubini
++B) x ning kvadrat ildizini
+C) x ning logarifmini
+D) x ning modulini
+
+8. factorial(x) funksiyasi nimani hisoblaydi?
+A) x sonining ildizini
+B) x sonining modulini
+C) x sonining darajasini
++D) x faktorialni
+
+9. degrees(x) funksiyasi nimani bajaradi?
++A) Radiandan gradusga o'tkazadi
+B) Radianning kosinusini hisoblaydi
+C) Gradusdan radianga o'tkazadi
+D) Gradusning sinusini hisoblaydi
+
+10. radians(x) funksiyasi nimani bajaradi?
+A) x ning faktorialini hisoblaydi
++B) Gradusdan radianga o'tkazadi
+C) x ning kvadrat ildizini hisoblaydi
+D) Radiandan gradusga o'tkazadi
+
+--- O'RTACHA ---
+
+11. ceil(1.5) funksiyasining natijasi nechaga teng?
++A) 2
+B) -2
+C) 1
+D) 1.5
+
+12. ceil(-1.5) funksiyasining natijasi nechaga teng?
++A) -1
+B) 2
+C) 1
+D) -2
+
+13. floor(1.5) funksiyasining natijasi nechaga teng?
+A) 0
++B) 1
+C) 1.5
+D) 2
+
+14. floor(-1.5) funksiyasining natijasi nechaga teng?
++A) -2
+B) 2
+C) -1
+D) 1
+
+15. abs(-7) funksiyasining natijasi nechaga teng?
+A) 0
++B) 7
+C) -7
+D) 14
+
+16. pow(2, 3) funksiyasining natijasi nechaga teng?
+A) 6
+B) 5
++C) 8
+D) 9
+
+17. factorial(4) funksiyasining natijasi nechaga teng?
+A) 20
+B) 16
++C) 24
+D) 12
+
+18. sqrt(16) funksiyasining natijasi nechaga teng?
+A) 8
+B) 2
++C) 4
+D) 16
+
+19. round(3.14159, 2) funksiyasining natijasi nechaga teng?
++A) 3.14
+B) 3.15
+C) 3.1
+D) 3.142
+
+20. Teng tomonli uchburchak yuzini hisoblash dasturida qaysi formuladan foydalanilgan?
++A) s = sqrt(3/4)*pow(a,2)
+B) s = pow(a,2)/2
+C) s = sqrt(a)*3/4
+D) s = a*sqrt(3)/2
+
+--- QIYIN ---
+
+21. 0.26598 sonini round(x, 1) yordamida yaxlitlasak natija nechaga teng bo'ladi?
+A) 0.266
++B) 0.3
+C) 0.2
+D) 0.27
+
+22. 0.26598 sonini round(x, 3) yordamida yaxlitlasak natija nechaga teng bo'ladi?
+A) 0.265
+B) 0.2660
+C) 0.27
++D) 0.266
+
+23. Tomoni a=6 bo'lgan teng tomonli uchburchakning yuzi s=sqrt(3/4)*pow(a,2) formulasi bo'yicha taxminan nechaga teng bo'ladi?
+A) 20.78
++B) 31.18
+C) 15.59
+D) 36.00
+
+24. Doira sektorining yuzasini hisoblash uchun radius r va burchak gradusda berilganda, dasturda burchakni radianga o'tkazishdan tashqari yana qaysi formula ishlatiladi?
+A) S = 2*pi*r*burchak/360
+B) S = r^2*burchak/2
++C) S = pi*r^2*burchak/360
+D) S = pi*r*burchak/180
+
+25. Radiusi r=4 va burchagi 90 gradus bo'lgan doira sektorining yuzasi taxminan nechaga teng (S = pi*r^2*burchak/360)?
+A) 6.28
+B) 25.13
++C) 12.57
+D) 9.42
+
+26. Burchagi 60 gradus va radiusi r=5 bo'lgan yoyning uzunligi (L = pi*r*burchak/180) taxminan nechaga teng?
+A) 10.47
++B) 5.24
+C) 3.14
+D) 7.85
+
+27. y = x*cos(x) funksiyasida x = pi (radian) qiymati berilsa, y ning natijasi taxminan nechaga teng bo'ladi?
+A) 0
+B) 3.14
+C) 1
++D) -3.14
+
+28. log(8, 2) ifodasining natijasi nechaga teng?
+A) 4
+B) 2
+C) 8
++D) 3
+
+29. Kvadrat tenglamaning ildizlarini hisoblashda diskriminant manfiy (D<0) bo'lsa, qaysi funksiyadan foydalanib bo'lmaydi?
++A) sqrt(x)
+B) pow(x,n)
+C) round(x)
+D) abs(x)
+
+30. pow(2, 10) ifodasining natijasi nechaga teng?
++A) 1024
+B) 100
+C) 512
+D) 2048

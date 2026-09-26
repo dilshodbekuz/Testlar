@@ -1,0 +1,187 @@
+65–66-darslar. Pythonda foydalanuvchi grafik interfeysi bilan ishlash
+
+--- OSON ---
+
+1. Foydalanuvchining grafik interfeysi (GUI) nima?
+A) Dasturlash tilining bir turi
+B) Ma'lumotlar bazasini boshqarish tizimi
+C) Operatsion tizimning nomi
++D) Oyna, matn maydoni va tugmachalar kabi boshqaruv elementlari orqali foydalanuvchi bilan aloqa o'rnatish usuli
+
+2. Widget (vijet) atamasi nimani anglatadi?
+A) Dasturlash tili turini
+B) Fayl kengaytmasini
++C) GUIga ega ilovani yaratishda foydalaniladigan tugmacha yoki matnli maydon kabi interfeys elementini
+D) Kompyuter operatsion tizimini
+
+3. Tkinter nima?
+A) Internet brauzeri
+B) Pythonning matn muharriri
+C) Windows operatsion tizimining qismi
++D) Pythondagi standart grafik kutubxona
+
+4. GUI ilovasining asosi hisoblanadigan element qaysi?
+A) Tugmacha
+B) Rasm
++C) Oyna
+D) Matn maydoni
+
+5. Dasturdagi barcha vijetlar qaysi ikki buyruq orasida kiritiladi?
++A) window = Tk() va window.mainloop()
+B) start va end
+C) def va return
+D) import va export
+
+6. Foydalanuvchi matn kiritishi uchun mo'ljallangan vijet qaysi?
+A) Label()
++B) Entry()
+C) Button()
+D) PhotoImage()
+
+7. Natijani chiqarish uchun ko'p qatorli matn maydoni sifatida qaysi vijet ishlatiladi?
+A) Checkbutton()
+B) Radiobutton()
++C) Text()
+D) Entry()
+
+8. Ilova oynasida bosiladigan tugmacha yaratish uchun qaysi funksiya ishlatiladi?
+A) Text()
++B) Button()
+C) Entry()
+D) Label()
+
+9. Tkinter modulida vijetlarni katakli koordinatalar tizimi asosida oynaga joylashtirish uchun qaysi usul ishlatiladi?
++A) grid()
+B) pack()
+C) locate()
+D) place()
+
+10. GUI ilova yaratishning birinchi bosqichi nima?
+A) Vijet qo'shish
++B) Tkinter modulini import qilish
+C) Asosiy siklga kirish
+D) Oynani yopish
+
+--- O'RTACHA ---
+
+11. window.title('My App') qatori nima vazifani bajaradi?
+A) Tugmacha yaratadi
+B) Oynaning o'lchamini belgilaydi
++C) Oyna sarlavhasiga 'My App' nomini beradi
+D) Oyna fonini rangga bo'yaydi
+
+12. window.geometry('250x50') qatori nimani belgilaydi?
+A) Oyna fonining rangini
+B) Tugmachaning eni
++C) Oynaning eni 250, bo'yi 50 bo'lgan o'lchamini
+D) Oyna sarlavhasini
+
+13. window.configure(background='yellow') buyrug'i bajarilganda nima sodir bo'ladi?
+A) Oyna sarlavhasi 'yellow' bo'ladi
+B) Tugmacha o'chiriladi
++C) Oynaning foni sariq rangga bo'yaladi
+D) Matn maydoni yaratiladi
+
+14. my_label=Label(window, width=40, height=5, bg='yellow', text='') qatoridagi width=40 nimani bildiradi?
+A) Tugmachaning enini
+B) Shrift o'lchamini
+C) Oynaning enini
++D) Matn maydonining enini
+
+15. my_label.grid(row=0, column=0) qatori vijet uchun nima qiladi?
+A) Vijetni oynadan o'chiradi
+B) Vijetning rangini o'zgartiradi
++C) Vijetni 0-satr, 0-ustun katagiga joylashtiradi
+D) Vijetning matnini o'zgartiradi
+
+16. Button funksiyasidagi command=change_text atributi qanday vazifani bajaradi?
++A) Tugmacha bosilganda change_text funksiyasini ishga tushiradi
+B) Tugmacha rangini belgilaydi
+C) Tugmachani ko'rinmas qiladi
+D) Tugmacha o'lchamini belgilaydi
+
+17. OptionMenu vijetida foydalanuvchi tanlagan qiymatni saqlash uchun qanday obyekt ishlatiladi?
+A) Label()
+B) Text()
+C) Button()
++D) StringVar() yoki IntVar()
+
+18. Ikkita Radiobutton bir guruhga tegishli bo'lishi (faqat bittasi tanlanishi) uchun ularga nima berilishi kerak?
+A) Bir xil text qiymati
+B) Har xil grid koordinatasi
++C) Bir xil variable obyekti (masalan StringVar)
+D) Har xil width qiymati
+
+19. Checkbutton vijeti asosan qanday maqsadda ishlatiladi?
+A) Oyna o'lchamini o'zgartirish uchun
++B) Bir yoki bir nechta variantni belgilash (tanlash) uchun
+C) Rasm chiqarish uchun
+D) Matnni katta harflarga o'zgartirish uchun
+
+20. PhotoImage() funksiyasida rasm faylining manzili qaysi parametr orqali ko'rsatiladi?
++A) file parametri
+B) source parametri
+C) path parametri
+D) image parametri
+
+--- QIYIN ---
+
+21. Darslikdagi kodda my_label.config(text='Hello!') qatori qachon bajariladi?
+A) Dastur ishga tushishi bilan darhol
++B) Foydalanuvchi tugmachani bosganda, change_text funksiyasi chaqirilganda
+C) Matn maydoni bo'sh bo'lganda
+D) Oyna yopilganda
+
+22. Rangi pushti, o'lchami 250x150 bo'lgan oynani yaratish uchun quyidagi kod qatorlari qaysi tartibda va shaklda to'g'ri bo'ladi?
+A) window.configure(background='250x150') va window.geometry('pink')
+B) window.title('pink') va window.geometry('250x150')
++C) window.geometry('250x150') va window.configure(background='pink')
+D) window.geometry('150x250') va window.configure(background='pink')
+
+23. GUI ilova yaratishning to'g'ri ketma-ketligi qaysi?
++A) Tkinter modulini import qilish, asosiy oyna yaratish, vijet qo'shish, asosiy siklga kirish
+B) Oyna yaratish, asosiy siklga kirish, import qilish, vijet qo'shish
+C) Vijet qo'shish, import qilish, oyna yaratish, asosiy siklga kirish
+D) Asosiy siklga kirish, import qilish, oyna yaratish, vijet qo'shish
+
+24. Tugmacha bosilganda matnli maydon tarkibini 'Hello!' ga o'zgartiruvchi funksiya qanday to'g'ri yoziladi?
+A) def change_text(): my_label.title('Hello!')
+B) def change_text(): my_label = 'Hello!'
+C) def change_text(): my_label.grid(text='Hello!')
++D) def change_text(): my_label.config(text='Hello!')
+
+25. Ikkita Radiobutton (Ayol/Erkak) yaratilganda, ularning faqat bittasi tanlanishini ta'minlash uchun kodda nima qilinishi shart?
++A) Har ikkalasiga bitta xil StringVar() obyektini variable sifatida berish
+B) Har biriga alohida rang berish
+C) Har biriga alohida oyna yaratish
+D) Har biriga alohida grid koordinata berish yetarli
+
+26. Tugmachani 1-satr, 0-ustun katagiga joylashtirish uchun qaysi kod qatori to'g'ri?
+A) my_button.grid(row=0, column=1)
++B) my_button.grid(row=1, column=0)
+C) my_button.place(row=1, column=0)
+D) my_button.pack(row=1, column=0)
+
+27. window.mainloop() buyrug'i nima uchun dastur kodining eng oxirida yoziladi?
++A) Oynani ochiq saqlab, foydalanuvchi amallariga (bosish, kiritish) javob beruvchi asosiy siklni ishga tushirish uchun
+B) Oynani darhol yopish uchun
+C) Dasturni tezlashtirish uchun
+D) Vijetlarni o'chirish uchun
+
+28. Entry() va Text() vijetlari o'rtasidagi asosiy farq nimada?
++A) Entry bir qatorli matn kiritish uchun, Text esa ko'p qatorli matn kiritish/chiqarish uchun ishlatiladi
+B) Ikkalasi ham faqat rasm ko'rsatish uchun ishlatiladi
+C) Entry faqat sonlar, Text faqat harflar uchun ishlatiladi
+D) Entry rasm ko'rsatadi, Text matn kiritadi
+
+29. Checkbutton bilan birga IntVar() obyekti nima uchun ishlatiladi?
++A) Checkbutton holatini (belgilangan yoki belgilanmaganligini) saqlash uchun
+B) Checkbutton rangini belgilash uchun
+C) Checkbutton o'lchamini belgilash uchun
+D) Checkbutton matnini o'zgartirish uchun
+
+30. Berilgan 4 ta mevadan birini tanlash imkonini beruvchi vijetni yaratish uchun qaysi funksiya ishlatilishi kerak?
+A) PhotoImage()
++B) OptionMenu()
+C) Radiobutton()
+D) Text()

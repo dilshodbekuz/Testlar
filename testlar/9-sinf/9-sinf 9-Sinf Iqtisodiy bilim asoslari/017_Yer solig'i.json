@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Iqtisodiy bilim asoslari",
+ "mavzu": "Yer solig'i",
+ "savollar": [
+  {
+   "savol": "Yer solig'i O'zbekiston soliq tizimida qaysi turga mansub?",
+   "variantlar": [
+    "Mahalliy soliq",
+    "Umumdavlat solig'i",
+    "Bojxona to'lovi",
+    "Aksiz solig'i"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yer solig'i qanday to'lov turi hisoblanadi?",
+   "variantlar": [
+    "Faqat zarar ko'rilganda to'lanadigan to'lov",
+    "Foyda miqdoriga qarab o'zgaruvchan to'lov",
+    "Ixtiyoriy to'lov",
+    "Qat'iy to'lov"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yer solig'ini joriy etishdan asosiy maqsad nima?",
+   "variantlar": [
+    "Yer narxini oshirish",
+    "Yerdan oqilona foydalanish, uni avaylash va talon-taroj qilinishiga yo'l qo'ymaslik",
+    "Davlat byudjetini faqat to'ldirish",
+    "Fermerlarni jazolash"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jismoniy shaxslar uchun yer solig'i stavkalari kim tomonidan belgilanadi?",
+   "variantlar": [
+    "Mahalliy hokimlik",
+    "Vazirlar Mahkamasi",
+    "Moliya vazirligi",
+    "O'zbekiston Respublikasi Prezidenti qaroriga asosan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yer solig'i to'lovchilari kimlar deb ataladi?",
+   "variantlar": [
+    "Yer solig'i obyektlari",
+    "Yer solig'i agentlari",
+    "Yer solig'i vositachilari",
+    "Yer solig'i subyektlari"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Soliqqa tortiladigan yer maydonlari nima deb ataladi?",
+   "variantlar": [
+    "Soliq subyekti",
+    "Soliq bazasi koeffitsienti",
+    "Soliq solish obyekti",
+    "Soliq imtiyozi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hovlilar va jamoat imoratlari band etgan yerlar qiymati qanday koeffitsient bilan baholanadi?",
+   "variantlar": [
+    "2",
+    "1,5",
+    "3",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yakka tartibda uy-joy qurish uchun berilgan yerlarga berilgan paytdan boshlab necha yil muddatga soliq solinmaydi?",
+   "variantlar": [
+    "3 yil",
+    "1 yil",
+    "5 yil",
+    "2 yil"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Berilgan yerdan ikki yil davomida foydalanmagan jismoniy shaxslardan yer solig'i necha baravar miqdorda undiriladi?",
+   "variantlar": [
+    "4 baravar",
+    "3 baravar",
+    "5 baravar",
+    "2 baravar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dehqon xo'jaliklaridan undiriladigan yer solig'i stavkalari asosan nimaga bog'liq holda belgilanadi?",
+   "variantlar": [
+    "Yer maydonining shakliga",
+    "Yer sifatiga",
+    "Egasining yoshiga",
+    "Bozor bahosiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yagona soliq to'lashga o'tgan korxona yer solig'ini to'laydimi?",
+   "variantlar": [
+    "Yo'q, yer solig'i to'lovchisi bo'lmaydi",
+    "Ha, har doim to'laydi",
+    "Faqat foyda ko'rsa to'laydi",
+    "Faqat davlat buyurtmasi bo'yicha to'laydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuridik shaxsga ajratib berilgan yerdan foydalanilmasa ham, u yer solig'ini to'lashi shartmi?",
+   "variantlar": [
+    "Ha, foydalanganmi-yo'qmi qat'i nazar to'laydi",
+    "Faqat davlat ruxsati bilan to'laydi",
+    "Yo'q, chunki foydalanmagan",
+    "Faqat yarim stavkada to'laydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ko'l va daryolar kabi suv fondi yerlari yer solig'iga tortiladimi?",
+   "variantlar": [
+    "Ha, to'liq stavkada",
+    "Yo'q, ular soliqdan ozod etiladi",
+    "Faqat baliqchilik uchun ishlatilsa to'lanadi",
+    "Ikki baravar stavkada to'lanadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shaharlarning umumiy foydalanishdagi ko'chalari va yo'llari yer solig'iga tortiladimi?",
+   "variantlar": [
+    "Ha, oddiy stavkada",
+    "Yo'q, ular soliqdan ozod etiladi",
+    "Faqat mahalliy hokimlik ruxsati bilan",
+    "Ikki baravar stavkada"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Meros bo'yicha uy-joy bilan birgalikda mulk huquqi o'tgan yer uchastkasi soliq nuqtai nazaridan qanday hisoblanadi?",
+   "variantlar": [
+    "Soliq obyekti hisoblanadi",
+    "Faqat sotilganda soliqqa tortiladi",
+    "Yer solig'i subyekti hisoblanadi",
+    "Soliqdan butunlay ozod"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tabiatni muhofazalashga mo'ljallangan yerlar yer solig'iga tortiladimi?",
+   "variantlar": [
+    "Faqat qishloq joylarda",
+    "Yo'q, ular soliqdan ozod etiladi",
+    "Ha",
+    "Faqat davlat tashkilotlariga tegishli bo'lsa"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'rmon xo'jaligi uchun egalik qilishga berilgan yerlar yuridik shaxs uchun nima hisoblanadi?",
+   "variantlar": [
+    "Yagona yer solig'i obyekti",
+    "Soliqdan ozod yer",
+    "Soliq subyekti",
+    "Yer solig'i obyekti"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yer egasi yakka tartibda uy-joy qurish uchun berilgan yerdan o'z o'rnida foydalanmasa, soliq imtiyozi qo'llaniladimi?",
+   "variantlar": [
+    "Yarim miqdorda qo'llanadi",
+    "Yo'q, bu imtiyoz qo'llanilmaydi",
+    "Ha, baribir qo'llanadi",
+    "Faqat 1 yilga qo'llanadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tadbirkorlik faoliyatini yuritish uchun ijaraga berilgan yer uchastkasi soliq nuqtai nazaridan qanday hisoblanadi?",
+   "variantlar": [
+    "Faqat yagona soliq to'lovchilar uchun obyekt",
+    "Soliq subyekti hisoblanadi",
+    "Yer solig'i obyekti hisoblanadi",
+    "Soliqdan ozod"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yagona yer solig'iga o'tgan qishloq xo'jaligi tovarlari ishlab chiqaruvchisi uchun qaysi stavka qo'llaniladi?",
+   "variantlar": [
+    "Bojxona stavkasi",
+    "Yer solig'i stavkasi",
+    "Yagona yer solig'i stavkasi",
+    "Aksiz solig'i stavkasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir qishloq xo'jaligi ishlab chiqaruvchisi yagona yer solig'iga o'tgan, biroq shu yil foyda ko'rmagan. Matndagi ma'lumotlarga ko'ra, u yer solig'ini to'lashi shartmi va nima uchun?",
+   "variantlar": [
+    "Faqat davlat kechirim bersa to'lamaydi",
+    "Ha, chunki yer solig'i qat'iy to'lov bo'lib, foyda miqdoridan qat'i nazar to'lanadi",
+    "Yo'q, chunki foyda ko'rmagan",
+    "Yo'q, chunki yagona soliqqa o'tganlar umuman yer solig'i to'lamaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir fuqaroga yakka tartibda uy-joy qurish uchun 2 yil oldin yer uchastkasi berilgan, biroq u hozirgacha undan foydalanmagan va uyini qurmagan. Matn asosida bu holatda qanday oqibat yuzaga keladi?",
+   "variantlar": [
+    "Yerdan o'z o'rnida foydalanilmagani uchun soliq imtiyozi qo'llanilmaydi va oshirilgan stavka bo'yicha soliq undiriladi",
+    "Yer davlatga qaytarib olinadi, soliq masalasi yo'qoladi",
+    "Imtiyoz davom etadi, chunki 2 yil hali tugamagan",
+    "Hech qanday oqibat bo'lmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yer solig'i stavkasi va yagona yer solig'i stavkasi o'rtasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Ular umuman farqlanmaydi, bir xil stavka qo'llaniladi",
+    "Biri jismoniy, ikkinchisi yuridik shaxslar uchun bir xil tarzda qo'llaniladi",
+    "Yagona yer solig'i faqat jismoniy shaxslar uchun, yer solig'i esa faqat yuridik shaxslar uchun",
+    "Yagona yer solig'i - yagona soliqqa o'tgan qishloq xo'jaligi ishlab chiqaruvchilari uchun, yer solig'i esa bunday o'tmagan korxonalar uchun alohida belgilanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir oila 3 yil oldin yakka tartibda uy-joy qurish uchun yer uchastkasi olgan va shu muddat ichida uyni qurib, yerdan foydalangan. Hozirgi holatda bu yer soliqqa tortiladimi?",
+   "variantlar": [
+    "Yo'q, chunki imtiyoz umrbod amal qiladi",
+    "Faqat uch baravar stavkada to'lanadi",
+    "Ha, chunki soliqdan ozod etish muddati (2 yil) tugagan",
+    "Yo'q, chunki u yerdan foydalangan"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir kishi hovli yerini sotib olib, unga imorat qurdi. Bu yer yer solig'iga qanday tortiladi?",
+   "variantlar": [
+    "Oddiy bozor bahosidan soliq olinadi",
+    "Faqat yagona soliq to'lovchilar uchun soliq olinadi",
+    "Soliqdan butunlay ozod qilinadi",
+    "Yer qiymati 2 ga ko'paytirilgan holda baholanib, shu qiymatdan yagona yer solig'i to'lanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yer solig'i subyekti va obyekti tushunchalari orasidagi farqni to'g'ri ko'rsating.",
+   "variantlar": [
+    "Subyekt - soliqqa tortiladigan yer, obyekt - yer egasi",
+    "Ikkalasi bir xil tushuncha",
+    "Subyekt - soliq to'lovchi shaxs (jismoniy/yuridik), obyekt - soliqqa tortiladigan yer maydoni",
+    "Subyekt - davlat, obyekt - fuqaro"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jismoniy shaxs 2 yil yerdan foydalanmasa 3 baravar soliq to'laydi, yuridik shaxs esa ajratilgan yerdan foydalanmasa ham oddiy stavkada soliq to'laydi. Bu ikki holat o'rtasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Yuridik shaxs uchun ham 3 baravar stavka qo'llaniladi",
+    "Jismoniy shaxs uchun soliq umuman bekor qilinadi",
+    "Jismoniy shaxs uchun foydalanmaslik oshirilgan stavka sabab bo'ladi, yuridik shaxs esa foydalanish-foydalanmasligidan qat'i nazar bir xil stavkada to'laydi",
+    "Ikkala holatda ham farq yo'q"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bog'dorchilik jamoasiga umumiy foydalanish uchun berilgan yer (masalan, jamoa yo'llari) bilan jamoa bog'dorchiligini yuritish uchun individual a'zoga berilgan yer uchastkasi soliq nuqtai nazaridan qanday farqlanadi?",
+   "variantlar": [
+    "Umumiy foydalanishga berilgan yer soliq obyekti, individual esa ozod",
+    "Ikkalasi ham soliqdan ozod",
+    "Ikkalasi ham soliq obyekti hisoblanadi",
+    "Umumiy foydalanishga berilgan yer soliqdan ozod, individual berilgan uchastka esa soliq obyekti hisoblanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda keltirilgan ma'lumotlarga ko'ra, quyidagi holatlardan qaysi biri yer solig'i miqdorini oshiruvchi omil hisoblanadi?",
+   "variantlar": [
+    "Yagona soliqqa o'tish",
+    "Yerning suv fondiga tegishli bo'lishi",
+    "Yer meros orqali olinishi",
+    "Yerdan samarali foydalanmaslik"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yer solig'i mahalliy soliq turiga mansub bo'lib, uning stavkalari markaziy hokimiyat - Prezident qarori bilan belgilanadi. Bu holat yer solig'ining qanday xususiyatini ko'rsatadi?",
+   "variantlar": [
+    "Yer solig'i to'liq mahalliy hokimiyat tomonidan mustaqil belgilanadi va markazdan bog'liq emas",
+    "Yer solig'i umumdavlat solig'i bo'lgani uchun markaziy idora belgilaydi",
+    "Yer solig'i mahalliy soliq sifatida qo'llanilsa-da, uning stavkasi markaziy davlat organi tomonidan belgilanadi",
+    "Yer solig'i stavkasi har bir fuqaro tomonidan mustaqil tanlanadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

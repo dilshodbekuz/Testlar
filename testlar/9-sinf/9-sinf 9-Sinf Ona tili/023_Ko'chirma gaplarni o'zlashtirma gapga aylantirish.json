@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Ona tili",
+ "mavzu": "Ko'chirma gaplarni o'zlashtirma gapga aylantirish",
+ "savollar": [
+  {
+   "savol": "Ko'chirma gap va o'zlashtirma gap orasidagi munosabat qanday ataladi?",
+   "variantlar": [
+    "Zid ma'noli",
+    "Ma'nodosh",
+    "Shakldosh",
+    "Tarkibiy"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'chirma gap o'zlashtirma gapga aylantirilganda, ko'chirma gapli qo'shma gap qanday gap shakliga aylanadi?",
+   "variantlar": [
+    "Undov gap",
+    "Sodda gap",
+    "Qo'shma gap",
+    "Ajratilgan gap"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Darak gap shaklidagi ko'chirma gapning kesimi o'zlashtirma gapda qanday kelishikdagi to'ldiruvchiga aylanadi?",
+   "variantlar": [
+    "Tushum kelishigi",
+    "O'rin-payt kelishigi",
+    "Qaratqich kelishigi",
+    "Bosh kelishik"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Darak gap shaklidagi ko'chirma gapning egasi o'zlashtirma gapda qanday aniqlovchiga aylanadi?",
+   "variantlar": [
+    "Izohlovchi aniqlovchi",
+    "Qaratuvchi aniqlovchi",
+    "Sifatlovchi aniqlovchi",
+    "Miqdor aniqlovchi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Muallif gapining kesimi vazifasidagi \"dedi\" so'zi o'zlashtirma gapda qaysi so'z bilan almashtiriladi?",
+   "variantlar": [
+    "Dedi",
+    "So'radi",
+    "Aytdi",
+    "Bildirdi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Muallif gapining egasi o'zlashtirma gapda gapning qaysi bo'lagi bo'lib, qayerda keladi?",
+   "variantlar": [
+    "Kesim, gap oxirida",
+    "To'ldiruvchi, gap o'rtasida",
+    "Aniqlovchi, gap oxirida",
+    "Ega, gap boshida"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "So'roq va buyruq shaklidagi ko'chirma gaplar o'zlashtirma gapga aylantirilganda qanday gap shakliga o'tadi?",
+   "variantlar": [
+    "Undov gap",
+    "Buyruq gap",
+    "So'roq gap",
+    "Darak gap"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'chirma gap tarkibidagi undov va kirish so'zlar o'zlashtirma gapga aylantirilganda nima qilinadi?",
+   "variantlar": [
+    "Kuchaytiriladi",
+    "Takrorlanadi",
+    "O'zgartiriladi",
+    "Tushirib qoldiriladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'chirma gap tarkibidagi undalma o'zlashtirma gapda qanday kelishikdagi to'ldiruvchiga aylanadi?",
+   "variantlar": [
+    "Tushum kelishigi",
+    "O'rin-payt kelishigi",
+    "Jo'nalish kelishigi",
+    "Chiqish kelishigi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'chirma gap kesimi o'zlashtirma gapda tushum kelishigidagi qanday so'z turkumi bilan ifodalanadi?",
+   "variantlar": [
+    "Son",
+    "Sifatdosh yoki harakat nomi",
+    "Ravishdosh",
+    "Sifat"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"«Yoshlarimiz istiqboli porloq»,— dedi o'qituvchimiz\" gapi o'zlashtirma gapga aylantirilganda qaysi javobda to'g'ri berilgan?",
+   "variantlar": [
+    "O'qituvchimiz yoshlarimizga istiqbol porloq deydi.",
+    "O'qituvchimiz yoshlarimiz istiqbolining porloqligini aytdi.",
+    "O'qituvchimiz yoshlarimiz istiqboli porloq dedi.",
+    "Yoshlarimiz istiqboli porloq, deb o'qituvchimiz aytdi."
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"«Salima qanday o'qiyapti?» — deb so'radi onasi\" gapining o'zlashtirma shakli qaysi javobda to'g'ri berilgan?",
+   "variantlar": [
+    "Onasi Salimaning qanday o'qiyotganligini so'radi.",
+    "Salima onasidan qanday o'qiyotganini so'radi.",
+    "Onasi Salimaga qanday o'qiyapsan dedi.",
+    "Onasi Salima qanday o'qiyapti deb so'radi."
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Keldik, — dedi Ochil kulib\" gapining o'zlashtirma shakli qaysi javobda to'g'ri berilgan?",
+   "variantlar": [
+    "Ochil kulib kelganini aytdi.",
+    "Ochil kulib kelaman dedi.",
+    "Ochil keldi kulib aytdi.",
+    "Ochil kulib keldik dedi."
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Balli, Ra'no, — dedi Solih mahdum\" gapida \"Ra'no\" undalmasi o'zlashtirma gapda qanday shaklga aylanadi?",
+   "variantlar": [
+    "Ra'nodan",
+    "Ra'noga",
+    "Ra'noning",
+    "Ra'noni"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Seni ilgari ko'rmagan edim-ku, qayerliksan, — deb so'radi u\" gapidagi so'roq mazmuni o'zlashtirma gapda qanday ifodalanadi?",
+   "variantlar": [
+    "Qayerlik deydi",
+    "Qayerli ekanligini so'radi",
+    "Qayerliksan deb so'radi",
+    "Qayerlikligini dedi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Qadimgilar demishki: «O'z uyim — o'lan to'shagim»\" gapida \"demishki\" so'zi qaysi turkumga oid va o'zlashtirma gapda qanday almashtiriladi?",
+   "variantlar": [
+    "Sifat, \"yaxshi\" ga",
+    "Fe'l, \"aytishgan\" ga",
+    "Ot, \"so'zga\" ga",
+    "Ravish, \"tez\" ga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"«Kamgaplik, — deydi H. Olimjon, — donolik yo'lining boshlanishi»\" gapida muallif gapi vazifasidagi \"H. Olimjon\" so'zi o'zlashtirma gapga aylantirilganda qanday o'rin egallaydi?",
+   "variantlar": [
+    "Gap oxirida to'ldiruvchi bo'lib",
+    "Gap boshida ega bo'lib",
+    "Tushirib qoldiriladi",
+    "O'rtada kirish so'z bo'lib qoladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Olcha juda serob, avval tatib yenglar, keyin terasizlar, — dedi bir mo'ysafid\" gapidagi buyruq mazmuni o'zlashtirma gapda qanday shaklga o'tadi?",
+   "variantlar": [
+    "Darak shakliga aylanadi",
+    "So'roq shakliga aylanadi",
+    "Undov shakliga aylanadi",
+    "Buyruq shaklida qoladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"«Or-nomus uchun kurash bolalikdan boshlanadi», — deydi Tog'ay Murod\" gapini o'zlashtirma gapga aylantirganda \"deydi\" so'zi nimaga almashadi?",
+   "variantlar": [
+    "Aytadi",
+    "Buyuradi",
+    "Deydi",
+    "So'raydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "205-mashqdagi \"Ilhom, bir kataysa qilib kelmaysanmi?\" — derdi\" gapi qanday shakldagi ko'chirma gap va o'zlashtirma gapga aylanganda qaysi shaklga o'tadi?",
+   "variantlar": [
+    "Undov gap, darak shakliga",
+    "Buyruq gap, so'roq shakliga",
+    "So'roq gap, darak shakliga",
+    "Darak gap, buyruq shakliga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Behbudiy: «Maktab dunyo imoratlarining eng muqaddasi va qadrlisidir», — deb yozadi\" gapini o'zlashtirma gapga aylantirganda, gapning ega va kesimi qanday o'zgaradi?",
+   "variantlar": [
+    "\"Maktab\" qaratuvchi aniqlovchiga, kesim tushum kelishigidagi to'ldiruvchiga aylanadi, \"Behbudiy\" ega bo'lib gap boshida keladi",
+    "\"Behbudiy\" to'ldiruvchiga, \"maktab\" kesimga aylanadi",
+    "Gapning tarkibi o'zgarmaydi, faqat tinish belgilari olib tashlanadi",
+    "\"Maktab\" ega bo'lib qoladi, kesim ham o'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"«So'z qolip, fikr uning ichiga quyilgan g'isht», — deb yozadi A. Qodiriy\" gapida ko'chirma gap tarkibida nechta sodda gap mavjud va bu qo'shma gap o'zlashtirma gapga aylantirilganda qanday gap shakliga keladi?",
+   "variantlar": [
+    "3 ta sodda gap, murakkab qo'shma gapga aylanadi",
+    "2 ta sodda gap, qo'shma gap bo'lib qoladi",
+    "1 ta sodda gap, qo'shma gap bo'lib qoladi",
+    "2 ta sodda gap, sodda gapga aylanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Sen do'st emassan, — dedi Iskandar aka, — do'st o'rtog'ini yengilning ostidan, og'irning ustidan yurishga o'rgatmaydi\" gapi necha qismli ko'chirma gap va uni o'zlashtirma gapga aylantirishda muallif gapi qanday joylashadi?",
+   "variantlar": [
+    "Bir qismli ko'chirma gap, muallif gapi o'rtada qoladi",
+    "Ikki qismli ko'chirma gap, muallif gapi tushirib qoldiriladi",
+    "Ikki qismli ko'chirma gap, muallif gapi egasi \"Iskandar aka\" gap boshiga chiqariladi",
+    "Uch qismli ko'chirma gap, muallif gapi oxirida qoladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Tanaffusda Xolmatni bir chetga tortdim-da: «Bundan keyin o'qi. Endi daftar berish yo'q», — dedim\" gapidagi ikkita gap birgalikda o'zlashtirma gapga aylantirilsa, ular qanday gap shakliga keladi?",
+   "variantlar": [
+    "Ikkalasi ham darak shakliga aylanadi va bitta sodda gapga birlashishi mumkin",
+    "Buyruq gap so'roq gapga, darak gap buyruqqa aylanadi",
+    "Ikkalasi ham o'z shaklida qoladi, ikkita alohida gap bo'lib qoladi",
+    "Ikkalasi undov gapga aylanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi qoidaga ko'ra, agar ko'chirma gap ichida ham undalma, ham kirish so'z bo'lsa, o'zlashtirma gapga aylantirishda ular bilan nima sodir bo'ladi?",
+   "variantlar": [
+    "Ikkalasi ham tushirib qoldiriladi",
+    "Ikkalasi ham o'zgarishsiz qoladi",
+    "Undalma chiqish kelishigidagi to'ldiruvchiga aylanadi, kirish so'z tushirib qoldiriladi",
+    "Undalma tushiriladi, kirish so'z to'ldiruvchiga aylanadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Donolar deydiki: «Vaqting ketdi — baxting ketdi»\" gapi o'zlashtirma gapga aylantirilsa, natijada nechta harakat nomi (masdar) ishtirok etadi?",
+   "variantlar": [
+    "3 ta",
+    "0 ta",
+    "1 ta",
+    "2 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda keltirilgan qoidalarga ko'ra, ko'chirma gapni o'zlashtirma gapga aylantirishda nechta asosiy o'zgarish turi (band) ko'rsatilgan?",
+   "variantlar": [
+    "2 ta",
+    "5 ta",
+    "4 ta",
+    "3 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar ko'chirma gapda muallif gapi ko'chirma gap ichida bo'lib, uni ikkiga bo'lib tursa, o'zlashtirma gapga aylantirishda bu qanday amalga oshiriladi?",
+   "variantlar": [
+    "Muallif gapi ega vazifasida gap boshiga chiqariladi, ko'chirma gapning ikki qismi birlashtirilib, kesim harakat nomi yoki sifatdosh bilan ifodalanadi",
+    "Ko'chirma gapning faqat birinchi qismi o'zlashtiriladi, ikkinchisi o'zgarishsiz qoladi",
+    "Ko'chirma gapning ikki qismi alohida-alohida ikkita mustaqil gapga aylantiriladi",
+    "Muallif gapi tushirib qoldiriladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga asoslanib, o'zlashtirma gap tuzishda eng muhim shart nima, ya'ni o'zgartirilgan gap qanday xususiyatga ega bo'lishi kerak?",
+   "variantlar": [
+    "Albatta savol shaklida bo'lishi",
+    "Muallif gapisiz tuzilishi",
+    "Asl ma'noni saqlagan holda sodda gap ko'rinishida bo'lishi",
+    "Tirnoq ichida berilishi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Berilgan qoidalarni umumlashtirsak, ko'chirma gapni o'zlashtirma gapga aylantirishda quyidagi o'zgarishlardan qaysi biri NOTO'G'RI ko'rsatilgan?",
+   "variantlar": [
+    "Qo'shma gap murakkablashadi va yangi ergash gap qo'shiladi",
+    "Ega qaratuvchi aniqlovchiga aylanadi",
+    "Kesim tushum kelishigidagi to'ldiruvchiga aylanadi",
+    "Undalma chiqish kelishigidagi to'ldiruvchiga aylanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

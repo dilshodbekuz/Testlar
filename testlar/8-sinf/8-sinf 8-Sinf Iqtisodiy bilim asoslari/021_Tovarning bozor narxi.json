@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Iqtisodiy bilim asoslari",
+ "mavzu": "Tovarning bozor narxi",
+ "savollar": [
+  {
+   "savol": "Bozor iqtisodiyoti sharoitida tovarning bozor narxi nimaga qarab aniqlanadi?",
+   "variantlar": [
+    "Unga bo'lgan talab va taklif miqdoriga qarab",
+    "Faqat sotuvchining xohishiga qarab",
+    "Davlat rejasiga qarab",
+    "Faqat xaridorning to'lov qobiliyatiga qarab"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tovarga bo'lgan talab miqdori uning taklif miqdoriga teng bo'lgandagi narx boshqacha qanday ataladi?",
+   "variantlar": [
+    "Muvozanat (bozor) narx",
+    "Qat'iy narx",
+    "Ulgurji narx",
+    "Chakana narx"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bozor talabi ta'rifini toping.",
+   "variantlar": [
+    "Bitta xaridorning shaxsiy xohishi",
+    "Bozordagi jami xaridorlarning umumlashgan fikri",
+    "Sotuvchining tovar zaxirasi",
+    "Davlatning belgilagan narxi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bozor taklifi ta'rifini toping.",
+   "variantlar": [
+    "Davlat tomonidan belgilangan tovar miqdori",
+    "Bozordagi jami sotuvchilarning umumlashgan fikri",
+    "Xaridorlarning umumiy ehtiyoji",
+    "Bitta sotuvchining shaxsiy rejasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bozorda davlat tomonidan qat'iy qilib o'rnatiladigan, bozor narxidan farqli bo'lgan narx qanday ataladi?",
+   "variantlar": [
+    "Erkin narx",
+    "Muvozanat narx",
+    "Bozor narxi",
+    "Qat'iy narx"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tovar taklif miqdorining unga bo'lgan talab miqdoridan past bo'lgan bozor qanday ataladi?",
+   "variantlar": [
+    "Taqchil bozor",
+    "Erkin bozor",
+    "To'yingan bozor",
+    "Muvozanatlashgan bozor"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tovar taklif miqdorining unga bo'lgan talab miqdoridan yuqori bo'lgan bozor qanday ataladi?",
+   "variantlar": [
+    "Taqchil bozor",
+    "Muvozanatlashgan bozor",
+    "Qat'iy bozor",
+    "To'yingan bozor"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Muvozanat miqdor deganda nima tushuniladi?",
+   "variantlar": [
+    "Har qanday narxdagi tovar miqdori",
+    "Faqat talab miqdori",
+    "Bozor narxiga mos talab (yoki taklif) miqdori",
+    "Faqat taklif miqdori"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Talab va taklif chiziqlarining kesishishidan hosil bo'lgan \"qaychi\"ga o'xshash tasvir qaysi olim sharafiga nomlangan?",
+   "variantlar": [
+    "Karl Marks",
+    "Alfred Marshall",
+    "Adam Smit",
+    "Devid Rikardo"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Talab va taklif chiziqlarining kesishish nuqtasi qanday ataladi?",
+   "variantlar": [
+    "Boshlang'ich nuqta",
+    "Muvozanat nuqta",
+    "Qat'iy nuqta",
+    "Taqchillik nuqtasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matndagi guruch bozorida talab va taklif miqdorlari o'zaro teng bo'lganda, guruchning bozor narxi necha so'mni tashkil qiladi?",
+   "variantlar": [
+    "8 400",
+    "8 800",
+    "8 600",
+    "9 000"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Guruch narxi 8 600 so'm bo'lganda, muvozanat miqdor necha tonnani tashkil qiladi?",
+   "variantlar": [
+    "6 tonna",
+    "4 tonna",
+    "2 tonna",
+    "8 tonna"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Guruch narxi 8 400 so'm bo'lganida, guruchga bo'lgan talab miqdori necha tonnani tashkil qiladi?",
+   "variantlar": [
+    "4 tonna",
+    "6 tonna",
+    "8 tonna",
+    "2 tonna"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Guruch narxi 8 400 so'm bo'lganida, guruchning taklif miqdori necha tonnani tashkil qiladi?",
+   "variantlar": [
+    "8 tonna",
+    "4 tonna",
+    "6 tonna",
+    "2 tonna"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Guruch narxi 8 800 so'm qilib qat'iy belgilansa, bozorda qanday holat vujudga keladi?",
+   "variantlar": [
+    "Muvozanatlashgan bozor",
+    "To'yingan bozor",
+    "Taqchil bozor",
+    "O'zgarish bo'lmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Guruch narxi 8 400 so'm qilib qat'iy belgilansa, bozorda qanday holat vujudga keladi?",
+   "variantlar": [
+    "Erkin bozor",
+    "To'yingan bozor",
+    "Taqchil bozor",
+    "Muvozanatlashgan bozor"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bozorda tovarga bo'lgan talab qD=400-p va taklif qS=2p+100 funksiyalari bilan berilgan. Tovarning muvozanat narxi necha so'mga teng?",
+   "variantlar": [
+    "50 so'm",
+    "300 so'm",
+    "100 so'm",
+    "150 so'm"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "qD=400-p va qS=2p+100 funksiyalari berilgan bo'lsa, muvozanat miqdor necha donaga teng?",
+   "variantlar": [
+    "400 dona",
+    "300 dona",
+    "100 dona",
+    "200 dona"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir bozorda tovar narxi 600 so'm bo'lganda talab va taklif miqdorlari teng (har biri 4 dona) bo'lsa, tovarning bozor narxi necha so'm bo'ladi?",
+   "variantlar": [
+    "1 200 so'm",
+    "900 so'm",
+    "300 so'm",
+    "600 so'm"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Muvozanat nuqtaning absissasi (x koordinatasi) nimani bildiradi?",
+   "variantlar": [
+    "Qat'iy narxni",
+    "Bozor turini",
+    "Muvozanat narxni",
+    "Muvozanat miqdorni"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sut bozorida narx 4 000 so'm bo'lganda, o'n xaridorning yakka talablari mos ravishda 2, 4, 3, 6, 3, 5, 2, 4, 3, 4 litrni tashkil etadi. Bozorchadagi umumiy kunlik talab necha litrga teng?",
+   "variantlar": [
+    "31 litr",
+    "36 litr",
+    "18 litr",
+    "20 litr"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sut bozorida narx 4 000 so'm bo'lganda, uch sotuvchining yakka takliflari mos ravishda 0, 10, 10 litrni tashkil etadi. Bozorchadagi umumiy kunlik taklif necha litrga teng?",
+   "variantlar": [
+    "31 litr",
+    "36 litr",
+    "20 litr",
+    "10 litr"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sut narxi 4 000 so'm bo'lganda umumiy talab 36 litr, umumiy taklif 20 litrni tashkil qiladi. Agar bu narx qat'iy belgilansa, necha litr sut yetishmay qoladi?",
+   "variantlar": [
+    "16 litr",
+    "10 litr",
+    "36 litr",
+    "20 litr"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sut narxi 4 200 so'm bo'lganda, o'n xaridorning talablari yig'indisi 31 litr, uch sotuvchining takliflari yig'indisi ham 31 litrni tashkil qiladi. Bu holat qanday narxni ifodalaydi?",
+   "variantlar": [
+    "To'yingan bozor narxi",
+    "Qat'iy narx",
+    "Muvozanat (bozor) narx",
+    "Taqchil narx"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sut narxi 4 400 so'm bo'lganda, xaridorlarning yakka talablari mos ravishda 0, 2, 2, 4, 0, 1, 0, 3, 3, 3 litrni tashkil etadi. Umumiy kunlik talab necha litrga teng?",
+   "variantlar": [
+    "31 litr",
+    "36 litr",
+    "15 litr",
+    "18 litr"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sut narxi 4 400 so'm bo'lganda, uch sotuvchining takliflari mos ravishda 11, 20, 15 litrni tashkil etadi. Umumiy kunlik taklif necha litrga teng?",
+   "variantlar": [
+    "46 litr",
+    "61 litr",
+    "36 litr",
+    "31 litr"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sut narxi 4 400 so'm bo'lganda umumiy talab 18 litr, umumiy taklif 46 litrni tashkil qiladi. Agar bu narx qat'iy belgilansa, necha litr sut ortib qoladi?",
+   "variantlar": [
+    "28 litr",
+    "10 litr",
+    "46 litr",
+    "18 litr"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Guruch bozorida narx 8 400 so'mdan 8 600 so'mgacha oshganda, sotuvchilarning taklif miqdori 2 tonnadan 4 tonnagacha o'zgaradi. Bu narx oshishi natijasida taklif miqdori necha tonnaga ortadi?",
+   "variantlar": [
+    "4 tonna",
+    "6 tonna",
+    "1 tonna",
+    "2 tonna"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "qD=400-p va qS=2p+100 funksiyalari berilgan bozorda, agar narx p=50 so'm bo'lsa (qD=350, qS=200), bozorda qanday holat yuzaga keladi?",
+   "variantlar": [
+    "To'yingan bozor, chunki taklif talabdan katta",
+    "Taqchil bozor, chunki talab taklifdan katta",
+    "Muvozanatlashgan bozor",
+    "Bu ma'lumotlar bilan aniqlab bo'lmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir bozorda narx 900 so'm bo'lganda talab miqdori 2 birlik, taklif miqdori esa 6 birlikni tashkil qiladi (muvozanat narx 600 so'm bo'lgan holatda). Agar 900 so'm qat'iy narx qilib belgilansa, qanday holat yuzaga keladi va necha birlik tovar ortib qoladi?",
+   "variantlar": [
+    "Taqchil bozor, 4 birlik yetishmaydi",
+    "Muvozanatlashgan bozor, ortiqcha yo'q",
+    "To'yingan bozor, 4 birlik ortib qoladi",
+    "To'yingan bozor, 2 birlik ortib qoladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

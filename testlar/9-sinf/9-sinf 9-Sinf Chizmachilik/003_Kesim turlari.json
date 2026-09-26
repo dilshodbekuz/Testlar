@@ -1,0 +1,326 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Chizmachilik",
+ "mavzu": "Kesim turlari",
+ "savollar": [
+  {
+   "savol": "Kesim - bu nima?",
+   "variantlar": [
+    "Detalning fikran tekislik bilan kesilishi",
+    "Kesuvchi tekislikkacha bo'lgan detal qismining tasviri",
+    "Detalning faqat kesuvchi tekislik bilan kesilgan joyi tasviri",
+    "Kesuvchi tekislik orqasidagi detal qismi tasviri"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bajarilishiga qarab kesimlar nechta turga bo'linadi?",
+   "variantlar": [
+    "Ikki",
+    "To'rt",
+    "Uch",
+    "Besh"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chetga chiqarib tasvirlangan kesim qanday belgilanadi?",
+   "variantlar": [
+    "Rim raqamlari bilan",
+    "Raqamlar bilan",
+    "A-A, B-B kabi harfli yozuvlar bilan",
+    "Yulduzcha belgisi bilan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ustiga qo'yilgan kesim konturi va shtrix chiziqlari qanday chiziq bilan chiziladi?",
+   "variantlar": [
+    "Nuqtali shtrix chiziq",
+    "Shtrix chiziq",
+    "Qalin tutash chiziq",
+    "Ingichka tutash chiziq"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kesimlarning qaysi turi ancha yaqqol (aniq) bo'ladi?",
+   "variantlar": [
+    "Ustiga qo'yilgan kesim",
+    "Hech biri yaqqol emas",
+    "Ikkalasi ham bir xil darajada",
+    "Chetga chiqarib tasvirlangan kesim"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, qaysi kesim turi kamroq qo'llaniladi?",
+   "variantlar": [
+    "Ustiga qo'yilgan kesim",
+    "Ikkalasi teng qo'llaniladi",
+    "Hech biri qo'llanilmaydi",
+    "Chetga chiqarib tasvirlangan kesim"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chetga chiqarib tasvirlangan kesim konturi detal konturiga nisbatan qanday chiziqda chiziladi?",
+   "variantlar": [
+    "Qalinroq chiziqda",
+    "Nuqtali chiziqda",
+    "Bir xil yo'g'onlikda",
+    "Ingichkaroq chiziqda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Teshik yoki o'yiqlarning simmetriya o'qi davomida kesim chiqarib tasvirlansa, u qaysi burchakka burib tasvirlanadi?",
+   "variantlar": [
+    "90°",
+    "180°",
+    "45°",
+    "60°"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, chetga chiqarib tasvirlanadigan kesimni qaysi detallarda qo'llash tavsiya etiladi?",
+   "variantlar": [
+    "Vintlar, gaykalar, shayblar",
+    "Faqat sharsimon detallar",
+    "Faqat kub shaklidagi detallar",
+    "Shatunlar, balkalar, relslar, uzun vallar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kesim yuzasi qanday tarzda shtrixlanadi?",
+   "variantlar": [
+    "Umuman shtrixlanmaydi",
+    "Faqat rang bilan to'ldiriladi",
+    "Har xil uslubda, xohishga ko'ra",
+    "Standartga muvofiq"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar teshikning simmetriya o'qi davomida kesim chiqarib tasvirlansa, kesuvchi tekislik izi qanday ko'rsatiladi?",
+   "variantlar": [
+    "Rangli chiziq bilan ko'rsatiladi",
+    "Qalin chiziq bilan ko'rsatiladi",
+    "Ko'rsatilmasdan tasvirlanadi",
+    "Nuqtali chiziq bilan ko'rsatiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shponka ariqchasi bir tomonlama bo'lsa (3.3-chizma, a), kesim qanday belgilanadi?",
+   "variantlar": [
+    "Raqamlar bilan belgilanadi",
+    "90° ga burib tasvirlanadi, ko'rsatkich chizilib belgilanmaydi",
+    "Harflar bilan belgilanadi",
+    "Umuman ko'rsatilmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kesimga tushgan joy simmetrik shaklga ega bo'lsa (3.3-chizma, b), tekislik izi haqida nima deyilgan?",
+   "variantlar": [
+    "Albatta ko'rsatiladi",
+    "Faqat rangli chiziq bilan ko'rsatiladi",
+    "Ikki marta ko'rsatiladi",
+    "Ko'rsatilmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kesimga tushgan teshik yoki o'yiq silindr yoki konussimon (aylanish) sirtga ega bo'lsa, kesimning aylana konturi qanday tasvirlanadi?",
+   "variantlar": [
+    "Ochiq tasvirlanadi",
+    "Nuqtali qilib tasvirlanadi",
+    "Yopiq tasvirlanadi",
+    "Umuman tasvirlanmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kesimga tushgan joy prizmasimon sirtga ega bo'lsa, kesimning aylana konturi qanday bo'ladi?",
+   "variantlar": [
+    "Ochiq bo'ladi",
+    "Yopiq bo'ladi",
+    "Ikki marta chiziladi",
+    "Rangli bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3.1-chizma, A-A da nima uchun kesilgan joy ko'rsatilmagan?",
+   "variantlar": [
+    "Silindr prizmasimon sirt bilan kesilgani uchun",
+    "Kesim umuman qo'llanilmagani uchun",
+    "Chizma xato bo'lgani uchun",
+    "Detal juda kichik bo'lgani uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shponka ariqchasi kesimiga o'lcham qo'yishda ariqchaning chuqurligi qayerdan o'lchanadi?",
+   "variantlar": [
+    "Kesim chetidan",
+    "Simmetriya o'qidan",
+    "Detal konturidan",
+    "Aylananing markazidan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnda aytilishicha, chetga chiqarib tasvirlanadigan kesimni qayerga joylashtirish mumkin?",
+   "variantlar": [
+    "Ko'rinishning uzib tasvirlangan qismlari orasiga",
+    "Faqat chizma chetiga",
+    "Faqat sahifaning pastki qismiga",
+    "Faqat alohida varaqqa"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3.3-chizmada qanday kesim qo'llanilgan?",
+   "variantlar": [
+    "Ustiga qo'yilgan",
+    "Chiqarilgan",
+    "Tasvirlararo",
+    "Qirqim"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ustiga qo'yilgan kesimda kesim qo'llanilayotgan detalning qaysi elementi chiziladi?",
+   "variantlar": [
+    "Detalning barcha o'lchamlari",
+    "Detalning butun tashqi konturi",
+    "Faqat detal chetlari",
+    "Simmetriya o'qiga nisbatan kesimga tushgan element"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar bir detalda ham simmetrik teshik simmetriya o'qi davomida kesilgan, ham prizmasimon o'yiq kesilgan bo'lsa, ularning kesim konturlari o'rtasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Teshik konturi yopiq, prizmasimon o'yiq konturi ochiq bo'ladi",
+    "Ikkalasi ham ochiq bo'ladi",
+    "Ikkalasining ham konturi ko'rsatilmaydi",
+    "Ikkalasi ham yopiq bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uzun val, shatun yoki balka kabi cho'zilgan detallarda qaysi kesim usuli qo'llanilishi va nima uchun bu usul qulayligini to'g'ri ifodalaydi?",
+   "variantlar": [
+    "Kesim umuman qo'llanilmaydi, chunki detal juda uzun",
+    "Chetga chiqarib tasvirlangan kesim, uni uzib tasvirlangan qismlar orasiga joylashtirish mumkinligi uchun",
+    "Faqat qirqim qo'llaniladi, chunki u aniqroq",
+    "Ustiga qo'yilgan kesim, chunki u detal shaklini o'zgartirmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir tomonlama shponka ariqchasi kesimi bilan simmetrik shakldagi joy kesimi orasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Ikkalasida ham kesuvchi tekislik izi majburiy ko'rsatiladi",
+    "Ikkalasida ham bir xil qoida qo'llaniladi",
+    "Bir tomonlama holatda ko'rsatkich chizilib belgilanmaydi, simmetrik holatda esa tekislik izi umuman ko'rsatilmaydi",
+    "Bir tomonlama holatda harf bilan belgilanadi, simmetrik holatda raqam bilan"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matn asosida, kesim yuzasining shtrixlanishi nima maqsadda amalga oshiriladi degan xulosaga kelish mumkin?",
+   "variantlar": [
+    "Faqat chizmani chiroyli ko'rsatish uchun",
+    "Kesuvchi tekislik bilan haqiqatan kesilgan (moddiy) qismni ko'rsatuvchi tashqi ko'rinish elementlaridan ajratish uchun",
+    "Detalning rangini ifodalash uchun",
+    "Detalning og'irligini ko'rsatish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Chetga chiqarib tasvirlangan kesim bilan ustiga qo'yilgan kesim orasidagi chiziq yo'g'onligi bo'yicha farqni to'g'ri ifodalang.",
+   "variantlar": [
+    "Ikkalasi ham nuqtali chiziqda chiziladi",
+    "Chetga chiqarilgan kesim konturi detal konturi bilan bir xil yo'g'onlikda, ustiga qo'yilganiniki esa ingichka tutash chiziqda chiziladi",
+    "Ikkalasi ham bir xil qalin chiziqda chiziladi",
+    "Chetga chiqarilgani ingichka, ustiga qo'yilgani qalin chiziqda chiziladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Silindr prizmasimon sirt bilan kesilgan detalning kesim tasvirida qanday o'ziga xoslik yuzaga keladi?",
+   "variantlar": [
+    "Kesilgan joy faqat nuqtali chiziq bilan belgilanadi",
+    "Kesilgan joy ikki marta shtrixlanadi",
+    "Kesilgan joy ko'rsatilmaydi, chunki uning konturi ochiq bo'ladi",
+    "Kesilgan joy alohida rangda ko'rsatiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir detalda bir nechta chetga chiqarib tasvirlangan kesim bo'lsa, ularning shtrixlanishi va kontur yo'g'onligiga soni qanday ta'sir qiladi?",
+   "variantlar": [
+    "Kesimlar soni qanday bo'lishidan qat'i nazar, barchasi standartga muvofiq bir xil shtrixlanadi va bir xil yo'g'onlikda chiziladi",
+    "Faqat birinchi kesim shtrixlanadi, qolganlari yo'q",
+    "Kesimlar soni ko'paygan sari shtrixlash zichligi kamayadi",
+    "Har bir kesim boshqa uslubda shtrixlanishi kerak"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kesimda o'lcham qo'yishda simmetriya o'qigacha ingichka chiziq bilan davom ettirish nima uchun zarur (shponka ariqchasi misolida)?",
+   "variantlar": [
+    "Ariqcha chuqurligini detal konturidan to'g'ri o'lchash imkonini berish uchun",
+    "Detal og'irligini hisoblash uchun",
+    "Chizmani bezash uchun",
+    "Kesim rangini belgilash uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kesuvchi tekislik izi ko'rsatilmasdan faqat ko'rsatkich (strelka) chiziladigan holat qaysi shart bilan bog'liq?",
+   "variantlar": [
+    "Faqat detal simmetrik bo'lganda",
+    "Kesim istalgan holatda shunday chiziladi",
+    "Shponka ariqchasi bir tomonlama bo'lganda, kesim 90° ga burib tasvirlanganda",
+    "Faqat kesim ustiga qo'yilgan bo'lganda"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

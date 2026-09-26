@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Iqtisodiy bilim asoslari",
+ "mavzu": "Talabga ta'sir etuvchi boshqa omillar",
+ "savollar": [
+  {
+   "savol": "O'zaro bog'liq tovarlar deb qanday tovarlar tushuniladi?",
+   "variantlar": [
+    "Faqat qishloq xo'jaligi mahsulotlari",
+    "Bir tovar narxi o'zgarishi ikkinchisiga bo'lgan talabning o'zgarishiga olib keladigan tovarlar jufti",
+    "Narxi doim bir xil bo'ladigan tovarlar",
+    "Faqat bitta ehtiyojni qondiradigan tovarlar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir-birining o'rnini bosuvchi tovarlar qanday tovarlar jufti hisoblanadi?",
+   "variantlar": [
+    "Faqat qimmat tovarlar",
+    "Narxi doim oshib boradigan tovarlar",
+    "Bir xil ehtiyojlarni qondirishga mo'ljallangan tovarlar jufti",
+    "Birgalikda foydalanishga mo'ljallangan tovarlar jufti"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir-birini to'ldiruvchi tovarlar qanday tovarlar jufti hisoblanadi?",
+   "variantlar": [
+    "Bir xil ehtiyojni qondiradigan tovarlar jufti",
+    "Birgalikda foydalanishga mo'ljallangan tovarlar jufti",
+    "Faqat oziq-ovqat mahsulotlari",
+    "Narxi bir xil bo'lgan tovarlar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Normal tovarlar deb qanday tovarlar ataladi?",
+   "variantlar": [
+    "Narxi doim past bo'lgan tovarlar",
+    "Faqat kundalik ehtiyoj tovarlari",
+    "Aholi daromadining oshishi bilan talabi kamayadigan tovarlar",
+    "Aholi daromadining oshishi bilan talabi oshadigan tovarlar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Past tabaqali tovarlar deb qanday tovarlar ataladi?",
+   "variantlar": [
+    "Narxi doim qimmat bo'lgan tovarlar",
+    "Faqat import tovarlar",
+    "Aholi daromadining kamayishi bilan talabi ortadigan tovarlar",
+    "Aholi daromadining oshishi bilan talabi ortadigan tovarlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda talabga narxdan tashqari ta'sir etuvchi jami nechta omil ko'rsatilgan?",
+   "variantlar": [
+    "4 ta",
+    "3 ta",
+    "7 ta",
+    "5 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda gumma va somsa qanday tovarlar juftiga misol qilib keltirilgan?",
+   "variantlar": [
+    "Bir-birini to'ldiruvchi tovarlar",
+    "Bir-birining o'rnini bosuvchi tovarlar",
+    "Normal tovarlar",
+    "Past tabaqali tovarlar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda avtomobil va benzin qanday tovarlar juftiga misol qilib keltirilgan?",
+   "variantlar": [
+    "Bir-birining o'rnini bosuvchi tovarlar",
+    "Normal tovarlar",
+    "Bir-birini to'ldiruvchi tovarlar",
+    "O'zaro bog'liq bo'lmagan tovarlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, sifati past va eski avtomobillar qanday tovarga misol bo'ladi?",
+   "variantlar": [
+    "Normal tovar",
+    "O'rinbosar tovar",
+    "Past tabaqali tovar",
+    "To'ldiruvchi tovar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Grafikda talab chizig'i D0 holatdan D1 holatga, ya'ni o'ng tomonga siljishi nimani bildiradi?",
+   "variantlar": [
+    "Talab miqdorining kamayganini",
+    "Narxning kamayganini",
+    "Talab miqdorining oshganini",
+    "Narxning oshganini"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar gummaning narxi oshsa, unga o'rinbosar bo'lgan somsaga bo'lgan talab qanday o'zgaradi?",
+   "variantlar": [
+    "Avval ortib, keyin kamayadi",
+    "Ortadi",
+    "Kamayadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Avtomobil narxi oshganda, unga to'ldiruvchi bo'lgan benzinga bo'lgan talab qanday o'zgaradi?",
+   "variantlar": [
+    "Kamayadi",
+    "Ortadi",
+    "Ikki baravar ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Aholi daromadlari oshsa, normal tovarga bo'lgan talab qanday o'zgaradi?",
+   "variantlar": [
+    "Ortadi",
+    "O'zgarmaydi",
+    "Avval kamayib, keyin ortadi",
+    "Kamayadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Aholi daromadlari kamaysa, past tabaqali tovarga bo'lgan talab qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Nolga tushadi",
+    "Kamayadi",
+    "Ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yozda paltoga bo'lgan talabning pasayishi qaysi omil ta'sirida yuz beradi?",
+   "variantlar": [
+    "Iste'molchilar sonining o'zgarishi",
+    "Yil mavsumining o'zgarishi",
+    "Daromadlarning o'zgarishi",
+    "O'zaro bog'liq tovar narxi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shahar aholisi soni ko'paysa, tibbiy xizmatga bo'lgan talab qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Kamayadi",
+    "Avval ortib, keyin kamayadi",
+    "Ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kelgusida tovar narxining oshishi kutilsa, iste'molchilar hozirgi vaqtda qanday harakat qiladi?",
+   "variantlar": [
+    "Boshqa tovarga o'tadi",
+    "Kamroq xarid qiladi",
+    "Ko'proq xarid qilib, zaxiraga yig'adi",
+    "Xaridni to'xtatadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kelgusida tovar narxining pasayishi kutilsa, iste'molchilar hozirgi vaqtda qanday harakat qiladi?",
+   "variantlar": [
+    "O'zgarish bo'lmaydi",
+    "Bu tovarlarni kamroq xarid qiladi",
+    "Ko'proq xarid qiladi",
+    "Zaxiraga yig'adi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Amaliy tadqiqotdagi futbol maydonidan foydalanish haqi ikki baravar oshishi, futbol to'piga bo'lgan talabga qanday ta'sir qiladi (to'ldiruvchi tovar sifatida)?",
+   "variantlar": [
+    "Talab o'zgarmaydi",
+    "Talab ortadi",
+    "Faqat narx o'zgaradi",
+    "Talab kamayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shaharda tennis kortlari qurilishi, futbol to'piga (o'rinbosar sifatida qaralganda) bo'lgan talabga qanday ta'sir qiladi?",
+   "variantlar": [
+    "Talab kamayadi",
+    "Narx pasayadi",
+    "Talab ortadi",
+    "Talab o'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jadvalda somsa narxi 3 oy davomida 1700 so'mda o'zgarmagan, lekin sotilgan somsalar soni 5000 dan 6000 tagacha oshgan. Bu holat nimani ko'rsatadi?",
+   "variantlar": [
+    "Talab qonuni buzilganini",
+    "Narx pasayganini",
+    "Somsa sifati yomonlashganini",
+    "Talabga narxdan boshqa omil ta'sir etganini"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gumma narxi oshib borgan sari (1500 dan 1700 so'mgacha) somsaga bo'lgan talab ham oshib borgan (5000 dan 6000 tagacha). Bu ikki tovar o'rtasidagi qanday munosabatni tasdiqlaydi?",
+   "variantlar": [
+    "Ular bog'liq emas",
+    "Ular bir-birining o'rnini bosuvchi tovarlar",
+    "Ular ikkalasi ham past tabaqali tovar",
+    "Ular bir-birini to'ldiruvchi tovarlar"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Grafikda talab chizig'i D0 dan D2 holatga, ya'ni chap tomonga siljishi qaysi holatda yuz beradi?",
+   "variantlar": [
+    "Iste'molchilar soni ortib, talab oshganda",
+    "Narx oshganda",
+    "Iste'molchilar daromadi kamayib, talab pasayganda",
+    "Narx pasayganda"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Aholi soni ortishi bilan bir vaqtda daromadlar kamaysa, past tabaqali tovarga (masalan, eski avtomobil) bo'lgan talab umumiy holda qanday o'zgarishi mumkin?",
+   "variantlar": [
+    "Omillar bir-birini butunlay yo'qqa chiqaradi",
+    "Ikkala omil ham talabni oshirish tomon ta'sir qiladi",
+    "Talab hech qanday o'zgarmaydi",
+    "Ikkala omil ham talabni kamaytiradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jahon chempionati o'yinlarining televideniyeda namoyish qilinishi qimmat futbol to'piga bo'lgan talabga qanday ta'sir qiladi va bu qaysi omil bilan bog'liq?",
+   "variantlar": [
+    "Talab kamayadi, chunki bu daromad o'zgarishi",
+    "Talab kamayadi, chunki bu o'rinbosar tovar ta'siri",
+    "Talab ortadi, chunki bu iste'molchilar didining o'zgarishi",
+    "Talab o'zgarmaydi, chunki narx o'zgarmagan"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Shahar transportidan foydalanish narxi 30% ga oshsa, velosipedga bo'lgan talab qanday o'zgaradi va bu qaysi omil bilan izohlanadi?",
+   "variantlar": [
+    "Talab o'zgarmaydi",
+    "Talab kamayadi, chunki bu daromad o'zgarishi",
+    "Talab ortadi, chunki transport velosipedning o'rnini bosuvchi tovar",
+    "Talab kamayadi, chunki transport to'ldiruvchi tovar"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Oziq-ovqat narxi keskin oshib ketsa, velosipedga bo'lgan talab qanday o'zgarishi mumkin va bu qaysi mexanizm orqali yuz beradi?",
+   "variantlar": [
+    "Talab ortadi, chunki oziq-ovqat to'ldiruvchi tovar",
+    "Talab o'zgarmaydi, chunki ular bog'liq emas",
+    "Talab kamayadi, chunki iste'molchilarning boshqa tovarlarga sarflay oladigan daromadi kamayadi",
+    "Talab ortadi, chunki velosiped arzonroq transport vositasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yoshlar orasida rolikli konkida uchish urf bo'lib borishi, velosipedga bo'lgan talabga qanday ta'sir qiladi va bu qaysi omilga tegishli?",
+   "variantlar": [
+    "Talab kamayadi, chunki bu iste'molchilar didining o'zgarishi",
+    "Talab o'zgarmaydi, chunki bular bog'liq tovar emas",
+    "Talab ortadi, chunki bu iste'molchilar sonining o'zgarishi",
+    "Talab ortadi, chunki bu daromad o'zgarishi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar iste'molchilar daromadi oshsa (normal tovar uchun talabni oshiruvchi omil) va shu bilan bir vaqtda shu tovarning o'rinbosari arzonlashsa (talabni kamaytiruvchi omil), natija qanday bo'ladi?",
+   "variantlar": [
+    "Talab albatta kamayadi",
+    "Ikki omil qarama-qarshi yo'nalishda ta'sir qiladi, natija ular kuchiga bog'liq",
+    "Talab hech qanday o'zgarmaydi",
+    "Talab albatta ortadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1-jadvalda narx 600 so'm bo'lganda talab miqdori 300 tonna, 2-jadvalda xuddi shu narxda talab miqdori 400 tonna. Bu farq nechchi tonnani tashkil qiladi va talab chizig'i qaysi tomonga siljigan?",
+   "variantlar": [
+    "100 tonnaga, chap tomonga",
+    "400 tonnaga, chap tomonga",
+    "200 tonnaga, o'ng tomonga",
+    "100 tonnaga, o'ng tomonga"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

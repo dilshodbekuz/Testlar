@@ -1,0 +1,187 @@
+48-dars. Amaliy mashg'ulot
+
+--- OSON ---
+
+1. Amaliy mashg'ulotdagi asosiy masala nima haqida edi?
+A) Uchta sonning ko'paytmasini topish
+B) Uchta sondan eng kattasini topish
++C) Kiritilgan uchta sondan qanchasi musbat, qanchasi musbat emasligini aniqlash
+D) Uchta sonning yig'indisini topish
+
+2. Dasturda musbat sonlar soni qaysi o'zgaruvchida saqlanadi?
+A) a
++B) k
+C) d
+D) b
+
+3. Dasturda musbat bo'lmagan (manfiy) sonlar soni qaysi o'zgaruvchida saqlanadi?
+A) a
+B) c
+C) k
++D) d
+
+4. Dastur boshida k va d o'zgaruvchilari qanday qiymatga ega bo'ladi?
++A) 0 va 0
+B) 1 va 1
+C) aniqlanmagan
+D) k=1, d=0
+
+5. Berilgan dasturda uchta son qanday kiritiladi?
+A) avtomatik generatsiya qilinadi
+B) print() funksiyasi orqali
+C) fayldan o'qib olinadi
++D) input() funksiyasi orqali
+
+6. Blok-sxemada "Boshlash" bloki nimani anglatadi?
+A) Shart tekshirilishini
++B) Algoritmning boshlanishini
+C) Natija chiqarilishini
+D) Algoritmning tugashini
+
+7. Blok-sxemada "Tamom" bloki nimani bildiradi?
+A) Ma'lumot kiritishni
+B) Shartni tekshirishni
++C) Algoritmning tugashini
+D) Algoritmning boshlanishini
+
+8. print(k,d) qatori qaysi blokka mos keladi?
+A) Shart tekshirish bloki
+B) Kiritish bloki
+C) Boshlanish bloki
++D) Chiqarish bloki
+
+9. Python tilida shartni tekshirish uchun qaysi kalit so'z ishlatiladi?
+A) while
++B) if
+C) def
+D) for
+
+10. Dasturdagi "else" qismi nimani anglatadi?
++A) Shart bajarilmasa bajariladigan amal
+B) Dasturning tugashi
+C) Dasturning boshlanishi
+D) Shart bajarilsa bajariladigan amal
+
+--- O'RTACHA ---
+
+11. Agar a=5 bo'lsa, "if a>0:" sharti qanday natija beradi?
++A) Rost (True)
+B) Yolg'on (False)
+C) Xatolik beradi
+D) Hech qanday natija bermaydi
+
+12. a=-3, b=4, c=-1 qiymatlar uchun k (musbatlar soni) nechaga teng bo'ladi?
+A) 2
+B) 0
++C) 1
+D) 3
+
+13. a=-3, b=4, c=-1 qiymatlar uchun d (musbat emaslar soni) nechaga teng bo'ladi?
++A) 2
+B) 0
+C) 1
+D) 3
+
+14. 3-topshiriqda ikkita sondan dastlab kattasini chiqarish uchun qanday shart tekshiriladi?
+A) a<0
+B) a==b
++C) a>b yoki b>a
+D) a!=b
+
+15. a=0 bo'lganda "if a>0:" sharti bajariladimi?
+A) Ha, bajariladi
+B) Faqat b>0 bo'lsa bajariladi
++C) Yo'q, bajarilmaydi
+D) Xato chiqaradi
+
+16. "k+=1" ifodasi nimani anglatadi?
+A) k ni 1 ga bo'lish
++B) k qiymatini 1 ga oshirish
+C) k qiymatini 1 ga kamaytirish
+D) k ni 0 ga tenglashtirish
+
+17. a, b, c uchchalasi ham musbat bo'lsa, dastur natijasida k va d qanday qiymat oladi?
++A) k=3, d=0
+B) k=1, d=2
+C) k=2, d=1
+D) k=0, d=3
+
+18. a, b, c uchchalasi ham manfiy bo'lsa, dastur natijasida k va d qanday qiymat oladi?
+A) k=1, d=2
++B) k=0, d=3
+C) k=2, d=1
+D) k=3, d=0
+
+19. 8-topshiriqqa ko'ra, ikkita son o'zaro teng bo'lsa, dastur qaysi qiymatni chiqaradi?
+A) 1
+B) -1
++C) 0
+D) 2
+
+20. 6-topshiriqda hafta raqami qaysi oraliqda kiritilishi kerak?
+A) 0-6
+B) 1-6
++C) 1-7
+D) 0-7
+
+--- QIYIN ---
+
+21. a=10, b=-5, c=0 qiymatlar uchun k va d ning to'g'ri qiymatlarini aniqlang.
+A) k=0, d=3
++B) k=1, d=2
+C) k=1, d=1
+D) k=2, d=1
+
+22. Berilgan asosiy dastur kodida nechta if-else blok ishlatilgan?
+A) 1 ta
+B) 2 ta
+C) 4 ta
++D) 3 ta
+
+23. 7-topshiriqqa ko'ra, a va b musbat va yig'indisi 100 dan katta bo'lsa, nima hisoblanadi?
+A) a va b ayirmasi
+B) a ning b ga ko'paytmasi (a*b)
++C) a ning b ga nisbati (a/b)
+D) a va b yig'indisi
+
+24. 7-topshiriqqa ko'ra, a va b musbat, lekin yig'indisi 100 dan katta bo'lmasa, nima hisoblanadi?
++A) a ning b ga ko'paytmasi (a*b)
+B) a va b ayirmasi
+C) a va b yig'indisi
+D) a ning b ga nisbati (a/b)
+
+25. a=-1, b=-1, c=-1 qiymatlar berilganda dastur natijasida k va d qanday chiqadi?
+A) k=3, d=0
+B) k=2, d=1
++C) k=0, d=3
+D) k=1, d=2
+
+26. 4-topshiriqqa ko'ra, a=-2 bo'lsa, uning kvadrati hisoblanadimi?
+A) Ha, lekin natija manfiy bo'ladi
++B) Yo'q, chunki faqat musbat sonlarning kvadrati hisoblanadi
+C) Ha, chunki barcha sonlar kvadratga ko'tariladi
+D) Bu shartga bog'liq emas
+
+27. Uchta shart (a>0, b>0, c>0) ketma-ket tekshirilganda, umumiy nechta marta k yoki d ga qiymat qo'shiladi?
+A) 2 marta
+B) 6 marta
+C) 1 marta
++D) 3 marta
+
+28. a=3, b=3 qiymatlar berilganda 8-topshiriq dasturi qaysi sonni chiqaradi?
+A) 1
++B) 0
+C) 2
+D) 3
+
+29. Asosiy masala blok-sxemasida nechta "shart tekshirish bloki" mavjud?
+A) 4 ta
++B) 3 ta
+C) 2 ta
+D) 1 ta
+
+30. a=100, b=1 (ikkalasi musbat, yig'indisi 101>100) qiymatlar uchun 7-topshiriq bo'yicha natija nechaga teng bo'ladi?
+A) 1
++B) 100
+C) 99
+D) 101

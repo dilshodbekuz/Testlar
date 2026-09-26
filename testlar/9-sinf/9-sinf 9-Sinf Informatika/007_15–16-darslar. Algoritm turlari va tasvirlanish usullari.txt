@@ -1,0 +1,187 @@
+15–16-darslar. Algoritm turlari va tasvirlanish usullari
+
+--- OSON ---
+
+1. Algoritmni tasvirlashning nechta asosiy usuli mavjud?
+A) 6
+B) 4
+C) 3
++D) 5
+
+2. Algoritmning so'zlar yordamida ifodalanishida nima ishlatiladi?
+A) Blok-sxema belgilari
+B) Jadval qiymatlari
++C) Tabiiy tildagi jumlalar
+D) Matematik formulalar
+
+3. Formulalar yordamida ifodalash usuli yana qanday nomlanadi?
+A) Grafik ifodalash
+B) Dastur ifodalash
+C) Jadval ifodalash
++D) Analitik ifodalash
+
+4. Algoritmik til deb nimaga aytiladi?
+A) Dasturchining shaxsiy uslubi
+B) Kompyuterning texnik qurilmalari to'plami
++C) Algoritmlarni bir xil va aniq yozish uchun ishlatiladigan belgilashlar va qoidalar tizimi
+D) Faqat matematik formulalar to'plami
+
+5. Dastur deb nimaga aytiladi?
+A) Algoritmning so'zlar bilan ifodalanishi
++B) Algoritmning kompyuter tushunadigan tilda yozilishi
+C) Algoritmning grafik tasviri
+D) Algoritmning jadval ko'rinishi
+
+6. Kompyuter tushunadigan tilga nima deyiladi?
++A) Dasturlash tili
+B) Blok-sxema tili
+C) Formulalar tili
+D) Algoritmik til
+
+7. Edsger Deykstra qaysi davrda algoritm turlari haqidagi g'oyani ilgari surgan?
+A) XXI asr boshida
+B) XX asrning 30-yillarida
++C) XX asrning 70-yillarida
+D) XIX asr oxirida
+
+8. Deykstraning fikricha, har qanday algoritm nechta asosiy konstruksiyadan foydalanib yozilishi mumkin?
+A) 4
+B) 2
+C) 5
++D) 3
+
+9. Chiziqli algoritm deb qanday algoritmga aytiladi?
+A) Bir qismi bir necha marta takrorlanadigan algoritm
++B) Barcha ko'rsatmalari hech qanday shartsiz, ketma-ket bajariladigan algoritm
+C) Faqat grafik ko'rinishda beriladigan algoritm
+D) Shartga qarab turli yo'nalishlarda bajariladigan algoritm
+
+10. Tarmoqlanuvchi algoritm nechta asosiy ko'rinishda beriladi?
++A) 2
+B) 1
+C) 3
+D) 4
+
+--- O'RTACHA ---
+
+11. To'g'ri to'rtburchak perimetrini hisoblash formulasi qaysi?
+A) P=a*b
+B) P=a+b
+C) P=√(a²+b²)
++D) P=2*a+2*b
+
+12. To'g'ri to'rtburchak diagonalini hisoblash formulasi qaysi?
+A) D=a+b
++B) D=√(a²+b²)
+C) D=a*b
+D) D=2a+2b
+
+13. To'g'ri to'rtburchak yuzasini hisoblash formulasi qaysi?
+A) S=√(a²+b²)
+B) S=a/b
++C) S=a*b
+D) S=2a+2b
+
+14. Uchburchakka ichki chizilgan aylana radiusini hisoblash formulasi qaysi?
++A) r=2S/(a+b+c)
+B) r=S/2(a+b+c)
+C) r=4S/abc
+D) r=abc/4S
+
+15. Uchburchakka tashqi chizilgan aylana radiusini hisoblash formulasi qaysi?
++A) R=4S/abc
+B) R=S/abc
+C) R=2S/(a+b+c)
+D) R=abc/2S
+
+16. Blok-sxemada shart tekshirish orqali algoritm bajarilish yo'nalishini belgilaydigan blok qaysi?
+A) Qism dastur bloki
++B) Muqobil blok
+C) Sikl bloki
+D) Funksional blok
+
+17. Oldindan yaratilgan yordamchi algoritmga murojaat qilish uchun qaysi blok ishlatiladi?
+A) Xabarlarni chop etish bloki
+B) Yo'nalish bloki
++C) Qism dastur bloki
+D) O'zlashtirish bloki
+
+18. Sikl parametrining boshlang'ich, yakuniy qiymati va o'zgartirish qadami qaysi blokda ko'rsatiladi?
+A) Kiritish/chiqarish bloki
++B) Sikl bloki
+C) Muqobil blok
+D) Funksional blok
+
+19. Qiymat berish ko'rsatmasi qaysi belgi bilan ifodalanadi?
+A) +
+B) <
+C) >
++D) =
+
+20. Sayyoh masalasida qishloq bilan shahar orasidagi S masofa qaysi formula bilan ifodalanadi (avtobus tezligi 60 km/soat)?
+A) S=60t/a
+B) S=a-60t
+C) S=a*60t
++D) S=a+60t
+
+--- QIYIN ---
+
+21. y=x²+2 funksiyasi jadvalida x=1 bo'lganda y ning qiymati nechaga teng?
+A) 4
+B) 1
+C) 2
++D) 3
+
+22. y=x²+2 funksiyasi jadvalida x=-2 va x=2 uchun y qiymatlari bir xil bo'lishining sababi nima?
+A) x qiymatlari yig'indisi nolga teng bo'lgani uchun
++B) x² ifodasi manfiy va musbat x uchun bir xil natija beradi
+C) Jadvalda xatolik yuz bergan
+D) Funksiya chiziqli bo'lgani uchun
+
+23. Sayyoh masalasida a=5 km, t=0,5 soat, avtobus tezligi 60 km/soat bo'lsa, S masofa nechaga teng bo'ladi?
+A) 30 km
++B) 35 km
+C) 65 km
+D) 40 km
+
+24. 1-misolda (A>0 bo'lganda kvadratini hisoblash) agar A=-3 bo'lsa, algoritm ijrosi to'g'ridan-to'g'ri qaysi bandga o'tadi?
+A) 2-band
+B) 3-band
++C) 5-band
+D) 4-band
+
+25. 2-misolda (ikkita sondan kichigini topish) agar A=B bo'lsa, algoritm natija sifatida qanday qiymatni chiqaradi?
++A) B
+B) A
+C) 0
+D) A+B
+
+26. Tarmoqlanuvchi algoritmning to'liq ko'rinishida shart tekshirilganda nechta ko'rsatmalar guruhidan bittasi bajariladi?
+A) Barcha guruhlar bajariladi
+B) Uchtadan bittasi
++C) Ikkitadan bittasi
+D) Hech biri bajarilmaydi
+
+27. Matnda keltirilgan choy damlash jarayoni qaysi turdagi algoritmga misol bo'la oladi?
+A) Aralash algoritm
++B) Chiziqli algoritm
+C) Takrorlanuvchi algoritm
+D) Tarmoqlanuvchi algoritm
+
+28. Chiziqli tuzilishga ega algoritmning blok-sxemasi asosan qaysi bloklardan tuziladi?
+A) Faqat xabar chop etish bloklaridan
+B) Faqat sikl va qism dastur bloklaridan
+C) Faqat muqobil bloklardan
++D) Boshlash/tugatish, kiritish/chiqarish va funksional bloklardan
+
+29. To'g'ri to'rtburchakning tomonlari a=3 va b=4 bo'lsa, uning diagonali D nechaga teng bo'ladi?
+A) 25
+B) 7
++C) 5
+D) 6
+
+30. Agar bir algoritmda ham shart tekshirish, ham natijani hisoblash amallari mavjud bo'lsa, bu algoritm asosan qaysi bloklar birikmasidan tashkil topadi?
+A) Faqat xabar chop etish blokidan
+B) Faqat yo'nalish blokidan
+C) Faqat boshlash/tugatish bloklaridan
++D) Muqobil blok va funksional blok birikmasidan

@@ -1,48 +1,81 @@
 {
  "sinf": "3-sinf",
  "kitob": "3-sinf 3-Sinf Tasviriy san’at",
- "mavzu": "Yo'lsimon shaklda naqsh ishlash",
+ "mavzu": "YO'LSIMON SHAKLDA NAQSH ISHLASH",
  "savollar": [
   {
-   "savol": "Ritm nima?",
+   "savol": "Ritm naqshda nima deb ataladi?",
    "variantlar": [
     "Kontrast ranglardan foydalanish",
-    "Naqshda bezak gullarining takrorlanib yoki almashinib kelishi",
-    "Naqshda faqat bir xil rang ishlatilishi",
-    "Naqsh foni va bezak gullari ranglarining taqqoslashishi"
+    "Bezak gullari va asosining ranglarini taqqoslash",
+    "Bezak gullarining takrorlanib yoki almashinib kelishi",
+    "Naqshda ishlatilgan gulli turlarining o'zbek nomlari"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kontrast ranglar qaysilardir?",
+   "variantlar": [
+    "Faqat sariq va qora ranglar",
+    "O'zaro qarama-qarshi ranglar yonma-yon ishlatilganda bir-birini yorqinroq ko'rsatadigan ranglar",
+    "Faqat iliq tusli ranglar",
+    "Faqat och va to'q ranglar"
    ],
    "togri": 1,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Kontrast ranglar nima?",
+   "savol": "Quyidagilardan qaysilari axromatik ranglar?",
    "variantlar": [
-    "Faqat och va to'q ranglar",
-    "Bir xil tug'i ranglar",
-    "Sof va aralash ranglar",
-    "O'zaro qarama-qarshi ranglar"
+    "Sariq, binafsha, zarg'aldoq",
+    "Qizil, yashil, ko'k",
+    "Oq, kulrang va qora",
+    "Ko'k, yashil va oq"
    ],
-   "togri": 3,
-   "qiyinlik": "oson"
-  },
-  {
-   "savol": "Quyidagi qaysi ranglar axromatik?",
-   "variantlar": [
-    "Qizil, ko'k va yashil",
-    "Sariq, qizil va ko'k",
-    "Yashil, binafsha va zarg'aldoq",
-    "Oq, kulrang va qora"
-   ],
-   "togri": 3,
+   "togri": 2,
    "qiyinlik": "oson"
   },
   {
    "savol": "Xromatik ranglar nima?",
    "variantlar": [
-    "Faqat aralash to'q ranglar",
-    "Oq, qora va kulrang bundan tashqari barcha ranglar",
-    "Faqat sof och ranglar",
-    "Faqat iliq ranglar"
+    "Faqat och ranglar",
+    "Oq, kulrang va qora ranglar",
+    "Axromatik ranglardan boshqa barcha ranglar",
+    "Kontrast ranglar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Naqsh bezak gullari va asosini tasvirlashda naqsh ustalarining asosiy qoidasi nima?",
+   "variantlar": [
+    "Faqat bir rangdan foydalanish",
+    "Faqat iliq tusli ranglarni ishlatish",
+    "Kontrast ranglardan foydalanish",
+    "Axromatik ranglarni ishlatish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Oq, kulrang va qora ranglar nima deb ataladi?",
+   "variantlar": [
+    "Iliq tusli ranglar",
+    "Axromatik ranglar",
+    "Kontrast ranglar",
+    "Xromatik ranglar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Usta Yoqubjon Raufov kimdir?",
+   "variantlar": [
+    "Darslik muallifi",
+    "O'zbekiston xalq rassomi, naqqosh usta",
+    "Madrasaning direktori",
+    "3-sinf o'qituvchisi"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -50,285 +83,252 @@
   {
    "savol": "Yo'lsimon naqsh nima?",
    "variantlar": [
-    "Faqat bir rangli naqsh",
-    "Bir xil tartibda takrorlanib keladigan naqsh",
-    "Qora fondali naqsh",
-    "Faqat ikkita bezak gulli naqsh"
-   ],
-   "togri": 1,
-   "qiyinlik": "oson"
-  },
-  {
-   "savol": "Matndagi asosiy bezak gullari nomini ayting",
-   "variantlar": [
-    "Qul-qul va yasaman",
-    "Oygul va lola",
-    "Patma va qo'l-qo'l",
-    "Shirin-shirin va lavanda"
-   ],
-   "togri": 1,
-   "qiyinlik": "oson"
-  },
-  {
-   "savol": "Naqsh naqqoshlikning asosiy qoidasi nima deb ataladi?",
-   "variantlar": [
-    "Fon",
-    "Rang",
-    "Kontrast",
-    "Ritm"
+    "To'g'ri chiziqlar bilan ishlangan naqsh",
+    "Rasm asosida ishlangan naqsh",
+    "Katakchali naqsh",
+    "Bezak gullarining bir xil tartibda takrorlanib kelishi bilan ishlangan naqsh"
    ],
    "togri": 3,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Oq, qora va kulrang qanday ranglar deb ataladi?",
+   "savol": "Bir xil rangdagi bezak gulli naqsh (oygul) nima?",
    "variantlar": [
-    "Axromatik ranglar",
-    "Iliq ranglar",
-    "Xromatik ranglar",
-    "Sovuq ranglar"
-   ],
-   "togri": 0,
-   "qiyinlik": "oson"
-  },
-  {
-   "savol": "Naqshlarda kontrast ranglardan foydalanish natijasi nima?",
-   "variantlar": [
-    "Naqshlar kichik ko'rinadi",
-    "Naqshlar qorong'u bo'ladi",
-    "Naqshlar oddiy bo'ladi",
-    "Naqshlar jozibador va yorqin ko'rinadi"
-   ],
-   "togri": 3,
-   "qiyinlik": "oson"
-  },
-  {
-   "savol": "Usta Yoqubjon Raufov yashash yillari qaysi?",
-   "variantlar": [
-    "1898-1984",
-    "1888-1974",
-    "1868-1954",
-    "1878-1964"
+    "Ikki xil rangdagi naqsh",
+    "Bir xil rangdan ishlangan bezak gulli naqsh",
+    "Kontrast ranglardan ishlangan naqsh",
+    "Rasm asosida ishlangan naqsh"
    ],
    "togri": 1,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Kontrast ranglar och-to'qligi bilan qanday aniqlanadi?",
+   "savol": "Kontrast ranglarni yonma-yon ishlatish natijasida nima bo'ladi?",
    "variantlar": [
-    "Rang tuslari (iliq, sovuq) orqali ham",
-    "Faqat nomiga asosida",
-    "Shaklga orqali",
-    "Kattaligi orqali"
+    "Ranglar o'zaro aralashadi",
+    "Ranglar bir-birini yorqinroq ko'rsatadi",
+    "Ranglar ko'proq och ko'rinadi",
+    "Naqsh aniqroq bo'ladi"
    ],
-   "togri": 0,
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi juftlardan qaysi biri kontrast rang juftligini tashkil etadi?",
+   "variantlar": [
+    "Yashil va ko'k",
+    "Sariq va zarg'aldoq",
+    "Kulrang va oq",
+    "Oq va qora"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar siz qora fonning ustiga oq bezak gulli joylashtirgan bo'lsangiz, bezak guli qanday ko'rinadi?",
+   "variantlar": [
+    "Anchalik yorqin ko'rinmaydi",
+    "Fonning rangi bilan aralashadi",
+    "Kulrang ko'rinadi",
+    "Juda yorqin va aniq ko'rinadi"
+   ],
+   "togri": 3,
    "qiyinlik": "o'rtacha"
   },
   {
    "savol": "Oqqush qora fonda qanday ko'rinadi?",
    "variantlar": [
-    "Och",
-    "Aralash",
-    "Yorqin",
-    "To'q"
-   ],
-   "togri": 2,
-   "qiyinlik": "o'rtacha"
-  },
-  {
-   "savol": "Sariq fonda oqqush qanday ko'rinadi?",
-   "variantlar": [
-    "Unchalik yorqin ko'rinmaydi",
-    "Mutlaqo ko'rinmaydi",
-    "Qoraning rang oladi",
-    "Yanada yorqin ko'rinadi"
-   ],
-   "togri": 0,
-   "qiyinlik": "o'rtacha"
-  },
-  {
-   "savol": "Axromatik rangdagi fonda nima yanada yorqin ko'rinadi?",
-   "variantlar": [
-    "Xromatik rangdagi narsalar",
-    "Axromatik narsalar",
-    "Och narsalar",
-    "Qora narsalar"
-   ],
-   "togri": 0,
-   "qiyinlik": "o'rtacha"
-  },
-  {
-   "savol": "Yo'lsimon naqshlarda bezak gullarining takrorlanishi qanday bo'lishi kerak?",
-   "variantlar": [
-    "Tasodifiy ravishda",
-    "Faqat oygul",
-    "Ma'lum me'yorlar asosida",
-    "Faqat lola"
-   ],
-   "togri": 2,
-   "qiyinlik": "o'rtacha"
-  },
-  {
-   "savol": "Naqsh ustalari bezak gullari va asosini tasvirlashda qanday ranglardan foydalanadilar?",
-   "variantlar": [
-    "Kontrast ranglardan",
-    "Faqat och ranglardan",
-    "Faqat to'q ranglardan",
-    "Bir xil ranglardan"
-   ],
-   "togri": 0,
-   "qiyinlik": "o'rtacha"
-  },
-  {
-   "savol": "Kontrast rang juftlaridan qaysi to'g'ri?",
-   "variantlar": [
-    "Oq-Qora, Sariq-Ko'k, Qizil-Yashil, Zarg'aldoq-Binafsha",
-    "Oygul-Lola, Oq-Ko'k",
-    "Binafsha-Binafsha, Yashil-Yashil",
-    "Oq-Sariq, Qora-Ko'k, Qizil-Qizil"
-   ],
-   "togri": 0,
-   "qiyinlik": "o'rtacha"
-  },
-  {
-   "savol": "Bir xil rangdagi bezak gulli naqsh quyidagi qaysidir?",
-   "variantlar": [
-    "Rang oralashmasi",
-    "Oygul",
-    "Oygul va lola",
-    "Ikkita bezak gulli"
+    "Fon rangi bilan ayniyana ko'rinadi",
+    "Juda yorqin ko'rinadi",
+    "Fonning rangi bilan birgalikda ko'rinadi",
+    "Unchalik yorqin ko'rinmaydi"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Ikki xil rangdagi bitta bezak gulli naqsh qaysidir?",
+   "savol": "Axromatik fon (oq, kulrang, qora) xromatik narsalarni qanday ko'rsatadi?",
    "variantlar": [
-    "Lola",
-    "Oygul va lola",
-    "Oygul",
-    "Nur lola"
+    "Onchalik aniq ko'rsatmaydi",
+    "Rang o'zgaradi",
+    "Dora bo'lib ketadi",
+    "Aniqroq va yorqinroq"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkita bezak gulli naqsh ishlashda bezak gullari qanday bo'lishi kerak?",
+   "variantlar": [
+    "Bir xil rangda va bir xil shaklda",
+    "Ikkita xil bezak gulli ishlatiladi",
+    "Oq va qora rangda",
+    "Faqat oygul ishlatiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Naqsh asosi va bezak guli ranglarini taqqoslaganimizda, qaysi rangning och-to'qligi muhim?",
+   "variantlar": [
+    "Ikkalasining och-to'qligi",
+    "Faqat asosining",
+    "Faqat bezak gulining",
+    "Naqshda ishlatilgan qolgan ranglarning"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Naqshning boshqa elementlaridan foydalanish nima uchun muhim?",
+   "savol": "Kontrast ranglarni aniqlaganda, faqat och-to'qligi asosida emas, qanday hususiyat ham hisobga olinadi?",
    "variantlar": [
-    "Naqshni yanada jozibador va boy qilish uchun",
-    "Naqshni tezroq tugatish uchun",
-    "Naqshni kichik ko'rsatish uchun",
-    "Naqshni oddiy qilish uchun"
+    "Rangning yosh-qadimligini",
+    "Rang tuslari - iliq va sovuq",
+    "Rangning natural-sun'iy ekanligi",
+    "Boshqa hech narsa kerak emas"
    ],
-   "togri": 0,
+   "togri": 1,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Sariq va ko'k ranglardan qanday rang hosil bo'ladi?",
+   "savol": "Sariq fonning ustiga qizil bezak gulli joylashtirgan bo'lsa, kontrast qanday bo'ladi?",
    "variantlar": [
+    "Umuman kontrast yo'q",
+    "O'rtacha kontrast bo'ladi",
+    "Kontrast ancha kuchli emas",
+    "Juda kontrast bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Oygul naqshlarda bezak gullari naqancha ishlatiladi?",
+   "variantlar": [
+    "Ikki ta",
+    "Bir ta",
+    "To'rt ta",
+    "Uch ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Naqshni yoshirish va jonli ko'rsatish uchun qaysi rangli fond tanlash to'g'ri?",
+   "variantlar": [
+    "Foningni bezak gulli rangi bilan ayni rangli tanlash",
+    "Faqat oq fond tanlash",
+    "Bezak gulli rangiga kontrast bo'lgan fond tanlash",
+    "Faqat qora fond tanlash"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ritm qoidasiga amal qilib ikkita bezak gulli yo'lsimon naqsh ishlashda bezak gullari qanday tartibda takrorlanishi kerak?",
+   "variantlar": [
+    "Random tartibda",
+    "Qarama-qarama tartibda",
+    "Faqat bir xil tartibda",
+    "Takrorlanib yoki almashinib kelishi kerak"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Naqsh bezatishda kontrast ranglarni va ritm qoidalarini birga qo'llash natijasida naqsh qanday bo'ladi?",
+   "variantlar": [
+    "Faqat rangning tusi o'zgaradi",
+    "Tekis va noqulay ko'rinadi",
+    "Jozibador, yorqin va ritmli ko'rinadi",
+    "Bezak gullari fonda to'planadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagilardan qaysida kontrast (och-to'q) ranglar to'g'ri qo'llanilgan?",
+   "variantlar": [
+    "Oq fonda oq bezak guli",
+    "Sariq fonda sariq bezak guli",
+    "Kulrang fonda kulrang bezak guli",
+    "Qora fonda oq bezak guli"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kontrast ranglardan foydalanib yo'lsimon naqsh ishlashda, asosi va bezak guli ranglarining och-to'qligi qanday bo'lishi kerak?",
+   "variantlar": [
+    "Ikkalasi ham to'q bo'lishi kerak",
+    "Ixtiyoriy",
+    "Ikkalasi ham och bo'lishi kerak",
+    "Biri och, ikkinchisi to'q bo'lishi kerak"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Iliq va sovuq tusli ranglar asosida kontrast ko'ring. Qora rangning ustiga qaysi iliq rangni qo'ysangiz, kontrast eng kuchli bo'ladi?",
+   "variantlar": [
+    "Sariq",
+    "Ko'k",
     "Binafsha",
-    "Kulrang",
-    "Zarg'aldoq",
     "Yashil"
    ],
-   "togri": 3,
+   "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Qizil va sariq ranglardan qanday rang hosil bo'ladi?",
+   "savol": "Yo'lsimon naqshda bezak gullari ritm asosida takrorlanib kelmoqda. Agar birinchi bezak guli qizil rangda bo'lsa, ikkinchi bezak guli qanday rangda bo'lishi mumkin?",
    "variantlar": [
-    "Binafsha",
-    "Yashil",
-    "Zarg'aldoq",
-    "Ko'k"
-   ],
-   "togri": 2,
-   "qiyinlik": "qiyin"
-  },
-  {
-   "savol": "Naqsh kompozitsiyasini hosil qilishda bezak gullarining takrorlanishiga nima uchun amal qiling?",
-   "variantlar": [
-    "Ritm yaratish va naqshni tartibli qilish uchun",
-    "Naqshni tezroq tugatish uchun",
-    "Naqshni kattalashtirish uchun",
-    "Ranglarni tejash uchun"
+    "Takrorlanib qizilda, yoki almashinib boshqa rangda bo'lishi mumkin",
+    "Faqat sariq bo'lishi mumkin",
+    "Har doim qizilda bo'lishi kerak",
+    "Har doim qora bo'lishi kerak"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Ikkita bezak gulli yo'lsimon naqsh ishlashda naqsh ostalari nima qilishga taklif qiladilar?",
+   "savol": "Kontrast ranglarni yonma-yon ishlatganimizda, naqsh fonining nisbatan bezak gullari qanday ko'rinadi?",
    "variantlar": [
-    "Faqat lola ishlatish",
-    "Faqat qora rang ishlatish",
-    "Naqshning boshqa elementlaridan ham foydalanishga harakat qilish",
-    "Faqat oygul ishlatish"
+    "O'zgaruvchi ko'rinadi",
+    "Yanada yorqinroq",
+    "Ancha-muncha qo'ralgan",
+    "Fonning rang bilan birgalikda"
    ],
-   "togri": 2,
+   "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Barg rasmini tasvirlashda axromatik fon tanlash natijasi nima?",
+   "savol": "Usta Yoqubjon Raufov naqqoshlik hunari va ta'limini kimdan olgan?",
    "variantlar": [
-    "Barg och ko'rinadi",
-    "Barg kichik ko'rinadi",
-    "Barg to'q ko'rinadi",
-    "Barg xromatik rangi yanada yorqin ko'rinadi"
+    "Maktabda",
+    "Otasidan usta Rauf Kalondan",
+    "O'zini o'zi o'rgangan",
+    "Kitoblardan"
    ],
-   "togri": 3,
+   "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Yo'lsimon naqshda bezak gullarining ma'lum tartibda takrorlanishi nima uchun muhim?",
+   "savol": "Yo'lsimon naqsh ishlashda axromatik fond (oq, kulrang, qora) ishlatganimizda, xromatik bezak gullari qanday ko'rinadi?",
    "variantlar": [
-    "Naqshni kattalashtirish uchun",
-    "Naqshni tezroq tugatish uchun",
-    "Ranglarni tejash uchun",
-    "Ritm yaratib naqsh kompozitsiyasini hosil qilish uchun"
+    "Yanada unchalik aniq bo'ladi",
+    "Fondan ko'proq yorqin va aniq ko'rinadi",
+    "Faqat qora fonrada ko'rinadi",
+    "Fonday yorqin ko'rinadi"
    ],
-   "togri": 3,
+   "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Naqshni jozibador va yorqin ko'rsatishning asosiy usuli nima?",
+   "savol": "Naqsh tasvirlashda rang tuslari (iliq-sovuq) va och-to'qligi kontrast ta'sir etadi. Quyidagilardan qaysida ikki hususiyat ham kontrast yaratadi?",
    "variantlar": [
-    "Kontrast ranglardan to'g'ri foydalanish",
-    "Faqat ikkita rang ishlatish",
-    "Faqat qora rang ishlatish",
-    "Faqat oq rang ishlatish"
-   ],
-   "togri": 0,
-   "qiyinlik": "qiyin"
-  },
-  {
-   "savol": "Usta Yoqubjon Raufov otasining ismi va unvoni nima edi?",
-   "variantlar": [
-    "Usta Rauf Kalon",
-    "Usta Ilmiy Rauf",
-    "Usta Qodir Rauf",
-    "Usta Muhammad Rauf"
-   ],
-   "togri": 0,
-   "qiyinlik": "qiyin"
-  },
-  {
-   "savol": "Usta Yoqubjon Raufov respublikamizning qator shaharlarida qanday binolarni bezashda boshchilik qilgan?",
-   "variantlar": [
-    "Dassalarni",
-    "Do'konlarni",
-    "Jamoat binolarini",
-    "Shaxsiy uylarini"
-   ],
-   "togri": 2,
-   "qiyinlik": "qiyin"
-  },
-  {
-   "savol": "Kontrast ranglar kontrast ranglarning biri ikkinchisining fonida qanday ko'rinadi?",
-   "variantlar": [
-    "Yorqinroq",
-    "To'q",
-    "Och",
-    "O'xshash"
+    "Sariq va ko'k",
+    "Oq va qora",
+    "Qizil va zarg'aldoq",
+    "Sariq va oq"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"

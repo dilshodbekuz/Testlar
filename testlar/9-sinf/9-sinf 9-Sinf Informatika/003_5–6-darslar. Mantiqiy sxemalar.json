@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Informatika",
+ "mavzu": "5–6-darslar. Mantiqiy sxemalar",
+ "savollar": [
+  {
+   "savol": "Mantiq algebrasi qanday fanning bo'limi hisoblanadi?",
+   "variantlar": [
+    "Fizika",
+    "Kimyo",
+    "Biologiya",
+    "Matematika"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Diskret qayta ishlovchi qurilma ikkilik signallarni qayta ishlab, mantiqiy amal natijasini chiqarsa, u nima deb ataladi?",
+   "variantlar": [
+    "Protsessor",
+    "Xotira qurilmasi",
+    "Mantiqiy element",
+    "Registr"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mantiqiy o'zgaruvchi qanday qiymatlarni qabul qiladi?",
+   "variantlar": [
+    "0 va 1",
+    "-1 va 1",
+    "0 va 10",
+    "1 va 2"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mantiqiy funksiya argumentlari qanday qiymatlarga ega bo'lishi mumkin?",
+   "variantlar": [
+    "Faqat musbat sonlar",
+    "Faqat 0 va 1",
+    "Faqat harflar",
+    "Har qanday butun son"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Konyunktor mantiqiy elementi qaysi amalni bajaradi?",
+   "variantlar": [
+    "Solishtirish",
+    "Rad etish",
+    "Mantiqiy ko'paytirish",
+    "Mantiqiy qo'shish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dizyunktor mantiqiy elementi qaysi amalni bajaradi?",
+   "variantlar": [
+    "Rad etish",
+    "Mantiqiy qo'shish",
+    "Ayirish",
+    "Mantiqiy ko'paytirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Invertor mantiqiy elementi qaysi amalni bajaradi?",
+   "variantlar": [
+    "Ko'paytirish va qo'shish",
+    "Mantiqiy qo'shish",
+    "Mantiqiy ko'paytirish",
+    "Rad etish (inkor)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'VA' mantiqiy elementi xorijiy sxemalarda qisqacha qanday nomlanadi?",
+   "variantlar": [
+    "OR",
+    "XOR",
+    "AND",
+    "NOT"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'YOKI' mantiqiy elementi xorijiy sxemalarda qisqacha qanday nomlanadi?",
+   "variantlar": [
+    "AND",
+    "OR",
+    "NOT",
+    "NAND"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'EMAS' mantiqiy elementi xorijiy sxemalarda qisqacha qanday nomlanadi?",
+   "variantlar": [
+    "AND",
+    "OR",
+    "NOT",
+    "XOR"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'VA' mantiqiy elementining rostlik jadvalida A=1, B=1 bo'lganda chiquvchi signal nechaga teng?",
+   "variantlar": [
+    "2",
+    "1",
+    "0",
+    "Aniqlanmagan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'VA' mantiqiy elementida A=0, B=1 bo'lganda chiquvchi signal nechaga teng?",
+   "variantlar": [
+    "0",
+    "Aniqlanmagan",
+    "1",
+    "2"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'YOKI' mantiqiy elementida A=1, B=0 bo'lganda chiquvchi signal nechaga teng?",
+   "variantlar": [
+    "1",
+    "2",
+    "0",
+    "Aniqlanmagan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'YOKI' mantiqiy elementida A=0, B=0 bo'lganda chiquvchi signal nechaga teng?",
+   "variantlar": [
+    "1",
+    "2",
+    "0",
+    "Noaniq"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Invertor elementida kiruvchi signal A=1 bo'lsa, chiquvchi signal (A emas) nechaga teng bo'ladi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "2",
+    "1",
+    "0"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Invertor elementida kiruvchi signal A=0 bo'lsa, chiquvchi signal nechaga teng bo'ladi?",
+   "variantlar": [
+    "0",
+    "O'zgarmaydi",
+    "2",
+    "1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'VA' va 'YOKI' mantiqiy funksiyalarining bajarilishi uchun kiruvchi signallar soni kamida nechta bo'lishi zarur?",
+   "variantlar": [
+    "4",
+    "1",
+    "2",
+    "3"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Konyunktor sxemasida nechta chiquvchi signal mavjud?",
+   "variantlar": [
+    "2",
+    "3",
+    "0",
+    "1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mantiqiy sxema chizishning birinchi qadami nima hisoblanadi?",
+   "variantlar": [
+    "Amallar tartibini ulash",
+    "Elementlarni ulash",
+    "Chiquvchi signalni hisoblash",
+    "Mantiqiy o'zgaruvchilar sonini aniqlash"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1-misoldagi 'A & B ∨ ⏋(B ∨ A)' ifodasida nechta mantiqiy o'zgaruvchi ishlatilgan?",
+   "variantlar": [
+    "4",
+    "2",
+    "3",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1-misolda A=1, B=0 bo'lganda ifodaning chiquvchi signal qiymati nechaga teng?",
+   "variantlar": [
+    "Aniqlanmagan",
+    "1",
+    "0",
+    "2"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1-misoldagi ifodada A=0, B=0 qiymatlari uchun chiquvchi signal nechaga teng bo'ladi?",
+   "variantlar": [
+    "2",
+    "1",
+    "Aniqlanmagan",
+    "0"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1-misoldagi ifodada A=1, B=1 qiymatlari uchun ifoda natijasi nechaga teng bo'ladi?",
+   "variantlar": [
+    "1",
+    "2",
+    "Noaniq",
+    "0"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1-misoldagi ifodada A=0, B=1 qiymatlari uchun ifoda natijasi nechaga teng bo'ladi?",
+   "variantlar": [
+    "2",
+    "1",
+    "Noaniq",
+    "0"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1-misoldagi 'A & B ∨ ⏋(B ∨ A)' ifodasida jami nechta mantiqiy amal ishlatilgan?",
+   "variantlar": [
+    "2",
+    "5",
+    "4",
+    "3"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1-misoldagi ifodada bajarilish tartibiga ko'ra birinchi bo'lib qaysi amal bajariladi?",
+   "variantlar": [
+    "B va A ning dizyunksiyasi (qavs ichida)",
+    "A va B ning konyunksiyasi",
+    "Inkor amali natijasi ustida konyunksiya",
+    "Tashqi dizyunksiya"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1-misoldagi ifodada bajarilish tartibiga ko'ra oxirgi (to'rtinchi) bo'lib qaysi amal bajariladi?",
+   "variantlar": [
+    "Tashqi dizyunksiya",
+    "A va B ning konyunksiyasi",
+    "Inkor amali",
+    "Ichki dizyunksiya (B ∨ A)"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar A va B qiymatlari bir xil bo'lsa (ya'ni A=B), 1-misoldagi ifodaning natijasi doim qanday bo'ladi?",
+   "variantlar": [
+    "Har xil bo'ladi",
+    "Doim 0",
+    "Doim 1",
+    "A ga bog'liq bo'lmaydi va noaniq"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar A va B qiymatlari har xil bo'lsa (A≠B), 1-misoldagi ifodaning natijasi doim qanday bo'ladi?",
+   "variantlar": [
+    "Har doim o'zgaradi",
+    "Doim 1",
+    "Doim 0",
+    "Aniqlanmagan"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mantiqiy sxema chizish ketma-ketligida mantiqiy elementlarni bir-biri bilan ulash nechanchi qadamda amalga oshiriladi?",
+   "variantlar": [
+    "To'rtinchi",
+    "Ikkinchi",
+    "Uchinchi",
+    "Birinchi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

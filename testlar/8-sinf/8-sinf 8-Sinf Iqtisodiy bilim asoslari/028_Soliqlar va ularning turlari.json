@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Iqtisodiy bilim asoslari",
+ "mavzu": "Soliqlar va ularning turlari",
+ "savollar": [
+  {
+   "savol": "Soliq nima?",
+   "variantlar": [
+    "Davlat tomonidan undiriladigan, qonunda ko'rsatilgan majburiy to'lov",
+    "Fuqarolar o'z xohishi bilan to'laydigan ixtiyoriy to'lov",
+    "Bank tomonidan beriladigan kredit foizi",
+    "Faqat korxonalar to'laydigan jarima"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Soliqlar davlat budjetining nimasi hisoblanadi?",
+   "variantlar": [
+    "Asosiy daromad manbai",
+    "Qo'shimcha xarajat manbai",
+    "Chet el investitsiyasi manbai",
+    "Faqat mudofaa xarajati manbai"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Soliqlarni to'lash fuqarolar uchun qanday xususiyatga ega?",
+   "variantlar": [
+    "Faqat boylar uchun majburiy",
+    "Majburiy",
+    "Faqat korxonalar uchun majburiy",
+    "Ixtiyoriy"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'zbekistonda soliq va boshqa majburiy to'lovlar qaysi huquqiy hujjat asosida belgilanadi?",
+   "variantlar": [
+    "Konstitutsiya",
+    "Mehnat kodeksi",
+    "Soliq kodeksi",
+    "Fuqarolik kodeksi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bevosita soliq qanday ta'riflanadi?",
+   "variantlar": [
+    "Faqat chet elliklardan olinadigan soliq",
+    "Korxona orqali keyin davlatga o'tkaziladigan soliq",
+    "Mahalliy hokimiyat tomonidan bekor qilinadigan to'lov",
+    "Fuqaro va korxonalardan bevosita davlat xazinasiga undiriladigan soliq"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bilvosita soliq qanday ta'riflanadi?",
+   "variantlar": [
+    "Faqat davlat idoralaridan olinadigan to'lov",
+    "Fuqarolar tomonidan avvaliga tovar sotuvchi korxonalarga, so'ng korxona orqali davlatga o'tkaziladigan soliq",
+    "Mahalliy hokimiyat ixtiyoridagi soliq",
+    "Fuqarolardan to'g'ridan to'g'ri davlat xazinasiga undiriladigan soliq"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nechta va undan ortiq daromad manbayiga ega bo'lgan jismoniy shaxslar soliq deklaratsiyasini topshirishi shart?",
+   "variantlar": [
+    "Uchta",
+    "Bitta",
+    "Ikkita",
+    "To'rtta"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Soliq deklaratsiyasi har yili qachongacha topshirilishi shart?",
+   "variantlar": [
+    "1- martgacha",
+    "1- aprelgacha",
+    "1- yanvargacha",
+    "1- iyungacha"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yangi \"Soliq kodeksi\" qaysi yil boshidan kuchga kirdi?",
+   "variantlar": [
+    "2018- yil",
+    "2017- yil",
+    "2019- yil",
+    "2020- yil"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'zbekiston Respublikasi Soliq kodeksining qaysi moddasida soliqlar ushbu kodeks bilan belgilanishi, o'zgartirilishi yoki bekor qilinishi aytilgan?",
+   "variantlar": [
+    "5- modda",
+    "2- modda",
+    "1- modda",
+    "3- modda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi soliqlardan qaysi biri bevosita soliqqa misol bo'la oladi?",
+   "variantlar": [
+    "Bojxona to'lovi",
+    "Qo'shilgan qiymat solig'i",
+    "Aksiz solig'i",
+    "Yer solig'i"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi soliqlardan qaysi biri bilvosita soliqqa misol bo'la oladi?",
+   "variantlar": [
+    "Mol-mulk solig'i",
+    "Yer solig'i",
+    "Qo'shilgan qiymat solig'i",
+    "Daromad solig'i"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri davlat soliqlariga kiradi?",
+   "variantlar": [
+    "Aksiz solig'i",
+    "Yer solig'i",
+    "Mahalliy yig'im",
+    "Mol-mulk solig'i"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri mahalliy soliqlarga kiradi?",
+   "variantlar": [
+    "Aksiz solig'i",
+    "Qo'shilgan qiymat solig'i",
+    "Mol-mulk solig'i",
+    "Korxona foyda solig'i"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Fuqarolar (jismoniy shaxslar)dan qanday soliqlar undiriladi?",
+   "variantlar": [
+    "Faqat qo'shilgan qiymat solig'i",
+    "Faqat foyda solig'i",
+    "Faqat aksiz solig'i",
+    "Daromad solig'i, mol-mulk solig'i va yer solig'i"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri soliqqa tenglashtirilgan majburiy to'lovga misol bo'ladi?",
+   "variantlar": [
+    "Davlat boji",
+    "Yer solig'i",
+    "Daromad solig'i",
+    "Foyda solig'i"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, Soliq kodeksi joriy etilgunga qadar soliq stavkalarini har yilga kim belgilab kelgan?",
+   "variantlar": [
+    "O'zbekiston Respublikasi Prezidenti",
+    "Vazirlar Mahkamasi",
+    "Mahalliy hokimlar",
+    "Moliya vazirligi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Davlat muayyan korxonalarga soliq imtiyozi berishi natijasida odatda nima yuz beradi?",
+   "variantlar": [
+    "Fuqarolarning daromad solig'i oshadi",
+    "Ishlab chiqarilayotgan mahsulot hajmi oshadi",
+    "Korxona faoliyati cheklanadi",
+    "Davlat budjeti kamayadi va boshqa xizmatlar to'xtaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qo'shilgan qiymat solig'i (QQS) qaysi turdagi soliqqa kiradi?",
+   "variantlar": [
+    "Bevosita soliq",
+    "Mahalliy soliq",
+    "Bilvosita soliq",
+    "Ijtimoiy to'lov"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Korxona foydasi (daromadi)dan olinadigan soliq qaysi turga kiradi?",
+   "variantlar": [
+    "Davlat boji",
+    "Bilvosita soliq",
+    "Bojxona to'lovi",
+    "Bevosita soliq"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Davlat nima uchun aholining kam ta'minlangan qatlamlaridan kamroq, boy tabaqalaridan ko'proq soliq undiradi?",
+   "variantlar": [
+    "Aholi daromadlarining qayta taqsimlanishiga hissa qo'shish uchun",
+    "Kambag'allarni soliqdan butunlay ozod qilish uchun",
+    "Faqat budjetni to'ldirish uchun, boshqa maqsad yo'q",
+    "Boylarni jazolash uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bevosita va bilvosita soliqlarning asosiy farqi nimada?",
+   "variantlar": [
+    "Bevosita soliq to'g'ridan to'g'ri davlat xazinasiga, bilvosita soliq esa avval korxonaga, so'ng davlatga o'tadi",
+    "Ularning orasida hech qanday farq yo'q",
+    "Bevosita soliqlar ixtiyoriy, bilvosita soliqlar majburiy",
+    "Bevosita soliq faqat korxonalardan, bilvosita esa faqat fuqarolardan olinadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Davlat ma'lum sohadagi korxonalarga soliq imtiyozi berib, ularni rag'batlantirsa, bu holat qaysi soliq siyosati maqsadiga mos keladi?",
+   "variantlar": [
+    "Ba'zi ishlab chiqarish sohalarini qo'llab-quvvatlash maqsadiga",
+    "Aholi daromadlarini qayta taqsimlash maqsadiga",
+    "Bojxona to'lovlarini oshirish maqsadiga",
+    "Ijtimoiy tovar va xizmatlarni pul bilan ta'minlash maqsadiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga ko'ra, nega Soliq kodeksidan tashqari boshqa huquqiy hujjatlar ham soliq qonunchiligining muhim tarkibiy qismi hisoblanadi?",
+   "variantlar": [
+    "Chunki ular Soliq kodeksidan yuqori turadi",
+    "Chunki ular faqat mahalliy hokimiyat uchun tuzilgan",
+    "Chunki soliq stavkalari va ba'zi ro'yxatlar Prezident qarori va qonun osti hujjatlar orqali belgilanib kelingan",
+    "Chunki Soliq kodeksi hech qanday kuchga ega emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Davlat soliqdan to'plangan mablag'larni qanday maqsadlarga yo'naltiradi?",
+   "variantlar": [
+    "Faqat xorijiy davlatlarga qarz to'lashga",
+    "Ta'lim, sog'liqni saqlash, huquqni muhofaza qilish, boshqaruv organlari va pensiyalarga",
+    "Faqat davlat rahbarlarining shaxsiy xarajatlariga",
+    "Faqat harbiy texnika sotib olishga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki va undan ortiq daromad manbaiga ega fuqaro nima qilishi va bu hujjatda nima ko'rsatilishi kerak?",
+   "variantlar": [
+    "1- aprelgacha deklaratsiya topshirib, unda o'tgan yilgi barcha daromadlar va to'langan soliq miqdorini ko'rsatishi kerak",
+    "Faqat yiliga bir marta og'zaki ma'lumot berishi kifoya",
+    "Faqat bitta daromad manbaini ko'rsatib deklaratsiya topshirishi kerak",
+    "Deklaratsiya topshirish shart emas, chunki bu ixtiyoriy"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mol-mulk solig'i haqida quyidagi fikrlardan qaysi biri to'g'ri?",
+   "variantlar": [
+    "U bilvosita soliq bo'lib, korxonalar orqali to'lanadi",
+    "U bevosita soliq bo'lib, mahalliy soliqlar tarkibiga kiradi",
+    "U soliqqa tenglashtirilgan majburiy to'lov hisoblanadi",
+    "U ham bevosita, ham davlat solig'i hisoblanadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga asoslanib aytish mumkinki, soliqlar to'lanmasa davlat uchun qanday oqibat yuzaga keladi?",
+   "variantlar": [
+    "Davlat xazinasi avtomatik ravishda to'lib turadi",
+    "Davlat o'z ijtimoiy vazifalarini to'laqonli bajara olmaydi",
+    "Fuqarolarga hech qanday ta'sir bo'lmaydi",
+    "Faqat korxonalar zarar ko'radi, davlatga ta'sir qilmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Aksiz solig'i haqida quyidagi ikkita xususiyatdan qaysi biri to'g'ri birlashtirilgan?",
+   "variantlar": [
+    "Ham soliqqa tenglashtirilgan to'lov, ham mahalliy soliq hisoblanadi",
+    "Ham bevosita, ham mahalliy soliq hisoblanadi",
+    "Ham bilvosita, ham davlat solig'i hisoblanadi",
+    "Faqat jismoniy shaxslardan olinadigan bevosita soliq hisoblanadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yer solig'i haqida quyidagi ikki xususiyatdan qaysi biri to'g'ri birlashtirilgan?",
+   "variantlar": [
+    "Ham bevosita, ham mahalliy soliq hisoblanadi",
+    "Ham bilvosita, ham davlat solig'i hisoblanadi",
+    "Faqat korxonalardan olinadigan bilvosita soliq hisoblanadi",
+    "Soliqqa tenglashtirilgan majburiy to'lov hisoblanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+49–50-darslar. Takrorlanuvchi algoritmlarni dasturlash. FOR operatori
+
+--- OSON ---
+
+1. Takrorlanuvchi algoritmlar deganda nima tushuniladi?
+A) Ma'lum shart asosida ikki yo'ldan biri tanlanadigan algoritm
+B) Bir marta bajariladigan buyruqlar ketma-ketligi
++C) Biror buyruqlar guruhining ma'lum marta yoki shart bajarilgunga qadar takroran bajarilishi
+D) Dasturning boshlanish va tugash qismlari
+
+2. Python tilida for sikli qanday sikl turi hisoblanadi?
+A) Tarmoqlanuvchi sikl
+B) Shartli sikl
++C) Hisoblagichli (count-controlled) sikl
+D) Cheksiz sikl
+
+3. for sikl operatoridan qachon foydalaniladi?
+A) Faqat shart tekshirilmaydigan hollarda
++B) Takrorlanishlar soni oldindan ma'lum bo'lganda
+C) Takrorlanishlar soni oldindan noma'lum bo'lganda
+D) Faqat matnli ma'lumotlarni chiqarishda
+
+4. Sikl operatorida takrorlanadigan buyruqlar ketma-ketligi qanday ataladi?
+A) Sikl indeksi
+B) Sikl boshi
++C) Sikl tanasi
+D) Sikl parametri
+
+5. Siklning har bir alohida takrorlanishi qanday nomlanadi?
+A) Funksiya
++B) Iteratsiya
+C) Modul
+D) Blok
+
+6. for sikl operatorining Python tilidagi umumiy sintaksisi qaysi?
+A) while i in range(start, stop, step):
+B) loop i in range(start, stop, step):
++C) for i in range(start, stop, step):
+D) if i in range(start, stop, step):
+
+7. range() funksiyasida start parametri ko'rsatilmasa, u qanday qiymatni oladi?
++A) 0
+B) stop qiymatiga teng
+C) 1
+D) -1
+
+8. range() funksiyasida step parametri ko'rsatilmasa, u qanday qiymatni oladi?
++A) 1
+B) -1
+C) 2
+D) 0
+
+9. range() funksiyasining qaysi parametri har doim ko'rsatilishi shart?
+A) step
++B) stop
+C) start
+D) Hech biri shart emas
+
+10. Sikl ichida yana sikl ishlatilishi qanday nomlanadi?
+A) Ketma-ket sikl
+B) Rekursiv sikl
+C) Parallel sikl
++D) Ichma-ich joylashgan sikl
+
+--- O'RTACHA ---
+
+11. for i in range(5): sikli necha marta takrorlanadi?
+A) 0 marta
++B) 5 marta
+C) 4 marta
+D) 6 marta
+
+12. for i in range(2,10): sikli necha marta takrorlanadi?
+A) 10 marta
+B) 7 marta
++C) 8 marta
+D) 9 marta
+
+13. for i in range(0,11,2): print(i) buyrug'i ekranga qanday sonlarni chiqaradi?
+A) 0,1,2,...,10
+B) 0,2,4,6,8,10,12
+C) 2,4,6,8,10
++D) 0,2,4,6,8,10
+
+14. for i in range(10,0,-1): print(i) dasturida i ning boshlang'ich va oxirgi qiymatlari mos ravishda qanday bo'ladi?
+A) 1 va 10
+B) 0 va 10
+C) 10 va 0
++D) 10 va 1
+
+15. for i in range(1,6): sikli i o'zgaruvchisiga qanday qiymatlar beradi?
+A) 2,3,4,5,6
+B) 0,1,2,3,4,5
++C) 1,2,3,4,5
+D) 1,2,3,4,5,6
+
+16. print(i, end=';') buyrug'i sikl ichida ishlatilganda natijalar qanday chiqadi?
+A) Qiymatlar probel bilan ajratiladi
+B) Har bir qiymat yangi qatordan chiqadi
++C) Qiymatlar bir qatorda nuqtali vergul bilan ajratilib chiqadi
+D) Faqat oxirgi qiymat chiqadi
+
+17. for i in range(5,5): sikli necha marta bajariladi?
+A) Cheksiz
+B) 5 marta
++C) 0 marta
+D) 1 marta
+
+18. for i in range(1,10,3): sikli i uchun qanday qiymatlar hosil qiladi?
+A) 0,3,6,9
++B) 1,4,7
+C) 1,4,7,10
+D) 1,3,5,7,9
+
+19. for i in range(487): sikli necha marta takrorlanadi?
++A) 487 marta
+B) 488 marta
+C) 0 marta
+D) 486 marta
+
+20. for i in range(2,89): sikli necha marta takrorlanadi?
+A) 89 marta
+B) 88 marta
+C) 86 marta
++D) 87 marta
+
+--- QIYIN ---
+
+21. Ichma-ich joylashgan sikllarda tashqi sikl i marta, ichki sikl har safar j marta bajarilsa, ichki siklning umumiy bajarilishlar soni qanday topiladi?
+A) i/j
++B) i*j
+C) i+j
+D) i-j
+
+22. n=3 bo'lganda, ikkita ichma-ich for sikli yordamida tuzilgan ko'paytirish jadvali dasturi jami nechta natija (qator) chiqaradi?
+A) 3 ta
+B) 12 ta
++C) 9 ta
+D) 6 ta
+
+23. for i in range(-17,15,4): sikli necha marta bajariladi?
++A) 8 marta
+B) 7 marta
+C) 9 marta
+D) 6 marta
+
+24. for i in range(-58,0): sikli necha marta bajariladi?
+A) 59 marta
++B) 58 marta
+C) 57 marta
+D) 60 marta
+
+25. for i in range(73,161,2): sikli necha marta bajariladi?
+A) 42 marta
+B) 43 marta
+C) 45 marta
++D) 44 marta
+
+26. for i in range(100,1982): sikli necha marta bajariladi?
+A) 1883 marta
+B) 1880 marta
+C) 1881 marta
++D) 1882 marta
+
+27. for i in range(1874,21): sikli necha marta bajariladi?
+A) 1874 marta
++B) 0 marta
+C) 21 marta
+D) 1853 marta
+
+28. for i in range(-21,21,5): sikli necha marta bajariladi?
+A) 10 marta
++B) 9 marta
+C) 8 marta
+D) 7 marta
+
+29. x=8, n=6 bo'lganda, x ga karrali n ta sonni chiqaruvchi 's=i*x' dasturida (i qiymati 0 dan boshlanadi) 32 soni nechanchi iteratsiyada hosil bo'ladi?
+A) 6-iteratsiyada
+B) 3-iteratsiyada
+C) 4-iteratsiyada
++D) 5-iteratsiyada
+
+30. Ichma-ich joylashgan sikllarda tashqi sikl 4 marta, ichki sikl esa har safar 5 marta bajarilsa, ichki sikl tanasi jami necha marta ishga tushadi?
+A) 9 marta
+B) 25 marta
+C) 15 marta
++D) 20 marta

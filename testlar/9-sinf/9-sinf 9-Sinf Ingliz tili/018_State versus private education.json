@@ -1,0 +1,326 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Ingliz tili",
+ "mavzu": "State versus private education",
+ "savollar": [
+  {
+   "savol": "Interyvuda ishtirok etgan direktor kim?",
+   "variantlar": [
+    "Vince Aquila",
+    "John Smith",
+    "Randolph Aquila",
+    "Michael Huntsville"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vince Aquila qaysi maktabning direktori?",
+   "variantlar": [
+    "Washington Academy",
+    "Catholic High School",
+    "Randolph Academy",
+    "Huntsville City School"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Catholic High School qaysi shtatda joylashgan?",
+   "variantlar": [
+    "Alabama",
+    "California",
+    "Texas",
+    "Washington DC"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Huntsville shahridagi jami o'quvchilar soni qancha?",
+   "variantlar": [
+    "20,000",
+    "22,000",
+    "25,000",
+    "18,000"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Huntsvillida nechta xususiy maktab bor?",
+   "variantlar": [
+    "18",
+    "12",
+    "15",
+    "20"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda tilga olingan eng mashhur xususiy maktab qanday nomlanadi?",
+   "variantlar": [
+    "Randolph Academy",
+    "Catholic High School",
+    "Huntsville Academy",
+    "Washington School"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xususiy maktablarda forma bor-yo'qligi haqida direktor nima dedi?",
+   "variantlar": [
+    "Ha, forma bor",
+    "Faqat yuqori sinflar uchun bor",
+    "Faqat qizlar uchun bor",
+    "Yo'q, forma yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Huntsvilldagi barcha xususiy maktablar qanday turdagi?",
+   "variantlar": [
+    "Faqat qiz bolalar uchun",
+    "Aralash (co-ed)",
+    "Faqat o'g'il bolalar uchun",
+    "Faqat kattalar uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra eng qimmat xususiy maktabning yillik narxi qancha?",
+   "variantlar": [
+    "$6,000",
+    "$8,000",
+    "$3,000",
+    "$4,700"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Boshlang'ich va o'rta xususiy maktabning yillik narxi qancha?",
+   "variantlar": [
+    "$4,700",
+    "$8,000",
+    "$3,000",
+    "$2,000"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ota-onalar xususiy maktabni tanlashda asosiy sabab sifatida nimani ko'rsatishmaydi?",
+   "variantlar": [
+    "Din ta'limi",
+    "Qat'iy intizom",
+    "Kichik sinflar",
+    "Bepul ta'lim"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Xususiy maktablarda sinflar davlat maktablariga nisbatan qanday?",
+   "variantlar": [
+    "Aralash",
+    "Kattaroq",
+    "Bir xil",
+    "Kichikroq"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Eng qimmat ($8000) xususiy maktabda har bir o'quvchi nima oladi?",
+   "variantlar": [
+    "Kitob to'plami",
+    "Laptop kompyuter",
+    "Bepul transport",
+    "Sport formasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Vince Aquilaning o'z maktabi (high school) uchun yillik narx qancha?",
+   "variantlar": [
+    "$6,000",
+    "$3,000",
+    "$4,700",
+    "$8,000"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Direktorning aytishicha, bir jinsli xususiy maktablar qaysi shaharda uchraydi?",
+   "variantlar": [
+    "Washington DC",
+    "Huntsville",
+    "Alabama",
+    "New York"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Boshlang'ich va o'rta xususiy maktablar odatda qayerda joylashgan?",
+   "variantlar": [
+    "Uydan-uyga",
+    "Universitet hududida",
+    "Alohida binolarda",
+    "Bir binoda"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Xususiy maktablar qaysi yoshdan boshlab o'quvchilarni qabul qiladi?",
+   "variantlar": [
+    "Boshlang'ich maktab yoshidan",
+    "O'rta maktab yoshidan",
+    "Yuqori sinf yoshidan",
+    "Bog'cha yoshidan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra qaysi ta'lim turi faqat xususiy maktablarda o'qitiladi?",
+   "variantlar": [
+    "Matematika",
+    "Fizika",
+    "Tarix",
+    "Din"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Xususiy maktablarda qanday qo'shimcha imkoniyat ko'proq mavjud?",
+   "variantlar": [
+    "Uy vazifasisiz o'qish",
+    "Darsdan tashqari faoliyatlar",
+    "Bepul transport",
+    "Bepul ovqatlanish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Direktor Vashington DC haqida nimani bilmasligini aytdi?",
+   "variantlar": [
+    "Boshqa shtatlardagi mashhur maktablarni",
+    "U yerdagi formalarni",
+    "U yerda xususiy maktablar sonini",
+    "U yerdagi narxlarni"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "22,000 o'quvchining 5-6 foizi taxminan nechchi o'quvchiga to'g'ri keladi?",
+   "variantlar": [
+    "1500-1700",
+    "800-900",
+    "1100-1320",
+    "2000-2200"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Eng arzon va eng qimmat xususiy maktab narxlari orasidagi farq qancha?",
+   "variantlar": [
+    "$8,000",
+    "$4,700",
+    "$5,000",
+    "$3,000"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "High school narxi bilan eng qimmat maktab narxi orasidagi farq qancha?",
+   "variantlar": [
+    "$4,700",
+    "$2,300",
+    "$3,300",
+    "$5,000"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matn asosida, xususiy maktabga borish sababi qaysi ikki jihatning birikmasi bilan izohlanadi: intizom va nima?",
+   "variantlar": [
+    "Bepul kitoblar",
+    "Til o'rgatish",
+    "Sport turlari",
+    "Sinf hajmi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar bola elementary va middle schoolni bir joyda o'qisa, keyin high schoolga o'tsa, bu nimani ko'rsatadi?",
+   "variantlar": [
+    "Barcha maktablar bir xil binoda joylashadi",
+    "Bunday tizim mavjud emas",
+    "Faqat boshlang'ich va o'rta bosqich bir binoda, keyin alohida",
+    "High school har doim uzoqda"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga ko'ra, xususiy maktablar davlat maktablaridan farq qiladigan jihatlarni sanab bering: din, kichik sinf, qat'iy intizom va yana nima?",
+   "variantlar": [
+    "Bepul transport",
+    "Darsdan tashqari ko'proq faoliyat imkoniyati",
+    "Uzoq ta'tillar",
+    "Kam uy vazifasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar bir oila high school narxini 3 yil to'lasa, jami qancha to'laydi?",
+   "variantlar": [
+    "$24,000",
+    "$14,100",
+    "$12,000",
+    "$9,000"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga ko'ra, Huntsvilledagi xususiy maktablar sonini (18 ta) o'quvchilar soniga (22,000) nisbatan tahlil qilsak, bu nimani anglatadi?",
+   "variantlar": [
+    "Har bir maktabda o'rtacha ko'p o'quvchi bor",
+    "Barcha o'quvchilar xususiy maktabda o'qiydi",
+    "Davlat maktablari umuman yo'q",
+    "Xususiy maktablar juda kam o'quvchiga xizmat qiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matn asosida xulosa qilsak, nega ba'zi ota-onalar xususiy maktabni yuqori narxiga qaramay tanlaydi?",
+   "variantlar": [
+    "Chunki narxi arzon",
+    "Chunki bu majburiy qonun",
+    "Chunki davlat maktablari yopilgan",
+    "Chunki sifat va imkoniyatlar ko'proq deb hisoblaydilar"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

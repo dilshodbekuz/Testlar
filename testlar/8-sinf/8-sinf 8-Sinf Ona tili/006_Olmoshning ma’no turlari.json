@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Ona tili",
+ "mavzu": "Olmoshning ma’no turlari",
+ "savollar": [
+  {
+   "savol": "Olmoshning nechta ma'no turi mavjud?",
+   "variantlar": [
+    "8 ta",
+    "6 ta",
+    "7 ta",
+    "5 ta"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Men, sen, u, biz, siz, ular so'zlari qanday olmosh turini tashkil qiladi?",
+   "variantlar": [
+    "Belgilash olmoshi",
+    "Kishilik olmoshi",
+    "O'zlik olmoshi",
+    "Ko'rsatish olmoshi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"O'z\" so'zi qanday olmosh turiga kiradi?",
+   "variantlar": [
+    "Gumon olmoshi",
+    "Belgilash olmoshi",
+    "Kishilik olmoshi",
+    "O'zlik olmoshi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kishilik olmoshi nimani bildiradi?",
+   "variantlar": [
+    "Predmetni ko'rsatadi",
+    "So'zlovchi, tinglovchi va boshqa shaxslarni bildiradi",
+    "Predmetlarning umumiyligini bildiradi",
+    "Noaniq shaxsni bildiradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Bu, shu, u, ana, mana\" kabi so'zlar qaysi ma'no turiga kiradi?",
+   "variantlar": [
+    "So'roq olmoshi",
+    "Gumon olmoshi",
+    "Ko'rsatish olmoshi",
+    "Kishilik olmoshi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'rsatish olmoshining asosiy vazifasi nima?",
+   "variantlar": [
+    "Savol berish",
+    "Inkor qilish",
+    "Predmet, belgi yoki miqdorni ko'rsatish",
+    "Shaxslarni sanash"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Hamma, barcha, har, jami\" so'zlari qaysi olmosh turiga mansub?",
+   "variantlar": [
+    "Ko'rsatish olmoshi",
+    "Kishilik olmoshi",
+    "Belgilash olmoshi",
+    "O'zlik olmoshi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Belgilash olmoshi nimani ifodalaydi?",
+   "variantlar": [
+    "Faqat tinglovchini",
+    "Predmetlarning umumiyligini yoki har birini alohida ta'kidlashni",
+    "Faqat so'zlovchini",
+    "Noaniq shaxsni"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Qandaydir, kimdir, allakim\" so'zlari qaysi olmosh turiga kiradi?",
+   "variantlar": [
+    "Ko'rsatish olmoshi",
+    "Gumon olmoshi",
+    "O'zlik olmoshi",
+    "Belgilash olmoshi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gumon olmoshi qanday ma'noni bildiradi?",
+   "variantlar": [
+    "Predmetning umumiyligini bildiradi",
+    "Egalikni bildiradi",
+    "Noaniq, taxminiy shaxs yoki narsani bildiradi",
+    "Aniq shaxsni bildiradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Agar indamasak, ...larning lapar aytishlaring kechgacha tugamaydi\" gapida bo'sh joyga qaysi olmosh mos keladi?",
+   "variantlar": [
+    "hamma",
+    "o'z",
+    "sen",
+    "qandaydir"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"... uyim deb so'zlama, uy ortida kishi bor\" gapida bo'sh joyga qaysi olmosh mos keladi?",
+   "variantlar": [
+    "siz",
+    "bu",
+    "sen",
+    "o'z"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Baxil topsa, bosib yer; saxiy topsa, ... yer\" maqolida bo'sh joyga qaysi olmosh mos keladi?",
+   "variantlar": [
+    "bu",
+    "shu",
+    "hamma",
+    "sen"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"... gapingiz haq, o'rtoq Ahmedov\" gapida bo'sh joyga qaysi olmosh mos keladi?",
+   "variantlar": [
+    "siz",
+    "bu",
+    "men",
+    "sen"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"... xayol, ... tasavvur bilan yigit Darayi Nihonga qarab jo'nadi\" gapida ikkala bo'sh joyga qaysi olmosh mos keladi?",
+   "variantlar": [
+    "qandaydir",
+    "shu",
+    "hamma",
+    "o'z"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Berilgan so'zlar orasidan qaysi biri o'zlik olmoshi hisoblanadi: sen, o'z, hamma, bu?",
+   "variantlar": [
+    "o'z",
+    "bu",
+    "sen",
+    "hamma"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi olmoshlardan qaysi biri belgilash olmoshiga misol bo'la oladi: men, u, barcha, shu?",
+   "variantlar": [
+    "men",
+    "barcha",
+    "shu",
+    "u"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Unday\" va \"bunday\" so'zlari qaysi olmosh turiga kiradi?",
+   "variantlar": [
+    "Ko'rsatish olmoshi",
+    "Kishilik olmoshi",
+    "Belgilash olmoshi",
+    "Gumon olmoshi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"... gapni hazilga yo'yish uchun Sidiqjon ham kuldi\" gapida bo'sh joyga qaysi olmosh mos keladi?",
+   "variantlar": [
+    "bu",
+    "hamma",
+    "qandaydir",
+    "sen"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi qatorlardan qaysi birida faqat kishilik olmoshlari berilgan?",
+   "variantlar": [
+    "men, sen, siz",
+    "o'z, unday, qandaydir",
+    "bu, shu, u",
+    "hamma, barcha, har"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"... ...ni ... sirli odam deb o'ylayapsiz\" gapini to'ldirish uchun mos olmoshlar ketma-ketligi qaysi?",
+   "variantlar": [
+    "Sen, meni, shu",
+    "Siz, uni, qandaydir",
+    "Biz, ularni, bunday",
+    "U, sizni, hamma"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Shirin-so'z, mehribon xola yana ...ning yelkasiga qoqib omonlashdi\" gapida ishlatilgan olmosh qaysi ma'no turiga kiradi va nima uchun?",
+   "variantlar": [
+    "Gumon olmoshi, chunki noaniqlikni bildiradi",
+    "Ko'rsatish olmoshi, chunki predmetni ko'rsatadi",
+    "Belgilash olmoshi, chunki umumiylikni bildiradi",
+    "Kishilik olmoshi, chunki boshqa shaxsni bildiradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Bu, shu, unday, bunday\" so'zlari bilan \"hamma, barcha\" so'zlari orasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Birinchisi ko'rsatish, ikkinchisi belgilash olmoshi",
+    "Ular orasida farq yo'q",
+    "Birinchisi kishilik, ikkinchisi o'zlik olmoshi",
+    "Birinchisi gumon, ikkinchisi so'roq olmoshi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"... kishidan bir gap chiqadi\" gapida qaysi olmosh ishlatilib, u gapga qanday ma'no beradi?",
+   "variantlar": [
+    "\"hamma\" so'zi, umumiylik ma'nosini beradi",
+    "\"shu\" so'zi, aniq bir shaxsni ko'rsatadi",
+    "\"qandaydir\" so'zi, noaniqlik beradi",
+    "\"o'z\" so'zi, egalik ma'nosini beradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun \"o'z\" so'zi alohida ma'no turi — o'zlik olmoshi sifatida ajratiladi?",
+   "variantlar": [
+    "Chunki u savol ma'nosini bildiradi",
+    "Chunki u noaniq shaxsni bildiradi",
+    "Chunki u predmetlarning umumiyligini bildiradi",
+    "Chunki u faqat egalik va shaxsga qaytish (refleksiv) ma'nosini bildiradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Qandaydir\" so'zini \"shu\" so'zi bilan almashtirish gap ma'nosini qanday o'zgartiradi?",
+   "variantlar": [
+    "Noaniqlik (gumon) ma'nosi aniqlik (ko'rsatish) ma'nosiga aylanadi",
+    "O'zgarish bo'lmaydi",
+    "Belgilash ma'nosi kuchayadi",
+    "Kishilik ma'nosi paydo bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyida berilgan to'rtta olmoshdan qaysi biri boshqalaridan farqli ma'no turiga mansub: sen, siz, men, hamma?",
+   "variantlar": [
+    "sen",
+    "hamma",
+    "men",
+    "siz"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Barcha\" va \"hamma\" so'zlari matnda bir xil ma'no turiga kiradi. Bu qanday olmosh turi va nima uchun?",
+   "variantlar": [
+    "Belgilash olmoshi, chunki ular predmetlarning umumiyligini bildiradi",
+    "Kishilik olmoshi, chunki ular shaxsni bildiradi",
+    "Ko'rsatish olmoshi, chunki ular predmetni ko'rsatadi",
+    "Gumon olmoshi, chunki ular noaniqlikni bildiradi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gapda \"men\" o'rniga \"o'z\" so'zini qo'yish mumkinmi? Nima uchun?",
+   "variantlar": [
+    "Yo'q, chunki \"o'z\" so'roq olmoshi hisoblanadi",
+    "Yo'q, chunki \"men\" kishilik, \"o'z\" esa o'zlik olmoshi bo'lib, boshqa grammatik vazifani bajaradi",
+    "Ha, ikkalasi ham belgilash olmoshi",
+    "Ha, ular bir xil ma'no turiga kirgani uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi 12 ta so'zdan (sen, o'z, barcha, u, hamma, unday, bunday, shu, bu, men, siz, qandaydir) nechtasi ko'rsatish olmoshiga kiradi?",
+   "variantlar": [
+    "4 ta",
+    "3 ta",
+    "6 ta",
+    "5 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

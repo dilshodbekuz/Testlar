@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Iqtisodiy bilim asoslari",
+ "mavzu": "Iqtisodiy faoliyat tahlili",
+ "savollar": [
+  {
+   "savol": "Firmaning joriy narxlardagi daromadi yoki foydasi qanday nomlanadi?",
+   "variantlar": [
+    "Nominal foyda",
+    "Sof foyda",
+    "Real foyda",
+    "Umumiy foyda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Foydaning narxlar o'zgarishini hisobga olgan holdagi qiymati qanday ataladi?",
+   "variantlar": [
+    "Yalpi foyda",
+    "Nominal foyda",
+    "Real foyda",
+    "Sof foyda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Samaradorlik (rentabellik) nima?",
+   "variantlar": [
+    "Xarajatning daromadga nisbati",
+    "Foydaning xarajatga nisbati",
+    "Daromadning xarajatga nisbati",
+    "Daromadning foydaga nisbati"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Firmaning o'z qarzlarini to'lay olmaslik holati qanday ataladi?",
+   "variantlar": [
+    "Devalvatsiya",
+    "Bankrotlik",
+    "Inflatsiya",
+    "Retsessiya"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'zbekistonda \"Bankrotlik to'g'risida\"gi qonun qaysi yilda qabul qilingan?",
+   "variantlar": [
+    "1991-yilda",
+    "1994-yilda",
+    "2000-yilda",
+    "1998-yilda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Firma foydasining real miqdorini hisoblash formulasi qaysi?",
+   "variantlar": [
+    "Pr = Pn / I",
+    "Pr = Pn + I",
+    "Pr = Pn * I",
+    "Pr = Pn - I"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Firma faoliyati samaradorligini hisoblash formulasi qaysi?",
+   "variantlar": [
+    "R = Pr + TC",
+    "R = Pr * TC * 100%",
+    "R = TC / Pr * 100%",
+    "R = Pr / TC * 100%"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Narxlarning o'zgarish darajasini aniqlovchi ko'rsatkich nima deb ataladi?",
+   "variantlar": [
+    "Narxlarning o'zgarish indeksi",
+    "Foyda indeksi",
+    "Bozor indeksi",
+    "Inflyatsiya darajasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aylanma mablag' qancha tez aylansa, korxona qanday natijaga erishadi?",
+   "variantlar": [
+    "Zarar ko'radi",
+    "Kamroq foyda ko'radi",
+    "Ko'proq foyda ko'radi",
+    "Bankrot bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Korxona qachon tugatilgan hisoblanadi?",
+   "variantlar": [
+    "Bank xabar berganda",
+    "Shahar (tuman) hokimligi tugatish haqida qaror chiqargandan keyin",
+    "Ta'sischilar qaror qabul qilganda",
+    "Foyda tugaganda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Sherdor\" firmasi 30 000 000 so'm xarajat qilib, 7 500 000 so'm foyda oldi. Firma faoliyatining samaradorligi necha foizni tashkil etadi?",
+   "variantlar": [
+    "20%",
+    "25%",
+    "30%",
+    "15%"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Firma birinchi oyda 20 000 000 so'm xarajat qilib, 25 000 000 so'm daromad qildi. Bu oydagi foyda miqdori qancha?",
+   "variantlar": [
+    "4 mln so'm",
+    "5 mln so'm",
+    "6 mln so'm",
+    "3 mln so'm"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi ma'lumotlarga ko'ra (20 mln xarajat, 25 mln daromad), birinchi oydagi samaradorlik necha foizga teng?",
+   "variantlar": [
+    "20%",
+    "35%",
+    "30%",
+    "25%"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Firma ikkinchi oyda 25 000 000 so'm xarajat qilib, 30 000 000 so'm daromad qildi. Bu oydagi foyda miqdori qancha?",
+   "variantlar": [
+    "6 mln so'm",
+    "3 mln so'm",
+    "4 mln so'm",
+    "5 mln so'm"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkinchi oydagi samaradorlik necha foizni tashkil qiladi (xarajat 25 mln, foyda 5 mln so'm)?",
+   "variantlar": [
+    "15%",
+    "20%",
+    "25%",
+    "18%"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jadvalga ko'ra, firmaning 1-yildagi yalpi daromadi 300 mln so'm, umumiy xarajati 150 mln so'm bo'lsa, nominal foyda qancha?",
+   "variantlar": [
+    "150 mln so'm",
+    "200 mln so'm",
+    "100 mln so'm",
+    "120 mln so'm"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Firmaning 2-yildagi yalpi daromadi 450 mln so'm, umumiy xarajati 200 mln so'm bo'lsa, nominal foyda qancha?",
+   "variantlar": [
+    "250 mln so'm",
+    "200 mln so'm",
+    "220 mln so'm",
+    "300 mln so'm"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Firmaning 3-yildagi yalpi daromadi 600 mln so'm, umumiy xarajati 300 mln so'm bo'lsa, nominal foyda qancha?",
+   "variantlar": [
+    "300 mln so'm",
+    "280 mln so'm",
+    "250 mln so'm",
+    "350 mln so'm"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1-yilda narxlar oshish indeksi 1,0 va nominal foyda 150 mln so'm bo'lsa, real foyda qancha bo'ladi?",
+   "variantlar": [
+    "120 mln so'm",
+    "150 mln so'm",
+    "180 mln so'm",
+    "100 mln so'm"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Poyabzal sexida 2015-yilda narxlar 2012-yilga nisbatan 18% ga qimmatlashgan bo'lsa, narxlarning o'zgarish indeksi qancha bo'ladi?",
+   "variantlar": [
+    "1,08",
+    "1,28",
+    "1,18",
+    "1,38"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yil natijasiga ko'ra, firma foydasi 23 000 000 so'mni, faoliyat samaradorligi esa 20% ni tashkil qildi. Firmaning yillik sarf-xarajatlari miqdorini toping.",
+   "variantlar": [
+    "100 mln so'm",
+    "115 mln so'm",
+    "110 mln so'm",
+    "105 mln so'm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Firma birinchi oyda 20 mln xarajat bilan 25 mln daromad, ikkinchi oyda 25 mln xarajat bilan 30 mln daromad qildi. Qaysi oyda firma faoliyati samaraliroq bo'lgan?",
+   "variantlar": [
+    "Birinchi oy",
+    "Aniqlab bo'lmaydi",
+    "Ikkalasi teng",
+    "Ikkinchi oy"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadval bo'yicha 2-yildagi nominal foyda 250 mln so'm, narxlar oshish indeksi 1,25 bo'lsa, real foyda necha mln so'm bo'ladi?",
+   "variantlar": [
+    "200 mln so'm",
+    "180 mln so'm",
+    "190 mln so'm",
+    "210 mln so'm"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadval bo'yicha 3-yildagi nominal foyda 300 mln so'm, narxlar oshish indeksi 1,5 bo'lsa, real foyda necha mln so'm bo'ladi?",
+   "variantlar": [
+    "220 mln so'm",
+    "180 mln so'm",
+    "190 mln so'm",
+    "200 mln so'm"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadval bo'yicha 1,2,3-yillardagi real foyda mos ravishda 150, 200, 200 mln so'm bo'lsa, firma qaysi yil(lar)da eng yaxshi natijaga erishgan deb aytish mumkin?",
+   "variantlar": [
+    "Faqat 2-yilda",
+    "3-yilda eng yaxshi",
+    "Faqat 1-yilda",
+    "2- va 3-yillarda teng darajada yaxshi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Poyabzal sexi 2012-yilda 20 mln, 2015-yilda 23 mln nominal foyda oldi. Narxlar 18% qimmatlashgan bo'lsa, 2015-yildagi real foyda taxminan qancha va 2012-yilga nisbatan qanday o'zgargan?",
+   "variantlar": [
+    "≈21 mln so'm, ko'paygan",
+    "≈19,5 mln so'm, kamaygan",
+    "≈25 mln so'm, ko'paygan",
+    "≈23 mln so'm, o'zgarmagan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Poyabzal sexi 2018-yilda 30 mln nominal foyda oldi, narxlar 2012-yilga nisbatan 30% qimmatlashgan. 2018-yildagi real foyda taxminan qancha va 2012-yildagi 20 mln so'mga nisbatan qanday o'zgargan?",
+   "variantlar": [
+    "≈25 mln so'm, kamaygan",
+    "≈21 mln so'm, o'zgarmagan",
+    "≈30 mln so'm, ko'paygan",
+    "≈23 mln so'm, ko'paygan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi hisob-kitoblarga asoslanib, poyabzal sexining real foydasi qaysi yilda haqiqatan ham oshgan deb ayta olamiz?",
+   "variantlar": [
+    "Faqat 2018-yilda",
+    "Ikkala yilda ham",
+    "Faqat 2015-yilda",
+    "Hech qaysi yilda"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Sherdor\" firmasi 30 mln xarajat bilan 7,5 mln foyda oldi (samaradorlik 25%). Boshqa firma 40 mln xarajat bilan 8 mln foyda olgan bo'lsa, qaysi firma faoliyati samaraliroq?",
+   "variantlar": [
+    "Sherdor firmasi",
+    "Boshqa firma",
+    "Ikkalasi teng",
+    "Aniqlab bo'lmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Firma yillik foydasi 40 mln so'm, samaradorligi 25% bo'lsa, uning yillik xarajatlari qancha bo'ladi?",
+   "variantlar": [
+    "170 mln so'm",
+    "140 mln so'm",
+    "160 mln so'm",
+    "150 mln so'm"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

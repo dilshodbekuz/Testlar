@@ -1,0 +1,187 @@
+41-dars. Amaliy mashg'ulot
+
+--- OSON ---
+
+1. Masalada tomoni a ga teng kvadrat ichiga nechta aylana chizilgan?
+A) Bitta
+B) Uchta
++C) Ikkita
+D) To'rtta
+
+2. Masalada kichik aylananing radiusi qaysi harf bilan belgilangan?
+A) a
+B) s
+C) PI
++D) r
+
+3. Masalada kvadratning tomoni qaysi harf bilan belgilangan?
+A) s
++B) a
+C) r
+D) n
+
+4. Blok-sxemada dastur ishlashining boshlanishi qaysi blok orqali ko'rsatiladi?
+A) Bajarish bloki
++B) Algoritmning boshlanishi bloki
+C) Kiritish bloki
+D) Chiqarish bloki
+
+5. Kiritish blokida qanday amal bajariladi?
+A) Dasturni yakunlash
+B) Formulalarni hisoblash
+C) Natijani ekranga chiqarish
++D) Qiymatlarni foydalanuvchidan kiritib olish
+
+6. a va r qiymatlarini kiritish uchun dastur kodida qaysi funksiyalar birgalikda ishlatilgan?
+A) float()
+B) print()
++C) int(input())
+D) range()
+
+7. Hisoblangan s natijasi qaysi buyruq yordamida ekranga chiqariladi?
+A) return s
++B) print(s)
+C) input(s)
+D) int(s)
+
+8. Bajarish blokida nechta o'zgaruvchi (formula) hisoblab chiqiladi?
+A) Uchta
++B) To'rtta
+C) Ikkita
+D) Beshta
+
+9. 7-amaliy topshiriqda qaysi jismning hajmini topish so'ralgan?
+A) Silindr
+B) Piramida
++C) Kub
+D) Shar
+
+10. 8-amaliy topshiriqda nechta sonning o'rta arifmetigini topish talab qilingan?
+A) Ikkita
+B) Uchta
++C) To'rtta
+D) Beshta
+
+--- O'RTACHA ---
+
+11. "r1=a/2" formulasi bajarish blokida nimani hisoblash uchun ishlatiladi?
++A) Katta (kvadratga ichki chizilgan) aylananing radiusini
+B) Bo'yalgan yuzani
+C) Kvadrat yuzini
+D) Kichik aylana radiusini
+
+12. "s1=PI*r1**2" formulasi natijasida qanday qiymat hisoblanadi?
++A) Katta aylana yuzi
+B) Kichik aylana yuzi
+C) Bo'yalgan qism yuzi
+D) Kvadrat yuzi
+
+13. "s2=PI*r**2" formulasi natijasida qanday qiymat hisoblanadi?
+A) Bo'yalgan qism yuzi
+B) Kvadrat yuzi
+C) Katta aylana yuzi
++D) Kichik aylana yuzi
+
+14. "s=s1-s2" formulasi masaladagi qaysi kattalikni ifodalaydi?
+A) Kvadrat yuzini
+B) Kichik aylana yuzini
++C) Ikki aylana orasidagi bo'yalgan yuzani
+D) Katta aylana radiusini
+
+15. 3-amaliy topshiriqda savatchaga solingan qoldiq olmalar sonini topish uchun qaysi amaldan foydalaniladi?
+A) Bo'lish (/)
++B) Qoldiqli bo'lish (%)
+C) Ayirish (-)
+D) Ko'paytirish (*)
+
+16. 5-amaliy topshiriqda avtobus necha kun yurishini aniqlashda asosan qaysi amal bajariladi?
+A) m va n ni ko'paytirish
++B) m ni n ga bo'lish
+C) m dan n ni ayirish
+D) n ni m ga qo'shish
+
+17. 9-amaliy topshiriqda bitta partaga ikkitadan ortiq o'quvchi o'tira olmasligini hisobga olib, o'quvchilar soni toq bo'lsa, parta sonini topishda natija qanday yaxlitlanadi?
+A) Har doim 0 ga teng bo'ladi
+B) Yaxlitlash shart emas
++C) Yuqoriga yaxlitlanadi
+D) Pastga yaxlitlanadi
+
+18. 4-amaliy topshiriqda sonning oxirgi ikki raqamini topish uchun qanday amal ishlatiladi (a - berilgan son)?
++A) a%100
+B) a/100
+C) a*100
+D) a//100
+
+19. 6-amaliy topshiriqda chumoli yo'lini metr, santimetr va millimetrga ajratishda asosan qaysi amallardan foydalaniladi?
+A) Faqat ko'paytirish (*)
++B) Butun bo'lish (//) va qoldiqli bo'lish (%)
+C) Faqat ayirish (-)
+D) Faqat qo'shish (+)
+
+20. 2-amaliy topshiriqda kiritilgan sondan oldin va keyin keluvchi sonlarni topish uchun unga qanday amallar qo'llaniladi?
+A) 0 ga teng qilish
+B) 10 ga ko'paytirish
++C) 1 ni ayirish va 1 ni qo'shish
+D) 2 ga ko'paytirish va bo'lish
+
+--- QIYIN ---
+
+21. Agar a=10, r=3 bo'lsa, r1 (katta aylananing radiusi) nechaga teng bo'ladi?
++A) 5
+B) 7
+C) 10
+D) 3
+
+22. a=10, r=3, PI=3.14 bo'lsa, s1 (katta aylana yuzi) taxminan nechaga teng bo'ladi?
++A) 78.5
+B) 50.24
+C) 31.4
+D) 28.26
+
+23. a=10, r=3, PI=3.14 bo'lsa, s2 (kichik aylana yuzi) taxminan nechaga teng bo'ladi?
++A) 28.26
+B) 50.24
+C) 9.42
+D) 78.5
+
+24. a=10, r=3, PI=3.14 bo'lsa, bo'yalgan yuza s taxminan nechaga teng bo'ladi?
+A) 78.5
++B) 50.24
+C) 28.26
+D) 106.76
+
+25. 3-amaliy topshiriqda n=5 o'quvchi, k=23 olma bo'lsa, har bir o'quvchi nechtadan olma oladi va savatchaga nechta olma qoladi?
++A) 4 tadan, 3 ta qoladi
+B) 3 tadan, 4 ta qoladi
+C) 5 tadan, 0 ta qoladi
+D) 4 tadan, 2 ta qoladi
+
+26. 5-amaliy topshiriqda avtobus har kuni n=250 km yursa, m=1000 km masofani bosib o'tish uchun necha kun kerak bo'ladi?
+A) 6 kun
+B) 3 kun
++C) 4 kun
+D) 5 kun
+
+27. 9-amaliy topshiriqda uchta sinfda mos ravishda 25, 30 va 28 nafar o'quvchi bo'lsa, bitta partaga 2 tadan o'tirgan holda jami nechta parta kerak bo'ladi?
++A) 42
+B) 40
+C) 41
+D) 43
+
+28. Chumoli 45786 mm yo'l bosib o'tgan bo'lsa, bu masofa necha metr, santimetr va millimetrni tashkil qiladi?
++A) 45 m 78 sm 6 mm
+B) 46 m 78 sm 6 mm
+C) 44 m 78 sm 6 mm
+D) 45 m 87 sm 6 mm
+
+29. Tomoni a=4 ga teng kubning hajmi qancha bo'ladi?
+A) 48
+B) 12
+C) 16
++D) 64
+
+30. 5238 soni kiritilgan bo'lsa, uning oxirgi ikki raqami (5238%100) qanday son bo'ladi?
+A) 23
++B) 38
+C) 52
+D) 8

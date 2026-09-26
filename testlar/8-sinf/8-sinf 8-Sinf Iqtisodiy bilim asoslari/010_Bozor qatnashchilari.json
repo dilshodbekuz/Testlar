@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Iqtisodiy bilim asoslari",
+ "mavzu": "Bozor qatnashchilari",
+ "savollar": [
+  {
+   "savol": "Bozorning asosiy uchta qatnashchisi kimlar?",
+   "variantlar": [
+    "Fermer, ishchi, direktor",
+    "Davlat, ishlab chiqaruvchilar, iste'molchilar",
+    "Sotuvchi, xaridor, vositachi",
+    "Bank, birja, sug'urta kompaniyasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tovar va xizmatlarni yaratadigan korxonalar bozor iqtisodiyotida qanday nomlanadi?",
+   "variantlar": [
+    "Iste'molchilar",
+    "Ishlab chiqaruvchilar",
+    "Davlat idoralari",
+    "Bozor infratuzilmalari"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yaratilgan tovar va xizmatlarni bevosita iste'mol qiluvchi yoki ulardan foydalanuvchilar qanday ataladi?",
+   "variantlar": [
+    "Iste'molchilar",
+    "Davlat",
+    "Ishlab chiqaruvchilar",
+    "Vositachilar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Iqtisodiyot fanida oila haqida gapirilganda qanday ibora ishlatiladi?",
+   "variantlar": [
+    "Uy xo'jaligi",
+    "Davlat mulki",
+    "Xususiy tadbirkor",
+    "Kichik korxona"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bozor vazifalarini amalga oshirishda bevosita qatnashmasdan, unga yordam beruvchi, xizmat ko'rsatuvchi korxona, tashkilot va muassasalar qanday ataladi?",
+   "variantlar": [
+    "Iste'molchilar",
+    "Bozor infratuzilmalari",
+    "Bozor qatnashchilari",
+    "Ishlab chiqaruvchilar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bozor sharoitidagi tovar-pul munosabatlarining eng sodda formulasi qanday?",
+   "variantlar": [
+    "XARIDOR — PUL — TOVAR — SOTUVCHI",
+    "SOTUVCHI — TOVAR — PUL — XARIDOR",
+    "PUL — SOTUVCHI — XARIDOR — TOVAR",
+    "TOVAR — SOTUVCHI — XARIDOR — PUL"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bozorda davlat, birinchi navbatda, qanday sifatda alohida o'rin tutadi?",
+   "variantlar": [
+    "Tabiiy resurslar egasi sifatida",
+    "Bank xodimi sifatida",
+    "Ishchi kuchi sifatida",
+    "Vositachi sifatida"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Davlat aholi va korxonalarga ko'rsatgan xizmatlari evaziga qanday to'lov turi orqali haq undiradi?",
+   "variantlar": [
+    "Foiz to'lovi",
+    "Dividend",
+    "Soliqlar",
+    "Ijara haqi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri bozor infratuzilmalariga misol bo'la oladi?",
+   "variantlar": [
+    "Un ishlab chiqaruvchi korxona",
+    "Davlat musiqa maktabi",
+    "Fermer xo'jaligi",
+    "Bank"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bozorning asosiy vazifasi nimadan iborat?",
+   "variantlar": [
+    "Davlat byudjetini shakllantirish",
+    "Ishchilarni ishga yollash",
+    "Soliq yig'ish",
+    "Sotuvchi bilan xaridor o'rtasidagi oldi-sotdi munosabatlarini tashkil qilish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Un ishlab chiqaruvchi korxona bozordan xaridor sifatida asosan nimalarni sotib oladi?",
+   "variantlar": [
+    "Faqat soliqni",
+    "Bino, tegirmon uskunalari, bug'doy va ishchi kuchini",
+    "Faqat pulni",
+    "Un va nonni"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Un ishlab chiqaruvchi korxona bozorda sotuvchi sifatida nimani sotadi?",
+   "variantlar": [
+    "Ishchi kuchini",
+    "Tegirmon uskunalarini",
+    "Undan tayyorlangan mahsulot — unni",
+    "Bug'doyni"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Uy xo'jaliklari bozorda sotuvchi sifatida, asosan, nimani sotadi?",
+   "variantlar": [
+    "Ishlab chiqarish vositalarini",
+    "O'z ishchi kuchi va mulkini",
+    "Iste'mol tovarlarini",
+    "Davlat resurslarini"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Uy xo'jaliklari bozordan xaridor sifatida nimalarni sotib oladi?",
+   "variantlar": [
+    "Xizmatlar, iste'mol tovarlari va turli mulklarni",
+    "Tabiiy resurslarni",
+    "Ishchi kuchini",
+    "Davlat idoralarining binolarini"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ish haqi odamlarning bozorda qaysi sifatda ishtirok etganligi evaziga to'lanadi?",
+   "variantlar": [
+    "Vositachi sifatida",
+    "Davlat vakili sifatida",
+    "Xaridor sifatida",
+    "Sotuvchi (o'z ishchi kuchini sotuvchi) sifatida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Davlat o'z korxonalari ehtiyoji uchun bozordan xaridor sifatida nimalarni sotib oladi?",
+   "variantlar": [
+    "Tovarlar, xizmatlar va ishchi kuchini",
+    "Faqat tabiiy resurslarni",
+    "Faqat pulni",
+    "Faqat qimmatli qog'ozlarni"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Davlat bozorda sotuvchi sifatida, asosan, nimani sotadi?",
+   "variantlar": [
+    "Xususiy korxona mahsulotlarini",
+    "Tabiiy resurslar, davlat xizmatlari va davlat mulkini",
+    "Uy xo'jaligi mahsulotlarini",
+    "Ishchi kuchini"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, aholiga ko'rinishda bepul bo'lgan tibbiy xizmat aslida qanday to'lanadi?",
+   "variantlar": [
+    "Xususiy sug'urta orqali",
+    "Bepul, hech qanday to'lov yo'q",
+    "Bank krediti orqali",
+    "Daromaddan chegirib qolinadigan soliq orqali"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Chizmaga ko'ra, \"resurslar bozori\"da, asosan, qanday obyektlar sotiladi?",
+   "variantlar": [
+    "Faqat davlat xizmatlari",
+    "Faqat qimmatli qog'ozlar",
+    "Tayyor iste'mol tovarlari",
+    "Ishlab chiqarish resurslari (ishchi kuchi, tabiiy boyliklar va h.k.)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Chizmaga ko'ra, \"tovarlar va xizmatlar bozori\"da kimlar o'rtasida almashinuv sodir bo'ladi?",
+   "variantlar": [
+    "Firmalar bilan uy xo'jaliklari (va davlat) o'rtasida",
+    "Faqat ikkita firma o'rtasida",
+    "Faqat ikkita uy xo'jaligi o'rtasida",
+    "Faqat davlat va bank o'rtasida"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matndagi un ishlab chiqaruvchi korxona misolidan kelib chiqib, nima uchun bitta korxona bozorda ham xaridor, ham sotuvchi sifatida ishtirok etadi, deb hisoblash mumkin?",
+   "variantlar": [
+    "Chunki u soliq to'lamaydi",
+    "Chunki u faqat davlatdan yordam oladi",
+    "Chunki u faqat ishchi kuchi sotadi",
+    "Chunki u ishlab chiqarish uchun resurs sotib olib, tayyor mahsulotni sotadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Iqtisodiyotdagi resurslar, tovarlar va pul mablag'lari aylanishi mexanizmiga ko'ra, quyidagi ketma-ketliklardan qaysi biri to'g'ri?",
+   "variantlar": [
+    "Firmalar resurs sotadi → davlat pul to'laydi → uy xo'jaliklari soliq to'laydi",
+    "Uy xo'jaliklari tovar sotadi → firmalar resurs sotib oladi → davlat pul beradi",
+    "Davlat resurs sotib oladi → uy xo'jaliklari soliq to'laydi → firmalar tovar ishlab chiqaradi",
+    "Uy xo'jaliklari resurs sotadi → firmalar/davlat pul to'laydi → uy xo'jaliklari shu pulga tovar sotib oladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Banklar, sug'urta kompaniyalari va birjalar bozor qatnashchisi (davlat, ishlab chiqaruvchi, iste'molchi) emas, balki bozor infratuzilmasi hisoblanadi. Buning sababi nimada?",
+   "variantlar": [
+    "Ular soliq to'lamaydi",
+    "Ular bozor vazifalarini amalga oshirishda bevosita qatnashmasdan, unga yordam beradi",
+    "Ular tovar ishlab chiqarmaydi va xizmat ko'rsatmaydi",
+    "Ular faqat davlatga tegishli"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Davlat, ishlab chiqaruvchilar va iste'molchilarning umumiy o'xshash xususiyati nimada?",
+   "variantlar": [
+    "Barchasi soliq to'lamaydi",
+    "Barchasi faqat resurslar bozorida qatnashadi",
+    "Barchasi bozorda ham xaridor, ham sotuvchi sifatida ishtirok etishi mumkin",
+    "Barchasi faqat sotuvchi sifatida ishtirok etadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "SOTUVCHI—TOVAR—PUL—XARIDOR formulasiga asoslanib, agar bir bitimda un ishlab chiqaruvchi korxona SOTUVCHI bo'lsa, u qanday obyektni TOVAR sifatida taklif qiladi va XARIDOR kim bo'lishi mumkin?",
+   "variantlar": [
+    "TOVAR — un, XARIDOR — un sotib oluvchi iste'molchi yoki do'kon",
+    "TOVAR — pul, XARIDOR — bank",
+    "TOVAR — ishchi kuchi, XARIDOR — davlat",
+    "TOVAR — bug'doy, XARIDOR — dehqon"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda keltirilgan chizmaga ko'ra, uy xo'jaliklari — davlat — firmalar o'rtasidagi pul va resurslar aylanishi haqida qanday xulosa chiqarish to'g'ri?",
+   "variantlar": [
+    "Aylanish faqat bir marta sodir bo'ladi va tugaydi",
+    "Faqat uy xo'jaliklari pul oladi, davlat va firmalar hech narsa olmaydi",
+    "Faqat davlat pul oladi, boshqalar hech narsa olmaydi",
+    "Resurslar, tovarlar, xizmatlar va pul mablag'lari muntazam ravishda, to'xtovsiz aylanib turadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi ma'lumotga ko'ra, savdo uylari va bojxona idoralari nima uchun bozorning to'rtinchi qatnashchisi sifatida emas, balki infratuzilma sifatida ko'rib chiqiladi?",
+   "variantlar": [
+    "Ular faqat chet elda joylashgan",
+    "Ular bozor jarayonini bevosita amalga oshirmay, unga xizmat ko'rsatib yordam beradi",
+    "Ular soliq to'laydi",
+    "Ular tovar ishlab chiqarmaydi, faqat davlatga tegishli"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishlab chiqaruvchi korxona va davlatning bozordagi xaridorlik faoliyatidagi umumiy jihatini toping.",
+   "variantlar": [
+    "Ikkalasi ham soliq to'lamaydi",
+    "Ikkalasi ham o'z ehtiyojlari uchun resurslar, tovarlar yoki xizmatlarni bozordan sotib oladi",
+    "Ikkalasi ham faqat ishchi kuchi sotadi",
+    "Ikkalasi ham faqat pul sotib oladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Chizmadagi \"resurslar bozori\" va \"tovarlar va xizmatlar bozori\" o'rtasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Birinchisida faqat pul, ikkinchisida faqat tovar sotiladi",
+    "Ikkalasi ham faqat davlatga tegishli",
+    "Birinchisida ishlab chiqarish uchun zarur resurslar, ikkinchisida tayyor mahsulot va xizmatlar sotiladi",
+    "Ikkalasida ham bir xil narsa sotiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda oila \"uy xo'jaligi\" deb atalishining sababi sifatida quyidagilardan qaysi biri to'g'ri xulosa bo'ladi?",
+   "variantlar": [
+    "Chunki oila soliq to'lamaydi",
+    "Chunki oilaning davlatga tegishli mulki bor",
+    "Chunki har bir oilaning o'z xo'jaligi, ya'ni o'zining kichik iqtisodiyoti mavjud",
+    "Chunki oila faqat sotuvchi sifatida ishtirok etadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+5–6-darslar. Mantiqiy sxemalar
+
+--- OSON ---
+
+1. Mantiq algebrasi qanday fanning bo'limi hisoblanadi?
+A) Fizika
+B) Kimyo
+C) Biologiya
++D) Matematika
+
+2. Diskret qayta ishlovchi qurilma ikkilik signallarni qayta ishlab, mantiqiy amal natijasini chiqarsa, u nima deb ataladi?
+A) Protsessor
+B) Xotira qurilmasi
++C) Mantiqiy element
+D) Registr
+
+3. Mantiqiy o'zgaruvchi qanday qiymatlarni qabul qiladi?
++A) 0 va 1
+B) -1 va 1
+C) 0 va 10
+D) 1 va 2
+
+4. Mantiqiy funksiya argumentlari qanday qiymatlarga ega bo'lishi mumkin?
+A) Faqat musbat sonlar
++B) Faqat 0 va 1
+C) Faqat harflar
+D) Har qanday butun son
+
+5. Konyunktor mantiqiy elementi qaysi amalni bajaradi?
+A) Solishtirish
+B) Rad etish
++C) Mantiqiy ko'paytirish
+D) Mantiqiy qo'shish
+
+6. Dizyunktor mantiqiy elementi qaysi amalni bajaradi?
+A) Rad etish
++B) Mantiqiy qo'shish
+C) Ayirish
+D) Mantiqiy ko'paytirish
+
+7. Invertor mantiqiy elementi qaysi amalni bajaradi?
+A) Ko'paytirish va qo'shish
+B) Mantiqiy qo'shish
+C) Mantiqiy ko'paytirish
++D) Rad etish (inkor)
+
+8. 'VA' mantiqiy elementi xorijiy sxemalarda qisqacha qanday nomlanadi?
+A) OR
+B) XOR
++C) AND
+D) NOT
+
+9. 'YOKI' mantiqiy elementi xorijiy sxemalarda qisqacha qanday nomlanadi?
+A) AND
++B) OR
+C) NOT
+D) NAND
+
+10. 'EMAS' mantiqiy elementi xorijiy sxemalarda qisqacha qanday nomlanadi?
+A) AND
+B) OR
++C) NOT
+D) XOR
+
+--- O'RTACHA ---
+
+11. 'VA' mantiqiy elementining rostlik jadvalida A=1, B=1 bo'lganda chiquvchi signal nechaga teng?
+A) 2
++B) 1
+C) 0
+D) Aniqlanmagan
+
+12. 'VA' mantiqiy elementida A=0, B=1 bo'lganda chiquvchi signal nechaga teng?
++A) 0
+B) Aniqlanmagan
+C) 1
+D) 2
+
+13. 'YOKI' mantiqiy elementida A=1, B=0 bo'lganda chiquvchi signal nechaga teng?
++A) 1
+B) 2
+C) 0
+D) Aniqlanmagan
+
+14. 'YOKI' mantiqiy elementida A=0, B=0 bo'lganda chiquvchi signal nechaga teng?
+A) 1
+B) 2
++C) 0
+D) Noaniq
+
+15. Invertor elementida kiruvchi signal A=1 bo'lsa, chiquvchi signal (A emas) nechaga teng bo'ladi?
+A) O'zgarmaydi
+B) 2
+C) 1
++D) 0
+
+16. Invertor elementida kiruvchi signal A=0 bo'lsa, chiquvchi signal nechaga teng bo'ladi?
+A) 0
+B) O'zgarmaydi
+C) 2
++D) 1
+
+17. 'VA' va 'YOKI' mantiqiy funksiyalarining bajarilishi uchun kiruvchi signallar soni kamida nechta bo'lishi zarur?
+A) 4
+B) 1
++C) 2
+D) 3
+
+18. Konyunktor sxemasida nechta chiquvchi signal mavjud?
+A) 2
+B) 3
+C) 0
++D) 1
+
+19. Mantiqiy sxema chizishning birinchi qadami nima hisoblanadi?
+A) Amallar tartibini ulash
+B) Elementlarni ulash
+C) Chiquvchi signalni hisoblash
++D) Mantiqiy o'zgaruvchilar sonini aniqlash
+
+20. 1-misoldagi 'A & B ∨ ⏋(B ∨ A)' ifodasida nechta mantiqiy o'zgaruvchi ishlatilgan?
+A) 4
++B) 2
+C) 3
+D) 1
+
+--- QIYIN ---
+
+21. 1-misolda A=1, B=0 bo'lganda ifodaning chiquvchi signal qiymati nechaga teng?
+A) Aniqlanmagan
+B) 1
++C) 0
+D) 2
+
+22. 1-misoldagi ifodada A=0, B=0 qiymatlari uchun chiquvchi signal nechaga teng bo'ladi?
+A) 2
++B) 1
+C) Aniqlanmagan
+D) 0
+
+23. 1-misoldagi ifodada A=1, B=1 qiymatlari uchun ifoda natijasi nechaga teng bo'ladi?
++A) 1
+B) 2
+C) Noaniq
+D) 0
+
+24. 1-misoldagi ifodada A=0, B=1 qiymatlari uchun ifoda natijasi nechaga teng bo'ladi?
+A) 2
+B) 1
+C) Noaniq
++D) 0
+
+25. 1-misoldagi 'A & B ∨ ⏋(B ∨ A)' ifodasida jami nechta mantiqiy amal ishlatilgan?
+A) 2
+B) 5
++C) 4
+D) 3
+
+26. 1-misoldagi ifodada bajarilish tartibiga ko'ra birinchi bo'lib qaysi amal bajariladi?
++A) B va A ning dizyunksiyasi (qavs ichida)
+B) A va B ning konyunksiyasi
+C) Inkor amali natijasi ustida konyunksiya
+D) Tashqi dizyunksiya
+
+27. 1-misoldagi ifodada bajarilish tartibiga ko'ra oxirgi (to'rtinchi) bo'lib qaysi amal bajariladi?
++A) Tashqi dizyunksiya
+B) A va B ning konyunksiyasi
+C) Inkor amali
+D) Ichki dizyunksiya (B ∨ A)
+
+28. Agar A va B qiymatlari bir xil bo'lsa (ya'ni A=B), 1-misoldagi ifodaning natijasi doim qanday bo'ladi?
+A) Har xil bo'ladi
+B) Doim 0
++C) Doim 1
+D) A ga bog'liq bo'lmaydi va noaniq
+
+29. Agar A va B qiymatlari har xil bo'lsa (A≠B), 1-misoldagi ifodaning natijasi doim qanday bo'ladi?
+A) Har doim o'zgaradi
+B) Doim 1
++C) Doim 0
+D) Aniqlanmagan
+
+30. Mantiqiy sxema chizish ketma-ketligida mantiqiy elementlarni bir-biri bilan ulash nechanchi qadamda amalga oshiriladi?
++A) To'rtinchi
+B) Ikkinchi
+C) Uchinchi
+D) Birinchi

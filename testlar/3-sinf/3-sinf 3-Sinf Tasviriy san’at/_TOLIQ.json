@@ -2,336 +2,336 @@
  {
   "sinf": "3-sinf",
   "kitob": "3-sinf 3-Sinf Tasviriy san’at",
-  "mavzu": "Rasm ishlash uchun joy hozirlash va narsalarning o'lchamini aniqlash",
+  "mavzu": "RASM ISHLASH UCHUN JOY HOZIRLASH VA NARSALARNING O'LCHAMINI ANIQLASH",
   "savollar": [
    {
-    "savol": "Rasm ishlashda yorug'lik nuri qaysi tomondan tushishi kerak?",
+    "savol": "Rasm ishlashda yorug'lik nuri qayerdan tushishi kerak?",
     "variantlar": [
-     "yuqoridan",
-     "o'ng tomondan",
-     "chap tomondan",
-     "pastdan"
-    ],
-    "togri": 2,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Rasm ishlash uchun joy hozirlash nima?",
-    "variantlar": [
-     "o'tirishning pozitsiyasi va yorug'likni to'g'ri qilish",
-     "faqat stol tanlash",
-     "faqat qalam tanlab olish",
-     "faqat rang tanlash"
-    ],
-    "togri": 0,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Narsalarning o'lchamini aniqlash nima?",
-    "variantlar": [
-     "narsalarni ranglash",
-     "narsalarni ko'rish",
-     "narsalarni o'lchash",
-     "narsalarni chizish"
-    ],
-    "togri": 2,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Rasm ishlashda siz nima kuzatishingiz kerak?",
-    "variantlar": [
-     "stol",
-     "qalam",
-     "natura (narsalarni)",
-     "o'tirgan joy"
-    ],
-    "togri": 2,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "O'tirishning to'g'ri pozitsiyasi nima uchun muhim?",
-    "variantlar": [
-     "sog'lig'ini asrash va rasm sifatini yaxshi qilish uchun",
-     "rasm chizish uchun",
-     "stol tanlash uchun",
-     "vaqt o'tkazish uchun"
-    ],
-    "togri": 0,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Rasm ishlash uchun joy tayyorlashda qaysi faktor muhim?",
-    "variantlar": [
-     "yorug'lik va o'tirishning pozitsiyasi",
-     "faqat stol",
-     "faqat qalam",
-     "faqat rang"
-    ],
-    "togri": 0,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Yorug'lik nuri rasm sifatiga ta'sir qiladimi?",
-    "variantlar": [
-     "faqat stol tayyorlashga ta'sir qiladi",
-     "faqat ko'z yoqadi",
-     "yo'q, ta'sir qilmaydi",
-     "ha, ta'sir qiladi"
-    ],
-    "togri": 3,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Rasm ishlashda asosiy qoida nima?",
-    "variantlar": [
-     "faqat stol tanlash",
-     "shunday o'tiringki va yorug'lik chap tomondan tushsin",
-     "faqat shunday o'tiringki",
-     "faqat yorug'lik chap tomondan tushsin"
+     "Yuqoridan",
+     "Chap tomondan",
+     "Pastdan",
+     "O'ng tomondan"
     ],
     "togri": 1,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Narsalarning o'lchamini bilish rasm ishlashda nima uchun zarur?",
+    "savol": "Bu darsda qaysi manzaralarni o'rganamiz?",
     "variantlar": [
-     "vaqt o'tkazish uchun",
-     "o'tindi qilish uchun",
-     "kitob o'qish uchun",
-     "rasm chizmasini to'g'ri va aniq qilish uchun"
+     "Bahor va qish",
+     "Bahor va yoz",
+     "Qish va bahor",
+     "Yoz va kuz"
     ],
     "togri": 3,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Rasm ishlash joyini tayyorlashda birinchi nima qilish kerak?",
+    "savol": "Haykal nima?",
     "variantlar": [
-     "faqat rang tanlash",
-     "faqat qalam tanlash",
-     "faqat stol tanlash",
-     "o'tirishning pozitsiyasini va yorug'likni to'g'ri qilish"
+     "Uch o'lchamli san'at asari",
+     "Tekis sirtda rasm",
+     "Qog'ozda chizilgan shakl",
+     "Naqsh va ornament"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Relyef nima?",
+    "variantlar": [
+     "Rang kombinatsiyasi",
+     "Tekis sirtda naqsh",
+     "Foydali model",
+     "Uch o'lchamli narsalar"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Kontrast ranglar nima?",
+    "variantlar": [
+     "Faqat qorong'i ranglar",
+     "Faqat yorug' ranglar",
+     "Bir xil ranglar",
+     "O'zaro qarama-qarshi ranglar"
     ],
     "togri": 3,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Nima uchun yorug'lik nuri chap tomondan tushishi kerak?",
+    "savol": "Naturaga qarab rasm ishlash nima?",
     "variantlar": [
-     "ko'rish aniqligini va rasm sifatini yaxshi qilish uchun",
-     "qalami tanlash uchun",
-     "o'tirishni juda to'g'ri qilish uchun",
-     "stol joyini aniqlash uchun"
+     "Qayta qayta ishlash",
+     "Xayol bilan rasm ishlash",
+     "Haqiqiy narsalarni kuzatib rasm ishlash",
+     "Kitobdan nusxa olish"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Rasm ishlashda to'g'ri o'tirish qanday bo'lishi kerak?",
+    "variantlar": [
+     "To'g'ri",
+     "Orqasiga yashalib",
+     "Burilgan",
+     "Yotib"
     ],
     "togri": 0,
-    "qiyinlik": "o'rtacha"
+    "qiyinlik": "oson"
    },
    {
-    "savol": "O'tirishning pozitsiyasini to'g'ri qilish uchun nima qilsh kerak?",
+    "savol": "Rasm ishlashda joyni tayyorlashning asosiy maqsadi nima?",
     "variantlar": [
-     "faqat qol harakat qilish",
-     "jism holatini va belini to'g'ri qilish",
-     "faqat ko'zni yoqni",
-     "faqat stol tanlash"
-    ],
-    "togri": 1,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Rasm ishlash uchun joy hozirlashda qaysi kombinatsiya eng muhim?",
-    "variantlar": [
-     "o'tirishning pozitsiyasi + yorug'lik nuri",
-     "rang + stol",
-     "ko'z + qol",
-     "qalam + stol"
-    ],
-    "togri": 0,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Narsalarning o'lchamini aniqlashda qaysi usul to'g'ri?",
-    "variantlar": [
-     "faqat qol bilan",
-     "o'lchov asboblari va ko'z bilan",
-     "faqat ko'z bilan ko'rish",
-     "faqat ranglash bilan"
-    ],
-    "togri": 1,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Rasm ishlashda yorug'lik nuri va o'tirishning pozitsiyasi birgalikda nima ta'sir qiladi?",
-    "variantlar": [
-     "faqat ko'z yoqni",
-     "stol tanlashni",
-     "qalam rangi",
-     "rasm sifatini va ko'rish aniqligini yaxshi qiladi"
+     "Cho'ntak saqlash",
+     "Bezak sifatida",
+     "Vaqt o'tkazish",
+     "Sifatli va toza ishlash uchun sharoit yaratish"
     ],
     "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Rassom kim?",
+    "variantlar": [
+     "Tekis sirtda rasm qiladigan san'at ustas",
+     "Rang ishlab chiquvchi",
+     "Haykal qiladigan odam",
+     "Qishloq xo'jaligi ishchisi"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "San'at ustalari nima qiladi?",
+    "variantlar": [
+     "Rasm, haykal, relyef va boshqa san'at asarlarini tuza va ishlaydigan",
+     "Taluqot ta'lim beradigan",
+     "Faqat haykal yasaydigan",
+     "Faqat rasm ishlaydigan"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Nima uchun rasm ishlashda yorug'lik chap tomondan tushishi kerak?",
+    "variantlar": [
+     "Qug'in bo'lmaslik uchun",
+     "Soyalarni to'g'ri ko'rish va rasmmiz qora bo'lmaslik uchun",
+     "Bezak sifatida",
+     "Rasmni tezda qilish uchun"
+    ],
+    "togri": 1,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Rasm ishlash uchun joy tayyorlashda zarur bo'lgan shart-sharoitlar qandaylar?",
+    "savol": "Yoz va kuz manzaralarida rang tanlashda asosiy farq nima?",
     "variantlar": [
-     "faqat yorug'lik",
-     "faqat stol",
-     "o'tirishning pozitsiyasi + yorug'lik nuri + tozalik",
-     "faqat o'tirishning pozitsiyasi"
+     "Yozda hammasi qora bo'ladi",
+     "Yozda issiq ranglar, kuzda sovuq ranglar ishlatilamiz",
+     "Farq yo'q",
+     "Kuzda hammasi oq bo'ladi"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Kontrast ranglardan foydalanish natijasida rasm qanday ko'rinadi?",
+    "variantlar": [
+     "Juda qora",
+     "Oddiy va sokin",
+     "Yanada jonli va ta'sirchan",
+     "Shaffof"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Narsalarning o'lchamini to'g'ri bilish rasm chizmasiga qanday ta'sir qiladi?",
+    "savol": "Haykal va relyef o'rtasida asosiy farq nima?",
     "variantlar": [
-     "hech qanday ta'sir qilmaydi",
-     "ko'z so'ziqiladi",
-     "chizmasining to'g'ri proporsiyasini ta'minlaydi",
-     "chizmasini tezroq chiziladi"
-    ],
-    "togri": 2,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "O'tirishning to'g'ri pozitsiyasining ahamiyati nima?",
-    "variantlar": [
-     "rasm chizish tezlashadi",
-     "sog'lig'ini asrash va rasm sifatini yaxshi qiladi",
-     "ko'z bosimini kamaytiradi",
-     "stol tayyorlashda yordam beradi"
-    ],
-    "togri": 1,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Rasm ishlash joyini tayyorlashda hisobga olinishi kerak bo'lgan faktorlar qandaylar?",
-    "variantlar": [
-     "faqat qalam",
-     "faqat rang",
-     "faqat stol",
-     "o'tirishning pozitsiyasi, yorug'lik nuri, narsalar o'lchamlari"
+     "Relyef daha murakkab",
+     "Haykal yanada qimmat",
+     "Haykal qog'ozdan yasaladi",
+     "Haykal to'liq uch o'lchamli, relyef tekis sirtda"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Rasm ishlashda asosiy shart-sharoitlarning to'liq to'plami nima?",
+    "savol": "Naturaga qarab rasm ishlashda avval qanday qadamni qilish kerak?",
     "variantlar": [
-     "faqat rang + stol",
-     "yorug'lik chap tomondan + qalam",
-     "shunday o'tiringki + yorug'lik chap tomondan + narsalarning o'lchamini bilish",
-     "shunday o'tiringki + stol"
+     "Kuzatish, o'lcham va narsalarni aniqlash",
+     "Darhol rang qo'llash",
+     "Daftarni ochish",
+     "Qalam bilan o'ritish"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Rassom va haykaltar o'rtasida nima farq bor?",
+    "variantlar": [
+     "Rassom tekis sirtda, haykaltar uch o'lchamli ishlaydi",
+     "Rassom faqat qalam bilan ishlaydi",
+     "Ularning ishi bir xil",
+     "Haykaltar faqat odam"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "San'at ustalari qaysi san'at turlarini o'rgatadi?",
+    "variantlar": [
+     "Rasm, haykal, relyef va turlicha naqshlarni",
+     "Faqat rasm",
+     "Faqat haykal",
+     "Matematikani"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "To'rtburchak va yo'lsimon shakllar naqshida nima farq bor?",
+    "variantlar": [
+     "Faqat rangda farq",
+     "To'rtburchak murakkab",
+     "Yo'lsimon bir yo'nalishda, to'rtburchak turlicha yo'nalishda chiziqlar talab qiladi",
+     "Farq yo'q"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Agar yorug'lik o'ng tomondan tushmsa rasm sifatiga nima bo'ladi?",
+    "savol": "Rasm ishlashda to'g'ri joyni tayyorlash natijasida nima bo'ladi?",
     "variantlar": [
-     "ko'z yoqni boz bo'ladi",
-     "soya tushadi va rasm aniq ko'rinmaydi",
-     "rasm sifati yaxshi bo'ladi",
-     "hech narsa bo'lmaydi"
-    ],
-    "togri": 1,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Rasm ishlash uchun joy hozirlash va o'tirishning pozitsiyasi qanday bog'langan?",
-    "variantlar": [
-     "faqat o'tirishning pozitsiyasi muhim",
-     "bog'lanish yo'q",
-     "faqat joy muhim",
-     "ikkalasi ham rasm sifatini yaxshi qiladi va birga ishlaydi"
-    ],
-    "togri": 3,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Narsalarning o'lchamini to'g'ri aniqlash rasm ishlashda qanday ahamiyatga ega?",
-    "variantlar": [
-     "rasm chizmasining aniqligini va proporsiyasini ta'minlash",
-     "ko'z yoqni uchun",
-     "stol tanlash uchun",
-     "vaqt o'tkazish uchun"
+     "Sifatli va toza rasm qilish imkoniyati",
+     "Rasm qora bo'ladi",
+     "Qalam toshlanadi",
+     "Vaqt sarflash"
     ],
     "togri": 0,
-    "qiyinlik": "qiyin"
+    "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Rasm ishlashda yorug'lik nuri va o'tirishning pozitsiyasi birgalikda qanday muhim?",
+    "savol": "Narsalarning o'lchamini aniqlash uchun naturaga qarab rasm qilishda nima qilinadi?",
     "variantlar": [
-     "kitob o'qish uchun",
-     "rasm sifatini va ko'rish aniqligini juda yaxshi qiladi",
-     "hech qanday muhim emas",
-     "faqat ko'z yoqni uchun"
-    ],
-    "togri": 1,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Rasm ishlash uchun joy tayyorlashda qaysi faktorlar birgalikda eng muhim?",
-    "variantlar": [
-     "faqat qalam",
-     "faqat rang va stol",
-     "faqat stol",
-     "o'tirishning pozitsiyasi, yorug'lik nuri, joy toza bo'lishi, rasm sifatini ta'minlash uchun"
+     "Qalam bilan o'ritish",
+     "Yo'lchoq ishlatish",
+     "Kalkulyator bilan hisoblash",
+     "Naqsh bilan o'lchamni tekshirib taqqoslash"
     ],
     "togri": 3,
-    "qiyinlik": "qiyin"
+    "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "O'tirishning pozitsiyasini to'g'ri qilish uchun qanday kompleks shart-sharoitlar zarur?",
+    "savol": "Rasm ishlashda yorug'lik, to'g'ri o'tirish va rang tanlashning barchasi birga qo'llanilsa, natija nima bo'ladi?",
     "variantlar": [
-     "faqat stol tanlash",
-     "jism holati, bel pozitsiyasi, oyoq joylashtirishi",
-     "faqat oyoq",
-     "faqat ko'rish"
-    ],
-    "togri": 1,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Narsalarning o'lchamini to'g'ri bilish va o'tirishning pozitsiyasi qanday birgalikda ta'sir qiladi?",
-    "variantlar": [
-     "hech qanday ta'sir qilmaydi",
-     "faqat stol tanlashga ta'sir qiladi",
-     "rasm chizmasining tabiiyligini ta'minlaydi",
-     "faqat ko'z sog'lig'iga ta'sir qiladi"
+     "Rasm sifatsiz ko'rinadi",
+     "Rasm faqat qoroni ko'rinadi",
+     "Sifatli va o'qilishi oson rasm olamiz",
+     "Hech nima bo'lmaydi"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Rasm ishlash uchun joy hozirlashning to'liq jarayonida qaysi qadam-bajarilishlar kerak?",
+    "savol": "Agar kontrast ranglarni ishlatmasdan to'z ranglarni qo'llasak, rasm qanday ko'rinadi?",
     "variantlar": [
-     "o'tirishning pozitsiyasini to'g'ri qilish, yorug'likni to'g'ri joylashtirish, narsalarni to'g'ri joylash",
-     "faqat rang tanlash",
-     "faqat qalam tanlab olish",
-     "faqat stol tanlash"
+     "Yanada yaxshi",
+     "Jonli va jingalak",
+     "O'ta yorug'",
+     "Oddiy va sokin"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Kontrast ranglarni naturada to'g'ri topib rasmga qo'llansak, rasm qanday bo'ladi?",
+    "variantlar": [
+     "Ordinari",
+     "Jonli, ta'sirchan va ekspressiv ko'rinadi",
+     "Oq-qora",
+     "Sadog'i kelta"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "G'. Abdurahmonov \"Oqtoshdagi buloq\" rasmida yaxshi ishlash uchun qanday qoida turadi?",
+    "variantlar": [
+     "Darhol bo'yash",
+     "Tezda tugatish",
+     "Yorug'likni to'g'ri joylashtirilishi va tabiat xalati",
+     "Faqat bir rang ishlatish"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Rasm ishlashda joyni tayyorlash va narsalarning o'lchamini aniqlash o'rtasida bog'lanish bormi?",
+    "variantlar": [
+     "Ha, ular bir jarayonda amalga oshadi",
+     "Yo'q",
+     "Ha, lekin alohida",
+     "Faqat o'lcham muhim"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Rasm ishlashda barcha muhim faktorlarning (o'tirishning pozitsiyasi, yorug'lik, narsalarning o'lcham) birgalikdagi ta'siri nima?",
+    "savol": "Yo'lsimon va to'rtburchak shakllari naqshini birlashtirib ishlasak, nima olamiz?",
     "variantlar": [
-     "rasm sifatini, proporsiyani, aniqligini juda yaxshi qiladi",
-     "vaqt o'tkazadi",
-     "faqat ko'z yoqadi",
-     "hech qanday ta'sir yo'q"
+     "Hech nima",
+     "Oddiy naqsh",
+     "Qora rasm",
+     "Murakkab va bo'g'in naqsh"
     ],
-    "togri": 0,
+    "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Narsalarni to'g'ri o'lchash, yorug'likni to'g'ri qilish va o'tirishning pozitsiyasini to'g'ri qilish o'rtasida qanday bog'lanish bor?",
+    "savol": "Turlicha mavzuda haykal va relyeflar ishlashda umumiy nima?",
     "variantlar": [
-     "barcha uchta ham birgalikda rasm sifatini va aniqligini ta'minlaydi",
-     "bog'lanish yo'q",
-     "faqat o'tirishning pozitsiyasi muhim",
-     "faqat narsalarning o'lcham muhim"
+     "Tabiat o'lchamini ko'rish",
+     "Qog'ozni talaba qiladi",
+     "Uch o'lchamli shakllar va o'lcham aniqlashni talaba qiladi",
+     "Rang ta'labi"
     ],
-    "togri": 0,
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Rasm ishlashda to'g'ri o'tirish, yorug'lik nuri va rang tanlashning barchasini qo'llashda nima muhim?",
+    "variantlar": [
+     "Faqat rang",
+     "San'at uchun zarur bo'lgan hammasini qo'llanish kerakligini ko'rsatadi",
+     "Ish masxarasi",
+     "Tez ishlash"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Matni asosida, rasm ishlashda eng muhim bosqichlar qaysi?",
+    "variantlar": [
+     "Qalam tanlash",
+     "Joyni tayyorlash, o'lcham aniqlash va yorug'likni to'g'ri qilish",
+     "Faqat rang tanlash",
+     "Darhol bo'yash"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Naturaga qarab rasm ishlashda, narsalarni kuzatishda eng muhimi nima?",
+    "variantlar": [
+     "Faqat rangni ko'rish",
+     "Faqat shaklni ko'rish",
+     "Rang, shakl, o'lcham va soyalarni to'g'ri ko'rish",
+     "Tez chizish"
+    ],
+    "togri": 2,
     "qiyinlik": "qiyin"
    }
   ]
@@ -991,336 +991,336 @@
  {
   "sinf": "3-sinf",
   "kitob": "3-sinf 3-Sinf Tasviriy san’at",
-  "mavzu": "Atlas matosi uchun naqsh ishlash",
+  "mavzu": "ATLAS MATOSI UCHUN NAQSH ISHLASH",
   "savollar": [
    {
-    "savol": "O'zbekiston atlasi nimani bilan mashhur?",
+    "savol": "O'zbekiston nimalar bilan mashhur?",
     "variantlar": [
-     "Atlas matolari bilan",
-     "Kozi",
-     "Qimoshi",
-     "Xaloliy"
-    ],
-    "togri": 0,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Atlas matosining asosiy xususiyati nima?",
-    "variantlar": [
-     "Rang-barangli",
-     "Sof",
-     "Shaffof",
-     "Qora rangli"
-    ],
-    "togri": 0,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Guash bo'yog'ining eng muhim xususiyati qaysi?",
-    "variantlar": [
-     "Qiymati arzon",
-     "Yuzani qoplash",
-     "Shaffof",
-     "Quyuqrog'i"
+     "Qujg'on buyumlari",
+     "Atlas matolari",
+     "Og'ur bo'yoqlari",
+     "Xorazmiy nusxalari"
     ],
     "togri": 1,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Akvarel bo'yog'ining tavsifi qaysi?",
+    "savol": "Atlas matosidan nimalar tikiladi?",
     "variantlar": [
-     "Qoplash xususiyatiga ega",
-     "Shaffof",
-     "Qora",
-     "Og'ir"
-    ],
-    "togri": 1,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "\"Qora qarg'a\" nusxali nima?",
-    "variantlar": [
-     "Bo'yoq",
-     "Xonatlas",
-     "Qadaq",
-     "Atlas mata"
-    ],
-    "togri": 1,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Rang hosil qilish uchun qanday qilish kerak?",
-    "variantlar": [
-     "Suv solib qo'yish",
-     "Qog'ozni yirtish",
-     "Turli rangdagi bo'yoqlarni aralash",
-     "Ramkayniga ishlov berish"
-    ],
-    "togri": 2,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Atlas naqshi uchun qaysi bo'yoq tavsiya etiladi?",
-    "variantlar": [
-     "Ink",
-     "Gvosh",
-     "Akvarel",
-     "Guash"
+     "Oyoq kiyimlari",
+     "Mebel",
+     "Sabzavot",
+     "Turli-tuman kiyim-kechaklar"
     ],
     "togri": 3,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Matning 16-sahifasidagi xonatlaslar nechta?",
+    "savol": "Guash bo'yog'ining asosiy xususiyati nima?",
     "variantlar": [
-     "Ikkita",
-     "Uchta",
-     "To'rtta",
-     "Besh"
+     "Rang qo'shib osonga ko'rinadi",
+     "Yuzani qoplash xususiyatiga ega",
+     "Shaffof",
+     "Qiynab boradi"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Akvarel bo'yoq qanday?",
+    "variantlar": [
+     "Og'ir",
+     "Qora",
+     "Shaffof",
+     "Qattiq"
     ],
     "togri": 2,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Birinchisi qurimasdan surtilgan akvarel bo'yoq qanday bo'ladi?",
+    "savol": "Yangi rang hosil qilish uchun nima qilish kerak?",
     "variantlar": [
-     "O'zaro aralashib ketadi",
-     "Rang almashadi",
-     "Qulib ketadi",
-     "Qorayadi"
+     "Faqat bir rang ishlatish",
+     "Qora rang qo'shish",
+     "Turli rangdagi bo'yoqlarni o'zaro aralashtrish",
+     "Qor suviga botirish"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Atlas matosining rang-barangligi nimani ko'rsatadi?",
+    "variantlar": [
+     "O'zbekiston atlaslarining xususiyatini",
+     "Matoning kuchini",
+     "Matoning qalinligini",
+     "Matoning qimmatligini"
     ],
     "togri": 0,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Bo'yoqqa ko'p suv qo'shilsa nima bo'ladi?",
+    "savol": "Ranglar halqasi nimani ko'rsatadi?",
     "variantlar": [
-     "Quyuqroq bo'ladi",
+     "Matoning kichikligini",
+     "Ranglar hosil qilish usulini",
+     "Naqshni",
+     "Qiymatli resursni"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Akvarel bo'yoq bilan ishlashda, birinchisi qurimasdan surtilgan bo'yoq nima bo'ladi?",
+    "variantlar": [
+     "O'zaro aralashib ketadi",
+     "Qattiqlaadi",
      "Qora bo'ladi",
-     "Qurib ketadi",
+     "Yopiladi"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Bo'yoqqa ko'p suv aralashtirilsa nima bo'ladi?",
+    "variantlar": [
+     "Qiynab boradi",
+     "Rang ketib boradi",
+     "Qora bo'ladi",
      "Och tusga kirib boradi"
     ],
     "togri": 3,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Nega akvarel bo'yoq bilan aniq rang hosil qilish uchun bir necha marta rang berish kerak?",
+    "savol": "Atlas uchun eskiz ishlashda qaysi bo'yoq tavsiya etiladi?",
     "variantlar": [
-     "Shaffof bo'lgani sababli",
-     "Bo'yoq arzon bo'lgani sababli",
-     "Tezkor qurigani sababli",
-     "Rang esasligi sababli"
+     "Tush bo'yoq",
+     "Guash bo'yog'i",
+     "Masi bo'yoq",
+     "Yog'li bo'yoq"
     ],
-    "togri": 0,
-    "qiyinlik": "o'rtacha"
+    "togri": 1,
+    "qiyinlik": "oson"
    },
    {
-    "savol": "Guash va akvarel bo'yoqlar orasidagi farq nima?",
+    "savol": "Agar atlas naqshida och tuslar qo'llanmoqchi bo'lsak, akvarel bo'yoqqa nima qilish kerak?",
     "variantlar": [
-     "Akvarel arzon",
-     "Guash qurib ketadi",
-     "Faqat rangda farq",
-     "Guash qoplash, akvarel shaffof"
-    ],
-    "togri": 3,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Atlas uchun naqsh uchun guash tavsiya etilishining sababi nima?",
-    "variantlar": [
-     "Yuzani qoplash xususiyatiga ega",
-     "Tez qurib ketadi",
-     "Rang-barangli",
-     "Arzo"
-    ],
-    "togri": 0,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Akvarel bilan ishlashda birinchi bo'yoq qurimasdan ikkinchi bo'yoq surtilsa nima sodir bo'ladi?",
-    "variantlar": [
-     "Rang o'zgarmaydi",
-     "Qorayadi",
-     "Suv suvga o'tadi",
-     "O'zaro aralashib ketadi"
-    ],
-    "togri": 3,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Ranglar halqasining asosiy maqsadi nima?",
-    "variantlar": [
-     "Duvarga osish",
-     "Rang tanlashda qo'llash",
-     "Arzon rang hosil qilish",
-     "Bo'yoqlarni saqlash"
+     "Yog' qo'shish",
+     "Ko'p suv aralashtrish",
+     "Hech narsa qilmay ishlash",
+     "Qora rang qo'shish"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "O'zbekiston atlaslarining tafsili nima?",
+    "savol": "Guash va akvarel bo'yoqlarning asosiy farqi nima?",
     "variantlar": [
-     "Rang jilosi aks etgan",
-     "Pushti",
+     "Ular bir xil",
+     "Guash shaffof, akvarel qoplash xususiyatiga ega",
+     "Guash qoplash xususiyatiga ega, akvarel shaffof",
+     "Guash muqaddas, akvarel oddiy"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Atlas uchun kompozitsiya ishlashda, qalamda xomaki ishlashdan keyin nima qilish kerak?",
+    "variantlar": [
+     "Turli-tuman ranglar ishlash",
+     "Qog'ozga joylashtirish",
+     "Darhol qora bo'yoqdan ishlash",
+     "Och ranglarda bo'yash"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Atlas naqshida turli ranglar qo'llashda qanday ketma-ketlik to'g'ri?",
+    "variantlar": [
+     "Faqat qora va oq ranglar",
+     "Har bir rang alohida vaqtda",
+     "Darhol to'q ranglar",
+     "Avval och ranglar, keyin to'q ranglar"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Akvarel bo'yoq bilan ishlashda, ikkinchi bo'yoq qanday chizilishi kerak?",
+    "variantlar": [
+     "Qo'l orqali",
+     "Cho'tkasiz",
+     "Birinchisi qurimaganda",
+     "Birinchisi qurigandan keyin"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Atlas matosining ko'rinishini yaxshilash uchun, naqsha qaysi rang sxemasida bo'yash kerak?",
+    "variantlar": [
+     "Rang-barang, kontrastli",
+     "Faqat oq",
      "Faqat qora",
-     "Yagona rang"
+     "Faqat sariq"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Turli ranglarni hosil qilish uchun nima zarur?",
+    "savol": "Atlasda qo'llanilgan shakllarga e'tibor bering. Bu qanday shakllarga misol bo'lishi mumkin?",
     "variantlar": [
-     "Bo'yoqlarni o'zaro aralash",
-     "Faqat qora bo'yoq",
-     "Yangi bo'yoq sotib olish",
-     "Suv solib qo'yish"
-    ],
-    "togri": 0,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Atlas matosining qanday xususiyatini bilish zarur?",
-    "variantlar": [
-     "Shakllar va ranglar jilosi",
-     "Narxi",
-     "Geografiyasi",
-     "Texnologiyasi"
-    ],
-    "togri": 0,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Xonatlas deb nima aytiladi?",
-    "variantlar": [
-     "Shaxsiy atlas",
-     "Atlasning tayin nusxali",
-     "Qimoshi",
-     "Naqshli to'qima"
+     "Barcha bir xil shakllarga",
+     "Turli-tuman o'simlik, hayvon, naqshlarga",
+     "Faqat chiziqqa",
+     "Faqat doiraga"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Atlas naqsh ishlashning birinchi bosqichida nima qilish kerak?",
+    "savol": "Atlas uchun mustaqil kompozitsiya ishlashda, avvali nima qilish kerak?",
     "variantlar": [
-     "Qalamda chizish",
-     "Bittalashtirish",
-     "Bo'yash boshlash",
+     "Cho'tka topish",
+     "Darhol bo'yoq olish",
+     "Turli ranglarni tayyorlash",
      "Tasvirni qog'ozga joylashtirish"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Agar atlas naqshiga och ranglar kerak bo'lsa, akvarel bo'yoq bilan qanday ishlash kerak?",
+    "savol": "O'zbekiston atlaslarining rang-barangligi nimani aks ettiradi?",
     "variantlar": [
-     "Faqat bitta marta bo'yash",
-     "Qora bo'yoq qo'shish",
-     "Suv ko'p aralashtirib, bir necha bosqichda rang berish",
-     "Guash solib qo'yish"
+     "Matoning uzunligini",
+     "Milliy san'atning go'zalligini",
+     "Matoning qiyimmatligini",
+     "Matoning qalinligini"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Bo'yoq berish jarayoni tugagach, naqsh bilan nima qilish kerak?",
+    "variantlar": [
+     "Shuv bilan yuvish",
+     "Xolatning ichiga qo'yish",
+     "Havoda quritish",
+     "Darhol rol orqali qisish"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Agar atlas matosi uchun kontrastli ranglar qo'llanmoqchi bo'lsak va guash bilan ishlashmoqchi bo'lsak, nima qilish kerak?",
+    "variantlar": [
+     "Akvarel bo'yoq qo'shish",
+     "Qora va oq rangni ko'paytirish",
+     "Turli ranglarni to'g'ri ketma-ketlikda surtish va yuzani qoplash xususiyatini qo'llash",
+     "Faqat oq bo'yoq ishlatish"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Atlas uchun naqsh ishlashda guash yoki akvarel tanlashda nima hisobga olish kerak?",
+    "savol": "Atlas uchun naqsha ishlashda, och ranglarda bo'yashdan so'ng to'qroq ranglar qo'llashning sababi nima?",
     "variantlar": [
-     "Shunaqa mashq",
-     "Sinfda nimalari bor",
-     "Faqat narxi",
-     "Matoning turi va talab qilingan natijaviga qarab"
+     "Faqat estetika uchun",
+     "Cho'tkani quritish uchun",
+     "Naqshning chuqurligini va hajmini ko'rsatish",
+     "Vaqt o'tkazish uchun"
     ],
-    "togri": 3,
+    "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Akvarel bilan ishlashda to'q ranglarni qanday hosil qilish mumkin?",
+    "savol": "Akvarel bo'yoqning shamollanuvchanligini hisobga olib, atlas naqshida rang tanlashda nima hisobga olish kerak?",
     "variantlar": [
-     "Qurigandan keyin surtish va bir-biriga aralashmaydi",
-     "Qalamda o'tkaza berish",
-     "Qurimasdan berish",
-     "Ko'p suv aralashtirib"
-    ],
-    "togri": 0,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Atlas matosidagi rang-rangning kontrastliligi nima uchun muhim?",
-    "variantlar": [
-     "Suhbatlashish uchun",
-     "Atlasning taassurot va badiiyligini ko'rsatish",
-     "Narxini oshirish",
-     "Raqobat o'tkazilib"
+     "Qora qalam bilan yozish",
+     "Birinchi bo'yoqning shaffofligini va to'plash xususiyatini",
+     "Faqat aloqalar",
+     "Turbulentsiyadagi suv"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Naqsh ishlashda shakllar tuzilishini tahlil qilishda nima ko'rilishi kerak?",
+    "savol": "Agar atlas matosida turli shakllarda rang kombinatsiyalari qo'llanmoqchi bo'lsak, qanday ketma-ketlikda ishlash kerak?",
     "variantlar": [
-     "Xonaning shakli",
-     "Rasmlarning balandligi",
-     "Rasmlarning joylashishi, miqdori, o'zaro munosabati",
-     "Faqat rang"
+     "Faqat kontur chizish",
+     "Katta shakllashdan kichik shaklargacha",
+     "Hech narsa qilmay rang tabiatiga taskin berish",
+     "Barcha shakllarni bir vaqtda bo'yash"
     ],
-    "togri": 2,
+    "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Guash bo'yog'i bilan ishlashda akvarel bilan qanday farq paydo bo'ladi?",
+    "savol": "O'zbekiston atlaslarining rang-barangligini atlas matosida qayta taqdim qilishning to'g'ri usuli qanday?",
     "variantlar": [
-     "Guash yuzani qoplaganidan keyin boshqa rang qo'shish mumkin",
-     "Akvarel arzon",
-     "Faqat rangli",
-     "Guash tez qurib ketadi"
+     "Kontrastli ranglar, jilosi aks etadigan shakllar",
+     "Faqat bir rang",
+     "Qora va oq",
+     "Yashil va qizil"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Kompozitsiya ishlashda qalamda xomaki nima sababli muhim?",
+    "savol": "Xonatlas nusxalari (Qora qarg'a, Chaqirim tabdili, Namozshomgul, Tumor) orasidagi farqlar nimalarda ko'rinadi?",
     "variantlar": [
-     "Rang qo'shish",
-     "Oralab turish",
-     "Rasmning asosiy shakllarini belgilash",
-     "Qo'yoq yasash"
+     "Matoning narxida",
+     "Matoning uzunligida",
+     "Matoning qalinligida",
+     "Ranglar tanlashida, shakllar tuzilishida va ularning jilosida"
     ],
-    "togri": 2,
+    "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Atlas naqshini yakunlashda qanday ketma-ketlikda bo'yash kerak?",
+    "savol": "Agar atlas naqshida guash va akvarel bo'yoqlarni birgalikda qo'llanmoqchi bo'lsak, nima hisobga olish kerak?",
     "variantlar": [
-     "Och renglardan to'q ranglargacha",
-     "Faqat qora rang",
-     "To'qroq ranglardan och ranglargacha",
-     "Turli xil ranglar"
+     "Guashning qoplash xususiyati bilan akvarelning shaffofligini kombinatsiyalash",
+     "Qora rang bo'yoqlar faqat",
+     "Faqat rang",
+     "Hech narsa"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Atlasning tafsili va tuzilishini tahlil qilishda nima asosiy?",
+    "savol": "Atlas uchun naqsha ishlashning barcha bosqichlari (joylashtirish, xomaki, och ranglar, to'qroq ranglar, yakunlash) uchun nima hisobga olish kerak?",
     "variantlar": [
-     "Ranglar jilosi va shakllarning joylashishi",
-     "Kimning ishi",
-     "Necha kun tikilgani",
-     "Matoning qiymati"
+     "Qo'lning kuchini",
+     "Faqat vaqt",
+     "Faqat suv hajmi",
+     "Ranglar to'g'ri ketma-ketligi, bo'yoqlar xususiyati, naqshning strukturasi"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Agar atlas matosida o'simlik yoki hayvon tasvirlanmoqchi bo'lsa va kontrastli ranglar qo'llanmoqchi bo'lsa, qanday usul bilan bo'yash kerak?",
+    "variantlar": [
+     "Tabiiy ranglarni tahlil qilish, och ranglashdan to'q ranglar qayta ishlash, detallari qalamda yakunlash",
+     "Faqat qora bo'yoq ishlatish",
+     "Birgalikda hamma ranglarni surish",
+     "Suv qo'shib berish"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Agar xonatlas asosiy rangiga yangi rang qo'shish kerak bo'lsa, bo'yoqlarni qanday aralashirish kerak?",
+    "savol": "O'zbekiston atlas matolari milliy san'atning ko'rsatkichi. Bu xususiyatni atlas naqshida qayta taqdim qilish uchun nima qilish kerak?",
     "variantlar": [
-     "Guash bo'yoqlarni toza aralashtirish",
-     "Aralashmay qo'yish",
-     "Tezlik bilan solib qo'yish",
-     "Suv bilan chang qilish"
+     "Faqat murakkab naqshlashni chizish",
+     "Faqat qora qalam bilan chizish",
+     "Aniq yo'q narsa yo'q",
+     "Milliy rang-barangliklarni, shakllarni, jilolarni qayta ishlash va kontrastli ranglardan foydalanish"
     ],
-    "togri": 0,
+    "togri": 3,
     "qiyinlik": "qiyin"
    }
   ]
@@ -1328,48 +1328,81 @@
  {
   "sinf": "3-sinf",
   "kitob": "3-sinf 3-Sinf Tasviriy san’at",
-  "mavzu": "Yo'lsimon shaklda naqsh ishlash",
+  "mavzu": "YO'LSIMON SHAKLDA NAQSH ISHLASH",
   "savollar": [
    {
-    "savol": "Ritm nima?",
+    "savol": "Ritm naqshda nima deb ataladi?",
     "variantlar": [
      "Kontrast ranglardan foydalanish",
-     "Naqshda bezak gullarining takrorlanib yoki almashinib kelishi",
-     "Naqshda faqat bir xil rang ishlatilishi",
-     "Naqsh foni va bezak gullari ranglarining taqqoslashishi"
+     "Bezak gullari va asosining ranglarini taqqoslash",
+     "Bezak gullarining takrorlanib yoki almashinib kelishi",
+     "Naqshda ishlatilgan gulli turlarining o'zbek nomlari"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Kontrast ranglar qaysilardir?",
+    "variantlar": [
+     "Faqat sariq va qora ranglar",
+     "O'zaro qarama-qarshi ranglar yonma-yon ishlatilganda bir-birini yorqinroq ko'rsatadigan ranglar",
+     "Faqat iliq tusli ranglar",
+     "Faqat och va to'q ranglar"
     ],
     "togri": 1,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Kontrast ranglar nima?",
+    "savol": "Quyidagilardan qaysilari axromatik ranglar?",
     "variantlar": [
-     "Faqat och va to'q ranglar",
-     "Bir xil tug'i ranglar",
-     "Sof va aralash ranglar",
-     "O'zaro qarama-qarshi ranglar"
+     "Sariq, binafsha, zarg'aldoq",
+     "Qizil, yashil, ko'k",
+     "Oq, kulrang va qora",
+     "Ko'k, yashil va oq"
     ],
-    "togri": 3,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Quyidagi qaysi ranglar axromatik?",
-    "variantlar": [
-     "Qizil, ko'k va yashil",
-     "Sariq, qizil va ko'k",
-     "Yashil, binafsha va zarg'aldoq",
-     "Oq, kulrang va qora"
-    ],
-    "togri": 3,
+    "togri": 2,
     "qiyinlik": "oson"
    },
    {
     "savol": "Xromatik ranglar nima?",
     "variantlar": [
-     "Faqat aralash to'q ranglar",
-     "Oq, qora va kulrang bundan tashqari barcha ranglar",
-     "Faqat sof och ranglar",
-     "Faqat iliq ranglar"
+     "Faqat och ranglar",
+     "Oq, kulrang va qora ranglar",
+     "Axromatik ranglardan boshqa barcha ranglar",
+     "Kontrast ranglar"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Naqsh bezak gullari va asosini tasvirlashda naqsh ustalarining asosiy qoidasi nima?",
+    "variantlar": [
+     "Faqat bir rangdan foydalanish",
+     "Faqat iliq tusli ranglarni ishlatish",
+     "Kontrast ranglardan foydalanish",
+     "Axromatik ranglarni ishlatish"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Oq, kulrang va qora ranglar nima deb ataladi?",
+    "variantlar": [
+     "Iliq tusli ranglar",
+     "Axromatik ranglar",
+     "Kontrast ranglar",
+     "Xromatik ranglar"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Usta Yoqubjon Raufov kimdir?",
+    "variantlar": [
+     "Darslik muallifi",
+     "O'zbekiston xalq rassomi, naqqosh usta",
+     "Madrasaning direktori",
+     "3-sinf o'qituvchisi"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -1377,285 +1410,252 @@
    {
     "savol": "Yo'lsimon naqsh nima?",
     "variantlar": [
-     "Faqat bir rangli naqsh",
-     "Bir xil tartibda takrorlanib keladigan naqsh",
-     "Qora fondali naqsh",
-     "Faqat ikkita bezak gulli naqsh"
-    ],
-    "togri": 1,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Matndagi asosiy bezak gullari nomini ayting",
-    "variantlar": [
-     "Qul-qul va yasaman",
-     "Oygul va lola",
-     "Patma va qo'l-qo'l",
-     "Shirin-shirin va lavanda"
-    ],
-    "togri": 1,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Naqsh naqqoshlikning asosiy qoidasi nima deb ataladi?",
-    "variantlar": [
-     "Fon",
-     "Rang",
-     "Kontrast",
-     "Ritm"
+     "To'g'ri chiziqlar bilan ishlangan naqsh",
+     "Rasm asosida ishlangan naqsh",
+     "Katakchali naqsh",
+     "Bezak gullarining bir xil tartibda takrorlanib kelishi bilan ishlangan naqsh"
     ],
     "togri": 3,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Oq, qora va kulrang qanday ranglar deb ataladi?",
+    "savol": "Bir xil rangdagi bezak gulli naqsh (oygul) nima?",
     "variantlar": [
-     "Axromatik ranglar",
-     "Iliq ranglar",
-     "Xromatik ranglar",
-     "Sovuq ranglar"
-    ],
-    "togri": 0,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Naqshlarda kontrast ranglardan foydalanish natijasi nima?",
-    "variantlar": [
-     "Naqshlar kichik ko'rinadi",
-     "Naqshlar qorong'u bo'ladi",
-     "Naqshlar oddiy bo'ladi",
-     "Naqshlar jozibador va yorqin ko'rinadi"
-    ],
-    "togri": 3,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Usta Yoqubjon Raufov yashash yillari qaysi?",
-    "variantlar": [
-     "1898-1984",
-     "1888-1974",
-     "1868-1954",
-     "1878-1964"
+     "Ikki xil rangdagi naqsh",
+     "Bir xil rangdan ishlangan bezak gulli naqsh",
+     "Kontrast ranglardan ishlangan naqsh",
+     "Rasm asosida ishlangan naqsh"
     ],
     "togri": 1,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Kontrast ranglar och-to'qligi bilan qanday aniqlanadi?",
+    "savol": "Kontrast ranglarni yonma-yon ishlatish natijasida nima bo'ladi?",
     "variantlar": [
-     "Rang tuslari (iliq, sovuq) orqali ham",
-     "Faqat nomiga asosida",
-     "Shaklga orqali",
-     "Kattaligi orqali"
+     "Ranglar o'zaro aralashadi",
+     "Ranglar bir-birini yorqinroq ko'rsatadi",
+     "Ranglar ko'proq och ko'rinadi",
+     "Naqsh aniqroq bo'ladi"
     ],
-    "togri": 0,
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Quyidagi juftlardan qaysi biri kontrast rang juftligini tashkil etadi?",
+    "variantlar": [
+     "Yashil va ko'k",
+     "Sariq va zarg'aldoq",
+     "Kulrang va oq",
+     "Oq va qora"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Agar siz qora fonning ustiga oq bezak gulli joylashtirgan bo'lsangiz, bezak guli qanday ko'rinadi?",
+    "variantlar": [
+     "Anchalik yorqin ko'rinmaydi",
+     "Fonning rangi bilan aralashadi",
+     "Kulrang ko'rinadi",
+     "Juda yorqin va aniq ko'rinadi"
+    ],
+    "togri": 3,
     "qiyinlik": "o'rtacha"
    },
    {
     "savol": "Oqqush qora fonda qanday ko'rinadi?",
     "variantlar": [
-     "Och",
-     "Aralash",
-     "Yorqin",
-     "To'q"
-    ],
-    "togri": 2,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Sariq fonda oqqush qanday ko'rinadi?",
-    "variantlar": [
-     "Unchalik yorqin ko'rinmaydi",
-     "Mutlaqo ko'rinmaydi",
-     "Qoraning rang oladi",
-     "Yanada yorqin ko'rinadi"
-    ],
-    "togri": 0,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Axromatik rangdagi fonda nima yanada yorqin ko'rinadi?",
-    "variantlar": [
-     "Xromatik rangdagi narsalar",
-     "Axromatik narsalar",
-     "Och narsalar",
-     "Qora narsalar"
-    ],
-    "togri": 0,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Yo'lsimon naqshlarda bezak gullarining takrorlanishi qanday bo'lishi kerak?",
-    "variantlar": [
-     "Tasodifiy ravishda",
-     "Faqat oygul",
-     "Ma'lum me'yorlar asosida",
-     "Faqat lola"
-    ],
-    "togri": 2,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Naqsh ustalari bezak gullari va asosini tasvirlashda qanday ranglardan foydalanadilar?",
-    "variantlar": [
-     "Kontrast ranglardan",
-     "Faqat och ranglardan",
-     "Faqat to'q ranglardan",
-     "Bir xil ranglardan"
-    ],
-    "togri": 0,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Kontrast rang juftlaridan qaysi to'g'ri?",
-    "variantlar": [
-     "Oq-Qora, Sariq-Ko'k, Qizil-Yashil, Zarg'aldoq-Binafsha",
-     "Oygul-Lola, Oq-Ko'k",
-     "Binafsha-Binafsha, Yashil-Yashil",
-     "Oq-Sariq, Qora-Ko'k, Qizil-Qizil"
-    ],
-    "togri": 0,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Bir xil rangdagi bezak gulli naqsh quyidagi qaysidir?",
-    "variantlar": [
-     "Rang oralashmasi",
-     "Oygul",
-     "Oygul va lola",
-     "Ikkita bezak gulli"
+     "Fon rangi bilan ayniyana ko'rinadi",
+     "Juda yorqin ko'rinadi",
+     "Fonning rangi bilan birgalikda ko'rinadi",
+     "Unchalik yorqin ko'rinmaydi"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Ikki xil rangdagi bitta bezak gulli naqsh qaysidir?",
+    "savol": "Axromatik fon (oq, kulrang, qora) xromatik narsalarni qanday ko'rsatadi?",
     "variantlar": [
-     "Lola",
-     "Oygul va lola",
-     "Oygul",
-     "Nur lola"
+     "Onchalik aniq ko'rsatmaydi",
+     "Rang o'zgaradi",
+     "Dora bo'lib ketadi",
+     "Aniqroq va yorqinroq"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikkita bezak gulli naqsh ishlashda bezak gullari qanday bo'lishi kerak?",
+    "variantlar": [
+     "Bir xil rangda va bir xil shaklda",
+     "Ikkita xil bezak gulli ishlatiladi",
+     "Oq va qora rangda",
+     "Faqat oygul ishlatiladi"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Naqsh asosi va bezak guli ranglarini taqqoslaganimizda, qaysi rangning och-to'qligi muhim?",
+    "variantlar": [
+     "Ikkalasining och-to'qligi",
+     "Faqat asosining",
+     "Faqat bezak gulining",
+     "Naqshda ishlatilgan qolgan ranglarning"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Naqshning boshqa elementlaridan foydalanish nima uchun muhim?",
+    "savol": "Kontrast ranglarni aniqlaganda, faqat och-to'qligi asosida emas, qanday hususiyat ham hisobga olinadi?",
     "variantlar": [
-     "Naqshni yanada jozibador va boy qilish uchun",
-     "Naqshni tezroq tugatish uchun",
-     "Naqshni kichik ko'rsatish uchun",
-     "Naqshni oddiy qilish uchun"
+     "Rangning yosh-qadimligini",
+     "Rang tuslari - iliq va sovuq",
+     "Rangning natural-sun'iy ekanligi",
+     "Boshqa hech narsa kerak emas"
     ],
-    "togri": 0,
+    "togri": 1,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Sariq va ko'k ranglardan qanday rang hosil bo'ladi?",
+    "savol": "Sariq fonning ustiga qizil bezak gulli joylashtirgan bo'lsa, kontrast qanday bo'ladi?",
     "variantlar": [
+     "Umuman kontrast yo'q",
+     "O'rtacha kontrast bo'ladi",
+     "Kontrast ancha kuchli emas",
+     "Juda kontrast bo'ladi"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Oygul naqshlarda bezak gullari naqancha ishlatiladi?",
+    "variantlar": [
+     "Ikki ta",
+     "Bir ta",
+     "To'rt ta",
+     "Uch ta"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Naqshni yoshirish va jonli ko'rsatish uchun qaysi rangli fond tanlash to'g'ri?",
+    "variantlar": [
+     "Foningni bezak gulli rangi bilan ayni rangli tanlash",
+     "Faqat oq fond tanlash",
+     "Bezak gulli rangiga kontrast bo'lgan fond tanlash",
+     "Faqat qora fond tanlash"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ritm qoidasiga amal qilib ikkita bezak gulli yo'lsimon naqsh ishlashda bezak gullari qanday tartibda takrorlanishi kerak?",
+    "variantlar": [
+     "Random tartibda",
+     "Qarama-qarama tartibda",
+     "Faqat bir xil tartibda",
+     "Takrorlanib yoki almashinib kelishi kerak"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Naqsh bezatishda kontrast ranglarni va ritm qoidalarini birga qo'llash natijasida naqsh qanday bo'ladi?",
+    "variantlar": [
+     "Faqat rangning tusi o'zgaradi",
+     "Tekis va noqulay ko'rinadi",
+     "Jozibador, yorqin va ritmli ko'rinadi",
+     "Bezak gullari fonda to'planadi"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Quyidagilardan qaysida kontrast (och-to'q) ranglar to'g'ri qo'llanilgan?",
+    "variantlar": [
+     "Oq fonda oq bezak guli",
+     "Sariq fonda sariq bezak guli",
+     "Kulrang fonda kulrang bezak guli",
+     "Qora fonda oq bezak guli"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Kontrast ranglardan foydalanib yo'lsimon naqsh ishlashda, asosi va bezak guli ranglarining och-to'qligi qanday bo'lishi kerak?",
+    "variantlar": [
+     "Ikkalasi ham to'q bo'lishi kerak",
+     "Ixtiyoriy",
+     "Ikkalasi ham och bo'lishi kerak",
+     "Biri och, ikkinchisi to'q bo'lishi kerak"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Iliq va sovuq tusli ranglar asosida kontrast ko'ring. Qora rangning ustiga qaysi iliq rangni qo'ysangiz, kontrast eng kuchli bo'ladi?",
+    "variantlar": [
+     "Sariq",
+     "Ko'k",
      "Binafsha",
-     "Kulrang",
-     "Zarg'aldoq",
      "Yashil"
     ],
-    "togri": 3,
+    "togri": 0,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Qizil va sariq ranglardan qanday rang hosil bo'ladi?",
+    "savol": "Yo'lsimon naqshda bezak gullari ritm asosida takrorlanib kelmoqda. Agar birinchi bezak guli qizil rangda bo'lsa, ikkinchi bezak guli qanday rangda bo'lishi mumkin?",
     "variantlar": [
-     "Binafsha",
-     "Yashil",
-     "Zarg'aldoq",
-     "Ko'k"
-    ],
-    "togri": 2,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Naqsh kompozitsiyasini hosil qilishda bezak gullarining takrorlanishiga nima uchun amal qiling?",
-    "variantlar": [
-     "Ritm yaratish va naqshni tartibli qilish uchun",
-     "Naqshni tezroq tugatish uchun",
-     "Naqshni kattalashtirish uchun",
-     "Ranglarni tejash uchun"
+     "Takrorlanib qizilda, yoki almashinib boshqa rangda bo'lishi mumkin",
+     "Faqat sariq bo'lishi mumkin",
+     "Har doim qizilda bo'lishi kerak",
+     "Har doim qora bo'lishi kerak"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Ikkita bezak gulli yo'lsimon naqsh ishlashda naqsh ostalari nima qilishga taklif qiladilar?",
+    "savol": "Kontrast ranglarni yonma-yon ishlatganimizda, naqsh fonining nisbatan bezak gullari qanday ko'rinadi?",
     "variantlar": [
-     "Faqat lola ishlatish",
-     "Faqat qora rang ishlatish",
-     "Naqshning boshqa elementlaridan ham foydalanishga harakat qilish",
-     "Faqat oygul ishlatish"
+     "O'zgaruvchi ko'rinadi",
+     "Yanada yorqinroq",
+     "Ancha-muncha qo'ralgan",
+     "Fonning rang bilan birgalikda"
     ],
-    "togri": 2,
+    "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Barg rasmini tasvirlashda axromatik fon tanlash natijasi nima?",
+    "savol": "Usta Yoqubjon Raufov naqqoshlik hunari va ta'limini kimdan olgan?",
     "variantlar": [
-     "Barg och ko'rinadi",
-     "Barg kichik ko'rinadi",
-     "Barg to'q ko'rinadi",
-     "Barg xromatik rangi yanada yorqin ko'rinadi"
+     "Maktabda",
+     "Otasidan usta Rauf Kalondan",
+     "O'zini o'zi o'rgangan",
+     "Kitoblardan"
     ],
-    "togri": 3,
+    "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Yo'lsimon naqshda bezak gullarining ma'lum tartibda takrorlanishi nima uchun muhim?",
+    "savol": "Yo'lsimon naqsh ishlashda axromatik fond (oq, kulrang, qora) ishlatganimizda, xromatik bezak gullari qanday ko'rinadi?",
     "variantlar": [
-     "Naqshni kattalashtirish uchun",
-     "Naqshni tezroq tugatish uchun",
-     "Ranglarni tejash uchun",
-     "Ritm yaratib naqsh kompozitsiyasini hosil qilish uchun"
+     "Yanada unchalik aniq bo'ladi",
+     "Fondan ko'proq yorqin va aniq ko'rinadi",
+     "Faqat qora fonrada ko'rinadi",
+     "Fonday yorqin ko'rinadi"
     ],
-    "togri": 3,
+    "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Naqshni jozibador va yorqin ko'rsatishning asosiy usuli nima?",
+    "savol": "Naqsh tasvirlashda rang tuslari (iliq-sovuq) va och-to'qligi kontrast ta'sir etadi. Quyidagilardan qaysida ikki hususiyat ham kontrast yaratadi?",
     "variantlar": [
-     "Kontrast ranglardan to'g'ri foydalanish",
-     "Faqat ikkita rang ishlatish",
-     "Faqat qora rang ishlatish",
-     "Faqat oq rang ishlatish"
-    ],
-    "togri": 0,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Usta Yoqubjon Raufov otasining ismi va unvoni nima edi?",
-    "variantlar": [
-     "Usta Rauf Kalon",
-     "Usta Ilmiy Rauf",
-     "Usta Qodir Rauf",
-     "Usta Muhammad Rauf"
-    ],
-    "togri": 0,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Usta Yoqubjon Raufov respublikamizning qator shaharlarida qanday binolarni bezashda boshchilik qilgan?",
-    "variantlar": [
-     "Dassalarni",
-     "Do'konlarni",
-     "Jamoat binolarini",
-     "Shaxsiy uylarini"
-    ],
-    "togri": 2,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Kontrast ranglar kontrast ranglarning biri ikkinchisining fonida qanday ko'rinadi?",
-    "variantlar": [
-     "Yorqinroq",
-     "To'q",
-     "Och",
-     "O'xshash"
+     "Sariq va ko'k",
+     "Oq va qora",
+     "Qizil va zarg'aldoq",
+     "Sariq va oq"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -1665,334 +1665,334 @@
  {
   "sinf": "3-sinf",
   "kitob": "3-sinf 3-Sinf Tasviriy san’at",
-  "mavzu": "Mevalar rasmini ishlash",
+  "mavzu": "MEVALAR RASMINI ISHLASH",
   "savollar": [
    {
-    "savol": "\"Hosil bayrami\" qaysi faslida o'tkaziladi?",
+    "savol": "\"Hosil bayrami\" o'lkamizda qachon o'tkaziladi?",
     "variantlar": [
-     "Kuzda",
-     "Bahorida",
-     "Yozida",
-     "Qishda"
-    ],
-    "togri": 0,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Bog'larda qanday mevalar pishadi?",
-    "variantlar": [
-     "Olma, anor, nok, shaftoli, uzum, anjir",
-     "Sabzi, kartoshka, piyoz",
-     "Bugin, shil, nar",
-     "Sariq, qizil, o'q"
-    ],
-    "togri": 0,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Anor rasmini ishlashning birinchi bosqichi nima?",
-    "variantlar": [
-     "To'q ranglarda ishlov berish",
-     "Tasvirni qalamda yakunlash",
-     "Tasvir o'lchamlarini belgilash",
-     "Och ranglarda bo'yash"
+     "yozda",
+     "bahorida",
+     "kuzda",
+     "qishda"
     ],
     "togri": 2,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Viktor Ivanovich Ufimsev kimmi?",
+    "savol": "Bog'larda qaysi mevalar pishgan?",
     "variantlar": [
-     "Kitob muallifi",
-     "Tarixchi",
-     "O'zbekiston xalq rassomi",
-     "Matematika o'qituvchisi"
+     "faqat olma va anor",
+     "olma, anor, nok, shaftoli, uzum, anjir",
+     "nok va uzum",
+     "tarvuz va qovunlar"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Polizlarda qaysi mevalar g'arq pishgan?",
+    "variantlar": [
+     "olma va anor",
+     "tarvuz va qovunlar",
+     "uzum va anjir",
+     "nok va shaftoli"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Mevalar rasmini ishlashning birinchi bosqichi nima?",
+    "variantlar": [
+     "tasvirni qalamda yakunlash",
+     "tasvir o'lchamlarini belgilash",
+     "qalamda xomaki ishlash",
+     "och ranglarda bo'yash"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Viktor Ivanovich Ufimsev yildagi tug'ilgan?",
+    "variantlar": [
+     "1905",
+     "1890",
+     "1910",
+     "1899"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Mevalar rasmini ishlashning nechta asosiy bosqichi bor?",
+    "variantlar": [
+     "3 ta",
+     "6 ta",
+     "4 ta",
+     "5 ta"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Qalamda xomaki ishlagandan keyin nimani qilish kerak?",
+    "variantlar": [
+     "to'q ranglarda ishlov berish",
+     "och ranglarda bo'yash",
+     "tasvir o'lchamlarini belgilash",
+     "qalamda yakunlash"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Viktor Ivanovich Ufimsev qaysi davlatning xalq rassomi edi?",
+    "variantlar": [
+     "Tojikiston",
+     "O'zbekiston",
+     "Qozog'iston",
+     "Rossiya"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Kuzgi mevalarni rangtasvir ustalari nima bilan tasvirlaydilar?",
+    "variantlar": [
+     "boshqaruvchisi bilan",
+     "ko'zida bilan",
+     "zo'r maroq bilan",
+     "qo'lda bilan"
     ],
     "togri": 2,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Olma rasmini ishlashning oxirgi bosqichi nima?",
+    "savol": "\"Moviy rumkali natyurmort\" kimdaning asari?",
     "variantlar": [
-     "To'q ranglarda ishlov berish",
-     "Och ranglarda bo'yash",
-     "Qalamda xomaki ishlash",
-     "Tasvirni o'lchamlarini belgilash"
+     "Viktor Ivanovich Ufimsevning",
+     "O'zbek maktabining",
+     "Boshqa rassomning",
+     "Tahlilchining"
     ],
     "togri": 0,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Och ranglarda bo'yash ishlashning qayinchi bosqichasimi?",
+    "savol": "Naturaga qarab rasm ishlaganda tasvir qog'ozga joylashtirilishida nima muhim?",
     "variantlar": [
-     "Uchinchi",
-     "Ikkinchi",
-     "Birinchi",
-     "To'rtinchi"
-    ],
-    "togri": 0,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Qalamda xomaki ishlash rasmni ishlashning qayinchi bosqichasimi?",
-    "variantlar": [
-     "Ikkinchi",
-     "To'rtinchi",
-     "Uchinchi",
-     "Birinchi"
-    ],
-    "togri": 0,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Kuzgi mevalarni kim zo'r maroq bilan tasvirlaydi?",
-    "variantlar": [
-     "Rangtasvir ustasi",
-     "Doktor",
-     "Muzikachi",
-     "Qo'shiq kuyovchi"
-    ],
-    "togri": 0,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "To'q ranglarda ishlov berish rasmni ishlashning qayinchi bosqichasimi?",
-    "variantlar": [
-     "Yettinchi",
-     "Beshinchi",
-     "To'rtinchi",
-     "Oltinchi"
-    ],
-    "togri": 3,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Kuzda bog'larda qanday mevalar g'arq pishgan?",
-    "variantlar": [
-     "Piyoz va sabzi",
-     "Kartoshka va to'p",
-     "Olma va pomidor",
-     "Tarvuz va qovunlar"
-    ],
-    "togri": 3,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Mevalar rasmini ishlashda och ranglardan to'qroq ranglarga o'tishning asosiy maqsadi nima?",
-    "variantlar": [
-     "Tasvirga tovuqlilik va chuqurligi qo'shish uchun",
-     "Qog'ozni eng harakat qilish uchun",
-     "Rasm to'xtalin ko'rinish uchun",
-     "Vaqtni o'tkazish uchun"
-    ],
-    "togri": 0,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Tasvirni qalamda yakunlashdan avval qaysi qadamlar ketma-ketligida bajarilishi kerak?",
-    "variantlar": [
-     "To'q ranglar, to'qroq ranglar, och ranglar",
-     "To'qroq ranglar, och ranglar, to'q ranglar",
-     "To'q ranglar, och ranglar, to'qroq ranglar",
-     "Och ranglar, to'qroq ranglar, to'q ranglar"
+     "faqat boshning o'lchamlari",
+     "faqat rang tanlanishi",
+     "faqat chiziq tanlanishi",
+     "tasvir o'lchamlari va to'g'ri joylashuvi"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Anor va olma rasmlarini ishlashda asosiy farq bormi?",
+    "savol": "Och ranglarda bo'yashdan keyin qaysi bosqich keladi?",
     "variantlar": [
-     "Ha, o'lchamlari boshqacha",
-     "Yo'q, bosqichlari bir xil",
-     "Ha, tasvirlanish tezi turli",
-     "Ha, rang boshqacha"
+     "to'q ranglarda ishlov berish",
+     "qalamda yakunlash",
+     "tasvir o'lchamlarini qayta belgilash",
+     "to'qroq ranglarda bo'yash"
     ],
-    "togri": 1,
+    "togri": 3,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Viktor Ivanovich Ufimsevning mashhur natyurmortlarini nomi qaysilari?",
+    "savol": "Olma va anor rasmining bosqichlari qanday?",
     "variantlar": [
-     "\"Rang mevalar\", \"Tabiiy ko'rinish\", \"Bog' tasvirlar\"",
-     "\"Moviy rumkali natyurmort\", \"Dala gullari\", \"Baqlajonlar\"",
-     "\"O'q mevalar\", \"Qorong'i ranglar\", \"Svetik rasmlari\"",
-     "\"Qizil mevalar\", \"Yashil o'tlar\", \"Sariq qovunlar\""
-    ],
-    "togri": 1,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Bog'larda quyshaydigan mevalardan qaysi biri o'lchamlari kattak?",
-    "variantlar": [
-     "Tarvuz va qovun",
-     "Uzum va anjir",
-     "Olma va anor",
-     "Nok va shaftoli"
-    ],
-    "togri": 0,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Rasm ishlashda rang o'zgarish ketma-ketligi nima sababli muhim?",
-    "variantlar": [
-     "Qog'oz xislatini saqlash uchun",
-     "Rasmi tabiiy va chiroyli bo'lishi uchun",
-     "Vaqt o'tmasligi uchun",
-     "Rang qimmatiga chiqmasligi uchun"
-    ],
-    "togri": 1,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Kuzda mevalarni tasvirlanganda rang tanlanishning asosiy qoidasi nima?",
-    "variantlar": [
-     "Bunga rang ishlatish kerak",
-     "Faqat qizil rangdan foydalanish kerak",
-     "Tabiiy ranglarni uslub qilish kerak",
-     "Eng yayra rang tanlash kerak"
+     "olma uchun ko'proq bosqich",
+     "anor uchun kam bosqich",
+     "ikkalasi uchun bir xil ketma-ketlik",
+     "olma uchun boshqacha, anor uchun boshqacha"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Xomaki ishlash rasmni tayyorlashning qaysi bosqichasida muhim?",
+    "savol": "Mevalar rasmining oxirgi bosqichida nima qilish kerak?",
     "variantlar": [
-     "Rang qo'shilgandan keyin",
-     "Biron vaqtda muhim emas",
-     "Oxiriga yetkazilgandan keyin",
-     "Rang qo'shishdan avval"
+     "to'q ranglarda ishlov berish",
+     "och ranglarda bo'yash",
+     "tasvir o'lchamlarini belgilash",
+     "qalamda xomaki ishlash"
     ],
-    "togri": 3,
+    "togri": 0,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "To'qroq ranglardan to'q ranglarga o'tish rasmning qaysi bosqichasida sodir bo'ladi?",
+    "savol": "Agar qalamda xomaki sifatli chizilmasa, rasmsida nima bo'ladi?",
     "variantlar": [
-     "O'rtacha bosqichlarda",
-     "Oxirgi bosqichlarda",
-     "Dastlabki bosqichlarda",
-     "Boshida va oxirida"
+     "rang ko'proq qo'llash kerak",
+     "rasm buzilib ketadi",
+     "bo'yash oson bo'ladi",
+     "rasm yanada chiroyli bo'ladi"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Mevalar rasmini ishlashda boshlanishni qaydan boshlamoq kerak?",
+    "savol": "Viktor Ivanovich Ufimsevning \"Dala gullari\" ishari nima haqida?",
     "variantlar": [
-     "O'lchamlarni belgilashdan",
-     "To'q ranglardan",
-     "Qalamni qayta ishlashdan",
-     "Rangdan"
+     "gullar haqida",
+     "basmachi haqida",
+     "qushlar haqida",
+     "mevalar haqida"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Agar siz naturaga qarab anor va olma rasmini o'ziga qarab ishlasangiz, qaysi mevani birinchi tasvirlanish kerak bo'ladi?",
+    "savol": "To'q ranglar och ranglargahuguq yoki keyin ishlatiladi?",
     "variantlar": [
-     "Tarvuzni, chunki u kattak",
-     "Anorni, chunki u boshqa rang",
-     "Qovunni, chunki u oq",
-     "Olmani, chunki u boshqa shaklga ega"
-    ],
-    "togri": 3,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Mevalar rasmi tabiatga o'xshashi uchun rang tanlanishida qanday asosiy mulohazalar kerak?",
-    "variantlar": [
-     "Tabiiy suvga o'xshash rang va yoritish-soya",
-     "Faqat qizil rang",
-     "Qorong'i ranglari faqat",
-     "Hamma ranglari ishlatish"
+     "keyin ishlatiladi",
+     "bir vaqtda ishlatiladi",
+     "umuman ishlatilmaydi",
+     "birinchi ishlatiladi"
     ],
     "togri": 0,
-    "qiyinlik": "qiyin"
+    "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Viktor Ivanovich Ufimsevning \"Dala gullari\" va \"Baqlajonlar\" rasmlarida qanday asosiy farq bo'ladi?",
+    "savol": "Tasvir o'lchamlarini belgilashda qanday usul qo'llaniladi?",
     "variantlar": [
-     "O'lchamda o'xshash",
-     "Rang farqi yo'q",
-     "Tabiiy mavzusida boshqacha va natural tasviri boshqacha",
-     "Shaklda farqi yo'q"
+     "qalamning o'rniga qalam yoki o'lchagich",
+     "o'lchash temir bilan",
+     "faqat ko'z bilan",
+     "barmoq bilan"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Kuzagi \"Hosil bayrami\" matnga ko'ra nima uchun eng go'zal bayramlardan biri?",
+    "variantlar": [
+     "shovqin ko'p",
+     "tilishlar bor",
+     "mevalar pishib olinadi",
+     "raqslar bor"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Rasm ishlashda och va to'q ranglarga e'tibor berish nima uchun muhim?",
+    "variantlar": [
+     "rang kuz kelsak",
+     "qalamni tejash uchun",
+     "ko'yidagi rasm uchun",
+     "rasm chuqur va ko'roq bo'lishi uchun"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Olma va anor rasmini bir qog'ozda ishlaganda, mevalarning to'g'ri joylashuviga nimaga asoslanib qaror qilish kerak?",
+    "variantlar": [
+     "rang tanlashiga",
+     "tasvir o'lchamiga",
+     "naturaga qarab",
+     "tasodifan"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Agar tasvir o'lchamlarini noto'g'ri belgilasangiz, rasmi qanday bo'ladi?",
+    "savol": "Nima uchun birinchi och ranglar, keyin to'qroq ranglar, oxirida to'q ranglar qo'llaniladi?",
     "variantlar": [
-     "Hech narsaga ta'sir etmaydi",
-     "Rasmi boshqa, ammo to'g'rilash oson",
-     "Faqat rang kerak bo'ladi",
-     "Rasmi noto'g'ri, to'g'rilash qiyin bo'ladi"
-    ],
-    "togri": 3,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Anor va almaning rang xususiyatlari turli bo'lganida, rasm ishlaganda qanday yo'nltirma qabul qilish kerak?",
-    "variantlar": [
-     "Hamma mevaga bir xil rang",
-     "Rang tanlamay ishlash",
-     "Eng qizil rangni tanlash",
-     "Har bir mevaning tabiiy rangiga mos rang tanlash va o'ziga qarab ishlash"
-    ],
-    "togri": 3,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Mevalar rasmini ishlashda och ranglarda bo'yashning asosiy roli nima?",
-    "variantlar": [
-     "Rasmin asosiy rang qo'shimchalarini va detallarni tayyorlash",
-     "Qalam qo'shish",
-     "Qog'ozni o'tkazish",
-     "Vaqtni o'tkazish"
-    ],
-    "togri": 0,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Agar siz bo'yash jarayonida och ranglarni to'q ranglar bilan noto'g'ri qo'llasangiz, rasm qanday ko'rinadi?",
-    "variantlar": [
-     "Oq va rangsiz",
-     "Qorong'i va noto'g'ri, tabiiy ko'rinmaydi",
-     "Bo'yalgan va chiroyli",
-     "Shaffof va nozik"
+     "vaqt tejash uchun",
+     "rangni bosqichma-bosqich chuqurroq va toza qilish uchun",
+     "rang yo'q",
+     "qalamni tejash uchun"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Naturaga qarab rasm ishlaganda yana qanday muhim nimalarga e'tibor berish kerak?",
+    "savol": "Agar qalamda xomaki buzilib ketsa yoki noto'g'ri chizilgan bo'lsa, o'quvchi qanday qilishi kerak?",
     "variantlar": [
-     "Meva formasiga, o'lchami, rang o'zgarishlari va yoritish-soyaga",
-     "Faqat samaralarni",
-     "Faqat qalam qo'shimchasiga",
-     "Faqat rangga"
+     "yakunni qo'shish",
+     "qayta xomaki chizish kerak",
+     "rasm tayyor deb hisoblash",
+     "bo'yashni davom ettirish"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "\"Mevalar natyurmortini ishlang\" vazifasini bajarishda, eng yaxshi natija uchun qanday mevalar tanlash kerak?",
+    "variantlar": [
+     "faqat olma",
+     "turli xil rangga ega mevalar",
+     "faqat anor",
+     "faqat tarvuz"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Agar tasvir o'lchamlarini belgilashda darhol rang ishlatilib qolsa, bu qanday muammo tug'diradi?",
+    "variantlar": [
+     "muammo yo'q",
+     "qalamda yakunlash qiyin bo'ladi",
+     "rang chiziqlar ko'rinib qoladi va xomaki samarasini butunlay yashiradi",
+     "ko'proq rang kerak"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Mevalar rasmini ishlaganda \"to'q ranglarda ishlov berish\" bosqichi nima uchun oxirida qilish kerak?",
+    "variantlar": [
+     "vaqt tejash uchun",
+     "eng birinchi bosqich edi",
+     "soya, chuqurlik va rasm butunligini yakuniy qilish uchun",
+     "eng oson bo'lgani uchun"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Viktor Ivanovich Ufimsevning mashhur ishlari \"Moviy rumkali natyurmort\" va \"Baqlajonlar\" qanday mezonlar bo'yicha tanlanigan?",
+    "variantlar": [
+     "faqat mevalar",
+     "random tanlanish",
+     "faqat qora-oq rang",
+     "tabiiy mahsulotlar va rasm hunarmandchiligi"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Naturaga qarab rasm ishlaganda, och va to'q ranglarni to'g'ri ketma-ketlikda qo'llagan rasm bilan shunchaki bo'yangan rasm o'rtasida qanday asosiy farq bo'ladi?",
+    "variantlar": [
+     "birinchisi chuqur, ko'roq, shakl va o'lchamni aniqroq ko'rsatadi",
+     "farq yo'q",
+     "savdo uchun qiymati ko'proq",
+     "ikkinchisi ko'proq chiroyli"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Kuzda aniqlangan mevalarni tasvirlaganda qanday rang palitrasi ishlatilishi kerak?",
+    "savol": "Mevalar rasmini ishlash bosqichlarida birinchi ikki bosqich (o'lchamlarini belgilash va qalamda xomaki) nima uchun juda muhim?",
     "variantlar": [
-     "Qizil, oltin, sariq, pushti va oq ranglar",
-     "Hamma rang baravar",
-     "Faqat oq rang",
-     "Faqat qizil rang"
+     "vaqt tejash",
+     "qolgan bo'yash bosqichlarining poydevorini yaratadi",
+     "hunarmandga ruhiyat beradi",
+     "faqat oson"
     ],
-    "togri": 0,
+    "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Tasvirni qalamda yakunlashdan avval to'q ranglarda ishlov berilishi nima uchun oxirgi bosqichasiga qoldiriladi?",
+    "savol": "Agar siz \"Mevalar natyurmortini\" matndagi mevalarga asoslanib ishlagan bo'lsangiz, uning mavzusi va tasviri qaysi fasl va bayramni ifodalaydi?",
     "variantlar": [
-     "Faqat o'qituvchini rozi qilish uchun",
-     "Rasmin bosqichlari noto'g'ri bo'lishidan qo'rqish uchun",
-     "Mevaning oxirgi to'q jihatlarini qo'shib, tasvirni tugallash va to'liqliligini berish uchun",
-     "Vaqt o'tkazish uchun"
+     "bahor va Navro'z",
+     "qish va Yangi yil",
+     "kuz va Hosil bayrami",
+     "yoz va turmush"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -2002,325 +2002,336 @@
  {
   "sinf": "3-sinf",
   "kitob": "3-sinf 3-Sinf Tasviriy san’at",
-  "mavzu": "Haykaltaroshlik. Baliq relyefini yasash",
+  "mavzu": "HAYKALTAROSHLIK. BALIQ RELYEFINI YASASH",
   "savollar": [
    {
-    "savol": "Relyefli haykal deb nimaga aytiladi?",
+    "savol": "Relyefli haykal nima?",
     "variantlar": [
-     "Faqat plastilinda yasalgan haykal",
-     "Faqat taxtachada yasalgan haykal",
-     "Tekis yuzaga (devoriga) bo'rttirib ishlangan haykal",
-     "Har tomonlama aylanib ko'rishga mo'ljallangan haykal"
-    ],
-    "togri": 2,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Ilhom Jabborov qaysi yilda tug'ilgan?",
-    "variantlar": [
-     "1944-yilida",
-     "1946-yilida",
-     "1943-yilida",
-     "1945-yilida"
-    ],
-    "togri": 3,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Relyefli haykal ishlash nechta bosqichdan iborat?",
-    "variantlar": [
-     "5 bosqich",
-     "2 bosqich",
-     "3 bosqich",
-     "4 bosqich"
-    ],
-    "togri": 3,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Sohibqiron Amir Temur haykali qayerda o'rnatilgan?",
-    "variantlar": [
-     "Samarqandda",
-     "Toshkent shahrida",
-     "Buxoroda",
-     "Kokandda"
-    ],
-    "togri": 1,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Ilhom Jabborov qanday san'at arbobi?",
-    "variantlar": [
-     "Munsho'chi",
-     "Haykaltarosh",
-     "Rassmchi",
-     "Miyah yasovchi"
-    ],
-    "togri": 1,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Relyefli haykaltaroshlikning qaysi narsalar namunalari?",
-    "variantlar": [
-     "Faqat maktab duvallari",
-     "Faqat katta haykallari",
-     "Faqat devor chizmallari",
-     "Tangalar, orden va medallar"
-    ],
-    "togri": 3,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Relyefli haykal tekis yuzaga qanday ishlangan?",
-    "variantlar": [
-     "Yasab",
-     "Ekirib",
-     "Cizmab",
-     "Bo'rttirib"
-    ],
-    "togri": 3,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Ilhom Jabborov qanday asarlarning muallifi?",
-    "variantlar": [
-     "Faqat Amir Temur haykali",
-     "Faqat 'Ona' haykali",
-     "Faqat buyuk bobokalarning haykallari",
-     "Amir Temur, Al-Farg'oniy, Jaloliddin Manguberdi, 'Ona' haykallari"
-    ],
-    "togri": 3,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Haykallar ishlanish uslubiga ko'ra nechta turga bo'linadi?",
-    "variantlar": [
-     "Ikki turga",
-     "Bir turga",
-     "Uch turga",
-     "To'rt turga"
+     "Tekis yuzaga bo'rttirib ishlangan haykal",
+     "Juda katta bo'lgan haykal",
+     "Hamma tomonidan ko'rinadigan haykal",
+     "Devordan alohida turgan haykal"
     ],
     "togri": 0,
     "qiyinlik": "oson"
    },
    {
-    "savol": "L. Ryabsev 'Bahor keldi' asari qaysi haykaltaroshlik namunasi?",
+    "savol": "Ilhom Jabborov kim?",
     "variantlar": [
-     "Minik haykaltaroshlik",
-     "Relyefli haykaltaroshlik",
-     "Har tomonlama haykaltaroshlik",
-     "Xat haykaltaroshlik"
+     "Buyuk bobokaloni",
+     "O'zbekiston Badiiy akademiyasining akademigi",
+     "Qadimiy haykaltarosh",
+     "Shaharning bosh muallimi"
     ],
     "togri": 1,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Relyefli haykal va har tomonlama haykal o'rtasidagi asosiy farq nima?",
+    "savol": "Ilhom Jabborov qachon tug'ilgan?",
     "variantlar": [
-     "Relyefli haykal ancha qimmatroq",
-     "Har tomonlama haykal faqat plastilinda yasaladi",
-     "Har tomonlama haykal aylanib ko'rish uchun, relyefli esa tekis sathga bo'rttirib ishlangan",
-     "Relyefli haykal kattaroq hajmda"
+     "1935-yilda",
+     "1955-yilda",
+     "1945-yilda",
+     "1965-yilda"
     ],
     "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ilhom Jabborov qaysi haykallarni yaratgan?",
+    "variantlar": [
+     "Faqat Ona haykali",
+     "Amir Temur, Al-Farg'oniy, Jaloliddin Manguberdi, Ona",
+     "Faqat Al-Farg'oniy",
+     "Faqat Amir Temur"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Tangalar relyefli haykaltaroshlikning namunasi bo'la oladimi?",
+    "variantlar": [
+     "Yo'q, bo'lmaydi",
+     "Tangalar boshqa san'at turi",
+     "Faqat katta tangalar",
+     "Ha, bo'ladi"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Orden va medallar relyefli haykaltaroshlikka mansub bo'ladimi?",
+    "variantlar": [
+     "Yo'q, bo'lmaydi",
+     "Faqat yangi orden va medallar",
+     "Ha, bo'ladi",
+     "Ular toshdan yasatilgan"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Haykallar yasalish usuliga ko'ra necha turga bo'linadi?",
+    "variantlar": [
+     "Beshta turga",
+     "To'rtta turga",
+     "Uchta turga",
+     "Ikkita turga"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Relyefli haykalni yasashda qaysi material ishlatiladi?",
+    "variantlar": [
+     "Faqat tosh",
+     "Plastilini yoki loy",
+     "Faqat temir",
+     "Faqat vodiy"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Haykallarning ikkita turini ayting.",
+    "variantlar": [
+     "Juda katta va kichik",
+     "Har tomonlama aylanib ko'rishga mo'ljallangan va tekis sathga bo'rttirib ishlangan",
+     "Tosh va temir",
+     "Rangli va oq"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Relyefli haykal ishlashda qaysi material taxtachaning asosi bo'ladi?",
+    "variantlar": [
+     "Temir",
+     "Yog'och",
+     "Plastmassa",
+     "Plastilini yoki loy"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Relyefli haykalni yasashning birinchi bosqichi nima?",
+    "variantlar": [
+     "Yakuniy ishlov berish",
+     "Rasmni chizib olish",
+     "Haykalni kesish",
+     "Plastilinni taxtachaga ma'lum qalinlikda tekis yotqizish"
+    ],
+    "togri": 3,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Relyefli baliq haykali ishlashni boshlayotgan bo'lsangiz, birinchi qadam nima?",
+    "savol": "Relyefli haykalni yasashning ikkinchi bosqichi qaysi?",
     "variantlar": [
-     "Rasmsini chizib olish",
-     "Haykal shaklini kesish",
-     "Plastilinni taxtachaga ma'lum qalinlikda tekis yotqizish",
-     "Relyefga yakuniy ishlov berish"
-    ],
-    "togri": 2,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Relyefli haykal ishlashning ikkinchi bosqichi qaysi?",
-    "variantlar": [
-     "Plastilinni taxtachaga tekis yotqizish",
+     "Plastilinni yotqizish",
+     "Yakuniy ishlov berish",
      "Ishlanadigan haykal shaklini chizib olish",
-     "Haykal shaklini kesish",
-     "Yakuniy ishlov berish"
+     "Haykalni kesish"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Relyefli haykalni yasashning uchinchi bosqichi qaysi?",
+    "variantlar": [
+     "Rasmni chizib olish",
+     "Yakuniy ishlov berish",
+     "Plastilinni yotqizish",
+     "Ishlanadigan haykal shaklini kesish"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Relyefli haykalni yasashning to'rtinchi bosqichi nima?",
+    "variantlar": [
+     "Taxtachani tayyorlash",
+     "Haykalni qo'yish",
+     "Relyefga yakuniy ishlov berish",
+     "Rasmni belgilash"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Amir Temur haykali Toshkentda qaysi haykaltaroshlar tomonidan yasatilgan?",
+    "variantlar": [
+     "L. Ryabsev",
+     "Ilhom va Kamol Jabborovlar",
+     "Faqat Kamol Jabborov",
+     "Faqat Ilhom Jabborov"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Baliq relyefini yasashda qaysi materialdan foydalanish kerak?",
+    "savol": "Al-Farg'oniy haykali qaysi san'at arbobining asariy?",
     "variantlar": [
-     "Plastilina (loydan)",
-     "Kartonndan",
-     "Qog'ozdan",
-     "Temir simdan"
+     "Kamol Jabborovning",
+     "Ilhom Jabborovning",
+     "Ikkala Jabborovning",
+     "L. Ryabsevning"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Relyefli haykalda plastilini qanday sathda yotqizish kerak?",
+    "variantlar": [
+     "Tekis sathda",
+     "Burchakli",
+     "Aylana shakldagi",
+     "Tolqinli"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Relyefga yakuniy ishlov berish qaysi bosqichda amalga oshiriladi?",
+    "savol": "Ilhom Jabborov yasagan \"Ona\" haykali qaysi turdagi san'atning namunasi?",
     "variantlar": [
-     "Uchinchi bosqichda",
-     "Ikkinchi bosqichda",
-     "Birinchi bosqichda",
-     "To'rtinchi bosqichda"
-    ],
-    "togri": 3,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Ilhom Jabborov O'zbekiston Badiiy akademiyasining qanday darajasiga ega?",
-    "variantlar": [
-     "Rahbari",
-     "Kattalari",
-     "O'qtuvchi",
-     "Akademigi"
-    ],
-    "togri": 3,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Relyefli haykal ishlashda taxtachaning roli nima?",
-    "variantlar": [
-     "Plastilini qo'yish uchun asos",
-     "Haykalni saqlaydigan joy",
-     "Rasmsini ko'chirish uchun",
-     "Faqat rasm chizish uchun"
-    ],
-    "togri": 0,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Baliq relyefini yasashda haykal shaklini kesish qaysi bosqichda amalga oshiriladi?",
-    "variantlar": [
-     "Birinchi bosqichda",
-     "Uchinchi bosqichda",
-     "To'rtinchi bosqichda",
-     "Ikkinchi bosqichda"
-    ],
-    "togri": 1,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Ilhom Jabborovning 'Ona' haykali va Amir Temur haykali qaysi xususiyati bilan bir xil?",
-    "variantlar": [
-     "Barchasi devoriga o'rnatilgan",
-     "Barchasi haykaltarosh tomonidan yasalgan",
-     "Barchasi ayniy o'lchamda",
-     "Barchasi bir haftalada yasalgan"
-    ],
-    "togri": 1,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Haykallar 2 turga bo'linadi: har tomonlama aylanib ko'rishga mo'ljallangan va qaysi turdagi?",
-    "variantlar": [
-     "Devorga ekirilgan haykallar",
-     "Kichik o'lchamli haykallar",
-     "Tekis sathga bo'rttirib ishlangan relyefli haykallar",
-     "Rangga bo'yalgan haykallar"
+     "Qo'l ishi",
+     "Ressam san'ati",
+     "Relyefli haykaltaroshlik",
+     "Parch"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Nima uchun tangalar, orden va medallar relyefli haykaltaroshlik namunasi hisoblanadi?",
+    "savol": "Jaloliddin Manguberdi haykali kim tomonidan yaratilgan?",
     "variantlar": [
-     "Ular tekis yuzalarga bo'rttirib ishlangan va faqat bitta tomondan ko'rinadi",
-     "Ular katta hajmda yasaladi",
-     "Ular eng qimmat tanga hisoblanadi",
-     "Ular Toshkentda faqat saqlanadi"
+     "L. Ryabsev",
+     "Ilhom Jabborov",
+     "Amir Temur",
+     "Kamol Jabborov"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "\"Baliq relyefini yasash\" darsida qaysi hayvan modeli ishlatiladi?",
+    "variantlar": [
+     "Mushuk",
+     "Baliq",
+     "Tuyovul",
+     "Quyon"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Nega relyefli haykalni devorga yoki tekis yuzaga o'rnatish kerak?",
+    "variantlar": [
+     "Relyefli haykal tabiatan devorga bo'rttirib ishlangan bo'lgani uchun",
+     "Devor eng xavfsiz joy",
+     "Relyef yolg'iz o'zgaruvchiga qo'yilishi mumkin",
+     "Faqat shaharlar uchun qoida"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Relyefli haykal ishlash bosqichlarining tartibini o'zgartirib ishlash mumkinmi va nima uchun?",
+    "savol": "Agar plastilinni taxtachaga notekis yotqizmagan bo'lsa, nima kelib chiqadi?",
     "variantlar": [
-     "Ha, har qanday tartibda ishlash mumkin",
-     "Yo'q, chunki birinchi qadamning tayyorligi keyingi bosqichlarning muvaffaqiyatiga bog'liq",
-     "Ha, lekin faqat oxirgi ikkita bosqich o'zgartiriladi",
-     "Yo'q, ammo faqat taxtachani almashtirish kerak"
+     "Plastilini tezda qumilib qoladi",
+     "Chizib olish osonroq bo'ladi",
+     "Relyef sathida tengsizlik bo'lib qoladi va haykal to'g'ri ko'rinmaydi",
+     "Detallar yanada ajoyib ko'rinadi"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ilhom Jabborov O'zbekiston Badiiy akademiyasining akademigi bo'lishining asosiy sababi nima?",
+    "variantlar": [
+     "Eng tarixga kitob yozgan",
+     "Toshkentda yashagan",
+     "Ko'p nufuzli va muhim haykallar yaratgan bo'lgani uchun",
+     "Juda ko'p pul ishlab topgan"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Tangalar, ordenlar va medallar nima uchun relyefli haykaltaroshlikning misollari?",
+    "variantlar": [
+     "Ularning faqat tarihiy qiymati bor",
+     "Ular juda kichik o'lchamda",
+     "Ular rang bilan bezatiladi",
+     "Ularning yuzasi tekis bo'lib, detallar relyef shakldagi bo'lgani uchun"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Relyefli haykalni yasashda eng muhim bosqich qaysi?",
+    "variantlar": [
+     "Yakuniy ishlov berish, chunki bu oxirgi",
+     "Rasmni chizib olish, chunki bu batafsil",
+     "Kesib olish, chunki bu eng qiyin",
+     "Plastilinni to'g'ri yotqizish, chunki bu barcha ishlaning asosi"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Relyefli haykalni yasashda chizib olish bosqichi nima uchun muhim?",
+    "variantlar": [
+     "Batafsil rejani olish va xatolarni avvalanma tekshirish imkonini beradi",
+     "San'at qoidasi",
+     "Barcha haykaltarosh uchun majburiy",
+     "Vaqtni tejash uchun"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Amir Temur haykali nima uchun relyefli haykal emas?",
+    "variantlar": [
+     "Toshdan yasatilgan",
+     "Har tomonlama aylanib ko'rishga mo'ljallangan bo'lib, devorga o'rnatilmagan",
+     "Juda katta",
+     "Faqat xomiin uchun"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Baliq relyefini yasashda plastilin qalinligini nima uchun ma'lum bo'lib belgilash kerak?",
+    "savol": "Relyefli haykalni kesib ishlashda qanday masalalar e'tiborga olish kerak?",
     "variantlar": [
-     "Plastilinda kamchi qolmaydi degan uchun",
-     "Faqat tezlik uchun",
-     "Taxtachaning rangi o'zgarmasin degan uchun",
-     "Baliqning hajmi va o'lchamini aniq ko'rsatish uchun"
+     "Plastilini yumshoq bo'lmasligi",
+     "Rasm qora bo'lmasligi",
+     "Devor to'xtolib qolmasligi",
+     "Proportsiylari va detallari o'zaro nisbatini to'g'ri saqlash"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Ilhom Jabborovning Al-Farg'oniy, Jaloliddin Manguberdi va 'Ona' haykallari qaysi jihati bilan bir xil?",
+    "savol": "\"Ona\" haykali Amir Temur haykalidan qanday farq qiladi?",
     "variantlar": [
-     "Barchasi ayniy o'lchamda yasalgan",
-     "Barchasi plastilinda yasalgan",
-     "Barchasi O'zbekiston tarixidagi muhim shaxs yoki qiymatlari ifodalagan",
-     "Barchasi Toshkent shahrida saqlanadi"
+     "Amir Temur haykalinig materioli muxtlif",
+     "\"Ona\" relyefli haykal, Amir Temur buyum haykal",
+     "Ona haykalinig ko'li kattaroq",
+     "\"Ona\" tangi XVIII asrda yasatilgan"
     ],
-    "togri": 2,
+    "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Relyefli haykaltaroshlik va har tomonlama haykaltaroshlikdan qaysi biri ko'proq san'atiy mahorat talab qiladi va nima uchun?",
+    "savol": "Plastilinni ma'lum qalinlikda yotqizish nima uchun zarur?",
     "variantlar": [
-     "Relyefli, chunki faqat bitta tomoni ko'rinadi",
-     "Har ikkalasi bir xil mahorat talab qiladi",
-     "Relyefli, chunki uning barcha tomonlari chiroyli bo'lishi kerak",
-     "Har tomonlama, chunki sahnada to'rt tarafdan ham mukammal ko'rinishi kerak"
+     "Sath teng bo'lib, barcha detallar to'g'ri o'lchamda joylashib, relyef harmonik ko'rinadi",
+     "San'at qoidasi",
+     "Plastilni himoya qilish uchun",
+     "Damir ishqalamasi uchun"
     ],
-    "togri": 3,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Agar siz xo'roz relyefini yasamoqchi bo'lsangiz, baliq relyefini yasash usuli bilan qanday bog'liq?",
-    "variantlar": [
-     "Relyef ishlash uchun yana ikki qadamli bosqich qo'shiladi",
-     "Tugalima boshqa usul ishlatiladi",
-     "Bir xil bosqichlardan iborat bo'ladi, lekin detalllar va shakllar boshqa",
-     "Xo'roz faqat har tomonlama haykalni yasash uchun"
-    ],
-    "togri": 2,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Devor va tekis yuzalarga bo'rttirib ishlangan haykallar nima uchun 'relyef' deyiladi, 'har tomonlama' deyilmaydi?",
-    "variantlar": [
-     "Ularni aylanib ko'rish mumkin",
-     "Ularning rangi turlicha bo'ladi",
-     "Ularning har tomonlama hajmi bor",
-     "Ularni faqat bitta tomondan ko'rish mumkin bo'lgani uchun"
-    ],
-    "togri": 3,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Relyefli haykal ishlash jarayonida shaklni kesish operatsiyasidan keyin, rasmsini yana chizib olinishi nima uchun zarur emas?",
-    "variantlar": [
-     "Rasmni xatosiz chizilgan deb taxmin qilish kerak",
-     "Shunchaki vaqt sarfini tejash uchun",
-     "Kesish jarayonida shaklning konturi allaqachon belgilab qo'yilgan bo'ladi",
-     "Plastilini qaytadan o'zgartirilishi mumkin emas uchun"
-    ],
-    "togri": 2,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Relyefli haykaltaroshlikni o'rganish orqali qaysi bilimlar va ko'nikmalarga ega bo'linish mumkin?",
-    "variantlar": [
-     "Faqat plastilini tegilish usullarini",
-     "Faqat qog'ozni bukish uchun",
-     "San'atiy ifoda, 3D tasavvur va O'zbek xalqining muhim qiymatlari haqida bilim",
-     "Faqat rang aralashtirishni"
-    ],
-    "togri": 2,
+    "togri": 0,
     "qiyinlik": "qiyin"
    }
   ]
@@ -2328,325 +2339,336 @@
  {
   "sinf": "3-sinf",
   "kitob": "3-sinf 3-Sinf Tasviriy san’at",
-  "mavzu": "To'rtburchak shaklda naqsh ishlash",
+  "mavzu": "TO'RTBURCHAK SHAKLDA NAQSH ISHLASH",
   "savollar": [
    {
-    "savol": "Kashtachilik buyumlarida to'rtburchak shaklidagi naqshlar qaysi buyumlardan biri bo'ladi?",
+    "savol": "To'rtburchak shaklidagi naqshlar qaysi san'atlarda qo'llaniladi?",
     "variantlar": [
-     "Mashin, avto, ruk",
-     "Palak, so'zana, choyshab",
-     "Kitob, qalam, daftar",
-     "Erkak, ayol, bola"
-    ],
-    "togri": 1,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "To'rtburchak shaklidagi naqshlardan qaysi san'atga mansub?",
-    "variantlar": [
-     "Ilmiy san'at",
-     "Musiqa san'ati",
-     "Adabiyot san'ati",
-     "Amaliy san'at"
+     "Faqat kashtachilikda",
+     "Faqat yog'och o'ymakorligida",
+     "Faqat naqqoshlikda",
+     "Naqqoshlik, yog'och o'ymakorligi va ganch o'ymakorligida"
     ],
     "togri": 3,
     "qiyinlik": "oson"
    },
    {
-    "savol": "\"Oygul\" naqsh bezagini belgilash uchun qaysi belgi ishlatiladi?",
+    "savol": "Kashtachilikda qaysi buyumlarda to'rtburchak naqshlar bezatiladi?",
     "variantlar": [
-     "\"*\" belgi",
-     "\"+\" belgi",
-     "\"-\" belgi",
-     "\"?\" belgi"
+     "Kitob, daftar, oynalmaqlarda",
+     "Tuflida, paltada, shoxda",
+     "Rasm, ko'zoynak, shapkada",
+     "Palak, so'zana, choyshab va kirpechda"
     ],
-    "togri": 1,
+    "togri": 3,
     "qiyinlik": "oson"
    },
    {
-    "savol": "\"Barg\" naqsh bezagini belgilash uchun qaysi belgi ishlatiladi?",
+    "savol": "\"Oygul\" bezagi naqshda qaysi belgi bilan belgilanadi?",
     "variantlar": [
-     "\"-\" belgi",
      "\"+\" belgi",
-     "\"!\" belgi",
-     "\"#\" belgi"
+     "\"#\" belgi",
+     "\"*\" belgi",
+     "\"-\" belgi"
     ],
     "togri": 0,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Qog'ozni necha qavat qilib buklab gul bezagi chizib olinadi?",
+    "savol": "\"Barg\" bezagi naqshda qaysi belgi bilan belgilanadi?",
     "variantlar": [
-     "3 qavat",
-     "5 qavat",
+     "\"0\" belgi",
+     "\"+\" belgi",
+     "\"*\" belgi",
+     "\"-\" belgi"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Qog'ozni buklab naqsh chizilganda nechta qavat yasaladi?",
+    "variantlar": [
+     "4 qavat",
      "8 qavat",
+     "6 qavat",
      "10 qavat"
     ],
-    "togri": 2,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Matnda berilgan bezak gullari qaysilari?",
-    "variantlar": [
-     "Kitobga, qop, tutuniga",
-     "Qor, yer, asma",
-     "Barg bodom, bofta, garmdori, marg'ula, oygul, paxtagul",
-     "Suvga, havoga, yulduzga"
-    ],
-    "togri": 2,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Kashtachilik buyumlarida ko'p uchraydigan tasvirlar nima?",
-    "variantlar": [
-     "Qayiqlar, mashinalar",
-     "O'simliksimon tasvirlar, shox, gulband, guldastalar",
-     "Hayvonlar, baliqlar",
-     "Erkaklar, ayollar"
-    ],
     "togri": 1,
     "qiyinlik": "oson"
    },
    {
-    "savol": "To'rtburchak shapidagi naqshlar qaysi san'at turlarida qo'llaniladi?",
+    "savol": "Bezak gullaridan biri qaysi?",
     "variantlar": [
-     "Faqat kashtachilikda",
-     "Faqat taomlar tayyorlab kelishda",
-     "Faqat o'qituvchilikda",
-     "Naqqoshlik, yog'och o'ymakorligi, ganch o'ymakorligida"
+     "Oq",
+     "Dush",
+     "Tup",
+     "Bodom"
     ],
     "togri": 3,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Sariq rangli qog'ozdan qaysi bezak guli kesib olinadi?",
+    "savol": "Kashtachilik buyumlarida ko'p uchraydi...",
     "variantlar": [
-     "\"Oygul\" bezak guli",
-     "\"Garmdori\" bezak guli",
-     "\"Bodom\" bezak guli",
-     "\"Barg\" bezak guli"
+     "Geometrik shaklar",
+     "Raqamlar va harflar",
+     "Yo'lsimon naqshlar",
+     "O'simliksimon tasvirlar, shox va guldastalar"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Naqsh ishlashda qirqib olingan bezak gullari qayda joylashtiriladi?",
+    "variantlar": [
+     "Qizil rangli qog'ozga",
+     "Sariq rangli qog'ozga",
+     "Oq rangli qog'ozga",
+     "Yashil rangli qog'ozga"
     ],
     "togri": 0,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Yashil rangli qog'ozdan qaysi bezak guli kesib olinadi?",
+    "savol": "Sariq va yashil rangli qog'oz nima uchun ishlatiladi?",
     "variantlar": [
-     "\"Paxtagul\" bezak guli",
-     "\"Garmdori\" bezak guli",
-     "\"Oygul\" bezak guli",
-     "\"Barg\" bezak guli"
+     "Rang bo'yash uchun",
+     "Asosga ishlatish uchun",
+     "Chegarani chizish uchun",
+     "Bezak gullarini qirqib olish uchun"
     ],
     "togri": 3,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Buklangan sariq qog'ozni \"oygul\" guli bo'yicha kesish natijasida nechta \"oygul\" bezak guli paydo bo'ladi?",
+    "savol": "Kashtachilikda to'rtburchak naqshlar bilan birga qaysi shakldagi naqshlar ham ishlatiladi?",
     "variantlar": [
-     "16 ta",
-     "4 ta",
-     "2 ta",
-     "8 ta"
+     "Faqat doira",
+     "Faqat kvadrat",
+     "Faqat yo'lsimon",
+     "Yo'lsimon, doira va kvadrat"
     ],
     "togri": 3,
-    "qiyinlik": "o'rtacha"
+    "qiyinlik": "oson"
    },
    {
-    "savol": "Agar yashil qog'ozdan 8 qavat buklab \"barg\" chizib kesish, nechta \"barg\" bezak guli paydo bo'ladi?",
+    "savol": "Sariq qog'ozni 8 qavat buklab \"oygul\" chizib qirqib olingach nechta \"oygul\" hosil bo'ladi?",
     "variantlar": [
-     "4 ta",
-     "10 ta",
-     "6 ta",
-     "8 ta"
-    ],
-    "togri": 3,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Kesib olingan bezak gullarini qaysi rangli qog'oz ustiga joylashtiriladi?",
-    "variantlar": [
-     "Oq rangli qog'oz ustiga",
-     "Ko'k rangli qog'oz ustiga",
-     "Sariq rangli qog'oz ustiga",
-     "Qizil rangli qog'oz ustiga"
-    ],
-    "togri": 3,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Naqsh jadvalida \"+\" va \"-\" belgilari nimani belgilaydi?",
-    "variantlar": [
-     "Ranglarni",
-     "Harflarni",
-     "Bezak gullarining o'rnini",
-     "Raqamlarni"
-    ],
-    "togri": 2,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Palak, so'zana, choyshab kabi kashtachilik buyumlarida qaysi tasvirlar ko'p uchraydi?",
-    "variantlar": [
-     "Harfli naqshlar",
-     "O'simliksimon tasvirlar, shox, gulband, guldastalar",
-     "Geometrik naqshlar",
-     "Raqamli naqshlar"
-    ],
-    "togri": 1,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Naqsh shaklini ishlash uchun berilgan tarxlardan qanday tanlab olish kerak?",
-    "variantlar": [
-     "Faqat chizib kesish",
-     "Faqat bo'yib rangash",
-     "Tarxlaridan birini tanlab, qirqib olingan bezak gullarini joylashtirib ishlash",
-     "Faqat buklab kesish"
-    ],
-    "togri": 2,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "To'rtburchak shaklidagi naqsh ishlashda naqsh jadvalida berilgan rasmlarda nima ko'rsatiladi?",
-    "variantlar": [
-     "Faqat raqamlar",
-     "Faqat harflar",
-     "Faqat ranglar",
-     "Bezak gullarining o'rnini \"+\" va \"-\" belgilari ko'rsatadi"
-    ],
-    "togri": 3,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Qog'ozni turlicha qavat qilib buklaganda, kesib olingan bezak gullarining soni qanday o'zgaradi?",
-    "variantlar": [
-     "Faqat rang o'zgaradi",
-     "Qavat soni orttirilsa, bezak gullarining soni ham ortadi",
-     "O'zgarib qolmaydi",
-     "Faqat shakli o'zgaradi"
-    ],
-    "togri": 1,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Naqshda \"oygul\" sariq qog'ozdan, \"barg\" qaysi rangli qog'ozdan kesib olinadi?",
-    "variantlar": [
-     "Qizil qog'ozdan",
-     "Yashil qog'ozdan",
-     "Ko'k qog'ozdan",
-     "Oq qog'ozdan"
-    ],
-    "togri": 1,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Naqshni ishlashning birinchi bosqichi qanday?",
-    "variantlar": [
-     "Jadvaldan foydalanish",
-     "Sariq qog'ozni 8 qavat buklab \"oygul\" chizib olish",
-     "Yashil qog'ozni bukish",
-     "Qizil qog'oz ustiga qo'yish"
-    ],
-    "togri": 1,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Agar qog'ozni 4 qavat buklab \"oygul\" chizib kesish, nechta \"oygul\" bezak guli paydo bo'lardi?",
-    "variantlar": [
-     "2 ta",
+     "64 ta",
      "8 ta",
      "16 ta",
-     "4 ta"
+     "1 ta"
     ],
-    "togri": 3,
-    "qiyinlik": "qiyin"
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Jami 8 ta \"oygul\" va 8 ta \"barg\" kesib olish uchun qaysi rangli qancha qog'oz kerak?",
+    "savol": "Yashil qog'ozdan 8 ta \"barg\" va sariq qog'ozdan 8 ta \"oygul\" qirqib olingach, jami nechta bezak guli bo'ladi?",
     "variantlar": [
-     "Faqat sariq qog'oz",
-     "Sariq va yashil qog'ozdan bittadan",
-     "To'rt rangli qog'oz",
-     "Faqat yashil qog'oz"
+     "32 ta",
+     "16 ta",
+     "24 ta",
+     "8 ta"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Naqsh ishlashning birinchi bosqichida qanday ishlanadi?",
+    "variantlar": [
+     "Sariq qog'ozni 8 qavat qilib buklash",
+     "Naqsh namunasini tanlash",
+     "Qizil qog'ozga bezak guli joylash",
+     "Yashil qog'ozni buklab naqsh chizish"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Qog'ozni buklab naqsh chizilgandan so'ng nima qilinadi?",
+    "variantlar": [
+     "Rang bo'yanadi",
+     "Yana buklanadi",
+     "Buklangan qog'ozni chizilgan gul bezagi bo'yicha qirqish",
+     "Qizil qog'ozga to'g'ridan-to'g'ri joylashtiriladi"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Bezak gullarini joylashtirishda turlicha usullardan foydalanish mumkinmi?",
+    "variantlar": [
+     "Joylashtirish zarur emas",
+     "Yo'q, faqat bitta usulda",
+     "Faqat ikkita usulda",
+     "Ha, ko'p usulda joylashtirish mumkin"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Yashil rangli qog'ozdan qanday bezak gullari qirqib olinadi?",
+    "variantlar": [
+     "16 ta \"oygul\"",
+     "16 ta \"barg\"",
+     "8 ta \"barg\"",
+     "8 ta \"oygul\""
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Kashtachilik va naqqoshlikda to'rtburchak naqshlar qanday maqsadda qo'llaniladi?",
+    "variantlar": [
+     "Faqat rang uchun",
+     "Faqat chiziq uchun",
+     "Hech qaysi maqsad uchun",
+     "Bezak va naqsh yaratish uchun"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ganch o'ymakorligida to'rtburchak naqshlar qo'llanilishi nimani anglatadi?",
+    "variantlar": [
+     "Bu naqsh qimmatli san'atda qo'llanilishini",
+     "Bu naqsh turi juda keng tarqalgan ekanligini",
+     "Bu san'at yo'q ekanligini",
+     "Naqsh faqat kashtachilikda qo'llanilishini"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Naqsh ishlashning qaysi bosqichlarida turli rang qog'ozlar ishlatiladi?",
+    "variantlar": [
+     "Barcha bosqichlarda",
+     "Birinchi, ikkinchi va oxirgi bosqichlarda",
+     "Faqat oxirgi bosqichda",
+     "Faqat birinchi bosqichda"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Palak, so'zana va choyshab kabi kashtachilik buyumlariga qanday tasvirlar bilan bezak qo'llaniladi?",
+    "variantlar": [
+     "Xat va belgalar",
+     "Geometrik shaklar",
+     "Harflar va raqamlar",
+     "O'simliksimon tasvirlar va guldastalar"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Sariq qog'ozni 8 qavat buklab \"oygul\" chizib qirqib olingach, paydo bo'ladigan naqsh bezaklarining soni nima asosida aniqlanadi?",
+    "variantlar": [
+     "Buklanish soni × 8",
+     "Har bir qavat = 1 ta bezak guli, jami 8 ta",
+     "Buklanish soni ÷ 8",
+     "Buklanish soni + 8"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Agar naqsh jadvalida \"oygul\" (+) 6 ta, \"barg\" (-) 4 ta bo'lsa, naqshda qaysi bezak ko'p bo'ladi?",
+    "savol": "Agar naqsh ishlashda sariq qog'ozdan 8 ta \"oygul\", yashil qog'ozdan 8 ta \"barg\" qirqib olingansa, qizil qog'ozga joylashtirilganda jami nechta bezak guli bo'ladi?",
     "variantlar": [
-     "Bilish mumkin emas",
-     "Teng bo'ladi",
-     "\"Barg\" ko'p bo'ladi",
-     "\"Oygul\" ko'p bo'ladi"
+     "16 ta",
+     "8 ta",
+     "32 ta",
+     "24 ta"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Naqsh ishlashda sariq va yashil qog'ozning turlicha ishlatilishi qanday foyda keltiradi?",
+    "variantlar": [
+     "Bezak gullarining rangi o'zgaradi",
+     "Qirqish qiynroq bo'ladi",
+     "Turli bezak gullarini turlicha joylashtirish imkonini beradi",
+     "Rasm chizish osonroq bo'ladi"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Kashtachilik buyumlarida (palak, so'zana, choyshab, kirpech, zardevor) o'simliksimon tasvirlar bilan naqsh qo'llanilishi nimani ko'rsatadi?",
+    "variantlar": [
+     "Tabiiy motivlarning bezakda muhim rol o'ynaganligini",
+     "Naqsh qo'llash kerak emasligini",
+     "Faqat rang muhim ekanligini",
+     "Faqat kashtachilikda qo'llanilishini"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Qog'ozni 8 qavat buklab naqsh chizgandan so'ng qirqib olingach, naqsh bezaklarining soni nimaga bog'liq bo'ladi?",
+    "variantlar": [
+     "Buklanish soniga",
+     "Faqat rang tanlashiga",
+     "Faqat qalam turini tanlashiga",
+     "Qog'ozning o'lchamiga"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "\"Oygul\" va \"barg\" belgilashda turli belgilar (+ va -) ishlatilishi nima uchun zarur?",
+    "variantlar": [
+     "Faqat chizish qiynligi uchun",
+     "Belgi qo'llash shart emas",
+     "Rang to'plami uchun",
+     "Turli bezak gullarini ajratib turish va naqsh ko'rsatish uchun"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Qog'ozni 8 qavat buklab kesish natijasida nega 8 ta bezak guli paydo bo'ladi?",
+    "savol": "Naqqoshlik, yog'och o'ymakorligi va ganch o'ymakorligida to'rtburchak naqshlar qo'llanilishi nimani bildiradi?",
     "variantlar": [
-     "Qog'oz rangi sabab",
-     "Faqat bitta gul paydo bo'ladi",
-     "Har bir qavat kesishda bittadan gul paydo bo'ladi",
-     "Qog'ozning shakli sabab"
+     "Bu naqsh turi faqat kashtachilikda kerak",
+     "Naqsh shakli muhim emas",
+     "Bu san'atlarda naqsh qo'llash mumkin emas",
+     "To'rtburchak naqsh turi san'atlarda keng tarqalgan va muhim"
     ],
-    "togri": 2,
+    "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Kashtachilikdan tashqari, to'rtburchak shaklidagi naqshlar boshqa qaysi san'at turlarida qo'llaniladi?",
+    "savol": "Agar naqsh kompositsiyasida barg, oygul, uch barg, marg'ula, lolagul, paxtagul va bofta barcha bezak gullari ishtirok etsa, bu naqsh qanday xususiyatga ega bo'ladi?",
     "variantlar": [
-     "Faqat musiqa san'atida",
-     "Faqat kashtachilikda",
-     "Naqqoshlik, yog'och o'ymakorligi, ganch o'ymakorligida",
-     "Faqat o'qituvchilikda"
+     "Faqat oygul bezak guli kerak",
+     "Xato naqsh bo'ladi",
+     "Sodda naqsh bo'ladi",
+     "Bogatli va turli bezak gullardan iborat bo'ladi"
     ],
-    "togri": 2,
+    "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "To'rtburchak shaklidagi naqshda bezak gullarining o'rnini o'zgartirish natijasida nima bo'ladi?",
+    "savol": "Kashtachilik buyumlariga qo'llaniladigan o'simliksimon tasvirlar, shox, gulband va guldastalarning barchasi qaysi naqsh shakli bilan bezatiladi?",
     "variantlar": [
-     "Naqsh o'zgarib qolmaydi",
-     "Naqshning ko'rinishi boshqacharoq bo'ladi",
-     "Faqat rang o'zgaradi",
-     "Faqat katta bo'ladi"
+     "Uchburchak shakl bilan",
+     "To'rtburchak shakl bilan",
+     "Yo'lsimon shakl bilan",
+     "Doira shakl bilan"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Naqsh jadvalida berilgan rasmlarga muvofiq to'rtburchakli naqsh ishlashning to'liq jarayoni qanday?",
+    "savol": "Naqsh ishlashning 1-bosqichida sariq, 2-bosqichida yashil, 3-bosqichida qizil rang qog'oz ishlatilishining tartibiy o'zgarishi nima uchun zarur?",
     "variantlar": [
-     "Faqat bukib kesish",
-     "Faqat bo'yib rangash",
-     "Jadvalga ko'ra bezak gullarini joylashtirish, keyin yopishtirib ishlash",
-     "Faqat chizib kesish"
+     "Rang o'zgarishi uchun",
+     "Har bir bosqichning turli xususiyatiga va maqsadiga mos kelib, bezak yaratish uchun",
+     "Tartib muhim emas",
+     "Rang har safar o'zgarishi shart"
     ],
-    "togri": 2,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Agar naqsh jadvalida \"oygul\" 3 ta, \"barg\" 2 ta, keyin yana \"oygul\" 3 ta, \"barg\" 2 ta pattern takrorlansin, jami nechta \"oygul\" va nechta \"barg\" bo'ladi?",
-    "variantlar": [
-     "8 ta oygul va 8 ta barg",
-     "4 ta oygul va 6 ta barg",
-     "6 ta oygul va 4 ta barg",
-     "5 ta oygul va 5 ta barg"
-    ],
-    "togri": 2,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Kashtachilik buyumlari bezashda to'rtburchak shaklidagi naqshlardan foydalanishning asosiy sababi nima?",
-    "variantlar": [
-     "Rasm chizish uchun",
-     "O'yin uchun",
-     "O'simliksimon tasvirlar, shox, gulband, guldastalarni qo'yish uchun qulay",
-     "O'quv material sifatida"
-    ],
-    "togri": 2,
+    "togri": 1,
     "qiyinlik": "qiyin"
    }
   ]

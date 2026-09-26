@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Geometriya",
+ "mavzu": "Geometrik shakllarning perimetri va yuzini hisoblashga doir masalalar",
+ "savollar": [
+  {
+   "savol": "Kvadratning perimetrini hisoblash formulasi qaysi?",
+   "variantlar": [
+    "P = 2(a+b)",
+    "P = 4a",
+    "P = 2a + 2b",
+    "P = a²"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kvadratning yuzini hisoblash formulasi qaysi?",
+   "variantlar": [
+    "S = 4a",
+    "S = a²",
+    "S = a·b",
+    "S = 2a"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'g'ri to'rtburchakning perimetrini hisoblash formulasi qaysi?",
+   "variantlar": [
+    "P = a + b",
+    "P = a² + b²",
+    "P = 2a + 2b",
+    "P = a·b"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'g'ri to'rtburchakning yuzini hisoblash formulasi qaysi?",
+   "variantlar": [
+    "S = a + b",
+    "S = 2(a+b)",
+    "S = a²",
+    "S = a·b"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Uchburchakning yuzini hisoblash formulasi qaysi?",
+   "variantlar": [
+    "S = 2·a·h",
+    "S = ½·a·h",
+    "S = a + h",
+    "S = a·h"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Parallelogrammning yuzini hisoblash formulasi qaysi?",
+   "variantlar": [
+    "S = a²",
+    "S = ½·a·h",
+    "S = a·h",
+    "S = 2·a·h"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Trapetsiyaning yuzini hisoblash formulasi qaysi (a va b asoslar, h balandlik)?",
+   "variantlar": [
+    "S = h·(a+b)/2",
+    "S = 2h·(a+b)",
+    "S = a·h",
+    "S = (a+b)·h"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Doira aylanasining uzunligini (perimetrini) hisoblash formulasi qaysi?",
+   "variantlar": [
+    "l = 2πr",
+    "l = πr²",
+    "l = πr",
+    "l = 4πr"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Doiraning yuzini hisoblash formulasi qaysi?",
+   "variantlar": [
+    "S = 2πr",
+    "S = 2πr²",
+    "S = πr²",
+    "S = πr"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "l = 2πr formulasidagi \"r\" harfi nimani anglatadi?",
+   "variantlar": [
+    "Diametrni",
+    "Balandlikni",
+    "Radiusni",
+    "Perimetrni"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tomoni 5 sm bo'lgan kvadratning perimetrini toping.",
+   "variantlar": [
+    "15 sm",
+    "20 sm",
+    "25 sm",
+    "10 sm"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tomoni 6 sm bo'lgan kvadratning yuzini toping.",
+   "variantlar": [
+    "36 sm²",
+    "12 sm²",
+    "24 sm²",
+    "30 sm²"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tomonlari 4 sm va 7 sm bo'lgan to'g'ri to'rtburchakning perimetrini toping.",
+   "variantlar": [
+    "28 sm",
+    "11 sm",
+    "14 sm",
+    "22 sm"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tomonlari 5 sm va 8 sm bo'lgan to'g'ri to'rtburchakning yuzini toping.",
+   "variantlar": [
+    "13 sm²",
+    "45 sm²",
+    "26 sm²",
+    "40 sm²"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Asosi 10 sm, balandligi 6 sm bo'lgan uchburchakning yuzini toping.",
+   "variantlar": [
+    "60 sm²",
+    "20 sm²",
+    "30 sm²",
+    "16 sm²"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Asosi 8 sm, balandligi 5 sm bo'lgan parallelogrammning yuzini toping.",
+   "variantlar": [
+    "13 sm²",
+    "20 sm²",
+    "45 sm²",
+    "40 sm²"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Asoslari 6 sm va 10 sm, balandligi 4 sm bo'lgan trapetsiyaning yuzini toping.",
+   "variantlar": [
+    "64 sm²",
+    "16 sm²",
+    "32 sm²",
+    "40 sm²"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Radiusi 7 sm bo'lgan doiraning aylana uzunligini toping (π ≈ 22/7).",
+   "variantlar": [
+    "22 sm",
+    "49 sm",
+    "44 sm",
+    "28 sm"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Radiusi 5 sm bo'lgan doiraning yuzini toping (π ≈ 3,14).",
+   "variantlar": [
+    "15,7 sm²",
+    "31,4 sm²",
+    "157 sm²",
+    "78,5 sm²"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Velosiped g'ildiragining diametri 64 sm. Uning radiusini toping.",
+   "variantlar": [
+    "32 sm",
+    "64 sm",
+    "16 sm",
+    "128 sm"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Velosiped g'ildiragining diametri 64 sm (0,64 m). Ashraf velosipedda 100 m masofani bosib o'tdi. G'ildirak taxminan necha marta to'liq aylandi? (π ≈ 3,14)",
+   "variantlar": [
+    "55 marta",
+    "40 marta",
+    "50 marta",
+    "45 marta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Neksiya avtomobili shinasida 175/60 R15 yozuvi bor. Shina profilining balandligini mm da toping.",
+   "variantlar": [
+    "105 mm",
+    "115 mm",
+    "60 mm",
+    "95 mm"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "175/60 R15 shinaning ichki diametrini sm da toping (1 dyuym ≈ 2,54 sm).",
+   "variantlar": [
+    "35,5 sm",
+    "38,1 sm",
+    "30,2 sm",
+    "40,64 sm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "175/60 R15 shinaning tashqi diametrini (g'ildirakning tashqi o'lchamini) sm da toping (ichki diametr 38,1 sm, profil balandligi 10,5 sm).",
+   "variantlar": [
+    "48,6 sm",
+    "59,1 sm",
+    "69,6 sm",
+    "38,1 sm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Perimetri 48 m bo'lgan kvadrat shaklidagi tomorqaning tomonini toping.",
+   "variantlar": [
+    "24 m",
+    "6 m",
+    "12 m",
+    "16 m"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Perimetri 48 m bo'lgan kvadrat shaklidagi tomorqaning yuzini toping.",
+   "variantlar": [
+    "144 m²",
+    "96 m²",
+    "576 m²",
+    "48 m²"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Perimetri 48 m bo'lgan kvadrat shaklidagi tomorqa 8 ta teng to'g'ri to'rtburchak shaklidagi uchastkaga bo'lingan. Har bir uchastkaning yuzi tomorqa yuzidan necha foizga kichik?",
+   "variantlar": [
+    "62,5%",
+    "75%",
+    "87,5%",
+    "12,5%"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Perimetri 20 m, bo'yi enidan 1,5 marta uzun bo'lgan to'g'ri to'rtburchak shaklidagi tomorqaning enini toping.",
+   "variantlar": [
+    "8 m",
+    "5 m",
+    "6 m",
+    "4 m"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Perimetri 20 m, bo'yi enidan 1,5 marta uzun bo'lgan to'g'ri to'rtburchak shaklidagi tomorqaning bo'yini toping (eni 4 m).",
+   "variantlar": [
+    "6 m",
+    "8 m",
+    "10 m",
+    "4 m"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Perimetri 20 m, bo'yi enidan 1,5 marta uzun bo'lgan to'g'ri to'rtburchak shaklidagi tomorqaning yuzini toping (eni 4 m, bo'yi 6 m).",
+   "variantlar": [
+    "24 m²",
+    "10 m²",
+    "36 m²",
+    "20 m²"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

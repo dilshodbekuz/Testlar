@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Ona tili",
+ "mavzu": "Insho yozish rejasi",
+ "savollar": [
+  {
+   "savol": "Insho yozish qanday faoliyat turi hisoblanadi?",
+   "variantlar": [
+    "Ijtimoiy faoliyat",
+    "Ilmiy faoliyat",
+    "Jismoniy faoliyat",
+    "Nutqiy faoliyat"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Insho rejasi necha qismdan iborat bo'ladi?",
+   "variantlar": [
+    "Besh",
+    "Ikki",
+    "To'rt",
+    "Uch"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Insho rejasining birinchi qismi qanday ataladi?",
+   "variantlar": [
+    "Yakun",
+    "Asosiy qism",
+    "Kirish",
+    "Xulosa"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Insho rejasining oxirgi (uchinchi) qismi qanday ataladi?",
+   "variantlar": [
+    "Asosiy qism",
+    "Boshlanish",
+    "Xulosa",
+    "Kirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Asosiy qismda nimaga o'tiladi?",
+   "variantlar": [
+    "Yakunga",
+    "Kirishga",
+    "Maqsadga",
+    "Xulosaga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Muqarrar\" so'zi qaysi ma'noni bildiradi?",
+   "variantlar": [
+    "She'riy shakl turi",
+    "Gap, fikrning aqlga monandligi",
+    "Vaqt, muddat, davr",
+    "Vujudga kelishi aniq, shubhasiz, turgan gap"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Chiston\" so'zi qaysi ma'noni bildiradi?",
+   "variantlar": [
+    "Narsa yoki hodisaning belgilarini tavsiflab, nimaligini topishga havola etadigan she'riy shakl",
+    "Fikrning aqlga monandligi",
+    "Vaqt, muddat, davr",
+    "Vujudga kelishi shubhasiz narsa"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Mantiq\" so'zi qaysi ma'noni bildiradi?",
+   "variantlar": [
+    "Muqarrar voqea",
+    "Yilning to'rtdan bir qismi",
+    "Gap, fikr, harakatning aqlga monandligi, asosliligi",
+    "She'riy shakl"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Fasl\" so'zi qaysi ma'noni bildiradi?",
+   "variantlar": [
+    "Fikrning asosliligi",
+    "Shubhasiz voqea",
+    "She'riy topishmoq",
+    "Vaqt, muddat, davr; yilning to'rtdan bir qismi; bo'lak, qism"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Oddiy reja qanday tuziladi?",
+   "variantlar": [
+    "Faqat kirish va xulosadan iborat qilib",
+    "Ikki bosqichda bo'laklash orqali",
+    "Insho mavzusini bir bosqichda qismlarga ajratish orqali",
+    "Qismlarni yana ichki qismlarga bo'lish orqali"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xulosa qismida o'quvchi nimani bayon etadi?",
+   "variantlar": [
+    "Asosiy qismdan kelib chiqadigan o'z fikri-xulosasini",
+    "Faqat sarlavhani",
+    "Mavzu haqidagi umumiy fikrlarini",
+    "Boshqa mualliflarning fikrlarini"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kirish qismida o'quvchi nimani bayon qiladi?",
+   "variantlar": [
+    "Mavzu haqidagi umumiy fikrlarini",
+    "Ichki kichik qismlarni",
+    "Xulosaviy fikrlarini",
+    "Asosiy dalillarni"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Asosiy qismning ichki kichik qismlari miqdori haqida matnda qanday ma'lumot berilgan?",
+   "variantlar": [
+    "Faqat bitta bo'ladi",
+    "Ikkitadan oshmaydi",
+    "Birdan ortiq bo'ladi",
+    "Uchtadan ko'p bo'lmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Murakkab reja qanday tuziladi?",
+   "variantlar": [
+    "Mavzuni bir bosqichda qismlarga ajratish orqali",
+    "Ajratilgan qismlarni yana ichki qismlarga bo'lish orqali",
+    "Kirishni qisqartirish orqali",
+    "Faqat xulosani kengaytirish orqali"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Namunadagi \"Alisher Navoiy - g'azal mulkining sultoni\" rejasida asosiy qism nechta banddan iborat?",
+   "variantlar": [
+    "Besh",
+    "To'rt",
+    "Uch",
+    "Ikki"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Namunadagi rejaning Kirish qismida Alisher Navoiy haqida qanday fikr bayon etilgan?",
+   "variantlar": [
+    "Taniqli olim",
+    "Buyuk sarkarda",
+    "Mashhur davlat arbobi",
+    "Buyuk mutafakkir va atoqli shoir"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Namunadagi rejaning Xulosa qismida qanday fikr bayon etilgan?",
+   "variantlar": [
+    "Navoiy g'azallari - o'zbek she'riyatining mezoni",
+    "Navoiy - mashhur olim",
+    "Navoiy - buyuk sarkarda",
+    "Navoiy - buyuk davlat arbobi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Murakkab reja tuzish oddiy rejaga nisbatan qanday?",
+   "variantlar": [
+    "Bir xil",
+    "Ahamiyatsiz",
+    "Osonroq",
+    "Qiyinroq"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Insho yozishga tayyorgarlik jarayoni qanday amalga oshiriladi?",
+   "variantlar": [
+    "Qat'iy reja asosida",
+    "Faqat xotira asosida",
+    "O'qituvchi ko'rsatmasi bo'yicha, rejasiz",
+    "Tasodifiy tartibda"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Rejasiz yozilgan insho qanday bo'lishi muqarrar?",
+   "variantlar": [
+    "Qisqa bo'lishi",
+    "Uzun bo'lishi",
+    "Sifatsiz chiqishi",
+    "Yuqori sifatli bo'lishi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun murakkab reja tuzish qiyinroq bo'lsa ham, bu qiyinlik insho yozishni yengillashtiradi?",
+   "variantlar": [
+    "Chunki unda kirish va xulosa bo'lmaydi",
+    "Chunki murakkab reja qisqaroq bo'ladi",
+    "Chunki u faqat asosiy qismdan iborat bo'ladi",
+    "Chunki mavzu batafsil qismlarga bo'linib, yozish jarayoni aniq va tartibli bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Oddiy va murakkab reja orasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Oddiy reja mavzuni bir bosqichda bo'laklaydi, murakkab reja bo'laklarni yana ichki qismlarga ajratadi",
+    "Oddiy reja uch qismli, murakkab reja ikki qismli bo'ladi",
+    "Oddiy rejada xulosa ikki marta takrorlanadi",
+    "Murakkab rejada kirish bo'lmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Namunadagi rejaga asoslanib, agar \"Alisher Navoiyning oshiqona g'azallari\" bandi yana kichik qismlarga bo'lib yoritilsa, bu holda reja qaysi turga aylanadi?",
+   "variantlar": [
+    "Yakuniy reja",
+    "Oddiy reja",
+    "Kirish rejasi",
+    "Murakkab reja"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Insho rejasining uch qismi (kirish, asosiy qism, xulosa) o'zaro qanday mantiqiy bog'liqlikda bo'ladi?",
+   "variantlar": [
+    "Faqat asosiy qism muhim, kirish va xulosa ixtiyoriy",
+    "Har bir qism alohida, bog'liqsiz mavzuni yoritadi",
+    "Kirish umumiy fikr beradi, asosiy qism uni dalillar bilan yoritadi, xulosa esa shu dalillardan kelib chiqadigan fikrni yakunlaydi",
+    "Xulosa kirishdan oldin keladi, keyin asosiy qism yoziladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun asosiy qism \"ichki kichik qismlardan\" tashkil topishi va bu qismlar miqdori \"birdan ortiq\" bo'lishi lozim?",
+   "variantlar": [
+    "Chunki kirish qismi buni talab qiladi",
+    "Chunki bu insho hajmini kamaytiradi",
+    "Chunki mavzu bir tomondan emas, turli jihatlardan chuqur va har tomonlama yoritilishi kerak",
+    "Chunki xulosa qismi qisqa bo'lishi kerak"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga ko'ra, oddiy rejada ham kirish, asosiy qism, xulosa bilinib turadi, lekin murakkab rejada bu qanday farqlanadi?",
+   "variantlar": [
+    "Murakkab rejada bu qismlar yaqqol, aniq ko'rinib turadi, chunki har bir qism o'zining ichki bo'linishlariga ega",
+    "Murakkab rejada faqat xulosa ko'rinadi",
+    "Oddiy va murakkab rejada bu qismlar bir xil darajada ko'rinadi",
+    "Murakkab rejada bu qismlar umuman ko'rinmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matn mazmuniga ko'ra, insho yozish rejasi bilan insho sifati orasidagi bog'liqlik qanday tushuntiriladi?",
+   "variantlar": [
+    "Reja insho sifatiga ta'sir qilmaydi",
+    "Reja faqat kirish qismi uchun kerak",
+    "Faqat uzun insho sifatli hisoblanadi",
+    "Puxta reja asosida yozilgan insho sifatli bo'ladi, rejasiz yozilgan insho esa sifatsiz chiqadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar insho mavzusi juda keng va ko'p qirrali bo'lib, har bir jihatni batafsil yoritish zarur bo'lsa, matnga ko'ra qaysi reja turi qo'llanilishi maqsadga muvofiq?",
+   "variantlar": [
+    "Faqat xulosa qismidan foydalaniladi",
+    "Oddiy reja, chunki u soddaroq",
+    "Reja tuzish shart emas",
+    "Murakkab reja, chunki u qismlarni yanada batafsilroq ichki qismlarga ajratish imkonini beradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Namunadagi rejada asosiy qism uch bandga (oshiqona, orifona, rindona g'azallar) bo'lingan bo'lib, bu matnda ta'kidlangan qaysi qoidaga mos keladi?",
+   "variantlar": [
+    "Kirish qismi umumiy bo'lishi haqidagi qoidaga",
+    "Asosiy qism ichki kichik qismlardan iborat bo'lib, ularning miqdori birdan ortiq bo'lishi haqidagi qoidaga",
+    "Xulosa qismi lo'nda bo'lishi kerakligi haqidagi qoidaga",
+    "Reja rejasiz yozilmasligi haqidagi qoidaga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda tasvirlangan \"bo'laklash\" jarayoni insho yozishda qanday amalga oshiriladi va bu nima uchun zarur?",
+   "variantlar": [
+    "Bo'laklash faqat kirish qismida qo'llaniladi",
+    "Mavzu umuman bo'lib bo'linmaydi, faqat yaxlit holda yoziladi",
+    "Faqat xulosa qismi bo'laklarga ajratiladi",
+    "Mavzu bir necha qismlarga ajratiladi, zarur bo'lganda bu qismlar yana ichki qismlarga bo'linadi, bu esa mavzuni batafsilroq va tartibli yoritish imkonini beradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

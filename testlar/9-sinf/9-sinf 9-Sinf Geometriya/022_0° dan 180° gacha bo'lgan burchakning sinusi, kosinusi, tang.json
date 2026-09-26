@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Geometriya",
+ "mavzu": "0° dan 180° gacha bo'lgan burchakning sinusi, kosinusi, tangensi va kotangensi",
+ "savollar": [
+  {
+   "savol": "Radiusi 1 ga teng, markazi koordinatalar boshida bo'lgan aylanada M(x;y) nuqta yordamida α burchak hosil qilingan. sinα nimaga teng?",
+   "variantlar": [
+    "y/x",
+    "y",
+    "x/y",
+    "x"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yuqoridagi ta'rifga ko'ra cosα nimaga teng?",
+   "variantlar": [
+    "y/x",
+    "x",
+    "y",
+    "x/y"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "tgα quyidagi formulalardan qaysi biri bilan aniqlanadi?",
+   "variantlar": [
+    "x/y",
+    "x+y",
+    "y/x",
+    "x·y"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "ctgα qaysi formula bilan aniqlanadi?",
+   "variantlar": [
+    "x/y",
+    "x-y",
+    "y/x",
+    "x+y"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sin²α + cos²α asosiy trigonometrik ayniyati nechaga teng?",
+   "variantlar": [
+    "-1",
+    "0",
+    "2",
+    "1"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "tgα · ctgα ko'paytmasi nechaga teng?",
+   "variantlar": [
+    "1",
+    "-1",
+    "2",
+    "0"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sin90° qiymati nechaga teng?",
+   "variantlar": [
+    "0",
+    "√2/2",
+    "1/2",
+    "1"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "cos180° qiymati nechaga teng?",
+   "variantlar": [
+    "1",
+    "-1",
+    "1/2",
+    "0"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sin0° qiymati nechaga teng?",
+   "variantlar": [
+    "1",
+    "-1",
+    "1/2",
+    "0"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "α = 90° bo'lganda qaysi trigonometrik funksiya aniqlanmagan bo'ladi?",
+   "variantlar": [
+    "ctgα",
+    "sinα",
+    "cosα",
+    "tgα"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar sinα = 1/2 va α o'tkir burchak bo'lsa, cosα ni toping.",
+   "variantlar": [
+    "√3/4",
+    "3/4",
+    "1/2",
+    "√3/2"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar 90° < α < 180° bo'lsa, cosα ning ishorasi qanday bo'ladi?",
+   "variantlar": [
+    "aniqlanmagan",
+    "nolga teng",
+    "musbat",
+    "manfiy"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar 90° < α < 180° bo'lsa, sinα ning ishorasi qanday bo'ladi?",
+   "variantlar": [
+    "nolga teng",
+    "manfiy",
+    "aniqlanmagan",
+    "musbat"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sin(90° - α) ifodasini soddalashtiring.",
+   "variantlar": [
+    "-cosα",
+    "sinα",
+    "cosα",
+    "-sinα"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "cos(180° - α) ifodasini soddalashtiring.",
+   "variantlar": [
+    "cosα",
+    "-cosα",
+    "sinα",
+    "-sinα"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sin(180° - α) ifodasini soddalashtiring.",
+   "variantlar": [
+    "-sinα",
+    "sinα",
+    "cosα",
+    "-cosα"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "tg(90° - α) ifodasi nimaga teng?",
+   "variantlar": [
+    "-ctgα",
+    "ctgα",
+    "-tgα",
+    "tgα"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "tg(180° - α) ifodasi nimaga teng?",
+   "variantlar": [
+    "tgα",
+    "-tgα",
+    "-ctgα",
+    "ctgα"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar sinα = √3/2 va α o'tkir burchak bo'lsa, α ni toping.",
+   "variantlar": [
+    "30°",
+    "45°",
+    "60°",
+    "90°"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar tgα = √3 va 0° < α < 90° bo'lsa, α ni toping.",
+   "variantlar": [
+    "30°",
+    "60°",
+    "90°",
+    "45°"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar sinα = 3/5 va 90° < α < 180° bo'lsa, cosα ni toping.",
+   "variantlar": [
+    "4/5",
+    "3/5",
+    "-4/5",
+    "-3/5"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Oldingi savoldagi shartda (sinα = 3/5, 90° < α < 180°) tgα ni toping.",
+   "variantlar": [
+    "-3/4",
+    "-4/3",
+    "4/3",
+    "3/4"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar cosα = -1/2 va 0° ≤ α ≤ 180° bo'lsa, jadval asosida α ni toping.",
+   "variantlar": [
+    "150°",
+    "60°",
+    "135°",
+    "120°"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar sinα = 1/2 va α o'tmas burchak (90° < α < 180°) bo'lsa, α ni toping.",
+   "variantlar": [
+    "150°",
+    "60°",
+    "120°",
+    "30°"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "cos²(180° - α) + cos²(90° - α) ifodasini soddalashtiring.",
+   "variantlar": [
+    "1",
+    "0",
+    "2",
+    "sin2α"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "tgα · tg(90° - α) ifodasini soddalashtiring.",
+   "variantlar": [
+    "0",
+    "1",
+    "-1",
+    "tg²α"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar tgα = -1 va 0° < α < 180° bo'lsa, jadval asosida α ni toping.",
+   "variantlar": [
+    "90°",
+    "150°",
+    "45°",
+    "135°"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "ABC uchburchakda ∠A = 150° va AC = 7 cm bo'lsa, C uchidan AB tomonga (yoki uning davomiga) tushirilgan balandlikni toping.",
+   "variantlar": [
+    "7 cm",
+    "3 cm",
+    "6 cm",
+    "3.5 cm"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 + tg²α ifodasi (α ≠ 90°) nimaga teng?",
+   "variantlar": [
+    "1/sin²α",
+    "sin²α",
+    "cos²α",
+    "1/cos²α"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar ctgα = -√3 va 90° < α < 180° bo'lsa, jadval asosida α ni toping.",
+   "variantlar": [
+    "150°",
+    "165°",
+    "120°",
+    "135°"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

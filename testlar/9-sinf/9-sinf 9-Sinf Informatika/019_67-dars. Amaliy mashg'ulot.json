@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Informatika",
+ "mavzu": "67-dars. Amaliy mashg'ulot",
+ "savollar": [
+  {
+   "savol": "GUI (grafik interfeys) yaratish uchun matnda qaysi modul ishlatilgan?",
+   "variantlar": [
+    "Tkinter",
+    "Pandas",
+    "NumPy",
+    "Math"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tasodifiy son hosil qilish uchun ishlatiladigan funksiya nomi qanday?",
+   "variantlar": [
+    "random",
+    "randrange",
+    "choice",
+    "randint"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "randint funksiyasi qaysi kutubxonadan yuklab olinadi?",
+   "variantlar": [
+    "os",
+    "tkinter",
+    "random",
+    "math"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dasturda foydalanuvchi kiritgan son bo'yicha nechta tasodifiy son chiqariladi?",
+   "variantlar": [
+    "15 ta",
+    "10 ta",
+    "20 ta",
+    "5 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tkinter oynasiga sarlavha (nom) berish uchun qaysi metod ishlatiladi?",
+   "variantlar": [
+    "name()",
+    "title()",
+    "header()",
+    "label()"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Oyna fon rangini belgilash uchun qaysi parametr ishlatiladi?",
+   "variantlar": [
+    "fill",
+    "fgcolor",
+    "background",
+    "color"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Foydalanuvchidan bitta qatorli matn/son kiritish uchun qaysi klass ishlatiladi?",
+   "variantlar": [
+    "Text",
+    "Entry",
+    "Button",
+    "Label"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir necha qatorli natijani chiqarish uchun matnda qaysi klass ishlatilgan?",
+   "variantlar": [
+    "Frame",
+    "Label",
+    "Entry",
+    "Text"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Funksiyani chaqiradigan tugmacha yaratish uchun qaysi klass ishlatiladi?",
+   "variantlar": [
+    "Text",
+    "Button",
+    "Label",
+    "Entry"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Oynadagi elementlarni satr va ustunga joylashtirish uchun qaysi metod ishlatiladi?",
+   "variantlar": [
+    "place()",
+    "pack()",
+    "grid()",
+    "layout()"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "textbox_input.get() orqali olingan qiymat dasturda qanday turga aylantiriladi?",
+   "variantlar": [
+    "float",
+    "str",
+    "int",
+    "bool"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'for i in range(1,11):' sikli nechta marta ishlaydi?",
+   "variantlar": [
+    "11 marta",
+    "9 marta",
+    "10 marta",
+    "12 marta"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "randint(1, number) funksiyasi qanday oraliqda tasodifiy son qaytaradi?",
+   "variantlar": [
+    "0 dan numbergacha",
+    "1 dan numbergacha",
+    "1 dan number+1 gacha",
+    "0 dan number-1 gacha"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "textbox_output.delete(0.0, END) qatori nima uchun ishlatiladi?",
+   "variantlar": [
+    "Yangi son qo'shish uchun",
+    "Tugmani o'chirish uchun",
+    "Oynani yopish uchun",
+    "Natija maydonini tozalash uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tugmacha bosilganda qaysi funksiya ishga tushadi?",
+   "variantlar": [
+    "tasodifiy()",
+    "randint()",
+    "window()",
+    "grid()"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "window.geometry('250x250') qatori nimani belgilaydi?",
+   "variantlar": [
+    "Oyna joylashuvini",
+    "Oyna sarlavhasini",
+    "Oyna o'lchamini",
+    "Oyna rangini"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "input_label.grid(row=0, column=0) qatoriga ko'ra yorliq qaysi katakka joylashadi?",
+   "variantlar": [
+    "0-satr, 0-ustun",
+    "1-satr, 1-ustun",
+    "1-satr, 0-ustun",
+    "0-satr, 1-ustun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "textbox_input.grid(row=1, column=0) qatoriga ko'ra Entry maydoni qaysi katakka joylashadi?",
+   "variantlar": [
+    "1-satr, 1-ustun",
+    "2-satr, 0-ustun",
+    "1-satr, 0-ustun",
+    "0-satr, 0-ustun"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Button klassidagi 'command' parametri nimani bildiradi?",
+   "variantlar": [
+    "Tugma rangini",
+    "Tugma matnini",
+    "Tugma o'lchamini",
+    "Bosilganda chaqiriladigan funksiyani"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "textbox_output.insert(END, t_son) qatori nima qiladi?",
+   "variantlar": [
+    "Sonni o'chiradi",
+    "Sonni maydon oxiriga qo'shadi",
+    "Oynani yopadi",
+    "Yangi tugma yaratadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar foydalanuvchi number=5 deb kiritsa, dastur qanday natija chiqaradi?",
+   "variantlar": [
+    "1 dan 5 gacha 10 ta tasodifiy son",
+    "1 dan 10 gacha 5 ta tasodifiy son",
+    "1 dan 5 gacha barcha sonlar",
+    "Faqat 5 soni"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar 'for i in range(1,11):' o'rniga 'for i in range(1,6):' yozilsa, nechta tasodifiy son chiqariladi?",
+   "variantlar": [
+    "5 ta",
+    "10 ta",
+    "6 ta",
+    "4 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "window.mainloop() qatori olib tashlansa, dasturda nima yuz beradi?",
+   "variantlar": [
+    "Faqat tugma ishlamay qoladi",
+    "Xatolik chiqmaydi va hammasi normal ishlaydi",
+    "Oyna ochilib, darhol yopiladi yoki ko'rinmaydi",
+    "Dastur tezroq ishlaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar 'textbox_input' o'rniga oddiy Label ishlatilsa, dasturda qanday muammo yuzaga keladi?",
+   "variantlar": [
+    "Dastur tezroq ishlaydi",
+    "Hech qanday muammo bo'lmaydi",
+    "Oyna rangi o'zgaradi",
+    "Foydalanuvchi son kirita olmaydi, chunki Label matn kiritish uchun emas"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "output_label matnida ' \\nNatija' ishlatilishining sababi nima?",
+   "variantlar": [
+    "Tugmani faollashtirish uchun",
+    "Xatolikni ko'rsatish uchun",
+    "Ranglarni almashtirish uchun",
+    "Yorliqni ikki qatorli qilib chiqarish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar Button yaratishda 'command=tasodifiy()' deb qavs bilan yozilsa (tasodifiy o'rniga), natijada nima bo'ladi?",
+   "variantlar": [
+    "Funksiya darhol chaqiriladi va xatolik yuz beradi, chunki input hali kiritilmagan",
+    "Oyna ochilmaydi",
+    "Hammasi to'g'ri ishlaydi",
+    "Tugma ko'rinmay qoladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga ko'ra, dastur to'g'ri ishlashi uchun grid() metodi bilan nechta asosiy element (label, entry, text, button) joylashtirilishi kerak?",
+   "variantlar": [
+    "5 ta",
+    "4 ta",
+    "7 ta",
+    "6 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar int(textbox_input.get()) o'rniga faqat textbox_input.get() (str holida) ishlatilsa, randint(1, number) funksiyasida nima yuz beradi?",
+   "variantlar": [
+    "Tasodifiy son o'rniga 0 chiqadi",
+    "Xatolik yuz beradi, chunki randint butun son kutadi",
+    "Natija manfiy bo'ladi",
+    "Hech narsa o'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dasturda funksiya (def tasodifiy():) nima uchun eng boshida e'lon qilinishi lozim?",
+   "variantlar": [
+    "Chunki u faqat bir marta ishlatiladi",
+    "Chunki Tkinter shunday talab qiladi",
+    "Chunki u tugma bosilganda chaqirilishidan oldin aniqlangan bo'lishi kerak",
+    "Hech qanday ahamiyati yo'q"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar dasturda 'number' o'zgaruvchisi manfiy son sifatida kiritilsa, randint(1, number) funksiyasida nima yuz beradi?",
+   "variantlar": [
+    "Manfiy tasodifiy son chiqadi",
+    "Xatolik yuzaga keladi, chunki oraliq noto'g'ri",
+    "Dastur normal ishlashda davom etadi",
+    "0 soni chiqadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

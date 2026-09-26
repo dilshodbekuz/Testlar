@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Iqtisodiy bilim asoslari",
+ "mavzu": "Iste'molchilarning daromadlari va xarajat turlari",
+ "savollar": [
+  {
+   "savol": "Iste'molchi tushunchasiga qaysi ta'rif to'g'ri keladi?",
+   "variantlar": [
+    "Turli tovar va xizmatlarni o'z shaxsiy yoki oilaviy ehtiyojlari uchun sotib oluvchi yoki buyurtma beruvchi shaxs",
+    "Davlat tomonidan soliq to'lovchi shaxs",
+    "Tovar ishlab chiqaruvchi shaxs",
+    "Bozorda faqat pul ayirboshlovchi shaxs"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kishining ma'lum vaqt davomida ishlab topgan va qo'lga kiritgan barcha moddiy hamda pul tushumlari qanday ataladi?",
+   "variantlar": [
+    "Transfert",
+    "Byudjet",
+    "Daromad",
+    "Xarajat"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Korxona tomonidan yollanib ishlayotgan xodimga bajarilgan ish uchun to'lanadigan pul qanday ataladi?",
+   "variantlar": [
+    "Stipendiya",
+    "Ish haqi",
+    "Pensiya",
+    "Nafaqa"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishchiga tayyorlagan mahsulot miqdoriga qarab to'lanadigan pul miqdori nima deb ataladi?",
+   "variantlar": [
+    "Ishbay ish haqi",
+    "Vaqtbay ish haqi",
+    "Ijtimoiy transfert",
+    "Oylik maosh"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishchiga ishlagan vaqti miqdoriga qarab to'lanadigan pul miqdori qanday ataladi?",
+   "variantlar": [
+    "Ishbay ish haqi",
+    "Stipendiya",
+    "Vaqtbay ish haqi",
+    "Omonat foizi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir oy davomidagi mehnat faoliyati uchun qat'iy belgilangan vaqtbay ish haqi miqdori nima deyiladi?",
+   "variantlar": [
+    "Ishbay ish haqi",
+    "Nafaqa",
+    "Ijara haqi",
+    "Oylik maosh"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kundalik turmushda ularsiz yashab bo'lmaydigan birlamchi xarajatlar qanday ataladi?",
+   "variantlar": [
+    "Ijtimoiy transfertlar",
+    "Omonat xarajatlari",
+    "Erkin xarajatlar",
+    "Majburiy xarajatlar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qondirilishi birlamchi bo'lmagan ehtiyojlar uchun qilinadigan xarajatlar nima deb ataladi?",
+   "variantlar": [
+    "Majburiy xarajatlar",
+    "Erkin xarajatlar",
+    "Oila budjeti",
+    "Iste'mol savati"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir kishi iste'moli uchun bir oyda sarf qilinadigan majburiy xarajatlar miqdori qanday nomlanadi?",
+   "variantlar": [
+    "Iste'mol savati",
+    "Oila budjeti",
+    "Ijtimoiy transfert",
+    "Erkin xarajat"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Oilaning ma'lum davrdagi daromad manbalari va xarajatlari keltirilgan moliyaviy rejasi nima deb ataladi?",
+   "variantlar": [
+    "Oila budjeti",
+    "Ish haqi",
+    "Iste'mol savati",
+    "Ijtimoiy transfert"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, o'qituvchilar odatda qanday ish haqi turini oladi?",
+   "variantlar": [
+    "Ishbay ish haqi",
+    "Aralash ish haqi",
+    "Vaqtbay ish haqi",
+    "Foiz shaklidagi daromad"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Davlat tashkilotlarida ishlovchilar, asosan, qanday ko'rinishdagi ish haqi oladilar?",
+   "variantlar": [
+    "Foiz daromadi",
+    "Ijtimoiy transfert",
+    "Oylik maosh ko'rinishidagi vaqtbay ish haqi",
+    "Ishbay ish haqi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zavod va fabrikalarning ishchilariga, ko'pincha, qanday ish haqi belgilanadi?",
+   "variantlar": [
+    "Nafaqa",
+    "Oylik maosh",
+    "Stipendiya",
+    "Ishbay ish haqi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qariyalar har oyda qanday daromad oladilar?",
+   "variantlar": [
+    "Omonat foizi",
+    "Ijara haqi",
+    "Stipendiya",
+    "Qarilik pensiyasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Talabalarga o'qish davrida qanday to'lov beriladi?",
+   "variantlar": [
+    "Stipendiya",
+    "Pensiya",
+    "Ijara haqi",
+    "Nafaqa"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nafaqa kimlarga beriladigan yordam puli hisoblanadi?",
+   "variantlar": [
+    "Faqat talabalarga",
+    "Faqat pensionerlarga",
+    "Ishsizlik, kasallik yoki boshqa sabablarga ko'ra vaqtincha ishlay olmaydigan kishilarga",
+    "Faqat davlat xodimlariga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri erkin xarajatlarga misol bo'la oladi?",
+   "variantlar": [
+    "Kommunal to'lovlar",
+    "Transport xarajatlari",
+    "Zargarlik buyumlari",
+    "Oziq-ovqat mahsulotlari"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri majburiy xarajatlarga misol bo'la oladi?",
+   "variantlar": [
+    "Oziq-ovqat mahsulotlari",
+    "Qimmatbaho uy jihozlari",
+    "Zargarlik buyumlari",
+    "Shaxsiy avtomobil"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Berilgan oila budjeti jadvaliga ko'ra, oilaning daromadlari orasida foiz jihatidan eng katta ulushga ega bo'lgan daromad turi qaysi?",
+   "variantlar": [
+    "Onaning maoshi",
+    "Otaning ish haqi",
+    "Boboning nafaqasi",
+    "Ijara haqi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Berilgan oila budjeti jadvaliga ko'ra, xarajatlar orasida foiz jihatidan eng katta ulushga ega bo'lgan xarajat turi qaysi?",
+   "variantlar": [
+    "Soliqlar",
+    "Kiyim-kechak",
+    "Boshqa xarajatlar",
+    "Oziq-ovqat mahsulotlari"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Berilgan oila budjeti jadvaliga ko'ra, jami daromad va jami xarajat o'rtasidagi farq qancha so'mni tashkil qiladi?",
+   "variantlar": [
+    "1 000 000 so'm",
+    "2 000 000 so'm",
+    "500 000 so'm",
+    "4 000 000 so'm"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadvalga ko'ra, otaning ish haqi va onaning maoshi birgalikda oila daromadining necha foizini tashkil qiladi?",
+   "variantlar": [
+    "60%",
+    "45%",
+    "50%",
+    "70%"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadvalga ko'ra, boboning va buvining nafaqalari yig'indisi necha so'mni tashkil qiladi?",
+   "variantlar": [
+    "750 000 so'm",
+    "1 000 000 so'm",
+    "1 250 000 so'm",
+    "1 500 000 so'm"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadvalga ko'ra, kiyim-kechak va transport xarajatlari birgalikda jami xarajatning necha foizini tashkil qiladi?",
+   "variantlar": [
+    "15%",
+    "23%",
+    "19%",
+    "30%"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadvalga ko'ra, soliqlar va boshqa xarajatlar yig'indisi necha so'mni tashkil qiladi?",
+   "variantlar": [
+    "1 200 000 so'm",
+    "800 000 so'm",
+    "600 000 so'm",
+    "1 000 000 so'm"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Engel qonuniga ko'ra, oila daromadi oshganda jami xarajatlarga nisbatan qaysi xarajat turining salmog'i kamayadi?",
+   "variantlar": [
+    "Madaniy xarajatlar",
+    "Kiyim-kechak xarajatlari",
+    "Oziq-ovqat xarajatlari",
+    "Uy-joy xarajatlari"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar oilaning xarajatlari daromadidan ko'p bo'lsa, oila yetmagan mablag'ni qanday qoplashi lozim?",
+   "variantlar": [
+    "Faqat jamg'armadan foydalanmasdan",
+    "Bank kreditidan voz kechish orqali",
+    "Qarz olish yoki biror kerakli narsani sotish hisobidan",
+    "Davlatdan qo'shimcha soliq olish orqali"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadvalga ko'ra, maishiy xizmat va uy-ro'zg'or mollari xarajatlari birgalikda jami xarajatning necha foizini tashkil qiladi?",
+   "variantlar": [
+    "15%",
+    "6%",
+    "11%",
+    "8%"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadvalga ko'ra, uy-joy uchun to'lov va madaniy hordiq xarajatlari yig'indisi necha so'mni tashkil qiladi?",
+   "variantlar": [
+    "700 000 so'm",
+    "600 000 so'm",
+    "500 000 so'm",
+    "800 000 so'm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadvalga ko'ra, ijara haqi va omonat foizidan olingan daromadlar birgalikda jami daromadning necha foizini tashkil qiladi?",
+   "variantlar": [
+    "20%",
+    "25%",
+    "10%",
+    "15%"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

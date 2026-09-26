@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Geometriya",
+ "mavzu": "Doira bo'laklari yuzi",
+ "savollar": [
+  {
+   "savol": "Doiraning yoyi va bu yoy oxirlarini doira markazi bilan tutashtiruvchi ikki radius bilan chegaralangan qism nima deb ataladi?",
+   "variantlar": [
+    "Segment",
+    "Diametr",
+    "Vatar",
+    "Sektor"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sektorning chegarasi bo'lgan yoy nima deb ataladi?",
+   "variantlar": [
+    "Markaziy burchak",
+    "Segment yoyi",
+    "Sektor yoyi",
+    "Vatar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Doiraning yoyi va bu yoy oxirlarini tutashtiruvchi vatar bilan chegaralangan qism nima deyiladi?",
+   "variantlar": [
+    "Sektor",
+    "Yoy",
+    "Radius",
+    "Segment"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Radiusi R va yoyining gradus o'lchovi n° bo'lgan sektorning yuzini hisoblash formulasi qaysi?",
+   "variantlar": [
+    "S = πR²n/360",
+    "S = πR²/n",
+    "S = 2πRn",
+    "S = πRn/180"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sektor yuzini yoy uzunligi l orqali ifodalovchi formula qaysi?",
+   "variantlar": [
+    "S = 2R·l",
+    "S = R·l",
+    "S = R²·l",
+    "S = R·l/2"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yarim doiradan farqli segment yuzi qaysi formula bo'yicha hisoblanadi?",
+   "variantlar": [
+    "S = πR²n/360",
+    "S = πR²n/360 ± S(AOB)",
+    "S = πR²",
+    "S = 2πR"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sektor nima bilan chegaralangan?",
+   "variantlar": [
+    "Ikki diametr",
+    "Ikki vatar",
+    "Yoy va ikki radius",
+    "Yoy va vatar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Segment nima bilan chegaralangan?",
+   "variantlar": [
+    "Ikki radius",
+    "Yoy va vatar",
+    "Ikki yoy",
+    "Yoy va radius"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yoyi 1° ga teng bo'lgan sektorning yuzi doira yuzining qaysi qismiga teng?",
+   "variantlar": [
+    "1/360 qismiga",
+    "1/90 qismiga",
+    "1/45 qismiga",
+    "1/180 qismiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Doira kvadraturasi\" masalasi nimani anglatadi?",
+   "variantlar": [
+    "Sektor markaziy burchagini topish",
+    "Sirkul va chizg'ich yordamida doira yuziga teng kvadrat yasash",
+    "Doira perimetrini hisoblash",
+    "Doira diametrini topish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Radiusi 6 cm, yoyining gradus o'lchovi 60° bo'lgan sektorning yuzini toping.",
+   "variantlar": [
+    "6π sm²",
+    "36π sm²",
+    "3π sm²",
+    "12π sm²"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Radiusi 10 cm, yoyining gradus o'lchovi 90° bo'lgan sektorning yuzini toping.",
+   "variantlar": [
+    "100π sm²",
+    "10π sm²",
+    "50π sm²",
+    "25π sm²"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Radiusi 5 cm, yoyining gradus o'lchovi 180° bo'lgan sektorning yuzini toping.",
+   "variantlar": [
+    "12,5π sm²",
+    "25π sm²",
+    "5π sm²",
+    "6,25π sm²"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Radiusi 12 cm, yoyining gradus o'lchovi 30° bo'lgan sektorning yuzini toping.",
+   "variantlar": [
+    "24π sm²",
+    "144π sm²",
+    "12π sm²",
+    "6π sm²"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Radiusi 9 cm bo'lgan sektorning yoyi uzunligi 6π sm ga teng. Sektor yuzini S = Rl/2 formula orqali toping.",
+   "variantlar": [
+    "13,5π sm²",
+    "27π sm²",
+    "9π sm²",
+    "54π sm²"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Radiusi 8 cm bo'lgan doiraning yuzini toping.",
+   "variantlar": [
+    "64π sm²",
+    "32π sm²",
+    "8π sm²",
+    "16π sm²"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Radiusi 4 cm, yoyining gradus o'lchovi 270° bo'lgan sektorning yuzini toping.",
+   "variantlar": [
+    "12π sm²",
+    "4π sm²",
+    "8π sm²",
+    "16π sm²"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Radiusi 7 cm, yoyining gradus o'lchovi 360° bo'lgan sektorning yuzini toping.",
+   "variantlar": [
+    "49π sm²",
+    "7π sm²",
+    "98π sm²",
+    "24,5π sm²"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Radiusi 8 cm, yoyining gradus o'lchovi 45° bo'lgan sektorning yuzini toping.",
+   "variantlar": [
+    "4π sm²",
+    "64π sm²",
+    "8π sm²",
+    "16π sm²"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yoyining gradus o'lchovi 90° bo'lgan sektorning yuzi 9π ga teng. Sektor radiusini toping.",
+   "variantlar": [
+    "3",
+    "12",
+    "6",
+    "9"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yoyning gradus o'lchovi 60° bo'lgan sektorning yuzi 54π ga teng. Sektor radiusini toping.",
+   "variantlar": [
+    "6",
+    "36",
+    "18",
+    "9"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Radiusi 10 cm, markaziy burchagi 90° bo'lgan kichik segmentning yuzini toping (sin90° = 1).",
+   "variantlar": [
+    "25π - 50",
+    "25π + 50",
+    "50π - 25",
+    "25π"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Radiusi 6 cm, markaziy burchagi 60° bo'lgan kichik segmentning yuzini toping (sin60° = √3/2).",
+   "variantlar": [
+    "6π",
+    "6π - 9√3",
+    "6π + 9√3",
+    "9√3 - 6π"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Radiusi 8 cm bo'lgan doirada markaziy burchagi 180° bo'lgan segmentning yuzini toping.",
+   "variantlar": [
+    "16π sm²",
+    "8π sm²",
+    "64π sm²",
+    "32π sm²"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Radiusi 6 cm bo'lgan doirada kichik yoyga mos markaziy burchak 90°. Shu vatarga mos katta segmentning yuzini toping (sin90° = 1).",
+   "variantlar": [
+    "27π - 18",
+    "27π + 18",
+    "9π + 18",
+    "9π - 18"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Radiusi 10 cm bo'lgan doirada sektor yuzi butun doira yuzining 1/4 qismiga teng. Sektorning markaziy burchagini toping.",
+   "variantlar": [
+    "60°",
+    "120°",
+    "90°",
+    "45°"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Birinchi sektor: R1 = 4 cm, n1 = 90°; ikkinchi sektor: R2 = 8 cm, n2 = 45°. Ularning yuzlari nisbatini toping.",
+   "variantlar": [
+    "4:1",
+    "2:1",
+    "1:2",
+    "1:4"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Radiusi 12 cm bo'lgan doirada sektor yuzi 24π ga teng. Sektor yoyining uzunligini S = Rl/2 formula orqali toping.",
+   "variantlar": [
+    "2π sm",
+    "4π sm",
+    "24π sm",
+    "8π sm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Radiusi 6 cm bo'lgan doirada sektor yuzi butun doira yuzidan 15π kam. Sektorning markaziy burchagini toping.",
+   "variantlar": [
+    "180°",
+    "150°",
+    "240°",
+    "210°"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Radiusi 9 cm, markaziy burchagi 120° bo'lgan kichik segmentning yuzini toping (sin120° = √3/2).",
+   "variantlar": [
+    "81√3/4 - 27π",
+    "27π - 81√3/4",
+    "27π + 81√3/4",
+    "27π"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

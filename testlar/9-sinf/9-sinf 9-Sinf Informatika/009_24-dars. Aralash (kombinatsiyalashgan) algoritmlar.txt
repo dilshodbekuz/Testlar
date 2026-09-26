@@ -1,0 +1,187 @@
+24-dars. Aralash (kombinatsiyalashgan) algoritmlar
+
+--- OSON ---
+
+1. Aralash (kombinatsiyalashgan) algoritm deb qanday algoritm ataladi?
+A) Faqat chiziqli algoritm
++B) Tarmoqlanuvchi va takrorlanuvchi algoritmlarning birlashmasi
+C) Faqat tarmoqlanuvchi algoritm
+D) Faqat takrorlanuvchi algoritm
+
+2. Darslikda keltirilgan qaysi algoritm aynan aralash algoritmga misol bo'la oladi?
+A) Ekranga matn chiqarish algoritmi
++B) Yevklid algoritmi
+C) Ikki son yig'indisini topish algoritmi
+D) Kvadrat tenglama yechish algoritmi
+
+3. Yevklid algoritmi qanday masalani yechish uchun ishlatiladi?
++A) Ikkita natural sonning EKUBini topish
+B) Kvadrat tenglama yechimini topish
+C) Sonlar yig'indisini topish
+D) Sonni songa bo'lish
+
+4. EKUB atamasi nimani anglatadi?
++A) Eng katta umumiy bo'luvchi
+B) Eng kichik umumiy bo'luvchi
+C) Eng kichik umumiy bo'linuvchi
+D) Eng katta umumiy bo'linuvchi
+
+5. Yevklid algoritmining 1-bandida nima amalga oshiriladi?
+A) Natija chiqariladi
++B) Algoritm boshlanadi
+C) Ayirma hisoblanadi
+D) A va B taqqoslanadi
+
+6. Yevklid algoritmi bo'yicha A=B bo'lganda nima qilinadi?
+A) A va B qaytadan kiritiladi
+B) Algoritm to'xtaydi va natija chiqmaydi
+C) B=B-A amalga oshiriladi
++D) A qiymati N deb olinadi va 6-bandga o'tiladi
+
+7. Kvadrat tenglamaning umumiy ko'rinishi qanday?
+A) ax²+bx²+c=0
+B) ax+b=0
++C) ax²+bx+c=0
+D) ax²+b=0
+
+8. Diskriminant (D) qanday formula bilan hisoblanadi?
+A) D=b²-2ac
++B) D=b²-4ac
+C) D=b²+4ac
+D) D=4ac-b²
+
+9. Aralash algoritmlar tarkibida qanday algoritmlar bo'lishi mumkin?
+A) Faqat matematik amallar
+B) Faqat chiziqli algoritmlar
+C) Faqat kiritish-chiqarish amallari
++D) Tarmoqlanuvchi va takrorlanuvchi algoritmlarning kombinatsiyasi
+
+10. Yevklid algoritmi blok-sxemasida '6-band' nimani anglatadi?
+A) A va B kiritiladi
++B) Algoritm tugatiladi
+C) A=B tekshiriladi
+D) N chiqariladi
+
+--- O'RTACHA ---
+
+11. A=54, B=24 sonlari uchun Yevklid algoritmining birinchi qadamida qaysi amal bajariladi?
+A) A=B tengligi rost bo'ladi
+B) B=A+24 deb olinadi
++C) 54-24=30 hisoblanadi va A=30 deb olinadi
+D) 24-54 hisoblanadi
+
+12. Agar Yevklid algoritmida A>B bo'lsa, blok-sxema bo'yicha qaysi amal bajariladi?
+A) N=A
+B) B=B-A
++C) A=A-B
+D) A=B
+
+13. Agar Yevklid algoritmida A<B bo'lsa, blok-sxema bo'yicha qaysi amal bajariladi?
+A) A=A-B
++B) B=B-A
+C) N=B
+D) A=B
+
+14. Kvadrat tenglamada D<0 bo'lsa, natija sifatida nima chiqariladi?
+A) x1 va x2
++B) Yechim yo'q
+C) x=-b/2a
+D) D=0
+
+15. Kvadrat tenglamada D=0 bo'lganda nechta yechim mavjud va u qanday formula bilan topiladi?
+A) Yechim yo'q
+B) Ikkita yechim, x1=(-b+√D)/2a
++C) Bitta yechim, x=-b/2a
+D) Uchta yechim
+
+16. Kvadrat tenglamada D>0 bo'lganda nechta yechim topiladi?
+A) Cheksiz
++B) Ikkita
+C) Bitta
+D) Yechim yo'q
+
+17. a=1, b=-5, c=6 bo'lgan kvadrat tenglama uchun diskriminant (D) qiymati nechaga teng?
+A) D=11
+B) D=-1
+C) D=49
++D) D=1
+
+18. K=0 dan boshlab, 'i=1, 25, 1' tsikli ishga tushirilsa, ushbu tsikl necha marta bajariladi?
+A) 24 marta
+B) 26 marta
+C) 1 marta
++D) 25 marta
+
+19. Baholash algoritmida 'Baho=5' sharti rost bo'lganda qanday amal bajariladi?
+A) K=0
+B) Baho=0
++C) K=K+1
+D) K=K-1
+
+20. Yevklid algoritmida A=B bo'lganda N qanday qiymatga teng bo'ladi?
+A) A va B ning ayirmasiga
++B) A (yoki B) ning teng qiymatiga
+C) A va B ning yig'indisiga
+D) Har doim nolga
+
+--- QIYIN ---
+
+21. A=48 va B=18 sonlari uchun Yevklid algoritmi bo'yicha EKUB qanchaga teng bo'ladi?
+A) 9
+B) 12
+C) 3
++D) 6
+
+22. A=12 va B=18 sonlari uchun Yevklid algoritmi necha marta ayirish amalini bajarib, natijaga erishadi?
++A) 2 marta
+B) 4 marta
+C) 3 marta
+D) 1 marta
+
+23. A=15 va B=25 sonlari uchun Yevklid algoritmi necha marta ayirish amalini bajaradi va EKUB nechaga teng bo'ladi?
+A) 2 marta ayirish, EKUB=10
++B) 3 marta ayirish, EKUB=5
+C) 3 marta ayirish, EKUB=10
+D) 2 marta ayirish, EKUB=5
+
+24. x²-5x+6=0 tenglamaning ildizlari (x1, x2) nechaga teng?
+A) x1=6, x2=1
+B) x1=-3, x2=-2
+C) x1=5, x2=1
++D) x1=3, x2=2
+
+25. a=2, b=4, c=2 bo'lgan kvadrat tenglama uchun D va yechim turini aniqlang.
++A) D=0, bitta yechim (x=-1)
+B) D=8, ikkita turli yechim
+C) D=-16, yechim yo'q
+D) D=16, ikkita yechim
+
+26. 8 ta turli son ichidan musbat sonlar ko'paytmasini hisoblash algoritmida qanday algoritm turlari birgalikda ishlatiladi?
+A) Faqat chiziqli algoritm
+B) Faqat tarmoqlanuvchi algoritm
++C) Har son musbatligini tekshiruvchi tarmoqlanish va ko'paytirishni takrorlovchi tsikl birgalikda
+D) Faqat takrorlanuvchi algoritm
+
+27. 18 nafar o'quvchidan matematikadan 'yaxshi' baho olganlar sonini aniqlash algoritmi qanday algoritmlar kombinatsiyasidan iborat bo'lishi lozim?
+A) Faqat kiritish amali
+B) Faqat matematik amal
+C) Faqat bitta shart tekshiruvi
++D) Har bir o'quvchi bahosini tekshiruvchi tarmoqlanish va 18 marta takrorlanuvchi tsikl
+
+28. 12 ta son ichidan manfiy sonlar va toq sonlar yig'indisini topish algoritmida har bir son uchun nechta shart tekshiriladi?
+A) Shart tekshirilmaydi
+B) 1 ta (faqat manfiylik)
++C) 2 ta (manfiylik va toqlik)
+D) 3 ta
+
+29. Yevklid algoritmi blok-sxemasida nechta tarmoqlanish (shart tekshirish) bloki mavjud?
+A) 1 ta
++B) 2 ta (A=B va A>B)
+C) 3 ta
+D) 4 ta
+
+30. Kvadrat tenglama yechimini topish blok-sxemasida nechta shart tekshirish (tarmoqlanish) bloki mavjud?
+A) 3 ta
+B) 4 ta
++C) 2 ta (D<0 va D=0)
+D) 1 ta

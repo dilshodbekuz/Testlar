@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Ona tili",
+ "mavzu": "Gapning ifoda maqsadi",
+ "savollar": [
+  {
+   "savol": "Nutqimizda gaplar necha xil maqsadda ishlatiladi?",
+   "variantlar": [
+    "4 xil",
+    "3 xil",
+    "2 xil",
+    "5 xil"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xabar berish maqsadida ishlatiladigan gap qanday ataladi?",
+   "variantlar": [
+    "Darak gap",
+    "So'roq gap",
+    "Istak gap",
+    "Buyruq gap"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "So'rash, aniqlash maqsadida ishlatiladigan gap turi qaysi?",
+   "variantlar": [
+    "Darak gap",
+    "Istak gap",
+    "So'roq gap",
+    "Buyruq gap"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Buyurish, undash maqsadida ishlatiladigan gap turi qaysi?",
+   "variantlar": [
+    "Istak gap",
+    "Buyruq gap",
+    "So'roq gap",
+    "Darak gap"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Istak, xohish bildiruvchi gap turi qanday ataladi?",
+   "variantlar": [
+    "Buyruq gap",
+    "So'roq gap",
+    "Darak gap",
+    "Istak gap"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gapning ifoda maqsadiga ko'ra qancha turi ajratiladi?",
+   "variantlar": [
+    "2 ta",
+    "4 ta",
+    "3 ta",
+    "5 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Darak gap qanday maqsadni ifodalaydi?",
+   "variantlar": [
+    "Buyurish",
+    "So'rash",
+    "Xabar berish",
+    "Istak bildirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "So'roq gap qanday maqsadni ifodalaydi?",
+   "variantlar": [
+    "Buyurish, undash",
+    "So'rash, aniqlash",
+    "Istak, xohish",
+    "Xabar berish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Buyruq gap qanday maqsadni ifodalaydi?",
+   "variantlar": [
+    "So'rash, aniqlash",
+    "Buyurish, undash",
+    "Xabar berish",
+    "Istak, xohish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Istak gap qanday maqsadni ifodalaydi?",
+   "variantlar": [
+    "So'rash, aniqlash",
+    "Xabar berish",
+    "Buyurish, undash",
+    "Istak, xohish bildirish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Sayyor ismli ko'r arablar orasida eng mashhur ekan\" gapi ifoda maqsadiga ko'ra qaysi turga kiradi?",
+   "variantlar": [
+    "So'roq gap",
+    "Darak gap",
+    "Buyruq gap",
+    "Istak gap"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Nima berdi?\" gapi ifoda maqsadiga ko'ra qaysi turga kiradi?",
+   "variantlar": [
+    "So'roq gap",
+    "Darak gap",
+    "Istak gap",
+    "Buyruq gap"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"So'radim – berdi, – debdi ko'r\" gapi qaysi turga kiradi?",
+   "variantlar": [
+    "Darak gap",
+    "Buyruq gap",
+    "So'roq gap",
+    "Istak gap"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Darak gap oxiriga odatda qanday tinish belgisi qo'yiladi?",
+   "variantlar": [
+    "Nuqta",
+    "Ko'p nuqta",
+    "So'roq belgisi",
+    "Undov belgisi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "So'roq gap oxiriga qanday tinish belgisi qo'yiladi?",
+   "variantlar": [
+    "Nuqta",
+    "Undov belgisi",
+    "So'roq belgisi",
+    "Vergul"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Buyruq gap ko'pincha qanday ohang bilan aytiladi va qaysi belgi bilan yozilishi mumkin?",
+   "variantlar": [
+    "Nuqta bilan, past ohangda",
+    "Undov belgisi bilan, buyuruvchi ohangda",
+    "So'roq belgisi bilan",
+    "Ko'p nuqta bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Hoy, Sayyor, Xudodan tila, ko'zing evaziga biror nima bersin\" gapida qaysi ifoda maqsadi ustunlik qiladi?",
+   "variantlar": [
+    "So'rash",
+    "Buyurish, undash",
+    "Oddiy tasvirlash",
+    "Xabar berish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ko'rga tegishgan kishining gapi mazmuniga ko'ra bu gap qaysi turga kiradi?",
+   "variantlar": [
+    "Istak gap, chunki orzu ifodalangan",
+    "Buyruq gap, chunki undab, iltimos qilingan",
+    "So'roq gap, chunki savol berilgan",
+    "Darak gap, chunki xabar berilgan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnda sanalgan 4 maqsaddan qaysi biri \"orzu, xohish\"ni bildiradi?",
+   "variantlar": [
+    "Buyurish, undash",
+    "So'rash, aniqlash",
+    "Istak, xohish bildirish",
+    "Xabar berish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gapning ifoda maqsadiga ko'ra turlari nima asosida nomlanadi?",
+   "variantlar": [
+    "Ifodalanayotgan maqsadga ko'ra",
+    "Gap egasiga ko'ra",
+    "Gap kesimiga ko'ra",
+    "Gap tuzilishiga ko'ra"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Ko'rning javobi\" matnidagi dialogda kamida nechta xil ifoda maqsadidagi gap turi ishlatilgan?",
+   "variantlar": [
+    "1 ta",
+    "2 ta",
+    "3 ta",
+    "4 ta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi \"Nima berdi?\" savoliga ko'rning bergan javobi qaysi ifoda maqsadidagi gap orqali ifodalangan?",
+   "variantlar": [
+    "Darak gap, chunki xabar berilmoqda",
+    "Istak gap, chunki orzu ifodalanadi",
+    "So'roq gap, chunki yana savol berilgan",
+    "Buyruq gap, chunki buyuriladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Hoy, Sayyor... bersin\" gapida ham buyruq ohangi, ham istak ma'nosi mavjud bo'lsa, bunday gap qaysi ifoda maqsadiga yaqinroq deb baholanadi?",
+   "variantlar": [
+    "So'roq gap",
+    "Buyruq/istak gap",
+    "Darak gap",
+    "Hech biriga kirmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ifoda maqsadiga ko'ra turlar orasida qaysi biri holatga qarab ham nuqta, ham undov belgisi bilan yakunlanishi mumkin?",
+   "variantlar": [
+    "Istak gap",
+    "Darak gap",
+    "Buyruq gap",
+    "So'roq gap"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda ko'r kishi tegishgan odamga qanday ifoda maqsadidagi gap bilan javob qaytardi va bu orqali qanday fikr bildirdi?",
+   "variantlar": [
+    "Darak gap bilan, kinoyali xabar berdi",
+    "Istak gap bilan, orzu bildirdi",
+    "Buyruq gap bilan, buyurdi",
+    "So'roq gap bilan, savol berdi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Bilib oling\" qoidasiga asosan, bitta gapda bir vaqtning o'zida nechta ifoda maqsadi asosiy vazifa bajarishi mumkin?",
+   "variantlar": [
+    "4 tasi birdek",
+    "3 tasi",
+    "Faqat bittasi asosiy",
+    "2 tasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gapning ifoda maqsadiga ko'ra turga bo'linishi asosan nimaga asoslanadi, degan xulosani matndan chiqarish mumkin?",
+   "variantlar": [
+    "Nutqda ifodalangan maqsad va ohangga",
+    "Gap bo'laklari soniga",
+    "Kesim turkumiga",
+    "Gap egasi turiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ko'rning \"Senga o'xshagan ahmoqlarning basharasini ko'rmaslikni!\" javobi mazmunan qanday ifoda maqsadini o'zida mujassam etadi?",
+   "variantlar": [
+    "Alohida so'roq gap",
+    "So'roq gap davomi sifatida darak ma'nosini beradi",
+    "Alohida istak gap",
+    "Alohida buyruq gap"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matn mazmuniga ko'ra, ko'r o'ziga tegishgan odamga qanday munosabatda javob berdi va bu qaysi ifoda maqsadi orqali kuchaytirildi?",
+   "variantlar": [
+    "Iltimos bilan, istak gap orqali",
+    "Savol bilan, so'roq gap orqali",
+    "Buyruq bilan, buyruq gap orqali",
+    "Kinoya bilan, darak gap orqali"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gapning ifoda maqsadiga ko'ra turlarini aniqlashda asosiy mezon nima hisoblanadi: gap qurilishi yoki aytilish maqsadi?",
+   "variantlar": [
+    "Gap qurilishi",
+    "So'z turkumi",
+    "Gap uzunligi",
+    "Aytilish maqsadi (ohang va niyat)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

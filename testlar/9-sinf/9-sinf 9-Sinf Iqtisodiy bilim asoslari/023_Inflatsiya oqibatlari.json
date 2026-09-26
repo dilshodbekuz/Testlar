@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Iqtisodiy bilim asoslari",
+ "mavzu": "Inflatsiya oqibatlari",
+ "savollar": [
+  {
+   "savol": "Inflatsiya darajasi qaysi ko'rsatkich orqali hisoblab chiqariladi?",
+   "variantlar": [
+    "Ish haqi indekslari orqali",
+    "Valyuta kursi indekslari orqali",
+    "Ishlab chiqarish hajmi indekslari orqali",
+    "Iste'mol narxlari indekslari orqali"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sudraluvchi (mo'tadil) inflatsiyada narxlarning o'sishi necha foizdan oshmaydi?",
+   "variantlar": [
+    "10%",
+    "20%",
+    "50%",
+    "5%"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yuguruvchi inflatsiyada narxlar necha foiz oralig'ida oshadi?",
+   "variantlar": [
+    "100%dan 500%gacha",
+    "10%dan 50%gacha",
+    "50%dan 100%gacha",
+    "0%dan 10%gacha"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Giperinflatsiya davrida narxlar yiliga necha baravardan ko'proqqa oshadi?",
+   "variantlar": [
+    "50",
+    "100",
+    "30",
+    "10"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Iqtisodchi olimlar qaysi inflatsiya darajasini iqtisodiyotdagi me'yoriy holat deb qarashadi?",
+   "variantlar": [
+    "Deflyatsiya",
+    "Sudraluvchi inflatsiya",
+    "Yuguruvchi inflatsiya",
+    "Giperinflatsiya"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1923-yilda qaysi davlatda narxlar 1,3 trillion marta oshib, giperinflatsiya kuzatilgan?",
+   "variantlar": [
+    "Germaniya",
+    "Venesuela",
+    "Braziliya",
+    "Boliviya"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xalqaro valuta jamg'armasi ma'lumotlariga ko'ra, 2018-yilda qaysi davlatda inflatsiya darajasi 1 370 000% ni tashkil qilgan?",
+   "variantlar": [
+    "Venesuela",
+    "Braziliya",
+    "Boliviya",
+    "Germaniya"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Davlatning inflatsiyaga qarshi chora-tadbirlaridan biri nima?",
+   "variantlar": [
+    "Muomaladagi ortiqcha pul massasini kamaytirish",
+    "Tovar narxlarini erkin qo'yib berish",
+    "Muomaladagi pul massasini ko'paytirish",
+    "Barcha banklarni yopish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yuqori darajali inflatsiyadan asosan kimlar ko'proq zarar ko'radi?",
+   "variantlar": [
+    "Xorijiy investorlar",
+    "Davlat budjetidan maosh, nafaqa oluvchilar va omonatchilar",
+    "Tadbirkorlar va savdogarlar",
+    "Yer egalari"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1985-yilda Boliviyada inflatsiya darajasi necha foizga yetgan?",
+   "variantlar": [
+    "2148%",
+    "8000%",
+    "1 370 000%",
+    "50%"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar NI0=100 va NI1=150 bo'lsa, inflatsiya darajasi necha foizni tashkil qiladi?",
+   "variantlar": [
+    "75%",
+    "150%",
+    "50%",
+    "25%"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir yilda narxlar 30 foizga oshgan bo'lsa, bu qaysi inflatsiya turiga kiradi?",
+   "variantlar": [
+    "Me'yoriy inflatsiya",
+    "Sudraluvchi inflatsiya",
+    "Yuguruvchi inflatsiya",
+    "Giperinflatsiya"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir yilda narxlar 8 foizga oshgan bo'lsa, bu qaysi inflatsiya turiga kiradi?",
+   "variantlar": [
+    "Yuguruvchi inflatsiya",
+    "Deflyatsiya",
+    "Sudraluvchi inflatsiya",
+    "Giperinflatsiya"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir yilda narxlar 100 barobar oshgan bo'lsa, bu qaysi inflatsiya turiga kiradi?",
+   "variantlar": [
+    "Barqaror inflatsiya",
+    "Yuguruvchi inflatsiya",
+    "Sudraluvchi inflatsiya",
+    "Giperinflatsiya"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Asqar Bobonazarov 5 000 000 so'mni 24% yillik foiz bilan bankka qo'ygan. Yuqori inflatsiya sharoitida uning mablag'iga qanday ta'sir bo'ladi?",
+   "variantlar": [
+    "Uning mablag'i darhol ikki barobar bo'ladi",
+    "Unga inflatsiya umuman ta'sir qilmaydi",
+    "Uning mablag'i har doim oshib boradi",
+    "Uning mablag'i inflatsiyadan eng ko'p zarar ko'rishi mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nilufar Ergasheva 5 000 000 so'mga qimmatbaho zeb-ziynat sotib olgan. Yuqori inflatsiya sharoitida bu strategiya natijasi qanday bo'ladi?",
+   "variantlar": [
+    "Uning mablag'i qadri saqlanib qolishi mumkin",
+    "Uning mablag'i tezda qadrsizlanadi",
+    "Unga davlat jarima soladi",
+    "Uning mablag'i bankka aylanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Egamberdi Esonov 5 000 000 so'mga qadri barqaror xorijiy valuta sotib olgan. Yuqori inflatsiya sharoitida bu strategiya natijasi qanday bo'ladi?",
+   "variantlar": [
+    "Unga soliq solinadi",
+    "Uning mablag'i milliy valyutaga aylantiriladi",
+    "Uning mablag'i barqaror qolishi mumkin",
+    "Uning mablag'i darhol yo'qoladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Diagrammaga ko'ra, mamlakatda 2002-yildagi inflatsiya darajasi necha foizni tashkil qilgan?",
+   "variantlar": [
+    "14,3%",
+    "21,6%",
+    "28,2%",
+    "7,8%"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Diagrammaga ko'ra, 2005 va 2008-yillardagi inflatsiya darajalari qanday nisbatda bo'lgan?",
+   "variantlar": [
+    "Bu yillar haqida ma'lumot yo'q",
+    "2005-yilnikidan 2008-yilniki yuqori bo'lgan",
+    "2008-yilnikidan 2005-yilniki yuqori bo'lgan",
+    "Ikkalasi ham teng, ya'ni 7,8% bo'lgan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Davlat ishlab chiqarishni rag'batlantirish uchun korxonalarga qanday yordam ko'rsatadi?",
+   "variantlar": [
+    "Pul chop etishni oshirish orqali",
+    "Narxlarni majburiy pasaytirish orqali",
+    "Imtiyozli kredit va soliq imtiyozlari berish orqali",
+    "Bank omonatlarini muzlatish orqali"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Asqar, Nilufar, Oxunjon va Egamberdilardan qaysi biri kuchli giperinflatsiya sharoitida eng ko'p ziyon ko'radi, agar inflatsiya foiz stavkasidan yuqori bo'lsa?",
+   "variantlar": [
+    "Oxunjon Soliyev",
+    "Asqar Bobonazarov",
+    "Nilufar Ergasheva",
+    "Egamberdi Esonov"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2018-yilda Venesueladagi giperinflatsiya natijasida YaIM necha foizga qisqargan?",
+   "variantlar": [
+    "10%",
+    "25%",
+    "20%",
+    "15%"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2018-yilgi giperinflatsiya tufayli Venesueladan necha million kishi mamlakatni tark etgan?",
+   "variantlar": [
+    "1 milliondan ortiq",
+    "5 milliondan ortiq",
+    "3 milliondan ortiq",
+    "2 milliondan ortiq"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "XV asrda Amerikadan olib kelingan oltin-kumush tufayli Ispaniyada nima yuz bergan?",
+   "variantlar": [
+    "Narxlar keskin oshib, tovarlari Yevropa bozorlaridan quvilib, iqtisodiyot tanazzulga yuz tutgan",
+    "Narxlar barqaror qolgan va iqtisodiyot rivojlangan",
+    "Oltin-kumushning qadri oshib ketgan",
+    "Ispaniya jahon yetakchi davlatiga aylangan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Giperinflatsiya davrida tadbirkorlar nima uchun faqat qisqa muddatli savdo-sotiq bilan shug'ullanadigan bo'lib qoladi?",
+   "variantlar": [
+    "Uzoq muddatli savdo foyda keltirmaydi degan qonun borligi uchun",
+    "Davlat uzoq muddatli savdoni taqiqlagani uchun",
+    "Pul qadrsizlanib ulgurmasdan uni sarflash zarurligi tufayli",
+    "Xorijga eksport qilish osonroq bo'lgani uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Giperinflatsiya davrida banklar nima sababdan bankrotlik holatiga tusha boshlaydi?",
+   "variantlar": [
+    "Bank xodimlarining ko'payib ketishi tufayli",
+    "Davlat barcha banklarni yopib qo'ygani uchun",
+    "Omonatchilarning pulni shoshilinch talab qilib olishi natijasida",
+    "Foiz stavkalarining juda past bo'lishi tufayli"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Davlat muomaladagi pul massasini kamaytirish maqsadida aholini nimaga undaydi?",
+   "variantlar": [
+    "Mablag'larini chet elga o'tkazishga",
+    "Mablag'larini banklarga qo'yishga yoki qimmatli qog'ozlar sotib olishga",
+    "Ishlab chiqarishni to'xtatishga",
+    "Ko'proq tovar sotib olishga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Muomaladagi pul massasining kamayishi qanday oqibatga olib keladi?",
+   "variantlar": [
+    "Davlat budjeti kamomadi keskin oshadi",
+    "Ishlab chiqarish butunlay to'xtaydi",
+    "Talab oshadi va narxlar yanada ko'tariladi",
+    "Talab kamayadi va narxlar o'sishdan to'xtab, pasayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Braziliyada 1993-yildagi (2148%) va Boliviyada 1985-yildagi (8000%) inflatsiya darajalarini solishtirsak, qaysi biri yuqori bo'lgan?",
+   "variantlar": [
+    "Ikkalasi teng bo'lgan",
+    "Braziliyaniki yuqori bo'lgan",
+    "Solishtirib bo'lmaydi",
+    "Boliviyaniki yuqori bo'lgan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Inflatsiya darajasini hisobga olmasdan, pulini birovga qarzga bergan kishi nima uchun ziyon ko'radi?",
+   "variantlar": [
+    "Chunki davlat bunday qarzlarni bekor qiladi",
+    "Chunki qarz oluvchi doim qochib ketadi",
+    "Chunki bank bu jarayonga aralashib, foiz oladi",
+    "Chunki qaytarilgan pulning qadri inflatsiya tufayli kamaygan bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

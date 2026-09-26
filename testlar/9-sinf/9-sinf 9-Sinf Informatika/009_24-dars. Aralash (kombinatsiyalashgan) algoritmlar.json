@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Informatika",
+ "mavzu": "24-dars. Aralash (kombinatsiyalashgan) algoritmlar",
+ "savollar": [
+  {
+   "savol": "Aralash (kombinatsiyalashgan) algoritm deb qanday algoritm ataladi?",
+   "variantlar": [
+    "Faqat chiziqli algoritm",
+    "Tarmoqlanuvchi va takrorlanuvchi algoritmlarning birlashmasi",
+    "Faqat tarmoqlanuvchi algoritm",
+    "Faqat takrorlanuvchi algoritm"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Darslikda keltirilgan qaysi algoritm aynan aralash algoritmga misol bo'la oladi?",
+   "variantlar": [
+    "Ekranga matn chiqarish algoritmi",
+    "Yevklid algoritmi",
+    "Ikki son yig'indisini topish algoritmi",
+    "Kvadrat tenglama yechish algoritmi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yevklid algoritmi qanday masalani yechish uchun ishlatiladi?",
+   "variantlar": [
+    "Ikkita natural sonning EKUBini topish",
+    "Kvadrat tenglama yechimini topish",
+    "Sonlar yig'indisini topish",
+    "Sonni songa bo'lish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "EKUB atamasi nimani anglatadi?",
+   "variantlar": [
+    "Eng katta umumiy bo'luvchi",
+    "Eng kichik umumiy bo'luvchi",
+    "Eng kichik umumiy bo'linuvchi",
+    "Eng katta umumiy bo'linuvchi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yevklid algoritmining 1-bandida nima amalga oshiriladi?",
+   "variantlar": [
+    "Natija chiqariladi",
+    "Algoritm boshlanadi",
+    "Ayirma hisoblanadi",
+    "A va B taqqoslanadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yevklid algoritmi bo'yicha A=B bo'lganda nima qilinadi?",
+   "variantlar": [
+    "A va B qaytadan kiritiladi",
+    "Algoritm to'xtaydi va natija chiqmaydi",
+    "B=B-A amalga oshiriladi",
+    "A qiymati N deb olinadi va 6-bandga o'tiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kvadrat tenglamaning umumiy ko'rinishi qanday?",
+   "variantlar": [
+    "ax²+bx²+c=0",
+    "ax+b=0",
+    "ax²+bx+c=0",
+    "ax²+b=0"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Diskriminant (D) qanday formula bilan hisoblanadi?",
+   "variantlar": [
+    "D=b²-2ac",
+    "D=b²-4ac",
+    "D=b²+4ac",
+    "D=4ac-b²"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aralash algoritmlar tarkibida qanday algoritmlar bo'lishi mumkin?",
+   "variantlar": [
+    "Faqat matematik amallar",
+    "Faqat chiziqli algoritmlar",
+    "Faqat kiritish-chiqarish amallari",
+    "Tarmoqlanuvchi va takrorlanuvchi algoritmlarning kombinatsiyasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yevklid algoritmi blok-sxemasida '6-band' nimani anglatadi?",
+   "variantlar": [
+    "A va B kiritiladi",
+    "Algoritm tugatiladi",
+    "A=B tekshiriladi",
+    "N chiqariladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A=54, B=24 sonlari uchun Yevklid algoritmining birinchi qadamida qaysi amal bajariladi?",
+   "variantlar": [
+    "A=B tengligi rost bo'ladi",
+    "B=A+24 deb olinadi",
+    "54-24=30 hisoblanadi va A=30 deb olinadi",
+    "24-54 hisoblanadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar Yevklid algoritmida A>B bo'lsa, blok-sxema bo'yicha qaysi amal bajariladi?",
+   "variantlar": [
+    "N=A",
+    "B=B-A",
+    "A=A-B",
+    "A=B"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar Yevklid algoritmida A<B bo'lsa, blok-sxema bo'yicha qaysi amal bajariladi?",
+   "variantlar": [
+    "A=A-B",
+    "B=B-A",
+    "N=B",
+    "A=B"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kvadrat tenglamada D<0 bo'lsa, natija sifatida nima chiqariladi?",
+   "variantlar": [
+    "x1 va x2",
+    "Yechim yo'q",
+    "x=-b/2a",
+    "D=0"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kvadrat tenglamada D=0 bo'lganda nechta yechim mavjud va u qanday formula bilan topiladi?",
+   "variantlar": [
+    "Yechim yo'q",
+    "Ikkita yechim, x1=(-b+√D)/2a",
+    "Bitta yechim, x=-b/2a",
+    "Uchta yechim"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kvadrat tenglamada D>0 bo'lganda nechta yechim topiladi?",
+   "variantlar": [
+    "Cheksiz",
+    "Ikkita",
+    "Bitta",
+    "Yechim yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a=1, b=-5, c=6 bo'lgan kvadrat tenglama uchun diskriminant (D) qiymati nechaga teng?",
+   "variantlar": [
+    "D=11",
+    "D=-1",
+    "D=49",
+    "D=1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "K=0 dan boshlab, 'i=1, 25, 1' tsikli ishga tushirilsa, ushbu tsikl necha marta bajariladi?",
+   "variantlar": [
+    "24 marta",
+    "26 marta",
+    "1 marta",
+    "25 marta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Baholash algoritmida 'Baho=5' sharti rost bo'lganda qanday amal bajariladi?",
+   "variantlar": [
+    "K=0",
+    "Baho=0",
+    "K=K+1",
+    "K=K-1"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yevklid algoritmida A=B bo'lganda N qanday qiymatga teng bo'ladi?",
+   "variantlar": [
+    "A va B ning ayirmasiga",
+    "A (yoki B) ning teng qiymatiga",
+    "A va B ning yig'indisiga",
+    "Har doim nolga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A=48 va B=18 sonlari uchun Yevklid algoritmi bo'yicha EKUB qanchaga teng bo'ladi?",
+   "variantlar": [
+    "9",
+    "12",
+    "3",
+    "6"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A=12 va B=18 sonlari uchun Yevklid algoritmi necha marta ayirish amalini bajarib, natijaga erishadi?",
+   "variantlar": [
+    "2 marta",
+    "4 marta",
+    "3 marta",
+    "1 marta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A=15 va B=25 sonlari uchun Yevklid algoritmi necha marta ayirish amalini bajaradi va EKUB nechaga teng bo'ladi?",
+   "variantlar": [
+    "2 marta ayirish, EKUB=10",
+    "3 marta ayirish, EKUB=5",
+    "3 marta ayirish, EKUB=10",
+    "2 marta ayirish, EKUB=5"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x²-5x+6=0 tenglamaning ildizlari (x1, x2) nechaga teng?",
+   "variantlar": [
+    "x1=6, x2=1",
+    "x1=-3, x2=-2",
+    "x1=5, x2=1",
+    "x1=3, x2=2"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a=2, b=4, c=2 bo'lgan kvadrat tenglama uchun D va yechim turini aniqlang.",
+   "variantlar": [
+    "D=0, bitta yechim (x=-1)",
+    "D=8, ikkita turli yechim",
+    "D=-16, yechim yo'q",
+    "D=16, ikkita yechim"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "8 ta turli son ichidan musbat sonlar ko'paytmasini hisoblash algoritmida qanday algoritm turlari birgalikda ishlatiladi?",
+   "variantlar": [
+    "Faqat chiziqli algoritm",
+    "Faqat tarmoqlanuvchi algoritm",
+    "Har son musbatligini tekshiruvchi tarmoqlanish va ko'paytirishni takrorlovchi tsikl birgalikda",
+    "Faqat takrorlanuvchi algoritm"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "18 nafar o'quvchidan matematikadan 'yaxshi' baho olganlar sonini aniqlash algoritmi qanday algoritmlar kombinatsiyasidan iborat bo'lishi lozim?",
+   "variantlar": [
+    "Faqat kiritish amali",
+    "Faqat matematik amal",
+    "Faqat bitta shart tekshiruvi",
+    "Har bir o'quvchi bahosini tekshiruvchi tarmoqlanish va 18 marta takrorlanuvchi tsikl"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "12 ta son ichidan manfiy sonlar va toq sonlar yig'indisini topish algoritmida har bir son uchun nechta shart tekshiriladi?",
+   "variantlar": [
+    "Shart tekshirilmaydi",
+    "1 ta (faqat manfiylik)",
+    "2 ta (manfiylik va toqlik)",
+    "3 ta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yevklid algoritmi blok-sxemasida nechta tarmoqlanish (shart tekshirish) bloki mavjud?",
+   "variantlar": [
+    "1 ta",
+    "2 ta (A=B va A>B)",
+    "3 ta",
+    "4 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kvadrat tenglama yechimini topish blok-sxemasida nechta shart tekshirish (tarmoqlanish) bloki mavjud?",
+   "variantlar": [
+    "3 ta",
+    "4 ta",
+    "2 ta (D<0 va D=0)",
+    "1 ta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

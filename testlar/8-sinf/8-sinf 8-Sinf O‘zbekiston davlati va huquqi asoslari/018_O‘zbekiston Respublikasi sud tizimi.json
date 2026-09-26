@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf O‘zbekiston davlati va huquqi asoslari",
+ "mavzu": "O‘zbekiston Respublikasi sud tizimi",
+ "savollar": [
+  {
+   "savol": "Matnga ko'ra sud hokimiyati nima hisoblanadi?",
+   "variantlar": [
+    "Davlat hokimiyatining bir bo'g'ini",
+    "Ijro etuvchi hokimiyatning bir qismi",
+    "Siyosiy partiya",
+    "Jamoat birlashmasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Konstitutsiyaning 106-moddasiga ko'ra sud hokimiyati kimlardan mustaqil holda ish yuritadi?",
+   "variantlar": [
+    "Qonun chiqaruvchi va ijro etuvchi hokimiyatlardan, siyosiy partiyalardan",
+    "Faqat xalqaro tashkilotlardan",
+    "Faqat mahalliy hokimiyatdan",
+    "Faqat prokuraturadan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "108-moddaga ko'ra O'zbekiston Respublikasi Konstitutsiyaviy sudi qanday ishlarni ko'radi?",
+   "variantlar": [
+    "Xalqaro shartnomalar matnini",
+    "Fuqarolar o'rtasidagi mulkiy nizolarni",
+    "Jinoyat ishlarini",
+    "Qonun chiqaruvchi va ijro etuvchi hokimiyatlarning hujjatlari Konstitutsiyaga mosligini"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "113-moddaga ko'ra hamma sudlarda ishlar qanday ko'riladi?",
+   "variantlar": [
+    "Faqat yopiq",
+    "Ochiq",
+    "Faqat yozma",
+    "Faqat onlayn"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "115-moddaga ko'ra O'zbekiston Respublikasida sud ishlarini yuritish qaysi tillarda olib boriladi?",
+   "variantlar": [
+    "Faqat davlat tilida yozma shaklda",
+    "Faqat rus tilida",
+    "Faqat ingliz tilida",
+    "O'zbek, qoraqalpoq yoki muayyan joydagi ko'pchilik aholi so'zlashadigan tilda"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "116-moddaga ko'ra ayblanuvchi qaysi huquq bilan ta'minlanadi?",
+   "variantlar": [
+    "Himoyalanish huquqi",
+    "Ta'lim huquqi",
+    "Mulk huquqi",
+    "Saylash huquqi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra advokatura kimlarga yuridik yordam beradi?",
+   "variantlar": [
+    "Faqat xorijiy fuqarolarga",
+    "Faqat sudyalarga",
+    "Faqat davlat organlariga",
+    "Fuqarolarga, korxona, muassasa va tashkilotlarga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qonunda sudyalarning vakolat muddati necha yil qilib belgilangan?",
+   "variantlar": [
+    "Uch yil",
+    "Besh yil",
+    "Ikki yil",
+    "O'n yil"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Monteskyoning hikmatiga ko'ra, sud hokimiyati qaysi hokimiyat bilan birlashsa, hakam sitamgarga aylanishi mumkin?",
+   "variantlar": [
+    "Diniy hokimiyat",
+    "Mahalliy hokimiyat",
+    "Ijro hokimiyati",
+    "Qonun chiqaruvchi hokimiyat"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Amir Temur davlatida odil sudlovni amalga oshirish uchun sud tizimi necha sohaga bo'lingan edi?",
+   "variantlar": [
+    "Uch",
+    "To'rt",
+    "Ikki",
+    "Besh"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Amir Temur davlatida harbiy kishilarga nisbatan qaysi sud qo'llanilgan?",
+   "variantlar": [
+    "Harbiy sud (tribunal)",
+    "Fuqarolik sudi",
+    "Amaldorlar sudi",
+    "Shariat sudi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Amir Temur davlatida shariat sudini kim boshqargan?",
+   "variantlar": [
+    "Lashkar qozisi",
+    "Xizmatchilar qozisi",
+    "Islom qozisi",
+    "Aholi qozisi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Amir Temur davlatida taxt vorislariga nisbatan hukmni kim chiqargan?",
+   "variantlar": [
+    "Lashkar qozisi",
+    "Amirning o'zi",
+    "Aholi qozisi",
+    "Islom qozisi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra sudning qabul qilgan qarorlari nima bilan ta'minlanadi?",
+   "variantlar": [
+    "Davlat majburlov kuchi bilan",
+    "Faqat advokatura yordami bilan",
+    "Faqat jamoatchilik fikri bilan",
+    "Faqat prokuratura nazorati bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sud-huquq tizimini isloh qilish jarayonida qaysi ikki sud birlashtirilib, yagona organ tashkil qilindi?",
+   "variantlar": [
+    "Konstitutsiyaviy sud va Oliy sud",
+    "Oliy sud va Oliy xo'jalik sudi",
+    "Harbiy sud va fuqarolik sudi",
+    "Tuman sudi va viloyat sudi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Oliy sud qoshida qanday tashkilot tuzildi?",
+   "variantlar": [
+    "Sudlar faoliyatini ta'minlash bo'yicha departament",
+    "Ichki ishlar boshqarmasi",
+    "Prokuratura bo'limi",
+    "Advokatlar palatasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'zbekiston Respublikasi Sudyalar oliy kengashi qanday maqsadda tashkil qilindi?",
+   "variantlar": [
+    "Advokatlarni ro'yxatga olish uchun",
+    "Jinoyat ishlarini ko'rib chiqish uchun",
+    "Sud hokimiyatining mustaqilligi konstitutsiyaviy prinsipiga rioya etilishini ta'minlashga ko'maklashish uchun",
+    "Sudyalarni saylashda ovoz berish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sud-huquq islohotlari natijasida Konstitutsiyaviy sud vakolati qanday kengaytirildi?",
+   "variantlar": [
+    "Prezident qaror va farmonlarining Konstitutsiyaga mosligini aniqlash vakolati kiritildi",
+    "Jinoyat ishlarini birinchi instansiyada ko'rish vakolati berildi",
+    "Xalqaro shartnomalarni imzolash vakolati berildi",
+    "Mahalliy byudjetni tasdiqlash vakolati berildi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Sud idoralarining mustaqilligiga oid asosiy tamoyillari\" nomli xalqaro huquqiy hujjatni qaysi tashkilot qabul qilgan?",
+   "variantlar": [
+    "YEXHT",
+    "BMT",
+    "Yevropa Ittifoqi",
+    "YUNESKO"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra sud idoralaridan boshqa qaysi davlat organi fuqarolik, jinoyat va boshqa ishlarni ko'rish, hal etish huquqiga ega?",
+   "variantlar": [
+    "Hokimiyat organlari",
+    "Hech qanday boshqa davlat organi bunday huquqqa ega emas",
+    "Prokuratura",
+    "Ichki ishlar organlari"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "112-moddaga ko'ra sudyalarning odil sudlovni amalga oshirish faoliyatiga aralashish nima bilan yakunlanadi?",
+   "variantlar": [
+    "Faqat ma'muriy jarima bilan",
+    "Hech qanday oqibat bo'lmaydi",
+    "Qonunga muvofiq javobgarlik bilan",
+    "Faqat ogohlantirish bilan"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda \"barcha sudyalar bir xil maqomga ega\" va \"ularning faoliyatiga aralashishga yo'l qo'yilmaydi\" degan fikrlar birga keltirilgan. Bu qoidalar, umuman olganda, eng avvalo qaysi tamoyilni mustahkamlashga xizmat qiladi?",
+   "variantlar": [
+    "Fuqarolarning tengligi tamoyilini",
+    "Oshkoralik tamoyilini",
+    "Sudlarning mustaqilligi tamoyilini",
+    "Aybsizlik prezumpsiyasi tamoyilini"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sud-tergov faoliyatida (agar aniq isbot bo'lmasa) faqat kimlarning ko'rsatmasi bo'yicha qaror qabul qilish taqiqlangan?",
+   "variantlar": [
+    "Faqat guvohning",
+    "Faqat prokurorning",
+    "Jabrlanuvchi, guvoh, gumonlanuvchi, ayblanuvchi yoki sudlanuvchining",
+    "Faqat sudlanuvchining"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Amir Temur davridagi sud tizimini hozirgi O'zbekiston sud tizimi bilan solishtirsak, \"lashkar qozisi\" boshqargan sud mazmunan hozirgi qaysi sudga yaqin turadi?",
+   "variantlar": [
+    "Konstitutsiyaviy sudga",
+    "Harbiy sudlarga",
+    "Ma'muriy sudlarga",
+    "Iqtisodiy sudlarga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Prezident farmoniga ko'ra sud-huquq tizimi islohotlarining asosiy maqsadlaridan biri sifatida nima belgilandi?",
+   "variantlar": [
+    "Advokaturani tugatish",
+    "Sud hokimiyatining haqiqiy mustaqilligini ta'minlash",
+    "Sudlar sonini kamaytirish",
+    "Sud jarayonlarini yopiq qilish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga ko'ra sud tizimini isloh qilish va takomillashtirish ishlari avvalambor qaysi konstitutsiyaviy prinsipni izchil amalga oshirishga xizmat qildi?",
+   "variantlar": [
+    "Hokimiyatlar bo'linishi prinsipini",
+    "Federalizm prinsipini",
+    "Dunyoviylik prinsipini",
+    "Ko'ppartiyaviylik prinsipini"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "113-moddadagi \"hamma sudlarda ishlar ochiq ko'riladi\" qoidasi matnda qaysi konstitutsiyaviy tamoyil bilan bog'lab tushuntirilgan?",
+   "variantlar": [
+    "Oshkoralik tamoyili",
+    "Federalizm tamoyili",
+    "Fuqarolarning tengligi tamoyili",
+    "Dunyoviylik tamoyili"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga ko'ra aybsizlik prezumpsiyasi qoidasining qonunda aks ettirilganligi nimaning isboti sifatida keltirilgan?",
+   "variantlar": [
+    "O'zbekiston sud tizimining xalqaro andozalarga mosligi",
+    "Advokaturaning kuchsizligi",
+    "Sudyalar sonining ko'payishi",
+    "Jinoyatchilik darajasining pasayishi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'zbekiston Respublikasi sud tizimi tarkibidagi sudlar orasida aynan qaysi sudlar ma'muriy ishlar bilan bog'liq ishlarni ko'radi?",
+   "variantlar": [
+    "Faqat iqtisodiy sudlar",
+    "Konstitutsiyaviy sud",
+    "Tuman, shahar ma'muriy sudlari",
+    "Harbiy sudlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi ma'lumotlarni umumlashtirsak, Konstitutsiyaviy sud vakolatining Prezident qaror va farmonlarini tekshirishgacha kengaytirilishi, avvalambor, nimaga xizmat qiladi?",
+   "variantlar": [
+    "Sudlar sonini kamaytirishga",
+    "Advokaturani tugatishga",
+    "Prezident vakolatini cheklashni bekor qilishga",
+    "Hokimiyatlar o'rtasidagi nazorat va muvozanatni kuchaytirishga"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

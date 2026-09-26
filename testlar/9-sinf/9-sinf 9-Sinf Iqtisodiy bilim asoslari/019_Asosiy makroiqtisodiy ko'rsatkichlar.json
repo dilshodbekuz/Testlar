@@ -1,0 +1,326 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Iqtisodiy bilim asoslari",
+ "mavzu": "Asosiy makroiqtisodiy ko'rsatkichlar",
+ "savollar": [
+  {
+   "savol": "Yalpi ichki mahsulot (YaIM) qanday ta'riflanadi?",
+   "variantlar": [
+    "Mamlakatdagi barcha oraliq mahsulotlarning umumiy qiymati",
+    "Mamlakat hududida bir yil mobaynida ishlab chiqarilgan pirovard tovar va xizmatlarning bozor narxlaridagi umumiy qiymati",
+    "Mamlakat fuqarolari tomonidan dunyoning istalgan joyida yaratilgan mahsulotlar qiymati",
+    "Mamlakat aholisining bir yillik jami ish haqi va foydasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yalpi milliy mahsulot (YaMM) ta'rifi qaysi javobda to'g'ri berilgan?",
+   "variantlar": [
+    "Mamlakatdagi barcha oraliq mahsulotlar qiymati",
+    "Faqat mamlakat hududida yaratilgan tovarlar qiymati",
+    "Aholi jon boshiga to'g'ri keladigan daromad",
+    "Yil davomida mamlakat fuqarolari tomonidan (dunyoning istalgan joyida) yaratilgan pirovard tovar va xizmatlarning bozor narxlaridagi umumiy qiymati"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sof ichki mahsulot (SIM) qanday topiladi?",
+   "variantlar": [
+    "YaIM dan amortizatsiya ajratmasini ayirish orqali",
+    "MD dan amortizatsiyani ayirish orqali",
+    "YaIM ga bilvosita soliqlarni qo'shish orqali",
+    "YaMM ga amortizatsiyani qo'shish orqali"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sof milliy mahsulot (SMM) qanday topiladi?",
+   "variantlar": [
+    "SIM dan bilvosita soliqlarni ayirish orqali",
+    "YaIM qiymatiga amortizatsiyani qo'shish orqali",
+    "MD ga bilvosita soliqlarni qo'shish orqali",
+    "YaMM qiymatidan amortizatsiya ajratmasini ayirish orqali"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Milliy daromad (MD) nimalardan iborat?",
+   "variantlar": [
+    "Faqat eksportdan tushgan valuta daromadidan",
+    "Faqat chet el investitsiyalaridan olingan daromaddan",
+    "Mamlakat aholisining bir yillik ish haqi, foiz, renta kabi daromadlari va korxonalar foydasining yalpi yig'indisidan",
+    "Faqat davlat byudjeti daromadlaridan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "YaIM odatda qanday hisoblanadi?",
+   "variantlar": [
+    "Milliy valutada",
+    "Oltin ekvivalentida",
+    "Faqat evroda",
+    "Faqat AQSH dollarida"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "YaIM ko'rsatkichi har qanday mamlakatda qancha muddatda bir marta hisoblab chiqiladi?",
+   "variantlar": [
+    "Har oyda",
+    "Yiliga bir marta, hisobot yilidan keyingi yilning boshida",
+    "Har chorakda",
+    "Har besh yilda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aholi jon boshiga to'g'ri keladigan YaIM qanday topiladi?",
+   "variantlar": [
+    "MD ni bilvosita soliqlarga bo'lish orqali",
+    "YaIM qiymatini mamlakat hududiga bo'lish orqali",
+    "YaIM qiymatini mamlakat aholisi soniga bo'lish orqali",
+    "YaMM qiymatini amortizatsiyaga bo'lish orqali"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Birlashgan Millatlar Tashkilotining tavsiyasiga ko'ra, mamlakat rivojlanish darajasini aniqlashda qaysi ko'rsatkich asosiy hisoblanadi?",
+   "variantlar": [
+    "Sof milliy mahsulot (SMM)",
+    "Milliy daromad (MD)",
+    "Yalpi milliy mahsulot (YaMM)",
+    "Yalpi ichki mahsulot (YaIM)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "AQSH va Yaponiya kabi davlatlarda mamlakatning rivojlanish darajasini ifodalovchi asosiy ko'rsatkich sifatida qaysi biri qabul qilingan?",
+   "variantlar": [
+    "Yalpi ichki mahsulot (YaIM)",
+    "Sof ichki mahsulot (SIM)",
+    "Milliy daromad (MD)",
+    "Yalpi milliy mahsulot (YaMM)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Traktor ishlab chiqarish jarayonida ishlatilgan g'ildirak nima uchun YaIM ga alohida kiritilmaydi?",
+   "variantlar": [
+    "Chunki u chet elda ishlab chiqarilgan",
+    "Chunki g'ildirak qimmat emas",
+    "Chunki g'ildirak eksport qilinmaydi",
+    "Chunki u oraliq mahsulot bo'lib, traktor tarkibiga kirib ketadi va qiymati ikki marta hisoblanib qolishining oldini olish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir mamlakatning YaIM miqdori 1000 mln dollarni, mamlakat kapitali asosida chet elda yaratilgan tovar va xizmatlar qiymati (E) 50 mln dollarni, chet el kapitali asosida mamlakatda yaratilgan tovar va xizmatlar qiymati (I) 30 mln dollarni tashkil etdi. Bu mamlakatning YaMM miqdori qancha bo'ladi?",
+   "variantlar": [
+    "1000 mln dollar",
+    "1050 mln dollar",
+    "1020 mln dollar",
+    "980 mln dollar"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir mamlakatning YaIM miqdori 800 mlrd so'mni, amortizatsiya ajratmasi 50 mlrd so'mni tashkil etdi. Bu mamlakatning Sof ichki mahsuloti (SIM) qancha bo'ladi?",
+   "variantlar": [
+    "850 mlrd so'm",
+    "750 mlrd so'm",
+    "800 mlrd so'm",
+    "700 mlrd so'm"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mamlakatning YaMM miqdori 1200 mlrd so'mni, amortizatsiya ajratmasi 100 mlrd so'mni tashkil etsa, Sof milliy mahsuloti (SMM) qancha bo'ladi?",
+   "variantlar": [
+    "1300 mlrd so'm",
+    "1000 mlrd so'm",
+    "1200 mlrd so'm",
+    "1100 mlrd so'm"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mamlakatning YaIM miqdori 500 mlrd so'mni tashkil etib, aholisi soni 10 mln kishi bo'lsa, aholi jon boshiga to'g'ri keladigan YaIM qancha bo'ladi?",
+   "variantlar": [
+    "5 ming so'm",
+    "50 ming so'm",
+    "5 million so'm",
+    "500 ming so'm"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mamlakatning Sof ichki mahsuloti (SIM) 600 mln dollarni, bilvosita soliqlar 50 mln dollarni tashkil etsa, Milliy daromad (MD) qancha bo'ladi?",
+   "variantlar": [
+    "650 mln dollar",
+    "500 mln dollar",
+    "600 mln dollar",
+    "550 mln dollar"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'zbekistonda faoliyat yuritayotgan chet el kompaniyasi ishlab chiqargan mahsulot qaysi ko'rsatkichga kiritiladi?",
+   "variantlar": [
+    "Hech qaysi ko'rsatkichga kiritilmaydi",
+    "Faqat MD ga kiritiladi",
+    "O'zbekistonning YaIM iga, chunki hudud bo'yicha hisoblanadi",
+    "Faqat o'sha chet el davlatining YaMM iga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'zbekiston fuqarosi chet elda ishlab topgan daromadi mamlakatimizning qaysi ko'rsatkichiga qo'shiladi?",
+   "variantlar": [
+    "O'zbekistonning YaIM iga",
+    "O'zbekistonning YaMM iga",
+    "Hech qaysi ko'rsatkichga kiritilmaydi",
+    "Chet el davlatining YaIM iga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnda keltirilgan ma'lumotga ko'ra, 2018-yilda O'zbekistonning YaIM 2017-yilga nisbatan necha foizga ko'p bo'lgan?",
+   "variantlar": [
+    "407,5%",
+    "12,3%",
+    "3,3%",
+    "5,17%"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Aholi jon boshiga to'g'ri keladigan YaIM asosan nima uchun ishlatiladi?",
+   "variantlar": [
+    "Faqat mamlakat hududini o'lchash uchun",
+    "Faqat davlat byudjetini shakllantirish uchun",
+    "Faqat eksport hajmini hisoblash uchun",
+    "Turli mamlakatlardagi aholining turmush farovonligini taqqoslash uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir mamlakatning YaMM miqdori 7669 mln dollarni, o'z mamlakati kapitali asosida chet elda yaratilgan tovar va xizmatlar qiymati (E) 205 mln dollarni, chet el kapitali asosida shu mamlakatda yaratilgan tovar va xizmatlar qiymati (I) 190 mln dollarni tashkil etdi. Bu mamlakatning YaIM miqdori qancha bo'ladi?",
+   "variantlar": [
+    "7449 mln dollar",
+    "7684 mln dollar",
+    "7869 mln dollar",
+    "7654 mln dollar"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar bir mamlakatda mamlakat kapitali asosida chet elda yaratilgan tovar va xizmatlar qiymati (E) chet el kapitali asosida shu mamlakatda yaratilgan tovar va xizmatlar qiymatidan (I) katta bo'lsa, YaMM va YaIM o'rtasidagi nisbat qanday bo'ladi?",
+   "variantlar": [
+    "YaMM YaIM ga teng bo'ladi",
+    "YaMM YaIM dan kichik bo'ladi",
+    "Bu ma'lumotlar orasida hech qanday bog'liqlik yo'q",
+    "YaMM YaIM dan katta bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mamlakatning YaIM miqdori 2000 mlrd so'mni, amortizatsiya ajratmasi 150 mlrd so'mni, bilvosita soliqlar 100 mlrd so'mni tashkil etsa, Milliy daromad (MD) qancha bo'ladi?",
+   "variantlar": [
+    "1750 mlrd so'm",
+    "1850 mlrd so'm",
+    "1900 mlrd so'm",
+    "2100 mlrd so'm"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Fermer daladan terib olib davlatga topshirgan paxta xom ashyosi uchun olgan daromadi va shu paxtadan tikilgan ko'ylaklarni sotishdan tushgan daromad haqida qaysi xulosa to'g'ri?",
+   "variantlar": [
+    "Faqat xom ashyo qiymati YaIM ga qo'shiladi",
+    "Ikkalasi ham to'liq alohida-alohida YaIM ga qo'shiladi, chunki ikkalasi ham tovar",
+    "Ikkalasi ham YaIM ga umuman kiritilmaydi",
+    "Faqat pirovard mahsulot bo'lgan ko'ylak qiymati YaIM ga qo'shiladi, xom ashyo qiymati esa ko'ylak narxiga singib ketgani uchun alohida qo'shilmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun YaIM hisoblanayotganda ishlab chiqarishning oraliq bosqichida yaratilgan xom ashyo, ehtiyot qismlar va materiallar hisobga olinmaydi?",
+   "variantlar": [
+    "Chunki ular davlat mulki hisoblanadi",
+    "Chunki ular qimmat emas",
+    "Chunki ular faqat eksport qilinadi",
+    "Chunki ularning qiymati pirovard mahsulot narxiga allaqachon kiritilgan bo'lib, aks holda qiymat ikki marta hisoblanib ketadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki mamlakat bir xil YaIM ga ega, lekin birinchi mamlakat aholisi ikkinchisidan ikki marta ko'p. Aholi jon boshiga to'g'ri keladigan YaIM bo'yicha qaysi xulosa to'g'ri?",
+   "variantlar": [
+    "Bu ma'lumotlar asosida xulosa chiqarib bo'lmaydi",
+    "Ikkala mamlakatda ham bir xil bo'ladi",
+    "Ikkinchi mamlakatda aholi jon boshiga YaIM ikki marta katta bo'ladi",
+    "Birinchi mamlakatda aholi jon boshiga YaIM ikki marta katta bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Chet ellik sayyohlar O'zbekiston hududida milliy aviakompaniya xizmatidan foydalanib to'lagan valuta qaysi ko'rsatkichga kiritiladi?",
+   "variantlar": [
+    "Faqat MD ga kiritiladi",
+    "Hech qaysi ko'rsatkichga kiritilmaydi",
+    "O'zbekistonning YaIM iga, chunki xizmat O'zbekiston hududida ko'rsatilgan",
+    "Faqat sayyoh mamlakatining YaMM iga"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mamlakat A ning YaIM miqdori o'sib bormoqda, lekin uning aholisi soni undan ham tezroq sur'atlarda o'sib bormoqda. Bu holatda aholi jon boshiga to'g'ri keladigan YaIM qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmay qoladi",
+    "Bu ma'lumotlar bilan bog'liq emas",
+    "Kamayishi mumkin, chunki aholi soni YaIM dan tezroq o'smoqda",
+    "Albatta oshadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi ko'rsatkichlar orasida qaysi biri eng katta bo'lishi mumkin, agar E > I va amortizatsiya musbat bo'lsa: YaIM, YaMM, SIM?",
+   "variantlar": [
+    "SIM",
+    "YaMM",
+    "YaIM",
+    "Barchasi teng bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

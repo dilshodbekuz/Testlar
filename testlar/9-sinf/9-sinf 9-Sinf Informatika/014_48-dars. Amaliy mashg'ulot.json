@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Informatika",
+ "mavzu": "48-dars. Amaliy mashg'ulot",
+ "savollar": [
+  {
+   "savol": "Amaliy mashg'ulotdagi asosiy masala nima haqida edi?",
+   "variantlar": [
+    "Uchta sonning ko'paytmasini topish",
+    "Uchta sondan eng kattasini topish",
+    "Kiritilgan uchta sondan qanchasi musbat, qanchasi musbat emasligini aniqlash",
+    "Uchta sonning yig'indisini topish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dasturda musbat sonlar soni qaysi o'zgaruvchida saqlanadi?",
+   "variantlar": [
+    "a",
+    "k",
+    "d",
+    "b"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dasturda musbat bo'lmagan (manfiy) sonlar soni qaysi o'zgaruvchida saqlanadi?",
+   "variantlar": [
+    "a",
+    "c",
+    "k",
+    "d"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dastur boshida k va d o'zgaruvchilari qanday qiymatga ega bo'ladi?",
+   "variantlar": [
+    "0 va 0",
+    "1 va 1",
+    "aniqlanmagan",
+    "k=1, d=0"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Berilgan dasturda uchta son qanday kiritiladi?",
+   "variantlar": [
+    "avtomatik generatsiya qilinadi",
+    "print() funksiyasi orqali",
+    "fayldan o'qib olinadi",
+    "input() funksiyasi orqali"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Blok-sxemada \"Boshlash\" bloki nimani anglatadi?",
+   "variantlar": [
+    "Shart tekshirilishini",
+    "Algoritmning boshlanishini",
+    "Natija chiqarilishini",
+    "Algoritmning tugashini"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Blok-sxemada \"Tamom\" bloki nimani bildiradi?",
+   "variantlar": [
+    "Ma'lumot kiritishni",
+    "Shartni tekshirishni",
+    "Algoritmning tugashini",
+    "Algoritmning boshlanishini"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "print(k,d) qatori qaysi blokka mos keladi?",
+   "variantlar": [
+    "Shart tekshirish bloki",
+    "Kiritish bloki",
+    "Boshlanish bloki",
+    "Chiqarish bloki"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Python tilida shartni tekshirish uchun qaysi kalit so'z ishlatiladi?",
+   "variantlar": [
+    "while",
+    "if",
+    "def",
+    "for"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dasturdagi \"else\" qismi nimani anglatadi?",
+   "variantlar": [
+    "Shart bajarilmasa bajariladigan amal",
+    "Dasturning tugashi",
+    "Dasturning boshlanishi",
+    "Shart bajarilsa bajariladigan amal"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar a=5 bo'lsa, \"if a>0:\" sharti qanday natija beradi?",
+   "variantlar": [
+    "Rost (True)",
+    "Yolg'on (False)",
+    "Xatolik beradi",
+    "Hech qanday natija bermaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a=-3, b=4, c=-1 qiymatlar uchun k (musbatlar soni) nechaga teng bo'ladi?",
+   "variantlar": [
+    "2",
+    "0",
+    "1",
+    "3"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a=-3, b=4, c=-1 qiymatlar uchun d (musbat emaslar soni) nechaga teng bo'ladi?",
+   "variantlar": [
+    "2",
+    "0",
+    "1",
+    "3"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3-topshiriqda ikkita sondan dastlab kattasini chiqarish uchun qanday shart tekshiriladi?",
+   "variantlar": [
+    "a<0",
+    "a==b",
+    "a>b yoki b>a",
+    "a!=b"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a=0 bo'lganda \"if a>0:\" sharti bajariladimi?",
+   "variantlar": [
+    "Ha, bajariladi",
+    "Faqat b>0 bo'lsa bajariladi",
+    "Yo'q, bajarilmaydi",
+    "Xato chiqaradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"k+=1\" ifodasi nimani anglatadi?",
+   "variantlar": [
+    "k ni 1 ga bo'lish",
+    "k qiymatini 1 ga oshirish",
+    "k qiymatini 1 ga kamaytirish",
+    "k ni 0 ga tenglashtirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a, b, c uchchalasi ham musbat bo'lsa, dastur natijasida k va d qanday qiymat oladi?",
+   "variantlar": [
+    "k=3, d=0",
+    "k=1, d=2",
+    "k=2, d=1",
+    "k=0, d=3"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a, b, c uchchalasi ham manfiy bo'lsa, dastur natijasida k va d qanday qiymat oladi?",
+   "variantlar": [
+    "k=1, d=2",
+    "k=0, d=3",
+    "k=2, d=1",
+    "k=3, d=0"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "8-topshiriqqa ko'ra, ikkita son o'zaro teng bo'lsa, dastur qaysi qiymatni chiqaradi?",
+   "variantlar": [
+    "1",
+    "-1",
+    "0",
+    "2"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "6-topshiriqda hafta raqami qaysi oraliqda kiritilishi kerak?",
+   "variantlar": [
+    "0-6",
+    "1-6",
+    "1-7",
+    "0-7"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a=10, b=-5, c=0 qiymatlar uchun k va d ning to'g'ri qiymatlarini aniqlang.",
+   "variantlar": [
+    "k=0, d=3",
+    "k=1, d=2",
+    "k=1, d=1",
+    "k=2, d=1"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Berilgan asosiy dastur kodida nechta if-else blok ishlatilgan?",
+   "variantlar": [
+    "1 ta",
+    "2 ta",
+    "4 ta",
+    "3 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "7-topshiriqqa ko'ra, a va b musbat va yig'indisi 100 dan katta bo'lsa, nima hisoblanadi?",
+   "variantlar": [
+    "a va b ayirmasi",
+    "a ning b ga ko'paytmasi (a*b)",
+    "a ning b ga nisbati (a/b)",
+    "a va b yig'indisi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "7-topshiriqqa ko'ra, a va b musbat, lekin yig'indisi 100 dan katta bo'lmasa, nima hisoblanadi?",
+   "variantlar": [
+    "a ning b ga ko'paytmasi (a*b)",
+    "a va b ayirmasi",
+    "a va b yig'indisi",
+    "a ning b ga nisbati (a/b)"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a=-1, b=-1, c=-1 qiymatlar berilganda dastur natijasida k va d qanday chiqadi?",
+   "variantlar": [
+    "k=3, d=0",
+    "k=2, d=1",
+    "k=0, d=3",
+    "k=1, d=2"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "4-topshiriqqa ko'ra, a=-2 bo'lsa, uning kvadrati hisoblanadimi?",
+   "variantlar": [
+    "Ha, lekin natija manfiy bo'ladi",
+    "Yo'q, chunki faqat musbat sonlarning kvadrati hisoblanadi",
+    "Ha, chunki barcha sonlar kvadratga ko'tariladi",
+    "Bu shartga bog'liq emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uchta shart (a>0, b>0, c>0) ketma-ket tekshirilganda, umumiy nechta marta k yoki d ga qiymat qo'shiladi?",
+   "variantlar": [
+    "2 marta",
+    "6 marta",
+    "1 marta",
+    "3 marta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a=3, b=3 qiymatlar berilganda 8-topshiriq dasturi qaysi sonni chiqaradi?",
+   "variantlar": [
+    "1",
+    "0",
+    "2",
+    "3"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Asosiy masala blok-sxemasida nechta \"shart tekshirish bloki\" mavjud?",
+   "variantlar": [
+    "4 ta",
+    "3 ta",
+    "2 ta",
+    "1 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a=100, b=1 (ikkalasi musbat, yig'indisi 101>100) qiymatlar uchun 7-topshiriq bo'yicha natija nechaga teng bo'ladi?",
+   "variantlar": [
+    "1",
+    "100",
+    "99",
+    "101"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Iqtisodiy bilim asoslari",
+ "mavzu": "Xalqaro savdo",
+ "savollar": [
+  {
+   "savol": "Eksport nima?",
+   "variantlar": [
+    "Mamlakat ichida sotiladigan tovarlar",
+    "Chet mamlakatlardan sotib olingan tovar va xizmatlar",
+    "Chet elga berilgan qarz",
+    "Mamlakatda ishlab chiqarilgan va chet mamlakatlarga sotilgan tovar va xizmatlar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Import nima?",
+   "variantlar": [
+    "Eksport qilingan tovarlar",
+    "Chet mamlakatlardan sotib olingan tovar va xizmatlar",
+    "Ichki bozorda sotiladigan xizmatlar",
+    "Mamlakatda ishlab chiqarilgan tovarlar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tashqi savdo hajmi qanday aniqlanadi?",
+   "variantlar": [
+    "Import va eksport qiymatlarining yig'indisi bilan",
+    "Faqat import qiymati bilan",
+    "Faqat eksport qiymati bilan",
+    "Import va eksport orasidagi farq bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tashqi savdo balansi (saldosi) nima?",
+   "variantlar": [
+    "Import va eksport yig'indisi",
+    "Eksport va import hajmlari orasidagi farq",
+    "Mamlakatning umumiy byudjeti",
+    "Mamlakatning ichki savdo hajmi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nisbiy ustunlik nazariyasini kim yaratgan?",
+   "variantlar": [
+    "Jon Keyns",
+    "David Rikardo",
+    "Adam Smit",
+    "Karl Marks"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "David Rikardoning shoh asari qanday nomlanadi?",
+   "variantlar": [
+    "\"Siyosiy iqtisod va soliq solish qoidalari\"",
+    "\"Umumiy nazariya\"",
+    "\"Kapital\"",
+    "\"Xalqlar boyligi\""
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rikardo iqtisodiyot olamida kimdan keyingi eng taniqli olim sifatida tan olinadi?",
+   "variantlar": [
+    "Devid Yumdan",
+    "Adam Smitdan",
+    "Tomas Maltusdan",
+    "Jon Lokkdan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rikardoning ilmiy izlanishlari asosan nimaga qaratilgan edi?",
+   "variantlar": [
+    "Xalqaro bozordagi savdo erkinligi masalalariga",
+    "Soliq tizimini isloh qilishga",
+    "Pul muomalasini tartibga solishga",
+    "Ichki bozor narxlariga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar mamlakatning eksporti importidan ko'p bo'lsa, tashqi savdo balansi qanday bo'ladi?",
+   "variantlar": [
+    "Manfiy",
+    "Nolga teng",
+    "Musbat",
+    "Aniqlab bo'lmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Import eksportdan ko'p bo'lganda, tashqi savdoda nima vujudga keladi?",
+   "variantlar": [
+    "Valuta ortiqchaligi",
+    "Ishsizlik",
+    "Valuta tanqisligi",
+    "Inflyatsiya pasayishi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jadvalga ko'ra, 1-mamlakatda bir dona plastmassa idish ishlab chiqarish uchun necha soat ish vaqti sarflanadi?",
+   "variantlar": [
+    "20 soat",
+    "10 soat",
+    "30 soat",
+    "40 soat"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jadvalga ko'ra, 2-mamlakatda bir dona elektr lampochkasi ishlab chiqarish uchun necha soat sarflanadi?",
+   "variantlar": [
+    "20 soat",
+    "40 soat",
+    "10 soat",
+    "30 soat"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1-mamlakatda elektr lampochkasi ishlab chiqarishning muqobil qiymati necha dona plastmassa idishni tashkil qiladi?",
+   "variantlar": [
+    "1 dona",
+    "2 dona",
+    "3 dona",
+    "4 dona"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2-mamlakatda elektr lampochkasi ishlab chiqarishning muqobil qiymati necha dona plastmassa idishni tashkil qiladi?",
+   "variantlar": [
+    "1 dona",
+    "2 dona",
+    "3 dona",
+    "4 dona"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1-mamlakatda plastmassa idish ishlab chiqarishning muqobil qiymati necha dona elektr lampochkasini tashkil qiladi?",
+   "variantlar": [
+    "1/2 dona",
+    "1/3 dona",
+    "3 dona",
+    "2 dona"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2-mamlakatda plastmassa idish ishlab chiqarishning muqobil qiymati necha dona elektr lampochkasini tashkil qiladi?",
+   "variantlar": [
+    "1/4 dona",
+    "2 dona",
+    "1/2 dona",
+    "1/3 dona"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Muqobil qiymatlar taqqoslanganda, qaysi mamlakat elektr lampochkasi ishlab chiqarishda nisbiy ustunlikka ega?",
+   "variantlar": [
+    "1-mamlakat",
+    "2-mamlakat",
+    "Ikkalasi ham teng",
+    "Hech biri"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Muqobil qiymatlar taqqoslanganda, qaysi mamlakat plastmassa idish ishlab chiqarishda nisbiy ustunlikka ega?",
+   "variantlar": [
+    "2-mamlakat",
+    "Hech biri",
+    "Ikkalasi ham teng",
+    "1-mamlakat"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, har bir davlat qanday tovarni ishlab chiqarib, chetga sotishi lozim?",
+   "variantlar": [
+    "Faqat qishloq xo'jaligi tovarlarini",
+    "Ishlab chiqarish vaqti eng ko'p bo'lgan tovarni",
+    "Faqat sanoat tovarlarini",
+    "Muqobil qiymati boshqa davlatlardagiga nisbatan kam bo'lgan tovarni"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Rikardo xalqaro savdoni nimalardan xoli qilish mamlakatlar iqtisodiyoti uchun foydali ekanini asoslab bergan?",
+   "variantlar": [
+    "Tabiiy resurslardan",
+    "Investitsiyalardan",
+    "Ishchi kuchidan",
+    "Tariflar va boshqa sun'iy to'siqlardan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jadval ma'lumotlariga ko'ra, qaysi mamlakat ikkala tovar (plastmassa idish va elektr lampochkasi) ishlab chiqarishda ham mutlaq ustunlikka ega, chunki ikkalasida ham kamroq vaqt sarflaydi?",
+   "variantlar": [
+    "Ikkalasi teng ustunlikka ega",
+    "1-mamlakat",
+    "2-mamlakat",
+    "Hech biri ustunlikka ega emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1-mamlakat ikkala tovar ishlab chiqarishda ham mutlaq ustunlikka ega bo'lsa-da, nima uchun baribir 2-mamlakat bilan savdo qilishi maqsadga muvofiq?",
+   "variantlar": [
+    "Chunki qonun shuni talab qiladi",
+    "Chunki nisbiy ustunlik tufayli har ikkala mamlakat ham o'z resurslarini samaraliroq taqsimlab, ko'proq foyda ko'radi",
+    "Chunki 2-mamlakat aholisi ko'proq",
+    "Chunki 2-mamlakat arzon ishchi kuchiga ega"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar 1-mamlakat plastmassa idish ishlab chiqarishni o'zida tashkil qilib 2-mamlakatga sotsa va elektr lampochkasini 2-mamlakatdan sotib olsa, bu qaysi tamoyilga to'liq mos keladi?",
+   "variantlar": [
+    "Tenglik tamoyiliga",
+    "Proteksionizm tamoyiliga",
+    "Nisbiy ustunlik tamoyiliga",
+    "Mutlaq ustunlik tamoyiliga"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nisbiy ustunlik tamoyiliga ko'ra, matndagi ikkala mamlakat o'rtasidagi optimal savdo modeli qanday bo'ladi?",
+   "variantlar": [
+    "Ikkala mamlakat ham savdo qilishdan bosh tortadi",
+    "1-mamlakat lampochka, 2-mamlakat idish ishlab chiqarib sotadi",
+    "Ikkala mamlakat ham barcha tovarlarni o'zida ishlab chiqaradi",
+    "1-mamlakat idish ishlab chiqarib sotadi, lampochkani 2-mamlakatdan oladi, 2-mamlakat esa lampochka ishlab chiqarib sotadi, idishni 1-mamlakatdan oladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar mamlakatning tashqi savdo balansi uzoq muddat manfiy bo'lib qolaversa, bu qanday oqibatga olib kelishi mumkin?",
+   "variantlar": [
+    "Mamlakat valyuta zaxiralari ortadi",
+    "Chetdan tovar sotib olish uchun yetarli chet el valutasi yetishmay, valuta tanqisligi kuchayadi",
+    "Import butunlay to'xtaydi",
+    "Eksport avtomatik ravishda oshadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga asoslanib, nima uchun tashqi savdoda valuta tanqisligi vujudga keladi?",
+   "variantlar": [
+    "Chunki davlat pul chop etishni to'xtatadi",
+    "Chunki ishchi kuchi yetishmaydi",
+    "Chunki eksportdan tushgan valyuta importni qoplashga yetarli bo'lmay qoladi",
+    "Chunki soliqlar oshiriladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mutlaq ustunlik va nisbiy ustunlik tushunchalari orasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Ular bir xil tushuncha",
+    "Mutlaq ustunlik — kam vaqt/resurs bilan ishlab chiqarish, nisbiy ustunlik — muqobil qiymati kamroq tovarni ishlab chiqarish qobiliyati",
+    "Mutlaq ustunlik faqat qishloq xo'jaligiga tegishli",
+    "Nisbiy ustunlik faqat sanoatga tegishli"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar mamlakatlar faqat mutlaq ustunlikka asoslanib savdo yuritganida (nisbiy ustunlikni hisobga olmasa), 1-mamlakat kabi ikkala tovarda ham ustun bo'lgan davlat qanday xulosaga kelishi mumkin edi va bu qanday muammoga olib kelardi?",
+   "variantlar": [
+    "U barcha tovarlarni bepul tarqatardi",
+    "U faqat lampochka ishlab chiqarardi",
+    "U hech qanday tovarni sotib olishga hojat yo'q deb, savdodan voz kechardi va umumiy samaradorlik pasayardi",
+    "U 2-mamlakatga yordam so'rardi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tashqi savdo hajmi va tashqi savdo balansi (saldosi) tushunchalari o'rtasidagi farqni to'g'ri ifodalovchi javobni tanlang.",
+   "variantlar": [
+    "Ikkalasi ham bir xil, faqat nomi boshqacha",
+    "Tashqi savdo hajmi — import va eksport yig'indisi, tashqi savdo balansi — ular orasidagi farq",
+    "Tashqi savdo hajmi — faqat eksport, balans — faqat import",
+    "Tashqi savdo hajmi — davlat byudjeti, balans — soliq miqdori"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rikardo nazariyasi va matndagi misolga asoslanib, xalqaro savdoning asosiy maqsadi va foydasi nimada deb xulosa qilish mumkin?",
+   "variantlar": [
+    "Faqat kuchli mamlakatlar savdodan foyda ko'radi",
+    "Har bir mamlakat barcha tovarlarni o'zida ishlab chiqarishga intilishi kerak",
+    "Savdo mamlakatlar o'rtasida faqat ziddiyat keltirib chiqaradi",
+    "Har bir mamlakat muqobil qiymati past bo'lgan tovarga ixtisoslashib, savdo orqali umumiy resurslardan samaraliroq foydalanish va ko'proq mahsulot iste'mol qilish imkoniga ega bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

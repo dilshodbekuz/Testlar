@@ -1,0 +1,187 @@
+32-dars. Nazorat ishi
+
+--- OSON ---
+
+1. Python dasturlash tilida qo'shish amali qanday belgi bilan ifodalanadi?
++A) +
+B) *
+C) /
+D) -
+
+2. Python dasturlash tilida ayirish amali qanday belgi bilan ifodalanadi?
+A) *
++B) -
+C) +
+D) /
+
+3. Python dasturlash tilida ko'paytirish amali qanday belgi bilan ifodalanadi?
+A) /
++B) *
+C) +
+D) -
+
+4. Python dasturlash tilida bo'lish amali qanday belgi bilan ifodalanadi?
+A) *
+B) +
++C) /
+D) -
+
+5. Bo'linmaning butun qiymatini hisoblash uchun qanday amaldan foydalaniladi?
+A) **
++B) //
+C) /
+D) %
+
+6. Bo'linmaning qoldig'ini hisoblash uchun qanday amaldan foydalaniladi?
+A) **
+B) /
+C) //
++D) %
+
+7. Sonni darajaga ko'tarish uchun Pythonda qanday amal ishlatiladi?
+A) //
++B) **
+C) %%
+D) ^
+
+8. O'zgaruvchini belgilangan miqdorga oshirish (increment) uchun qanday amal belgisidan foydalaniladi?
+A) *=
+B) /=
++C) +=
+D) -=
+
+9. Satr uzunligini aniqlash uchun qanday funksiyadan foydalaniladi?
+A) size()
+B) length()
+C) count()
++D) len()
+
+10. Pythonda satrdagi belgilarni raqamlash (indekslash) nechadan boshlanadi?
+A) 2
+B) -1
+C) 1
++D) 0
+
+--- O'RTACHA ---
+
+11. print(7/5) buyrug'ining natijasi nechaga teng?
+A) 1.2
++B) 1.4
+C) 2
+D) 1
+
+12. print(7//5) buyrug'ining natijasi nechaga teng?
+A) 2
+B) 0
+C) 1.4
++D) 1
+
+13. print(7%5) buyrug'ining natijasi nechaga teng?
+A) 5
+B) 0
++C) 2
+D) 1
+
+14. print(5**2) buyrug'ining natijasi nechaga teng?
++A) 25
+B) 7
+C) 10
+D) 52
+
+15. x=4 bo'lganda x+=1 amali bajarilgach, x ning yangi qiymati nechaga teng bo'ladi?
+A) 4
++B) 5
+C) 3
+D) 1
+
+16. x=8 bo'lganda x*=2 amali bajarilgach, x ning yangi qiymati nechaga teng bo'ladi?
+A) 8
+B) 10
++C) 16
+D) 4
+
+17. len('Bahor!') buyrug'ining natijasi nechaga teng?
+A) 7
++B) 6
+C) 4
+D) 5
+
+18. a="O'ZBEKISTON" satrida a[4] indeksidagi belgi qaysi?
++A) E
+B) B
+C) Z
+D) K
+
+19. a="O'ZBEKISTON" satrida a[3:6] amali natijasida qanday qism satr hosil bo'ladi?
++A) BEK
+B) ZBE
+C) EKI
+D) BEKI
+
+20. print('Hi'*3) buyrug'i bajarilganda 'Hi' so'zi ekranga necha marta chiqadi?
+A) 1
+B) 2
+C) 4
++D) 3
+
+--- QIYIN ---
+
+21. To'rt xonali son x=4568 berilgan. a=x//1000, b=x%10, c=a*b bo'lsa, c ning qiymati nechaga teng?
+A) 8
++B) 32
+C) 40
+D) 4
+
+22. Arqon uzunligi a=12325458 mm berilgan. Kilometrni topish uchun b=a//1000000 formulasi qo'llanilsa, b nechaga teng bo'ladi?
+A) 1232
++B) 12
+C) 325458
+D) 13
+
+23. 12325458 mm arqon uzunligidan km ayirilgach qolgan qism 325458 ga teng bo'ladi. Shu qismdan metrni topish uchun c=325458//1000 hisoblansa, c nechaga teng bo'ladi?
++A) 325
+B) 458
+C) 45
+D) 12
+
+24. 10288 sekundni soatga aylantirishda b=10288//3600 amali qo'llanilsa, natija nechaga teng bo'ladi?
+A) 51
++B) 2
+C) 28
+D) 3
+
+25. 10288 sekunddan 2 to'liq soat ayirilgach qolgan qism 3088 sekundga teng bo'ladi. Shu qismdan minutni topish uchun 3088//60 hisoblansa, natija nechaga teng bo'ladi?
+A) 3088
++B) 51
+C) 28
+D) 2
+
+26. a="O'ZBEKISTON" satrida a[3:10:3] amali bajarilsa, qanday qism satr hosil bo'ladi?
+A) ISTON
++B) BIO
+C) OZB
+D) BEK
+
+27. a=8, b=5, c=9 berilgan. a-=b; a*=c; a+=(b*c+b) amallari ketma-ket bajarilsa, a ning yakuniy qiymati nechaga teng bo'ladi?
+A) 72
+B) 50
++C) 77
+D) 27
+
+28. Hovuzning bo'yi 6 m, eni 4 m, chuqurligi 3 m. Hovuzni to'liq suvga to'ldirish uchun necha litr suv kerak bo'ladi (1 m3=1000 litr)?
+A) 720
++B) 72000
+C) 72
+D) 7200
+
+29. a=8, b=9 berilgan. Ularning yig'indisi d=17 va ko'paytmasi c=72 hisoblangan. Ushbu ikki natijaning oxirgi raqamlari ko'paytmasi (S) nechaga teng bo'ladi?
+A) 72
+B) 9
++C) 14
+D) 17
+
+30. a="O'ZBEKISTON" satrining uzunligi len(a)=11 ga teng. Shu ma'lumotga asoslanib, satrdagi oxirgi belgining indeksini aniqlang.
+A) 9
+B) 12
+C) 11
++D) 10

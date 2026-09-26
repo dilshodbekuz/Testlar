@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Iqtisodiy bilim asoslari",
+ "mavzu": "Taklif va taklif qonuni",
+ "savollar": [
+  {
+   "savol": "Taklif nima?",
+   "variantlar": [
+    "Xaridorlarning tovar sotib olishga bo'lgan xohish va imkoniyati",
+    "Davlatning bozordagi tovarlarni nazorat qilish tizimi",
+    "Sotuvchilarning muayyan vaqt davomida tovarni turli narxlarda qancha miqdorda sotish mumkinligi haqidagi xohish va imkoniyati",
+    "Tovarni ishlab chiqarish uchun sarflangan xarajatlar yig'indisi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Taklif miqdori nima?",
+   "variantlar": [
+    "Xaridorlarning sotib olishni xohlagan tovar miqdori",
+    "Ishlab chiqarish uchun zarur bo'lgan xomashyo miqdori",
+    "Bozordagi barcha tovarlarning umumiy soni",
+    "Sotuvchilarning muayyan vaqt davomida ma'lum narxda sotishlari mumkin bo'lgan tovar miqdori"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Taklif qonuni narx bilan taklif miqdori orasida qanday bog'liqlikni ko'rsatadi?",
+   "variantlar": [
+    "Doimiy bog'liqlik",
+    "Teskari bog'liqlik",
+    "Bog'liqlik yo'q",
+    "To'g'ri bog'liqlik"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Taklif chizig'i odatda qaysi harf bilan belgilanadi?",
+   "variantlar": [
+    "Q",
+    "D",
+    "S",
+    "P"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Supply\" so'zi ingliz tilidan tarjima qilinganda nimani anglatadi?",
+   "variantlar": [
+    "Narx",
+    "Talab",
+    "Bozor",
+    "Taklif"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Taklif chiziqli funksiya ko'rinishida qanday ifodalanadi?",
+   "variantlar": [
+    "p=aq+b (a≥0)",
+    "q=ap+b",
+    "p=a/q",
+    "q=a-bp"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Adam Smit talab va taklifni nima deb atagan?",
+   "variantlar": [
+    "Bozor muvozanati",
+    "Bozor mexanizmi",
+    "Ko'rinmas qo'l",
+    "Iqtisodiy erkinlik"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Iqtisodiyot fanida, asosan, qanday taklif o'rganiladi?",
+   "variantlar": [
+    "Faqat bitta sotuvchining shaxsiy taklifi",
+    "Faqat davlat tomonidan belgilangan taklif",
+    "Bozordagi barcha sotuvchilarning umumiy taklifi",
+    "Faqat xorijiy sotuvchilarning taklifi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Taklif qonuniga ko'ra, tovar narxi past bo'lganda taklif miqdori qanday bo'ladi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Nolga teng bo'ladi",
+    "Kam bo'ladi",
+    "Ko'p bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Taklif qonuniga ko'ra, tovar narxi yuqori bo'lganda taklif miqdori qanday bo'ladi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Nolga teng bo'ladi",
+    "Ko'p bo'ladi",
+    "Kam bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Andijon dehqon bozorida guruch narxi 8600 so'm, Farg'ona bozorida esa 7200 so'm bo'lsa, dehqonlar qaysi bozorga ko'proq guruch olib borishni xohlaydi?",
+   "variantlar": [
+    "Andijon bozoriga, chunki narx yuqori",
+    "Ikkala bozorga teng miqdorda",
+    "Hech qaysi bozorga olib bormaydi",
+    "Farg'ona bozoriga, chunki narx past"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jadvalda narx 8600 so'm bo'lganda taklif miqdori 7 tonna. Narx 8000 so'm bo'lganda taklif miqdori qancha bo'ladi (jadval: 8800-8, 8600-7, 8400-6, 8200-5, 8000-4, 7800-3 tonna)?",
+   "variantlar": [
+    "6 tonna",
+    "5 tonna",
+    "3 tonna",
+    "4 tonna"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Xuddi shu jadval bo'yicha, narx 7800 so'm bo'lganda taklif miqdori qancha?",
+   "variantlar": [
+    "3 tonna",
+    "4 tonna",
+    "8 tonna",
+    "5 tonna"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkinchi jadval bo'yicha (narx 800 so'm - 40 tonna, 1600 - 50, 2400 - 60, 3200 - 70), narx 2400 so'm bo'lganda taklif miqdori qancha?",
+   "variantlar": [
+    "70 tonna",
+    "50 tonna",
+    "40 tonna",
+    "60 tonna"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Uchinchi jadval bo'yicha (narx 1000 - 100, 2000 - 150, 3000 - 200, 4000 - 250), narx 3000 so'm bo'lganda taklif miqdori qancha?",
+   "variantlar": [
+    "250",
+    "100",
+    "200",
+    "150"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar tovar narxi oshsa, taklif qonuniga ko'ra sotuvchi qanday harakat qiladi?",
+   "variantlar": [
+    "Narxni yana pasaytiradi",
+    "Ko'proq tovar taklif qiladi",
+    "Kamroq tovar taklif qiladi",
+    "Tovarni sotishni to'xtatadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2016- yili O'zbekistonda kartoshka ko'p yetishtirilib, bozorlarda narxi ancha arzon bo'lgan. Bu holat taklif nazariyasiga ko'ra nimani anglatadi?",
+   "variantlar": [
+    "Talab kamaygan",
+    "Taklif miqdori ko'p bo'lgani sababli narx pasaygan",
+    "Davlat narxni sun'iy pasaytirgan",
+    "Bozorda raqobat yo'qolgan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar makkajo'xori narxi yaqin kelajakda ortishi kutilsa, hozirgi vaqtda uning bozordagi taklif miqdori qanday o'zgaradi?",
+   "variantlar": [
+    "Sotuvchilar hozir kamroq taklif qiladi, keyinroq yuqori narxda sotishni afzal ko'radi",
+    "Sotuvchilar hozir barcha mahsulotni sotib yuboradi",
+    "Taklif darhol nolga tushadi",
+    "Taklif miqdoriga narx kutilmasi ta'sir qilmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Guruch jadvalida narx 8400 so'mdan 8800 so'mgacha oshganda (8400 - 6 tonna, 8800 - 8 tonna), taklif miqdori necha tonnaga ortadi?",
+   "variantlar": [
+    "3 tonna",
+    "4 tonna",
+    "2 tonna",
+    "1 tonna"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Taklif chizig'ini chizish uchun qanday ma'lumotlar zarur bo'ladi?",
+   "variantlar": [
+    "Faqat sotuvchining ismi",
+    "Faqat tovar nomi",
+    "Tovar narxi va unga mos taklif miqdori jadvali",
+    "Faqat xaridorlar soni"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkinchi jadvaldagi tendentsiyaga ko'ra (800-40, 1600-50, 2400-60, 3200-70 tonna), narx 4000 so'mga yetganda taklif miqdori qancha bo'lishi kutiladi?",
+   "variantlar": [
+    "80",
+    "70",
+    "90",
+    "75"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uchinchi jadvaldagi tendentsiyaga ko'ra (1000-100, 2000-150, 3000-200, 4000-250), narx 5000 so'm bo'lganda kutilayotgan taklif miqdori qancha?",
+   "variantlar": [
+    "280",
+    "320",
+    "260",
+    "300"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkinchi jadval ma'lumotlaridan foydalanib (q=40 da p=800, q=50 da p=1600), p=aq+b funksiyasidagi \"a\" koeffitsientini toping.",
+   "variantlar": [
+    "60",
+    "100",
+    "40",
+    "80"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uchinchi jadval ma'lumotlaridan foydalanib (q=100 da p=1000, q=150 da p=2000), p=aq+b funksiyasidagi \"a\" koeffitsientini toping.",
+   "variantlar": [
+    "20",
+    "10",
+    "30",
+    "40"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkinchi jadval asosida topilgan a=80 qiymatidan foydalanib, p=aq+b funksiyasidagi \"b\" koeffitsientini toping (q=40 da p=800).",
+   "variantlar": [
+    "800",
+    "-2400",
+    "2400",
+    "-1600"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga ko'ra, agar bitta ishlab chiqaruvchi o'ta ko'p daromad qila boshlasa, bozorda keyin qanday jarayon yuz beradi?",
+   "variantlar": [
+    "Narxlar o'zgarishsiz qoladi",
+    "Boshqa ishlab chiqaruvchilar raqobatga kirishib, narxni pasaytiradi va birinchisining mahsuloti sotilmay qoladi",
+    "Davlat uning faoliyatini taqiqlaydi",
+    "Boshqa ishlab chiqaruvchilar bozordan chiqib ketadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga ko'ra, agar bir ishlab chiqaruvchi xodimlariga juda kam ish haqi to'lay boshlasa, natijada nima yuz beradi?",
+   "variantlar": [
+    "Davlat ish haqini ko'tarishga majburlaydi",
+    "Boshqa ishlab chiqaruvchi uning xodimlarini o'ziga o'tkazib oladi va birinchi firma inqirozga uchraydi",
+    "Xodimlar ish tashlaydi va firma yopiladi",
+    "Hech narsa o'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Talab qonuni va taklif qonunini solishtirganda, ular narx bilan miqdor orasidagi bog'liqlik yo'nalishi jihatidan qanday farqlanadi?",
+   "variantlar": [
+    "Talab qonuni to'g'ri, taklif qonuni teskari bog'liqlikni ko'rsatadi",
+    "Talab qonuni teskari, taklif qonuni to'g'ri bog'liqlikni ko'rsatadi",
+    "Ikkalasi ham to'g'ri bog'liqlikni ko'rsatadi",
+    "Ikkalasi ham teskari bog'liqlikni ko'rsatadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Adam Smitning fikricha, har bir bozor ishtirokchisi shaxsiy manfaatini ko'zlab faoliyat yuritishi oxir-oqibat jamiyatga qanday ta'sir qiladi?",
+   "variantlar": [
+    "Davlat aralashuvi zarur bo'lib qoladi",
+    "Sifatli va arzon tovarlar ishlab chiqarilib, bu xaridorlar va jamiyatga naf keltiradi",
+    "Jamiyatga zarar yetkazadi, chunki faqat o'ziga foyda o'ylaydi",
+    "Bozorda tartibsizlik doimiy saqlanib qoladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p=aq+b funksiyasida nima uchun \"a\" koeffitsienti manfiy bo'lmasligi (a≥0) shart qilib qo'yilgan?",
+   "variantlar": [
+    "Chunki barcha iqtisodiy funksiyalarda koeffitsientlar musbat bo'lishi kerak",
+    "Chunki taklif miqdori doimo o'zgarmas bo'ladi",
+    "Chunki taklif qonuniga ko'ra narx oshganda taklif miqdori ham oshadi, ya'ni ular orasida to'g'ri bog'liqlik bor",
+    "Chunki narx hech qachon manfiy bo'lmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Iqtisodiy bilim asoslari",
+ "mavzu": "Davlat budjeti",
+ "savollar": [
+  {
+   "savol": "Davlat budjeti nima?",
+   "variantlar": [
+    "Bank tomonidan beriladigan kredit hujjati",
+    "Davlatning tashqi savdo hisobi",
+    "Davlatning bir yillik daromadlari va xarajatlari rejalashtirilgan asosiy moliyaviy hujjati",
+    "Fuqarolarning shaxsiy moliyaviy hisoboti"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Davlat budjeti qanday qismlardan tashkil topadi?",
+   "variantlar": [
+    "Ichki va tashqi qarzdan",
+    "Daromad va xarajat",
+    "Faqat xarajat qismidan",
+    "Kirim va chiqim faqat soliqlardan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Boj nima?",
+   "variantlar": [
+    "Davlat qarzi turi",
+    "Davlat muassasalari xizmatlari yoki tovarlarni olib kirish uchun to'lanadigan haq",
+    "Fuqarolar maoshidan ushlab qolinadigan foiz",
+    "Bank foizi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Davlat budjeti daromad qismining asosiy manbasi nima hisoblanadi?",
+   "variantlar": [
+    "Xorijiy investitsiyalar",
+    "Transfert to'lovlari",
+    "Soliqlar",
+    "Davlat qarzi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Transfert to'lovlari nima?",
+   "variantlar": [
+    "Korxonalar o'rtasidagi pul o'tkazmalari",
+    "Chet elga yuboriladigan valyuta",
+    "Davlat budjetidan kam ta'minlangan qatlamlarni qo'llab-quvvatlash uchun sarflanadigan mablag'lar",
+    "Bank kreditlari"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Budjet kamomadi deganda nima tushuniladi?",
+   "variantlar": [
+    "Xarajatlarning daromaddan ko'p bo'lgan holidagi farq",
+    "Soliqlarning kamayishi",
+    "Daromadning xarajatdan ko'p bo'lgan holidagi farq",
+    "Davlat qarzining umumiy miqdori"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Budjet profitsiti deganda nima tushuniladi?",
+   "variantlar": [
+    "Daromadlarning xarajatlardan ko'p bo'lgan holidagi farq",
+    "Xarajatlarning daromaddan ko'p bo'lgan holidagi farq",
+    "Ichki qarzning kamayishi",
+    "Soliq stavkasining oshishi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Davlat qarzi nima?",
+   "variantlar": [
+    "Bir yillik budjet kamomadi",
+    "Davlat budjeti profitsiti",
+    "Yillar davomida yig'ilib qolgan budjet kamomadining jami miqdori",
+    "Fuqarolarning bank qarzlari"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'zbekiston Respublikasining davlat budjeti qayerda muhokama qilinadi va tasdiqlanadi?",
+   "variantlar": [
+    "Moliya vazirligida",
+    "Markaziy bankda",
+    "Vazirlar Mahkamasida",
+    "Oliy Majlisda"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ichki qarz - bu davlatning kimlar oldidagi majburiyati?",
+   "variantlar": [
+    "Xalqaro moliyaviy muassasalar",
+    "O'z fuqarolari, firma va tashkilotlari",
+    "Xalqaro banklar",
+    "Chet el davlatlari"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri davlat budjeti daromad manbai emas?",
+   "variantlar": [
+    "Fuqarolar daromadidan olinadigan soliqlar",
+    "Davlat boji",
+    "Davlat mulkini sotishdan tushgan mablag'lar",
+    "Ishsizlik nafaqalari"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi sohalardan qaysi biri davlat budjeti xarajatlariga kirmaydi?",
+   "variantlar": [
+    "Milliy xavfsizlik",
+    "Ta'lim va fan",
+    "Sport va sog'liqni saqlash",
+    "Fuqarolar daromadidan soliq undirish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Davlat qimmatli qog'ozlarini sotishdan tushgan pul davlat budjetining qaysi qismiga kiradi?",
+   "variantlar": [
+    "Daromad qismiga",
+    "Davlat qarziga",
+    "Xarajat qismiga",
+    "Transfert to'lovlariga"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yil yakunlangandan so'ng hukumat budjet ijrosi yuzasidan kimga hisobot beradi?",
+   "variantlar": [
+    "Xalqaro banklarga",
+    "Fuqarolarga",
+    "Oliy Majlisga",
+    "Prezidentga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tashqi qarz - bu davlatning kimlar oldidagi qarzi?",
+   "variantlar": [
+    "Chet el davlatlari, xalqaro banklar va moliyaviy muassasalar",
+    "Mahalliy firmalar",
+    "Davlat korxonalari",
+    "O'z fuqarolari"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2019- yilda O'zbekiston Respublikasi davlat budjetining jami daromadlari qancha bo'lgan?",
+   "variantlar": [
+    "47029,8 mlrd so'm",
+    "107118,4 mlrd so'm",
+    "29125,5 mlrd so'm",
+    "102627,6 mlrd so'm"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2019- yilda O'zbekiston Respublikasi davlat budjetining jami xarajatlari qancha bo'lgan?",
+   "variantlar": [
+    "102627,6 mlrd so'm",
+    "107118,4 mlrd so'm",
+    "58012,1 mlrd so'm",
+    "14099,8 mlrd so'm"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2019- yilgi jadvalga ko'ra, davlat budjeti daromadining qaysi bandi eng katta ulushni tashkil etgan?",
+   "variantlar": [
+    "Bilvosita soliqlar",
+    "Boshqa daromadlar",
+    "Mulk solig'i va resurs to'lovlari",
+    "Bevosita soliqlar"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2019- yilgi jadvalga ko'ra, davlat budjeti xarajatining qaysi bandiga eng ko'p mablag' sarflangan?",
+   "variantlar": [
+    "Markazlashtirilgan investitsiyalar",
+    "Ijtimoiy soha va aholini himoya qilish",
+    "Iqtisodiyot",
+    "Davlat boshqaruvi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Davlat mulkini sotishdan tushgan mablag' davlat budjetining qaysi qismiga tegishli?",
+   "variantlar": [
+    "Daromad qismiga",
+    "Davlat qarziga",
+    "Xarajat qismiga",
+    "Budjet kamomadiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2019- yil jadvaliga asosan, davlat budjetining kamomadi (xarajat va daromad farqi) necha mlrd so'mni tashkil etadi? (107118,4 – 102627,6)",
+   "variantlar": [
+    "5490,8 mlrd so'm",
+    "4990,8 mlrd so'm",
+    "4490,8 mlrd so'm",
+    "3490,8 mlrd so'm"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2019- yilda O'zbekiston davlat budjetida daromad va xarajat qismlarini solishtirganda, qanday holat kuzatiladi?",
+   "variantlar": [
+    "Daromad xarajatdan ko'p bo'lgani uchun budjet profitsiti yuzaga kelgan",
+    "Davlat qarzi butunlay yo'q bo'lgan",
+    "Daromad va xarajat teng bo'lgan",
+    "Xarajat daromaddan ko'p bo'lgani uchun budjet kamomadi yuzaga kelgan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2019- yilgi jadvalga ko'ra, bevosita soliqlar jami daromadning taxminan necha foizini tashkil etadi? (29125,5 / 102627,6)",
+   "variantlar": [
+    "9%",
+    "28%",
+    "16%",
+    "46%"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2019- yilgi jadvalga ko'ra, bilvosita soliqlar jami daromadning taxminan necha foizini tashkil etadi? (47029,8 / 102627,6)",
+   "variantlar": [
+    "46%",
+    "54%",
+    "28%",
+    "16%"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2019- yilgi jadvalga ko'ra, ijtimoiy soha va aholini himoya qilish xarajati jami xarajatning taxminan necha foizini tashkil etadi? (58012,1 / 107118,4)",
+   "variantlar": [
+    "28%",
+    "46%",
+    "13%",
+    "54%"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2019- yilgi jadvalga ko'ra, xarajat qismida eng kam mablag' qaysi bandga ajratilgan?",
+   "variantlar": [
+    "Iqtisodiyot",
+    "Markazlashtirilgan investitsiyalar",
+    "Fuqarolik jamiyatini rivojlantirish uchun mablag'lar va grantlar",
+    "Davlat boshqaruvi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2019- yilda bevosita va bilvosita soliqlarning yig'indisi necha mlrd so'mni tashkil etgan? (29125,5 + 47029,8)",
+   "variantlar": [
+    "76155,3 mlrd so'm",
+    "66155,3 mlrd so'm",
+    "78155,3 mlrd so'm",
+    "74155,3 mlrd so'm"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar 2019- yilda davlat xarajatlarini daromad miqdoriga tenglashtirmoqchi bo'lsa, xarajatlarni necha mlrd so'mga qisqartirish kerak edi?",
+   "variantlar": [
+    "4090,8 mlrd so'm",
+    "4490,8 mlrd so'm",
+    "5490,8 mlrd so'm",
+    "3490,8 mlrd so'm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2019- yilgi jadvalga ko'ra, mulk solig'i va resurs to'lovlari jami daromadning taxminan necha foizini tashkil etadi? (16906,0 / 102627,6)",
+   "variantlar": [
+    "28%",
+    "46%",
+    "16%",
+    "9%"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2019- yilda 'boshqa daromadlar' bandi bilan 'fuqarolik jamiyatini rivojlantirish uchun mablag'lar va grantlar' bandi orasidagi farq necha mlrd so'mni tashkil etadi? (9566,3 – 28,6)",
+   "variantlar": [
+    "9437,7 mlrd so'm",
+    "9637,7 mlrd so'm",
+    "9537,7 mlrd so'm",
+    "9500,7 mlrd so'm"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

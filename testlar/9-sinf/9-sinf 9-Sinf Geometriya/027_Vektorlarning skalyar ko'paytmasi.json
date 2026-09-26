@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Geometriya",
+ "mavzu": "Vektorlarning skalyar ko'paytmasi",
+ "savollar": [
+  {
+   "savol": "Ikki vektorning skalyar ko'paytmasi deb nimaga aytiladi?",
+   "variantlar": [
+    "vektorlar uzunliklari yig'indisiga",
+    "vektorlar koordinatalari yig'indisiga",
+    "vektorlar uzunliklarining ular orasidagi burchak kosinusiga ko'paytmasiga",
+    "vektorlar orasidagi burchakka"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Skalyar ko'paytmaning ta'rifga ko'ra formulasi qanday yoziladi?",
+   "variantlar": [
+    "(a,b)=|a|·|b|",
+    "(a,b)=|a|+|b|·cosφ",
+    "(a,b)=|a|·|b|·cosφ",
+    "(a,b)=|a|·|b|·sinφ"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikki vektor perpendikular bo'lishi uchun ularning skalyar ko'paytmasi nechaga teng bo'lishi kerak?",
+   "variantlar": [
+    "vektor uzunligiga teng",
+    "1",
+    "-1",
+    "0"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir xil yo'nalgan vektorlar orasidagi burchak necha darajaga teng deb hisoblanadi?",
+   "variantlar": [
+    "90°",
+    "45°",
+    "180°",
+    "0°"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar vektorlarning biri nol vektor bo'lsa, ularning skalyar ko'paytmasi nechaga teng bo'ladi?",
+   "variantlar": [
+    "0",
+    "1",
+    "aniqlanmagan",
+    "vektor uzunligiga teng"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a(a1;a2) va b(b1;b2) vektorlar uchun (a,b) skalyar ko'paytma koordinatalar orqali qanday ifodalanadi?",
+   "variantlar": [
+    "a1b2+a2b1",
+    "a1b1-a2b2",
+    "a1+b1+a2+b2",
+    "a1b1+a2b2"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Skalyar ko'paytmaning o'rin almashtirish xossasi qaysi tenglik bilan ifodalanadi?",
+   "variantlar": [
+    "a·b = -b·a",
+    "a·b = a+b",
+    "a·b = b·a",
+    "a·b = |a|+|b|"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a·a ifodasi nimaga teng?",
+   "variantlar": [
+    "2|a|",
+    "|a|",
+    "0",
+    "|a|²"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Fizikada F kuch ta'sirida s masofaga siljitishda bajarilgan A ish qaysi formula bilan topiladi?",
+   "variantlar": [
+    "A = |F|·|s|·sinφ",
+    "A = |F|+|s|",
+    "A = (F,s) = |F|·|s|·cosφ",
+    "A = |F|/|s|"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar a va b vektorlar qarama-qarshi yo'nalgan bo'lsa, ularning skalyar ko'paytmasi qanday ifodalanadi?",
+   "variantlar": [
+    "|a|·|b|",
+    "0",
+    "|a|+|b|",
+    "-|a|·|b|"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "|a|=4, |b|=5, ular orasidagi burchak α=30° bo'lsa, a·b ni toping.",
+   "variantlar": [
+    "10",
+    "20",
+    "10√3",
+    "9√3"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "|a|=8, |b|=7, ular orasidagi burchak α=45° bo'lsa, a·b ni toping.",
+   "variantlar": [
+    "15√2",
+    "28√2",
+    "28",
+    "56"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a(2;3) va b(1;-1) vektorlarning skalyar ko'paytmasini toping.",
+   "variantlar": [
+    "1",
+    "-5",
+    "-1",
+    "5"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a(3;4) vektorning uzunligini toping.",
+   "variantlar": [
+    "7",
+    "5",
+    "25",
+    "√7"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a(2;-2) va b(3;3) vektorlarning skalyar ko'paytmasini toping.",
+   "variantlar": [
+    "12",
+    "6",
+    "0",
+    "-6"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a(5;0) va b(0;5) vektorlar orasidagi burchakni toping.",
+   "variantlar": [
+    "45°",
+    "0°",
+    "180°",
+    "90°"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a(1;2) va b(2;4) vektorlar bir xil yo'nalgan kollinear vektorlar. Ularning skalyar ko'paytmasini toping.",
+   "variantlar": [
+    "0",
+    "20",
+    "10",
+    "5"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "F(3;4) kuch bilan s(1;0) siljish natijasida bajarilgan ishni toping.",
+   "variantlar": [
+    "5",
+    "3",
+    "4",
+    "7"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a(4;0) va b(0;-3) vektorlarning skalyar ko'paytmasi nolga teng. Bu vektorlar orasidagi burchak necha daraja?",
+   "variantlar": [
+    "90°",
+    "45°",
+    "180°",
+    "0°"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a(6;8) vektorning uzunligini toping.",
+   "variantlar": [
+    "7",
+    "10",
+    "14",
+    "100"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a(4;5) va b(x;6) vektorlar o'zaro perpendikular bo'lishi uchun x ning qiymatini toping.",
+   "variantlar": [
+    "-6",
+    "-7.5",
+    "7.5",
+    "6"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a(x;1) va b(3;2) vektorlar o'zaro perpendikular bo'lishi uchun x ning qiymatini toping.",
+   "variantlar": [
+    "-2/3",
+    "2/3",
+    "-3/2",
+    "3/2"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a(0;-3) va b(5;x) vektorlar o'zaro perpendikular bo'lishi uchun x ning qiymatini toping.",
+   "variantlar": [
+    "3",
+    "5",
+    "-5",
+    "0"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a(3;3), b(2;-2), c(-1;-4) va d(-4;1) vektorlar berilgan. Qaysi juftliklar o'zaro perpendikular?",
+   "variantlar": [
+    "Hech qanday juftlik perpendikular emas",
+    "a va d, b va c",
+    "a va c, b va d",
+    "a va b, c va d"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "ABCD romb, diagonallari O nuqtada kesishadi, BD=AB=4 sm. AB va AD vektorlar orasidagi skalyar ko'paytmani toping.",
+   "variantlar": [
+    "0",
+    "4",
+    "8",
+    "16"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi romb uchun (BD=AB=4 sm) AB va AC vektorlar orasidagi skalyar ko'paytmani toping.",
+   "variantlar": [
+    "12",
+    "16",
+    "8",
+    "24"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi romb uchun (BD=AB=4 sm) AD va DC vektorlar orasidagi skalyar ko'paytmani toping.",
+   "variantlar": [
+    "8",
+    "-8",
+    "16",
+    "0"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi romb uchun (BD=AB=4 sm) OC va OD vektorlar orasidagi skalyar ko'paytmani toping.",
+   "variantlar": [
+    "-8",
+    "4",
+    "8",
+    "0"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "F(-3;4) kuch ta'siri ostida A(5;-1) nuqtadan B(2;1) nuqtaga o'tildi. Bu jarayonda bajarilgan ishni toping.",
+   "variantlar": [
+    "-17",
+    "1",
+    "17",
+    "-1"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "|a|=3, |b|=5 va a·b=-7.5 bo'lsa, a va b vektorlar orasidagi burchakni toping.",
+   "variantlar": [
+    "30°",
+    "150°",
+    "60°",
+    "120°"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

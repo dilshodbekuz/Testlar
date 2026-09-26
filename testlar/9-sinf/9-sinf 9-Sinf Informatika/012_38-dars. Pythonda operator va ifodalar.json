@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Informatika",
+ "mavzu": "38-dars. Pythonda operator va ifodalar",
+ "savollar": [
+  {
+   "savol": "input() operatori qanday vazifa bajaradi?",
+   "variantlar": [
+    "Ma'lumotlarni dasturga kiritish",
+    "Ma'lumotlarni ajratish",
+    "Ma'lumotlarni faylga yozish",
+    "Ma'lumotlarni ekranga chiqarish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "print() operatori qanday vazifa bajaradi?",
+   "variantlar": [
+    "Ma'lumotlarni ajratish",
+    "Ma'lumotlarni dasturga kiritish",
+    "Ma'lumotlarni butun songa aylantirish",
+    "Ma'lumotlarni ekranga chiqarish yoki faylga yozish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "split() usuli qanday vazifa bajaradi?",
+   "variantlar": [
+    "Sonlarni qo'shadi",
+    "Satrni ajratuvchi belgi yordamida qismlarga ajratadi",
+    "O'zgaruvchi turini aniqlaydi",
+    "Ekranga ma'lumot chiqaradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Odatda split() usulida ajratuvchi belgi vazifasini nima bajaradi?",
+   "variantlar": [
+    "Nuqta",
+    "Vergul",
+    "Tire",
+    "Probel"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "print() operatorining sep argumenti nima uchun ishlatiladi?",
+   "variantlar": [
+    "Natijaviy satr qanday belgi bilan tugashini belgilash uchun",
+    "Natijani faylga yozish uchun",
+    "Ma'lumotni kiritish uchun",
+    "Natija ma'lumotlarini ajratish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "print() operatorining end argumenti nima uchun ishlatiladi?",
+   "variantlar": [
+    "Ma'lumotlarni kiritish uchun",
+    "Natijaviy satr qanday belgi bilan tugashini belgilaydi",
+    "Satrni qismlarga ajratish uchun",
+    "Natija ma'lumotlarini ajratish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar split() usulida probeldan boshqa belgi ishlatilsa, bu belgi qayerda ko'rsatiladi?",
+   "variantlar": [
+    "input() dan tashqarida",
+    "O'zgaruvchi nomida",
+    "print() qavslari ichida",
+    "split() qavslari ichida"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sep va end nima hisoblanadi?",
+   "variantlar": [
+    "Mustaqil operatorlar",
+    "input() operatorining metodlari",
+    "print() funksiyasining argumentlari",
+    "split() ning parametrlari"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda ko'rsatilgan ma'lumotlarni ajratishning ikkita usuli qaysilar?",
+   "variantlar": [
+    "Defis va yangi satr (\\n) belgisi",
+    "Probel va vergul",
+    "Nuqta va vergul",
+    "Qavs va tire"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "split(sep) sintaksisida \"sep\" nimani bildiradi?",
+   "variantlar": [
+    "Funksiya nomi",
+    "Natija turi",
+    "O'zgaruvchi nomi",
+    "Qiymatlarni ajratuvchi belgi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a='Yulduz', b='14', c='years old' berilgan. print(a,b,c, sep='+') buyrug'ining natijasi qanday bo'ladi?",
+   "variantlar": [
+    "Yulduz-14-years old",
+    "Yulduz 14 years old",
+    "Yulduz\\n14\\nyears old",
+    "Yulduz+14+years old"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Xuddi shu o'zgaruvchilar uchun print(a,b,c, sep='\\n') buyrug'ining natijasi qanday bo'ladi?",
+   "variantlar": [
+    "Har bir qiymat alohida qatorda chiqadi",
+    "Yulduz+14+years old",
+    "YulduzYulduz14years old",
+    "Yulduz 14 years old bir qatorda"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Foydalanuvchi \"book pen pencil notebook\" deb kiritganda, a=input().split() buyrug'i natijasida a o'zgaruvchisi qanday qiymatga ega bo'ladi?",
+   "variantlar": [
+    "['book', 'pen', 'pencil', 'notebook']",
+    "'book pen pencil notebook'",
+    "book, pen, pencil, notebook",
+    "('book','pen','pencil','notebook')"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Foydalanuvchi \"5;8;7;1;2\" deb kiritganda, a=input().split(';') buyrug'i natijasida a nechta elementga ega bo'ladi?",
+   "variantlar": [
+    "2",
+    "5",
+    "4",
+    "3"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a='Yulduz', b='14', c='years old' bo'lganda print(a,b,c, sep='-', end='.') buyrug'ining natijasi qanday bo'ladi?",
+   "variantlar": [
+    "Yulduz-14-years old.",
+    "Yulduz-14-years old",
+    "Yulduz.14.years old",
+    "Yulduz-14-years old\\n"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a=input().split('+') buyrug'idan so'ng a[0] elementining turi qanday bo'ladi?",
+   "variantlar": [
+    "Butun son (int)",
+    "Satr (str)",
+    "Ro'yxat (list)",
+    "Haqiqiy son (float)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a1 = int(a[0]) qatori nima uchun ishlatiladi?",
+   "variantlar": [
+    "Ekranga chiqarish uchun",
+    "Ikki qiymatni qo'shish uchun",
+    "Satr ko'rinishidagi qiymatni butun songa aylantirish uchun",
+    "Satrni bo'laklarga ajratish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "n = 8795 bo'lganda, d1 = n % 10 ifodasining qiymati nechaga teng?",
+   "variantlar": [
+    "7",
+    "5",
+    "9",
+    "8"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "n = 8795 bo'lganda, d4 = n // 1000 ifodasining qiymati nechaga teng?",
+   "variantlar": [
+    "7",
+    "8",
+    "5",
+    "9"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "n = 8795 bo'lganda, d3 = n % 1000 // 100 ifodasining qiymati nechaga teng?",
+   "variantlar": [
+    "9",
+    "8",
+    "7",
+    "5"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "n = 8795 son berilgan. Uning xonalari yig'indisini d1+d2+d3+d4 formulasi orqali hisoblang.",
+   "variantlar": [
+    "28",
+    "30",
+    "27",
+    "29"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Foydalanuvchi \"478+874\" deb kiritdi. a=input().split('+'), a1=int(a[0]), a2=int(a[1]), b=a1+a2, print(b, end=';') dasturi qanday natija chiqaradi?",
+   "variantlar": [
+    "1352.",
+    "1352;",
+    "1352",
+    "478+874"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Foydalanuvchi \"56;78\" deb kiritdi. a=input().split(';'), b=int(a[0])+int(a[1]) hisoblansa, b ning qiymati nechaga teng bo'ladi?",
+   "variantlar": [
+    "5678",
+    "124",
+    "144",
+    "134"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a='Salom', b='2024' bo'lsa, print(a,b,sep='*') buyrug'ining natijasi qanday bo'ladi?",
+   "variantlar": [
+    "Salom*2024",
+    "Salom2024",
+    "Salom-2024",
+    "Salom 2024"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Foydalanuvchi \"12+8\" deb kiritdi. a=input().split('+') so'ngra ikkinchi elementni int() ga o'tkazilsa, natijada qanday va qay turdagi qiymat hosil bo'ladi?",
+   "variantlar": [
+    "12 butun son sifatida",
+    "'12+8' butun satr sifatida",
+    "'8' satr sifatida",
+    "8 butun son sifatida"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "n = 1234 son berilgan. d1=n%10, d2=n%100//10, d3=n%1000//100, d4=n//1000 formulalari orqali xonalar yig'indisini hisoblang.",
+   "variantlar": [
+    "11",
+    "10",
+    "9",
+    "8"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "print() funksiyasida end argumenti alohida ko'rsatilmasa, standart holatda natijaviy satr qaysi belgi bilan tugaydi?",
+   "variantlar": [
+    "Vergul bilan",
+    "Yangi qator (\\n) belgisi bilan",
+    "Nuqta bilan",
+    "Probel bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "input().split() da ajratuvchi belgi ko'rsatilmagan bo'lsa, qanday belgi standart ajratuvchi hisoblanadi?",
+   "variantlar": [
+    "Nuqta-vergul",
+    "Vergul",
+    "Probel",
+    "Tire"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "n = 5432 son berilgan. d3 = n % 1000 // 100 ifodasining qiymatini toping.",
+   "variantlar": [
+    "3",
+    "2",
+    "5",
+    "4"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Foydalanuvchi \"5746+4186\" deb kiritdi. a=input().split('+'), a1=int(a[0]), a2=int(a[1]), b=a1+a2 bo'lsa, b ning qiymati nechaga teng?",
+   "variantlar": [
+    "9922",
+    "9932",
+    "9822",
+    "9832"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

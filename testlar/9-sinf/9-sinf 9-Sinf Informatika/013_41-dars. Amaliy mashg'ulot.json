@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Informatika",
+ "mavzu": "41-dars. Amaliy mashg'ulot",
+ "savollar": [
+  {
+   "savol": "Masalada tomoni a ga teng kvadrat ichiga nechta aylana chizilgan?",
+   "variantlar": [
+    "Bitta",
+    "Uchta",
+    "Ikkita",
+    "To'rtta"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Masalada kichik aylananing radiusi qaysi harf bilan belgilangan?",
+   "variantlar": [
+    "a",
+    "s",
+    "PI",
+    "r"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Masalada kvadratning tomoni qaysi harf bilan belgilangan?",
+   "variantlar": [
+    "s",
+    "a",
+    "r",
+    "n"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Blok-sxemada dastur ishlashining boshlanishi qaysi blok orqali ko'rsatiladi?",
+   "variantlar": [
+    "Bajarish bloki",
+    "Algoritmning boshlanishi bloki",
+    "Kiritish bloki",
+    "Chiqarish bloki"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kiritish blokida qanday amal bajariladi?",
+   "variantlar": [
+    "Dasturni yakunlash",
+    "Formulalarni hisoblash",
+    "Natijani ekranga chiqarish",
+    "Qiymatlarni foydalanuvchidan kiritib olish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a va r qiymatlarini kiritish uchun dastur kodida qaysi funksiyalar birgalikda ishlatilgan?",
+   "variantlar": [
+    "float()",
+    "print()",
+    "int(input())",
+    "range()"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hisoblangan s natijasi qaysi buyruq yordamida ekranga chiqariladi?",
+   "variantlar": [
+    "return s",
+    "print(s)",
+    "input(s)",
+    "int(s)"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bajarish blokida nechta o'zgaruvchi (formula) hisoblab chiqiladi?",
+   "variantlar": [
+    "Uchta",
+    "To'rtta",
+    "Ikkita",
+    "Beshta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "7-amaliy topshiriqda qaysi jismning hajmini topish so'ralgan?",
+   "variantlar": [
+    "Silindr",
+    "Piramida",
+    "Kub",
+    "Shar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "8-amaliy topshiriqda nechta sonning o'rta arifmetigini topish talab qilingan?",
+   "variantlar": [
+    "Ikkita",
+    "Uchta",
+    "To'rtta",
+    "Beshta"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"r1=a/2\" formulasi bajarish blokida nimani hisoblash uchun ishlatiladi?",
+   "variantlar": [
+    "Katta (kvadratga ichki chizilgan) aylananing radiusini",
+    "Bo'yalgan yuzani",
+    "Kvadrat yuzini",
+    "Kichik aylana radiusini"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"s1=PI*r1**2\" formulasi natijasida qanday qiymat hisoblanadi?",
+   "variantlar": [
+    "Katta aylana yuzi",
+    "Kichik aylana yuzi",
+    "Bo'yalgan qism yuzi",
+    "Kvadrat yuzi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"s2=PI*r**2\" formulasi natijasida qanday qiymat hisoblanadi?",
+   "variantlar": [
+    "Bo'yalgan qism yuzi",
+    "Kvadrat yuzi",
+    "Katta aylana yuzi",
+    "Kichik aylana yuzi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"s=s1-s2\" formulasi masaladagi qaysi kattalikni ifodalaydi?",
+   "variantlar": [
+    "Kvadrat yuzini",
+    "Kichik aylana yuzini",
+    "Ikki aylana orasidagi bo'yalgan yuzani",
+    "Katta aylana radiusini"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3-amaliy topshiriqda savatchaga solingan qoldiq olmalar sonini topish uchun qaysi amaldan foydalaniladi?",
+   "variantlar": [
+    "Bo'lish (/)",
+    "Qoldiqli bo'lish (%)",
+    "Ayirish (-)",
+    "Ko'paytirish (*)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "5-amaliy topshiriqda avtobus necha kun yurishini aniqlashda asosan qaysi amal bajariladi?",
+   "variantlar": [
+    "m va n ni ko'paytirish",
+    "m ni n ga bo'lish",
+    "m dan n ni ayirish",
+    "n ni m ga qo'shish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "9-amaliy topshiriqda bitta partaga ikkitadan ortiq o'quvchi o'tira olmasligini hisobga olib, o'quvchilar soni toq bo'lsa, parta sonini topishda natija qanday yaxlitlanadi?",
+   "variantlar": [
+    "Har doim 0 ga teng bo'ladi",
+    "Yaxlitlash shart emas",
+    "Yuqoriga yaxlitlanadi",
+    "Pastga yaxlitlanadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "4-amaliy topshiriqda sonning oxirgi ikki raqamini topish uchun qanday amal ishlatiladi (a - berilgan son)?",
+   "variantlar": [
+    "a%100",
+    "a/100",
+    "a*100",
+    "a//100"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "6-amaliy topshiriqda chumoli yo'lini metr, santimetr va millimetrga ajratishda asosan qaysi amallardan foydalaniladi?",
+   "variantlar": [
+    "Faqat ko'paytirish (*)",
+    "Butun bo'lish (//) va qoldiqli bo'lish (%)",
+    "Faqat ayirish (-)",
+    "Faqat qo'shish (+)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2-amaliy topshiriqda kiritilgan sondan oldin va keyin keluvchi sonlarni topish uchun unga qanday amallar qo'llaniladi?",
+   "variantlar": [
+    "0 ga teng qilish",
+    "10 ga ko'paytirish",
+    "1 ni ayirish va 1 ni qo'shish",
+    "2 ga ko'paytirish va bo'lish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar a=10, r=3 bo'lsa, r1 (katta aylananing radiusi) nechaga teng bo'ladi?",
+   "variantlar": [
+    "5",
+    "7",
+    "10",
+    "3"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a=10, r=3, PI=3.14 bo'lsa, s1 (katta aylana yuzi) taxminan nechaga teng bo'ladi?",
+   "variantlar": [
+    "78.5",
+    "50.24",
+    "31.4",
+    "28.26"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a=10, r=3, PI=3.14 bo'lsa, s2 (kichik aylana yuzi) taxminan nechaga teng bo'ladi?",
+   "variantlar": [
+    "28.26",
+    "50.24",
+    "9.42",
+    "78.5"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a=10, r=3, PI=3.14 bo'lsa, bo'yalgan yuza s taxminan nechaga teng bo'ladi?",
+   "variantlar": [
+    "78.5",
+    "50.24",
+    "28.26",
+    "106.76"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3-amaliy topshiriqda n=5 o'quvchi, k=23 olma bo'lsa, har bir o'quvchi nechtadan olma oladi va savatchaga nechta olma qoladi?",
+   "variantlar": [
+    "4 tadan, 3 ta qoladi",
+    "3 tadan, 4 ta qoladi",
+    "5 tadan, 0 ta qoladi",
+    "4 tadan, 2 ta qoladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "5-amaliy topshiriqda avtobus har kuni n=250 km yursa, m=1000 km masofani bosib o'tish uchun necha kun kerak bo'ladi?",
+   "variantlar": [
+    "6 kun",
+    "3 kun",
+    "4 kun",
+    "5 kun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "9-amaliy topshiriqda uchta sinfda mos ravishda 25, 30 va 28 nafar o'quvchi bo'lsa, bitta partaga 2 tadan o'tirgan holda jami nechta parta kerak bo'ladi?",
+   "variantlar": [
+    "42",
+    "40",
+    "41",
+    "43"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Chumoli 45786 mm yo'l bosib o'tgan bo'lsa, bu masofa necha metr, santimetr va millimetrni tashkil qiladi?",
+   "variantlar": [
+    "45 m 78 sm 6 mm",
+    "46 m 78 sm 6 mm",
+    "44 m 78 sm 6 mm",
+    "45 m 87 sm 6 mm"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tomoni a=4 ga teng kubning hajmi qancha bo'ladi?",
+   "variantlar": [
+    "48",
+    "12",
+    "16",
+    "64"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "5238 soni kiritilgan bo'lsa, uning oxirgi ikki raqami (5238%100) qanday son bo'ladi?",
+   "variantlar": [
+    "23",
+    "38",
+    "52",
+    "8"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

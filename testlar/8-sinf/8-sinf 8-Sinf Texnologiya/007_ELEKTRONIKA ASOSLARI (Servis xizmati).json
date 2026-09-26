@@ -1,0 +1,326 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Texnologiya",
+ "mavzu": "ELEKTRONIKA ASOSLARI (Servis xizmati)",
+ "savollar": [
+  {
+   "savol": "Elektr toki oqadigan moddalar qanday nomlanadi?",
+   "variantlar": [
+    "Izolyatorlar",
+    "Yarim o'tkazgichlar",
+    "Dielektriklar",
+    "O'tkazgichlar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr tokini o'tkazmaydigan moddalar qanday nomlanadi?",
+   "variantlar": [
+    "O'tkazgichlar",
+    "Dielektriklar",
+    "Yarim o'tkazgichlar",
+    "Metallar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr zanjirida tok kuchini o'lchash uchun qaysi asbob ishlatiladi?",
+   "variantlar": [
+    "Vattmetr",
+    "Ommetr",
+    "Voltmetr",
+    "Ampermetr"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr zanjirida kuchlanishni o'lchash uchun qaysi asbob ishlatiladi?",
+   "variantlar": [
+    "Voltmetr",
+    "Manometr",
+    "Ampermetr",
+    "Termometr"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Diod nechta elektrodga ega yarim o'tkazgich asbob hisoblanadi?",
+   "variantlar": [
+    "Uch",
+    "To'rt",
+    "Bir",
+    "Ikki"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tranzistor nechta elektrodga ega?",
+   "variantlar": [
+    "To'rt",
+    "Uch",
+    "Ikki",
+    "Besh"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr zanjirida qarshilikni bildiruvchi asosiy o'lchov birligi qaysi?",
+   "variantlar": [
+    "Vatt",
+    "Om",
+    "Volt",
+    "Amper"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr toki kuchining o'lchov birligi qaysi?",
+   "variantlar": [
+    "Om",
+    "Amper",
+    "Volt",
+    "Joul"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kondensator elektr zanjirida asosan qanday vazifani bajaradi?",
+   "variantlar": [
+    "Tokni o'lchaydi",
+    "Issiqlik ishlab chiqaradi",
+    "Elektr zaryadini to'playdi",
+    "Tokni kuchaytiradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr asboblarini ta'mirlashda xavfsizlik qoidalariga ko'ra, birinchi navbatda nima qilish kerak?",
+   "variantlar": [
+    "Asbobni suvga solish",
+    "Asbobni tebratish",
+    "Asbobni qizdirish",
+    "Asbobni tarmoqdan uzish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr zanjirida ketma-ket ulangan rezistorlarning umumiy qarshiligi qanday hisoblanadi?",
+   "variantlar": [
+    "Eng katta qarshilikka teng",
+    "Eng kichik qarshilikka teng",
+    "Ayrim qarshiliklar yig'indisiga teng",
+    "Qarshiliklar ko'paytmasiga teng"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki rezistor parallel ulanganda umumiy qarshilik qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Nolga teng bo'ladi",
+    "Kichiklashadi",
+    "Kattalashadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Diod elektr zanjirida qaysi funksiyani bajaradi?",
+   "variantlar": [
+    "Zaryadni saqlaydi",
+    "Tokni ikki tomonga o'tkazadi",
+    "Tokni faqat bir tomonga o'tkazadi",
+    "Kuchlanishni oshiradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar rezistor qarshiligi 10 Om, kuchlanish 20 V bo'lsa, Om qonuniga ko'ra tok kuchi qancha bo'ladi?",
+   "variantlar": [
+    "200 A",
+    "2 A",
+    "10 A",
+    "0,5 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Elektr asbobini ta'mirlashda payvandlash uchun asosan qaysi asbob ishlatiladi?",
+   "variantlar": [
+    "Kusachi",
+    "Multimetr",
+    "Payvandlash apparati (lehim)",
+    "Otvyortka"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Elektr zanjirida sichqoncha (rele) qanday vazifani bajaradi?",
+   "variantlar": [
+    "Tokni o'lchaydi",
+    "Zanjirni avtomatik ulash yoki uzish",
+    "Kuchlanishni pasaytiradi",
+    "Issiqlikni chiqaradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Predoxranitel (saqlagich) elektr zanjirida qanday vazifa bajaradi?",
+   "variantlar": [
+    "Tokni kuchaytiradi",
+    "Ortiqcha tokdan himoya qiladi",
+    "Signalni kuchaytiradi",
+    "Kuchlanishni oshiradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Multimetr yordamida qanday kattaliklarni o'lchash mumkin?",
+   "variantlar": [
+    "Tok, kuchlanish va qarshilikni",
+    "Faqat kuchlanishni",
+    "Faqat quvvatni",
+    "Faqat tok kuchini"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Elektr toki o'tkazmaydigan holatga kelib qolgan diod qanday nomlanadi?",
+   "variantlar": [
+    "Ishchi diod",
+    "Kuchaytirgich diod",
+    "Nosoz diod",
+    "Konden diod"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Transformator elektr zanjirida asosan nima uchun ishlatiladi?",
+   "variantlar": [
+    "Tok yo'nalishini o'zgartirish uchun",
+    "Issiqlikni o'lchash uchun",
+    "Kuchlanishni oshirish yoki pasaytirish uchun",
+    "Zaryadni saqlash uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Elektr zanjirida rezistor 5 Om va 15 Om ketma-ket ulangan bo'lsa, umumiy qarshilik nechaga teng bo'ladi?",
+   "variantlar": [
+    "20 Om",
+    "3 Om",
+    "10 Om",
+    "75 Om"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki rezistor (10 Om va 10 Om) parallel ulanganda umumiy qarshilik nechaga teng bo'ladi?",
+   "variantlar": [
+    "5 Om",
+    "10 Om",
+    "1 Om",
+    "20 Om"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar kuchlanish 12 V, qarshilik 4 Om bo'lsa, quvvat (R=I^2*R formulasi asosida) qancha bo'ladi?",
+   "variantlar": [
+    "36 Vt",
+    "48 Vt",
+    "9 Vt",
+    "3 Vt"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektr asbobi ishlamay qolganda, servis ustasi birinchi navbatda qanday tekshiruv o'tkazishi kerak?",
+   "variantlar": [
+    "Asbobni uloqtirish",
+    "Yangi asbob sotib olish",
+    "Asbobni yig'ib qo'yish",
+    "Kuchlanish manbaini va simlarni tekshirish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Diod nosoz bo'lib, doimo tokni o'tkazsa, bu holat qanday nomlanadi?",
+   "variantlar": [
+    "Ochiq holat (uzilgan)",
+    "Kuchaytirilgan holat",
+    "Qisqa tutashuv (ko'prik)",
+    "Normal ishlash"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektr zanjirida rezistorning quvvati belgilangan qiymatdan oshib ketsa, nima yuz beradi?",
+   "variantlar": [
+    "Tok kuchi kamayadi",
+    "Hech narsa bo'lmaydi",
+    "Kuchlanish oshadi",
+    "Rezistor qizib, yonib ketishi mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kondensator zanjirda qisqa tutashgan (nosoz) bo'lsa, zanjirga qanday ta'sir qiladi?",
+   "variantlar": [
+    "Zanjirni qisqa tutashtiradi",
+    "Zanjirni uzadi",
+    "Kuchlanishni oshiradi",
+    "Hech qanday ta'sir qilmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektr asbobini ta'mirlashda multimetr bilan diodni tekshirishda diod ishlab tursa, ko'rsatkich qanday bo'ladi?",
+   "variantlar": [
+    "Ko'rsatkich o'zgarmaydi",
+    "Bir yo'nalishda o'tkazadi, ikkinchisida yo'q",
+    "Ikki yo'nalishda ham cheksiz qarshilik",
+    "Ikki yo'nalishda ham nol qarshilik"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Servis ustasi elektr priborini ta'mirlashda quyidagi qadamlardan qaysi biri to'g'ri tartibda birinchi bajariladi: 1) diagnostika, 2) tarmoqdan uzish, 3) qismlarni almashtirish, 4) tekshirish?",
+   "variantlar": [
+    "4,2,1,3",
+    "1,2,3,4",
+    "3,1,2,4",
+    "2,1,3,4"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

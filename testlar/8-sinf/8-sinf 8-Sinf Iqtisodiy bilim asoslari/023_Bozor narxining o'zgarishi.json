@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Iqtisodiy bilim asoslari",
+ "mavzu": "Bozor narxining o'zgarishi",
+ "savollar": [
+  {
+   "savol": "\"Talab\" tushunchasining to‘g‘ri ta’rifi qaysi?",
+   "variantlar": [
+    "Sotuvchilarning tovarni turli narxlarda sotish imkoniyati",
+    "Tovarni sotib olishga bo‘lgan oddiy xohish",
+    "Bozordagi tovarlar miqdori",
+    "Muayyan vaqt davomida xaridorlarning tovarni turli narxlarda qancha miqdorda sotib olish imkoniyatini aniqlaydigan, narx va miqdor o‘rtasidagi munosabat"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Talab miqdori\" tushunchasining ta’rifi qaysi?",
+   "variantlar": [
+    "Sotuvchilarning ma’lum narxda sotishi mumkin bo‘lgan tovar miqdori",
+    "Ishlab chiqarilgan tovarlar miqdori",
+    "Bozordagi barcha tovarlar miqdori",
+    "Muayyan vaqt davomida xaridorlarning ma’lum narxda sotib olishlari mumkin bo‘lgan tovar miqdori"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Taklif\" tushunchasining ta’rifi qaysi?",
+   "variantlar": [
+    "Tovarning bozordagi umumiy zaxirasi",
+    "Xaridorlarning tovarni sotib olish istagi",
+    "Xaridorlarning tovarga bo‘lgan ehtiyoji",
+    "Muayyan vaqt ichida sotuvchilarning tovarni turli narxlarda qancha miqdorda sota olish imkoniyatini aniqlaydigan, narx va miqdor o‘rtasidagi munosabat"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Taklif miqdori\" tushunchasining ta’rifi qaysi?",
+   "variantlar": [
+    "Xaridorlarning sotib olish imkoniyati",
+    "Ishlab chiqarish uchun zarur resurslar miqdori",
+    "Muayyan vaqt ichida sotuvchilarning ma’lum narxda sotishi mumkin bo‘lgan tovar miqdori",
+    "Bozordagi tovarlarning umumiy soni"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Taqchil bozor qanday bozor hisoblanadi?",
+   "variantlar": [
+    "Narxi doimiy bo‘lgan bozor",
+    "Tovarning taklifi talabdan past bo‘lgan bozor",
+    "Tovarning taklifi talabdan yuqori bo‘lgan bozor",
+    "Talab va taklif teng bo‘lgan bozor"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To‘yingan bozor qanday bozor hisoblanadi?",
+   "variantlar": [
+    "Tovarning taklifi talabdan past bo‘lgan bozor",
+    "Talab va taklif teng bo‘lgan bozor",
+    "Tovarning taklifi talabdan yuqori bo‘lgan bozor",
+    "Tovar umuman sotilmaydigan bozor"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tovarning bozor (muvozanat) narxi qanday aniqlanadi?",
+   "variantlar": [
+    "Talab miqdori taklif miqdoriga teng bo‘lgandagi narx sifatida",
+    "Ishlab chiqaruvchi xohlagan narx sifatida",
+    "Davlat tomonidan belgilangan narx sifatida",
+    "Eng arzon narx sifatida"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Muvozanat miqdor deganda nima tushuniladi?",
+   "variantlar": [
+    "Ishlab chiqarilgan tovarlarning umumiy miqdori",
+    "Bozorda tovarning muvozanat narxda sotilish miqdori",
+    "Xaridorlar sotib olishni xohlagan miqdor",
+    "Bozordagi barcha tovarlar miqdori"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Talab miqdori bilan tovar narxi o‘rtasida qanday bog‘liqlik mavjud?",
+   "variantlar": [
+    "Bog‘liqlik yo‘q",
+    "Faqat bir marta bog‘liq bo‘ladi",
+    "Teskari bog‘liqlik",
+    "To‘g‘ridan-to‘g‘ri bog‘liqlik"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Taklif miqdori bilan tovar narxi o‘rtasida qanday bog‘liqlik mavjud?",
+   "variantlar": [
+    "To‘g‘ridan-to‘g‘ri (bevosita) bog‘liqlik",
+    "Teskari bog‘liqlik",
+    "Bog‘liqlik yo‘q",
+    "Faqat pasaygan holatda bog‘liq bo‘ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tovar narxi oshganda, talab miqdori qanday o‘zgaradi?",
+   "variantlar": [
+    "Avval ko‘payadi, keyin kamayadi",
+    "O‘zgarmaydi",
+    "Kamayadi",
+    "Ko‘payadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tovar narxi oshganda, taklif miqdori qanday o‘zgaradi?",
+   "variantlar": [
+    "O‘zgarmaydi",
+    "Ko‘payadi",
+    "Nolga tushadi",
+    "Kamayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Iste’molchilarning daromadi oshsa, oddiy tovarga bo‘lgan talab odatda qanday o‘zgaradi?",
+   "variantlar": [
+    "Nolga tushadi",
+    "Oshadi",
+    "Kamayadi",
+    "O‘zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir tovarning o‘rnini bosuvchi boshqa tovar narxi oshsa, dastlabki tovarga bo‘lgan talab qanday o‘zgaradi?",
+   "variantlar": [
+    "O‘zgarmaydi",
+    "Kamayadi",
+    "Nolga tushadi",
+    "Oshadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir-birini to‘ldiruvchi ikkita tovardan birining narxi oshsa, ikkinchi tovarga bo‘lgan talab qanday o‘zgaradi?",
+   "variantlar": [
+    "O‘zgarmaydi",
+    "Ikki barobar oshadi",
+    "Oshadi",
+    "Kamayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Taklif o‘zgarmagan holda talab ortsa, muvozanat narx qanday o‘zgaradi?",
+   "variantlar": [
+    "Pasayadi",
+    "Oshadi",
+    "O‘zgarmaydi",
+    "Nolga tushadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Talab o‘zgarmagan holda taklif ortsa, muvozanat narx qanday o‘zgaradi?",
+   "variantlar": [
+    "Ikki barobar oshadi",
+    "Oshadi",
+    "Pasayadi",
+    "O‘zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Taklif o‘zgarmagan holda talab kamaysa, muvozanat miqdor qanday o‘zgaradi?",
+   "variantlar": [
+    "Ko‘payadi",
+    "Kamayadi",
+    "O‘zgarmaydi",
+    "Nolga tushadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Talab o‘zgarmagan holda taklif kamaysa, muvozanat miqdor qanday o‘zgaradi?",
+   "variantlar": [
+    "Kamayadi",
+    "Ko‘payadi",
+    "Ikki barobar bo‘ladi",
+    "O‘zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bozorda taqchillik (talab taklifdan yuqori) yuzaga kelsa, narx qanday tendensiyaga ega bo‘ladi?",
+   "variantlar": [
+    "Darhol nolga tushadi",
+    "O‘zgarmay qoladi",
+    "Oshish tendensiyasiga ega bo‘ladi",
+    "Pasayish tendensiyasiga ega bo‘ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Talab va taklif bir vaqtning o‘zida ortsa, muvozanat miqdor qanday o‘zgarishi haqida aniq xulosa chiqarish mumkin?",
+   "variantlar": [
+    "Albatta oshadi",
+    "Aniq xulosa chiqarib bo‘lmaydi",
+    "O‘zgarmaydi",
+    "Albatta kamayadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Talab va taklif bir vaqtning o‘zida kamaysa, muvozanat miqdor haqida qanday aniq xulosa chiqarish mumkin?",
+   "variantlar": [
+    "Albatta kamayadi",
+    "Aniq xulosa chiqarib bo‘lmaydi",
+    "Albatta oshadi",
+    "O‘zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bozorda benzin narxi keskin oshsa, avtomobillarga bo‘lgan talab va ularning bozor narxi qanday o‘zgarishi mumkin? (benzin va avtomobil to‘ldiruvchi tovarlar ekanligini hisobga oling)",
+   "variantlar": [
+    "Talab va narx pasayadi",
+    "Talab va narx oshadi",
+    "Talab oshadi, narx pasayadi",
+    "Hech qanday o‘zgarish bo‘lmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tovarni ishlab chiqarish uchun zarur resurslar narxi oshganda, aslida nima o‘zgaradi: taklif miqdorimi yoki taklifning o‘zi (butun taklif egri chizig‘i)?",
+   "variantlar": [
+    "Faqat talab miqdori o‘zgaradi",
+    "Hech narsa o‘zgarmaydi",
+    "Taklifning o‘zi (butun egri chiziq) o‘zgaradi",
+    "Faqat taklif miqdori o‘zgaradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Muzqaymoqqa bo‘lgan talab chizig‘ining chap tomonga (kamayish tomoniga) siljishiga qaysi omil sabab bo‘lishi mumkin?",
+   "variantlar": [
+    "Muzqaymoq narxining pasayishi",
+    "Qish faslining kelishi",
+    "Yoz faslining kelishi",
+    "Aholi daromadining oshishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi omillardan qaysi biri bevosita talabga emas, balki taklifga tegishli bo‘lgani uchun talabga ta’sir etmaydi?",
+   "variantlar": [
+    "Aholi sonining o‘zgarishi",
+    "Iste’molchilar daromadining o‘zgarishi",
+    "Bozorga tovarning ko‘p miqdorda keltirilishi",
+    "Narx oshishining kutilishi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Talab ortib, shu bilan birga taklif kamaysa, muvozanat narx haqida qanday aniq xulosa chiqarish mumkin?",
+   "variantlar": [
+    "Albatta oshadi",
+    "Albatta pasayadi",
+    "Aniq xulosa chiqarib bo‘lmaydi",
+    "O‘zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Talab kamayib, shu bilan birga taklif ortsa, muvozanat narx haqida qanday aniq xulosa chiqarish mumkin?",
+   "variantlar": [
+    "Aniq xulosa chiqarib bo‘lmaydi",
+    "Albatta oshadi",
+    "O‘zgarmaydi",
+    "Albatta pasayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita tovar o‘rnini bosuvchi tovarlar hisoblansa va ulardan birining narxi keskin pasaysa, ikkinchi tovarga bo‘lgan talab qanday o‘zgaradi?",
+   "variantlar": [
+    "Oshadi",
+    "Kamayadi",
+    "Ikki barobar oshadi",
+    "O‘zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Choy va shakar bir-birini to‘ldiruvchi tovarlar hisoblanadi. Agar shakar narxi keskin pasaysa, choyga bo‘lgan talab qanday o‘zgaradi?",
+   "variantlar": [
+    "Oshadi",
+    "Kamayadi",
+    "Nolga tushadi",
+    "O‘zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

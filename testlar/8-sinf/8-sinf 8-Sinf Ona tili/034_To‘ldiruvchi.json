@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Ona tili",
+ "mavzu": "To‘ldiruvchi",
+ "savollar": [
+  {
+   "savol": "To'ldiruvchi qanday bo'lak hisoblanadi?",
+   "variantlar": [
+    "Gap tarkibidagi bosh bo'lak",
+    "Kesimni izohlovchi bosh bo'lak",
+    "Ega bilan mos keluvchi bo'lak",
+    "Fe'l bilan ifodalangan bo'lakka boshqaruv yo'li bilan bog'langan ikkinchi darajali bo'lak"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'ldiruvchi gapga qanday bog'lanish usuli bilan bog'lanadi?",
+   "variantlar": [
+    "Boshqaruv",
+    "Yondashuv",
+    "Bitishuv",
+    "Moslashuv"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'ldiruvchi necha turga bo'linadi?",
+   "variantlar": [
+    "5 ta",
+    "3 ta",
+    "4 ta",
+    "2 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vositasiz to'ldiruvchi qaysi kelishikda keladi?",
+   "variantlar": [
+    "Jo'nalish kelishigi",
+    "Chiqish kelishigi",
+    "Tushum kelishigi",
+    "Qaratqich kelishigi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vositali to'ldiruvchi qanday to'ldiruvchi hisoblanadi?",
+   "variantlar": [
+    "Faqat qaratqich kelishigidagi to'ldiruvchi",
+    "Faqat sifatlovchi bilan ifodalangan to'ldiruvchi",
+    "Faqat bosh kelishikdagi to'ldiruvchi",
+    "Tushum kelishigidan boshqa shakldagi to'ldiruvchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri to'ldiruvchining so'rog'i emas?",
+   "variantlar": [
+    "nimadan",
+    "nimani",
+    "qanday",
+    "kimga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'ldiruvchi quyidagi so'z turkumlaridan qaysi biri bilan ifodalanmaydi?",
+   "variantlar": [
+    "bog'lovchi",
+    "ot",
+    "olmosh",
+    "harakat nomi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Otlashib to'ldiruvchi vazifasida kela oladigan so'z turkumlaridan biri emas:",
+   "variantlar": [
+    "ravish",
+    "sifat",
+    "son",
+    "sifatdosh"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'ldiruvchi birikma holida bo'lishi mumkinmi?",
+   "variantlar": [
+    "Ha, murakkab to'ldiruvchi sifatida keladi",
+    "Yo'q, faqat bitta so'zdan iborat bo'ladi",
+    "Faqat ot bilan ifodalanganda birikma bo'ladi",
+    "Bunday holat mumkin emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Yo'qni yo'q deydi, borni bor deydi\" gapida to'ldiruvchi qaysi so'z turkumi bilan ifodalangan?",
+   "variantlar": [
+    "Sifat",
+    "Ot",
+    "Undov so'z",
+    "Modal so'z"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Dilshod maktubni xolasiga berib, ko'chaga chiqib ketdi\" gapida \"maktubni\" so'zi qanday to'ldiruvchi?",
+   "variantlar": [
+    "Vositali",
+    "Ega",
+    "Aniqlovchi",
+    "Vositasiz"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Dilshod maktubni xolasiga berib, ko'chaga chiqib ketdi\" gapida \"xolasiga\" so'zi qanday to'ldiruvchi turiga kiradi?",
+   "variantlar": [
+    "Ega",
+    "Vositasiz",
+    "Vositali",
+    "Hol"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Taqir-tuquringni yig'ishtir\" gapida to'ldiruvchi qaysi so'z turkumi bilan ifodalangan?",
+   "variantlar": [
+    "Ot",
+    "Taqlid so'z",
+    "Undov so'z",
+    "Modal so'z"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Ohimni eshitmadi\" gapida to'ldiruvchi qanday so'z bilan ifodalangan?",
+   "variantlar": [
+    "Ot",
+    "Taqlid so'z",
+    "Sifat",
+    "Undov so'z"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Yaxshiga qora yuqmas, yomonga el boqmas\" gapida \"yaxshiga\" so'zi qanday ifodalangan to'ldiruvchi?",
+   "variantlar": [
+    "Otlashgan sifat",
+    "Otlashgan son",
+    "Harakat nomi",
+    "Otlashgan sifatdosh"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Beshni beshga qo'shsak, o'n bo'ladi\" gapida \"beshni\" so'zi qaysi so'z turkumi otlashib to'ldiruvchi bo'lgan?",
+   "variantlar": [
+    "Son",
+    "Sifatdosh",
+    "Olmosh",
+    "Sifat"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Bilmagandan bilgan yaxshi, to'g'ri ishni qilgan yaxshi\" gapida \"bilmagandan\" so'zi qaysi turkum otlashuvidan hosil bo'lgan?",
+   "variantlar": [
+    "Ravish",
+    "Son",
+    "Sifatdosh",
+    "Sifat"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Uning kulib boqishlarini bir zum ham unutmayman\" gapida to'ldiruvchi qanday ifodalangan?",
+   "variantlar": [
+    "Harakat nomi",
+    "Olmosh",
+    "Ot",
+    "Sifat"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Men uning go'zal siymosida qalbim ko'zgusini, visol orzusini, umidim gulshanini ko'rardim\" gapidagi to'ldiruvchilar qanday holatda kelgan?",
+   "variantlar": [
+    "Modal so'z holida",
+    "Yakka so'z holida",
+    "Undov so'z holida",
+    "Birikma holida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Vaqtni oqilona taqsimlash – ish poydevori\" gapida \"vaqtni\" so'zi qanday to'ldiruvchi?",
+   "variantlar": [
+    "Vositasiz",
+    "Kesim",
+    "Ega",
+    "Vositali"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Vaqt hamma narsaga o'z ta'sirini o'tkazadi\" gapida \"hamma narsaga\" so'zi qanday to'ldiruvchi turiga kiradi va nima uchun?",
+   "variantlar": [
+    "Vositali, chunki jo'nalish kelishigida",
+    "Vositasiz, chunki tushum kelishigida",
+    "Vositasiz, chunki bosh kelishikda",
+    "Vositali, chunki chiqish kelishigida"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Yillarning poyonsiz halqasi nomni ham, qiyofani ham, fe'l-atvorni, hatto taqdirni ham o'zgartira oladi\" gapida nechta vositasiz to'ldiruvchi mavjud?",
+   "variantlar": [
+    "4 ta",
+    "2 ta",
+    "5 ta",
+    "3 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Kimki bo'sh vaqtini oqilona o'tkaza olsa, shaxsiy madaniyati oliy darajadagi kishidir\" gapida to'ldiruvchi vazifasidagi so'z qaysi va u qanday turga kiradi?",
+   "variantlar": [
+    "\"madaniyati\" – vositasiz to'ldiruvchi",
+    "\"kishidir\" – vositali to'ldiruvchi",
+    "\"vaqtini\" – vositasiz to'ldiruvchi",
+    "\"oqilona\" – vositasiz to'ldiruvchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Vaqt va suv toshqini hech qachon kutib turmaydi\" gapida to'ldiruvchi mavjudmi?",
+   "variantlar": [
+    "Ha, ikkalasi ham to'ldiruvchi",
+    "Ha, \"suv toshqini\" so'zi to'ldiruvchi",
+    "Ha, \"vaqt\" so'zi to'ldiruvchi",
+    "Yo'q, bu so'zlar ega vazifasida kelgan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Har bir kunni o'lcha, sarflagan har bir daqiqangni hisobga ol!\" gapida nechta vositasiz to'ldiruvchi bor?",
+   "variantlar": [
+    "1 ta",
+    "3 ta",
+    "2 ta",
+    "4 ta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"O'rtamiyona odam vaqtni tez o'tkazish payida bo'ladi, iste'dod sohibi esa undan foydalanib qolishga urinadi\" gapida \"undan\" so'zi qaysi kelishikdagi vositali to'ldiruvchi?",
+   "variantlar": [
+    "Tushum kelishigi",
+    "Jo'nalish kelishigi",
+    "O'rin-payt kelishigi",
+    "Chiqish kelishigi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Bog'ni muhtasham devorini bir muddat tomosha qildi\" jumlasidagi xatoni tuzatish uchun qaysi so'zni o'zgartirish kerak?",
+   "variantlar": [
+    "\"tomosha\" so'zini \"tomoshaga\" ga",
+    "\"Bog'ni\" so'zini \"Bog'ning\" ga",
+    "\"devorini\" so'zini \"devorni\" ga",
+    "\"qildi\" so'zini \"qilar\" ga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Yer kurrasin boshin tang'idik\" she'riy jumlasini nasriy shaklga aylantirsak, \"kurrasin\" so'zi qanday to'ldiruvchiga aylanadi?",
+   "variantlar": [
+    "\"kurrasini\" – vositasiz to'ldiruvchi",
+    "\"kurrasidan\" – vositali to'ldiruvchi",
+    "\"kurrasida\" – vositali to'ldiruvchi",
+    "\"kurrasiga\" – vositali to'ldiruvchi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Men uning go'zal siymosida qalbim ko'zgusini, visol orzusini, umidim gulshanini ko'rardim\" gapida nechta to'ldiruvchi birikma holida kelgan?",
+   "variantlar": [
+    "1 ta",
+    "3 ta",
+    "4 ta",
+    "2 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "To'ldiruvchi va ega bo'lagini farqlashda asosiy mezon nima?",
+   "variantlar": [
+    "Ega fe'l bilan ifodalangan kesimga bog'lanadi, to'ldiruvchi esa fe'l bilan ifodalangan istalgan bo'lakka boshqaruv yo'li bilan bog'lanadi va turli kelishik shakllarida keladi",
+    "To'ldiruvchi har doim tushum kelishigida, ega esa bosh kelishikda bo'ladi",
+    "Ular orasida farq yo'q",
+    "Ega har doim otlashgan so'z, to'ldiruvchi esa har doim ot bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

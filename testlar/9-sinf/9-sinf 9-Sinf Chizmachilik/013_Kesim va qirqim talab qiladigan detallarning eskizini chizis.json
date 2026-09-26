@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Chizmachilik",
+ "mavzu": "Kesim va qirqim talab qiladigan detallarning eskizini chizish",
+ "savollar": [
+  {
+   "savol": "Eskiz nima?",
+   "variantlar": [
+    "Faqat rangli qalamlar bilan chiziladigan rasm",
+    "To'g'ri burchakli proyeksiyalashga amal qilingan holda, ko'zda chamalab chiziladigan chizma",
+    "Faqat kompyuterda chiziladigan chizma",
+    "Chizmachilik asboblari yordamida chiziladigan aniq chizma"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Eskizlar qanday chiziladi?",
+   "variantlar": [
+    "Ko'zda chamalab, qismlar orasidagi nisbatni saqlab, qo'lda",
+    "Faqat kompyuter dasturlari yordamida",
+    "Faqat chizg'ich va sirkul bilan",
+    "Chizmachilik asboblari qo'llanilib, aniq o'lchamda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Eskiz chizishda qanday asboblar ishlatiladi?",
+   "variantlar": [
+    "Chizg'ich va sirkul",
+    "Chizmachilik asboblari qo'llanilmaydi",
+    "Faqat qalam va rezina",
+    "Transportir va lineyka"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Eskizlar qanday qog'ozlarda bajariladi?",
+   "variantlar": [
+    "Faqat kataklangan daftarda",
+    "Faqat rangli qog'ozda",
+    "Faqat oq qog'ozda",
+    "Millimetrlangan, kataklangan yoki oq qog'ozda"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Eskiz chizishda detalning qismlari orasida nima saqlanishi kerak?",
+   "variantlar": [
+    "Nisbat",
+    "Og'irlik",
+    "Harorat",
+    "Rang"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Eskizda o'lchamlar qayerdan olinadi?",
+   "variantlar": [
+    "Ixtiyoriy tarzda",
+    "Kitobdagi jadvaldan",
+    "Chizilgan eskizning o'zidan",
+    "Detalning aslidan o'lchab"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Eskizlarda kesim va qirqimlar nima uchun qo'llaniladi?",
+   "variantlar": [
+    "Kerakli qismlarni ko'rsatib, eng kam ko'rinishda chizish uchun",
+    "Chizmani murakkablashtirish uchun",
+    "Detalning rangini ko'rsatish uchun",
+    "Chizmani chiroyli ko'rsatish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Oq qog'ozga eskiz chizishdan oldin qanday chiziqlarni chizish mashq qilinadi?",
+   "variantlar": [
+    "Faqat spiral chiziqlar",
+    "Faqat nuqtali chiziqlar",
+    "Parallel, gorizontal, vertikal, qiya va perpendikulyar chiziqlar",
+    "Faqat egri chiziqlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qo'lni chizmaga o'rgatish uchun qanday shakllarni chizish tavsiya etiladi?",
+   "variantlar": [
+    "To'g'ri burchakli to'rtburchak, kvadrat, aylana va uning yoylari",
+    "Faqat to'g'ri chiziqlar",
+    "Uchburchak va romb",
+    "Ko'pburchak va ellips"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda keltirilgan podshipnik detali necha ko'rinishda chizilishi mumkin (birinchi variantda)?",
+   "variantlar": [
+    "Ikkita ko'rinishda",
+    "Bitta ko'rinishda",
+    "To'rtta ko'rinishda",
+    "Beshta ko'rinishda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Podshipnik eskizida qovurg'alar qaysi usul orqali ko'rsatiladi?",
+   "variantlar": [
+    "Kesim orqali",
+    "Profil qirqim orqali",
+    "Ko'rinish orqali",
+    "Belgilar orqali"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Podshipnik eskizida silindrik qism qaysi usul orqali ko'rsatiladi?",
+   "variantlar": [
+    "Kesim orqali",
+    "Profil qirqim orqali",
+    "Shtrix chizig'i orqali",
+    "Nuqtali chiziq orqali"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Eskiz chizishning birinchi bosqichida nima bajariladi?",
+   "variantlar": [
+    "Faqat kontur chiziladi",
+    "O'lchamlar qo'yiladi",
+    "Ko'rinish o'rinlari to'g'ri to'rtburchaklarda belgilanadi, detal asosi, silindrik qismi, qovurg'alari chiziladi",
+    "Faqat rang beriladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Eskiz chizishning ikkinchi bosqichida nima bajariladi?",
+   "variantlar": [
+    "Detal konturi aniqlanadi, profil qirqim va kesim bajariladi",
+    "Faqat ko'rinish o'rinlari belgilanadi",
+    "Faqat rang beriladi",
+    "Faqat o'lchamlar qo'yiladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Eskiz chizishning uchinchi bosqichida nima bajariladi?",
+   "variantlar": [
+    "Ko'rinish o'rinlari belgilanadi",
+    "Qirqim bajariladi",
+    "Detal konturi aniqlanadi",
+    "Chizma o'lchamlari detalning aslidan o'lchab olinadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Uch ko'rinishli eskizda qovurg'alarning o'zaro joylashishini ko'rsatish uchun qaysi kesim ishlatiladi?",
+   "variantlar": [
+    "S-S qirqim",
+    "B-B kesim",
+    "V-V kesim",
+    "A-A qirqim"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A-A qirqim qaysi ko'rinishda beriladi?",
+   "variantlar": [
+    "Ustdan ko'rinishda",
+    "Orqadan ko'rinishda",
+    "Chapdan ko'rinishda",
+    "Bosh ko'rinishda"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Uch ko'rinishli eskiz qo'llanilganda detalning qaysi qismi to'liq ko'rinadi?",
+   "variantlar": [
+    "Qovurg'alar",
+    "Teshiklari",
+    "Silindrik qismi",
+    "Asosi - plitaning shakli"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Eskiz chizish shartiga muvofiq ko'rinish o'rinlari qanday shaklda belgilanadi?",
+   "variantlar": [
+    "Uchburchak shaklida",
+    "Erkin chiziqlar bilan",
+    "Aylana shaklida",
+    "To'g'ri to'rtburchaklarda"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun eskizda eng kam ko'rinishda chizishga harakat qilinadi?",
+   "variantlar": [
+    "Qog'ozni tejash uchun",
+    "Chizmachilik qoidalariga zid bo'lgani uchun",
+    "Vaqtni tejash va chizmani soddalashtirish uchun, kesim va qirqimlardan foydalanib",
+    "Rangli qalam yetishmagani uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Detalda ham silindrsimon, ham qovurg'ali qismlar bo'lsa, ularni eskizda tasvirlash uchun mos ravishda qanday usullar qo'llaniladi?",
+   "variantlar": [
+    "Ikkalasi ham faqat ko'rinish orqali",
+    "Silindrik qism - kesim, qovurg'alar - profil qirqim orqali",
+    "Ikkalasi ham faqat kesim orqali",
+    "Silindrik qism - profil qirqim, qovurg'alar - kesim orqali"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Podshipnik detalini ikki ko'rinishli va uch ko'rinishli eskiz qilib chizish o'rtasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Uch ko'rinishlida rang qo'shiladi",
+    "Farq yo'q, ikkalasi bir xil",
+    "Ikki ko'rinishlida o'lchamlar qo'yilmaydi",
+    "Uch ko'rinishlida A-A qirqim orqali qovurg'alarning joylashishi va plitaning shakli to'liq ko'rsatiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda keltirilgan podshipnik eskizini chizish nechta asosiy bosqichdan iborat?",
+   "variantlar": [
+    "Uchta",
+    "To'rtta",
+    "Beshta",
+    "Ikkita"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Eskizda o'lcham chiziqlariga son qiymatlari qo'yilmasligi qachon kuzatiladi?",
+   "variantlar": [
+    "Detalning asli mavjud bo'lmaganda (masalan, o'quv maqsadida)",
+    "Faqat qirqim bo'lganda",
+    "Har doim",
+    "Faqat kesim bo'lganda"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun eskiz chizishdan oldin parallel, perpendikulyar va qiya chiziqlarni mashq qilish tavsiya etiladi?",
+   "variantlar": [
+    "Vaqtni behuda sarflash uchun",
+    "Qo'lni chizmachilik asboblarisiz aniq chizishga o'rgatish uchun",
+    "Rasm chizishni o'rgatish uchun",
+    "Faqat baholash uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Eskizda chizmachilik asboblarining qo'llanilmasligi bilan to'g'ri burchakli proyeksiyalash tamoyiliga rioya qilish o'rtasidagi bog'liqlik nimada?",
+   "variantlar": [
+    "Asboblarsiz ham nisbatlarni chamalab, proyeksiyalash qoidalariga amal qilingan holda chizish talab etiladi",
+    "Proyeksiyalash faqat asboblar bilan mumkin",
+    "Asboblar bo'lmasa proyeksiyalash shart emas",
+    "Ular bir-biriga bog'liq emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Podshipnik detalini uch ko'rinishda chizishning afzalligi nimada?",
+   "variantlar": [
+    "Plitaning shakli va qovurg'alarning joylashishi A-A qirqim orqali to'liq va aniq ko'rsatiladi",
+    "Chizma tezroq chiziladi",
+    "O'lcham qo'yish shart emas",
+    "Rang berish osonlashadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Eskiz bilan odatdagi (asboblar bilan chizilgan) chizma orasidagi farq nimalarda namoyon bo'ladi?",
+   "variantlar": [
+    "Eskiz ko'zda chamalab qo'lda, chizma esa asboblar bilan aniq chiziladi",
+    "Eskiz faqat rangli, chizma oq-qora",
+    "Eskizda o'lcham bo'lmaydi, chizmada bo'ladi",
+    "Farq yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Detalning asli mavjud bo'lmagan holda eskiz chizilsa, o'lcham chiziqlariga nima qo'yilmaydi?",
+   "variantlar": [
+    "Chiziq yo'nalishi",
+    "Chiziq shakli",
+    "Ularning son qiymatlari",
+    "Strelkalar"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Eskiz ishchi daftarga (kataklangan) va oq qog'ozga chizilganda, asosiy farq nimada?",
+   "variantlar": [
+    "Ishchi daftarda o'lcham qo'yilmaydi",
+    "Farq yo'q, ikkalasi bir xil usulda chiziladi",
+    "Oq qog'ozda kataklar yo'qligi sabab, chiziqlarni to'g'ri chizish uchun qo'shimcha mashq talab qilinadi",
+    "Oq qog'ozda faqat rangli chizish mumkin"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Geometriya",
+ "mavzu": "Aylanaga ichki chizilgan ko'pburchak",
+ "savollar": [
+  {
+   "savol": "Ta'rifga ko'ra, agar ko'pburchakning barcha uchlari qanday joylashsa, bu ko'pburchak aylanaga ichki chizilgan deyiladi?",
+   "variantlar": [
+    "Aylanadan tashqarida joylashsa",
+    "Aylana markazida joylashsa",
+    "Aylana ichida joylashsa",
+    "Aylanada yotsa"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'pburchak aylanaga ichki chizilgan bo'lsa, aylana ko'pburchakka nisbatan qanday ataladi?",
+   "variantlar": [
+    "Yordamchi aylana",
+    "Ichki chizilgan aylana",
+    "Markaziy aylana",
+    "Tashqi chizilgan aylana"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Istalgan uchburchakka tashqi aylana chizish mumkinmi?",
+   "variantlar": [
+    "Faqat to'g'ri burchakli uchburchakka mumkin",
+    "Ha, har doim mumkin",
+    "Yo'q, hech qachon mumkin emas",
+    "Faqat teng tomonli uchburchakka mumkin"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Uchburchakka tashqi chizilgan aylananing markazi qayerda yotadi?",
+   "variantlar": [
+    "Uchburchak medianalari kesishgan nuqtada",
+    "Uchburchak bissektrisalari kesishgan nuqtada",
+    "Uchburchak tomonlarining o'rta perpendikularlari kesishgan nuqtada",
+    "Uchburchak balandliklari kesishgan nuqtada"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'g'ri to'rtburchakdan farqli parallelogrammga tashqi aylana chizish mumkinmi?",
+   "variantlar": [
+    "Faqat kvadratga mumkin",
+    "Ha, har doim mumkin",
+    "Faqat rombga mumkin",
+    "Yo'q, mumkin emas"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'rtburchakka qachon va faqat shu holdagina tashqi aylana chizish mumkin?",
+   "variantlar": [
+    "Diagonallari teng bo'lganda",
+    "Qarama-qarshi tomonlari parallel bo'lganda",
+    "Barcha tomonlari teng bo'lganda",
+    "Qarama-qarshi burchaklari yig'indisi 180° bo'lganda"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aylanaga ichki chizilgan ABCD to'rtburchakda ∠A + ∠C yig'indisi nechaga teng?",
+   "variantlar": [
+    "360°",
+    "90°",
+    "270°",
+    "180°"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aylanaga ichki chizilgan ABCD to'rtburchakda ∠B + ∠D yig'indisi nechaga teng?",
+   "variantlar": [
+    "180°",
+    "360°",
+    "120°",
+    "90°"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aylanaga ichki chizilgan ko'pburchak uchlari aylana markazidan qanday joylashgan?",
+   "variantlar": [
+    "Teng uzoqlikda",
+    "Faqat ikkitasi teng uzoqlikda",
+    "Turli masofada",
+    "Markazga yaqin joylashgan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aylanaga ichki chizilgan ko'pburchakning tomonlari o'rta perpendikularlari qanday joylashadi?",
+   "variantlar": [
+    "Ikki nuqtada kesishadi",
+    "Parallel bo'ladi",
+    "Kesishmaydi",
+    "Bir nuqtada kesishadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Katetlari 16 cm va 12 cm bo'lgan to'g'ri burchakli uchburchakning gipotenuzasi necha sm ga teng?",
+   "variantlar": [
+    "28 cm",
+    "24 cm",
+    "18 cm",
+    "20 cm"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Katetlari 16 cm va 12 cm bo'lgan to'g'ri burchakli uchburchakka tashqi chizilgan aylananing radiusi necha sm?",
+   "variantlar": [
+    "12 cm",
+    "14 cm",
+    "8 cm",
+    "10 cm"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "To'g'ri burchakli uchburchakka tashqi chizilgan aylananing radiusi qanday topiladi?",
+   "variantlar": [
+    "Kichik katetning yarmiga teng",
+    "Gipotenuzaga teng",
+    "Gipotenuzaning yarmiga teng",
+    "Katta katetga teng"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Radiusi 10 cm bo'lgan aylanaga ichki chizilgan kvadratning tomoni necha sm ga teng?",
+   "variantlar": [
+    "10√3 cm",
+    "10√2 cm",
+    "10 cm",
+    "20 cm"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Radiusi 10 cm bo'lgan aylanaga ichki chizilgan teng tomonli uchburchakning tomoni necha sm ga teng?",
+   "variantlar": [
+    "20 cm",
+    "10 cm",
+    "10√3 cm",
+    "10√2 cm"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "To'g'ri to'rtburchakka tashqi chizilgan aylananing diametri to'g'ri to'rtburchakning nimasiga teng?",
+   "variantlar": [
+    "Katta tomoniga",
+    "Kichik tomoniga",
+    "Diagonaliga",
+    "Yarim perimetriga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1-masalada AA1⊥BC va BB1⊥AC bo'lgani uchun ∠HB1C va ∠HA1C burchaklarining har biri necha darajaga teng?",
+   "variantlar": [
+    "180°",
+    "45°",
+    "60°",
+    "90°"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Radiusi 25 cm bo'lgan aylanaga ichki chizilgan to'g'ri to'rtburchakning bir tomoni 14 cm bo'lsa, ikkinchi tomoni necha sm?",
+   "variantlar": [
+    "52 cm",
+    "48 cm",
+    "40 cm",
+    "44 cm"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2-masalada balandlik BD=16 cm, radius OB=10 cm bo'lsa, OD kesma necha sm ga teng?",
+   "variantlar": [
+    "6 cm",
+    "8 cm",
+    "10 cm",
+    "4 cm"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Har qanday to'rtburchakning ichki burchaklari yig'indisi nechaga teng?",
+   "variantlar": [
+    "180°",
+    "360°",
+    "540°",
+    "270°"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Asosiga tushirilgan balandligi 16 cm bo'lgan teng yonli uchburchak radiusi 10 cm bo'lgan aylanaga ichki chizilgan. Uchburchakning yon tomoni necha sm ga teng?",
+   "variantlar": [
+    "8√3 cm",
+    "8√5 cm",
+    "10√5 cm",
+    "6√5 cm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi masalada uchburchakning asosi (AC) necha sm ga teng?",
+   "variantlar": [
+    "12 cm",
+    "20 cm",
+    "16 cm",
+    "8 cm"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Radiusi 25 cm bo'lgan aylanaga bir tomoni 14 cm bo'lgan to'g'ri to'rtburchak ichki chizilgan bo'lsa, uning yuzi necha sm² ga teng?",
+   "variantlar": [
+    "560 cm²",
+    "700 cm²",
+    "672 cm²",
+    "616 cm²"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tomonlari 16 cm, 10 cm va 10 cm bo'lgan uchburchakka tashqi chizilgan aylananing radiusi necha sm ga teng?",
+   "variantlar": [
+    "15/3 cm",
+    "25/3 cm",
+    "10/3 cm",
+    "20/3 cm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Radiusi 10 cm bo'lgan aylanaga ichki chizilgan teng yonli to'g'ri burchakli uchburchakning kateti necha sm ga teng?",
+   "variantlar": [
+    "10√2 cm",
+    "10 cm",
+    "10√3 cm",
+    "20 cm"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2-masalada OA=10 cm (radius), OD=6 cm bo'lsa, AD kesma Pifagor teoremasiga ko'ra necha sm ga teng?",
+   "variantlar": [
+    "6 cm",
+    "7 cm",
+    "8 cm",
+    "9 cm"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tomonlari 16 cm, 10 cm va 10 cm bo'lgan uchburchakning yuzi necha sm² ga teng?",
+   "variantlar": [
+    "44 cm²",
+    "48 cm²",
+    "40 cm²",
+    "52 cm²"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Aylanaga ichki chizilgan to'rtburchakning bir burchagi 70° bo'lsa, unga qarama-qarshi burchak necha darajaga teng?",
+   "variantlar": [
+    "120°",
+    "90°",
+    "70°",
+    "110°"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Katetlari 6 cm va 8 cm bo'lgan to'g'ri burchakli uchburchakka tashqi chizilgan aylananing radiusi necha sm ga teng?",
+   "variantlar": [
+    "4 cm",
+    "7 cm",
+    "6 cm",
+    "5 cm"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gipotenuzasi 20 cm, bir kateti 12 cm bo'lgan to'g'ri burchakli uchburchakning ikkinchi kateti necha sm ga teng?",
+   "variantlar": [
+    "15 cm",
+    "18 cm",
+    "16 cm",
+    "14 cm"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

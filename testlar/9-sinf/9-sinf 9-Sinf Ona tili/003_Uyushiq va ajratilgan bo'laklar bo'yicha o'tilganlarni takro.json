@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Ona tili",
+ "mavzu": "Uyushiq va ajratilgan bo'laklar bo'yicha o'tilganlarni takrorlash",
+ "savollar": [
+  {
+   "savol": "Uyushiq bo'laklar gapda qanday vazifani bajaradi?",
+   "variantlar": [
+    "Ega bilan kesim orasida turadi",
+    "Gapni boshqa gapga bog'laydi",
+    "Faqat ot so'z turkumidan bo'ladi",
+    "Bir xil so'roqqa javob berib, bir xil bo'lak vazifasini bajaradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Umumlashtiruvchi so'z uyushiq bo'laklarga nisbatan qanday ma'no bildiradi?",
+   "variantlar": [
+    "Ularning sonini ko'rsatadi",
+    "Ularning barchasini umumlashtirib, yig'ma ma'noni bildiradi",
+    "Ularni birma-bir sanab o'tadi",
+    "Ularga qarshi ma'noni ifodalaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Undalma gapning qaysi bo'lagi hisoblanadi?",
+   "variantlar": [
+    "Gap bo'lagi hisoblanmaydi",
+    "To'ldiruvchi",
+    "Kesim",
+    "Ega"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kirish so'zlar gapga qanday ma'no qo'shadi?",
+   "variantlar": [
+    "Kesimni to'ldiradi",
+    "Gap bo'lagi bo'lib, harakatni bildiradi",
+    "So'zlovchining fikrga munosabatini bildiradi",
+    "Egani aniqlaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ajratilgan bo'laklar gapda qanday ajratiladi?",
+   "variantlar": [
+    "Vergul yoki tire bilan",
+    "Faqat nuqta bilan",
+    "Ajratilmaydi",
+    "Qavs bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Undalma nutqda kimga yoki nimaga qarata aytiladi?",
+   "variantlar": [
+    "Kesimga",
+    "Murojaat qilinayotgan shaxs yoki narsaga",
+    "Ergash gapga",
+    "So'zlovchining o'ziga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Uyushiq bo'laklar gapning qaysi bo'lagi bo'lishi mumkin?",
+   "variantlar": [
+    "Faqat undalma",
+    "Ega, kesim, to'ldiruvchi, aniqlovchi, hol kabi istalgan bo'lak",
+    "Faqat ega",
+    "Faqat kesim"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Umumlashtiruvchi so'zdan keyin uyushiq bo'laklar kelsa, qanday tinish belgisi qo'yiladi?",
+   "variantlar": [
+    "Undov belgisi",
+    "Ikki nuqta",
+    "So'roq belgisi",
+    "Nuqtali vergul"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gapning bir xil so'roqqa javob bo'lgan, bir xil bo'lak vazifasini bajaruvchi bo'laklari nima deb ataladi?",
+   "variantlar": [
+    "Undalmalar",
+    "Ajratilgan bo'laklar",
+    "Uyushiq bo'laklar",
+    "Kirish so'zlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kirish so'zlar gap bo'lagi hisoblanadimi?",
+   "variantlar": [
+    "Ha, har doim ega hisoblanadi",
+    "Yo'q, gap bo'lagi hisoblanmaydi",
+    "Faqat she'rda gap bo'lagi hisoblanadi",
+    "Ha, har doim kesim hisoblanadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Hamma ham do'stlarini, yaqin kishilarini e'zozlaydi\" gapida qaysi bo'laklar uyushib kelgan?",
+   "variantlar": [
+    "Kesim",
+    "Aniqlovchi",
+    "To'ldiruvchi",
+    "Ega"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Fuzuliy, Bedil va Mashrab devonini yostiqlari ostiga qo'yib uxlaydilar\" gapida qaysi bo'lak uyushgan?",
+   "variantlar": [
+    "Hol",
+    "Kesim",
+    "Ega",
+    "Undalma"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Iste'dodli shoirlar: Suvon Soqiy, Ismoil To'xtamishev, Rustam Musurmon...\" gapida \"shoirlar\" so'zi qanday vazifani bajaryapti?",
+   "variantlar": [
+    "Kesim",
+    "Umumlashtiruvchi so'z",
+    "Undalma",
+    "Kirish so'z"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"O'zbekiston — ona diyor, bag'ri to'la hikmatdir\" gapida tire nima uchun qo'yilgan?",
+   "variantlar": [
+    "Ajratilgan izohlovchi bo'lakni ko'rsatish uchun",
+    "Kirish so'zni ajratish uchun",
+    "Uyushiq bo'laklarni ajratish uchun",
+    "Undalmani ajratish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Bu qasidam senga, xalqim,\" misrasida \"xalqim\" so'zi qanday bo'lak?",
+   "variantlar": [
+    "Ega",
+    "Kesim",
+    "Kirish so'z",
+    "Undalma"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Axir, oriyat o'zbekning vijdoni emasmi?\" gapida \"Axir\" so'zi qanday vazifada kelgan?",
+   "variantlar": [
+    "Undalma",
+    "Kirish so'z",
+    "Ega",
+    "Hol"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Komila, nihoyat, tavakkaliga bir qovunni uzdi\" gapida \"Komila\" va \"nihoyat\" so'zlari haqida qaysi fikr to'g'ri?",
+   "variantlar": [
+    "\"Komila\" – ega, \"nihoyat\" – kirish so'z",
+    "Ikkalasi ham kirish so'z",
+    "\"Komila\" – undalma, \"nihoyat\" – kirish so'z",
+    "Ikkalasi ham undalma"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Kamol, Kamoljon, uxlab qoldingmi?\" gapida \"Kamol, Kamoljon\" so'zlari qanday bo'lak?",
+   "variantlar": [
+    "Uyushiq egalar",
+    "Uyushiq kesimlar",
+    "Uyushiq undalmalar",
+    "Kirish so'zlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Yerning sohibi — dehqonning hech kimdan kami bo'lmaydi\" gapida tire qanday bo'lakni ajratib turibdi?",
+   "variantlar": [
+    "Kirish so'zni",
+    "Izohlovchi (ajratilgan) bo'lakni",
+    "Undalmani",
+    "Uyushiq kesimni"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Afsuski, hayotimizda o'zgarishlarga to'g'anoq bo'layotgan kimsalar hamon uchramoqda\" gapida \"Afsuski\" so'zi qaysi ma'noni ifodalab, kirish so'z bo'lib kelgan?",
+   "variantlar": [
+    "Achinish, afsuslanish ma'nosini",
+    "Taxmin ma'nosini",
+    "Ishonch ma'nosini",
+    "Tartib ma'nosini"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Xirmon sayli, qovun sayli, gul bayrami, Mehrjon bayrami, Navro'z shodiyonalari she'rsiz... o'tmagan\" gapida nechta uyushiq ega bor?",
+   "variantlar": [
+    "4 ta",
+    "3 ta",
+    "5 ta",
+    "6 ta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Endi sizlar — aziz onalar, opa-singillar, yurt egalari, kelajak sohiblari yo'lchi yulduz, mayoq singari istiqbolimizni yoriting\" gapida qanday sintaktik hodisalar birgalikda uchraydi?",
+   "variantlar": [
+    "Ham ajratilgan (izohlovchi) bo'lak, ham uyushiq bo'laklar",
+    "Faqat uyushiq bo'laklar",
+    "Faqat kirish so'z",
+    "Faqat undalma"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Insonni ehtiros emas, uning buyuk bisoti — aqli, tafakkuri boshqarishi kerak\" gapida \"aqli, tafakkuri\" so'zlari qaysi so'zga izoh beruvchi uyushiq bo'lak sifatida kelgan?",
+   "variantlar": [
+    "Kesimga izoh beruvchi hol",
+    "\"bisoti\" so'ziga izoh beruvchi uyushiq ega",
+    "\"ehtiros\" so'ziga izoh beruvchi uyushiq ega",
+    "Undalma vazifasida kelgan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Xalqaro savdo yo'li — Buyuk Ipak yo'li Temur va Temuriylar davrida juda serqatnov bo'lgan\" gapida tiredan keyingi qism va \"Temur va Temuriylar\" so'zlari qanday bo'lak?",
+   "variantlar": [
+    "Tiredan keyingi qism undalma, \"Temur va Temuriylar\" – kirish so'z",
+    "Tiredan keyingi qism kesim, \"Temur va Temuriylar\" – uyushiq ega",
+    "Tiredan keyingi qism ajratilgan izohlovchi, \"Temur va Temuriylar\" – uyushiq aniqlovchi",
+    "Ikkalasi ham uyushiq kesim"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Kuchli shovqin nafaqat katta yoshdagi kishilar, shuningdek, o'quvchilar faoliyatiga ham zarar keltiradi\" gapida \"nafaqat...shuningdek\" qanday bo'laklarni bog'lab kelmoqda?",
+   "variantlar": [
+    "Ajratilgan bo'lakni hosil qiluvchi vosita sifatida",
+    "Kirish so'z sifatida, uyushiq egalarni bog'lab",
+    "Uyushiq egalarni bog'lovchi vosita sifatida",
+    "Undalma sifatida, uyushiq kesimlarni bog'lab"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"O'zidan yaxshi xotirot qoldirgan inson o'lgandan keyin ham izzat-ikromga, xotirlab turishga loyiq\" gapida qaysi bo'laklar uyushgan va ular qaysi kesimga bog'langan?",
+   "variantlar": [
+    "Bu gapda uyushiq bo'lak yo'q",
+    "\"izzat-ikromga\" va \"xotirlab turishga\" – uyushiq egalar",
+    "\"izzat-ikromga\" va \"xotirlab turishga\" – uyushiq to'ldiruvchilar, \"loyiq\" kesimiga bog'langan",
+    "\"izzat-ikromga\" va \"xotirlab turishga\" – uyushiq holatlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Xalq ertangi kuni yaxshiroq bo'lishini istasa, birlashmog'i, uyushmog'i va haqiqat uchun kurashmog'i kerak\" gapida nechta uyushiq kesim (harakat nomi) qatnashgan?",
+   "variantlar": [
+    "5 ta",
+    "4 ta",
+    "2 ta",
+    "3 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Men sizlarni yaxshi ko'rib qoldim. Albatta, albatta, yana huzuringizga kelaman\" gapida \"Albatta, albatta\" so'zlarining takrorlanishi qanday ma'noni kuchaytiradi?",
+   "variantlar": [
+    "Achinish ma'nosini bildiruvchi undov",
+    "Ishonch, qat'iyat ma'nosini kuchaytiruvchi kirish so'z",
+    "Taxmin ma'nosini bildiruvchi undalma",
+    "Tartib ma'nosini bildiruvchi bog'lovchi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Ular o'zlarining eng nodir asarlarida do'stlikni, insonparvarlikni, mehr-muhabbatni ulug'laganlar\" gapida uyushiq to'ldiruvchilar nechta va ular qanday kelishikda turibdi?",
+   "variantlar": [
+    "4 ta, jo'nalish kelishigida",
+    "3 ta, tushum kelishigida",
+    "3 ta, chiqish kelishigida",
+    "2 ta, qaratqich kelishigida"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Yigit-qizlarimiz O'zbekistonning, insoniyatning bolasi bo'lsa, hamma faxrlanadi\" gapida \"O'zbekistonning, insoniyatning\" so'zlari qaysi so'zni aniqlovchi uyushiq bo'lak sifatida kelgan?",
+   "variantlar": [
+    "\"Yigit-qizlarimiz\" so'zini aniqlovchi uyushiq egalar",
+    "\"faxrlanadi\" so'ziga bog'langan uyushiq holatlar",
+    "\"bolasi\" so'zini aniqlovchi uyushiq aniqlovchilar",
+    "Undalma vazifasida kelgan so'zlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

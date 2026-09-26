@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Iqtisodiy bilim asoslari",
+ "mavzu": "Davlatning iqtisodiyotdagi roli",
+ "savollar": [
+  {
+   "savol": "Davlatning budjet-soliq siyosati boshqacha qanday nomlanadi?",
+   "variantlar": [
+    "Emissiya siyosati",
+    "Fiskal siyosat",
+    "Kredit siyosati",
+    "Zaxira siyosati"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Davlatning pul-kredit siyosati boshqacha qanday nomlanadi?",
+   "variantlar": [
+    "Fiskal siyosat",
+    "Budjet siyosati",
+    "Transfert siyosati",
+    "Monetar siyosat"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yalpi talab tushunchasi qanday ta'riflanadi?",
+   "variantlar": [
+    "Muomaladagi pul mablag'lari yig'indisi",
+    "Mamlakatda ma'lum vaqt davomida sotib olinishiga ehtiyoj va imkoniyat bo'lgan tovar va xizmatlarning umumiy qiymati",
+    "Mamlakatda ishlab chiqarilishi mumkin bo'lgan tovarlar qiymati",
+    "Davlat budjetining daromad qismi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yalpi taklif deganda nima tushuniladi?",
+   "variantlar": [
+    "Davlat xarajatlarining umumiy miqdori",
+    "Mamlakatda ma'lum vaqt davomida ishlab chiqarilishi va bozorga chiqarilishi imkoniyati bo'lgan tovar va xizmatlarning umumiy qiymati",
+    "Aholining pul mablag'lari yig'indisi",
+    "Soliq stavkasining o'zgarishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Pul massasi nima?",
+   "variantlar": [
+    "Markaziy bankning foiz stavkasi",
+    "Mamlakatdagi muomalada bo'lgan jami pul mablag'lari yig'indisi",
+    "Davlat budjetining kamomadi",
+    "Tijorat banklarining zaxira mablag'i"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Pul emissiyasi deganda nima tushuniladi?",
+   "variantlar": [
+    "Chet eldan qarz olish",
+    "Soliq to'lash jarayoni",
+    "Davlat tomonidan muomalaga pul chiqarish",
+    "Aholiga transfert to'lash"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qog'oz pul va tanga ko'rinishidagi naqd pullarni faqat kim chiqaradi va tarqatadi?",
+   "variantlar": [
+    "Tijorat banklari",
+    "Davlat budjeti",
+    "Markaziy bank",
+    "Xalqaro moliyaviy tashkilotlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bankning zaxira normasi nima?",
+   "variantlar": [
+    "Bankning umumiy foydasi",
+    "Davlat budjetining xarajat qismi",
+    "Markaziy bank tomonidan belgilanadigan, bank zaxira mablag'ining jami mablag'iga nisbatan foiz miqdori",
+    "Tijorat bankining ustav kapitali"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Davlat budjetining daromad qismi asosan nimadan tashkil topadi?",
+   "variantlar": [
+    "Soliqlardan",
+    "Transfert to'lovlaridan",
+    "Chet el qarzlaridan",
+    "Pul emissiyasidan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Davlat budjetining xarajat qismi asosan nimalardan iborat?",
+   "variantlar": [
+    "Faqat yig'ib olingan soliqlardan",
+    "Davlat ehtiyojlari uchun tovar va xizmatlar sotib olish xarajatlari hamda aholiga to'lanadigan transfert xarajatlaridan",
+    "Faqat xorijiy qarzlardan",
+    "Faqat pul emissiyasidan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar davlat soliq stavkasini oshirsa, aholi va firmalar ixtiyoridagi pul mablag'lari qanday o'zgaradi?",
+   "variantlar": [
+    "Oshadi",
+    "O'zgarmaydi",
+    "Avval oshib, keyin kamayadi",
+    "Kamayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Soliqlar kamaytirilganda tovar va xizmatlarga bo'lgan yalpi talab qanday o'zgaradi?",
+   "variantlar": [
+    "Avval kamayib, keyin oshadi",
+    "O'zgarmaydi",
+    "Kamayadi",
+    "Oshadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Davlat soliqlarga tegmasdan o'z xarajatlarini oshirsa, yalpi talab qanday o'zgaradi?",
+   "variantlar": [
+    "Nolga tushadi",
+    "Oshadi",
+    "Kamayadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Soliqlar o'zgarishsiz qolib, davlat xarajatlari kamaytirilsa, ishlab chiqarish hajmi qanday bo'ladi?",
+   "variantlar": [
+    "Keskin barqarorlashadi",
+    "O'zgarmaydi",
+    "Oshadi",
+    "Kamayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Davlat budjeti kamomadining normal miqdori yalpi mahsulotning necha foizini tashkil qilishi kerak?",
+   "variantlar": [
+    "10-12 foiz",
+    "1 foizdan kam",
+    "2-3 foiz",
+    "5-6 foiz"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Markaziy bank tijorat banklariga beradigan qarz foiz stavkasini oshirsa, muomaladagi pul miqdori qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Kamayadi",
+    "Ikki barobar oshadi",
+    "Oshadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Markaziy bank zaxira normasini oshirsa, tijorat banklarining kreditga bera oladigan mablag'i qanday o'zgaradi?",
+   "variantlar": [
+    "Ikki barobar ko'payadi",
+    "Oshadi",
+    "O'zgarmaydi",
+    "Kamayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Markaziy bank zaxira normasini kamaytirsa, muomalaga chiqariladigan pul miqdori qanday bo'ladi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Ko'payadi",
+    "To'liq to'xtaydi",
+    "Kamayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Davlat budjeti kamomadini kamaytirish yo'llaridan biri sifatida quyidagilardan qaysi biri to'g'ri?",
+   "variantlar": [
+    "Transfert to'lovlarini cheksiz oshirish",
+    "Pul emissiyasini butunlay to'xtatish",
+    "Barcha soliqlarni bekor qilish",
+    "Qo'shimcha daromad manbalarini topish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tijorat banklari markaziy bankdan olgan pulni o'z mijozlariga qanday shartda qarzga beradi?",
+   "variantlar": [
+    "Markaziy bankdan olganidan yuqoriroq foiz stavkasida",
+    "Faqat naqd pul shaklida",
+    "Markaziy bankdan olganidan pastroq foizda",
+    "Bepul"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Davlat soliq stavkasini oshirganda, bu qaysi ketma-ketlik bilan aholining ish bilan ta'minlanganlik darajasiga ta'sir qiladi?",
+   "variantlar": [
+    "Soliq oshadi -> talab oshadi -> ishlab chiqarish oshadi -> bandlik oshadi",
+    "Soliq oshadi -> pul ko'payadi -> talab oshadi -> bandlik oshadi",
+    "Soliq oshadi -> narxlar tushadi -> bandlik o'zgarmaydi",
+    "Soliq oshadi -> pul kamayadi -> talab kamayadi -> ishlab chiqarish kamayadi -> bandlik pasayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Davlat soliqqa tegmasdan xarajatlarini oshirsa, bu nima uchun inflatsiya darajasining oshishiga olib kelishi mumkin?",
+   "variantlar": [
+    "Chunki soliqlar shu bilan birga kamayadi",
+    "Chunki yalpi talab oshib, ishlab chiqarish bu talabga to'liq ulgurmasligi mumkin",
+    "Chunki bank zaxiralari kamayadi",
+    "Chunki pul emissiyasi to'xtaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Markaziy bank inflatsiyaning oldini olish uchun quyidagi choralardan qaysi biri mantiqan to'g'ri?",
+   "variantlar": [
+    "Foiz stavkasini oshirish va zaxira normasini oshirish",
+    "Foiz stavkasini kamaytirish va zaxira normasini kamaytirish",
+    "Davlat xarajatlarini oshirish",
+    "Faqat pul emissiyasini ko'paytirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tadbirkorlik faolligini oshirish maqsadida markaziy bank qanday ketma-ket chora ko'rishi mantiqiy to'g'ri hisoblanadi?",
+   "variantlar": [
+    "Foiz stavkasini oshirish -> qarz olish qimmatlashadi -> faollik pasayadi",
+    "Soliqlarni oshirish -> talab oshadi -> faollik oshadi",
+    "Foiz stavkasini kamaytirish -> qarz olish arzonlashadi -> mablag' ko'payadi -> faollik oshadi",
+    "Zaxira normasini oshirish -> pul ko'payadi -> faollik oshadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Budjet kamomadini tovar va xizmatlar bilan ta'minlanmagan pul chiqarish orqali qoplash nima uchun xavfli hisoblanadi?",
+   "variantlar": [
+    "Chunki bu usul faqat chet elda qo'llaniladi",
+    "Chunki bu usul davlat budjetini kamaytiradi",
+    "Chunki bu usulda soliqlar avtomatik oshadi",
+    "Chunki muomaladagi pul ko'payib, lekin tovar taklifi o'zgarmagani uchun inflatsiya kuchayishi mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki pog'onali bank tizimida markaziy bank va tijorat banklarining o'zaro munosabati qanday tavsiflanadi?",
+   "variantlar": [
+    "Ikkalasi ham teng huquqda pul chiqaradi",
+    "Tijorat banklari pul chiqaradi, markaziy bank uni tarqatadi",
+    "Markaziy bank faqat nazorat qiladi, pul umuman chiqarmaydi",
+    "Markaziy bank pulni chiqaradi, tijorat banklari uni yuqoriroq foizda mijozlarga qarzga beradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar davlat bir vaqtning o'zida ham soliqlarni kamaytirsa, ham davlat xarajatlarini oshirsa, yalpi talabga umumiy ta'siri qanday bo'ladi?",
+   "variantlar": [
+    "Faqat soliq ta'sir qiladi, xarajat ta'sir qilmaydi",
+    "Yalpi talabga hech qanday ta'sir ko'rsatmaydi",
+    "Yalpi talab ikki tomondan ham kamayadi",
+    "Yalpi talab ikki tomondan ham oshib, kuchliroq o'sish yuz beradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Davlat xarajatlarini kamaytirish orqali budjet kamomadini kamaytirish siyosati nimaga olib kelishi mumkin?",
+   "variantlar": [
+    "Yalpi talab va bandlik darajasining oshishiga",
+    "Yalpi talab kamayib, ishlab chiqarish va bandlik darajasining pasayishiga",
+    "Faqat soliqlarning oshishiga",
+    "Inflatsiyaning keskin oshishiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Markaziy bank zaxira normasini pasaytirganda yuzaga keladigan zanjirli oqibatni to'g'ri tartibda ko'rsating.",
+   "variantlar": [
+    "Zaxira normasi pasayadi -> inflatsiya darhol butunlay yo'qoladi",
+    "Zaxira normasi pasayadi -> kredit mablag'i ko'payadi -> muomaladagi pul ko'payadi",
+    "Zaxira normasi pasayadi -> kredit mablag'i kamayadi -> pul kamayadi",
+    "Zaxira normasi pasayadi -> soliqlar oshadi -> talab kamayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Davlat nima uchun ko'pincha bir vaqtning o'zida ham soliq stavkasini, ham davlat xarajatlarini o'zgartirish orqali iqtisodiyotni barqarorlashtirishga harakat qiladi?",
+   "variantlar": [
+    "Chunki bitta vositaning o'zi yetarli emas va ikkala vosita birgalikda yalpi talabga kuchliroq va moslashuvchan ta'sir ko'rsatadi",
+    "Chunki davlat xarajatlarini o'zgartirish umuman mumkin emas",
+    "Chunki bu ikki vosita bir-biriga bog'liq emas",
+    "Chunki soliqlarni o'zgartirish qonun bilan taqiqlangan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

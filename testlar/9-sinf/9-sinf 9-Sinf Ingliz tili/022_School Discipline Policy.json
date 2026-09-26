@@ -1,0 +1,326 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Ingliz tili",
+ "mavzu": "School Discipline Policy",
+ "savollar": [
+  {
+   "savol": "\"Bully\" fe'lidan yasalgan ot qaysi?",
+   "variantlar": [
+    "expulsion",
+    "permission",
+    "detention",
+    "bullying"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Detain\" fe'lidan yasalgan ot qaysi?",
+   "variantlar": [
+    "maintenance",
+    "detention",
+    "truancy",
+    "tolerance"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Exclude\" fe'lidan yasalgan ot qaysi?",
+   "variantlar": [
+    "exclusion",
+    "punishment",
+    "permission",
+    "bullying"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Expel\" fe'lidan yasalgan ot qaysi?",
+   "variantlar": [
+    "detention",
+    "tolerance",
+    "truancy",
+    "expulsion"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Maintain\" fe'lidan yasalgan ot qaysi?",
+   "variantlar": [
+    "exclusion",
+    "punishment",
+    "bullying",
+    "maintenance"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Punish\" fe'lidan yasalgan ot qaysi?",
+   "variantlar": [
+    "punishment",
+    "permission",
+    "tolerance",
+    "detention"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Permit\" fe'lidan yasalgan ot qaysi?",
+   "variantlar": [
+    "truancy",
+    "maintenance",
+    "expulsion",
+    "permission"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Tolerate\" fe'lidan yasalgan ot qaysi?",
+   "variantlar": [
+    "exclusion",
+    "bullying",
+    "tolerance",
+    "punishment"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda qaysi maktabning intizom siyosati haqida so'z boradi?",
+   "variantlar": [
+    "Central School",
+    "Riverside School",
+    "Green Valley School",
+    "Estover School"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, maktabda nima \"tolerated\" (chidab bo'lmaydigan) hisoblanadi?",
+   "variantlar": [
+    "Bullying",
+    "Late homework",
+    "Truancy",
+    "Bad marks"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, maktab qoidalarining nusxasi kimga beriladi?",
+   "variantlar": [
+    "Faqat o'qituvchilarga",
+    "Ota-onalarga",
+    "Faqat o'quvchilarga",
+    "Maktab ma'muriyatiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, agar masala jiddiy bo'lsa, o'quvchi kim bilan ko'rishishi kerak?",
+   "variantlar": [
+    "Head Teacher bilan",
+    "Ota-onasi bilan",
+    "Boshqa o'qituvchi bilan",
+    "Sinf rahbari bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, intizomni saqlash (maintain) uchun kimlar mas'ul?",
+   "variantlar": [
+    "O'qituvchilar va o'quvchilar",
+    "Faqat Head Teacher",
+    "Faqat o'quvchilar",
+    "Faqat o'qituvchilar"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, sinf rahbari (form teacher) qanday yordam beradi?",
+   "variantlar": [
+    "Faqat transport bo'yicha",
+    "Faqat sport bo'yicha",
+    "Shaxsiy muammolar va imtihonlar bo'yicha maslahat",
+    "Faqat ovqatlanish bo'yicha"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, takrorlanuvchi truancy (darsga kelmaslik) nimaga olib kelishi mumkin?",
+   "variantlar": [
+    "Bepul ovqatga",
+    "Qo'shimcha bahoga",
+    "Yangi darsliklarga",
+    "Maktabdan chetlatilishga (exclusion)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, bullying bo'yicha alohida siyosat qayerda joylashgan?",
+   "variantlar": [
+    "Information pack ning orqasida",
+    "Matnning boshida",
+    "Head Teacherning xonasida",
+    "Sinf devorida"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, yomon xulq nimaga ta'sir qiladi?",
+   "variantlar": [
+    "Faqat o'zining bahosiga",
+    "Maktab binosiga",
+    "Boshqa o'quvchilarning ta'limiga",
+    "Faqat ota-onasiga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, maktab siyosatining asosiy maqsadi nima?",
+   "variantlar": [
+    "Faqat baho qo'yish",
+    "Faqat jazolash",
+    "Yaxshi xulqni rag'batlantirish",
+    "Faqat imtihon o'tkazish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, barcha o'qituvchilar nima uchun o'qitilgan (trained)?",
+   "variantlar": [
+    "O'quvchilarning xulqini yaxshilashga yordam berish uchun",
+    "Faqat fanni o'qitish uchun",
+    "Faqat imtihon tayyorlash uchun",
+    "Faqat sport mashg'ulotlari uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, qoida buzgan o'quvchilarga o'qituvchilar nima qiladi?",
+   "variantlar": [
+    "Ularni jazolaydi (punish)",
+    "Ularni e'tiborsiz qoldiradi",
+    "Ularni maqtaydi",
+    "Ularga sovg'a beradi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnda \"encourage good behaviour\" va \"punish pupils\" iboralari birga ishlatilishi maktab siyosatining qanday xususiyatini ko'rsatadi?",
+   "variantlar": [
+    "Faqat mukofotlash siyosati",
+    "Hech qanday intizom yo'q",
+    "Ikki tomonlama yondashuv: rag'batlantirish va jazolash",
+    "Faqat qattiq jazo siyosati"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Bullying is not tolerated\" jumlasidagi \"tolerate\" so'zi \"tolerance\" oti bilan qanday bog'liq?",
+   "variantlar": [
+    "Maktabda bullyingga nisbatan tolerance (chidamlilik) yo'qligini bildiradi",
+    "Tolerance faqat o'quvchilarga tegishli",
+    "Bu so'zlar bir-biriga aloqasi yo'q",
+    "Maktabda bullying rag'batlantiriladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Form teacher va Head Teacher vazifalarini solishtirsak, asosiy farq nimada?",
+   "variantlar": [
+    "Head Teacher faqat sport bilan shug'ullanadi",
+    "Form teacher faqat imtihon o'tkazadi",
+    "Form teacher kundalik yordam beradi, Head Teacher jiddiy holatlarda ishtirok etadi",
+    "Ikkisi bir xil vazifani bajaradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndan xulosa qilganda, bullying uchun nega alohida siyosat (separate policy) tuzilgan?",
+   "variantlar": [
+    "Chunki bu faqat rasmiyatchilik",
+    "Chunki bullying jiddiy masala va alohida e'tibor talab qiladi",
+    "Chunki bu qonun talabi emas",
+    "Chunki bullying muhim emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"We expect a high standard of behaviour ... at all times\" iborasi nimani anglatadi?",
+   "variantlar": [
+    "Faqat imtihon vaqtida yaxshi xulq kerak",
+    "Xulq faqat bir marta tekshiriladi",
+    "Har doim, istisnosiz yaxshi xulq talab qilinadi",
+    "Faqat tanaffus vaqtida xulq nazorat qilinadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndan xulosa qilganda, ota-onalar va maktab o'rtasidagi hamkorlik qanday amalga oshiriladi?",
+   "variantlar": [
+    "Bu hamkorlik matnda yo'q",
+    "Ota-onalar maktabga kelmasligi kerak",
+    "Ota-onalarga maktab qoidalari nusxasi berish orqali",
+    "Faqat telefon orqali"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Teachers and pupils are responsible for maintaining discipline\" jumlasi qanday mas'uliyatni bildiradi?",
+   "variantlar": [
+    "Faqat o'qituvchilarning mas'uliyati",
+    "Faqat Head Teacherning mas'uliyati",
+    "O'qituvchi va o'quvchilarning birgalikdagi mas'uliyati",
+    "Faqat o'quvchilarning mas'uliyati"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi uch xil intizombuzarlik (yomon xulq, bullying, truancy) ichida qaysi biri aniq eng og'ir oqibatga (exclusion) olib kelishi ko'rsatilgan?",
+   "variantlar": [
+    "Bullying",
+    "Truancy",
+    "Yomon xulq",
+    "Hech biri"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matn mazmunidan umumiy xulosa qilsak, maktabning asosiy tamoyili qanday ta'riflanadi?",
+   "variantlar": [
+    "Hech qanday qoida yo'qligi",
+    "Faqat jazo orqali intizom o'rnatish",
+    "Faqat ota-onalar javobgar bo'lishi",
+    "Yaxshi xulqni rag'batlantirish, lekin zarur bo'lsa jazolash"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

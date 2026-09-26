@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Informatika",
+ "mavzu": "32-dars. Nazorat ishi",
+ "savollar": [
+  {
+   "savol": "Python dasturlash tilida qo'shish amali qanday belgi bilan ifodalanadi?",
+   "variantlar": [
+    "+",
+    "*",
+    "/",
+    "-"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Python dasturlash tilida ayirish amali qanday belgi bilan ifodalanadi?",
+   "variantlar": [
+    "*",
+    "-",
+    "+",
+    "/"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Python dasturlash tilida ko'paytirish amali qanday belgi bilan ifodalanadi?",
+   "variantlar": [
+    "/",
+    "*",
+    "+",
+    "-"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Python dasturlash tilida bo'lish amali qanday belgi bilan ifodalanadi?",
+   "variantlar": [
+    "*",
+    "+",
+    "/",
+    "-"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bo'linmaning butun qiymatini hisoblash uchun qanday amaldan foydalaniladi?",
+   "variantlar": [
+    "**",
+    "//",
+    "/",
+    "%"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bo'linmaning qoldig'ini hisoblash uchun qanday amaldan foydalaniladi?",
+   "variantlar": [
+    "**",
+    "/",
+    "//",
+    "%"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sonni darajaga ko'tarish uchun Pythonda qanday amal ishlatiladi?",
+   "variantlar": [
+    "//",
+    "**",
+    "%%",
+    "^"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'zgaruvchini belgilangan miqdorga oshirish (increment) uchun qanday amal belgisidan foydalaniladi?",
+   "variantlar": [
+    "*=",
+    "/=",
+    "+=",
+    "-="
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Satr uzunligini aniqlash uchun qanday funksiyadan foydalaniladi?",
+   "variantlar": [
+    "size()",
+    "length()",
+    "count()",
+    "len()"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Pythonda satrdagi belgilarni raqamlash (indekslash) nechadan boshlanadi?",
+   "variantlar": [
+    "2",
+    "-1",
+    "1",
+    "0"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "print(7/5) buyrug'ining natijasi nechaga teng?",
+   "variantlar": [
+    "1.2",
+    "1.4",
+    "2",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "print(7//5) buyrug'ining natijasi nechaga teng?",
+   "variantlar": [
+    "2",
+    "0",
+    "1.4",
+    "1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "print(7%5) buyrug'ining natijasi nechaga teng?",
+   "variantlar": [
+    "5",
+    "0",
+    "2",
+    "1"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "print(5**2) buyrug'ining natijasi nechaga teng?",
+   "variantlar": [
+    "25",
+    "7",
+    "10",
+    "52"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x=4 bo'lganda x+=1 amali bajarilgach, x ning yangi qiymati nechaga teng bo'ladi?",
+   "variantlar": [
+    "4",
+    "5",
+    "3",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x=8 bo'lganda x*=2 amali bajarilgach, x ning yangi qiymati nechaga teng bo'ladi?",
+   "variantlar": [
+    "8",
+    "10",
+    "16",
+    "4"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "len('Bahor!') buyrug'ining natijasi nechaga teng?",
+   "variantlar": [
+    "7",
+    "6",
+    "4",
+    "5"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a=\"O'ZBEKISTON\" satrida a[4] indeksidagi belgi qaysi?",
+   "variantlar": [
+    "E",
+    "B",
+    "Z",
+    "K"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a=\"O'ZBEKISTON\" satrida a[3:6] amali natijasida qanday qism satr hosil bo'ladi?",
+   "variantlar": [
+    "BEK",
+    "ZBE",
+    "EKI",
+    "BEKI"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "print('Hi'*3) buyrug'i bajarilganda 'Hi' so'zi ekranga necha marta chiqadi?",
+   "variantlar": [
+    "1",
+    "2",
+    "4",
+    "3"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "To'rt xonali son x=4568 berilgan. a=x//1000, b=x%10, c=a*b bo'lsa, c ning qiymati nechaga teng?",
+   "variantlar": [
+    "8",
+    "32",
+    "40",
+    "4"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Arqon uzunligi a=12325458 mm berilgan. Kilometrni topish uchun b=a//1000000 formulasi qo'llanilsa, b nechaga teng bo'ladi?",
+   "variantlar": [
+    "1232",
+    "12",
+    "325458",
+    "13"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "12325458 mm arqon uzunligidan km ayirilgach qolgan qism 325458 ga teng bo'ladi. Shu qismdan metrni topish uchun c=325458//1000 hisoblansa, c nechaga teng bo'ladi?",
+   "variantlar": [
+    "325",
+    "458",
+    "45",
+    "12"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "10288 sekundni soatga aylantirishda b=10288//3600 amali qo'llanilsa, natija nechaga teng bo'ladi?",
+   "variantlar": [
+    "51",
+    "2",
+    "28",
+    "3"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "10288 sekunddan 2 to'liq soat ayirilgach qolgan qism 3088 sekundga teng bo'ladi. Shu qismdan minutni topish uchun 3088//60 hisoblansa, natija nechaga teng bo'ladi?",
+   "variantlar": [
+    "3088",
+    "51",
+    "28",
+    "2"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a=\"O'ZBEKISTON\" satrida a[3:10:3] amali bajarilsa, qanday qism satr hosil bo'ladi?",
+   "variantlar": [
+    "ISTON",
+    "BIO",
+    "OZB",
+    "BEK"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a=8, b=5, c=9 berilgan. a-=b; a*=c; a+=(b*c+b) amallari ketma-ket bajarilsa, a ning yakuniy qiymati nechaga teng bo'ladi?",
+   "variantlar": [
+    "72",
+    "50",
+    "77",
+    "27"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hovuzning bo'yi 6 m, eni 4 m, chuqurligi 3 m. Hovuzni to'liq suvga to'ldirish uchun necha litr suv kerak bo'ladi (1 m3=1000 litr)?",
+   "variantlar": [
+    "720",
+    "72000",
+    "72",
+    "7200"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a=8, b=9 berilgan. Ularning yig'indisi d=17 va ko'paytmasi c=72 hisoblangan. Ushbu ikki natijaning oxirgi raqamlari ko'paytmasi (S) nechaga teng bo'ladi?",
+   "variantlar": [
+    "72",
+    "9",
+    "14",
+    "17"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a=\"O'ZBEKISTON\" satrining uzunligi len(a)=11 ga teng. Shu ma'lumotga asoslanib, satrdagi oxirgi belgining indeksini aniqlang.",
+   "variantlar": [
+    "9",
+    "12",
+    "11",
+    "10"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

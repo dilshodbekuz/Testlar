@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Ona tili",
+ "mavzu": "Ko'chirma va o'zlashtirma gaplar",
+ "savollar": [
+  {
+   "savol": "Ko'chirma gap nima?",
+   "variantlar": [
+    "Faqat savol shaklidagi gap",
+    "O'zganing gapi mazmuni saqlanib, shakli o'zgartiriladi",
+    "So'zlovchining o'z fikri ifodalangan gap",
+    "O'zganing gapi hech o'zgarishsiz nutqqa olib kiriladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'zlashtirma gap nima?",
+   "variantlar": [
+    "O'zganing gapi aynan keltiriladi",
+    "Kirish so'z bilan boshlangan gap",
+    "O'zganing gapi mazmuni saqlanib, shakli o'zgartirilgan holda beriladi",
+    "Ikki kishi orasidagi dialog"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, o'zganing gapidan necha xil yo'l bilan foydalaniladi?",
+   "variantlar": [
+    "To'rt xil",
+    "Bir xil",
+    "Uch xil",
+    "Ikki xil"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'chirma gapda o'zganing gapi qanday beriladi?",
+   "variantlar": [
+    "Boshqa shaxs nomidan",
+    "Qisqartirilib",
+    "Hech o'zgarishsiz, tayyor holda",
+    "Ma'nosi o'zgartirilib"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'zlashtirma gapda o'zganing gapi qanday beriladi?",
+   "variantlar": [
+    "Aynan, o'zgarishsiz",
+    "Faqat buyruq shaklida",
+    "Faqat savol shaklida",
+    "Mazmuni saqlanib, shakli o'zgartirilib"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'chirma va o'zlashtirma gap orasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Gapning uzunligida",
+    "O'zganing gapi shaklining saqlanishi yoki o'zgarishida",
+    "Gapning kesimida",
+    "Gap egasining sonida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, so'zlovchi nutq jarayonida nima haqida bayon qiladi?",
+   "variantlar": [
+    "Faqat o'zi kuzatgan voqealar haqida",
+    "O'zi bilgan va o'zgalardan eshitgan voqea-hodisalar haqida",
+    "Faqat adabiy asarlar haqida",
+    "Faqat kelajak haqida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda \"o'zganing gapi\" deb nimaga aytiladi?",
+   "variantlar": [
+    "So'zlovchining o'z fikriga",
+    "Boshqa odam tomonidan aytilgan yoki yozilgan gapga",
+    "Yozma nutqqa",
+    "Savol gapga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matn bo'yicha, so'zlovchi nima uchun buyuk shaxslarning gaplarini aynan keltiradi?",
+   "variantlar": [
+    "Grammatik qoidani buzish uchun",
+    "O'z fikrini dalillash uchun",
+    "Gapni cho'zish uchun",
+    "Savol berish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra qachon o'zganing gapi ko'chirma gap deyiladi?",
+   "variantlar": [
+    "Savol shaklida bo'lganda",
+    "Hech o'zgarishsiz nutqqa olib kirilganda",
+    "Qisqartirilganda",
+    "Mazmuni o'zgartirilganda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Amakim bizga uqtirdi: «Bir-biringiz bilan ahil bo'linglar!»\" gapi qaysi turga kiradi?",
+   "variantlar": [
+    "O'zlashtirma gap",
+    "Sodda gap",
+    "Undov gap",
+    "Ko'chirma gap"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"O. Hojiyeva xalqni og'ir sinovlar, mashaqqatlar jipslashtirishini yozadi\" gapi qaysi turga kiradi?",
+   "variantlar": [
+    "Ko'chirma gap",
+    "Undalmali gap",
+    "Bog'lovchisiz qo'shma gap",
+    "O'zlashtirma gap"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Bir donishmand nasihatni olmaydigan odamning baxtsiz odam ekanligini ta'kidlagan edi\" gapi qaysi turga kiradi?",
+   "variantlar": [
+    "O'zlashtirma gap",
+    "Undov gap",
+    "Sodda yig'iq gap",
+    "Ko'chirma gap"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Xurramiy deydi: «Chiroyli xulq bilan inson insondir»\" gapi qaysi turga kiradi?",
+   "variantlar": [
+    "O'zlashtirma gap",
+    "Ko'chirma gap",
+    "Kirish gap",
+    "Ajratilgan bo'lak"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Bobom shirinso'zlik va muloyimlik har qanday baloni qaytarishga qodirligini aytdi\" gapi qaysi turga kiradi?",
+   "variantlar": [
+    "Undalmali gap",
+    "Ko'chirma gap",
+    "O'zlashtirma gap",
+    "Kesimli gap"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Hadislarda yaxshi xulqdan boshqa oliy nasab yo'qligi haqida aytib o'tilgan\" gapi qaysi turga kiradi?",
+   "variantlar": [
+    "Ko'chirma gap",
+    "Sodda gap",
+    "Qo'shma gap turi belgisiz",
+    "O'zlashtirma gap"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Abdulla Qahhorning \"Odamzod hasad qilmasligi kerak...\" gapi matnda qanday keltirilgan?",
+   "variantlar": [
+    "Sarlavha sifatida",
+    "O'zlashtirma gap sifatida",
+    "Ko'chirma gap sifatida, qo'shtirnoq bilan",
+    "Ergash gap sifatida"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "G'afur G'ulomning Erkin Vohidov haqidagi \"mudragan aruzni uyg'otib yuborganini...gapirdi\" gapi qaysi turga kiradi?",
+   "variantlar": [
+    "Kirish so'zli gap",
+    "O'zlashtirma gap",
+    "Ko'chirma gap",
+    "Undov gap"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "200-mashqdagi matnda \"—Kimniki? —Topib oldim, — dedim.\" qismi qaysi gap turiga misol?",
+   "variantlar": [
+    "O'zlashtirma gap",
+    "Ergash gap",
+    "Ko'chirma gap (dialog shaklida)",
+    "Kirish gap"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Yaxshi fe'l bilan kishilar ko'nglini olib... yasha», — deydi Ahmad Yugnakiy\" gapi qaysi turga kiradi?",
+   "variantlar": [
+    "Ajratilgan bo'lak",
+    "Ko'chirma gap",
+    "Undalma",
+    "O'zlashtirma gap"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ko'chirma gapni o'zlashtirma gapga aylantirishda nima o'zgaradi?",
+   "variantlar": [
+    "Faqat gap uzunligi",
+    "Gapning shakli, kishilik olmoshlari va fe'l shakli",
+    "Hech narsa o'zgarmaydi",
+    "Faqat tinish belgilari"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Amakim bizga uqtirdi: «Bir-biringiz bilan ahil bo'linglar!»\" gapini o'zlashtirma gapga aylantirsak, qaysi variant to'g'ri?",
+   "variantlar": [
+    "Bizning amakimiz ahil bo'lishni so'radi u bizdan.",
+    "Amakim bizga ahil bo'lishimizni uqtirdi.",
+    "Amakim: «Ahil bo'linglar» — deb aytdi.",
+    "Amakim bizga «Bir-biringiz bilan ahil bo'linglar!» dedi."
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matn mazmuniga ko'ra, ko'chirma gap nima uchun \"aynan\" hisoblanadi?",
+   "variantlar": [
+    "Chunki u faqat savol shaklida bo'ladi",
+    "Chunki u qisqartirilgan holda beriladi",
+    "Chunki o'zganing gapi hech qanday o'zgarishsiz, so'zma-so'z keltiriladi",
+    "Chunki u boshqa tilda beriladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "198-mashqdagi to'rtta gapdan nechtasi ko'chirma gapli qo'shma gap hisoblanadi?",
+   "variantlar": [
+    "To'rttasi ham",
+    "Bitta",
+    "Uchta",
+    "Ikkita"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ko'chirma gapdan o'zlashtirma gapga aylantirishda kishilik olmoshi qanday o'zgaradi?",
+   "variantlar": [
+    "Hech qanday o'zgarish bo'lmaydi",
+    "Doim ko'plikka o'tadi",
+    "Doim birlikka o'tadi",
+    "I shaxsdan III shaxsga o'zgaradi (kerak bo'lganda)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga ko'ra, so'zlovchi o'zganing gapidan qanday ikki maqsadda foydalanishi mumkin?",
+   "variantlar": [
+    "Faqat she'r yozish uchun",
+    "Faqat savol berish uchun",
+    "Faqat hazil qilish uchun",
+    "Fikrni dalillash va shaxs xarakterini ochish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "200-mashqdagi \"—Topib oldim, — dedim\" gapi nima uchun ko'chirma gap hisoblanadi?",
+   "variantlar": [
+    "Chunki u kirish so'z bilan boshlangan",
+    "Chunki bola so'zi tire va dedim so'zi bilan aynan, o'zgarishsiz berilgan",
+    "Chunki u so'roq gap",
+    "Chunki u undov gap"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ko'chirma gapni o'zlashtirma gapga aylantirganda qo'shiladigan -ligini/-ini kabi qo'shimchalar qanday vazifa bajaradi?",
+   "variantlar": [
+    "Hech qanday vazifa bajarmaydi",
+    "Gapni ko'chirma gapga aylantiradi",
+    "O'zganing gapini ergashtirilgan holga keltirib, bosh gapga bog'laydi",
+    "Faqat kelishik qo'shimchasi vazifasini bajaradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matn bo'yicha, ikki xil o'zganing gapidan foydalanish usuli orasidagi asosiy tafovut nimada?",
+   "variantlar": [
+    "Birida faqat savol, ikkinchisida faqat buyruq bo'ladi",
+    "Ular orasida farq yo'q",
+    "Birida shakl saqlanadi, ikkinchisida faqat mazmun saqlanadi",
+    "Birida ovoz balandligi o'zgaradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Dadam ovqatdan keyin qoziqni ko'rib qoldi\" dan keyingi \"—Kimniki? —Topib oldim...\" qismi qaysi gap turiga misol va nima uchun?",
+   "variantlar": [
+    "Kirish gap, chunki matnni boshlab beradi",
+    "Ergash gap, chunki bog'lovchi bor",
+    "O'zlashtirma gap, chunki mazmuni o'zgartirilgan",
+    "Ko'chirma gap, chunki suhbatdoshlarning so'zlari aynan, o'zgarishsiz, tire bilan berilgan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

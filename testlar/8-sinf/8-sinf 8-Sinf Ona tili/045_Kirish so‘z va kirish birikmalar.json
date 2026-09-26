@@ -1,0 +1,326 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Ona tili",
+ "mavzu": "Kirish so‘z va kirish birikmalar",
+ "savollar": [
+  {
+   "savol": "Kiritma nima?",
+   "variantlar": [
+    "Ega va kesimni bog'lovchi vosita",
+    "Gapni boshqa gapga bog'lovchi bog'lovchi",
+    "Gapning bosh bo'lagi",
+    "Gapning umumiy mazmuniga daxldor bo'lsa-da, gapdagi biror bo'lak bilan hokim-tobelik aloqasiga kirmaydigan qism"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kiritma yozuvda qanday belgilar bilan ajratiladi?",
+   "variantlar": [
+    "Vergul, tire, ba'zan qavslar bilan",
+    "Nuqta, ikki nuqta bilan",
+    "Faqat qavslar bilan",
+    "Undov va so'roq belgisi bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kiritma talaffuzda qanday ajratiladi?",
+   "variantlar": [
+    "Ajratilmaydi",
+    "Kichik to'xtamlar bilan",
+    "Ovoz balandligi bilan",
+    "Urg'u bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kiritma necha turga bo'linadi?",
+   "variantlar": [
+    "5 ta",
+    "2 ta (sodda va murakkab)",
+    "3 ta",
+    "4 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sodda kiritmalar nima bilan ifodalanadi?",
+   "variantlar": [
+    "So'zlar va so'z-gaplar bilan",
+    "Kengaygan birikma bilan",
+    "So'z birikmasi bilan",
+    "Gap bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Murakkab kiritmalar nima bilan ifodalanmaydi?",
+   "variantlar": [
+    "Gap bilan",
+    "So'z birikmasi bilan",
+    "Alohida so'z bilan",
+    "Kengaygan birikma bilan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kiritma gapning boshqa bo'laklari bilan qanday aloqada bo'ladi?",
+   "variantlar": [
+    "Aniq hokim-tobelik aloqasida bo'ladi",
+    "Faqat kesim bilan bog'lanadi",
+    "Faqat ega bilan bog'lanadi",
+    "Hech qanday hokim-tobelik aloqasiga kirmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Fikr tarkibiy qismlarining ahamiyatlilik darajasini bildirganda qaysi kirish so'zlar ishlatiladi?",
+   "variantlar": [
+    "Birinchidan, ikkinchidan",
+    "Ha, yo'q",
+    "Demak, xullas",
+    "Albatta, ehtimol"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda kiritmaning ma'no guruhlari nechta sanab o'tilgan (ishonch-gumon, mansublik, ahamiyat darajasi, qo'shimcha axborot)?",
+   "variantlar": [
+    "3 ta",
+    "5 ta",
+    "4 ta",
+    "2 ta"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Albatta\" so'zi kirish so'z sifatida qanday ma'no bildiradi?",
+   "variantlar": [
+    "Gumon",
+    "Tasdiq/ishonch",
+    "Inkor",
+    "Tartib"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Asli qiyofangni ko'rsatishdan qo'rqishing, demak, o'zingdan nafratlanishingni bildiradi\" gapida qaysi so'z kirish so'z hisoblanadi?",
+   "variantlar": [
+    "demak",
+    "qo'rqishing",
+    "nafratlanishingni",
+    "Asli"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"...bunisini, albatta, qilish kerak...\" gapida kirish so'z qaysi?",
+   "variantlar": [
+    "kerak",
+    "albatta",
+    "bunisini",
+    "qilish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Mehnat ijodga aylangan joyda, tabiiyki, o'lim dahshati, hatto, fiziologik jihatdan ham yo'q bo'lib ketadi\" gapida nechta kirish so'z ishlatilgan?",
+   "variantlar": [
+    "2 ta",
+    "4 ta",
+    "3 ta",
+    "1 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Sernuqsonlik, shubhasiz, yomon...\" gapida kirish so'z qaysi?",
+   "variantlar": [
+    "o'z-o'zini",
+    "yomon",
+    "shubhasiz",
+    "Sernuqsonlik"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Izzattalablik o'z holicha, ehtimol, nuqsondir...\" gapida kirish so'z qaysi?",
+   "variantlar": [
+    "nuqsondir",
+    "o'z holicha",
+    "ehtimol",
+    "Izzattalablik"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Safsata va quruq gap, haqiqatan ham, nafratga loyiq.\" gapida kirish birikma qaysi?",
+   "variantlar": [
+    "haqiqatan ham",
+    "Safsata va quruq gap",
+    "loyiq",
+    "nafratga"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"...hech nimaga erisha olmaydilar, aksincha, ularning noshudligi boshqalarning kulgisini keltiradi\" gapida kirish so'z qaysi?",
+   "variantlar": [
+    "noshudligi",
+    "erisha olmaydilar",
+    "hech nimaga",
+    "aksincha"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Demak, bu bilan masal aqlning teranligi jismning ko'rkamligidan afzal ekanligini bildiradi\" gapida kirish so'z qaysi?",
+   "variantlar": [
+    "bu bilan",
+    "masal",
+    "Demak",
+    "afzal"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Qaysi ishni qilmoqchi bo'lsang, eng avvalo, o'z ko'ngling bilan kengashib ko'rgin\" gapida kiritma qaysi?",
+   "variantlar": [
+    "Qaysi ishni",
+    "kengashib ko'rgin",
+    "o'z ko'ngling",
+    "eng avvalo"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Kimga pand-u nasihat qilsang, unga, avvalo, o'zing amal qil\" gapida kiritma qaysi?",
+   "variantlar": [
+    "avvalo",
+    "unga",
+    "pand-u nasihat",
+    "o'zing amal qil"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"To'g'ri, qulog'ini burasang bas, gazlamasi ham ichida\" gapidagi kiritma qanday turga kiradi?",
+   "variantlar": [
+    "Sodda kiritma, so'z bilan ifodalangan",
+    "Kiritma emas, ega hisoblanadi",
+    "Murakkab kiritma, so'z birikmasi bilan ifodalangan",
+    "Murakkab kiritma, gap bilan ifodalangan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"(Men harbiy kiyim – leytenant formasida edim)\" qismi qaysi turdagi kiritma hisoblanadi?",
+   "variantlar": [
+    "Sodda kiritma, so'z-gap bilan ifodalangan",
+    "Sodda kiritma, so'z bilan ifodalangan",
+    "Murakkab kiritma, gap bilan ifodalangan",
+    "Murakkab kiritma, so'z birikmasi bilan ifodalangan"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Hozirgi til bilan aytganda\" iborasi qaysi turdagi kiritma hisoblanadi?",
+   "variantlar": [
+    "Kirish so'z, tasdiq ma'nosida",
+    "Sodda kiritma",
+    "Murakkab kiritma, gap bilan ifodalangan",
+    "Murakkab kiritma, so'z birikmasi bilan ifodalangan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matn ma'lumotiga ko'ra, kirish so'z va kiritmaning asosiy o'xshashligi nimada?",
+   "variantlar": [
+    "Ikkalasi ham faqat gap boshida keladi",
+    "Ikkalasi ham faqat so'z bilan ifodalanadi",
+    "Ikkalasi ham gap bo'lagi hisoblanadi",
+    "Ikkalasi ham gapdagi boshqa bo'laklar bilan hokim-tobelik aloqasiga kirmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Demak agar odam bir-biriga zid bo'lgan ikkita ishga baravar kirishsa...\" gapida \"demak\" so'zi qanday ma'noni ifodalaydi?",
+   "variantlar": [
+    "Qo'shimcha izoh",
+    "Tartib ko'rsatish",
+    "Gumon",
+    "Xulosa chiqarish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda \"albatta, ehtimol, shubhasiz\" kabi kirish so'zlar so'zlovchining fikriga qanday munosabatini bildiradi?",
+   "variantlar": [
+    "Fikrga ishonch yoki gumon munosabatini",
+    "Fikr qismlarining tartibini",
+    "Qo'shimcha axborotni",
+    "Fikrning boshqaga tegishliligini"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Birinchidan, ikkinchidan\" kabi kirish so'zlar matn bo'yicha qanday ma'noni ifodalaydi?",
+   "variantlar": [
+    "Fikrning birovga mansubligini",
+    "So'zlovchining ishonchini",
+    "Qo'shimcha izohni",
+    "Fikr tarkibiy qismlarining ahamiyatlilik darajasini"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "125-betdagi birinchi matn misollarida nechta muallifdan iqtibos keltirilgan?",
+   "variantlar": [
+    "4 ta",
+    "7 ta",
+    "5 ta",
+    "6 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kvintiliondan keltirilgan \"Izzattalablik o'z holicha, ehtimol, nuqsondir, biroq u ko'p hollarda qadr-qimmat manbayidir\" gapida kirish so'z qanday munosabatni bildiradi?",
+   "variantlar": [
+    "Inkor",
+    "Gumon",
+    "Tasdiq",
+    "Tartib"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

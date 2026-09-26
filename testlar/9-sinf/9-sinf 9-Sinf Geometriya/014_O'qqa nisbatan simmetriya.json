@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Geometriya",
+ "mavzu": "O'qqa nisbatan simmetriya",
+ "savollar": [
+  {
+   "savol": "M va M1 nuqtalar a to'g'ri chiziqqa nisbatan simmetrik deyiladi, agar ular orasidagi kesma a ga perpendikulyar bo'lib, uning asosi O bo'lsa, qanday shart bajarilishi kerak?",
+   "variantlar": [
+    "MO + M1O = 0",
+    "MO ≠ M1O",
+    "MO > M1O",
+    "MO = M1O"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "M va M1 nuqtalar simmetrik bo'lgan to'g'ri chiziq matnda qanday nomlanadi?",
+   "variantlar": [
+    "Perpendikular chiziq",
+    "Koordinata o'qi",
+    "Simmetriya o'qi",
+    "Simmetriya markazi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tekislikning har bir M nuqtasiga unga o'qqa nisbatan simmetrik M1 nuqtani mos qo'yadigan akslantirish nima deb ataladi va u qanday xususiyatga ega?",
+   "variantlar": [
+    "Parallel ko'chirish deyiladi va yo'nalishni saqlaydi",
+    "Proyeksiya deyiladi va masofani ikki barobar oshiradi",
+    "Harakat deyiladi va nuqtalar orasidagi masofani saqlaydi",
+    "Gomotetiya deyiladi va shaklni kattalashtiradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'qqa nisbatan simmetriyada burchak akslantirilganda nima ro'y beradi?",
+   "variantlar": [
+    "Burchak kichraydi",
+    "Burchak kattalashadi",
+    "Burchak har doim to'g'ri burchakka aylanadi",
+    "Burchak o'ziga teng burchakka o'tadi, faqat yo'nalishi o'zgaradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Koordinatalar tekisligida A(x; y) nuqta Ox o'qiga nisbatan simmetriyada qaysi nuqtaga o'tadi?",
+   "variantlar": [
+    "A1(y; x)",
+    "A1(-x; -y)",
+    "A1(x; -y)",
+    "A1(-x; y)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Koordinatalar tekisligida A(x; y) nuqta Oy o'qiga nisbatan simmetriyada qaysi nuqtaga o'tadi?",
+   "variantlar": [
+    "A2(x; -y)",
+    "A2(y; x)",
+    "A2(-x; -y)",
+    "A2(-x; y)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kvadratning nechta simmetriya o'qi bor?",
+   "variantlar": [
+    "4",
+    "3",
+    "1",
+    "2"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'g'ri to'rtburchakning nechta simmetriya o'qi bor?",
+   "variantlar": [
+    "4",
+    "3",
+    "1",
+    "2"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rombning nechta simmetriya o'qi bor?",
+   "variantlar": [
+    "2",
+    "1",
+    "3",
+    "4"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Teng yonli uchburchakning nechta simmetriya o'qi bor?",
+   "variantlar": [
+    "1",
+    "3",
+    "0",
+    "2"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(1; 2) nuqta Ox o'qiga nisbatan simmetriyada qaysi nuqtaga o'tadi?",
+   "variantlar": [
+    "(-1; -2)",
+    "(-1; 2)",
+    "(2; 1)",
+    "(1; -2)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(1; 2) nuqta Oy o'qiga nisbatan simmetriyada qaysi nuqtaga o'tadi?",
+   "variantlar": [
+    "(-1; -2)",
+    "(-1; 2)",
+    "(1; -2)",
+    "(2; 1)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(0; 2) nuqta Ox o'qiga nisbatan simmetriyada qaysi nuqtaga o'tadi?",
+   "variantlar": [
+    "(0; -2)",
+    "(2; 0)",
+    "(0; 2)",
+    "(-2; 0)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(0; 2) nuqta Oy o'qiga nisbatan simmetriyada qaysi nuqtaga o'tadi?",
+   "variantlar": [
+    "(-2; 0)",
+    "(0; 2)",
+    "(2; 0)",
+    "(0; -2)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(2; 4) nuqta koordinata o'qiga nisbatan simmetrik akslantirishda (2; -4) nuqtaga o'tdi. Bu akslantirish qaysi o'qqa nisbatan amalga oshirilgan?",
+   "variantlar": [
+    "Ikkala o'q ham",
+    "Hech qaysi o'q",
+    "Ox o'qi",
+    "Oy o'qi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(5; -3) nuqta Ox o'qiga nisbatan simmetriyada qaysi nuqtaga o'tadi?",
+   "variantlar": [
+    "(3; -5)",
+    "(-5; 3)",
+    "(5; 3)",
+    "(-5; -3)"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(5; -3) nuqta Oy o'qiga nisbatan simmetriyada qaysi nuqtaga o'tadi?",
+   "variantlar": [
+    "(3; -5)",
+    "(-5; -3)",
+    "(5; 3)",
+    "(-5; 3)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Teng yonli trapetsiyaning nechta simmetriya o'qi bor?",
+   "variantlar": [
+    "4",
+    "2",
+    "1",
+    "0"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A(x1; y1) va B(x2; y2) nuqtalar orasidagi masofa qaysi formula bilan hisoblanadi?",
+   "variantlar": [
+    "AB = kv.ildiz((x2-x1)^2+(y2-y1)^2)",
+    "AB = (x2-x1)^2+(y2-y1)^2",
+    "AB = (x2-x1)+(y2-y1)",
+    "AB = kv.ildiz(x2^2+y2^2)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar M nuqta simmetriya o'qi ustida yotsa, uning simmetrik aksi M1 nuqta bilan qanday bog'liq bo'ladi?",
+   "variantlar": [
+    "M1 nuqta M dan ikki marta uzoqlashadi",
+    "M1 nuqta aniqlanmaydi",
+    "M1 nuqta M nuqtaning o'ziga teng bo'ladi",
+    "M1 nuqta har doim koordinata boshiga o'tadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ABCD parallelogrammning A(3; 2) uchi Oy o'qiga nisbatan simmetrik akslantirilsa, A1 uchining koordinatalari qanday bo'ladi?",
+   "variantlar": [
+    "(-3; 2)",
+    "(-3; -2)",
+    "(3; -2)",
+    "(2; 3)"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "ABCD parallelogrammning B(2; 7) uchi Oy o'qiga nisbatan simmetrik akslantirilsa, B1 uchining koordinatalari qanday bo'ladi?",
+   "variantlar": [
+    "(-2; 7)",
+    "(7; 2)",
+    "(2; -7)",
+    "(-2; -7)"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda AB = A1B1 ekanligini isbotlashda asosan qaysi formuladan foydalanilgan?",
+   "variantlar": [
+    "Kosinuslar teoremasi",
+    "Pifagor teoremasi",
+    "Uchburchakning yuza formulasi",
+    "Ikki nuqta orasidagi masofa formulasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "y = x + 4 funksiya grafigiga Ox o'qiga nisbatan simmetrik bo'lgan to'g'ri chiziq qaysi funksiya grafigi bo'ladi?",
+   "variantlar": [
+    "y = -x - 4",
+    "y = x - 4",
+    "y = x + 4",
+    "y = -x + 4"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A(x; y) nuqta avval Ox o'qiga, so'ng hosil bo'lgan nuqta Oy o'qiga nisbatan simmetrik akslantirilsa, oxirgi nuqtaning koordinatalari qanday bo'ladi?",
+   "variantlar": [
+    "(-x; -y)",
+    "(x; -y)",
+    "(-x; y)",
+    "(x; y)"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "ABC uchburchak C uchidan o'tuvchi to'g'ri chiziqqa nisbatan simmetrik akslantirilganda, C uchi bilan nima sodir bo'ladi?",
+   "variantlar": [
+    "C uchi o'zgarmaydi, chunki u simmetriya o'qi ustida yotadi",
+    "C uchi koordinata boshiga o'tadi",
+    "C uchi B nuqtaga o'tadi",
+    "C uchi A nuqtaga o'tadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A(4; 6) va B(1; 2) nuqtalar orasidagi masofa, ularning Oy o'qiga nisbatan simmetrik akslari A1 va B1 orasidagi masofa bilan solishtirilsa, natija qanday bo'ladi?",
+   "variantlar": [
+    "AB < A1B1",
+    "Solishtirib bo'lmaydi",
+    "AB > A1B1",
+    "AB = A1B1, chunki simmetriya harakatdir"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar biror figura ham Ox, ham Oy o'qiga nisbatan simmetrik bo'lsa, bu figura yana qanday akslantirishga nisbatan ham simmetrik bo'ladi?",
+   "variantlar": [
+    "Hech qanday qo'shimcha simmetriyaga ega bo'lmaydi",
+    "Faqat burilishga nisbatan",
+    "Faqat parallel ko'chirishga nisbatan",
+    "Koordinata boshiga (markazga) nisbatan simmetriya"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "M(a; b) va N(a; -b) nuqtalar berilgan. Bu ikki nuqta qaysi o'qqa nisbatan simmetrik?",
+   "variantlar": [
+    "Oy o'qiga",
+    "Hech qaysi o'qqa emas",
+    "Ikkala o'qqa ham",
+    "Ox o'qiga"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kvadratning diagonali orqali o'tuvchi to'g'ri chiziq uning simmetriya o'qi bo'la oladimi?",
+   "variantlar": [
+    "Ha, chunki diagonal kvadratni ikkita bir xil uchburchakka bo'ladi",
+    "Ha, lekin faqat kvadrat kvadrat bo'lmagan holatda",
+    "Yo'q, chunki diagonal tomonga parallel emas",
+    "Yo'q, faqat tomonlar o'rtasidan o'tuvchi chiziqlar simmetriya o'qi bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

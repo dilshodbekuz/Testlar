@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Iqtisodiy bilim asoslari",
+ "mavzu": "Iqtisodiy o'sish va rivojlanish",
+ "savollar": [
+  {
+   "savol": "Iqtisodiy ko'rsatkichning nominal qiymati nima?",
+   "variantlar": [
+    "Asos yildagi narxlarga nisbatan hisoblangan qiymat",
+    "Doimiy narxlarda hisoblangan qiymat",
+    "Joriy narxlarga nisbatan hisoblangan qiymat",
+    "O'rtacha narxlarda hisoblangan qiymat"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Iqtisodiy ko'rsatkichning real qiymati qanday ta'riflanadi?",
+   "variantlar": [
+    "O'rtacha ko'rsatkich",
+    "Joriy yil narxlarida hisoblangan qiymat",
+    "Asos qilib olingan yil narxlariga nisbatan hisoblangan qiymat",
+    "Kelajak yil narxlarida hisoblangan qiymat"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Iqtisodiy davr deb nimaga aytiladi?",
+   "variantlar": [
+    "Bir yil davomidagi iqtisodiy faoliyat",
+    "Narxlarning o'sish davri",
+    "YaIMning hisoblanish davri",
+    "Mamlakat iqtisodiyotining bir marta o'sib, so'ng pasayishiga ketgan vaqt"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Iqtisodiy o'sish deb nimaga aytiladi?",
+   "variantlar": [
+    "Mamlakatda muttasil ravishda yalpi mahsulot ishlab chiqarish hajmining oshib borishi",
+    "Eksport hajmining oshishi",
+    "Narxlarning muttasil oshib borishi",
+    "Aholi sonining ortib borishi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ekstensiv o'sishga qanday yo'l bilan erishiladi?",
+   "variantlar": [
+    "Ishchilar malakasini oshirish orqali",
+    "Qo'shimcha ishlab chiqarish resurslarini jalb etish orqali",
+    "Fan-texnika yutuqlarini joriy qilish orqali",
+    "Yangi texnologiyalarni joriy etish orqali"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Intensiv o'sish nimaga asoslanadi?",
+   "variantlar": [
+    "Yangi yerlarni o'zlashtirishga",
+    "Bor resurslardan samarali foydalanishga",
+    "Ko'proq mehnat resurslarini jalb qilishga",
+    "Foydali qazilmalarni ko'p qazib olishga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Necha oy davomida real YaIMning kamayishi kuzatilsa, bu iqtisodiy pasayishdan dalolat beradi?",
+   "variantlar": [
+    "12 oy",
+    "6 oy",
+    "9 oy",
+    "3 oy"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aholi turmush darajasi haqida har yili ma'lumot beriladigan BMT hisoboti qanday nomlanadi?",
+   "variantlar": [
+    "\"Global rivojlanish hisoboti\"",
+    "\"Milliy boylik to'g'risidagi hisobot\"",
+    "\"Inson taraqqiyoti to'g'risidagi ma'ruza\"",
+    "\"Jahon iqtisodiyoti to'g'risidagi ma'ruza\""
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'zbekiston rivojlanganlik darajasiga ko'ra qaysi guruhga kiradi?",
+   "variantlar": [
+    "Rivojlangan mamlakatlar",
+    "Daromadlar darajasi past rivojlanayotgan mamlakatlar",
+    "Eng kambag'al mamlakatlar",
+    "Daromadlar darajasi o'rtacha bo'lgan rivojlanayotgan mamlakatlar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rivojlangan mamlakatlar iqtisodiyoti asosan qaysi sohaga ixtisoslashgan?",
+   "variantlar": [
+    "Sanoat ishlab chiqarish",
+    "Turizm",
+    "Qishloq xo'jaligi",
+    "Xom ashyo eksporti"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "YaIMn/YaIMr = I formulasida \"I\" nimani bildiradi?",
+   "variantlar": [
+    "Real YaIM",
+    "Narxlarning oshish indeksi",
+    "Nominal YaIM",
+    "Iqtisodiy o'sish darajasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "20.1-chizmada M nuqta nimani ifodalaydi?",
+   "variantlar": [
+    "Narxlar indeksini",
+    "Iqtisodiy davr boshlanishini",
+    "Iqtisodiy faollikning eng pastki nuqtasini",
+    "Iqtisodiy faollikning eng yuqori nuqtasini (cho'qqisini)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "20.1-chizmada N nuqta nimani ifodalaydi?",
+   "variantlar": [
+    "O'sish davrining boshlanishini",
+    "Iqtisodiy faollikning eng yuqori nuqtasini",
+    "YaIMning nominal qiymatini",
+    "Iqtisodiy faollikning eng pastki (quyi) nuqtasini"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Rivojlanayotgan davlatlar daromad darajasiga ko'ra necha guruhga bo'linadi?",
+   "variantlar": [
+    "4 ta",
+    "3 ta",
+    "5 ta",
+    "2 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Daromadlar darajasi past bo'lgan mamlakatlarda ishlab chiqarishga sarflanadigan investitsiyalar qanday bo'ladi?",
+   "variantlar": [
+    "O'rtacha",
+    "Juda ko'p",
+    "Juda kam",
+    "Doimiy o'sib boradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Iqtisodiy o'sish odatda qaysi ko'rsatkich orqali o'lchanadi?",
+   "variantlar": [
+    "Eksport hajmi bilan",
+    "Nominal YaIMning o'sish darajasi bilan",
+    "Real YaIMning o'sish darajasi bilan",
+    "Aholi soni bilan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Formulada YaIMr nimani bildiradi?",
+   "variantlar": [
+    "Real qiymatni",
+    "O'sish sur'atini",
+    "Narx indeksini",
+    "Nominal qiymatni"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnda sanab o'tilgan aholi turmush darajasini belgilaydigan ko'rsatkichlardan qaysi biri to'g'ri keltirilgan?",
+   "variantlar": [
+    "Umr ko'rish davomiyligi",
+    "Faqat YaMM miqdori",
+    "Faqat valyuta kursi",
+    "Faqat eksport hajmi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnda ta'kidlanishicha, iqtisodiy farovonlik nimaga bog'liq?",
+   "variantlar": [
+    "Faqat yaratilgan yalpi mahsulot miqdoriga",
+    "Faqat aholi soniga",
+    "Faqat eksport hajmiga",
+    "Milliy boylikni adolatli va oqilona qayta taqsimlashga"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri matnda aholi turmush darajasi yuqori davlat sifatida keltirilmagan?",
+   "variantlar": [
+    "Xitoy",
+    "Shvetsiya",
+    "Yaponiya",
+    "Kanada"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2015-yilda YaIMning nominal qiymati 19,35 trln shpb, 2018-yilda 36,84 trln shpb, narxlarning oshish indeksi 1,5 bo'lsa, 2018-yilgi YaIMning 2015-yilga nisbatan real qiymati necha trln shpbni tashkil qiladi?",
+   "variantlar": [
+    "22,15 trln shpb",
+    "26,84 trln shpb",
+    "24,56 trln shpb",
+    "55,26 trln shpb"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi ma'lumotlar asosida, 2018-yilda 2015-yilga nisbatan YaIMning real qiymati necha barobar oshganini toping.",
+   "variantlar": [
+    "1,90 barobar",
+    "1,27 barobar",
+    "2,00 barobar",
+    "1,15 barobar"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar narxlarning oshish indeksi 2 marta, YaIMning nominal qiymati esa 3 marta oshgan bo'lsa, real YaIM necha marta oshgan bo'ladi?",
+   "variantlar": [
+    "1,0 marta",
+    "1,5 marta",
+    "5,0 marta",
+    "6,0 marta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir mamlakatda katta miqdorda YaMM yaratilsa, ammo uning ko'p qismi harbiy maqsadlarga sarflansa, bu holat nimani anglatadi?",
+   "variantlar": [
+    "Aholi turmush darajasi albatta yuqori bo'ladi",
+    "Mamlakat avtomatik rivojlangan hisoblanadi",
+    "Iqtisodiy o'sish yuqori bo'lsa-da, aholi farovonligi oshmasligi mumkin",
+    "YaIM real qiymati kamayadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ekstensiv va intensiv o'sish usullarini taqqoslaganda, qaysi xulosa to'g'ri?",
+   "variantlar": [
+    "Ikkisi ham bir xil natija beradi",
+    "Ekstensiv o'sish faqat malaka oshirish orqali amalga oshadi",
+    "Ekstensiv o'sish resurslar cheklangan sharoitda uzoq muddatga samarali",
+    "Intensiv o'sish fan-texnika yutuqlariga asoslangani uchun resurslar cheklangan sharoitda ko'proq istiqbolli"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nega davlat faqat YaMM(YaIM)ni oshirish bilan cheklanib qolmasligi kerak?",
+   "variantlar": [
+    "Chunki farovonlik yalpi mahsulot miqdoridan ko'ra uning adolatli taqsimlanishiga bog'liq",
+    "Chunki iqtisodiy davr faqat pasayishdan iborat",
+    "Chunki YaMM hech qachan oshmaydi",
+    "Chunki nominal qiymat doim real qiymatdan katta bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "20.2-chizmada tasvirlangan uzoq muddatli tendensiyada iqtisodiy faollik qanday tavsiflanadi?",
+   "variantlar": [
+    "Tebranib tursa-da, umumiy yo'nalishda o'sish kuzatiladi",
+    "Doimiy pasayib boradi",
+    "Faqat cho'qqi nuqtalarda qoladi",
+    "O'zgarmay bir xil qoladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki mamlakatning YaMM hajmi bir xil bo'lsa-da, ularning boy-kambag'alligini aniqlashda nima hal qiluvchi omil hisoblanadi?",
+   "variantlar": [
+    "Eksport hajmi",
+    "Umumiy YaMM hajmi",
+    "Davlat hududi kattaligi",
+    "Aholi jon boshiga to'g'ri kelgan YaMM miqdori"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nega faqat aholi jon boshiga to'g'ri keladigan YaMM ko'rsatkichi mamlakat rivojlanganligini to'liq aks ettira olmaydi?",
+   "variantlar": [
+    "Chunki real qiymat nominal qiymatdan farq qilmaydi",
+    "Chunki turmush darajasi savodxonlik, tibbiyot, ekologiya kabi boshqa ko'rsatkichlarga ham bog'liq",
+    "Chunki narx indeksi doim 1 ga teng",
+    "Chunki YaMM hech qachan o'sishi mumkin emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Daromadlar darajasi past bo'lgan mamlakatda investitsiyalarning kamligi qanday oqibatga olib keladi?",
+   "variantlar": [
+    "Mehnat unumdorligi past qolib, aholi daromadlari borgan sari kamayadi",
+    "Ishlab chiqarish hajmi avtomatik oshadi",
+    "Mamlakat tezda rivojlangan guruhga o'tadi",
+    "Mehnat unumdorligi oshadi va aholi daromadlari ko'payadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Informatika",
+ "mavzu": "64-dars. Amaliy mashg'ulot",
+ "savollar": [
+  {
+   "savol": "math modulidagi ceil(x) funksiyasi nima vazifani bajaradi?",
+   "variantlar": [
+    "x sonining modulini hisoblaydi",
+    "x sonini eng yaqin katta butun songacha yaxlitlaydi",
+    "x sonining kvadrat ildizini hisoblaydi",
+    "x sonini eng yaqin kichik butun songacha yaxlitlaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "math modulidagi floor(x) funksiyasi nima vazifani bajaradi?",
+   "variantlar": [
+    "x sonining faktorialini hisoblaydi",
+    "x sonini eng yaqin katta butun songacha yaxlitlaydi",
+    "x sonini gradusga o'tkazadi",
+    "x sonini eng yaqin kichik butun songacha yaxlitlaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "round(x) funksiyasi nimani bajaradi?",
+   "variantlar": [
+    "x sonining sinusini hisoblaydi",
+    "x sonini yaxlitlaydi",
+    "x sonining logarifmini hisoblaydi",
+    "x sonining darajasini hisoblaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "round(x, n) funksiyasi nimani bajaradi?",
+   "variantlar": [
+    "x sonining n-ildizini hisoblaydi",
+    "x sonini n marta ko'paytiradi",
+    "x sonini n-darajaga ko'taradi",
+    "x sonini nuqtadan keyin n ta belgi qolgunga qadar yaxlitlaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "log(a, b) funksiyasi nimani hisoblaydi?",
+   "variantlar": [
+    "a sonining o'nli logarifmini",
+    "b ning a-darajasini",
+    "b asosga ko'ra a logarifmini",
+    "a ning b-darajasini"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "log10(x) funksiyasi nimani hisoblaydi?",
+   "variantlar": [
+    "x sonining faktorialini",
+    "x sonining kvadrat ildizini",
+    "x sonining tabiiy logarifmini",
+    "x sonining o'nli logarifmini"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sqrt(x) funksiyasi nimani hisoblaydi?",
+   "variantlar": [
+    "x ning kubini",
+    "x ning kvadrat ildizini",
+    "x ning logarifmini",
+    "x ning modulini"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "factorial(x) funksiyasi nimani hisoblaydi?",
+   "variantlar": [
+    "x sonining ildizini",
+    "x sonining modulini",
+    "x sonining darajasini",
+    "x faktorialni"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "degrees(x) funksiyasi nimani bajaradi?",
+   "variantlar": [
+    "Radiandan gradusga o'tkazadi",
+    "Radianning kosinusini hisoblaydi",
+    "Gradusdan radianga o'tkazadi",
+    "Gradusning sinusini hisoblaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "radians(x) funksiyasi nimani bajaradi?",
+   "variantlar": [
+    "x ning faktorialini hisoblaydi",
+    "Gradusdan radianga o'tkazadi",
+    "x ning kvadrat ildizini hisoblaydi",
+    "Radiandan gradusga o'tkazadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "ceil(1.5) funksiyasining natijasi nechaga teng?",
+   "variantlar": [
+    "2",
+    "-2",
+    "1",
+    "1.5"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ceil(-1.5) funksiyasining natijasi nechaga teng?",
+   "variantlar": [
+    "-1",
+    "2",
+    "1",
+    "-2"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "floor(1.5) funksiyasining natijasi nechaga teng?",
+   "variantlar": [
+    "0",
+    "1",
+    "1.5",
+    "2"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "floor(-1.5) funksiyasining natijasi nechaga teng?",
+   "variantlar": [
+    "-2",
+    "2",
+    "-1",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "abs(-7) funksiyasining natijasi nechaga teng?",
+   "variantlar": [
+    "0",
+    "7",
+    "-7",
+    "14"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "pow(2, 3) funksiyasining natijasi nechaga teng?",
+   "variantlar": [
+    "6",
+    "5",
+    "8",
+    "9"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "factorial(4) funksiyasining natijasi nechaga teng?",
+   "variantlar": [
+    "20",
+    "16",
+    "24",
+    "12"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sqrt(16) funksiyasining natijasi nechaga teng?",
+   "variantlar": [
+    "8",
+    "2",
+    "4",
+    "16"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "round(3.14159, 2) funksiyasining natijasi nechaga teng?",
+   "variantlar": [
+    "3.14",
+    "3.15",
+    "3.1",
+    "3.142"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Teng tomonli uchburchak yuzini hisoblash dasturida qaysi formuladan foydalanilgan?",
+   "variantlar": [
+    "s = sqrt(3/4)*pow(a,2)",
+    "s = pow(a,2)/2",
+    "s = sqrt(a)*3/4",
+    "s = a*sqrt(3)/2"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "0.26598 sonini round(x, 1) yordamida yaxlitlasak natija nechaga teng bo'ladi?",
+   "variantlar": [
+    "0.266",
+    "0.3",
+    "0.2",
+    "0.27"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "0.26598 sonini round(x, 3) yordamida yaxlitlasak natija nechaga teng bo'ladi?",
+   "variantlar": [
+    "0.265",
+    "0.2660",
+    "0.27",
+    "0.266"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tomoni a=6 bo'lgan teng tomonli uchburchakning yuzi s=sqrt(3/4)*pow(a,2) formulasi bo'yicha taxminan nechaga teng bo'ladi?",
+   "variantlar": [
+    "20.78",
+    "31.18",
+    "15.59",
+    "36.00"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Doira sektorining yuzasini hisoblash uchun radius r va burchak gradusda berilganda, dasturda burchakni radianga o'tkazishdan tashqari yana qaysi formula ishlatiladi?",
+   "variantlar": [
+    "S = 2*pi*r*burchak/360",
+    "S = r^2*burchak/2",
+    "S = pi*r^2*burchak/360",
+    "S = pi*r*burchak/180"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Radiusi r=4 va burchagi 90 gradus bo'lgan doira sektorining yuzasi taxminan nechaga teng (S = pi*r^2*burchak/360)?",
+   "variantlar": [
+    "6.28",
+    "25.13",
+    "12.57",
+    "9.42"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Burchagi 60 gradus va radiusi r=5 bo'lgan yoyning uzunligi (L = pi*r*burchak/180) taxminan nechaga teng?",
+   "variantlar": [
+    "10.47",
+    "5.24",
+    "3.14",
+    "7.85"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "y = x*cos(x) funksiyasida x = pi (radian) qiymati berilsa, y ning natijasi taxminan nechaga teng bo'ladi?",
+   "variantlar": [
+    "0",
+    "3.14",
+    "1",
+    "-3.14"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "log(8, 2) ifodasining natijasi nechaga teng?",
+   "variantlar": [
+    "4",
+    "2",
+    "8",
+    "3"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kvadrat tenglamaning ildizlarini hisoblashda diskriminant manfiy (D<0) bo'lsa, qaysi funksiyadan foydalanib bo'lmaydi?",
+   "variantlar": [
+    "sqrt(x)",
+    "pow(x,n)",
+    "round(x)",
+    "abs(x)"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "pow(2, 10) ifodasining natijasi nechaga teng?",
+   "variantlar": [
+    "1024",
+    "100",
+    "512",
+    "2048"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

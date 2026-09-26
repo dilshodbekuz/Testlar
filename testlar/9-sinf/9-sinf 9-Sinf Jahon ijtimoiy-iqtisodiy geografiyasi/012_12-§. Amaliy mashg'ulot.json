@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Jahon ijtimoiy-iqtisodiy geografiyasi",
+ "mavzu": "12-§. Amaliy mashg'ulot",
+ "savollar": [
+  {
+   "savol": "Aholi zichligi tushunchasi nimani anglatadi?",
+   "variantlar": [
+    "Shahar aholisining jami aholiga ulushi",
+    "Davlatning umumiy aholisi soni",
+    "Qishloq aholisining umumiy soni",
+    "Ma'lum hududdagi 1 km² maydonga to'g'ri keladigan aholi soni"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aholi zichligi qanday o'lchov birligida ifodalanadi?",
+   "variantlar": [
+    "kishi/km²",
+    "foizda (%)",
+    "kishi/ming kishi",
+    "mln kishida"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Urbanizatsiya darajasi nimani ko'rsatadi?",
+   "variantlar": [
+    "Davlat maydonining kattaligini",
+    "Aholi zichligining darajasini",
+    "Qishloq aholisining umumiy sonini",
+    "Shahar aholisining jami aholiga nisbatan ulushini"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Urbanizatsiya darajasi qanday birlikda ifodalanadi?",
+   "variantlar": [
+    "ming km²da",
+    "foizda (%)",
+    "kishi/km²da",
+    "mln kishida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jami aholi sonini topish uchun qanday amal bajariladi?",
+   "variantlar": [
+    "Shahar aholisi qishloq aholisiga bo'linadi",
+    "Shahar aholisidan qishloq aholisi ayiriladi",
+    "Shahar aholisi va qishloq aholisi qo'shiladi",
+    "Shahar aholisi qishloq aholisiga ko'paytiriladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aholi zichligini hisoblash formulasi qanday ifodalanadi?",
+   "variantlar": [
+    "Aholi soni x maydon",
+    "Maydon / aholi soni",
+    "Aholi soni / maydon",
+    "Shahar aholisi / jami aholi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qishloq aholisi soni qanday topiladi?",
+   "variantlar": [
+    "Jami aholidan shahar aholisi ayiriladi",
+    "Shahar aholisi jami aholiga ko'paytiriladi",
+    "Jami aholiga shahar aholisi qo'shiladi",
+    "Jami aholi shahar aholisiga bo'linadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda berilgan davlatlar orasida maydoni eng katta davlat qaysi?",
+   "variantlar": [
+    "Italiya",
+    "Kamerun",
+    "Nikaragua",
+    "Mongoliya"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda berilgan davlatlar orasida aholisi eng ko'p davlat qaysi?",
+   "variantlar": [
+    "Mongoliya",
+    "Nikaragua",
+    "Kamerun",
+    "Italiya"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jadvalda Turkiya davlati uchun jami aholisi necha mln kishi ekanligi bevosita berilgan?",
+   "variantlar": [
+    "61 mln kishi",
+    "81,3 mln kishi",
+    "20,3 mln kishi",
+    "75 mln kishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Italiya maydoni 301,3 ming km², aholisi 60,6 mln kishi. Aholi zichligini hisoblang.",
+   "variantlar": [
+    "150 kishi/km²",
+    "201 kishi/km²",
+    "180 kishi/km²",
+    "250 kishi/km²"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nikaragua maydoni 129,5 ming km², aholisi 6,3 mln kishi. Aholi zichligini hisoblang.",
+   "variantlar": [
+    "60 kishi/km²",
+    "49 kishi/km²",
+    "30 kishi/km²",
+    "80 kishi/km²"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mongoliya maydoni 1566,6 ming km², aholisi 3,2 mln kishi. Aholi zichligini hisoblang.",
+   "variantlar": [
+    "5 kishi/km²",
+    "2 kishi/km²",
+    "20 kishi/km²",
+    "10 kishi/km²"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kamerun maydoni 475,4 ming km², aholisi 25,6 mln kishi. Aholi zichligini hisoblang.",
+   "variantlar": [
+    "70 kishi/km²",
+    "54 kishi/km²",
+    "100 kishi/km²",
+    "40 kishi/km²"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Turkiya jadvalida jami aholi 81,3 mln, shahar aholisi 61 mln kishi. Qishloq aholisini toping.",
+   "variantlar": [
+    "20,3 mln kishi",
+    "15 mln kishi",
+    "30 mln kishi",
+    "25 mln kishi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Turkiyada shahar aholisi 61 mln, jami aholi 81,3 mln kishi. Urbanizatsiya darajasini hisoblang.",
+   "variantlar": [
+    "50%",
+    "60%",
+    "85%",
+    "75%"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shvetsiya jadvalida shahar aholisi 8,8 mln, qishloq aholisi 1,4 mln kishi. Jami aholini toping.",
+   "variantlar": [
+    "9 mln kishi",
+    "11 mln kishi",
+    "12 mln kishi",
+    "10,2 mln kishi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shvetsiyada shahar aholisi 8,8 mln, jami aholi 10,2 mln kishi. Urbanizatsiya darajasini hisoblang.",
+   "variantlar": [
+    "80%",
+    "86%",
+    "90%",
+    "70%"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1-topshiriqdagi to'rtta davlat orasida hisob-kitobdan so'ng aholi zichligi eng yuqori davlat qaysi?",
+   "variantlar": [
+    "Nikaragua",
+    "Italiya",
+    "Mongoliya",
+    "Kamerun"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1-topshiriqdagi to'rtta davlat orasida hisob-kitobdan so'ng aholi zichligi eng past davlat qaysi?",
+   "variantlar": [
+    "Kamerun",
+    "Italiya",
+    "Mongoliya",
+    "Nikaragua"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Uganda jadvalida shahar aholisi 10,6 mln, urbanizatsiya darajasi 24%. Jami aholini toping.",
+   "variantlar": [
+    "35 mln kishi",
+    "44,2 mln kishi",
+    "40 mln kishi",
+    "50 mln kishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uganda jami aholisi 44,2 mln, shahar aholisi 10,6 mln kishi. Qishloq aholisini toping.",
+   "variantlar": [
+    "40 mln kishi",
+    "33,6 mln kishi",
+    "30 mln kishi",
+    "25 mln kishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Panama jadvalida qishloq aholisi 1,3 mln, urbanizatsiya darajasi 69%. Jami aholini toping.",
+   "variantlar": [
+    "3,5 mln kishi",
+    "5 mln kishi",
+    "3 mln kishi",
+    "4,2 mln kishi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Panama jami aholisi 4,2 mln, qishloq aholisi 1,3 mln kishi. Shahar aholisini toping.",
+   "variantlar": [
+    "3,5 mln kishi",
+    "3 mln kishi",
+    "2,3 mln kishi",
+    "2,9 mln kishi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Turkiya (urbanizatsiya 75%) va Shvetsiya (urbanizatsiya 86%) solishtirilsa, qaysi davlatda shahar aholisi ulushi yuqoriroq?",
+   "variantlar": [
+    "Shvetsiyada",
+    "Turkiyada",
+    "Aniqlab bo'lmaydi",
+    "Ikkalasida teng"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kamerun (zichlik ≈54 kishi/km²) va Nikaragua (zichlik ≈49 kishi/km²) solishtirilsa, qaysi davlatda aholi zichligi yuqoriroq?",
+   "variantlar": [
+    "Kamerunda",
+    "Ikkalasida teng",
+    "Nikaraguada",
+    "Aniqlab bo'lmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar biror davlatning aholisi ortib, maydoni o'zgarmasa, uning aholi zichligiga qanday ta'sir qiladi?",
+   "variantlar": [
+    "Aholi zichligi o'zgarmaydi",
+    "Aholi zichligi kamayadi",
+    "Aholi zichligi nolga teng bo'ladi",
+    "Aholi zichligi ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar davlat maydoni kengaysa-yu, aholisi o'zgarmasa, aholi zichligi qanday o'zgaradi?",
+   "variantlar": [
+    "Ortadi",
+    "O'zgarmaydi",
+    "Ikki barobar ortadi",
+    "Kamayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Urbanizatsiya darajasi 100%ga yaqin bo'lgan davlatda qishloq aholisi ulushi qanday bo'ladi?",
+   "variantlar": [
+    "Aniqlab bo'lmaydi",
+    "Juda kam yoki deyarli yo'q",
+    "Juda ko'p",
+    "Jami aholining yarmiga teng"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadvaldagi to'rt davlat (Turkiya, Uganda, Shvetsiya, Panama) orasida hisob-kitobdan so'ng urbanizatsiya darajasi eng yuqori davlat qaysi?",
+   "variantlar": [
+    "Uganda",
+    "Panama",
+    "Turkiya",
+    "Shvetsiya"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

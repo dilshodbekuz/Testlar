@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Informatika",
+ "mavzu": "65–66-darslar. Pythonda foydalanuvchi grafik interfeysi bilan ishlash",
+ "savollar": [
+  {
+   "savol": "Foydalanuvchining grafik interfeysi (GUI) nima?",
+   "variantlar": [
+    "Dasturlash tilining bir turi",
+    "Ma'lumotlar bazasini boshqarish tizimi",
+    "Operatsion tizimning nomi",
+    "Oyna, matn maydoni va tugmachalar kabi boshqaruv elementlari orqali foydalanuvchi bilan aloqa o'rnatish usuli"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Widget (vijet) atamasi nimani anglatadi?",
+   "variantlar": [
+    "Dasturlash tili turini",
+    "Fayl kengaytmasini",
+    "GUIga ega ilovani yaratishda foydalaniladigan tugmacha yoki matnli maydon kabi interfeys elementini",
+    "Kompyuter operatsion tizimini"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tkinter nima?",
+   "variantlar": [
+    "Internet brauzeri",
+    "Pythonning matn muharriri",
+    "Windows operatsion tizimining qismi",
+    "Pythondagi standart grafik kutubxona"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "GUI ilovasining asosi hisoblanadigan element qaysi?",
+   "variantlar": [
+    "Tugmacha",
+    "Rasm",
+    "Oyna",
+    "Matn maydoni"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dasturdagi barcha vijetlar qaysi ikki buyruq orasida kiritiladi?",
+   "variantlar": [
+    "window = Tk() va window.mainloop()",
+    "start va end",
+    "def va return",
+    "import va export"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Foydalanuvchi matn kiritishi uchun mo'ljallangan vijet qaysi?",
+   "variantlar": [
+    "Label()",
+    "Entry()",
+    "Button()",
+    "PhotoImage()"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Natijani chiqarish uchun ko'p qatorli matn maydoni sifatida qaysi vijet ishlatiladi?",
+   "variantlar": [
+    "Checkbutton()",
+    "Radiobutton()",
+    "Text()",
+    "Entry()"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ilova oynasida bosiladigan tugmacha yaratish uchun qaysi funksiya ishlatiladi?",
+   "variantlar": [
+    "Text()",
+    "Button()",
+    "Entry()",
+    "Label()"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tkinter modulida vijetlarni katakli koordinatalar tizimi asosida oynaga joylashtirish uchun qaysi usul ishlatiladi?",
+   "variantlar": [
+    "grid()",
+    "pack()",
+    "locate()",
+    "place()"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "GUI ilova yaratishning birinchi bosqichi nima?",
+   "variantlar": [
+    "Vijet qo'shish",
+    "Tkinter modulini import qilish",
+    "Asosiy siklga kirish",
+    "Oynani yopish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "window.title('My App') qatori nima vazifani bajaradi?",
+   "variantlar": [
+    "Tugmacha yaratadi",
+    "Oynaning o'lchamini belgilaydi",
+    "Oyna sarlavhasiga 'My App' nomini beradi",
+    "Oyna fonini rangga bo'yaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "window.geometry('250x50') qatori nimani belgilaydi?",
+   "variantlar": [
+    "Oyna fonining rangini",
+    "Tugmachaning eni",
+    "Oynaning eni 250, bo'yi 50 bo'lgan o'lchamini",
+    "Oyna sarlavhasini"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "window.configure(background='yellow') buyrug'i bajarilganda nima sodir bo'ladi?",
+   "variantlar": [
+    "Oyna sarlavhasi 'yellow' bo'ladi",
+    "Tugmacha o'chiriladi",
+    "Oynaning foni sariq rangga bo'yaladi",
+    "Matn maydoni yaratiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "my_label=Label(window, width=40, height=5, bg='yellow', text='') qatoridagi width=40 nimani bildiradi?",
+   "variantlar": [
+    "Tugmachaning enini",
+    "Shrift o'lchamini",
+    "Oynaning enini",
+    "Matn maydonining enini"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "my_label.grid(row=0, column=0) qatori vijet uchun nima qiladi?",
+   "variantlar": [
+    "Vijetni oynadan o'chiradi",
+    "Vijetning rangini o'zgartiradi",
+    "Vijetni 0-satr, 0-ustun katagiga joylashtiradi",
+    "Vijetning matnini o'zgartiradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Button funksiyasidagi command=change_text atributi qanday vazifani bajaradi?",
+   "variantlar": [
+    "Tugmacha bosilganda change_text funksiyasini ishga tushiradi",
+    "Tugmacha rangini belgilaydi",
+    "Tugmachani ko'rinmas qiladi",
+    "Tugmacha o'lchamini belgilaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "OptionMenu vijetida foydalanuvchi tanlagan qiymatni saqlash uchun qanday obyekt ishlatiladi?",
+   "variantlar": [
+    "Label()",
+    "Text()",
+    "Button()",
+    "StringVar() yoki IntVar()"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkita Radiobutton bir guruhga tegishli bo'lishi (faqat bittasi tanlanishi) uchun ularga nima berilishi kerak?",
+   "variantlar": [
+    "Bir xil text qiymati",
+    "Har xil grid koordinatasi",
+    "Bir xil variable obyekti (masalan StringVar)",
+    "Har xil width qiymati"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Checkbutton vijeti asosan qanday maqsadda ishlatiladi?",
+   "variantlar": [
+    "Oyna o'lchamini o'zgartirish uchun",
+    "Bir yoki bir nechta variantni belgilash (tanlash) uchun",
+    "Rasm chiqarish uchun",
+    "Matnni katta harflarga o'zgartirish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "PhotoImage() funksiyasida rasm faylining manzili qaysi parametr orqali ko'rsatiladi?",
+   "variantlar": [
+    "file parametri",
+    "source parametri",
+    "path parametri",
+    "image parametri"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Darslikdagi kodda my_label.config(text='Hello!') qatori qachon bajariladi?",
+   "variantlar": [
+    "Dastur ishga tushishi bilan darhol",
+    "Foydalanuvchi tugmachani bosganda, change_text funksiyasi chaqirilganda",
+    "Matn maydoni bo'sh bo'lganda",
+    "Oyna yopilganda"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rangi pushti, o'lchami 250x150 bo'lgan oynani yaratish uchun quyidagi kod qatorlari qaysi tartibda va shaklda to'g'ri bo'ladi?",
+   "variantlar": [
+    "window.configure(background='250x150') va window.geometry('pink')",
+    "window.title('pink') va window.geometry('250x150')",
+    "window.geometry('250x150') va window.configure(background='pink')",
+    "window.geometry('150x250') va window.configure(background='pink')"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "GUI ilova yaratishning to'g'ri ketma-ketligi qaysi?",
+   "variantlar": [
+    "Tkinter modulini import qilish, asosiy oyna yaratish, vijet qo'shish, asosiy siklga kirish",
+    "Oyna yaratish, asosiy siklga kirish, import qilish, vijet qo'shish",
+    "Vijet qo'shish, import qilish, oyna yaratish, asosiy siklga kirish",
+    "Asosiy siklga kirish, import qilish, oyna yaratish, vijet qo'shish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tugmacha bosilganda matnli maydon tarkibini 'Hello!' ga o'zgartiruvchi funksiya qanday to'g'ri yoziladi?",
+   "variantlar": [
+    "def change_text(): my_label.title('Hello!')",
+    "def change_text(): my_label = 'Hello!'",
+    "def change_text(): my_label.grid(text='Hello!')",
+    "def change_text(): my_label.config(text='Hello!')"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita Radiobutton (Ayol/Erkak) yaratilganda, ularning faqat bittasi tanlanishini ta'minlash uchun kodda nima qilinishi shart?",
+   "variantlar": [
+    "Har ikkalasiga bitta xil StringVar() obyektini variable sifatida berish",
+    "Har biriga alohida rang berish",
+    "Har biriga alohida oyna yaratish",
+    "Har biriga alohida grid koordinata berish yetarli"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tugmachani 1-satr, 0-ustun katagiga joylashtirish uchun qaysi kod qatori to'g'ri?",
+   "variantlar": [
+    "my_button.grid(row=0, column=1)",
+    "my_button.grid(row=1, column=0)",
+    "my_button.place(row=1, column=0)",
+    "my_button.pack(row=1, column=0)"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "window.mainloop() buyrug'i nima uchun dastur kodining eng oxirida yoziladi?",
+   "variantlar": [
+    "Oynani ochiq saqlab, foydalanuvchi amallariga (bosish, kiritish) javob beruvchi asosiy siklni ishga tushirish uchun",
+    "Oynani darhol yopish uchun",
+    "Dasturni tezlashtirish uchun",
+    "Vijetlarni o'chirish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Entry() va Text() vijetlari o'rtasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Entry bir qatorli matn kiritish uchun, Text esa ko'p qatorli matn kiritish/chiqarish uchun ishlatiladi",
+    "Ikkalasi ham faqat rasm ko'rsatish uchun ishlatiladi",
+    "Entry faqat sonlar, Text faqat harflar uchun ishlatiladi",
+    "Entry rasm ko'rsatadi, Text matn kiritadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Checkbutton bilan birga IntVar() obyekti nima uchun ishlatiladi?",
+   "variantlar": [
+    "Checkbutton holatini (belgilangan yoki belgilanmaganligini) saqlash uchun",
+    "Checkbutton rangini belgilash uchun",
+    "Checkbutton o'lchamini belgilash uchun",
+    "Checkbutton matnini o'zgartirish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Berilgan 4 ta mevadan birini tanlash imkonini beruvchi vijetni yaratish uchun qaysi funksiya ishlatilishi kerak?",
+   "variantlar": [
+    "PhotoImage()",
+    "OptionMenu()",
+    "Radiobutton()",
+    "Text()"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

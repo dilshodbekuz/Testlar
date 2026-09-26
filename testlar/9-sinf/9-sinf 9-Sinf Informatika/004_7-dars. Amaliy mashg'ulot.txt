@@ -1,0 +1,187 @@
+7-dars. Amaliy mashg'ulot
+
+--- OSON ---
+
+1. Mulohaza deb qanday gapga aytiladi?
+A) Har doim savol beruvchi gap
++B) Rost yoki yolg'on ekanligini aniq aytish mumkin bo'lgan darak gap
+C) His-hayajonni ifodalovchi undov gap
+D) Har qanday buyruq gap
+
+2. "Maktabga ketayotib, eshiklarni qulflang" gapi mulohaza bo'la olmaydi, chunki u...
+A) savol gap
++B) buyruq gap
+C) darak gap
+D) undov gap
+
+3. Mantiqiy amallarda "&" belgisi qaysi amalni ifodalaydi?
+A) Dizyunksiya (YOKI)
+B) Implikatsiya
++C) Konyunksiya (VA)
+D) Inkor (EMAS)
+
+4. Mantiqiy amallarda "∨" belgisi qaysi amalni ifodalaydi?
+A) Ekvivalentlik
+B) Konyunksiya (VA)
+C) Inkor (EMAS)
++D) Dizyunksiya (YOKI)
+
+5. "⏋" belgisi qaysi mantiqiy amalni bildiradi?
+A) Konyunksiya
++B) Inkor (EMAS)
+C) Implikatsiya
+D) Dizyunksiya
+
+6. "=>" belgisi qanday mantiqiy amalni ifodalaydi?
+A) Dizyunksiya
+B) Ekvivalentlik
+C) Konyunksiya
++D) Implikatsiya
+
+7. "<=>" belgisi qanday mantiqiy amalni ifodalaydi?
++A) Ekvivalentlik
+B) Konyunksiya
+C) Implikatsiya
+D) Inkor
+
+8. Mantiqiy sxemalarda nechta asosiy (VA, YOKI, EMAS) element turi ishlatiladi?
+A) 5
+B) 2
+C) 4
++D) 3
+
+9. NOT (EMAS) mantiqiy elementi nechta kirishga ega bo'ladi?
++A) 1
+B) Cheksiz
+C) 2
+D) 3
+
+10. Rostlik jadvali nima uchun tuziladi?
+A) Kompyuter komponentlarini hisoblash uchun
++B) Mantiqiy ifodaning barcha mumkin bo'lgan kirish qiymatlarida natijasini aniqlash uchun
+C) Sxemaning tashqi ko'rinishini chizish uchun
+D) Faqat rost mulohazalarni yozish uchun
+
+--- O'RTACHA ---
+
+11. A=1, B=0 bo'lsa, A&B ifodaning qiymati nechaga teng?
+A) 2
++B) 0
+C) Aniqlab bo'lmaydi
+D) 1
+
+12. A=1, B=0 bo'lsa, A∨B ifodaning qiymati nechaga teng?
+A) 0
+B) A ga bog'liq emas
+C) Aniqlanmaydi
++D) 1
+
+13. A=0 bo'lsa, ⏋A qiymati nechaga teng?
+A) 0
++B) 1
+C) Aniqlanmaydi
+D) A ga teng
+
+14. A=0, B=1 bo'lsa, A=>B ifodaning qiymati nechaga teng?
+A) A ga teng
++B) 1
+C) B ga teng
+D) 0
+
+15. Mantiqiy amallar bajarilish tartibida eng birinchi bajariladigan amal qaysi?
++A) Inkor (⏋)
+B) Implikatsiya (=>)
+C) Ekvivalentlik (<=>)
+D) Dizyunksiya (∨)
+
+16. 3 ta o'zgaruvchili mantiqiy ifoda uchun rostlik jadvalida nechta qator bo'ladi?
+A) 16
+B) 9
+C) 6
++D) 8
+
+17. A&B=0 bo'lishi uchun qanday shart bajarilishi kerak?
++A) A yoki B lardan kamida biri 0 bo'lishi kerak
+B) Faqat A=0 bo'lishi kerak
+C) A va B ikkisi ham 1 bo'lishi kerak
+D) A va B teng bo'lishi kerak
+
+18. A∨B=1 bo'lishi uchun qanday shart yetarli?
+A) A va B ikkisi ham 1 bo'lishi kerak
+B) A va B ikkisi ham 0 bo'lishi kerak
++C) A yoki B lardan kamida biri 1 bo'lishi kifoya
+D) A va B teng bo'lishi kerak
+
+19. "5⋅2<14,6+3" ifodasi qanday mulohaza hisoblanadi?
++A) Rost mulohaza
+B) Noaniq mulohaza
+C) Mulohaza emas
+D) Yolg'on mulohaza
+
+20. A=1, B=1, C=0 bo'lganda A&B∨C ifodaning qiymatini toping.
+A) 2
++B) 1
+C) Aniqlanmaydi
+D) 0
+
+--- QIYIN ---
+
+21. A=1, B=0, C=1 bo'lganda ⏋(A&C)∨⏋B ifodaning qiymatini toping.
+A) 2
+B) 0
+C) Aniqlanmaydi
++D) 1
+
+22. A=0, B=1, C=0 bo'lganda ⏋A&(⏋B∨C) ifodaning qiymatini toping.
++A) 0
+B) A ga teng
+C) 1
+D) B ga teng
+
+23. A=0, B=1, C=1 bo'lganda A&B∨(⏋C) ifodaning qiymatini toping.
++A) 0
+B) Aniqlanmaydi
+C) 1
+D) 2
+
+24. ⏋(A&B) (VA-EMAS) sxemasining chiqishida 0 hosil bo'lishi uchun A va B qanday qiymatlarga ega bo'lishi kerak?
+A) A=1, B=0
+B) A=0, B=1
++C) A=1, B=1
+D) A=0, B=0
+
+25. A∨B&(⏋C∨E) ifodada amallar tartibi bo'yicha eng oxirida bajariladigan amal qaysi?
+A) Inkor (⏋C)
+B) Konyunksiya (B bilan)
++C) Tashqi dizyunksiya (A bilan)
+D) Ichki dizyunksiya (⏋C∨E)
+
+26. A<=>B ifodasi uchun rostlik jadvalida nechta holatda natija "1" (rost) bo'ladi?
++A) 2
+B) 1
+C) 4
+D) 3
+
+27. D∨⏋B&A&(B∨⏋A) ifodada D=0, A=1, B=1 bo'lganda natijani toping.
+A) 2
++B) 0
+C) Aniqlanmaydi
+D) 1
+
+28. ⏋(A=>B∨C)&(D=>⏋B) ifodada A=1, B=0, C=0, D=1 bo'lganda qiymatini toping.
+A) Aniqlanmaydi
+B) 2
++C) 1
+D) 0
+
+29. A∨⏋B&C ifodada A=0, B=0, C=1 bo'lganda ifodaning qiymatini toping.
+A) 2
+B) 0
++C) 1
+D) Aniqlanmaydi
+
+30. B&⏋(C∨⏋B=>A) ifodasida parentez ichida eng oxirida bajariladigan amal qaysi?
+A) Inkor (⏋B)
+B) Konyunksiya (B bilan)
++C) Implikatsiya (=>A)
+D) Dizyunksiya (C∨⏋B)

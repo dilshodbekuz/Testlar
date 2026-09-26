@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Informatika",
+ "mavzu": "7-dars. Amaliy mashg'ulot",
+ "savollar": [
+  {
+   "savol": "Mulohaza deb qanday gapga aytiladi?",
+   "variantlar": [
+    "Har doim savol beruvchi gap",
+    "Rost yoki yolg'on ekanligini aniq aytish mumkin bo'lgan darak gap",
+    "His-hayajonni ifodalovchi undov gap",
+    "Har qanday buyruq gap"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Maktabga ketayotib, eshiklarni qulflang\" gapi mulohaza bo'la olmaydi, chunki u...",
+   "variantlar": [
+    "savol gap",
+    "buyruq gap",
+    "darak gap",
+    "undov gap"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mantiqiy amallarda \"&\" belgisi qaysi amalni ifodalaydi?",
+   "variantlar": [
+    "Dizyunksiya (YOKI)",
+    "Implikatsiya",
+    "Konyunksiya (VA)",
+    "Inkor (EMAS)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mantiqiy amallarda \"∨\" belgisi qaysi amalni ifodalaydi?",
+   "variantlar": [
+    "Ekvivalentlik",
+    "Konyunksiya (VA)",
+    "Inkor (EMAS)",
+    "Dizyunksiya (YOKI)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"⏋\" belgisi qaysi mantiqiy amalni bildiradi?",
+   "variantlar": [
+    "Konyunksiya",
+    "Inkor (EMAS)",
+    "Implikatsiya",
+    "Dizyunksiya"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"=>\" belgisi qanday mantiqiy amalni ifodalaydi?",
+   "variantlar": [
+    "Dizyunksiya",
+    "Ekvivalentlik",
+    "Konyunksiya",
+    "Implikatsiya"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"<=>\" belgisi qanday mantiqiy amalni ifodalaydi?",
+   "variantlar": [
+    "Ekvivalentlik",
+    "Konyunksiya",
+    "Implikatsiya",
+    "Inkor"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mantiqiy sxemalarda nechta asosiy (VA, YOKI, EMAS) element turi ishlatiladi?",
+   "variantlar": [
+    "5",
+    "2",
+    "4",
+    "3"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "NOT (EMAS) mantiqiy elementi nechta kirishga ega bo'ladi?",
+   "variantlar": [
+    "1",
+    "Cheksiz",
+    "2",
+    "3"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rostlik jadvali nima uchun tuziladi?",
+   "variantlar": [
+    "Kompyuter komponentlarini hisoblash uchun",
+    "Mantiqiy ifodaning barcha mumkin bo'lgan kirish qiymatlarida natijasini aniqlash uchun",
+    "Sxemaning tashqi ko'rinishini chizish uchun",
+    "Faqat rost mulohazalarni yozish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A=1, B=0 bo'lsa, A&B ifodaning qiymati nechaga teng?",
+   "variantlar": [
+    "2",
+    "0",
+    "Aniqlab bo'lmaydi",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A=1, B=0 bo'lsa, A∨B ifodaning qiymati nechaga teng?",
+   "variantlar": [
+    "0",
+    "A ga bog'liq emas",
+    "Aniqlanmaydi",
+    "1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A=0 bo'lsa, ⏋A qiymati nechaga teng?",
+   "variantlar": [
+    "0",
+    "1",
+    "Aniqlanmaydi",
+    "A ga teng"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A=0, B=1 bo'lsa, A=>B ifodaning qiymati nechaga teng?",
+   "variantlar": [
+    "A ga teng",
+    "1",
+    "B ga teng",
+    "0"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mantiqiy amallar bajarilish tartibida eng birinchi bajariladigan amal qaysi?",
+   "variantlar": [
+    "Inkor (⏋)",
+    "Implikatsiya (=>)",
+    "Ekvivalentlik (<=>)",
+    "Dizyunksiya (∨)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3 ta o'zgaruvchili mantiqiy ifoda uchun rostlik jadvalida nechta qator bo'ladi?",
+   "variantlar": [
+    "16",
+    "9",
+    "6",
+    "8"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A&B=0 bo'lishi uchun qanday shart bajarilishi kerak?",
+   "variantlar": [
+    "A yoki B lardan kamida biri 0 bo'lishi kerak",
+    "Faqat A=0 bo'lishi kerak",
+    "A va B ikkisi ham 1 bo'lishi kerak",
+    "A va B teng bo'lishi kerak"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A∨B=1 bo'lishi uchun qanday shart yetarli?",
+   "variantlar": [
+    "A va B ikkisi ham 1 bo'lishi kerak",
+    "A va B ikkisi ham 0 bo'lishi kerak",
+    "A yoki B lardan kamida biri 1 bo'lishi kifoya",
+    "A va B teng bo'lishi kerak"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"5⋅2<14,6+3\" ifodasi qanday mulohaza hisoblanadi?",
+   "variantlar": [
+    "Rost mulohaza",
+    "Noaniq mulohaza",
+    "Mulohaza emas",
+    "Yolg'on mulohaza"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A=1, B=1, C=0 bo'lganda A&B∨C ifodaning qiymatini toping.",
+   "variantlar": [
+    "2",
+    "1",
+    "Aniqlanmaydi",
+    "0"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A=1, B=0, C=1 bo'lganda ⏋(A&C)∨⏋B ifodaning qiymatini toping.",
+   "variantlar": [
+    "2",
+    "0",
+    "Aniqlanmaydi",
+    "1"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A=0, B=1, C=0 bo'lganda ⏋A&(⏋B∨C) ifodaning qiymatini toping.",
+   "variantlar": [
+    "0",
+    "A ga teng",
+    "1",
+    "B ga teng"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A=0, B=1, C=1 bo'lganda A&B∨(⏋C) ifodaning qiymatini toping.",
+   "variantlar": [
+    "0",
+    "Aniqlanmaydi",
+    "1",
+    "2"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "⏋(A&B) (VA-EMAS) sxemasining chiqishida 0 hosil bo'lishi uchun A va B qanday qiymatlarga ega bo'lishi kerak?",
+   "variantlar": [
+    "A=1, B=0",
+    "A=0, B=1",
+    "A=1, B=1",
+    "A=0, B=0"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A∨B&(⏋C∨E) ifodada amallar tartibi bo'yicha eng oxirida bajariladigan amal qaysi?",
+   "variantlar": [
+    "Inkor (⏋C)",
+    "Konyunksiya (B bilan)",
+    "Tashqi dizyunksiya (A bilan)",
+    "Ichki dizyunksiya (⏋C∨E)"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A<=>B ifodasi uchun rostlik jadvalida nechta holatda natija \"1\" (rost) bo'ladi?",
+   "variantlar": [
+    "2",
+    "1",
+    "4",
+    "3"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "D∨⏋B&A&(B∨⏋A) ifodada D=0, A=1, B=1 bo'lganda natijani toping.",
+   "variantlar": [
+    "2",
+    "0",
+    "Aniqlanmaydi",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "⏋(A=>B∨C)&(D=>⏋B) ifodada A=1, B=0, C=0, D=1 bo'lganda qiymatini toping.",
+   "variantlar": [
+    "Aniqlanmaydi",
+    "2",
+    "1",
+    "0"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A∨⏋B&C ifodada A=0, B=0, C=1 bo'lganda ifodaning qiymatini toping.",
+   "variantlar": [
+    "2",
+    "0",
+    "1",
+    "Aniqlanmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "B&⏋(C∨⏋B=>A) ifodasida parentez ichida eng oxirida bajariladigan amal qaysi?",
+   "variantlar": [
+    "Inkor (⏋B)",
+    "Konyunksiya (B bilan)",
+    "Implikatsiya (=>A)",
+    "Dizyunksiya (C∨⏋B)"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

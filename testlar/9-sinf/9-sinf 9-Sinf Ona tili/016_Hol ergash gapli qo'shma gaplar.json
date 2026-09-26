@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Ona tili",
+ "mavzu": "Hol ergash gapli qo'shma gaplar",
+ "savollar": [
+  {
+   "savol": "Qanday gaplar hol ergash gap deb ataladi?",
+   "variantlar": [
+    "Bosh gap kesimining payt, o'rin, sabab, maqsad, shart kabi holini bildiruvchi ergash gaplar",
+    "Bosh gapdagi ega vazifasidagi so'zni izohlovchi ergash gaplar",
+    "Bosh gapdagi aniqlovchini izohlovchi ergash gaplar",
+    "Bosh gapdagi to'ldiruvchini izohlovchi ergash gaplar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hol ergash gaplar bosh gapga asosan qanday bog'lanadi?",
+   "variantlar": [
+    "Shart mayli qo'shimchasi (-sa), deb, chunki kabi vositalar bilan",
+    "Faqat bog'lovchisiz",
+    "Faqat undov bilan",
+    "Faqat -ki yuklamasi bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yozuvda hol ergash gap bosh gapdan qanday tinish belgisi bilan ajratiladi?",
+   "variantlar": [
+    "Vergul bilan",
+    "Ikki nuqta bilan",
+    "Nuqta bilan",
+    "Qavs bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Chunki\" bog'lovchisi yordamida bog'langan ergash gap qanday ma'noni bildiradi?",
+   "variantlar": [
+    "Payt",
+    "Shart",
+    "Maqsad",
+    "Sabab"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"...masin deb, ...qilmadik\" tuzilishidagi ergash gap qanday ma'noni bildiradi?",
+   "variantlar": [
+    "Maqsad",
+    "Payt",
+    "O'rin",
+    "Sabab"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "-sin qo'shimchasi fe'lning qaysi shaklini yasaydi?",
+   "variantlar": [
+    "Sifatdosh",
+    "Shart mayli",
+    "Buyruq-istak mayli (III shaxs)",
+    "Aniqlik mayli"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shart ma'nosini bildiruvchi hol ergash gapning kesimi qaysi fe'l shakli bilan ifodalanadi?",
+   "variantlar": [
+    "Ravishdosh",
+    "Sifatdosh",
+    "Shart mayli (-sa)",
+    "Buyruq mayli"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Payt ma'nosini bildiruvchi hol ergash gap qaysi so'roqqa javob bo'ladi?",
+   "variantlar": [
+    "Qancha?",
+    "Nima uchun?",
+    "Qayerda?",
+    "Qachon?"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Qayerda... o'sha yerda\" qoliplangan konstruksiya qanday ma'noli hol ergash gap hosil qiladi?",
+   "variantlar": [
+    "O'rin",
+    "Sabab",
+    "Payt",
+    "Miqdor-daraja"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Qancha... shuncha\" qoliplangan konstruksiya qaysi ma'noli hol ergash gapni hosil qiladi?",
+   "variantlar": [
+    "Sabab",
+    "O'rin",
+    "Miqdor-daraja",
+    "Maqsad"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Oqsoqol qayerda bo'lsa, o'sha joyda ish bir tartibda borardi\" gapidagi ergash gap qanday ma'no turiga kiradi?",
+   "variantlar": [
+    "Payt",
+    "Sabab",
+    "O'rin",
+    "Maqsad"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Dutor chalib o'tirsam, tori uzilib ketdi\" gapida ergash gap qanday ma'noni ifodalaydi?",
+   "variantlar": [
+    "Sabab",
+    "O'rin",
+    "Shart",
+    "Payt"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Sizni qo'rqib ketmasin deb, kechqurun bezovta qilmadik\" gapida ergash gap qanday ma'noni bildiradi?",
+   "variantlar": [
+    "Payt",
+    "Sabab",
+    "Maqsad",
+    "Shart"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Boshingga tashvish tushmasa, qaytib kelmasding\" gapida ergash gap bosh gapga qaysi vosita bilan bog'langan?",
+   "variantlar": [
+    "-ki",
+    "-sa (shart mayli)",
+    "Deb",
+    "Chunki"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Oyna opa xatni oxirigacha o'qiy olmadi, chunki hovlining eshigini kimdir taqillata boshladi\" gapida ergash gap qanday ma'noni bildiradi?",
+   "variantlar": [
+    "Shart",
+    "Sabab",
+    "Maqsad",
+    "Payt"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"G'afur G'ulom etagini silkitsa, kulgi to'kilardi\" gapida ergash gap kesimi qaysi mayl shaklida ifodalangan?",
+   "variantlar": [
+    "Aniqlik mayli",
+    "Buyruq mayli",
+    "Istak mayli",
+    "Shart mayli"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"O'simlikni qancha parvarish qilsang, shuncha mo'l hosil olasan\" gapida ergash gap qanday ma'no bildiradi?",
+   "variantlar": [
+    "Maqsad",
+    "O'rin",
+    "Sabab",
+    "Miqdor-daraja"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Soy qanchalik tez oqsa, u shunchalik sayoz bo'ladi\" gapida ergash gap qanday ma'no turiga kiradi?",
+   "variantlar": [
+    "Miqdor-daraja",
+    "Shart",
+    "Sabab",
+    "Payt"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Sizni suvdan o'tkazib qo'ymasam, menga bergan noningiz harom bo'lg'ay\" gapida ergash gap qanday ma'noni bildiradi?",
+   "variantlar": [
+    "Shart",
+    "Sabab",
+    "Payt",
+    "Maqsad"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Qayerda ahillik bo'lsa, o'sha yerda qut-baraka bo'ladi\" gapida ergash gap qanday ma'no turiga kiradi?",
+   "variantlar": [
+    "Sabab",
+    "Payt",
+    "Miqdor-daraja",
+    "O'rin"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Hali Onaxonning bilmaganlari shu qadar ko'p ediki, so'rab oxiriga yetolmasday ko'rindi\" gapida -ki yuklamasi ergash gapni bosh gapga bog'lab, qanday ma'noni kuchaytiradi?",
+   "variantlar": [
+    "O'rin",
+    "Sabab",
+    "Maqsad",
+    "Miqdor-daraja"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi \"deb\" bilan bog'langan ergash gaplarning kesimi ko'pincha qaysi fe'l shakli bilan ifodalanib, maqsad ma'nosini kuchaytiradi?",
+   "variantlar": [
+    "Sifatdosh",
+    "Shart mayli",
+    "-sin qo'shimchali buyruq-istak mayli",
+    "Ravishdosh"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Shart va payt ma'noli hol ergash gaplarni farqlashda asosan nimaga e'tibor berish lozim?",
+   "variantlar": [
+    "Ergash gap va bosh gap orasidagi mantiqiy bog'liqlik va so'roqqa",
+    "Gapning uzunligiga",
+    "Ega bilan kesim orasidagi masofaga",
+    "Kesimning shaxs-soniga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Qayerga borsa, o'sha yerda atrofini yosh-u qari o'rab olardi\" gapida ergash gap qaysi ikki ma'noni o'zida birlashtiradi?",
+   "variantlar": [
+    "Payt va daraja",
+    "Miqdor va sabab",
+    "O'rin va shart",
+    "Sabab va maqsad"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi \"-sa\" bilan tugagan barcha fe'llar bir xil ma'no turini (shartni) bildiradimi?",
+   "variantlar": [
+    "Ha, har doim faqat shart ma'nosini bildiradi",
+    "Ha, faqat payt ma'nosini bildiradi",
+    "Yo'q, kontekstga qarab shart, payt yoki miqdor-daraja ma'nosini bildirishi mumkin",
+    "Yo'q, faqat sabab ma'nosini bildiradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Odamlar ishdan qolmasin deb, marosimni soat besh yarimga tayin qilganmiz\" gapida ergash gap kesimi qaysi shaklda va nima uchun aynan shu shakl tanlangan?",
+   "variantlar": [
+    "Sifatdosh, o'rinni bildirish uchun",
+    "-sin qo'shimchali fe'l, maqsadni ifodalash uchun",
+    "Shart mayli, sababni bildirish uchun",
+    "Ravishdosh, paytni bildirish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Qancha-shuncha\" va \"qanchalik-shunchalik\" qoliplangan hol ergash gaplarning umumiy xususiyati nima?",
+   "variantlar": [
+    "Ikkala qism o'rtasida faqat o'rin bog'liqligi bo'ladi",
+    "Ikkala qism o'rtasida faqat vaqt bog'liqligi bo'ladi",
+    "Ikkala qism o'rtasida miqdor yoki daraja jihatidan bog'liqlik ifodalanadi",
+    "Ikkala qism o'rtasida faqat sabab-natija bog'liqligi bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnda hol ergash gaplarni bosh gapga bog'lovchi nechta asosiy vosita ko'rsatilgan (-sa, deb, chunki, -ki, qayerda-o'sha yerda, qancha-shuncha)?",
+   "variantlar": [
+    "6 ta",
+    "3 ta",
+    "8 ta",
+    "4 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Dutor chalib o'tirsam, tori uzilib ketdi\" gapida ergash gapning payt ma'nosida ekanligini qanday aniqlash mumkin?",
+   "variantlar": [
+    "\"Qachon?\" so'rog'iga javob bo'lib, ikki harakatning bir vaqtda yuz berganini bildirishidan",
+    "\"Qayerda?\" so'rog'iga javob bo'lishidan",
+    "\"Qancha?\" so'rog'iga javob bo'lishidan",
+    "\"Nima uchun?\" so'rog'iga javob bo'lishidan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hol ergash gapli qo'shma gaplarda ergash gapning bosh gapdan oldin yoki keyin kelishi asosan nimaga bog'liq?",
+   "variantlar": [
+    "Gapning uzunligiga",
+    "Kesimning zamoniga",
+    "Egaga",
+    "Qo'llangan bog'lovchi vositaning turiga (masalan, -sa old, deb old, chunki keyin)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

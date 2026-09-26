@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Geometriya",
+ "mavzu": "Uchburchak yuzini burchak sinusi yordamida hisoblash",
+ "savollar": [
+  {
+   "savol": "Uchburchak yuzi haqidagi 1-teorema qanday ta'riflanadi?",
+   "variantlar": [
+    "Uchburchak yuzi uning barcha tomonlari yig'indisining yarmiga teng",
+    "Uchburchak yuzi uning ikki tomoni ko'paytmasiga teng",
+    "Uchburchak yuzi uning ikki tomoni bilan shu tomonlar orasidagi burchak sinusi ko'paytmasining yarmiga teng",
+    "Uchburchak yuzi uning balandligi va asosi ko'paytmasiga teng"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "SABC = (1/2)ab.sinC formulasida C burchak nimani anglatadi?",
+   "variantlar": [
+    "a va b tomonlar orasidagi burchakni",
+    "to'g'ri burchakni",
+    "uchburchakning eng katta burchagini",
+    "c tomonga qarshi turgan burchakni"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Parallelogramm yuzi qo'shni tomonlari va ular orasidagi burchak orqali qanday formula bilan hisoblanadi?",
+   "variantlar": [
+    "SABCD = ab.sinα",
+    "SABCD = (1/2)ab.sinα",
+    "SABCD = a²+b²",
+    "SABCD = 2ab.sinα"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'rtburchak yuzi diagonallari orqali qanday hisoblanadi?",
+   "variantlar": [
+    "Diagonallar ko'paytmasiga teng",
+    "Diagonallar kvadratlari yig'indisiga teng",
+    "Diagonallar yig'indisining yarmiga teng",
+    "Diagonallar ko'paytmasi va ular orasidagi burchak sinusi ko'paytmasining yarmiga teng"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar diagonallar kesishishidan hosil bo'lgan ∠AOB = α bo'lsa, unga vertikal bo'lgan ∠COD nechaga teng?",
+   "variantlar": [
+    "90°-α",
+    "180°-α",
+    "α",
+    "2α"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar ∠AOB = α bo'lsa, unga qo'shni bo'lgan ∠BOC nechaga teng?",
+   "variantlar": [
+    "α",
+    "90°+α",
+    "180°-α",
+    "360°-α"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "SABC=(1/2)bc.sinA formulasida b va c qanday tomonlar hisoblanadi?",
+   "variantlar": [
+    "A burchak bissektrisasining bo'laklari",
+    "A burchakka qarshi turgan tomon va uning yarmi",
+    "A burchakka tutashgan (qo'shni) tomonlar",
+    "Uchburchakning balandliklari"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1-masalada AB tomonni topish uchun qaysi formula qo'llanildi?",
+   "variantlar": [
+    "AB = SABC.AC.sinA",
+    "AB = SABC/(2AC)",
+    "AB = AC.sinA",
+    "AB = 2SABC/(AC.sinA)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "2-masala isbotida BE balandlik AB tomon va α burchak orqali qanday ifodalangan?",
+   "variantlar": [
+    "BE = AB.sinα",
+    "BE = AB.cosα",
+    "BE = AB/sinα",
+    "BE = 2AB.sinα"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Romb - bu xususiy parallelogramm bo'lgani uchun uning yuzini hisoblashda qanday xulosaga kelish mumkin?",
+   "variantlar": [
+    "Faqat diagonallar formulasidan foydalanish mumkin, boshqa yo'l yo'q",
+    "SABCD = ab.sinα formulasidan foydalanish mumkin, chunki romb tomonlari teng (a=b)",
+    "Romb yuzini sinus yordamida hisoblab bo'lmaydi",
+    "Faqat Geron formulasidan foydalanish kerak"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "AB=6 cm, AC=10 cm, ∠A=30° bo'lsa, ABC uchburchak yuzini toping.",
+   "variantlar": [
+    "30 cm²",
+    "60 cm²",
+    "15 cm²",
+    "7,5 cm²"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "AC=14 cm, BC=7√3 cm, ∠C=60° bo'lsa, ABC uchburchak yuzini toping.",
+   "variantlar": [
+    "98 cm²",
+    "73,5 cm²",
+    "49 cm²",
+    "147 cm²"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "BC=3 cm, AB=4√2 cm, ∠B=45° bo'lsa, ABC uchburchak yuzini toping.",
+   "variantlar": [
+    "3√2 cm²",
+    "12 cm²",
+    "6 cm²",
+    "24 cm²"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Parallelogrammning qo'shni tomonlari 5 cm va 6 cm, ular orasidagi burchak 30° bo'lsa, parallelogramm yuzini toping.",
+   "variantlar": [
+    "11 cm²",
+    "60 cm²",
+    "15 cm²",
+    "30 cm²"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ABC uchburchakning yuzi 24 cm², AB=8 cm, AC=6 cm bo'lsa, ∠A ni toping.",
+   "variantlar": [
+    "30°",
+    "90°",
+    "60°",
+    "45°"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Parallelogramm yuzi 40 cm², tomonlari 8 cm va 10 cm bo'lsa, tomonlar orasidagi burchak sinusini toping.",
+   "variantlar": [
+    "1",
+    "0,8",
+    "0,4",
+    "0,5"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "AB=9 cm, AC=10 cm, ∠A=60° bo'lsa, ABC uchburchak yuzini toping.",
+   "variantlar": [
+    "22,5√3 cm²",
+    "90 cm²",
+    "45 cm²",
+    "45√3 cm²"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "BC=5 cm, AC=7 cm, ∠C=90° bo'lsa, ABC uchburchak yuzini toping.",
+   "variantlar": [
+    "17,5 cm²",
+    "35 cm²",
+    "12 cm²",
+    "24,5 cm²"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "To'rtburchakning diagonallari 10 cm va 8 cm, ular orasidagi burchak 90° bo'lsa, to'rtburchak yuzini toping.",
+   "variantlar": [
+    "18 cm²",
+    "80 cm²",
+    "20 cm²",
+    "40 cm²"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "To'rtburchakning diagonallari 6 cm va 6 cm, ular orasidagi burchak 60° bo'lsa, to'rtburchak yuzini toping.",
+   "variantlar": [
+    "9√3 cm²",
+    "9 cm²",
+    "18 cm²",
+    "36 cm²"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "To'g'ri to'rtburchakning diagonali 12 cm va diagonallari orasidagi burchak 30° bo'lsa, uning yuzini toping (to'g'ri to'rtburchakda diagonallar teng ekanini eslang).",
+   "variantlar": [
+    "72 cm²",
+    "18 cm²",
+    "36 cm²",
+    "144 cm²"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rombning tomoni 7√2 cm va o'tmas burchagi 135° bo'lsa, romb yuzini toping.",
+   "variantlar": [
+    "98 cm²",
+    "49 cm²",
+    "98√2 cm²",
+    "49√2 cm²"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "ABC uchburchakning yuzi 6√2 cm², AB=9 cm, ∠A=45° bo'lsa, AC tomonni toping.",
+   "variantlar": [
+    "3/8 cm",
+    "4/3 cm",
+    "3 cm",
+    "8/3 cm"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Oldingi masaladagi shartlarda (S=6√2 cm², AB=9 cm, ∠A=45°, AC=8/3 cm) AC tomonga tushirilgan balandlikni toping.",
+   "variantlar": [
+    "3√2 cm",
+    "9√2/2 cm",
+    "4√2 cm",
+    "6 cm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "ABC uchburchakda AB=8 cm, AC=12 cm, ∠A=60° bo'lsa, A burchakdan tushirilgan AD bissektrisani toping (ko'rsatma: SABC=SABD+SADC).",
+   "variantlar": [
+    "24√3/5 cm",
+    "20/√3 cm",
+    "6√3 cm",
+    "12√3/5 cm"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "ABC uchburchakda ∠A=30°, B va C uchlaridan tushirilgan balandliklar mos ravishda hb=6 cm va hc=8 cm bo'lsa, uchburchak yuzini toping.",
+   "variantlar": [
+    "12 cm²",
+    "48 cm²",
+    "24 cm²",
+    "96 cm²"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Parallelogramm yuzi 50 cm², bir tomoni 10 cm, tomonlar orasidagi burchak sinusi 0,8 bo'lsa, ikkinchi tomonni toping.",
+   "variantlar": [
+    "5 cm",
+    "4 cm",
+    "8 cm",
+    "6,25 cm"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "To'rtburchakning bir diagonali 10 cm, diagonallar orasidagi burchak 45° va to'rtburchak yuzi 25√2 cm² bo'lsa, ikkinchi diagonalni toping.",
+   "variantlar": [
+    "12,5 cm",
+    "10 cm",
+    "5 cm",
+    "20 cm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "ABC uchburchakning yuzi 18√3 cm², AB=12 cm, ∠A=60° bo'lsa, AC tomonni toping.",
+   "variantlar": [
+    "3 cm",
+    "9 cm",
+    "12 cm",
+    "6 cm"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "SABC=(1/2)ab.sinC=(1/2)bc.sinA=(1/2)ac.sinB tengliklaridan ab.sinC=bc.sinA tenglamasini soddalashtirsak, qanday muhim natijaga kelamiz?",
+   "variantlar": [
+    "a.sinC=c.sinA, ya'ni a/sinA=c/sinC (sinuslar teoremasining asosi)",
+    "sinA=sinC har doim",
+    "a=c har doim",
+    "Uchburchak teng tomonli bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

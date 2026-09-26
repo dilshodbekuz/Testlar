@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Ona tili",
+ "mavzu": "Sodda va qo'shma gaplar",
+ "savollar": [
+  {
+   "savol": "Sodda gap qanday ta'riflanadi?",
+   "variantlar": [
+    "Ikki yoki undan ortiq sodda gapning grammatik munosabatidan tashkil topgan gap",
+    "Faqat bog'lovchilar bilan bog'langan gap",
+    "Bitta kesimlik belgisiga, mazmuniy va ohang tugalligiga ega bo'lgan gap",
+    "Faqat ergashtiruvchi bog'lovchilar bilan tuzilgan gap"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qo'shma gap qanday ta'riflanadi?",
+   "variantlar": [
+    "Ohangsiz tuzilgan gap",
+    "Ikki yoki undan ortiq sodda gapning o'zaro grammatik va mazmuniy munosabatidan tashkil topgan, ohang tugalligiga ega bo'lgan butunlik",
+    "Bitta kesimlik belgisiga ega bo'lgan gap",
+    "Faqat bitta bosh bo'lakdan iborat gap"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gaplarni sodda va qo'shma gaplarga ajratishda asosiy mezon nima hisoblanadi?",
+   "variantlar": [
+    "Kesimning nechtaligi",
+    "Gapning uzunligi",
+    "Ega bo'lagining o'rni",
+    "Gapdagi so'zlar soni"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Men o'quvchiman\" gapi darslikda qanday gap turiga misol qilib berilgan?",
+   "variantlar": [
+    "Qo'shma gap",
+    "Sodda gap",
+    "Ergashgan qo'shma gap",
+    "Bog'lovchisiz qo'shma gap"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Olim bo'lsang, olam seniki\" gapi darslikda qanday gap turiga misol qilib berilgan?",
+   "variantlar": [
+    "Sodda gap",
+    "Kesimsiz gap",
+    "Qo'shma gap",
+    "Ega bilan kesim mos kelmagan gap"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qo'shma gapni tashkil etgan sodda gaplar nima deb ataladi?",
+   "variantlar": [
+    "Bosh gaplar",
+    "Ergash gaplar",
+    "Qo'shma gap qismlari",
+    "Bog'lovchi vositalar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qo'shma gap qismlarini bog'lash uchun xizmat qiladigan vositalar nima deyiladi?",
+   "variantlar": [
+    "Bog'lovchi vositalar",
+    "Kesimlik belgilari",
+    "Ohang belgilari",
+    "Qo'shma gap qismlari"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Darslikka ko'ra, qo'shma gap qismlari nechta asosiy vosita turi yordamida bog'lanadi?",
+   "variantlar": [
+    "To'rtta",
+    "Beshta",
+    "Uchta",
+    "Ikkita"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bog'lovchi vositalarga ko'ra qo'shma gaplar nechta guruhga bo'linadi?",
+   "variantlar": [
+    "Beshta",
+    "Uchta",
+    "To'rtta",
+    "Ikkita"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri teng bog'lovchi hisoblanadi?",
+   "variantlar": [
+    "va",
+    "-ki",
+    "chunki",
+    "shuning uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Do'stlikdan o'tadigan hech narsa yo'q, shuning uchun do'st orttirish imkoniyatini sira qo'ldan boy berma\" gapida qismlar qaysi vosita bilan bog'langan?",
+   "variantlar": [
+    "-ki",
+    "shuning uchun",
+    "chunki",
+    "va"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"O'zingga do'st tanla, chunki bir o'zing baxtli bo'lolmaysan\" gapida ishlatilgan bog'lovchi qanday turga kiradi?",
+   "variantlar": [
+    "Teng bog'lovchi",
+    "Yuklama",
+    "Ergashtiruvchi bog'lovchi",
+    "Nisbiy so'z"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Yaxshi fikr tiniq uslubni talab qiladi, uslub esa fikr libosidir\" gapida qismlarni bog'lovchi vosita qaysi?",
+   "variantlar": [
+    "chunki",
+    "va",
+    "-sa",
+    "esa"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Fikr ravshan bo'lsa, albatta, uning shakli ham ravshan bo'ladi\" gapida qo'shma gap qismlari qaysi vosita bilan bog'langan?",
+   "variantlar": [
+    "Teng bog'lovchi",
+    "Shart mayli qo'shimchasi (-sa)",
+    "Nisbiy so'z",
+    "-ki yuklamasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Adab kichkinalar mehrini ulug'lar ko'ngliga soladi va u mehr kattalar ko'nglida abadiy qoladi\" gapida qo'llangan bog'lovchi qaysi turga kiradi?",
+   "variantlar": [
+    "Yuklama",
+    "Ergashtiruvchi bog'lovchi",
+    "Teng bog'lovchi",
+    "Ko'makchili qurilma"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Badanning quvvati – ovqat, aqlning kaliti – hikmat\" gapida qismlar qanday bog'langan?",
+   "variantlar": [
+    "-ki yuklamasi bilan",
+    "Bog'lovchisiz, faqat ohang bilan",
+    "Ergashtiruvchi bog'lovchi bilan",
+    "Teng bog'lovchi bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Shuni bilki, odamlar do'stlik tufayli baxtiyordir\" gapida bog'lovchi vazifasini nima bajarmoqda?",
+   "variantlar": [
+    "shuning uchun",
+    "va bog'lovchisi",
+    "-ki yuklamasi",
+    "bo'lsa"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi bog'lovchi vazifasidagi vositalardan qaysi biri \"shu sababli\" bilan bir guruhga (ko'makchili qurilmalar) kiradi?",
+   "variantlar": [
+    "va",
+    "shu tufayli",
+    "yo",
+    "ammo"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Dunyo ko'rgan odam bilan hamsuhbat bo'lsang, bahri diling ochiladi\" gapida qismlar qanday bog'langan?",
+   "variantlar": [
+    "Faqat ohang yordamida",
+    "-ki yuklamasi yordamida",
+    "Teng bog'lovchi yordamida",
+    "Shart mayli qo'shimchasi (-sa) yordamida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"O'z tilingni hurmat qil, u senga keng imkoniyatlar ochib beradi\" gapida qismlar orasida qanday bog'lovchi vosita ishlatilgan?",
+   "variantlar": [
+    "chunki",
+    "va",
+    "-ki",
+    "Hech qanday bog'lovchi, faqat ohang"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Shogirdlar qancha ko'p bo'lsa, ko'ngil qafasi shuncha ravshanroq bo'ladi\" gapi qanday qo'shma gap turiga kiradi va nima uchun?",
+   "variantlar": [
+    "Bog'lovchisiz qo'shma gap, chunki bog'lovchi yo'q",
+    "Sodda gap, chunki bitta kesim bor",
+    "Bog'langan qo'shma gap, chunki teng bog'lovchi bor",
+    "Ergashgan qo'shma gap, chunki nisbiy so'zlar (qancha-shuncha) qo'llangan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Og'ziga kelganini demoq nodon ishi va oldiga kelganini yemoq hayvon ishi\" gapi qanday qo'shma gap turiga kiradi?",
+   "variantlar": [
+    "Ergashgan qo'shma gap",
+    "Bog'lovchisiz qo'shma gap",
+    "Bog'langan qo'shma gap, chunki teng bog'lovchi \"va\" ishlatilgan",
+    "Sodda gap"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Hunar o'rgan, chunki hunarda ko'p sir\" gapi qanday qo'shma gap hisoblanadi?",
+   "variantlar": [
+    "Ergashgan qo'shma gap, chunki ergashtiruvchi bog'lovchi \"chunki\" qo'llangan",
+    "Bog'lovchisiz qo'shma gap",
+    "Sodda gap, chunki ikkita kesim bir xil ma'noni bildiradi",
+    "Bog'langan qo'shma gap"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Guli yo'q bo'stondan yaproq yaxshi, foydasi yo'q yo'ldoshdan tayoq yaxshi\" gapi haqida qaysi fikr to'g'ri?",
+   "variantlar": [
+    "Bog'lovchisiz qo'shma gap, chunki qismlar faqat ohang orqali bog'langan",
+    "Bog'langan qo'shma gap, chunki \"va\" bor",
+    "Ergashgan qo'shma gap, chunki \"chunki\" bor",
+    "Sodda gap, chunki bitta fikr ifodalangan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Haqiqiy olim o'zining ilmi bilan maqtanmaydi, chunki u o'zidan ham zo'r olim va fozil borligini biladi\" gapida nechta sodda gap qismi bor va ular qanday bog'langan?",
+   "variantlar": [
+    "Ikkita qism, bog'lovchisiz",
+    "Uchta qism, shart mayli bilan",
+    "Uchta qism, teng bog'lovchi bilan",
+    "Ikkita qism, ergashtiruvchi bog'lovchi \"chunki\" bilan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi \"Men o'quvchiman\" va \"Olim bo'lsang, olam seniki\" gaplarini solishtirganda, ularning asosiy farqi nimada?",
+   "variantlar": [
+    "Birinchisi kesimsiz gap",
+    "Birinchisida bitta kesimlik belgisi, ikkinchisida ikkita sodda gapning grammatik-mazmuniy birikuvi bor",
+    "Ikkalasi ham bir xil tuzilishga ega",
+    "Ikkinchisida ega yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Kimning qalbi pok bo'lsa, u to'g'ri va baxtli hayot kechirishga haqli\" gapida bog'lovchi vositaning turi va vazifasi qanday to'g'ri ko'rsatilgan?",
+   "variantlar": [
+    "Faqat ohang, bog'lovchi yo'q",
+    "-ki yuklamasi, qismlarni ajratadi",
+    "Teng bog'lovchi \"va\", qismlarni tenglashtiradi",
+    "Nisbiy so'z \"kim\" va shart mayli \"-sa\" birgalikda qismlarni bog'lagan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Fikr ravshan bo'lsa, uning shakli ham ravshan bo'ladi\" gapini bog'lovchisiz qo'shma gapga aylantirsak, qaysi bog'lovchi vosita olib tashlanadi?",
+   "variantlar": [
+    "-sa (shart mayli qo'shimchasi)",
+    "chunki",
+    "va",
+    "esa"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Yaxshi fikr tiniq uslubni talab qiladi, uslub esa fikr libosidir\" gapidagi \"esa\" so'zi qanday ikki vazifani bajaradi?",
+   "variantlar": [
+    "Qismlarni bog'lash bilan birga qarama-qarshilik/ta'kid ma'nosini beradi",
+    "Faqat ega vazifasini bajaradi",
+    "Hech qanday vazifa bajarmaydi, ortiqcha so'z",
+    "Faqat kesim vazifasini bajaradi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi ikki gapni solishtiring: \"O'zingga do'st tanla, chunki bir o'zing baxtli bo'lolmaysan\" va \"Badanning quvvati – ovqat, aqlning kaliti – hikmat\". Ular orasidagi asosiy farq nima?",
+   "variantlar": [
+    "Ikkalasi ham bog'lovchisiz qo'shma gap",
+    "Birinchisi ergashtiruvchi bog'lovchi bilan, ikkinchisi bog'lovchisiz (faqat ohang bilan) bog'langan qo'shma gap",
+    "Ikkalasi ham bog'langan qo'shma gap",
+    "Birinchisi sodda, ikkinchisi qo'shma gap"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}
