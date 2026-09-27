@@ -41,7 +41,7 @@
     "savol": "Relyef nima?",
     "variantlar": [
      "Rang kombinatsiyasi",
-     "Tekis sirtdan bo'rtib chiqqan tasvir",
+     "Tekis sirtda naqsh",
      "Foydali model",
      "Uch o'lchamli narsalar"
     ],
@@ -74,7 +74,7 @@
     "savol": "Rasm ishlashda to'g'ri o'tirish qanday bo'lishi kerak?",
     "variantlar": [
      "To'g'ri",
-     "Orqaga yastanib",
+     "Orqasiga yashalib",
      "Burilgan",
      "Yotib"
     ],
@@ -84,7 +84,7 @@
    {
     "savol": "Rasm ishlashda joyni tayyorlashning asosiy maqsadi nima?",
     "variantlar": [
-     "Qalam yo'qotish",
+     "Cho'ntak saqlash",
      "Bezak sifatida",
      "Vaqt o'tkazish",
      "Sifatli va toza ishlash uchun sharoit yaratish"
@@ -95,7 +95,7 @@
    {
     "savol": "Rassom kim?",
     "variantlar": [
-     "Rasm chizadigan san'at ustasi",
+     "Tekis sirtda rasm qiladigan san'at ustas",
      "Rang ishlab chiquvchi",
      "Haykal qiladigan odam",
      "Qishloq xo'jaligi ishchisi"
@@ -107,7 +107,7 @@
     "savol": "San'at ustalari nima qiladi?",
     "variantlar": [
      "Rasm, haykal, relyef va boshqa san'at asarlarini tuza va ishlaydigan",
-     "Faqat sport o'rgatadigan",
+     "Taluqot ta'lim beradigan",
      "Faqat haykal yasaydigan",
      "Faqat rasm ishlaydigan"
     ],
@@ -117,8 +117,8 @@
    {
     "savol": "Nima uchun rasm ishlashda yorug'lik chap tomondan tushishi kerak?",
     "variantlar": [
-     "Qiyin bo'lmasligi uchun",
-     "Qo'lning soyasi rasmga tushmasligi uchun",
+     "Qug'in bo'lmaslik uchun",
+     "Soyalarni to'g'ri ko'rish va rasmmiz qora bo'lmaslik uchun",
      "Bezak sifatida",
      "Rasmni tezda qilish uchun"
     ],
@@ -129,7 +129,7 @@
     "savol": "Yoz va kuz manzaralarida rang tanlashda asosiy farq nima?",
     "variantlar": [
      "Yozda hammasi qora bo'ladi",
-     "Yozda yashil ranglar ko'p, kuzda sariq, qizil, jigarrang ranglar ko'p",
+     "Yozda issiq ranglar, kuzda sovuq ranglar ishlatilamiz",
      "Farq yo'q",
      "Kuzda hammasi oq bo'ladi"
     ],
@@ -150,10 +150,10 @@
    {
     "savol": "Haykal va relyef o'rtasida asosiy farq nima?",
     "variantlar": [
-     "Relyef ancha murakkab",
+     "Relyef daha murakkab",
      "Haykal yanada qimmat",
      "Haykal qog'ozdan yasaladi",
-     "Haykalni har tomondan ko'rish mumkin, relyef esa tekis sirtdan bo'rtib chiqadi"
+     "Haykal to'liq uch o'lchamli, relyef tekis sirtda"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -175,7 +175,7 @@
      "Rassom tekis sirtda, haykaltar uch o'lchamli ishlaydi",
      "Rassom faqat qalam bilan ishlaydi",
      "Ularning ishi bir xil",
-     "Haykaltarosh faqat hayvon yasaydi"
+     "Haykaltar faqat odam"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -216,12 +216,12 @@
    {
     "savol": "Narsalarning o'lchamini aniqlash uchun naturaga qarab rasm qilishda nima qilinadi?",
     "variantlar": [
-     "Kalkulyator bilan hisoblab",
-     "Chizg'ichni narsaga qo'yib",
-     "Qalamni qo'lni cho'zib tutib, narsalarni o'zaro taqqoslab",
-     "Umuman o'lchamay"
+     "Qalam bilan o'ritish",
+     "Yo'lchoq ishlatish",
+     "Kalkulyator bilan hisoblash",
+     "Naqsh bilan o'lchamni tekshirib taqqoslash"
     ],
-    "togri": 2,
+    "togri": 3,
     "qiyinlik": "o'rtacha"
    },
    {
@@ -236,7 +236,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Agar kontrast ranglar o'rniga bir-biriga yaqin ranglarni ishlatsak, rasm qanday ko'rinadi?",
+    "savol": "Agar kontrast ranglarni ishlatmasdan to'z ranglarni qo'llasak, rasm qanday ko'rinadi?",
     "variantlar": [
      "Yanada yaxshi",
      "Jonli va jingalak",
@@ -249,10 +249,10 @@
    {
     "savol": "Kontrast ranglarni naturada to'g'ri topib rasmga qo'llansak, rasm qanday bo'ladi?",
     "variantlar": [
-     "Oddiy",
+     "Ordinari",
      "Jonli, ta'sirchan va ekspressiv ko'rinadi",
      "Oq-qora",
-     "Xira"
+     "Sadog'i kelta"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -262,7 +262,7 @@
     "variantlar": [
      "Darhol bo'yash",
      "Tezda tugatish",
-     "Yorug'lik va tabiat holatini to'g'ri ko'rsatish",
+     "Yorug'likni to'g'ri joylashtirilishi va tabiat xalati",
      "Faqat bir rang ishlatish"
     ],
     "togri": 2,
@@ -285,7 +285,7 @@
      "Hech nima",
      "Oddiy naqsh",
      "Qora rasm",
-     "Murakkab va chiroyli naqsh"
+     "Murakkab va bo'g'in naqsh"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -294,9 +294,9 @@
     "savol": "Turlicha mavzuda haykal va relyeflar ishlashda umumiy nima?",
     "variantlar": [
      "Tabiat o'lchamini ko'rish",
-     "Qog'oz talab qiladi",
-     "Hajmli shakllar va o'lchamni aniqlash",
-     "Faqat rang talab qiladi"
+     "Qog'ozni talaba qiladi",
+     "Uch o'lchamli shakllar va o'lcham aniqlashni talaba qiladi",
+     "Rang ta'labi"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -306,7 +306,7 @@
     "variantlar": [
      "Faqat rang",
      "San'at uchun zarur bo'lgan hammasini qo'llanish kerakligini ko'rsatadi",
-     "Faqat tezlik",
+     "Ish masxarasi",
      "Tez ishlash"
     ],
     "togri": 1,
@@ -346,7 +346,7 @@
     "variantlar": [
      "Toshkentdagi Mustaqillik maydonida",
      "Xorazmda",
-     "Bukharodа",
+     "Bukharoda",
      "Samarqandda"
     ],
     "togri": 0,
@@ -389,8 +389,8 @@
     "savol": "Mo'yqalamni suvda qoldirish kerakmi?",
     "variantlar": [
      "Ha, suvda saqlash kerak",
-     "Faqat kechasi",
-     "Yo'q, qoldirmaslik kerak",
+     "Ummon",
+     "Yo'q, qoldirmash kerak",
      "Faqat yangi bo'lsa"
     ],
     "togri": 2,
@@ -411,7 +411,7 @@
     "savol": "Yangi rangga botirishdan oldin mo'yqalamga nima qilish kerak?",
     "variantlar": [
      "Suvda yuvib olish kerak",
-     "Quritish kerak",
+     "Quratish kerak",
      "Shunchaki botirib ketish kerak",
      "Qo'lga surtish kerak"
     ],
@@ -444,7 +444,7 @@
     "savol": "Mo'yqalamni quruq saqlash nima uchun zarur?",
     "variantlar": [
      "Suvni tezroq quratish uchun",
-     "Faqat chiroyli turishi uchun",
+     "Faqat ko'ngil ko'ngillik uchun",
      "Hech nega",
      "Uzoq vaqt ishlatish uchun"
     ],
@@ -477,8 +477,8 @@
     "savol": "Tog'lardagi kuz manzarasi qanday ifodalangan?",
     "variantlar": [
      "Qora rangda",
-     "Xira va rangsiz",
-     "Oddiy",
+     "Sust va oqsiz",
+     "Bevosita",
      "Mahorat bilan"
     ],
     "togri": 3,
@@ -490,7 +490,7 @@
      "Mo'yqalam va rang",
      "Qalam va dafter",
      "Faqat qalam",
-     "Faqat o'chirg'ich"
+     "Shuning"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -534,7 +534,7 @@
      "Faqat rejalash qilish",
      "Rasm ishlashni boshlash va oxiriga yetkazish",
      "Faqat daftarga yozish",
-     "Rasmni chizmaslik"
+     "Rasmni chizmastik"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
@@ -575,7 +575,7 @@
    {
     "savol": "Rassom G'. Abdurahmonov tog'larni rasmlashda qaysi bilimlarni qo'lladi?",
     "variantlar": [
-     "Tarix bilimini",
+     "Historiya bilimini",
      "Faqat chizishni",
      "Faqat ranglarni",
      "Tabiatni kuzatish, ilhomlash va rassom mahorati"
@@ -630,7 +630,7 @@
    {
     "savol": "Rasm ishlash jarayonida nima muhimroq: manzaralarni ko'rish yoki faqat karandash ishlash?",
     "variantlar": [
-     "Hech biri",
+     "Hech ikkalaham",
      "Manzaralarni kuzatish va ularni eslab qolganlarni ifodalash",
      "Faqat karandash",
      "Faqat ko'rish"
@@ -684,7 +684,7 @@
      "Tog'da",
      "Shaharning markazida",
      "Bog'da",
-     "Cho'lda"
+     "Qo'lda"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -706,7 +706,7 @@
      "Shaharni markaziga",
      "Fabrikalar yoniga",
      "Tog'li maskanlarga, bog'lar va suv havzalariga yaqin joyga",
-     "Zavod yoniga"
+     "Sayyorani orqasiga"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -736,10 +736,10 @@
    {
     "savol": "Narsalar uzoqlashgan sari ularning ranglari qanday bo'ladi?",
     "variantlar": [
-     "Xiralashib boradi",
-     "Qorayib boradi",
-     "Yorqinlashib boradi",
-     "Rangsiz bo'lib qoladi"
+     "Xiralashib boradimi",
+     "Qora bo'lib boradimi",
+     "Yorqinlashib boradimi",
+     "Rangisiz bo'lib boradimi"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -758,7 +758,7 @@
    {
     "savol": "\"Yoz o'tdi soz\" mavzusida rasm ishlashda nima asosiy zarur?",
     "variantlar": [
-     "Faqat o'chirg'ichni",
+     "Nol va qalamni",
      "Faqat qalamni",
      "Yozgi taassuroti va kuzatgan rasmlarni",
      "Faqat og'ir ranglarni"
@@ -780,10 +780,10 @@
    {
     "savol": "Yozda odamlar soya-salqin joylarni pand ko'rishining sababida qanday?",
     "variantlar": [
-     "Suv issiq bo'ladi",
+     "Suyuq issiq bo'ladi",
      "Issiqdan qutilish uchun",
      "Hech narsa yo'q",
-     "Daraxtlar tez o'sadi"
+     "Shunda daraxlar tez o'sadi"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -813,7 +813,7 @@
    {
     "savol": "Agar \"Bizning bog'\" mavzusida rasm ishlasa, qaysi elementlarni ichiga olish kerak?",
     "variantlar": [
-     "Daraxtlar, gullar, o't-o'simliklar",
+     "Daraxlar, o't-o'simliklar, mebel kabi narsalarni",
      "Faqat odamlarni",
      "Faqat daraxlarni",
      "Faqat suv havzasini"
@@ -866,12 +866,12 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "\"Tog'li ko'l\" rasmi mavzuga nima uchun mos keladi?",
+    "savol": "\"Tog'li ko'l\" rasmi mavzu bilan nima sababli mos keladimi?",
     "variantlar": [
-     "Faqat katta bo'lgani uchun",
+     "Faqat katta",
      "Yozgi taassuroti va tog'li maskanlari tasvirlagani uchun",
-     "Qora rangi uchun",
-     "Qishki rasm bo'lgani uchun"
+     "Qo'lgan rang uchun",
+     "Rahb rasmi ekaniga"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
@@ -910,14 +910,14 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Kuzatish qoidasiga ko'ra yaqindagi narsa rasmda qanday tasvirlanadi?",
+    "savol": "Agar tasvirda tog' va suv havzasi bo'lsa, kuzatish qoidasiga ko'ra qaysi element yaqin ko'rinishi kerak?",
     "variantlar": [
-     "Kichikroq va xiraroq",
-     "Kattaroq va yorqinroq",
-     "Ko'rinmaydi",
-     "Uzoqdagisi bilan bir xil"
+     "Boshqa",
+     "Tog' bo'lishi kerak",
+     "Teng ko'rinishi kerak",
+     "Suv havzasi bo'lishi kerak"
     ],
-    "togri": 1,
+    "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
@@ -956,7 +956,7 @@
    {
     "savol": "\"Bizning bog'\" mavzusida ishlashda \"Yoz o'tdi soz\" mavzusidan nima foydalanish mumkin?",
     "variantlar": [
-     "Hech nima",
+     "Hiech nima",
      "Faqat rang tanlashni",
      "Yozgi taassuroti va rasm ishlash bosqichlarini",
      "Faqat tog' tasvirini"
@@ -996,10 +996,10 @@
    {
     "savol": "O'zbekiston nimalar bilan mashhur?",
     "variantlar": [
-     "Qog'oz buyumlari",
+     "Qujg'on buyumlari",
      "Atlas matolari",
-     "Temir buyumlari",
-     "Muz haykallari"
+     "Og'ur bo'yoqlari",
+     "Xorazmiy nusxalari"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -1018,10 +1018,10 @@
    {
     "savol": "Guash bo'yog'ining asosiy xususiyati nima?",
     "variantlar": [
-     "Suvda erimaydi",
+     "Rang qo'shib osonga ko'rinadi",
      "Yuzani qoplash xususiyatiga ega",
      "Shaffof",
-     "Faqat qora rangda bo'ladi"
+     "Qiynab boradi"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -1065,7 +1065,7 @@
      "Matoning kichikligini",
      "Ranglar hosil qilish usulini",
      "Naqshni",
-     "Qimmatli buyumni"
+     "Qiymatli resursni"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -1074,7 +1074,7 @@
     "savol": "Akvarel bo'yoq bilan ishlashda, birinchisi qurimasdan surtilgan bo'yoq nima bo'ladi?",
     "variantlar": [
      "O'zaro aralashib ketadi",
-     "Qotib qoladi",
+     "Qattiqlaadi",
      "Qora bo'ladi",
      "Yopiladi"
     ],
@@ -1084,7 +1084,7 @@
    {
     "savol": "Bo'yoqqa ko'p suv aralashtirilsa nima bo'ladi?",
     "variantlar": [
-     "Qalinlashib boradi",
+     "Qiynab boradi",
      "Rang ketib boradi",
      "Qora bo'ladi",
      "Och tusga kirib boradi"
@@ -1095,9 +1095,9 @@
    {
     "savol": "Atlas uchun eskiz ishlashda qaysi bo'yoq tavsiya etiladi?",
     "variantlar": [
-     "Tush",
+     "Tush bo'yoq",
      "Guash bo'yog'i",
-     "Sham",
+     "Masi bo'yoq",
      "Yog'li bo'yoq"
     ],
     "togri": 1,
@@ -1120,7 +1120,7 @@
      "Ular bir xil",
      "Guash shaffof, akvarel qoplash xususiyatiga ega",
      "Guash qoplash xususiyatiga ega, akvarel shaffof",
-     "Guash qimmat, akvarel arzon"
+     "Guash muqaddas, akvarel oddiy"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -1205,10 +1205,10 @@
    {
     "savol": "Bo'yoq berish jarayoni tugagach, naqsh bilan nima qilish kerak?",
     "variantlar": [
-     "Suv bilan yuvish",
-     "Qutiga yopib qo'yish",
+     "Shuv bilan yuvish",
+     "Xolatning ichiga qo'yish",
      "Havoda quritish",
-     "Darhol buklash"
+     "Darhol rol orqali qisish"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -1236,12 +1236,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Akvarelning shaffofligini hisobga olib nimaga e'tibor berish kerak?",
+    "savol": "Akvarel bo'yoqning shamollanuvchanligini hisobga olib, atlas naqshida rang tanlashda nima hisobga olish kerak?",
     "variantlar": [
      "Qora qalam bilan yozish",
      "Birinchi bo'yoqning shaffofligini va to'plash xususiyatini",
-     "Faqat qalinlikka",
-     "Suv haroratiga"
+     "Faqat aloqalar",
+     "Turbulentsiyadagi suv"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -1251,7 +1251,7 @@
     "variantlar": [
      "Faqat kontur chizish",
      "Katta shakllashdan kichik shaklargacha",
-     "Hech narsa qilmay kutish",
+     "Hech narsa qilmay rang tabiatiga taskin berish",
      "Barcha shakllarni bir vaqtda bo'yash"
     ],
     "togri": 1,
@@ -1283,7 +1283,7 @@
     "savol": "Agar atlas naqshida guash va akvarel bo'yoqlarni birgalikda qo'llanmoqchi bo'lsak, nima hisobga olish kerak?",
     "variantlar": [
      "Guashning qoplash xususiyati bilan akvarelning shaffofligini kombinatsiyalash",
-     "Faqat qora bo'yoq",
+     "Qora rang bo'yoqlar faqat",
      "Faqat rang",
      "Hech narsa"
     ],
@@ -1317,7 +1317,7 @@
     "variantlar": [
      "Faqat murakkab naqshlashni chizish",
      "Faqat qora qalam bilan chizish",
-     "Hech narsa qilmaslik",
+     "Aniq yo'q narsa yo'q",
      "Milliy rang-barangliklarni, shakllarni, jilolarni qayta ishlash va kontrastli ranglardan foydalanish"
     ],
     "togri": 3,
@@ -1465,7 +1465,7 @@
    {
     "savol": "Oqqush qora fonda qanday ko'rinadi?",
     "variantlar": [
-     "Fon bilan qo'shilib ketadi",
+     "Fon rangi bilan ayniyana ko'rinadi",
      "Juda yorqin ko'rinadi",
      "Fonning rangi bilan birgalikda ko'rinadi",
      "Unchalik yorqin ko'rinmaydi"
@@ -1476,9 +1476,9 @@
    {
     "savol": "Axromatik fon (oq, kulrang, qora) xromatik narsalarni qanday ko'rsatadi?",
     "variantlar": [
-     "Uncha aniq ko'rsatmaydi",
+     "Onchalik aniq ko'rsatmaydi",
      "Rang o'zgaradi",
-     "Xira bo'lib ketadi",
+     "Dora bo'lib ketadi",
      "Aniqroq va yorqinroq"
     ],
     "togri": 3,
@@ -1521,7 +1521,7 @@
     "savol": "Sariq fonning ustiga qizil bezak gulli joylashtirgan bo'lsa, kontrast qanday bo'ladi?",
     "variantlar": [
      "Umuman kontrast yo'q",
-     "Eng kuchli kontrast bo'ladi",
+     "O'rtacha kontrast bo'ladi",
      "Kontrast ancha kuchli emas",
      "Juda kontrast bo'ladi"
     ],
@@ -1540,9 +1540,9 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Naqshni yorqin va jonli ko'rsatish uchun qanday fon tanlanadi?",
+    "savol": "Naqshni yoshirish va jonli ko'rsatish uchun qaysi rangli fond tanlash to'g'ri?",
     "variantlar": [
-     "Bezak guli bilan bir xil rangli fon",
+     "Foningni bezak gulli rangi bilan ayni rangli tanlash",
      "Faqat oq fond tanlash",
      "Bezak gulli rangiga kontrast bo'lgan fond tanlash",
      "Faqat qora fond tanlash"
@@ -1553,7 +1553,7 @@
    {
     "savol": "Ritm qoidasiga amal qilib ikkita bezak gulli yo'lsimon naqsh ishlashda bezak gullari qanday tartibda takrorlanishi kerak?",
     "variantlar": [
-     "Tartibsiz",
+     "Random tartibda",
      "Qarama-qarama tartibda",
      "Faqat bir xil tartibda",
      "Takrorlanib yoki almashinib kelishi kerak"
@@ -1621,7 +1621,7 @@
     "variantlar": [
      "O'zgaruvchi ko'rinadi",
      "Yanada yorqinroq",
-     "Xira",
+     "Ancha-muncha qo'ralgan",
      "Fonning rang bilan birgalikda"
     ],
     "togri": 1,
@@ -1641,10 +1641,10 @@
    {
     "savol": "Yo'lsimon naqsh ishlashda axromatik fond (oq, kulrang, qora) ishlatganimizda, xromatik bezak gullari qanday ko'rinadi?",
     "variantlar": [
-     "Unchalik aniq ko'rinmaydi",
+     "Yanada unchalik aniq bo'ladi",
      "Fondan ko'proq yorqin va aniq ko'rinadi",
-     "Faqat qora fonda ko'rinadi",
-     "Fon bilan bir xil ko'rinadi"
+     "Faqat qora fonrada ko'rinadi",
+     "Fonday yorqin ko'rinadi"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -1758,10 +1758,10 @@
    {
     "savol": "Kuzgi mevalarni rangtasvir ustalari nima bilan tasvirlaydilar?",
     "variantlar": [
-     "tez-tez",
-     "yashirincha",
+     "boshqaruvchisi bilan",
+     "ko'zida bilan",
      "zo'r maroq bilan",
-     "istamay"
+     "qo'lda bilan"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -1772,7 +1772,7 @@
      "Viktor Ivanovich Ufimsevning",
      "O'zbek maktabining",
      "Boshqa rassomning",
-     "Tanqidchining"
+     "Tahlilchining"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -1791,7 +1791,7 @@
    {
     "savol": "Och ranglarda bo'yashdan keyin qaysi bosqich keladi?",
     "variantlar": [
-     "qalamda xomaki ishlash",
+     "to'q ranglarda ishlov berish",
      "qalamda yakunlash",
      "tasvir o'lchamlarini qayta belgilash",
      "to'qroq ranglarda bo'yash"
@@ -1836,7 +1836,7 @@
     "savol": "Viktor Ivanovich Ufimsevning \"Dala gullari\" ishari nima haqida?",
     "variantlar": [
      "gullar haqida",
-     "hayvonlar haqida",
+     "basmachi haqida",
      "qushlar haqida",
      "mevalar haqida"
     ],
@@ -1844,7 +1844,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "To'q ranglar och ranglardan oldin yoki keyin ishlatiladi?",
+    "savol": "To'q ranglar och ranglargahuguq yoki keyin ishlatiladi?",
     "variantlar": [
      "keyin ishlatiladi",
      "bir vaqtda ishlatiladi",
@@ -1857,8 +1857,8 @@
    {
     "savol": "Tasvir o'lchamlarini belgilashda qanday usul qo'llaniladi?",
     "variantlar": [
-     "Qo'lni cho'zib, qalam yordamida chamalab",
-     "temir bilan o'lchab",
+     "qalamning o'rniga qalam yoki o'lchagich",
+     "o'lchash temir bilan",
      "faqat ko'z bilan",
      "barmoq bilan"
     ],
@@ -1869,7 +1869,7 @@
     "savol": "Kuzagi \"Hosil bayrami\" matnga ko'ra nima uchun eng go'zal bayramlardan biri?",
     "variantlar": [
      "shovqin ko'p",
-     "qor yog'adi",
+     "tilishlar bor",
      "mevalar pishib olinadi",
      "raqslar bor"
     ],
@@ -1879,10 +1879,10 @@
    {
     "savol": "Rasm ishlashda och va to'q ranglarga e'tibor berish nima uchun muhim?",
     "variantlar": [
-     "rang yetishmasligi uchun",
+     "rang kuz kelsak",
      "qalamni tejash uchun",
-     "tez tugatish uchun",
-     "rasm hajmli va chuqur bo'lishi uchun"
+     "ko'yidagi rasm uchun",
+     "rasm chuqur va ko'roq bo'lishi uchun"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -1903,7 +1903,7 @@
     "variantlar": [
      "vaqt tejash uchun",
      "rangni bosqichma-bosqich chuqurroq va toza qilish uchun",
-     "chiroyli bo'lmasligi uchun",
+     "rang yo'q",
      "qalamni tejash uchun"
     ],
     "togri": 1,
@@ -1936,7 +1936,7 @@
     "variantlar": [
      "muammo yo'q",
      "qalamda yakunlash qiyin bo'ladi",
-     "Bo'yoq xomaki chiziqlarni yopib, xatolarni tuzatish qiyin bo'ladi",
+     "rang chiziqlar ko'rinib qoladi va xomaki samarasini butunlay yashiradi",
      "ko'proq rang kerak"
     ],
     "togri": 2,
@@ -1954,20 +1954,20 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Natyurmort nima?",
+    "savol": "Viktor Ivanovich Ufimsevning mashhur ishlari \"Moviy rumkali natyurmort\" va \"Baqlajonlar\" qanday mezonlar bo'yicha tanlanigan?",
     "variantlar": [
-     "Jonsiz narsalar (mevalar, idishlar) tasviri",
-     "Tog' manzarasi",
-     "Odam portreti",
-     "Hayvonlar tasviri"
+     "faqat mevalar",
+     "random tanlanish",
+     "faqat qora-oq rang",
+     "tabiiy mahsulotlar va rasm hunarmandchiligi"
     ],
-    "togri": 0,
+    "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
     "savol": "Naturaga qarab rasm ishlaganda, och va to'q ranglarni to'g'ri ketma-ketlikda qo'llagan rasm bilan shunchaki bo'yangan rasm o'rtasida qanday asosiy farq bo'ladi?",
     "variantlar": [
-     "birinchisi hajmli, chuqur, shakl va o'lchamni aniqroq ko'rsatadi",
+     "birinchisi chuqur, ko'roq, shakl va o'lchamni aniqroq ko'rsatadi",
      "farq yo'q",
      "savdo uchun qiymati ko'proq",
      "ikkinchisi ko'proq chiroyli"
@@ -1992,7 +1992,7 @@
      "bahor va Navro'z",
      "qish va Yangi yil",
      "kuz va Hosil bayrami",
-     "yoz va to'y"
+     "yoz va turmush"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -2087,7 +2087,7 @@
      "Faqat tosh",
      "Plastilini yoki loy",
      "Faqat temir",
-     "Faqat shisha"
+     "Faqat vodiy"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -2104,14 +2104,14 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Relyef ishlashda plastilin nimaning ustiga yotqiziladi?",
+    "savol": "Relyefli haykal ishlashda qaysi material taxtachaning asosi bo'ladi?",
     "variantlar": [
-     "Temir listga",
-     "Taxtacha (karton yoki yog'och) ustiga",
-     "Suvga",
-     "Havoda ushlab turiladi"
+     "Temir",
+     "Yog'och",
+     "Plastmassa",
+     "Plastilini yoki loy"
     ],
-    "togri": 1,
+    "togri": 3,
     "qiyinlik": "oson"
    },
    {
@@ -2229,7 +2229,7 @@
     "variantlar": [
      "Relyefli haykal tabiatan devorga bo'rttirib ishlangan bo'lgani uchun",
      "Devor eng xavfsiz joy",
-     "Relyef faqat polga qo'yiladi",
+     "Relyef yolg'iz o'zgaruvchiga qo'yilishi mumkin",
      "Faqat shaharlar uchun qoida"
     ],
     "togri": 0,
@@ -2238,7 +2238,7 @@
    {
     "savol": "Agar plastilinni taxtachaga notekis yotqizmagan bo'lsa, nima kelib chiqadi?",
     "variantlar": [
-     "Plastilin tez eriydi",
+     "Plastilini tezda qumilib qoladi",
      "Chizib olish osonroq bo'ladi",
      "Relyef sathida tengsizlik bo'lib qoladi va haykal to'g'ri ko'rinmaydi",
      "Detallar yanada ajoyib ko'rinadi"
@@ -2249,7 +2249,7 @@
    {
     "savol": "Ilhom Jabborov O'zbekiston Badiiy akademiyasining akademigi bo'lishining asosiy sababi nima?",
     "variantlar": [
-     "Eng ko'p kitob yozgan",
+     "Eng tarixga kitob yozgan",
      "Toshkentda yashagan",
      "Ko'p nufuzli va muhim haykallar yaratgan bo'lgani uchun",
      "Juda ko'p pul ishlab topgan"
@@ -2282,7 +2282,7 @@
    {
     "savol": "Relyefli haykalni yasashda chizib olish bosqichi nima uchun muhim?",
     "variantlar": [
-     "Aniq reja olib, xatolarni oldindan tekshirish imkonini beradi",
+     "Batafsil rejani olish va xatolarni avvalanma tekshirish imkonini beradi",
      "San'at qoidasi",
      "Barcha haykaltarosh uchun majburiy",
      "Vaqtni tejash uchun"
@@ -2296,7 +2296,7 @@
      "Toshdan yasatilgan",
      "Har tomonlama aylanib ko'rishga mo'ljallangan bo'lib, devorga o'rnatilmagan",
      "Juda katta",
-     "Faqat kechasi ko'rinadi"
+     "Faqat xomiin uchun"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -2304,9 +2304,9 @@
    {
     "savol": "Relyefli haykalni kesib ishlashda qanday masalalar e'tiborga olish kerak?",
     "variantlar": [
-     "Plastilin rangiga",
-     "Qalam rangiga",
-     "Devor rangiga",
+     "Plastilini yumshoq bo'lmasligi",
+     "Rasm qora bo'lmasligi",
+     "Devor to'xtolib qolmasligi",
      "Proportsiylari va detallari o'zaro nisbatini to'g'ri saqlash"
     ],
     "togri": 3,
@@ -2315,10 +2315,10 @@
    {
     "savol": "\"Ona\" haykali Amir Temur haykalidan qanday farq qiladi?",
     "variantlar": [
-     "Amir Temur haykali boshqa materialdan",
-     "\"Ona\" relyef — tekis yuzada bo'rtib chiqqan, Amir Temur haykali — har tomondan ko'rinadigan",
-     "\"Ona\" haykali kattaroq",
-     "\"Ona\" XVIII asrda yasalgan"
+     "Amir Temur haykalinig materioli muxtlif",
+     "\"Ona\" relyefli haykal, Amir Temur buyum haykal",
+     "Ona haykalinig ko'li kattaroq",
+     "\"Ona\" tangi XVIII asrda yasatilgan"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -2329,7 +2329,7 @@
      "Sath teng bo'lib, barcha detallar to'g'ri o'lchamda joylashib, relyef harmonik ko'rinadi",
      "San'at qoidasi",
      "Plastilni himoya qilish uchun",
-     "Rang uchun"
+     "Damir ishqalamasi uchun"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -2355,8 +2355,8 @@
    {
     "savol": "Kashtachilikda qaysi buyumlarda to'rtburchak naqshlar bezatiladi?",
     "variantlar": [
-     "Kitob, daftar, oynalarda",
-     "Tufli, palto, shlyapada",
+     "Kitob, daftar, oynalmaqlarda",
+     "Tuflida, paltada, shoxda",
      "Rasm, ko'zoynak, shapkada",
      "Palak, so'zana, choyshab va kirpechda"
     ],
@@ -2644,7 +2644,7 @@
      "Faqat oygul bezak guli kerak",
      "Xato naqsh bo'ladi",
      "Sodda naqsh bo'ladi",
-     "Boy va turli bezak gullaridan iborat bo'ladi"
+     "Bogatli va turli bezak gullardan iborat bo'ladi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -2681,7 +2681,7 @@
    {
     "savol": "Rassom G'ofur Abdurahmonov kuz mavzusini qaysi ranglardan foydalangan?",
     "variantlar": [
-     "Kulrang, to'q qora va qora",
+     "Rang, to'q qora va kurang",
      "Ko'k, yashil va oq",
      "To'q qora, qora va oq",
      "Sariq, zarg'aldoq va qizil"
@@ -2695,7 +2695,7 @@
      "Shaharning ko'chalari",
      "Tabiat va tog'lar",
      "Insonlarning portretlari",
-     "Qo'ylar va cho'ponlar"
+     "Qo'ylar va cho'panlari"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -2726,8 +2726,8 @@
     "savol": "G'ofur Abdurahmonov asarida asosiy element sifatida qaysi o'simlik tasvirlangan?",
     "variantlar": [
      "Gul",
-     "Terak",
-     "Tol",
+     "Sailyusuv",
+     "Topolya daraxti",
      "Kungaboqar"
     ],
     "togri": 3,
@@ -2792,7 +2792,7 @@
     "savol": "Narsalarni umumiy tarzda tasvirlagandan keyin rasm ishlashda nima qilinadi?",
     "variantlar": [
      "Rasmda narsalar tasvirini aniqlashtirish bajariladi",
-     "Rasmdagi detallar o'chiriladi",
+     "Rasmdagi detallari o'lsin kerak",
      "Darhol rang qo'llanadi",
      "Rasm tugallandi deb hisoblash kerak"
     ],
@@ -2802,10 +2802,10 @@
    {
     "savol": "Zokir Inog'omovning asarlarida qahramonlar qanday ifodalangan?",
     "variantlar": [
-     "Qo'rqinchli va g'amgin",
-     "Qiyin va noaniq",
+     "Qo'rq va sura",
+     "Qiyin va yalkali",
      "Jonli va hayotiy",
-     "Kulgili va ahmoqona"
+     "Xomull va ahmoq"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -2890,10 +2890,10 @@
    {
     "savol": "Rasm ishlashda och ranglarda bo'yashdan oldin nima bajarilingan bo'lishi kerak?",
     "variantlar": [
-     "Qalamni o'chirish",
+     "Qalam shuv berish",
      "Narsalarni umumiy tarzda tasvirlash va aniqlashtirish",
      "Darhol detallarga tushish",
-     "Rang tanlash"
+     "Rang yozini o'rnatish"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
@@ -2901,7 +2901,7 @@
    {
     "savol": "Nima uchun G'ofur Abdurahmonov aynan sariq, zarg'aldoq va qizil ranglarni tanladi?",
     "variantlar": [
-     "Chunki ular eng arzon ranglar",
+     "Chunki ular eng yilatirilgan ranglar",
      "Chunki bu rassomning sevimli ranglari edi",
      "Chunki ular ko'p qimmatbaho",
      "Chunki kuz mavzusini to'g'ri tasvir etish uchun"
@@ -2912,8 +2912,8 @@
    {
     "savol": "Rangtasvir kompozitsiyasida asosiy elementni o'zgartirsa, rasmning qaysi jihatlari o'zgaradi?",
     "variantlar": [
-     "Hech narsa o'zgarmaydi",
-     "Mavzusi va mazmuni",
+     "Hech narsa o'zgaradi",
+     "Mavzui, xilafi va tabiati",
      "Faqat rang",
      "Faqat shakli"
     ],
@@ -2923,8 +2923,8 @@
    {
     "savol": "Manzarachi rasm ishlash texnikasida nima uchun dastlab umumiy tasvirdan boshlanadi?",
     "variantlar": [
-     "Chiroyli ko'rinish uchun",
-     "Qalamdan qutulish uchun",
+     "Dastlabki harakatlari bujon berish uchun",
+     "Karandashdan qutilish uchun",
      "Vaqtni tejash uchun",
      "Narsalarni to'g'ri joylashtirilishini ta'minlash uchun"
     ],
@@ -2935,7 +2935,7 @@
     "savol": "Zokir Inog'omovning \"Onalik\", \"Kuz\", \"Dalada nonushta\" va \"Mosh hosili\" asarlarida qaysi mavzu aks ettirilgan?",
     "variantlar": [
      "Qadimiy tarix",
-     "Qish va qor",
+     "Shuvo va qoraliq",
      "Shahar binolari",
      "Insonlar hayoti va tabiat"
     ],
@@ -2945,9 +2945,9 @@
    {
     "savol": "Rasm ishlash bosqichlarini noto'g'ri tartibda bajarilsa, nima bo'ladi?",
     "variantlar": [
-     "Rasm tezroq tayyor bo'ladi",
+     "Rasm barchasida o'rnatadi",
      "Rasm yanada go'zal bo'ladi",
-     "Hech narsa o'zgarmaydi",
+     "Hech narsa o'zgaradi",
      "Rasm tabiiy va samarali bo'lmaydi"
     ],
     "togri": 3,
@@ -2967,7 +2967,7 @@
    {
     "savol": "Nikolay Karaxan, Rahim Ahmedov, Zokir Inog'omov va G'ofur Abdurahmonov umumiy xususiyatni tanglang.",
     "variantlar": [
-     "Ularning hech biri rassom emas",
+     "Ularning barchasi suratchi emas",
      "Ularning barchasi manzarachi rassomlar bo'lib, kuz mavzusida asarlar yaratganlar",
      "Ularning barchasi muzeyda ishlagan",
      "Ularning barchasi xorijda o'qigan"
@@ -2979,7 +2979,7 @@
     "savol": "Rasm mavzusi \"Tog'da kuz\" bo'lganda, rang kombinatsiyasini tanlashda nima muhimdir?",
     "variantlar": [
      "Faqat oq va qora ranglarni ishlatish",
-     "Faqat qora rang",
+     "Darbina qo'llanuvchi rang",
      "Mavzuni aniq ifodalash va tabiiy namoyish etish",
      "Rassomning sevimli ranglari"
     ],
@@ -3040,9 +3040,9 @@
    {
     "savol": "Barglarni quritish uchun qayerga qo'yiladi?",
     "variantlar": [
-     "To'p ostiga",
+     "To'pning quyida",
      "Shaffof oynaning oldida",
-     "Pechka ustiga",
+     "To'pning ustida",
      "Kitoblar orasiga"
     ],
     "togri": 3,
@@ -3063,9 +3063,9 @@
     "savol": "Kapalakning qanotlari nechta bo'ladi?",
     "variantlar": [
      "Oltita",
-     "Uchta",
-     "Ikki juft (to'rtta)",
-     "Beshta"
+     "Uchtata",
+     "Ikki juft (to'rttata)",
+     "Beshtata"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -3086,7 +3086,7 @@
     "variantlar": [
      "Yelim bilan",
      "Suv bilan",
-     "Neft bilan",
+     "Nafta bilan",
      "Silikat bilan"
     ],
     "togri": 0,
@@ -3115,14 +3115,14 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Kapalak applikatsiyasida qanotlar nimadan yasaladi?",
+    "savol": "Kapalak applikatsiyasida tanasi nimani ifodalaydi?",
     "variantlar": [
-     "Barglardan",
-     "Toshdan",
-     "Temirdan",
-     "Shishadan"
+     "Kapalakining oyoqlarini",
+     "Kapalakining qanotlarini",
+     "Kapalakining tanasini",
+     "Kapalakining boshini"
     ],
-    "togri": 0,
+    "togri": 2,
     "qiyinlik": "oson"
    },
    {
@@ -3172,7 +3172,7 @@
    {
     "savol": "Applikatsiya yasashda barglardan ehtiyotkorlik bilan foydalanish nima sababli zarur?",
     "variantlar": [
-     "Barglar suvda erib ketishi uchun",
+     "Barglar suv severada haladigan ta'siri uchun",
      "Barglar katta bo'lganligi uchun",
      "Barglar o'ta sinuvchan bo'lganligi uchun",
      "Barglar qora rangli bo'lganligi uchun"
@@ -3206,9 +3206,9 @@
     "savol": "Applikatsiya yasashdan oldin barglar nima bilan tayyorlanadi?",
     "variantlar": [
      "Suvda yuvilib",
-     "Issiq pechda quritiladi",
+     "Issiq ovinda quritiladi",
      "Rangi bilan tanlanib, shakli ko'ra tayyorlanadi",
-     "Changga botiriladi"
+     "Kukuniga tutib tekislanadi"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -3285,7 +3285,7 @@
      "Papkaga yoki kitob orasiga solinadi va ustidan kitoblar bostirib qo'yiladi",
      "Darhol sinfga qo'yiladi",
      "Darhol rangli qalamlar bilan raqamlash qilinadi",
-     "Eshikka osib qo'yiladi"
+     "Shaffof qog'ozga o'rigan holda eshikka asalib qo'yiladi"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -3294,7 +3294,7 @@
     "savol": "Agar kapalak applikatsiyasida ustki qanotlar uchun turli rangli barglar tanlansa, nima bo'ladi?",
     "variantlar": [
      "Kapalak tabiiy ko'rinishi yo'qoladi",
-     "Kapalak uchib ketadi",
+     "Kapalak tasviri noto'g'ri bo'ladi",
      "Hamma narsa to'g'ri bo'ladi",
      "Yelim ishlamaydi"
     ],
@@ -3317,8 +3317,8 @@
     "variantlar": [
      "Ehtiyotkorlik bilan ishlashni talab qiladi",
      "Barglarning rangi soyalangan bo'ladi",
-     "Barglar suvda yashil bo'ladi",
-     "Yelim barglarni eritadi"
+     "Barglar suv bilan tabiiy holga qaytaradi",
+     "Yelim barglarni yagga yopishtirib qo'yadi"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -3375,14 +3375,14 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Kuz manzarasida qaysi ranglar ko'p ishlatiladi?",
+    "savol": "Darslikda nomlanib ko'rsatilgan rassomlarning soni nechta?",
     "variantlar": [
-     "Oq va ko'k",
-     "Sariq, zarg'aldoq, qizil",
-     "Qora va kulrang",
-     "Pushti va binafsha"
+     "2 ta",
+     "3 ta",
+     "5 ta yoki undan ko'p",
+     "4 ta"
     ],
-    "togri": 1,
+    "togri": 2,
     "qiyinlik": "oson"
    },
    {
@@ -3391,7 +3391,7 @@
      "Guash yoki akvareli",
      "Tinter va plastik",
      "Faqat qalam",
-     "Faqat ko'mir"
+     "Murzak va qalam"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -3421,7 +3421,7 @@
    {
     "savol": "Matning boshida qaysi sharoitda kuz manzarasi tasvirlangan?",
     "variantlar": [
-     "Kuchli shamolda",
+     "Shiddat shamolida",
      "Quyoshli, ochiq havodada",
      "Yomg'irli kun",
      "Tungi vaqt"
@@ -3435,7 +3435,7 @@
      "Odam va turmush",
      "Tabiat manzarasi va kuz",
      "Binolar va yo'llar",
-     "Shahar va yo'llar"
+     "Shahar va yolov"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -3445,7 +3445,7 @@
     "variantlar": [
      "Umuman aks ettirmagan",
      "Maroq bilan va go'zalligini aks ettirib",
-     "Befarqlik bilan",
+     "Befarqligini bilan",
      "Tez-tez rasm ishlashganlar"
     ],
     "togri": 1,
@@ -3490,7 +3490,7 @@
      "Tog'li tabiat",
      "Tropik tabiat",
      "Shimaliy tabiat",
-     "O'zbekistonning kuzgi tabiatini"
+     "O'zbek xalqining ko'rgan kuzgi tabiat"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -3520,10 +3520,10 @@
    {
     "savol": "Guash yoki akvarelda bo'yashning boshlang'ich bosqichida qaysi ranglardan foydalanish kerak?",
     "variantlar": [
-     "Faqat to'q ranglardan",
-     "Faqat qora rangdan",
+     "Tarkibiy ranglar",
+     "Faqat tunda ranglar",
      "Faqat qora ranglar",
-     "Och ranglardan"
+     "Yengil ranglar"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -3531,10 +3531,10 @@
    {
     "savol": "Rassomlar kuzga oid asarlarini yaratishda qaysi fasldan ilhom olganlar?",
     "variantlar": [
-     "Kuzdan",
-     "Qishdan",
-     "Yozdan",
-     "Bahordan"
+     "Kuzgi bop",
+     "Qishki bop",
+     "Yozgi bop",
+     "Bahori bop"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -3566,7 +3566,7 @@
     "variantlar": [
      "Pul topish maqsadidan",
      "Darslikda shunday yozilgani uchun",
-     "Faqat bahorda bo'lgani uchun",
+     "Faqat bahorast",
      "Kuzning tabiatdagi o'ziga xos rol va chiroyli ko'rinishidan"
     ],
     "togri": 3,
@@ -3595,7 +3595,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Kuzgi ko'rinishni to'g'ri aks ettirish uchun rassomlar nimalarni kuzatishlari kerak?",
+    "savol": "Kuzgi ko'rinishni to'g'ri aks ettirish uchun rassomlar qaysi noaniqliklarni kuzatishlari kerak?",
     "variantlar": [
      "Bulut va shamol",
      "Hech nima",
@@ -3608,7 +3608,7 @@
    {
     "savol": "«Yomg'irli kun» mavzusida rasm ishlashda «Kech kuz» mavzusidan qaysi farqlari bo'ladi?",
     "variantlar": [
-     "Rasmni qorong'i qilish kerak",
+     "Rasmni qaragim qilish kerak",
      "Hech qanday farq yo'q",
      "Rang, bulut tarkibi, yorug'lik o'zgaradi",
      "Faqat sarlavha farq"
@@ -3628,7 +3628,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Darslikda ko'rsatilgan 1, 2, 3, 4 bosqichlarga rioya qilish nima uchun muhim?",
+    "savol": "Darslikda ko'rsatilgan 1, 2, 3, 4 bosqichlarni takip qilish nima uchun muhim?",
     "variantlar": [
      "Faqat sinfda qilish uchun",
      "Bosqichlar muhim emas",
@@ -3652,7 +3652,7 @@
    {
     "savol": "Kuzga oid rasmlarni tahlil qilganda rassomlarning qaysi ko'nikmalarini anglasa olamiz?",
     "variantlar": [
-     "Faqat siyoh bilan chizishni",
+     "Faqat siyoh chizishni",
      "Hisobiy bilimni",
      "Faqat portret chizishni",
      "Rangli va yorug'lik boshqaruvini, natural manzarani ifodalashni"
@@ -3706,7 +3706,7 @@
      "Sinab ko'rmoqchi",
      "Jangga chalos qilmoqchi",
      "Yaxshilik qilmoqchi",
-     "O'ziga do'st qilmoqchi"
+     "O'ziga dost qilmoqchi"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -3714,8 +3714,8 @@
    {
     "savol": "Chayon daryoning o'rtasida toshbaqaga nima qilmaqchi bo'ldi?",
     "variantlar": [
-     "Suvga itarmoqchi",
-     "Qo'shiq aytmoqchi",
+     "Shuv bermoqchi",
+     "Raqsga undamoqchi",
      "Suv ichmoqchi",
      "Nayzasini urib sinab ko'rmoqchi"
     ],
@@ -3737,7 +3737,7 @@
     "savol": "Toshbaqa daryo tubiga nima qilish uchun sho'ng'idi?",
     "variantlar": [
      "Suv ichmoq",
-     "Javohir termoq",
+     "Javohir temoq",
      "Chayon qidirmoq",
      "Baliq tutmoq"
     ],
@@ -3791,10 +3791,10 @@
    {
     "savol": "Toshbaqaning «mening ishim daryo tubiga javohirlarini tomosha qilishdir» degan so'zlari uning qanday niyatini ko'rsatadi?",
     "variantlar": [
-     "Chayonni suvga cho'ktirib, uni jazolash",
-     "Chayonni yaxshi ko'rishi",
-     "Xiyonat qilmoqchi ekani",
-     "Chavandoz bo'lmoqchi ekani"
+     "O'z taqdirini qabul qilish",
+     "Yaxshi ko'radi",
+     "Xiyona qilmoqchi",
+     "Chavandoz bo'lmoqchi"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -3802,8 +3802,8 @@
    {
     "savol": "Chayon «Chayonning ishi xoh do'st ko'ksiga va xoh dushman orqasiga nish urmoqdan iboratdir» deganida, u nimani aytmoqchi?",
     "variantlar": [
-     "Chayon juda kuchli ekanini",
-     "O'z tabiatiga ko'ra xoin ekanini",
+     "Chayon ayni paytda jismoniy kuch kuchli",
+     "O'zining tabiati bo'yicha xiyonchi",
      "Chayon toshbaqaga rahm ko'rsatadi",
      "Chayon otasini yoqtiradi"
     ],
@@ -3813,8 +3813,8 @@
    {
     "savol": "Masalaning maqoli «Yaxshiga yondash, yomondan qoch» nimani demoqchi?",
     "variantlar": [
-     "Hamma hayvon baxtli bo'ladi",
-     "Daryoda yurish kerak",
+     "Hamma hayvon xush baxt topadi",
+     "Daryoda yurinq",
      "Yaxshi va yomon insonlar o'rtasidagi farqni bilish kerak",
      "Rasm chizish kerak"
     ],
@@ -3827,7 +3827,7 @@
      "Daryo o'tib ketishadi",
      "Ikkalasi halok bo'ladi",
      "Toshbaqa va chayon sulh qiladi",
-     "Toshbaqa suvga sho'ng'idi, chayon suvda halok bo'ldi"
+     "Faqat toshbaqa javohir terdi, chayon esa jon berdi"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -3846,10 +3846,10 @@
    {
     "savol": "Kamoliddin Behzod qaysi buyuk shairoarning asarlariga illustratsiya ishlagan?",
     "variantlar": [
-     "Bedil va Mashrab",
-     "Qodiriy va Cho'lpon",
-     "Pushkin va Tolstoy",
-     "A. Navoiy, Sa'diy va Nizomiy"
+     "Jami va Bedil",
+     "Firdavsi va Nizomi",
+     "Khotib va Qoqon",
+     "A.Navoiy va Bobur"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -3868,9 +3868,9 @@
    {
     "savol": "Illustratsiyani qanday rang materiallari bilan ishlash mumkin?",
     "variantlar": [
-     "Faqat suv bilan",
-     "Faqat siyoh bilan",
-     "Akvarel, guash, moybo'yoq va boshqalar",
+     "Faqat sunga",
+     "Faqat qalam va siyah shunga",
+     "Akvarel bo'yoqlari, guash, oliy bo'yoq va boshqa",
      "Faqat qalam"
     ],
     "togri": 2,
@@ -3880,7 +3880,7 @@
     "savol": "Toshbaqa va chayon safarga chiqganda ularning orasida qanday munosabat edi?",
     "variantlar": [
      "Ona-farzand munosabati",
-     "Begonalar",
+     "Tanashuv",
      "Do'st va mehribonlik munosabati",
      "Dushmani"
     ],
@@ -3923,8 +3923,8 @@
    {
     "savol": "Illustratsiya tuzilyotganda rassom qaysi bosqichlarni bajarishi kerak?",
     "variantlar": [
-     "Faqat rang tanlash",
-     "Faqat matn yozish",
+     "Faqat rangni ta'tish",
+     "Katib bo'lib yozish",
      "Matnni puxta o'rganish, tahlil qilish, tasavvuri rivojlantirish, keyin rasm chizish va bo'yash",
      "Darhol rasm chizish"
     ],
@@ -3935,7 +3935,7 @@
     "savol": "Kamoliddin Behzodning asarlar orasida «Masjid qurilishi» qanday o'rin tutadi?",
     "variantlar": [
      "Noma'lum asari",
-     "Uning mashhur asarlaridan biri",
+     "Ijomatini ko'rsatuvchi asarlardan biri",
      "Eng kichik asari",
      "Yagona asari"
     ],
@@ -3945,7 +3945,7 @@
    {
     "savol": "Toshbaqa va chayon orasidagi asosiy muammo nimada yotadi?",
     "variantlar": [
-     "Toshbaqa yaxshi niyatli, chayon esa tabiatan xoin",
+     "Toshbaqa xush muqomad, chayon tabiati xiyonchi",
      "Yosh farqida",
      "Kattalik farqida",
      "Rang farqida"
@@ -3969,7 +3969,7 @@
     "variantlar": [
      "Faqat jang",
      "Faqat biznes",
-     "San'at, madaniyat va tarix ruhini",
+     "Badiiy, madaniy va tarix jomea ruhini",
      "Faqat tinchlik"
     ],
     "togri": 2,
@@ -3990,7 +3990,7 @@
     "savol": "«Toshbaqa bilan chayon» masalida hayot va o'lim orasidagi muammoning ifodasi qanday?",
     "variantlar": [
      "Faqat boshida",
-     "Faqat oxirida",
+     "Faqat radifda",
      "Matnda yo'q",
      "Toshbaqa hayotini davom ettirmoq va chayon jon berish orasidagi qarama-qarshilik"
     ],
@@ -4002,8 +4002,8 @@
     "variantlar": [
      "Faqat pul topish",
      "Vaqt o'tkazish",
-     "Faqat kitob sotish",
-     "Adabiy merosni ko'rgazmali tasvirlash va estetik tarbiya"
+     "Mallarinii ko'rsatish",
+     "Adabiy irfonnni ko'rgazmali tasvirlash va estetik ta'limni rivojlantirish"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -4042,7 +4042,7 @@
     "variantlar": [
      "Rasm chizish san'ati",
      "Hajmli ifodalarni yaratish san'ati",
-     "Kiyim tikish san'ati",
+     "Tasnifot san'ati",
      "Musiqiy san'at"
     ],
     "togri": 1,
@@ -4053,21 +4053,21 @@
     "variantlar": [
      "Ovda fojia bo'lgan",
      "Kiyik tutish haqida",
-     "Afandining o'q otishi haqida",
+     "Nasriddin Afandi o'q otish haqida qiynoqlangan",
      "Podsho haqida"
     ],
     "togri": 2,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Darslikka ko'ra Nasriddin Afandi kim?",
+    "savol": "Nasriddin Afandi hayotda yashab o'tganmi?",
     "variantlar": [
-     "Tarixiy podsho",
-     "Afsonaviy xalq qahramoni",
-     "Haykaltarosh",
-     "Rassom"
+     "Malum emas",
+     "Ha, u hali tirikdir",
+     "Ha, oldindan yashagan",
+     "Yo'q, u afsonaviy qahramondir"
     ],
-    "togri": 1,
+    "togri": 3,
     "qiyinlik": "oson"
    },
    {
@@ -4104,9 +4104,9 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Latifalar qaysi ijodning namunasi?",
+    "savol": "Latifalar qayerdagi ijodning asosi?",
     "variantlar": [
-     "Xorij ijodi",
+     "Xarej ijodi",
      "Zamonaviy ijodi",
      "Og'zaki ijodi",
      "Kitob ijodi"
@@ -4120,7 +4120,7 @@
      "Ular dushman",
      "Afandi va eshagi birga lavhalar ishtirokida qatnashadi",
      "Eshak Afandiga qul",
-     "Ular hech qachon birga tasvirlanmaydi"
+     "Ular do'st"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -4129,7 +4129,7 @@
     "savol": "Haykal asosiga qanday narsalar olinadi?",
     "variantlar": [
      "Latifalar va lavhalar",
-     "Faqat xayol",
+     "Faqat xoyal",
      "Faqat hikoya",
      "Faqat tasavvur"
     ],
@@ -4148,14 +4148,14 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "«Afandi mergan» latifasida Afandining qaysi xususiyati ko'rinadi?",
+    "savol": "\"Afandi mergan\" latifasidan Nasriddin Afandi qanday xususiyati kelib chiqadi?",
     "variantlar": [
-     "Qo'rqoqligi",
-     "Hozirjavobligi va zukkoligi",
-     "Dangasaligi",
-     "Ochko'zligi"
+     "U joni ehtiyotkordir",
+     "U sodiq do'st",
+     "U joni bohir",
+     "U o'zini maqtanib, aslida kamtardir"
     ],
-    "togri": 1,
+    "togri": 3,
     "qiyinlik": "o'rtacha"
    },
    {
@@ -4164,7 +4164,7 @@
      "Faqat fotosuratlar",
      "Faqat tabiatni ko'rish",
      "Pedagogik kitoblar",
-     "Xalqning ijodiy merosidan kelib chiqish"
+     "Xalqning ijodiy meroqlaridan kelib chiqish"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -4174,8 +4174,8 @@
     "variantlar": [
      "Ular bir xil",
      "Ularning farqi yo'q",
-     "Eshak haykali oson, Nasriddin Afandi haykali qiyinroq",
-     "Nasriddin Afandi haykali oson, eshak haykali qiyinroq"
+     "Eshak haykali oson, Nasriddin Afandi haykali qiynroq",
+     "Nasriddin Afandi haykali oson, eshak haykali qiynroq"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -4260,7 +4260,7 @@
    {
     "savol": "Nasriddin Afandi afsonaviy qahramonning ko'p dunyoda mashhur bo'lishining asosiy sababi qanday?",
     "variantlar": [
-     "Xalq latifalarida uning aqli, zukkoligi va hazili o'z ifodasini topgan",
+     "Xalqning latifalarida uning aqli, xiras sezgishligi va xumori o'z ifodasi topgan",
      "Faqat maktabda o'qitiladi",
      "U biron qilmish qilgan",
      "U biron shahzoda edi"
@@ -4280,12 +4280,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "«Afandi mergan» latifasida Afandi xato otgan o'qlarini qanday oqladi?",
+    "savol": "\"Afandi mergan\" latifasida Nasriddin Afandi podsho va vazirning xatolarini qanday yumshaltiraydi?",
     "variantlar": [
-     "Podshoni haqorat qildi",
-     "Xatolarini hazil bilan boshqalarga to'nkab, o'zini mergan qilib ko'rsatdi",
-     "Podshoga pul berdi",
-     "Yig'lab yubordi"
+     "Ularni haqorat qiladi",
+     "O'z xatolarini ularga siljitib o'zni sodiq va aql-paranda deb ko'rsatadi",
+     "Ularga pul beradi",
+     "Ularni beshttanadi"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -4324,11 +4324,11 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "«Afandi mergan» latifasi asosida haykal tuzishda nimaga e'tibor berish kerak?",
+    "savol": "\"Afandi mergan\" latifasining mana va badastura eng muhim tomonini aniqlab, u asosida haykal tuzish jarayonini tushuntiring.",
     "variantlar": [
      "Faqat Afandi",
      "Butun hodisaning ironiyadagi mazmunini tushunib, Afandi va eshak, Afandi va podsho, Afandi va vazir o'rtasidagi munosabatlarni shakllarida ifodalash",
-     "Faqat o'qqa",
+     "Faqat o'q",
      "Faqat oxirgi o'q otishi"
     ],
     "togri": 1,
@@ -4377,7 +4377,7 @@
    {
     "savol": "Dorbozlar arqon ustida o'yin ko'rsatayotganda qanday narsadan foydalanadilar?",
     "variantlar": [
-     "Sham",
+     "Shami",
      "Langarcho'p",
      "Qamchi",
      "Tayoq"
@@ -4400,8 +4400,8 @@
     "savol": "Dorbozlar qaysi shakllarda harakat bajaradilar?",
     "variantlar": [
      "Faqat yugurish",
-     "Faqat sakrash",
-     "Faqat yurish",
+     "Faqat skanslash",
+     "Faqat yurishish",
      "Yugurish va sakrash"
     ],
     "togri": 3,
@@ -4410,9 +4410,9 @@
    {
     "savol": "Dorbozlar ko'zini qanday holda o'yin ko'rsatadilar?",
     "variantlar": [
-     "Orqasiga qarab",
+     "Cho'ndan qarab",
      "Bir ko'zni bog'lab",
-     "Ko'zi ochiq, hech narsasiz",
+     "Ochiq ko'zda masala yo'q",
      "Ko'zni bog'lab"
     ],
     "togri": 3,
@@ -4424,7 +4424,7 @@
      "Xaltacha",
      "Taqiya",
      "Qalpoq",
-     "Toj"
+     "Tavush"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -4435,7 +4435,7 @@
      "Otalarning",
      "Bolalarning",
      "Raqqoslarning",
-     "Uchuvchilarning"
+     "Ochildarning"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -4465,7 +4465,7 @@
    {
     "savol": "Dorbozlar oyoqlariga qanday narsalar bog'laydillar?",
     "variantlar": [
-     "Poyabzallar",
+     "Pabootlar",
      "Pichoq yoki patnis",
      "Zanjirlar",
      "Soxta oyoqlar"
@@ -4476,7 +4476,7 @@
    {
     "savol": "Rasm ishlashning birinchi bosqichi qanday?",
     "variantlar": [
-     "Nom yozish",
+     "Shunga yozyish",
      "Tasvirni qog'ozga joylashtirish",
      "Ranglash",
      "Qalamda xomaki ishlash"
@@ -4512,7 +4512,7 @@
      "To'q ranglarda ishlov berish",
      "Qalamda xomaki ishlash",
      "Och ranglarda ishlash",
-     "Ramkaga solish"
+     "Oyna uchun tayyorlash"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -4544,16 +4544,16 @@
     "variantlar": [
      "Rasm turlari",
      "Dorbozlik san'atining turi",
-     "Bolalar o'yini",
+     "Bolalarning o'yni",
      "Ranglarni aralash usuli"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "O'rgatilgan hayvonlar dor o'yinlarida qanday ishtirok etadi?",
+    "savol": "O'rgatilgan yonoatlar dorbozlik san'atida qanday ishlatiladi?",
     "variantlar": [
-     "Ular faqat qarab turadi",
+     "Musiqaga raqsadilar",
      "Faqat dekorasiya sifatida",
      "Shunchaki tashqarida turadi",
      "Ayiq, ilon, maymun larning o'yinlari olib boriladi"
@@ -4586,9 +4586,9 @@
    {
     "savol": "Nega dorbozlar ko'zni bog'lab arqon ustida o'yin ko'rsatadilar deb o'ylaysiz?",
     "variantlar": [
-     "Chunki ko'zi og'riydi",
+     "Chunki ko'z yumgani achishi kerak",
      "Ko'zni bog'lash qiyinlik va mahirlilikni ko'rsatadi",
-     "Chunki quyosh ko'zni qamashtiradi",
+     "Chunki ko'zlaridan ayt",
      "Chunki bu qoida bo'lsa kerak"
     ],
     "togri": 1,
@@ -4606,9 +4606,9 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Rasm ishlashda nima uchun avval och, keyin to'q ranglar ishlatiladi?",
+    "savol": "Rasm ishlashida och va to'q ranglarni nima uchun alohida-alohida ishlatadi?",
     "variantlar": [
-     "Avval och ranglar bilan umumiy bo'yaladi, keyin to'q ranglar bilan soya va hajm beriladi",
+     "Chunki och ranglar pas planda, to'q ranglar old planda turadi",
      "Chunki ular har xil qiymatga ega",
      "Chunki och ranglar faqat ochiq joylarda ishlatiladi",
      "Chunki har bir rang o'z o'chmasda ishlatiladigani kerak"
@@ -4622,7 +4622,7 @@
      "Faqat bolalarning o'yinlari",
      "Faqat rasm bilimi",
      "Faqat musika bilimi",
-     "Muvozanat, jismoniy kuch va san'at bilimini birlashtirish"
+     "Arqonlashish, balans, jismoniy kuch va san'ati bilimni birlashtirish"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -4665,7 +4665,7 @@
     "variantlar": [
      "Faqat arqonlashish",
      "Raqqos, qiziqchi, askiyachi chiqishlari va turli sirk turlari birlashtiriladilar",
-     "Faqat rangli poyabzal",
+     "Faqat rangli poyabezing",
      "Faqat eski san'atlar"
     ],
     "togri": 1,
@@ -4736,7 +4736,7 @@
    {
     "savol": "Qor bosgan dalalarda qanday qushlar qo'nim topgan?",
     "variantlar": [
-     "Laylaklar",
+     "Qushqarlar",
      "O'rdaklar",
      "Papug'alar",
      "Qarg'alar"
@@ -4778,14 +4778,14 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Qishda qaysi qush issiq o'lkalarga uchib ketmaydi?",
+    "savol": "«O'lkamizda qish» mavzusi qaysi betlarda joylashgan?",
     "variantlar": [
-     "Qarg'a",
-     "Laylak",
-     "Qaldirg'och",
-     "Turna"
+     "72-betda",
+     "73-betda",
+     "70-betda",
+     "71-betda"
     ],
-    "togri": 0,
+    "togri": 3,
     "qiyinlik": "oson"
    },
    {
@@ -4794,7 +4794,7 @@
      "Qushlarning xushiyalari",
      "Qushlarning ovozi",
      "Qushlarning qiyin ahvoli",
-     "Qushlarning raqsi"
+     "Qushlarning raqslar"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -4811,14 +4811,14 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Qishki manzarada qaysi rang kam ishlatiladi?",
+    "savol": "Matni asosida qish faslining xususiyatlari necha turli ta'riflanadi?",
     "variantlar": [
-     "Oq",
-     "Havorang",
-     "Kulrang",
-     "Yorqin yashil"
+     "5 ta",
+     "8 ta",
+     "10 ta",
+     "3 ta"
     ],
-    "togri": 3,
+    "togri": 1,
     "qiyinlik": "o'rtacha"
    },
    {
@@ -4849,7 +4849,7 @@
      "Bolaning ishiga",
      "Shamolning ta'siri natijasida",
      "Ayozning ta'siri natijasida",
-     "Rassomning qalamiga"
+     "Rassomning qolamiga"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -4881,7 +4881,7 @@
     "variantlar": [
      "Oy nurining ko'rinishi",
      "Qushlarning harakati",
-     "Tabiatning sovuq holati",
+     "Tabiating sovuq holati",
      "Budaklar ko'rinishi"
     ],
     "togri": 2,
@@ -4912,10 +4912,10 @@
    {
     "savol": "Matni o'qib, qish faslining xususiyatlari va rasm chizishda qaysi elementlarni ishlatish mumkin?",
     "variantlar": [
-     "Issiq shamol, qum, sariq ranglar",
+     "Mos shamol, shina, ko'k ranglar; bolalar, mashinalar",
      "Sovuq, qor, oq ranglar; daraxtlar, dala, tog'lar",
-     "Yashil o'tlar, gullar",
-     "Dengiz, qum, quyosh"
+     "Issiq, tuproq, qora ranglar; bugunlar, o'tlar",
+     "Sal shamol, qum, sariq ranglar; su, tosh"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -4924,9 +4924,9 @@
     "savol": "Ertalabki quyosh nurlarining «kuchsiz» va «zarrin» bo'lishi qaysi vaqtning belgisi?",
     "variantlar": [
      "Kechasi",
-     "Kunning o'rtasida",
-     "Kunning boshida",
-     "Kunning oxirida"
+     "Kunni ortasida",
+     "Kunni boshida",
+     "Kunni oxirida"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -4967,7 +4967,7 @@
    {
     "savol": "She'rning «Qush inida qor, Ingrar og'riq kabi qari tol» qatorlari matni qaysi jihati bilan bog'lanadi?",
     "variantlar": [
-     "Tabiatning isishi bilan",
+     "Tabianing isitilishi bilan",
      "Qushlarning sevinchlari bilan",
      "Qushlar va tabiating qishi azobi, qor bosgan dala bilan",
      "Oy nurining rang bilan"
@@ -4976,14 +4976,14 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Derazadagi ayoz naqshlari nimani ko'rsatadi?",
+    "savol": "Ayozining uy derazalariga naqsh chizish jarayoni matni asosida kimga foyda beradi?",
     "variantlar": [
-     "Havo juda sovuqligini",
-     "Havo issiqligini",
-     "Yomg'ir yog'ayotganini",
-     "Bahor kelganini"
+     "Rasmchilarga to'siq qiladi",
+     "Shaharning hammasiga",
+     "Ko'nuvchlarga, yangi tasvir bermasi",
+     "Hayvonlarga"
     ],
-    "togri": 0,
+    "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
@@ -4992,7 +4992,7 @@
      "Ikkalasi ham issiq",
      "Ikkalasi ham qiyin",
      "Ikkalasi ham qora",
-     "Ikkalasi ham qishning sovuq va qorli ekanini ko'rsatadi"
+     "Ikkalasi ham oq va harkat bilan bog'liq"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -5000,9 +5000,9 @@
    {
     "savol": "«Osmon to'q zangori tusga kirgan» matni asosida qaysi vaqtni anglatadi?",
     "variantlar": [
-     "Kechqurunni",
+     "Fullayotgan kunni, akshom",
      "Kunni ortasida",
-     "Qishki kunning ertalabki vaqtini",
+     "Qishalayotgan kunni, ertalabki vaqtni",
      "To'liq tunni"
     ],
     "togri": 2,
@@ -5030,7 +5030,7 @@
     "savol": "Qish faslida qanday iqlim bo'ladi?",
     "variantlar": [
      "Qaynoq iqlim",
-     "Mo''tadil havo",
+     "Samson havo",
      "Sovuq iqlim",
      "Issiq iqlim"
     ],
@@ -5041,9 +5041,9 @@
     "savol": "Qorli yerlar bolalarga nima uchun qiziqarli bo'ladi?",
     "variantlar": [
      "O'yin maydoniga aylanadi",
-     "Qattiq tosh bo'ladi",
+     "Keskin tosh bo'ladi",
      "O'yinni qiyin qiladi",
-     "Bolalar yoqtirmaydi"
+     "Bolalar tomonidan sevalmaydi"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -5073,7 +5073,7 @@
    {
     "savol": "Yaxmalak nima tufayli hosil bo'ladi?",
     "variantlar": [
-     "Chang tufayli",
+     "Chumada tufayli",
      "Sovuq iqlim tufayli",
      "Shamol tufayli",
      "Issiqlik tufayli"
@@ -5107,7 +5107,7 @@
     "savol": "Qorbobo haykalini yasash uchun asosiy material nima?",
     "variantlar": [
      "Sement",
-     "Temir",
+     "Ko'prik",
      "Tuproq",
      "Qor"
     ],
@@ -5119,8 +5119,8 @@
     "variantlar": [
      "Qor yoqish",
      "Qorning tuzilmasi",
-     "Qor to'plari otishib o'ynaladigan qishki o'yin",
-     "Qordan uy yasash"
+     "Bolalarning qishki o'yini",
+     "Qordan qulla yasash"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -5153,7 +5153,7 @@
      "Qor va sovuq bo'lgan joyni ifodalovchi ranglar",
      "Faqat ko'k va sariq",
      "Faqat qizil va sariq",
-     "Rang-barang ranglar"
+     "Rang-barangan"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -5163,7 +5163,7 @@
     "variantlar": [
      "Asosiy shakli chizish yoki qor to'plash",
      "Rang to'ldirish",
-     "Ko'zoynak chizish",
+     "Ochko chizish",
      "Qor uyalarini yasash"
     ],
     "togri": 0,
@@ -5207,7 +5207,7 @@
     "variantlar": [
      "Oyoqlar",
      "Bosh, ko'zlar, burun, og'iz",
-     "Qanotlar",
+     "Qisqichlar",
      "Rangarang"
     ],
     "togri": 1,
@@ -5294,9 +5294,9 @@
     "savol": "Darslikdagi bosqichli rasmlarning ketma-ketligi qanday?",
     "variantlar": [
      "Detalllar → asosiy shakl",
-     "Katta → kichik",
+     "Yo'g'in → yo'g'in emas",
      "Asosiy shakl → hajm → detalllar → to'ldirish",
-     "Rang → bosh → detallar"
+     "Raqam → bosh → detalllar"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -5316,7 +5316,7 @@
     "savol": "Rassom qishki manzorani yasaganda qaysi shakllarga alohida e'tibor beradi?",
     "variantlar": [
      "Faqat burchakli chiziqlar",
-     "Dumaloq qor shakllari va bolalar",
+     "Tuman, dumaloq bo'lgan qor formalar va bolalar",
      "Gorizontal chiziqlar",
      "Faqat to'g'ri chiziqlar"
     ],
@@ -5346,7 +5346,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Bosqichli rasmlarning o'quv ahamiyati qanday?",
+    "savol": "Bosqichli rasmlarning o'qituvchik ahamiyati qanday?",
     "variantlar": [
      "Faqat ko'rish uchun",
      "Murakkab shakllarni bosqichma-bosqich yasash mumkin",
@@ -5366,7 +5366,7 @@
    {
     "savol": "Me'morlik nima deb ataladi?",
     "variantlar": [
-     "Askarlik",
+     "Jangarilar sifatida xizmat qilish",
      "Bino va inshootlarni loyihalash va qurish san'ati",
      "Qadimiy tarixni yozish",
      "Xalqaro tijorat"
@@ -5375,12 +5375,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Matnga ko'ra me'morchilikdagi koshin naqshlar qanday usulda hosil qilinadi?",
+    "savol": "Me'morchilikdagi naqshlar qanday usul bilan hosil qilinadi?",
     "variantlar": [
      "Koshin parchalarini birlashtirish usuli bilan",
-     "Mix qoqish bilan",
+     "Qolip yordamida",
      "Tavsvirlar qo'llaniladi",
-     "Suv sepish bilan"
+     "Qo'l bilan chiziladi"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -5500,7 +5500,7 @@
     "variantlar": [
      "Naqshlarni yaratish uchun asosiy usul",
      "Faqat dekoratif vazifa",
-     "Faqat tom yopish",
+     "Duxova",
      "Qo'shimcha detail"
     ],
     "togri": 0,
@@ -5543,8 +5543,8 @@
     "savol": "Me'moriy obidalar bezashda qanday san'at turlari qo'llanilgan?",
     "variantlar": [
      "Faqat xatt",
-     "Faqat musiqа",
-     "Naqqoshlik va koshinkorlik",
+     "Faqat musiqa",
+     "Naqqoshnoma va koshin san'ati",
      "Faqat rasm"
     ],
     "togri": 2,
@@ -5564,16 +5564,16 @@
    {
     "savol": "Me'morlik asarlarini yaratishda naqshlarning ahamiyati nimada?",
     "variantlar": [
-     "Naqshlar faqat nom uchun",
+     "Naqshlar sifatida naqsha deb ataladi",
      "Naqshlar binoning go'zelligi uchun zarur",
-     "Naqshlar ahamiyatsiz",
+     "Naqshlar kichik ahamiyat tasbah etadi",
      "Naqshlar faqat dekoratsia"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Imom Buxoriy majmuasi bizni nima bilan hayratlantiradi?",
+    "savol": "Imom Buxoriy majmualari bizni nimaga toshlaydi?",
     "variantlar": [
      "Uning rangiga",
      "Uning go'zal naqshi va me'morchiligi darajasiga",
@@ -5589,18 +5589,18 @@
      "Taraqqiyotning yo'qolishini",
      "Harbiy kuchni",
      "Faqat tabiatni",
-     "San'at va mehnat darajasini"
+     "San'at va mehnay darajasini"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Koshin parchalarini birlashtirish usuli nimani ko'rsatadi?",
+    "savol": "Koshin parchalarini birlashtirish usuli me'morchilikning qaysi ilohiy tamoyilini ifodalaydi?",
     "variantlar": [
-     "Qisqalikni",
+     "Qiskalikni",
      "Tezlikni",
-     "Kichik qismlardan katta va go'zal butunlik yaratilishini",
-     "Tartibsizlikni"
+     "Birlikning kuchini, barcha qismlarning birlashmasini",
+     "Yo'lqiylikni"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -5620,7 +5620,7 @@
     "savol": "Temuriylar tarixi davlat muzeyining binosida qanday naqsh turlari qo'llanilgan bo'lishi mumkin?",
     "variantlar": [
      "Faqat xatt naqshi",
-     "Geometrik, o'simliksimon (islimiy) va girih naqshlar",
+     "Geometrik, floralik va arabisk naqshlar",
      "Faqat geometrik naqsh",
      "Faqat tabiat naqshi"
     ],
@@ -5685,7 +5685,7 @@
    {
     "savol": "Zamonaviy me'morlik san'ati qadimiy me'morchilikdan nimada farq qiladi?",
     "variantlar": [
-     "Shakl, material va texnologiyada farq qiladi, lekin milliy uslublar saqlanadi",
+     "Shakl va dizaynda, lekin san'at uslublari saqlanadi",
      "Faqat naqshda",
      "Faqat materialda",
      "Faqat shaklda"
@@ -5703,10 +5703,10 @@
    {
     "savol": "Toshkent hayvonot bog'ida qaysi hayvonlarni uchratish mumkin?",
     "variantlar": [
-     "Faqat baliqlarni",
+     "Baliqlarni emas",
      "Fil, yo'lbars, sher va maymun",
-     "Faqat quyonlarni",
-     "Faqat mushuklarni"
+     "Faqat quzonlar",
+     "Atroq va tozalar"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -5748,7 +5748,7 @@
     "savol": "Hayvonot bog'ida noyob hayvonlar bormi?",
     "variantlar": [
      "Ha, o'lkamizda uchramaydigan noyob hayvonlar bor",
-     "Faqat devlar",
+     "Faqat devalar",
      "Yo'lbars va sher faqat",
      "Yo'q, faqat tanish hayvonlar"
     ],
@@ -5838,7 +5838,7 @@
      "Shaklni, qismlarini, nisbatlarini o'rganish uchun",
      "Hech narsa uchun",
      "Faqat rang uchun",
-     "Yollarini olib tashlash uchun"
+     "Zanharni olib tashlash uchun"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -5871,7 +5871,7 @@
      "Ot kattaroq",
      "Hech qanday farq yo'q",
      "Zebra rangi (koloriti) boshqacha",
-     "Ot yirtqich, zebra o'txo'r"
+     "Ot quyon, zebra baliq"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -5879,7 +5879,7 @@
    {
     "savol": "Hayvon tuzilishini o'rganishda uning qismlarini qanday ko'rsatish mumkin?",
     "variantlar": [
-     "Qora chiziq bilan o'chirish",
+     "Qora chiziq bilan o'chrish",
      "Birgalikda chizish",
      "Faqat nomlash",
      "Alohida alohida ajratib ko'rsatish"
@@ -5901,7 +5901,7 @@
    {
     "savol": "Filning bosh va tanasi o'rtasida qanday qism bog'lanadi?",
     "variantlar": [
-     "Bo'yin",
+     "Xartum",
      "Oyoq",
      "Dum",
      "Quloq"
@@ -5915,7 +5915,7 @@
      "Vaqt o'tkazish uchun",
      "Imtihon topshirish uchun",
      "Rangarang qilish uchun",
-     "Hayvonning murakkab tuzilishini tushunish uchun"
+     "Hayvonning qisiligan tuzilishini tushunish uchun"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -5923,10 +5923,10 @@
    {
     "savol": "Agar fil rasmida bosh, quloq va tanas barchasi oval shaklda bo'lsa, ularning o'lchamlarini qanday chizasiz?",
     "variantlar": [
-     "Tanasi eng katta, bosh va quloqlari deyarli bir xil va kichikroq",
+     "Tanas eng katta, bosh va quloqlari deyarli bir xil va kichikroq",
      "Barchasi bir xil o'lchamda",
-     "Bosh eng katta, tanasi kichik",
-     "Quloqlar eng katta, tanasi kichik"
+     "Bosh eng katta, baqasi kichik",
+     "Quloqlar eng katta, baqasi kichik"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -5934,8 +5934,8 @@
    {
     "savol": "\"Hayvonot bog'ida\" mavzusida boshqa hayvonlar bilan kompozitsiya ishlashda asosiy qoida nima?",
     "variantlar": [
-     "Faqat rang qo'llash",
-     "Faqat nomini yozish",
+     "Yalniz rang qo'llash",
+     "Nomini yozing",
      "Faqat doira chizish",
      "Uning ta'nasi qanday qismlardan tuzilganligini va bu qismlar qanday shaklga ega ekanligini aniqlash"
     ],
@@ -5945,8 +5945,8 @@
    {
     "savol": "Baliq va quyon rasmlarini taqqoslaganda ularning tuzilishidagi eng muhim farq nima?",
     "variantlar": [
-     "Quyon oyoqli, baliq oyoqsiz (suzgichlari bilan)",
-     "Quyon itga o'xshaydi",
+     "Quyon oyoqli, baliq oyoqsiz (quyruq va balaniyalar bilan)",
+     "Quyon itlar singari",
      "Hech qanday farq yo'q",
      "Ikkalasi ham oval"
     ],
@@ -6014,7 +6014,7 @@
      "Otning shaklni asosiy hisobga olgan holda, zebraga yangi xususiyatlar qo'shish",
      "Nomini yozib",
      "Xuddi otga o'xshash chizish",
-     "Zebra o'rniga foto qo'yish"
+     "Zebrani fo'to qo'yish"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -6023,7 +6023,7 @@
     "savol": "Hayvonning qism va shakllarini aniqlash uchun qanday bilimlardan foydalanish kerak?",
     "variantlar": [
      "Geometrik shakllarga oid bilim, vizual kuzatish, hayvon tuzilishi",
-     "Faqat qalam",
+     "Faqat kalam",
      "Faqat rang qo'llash",
      "Faqat kompyuter"
     ],
@@ -6040,10 +6040,10 @@
    {
     "savol": "Ertakda kambag'al dehqon osmonda uchib kelgan qaysi hayvonni topdi?",
     "variantlar": [
-     "Qarg'a",
-     "Chumchuq",
+     "Parrandagi",
+     "Chuqunchuk",
      "Laylak",
-     "Burgut"
+     "Qush"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -6051,9 +6051,9 @@
    {
     "savol": "Dehqon laylakni qayerga olib bordi?",
     "variantlar": [
-     "Daraxtga",
+     "Deradaraga",
      "O'z uyiga",
-     "Bozorga",
+     "Bozoriga",
      "Saroyga"
     ],
     "togri": 1,
@@ -6062,7 +6062,7 @@
    {
     "savol": "Laylakning siniq qanotiga dehqon nima bog'lab parvarishladi?",
     "variantlar": [
-     "Temir",
+     "Og'in",
      "Taxtakach",
      "Ip",
      "Parcha"
@@ -6074,8 +6074,8 @@
     "savol": "Laylak sog'ayib ketgandan keyin nima qildi?",
     "variantlar": [
      "Uyda qoldi",
-     "Uyda qolib ketdi",
-     "Dehqonni tishladi",
+     "Oyina ko'p yurdi",
+     "Yoki unday qoldi",
      "Uchib ketdi"
     ],
     "togri": 3,
@@ -6162,7 +6162,7 @@
     "savol": "Ertakdagi laylakka dehqonning yordamchi bo'lishida qanday insoniy xususiyat ko'rinadi?",
     "variantlar": [
      "O'z manfa'ati uchun",
-     "Maqtanish uchun",
+     "Boshqalarga ehson qilish uchun",
      "Faqat pul-mulk to'plash",
      "Mehribonlik va yordamsevarlik"
     ],
@@ -6175,7 +6175,7 @@
      "Dehqonning yordamiga minnatdarlik bildirish",
      "Ertakni davom ettirish",
      "Tasodifi hodisa",
-     "Osmondagi bulut tufayli"
+     "Osmondagi faqat sharoit"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -6183,10 +6183,10 @@
    {
     "savol": "Ijobiy fe'l-atvordagi qahramon qanday yuz ifodasi bilan tasvirlanadi?",
     "variantlar": [
-     "G'amgin va achchiq",
+     "Chuqur va achinli",
      "Xunuk va bezor",
      "Mehribon va yoqimli",
-     "Qo'rqoq"
+     "Qo'rqoq va bezorilik"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -6240,7 +6240,7 @@
     "variantlar": [
      "Faqat tuproq xususiyati",
      "Tasodifi tabiat hodisalari",
-     "Yaxshi ishning samara berishini ko'rsatish",
+     "Yaxsh ish ning samara beradigan tabiatini ko'rsatish",
      "Bahor nasimining ta'siri"
     ],
     "togri": 2,
@@ -6271,8 +6271,8 @@
    {
     "savol": "Ertakda laylak va dehqon orasidagi munosabat qanday tasniflanadi?",
     "variantlar": [
-     "Qo'pollik va bezorilik",
-     "Faqat hiyla",
+     "Ulug'vorlik va bezorilik",
+     "Faqat ixchilik",
      "Moliyaviy bog'lanish",
      "Do'stlik, minnatdarlik va o'zaro yordamlaşuv"
     ],
@@ -6282,20 +6282,20 @@
    {
     "savol": "'Bir bor ekan, bir yo'q ekan' iborasining ertaki matnidagi ma'nosi qanday?",
     "variantlar": [
-     "Ertakning an'anaviy boshlanishi — voqea qadim zamonda bo'lganini bildiradi",
-     "Faqat bitta odam borligini",
-     "Hech narsa yo'qligini",
-     "Voqea bugun bo'lganini"
+     "Faqat fantaziya",
+     "Shunchaki qadimgi so'zlash",
+     "Hech narsaning o'zgarmasligini bildirish",
+     "Vaqtning nisbiy va almashuvchi tabiatini bildirish"
     ],
-    "togri": 0,
+    "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
     "savol": "Ertakda dehqonning kambag'al bo'lishiga qaramay, jarohatli laylakka yordamda uning qanday xususiyati ko'rinadi?",
     "variantlar": [
-     "Faqat dangasaligi",
+     "Faqat davomatchilik",
      "Faqat o'z manfa'ati",
-     "Boy bo'lmasa ham yordamga tayyorligi",
+     "Pul-mulkka ehsisimandi bo'lmay yordamga tayyorligi",
      "Bezorilik"
     ],
     "togri": 2,
@@ -6317,7 +6317,7 @@
     "variantlar": [
      "Faqat o'qituvchi buyrug'i",
      "Rang tanlashning qismi",
-     "Qahramon tabiati va his-tuyg'ularini o'quvchiga yetkazish",
+     "Qahramon tabiati va his-tuyg'ularini bevosita o'quvchiga ta'sir qilish",
      "Faqat chiroyli ko'rinish"
     ],
     "togri": 2,
@@ -6337,10 +6337,10 @@
    {
     "savol": "Ertakda tabiat (laylak) va inson (dehqon) orasidagi munosabat qanday falsafiy ma'noga ega?",
     "variantlar": [
-     "Faqat qishloq bog'lanishi",
+     "Faqat selskoye bog'lanishi",
      "Tabiat va odam raqib",
      "Tabiat kuchli, odam zaif",
-     "Inson va tabiat bir-biriga yordam beradi"
+     "Odam va tabiat bir-biriga yordamlaşadi va do'stliklaşadi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -6348,8 +6348,8 @@
    {
     "savol": "Ertakni o'qib, tarvuz o'simligining osishi ertak kontekstida nima ramzi?",
     "variantlar": [
-     "Yaxshilikning samara berishini, mehribonlik natijasini",
-     "Faqat o'simlik mavzusini",
+     "Yaxshilikning samara beradigan ahamiytini, mehribonlik natijasini",
+     "Faqat o'simlikt mavzusi",
      "Tasodifi tabiat hodisalari",
      "Aralash tuproq"
     ],
@@ -6377,10 +6377,10 @@
    {
     "savol": "Natyurmort nima?",
     "variantlar": [
-     "Odamlarning portret rasmi",
-     "Devor rasmi",
-     "Jonsiz narsalar tasvirlangan rasm",
-     "Harakatdagi hayvonlar rasmi"
+     "Odamlarning portret rasmı",
+     "Tora devorning rasmı",
+     "Statik narsalardan tashkil topgan rasm",
+     "Harakatchan hayvonlarning rasmı"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -6432,12 +6432,12 @@
    {
     "savol": "Tasvirlangan narsalardan qaysi birining shakli dumaloq?",
     "variantlar": [
-     "Stolning",
-     "Hech birining emas",
+     "Ko'zaning",
+     "Hech birisining emas",
      "Olmaning",
      "Ikkisining ham"
     ],
-    "togri": 2,
+    "togri": 0,
     "qiyinlik": "oson"
    },
    {
@@ -6465,7 +6465,7 @@
    {
     "savol": "Narsalarni tasvirlashda nimalar ishlatiladi?",
     "variantlar": [
-     "Faqat ko'mirdan",
+     "Faqat xashir bilan",
      "Ranglardan",
      "Faqat qalamdan",
      "Faqat qog'ozdan"
@@ -6476,9 +6476,9 @@
    {
     "savol": "Narsalar stol ustida turgan bo'lsa, rasmda ularning pastda nima ko'rinadi?",
     "variantlar": [
-     "Deraza",
+     "Dereza",
      "Stol sirti",
-     "Osmon",
+     "Osman",
      "Chuqur suv"
     ],
     "togri": 1,
@@ -6501,7 +6501,7 @@
      "Faqat bir xil rang",
      "Faqat chizza chiziqlar",
      "Rangsiz qoldirib yuborish",
-     "Har xil tuslardan foydalanish"
+     "Har xil ranglar ishlantish"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -6551,7 +6551,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Agar ko'za olmadan ikki marta baland bo'lsa, rasmda bu nisbat saqlanadimi?",
+    "savol": "Agar ko'za olmaning balandligidan ikki marta uzoq bo'lsa, rasmda bu nisbat saqlanishikmi?",
     "variantlar": [
      "Faqat bo'yash vaqtida saqlanadi",
      "Yo'q, saqlanmadi",
@@ -6630,7 +6630,7 @@
    {
     "savol": "Olma va ko'zaning balandliklari 1:2 nisbatida bo'lsa, rasmda bu nisbatning durusta saqlanishining ahamiyati nima?",
     "variantlar": [
-     "Rasmning tabiiyligi va to'g'riligini ta'minlaydi",
+     "Rasmning tabiiyligi va o'rtochanligi ta'minlaydi",
      "Faqat o'qituvchini xursand qiladi",
      "Faqat bo'yashda muhim",
      "Hech qanday ahamiyat yo'q"
@@ -6642,7 +6642,7 @@
     "savol": "Narsalarning yorug' va soya tomonlarini o'rganib turli ranglar bilan tasvirlashning muhimiyati nima?",
     "variantlar": [
      "Muhimiyati yo'q",
-     "Rasmga hajm beradi, narsalar aniq ko'rinadi",
+     "Rasmga ko'lem, had-dan-tahayyol ko'rinish beradmi, narsalarning shaxsiyati aniq ko'rinadi",
      "Faqat rang ko'paylik qiladi",
      "Faqat chiziq ko'paylik qiladi"
     ],
@@ -6661,10 +6661,10 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Agar yorug'lik old tomondan tushsa, narsaning soyasi qaysi tomonda bo'ladi?",
+    "savol": "Agar yorug'lik nuri oldirdan rasm ostiga tusayotgan bo'lsa, narsalarning qaysi tomonida soya ko'proq bo'ladi?",
     "variantlar": [
-     "Orqa tomonida",
-     "Old tomonida",
+     "Orqa tomonida soya ko'proq bo'ladi, bu narsaning shaxsiyatini ko'rsatadi",
+     "Oldina tomonida soya",
      "Ikkala tomonida teng",
      "Yuqori tomonida soya"
     ],
@@ -6685,7 +6685,7 @@
    {
     "savol": "Agar sizda 4 ta har xil o'lchambad narsalar bo'lsa, ularning o'zaro nisbatini aniqlab, rasmda qanday joylashtirish kerak?",
     "variantlar": [
-     "Faqat kattalarini oldinga joylashtirish",
+     "Faqat kattalashni oldinga joylashtirish",
      "Hamma narsalarni teng o'lchambad qilish",
      "Hamma narsalarni ketma-ketlikda joylashtirish",
      "Har bir narsaning o'lchamlari boshqasiga nisbatan o'lchab, rasm ichida shu nisbatlashiga asoslanib joylashtirish"
@@ -6738,8 +6738,8 @@
     "variantlar": [
      "Stakan",
      "Ko'zaga",
-     "Chelakka",
-     "Tovoqqa"
+     "Buyumga",
+     "Tovoqga"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -6747,9 +6747,9 @@
    {
     "savol": "Ertakda tasvirlangan asosiy ikki shakl qaysilari?",
     "variantlar": [
-     "Sher va turna",
+     "Shermon va turna",
      "Tulki va turna",
-     "Quyon va qush",
+     "Quloq va qush",
      "Tulki va ayiq"
     ],
     "togri": 1,
@@ -6794,7 +6794,7 @@
      "Xohishmagan",
      "Xafa bo'lganlar",
      "Ovqat yomon bo'lgan",
-     "Tanasining shakli boshqacha"
+     "Tana shakli boshkacha"
     ],
     "togri": 3,
     "qiyinlik": "oson"
@@ -6849,7 +6849,7 @@
      "Mustaqil",
      "Vaqtinchalik",
      "Bir-birining takrorlanishi",
-     "Tasodifiy"
+     "Nisbatan"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -6892,7 +6892,7 @@
     "variantlar": [
      "Tozalash",
      "Ranglarni tanlash",
-     "Shaklni olish va asosiy konturni belgilash",
+     "Shakl olish va asosiy kontourni chizish",
      "Yozish"
     ],
     "togri": 2,
@@ -6913,7 +6913,7 @@
     "savol": "Turna va tulkining munosabatlari qanday o'zgaradi?",
     "variantlar": [
      "Dastlab yomon bo'ladi, keyin yaxshi bo'ladi",
-     "Dastlab dushman, keyin do'st",
+     "Dastlab mehribon, keyin qinaydi",
      "Dastlab yoqib ketadi, keyin yomonlashadi",
      "O'zgaramaydi"
     ],
@@ -6978,10 +6978,10 @@
    {
     "savol": "Tulkining turaga qilgan javobining moraliy mazmuni nima?",
     "variantlar": [
-     "Xushomad",
+     "Xovot-xushom",
      "Boshqa hayvonlarning kelishiga kutish",
-     "Qaytadan boshlash",
-     "Boshqasiga qilingan ishga o'shanday javob qaytarish (aksil-ta'sir)"
+     "To'liq yana boshlash",
+     "Shunaqa muammo yoki diktatu"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -7014,13 +7014,13 @@
      "Ertakdagi voqealar va hayvonlarning munosabatini ketma-ketlikda ko'rsatish",
      "Ixtiyoriy joylashtirish",
      "Rangli qilish majburiy",
-     "Faqat katta shakllar"
+     "Faqat katta shapkalar"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Ertakdagi voqealarning to'g'ri ketma-ketligini belgilang.",
+    "savol": "Ertagida ko'rsatilgan voqealarni ketma-ketligi noto'g'ri belgilang:",
     "variantlar": [
      "Suyuq ovqat → chaqiruv → intiqom",
      "Chaqiruv → intiqom → qattiq ovqat",
@@ -7060,12 +7060,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Matnga ko'ra qaysi sport turi mamlakatimizda ommalashib, unga qiziqish yildan yilga ortmoqda?",
+    "savol": "O'zbekistonda sport turlaridan qaysi biri ommalashgan?",
     "variantlar": [
-     "Kyorling",
+     "Futbol",
      "Badminton",
      "Tennis",
-     "Beysbol"
+     "Voleyball"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -7093,7 +7093,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Matnda keltirilgan mashhur tennischilardan biri kim?",
+    "savol": "Matndagi shohli tennischilardan biri qaysi nomni ko'rsatadi?",
     "variantlar": [
      "Karim Shodmonov",
      "Nigina Abduraimova",
@@ -7129,7 +7129,7 @@
     "savol": "Vlada Yaxshibarova qaysi sport turi bilan shug'ullanadi?",
     "variantlar": [
      "Tennis",
-     "Suzish",
+     "Plavlash",
      "O'yin sportlari",
      "Yugurish"
     ],
@@ -7148,7 +7148,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Matnda nechta mashhur tennischi nomi keltirilgan?",
+    "savol": "Matndagi shohli tennischilar nechada?",
     "variantlar": [
      "3 ta",
      "5 ta",
@@ -7184,8 +7184,8 @@
     "savol": "Matndagi beshta tennischilarning o'zaro teng tomoni nima?",
     "variantlar": [
      "Barchasining birinchi ismi 'D' harfdan boshlanadi",
-     "Barchasi qiz",
-     "Barchasi O'zbekistonlik",
+     "Barchasining qiz",
+     "Barchasining O'zbekistonlik",
      "Barchasining bir shahardan"
     ],
     "togri": 2,
@@ -7216,10 +7216,10 @@
    {
     "savol": "Farrux Do'stov va Denis Istomin o'rtasidagi o'zaro teng jihati nima?",
     "variantlar": [
-     "Ikkalasi ham xorazmlik",
-     "Ikkalasi ham tennis bilan shug'ullanadi",
-     "Ikkalasi ham qiz",
-     "Ikkalasi ham tengdosh"
+     "Barchasining xorizmlik",
+     "Barchasining tennis bilan shug'ullanadilar",
+     "Barchasining qizi",
+     "Barchasining yosh teng"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
@@ -7240,8 +7240,8 @@
     "variantlar": [
      "Ommalashgan sport",
      "Unutilgan sport",
-     "Taqiqlangan sport",
-     "Kam uchraydigan sport"
+     "Shukor sport",
+     "Nadir sport"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -7251,7 +7251,7 @@
     "variantlar": [
      "O'zbekiston sharafini himoya qilish",
      "Pul ishlash mumkinligi",
-     "Shaharda yashash",
+     "Shahar tanasida yashash",
      "Futbol o'ynash kerak edi"
     ],
     "togri": 0,
@@ -7260,7 +7260,7 @@
    {
     "savol": "Tennischi rasmini chizishning qo'llaniladigan usuli qanday?",
     "variantlar": [
-     "Faqat qora qalam ishlatish",
+     "Faqat qara qalamni ishlatish",
      "Bosqichlarga bo'lib chizish va keyinroq boyash",
      "Bevosita rang qo'llash",
      "Oliy xunarmandchilikka ega bo'lishni talab qiladi"
@@ -7284,8 +7284,8 @@
     "variantlar": [
      "Bular to'liq qarama-qarshi tushunchalar",
      "Hech qanday bog'liqligi yo'q",
-     "Sog'liq jismoniy rivojlanishga to'sqinlik qiladi",
-     "Jismoniy rivojlanish sog'liqni mustahkamlaydi"
+     "Sog'liq jismoniy rivojlanishni to'saddi qiladi",
+     "Jismoniy rivojlanish sog'liqni kuchtaytiradi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -7293,10 +7293,10 @@
    {
     "savol": "Matndagi tennischilar (Denis Istomin, Farrux Do'stov, Iroda To'laganova, Nigina Abduraimova, Vlada Yaxshibarova) ularning nomlarini tahlil qilsangiz, qaysi xususiyat ularni bog'laydi?",
     "variantlar": [
-     "Barchasi O'zbekistonlik tennischilar",
+     "Barchasining o'zbek tilidagi familiyalari",
      "Barchasining yoshi teng",
-     "Ismlarining uzunligi teng",
-     "Hammasining ismi bir harfdan boshlanadi"
+     "Barchasining ismining uzunligi teng",
+     "Barchasining birinchi harfi shunaqu"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -7327,7 +7327,7 @@
     "savol": "O'zbekistonlik tennischilarning xalqaro musobaqalarda muvaffaqiyati sportning qaysi asosiy maqsadi bilan bog'liq?",
     "variantlar": [
      "Pul ishlash",
-     "Davlatlar o'rtasida janjal",
+     "O'zbekiston va boshqa davlatlar o'rtasida urushlanish",
      "Kishilarning sog'lig'i va jismoniy rivojlanish",
      "Mashhurlik"
     ],
@@ -7339,7 +7339,7 @@
     "variantlar": [
      "Tennis sport yo'qola boshladi",
      "Tennis har yil pasayib bormoqda",
-     "Tennisga qiziquvchilar tobora ko'paymoqda",
+     "Tennis tobora ko'proq omma-jondan qiziq ko'rilib bormoqda",
      "Tennis umuman qaytadi"
     ],
     "togri": 2,
@@ -7362,7 +7362,7 @@
      "Davlatning sportga e'tiborining muhimligiga va o'zbek xalqining qat'iyatliligi",
      "Tennisning boshqa sportlargacha bo'lgan ustunligiga",
      "Jismoniy tarbiyaning muhimligiga",
-     "Faqat sport sovrinlariga"
+     "Sport salomalari mumkinligiga"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -7413,18 +7413,18 @@
      "Ochilib",
      "Yopiladi",
      "Kesiladi",
-     "Qurib qoladi"
+     "Qoradi"
     ],
     "togri": 0,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Olma, o'rik, gilos bahorda qanday rangda gullaydi?",
+    "savol": "Olma, o'rik, gilos kabi mevalar bahorda qanday rangda gullaydi?",
     "variantlar": [
-     "Oq va pushti",
-     "Faqat qora",
-     "Faqat ko'k",
-     "Faqat jigarrang"
+     "Turfa ranglarda",
+     "Faqat sariq",
+     "Faqat qizil",
+     "Faqat oq"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -7474,14 +7474,14 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Bahorda qaysi gul birinchilardan bo'lib ochiladi?",
+    "savol": "Nastarin rasmida nechtata farq topishi kerak?",
     "variantlar": [
-     "Boychechak",
-     "Kungaboqar",
-     "Xrizantema",
-     "Paxta"
+     "5 ta",
+     "6 ta",
+     "8 ta",
+     "7 ta"
     ],
-    "togri": 0,
+    "togri": 2,
     "qiyinlik": "oson"
    },
    {
@@ -7510,7 +7510,7 @@
     "savol": "Rasm ishlashda tasvirni o'lchamlarini belgilash nima uchun zarur?",
     "variantlar": [
      "Rasmni to'g'ri joylashtirib o'lchamini aniqlash uchun",
-     "Varaqni qoqlash uchun",
+     "Varaqni qoq qilish uchun",
      "Rang tanlab olish uchun",
      "Vaqt o'tkazish uchun"
     ],
@@ -7521,7 +7521,7 @@
     "savol": "Qalamda xomaki ishlash degani nima?",
     "variantlar": [
      "Rangli qalamda bo'yash",
-     "Yengil chiziqlar bilan taxminiy belgilash",
+     "Engil chiziqlarni softalik bilan belgilash",
      "Qalamni o'tkir qilish",
      "Bo'yoqlarni aralashtirish"
     ],
@@ -7553,7 +7553,7 @@
    {
     "savol": "O. Qozoqov \"Vodiyda bahor\" asarida bahor qanday tasvirlangan?",
     "variantlar": [
-     "Qorong'i",
+     "Qoradi",
      "Yam-yashil va turfa ranglarda",
      "Sokin edi",
      "Faqat oq rang edi"
@@ -7589,20 +7589,20 @@
      "Faqat nuqta qo'llash",
      "Rasmni butunlay o'chirish",
      "Qora rang qo'llash",
-     "Chiziqlarni aniqlab, ortiqchasini o'chirish"
+     "Ranglarni engil bo'lish va chiziqlarni aniqlash"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Qaysi bosqichda asosan bo'yoq ishlatiladi?",
+    "savol": "Rasm ishlashning qaysi bosqichida qalam va bo'yoqlar birgalikda ishlatiladi?",
     "variantlar": [
      "Qalamda yakunlashda",
      "O'lchamlashda",
      "Oxirgi bosqichda",
      "Birinchi bosqichda"
     ],
-    "togri": 2,
+    "togri": 0,
     "qiyinlik": "o'rtacha"
    },
    {
@@ -7610,7 +7610,7 @@
     "variantlar": [
      "Qo'l tartibi muhim emas",
      "Dastlab faqat qora rang",
-     "Dastlab o'lchamni belgilash, xomaki, qalamda yakunlash, keyin bo'yash",
+     "Dastlab qalamda xomaki, keyin rang, oxirida qalamda yakunlash",
      "Dastlab rang, keyin xomaki, oxirida qalamda yakunlash"
     ],
     "togri": 2,
@@ -7641,10 +7641,10 @@
    {
     "savol": "Bahor faslining ilk darakchilari deganda ko'z oldingizga nimalar keladi?",
     "variantlar": [
-     "Qor, sovuq, muz",
+     "Sorin, quyin, yomg'ir",
      "Faqat shamol",
      "Faqat quyash",
-     "Gullayotgan shoxlar, yam-yashil o'simliklar, quyosh"
+     "Gullayotgan shoxlar, yam-yashil o'simliklar, quyin"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -7677,7 +7677,7 @@
      "Faqat gullayotgan daraxtlar",
      "Faqat yomg'ir va shamol",
      "Faqat quyash",
-     "Yam-yashil o'simliklar, gullayotgan shoxlar, quyosh va boshqa alomatlar"
+     "Yam-yashil o'simliklar, gullayotgan shoxlar, quyin va boshqa alamatlar"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -7708,7 +7708,7 @@
     "savol": "Rasm ishlashda qalamda yakunlash va bo'yoqlar bilan ishlov berish o'rtasidagi farq nima?",
     "variantlar": [
      "Ikkalasiham bir xil narsani qiladi",
-     "Qalamda yakunlashda chiziqlar aniqlanadi, bo'yashda esa rang beriladi",
+     "Yakunlash engil, bo'yoqlar ishlov - rang to'q va quyish",
      "Farq yo'q",
      "Faqat vaqt farqi"
     ],
@@ -7747,18 +7747,18 @@
    {
     "savol": "Tabriknomada qanday so'zlar bitilgan bo'lishi mumkin?",
     "variantlar": [
-     "Qo'rqitish so'zlari",
+     "Qo'rq so'zlari",
      "Xavfli so'zlar",
-     "Tuhmat so'zlari",
+     "Iftiro so'zlari",
      "Tabrik so'zlari"
     ],
     "togri": 3,
     "qiyinlik": "oson"
    },
    {
-    "savol": "«Navro'zingiz muborak bo'lsin!» — bu nima?",
+    "savol": "\"Navro'zingiz muborak bo'lsin!\" - bu qanday narzoni?",
     "variantlar": [
-     "Maqol",
+     "Masla",
      "Savol",
      "Tabrik so'zi",
      "Hikoya"
@@ -7770,9 +7770,9 @@
     "savol": "Tabriknoma kimga berilishi mumkin?",
     "variantlar": [
      "Faqat o'qituvchi",
-     "Faqat o'rtoqqa",
-     "Yaqinlarga",
-     "Faqat do'stga"
+     "Faqat rafiq",
+     "Yaqinlardan",
+     "Faqat dost"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -7802,21 +7802,21 @@
    {
     "savol": "Akvarelda bo'yash deb nima tushuniladi?",
     "variantlar": [
-     "Tush bilan yozish",
+     "Tush o'qida yozish",
      "Suvli ranglar bilan bo'yash",
      "Yog'li ranglar bilan bo'yash",
-     "Ko'mir bilan bo'yash"
+     "Qoraqalamga bo'yash"
     ],
     "togri": 1,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Matnda tabriknoma tuzing deyilganda birinchi ish nima?",
+    "savol": "Metnda tabriknoma tuzing deb aytilganda, birinchi ish nima?",
     "variantlar": [
-     "Rasmga nom qo'yish va hikoya tuzish",
+     "Rasmga nom qo'yish va hikoya tuzing",
      "Rang sotib olish",
-     "Ko'chada o'ynash",
-     "Dori yozish"
+     "Ko'chma o'ynash",
+     "Dorihazo yozish"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -7836,8 +7836,8 @@
     "savol": "Agar tabriknoma tuzing desak, birinchi bosqich qanday bo'ladi?",
     "variantlar": [
      "Matn yozishni boshlash",
-     "Rasmga nom qo'yib, u bo'yicha hikoya tuzish",
-     "Faqat qalam ishlatish",
+     "Rasmga nom qo'yib, uning bo'yicha hikoya tuzing",
+     "Faqat qaram qo'llash",
      "Darhol akvarelni qo'llash"
     ],
     "togri": 1,
@@ -7848,7 +7848,7 @@
     "variantlar": [
      "Darhol rang qo'llash",
      "Faqat matn yozish",
-     "Faqat chizmachilik qalami ishlatish",
+     "Faqat chizamali qalam ishlatish",
      "Birinchi qoraqalamga chizib, keyin bo'yash"
     ],
     "togri": 3,
@@ -7881,7 +7881,7 @@
     "variantlar": [
      "Qoraqalamga chizilgan chiziqlarni bo'yash",
      "Qaychi bilan kesish",
-     "Eng qalin ranglarni qo'llash",
+     "Eng qalincha ranglarni qo'llash",
      "Qoraqalamni o'chirib tashlash"
     ],
     "togri": 0,
@@ -7891,8 +7891,8 @@
     "savol": "Dekorativ kompozitsiya ishlash uchun nima kerak?",
     "variantlar": [
      "Faqat rasm chizish",
-     "Faqat chizmachilik qalami",
-     "Matn va rasmni o'ziga xos tarzda joylashtirish",
+     "Faqat chizamali qalam",
+     "Matn va rasm-chizmani xususi tarzda joylashtirish",
      "Faqat ranglar qo'llash"
     ],
     "togri": 2,
@@ -7914,8 +7914,8 @@
     "variantlar": [
      "Faqat rasmni yaxshi qilish",
      "Faqat rang qo'llash",
-     "Devorga osish",
-     "Tabriklash va bayram kayfiyatini ulashish"
+     "Duvarga osilishi",
+     "Odamni tabriklash va bayram ta'sigini berish"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -7969,7 +7969,7 @@
     "variantlar": [
      "Faqat qora-oq",
      "Faqat katta bo'lsin",
-     "Bayramning ma'nosi va ramzlarini birlashtirish",
+     "Bayramning ma'nosi, ramzlari va ma'nosini birlashtirish",
      "Faqat oddiy rasm"
     ],
     "togri": 2,
@@ -8036,7 +8036,7 @@
      "Faqat vaqt o'tkazish",
      "Faqat izzat ko'rsatish",
      "Faqat vaziyfani bajarish",
-     "Samimiy munosabat va bayramni birga nishonlash istagi"
+     "Qalbiy munosabat va bayramni birga nishonlashni istaganlik"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -8047,7 +8047,7 @@
      "Faqat bir rang",
      "Faqat geometrik shakllar",
      "Faqat matn yozish",
-     "Ramzlar, ranglar va chiziqlarni chiroyli joylashtirish"
+     "Ramzlar, ranglar va chiziqlarni ma'qulada joylashtirish"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -8115,12 +8115,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Doiraviy naqsh qog'ozning qayerida belgilanadi?",
+    "savol": "Rasm qog'oz yuzasining qayerida belgilanishi kerak?",
     "variantlar": [
      "Faqat tepasida",
-     "Markazda, doira qog'ozga to'liq sig'adigan qilib",
-     "Har doim o'ng burchakda",
-     "Chetida"
+     "Allaqachon belgilangan qayerda",
+     "Har doim o'ng tomonida",
+     "Faqat markazda"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -8184,7 +8184,7 @@
     "savol": "Bosqichlarni noto'g'ri tartibda bajarsa nima bo'ladi?",
     "variantlar": [
      "Yanada yaxshi bo'ladi",
-     "Naqsh buziladi va sifati tushadi",
+     "Naqsh nokamtarlanadi va sifati tushadi",
      "Naqsh yaxshi bo'ladi",
      "Hech narsa o'zgarmasdi"
     ],
@@ -8217,7 +8217,7 @@
     "savol": "Tarh olish jarayonida naqsh qanday o'zgaradi?",
     "variantlar": [
      "Qog'ozga ko'chiriladi va aniqlanadi",
-     "Faqat bezak gullari o'zgaradi",
+     "Bezak gullari",
      "Faqat rang",
      "Hech o'zgarmasdi"
     ],
@@ -8228,7 +8228,7 @@
     "savol": "Qog'oz yuzasini belgilash nima uchun muhim?",
     "variantlar": [
      "Ranglarni tanlash",
-     "Faqat chizmada",
+     "Chizmada faqat",
      "Vaqt o'tkazish",
      "Kompozitsiya to'g'ri va muvozanatli bo'lishi"
     ],
@@ -8240,14 +8240,14 @@
     "variantlar": [
      "Faqat vaqt",
      "Kontrast ranglar va ko'rinishi",
-     "Siyohrang",
-     "Hech narsa"
+     "Siyoh rang",
+     "Biron narsa"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Tayyorlash bosqichlari o'tkazib yuborilsa, nima bo'ladi?",
+    "savol": "Tayyorliq bosqichlarini o'tkazsa nima tug'adi?",
     "variantlar": [
      "Yanada yaxshi",
      "Hech narsa",
@@ -8261,7 +8261,7 @@
     "savol": "Bezak gullarini aniqlash nima uchun zarur?",
     "variantlar": [
      "Vaqt o'tkazish",
-     "Naqsh tuzilishini oldindan tasavvur qilish uchun",
+     "Naqsh tuzilishi va tasavvuri",
      "Sabab yo'q",
      "Ornamental bilish"
     ],
@@ -8269,12 +8269,12 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Tarhi olingan naqshni nima bilan bo'yash mumkin?",
+    "savol": "Tarh olingan naqshni boshqa usul bilan ishlash mumkinmi?",
     "variantlar": [
-     "Guash yoki akvarel bilan",
+     "Guash yoki akvarel",
      "Mumkin emas",
      "Faqat qalam",
-     "Faqat suv bilan"
+     "Faqat qushiqla"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -8326,29 +8326,29 @@
    {
     "savol": "Kontrast ranglar bo'yashning qanday jihatlarini oshiradi?",
     "variantlar": [
-     "Tekshirishni",
+     "Tekshirish",
      "Faqat vaqt",
      "Hech qanday",
-     "Qismlarni ajratib, aniq ko'rsatadi"
+     "Qismlarni ajratadi, ko'rinadi qiladi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Doiraviy naqshda simmetriya o'qlari qayerdan o'tadi?",
+    "savol": "Qaysi bosqich eng muhim muammolarga sabab bo'ladi?",
     "variantlar": [
-     "Doira markazidan",
-     "Faqat chetidan",
-     "Hech qayerdan",
-     "Burchakdan"
+     "Birinchi",
+     "Muhim emas",
+     "Uchinchi (tarh)",
+     "Ikkinchi"
     ],
-    "togri": 0,
+    "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
     "savol": "Tuzilish, gullari tanlab, kontrast ranglar ishlatilsa natijaviy naqsh qanday bo'ladi?",
     "variantlar": [
-     "Xira",
+     "Nokamtarlanadi",
      "Faqat rangli",
      "Buziladi",
      "Tartibli va muvozanatli"
@@ -8359,7 +8359,7 @@
    {
     "savol": "Simmetriya aniqlangandan keyin nima qilish kerak?",
     "variantlar": [
-     "Hech narsa qilmaslik",
+     "Amal qilmasdan",
      "Markazdan teng bo'lib joylashtirish",
      "Faqat rang",
      "Hech narsa"
@@ -8399,7 +8399,7 @@
    {
     "savol": "Kulolchilik nima?",
     "variantlar": [
-     "Yog'ochga ishlov beradi",
+     "Yog'ini ishlov beradi",
      "Metalni ishlov beradi",
      "O'simlik ekiladi",
      "Loydan buyumlar yasaydi"
@@ -8421,8 +8421,8 @@
    {
     "savol": "Kulolchilikda asosiy qurol nima deb ataladi?",
     "variantlar": [
-     "Bolg'a",
-     "Temir qurol",
+     "Charm charxi",
+     "Demir qurol",
      "Kulollik charxi",
      "Elektr pechasi"
     ],
@@ -8435,7 +8435,7 @@
      "Tuproq va loy",
      "Metall",
      "Plastik",
-     "Qog'oz"
+     "Qag'oz"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -8452,12 +8452,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Sopol buyumlar an'anaviy tarzda qayerda pishiriladi?",
+    "savol": "Sopol buyumlar qayerdagi quritiladi?",
     "variantlar": [
-     "Tuproqda",
+     "To'ponda",
      "Xumdonda",
-     "Suvda",
-     "Muzlatkichda"
+     "Shimda",
+     "Xonada"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -8479,7 +8479,7 @@
      "Pishiq, chiroyli va nafis",
      "Past va yomon",
      "Odiy va oq",
-     "Og'ir va qo'pol"
+     "Og'ir va qo'polyosh"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -8509,8 +8509,8 @@
    {
     "savol": "Loyga shakl berishda qaysi qurol asosiy rol o'ynaydi?",
     "variantlar": [
-     "Temir qolip",
-     "Charm asbob",
+     "Demir qomma",
+     "Charm asbabi",
      "Kulollik charxi",
      "Elektr pechasi"
     ],
@@ -8522,21 +8522,21 @@
     "variantlar": [
      "Rang yaxshi beriladi",
      "Juda chiroyli bo'ladi",
-     "Buyum yorilib ketadi",
+     "Buyum parchalanadi",
      "Bezak oson tushadi"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Loydan yasalgan buyum pishirishdan oldin nima qilinadi?",
+    "savol": "Sopol buyumlarni pishirish qayerdagi qilinadi?",
     "variantlar": [
-     "Quritiladi",
-     "Suvga solinadi",
-     "Muzlatiladi",
-     "Yoqib yuboriladi"
+     "Tuydada",
+     "Tandirda",
+     "Ohinda",
+     "Maxsus elektr pechda"
     ],
-    "togri": 0,
+    "togri": 3,
     "qiyinlik": "o'rtacha"
    },
    {
@@ -8551,7 +8551,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Matnda tilga olingan kulol usta kim?",
+    "savol": "Matinda ko'rsatilgan tunning nomi qaysi hunarmand?",
     "variantlar": [
      "Miriy Akbar",
      "Nosir Orifiy",
@@ -8562,11 +8562,11 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Sopol buyumlar nima bilan bezatiladi?",
+    "savol": "Sopol buyumlarni qanday bilim bezaydilar?",
     "variantlar": [
      "Faqat oq rang",
      "Ko'rkam naqsh va bezaklar",
-     "Faqat qora rang",
+     "Qirq asr naqshi",
      "Oddiy rang"
     ],
     "togri": 1,
@@ -8587,7 +8587,7 @@
     "savol": "Abdurahim Muxtorov qanday o'yinchoqlarni yaratdi?",
     "variantlar": [
      "Milliy o'yinchoq va mayda shakllarni",
-     "Yog'och o'yinchoqlarni",
+     "Yog'i o'yinchoqlarni",
      "Plastik o'yinchoqlarni",
      "Metall o'yinchoqlarni"
     ],
@@ -8595,7 +8595,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Xalq ustalari buyumlarni qanday bezaydi?",
+    "savol": "Xalq ustallari buyumlarni bezaydi qanday bilim bilan?",
     "variantlar": [
      "Oddiy rang",
      "Oddiy bo'yash",
@@ -8672,10 +8672,10 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "«Nafis sir» iborasi sopol buyum haqida nimani anglatadi?",
+    "savol": "\"Nafis siri\" iborasi sopol buyumlar haqida nima anglatadi?",
     "variantlar": [
      "Arzonligini",
-     "Buyum sirti yupqa, chiroyli yaltiroq qoplama bilan qoplanganini",
+     "Yaxshi, sof va yuqori sifatli malumotni",
      "Xavfsizligini",
      "Og'irligini"
     ],
@@ -8710,7 +8710,7 @@
      "San'at arbobi va mayda shakllar ustasi",
      "Fermachi",
      "Metall ishchi",
-     "Bo'yoqchi"
+     "Boyoq ishi"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -8734,12 +8734,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Quyosh qaysi vaqtda botadi?",
+    "savol": "Quyosh qaysi vaqtda botayoqdi?",
     "variantlar": [
      "Tun o'rtasida",
-     "Tushda",
+     "Kuniozida",
      "Oqshomda",
-     "Ertalab"
+     "Kunuz"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -8749,7 +8749,7 @@
     "variantlar": [
      "Oqshom",
      "Bomdod",
-     "Kunduz",
+     "Qunduz",
      "Tun"
     ],
     "togri": 0,
@@ -8758,7 +8758,7 @@
    {
     "savol": "Rassomlar nima bilan ish ko'rishni xush ko'radilar?",
     "variantlar": [
-     "Faqat odamlarni chizish bilan",
+     "Yalpi harakatchlik bilan",
      "Faqat suv bo'yida",
      "Faqat qora-oq ranglar bilan",
      "Bir xil manzarani kunning turli pallalarida chizish bilan"
@@ -8778,12 +8778,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Binafsha rang qanday hosil bo'ladi?",
+    "savol": "Matnda berilgan yangi ranglardan \"Binafsha\" qaysi?",
     "variantlar": [
-     "Ranglar halqasida yo'q",
-     "U asosiy rang",
-     "Ikki rangning (qizil va ko'k) aralashmasidan",
-     "Faqat oqdan"
+     "Rang yo'q",
+     "Bitta rang",
+     "Ikki rangning aralashmasi",
+     "Shu shartda mavjud"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -8803,7 +8803,7 @@
     "savol": "\"Qirmizi\" qaysi rangni anglatadi?",
     "variantlar": [
      "Och sariq",
-     "To'q qizil",
+     "Siyoh qizil",
      "Qo'ng'ir",
      "Och ko'k"
     ],
@@ -8824,20 +8824,20 @@
    {
     "savol": "\"Siyohrang\" qaysi rangga o'xshash?",
     "variantlar": [
-     "Moviy",
-     "Oq",
-     "Sariq",
-     "To'q ko'k-binafsha"
+     "Moviy rang",
+     "Oq rang",
+     "Qora rang",
+     "Kulrang"
     ],
     "togri": 3,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Kunduzi va oqshomda narsalarning rangi nima sababli turlicha bo'ladi?",
+    "savol": "Kunuz va oqshomda narsalarning rangi nima sababli turlicha bo'ladi?",
     "variantlar": [
      "Ko'zlar oqshomda yomon ko'radi",
      "Rassomlar xush ko'rishi uchun",
-     "Quyoshning charaqlab turishi yoki botishiga ko'ra",
+     "Quyosh charaqlamashqa va botashiga ko'ra",
      "Rangli moddalar o'zgaradi"
     ],
     "togri": 2,
@@ -8868,18 +8868,18 @@
    {
     "savol": "\"Kulrang\" va \"Siyohrang\" orasidagi farq nima?",
     "variantlar": [
-     "Farq yo'q",
-     "Kulrang — oq va qora aralashmasi, siyohrang — to'q ko'k-binafsha",
-     "Kulrang yashil, siyohrang sariq",
-     "Kulrang qizil, siyohrang oq"
+     "Farq yo'q, bir xil rang",
+     "Kulrang qora, siyohrang och",
+     "Kulrang och, siyohrang qora",
+     "Kulrang ko'k, siyohrang qizil"
     ],
-    "togri": 1,
+    "togri": 2,
     "qiyinlik": "o'rtacha"
    },
    {
     "savol": "Rassomlar \"ranglarni bor jilosida tasvirlashtirish\" bilan nima anglatadi?",
     "variantlar": [
-     "Ranglarning tusiga, tabiatiga mos ravishda chizish",
+     "Ranglarning to'ng'iga, tabiatiga mos ravishda chizish",
      "Faqat qora chiziq bilan chizish",
      "Rasmni juda katta qilish",
      "Rangni tezda chizish"
@@ -8925,7 +8925,7 @@
     "variantlar": [
      "Pushti qora, qizil och",
      "Pushti siyohroq",
-     "Pushti ochroq va yumshoqroq",
+     "Pushti ochroq va sofiyroq",
      "Pushti ko'k, qizil qora"
     ],
     "togri": 2,
@@ -8947,16 +8947,16 @@
     "variantlar": [
      "Ular turlicha rang oladi",
      "Ular aniqroq bo'ladi",
-     "Ular umumiylashib, xiralashib boradi",
+     "Ular umumiylashib, so'v bo'lib boradi",
      "Ular kattaroq bo'ladi"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Kunduzgi va oqshomgi rasm orasida asosiy rang farqi qanday?",
+    "savol": "Kunuz rasm va oqshom rasm orasida asosiy rang farqi qaysi?",
     "variantlar": [
-     "Kunduzi ochroq ranglar, oqshomda to'qroq ranglar",
+     "Kunuz ochiqqoq ranglar, oqshom quyuqqoq ranglar",
      "Farq yo'q",
      "Kunuz faqat qizil, oqshom faqat ko'k",
      "Kunuz ko'p rang, oqshom faqat bittagi rang"
@@ -8998,12 +8998,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Quyosh botayotganda osmon qanday ranglarda bo'ladi?",
+    "savol": "Oqshom paytida quyosh nurlarining kamayishi rasm chizishida qanday muammoni yechadi?",
     "variantlar": [
-     "Qizg'ish, zarg'aldoq, alvon",
-     "Faqat qora",
-     "Faqat yashil",
-     "Faqat oq"
+     "Taassurotni va natural rangni ifodalash muammosini yechadi",
+     "Muammo yo'q",
+     "Rasmning o'lchamini aniqlash muammosini yechadi",
+     "Rasmni tezda chizish muammosini yechadi"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -9020,7 +9020,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Darslikdagi rasmlardan oqshom tasvirini o'rganishda qanday eng muhim saboq olamiz?",
+    "savol": "128-betdagi rasmlardan oqshom tasvirini o'rganishda nima eng muhim dars olamiz?",
     "variantlar": [
      "Rasmning o'lchami muhim",
      "Oqshom paytida ranglar va to'qlashning o'zgarishi, natural taassurotni chizishda bu nima ta'siri borligini tushunish",
@@ -9065,7 +9065,7 @@
      "Hayvon o'rgatuvchi va boshqa san'at tomoshalari",
      "Faqat akrobatika",
      "Faqat musiqiy tomoshalar",
-     "Faqat ma'ruza"
+     "Faqat bayonnoma"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -9098,7 +9098,7 @@
      "Hayvonlarni o'rgatadi va ular bilan ishlaydi",
      "Rasm chizadi",
      "Dars beradi",
-     "Musiqа ijro etadi"
+     "Musiqa ijro etadi"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -9140,7 +9140,7 @@
     "savol": "Haykal ishlashda asosiy material nima bo'lishi mumkin?",
     "variantlar": [
      "Faqat qog'oz",
-     "Faqat bo'yoq",
+     "Faqat bo'ya",
      "Tuproq yoki plastilina",
      "Faqat qalam"
     ],
@@ -9162,7 +9162,7 @@
     "savol": "Hayvon o'rgatuvchi haykalini ishlashda avval nima qilish kerak?",
     "variantlar": [
      "Ranglarni tayyorlash",
-     "Qo'l bilan urish",
+     "Dastdan tola olib qomlash",
      "Rasmini chizib, so'ngra uch o'lchovli shakl yaratish",
      "Kichik qismlarni ishlash"
     ],
@@ -9238,10 +9238,10 @@
    {
     "savol": "\"Hayvon o'rgatuvchi\" mavzusida qanday hayvonlarni tasvir etish mumkin?",
     "variantlar": [
-     "Faqat tovuqlar",
+     "Faqat ituqli hayvonlar",
      "Faqat yo'lbars",
      "Faqat uchuvchi hayvonlar",
-     "Har qanday hayvonlar — sher, ayiq, it va boshqalar"
+     "Har qanday hayvonlar - sho'ro, qosh, it va boshqalar"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -9261,7 +9261,7 @@
     "savol": "\"Hayvon o'rgatuvchi\" mavzusida haykal yaratishda sirkdagi tomoshalaring ta'siri nima sababga muhimmi?",
     "variantlar": [
      "Hech qanday ta'siri yo'q",
-     "Faqat musiqа uchun",
+     "Faqat musiqa uchun",
      "Faqat rang uchun",
      "Hayvon o'rgatuvchining harakati, pozitsiyasi va hayvonlar bilan aloqasini tushunishda yordam beradi"
     ],
@@ -9318,7 +9318,7 @@
      "Ha, faqat uchuvchi hayvonlar",
      "Ha, faqat suv hayvonlari",
      "Ha, faqat yo'lbars",
-     "Yo'q, sher, ayiq, it va boshqa hayvonlar bilan turli vaziyatlarda"
+     "Yo'q, sho'ro, qosh, it va boshqa hayvonlar bilan turli vaziyatlarda"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -9329,7 +9329,7 @@
      "Faqat xayol kerak",
      "Xayol muhimmas",
      "Faqat kuzatish kerak",
-     "Xayol va kuzatish birgalikda o'ziga xos haykal yaratishda muhim"
+     "Xayol va kuzatish birgalikda ishlashi o'z tarjimasiga ega haykal yaratishda muhimmi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"

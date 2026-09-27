@@ -28,10 +28,10 @@
   {
    "savol": "Stixoyada nechta o'g'in tartiblanadi?",
    "variantlar": [
-    "Ikkita o'g'il",
-    "Bitta o'g'il",
-    "Uchta o'g'il",
-    "To'rtta o'g'il"
+    "Ikkita o'g'in",
+    "Bitta o'g'in",
+    "Uchtita o'g'in",
+    "To'rtta o'g'in"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -59,9 +59,9 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "«Газета» nima?",
+   "savol": "Gazeta deganda nima tushuniladi?",
    "variantlar": [
-    "Bosma nashr (ro'znoma)",
+    "Qo'lyozmali nashr",
     "Eshik",
     "Shkaf",
     "Oyna"
@@ -96,7 +96,7 @@
    "variantlar": [
     "To'rtta ish",
     "Bitta ish",
-    "Uchta ish",
+    "Uchtita ish",
     "Ikkita ish"
    ],
    "togri": 2,
@@ -136,12 +136,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Masha avval qanday qilib katta bo'lmoqchi bo'ldi?",
+   "savol": "Masha dastlab kattalashib qolmishning sabablaridan biri nima edi?",
    "variantlar": [
-    "Onasining tuflisini kiyib",
-    "Polni supurib",
-    "Idish yuvib",
-    "Gul sug'orib"
+    "U tuflida yurish orqali kattalashib qolmadi",
+    "U shkafda yotib qolmadi",
+    "U polni supirib ko'rmadi",
+    "U gazeta o'qiyolmadi"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -158,14 +158,14 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "«Помогаю» so'zi o'zbekchada nima?",
+   "savol": "Uy ishlarini qaytarni suratda kim bajaradi?",
    "variantlar": [
-    "Yordam beraman",
-    "O'ynayman",
-    "Uxlayman",
-    "O'qiyman"
+    "Faqat o'qituvchi",
+    "Faqat yor",
+    "Faqat oqa",
+    "Oqa-yor hamjamiyat"
    ],
-   "togri": 0,
+   "togri": 3,
    "qiyinlik": "o'rtacha"
   },
   {
@@ -217,7 +217,7 @@
    "variantlar": [
     "U shkafga yotib qoldi",
     "U gazeta o'qiyolmadi",
-    "U yosh bo'yicha kattalashtи",
+    "U yosh bo'yicha kattalashti",
     "U uy ishlarini bajarish orqali masuliyatni ko'rsatdi"
    ],
    "togri": 3,
@@ -239,7 +239,7 @@
    "variantlar": [
     "Stixoya 3 o'g'in haqida, hikoya 1 qiz haqida",
     "Stixoya qo'shiq, hikoya ertaki",
-    "Stixotvoreniye kuz haqida, hikoya qish haqida",
+    "Stixoya Barto, hikoya Permyak tomonidan",
     "Stixoya haqida mashinalar, hikoya haqida bola"
    ],
    "togri": 0,
@@ -262,7 +262,7 @@
     "Shkafda yotgan",
     "Yosh bo'yicha katta",
     "Uy ishlarini masuliyatli bajaruvchi",
-    "Ko'p o'ynaydigan"
+    "Lemona o'yna o'tgan"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -282,7 +282,7 @@
    "savol": "Ushbu dars o'quv vositalari bolalarni qanday o'rgatamoqchi?",
    "variantlar": [
     "Uy ishlarini bajarish va masuliyatli bo'lish",
-    "Faqat rasm chizish",
+    "Faqat kasallik aytib berish",
     "Faqat stixoya o'qish",
     "Faqat uy predmetlarini bilish"
    ],
@@ -292,7 +292,7 @@
   {
    "savol": "Mama va papaning Masha haqidagi qarorlashgan xulosasi nima?",
    "variantlar": [
-    "Masha kasal bo'ldi",
+    "Masha o'qiyman holda",
     "Masha katta bo'lib qoldi",
     "Masha kichik qoldi",
     "Masha gazeta o'qiydi"
@@ -325,10 +325,10 @@
   {
    "savol": "Stixoya va hikoya orqali qanday umumiy tushuncha mavjud?",
    "variantlar": [
-    "Uy ishlari behuda",
-    "Uy ishlari faqat kattalarga tegishli",
-    "Uy ishlari hammaga muhim va mas'uliyatga o'rgatadi",
-    "Uy ishlari faqat kichik bolalarga tegishli"
+    "Uy ishlarining behuda",
+    "Uy ishlarining faqat katta odamlarga shumatli",
+    "Uy ishlarining barchaga muhim va masuliyat tayyorlovchi",
+    "Uy ishlarining faqat kichik bolalarga shumatli"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"

@@ -73,7 +73,7 @@
    {
     "savol": "Davron va Feruzaning sinf rahbari kimdir?",
     "variantlar": [
-     "Malika Sobirovnа",
+     "Malika Sobirovna",
      "Nasiba Karimovna",
      "Islam Abdullayevich",
      "Rustam Yakubovich"
@@ -95,7 +95,7 @@
    {
     "savol": "Shkolning direktyori kimdir?",
     "variantlar": [
-     "Malika Sobirovnа",
+     "Malika Sobirovna",
      "Islam Abdullayevich",
      "Rustam Yakubovich",
      "Nasiba Karimovna"
@@ -164,7 +164,7 @@
      "Islam Abdullayevich",
      "Rustam Yakubovich",
      "Nasiba Karimovna",
-     "Malika Sobirovnа"
+     "Malika Sobirovna"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -247,12 +247,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Matnda 'uchitel' - 'uchitelnica', 'shkolnik' - 'shkolnica' so'zlari bor. Ular qanday farq qiladi?",
+    "savol": "Matnda 'uchitel', 'uchitelnica', 'shkolnik', 'shkolnica' so'zlari ishlatilgan. Ulardan ergalarga nisbatan:?",
     "variantlar": [
      "Farqi yo'q",
-     "Faqat o'quvchilarga ishlatiladi",
-     "Faqat erkaklarga ishlatiladi",
-     "Ayollarga nisbatan '-nica' qo'shimchasi qo'shiladi"
+     "Faqat o'quvchilarga qo'llanilinadi",
+     "Faqat erkaksiz turli",
+     "Ayollarga '-nica' qo'shimchasi qo'shiladi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -272,7 +272,7 @@
     "savol": "Klassnyy rukovoditelni o'quvchilar 'Nasiba Karimovna' deb chaqiradi. 'Karimovna' nima anglatadi?",
     "variantlar": [
      "Yashaydigan joyi",
-     "Otasining ismidan yasalgan (otchestvo)",
+     "Otasining ismi asosida tuzilgan ota-onalik atashtirma",
      "Martabasi",
      "Oilaning nomi"
     ],
@@ -326,10 +326,10 @@
    {
     "savol": "Davron va Feruza ertalab direktyor va klassnyy rukovoditelga formali salomlashdi. Bu qaysi ijtimoiy normani ko'rsatadi?",
     "variantlar": [
-     "Bolalar sho'x",
+     "Bolalar shokarang",
      "Bolalar ta'zim bilan kattalarga hurmat bilan munosabat qiladi",
-     "Bolalar qo'rqoq",
-     "Bolalar befarq"
+     "Bolalar xavotirchi",
+     "Bolalar mutaasir"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -408,7 +408,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Sinifda kitobli shkaф bor?",
+    "savol": "Sinifda kitobli shkaf bor?",
     "variantlar": [
      "Matinda aytilmagan",
      "Ha, bor",
@@ -424,7 +424,7 @@
      "Doska",
      "Stol",
      "Uchenik",
-     "Shkaф"
+     "Shkaf"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -544,7 +544,7 @@
     "variantlar": [
      "Portret, kartina, zanaves'ka",
      "Parta, stul, stol",
-     "Doska, shkaф, stol",
+     "Doska, shkaf, stol",
      "Kitob, daftar, jurnali"
     ],
     "togri": 3,
@@ -567,7 +567,7 @@
      "Katta, qorong'i, yangi mebel",
      "Kichik, qorong'i, eski mebel",
      "Kichik, yorug', eski mebel",
-     "Katta, yorug', yangi partalar, doska, shkaф"
+     "Katta, yorug', yangi partalar, doska, shkaf"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -606,12 +606,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "\"Kitobli shkaф\" nima degani?",
+    "savol": "\"Kitobli shkaf\" nima degani?",
     "variantlar": [
-     "Shkaф emas, kitob",
-     "Shkaф kitobni saqlamaydi",
-     "Shkaф bilan kitob",
-     "Kitoblarni saqladigan shkaф"
+     "Shkaf emas, kitob",
+     "Shkaf kitobni saqlamaydi",
+     "Shkaf bilan kitob",
+     "Kitoblarni saqladigan shkaf"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -631,7 +631,7 @@
     "savol": "Devorda qaysi predmetlar osiladi?",
     "variantlar": [
      "Kitob, qalam, daftar",
-     "Stul, stol, shkaф",
+     "Stul, stol, shkaf",
      "Portret, kartina",
      "Jurnali, doska, parta"
     ],
@@ -644,7 +644,7 @@
      "Parta, stul, stol",
      "Kitob, daftar, jurnali",
      "Portret, kartina, zanaves'ka",
-     "Doska, shkaф, portret"
+     "Doska, shkaf, portret"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -653,7 +653,7 @@
     "savol": "Qaysi predmetlar turadi (stoyat)?",
     "variantlar": [
      "Portret, kartina",
-     "Parta, stul, shkaф, stol",
+     "Parta, stul, shkaf, stol",
      "Kitob, daftar",
      "Jurnali, doska"
     ],
@@ -692,7 +692,7 @@
    {
     "savol": "Anvarning rasm chizish uchun qanday vositalari bor?",
     "variantlar": [
-     "Karandash va lineyка",
+     "Karandash va lineyka",
      "Albom va tsirkul",
      "Rangdosh karandashlar",
      "Kraskalar va kistochka"
@@ -705,7 +705,7 @@
     "variantlar": [
      "Karandash va albom",
      "Kraskalar va kistochka",
-     "Lineyка va tochilka",
+     "Lineyka va tochilka",
      "Rangdosh karandashlar"
     ],
     "togri": 3,
@@ -736,7 +736,7 @@
    {
     "savol": "Bolalar rasm darsida nima qilyapti?",
     "variantlar": [
-     "Rasm chizyapti",
+     "Rasm chizmayapti",
      "O'qiyapti",
      "Yozayapti",
      "Oynayapti"
@@ -747,7 +747,7 @@
    {
     "savol": "Makhmudning qanday vositasi bor?",
     "variantlar": [
-     "Lineyка va tsirkul",
+     "Lineyka va tsirkul",
      "Rangdosh karandashlar",
      "Tochilka va albom",
      "Kistochka va kraskalar"
@@ -771,7 +771,7 @@
     "variantlar": [
      "Kistochka, kraskalar va albom",
      "Kistochka va albom",
-     "Kraskalar va lineyка",
+     "Kraskalar va lineyka",
      "Karandash va tochilka"
     ],
     "togri": 0,
@@ -813,7 +813,7 @@
    {
     "savol": "Karandashni keskinlashtirish uchun qanday vositaga ega bo'lish kerak?",
     "variantlar": [
-     "Lineyка",
+     "Lineyka",
      "Tochilka",
      "Kraskalar",
      "Kistochka"
@@ -866,7 +866,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Rasm chizishda qaysi narsa kerak emas?",
+    "savol": "Rasm chizmayotganda qanday narsalar zarur emas?",
     "variantlar": [
      "Shatranj",
      "Kraskalar",
@@ -891,7 +891,7 @@
     "savol": "Ani Azizadan nima so'raydi?",
     "variantlar": [
      "Kistochka",
-     "Lineyка",
+     "Lineyka",
      "Kraskalar",
      "Karandashlar"
     ],
@@ -910,25 +910,25 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "«Кисточка» so'zi o'zbekchada nima?",
+    "savol": "Dialogda kim eng ko'p turli rasm vositaliga ega?",
     "variantlar": [
-     "Mo'yqalam",
-     "Qalamtarosh",
-     "Chizg'ich",
-     "Bo'yoq"
+     "Makhmud va Rustam",
+     "Aziza va Shahnoza",
+     "Anvar",
+     "Feruza"
     ],
-    "togri": 0,
+    "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "«Точилка» so'zi o'zbekchada nima?",
+    "savol": "Rasm chizmayotganda, qaysi bolaning vositalari eng to'liq va to'plamli?",
     "variantlar": [
-     "Bo'yoq",
-     "Qalamtarosh",
-     "Albom",
-     "O'chirg'ich"
+     "Azizaning",
+     "Shahnnzaning",
+     "Anvarning",
+     "Feruzaning"
     ],
-    "togri": 1,
+    "togri": 0,
     "qiyinlik": "qiyin"
    },
    {
@@ -954,25 +954,25 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Agar Azizada faqat ko'k va sariq bo'yoq bo'lsa, u qaysi rangni hosil qila olmaydi?",
+    "savol": "Agar Aziza faqat ko'k va sariq kraskaga ega bo'lsa, u qaysi rangda rasm chizmaya olmaydi?",
     "variantlar": [
      "Ko'k",
      "Qizil",
      "Yashil",
      "Sariq"
     ],
-    "togri": 1,
+    "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "«Краски» so'zi o'zbekchada nima?",
+    "savol": "Rasm chizmayotganda, kim eng to'liq vositalarga ega boladi?",
     "variantlar": [
-     "Bo'yoqlar",
-     "Qalamlar",
-     "Daftarlar",
-     "Kitoblar"
+     "Anvar va Feruza",
+     "Makhmud va Rustam",
+     "Aziza va Shahnoza",
+     "Maftuna va Ani"
     ],
-    "togri": 0,
+    "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
@@ -1002,7 +1002,7 @@
     "variantlar": [
      "Feruza qizil kraskalarini",
      "Shahnoza yashil kraskalarini",
-     "Anvar lineyкasini",
+     "Anvar lineykasini",
      "Makhmud karandashlarini"
     ],
     "togri": 1,
@@ -1038,14 +1038,14 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "«Дневник» nima uchun kerak?",
+    "savol": "Dnevnik kim tomondan qo'llaniladi?",
     "variantlar": [
-     "Rasm chizish uchun",
-     "Uy vazifalari va baholarni yozib borish uchun",
-     "Kitob o'qish uchun",
-     "Ovqat solish uchun"
+     "O'qituvchilar baholash uchun",
+     "Ota-onalar",
+     "Maktab direktori",
+     "Roquvchilar"
     ],
-    "togri": 1,
+    "togri": 0,
     "qiyinlik": "oson"
    },
    {
@@ -1082,7 +1082,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Karandash qayda ishlatilaди?",
+    "savol": "Karandash qayda ishlatiladi?",
     "variantlar": [
      "Faqat rasm chizish",
      "Faqat jigarrang rangda",
@@ -1126,7 +1126,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Rasm chizish darsida o'quvchiga qaysi to'rt asosiy buyum kerak?",
+    "savol": "Rasm chizish darsida roquvchiga qaysi to'rt asosiy buyum kerak?",
     "variantlar": [
      "Album, karandash, floumaster, kistochka",
      "Faqat karandash",
@@ -1236,7 +1236,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "O'quvchi barcha darslarda qatnasha olishi uchun portfelga qaysi to'rt asosiy buyum kerak?",
+    "savol": "Roquvchi barcha darslarda qatnashy olishi uchun portfelga qaysi to'rt asosiy buyum kerak?",
     "variantlar": [
      "Lineyka, penal, karandash, album",
      "Portfel, dnevnik, album, penal",
@@ -1250,8 +1250,8 @@
     "savol": "Maktabning turli kabinetlarida neden turli buyumlar qo'yilgan?",
     "variantlar": [
      "Har bir darsning maqsadi va tabiati bo'yicha",
-     "Hech qanday sabab yo'q",
-     "Tasodifan",
+     "Hech qanday sab",
+     "Sodir ketshik",
      "Faqat dekorasiya uchun"
     ],
     "togri": 0,
@@ -1302,7 +1302,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "O'quvchi maktabga to'liq tayyor bo'lishi uchun qaysi buyumlar kerak?",
+    "savol": "Roquvchi maktabda to'liq ta'hzim bo'lish uchun qaysi buyumlar kerak?",
     "variantlar": [
      "Uchebnik, dnevnik, ruchka, karandash, tetrad, portfel",
      "Faqat ruchka",
@@ -1324,14 +1324,14 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "«Тетрадь» so'zi o'zbekchada nima?",
+    "savol": "Rasim va yozish darslarida minimal nechata turli buyum talab qilinadi?",
     "variantlar": [
-     "Kitob",
-     "Daftar",
-     "Ruchka",
-     "Sumka"
+     "2",
+     "5",
+     "4",
+     "3"
     ],
-    "togri": 1,
+    "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
@@ -1340,7 +1340,7 @@
      "Bolalar nomini",
      "Maktab binosi",
      "Maktab buyumlari va ulardan foydalanish",
-     "O'quvchilarning iste'dodi"
+     "Roquvchi istedollari"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -1391,7 +1391,7 @@
      "gazeta o'qiyapti",
      "televizia ko'rmoqda",
      "shaxmatge o'ynayapti",
-     "obed gotovit (tushlik tayyorlayapti)"
+     "obed gotovoqda"
     ],
     "togri": 3,
     "qiyinlik": "oson"
@@ -1413,7 +1413,7 @@
      "shaxmatge o'ynayapti",
      "gazeta o'qiyapti",
      "televizia ko'rmoqda",
-     "obed gotovit (tushlik tayyorlayapti)"
+     "obed gotovoqda"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -1430,7 +1430,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Babushka ertalab qachon turadi?",
+    "savol": "Babushka kuni qachon ko'tariladi?",
     "variantlar": [
      "papa va mamadan oldin",
      "barnadan keyin",
@@ -1474,7 +1474,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Dialogda Rustam Saidga mama haqida nima dedi?",
+    "savol": "Dialoqda Rustem dya Saidga mama haqida nima deydi?",
     "variantlar": [
      "mama obed tayyorlayapti",
      "mama televizia ko'rmoqda",
@@ -1500,8 +1500,8 @@
     "variantlar": [
      "Tanya katta",
      "Tanya kichkina",
-     "Tanya dangasa",
-     "Tanya kasal"
+     "Tanya kamchil",
+     "Tanya xomaki"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -1520,9 +1520,9 @@
    {
     "savol": "Kechqurun oila qayerda?",
     "variantlar": [
-     "maktabda",
-     "bog'chada",
-     "ko'chada",
+     "mektebda",
+     "bahchada",
+     "kuchada",
      "uyda"
     ],
     "togri": 3,
@@ -1542,7 +1542,7 @@
    {
     "savol": "Babushka har kuni qachon turibdi?",
     "variantlar": [
-     "shаmolli",
+     "shamolli",
      "kunduzi",
      "ertalab",
      "kechqurun"
@@ -1553,7 +1553,7 @@
    {
     "savol": "Papa ile brater nima qilyapti?",
     "variantlar": [
-     "obed gotovit (tushlik tayyorlayapti)",
+     "obed gotovoqda",
      "gazeta o'qiyapti",
      "shaxmaty o'ynayapti",
      "multfilm ko'rmoqda"
@@ -1562,14 +1562,14 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "«Бабушка» so'zi o'zbekchada nima?",
+    "savol": "Mama Tanya va babushka haqida nima deydi?",
     "variantlar": [
-     "Buvi",
-     "Ona",
-     "Opa",
-     "Qiz"
+     "ular qorayapti",
+     "ular umidali",
+     "ular kichkina",
+     "ular yomon"
     ],
-    "togri": 0,
+    "togri": 1,
     "qiyinlik": "o'rtacha"
    },
    {
@@ -1595,14 +1595,14 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "«Дедушка» so'zi o'zbekchada nima?",
+    "savol": "Mama Tanya va babushka haqida 'umidasiz' so'zi nima anglatadi?",
     "variantlar": [
-     "Ota",
-     "Bobo",
-     "Aka",
-     "O'g'il"
+     "ular zavotchi",
+     "ular g'amxo'r",
+     "ular salohiyatli",
+     "ular yomon"
     ],
-    "togri": 1,
+    "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
@@ -1628,7 +1628,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Tanya mama va babushka ile bir safarда nima qilmoqda?",
+    "savol": "Tanya mama va babushka ile bir safarda nima qilmoqda?",
     "variantlar": [
      "televizia ko'rmoqda",
      "skazka o'qishmoqda",
@@ -1650,18 +1650,18 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Dialogda Rustam Saidga papa haqida nima dedi?",
+    "savol": "Dialoqda Rustem qayngusi Said opa haqida qanday xabar berdi?",
     "variantlar": [
      "papa shaxmaty o'ynayapti",
      "papa gazeta o'qiyapti",
-     "papa obed gotovit",
+     "papa obedni tayyorlayapti",
      "papa televizia ko'rmoqda"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Matndagi oila a'zolari bir safarда nima qilyapti?",
+    "savol": "Matndagi oila a'zolari bir safarda nima qilyapti?",
     "variantlar": [
      "hech narsa",
      "bir xil ish",
@@ -1677,7 +1677,7 @@
      "televizia ko'radi",
      "shaxmaty o'ynaydi",
      "gazeta o'qiyadi",
-     "tinglaydi"
+     "dinlaydi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -1714,10 +1714,10 @@
    {
     "savol": "Stixoyada nechta o'g'in tartiblanadi?",
     "variantlar": [
-     "Ikkita o'g'il",
-     "Bitta o'g'il",
-     "Uchta o'g'il",
-     "To'rtta o'g'il"
+     "Ikkita o'g'in",
+     "Bitta o'g'in",
+     "Uchtita o'g'in",
+     "To'rtta o'g'in"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -1745,9 +1745,9 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "«Газета» nima?",
+    "savol": "Gazeta deganda nima tushuniladi?",
     "variantlar": [
-     "Bosma nashr (ro'znoma)",
+     "Qo'lyozmali nashr",
      "Eshik",
      "Shkaf",
      "Oyna"
@@ -1782,7 +1782,7 @@
     "variantlar": [
      "To'rtta ish",
      "Bitta ish",
-     "Uchta ish",
+     "Uchtita ish",
      "Ikkita ish"
     ],
     "togri": 2,
@@ -1822,12 +1822,12 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Masha avval qanday qilib katta bo'lmoqchi bo'ldi?",
+    "savol": "Masha dastlab kattalashib qolmishning sabablaridan biri nima edi?",
     "variantlar": [
-     "Onasining tuflisini kiyib",
-     "Polni supurib",
-     "Idish yuvib",
-     "Gul sug'orib"
+     "U tuflida yurish orqali kattalashib qolmadi",
+     "U shkafda yotib qolmadi",
+     "U polni supirib ko'rmadi",
+     "U gazeta o'qiyolmadi"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -1844,14 +1844,14 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "«Помогаю» so'zi o'zbekchada nima?",
+    "savol": "Uy ishlarini qaytarni suratda kim bajaradi?",
     "variantlar": [
-     "Yordam beraman",
-     "O'ynayman",
-     "Uxlayman",
-     "O'qiyman"
+     "Faqat o'qituvchi",
+     "Faqat yor",
+     "Faqat oqa",
+     "Oqa-yor hamjamiyat"
     ],
-    "togri": 0,
+    "togri": 3,
     "qiyinlik": "o'rtacha"
    },
    {
@@ -1903,7 +1903,7 @@
     "variantlar": [
      "U shkafga yotib qoldi",
      "U gazeta o'qiyolmadi",
-     "U yosh bo'yicha kattalashtи",
+     "U yosh bo'yicha kattalashti",
      "U uy ishlarini bajarish orqali masuliyatni ko'rsatdi"
     ],
     "togri": 3,
@@ -1925,7 +1925,7 @@
     "variantlar": [
      "Stixoya 3 o'g'in haqida, hikoya 1 qiz haqida",
      "Stixoya qo'shiq, hikoya ertaki",
-     "Stixotvoreniye kuz haqida, hikoya qish haqida",
+     "Stixoya Barto, hikoya Permyak tomonidan",
      "Stixoya haqida mashinalar, hikoya haqida bola"
     ],
     "togri": 0,
@@ -1948,7 +1948,7 @@
      "Shkafda yotgan",
      "Yosh bo'yicha katta",
      "Uy ishlarini masuliyatli bajaruvchi",
-     "Ko'p o'ynaydigan"
+     "Lemona o'yna o'tgan"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -1968,7 +1968,7 @@
     "savol": "Ushbu dars o'quv vositalari bolalarni qanday o'rgatamoqchi?",
     "variantlar": [
      "Uy ishlarini bajarish va masuliyatli bo'lish",
-     "Faqat rasm chizish",
+     "Faqat kasallik aytib berish",
      "Faqat stixoya o'qish",
      "Faqat uy predmetlarini bilish"
     ],
@@ -1978,7 +1978,7 @@
    {
     "savol": "Mama va papaning Masha haqidagi qarorlashgan xulosasi nima?",
     "variantlar": [
-     "Masha kasal bo'ldi",
+     "Masha o'qiyman holda",
      "Masha katta bo'lib qoldi",
      "Masha kichik qoldi",
      "Masha gazeta o'qiydi"
@@ -2011,10 +2011,10 @@
    {
     "savol": "Stixoya va hikoya orqali qanday umumiy tushuncha mavjud?",
     "variantlar": [
-     "Uy ishlari behuda",
-     "Uy ishlari faqat kattalarga tegishli",
-     "Uy ishlari hammaga muhim va mas'uliyatga o'rgatadi",
-     "Uy ishlari faqat kichik bolalarga tegishli"
+     "Uy ishlarining behuda",
+     "Uy ishlarining faqat katta odamlarga shumatli",
+     "Uy ishlarining barchaga muhim va masuliyat tayyorlovchi",
+     "Uy ishlarining faqat kichik bolalarga shumatli"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -2183,7 +2183,7 @@
    {
     "savol": "Qo'shni ogarotda nima qiladi?",
     "variantlar": [
-     "Uxlaydi",
+     "Sabzavotlarni o'stiradi",
      "Mevalarni yig'adi",
      "Tsvetlarni ekadi",
      "Ogarotni suvga chiqaradi"
@@ -2307,7 +2307,7 @@
      "Qo'shnining suvga chiqarishidan va tamir-tuzatishidan",
      "Bozordan",
      "Tabiatdan",
-     "Do'kondan"
+     "Somsa qo'nuni bo'yicha"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -2324,12 +2324,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Qo'shnining ogorodi uchun qaysi fasllar muhim?",
+    "savol": "Qo'shnining ogaroti uchun eng muhim mevsim qaysi?",
     "variantlar": [
      "Faqat yoz",
      "Faqat qish",
      "Faqat kuz",
-     "Bahor, yoz va kuz - barcha iliq fasllar"
+     "Yaz, yoz va kuz - barcha fasllar"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -2338,8 +2338,8 @@
     "savol": "Agar Erkin yablokni yig'masa, nima bo'ladi?",
     "variantlar": [
      "Hech narsa o'lmaydi",
-     "Daraxt qurib qoladi",
-     "Olmalar yerga tushib, chirib ketadi",
+     "Derevo qalvalib ketadi",
+     "Yabloklar yerga tohta oladi va bemor bo'ladi",
      "Mevalar ozroq bo'ladi"
     ],
     "togri": 2,
@@ -2496,12 +2496,12 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "«Жёлуди» qaysi daraxtning mevasi?",
+    "savol": "Sosnaning mevalari qanday?",
     "variantlar": [
-     "Dub (eman)",
-     "Sosna (qarag'ay)",
-     "Klyon (zarang)",
-     "Olma"
+     "Katta",
+     "Kichik",
+     "Eng kichik",
+     "O'rtacha"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -2518,7 +2518,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Barglar qaysi faslda to'kiladi?",
+    "savol": "Daryo qaysi faslda tushadi?",
     "variantlar": [
      "Qish",
      "Bahor",
@@ -2562,14 +2562,14 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "«Шишка» qaysi daraxtda o'sadi?",
+    "savol": "Parkdagi qaysi daraxtta eng katta mevalari o'sadi?",
     "variantlar": [
-     "Dub",
      "Sosna",
-     "Klyon",
-     "Olcha"
+     "Dub",
+     "Klon",
+     "Kashtan"
     ],
-    "togri": 1,
+    "togri": 0,
     "qiyinlik": "o'rtacha"
    },
    {
@@ -2650,12 +2650,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Parkdagi daraxtlarning barglari va mevalariga qarab kuzning qaysi belgisini aniqlash mumkin?",
+    "savol": "Parkdagi daraxta mevalari va barglarni ko'rgan, Kuzning qaysi xususiyatini aniqlab bo'ladi?",
     "variantlar": [
-     "Kuzda daraxtlar gullaydi",
-     "Kuzda barglar rangini o'zgartiradi",
-     "Kuzda daraxtlar kurtak chiqaradi",
-     "Kuzda juda issiq bo'ladi"
+     "Kuzda daraxta berkasi",
+     "Yoz faslida daraxtlar rang o'zgaradi",
+     "Yuz faslida mevalari pishadi",
+     "Kuza issiqlik kam"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -2686,9 +2686,9 @@
     "savol": "Parkda ko'rilgan daraxtlarning biri boshqasiga nisbatan farqi nima?",
     "variantlar": [
      "Barcha daraxtlar bir xil",
-     "Hammasining mevasi bir xil",
-     "Barglari va mevalari turlicha",
-     "Hammasi faqat yashil"
+     "Barglar rangi turlicha",
+     "Barcha to'g'ri",
+     "Mevalari turlicha"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -2923,10 +2923,10 @@
    {
     "savol": "Nega stixda biblioteka \"Kitob uyi\" deyiladi?",
     "variantlar": [
-     "U bozor bo'lgani uchun",
-     "U shahar markazida bo'lgani uchun",
-     "U harbiy muassasa bo'lgani uchun",
-     "Unda ko'p kitoblar yashaydi, u hamma uchun ochiq"
+     "U amalda turmush",
+     "U devraning o'rtasida",
+     "U askariy muassasa",
+     "Kitoblar bolalarni ilhomlantiradi va hamma uchun joy"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -2980,7 +2980,7 @@
     "variantlar": [
      "Faqat tez hikoyalar",
      "Faqat matematika masalalari",
-     "Hammasi bolalar uchun ertaklar",
+     "Barcha Rus xalq skazkalari (yoki skazkalari)",
      "Faqat ingliz kitoblari"
     ],
     "togri": 2,
@@ -3087,7 +3087,7 @@
      "Qo'l bilan",
      "Pichoq bilan",
      "Vilka bilan",
-     "Qoshiq bilan"
+     "Deshkaga beribilan"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -3095,10 +3095,10 @@
    {
     "savol": "Ovqat vaqtida gapirish mumkinmi?",
     "variantlar": [
-     "Faqat baqirib gapirish mumkin",
+     "Faqat qo'shimcha matn",
      "Ha, gapirsa bo'ladi",
      "Yo'q, gapirilmaydi",
-     "Faqat ovqat tugagach"
+     "Ha, lekin jim-jam"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -3115,7 +3115,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "«Суп» (sho'rva) oshxona menyusida qanday taom?",
+    "savol": "Osh stolovat menysida qanday taom?",
     "variantlar": [
      "Birinchi taom",
      "Ikkinchi taom",
@@ -3137,21 +3137,21 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "«Вилка» so'zi o'zbekchada nima?",
+    "savol": "Doktor deshkaning onasi uchun nima aytdi?",
     "variantlar": [
-     "Sanchqi",
-     "Pichoq",
-     "Qoshiq",
-     "Likopcha"
+     "Uyda yotishi kerak",
+     "Dori ichadilatish kerak",
+     "O'zi biling qilishi kerak",
+     "Ovqat tayyorlash kerak"
     ],
-    "togri": 0,
+    "togri": 2,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Buterbrod tayyorlashda birinchi nima qilinadi?",
+    "savol": "Binterbrodi tayyorlashda birinchi nima qilish kerak?",
     "variantlar": [
      "Tarelkani olib chiqish",
-     "Bir bo'lak nonni olish",
+     "Du kund nonni olish",
      "Yog'ni tayyorlash",
      "Choyni ichish"
     ],
@@ -3214,14 +3214,14 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "«Стакан» so'zi o'zbekchada nima?",
+    "savol": "Shahralik qoidalar qayda yoziladi?",
     "variantlar": [
-     "Stakan",
-     "Qoshiq",
-     "Non",
-     "Tuz"
+     "Kitobda",
+     "Bujinam belgilanmaydi",
+     "Dushambaning yig'inda",
+     "Daftarda"
     ],
-    "togri": 0,
+    "togri": 2,
     "qiyinlik": "o'rtacha"
    },
    {
@@ -3238,7 +3238,7 @@
    {
     "savol": "Salat stolovat menysida nima turi?",
     "variantlar": [
-     "Sovuq gazak (закуска)",
+     "Olik taom",
      "Birinchi taom",
      "Ikkinchi taom",
      "Ichimlik"
@@ -3247,45 +3247,45 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "«Нож» so'zi o'zbekchada nima?",
+    "savol": "Deshka o'zi biling qilishi uchun nima o'rgandi?",
     "variantlar": [
-     "Qoshiq",
-     "Pichoq",
-     "Sanchqi",
-     "Choynak"
+     "O'zining ishlashi",
+     "Ovqat tayyorlash",
+     "Doktor tasiqi bilanoq ta'lim",
+     "Cho'milib olish"
     ],
-    "togri": 1,
+    "togri": 2,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "«Хлеб» so'zi o'zbekchada nima?",
+    "savol": "Nega Volodya Vitkyang faqat yordam berdi, savol bermadi?",
     "variantlar": [
-     "Non",
-     "Suv",
-     "Go'sht",
-     "Choy"
+     "Dunga ko'ngil berdi",
+     "Undan qorqi",
+     "Savol bilmadi",
+     "Do'stini ko'radi"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "«Ложка» so'zi o'zbekchada nima?",
+    "savol": "Doktor deshkaning o'ng orasida qanday bog'lanish ko'rsatdi?",
     "variantlar": [
-     "Likopcha",
-     "Choynak",
-     "Qoshiq",
-     "Sanchqi"
+     "Deshka yomon",
+     "Deshka o'quv qiladi",
+     "Ona darscha beradi",
+     "O'zi biling qilishi kerak bo'lsa, ona tuzaladi"
     ],
-    "togri": 2,
+    "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "«Масло» so'zi o'zbekchada nima?",
+    "savol": "Ushbu hikoyalarning asosiy darsiga qaysi savolning javob?",
     "variantlar": [
-     "Asal",
-     "Sariyog'",
-     "Pishloq",
-     "Tuz"
+     "Ovqat ta'mli",
+     "O'ziga sharchasiga bilib olish muhim",
+     "Non qarang kerak",
+     "Ovqatni to'g'ri tayyorlash"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -3313,18 +3313,18 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "«Тарелка» so'zi o'zbekchada nima?",
+    "savol": "Deshka o'ziga \"Men o'zim!\" deya boshladi, bunda nima natija bo'ldi?",
     "variantlar": [
-     "Stakan",
-     "Qoshiq",
-     "Pichoq",
-     "Likopcha"
+     "Deshka katta bo'ldi",
+     "Ona hafa bo'ldi",
+     "Ona bejasi bo'ldi, lekin tuzaldi",
+     "Deshka inson bo'ldi"
     ],
-    "togri": 3,
+    "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Ovqat vaqtida to'g'ri xulq nima uchun muhim?",
+    "savol": "Ovqat vaqtida to'g'ri xattitur nima uchun muhim?",
     "variantlar": [
      "Hech nima emas",
      "Salomatlik va tarbiya uchun",
@@ -3360,7 +3360,7 @@
     "savol": "Mektab stolovining asosiy qoidasi nima?",
     "variantlar": [
      "Tezda ovqalanish",
-     "Odob bilan, to'g'ri ovqatlanish",
+     "To'g'ri xattitur va odam qilish",
      "Ovqatni ko'p iste'mol qilish",
      "Shum-shun chiqarish"
     ],
@@ -3435,7 +3435,7 @@
      "Sportchi",
      "O'qituvchi",
      "Shoir",
-     "Rassom"
+     "Yozuvchi"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -3739,7 +3739,7 @@
      "Uchitelnitsa",
      "Doktor",
      "Shofyor",
-     "Medsestra"
+     "Medsestraoz"
     ],
     "togri": 3,
     "qiyinlik": "oson"
@@ -3749,7 +3749,7 @@
     "variantlar": [
      "Doktor",
      "Biblioteker",
-     "Tikuvchi",
+     "Aterlyenchi",
      "Shofyor"
     ],
     "togri": 3,
@@ -3987,14 +3987,14 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "«Пенсионер» so'zi o'zbekchada nima?",
+    "savol": "Stihda dedushka bilan nima qilinib turgan?",
     "variantlar": [
-     "Nafaqaxo'r",
-     "Talaba",
-     "Haydovchi",
-     "Shifokor"
+     "O'yinlari",
+     "Harakat qilishlar",
+     "Togalik qilishlar",
+     "Bilmirlari"
     ],
-    "togri": 0,
+    "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
@@ -4049,7 +4049,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Ёelochka qayerda o'smadi?",
+    "savol": "Yoelochka qayerda o'smadi?",
     "variantlar": [
      "Bog'da",
      "O'rmonda",
@@ -4060,9 +4060,9 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Qishda quyosh qanchalik ko'rinadi?",
+    "savol": "Qish paytida qoqshuning barchasiga ko'ring?",
     "variantlar": [
-     "Odatdagidek",
+     "Norma",
      "Hech qachon",
      "Kam",
      "Juda ko'p"
@@ -4093,7 +4093,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Snezhinка so'zi nimani anglatadi?",
+    "savol": "Snezhinka so'zi nimani anglatadi?",
     "variantlar": [
      "Qor barikadi",
      "Katta qor uyumi",
@@ -4115,9 +4115,9 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Ёelochka qaysi faslarda yashil qoldi?",
+    "savol": "Yoelochka qaysi faslarda yashil qoldi?",
     "variantlar": [
-     "Faqat bahorda",
+     "Barcha faslda",
      "Qish va yozda",
      "Faqat yozda",
      "Faqat qishda"
@@ -4159,7 +4159,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Stixotvoreniyada ёzik snezhinkalani nima sifatida ko'rmoqchi?",
+    "savol": "Stixotvoreniyada yozik snezhinkalani nima sifatida ko'rmoqchi?",
     "variantlar": [
      "Tosh",
      "Sabza",
@@ -4261,7 +4261,7 @@
     "savol": "Malchik boshqa hayvonlardan qanday farq qiladi?",
     "variantlar": [
      "U ko'proq o'ylaydi",
-     "U qor parchalarining asl mohiyatini tushunadi",
+     "U snezhinkalaning haqiqiy tabiatini tushunamaz",
      "U qosh tilni biladi",
      "U yoshroq"
     ],
@@ -4291,11 +4291,11 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Ёelochka stixotvoreniyasiga ko'ra, ёelochka qish va yozda qanday bo'ladi?",
+    "savol": "Yoelochka stixotvoreniyasiga ko'ra, yoelochka qish va yozda qanday bo'ladi?",
     "variantlar": [
      "Qora va egilgan",
-     "Sariq va quruq",
-     "Barglari to'kilgan",
+     "Kerograb",
+     "Uyib ketgan",
      "To'g'ri va yashil"
     ],
     "togri": 3,
@@ -4346,12 +4346,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "«Белые снежинки» qo'shig'ining kayfiyati qanday?",
+    "savol": "Belye snezhinki qo'shiqining ohangiga ko'ra, bu asarning navkha?",
     "variantlar": [
-     "Qo'rqinchli",
-     "G'amgin",
-     "Quvnoq va chiroyli",
-     "Hech qanday his yo'q"
+     "Qo'rqinch va urashtiruv",
+     "G'amgin va qoyil",
+     "Xurnand va chiroyli",
+     "Xech hissiy"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -4430,10 +4430,10 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Tulki (лиса) qanday tasvirlangan?",
+    "savol": "Lisa qanday ifodalangan?",
     "variantlar": [
      "Katta hayvon",
-     "Ayyor hayvon",
+     "Hitra hayvon",
      "Yaxshi hayvon",
      "Kichkina hayvon"
     ],
@@ -4463,7 +4463,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Загадkada nimaning erishi tasvirlanadi?",
+    "savol": "Zagadkada nimaning erishi tasvirlanadi?",
     "variantlar": [
      "Bug'",
      "Sho'm",
@@ -4474,11 +4474,11 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Alisher va Shuhrat chanada qayerga bordilar?",
+    "savol": "Alisher va Shuhrat konkila qayerga bordilar?",
     "variantlar": [
      "Gorkaga",
      "Teatrga",
-     "Katokka",
+     "Kartjokka",
      "Stadioniga"
     ],
     "togri": 0,
@@ -4490,7 +4490,7 @@
      "Cirk",
      "Gorka",
      "Stadion",
-     "Katok"
+     "Kartjok"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -4507,9 +4507,9 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Tulki cholning chanasida nima qildi?",
+    "savol": "Lisa Starii saniiga nima qildi?",
     "variantlar": [
-     "Baliqlarni chanadan tashlab yubordi",
+     "Baliqlarni bossatdi",
      "Yomasa",
      "O'tirdi",
      "Yo'q qildi"
@@ -4522,8 +4522,8 @@
     "variantlar": [
      "Xursand",
      "Xira",
-     "O'likdek",
-     "Qo'rqib ketgan"
+     "O'lik",
+     "Xursand"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -4566,7 +4566,7 @@
     "variantlar": [
      "Baliq yedi",
      "Saniiga o'tirdi",
-     "Baliqlarni chanadan tashlab yubordi",
+     "Baliqlarni bossatdi",
      "Qo'l berdi"
     ],
     "togri": 2,
@@ -4595,12 +4595,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Tulkining qilig'i qanday saboq beradi?",
+    "savol": "Lisa harakati Staiiga qanday dars beradi?",
     "variantlar": [
-     "Qordan qo'rqish kerak",
-     "Ayyor hayvonlardan ehtiyot bo'lish kerak",
-     "Kattalardan foydalanish kerak",
-     "Chana haydashni o'rganish kerak"
+     "Qor xطirinli",
+     "Xira hayvonotlarga ehtiyot",
+     "Kattalarni foydalanish kerak",
+     "Sni o'rganish kerak"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -4610,8 +4610,8 @@
     "variantlar": [
      "Hamma bitta joyga bora olmadi",
      "Ularning o'z qiziqishlari",
-     "Majbur qilishdi",
-     "Maktab direktori taqsimladi"
+     "Muxtarij qilgiardi",
+     "Maktaba direktori taqsim qildi"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -4650,12 +4650,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Chimyon tog'lariga borish uchun nima kerak?",
+    "savol": "Qo'l Chimgan tog'lariga ketish qanday narsalarni talab qiladi?",
     "variantlar": [
      "Sanki",
      "Sariq kiyim",
      "Konkila",
-     "Lyzhalar (chang'i)"
+     "Lyzhalar va ko'ydirchan"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -4672,23 +4672,23 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "«Лыжи» so'zi o'zbekchada nima?",
+    "savol": "Matndagi har bir bolaning yurgan joyini xususiyatiga qarab, qanday taqsimlash mumkin?",
     "variantlar": [
-     "Chang'i",
-     "Chana",
-     "Konki",
-     "Qor"
+     "Faqat do'stlar",
+     "Baytupar yoki ichkariga",
+     "Qor bilan yoki qor bilan emas",
+     "Gavdalov yoki tekis"
     ],
-    "togri": 0,
+    "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
     "savol": "Lisa hikoyasi insonga qanday saboq beradi?",
     "variantlar": [
-     "Ayyor kishilarga aldanmaslik kerak",
-     "Qishki o'yin-kulgi yaxshi",
+     "Xira o'ylash xavfli",
+     "Qishdagi ko'ngilochun",
      "Hamma hayvon yaxshi",
-     "Baliq juda mazali"
+     "Baliq juda tasalli"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -5194,7 +5194,7 @@
    {
     "savol": "Subbota (shestoj den) haftaning qaysi kuni?",
     "variantlar": [
-     "Oltinchi",
+     "Yettinchi",
      "Sakkizinchi",
      "To'qqizinchi",
      "Beshinchi"
@@ -5263,7 +5263,7 @@
      "Sakkizinchi",
      "To'qqizinchi",
      "Beshinchi",
-     "Oltinchi"
+     "Yettinchi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -5346,14 +5346,14 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Barmoqlar sanamasida («Этот пальчик...») to'rtinchi barmoq kim?",
+    "savol": "Qol barmaklari rikolamida to'rtinchi barmaq kimni belgilaydi?",
     "variantlar": [
      "Bobo",
      "Ona",
      "Buvi",
-     "O'zim"
+     "O'zi"
     ],
-    "togri": 1,
+    "togri": 0,
     "qiyinlik": "qiyin"
    },
    {
@@ -5485,7 +5485,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "\"Yo'l-yo'l, qora va oq\" - bu qaysi hayvon tasviri?",
+    "savol": "\"Juda bosib, qora va oq\" - bu qaysi hayvon tasviri?",
     "variantlar": [
      "Levning",
      "Krokodilning",
@@ -5507,7 +5507,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Qaysi hayvonning katta quloqlari bor?",
+    "savol": "Qaysi hayvonning big ushlar bor?",
     "variantlar": [
      "Sloning",
      "Zebraning",
@@ -5553,9 +5553,9 @@
    {
     "savol": "Jiraf qaysi xususiyatiga ega?",
     "variantlar": [
-     "Katta quloqlar",
+     "Big ushlar",
      "Qora rang",
-     "Katta tishlar",
+     "Big tishlar",
      "Katta bo'yin"
     ],
     "togri": 3,
@@ -5584,12 +5584,12 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Matnga ko'ra zebra nima yeydi?",
+    "savol": "Matn asosida zebra qanday yashaydi?",
     "variantlar": [
-     "O't va shoxchalar",
-     "Tosh",
-     "Baliq",
-     "Go'sht"
+     "Tra va vetki yeyddi",
+     "Tog'da",
+     "Suvda",
+     "Daraxtda"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -5685,7 +5685,7 @@
    {
     "savol": "Sobachka levga qanday bo'lgan?",
     "variantlar": [
-     "Mehribon va sodiq",
+     "Salom beruvchi va tiniq",
      "Qo'rquv bilan",
      "Shiddatli",
      "Tashvish bilan"
@@ -5715,17 +5715,17 @@
     "savol": "Teremok skazki boshida teremokda kim yashaydi?",
     "variantlar": [
      "Hech kim",
-     "Qurbaqa",
-     "Sichqon",
+     "Qo'ng'iz-kvakushka",
+     "Moshqa-norusha",
      "Ayiq"
     ],
     "togri": 0,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Sichqon-norushka teremokka nechanchi bo'lib keldi?",
+    "savol": "Moshqa-norusha Teremokka necha bo'lib kirdi?",
     "variantlar": [
-     "To'rtinchi",
+     "Turtinchi",
      "Birinchi",
      "Uchinchi",
      "Ikkinchi"
@@ -5734,12 +5734,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Lyagushka-kvakushka qanday hayvon?",
+    "savol": "Qo'ng'iz-kvakushka nima hayvoni?",
     "variantlar": [
-     "Quyon",
+     "Chaqaloq",
      "Bo'ri",
-     "Qurbaqa",
-     "Sichqon"
+     "Qo'ng'iz",
+     "Moshqa"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -5822,12 +5822,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Teremokka kelgan hayvonlar ketma-ketligini to'g'ri ko'rsating.",
+    "savol": "Teremokga hayvanlar ketma-ketligini to'g'ri aytib bering.",
     "variantlar": [
-     "Sichqon, qurbaqa, ayiq, quyon, tulki, bo'ri",
-     "Sichqon, ayiq, qurbaqa, quyon, tulki, bo'ri",
-     "Sichqon, qurbaqa, quyon, tulki, bo'ri, ayiq",
-     "Qurbaqa, sichqon, quyon, tulki, bo'ri, ayiq"
+     "Moshqa, qo'ng'iz, ayiq, chaqaloq, lasyacha, bo'ri",
+     "Moshqa, ayiq, qo'ng'iz, chaqaloq, lasyacha, bo'ri",
+     "Moshqa, qo'ng'iz, chaqaloq, lasyacha, bo'ri, ayiq",
+     "Qo'ng'iz, moshqa, chaqaloq, lasyacha, bo'ri, ayiq"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -5858,9 +5858,9 @@
     "savol": "Tri medvedya skazki qizcha stulchikda nima qildi?",
     "variantlar": [
      "Toza qildi",
-     "O'tirib, sindirib qo'ydi",
+     "Qachaloq qildi va sindi",
      "Ranga bo'yadi",
-     "Yostiqqa aylantirdi"
+     "Yosti, keyin chiqib ketdi"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
@@ -5877,11 +5877,11 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "«Три медведя» ertagida ayiqlar nima uchun uydan chiqib ketishdi?",
+    "savol": "Tri medvedya skazki medvedjalar uy qo'yang nima uchun chiqib ketishdi?",
     "variantlar": [
      "Tamom qilish uchun",
      "Esingni tortish uchun",
-     "O'rmonda sayr qilish uchun",
+     "O'rmonida gezdirmoq uchun",
      "Do'st topish uchun"
     ],
     "togri": 2,
@@ -5910,10 +5910,10 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "«Три медведя» ertagida stol ustida nima bor edi?",
+    "savol": "Tri medvedya skazki crewboat ustida nima bor edi?",
     "variantlar": [
      "To'qalacha",
-     "Ovqat (похлёбка) va qoshiqlar",
+     "Mosh va lozhka",
      "Piyola va o'quv",
      "Faqat piyola"
     ],
@@ -6022,12 +6022,12 @@
    {
     "savol": "Teremok skazka: 'Ele-ele' so'zining ma'nosi qanday?",
     "variantlar": [
-     "Tezda",
-     "Zo'rg'a, arang",
-     "Baland ovozda",
-     "Quvnoq"
+     "Dastlabki harakat",
+     "Ohista-ohista",
+     "Tezlik bilan",
+     "Zorla-zorlash bilan qo'rqib"
     ],
-    "togri": 1,
+    "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
@@ -6128,8 +6128,8 @@
    {
     "savol": "'Dežurny' so'zi nimani anglatadi?",
     "variantlar": [
-     "paxta",
-     "sotuvchi",
+     "pakhta",
+     "yassovchi",
      "o'qituvchi",
      "navbatchi"
     ],
@@ -6283,7 +6283,7 @@
     "savol": "'Kto nakazal jego' hikoyasida o'g'il bola kim orqali cezalanadi?",
     "variantlar": [
      "o'qituvchi",
-     "o'zi o'zini jazoladi",
+     "o'zi tushunib yig'lab",
      "ota-ona",
      "do'st"
     ],
@@ -6391,7 +6391,7 @@
      "Shapka haqida",
      "Kitoblar haqida",
      "Taomlari haqida",
-     "Stol, tetrad, paltо haqida"
+     "Stol, tetrad, palto haqida"
     ],
     "togri": 3,
     "qiyinlik": "oson"
@@ -6421,9 +6421,9 @@
    {
     "savol": "Pronoun 'uning' (erkak) kimni ko'rsatadi?",
     "variantlar": [
-     "Menikini",
+     "Meningolik",
      "Erkakni",
-     "Jamоani",
+     "Jamoani",
      "Ayolni"
     ],
     "togri": 1,
@@ -6540,7 +6540,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Pronoun 'seningа' va 'seninglar' o'rtasidagi farq qaysi?",
+    "savol": "Pronoun 'seninga' va 'seninglar' o'rtasidagi farq qaysi?",
     "variantlar": [
      "Vaqt farqi",
      "Jins farqi",
@@ -6650,12 +6650,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "She'rda «Мир — мой» deyilgan. «мой» qaysi shakl?",
+    "savol": "She'rda yozuvchi 'Dunyo – moy...' desa, bu qaysi pronoun shakli?",
     "variantlar": [
-     "Mening (мой, erkak rodi)",
-     "Mening (моя, ayol rodi)",
-     "Mening (моё, o'rta rod)",
-     "Mening (мои, ko'plik)"
+     "Meninglar",
+     "Mening (ayol)",
+     "Meninga",
+     "Mening (sifat)"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -6672,7 +6672,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Pronoun sistemasida 'mening' va 'seningа' o'rtasida qaysi asosiy grammatik farq bor?",
+    "savol": "Pronoun sistemasida 'mening' va 'seninga' o'rtasida qaysi asosiy grammatik farq bor?",
     "variantlar": [
      "Birinchi va ikkinchi shaxs",
      "Ayol va erkak jins",
@@ -6705,14 +6705,14 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "«Мой, моя, моё, мои» qaysi so'z turkumiga kiradi?",
+    "savol": "Mashq 1dagi stixning 'Mir – moy...' qismida yozuvchi qaysi falsafiy o'yni ifodalayapti?",
     "variantlar": [
-     "Olmosh (egalik olmoshi)",
-     "Fe'l",
-     "Son",
-     "Ravish"
+     "Dunyo bilan birlik",
+     "Tasavvur kuchi",
+     "Mulkiyet hissi",
+     "Yolg'on fikrlash"
     ],
-    "togri": 0,
+    "togri": 1,
     "qiyinlik": "qiyin"
    }
   ]
@@ -6758,7 +6758,7 @@
    {
     "savol": "Stadionlarda kimlar futbol o'ynaymiz?",
     "variantlar": [
-     "Qushlar",
+     "Bolalar",
      "O'qituvchilar",
      "Ayollar",
      "Sportchilar"
@@ -6791,9 +6791,9 @@
    {
     "savol": "Navro'z qanday bayram?",
     "variantlar": [
-     "Qish bayrami",
+     "Qarg'a uchun bayram",
      "Yalpi bayram",
-     "Yangi yil (1-yanvar) bayrami",
+     "Sovchi bayramı",
      "Bahor va mehnat bayramı"
     ],
     "togri": 3,
@@ -6833,9 +6833,9 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Maktab o'quvchilari ekskursiyaga qayerga boradi?",
+    "savol": "Shkolniklar qayerga boramiz?",
     "variantlar": [
-     "Bozorga",
+     "Maktabga",
      "Teatrga",
      "Stadioniga",
      "Ulugbek muzeyiga"
@@ -6912,21 +6912,21 @@
    {
     "savol": "Navro'z bayramida oila nima qiladi?",
     "variantlar": [
-     "Uxladi",
+     "Kelmadi",
      "Futbol o'ynadi",
      "Daraxtlar va gullalar ekiladi",
-     "Mehmonga ketdi"
+     "Ishtirof qiladi"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Navro'z bayramida artistlar nima qiladi?",
+    "savol": "Navro'z bayramida artistlar nima qilamiz?",
     "variantlar": [
-     "Raqsga tushadi, kuylaydi",
-     "Futbol o'ynaydi",
-     "Gul teradi",
-     "Uyda o'tiradi"
+     "Raqs va kuy",
+     "Futbol o'ynaymiz",
+     "Gullalar teramiz",
+     "Uyda oturadi"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -7227,9 +7227,9 @@
    {
     "savol": "Matnga ko'ra, Rustam qishda nima qiladi?",
     "variantlar": [
-     "Qor o'ynaydi",
+     "Qo'sh o'ynoq o'ynaydi",
      "Qushlarni oziqlantirydi",
-     "Futbol o'ynaydi",
+     "Futbol o'ynaadi",
      "Daryoda cho'miladi"
     ],
     "togri": 1,
@@ -7397,11 +7397,11 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Neznayka rasm chizishni biladimi?",
+    "savol": "Neznayka risimchilashni umiy?",
     "variantlar": [
-     "Ba'zan biladi",
-     "Yo'q, bilmaydi",
-     "Ha, biladi",
+     "Bazan umiy",
+     "Yo'q, umiy emas",
+     "Ha, umiy",
      "Bilmayman"
     ],
     "togri": 1,
@@ -7419,7 +7419,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Znayка nima qiladi?",
+    "savol": "Znayka nima qiladi?",
     "variantlar": [
      "Kartina chizadi",
      "Trubada o'ynaydi",
@@ -7496,12 +7496,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Ish-harakatning inkorini ko'rsatuvchi so'z qaysi?",
+    "savol": "Ish-harakatning inkorini ko'rsatuvchi soz qaysi?",
     "variantlar": [
-     "не",
-     "да",
-     "и",
-     "а"
+     "Ne qiladi",
+     "Qiladi",
+     "Qildi",
+     "Qiladigan"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -7619,7 +7619,7 @@
    {
     "savol": "Nega Rustam Azizaga o'z xatosi haqida aytmadi?",
     "variantlar": [
-     "O'zini aybdor his qildi, chunki o'zi ko'chirgan edi",
+     "O'z noodavlatining aybdori sezdi",
      "Vaqti olmadi",
      "Aziza to'g'ri qildi deb o'yladi",
      "Unuta qoldi"
@@ -7628,10 +7628,10 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Ushbu hikoyada Rustamning xulqi qanday baholanadi?",
+    "savol": "Ushbu hikoyada Rustamning xulqi qanday ko'rinib turibdi?",
     "variantlar": [
-     "Noto'g'ri: ko'chirib yozdi va buni yashirdi",
-     "Juda mehnatkash",
+     "Besharmand va yomon",
+     "Billur",
      "Halol va yaxshi",
      "Mashhur"
     ],
@@ -7642,7 +7642,7 @@
     "savol": "Nima sababli Rustam Azizaning xatosini ayta olmadi?",
     "variantlar": [
      "Aziza to'g'ri deb o'yladi",
-     "Uyaldi, chunki o'zi Azizadan ko'chirgan edi",
+     "O'z xatosining aybdori edi",
      "Unuta qoldi",
      "Vaqt olmadi"
     ],
@@ -7683,12 +7683,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Rustam Azizaga qaraganda nima his qildi?",
+    "savol": "Aziza Rustamga qarang nima sezdi?",
     "variantlar": [
-     "Uyat va pushaymonlik",
-     "Xursandlik",
+     "Pashmanlik va sharm",
+     "Xursuanlik",
      "Qiziqish",
-     "G'azab"
+     "Hayvoniy"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -7699,7 +7699,7 @@
      "Yaxshi",
      "O'rtacha",
      "Suhbat",
-     "Yomon, nohalol xulq"
+     "Yomon va halofat"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -8012,7 +8012,7 @@
     "savol": "Agar siz Zuhra yoki Zarina boʻlsangiz, kanikullarda nima qilarsiz?",
     "variantlar": [
      "Faqat dars",
-     "Maktab binosini bo'yardim",
+     "Maktab binasini sutsiz",
      "Faqat uyda oʻtirarsiz",
      "Gimnastika va raqsa bilan shug'ullanardim"
     ],
@@ -8020,25 +8020,25 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "«Тоже» so'zi o'zbekchada nima?",
+    "savol": "Matnda 'то́же' so'zining boʻlmasdan, ayniyat nima boshlanadi?",
     "variantlar": [
-     "Ham",
-     "Emas",
-     "Lekin",
-     "Yoki"
+     "Yangi tasnif",
+     "Qarama-qarti",
+     "Shartlar",
+     "Tugaguvchilar"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "«Каникулы» so'zi o'zbekchada nima?",
+    "savol": "Sport maktabiga borish va boʻlmay boradigan bolalar oʻrtasidagi asosiy farq nima?",
     "variantlar": [
-     "Ta'til",
-     "Dars",
-     "Imtihon",
-     "Bayram"
+     "Sport bilimi",
+     "Yosh farqi",
+     "Pul bor yoki boʻlmasi",
+     "Ishonch va arzuu"
     ],
-    "togri": 0,
+    "togri": 3,
     "qiyinlik": "qiyin"
    },
    {

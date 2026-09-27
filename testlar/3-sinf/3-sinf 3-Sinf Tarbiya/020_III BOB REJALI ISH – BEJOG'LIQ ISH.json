@@ -37,12 +37,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Qobil oynadan qarab nima ko'rdi?",
+   "savol": "Qobil oynadan qarab turgan edi, nima ko'rdi?",
    "variantlar": [
-    "O't o'chiruvchilar avtomobilini",
-    "Yomg'ir yog'ayotganini",
+    "O't o'chiruvchilar avtomobili",
+    "Yangin",
     "Qo'shnining oshxonasidan tutun",
-    "Qushlarni"
+    "Gaz quyi"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -61,9 +61,9 @@
   {
    "savol": "Ajdodlar suv tanqis hududlarda suvni saqlash uchun qanday qurilma qurganlar?",
    "variantlar": [
-    "Basseyn",
+    "Basskyn",
     "Gumbazli hovuz (sardoba)",
-    "Chelak",
+    "Cho'nta",
     "Oddiy idish"
    ],
    "togri": 1,
@@ -74,7 +74,7 @@
    "variantlar": [
     "Nodira",
     "Alisher Navoiy",
-    "Muhammad Yusuf",
+    "Mirmuhtarar",
     "I.A. Krilov"
    ],
    "togri": 3,
@@ -92,12 +92,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Ninachi Chumolidan qaysi faslda yordam so'radi?",
+   "savol": "Chumoli Ninachiga qaysi faslda yordam berish taklif qildi?",
    "variantlar": [
     "Yozda",
-    "Bahorda",
+    "Bahorida",
     "Qishda",
-    "Kuzda"
+    "Kushda"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -108,7 +108,7 @@
     "Eshikni yopmagan",
     "Gazni o'chirmagan",
     "Oynani yopmagan",
-    "Suvni yopmagan"
+    "Daryoni yopamagan"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -152,7 +152,7 @@
     "O't o'chirmadi",
     "Gazni o'chirmadi",
     "Idishni ko'chirmadi",
-    "Derazani yopmadi"
+    "Shon'ni yoparmadi"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -160,10 +160,10 @@
   {
    "savol": "Akbar oftob urishining natijasi sifatida qanday holat yuzaga keldi?",
    "variantlar": [
-    "Suv ichmadi",
+    "Suv ichishmadi",
     "Qorni og'ridi",
     "Isitmasi ko'tarildi va bir necha kun uyda qoldi",
-    "Oyog'i sindi"
+    "Shuv bo'ldi"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -183,17 +183,17 @@
    "savol": "Gaz ko'tarilganda olovga nima sodir bo'ldi?",
    "variantlar": [
     "O'chib ketdi",
-    "Sekinlashdi",
+    "Kuchaydi",
     "Sovuq bo'ldi",
-    "Alanga kuchayib, sochiq yonib ketdi"
+    "Tezlashdi va sochiq yonib ketdi"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Zahro Zarifaga kitobni nima uchun asrash kerakligini aytdi?",
+   "savol": "Zahro Zarifa uchun nima uchun asrabish kerakligini aytdi?",
    "variantlar": [
-    "Dadasining mehnati va kitob yozganlarning mehnati uchun",
+    "Dadaning mehnatini va kitobni yozishdagi mehnatni ham aytdi",
     "Faqat dadaning kitob olib berish uchun mehnat qilgani",
     "Faqat kitobni yozishda mehnat sarflangani",
     "Faqat kitobning qimmatli ekanligi"
@@ -206,7 +206,7 @@
    "variantlar": [
     "Ninachi qish kunlarida muhtoj bo'ldi",
     "Nozimaning qorni og'ridi",
-    "Akbar kasal bo'lib qoldi",
+    "Akbar xorazam bo'ldi",
     "Barchasi to'g'ri"
    ],
    "togri": 3,
@@ -216,7 +216,7 @@
    "savol": "Nozima, Akbar va Zarifa halatlarining umumiy xususiyati nimada?",
    "variantlar": [
     "Hammasi vaqt tejadi",
-    "Hammasi ehtiyotsizlik qildi va oqibatidan aziyat chekdi",
+    "Hammasi uvoli qildi va oqibatdan azob chekdi",
     "Hammasi shifokorga bordi",
     "Hammasi yosh bolalar edi"
    ],
@@ -239,7 +239,7 @@
    "variantlar": [
     "Xotirjam televizor ko'rgan bo'lardi",
     "Kitob o'qigan bo'lardi",
-    "Darsni qiynalib tayyorlardi",
+    "Darslar tayyorlashi qiynroq bo'lgan",
     "Qorni og'rimagan bo'lardi"
    ],
    "togri": 3,
@@ -251,7 +251,7 @@
     "Ikkalasi hammasi boshqa edi",
     "Ikkalasi ham vaqtni tejadi",
     "Ikkalasi ham ehtiyotsiz bo'ldi va noto'g'ri natijaga olib keldi",
-    "Ikkalasi hamma narsani bilardi"
+    "Ikkalasi bilsilar edi"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -268,10 +268,10 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Ertakdan qanday xulosa chiqadi?",
+   "savol": "Chumoli Ninachiga qanday maslahat berish orqali uning muammosining yechimini taklif qildi?",
    "variantlar": [
     "Faqat ko'p ish qil",
-    "Yozda mehnat qilib, qishga tayyorlanish kerak",
+    "Yozda tejamkorlik qil va qish uchun tayyorlang",
     "Faqat qish uchun tayyorlang",
     "O'ynashda davom et"
    ],
@@ -301,12 +301,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Gazdan foydalanishda qaysi qoida to'g'ri?",
+   "savol": "Matnda tejash mavzusiga nisbatan qaysiga yetarlicha diqqqat qaratilmagan?",
    "variantlar": [
-    "Olovni qarovsiz qoldirish",
-    "Ishlatib bo'lgach gazni o'chirish",
-    "Yonib turgan gaz yoniga sochiq qo'yish",
-    "Gugurtni tejash uchun gazni o'chirmaslik"
+    "Suvni tejash",
+    "Pul tejash va xarchlashga",
+    "Vaqtni tejash",
+    "Gazni tejash"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -316,7 +316,7 @@
    "variantlar": [
     "Hamma narsadan mahrum bo'lgan",
     "Yolg'izi qolgan",
-    "Qishga tayyor bo'lardi",
+    "Tayyorgar bo'lgan",
     "Baribir muhtoj bo'lgan"
    ],
    "togri": 2,

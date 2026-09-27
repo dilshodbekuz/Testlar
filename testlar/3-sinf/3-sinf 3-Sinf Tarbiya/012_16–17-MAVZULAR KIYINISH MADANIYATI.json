@@ -15,7 +15,7 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Daniyorning singlisi necha yoshda?",
+   "savol": "Daniyor hikoyasida uning nechta yosh singlimi bor?",
    "variantlar": [
     "5 yoshli",
     "6 yoshli",
@@ -26,10 +26,10 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Poyabzal kiyimga nisbatan qachon paydo bo'lgan?",
+   "savol": "Poyabzallar kiyim o'zi qachon paydo bo'ldi?",
    "variantlar": [
     "Kiyim bilan bir vaqtning o'zida",
-    "Hech qachon",
+    "Asosdan paydo bo'lmagandir",
     "Keyinroq",
     "Ko'p oldin"
    ],
@@ -61,10 +61,10 @@
   {
    "savol": "Vaqt o'tgani sari odamlar kiyimlarini nima bilan bezaganlar?",
    "variantlar": [
-    "Loy bilan",
+    "Xamirga? nisbatan",
     "Qum bilan",
     "Turli bezaklar bilan",
-    "Yog'och bezaklar bilan"
+    "Xalisan"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -72,7 +72,7 @@
   {
    "savol": "Bayram va tantanalarda qanday kiyimlar kiyiladi?",
    "variantlar": [
-    "Faqat ish kiyimlari",
+    "Faqat qo'llalik kiyimlar",
     "Bayram va tantanalarga maxsus kiyimlar",
     "Sport kiyimlari",
     "Kundalik kiyimlar"
@@ -83,7 +83,7 @@
   {
    "savol": "\"Kiyimlar ularga bo'lgan ehtiyojidan kelib chiqib paydo bo'lgan\" deganda nima tushuniladi?",
    "variantlar": [
-    "Kiyimlar tasodifan paydo bo'lgan",
+    "Kiyimlar shunga bezalanish uchun kerak",
     "Kiyimlar bezak asboblari",
     "Kiyimlar inson ehtiyojlari asosida vujudga kelgan",
     "Kiyimlar faqat bezak uchun kerak"
@@ -92,7 +92,7 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Onajon Daniyorning singlisiga nima deydi?",
+   "savol": "Onajon Daniyor singlimga nima deydi?",
    "variantlar": [
     "Yozda qalin kiyim kiy",
     "Kiyim kiyish shart emas",
@@ -103,12 +103,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Turli millatlarga mansub odamlar ko'pincha qanday kiyim kiyishga intiladi?",
+   "savol": "Millatidan qat'i nazar hamma odamlar qanday kiyimlarni kiyadilar?",
    "variantlar": [
-    "Faqat oq rangli kiyimni",
-    "Hamma bir xil kiyimni",
-    "O'z millatiga xos an'anaviy kiyimni",
-    "Faqat qishki kiyimni"
+    "Turli-turli kiyimlarni",
+    "Faqat bo'ylakni",
+    "Millatiga xos kiyimlarni",
+    "Faqat ko'ylaglikni"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -125,10 +125,10 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Tibbiyot xonasida yassioyoqlikni tekshirish uchun nima qilindi?",
+   "savol": "Tibbiyot xonasida yassioyoqlik tekshirilganidan keyin nima qilindi?",
    "variantlar": [
     "Tish tekshirildi",
-    "Oyoq kiyimlari yechildi",
+    "Oyoq kiyimi yechildi",
     "Qo'l tekshirildi",
     "Ko'z tekshirildi"
    ],
@@ -139,8 +139,8 @@
    "savol": "Tibbiyot xonada nima sababli rezina hidi paydo bo'ldi?",
    "variantlar": [
     "Poyabzallardan",
-    "Devorning bo'yog'idan",
-    "Oynadan",
+    "Duvarning bo'yash",
+    "Oynani yupqa qilishdan",
     "Desinfektantdan"
    ],
    "togri": 0,
@@ -169,14 +169,14 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Sport poyabzalini nima uchun kun bo'yi kiyib yurish tavsiya etilmaydi?",
+   "savol": "Sport poyabzalini nima uchun kun davomida kiyib yurib bo'lmaydi?",
    "variantlar": [
-    "Rangi tez o'chadi",
-    "Qimmat turadi",
-    "Oyoq terlab, sog'liqqa zarar yetadi va yoqimsiz hid chiqadi",
-    "Tez yirtiladi"
+    "O'z yodida kelmaydi",
+    "Rangaydi tezda",
+    "Buzilib ketadi",
+    "Kiyim madaniyati qoidalariga ko'ra"
    ],
-   "togri": 2,
+   "togri": 3,
    "qiyinlik": "o'rtacha"
   },
   {
@@ -213,12 +213,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Tog'da kechqurun salqin tushsa, isinish uchun nima qilish kerak?",
+   "savol": "Tog' yonbag'riga chiqib, kechki payt salqin tushib, gulxan qo'llarini isitsa, isinish uchun nima qilish mumkin?",
    "variantlar": [
-    "Issiq kiyim kiyish",
-    "Hech narsa qilmaslik",
-    "Sovuq suv ichish",
-    "Sovuq suvga sho'ng'ish"
+    "Chodirda uxlab, issiq kiyimda o'rtab olish",
+    "Hech nima qilish shart emas",
+    "Faqat qo'llarini issiq suv bilan isitish",
+    "Daryoga bo'rkling yugurib chiqish"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -239,14 +239,14 @@
    "variantlar": [
     "Yo'q bo'lib ketdi",
     "O'lcham kattalashdi",
-    "Turli bezaklar bilan bezatilib, ko'rinishi yangilanib borgan",
-    "Faqat rangi o'zgargan"
+    "Turli bezaklar bilan bezalanib, madaniy ko'rinishi yangilan",
+    "Faqat rangaydi"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Daniyorning singlisining \"Nega yupqa?\", \"Nega kiyim kiyish kerak?\" savollari qaysi mavzuga oid?",
+   "savol": "Daniyor singlimning \"Nega yupqa?\", \"Nega kiyim kiyish kerak?\" savollari qaysi mavzuga ko'ra berilgan?",
    "variantlar": [
     "Faqat maktab haqida",
     "Kiyim madaniyati va ehtiyojlari haqida",
@@ -257,22 +257,22 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Kiyimingiz siz haqingizda qanday taassurot qoldiradi?",
+   "savol": "Kiyimningiz sizning tabiatingiz va inson haqida beradigan taassurot orasidagi bog'lanish nima?",
    "variantlar": [
     "Bog'lanishi yo'q",
     "Faqat rang ahamiyatli",
     "Ahamiyati yo'q",
-    "Kiyimingiz sizning tartibli yoki tartibsizligingizni ko'rsatadi"
+    "Kiyimlaringiz sizning tartibingiz haqida ma'lumot beradi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Havo sovuy boshlaganda onajon nega Daniyorning singlisiga qalinroq ko'ylak kiyishni maslahat berdi?",
+   "savol": "Onajon nega qishga yaqinlashib, Daniyor singlimga yupqa ko'ylak o'rniga qalin ko'ylak kiyishni maslahat berdi?",
    "variantlar": [
-    "Ko'ylak yirtilgani uchun",
+    "Ko'ylak tashib ketgani uchun",
     "Faqat yangilash uchun",
-    "Havo soviganda sog'ligini asrash uchun",
+    "Iqlim o'zgarib, temperatura pastlangani uchun, sog'ligini himoya qilish uchun",
     "Shunchaki aytish"
    ],
    "togri": 2,
@@ -290,12 +290,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Tibbiyot xonasida bolalar nima uchun xijolat bo'lishdi?",
+   "savol": "Tibbiyot xonasida biz xijolat bo'ldik, chunki:",
    "variantlar": [
     "Biz birinchi marta xonaga kirdik",
     "Biror xato qildik",
     "Tibbiyot xonasi katta edi",
-    "Poyabzallaridan yoqimsiz hid chiqib, hamshira ogohlantirgani uchun"
+    "Poyabzallarimizdan yoqimsiz hid chiqib, hamshira opaning ogohlantirish gaplarini eshitdi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -316,8 +316,8 @@
    "variantlar": [
     "Odamlar faqat rangga qaramaydi",
     "Ahamiyati yo'q",
-    "Kiyimingizga qarab odamlar sizning didingiz va tarbiyangizga baho beradi",
-    "Odamlar shunchaki qaraydi"
+    "Sizning kiyimingiz, tarbiyangiz va tabiatingiz ko'rishtirishdagi baho siz tuzatgan taassurot beradi",
+    "Odamlar shunchaki qaradilar"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
