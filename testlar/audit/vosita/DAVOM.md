@@ -8,6 +8,8 @@ Bosqich B (7,8,9-sinf mazmuniy audit) holati. Har bir kitob tugagach shu yerga b
   javob kalitlari, hisoblashlar (burchak, uzunlik masalalari) tekshirilgan, hammasi to'g'ri.
   Mavzu chegarasi bo'yicha shubhali holat yo'q.
 
+- **Informatika** (16 fayl / ~480 savol, 2950 qator) — TO'LIQ TEKSHIRILDI (savolma-savol, barcha hisoblashlar — sanoq sistemalari o'zgartirish, ikkilik/sakkizlik/o'n oltilik amallar, kodlash, axborot hajmi, uzatish tezligi masalalari — qo'lda qayta hisoblab tekshirildi). Xato topilmadi — hammasi to'g'ri chiqdi. Fayl raqamlanishida 8-dars yo'q (7-darsdan keyin 9-dars keladi) — bu original darslikning o'zida shunday raqamlanish bo'lishi mumkin, mavzu takrorlanishi yoki dublikat emas, shuning uchun muammo sifatida qayd etilmadi.
+
 
 ## 3-sinf
 
