@@ -23,3 +23,6 @@ Bosqich B (7,8,9-sinf mazmuniy audit) holati. Har bir kitob tugagach shu yerga b
 
 - **Texnologiya** (30 fayl / 900 savol) — TO'LIQ TEKSHIRILDI. Xato topilmadi (matematik hisoblashlar — perimetr, yuza, radius/diametr nisbatlari — va amaliy-texnologik javob kalitlari tekshirilgan, hammasi to'g'ri). Uslub jihatidan bir oz notekis, lekin mazmuniy xato yo'q.
 
+- **Tasviriy san'at** (51 fayl / 1530 savol) — TO'LIQ TEKSHIRILDI. Mazmuniy javob-kalit xatosi topilmadi.
+  - **Muhim mavzu-chegara muammosi (TUZATILMADI, faqat qayd):** Kitobda fayl raqamlanishi butunlay chalkash — 10-, 17-, 19-, 20-, 22-raqamli fayllar bir necha marta turli mavzular uchun ishlatilgan, va deyarli har bir mavzu ikki marta (bir marta Katta harflar bilan sarlavha, bir marta Kichik harflar bilan) alohida fayl sifatida generatsiya qilingan: 6 juft fayl **so'zma-so'z bir xil** (001, 004, 005, 006, 007, 008-mavzular), yana 4 juft fayl bir xil mavzu nomi ostida **boshqa-boshqa savollar** bilan (Oraliq nazorat darsi x2, Tabiiy materiallardan applikatsiya ishlash x2, Me'moriy naqsh ishlash x2, Natyurmort rasmini ishlash x2). Bu kitobning ~41 ta mavzusi 51 ta faylga "cho'zilgan". Qayta generatsiya/tozalash tavsiya etiladi.
+
