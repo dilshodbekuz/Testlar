@@ -30,5 +30,8 @@ Bosqich B (7,8,9-sinf mazmuniy audit) holati. Har bir kitob tugagach shu yerga b
   - **Jiddiy mavzu-chegara/dublikat muammosi (TUZATILMADI, faqat qayd):** Kitobda 72 fayl bor, lekin faqat 51 ta noyob mavzu — 21 juft fayl bir xil mavzu nomi bilan (fayl raqami boshqa, masalan 008/009, 010/012, 020/022 kabi) ikki marta generatsiya qilingan, HAR BIR holatda ikkinchi nusxa **boshqacha savollar** bilan (ba'zan sarlavha formatlashuvi ham farqli — masalan "Odam tanasi" 033/036, "Foydali qazilmalardan oqilona foydalanish" 010/012, "Qulupnay" 019/020, "O'tlar" 012/015 va h.k.). Bittasi ham so'zma-so'z bir xil emas — hammasi haqiqatda mavzuni ikki marta, turli savollar bilan qamragan. Fayl raqamlanishi ham chalkash (masalan 020, 022, 025, 029, 031... ketma-ketligida uzilishlar bor). Qayta generatsiya/tozalashni tavsiya qilamiz.
   - Bir joyda so'z xatosi bor edi ("noziralar" — "ne'matlar" o'rniga tez-tez takrorlangan) — bu Bosqich A doirasiga (imlo) yoki aniq javob-kalit xatosiga kirmaydi, faqat qayd etildi, tuzatilmadi.
 
+- **Matematika** (83 fayl / ~2490 savol) — TO'LIQ TEKSHIRILDI (savolma-savol, barcha hisoblashlar qo'lda qayta tekshirildi). Mazmuniy/javob-kalit yoki hisoblash xatosi topilmadi — arifmetik amallar, tenglamalar, perimetr/yuza masalalari, kasrlar, o'lchov birliklari, vaqt/burchak masalalari va matnli masalalar hammasi to'g'ri hisoblangan.
+  - Kitobda "Takrorlash" (5 marta) va "Mustahkamlash" (3 marta) nomli mavzular bir necha joyda takrorlanadi, lekin har birida **butunlay boshqacha savollar** bor — bu o'quv yili davomidagi rejalashtirilgan qayta takrorlash darslari bo'lib, oldingi kitoblardagi kabi xato/dublikat emas, shuning uchun muammo sifatida qayd etilmadi.
+
 ## 4-sinf (Bosqich A allaqachon tugallangan; Bosqich B davom etmoqda)
 
