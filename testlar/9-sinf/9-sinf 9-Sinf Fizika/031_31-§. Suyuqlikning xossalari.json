@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "31-§. Suyuqlikning xossalari",
+ "savollar": [
+  {
+   "savol": "Suyuqlikning asosiy xossasi?",
+   "variantlar": [
+    "Hajmini o'zgartiradi",
+    "Siqiladi",
+    "Shaklini saqlaydi",
+    "Hajmini saqlaydi, shaklini o'zgartiradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suyuqlik oquvchan. Sababi?",
+   "variantlar": [
+    "Sovuq",
+    "Tinch",
+    "Qattiq",
+    "Molekulalari o'z joyini o'zgartira oladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suyuqliklar siqiluvchanligi?",
+   "variantlar": [
+    "Gazlardek",
+    "Juda kichik",
+    "Yo'q, ortiq",
+    "Katta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suyuqlik sirti nimaga intiladi?",
+   "variantlar": [
+    "Kichrayishga",
+    "Cho'zilishga",
+    "Kattalashishga",
+    "Tekislikka"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sirt taranglik nima?",
+   "variantlar": [
+    "Massa",
+    "Suyuqlik sirtining kichrayishga intilishi",
+    "Hajm",
+    "Bosim"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sirt taranglik kuchi qaysi yo'nalgan?",
+   "variantlar": [
+    "Pastga",
+    "Yuqoriga",
+    "Suyuqlik sirtiga urinma bo'ylab",
+    "Perpendikulyar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suv tomchisi shakli?",
+   "variantlar": [
+    "Piramida",
+    "Sharsimon",
+    "Kub",
+    "Silindr"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sirt taranglik koeffitsiyenti qaysi harf bilan?",
+   "variantlar": [
+    "η",
+    "λ",
+    "ρ",
+    "σ"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sirt taranglik koeffitsiyenti birligi?",
+   "variantlar": [
+    "N/m",
+    "N",
+    "Pa",
+    "J"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sirt taranglik kuchi formulasi?",
+   "variantlar": [
+    "F = σ / l",
+    "F = σ · l",
+    "F = σ + l",
+    "F = l / σ"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "σ = 0,072 N/m (suv), l = 0,1 m. F = ?",
+   "variantlar": [
+    "7,2 N",
+    "0,72 N",
+    "0,072 N",
+    "0,0072 N"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "σ = 0,03 N/m, l = 0,2 m. F = ?",
+   "variantlar": [
+    "6 N",
+    "0,6 N",
+    "0,06 N",
+    "0,006 N"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "F = 0,01 N, l = 0,25 m. σ = ?",
+   "variantlar": [
+    "0,04 N/m",
+    "4 N/m",
+    "2,5 N/m",
+    "0,0025 N/m"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Temperatura ortsa σ?",
+   "variantlar": [
+    "Kamayadi",
+    "Nol",
+    "Ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sovun eritmasi σ suvnikidan?",
+   "variantlar": [
+    "Aniqlab bo'lmaydi",
+    "Teng",
+    "Katta",
+    "Kichik"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun suv o'rgimchagi suv ustida yuradi?",
+   "variantlar": [
+    "Bug'",
+    "Sirt taranglik",
+    "Yengil",
+    "Archimed"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun igna suv ustida suzadi (ehtiyotkorlik bilan)?",
+   "variantlar": [
+    "Isiganidan",
+    "Bug'",
+    "Sirt taranglik",
+    "Yengil"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sovun pufagi shakli sharsimon. Sababi?",
+   "variantlar": [
+    "Sirt taranglik (kichik sirt)",
+    "Sovuq",
+    "Yengil",
+    "Bug'"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Suyuqlik hajmi berilgan bo'lsa eng kichik sirtli shakl?",
+   "variantlar": [
+    "Kub",
+    "Konus",
+    "Silindr",
+    "Shar"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Simob tomchisi sharga yaqin. Sababi?",
+   "variantlar": [
+    "Katta sirt taranglik",
+    "Zichlik",
+    "Rang",
+    "Massa"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sirt energiyasi E = σ · ΔS. σ = 0,07, ΔS = 10⁻³ m². E = ?",
+   "variantlar": [
+    "7 · 10⁻⁷ J",
+    "7 · 10⁻³ J",
+    "0,07 J",
+    "7 · 10⁻⁵ J"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki tomonli parda (sovun pardasi) uchun kuch F = 2σl. σ = 0,04, l = 0,1 m. F = ?",
+   "variantlar": [
+    "0,4 N",
+    "0,08 N",
+    "0,004 N",
+    "0,008 N"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tomchi uzilishi paytida mg = σ · πd. σ = 0,07 N/m, d = 2 mm, g = 10. m ≈ ?",
+   "variantlar": [
+    "≈ 4,4 · 10⁻⁵ kg",
+    "≈ 4,4 · 10⁻² kg",
+    "≈ 4,4 · 10⁻³ kg",
+    "≈ 4,4 · 10⁻⁸ kg"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Suv (σ = 0,072) va spirt (σ = 0,022). Qaysi katta?",
+   "variantlar": [
+    "Spirtniki",
+    "Teng",
+    "Aniqlab bo'lmaydi",
+    "Suvniki"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sirt taranglik kuchi tomchi tomiziladigan naychaning diametriga qanday?",
+   "variantlar": [
+    "To'g'ri proporsional",
+    "Teskari",
+    "Bog'liq emas",
+    "Kvadratik"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Moy suvda yoyilishi. Sirt taranglik?",
+   "variantlar": [
+    "Katta",
+    "Teng",
+    "Yo'q",
+    "Moyniki suvnikidan kichik"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun kir yuvishda sovun ishlatiladi?",
+   "variantlar": [
+    "σ ni kamaytiradi",
+    "Massa",
+    "σ ni oshiradi",
+    "Sovuq"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Molekulyar tortishish kuchlari suyuqlik ichida va sirtida?",
+   "variantlar": [
+    "Yo'q",
+    "Tashqariga",
+    "Sirtdagi molekulalar ichkariga tortiladi",
+    "Teng"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Suyuqlik ichki molekulasiga tortishish kuchlari?",
+   "variantlar": [
+    "Ichkariga",
+    "Muvozanatlashgan",
+    "Tashqariga",
+    "Yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sirt taranglik birligi N/m = J/m². Bu ikkinchi ta'rif nimani bildiradi?",
+   "variantlar": [
+    "Birlik yuza sirt energiyasi",
+    "Tok",
+    "Kuch",
+    "Massa"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

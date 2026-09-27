@@ -8,18 +8,18 @@
    "variantlar": [
     "Qo'lni bo'yash uchun",
     "Ipni bo'lish uchun",
-    "Ignani tekin o'tkazish uchun",
-    "Ignani xavfdan himoya qilish uchun"
+    "Ignani o'tmaslashtirish uchun",
+    "Ignani xavfsiz saqlash uchun"
    ],
    "togri": 3,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Yostiqchani nima materialdan tikiyganlari kerak?",
+   "savol": "Yostiqcha qanday materialdan tikiladi?",
    "variantlar": [
     "Plastik va shisha",
     "Tosh va qum",
-    "Yosiq material va ip",
+    "Yumshoq mato va ip",
     "Qog'oz va suv"
    ],
    "togri": 2,
@@ -39,7 +39,7 @@
   {
    "savol": "Amaliy ish deganda nima tushuniladi?",
    "variantlar": [
-    "Asliy narsani bilan ishlash va vujudga keltirish",
+    "Real buyum yasab, amalda ishlash",
     "Faqat o'qish",
     "Faqat gapirish",
     "Faqat rasm ko'rish"
@@ -61,10 +61,10 @@
   {
    "savol": "Ignaning qaysi qismi o'tkir bo'ladi?",
    "variantlar": [
-    "O'g'ri uchiga",
-    "O'tkir qismi",
-    "Boshiga",
-    "Tutqich qismi"
+    "Ko'zi",
+    "Uchi",
+    "O'rtasi",
+    "Hech qaysi"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -73,7 +73,7 @@
    "savol": "O'z mahsulotini tayyorlash nima demak?",
    "variantlar": [
     "Boshqasining nusxasini olish",
-    "O'zingiz tikishan yostiqcha vujudga keltirish",
+    "O'zingiz tikkan yostiqchani yaratish",
     "Sotib olingan yostiqcha olish",
     "Rasm qilish"
    ],
@@ -94,8 +94,8 @@
   {
    "savol": "Yostiqchani tikishan vaqt qaysi asboblar kerak?",
    "variantlar": [
-    "Xorito",
-    "Ip va yosiq materiallar",
+    "Bolg'a",
+    "Igna, ip va mato",
     "Qalamlar",
     "O'lchagich"
    ],
@@ -127,10 +127,10 @@
   {
    "savol": "Igna bilan ishlashda qaysi xavfsizlik qoidasiga amal qilish kerak?",
    "variantlar": [
-    "Ignani boshqalarga berib yubormagan",
-    "Ignani yomg'ir suvisiga batmoq",
+    "Ignani uchini oldinga qaratib boshqalarga uzatmaslik",
+    "Ignani yomg'ir suviga botirish",
     "Ehtiyot bo'lmaslik",
-    "Ignani buzib yubormagan"
+    "Ignani sindirish"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -141,7 +141,7 @@
     "Ignani xavfdan himoya qilish va saqlash",
     "Rangli bo'lish",
     "Qo'lni tegish",
-    "Ipni otkazish"
+    "Ipni o'tkazish"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -169,7 +169,7 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Yostiqchani tikishan jarayonida nima rivojlanadi?",
+   "savol": "Yostiqcha tikish jarayonida nima rivojlanadi?",
    "variantlar": [
     "Shunchaki igna harakat qiladi",
     "Shunchaki ishlash",
@@ -193,7 +193,7 @@
   {
    "savol": "Yostiqcha tikishan vaqt qaysi turdagi material eng yaxshi?",
    "variantlar": [
-    "Og'ir va qolinta",
+    "Og'ir va qalin",
     "Mustahkam va yumshoq materiallar",
     "Shunchaki rangli narsalar",
     "Shunchaki qora ranglilar"
@@ -206,19 +206,19 @@
    "variantlar": [
     "Shunchaki o'qituvchi shunday aydirgan",
     "Shunchaki vaqt o'tish uchun",
-    "Ignani himoya qilish va jarohlanishni oldini olish uchun",
+    "Jarohatlanishning oldini olish uchun",
     "Shunchaki rang berish uchun"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Yostiqcha tikishda o'quvchi qaysi narsani tugatad?",
+   "savol": "Yostiqcha tikishda o'quvchi nimani tayyorlaydi?",
    "variantlar": [
     "O'ziga xos, noyob yostiqcha",
     "Raqam yozadi",
     "Qora rangli narsalar",
-    "Fehrist"
+    "Kitob"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -240,7 +240,7 @@
     "Shunchaki qora narsalar",
     "Shunchaki bezak",
     "Shunchaki suv",
-    "Xavfsizlik vositasi va o'quvchining ijodiy fikriyoti ifodasi"
+    "Xavfsizlik vositasi va o'quvchining ijodiy fikri ifodasi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -294,7 +294,7 @@
    "variantlar": [
     "Shunchaki vaqt o'tadi",
     "Faqat yostiqcha buziladi",
-    "Yostiqchaning vazifasi bajarilmaydi va ignani jarohlanish ehtimoli ko'payadi",
+    "Igna yo'qolib, kimdir jarohatlanishi mumkin",
     "Shunchaki ip uziladi"
    ],
    "togri": 2,

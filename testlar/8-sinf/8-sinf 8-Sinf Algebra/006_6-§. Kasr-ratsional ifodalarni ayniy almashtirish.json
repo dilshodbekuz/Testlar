@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Algebra",
+ "mavzu": "6-§. Kasr-ratsional ifodalarni ayniy almashtirish",
+ "savollar": [
+  {
+   "savol": "Kasr-ratsional ifoda nima?",
+   "variantlar": [
+    "Butun va kasr ifodalardan tuzilgan ifoda",
+    "Faqat ildizli ifoda",
+    "Faqat butun sonlar",
+    "Faqat tenglama"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ayniy almashtirish nima?",
+   "variantlar": [
+    "Ifodani unga ayniy teng ifoda bilan almashtirish",
+    "Ifodaning qiymatini o'zgartirish",
+    "Kasrni o'nli kasrga aylantirish",
+    "Tenglamani yechish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ifodani soddalashtirishda birinchi bo'lib nima bajariladi?",
+   "variantlar": [
+    "Ayirish",
+    "Qavs ichidagi amallar",
+    "Qo'shish",
+    "Har doim bo'lish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 + 1/x ifodani bitta kasr ko'rinishida yozing.",
+   "variantlar": [
+    "1/(x + 1)",
+    "2/x",
+    "(x + 1)/x",
+    "(x − 1)/x"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 − 1/a ifodani bitta kasr ko'rinishida yozing.",
+   "variantlar": [
+    "(a + 1)/a",
+    "1/a",
+    "(1 − a)/a",
+    "(a − 1)/a"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Amallar tartibida qaysi amal birinchi bajariladi?",
+   "variantlar": [
+    "Bo'lish",
+    "Ayirish",
+    "Darajaga ko'tarish",
+    "Qo'shish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ifodaning aniqlanish sohasi nima?",
+   "variantlar": [
+    "Faqat nol",
+    "Faqat butun sonlar",
+    "O'zgaruvchining ifoda ma'noga ega bo'ladigan qiymatlari",
+    "Faqat musbat sonlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a/(a) ifoda (a ≠ 0) nechaga teng?",
+   "variantlar": [
+    "a",
+    "a²",
+    "0",
+    "1"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x + x/x ifodani (x ≠ 0) soddalashtiring.",
+   "variantlar": [
+    "x²",
+    "x + 1",
+    "x",
+    "2x"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "0/x ifoda (x ≠ 0) nechaga teng?",
+   "variantlar": [
+    "1",
+    "0",
+    "x",
+    "ma'noga ega emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(1 + 1/x) : (1/x) ifodani soddalashtiring (x ≠ 0).",
+   "variantlar": [
+    "x",
+    "1 + x²",
+    "1/x",
+    "x + 1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(a + 1/a) · a ifodani soddalashtiring (a ≠ 0).",
+   "variantlar": [
+    "a² + 1",
+    "2a",
+    "a + 1",
+    "a²"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(x/(x − 1) − 1/(x − 1)) ifodani soddalashtiring.",
+   "variantlar": [
+    "x",
+    "1",
+    "0",
+    "x − 1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(1/a + 1/b) : (a + b) ifodani soddalashtiring.",
+   "variantlar": [
+    "1/(ab)",
+    "1/(a + b)",
+    "ab",
+    "a + b"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(x − 1/x) · x/(x² − 1) ifodani soddalashtiring (x ≠ 0, ±1).",
+   "variantlar": [
+    "1/x",
+    "1",
+    "x²",
+    "x"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(2/x + 1/x) · x ifodani soddalashtiring.",
+   "variantlar": [
+    "3x",
+    "3",
+    "2",
+    "x"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(a² − 1)/a : (a + 1)/a² ifodani soddalashtiring.",
+   "variantlar": [
+    "a(a − 1)",
+    "a²",
+    "a − 1",
+    "a + 1"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(1/(x − 1) + 1/(x + 1)) · (x² − 1) ifodani soddalashtiring.",
+   "variantlar": [
+    "2x",
+    "x²",
+    "2",
+    "2x²"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1/(1 + 1/x) ifodani soddalashtiring (x ≠ 0, −1).",
+   "variantlar": [
+    "x/(x + 1)",
+    "x",
+    "1/x",
+    "(x + 1)/x"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(x/y − y/x) : (x − y)/(xy) ifodani soddalashtiring.",
+   "variantlar": [
+    "xy",
+    "x − y",
+    "1",
+    "x + y"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x/(x − 2) − (x + 2)/x ifodani soddalashtiring.",
+   "variantlar": [
+    "4/(x(x − 2))",
+    "4/x",
+    "4/(x − 2)",
+    "(x − 4)/x"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(a/(a + b) + b/(a − b)) ifodani soddalashtiring.",
+   "variantlar": [
+    "(a² + b²)/(a² − b²)",
+    "(a² − b²)/(a² + b²)",
+    "(a + b)/(a² − b²)",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(1 − 1/x²) : (1 − 1/x) ifodani soddalashtiring (x ≠ 0, 1).",
+   "variantlar": [
+    "x + 1",
+    "1/x",
+    "(x + 1)/x",
+    "(x − 1)/x"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(a − 4/a) : (1 − 2/a) ifodani soddalashtiring (a ≠ 0, 2).",
+   "variantlar": [
+    "2a",
+    "a + 2",
+    "a",
+    "a − 2"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1/(x² − 4) : 1/(x − 2) ifodani soddalashtiring.",
+   "variantlar": [
+    "x + 2",
+    "1/(x + 2)",
+    "1/(x − 2)",
+    "(x + 2)(x − 2)"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(x + 1/x)² − (x − 1/x)² ifodaning qiymati nechaga teng?",
+   "variantlar": [
+    "0",
+    "2",
+    "4",
+    "4x"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(a + b)/(ab) − (a − b)/(ab) ifodani soddalashtiring.",
+   "variantlar": [
+    "2ab",
+    "2/b",
+    "2/a",
+    "2b/a"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x = 2 bo'lsa, (x² − 1)/x − (x − 1) ifodaning qiymati nechaga teng?",
+   "variantlar": [
+    "1/2",
+    "1",
+    "2",
+    "3/2"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "((a + 1)/(a − 1) − (a − 1)/(a + 1)) : (4a/(a² − 1)) ifodani soddalashtiring.",
+   "variantlar": [
+    "a",
+    "2",
+    "1",
+    "4a"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(1/(x − y) − 1/(x + y)) · (x² − y²)/(2y) ifodani soddalashtiring.",
+   "variantlar": [
+    "2",
+    "y",
+    "1",
+    "x"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

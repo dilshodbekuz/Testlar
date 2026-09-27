@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "58-§. Laboratoriya ishi. Eng oddiy elektromagnitni yig'ish va uning ishlashini o'rganish",
+ "savollar": [
+  {
+   "savol": "Ishning maqsadi nima?",
+   "variantlar": [
+    "Eng oddiy elektromagnitni yig'ish va ishlashini o'rganish",
+    "Massani o'lchash",
+    "Haroratni o'lchash",
+    "Uzunlikni o'lchash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektromagnit yig'ish uchun nima kerak?",
+   "variantlar": [
+    "Faqat temir",
+    "Izolyatsiyalangan sim, temir o'zak, batareya",
+    "Faqat batareya",
+    "Suv"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "G'altak qanday hosil qilinadi?",
+   "variantlar": [
+    "Sim qirqish",
+    "Simni o'zak atrofiga o'rash",
+    "Sim eritish",
+    "Sim bo'yash"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektromagnit tokka ulanganda?",
+   "variantlar": [
+    "Tortmaydi",
+    "Temir buyumlarni tortadi",
+    "Yonadi",
+    "Isiydi faqat"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tok o'chirilsa buyumlar?",
+   "variantlar": [
+    "Isiydi",
+    "Ortadi",
+    "Tushib ketadi",
+    "Ushlab qoladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kompas strelkasi tokli g'altak yonida?",
+   "variantlar": [
+    "Aylanadi doim",
+    "Og'maydi",
+    "Sovuydi",
+    "Og'adi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "G'altak o'ramlari soni oshirilsa, tortish kuchi?",
+   "variantlar": [
+    "Kamayadi",
+    "O'zgarmaydi",
+    "Nol",
+    "Ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda tok yo'nalishi o'zgarsa qutblar?",
+   "variantlar": [
+    "Yo'qoladi",
+    "Almashadi",
+    "Aylanadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda kalit nima uchun kerak?",
+   "variantlar": [
+    "Isitish",
+    "Tovush",
+    "Zanjirni ulash-uzish uchun",
+    "Yoritish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda natijalar qayerga yoziladi?",
+   "variantlar": [
+    "Batareyaga",
+    "Simga",
+    "Jadvalga",
+    "Kalitga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektromagnit qutblari qaysi qoida bilan aniqlanadi?",
+   "variantlar": [
+    "Chap qo'l",
+    "Kulon",
+    "O'ng qo'l qoidasi",
+    "Om"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda tok kuchi reostat bilan o'zgartirilsa, ko'tarilgan mix soni?",
+   "variantlar": [
+    "Cheksiz",
+    "O'zgarmaydi",
+    "Nol",
+    "O'zgaradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda o'ramlar soni 2 marta oshirilsa, ko'tarilgan mix soni?",
+   "variantlar": [
+    "Ortadi",
+    "O'zgarmaydi",
+    "Kamayadi",
+    "Nol"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda temir o'zak olib tashlansa?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Nol",
+    "Tortish kuchi keskin kamayadi",
+    "Ortadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda mixlar nima uchun magnitlanadi?",
+   "variantlar": [
+    "Isiydi",
+    "Yonadi",
+    "Elektromagnit maydonida",
+    "Sovuydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda g'altak ulanganda ampermetr nimani ko'rsatadi?",
+   "variantlar": [
+    "Haroratni",
+    "Tok kuchini",
+    "Massani",
+    "Kuchlanishni"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda ampermetr qanday ulanadi?",
+   "variantlar": [
+    "Ulanmaydi",
+    "Aralash",
+    "Parallel",
+    "Ketma-ket"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda tok yo'q bo'lganda o'zakning holati?",
+   "variantlar": [
+    "Erigan",
+    "Magnitlanmagan",
+    "Qizigan",
+    "Doim magnit"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda qaysi o'zakdan foydalanish yaxshi?",
+   "variantlar": [
+    "Misdan",
+    "Shishadan",
+    "Plastikdan",
+    "Yumshoq temirdan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda qanday xavfsizlik qoidasi muhim?",
+   "variantlar": [
+    "Suv ichish",
+    "Yugurish",
+    "Chalg'ish",
+    "Batareya qutblarini qisqa tutashtirmaslik"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda I = 0,5 A da 3 ta mix, I = 1 A da 6 ta mix ko'tarildi. Bu nimani ko'rsatadi?",
+   "variantlar": [
+    "Kvadratik",
+    "Teskari proporsional",
+    "Bog'liq emas",
+    "Kuch tok kuchiga to'g'ri proporsional"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda N = 20 o'ramda 2 ta, N = 40 o'ramda 4 ta mix. Bog'lanish?",
+   "variantlar": [
+    "Yo'q",
+    "Kvadratik",
+    "To'g'ri proporsional",
+    "Teskari"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda simning uzunligi katta bo'lsa qarshilik ortadi. Bu tokka ta'siri?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Tok kamayadi",
+    "Ortadi",
+    "Nol"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda g'altak qizib ketsa nima qilish kerak?",
+   "variantlar": [
+    "Ko'paytirish",
+    "Davom ettirish",
+    "Suv quyish",
+    "Zanjirni uzish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda o'zak o'rniga mis sterjen qo'yilsa, ta'siri?",
+   "variantlar": [
+    "Deyarli o'zgarmaydi (mis magnitlanmaydi)",
+    "Kuchayadi",
+    "Ortadi",
+    "Nol"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda qutblarni aniqlashning boshqa usuli?",
+   "variantlar": [
+    "Termometr",
+    "Tarozi",
+    "Kompas strelkasi bilan",
+    "Chizg'ich"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishdagi eng katta xatolik manbai?",
+   "variantlar": [
+    "Rang",
+    "Mix massasining farqi va tokning o'zgarishi",
+    "Havo",
+    "Yorug'lik"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda 5 ta mix ko'tarildi, ularning massasi 5 g. Elektromagnitning ko'tarish kuchi (g = 10)?",
+   "variantlar": [
+    "0,05 N",
+    "50 N",
+    "0,5 N",
+    "5 N"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda g'altak qarshiligi 5 Om, U = 10 V. Tok?",
+   "variantlar": [
+    "0,5 A",
+    "50 A",
+    "15 A",
+    "2 A"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "G'altak o'ramlari bir-biriga zich o'ralganda (uzunlik o'zgarmas, o'ramlar ko'p) maydon?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Yo'qoladi",
+    "Kamayadi",
+    "Kuchayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

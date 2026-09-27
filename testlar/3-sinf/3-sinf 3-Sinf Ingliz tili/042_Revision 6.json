@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Ingliz tili",
+ "mavzu": "Revision 6",
+ "savollar": [
+  {
+   "savol": "Ali qanday oyoq kiyimi kiygan?",
+   "variantlar": [
+    "Socks",
+    "Shoes",
+    "Trainers",
+    "Boots"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vali qanday pastki kiyim kiygan?",
+   "variantlar": [
+    "Skirt",
+    "Jeans",
+    "Pants",
+    "Shorts"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gani qanday pastki kiyim kiygan?",
+   "variantlar": [
+    "Trousers",
+    "Jeans",
+    "Skirt",
+    "Shorts"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ali va Vali qaysi oyoq kiyimida bir xil?",
+   "variantlar": [
+    "Jeans",
+    "Hat",
+    "Shorts",
+    "Trainers"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ali, Vali va Gani uchikki ham qanday shlyapani kiyganlar?",
+   "variantlar": [
+    "Helmet",
+    "Turban",
+    "Hat",
+    "Cap"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shahzod uyda bormi?",
+   "variantlar": [
+    "Uyga kelmoqda",
+    "Ha, uyda",
+    "Bilmayman",
+    "Yo'q, uyda yo'q"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Salim/Salima nima uchun Shahzodga telefon qildi?",
+   "variantlar": [
+    "Kitob oqimoq",
+    "Rasm chizmoq",
+    "Maktabni aytmoq",
+    "U bilan o'ynamoq uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kamil/Kamila Shahzodga nisbatan kim?",
+   "variantlar": [
+    "Singli yoki Akasi",
+    "O'qituvchi",
+    "Do'st",
+    "Aybay"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ali qanday fut kiygan?",
+   "variantlar": [
+    "Shirt",
+    "Jeans",
+    "Shorts",
+    "T-shirt"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gani qanday fut kiygan?",
+   "variantlar": [
+    "Trainers",
+    "Shirt",
+    "T-shirt",
+    "Cap"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ali va Vali qaysi fut kiyimida bir xil?",
+   "variantlar": [
+    "Shorts va Jeans",
+    "Shirt",
+    "Cap va Trainers",
+    "T-shirt"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Vali bilan Ali qaysi kiyim buyumlarida bir xil?",
+   "variantlar": [
+    "Cap, Shorts, T-shirt",
+    "Trainers, Jeans, T-shirt",
+    "Cap, Trainers, T-shirt",
+    "Cap, Jeans, Shirt"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Vali va Gani qaysi kiyim buyumda eng ko'p farq qiladi?",
+   "variantlar": [
+    "Fut turlari",
+    "Cap",
+    "Oyoq kiyimi",
+    "Jeans"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ali va Gani qaysi kiyim buyumida bir xil?",
+   "variantlar": [
+    "Shorts va Jeans",
+    "Cap",
+    "T-shirt va Shirt",
+    "Cap va Trainers"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shahzod uyda yo'q deb aytilganda, qanday savol beriladi?",
+   "variantlar": [
+    "Nima uchun?",
+    "Kim bilan?",
+    "Raqamni bera oladimi?",
+    "Qachon uyga keladi?"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar Shahzodning telefon raqamini bilmoqchi bo'lsak, qanday savolni beramiz?",
+   "variantlar": [
+    "What's your telephone number?",
+    "Qachon?",
+    "Kim siz?",
+    "Nima uchun?"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gani qanday kiyim buyumlarini kiygan?",
+   "variantlar": [
+    "Cap, Jeans, T-shirt",
+    "Cap, Jeans, Shirt",
+    "Cap, Trainers, T-shirt",
+    "Cap, Shorts, T-shirt"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ali qanday kiyim buyumlarini kiygan?",
+   "variantlar": [
+    "Cap, Trainers, Shorts, T-shirt",
+    "Cap, Trainers, Jeans, T-shirt",
+    "Cap, Trainers, Shorts, Shirt",
+    "Cap, Shoes, Shorts, Shirt"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Vali qanday kiyim buyumlarini kiygan?",
+   "variantlar": [
+    "Cap, Trainers, Jeans, Shirt",
+    "Cap, Trainers, Jeans, T-shirt",
+    "Cap, Trainers, Shorts, T-shirt",
+    "Cap, Shoes, Jeans, Shirt"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ali bilan Vali ning pastki kiyimida qanday farq bor?",
+   "variantlar": [
+    "Ali Shorts, Vali Jeans",
+    "Pastki kiyimda farq yo'q",
+    "Ali Trainers, Vali Shoes",
+    "Ali Jeans, Vali Shorts"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ali, Vali va Gani ning uchikki ham qanday kiyim buyumni kiyganlar?",
+   "variantlar": [
+    "Jeans",
+    "Shirt",
+    "Trainers",
+    "Cap"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ali va Gani ning qiyafatini taqqoslasak, eng katta farq qaysi kiyimda?",
+   "variantlar": [
+    "Cap",
+    "Oyoq kiyimi va pastki kiyim",
+    "Shlyapada",
+    "Fut turida"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Telefon suhbatida quyidagi savollar qaysi tartibda beriladi: 1) What's your telephone number? 2) He's not at home. 3) Can I talk to Shahzod?",
+   "variantlar": [
+    "3, 1, 2",
+    "2, 1, 3",
+    "3, 2, 1",
+    "1, 2, 3"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Vali va Gani ni solishtiring - qaysi gap to'g'ri?",
+   "variantlar": [
+    "Ikkisi ham T-shirt kiygan",
+    "Ikkisi ham jeans kiygan",
+    "Ikkisi ham cap kiygan",
+    "Ikkisi ham trainers kiygan"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ali, Vali va Gani ning kiyim buyumlarida umumiy nuqta nima?",
+   "variantlar": [
+    "Hamasi T-shirt kiygan",
+    "Hamasi trainers kiygan",
+    "Hamasi shorts kiygan",
+    "Hamasi cap kiygan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar Salim/Salima o'yin bilan Shahzodga telefon qilgangi bolib, u uyda bo'lmasayu, qanday ma'lumotlarni bilmoqchi bo'lishi kerak?",
+   "variantlar": [
+    "Telefon raqam va qachon uyga keladi",
+    "Raqam va Shahzod kim",
+    "Yoshu va sinifi",
+    "Nomi va manzili"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Vali bilan Ali qiyafatini solishtiring - qaysi gap noto'g'ri?",
+   "variantlar": [
+    "Ikkisi ham cap kiygan",
+    "Ikkisi ham jeans kiygan",
+    "Ikkisi ham trainers kiygan",
+    "Ikkisi ham T-shirt kiygan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gani va Ali ning kiyimlarini taqqoslasak, qaysi element faqat Ali da bor?",
+   "variantlar": [
+    "Shirt",
+    "Cap",
+    "Jeans",
+    "Shorts"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ali, Vali va Gani ning to'liq qiyafatini qarab, ularning ichida eng kam kiyim bo'lagiga ega kim?",
+   "variantlar": [
+    "Hamasi teng",
+    "Vali - 4 ta",
+    "Gani - 3 ta",
+    "Ali - 4 ta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Telefon suhbatida Kamil/Kamila 'Excuse me, who's this?' deb soraganiga qarab, u qanday vazifani bajaradi?",
+   "variantlar": [
+    "Shahzodga javob berishini bildiradi",
+    "Nima ekanligini bilishni bildiradi",
+    "Kim qaysi odam ekanligini bilishni bildiradi",
+    "Uyga kelmani soraishni bildiradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

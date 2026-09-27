@@ -40,9 +40,9 @@
    "savol": "Qog'oz kesish uchun nima ishlatiladi?",
    "variantlar": [
     "Qalam",
-    "Qanatlash",
+    "Chizg'ich",
     "O'chirgich",
-    "Maqash"
+    "Qaychi"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -52,7 +52,7 @@
    "variantlar": [
     "Qum",
     "Yog'",
-    "Elim",
+    "Yelim",
     "Suv"
    ],
    "togri": 2,
@@ -63,7 +63,7 @@
    "variantlar": [
     "Kitob",
     "Yozma ish",
-    "Natijali ish",
+    "Qismlarni bir butun qilib chiroyli joylashtirish",
     "Dars"
    ],
    "togri": 2,
@@ -73,7 +73,7 @@
    "savol": "Qaysi qog'oz eng yupqaroq?",
    "variantlar": [
     "Gazeta qog'ozi",
-    "Kartonda",
+    "Karton",
     "Oq qog'oz",
     "Rang qog'ozi"
    ],
@@ -95,7 +95,7 @@
    "savol": "Rang tanlashda nima muhim?",
    "variantlar": [
     "Narx",
-    "Maqsad va yoqimsilik",
+    "Maqsad va chiroyliligi",
     "Og'irligi",
     "Baho"
    ],
@@ -103,14 +103,14 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Qaltaqlab qog'ozi qanday textureali?",
+   "savol": "Gofrirlangan qog'oz qanday bo'ladi?",
    "variantlar": [
-    "Xashuraydi",
-    "Yumaloq",
-    "Shumavsiz",
-    "Tekis"
+    "Burma-burma (to'lqinli)",
+    "Tekis va silliq",
+    "Shaffof",
+    "Temirdek qattiq"
    ],
-   "togri": 2,
+   "togri": 0,
    "qiyinlik": "oson"
   },
   {
@@ -118,8 +118,8 @@
    "variantlar": [
     "Kesib bo'lakiladi",
     "Yoziladi",
-    "Ranga shuftiladi",
-    "Uvib qo'yiladi"
+    "Suvga solinadi",
+    "Yoqib yuboriladi"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -172,7 +172,7 @@
    "savol": "Gazeta qog'ozi nima uchun ishlatiladi?",
    "variantlar": [
     "Yozish uchun",
-    "Aralashtirish va asosiy qismda",
+    "Kompozitsiyada fon yoki qo'shimcha material sifatida",
     "Toza chizish uchun",
     "Rasm chizish uchun"
    ],
@@ -183,9 +183,9 @@
    "savol": "Elim bilan qog'oz birlashtirilganda nima bo'ladi?",
    "variantlar": [
     "Yonib ketadi",
-    "Suvda yuqadi",
-    "Darhol qurig'adi",
-    "Elim qurig'uncha kutiladi"
+    "Suvda eriydi",
+    "Darhol quriydi",
+    "Yelim qurishini kutish kerak"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -237,21 +237,21 @@
   {
    "savol": "Qog'oz turlari orasidagi farqlar qaysi asosda bo'ladi?",
    "variantlar": [
-    "Qalinligi va tekstrosi",
-    "Faqat mansasi",
+    "Faqat qalinligi",
+    "Faqat hidi",
     "Faqat rangi",
-    "Rangi, qalinligi, texstrosi va mansasi"
+    "Rangi, qalinligi va yuzasi (teksturasi)"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Qaltaqlab qog'ozining xususiyati nimada?",
+   "savol": "Karton oddiy qog'ozdan nimasi bilan farq qiladi?",
    "variantlar": [
-    "Shumavsiz va xash",
-    "Juda eng yupqa",
-    "Ranglar ko'p",
-    "Juda to'z"
+    "Qalinroq va qattiqroq",
+    "Yupqaroq",
+    "Shaffof",
+    "Suyuq"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -260,7 +260,7 @@
    "savol": "Kompozitsiya yaratishning asosiy bosqichlari qanday?",
    "variantlar": [
     "Rangarang qilib tashlash",
-    "Faqat elastiklarni kesib chiqish",
+    "Faqat qaychini sinash",
     "Darhol kesib olish",
     "Rejalashtirib, kesib, ranglarni tanlayb, birlashtirib"
    ],
@@ -303,7 +303,7 @@
   {
    "savol": "Qog'ozlarni ulanishida qatnashchi asosiy qismlar nima?",
    "variantlar": [
-    "Elim, ehtiyotlik va vaqt",
+    "Yelim, ehtiyotkorlik va sabr",
     "Faqat qo'l kuchi",
     "Faqat maydon",
     "Faqat elim"

@@ -7,8 +7,8 @@
    "savol": "Ipak qurti asosan qayerda boqiladi?",
    "variantlar": [
     "Fermalarda",
-    "Ko'chamlarda",
-    "Qo'shna-qo'shiqlarda",
+    "Tog'larda",
+    "Daryolarda",
     "Xonadonlarda"
    ],
    "togri": 3,
@@ -39,9 +39,9 @@
   {
    "savol": "Pilla ichida qurt nimaga aylanadi?",
    "variantlar": [
-    "Billasiga",
-    "Poplataga",
-    "Qo'ng'iroqqa",
+    "Chigirtkaga",
+    "Qo'ng'izga",
+    "Baliqqa",
     "G'umbakka"
    ],
    "togri": 3,
@@ -51,7 +51,7 @@
    "savol": "Pillalardan olingan ipak tolasidan qanday matolar to'qiladi?",
    "variantlar": [
     "Shoyi va paxta",
-    "Ipak va atlas",
+    "Jun va charm",
     "Paxta va to'qimacha",
     "Atlas va shoyi"
    ],
@@ -70,7 +70,7 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Tut daraxtining yangi novdalari qayda pishib yetiladi?",
+   "savol": "Tut daraxtining yangi novdalari qachon pishib yetiladi?",
    "variantlar": [
     "Kuzda",
     "Yozda",
@@ -81,12 +81,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Kapalak pillani yorib chiqishi natijasida nima bo'ladi?",
+   "savol": "G'umbak pilla ichida nimaga aylanadi?",
    "variantlar": [
-    "G'umbak chiqadi",
-    "Qurt chiqadi",
-    "Kapalak chiqadi",
-    "Pilla yoriladi"
+    "Qurtga",
+    "Tuxumga",
+    "Kapalakka",
+    "Chigirtkaga"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -105,10 +105,10 @@
   {
    "savol": "Qurtlarga dastlabki kunlari qanday barglari beriladi?",
    "variantlar": [
-    "Xonadon barglari",
-    "Ko'nadan ko'naga berilgan barglari",
-    "Yangi chiqayotgan barglari",
-    "Qichib qolgan barglari"
+    "Qurigan barglar",
+    "Qizil barglar",
+    "Yangi chiqayotgan barglar",
+    "To'kilgan eski barglar"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -151,7 +151,7 @@
    "variantlar": [
     "Qurtni juda tez o'stirish uchun",
     "Barglari arzon bo'lgani uchun",
-    "Qurtning yangi tavrga moslashuvi uchun",
+    "Qurtlar juda kichik bo'lgani uchun ularga yeyish oson bo'lishi uchun",
     "Barglari yo'q bo'lgani uchun"
    ],
    "togri": 2,
@@ -191,7 +191,7 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Pilla ichida qurt o'sishining to'g'ri ketma-ketligi qanday?",
+   "savol": "Ipak qurtining rivojlanish ketma-ketligi qanday?",
    "variantlar": [
     "Tuxum-qurt-g'umbak-kapalak",
     "Qurt-tuxum-g'umbak-kapalak",
@@ -216,7 +216,7 @@
    "savol": "Xona havosi nima uchun almashtirib turilishi lozim?",
    "variantlar": [
     "Qurtning sog'lom o'sishi uchun",
-    "Qurtning salomatligini saqlash uchun",
+    "Xona sovib ketishi uchun",
     "Barglarn qurib qolmasligini saqlash uchun",
     "Haroratni sabitlash uchun"
    ],
@@ -270,7 +270,7 @@
   {
    "savol": "Agar xona harorati 26°C bo'lsa va namligi noto'g'ri saqlanilsa, qurt boqishiga bu qanday ta'sir ko'rsatadi?",
    "variantlar": [
-    "Qo'shimcha foydali ta'sir ko'rsatadi",
+    "Qurtlar tezroq pilla o'raydi",
     "Salbiy ta'sir ko'rsatadi",
     "Ijobiy ta'sir ko'rsatadi",
     "Hech qanday ta'sir ko'rsatmaydi"
@@ -279,14 +279,14 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Pillalardan olingan ipak tolasi atlas va shoyi matolariga ishlanadi - bu jarayon necha bosqichlik hisoblanadi?",
+   "savol": "Ipak qurti tuxumdan chiqqach, pilla o'ray boshlaguncha taxminan qancha vaqt o'tadi?",
    "variantlar": [
-    "1 bosqich",
-    "4-5 bosqich",
-    "6 bosqich",
-    "2-3 bosqich"
+    "1 hafta",
+    "3-4 hafta",
+    "2 oy",
+    "6 oy"
    ],
-   "togri": 3,
+   "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
@@ -326,7 +326,7 @@
    "savol": "Ipak qurti biologiyasi asosida, pilla ichida qurt g'umbakka aylanishi va kapalakka aylanishi qanday rivojlanish jarayoni?",
    "variantlar": [
     "Faqat biologik o'zgarish",
-    "To'liq biologik tahavvul va rivojlanish",
+    "To'liq o'zgarish bilan rivojlanish (tuxum – qurt – g'umbak – kapalak)",
     "Faqat tashqi o'zgarish",
     "Faqat fizik o'zgarish"
    ],

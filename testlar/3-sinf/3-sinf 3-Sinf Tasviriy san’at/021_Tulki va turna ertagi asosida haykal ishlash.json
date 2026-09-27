@@ -30,8 +30,8 @@
    "variantlar": [
     "Stakan",
     "Ko'zaga",
-    "Buyumga",
-    "Tovoqga"
+    "Chelakka",
+    "Tovoqqa"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -39,9 +39,9 @@
   {
    "savol": "Ertakda tasvirlangan asosiy ikki shakl qaysilari?",
    "variantlar": [
-    "Shermon va turna",
+    "Sher va turna",
     "Tulki va turna",
-    "Quloq va qush",
+    "Quyon va qush",
     "Tulki va ayiq"
    ],
    "togri": 1,
@@ -86,7 +86,7 @@
     "Xohishmagan",
     "Xafa bo'lganlar",
     "Ovqat yomon bo'lgan",
-    "Tana shakli boshkacha"
+    "Tanasining shakli boshqacha"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -141,7 +141,7 @@
     "Mustaqil",
     "Vaqtinchalik",
     "Bir-birining takrorlanishi",
-    "Nisbatan"
+    "Tasodifiy"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -184,7 +184,7 @@
    "variantlar": [
     "Tozalash",
     "Ranglarni tanlash",
-    "Shakl olish va asosiy kontourni chizish",
+    "Shaklni olish va asosiy konturni belgilash",
     "Yozish"
    ],
    "togri": 2,
@@ -205,7 +205,7 @@
    "savol": "Turna va tulkining munosabatlari qanday o'zgaradi?",
    "variantlar": [
     "Dastlab yomon bo'ladi, keyin yaxshi bo'ladi",
-    "Dastlab mehribon, keyin qinaydi",
+    "Dastlab dushman, keyin do'st",
     "Dastlab yoqib ketadi, keyin yomonlashadi",
     "O'zgaramaydi"
    ],
@@ -270,10 +270,10 @@
   {
    "savol": "Tulkining turaga qilgan javobining moraliy mazmuni nima?",
    "variantlar": [
-    "Xovot-xushom",
+    "Xushomad",
     "Boshqa hayvonlarning kelishiga kutish",
-    "To'liq yana boshlash",
-    "Shunaqa muammo yoki diktatu"
+    "Qaytadan boshlash",
+    "Boshqasiga qilingan ishga o'shanday javob qaytarish (aksil-ta'sir)"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -306,13 +306,13 @@
     "Ertakdagi voqealar va hayvonlarning munosabatini ketma-ketlikda ko'rsatish",
     "Ixtiyoriy joylashtirish",
     "Rangli qilish majburiy",
-    "Faqat katta shapkalar"
+    "Faqat katta shakllar"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Ertagida ko'rsatilgan voqealarni ketma-ketligi noto'g'ri belgilang:",
+   "savol": "Ertakdagi voqealarning to'g'ri ketma-ketligini belgilang.",
    "variantlar": [
     "Suyuq ovqat → chaqiruv → intiqom",
     "Chaqiruv → intiqom → qattiq ovqat",

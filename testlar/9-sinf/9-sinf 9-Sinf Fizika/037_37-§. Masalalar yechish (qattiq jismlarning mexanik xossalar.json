@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "37-§. Masalalar yechish (qattiq jismlarning mexanik xossalari)",
+ "savollar": [
+  {
+   "savol": "Guk qonuni formulasi?",
+   "variantlar": [
+    "F = kΔl",
+    "F = k + Δl",
+    "F = k/Δl",
+    "F = Δl/k"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mexanik kuchlanish?",
+   "variantlar": [
+    "σ = S/F",
+    "σ = F/S",
+    "σ = F − S",
+    "σ = FS"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nisbiy uzayish?",
+   "variantlar": [
+    "ε = Δl/l₀",
+    "ε = l₀/Δl",
+    "ε = Δl − l₀",
+    "ε = Δl l₀"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yung moduli?",
+   "variantlar": [
+    "E = σ + ε",
+    "E = σε",
+    "E = σ/ε",
+    "E = ε/σ"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "F = 20 N, Δl = 0,1 m. k = ?",
+   "variantlar": [
+    "20 N/m",
+    "0,5 N/m",
+    "200 N/m",
+    "2 N/m"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "k = 50 N/m, Δl = 0,1 m. F = ?",
+   "variantlar": [
+    "0,5 N",
+    "50 N",
+    "5 N",
+    "500 N"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "F = 100 N, S = 10⁻⁴ m². σ = ?",
+   "variantlar": [
+    "10⁸ Pa",
+    "10⁴ Pa",
+    "10² Pa",
+    "10⁶ Pa"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 mm² necha m²?",
+   "variantlar": [
+    "10⁻³ m²",
+    "10⁶ m²",
+    "10⁻⁶ m²",
+    "10⁻⁹ m²"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 sm² necha m²?",
+   "variantlar": [
+    "10⁻⁶ m²",
+    "10⁻² m²",
+    "10⁴ m²",
+    "10⁻⁴ m²"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 MPa necha Pa?",
+   "variantlar": [
+    "10⁻⁶ Pa",
+    "10³ Pa",
+    "10⁶ Pa",
+    "10⁹ Pa"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Prujina F = 4 N da 2 sm cho'zildi. k = ?",
+   "variantlar": [
+    "8 N/m",
+    "2 N/m",
+    "200 N/m",
+    "0,5 N/m"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "k = 400 N/m prujinani 3 sm cho'zish uchun kuch?",
+   "variantlar": [
+    "133 N",
+    "12 N",
+    "1,2 N",
+    "120 N"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "m = 0,5 kg yuk prujinani 5 sm cho'zdi (g = 10). k = ?",
+   "variantlar": [
+    "250 N/m",
+    "1 N/m",
+    "10 N/m",
+    "100 N/m"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sim: F = 200 N, S = 2 mm² = 2 · 10⁻⁶ m². σ = ?",
+   "variantlar": [
+    "10⁵ Pa",
+    "10¹⁰ Pa",
+    "10⁸ Pa",
+    "10⁷ Pa"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "σ = 10⁸ Pa, E = 2 · 10¹¹ Pa. ε = σ/E = ?",
+   "variantlar": [
+    "5 · 10⁻³",
+    "2 · 10⁻⁴",
+    "5 · 10⁻⁴",
+    "2 · 10³"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ε = 5 · 10⁻⁴, l₀ = 4 m. Δl = ?",
+   "variantlar": [
+    "0,2 mm",
+    "2 m",
+    "20 mm",
+    "2 mm"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki prujina parallel: k₁ = 100, k₂ = 300. k = ?",
+   "variantlar": [
+    "75 N/m",
+    "200 N/m",
+    "400 N/m",
+    "30 000 N/m"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki prujina ketma-ket: k₁ = 100, k₂ = 100. k = ?",
+   "variantlar": [
+    "100 N/m",
+    "50 N/m",
+    "200 N/m",
+    "10 000 N/m"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Prujinaning potensial energiyasi?",
+   "variantlar": [
+    "E_p = kΔl²/2",
+    "E_p = kΔl²",
+    "E_p = kΔl",
+    "E_p = k/Δl²"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "k = 200 N/m, Δl = 0,1 m. E_p = ?",
+   "variantlar": [
+    "2 J",
+    "20 J",
+    "1 J",
+    "0,1 J"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sim l₀ = 2 m, S = 0,5 mm², E = 10¹¹ Pa, F = 50 N. Δl = Fl₀/(SE) = ?",
+   "variantlar": [
+    "20 mm",
+    "0,2 mm",
+    "200 mm",
+    "2 mm"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sim 100 N ga chidaydi, σ_chegara = 4 · 10⁸ Pa. Eng kichik S?",
+   "variantlar": [
+    "0,25 mm²",
+    "0,025 mm²",
+    "2,5 mm²",
+    "25 mm²"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuk m = 100 kg (g = 10) osib qo'yilgan sim, xavfsizlik koeffitsiyenti 4, σ_chegara = 4 · 10⁸. S ≥ ?",
+   "variantlar": [
+    "0,1 mm²",
+    "100 mm²",
+    "1 mm²",
+    "10 mm²"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Prujinaga 2 kg yuk osilganda (g = 10) 4 sm cho'zildi. k = ?",
+   "variantlar": [
+    "5 N/m",
+    "5000 N/m",
+    "50 N/m",
+    "500 N/m"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqorida yana 1 kg qo'shilsa umumiy cho'zilish?",
+   "variantlar": [
+    "4 sm",
+    "12 sm",
+    "8 sm",
+    "6 sm"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Prujina bikrligi k = 300 N/m, 2 ta parallel, ketma-ket 1 ta 300 N/m. Umumiy k?",
+   "variantlar": [
+    "300 N/m",
+    "100 N/m",
+    "200 N/m",
+    "900 N/m"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "E = σ/ε. Po'lat σ = 2 · 10⁸, ε = 10⁻³. E = ?",
+   "variantlar": [
+    "2 · 10⁻¹¹ Pa",
+    "2 · 10¹⁴ Pa",
+    "2 · 10¹¹ Pa",
+    "2 · 10⁵ Pa"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uzunligi 2 marta ko'p simga bir xil kuch qo'yilsa Δl?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "4 marta ko'p",
+    "2 marta ko'p",
+    "2 marta kam"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kesim yuzi 2 marta katta simga bir xil kuch qo'yilsa Δl?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "4 marta kam",
+    "2 marta ko'p",
+    "2 marta kam"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki bir xil sim ketma-ket va parallel ulangan (yuk osilgan). Qaysi holatda uzayish kam?",
+   "variantlar": [
+    "Parallel",
+    "Ketma-ket",
+    "Aniqlab bo'lmaydi",
+    "Teng"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

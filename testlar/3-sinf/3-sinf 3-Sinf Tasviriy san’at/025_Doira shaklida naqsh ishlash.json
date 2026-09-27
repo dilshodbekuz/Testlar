@@ -59,12 +59,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Rasm qog'oz yuzasining qayerida belgilanishi kerak?",
+   "savol": "Doiraviy naqsh qog'ozning qayerida belgilanadi?",
    "variantlar": [
     "Faqat tepasida",
-    "Allaqachon belgilangan qayerda",
-    "Har doim o'ng tomonida",
-    "Faqat markazda"
+    "Markazda, doira qog'ozga to'liq sig'adigan qilib",
+    "Har doim o'ng burchakda",
+    "Chetida"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -128,7 +128,7 @@
    "savol": "Bosqichlarni noto'g'ri tartibda bajarsa nima bo'ladi?",
    "variantlar": [
     "Yanada yaxshi bo'ladi",
-    "Naqsh nokamtarlanadi va sifati tushadi",
+    "Naqsh buziladi va sifati tushadi",
     "Naqsh yaxshi bo'ladi",
     "Hech narsa o'zgarmasdi"
    ],
@@ -161,7 +161,7 @@
    "savol": "Tarh olish jarayonida naqsh qanday o'zgaradi?",
    "variantlar": [
     "Qog'ozga ko'chiriladi va aniqlanadi",
-    "Bezak gullari",
+    "Faqat bezak gullari o'zgaradi",
     "Faqat rang",
     "Hech o'zgarmasdi"
    ],
@@ -172,7 +172,7 @@
    "savol": "Qog'oz yuzasini belgilash nima uchun muhim?",
    "variantlar": [
     "Ranglarni tanlash",
-    "Chizmada faqat",
+    "Faqat chizmada",
     "Vaqt o'tkazish",
     "Kompozitsiya to'g'ri va muvozanatli bo'lishi"
    ],
@@ -184,14 +184,14 @@
    "variantlar": [
     "Faqat vaqt",
     "Kontrast ranglar va ko'rinishi",
-    "Siyoh rang",
-    "Biron narsa"
+    "Siyohrang",
+    "Hech narsa"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Tayyorliq bosqichlarini o'tkazsa nima tug'adi?",
+   "savol": "Tayyorlash bosqichlari o'tkazib yuborilsa, nima bo'ladi?",
    "variantlar": [
     "Yanada yaxshi",
     "Hech narsa",
@@ -205,7 +205,7 @@
    "savol": "Bezak gullarini aniqlash nima uchun zarur?",
    "variantlar": [
     "Vaqt o'tkazish",
-    "Naqsh tuzilishi va tasavvuri",
+    "Naqsh tuzilishini oldindan tasavvur qilish uchun",
     "Sabab yo'q",
     "Ornamental bilish"
    ],
@@ -213,12 +213,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Tarh olingan naqshni boshqa usul bilan ishlash mumkinmi?",
+   "savol": "Tarhi olingan naqshni nima bilan bo'yash mumkin?",
    "variantlar": [
-    "Guash yoki akvarel",
+    "Guash yoki akvarel bilan",
     "Mumkin emas",
     "Faqat qalam",
-    "Faqat qushiqla"
+    "Faqat suv bilan"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -270,29 +270,29 @@
   {
    "savol": "Kontrast ranglar bo'yashning qanday jihatlarini oshiradi?",
    "variantlar": [
-    "Tekshirish",
+    "Tekshirishni",
     "Faqat vaqt",
     "Hech qanday",
-    "Qismlarni ajratadi, ko'rinadi qiladi"
+    "Qismlarni ajratib, aniq ko'rsatadi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Qaysi bosqich eng muhim muammolarga sabab bo'ladi?",
+   "savol": "Doiraviy naqshda simmetriya o'qlari qayerdan o'tadi?",
    "variantlar": [
-    "Birinchi",
-    "Muhim emas",
-    "Uchinchi (tarh)",
-    "Ikkinchi"
+    "Doira markazidan",
+    "Faqat chetidan",
+    "Hech qayerdan",
+    "Burchakdan"
    ],
-   "togri": 2,
+   "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
    "savol": "Tuzilish, gullari tanlab, kontrast ranglar ishlatilsa natijaviy naqsh qanday bo'ladi?",
    "variantlar": [
-    "Nokamtarlanadi",
+    "Xira",
     "Faqat rangli",
     "Buziladi",
     "Tartibli va muvozanatli"
@@ -303,7 +303,7 @@
   {
    "savol": "Simmetriya aniqlangandan keyin nima qilish kerak?",
    "variantlar": [
-    "Amal qilmasdan",
+    "Hech narsa qilmaslik",
     "Markazdan teng bo'lib joylashtirish",
     "Faqat rang",
     "Hech narsa"

@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "27-§. Issiqlik dvigatellarining ishlash prinsipi",
+ "savollar": [
+  {
+   "savol": "Issiqlik dvigateli nima?",
+   "variantlar": [
+    "Lampa",
+    "Sovutgich",
+    "Yoqilg'i energiyasini mexanik ishga aylantiruvchi qurilma",
+    "Elektr generatori"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Issiqlik dvigatelining asosiy qismlari?",
+   "variantlar": [
+    "Faqat g'ildirak",
+    "Faqat silindr",
+    "Faqat porshen",
+    "Isitgich, ishchi jism, sovutgich"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Isitgich nima qiladi?",
+   "variantlar": [
+    "Sovutadi",
+    "Issiqlik oladi",
+    "Ish qiladi",
+    "Ishchi jismga issiqlik beradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sovutgich nima qiladi?",
+   "variantlar": [
+    "Issiqlik beradi",
+    "Ishchi jismdan issiqlik oladi",
+    "Ish qiladi",
+    "Isitadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishchi jism nima?",
+   "variantlar": [
+    "Faqat yog'",
+    "Faqat metall",
+    "Gaz yoki bug'",
+    "Faqat suv"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "FIK formulasi?",
+   "variantlar": [
+    "η = A/Q₁",
+    "η = Q₁/A",
+    "η = A · Q₁",
+    "η = A + Q₁"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "FIK ni foizda ifodalash uchun?",
+   "variantlar": [
+    "2 ga",
+    "1000 ga",
+    "10 ga",
+    "100 % ga ko'paytiriladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Q₁ nima?",
+   "variantlar": [
+    "Ichki energiya",
+    "Sovutgichga berilgan",
+    "Ish",
+    "Isitgichdan olingan issiqlik"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Q₂ nima?",
+   "variantlar": [
+    "Sovutgichga berilgan issiqlik",
+    "Massa",
+    "Isitgichdan olingan",
+    "Ish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Foydali ish A = ?",
+   "variantlar": [
+    "Q₁ · Q₂",
+    "Q₁ − Q₂",
+    "Q₁ / Q₂",
+    "Q₁ + Q₂"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Q₁ = 1000 J, Q₂ = 700 J. A = ?",
+   "variantlar": [
+    "0",
+    "700 J",
+    "300 J",
+    "1700 J"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Q₁ = 1000 J, Q₂ = 700 J. η = ?",
+   "variantlar": [
+    "3 %",
+    "70 %",
+    "30 %",
+    "100 %"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Q₁ = 500 J, A = 100 J. η = ?",
+   "variantlar": [
+    "500 %",
+    "20 %",
+    "80 %",
+    "5 %"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "η = 25 %, Q₁ = 2000 J. A = ?",
+   "variantlar": [
+    "500 J",
+    "8000 J",
+    "1500 J",
+    "25 J"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "η = 40 %, A = 800 J. Q₁ = ?",
+   "variantlar": [
+    "320 J",
+    "2000 J",
+    "800 J",
+    "1200 J"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bug' mashinasi (Uatt) qaysi jismdan foydalanadi?",
+   "variantlar": [
+    "Bug'",
+    "Yadro",
+    "Benzin",
+    "Elektr"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bug' turbinasi qayerda ishlatiladi?",
+   "variantlar": [
+    "Elektrostansiyalarda",
+    "Termometrda",
+    "Kompasda",
+    "Soatlarda"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Reaktiv dvigatel nimaga asoslangan?",
+   "variantlar": [
+    "Suv bosimiga",
+    "Magnitga",
+    "Gazlar oqimining reaktiv kuchiga",
+    "Elektrga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Issiqlik dvigateli FIK 100 % bo'lishi mumkinmi?",
+   "variantlar": [
+    "Ba'zan",
+    "Ha",
+    "Yo'q",
+    "Vakuumda"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Issiqlik dvigatelida ishchi jism isitgichdan Q₁ oladi, ish A bajaradi va Q₂ beradi. Energiya balansi?",
+   "variantlar": [
+    "Q₁ = A + Q₂",
+    "Q₂ = A",
+    "Q₁ = Q₂",
+    "Q₁ = A"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Karno FIK: T₁ = 727 °C, T₂ = 27 °C. η = ?",
+   "variantlar": [
+    "30 %",
+    "96 %",
+    "27 %",
+    "70 %"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Real dvigatel Q₁ = 5 kJ, Q₂ = 3 kJ. A va η?",
+   "variantlar": [
+    "A = 3 kJ, η = 60 %",
+    "A = 2 kJ, η = 40 %",
+    "A = 2 kJ, η = 60 %",
+    "A = 8 kJ, η = 60 %"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yoqilg'i massasi m = 1 kg (q = 4,6 · 10⁷ J/kg), FIK 30 %. Foydali ish?",
+   "variantlar": [
+    "1,5 · 10⁸ J",
+    "1,38 · 10⁶ J",
+    "4,6 · 10⁷ J",
+    "1,38 · 10⁷ J"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quvvat N = 20 kVt, FIK 25 %. 1 soatda sarflangan yoqilg'i (q = 4,6 · 10⁷ J/kg)?",
+   "variantlar": [
+    "≈ 63 kg",
+    "≈ 0,63 kg",
+    "≈ 1,6 kg",
+    "≈ 6,3 kg"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Avtomobil 100 km ga 8 kg benzin sarflaydi (q = 4,6 · 10⁷). Ajralgan Q?",
+   "variantlar": [
+    "3,68 · 10⁹ J",
+    "3,68 · 10⁸ J",
+    "5,75 · 10⁶ J",
+    "3,68 · 10⁷ J"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqorida FIK 25 % bo'lsa foydali ish?",
+   "variantlar": [
+    "3,68 · 10⁸ J",
+    "1,5 · 10⁹ J",
+    "9,2 · 10⁶ J",
+    "9,2 · 10⁷ J"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyoshdan issiqlik dvigateli uchun manba?",
+   "variantlar": [
+    "Quyosh nuri (isitgich)",
+    "Yadro",
+    "Ko'mir",
+    "Benzin"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "FIK ni oshirishning asosiy yo'li?",
+   "variantlar": [
+    "Hech qanday",
+    "T₁ ni oshirish, T₂ ni kamaytirish",
+    "T₁ ni kamaytirish",
+    "T₂ ni oshirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sovutgichning temperaturasi past bo'lishi qayerda qiyin?",
+   "variantlar": [
+    "Atmosfera (tashqi muhit) T₂ ≈ 300 K",
+    "Kosmos",
+    "Vakuum",
+    "Suv"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Issiqlik mashinasi ishlashi uchun nima shart?",
+   "variantlar": [
+    "Massa",
+    "Yoqilg'i faqat",
+    "Rang",
+    "Isitgich va sovutgich temperaturalari farqi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

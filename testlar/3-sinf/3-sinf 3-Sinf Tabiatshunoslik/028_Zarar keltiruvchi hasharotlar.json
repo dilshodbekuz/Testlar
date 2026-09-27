@@ -81,12 +81,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Karam kapalagi qurti karam barglarini qanday zararl shaklda quritadi?",
+   "savol": "Karam kapalagining qurti karamga qanday zarar yetkazadi?",
    "variantlar": [
-    "Yig'ib",
-    "Ilmateskhik qilib",
-    "Kemib",
-    "Butunlay yeb tugatib"
+    "Ildizini chiritadi",
+    "Barglarini teshib-teshib yeydi",
+    "Gulini changlaydi",
+    "Hech zarar qilmaydi"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -147,12 +147,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Buzoqboshi qaysi bosqichdan rivojlanishni boshlaydi?",
+   "savol": "Mart qo'ng'izining rivojlanish tartibi qanday?",
    "variantlar": [
-    "G'umbakdan",
-    "Qo'ng'iz tuxumlaridan",
-    "Kapalakdan",
-    "Qurtdan g'umbakka, keyin qo'ng'izga"
+    "Qo'ng'iz → tuxum → kapalak",
+    "G'umbak → tuxum → qurt",
+    "Qurt → kapalak → tuxum",
+    "Tuxum → qurt (buzoqboshi) → g'umbak → qo'ng'iz"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -169,12 +169,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Mart qo'ng'izining qurtlarini yo'q qilish uchun daraxtning tagi qanday bo'lishi kerak?",
+   "savol": "Mart qo'ng'izi qurtlarini yo'q qilish uchun daraxt tagi nima qilinadi?",
    "variantlar": [
-    "Fosfat bilan tashlab",
-    "Sayoz bilan chekilgan",
-    "Chuqur kovlangan",
-    "Yengil sumkada"
+    "Tuz sepiladi",
+    "Qor bilan yopiladi",
+    "Chuqur kovlanadi",
+    "Hech narsa qilinmaydi"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -182,10 +182,10 @@
   {
    "savol": "Kuzda qushlarning qo'ng'iz qurtlarini topib yeyishi nima uchun muhim?",
    "variantlar": [
-    "Qushlarni oziqlantiradigan uchun",
-    "Qushlarni saqlaydigan uchun",
-    "Bahoron ekinlariga zararliligi kamaytiradigan uchun",
-    "Yuvalari yasashiga yordam beradigan uchun"
+    "Faqat qushlar to'yishi uchun",
+    "Qushlar ko'payishi uchun",
+    "Bahorda ekinlarga zarari kamayadi",
+    "Qushlar uya qurishi uchun"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -216,7 +216,7 @@
    "savol": "Kuzda dalalar haydalganda qo'ng'iz qurtlari nima bo'lib qoladi?",
    "variantlar": [
     "Yer yuziga chiqib qoladi va qushlar tomonidan yeyiladi",
-    "Sudga chuqur kiradi",
+    "Suvga cho'kib ketadi",
     "Tuproq ichida qoladi",
     "Yangi tuxum qo'yadi"
    ],
@@ -224,25 +224,25 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Mart qo'ng'izini, buzoqboshini va qo'ng'izning zararini to'liq keltirib qolish uchun qaysi choralashlar birgalikda zarur?",
+   "savol": "Mart qo'ng'izi va buzoqboshining zararini kamaytirish uchun qanday choralar zarur?",
    "variantlar": [
-    "Daraxt tagi chuqur kovlanishi, qurtlar terib olinishi va qushlar ularni yeyishi",
-    "Faqat qushlarni mehribonlik qilish",
-    "Faqat sharoratlashish",
+    "Daraxt tagini chuqur kovlash, qurtlarni terib olish va qushlarni asrash",
+    "Faqat qushlarni boqish",
+    "Faqat sug'orish",
     "Faqat kimyoviy moddalar ishlatish"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Ko'sak qurtining g'o'za ko'saklarini kemib, keyin kapalakka aylanib oziqlanishni to'xtatishi nima uchun muhim?",
+   "savol": "Ko'sak qurti g'o'zaga qanday zarar yetkazadi?",
    "variantlar": [
-    "Ekinni kemroq zarar yetkaziladigan uchun",
-    "Kapalak foydali hasharot bo'lgani uchun",
-    "Qushlarni oziqlantiradigan uchun",
-    "Ko'sak zarar keltirmaydi uchun"
+    "Ildizini chiritadi",
+    "Ko'saklarini kemirib, hosilni kamaytiradi",
+    "Gullarini changlaydi",
+    "Zarar yetkazmaydi"
    ],
-   "togri": 0,
+   "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
@@ -257,25 +257,25 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Foydali hasharotlardan asalari, xonqizi qo'ng'izi va chumolilarning umumiy xususiyati nima?",
+   "savol": "Asalari, xonqizi qo'ng'izi va chumolilarning umumiy xususiyati nima?",
    "variantlar": [
     "Hammasi o'simliklarga zarar yetkazadi",
     "Hammasi faqat kuzda chiqadi",
     "Hammasi qo'ng'iz turidagi",
-    "Hammasi zarar keltiruvchi hasharotlarni yo'q qilishga yordam beradi"
+    "Hammasi foydali hasharotlar hisoblanadi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Mart qo'ng'izining to'liq rivojlanish siklida tuxumlardan buzoqboshi chiqishi rivojlanishning qaysi bosqichi?",
+   "savol": "Mart qo'ng'izining qurti qanday ataladi?",
    "variantlar": [
-    "O'rtacha bosqich",
-    "Birinchi bosqich",
-    "Oxirgi bosqich",
-    "Tuxumni qa'ta bo'lmagan bosqich"
+    "Buzoqboshi",
+    "Chigirtka",
+    "Xonqizi",
+    "Ko'sak qurti"
    ],
-   "togri": 1,
+   "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
@@ -306,7 +306,7 @@
     "Zararkunandalar ko'raydi, foydalilar uchadi",
     "Zararkunandalar o'simliklarga hujum qiladi, foydalilar o'simliklani himoya qiladi",
     "Zararkunandalari katta, foydalilar kichik",
-    "Zararkunandalar winter, foydalilar yay"
+    "Zararkunandalar qishda, foydalilar yozda yashaydi"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"

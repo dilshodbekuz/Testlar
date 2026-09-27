@@ -4,11 +4,11 @@
  "mavzu": "12–13-MAVZULAR: KITOB – BILIM MANBAYI",
  "savollar": [
   {
-   "savol": "Aziza va Fazilat kimning vazifasini bajarish uchun kutubxonaga kirdilar?",
+   "savol": "Aziza va Fazilat kutubxonaga nima maqsadda kirdilar?",
    "variantlar": [
     "Sayyoralar haqida ma'lumot to'plash",
     "Tibbiyot haqida o'yin o'ynash",
-    "Shayx haqida kitob o'qish",
+    "Ertak kitobini o'qish",
     "Tarix kitobini o'qish"
    ],
    "togri": 0,
@@ -37,22 +37,22 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Priss papirusi qachon topilgan?",
+   "savol": "Qadimgi Misrda topilgan eng qadimgi kitoblardan biri qanday ataladi?",
    "variantlar": [
-    "1639-yili",
-    "1739-yili",
-    "1939-yili",
-    "1839-yili"
+    "Priss papirusi",
+    "Avesto",
+    "Boburnoma",
+    "Qutadg'u bilig"
    ],
-   "togri": 3,
+   "togri": 0,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Qur'oni karim qayda saqlanadi?",
+   "savol": "Qur'oni karimning qadimiy nusxasi (Usmon Mushafi) qayerda saqlanadi?",
    "variantlar": [
     "Mo'yi Muborak madrasasi kutubxona-muzeyida",
     "Buxoro kutubxonasida",
-    "Kokand muzeyida",
+    "Qo'qon muzeyida",
     "Samarqand madrasasida"
    ],
    "togri": 0,
@@ -72,9 +72,9 @@
   {
    "savol": "\"Avesto\" nima?",
    "variantlar": [
-    "Mamlakatimiz hududidagi eng qadimgy yozma manba",
+    "Mamlakatimiz hududidagi eng qadimgi yozma manba",
     "Faron haqida hikoya",
-    "Hududi qadimgi shayx",
+    "Qadimiy shahar nomi",
     "Qadimiy arab kitob"
    ],
    "togri": 0,
@@ -85,7 +85,7 @@
    "variantlar": [
     "Kitobni qayta qo'ydi",
     "Kitobning kerakli sahifasini yirtib oldi",
-    "Kitobni tuzing qilib qo'ydi",
+    "Kitobni tozalab qo'ydi",
     "Kitobni qayta o'qidi"
    ],
    "togri": 1,
@@ -97,7 +97,7 @@
     "Yugurish qobiliyati",
     "Ovqat yeyish qobiliyati",
     "Xotira va fikrlash qobiliyati",
-    "Poyabzal yilish qobiliyati"
+    "Poyabzal tikish qobiliyati"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -114,10 +114,10 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Nima uchun kutubxonachi qizlarning kitobni olib qo'ydi?",
+   "savol": "Nima uchun kutubxonachi qizlardan kitobni olib qo'ydi?",
    "variantlar": [
     "Shovqin qilgani va kutubxona odobini bilmagani",
-    "Kutubxonani yomonlashtirgan",
+    "Kutubxonachi charchagan edi",
     "Kitob juda qimmat edi",
     "Kitob buzilgan edi"
    ],
@@ -130,18 +130,18 @@
     "Kutubxonachiga yordam berish",
     "Kitobni saqlash",
     "Shovqin qilmaslik va boshqalarga xalaqit bermaslik",
-    "Bariklarlanib o'tirish"
+    "Baqirib o'tirish"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Fazilat Azizaning yengidan nima uchun tortib ani eshik tomon yetakladi?",
+   "savol": "Fazilat nima uchun Azizaning yengidan tortib eshik tomon yetakladi?",
    "variantlar": [
-    "Jim, uyat bo'ladi, ustozziga shikoyat qiladilar deb",
+    "Uyat bo'ladi, ustozimizga shikoyat qilishadi deb",
     "Kitob yo'q edi",
-    "Aziza charchalgan edi",
-    "Kutubxonachiga tutar edi"
+    "Aziza charchagan edi",
+    "Kutubxonachi chaqirdi"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -162,7 +162,7 @@
    "variantlar": [
     "Oshiradi",
     "O'zgarishmaydi",
-    "Tez oshira boshlaydi",
+    "Faqat eski so'zlarni qoldiradi",
     "Kamaytiradi"
    ],
    "togri": 0,
@@ -185,7 +185,7 @@
     "Kutubxoningizga boshqa kelmaymiz, kitoblaringiz ham kerak emas",
     "Xafa emasmiz",
     "Sizni sevamiz",
-    "Ertaga qaytib kellik"
+    "Ertaga qaytib kelamiz"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -195,7 +195,7 @@
    "variantlar": [
     "Kitoblar suv kabi",
     "Kitoblar juda qimmat",
-    "Kitob orqali bilim saqlash va rivojlanadi",
+    "Kitob bilimning manbayi",
     "Kitoblar yashash joydir"
    ],
    "togri": 2,
@@ -228,19 +228,19 @@
    "variantlar": [
     "Kitob yangi bo'ladi",
     "Hech narsaga ta'sir etmaydi",
-    "Boshqa o'quvchilarga ta'limning negiy oqibatlari yuzaga keladi",
+    "Boshqa o'quvchilarning ta'lim olishiga salbiy oqibat yetkazadi",
     "Kutubxonachi kuchli bo'ladi"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Agar siz Aziza bo'lsangiz, o'z xatohingizni qanday to'g'rilagan bo'lar edingiz?",
+   "savol": "Agar siz Aziza bo'lsangiz, xatoingizni qanday tuzatgan bo'lardingiz?",
    "variantlar": [
-    "Xafa bo'lib ketib borgan bo'lar edingiz",
-    "Kutubxonachiga samimiy kechirasiz so'rang bo'lar edingiz",
-    "Boshqa kutubxonaga borgan bo'lar edingiz",
-    "O'mirbod unutgan bo'lar edingiz"
+    "Xafa bo'lib ketib qolgan bo'lardim",
+    "Kutubxonachidan samimiy kechirim so'ragan bo'lardim",
+    "Boshqa kutubxonaga borgan bo'lardim",
+    "Hammasini unutgan bo'lardim"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -248,8 +248,8 @@
   {
    "savol": "\"Kitobga qanday munosabatda bo'lish kerak?\" savoli bilan \"Kitob – bilim qayrog'i\" iborasi qanday bog'lanadi?",
    "variantlar": [
-    "Kitobga hazoq bo'lish kerak",
-    "Kitobga e'zozlar bo'lish kerak, chunki u bilimning manbayi",
+    "Kitobga befarq bo'lish kerak",
+    "Kitobni e'zozlash kerak, chunki u bilim manbayi",
     "Kitob ahamiyatli emas",
     "Ular bog'lanmagan"
    ],
@@ -272,30 +272,30 @@
    "variantlar": [
     "Ayni ko'rinishda qolgan",
     "Har xil o'zgargan",
-    "Xofadan quvonchga o'tgan",
-    "Quvonch va hayajondan xafa va shamandagi holatga o'tgan"
+    "Xafalikdan quvonchga",
+    "Quvonch va hayajondan xafalik va uyatga"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Agar kutubxonachi qizlarni gaddaronacha aytmaganda, samimiy o'rgatib turgan bo'lsa, nima bo'lgan bo'lardi?",
+   "savol": "Agar kutubxonachi qizlarga qo'pol gapirmay, samimiy tushuntirganida nima bo'lardi?",
    "variantlar": [
-    "Kitob kattalaşgan bo'lardi",
+    "Qizlar yana shovqin qilardi",
     "Qizlar kutubxona odobini o'rganib, kundalik hayotida qo'llagan bo'lardi",
     "Kutubxonachi xafa bo'lardi",
-    "Xafa bo'lardi"
+    "Hech narsa o'zgarmasdi"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "\"Kitobni aql bilan kirmoq lozim\" degan fikr qanday ma'noni anglantiradi?",
+   "savol": "\"Kitobni aql bilan o'qimoq lozim\" degan fikr qanday ma'noni anglatadi?",
    "variantlar": [
     "Kitobni fotokopiya qilish",
     "Kitobni sotib olish",
     "Kitobni o'qishda o'yla-tafakkur va chuqur tushunch bilan yondashuv",
-    "Kitobni yumshroq ushlab o'qish"
+    "Kitobni yumshoqroq ushlab o'qish"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -305,21 +305,21 @@
    "variantlar": [
     "Kitoblar shaharlar uchun",
     "Kitoblar faqat o'zbek tilida",
-    "Kitoblar noqlasi",
-    "Insoniyat davri boshi kitob orqali bilimni saqlanib va rivojlanib kelgan"
+    "Kitoblar keraksiz",
+    "Insoniyat qadimdan kitob orqali bilimni saqlab va rivojlantirib kelgan"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Aziza va Fazilat kutubxonaning odobiyatini bilmasligining asosiy sababi qanday bo'lishi mumkin?",
+   "savol": "Kutubxonada o'zini qanday tutish kerak?",
    "variantlar": [
-    "Ularni hech kim o'rgatmadi",
-    "Kitobda yozilgan",
-    "Ular kichik edi",
-    "Kutubxonachi o'rgatmadi"
+    "Baland ovozda gaplashish",
+    "Kitob sahifalarini yirtib olish",
+    "Jim o'tirib, boshqalarga xalaqit bermaslik",
+    "Kitoblarni ruxsatsiz uyga olib ketish"
    ],
-   "togri": 0,
+   "togri": 2,
    "qiyinlik": "qiyin"
   },
   {

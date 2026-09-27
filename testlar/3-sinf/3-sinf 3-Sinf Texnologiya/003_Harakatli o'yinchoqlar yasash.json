@@ -7,15 +7,15 @@
    "savol": "Harakatli o'yinchoqlar yasashda qaysi material ishlatiladi?",
    "variantlar": [
     "Yaproq",
-    "Kartona",
-    "Loha",
+    "Karton",
+    "Temir",
     "Plastmassa"
    ],
    "togri": 1,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Ayiqcha modeli qanday hayvon?",
+   "savol": "Ayiqcha modeli nechta oyoqli?",
    "variantlar": [
     "Ikki oyoqli",
     "Uch oyoqli",
@@ -30,7 +30,7 @@
    "variantlar": [
     "Tugma",
     "Qalam",
-    "Rangulik",
+    "Bo'yoq",
     "Skotch"
    ],
    "togri": 1,
@@ -48,10 +48,10 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Biriktirilish nuqtalarini belgigach keyingi bosqich nima?",
+   "savol": "Biriktirish nuqtalari belgilangach, keyingi bosqich nima?",
    "variantlar": [
-    "Chizilgan o'rnatish",
-    "Rangitish",
+    "Qayta chizish",
+    "Bo'yash",
     "Teshib olish",
     "Darhol biriktirilish"
    ],
@@ -72,7 +72,7 @@
   {
    "savol": "Applikatsiya usuli nima?",
    "variantlar": [
-    "Kesib olgan qismlarni biriktirilishi",
+    "Qirqib olingan qismlarni asosga yopishtirish",
     "Rangitish usuli",
     "Chizish jarayoni",
     "Teshib olish jarayoni"
@@ -85,7 +85,7 @@
    "variantlar": [
     "Rezinadan",
     "Faqat chizish usulida",
-    "Lohasidan",
+    "Temirdan",
     "Applikatsiya usulida"
    ],
    "togri": 3,
@@ -117,7 +117,7 @@
    "savol": "Kartonga qismlarni chizishdan so'ng qaysi bosqich kelib turadi?",
    "variantlar": [
     "Darhol biriktirilish",
-    "Belgilan",
+    "Belgilash",
     "Rangitish",
     "Qirib olish"
    ],
@@ -127,7 +127,7 @@
   {
    "savol": "Qismlarni qirib olishda nima kuzatilishi muhim?",
    "variantlar": [
-    "Shadga qilib qirib olish",
+    "Chiziqdan tashqaridan qirqish",
     "Chiziqdan siljimay qirib olish",
     "Eng tez qirib olish",
     "Istalgan tartibda qirib olish"
@@ -136,7 +136,7 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Biriktirilish nuqtalarini belgilan deganda qanday olinadi?",
+   "savol": "Biriktirish nuqtalarini belgilash nima?",
    "variantlar": [
     "Qismlarning biriktirilish joyini ko'rsatadigan belgisi qo'yish",
     "Rangulik bilan chizish",
@@ -171,7 +171,7 @@
   {
    "savol": "Teshib olish jarayonida nima kuzatilishi muhim?",
    "variantlar": [
-    "Eng chuq teshib olish",
+    "Juda katta teshik ochish",
     "Barcha joyni teshib olish",
     "Shakli to'g'ri saqlash",
     "Istalgan joyni teshib olish"
@@ -216,7 +216,7 @@
    "savol": "Agar qismlarni chizishda xato bo'lsa, nima qilish kerak?",
    "variantlar": [
     "Rangitishni davom ettirish",
-    "O'zini o'rnatib qayta chizish",
+    "O'chirib, qayta chizish",
     "Skotch bilan yopish",
     "Darhol qirib olish"
    ],
@@ -282,7 +282,7 @@
    "savol": "Mustaqil yasashda bolaning o'z imkoniyatini sinab ko'rishi nima uchun muhim?",
    "variantlar": [
     "Bilim va ko'nikmalarini kuchaytirish va yangi narsalarni o'rganish uchun",
-    "Boshqalarni bezunud qilish uchun",
+    "Boshqalarni bezovta qilish uchun",
     "Faqat vaqtni o'tkazish uchun",
     "Faqat o'qituvchini qoniqtirish uchun"
    ],
@@ -306,7 +306,7 @@
     "O'yinchoqlarni sotish uchun",
     "Faqat chiroyli buyum qilish",
     "Faqat vaqtni o'tkazish",
-    "Bolarning qo'liy ko'nikmasi va ijodiy fikrlashni rivojlantirish"
+    "Bolalarning qo'l mehnati ko'nikmasi va ijodiy fikrlashini rivojlantirish"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -328,7 +328,7 @@
     "Bog'lanib ishlash, maslahat berish va olish, xavfsizlik bilan ishlash ko'nikmalarini",
     "Faqat chizish",
     "Faqat imzodni chizish",
-    "Faqat tez ish qilish"
+    "Faqat imzo chizish"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"

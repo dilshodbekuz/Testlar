@@ -6,7 +6,7 @@
   {
    "savol": "Temir qora yoki rangli metall?",
    "variantlar": [
-    "Yumshoq metall",
+    "Og'ir metall",
     "Suyuq metall",
     "Rangli metall",
     "Qora metall"
@@ -86,7 +86,7 @@
     "Yumshoq material",
     "Quyosh nuri",
     "Toza metall",
-    "Temir va boshqa moddalari aralashgan qotishma"
+    "Tarkibida metall bo'lgan tog' jinsi (tosh)"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -97,7 +97,7 @@
     "Ayrilgan holda",
     "Gazsimon holda",
     "Suyuq holda",
-    "Qotishma holda, tosh shaklida"
+    "Boshqa moddalar bilan aralashgan tosh holida"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -116,9 +116,9 @@
   {
    "savol": "Temirtosh rudalaridan temir qanday olinadi?",
    "variantlar": [
-    "Shuv yordamida chiqariladi",
-    "Toza suvda eritiladigan",
-    "Barcha ko'nda o'z-o'zidan",
+    "Suv bilan yuvib",
+    "Muzlatib",
+    "O'z-o'zidan ajraladi",
     "Maxsus pechlarda eritib olinadi"
    ],
    "togri": 3,
@@ -149,7 +149,7 @@
   {
    "savol": "Rangli metallar qora metall rudalaridan qanday farq qiladi?",
    "variantlar": [
-    "Ranglari boshqacha",
+    "Ular og'irroq",
     "Juda qiyin materiallar",
     "Ulardan mashina yasaladi",
     "Ruda tarkibida juda oz miqdorda bo'ladi"
@@ -163,7 +163,7 @@
     "Gazsimon holda",
     "Faqat yumshoq metallar",
     "Toza metall",
-    "Boshqa moddalari bilan aralashgan qotishma holatida"
+    "Boshqa moddalar bilan aralashgan holda (ruda)"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -218,7 +218,7 @@
     "Faqat aluminiydan",
     "Mis va aluminiydan",
     "Temirdan",
-    "Faqat mis"
+    "Faqat misdan"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -227,7 +227,7 @@
    "savol": "Temirtosh rudalaridan temir olish jarayonining bosqichlari qanday?",
    "variantlar": [
     "Maxsus pechlarda eritib, turli buyumlar va mexanizm qismlari quyiladi",
-    "Sutun qo'yish",
+    "Ustun qo'yish",
     "Faqat eritish",
     "Faqat qo'l bilan chiqarish"
    ],
@@ -251,7 +251,7 @@
     "Chunki ular qora metallar emas",
     "Chunki ular eng qattiq metallar",
     "Chunki ular eng katta metallar",
-    "Chunki ularning rangi boshqacha va tabiatda retro bo'ladi"
+    "Chunki tabiatda juda kam uchraydi va ajratib olish qiyin"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -292,7 +292,7 @@
   {
    "savol": "Temirtosh rudalaridan temir eritib olingandan keyingi bosqich nima?",
    "variantlar": [
-    "Sot bilan ishlanadi",
+    "Sotib yuboriladi",
     "Turli buyumlar, mashina qismlari quyiladi",
     "Boshqa metallarga aylantirilib yuboriladi",
     "Yana eritiladi"
@@ -304,8 +304,8 @@
    "savol": "Oltin va kumush zarralari tabiatda qay joylarda topiladi?",
    "variantlar": [
     "Qum zarrlari orasida ham, rudalar tarkibida ham",
-    "Faqat barikamol ko'nda",
-    "Faqat ko'n derinligida",
+    "Faqat tog' cho'qqisida",
+    "Faqat chuqur quduqlarda",
     "Faqat qum zarrlari orasida"
    ],
    "togri": 0,

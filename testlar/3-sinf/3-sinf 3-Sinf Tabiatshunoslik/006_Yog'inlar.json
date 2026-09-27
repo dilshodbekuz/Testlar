@@ -17,10 +17,10 @@
   {
    "savol": "Bulutlar qanday hosil bo'ladi?",
    "variantlar": [
-    "havodan",
+    "tuproqdan",
     "shamoldan",
     "suv tomchilari yig'ilib",
-    "osmonda"
+    "tutundan"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -42,7 +42,7 @@
     "suv tomchilari",
     "shamol",
     "bug'",
-    "muz zarrach"
+    "muz zarrachalari"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -72,9 +72,9 @@
   {
    "savol": "Qor uchqunlari qanday paydo bo'ladi?",
    "variantlar": [
-    "bulutdan to'shib",
+    "bulutdan tushib",
     "shamoldan",
-    "muz zarrach birikib",
+    "muz zarrachalari birikib",
     "suv tomchilari birlashib"
    ],
    "togri": 2,
@@ -94,10 +94,10 @@
   {
    "savol": "Do'l ekinlarni qanday zarar yetkazadi?",
    "variantlar": [
-    "qoraydi",
-    "suya chorlaydi",
+    "suv beradi",
+    "o'g'itlaydi",
     "o'stiradi",
-    "payhon qiladi"
+    "payhon qiladi (sindirib, ezib yuboradi)"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -125,12 +125,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Suv bug'lari osmonda qanday harakatlanadi?",
+   "savol": "Bulutlar osmonda qanday harakatlanadi?",
    "variantlar": [
-    "qiyalib tushadi",
+    "pastga tushadi",
     "qorayib ketadi",
     "shamol haydaydi",
-    "issiq bunga"
+    "o'z-o'zidan eriydi"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -149,7 +149,7 @@
   {
    "savol": "Yer osti suvlari qayerga qo'shiladi?",
    "variantlar": [
-    "ko'lga",
+    "osmonga",
     "irmoqqa",
     "okeaniga",
     "daryoga"
@@ -158,12 +158,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Tog'larga qo'y vaqti qanday qor yog'adi?",
+   "savol": "Tog'larga qishda qanday qor yog'adi?",
    "variantlar": [
-    "oq",
-    "nozik",
+    "qizil",
+    "issiq",
     "qalin",
-    "sezilarli"
+    "suyuq"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -193,7 +193,7 @@
   {
    "savol": "Yomg'ir va qor suvlari qayga quyiladi?",
    "variantlar": [
-    "ko'lga",
+    "osmonga",
     "daryoga",
     "bogga",
     "dalaga"
@@ -207,7 +207,7 @@
     "ko'lga",
     "quyiga",
     "kanalga",
-    "dengiz va okeanlarni"
+    "dengiz va okeanlarga"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -215,8 +215,8 @@
   {
    "savol": "Suv bug'lanish jarayonida suv qayga ko'tariladi?",
    "variantlar": [
-    "bulutga",
-    "havasimon qatlamga",
+    "yer ostiga",
+    "tuproqqa",
     "tog'ga",
     "osmonga"
    ],
@@ -259,7 +259,7 @@
   {
    "savol": "Agar shamol bulutlarni quruqlikka haydab kelmasa, yomg'ir qayerga yog'ar edi?",
    "variantlar": [
-    "hech joylarga emas",
+    "hech qayerga",
     "tog'ga",
     "kanalga",
     "dengizga"
@@ -268,12 +268,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Suv bug'larining birikib bulutlarni hosil qilishi va qaylab tushib yomg'ir bo'lishi o'rtasida qanday jarayonlar yuz beradi?",
+   "savol": "Bulutlardagi suv tomchilari yog'inga aylanishi uchun avval qanday jarayon sodir bo'lishi kerak?",
    "variantlar": [
-    "a va b to'g'ri",
-    "faqat harorat o'zgaradi",
-    "shamol uflaydi va bulutlar haydanadi",
-    "harorat o'zgaradi va bosim o'zgaradi"
+    "Suv bug'lari sovib, kichik tomchilarga aylanishi kerak",
+    "Faqat harorat ko'tarilishi kerak",
+    "Shamol kuchli esishi kerak",
+    "Faqat bosim oshishi kerak"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -292,7 +292,7 @@
   {
    "savol": "Tog'lardagi qor eriy bo'lib irmoq hosil qilishi, irmoq daryoga qo'shilishi va daryo suvi dengizga quyilishi - bu nima?",
    "variantlar": [
-    "takroriy aylanish jarayonidir",
+    "suvning tabiatda aylanishining bir qismi",
     "suvning tugatilmagani",
     "bitta marta sodir bo'ladigan jarayon",
     "faqat qishda sodir bo'ladigan jarayon"
@@ -303,12 +303,12 @@
   {
    "savol": "Tabiatda suvning aylanishi davomida tog'lardan qor suvi eriy bo'lib irmoqlarga aylanishi jarayoni qaysi qadamdir?",
    "variantlar": [
-    "yakuniy qadamdir",
-    "o'rtacha qadamdir",
-    "suvning aylanishi to'xtaydi",
-    "boshlang'ich qadamdir"
+    "oxirgi qadam",
+    "o'rtadagi qadamlardan biri",
+    "suvning aylanishi to'xtaydigan qadam",
+    "eng birinchi qadam"
    ],
-   "togri": 3,
+   "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
@@ -327,8 +327,8 @@
    "variantlar": [
     "ikkisi ham suvga aylanyapti",
     "ikkisi ham qorga aylanyapti",
-    "ikkisi ham moddalar birlashib hosil bo'ladi",
-    "ikkisi ham havoda paydo bo'ladi"
+    "ikkisi ham bulutdagi zarrachalar birlashib hosil bo'ladi",
+    "ikkisi ham yer ostida paydo bo'ladi"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"

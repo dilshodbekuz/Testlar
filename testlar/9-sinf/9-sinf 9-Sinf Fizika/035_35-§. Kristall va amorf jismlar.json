@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "35-§. Kristall va amorf jismlar",
+ "savollar": [
+  {
+   "savol": "Kristall jism nima?",
+   "variantlar": [
+    "Suyuq",
+    "Zarralari tartibli joylashgan (kristall panjara) qattiq jism",
+    "Gaz",
+    "Zarralari tartibsiz"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Amorf jism nima?",
+   "variantlar": [
+    "Tartibli",
+    "Zarralari tartibsiz joylashgan qattiq jism",
+    "Gaz",
+    "Suyuq"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kristallga misol?",
+   "variantlar": [
+    "Shisha",
+    "Plastmassa",
+    "Smola",
+    "Osh tuzi, olmos, kvarts"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Amorf jismga misol?",
+   "variantlar": [
+    "Shisha, smola, plastmassa",
+    "Kvarts",
+    "Tuz",
+    "Olmos"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kristall panjara nima?",
+   "variantlar": [
+    "Tartibsizlik",
+    "Suyuqlik",
+    "Zarralar (atom, ion, molekula) joylashishining fazoviy tartibi",
+    "Gaz"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kristallning aniq erish temperaturasi bormi?",
+   "variantlar": [
+    "Yo'q",
+    "Hech qachon",
+    "Ha",
+    "Ba'zan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Amorf jismning aniq erish temperaturasi bormi?",
+   "variantlar": [
+    "Yo'q",
+    "Ha",
+    "Doim",
+    "Ba'zan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Monokristall nima?",
+   "variantlar": [
+    "Suyuq",
+    "Yagona kristall",
+    "Ko'p kristallar",
+    "Amorf"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Polikristall nima?",
+   "variantlar": [
+    "Amorf",
+    "Ko'p mayda kristallarning yig'indisi",
+    "Gaz",
+    "Bitta kristall"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Anizotropiya nima?",
+   "variantlar": [
+    "Massa",
+    "Bog'liq emasligi",
+    "Xossalarning yo'nalishga bog'liqligi",
+    "Hajm"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kristallarda anizotropiya bormi?",
+   "variantlar": [
+    "Yo'q",
+    "Monokristallarda bor",
+    "Gazda bor",
+    "Amorfda bor"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Amorf jismlar izotrop. Bu nimani bildiradi?",
+   "variantlar": [
+    "Kristall",
+    "Xossalari yo'nalishga bog'liq emas",
+    "Anizotrop",
+    "Bog'liq"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Olmos va grafit ikkalasi uglerod. Farqi?",
+   "variantlar": [
+    "Massa",
+    "Rang faqat",
+    "Kristall panjara turli",
+    "Hech"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kristallanish nima?",
+   "variantlar": [
+    "Suyuqlikdan kristall hosil bo'lishi",
+    "Bug'lanish",
+    "Qaynash",
+    "Erish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qor parchasi shakli?",
+   "variantlar": [
+    "Kvadrat",
+    "Olti burchakli (kristall)",
+    "Uchburchak",
+    "Aylana"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tuz eritmasidan tuz kristallari hosil bo'ladi. Qanday jarayon?",
+   "variantlar": [
+    "Kristallanish",
+    "Sovish",
+    "Erish",
+    "Qaynash"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shisha qizdirilganda?",
+   "variantlar": [
+    "Ma'lum t da eriydi",
+    "Yonadi",
+    "Bug'lanadi",
+    "Asta-sekin yumshaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kristall qizdirilganda erishdan oldin?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Nol",
+    "Temperatura ortadi, erish t da doimiy qoladi",
+    "Kamayadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qattiq jismlar nechta asosiy turga bo'linadi?",
+   "variantlar": [
+    "1",
+    "2 (kristall va amorf)",
+    "4",
+    "3"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Metallar qanday tuzilishga ega?",
+   "variantlar": [
+    "Gaz",
+    "Polikristall",
+    "Suyuq",
+    "Amorf"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun mikada qatlamlari bo'yicha oson ajraladi?",
+   "variantlar": [
+    "Izotropiya",
+    "Anizotropiya",
+    "Amorflik",
+    "Suyuqlik"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Polikristall izotrop ko'rinadi. Sababi?",
+   "variantlar": [
+    "Bir kristall",
+    "Suyuq",
+    "Amorf",
+    "Mayda kristallar turli yo'nalishda joylashgan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Olmos qattiq, grafit yumshoq. Sababi?",
+   "variantlar": [
+    "Panjara tuzilishi",
+    "Massa",
+    "Kimyoviy tarkib",
+    "Rang"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Shisha suyuqlik hisoblanadi (o'ta sovutilgan). Sabab?",
+   "variantlar": [
+    "Zarralar tartibsiz",
+    "Kristall",
+    "Tartibli",
+    "Gaz"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kristall panjaradagi zarralar qanday harakatlanadi?",
+   "variantlar": [
+    "Aylanadi",
+    "Erkin harakat",
+    "Tinch",
+    "Muvozanat vaziyati atrofida tebranadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Temperatura ortsa tebranish amplitudasi?",
+   "variantlar": [
+    "Kamayadi",
+    "O'zgarmaydi",
+    "Ortadi",
+    "Nol"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Panjara buzilishi (erish) qachon sodir bo'ladi?",
+   "variantlar": [
+    "Massa ortganda",
+    "Hech qachon",
+    "Tebranishlar juda kuchayganda",
+    "Sovutilganda"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Suyuq kristallar nima?",
+   "variantlar": [
+    "Gaz",
+    "Suyuqlik va kristall xossali modda",
+    "Shisha",
+    "Muz"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rentgen nurlari kristallni o'rganishda nima uchun ishlatiladi?",
+   "variantlar": [
+    "Sovutish",
+    "Yoritish",
+    "Isitish",
+    "Panjara tuzilishini aniqlash"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Noyob kristall qanday olinadi?",
+   "variantlar": [
+    "Hech qanday",
+    "Aralashtirib",
+    "Eritmadan yoki eritmadan sekin kristallantirib",
+    "Tez sovutib"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

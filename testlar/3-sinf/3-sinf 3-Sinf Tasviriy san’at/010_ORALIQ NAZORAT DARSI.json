@@ -28,8 +28,8 @@
   {
    "savol": "Naqshning bezagi nima?",
    "variantlar": [
-    "Naqshni bezashtiradigan tasvir yoki o'rnatma",
-    "Naqshning asosiy g'afosi",
+    "Naqshni bezaydigan tasvir",
+    "Naqshning asosiy g'oyasi",
     "Naqshning foni",
     "Naqshning chegarasi"
    ],
@@ -42,7 +42,7 @@
     "Faqat rang o'zgarishi",
     "Faqat qora chiziqlar",
     "Tekis tasvirlanish",
-    "Teksizlikning va chuqurlikning tasvirlanishi"
+    "Tekis sirtdan bo'rtib chiqqan tasvir"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -61,7 +61,7 @@
   {
    "savol": "Qizil va ko'k ranglar kontrast ranglarmi?",
    "variantlar": [
-    "Faqat svetlotada kontrast",
+    "Faqat yorug'da kontrast",
     "Ha, ular kontrast ranglardir",
     "Yo'q, ular o'xshashdir",
     "Faqat soyada kontrast"
@@ -75,7 +75,7 @@
     "Ha, ular kontrast ranglardir",
     "Yo'q, ular o'xshashdir",
     "Faqat issiq muhitda kontrast",
-    "Faqat erkaklarning o'ziga kontrast"
+    "Faqat qorong'ida kontrast"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -84,7 +84,7 @@
    "savol": "Naqshning foni nima?",
    "variantlar": [
     "Naqshning rang o'zgarishi",
-    "Naqshning asosiy, foniy tasviri",
+    "Naqshning asosi (orqa qismi)",
     "Naqshning chegarasi",
     "Naqshning bezagi"
    ],
@@ -96,7 +96,7 @@
    "variantlar": [
     "Yo'q, ular o'xshashdir",
     "Ha, ular kontrast ranglardir",
-    "Faqat svetlotada kontrast",
+    "Faqat yorug'da kontrast",
     "Faqat soyada kontrast"
    ],
    "togri": 1,
@@ -105,7 +105,7 @@
   {
    "savol": "Zarg'aldoq va ko'k ranglar kontrast ranglarmi?",
    "variantlar": [
-    "Faqat svetlotada kontrast",
+    "Faqat yorug'da kontrast",
     "Faqat soyada kontrast",
     "Yo'q, ular o'xshashdir",
     "Ha, ular kontrast ranglardir"
@@ -128,7 +128,7 @@
    "savol": "Naqshda kontrastni ta'minlash uchun qanday qilish kerak?",
    "variantlar": [
     "Kontrast ranglarini tanlash va qo'llash",
-    "Rasm chizmash, tushuntirish bilan basarilish",
+    "Faqat chizib tushuntirish",
     "Faqat qora chiziqlar ishlatish",
     "Faqat bir rang ishlatish"
    ],
@@ -185,7 +185,7 @@
     "Naqsh juda yaxshi ko'rinadi",
     "Naqsh rang o'zgaradi",
     "Naqsh aniq bo'ladi",
-    "Naqsh ochiq ko'rinadi va bezak ko'rish qiyin bo'ladi"
+    "Naqsh xira ko'rinadi va bezakni ko'rish qiyin bo'ladi"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -215,8 +215,8 @@
   {
    "savol": "Naqshlarda rangning asosiy roli nima?",
    "variantlar": [
-    "Chiziqlarni qoraqalinglash",
-    "Faqat qog'ozni bezashtirilish",
+    "Chiziqlarni qalinlashtirish",
+    "Faqat qog'ozni bezash",
     "Naqshning kattaligi",
     "Naqshni ko'rinishli qilish va tasavvurni takomillashtirish"
    ],
@@ -237,7 +237,7 @@
   {
    "savol": "Hosil bayrami mavzusida naqsha yaratishda qanday ranglarni ishlatish kerak?",
    "variantlar": [
-    "Faqat muz ranglar",
+    "Faqat sovuq ranglar",
     "Faqat ko'k ranglar",
     "Hosil mahsulotlarining tabii ranglari va kontrast ranglar",
     "Faqat oq va qora"
@@ -250,7 +250,7 @@
    "variantlar": [
     "Relyefda rang kerak emas",
     "Ikkisida ham ayni bir xil",
-    "Relyefda teksizlik va chuqurlik ko'rinadi, rasmda esa rang kontrast beradi",
+    "Relyefda bo'rtiq va chuqurlik ko'rinadi, rasmda esa rang kontrast beradi",
     "Relyefda faqat chiziqlar, rasmda faqat ranglar"
    ],
    "togri": 2,
@@ -305,8 +305,8 @@
    "variantlar": [
     "Naqsh chop etilmaydi",
     "Naqsh rangli bo'lmaydi",
-    "Naqsh yog'iga tushmaydi",
-    "Ko'z juda charchaydi va naqsh noxira bo'lib ko'rinadi"
+    "Naqsh yirtiladi",
+    "Ko'z charchaydi va naqsh ola-bula ko'rinadi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -326,9 +326,9 @@
    "savol": "Agar naqshning mazmuni va ranglar mos kelmasa, bu naqshning qanday ta'siriga olib keladi?",
    "variantlar": [
     "Naqsh yaxshi bo'ladi",
-    "Naqsh bemana va samarasiz bo'lib, tamaashachi bilan aloqa o'rnatilmaydi",
-    "Naqsh chop etiladi",
-    "Naqsh yog'iga tushmaydi"
+    "Naqsh ma'nosiz bo'lib, tomoshabinga ta'sir qilmaydi",
+    "Naqsh chiroyliroq bo'ladi",
+    "Hech narsa o'zgarmaydi"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"

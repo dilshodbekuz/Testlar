@@ -4,12 +4,12 @@
  "mavzu": "23–24-MAVZULAR: QARI BILGANNI PARI BILMAS",
  "savollar": [
   {
-   "savol": "Umidjon maktabdan qaytib kimga salom berdi?",
+   "savol": "Umidjon maktabdan qaytgach kimning yoniga bordi?",
    "variantlar": [
-    "Otasi bilan suhbatga tushuq",
-    "Buvasining yoniga boribdi",
-    "O'qituvchisini kutib turdi",
-    "Oysi bilan gaplashib qoldi"
+    "Otasining",
+    "Buvasining",
+    "O'qituvchisining",
+    "Oyisining"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -29,9 +29,9 @@
    "savol": "Yanvar oyining xislati nima?",
    "variantlar": [
     "Qulfkalit yasashni xush ko'radi",
-    "Boyoqchilik",
+    "Bo'yoqchilik",
     "Kitob o'qish",
-    "Uyquchi"
+    "Uxlash"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -81,11 +81,11 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Iyun oyida oylar qanday faoliyat qiladi?",
+   "savol": "Iyun oyi nima qilishni yaxshi ko'radi?",
    "variantlar": [
-    "Qizig'ini yomg'irga o'tmadi",
-    "Mevalorsni yaxshi ko'radi",
-    "Uyquchi bo'ladi",
+    "Yomg'ir yog'dirish",
+    "Meva terish",
+    "Uxlash",
     "Anhorga cho'milishga ketaverar"
    ],
    "togri": 3,
@@ -119,7 +119,7 @@
     "Tug'ilgan kunlar qayerda nishonlanadi?",
     "Yanvar oyidagi kunlar necha?",
     "Nega fevral oyining kunlari boshqa oylarnikiga qaraganda kam?",
-    "Qachan yangi yil boslanadi?"
+    "Yangi yil qachon boshlanadi?"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -136,12 +136,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Iyul qanday sabab uchun Avgustga g'azab qildi?",
+   "savol": "Iyul nima uchun Avgustdan g'azablandi?",
    "variantlar": [
-    "Август o'zining oyiga 31 kun qisqa bilib qo'ygani",
-    "Avgust uni eslimay qo'ygan",
-    "Avgustning oy nomi unga o'xshab ketgan",
-    "Avgust undan ko'proq kun talabashi"
+    "Avgust uning nomini oldi",
+    "Avgust uni unutib qo'ydi",
+    "Avgustning nomi unga o'xshardi",
+    "Avgust undan ko'proq kun talab qildi"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -151,7 +151,7 @@
    "variantlar": [
     "Martning bir kunini o'g'irladi",
     "Yanvarning bir kunini o'g'irladi",
-    "Februalning bir kunini o'g'irladi va o'ziga qo'shdi",
+    "Fevralning bir kunini o'g'irlab, o'ziga qo'shdi",
     "Iyulning bir kunini o'g'irladi"
    ],
    "togri": 2,
@@ -202,12 +202,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Iyul va Avgust o'rtasidagi janjalni hal qilish uchun Yil janobi nima qildi?",
+   "savol": "Hozir avgust oyida necha kun bor?",
    "variantlar": [
-    "Iyulga yana bir kun berdi",
-    "Yangi oylar paydo qildi",
-    "Avgustning kunlarini 30 ta qoldirdi, tartibni o'zgarttirdi",
-    "Ikkalasini teng qoldi"
+    "28",
+    "30",
+    "31",
+    "29"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -238,8 +238,8 @@
    "savol": "Ertakda oylar nima uchun janjallashgan va tartib buzilgan?",
    "variantlar": [
     "Yangina oylar yaratish uchun",
-    "Qundagi tadbir o'tkazish uchun",
-    "Iyul va Avgust o'rtasidagi kunlar soniga teng bo'lmagan tafsig'ini hal qilish uchun",
+    "Bayram o'tkazish uchun",
+    "Iyul va Avgust kunlari soni teng bo'lmagani uchun",
     "Yil janobi ularga zulm qilgani"
    ],
    "togri": 2,
@@ -248,10 +248,10 @@
   {
    "savol": "Avgustning o'g'riligi Februalniga qanday ta'sir ko'rsatdi?",
    "variantlar": [
-    "Februar kunlarining soni kamayib ketdi va tartibning buzilishi natijasida ortiqcha sharoit yaratildi",
+    "Fevral kunlari kamayib qoldi",
     "Faqatgina Februar o'zgarib ketdi",
-    "Februar rengining o'zgarib ketdi",
-    "Februar kompyuter dek yangi sifa oldi"
+    "Fevralning nomi o'zgardi",
+    "Fevral eng uzun oyga aylandi"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -268,11 +268,11 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Qari bilganni pari bilmas sarlavhasi Avgust va buva lik kontextda qanday ma'no beradi?",
+   "savol": "\"Qari bilganni pari bilmas\" maqoli nimani anglatadi?",
    "variantlar": [
     "Qariyalar har doim to'g'ri",
-    "Qari bilim va tajriba orqali odam o'z xatoligini tushunib, o'zini tiriladi",
-    "Pari faqatgina pul",
+    "Keksalar bilim va tajribasi bilan ko'p narsani biladi",
+    "Parilar hamma narsani biladi",
     "Qari xalq bema'ni gap qiladi"
    ],
    "togri": 1,
@@ -281,10 +281,10 @@
   {
    "savol": "Februar oyining uyquchiligi ertakda nima sifatida ifodalanishi mumkin?",
    "variantlar": [
-    "Uyqu faqatgina Februari uchun kerakli",
-    "Februari har doim uyqida turadi",
+    "Fevral hech uxlamaydi",
+    "Fevral eng tetik oy",
     "Uni har kuni zo'rg'a uyg'otish kerak",
-    "Uni uyqu komasi olib qoladi"
+    "Fevral hammadan oldin uyg'onadi"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -292,7 +292,7 @@
   {
    "savol": "Iyul va Avgust o'rtasidagi kunlar soniga teng bo'lmaslik muammosining yechimini topish uchun qancha bilimlar kerak?",
    "variantlar": [
-    "Shuning uchun faqatgina shuning uchun",
+    "Hech qanday bilim kerak emas",
     "Tartib, teng qismlash va taqvim tuzilishi haqida bilim",
     "Faqatgina hisob-kitob",
     "Yanvar bo'yicha mavzuni bilish"
@@ -301,34 +301,34 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Август o'g'rilikni qilgandan keyin uning hol-ahvoli qanday o'zgarib ketdi?",
+   "savol": "Avgust o'g'rilik qilgandan keyin o'zini qanday his qildi?",
    "variantlar": [
-    "Yaqqon va quvnoq bo'ldi",
-    "O'zini aybodar his qildi va har bir qadamida fikiriy joza'lar bejasa",
+    "Xursand va quvnoq bo'ldi",
+    "O'zini aybdor his qildi",
     "Boshqa oylardan qayta so'z oldi",
-    "Shuning uchun unday tadbir qilmadi"
+    "Hech narsa o'zgarmadi"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Buva Umidjonning to't yilda bir marotaba tug'ilgan kunini nishonlash muammosini qanday talqin qilgan?",
+   "savol": "29-fevralda tug'ilgan odam tug'ilgan kunini necha yilda bir marta aynan o'z sanasida nishonlaydi?",
    "variantlar": [
-    "Taqvimning fikri qoldi",
-    "To'rt yilning tugab ketishi va soat tinishiga qaramay",
-    "Yil davomida hamma oyni kuzatish kerak",
-    "Faqatgina Februari uchun xusisiyat"
+    "Har yili",
+    "Ikki yilda bir marta",
+    "To'rt yilda bir marta",
+    "O'n yilda bir marta"
    ],
-   "togri": 1,
+   "togri": 2,
    "qiyinlik": "qiyin"
   },
   {
    "savol": "Ertakda tartib buzilmasini xalos qilish uchun Yil janobi qanday sharti qo'yib, Februar uchun imkoniyat berdi?",
    "variantlar": [
-    "Qaysi oyning kunlarini o'zgartirib berishi",
+    "Boshqa oyning kunlarini olsa",
     "Agar vaqtida uyg'onib, o'z vazifasini bajara olsa, to'rt yilda bir marotaba 29 kunga ega bo'lishi",
     "Boshqa oylardan ko'proq kun qirib berishi",
-    "Qor yog'gargan bo'lsin"
+    "Qor yog'dirsa"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"

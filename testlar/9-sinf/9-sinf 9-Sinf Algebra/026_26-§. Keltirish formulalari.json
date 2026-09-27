@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Algebra",
+ "mavzu": "26-§. Keltirish formulalari",
+ "savollar": [
+  {
+   "savol": "Keltirish formulalari nima uchun kerak?",
+   "variantlar": [
+    "Yig'indi topish",
+    "Burchaklar funksiyalarini o'tkir burchak funksiyalariga keltirish uchun",
+    "Tenglama yechish",
+    "Grafik chizish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sin(90° − α) = ?",
+   "variantlar": [
+    "−sin α",
+    "sin α",
+    "−cos α",
+    "cos α"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "cos(90° − α) = ?",
+   "variantlar": [
+    "−cos α",
+    "sin α",
+    "−sin α",
+    "cos α"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sin(180° − α) = ?",
+   "variantlar": [
+    "−cos α",
+    "sin α",
+    "cos α",
+    "−sin α"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "cos(180° − α) = ?",
+   "variantlar": [
+    "−cos α",
+    "−sin α",
+    "cos α",
+    "sin α"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sin(180° + α) = ?",
+   "variantlar": [
+    "sin α",
+    "cos α",
+    "−cos α",
+    "−sin α"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "cos(180° + α) = ?",
+   "variantlar": [
+    "sin α",
+    "−sin α",
+    "−cos α",
+    "cos α"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sin(360° − α) = ?",
+   "variantlar": [
+    "−cos α",
+    "sin α",
+    "cos α",
+    "−sin α"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "cos(360° − α) = ?",
+   "variantlar": [
+    "cos α",
+    "−sin α",
+    "−cos α",
+    "sin α"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "tg(180° − α) = ?",
+   "variantlar": [
+    "ctg α",
+    "−tg α",
+    "−ctg α",
+    "tg α"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sin 150° = ?",
+   "variantlar": [
+    "−√3/2",
+    "√3/2",
+    "−1/2",
+    "1/2"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "cos 120° = ?",
+   "variantlar": [
+    "−1/2",
+    "√3/2",
+    "1/2",
+    "−√3/2"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sin 210° = ?",
+   "variantlar": [
+    "√3/2",
+    "−√3/2",
+    "−1/2",
+    "1/2"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "cos 240° = ?",
+   "variantlar": [
+    "−1/2",
+    "1/2",
+    "−√3/2",
+    "√3/2"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sin 300° = ?",
+   "variantlar": [
+    "−1/2",
+    "−√3/2",
+    "1/2",
+    "√3/2"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "cos 315° = ?",
+   "variantlar": [
+    "1/2",
+    "−√2/2",
+    "√2/2",
+    "−1/2"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "tg 135° = ?",
+   "variantlar": [
+    "√3",
+    "−1",
+    "1",
+    "0"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sin(90° + α) = ?",
+   "variantlar": [
+    "−cos α",
+    "cos α",
+    "−sin α",
+    "sin α"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "cos(90° + α) = ?",
+   "variantlar": [
+    "−sin α",
+    "cos α",
+    "sin α",
+    "−cos α"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sin(270° − α) = ?",
+   "variantlar": [
+    "−sin α",
+    "−cos α",
+    "sin α",
+    "cos α"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sin(π − α) + sin α = ?",
+   "variantlar": [
+    "2 cos α",
+    "2 sin α",
+    "0",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "cos(π − α) + cos α = ?",
+   "variantlar": [
+    "2 sin α",
+    "0",
+    "2 cos α",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "sin(π/2 + α) = ?",
+   "variantlar": [
+    "cos α",
+    "sin α",
+    "−sin α",
+    "−cos α"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "cos(3π/2 − α) = ?",
+   "variantlar": [
+    "sin α",
+    "−cos α",
+    "cos α",
+    "−sin α"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "tg(π/2 − α) = ?",
+   "variantlar": [
+    "tg α",
+    "−tg α",
+    "ctg α",
+    "−ctg α"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "ctg(π − α) = ?",
+   "variantlar": [
+    "tg α",
+    "−tg α",
+    "−ctg α",
+    "ctg α"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "sin 1200° = ? (1200° = 3·360° + 120°)",
+   "variantlar": [
+    "√3/2",
+    "−1/2",
+    "1/2",
+    "−√3/2"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "cos 1500° = ? (1500° = 4·360° + 60°)",
+   "variantlar": [
+    "−1/2",
+    "−√3/2",
+    "√3/2",
+    "1/2"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "sin(α − 180°) = ?",
+   "variantlar": [
+    "cos α",
+    "−cos α",
+    "sin α",
+    "−sin α"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "cos(α − 90°) = ?",
+   "variantlar": [
+    "sin α",
+    "−cos α",
+    "−sin α",
+    "cos α"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

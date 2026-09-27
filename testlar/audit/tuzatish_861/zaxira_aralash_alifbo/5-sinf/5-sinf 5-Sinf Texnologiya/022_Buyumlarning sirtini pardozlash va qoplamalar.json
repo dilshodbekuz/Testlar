@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Texnologiya",
+ "mavzu": "Buyumlarning sirtini pardozlash va qoplamalar",
+ "savollar": [
+  {
+   "savol": "Shpon deb nimaga aytiladi?",
+   "variantlar": [
+    "Yog'och qipiqlardan presslab tayyorlangan material",
+    "Randalangan yog'ocha aytiladi",
+    "G'o'la yog'ochdan yupqa qatlam shaklida shilib olingan yupqa list material",
+    "Shponlarni ustma-ust yopishtirishdan hosil qatlam"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Faner deb nimalarga aytiladi?",
+   "variantlar": [
+    "Yog'och qipiqlardan presslab tayyorlangan material",
+    "G'o'la yog'ochdan yupqa qatlam shaklida shilib olingan material",
+    "Shponlarni ustma-ust, tolalarini o'zaro perpendikular holda yopishtirishdan hosil qatlam",
+    "Buyumning sirtiga yopilgan qoplaması"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Randalangan faner qanday g'o'lalaridan tayyorlanadi?",
+   "variantlar": [
+    "Faqat eman va qayindan",
+    "Faqat qayindan",
+    "Eman, chinor, yong'oq, zarang, shumtol, qarag'ay",
+    "Faqat qarag'ay va chinor"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yelimlangan faner nechta shpondan iborat?",
+   "variantlar": [
+    "Juft sonli, 4-14 tagacha",
+    "Toq sonli, 3-15 tagacha",
+    "Faqat 7 ta shpondan",
+    "Nechta bo'lsa ham bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Pardozlash nima?",
+   "variantlar": [
+    "Detallar yoki buyumning sirtini chiroyli qilish, namlikka chidamliligini oshirish, hasharotlardan saqlash",
+    "Faqat buyumni rang surtish",
+    "Faqat yog'ochni kuydirish",
+    "Faqat buyumni loklash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Loklash nima?",
+   "variantlar": [
+    "Yog'och buyumlarni yaltiratib pardozlashning eng keng tarqalgan usuli",
+    "Yog'och buyumlarni moybo'yoq bilan pardozlash",
+    "Faqat jilvir bilan ishqalash",
+    "Buyumni kuydirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Moybo'yoq qancha vaqtda quriladi?",
+   "variantlar": [
+    "48 soatda",
+    "6-12 soatda",
+    "2-3 soatda",
+    "Taxminan 24 soatda"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tampon qanday materiallarga o'raladi?",
+   "variantlar": [
+    "Polietilenга",
+    "Nam o'tkazmaydigan paxta yoki yupqa ip gazlamaga",
+    "Teri yoki plastmasga",
+    "Qo'lqopga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Faner markalari qanday?",
+   "variantlar": [
+    "FE va FF",
+    "FA va FB",
+    "FC va FD",
+    "FK va FBA"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jilvir bilan ishqalash nima uchun kerak?",
+   "variantlar": [
+    "To'g'ri chiziqliligini yaxshilash va tozalash uchun",
+    "Buyumni ranglash uchun",
+    "Faqat buyumni quritish uchun",
+    "Faqat qirraklarni kesish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Loklash ishlari qanday sharaitda bajarish kerak?",
+   "variantlar": [
+    "Har qanday xonada",
+    "Quruq, iliq, yaxshi shamollatiladigan xonada, chang va qipiqlardan xoli joyda",
+    "Faqat shamol tekkidagi joyda",
+    "Namli va salqin xonada"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Moybo'yoq bilan bo'yaladigan buyum sirtiga avval nima qilish kerak?",
+   "variantlar": [
+    "Kuydirish",
+    "Faqat rangni surtish",
+    "Jilvir bilan ishqalash, yaxshi quritish va changlardan tozalash",
+    "Faqat loklash"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shpon va fanerning asosiy farqi nima?",
+   "variantlar": [
+    "Faqat qalinligi turlicha",
+    "Shpon yupqa qatlam, faner shponlarni perpendikular yopishtirishdan hosil qatlam",
+    "Farqi yo'q",
+    "Shpon randalangan, faner yelimlangan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Faner yog'och taxtalardan qanday afzalliklarga ega?",
+   "variantlar": [
+    "Faqat narxi arzon",
+    "Qayishqoqligi uchun oson egiladi, tashishga qulay, ortiqcha yorilmaydi",
+    "Faqat qalinligi",
+    "Faqat rangish qiyin"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yog'och nam havo ta'sirida nima bo'ladi?",
+   "variantlar": [
+    "Qalinligi oshadi",
+    "Rangi o'zgaradi",
+    "Tez ishdan chiqadi",
+    "Yorilmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Randalangan faner qalinligi qancha milimetr?",
+   "variantlar": [
+    "0,5 mm",
+    "0,3 mm",
+    "0,8-1,5 mm",
+    "2-3 mm"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yelimlangan faner qanday yelim bilan yopishtiriladi?",
+   "variantlar": [
+    "Alyuminiy yelim",
+    "Keramik yelim",
+    "Oqsilli yelim",
+    "Moyli yelim"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Pardozlashning asosiy turlari qanday?",
+   "variantlar": [
+    "Faqat kuydirish",
+    "Faqat ranglar surtish",
+    "Faqat loklash va bo'yash",
+    "Jilvirlab ishlov berish, guldor qilish, kuydirish, ranglar surtish, loklash va bo'yash"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tampon qanday tuziladi?",
+   "variantlar": [
+    "Shunchaki paxta",
+    "Plastik o'rabga o'ralgan paxta",
+    "Tek gazlama",
+    "Nam o'tkazmaydigan bir bo'lak paxta yoki yupqa ip gazlamaga o'rab tayyorlanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Lok qanday usullar bilan surtiladi?",
+   "variantlar": [
+    "Faqat tampon bilan",
+    "Maxsus mashinalar yordamida",
+    "Faqat cho'tka bilan",
+    "Cho'tka yoki tampon bilan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar buyum nam havo ta'siridan zarar ko'rsa, uni pardozlash uchun qanday asosiy usullar qo'llaniladi?",
+   "variantlar": [
+    "Loklash va moybo'yoq bilan bo'yash, chunki ular namga chidamli qatlamni hosil qiladi",
+    "Faqat kuydirish",
+    "Faqat moybo'yoq bilan bo'yash",
+    "Faqat ranglar surtish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun yelimlangan faner toq sonli shponlardan iborat?",
+   "variantlar": [
+    "Buning sababi yo'q",
+    "Faqat xarij standartlari",
+    "Shponlarning to'lalarni perpendikular yopishtirilganlikda simmetriya saqlanishi uchun",
+    "Shuning uchun juda xunuk bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Faner nima uchun ortiqcha yorilmaydi va mavjud yoriqlari orqa tomoniga o'tmaydi?",
+   "variantlar": [
+    "Qo'shimcha kimyoviy modda tufayli",
+    "Faqat yog'oching turfoyli",
+    "Yelim tufayli",
+    "Shponlarni perpendikular yopishtirilganlik tufayli to'llar bir-birini mahkamlaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Moybo'yoq bilan bo'yashning jarayoni nima uchun 24 soatda quriladi?",
+   "variantlar": [
+    "Moynning sekin quruish jarayoni tufayli",
+    "Jilvir bunga sabab",
+    "Buning sababi yo'q",
+    "Rangi tundashi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar loklash paytida xavf yuzaga kelsa, buyum sirtiga nima bo'lishi mumkin?",
+   "variantlar": [
+    "Hech narsa bo'lmaydi",
+    "Faqat qalinligi oshadi",
+    "Faqat rangi o'zgaradi",
+    "Kukunlar va qipiqlar chiqadi, sirtida noto'g'ri qo'ta va juvonlar paydo bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Buyumning sirtiga nechta qatlam qilib lok surtiladi va nima uchun?",
+   "variantlar": [
+    "Bir qatlam yetarli",
+    "Faqat ikkita qatlam",
+    "Bir necha qatlam surtiladi, buning sababli yaltira va himoya qatlamini etarli bo'ladi",
+    "Nechta bo'lsa ham bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Moylar tekkan tamponlarni nima uchun ustaxonada qoldirib ketmaslik kerak?",
+   "variantlar": [
+    "Ular yong'in chiqishiga sabab bo'lishi mumkin",
+    "Faqat sababisiz",
+    "Jemdan iborat",
+    "Buning sababi yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar yog'och quriganidan so'ng qiyshaysa va yorilsa, pardozlash orqali bunga qanday yechim topish mumkin?",
+   "variantlar": [
+    "Loklash yoki moybo'yoq bilan bo'yash, bu yog'oching hasharot va yorilmaslik uchun himoyalaydi",
+    "Randa bilan ishqalash",
+    "Faqat bo'yash",
+    "Faqat kuydirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Korxonalarda buyumlarni bo'yash ishlarini qanday amalga oshiriladi?",
+   "variantlar": [
+    "Hech qanday moslamasi bilan",
+    "Faqat shamollatilgan xonada",
+    "Mashinalar yordamida va maxsus quritkichlarda quritadi",
+    "Faqat qo'l bilan"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Buyumning sirtini loklashdan chiqqan qipiqlar va kukunlar muammosi qanday hal qilinadi?",
+   "variantlar": [
+    "Suvning yordamida",
+    "Maxsus cho'tka bilan sidirib tozalash kerak",
+    "Darhol suv bilan yuviladi",
+    "Faqat havada o'tkazib yuborilyad"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

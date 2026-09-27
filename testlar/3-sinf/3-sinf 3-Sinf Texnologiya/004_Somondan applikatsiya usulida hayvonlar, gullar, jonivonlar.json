@@ -4,7 +4,7 @@
  "mavzu": "Somondan applikatsiya usulida hayvonlar, gullar, jonivonlar shaklini yasash",
  "savollar": [
   {
-   "savol": "Somondan applikatsiya usulida harakat qaysi materialdan yasaladi?",
+   "savol": "Somon applikatsiyasi qaysi materialdan yasaladi?",
    "variantlar": [
     "Somon",
     "Tosh",
@@ -17,20 +17,20 @@
   {
    "savol": "Somonlarni qog'ozga qanday birlashtiriladi?",
    "variantlar": [
-    "Yechmash bilan",
-    "Torish bilan",
-    "Mis bilan",
+    "Mix bilan",
+    "Ip bilan",
+    "Sim bilan",
     "Yelim bilan"
    ],
    "togri": 3,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Dazmol bilan ishlashda kim ko'magidan foydalanish kerak?",
+   "savol": "Dazmol bilan ishlashda kimning ko'magi kerak?",
    "variantlar": [
-    "Qo'shnida",
-    "Sinfdoshi",
-    "O'qituvchi",
+    "Qo'shni bolaning",
+    "Sinfdoshining",
+    "Kichik ukasining",
     "Kattalar"
    ],
    "togri": 3,
@@ -40,8 +40,8 @@
    "savol": "Ish harakatlarini qanday bajirish zarur?",
    "variantlar": [
     "Ketma-ketlikda",
-    "Oyboshiga",
-    "Buzilib-buzili",
+    "Oyiga bir marta",
+    "Tartibsiz",
     "Teskaridan"
    ],
    "togri": 0,
@@ -84,9 +84,9 @@
    "savol": "Yasalgan buyumlarni kimga sovg'a qilish mumkin?",
    "variantlar": [
     "Yaqinlaringizga",
-    "Savatga",
-    "O'qituvchiga",
-    "Bazarga"
+    "Chiqindi qutisiga",
+    "Hech kimga",
+    "Bozorga"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -105,7 +105,7 @@
   {
    "savol": "Mustaqil ish degani nima?",
    "variantlar": [
-    "Qo'shnida qiladigan ish",
+    "Qo'shni qiladigan ish",
     "Faqat sinfdagi ish",
     "O'zini o'zi qiladigan ish",
     "O'qituvchi qiladigan ish"
@@ -116,7 +116,7 @@
   {
    "savol": "Ish harakatlarini kuzatish va yasab ko'ring degani nima?",
    "variantlar": [
-    "Buzilib tashlang",
+    "Buzib tashlang",
     "Faqat yasang",
     "Ko'rib tushunib o'zingiz ham yasang",
     "Faqat ko'ring"
@@ -149,7 +149,7 @@
   {
    "savol": "Somondan turli xil kompozitsiya yaratish degani nima?",
    "variantlar": [
-    "Aqlimiy shaklni yasash",
+    "Faqat bitta shakl yasash",
     "Turli somonlar va shakllardan bir nechta buyumlar yaratish",
     "Faqat bir xil shaklni yasash",
     "Bir xil rang ishlatish"
@@ -160,9 +160,9 @@
   {
    "savol": "Qog'ozga yelimlab olingan somon mustahkamligini qanday tekshirish kerak?",
    "variantlar": [
-    "Kuchli torish",
+    "Kuchli tortish",
     "Ko'rib bilish",
-    "Biroz kuting va ehtiyot bosish",
+    "Biroz kutib, ehtiyotlik bilan bosib ko'rish",
     "Darhol suv quyish"
    ],
    "togri": 2,
@@ -204,9 +204,9 @@
   {
    "savol": "Yelim qo'llashda nima miqdori to'g'ri?",
    "variantlar": [
-    "Oqil miqdorda yelim",
+    "Me'yorida yelim",
     "Juda kam yelim",
-    "Yelim nomutavazin",
+    "Yelimni tartibsiz surtish",
     "Juda ko'p yelim"
    ],
    "togri": 0,
@@ -250,7 +250,7 @@
    "variantlar": [
     "Applikatsiya tezroq yaratiladi",
     "Faqat rang farqi",
-    "Applikatsiya 3D ko'rinish beradi, rasm esa 2D beradi",
+    "Applikatsiyada tayyor materiallar yopishtiriladi, rasm esa bo'yoq bilan chiziladi",
     "Hech qanday farq yo'q"
    ],
    "togri": 2,
@@ -283,7 +283,7 @@
    "variantlar": [
     "Shamolga qo'yish",
     "Har kunlik suv quyish",
-    "Quruqligini, toza bo'lishini va tushman jo'dan xavfsizlikni ta'minlash",
+    "Quruq, toza va shikastlanmaydigan joyda saqlash",
     "Quyosh yorugligida saqlash"
    ],
    "togri": 2,
@@ -314,9 +314,9 @@
   {
    "savol": "Somondan yasalgan buyumni yaqinlaringizga sovg'a qilishdan oldin nima muhimdir?",
    "variantlar": [
-    "Buyumning sifatini, qiymatini va boshqaning sevimini tekshirish",
-    "Yo'q faqat rang",
-    "Yo'q faqat o'lcham",
+    "Buyumning sifatini tekshirish",
+    "Faqat rangini",
+    "Faqat o'lchamini",
     "Faqat buyum shaklini ko'rish"
    ],
    "togri": 0,
@@ -326,7 +326,7 @@
    "savol": "Somondan applikatsiya yaratilishi va tabiatni kuzatish orasida qanday bog'lanish mavjud?",
    "variantlar": [
     "Faqat rang olamiz",
-    "Tabiat obektivlaridan ilhom olish, ularning shaklini applikatsiyada yasash",
+    "Tabiat ob'ektlaridan ilhom olib, ularning shaklini applikatsiyada yasash",
     "Faqat o'lcham olamiz",
     "Hech qanday bog'lanish yo'q"
    ],

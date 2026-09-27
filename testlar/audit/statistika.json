@@ -1,0 +1,73 @@
+{
+  "grades": {
+    "3-sinf": {
+      "questions": 13810,
+      "files": 464,
+      "automatic_flagged": 580,
+      "arithmetic_calculated": 572,
+      "semantic_reviewed": 2688,
+      "semantic_pending": 11122
+    },
+    "4-sinf": {
+      "questions": 9347,
+      "files": 314,
+      "automatic_flagged": 37,
+      "arithmetic_calculated": 31,
+      "semantic_reviewed": 3,
+      "semantic_pending": 9344
+    },
+    "5-sinf": {
+      "questions": 11610,
+      "files": 390,
+      "automatic_flagged": 11,
+      "arithmetic_calculated": 44,
+      "semantic_reviewed": 5,
+      "semantic_pending": 11605
+    },
+    "6-sinf": {
+      "questions": 11795,
+      "files": 396,
+      "automatic_flagged": 80,
+      "arithmetic_calculated": 54,
+      "semantic_reviewed": 12,
+      "semantic_pending": 11783
+    },
+    "7-sinf": {
+      "questions": 14610,
+      "files": 501,
+      "automatic_flagged": 6,
+      "arithmetic_calculated": 8,
+      "semantic_reviewed": 0,
+      "semantic_pending": 14610
+    },
+    "8-sinf": {
+      "questions": 10051,
+      "files": 339,
+      "automatic_flagged": 5,
+      "arithmetic_calculated": 0,
+      "semantic_reviewed": 0,
+      "semantic_pending": 10051
+    },
+    "9-sinf": {
+      "questions": 12089,
+      "files": 405,
+      "automatic_flagged": 2,
+      "arithmetic_calculated": 0,
+      "semantic_reviewed": 0,
+      "semantic_pending": 12089
+    }
+  },
+  "automatic_findings": {
+    "equivalent_numeric_options": 92,
+    "duplicate_options": 14,
+    "text_encoding": 616,
+    "arithmetic_multiple": 6,
+    "arithmetic_wrong": 2
+  },
+  "file_findings": {
+    "empty_subject": 17,
+    "aggregate_difference": 4,
+    "duplicate_topic_number": 124,
+    "missing_aggregate": 1
+  }
+}

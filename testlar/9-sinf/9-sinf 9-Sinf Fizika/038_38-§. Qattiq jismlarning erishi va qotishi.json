@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "38-§. Qattiq jismlarning erishi va qotishi",
+ "savollar": [
+  {
+   "savol": "Erish nima?",
+   "variantlar": [
+    "Suyuqlikning qotishi",
+    "Qattiq jismning suyuqlikka aylanishi",
+    "Bug'lanish",
+    "Kondensatsiya"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qotish nima?",
+   "variantlar": [
+    "Bug'lanish",
+    "Sublimatsiya",
+    "Suyuqlikning qattiq holatga o'tishi",
+    "Erish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Erish temperaturasi nima?",
+   "variantlar": [
+    "Xona t",
+    "Qaynash t",
+    "Qattiq jism eriy boshlaydigan temperatura",
+    "Muzlash t"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Muzning erish temperaturasi?",
+   "variantlar": [
+    "−10 °C",
+    "100 °C",
+    "0 °C",
+    "4 °C"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Temirning erish t?",
+   "variantlar": [
+    "≈ 0 °C",
+    "≈ 1500 °C",
+    "≈ 5000 °C",
+    "≈ 100 °C"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Erish jarayonida temperatura?",
+   "variantlar": [
+    "Nol",
+    "Ortadi",
+    "Kamayadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qotish jarayonida temperatura?",
+   "variantlar": [
+    "Kamayadi",
+    "Ortadi",
+    "Nol",
+    "O'zgarmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Erishda jism issiqlik?",
+   "variantlar": [
+    "Beradi",
+    "Yutadi",
+    "O'zgarmaydi",
+    "Nol"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qotishda jism issiqlik?",
+   "variantlar": [
+    "Nol",
+    "Beradi",
+    "O'zgarmaydi",
+    "Yutadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suvning muzlash t?",
+   "variantlar": [
+    "−10 °C",
+    "0 °C",
+    "100 °C",
+    "4 °C"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Erish grafigi (t–vaqt) qanday?",
+   "variantlar": [
+    "Doim kamayadi",
+    "Gorizontal qism (t = const) bor",
+    "Nol",
+    "Doim o'sadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Erish va qotish t bir xilmi?",
+   "variantlar": [
+    "Ba'zan",
+    "Yo'q",
+    "Hech qachon",
+    "Ha, kristall uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Amorf jism qizdirilsa?",
+   "variantlar": [
+    "Asta-sekin yumshab suyuqlanadi",
+    "Bug'lanadi",
+    "Yonadi",
+    "Aniq t da eriydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Erishda jism qanday energiya oladi?",
+   "variantlar": [
+    "Tovush",
+    "Yorug'lik",
+    "Kristall panjarani buzishga ketadi",
+    "Kinetik"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Muz erishida molekulalarning kinetik energiyasi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Kamayadi",
+    "Nol",
+    "Ortadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Muz erishida potensial energiya?",
+   "variantlar": [
+    "Ortadi",
+    "O'zgarmaydi",
+    "Nol",
+    "Kamayadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qo'rg'oshin erish t ≈ 327 °C, muz 0 °C. Qaysi past t da eriydi?",
+   "variantlar": [
+    "Teng",
+    "Aniqlab bo'lmaydi",
+    "Muz",
+    "Qo'rg'oshin"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Suvga tuz qo'shilsa muzlash t?",
+   "variantlar": [
+    "Pasayadi",
+    "O'zgarmaydi",
+    "Nol",
+    "Ortadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qishda yo'llarga tuz sepish nima uchun?",
+   "variantlar": [
+    "Rang",
+    "Massa",
+    "Chiroy",
+    "Muzlash t ni pasaytirish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Muz suvda suzadi. Sababi?",
+   "variantlar": [
+    "Sovuq",
+    "Zichligi suvnikidan kichik",
+    "Teng",
+    "Katta"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Erish paytida jism massasi ortsa erish tezligi?",
+   "variantlar": [
+    "Nol",
+    "T kamayadi",
+    "T ortadi",
+    "Ortadi, t o'zgarmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qotayotgan suv hajmi?",
+   "variantlar": [
+    "Nol",
+    "Kamayadi",
+    "Ortadi (muzga aylanganda)",
+    "O'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sovuq qishda suv quvurlari yorilishi sababi?",
+   "variantlar": [
+    "Sovuq",
+    "Kamayadi",
+    "Muzlaganda hajm ortadi",
+    "Bosim"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Erishda bosim ortsa muz erish t?",
+   "variantlar": [
+    "Kamayadi (0 °C dan past)",
+    "Ortadi",
+    "Nol",
+    "O'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Konkida uchish qulay bo'lishining sababi?",
+   "variantlar": [
+    "Bosim ostida muz yuzasi erishi",
+    "Massa",
+    "Rang",
+    "Sovuq"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qalay (erish 232 °C) va qo'rg'oshin (327 °C) qotishmasi (kavshar). Erish t?",
+   "variantlar": [
+    "Nol",
+    "Har birinikidan past bo'lishi mumkin",
+    "Yuqori",
+    "Teng"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qotish jarayonida ichki energiya?",
+   "variantlar": [
+    "Ortadi",
+    "Kamayadi",
+    "Nol",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mis va temirdan yasalgan idish ichida qo'rg'oshin eritiladi. Idish qaysi t da eriydi?",
+   "variantlar": [
+    "Teng",
+    "Qo'rg'oshindan yuqori",
+    "Past",
+    "Aniqlab bo'lmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kristall qizdirilib erish t ga yetgach qizdirish davom etsa?",
+   "variantlar": [
+    "Hammasi erib bo'lguncha t o'zgarmaydi",
+    "Nol",
+    "T kamayadi",
+    "T ortadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Suyuqlik sovutilsa qotish boshlanadigan t?",
+   "variantlar": [
+    "Erish t ga teng",
+    "Undan yuqori",
+    "Nol",
+    "Undan past"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

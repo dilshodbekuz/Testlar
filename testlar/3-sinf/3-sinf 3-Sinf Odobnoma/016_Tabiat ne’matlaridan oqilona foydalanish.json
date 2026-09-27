@@ -59,7 +59,7 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Kundalik hayotda qaysi energiya muhim ahamiyatga ega?",
+   "savol": "Matnda kundalik hayotimizda muhim ahamiyatga ega deb qaysi energiya tilga olingan?",
    "variantlar": [
     "Issiqlik energiyasi",
     "Elektr energiyasi",
@@ -72,20 +72,20 @@
   {
    "savol": "Yoshligidan tejamkor bo'lishga o'rgangan odam nima bo'lmaydi?",
    "variantlar": [
-    "Katta bo'lmaydi",
-    "Maktab o'quvchisi",
-    "Faqirlik yo'lida yuradi",
+    "Aqlli bo'lmaydi",
+    "Xursand bo'lmaydi",
+    "Mehnatkash bo'lmaydi",
     "Hech narsaga zor bo'lmaydi"
    ],
    "togri": 3,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Anvar nonni qanday ishlatti?",
+   "savol": "Anvar nonni nima qildi?",
    "variantlar": [
-    "Bir qismini yedi, choyni ichdi",
-    "Barhasini berib yubordi",
-    "Hammasini xorladi",
+    "Bir qismini yeb, qolganini tashlab ketdi",
+    "Hammasini berib yubordi",
+    "Hammasini qushlarga berdi",
     "To'liq yedi"
    ],
    "togri": 0,
@@ -94,21 +94,21 @@
   {
    "savol": "Muzlatkich, televizor, dazmol kabi narsalar bo'lmasa-chi, qaysi ahvolga tushamiz?",
    "variantlar": [
-    "Ko'p qiynamiz",
-    "Noto'qnashib qolamiz",
-    "Hama javoblar to'g'ri",
+    "Ko'p qiynalamiz",
+    "Noqulay ahvolga tushamiz",
+    "Hamma javoblar to'g'ri",
     "Hayotimiz qiyin bo'ladi"
    ],
    "togri": 2,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Tejamkorlik oilasida qanday keltirada?",
+   "savol": "Tejamkorlik oilaga nima keltiradi?",
    "variantlar": [
-    "Javonlik",
+    "Janjal",
     "Xavotir",
     "Baraka va ishda unum",
-    "Taqqaliq"
+    "Qashshoqlik"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -116,7 +116,7 @@
   {
    "savol": "Elektr energiyasini tejab-tergab ishlatish nima uchun zarur?",
    "variantlar": [
-    "Birga yoniqchasiga o'girish",
+    "Chiroqlarni kechasi ham yoqib qo'yish uchun",
     "Qonunni bajarilishi uchun",
     "Oilamizga va mamlakatimizga foyda keltiriladi",
     "Faqat pul tejash uchun"
@@ -139,8 +139,8 @@
    "savol": "Behuda oqib turgan suvning jo'mragini burab qo'yish qanday tejash usuli?",
    "variantlar": [
     "Suvni boshqa joyga yo'naltiradi",
-    "Suv manbai tutiladi",
-    "Faqat tozaliq uchun",
+    "Suvni ifloslaydi",
+    "Faqat tozalik uchun",
     "Zaruri bo'lgan narsani isrof qilmaslik"
    ],
    "togri": 3,
@@ -149,10 +149,10 @@
   {
    "savol": "Yoniq qolgan chiroq yoki gazni o'chirish orqali nima mumkin?",
    "variantlar": [
-    "Qancha mablag'ni tejash",
-    "Uyni tutiladi",
+    "Ancha mablag'ni tejash",
+    "Uy isib ketadi",
     "Biror narsa bo'lmaydi",
-    "Qorni to'ydiriladi"
+    "Qorin to'yadi"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -196,7 +196,7 @@
     "Maktabga kechikdi",
     "Erta uyg'onmadi",
     "Buvisiga javob bermadi",
-    "Nonni to'liq yemadi, choyni ichmasligi isrofgarchilik"
+    "Nonni oxirigacha yemay, isrof qildi"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -207,7 +207,7 @@
     "Tejamkorlikni yaxshi, isrofgarchilikni yomon deb bilgan",
     "Ular faqir edi",
     "Davlat buyruvi edi",
-    "Qo'rqu sababli"
+    "Qo'rquv sababli"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -228,7 +228,7 @@
    "variantlar": [
     "Hech narsa",
     "Faqat ovqat tejash kamayadi",
-    "Tejamkorlik odatiga kirib, isrofgarchilik kamayadi, qiyna sharoitlardan qutuladi",
+    "Tejamkorlikka o'rganib, isrofgarchilikka yo'l qo'ymaydi, qiyin sharoitda qiynalmaydi",
     "Faqat pul tejash"
    ],
    "togri": 2,
@@ -238,9 +238,9 @@
    "savol": "Yoshligidan tejamkorlikni o'rganishning kelajakdagi natijalari nima bo'lishi mumkin?",
    "variantlar": [
     "Biror muhim natija bo'lmaydi",
-    "Qiyna vaqtlarda qiynalyorini ko'rmaydi, hayoti mustahkam bo'ladi",
+    "Qiyin vaqtlarda qiynalmaydi, hayoti farovon bo'ladi",
     "Faqat kichik tejashga olib keladi",
-    "Faqat pul o'rinadi"
+    "Faqat pul yig'adi"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -262,7 +262,7 @@
     "Faqat pul tejash",
     "Qonunni bajarilishi",
     "Shunchaki odat",
-    "Kelajak avlod uchun saqlab qolish, energiya manbalarini tegab qolish"
+    "Kelajak avlod uchun saqlab qolish, energiya manbalarini tejash"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -273,7 +273,7 @@
     "Anvarning isrofi - tejamkorlik qoidasini buzishi, buvisining maslahatiga rioya - yoshligidan tejamkorlikni o'rganish lazim",
     "Hech bog'lanishi yo'q",
     "Buvi tantana qildi",
-    "Anvar yaxshi bolalarim"
+    "Anvar hech xato qilmagan"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -282,15 +282,15 @@
    "savol": "Agar Anvar buvisining maslahatini tinglasa, u kelajakda kim bo'lishi mumkin?",
    "variantlar": [
     "Hech narsa o'zgarmasligi mumkin",
-    "Tejamkor, oqilona ishlatuvchi, qiyna sharoitlarda mustahkam turuvchi odam",
+    "Tejamkor, har narsani oqilona ishlatadigan, qiyin sharoitda qiynalmaydigan odam",
     "Zor bo'lib qoladi",
-    "Faqat badiy odam"
+    "Isrofgar odam"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Ushbu matndagi asosiy og'zak nima?",
+   "savol": "Ushbu matnning asosiy g'oyasi nima?",
    "variantlar": [
     "Anvar nomli bolaning hikoyasi",
     "Tabiat ne'matlarini oqilona ishlatish va tejamkorlikni amaliy hayotda tatbiq etish",
@@ -303,7 +303,7 @@
   {
    "savol": "Agar har bir oiladagi har bir kishi tejamkorlik qilsa, davlatga qanday natija bo'ladi?",
    "variantlar": [
-    "Milliy manbalari tejash, davlat birgalikda rivojlanadi, xalqning hayoti yaxshi bo'ladi",
+    "Milliy boyliklar tejaladi, davlat rivojlanadi, xalq hayoti yaxshilanadi",
     "Hech qanday natija",
     "Faqat pul tejash",
     "Faqat biror kishi foyda ko'radi"
@@ -323,12 +323,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Agar bitta uy kuni 5 kilovat enerija tejasa, uning bir yillik tejashi qancha kilovat bo'ladi?",
+   "savol": "Agar bitta uy har kuni 5 kVt·soat elektr energiyasini tejasa, bir yilda (365 kun) qancha tejaydi?",
    "variantlar": [
-    "365 kilovat",
-    "730 kilovat",
-    "2000 kilovat",
-    "1825 kilovat"
+    "365 kVt·soat",
+    "730 kVt·soat",
+    "2000 kVt·soat",
+    "1825 kVt·soat"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"

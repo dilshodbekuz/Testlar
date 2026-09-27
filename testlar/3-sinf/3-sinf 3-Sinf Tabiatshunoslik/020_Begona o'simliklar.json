@@ -26,14 +26,14 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Matnda to'la nomi bilan nechta begona o'simlik nomlangandir?",
+   "savol": "Quyidagilardan qaysi biri begona o'simlik?",
    "variantlar": [
-    "6 ta",
-    "5 ta",
-    "4 ta",
-    "3 ta"
+    "Bug'doy",
+    "G'o'za",
+    "G'umay",
+    "Kartoshka"
    ],
-   "togri": 1,
+   "togri": 2,
    "qiyinlik": "oson"
   },
   {
@@ -70,12 +70,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Salomalaykumning ildizpoyasida qanday o'rgan bor?",
+   "savol": "Salomalaykumning ildizpoyasida nima bor?",
    "variantlar": [
-    "Bargtalan",
-    "Bargalandiran",
-    "Tuganagi",
-    "Shoxlandirici"
+    "Gul",
+    "Meva",
+    "Tuganak",
+    "Barg"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -125,7 +125,7 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "G'umay bahorda nimalik chiqib turadi?",
+   "savol": "G'umay bahorda ildizpoyasidan nima chiqaradi?",
    "variantlar": [
     "Ildiz",
     "Urug'",
@@ -183,9 +183,9 @@
    "savol": "Machinning urug'lari yerga to'kilib, kelgusi yil nima bo'ladi?",
    "variantlar": [
     "Yuzlab machinlar o'sib chiqadi",
-    "Tun savatiga tushadi",
-    "Qorga bo'lib qoladi",
-    "Suv ostiga tushadi"
+    "Hech narsa o'smaydi",
+    "Urug'lar muzlab o'ladi",
+    "Urug'lar suvda chirib ketadi"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -215,9 +215,9 @@
   {
    "savol": "G'umay qanday moddalar hisobiga tez o'sib ketadi?",
    "variantlar": [
-    "Nur va hava",
-    "Kum va sho'r",
-    "Qaram va tuz",
+    "Qor va muz",
+    "Qum va sho'r",
+    "Faqat shamol",
     "O'g'it va suv"
    ],
    "togri": 3,
@@ -235,23 +235,23 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Machinni begona o'simlikdan sifatida to'liq yo'q qilish uchun qachon tozalash kerak?",
+   "savol": "Machinni to'liq yo'q qilish uchun uni qachon yulib tashlash kerak?",
    "variantlar": [
     "Qishda",
     "Niholligida",
-    "Qorning boshida",
+    "Kuz oxirida",
     "Yozda"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Salomalaykumni yulib tashlangan bo'lsangiz, uni butunlay yo'q qilish uchun qanday qilish kerak?",
+   "savol": "Salomalaykumni butunlay yo'q qilish uchun nima qilish kerak?",
    "variantlar": [
     "Kitimini kesib tashlash kerak",
     "Bir qancha kundan keyin yana yulib tashlash kerak",
     "Suv qo'yib yuborish kerak",
-    "Tuganagini ham o'chirib tashlash kerak"
+    "Tuganagi bilan birga kovlab olib tashlash kerak"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -281,7 +281,7 @@
   {
    "savol": "Zarpechak bilan G'umayning farqi nima?",
    "variantlar": [
-    "Zarpechak manzarasilgan, G'umay to'q",
+    "Ikkalasi ham foydali o'simlik",
     "Zarpechak tanasiga chirmashib zarar yetkazadi, G'umay soya bilan nimjon qiladi",
     "Zarpechak katta, G'umay kichik",
     "Zarpechak bahorda, G'umay yozda o'sadi"
@@ -292,9 +292,9 @@
   {
    "savol": "Machinning o'q ildizi yerga chuqur kirib borishi nima anglatadi?",
    "variantlar": [
-    "U qiyin o'chiriladi va tuproqda qolib ketishi mumkin",
+    "Uni yulib yo'qotish qiyin, ildizi tuproqda qolib ketadi",
     "U yuzaki o'sib turadi",
-    "U osongina o'chiriladi",
+    "U osongina yulib olinadi",
     "U ekinning ildizini ta'minlaydi"
    ],
    "togri": 0,
@@ -327,7 +327,7 @@
    "variantlar": [
     "Ularning hammasi bir xil usulda tozalanadi",
     "Zarpechak yozda, machin qishda, salomalaykum bahorda tozalanadi",
-    "Zarpechak tez tozalanadi, machin niholligida, salomalaykum ildizpoyasini to'la chiqarib tozalanadi",
+    "Zarpechak o'z vaqtida yulinadi, machin niholligida, salomalaykum tuganagi bilan kovlab tozalanadi",
     "Hammasi bittadan tozalanadi"
    ],
    "togri": 2,

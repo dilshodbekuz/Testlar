@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "5-§. Elektr maydon",
+ "savollar": [
+  {
+   "savol": "Elektr maydon nima?",
+   "variantlar": [
+    "Zaryad atrofidagi maxsus materiya turi",
+    "Faqat magnit",
+    "Yorug'lik",
+    "Faqat issiqlik"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr maydon qanday paydo bo'ladi?",
+   "variantlar": [
+    "Faqat metalda",
+    "Elektr zaryadlar atrofida",
+    "Vakuumda",
+    "Massa atrofida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr maydon kuchlanganligi qaysi harf bilan belgilanadi?",
+   "variantlar": [
+    "U",
+    "F",
+    "E",
+    "I"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr maydon kuchlanganligining birligi nima?",
+   "variantlar": [
+    "W",
+    "N/C (V/m)",
+    "J",
+    "C"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Maydon kuch chiziqlari musbat zaryaddan qayoqqa yo'naladi?",
+   "variantlar": [
+    "Zaryadga kiradi",
+    "Zaryaddan chiqadi",
+    "Yo'nalishsiz",
+    "Aylanadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Maydon kuch chiziqlari manfiy zaryadda qayoqqa yo'naladi?",
+   "variantlar": [
+    "Zaryaddan chiqadi",
+    "Zaryadga kiradi",
+    "Aylanadi",
+    "Yo'nalishsiz"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kuch chiziqlari zich joyda maydon qanday?",
+   "variantlar": [
+    "Kuchsizroq",
+    "O'zgarmas",
+    "Kuchliroq",
+    "Nol"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Maydon kuchlanganligi formulasi qaysi?",
+   "variantlar": [
+    "E = F·q",
+    "E = F/q",
+    "E = F + q",
+    "E = q/F"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir jinsli maydonda kuchlanganlik ...?",
+   "variantlar": [
+    "cheksiz",
+    "nolga teng",
+    "hamma nuqtada bir xil",
+    "nuqtaga qarab o'zgaradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr maydonni kim kiritgan?",
+   "variantlar": [
+    "Om",
+    "Faradey",
+    "Amper",
+    "Kulon"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Maydon kuchlanganligi 100 N/C, zaryad 2 C. Kuch nechaga teng?",
+   "variantlar": [
+    "200 N",
+    "100 N",
+    "50 N",
+    "102 N"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Maydondagi zaryadga 10 N kuch ta'sir qiladi, zaryad 2 C. Kuchlanganlik?",
+   "variantlar": [
+    "20 N/C",
+    "5 N/C",
+    "10 N/C",
+    "12 N/C"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nuqtaviy zaryad maydonining kuchlanganligi formulasi qaysi?",
+   "variantlar": [
+    "E = q/r²",
+    "E = k·q/r",
+    "E = k·q/r²",
+    "E = k·q·r²"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nuqtaviy zaryaddan masofa 2 marta ortsa, kuchlanganlik ...?",
+   "variantlar": [
+    "4 marta ortadi",
+    "2 marta ortadi",
+    "4 marta kamayadi",
+    "2 marta kamayadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Musbat zaryadga ta'sir qiluvchi kuch yo'nalishi maydon kuchlanganligi yo'nalishi bilan qanday?",
+   "variantlar": [
+    "Bir xil",
+    "Bog'liq emas",
+    "Perpendikulyar",
+    "Qarama-qarshi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Manfiy zaryadga ta'sir qiluvchi kuch yo'nalishi kuchlanganlik yo'nalishi bilan qanday?",
+   "variantlar": [
+    "Perpendikulyar",
+    "Bir xil",
+    "Qarama-qarshi",
+    "Bog'liq emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "q = 10⁻⁶ C zaryaddan 1 m masofada kuchlanganlik nechaga teng?",
+   "variantlar": [
+    "9 · 10⁻³ N/C",
+    "10⁻⁶ N/C",
+    "9 · 10³ N/C",
+    "9 · 10⁹ N/C"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "E = 500 N/C, q = 2 · 10⁻⁶ C. F = ?",
+   "variantlar": [
+    "10⁻³ N",
+    "250 N",
+    "10³ N",
+    "10⁻⁴ N"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kuchlanganlik vektor kattalikmi?",
+   "variantlar": [
+    "Faqat manfiy zaryadda",
+    "Ha",
+    "Faqat vakuumda",
+    "Yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki bir xil musbat zaryad o'rtasida (o'rta nuqtada) kuchlanganlik nechaga teng?",
+   "variantlar": [
+    "0",
+    "2E",
+    "E",
+    "E/2"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir jinsli maydonda E = 200 N/C. q = 5 · 10⁻⁶ C zaryadga qanday kuch ta'sir qiladi?",
+   "variantlar": [
+    "10⁻⁴ N",
+    "10³ N",
+    "1 N",
+    "10⁻³ N"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Maydonda q = 2 nC zaryadga 6 · 10⁻⁶ N kuch ta'sir qilsa, kuchlanganlik nechaga teng?",
+   "variantlar": [
+    "12 N/C",
+    "3000 N/C",
+    "300 N/C",
+    "30 000 N/C"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zaryad 3 marta ortsa, kuchlanganlik E ning o'zi ...?",
+   "variantlar": [
+    "3 marta kamayadi",
+    "nolga teng",
+    "o'zgarmaydi (maydon manbaiga bog'liq)",
+    "3 marta ortadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nuqtaviy zaryaddan 30 sm masofada E = 1000 N/C. 60 sm da E = ?",
+   "variantlar": [
+    "500 N/C",
+    "4000 N/C",
+    "250 N/C",
+    "2000 N/C"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektron bir jinsli E = 10³ N/C maydonda. Unga ta'sir etuvchi kuch (e = 1,6 · 10⁻¹⁹ C)?",
+   "variantlar": [
+    "1,6 · 10⁻¹³ N",
+    "1,6 · 10⁻¹⁰ N",
+    "1,6 · 10⁻¹⁶ N",
+    "1,6 · 10⁻¹⁹ N"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Maydon kuch chiziqlari kesishishi mumkinmi?",
+   "variantlar": [
+    "Yo'q",
+    "Faqat metallda",
+    "Faqat havoda",
+    "Ha"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita qarama-qarshi zaryad orasidagi maydon chiziqlari qanday?",
+   "variantlar": [
+    "Musbatdan manfiyga yo'nalgan",
+    "Aylana",
+    "To'g'ri yo'q",
+    "Manfiydan musbatga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "q = 4 · 10⁻⁹ C zaryad maydonida 0,3 m masofada E = ?",
+   "variantlar": [
+    "120 N/C",
+    "4000 N/C",
+    "40 N/C",
+    "400 N/C"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Maydon kuchlanganligi 8 N/C, zaryad 0,5 C. Kuch?",
+   "variantlar": [
+    "4 N",
+    "2 N",
+    "8,5 N",
+    "16 N"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zaryad maydonda muvozanatda turishi uchun qanday kuch ta'sir qilishi kerak?",
+   "variantlar": [
+    "Faqat og'irlik",
+    "Har qanday kuch",
+    "Kuch bo'lmasligi",
+    "Teng va qarama-qarshi kuch"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

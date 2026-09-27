@@ -26,7 +26,7 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Matndagi matnda qaysi metallarning turlari nomlanadi?",
+   "savol": "Matnda qaysi metallar nomlanadi?",
    "variantlar": [
     "Temir va aluminiy",
     "Faqat oltin va kumush",
@@ -39,9 +39,9 @@
   {
    "savol": "Ko'mirni tejash uchun qanday elektrostansiyalar ko'paytirilmoqda?",
    "variantlar": [
-    "Atom elektrostansiyalari",
-    "Quyosh elektrostansiyalari",
-    "Shamol elektrostansiyalari",
+    "Ko'mir elektrostansiyalari",
+    "Neft elektrostansiyalari",
+    "Mazut elektrostansiyalari",
     "Gidroelektrostansiyalar"
    ],
    "togri": 3,
@@ -92,14 +92,14 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Plastmassalar qaydan olinadigan narsalar?",
+   "savol": "Matnga ko'ra turli chiqindilardan nima tayyorlanmoqda?",
    "variantlar": [
-    "Faqat metallardan",
-    "Faqat gazdan",
-    "Turli chiqindilardan",
-    "Faqat neftdan"
+    "Oltin",
+    "Plastmassa",
+    "Neft",
+    "Ko'mir"
    ],
-   "togri": 2,
+   "togri": 1,
    "qiyinlik": "oson"
   },
   {
@@ -130,7 +130,7 @@
     "Tezroq yurishi uchun",
     "Neftni tejash uchun",
     "Yanada og'ir bo'lganini uchun",
-    "Baho arzani"
+    "Arzon bo'lgani uchun"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -139,7 +139,7 @@
    "savol": "Tabiiy gazni tejash uchun aholi qanday qilishi kerak?",
    "variantlar": [
     "Gazni behuda yoqib qo'ymaslik",
-    "Gazni faqat sardi kunlari ishlatish",
+    "Gazni faqat sovuq kunlari ishlatish",
     "Gazni butunlay tark etish",
     "Gazni umuman ishlatmaslik"
    ],
@@ -152,7 +152,7 @@
     "Metallurgiya kombinatlarida eritilib yangidan buyumlar yasash uchun",
     "Axlatka tashlab yuborish uchun",
     "Dekoratsiya sifatida",
-    "Sотib yuborish uchun"
+    "Sotib yuborish uchun"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -195,27 +195,27 @@
    "variantlar": [
     "Avtomobil tezroq yurishi uchun",
     "Neftni tejash uchun",
-    "Avtomobil daha arzon bo'lishi uchun",
-    "Shaharni toza saqlash uchun"
+    "Avtomobil arzonroq bo'lishi uchun",
+    "Avtomobil og'irroq bo'lishi uchun"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Turli chiqindilardan qanday materiallar tayyorlanmoqda?",
+   "savol": "Plastmassa asosan qaysi foydali qazilmadan olinadi?",
    "variantlar": [
-    "Faqat gazlar",
-    "Faqat neft mahsullari",
-    "Faqat metalllar",
-    "Plastmassalar"
+    "Neftdan",
+    "Oltindan",
+    "Tuzdan",
+    "Granitdan"
    ],
-   "togri": 3,
+   "togri": 0,
    "qiyinlik": "o'rtacha"
   },
   {
    "savol": "Foydali qazilmalarni tejash uchun nima zarur?",
    "variantlar": [
-    "Faqat yangi burilmalar ishlab chiqarish",
+    "Faqat yangi mashinalar ishlab chiqarish",
     "Xorijdan olinadigan buyumlarni ishlatish",
     "Ularni umuman ishlatmaslik",
     "Fan va texnika taraqqiy etib oqilona foydalanish yo'llarini topish"
@@ -283,7 +283,7 @@
    "variantlar": [
     "Yog'och asosiy ishlatiladi",
     "Ko'mir va neft shuning uchun ishlatiladi",
-    "Ko'mir va neft o'rniga gaz, elektr va plastmassa ko'payadi",
+    "Suv energiyasi, elektr va qayta ishlangan materiallardan ko'proq foydalaniladi",
     "Hech narsa o'zgarishi yo'q"
    ],
    "togri": 2,
@@ -301,14 +301,14 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Agar benzin sarfi kamaytirilib va tabiiy gazdan kam foydalanilsa, matning asosiy maqsadiga qaysi darajada erishmish bo'ladi?",
+   "savol": "Benzin va gazni tejash nima uchun kerak?",
    "variantlar": [
-    "To'liq erishmish",
-    "Aksincha, muammo ko'payadi",
-    "Hech erishmish bo'lmaydi",
-    "Qisman erishmish"
+    "Ular tugab qolmasligi uchun",
+    "Ular ko'payib ketmasligi uchun",
+    "Ular arzonlashishi uchun",
+    "Hech qanday sababi yo'q"
    ],
-   "togri": 3,
+   "togri": 0,
    "qiyinlik": "qiyin"
   },
   {

@@ -17,7 +17,7 @@
   {
    "savol": "Tovuqning og'irligi qanchagacha bo'ladi?",
    "variantlar": [
-    "3-4 kg",
+    "8-10 kg",
     "5-6 kg",
     "2-4 kg",
     "1-2 kg"
@@ -59,7 +59,7 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Ona tovuq nechun tuxumni bosib yotib jo'jalar ochadi?",
+   "savol": "Ona tovuq nechta tuxumni bosib yotib, jo'ja ochadi?",
    "variantlar": [
     "30-40 ta",
     "50-60 ta",
@@ -103,11 +103,11 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Kurka qaysi hayvonga o'xshash dumiga ega?",
+   "savol": "Kurka dumini nimaga o'xshatib ko'tarib yuradi?",
    "variantlar": [
-    "Sichqonchiga",
+    "Sichqon dumiga",
     "Yelpig'ichga",
-    "Chimonga",
+    "Qoshiqqa",
     "Qo'ng'izga"
    ],
    "togri": 1,
@@ -172,7 +172,7 @@
    "savol": "G'ozlar qanday hayvonlar bilan oziqlanadi?",
    "variantlar": [
     "Mayda baliqlar va boshqa jonivorlar bilan",
-    "Nur va baliqlar bilan",
+    "Faqat go'sht bilan",
     "Faqat o'simliklarning urug'lari bilan",
     "Faqat chuvalchang bilan"
    ],
@@ -196,7 +196,7 @@
     "O'nlab",
     "Minglab",
     "Yuzlab",
-    "O'n minglab"
+    "Bittadan"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -215,9 +215,9 @@
   {
    "savol": "Uy parrandalari asosan nima uchun boqiladi?",
    "variantlar": [
-    "Faqat shuningdek",
+    "Faqat sayrashi uchun",
     "Tuxumi va go'shti uchun",
-    "Ularning sadasi uchun",
+    "Ovga olib chiqish uchun",
     "Harakat qilishi uchun"
    ],
    "togri": 1,
@@ -257,14 +257,14 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Agar ona tovuq 25 kunni bosib yotib 15 ta tuxumni ochsa, bitta tuxum o'chilish uchun taxminan necha kun kerak?",
+   "savol": "Ona tovuq tuxumlarni necha kun bosib yotadi?",
    "variantlar": [
     "5 kun",
-    "1 kun",
-    "3 kun",
-    "1.5-2 kun"
+    "20-25 kun",
+    "2 kun",
+    "60 kun"
    ],
-   "togri": 3,
+   "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
@@ -323,14 +323,14 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Ona tovuq 20-25 kunni tuxumni bosib yotib jo'jalar ochiriladi. Bu vaqt ichida ona tovuq nechun ko'proq tuxum bosib yotgan bo'ladi?",
+   "savol": "Qaysi uy parrandasining boshi va bo'yni patsiz?",
    "variantlar": [
-    "10-15 ta",
-    "15-20 ta",
-    "20-25 ta",
-    "5-10 ta"
+    "Tovuq",
+    "O'rdak",
+    "G'oz",
+    "Kurka"
    ],
-   "togri": 1,
+   "togri": 3,
    "qiyinlik": "qiyin"
   }
  ]

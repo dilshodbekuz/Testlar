@@ -29,9 +29,9 @@
    "savol": "Qaysi material'lardan bayram uchun bezaklar tayyorlash mumkin?",
    "variantlar": [
     "Faqat suvdan",
-    "Faqat yog''dan",
+    "Faqat yog'dan",
     "Turli xil qog'ozlardan",
-    "Faqat temir'dan"
+    "Faqat temirdan"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -62,9 +62,9 @@
    "savol": "Bezaklar tayyorlash jarayonida nima kerak?",
    "variantlar": [
     "Faqat kitob",
-    "Qog'oz, qaychi, yapishqali",
+    "Qog'oz, qaychi, yelim",
     "Faqat qalamlar",
-    "Faqat sumi"
+    "Faqat suv"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -106,9 +106,9 @@
    "savol": "Bezaklar tayyorlash amaliyoti qaysi ko'nikma rivojlantiradik?",
    "variantlar": [
     "Ijodiy qobiliyat va qo'l boshqaruvini",
-    "Faqat ko'rish qo'l ostini",
+    "Faqat yugurishni",
     "Faqat hisob-kitobni",
-    "Faqat yozish qo'l ostini"
+    "Faqat yozishni"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -149,7 +149,7 @@
   {
    "savol": "Qog'ozni yapishqali bilan birlashtirish vaqtida nima shart?",
    "variantlar": [
-    "Kesilgan hisob bilmasdik qo'yish",
+    "O'ylamasdan surtish",
     "Har joyga qo'yish",
     "Qaysi joylarga yapishqali qo'yish kerak aniq bilish",
     "Shunchaki qo'yish"
@@ -195,7 +195,7 @@
    "variantlar": [
     "Kitobga yozish",
     "O'qituvchiga ko'rsatib, izoh berish",
-    "Faqat gistarmni olmaga berish",
+    "Faqat uyga olib ketish",
     "Hech narsani ko'rsatmaslik"
    ],
    "togri": 1,
@@ -215,7 +215,7 @@
   {
    "savol": "Navro'z bayramiga bezaklar tayyorlashning maqsadi nima?",
    "variantlar": [
-    "Bayramni bezashlash va kule-kuli berish",
+    "Bayramni bezash va quvonch ulashish",
     "Daftar yozish",
     "Kitobni to'ldirish",
     "Vaqt o'tkazish"
@@ -224,12 +224,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Agar qog'oz kirtishib ketsa, nima qilish kerak?",
+   "savol": "Qog'oz yirtilib ketsa, nima qilish kerak?",
    "variantlar": [
     "Shu qog'ozdan foydalanish",
     "Boshqa qog'ozni olish va qayta urinish",
     "Shunchaki davom etish",
-    "Muallimga shikoya qilish"
+    "O'qituvchiga shikoyat qilish"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -238,8 +238,8 @@
    "savol": "Qaysi ranglarda Navro'z bayramiga bezaklar tayyorlash ko'proq maqbul?",
    "variantlar": [
     "Yashil, oq, qizil va sariq ranglarda",
-    "Faqat rangga",
-    "Faqat kurangga",
+    "Faqat kulrangda",
+    "Faqat jigarrangda",
     "Faqat qora rangda"
    ],
    "togri": 0,
@@ -251,7 +251,7 @@
     "Hech qanday xato bo'lmaydi",
     "Faqat buklashda xato",
     "Faqat rang qo'llashda xato",
-    "Kesilishda barmaq chiqinish, qog'oz to'g'ri kesilmaganliq"
+    "Qaychida barmoqni kesib olish, qog'ozni noto'g'ri kesish"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -273,7 +273,7 @@
     "Qog'ozning kattaligi",
     "Qog'ozning rangi",
     "Qog'ozning shakli",
-    "Qog'oz qanchalik mayda yoki qalin ekanini"
+    "Qog'ozning qanchalik yupqa yoki qalinligi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -312,14 +312,14 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Navro'z bayramiga bezaklar tayyorlash topshiriqini bajarish uchun qanday vaqt sarflanadi?",
+   "savol": "Navro'z bayrami qachon nishonlanadi?",
    "variantlar": [
-    "Faqat 5 minut",
-    "Faqat 10 minut",
-    "Vaqt muhim emas",
-    "O'quvchining ijodiy qobiliyatiga bog'liq 30-45 minut"
+    "1-yanvar",
+    "21-mart",
+    "9-may",
+    "1-sentyabr"
    ],
-   "togri": 3,
+   "togri": 1,
    "qiyinlik": "qiyin"
   }
  ]

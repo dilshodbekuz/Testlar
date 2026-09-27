@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "19-§. Laboratoriya ishi. Om qonunini o'rganish",
+ "savollar": [
+  {
+   "savol": "Om qonunini o'rganish ishida nima o'zgartiriladi?",
+   "variantlar": [
+    "Harorat",
+    "Uzunlik",
+    "Massa",
+    "Kuchlanish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda o'lchanadigan kattaliklar qaysilar?",
+   "variantlar": [
+    "Vaqt va yo'l",
+    "Tok kuchi va kuchlanish",
+    "Massa va hajm",
+    "Bosim va zichlik"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda kuchlanishni o'lchaydigan asbob?",
+   "variantlar": [
+    "Voltmetr",
+    "Ampermetr",
+    "Dinamometr",
+    "Termometr"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda tok kuchini o'lchaydigan asbob?",
+   "variantlar": [
+    "Termometr",
+    "Dinamometr",
+    "Ampermetr",
+    "Voltmetr"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda tok kuchini kuchlanishga bog'liqligi grafigi qanday?",
+   "variantlar": [
+    "Giperbola",
+    "To'g'ri chiziq",
+    "Aylana",
+    "Parabola"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda o'zgarmas saqlanadigan kattalik?",
+   "variantlar": [
+    "Tok kuchi",
+    "Vaqt",
+    "Kuchlanish",
+    "Qarshilik"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishdagi qarshilik nima?",
+   "variantlar": [
+    "Voltmetr",
+    "Batareya",
+    "Kalit",
+    "Rezistor (sim spiral)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zanjirni yig'ishdan oldin sxema chiziladimi?",
+   "variantlar": [
+    "Hech qachon",
+    "Ha",
+    "Yo'q",
+    "Ba'zan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Voltmetr rezistorga qanday ulanadi?",
+   "variantlar": [
+    "Ketma-ket",
+    "Aralash",
+    "Parallel",
+    "Ulanmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ampermetr rezistorga qanday ulanadi?",
+   "variantlar": [
+    "Parallel",
+    "Ulanmaydi",
+    "Aralash",
+    "Ketma-ket"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "U = 2 V da I = 0,4 A; U = 4 V da I = 0,8 A. Qarshilik?",
+   "variantlar": [
+    "0,2 Om",
+    "1,6 Om",
+    "5 Om",
+    "2,4 Om"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda U 2 marta oshirilganda I ham 2 marta ortdi. Bu nimani anglatadi?",
+   "variantlar": [
+    "Kvadratik",
+    "Bog'liq emas",
+    "Tok kuchi kuchlanishga to'g'ri proporsional",
+    "Teskari proporsional"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "U = 1,5 V, I = 0,3 A; R = ?",
+   "variantlar": [
+    "1,8 Om",
+    "0,2 Om",
+    "5 Om",
+    "0,45 Om"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "U = 3 V, I = 0,6 A; U = 6 V da I = ?",
+   "variantlar": [
+    "0,3 A",
+    "3,6 A",
+    "1,2 A",
+    "0,6 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda 3 ta tajriba o'tkazilsa, qarshilik qanday olinadi?",
+   "variantlar": [
+    "Yig'indisi",
+    "O'rtacha qiymati",
+    "Eng kattasi",
+    "Eng kichigi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda jadvalda kuchlanish 1, 2, 3 V. Tok 0,1; 0,2; 0,3 A. R = ?",
+   "variantlar": [
+    "30 Om",
+    "6 Om",
+    "10 Om",
+    "0,1 Om"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Reostat ishda nima uchun ishlatiladi?",
+   "variantlar": [
+    "Isitish uchun",
+    "Yoritish uchun",
+    "Tovush uchun",
+    "Tok va kuchlanishni o'zgartirish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda qarshilik tajriba davomida qizib ketsa nima bo'ladi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Kamayadi",
+    "Qarshilik ortishi mumkin",
+    "Nolga teng"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda natijalar qanday chiziq grafigida ifodalanadi?",
+   "variantlar": [
+    "U ni R ga",
+    "R ni I ga",
+    "I ni U ga bog'liqligi",
+    "m ni t ga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda asbob xatoligi nimani anglatadi?",
+   "variantlar": [
+    "Vaqtni",
+    "Zanjir uzunligini",
+    "O'lchash aniqligini",
+    "Asbob narxini"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "VAX to'g'ri chiziq, origindan o'tadi va (4 V; 0,8 A) nuqta bor. R = ?",
+   "variantlar": [
+    "4,8 Om",
+    "3,2 Om",
+    "5 Om",
+    "0,2 Om"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "I(U) grafigida ikkita o'tkazgich: 1-siniki tik. Qaysi biri kichik qarshilikka ega?",
+   "variantlar": [
+    "Tikroq chiziq",
+    "Teng",
+    "Yotiqroq chiziq",
+    "Aniqlab bo'lmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "U = 4 V, I = 0,5 A bo'lsa, o'tkazgich qarshiligi nechaga teng?",
+   "variantlar": [
+    "8 Om",
+    "4,5 Om",
+    "2 Om",
+    "0,125 Om"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tok kuchining kuchlanishga bog'liqligi grafigi to'g'ri chiziq emas (egri) bo'lsa, o'tkazgich?",
+   "variantlar": [
+    "Metall bo'lishi shart",
+    "Ishlamaydi",
+    "Om qonuniga bo'ysunmaydi",
+    "Ideal"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "R = 8 Om o'tkazgich uchun U = 2 V, 4 V, 6 V da tok?",
+   "variantlar": [
+    "16; 32; 48 A",
+    "0,25; 0,5; 0,75 A",
+    "4; 8; 12 A",
+    "0,5; 1; 1,5 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tajribada U va I mos ravishda 5 V va 1 A, keyin 10 V va 2,1 A. Bu qanday?",
+   "variantlar": [
+    "Qarshilik nol",
+    "Xato",
+    "Taxminan Om qonuniga mos",
+    "Butunlay mos emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishdagi eng katta xatolik manbai?",
+   "variantlar": [
+    "Havo harorati",
+    "Asboblarning xatoligi va simlar ulanishi",
+    "Stol rangi",
+    "Bino balandligi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Om qonuni R doimiy bo'lganda I = U/R. Grafik tik chiziqmi?",
+   "variantlar": [
+    "Gorizontal",
+    "Ha, origindan o'tuvchi to'g'ri chiziq",
+    "Vertikal",
+    "Yo'q, egri"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Voltmetr shkalasida bir bo'linma 0,2 V. Strelka 15-bo'linmada. U = ?",
+   "variantlar": [
+    "15 V",
+    "75 V",
+    "3 V",
+    "0,013 V"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ampermetr 3-bo'linmada, bo'linma qiymati 0,1 A. Tok?",
+   "variantlar": [
+    "30 A",
+    "3 A",
+    "0,3 A",
+    "0,03 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

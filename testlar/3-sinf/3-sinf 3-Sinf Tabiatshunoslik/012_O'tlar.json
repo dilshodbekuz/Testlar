@@ -7,7 +7,7 @@
    "savol": "Tabiiy o'simliklar qayerda o'sadi?",
    "variantlar": [
     "Tog', adir, o'rmon, yaylov va cho'llarda",
-    "Shumlarda",
+    "Faqat uylar ichida",
     "Qishloq uylarida",
     "Faqat cho'lda"
    ],
@@ -39,7 +39,7 @@
   {
    "savol": "Yaylov va adirlar nima bilan qoplangan?",
    "variantlar": [
-    "Qanotli hayvonlarga",
+    "Muzliklar bilan",
     "Butalarga",
     "O'tlarga",
     "Daraxtlarga"
@@ -64,7 +64,7 @@
     "Sut kabi oq sharba",
     "Tosh suyuqligi",
     "Qora rang",
-    "Qalindi sho'rva"
+    "Qalin moy"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -74,7 +74,7 @@
    "variantlar": [
     "Tog'larda",
     "Ariq bo'ylarida",
-    "Shumlarda",
+    "Suv ostida",
     "Dala chetlarida"
    ],
    "togri": 0,
@@ -84,7 +84,7 @@
    "savol": "Butalar poyalari qanday?",
    "variantlar": [
     "Yog'ochlangan",
-    "Yumshaq",
+    "Yumshoq",
     "Suyuq",
     "Oq rang"
    ],
@@ -94,10 +94,10 @@
   {
    "savol": "Sachratqi nima uchun foydalaniladi?",
    "variantlar": [
-    "Qulotqalar uchun",
+    "Quloq og'rig'i uchun",
     "Asalarilar uchun",
     "Shamollash va oshqozon kasalliklari uchun",
-    "Joni hayvonlarni oziqlandirishga"
+    "Kiyim bo'yash uchun"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -139,7 +139,7 @@
    "savol": "Qoqio't o'simligini qanday foydalaniladi?",
    "variantlar": [
     "Faqat barglar ovqatga solinadi",
-    "Dor tayyorlanadi va barglar ovqatga solinadi",
+    "Dori tayyorlanadi va barglari ovqatga solinadi",
     "Uch qismiga bo'linadi",
     "Faqat dor tayyorlanadi"
    ],
@@ -149,9 +149,9 @@
   {
    "savol": "Sachratqining barglarini qanday kasalliklari uchun foydalaniladi?",
    "variantlar": [
-    "Asalarilar uchun",
+    "Asalarilarni boqish uchun",
     "Shamollash, oshqozon va ichak kasalliklari uchun",
-    "Qulotqalar uchun",
+    "Quloq og'rig'i uchun",
     "Yaralar uchun"
    ],
    "togri": 1,
@@ -161,9 +161,9 @@
    "savol": "Na'matakni qanday jonavorlar changlatadi?",
    "variantlar": [
     "Qushlar",
-    "Chapdalar",
+    "Chivinlar",
     "Asalarilar",
-    "Kuninglar"
+    "Baliqlar"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -182,7 +182,7 @@
   {
    "savol": "Butalar qanday vaqtda yangi barglar chiqaradi?",
    "variantlar": [
-    "Keyingi yilda",
+    "Keyingi yil bahorida",
     "Yozda",
     "Qishda",
     "Kuzda"
@@ -227,7 +227,7 @@
    "savol": "Agar na'matakni asalarilar changlatmasa, meva qanday bolib qoladi?",
    "variantlar": [
     "Meva hosil bo'lmaydi",
-    "Meva norma qaytaga o'shadi",
+    "Meva odatdagidek bo'ladi",
     "Meva qora bo'lib qoladi",
     "Ko'proq meva hosil bo'ladi"
    ],
@@ -237,7 +237,7 @@
   {
    "savol": "Nima uchun butalar ko'p yil davomida gullab, meva berishni davomini beradi?",
    "variantlar": [
-    "Ularning barglar kuch beradi",
+    "Barglari ko'p bo'lgani uchun",
     "Asalarilar changlatadi",
     "Ularning poyalari yog'ochlangan va qattiq bo'lgani uchun",
     "Dori tayyorlanadi"
@@ -250,7 +250,7 @@
    "variantlar": [
     "U zaharli o'simlik",
     "U ko'p kuchli va hayot davomiyligi uzun o'simlik",
-    "U sevar o'simlik",
+    "U faqat cho'l o'simligi",
     "U faqat cho'lda o'sadigan o'simlik"
    ],
    "togri": 1,
@@ -261,8 +261,8 @@
    "variantlar": [
     "Ta'siri yo'q",
     "Zaharli ta'sir",
-    "Qalbi depressiya ta'siri",
-    "Kuch beruvchi va terapevtik ta'sir"
+    "Uyqu keltiruvchi ta'sir",
+    "Shifobaxsh ta'sir"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -273,7 +273,7 @@
     "Ular tabiat bag'rida o'sadigan o'simliklardir",
     "Ular tez o'sadigan o'simliklar",
     "Ular madaniy o'simliklar",
-    "Ular qifoyi o'simliklar"
+    "Ular tez so'liydigan"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -301,12 +301,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Na'matak mevalarini shifobaxsh deb atashning asosi nima?",
+   "savol": "Na'matak mevasi nima uchun shifobaxsh hisoblanadi?",
    "variantlar": [
-    "Faqat razzasi",
-    "Matndagi tasdiqlangan xulosa",
-    "Tekin tavsiyalar",
-    "Faqat ko'rinishi"
+    "Faqat mazasi uchun",
+    "Unda vitaminlar ko'p va kasalliklarni davolashda foydalaniladi",
+    "Hech qanday asos yo'q",
+    "Faqat ko'rinishi uchun"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -314,7 +314,7 @@
   {
    "savol": "Kech kuzda butalar barglari to'kilsa va keyingi yilda yangi barglar chiqsa, bu qanday tabii jarayonni ko'rsatadi?",
    "variantlar": [
-    "O'simlikning turamtkilanish jarayoni va yangi hayot sikli",
+    "O'simlikning qishki tinim davri va yangi hayot sikli",
     "O'simlikning to'liq o'limi",
     "O'simlikning joyi o'zgarishi",
     "O'simlikning o'sishi"

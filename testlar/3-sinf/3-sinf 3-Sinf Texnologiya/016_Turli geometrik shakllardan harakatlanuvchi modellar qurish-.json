@@ -17,9 +17,9 @@
   {
    "savol": "Mashina modelining g'ildiraklari qaysi materialdan yasaladi?",
    "variantlar": [
-    "Temir tel",
-    "Yog'oc",
-    "Qag'oz",
+    "Temir sim",
+    "Yog'och",
+    "Qog'oz",
     "Plastmassa qopqoqdan"
    ],
    "togri": 3,
@@ -97,7 +97,7 @@
     "Rangda",
     "G'ildirakda",
     "Qopqoqda",
-    "Duvorda"
+    "Devorda"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -206,7 +206,7 @@
    "variantlar": [
     "Yuqori va pastki",
     "Katta va kichik",
-    "Rangli va qarang-qora",
+    "Rangli va rangsiz",
     "Asosiy, g'ildiraklar va boshqalar"
    ],
    "togri": 3,
@@ -218,7 +218,7 @@
     "Faqat rang",
     "Faqat o'yin",
     "Faqat shovqin",
-    "Qurilashni ta'minlash"
+    "Modelning mustahkam qurilishini ta'minlash"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -227,7 +227,7 @@
    "savol": "Haydovchi va harakatlanuvchi mashina modeli o'rtasida qanday bog'liqlik bor?",
    "variantlar": [
     "Faqat rang ta'sir qiladi",
-    "Bog'lanishsoni yo'q",
+    "Bog'lanish yo'q",
     "Haydovchi haqiqiy mashinani boshqaradi, model esa o'quv nusxasi",
     "Faqat o'lchovlar ta'sir qiladi"
    ],
@@ -237,7 +237,7 @@
   {
    "savol": "Bo'sh qutichalar, plastmassa qopqoq va geometrik shakllardan model yasasangiz, nima hosil bo'ladi?",
    "variantlar": [
-    "Haqiqiy mashinaning ko'chirib tasvirlangan namunasi",
+    "Haqiqiy mashinaning kichik nusxasi (modeli)",
     "Faqat ranglar",
     "Faqat o'yunchoq",
     "Faqat nomi"
@@ -248,7 +248,7 @@
   {
    "savol": "Qismlarni belgilash va plastmassa qopqoqni g'ildirakda ishlatiish o'rtasida qanday munosabat bor?",
    "variantlar": [
-    "Bog'lanishsoni yo'q",
+    "Bog'lanish yo'q",
     "Faqat o'lchovlar ta'sir qiladi",
     "Faqat rang ta'sir qiladi",
     "Aniq qismlar va to'g'ri materiallar modelning ishlashini ta'minlaydi"
@@ -259,10 +259,10 @@
   {
    "savol": "Haydovchilik ziyraklik talab etsa, model yasashda qanday aks etadi?",
    "variantlar": [
-    "Bog'lanishsoni yo'q",
+    "Bog'lanish yo'q",
     "Faqat o'lchovlar ta'sir qiladi",
     "Faqat rang ta'sir qiladi",
-    "Haydovchi xavfdan o'z, modelni to'g'ri va ehtiyotkorlik bilan yasash kerak"
+    "Haydovchi kabi, modelni ham diqqat va ehtiyotkorlik bilan yasash kerak"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -303,9 +303,9 @@
   {
    "savol": "Geometrik shakllar, o'lchovlar, plastmassa, qutichalar va g'ildiraklar o'rtasida qanday munosabat bor?",
    "variantlar": [
-    "Bular birgalikda harakatlanuvchi, to'g'ri ishlaychi modeli yaratadi",
+    "Bular birgalikda harakatlanuvchi, to'g'ri ishlaydigan model yaratadi",
     "Faqat nomi ta'sir qiladi",
-    "Bog'lanishsoni yo'q",
+    "Bog'lanish yo'q",
     "Faqat rang ta'sir qiladi"
    ],
    "togri": 0,

@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "2-§. Molekulaning massasi va o'lchami",
+ "savollar": [
+  {
+   "savol": "Molekulaning o'lchami taxminan?",
+   "variantlar": [
+    "≈ 10⁻² m",
+    "≈ 10⁻¹⁰ m",
+    "≈ 10⁻⁵ m",
+    "≈ 1 m"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Molekulaning massasi taxminan (suv)?",
+   "variantlar": [
+    "≈ 3 kg",
+    "≈ 3 · 10⁻¹⁰ kg",
+    "≈ 3 · 10⁻²⁶ kg",
+    "≈ 3 · 10⁻³ kg"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Atom massa birligi (a.m.b.)?",
+   "variantlar": [
+    "1,66 · 10⁻²⁷ kg",
+    "1 kg",
+    "10⁻³ kg",
+    "10⁻¹⁰ kg"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nisbiy molekulyar massa nima?",
+   "variantlar": [
+    "Hajm",
+    "Molekula massasi",
+    "Molekula massasining uglerod atomi massasining 1/12 qismiga nisbati",
+    "Atom raqami"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nisbiy molekulyar massa qaysi harf bilan belgilanadi?",
+   "variantlar": [
+    "N",
+    "Mr",
+    "M",
+    "m"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nisbiy molekulyar massa o'lchamlimi?",
+   "variantlar": [
+    "Ha, kg",
+    "Ha, g",
+    "Yo'q (o'lchamsiz)",
+    "Ha, mol"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vodorod (H₂) nisbiy molekulyar massasi?",
+   "variantlar": [
+    "1",
+    "2",
+    "16",
+    "18"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kislorod (O₂) nisbiy molekulyar massasi?",
+   "variantlar": [
+    "16",
+    "2",
+    "32",
+    "8"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suv (H₂O) nisbiy molekulyar massasi?",
+   "variantlar": [
+    "10",
+    "20",
+    "18",
+    "16"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Karbonat angidrid (CO₂) nisbiy molekulyar massasi?",
+   "variantlar": [
+    "44",
+    "12",
+    "32",
+    "28"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Molekulaning massasi formulasi?",
+   "variantlar": [
+    "m₀ = N_A / M",
+    "m₀ = M + N_A",
+    "m₀ = M / N_A",
+    "m₀ = M · N_A"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Avogadro doimiysi N_A?",
+   "variantlar": [
+    "1",
+    "6,02 · 10²⁶ mol⁻¹",
+    "6,02 · 10²³ mol⁻¹",
+    "6,02 · 10¹⁰ mol⁻¹"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Suv molyar massasi (M)?",
+   "variantlar": [
+    "18 g/mol",
+    "180 g/mol",
+    "18 kg/mol",
+    "1,8 g/mol"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Suv molekulasi massasi m₀ = M/N_A ≈ ?",
+   "variantlar": [
+    "≈ 3 · 10⁻³⁰ kg",
+    "≈ 3 kg",
+    "≈ 3 · 10⁻²³ kg",
+    "≈ 3 · 10⁻²⁶ kg"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kislorod molyar massasi?",
+   "variantlar": [
+    "8 g/mol",
+    "32 g/mol",
+    "2 g/mol",
+    "16 g/mol"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Azot (N₂) molyar massasi?",
+   "variantlar": [
+    "14 g/mol",
+    "28 g/mol",
+    "2 g/mol",
+    "7 g/mol"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Metanning (CH₄) nisbiy molekulyar massasi?",
+   "variantlar": [
+    "16",
+    "20",
+    "4",
+    "12"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ammiak (NH₃) nisbiy molekulyar massasi?",
+   "variantlar": [
+    "3",
+    "10",
+    "14",
+    "17"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Molekula o'lchamini baholash usullaridan biri?",
+   "variantlar": [
+    "Massa o'lchash",
+    "Moy pardasi usuli",
+    "Uzunlik o'lchash",
+    "Vaqt"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 mol moddada nechta molekula bor?",
+   "variantlar": [
+    "6,02 · 10²³",
+    "1",
+    "10⁶",
+    "10"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kislorod molekulasi massasi m₀ = M/N_A. M = 0,032 kg/mol. m₀ ≈ ?",
+   "variantlar": [
+    "≈ 5,3 · 10⁻²⁶ kg",
+    "≈ 5,3 · 10⁻²⁹ kg",
+    "≈ 5,3 kg",
+    "≈ 5,3 · 10⁻²³ kg"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Vodorod molekulasi massasi (M = 0,002 kg/mol)?",
+   "variantlar": [
+    "≈ 3,3 · 10⁻²⁷ kg",
+    "≈ 3,3 · 10⁻³⁰ kg",
+    "≈ 3,3 · 10⁻²⁴ kg",
+    "≈ 3,3 kg"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uglerod atomi massasi (M = 0,012 kg/mol)?",
+   "variantlar": [
+    "≈ 2 · 10⁻²⁹ kg",
+    "≈ 2 · 10⁻²⁶ kg",
+    "≈ 2 · 10⁻²³ kg",
+    "≈ 2 kg"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Moy tomchisi 1 mm³ hajmga ega, u suv yuzasida 0,5 m² doira hosil qildi. Molekula o'lchami (d = V/S)?",
+   "variantlar": [
+    "0,5 m",
+    "2 · 10⁻⁶ m",
+    "2 · 10⁻⁹ m",
+    "2 · 10⁻¹² m"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun moy pardasi bir molekula qalinligida deb olinadi?",
+   "variantlar": [
+    "Yoyilish cheklanguncha yoyiladi",
+    "Suv qotgan",
+    "Sababsiz",
+    "Moy qattiq"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Molekula massasi 3 · 10⁻²⁶ kg. 1 kg moddada molekulalar soni?",
+   "variantlar": [
+    "≈ 3,3 · 10²³",
+    "≈ 3 · 10⁻²⁶",
+    "≈ 3,3 · 10²⁵",
+    "≈ 10⁶"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "CO₂ molekulasi massasi (M = 0,044)?",
+   "variantlar": [
+    "≈ 7,3 · 10⁻²³ kg",
+    "≈ 7,3 · 10⁻²⁹ kg",
+    "≈ 7,3 · 10⁻²⁶ kg",
+    "≈ 7,3 kg"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Molekulalarning o'lchami ≈ 10⁻¹⁰ m. 1 sm chiziqda nechta molekula sig'adi?",
+   "variantlar": [
+    "≈ 10²",
+    "≈ 10⁻⁸",
+    "≈ 10¹⁶",
+    "≈ 10⁸"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 mol suv massasi?",
+   "variantlar": [
+    "1,8 g",
+    "18 g",
+    "180 g",
+    "18 kg"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 mol suv hajmi (ρ = 1 g/sm³)?",
+   "variantlar": [
+    "180 sm³",
+    "22,4 l",
+    "18 sm³",
+    "1,8 sm³"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

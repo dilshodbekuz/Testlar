@@ -31,18 +31,18 @@
     "Ochilib",
     "Yopiladi",
     "Kesiladi",
-    "Qoradi"
+    "Qurib qoladi"
    ],
    "togri": 0,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Olma, o'rik, gilos kabi mevalar bahorda qanday rangda gullaydi?",
+   "savol": "Olma, o'rik, gilos bahorda qanday rangda gullaydi?",
    "variantlar": [
-    "Turfa ranglarda",
-    "Faqat sariq",
-    "Faqat qizil",
-    "Faqat oq"
+    "Oq va pushti",
+    "Faqat qora",
+    "Faqat ko'k",
+    "Faqat jigarrang"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -92,14 +92,14 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Nastarin rasmida nechtata farq topishi kerak?",
+   "savol": "Bahorda qaysi gul birinchilardan bo'lib ochiladi?",
    "variantlar": [
-    "5 ta",
-    "6 ta",
-    "8 ta",
-    "7 ta"
+    "Boychechak",
+    "Kungaboqar",
+    "Xrizantema",
+    "Paxta"
    ],
-   "togri": 2,
+   "togri": 0,
    "qiyinlik": "oson"
   },
   {
@@ -128,7 +128,7 @@
    "savol": "Rasm ishlashda tasvirni o'lchamlarini belgilash nima uchun zarur?",
    "variantlar": [
     "Rasmni to'g'ri joylashtirib o'lchamini aniqlash uchun",
-    "Varaqni qoq qilish uchun",
+    "Varaqni qoqlash uchun",
     "Rang tanlab olish uchun",
     "Vaqt o'tkazish uchun"
    ],
@@ -139,7 +139,7 @@
    "savol": "Qalamda xomaki ishlash degani nima?",
    "variantlar": [
     "Rangli qalamda bo'yash",
-    "Engil chiziqlarni softalik bilan belgilash",
+    "Yengil chiziqlar bilan taxminiy belgilash",
     "Qalamni o'tkir qilish",
     "Bo'yoqlarni aralashtirish"
    ],
@@ -171,7 +171,7 @@
   {
    "savol": "O. Qozoqov \"Vodiyda bahor\" asarida bahor qanday tasvirlangan?",
    "variantlar": [
-    "Qoradi",
+    "Qorong'i",
     "Yam-yashil va turfa ranglarda",
     "Sokin edi",
     "Faqat oq rang edi"
@@ -207,20 +207,20 @@
     "Faqat nuqta qo'llash",
     "Rasmni butunlay o'chirish",
     "Qora rang qo'llash",
-    "Ranglarni engil bo'lish va chiziqlarni aniqlash"
+    "Chiziqlarni aniqlab, ortiqchasini o'chirish"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Rasm ishlashning qaysi bosqichida qalam va bo'yoqlar birgalikda ishlatiladi?",
+   "savol": "Qaysi bosqichda asosan bo'yoq ishlatiladi?",
    "variantlar": [
     "Qalamda yakunlashda",
     "O'lchamlashda",
     "Oxirgi bosqichda",
     "Birinchi bosqichda"
    ],
-   "togri": 0,
+   "togri": 2,
    "qiyinlik": "o'rtacha"
   },
   {
@@ -228,7 +228,7 @@
    "variantlar": [
     "Qo'l tartibi muhim emas",
     "Dastlab faqat qora rang",
-    "Dastlab qalamda xomaki, keyin rang, oxirida qalamda yakunlash",
+    "Dastlab o'lchamni belgilash, xomaki, qalamda yakunlash, keyin bo'yash",
     "Dastlab rang, keyin xomaki, oxirida qalamda yakunlash"
    ],
    "togri": 2,
@@ -259,10 +259,10 @@
   {
    "savol": "Bahor faslining ilk darakchilari deganda ko'z oldingizga nimalar keladi?",
    "variantlar": [
-    "Sorin, quyin, yomg'ir",
+    "Qor, sovuq, muz",
     "Faqat shamol",
     "Faqat quyash",
-    "Gullayotgan shoxlar, yam-yashil o'simliklar, quyin"
+    "Gullayotgan shoxlar, yam-yashil o'simliklar, quyosh"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -295,7 +295,7 @@
     "Faqat gullayotgan daraxtlar",
     "Faqat yomg'ir va shamol",
     "Faqat quyash",
-    "Yam-yashil o'simliklar, gullayotgan shoxlar, quyin va boshqa alamatlar"
+    "Yam-yashil o'simliklar, gullayotgan shoxlar, quyosh va boshqa alomatlar"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -326,7 +326,7 @@
    "savol": "Rasm ishlashda qalamda yakunlash va bo'yoqlar bilan ishlov berish o'rtasidagi farq nima?",
    "variantlar": [
     "Ikkalasiham bir xil narsani qiladi",
-    "Yakunlash engil, bo'yoqlar ishlov - rang to'q va quyish",
+    "Qalamda yakunlashda chiziqlar aniqlanadi, bo'yashda esa rang beriladi",
     "Farq yo'q",
     "Faqat vaqt farqi"
    ],

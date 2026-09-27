@@ -44,7 +44,7 @@
     "6 ta",
     "8 ta"
    ],
-   "togri": 2,
+   "togri": 0,
    "qiyinlik": "oson"
   },
   {
@@ -61,9 +61,9 @@
   {
    "savol": "Denis Istomin, Farrux Do'stov va boshqalar qaysi soha bo'yicha faoliyat yuritadi?",
    "variantlar": [
-    "Sinematica",
+    "Kinoda",
     "Musiqada",
-    "Edebiyotda",
+    "Adabiyotda",
     "Sportda - tennisda"
    ],
    "togri": 3,
@@ -73,9 +73,9 @@
    "savol": "Tennis yildan yilga qanday bo'lmoqda?",
    "variantlar": [
     "Qiziqish ortib bormoqda",
-    "Yakunlashib ketmoqda",
-    "Ahamiyati kamaytib bormoqda",
-    "O'zbeki qolmoqda"
+    "Yo'qolib bormoqda",
+    "Qiziqish kamaymoqda",
+    "O'zgarmay qolmoqda"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -116,9 +116,9 @@
   {
    "savol": "Agar siz tennischi rasmini bosqichlar asosida ishlashni xohlasangiz, birinchi navbatda nima qilish kerak?",
    "variantlar": [
-    "Qalamni sharqlash",
-    "Kontirni chizish",
-    "Qog'ozni tatib berish",
+    "Qalamni sindirish",
+    "Konturni chizish",
+    "Qog'ozni yirtish",
     "Ranglarni aralashtirish"
    ],
    "togri": 1,
@@ -147,7 +147,7 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Agar tennischi rasmini 6 ta bosqichdan ishlash kerak bo'lsa, ularni barchasini qanday bajariş kerak?",
+   "savol": "Agar tennischi rasmini 4 ta bosqichdan ishlash kerak bo'lsa, ularni barchasini qanday bajarish kerak?",
    "variantlar": [
     "Bosqichlarning tartibi muhim emas",
     "Faqat birinchi bosqichni bajarish yetarli",
@@ -205,9 +205,9 @@
    "savol": "Sinfda ishlangan tennischi rasmini bo'yashni qaysi bosqichda boshlash maqulroq?",
    "variantlar": [
     "Dastlabki chizmada",
-    "Kontir chizilgandan keyin",
+    "Kontur chizilgandan keyin",
     "Rasm butunlay tayyor bo'lgandan keyin",
-    "Kontir chizilgunga qadar"
+    "Kontur chizilgunga qadar"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -218,7 +218,7 @@
     "Yaxshi natijalarga erishlashi orqali O'zbekiston sharafini oshirish",
     "Faqat pul topish",
     "Shunga e'tibor bermasa bo'ladi",
-    "Faqat soz bilan gapirish"
+    "Faqat so'z bilan"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -261,7 +261,7 @@
    "variantlar": [
     "Ular butunlay boshqachalar",
     "Sog'lig'ini mustahkamlash jismoniy rivojlantirishing bazasi va natijasi",
-    "Ular erkasidir",
+    "Ular bir xil",
     "Ularning bog'lanishi yo'q"
    ],
    "togri": 1,
@@ -271,7 +271,7 @@
    "savol": "O'zbek tennischilarining nomlaridan qanday xulosa chiqaramiz va ular qaysi davlatning fuqarolari?",
    "variantlar": [
     "Ularning milliyati Britaniya",
-    "Raqamlarning jami 5",
+    "Ularning soni 5 ta",
     "Matnda belgilangan barcha tennischilar O'zbekiston davlatining fuqarolari",
     "Ismlari ingliz tilida yozilgan"
    ],
@@ -279,11 +279,11 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Rasm ishlashning 6 ta bosqichni tartib bilan bajarish nima uchun muhim?",
+   "savol": "Rasm ishlashning 4 ta bosqichni tartib bilan bajarish nima uchun muhim?",
    "variantlar": [
     "Bosqichlar boshqacha bo'lishi mumkin",
-    "Faqat ish tartibini turat qilish",
-    "Ixcham o'sib borishi, tabiiy ketma-ketlik va rasm sifatining yuqorligi",
+    "Faqat ishni sekinlashtirish",
+    "Rasm tartibli va sifatli chiqadi",
     "Vaqt o'tkazish"
    ],
    "togri": 2,
@@ -306,18 +306,18 @@
     "Faqat pul bilan",
     "Matn aytmagan",
     "Sportchilarning xalqaro natijalariga orqali davlat obro'sini oshirish",
-    "Faqat soz bilan"
+    "Faqat so'z bilan"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Tennisning nima xususiyatlari uni boshqa sport turlaridan farq qiladi?",
+   "savol": "Tennisda qaysi jihozlar ishlatiladi?",
    "variantlar": [
-    "Rasm ishlash jarayoni, sog'lig'ini mustahkamlash, yoshlar uchun ilhom, xalqaro daraja",
-    "Faqat o'yinchi jismoniyligini",
-    "Shunday aytilmagan",
-    "Faqat rang"
+    "Raketka va to'p",
+    "Chang'i va tayoq",
+    "Qilich va qalqon",
+    "Konki"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -327,8 +327,8 @@
    "variantlar": [
     "Matn aytmagan",
     "Faqat isim sifatida",
-    "Faqat diktahs uchun",
-    "Nomuna sportchi sifatida va yoshlarni tennisga jalb qilish asosi"
+    "Faqat diktant uchun",
+    "Namunali sportchilar sifatida yoshlarni sportga jalb qilish"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"

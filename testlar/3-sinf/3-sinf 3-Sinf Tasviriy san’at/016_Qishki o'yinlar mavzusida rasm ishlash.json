@@ -7,7 +7,7 @@
    "savol": "Qish faslida qanday iqlim bo'ladi?",
    "variantlar": [
     "Qaynoq iqlim",
-    "Samson havo",
+    "Mo''tadil havo",
     "Sovuq iqlim",
     "Issiq iqlim"
    ],
@@ -18,9 +18,9 @@
    "savol": "Qorli yerlar bolalarga nima uchun qiziqarli bo'ladi?",
    "variantlar": [
     "O'yin maydoniga aylanadi",
-    "Keskin tosh bo'ladi",
+    "Qattiq tosh bo'ladi",
     "O'yinni qiyin qiladi",
-    "Bolalar tomonidan sevalmaydi"
+    "Bolalar yoqtirmaydi"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -50,7 +50,7 @@
   {
    "savol": "Yaxmalak nima tufayli hosil bo'ladi?",
    "variantlar": [
-    "Chumada tufayli",
+    "Chang tufayli",
     "Sovuq iqlim tufayli",
     "Shamol tufayli",
     "Issiqlik tufayli"
@@ -84,7 +84,7 @@
    "savol": "Qorbobo haykalini yasash uchun asosiy material nima?",
    "variantlar": [
     "Sement",
-    "Ko'prik",
+    "Temir",
     "Tuproq",
     "Qor"
    ],
@@ -96,8 +96,8 @@
    "variantlar": [
     "Qor yoqish",
     "Qorning tuzilmasi",
-    "Bolalarning qishki o'yini",
-    "Qordan qulla yasash"
+    "Qor to'plari otishib o'ynaladigan qishki o'yin",
+    "Qordan uy yasash"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -130,7 +130,7 @@
     "Qor va sovuq bo'lgan joyni ifodalovchi ranglar",
     "Faqat ko'k va sariq",
     "Faqat qizil va sariq",
-    "Rang-barangan"
+    "Rang-barang ranglar"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -140,7 +140,7 @@
    "variantlar": [
     "Asosiy shakli chizish yoki qor to'plash",
     "Rang to'ldirish",
-    "Ochko chizish",
+    "Ko'zoynak chizish",
     "Qor uyalarini yasash"
    ],
    "togri": 0,
@@ -184,7 +184,7 @@
    "variantlar": [
     "Oyoqlar",
     "Bosh, ko'zlar, burun, og'iz",
-    "Qisqichlar",
+    "Qanotlar",
     "Rangarang"
    ],
    "togri": 1,
@@ -271,9 +271,9 @@
    "savol": "Darslikdagi bosqichli rasmlarning ketma-ketligi qanday?",
    "variantlar": [
     "Detalllar → asosiy shakl",
-    "Yo'g'in → yo'g'in emas",
+    "Katta → kichik",
     "Asosiy shakl → hajm → detalllar → to'ldirish",
-    "Raqam → bosh → detalllar"
+    "Rang → bosh → detallar"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -293,7 +293,7 @@
    "savol": "Rassom qishki manzorani yasaganda qaysi shakllarga alohida e'tibor beradi?",
    "variantlar": [
     "Faqat burchakli chiziqlar",
-    "Tuman, dumaloq bo'lgan qor formalar va bolalar",
+    "Dumaloq qor shakllari va bolalar",
     "Gorizontal chiziqlar",
     "Faqat to'g'ri chiziqlar"
    ],
@@ -323,7 +323,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Bosqichli rasmlarning o'qituvchik ahamiyati qanday?",
+   "savol": "Bosqichli rasmlarning o'quv ahamiyati qanday?",
    "variantlar": [
     "Faqat ko'rish uchun",
     "Murakkab shakllarni bosqichma-bosqich yasash mumkin",

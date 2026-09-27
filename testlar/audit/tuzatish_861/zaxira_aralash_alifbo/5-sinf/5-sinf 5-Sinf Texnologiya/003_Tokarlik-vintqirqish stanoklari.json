@@ -1,0 +1,337 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Texnologiya",
+ "mavzu": "Tokarlik-vintqirqish stanoklari",
+ "savollar": [
+  {
+   "savol": "Tokarlik-vintqirqish stanoki nima uchun mo'ljallangan?",
+   "variantlar": [
+    "Faqat toreslarni qirqish uchun",
+    "Asosiy tokarlik operatsiyalarini hamda silindr va konussimon yuzalarni ochish, toreslarni qirqish, parmalash va rezba ochish uchun",
+    "Faqat rezba ochish uchun",
+    "Faqat parmalash uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Maktab ustaxonalarida qanday tokarlik-vintqirqish stanoklari ishlatiladi?",
+   "variantlar": [
+    "TV-4 va TV-5",
+    "TV-6 va TV-7",
+    "TV-8 va TV-9",
+    "TV-10 va TV-12"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bolt nima?",
+   "variantlar": [
+    "Ikki uchi rezbalangan o'zak",
+    "Rezba ochilgan teshikli detal",
+    "Tasmali uzatmaning g'ildirak ko'rinishidagi detal",
+    "Olti qirrali yoki kvadrat shakldagi boshchali o'zak, bir qismi gaykani burab qo'yish uchun rezbalangan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gayka nima uchun ishlatiladi?",
+   "variantlar": [
+    "Metallni plastik deformatsiyalash uchun",
+    "Shkivlar o'rtasida harakatni uzatishda",
+    "Rezba ochilgan teshikli detallarni biriktirishga",
+    "Aylanma harakatni ilgarilanma harakatga aylantirishda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Val nima?",
+   "variantlar": [
+    "Mashinaning detal bo'lib, burovchi kuchni o'z o'qi bo'yicha uzatish uchun mo'ljallangan",
+    "Tasma yoki zanjir",
+    "Tishli mehanizmning tarkibiy qismi",
+    "Tasmali uzatmaning qismi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shkiv nima?",
+   "variantlar": [
+    "Tishli g'ildirak",
+    "Rezba ochilgan teshik",
+    "Mashinaning detal bo'lib, burovchi kuchni o'z o'qi bo'yicha uzatuvchi",
+    "Tasmali uzatmaning g'ildirak ko'rinishidagi detal"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Podshipnik nima uchun zarur?",
+   "variantlar": [
+    "Metallni plastik deformatsiyalashda",
+    "Detallarni biriktirishda",
+    "Vallar va o'qlar erkin aylanishini ta'minlaydigan tayanchning qismi",
+    "Harakatni uzatishda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tishli g'ildirak nima?",
+   "variantlar": [
+    "Valning qismi",
+    "Tasmali uzatmaning qismi",
+    "Podshipnik turi",
+    "Tishli mehanizmning tarkibiy qismi, tishlarning yopiq tizimiga ega bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Parmalash nima?",
+   "variantlar": [
+    "Metallni prokatlash",
+    "Detal o'yish va teshish ishla",
+    "Metallni qizdirib bolg'ada ishlov berish",
+    "Tasma yordamida harakatni uzatish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Keskich o'rnatishda qaysi shablondan foydalaniladi?",
+   "variantlar": [
+    "Burchakli shablon",
+    "Kvadrat shablon",
+    "To'g'ri shablon",
+    "Aylanma shablon"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Keskich balandligini o'lchash uchun nima qo'llaniladi?",
+   "variantlar": [
+    "Burchakli shablon",
+    "Miqdor o'lchagich",
+    "O'zgarmas shablon",
+    "Shriftangli messen"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Keskich chiqib qolgan joyi uning qalinligidan qanday bo'lishi kerak?",
+   "variantlar": [
+    "Bir yarim uzunlikdan oshmasligi kerak",
+    "Ikki barobari",
+    "Uchdan biri",
+    "Yarmi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qo'pol ishlov berilayotgan paytda keskich detal o'qidan qanday joylashishi kerak?",
+   "variantlar": [
+    "0-0,2 mm baland",
+    "2-3 mm past",
+    "0,5-1 mm baland",
+    "Ayni markaziy chiziqda"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qattiq materiallarga ishlov berilganda keskich markaziy chiziqdan qanday joylashadi?",
+   "variantlar": [
+    "2-3 mm baland",
+    "0,5-1 mm baland",
+    "0,5-1 mm past",
+    "3-4 mm past"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zagatovka qaysi patronga joylashtiriladi?",
+   "variantlar": [
+    "Markazlovchi uchburchakli patronga",
+    "Flat patronga",
+    "Konussimon patronga",
+    "Qutqontli patronga"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Patron qaysi kalit bilan qotiriladi?",
+   "variantlar": [
+    "Maxsus kalit",
+    "Jangali kalit",
+    "Oddiy kalit",
+    "Shlitz kalit"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Aylanma harakatni ilgarilanma harakatga aylantirishda nima qo'llaniladi?",
+   "variantlar": [
+    "Shkivlar",
+    "Tasma va zanjir",
+    "Konussimon tishli uzatma",
+    "Silindrsimon tishli g'ildirak va tishli reyka"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Aylanma harakatni masofaga uzatish uchun qanday uzatmalar qo'llaniladi?",
+   "variantlar": [
+    "Konussimon uzatmalar",
+    "Tishli uzatmalar",
+    "Tasmali va zanjirli uzatmalar",
+    "Reykali uzatmalar"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tasmali uzatma nima tarkibiy qismlardan tuzilgan?",
+   "variantlar": [
+    "Ikkita val va tishli g'ildirakdan",
+    "Uchta val va reykadan",
+    "To'rt shkiv va turli uzatmalardan",
+    "Ikkita shkiv va tasma yoki zanjirdan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Parmalash stanogida detal kesish chuqurlигini o'rnatish uchun qanday qo'llaniladi?",
+   "variantlar": [
+    "Uzatish dastagi",
+    "Elektr dvigateli",
+    "Kesish chuqurlигini o'rnatish shkalasi",
+    "Tasmali uzatma"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Stanok himoyalash moslamalari qanday xususiyatlarga ega?",
+   "variantlar": [
+    "Faqat stanokni bezash uchun",
+    "Faqat elektr dvigatelini himoyalash uchun",
+    "Ishlovchini metall qirindilari sachrashidan himoyalash uchun, agar ekran tushirilmagan bo'lsa, stanok ishga tushmaydi",
+    "Stanokni haroratga qarshi himoyalash uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Keskich o'rnatishda barcha talablarni toping. Quyidagilardan qaysi javob to'liq?",
+   "variantlar": [
+    "Faqat orqa markaziga nisbatan tekshirish kerak",
+    "Balandligini o'lchash, orqa markaziga nisbatan tekshirish, chiqib qolgan joy qalinligidan bir yarim uzunlikdan oshmasligi kerak",
+    "Faqat balandligini o'lchash kerak",
+    "Faqat chiqib qolgan joyini tekshirish kerak"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Stanokni ishga tayyorlashda ketma-ketlik qanday bo'lishi kerak?",
+   "variantlar": [
+    "Avval zagatovka joylashtiriladi, keyin keskich o'rnatiladi",
+    "Har qadamda stanokni tekshirish kerak",
+    "Tartibi muhim emas",
+    "Avval keskich o'rnatiladi, keyin zagatovka joylashtiriladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tishli g'ildiraklar qaysi mashinalarning qismlarida uchraydi?",
+   "variantlar": [
+    "Faqat avtomobillar va velosipedlarda",
+    "Faqat samolyotlarda",
+    "Faqat traktorlarda",
+    "Teplovozlar, elektrovozlar, avtomashinalar, kombaynlar va boshqa mashinalarning dvigatellarida"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mashinaning detallar turi qanday bo'linadi?",
+   "variantlar": [
+    "Faqat maxsus detallar bor",
+    "Tipovoy va maxsus detallar ga bo'linadi",
+    "Faqat tipovoy detallar bor",
+    "Detallar bo'linmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Parmalash dastgohida qanday xavfsizlik qoidalariga rioya etilishi kerak?",
+   "variantlar": [
+    "Hisobiy detallarni o'zgartirish mumkin",
+    "Faqat kiyimni taqib olish kerak",
+    "Kiyim tugmalarini taqib olish, yenglarni bog'lab olish, himoya ko'zoynagi ishlatish, detalni mahkam o'rnatish zarur",
+    "Faqat himoya ko'zoynagi ishlatish kerak"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Plastik deformatsiyalash qanday jarayon?",
+   "variantlar": [
+    "Metallni qizdirib yumshatish",
+    "Metallni kesib ajratish",
+    "Metallni sovuq holda qisqartirish",
+    "Tashqi kuch yordamida metallga bosim bilan ishlov berilganda metall shaklini o'zgartirib, avvalgi holatiga qaytmaslik holatiga aylanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bosim bilan ishlov berishning qaysi usullari mavjud?",
+   "variantlar": [
+    "Prokatlash va tolalash",
+    "Faqat prokatlash va zichlashtirish",
+    "Prokatlash, tolalash, zichlashtirish, qizdirib bolg'ada ishlov berish, hajmli va listli shtamplash",
+    "Zichlashtirish va qizdirib bolg'ada ishlov berish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi metallar sovuq holda bosim bilan ishlov berib bo'ladi?",
+   "variantlar": [
+    "Faqat temir",
+    "Faqat marganes",
+    "Faqat cho'yan",
+    "Qalay, aluminiy, mis, rux va temir"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Konussimon tishli uzatma qanday maqsadda ishlatiladi?",
+   "variantlar": [
+    "Aylanmalarni burchak ostida uzatishda hamda yo'nalishini o'zgartirishda",
+    "Faqat silindrsimon tishli g'ildiraklar bilan birga",
+    "Faqat masofaga uzatishda",
+    "Aylanma harakatni ilgarilanma harakatga aylantirishda"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

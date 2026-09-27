@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "29-§. Masalalar yechish (kondensatorlar)",
+ "savollar": [
+  {
+   "savol": "Kondensator zaryadi formulasi?",
+   "variantlar": [
+    "q = CU",
+    "q = C + U",
+    "q = C/U",
+    "q = U/C"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kondensator sig'imi formulasi?",
+   "variantlar": [
+    "C = U/q",
+    "C = q − U",
+    "C = q/U",
+    "C = qU"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "C = 2 μF, U = 5 V. q = ?",
+   "variantlar": [
+    "2,5 μC",
+    "7 μC",
+    "10 μC",
+    "0,4 μC"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "q = 12 μC, C = 3 μF. U = ?",
+   "variantlar": [
+    "4 V",
+    "0,25 V",
+    "15 V",
+    "36 V"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "q = 20 μC, U = 10 V. C = ?",
+   "variantlar": [
+    "0,5 μF",
+    "2 μF",
+    "200 μF",
+    "30 μF"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kondensator energiyasi formulasi?",
+   "variantlar": [
+    "W = CU²/2",
+    "W = CU",
+    "W = U²/C",
+    "W = C/U"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 μF = ?",
+   "variantlar": [
+    "10⁻⁶ F",
+    "10⁻⁹ F",
+    "10⁻³ F",
+    "10⁶ F"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Parallel ulanishda C = ?",
+   "variantlar": [
+    "C₁ − C₂",
+    "C₁C₂/(C₁ + C₂)",
+    "C₁ + C₂",
+    "C₁C₂"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ketma-ket ulanishda C = ?",
+   "variantlar": [
+    "C₁C₂",
+    "C₁ − C₂",
+    "C₁ + C₂",
+    "C₁C₂/(C₁ + C₂)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sig'im birligi?",
+   "variantlar": [
+    "C",
+    "F",
+    "V",
+    "J"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "C = 5 μF, U = 20 V. W = ?",
+   "variantlar": [
+    "0,1 J",
+    "1 mJ",
+    "0,5 J",
+    "100 J"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "C = 100 μF, U = 10 V. q = ?",
+   "variantlar": [
+    "0,01 C",
+    "10 C",
+    "1 mC",
+    "10 mC"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kondensator 200 V gacha zaryadlandi, C = 10 μF. W = ?",
+   "variantlar": [
+    "2 J",
+    "0,4 J",
+    "0,2 J",
+    "20 J"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "C₁ = 2 μF, C₂ = 8 μF ketma-ket, C = ?",
+   "variantlar": [
+    "1,6 μF",
+    "10 μF",
+    "16 μF",
+    "5 μF"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2 ta 5 μF parallel, U = 10 V. Umumiy zaryad?",
+   "variantlar": [
+    "5 μC",
+    "50 μC",
+    "25 μC",
+    "100 μC"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "q = 30 μC, U = 6 V. C = ?",
+   "variantlar": [
+    "0,2 μF",
+    "180 μF",
+    "5 μF",
+    "36 μF"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "C = 4 μF, W = 8 mJ. U = ?",
+   "variantlar": [
+    "63 V",
+    "400 V",
+    "4 V",
+    "2 V"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kondensatorga dielektrik kiritilsa (manbaga ulangan), zaryad?",
+   "variantlar": [
+    "Nol",
+    "Ortadi",
+    "O'zgarmaydi",
+    "Kamayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sig'im 3 marta ortsa (U = const), zaryad?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "3 marta ortadi",
+    "9 marta ortadi",
+    "3 marta kamayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kondensator energiyasi U 2 marta ortsa?",
+   "variantlar": [
+    "2 marta ortadi",
+    "O'zgarmaydi",
+    "4 marta ortadi",
+    "2 marta kamayadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "C₁ = 3 μF, C₂ = 6 μF ketma-ket, U = 9 V. Zaryad?",
+   "variantlar": [
+    "27 μC",
+    "81 μC",
+    "6 μC",
+    "18 μC"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi zanjirda U₁ (3 μF da)?",
+   "variantlar": [
+    "3 V",
+    "9 V",
+    "18 V",
+    "6 V"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi zanjirda U₂ (6 μF da)?",
+   "variantlar": [
+    "6 V",
+    "9 V",
+    "1 V",
+    "3 V"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "C₁ = 4 μF, C₂ = 6 μF parallel, U = 12 V. Umumiy energiya?",
+   "variantlar": [
+    "0,36 mJ",
+    "0,72 mJ",
+    "1,44 mJ",
+    "7,2 mJ"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kondensator 8 mJ energiyaga ega, U = 40 V. C = ?",
+   "variantlar": [
+    "0,2 μF",
+    "10 μF",
+    "20 μF",
+    "5 μF"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Havoli kondensator sig'imi 10 pF. Suvga (ε = 81) botirilsa sig'im?",
+   "variantlar": [
+    "0,12 pF",
+    "91 pF",
+    "810 pF",
+    "10 pF"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita bir xil kondensator ketma-ket, umumiy C = 4 μF. Har birining sig'imi?",
+   "variantlar": [
+    "8 μF",
+    "4 μF",
+    "16 μF",
+    "2 μF"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita bir xil kondensator parallel, umumiy C = 10 μF. Har birining sig'imi?",
+   "variantlar": [
+    "2 μF",
+    "10 μF",
+    "20 μF",
+    "5 μF"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "q = 4 μC, C = 2 μF. W = q²/(2C) = ?",
+   "variantlar": [
+    "16 μJ",
+    "4 μJ",
+    "8 μJ",
+    "2 μJ"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yassi kondensator: S = 100 sm², d = 1 mm, ε₀ = 8,85 · 10⁻¹². C ≈ ?",
+   "variantlar": [
+    "≈ 10⁻⁶ F",
+    "≈ 8,85 · 10⁻¹¹ F",
+    "≈ 8,85 · 10⁻⁹ F",
+    "≈ 8,85 · 10⁻¹² F"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

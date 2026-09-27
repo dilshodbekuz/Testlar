@@ -40,9 +40,9 @@
    "savol": "Atirgulning hidi qanday?",
    "variantlar": [
     "Juda xushbo'y",
-    "O'tkil",
-    "Emasligi o'ng",
-    "Begona"
+    "Hidsiz",
+    "Yoqimsiz",
+    "Achchiq"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -61,7 +61,7 @@
   {
    "savol": "Bahor kelib, kunlar iliy boshlashi bilan atirgul nima qila boshlaydi?",
    "variantlar": [
-    "Atirgul xumo bo'ladi",
+    "Qurib qoladi",
     "Ildizlar o'sib boshlaydi",
     "Gullar ochila boshlaydi",
     "Barg chiqara boshlaydi"
@@ -95,9 +95,9 @@
    "savol": "Gulzordagi o'simliklarning tagi vaqti-vaqti bilan qanday bajariladi?",
    "variantlar": [
     "Yumshatilib sugʻorib turiladi",
-    "Eklanadi",
+    "Ustiga tuz sepiladi",
     "Kesib tashlanadi",
-    "Sug'orib turiladi va begona o'simliklar kesiladi"
+    "Barglari yulib tashlanadi"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -108,7 +108,7 @@
     "Erta bahordan",
     "Bahor oxirida",
     "Qishda",
-    "Yoqay fosilida"
+    "Yozning o'rtasida"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -116,7 +116,7 @@
   {
    "savol": "Atirgulning novdalari kesilgandan so'ng bahor kelganda nima bo'ladi?",
    "variantlar": [
-    "Ildizlari shuora qoladi",
+    "Ildizlari qurib qoladi",
     "Atirgul o'lib ketadi",
     "Begona gullar o'sib chiqadi",
     "Yana barg chiqara boshlaydi"
@@ -125,10 +125,10 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Atirgulning poyalarga aylangan novdalaridan keyingi bosqichda nima o'sadi?",
+   "savol": "Atirgulning novdalari poyaga aylangach, poyalardan nima o'sib chiqadi?",
    "variantlar": [
     "Faqat novdalar",
-    "Iltija ildizlar",
+    "Faqat ildizlar",
     "Faqat barglar",
     "Yana novdalar va barglar bilan g'unchalar"
    ],
@@ -160,7 +160,7 @@
   {
    "savol": "May oylarida ochilgan atirgul gulida qanday xususiyatlar ko'rinib turadi?",
    "variantlar": [
-    "Chiroyli ko'rinish va xushbo'y hit",
+    "Chiroyli ko'rinish va xushbo'y hid",
     "Faqat o'lchami o'sishi",
     "Rang o'zgarishi va begona hidlar",
     "Faqat rang o'zgarishi"
@@ -202,7 +202,7 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Gulzor o'simliklarining bargi va ildizlari bilan tanishish qanday amaliy ishdir?",
+   "savol": "Amaliy ishda manzarali butalar bilan tanishishda nima qilinadi?",
    "variantlar": [
     "Faqat sugʻorish",
     "Faqat kesmish",
@@ -218,7 +218,7 @@
     "Hech qanday farq yo'q",
     "Faqat bir yil yashaydi",
     "Faqat rangda farq",
-    "Bir necha yil davomida yashaydigan va har yil qayta o'saydigan"
+    "Bir necha yil yashaydi va har yili qayta o'sadi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -246,12 +246,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Kunlar iliy boshlashining atirgulning bahor o'sishida o'rni qanday?",
+   "savol": "Bahorda kunlar isishi atirgulga qanday ta'sir qiladi?",
    "variantlar": [
     "Faqat gulning rangini o'zgartiradigan",
-    "Ildizlarni keshaydigan",
-    "Hech qanday ta'sir ko'lmaydi",
-    "Atirgulning barg chiqarishi va o'sishini megaviy qiladigan shart"
+    "Ildizlarini kesib tashlaydi",
+    "Hech qanday ta'sir qilmaydi",
+    "Atirgul barg chiqarib, o'sa boshlaydi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -259,7 +259,7 @@
   {
    "savol": "Gulzord parvarishida begona o'simliklar bilan kurashishning ahamiyati nimada?",
    "variantlar": [
-    "O'sgan o'simliklar bugun o'sib, gullarni usta yoraqtiradi, shunga ko'ra yaxshi parvarish kerak",
+    "Begona o'simliklar gullarning oziq moddasi va suvini olib, ularni nimjon qiladi",
     "Faqat rang o'zgarishi uchun",
     "Hech qanday ahamiyati yo'q",
     "Gullarning hidini o'zgartiradigan"
@@ -268,12 +268,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "May oyida ochilgan atirgul gulining chiroyliligi va xushbo'y hidining bog'lanishi qanday ifodalanadi?",
+   "savol": "May oyida ochilgan atirgul guli qanday bo'ladi?",
    "variantlar": [
-    "Hit bo'lmasa, gul qora ko'rinadi",
-    "Atirgulning gulining chiroyli ko'rinishi va xushbo'y hidi birga bo'lib, u estetik va hushyoriga amal qiladi",
-    "Hech qanday bog'lanishlari yo'q",
-    "Faqat rang emas, hit ham mustaqil"
+    "Hidsiz va xira",
+    "Chiroyli va xushbo'y",
+    "Qora va kichkina",
+    "Rangsiz va sassiq"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -317,7 +317,7 @@
     "Faqat tuproqning o'rni bor",
     "Faqat suvning o'rni bor",
     "Suv va tuproqning ahamiyati yo'q",
-    "Yaxshi suglorilib, tuproqi yumshatilgan manzaraga chiroyli va xushbo'y hidi gulni ochiladi"
+    "Yaxshi sug'orilib, tagi yumshatilgan atirgul chiroyli va xushbo'y gullaydi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"

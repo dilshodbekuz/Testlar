@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "27-§. Elektr sig'imi. Kondensatorlar",
+ "savollar": [
+  {
+   "savol": "Elektr sig'im qaysi harf bilan belgilanadi?",
+   "variantlar": [
+    "U",
+    "R",
+    "I",
+    "C"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr sig'imning birligi nima?",
+   "variantlar": [
+    "Farada",
+    "Om",
+    "Amper",
+    "Volt"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kondensator nima?",
+   "variantlar": [
+    "Zaryad to'playdigan qurilma",
+    "Lampa",
+    "Tok manbai",
+    "Qarshilik"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kondensator qanday qismlardan iborat?",
+   "variantlar": [
+    "Batareya",
+    "Bitta metall",
+    "Ikki o'tkazgich (qoplama) va ular orasidagi dielektrik",
+    "Sim"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sig'im formulasi qaysi?",
+   "variantlar": [
+    "C = q/U",
+    "C = qU",
+    "C = q + U",
+    "C = U/q"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 F = ?",
+   "variantlar": [
+    "1 V/C",
+    "1 J",
+    "1 C/V",
+    "1 A·s"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 μF necha farada?",
+   "variantlar": [
+    "10⁻³ F",
+    "10⁻⁶ F",
+    "10⁻⁹ F",
+    "10⁶ F"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 nF necha farada?",
+   "variantlar": [
+    "10⁻⁶ F",
+    "10⁹ F",
+    "10⁻¹² F",
+    "10⁻⁹ F"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 pF necha farada?",
+   "variantlar": [
+    "10¹² F",
+    "10⁻¹² F",
+    "10⁻⁶ F",
+    "10⁻⁹ F"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yassi kondensator qanday tuzilgan?",
+   "variantlar": [
+    "Silindr",
+    "Ikki parallel plastina",
+    "Bitta sfera",
+    "Sim"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "q = 10 μC, U = 5 V. C = ?",
+   "variantlar": [
+    "15 μF",
+    "50 μF",
+    "0,5 μF",
+    "2 μF"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "C = 4 μF, U = 10 V. q = ?",
+   "variantlar": [
+    "40 μC",
+    "2,5 μC",
+    "14 μC",
+    "0,4 μC"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "q = 30 μC, C = 6 μF. U = ?",
+   "variantlar": [
+    "5 V",
+    "24 V",
+    "180 V",
+    "0,2 V"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yassi kondensator sig'imi plastinalar yuziga qanday bog'liq?",
+   "variantlar": [
+    "Teskari proporsional",
+    "Bog'liq emas",
+    "To'g'ri proporsional",
+    "Kvadratik"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yassi kondensator sig'imi plastinalar orasidagi masofaga qanday bog'liq?",
+   "variantlar": [
+    "To'g'ri proporsional",
+    "Teskari proporsional",
+    "Kvadratik",
+    "Bog'liq emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kondensator plastinalari orasiga dielektrik qo'yilsa, sig'im?",
+   "variantlar": [
+    "Kamayadi",
+    "Nol",
+    "Ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kondensatorning energiyasi formulasi?",
+   "variantlar": [
+    "W = CU",
+    "W = C + U",
+    "W = CU²/2",
+    "W = C/U"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "C = 2 μF, U = 100 V. W = ?",
+   "variantlar": [
+    "0,1 J",
+    "0,001 J",
+    "0,01 J",
+    "1 J"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kondensator zaryadlanganda uning plastinalarida qanday zaryadlar to'planadi?",
+   "variantlar": [
+    "Bir xil",
+    "Teng va qarama-qarshi",
+    "Faqat musbat",
+    "Nol"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Havoli yassi kondensator sig'imi formulasi (ε = 1)?",
+   "variantlar": [
+    "C = ε₀d/S",
+    "C = S·d",
+    "C = ε₀S/d",
+    "C = d/S"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "C = 5 μF, q = 20 μC. U = ?",
+   "variantlar": [
+    "4 V",
+    "25 V",
+    "0,25 V",
+    "100 V"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kondensator plastinalari orasidagi masofa 2 marta oshsa, sig'im?",
+   "variantlar": [
+    "4 marta kamayadi",
+    "2 marta ortadi",
+    "2 marta kamayadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Plastinalar yuzi 3 marta ortsa, sig'im?",
+   "variantlar": [
+    "3 marta ortadi",
+    "9 marta ortadi",
+    "O'zgarmaydi",
+    "3 marta kamayadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "ε = 2 dielektrik qo'yilsa (masofa va yuz o'zgarmasa), sig'im?",
+   "variantlar": [
+    "2 marta kamayadi",
+    "O'zgarmaydi",
+    "2 marta ortadi",
+    "4 marta ortadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "C = 10 μF, U = 20 V. W = ?",
+   "variantlar": [
+    "2 mJ",
+    "4 mJ",
+    "0,2 J",
+    "20 mJ"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "C = 6 μF, q = 60 μC. W = q²/(2C) = ?",
+   "variantlar": [
+    "300 μJ",
+    "10 μJ",
+    "600 μJ",
+    "3600 μJ"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kondensator manbadan uzilgach masofa oshirilsa (q = const), kuchlanish?",
+   "variantlar": [
+    "Kamayadi",
+    "Nol",
+    "Ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kondensator manbaga ulangan holda masofa oshirilsa (U = const), zaryad?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Ortadi",
+    "Kamayadi",
+    "Nol"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "q = 8 nC, U = 4 V. C = ?",
+   "variantlar": [
+    "2 nF",
+    "32 nF",
+    "12 nF",
+    "0,5 nF"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sig'im 1 F bo'lgan kondensator 1 V da qancha zaryad oladi?",
+   "variantlar": [
+    "1 C",
+    "0",
+    "2 C",
+    "1 J"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

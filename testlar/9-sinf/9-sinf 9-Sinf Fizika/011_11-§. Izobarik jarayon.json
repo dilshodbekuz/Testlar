@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "11-§. Izobarik jarayon",
+ "savollar": [
+  {
+   "savol": "Izobarik jarayon nima?",
+   "variantlar": [
+    "T = const",
+    "Q = 0",
+    "p = const bo'lgan jarayon",
+    "V = const"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Izobarik jarayon qonuni (Gey-Lyussak)?",
+   "variantlar": [
+    "p/T = const",
+    "pV = const",
+    "pT = const",
+    "V/T = const"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gey-Lyussak qonunida qaysi shkala ishlatiladi?",
+   "variantlar": [
+    "Kelvin",
+    "Farengeyt",
+    "Ixtiyoriy",
+    "Selsiy"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Izobarik jarayonda temperatura ortsa hajm?",
+   "variantlar": [
+    "Kamayadi",
+    "Ortadi",
+    "Nol",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Izobara grafigi (V–T) qanday?",
+   "variantlar": [
+    "Parabola",
+    "Giperbola",
+    "Koordinata boshidan o'tuvchi to'g'ri chiziq",
+    "Aylana"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "T 2 marta ortsa (izobar) V?",
+   "variantlar": [
+    "2 marta kamayadi",
+    "2 marta ortadi",
+    "O'zgarmaydi",
+    "4 marta ortadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "T 3 marta kamaysa (izobar) V?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "9 marta kamayadi",
+    "3 marta ortadi",
+    "3 marta kamayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Izobarik jarayonda bosim?",
+   "variantlar": [
+    "Nol",
+    "Ortadi",
+    "Kamayadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gey-Lyussak qaysi mamlakat olimi?",
+   "variantlar": [
+    "Angliya",
+    "Rossiya",
+    "Fransiya",
+    "Germaniya"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ochiq idishda havoni isitish jarayoni?",
+   "variantlar": [
+    "Izoxorik",
+    "Izobarik",
+    "Izotermik",
+    "Adiabatik"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "V₁/T₁ = V₂/T₂. V₁ = 2 l, T₁ = 300 K, T₂ = 600 K. V₂ = ?",
+   "variantlar": [
+    "2 l",
+    "4 l",
+    "1 l",
+    "8 l"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "V₁ = 6 l, T₁ = 400 K, T₂ = 200 K. V₂ = ?",
+   "variantlar": [
+    "3 l",
+    "6 l",
+    "1,5 l",
+    "12 l"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "V₁ = 3 l, T₁ = 273 K, T₂ = 546 K. V₂ = ?",
+   "variantlar": [
+    "6 l",
+    "1,5 l",
+    "3 l",
+    "12 l"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gaz 0 °C dan 273 °C gacha izobarik isitildi. Hajmi necha marta ortdi?",
+   "variantlar": [
+    "273",
+    "2",
+    "1",
+    "4"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gaz 27 °C dan 127 °C gacha izobarik isitilsa hajm?",
+   "variantlar": [
+    "127/27 marta",
+    "2 marta ortadi",
+    "4/3 marta ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "V = V₀(1 + αt) formulasi. α = ?",
+   "variantlar": [
+    "1/100",
+    "1",
+    "1/273 K⁻¹",
+    "273"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Izobarik kengayishda gaz ishi formulasi?",
+   "variantlar": [
+    "A = p + ΔV",
+    "A = pΔV",
+    "A = p/ΔV",
+    "A = ΔV/p"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = 10⁵ Pa, ΔV = 2 · 10⁻³ m³. A = ?",
+   "variantlar": [
+    "2 J",
+    "200 J",
+    "50 J",
+    "20 000 J"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Izobarik jarayonda ichki energiya (T ortsa)?",
+   "variantlar": [
+    "Nol",
+    "Kamayadi",
+    "Ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "V–T grafikda izobara absolyut nolga (T = 0) da?",
+   "variantlar": [
+    "V = 1",
+    "V = 0 ga intiladi",
+    "V = 273",
+    "Cheksiz"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = 2 · 10⁵ Pa, V₁ = 0,01 m³. V₂ = 0,03 m³. A = pΔV = ?",
+   "variantlar": [
+    "2000 J",
+    "4000 J",
+    "8000 J",
+    "6000 J"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gaz 300 K dan 450 K gacha izobarik isitildi, V₁ = 4 l. V₂ = ?",
+   "variantlar": [
+    "9 l",
+    "2,7 l",
+    "4 l",
+    "6 l"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Silindrdagi gaz izobarik sovutildi: V 12 l dan 8 l gacha. Boshlang'ich T = 450 K. T₂ = ?",
+   "variantlar": [
+    "450 K",
+    "150 K",
+    "675 K",
+    "300 K"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Izobara grafigi p–V koordinatalarda?",
+   "variantlar": [
+    "Gorizontal chiziq",
+    "Giperbola",
+    "Parabola",
+    "Vertikal"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p–T koordinatalarda izobara?",
+   "variantlar": [
+    "Gorizontal chiziq",
+    "Parabola",
+    "Vertikal",
+    "Giperbola"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Izobarik jarayonda 1 mol gaz T ga ΔT ortsa, ish A = ?",
+   "variantlar": [
+    "ΔT/R",
+    "R/ΔT",
+    "RΔT",
+    "2RΔT"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 mol gaz izobarik 100 K ga isitildi. A ≈ ?",
+   "variantlar": [
+    "831 J",
+    "83,1 J",
+    "8310 J",
+    "8,31 J"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Pufak issiq xonadan sovuq joyga olib chiqilsa hajmi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Ortadi",
+    "Nol",
+    "Kamayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ipga bog'langan bo'sh pufak isitilganda kengayadi. Jarayon taxminan?",
+   "variantlar": [
+    "Izobarik",
+    "Adiabatik",
+    "Izoxorik",
+    "Izotermik"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Xona haroratida 22 °C, hajmi 5 l. 44 °C gacha isitilsa (izobar) V taxminan?",
+   "variantlar": [
+    "≈ 2,5 l",
+    "≈ 10 l",
+    "≈ 5,4 l",
+    "≈ 5 l"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

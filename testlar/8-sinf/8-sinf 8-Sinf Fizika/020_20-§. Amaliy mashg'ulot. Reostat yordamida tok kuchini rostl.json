@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "20-§. Amaliy mashg'ulot. Reostat yordamida tok kuchini rostlash",
+ "savollar": [
+  {
+   "savol": "Reostat yordamida nimani rostlash mumkin?",
+   "variantlar": [
+    "Haroratni",
+    "Uzunlikni",
+    "Tok kuchini",
+    "Massani"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Reostat zanjirga qanday ulanadi?",
+   "variantlar": [
+    "Ketma-ket",
+    "Parallel",
+    "Ulanmaydi",
+    "Aralash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Reostat surilgichi surilganda nima o'zgaradi?",
+   "variantlar": [
+    "Kuchlanish manbai",
+    "Massa",
+    "Uzunlik",
+    "Qarshilik"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Reostatda tok kuchini kamaytirish uchun qarshilik qanday o'zgartiriladi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Oshiriladi",
+    "Kamaytiriladi",
+    "Nolga keltiriladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Reostatda tok kuchini oshirish uchun qarshilik?",
+   "variantlar": [
+    "Kamaytiriladi",
+    "O'zgarmaydi",
+    "Cheksiz",
+    "Oshiriladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tok kuchini o'lchash uchun qaysi asbob?",
+   "variantlar": [
+    "Termometr",
+    "Barometr",
+    "Voltmetr",
+    "Ampermetr"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda kalit qachon yopiladi?",
+   "variantlar": [
+    "Zanjir yig'ilgach, tekshirilgandan so'ng",
+    "Hech qachon",
+    "Doim ochiq",
+    "Yig'ishdan oldin"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Reostat sirg'anuvchi kontaktini surganda lampa yorqinligi o'zgaradi. Bu nimadan?",
+   "variantlar": [
+    "Massa ortishidan",
+    "Sababsiz",
+    "Tok kuchi o'zgarishidan",
+    "Rang o'zgarishidan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Reostat kontakti simning uchiga surilganda qarshilik?",
+   "variantlar": [
+    "Nol",
+    "Cheksiz",
+    "O'zgarmaydi",
+    "Eng katta yoki eng kichik bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Reostat qarshiligi nimaga bog'liq?",
+   "variantlar": [
+    "Sim rangiga",
+    "Massaga",
+    "Ulangan sim uzunligiga",
+    "Vaqtga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Reostat surilgichi qanday surilganda lampa yorug'roq yonadi?",
+   "variantlar": [
+    "Ko'payadigan tomonga",
+    "Farq qilmaydi",
+    "Hech qanday",
+    "Qarshilik kamayadigan tomonga"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "U = 6 V. Reostat qarshiligi 12 Om bo'lsa tok?",
+   "variantlar": [
+    "0,5 A",
+    "72 A",
+    "6 A",
+    "2 A"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "U = 6 V. Reostat qarshiligi 3 Om ga tushsa tok?",
+   "variantlar": [
+    "2 A",
+    "3 A",
+    "18 A",
+    "0,5 A"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Reostat qarshiligi 12 Om dan 3 Om ga tushganda tok necha marta ortadi?",
+   "variantlar": [
+    "2 marta",
+    "4 marta",
+    "3 marta",
+    "9 marta"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Reostat lampa bilan ketma-ket, U = 12 V. Lampa R = 6 Om, reostat 6 Om. Tok?",
+   "variantlar": [
+    "12 A",
+    "1 A",
+    "2 A",
+    "0,5 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Xuddi shu zanjirda reostat 18 Om ga oshirilsa (lampa 6 Om), tok?",
+   "variantlar": [
+    "1 A",
+    "4 A",
+    "2 A",
+    "0,5 A"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishdagi zanjir sxemasida qaysi elementlar bor?",
+   "variantlar": [
+    "Faqat lampa",
+    "Faqat manba",
+    "Faqat sim",
+    "Manba, kalit, reostat, lampa, ampermetr"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Reostatni yig'ishda undan qaysi uchlari ishlatiladi?",
+   "variantlar": [
+    "Bitta pastki va yuqoridagi surgich uchi",
+    "Faqat pastki ikkala",
+    "Hech biri",
+    "Ikkala yuqori"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ampermetr zanjirga qarama-qarshi qutbda ulansa?",
+   "variantlar": [
+    "Strelka teskari og'adi",
+    "Portlaydi",
+    "Tok oshadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Reostat nima uchun ruxsat etilgan tokdan oshmasligi kerak?",
+   "variantlar": [
+    "Chiroy uchun",
+    "Tovush uchun",
+    "Qizib ketmasligi uchun",
+    "Sababsiz"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Lampa R_l = 4 Om, U = 12 V. Reostat qarshiligi 2 Om dan 8 Om gacha. Eng katta tok?",
+   "variantlar": [
+    "3 A",
+    "2 A",
+    "6 A",
+    "1 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Xuddi shu zanjirda eng kichik tok?",
+   "variantlar": [
+    "1 A",
+    "0,5 A",
+    "2 A",
+    "3 A"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tok kuchini 1 A dan 2 A gacha rostlash kerak (U = 12 V, lampa 4 Om). Reostat qarshiligi diapazoni?",
+   "variantlar": [
+    "8 dan 12",
+    "4 dan 12",
+    "2 Om dan 8 Om gacha",
+    "0 dan 4"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zanjirda tok kuchini eng kichik qilish uchun reostat surilgichi qayerda bo'lishi kerak?",
+   "variantlar": [
+    "Farqi yo'q",
+    "Qarshilik eng kichik holatda",
+    "Qarshilik eng katta bo'ladigan holatda",
+    "O'rtada"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Reostat lampadan oldin ulanmasa nima o'zgaradi?",
+   "variantlar": [
+    "Tokni rostlab bo'lmaydi",
+    "Lampa o'chadi",
+    "Tok ortadi",
+    "Hech narsa"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "U = 9 V, lampa R = 3 Om, reostat 6 Om. Reostat kuchlanishi?",
+   "variantlar": [
+    "18 V",
+    "3 V",
+    "6 V",
+    "9 V"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "U = 9 V, lampa 3 Om, reostat 6 Om. Lampa kuchlanishi?",
+   "variantlar": [
+    "6 V",
+    "1 V",
+    "3 V",
+    "9 V"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ketma-ket zanjirda reostat qarshiligi oshsa lampa kuchlanishi?",
+   "variantlar": [
+    "Kamayadi",
+    "Nolga teng",
+    "O'zgarmaydi",
+    "Ortadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Reostatdan foydalanishda energiya nima uchun isrof bo'ladi?",
+   "variantlar": [
+    "Tovush",
+    "Reostatda issiqlik ajraladi",
+    "Magnit",
+    "Yorug'lik hosil bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Reostat qarshiligi 2 marta kamaysa, tok (umumiy R = reostat, boshqa qarshilik yo'q)?",
+   "variantlar": [
+    "2 marta ortadi",
+    "O'zgarmaydi",
+    "4 marta ortadi",
+    "2 marta kamayadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

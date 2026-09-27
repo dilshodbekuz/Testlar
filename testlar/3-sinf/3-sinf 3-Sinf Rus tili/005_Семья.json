@@ -42,7 +42,7 @@
     "gazeta o'qiyapti",
     "televizia ko'rmoqda",
     "shaxmatge o'ynayapti",
-    "obed gotovoqda"
+    "obed gotovit (tushlik tayyorlayapti)"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -64,7 +64,7 @@
     "shaxmatge o'ynayapti",
     "gazeta o'qiyapti",
     "televizia ko'rmoqda",
-    "obed gotovoqda"
+    "obed gotovit (tushlik tayyorlayapti)"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -81,7 +81,7 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Babushka kuni qachon ko'tariladi?",
+   "savol": "Babushka ertalab qachon turadi?",
    "variantlar": [
     "papa va mamadan oldin",
     "barnadan keyin",
@@ -125,7 +125,7 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Dialoqda Rustem dya Saidga mama haqida nima deydi?",
+   "savol": "Dialogda Rustam Saidga mama haqida nima dedi?",
    "variantlar": [
     "mama obed tayyorlayapti",
     "mama televizia ko'rmoqda",
@@ -151,8 +151,8 @@
    "variantlar": [
     "Tanya katta",
     "Tanya kichkina",
-    "Tanya kamchil",
-    "Tanya xomaki"
+    "Tanya dangasa",
+    "Tanya kasal"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -171,10 +171,10 @@
   {
    "savol": "Kechqurun oila qayerda?",
    "variantlar": [
-    "mektebda",
-    "bahchada",
-    "kuchada",
-    "uydа"
+    "maktabda",
+    "bog'chada",
+    "ko'chada",
+    "uyda"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -204,7 +204,7 @@
   {
    "savol": "Papa ile brater nima qilyapti?",
    "variantlar": [
-    "obed gotovoqda",
+    "obed gotovit (tushlik tayyorlayapti)",
     "gazeta o'qiyapti",
     "shaxmaty o'ynayapti",
     "multfilm ko'rmoqda"
@@ -213,14 +213,14 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Mama Tanya va babushka haqida nima deydi?",
+   "savol": "«Бабушка» so'zi o'zbekchada nima?",
    "variantlar": [
-    "ular qorayapti",
-    "ular umidali",
-    "ular kichkina",
-    "ular yomon"
+    "Buvi",
+    "Ona",
+    "Opa",
+    "Qiz"
    ],
-   "togri": 1,
+   "togri": 0,
    "qiyinlik": "o'rtacha"
   },
   {
@@ -246,14 +246,14 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Mama Tanya va babushka haqida 'umidasiz' so'zi nima anglatadi?",
+   "savol": "«Дедушка» so'zi o'zbekchada nima?",
    "variantlar": [
-    "ular zavotchi",
-    "ular g'amxo'r",
-    "ular salohiyatli",
-    "ular yomon"
+    "Ota",
+    "Bobo",
+    "Aka",
+    "O'g'il"
    ],
-   "togri": 2,
+   "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
@@ -301,11 +301,11 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Dialoqda Rustem qayngusi Said opa haqida qanday xabar berdi?",
+   "savol": "Dialogda Rustam Saidga papa haqida nima dedi?",
    "variantlar": [
     "papa shaxmaty o'ynayapti",
     "papa gazeta o'qiyapti",
-    "papa obedni tayyorlayapti",
+    "papa obed gotovit",
     "papa televizia ko'rmoqda"
    ],
    "togri": 1,
@@ -328,7 +328,7 @@
     "televizia ko'radi",
     "shaxmaty o'ynaydi",
     "gazeta o'qiyadi",
-    "dinlaydi"
+    "tinglaydi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"

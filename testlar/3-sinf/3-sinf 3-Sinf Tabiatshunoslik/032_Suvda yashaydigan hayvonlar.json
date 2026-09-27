@@ -4,12 +4,12 @@
  "mavzu": "Suvda yashaydigan hayvonlar",
  "savollar": [
   {
-   "savol": "Delfinning rangi qanday?",
+   "savol": "Delfin qanday hayvon?",
    "variantlar": [
-    "Chiroyli",
-    "Qora",
-    "Pushti",
-    "Oq"
+    "Qiziquvchan va o'yinqaroq",
+    "Yirtqich va yolg'iz",
+    "Quruqlikda yashaydi",
+    "Havoda uchadi"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -64,7 +64,7 @@
     "Baliqlar bilan",
     "O'tlar bilan",
     "Kasallik tarqatuvchi chivinlar bilan",
-    "Hasharotlar bilan"
+    "Qushlar bilan"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -171,7 +171,7 @@
   {
    "savol": "Delfin suvdan sakrab nima qiladi?",
    "variantlar": [
-    "Havodan nafas oladi",
+    "Tuxum qo'yadi",
     "Ovga chiqadi",
     "Kemalarni kuzatib yuradi",
     "O'zini to'zadi"
@@ -184,7 +184,7 @@
    "variantlar": [
     "Mayda planktonlar, baliqlar va kril bilan",
     "Faqat baliqlar bilan",
-    "Planktonlar va baliqlar bilan",
+    "O'tlar va mevalar bilan",
     "Faqat kril bilan"
    ],
    "togri": 0,
@@ -213,36 +213,36 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Qurbaqalar baqalarga nima bo'yicha o'xshaydi?",
+   "savol": "Qurbaqalar baqalarga nimasi bilan o'xshaydi?",
    "variantlar": [
     "Faqat forma bo'yicha",
     "Hech qanday o'xshashmaydi",
     "Faqat rangi bo'yicha",
-    "Shu bilan birga ular ham suvga tuxum qo'yadi"
+    "Ular ham suvga tuxum qo'yadi"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "\"O't — bug'u — bo'ri\" oziqa zanjirida o't qanday o'rin tutadi?",
+   "savol": "“O't — bug'u — bo'ri” oziqa zanjirida o't qanday o'rin tutadi?",
    "variantlar": [
-    "Ozaladigan hayvon",
-    "Zanjirning boshi va oxiri",
-    "O'rtadagi hayvon",
-    "Ozaqlangan hayvon (oziqa)"
+    "Zanjirning boshi (oziqa)",
+    "Yirtqich",
+    "Zanjirning oxiri",
+    "O'txo'r hayvon"
    ],
-   "togri": 3,
+   "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "\"O't — chivin — qurbaqa — ilon — boyo'g'li\" zanjirida qurbaqa necha marta ozaladigan va ozaqlangan bo'ladi?",
+   "savol": "“O't — chivin — qurbaqa — ilon — boyo'g'li” zanjirida qurbaqani kim yeydi?",
    "variantlar": [
-    "Ozaladigan va ozaqlangan",
-    "Boshqa o'rin tutadi",
-    "Faqat ozaqlangan",
-    "Faqat ozaladigan"
+    "Chivin",
+    "O't",
+    "Ilon",
+    "Hech kim"
    ],
-   "togri": 0,
+   "togri": 2,
    "qiyinlik": "qiyin"
   },
   {
@@ -290,7 +290,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Baliqlar turli o'rinda boqilyaptimi?",
+   "savol": "Baliqlar qayerlarda yashaydi va boqiladi?",
    "variantlar": [
     "Faqat akvariumlarda",
     "Faqat dengizlarda",

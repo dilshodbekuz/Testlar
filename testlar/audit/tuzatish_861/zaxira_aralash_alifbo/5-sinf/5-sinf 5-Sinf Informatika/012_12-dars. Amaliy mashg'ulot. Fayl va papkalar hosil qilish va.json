@@ -1,0 +1,326 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Informatika",
+ "mavzu": "12-dars. Amaliy mashg'ulot. Fayl va papkalar hosil qilish va amallar bajarish",
+ "savollar": [
+  {
+   "savol": "Fayl nima?",
+   "variantlar": [
+    "Sichqonchaning o'ng tugmachasi",
+    "Windows Проводник dasturi",
+    "Ish stolining fonini o'zgartiradigan asbob",
+    "Kompyuter xotirasida saqlanadigan ma'lumotlar to'plami"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Papka (katalog) nima?",
+   "variantlar": [
+    "Fayl yaratish dasturi",
+    "Matnli fayl",
+    "Fayllarni va boshqa papkalarni joylashtirish uchun maxsus joylar",
+    "Sichqonchaning chap tugmachasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Fayl kengaytmasi nima?",
+   "variantlar": [
+    "Fayl xotirasining miqdori",
+    "Fayl saqlash vaqti",
+    "Papka nomi",
+    "Fayl nomining ohirida nuqta bilan yozilgan belgilar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": ".txt fayli qanday fayldir?",
+   "variantlar": [
+    "Rasm fayli",
+    "Matnli fayl",
+    "Video fayli",
+    "Jadval fayli"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kontekst-menyu qanday ochiladi?",
+   "variantlar": [
+    "Ish stolida Пуск tugmachasini bosish",
+    "Sichqonchaning chap tugmachasini bosish",
+    "Klavier bilan Alt+Tab bosish",
+    "Sichqonchaning o'ng tugmachasini bosish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yangi papka hosil qilinganda uning standart nomi qanday bo'ladi?",
+   "variantlar": [
+    "Yangi papka",
+    "Untitled",
+    "Папка",
+    "Новая папка"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'Новая папка' nomini o'zgartiribning Enter tugmachasini bosish qanday amal bajaradi?",
+   "variantlar": [
+    "Windows ni qayta ishga tushiradi",
+    "Nomni tasdiqlaydi va saqlab qo'yadi",
+    "Nomni o'chirib tashlanadi",
+    "Papkani o'chiradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Blokнот dasturi oynasida matn yozib, uni saqlash uchun qaysi menyudan buyruq tanlanadi?",
+   "variantlar": [
+    "Правка - Копировать",
+    "Справка - О программе",
+    "Файл - Сохранить как",
+    "Вид - Масштаб"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Блокнот dasturida fayl saqlanganda fayl avtomatik tarzda qaysi formatda saqlanadi?",
+   "variantlar": [
+    ".rtf (Boyitilgan matnli fayl)",
+    ".txt (matnli fayl)",
+    ".doc (Word fayli)",
+    ".pdf (PDF fayli)"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Papkani ochish uchun sichqoncha qanday ishlatiladi?",
+   "variantlar": [
+    "O'ng tugmachasini 1 marta bosish",
+    "Shift tugmachasini bilan chap bosish",
+    "Chap tugmachasini 2 marta tezlik bilan bosish",
+    "O'ng tugmachasini 2 marta bosish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'Smart.txt' fayli qaysi papkada saqlanadi?",
+   "variantlar": [
+    "Ish stolida",
+    "'Mening ijodlarim' papkasida",
+    "D: diskining ildizida",
+    "Документы papkasida"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Darslik bo'yicha 'Yil' katalogining asosiy bo'limlar (fasllar) necha ta?",
+   "variantlar": [
+    "3 ta",
+    "4 ta (Bahor, Yoz, Kuz, Qish)",
+    "6 ta",
+    "12 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Darslikda ko'rsatilgan Bahor faslida nechta oy bor?",
+   "variantlar": [
+    "5 ta",
+    "4 ta",
+    "2 ta",
+    "3 ta (Mart, Aprel, May)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Darslikda ko'rsatilgan Kuz faslida nechta oy bor?",
+   "variantlar": [
+    "4 ta",
+    "3 ta (Sentabr, Oktabr, Noyabr)",
+    "1 ta",
+    "2 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Darslikda ko'rsatilgan Yoz faslida nechta oy bor?",
+   "variantlar": [
+    "4 ta",
+    "3 ta (Iyun, Iyul, Avgust)",
+    "5 ta",
+    "2 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Darslikda ko'rsatilgan Qish faslida nechta oy bor?",
+   "variantlar": [
+    "4 ta",
+    "3 ta (Dekabr, Yanvar, Fevral)",
+    "1 ta",
+    "2 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Fayl nomi va kengaytmasining bir-biridan asosiy farqi nima?",
+   "variantlar": [
+    "Nomi fayl tipini ko'rsatadi, kengaytmasi nomi",
+    "Ikkalasi ham bir xil",
+    "Faqat nomi muhim, kengaytma muhim emas",
+    "Nomi faylning identifikatori, kengaytmasi fayl tipini ko'rsatadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Блокнот dasturi qanday faylni saqlab qo'ladi?",
+   "variantlar": [
+    ".mp3 audio fayllar",
+    ".docx fayllar",
+    ".jpg rasm fayllar",
+    ".txt formatidagi matnli fayllar"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Fayl nusxalanganda asl faylning nomi o'zgaradi bimi?",
+   "variantlar": [
+    "Ha, nusxaga raqam qo'shiladi",
+    "Ha, nomi butunlay o'zgaradi",
+    "Ha, faqat kengaytmasi o'zgaradi",
+    "Yo'q, asl fayl nomi o'zgarmaydi, nusxa bir xil nomda saqlanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Darslikda qayta nomlash ('переименовать') amalining maqsadi nima?",
+   "variantlar": [
+    "Fayl yoki papka nomini o'zgartirib, yangi nom berish",
+    "Fayl yoki papkani ko'chirish",
+    "Fayl yoki papkani o'chirish",
+    "Fayl yoki papkani nusxalash"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Yil' katalogining to'liq strukturasini yaratish uchun nechta papka yaratish kerak?",
+   "variantlar": [
+    "16 ta (4 ta fasl papkasi + 12 ta oy papkasi)",
+    "12 ta",
+    "13 ta",
+    "4 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Yil' katalogida jami nechta oy papkasi bo'ladi?",
+   "variantlar": [
+    "12 ta (Mart, Aprel, May, Iyun, Iyul, Avgust, Sentabr, Oktabr, Noyabr, Dekabr, Yanvar, Fevral)",
+    "4 ta",
+    "16 ta",
+    "8 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar 'Smart.txt' faylini 'Yil' katalogining 'Bahor' papkasiga nusxalasak, nusxaning nomi qanday bo'ladi?",
+   "variantlar": [
+    "Bahor.txt",
+    "Smart_Bahor.txt",
+    "Smart.txt (asl fayl nomiga shunga o'xshash)",
+    "1_Smart.txt"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Papka hierarchiyasi (ierarxiyasi) nima va 'Yil' katalogisida u qanday tuziladi?",
+   "variantlar": [
+    "Ustun-ustun (level) tuzilmasi, bunda Yil asosiy, uning ichida fasllar, fasllar ichida oylar bor",
+    "Faqat horizontal tuzilmasi",
+    "Hech qanday tartibga ega emas",
+    "Faqat bir qator papka"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Darslikda fayl va papka atribut va parametrlari nima deb aytiladi?",
+   "variantlar": [
+    "Fayl nomidagi harflar",
+    "Fayl kengaytmasi",
+    "Papka ichidagi fayllar soni",
+    "Fayl va papka xossalari (nom, kattalik, yaratilish vaqti va shu kabilar) saqlanadigan ma'lumotlar"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Blокнот dasturida 'Smart School' yoki 'Aqlli maktab' haqida matn yozib, 'Smart.txt' nomida saqlandanda, fayl qaysi papkaga saqlanadi?",
+   "variantlar": [
+    "Desktop (Ish stoli) ga",
+    "C: diskining ildiziga",
+    "'Mening ijodlarim' papkasiga",
+    "Блокнот dasturining default papkasiga (Мои документы yoki Documents)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Darslikda nusxalash ('копировать') va ko'chirish ('вырезать') amallarining farqi nima?",
+   "variantlar": [
+    "Nusxalash asl faylni saqlaydi va nusxa yaratadi, ko'chirish asl faylni o'chiradi va joyini o'zgartirar",
+    "Ikkalasi ham bir xil",
+    "Ko'chirish faylni o'chirib, papka nomini o'zgartirar",
+    "Nusxalash hech qanday amal bajarmas"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Darslikda ko'rsatilgan 2-mashqga ko'ra, 'Smart.txt' faylini 4 ta fasl papkasiga nusxalab joylashtirish uchun qanday tartibda ishlash kerak?",
+   "variantlar": [
+    "1) Smart.txt o'chirish, 2) 4 ta yangi fayl yaratish",
+    "1) Fasl papkalarini yaratish, 2) Smart.txt nusxalash, 3) Har bir nusxani o'ziga mos fasl papkasiga joylashtirish",
+    "1) Faqat 'Mening ijodlarim' papkasida qoldirib, boshqa joyga joylashtirmaslik",
+    "1) Smart.txt qayta nomlash, 2) 4 ta fayl yaratish, 3) Ularni papkalarga joylashtirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Darslikda aytilganidek, Windows Проводник dasturida yangi papka yaratish uchun Disk D:'da bo'sh joyda sichqonchaning o'ng tugmachasini bosganda, qanday buyruq turadi?",
+   "variantlar": [
+    "Удалить - Папку",
+    "Создать - Папку",
+    "Редактировать - Папку",
+    "Открыть - Папку"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

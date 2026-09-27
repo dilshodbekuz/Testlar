@@ -6,10 +6,10 @@
   {
    "savol": "O'zbekiston nimalar bilan mashhur?",
    "variantlar": [
-    "Qujg'on buyumlari",
+    "Qog'oz buyumlari",
     "Atlas matolari",
-    "Og'ur bo'yoqlari",
-    "Xorazmiy nusxalari"
+    "Temir buyumlari",
+    "Muz haykallari"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -28,10 +28,10 @@
   {
    "savol": "Guash bo'yog'ining asosiy xususiyati nima?",
    "variantlar": [
-    "Rang qo'shib osonga ko'rinadi",
+    "Suvda erimaydi",
     "Yuzani qoplash xususiyatiga ega",
     "Shaffof",
-    "Qiynab boradi"
+    "Faqat qora rangda bo'ladi"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -75,7 +75,7 @@
     "Matoning kichikligini",
     "Ranglar hosil qilish usulini",
     "Naqshni",
-    "Qiymatli resursni"
+    "Qimmatli buyumni"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -84,7 +84,7 @@
    "savol": "Akvarel bo'yoq bilan ishlashda, birinchisi qurimasdan surtilgan bo'yoq nima bo'ladi?",
    "variantlar": [
     "O'zaro aralashib ketadi",
-    "Qattiqlaadi",
+    "Qotib qoladi",
     "Qora bo'ladi",
     "Yopiladi"
    ],
@@ -94,7 +94,7 @@
   {
    "savol": "Bo'yoqqa ko'p suv aralashtirilsa nima bo'ladi?",
    "variantlar": [
-    "Qiynab boradi",
+    "Qalinlashib boradi",
     "Rang ketib boradi",
     "Qora bo'ladi",
     "Och tusga kirib boradi"
@@ -105,9 +105,9 @@
   {
    "savol": "Atlas uchun eskiz ishlashda qaysi bo'yoq tavsiya etiladi?",
    "variantlar": [
-    "Tush bo'yoq",
+    "Tush",
     "Guash bo'yog'i",
-    "Masi bo'yoq",
+    "Sham",
     "Yog'li bo'yoq"
    ],
    "togri": 1,
@@ -130,7 +130,7 @@
     "Ular bir xil",
     "Guash shaffof, akvarel qoplash xususiyatiga ega",
     "Guash qoplash xususiyatiga ega, akvarel shaffof",
-    "Guash muqaddas, akvarel oddiy"
+    "Guash qimmat, akvarel arzon"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -215,10 +215,10 @@
   {
    "savol": "Bo'yoq berish jarayoni tugagach, naqsh bilan nima qilish kerak?",
    "variantlar": [
-    "Shuv bilan yuvish",
-    "Xolatning ichiga qo'yish",
+    "Suv bilan yuvish",
+    "Qutiga yopib qo'yish",
     "Havoda quritish",
-    "Darhol rol orqali qisish"
+    "Darhol buklash"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -246,12 +246,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Akvarel bo'yoqning shamollanuvchanligini hisobga olib, atlas naqshida rang tanlashda nima hisobga olish kerak?",
+   "savol": "Akvarelning shaffofligini hisobga olib nimaga e'tibor berish kerak?",
    "variantlar": [
     "Qora qalam bilan yozish",
     "Birinchi bo'yoqning shaffofligini va to'plash xususiyatini",
-    "Faqat aloqalar",
-    "Turbulentsiyadagi suv"
+    "Faqat qalinlikka",
+    "Suv haroratiga"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -261,7 +261,7 @@
    "variantlar": [
     "Faqat kontur chizish",
     "Katta shakllashdan kichik shaklargacha",
-    "Hech narsa qilmay rang tabiatiga taskin berish",
+    "Hech narsa qilmay kutish",
     "Barcha shakllarni bir vaqtda bo'yash"
    ],
    "togri": 1,
@@ -293,7 +293,7 @@
    "savol": "Agar atlas naqshida guash va akvarel bo'yoqlarni birgalikda qo'llanmoqchi bo'lsak, nima hisobga olish kerak?",
    "variantlar": [
     "Guashning qoplash xususiyati bilan akvarelning shaffofligini kombinatsiyalash",
-    "Qora rang bo'yoqlar faqat",
+    "Faqat qora bo'yoq",
     "Faqat rang",
     "Hech narsa"
    ],
@@ -327,7 +327,7 @@
    "variantlar": [
     "Faqat murakkab naqshlashni chizish",
     "Faqat qora qalam bilan chizish",
-    "Aniq yo'q narsa yo'q",
+    "Hech narsa qilmaslik",
     "Milliy rang-barangliklarni, shakllarni, jilolarni qayta ishlash va kontrastli ranglardan foydalanish"
    ],
    "togri": 3,

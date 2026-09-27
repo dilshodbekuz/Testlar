@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Algebra",
+ "mavzu": "30-§. Arifmetik progressiya dastlabki n ta hadining yig'indisi",
+ "savollar": [
+  {
+   "savol": "Arifmetik progressiya yig'indisi formulasi?",
+   "variantlar": [
+    "Sₙ = aₙ · n",
+    "Sₙ = (a₁ + aₙ)/2 · n",
+    "Sₙ = a₁ + aₙ",
+    "Sₙ = a₁ · n"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sₙ ning ikkinchi formulasi?",
+   "variantlar": [
+    "Sₙ = a₁ · d",
+    "Sₙ = (2a₁ + (n − 1)d)/2 · n",
+    "Sₙ = n · d",
+    "Sₙ = a₁ + nd"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 + 2 + 3 + ... + 10 = ?",
+   "variantlar": [
+    "55",
+    "45",
+    "50",
+    "100"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 + 2 + 3 + ... + 100 = ?",
+   "variantlar": [
+    "5000",
+    "10 000",
+    "500",
+    "5050"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "S₁ = ?",
+   "variantlar": [
+    "0",
+    "a₁",
+    "d",
+    "a₂"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "S₂ = ?",
+   "variantlar": [
+    "2a₁",
+    "a₂",
+    "a₁ · a₂",
+    "a₁ + a₂"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yig'indini Gauss usulida hisoblash nimaga asoslangan?",
+   "variantlar": [
+    "Ayirma",
+    "Ko'paytma",
+    "Bo'linma",
+    "Chekka hadlar yig'indisi teng"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a₁ = 1, a₅ = 9, S₅ = ?",
+   "variantlar": [
+    "10",
+    "9",
+    "25",
+    "45"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a₁ = 2, a₄ = 8, S₄ = ?",
+   "variantlar": [
+    "32",
+    "10",
+    "20",
+    "16"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a₁ = 5, d = 0, n = 4. S₄ = ?",
+   "variantlar": [
+    "9",
+    "25",
+    "20",
+    "5"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 + 3 + 5 + ... + 19 (10 ta) = ?",
+   "variantlar": [
+    "110",
+    "100",
+    "200",
+    "90"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2 + 4 + 6 + ... + 20 = ?",
+   "variantlar": [
+    "220",
+    "100",
+    "120",
+    "110"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a₁ = 3, d = 2, n = 10. S₁₀ = ?",
+   "variantlar": [
+    "130",
+    "120",
+    "110",
+    "100"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a₁ = 10, d = −2, n = 5. S₅ = ?",
+   "variantlar": [
+    "30",
+    "40",
+    "50",
+    "20"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a₁ = 1, d = 1, n = 20. S₂₀ = ?",
+   "variantlar": [
+    "210",
+    "200",
+    "190",
+    "220"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3 + 6 + 9 + ... + 30 = ?",
+   "variantlar": [
+    "330",
+    "150",
+    "180",
+    "165"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a₁ = 4, a₁₀ = 40. S₁₀ = ?",
+   "variantlar": [
+    "440",
+    "220",
+    "44",
+    "200"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "5 + 7 + 9 + ... (n = 6) = ?",
+   "variantlar": [
+    "66",
+    "72",
+    "54",
+    "60"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "S₃ = 12, a₁ = 2. d = ?",
+   "variantlar": [
+    "4",
+    "2",
+    "3",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 dan 50 gacha natural sonlar yig'indisi?",
+   "variantlar": [
+    "1300",
+    "1275",
+    "1250",
+    "2550"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 dan 100 gacha juft sonlar yig'indisi?",
+   "variantlar": [
+    "2500",
+    "2550",
+    "5050",
+    "5100"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 dan 100 gacha toq sonlar yig'indisi?",
+   "variantlar": [
+    "5000",
+    "2500",
+    "2550",
+    "5050"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a₁ = 7, d = 3. S₁₅ = ?",
+   "variantlar": [
+    "435",
+    "300",
+    "420",
+    "405"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "S₁₀ = 210, a₁ = 3. d = ? (S = (2a₁ + 9d)/2·10)",
+   "variantlar": [
+    "4",
+    "6",
+    "5",
+    "3"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nechta ketma-ket natural son yig'indisi 55 ga teng, 1 dan boshlab?",
+   "variantlar": [
+    "10",
+    "11",
+    "9",
+    "8"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "n ta toq sonlar yig'indisi 1 + 3 + ... = ?",
+   "variantlar": [
+    "n²/2",
+    "2n",
+    "n²",
+    "n(n + 1)"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "n ta juft sonlar yig'indisi 2 + 4 + ... = ?",
+   "variantlar": [
+    "2n",
+    "n²/2",
+    "n(n + 1)",
+    "n²"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sₙ = n² + 2n. a₁ = ?",
+   "variantlar": [
+    "4",
+    "3",
+    "1",
+    "2"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sₙ = n² + 2n. a₂ = ?",
+   "variantlar": [
+    "8",
+    "3",
+    "5",
+    "4"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sₙ = n² + 2n. d = ?",
+   "variantlar": [
+    "1",
+    "2",
+    "5",
+    "3"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

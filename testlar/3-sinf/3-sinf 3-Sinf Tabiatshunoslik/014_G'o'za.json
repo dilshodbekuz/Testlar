@@ -9,7 +9,7 @@
     "Ko'sak va paxta",
     "Faqat tolalari va chigiti",
     "Gul, meva, chigit",
-    "Ildiz, poya, barg, gul (meva)"
+    "Ildiz, poya, barg, gul va meva (ko'sak)"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -41,7 +41,7 @@
    "variantlar": [
     "Qora tolalari",
     "Sariq tolalari",
-    "Qirmizi tolalari",
+    "Qizil tolalar",
     "Oppoq tolalari"
    ],
    "togri": 3,
@@ -114,7 +114,7 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Paxta chigiti o'sim bolib o'sish uchun qanday ishlashlar bajariladi?",
+   "savol": "G'o'za yaxshi o'sishi uchun qanday ishlar bajariladi?",
    "variantlar": [
     "Hech qanday ishlov berilmaydi",
     "Faqat o'g'it solinadi",
@@ -125,12 +125,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Ko'sak qanday holatda paxta chanoq hosil qiladi?",
+   "savol": "Paxta chanog'i qachon ochiladi?",
    "variantlar": [
-    "Ko'sak pishimi oldidan ochilganda",
-    "Ko'sak pishim oldidan",
-    "Ko'sak tugalla pishib oyog'iga tushganda",
-    "Ko'sak gulga aylanishida"
+    "Ko'sak pishib ochilganda",
+    "Gul ochilganda",
+    "Chigit ekilganda",
+    "Barg chiqqanda"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -161,7 +161,7 @@
    "savol": "G'o'za ekilgandan keyin qanday vaqtda nihol bo'lib o'sib chiqadi?",
    "variantlar": [
     "Bir necha haftada",
-    "Altı oy",
+    "Olti oyda",
     "Bir oy",
     "Bir necha kun"
    ],
@@ -172,7 +172,7 @@
    "savol": "Traktorlar g'o'za dalasida qanday ishlar bajaradadi?",
    "variantlar": [
     "Qator oralariga ishlov beriladi, o'g'itlar solinadi va sug'oriladi",
-    "Chigit ekiladi va o'g'itlar solinadi",
+    "Faqat paxta sotiladi",
     "Faqat chigit yig'iladi",
     "Paxta teriladi"
    ],
@@ -193,10 +193,10 @@
   {
    "savol": "Paxta chigiti traktorlar yordamida ekilgandan keyin uning o'sish jarayoni qanday bo'ladi?",
    "variantlar": [
-    "Qaynoq bo'lib ketadi",
+    "Qaynab ketadi",
     "Darhol ochiladi",
     "Bir necha haftada nihol bo'lib o'sib chiqadi",
-    "Toplamoq olmaydi"
+    "Hech qachon unmaydi"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -207,7 +207,7 @@
     "Qo'l bilan",
     "Ekskavatorda",
     "Maxsus mashinada",
-    "Traktorida"
+    "Traktorda"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -235,11 +235,11 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "G'o'zaning barq, gul va ko'sak o'sishi orasidagi to'g'ri ketma-ketlik qanday?",
+   "savol": "G'o'zada barg, gul va ko'sak qanday ketma-ketlikda hosil bo'ladi?",
    "variantlar": [
     "Darhol ko'sak hosil bo'ladi",
     "Birinchi gul hosil bo'ladi, keyin ko'sak",
-    "Barq urib o'sa boshlaydi, keyin gul, undan ko'sak",
+    "Avval barg chiqarib o'sadi, keyin gul, undan ko'sak",
     "Barg, ko'sak, gul ketma-ketida"
    ],
    "togri": 2,
@@ -271,9 +271,9 @@
    "savol": "Paxta chigitidan olingan yog' nima sifatida ishlatiladi?",
    "variantlar": [
     "Faqat qog'oz tayyorlanadi",
-    "Faqat rang",
-    "Yog' o'zi tayyorlangan mahsulot",
-    "Faqat rang sifatida"
+    "Faqat bo'yoq",
+    "Ovqat pishirish uchun o'simlik yog'i",
+    "Faqat sovun"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -312,14 +312,14 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Paxta tolasiga ip yigirilishida barmoqning roli nima?",
+   "savol": "Paxta tolasidan ip qanday olinadi?",
    "variantlar": [
-    "Tolani kesish",
-    "Tolani ranglashtirish",
-    "Tolani yuvish",
-    "Tolani o'rash va ip yigirish"
+    "Tolani yigirib (eshib)",
+    "Tolani kesib",
+    "Tolani bo'yab",
+    "Tolani yuvib"
    ],
-   "togri": 3,
+   "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
@@ -327,7 +327,7 @@
    "variantlar": [
     "Paxta sifatli va ko'p miqdorda tayyorlanadi",
     "Mahalliy bazarda qimmat",
-    "Paxta texnik sabablar tufayli",
+    "Texnik sabablar tufayli",
     "Mahalliy talab kam"
    ],
    "togri": 0,

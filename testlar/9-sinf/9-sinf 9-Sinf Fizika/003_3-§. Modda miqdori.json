@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "3-§. Modda miqdori",
+ "savollar": [
+  {
+   "savol": "Modda miqdori qaysi harf bilan belgilanadi?",
+   "variantlar": [
+    "N",
+    "m",
+    "M",
+    "ν"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Modda miqdorining birligi?",
+   "variantlar": [
+    "Amper",
+    "Kilogramm",
+    "Kelvin",
+    "Mol"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 mol nima?",
+   "variantlar": [
+    "1 litr",
+    "12 g uglerodda qancha atom bo'lsa, shuncha zarra saqlovchi modda miqdori",
+    "1 molekula",
+    "1 kg modda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Molyar massa qaysi harf bilan belgilanadi?",
+   "variantlar": [
+    "ν",
+    "M",
+    "N",
+    "m"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Molyar massa birligi?",
+   "variantlar": [
+    "kg/mol",
+    "mol",
+    "g",
+    "kg"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Modda miqdori formulasi (massa orqali)?",
+   "variantlar": [
+    "ν = M / m",
+    "ν = m / M",
+    "ν = m + M",
+    "ν = m · M"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Modda miqdori formulasi (zarralar soni orqali)?",
+   "variantlar": [
+    "ν = N · N_A",
+    "ν = N + N_A",
+    "ν = N / N_A",
+    "ν = N_A / N"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Avogadro doimiysi N_A = ?",
+   "variantlar": [
+    "6,02 · 10²³ mol⁻¹",
+    "3 · 10⁸",
+    "6,67 · 10⁻¹¹",
+    "9 · 10⁹"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 mol istalgan moddada zarralar soni?",
+   "variantlar": [
+    "1",
+    "10",
+    "N_A",
+    "100"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Molyar hajm (normal sharoit) gaz uchun?",
+   "variantlar": [
+    "10 l/mol",
+    "1 l/mol",
+    "22,4 l/mol",
+    "100 l/mol"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "m = 36 g suv (M = 18 g/mol). ν = ?",
+   "variantlar": [
+    "0,5 mol",
+    "18 mol",
+    "54 mol",
+    "2 mol"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "m = 64 g kislorod (M = 32 g/mol). ν = ?",
+   "variantlar": [
+    "2 mol",
+    "96 mol",
+    "0,5 mol",
+    "32 mol"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ν = 3 mol, M = 18 g/mol. m = ?",
+   "variantlar": [
+    "6 g",
+    "0,17 g",
+    "54 g",
+    "21 g"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ν = 0,5 mol, M = 44 g/mol (CO₂). m = ?",
+   "variantlar": [
+    "88 g",
+    "0,011 g",
+    "22 g",
+    "44,5 g"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "N = 12,04 · 10²³ ta molekula. ν = ?",
+   "variantlar": [
+    "0,5 mol",
+    "1 mol",
+    "12 mol",
+    "2 mol"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ν = 2 mol. N = ?",
+   "variantlar": [
+    "2 · 10²³",
+    "3,01 · 10²³",
+    "12,04 · 10²³",
+    "6,02 · 10²³"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ν = 0,1 mol. N = ?",
+   "variantlar": [
+    "6,02 · 10²³",
+    "6,02",
+    "6,02 · 10²²",
+    "6,02 · 10²⁴"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "m = 9 g suv. Molekulalar soni?",
+   "variantlar": [
+    "9 · 10²³",
+    "3,01 · 10²³",
+    "1,5 · 10²³",
+    "6,02 · 10²³"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gaz hajmi 44,8 l (n.sh.). ν = ?",
+   "variantlar": [
+    "2 mol",
+    "0,5 mol",
+    "1 mol",
+    "4 mol"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Vodorod 4 g (M = 2 g/mol). ν = ?",
+   "variantlar": [
+    "8 mol",
+    "0,5 mol",
+    "6 mol",
+    "2 mol"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "m = 90 g suv (M = 18). Molekulalar soni?",
+   "variantlar": [
+    "3,01 · 10²⁴",
+    "5 · 10²³",
+    "3,01 · 10²³",
+    "6,02 · 10²⁴"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 kg suvda molekulalar soni taxminan?",
+   "variantlar": [
+    "3,3 · 10²⁵",
+    "6 · 10²³",
+    "3,3 · 10²³",
+    "10²⁶"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 sm³ suvda (m = 1 g) molekulalar soni?",
+   "variantlar": [
+    "10²⁴",
+    "3,3 · 10²²",
+    "3,3 · 10²³",
+    "6 · 10²²"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kislorodning m = 16 g massasida molekulalar soni?",
+   "variantlar": [
+    "6,02 · 10²³",
+    "1,5 · 10²³",
+    "16 · 10²³",
+    "3,01 · 10²³"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Molekulalar soni N = 3,01 · 10²³ (M = 44 g/mol CO₂). m = ?",
+   "variantlar": [
+    "22 g",
+    "88 g",
+    "11 g",
+    "44 g"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "ν = m/M = N/N_A dan m = ?",
+   "variantlar": [
+    "N_A · N / M",
+    "M · N / N_A",
+    "M / N",
+    "N / M"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2 mol azot (M = 28 g/mol). m = ?",
+   "variantlar": [
+    "56 g",
+    "28 g",
+    "14 g",
+    "30 g"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "0,25 mol suv massasi?",
+   "variantlar": [
+    "72 g",
+    "18,25 g",
+    "4,5 g",
+    "0,014 g"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Aralashma 1 mol H₂ va 1 mol O₂. Jami massasi?",
+   "variantlar": [
+    "34 g",
+    "2 g",
+    "18 g",
+    "32 g"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 mol molekulalari soni suvda va vodorodda solishtirilsa?",
+   "variantlar": [
+    "Vodorodda ko'p",
+    "Bir xil",
+    "Suvda ko'p",
+    "Aniqlab bo'lmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

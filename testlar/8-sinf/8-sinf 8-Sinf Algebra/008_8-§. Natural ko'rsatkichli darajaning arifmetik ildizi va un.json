@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Algebra",
+ "mavzu": "8-§. Natural ko'rsatkichli darajaning arifmetik ildizi va uning xossalari",
+ "savollar": [
+  {
+   "savol": "√9 nechaga teng?",
+   "variantlar": [
+    "4,5",
+    "81",
+    "3",
+    "9"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "√16 nechaga teng?",
+   "variantlar": [
+    "4",
+    "8",
+    "2",
+    "256"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "√25 nechaga teng?",
+   "variantlar": [
+    "50",
+    "625",
+    "5",
+    "12,5"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "√0 nechaga teng?",
+   "variantlar": [
+    "−1",
+    "1",
+    "ma'noga ega emas",
+    "0"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "√1 nechaga teng?",
+   "variantlar": [
+    "2",
+    "1",
+    "0",
+    "−1"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kvadrat ildiz ostidagi ifoda qanday bo'lishi kerak?",
+   "variantlar": [
+    "Manfiy",
+    "Faqat juft",
+    "Faqat butun",
+    "Nomanfiy"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "³√8 nechaga teng?",
+   "variantlar": [
+    "8/3",
+    "4",
+    "2",
+    "512"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "³√27 nechaga teng?",
+   "variantlar": [
+    "6",
+    "81",
+    "9",
+    "3"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "√49 nechaga teng?",
+   "variantlar": [
+    "14",
+    "7",
+    "24,5",
+    "2401"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "√100 nechaga teng?",
+   "variantlar": [
+    "1000",
+    "50",
+    "10",
+    "5"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "n-darajali arifmetik ildiz ⁿ√a nima?",
+   "variantlar": [
+    "Darajasi a ga teng nomanfiy son",
+    "a ni n ga ko'paytirish",
+    "a ning n-darajasi",
+    "a ni n ga bo'lish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(√5)² nechaga teng?",
+   "variantlar": [
+    "25",
+    "10",
+    "5",
+    "√5"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "√(3²) nechaga teng?",
+   "variantlar": [
+    "3",
+    "6",
+    "9",
+    "1,5"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "√((−3)²) nechaga teng?",
+   "variantlar": [
+    "3",
+    "9",
+    "ma'noga ega emas",
+    "−3"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "⁴√16 nechaga teng?",
+   "variantlar": [
+    "8",
+    "64",
+    "4",
+    "2"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "√4 · √9 nechaga teng?",
+   "variantlar": [
+    "36",
+    "13",
+    "6",
+    "5"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "√36 : √4 nechaga teng?",
+   "variantlar": [
+    "4",
+    "9",
+    "32",
+    "3"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "³√(−8) nechaga teng?",
+   "variantlar": [
+    "−2",
+    "2",
+    "−4",
+    "ma'noga ega emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "√(a²) ifoda (a < 0 bo'lsa) nimaga teng?",
+   "variantlar": [
+    "0",
+    "a²",
+    "a",
+    "−a"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "√(x²) = |x|. x = −5 bo'lsa, √(x²) nechaga teng?",
+   "variantlar": [
+    "−5",
+    "5",
+    "25",
+    "10"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "√(a · b) = √a · √b tenglik qachon to'g'ri?",
+   "variantlar": [
+    "a ≥ 0, b ≥ 0",
+    "a < 0, b < 0",
+    "Hech qachon",
+    "Har doim"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "√12 ni soddalashtiring.",
+   "variantlar": [
+    "6",
+    "2√3",
+    "3√2",
+    "4√3"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "√50 ni soddalashtiring.",
+   "variantlar": [
+    "10",
+    "2√5",
+    "5√2",
+    "25√2"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "√(a⁴) (a ≠ 0) ifodaning qiymati nimaga teng?",
+   "variantlar": [
+    "a",
+    "a²",
+    "|a|",
+    "a⁴"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "√(x² − 6x + 9) (x < 3 bo'lganda) nimaga teng?",
+   "variantlar": [
+    "9 − x²",
+    "x − 3",
+    "3 − x",
+    "x + 3"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "⁵√32 nechaga teng?",
+   "variantlar": [
+    "4",
+    "6",
+    "2",
+    "16"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "³√(a³) ifoda nimaga teng?",
+   "variantlar": [
+    "|a|",
+    "−a",
+    "a²",
+    "a"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "√(√81) nechaga teng?",
+   "variantlar": [
+    "9",
+    "27",
+    "3",
+    "81"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "√2 · √8 nechaga teng?",
+   "variantlar": [
+    "16",
+    "2√2",
+    "4",
+    "10"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi tenglik xato?",
+   "variantlar": [
+    "√16 = 4",
+    "√0 = 0",
+    "³√(−8) = −2",
+    "√(−16) = −4"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

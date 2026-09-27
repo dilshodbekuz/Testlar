@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "28-§. Kondensatorlarni parallel va ketma-ket ulash",
+ "savollar": [
+  {
+   "savol": "Kondensatorlarni ketma-ket ulashda zaryad?",
+   "variantlar": [
+    "Nol",
+    "Bir xil",
+    "Ortadi",
+    "Har xil"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kondensatorlarni parallel ulashda kuchlanish?",
+   "variantlar": [
+    "Har xil",
+    "Ortadi",
+    "Nol",
+    "Bir xil"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Parallel ulangan kondensatorlar sig'imi?",
+   "variantlar": [
+    "C = C₁C₂",
+    "C = C₁ + C₂",
+    "C = C₁ − C₂",
+    "1/C = 1/C₁ + 1/C₂"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ketma-ket ulangan kondensatorlar sig'imi?",
+   "variantlar": [
+    "1/C = 1/C₁ + 1/C₂",
+    "C = C₁C₂",
+    "C = C₁ − C₂",
+    "C = C₁ + C₂"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Parallel ulashda umumiy sig'im ...?",
+   "variantlar": [
+    "kamayadi",
+    "nol",
+    "o'zgarmaydi",
+    "ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ketma-ket ulashda umumiy sig'im ...?",
+   "variantlar": [
+    "nol",
+    "ortadi",
+    "o'zgarmaydi",
+    "kamayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "C₁ = 2 μF, C₂ = 3 μF parallel. C = ?",
+   "variantlar": [
+    "1,2 μF",
+    "6 μF",
+    "1 μF",
+    "5 μF"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "2 ta bir xil C parallel. Umumiy sig'im?",
+   "variantlar": [
+    "C²",
+    "C/2",
+    "C",
+    "2C"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "2 ta bir xil C ketma-ket. Umumiy sig'im?",
+   "variantlar": [
+    "2C",
+    "C/2",
+    "C",
+    "C²"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ketma-ket ulangan kondensatorlarda umumiy kuchlanish?",
+   "variantlar": [
+    "U₁U₂",
+    "U₁ = U₂",
+    "U₁ + U₂",
+    "U₁ − U₂"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "C₁ = 4 μF, C₂ = 4 μF ketma-ket. C = ?",
+   "variantlar": [
+    "8 μF",
+    "2 μF",
+    "16 μF",
+    "4 μF"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "C₁ = 3 μF, C₂ = 6 μF ketma-ket. C = ?",
+   "variantlar": [
+    "9 μF",
+    "18 μF",
+    "2 μF",
+    "4,5 μF"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "C₁ = 1 μF, C₂ = 2 μF, C₃ = 3 μF parallel. C = ?",
+   "variantlar": [
+    "5 μF",
+    "6 μF",
+    "0,55 μF",
+    "1,8 μF"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Parallel C₁ = 5 μF va C₂ = 7 μF, U = 10 V. Umumiy zaryad?",
+   "variantlar": [
+    "120 μC",
+    "70 μC",
+    "50 μC",
+    "1,2 μC"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ketma-ket C₁ = 6 μF va C₂ = 3 μF, umumiy sig'im?",
+   "variantlar": [
+    "18 μF",
+    "0,5 μF",
+    "2 μF",
+    "9 μF"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ketma-ket ulangan kondensatorlarda kuchlanish sig'imga qanday bog'liq?",
+   "variantlar": [
+    "Teskari proporsional",
+    "Bog'liq emas",
+    "To'g'ri proporsional",
+    "Kvadratik"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sig'imi ortiq kerak bo'lsa, kondensatorlar qanday ulanadi?",
+   "variantlar": [
+    "Aralash",
+    "Parallel",
+    "Ulanmaydi",
+    "Ketma-ket"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqori kuchlanishga chidash uchun kondensatorlar qanday ulanadi?",
+   "variantlar": [
+    "Parallel",
+    "Ulanmaydi",
+    "Ketma-ket",
+    "Aralash"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "10 ta bir xil 2 μF kondensator parallel. C = ?",
+   "variantlar": [
+    "20 μF",
+    "12 μF",
+    "0,2 μF",
+    "2 μF"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3 ta bir xil 6 μF kondensator ketma-ket. C = ?",
+   "variantlar": [
+    "2 μF",
+    "3 μF",
+    "18 μF",
+    "6 μF"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "C₁ = 2 μF, C₂ = 3 μF ketma-ket, U = 10 V. Umumiy C va zaryad?",
+   "variantlar": [
+    "5 μF, 50 μC",
+    "6 μF, 60 μC",
+    "1,2 μF, 12 μC",
+    "1,2 μF, 50 μC"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ketma-ket C₁ = 2 μF va C₂ = 3 μF, umumiy zaryad 12 μC. U₁ = ?",
+   "variantlar": [
+    "6 V",
+    "4 V",
+    "10 V",
+    "12 V"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi zanjirda U₂ = ?",
+   "variantlar": [
+    "4 V",
+    "12 V",
+    "10 V",
+    "6 V"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(C₁ = 2 μF ∥ C₂ = 4 μF) ketma-ket C₃ = 6 μF. Umumiy C?",
+   "variantlar": [
+    "6 μF",
+    "1,5 μF",
+    "12 μF",
+    "3 μF"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi zanjirda U = 12 V. Umumiy zaryad?",
+   "variantlar": [
+    "36 μC",
+    "3 μC",
+    "144 μC",
+    "12 μC"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "C₁ = C₂ = C₃ = 3 μF, ikkitasi parallel, bittasi ketma-ket. Umumiy C?",
+   "variantlar": [
+    "4,5 μF",
+    "9 μF",
+    "2 μF",
+    "1 μF"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2 ta kondensator parallel, C₁ = 3 μF, C₂ = 6 μF, U = 6 V. Zaryadlar?",
+   "variantlar": [
+    "9 μC va 9 μC",
+    "3 va 6",
+    "18 μC va 36 μC",
+    "6 va 6"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kondensatorlar ketma-ket bo'lganda umumiy sig'im eng kichik sig'imdan ...?",
+   "variantlar": [
+    "kichik",
+    "ikki marta katta",
+    "katta",
+    "teng"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Parallel kondensatorlarda umumiy sig'im eng katta sig'imdan ...?",
+   "variantlar": [
+    "kichik",
+    "yarmi",
+    "teng",
+    "katta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita kondensator 4 μF va 4 μF ketma-ket, keyin 2 μF ga parallel. Umumiy sig'im?",
+   "variantlar": [
+    "10 μF",
+    "2 μF",
+    "8 μF",
+    "4 μF"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

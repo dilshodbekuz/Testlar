@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Algebra",
+ "mavzu": "19-§. Xatolikni baholash",
+ "savollar": [
+  {
+   "savol": "Xatolikni baholash nima?",
+   "variantlar": [
+    "Tenglamani yechish",
+    "Xatolikning chegarasini ko'rsatish",
+    "Sonni ko'paytirish",
+    "Sonni yaxlitlash"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xatolik chegarasi nima?",
+   "variantlar": [
+    "Sonning yarmi",
+    "Sonning kvadrati",
+    "Mutlaq xatolikdan katta yoki teng son",
+    "Nol"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x ≈ a, |x − a| ≤ h bo'lsa, h nima?",
+   "variantlar": [
+    "Aniq qiymat",
+    "Modul",
+    "Ko'paytma",
+    "Xatolik chegarasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xatolik chegarasi qancha kichik bo'lsa, hisoblash ...?",
+   "variantlar": [
+    "noaniqroq",
+    "bir xil",
+    "aniqroq",
+    "noto'g'ri"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mutlaq xatolik manfiy bo'ladimi?",
+   "variantlar": [
+    "Ha",
+    "Faqat kami bilan",
+    "Faqat ortig'i bilan",
+    "Yo'q"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "|x − a| ≤ 0,1 bo'lsa, xatolik chegarasi nechaga teng?",
+   "variantlar": [
+    "1",
+    "0,01",
+    "0,1",
+    "10"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a = 5, h = 0,2 bo'lsa, x ning eng katta qiymati nechaga teng?",
+   "variantlar": [
+    "4,8",
+    "5,4",
+    "5",
+    "5,2"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a = 5, h = 0,2 bo'lsa, x ning eng kichik qiymati nechaga teng?",
+   "variantlar": [
+    "5",
+    "4,6",
+    "4,8",
+    "5,2"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Uzunlik 12 ± 1 sm. Eng katta mumkin uzunlik?",
+   "variantlar": [
+    "12",
+    "13",
+    "1",
+    "11"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Uzunlik 12 ± 1 sm. Eng kichik mumkin uzunlik?",
+   "variantlar": [
+    "11",
+    "13",
+    "12",
+    "10"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a − h ≤ x ≤ a + h qo'sh tengsizlik qanday yozuvga teng?",
+   "variantlar": [
+    "|x − a| ≤ h",
+    "x − a ≥ h",
+    "|x| ≤ h",
+    "|x + a| ≤ h"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "|x − 3| ≤ 0,5 bo'lsa, x qaysi oraliqda yotadi?",
+   "variantlar": [
+    "[3; 3,5]",
+    "[2; 4]",
+    "[2,5; 3]",
+    "[2,5; 3,5]"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x = 4,2 ± 0,3 bo'lsa, x ning eng katta qiymati nechaga teng?",
+   "variantlar": [
+    "4,2",
+    "4,5",
+    "4,8",
+    "3,9"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x = 4,2 ± 0,3 bo'lsa, x ning eng kichik qiymati nechaga teng?",
+   "variantlar": [
+    "3,9",
+    "4,5",
+    "4,2",
+    "3,6"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a = 10 va x ∈ [9,8; 10,2] bo'lsa, xatolik chegarasi h nechaga teng?",
+   "variantlar": [
+    "0,4",
+    "0,1",
+    "10",
+    "0,2"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a = 7, |x − 7| ≤ 0,05 bo'lsa, x ning eng katta qiymati qaysi?",
+   "variantlar": [
+    "7,5",
+    "7,05",
+    "6,95",
+    "7"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1,4 < √2 < 1,5 baholash qanday olingan?",
+   "variantlar": [
+    "Yaxlitlash",
+    "Ikki tomonlama baho",
+    "Aniq qiymat",
+    "Nisbiy xatolik"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1,4 < √2 < 1,5 bo'lsa, xatolik chegarasi 0,1 dan ...?",
+   "variantlar": [
+    "teng",
+    "nol",
+    "kichik",
+    "katta"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3,1 < π < 3,2 bo'lsa, π ni 3,15 deb olsak, xatolik chegarasi nechaga teng?",
+   "variantlar": [
+    "0,5",
+    "0,1",
+    "0,15",
+    "0,05"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x ≈ 2,5 va xatolik chegarasi 0,01 bo'lsa, x qaysi oraliqda yotadi?",
+   "variantlar": [
+    "[2,4; 2,6]",
+    "[2,5; 2,51]",
+    "[2,49; 2,51]",
+    "[2,45; 2,55]"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a = 12,4 ± 0,2 va b = 3,1 ± 0,1 bo'lsa, a + b ning eng katta qiymati nechaga teng?",
+   "variantlar": [
+    "16",
+    "15,8",
+    "15,2",
+    "15,5"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a = 12,4 ± 0,2 va b = 3,1 ± 0,1 bo'lsa, a + b ning eng kichik qiymati nechaga teng?",
+   "variantlar": [
+    "15,0",
+    "15,2",
+    "15,5",
+    "15,8"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a + b yig'indisi uchun xatolik chegarasi qanday topiladi?",
+   "variantlar": [
+    "Xatolik chegaralari yig'indisi",
+    "Ayirmasi",
+    "Bo'linmasi",
+    "Ko'paytmasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a = 10 ± 1 va b = 4 ± 1 bo'lsa, a − b ning eng kichik qiymati nechaga teng?",
+   "variantlar": [
+    "6",
+    "4",
+    "2",
+    "8"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a = 5 ± 0,1 bo'lsa, 2a ning xatolik chegarasi nechaga teng?",
+   "variantlar": [
+    "0,05",
+    "0,1",
+    "0,2",
+    "10"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kvadrat tomoni 4 ± 0,1 bo'lsa, perimetri qanday xatolikka ega?",
+   "variantlar": [
+    "± 0,8",
+    "± 0,2",
+    "± 0,4",
+    "± 0,1"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kvadrat tomoni 5 sm (xatolik 0,1). Yuzi eng ko'pi bilan qancha bo'lishi mumkin?",
+   "variantlar": [
+    "27 sm²",
+    "25,5 sm²",
+    "26,01 sm²",
+    "25 sm²"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kvadrat tomoni 5 sm (xatolik 0,1). Yuzi eng kami bilan qancha bo'lishi mumkin?",
+   "variantlar": [
+    "25 sm²",
+    "23 sm²",
+    "24,01 sm²",
+    "24,5 sm²"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "|x − 2| ≤ 0,1 bo'lsa, 3x ning qiymati qaysi oraliqda yotadi?",
+   "variantlar": [
+    "[6; 6,3]",
+    "[5,7; 6,3]",
+    "[5,9; 6,1]",
+    "[5,7; 6]"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x ∈ [2,9; 3,1] bo'lsa, x ni 3 deb olishdagi xatolik chegarasi nechaga teng?",
+   "variantlar": [
+    "0,2",
+    "3",
+    "0,05",
+    "0,1"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

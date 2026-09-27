@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "23-§. Amaliy mashg'ulot. Tok manbalarini ulash",
+ "savollar": [
+  {
+   "savol": "Tok manbalarini ulash usullari nechta asosiy turga bo'linadi?",
+   "variantlar": [
+    "Ikkita (ketma-ket va parallel)",
+    "Beshta",
+    "Uchta",
+    "Bitta"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ketma-ket ulangan tok manbalarining umumiy kuchlanishi?",
+   "variantlar": [
+    "Nolga teng",
+    "Bittasiga teng",
+    "Kuchlanishlar yig'indisiga teng",
+    "Ayirmasiga teng"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Parallel ulangan bir xil manbalar umumiy kuchlanishi?",
+   "variantlar": [
+    "Ko'paytmasi",
+    "Nol",
+    "Yig'indisi",
+    "Bittasiniki bilan bir xil"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Batareyada elementlar necha xil ulanadi?",
+   "variantlar": [
+    "Ketma-ket va parallel",
+    "Ulanmaydi",
+    "Faqat parallel",
+    "Faqat ketma-ket"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Manbalarni ketma-ket ulashda qutblar qanday ulanadi?",
+   "variantlar": [
+    "Ulanmaydi",
+    "(+) bilan (+)",
+    "(−) bilan (−)",
+    "Bir elementning (+) — ikkinchisining (−) ga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Manbalarni parallel ulashda qutblar qanday ulanadi?",
+   "variantlar": [
+    "Ulanmaydi",
+    "(+) — (−)",
+    "(+) lar bir joyga, (−) lar bir joyga",
+    "Aralash"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1,5 V li 2 ta element ketma-ket. U = ?",
+   "variantlar": [
+    "0,75 V",
+    "1,5 V",
+    "3 V",
+    "2,25 V"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1,5 V li 2 ta element parallel. U = ?",
+   "variantlar": [
+    "1,5 V",
+    "2,25 V",
+    "0,75 V",
+    "3 V"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ketma-ket ulash nima uchun qilinadi?",
+   "variantlar": [
+    "Massani oshirish",
+    "Hajmni kamaytirish",
+    "Tokni oshirish uchun",
+    "Kuchlanishni oshirish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Parallel ulash nima uchun qilinadi?",
+   "variantlar": [
+    "Kuchlanishni oshirish uchun",
+    "Tok sig'imini (uzoq ishlashni) oshirish uchun",
+    "Yoritish uchun",
+    "Sovutish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "4 ta 1,5 V li element ketma-ket. U = ?",
+   "variantlar": [
+    "1,5 V",
+    "6 V",
+    "4 V",
+    "3 V"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3 ta 4 V li akkumulyator ketma-ket. U = ?",
+   "variantlar": [
+    "12 V",
+    "4 V",
+    "3 V",
+    "8 V"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2 ta 6 V li akkumulyator parallel. U = ?",
+   "variantlar": [
+    "36 V",
+    "6 V",
+    "12 V",
+    "3 V"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Har biri 1,2 V li 5 ta element ketma-ket. U = ?",
+   "variantlar": [
+    "6 V",
+    "5 V",
+    "1,2 V",
+    "2,4 V"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "9 V batareya olish uchun 1,5 V li nechta element ketma-ket kerak?",
+   "variantlar": [
+    "12",
+    "3",
+    "9",
+    "6"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qo'l fonarida 2 ta 1,5 V element ketma-ket. Lampa R = 6 Om. Tok (ichki qarshilik yo'q)?",
+   "variantlar": [
+    "2 A",
+    "18 A",
+    "0,5 A",
+    "0,25 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2 ta element ketma-ket, bittasi teskari ulansa umumiy kuchlanish (1,5 V va 1,5 V)?",
+   "variantlar": [
+    "1,5 V",
+    "2,25 V",
+    "0",
+    "3 V"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Parallel ulangan manbalarning umumiy tok sig'imi?",
+   "variantlar": [
+    "Yig'indiga teng",
+    "Nol",
+    "Kamayadi",
+    "Bittasiga teng"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ketma-ket ulangan manbalardagi tok?",
+   "variantlar": [
+    "Har xil",
+    "Bir xil",
+    "Nol",
+    "Kamayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Avtomobil akkumulyatori odatda necha voltli?",
+   "variantlar": [
+    "1,5 V",
+    "220 V",
+    "380 V",
+    "12 V"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3 ta 2 V li element ketma-ket ulangan, tashqi R = 3 Om (ichki qarshilik yo'q). Tok?",
+   "variantlar": [
+    "6 A",
+    "0,5 A",
+    "18 A",
+    "2 A"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ichki qarshiligi r bo'lgan N ta bir xil element parallel ulansa, umumiy ichki qarshilik?",
+   "variantlar": [
+    "N·r",
+    "r",
+    "N/r",
+    "r/N"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ichki qarshiligi r bo'lgan N ta bir xil element ketma-ket ulansa, umumiy ichki qarshilik?",
+   "variantlar": [
+    "r/N",
+    "N/r",
+    "N·r",
+    "r"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2 ta 3 V element parallel, tashqi R = 3 Om (ichki qarshilik yo'q). Tok?",
+   "variantlar": [
+    "1 A",
+    "6 A",
+    "2 A",
+    "0,5 A"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ketma-ket ulangan 3 ta element, EYuK 1,5 V va tashqi zanjir R = 9 Om (ichki qarshiliksiz). Tok?",
+   "variantlar": [
+    "0,17 A",
+    "1,5 A",
+    "0,5 A",
+    "4,5 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki elementni parallel ulab, turli EYuK dagilarini ulash nega yomon?",
+   "variantlar": [
+    "Ular orasida tok oqib, energiya sarflanadi",
+    "Yaxshi ishlaydi",
+    "Tok to'xtaydi",
+    "Rang o'zgaradi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Akkumulyator batareyasi (6 elementli, har biri 2 V). Umumiy kuchlanish?",
+   "variantlar": [
+    "6 V",
+    "8 V",
+    "2 V",
+    "12 V"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zanjirga 12 V kerak, elementlar 1,5 V. Nechta ketma-ket?",
+   "variantlar": [
+    "8",
+    "18",
+    "6",
+    "12"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ketma-ket ulangan elementlardan biri ishdan chiqsa?",
+   "variantlar": [
+    "Ishlayveradi",
+    "Butun batareya ishlamaydi",
+    "O'zgarmaydi",
+    "Kuchayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elementlarni aralash ulash nima beradi?",
+   "variantlar": [
+    "Faqat sig'im",
+    "Faqat kuchlanish",
+    "Hech narsa",
+    "Kuchlanish ham, sig'im ham oshadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

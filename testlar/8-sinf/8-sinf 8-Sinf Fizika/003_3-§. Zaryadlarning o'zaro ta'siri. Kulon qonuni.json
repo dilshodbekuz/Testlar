@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "3-§. Zaryadlarning o'zaro ta'siri. Kulon qonuni",
+ "savollar": [
+  {
+   "savol": "Kulon qonuni nimani ifodalaydi?",
+   "variantlar": [
+    "Nuqtaviy zaryadlarning o'zaro ta'sir kuchini",
+    "Tok kuchini",
+    "Tezlikni",
+    "Massani"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kulon qonuni formulasi qaysi?",
+   "variantlar": [
+    "F = k·q₁q₂·r²",
+    "F = m·a",
+    "F = k·|q₁||q₂|/r²",
+    "F = k·q/r"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kulon kuchi qaysi birlikda o'lchanadi?",
+   "variantlar": [
+    "Vatt",
+    "Kulon",
+    "Joul",
+    "Nyuton"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zaryadlar orasidagi masofa ortsa, ta'sir kuchi qanday o'zgaradi?",
+   "variantlar": [
+    "Nolga teng bo'ladi",
+    "Kamayadi",
+    "Ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zaryadlar kattalashsa, ta'sir kuchi ...?",
+   "variantlar": [
+    "kamayadi",
+    "o'zgarmaydi",
+    "ortadi",
+    "nolga teng bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kulon qonunidagi k ning qiymati taxminan nechaga teng?",
+   "variantlar": [
+    "9 · 10⁻⁹ N·m²/C²",
+    "6,67 · 10⁻¹¹",
+    "3 · 10⁸",
+    "9 · 10⁹ N·m²/C²"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kulon qonuni qaysi zaryadlar uchun to'g'ri?",
+   "variantlar": [
+    "Nuqtaviy zaryadlar",
+    "Zaryadsiz jismlar",
+    "Faqat musbat",
+    "Faqat manfiy"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zaryadlar orasidagi kuch ...?",
+   "variantlar": [
+    "masofaga to'g'ri proporsional",
+    "masofaning kubiga to'g'ri proporsional",
+    "masofaning kvadratiga teskari proporsional",
+    "masofaga bog'liq emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kulon qonuni qaysi olim nomi bilan ataladi?",
+   "variantlar": [
+    "Om",
+    "Faradey",
+    "Nyuton",
+    "Sh. Kulon"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikki zaryad orasidagi kuch qanday yo'nalgan?",
+   "variantlar": [
+    "Vertikal",
+    "Perpendikulyar",
+    "Ularni tutashtiruvchi chiziq bo'ylab",
+    "Tasodifiy"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Masofa 2 marta ortsa, Kulon kuchi necha marta o'zgaradi?",
+   "variantlar": [
+    "2 marta kamayadi",
+    "4 marta kamayadi",
+    "2 marta ortadi",
+    "4 marta ortadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Masofa 3 marta kamaysa, Kulon kuchi necha marta o'zgaradi?",
+   "variantlar": [
+    "9 marta kamayadi",
+    "3 marta ortadi",
+    "9 marta ortadi",
+    "3 marta kamayadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zaryadlardan biri 2 marta ortsa, kuch qanday o'zgaradi?",
+   "variantlar": [
+    "4 marta ortadi",
+    "2 marta kamayadi",
+    "O'zgarmaydi",
+    "2 marta ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkala zaryad ham 2 marta ortsa, kuch qanday o'zgaradi?",
+   "variantlar": [
+    "4 marta ortadi",
+    "8 marta ortadi",
+    "2 marta ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zaryadlar va masofa ikki marta oshirilsa, kuch qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "2 marta ortadi",
+    "2 marta kamayadi",
+    "4 marta ortadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Vakuumda q₁ = q₂ = 1 C, r = 1 m bo'lsa, kuch nechaga teng?",
+   "variantlar": [
+    "9 · 10⁹ N",
+    "9 N",
+    "10⁹ N",
+    "1 N"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dielektrik singdiruvchanligi ε bo'lgan muhitda Kulon kuchi ...?",
+   "variantlar": [
+    "ε marta ortadi",
+    "nolga teng bo'ladi",
+    "o'zgarmaydi",
+    "ε marta kamayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Suvda (ε = 81) Kulon kuchi vakuumdagiga nisbatan necha marta kichik?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "9 marta",
+    "81 marta katta",
+    "81 marta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkita bir xil ishorali zaryad orasidagi kuch qanday?",
+   "variantlar": [
+    "Nol",
+    "Tortish kuchi",
+    "Itarish kuchi",
+    "Yo'nalishsiz"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkita qarama-qarshi ishorali zaryad orasidagi kuch qanday?",
+   "variantlar": [
+    "Itarish kuchi",
+    "Yo'nalishsiz",
+    "Tortish kuchi",
+    "Nol"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "q₁ = 2 μC va q₂ = 4 μC zaryadlar 0,2 m masofada. Kulon kuchi nechaga teng (k = 9 · 10⁹)?",
+   "variantlar": [
+    "1,8 N",
+    "3,6 N",
+    "18 N",
+    "0,18 N"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "q₁ = q₂ = 10⁻⁶ C, r = 0,3 m bo'lsa, F nechaga teng?",
+   "variantlar": [
+    "1 N",
+    "0,1 N",
+    "10 N",
+    "0,01 N"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki bir xil zaryad 1 m masofada 0,9 N kuch bilan itarishadi. Har birining zaryadi nechaga teng?",
+   "variantlar": [
+    "10⁻⁵ C",
+    "10⁻⁴ C",
+    "9 · 10⁻⁶ C",
+    "10⁻⁶ C"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "F = 0,9 N, q₁ = q₂ = 10⁻⁶ C. Masofa nechaga teng?",
+   "variantlar": [
+    "10 m",
+    "0,1 m",
+    "1 m",
+    "0,01 m"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zaryadlar orasidagi masofa 3 marta ortdi va zaryadlardan biri 3 marta ortdi. Kuch qanday o'zgardi?",
+   "variantlar": [
+    "3 marta ortdi",
+    "3 marta kamaydi",
+    "O'zgarmadi",
+    "9 marta kamaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "r = 10 sm da F = 4 N. r = 20 sm da kuch nechaga teng?",
+   "variantlar": [
+    "2 N",
+    "1 N",
+    "16 N",
+    "8 N"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita zaryad orasida F = 8 mN. Masofa 2 marta kamaysa, F nechaga teng bo'ladi?",
+   "variantlar": [
+    "4 mN",
+    "16 mN",
+    "32 mN",
+    "2 mN"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "q₁ = 3 nC, q₂ = 6 nC, r = 3 sm. F nechaga teng (k = 9 · 10⁹)?",
+   "variantlar": [
+    "1,8 · 10⁻⁵ N",
+    "5,4 · 10⁻⁴ N",
+    "1,8 · 10⁻³ N",
+    "1,8 · 10⁻⁴ N"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektron va proton orasidagi Kulon kuchi gravitatsiya kuchidan taxminan qancha marta katta?",
+   "variantlar": [
+    "≈ 10³⁹ marta",
+    "≈ 10² marta",
+    "≈ 10⁹ marta",
+    "teng"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zaryadlar orasidagi kuchni 4 marta kamaytirish uchun masofani qanday o'zgartirish kerak?",
+   "variantlar": [
+    "O'zgartirmaslik",
+    "2 marta oshirish",
+    "2 marta kamaytirish",
+    "4 marta oshirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

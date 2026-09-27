@@ -28,9 +28,9 @@
   {
    "savol": "Barglarni quritish uchun qayerga qo'yiladi?",
    "variantlar": [
-    "To'pning quyida",
+    "To'p ostiga",
     "Shaffof oynaning oldida",
-    "To'pning ustida",
+    "Pechka ustiga",
     "Kitoblar orasiga"
    ],
    "togri": 3,
@@ -51,9 +51,9 @@
    "savol": "Kapalakning qanotlari nechta bo'ladi?",
    "variantlar": [
     "Oltita",
-    "Uchtata",
-    "Ikki juft (to'rttata)",
-    "Beshtata"
+    "Uchta",
+    "Ikki juft (to'rtta)",
+    "Beshta"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -74,7 +74,7 @@
    "variantlar": [
     "Yelim bilan",
     "Suv bilan",
-    "Nafta bilan",
+    "Neft bilan",
     "Silikat bilan"
    ],
    "togri": 0,
@@ -103,14 +103,14 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Kapalak applikatsiyasida tanasi nimani ifodalaydi?",
+   "savol": "Kapalak applikatsiyasida qanotlar nimadan yasaladi?",
    "variantlar": [
-    "Kapalakining oyoqlarini",
-    "Kapalakining qanotlarini",
-    "Kapalakining tanasini",
-    "Kapalakining boshini"
+    "Barglardan",
+    "Toshdan",
+    "Temirdan",
+    "Shishadan"
    ],
-   "togri": 2,
+   "togri": 0,
    "qiyinlik": "oson"
   },
   {
@@ -160,7 +160,7 @@
   {
    "savol": "Applikatsiya yasashda barglardan ehtiyotkorlik bilan foydalanish nima sababli zarur?",
    "variantlar": [
-    "Barglar suv severada haladigan ta'siri uchun",
+    "Barglar suvda erib ketishi uchun",
     "Barglar katta bo'lganligi uchun",
     "Barglar o'ta sinuvchan bo'lganligi uchun",
     "Barglar qora rangli bo'lganligi uchun"
@@ -194,9 +194,9 @@
    "savol": "Applikatsiya yasashdan oldin barglar nima bilan tayyorlanadi?",
    "variantlar": [
     "Suvda yuvilib",
-    "Issiq ovinda quritiladi",
+    "Issiq pechda quritiladi",
     "Rangi bilan tanlanib, shakli ko'ra tayyorlanadi",
-    "Kukuniga tutib tekislanadi"
+    "Changga botiriladi"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -273,7 +273,7 @@
     "Papkaga yoki kitob orasiga solinadi va ustidan kitoblar bostirib qo'yiladi",
     "Darhol sinfga qo'yiladi",
     "Darhol rangli qalamlar bilan raqamlash qilinadi",
-    "Shaffof qog'ozga o'rigan holda eshikka asalib qo'yiladi"
+    "Eshikka osib qo'yiladi"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -282,7 +282,7 @@
    "savol": "Agar kapalak applikatsiyasida ustki qanotlar uchun turli rangli barglar tanlansa, nima bo'ladi?",
    "variantlar": [
     "Kapalak tabiiy ko'rinishi yo'qoladi",
-    "Kapalak tasviri noto'g'ri bo'ladi",
+    "Kapalak uchib ketadi",
     "Hamma narsa to'g'ri bo'ladi",
     "Yelim ishlamaydi"
    ],
@@ -305,8 +305,8 @@
    "variantlar": [
     "Ehtiyotkorlik bilan ishlashni talab qiladi",
     "Barglarning rangi soyalangan bo'ladi",
-    "Barglar suv bilan tabiiy holga qaytaradi",
-    "Yelim barglarni yagga yopishtirib qo'yadi"
+    "Barglar suvda yashil bo'ladi",
+    "Yelim barglarni eritadi"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"

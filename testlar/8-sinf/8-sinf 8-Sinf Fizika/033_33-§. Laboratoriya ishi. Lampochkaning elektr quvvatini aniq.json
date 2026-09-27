@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "33-§. Laboratoriya ishi. Lampochkaning elektr quvvatini aniqlash",
+ "savollar": [
+  {
+   "savol": "Ishning maqsadi nima?",
+   "variantlar": [
+    "Lampochkaning quvvatini aniqlash",
+    "Massani o'lchash",
+    "Haroratni o'lchash",
+    "Uzunlikni o'lchash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quvvatni aniqlash uchun qanday kattaliklar o'lchanadi?",
+   "variantlar": [
+    "Massa va hajm",
+    "Bosim va zichlik",
+    "Tok kuchi va kuchlanish",
+    "Vaqt va yo'l"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quvvat formulasi?",
+   "variantlar": [
+    "P = UI",
+    "P = I/U",
+    "P = U/I",
+    "P = U + I"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda ampermetr qanday ulanadi?",
+   "variantlar": [
+    "Ulanmaydi",
+    "Aralash",
+    "Parallel",
+    "Ketma-ket"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda voltmetr lampaga qanday ulanadi?",
+   "variantlar": [
+    "Ketma-ket",
+    "Parallel",
+    "Aralash",
+    "Ulanmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda qaysi asboblar kerak?",
+   "variantlar": [
+    "Termometr",
+    "Barometr",
+    "Dinamometr",
+    "Tok manbai, lampa, ampermetr, voltmetr, reostat, kalit"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Reostat ishda nima uchun kerak?",
+   "variantlar": [
+    "Tok kuchini rostlash uchun",
+    "Yorug'lik uchun",
+    "Isitish uchun",
+    "Tovush uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Natijalar qayerga yoziladi?",
+   "variantlar": [
+    "Kalitga",
+    "Batareyaga",
+    "Simga",
+    "Jadvalga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sxema yig'ilgach kalit qachon yopiladi?",
+   "variantlar": [
+    "Oldin",
+    "O'qituvchi tekshirgach",
+    "Hech qachon",
+    "Darhol"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Lampochka quvvati birligi?",
+   "variantlar": [
+    "Vt",
+    "V",
+    "Om",
+    "A"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda U = 3,5 V, I = 0,28 A. P = ?",
+   "variantlar": [
+    "3,78 Vt",
+    "0,08 Vt",
+    "12,5 Vt",
+    "0,98 Vt"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda U = 6 V, I = 0,5 A. P = ?",
+   "variantlar": [
+    "12 Vt",
+    "0,083 Vt",
+    "6,5 Vt",
+    "3 Vt"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda P = 2 Vt, U = 4 V. I = ?",
+   "variantlar": [
+    "8 A",
+    "6 A",
+    "0,5 A",
+    "2 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ampermetr shkalasida bo'linma 0,02 A. 12-bo'linmada strelka. I = ?",
+   "variantlar": [
+    "12 A",
+    "0,24 A",
+    "0,12 A",
+    "0,0017 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Voltmetr bo'linmasi 0,1 V, strelka 35-bo'linmada. U = ?",
+   "variantlar": [
+    "0,0029 V",
+    "350 V",
+    "3,5 V",
+    "35 V"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda o'lchash natijasi bir necha tajribada olinsa, quvvat qanday olinadi?",
+   "variantlar": [
+    "Eng kichik",
+    "Yig'indi",
+    "Eng katta",
+    "O'rtacha qiymat"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Lampada 2,5 V/0,3 A yozilgan. Quvvati?",
+   "variantlar": [
+    "8,3 Vt",
+    "0,75 Vt",
+    "0,12 Vt",
+    "2,8 Vt"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda lampa qizib ketsa quvvat qanday o'zgarishi mumkin?",
+   "variantlar": [
+    "Nolga teng",
+    "O'zgarmaydi",
+    "Cheksiz",
+    "Qarshilik ortib quvvat kamayishi mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Lampochka R = 12 Om, I = 0,5 A. P = ?",
+   "variantlar": [
+    "0,04 Vt",
+    "24 Vt",
+    "3 Vt",
+    "6 Vt"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Lampa 3 Vt, U = 6 V. Tok?",
+   "variantlar": [
+    "9 A",
+    "18 A",
+    "0,5 A",
+    "2 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda voltmetr 3,8 V, ampermetr 0,3 A. P = ?",
+   "variantlar": [
+    "1,14 Vt",
+    "12,7 Vt",
+    "4,1 Vt",
+    "0,079 Vt"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Lampada yozilgan quvvat 1,2 Vt, o'lchangan P = 1,14 Vt. Farq foizda?",
+   "variantlar": [
+    "≈ 20 %",
+    "≈ 0,5 %",
+    "≈ 50 %",
+    "≈ 5 %"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tok kuchi ko'tarilib borsa (reostat qarshiligi kamaysa), lampa quvvati?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Kamayadi",
+    "Nol",
+    "Ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Lampochka spirali qizishi bilan qarshiligi?",
+   "variantlar": [
+    "Nolga teng",
+    "Kamayadi",
+    "Ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda quvvatni aniqlash uchun boshqa usul (faqat ampermetr va R ma'lum)?",
+   "variantlar": [
+    "P = I²R",
+    "P = R/I",
+    "P = U/R",
+    "P = I/R"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda quvvatni aniqlash uchun (faqat voltmetr va R ma'lum)?",
+   "variantlar": [
+    "P = U/R",
+    "P = U²/R",
+    "P = R/U",
+    "P = UR"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3 ta o'lchashda P: 0,98; 1,02; 1,00 Vt. O'rtachasi?",
+   "variantlar": [
+    "3,00 Vt",
+    "0,98 Vt",
+    "1,00 Vt",
+    "1,02 Vt"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda R = 12,5 Om, U = 3,5 V. P = U²/R = ?",
+   "variantlar": [
+    "43,75 Vt",
+    "0,28 Vt",
+    "0,98 Vt",
+    "12 Vt"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun ishda simlar mahkam ulanadi?",
+   "variantlar": [
+    "Sababsiz",
+    "Massa uchun",
+    "Chiroy uchun",
+    "Kontakt qarshiligi kichik bo'lishi uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda lampa yonmasa, avvalo nima tekshiriladi?",
+   "variantlar": [
+    "Zanjir ulanishlari",
+    "Xona harorati",
+    "Deraza",
+    "Stol"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

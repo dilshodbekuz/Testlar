@@ -17,7 +17,7 @@
   {
    "savol": "Quritilgan barglarni kapalakka qanday joylashtirish kerak?",
    "variantlar": [
-    "Aytiyotcha, bir-biriga moslab to'g'ri joylashtirish",
+    "Ehtiyotkorlik bilan, bir-biriga moslab joylashtirish",
     "Mumkin qadar katta shaklda joylashtirish",
     "Tasodifiy tartibda qo'yish",
     "Shunchaki qo'shimcha qilib qo'yish"
@@ -39,9 +39,9 @@
   {
    "savol": "Barglarni kapalakka qo'llashdan oldin ular bilan nima qilish kerak?",
    "variantlar": [
-    "Qurib qo'yish",
+    "Kesib tashlash",
     "Suvda yuvish",
-    "Toza qilish va qurish",
+    "Tozalash va quritish",
     "Rang qo'yish"
    ],
    "togri": 2,
@@ -85,8 +85,8 @@
    "variantlar": [
     "Barglarni og'irroq qilish",
     "Barglarni qisqartirish",
-    "Barglarning rangi o'zgarishi",
-    "Kapalakni yasashda ishlatiladigan barglar to'g'ri shaklda bo'lishi"
+    "Barglarning rangi o'zgarishi uchun",
+    "Barglar toza va tekis bo'lishi uchun"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -128,9 +128,9 @@
    "savol": "Barglarni to'plashdan so'ng qanday qadamni bajarish kerak?",
    "variantlar": [
     "Suv bilan yuvish",
-    "Ularni toza qilish va qurish",
+    "Ularni tozalash va quritish",
     "Darhol yelimlash",
-    "Quritib qo'yish"
+    "Darhol bo'yash"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -171,8 +171,8 @@
   {
    "savol": "Quritilgan barglar bilan ishlash uchun nima kerak?",
    "variantlar": [
-    "Telekin qo'llash",
-    "Kuchli qol",
+    "Ko'p suv",
+    "Kuchli bolg'a",
     "Ehtiyot va aniqlik",
     "Mikroskop"
    ],
@@ -180,18 +180,18 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Barglarni toza qilish va qurish jarayonlarining farqi nima?",
+   "savol": "Barglarni tozalash va quritishning farqi nima?",
    "variantlar": [
-    "Farqi yo'q, faqat bir-birining o'rniga ishlatiladigan so'zlardir",
-    "Toza qilish - chirindisini olib tashlash, qurish - to'g'ri shaklga keltirish",
-    "Hammasi bir xildir",
-    "Toza qilish - suv bilan yuvish, qurish - quritish"
+    "Farqi yo'q",
+    "Tozalash — chang va kirni olib tashlash, quritish — namini ketkazish",
+    "Ikkalasi ham bo'yash",
+    "Tozalash — kesish, quritish — yelimlash"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Mustaqil ish jarayonida o'quvchi nima shunosadi?",
+   "savol": "Mustaqil ish jarayonida o'quvchi nimani o'rganadi?",
    "variantlar": [
     "Faqat barglardan yaratish",
     "Faqat rasmsiz yaratish",
@@ -248,10 +248,10 @@
   {
    "savol": "Kapalak yasashda toza qilish va qurish jarayonlarining o'rtasida qanday bog'liqlik bor?",
    "variantlar": [
-    "Birinchi barglarni tozalaydi, so'ng to'g'ri shaklga keltiriladi, shu bilan kapalak yasashga tayyor bo'ladi",
+    "Avval barglar tozalanadi, keyin quritiladi va ish uchun tayyor bo'ladi",
     "Toza qilish kapalakni yaxshi ko'rinishga keltiradi, qurish esa kuchaytiradi",
     "Ikkalasi ham bir xildir va ketma-ketligi muhim emas",
-    "Qurish birinchi qilinarida, keyin toza qilinadi"
+    "Avval quritiladi, keyin tozalanadi"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -312,10 +312,10 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Turli ko'rinishdagi kapalaklar yasashda o'quvchi nima o'zgarishi shunosadi?",
+   "savol": "Turli ko'rinishdagi kapalaklar yasashda nima o'zgaradi?",
    "variantlar": [
     "Faqat o'lchami o'zgaradi",
-    "Hech narsa o'zgaradi",
+    "Hech narsa o'zgarmaydi",
     "Barglarning joylashishi, rangi, shakli va yo'naltirishi o'zgaradi hamda yangi g'oyalar olamiz",
     "Faqat rang o'zgaradi"
    ],

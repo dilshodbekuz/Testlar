@@ -1,0 +1,337 @@
+{
+ "sinf": "4-sinf",
+ "kitob": "4-sinf 4-Sinf Texnologiya",
+ "mavzu": "QOG'OZDAN ARCHA YASASH",
+ "savollar": [
+  {
+   "savol": "Qog'ozdan archa yasash uchun kerakli materiallar nima?",
+   "variantlar": [
+    "Rangli qog'oz, qaychi, sim, yelim, mo'yqalam",
+    "Pul va xatlar",
+    "Qalam va qarab",
+    "Faqat qog'oz va sim"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Archa yasashda sim qo'llaniladi, bu to'g'rimi?",
+   "variantlar": [
+    "Ha, doiralarni bir-biriga ulantirishda",
+    "Yo'q, faqat yelim qo'llaniladi",
+    "Yo'q, u archa yasashda shart emas",
+    "Ha, faqat cho'qqini yasashda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qog'ozdan doiralar yasashda qaysi material asosan qo'llaniladi?",
+   "variantlar": [
+    "Sim",
+    "Mo'yqalam",
+    "Yelim",
+    "Rangli qog'oz"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Doiralarni sektorlarga bo'lishda qaysi vositani ishlatish kerak?",
+   "variantlar": [
+    "Sim",
+    "Mo'yqalam yoki qalam",
+    "Qaychi",
+    "Yelim"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qog'ozdan archa yasashning birinchi bosqichi qaysi?",
+   "variantlar": [
+    "Sektorlarni pishtirib chiqish",
+    "Rangli qog'ozdan doiralar tayyor lang",
+    "Simga joylashtirish",
+    "Cho'qqisini yasash"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mo'yqalam archa yasashda qanday maqsadda qo'llaniladi?",
+   "variantlar": [
+    "Qog'ozni kesish uchun",
+    "Doiralarni belgilash uchun",
+    "Yelimni yoyish uchun",
+    "Sektorlarni belgilash uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Archa yasashda qaychi nechta vazifani bajaradi?",
+   "variantlar": [
+    "Ikki vazifani",
+    "Bir vazifani",
+    "To'rtta vazifani",
+    "Uchta vazifani"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Archa yasashda doiralarni bir-biriga ulantirishda qaysi material zarur?",
+   "variantlar": [
+    "Kitob",
+    "Sim",
+    "Qalam",
+    "Qaychi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rangli qog'ozdan yasalgan doiralarni qanday bo'lish kerak?",
+   "variantlar": [
+    "Yonib tashlash uchun",
+    "To'liq saqlash uchun",
+    "Yirtib tashlash uchun",
+    "Sektorlarga bo'lish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Archa yasashda sektorlarni bo'lish qandaj amalga oshtiriladi?",
+   "variantlar": [
+    "Sim bilan",
+    "Mo'yqalam yoki qalam bilan belgilangan chiziqlar bo'yicha",
+    "Dastimiz bilan",
+    "Qaychi bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar 4 ta doira tayyor qilsangiz, har biriga 5 ta sektor bo'lsa, jami nechta sektor bo'ladi?",
+   "variantlar": [
+    "20 ta",
+    "24 ta",
+    "15 ta",
+    "16 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Doiralarni sektorga bo'lishdan keyin qaysi bosqich kelib turadi?",
+   "variantlar": [
+    "Qog'ozni kesish",
+    "Cho'qqisini yasash",
+    "Yelim qo'llaniladi",
+    "Sektorlarni belgilangan chiziqlar bo'yicha pishtirib chiqish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaychi bilan archa yasashda qanday ish bajariladi?",
+   "variantlar": [
+    "Yelimni yoyish",
+    "Sektorlarni rasmdagi singari pishtirib chiqish",
+    "Simni ulantirib turish",
+    "Qog'ozni kesish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Rasmdagi singari qilib pishtirib chiqing\" bu qanday jarayonni anglatadi?",
+   "variantlar": [
+    "Chiziqlar bo'yicha qog'ozni egiltirib ko'tarib o'tish",
+    "Qog'ozni to'liq kesib olish",
+    "Qog'ozni qo'g'ilib yo'qotish",
+    "Qog'ozni yirtish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tayyor bo'lgan doiralarni birlashtirib qolimalarni simga o'rish uchun qaysi material ishlatiladi?",
+   "variantlar": [
+    "Yelim",
+    "Qaychi",
+    "Mo'yqalam",
+    "Sim"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Archa shaklini hosil qilish uchun doiralarni qaysi tartibda joylashtirish kerak?",
+   "variantlar": [
+    "Katta bo'yidan kichik tomoniga",
+    "Tasodifiy tartibda",
+    "Kichik bo'yidan katta tomoniga",
+    "Bir joyda to'liq solib qo'yish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sektorlarni pishtirib chiqishdan keyin qaysi bosqich boshlanadi?",
+   "variantlar": [
+    "Yangi doiralar tayyor lang",
+    "Yelim yoyish",
+    "Simga joylashtirish",
+    "Dastdan boshga olish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Archa cho'qqisidagi shaklni yarim doiradan hosil qilish degani nima?",
+   "variantlar": [
+    "Yarim doiraning shetini tutib, uning ichini pishtirib chiqish",
+    "Yarim doirani to'liq kesib olish",
+    "Yarim doirani yirtib tashlash",
+    "Yarim doiraning o'zini qoyib berish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Simga doiralarni joylashtirish jarayoni qanday amalga oshtiriladi?",
+   "variantlar": [
+    "Sim ustiga doiralarni ustma-ust qilib o'rish",
+    "Simni qog'ozning ichiga terish",
+    "Doiralarni simga tutashtirib qo'yish",
+    "Doiralarni sim ostiga yashirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qog'ozdan doiralar kesish uchun qaysi vositani ishlatish to'g'ri?",
+   "variantlar": [
+    "Kompasni",
+    "Qaychi",
+    "Dastimizni",
+    "Ransni"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar archa yasashda 3 ta doira qo'llansangiz va birinchisiga 6 ta sektor, ikkinchisiga 5 ta sektor, uchinchisiga 4 ta sektor bo'lsa, jami nechta sektor pishtirib chiqish kerak?",
+   "variantlar": [
+    "10 ta",
+    "12 ta",
+    "18 ta",
+    "15 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun sektorlarni \"rasmdagi singari\" pishtirib chiqish kerak?",
+   "variantlar": [
+    "Archa shaklining to'g'ri, joyida va chiroyli bo'lishi uchun",
+    "Qog'ozni tejash uchun",
+    "Vaqt sarflash uchun",
+    "Faqat ko'ngilochar bo'lishi uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Archa shaklini to'liq yasash uchun qaysi qadamlar tartib bilan kelib turadi?",
+   "variantlar": [
+    "Belgilang → tayyor lang → bo'ling → joylashtiring → pishtirib chiqing",
+    "Tayyor lang → bo'ling → belgilang → pishtirib chiqing → joylashtiring",
+    "Pishtirib chiqing → bo'ling → tayyor lang → belgilang → joylashtiring",
+    "Bo'ling → tayyor lang → belgilang → pishtirib chiqing → joylashtiring"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar sim bo'lmasa, qog'ozdan archa yasash mumkin bo'ladimi?",
+   "variantlar": [
+    "Yo'q, sim bo'llanimsiz mumkin emas",
+    "Ha, faqat qog'oz bor bo'lsa yetarli",
+    "Ha, lekin archa turli turmaydi",
+    "Ha, boshqa vositalar bilan tutashtiriladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Doiralarning o'lchamlari har xil bo'lishining archa shaklini yasashga qanday ta'siri bor?",
+   "variantlar": [
+    "Archa faqat kichik bo'ladi",
+    "Archa chiroyli va xilma-xil ko'rinishda bo'ladi",
+    "Archa faqat katta bo'ladi",
+    "Hech qanday ta'siri yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qog'ozdan archa yasashda har bir materialning maqsadi nima?",
+   "variantlar": [
+    "Har bir material o'z vazifasini bajaradi - qog'oz, qaychi, sim, yelim, mo'yqalam",
+    "Faqat sim vazifani bajaradi",
+    "Materiallar hech qanday maqsad ko'rmaydi",
+    "Barcha materiallar bir xil maqsadda"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Archa yasashni boshlashdan oldin qanday tayyorgarlik kerak bo'ladi?",
+   "variantlar": [
+    "Hech qanday tayyorgarlik kerak emas",
+    "Barcha materiallarni to'plash va o'z joyiga tartibli qilib joylashtirish",
+    "Faqat mo'yqalamni sharpatlash kerak",
+    "Faqat qog'ozni topish kerak"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaychi bilan doiralarni to'liq kesish va sektorlarni chiziq bo'yicha pishtirib chiqishda nima bilan farq bo'ladi?",
+   "variantlar": [
+    "Hech bilan farq qilmaydi",
+    "Kesishda qaychi yengil, pishtirib chiqishda og'ir ishlatiladi",
+    "Pishtirib chiqishda boshqa qaychi ishlatiladi",
+    "Kesishda qaychi to'liq o'tadi, pishtirib chiqishda esa chiziqni kuzatib egilib o'tadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar har bir doira o'lchamlari teng bo'lsa, archa shakli qanday ko'rinadi?",
+   "variantlar": [
+    "Tartibsiz va chirkashki",
+    "Juda chiroyli va teng ko'paytmalar bilan",
+    "Archa umuman yasab bo'lmaydi",
+    "Barcha qismlar teng, archa oddiy va oddiy ko'rinadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qog'ozdan archa yasashda qo'llaniladigan bilim va ko'nikma boshqa qanday ishlar yasashda qo'llaniши mumkin?",
+   "variantlar": [
+    "Faqat daftar chizishda",
+    "Boshqa hech qayerda qo'llanilib bo'lmaydi",
+    "Qog'ozdan boshqa chiroyli narsalar yasashda - dugona, sepka, xatiqcha, o'rindiq va hokazo",
+    "Faqat oyna yasashda"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -29,7 +29,7 @@
    "savol": "Mikroorganizmlar nima?",
    "variantlar": [
     "O'simliklar",
-    "Ko'zinasiga ko'rinmaydigan nihoyatda mayda jonzotlar",
+    "Ko'zga ko'rinmaydigan nihoyatda mayda jonzotlar",
     "Qum va gil",
     "Katta hayvonlar"
    ],
@@ -61,7 +61,7 @@
   {
    "savol": "Tuproqda qanday hayvonlar hayot kechiradi?",
    "variantlar": [
-    "Faqat shoiralar",
+    "Faqat baliqlar",
     "Faqat kichik qushlar",
     "Chuvalchang, chumoli, kaltakesak, ilon, yumronqoziq, ko'rsichqon",
     "Faqat yumurtqali hayvonlar"
@@ -116,10 +116,10 @@
   {
    "savol": "Stakandagi suvga bir qoshiq tuproq solib aralashtirsa nima ko'rish mumkin?",
    "variantlar": [
-    "Suv jo'nnab chiqadi",
-    "Tuproq yemilib qoladi",
-    "Suv ustisiga havo pufakchalarining chiqishi",
-    "Gil va qum ajraladi"
+    "Suv qaynab ketadi",
+    "Tuproq yo'qolib qoladi",
+    "Suv ustiga havo pufakchalari chiqadi",
+    "Suv muzlaydi"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -127,8 +127,8 @@
   {
    "savol": "Tuproqni qizdirganda nima ko'rish mumkin?",
    "variantlar": [
-    "Tuproq kattaroq bo'lish",
-    "Tuproqning suyulishi",
+    "Tuproq kattalashadi",
+    "Tuproq suyuladi",
     "Tuproqdan suv bug'lari va tutun chiqishi",
     "Faqat rangining o'zgarishi"
    ],
@@ -139,7 +139,7 @@
    "savol": "Qizdirilgan tuproqni suvga solib aralashtirsa nima bo'ladi?",
    "variantlar": [
     "Yangi tuproq hosil bo'ladi",
-    "Tuproq yemilib ketadi",
+    "Tuproq yo'qolib ketadi",
     "Qum va gil ikkita qatlamga ajraladi",
     "Suv bug'lanib ketadi"
    ],
@@ -160,9 +160,9 @@
   {
    "savol": "O'simlik ildizi erigan oziqa moddalarni qanday oladi?",
    "variantlar": [
-    "Shimadi",
+    "Suvda erigan holda shimib oladi",
     "Tutun bilan nafas oladi",
-    "Prupakdan oladi",
+    "Havodan oladi",
     "Bargidan oladi"
    ],
    "togri": 0,
@@ -174,7 +174,7 @@
     "Mikroorganizmlar va boshqa jonivorlar shu havo va suv hisobiga yashayadi",
     "Faqat o'simliklarni ozuqlantirish uchun",
     "O'simlik va hayvonlarni zaharlantirvchi moddalardir",
-    "Tuproqni churaymaki bo'lish uchun"
+    "Tuproqni qattiq qilish uchun"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -183,8 +183,8 @@
    "savol": "Dastlabki tuproqlar qanday hosil bo'lgan?",
    "variantlar": [
     "Shamol suv o'tlarini quruqlikga uchirib kelgandan so'ng, u o'tlar chirib, tuproq hosil bo'lgan",
-    "O'simliklar to'g'ri dan hosil bo'lgan",
-    "Insan ishlab chiqargan",
+    "O'simliklardan to'g'ridan-to'g'ri",
+    "Inson ishlab chiqargan",
     "Hayvonlar tomonidan tuzilgan"
    ],
    "togri": 0,
@@ -194,7 +194,7 @@
    "savol": "Quyosh nuri, yog'in va shamollar qanday ta'sir ko'rsatadi?",
    "variantlar": [
     "O'simliklarni o'stiradi",
-    "Tuproqni jimlik qoldiradi",
+    "Tuproqni jim qoldiradi",
     "Uzoq davrlar davomida toshlarni nurab qum va gilga aylantiradi",
     "Tuproqni zararlantirvchi moddalardir"
    ],
@@ -204,10 +204,10 @@
   {
    "savol": "Bakteriyalar tuproq tarkibidagi chirindi va qoldiqlarni qanday aylantiradi?",
    "variantlar": [
-    "Tungi vaqt ishlab beradi",
+    "Tunda ishlab beradi",
     "Suyultiradi",
     "Mineral moddalarga aylantiradi",
-    "Qayta cho'kkitiradi"
+    "Qayta cho'ktiradi"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -259,9 +259,9 @@
   {
    "savol": "Nega 1-2 metr chuqurlikdan olingan tuproqqa o'simlik ko'chati o'tqazilsa o'smasdan qurib qoladi?",
    "variantlar": [
-    "Bunday tuproqda o'simlik uchun ozuqa (chirindi va minerallar) yetarli bo'lmadi",
+    "Bunday tuproqda o'simlik uchun ozuqa (chirindi va minerallar) yetarli bo'lmaydi",
     "Bunday tuproq quruq bo'lganligi sababli",
-    "Bunday tuproq juda xom-xorn bo'lganligi sababli",
+    "Bunday tuproq juda xom bo'lgani uchun",
     "Bunday tuproqda suv bor"
    ],
    "togri": 0,
@@ -281,12 +281,12 @@
   {
    "savol": "Amaliy ishlar orqali tuproq tarkibidagi barcha komponentlarni aniqlash uchun qanday ketma-ketlik kerak?",
    "variantlar": [
-    "Hamma amaliy ishlar bir vaqtda o'tkazilishi kerak",
-    "Faqat yoqilg'i bilan qizdirgandan so'ng tuproqni suvga soling",
-    "Birinchi stakanga suvga solib, havo pufakchalarini ko'rgandan keyin qizdirgandan so'ng qoldiqlarini suvga soling",
-    "Yoqilg'i bilan qizdirgandan so'ng, suvga solib, qum va gilni ajratgan. Keyin suv yuzidan minerallarni ajratgan"
+    "Hamma amaliy ishlar bir vaqtda o'tkaziladi",
+    "Faqat tuproqni qizdiriladi",
+    "Avval tuproqni suvga solib havo pufakchalari kuzatiladi, keyin qizdiriladi, so'ng qoldig'i suvga solinib qum va gil ajratiladi",
+    "Faqat tuproqni hidlanadi"
    ],
-   "togri": 3,
+   "togri": 2,
    "qiyinlik": "qiyin"
   },
   {

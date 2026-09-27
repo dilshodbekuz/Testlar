@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Algebra",
+ "mavzu": "31-§. Kombinatorikaning asosiy qoidasi va uni masalalar yechishda qo'llash",
+ "savollar": [
+  {
+   "savol": "Kombinatorikaning ko'paytirish qoidasi (asosiy qoida) nima?",
+   "variantlar": [
+    "Tanlashlar sonlarini ko'paytirish",
+    "Ayirish",
+    "Tanlashlar sonlarini qo'shish",
+    "Bo'lish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Birinchi tanlash m usulda, ikkinchisi n usulda bajarilsa, ikkalasi ketma-ket necha usulda bajariladi?",
+   "variantlar": [
+    "m · n",
+    "m − n",
+    "m : n",
+    "m + n"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "3 ta shim va 4 ta ko'ylakdan bir to'plam nechta usulda tanlanadi?",
+   "variantlar": [
+    "7",
+    "24",
+    "1",
+    "12"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "5 ta yo'l A dan B ga, 2 ta yo'l B dan C ga. Yo'llar soni?",
+   "variantlar": [
+    "3",
+    "25",
+    "10",
+    "7"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "n! (n faktorial) nima?",
+   "variantlar": [
+    "1·2·3·...·n",
+    "n + n",
+    "n²",
+    "2n"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "3! nechaga teng?",
+   "variantlar": [
+    "12",
+    "3",
+    "9",
+    "6"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "4! nechaga teng?",
+   "variantlar": [
+    "16",
+    "24",
+    "12",
+    "10"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1! nechaga teng?",
+   "variantlar": [
+    "1",
+    "−1",
+    "0",
+    "2"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "5! nechaga teng?",
+   "variantlar": [
+    "60",
+    "25",
+    "120",
+    "100"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "0! nechaga teng deb qabul qilingan?",
+   "variantlar": [
+    "0",
+    "−1",
+    "1",
+    "aniqlanmagan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "3 ta elementni joylashtirish usullari soni nechta?",
+   "variantlar": [
+    "6",
+    "12",
+    "3",
+    "9"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "4 ta turli kitobni javonga qo'yish usullari soni nechta?",
+   "variantlar": [
+    "12",
+    "16",
+    "8",
+    "24"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "5 kishi qatorga necha xil usulda turishi mumkin?",
+   "variantlar": [
+    "120",
+    "25",
+    "720",
+    "60"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Takrorlanmaydigan uch xonali sonlar 1, 2, 3, 4 raqamlaridan nechta?",
+   "variantlar": [
+    "64",
+    "24",
+    "6",
+    "12"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki xonali sonlar 1, 2, 3, 4, 5 raqamlaridan (takrorlanmasin) nechta?",
+   "variantlar": [
+    "25",
+    "15",
+    "10",
+    "20"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Uchta harfdan (A, B, C) hosil bo'ladigan barcha so'zlar (harflar takrorlanmasin) nechta?",
+   "variantlar": [
+    "6",
+    "27",
+    "3",
+    "9"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "n = 6 bo'lsa, 6! / 5! nechaga teng?",
+   "variantlar": [
+    "5",
+    "6",
+    "30",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "4 ta yo'l A dan B ga, 3 ta B dan C ga, 2 ta C dan D ga. A dan D ga yo'llar soni?",
+   "variantlar": [
+    "14",
+    "12",
+    "9",
+    "24"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2 ta tanga va 1 ta kubik tashlansa, nechta natija bo'lishi mumkin?",
+   "variantlar": [
+    "8",
+    "6",
+    "24",
+    "12"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "7! / 6! nechaga teng?",
+   "variantlar": [
+    "6",
+    "42",
+    "7",
+    "1"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "6 kishidan 3 tasini qatorga qo'yish usullari soni nechta?",
+   "variantlar": [
+    "720",
+    "18",
+    "60",
+    "120"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "0 dan boshlanmaydigan 0, 1, 2, 3 raqamlaridan takrorlanmaydigan uch xonali sonlar nechta?",
+   "variantlar": [
+    "18",
+    "6",
+    "24",
+    "12"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Toq raqamlardan (1, 3, 5, 7) takrorlanmaydigan ikki xonali sonlar nechta?",
+   "variantlar": [
+    "12",
+    "8",
+    "6",
+    "16"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "5 ta harfdan takrorlanishi mumkin bo'lgan 3 harfli birikmalar nechta?",
+   "variantlar": [
+    "60",
+    "15",
+    "10",
+    "125"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "4! − 3! nechaga teng?",
+   "variantlar": [
+    "6",
+    "24",
+    "1",
+    "18"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A, B, C, D, E harflaridan A dan boshlanadigan takrorlanmaydigan 3 harfli birikmalar nechta?",
+   "variantlar": [
+    "60",
+    "6",
+    "24",
+    "12"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sinfda 8 o'quvchi. Sardor, uning o'rinbosari va kotibni tanlash usullari soni (hammasi turli o'quvchi)?",
+   "variantlar": [
+    "336",
+    "24",
+    "56",
+    "512"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(n + 1)! / n! nechaga teng?",
+   "variantlar": [
+    "n + 1",
+    "n",
+    "n!",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uzunligi 4 bo'lgan parolni 2 ta harfdan (takrorlanishi mumkin) tuzsak nechta parol bo'ladi?",
+   "variantlar": [
+    "4",
+    "8",
+    "16",
+    "24"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Telefon raqami oxirgi 2 ta raqami turli raqamlardan (0–9) iborat bo'lsa, ularning kombinatsiyalari soni?",
+   "variantlar": [
+    "100",
+    "90",
+    "19",
+    "81"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

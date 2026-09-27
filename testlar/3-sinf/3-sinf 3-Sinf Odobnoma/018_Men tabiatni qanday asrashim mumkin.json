@@ -37,10 +37,10 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Daraxtlarning shoxini qanday qilmaslik kerak?",
+   "savol": "Daraxtlarning shoxini nima qilmaslik kerak?",
    "variantlar": [
-    "Suvaslik",
-    "Tikilmaslik",
+    "Sug'ormaslik",
+    "Silamaslik",
     "Sindirmaslik",
     "Ko'paytirmaslik"
    ],
@@ -59,12 +59,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Gul va o'simliklarni sayohatta nima qilmaslik kerak?",
+   "savol": "Sayohatda gul va o'simliklarni nima qilmaslik kerak?",
    "variantlar": [
-    "Bosmaslik",
-    "Tushmaslik",
+    "Hidlamaslik",
+    "Rasmga olmaslik",
     "Uzmaslik",
-    "Suvaslik"
+    "Sug'ormaslik"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -72,7 +72,7 @@
   {
    "savol": "Jonivorlarga nima qilmaslik kerak?",
    "variantlar": [
-    "Qaramislik",
+    "Qaramaslik",
     "Suhbat qilmaslik",
     "Ozor yetkazmaslik",
     "Ovqat bermaslik"
@@ -81,12 +81,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Chiqindilarni duch kelgan joyga tashlashning nima degan qoidasi bor?",
+   "savol": "Chiqindilarni duch kelgan joyga tashlash mumkinmi?",
    "variantlar": [
-    "O'ynatish qoidasi",
-    "Taqiq qoidasi",
-    "Ijozat qoidasi",
-    "Talab qoidasi"
+    "Ha, mumkin",
+    "Yo'q, bu taqiqlanadi",
+    "Faqat bog'da mumkin",
+    "Faqat kechqurun mumkin"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -94,10 +94,10 @@
   {
    "savol": "Xazonlarni nima qilmaslik kerak?",
    "variantlar": [
-    "Buzmaslik",
+    "Yig'maslik",
     "Yoqmaslik",
-    "Turg'unmaslik",
-    "Toshmaslik"
+    "Supurmaslik",
+    "Sanamaslik"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -106,7 +106,7 @@
    "savol": "Qush uyasini nima qilmaslik kerak?",
    "variantlar": [
     "Buzmaslik",
-    "Bosmaslik",
+    "Rasmga olmaslik",
     "Tozalamaslik",
     "O'rganmaslik"
    ],
@@ -117,8 +117,8 @@
    "savol": "Bahorda suvlar qanday oqadi?",
    "variantlar": [
     "Tiniq",
-    "Kalamush",
-    "Ohak rangi",
+    "Qizil",
+    "Ohak rangida",
     "Qora"
    ],
    "togri": 0,
@@ -139,8 +139,8 @@
    "savol": "Jiyda daraxti qaysi xususiyatlarga ega?",
    "variantlar": [
     "Xushboʻy gullari va shifobaxsh mevasi",
-    "Bitter mevasi va noqiram gulli",
-    "Achchiq mevasi va yopiq gulli",
+    "Gulsiz va mevasiz",
+    "Tikanli barglari va zaharli mevasi",
     "Katta mevasi va kalta gulli"
    ],
    "togri": 0,
@@ -149,10 +149,10 @@
   {
    "savol": "Daraxtlar nima uchun muhimdir?",
    "variantlar": [
-    "Nami beradi",
+    "Shovqin chiqaradi",
     "Havoni tozalab, sogʻligʻimizni asraydi",
-    "Ko'l qiladi",
-    "Soyani beradi"
+    "Suvni ifloslaydi",
+    "Tuproqni quritadi"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -162,7 +162,7 @@
    "variantlar": [
     "Suvning tagidan",
     "Qo'shni maktabdan",
-    "Erdagi tuneldan",
+    "Yer ostidan",
     "Uzoq oʻlkalardan"
    ],
    "togri": 3,
@@ -184,18 +184,18 @@
    "variantlar": [
     "Parvozga",
     "Yiqilishga",
-    "Qayiqga",
+    "Qishki uyquga",
     "In qurib, tuxum qo'yishga"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Suv tiniqligini saqlash kim ning mas'uliyatidir?",
+   "savol": "Suv tiniqligini saqlash kimning mas'uliyati?",
    "variantlar": [
     "Hammamiz",
     "Faqat maktab",
-    "Faqat moliya",
+    "Faqat ota-onalar",
     "Faqat suvni beruvchilar"
    ],
    "togri": 0,
@@ -206,8 +206,8 @@
    "variantlar": [
     "Ularni asrash va parvarishlash",
     "Ularni tashlash",
-    "Ularni talanchi qilish",
-    "Ularni esmaslik"
+    "Ularni kesib tashlash",
+    "Ularga e'tibor bermaslik"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -217,8 +217,8 @@
    "variantlar": [
     "U katta ekan",
     "U bizga hamma narsani bera ekan",
-    "U oqara ekan",
-    "U oʻzini aytgan"
+    "U yashil ekan",
+    "U eski ekan"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -228,19 +228,19 @@
    "variantlar": [
     "Tabiatning muvozanati buziladi, qushlar rivojlana olmaydi",
     "Suvni tozalamaydi",
-    "Qushlar chaqqi bo'ladi",
+    "Qushlar ko'payib ketadi",
     "Havo ifloslandi"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Ota-bobolarimiz suvni «ogʻir gunoh» deb aytgan bo'lsa, ushbu so'zdan nima tushunmaliyamiz?",
+   "savol": "Ota-bobolarimiz suvni ifloslantirishni «og'ir gunoh» deb bilgan. Bundan nima tushunamiz?",
    "variantlar": [
     "Suv qimmat",
-    "Suvni ifloslantirish juda muhim yomon ish va katta sharmanday",
-    "Suv hazmi",
-    "Suv og'ir"
+    "Suvni ifloslantirish juda yomon ish",
+    "Suv og'ir bo'ladi",
+    "Suv sovuq"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -248,7 +248,7 @@
   {
    "savol": "Sayohatta bo'sh idishlarni tashlash qoida-qonuniga nima uchun zid?",
    "variantlar": [
-    "Ular oqaba taqiqlangan",
+    "Ular chiroyli emas",
     "Ular qimmatbaho",
     "Ular kattadir",
     "Ular tabiatni iflos qiladi, chiqindi bo'lib qoladi"
@@ -260,7 +260,7 @@
    "savol": "Tabiatning barcha bo'laklari (suv, havo, daraxt, qush, oʻsimliklar) o'zaro bog'liq degan ma'nosi nima?",
    "variantlar": [
     "Ularning har biri alohida yashaydigan",
-    "Ularning barcha o'rtasida dush bor",
+    "Ular bir-biriga dushman",
     "Hamma bir-biriga muhtoj va bir-biriga ta'sir ko'rsatadi",
     "Ularning o'rtasida hech bog'lanish yo'q"
    ],
@@ -273,7 +273,7 @@
     "Bezovtalanishi",
     "Tabiatning go'zalligini va tabii boyligini qadrlashi",
     "Qo'rqishi",
-    "Chaniqanishi"
+    "Charchaganini"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -283,18 +283,18 @@
    "variantlar": [
     "Daraxtlar faqat havoga ta'sir ko'rsatadi",
     "Daraxtlar suvni ifloslantirib yuboradi",
-    "Daraxtlar atmosferani tahmirlab, atrof-muhitni himoya qiladi, bu suvni asrashiga yordam beradi",
+    "Daraxtlar havoni tozalaydi va atrof-muhitni, jumladan suvni asrashga yordam beradi",
     "Hech bog'lanish yo'q"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "O'simliklarni sayohattanoslar uzib tashlashi nima sohasida qoidalarga zid?",
+   "savol": "O'simliklarni sayohatchilar uzib tashlashi qaysi qoidaga zid?",
    "variantlar": [
-    "Rang yig'ishga",
+    "Sport qoidasiga",
     "Tabiatni asrashning qoidasiga",
-    "Qosh-qosh o'rganishga",
+    "Yo'l harakati qoidasiga",
     "Chiqindilarga"
    ],
    "togri": 1,
@@ -312,12 +312,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Tabiatni asrashning barcha qoidalari (daraxt ekish, suvni tejash, chiqindilari tashlash, jonivorlarga ozor yetkazmaslik) qanday maqsadga xizmat qiladi?",
+   "savol": "Tabiatni asrash qoidalari (daraxt ekish, suvni tejash, chiqindini tashlamaslik, jonivorlarga ozor bermaslik) qanday maqsadga xizmat qiladi?",
    "variantlar": [
-    "Tabiatning har bir bo'lagini muhofaza qilish va ularning muvozanatasini saqlash",
+    "Tabiatning har bir bo'lagini muhofaza qilish va muvozanatini saqlash",
     "Maktab talabasi uchun",
     "Shunchaki qoidalar bo'lib qolish",
-    "Boshqa mamlakatni qoniq qilish"
+    "Boshqa mamlakatlarni xursand qilish"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"

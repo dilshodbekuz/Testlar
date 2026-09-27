@@ -30,7 +30,7 @@
    "variantlar": [
     "O'tirish kerak",
     "Chiqiladi",
-    "Tinishiladi",
+    "Qaraladi",
     "Tushiladi"
    ],
    "togri": 1,
@@ -42,7 +42,7 @@
     "Ko'ksiga qo'yib",
     "Qo'lga qo'yib",
     "Boshga qo'yib",
-    "Yurakga qo'yib"
+    "Tizzaga qo'yib"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -50,7 +50,7 @@
   {
    "savol": "Kattalarning gapini tinglayotganingizda nima qilish kerak?",
    "variantlar": [
-    "Vaqt vaqt bo'lib gaplashish",
+    "Telefonga qarab turish",
     "Tinglashni davom ettirish kerak",
     "Boshqa narsaga e'tibor berish",
     "Ularning gapini bo'lib ketish"
@@ -85,19 +85,19 @@
    "variantlar": [
     "Esmang degani",
     "Qaytarmang degani",
-    "Ptu'e chiqarmang degani",
+    "Tupurish harakatini qilmang degani",
     "Xursand bo'lmang degani"
    ],
    "togri": 2,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Birovning uyiga faqatgina nima mumkin emas?",
+   "savol": "Birovning uyiga qanday kirish mumkin emas?",
    "variantlar": [
     "Andisha bilan kirish",
     "Vaqt qo'yib borish",
     "Iloji bo'lsa kirish",
-    "Kutib-so'roqsiz kirish"
+    "Ruxsatsiz kirish"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -116,7 +116,7 @@
   {
    "savol": "Qizchaning harakatlaridan qanday dars olinadi?",
    "variantlar": [
-    "Ozodachi kiymasi to'g'ri edi",
+    "Qizchaning kiyimi eng muhim edi",
     "Tashqi ko'rinish va odob birga bo'lishi kerak",
     "Ayolning ta'qidi xato edi",
     "Tashqi ko'rinish eng muhimidir"
@@ -147,10 +147,10 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Jamoat transportida o'tirgan kishi kelgan qartiga nima qilishi kerak?",
+   "savol": "Jamoat transportida o'tirgan kishi keksa odam kelsa nima qilishi kerak?",
    "variantlar": [
     "Indamay o'tib ketish",
-    "Tinmiz so'lov berish",
+    "Qaramay o'tirish",
     "Chiqib ketish",
     "Joy berish kerak"
    ],
@@ -171,7 +171,7 @@
   {
    "savol": "Va'da bergandan keyin nima qilish kerak?",
    "variantlar": [
-    "Ayni vaqtda bajarish kerak",
+    "O'z vaqtida bajarish kerak",
     "Unutib qo'yish",
     "Kechiktirish",
     "Faqat iloji bo'lsa bajarish"
@@ -185,7 +185,7 @@
     "Shunchaki turish",
     "Birovni bosib o'tish",
     "Tartibga rioya qilish kerak",
-    "Eshikka yaqin turmang"
+    "Eshik oldida turish"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -202,21 +202,21 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Birovning narsasini olib qo'lishga nisbatan nima qilish kerak?",
+   "savol": "Birovning narsasini olish haqida qaysi qoida to'g'ri?",
    "variantlar": [
-    "Xohlagin qil",
-    "So'roq berish zaruri emas",
-    "Shunchaki olib ketish",
-    "So'roqsiz olib qo'lmaydi"
+    "Xohlagancha olish mumkin",
+    "So'rash shart emas",
+    "Olib ketib, keyin aytish",
+    "So'ramasdan olinmaydi"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Og'zingizda ovqat turgan holda gapirmang deganda nima tushunasladi?",
+   "savol": "Og'zingizda ovqat bo'lsa gapirmang deganda nima tushuniladi?",
    "variantlar": [
-    "Umuman gapirmang",
-    "Mumkin qador gapirish",
+    "Ovqatni yutmaguncha gapirmang",
+    "Sekin gapirsa bo'ladi",
     "Shunchaki shovqin qilmang",
     "Baland ovozda gapirish"
    ],
@@ -226,9 +226,9 @@
   {
    "savol": "Hikoyaga asoslanib, qizchaning xatosi nima edi?",
    "variantlar": [
-    "Ozoda kiymasi edi",
-    "Transportda o'turdi",
-    "Tashqi ko'rinishga e'tibor bermasdan odobsiz munosabat ko'rsatdi",
+    "Ozoda kiyingani",
+    "Transportda o'tirgani",
+    "Chiroyli kiyingan bo'lsa ham, odobsiz munosabatda bo'ldi",
     "Ayol vaqtida transportga chiqdi"
    ],
    "togri": 2,
@@ -240,7 +240,7 @@
     "Odob faqat boylarning ehtiyoji",
     "Boylik odob beradi",
     "Aql katta qimmat bo'lsa, odob uning bezagi hisoblanadi",
-    "Aql bo'lmasa odob turibdi"
+    "Aql bo'lmasa ham odob yetarli"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -249,9 +249,9 @@
    "savol": "Odobsizdan odob o'rganish mumkinmi?",
    "variantlar": [
     "Yo'q, umuman mumkin emas",
-    "Ha, salbiy misol ham o'rgantirar",
+    "Ha, salbiy misoldan ham o'rganish mumkin",
     "Faqat kitobdan o'rganish mumkin",
-    "Hech kim o'yta olmaydi"
+    "Hech kim o'rgata olmaydi"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -271,8 +271,8 @@
    "savol": "Qiz va ayol orasida bo'lgan to'qnashuv sababi to'liq nima edi?",
    "variantlar": [
     "Transportda turish",
-    "Do'ppa",
-    "Tashqi ko'rinish va odobning tog'i",
+    "Ob-havo",
+    "Tashqi ko'rinish bilan odob mos kelmagani",
     "Ayol vaqtida chiqib ketdi"
    ],
    "togri": 2,
@@ -282,9 +282,9 @@
    "savol": "Ko'chada va transportda odobni saqlashning asosiy maqsadi nima?",
    "variantlar": [
     "Shunchaki qoida qilish",
-    "Mudir so'ro'v qilmasin",
+    "Rahbar tanbeh bermasligi uchun",
     "Jasur ko'rinish",
-    "Boshqalarni xurmatash va jamiyatni intizamli saqlash"
+    "Boshqalarni hurmat qilish va jamiyatda tartibni saqlash"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -292,7 +292,7 @@
   {
    "savol": "Ko'chada yurganingizda tupurmang qoidasini to'liq qanday tushunarasi kerak?",
    "variantlar": [
-    "Umuman ptu'e chiqarmang",
+    "Umuman tupurmang",
     "Faqat tabiiy joyda",
     "Xohlagin qil",
     "Faqat uyda"

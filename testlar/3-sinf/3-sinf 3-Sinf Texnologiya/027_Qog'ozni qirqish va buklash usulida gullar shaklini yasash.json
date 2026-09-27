@@ -9,18 +9,18 @@
     "Plastik",
     "Yun",
     "Qog'oz",
-    "Demir"
+    "Temir"
    ],
    "togri": 2,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Qog'ozni kesish uchun qaysi asbob ishlatilamiz?",
+   "savol": "Qog'ozni qirqish uchun qaysi asbob ishlatiladi?",
    "variantlar": [
     "Ruchka",
-    "Burun",
+    "Chizg'ich",
     "Qo'l",
-    "Qaych"
+    "Qaychi"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -72,8 +72,8 @@
   {
    "savol": "Qog'ozni buklash degani nima?",
    "variantlar": [
-    "Qatlamlab qo'yish",
-    "Rezinada bog'lash",
+    "Qog'ozni qayirib, qatlamlash",
+    "Rezinka bilan bog'lash",
     "Yozish",
     "Chizish"
    ],
@@ -150,7 +150,7 @@
    "savol": "Praktik ishda xavfsizlikka rioya qilish nima ta'minlaydi?",
    "variantlar": [
     "Jarohat olmaslikni",
-    "Nimani",
+    "Kuchni",
     "Tezlikni",
     "Rangni"
    ],
@@ -169,21 +169,21 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Qaychni qanday tutamiz?",
+   "savol": "Qaychini qanday ushlaymiz?",
    "variantlar": [
-    "Oyog'da",
-    "Tishlar bilan",
-    "Bitta qo'lda",
+    "Oyoqda",
+    "Tishda",
+    "Bir qo'lda, barmoqlarni halqalarga kiritib",
     "Ikkala qo'lda"
    ],
-   "togri": 3,
+   "togri": 2,
    "qiyinlik": "o'rtacha"
   },
   {
    "savol": "Bosqichma-bosqich bajarilish nima beradi?",
    "variantlar": [
     "Vaqt to'ldirish",
-    "Mayning",
+    "Faqat shovqin",
     "Rangni",
     "Sifatli va xavfsiz ishni"
    ],
@@ -191,10 +191,10 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Agar qaychni shunga shunga tilga qo'ysangiz, nima bo'lishi mumkin?",
+   "savol": "Qaychini og'izga olsangiz, nima bo'lishi mumkin?",
    "variantlar": [
     "Rasm chiziladi",
-    "Qaych taymir qiladi",
+    "Qaychi o'tmaslashadi",
     "Tilni kesish mumkin",
     "Hech narsa bo'lmaydi"
    ],
@@ -202,14 +202,14 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Darsda nechta rasm ko'rsatilgan?",
+   "savol": "Qaychini boshqa odamga qanday uzatish kerak?",
    "variantlar": [
-    "15 ta",
-    "7 ta",
-    "13 ta",
-    "10 ta"
+    "Uchini o'ziga qaratib, dastasi bilan uzatib",
+    "Uchini unga qaratib",
+    "Otib yuborib",
+    "Ochiq holda"
    ],
-   "togri": 2,
+   "togri": 0,
    "qiyinlik": "o'rtacha"
   },
   {
@@ -240,7 +240,7 @@
     "Dars boshini o'qish",
     "Xavfsizlik qoidalariga o'rgatish",
     "Tezlikda qaychni berish",
-    "Rang chap berish"
+    "Rang tanlash"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -248,9 +248,9 @@
   {
    "savol": "Qaychdan to'g'ri foydalanish bilimining ahamiyati qanday?",
    "variantlar": [
-    "Faqat o'z kuchaishni",
+    "Faqat kuch ko'rsatish",
     "Xavfsizlik va samarali ishni ta'minlash",
-    "Birga o'yna yoqni",
+    "Birga o'ynash",
     "Tezlikni"
    ],
    "togri": 1,
@@ -294,7 +294,7 @@
    "variantlar": [
     "Tezlikda qil",
     "Tartibli ravishda va masul'iyat bilan ishlash",
-    "Birga o'yna yoq",
+    "Birga o'ynash",
     "Shoshqoq qil"
    ],
    "togri": 1,

@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Algebra",
+ "mavzu": "10-§. Funksiyaning o'sishi va kamayishi",
+ "savollar": [
+  {
+   "savol": "O'suvchi funksiya nima?",
+   "variantlar": [
+    "Nol",
+    "Argument ortsa, funksiya qiymati ham ortadi",
+    "Argument ortsa, qiymati kamayadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kamayuvchi funksiya nima?",
+   "variantlar": [
+    "Ortadi",
+    "Nol",
+    "Argument ortsa, funksiya qiymati kamayadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "y = x funksiya qanday?",
+   "variantlar": [
+    "O'zgarmas",
+    "Davriy",
+    "O'suvchi",
+    "Kamayuvchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "y = −x funksiya qanday?",
+   "variantlar": [
+    "O'zgarmas",
+    "Davriy",
+    "O'suvchi",
+    "Kamayuvchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "y = 2x + 1 funksiya qanday?",
+   "variantlar": [
+    "Kamayuvchi",
+    "O'suvchi",
+    "O'zgarmas",
+    "Davriy"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "y = −3x + 2 funksiya qanday?",
+   "variantlar": [
+    "Davriy",
+    "O'suvchi",
+    "O'zgarmas",
+    "Kamayuvchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "y = c (o'zgarmas) funksiya qanday?",
+   "variantlar": [
+    "Kamayuvchi",
+    "Davriy",
+    "O'zgarmas",
+    "O'suvchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "y = x² funksiya [0; +∞) da?",
+   "variantlar": [
+    "Davriy",
+    "O'suvchi",
+    "Kamayuvchi",
+    "O'zgarmas"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "y = x² funksiya (−∞; 0] da?",
+   "variantlar": [
+    "Davriy",
+    "O'zgarmas",
+    "Kamayuvchi",
+    "O'suvchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Monoton funksiya nima?",
+   "variantlar": [
+    "Juft",
+    "Faqat o'suvchi yoki faqat kamayuvchi funksiya",
+    "Toq",
+    "Davriy"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "y = kx + b da k > 0 bo'lsa?",
+   "variantlar": [
+    "Davriy",
+    "O'suvchi",
+    "Kamayuvchi",
+    "O'zgarmas"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y = kx + b da k < 0 bo'lsa?",
+   "variantlar": [
+    "Kamayuvchi",
+    "O'suvchi",
+    "Davriy",
+    "O'zgarmas"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y = x² − 4x + 3 funksiyaning o'sish oralig'i?",
+   "variantlar": [
+    "(−∞; 2]",
+    "(−∞; 0]",
+    "[0; +∞)",
+    "[2; +∞)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y = x² − 4x + 3 funksiyaning kamayish oralig'i?",
+   "variantlar": [
+    "[0; +∞)",
+    "(−∞; 2]",
+    "(−∞; 0]",
+    "[2; +∞)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y = −x² + 6x funksiyaning o'sish oralig'i?",
+   "variantlar": [
+    "(−∞; 0]",
+    "[3; +∞)",
+    "[0; +∞)",
+    "(−∞; 3]"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y = −x² + 6x funksiyaning kamayish oralig'i?",
+   "variantlar": [
+    "[3; +∞)",
+    "(−∞; 3]",
+    "[0; +∞)",
+    "(−∞; 0]"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y = √x funksiya?",
+   "variantlar": [
+    "Davriy",
+    "O'suvchi",
+    "Kamayuvchi",
+    "O'zgarmas"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y = 1/x funksiya (0; +∞) da?",
+   "variantlar": [
+    "Davriy",
+    "Kamayuvchi",
+    "O'zgarmas",
+    "O'suvchi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y = x³ funksiya?",
+   "variantlar": [
+    "Kamayuvchi",
+    "O'zgarmas",
+    "Davriy",
+    "O'suvchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kvadrat funksiyaning o'sish/kamayish oraliqlari nimadan bo'linadi?",
+   "variantlar": [
+    "Nollardan",
+    "OY dan",
+    "Simmetriya",
+    "Parabola uchidan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y = 2x² + 8x + 1 funksiyaning kamayish oralig'i?",
+   "variantlar": [
+    "(−∞; 2]",
+    "[2; +∞)",
+    "(−∞; −2]",
+    "[−2; +∞)"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "y = −2x² + 8x funksiyaning o'sish oralig'i?",
+   "variantlar": [
+    "[−2; +∞)",
+    "(−∞; 2]",
+    "(−∞; −2]",
+    "[2; +∞)"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = x² − 2x da f(0) va f(1), f(2) ni solishtiring.",
+   "variantlar": [
+    "f(0) < f(2)",
+    "f(1) < f(0) = f(2)",
+    "Teng",
+    "f(1) > f(0)"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Funksiya o'suvchi va x₁ < x₂ bo'lsa?",
+   "variantlar": [
+    "f(x₁) = f(x₂)",
+    "f(x₁) > f(x₂)",
+    "f(x₁) < f(x₂)",
+    "Aytib bo'lmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Funksiya kamayuvchi va x₁ < x₂ bo'lsa?",
+   "variantlar": [
+    "f(x₁) > f(x₂)",
+    "f(x₁) = f(x₂)",
+    "f(x₁) < f(x₂)",
+    "Aytib bo'lmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "y = 1/x funksiya butun aniqlanish sohasida kamayuvchimi?",
+   "variantlar": [
+    "O'zgarmas",
+    "Yo'q, o'suvchi",
+    "Ha",
+    "Yo'q, faqat har bir oraliqda"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "y = x⁴ funksiya (−∞; 0] da?",
+   "variantlar": [
+    "Davriy",
+    "O'suvchi",
+    "Kamayuvchi",
+    "O'zgarmas"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "y = −x³ funksiya?",
+   "variantlar": [
+    "Davriy",
+    "O'zgarmas",
+    "O'suvchi",
+    "Kamayuvchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "y = |x| funksiya [0; +∞) da?",
+   "variantlar": [
+    "Davriy",
+    "O'suvchi",
+    "O'zgarmas",
+    "Kamayuvchi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "y = |x| funksiya (−∞; 0] da?",
+   "variantlar": [
+    "O'zgarmas",
+    "O'suvchi",
+    "Davriy",
+    "Kamayuvchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

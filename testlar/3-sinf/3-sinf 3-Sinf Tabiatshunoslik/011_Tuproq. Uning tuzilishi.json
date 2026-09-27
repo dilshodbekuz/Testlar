@@ -9,7 +9,7 @@
     "Qum",
     "Tosh",
     "Gil",
-    "Qash"
+    "Tuz"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -26,7 +26,7 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Mikroorganizmlar nima tarkibida bo'ladi?",
+   "savol": "Tuproqdagi mikroorganizmlar qaysilar?",
    "variantlar": [
     "Faqat chuvalchanglar",
     "Ko'zga ko'rinadigan katta jonzotlar",
@@ -39,7 +39,7 @@
   {
    "savol": "Tuproqda qanday hayvonlar yashaydi?",
    "variantlar": [
-    "Faqat chizmalar",
+    "Faqat baliqlar",
     "Chuvalchang, chumoli, ilon, yumronqoziq, ko'rsichqon",
     "Faqat ilon",
     "Faqat sichqonlar"
@@ -70,12 +70,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Shamol qanday rol o'ynagan?",
+   "savol": "Quruqlikda o'simliklar paydo bo'lishida shamol qanday rol o'ynagan?",
    "variantlar": [
-    "O'simlikni qizdirgan",
-    "Qumni erigan",
+    "O'simliklarni kuydirgan",
+    "Qumni eritgan",
     "Suv o'tlarini quruqlikka uchirib kelgan",
-    "Tuproqni keyini"
+    "Tuproqni yuvib ketgan"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -119,7 +119,7 @@
     "Tuproq eriydi",
     "Toshlar nurab, qum va gilga aylanadi",
     "Suv bug'lanadi",
-    "Hayvonlar o'ziga keladi"
+    "Hayvonlar ko'payadi"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -161,9 +161,9 @@
    "savol": "Donador tuproq nima uchun zarur?",
    "variantlar": [
     "O'simliklarning ildizlari nafas olishini ta'minlaydi",
-    "Chirindilarni eriydi",
+    "Chirindilarni eritadi",
     "O'simliklarni tezroq o'stiradi",
-    "O'simliklarni rengini o'zgartiradi"
+    "O'simliklarning rangini o'zgartiradi"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -238,7 +238,7 @@
    "savol": "Agar tuproqda mikroorganizmlar bo'lmasa, tuproqning unumdorligi qanday bo'lar edi?",
    "variantlar": [
     "Pasayardi, chunki chirindilar mineral moddalarga aylana olmaydi",
-    "To'laliyla yo'qolardi",
+    "Butunlay yo'qolardi",
     "O'zgarmaydi",
     "Ko'payardi"
    ],
@@ -272,7 +272,7 @@
    "variantlar": [
     "Yanada yaxshi bo'lardi",
     "O'simliklar o'smas edi va ozuqa zanjiri buzilardi",
-    "Ko'payyatgan bo'lardi",
+    "Ko'payib ketardi",
     "Suv ortib ketardi"
    ],
    "togri": 1,
@@ -306,7 +306,7 @@
     "Faqat suvning orqali",
     "Umuman birlashmagan",
     "O'simlik → o'txo'r hayvon → go'shtxo'r hayvon → odam zanjiri orqali",
-    "Faqat direktli"
+    "Faqat havo orqali"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -325,7 +325,7 @@
   {
    "savol": "Tuproq tarkibidagi suv va havo nima uchun muhim?",
    "variantlar": [
-    "Mikorganizmlar va boshqa jonzotlar shu orqali yashaydi",
+    "Mikroorganizmlar, ildizlar va boshqa jonzotlar shu orqali yashaydi",
     "Faqat o'simliklar uchun",
     "Hichqanday muhim emas",
     "Faqat minerallarni eritish uchun"

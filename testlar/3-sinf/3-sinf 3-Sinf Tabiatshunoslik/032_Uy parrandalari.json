@@ -53,7 +53,7 @@
     "4 kg",
     "3 kg",
     "5 kg dan ortiq",
-    "10 kg"
+    "1 kg"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -61,10 +61,10 @@
   {
    "savol": "Kurka dumini nimaga o'xshatib ko'tarib yuradi?",
    "variantlar": [
-    "Xalar",
-    "Buqe",
-    "Yelpig'ich",
-    "Palma barglar"
+    "Supurgiga",
+    "Qoshiqqa",
+    "Yelpig'ichga",
+    "Arqonga"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -72,10 +72,10 @@
   {
    "savol": "Tovuqlar har kuni deyarli nechta tuxum qo'yadi?",
    "variantlar": [
-    "Har saat",
+    "10 ta",
     "Bittadan",
     "2-3 ta",
-    "0-1 ta"
+    "Umuman qo'ymaydi"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -128,7 +128,7 @@
    "savol": "O'rdak bir haftada o'rtacha nechta tuxum qo'yadi?",
    "variantlar": [
     "5-6 ta",
-    "3-4 ta",
+    "10-12 ta",
     "1-2 ta",
     "2-3 ta"
    ],
@@ -147,12 +147,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Tovuq qanday maqsadlarni yetishtirish uchun arpa va makkajoʻxori bilan boqiladi?",
+   "savol": "Tovuqlar nima maqsadda arpa va makkajo'xori bilan boqiladi?",
    "variantlar": [
-    "Tuqi uchun",
+    "Uchishi uchun",
     "Ko'proq tuxum olish uchun",
-    "Bosqichma-bosqich",
-    "Ko'paytirilish uchun"
+    "Sayrashi uchun",
+    "Patining rangi uchun"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -161,9 +161,9 @@
    "savol": "G'ozlar nima bilan oziqlanadi?",
    "variantlar": [
     "Mayda baliqlar va boshqa jonivorlar",
-    "Donga",
-    "Travanizm",
-    "Arpa"
+    "Qum bilan",
+    "Faqat suv bilan",
+    "Tuz bilan"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -171,10 +171,10 @@
   {
    "savol": "Tovuqlar tuproqni nima bilan titkilab o'simlik urug'larini topib yeydi?",
    "variantlar": [
-    "Sirp",
-    "Quyon",
-    "Kunnoq",
-    "Oyoq"
+    "Qanoti",
+    "Dumi",
+    "Boshi",
+    "Oyog'i"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -193,10 +193,10 @@
   {
    "savol": "Jo'jalar qaysi vosita orqali ochiriladi?",
    "variantlar": [
-    "To'pda",
+    "Qozonda",
     "Inkubatorda",
-    "Kurilishda",
-    "Tabiiy suv bilan"
+    "Muzlatgichda",
+    "Suv ichida"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -205,7 +205,7 @@
    "savol": "G'oz bir mavsumlda nechta tuxum qiladi?",
    "variantlar": [
     "50-60 ta",
-    "30-40 ta",
+    "100-150 ta",
     "20-30 ta",
     "30-50 ta"
    ],
@@ -224,7 +224,7 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Agar ona tovuq 20 kunni bosib yotsa va har kuni tuxum qo'ysa, eng ko'p nechta tuxum qo'yadi?",
+   "savol": "Tovuq har kuni bittadan tuxum qo'ysa, 20 kunda nechta tuxum qo'yadi?",
    "variantlar": [
     "20 ta",
     "15 ta",
@@ -240,7 +240,7 @@
     "30-45 ta",
     "40-50 ta",
     "25-35 ta",
-    "35-45 ta"
+    "60-90 ta"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -257,7 +257,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Tovuq har kuni 1 ta qo'ysa va ona 15 ta bosib yotsa, eng kam necha kun farq?",
+   "savol": "Tovuq har kuni 1 ta tuxum qo'ysa, 15 ta tuxum yig'ish uchun necha kun kerak?",
    "variantlar": [
     "20 kun",
     "5 kun",
@@ -268,7 +268,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "G'oz 5 kg dan ortiq, kurka 10 kg dan ortiq bo'lsa, farq eng kam nechta kg?",
+   "savol": "G'oz 5 kg, kurka 10 kg bo'lsa, kurka g'ozdan necha kg og'ir?",
    "variantlar": [
     "4 kg",
     "5 kg",
@@ -290,18 +290,18 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Tovuq bir oyda 30 ta, g'oz 40 ta tuxum qo'ysa, g'oz bir yilda qancha ko'p?",
+   "savol": "Bir parranda oyiga 30 ta, ikkinchisi oyiga 40 ta tuxum qo'ysa, bir yilda ikkinchisi nechta ko'p tuxum qo'yadi?",
    "variantlar": [
     "120 ta",
     "160 ta",
     "100 ta",
     "140 ta"
    ],
-   "togri": 3,
+   "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Inkubatorda minglab jo'jalar ochirilsa va har bir jo'ja 3-4 oya yetsa, necha oy keyin parrandalar boqilishi mumkin?",
+   "savol": "Inkubatorda ochirilgan jo'jalar necha oyda voyaga yetadi?",
    "variantlar": [
     "4-5 oy",
     "3-4 oy",
@@ -312,23 +312,23 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Kurka 80 ta, tovuq 90 ta tuxum qo'ysa, oyiga tovuq kurka dan nechta ko'p?",
+   "savol": "Kurka yiliga 80 ta, tovuq 90 ta tuxum qo'ysa, tovuq oyiga kurkadan taxminan nechta ko'p tuxum qo'yadi?",
    "variantlar": [
-    "1 ta",
-    "0.8 ta",
-    "1.5 ta",
-    "1.2 ta"
+    "10 ta",
+    "taxminan 0,8 ta",
+    "1,5 ta",
+    "1,2 ta"
    ],
-   "togri": 3,
+   "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Ona tovuq 10-15 tuxumni 20-25 kun bosib yotsa, eng ko'p nechta oy davomida parrandalarni boqish mumkin?",
+   "savol": "Ona tovuq tuxumlarni necha kun bosib yotadi?",
    "variantlar": [
     "4 oy",
-    "2 oy",
-    "3 oy",
-    "1 oy"
+    "2 kun",
+    "20-25 kun",
+    "1 kun"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"

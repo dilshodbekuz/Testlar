@@ -15,11 +15,11 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Neznayka risimchilashni umiy?",
+   "savol": "Neznayka rasm chizishni biladimi?",
    "variantlar": [
-    "Bazan umiy",
-    "Yo'q, umiy emas",
-    "Ha, umiy",
+    "Ba'zan biladi",
+    "Yo'q, bilmaydi",
+    "Ha, biladi",
     "Bilmayman"
    ],
    "togri": 1,
@@ -114,12 +114,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Ish-harakatning inkorini ko'rsatuvchi soz qaysi?",
+   "savol": "Ish-harakatning inkorini ko'rsatuvchi so'z qaysi?",
    "variantlar": [
-    "Ne qiladi",
-    "Qiladi",
-    "Qildi",
-    "Qiladigan"
+    "не",
+    "да",
+    "и",
+    "а"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -237,7 +237,7 @@
   {
    "savol": "Nega Rustam Azizaga o'z xatosi haqida aytmadi?",
    "variantlar": [
-    "O'z noodavlatining aybdori sezdi",
+    "O'zini aybdor his qildi, chunki o'zi ko'chirgan edi",
     "Vaqti olmadi",
     "Aziza to'g'ri qildi deb o'yladi",
     "Unuta qoldi"
@@ -246,10 +246,10 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Ushbu hikoyada Rustamning xulqi qanday ko'rinib turibdi?",
+   "savol": "Ushbu hikoyada Rustamning xulqi qanday baholanadi?",
    "variantlar": [
-    "Besharmand va yomon",
-    "Billur",
+    "Noto'g'ri: ko'chirib yozdi va buni yashirdi",
+    "Juda mehnatkash",
     "Halol va yaxshi",
     "Mashhur"
    ],
@@ -260,7 +260,7 @@
    "savol": "Nima sababli Rustam Azizaning xatosini ayta olmadi?",
    "variantlar": [
     "Aziza to'g'ri deb o'yladi",
-    "O'z xatosining aybdori edi",
+    "Uyaldi, chunki o'zi Azizadan ko'chirgan edi",
     "Unuta qoldi",
     "Vaqt olmadi"
    ],
@@ -301,12 +301,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Aziza Rustamga qarang nima sezdi?",
+   "savol": "Rustam Azizaga qaraganda nima his qildi?",
    "variantlar": [
-    "Pashmanlik va sharm",
-    "Xursuanlik",
+    "Uyat va pushaymonlik",
+    "Xursandlik",
     "Qiziqish",
-    "Hayvoniy"
+    "G'azab"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -317,7 +317,7 @@
     "Yaxshi",
     "O'rtacha",
     "Suhbat",
-    "Yomon va halofat"
+    "Yomon, nohalol xulq"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"

@@ -63,7 +63,7 @@
    "variantlar": [
     "Qindiqli",
     "Sabzavot",
-    "Mevali",
+    "Poliz ekini",
     "Dorivor"
    ],
    "togri": 3,
@@ -85,7 +85,7 @@
    "variantlar": [
     "Uzumning navlari",
     "Dorivor o'simliklar",
-    "Tok navlari",
+    "Olma navlari",
     "Mevali butalar"
    ],
    "togri": 0,
@@ -108,7 +108,7 @@
     "Anor navi",
     "Uzumning navi",
     "Shaftoli navi",
-    "Tok navi"
+    "Olma navi"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -138,7 +138,7 @@
   {
    "savol": "Tok nima uchun ishkom qilinadi?",
    "variantlar": [
-    "Poyasi va novdalari simlarga bog'lash uchun",
+    "Poyasi va novdalari o'zini tik tutib tura olmagani uchun",
     "Mevani o'stirish uchun",
     "Suv berish uchun",
     "Qoruq uchun"
@@ -193,7 +193,7 @@
   {
    "savol": "O'lkamizda yetishtirilgan uzum navlari quyidagilarga kiradi?",
    "variantlar": [
-    "Husayni, qora janjal, charos va toifi",
+    "Olma, nok, anor va anjir",
     "Faqat kishmish",
     "Husayni, qora janjal, charos, toifi, kishmish, buvaki, qirmiska, daroyi",
     "Faqat husayni va qora janjal"
@@ -226,9 +226,9 @@
   {
    "savol": "Agar anor avgust oyida pishsa, iyul oyida anor qanday holatda bo'ladi?",
    "variantlar": [
-    "Qoq chiqaradi",
+    "Endi ekiladi",
     "Butunlay yetib bo'ladi",
-    "Pishib turmay, yetilmoqchi bo'ladi",
+    "Hali pishmagan, pishib yetilayotgan bo'ladi",
     "Barg chiqaradi"
    ],
    "togri": 2,
@@ -257,14 +257,14 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Anor va anjir novdasidan ko'paytirilsa, qorag'at va malina ildiz kurtaklaridan ko'paytirilsa, qaysi usulning natijasi tezroq bo'ladi?",
+   "savol": "Anor va anjir hamda malina va qorag'at qanday ko'paytiriladi?",
    "variantlar": [
-    "Ildiz kurtaklari",
-    "Ikkalasi ham bir xil",
-    "Novdalar",
-    "Ikkalasi ham sekin"
+    "Hammasi urug'dan",
+    "Anor va anjir urug'dan, malina va qorag'at novdadan",
+    "Hammasi bargidan",
+    "Anor va anjir novdasidan, malina va qorag'at ildizidagi kurtaklardan"
    ],
-   "togri": 2,
+   "togri": 3,
    "qiyinlik": "qiyin"
   },
   {
@@ -301,12 +301,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Kishmish navidan mayiz tayyorlanadi desa, bu qaysi fikrni ifodalaydi?",
+   "savol": "Kishmish navidan mayiz tayyorlanadi. Mayiz nima?",
    "variantlar": [
     "Kishmish bilan mayiz bir xil",
-    "Mayiz kishmish asosida mo'ljallangan",
+    "Kishmish navli uzumni quritib tayyorlangan mahsulot",
     "Mayiz uzumning boshqa navi",
-    "Kishmish mayizni yeydi"
+    "Olmaning bir navi"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"

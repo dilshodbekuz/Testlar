@@ -19,7 +19,7 @@
    "variantlar": [
     "Shahar",
     "Dasht",
-    "Kumarak",
+    "Cho'l",
     "Ko'l va suv havzalari"
    ],
    "togri": 3,
@@ -28,7 +28,7 @@
   {
    "savol": "Yoz oylarida odamlar qayerga borishni yaxshi ko'radilar?",
    "variantlar": [
-    "Kumarak va cho'lga",
+    "Cho'lga",
     "Soya-salqin joylar, bog'lar va suv havzalariga yaqin tog'li maskanlarga",
     "Bahor bog'lariga",
     "Shaharning markazi"
@@ -42,7 +42,7 @@
     "Kichiklashib ko'rinadi",
     "O'zgarib qolmaydi",
     "Kattalashib boradi",
-    "Qizarshib boradi"
+    "Qizarib boradi"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -52,7 +52,7 @@
    "variantlar": [
     "Qora bo'lib boradi",
     "Xiralashib boradi",
-    "Qizarshib boradi",
+    "Qizarib boradi",
     "Oq bo'lib boradi"
    ],
    "togri": 1,
@@ -119,7 +119,7 @@
     "Faqat ranglari farq qiladi",
     "Yaqin narsalar katta, uzoq narsalar kichik ko'rinadi",
     "Uzoq narsalar katta, yaqin narsalar kichik",
-    "Kettasi bir xil"
+    "Hammasi bir xil"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -180,7 +180,7 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Matndagi ta'rifga asoslanib, rasmning qaysi qismi kattak va to'q ko'rinishi kerak?",
+   "savol": "Rasmning qaysi qismi katta va to'q ko'rinishi kerak?",
    "variantlar": [
     "Uzoq qismi",
     "Hech bir qismi",
@@ -213,12 +213,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Matndagi perspektiva qoidasini «shuva va tog'lar» rasmi misolida qo'llanganda, qaysi narsalar kichik ko'rinadi?",
+   "savol": "Uzoqdagi tog' rasmda qanday bo'yaladi?",
    "variantlar": [
-    "Shuva kattak, tog'lar kichik",
-    "Shuva kichik, tog'lar kattak",
-    "Kettasi bir xil kattak",
-    "Kettasi bir xil kichik"
+    "Yorqin va to'q",
+    "Och va xira",
+    "Qop-qora",
+    "Qizil"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -226,7 +226,7 @@
   {
    "savol": "Matndagi perspektiva qoidasining asosini tashkil qiluvchi ikki ta'rif nima?",
    "variantlar": [
-    "Rang va shuva",
+    "Rang va shakl",
     "O'lcham va rang",
     "Bosqichlar va o'lcham",
     "Chiziq va chizma"

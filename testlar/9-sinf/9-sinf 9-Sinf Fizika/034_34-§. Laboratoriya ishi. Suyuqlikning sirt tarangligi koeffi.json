@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "34-§. Laboratoriya ishi. Suyuqlikning sirt tarangligi koeffitsiyentini aniqlash",
+ "savollar": [
+  {
+   "savol": "Ishning maqsadi nima?",
+   "variantlar": [
+    "Suyuqlikning sirt taranglik koeffitsiyentini aniqlash",
+    "Massani o'lchash",
+    "Haroratni o'lchash",
+    "Tezlikni o'lchash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda qaysi usul ishlatiladi?",
+   "variantlar": [
+    "Termometr",
+    "Voltmetr",
+    "Manometr",
+    "Tomchi (tomchilar soni) usuli"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tomchi uzilayotganda kuch nimaga teng?",
+   "variantlar": [
+    "Nolga",
+    "Cheksizga",
+    "Sirt taranglik kuchiga",
+    "Og'irlikka faqat"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sirt taranglik formulasi (tomchi usulida)?",
+   "variantlar": [
+    "σ = πd/mg",
+    "σ = m/(πd)",
+    "σ = mgd",
+    "σ = mg/(πd)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "m nima?",
+   "variantlar": [
+    "Idish massasi",
+    "Bitta tomchi massasi",
+    "Suv massasi",
+    "Umumiy massa"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "d nima?",
+   "variantlar": [
+    "Suv",
+    "Tomchi diametri",
+    "Idish",
+    "Naycha (pipetka) uchi diametri"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bitta tomchi massasi qanday topiladi?",
+   "variantlar": [
+    "Chizg'ich",
+    "Tarozi",
+    "Termometr",
+    "Umumiy massani tomchilar soniga bo'lib"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda qaysi asboblar kerak?",
+   "variantlar": [
+    "Dinamometr",
+    "Termometr",
+    "Voltmetr",
+    "Byuretka/pipetka, tarozi, shtangensirkul"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tomchilar sanalayotganda tezlik?",
+   "variantlar": [
+    "Tomchi asta-sekin tushishi kerak",
+    "Farqi yo'q",
+    "Oqim",
+    "Tez"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Natijalar qayerga yoziladi?",
+   "variantlar": [
+    "Idishga",
+    "Pipetkaga",
+    "Tarozi",
+    "Jadvalga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "100 tomchi massasi 5 g. Bitta tomchi massasi?",
+   "variantlar": [
+    "0,5 g",
+    "500 g",
+    "0,05 g",
+    "5 g"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "m = 5 · 10⁻⁵ kg, d = 2 mm. σ = mg/(πd) (g = 10) ≈ ?",
+   "variantlar": [
+    "≈ 0,08 N/m",
+    "≈ 0,008 N/m",
+    "≈ 8 N/m",
+    "≈ 0,8 N/m"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi natija haqiqiy suvnikidan (0,072) farqi?",
+   "variantlar": [
+    "≈ 100 %",
+    "≈ 50 %",
+    "≈ 11 %",
+    "≈ 1 %"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tomchilar soni 50, umumiy massa 3,5 g. Tomchi massasi?",
+   "variantlar": [
+    "0,7 g",
+    "7 g",
+    "0,07 g",
+    "175 g"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda naycha uchi diametri qanday o'lchanadi?",
+   "variantlar": [
+    "Voltmetr",
+    "Shtangensirkul bilan",
+    "Tarozi",
+    "Termometr"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda temperaturaning σ ga ta'siri?",
+   "variantlar": [
+    "Ortadi",
+    "Temperatura ortsa σ kamayadi",
+    "O'zgarmaydi",
+    "Nol"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Suv o'rniga spirt olinsa tomchi massasi?",
+   "variantlar": [
+    "Aniqlab bo'lmaydi",
+    "Katta",
+    "Kichik",
+    "Teng"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun tomchi uzilishdan oldin shakli cho'ziladi?",
+   "variantlar": [
+    "Og'irlik sirt tarangligini yengadi",
+    "Sovuq",
+    "Bug'",
+    "Rang"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "σ = mg/(πd). m 2 marta ortsa σ?",
+   "variantlar": [
+    "2 marta kamayadi",
+    "O'zgarmaydi",
+    "2 marta ortadi",
+    "4 marta ortadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda o'lchash xatoligi manbai?",
+   "variantlar": [
+    "Tomchilar sonini aniq sanamaslik, d ni o'lchash",
+    "Rang",
+    "Havo",
+    "Vaqt"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "d = 1,5 mm, m = 3,4 · 10⁻⁵ kg. σ ≈ ? (g = 10)",
+   "variantlar": [
+    "≈ 0,0072 N/m",
+    "≈ 0,072 N/m",
+    "≈ 7,2 N/m",
+    "≈ 0,72 N/m"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "d o'lchashda 0,05 mm xatolik, d = 2 mm. d dagi nisbiy xatolik?",
+   "variantlar": [
+    "2,5 %",
+    "25 %",
+    "0,25 %",
+    "5 %"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tomchi massasi nisbiy xatoligi 2 %, d xatoligi 2,5 %. σ ning taxminiy nisbiy xatoligi?",
+   "variantlar": [
+    "≈ 0,5 %",
+    "≈ 2 %",
+    "≈ 4,5 %",
+    "≈ 20 %"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda tomchi usulining afzalligi?",
+   "variantlar": [
+    "Sekin",
+    "Qimmat",
+    "Murakkab",
+    "Oddiy va aniq"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tomchi uzilishida sirt taranglik kuchi aslida mg dan?",
+   "variantlar": [
+    "Bir oz katta (tomchining bir qismi qoladi)",
+    "Kichik",
+    "Nol",
+    "Teng"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda suvni toza ishlatish nima uchun?",
+   "variantlar": [
+    "Rang",
+    "Chiroy",
+    "Massa",
+    "Iflos suvda σ o'zgaradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Moy qo'shilsa suv σ?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Ortadi",
+    "Nol",
+    "O'zgaradi (odatda kamayadi)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sovunli suvda tomchilar soni (bir xil massada) ko'p bo'lishining sababi?",
+   "variantlar": [
+    "Massa katta",
+    "Rang",
+    "σ katta",
+    "σ kichik, tomchilar kichik"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "σ = mg/(πd). m = 4 · 10⁻⁵ kg, d = 2 mm. σ ≈ ?",
+   "variantlar": [
+    "≈ 0,0064 N/m",
+    "≈ 0,064 N/m",
+    "≈ 6,4 N/m",
+    "≈ 0,64 N/m"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hisoblangan σ 0,064, jadval 0,072. Nisbiy xato ≈ ?",
+   "variantlar": [
+    "≈ 100 %",
+    "≈ 11 %",
+    "≈ 50 %",
+    "≈ 1 %"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

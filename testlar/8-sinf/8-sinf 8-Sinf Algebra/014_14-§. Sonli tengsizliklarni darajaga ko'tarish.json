@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Algebra",
+ "mavzu": "14-§. Sonli tengsizliklarni darajaga ko'tarish",
+ "savollar": [
+  {
+   "savol": "a > b > 0 bo'lsa, a² va b² ni solishtiring.",
+   "variantlar": [
+    "Aytib bo'lmaydi",
+    "a² < b²",
+    "a² = b²",
+    "a² > b²"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a > b > 0 bo'lsa, a³ va b³ ni solishtiring.",
+   "variantlar": [
+    "a³ < b³",
+    "Aytib bo'lmaydi",
+    "a³ = b³",
+    "a³ > b³"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "2 < 3 bo'lsa, 2² va 3² ni solishtiring.",
+   "variantlar": [
+    "4 < 9",
+    "4 = 9",
+    "9 < 4",
+    "4 > 9"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Musbat sonlarning tengsizligini kvadratga ko'tarsak, ishora ...?",
+   "variantlar": [
+    "ikkilanadi",
+    "o'zgarmaydi",
+    "nolga teng bo'ladi",
+    "o'zgaradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 < 2 bo'lsa, 1³ va 2³ ni solishtiring.",
+   "variantlar": [
+    "1 < 8",
+    "1 > 8",
+    "8 < 1",
+    "1 = 8"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a < b < 0 bo'lsa, a² va b² ni solishtiring.",
+   "variantlar": [
+    "a² < b²",
+    "Aytib bo'lmaydi",
+    "a² = b²",
+    "a² > b²"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "−3 < −2 bo'lsa, (−3)² va (−2)² ni solishtiring.",
+   "variantlar": [
+    "9 < 4",
+    "9 = 4",
+    "−9 > −4",
+    "9 > 4"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a < b bo'lsa, a³ va b³ ni solishtiring (a, b ixtiyoriy).",
+   "variantlar": [
+    "a³ < b³",
+    "a³ > b³",
+    "a³ = b³",
+    "Aytib bo'lmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "4 > 3 bo'lsa, 4⁴ va 3⁴ ni solishtiring.",
+   "variantlar": [
+    "4⁴ = 3⁴",
+    "4⁴ > 3⁴",
+    "Aytib bo'lmaydi",
+    "4⁴ < 3⁴"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "0,5 < 0,6 bo'lsa, 0,5² va 0,6² ni solishtiring.",
+   "variantlar": [
+    "0,25 = 0,36",
+    "0,5 > 0,6",
+    "0,25 < 0,36",
+    "0,25 > 0,36"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a > b > 0 va n natural son bo'lsa, aⁿ va bⁿ ni solishtiring.",
+   "variantlar": [
+    "Aytib bo'lmaydi",
+    "aⁿ > bⁿ",
+    "aⁿ = bⁿ",
+    "aⁿ < bⁿ"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a < b va n toq son bo'lsa, aⁿ va bⁿ ni solishtiring.",
+   "variantlar": [
+    "aⁿ < bⁿ",
+    "Aytib bo'lmaydi",
+    "aⁿ = bⁿ",
+    "aⁿ > bⁿ"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "−5 < −3 bo'lsa, (−5)³ va (−3)³ ni solishtiring.",
+   "variantlar": [
+    "125 < 27",
+    "−125 < −27",
+    "−125 = −27",
+    "−125 > −27"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi son katta: √7 yoki 2,5?",
+   "variantlar": [
+    "√7",
+    "2,5",
+    "Teng",
+    "Aytib bo'lmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi son katta: √5 yoki 2?",
+   "variantlar": [
+    "Aytib bo'lmaydi",
+    "√5",
+    "Teng",
+    "2"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi son katta: 3√2 yoki 4?",
+   "variantlar": [
+    "4",
+    "Teng",
+    "Aytib bo'lmaydi",
+    "3√2"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi son katta: √3 + 1 yoki 3?",
+   "variantlar": [
+    "√3 + 1",
+    "Teng",
+    "3",
+    "Aytib bo'lmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a < b < 0 bo'lsa, a³ va b³ ni solishtiring.",
+   "variantlar": [
+    "a³ = b³",
+    "a³ > b³",
+    "a³ < b³",
+    "Aytib bo'lmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2 < a < 3 bo'lsa, a² qaysi oraliqda yotadi?",
+   "variantlar": [
+    "2 < a² < 3",
+    "4 < a² < 6",
+    "2 < a² < 9",
+    "4 < a² < 9"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 < a < 2 bo'lsa, a³ qaysi oraliqda yotadi?",
+   "variantlar": [
+    "1 < a³ < 4",
+    "1 < a³ < 2",
+    "3 < a³ < 6",
+    "1 < a³ < 8"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "−3 < x < 2 bo'lsa, x² qaysi oraliqda yotadi?",
+   "variantlar": [
+    "4 < x² < 9",
+    "−9 < x² < 4",
+    "0 ≤ x² < 4",
+    "0 ≤ x² < 9"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi son katta: 2^(300) yoki 3^(200)?",
+   "variantlar": [
+    "Aytib bo'lmaydi",
+    "Teng",
+    "2^(300)",
+    "3^(200)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a > 0, b > 0 va a² > b² bo'lsa, qanday xulosa to'g'ri?",
+   "variantlar": [
+    "a = −b",
+    "a < b",
+    "a = b",
+    "a > b"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a² > b² bo'lsa, doim a > b bo'ladimi?",
+   "variantlar": [
+    "Ha",
+    "Faqat b < 0 da",
+    "Faqat a > 0 da",
+    "Yo'q, |a| > |b| bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "√a > √b (a, b ≥ 0) bo'lsa, a va b ni solishtiring.",
+   "variantlar": [
+    "Aytib bo'lmaydi",
+    "a = b",
+    "a < b",
+    "a > b"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi son katta: ³√10 yoki 2?",
+   "variantlar": [
+    "Aytib bo'lmaydi",
+    "Teng",
+    "2",
+    "³√10"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi son katta: √11 − √10 yoki √10 − √9?",
+   "variantlar": [
+    "Teng",
+    "√10 − √9",
+    "Aytib bo'lmaydi",
+    "√11 − √10"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1/2 < x < 2 bo'lsa, x² qaysi oraliqda yotadi?",
+   "variantlar": [
+    "1/2 < x² < 4",
+    "1/4 < x² < 4",
+    "1/4 < x² < 2",
+    "1 < x² < 4"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a > 0 bo'lsa, (a + 1)² va 4a ni solishtiring.",
+   "variantlar": [
+    "(a + 1)² ≤ 4a",
+    "(a + 1)² < 4a",
+    "(a + 1)² ≥ 4a",
+    "(a + 1)² = 4a doim"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x va y musbat, x < y bo'lsa, x⁵ va y⁵ ni solishtiring.",
+   "variantlar": [
+    "x⁵ < y⁵",
+    "x⁵ = y⁵",
+    "x⁵ > y⁵",
+    "Aytib bo'lmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

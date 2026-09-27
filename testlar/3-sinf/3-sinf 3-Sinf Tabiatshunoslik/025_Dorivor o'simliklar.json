@@ -8,7 +8,7 @@
    "variantlar": [
     "Kuzda",
     "Qish",
-    "Bahora erta",
+    "Erta bahorda",
     "Yozda"
    ],
    "togri": 2,
@@ -39,10 +39,10 @@
   {
    "savol": "Kashnich ko'katida qanday moddalar ko'p bo'ladi?",
    "variantlar": [
-    "Xamir",
+    "Yog'",
     "Temir",
     "Vitaminlar",
-    "Kripla"
+    "Tuz"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -97,7 +97,7 @@
     "Sho'rva",
     "Plov",
     "Chuchvara va somsaga",
-    "Qatorli"
+    "Choyga"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -114,7 +114,7 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Tera kasalligini davolash uchun qanday damlama ishlatiladi?",
+   "savol": "Teri kasalliklarini davolashda nima ishlatiladi?",
    "variantlar": [
     "Yalpizning bargidan olingan shira",
     "Isiriq damlamasi",
@@ -139,9 +139,9 @@
    "savol": "Isiriq tutunida kasallik tarqatuvchi nima nobud bo'ladi?",
    "variantlar": [
     "Zaharlar",
-    "Bakteri",
+    "Chivinlar",
     "Mikroblar",
-    "Virus"
+    "Qushlar"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -226,10 +226,10 @@
   {
    "savol": "Erta bahorda odam organizmi shifobaxsh ko'katlarga muhtoj bo'lsa, bu vaqtda qaysi o'simlikdan foydalanish kerak va qanday?",
    "variantlar": [
-    "Jag'jag'ning tamomasi",
+    "Jag'jag' ildizini qaynatish",
     "Yalpizni taomga qo'shish",
     "Isiriq bargisining damlamasi",
-    "Kashnich ko'katini ovqatga soling"
+    "Isiriq tutatib nafas olish"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -246,34 +246,34 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Ariq bo'ylarida o'sadigan Yalpiz va Maymunjon qaysi qismlari dorilik maqsadda foydalaniladi?",
+   "savol": "Yalpizning qaysi qismidan shira olinadi?",
    "variantlar": [
-    "Ikkala ham mevasi",
-    "Ikkala ham tamomasi",
-    "Yalpiz - bargisi, Maymunjon - mevasi",
-    "Yalpiz - bargisi, Maymunjon - bargisi"
+    "Ildizidan",
+    "Bargidan",
+    "Urug'idan",
+    "Gulidan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Na'matak damlamasi qanday foyda beradi?",
+   "variantlar": [
+    "Qonni suyultirib, isitmani oshiradi",
+    "Uyquni qochiradi",
+    "Isitmani tushiradi, yurakni quvvatlaydi",
+    "Hech qanday foydasi yo'q"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Na'matak mevasi vitaminlarga boy bo'lsa va uning damlamasi isitmani tushiradigan kasallikliklarga davo bersa, uning damlamasi nechta turli ta'siri bor?",
+   "savol": "Maymunjonning bargi va mevasi qanday foyda beradi?",
    "variantlar": [
-    "Uchitasi",
-    "Ko'p ta'sirlari",
-    "Bittasi",
-    "Ikkitasi"
-   ],
-   "togri": 0,
-   "qiyinlik": "qiyin"
-  },
-  {
-   "savol": "Maymunjon bargini damlash shamollamaga davo beradi. Maymunjon mevasini muntazam iste'mol qilgan odam esa shamollamaydi. Bu ikkita usulning ta'sirida nima farq bor?",
-   "variantlar": [
-    "Mevasi shamollamaga, bargi shamollamaydi beradi",
-    "Bargi shamollamaga, mevasi shamollamaydi beradi",
-    "Bunday farq yo'q",
-    "Ikkala ham bir xil ta'sir"
+    "Bargi zaharli, mevasi yeyilmaydi",
+    "Bargi damlamasi shamollashni davolaydi, mevasi shamollashdan saqlaydi",
+    "Ikkalasi ham foydasiz",
+    "Faqat ildizi foydali"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -282,7 +282,7 @@
    "savol": "Dorivor o'simliklardan foydalanish usullari: taomga qo'shish, bargidan shira olish, damlama tayyorlash. Yalpizda nechta usul mavjud?",
    "variantlar": [
     "Ulardan hech biri",
-    "Uchitasi",
+    "Uchtasi",
     "Bittasi",
     "Ikkitasi"
    ],
@@ -301,23 +301,23 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Isiriq damlamasi bod va shamollashga, Na'matak damlamasi isitma tushirishga davo. Bu ikkalasiga umumiy ta'siri qaysi kasallik?",
+   "savol": "Isiriq tutuni nima uchun foydali?",
    "variantlar": [
-    "Isitmali kasallik (bod/isitma)",
-    "Yurak quvvatlantirish",
-    "Bunday umumiy ta'sir yo'q",
-    "Shamollash"
+    "Xonani isitadi",
+    "Kasallik tarqatuvchi mikroblarni nobud qiladi",
+    "Chivinlarni ko'paytiradi",
+    "Havoni namlaydi"
    ],
-   "togri": 0,
+   "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
    "savol": "Jag'jag' damlamasi qonni to'xtatadi, Maymunjon mevasi ich ketishini to'xtatadi. Bu ikkalasi qaysi ta'sirida umumiy?",
    "variantlar": [
     "Shamollashni davolaydi",
-    "Ich ketishini to'xtatadi",
-    "Qonni to'xtatadi",
-    "Ketishini to'xtatadi (qon yoki ich)"
+    "Ikkalasi ham isitmani ko'taradi",
+    "Ikkalasi ham zaharli",
+    "Ikkalasi ham biror narsaning ketishini (qon yoki ich) to'xtatadi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"

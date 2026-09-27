@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "33-§. Masalalar yechish (sirt taranglik va kapillyarlik)",
+ "savollar": [
+  {
+   "savol": "Sirt taranglik kuchi formulasi?",
+   "variantlar": [
+    "F = σ/l",
+    "F = σl",
+    "F = σ + l",
+    "F = l/σ"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kapillyar balandlik formulasi?",
+   "variantlar": [
+    "h = 2σ/(ρgr)",
+    "h = ρgr/σ",
+    "h = σ/(ρg)",
+    "h = 2σρgr"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "σ birligi?",
+   "variantlar": [
+    "J",
+    "N",
+    "N/m",
+    "Pa"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "g = ?",
+   "variantlar": [
+    "100",
+    "1",
+    "≈ 10 m/s² (9,8)",
+    "0,1"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 mm necha m?",
+   "variantlar": [
+    "10⁻³ m",
+    "10⁻⁶ m",
+    "10³ m",
+    "10⁻² m"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 sm necha m?",
+   "variantlar": [
+    "10⁻³ m",
+    "10⁻² m",
+    "10² m",
+    "1 m"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "σ = 0,07 N/m, l = 0,1 m. F = ?",
+   "variantlar": [
+    "0,07 N",
+    "0,007 N",
+    "0,7 N",
+    "7 N"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "F = 0,02 N, l = 0,5 m. σ = ?",
+   "variantlar": [
+    "25 N/m",
+    "0,01 N/m",
+    "0,04 N/m",
+    "10 N/m"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "F = 0,014 N, σ = 0,07. l = ?",
+   "variantlar": [
+    "5 m",
+    "0,02 m",
+    "0,2 m",
+    "0,001 m"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suvning σ ≈ ?",
+   "variantlar": [
+    "0,072 N/m",
+    "7,2 N/m",
+    "0,72 N/m",
+    "72 N/m"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "σ = 0,072, ρ = 1000, g = 10, r = 0,1 mm. h = 2σ/(ρgr) = ?",
+   "variantlar": [
+    "0,0144 m",
+    "0,144 m",
+    "1,44 m",
+    "14,4 m"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "σ = 0,03 (spirt ...), ρ = 800, g = 10, r = 0,3 mm. h = ?",
+   "variantlar": [
+    "0,025 m",
+    "0,0025 m",
+    "0,25 m",
+    "2,5 m"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "h = 0,02 m, ρ = 1000, g = 10, σ = 0,07. r = 2σ/(ρgh) = ?",
+   "variantlar": [
+    "0,07 m",
+    "0,07 mm",
+    "0,7 mm",
+    "7 mm"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sim halqasi suvdan tortib olinganda kuch F = σ · 2πr (ikki tomon uchun). r = 2 sm, σ = 0,07. F ≈ ?",
+   "variantlar": [
+    "≈ 0,00088 N",
+    "≈ 8,8 N",
+    "≈ 0,0088 N (σ·2πr)",
+    "≈ 0,088 N"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sim halqasi ikki tomonlama F = 2 · σ · 2πr. r = 2 sm, σ = 0,07. F ≈ ?",
+   "variantlar": [
+    "≈ 0,0176 N",
+    "≈ 0,176 N",
+    "≈ 0,00176 N",
+    "≈ 1,76 N"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Suv tomchisi diametri 2 mm, tomib ketish paytidagi og'irligi = σπd. σ = 0,07. F ≈ ?",
+   "variantlar": [
+    "≈ 0,44 N",
+    "≈ 4,4 · 10⁻³ N",
+    "≈ 4,4 · 10⁻⁴ N",
+    "≈ 4,4 · 10⁻⁵ N"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi tomchi massasi (g = 10)?",
+   "variantlar": [
+    "≈ 4,4 · 10⁻⁵ kg",
+    "≈ 4,4 · 10⁻³ kg",
+    "≈ 4,4 · 10⁻⁷ kg",
+    "≈ 0,44 kg"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir tomchi suv massasi ≈ 0,05 g. 100 tomchi massasi?",
+   "variantlar": [
+    "50 g",
+    "5 g",
+    "0,05 g",
+    "0,5 g"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kapillyar ko'tarilish r ni 2 marta kichraytirsa h?",
+   "variantlar": [
+    "4 marta ortadi",
+    "2 marta kamayadi",
+    "O'zgarmaydi",
+    "2 marta ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "σ 3 marta ortsa h?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "9 marta ortadi",
+    "3 marta kamayadi",
+    "3 marta ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Naycha ikki xil suyuqlikda: σ₁ = 0,07, ρ₁ = 1000; σ₂ = 0,02, ρ₂ = 800. h₁/h₂ = ?",
+   "variantlar": [
+    "0,36",
+    "1",
+    "5,6",
+    "2,8"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "r = 1 μm = 10⁻⁶ m bo'lgan kapillyarda suv (σ = 0,072, ρ = 1000, g = 10) qancha balandlikka ko'tariladi?",
+   "variantlar": [
+    "≈ 144 m",
+    "≈ 1,44 m",
+    "≈ 0,144 m",
+    "≈ 14,4 m"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sovun pardasi ramkasida F = 2σl, l = 0,05 m, σ = 0,04. F = ?",
+   "variantlar": [
+    "0,002 N",
+    "0,004 N",
+    "0,04 N",
+    "0,4 N"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi parda 0,02 m ga cho'zilsa (Δx) bajarilgan ish A = FΔx = ?",
+   "variantlar": [
+    "0,08 J",
+    "8 · 10⁻⁵ J",
+    "8 · 10⁻⁷ J",
+    "8 · 10⁻³ J"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Parda yuzasi orttirildi ΔS = 2 · 0,05 · 0,02 = 0,002 m². E = σΔS = ?",
+   "variantlar": [
+    "8 · 10⁻⁵ J",
+    "8 · 10⁻⁷ J",
+    "8 · 10⁻³ J",
+    "0,08 J"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "r = 0,5 mm, θ = 0°, suv. h ≈ ?",
+   "variantlar": [
+    "≈ 29 sm",
+    "≈ 2,9 sm",
+    "≈ 2,9 m",
+    "≈ 0,29 sm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Simob tomchisi diametri 2 mm. Ikki tomchi qo'shilsa sirt maydoni?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Kamayadi",
+    "Ortadi",
+    "Nol"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki tomchi qo'shilganda energiya?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Nol",
+    "Yutiladi",
+    "Ajraladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sirt taranglik bilan bog'liq eng muhim hodisa?",
+   "variantlar": [
+    "Tomchi hosil bo'lishi, pufak",
+    "Erish",
+    "Sovish",
+    "Qaynash"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kapillyar ichida suv ustuni og'irligi F = ρghπr². Muvozanat: 2πrσ = ρghπr² dan h = ?",
+   "variantlar": [
+    "2σρgr",
+    "2σ/(ρgr)",
+    "σ/(ρgr)",
+    "σρgr"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "15-§. Ichki energiya",
+ "savollar": [
+  {
+   "savol": "Ichki energiya nima?",
+   "variantlar": [
+    "Faqat potensial energiya",
+    "Faqat kinetik energiya",
+    "Mexanik energiya",
+    "Jismni tashkil etuvchi zarralarning kinetik va potensial energiyalari yig'indisi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ichki energiya qaysi harf bilan belgilanadi?",
+   "variantlar": [
+    "U",
+    "A",
+    "W",
+    "Q"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ichki energiya birligi?",
+   "variantlar": [
+    "Joul",
+    "Vatt",
+    "Paskal",
+    "Nyuton"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ideal gazning ichki energiyasi nimaga bog'liq?",
+   "variantlar": [
+    "Bosimga",
+    "Massasiga faqat",
+    "Hajmga",
+    "Faqat temperaturaga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Temperatura ortsa ichki energiya?",
+   "variantlar": [
+    "Kamayadi",
+    "Ortadi",
+    "Nol",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ichki energiyani o'zgartirish usullari?",
+   "variantlar": [
+    "Hech biri",
+    "Ish bajarish va issiqlik uzatish",
+    "Faqat issiqlik",
+    "Faqat ish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishqalanishda ichki energiya?",
+   "variantlar": [
+    "Kamayadi",
+    "O'zgarmaydi",
+    "Nol",
+    "Ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Issiqlik uzatish turlari?",
+   "variantlar": [
+    "Issiqlik o'tkazuvchanlik, konveksiya, nurlanish",
+    "Faqat konveksiya",
+    "Faqat nurlanish",
+    "Faqat o'tkazuvchanlik"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Metall sterjenni bir uchi isitilsa issiqlik boshqa uchiga o'tishi?",
+   "variantlar": [
+    "Nurlanish",
+    "Issiqlik o'tkazuvchanlik",
+    "Diffuziya",
+    "Konveksiya"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyoshdan Yerga issiqlik qanday uzatiladi?",
+   "variantlar": [
+    "O'tkazuvchanlik",
+    "Konveksiya",
+    "Nurlanish orqali",
+    "Diffuziya"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir atomli ideal gaz ichki energiyasi formulasi?",
+   "variantlar": [
+    "U = (3/2) νRT",
+    "U = 3νRT",
+    "U = νRT",
+    "U = (1/2) νRT"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ichki energiya ν va T ga qanday bog'liq?",
+   "variantlar": [
+    "Bog'liq emas",
+    "Teskari",
+    "Kvadratik",
+    "To'g'ri proporsional"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ν = 2 mol, T = 300 K. U = (3/2)νRT ≈ ?",
+   "variantlar": [
+    "≈ 750 J",
+    "≈ 15 J",
+    "≈ 74 800 J",
+    "≈ 7480 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "U = (3/2)νRT. T 2 marta ortsa U?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "4 marta ortadi",
+    "2 marta kamayadi",
+    "2 marta ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Konveksiya nima?",
+   "variantlar": [
+    "Suyuqlik va gazlarda issiqlikning oqimlar orqali uzatilishi",
+    "Nurlanish",
+    "Diffuziya",
+    "O'tkazuvchanlik"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Batareya tepasida issiq havo nima uchun ko'tariladi?",
+   "variantlar": [
+    "O'tkazuvchanlik",
+    "Nurlanish",
+    "Konveksiya (issiq havo yengil)",
+    "Diffuziya"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Vakuumda issiqlik qanday uzatiladi?",
+   "variantlar": [
+    "Uzatilmaydi",
+    "O'tkazuvchanlik",
+    "Konveksiya",
+    "Nurlanish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Metallar issiqlikni yaxshi o'tkazadi. Sababi?",
+   "variantlar": [
+    "Rang",
+    "Massa katta",
+    "Zichlik",
+    "Erkin elektronlar bor"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Termos qanday tuzilgan (issiqlik yo'qotmaslik uchun)?",
+   "variantlar": [
+    "Bitta devor",
+    "Ikki devor orasida vakuum, yaltiroq sirt",
+    "Metall",
+    "Plastik"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ideal gaz ichki energiyasi V ga bog'liqmi?",
+   "variantlar": [
+    "Ba'zan",
+    "Doim",
+    "Ha",
+    "Yo'q"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ν = 1 mol, T = 400 K. U ≈ ?",
+   "variantlar": [
+    "≈ 498 J",
+    "≈ 49 860 J",
+    "≈ 4986 J",
+    "≈ 3324 J"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "T 300 K dan 600 K gacha ν = 1 mol gazda ΔU ≈ ?",
+   "variantlar": [
+    "≈ 3740 J",
+    "≈ 3 J",
+    "≈ 7480 J",
+    "≈ 374 J"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gaz sovutilsa ΔU?",
+   "variantlar": [
+    "Aniqlab bo'lmaydi",
+    "Nol",
+    "Manfiy",
+    "Musbat"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Izotermik jarayonda ΔU?",
+   "variantlar": [
+    "pΔV",
+    "0",
+    "Q",
+    "Cheksiz"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishqalanish orqali qo'l isishida mexanik energiya nimaga aylanadi?",
+   "variantlar": [
+    "Magnitga",
+    "Yorug'likka",
+    "Ichki energiyaga",
+    "Tovushga faqat"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki bir xil idishda ν, T bir xil, biri He (bir atomli), ikkinchisi Ne. Ichki energiyalar?",
+   "variantlar": [
+    "Neonda katta",
+    "Aniqlab bo'lmaydi",
+    "Teng",
+    "Geliyda katta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 mol He, 2 mol He. T bir xil. U₂/U₁?",
+   "variantlar": [
+    "1/2",
+    "1",
+    "2",
+    "4"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Suyuqlik va gazda ichki energiya potensial qismi?",
+   "variantlar": [
+    "Suyuqlikda katta, ideal gazda 0",
+    "Teng",
+    "Yo'q",
+    "Gazda katta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jism 20 °C dan 80 °C gacha isitilsa ichki energiya?",
+   "variantlar": [
+    "Kamayadi",
+    "Ortadi",
+    "Nol",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Balandda ko'tarilgan jismning ichki energiyasi?",
+   "variantlar": [
+    "Nol",
+    "Kamayadi",
+    "Ortadi",
+    "O'zgarmaydi (potensial energiya boshqa)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

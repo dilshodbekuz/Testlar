@@ -6,9 +6,9 @@
   {
    "savol": "Daraxtlarning poyasi qanday xususiyatlarga ega?",
    "variantlar": [
-    "Raqamlangan, shaffof, ko'plik va nozik",
-    "Tosh, yumshoq, ko'plik va shiring",
-    "Ohak, ingichka, bitta va qattiq",
+    "Shaffof, ingichka, ko'p",
+    "Yumshoq, suvli, ko'p",
+    "Ingichka, egiluvchan, ko'p",
     "Yog'ochlangan, qattiq, bitta va yo'g'on"
    ],
    "togri": 3,
@@ -17,7 +17,7 @@
   {
    "savol": "Yo'l chetida qaysi daraxtlarni ko'rish mumkin?",
    "variantlar": [
-    "Nur, olibka, dut",
+    "Paxta, bug'doy, makkajo'xori",
     "Archa, yong'oq, do'lana",
     "Chinor, qarag'ay, eman, zarang, terak, tol",
     "Olcha, bodom, yovvoyi olma"
@@ -31,7 +31,7 @@
     "Tol, zarang, eman",
     "Chinor, qarag'ay, terak",
     "Archa, yong'oq, do'lana, yovvoyi olma, olcha, bodom",
-    "Zaraq, duv, silb"
+    "Saksovul, juzg'un, quyonsuyak"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -50,21 +50,21 @@
   {
    "savol": "O'rmon daraxtlari qaysi suvi hisobiga o'sadi?",
    "variantlar": [
-    "Podzemni suv",
+    "Faqat quduq suvi",
     "Tog'dan kelib tushadigan suv",
-    "Istemlangan suv",
+    "Faqat vodoprovod suvi",
     "Yog'inlarning suvi"
    ],
    "togri": 3,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Daraxtning poyasi necha bo'ladi?",
+   "savol": "Daraxtning asosiy poyasi nechta bo'ladi?",
    "variantlar": [
     "Ikkita",
     "Bitta",
-    "Ko'plik",
-    "Chordita"
+    "Ko'p",
+    "To'rtta"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -81,12 +81,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Tog' o'rmonlarida qanday maydonlar katta arenani egallagan?",
+   "savol": "Tog' o'rmonlarida qaysi daraxtzorlar katta maydonlarni egallagan?",
    "variantlar": [
-    "Bodom zonasi",
-    "Tol zonasi",
+    "Bodomzorlar",
+    "Tolzorlar",
     "Archazorlar",
-    "Chinor zonasi"
+    "Chinorzorlar"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -141,7 +141,7 @@
     "Ha, hosil bo'ladi",
     "Yo'q, qo'shimcha shart kerak",
     "Lekin siyrak bo'ladi",
-    "Faqat qismik hosil bo'ladi"
+    "Faqat qisman hosil bo'ladi"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -195,8 +195,8 @@
    "variantlar": [
     "Tog' bo'lishi",
     "Issiqlik va namlik",
-    "Suv o'tib o'tishi",
-    "Kattalanik"
+    "Suv oqib o'tishi",
+    "Kattalik"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -238,7 +238,7 @@
    "savol": "Tekisliklarda issiqlik yetarli bo'lishiga qaramay, yozda yog'ingarchilik kam bo'lsa, daraxtlar uchun nima bo'ladi?",
    "variantlar": [
     "Rang o'zgartiradi",
-    "Yuqorida ko'tariladi",
+    "Yuqoriga ko'tariladi",
     "O'sishi qiynaladi",
     "Juda tez o'sadi"
    ],
@@ -261,8 +261,8 @@
    "variantlar": [
     "Issiqlik va namlik yetarli bo'lishi sababli, shuning uchun o'simliklar ko'p o'sadi",
     "Daraxtlar bir-biridan qo'rqadi",
-    "Daraxtlar tepa bo'laydi",
-    "Tuproq yanada qattiqlashadi"
+    "Daraxtlar baland bo'ladi",
+    "Tuproq qattiqlashadi"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -282,7 +282,7 @@
    "savol": "Agar tog'liklarda yozda yog'ingarchilik bo'lmasa, u holda o'rmonlar qanday bo'ladi?",
    "variantlar": [
     "Siyrak yoki qayb bo'ladi",
-    "Bunday o'rmonlar yasaladi",
+    "O'zgarmaydi",
     "Katta va zich bo'ladi",
     "Yanada yaxshi o'sadi"
    ],
@@ -323,7 +323,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Agar tekisliklarda yagona yog'in boshadigan qilib namlik yetib tursa, daraxtlar o'saladimi?",
+   "savol": "Agar tekisliklarda yozda ham yog'in yetarli bo'lsa, daraxtlar yaxshi o'sadimi?",
    "variantlar": [
     "Ha, o'sadi, chunki issiqlik bor va namlik yetib turadi",
     "Juda sekin o'sadi",

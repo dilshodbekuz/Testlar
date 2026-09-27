@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Algebra",
+ "mavzu": "11-§. Sonli tengsizliklar",
+ "savollar": [
+  {
+   "savol": "a > b tengsizlik qachon o'rinli bo'ladi?",
+   "variantlar": [
+    "a − b = 0 bo'lganda",
+    "a − b ayirma musbat bo'lganda",
+    "a + b > 0 bo'lganda",
+    "a − b ayirma manfiy bo'lganda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a < b bo'lsa, a − b ayirma qanday?",
+   "variantlar": [
+    "Musbat",
+    "Nol",
+    "Manfiy",
+    "Ishorasi noma'lum"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a = b bo'lsa, a − b nechaga teng?",
+   "variantlar": [
+    "0",
+    "2a",
+    "−1",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi tengsizlik to'g'ri?",
+   "variantlar": [
+    "5 > 2",
+    "3 < 2",
+    "0 > 4",
+    "−1 > 0"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi tengsizlik to'g'ri?",
+   "variantlar": [
+    "−3 < −2",
+    "−3 > −2",
+    "−3 > 3",
+    "−3 > 0"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikki sonni solishtirish uchun ularning nimasini topamiz?",
+   "variantlar": [
+    "Ayirmasini",
+    "Ko'paytmasini",
+    "Yig'indisini",
+    "Bo'linmasini"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi biri \"a musbat son\" ma'nosini beradi?",
+   "variantlar": [
+    "a ≤ 0",
+    "a = 0",
+    "a > 0",
+    "a < 0"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi biri \"b manfiy son\" ma'nosini beradi?",
+   "variantlar": [
+    "b ≥ 0",
+    "b = 0",
+    "b > 0",
+    "b < 0"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "5 va −5 sonlardan qaysi biri katta?",
+   "variantlar": [
+    "Teng",
+    "−5",
+    "5",
+    "Aytib bo'lmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "0 va −1 sonlardan qaysi biri katta?",
+   "variantlar": [
+    "0",
+    "Aytib bo'lmaydi",
+    "Teng",
+    "−1"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a ≥ b belgisi nimani bildiradi?",
+   "variantlar": [
+    "a kichik b",
+    "a katta yoki teng b",
+    "a teng b",
+    "a katta b"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2/3 va 3/4 sonlardan qaysi biri katta?",
+   "variantlar": [
+    "Teng",
+    "Aytib bo'lmaydi",
+    "2/3",
+    "3/4"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "−0,5 va −0,6 sonlardan qaysi biri katta?",
+   "variantlar": [
+    "Teng",
+    "−0,5",
+    "−0,6",
+    "Aytib bo'lmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a² + 1 ifoda har qanday a da qanday bo'ladi?",
+   "variantlar": [
+    "Ishorasi o'zgaradi",
+    "Manfiy",
+    "Musbat",
+    "Nolga teng"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x² ≥ 0 tengsizlik qachon o'rinli?",
+   "variantlar": [
+    "Faqat x = 0 da",
+    "Har qanday x da",
+    "Faqat x > 0 da",
+    "Faqat x < 0 da"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(a − b)² ifoda qanday?",
+   "variantlar": [
+    "Har doim manfiy",
+    "Har doim nol",
+    "Har doim nomanfiy",
+    "Har doim musbat"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a > 0, b > 0 bo'lsa, a + b qanday son?",
+   "variantlar": [
+    "Ishorasi noma'lum",
+    "Manfiy",
+    "Musbat",
+    "Nol"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a < 0, b < 0 bo'lsa, ab qanday son?",
+   "variantlar": [
+    "Musbat",
+    "Nol",
+    "Ishorasi noma'lum",
+    "Manfiy"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a > 0, b < 0 bo'lsa, ab qanday son?",
+   "variantlar": [
+    "Nol",
+    "Musbat",
+    "Manfiy",
+    "Ishorasi noma'lum"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "√2 va 1,5 sonlardan qaysi biri katta?",
+   "variantlar": [
+    "√2",
+    "1,5",
+    "Aytib bo'lmaydi",
+    "Teng"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a² + b² ≥ 2ab tengsizlik qachon tenglikka aylanadi?",
+   "variantlar": [
+    "a = 0 bo'lganda",
+    "a = b bo'lganda",
+    "a = −b bo'lganda",
+    "Hech qachon"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a² + 1 ≥ 2a tengsizlikni isbotlash uchun qaysi ifoda ishlatiladi?",
+   "variantlar": [
+    "a − 1 ≥ 0",
+    "(a + 1)² ≥ 0",
+    "(a − 1)² ≥ 0",
+    "a² ≥ 0"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a > 0 bo'lsa, a + 1/a ifoda eng kamida nechaga teng?",
+   "variantlar": [
+    "1",
+    "0",
+    "4",
+    "2"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x² − 4x + 5 ifoda qanday?",
+   "variantlar": [
+    "Ishorasi o'zgaradi",
+    "Nolga teng bo'lishi mumkin",
+    "Har doim musbat",
+    "Har doim manfiy"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(a + b)² − (a − b)² = ?",
+   "variantlar": [
+    "2a² + 2b²",
+    "2ab",
+    "0",
+    "4ab"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a va b musbat bo'lsa, (a + b)/2 va √(ab) ning qaysi biri katta yoki teng?",
+   "variantlar": [
+    "Aytib bo'lmaydi",
+    "√(ab)",
+    "(a + b)/2",
+    "Doim teng"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi tengsizlik har qanday x da to'g'ri?",
+   "variantlar": [
+    "x² − 2x + 1 > 0",
+    "x² + 1 < 0",
+    "x² − 1 ≥ 0",
+    "x² − 2x + 1 ≥ 0"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x² + 6x + 9 ≥ 0 tengsizlik qachon tenglikka aylanadi?",
+   "variantlar": [
+    "x = −3",
+    "x = 0",
+    "Hech qachon",
+    "x = 3"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a < b < 0 bo'lsa, a va b ni solishtiring: a² va b²",
+   "variantlar": [
+    "a² > b²",
+    "a² = b²",
+    "Aytib bo'lmaydi",
+    "a² < b²"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a/b + b/a (a, b > 0) eng kamida nechaga teng?",
+   "variantlar": [
+    "1",
+    "4",
+    "2",
+    "0"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

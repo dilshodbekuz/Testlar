@@ -9,7 +9,7 @@
     "Oshxonani toza tuting",
     "Kiyimlarni yuvish",
     "Tana va qo'llarni toza saqlash",
-    "Uyni tekin tizish"
+    "Uyni bezatish"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -30,19 +30,19 @@
    "variantlar": [
     "Porsiyaga bo'lish",
     "Mevalarni yuvish",
-    "Sheker qo'shish",
-    "Tuzga batash"
+    "Shakar qo'shish",
+    "Tuzga botirish"
    ],
    "togri": 1,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Toza ichimlik suvi uchun nima foydalanish kerak?",
+   "savol": "Ichish uchun qanday suvdan foydalanish kerak?",
    "variantlar": [
     "Daryoning suvi",
     "Hovuzdan suv",
-    "Tekis kuduqning suvi",
-    "Cho'l suvini"
+    "Qaynatilgan yoki tozalangan suv",
+    "Ko'lmak suvi"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -61,10 +61,10 @@
   {
    "savol": "Kiyimlarni qanday saqlash kerak?",
    "variantlar": [
-    "Toza tuting",
-    "Emasligi holi",
-    "Suvga batashgan qilib",
-    "Shovqinda qoldiring"
+    "Toza tutish",
+    "Yuvmasdan saqlash",
+    "Ho'l holda tashlab qo'yish",
+    "Polga tashlab qo'yish"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -84,8 +84,8 @@
    "savol": "Shaxsiy buyumlarni tartibli saqlash uchun nima qilish kerak?",
    "variantlar": [
     "Ozoda va tartibli tutish",
-    "Har doim ko'chirish",
-    "Shovqinli joyda saqlash",
+    "Har joyga tashlab qo'yish",
+    "Iflos joyda saqlash",
     "Barcha narsani bir xonaga qo'yish"
    ],
    "togri": 0,
@@ -116,7 +116,7 @@
   {
    "savol": "Olimjon betoba chalingan sababi nima edi?",
    "variantlar": [
-    "Ko'p shovqin qilish",
+    "Ko'p shovqin qilgani",
     "Qo'llarni yuvmasdan nonni yeyish",
     "Ko'p choyni ichish",
     "Uyquni ko'p qilish"
@@ -129,16 +129,16 @@
    "variantlar": [
     "Hech ta'sir qilmadi",
     "Sog'lig'ini saqlaydi",
-    "Shovqin keltiraydi",
+    "Uyquni keltiradi",
     "Zarar beradi"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Olimjon oshxonaga qo'llarini yuvmasdan nonni yeydi. Bu nima degan nomatisqat?",
+   "savol": "Olimjon oshxonaga qo'llarini yuvmasdan nonni yeydi. Bu qanday xatolik hisoblanadi?",
    "variantlar": [
-    "Chaqaloq xulq-atvor",
+    "Kichik xato, zararsiz",
     "Yaxshi odatdir",
     "Zarar beradi",
     "Zarur ishdir"
@@ -171,8 +171,8 @@
   {
    "savol": "Mevalarni yuymasdan yesa, nima sodir bo'ladi?",
    "variantlar": [
-    "Foydasiz",
-    "Sababi yeyish kerak",
+    "Hech narsa bo'lmaydi",
+    "Mazasi o'zgaradi",
     "Betoba chalinish mumkin",
     "Yanada shirin bo'ladi"
    ],
@@ -185,7 +185,7 @@
     "Tuzli suvda",
     "Sovun va suvda",
     "Shunchaki suvda",
-    "Soyud bilan"
+    "Qum bilan"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -202,10 +202,10 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Oshxonaga oq qo'llarni yuvmasdan nonni yeysa nima bo'ladi?",
+   "savol": "Agar oshxonada qo'llarni yuvmasdan non yesa, nima bo'ladi?",
    "variantlar": [
     "Foydali bo'ladi",
-    "Tez sozlanadi",
+    "Tez to'yadi",
     "Hech nima",
     "Zarar beradi"
    ],
@@ -226,8 +226,8 @@
   {
    "savol": "Shaxsiy gigiyena qoldirib yuborsa, insan sog'lig'iga nima bo'ladi?",
    "variantlar": [
-    "Ko'proq o'sadi",
-    "Yanada kuchli bo'ladi",
+    "Bo'yi o'sadi",
+    "Kuchli bo'ladi",
     "Hech nima",
     "Betoba chalinish riski ortadi"
    ],
@@ -235,12 +235,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Olimjon betoba chalinsa, qo'ldirilgan darslarni qanday tiqishni o'rganish mumkin?",
+   "savol": "Olimjon betob bo'lib qolgach, qoldirilgan darslarni qanday to'ldirish mumkin?",
    "variantlar": [
     "Hech nima qila olmadi",
     "Takrorlash va o'qituvchidan yordamni so'rash",
     "Kitobni qayta o'qish",
-    "O'z avjida tugatish"
+    "O'qimasdan qoldirish"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -250,7 +250,7 @@
    "variantlar": [
     "Hech nima",
     "Pul tejiladi",
-    "Tezroq uyquga yoti",
+    "Tezroq uxlaydi",
     "Mikroblar tanaga kirib sog'lig'i buziladi"
    ],
    "togri": 3,
@@ -262,7 +262,7 @@
     "Yomon o'yinga chiqishi",
     "Maktabga vaqtida bormasligi",
     "Ko'p kitob o'qishi",
-    "Shaxsiy gigiyena qoidalarini qo'llamamasi"
+    "Shaxsiy gigiyena qoidalariga amal qilmagani"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -270,9 +270,9 @@
   {
    "savol": "Matndagi hikmat \"taomdan avval qo'l yuvish sog'lig'inga foyda\" nimani ta'kidlaydi?",
    "variantlar": [
-    "Qo'llarni yuv qilish muhim emaski",
-    "Faqat ko'chadan qaytkda kerak",
-    "Ayni hamma narsaga kerak",
+    "Qo'l yuvish muhim emas",
+    "Faqat ko'chadan qaytganda kerak",
+    "Faqat mehmonga borganda kerak",
     "Shaxsiy gigiyena sog'lig'i uchun zarur"
    ],
    "togri": 3,
@@ -281,10 +281,10 @@
   {
    "savol": "Shaxsiy gigiyena odatini o'zlashtirish uchun 3-sinf o'quvchilari nima qilishi kerak?",
    "variantlar": [
-    "Darhol o'rganish va kichiklarga o'rgat",
-    "O'zini unutish",
+    "Hoziroq o'rganish va kichiklarga o'rgatish",
+    "Hech narsa qilmaslik",
     "Kitob o'qish",
-    "Odamga gapini tugunish"
+    "Faqat kattalarni kutish"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -294,7 +294,7 @@
    "variantlar": [
     "Nonni tez yeyish kerak",
     "Oshxona yomon joydir",
-    "Choy xatra iymitdi",
+    "Choy ichish zararli",
     "Shaxsiy gigiyena qoldirib yuborsa betoba chalinish mumkin"
    ],
    "togri": 3,
@@ -326,8 +326,8 @@
    "savol": "Matndagi ta'limatlar (uyni ozoda tutish, qo'llarni yuving, toza suv) nima uchun berilgan?",
    "variantlar": [
     "Vaqt o'tkazish uchun",
-    "Buyurtma sifatida",
-    "Shaxsiy gigiyena yo'riqlamasi sifatida",
+    "Jazo sifatida",
+    "Shaxsiy gigiyena yo'riqnomasi sifatida",
     "Hikoya uchun"
    ],
    "togri": 2,

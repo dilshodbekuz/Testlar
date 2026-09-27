@@ -15,12 +15,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Ignani og'zingizga solish bo'larmiku?",
+   "savol": "Ignani og'izga solish mumkinmi?",
    "variantlar": [
     "Ha, bo'ladi",
-    "Hech qachon bo'lmadi",
-    "Faqat binoda",
-    "Faqat yomg'ir paytida"
+    "Hech qachon mumkin emas",
+    "Faqat uyda",
+    "Faqat tez ishlaganda"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -64,7 +64,7 @@
     "Plastik",
     "Metall",
     "To'qima",
-    "Qo'g'oz"
+    "Qog'oz"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -81,22 +81,22 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Qirqimlari qanday?",
+   "savol": "Gazlamani qirqish uchun nima ishlatiladi?",
    "variantlar": [
-    "Yaqalangan bo'lak",
-    "Tikilgan bo'lak",
-    "Tiqilgan bo'lak",
-    "Qirqilgan bo'lak"
+    "Qaychi",
+    "Igna",
+    "Ip",
+    "Angishvona"
    ],
-   "togri": 3,
+   "togri": 0,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Yetishmagan ignalarni qayerga solib qo'ying?",
+   "savol": "Singan ignalarni qayerga solib qo'yish kerak?",
    "variantlar": [
     "Maxsus idishga",
-    "Pul qapiga",
-    "Qapiga",
+    "Cho'ntakka",
+    "Stol ustiga",
     "Sumkaga"
    ],
    "togri": 0,
@@ -160,7 +160,7 @@
   {
    "savol": "Ignalar sonini tekshirish nima uchun kerak?",
    "variantlar": [
-    "Yetib borandaliklarini bilish",
+    "Ish oxirida hamma ignalar joyida ekanini bilish uchun",
     "Ignaning rangi qanday",
     "Ignani yangi sotib olish",
     "Vaqtni o'tkazish"
@@ -172,9 +172,9 @@
    "savol": "To'g'ri chok tikish uchun qaysi vositalar eng muhim?",
    "variantlar": [
     "Qaychi va qog'oz",
-    "Gazlama va qo'l",
+    "Qog'oz va qalam",
     "Andaza va qalamqalam",
-    "Igna, ip va yostiqqcha"
+    "Igna, ip va gazlama"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -193,10 +193,10 @@
   {
    "savol": "Qirqimlarga to'g'ri chok bilan ishlov berish nima ko'rsatadi?",
    "variantlar": [
-    "Chokni yeyish kerak",
+    "Chokni yirtish kerakligini",
     "Chokni qirqish kerak",
-    "Chokni tikiladimi va mustahkam ekanligini",
-    "Chokni kuning qo'yish kerak"
+    "Chok to'g'ri va mustahkam tikilganini",
+    "Chokni bo'yash kerakligini"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -213,21 +213,21 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Ish tikishdan keyin yetishmagan igna topilsa, uni qayerga qo'yish kerak?",
+   "savol": "Ignaga ip qayeridan o'tkaziladi?",
    "variantlar": [
-    "Qapiga",
-    "Chantaga",
-    "Maxsus idishga",
-    "Joyiga"
+    "Ignaning ko'zidan",
+    "Ignaning uchidan",
+    "Ignaning o'rtasidan",
+    "Qaychi bilan"
    ],
-   "togri": 2,
+   "togri": 0,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Agar siz ignalarni sakib tekshirmagansiz va osh orasida kamlik ignalar topilsa, nima qilashingiz kerak?",
+   "savol": "Ish oxirida ignalardan biri topilmasa, nima qilish kerak?",
    "variantlar": [
-    "Kamlik ignalarni topib ig'na yostiqchaga sanchib qo'yish",
-    "Ish tikishni to'xtatib chiqish",
+    "Topib, igna yostiqchasiga sanchib qo'yish",
+    "Ishni to'xtatib chiqib ketish",
     "Chokni davom ettirish",
     "Yangi ignalar sotib olish"
    ],
@@ -239,7 +239,7 @@
    "variantlar": [
     "Ipning rangi",
     "Ipning qalinligi",
-    "Ipning qalqisi",
+    "Ipning hidi",
     "Kerakli uzunlikni to'g'ri aniqlash"
    ],
    "togri": 3,
@@ -272,7 +272,7 @@
    "variantlar": [
     "Ignani ko'p vaqt bo'lish",
     "Vaqtni tez o'tkazish",
-    "Chokni yanada qosh qilish",
+    "Chokni chiroyli qilish",
     "Tikishni xavfsiz va to'g'ri o'rganish"
    ],
    "togri": 3,
@@ -306,7 +306,7 @@
     "Ipni topish oson bo'ladi",
     "Chok yanada ziba bo'ladi",
     "Ish tez yakunlanadi",
-    "Xavfli bo'lishi mumkin (ignani tort olish, shakas qilish)"
+    "Xavfli: kimdir ignaga tegib jarohatlanishi mumkin"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -328,7 +328,7 @@
     "Faqat ignani to'g'ri tutish",
     "Faqat ipni to'g'ri o'tkazish",
     "Bitta qoidadan foydalanish",
-    "Barcha qoidalarni ketma-ket va intiqodli bajarish"
+    "Barcha qoidalarni ketma-ket va sinchiklab bajarish"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"

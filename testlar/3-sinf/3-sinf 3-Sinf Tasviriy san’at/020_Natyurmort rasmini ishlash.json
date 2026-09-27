@@ -6,10 +6,10 @@
   {
    "savol": "Natyurmort nima?",
    "variantlar": [
-    "Odamlarning portret rasmı",
-    "Tora devorning rasmı",
-    "Statik narsalardan tashkil topgan rasm",
-    "Harakatchan hayvonlarning rasmı"
+    "Odamlarning portret rasmi",
+    "Devor rasmi",
+    "Jonsiz narsalar tasvirlangan rasm",
+    "Harakatdagi hayvonlar rasmi"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -61,12 +61,12 @@
   {
    "savol": "Tasvirlangan narsalardan qaysi birining shakli dumaloq?",
    "variantlar": [
-    "Ko'zaning",
-    "Hech birisining emas",
+    "Stolning",
+    "Hech birining emas",
     "Olmaning",
     "Ikkisining ham"
    ],
-   "togri": 0,
+   "togri": 2,
    "qiyinlik": "oson"
   },
   {
@@ -94,7 +94,7 @@
   {
    "savol": "Narsalarni tasvirlashda nimalar ishlatiladi?",
    "variantlar": [
-    "Faqat xashir bilan",
+    "Faqat ko'mirdan",
     "Ranglardan",
     "Faqat qalamdan",
     "Faqat qog'ozdan"
@@ -105,9 +105,9 @@
   {
    "savol": "Narsalar stol ustida turgan bo'lsa, rasmda ularning pastda nima ko'rinadi?",
    "variantlar": [
-    "Dereza",
+    "Deraza",
     "Stol sirti",
-    "Osman",
+    "Osmon",
     "Chuqur suv"
    ],
    "togri": 1,
@@ -130,7 +130,7 @@
     "Faqat bir xil rang",
     "Faqat chizza chiziqlar",
     "Rangsiz qoldirib yuborish",
-    "Har xil ranglar ishlantish"
+    "Har xil tuslardan foydalanish"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -180,7 +180,7 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Agar ko'za olmaning balandligidan ikki marta uzoq bo'lsa, rasmda bu nisbat saqlanishikmi?",
+   "savol": "Agar ko'za olmadan ikki marta baland bo'lsa, rasmda bu nisbat saqlanadimi?",
    "variantlar": [
     "Faqat bo'yash vaqtida saqlanadi",
     "Yo'q, saqlanmadi",
@@ -259,7 +259,7 @@
   {
    "savol": "Olma va ko'zaning balandliklari 1:2 nisbatida bo'lsa, rasmda bu nisbatning durusta saqlanishining ahamiyati nima?",
    "variantlar": [
-    "Rasmning tabiiyligi va o'rtochanligi ta'minlaydi",
+    "Rasmning tabiiyligi va to'g'riligini ta'minlaydi",
     "Faqat o'qituvchini xursand qiladi",
     "Faqat bo'yashda muhim",
     "Hech qanday ahamiyat yo'q"
@@ -271,7 +271,7 @@
    "savol": "Narsalarning yorug' va soya tomonlarini o'rganib turli ranglar bilan tasvirlashning muhimiyati nima?",
    "variantlar": [
     "Muhimiyati yo'q",
-    "Rasmga ko'lem, had-dan-tahayyol ko'rinish beradmi, narsalarning shaxsiyati aniq ko'rinadi",
+    "Rasmga hajm beradi, narsalar aniq ko'rinadi",
     "Faqat rang ko'paylik qiladi",
     "Faqat chiziq ko'paylik qiladi"
    ],
@@ -290,10 +290,10 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Agar yorug'lik nuri oldirdan rasm ostiga tusayotgan bo'lsa, narsalarning qaysi tomonida soya ko'proq bo'ladi?",
+   "savol": "Agar yorug'lik old tomondan tushsa, narsaning soyasi qaysi tomonda bo'ladi?",
    "variantlar": [
-    "Orqa tomonida soya ko'proq bo'ladi, bu narsaning shaxsiyatini ko'rsatadi",
-    "Oldina tomonida soya",
+    "Orqa tomonida",
+    "Old tomonida",
     "Ikkala tomonida teng",
     "Yuqori tomonida soya"
    ],
@@ -314,7 +314,7 @@
   {
    "savol": "Agar sizda 4 ta har xil o'lchambad narsalar bo'lsa, ularning o'zaro nisbatini aniqlab, rasmda qanday joylashtirish kerak?",
    "variantlar": [
-    "Faqat kattalashni oldinga joylashtirish",
+    "Faqat kattalarini oldinga joylashtirish",
     "Hamma narsalarni teng o'lchambad qilish",
     "Hamma narsalarni ketma-ketlikda joylashtirish",
     "Har bir narsaning o'lchamlari boshqasiga nisbatan o'lchab, rasm ichida shu nisbatlashiga asoslanib joylashtirish"

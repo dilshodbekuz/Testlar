@@ -52,7 +52,7 @@
    "variantlar": [
     "Ko'llardan",
     "Tog'lardagi jilg'alardan",
-    "Buloqdan",
+    "Cho'ldan",
     "Okeyandan"
    ],
    "togri": 1,
@@ -107,8 +107,8 @@
    "variantlar": [
     "Qorni erish uchun",
     "Yer osti suvlaridan foydalanish uchun",
-    "Tog'ni pastga chushirish uchun",
-    "Yomg'ir o'tshini to'xtash uchun"
+    "Tog'ni pasaytirish uchun",
+    "Yomg'irni to'xtatish uchun"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -152,7 +152,7 @@
     "Sug'orish va aholi ehtiyojini qondirish uchun",
     "Faqat baliq ovlanish uchun",
     "Faqat elektr hosil qilish uchun",
-    "Faqat kema yuradish uchun"
+    "Faqat kema yurishi uchun"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -161,7 +161,7 @@
    "savol": "Okean va dengizlardan nima qazilib olinadi?",
    "variantlar": [
     "Faqat baliq",
-    "Qo'l va tog' tashlar",
+    "Oltin va olmos",
     "Faqat duz",
     "Neft va gaz"
    ],
@@ -171,7 +171,7 @@
   {
    "savol": "Jilg'a nima uchun muhim?",
    "variantlar": [
-    "U toza suv manbaxi",
+    "U sho'r suv manbai",
     "U o'z-o'zidan daryo",
     "Undan daryolar boshlanadilar",
     "U muzlik"
@@ -182,7 +182,7 @@
   {
    "savol": "Baland tog'larning yuqori qismida yozda nima erimaydi?",
    "variantlar": [
-    "Marjoni",
+    "Gullar",
     "Qor va muzlar",
     "Faqat qor",
     "Faqat muz"
@@ -191,10 +191,10 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Daryolar o'z yo'lida qanday hosila beradi?",
+   "savol": "Daryolar o'z yo'lida nimani hosil qilishi mumkin?",
    "variantlar": [
-    "Qoq qo'y bo'ladi",
-    "Tug'adi",
+    "Qum tepaliklarini",
+    "Tog'larni",
     "Faqat tez oqadi",
     "Sharsharalarni hosil qilishi mumkin"
    ],
@@ -213,11 +213,11 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Yog'in kam joyda yer osti suvlari qanday chiqa?",
+   "savol": "Yog'in kam joyda yer osti suvlari qanday chiqariladi?",
    "variantlar": [
     "O'z-o'zidan",
     "Buloq bo'lib",
-    "Quvurlar orqali tortib chiqa",
+    "Nasoslar yordamida quduqlardan tortib chiqariladi",
     "Hech qachon chiqmaydi"
    ],
    "togri": 2,
@@ -235,9 +235,9 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Globusdan yer yuzini o'rganish uchun nima kelib chiqadi?",
+   "savol": "Globusga qarab Yer yuzi haqida qanday xulosa chiqarish mumkin?",
    "variantlar": [
-    "Yer to'liq xaritador",
+    "Yer tekis ekan",
     "Okean va dengizlar ko'p ekani",
     "Daryolar tarqoq",
     "Shaharlar joylanishi"
@@ -250,7 +250,7 @@
    "variantlar": [
     "Ko'ldan boshlanib dengizga tushadi",
     "Quduqdan boshlanib ko'lga tushadi",
-    "Buloqdan boshlanib daryo bo'ladi",
+    "Cho'ldan boshlanib tog'ga ko'tariladi",
     "Tog' jilg'asidan boshlanib okeyanga tushadi"
    ],
    "togri": 3,
@@ -270,10 +270,10 @@
   {
    "savol": "Muzliklar yozda erimashligining tabiiy sababi nima?",
    "variantlar": [
-    "Eng sovuq joylarda joylashgan",
+    "Juda sovuq joylarda joylashgani uchun",
     "Qor bilan qoplangan",
     "Odamlar uni saqlab turishadi",
-    "Suv ketib boshlagan"
+    "Suvi oqib ketgani uchun"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -292,7 +292,7 @@
   {
    "savol": "Okean va dengizlarning odamlar uchun ahamiyati nima?",
    "variantlar": [
-    "Faqat suvni tasviyalaydi",
+    "Faqat suvni tozalaydi",
     "Baliq, transport, neft va gaz",
     "Faqat haroratni tekislaydi",
     "Faqat sohilni toza tutadi"

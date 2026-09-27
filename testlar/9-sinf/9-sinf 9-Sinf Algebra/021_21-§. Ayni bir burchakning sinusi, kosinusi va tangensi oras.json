@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Algebra",
+ "mavzu": "21-§. Ayni bir burchakning sinusi, kosinusi va tangensi orasidagi munosabatlar",
+ "savollar": [
+  {
+   "savol": "Asosiy trigonometrik ayniyat qaysi?",
+   "variantlar": [
+    "sin²α − cos²α = 1",
+    "sin²α + cos²α = 1",
+    "sin α + cos α = 1",
+    "sin α · cos α = 1"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "tg α = ?",
+   "variantlar": [
+    "sin α / cos α",
+    "sin α · cos α",
+    "cos α / sin α",
+    "1 / sin α"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "ctg α = ?",
+   "variantlar": [
+    "sin α · cos α",
+    "1 / cos α",
+    "sin α / cos α",
+    "cos α / sin α"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "tg α · ctg α = ?",
+   "variantlar": [
+    "1",
+    "−1",
+    "0",
+    "2"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 + tg²α = ?",
+   "variantlar": [
+    "1 / cos²α",
+    "sin²α",
+    "cos²α",
+    "1 / sin²α"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 + ctg²α = ?",
+   "variantlar": [
+    "1 / cos²α",
+    "sin²α",
+    "cos²α",
+    "1 / sin²α"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sin²α = ?",
+   "variantlar": [
+    "1 − cos²α",
+    "1 + cos²α",
+    "cos²α − 1",
+    "1 / cos²α"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "cos²α = ?",
+   "variantlar": [
+    "1 / sin²α",
+    "1 − sin²α",
+    "sin²α − 1",
+    "1 + sin²α"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sin α = 0 bo'lsa cos²α = ?",
+   "variantlar": [
+    "−1",
+    "1/2",
+    "0",
+    "1"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "cos α = 0 bo'lsa sin²α = ?",
+   "variantlar": [
+    "0",
+    "1",
+    "1/2",
+    "−1"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sin α = 3/5, α I chorakda. cos α = ?",
+   "variantlar": [
+    "−4/5",
+    "3/4",
+    "5/4",
+    "4/5"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "cos α = 5/13, α I chorakda. sin α = ?",
+   "variantlar": [
+    "12/13",
+    "5/12",
+    "−12/13",
+    "13/12"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sin α = 1/2, α I chorakda. cos α = ?",
+   "variantlar": [
+    "1/2",
+    "−√3/2",
+    "√2/2",
+    "√3/2"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sin α = 3/5, cos α = 4/5. tg α = ?",
+   "variantlar": [
+    "5/3",
+    "3/4",
+    "4/3",
+    "3/5"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "tg α = 2. ctg α = ?",
+   "variantlar": [
+    "1/2",
+    "−1/2",
+    "2",
+    "−2"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sin α = −4/5, α IV chorakda. cos α = ?",
+   "variantlar": [
+    "4/3",
+    "3/5",
+    "−3/5",
+    "5/3"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "cos α = −3/5, α II chorakda. sin α = ?",
+   "variantlar": [
+    "4/5",
+    "−4/5",
+    "5/4",
+    "3/4"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "tg α = 3/4, α I chorakda. cos α = ?",
+   "variantlar": [
+    "4/5",
+    "3/5",
+    "5/3",
+    "5/4"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "tg α = 3/4, α I chorakda. sin α = ?",
+   "variantlar": [
+    "5/4",
+    "5/3",
+    "3/5",
+    "4/5"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sin α = 0,6 bo'lsa cos²α = ?",
+   "variantlar": [
+    "0,64",
+    "0,8",
+    "0,36",
+    "0,4"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sin α + cos α = 1 bo'lsa sin α · cos α = ?",
+   "variantlar": [
+    "1",
+    "−1",
+    "0",
+    "1/2"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "sin α − cos α = 1/2 bo'lsa sin α · cos α = ?",
+   "variantlar": [
+    "3/8",
+    "3/4",
+    "1/4",
+    "5/8"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "tg α = 2 bo'lsa sin α cos α = ?",
+   "variantlar": [
+    "1/5",
+    "2/5",
+    "3/5",
+    "4/5"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "tg α + ctg α = 3 bo'lsa sin α cos α = ?",
+   "variantlar": [
+    "1/9",
+    "3",
+    "1/3",
+    "9"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "sin⁴α − cos⁴α = ?",
+   "variantlar": [
+    "sin²α − cos²α",
+    "1",
+    "sin²α + cos²α",
+    "0"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(1 − sin α)(1 + sin α) = ?",
+   "variantlar": [
+    "sin²α",
+    "0",
+    "cos²α",
+    "1"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(1 − cos α)(1 + cos α) = ?",
+   "variantlar": [
+    "1",
+    "cos²α",
+    "0",
+    "sin²α"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "cos α = −0,8, α III chorakda. sin α = ?",
+   "variantlar": [
+    "0,8",
+    "0,6",
+    "−0,8",
+    "−0,6"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "tg α = −3/4, α II chorakda. cos α = ?",
+   "variantlar": [
+    "4/5",
+    "3/5",
+    "−4/5",
+    "−3/5"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "sin α = 5/13, cos α < 0. tg α = ?",
+   "variantlar": [
+    "12/5",
+    "−12/5",
+    "5/12",
+    "−5/12"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -6,7 +6,7 @@
   {
    "savol": "Archa nima degani o'zbek tilida?",
    "variantlar": [
-    "Binoning modeli yoki tuzilmaning ko'rinishi",
+    "Qishda ham yashil turadigan ignabargli daraxt (archa)",
     "Kitobning turi",
     "Raqs uslubi",
     "Musiqaning turi"
@@ -26,11 +26,11 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "O'yinchog'i nima?",
+   "savol": "O'yinchoq nima?",
    "variantlar": [
     "Taom",
     "Kiyim",
-    "Ichildirish va o'qitish uchun tuzilgan buyum",
+    "Bolalar o'ynashi uchun yasalgan buyum",
     "Hujjat"
    ],
    "togri": 2,
@@ -40,7 +40,7 @@
    "savol": "Rangli qog'oz qayda ishlatiladi?",
    "variantlar": [
     "Yozish uchun",
-    "O'yinchog'i va arxitektura modelini yasash uchun",
+    "O'yinchoq va turli modellar yasash uchun",
     "Muzlatgichda",
     "Suv ichida"
    ],
@@ -59,23 +59,23 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Jo'mirgi (alyuminiy fo'ls-teyx) nima?",
+   "savol": "Qog'ozni buklaganda buklama chizig'i qanday tekislanadi?",
    "variantlar": [
-    "Kitob",
-    "Qalam",
-    "Buklamalarni tekisleshtirish uchun vosita",
-    "Xostik"
+    "Buklama chizig'i barmoq yoki chizg'ich bilan yaxshilab bosiladi",
+    "Qog'oz suvga solinadi",
+    "Qog'oz g'ijimlanadi",
+    "Qog'oz yirtiladi"
    ],
-   "togri": 2,
+   "togri": 0,
    "qiyinlik": "oson"
   },
   {
    "savol": "Buklash deb nima aytiladi?",
    "variantlar": [
-    "Qog'ozni to'lqin ko'rinishida bukish",
+    "Qog'ozni chiziq bo'yicha qayirish",
     "Qog'ozni rang qilish",
     "Qog'ozni kesish",
-    "Qog'ozni yonish"
+    "Qog'ozni yondirish"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -92,23 +92,23 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Qaychi bilan kesishda xavfsizlik qoidasi?",
+   "savol": "Qaychi bilan qirqishda qaysi xavfsizlik qoidasiga amal qilinadi?",
    "variantlar": [
-    "Juda sol kesish",
-    "Juda tez kesish",
-    "Bilakdan uzoqda kesish",
-    "O'ziga tomon kesish"
+    "Uchini o'ziga qaratib qirqish",
+    "Yugurib qirqish",
+    "Barmoqlarni tig'dan uzoq tutib, ehtiyot bo'lib qirqish",
+    "Do'stiga qaratib qirqish"
    ],
    "togri": 2,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Tayyorlangan o'yinchog'ini saqlab turish joyini?",
+   "savol": "Tayyor o'yinchoq qayerda saqlanadi?",
    "variantlar": [
     "Muzlatgichda",
     "Yog' ichida",
     "Suv ichida",
-    "Qulog'ida yoki quton qoph ichida"
+    "Qutida, quruq joyda"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -130,7 +130,7 @@
     "Faqat qaychi",
     "Faqat qalam",
     "Hech narsa",
-    "Yapishqak, steplerbosh yoki teyx"
+    "Yelim, stepler yoki skotch"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -204,10 +204,10 @@
   {
    "savol": "O'lchash uchun qaysi vositalardan foydalanamiz?",
    "variantlar": [
-    "Qalami",
-    "Tishlardan",
-    "Guli",
-    "O'lchash o'chko'v (chiziq, ruletka)"
+    "Qalam",
+    "Tish",
+    "Gul",
+    "O'lchov asboblari (chizg'ich, ruletka)"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -216,7 +216,7 @@
    "savol": "Arxitektura modelining estetikasi nima?",
    "variantlar": [
     "Juda qimmat",
-    "Chiroyli, kelishgan, ko'ngil osay ko'rinishi",
+    "Chiroyli, kelishgan, ko'ngilga yoqimli ko'rinishi",
     "Hech narsasi",
     "Shunchaki qora"
    ],
@@ -239,7 +239,7 @@
    "variantlar": [
     "Faqat rang",
     "Hech narsa",
-    "Kuch, barkapaylik, shakli va xavfsizlik",
+    "Mustahkamlik, barqarorlik, shakl va xavfsizlik",
     "Faqat ko'rinish"
    ],
    "togri": 2,
@@ -326,7 +326,7 @@
    "savol": "Rangli qog'ozdan o'yinchog'i yasashning asosiy foydasi?",
    "variantlar": [
     "Foyda yo'q",
-    "Kreativlik, bilimlini qo'llash, ko'nikmalar, eziqlash",
+    "Ijodkorlik, bilimni qo'llash va qo'l ko'nikmalari",
     "Faqat vaqt o'tkazish",
     "Hech narsa"
    ],

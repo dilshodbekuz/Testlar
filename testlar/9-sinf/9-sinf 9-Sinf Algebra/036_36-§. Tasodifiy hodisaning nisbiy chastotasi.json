@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Algebra",
+ "mavzu": "36-§. Tasodifiy hodisaning nisbiy chastotasi",
+ "savollar": [
+  {
+   "savol": "Nisbiy chastota nima?",
+   "variantlar": [
+    "Ko'paytma",
+    "Qulay natijalar soni",
+    "Yig'indi",
+    "Hodisa ro'y bergan tajribalar sonining barcha tajribalar soniga nisbati"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nisbiy chastota formulasi?",
+   "variantlar": [
+    "W(A) = m · n",
+    "W(A) = m / n",
+    "W(A) = n / m",
+    "W(A) = m + n"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bu formulada m nima?",
+   "variantlar": [
+    "Barcha tajribalar soni",
+    "Ehtimollik",
+    "A hodisa ro'y bergan tajribalar soni",
+    "Chastota"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bu formulada n nima?",
+   "variantlar": [
+    "Qulay tajribalar",
+    "Ehtimollik",
+    "Barcha tajribalar soni",
+    "Chastota"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "100 ta tajribada hodisa 40 marta ro'y berdi. Nisbiy chastota?",
+   "variantlar": [
+    "0,4",
+    "0,04",
+    "4",
+    "40"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "50 ta tajribada hodisa 10 marta ro'y berdi. Nisbiy chastota?",
+   "variantlar": [
+    "5",
+    "0,2",
+    "0,5",
+    "0,1"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "20 ta tajribada hodisa 20 marta ro'y berdi. Nisbiy chastota?",
+   "variantlar": [
+    "20",
+    "1",
+    "0",
+    "0,5"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nisbiy chastota qanday oraliqda?",
+   "variantlar": [
+    "(0; 1)",
+    "[0; 1]",
+    "[0; 100]",
+    "[−1; 1]"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tajribalar soni ortsa nisbiy chastota nimaga yaqinlashadi?",
+   "variantlar": [
+    "Ehtimollikka",
+    "Nolga",
+    "Cheksizlikka",
+    "Birga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Statistik ehtimollik nima?",
+   "variantlar": [
+    "Yig'indi",
+    "Nisbiy chastotaning barqaror qiymati",
+    "Klassik ehtimol",
+    "Ko'paytma"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tanga 200 marta tashlanganda gerb 96 marta tushdi. Nisbiy chastota?",
+   "variantlar": [
+    "0,2",
+    "0,52",
+    "0,48",
+    "0,96"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kubik 60 marta tashlanganda 6 raqami 12 marta tushdi. Nisbiy chastota?",
+   "variantlar": [
+    "0,1",
+    "0,12",
+    "0,2",
+    "1/6"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nisbiy chastota 0,3, tajribalar 200 ta. Hodisa necha marta ro'y bergan?",
+   "variantlar": [
+    "600",
+    "60",
+    "66",
+    "30"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nisbiy chastota 0,15, tajribalar 40 ta. Hodisa necha marta ro'y bergan?",
+   "variantlar": [
+    "15",
+    "0,6",
+    "60",
+    "6"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nisbiy chastota va ehtimollik orasidagi farq nimada?",
+   "variantlar": [
+    "Chastota nazariyadan",
+    "Ehtimol tajribadan",
+    "Farq yo'q",
+    "Chastota tajribadan, ehtimol nazariyadan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tajriba sonlari 10, 100, 1000. Nisbiy chastotalar 0,6; 0,52; 0,501. Ehtimollik taxminan?",
+   "variantlar": [
+    "1",
+    "0,5",
+    "0,6",
+    "0,4"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Miqdorlar: 500 ta detaldan 15 tasi yaroqsiz. Yaroqsiz bo'lish nisbiy chastotasi?",
+   "variantlar": [
+    "15",
+    "0,015",
+    "0,3",
+    "0,03"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi yaroqli detalning nisbiy chastotasi?",
+   "variantlar": [
+    "0,03",
+    "0,7",
+    "0,97",
+    "0,3"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "100 ta uloqtirishda hodisa 25 marta. Nisbiy chastota foizda?",
+   "variantlar": [
+    "250 %",
+    "0,25 %",
+    "2,5 %",
+    "25 %"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Muqarrar hodisaning nisbiy chastotasi?",
+   "variantlar": [
+    "1",
+    "0,5",
+    "0",
+    "100"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1000 ta o'quvchidan 45 tasi chap qo'l. Chap qo'llik nisbiy chastotasi?",
+   "variantlar": [
+    "0,045",
+    "4,5",
+    "0,45",
+    "0,0045"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sinfda 200 o'quvchidan 120 nafari o'g'il. 5000 kishilik maktabda o'g'illar taxminiy soni?",
+   "variantlar": [
+    "2000",
+    "600",
+    "1200",
+    "3000"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Fabrikada 1000 ta mahsulotdan 8 tasi yaroqsiz. 25 000 ta mahsulotdan taxminan nechtasi yaroqsiz?",
+   "variantlar": [
+    "200",
+    "20",
+    "80",
+    "2000"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nisbiy chastota 0 bo'lsa hodisa?",
+   "variantlar": [
+    "Bu tajribada ro'y bermagan",
+    "Yo'q",
+    "Mumkin bo'lmagan",
+    "Muqarrar"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tajribalar soni juda kam bo'lsa nisbiy chastota?",
+   "variantlar": [
+    "Doim teng",
+    "Doim 1",
+    "Doim 0",
+    "Ehtimollikdan sezilarli farq qilishi mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kubik 600 marta tashlandi. Kutiladigan 6 chiqishlar soni?",
+   "variantlar": [
+    "≈ 200",
+    "≈ 60",
+    "≈ 600",
+    "≈ 100"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kubik 600 marta tashlandi. Juft son chiqishi kutilgan soni?",
+   "variantlar": [
+    "≈ 100",
+    "≈ 600",
+    "≈ 200",
+    "≈ 300"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nisbiy chastotalar yig'indisi (barcha natijalar uchun) nechaga teng?",
+   "variantlar": [
+    "0",
+    "100",
+    "n",
+    "1"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadval: natija a — 12 marta, b — 18, c — 20 (jami 50). c ning nisbiy chastotasi?",
+   "variantlar": [
+    "0,24",
+    "0,2",
+    "0,36",
+    "0,4"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi jadvalda a ning nisbiy chastotasi?",
+   "variantlar": [
+    "0,4",
+    "0,12",
+    "0,36",
+    "0,24"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

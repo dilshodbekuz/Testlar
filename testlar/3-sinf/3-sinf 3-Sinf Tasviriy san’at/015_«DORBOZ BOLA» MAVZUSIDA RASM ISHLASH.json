@@ -61,9 +61,9 @@
   {
    "savol": "Dor o'yinlarida qanday hayvanlar ishtirok etadi?",
    "variantlar": [
-    "Maymunlar va parranda",
+    "Sherlar va fillar",
     "O'rgatilgan ayiq, ilon, maymun, ot",
-    "Shotor va eshaklar",
+    "Tuya va eshaklar",
     "Faqat otlar"
    ],
    "togri": 1,
@@ -72,7 +72,7 @@
   {
    "savol": "Dorbozlar ko'zni bog'lab arqon ustida mashqlar bajarishda nima kiyadi?",
    "variantlar": [
-    "Shamolli har",
+    "Shlyapa",
     "Qalpoq",
     "Boshlariga xaltacha",
     "Qora niqob"
@@ -95,9 +95,9 @@
    "savol": "Dorbozlar oyoqlariga nima bog'lagan holda mashqlar bajara?",
    "variantlar": [
     "Pichoq yoki patnis",
-    "Sharpalar",
-    "Tumalyalar",
-    "Alishnalar"
+    "Qo'ng'iroqlar",
+    "Toshlar",
+    "Gullar"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -105,9 +105,9 @@
   {
    "savol": "Dor tagida kim o'yin ko'rsatadi?",
    "variantlar": [
-    "Shaxobchilar",
+    "Sotuvchilar",
     "Shoirlar",
-    "Musiqachilar",
+    "O'qituvchilar",
     "Raqqoslar"
    ],
    "togri": 3,
@@ -130,7 +130,7 @@
     "Raqqoslarni yo'naltirish uchun",
     "Balans saqlashda yordam beradi",
     "Arqonni bog'lashda ishlatiladigan vosita",
-    "Dorbozlarni turmakda ishlatiladigan vosita"
+    "Dorbozni tortish uchun"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -138,7 +138,7 @@
   {
    "savol": "Dorbozlik san'atida qanday sirk turlari bo'ladi?",
    "variantlar": [
-    "Faqat hazil-fikiralik",
+    "Faqat hazil",
     "Simdor, yog'och oyoq, nayrangbozlik, besuyak",
     "Faqat raqqosalik",
     "Faqat musiqalik"
@@ -172,8 +172,8 @@
    "savol": "Ko'zni bog'lab arqon ustida mashqlar bajarilganda qanday narsalar ishlatiladigan?",
    "variantlar": [
     "Boshlariga xaltacha kiyiladi",
-    "Ko'zlar tashlanadi",
-    "Qora sharf",
+    "Ko'z yumiladi xolos",
+    "Ko'zoynak taqiladi",
     "Qalpoq"
    ],
    "togri": 0,
@@ -185,7 +185,7 @@
     "Yugurish, sakrash, oyoqlariga pichoq bog'lagan holda",
     "Uchib yurish va yugurish",
     "Faqat yurish",
-    "Sakrash va yugurish"
+    "Faqat o'tirish"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -193,7 +193,7 @@
   {
    "savol": "Dor o'yinlarida o'rgatilgan hayvanlardan boshqa qanday sirk turlari bo'ladi?",
    "variantlar": [
-    "Faqat shaxyiylar",
+    "Faqat qo'shiqlar",
     "Simdor, yog'och oyoq, nayrangbozlik, besuyak",
     "Faqat musiqachilar",
     "Faqat oila a'zolari"
@@ -217,7 +217,7 @@
    "variantlar": [
     "Dorbozlik faqat estrada san'ati",
     "Dorbozlik butunlay yangi san'at",
-    "Dorbozlik qo'shaloq san'at emas",
+    "Dorbozlik sirk bilan bog'liq emas",
     "Dorbozlik sirkning muhim taqdim etilish shakli"
    ],
    "togri": 3,
@@ -229,7 +229,7 @@
     "San'atning eski, taqdirli va qadrli ekanligini ko'rsatadi",
     "San'atning qiymatsiz ekanligini ko'rsatadi",
     "San'atning keyingi asrlarda yo'qoladi",
-    "Faqat zamonaviy san'at emas"
+    "Faqat zamonaviy san'at ekanini"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -251,7 +251,7 @@
     "Oyoqlarga nima bog'lash",
     "Shunchaki ko'zni bog'lash",
     "Sodda harakat",
-    "Chuqur gorday balans saqlash va o'zimizga bo'lgan ishonchni ta'minlash kerak"
+    "Katta balandlikda muvozanat saqlash va o'ziga ishonch kerak"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -272,7 +272,7 @@
    "variantlar": [
     "Faqat rasmni chiroyli qiladi",
     "Faqat san'at uchun ishlatiladigan ranglar",
-    "Rasm kontrasti, chuqurligi va qahramonfiguraning o'yinchiligi yaratadi",
+    "Rasmda kontrast, hajm va harakat yaratadi",
     "Ranglarga hech narsa muhim emas"
    ],
    "togri": 2,
@@ -314,10 +314,10 @@
   {
    "savol": "Dor o'yinlarida o'rgatilgan ayiq, ilon, maymun, ot o'yinlarining bo'lishi bu san'atning qaysi jihatini ko'rsatadi?",
    "variantlar": [
-    "Faqat hayvanlarni yashirish",
+    "Faqat hayvonlarni sotish",
     "O'zbek dorbozlikning hayvanlarni o'rgatish va boshqarish san'atining yuqori darajasini",
-    "Hayvanlarni o'ldirish",
-    "Hayvanlarni ezish"
+    "Hayvonlarni qo'rqitish",
+    "Hayvonlarni yashirish"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -328,7 +328,7 @@
     "Dorbozlik hech kimga bog'liq emas",
     "Dorbozlik an'anaviy sirkning to'liq, boy va murakkab shakli ekanligi",
     "Dorbozlik faqat yagona san'at",
-    "Dorbozlik sofstallik san'ati"
+    "Dorbozlik faqat bitta odamning san'ati"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"

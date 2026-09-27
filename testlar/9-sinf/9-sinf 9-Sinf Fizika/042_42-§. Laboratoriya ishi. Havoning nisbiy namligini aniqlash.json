@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "42-§. Laboratoriya ishi. Havoning nisbiy namligini aniqlash",
+ "savollar": [
+  {
+   "savol": "Ishning maqsadi nima?",
+   "variantlar": [
+    "Havoning nisbiy namligini aniqlash",
+    "Massani o'lchash",
+    "Tezlikni o'lchash",
+    "Bosimni o'lchash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda qaysi asbob ishlatiladi?",
+   "variantlar": [
+    "Voltmetr",
+    "Tarozi",
+    "Psixrometr (gigrometr)",
+    "Dinamometr"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Psixrometr nechta termometrdan iborat?",
+   "variantlar": [
+    "4",
+    "1",
+    "3",
+    "2"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ho'l termometr nima bilan o'ralgan?",
+   "variantlar": [
+    "Ho'llangan mato bilan",
+    "Quruq mato",
+    "Metall",
+    "Plastik"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ho'l termometr ko'rsatishi quruqdan?",
+   "variantlar": [
+    "Yuqori",
+    "Teng",
+    "Past",
+    "Aniqlab bo'lmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Namlik jadvali nima uchun?",
+   "variantlar": [
+    "Rang",
+    "Massa",
+    "Chiroy",
+    "Termometr farqi bo'yicha φ ni topish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Termometr farqi Δt = t_quruq − t_ho'l. Bu nima?",
+   "variantlar": [
+    "Psixrometrik farq",
+    "Massa",
+    "Bosim",
+    "Hajm"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Natijalar qayerga yoziladi?",
+   "variantlar": [
+    "Idishga",
+    "Termometrga",
+    "Tarozi",
+    "Jadvalga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda φ qanday birlikda?",
+   "variantlar": [
+    "kg",
+    "Pa",
+    "Foiz",
+    "K"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda asosiy o'lchanadigan kattaliklar?",
+   "variantlar": [
+    "Massa",
+    "Vaqt",
+    "Uzunlik",
+    "Quruq va ho'l termometr t lari"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "t_quruq = 20 °C, t_ho'l = 20 °C. φ ≈ ?",
+   "variantlar": [
+    "0 %",
+    "50 %",
+    "20 %",
+    "100 %"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Δt katta bo'lsa φ?",
+   "variantlar": [
+    "Katta",
+    "Aniqlab bo'lmaydi",
+    "Teng",
+    "Kichik"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "t_quruq = 22 °C, t_ho'l = 16 °C. Δt = ?",
+   "variantlar": [
+    "38 °C",
+    "16 °C",
+    "6 °C",
+    "22 °C"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda φ ni to'g'ri aniqlash uchun termometrlar qayerda turishi kerak?",
+   "variantlar": [
+    "Tekis havo oqimida",
+    "Oynada",
+    "Suvda",
+    "Devor yonida"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ho'l termometr matosi nimaga xizmat qiladi?",
+   "variantlar": [
+    "Rang",
+    "Bug'lanish uchun suv saqlaydi",
+    "Chiroy",
+    "Massa"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda xatolik manbai?",
+   "variantlar": [
+    "Massa",
+    "Rang",
+    "Vaqt",
+    "Termometr aniqligi, havo harakati"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Psixrometrda t_quruq = 24 °C, t_ho'l = 18 °C, φ ≈ 50 % (jadvaldan). p_t(24 °C) = 3 kPa bo'lsa p ≈ ?",
+   "variantlar": [
+    "≈ 0,5 kPa",
+    "≈ 6 kPa",
+    "≈ 50 kPa",
+    "≈ 1,5 kPa"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Xona φ = 40 % (t = 20 °C, p_t = 2,3 kPa). p = ?",
+   "variantlar": [
+    "≈ 0,4 kPa",
+    "≈ 40 kPa",
+    "≈ 0,92 kPa",
+    "≈ 5,75 kPa"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda φ = 60 % bo'lsa namlik?",
+   "variantlar": [
+    "To'yingan",
+    "Bug' yo'q",
+    "Juda quruq",
+    "O'rtacha, qulay"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda natija boshqa o'lchashlar bilan taqqoslanadi. Nima uchun?",
+   "variantlar": [
+    "Massa",
+    "Rang",
+    "Chiroy",
+    "Aniqlikni baholash uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ho'l termometr ko'rsatishi past chiqishining sababi?",
+   "variantlar": [
+    "Massa",
+    "Rang",
+    "Bug'lanish tezligi φ ga bog'liq",
+    "Sovuq"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "φ ni ikki xil usulda (psixrometr va gigrometr) olsak farq 5 %. Nima demak?",
+   "variantlar": [
+    "Asboblar xatoligi",
+    "Bug'",
+    "Hech narsa",
+    "Xato yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Havoning shudring nuqtasi 10 °C, xona 20 °C. p_t(10 °C) = 1,23 kPa, p_t(20 °C) = 2,33 kPa. φ = ?",
+   "variantlar": [
+    "≈ 53 %",
+    "≈ 100 %",
+    "≈ 190 %",
+    "≈ 19 %"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ho'l termometr matosi quruq bo'lsa ko'rsatish?",
+   "variantlar": [
+    "Nol",
+    "Yuqori",
+    "Quruq termometrga teng",
+    "Past"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tez shamolda ho'l termometr ko'rsatishi?",
+   "variantlar": [
+    "Nol",
+    "Pastroq (bug'lanish tezlashadi)",
+    "O'zgarmaydi",
+    "Yuqori"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda termometr xatoligi 0,5 °C, Δt = 5 °C. Nisbiy xatolik ≈ ?",
+   "variantlar": [
+    "≈ 0,5 %",
+    "≈ 100 %",
+    "≈ 20 % (2·0,5/5)",
+    "≈ 2 %"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun quruq termometr aniq t_havo ni ko'rsatadi?",
+   "variantlar": [
+    "Sovuq",
+    "Massa",
+    "Bug'lanish yo'q",
+    "Rang"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Absolyut namlik nima?",
+   "variantlar": [
+    "1 m³ havodagi suv bug'i massasi",
+    "Massa",
+    "Bosim",
+    "Nisbiy"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Absolyut namlik birligi?",
+   "variantlar": [
+    "%",
+    "Pa",
+    "K",
+    "kg/m³ (g/m³)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Absolyut namlik ρ = 10 g/m³, to'yingan ρ_t = 20 g/m³. φ = ?",
+   "variantlar": [
+    "200 %",
+    "100 %",
+    "50 %",
+    "10 %"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

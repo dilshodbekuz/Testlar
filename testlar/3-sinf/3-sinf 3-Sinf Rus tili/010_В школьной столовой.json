@@ -53,7 +53,7 @@
     "Qo'l bilan",
     "Pichoq bilan",
     "Vilka bilan",
-    "Deshkaga beribilan"
+    "Qoshiq bilan"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -61,10 +61,10 @@
   {
    "savol": "Ovqat vaqtida gapirish mumkinmi?",
    "variantlar": [
-    "Faqat qo'shimcha matn",
+    "Faqat baqirib gapirish mumkin",
     "Ha, gapirsa bo'ladi",
     "Yo'q, gapirilmaydi",
-    "Ha, lekin jim-jam"
+    "Faqat ovqat tugagach"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -81,7 +81,7 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Osh stolovat menysida qanday taom?",
+   "savol": "«Суп» (sho'rva) oshxona menyusida qanday taom?",
    "variantlar": [
     "Birinchi taom",
     "Ikkinchi taom",
@@ -103,21 +103,21 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Doktor deshkaning onasi uchun nima aytdi?",
+   "savol": "«Вилка» so'zi o'zbekchada nima?",
    "variantlar": [
-    "Uyda yotishi kerak",
-    "Dori ichadilatish kerak",
-    "O'zi biling qilishi kerak",
-    "Ovqat tayyorlash kerak"
+    "Sanchqi",
+    "Pichoq",
+    "Qoshiq",
+    "Likopcha"
    ],
-   "togri": 2,
+   "togri": 0,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Binterbrodi tayyorlashda birinchi nima qilish kerak?",
+   "savol": "Buterbrod tayyorlashda birinchi nima qilinadi?",
    "variantlar": [
     "Tarelkani olib chiqish",
-    "Du kund nonni olish",
+    "Bir bo'lak nonni olish",
     "Yog'ni tayyorlash",
     "Choyni ichish"
    ],
@@ -180,14 +180,14 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Shahralik qoidalar qayda yoziladi?",
+   "savol": "«Стакан» so'zi o'zbekchada nima?",
    "variantlar": [
-    "Kitobda",
-    "Bujinam belgilanmaydi",
-    "Dushambaning yig'inda",
-    "Daftarda"
+    "Stakan",
+    "Qoshiq",
+    "Non",
+    "Tuz"
    ],
-   "togri": 2,
+   "togri": 0,
    "qiyinlik": "o'rtacha"
   },
   {
@@ -204,7 +204,7 @@
   {
    "savol": "Salat stolovat menysida nima turi?",
    "variantlar": [
-    "Olik taom",
+    "Sovuq gazak (закуска)",
     "Birinchi taom",
     "Ikkinchi taom",
     "Ichimlik"
@@ -213,45 +213,45 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Deshka o'zi biling qilishi uchun nima o'rgandi?",
+   "savol": "«Нож» so'zi o'zbekchada nima?",
    "variantlar": [
-    "O'zining ishlashi",
-    "Ovqat tayyorlash",
-    "Doktor tasiqi bilanoq ta'lim",
-    "Cho'milib olish"
+    "Qoshiq",
+    "Pichoq",
+    "Sanchqi",
+    "Choynak"
    ],
-   "togri": 2,
+   "togri": 1,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Nega Volodya Vitkyang faqat yordam berdi, savol bermadi?",
+   "savol": "«Хлеб» so'zi o'zbekchada nima?",
    "variantlar": [
-    "Dunga ko'ngil berdi",
-    "Undan qorqi",
-    "Savol bilmadi",
-    "Do'stini ko'radi"
+    "Non",
+    "Suv",
+    "Go'sht",
+    "Choy"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Doktor deshkaning o'ng orasida qanday bog'lanish ko'rsatdi?",
+   "savol": "«Ложка» so'zi o'zbekchada nima?",
    "variantlar": [
-    "Deshka yomon",
-    "Deshka o'quv qiladi",
-    "Ona darscha beradi",
-    "O'zi biling qilishi kerak bo'lsa, ona tuzaladi"
+    "Likopcha",
+    "Choynak",
+    "Qoshiq",
+    "Sanchqi"
    ],
-   "togri": 3,
+   "togri": 2,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Ushbu hikoyalarning asosiy darsiga qaysi savolning javob?",
+   "savol": "«Масло» so'zi o'zbekchada nima?",
    "variantlar": [
-    "Ovqat ta'mli",
-    "O'ziga sharchasiga bilib olish muhim",
-    "Non qarang kerak",
-    "Ovqatni to'g'ri tayyorlash"
+    "Asal",
+    "Sariyog'",
+    "Pishloq",
+    "Tuz"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -279,18 +279,18 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Deshka o'ziga \"Men o'zim!\" deya boshladi, bunda nima natija bo'ldi?",
+   "savol": "«Тарелка» so'zi o'zbekchada nima?",
    "variantlar": [
-    "Deshka katta bo'ldi",
-    "Ona hafa bo'ldi",
-    "Ona bejasi bo'ldi, lekin tuzaldi",
-    "Deshka inson bo'ldi"
+    "Stakan",
+    "Qoshiq",
+    "Pichoq",
+    "Likopcha"
    ],
-   "togri": 2,
+   "togri": 3,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Ovqat vaqtida to'g'ri xattitur nima uchun muhim?",
+   "savol": "Ovqat vaqtida to'g'ri xulq nima uchun muhim?",
    "variantlar": [
     "Hech nima emas",
     "Salomatlik va tarbiya uchun",
@@ -326,7 +326,7 @@
    "savol": "Mektab stolovining asosiy qoidasi nima?",
    "variantlar": [
     "Tezda ovqalanish",
-    "To'g'ri xattitur va odam qilish",
+    "Odob bilan, to'g'ri ovqatlanish",
     "Ovqatni ko'p iste'mol qilish",
     "Shum-shun chiqarish"
    ],

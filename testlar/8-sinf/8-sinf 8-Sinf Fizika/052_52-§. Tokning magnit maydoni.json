@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "52-§. Tokning magnit maydoni",
+ "savollar": [
+  {
+   "savol": "Tokning magnit maydonini kim kashf etgan?",
+   "variantlar": [
+    "Kulon",
+    "Nyuton",
+    "Ersted",
+    "Om"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ersted tajribasi nimani ko'rsatdi?",
+   "variantlar": [
+    "Tok atrofida magnit maydon borligini",
+    "Tezlik",
+    "Harorat",
+    "Massa"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tokli to'g'ri o'tkazgich atrofida magnit kuch chiziqlari?",
+   "variantlar": [
+    "Parallel",
+    "To'g'ri chiziqlar",
+    "Konsentrik aylanalar",
+    "Nuqta"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Magnit maydon yo'nalishi qanday topiladi?",
+   "variantlar": [
+    "Nyuton",
+    "Kulon",
+    "Parma qoidasi",
+    "Om qonuni"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tok o'zgarsa, magnit maydon?",
+   "variantlar": [
+    "O'zgaradi",
+    "Nol",
+    "Yo'qoladi",
+    "O'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Solenoid nima?",
+   "variantlar": [
+    "Kalit",
+    "Lampa",
+    "G'altak (spiral shaklda o'ralgan sim)",
+    "Batareya"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Solenoid ichidagi maydon qanday?",
+   "variantlar": [
+    "Deyarli bir jinsli",
+    "Nol",
+    "O'zgaruvchan",
+    "Tartibsiz"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tokli g'altak magnitga qanday o'xshaydi?",
+   "variantlar": [
+    "Farq yo'q",
+    "Qutbsiz",
+    "Umuman farq",
+    "Qutblari bor"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tok yo'nalishi o'zgarsa magnit maydon yo'nalishi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "O'zgaradi",
+    "Aylanadi",
+    "Yo'qoladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tokli o'tkazgich atrofida kompas strelkasi?",
+   "variantlar": [
+    "Sovuydi",
+    "Aylanadi doim",
+    "Og'maydi",
+    "Og'adi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Parma qoidasi: parma dastasi tok yo'nalishida ilgarilanma harakatlanadi, dasta aylanishi nimani ko'rsatadi?",
+   "variantlar": [
+    "Magnit maydon yo'nalishini",
+    "Kuchlanishni",
+    "Tokni",
+    "Massani"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Solenoid qutblarini aniqlash qoidasi?",
+   "variantlar": [
+    "Chap qo'l qoidasi",
+    "Om",
+    "Kulon",
+    "O'ng qo'l qoidasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Solenoid magnit maydoni tok kuchiga qanday bog'liq?",
+   "variantlar": [
+    "Nol",
+    "Bog'liq emas",
+    "Tok oshsa kuchayadi",
+    "Kamayadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Solenoid maydoni o'ramlar soniga qanday bog'liq?",
+   "variantlar": [
+    "Nol",
+    "Bog'liq emas",
+    "O'ramlar ko'p bo'lsa kuchayadi",
+    "Kamayadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Solenoid ichiga temir o'zak kiritilsa maydon?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Keskin kuchayadi",
+    "Nol",
+    "Kamayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tokli to'g'ri o'tkazgichdan uzoqlashsa maydon?",
+   "variantlar": [
+    "Kuchsizlanadi",
+    "O'zgarmaydi",
+    "Nol",
+    "Kuchayadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki parallel tokli o'tkazgich (bir yo'nalishda) o'zaro?",
+   "variantlar": [
+    "Ta'sir qilmaydi",
+    "Itarishadi",
+    "Tortishadi",
+    "Aylanadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki parallel tokli o'tkazgich (qarama-qarshi yo'nalishda) o'zaro?",
+   "variantlar": [
+    "Aylanadi",
+    "Tortishadi",
+    "Ta'sir qilmaydi",
+    "Itarishadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ersted tajribasi qaysi yili o'tkazilgan?",
+   "variantlar": [
+    "1620",
+    "1920",
+    "1720",
+    "1820"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Amper qanday fikr bildirgan?",
+   "variantlar": [
+    "Kuch",
+    "Massa",
+    "Yo'nalish",
+    "Magnit hodisalar aylanma toklar bilan bog'liq"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tokli to'g'ri simda tok yuqoridan pastga. Sim yonida maydon yo'nalishi? (yuqoridan qaralganda)",
+   "variantlar": [
+    "Soat strelkasi bo'yicha (parma qoidasi bo'yicha)",
+    "Soat strelkasiga qarshi",
+    "Tik",
+    "Yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Solenoid uchlaridan biri shimoliy qutb bo'ladi, qaysi qoida bilan aniqlanadi?",
+   "variantlar": [
+    "Kulon",
+    "Om qonuni",
+    "O'ng qo'l: barmoqlar tok bo'ylab, bosh barmoq N ni ko'rsatadi",
+    "Chap qo'l"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Solenoid o'rami 2 marta ortsa (uzunlik bir xil), B?",
+   "variantlar": [
+    "4 marta ortadi",
+    "2 marta kamayadi",
+    "2 marta ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Solenoidda tok 3 marta ortsa B?",
+   "variantlar": [
+    "3 marta ortadi",
+    "9 marta ortadi",
+    "O'zgarmaydi",
+    "3 marta kamayadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tok yo'nalishini teskarilaganda solenoid qutblari?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Almashadi",
+    "Yo'qoladi",
+    "Ikkalasi N"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tokli sim atrofida maydon B qanday kamayadi (masofa r ortsa)?",
+   "variantlar": [
+    "B ∼ r",
+    "B ∼ 1/r²",
+    "B ∼ r²",
+    "B ∼ 1/r"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ersted tajribasida tokni o'chirsak strelka?",
+   "variantlar": [
+    "Dastlabki holatiga qaytadi",
+    "Sovuydi",
+    "Aylanadi",
+    "Og'ib qoladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sim halqa shaklida bo'lsa uning markazidagi maydon?",
+   "variantlar": [
+    "Aylana",
+    "Halqa tekisligiga perpendikulyar",
+    "Nol",
+    "Tekislikda"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Magnit strelka tokli simning yuqorisida va pastida qanday og'adi?",
+   "variantlar": [
+    "Qarama-qarshi tomonlarga",
+    "Og'maydi",
+    "Aylanadi",
+    "Bir tomonga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tokli sim yonida temir o'zak qo'yilsa, maydon?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Kuchayadi",
+    "Nol",
+    "Kamayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

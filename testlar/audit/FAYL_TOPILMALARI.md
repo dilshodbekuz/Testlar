@@ -1,0 +1,150 @@
+# Fayl va jamlanma holatlari
+
+Bir xil raqamli ikki mavzu yoki jamlanmaga kirmagan fayl avtomatik ravishda o‘chirilmasligi kerak: ular boshqa nashr yoki versiyaga tegishli bo‘lishi mumkin. Qaysi nashr asosiy ekanini darslik bilan aniqlash zarur.
+
+- [3-sinf/3-sinf 3-Sinf Ingliz tili](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Ingliz tili>): Alohida mavzu JSON testlari yo‘q
+- [3-sinf/3-sinf 3-Sinf Ona tili](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Ona tili>): Alohida mavzu JSON testlari yo‘q
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 87 ta alohida fayl tarkibi jamlanmada yo‘q; 0 ta jamlanma yozuvi alohida fayllarda yo‘q
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 001: 001_Biz buyuk yurt farzandimiz.json; 001_Vatan madhi.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 002: 002_Yangi uy.json; 002_Yurtim jamoli.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 003: 003_Vàtàn desam....json; 003_Yangi uy.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 004: 004_Amudaryoni va Zarafshon.json; 004_Vàtàn desam....json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 005: 005_Bîr ûchôk suv halos ekanmi.json; 005_Mahallam ajib ko'rkam.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 006: 006_Bugun bîlàsiz, ertàgà àskàr bo'làsiz.json; 006_Vatan ostonadan boshlanadi.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 007: 007_Kuz saxovati.json; 007_Saxovatli kuz.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 009: 009_Kabutarni tutib kelish.json; 009_Oppoq-oppoq laylak qor.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 011: 011_Xàzînchinàk.json; 011_Õàzînchinàk.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 012: 012_Hosil bayramini bolalar.json; 012_Oltin kuzim.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 013: 013_Oltin kuzim.json; 013_Qizcha va qarg'alar.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 014: 014_Kitob, mening do'stimsan.json; 014_Qizcha va qarg'alar.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 015: 015_Kitob, mening do'stimsan.json; 015_Vaqting ketdi – naqding ketdi.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 016: 016_Ona tilim.json; 016_Vaqting ketdi – naqding ketdi.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 017: 017_Donishmand quyon va kichkina iyelar.json; 017_Xo'roz va Tongli qush.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 018: 018_Hisobda adashgan bola.json; 018_Jumboq hikoya.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 019: 019_Hunàrni såv.json; 019_Jumboq hikoya.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 020: 020_Hunarga oid ertak.json; 020_Hunàrni såv.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 021: 021_Ilmning omonati.json; 021_Mohir qo'llar qo'shig'i.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 022: 022_Bîbîngiz õàfà bo'lsàlàr màylimi.json; 022_Ilmning omonati.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 023: 023_Bîbîniz õàfà bo'lsàlàr màylimi.json; 023_O'n tilla mukofot haqida ertak.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 024: 024_Go'zal qish manzarasi.json; 024_O'n tilla mukofot haqida ertak.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 025: 025_Kumush fasl.json; 025_Qor alyori.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 026: 026_Chànà.json; 026_Qor alyori.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 027: 027_Bosh qomus kitobimiz.json; 027_Chànà.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 028: 028_G'uborsiz havo.json; 028_Tulkiõîn va quyon.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 029: 029_Bosh qomus kitobimiz.json; 029_Momiq qor.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 030: 030_Qorparcha.json; 030_Tulkining hiylasi.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 031: 031_Do'sti.json; 031_Qorboboga elektron maktub.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 032: 032_Laylak qor.json; 032_Vatanimga xizmat qilaman.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 033: 033_Balli buva.json; 033_Momiq qor.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 034: 034_Bugun bîlàsiz, ertàgà àskàr bo'làsiz.json; 034_Qorparcha.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 035: 035_Sport maktabi.json; 035_Àyamàjiz.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 036: 036_Notinch mamlakatlarda.json; 036_Qorboboga elektron maktub.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 037: 037_Archa ko'ki.json; 037_Jasurbek.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 038: 038_Qutadg'u bilig hikmatlari.json; 038_Vatanimga xizmat qilaman.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 039: 039_Balli buva.json; 039_Jaloliddin Mangubardi.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 040: 040_Bugun bîlàsiz, ertàgà àskàr bo'làsiz (Suhbat).json; 040_Ona va Amir Temur.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 041: 041_So'nggi damgacha.json; 041_Sport maktabi.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 042: 042_Bolari bilan Pashsha.json; 042_Qishlîq yigitlàri.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 043: 043_Alisher Naviy.json; 043_Notinch mamlakatlarda.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 044: 044_Baxilning yomonligi.json; 044_Rolda tulki.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 045: 045_Qutadg'u bilig hikmatlari.json; 045_Zog'cha va Tulki.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 046: 046_Donoga ergashgan dovondan oshar.json; 046_O'yin qo'shiqlari.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 047: 047_Maqollar.json; 047_So'nggi damgacha.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 048: 048_Bolari bilan Pashsha.json; 048_Topishmoqlar.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 049: 049_Alisher Naviy.json; 049_Qushlar.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 050: 050_Halollik.json; 050_Otalar so'zi – aqlning ko'zi.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 051: 051_Baxilning yomonligi.json; 051_Donishmand yigit.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 052: 052_Ahillik – ulug' baxt.json; 052_Zog'cha va Tulki.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 053: 053_Siz bunga qodirsiz.json; 053_Zahardin Muhammadi.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 054: 054_Bàhîr yaqin.json; 054_O'yin qo'shiqlari.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 055: 055_Oyijonlar, onalar.json; 055_Zum...m....json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 056: 056_Arra-marra.json; 056_Bo'rin, Jala, Daryo va Quyosh.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 057: 057_Atalangan maqolar.json; 057_Bahor keldi.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 058: 058_Rashid.json; 058_Topishmoq.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 059: 059_Qush va uning bolalari.json; 059_Sîy suvi haqida ertak.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 060: 060_Hàlîllik.json; 060_Terak va o'zgarish.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 061: 061_Dînishmànd yigit.json; 061_Myunxauzenning boshidan kechirganlari.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 062: 062_Moychechak.json; 062_Àhillik – ulug' bàõt.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 063: 063_Siz bunga qodirsiz.json; 063_Uch aka va Baxt.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 064: 064_Bàhîr yaqin.json; 064_Kasblarning rangi.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 065: 065_Oyijonlar, onalar.json; 065_Pinokkioning sarguzashtlari.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 066: 066_Bahs.json; 066_Do'stlik va hamkorlik.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 067: 067_Bahor keldi.json; 067_Karlson va Mittivoy.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 068: 068_Dog'da qolgan qarg'a.json; 068_Rashidning burguti.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 069: 069_Sîy suvi hàqidà ertàk.json; 069_Tilak.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 070: 070_Nikita va Umidjon.json; 070_Terakning hikoyasi.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 071: 071_Do'stlik.json; 071_Myunxauzenning boshidan kechirganlari.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 072: 072_Moychechak.json; 072_Qon berish.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 073: 073_Tinchlik ko'chasi.json; 073_Uch aka.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 074: 074_Oq tumshuq jasorati.json; 074_Pinokkioning sarguzashtlari.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 075: 075_Bahs.json; 075_Vatan haqida qo'shiq.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 076: 076_Karlson bilan Mittivoy.json; 076_Yoz zavqi.json
+- [3-sinf/3-sinf 3-Sinf O‘qish](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf O‘qish>): 077: 077_Dog'da qolgan qarg'a.json; 077_Ilonchaning tug'ilgan kuni.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 31 ta alohida fayl tarkibi jamlanmada yo‘q; 0 ta jamlanma yozuvi alohida fayllarda yo‘q
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 008: 008_Foydali qazilmalar qanday hosil bo'ladi.json; 008_Qora va rangli metallar.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 009: 009_Granit va boshqa tosh.json; 009_Qora va rangli metallar.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 010: 010_Foydali qazilmalardan oqilona foydalanish.json; 010_Granit.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 011: 011_Ohaktosh.json; 011_Tuproq. Uning tuzilishi.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 012: 012_Foydali qazilmalardan oqilona foydalanish.json; 012_O'tlar.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 013: 013_Daraxtlar.json; 013_Tuproq. Uning tuzilishi.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 014: 014_G'o'za.json; 014_Tuproq va jonli tabiat.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 015: 015_Bug'doy.json; 015_O'tlar.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 016: 016_Daraxtlar.json; 016_Makkajo'xori.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 017: 017_G'o'za.json; 017_Kartoshka.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 018: 018_Bug'doy va qora don.json; 018_Karam va pomidor.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 019: 019_Kartoshka va sabzavotlar.json; 019_Qulupnay.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 020: 020_Begona o'simliklar.json; 020_Qulupnay.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 021: 021_Begona o'simliklar.json; 021_Poliz ekinlari.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 022: 022_Mevali daraxtlar.json; 022_Poliz ekinlari.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 023: 023_Manzarali daraxtlar va butalar.json; 023_Mevali daraxtlar.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 024: 024_Maktab gulzorida.json; 024_Manzarali daraxtlar va butalar.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 025: 025_Dorivor o'simliklar.json; 025_Maktab gulzorida.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 026: 026_Dorivor o'simliklar.json; 026_Tut daraxti. Ipak qurti.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 027: 027_Hayvonot olami va uning xilma-xilligi. Yovvoyi hayvonlar. Yi.json; 027_Tut daraxti.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 028: 028_Ipak qurti.json; 028_Zarar keltiruvchi hasharotlar.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 029: 029_Hasharotxo'r qushlar.json; 029_Yovvoyi hayvonlar. Yirtqich hayvonlar.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 030: 030_Chuvalchangsimon hayvonlar.json; 030_Uy parrandalari.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 031: 031_Hasharotxo'r qushlar.json; 031_Uy hayvonlari.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 032: 032_Suvda yashaydigan hayvonlar.json; 032_Uy parrandalari.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 033: 033_Odam tanasi.json; 033_Uy hayvonlari.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 034: 034_Odam skeleti.json; 034_Suvda yashaydigan hayvonlar.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 035: 035_Odam yuragi.json; 035_Oziqa zanjiri.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 036: 036_Odam miyasi. Hazm qilish a'zolari.json; 036_Odam tanasi.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 037: 037_Insonning tabiatga ta'siri.json; 037_Odam skeleti.json
+- [3-sinf/3-sinf 3-Sinf Tabiatshunoslik](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tabiatshunoslik>): 038: 038_Tabiat muhofazasi.json; 038_Yurak va qonning aylanishi.json
+- [3-sinf/3-sinf 3-Sinf Tarbiya](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tarbiya>): 1 ta alohida fayl tarkibi jamlanmada yo‘q; 0 ta jamlanma yozuvi alohida fayllarda yo‘q
+- [3-sinf/3-sinf 3-Sinf Tarbiya](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tarbiya>): 008: 008_8–9-MAVZULAR VAQNING KETDI – BAXTING KETDI.json; 008_8–9-MAVZULAR VAQTING KETDI – BAXTING KETDI.json
+- [3-sinf/3-sinf 3-Sinf Tasviriy san’at](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tasviriy san’at>): 17 ta alohida fayl tarkibi jamlanmada yo‘q; 0 ta jamlanma yozuvi alohida fayllarda yo‘q
+- [3-sinf/3-sinf 3-Sinf Tasviriy san’at](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tasviriy san’at>): 002: 002_O'zbekiston — mening Vatanim mavzusida rasm ishlash.json; 002_«O'ZBEKISTON — MENING VATANIM» MAVZUSIDA RASM ISHLASH.json
+- [3-sinf/3-sinf 3-Sinf Tasviriy san’at](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tasviriy san’at>): 003: 003_Yoz o'tdi soz mavzusida rasm ishlash.json; 003_«YOZ O'TDI SOZ» MAVZUSIDA RASM ISHLASH.json
+- [3-sinf/3-sinf 3-Sinf Tasviriy san’at](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tasviriy san’at>): 009: 009_Tog'da kuz mavzusida rasm ishlash.json; 009_«TOG'DA KUZ» MAVZUSIDA RASM ISHLASH.json
+- [3-sinf/3-sinf 3-Sinf Tasviriy san’at](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tasviriy san’at>): 010: 010_ORALIQ NAZORAT DARSI.json; 010_Tabiiy materiallardan applikatsiya ishlash.json
+- [3-sinf/3-sinf 3-Sinf Tasviriy san’at](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tasviriy san’at>): 011: 011_Kech kuz mavzusida rasm ishlash.json; 011_TABIIY MATERIALLARDAN APPLIKATSIYA ISHLASH.json
+- [3-sinf/3-sinf 3-Sinf Tasviriy san’at](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tasviriy san’at>): 012: 012_Toshbaqa bilan chayon masali asosida rasm ishlash.json; 012_«KECH KUZ» MAVZUSIDA RASM ISHLASH.json
+- [3-sinf/3-sinf 3-Sinf Tasviriy san’at](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tasviriy san’at>): 013: 013_Nasriddin Afandi mavzusida haykal ishlash.json; 013_«TOSHBAQA BILAN CHAYON» MASALI ASOSIDA RASM ISHLASH.json
+- [3-sinf/3-sinf 3-Sinf Tasviriy san’at](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tasviriy san’at>): 014: 014_Dorboz bola mavzusida rasm ishlash.json; 014_«NASRIDDIN AFANDI» MAVZUSIDA HAYKAL ISHLASH.json
+- [3-sinf/3-sinf 3-Sinf Tasviriy san’at](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tasviriy san’at>): 015: 015_O'lkamizda qish mavzusida rasm ishlash.json; 015_«DORBOZ BOLA» MAVZUSIDA RASM ISHLASH.json
+- [3-sinf/3-sinf 3-Sinf Tasviriy san’at](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tasviriy san’at>): 016: 016_Qishki o'yinlar mavzusida rasm ishlash.json; 016_«O'LKAMIZDA QISH» MAVZUSIDA RASM ISHLASH.json
+- [3-sinf/3-sinf 3-Sinf Tasviriy san’at](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tasviriy san’at>): 017: 017_Me'moriy naqsh ishlash.json; 017_ORALIQ NAZORAT DARSI.json
+- [3-sinf/3-sinf 3-Sinf Tasviriy san’at](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tasviriy san’at>): 018: 018_Hayvonot bog'ida mavzusida rasm ishlash.json; 018_«QISHKI O'YINLAR» MAVZUSIDA RASM ISHLASH.json
+- [3-sinf/3-sinf 3-Sinf Tasviriy san’at](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tasviriy san’at>): 019: 019_ME'MORIY NAQSH ISHLASH.json; 019_Oltin tarvuz ertagi asosida rasm ishlash.json
+- [3-sinf/3-sinf 3-Sinf Tasviriy san’at](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tasviriy san’at>): 020: 020_Natyurmort rasmini ishlash.json; 020_«HAYVONOT BOG'IDA» MAVZUSIDA RASM ISHLASH.json
+- [3-sinf/3-sinf 3-Sinf Tasviriy san’at](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tasviriy san’at>): 021: 021_Tulki va turna ertagi asosida haykal ishlash.json; 021_«OLTIN TARVUZ» ERTAGI ASOSIDA RASM ISHLASH.json
+- [3-sinf/3-sinf 3-Sinf Tasviriy san’at](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tasviriy san’at>): 022: 022_NATYURMORT RASMINI ISHLASH.json; 022_Tennischi mavzusida rasm ishlash.json
+- [3-sinf/3-sinf 3-Sinf Tasviriy san’at](</Users/dilshodbek/Desktop/Testlar/testlar/3-sinf/3-sinf 3-Sinf Tasviriy san’at>): 024: 024_Navro'z bayrami tabriknomasini ishlash.json; 024_«TENNISCHI» MAVZUSIDA RASM ISHLASH.json
+- [4-sinf/4-sinf 4-Sinf Ingliz tili](</Users/dilshodbek/Desktop/Testlar/testlar/4-sinf/4-sinf 4-Sinf Ingliz tili>): Alohida mavzu JSON testlari yo‘q
+- [6-sinf/6-sinf 6-Sinf Botanika](</Users/dilshodbek/Desktop/Testlar/testlar/6-sinf/6-sinf 6-Sinf Botanika>): Alohida mavzu JSON testlari yo‘q
+- [6-sinf/6-sinf 6-Sinf Musiqa](</Users/dilshodbek/Desktop/Testlar/testlar/6-sinf/6-sinf 6-Sinf Musiqa>): Alohida mavzu JSON testlari yo‘q
+- [6-sinf/6-sinf 6-Sinf Tasviriy san’at](</Users/dilshodbek/Desktop/Testlar/testlar/6-sinf/6-sinf 6-Sinf Tasviriy san’at>): Alohida mavzu JSON testlari yo‘q
+- [7-sinf/7-sinf 7-Sinf Musiqa](</Users/dilshodbek/Desktop/Testlar/testlar/7-sinf/7-sinf 7-Sinf Musiqa>): Alohida mavzu JSON testlari yo‘q
+- [7-sinf/7-sinf 7-Sinf Tasviriy san’at](</Users/dilshodbek/Desktop/Testlar/testlar/7-sinf/7-sinf 7-Sinf Tasviriy san’at>): Alohida mavzu JSON testlari yo‘q
+- [8-sinf/8-sinf 8-Sinf Adabiyot](</Users/dilshodbek/Desktop/Testlar/testlar/8-sinf/8-sinf 8-Sinf Adabiyot>): Alohida mavzu JSON testlari yo‘q
+- [8-sinf/8-sinf 8-Sinf Algebra](</Users/dilshodbek/Desktop/Testlar/testlar/8-sinf/8-sinf 8-Sinf Algebra>): Alohida mavzu JSON testlari yo‘q
+- [8-sinf/8-sinf 8-Sinf Chizmachilik](</Users/dilshodbek/Desktop/Testlar/testlar/8-sinf/8-sinf 8-Sinf Chizmachilik>): Alohida mavzu JSON testlari yo‘q
+- [8-sinf/8-sinf 8-Sinf Fizika](</Users/dilshodbek/Desktop/Testlar/testlar/8-sinf/8-sinf 8-Sinf Fizika>): Alohida mavzu JSON testlari yo‘q
+- [8-sinf/8-sinf 8-Sinf O‘zbekiston tarixi](</Users/dilshodbek/Desktop/Testlar/testlar/8-sinf/8-sinf 8-Sinf O‘zbekiston tarixi>): Alohida mavzu JSON testlari yo‘q
+- [8-sinf/8-sinf 8-Sinf biologiya (Odam va uning salomatligi)](</Users/dilshodbek/Desktop/Testlar/testlar/8-sinf/8-sinf 8-Sinf biologiya (Odam va uning salomatligi)>): Alohida mavzu JSON testlari yo‘q
+- [9-sinf/9-sinf 9-Sinf Algebra](</Users/dilshodbek/Desktop/Testlar/testlar/9-sinf/9-sinf 9-Sinf Algebra>): Alohida mavzu JSON testlari yo‘q
+- [9-sinf/9-sinf 9-Sinf Fizika](</Users/dilshodbek/Desktop/Testlar/testlar/9-sinf/9-sinf 9-Sinf Fizika>): Alohida mavzu JSON testlari yo‘q
+- [9-sinf/9-sinf 9-Sinf Jahon tarixi](</Users/dilshodbek/Desktop/Testlar/testlar/9-sinf/9-sinf 9-Sinf Jahon tarixi>): Alohida mavzu JSON testlari yo‘q
+- [9-sinf/9-sinf 9-Sinf Ona tili](</Users/dilshodbek/Desktop/Testlar/testlar/9-sinf/9-sinf 9-Sinf Ona tili>): _TOLIQ.json jamlanmasi yo‘q yoki ro‘yxat emas

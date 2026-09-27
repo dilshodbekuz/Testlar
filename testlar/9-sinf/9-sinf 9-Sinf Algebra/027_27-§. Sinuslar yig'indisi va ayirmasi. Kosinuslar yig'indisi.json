@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Algebra",
+ "mavzu": "27-§. Sinuslar yig'indisi va ayirmasi. Kosinuslar yig'indisi va ayirmasi",
+ "savollar": [
+  {
+   "savol": "sin α + sin β = ?",
+   "variantlar": [
+    "2 sin((α + β)/2) sin((α − β)/2)",
+    "2 cos((α + β)/2) cos((α − β)/2)",
+    "2 sin((α + β)/2) cos((α − β)/2)",
+    "sin(α + β)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sin α − sin β = ?",
+   "variantlar": [
+    "2 cos((α − β)/2) cos((α + β)/2)",
+    "sin(α − β)",
+    "2 sin((α − β)/2) cos((α + β)/2)",
+    "2 cos((α − β)/2) sin((α + β)/2)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "cos α + cos β = ?",
+   "variantlar": [
+    "2 cos((α + β)/2) cos((α − β)/2)",
+    "2 sin((α + β)/2) sin((α − β)/2)",
+    "2 sin((α + β)/2) cos((α − β)/2)",
+    "cos(α + β)"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "cos α − cos β = ?",
+   "variantlar": [
+    "−2 sin((α + β)/2) sin((α − β)/2)",
+    "2 sin((α + β)/2) sin((α − β)/2)",
+    "2 cos((α + β)/2) cos((α − β)/2)",
+    "cos(α − β)"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bu formulalar yig'indini nimaga aylantiradi?",
+   "variantlar": [
+    "Bo'linmaga",
+    "Ko'paytmaga",
+    "Ayirmaga",
+    "Darajaga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sin 30° + sin 30° = ?",
+   "variantlar": [
+    "0",
+    "1/2",
+    "1",
+    "2"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "cos 0° + cos 0° = ?",
+   "variantlar": [
+    "2",
+    "1",
+    "0",
+    "1/2"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sin α + sin α = ?",
+   "variantlar": [
+    "sin 2α",
+    "0",
+    "sin²α",
+    "2 sin α"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "cos α − cos α = ?",
+   "variantlar": [
+    "2 cos α",
+    "cos 2α",
+    "0",
+    "1"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sin 90° + sin 30° = ?",
+   "variantlar": [
+    "3/2",
+    "1",
+    "2",
+    "1/2"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sin 75° + sin 15° = ?",
+   "variantlar": [
+    "√2/2",
+    "1/2",
+    "1",
+    "√6/2"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sin 75° − sin 15° = ?",
+   "variantlar": [
+    "√2/2",
+    "√6/2",
+    "1/2",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "cos 75° + cos 15° = ?",
+   "variantlar": [
+    "√6/2",
+    "√2/2",
+    "1/2",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "cos 15° − cos 75° = ?",
+   "variantlar": [
+    "√6/2",
+    "√2/2",
+    "1",
+    "1/2"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sin 50° + sin 10° = ?",
+   "variantlar": [
+    "sin 60°",
+    "1",
+    "cos 20°",
+    "sin 20°"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "cos 50° + cos 10° = ?",
+   "variantlar": [
+    "sin 20°",
+    "√3 cos 20°",
+    "cos 60°",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sin 3x + sin x = ?",
+   "variantlar": [
+    "sin 4x",
+    "2 sin 2x cos x",
+    "2 sin 2x sin x",
+    "2 cos 2x sin x"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "cos 3x + cos x = ?",
+   "variantlar": [
+    "2 sin 2x cos x",
+    "2 sin 2x sin x",
+    "2 cos 2x cos x",
+    "cos 4x"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sin 3x − sin x = ?",
+   "variantlar": [
+    "sin 2x",
+    "2 sin 2x sin x",
+    "2 sin 2x cos x",
+    "2 cos 2x sin x"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "cos x − cos 3x = ?",
+   "variantlar": [
+    "cos 2x",
+    "2 sin 2x sin x",
+    "−2 sin 2x sin x",
+    "2 cos 2x cos x"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(sin 5x + sin x)/(cos 5x + cos x) = ?",
+   "variantlar": [
+    "tg 3x",
+    "1",
+    "tg 2x",
+    "ctg 3x"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(sin 3x − sin x)/(cos 3x + cos x) = ?",
+   "variantlar": [
+    "1",
+    "tg x",
+    "ctg x",
+    "tg 2x"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(cos x − cos 3x)/(sin 3x + sin x) = ?",
+   "variantlar": [
+    "tg x",
+    "ctg x",
+    "tg 2x",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "sin 20° + sin 40° − sin 80° = ?",
+   "variantlar": [
+    "0",
+    "1/2",
+    "√3/2",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "cos 20° + cos 100° + cos 140° = ?",
+   "variantlar": [
+    "1",
+    "0",
+    "1/2",
+    "−1/2"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "sin 105° + sin 15° = ?",
+   "variantlar": [
+    "1/2",
+    "1",
+    "√6/2",
+    "√2/2"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "sin 4x + sin 2x = ?",
+   "variantlar": [
+    "sin 6x",
+    "2 sin 3x cos x",
+    "2 cos 3x sin x",
+    "2 sin 3x sin x"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "cos 5x − cos 3x = ?",
+   "variantlar": [
+    "−2 sin 4x sin x",
+    "−2 cos 4x cos x",
+    "2 sin 4x sin x",
+    "cos 2x"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "sin α + sin(α + 120°) + sin(α + 240°) = ?",
+   "variantlar": [
+    "0",
+    "3 sin α",
+    "1",
+    "sin α"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "cos 36° − cos 72° = ?",
+   "variantlar": [
+    "√5/4",
+    "1/4",
+    "1/2",
+    "1"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -50,7 +50,7 @@
   {
    "savol": "Qor bosgan dalalarda qanday qushlar qo'nim topgan?",
    "variantlar": [
-    "Qushqarlar",
+    "Laylaklar",
     "O'rdaklar",
     "Papug'alar",
     "Qarg'alar"
@@ -92,14 +92,14 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "«O'lkamizda qish» mavzusi qaysi betlarda joylashgan?",
+   "savol": "Qishda qaysi qush issiq o'lkalarga uchib ketmaydi?",
    "variantlar": [
-    "72-betda",
-    "73-betda",
-    "70-betda",
-    "71-betda"
+    "Qarg'a",
+    "Laylak",
+    "Qaldirg'och",
+    "Turna"
    ],
-   "togri": 3,
+   "togri": 0,
    "qiyinlik": "oson"
   },
   {
@@ -108,7 +108,7 @@
     "Qushlarning xushiyalari",
     "Qushlarning ovozi",
     "Qushlarning qiyin ahvoli",
-    "Qushlarning raqslar"
+    "Qushlarning raqsi"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -125,14 +125,14 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Matni asosida qish faslining xususiyatlari necha turli ta'riflanadi?",
+   "savol": "Qishki manzarada qaysi rang kam ishlatiladi?",
    "variantlar": [
-    "5 ta",
-    "8 ta",
-    "10 ta",
-    "3 ta"
+    "Oq",
+    "Havorang",
+    "Kulrang",
+    "Yorqin yashil"
    ],
-   "togri": 1,
+   "togri": 3,
    "qiyinlik": "o'rtacha"
   },
   {
@@ -163,7 +163,7 @@
     "Bolaning ishiga",
     "Shamolning ta'siri natijasida",
     "Ayozning ta'siri natijasida",
-    "Rassomning qolamiga"
+    "Rassomning qalamiga"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -195,7 +195,7 @@
    "variantlar": [
     "Oy nurining ko'rinishi",
     "Qushlarning harakati",
-    "Tabiating sovuq holati",
+    "Tabiatning sovuq holati",
     "Budaklar ko'rinishi"
    ],
    "togri": 2,
@@ -226,10 +226,10 @@
   {
    "savol": "Matni o'qib, qish faslining xususiyatlari va rasm chizishda qaysi elementlarni ishlatish mumkin?",
    "variantlar": [
-    "Mos shamol, shina, ko'k ranglar; bolalar, mashinalar",
+    "Issiq shamol, qum, sariq ranglar",
     "Sovuq, qor, oq ranglar; daraxtlar, dala, tog'lar",
-    "Issiq, tuproq, qora ranglar; bugunlar, o'tlar",
-    "Sal shamol, qum, sariq ranglar; su, tosh"
+    "Yashil o'tlar, gullar",
+    "Dengiz, qum, quyosh"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -238,9 +238,9 @@
    "savol": "Ertalabki quyosh nurlarining «kuchsiz» va «zarrin» bo'lishi qaysi vaqtning belgisi?",
    "variantlar": [
     "Kechasi",
-    "Kunni ortasida",
-    "Kunni boshida",
-    "Kunni oxirida"
+    "Kunning o'rtasida",
+    "Kunning boshida",
+    "Kunning oxirida"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -281,7 +281,7 @@
   {
    "savol": "She'rning «Qush inida qor, Ingrar og'riq kabi qari tol» qatorlari matni qaysi jihati bilan bog'lanadi?",
    "variantlar": [
-    "Tabianing isitilishi bilan",
+    "Tabiatning isishi bilan",
     "Qushlarning sevinchlari bilan",
     "Qushlar va tabiating qishi azobi, qor bosgan dala bilan",
     "Oy nurining rang bilan"
@@ -290,14 +290,14 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Ayozining uy derazalariga naqsh chizish jarayoni matni asosida kimga foyda beradi?",
+   "savol": "Derazadagi ayoz naqshlari nimani ko'rsatadi?",
    "variantlar": [
-    "Rasmchilarga to'siq qiladi",
-    "Shaharning hammasiga",
-    "Ko'nuvchlarga, yangi tasvir bermasi",
-    "Hayvonlarga"
+    "Havo juda sovuqligini",
+    "Havo issiqligini",
+    "Yomg'ir yog'ayotganini",
+    "Bahor kelganini"
    ],
-   "togri": 2,
+   "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
@@ -306,7 +306,7 @@
     "Ikkalasi ham issiq",
     "Ikkalasi ham qiyin",
     "Ikkalasi ham qora",
-    "Ikkalasi ham oq va harkat bilan bog'liq"
+    "Ikkalasi ham qishning sovuq va qorli ekanini ko'rsatadi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -314,9 +314,9 @@
   {
    "savol": "«Osmon to'q zangori tusga kirgan» matni asosida qaysi vaqtni anglatadi?",
    "variantlar": [
-    "Fullayotgan kunni, akshom",
+    "Kechqurunni",
     "Kunni ortasida",
-    "Qishalayotgan kunni, ertalabki vaqtni",
+    "Qishki kunning ertalabki vaqtini",
     "To'liq tunni"
    ],
    "togri": 2,

@@ -31,7 +31,7 @@
     "Har bir buyuk ish orzu qilishdan boshlanadi",
     "Hamma kishi o'qituvchi bo'lishi kerak",
     "Maktabning binosi katta bo'lishi kerak",
-    "Xo'pning ishlashi muhim"
+    "Faqat ko'p ishlash muhim"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -62,7 +62,7 @@
    "savol": "\"Hunar – hunardan rizqing unar\" maqoli nima uchun aytiladi?",
    "variantlar": [
     "Hamma hunari o'rganish kerak",
-    "Hunar bilish muhim va inson pul keltiradi",
+    "Hunarli inson o'z rizqini topadi",
     "Hunar o'rganish juda qiyin",
     "Hunar vaqtni o'tkazishga yordam beradi"
    ],
@@ -81,7 +81,7 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "\"Har bir buyuk ish\" kimdan boshlanadi?",
+   "savol": "\"Har bir buyuk ish\" nimadan boshlanadi?",
    "variantlar": [
     "Pul topishdan",
     "Orzu qilishdan",
@@ -114,14 +114,14 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Siz katta bo'lsangiz qanday kasbni tanlashni xohlaysiz?",
+   "savol": "Kasb tanlayotganda insonlarga eng ko'p yordam beradigan narsa nima?",
    "variantlar": [
-    "Ko'p kasbning muhimi haqida o'ylash kerak",
-    "Faqat bitta kasb",
-    "Faqat o'qituvchi",
-    "Bilmaydi"
+    "Faqat mashhurlikka intilish",
+    "Shaxsiy qiziqish va qobiliyatga tayanish",
+    "Faqat oilaning fikriga qarash",
+    "Faqat pul topishni o'ylash"
    ],
-   "togri": 0,
+   "togri": 1,
    "qiyinlik": "o'rtacha"
   },
   {
@@ -151,7 +151,7 @@
    "variantlar": [
     "Hamma kasb bir xil",
     "Faqat pul",
-    "Shaxsiy qiziqish va kabiliyet",
+    "Shaxsiy qiziqish va qobiliyat",
     "Boshqa kishing tavsiyasi"
    ],
    "togri": 2,
@@ -237,7 +237,7 @@
   {
    "savol": "\"Yulduzlarga yetgulik kuch, sabr va ishtiyoq\" bo'lish uchun nima kerak?",
    "variantlar": [
-    "Doim o'rganish, harakat qilish va talab bo'lish",
+    "Doim o'rganish, harakat qilish va talabchan bo'lish",
     "Faqat pul",
     "Faqat taqdir",
     "Hech qanday ta'sir yo'q"
@@ -260,7 +260,7 @@
    "savol": "Buyuk orzu qanday haqiqatga aylanadi?",
    "variantlar": [
     "Hech qachon haqiqatga aylana olmaydi",
-    "Harakat, sabr va ishtiyoq orqasida",
+    "Harakat, sabr va ishtiyoq orqali",
     "Faqat taqdir orqasida",
     "Orzu qilsa yetarli"
    ],
@@ -270,10 +270,10 @@
   {
    "savol": "Dunyoni o'zgartirish mumkinmi va qanday?",
    "variantlar": [
-    "Faqat boy bo'lgan kishi o'zgartirar aladi",
-    "Faqat davlat o'zgartirar aladi",
+    "Faqat boy kishi o'zgartira oladi",
+    "Faqat davlat o'zgartira oladi",
     "Yo'q, mumkin emas",
-    "Ha, mumkin – kasb va hunarni rivojlantirish orqasida"
+    "Ha, mumkin — kasb va hunarni rivojlantirish orqali"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -282,7 +282,7 @@
    "savol": "Kasb va hunarmandchilik o'rtasida nima farq bor?",
    "variantlar": [
     "Hunarmandchilik faqat o'zbek uchun",
-    "Kasb har qanday ish, hunarmandchilik – ko'l sanoati va an'anaviy ish",
+    "Kasb — har qanday ish, hunarmandchilik — qo'l mehnati bilan an'anaviy buyumlar yaratish",
     "Kasb faqat zamonaviy kasblar",
     "Hech qanday farq yo'q"
    ],
@@ -292,7 +292,7 @@
   {
    "savol": "Nima uchun 3-sinf o'quvchilariga kasb haqida o'rgatish muhim?",
    "variantlar": [
-    "Davomiylashtiruvchi maktabga tayyorlash uchun",
+    "Faqat baho olish uchun",
     "Hech nima uchun kerak emas",
     "Faqat vaqtni o'tkazish uchun",
     "Kelajakda to'g'ri kasb tanlashga tayyorlanish uchun"
@@ -303,8 +303,8 @@
   {
    "savol": "\"Rizq\" nima demakdir va u qanday bo'ladi?",
    "variantlar": [
-    "Faqat taqdir qilgan narvsa",
-    "Inson faoliyati natijasida qo'lga kiyadigan pul va boylik",
+    "Faqat taqdir qilgan narsa",
+    "Halol mehnat bilan topiladigan ne'mat, daromad",
     "Faqat ovqat-ichimlik",
     "Faqat pul va hech narsa yo'q"
    ],

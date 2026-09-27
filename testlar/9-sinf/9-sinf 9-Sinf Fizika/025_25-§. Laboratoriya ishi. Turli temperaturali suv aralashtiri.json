@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "25-§. Laboratoriya ishi. Turli temperaturali suv aralashtirilganda issiqlik miqdorlarini taqqoslash",
+ "savollar": [
+  {
+   "savol": "Ishning maqsadi nima?",
+   "variantlar": [
+    "Turli temperaturali suv aralashtirilganda issiqlik miqdorlarini taqqoslash",
+    "Massani o'lchash",
+    "Bosimni aniqlash",
+    "Tezlikni aniqlash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda nimalar aralashtiriladi?",
+   "variantlar": [
+    "Suv va yog'",
+    "Havo va suv",
+    "Issiq va sovuq suv",
+    "Suv va tuz"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Issiq suv bergan issiqlik miqdori?",
+   "variantlar": [
+    "Q₁ = cm₁(t₁ − t)",
+    "Q₁ = cm₁ t",
+    "Q₁ = 0",
+    "Q₁ = cm₁(t − t₁)"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sovuq suv olgan issiqlik miqdori?",
+   "variantlar": [
+    "Q₂ = cm₂(t − t₂)",
+    "Q₂ = cm₂ t",
+    "Q₂ = cm₂(t₂ − t)",
+    "Q₂ = 0"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ideal holda Q₁ va Q₂ orasidagi munosabat?",
+   "variantlar": [
+    "Q₁ > Q₂",
+    "Q₁ = Q₂",
+    "Q₁ = 0",
+    "Q₁ < Q₂"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda qaysi asboblar?",
+   "variantlar": [
+    "Voltmetr",
+    "Kalorimetr, termometr, tarozi/menzurka",
+    "Chizg'ich",
+    "Dinamometr"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suv massasi qanday o'lchanadi?",
+   "variantlar": [
+    "Voltmetr",
+    "Tarozi yoki menzurka (hajm) bilan",
+    "Chizg'ich",
+    "Termometr"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suv temperaturasi qanday o'lchanadi?",
+   "variantlar": [
+    "Manometr",
+    "Tarozi",
+    "Termometr bilan",
+    "Dinamometr"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aralashtirgach nimani o'lchash kerak?",
+   "variantlar": [
+    "Vaqt",
+    "Muvozanat temperaturasi",
+    "Uzunlik",
+    "Massa"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Natijalar qayerga yoziladi?",
+   "variantlar": [
+    "Tarozi",
+    "Kalorimetrga",
+    "Termometrga",
+    "Jadvalga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "m₁ = 0,1 kg, t₁ = 60 °C, t = 40 °C. Q₁ = ? (c = 4200)",
+   "variantlar": [
+    "840 J",
+    "42 000 J",
+    "8400 J",
+    "84 000 J"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "m₂ = 0,1 kg, t₂ = 20 °C, t = 40 °C. Q₂ = ?",
+   "variantlar": [
+    "84 000 J",
+    "8400 J",
+    "840 J",
+    "42 000 J"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Q₁ = 8400 J va Q₂ = 8400 J. Nima chiqadi?",
+   "variantlar": [
+    "Bilinmaydi",
+    "Issiqlik balansi bajarildi",
+    "Xato",
+    "Q₁ < Q₂"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tajribada Q₁ = 8400 J, Q₂ = 7800 J. Farq?",
+   "variantlar": [
+    "600 J",
+    "0",
+    "8400 J",
+    "16 200 J"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi farq nimaga sabab?",
+   "variantlar": [
+    "Rang",
+    "Massa",
+    "Atrofga issiqlik yo'qolishi",
+    "Vaqt"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nisbiy xatolik (Q₁ − Q₂)/Q₁ ≈ ?",
+   "variantlar": [
+    "≈ 100 %",
+    "≈ 70 %",
+    "≈ 7 %",
+    "≈ 0,7 %"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Suvlar massasi teng bo'lsa t nima?",
+   "variantlar": [
+    "Katta t",
+    "Nol",
+    "O'rtacha arifmetik",
+    "Kichik t"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Issiq suv massasi 2 marta ko'p bo'lsa t?",
+   "variantlar": [
+    "O'rtada",
+    "Issiqroq tomonga siljiydi",
+    "Sovuqroq",
+    "Nol"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda issiq suvning temperaturasi?",
+   "variantlar": [
+    "≈ 50–60 °C",
+    "0 °C",
+    "−10 °C",
+    "200 °C"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda xatolikni kamaytirish uchun?",
+   "variantlar": [
+    "Hech narsa",
+    "Ochiq idishda",
+    "Sekin ishlash",
+    "Tez ishlash va kalorimetr ishlatish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "m₁ = 0,2 kg, t₁ = 70 °C; m₂ = 0,1 kg, t₂ = 20 °C. Nazariy t?",
+   "variantlar": [
+    "60 °C",
+    "50 °C",
+    "≈ 53,3 °C",
+    "45 °C"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi tajribada o'lchangan t = 51 °C. Q₁ ≈ ?",
+   "variantlar": [
+    "≈ 16 800 J",
+    "≈ 15 960 J",
+    "≈ 4200 J",
+    "≈ 8400 J"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi tajribada Q₂ = cm₂(t − t₂) ≈ ?",
+   "variantlar": [
+    "≈ 16 800 J",
+    "≈ 13 020 J",
+    "≈ 8400 J",
+    "≈ 4200 J"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Q₁ va Q₂ farqi ≈ ?",
+   "variantlar": [
+    "≈ 15 960 J",
+    "≈ 0",
+    "≈ 13 020 J",
+    "≈ 2940 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kalorimetrning issiqlik sig'imi hisobga olinsa Q₁ = Q₂ + Q_k. Q_k nima?",
+   "variantlar": [
+    "Yo'qotish",
+    "Kalorimetr olgan issiqlik",
+    "Suv olgan",
+    "Ish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tajriba 5 marta takrorlanib natijalar o'rtachalanadi. Sababi?",
+   "variantlar": [
+    "Vaqt",
+    "Sababsiz",
+    "Tasodifiy xatolikni kamaytirish",
+    "Chiroy"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda t o'lchashdagi xatolik 0,5 °C. Δt = 20 °C uchun nisbiy xatolik?",
+   "variantlar": [
+    "≈ 1 %",
+    "≈ 50 %",
+    "≈ 5 % (2·0,5/20)",
+    "≈ 0,5 %"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Termometrni kalorimetr devoriga tekkizmaslik nima uchun?",
+   "variantlar": [
+    "Sinmasligi",
+    "Chiroy",
+    "Sababsiz",
+    "Haqiqiy t ni o'lchash uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Suv aralashtirilganda uni aralashtirib turish nimaga?",
+   "variantlar": [
+    "Sababsiz",
+    "Sovitish",
+    "Isitish",
+    "Temperatura tekis taqsimlanishi uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Muvozanat t issiq va sovuq suv t larining?",
+   "variantlar": [
+    "Tashqarisida",
+    "Oralig'ida",
+    "Katta",
+    "Kichik"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -8,7 +8,7 @@
    "variantlar": [
     "Erta bahorda",
     "Qish oxirida",
-    "Soniya oyida",
+    "Kuzda",
     "Yoz ortasida"
    ],
    "togri": 0,
@@ -17,10 +17,10 @@
   {
    "savol": "Makkajo'xori poyasi qanday bo'ladi?",
    "variantlar": [
-    "Bosmali va qisqa",
+    "Ichi bo'sh va qisqa",
     "Shoxli tuzilgan",
     "To'liq va kuchli",
-    "Nozik va kambag'al"
+    "Nozik va zaif"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -28,10 +28,10 @@
   {
    "savol": "Makkajo'xori barglari qanday xususiyatga ega?",
    "variantlar": [
-    "Kengi va qisqa",
-    "Ensi va uzun",
+    "Keng va qisqa",
+    "Ensiz (tor) va uzun",
     "Dumaloq va kichik",
-    "Qalinvadar va oxshash"
+    "Qalin va dumaloq"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -70,7 +70,7 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "60-rasmda makkajo'xori tupi nechta asosiy qismdan iborat?",
+   "savol": "Makkajo'xori tupi nechta asosiy qismdan iborat?",
    "variantlar": [
     "Besh qismdan",
     "Uchta qismdan",
@@ -158,10 +158,10 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Makkajo'xori bo'yi 2 metrga yetishi amal qiladi?",
+   "savol": "Makkajo'xori bo'yining 2 metrga yetishi nimani anglatadi?",
    "variantlar": [
     "Kichik o'simlik ekanini",
-    "Yuz-yo'xna o'simlik ekanini",
+    "Mitti o'simlik ekanini",
     "Sekin o'suvchi o'simlik ekanini",
     "Baland va kuchli o'simlik ekanini"
    ],
@@ -182,7 +182,7 @@
   {
    "savol": "Parrandalar uchun makkajo'xori doni nima sifatida kerak?",
    "variantlar": [
-    "Faqat osmon shartida kerak",
+    "Faqat qishda kerak",
     "Zaharli oziq",
     "Kam qiymati bo'lgan oziq",
     "Eng sevimli va foydali oziq"
@@ -213,14 +213,14 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Makkajo'xori tez o'sadi degan ifodaning sababi nima?",
+   "savol": "Makkajo'xori so'tasida nima joylashadi?",
    "variantlar": [
-    "Ko'p suv sorbgani uchun",
-    "Poyasi to'liq bo'lgani uchun",
-    "Barchasi birgalikda ta'sir qiladi",
-    "Barglari ensi bo'lgani uchun"
+    "Donlari",
+    "Ildizi",
+    "Gullari",
+    "Tikanlari"
    ],
-   "togri": 2,
+   "togri": 0,
    "qiyinlik": "o'rtacha"
   },
   {
@@ -239,8 +239,8 @@
    "variantlar": [
     "Makkajo'xori suv talab qilmaydi",
     "Makkajo'xori qish uchun tayyorlanadi",
-    "Makkajo'xori yoziy faslga bog'liq o'simlik",
-    "Makkajo'xori halol o'simlik"
+    "Makkajo'xori issiqsevar, yozgi o'simlik",
+    "Makkajo'xori qishki o'simlik"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -262,7 +262,7 @@
     "O'simlik sekin o'sadi",
     "O'simlik zaif",
     "O'simlik boshqa o'simliklarga o'xshashdir",
-    "O'simlik ancha kuchli va barkaror"
+    "O'simlik ancha kuchli va barqaror"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"

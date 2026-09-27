@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "4-§. Masalalar yechish (modda miqdori va molekulalar)",
+ "savollar": [
+  {
+   "savol": "Modda miqdori formulasi?",
+   "variantlar": [
+    "ν = mM",
+    "ν = m + M",
+    "ν = m/M",
+    "ν = M/m"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Molekulalar soni formulasi?",
+   "variantlar": [
+    "N = ν / N_A",
+    "N = ν + N_A",
+    "N = N_A / ν",
+    "N = ν · N_A"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Molekula massasi formulasi?",
+   "variantlar": [
+    "m₀ = M + N_A",
+    "m₀ = N_A/M",
+    "m₀ = M/N_A",
+    "m₀ = M · N_A"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "N_A = ?",
+   "variantlar": [
+    "6,02 · 10²³ mol⁻¹",
+    "10²³",
+    "1",
+    "6,02"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 kg necha gramm?",
+   "variantlar": [
+    "10 g",
+    "100 g",
+    "0,001 g",
+    "1000 g"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 g necha kg?",
+   "variantlar": [
+    "10⁶ kg",
+    "10³ kg",
+    "10⁻³ kg",
+    "10⁻⁶ kg"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Molyar massa M = 18 g/mol = ? kg/mol",
+   "variantlar": [
+    "1,8",
+    "18",
+    "0,018",
+    "0,18"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "m = 18 g, M = 18 g/mol. ν = ?",
+   "variantlar": [
+    "2 mol",
+    "0,5 mol",
+    "1 mol",
+    "18 mol"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "ν = 2 mol. N = ν N_A = ?",
+   "variantlar": [
+    "3 · 10²³",
+    "1,2 · 10²⁴",
+    "6 · 10²³",
+    "2 · 10²³"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nisbiy molekulyar massa M_r = 32 bo'lsa M = ?",
+   "variantlar": [
+    "0,32 g/mol",
+    "32 kg/mol",
+    "32 g/mol",
+    "3,2 g/mol"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "m = 44 g CO₂ (M = 44). Molekulalar soni?",
+   "variantlar": [
+    "6,02 · 10²³",
+    "3,01 · 10²³",
+    "12,04 · 10²³",
+    "44 · 10²³"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "N = 3,01 · 10²² ta molekula suv. Massasi?",
+   "variantlar": [
+    "0,09 g",
+    "9 g",
+    "18 g",
+    "0,9 g"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "m = 2 kg suv. ν = ?",
+   "variantlar": [
+    "≈ 9 mol",
+    "≈ 36 mol",
+    "≈ 111 mol",
+    "2 mol"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ν = 5 mol suv. m = ?",
+   "variantlar": [
+    "3,6 g",
+    "90 g",
+    "23 g",
+    "5 g"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Suv molekulasi massasi m₀ = 0,018/6,02 · 10²³ ≈ ?",
+   "variantlar": [
+    "3 · 10⁻²⁶ kg",
+    "3 kg",
+    "3 · 10⁻²³ kg",
+    "3 · 10⁻²⁹ kg"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "N = 10²⁴ ta molekula. ν = ?",
+   "variantlar": [
+    "≈ 6 mol",
+    "≈ 0,6 mol",
+    "≈ 1,66 mol",
+    "≈ 10 mol"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Vodorodning 1 g massasidagi molekulalar soni?",
+   "variantlar": [
+    "≈ 6 · 10²³",
+    "≈ 10²³",
+    "≈ 3 · 10²³",
+    "≈ 1,5 · 10²³"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Massasi 100 g bo'lgan suvda modda miqdori?",
+   "variantlar": [
+    "100 mol",
+    "18 mol",
+    "≈ 5,56 mol",
+    "≈ 1,8 mol"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2 ta bir xil idishda 1 mol He va 1 mol Ne. Zarralar soni?",
+   "variantlar": [
+    "Teng",
+    "Ne da ko'p",
+    "Aniqlab bo'lmaydi",
+    "He da ko'p"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Suvning molyar massasi va nisbiy molekulyar massasi qanday bog'liq?",
+   "variantlar": [
+    "Son qiymati teng, birligi g/mol",
+    "Bog'liq emas",
+    "Teng emas",
+    "Ikkalasi bir xil birlikda"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "m = 4,4 g CO₂, molekulalar soni?",
+   "variantlar": [
+    "6,02 · 10²³",
+    "4,4 · 10²³",
+    "6,02 · 10²²",
+    "3 · 10²²"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Suv (m = 200 g) da nechta molekula (M = 18)?",
+   "variantlar": [
+    "≈ 6 · 10²³",
+    "≈ 2 · 10²⁴",
+    "≈ 1,2 · 10²⁴",
+    "≈ 6,7 · 10²⁴"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir tomchi suv 0,05 g. Uning ichidagi molekulalar soni?",
+   "variantlar": [
+    "≈ 1,7 · 10²¹",
+    "≈ 10²⁶",
+    "≈ 10¹⁸",
+    "≈ 1,7 · 10²⁴"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kislorodning 5 · 10²³ ta molekulasining massasi (M = 32 g/mol)?",
+   "variantlar": [
+    "≈ 26,6 g",
+    "≈ 16 g",
+    "≈ 32 g",
+    "≈ 5 g"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Modda miqdori 3 mol, massa 54 g. Molyar massa?",
+   "variantlar": [
+    "51 g/mol",
+    "162 g/mol",
+    "18 g/mol",
+    "3 g/mol"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 m³ suvda (m = 1000 kg) modda miqdori?",
+   "variantlar": [
+    "≈ 18 mol",
+    "≈ 1000 mol",
+    "≈ 10⁸ mol",
+    "≈ 5,6 · 10⁴ mol"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita gaz 1 mol dan: CO₂ va H₂. Massalar nisbati m(CO₂)/m(H₂)?",
+   "variantlar": [
+    "2",
+    "44",
+    "22",
+    "11"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 sm³ havoda (n.sh.) molekulalar soni (taxminan)?",
+   "variantlar": [
+    "≈ 10⁶",
+    "≈ 10¹²",
+    "≈ 2,7 · 10¹⁹",
+    "≈ 6 · 10²³"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Molekulalar soni 1,204 · 10²⁴. ν = ?",
+   "variantlar": [
+    "12 mol",
+    "1 mol",
+    "0,5 mol",
+    "2 mol"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "ν = 0,02 mol suv massasi?",
+   "variantlar": [
+    "0,36 g",
+    "0,018 g",
+    "0,9 g",
+    "3,6 g"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

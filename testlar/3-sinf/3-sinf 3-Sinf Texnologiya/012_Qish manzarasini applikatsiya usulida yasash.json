@@ -26,20 +26,20 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Darslikda nechta shakl berilgan?",
+   "savol": "Qish manzarasida qor qanday rangli qog'ozdan qirqiladi?",
    "variantlar": [
-    "5 ta",
-    "6 ta",
-    "10 ta",
-    "8 ta"
+    "Qizil",
+    "Oq",
+    "Qora",
+    "Yashil"
    ],
-   "togri": 3,
+   "togri": 1,
    "qiyinlik": "oson"
   },
   {
    "savol": "Applikatsiyada shakllarni birlashtirish uchun nima kerak?",
    "variantlar": [
-    "Gluey yoki tutqun",
+    "Yelim yoki tutqun",
     "Tasmani ishlatish",
     "Qattiq yozuvchi",
     "Faqat qalam"
@@ -62,9 +62,9 @@
    "savol": "Shakllarni applikatsiyada qanday tayyorlash kerak?",
    "variantlar": [
     "Chizib olish",
-    "Boqish",
+    "Bo'yash",
     "Yozish",
-    "Kesib tashlash"
+    "Qirqib olish"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -106,7 +106,7 @@
    "savol": "Applikatsiya usulida eng muhim qoida nima?",
    "variantlar": [
     "Faqat qora rang",
-    "Juda ko'p gluey",
+    "Juda ko'p yelim",
     "Dars vaqti",
     "Shakllarni to'g'ri joylashtirib, butun manzaraning tasvirini yaratish"
    ],
@@ -138,7 +138,7 @@
   {
    "savol": "Applikatsiyada fonn qog'oz nima uchun muhim?",
    "variantlar": [
-    "Glueyni yashirish uchun",
+    "Yelimni yashirish uchun",
     "Manzaraning tayanchi asosi, qish rangini ifodalash",
     "Vaqt o'tkazish uchun",
     "Qalamni yozish uchun"
@@ -161,7 +161,7 @@
    "savol": "Shakllarni kesishda nima ishlatish tavsiya qilinadi?",
    "variantlar": [
     "Oyog'imiz bilan",
-    "Qattiq qirralari bo'lgan kesish asboblari",
+    "Qaychi",
     "Faqat qalamdan",
     "Tish bilan"
    ],
@@ -171,7 +171,7 @@
   {
    "savol": "Mustaqil ishlashni boshlashdan oldin qanday tayyorlash kerak?",
    "variantlar": [
-    "Barcha materiallar - qog'oz, gluey, kesish asboblari",
+    "Barcha materiallar - qog'oz, yelim, kesish asboblari",
     "Faqat qalam",
     "Shum-shov",
     "Faqat gluey"
@@ -183,7 +183,7 @@
    "savol": "Applikatsiyada qor oq rangida tasvirlanishi nima uchun to'g'ri?",
    "variantlar": [
     "O'quvchi xohshasin",
-    "Gluey tejash uchun",
+    "Yelim tejash uchun",
     "Faqat ranglar sevgisi",
     "Tabiatda qor oq bo'lgani uchun"
    ],
@@ -191,14 +191,14 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Darslikdagi 1-8 raqamli shakllar nima sifatida talqin qilinadi?",
+   "savol": "Qish manzarasiga qaysi element mos kelmaydi?",
    "variantlar": [
-    "Faqat raqamlar",
-    "Qish manzarasining turli qismlari, rang qog'ozdan kesib tashlangan",
-    "Geometrik shakllar",
-    "Alfavit harflari"
+    "Qor odam",
+    "Qorli daraxt",
+    "Pishgan tarvuz",
+    "Chana uchayotgan bola"
    ],
-   "togri": 1,
+   "togri": 2,
    "qiyinlik": "o'rtacha"
   },
   {
@@ -227,9 +227,9 @@
    "savol": "\"O'zbekistonda qish\" mavzusini applikatsiya bilan ishlashda ketma-ket qanday bosqichlarni bajarish kerak?",
    "variantlar": [
     "Faqat kesish",
-    "Gluey - shakl - joylash",
+    "Yelim - shakl - joylash",
     "Faqat joylash",
-    "Rasm - kesish - fon - joylash - gluey"
+    "Rasm - kesish - fon - joylash - yelimlash"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -261,7 +261,7 @@
    "variantlar": [
     "Ranglari xuddi bir xil",
     "Faqat uylar",
-    "Qor-sofni, fazo tasvirini va rang mosligining o'ziga xos badiiy shaklini",
+    "Oq va sovuq ranglar, qor bilan qoplangan tabiat",
     "Daraxt soni"
    ],
    "togri": 2,
@@ -305,21 +305,21 @@
    "variantlar": [
     "Faqat bo'yash",
     "Faqat chizib olish",
-    "O'q yoki moviy rang qog'ozni kesib, to'g'ri joylashtirish",
+    "Oq yoki moviy qog'ozdan qirqib, to'g'ri joylashtirish",
     "Faqat qalam"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Darslikdagi 1-8 shakllar ketma-ketligi nima ifodalaydi?",
+   "savol": "Applikatsiyada avval qaysi qismlar yopishtiriladi?",
    "variantlar": [
-    "Raqamli tartibi",
-    "Alfavit",
-    "Hayvonlar",
-    "Qish manzarasini qurish jarayonida turli qismlari"
+    "Orqa fondagi katta qismlar (osmon, yer)",
+    "Eng mayda detallar",
+    "Faqat qorparchalar",
+    "Tartib muhim emas"
    ],
-   "togri": 3,
+   "togri": 0,
    "qiyinlik": "qiyin"
   },
   {

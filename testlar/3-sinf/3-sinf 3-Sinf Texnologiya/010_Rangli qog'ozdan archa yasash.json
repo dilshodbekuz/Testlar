@@ -17,8 +17,8 @@
   {
    "savol": "Archa qanday materialdan yasaladi?",
    "variantlar": [
-    "Derevadan",
-    "Metalni",
+    "Yog'ochdan",
+    "Metalldan",
     "Rangli qog'ozdan",
     "Plastmassadan"
    ],
@@ -81,14 +81,14 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Darsda keltirilgan asosiy qoidalar sonini aniqlang",
+   "savol": "Archa yasashda qaychi bilan qanday ishlash kerak?",
    "variantlar": [
-    "Ikkita",
-    "Uchta",
-    "To'rtta",
-    "Bitta"
+    "Ehtiyot bo'lib, uchini o'ziga va boshqalarga qaratmay",
+    "Yugurib yurib",
+    "Uchini do'stiga qaratib",
+    "O'ynab"
    ],
-   "togri": 1,
+   "togri": 0,
    "qiyinlik": "oson"
   },
   {
@@ -108,7 +108,7 @@
     "Temir va chang",
     "Plastmassa va shisha",
     "Rangli qog'oz va yelim",
-    "Dore va rangi"
+    "Dori va bo'yoq"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -150,7 +150,7 @@
    "savol": "Qog'oz qismlarini yelimlashdan avval nima qilish kerak?",
    "variantlar": [
     "Yuvish",
-    "Qo'l ovush",
+    "Qog'ozni g'ijimlash",
     "Rasm chizish",
     "Qog'ozni to'g'ri tartibda tartiblash"
    ],
@@ -163,7 +163,7 @@
     "Chiroyli va rangli",
     "Oq",
     "Qorong'i",
-    "Jimik"
+    "Kulrang"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -224,7 +224,7 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Qog'oz qismlarini turli tartibda yelimlash archaning qanday xususiyatlarini o'zgartiradiBos qiladi?",
+   "savol": "Qog'oz qismlarini turli tartibda yelimlash archaning qanday xususiyatlarini o'zgartiradi?",
    "variantlar": [
     "Faqat rangini",
     "Shakl va mustahkamligini",
@@ -257,14 +257,14 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Rangli qog'ozdan archa yasashda nechta asosiy qoida mavjud?",
+   "savol": "Archa yasash uchun qaysi narsa kerak emas?",
    "variantlar": [
-    "Ikkita",
-    "Bitta",
-    "Uchta - xavfsizlik, tartiblash va rang",
-    "To'rtta"
+    "Qaychi",
+    "Yelim",
+    "Rangli qog'oz",
+    "Bolg'a"
    ],
-   "togri": 2,
+   "togri": 3,
    "qiyinlik": "qiyin"
   },
   {
@@ -323,14 +323,14 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Rangli qog'ozdan archa yasashda nechta bilim sohasini birgalikda qo'llash kerak?",
+   "savol": "Qog'ozdan archa yasashda qaysi geometrik shakl asos bo'ladi?",
    "variantlar": [
-    "To'rtta",
-    "Bitta",
-    "Ikkita",
-    "Uchta yoki undan ko'p"
+    "Doira",
+    "Uchburchak",
+    "Kvadrat",
+    "To'g'ri chiziq"
    ],
-   "togri": 3,
+   "togri": 1,
    "qiyinlik": "qiyin"
   }
  ]

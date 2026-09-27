@@ -6,7 +6,7 @@
   {
    "savol": "Suzuvchi modellar nima?",
    "variantlar": [
-    "Suvda suzadigan ijtirioladigan narsalar",
+    "Suvda suzadigan narsalar (qayiq, kema) modellari",
     "Faqat o'yinchoqlar",
     "Qog'ozdan yasalgan narsalar",
     "Havo balonlari"
@@ -39,10 +39,10 @@
   {
    "savol": "Tayyor qayiqchani qanday kuzatib ko'rish kerak?",
    "variantlar": [
-    "Albatta va diqqat bilan",
+    "Diqqat bilan",
     "Juda tezda",
-    "Taniga yopamagan holda",
-    "Shunchaki o'tadan o'tib"
+    "Qaramasdan",
+    "Shunchaki o'tib ketib"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -59,14 +59,14 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Qayiqchaning suvda suzgani jarayonida rasmlarda necha bosqich ko'rsatilgan?",
+   "savol": "Qayiqcha suvda cho'kmasligi uchun nima muhim?",
    "variantlar": [
-    "5 ta",
-    "10-11 ta",
-    "8 ta",
-    "20 ta"
+    "Suv o'tkazmasligi va yengil bo'lishi",
+    "Og'ir bo'lishi",
+    "Teshik bo'lishi",
+    "Qora rangli bo'lishi"
    ],
-   "togri": 1,
+   "togri": 0,
    "qiyinlik": "oson"
   },
   {
@@ -96,7 +96,7 @@
    "variantlar": [
     "Suv isitish",
     "Qayiqchani boyash",
-    "Suvga salt qo'shish",
+    "Suvga tuz qo'shish",
     "Modelni to'g'ri qurilganligini tekshirish"
    ],
    "togri": 3,
@@ -140,8 +140,8 @@
    "variantlar": [
     "Faqat issiq suvning bo'lishi",
     "Faqat katta suvning bo'lishi",
-    "Modeli to'g'ri qurilganligini ta'minlash va suvni sho'rta qiluvchi joy yo'qligi",
-    "Faqat qor suzusi"
+    "Model to'g'ri qurilgan va suv o'tkazadigan teshigi yo'q bo'lishi",
+    "Faqat qor suvi"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -172,7 +172,7 @@
    "savol": "Yasalgan qayiqchani suvga tashlashdan oldin uning qaysi xususiyatlari tekshirilishi kerak?",
    "variantlar": [
     "Faqat hajmi",
-    "Suvni sho'rta qilmasligi, to'g'ri qurilganligini va tartibda ekanligini",
+    "Suv o'tkazmasligi, to'g'ri qurilganligi va tartibda ekanligi",
     "Faqat rang",
     "Faqat shakli"
    ],
@@ -184,7 +184,7 @@
    "variantlar": [
     "Faqat kuzatish",
     "Faqat tashlash",
-    "Faqat qog'oz shu",
+    "Faqat bo'yash",
     "Qurilish, tayyorlash va suvda suzganlik"
    ],
    "togri": 3,
@@ -204,7 +204,7 @@
   {
    "savol": "Qayiqchaning suvda suzgani uchun uning qurilishi qanday bo'lishi kerak?",
    "variantlar": [
-    "To'g'ri qurilgan va suvni sho'rta qilmasligi ta'minlangan",
+    "To'g'ri qurilgan va suv o'tkazmaydigan",
     "Juda yupqa",
     "Juda xavfli",
     "Juda og'ir"
@@ -218,7 +218,7 @@
     "Faqat rang",
     "Faqat shakli",
     "Faqat kattaligi",
-    "Suzganlik, tortilmasi va ishonchlilik"
+    "Suzishi, cho'kmasligi va mustahkamligi"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -238,7 +238,7 @@
    "savol": "Qayiqchaning suvda suzmasligi sabablarining qaysi omillarda bo'lishi mumkin?",
    "variantlar": [
     "Faqat o'qituvchining xatosi",
-    "Qurilishning noto'g'riligi, suvni sho'rta qiluvchi joy yoki og'irligi",
+    "Noto'g'ri qurilgani, suv o'tkazadigan joy borligi yoki og'irligi",
     "Faqat o'quvchining xatosi",
     "Faqat havo"
    ],
@@ -295,7 +295,7 @@
     "Shunchaki o'tib ketish",
     "Borish va tashlash",
     "Kitobga qaramay ishlash",
-    "Diqqat bilan kuzatib, suvni sho'rta qiluvchi joylarni topib, og'irligini tekshirish"
+    "Diqqat bilan kuzatib, suv kiradigan joylarni topish va og'irligini tekshirish"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"

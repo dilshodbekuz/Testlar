@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "17-§. Issiqlik miqdori",
+ "savollar": [
+  {
+   "savol": "Issiqlik miqdori qaysi harf bilan belgilanadi?",
+   "variantlar": [
+    "U",
+    "Q",
+    "A",
+    "W"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Issiqlik miqdori birligi?",
+   "variantlar": [
+    "Kelvin",
+    "Joul",
+    "Vatt",
+    "Amper"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Issiqlik miqdori formulasi (isitishda)?",
+   "variantlar": [
+    "Q = c/mΔt",
+    "Q = mΔt/c",
+    "Q = c + m",
+    "Q = cmΔt"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Solishtirma issiqlik sig'imi qaysi harf bilan?",
+   "variantlar": [
+    "C",
+    "Q",
+    "c",
+    "m"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Solishtirma issiqlik sig'imi birligi?",
+   "variantlar": [
+    "J/kg",
+    "J/(kg·°C)",
+    "J/°C",
+    "J"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suvning solishtirma issiqlik sig'imi?",
+   "variantlar": [
+    "4200 J/(kg·°C)",
+    "420",
+    "4,2",
+    "42 000"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jism isitilganda Q qanday ishorali?",
+   "variantlar": [
+    "Manfiy",
+    "Nol",
+    "Aniqlab bo'lmaydi",
+    "Musbat"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jism sovutilganda Q qanday ishorali?",
+   "variantlar": [
+    "Aniqlab bo'lmaydi",
+    "Manfiy",
+    "Nol",
+    "Musbat"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Issiqlik sig'imi C = cm formulasi. Birligi?",
+   "variantlar": [
+    "J/kg",
+    "kg",
+    "J/°C",
+    "J"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Q massaga qanday bog'liq?",
+   "variantlar": [
+    "Teskari",
+    "Kvadratik",
+    "To'g'ri proporsional",
+    "Bog'liq emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "m = 2 kg suv, Δt = 10 °C. Q = ?",
+   "variantlar": [
+    "8400 J",
+    "840 J",
+    "840 000 J",
+    "84 000 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "m = 0,5 kg suv, Δt = 20 °C. Q = ?",
+   "variantlar": [
+    "4200 J",
+    "84 000 J",
+    "420 J",
+    "42 000 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Q = 8400 J, m = 1 kg suv. Δt = ?",
+   "variantlar": [
+    "0,2 °C",
+    "2 °C",
+    "8,4 °C",
+    "20 °C"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Q = 4200 J, Δt = 5 °C, c = 4200. m = ?",
+   "variantlar": [
+    "20 kg",
+    "0,2 kg",
+    "0,05 kg",
+    "5 kg"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Q = 8000 J, m = 2 kg, Δt = 10 °C. c = ?",
+   "variantlar": [
+    "40",
+    "400 J/(kg·°C)",
+    "160",
+    "800"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mis c = 400 J/(kg·°C), m = 3 kg, Δt = 50 °C. Q = ?",
+   "variantlar": [
+    "60 000 J",
+    "600 000 J",
+    "150 J",
+    "6000 J"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Alyuminiy c = 900, m = 1 kg, Δt = 20 °C. Q = ?",
+   "variantlar": [
+    "180 000 J",
+    "1800 J",
+    "900 J",
+    "18 000 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Temir c = 460, m = 2 kg, Δt = 100 °C. Q = ?",
+   "variantlar": [
+    "920 000 J",
+    "460 J",
+    "9200 J",
+    "92 000 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Suv 20 °C dan 100 °C gacha, m = 1 kg. Q = ?",
+   "variantlar": [
+    "42 000 J",
+    "420 000 J",
+    "336 000 J",
+    "84 000 J"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun suv issiqlikni sekin oladi va sekin beradi?",
+   "variantlar": [
+    "c katta",
+    "Massa",
+    "Rang",
+    "c kichik"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Issiqlik balansi tenglamasi: Q_berilgan = ?",
+   "variantlar": [
+    "Q_olingan",
+    "−Q",
+    "0",
+    "2 Q_olingan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Issiq suv (m₁, t₁) va sovuq suv (m₂, t₂) aralashtirildi. Umumiy t = ?",
+   "variantlar": [
+    "(t₁ + t₂)/2",
+    "(m₁t₁ + m₂t₂)/(m₁ + m₂)",
+    "m₁t₁ − m₂t₂",
+    "t₁ + t₂"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 kg 80 °C suv va 1 kg 20 °C suv aralashtirildi. t = ?",
+   "variantlar": [
+    "40 °C",
+    "60 °C",
+    "100 °C",
+    "50 °C"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2 kg 90 °C va 1 kg 30 °C suv. t = ?",
+   "variantlar": [
+    "50 °C",
+    "80 °C",
+    "70 °C",
+    "60 °C"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3 kg 60 °C va 1 kg 20 °C suv. t = ?",
+   "variantlar": [
+    "30 °C",
+    "50 °C",
+    "40 °C",
+    "45 °C"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mis parcha (c = 400, m = 0,2 kg, 100 °C) 0,5 kg 20 °C suvga tushirildi. Suv necha °C ga qiziydi (issiqlik balansi)?",
+   "variantlar": [
+    "≈ 10 °C",
+    "≈ 2,9 °C",
+    "≈ 0,29 °C",
+    "≈ 29 °C"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Q = cmΔt ni c = Q/(mΔt). Bu qanday topiladi?",
+   "variantlar": [
+    "Δt",
+    "Q",
+    "Massa",
+    "Solishtirma issiqlik sig'imi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "c₁ > c₂ (bir xil m, Q). Qaysi ko'proq qiziydi?",
+   "variantlar": [
+    "Aniqlab bo'lmaydi",
+    "Teng",
+    "c₁ li",
+    "c₂ li (kichik c)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Suv va qum bir xil isitiladi. Qaysi tez qiziydi?",
+   "variantlar": [
+    "Teng",
+    "Aniqlab bo'lmaydi",
+    "Qum",
+    "Suv"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dengiz bo'yida iqlim yumshoq. Sababi?",
+   "variantlar": [
+    "Quyosh",
+    "Suvning issiqlik sig'imi katta",
+    "Yomg'ir",
+    "Shamol"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -75,7 +75,7 @@
     "Katta qushlar",
     "Mayda hasharotlar",
     "Katta hasharotlar",
-    "Kichik qo'ng'izlar"
+    "Baliqlar"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -103,12 +103,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Chumoli qaysi zararkunanda hasharotlarga zarar berador?",
+   "savol": "Chumolilar qanday foyda keltiradi?",
    "variantlar": [
-    "Tuxumlarini yo'q qiluvchi hasharotlarga",
-    "Barglarini yevchi hasharotlarga",
-    "Mevalarini yevchi hasharotlarga",
-    "Ildizlarini yevchi hasharotlarga"
+    "Zararkunanda hasharotlarning tuxumlarini yo'q qiladi",
+    "Barglarni yeydi",
+    "Mevalarni yeydi",
+    "Ildizlarni yeydi"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -118,8 +118,8 @@
    "variantlar": [
     "Yangi barglar hosil bo'ladi",
     "O'sishni davom ettiadi",
-    "Hostag'i yo'qoladi",
-    "Hostag'i ko'payadi"
+    "Hosil bermaydi, qurib qoladi",
+    "Hosili ko'payadi"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -191,22 +191,22 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Mart qo'ng'izi hech qanday joyda oziqlanmaydimi?",
+   "savol": "Mart qo'ng'izi va uning qurti (buzoqboshi) nima bilan oziqlanadi?",
    "variantlar": [
-    "Yo'q, tuproqdan va o'simliklaring bargi va ildizidan oziqlanadi",
-    "Faqat ildizidan oziqlanadi",
-    "Faqat barglarini yeydi",
-    "Ha, tuproqdan oziqlanadi"
+    "Qo'ng'izi barglarni, qurti ildizlarni yeydi",
+    "Ikkalasi ham faqat tuproq yeydi",
+    "Ikkalasi ham hasharot yeydi",
+    "Ikkalasi ham hech narsa yemaydi"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "O'rgimchak o'ljasi qaysi shaklda bo'ladi?",
+   "savol": "O'rgimchak ini qanday shaklda bo'ladi?",
    "variantlar": [
     "Kvadrat",
     "To'r shakli",
-    "Dumbalik",
+    "Qopcha",
     "Uchburchak"
    ],
    "togri": 1,
@@ -216,7 +216,7 @@
    "savol": "Daraxt po'stlog'ini batamom yeb tugatgandan keyin daraxt nima bo'ladi?",
    "variantlar": [
     "Qurib qoladi",
-    "Yangi bark beradi",
+    "Yangi po'stloq o'stiradi",
     "Yaxshilanadi",
     "O'sishni davom ettiadi"
    ],
@@ -226,9 +226,9 @@
   {
    "savol": "Mart qo'ng'izi va buzoqboshi ikkalasi ham o'simliklarga zarar yetkazadi. Bu ikkalasining foydali tomoni bor-mi?",
    "variantlar": [
-    "Yo'q, ikkalasidagi zararkunanda",
+    "Ha, ular gullarni changlaydi",
     "Bor, ular o'simliklarga yaxshi ta'sir qiladi",
-    "Yo'q, lekin ular kasalliklarni tilvalar",
+    "Ha, ular zararkunandalarni yeydi",
     "Yo'q, ular faqat zararkunanda"
    ],
    "togri": 3,
@@ -262,7 +262,7 @@
     "O'zgarmaydi va tinch qoladi",
     "Ko'payadi va ekinlarga katta zarar yetkazadi",
     "Pasayadi va o'rtaning sharoiti yaxshilanadi",
-    "Yo'qoladi va yo'g'on qolardi"
+    "Butunlay yo'qolardi"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -282,9 +282,9 @@
    "savol": "Zararkunanda hasharotlarni (chigirtka, kolorado qo'ng'izi) yo'q qilish uchun matnga ko'ra eng tabiiy yo'l qaysi?",
    "variantlar": [
     "Kimyoviy dorilar ishlatish",
-    "Mushtayi o'g'ritlash",
+    "Ekinni sug'ormaslik",
     "Qushlar va boshqa hayvonlarning yordam olish",
-    "Tuproqni issiq voda bilan yukaruvlash"
+    "Tuproqni issiq suv bilan yuvish"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -292,10 +292,10 @@
   {
    "savol": "Asalari, xonqizi, chumoli va o'rgimchakni birlashtirib turadigan umumiy xususiyat nima?",
    "variantlar": [
-    "Hamsida o'simlik barglarini yeyadi",
-    "Hamsida foydali hasharotlardir",
-    "Hamsida quriga bo'lgan",
-    "Hamsida zararkunanda hasharotlardir"
+    "Hammasi o'simlik barglarini yeydi",
+    "Hammasi foydali jonivorlar",
+    "Hammasi suvda yashaydi",
+    "Hammasi zararkunanda"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -312,12 +312,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Mart qo'ng'iz qurtlarini topib yevchi qushlar (sassiq-popishak, zag'cha) ularni qaysi o'rmanda topib yeyadi?",
+   "savol": "Sassiqpopishak va zag'cha mart qo'ng'izi qurtlarini qanday topib yeydi?",
    "variantlar": [
-    "Tuproqlarni titkilab delab",
-    "O'simlik tagi tutalib",
-    "Tuproqda tekis joyida",
-    "Barglar ostida"
+    "Tuproqni titkilab",
+    "O'simlik barglari ostidan",
+    "Suv ichidan",
+    "Daraxt uchidan"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"

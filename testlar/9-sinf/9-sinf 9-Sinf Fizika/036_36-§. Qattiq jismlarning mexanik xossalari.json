@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "36-§. Qattiq jismlarning mexanik xossalari",
+ "savollar": [
+  {
+   "savol": "Qattiq jismlarning mexanik xossalari qaysilar?",
+   "variantlar": [
+    "Ta'm",
+    "Rang",
+    "Hid",
+    "Elastiklik, plastiklik, mustahkamlik, qattiqlik"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Deformatsiya nima?",
+   "variantlar": [
+    "Harorat",
+    "Massa o'zgarishi",
+    "Jism shakli yoki hajmining o'zgarishi",
+    "Rang o'zgarishi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elastik deformatsiya nima?",
+   "variantlar": [
+    "Doimiy qoladigan",
+    "Yo'q",
+    "Erish",
+    "Yuk olingach yo'qoladigan deformatsiya"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Plastik deformatsiya nima?",
+   "variantlar": [
+    "Yuk olingach qoladigan deformatsiya",
+    "Erish",
+    "Yo'qoladigan",
+    "Yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Deformatsiya turlari?",
+   "variantlar": [
+    "Faqat egilish",
+    "Faqat siqilish",
+    "Cho'zilish, siqilish, egilish, buralish, siljish",
+    "Faqat cho'zilish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Guk qonuni nimani ifodalaydi?",
+   "variantlar": [
+    "Massa",
+    "Bosim",
+    "Elastik kuchning deformatsiyaga bog'liqligini",
+    "Tezlik"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Guk qonuni formulasi?",
+   "variantlar": [
+    "F = k·Δl",
+    "F = k + Δl",
+    "F = k/Δl",
+    "F = Δl/k"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "k nima?",
+   "variantlar": [
+    "Kuch",
+    "Massa",
+    "Bikrlik (bikrlik koeffitsiyenti)",
+    "Bosim"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bikrlik birligi?",
+   "variantlar": [
+    "m",
+    "N",
+    "Pa",
+    "N/m"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mexanik kuchlanish qaysi harf bilan?",
+   "variantlar": [
+    "E",
+    "σ",
+    "k",
+    "F"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mexanik kuchlanish formulasi?",
+   "variantlar": [
+    "σ = S/F",
+    "σ = F·S",
+    "σ = F + S",
+    "σ = F/S"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nisbiy uzayish formulasi?",
+   "variantlar": [
+    "ε = Δl·l₀",
+    "ε = Δl/l₀",
+    "ε = l₀ + Δl",
+    "ε = l₀/Δl"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yung moduli E qanday bog'lanishni beradi?",
+   "variantlar": [
+    "σ = E·ε",
+    "σ = E/ε",
+    "ε = E·σ",
+    "E = σ·ε"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yung moduli birligi?",
+   "variantlar": [
+    "N",
+    "N/m",
+    "J",
+    "Pa"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "F = 10 N, Δl = 0,05 m. k = ?",
+   "variantlar": [
+    "50 N/m",
+    "200 N/m",
+    "0,5 N/m",
+    "2 N/m"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "k = 100 N/m, Δl = 0,02 m. F = ?",
+   "variantlar": [
+    "5000 N",
+    "0,0002 N",
+    "100,02 N",
+    "2 N"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "F = 50 N, S = 10⁻⁴ m². σ = ?",
+   "variantlar": [
+    "5 · 10⁵ Pa",
+    "0,5 Pa",
+    "5 · 10³ Pa",
+    "5 · 10⁷ Pa"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "l₀ = 2 m, Δl = 2 mm. ε = ?",
+   "variantlar": [
+    "10⁻²",
+    "10⁻³",
+    "1",
+    "10⁻⁶"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kuch 2 marta ortsa (elastik chegarada) uzayish?",
+   "variantlar": [
+    "2 marta kamayadi",
+    "2 marta ortadi",
+    "4 marta ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Elastiklik chegarasi nima?",
+   "variantlar": [
+    "Massa",
+    "Rang",
+    "Hajm",
+    "Guk qonuni o'rinli bo'lgan eng katta kuchlanish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Po'lat sim: E = 2 · 10¹¹ Pa, ε = 10⁻³. σ = Eε = ?",
+   "variantlar": [
+    "2 · 10¹⁴ Pa",
+    "2 · 10⁻⁸ Pa",
+    "2 · 10⁵ Pa",
+    "2 · 10⁸ Pa"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sim: l₀ = 3 m, S = 1 mm² = 10⁻⁶ m², F = 100 N, E = 2 · 10¹¹. Δl = Fl₀/(SE) ≈ ?",
+   "variantlar": [
+    "1,5 mm",
+    "150 mm",
+    "15 mm",
+    "0,15 mm"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Prujina bikrligi k = 200 N/m. Ikkita bir xil prujina ketma-ket ulansa k?",
+   "variantlar": [
+    "200 N/m",
+    "50 N/m",
+    "100 N/m",
+    "400 N/m"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita bir xil prujina parallel ulansa k?",
+   "variantlar": [
+    "200 N/m",
+    "100 N/m",
+    "50 N/m",
+    "400 N/m"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Prujina 2 marta uzunroq (bir xil material va diametr). Bikrlik?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "4 marta katta",
+    "2 marta katta",
+    "2 marta kichik"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mustahkamlik chegarasi nima?",
+   "variantlar": [
+    "Rang",
+    "Jism sinadigan eng katta kuchlanish",
+    "Hajm",
+    "Massa"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Xavfsizlik zaxirasi koeffitsiyenti nima?",
+   "variantlar": [
+    "Mustahkamlik chegarasining ruxsat etilgan kuchlanishga nisbati",
+    "Rang",
+    "Massa",
+    "Hajm"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Po'lat sim σ_chegara = 5 · 10⁸ Pa. S = 2 mm². Uzilish kuchi?",
+   "variantlar": [
+    "100 N",
+    "10 N",
+    "10⁴ N",
+    "1000 N"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Siljish deformatsiyasi qayerda kuzatiladi?",
+   "variantlar": [
+    "Suvda",
+    "Boltlar, parchin mixlarda",
+    "Havoda",
+    "Prujinada faqat"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Egilgan sterjenning yuqori qatlami cho'ziladi, pastki qatlami?",
+   "variantlar": [
+    "Uziladi",
+    "Siqiladi",
+    "O'zgarmaydi",
+    "Cho'ziladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -37,10 +37,10 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "O'rmon daraxtlari qayordagi suvi hisobiga o'sadi?",
+   "savol": "O'rmon daraxtlari qaysi suv hisobiga o'sadi?",
    "variantlar": [
-    "Kuyi",
-    "Buzi",
+    "Quduq suvi",
+    "Muz",
     "Daryo",
     "Yog'in"
    ],
@@ -86,7 +86,7 @@
     "Juda kam",
     "Zich bo'lib",
     "Birma-bir",
-    "Yoqilmasin"
+    "Tartibsiz"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -117,7 +117,7 @@
    "savol": "Agar biror joyda issiqlik yetarli bo'lsa, lekin yoz oylarida yog'in kam bo'lsa, bu qaysi muhitning o'ziga xos xususiyati?",
    "variantlar": [
     "Tog' muhiti",
-    "Cho'l muhiti",
+    "Qutb muhiti",
     "O'rmon muhiti",
     "Tekislik muhiti"
    ],
@@ -136,12 +136,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Daraxtlarning poyasi yo'g'ochlangan va qattiq bo'lsa, bu daraxtlar qanday namlikka moslashgan?",
+   "savol": "O'rmonlar qanday joylarda hosil bo'lmaydi?",
    "variantlar": [
-    "Tutuqqa",
-    "Ko'p namlikka",
-    "Kam namlikka",
-    "Faqat suvga"
+    "Issiqlik va namlik yetarli joyda",
+    "Tog' yonbag'irlarida",
+    "Juda quruq cho'llarda",
+    "Yog'in ko'p joylarda"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -152,7 +152,7 @@
     "Tog'liklarda issiqlik ko'p",
     "Tog'liklarda yog'in kam",
     "Tog'liklarda tuproq boshqacha",
-    "Tog'liklarda yozda yog'in bo'ladi"
+    "Tog'larda yozda ham yog'in bo'lib, yer nam turadi"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -171,7 +171,7 @@
   {
    "savol": "O'rmonlar qayerda ko'p namlikka ega bo'ladi?",
    "variantlar": [
-    "Kuydagi joylarda",
+    "Faqat qumli joylarda",
     "Tekisliklarda",
     "Cho'llarda",
     "Yog'inlar ko'p yog'adigon joylarda"
@@ -226,7 +226,7 @@
   {
    "savol": "Tog'likda yozda yog'in bo'lib turadigan va tekislikda yoz oylarida yog'in kam bo'ladigan shartlarni taqqoslasak, daraxtlar yaxshi o'sishi uchun qaysi muhit yanada qulay?",
    "variantlar": [
-    "Tog'lik",
+    "Cho'l",
     "Tekislik",
     "Tog'lik yanada qulay",
     "Ikkalasi bir xilda qulay"
@@ -246,22 +246,22 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Daraxtlarning poyasi yo'g'ochlangan, qattiq, bitta va yo'g'on ekanligini ko'ra, ular qaysi muhit shartshunosligiga moslashgan?",
+   "savol": "Yog'ochlangan qattiq poya daraxtga nima beradi?",
    "variantlar": [
-    "Qolmaga",
-    "Namlikka boy muhitga",
-    "Quruq muhitga",
-    "Suvda"
+    "Mustahkamlik va uzoq yashash",
+    "Tez so'lish",
+    "Suvda suzish",
+    "Uchish qobiliyati"
    ],
-   "togri": 2,
+   "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
    "savol": "Yo'l chetidagi (chinor, qarag'ay, eman) va tog' yonbag'irdagi (archa, yong'oq, do'lana) daraxtlarining asosiy farqini nima ko'rsatadi?",
    "variantlar": [
-    "Daraxtning o'smasi",
+    "Daraxtning yoshi",
     "Daraxtning rangi",
-    "Daraxtning qat'iyligi",
+    "Daraxtning qattiqligi",
     "Joyning iqlimi va muhiti boshqachaligi"
    ],
    "togri": 3,
@@ -294,7 +294,7 @@
    "variantlar": [
     "Quyosh shiddati",
     "Shamol kuchli",
-    "Tuproq xulosiy",
+    "Tuproq sho'r",
     "Yoz oylarida yog'ingarchilik kam"
    ],
    "togri": 3,
@@ -303,8 +303,8 @@
   {
    "savol": "Tog' yonbag'irlarida archa, yong'oq, do'lana, yovvoyi olma, olcha, bodom kabi turli daraxtlarning ko'p ekanligini tushunasiz?",
    "variantlar": [
-    "Tog'liklarda yozda yog'in shartshunosligining natijasidir",
-    "Tog'liklarda quruq sharoti",
+    "Tog'larda yozda ham yog'in bo'lishining natijasi",
+    "Tog'lardagi quruq sharoit",
     "Tog'da faqat archa o'sadi",
     "Tog'liklarda issiqlik ko'p"
    ],
@@ -312,11 +312,11 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "O'lkamizdagi tekisliklarda va tog'liklarda iqlim faqli farq bo'lgani uchun, o'simliklar boshqacha ekanligini tushunasiz?",
+   "savol": "O'lkamizdagi tekislik va tog'larda iqlim har xil bo'lgani uchun o'simliklar ham boshqacha. Bu nimani ko'rsatadi?",
    "variantlar": [
     "O'simliklar faqat quyoshga bog'liq",
     "O'simliklar faqat tuproqqa bog'liq",
-    "O'simliklar iqlim shartshunosligiga bog'liq",
+    "O'simliklar iqlim sharoitiga bog'liq",
     "O'simliklar shamolga bog'liq"
    ],
    "togri": 2,

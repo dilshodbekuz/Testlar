@@ -31,7 +31,7 @@
     "200 dan ortiq",
     "150 ta",
     "100 ta",
-    "250 ta"
+    "50 ta"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -70,7 +70,7 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Yurak qaysi qafasining markaziga yaqin joylashgan?",
+   "savol": "Yurak qaysi qafas ichida joylashgan?",
    "variantlar": [
     "Qo'lda",
     "Boshda",
@@ -85,8 +85,8 @@
    "variantlar": [
     "Suyaklardan",
     "Muskullardan",
-    "Qanlardan",
-    "Yarim yarim"
+    "Yog'dan",
+    "Teridan"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -129,14 +129,14 @@
    "variantlar": [
     "Nerv tizimini",
     "Skeletni",
-    "Qon idoplanarni",
+    "Qonni",
     "Muskullarni"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Bolalarning suyaklari katta yoshdagilardagidek qanday?",
+   "savol": "Bolalarning suyaklari katta yoshdagilarnikiga nisbatan qanday?",
    "variantlar": [
     "Qora va og'ir bo'ladi",
     "Oqroq va engil",
@@ -152,7 +152,7 @@
     "Tilni to'g'ri o'rganish uchun",
     "Chiroyli ko'rinishi uchun",
     "Osongina qilish uchun",
-    "Suyaklari to'la shakllanmaganidagi sababli"
+    "Suyaklari hali to'la shakllanmagani uchun"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -160,9 +160,9 @@
   {
    "savol": "Yurak muskullari qisqarib-bo'shashib turishdagi jarayon qanday deyiladi?",
    "variantlar": [
-    "Tushish",
-    "Jipak",
-    "Yurimish",
+    "Nafas olish",
+    "Hazm qilish",
+    "Terlash",
     "Yurak urishi"
    ],
    "togri": 3,
@@ -237,7 +237,7 @@
   {
    "savol": "Nega bolalarning suyaklari katta yoshdagi odamlarning suyaklaridek qattiq emas?",
    "variantlar": [
-    "Ularni boshqa materialdan yasaganing",
+    "Ular temirdan yasalgan",
     "Ular past sifatli",
     "Ular o'sish jarayonida bo'ladi",
     "Ular kichikdir"
@@ -260,9 +260,9 @@
    "savol": "Yurak muskullari nima uchun doimiy ravishda qisqarib-bo'shashib turishi kerak?",
    "variantlar": [
     "Yurakni kuchaytirish uchun",
-    "Yurakni tinjalantirish uchun",
+    "Yurakni to'xtatish uchun",
     "Qonni tananing barcha qismiga aylantirilshi uchun",
-    "Yurakni paraktar berish uchun"
+    "Suyaklarni o'stirish uchun"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -270,8 +270,8 @@
   {
    "savol": "Bolalar o'sib katta bo'lishga qadar bolalarning suyaklari qanday o'zgaradi?",
    "variantlar": [
-    "Yumshoqashadi ko'proq",
-    "Kichiyashadi",
+    "Yumshab boradi",
+    "Kichrayib boradi",
     "To'liq shakllanib qattiqashadi",
     "Yo'qolib ketadi"
    ],
@@ -283,7 +283,7 @@
    "variantlar": [
     "Yurak tezroq urishi kerak",
     "Muskullar zaiflashadi",
-    "A'zolar bektor chala ishlaydi",
+    "Ichki a'zolar himoyasiz qolib, shikastlanishi mumkin",
     "Hech nima sodir bo'lmaydi"
    ],
    "togri": 2,
@@ -312,22 +312,22 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Bolalarni to'g'ri tutish nima sababli biologik jihatdan muhim?",
+   "savol": "Bolalar gavdani to'g'ri tutishi nima uchun muhim?",
    "variantlar": [
     "Suyaklarining to'g'ri o'sishi va shakllanishi uchun",
     "Muskullarni kuchaytirish uchun",
-    "Osmondagi zararlandan himoya qilish uchun",
+    "Ko'zni himoya qilish uchun",
     "Til o'rganishni tezlashtirish uchun"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Skelettik tizim va ichki a'zolar o'zaro o'ylantirilishi odam uchun nima uchun muhim?",
+   "savol": "Skelet odam uchun nima uchun muhim?",
    "variantlar": [
     "Estetik taraqqiyot",
     "Ovqat hazm qilishi",
-    "Odam saqlash va harakat imkoniyatini ta'minlash",
+    "Tanani tutib turadi, ichki a'zolarni himoya qiladi va harakatni ta'minlaydi",
     "Qonni aylantirilishi"
    ],
    "togri": 2,

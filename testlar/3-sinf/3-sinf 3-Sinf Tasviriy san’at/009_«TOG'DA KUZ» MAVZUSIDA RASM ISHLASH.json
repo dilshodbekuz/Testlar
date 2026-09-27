@@ -81,9 +81,9 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Kung boqar va asalarilardan qaysi biri asosiy element hisoblanadi?",
+   "savol": "Kungaboqar va asalarilardan qaysi biri asosiy element?",
    "variantlar": [
-    "Kung boqar",
+    "Kungaboqar",
     "Asalarilar",
     "Ikkalasi ham",
     "Ikkalasi ham emas"
@@ -118,7 +118,7 @@
    "variantlar": [
     "O'z mazmuniga",
     "Rangiga",
-    "Uksini",
+    "Hidiga",
     "Hajmiga"
    ],
    "togri": 0,
@@ -172,8 +172,8 @@
    "savol": "\"Tog'da kuz\" mavzusida rasm ishlash uchun eng shunoq ranglar qaysilari?",
    "variantlar": [
     "Kuk, moviy, oq",
-    "Qora, siyoh, seriyali",
-    "Pushti, hovli, jingalak",
+    "Qora, siyohrang, kulrang",
+    "Pushti, binafsha, havorang",
     "Sariq, zarg'aldoq, qizil"
    ],
    "togri": 3,
@@ -184,8 +184,8 @@
    "variantlar": [
     "Qorong'u va sir",
     "Jonli, hayotiy",
-    "Kichkina va darak",
-    "Aniq va sevimli"
+    "Kichik va noaniq",
+    "Qo'rqinchli"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -196,7 +196,7 @@
     "Kuz tasviri va tabiati bo'yicha",
     "Faqat insonga",
     "Faqat hayvonlarga",
-    "Faqat qishloq a'lo"
+    "Faqat qishloqqa"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -207,7 +207,7 @@
     "Undan ko'p",
     "Faqat bittasi",
     "Asosiy va yordamchi ikkitasi",
-    "Faqat ikkitasi"
+    "Beshta"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -250,8 +250,8 @@
    "variantlar": [
     "Kompozitsiya o'z mazmunini yo'qotadi, chunki asosiy element uning asosi",
     "Hech narsa bo'lmaydi, chunki yordamchi elementlar etarli",
-    "Rasmning tobora yaxshi bo'ladi, chunki soddalashadi",
-    "Rasmning turli bor, chunki ranglar o'ynab turadi"
+    "Rasm yaxshilanadi, chunki soddalashadi",
+    "Ranglar ko'payadi"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -260,8 +260,8 @@
    "savol": "Kuz tasviri uchun qanday narsalar (elementlar) tanlash kerak va nima uchun?",
    "variantlar": [
     "Saroy va haramlar, chunki ular katta",
-    "Avval asosiy element (sariq narsalar), keyin yordamchi elementlar, chunki bu kompozitsiyaning tamoyili",
-    "Faqat gullalar, chunki ular go'zel",
+    "Avval asosiy element, keyin yordamchi elementlar tanlanadi, chunki bu kompozitsiya qoidasi",
+    "Faqat gullar, chunki ular go'zal",
     "O't va o'tlar, chunki ular ko'payadi"
    ],
    "togri": 1,
@@ -272,7 +272,7 @@
    "variantlar": [
     "Barchasi bir xil asarlar yaratganlar",
     "Barchasi bir vaqtda hayot kechirganlar",
-    "Barchasi oqladi va hamdamlar edi",
+    "Barchasi aka-uka edi",
     "Barchasi O'zbekistonning kuz mavzusini tasvir qilgan manzarachi rassomlar"
    ],
    "togri": 3,
@@ -281,9 +281,9 @@
   {
    "savol": "Siz rasm ishlashning dastlabki bosqichlarini bajarganingizdan so'ng, oxirgi bosqichda nima qilish kerak va nima uchun?",
    "variantlar": [
-    "Soya ishlarni oxiriga yetkaziash, chunki ular eng muhim",
+    "Soyalarni o'chirish",
     "Darhol rasm oxirlanadi, chunki bosqichlar tugash vaqti",
-    "Dunyoning xaritalasini chizish, chunki bu zarur",
+    "Dunyo xaritasini chizish",
     "Narsalar tasvirini aniqlashtirish, chunki bundan keyingina rasm to'liq bo'ladi"
    ],
    "togri": 3,
@@ -295,7 +295,7 @@
     "Yozning issiq va quruq ta'biati",
     "Bahorning iliq va yangi tamoyilini",
     "Qishning sovuqligi va tumanini",
-    "Kuzning o'zgarish, yangilanish va sofiyalanishini"
+    "Kuzning boyligi va rang-barangligini"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -317,7 +317,7 @@
     "To'rtinchi bosqich eng muhim, boshqa bosqichlar shuning uchun",
     "Birinchi bosqichda barcha texnikalarni ishlatish kerak",
     "Bosqichlarning ketma-ketligi muhim emas",
-    "Har bir bosqich avarkariga kerak va ular ketma-ketligi asar beradi - umumiydan xususiyga"
+    "Har bir bosqich keyingisiga asos bo'ladi — umumiydan xususiyga"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -326,8 +326,8 @@
    "savol": "Agar siz \"Tog'da kuz\" mavzusida rasm ishlasangiz va rangtasvir kompozitsiyasi qoidalarini amal qilsangiz, qanday asarning chiqishini kutasiz?",
    "variantlar": [
     "Faqat ko'k va qora ranglardan bo'lgan rasm",
-    "Toza va ranglarni qo'llashni o'zlashtirmagan rasm",
-    "O'rtada kung boqar kabi asosiy element, atrofida manzaralar va boshqa elementlar bo'lgan, kuz tasviri asarni",
+    "Ranglarni to'g'ri qo'llamagan rasm",
+    "O'rtada kungaboqar kabi asosiy element, atrofida yordamchi elementlar bo'lgan kuz manzarasi",
     "Faqat yordamchi elementlari bo'lgan rasm"
    ],
    "togri": 2,

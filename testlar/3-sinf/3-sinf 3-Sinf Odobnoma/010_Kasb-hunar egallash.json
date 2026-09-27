@@ -26,34 +26,34 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Ahmad otasidan qolgan boyligini qaysi yo'l bilan sarfladi?",
+   "savol": "Ahmad otasidan qolgan boylikni nima qildi?",
    "variantlar": [
-    "Tezda sarflab",
-    "Chuqur qazib o'tdi",
-    "Otasiga qaytaradi",
-    "Salbaqat uchun"
+    "Tezda sarflab tugatdi",
+    "Yerga ko'mib yashirdi",
+    "Otasining do'stlariga berdi",
+    "Sadaqa qildi"
    ],
    "togri": 0,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Matnd aytishicha, hunarning yaxshi-yomoni bormi?",
+   "savol": "Matnga ko'ra, hunarning yaxshi-yomoni bormi?",
    "variantlar": [
     "Faqat yomoni bor",
     "Juda ko'p yaxshi-yomoni bor",
-    "Salbaqat ko'p yaxshi-yomon",
+    "Faqat yaxshisi bor",
     "Yo'q, yaxshi-yomoni bo'lmaydi"
    ],
    "togri": 3,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Matnd aytishicha, inson boyligini qayga yo'qotishi mumkin?",
+   "savol": "Matnga ko'ra, inson boyligini yo'qotishi mumkinmi?",
    "variantlar": [
-    "Qora usta o'lgatirsin",
-    "Faqat otasiga",
     "Hech qachon yo'qotmaydi",
-    "Yo'qotishi mumkin"
+    "Faqat qarib qolganda",
+    "Faqat otasi rozi bo'lsa",
+    "Ha, yo'qotishi mumkin"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -81,12 +81,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Bilimli, kasb-hunarni puxta egallagan yoshlar nimaning bo'yligidir?",
+   "savol": "Bilimli, kasb-hunarni puxta egallagan yoshlar nimaning boyligidir?",
    "variantlar": [
-    "Qadimning",
-    "Yurt boyligidir",
-    "Umring",
-    "Shaxsining"
+    "Faqat o'zining",
+    "Yurtning boyligidir",
+    "Faqat ota-onasining",
+    "Hech kimning"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -172,17 +172,17 @@
    "savol": "Hunarni qunt bilan egallagan inson qanday sharafga ega bo'ladi?",
    "variantlar": [
     "Usta degan sharafga ega bo'ladi",
-    "Bey bo'ladi",
-    "Qadi bo'ladi",
+    "Bek bo'ladi",
+    "Qozi bo'ladi",
     "Mulla bo'ladi"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Ahmad yoshlikda hunar o'rganib bo'lsa, bugungi kuni kim bo'lardi?",
+   "savol": "Ahmad yoshligida hunar o'rganganida, keyin kim bo'lardi?",
    "variantlar": [
-    "Behisob inson",
+    "Xasis boy",
     "Usta",
     "Oqibatsiz inson",
     "Qashshoq"
@@ -191,12 +191,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Matnd aytishicha, inson boyligini yo'qotishi mumkin lekin hunanni qaysi yo'l bilan tortib ololmaydi?",
+   "savol": "Matnga ko'ra, inson boyligini yo'qotishi mumkin, lekin hunarini kim tortib ola oladi?",
    "variantlar": [
     "Hech kim tortib ololmaydi",
-    "Pul bilan",
-    "Otasiga berish bilan",
-    "Kuchga ko'ra"
+    "Pul bergan kishi",
+    "Otasi",
+    "Kuchli odam"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -213,12 +213,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Ahmad otasining \"boyligidan o'ziga ham, o'zgalarga ham foyda yo'q edi\" degan so'zining sababi nima?",
+   "savol": "Nima uchun xasis boyning boyligidan o'ziga ham, o'zgalarga ham foyda yo'q edi?",
    "variantlar": [
-    "Boyliq qo'yilgan joyda edi",
-    "Boyliq oz edi",
-    "Boylikni eyshaqa sarflamadi, ilm-hunarqa sarflamadi",
-    "Boy behisob edi"
+    "Boylik juda oz edi",
+    "Boylik o'g'irlangan edi",
+    "U boyligini yaxshi ishlarga va ilm-hunarga sarflamagan",
+    "Boy juda saxiy edi"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -259,32 +259,32 @@
   {
    "savol": "Matnd aytishicha, \"Xasisning moli, isrofgarning holi, ilm-hunarsizning ahvoli shunday bo'ladi\" deganida nima tushuntirilyapti?",
    "variantlar": [
-    "Xasis, isrofgar va ilm-hunarsizning halati xuddi shunday yomon ekanligi",
+    "Xasis, isrofgar va ilm-hunarsizning holati yomon bo'lishi",
     "Barcha insonlar xuddi shunday bo'ladi",
-    "Isrofgar yahshi bo'ladi",
-    "Boyliq katta boyasi"
+    "Isrofgar yaxshi yashaydi",
+    "Boylik eng katta baxt"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Ahmad qanday yo'l bilan \"juda afsuslandi\"?",
+   "savol": "Ahmad nimadan juda afsuslandi?",
    "variantlar": [
-    "Otasi vafot etganida",
-    "Hunarmand bo'lmasa",
-    "Bilim yoki hunar egallamagani sababli, otasining boyligini sarflab qashshoq bo'ldi",
-    "Boyligini sarflaganida"
+    "Otasi unga meros qoldirganidan",
+    "Ustaga shogird bo'lganidan",
+    "Yoshligida hunar o'rganmay, boylikni sovurib qashshoq bo'lganidan",
+    "Boy bo'lib qolganidan"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Usta Ahmad o'g'liga \"har oyda bir tilla\" deganida, uning haqiqiy maqsadi nima bo'lgan?",
+   "savol": "Usta hunar o'rgatish uchun \"har oyda bir tilla\" haq so'raganida nimani nazarda tutgan?",
    "variantlar": [
-    "Faqat pul olish",
-    "Shagirtni sinab ko'rish",
-    "Hunar o'rganishga qiymat berish va shagirt sog'inishni tekshirish",
-    "Usta pul istagani"
+    "Faqat boyib ketishni",
+    "Shogirdni qo'rqitishni",
+    "Hunar o'rganishning qadrini",
+    "Boy bilan urishishni"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -292,10 +292,10 @@
   {
    "savol": "Matnd aytishicha, \"Dangasalik va yalqovlikdan yiroq bo'lgan ilm-hunarlı inson hech qachon xor bo'lmaydi, hamisha izzatda bo'ladi\" degan fikr nimaga asoslanadi?",
    "variantlar": [
-    "O'qituvchilik xorliqni olib tashlaydi",
-    "Xorliq faqat boy bo'lganda bo'ladi",
-    "Boyliq izzat beradi",
-    "Ilm-hunar insonga o'z-o'ziga harakat va izzat beradi, hunarsiz inson zavozdan qutilib bola olmaydi"
+    "O'qituvchilik xorlikni yo'qotadi",
+    "Xorlik faqat boylarda bo'ladi",
+    "Boylik izzat beradi",
+    "Ilm-hunar insonga daromad va izzat keltiradi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -314,7 +314,7 @@
   {
    "savol": "Matnd aytishicha, yoshlikda kasb-hunar egallash uchun insonda nima yetarli?",
    "variantlar": [
-    "Vaqt va imkoniyatlar yetarli va buning unumli foydalanish kerak",
+    "Vaqt va imkoniyat bor, faqat undan unumli foydalanish kerak",
     "Faqat ota-ona ruxsati",
     "Faqat vaqt",
     "Faqat pul"

@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "5-§. Ideal gaz",
+ "savollar": [
+  {
+   "savol": "Ideal gaz nima?",
+   "variantlar": [
+    "Molekulalari orasidagi o'zaro ta'sir hisobga olinmaydigan gaz",
+    "Qattiq jism",
+    "Suyuqlik",
+    "Har qanday gaz"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ideal gaz molekulalari qanday model bilan almashtiriladi?",
+   "variantlar": [
+    "Kublar bilan",
+    "Sharlar bilan",
+    "Chiziqlar bilan",
+    "Moddiy nuqtalar bilan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ideal gazda molekulalar orasidagi o'zaro ta'sir?",
+   "variantlar": [
+    "Faqat to'qnashuv paytida",
+    "Yo'q",
+    "Doim mavjud",
+    "Doim tortishish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gaz bosimi nimadan hosil bo'ladi?",
+   "variantlar": [
+    "Og'irlikdan",
+    "Sovuqdan",
+    "Massadan",
+    "Molekulalarning idish devoriga urilishidan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bosim birligi?",
+   "variantlar": [
+    "Joul",
+    "Nyuton",
+    "Vatt",
+    "Paskal"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 Pa = ?",
+   "variantlar": [
+    "1 N/m²",
+    "1 J",
+    "1 N",
+    "1 W"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gaz bosimi formulasi?",
+   "variantlar": [
+    "p = S / F",
+    "p = F + S",
+    "p = F / S",
+    "p = F · S"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gaz bosimi molekulalar konsentratsiyasiga?",
+   "variantlar": [
+    "To'g'ri proporsional",
+    "Bog'liq emas",
+    "Teskari proporsional",
+    "Kvadratik teskari"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Konsentratsiya n nima?",
+   "variantlar": [
+    "Bosim",
+    "Massa",
+    "Birlik hajmdagi molekulalar soni",
+    "Temperatura"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Konsentratsiya formulasi?",
+   "variantlar": [
+    "n = V / N",
+    "n = N + V",
+    "n = N / V",
+    "n = N · V"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Molekulyar-kinetik nazariyaning asosiy tenglamasi?",
+   "variantlar": [
+    "p = n v",
+    "p = (1/3) n m₀ v²",
+    "p = m₀ v²",
+    "p = n m₀ v"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bu tenglamada v nima?",
+   "variantlar": [
+    "Hajm",
+    "Massa",
+    "Molekulalarning o'rtacha kvadratik tezligi",
+    "Bosim"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = (2/3) n E_k formulasida E_k nima?",
+   "variantlar": [
+    "Molekulaning o'rtacha kinetik energiyasi",
+    "Massa",
+    "Hajm",
+    "Potensial energiya"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Molekulalar konsentratsiyasi 2 marta ortsa (T = const), bosim?",
+   "variantlar": [
+    "2 marta ortadi",
+    "O'zgarmaydi",
+    "2 marta kamayadi",
+    "4 marta ortadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Molekulalar tezligi 2 marta ortsa (n = const), bosim?",
+   "variantlar": [
+    "2 marta ortadi",
+    "2 marta kamayadi",
+    "O'zgarmaydi",
+    "4 marta ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gaz bosimini kim birinchi tushuntirgan?",
+   "variantlar": [
+    "Kulon",
+    "Nyuton",
+    "Om",
+    "M. Lomonosov, D. Bernulli"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ideal gaz modelida molekulalar hajmi?",
+   "variantlar": [
+    "Katta",
+    "Cheksiz",
+    "O'zgaruvchan",
+    "E'tiborga olinmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ideal gaz modelida qanday to'qnashuvlar?",
+   "variantlar": [
+    "Absolyut elastik",
+    "Yopishqoq",
+    "Yo'q",
+    "Noelastik"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Idish hajmi 2 marta kamaysa (T, N const), bosim?",
+   "variantlar": [
+    "2 marta kamayadi",
+    "4 marta ortadi",
+    "O'zgarmaydi",
+    "2 marta ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Haqiqiy gaz qachon ideal gazga yaqin?",
+   "variantlar": [
+    "Suyuq holatda",
+    "Yuqori bosimda",
+    "Past bosim va yuqori temperaturada",
+    "Past temperaturada"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "n = 10²⁵ m⁻³, m₀ = 5 · 10⁻²⁶ kg, v² = 3 · 10⁵ m²/s². p = (1/3) n m₀ v² = ?",
+   "variantlar": [
+    "5 · 10⁵ Pa",
+    "5 · 10³ Pa",
+    "1,5 · 10⁵ Pa",
+    "5 · 10⁴ Pa"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p = 10⁵ Pa, n = 2,5 · 10²⁵ m⁻³. E_k = 3p/(2n) = ?",
+   "variantlar": [
+    "1 J",
+    "6 · 10⁻²² J",
+    "6 · 10⁻²¹ J",
+    "6 · 10⁻²⁰ J"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p = (2/3) n E_k. E_k 2 marta ortsa (n const), p?",
+   "variantlar": [
+    "2 marta ortadi",
+    "2 marta kamayadi",
+    "O'zgarmaydi",
+    "4 marta ortadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki idishdagi gazlarning n va E_k bir xil bo'lsa, bosimlari?",
+   "variantlar": [
+    "Turlicha",
+    "Teng",
+    "Aniqlab bo'lmaydi",
+    "Birinchisida katta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p = 2·10⁵ Pa, n = 3 · 10²⁵. E_k = ?",
+   "variantlar": [
+    "2 · 10⁻²⁰ J",
+    "10⁻¹⁹ J",
+    "10⁻²¹ J",
+    "10⁻²⁰ J"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 atm ≈ ?",
+   "variantlar": [
+    "10⁷ Pa",
+    "10³ Pa",
+    "10⁵ Pa",
+    "1 Pa"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Atmosfera bosimi taxminan?",
+   "variantlar": [
+    "101 325 Pa",
+    "10 Pa",
+    "1000 Pa",
+    "10⁷ Pa"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hajm 3 marta kamaysa, molekulalar konsentratsiyasi?",
+   "variantlar": [
+    "3 marta ortadi",
+    "O'zgarmaydi",
+    "9 marta ortadi",
+    "3 marta kamayadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Devorga zarba beruvchi molekulalar soni ortsa bosim?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Nol",
+    "Ortadi",
+    "Kamayadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ideal gaz ichki energiyasi faqat nimaga bog'liq?",
+   "variantlar": [
+    "Hajmga",
+    "Temperaturaga (molekulalar kinetik energiyasiga)",
+    "Bosimga",
+    "Massaga faqat"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

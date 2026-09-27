@@ -9,7 +9,7 @@
     "Fil, yo'lbars, sher, ayiq, bo'ri, kenguru, maymun, zebra",
     "Faqat suv jonivorlari",
     "Faqat otlar va qushlar",
-    "Faqat parralar"
+    "Faqat pingvinlar"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -64,7 +64,7 @@
     "Eshitish organi",
     "Ko'rish organi",
     "Yurish organi",
-    "Uzun, tutib olish organi"
+    "Uzun, narsani ushlaydigan a'zo (burni)"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -95,7 +95,7 @@
    "savol": "O'lkamizda uchramaydigan hayvonlarni qayerda uchratish mumkin?",
    "variantlar": [
     "Toshkent hayvonot bog'ida",
-    "Bajos",
+    "Bog'da",
     "O'rmonda",
     "Cho'lda"
    ],
@@ -138,7 +138,7 @@
   {
    "savol": "Zebra va otning tuzilishi bir xil bo'lsa, ularning asosiy farqi nima?",
    "variantlar": [
-    "Rang va jamilarlari",
+    "Rangi va yo'l-yo'l naqshi",
     "Bosh shakli",
     "Oyoqlarining soni",
     "Dumining uzunligi"
@@ -180,12 +180,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Hayvonot bog'idagi hayvonlarni qanday ikki guruhga ajratish mumkin?",
+   "savol": "Matnga ko'ra hayvonot bog'idagi hayvonlar qaysi belgisiga ko'ra ikki guruhga bo'linadi?",
    "variantlar": [
-    "Qushlar / Mamlaklarlar",
+    "Qushlar va sutemizuvchilar",
     "Suv jonivorlari / Yer jonivorlari",
     "Yirik / Kichkina",
-    "O'lkamizda uchraydi / uchraydi"
+    "O'lkamizda uchraydigan va uchramaydigan"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -202,14 +202,14 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "O'lkamizda uchraydi va uchraydi hayvonlar rasmda qanday farqlanadi?",
+   "savol": "Filni boshqa hayvonlardan qaysi a'zosi ajratib turadi?",
    "variantlar": [
-    "Faqat rang farq qiladi",
-    "Turli rang va o'lchamlarda tasvirlanadi",
-    "Faqat o'lchami farq qiladi",
-    "Hech farq qilinmaydi"
+    "Xartumi",
+    "Dumi",
+    "Ko'zi",
+    "Oyoqlari soni"
    ],
-   "togri": 1,
+   "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
@@ -226,8 +226,8 @@
   {
    "savol": "Filning tanasi, boshi va quloqlarining bir xil oval bo'lishi rasmda qanday muvozanat yaratadi?",
    "variantlar": [
-    "Hayvonning so'qqalib ko'rinishini",
-    "Hayvonning qadangan ko'rinishini",
+    "Hayvonning xunuk ko'rinishini",
+    "Hayvonning qiyshiq ko'rinishini",
     "Hayvonning xavfli ko'rinishini",
     "Hayvonning harmoniyali va to'liq ko'rinishini"
    ],
@@ -301,7 +301,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Noyob hayvonlarni o'rganishda qaysi bilimni eng avval ikki qilish muhim?",
+   "savol": "Noyob hayvonlarni o'rganishda nimani birinchi navbatda bilish muhim?",
    "variantlar": [
     "Faqat ularning o'lcham",
     "Ularning tuzilishi, yashash joyi, harakati va xususiyatlarini",

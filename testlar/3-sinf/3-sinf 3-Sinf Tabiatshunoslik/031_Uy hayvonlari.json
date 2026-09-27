@@ -61,10 +61,10 @@
   {
    "savol": "Qorako'l qo'yining terisidan nima tikiladi?",
    "variantlar": [
-    "Xo'jahon",
+    "Paxta ko'ylak",
     "Telpak, paltoning yengi va yoqalari",
-    "Sharf va dumaloq",
-    "Ayakka kiyim"
+    "Sharf",
+    "Oyoq kiyim"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -161,7 +161,7 @@
    "savol": "O'lkamizda qoramollar qaysi faslarda yaylovlarda boqiladi?",
    "variantlar": [
     "Faqat yozda",
-    "Olis mavsum bo'yida",
+    "Faqat qishda",
     "Faqat bahorida",
     "Bahor, yoz va kuzda"
    ],
@@ -216,8 +216,8 @@
    "savol": "Qo'chqorlar qancha vaqt bo'rdoqiga boqilib, keyin go'shtga topshiriladi?",
    "variantlar": [
     "Bir yil",
-    "Oltita oyda",
-    "Bir necha yil",
+    "Bir kun",
+    "Bir necha oy",
     "Ikki oyda"
    ],
    "togri": 2,
@@ -250,21 +250,21 @@
    "variantlar": [
     "Sutning miqdori va hayvon soni ortishi uchun",
     "Faqat jonli kuchni oshirish uchun",
-    "Boqa saqchi bolib chiqishin degan uchun",
-    "Sot yeydi degan fikr uchun"
+    "Sigir kamroq sut berishi uchun",
+    "Hech qanday ahamiyati yo'q"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Otlar tarixiy O'zbekistonda qanday muhim rol o'ynamagan?",
+   "savol": "Otlar qadimdan nima uchun ishlatilgan?",
    "variantlar": [
-    "Yuklarni tashishda yordam bermagan",
-    "Uzoq yo'lga borish va jang qilishda ishlatilmagan",
-    "Faqat rang berish uchun ishlatilgan",
-    "Cho'ponlar mol boqishda ot minmagan"
+    "Faqat bezak uchun",
+    "Yuk tashish, uzoq yo'lga borish va mol boqishda",
+    "Faqat sut uchun",
+    "Umuman ishlatilmagan"
    ],
-   "togri": 2,
+   "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
@@ -290,14 +290,14 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Tog' va cho'l yaylovlarida qo'ylarni katta poda qilib boqish qanday ahamiyatga ega?",
+   "savol": "Qo'ylar asosan qayerlarda katta poda qilib boqiladi?",
    "variantlar": [
-    "Qo'ylar tabiatning shunga mos bo'lgani va xashak moltasiga muhtoj bo'lgani uchun",
-    "Ularni o'zaro jang qilishning oldini olish uchun",
-    "Boshqa hayvonlarni qaytarib yuborish uchun",
-    "Cho'ponlarning ishini osonlashtirish uchun"
+    "Shahar ko'chalarida",
+    "Suv ostida",
+    "Tog' va cho'l yaylovlarida",
+    "Faqat uy ichida"
    ],
-   "togri": 0,
+   "togri": 2,
    "qiyinlik": "qiyin"
   },
   {

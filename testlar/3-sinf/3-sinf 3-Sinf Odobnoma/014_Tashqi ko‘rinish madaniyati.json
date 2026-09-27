@@ -62,8 +62,8 @@
    "savol": "Oyoq kiyimini qanday saqlash kerak?",
    "variantlar": [
     "Osib qo'yish kerak",
-    "Erkasiztirish kerak",
-    "Peshonali yig'ish kerak",
+    "Stol ustiga qo'yish kerak",
+    "Karavot ostiga tashlash kerak",
     "Juftlab, o'z joyiga qo'yish kerak"
    ],
    "togri": 3,
@@ -81,23 +81,23 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Tugmalarni qanday bo'lishi kerak?",
+   "savol": "Tugmalar qanday bo'lishi kerak?",
    "variantlar": [
     "Bo'sh bo'lishi kerak",
     "Yo'qolgan bo'lishi kerak",
     "Shnur bilan bog'langan bo'lishi kerak",
-    "Qadab bo'lishi kerak"
+    "Qadalgan bo'lishi kerak"
    ],
    "togri": 3,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Poyabzal bog'ichlarini qanday saqlash kerak?",
+   "savol": "Poyabzal bog'ichlari qanday bo'lishi kerak?",
    "variantlar": [
-    "Bog'lab yurish kerak",
-    "Osib qo'yish kerak",
-    "Ochiq qo'yish kerak",
-    "Suyakda qo'yish kerak"
+    "Bog'langan bo'lishi kerak",
+    "Osilib turishi kerak",
+    "Yechiq bo'lishi kerak",
+    "Uzib tashlanishi kerak"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -108,7 +108,7 @@
     "Ixtiyoriy joyda",
     "Suv chiqadigan joyda",
     "Toza va ozoda saqlash kerak",
-    "Qayqig'da yig'ib"
+    "Qopga tiqib"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -127,10 +127,10 @@
   {
    "savol": "Dilnoza nima sababli maktabga yangi ko'ylak kiyib bormoqchi edi?",
    "variantlar": [
-    "O'rtaqlariga ko'rsatmoqchi edi",
+    "O'rtoqlariga ko'rsatmoqchi edi",
     "Yosh bo'lgani uchun",
-    "Osmalari qo'y bergan",
-    "Maktab formasi jo'xlanib ketgan"
+    "Onasi shunday buyurgan edi",
+    "Maktab formasi yo'qolgan edi"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -149,9 +149,9 @@
   {
    "savol": "Dilshod partaga va devorga nima qilmoqda?",
    "variantlar": [
-    "Shuqqa sola o'tiryapti",
+    "Jim o'tiradi",
     "Kitob o'qiydi",
-    "Uyqu qiladi",
+    "Uxlaydi",
     "Turli so'zlarni yozadi, rasm chizadi"
    ],
    "togri": 3,
@@ -161,9 +161,9 @@
    "savol": "Dilshod darsda tinch o'tirolmaydi degan fikrning sababi nima?",
    "variantlar": [
     "Partada yozib, rasm chizib, sinfdoshlarini gapga tutib diqqatini bo'laydi",
-    "Somali bor",
-    "Juda akiq",
-    "Dars jo'xlanib ketgan"
+    "Kasal bo'lgani uchun",
+    "Juda charchagani uchun",
+    "Dars zerikarli bo'lgani uchun"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -171,10 +171,10 @@
   {
    "savol": "Kiyim-kechaklarni \"pala-partish\" deganda nima tushuniladi?",
    "variantlar": [
-    "Osib qo'yish kerak",
-    "Juda ehtiyot saqlash",
-    "Vaqti-vaqti bilan tashlash, peryasini qilish",
-    "Bitta yerdagi qo'yib qo'yish"
+    "Ilgichga ilib qo'yish",
+    "Juda ehtiyot qilib saqlash",
+    "Tartibsiz, duch kelgan joyga tashlab qo'yish",
+    "Javonga taxlab qo'yish"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -183,20 +183,20 @@
    "savol": "Dilshod o'z narsalarini qanday saqlaydi?",
    "variantlar": [
     "Juda ehtiyot saqlaydi",
-    "Ota-onalariga tapshiradi",
-    "Ayamasligi sababli yo'qota beradi va yo'l chetidan yuradi",
+    "Ota-onasiga topshiradi",
+    "Ehtiyot qilmaydi, tez-tez yo'qotib qo'yadi",
     "Xavfsiz joyda saqlaydi"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Dilshod Salim bobosin nima bilan masalaga tushdi?",
+   "savol": "Dilshod Salim bobo bilan nima sababdan noxush vaziyatga tushdi?",
    "variantlar": [
-    "Kurtka yo'qota berdi",
-    "Dars tushishdi",
-    "Otgan tosh uning oynasini sindirdi",
-    "Shapkani oldi"
+    "Kurtkasini yo'qotdi",
+    "Darsga kechikdi",
+    "Otgan toshi bobo uyining oynasini sindirdi",
+    "Shapkasini oldi"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -224,12 +224,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Dilnozaning xatti-harakati insoning tarbiyasini nima sababli ko'rgazadi?",
+   "savol": "Dilnozaning xatti-harakati nimani ko'rsatadi?",
    "variantlar": [
-    "U odobli va o'ylovi bor",
-    "U xizmatchi",
-    "U o'zini noto'g'ri ko'rgazmoqchi, ortiqcha ishtiholga tushgan, narsalarni qadrini bilmaydi",
-    "U behuda"
+    "U juda odobli ekanini",
+    "U onasiga yordam berishini",
+    "U o'zini ko'rsatishni yaxshi ko'rishini va narsalar qadrini bilmasligini",
+    "U mehnatkash ekanini"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -238,9 +238,9 @@
    "savol": "Agar Dilshod kiyinish va tashqi ko'rinish odobiga rioya qilsa, uning hayoti qanday o'zgaradi?",
    "variantlar": [
     "Hech qachon o'zgarmaydi",
-    "U baxtsizdirman",
-    "Ota-onalari ko'proq pul sarflamay, narsalarini ehtiyot bilan asrasa, bu ko'p muammolar kelib chiqmaydi",
-    "Mehr kiyim sotib olish kerak"
+    "U baxtsiz bo'ladi",
+    "Narsalari asraladi, ota-onasi ortiqcha xarajat qilmaydi",
+    "Ko'proq kiyim sotib olish kerak bo'ladi"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -268,7 +268,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Dilshod o'ziga maslahat berilganiga nima sabab emas?",
+   "savol": "Quyidagilardan qaysi biri matnda Dilshodning kamchiligi sifatida aytilmagan?",
    "variantlar": [
     "U o'z narsalarini yo'qota beradi va ehtiyot bo'lmaydi",
     "U loy va toshloq joylardan yuradi",
@@ -281,9 +281,9 @@
   {
    "savol": "Dilnoza ortiqcha ishtiholga tushganini matndagi qaysi gaplar dalil beradi?",
    "variantlar": [
-    "U ota-onasini yig'latti",
+    "U ota-onasini yig'latdi",
     "U yangi ko'ylak sotib olgan",
-    "\"Bo'lmasa, maktabga bormayman\" va mehmonga kiyish kerak bo'lgan ko'ylakni maktabga kiyib borgani",
+    "\"Bo'lmasa, maktabga bormayman\" deb, mehmonga kiyiladigan ko'ylakni maktabga kiymoqchi bo'lgani",
     "U darsga kelmadi"
    ],
    "togri": 2,
@@ -293,26 +293,26 @@
    "savol": "Kiyim-kechaklari to'g'ri saqlash va ehtiyot qilish inson hayotida nima rol o'ynaydi?",
    "variantlar": [
     "Vaqt o'tkazish",
-    "Narsalarni qadrini bilish, ularni uzoq muddat saqlash va oilaga bo'lgan masrafni kamaytirish",
+    "Narsalar qadriga yetish, ularni uzoq saqlash va oila xarajatini kamaytirish",
     "Kattalarni qiziqtirish",
-    "Harom qilish"
+    "Isrof qilish"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Dilshod kiyim-kechaklari asrashni ihtiyot qilmayotgani uning qaysi xatosining belgisi?",
+   "savol": "Dilshodning kiyimlarini ehtiyot qilmasligi uning qaysi kamchiligini ko'rsatadi?",
    "variantlar": [
-    "U katta bo'lmadi",
-    "U birodar-uyalari bor",
-    "U sust bo'ldi",
-    "Ehtiyotsizlik, narsalarni qadrini bilmaylik, tarbiyaning yo'qligi va kiyinish madaniyatiga rioya qilmaylik"
+    "U hali kichik ekanini",
+    "Uning aka-ukalari ko'pligini",
+    "U kasal ekanini",
+    "Ehtiyotsizlik, narsalar qadrini bilmaslik va kiyinish madaniyatiga rioya qilmaslik"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Agar siz Dilnozaning onasiga maslahat beradigan bo'lsangiz, qanday tushuntirasiz?",
+   "savol": "Agar siz Dilnozaga maslahat beradigan bo'lsangiz, nima deysiz?",
    "variantlar": [
     "Har kuni yangi kiyim sotib olish kerak",
     "Yangi ko'ylak yaxshi",

@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Algebra",
+ "mavzu": "35-§. Hodisaning ehtimolligi",
+ "savollar": [
+  {
+   "savol": "Hodisa ehtimolligi formulasi (klassik ta'rif)?",
+   "variantlar": [
+    "P(A) = m · n",
+    "P(A) = m / n",
+    "P(A) = n / m",
+    "P(A) = m + n"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Formulada m nima?",
+   "variantlar": [
+    "A hodisaga qulay natijalar soni",
+    "Barcha natijalar soni",
+    "Tajribalar soni",
+    "Hodisa raqami"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Formulada n nima?",
+   "variantlar": [
+    "Barcha teng imkoniyatli natijalar soni",
+    "Ehtimol",
+    "Qulay natijalar soni",
+    "Tajribalar soni"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ehtimollik qanday oraliqda?",
+   "variantlar": [
+    "(0; 1)",
+    "[−1; 1]",
+    "[0; 1]",
+    "[0; 100]"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Muqarrar hodisa ehtimolligi?",
+   "variantlar": [
+    "1/2",
+    "1",
+    "0",
+    "100"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mumkin bo'lmagan hodisa ehtimolligi?",
+   "variantlar": [
+    "−1",
+    "0",
+    "1",
+    "1/2"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tangada gerb chiqish ehtimolligi?",
+   "variantlar": [
+    "1",
+    "0",
+    "1/2",
+    "1/4"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kubikda 6 chiqish ehtimolligi?",
+   "variantlar": [
+    "1/2",
+    "6",
+    "1/6",
+    "1/3"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kubikda juft son chiqish ehtimolligi?",
+   "variantlar": [
+    "2/3",
+    "1/6",
+    "1/3",
+    "1/2"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kubikda 7 chiqish ehtimolligi?",
+   "variantlar": [
+    "1/7",
+    "1/6",
+    "0",
+    "1"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kubikda 4 dan katta son chiqish ehtimolligi?",
+   "variantlar": [
+    "1/3",
+    "1/2",
+    "1/6",
+    "2/3"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kubikda 3 dan kichik son chiqish ehtimolligi?",
+   "variantlar": [
+    "2/3",
+    "1/3",
+    "1/6",
+    "1/2"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qutida 3 qizil va 7 ko'k shar. Qizil shar olish ehtimolligi?",
+   "variantlar": [
+    "7/10",
+    "3/7",
+    "3/10",
+    "1/2"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qutida 3 qizil va 7 ko'k shar. Ko'k shar olish ehtimolligi?",
+   "variantlar": [
+    "3/10",
+    "7/10",
+    "7/3",
+    "1/2"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "36 ta kartadan bitta olinganda tuz (4 ta) chiqish ehtimolligi?",
+   "variantlar": [
+    "4/9",
+    "1/4",
+    "1/9",
+    "1/36"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sinfda 30 o'quvchi, 12 ta qiz. Tasodifiy qiz tanlash ehtimolligi?",
+   "variantlar": [
+    "12/18",
+    "1/2",
+    "2/5",
+    "3/5"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki tanga tashlanganda ikkalasida ham gerb chiqish ehtimolligi?",
+   "variantlar": [
+    "1/2",
+    "1/3",
+    "3/4",
+    "1/4"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 dan 10 gacha kartochkadan bittasi olinganda toq son chiqish ehtimolligi?",
+   "variantlar": [
+    "1/5",
+    "1/10",
+    "1/2",
+    "3/5"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 dan 20 gacha sonlardan bitta tanlanganda 5 ga karrali son chiqish ehtimolligi?",
+   "variantlar": [
+    "1/5",
+    "1/4",
+    "1/2",
+    "1/20"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A hodisaning ehtimolligi 0,3 bo'lsa Ā ning ehtimolligi?",
+   "variantlar": [
+    "0,3",
+    "0,7",
+    "0",
+    "1,3"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki kubik tashlanganda yig'indi 7 bo'lish ehtimolligi?",
+   "variantlar": [
+    "7/36",
+    "1/6",
+    "1/12",
+    "1/36"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki kubik tashlanganda yig'indi 12 bo'lish ehtimolligi?",
+   "variantlar": [
+    "1/18",
+    "1/6",
+    "1/36",
+    "1/12"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki kubik tashlanganda yig'indi 5 bo'lish ehtimolligi?",
+   "variantlar": [
+    "1/6",
+    "1/12",
+    "1/9",
+    "5/36"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki kubikda yig'indi 4 dan kichik bo'lish ehtimolligi?",
+   "variantlar": [
+    "1/6",
+    "1/36",
+    "1/12",
+    "1/9"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uch tanga tashlanganda aniq bittasida gerb chiqish ehtimolligi?",
+   "variantlar": [
+    "1/4",
+    "1/2",
+    "1/8",
+    "3/8"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uch tanga tashlanganda kamida bittasida gerb chiqish ehtimolligi?",
+   "variantlar": [
+    "1/8",
+    "7/8",
+    "1",
+    "3/8"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qutida 5 ta oq va 3 ta qora shar. 2 ta shar birdaniga olinganda ikkalasi oq bo'lish ehtimolligi?",
+   "variantlar": [
+    "3/14",
+    "5/8",
+    "25/64",
+    "5/14"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki tanga tashlanganda kamida bir marta gerb chiqish ehtimolligi?",
+   "variantlar": [
+    "3/4",
+    "1/4",
+    "1/2",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kubik ikki marta tashlanganda ikkalasida ham 6 chiqish ehtimolligi?",
+   "variantlar": [
+    "1/6",
+    "1/3",
+    "1/36",
+    "1/12"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ehtimolligi 0,25 bo'lgan hodisa 100 ta tajribada taxminan necha marta ro'y beradi?",
+   "variantlar": [
+    "50",
+    "25",
+    "4",
+    "75"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

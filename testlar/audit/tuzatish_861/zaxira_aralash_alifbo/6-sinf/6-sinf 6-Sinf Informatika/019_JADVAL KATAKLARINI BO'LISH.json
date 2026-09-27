@@ -1,0 +1,337 @@
+{
+ "sinf": "6-sinf",
+ "kitob": "6-sinf 6-Sinf Informatika",
+ "mavzu": "JADVAL KATAKLARINI BO'LISH",
+ "savollar": [
+  {
+   "savol": "Jadval kataklari bo'lish uchun Maket tasmasining qaysi guruhida \"Kataklari bo'linsin\" tugmasi joylashgan?",
+   "variantlar": [
+    "Birlashtirish",
+    "Forma",
+    "Tekislash",
+    "Joylashtirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jadvalda matn qaysi yo'nalishda yozilishi mumkin?",
+   "variantlar": [
+    "Faqat vertikal yo'nalishda",
+    "Faqat gorizontal yo'nalishda",
+    "Diagonalda",
+    "Gorizontal va vertikal yo'nalishda"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gorizontal matn yo'nalishida matn qaysi tomondan yoziladi?",
+   "variantlar": [
+    "Pastdan yuqoriga",
+    "O'ngdan chapga",
+    "Yuqoridan pastga",
+    "Chapdan o'ngga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jadval kataklari bo'lishda yurgich qaerga joylashtiriladi?",
+   "variantlar": [
+    "Qayta yo'l asida",
+    "Jadvalning boshiga",
+    "Kerakli katakka",
+    "Jadvalning oxiriga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matn yo'nalishini 2-usulda o'zgartirishda birinchi bosqich nima?",
+   "variantlar": [
+    "Enter tugmasi bosish",
+    "OK tugmasi bosish",
+    "Delete tugmasi bosish",
+    "Yurgich matn yoziladigan katakchaga joylashtiriladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vertikal matn yo'nalishida matn qaysi tomonlardan yozilishi mumkin?",
+   "variantlar": [
+    "Faqat yuqoridan pastga",
+    "Faqat pastdan yuqoriga",
+    "Yuqoridan pastga yoki pastdan yuqoriga",
+    "Chapdan o'ngga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matn yo'nalishini 1-usulda o'zgartirishda qaysi tugma tanlanadi?",
+   "variantlar": [
+    "Birlashtirish",
+    "Ranglar",
+    "Kataklari bo'linsin",
+    "Matn yo'nalishi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sichqonchaning qaysi tugmasi bosib kontekst-menyu chiqariladi?",
+   "variantlar": [
+    "O'ng tugma",
+    "Chap tugma",
+    "Yuqori tugma",
+    "O'rta tugma"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jadval katakasini bo'lishda hosil qilinishi kerak bo'lgan satrlar va ustunlar soni qayerga kiritiladi?",
+   "variantlar": [
+    "Matn yo'nalishi oynasiga",
+    "Muloqot oynasiga",
+    "Forma oynasiga",
+    "Birlashtirish oynasiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matn yo'nalishi muloqot oynasini yopish uchun qaysi tugma bosiladi yoki tanlanadi?",
+   "variantlar": [
+    "Cancel",
+    "OK",
+    "Refresh",
+    "Delete"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jadval katakasini bo'lishda hosil qilinishi kerak bo'lgan satrlar soni qo'shni ustunlardagi satrlar sonining nima bo'lishi lozim?",
+   "variantlar": [
+    "Faqat teng bo'lishi",
+    "Bo'luvchisi bo'lishi",
+    "Ikki barobar ko'p bo'lishi",
+    "Ortiq bo'lishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jadval katakasini bo'lishda hosil qilinishi kerak bo'lgan satrlar soni qo'shni ustunlardagi satrlar sonidan qanday bo'lmasligi kerak?",
+   "variantlar": [
+    "Teng bo'lmasligi",
+    "Ko'p bo'lmasligi",
+    "Ikki barobar ko'p bo'lmasligi",
+    "Kam bo'lmasligi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2-usulda matn yo'nalishini tanlash oynasiga kirish uchun kontekst-menyudan qaysi amali tanlanadi?",
+   "variantlar": [
+    "Matn yo'nalishi",
+    "Shriftni o'zgartirish",
+    "Jadvalni o'chirish",
+    "Rasmni joylashtirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1-usulda matn yo'nalishini o'zgartirishda \"Matn yo'nalishi\" tugmasi necha marta tanlanadi?",
+   "variantlar": [
+    "Har doim to'rta marta",
+    "Bir necha marta",
+    "Faqat ikkita marta",
+    "Faqat bir marta"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jadval kataklarini bo'lishda satrlar va ustunlar qanday tayyorlanadi?",
+   "variantlar": [
+    "Alohida-alohida tanlanadi",
+    "Blokka olinadi",
+    "O'chiriladi",
+    "Rang bilan tamomlashtiriladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2-usulda sichqonchaning o'ng tugmasi bosilgandan keyin qanday ko'rinish ekranga aks etadi?",
+   "variantlar": [
+    "Jadval strukturasi",
+    "Birlashtirish oynasi",
+    "Shrift menyusi",
+    "Kontekst-menyu"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matn yo'nalishini 2-usulda tanlashdan keyin va muloqot oynasidan yo'nalish tanlanganidan keyin qaysi tugma bosiladi?",
+   "variantlar": [
+    "Delete",
+    "Shift",
+    "Tab",
+    "Enter yoki OK"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jadval katakasini bo'lishda muloqot oynasiga kiritilishi kerak bo'lgan ma'lumotlar nima?",
+   "variantlar": [
+    "Faqat satrlar soni",
+    "Faqat ustunlar soni",
+    "Jadval nomi",
+    "Satrlar va ustunlar soni"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matn yo'nalishini 1-usul bilan o'zgartirishda \"kerakli yo'nalish aks etguncha bir necha marta tanlanadi\" nima anglatadi?",
+   "variantlar": [
+    "Shrift rangini o'zgartirish",
+    "Birlashtirilgan katakni o'chirish",
+    "Jadval o'lchami o'zgarishi",
+    "Kerakli yo'nalishga erishguncha tugma takrorlanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2-usulda matn yo'nalishini tanlash uchun sichqonchaning qaysi tugmasi bosiladi?",
+   "variantlar": [
+    "Yuqori tugma",
+    "Chap tugma",
+    "O'rta tugma",
+    "O'ng tugma"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "8 satrli jadval katakasini 2 satrga bo'lish mumkinmi va nima uchun?",
+   "variantlar": [
+    "Ha, lekin faqat bir marta",
+    "Ha, 8 ni 2 ga bo'linadi va 2 sani 8 ning bo'luvchisi",
+    "Yo'q, hech qachon mumkin emas",
+    "Yo'q, 8 ni 2 ga bo'linmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "6 satrli katakada 2 va 3 satrga bo'lish mumkinmi?",
+   "variantlar": [
+    "2 va 3 satrga ikkalasiga ham",
+    "Faqat 3 satrga",
+    "Hech biriga ham",
+    "Faqat 2 satrga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2-usul va 1-usul bilan matn yo'nalishini o'zgartirishning asosiy farqi nima?",
+   "variantlar": [
+    "Ikkalasi to'liq bir xil",
+    "Faqat 1-usul ishlaydi",
+    "1-usul osonroq",
+    "2-usul kontekst-menyu orqali, 1-usul Maket tasmasidan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadval kataklarini bo'lishda qo'shni ustunlardagi satrlar soni turli bo'lsa, bo'lish mumkinmi?",
+   "variantlar": [
+    "Ha, har doim mumkin",
+    "Faqat eng katta sondagi satrlar sonigancha",
+    "Faqat eng kichik sondagi satrlar sonigancha",
+    "Yo'q, hech qachon"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadval katakasini bo'lishda \"bo'luvchisi bo'lishi lozim\" shartiga ko'ra, 12 satrli katakani qaysi sondagi satrga bo'lish mumkin?",
+   "variantlar": [
+    "7 satrga",
+    "13 satrga",
+    "12 satrga",
+    "5 satrga"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1-usulda matn yo'nalishini o'zgartirishda tugma bir necha marta tanlanadi degan gap nima anglatadi?",
+   "variantlar": [
+    "Rangni o'zgartirish uchun",
+    "Jadvalning hajmini o'zgartirish uchun",
+    "Kerakli yo'nalishga erishish uchun tugma takrorlanadi",
+    "Sistemaning xatosi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2-usulda matn yo'nalishini tanlash oynasiga kirish uchun to'liq ketma-ketlik qaysi?",
+   "variantlar": [
+    "Yurgich -> Sichqoncha o'ng tugmasi -> Kontekst-menyu -> Matn yo'nalishi",
+    "Shrift -> Matn yo'nalishi -> OK",
+    "Kontekst-menyu -> Jadval -> Matn yo'nalishi",
+    "Jadval -> Kontekst-menyu -> Matn yo'nalishi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadval kataklarini bo'lishda \"kerakli katakka joylashtiriladi yoki kerakli satrlar va ustunlar blokka olinadi\" sharti nima anglatadi?",
+   "variantlar": [
+    "Bitta katakani yoki bir necha katakani ham bo'lish mumkin",
+    "Faqat satrlarni bo'lish mumkin",
+    "Faqat ustunlarni bo'lish mumkin",
+    "Faqat bitta katakani bo'lish mumkin"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "8 satrli jadval katakasida qo'shni ustunda 4 satr bo'lsa, bo'lish mumkinmi va nima uchun?",
+   "variantlar": [
+    "Yo'q, chunki 8 ni 4 ga bo'linadi lekin 4 sani 8 ning bo'luvchisi emas",
+    "Yo'q, 8 ortiq bo'lmaydi",
+    "Ha, har doim",
+    "Ha, faqat 4 satrga bo'lish mumkin"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jadval katakasini bo'lishda kiritilgan satrlar yoki ustunlar soni shartlarga mos kelmasа, nima sodir bo'ladi?",
+   "variantlar": [
+    "Hech narsa sodir bo'lmaydi",
+    "Jadval o'chiriladi",
+    "Avtomatik ravishda to'g'ridiriladi",
+    "Muloqot oynas qayta ochiladi va qayta kiritish talab qilinadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Algebra",
+ "mavzu": "37-§. Tasodifiy miqdorlar",
+ "savollar": [
+  {
+   "savol": "Tasodifiy miqdor nima?",
+   "variantlar": [
+    "Funksiya",
+    "Tenglama",
+    "Doimiy son",
+    "Tajriba natijasida tasodifiy qiymat oladigan miqdor"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tasodifiy miqdor qanday harflar bilan belgilanadi?",
+   "variantlar": [
+    "m, n",
+    "X, Y, Z",
+    "π",
+    "a, b, c"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kubik tashlanganda tushgan ochkolar soni qanday miqdor?",
+   "variantlar": [
+    "Mumkin emas",
+    "Muqarrar",
+    "Doimiy",
+    "Tasodifiy miqdor"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tasodifiy miqdorning qiymatlari qanday nomlanadi?",
+   "variantlar": [
+    "Chastotasi",
+    "Uning mumkin bo'lgan qiymatlari",
+    "Ehtimoli",
+    "Tenglamasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Taqsimot qonuni nima?",
+   "variantlar": [
+    "Qiymatlar va ularning ehtimolliklari jadvali",
+    "Ko'paytma",
+    "Funksiya",
+    "Yig'indi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Taqsimot jadvalida ehtimolliklar yig'indisi?",
+   "variantlar": [
+    "100",
+    "n",
+    "0",
+    "1"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tanga tashlanganda gerblar soni X qanday qiymatlar oladi?",
+   "variantlar": [
+    "2",
+    "0, 1, 2",
+    "0 va 1",
+    "1 va 2"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kubikda X ning qiymatlari?",
+   "variantlar": [
+    "2 dan 12 gacha",
+    "1, 2, 3, 4, 5, 6",
+    "1 va 6",
+    "0 dan 6 gacha"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kubikda har bir qiymatning ehtimolligi?",
+   "variantlar": [
+    "1/2",
+    "1/3",
+    "1/6",
+    "1"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Diskret tasodifiy miqdor nima?",
+   "variantlar": [
+    "Sanoqli qiymatlar oladigan",
+    "Muqarrar",
+    "Doimiy",
+    "Uzluksiz qiymatlar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "X: 1, 2, 3; P: 0,2; 0,5; p. p = ?",
+   "variantlar": [
+    "0,7",
+    "0,3",
+    "0,5",
+    "0,2"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "X: 0, 1; P: p, 0,6. p = ?",
+   "variantlar": [
+    "0,4",
+    "0,6",
+    "0,5",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "X: 1, 2, 3, 4 teng ehtimolli. Har birining ehtimolligi?",
+   "variantlar": [
+    "4",
+    "1/4",
+    "1/3",
+    "1/2"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "X: 1, 2 ; P: 0,3; 0,7. P(X = 2) = ?",
+   "variantlar": [
+    "0,7",
+    "0",
+    "0,3",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "X: 0, 1, 2 ; P: 0,25; 0,5; 0,25. P(X ≥ 1) = ?",
+   "variantlar": [
+    "1",
+    "0,75",
+    "0,5",
+    "0,25"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki tanga tashlanganda gerblar soni X. P(X = 0) = ?",
+   "variantlar": [
+    "1/3",
+    "1/2",
+    "3/4",
+    "1/4"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki tanga tashlanganda P(X = 1) = ?",
+   "variantlar": [
+    "1/3",
+    "1/2",
+    "3/4",
+    "1/4"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki tanga tashlanganda P(X = 2) = ?",
+   "variantlar": [
+    "3/4",
+    "1/4",
+    "1/3",
+    "1/2"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qiymatlari 5, 6, 7 (P: 0,2; 0,3; 0,5). Eng ehtimolli qiymat?",
+   "variantlar": [
+    "6",
+    "5",
+    "Teng",
+    "7"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "X: 1, 2, 3 ; P: 0,2; 0,3; 0,5. P(X < 3) = ?",
+   "variantlar": [
+    "0,3",
+    "0,2",
+    "0,5",
+    "0,8"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki kubik tashlanganda X = yig'indi. X ning eng ehtimolli qiymati?",
+   "variantlar": [
+    "8",
+    "6",
+    "7",
+    "12"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki kubikda X = yig'indi. P(X = 7) = ?",
+   "variantlar": [
+    "1/36",
+    "7/36",
+    "1/12",
+    "1/6"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki kubikda X = yig'indi. P(X = 2) = ?",
+   "variantlar": [
+    "1/12",
+    "1/18",
+    "1/6",
+    "1/36"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki kubikda X = yig'indi. X nechta turli qiymat oladi?",
+   "variantlar": [
+    "11 (2 dan 12 gacha)",
+    "12",
+    "6",
+    "36"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tanga 3 marta tashlanganda gerblar soni X. P(X = 3) = ?",
+   "variantlar": [
+    "1/8",
+    "1/2",
+    "1/4",
+    "3/8"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tanga 3 marta tashlanganda P(X = 1) = ?",
+   "variantlar": [
+    "3/8",
+    "1/2",
+    "1/8",
+    "1/4"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tanga 3 marta tashlanganda P(X = 2) = ?",
+   "variantlar": [
+    "1/4",
+    "3/8",
+    "1/2",
+    "1/8"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tanga 3 marta tashlanganda P(X = 0) = ?",
+   "variantlar": [
+    "1/4",
+    "1/2",
+    "3/8",
+    "1/8"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tanga 3 marta: P(X ≥ 2) = ?",
+   "variantlar": [
+    "1/4",
+    "7/8",
+    "1/2",
+    "3/8"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tasodifiy miqdor: X: −1, 0, 1; P: 0,2; 0,5; 0,3. P(X ≥ 0) = ?",
+   "variantlar": [
+    "0,3",
+    "1",
+    "0,8",
+    "0,5"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

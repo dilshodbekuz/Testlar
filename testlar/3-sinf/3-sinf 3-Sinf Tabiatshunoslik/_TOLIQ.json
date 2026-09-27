@@ -93,12 +93,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Odamlar tabiat yaratgan noziralardan nima qiladi?",
+    "savol": "Odamlar tabiat ne'matlaridan nima qiladi?",
     "variantlar": [
-     "Qamashtiradi",
-     "Qayta qaytaradi",
+     "Yo'q qiladi",
+     "Qaytarib beradi",
      "Iste'mol qiladi",
-     "Cho'daydi"
+     "Tashlab yuboradi"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -119,7 +119,7 @@
     "variantlar": [
      "Daryolar quriladi",
      "Tog'lar yig'iladi",
-     "Osmonda bulut hosil bo'ladi",
+     "Qor yog'adi",
      "O'simliklar o'sadi"
     ],
     "togri": 3,
@@ -163,8 +163,8 @@
     "variantlar": [
      "Och qoldirib yubordi",
      "Xonakilashtirdi va ko'paytirdi",
-     "Tutib ko'chdi",
-     "Yig'ilmasiga yo'lladi"
+     "Tutib yeb qo'ydi",
+     "Hammasini qo'yib yubordi"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
@@ -262,7 +262,7 @@
     "variantlar": [
      "Inson faqat tog'larga bog'liq",
      "Tabiat inson ga bog'liq",
-     "Inson havodan nafas oladi va tabiatning noziralarini iste'mol qiladi",
+     "Inson havodan nafas oladi va tabiat ne'matlaridan foydalanadi",
      "Inson tabiatga bog'liq emas"
     ],
     "togri": 2,
@@ -304,9 +304,9 @@
    {
     "savol": "Odam hayoti va salomatligi tabiat bilan bog'langanligiga binoan, tabiat muhofazasining ahamiyatini izohlang.",
     "variantlar": [
-     "Odamning salomatligi va hayoti tabiatning hamda tabiat noziralarning saqlanishiga bevosita bog'liq",
+     "Odamning salomatligi va hayoti tabiat va uning ne'matlari saqlanishiga bevosita bog'liq",
      "Tabiat inson uchun juda qimmat",
-     "Tabiat noziramlari hech qachon tugamaydi",
+     "Tabiat ne'matlari hech qachon tugamaydi",
      "Odam tabiatga bog'liq emas"
     ],
     "togri": 0,
@@ -379,7 +379,7 @@
     "variantlar": [
      "Ko'llardan",
      "Tog'lardagi jilg'alardan",
-     "Buloqdan",
+     "Cho'ldan",
      "Okeyandan"
     ],
     "togri": 1,
@@ -434,8 +434,8 @@
     "variantlar": [
      "Qorni erish uchun",
      "Yer osti suvlaridan foydalanish uchun",
-     "Tog'ni pastga chushirish uchun",
-     "Yomg'ir o'tshini to'xtash uchun"
+     "Tog'ni pasaytirish uchun",
+     "Yomg'irni to'xtatish uchun"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -479,7 +479,7 @@
      "Sug'orish va aholi ehtiyojini qondirish uchun",
      "Faqat baliq ovlanish uchun",
      "Faqat elektr hosil qilish uchun",
-     "Faqat kema yuradish uchun"
+     "Faqat kema yurishi uchun"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -488,7 +488,7 @@
     "savol": "Okean va dengizlardan nima qazilib olinadi?",
     "variantlar": [
      "Faqat baliq",
-     "Qo'l va tog' tashlar",
+     "Oltin va olmos",
      "Faqat duz",
      "Neft va gaz"
     ],
@@ -498,7 +498,7 @@
    {
     "savol": "Jilg'a nima uchun muhim?",
     "variantlar": [
-     "U toza suv manbaxi",
+     "U sho'r suv manbai",
      "U o'z-o'zidan daryo",
      "Undan daryolar boshlanadilar",
      "U muzlik"
@@ -509,7 +509,7 @@
    {
     "savol": "Baland tog'larning yuqori qismida yozda nima erimaydi?",
     "variantlar": [
-     "Marjoni",
+     "Gullar",
      "Qor va muzlar",
      "Faqat qor",
      "Faqat muz"
@@ -518,10 +518,10 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Daryolar o'z yo'lida qanday hosila beradi?",
+    "savol": "Daryolar o'z yo'lida nimani hosil qilishi mumkin?",
     "variantlar": [
-     "Qoq qo'y bo'ladi",
-     "Tug'adi",
+     "Qum tepaliklarini",
+     "Tog'larni",
      "Faqat tez oqadi",
      "Sharsharalarni hosil qilishi mumkin"
     ],
@@ -540,11 +540,11 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Yog'in kam joyda yer osti suvlari qanday chiqa?",
+    "savol": "Yog'in kam joyda yer osti suvlari qanday chiqariladi?",
     "variantlar": [
      "O'z-o'zidan",
      "Buloq bo'lib",
-     "Quvurlar orqali tortib chiqa",
+     "Nasoslar yordamida quduqlardan tortib chiqariladi",
      "Hech qachon chiqmaydi"
     ],
     "togri": 2,
@@ -562,9 +562,9 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Globusdan yer yuzini o'rganish uchun nima kelib chiqadi?",
+    "savol": "Globusga qarab Yer yuzi haqida qanday xulosa chiqarish mumkin?",
     "variantlar": [
-     "Yer to'liq xaritador",
+     "Yer tekis ekan",
      "Okean va dengizlar ko'p ekani",
      "Daryolar tarqoq",
      "Shaharlar joylanishi"
@@ -577,7 +577,7 @@
     "variantlar": [
      "Ko'ldan boshlanib dengizga tushadi",
      "Quduqdan boshlanib ko'lga tushadi",
-     "Buloqdan boshlanib daryo bo'ladi",
+     "Cho'ldan boshlanib tog'ga ko'tariladi",
      "Tog' jilg'asidan boshlanib okeyanga tushadi"
     ],
     "togri": 3,
@@ -597,10 +597,10 @@
    {
     "savol": "Muzliklar yozda erimashligining tabiiy sababi nima?",
     "variantlar": [
-     "Eng sovuq joylarda joylashgan",
+     "Juda sovuq joylarda joylashgani uchun",
      "Qor bilan qoplangan",
      "Odamlar uni saqlab turishadi",
-     "Suv ketib boshlagan"
+     "Suvi oqib ketgani uchun"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -619,7 +619,7 @@
    {
     "savol": "Okean va dengizlarning odamlar uchun ahamiyati nima?",
     "variantlar": [
-     "Faqat suvni tasviyalaydi",
+     "Faqat suvni tozalaydi",
      "Baliq, transport, neft va gaz",
      "Faqat haroratni tekislaydi",
      "Faqat sohilni toza tutadi"
@@ -714,7 +714,7 @@
    {
     "savol": "O'simliklar asosan qaysi suv hisobiga o'sadi?",
     "variantlar": [
-     "Yo'q'ir suvi",
+     "Dengiz suvi",
      "Suv bug'i",
      "Yog'in suvi",
      "Daryoning suvi"
@@ -767,12 +767,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Odamlar va hayvonlar qaysi yo'q yashay olmaydi?",
+    "savol": "Odamlar va hayvonlar nimasiz yashay olmaydi?",
     "variantlar": [
-     "Havo yo'q",
-     "Ovqat yo'q",
-     "Suv yo'q",
-     "Nur yo'q"
+     "Televizorsiz",
+     "Kitobsiz",
+     "Suvsiz",
+     "O'yinchoqsiz"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -793,7 +793,7 @@
     "variantlar": [
      "Tuproqning sifati yomon",
      "Havo sovuq",
-     "Qo'ng'iroq ko'chmas",
+     "Shamol yo'q",
      "Yomg'ir kam yog'adi"
     ],
     "togri": 3,
@@ -813,8 +813,8 @@
    {
     "savol": "Qizilqumdagi o'tlar bahor yomg'iridan keyin nimadan o'sib chiqadi?",
     "variantlar": [
-     "Qum ichidagi tashlardan",
-     "Suv chandiklaridan",
+     "Toshlar ichidan",
+     "Suv ostidan",
      "Qumdagi tuproqdan",
      "Qumlar orasidan"
     ],
@@ -833,12 +833,12 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Suv soviganda uning zichligi nima qiladi?",
+    "savol": "Suv soviganda uning hajmi nima qiladi?",
     "variantlar": [
      "Bir xil qoladi",
-     "Nol bo'lib qoladi",
-     "Ko'payadi",
-     "Kamayadi"
+     "Nolga tushadi",
+     "Kamayadi (torayadi)",
+     "Kengayadi"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -849,7 +849,7 @@
      "Sovish",
      "Bug'lanish",
      "Qaynash",
-     "Eriyish"
+     "Erish"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -879,7 +879,7 @@
    {
     "savol": "Cho'l o'simliklarining uzun ildizlari nima uchun kerak?",
     "variantlar": [
-     "Shamol uchraysin deb",
+     "Shamol olib ketmasligi uchun",
      "Rangini o'zgartirish uchun",
      "Yer ostidagi suvga yetib borib, suv ichish uchun",
      "Tuproqqa batinroq ushlanish uchun"
@@ -888,7 +888,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Agar Yer yuzida suv bo'lmasa, quyidagilardan nima sodir bo'lmaydi?",
+    "savol": "Agar Yer yuzida suv bo'lmasa, quyidagilardan qaysi biri sodir bo'lmaydi?",
     "variantlar": [
      "Quyosh chiqish",
      "Shamol esish",
@@ -925,7 +925,7 @@
     "variantlar": [
      "Muzga aylanadi",
      "Bug' holatiga o'tadi",
-     "Yuqoriga ko'tariladi",
+     "Yuqoriga ko'tarilib yo'q bo'ladi",
      "Pastga tusha boradi"
     ],
     "togri": 1,
@@ -946,7 +946,7 @@
     "savol": "0°C da suv qattiq holatdan suyuq holatga o'tadi, bu jarayonning nomi nima?",
     "variantlar": [
      "Qaynash",
-     "Eriyish",
+     "Erish",
      "Muzlanish",
      "Bug'lanish"
     ],
@@ -968,9 +968,9 @@
     "savol": "Agar kolba og'ziga shisha nay o'rnab, kolbani asta-sekin isitsangiz, naydagi suv nima qiladi va nima sabab?",
     "variantlar": [
      "Pasaya boradi, chunki suv soviganda torayadi",
-     "Tez-tez o'zgaradi, chunki suv sabzavoy",
+     "Tez-tez o'zgaradi, chunki suv suyuq",
      "Ko'tariladi, chunki suv isiganda kengayadi",
-     "O'zgarib qolmaydi, chunki suv tutun emas"
+     "O'zgarmaydi, chunki suv tutun emas"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -990,7 +990,7 @@
     "savol": "Suvning uch holi (qattiq, suyuq, gaz) o'rtasidagi o'zgarishlar qaysi jarayonlar orqali sodir bo'ladi?",
     "variantlar": [
      "Faqat sovish orqali",
-     "Faqat isitsh orqali",
+     "Faqat isitish orqali",
      "Isitish va sovish orqali",
      "Shunchaki vaqt o'tishi orqali"
     ],
@@ -1009,7 +1009,7 @@
     "variantlar": [
      "issiq",
      "ifloslangan",
-     "sorin",
+     "sho'r",
      "tiniq va toza"
     ],
     "togri": 3,
@@ -1030,9 +1030,9 @@
     "savol": "Vodoprovod suvi nima bilan tozalangan?",
     "variantlar": [
      "zararli mikroblardan",
-     "qum",
-     "masel",
-     "kemiya"
+     "qumdan",
+     "tuzdan",
+     "yog'dan"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -1052,7 +1052,7 @@
     "savol": "Ifloslangan suvni qaynatmasdan ichsa bo'ladimi?",
     "variantlar": [
      "faqat sovuq ichsa bo'ladi",
-     "emas, uni tindirish kerak",
+     "ha, agar sovuq bo'lsa",
      "yo'q, ichmasligi kerak",
      "ha, xavfsiz"
     ],
@@ -1060,9 +1060,9 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Daryo suvi qayerniga quyilsa, ular ham ifloslana aladi?",
+    "savol": "Daryo suvi qayerga quyilsa, u yerlar ham ifloslanadi?",
     "variantlar": [
-     "o'tka",
+     "osmonga",
      "tog'larga",
      "dengiz va ko'lga",
      "yer ostiga"
@@ -1075,7 +1075,7 @@
     "variantlar": [
      "sovuq suvlar",
      "oqava suvlar",
-     "marosim suvlari",
+     "yomg'ir suvlari",
      "toza suvlar"
     ],
     "togri": 1,
@@ -1085,7 +1085,7 @@
     "savol": "Suvni muhofaza qilish uchun birinchi navbatda nima qilish kerak?",
     "variantlar": [
      "suvni filtr qilish",
-     "suvga chiqindi tashlamamaligi",
+     "suvga chiqindi tashlamaslik",
      "suvni tejash",
      "suvni qaynatish"
     ],
@@ -1093,12 +1093,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Vodoprovod jomrasidan suv oqib turgan bo'lsa, nima qilish kerak?",
+    "savol": "Vodoprovod jo'mragidan suv behuda oqib turgan bo'lsa, nima qilish kerak?",
     "variantlar": [
-     "jomra burilishi kerak",
+     "jo'mrakni burab yopish kerak",
      "hech nima",
      "suv oqishi normal",
-     "suv so'zicha qoldirilishi kerak"
+     "suvni oqizib qo'yish kerak"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -1109,7 +1109,7 @@
      "faqat o'qituvchi",
      "har birimizning",
      "faqat hokimiyat",
-     "faqat viloyat"
+     "faqat viloyatning"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -1120,7 +1120,7 @@
      "suv issiq",
      "suv achchiq",
      "ko'p kishining mehnati behuda ketadi",
-     "suv yuqori"
+     "suv sovuq"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -1128,10 +1128,10 @@
    {
     "savol": "Suvning ifloslanishining oldini olish uchun odamlar nima qilmasligi kerak?",
     "variantlar": [
-     "suvga chiqindi tashlamamaligi",
+     "suvga chiqindi tashlamasligi",
      "suv ichmasligi",
      "suvda yuzmasligi",
-     "suvni tejamesligi"
+     "suvni tejamasligi"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -1153,7 +1153,7 @@
      "ha, butunlay",
      "faqat qismi",
      "yo'q, hali ham xavfli",
-     "bilmas"
+     "bilmayman"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -1175,7 +1175,7 @@
      "foydali",
      "hech narsa emas",
      "zarar beradi",
-     "tabiatiy"
+     "tabiiy"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -1194,7 +1194,7 @@
    {
     "savol": "Tog'dagi toza suv nega pastga borgan sari ifloslanadi?",
     "variantlar": [
-     "isigadi",
+     "isiydi",
      "bug'lanadi",
      "muzlab ketadi",
      "chiqindilarga uchraydi"
@@ -1214,12 +1214,12 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Vodoprovod suvini behudaga oqib qoldiring degan nima uchun xato?",
+    "savol": "Vodoprovod suvini behuda oqizish nima uchun noto'g'ri?",
     "variantlar": [
      "suv arzon",
      "ko'p mehnati behuda ketadi",
      "jomra buziladi",
-     "suv bilan kasallik yoziladi"
+     "suv bilan kasallik yuqadi"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
@@ -1250,9 +1250,9 @@
     "savol": "Tog'dagi toza suv pastga borgan sari ifloslanishi nima uchun muhim muammo?",
     "variantlar": [
      "bu muhim emas",
-     "suv sarf chiqadi",
-     "suv jimiydi",
-     "iflos suv barchasini ifloslaydi"
+     "suv qimmatlashadi",
+     "suv sovuydi",
+     "iflos suv hamma joyni ifloslaydi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -1262,7 +1262,7 @@
     "variantlar": [
      "faqat pul yo'qoladi",
      "iflos, tejashsizlik, kasalliklar",
-     "faqat suv yuqori",
+     "faqat suv qimmatlashadi",
      "hech narsa"
     ],
     "togri": 1,
@@ -1273,7 +1273,7 @@
     "variantlar": [
      "suv toza bo'ladi",
      "suv ko'payadi",
-     "suv yanada ifloslandi",
+     "suv yanada ifloslanadi",
      "xavfli mikroblar kamayadi"
     ],
     "togri": 3,
@@ -1302,10 +1302,10 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Korxonalar suvni to'g'ri oqava qilmaganda, nima oqibat bo'ladi?",
+    "savol": "Korxonalar oqava suvlarni tozalamasa, qanday oqibat bo'ladi?",
     "variantlar": [
      "faqat pul",
-     "daryo, dengiz, ko'l, odamlar ifloslandi",
+     "daryo, dengiz, ko'llar va odamlar zararlanadi",
      "faqat korxona zarar",
      "hech narsa"
     ],
@@ -1333,10 +1333,10 @@
    {
     "savol": "Havo nima?",
     "variantlar": [
-     "Havo rangli suyuqliq",
+     "Havo rangli suyuqlik",
      "Havo bizga ko'rinmaydigan gaz",
      "Havo tosh",
-     "Havo sho'rva"
+     "Havo qattiq modda"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -1345,7 +1345,7 @@
     "savol": "Stakanda suv solingan idishga bo'sh stakan botirilganda suv stakan ichiga nima uchun kirmaydi?",
     "variantlar": [
      "Stakan ichida havo bordek bo'ladi",
-     "Tuproq tiqdi",
+     "Tuproq tiqilib qolgan",
      "Muz eriydi",
      "Suv muzlagan"
     ],
@@ -1355,7 +1355,7 @@
    {
     "savol": "Havo tarkibida qaysi gazlar va moddalar bor?",
     "variantlar": [
-     "Faqat sho'rva",
+     "Faqat tuz",
      "Faqat suv",
      "Faqat qum",
      "Azot, kislorod, karbonat angidrid, suv bug'i va boshqa moddalar"
@@ -1452,18 +1452,18 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Baliq va delfin suv ichida yashashlarida, ular havodan nima uchun nafas oladi?",
+    "savol": "Baliqlar suv ichida qanday nafas oladi?",
     "variantlar": [
      "Quyosh orqali",
      "Tuproq orqali",
-     "Suv ichida ham havo bor",
-     "Suvni bu qiladi"
+     "Suvda erigan havo (kislorod) bilan",
+     "Suvni ichib"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "O'simliklar havodan nafas olganida nima chiqaradi?",
+    "savol": "O'simliklar kunduzi havoga qaysi gazni chiqaradi?",
     "variantlar": [
      "Kislorod chiqaradi",
      "Qum chiqaradi",
@@ -1476,7 +1476,7 @@
    {
     "savol": "Agar mo'ridan chiqqan tutun osmonga tik ko'tarilayotgan bo'lsa, ob-havo qanday bo'ladi?",
     "variantlar": [
-     "Shumanasi yog'ar",
+     "Do'l yog'adi",
      "Qor yog'ar",
      "Havo ochiq bo'ladi",
      "Yomg'ir yog'adi"
@@ -1490,7 +1490,7 @@
      "Shamol kuchayadi",
      "Yomg'ir yog'ishi mumkin",
      "Qor yog'adi",
-     "Ob-hava soginadi"
+     "Havo isiydi"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
@@ -1510,9 +1510,9 @@
     "savol": "Agar qaldirg'och pastlab uchayotgan bo'lsa, nima yuz berishi mumkin?",
     "variantlar": [
      "Quyosh chiqadi",
-     "Bulut kayb bo'ladi",
+     "Bulutlar yo'qoladi",
      "Yomg'ir yog'ishi mumkin",
-     "Shamol kesadi"
+     "Shamol to'xtaydi"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -1520,9 +1520,9 @@
    {
     "savol": "Daftar bilan qog'oz parchalariga yelpisak, nima bo'ladi?",
     "variantlar": [
-     "Qog'oz parchasi suyuqlashadi",
-     "Qog'oz parchasi quyin bo'ladi",
-     "Qog'oz parchasi yemiriladi",
+     "Qog'oz eriydi",
+     "Qog'oz og'irlashadi",
+     "Qog'oz yonadi",
      "Qog'oz parchasi uchib ketadi"
     ],
     "togri": 3,
@@ -1573,7 +1573,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Stakanda qanday tajriba orqali havoning o'z joyini suvga bo'shtirmayligini ko'rsatish mumkin?",
+    "savol": "Qanday tajriba havo o'z joyini suvga bo'shatib bermasligini ko'rsatadi?",
     "variantlar": [
      "Stakanni tiq qo'ysak",
      "Stakanni quyosh nurida qo'ysak",
@@ -1587,7 +1587,7 @@
     "savol": "Yozda quyosh nurlari tikroq tushsa, havo harorati yuqori bo'lishiga nima sabab?",
     "variantlar": [
      "Bulut ko'p bo'ladi",
-     "Quyosh nurlari tikroq tushsa, hava ko'proq isitadi",
+     "Quyosh nurlari tikroq tushsa, havoni ko'proq isitadi",
      "Qor yog'adi",
      "Shamol esadi"
     ],
@@ -1595,21 +1595,21 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Nega qishda osmondagi bulutlar havo haroratini yanada pasaytiradi?",
+    "savol": "Kunduzi bulutlar quyoshni to'sib qo'ysa, havo qanday bo'ladi?",
     "variantlar": [
-     "Chunki bulutlar quyosh nurlarini to'sib, havoga issiqlik beradi",
-     "Chunki bulutlar quyosh nurlarini to'sib, hava isitilmasini to'sqin qiladi",
-     "Chunki bulutlar shamol keltiradi",
-     "Chunki bulutlar suv olib boradi"
+     "Issiqroq bo'ladi",
+     "Salqinroq bo'ladi, chunki quyosh nurlari yerni kamroq isitadi",
+     "O'zgarmaydi",
+     "Albatta qor yog'adi"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Agar Quyosh qora bulutlar orqasiga botsasiga ertasiga nima bo'lishi mumkin?",
+    "savol": "Agar quyosh qora bulutlar orqasiga botsa, ertasiga nima bo'lishi mumkin?",
     "variantlar": [
      "Havo ochiq bo'ladi",
-     "Shamol kesadi",
+     "Shamol to'xtaydi",
      "Yog'ingarchilik bo'lishi mumkin",
      "Qor yog'adi"
     ],
@@ -1639,12 +1639,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Suv hayvonlari faqat suvda yashasalarida, nega ularning ham kislorod kerak?",
+    "savol": "Suv hayvonlari suvda yashasa ham, kislorodni qayerdan oladi?",
     "variantlar": [
-     "Chunki tuproq orasida yashaydilar",
-     "Chunki havo suv ichida bor",
-     "Chunki tuproq orqali kiritiladi",
-     "Chunki Quyosh uni beradi"
+     "Tuproqdan",
+     "Suvda erigan havodan",
+     "Toshlardan",
+     "Quyoshdan"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -1655,7 +1655,7 @@
      "Baliqlar kuchli bo'lgan",
      "Havoning harakati qadimda qancha kuchli va muhim bo'lgan ekanligini koʻrsatadi",
      "Shamol zaif bo'lgan",
-     "Odamlar suv ichida yashasalar"
+     "Odamlar suvda yashagan"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -1681,10 +1681,10 @@
    {
     "savol": "Bulutlar qanday hosil bo'ladi?",
     "variantlar": [
-     "havodan",
+     "tuproqdan",
      "shamoldan",
      "suv tomchilari yig'ilib",
-     "osmonda"
+     "tutundan"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -1706,7 +1706,7 @@
      "suv tomchilari",
      "shamol",
      "bug'",
-     "muz zarrach"
+     "muz zarrachalari"
     ],
     "togri": 3,
     "qiyinlik": "oson"
@@ -1736,9 +1736,9 @@
    {
     "savol": "Qor uchqunlari qanday paydo bo'ladi?",
     "variantlar": [
-     "bulutdan to'shib",
+     "bulutdan tushib",
      "shamoldan",
-     "muz zarrach birikib",
+     "muz zarrachalari birikib",
      "suv tomchilari birlashib"
     ],
     "togri": 2,
@@ -1758,10 +1758,10 @@
    {
     "savol": "Do'l ekinlarni qanday zarar yetkazadi?",
     "variantlar": [
-     "qoraydi",
-     "suya chorlaydi",
+     "suv beradi",
+     "o'g'itlaydi",
      "o'stiradi",
-     "payhon qiladi"
+     "payhon qiladi (sindirib, ezib yuboradi)"
     ],
     "togri": 3,
     "qiyinlik": "oson"
@@ -1789,12 +1789,12 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Suv bug'lari osmonda qanday harakatlanadi?",
+    "savol": "Bulutlar osmonda qanday harakatlanadi?",
     "variantlar": [
-     "qiyalib tushadi",
+     "pastga tushadi",
      "qorayib ketadi",
      "shamol haydaydi",
-     "issiq bunga"
+     "o'z-o'zidan eriydi"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -1813,7 +1813,7 @@
    {
     "savol": "Yer osti suvlari qayerga qo'shiladi?",
     "variantlar": [
-     "ko'lga",
+     "osmonga",
      "irmoqqa",
      "okeaniga",
      "daryoga"
@@ -1822,12 +1822,12 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Tog'larga qo'y vaqti qanday qor yog'adi?",
+    "savol": "Tog'larga qishda qanday qor yog'adi?",
     "variantlar": [
-     "oq",
-     "nozik",
+     "qizil",
+     "issiq",
      "qalin",
-     "sezilarli"
+     "suyuq"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -1857,7 +1857,7 @@
    {
     "savol": "Yomg'ir va qor suvlari qayga quyiladi?",
     "variantlar": [
-     "ko'lga",
+     "osmonga",
      "daryoga",
      "bogga",
      "dalaga"
@@ -1871,7 +1871,7 @@
      "ko'lga",
      "quyiga",
      "kanalga",
-     "dengiz va okeanlarni"
+     "dengiz va okeanlarga"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -1879,8 +1879,8 @@
    {
     "savol": "Suv bug'lanish jarayonida suv qayga ko'tariladi?",
     "variantlar": [
-     "bulutga",
-     "havasimon qatlamga",
+     "yer ostiga",
+     "tuproqqa",
      "tog'ga",
      "osmonga"
     ],
@@ -1923,7 +1923,7 @@
    {
     "savol": "Agar shamol bulutlarni quruqlikka haydab kelmasa, yomg'ir qayerga yog'ar edi?",
     "variantlar": [
-     "hech joylarga emas",
+     "hech qayerga",
      "tog'ga",
      "kanalga",
      "dengizga"
@@ -1932,12 +1932,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Suv bug'larining birikib bulutlarni hosil qilishi va qaylab tushib yomg'ir bo'lishi o'rtasida qanday jarayonlar yuz beradi?",
+    "savol": "Bulutlardagi suv tomchilari yog'inga aylanishi uchun avval qanday jarayon sodir bo'lishi kerak?",
     "variantlar": [
-     "a va b to'g'ri",
-     "faqat harorat o'zgaradi",
-     "shamol uflaydi va bulutlar haydanadi",
-     "harorat o'zgaradi va bosim o'zgaradi"
+     "Suv bug'lari sovib, kichik tomchilarga aylanishi kerak",
+     "Faqat harorat ko'tarilishi kerak",
+     "Shamol kuchli esishi kerak",
+     "Faqat bosim oshishi kerak"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -1956,7 +1956,7 @@
    {
     "savol": "Tog'lardagi qor eriy bo'lib irmoq hosil qilishi, irmoq daryoga qo'shilishi va daryo suvi dengizga quyilishi - bu nima?",
     "variantlar": [
-     "takroriy aylanish jarayonidir",
+     "suvning tabiatda aylanishining bir qismi",
      "suvning tugatilmagani",
      "bitta marta sodir bo'ladigan jarayon",
      "faqat qishda sodir bo'ladigan jarayon"
@@ -1967,12 +1967,12 @@
    {
     "savol": "Tabiatda suvning aylanishi davomida tog'lardan qor suvi eriy bo'lib irmoqlarga aylanishi jarayoni qaysi qadamdir?",
     "variantlar": [
-     "yakuniy qadamdir",
-     "o'rtacha qadamdir",
-     "suvning aylanishi to'xtaydi",
-     "boshlang'ich qadamdir"
+     "oxirgi qadam",
+     "o'rtadagi qadamlardan biri",
+     "suvning aylanishi to'xtaydigan qadam",
+     "eng birinchi qadam"
     ],
-    "togri": 3,
+    "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
@@ -1991,8 +1991,8 @@
     "variantlar": [
      "ikkisi ham suvga aylanyapti",
      "ikkisi ham qorga aylanyapti",
-     "ikkisi ham moddalar birlashib hosil bo'ladi",
-     "ikkisi ham havoda paydo bo'ladi"
+     "ikkisi ham bulutdagi zarrachalar birlashib hosil bo'ladi",
+     "ikkisi ham yer ostida paydo bo'ladi"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -2054,7 +2054,7 @@
      "Nur va havo",
      "Neft, gaz, ko'mir, oltin, kumush",
      "Tosh va qum",
-     "Suv va qo'pol"
+     "Suv va havo"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -2074,7 +2074,7 @@
     "savol": "Osh tuzi yer ostida yoki yuzida joylashgan foydali qazilmalardan olinadi. Bu to'g'rimi?",
     "variantlar": [
      "Ha, to'g'ri",
-     "Yo'q, faqat qo'ldan olinadi",
+     "Yo'q, faqat o'simlikdan olinadi",
      "Ha, lekin faqat qishda",
      "Yo'q, faqat do'kondan olinadi"
     ],
@@ -2095,7 +2095,7 @@
    {
     "savol": "Aluminiy qayerdan olinadi?",
     "variantlar": [
-     "Asmonda",
+     "Osmonda",
      "Suv ichida",
      "Yer ostidagi konlardan",
      "Faqat yer yuzidagi maydonlardan"
@@ -2185,7 +2185,7 @@
     "variantlar": [
      "Yer ostidagi konlardan, qurilish va hunarmand ishi sohasida",
      "Faqat do'kondan, faqat taomda",
-     "Asmonda, faqat kiyimda",
+     "Osmondan, faqat kiyimda",
      "Dengizdan, musiqada"
     ],
     "togri": 0,
@@ -2195,7 +2195,7 @@
     "savol": "Osh tuzi va marmarni qayerdan olinadi?",
     "variantlar": [
      "Faqat tog'lardan",
-     "Faqat tengizdan",
+     "Faqat daraxtlardan",
      "Faqat do'kondan",
      "Yer ostidagi konlardan yoki yer yuzidagi boyliklardan"
     ],
@@ -2240,7 +2240,7 @@
     "variantlar": [
      "Faqat o'quv sohasiga ta'sir bo'ladi",
      "Ijobiy natija bo'ladi",
-     "Mashinalar, elektr, turar-joylar tayyorlanmaydi, haddan tashqari negativ ta'sir",
+     "Mashinalar, elektr, uy-joylar uchun material yetishmaydi — katta salbiy ta'sir",
      "Hech qanday ta'sir bo'lmaydi"
     ],
     "togri": 2,
@@ -2369,7 +2369,7 @@
      "Stol va stullar",
      "Kitoblar va qalamlar",
      "Pichoq, qaychi, tesha",
-     "Shaffalon va shumshuq"
+     "Gilam va to'shak"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -2388,10 +2388,10 @@
    {
     "savol": "Osh tuzi qayerdan olinadi?",
     "variantlar": [
-     "Tog'lardan",
+     "Daraxtlardan",
      "Dengiz va ko'llardan",
      "Atmosferadan",
-     "Qorida"
+     "Qordan"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -2399,10 +2399,10 @@
    {
     "savol": "Vulqon nima?",
     "variantlar": [
-     "Suv manba",
-     "Yer ostidan otilib chiqqan qaynoq suyuq modda",
-     "Toshli tog'",
-     "Qor tepasi"
+     "Suv manbai",
+     "Yer ostidan qaynoq suyuq modda (lava) otilib chiqadigan tog'",
+     "Oddiy toshli tepalik",
+     "Qor bilan qoplangan cho'qqi"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -2423,7 +2423,7 @@
     "variantlar": [
      "Ko'mirni qazib olish uchun",
      "Suv saqlab turish uchun",
-     "Odamlarni saxlab qolish uchun",
+     "Odamlarni saqlab qolish uchun",
      "Gaz saqlab turish uchun"
     ],
     "togri": 0,
@@ -2443,8 +2443,8 @@
    {
     "savol": "Ko'mir qadim zamanada qanday hosil bo'lgan?",
     "variantlar": [
-     "Tog'lardan ishlatlb",
-     "Tengizdan qurib",
+     "Tog'lar yemirilib",
+     "Dengiz qurib",
      "Qor ichida saqlanib",
      "O'rmonlardagi chirigan daraxtlardan million yillar davomida"
     ],
@@ -2465,8 +2465,8 @@
    {
     "savol": "Ko'mir yoqilganda nima sifatida foydalaniladi?",
     "variantlar": [
-     "Rang materyali",
-     "Havo shumlash",
+     "Bo'yoq materiali",
+     "Havoni tozalash uchun",
      "Issiqlik manba",
      "Suv tozalash"
     ],
@@ -2487,10 +2487,10 @@
    {
     "savol": "Neft qazib chiqarish uchun qanday qurilmalar kerak?",
     "variantlar": [
-     "Faqat teshlar",
+     "Faqat toshlar",
      "Faqat qo'l kuchi",
      "Taksi va mashinalar",
-     "Qudiq, quvur va nasoslar"
+     "Quduq, quvur va nasoslar"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -2500,7 +2500,7 @@
     "variantlar": [
      "Suv to'g'ridan-to'g'ri",
      "Issiqlik bevosita",
-     "Suv bug'",
+     "Suv bug'i",
      "Gaz oqimi"
     ],
     "togri": 2,
@@ -2544,8 +2544,8 @@
     "variantlar": [
      "Suv shaklida",
      "Tuz shaklida",
-     "Qattiq shaklda",
-     "Bug'lanib, yer ostining yoriqlarida"
+     "Qattiq holda",
+     "Gaz holida yer ostidagi bo'shliq va g'ovaklarda"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -2562,23 +2562,23 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Vulqon jarayonida metallar qanday qotishmalar hosil qiladi?",
+    "savol": "Metallar tabiatda asosan qanday holda uchraydi?",
     "variantlar": [
-     "Yer ostidan chiqib tosh va qumlar bilan aralashib qotishmalarni hosil qiladi",
-     "Toza holda qoladi",
-     "Eritib ketadi",
-     "Suv ichiga tusib yo'q bo'ladi"
+     "Tayyor buyum holida",
+     "Boshqa moddalar bilan aralashgan ruda holida",
+     "Suv holida",
+     "Gaz holida"
     ],
-    "togri": 0,
+    "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Tabiiy gaz hosil bo'lishining to'liq jarayonini aytib bering?",
+    "savol": "Tabiiy gaz qanday hosil bo'lgan?",
     "variantlar": [
-     "Og'ir bo'lib tushadi",
-     "Qorida qondib turadi",
-     "Neft suyuq holatdan bug'ga aylanib, yer ostining yoriqlarida yig'iladi",
-     "Shunchaki chiqadi"
+     "Havodan tushib",
+     "Qor erib",
+     "Million yillar davomida yer ostida chirigan organik qoldiqlardan, odatda neft bilan birga",
+     "Bir kunda o'z-o'zidan"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -2587,8 +2587,8 @@
     "savol": "Elektr tokining hosil bo'lish jarayonida nima eng muhim?",
     "variantlar": [
      "Gaz bevosita",
-     "Ko'mir yoqilib, issiqlik orqali suv bug'ga aylanib, turbinani aylantirishdi",
-     "Suvni faqat sichqoq berish",
+     "Ko'mir yoqiladi, issiqlik suvni bug'ga aylantiradi, bug' turbinani aylantiradi",
+     "Suvni sovutish",
      "Neft"
     ],
     "togri": 1,
@@ -2597,10 +2597,10 @@
    {
     "savol": "Osh tuzining konlari qanday vujudga kelgan?",
     "variantlar": [
-     "Qorida bo'shashib qoldi",
+     "Qordan to'planib",
      "Dengiz suvlari million yillar davomida bug'lanib, tubida yig'ilib qoldi",
-     "Tor shaklida olinib, to'plab qo'yildi",
-     "Dastag'ina hosil bo'ldi"
+     "Odamlar to'plab qo'ygan",
+     "Bir kunda hosil bo'lgan"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -2617,34 +2617,34 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Temirning turlari va ularning joylashuvi qanday?",
+    "savol": "Temirtosh (temir rudasi) qayerdan qazib olinadi?",
     "variantlar": [
-     "Faqat bir turi bar va yer sirtida",
-     "Toshko'mir, qo'ng'ir ko'mir va temir turlari konlarda to'shab turadi",
-     "Hammasi dengizda",
-     "Atmosferada yig'ilgan"
+     "Osmondan",
+     "Konlardan",
+     "Dengiz suvidan",
+     "Daraxtlardan"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Suv bug'lanib yer ostining yariqlarida yig'ilib nima hosil bo'ladi?",
+    "savol": "Tabiiy gaz ko'pincha qayerda uchraydi?",
     "variantlar": [
-     "Tabiiy gaz",
-     "Osh tuz",
-     "Ko'mir",
-     "Metall"
+     "Neft konlari yaqinida, yer osti bo'shliqlarida",
+     "Daryo suvida",
+     "Qor ichida",
+     "Daraxt barglarida"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "O'zbekistonning tabiiy gaz konlarida nft ham mavjudligining sababi nima?",
+    "savol": "O'zbekistonning tabiiy gaz konlarida neft ham uchrashining sababi nima?",
     "variantlar": [
-     "Tasadif",
-     "Insan o'rniga qo'yib ketdi",
-     "Ixtifoli yo'q",
-     "Odatda neft bor joyda tabiiy gaz ham bo'ladi, ikkalasi bir xil manba dari"
+     "Tasodif",
+     "Odamlar olib kelgan",
+     "Farqi yo'q",
+     "Odatda neft bor joyda tabiiy gaz ham bo'ladi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -2662,7 +2662,7 @@
      "Mis va aluminiyga",
      "Oltin va kumushga",
      "Temirga",
-     "Qo'rg'oshinга"
+     "Qo'rg'oshinga"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -2681,7 +2681,7 @@
    {
     "savol": "Oltin va kumush qaysi metallardir?",
     "variantlar": [
-     "Birgina metallar",
+     "Suyuq metallar",
      "Qora metallar",
      "Rangli metallar",
      "Yumshoq metallar"
@@ -2715,7 +2715,7 @@
     "savol": "Marmar qanday qurilish materiali?",
     "variantlar": [
      "Qattiq va mustahkam",
-     "Arzon va jimlikka ega",
+     "Arzon va yumshoq",
      "Yumshoq va egiluvchi",
      "Nozik va zaif"
     ],
@@ -2750,7 +2750,7 @@
      "Elektr simlari",
      "Mis qurilmalar",
      "Haykallar, ustunlar, zinapoyalar",
-     "Temirish buyumlar"
+     "Temir buyumlar"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -2770,7 +2770,7 @@
     "savol": "Temirtosh qanday turlariga bo'linadi?",
     "variantlar": [
      "Magnitli, qo'ng'ir va qizil",
-     "Muqaddas va odds",
+     "Muqaddas va oddiy",
      "Yupqa va qalin",
      "Qora va rangli"
     ],
@@ -2780,7 +2780,7 @@
    {
     "savol": "Temirtosh rudalaridan temir qanday olinadi?",
     "variantlar": [
-     "Qiyofalarni o'chirish orqali",
+     "Suvda eritish orqali",
      "Maxsus pechlarda eritish orqali",
      "Sovutish orqali",
      "Qo'l bilan qazish orqali"
@@ -3040,10 +3040,10 @@
    {
     "savol": "Granitning silliqlanishi qanday?",
     "variantlar": [
-     "Nozik shuning uchun silliqlanmaydi",
+     "Nozik bo'lgani uchun silliqlanmaydi",
      "Yaxshi silliqlanadi",
-     "Juda qattiq shuning uchun silliqlanmaydi",
-     "Quruq shuning uchun silliqlanmaydi"
+     "Umuman silliqlanmaydi",
+     "Faqat ho'l bo'lsa silliqlanadi"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -3052,9 +3052,9 @@
     "savol": "Granit qayda ishlatiladi?",
     "variantlar": [
      "Imorat poy-devori, devorlari, ko'prik ustunlari, zinapoyalarini bezatishda",
-     "Faqat yangilangan joy sirtida",
-     "Faqat to'xtovalarda",
-     "Faqat goz yasashda"
+     "Faqat oshxonada",
+     "Faqat bekatlarda",
+     "Faqat idish yasashda"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -3075,7 +3075,7 @@
     "variantlar": [
      "Qumga",
      "Oq mayda shag'alga",
-     "Gili shag'alga",
+     "Qizil shag'alga",
      "Qora toshga"
     ],
     "togri": 1,
@@ -3085,7 +3085,7 @@
     "savol": "'Temuriylar tarixi Davlat muzeyi' va 'Yoshlar ijod saroyi'ning qaysi qismlari granit bilan qoplangan?",
     "variantlar": [
      "Zinapoyalar, poy-devorlari va eshik peshtoqlari",
-     "Oynaları",
+     "Oynalari",
      "Faqat devor",
      "Faqat tom"
     ],
@@ -3129,7 +3129,7 @@
     "savol": "Biror xona devorini rang-barang qilib bezatmoqchi bo'lsangiz, qaysi materialni tanlash to'g'ri?",
     "variantlar": [
      "Qumni",
-     "Granit va ohaktosh tenglab",
+     "Granit va ohaktoshni teng",
      "Ohaktoshni, chunki unga turli ranglar qo'shib ishlatiladi",
      "Faqat granitni"
     ],
@@ -3142,7 +3142,7 @@
      "Faqat devor bezatishda",
      "Faqat oyna yasashda",
      "Beton, devor ishlovida, yo'lga asfalt yotqizishda",
-     "Faqat tog'ning yemirmasida"
+     "Faqat tog' yasashda"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -3151,7 +3151,7 @@
     "savol": "Tog'lardagi toshlar qanday jarayonda qumga aylanadi?",
     "variantlar": [
      "Odamlar tomonidan maydalanib",
-     "Hayvonlar tomonidan o'rtilip",
+     "Hayvonlar kemirib",
      "Tez-tez suvga tushib",
      "Quyosh nuri, yog'inlar va shamol ta'sirida yemirilib"
     ],
@@ -3228,8 +3228,8 @@
     "savol": "Qadim zamonda qumli cho'llar o'rnida nima bo'lgan ekan, va u qanday qumga aylandi?",
     "variantlar": [
      "Suv joylari bo'lib, qum to'planib",
-     "Metall javzalari bo'lib, isitib qumga",
-     "Granit tog'lari bo'lib, qurulay qumga",
+     "Metall konlari bo'lib, erib qumga aylandi",
+     "Granit tog'lari bo'lib, bir kunda qumga aylandi",
      "Harsangtosh lar bo'lib, suv va shamol ta'sirida qumga aylandi"
     ],
     "togri": 3,
@@ -3238,7 +3238,7 @@
    {
     "savol": "Beton yasashda qum va shag'alning roli nima?",
     "variantlar": [
-     "Shag'al va qum aralashtirib mustahkam beton quyiladi",
+     "Qum, shag'al va sement aralashtirilib mustahkam beton quyiladi",
      "Betonni yengil qiladi",
      "Faqat betonning rangini beradi",
      "Betonni suv dan himoya qiladi"
@@ -3283,22 +3283,22 @@
     "savol": "Agar shisha va oyna yasashda oq qum ishlatilsa, bu jarayonda qum qanday ozgaradi?",
     "variantlar": [
      "Rangda o'zgaradi",
-     "Isitish orqali qaylashagilib oyna shaklga kiradi",
+     "Qizdirib eritilib, oynaga aylanadi",
      "Kimyoviy jarayon orqali tashkil topadi",
-     "Raqamda ko'payadi"
+     "Soni ko'payadi"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Agar suv va shamoldan ta'sirida turli xil toshlarni ko'rgan bo'lsangiz, ulardan qaysi biri qumga aylanish jarayonini davom ettirishga ko'proq moyil bo'ladi?",
+    "savol": "Quyidagilardan qaysi biri qurilish materiali emas?",
     "variantlar": [
-     "Biktor",
-     "Qoliptosh",
-     "Granit va boshqa tog'daki tosh, chunki ular yemirilib qumga aylanishi jarayoni bor",
-     "Metall"
+     "Granit",
+     "Ohaktosh",
+     "Qum",
+     "Oltin"
     ],
-    "togri": 2,
+    "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
@@ -3333,9 +3333,9 @@
    {
     "savol": "Ohaktosh nima?",
     "variantlar": [
-     "Suvning bitta turi",
-     "Mitti va loydir",
-     "Rezyina",
+     "Suvning bir turi",
+     "Loy",
+     "Rezina",
      "Qattiq tosh"
     ],
     "togri": 3,
@@ -3346,7 +3346,7 @@
     "variantlar": [
      "Gilga",
      "Oq mayda shag'alga",
-     "Tugaliga",
+     "Temirga",
      "Qumga"
     ],
     "togri": 1,
@@ -3358,7 +3358,7 @@
      "Suv bo'lgan",
      "Xarsangtoshlar bo'lgan",
      "Qum bo'lgan",
-     "Qolshiq bo'lgan"
+     "Qalin o'rmon bo'lgan"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -3369,7 +3369,7 @@
      "Bir necha yuz marta",
      "O'n marta",
      "Ikki marta",
-     "Mingta marta"
+     "Ming marta"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -3378,8 +3378,8 @@
     "savol": "G'isht qayerdagi qurilmada pishiriladi?",
     "variantlar": [
      "Pechlarda",
-     "Lovlarda",
-     "Qazanda",
+     "Muzlatkichda",
+     "Qozonda",
      "Tandirda"
     ],
     "togri": 0,
@@ -3400,7 +3400,7 @@
     "savol": "Oyna va shishalar qaysi qumdan tayyorlanadi?",
     "variantlar": [
      "Qizil qumdan",
-     "Kokil qumdan",
+     "Yashil qumdan",
      "Oq qumdan",
      "Qora qumdan"
     ],
@@ -3501,7 +3501,7 @@
      "Plitka",
      "Devor",
      "Stakan",
-     "Pinchak"
+     "Pidjak"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -3531,9 +3531,9 @@
    {
     "savol": "G'isht yasash jarayonida gilni nima qilish kerak?",
     "variantlar": [
-     "Shamol bilan qizdirish",
+     "Shamolda qizdirish",
      "Faqat suv bilan aralash",
-     "Molding qilip, pechda pishirish",
+     "Qoliplab, pechda pishirish",
      "Faqat quritish"
     ],
     "togri": 2,
@@ -3551,7 +3551,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Agar xarsangtosh yemirilish jarayoni uzaytirilsa, qum ko'ligi nima bo'ladi?",
+    "savol": "Agar xarsangtoshlarning yemirilishi davom etsa, qum miqdori nima bo'ladi?",
     "variantlar": [
      "Ortib boradi",
      "Bir xil qoladi",
@@ -3619,7 +3619,7 @@
    {
     "savol": "G'isht yasashning to'liq jarayonini ketma-ketlikda tushuntiring.",
     "variantlar": [
-     "Gilni molding qilish va pechda pishirish",
+     "Gilni qoliplash, quritish va pechda pishirish",
      "Faqat pishirish",
      "Faqat quritish",
      "Faqat rangni berish"
@@ -3628,11 +3628,11 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Foydali qazilmalarni hozirgi kurs bilan sarflash natijalari qanday bo'ladi?",
+    "savol": "Foydali qazilmalarni hozirgi sur'atda sarflash natijasi qanday bo'ladi?",
     "variantlar": [
      "Hech narsa o'zgarish kelmaydi",
      "Birin-ketin tugab qoladi",
-     "Sifati yaxshilashda",
+     "Sifati yaxshilanadi",
      "Miqdori ortadi"
     ],
     "togri": 1,
@@ -3653,7 +3653,7 @@
     "savol": "Ohaktoshdan yasalgan rang-barang bezatish material qanday xususiyatlarga ega?",
     "variantlar": [
      "Faqat qattiq",
-     "Faqat pahal",
+     "Faqat yumshoq",
      "Faqat yengil",
      "Rang berish va mustahkamlik"
     ],
@@ -3681,10 +3681,10 @@
    {
     "savol": "Gidroelektrostansiya nima?",
     "variantlar": [
-     "Uzoq masofani o'lchash inshoot",
+     "Masofani o'lchaydigan inshoot",
      "Daryo to'g'on bilan to'silib, turbina parraklarining suv aylantirishidan elektr toki olinadigan inshoot",
      "Gazni saqlash inshoot",
-     "Qo'lyoqli inshoot"
+     "Qo'l bilan ishlaydigan inshoot"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -3695,7 +3695,7 @@
      "Tabiat in'om etgan boylikdir",
      "Insonda yasalgan buyumlar",
      "Faqat metallardan yasalgan",
-     "Kishilar o'zaro tuluqligi uchun zarur buyumlar"
+     "Faqat do'kondagi buyumlar"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -3705,7 +3705,7 @@
     "variantlar": [
      "Neftning o'rnida ko'mir qo'llash",
      "Benzin sarfini kamaytirish",
-     "Benzinli avtomobillarni yoqib turish",
+     "Benzinli avtomobillarni o'chirmay qo'yish",
      "Neftni qazib olmaslik"
     ],
     "togri": 1,
@@ -3716,7 +3716,7 @@
     "variantlar": [
      "Elektr plitalar",
      "Ko'mir",
-     "Gaz",
+     "O'tin",
      "Neft"
     ],
     "togri": 0,
@@ -3726,8 +3726,8 @@
     "savol": "Metallurgiya kombinati nima uchun xizmat qiladi?",
     "variantlar": [
      "Mashinalar tayyorlash",
-     "Gazni saqash",
-     "Tuydiqlar tikish",
+     "Gazni saqlash",
+     "Kiyim tikish",
      "Ishdan chiqqan metall qismlari eritib, yangidan buyumlar yasash"
     ],
     "togri": 3,
@@ -3736,8 +3736,8 @@
    {
     "savol": "Ko'mirni tejash uchun qanday elektrostansiyalar ko'paytirilyapti?",
     "variantlar": [
-     "Shamolga tekislangan",
-     "Quyosh elektrostansiyalari",
+     "Ko'mir elektrostansiyalari",
+     "Neft elektrostansiyalari",
      "Gidroelektrostansiyalar",
      "Gaz elektrostansiyalari"
     ],
@@ -3749,8 +3749,8 @@
     "variantlar": [
      "Metall o'rnini egallab borayotgan",
      "Arzonroq narx",
-     "Suvda yaxshi eritiladi",
-     "Oson buziluvchanlik"
+     "Suvda eriydi",
+     "Tez buziladi"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -3770,7 +3770,7 @@
     "savol": "Foydali qazilmalardan kelajak avlodlar nima uchun bahramand bo'lishi kerak?",
     "variantlar": [
      "Foydali qazilmalar tugab qolmasligi uchun",
-     "Ular ham timsahlarda yashashi kerak",
+     "Ular ko'proq pul topishi uchun",
      "Ularda pul bo'lishi uchun",
      "Faqat bugungi avlod bahramand bo'lishi kerak"
     ],
@@ -3782,8 +3782,8 @@
     "variantlar": [
      "Yanada ko'p sarf qilinadi",
      "Yangidan paydo bo'ladi",
-     "Tez tugunga qanoti",
-     "Eng oziqlandi o'tib ketadi"
+     "Tezroq tugaydi",
+     "Sekinroq sarflanadi, uzoqroq yetadi"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -3805,7 +3805,7 @@
      "Shartnoma asosida sotish uchun",
      "Bunga sabab yo'q",
      "Yangicha buyumlar yaratish uchun",
-     "Polatga aylantirib yuborish uchun"
+     "Chiqindixonaga tashlash uchun"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -3815,7 +3815,7 @@
     "variantlar": [
      "Elektr energiyaning sarfini oshirish",
      "Neftning ortiqcha miqdori ishlash",
-     "Ko'mir qazoqmasini ko'paytirish",
+     "Ko'mir qazib olishni ko'paytirish",
      "Gazni behuda yoqib qo'ymaslik va tejab foydalanish"
     ],
     "togri": 3,
@@ -3835,7 +3835,7 @@
    {
     "savol": "Plastmassalar turli chiqindilardan olinishi boshqa nima anglatadi?",
     "variantlar": [
-     "O'rin bosgan masalalar bor ekan",
+     "Chiqindilar ko'payishini",
      "Foydali qazilmalarni tejash",
      "Chiqindilar uchun to'liq bekor qilish",
      "Chiqindilarni to'liq yoqib tashlash"
@@ -3847,7 +3847,7 @@
     "savol": "Metallardan foydalanishni tejash uchun qanday jarayon o'tkaziladi?",
     "variantlar": [
      "Metallarni suvga tashlash",
-     "Metallarni yer ostiga ko'm qo'yish",
+     "Yer ostiga ko'mib qo'yish",
      "Ishdan chiqqan metall qismlari yig'ib olish va yangilanish",
      "Metallarni joyida qo'yib qo'yish"
     ],
@@ -3855,21 +3855,21 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Benzinni kam sarflaydigan avtomobillarning ko'payishi neft zaxirasining tejashiga kamaymasa, bu jarayonni kim taklif qilgan?",
+    "savol": "Benzinni kam sarflaydigan avtomobillar ko'payishi nimaga yordam beradi?",
     "variantlar": [
-     "Radio telekanali",
-     "Xorijlik siyosatchi",
-     "Mutaxassislar",
-     "Hukumat"
+     "Neftni tejashga",
+     "Neft ko'proq sarflanishiga",
+     "Havoni ko'proq ifloslashga",
+     "Ko'mirni ko'proq ishlatishga"
     ],
-    "togri": 2,
+    "togri": 0,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Gidroelektrostansiyalar qaysi tabiiy zavqa ishlatadi?",
+    "savol": "Gidroelektrostansiya qaysi tabiiy kuchdan foydalanadi?",
     "variantlar": [
      "Quyosh",
-     "Isitishlik",
+     "Olov",
      "Shamol",
      "Suv"
     ],
@@ -3881,8 +3881,8 @@
     "variantlar": [
      "Gazning kuyishi orqali",
      "Metallning eritilishi orqali",
-     "Suvning aylanishi orqali",
-     "Shimlarning yozilishi orqali"
+     "Suv oqimi turbinani aylantirishi orqali",
+     "Shamolning esishi orqali"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -3902,9 +3902,9 @@
     "savol": "Temir, mis, aluminiy ko'p ishlatiladi degan faktdan foydalanib, bu metallarning tejashga nima uchun ehtiyoj borligini aniqlay olasizmi?",
     "variantlar": [
      "Ularning zaxirasining cheklangan ekanligidan",
-     "Ularning ko'chimasi oson bo'lgani uchun",
+     "Ular oson ko'chirilgani uchun",
      "Ularning soni cheksiz ko'p bo'lgani uchun",
-     "Ularning butun dunyo bo'ylab paytidir"
+     "Ular hamma joyda bor bo'lgani uchun"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -3946,7 +3946,7 @@
     "savol": "Matndagi 'Foydali qazilmalar tugab qolishining oldini olish katta muammo bo'lib qolmoqda' jumlasi nima anglatadi?",
     "variantlar": [
      "Bu muammo juda oson hal qilinadi",
-     "Shunga qaramasdan, bu muammo samarali hal qilinmasdan qolmoqda",
+     "Bu muammo hali to'liq hal qilinmagan",
      "Bu muammo hal qilish uchun hech narsaga kerak emas",
      "Bu muammo hal qilinib tugadi"
     ],
@@ -3969,7 +3969,7 @@
     "variantlar": [
      "Hukumat bu ishga aholi to'laqoniga majbur qiladi",
      "Metallarni tejash uchun aholi ham faol ishtirok etishi zarur",
-     "Mashina qismlarini yig'ib olish yassiqlantiruvchi narsadir",
+     "Mashina qismlarini yig'ish zararli",
      "Aholi bu ishdan juda yomon ko'rinadi"
     ],
     "togri": 1,
@@ -3979,9 +3979,9 @@
     "savol": "Elektr toki bilan yuradigan avtomobillar ixtiro qilinganligidan qaysi ikkita foydali natija kutilmoqda?",
     "variantlar": [
      "Neftning tejashi va kelajakda shunday avtomobillarning ko'payish",
-     "Metallarning tejashi va yog'in yag'ishi",
-     "Avtomobil soningning oshishi va issiqlik elektrostansiyalari kopayish",
-     "Gazning tejashi va temir zaryadining oshishi"
+     "Metallarni tejash va yomg'ir ko'payishi",
+     "Avtomobillar va issiqlik elektrostansiyalari ko'payishi",
+     "Gazni tejash va temir ko'payishi"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -4030,7 +4030,7 @@
     "savol": "Mikroorganizmlar nima?",
     "variantlar": [
      "O'simliklar",
-     "Ko'zinasiga ko'rinmaydigan nihoyatda mayda jonzotlar",
+     "Ko'zga ko'rinmaydigan nihoyatda mayda jonzotlar",
      "Qum va gil",
      "Katta hayvonlar"
     ],
@@ -4062,7 +4062,7 @@
    {
     "savol": "Tuproqda qanday hayvonlar hayot kechiradi?",
     "variantlar": [
-     "Faqat shoiralar",
+     "Faqat baliqlar",
      "Faqat kichik qushlar",
      "Chuvalchang, chumoli, kaltakesak, ilon, yumronqoziq, ko'rsichqon",
      "Faqat yumurtqali hayvonlar"
@@ -4117,10 +4117,10 @@
    {
     "savol": "Stakandagi suvga bir qoshiq tuproq solib aralashtirsa nima ko'rish mumkin?",
     "variantlar": [
-     "Suv jo'nnab chiqadi",
-     "Tuproq yemilib qoladi",
-     "Suv ustisiga havo pufakchalarining chiqishi",
-     "Gil va qum ajraladi"
+     "Suv qaynab ketadi",
+     "Tuproq yo'qolib qoladi",
+     "Suv ustiga havo pufakchalari chiqadi",
+     "Suv muzlaydi"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -4128,8 +4128,8 @@
    {
     "savol": "Tuproqni qizdirganda nima ko'rish mumkin?",
     "variantlar": [
-     "Tuproq kattaroq bo'lish",
-     "Tuproqning suyulishi",
+     "Tuproq kattalashadi",
+     "Tuproq suyuladi",
      "Tuproqdan suv bug'lari va tutun chiqishi",
      "Faqat rangining o'zgarishi"
     ],
@@ -4140,7 +4140,7 @@
     "savol": "Qizdirilgan tuproqni suvga solib aralashtirsa nima bo'ladi?",
     "variantlar": [
      "Yangi tuproq hosil bo'ladi",
-     "Tuproq yemilib ketadi",
+     "Tuproq yo'qolib ketadi",
      "Qum va gil ikkita qatlamga ajraladi",
      "Suv bug'lanib ketadi"
     ],
@@ -4161,9 +4161,9 @@
    {
     "savol": "O'simlik ildizi erigan oziqa moddalarni qanday oladi?",
     "variantlar": [
-     "Shimadi",
+     "Suvda erigan holda shimib oladi",
      "Tutun bilan nafas oladi",
-     "Prupakdan oladi",
+     "Havodan oladi",
      "Bargidan oladi"
     ],
     "togri": 0,
@@ -4175,7 +4175,7 @@
      "Mikroorganizmlar va boshqa jonivorlar shu havo va suv hisobiga yashayadi",
      "Faqat o'simliklarni ozuqlantirish uchun",
      "O'simlik va hayvonlarni zaharlantirvchi moddalardir",
-     "Tuproqni churaymaki bo'lish uchun"
+     "Tuproqni qattiq qilish uchun"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -4184,8 +4184,8 @@
     "savol": "Dastlabki tuproqlar qanday hosil bo'lgan?",
     "variantlar": [
      "Shamol suv o'tlarini quruqlikga uchirib kelgandan so'ng, u o'tlar chirib, tuproq hosil bo'lgan",
-     "O'simliklar to'g'ri dan hosil bo'lgan",
-     "Insan ishlab chiqargan",
+     "O'simliklardan to'g'ridan-to'g'ri",
+     "Inson ishlab chiqargan",
      "Hayvonlar tomonidan tuzilgan"
     ],
     "togri": 0,
@@ -4195,7 +4195,7 @@
     "savol": "Quyosh nuri, yog'in va shamollar qanday ta'sir ko'rsatadi?",
     "variantlar": [
      "O'simliklarni o'stiradi",
-     "Tuproqni jimlik qoldiradi",
+     "Tuproqni jim qoldiradi",
      "Uzoq davrlar davomida toshlarni nurab qum va gilga aylantiradi",
      "Tuproqni zararlantirvchi moddalardir"
     ],
@@ -4205,10 +4205,10 @@
    {
     "savol": "Bakteriyalar tuproq tarkibidagi chirindi va qoldiqlarni qanday aylantiradi?",
     "variantlar": [
-     "Tungi vaqt ishlab beradi",
+     "Tunda ishlab beradi",
      "Suyultiradi",
      "Mineral moddalarga aylantiradi",
-     "Qayta cho'kkitiradi"
+     "Qayta cho'ktiradi"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -4260,9 +4260,9 @@
    {
     "savol": "Nega 1-2 metr chuqurlikdan olingan tuproqqa o'simlik ko'chati o'tqazilsa o'smasdan qurib qoladi?",
     "variantlar": [
-     "Bunday tuproqda o'simlik uchun ozuqa (chirindi va minerallar) yetarli bo'lmadi",
+     "Bunday tuproqda o'simlik uchun ozuqa (chirindi va minerallar) yetarli bo'lmaydi",
      "Bunday tuproq quruq bo'lganligi sababli",
-     "Bunday tuproq juda xom-xorn bo'lganligi sababli",
+     "Bunday tuproq juda xom bo'lgani uchun",
      "Bunday tuproqda suv bor"
     ],
     "togri": 0,
@@ -4282,12 +4282,12 @@
    {
     "savol": "Amaliy ishlar orqali tuproq tarkibidagi barcha komponentlarni aniqlash uchun qanday ketma-ketlik kerak?",
     "variantlar": [
-     "Hamma amaliy ishlar bir vaqtda o'tkazilishi kerak",
-     "Faqat yoqilg'i bilan qizdirgandan so'ng tuproqni suvga soling",
-     "Birinchi stakanga suvga solib, havo pufakchalarini ko'rgandan keyin qizdirgandan so'ng qoldiqlarini suvga soling",
-     "Yoqilg'i bilan qizdirgandan so'ng, suvga solib, qum va gilni ajratgan. Keyin suv yuzidan minerallarni ajratgan"
+     "Hamma amaliy ishlar bir vaqtda o'tkaziladi",
+     "Faqat tuproqni qizdiriladi",
+     "Avval tuproqni suvga solib havo pufakchalari kuzatiladi, keyin qizdiriladi, so'ng qoldig'i suvga solinib qum va gil ajratiladi",
+     "Faqat tuproqni hidlanadi"
     ],
-    "togri": 3,
+    "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
@@ -4342,12 +4342,12 @@
   "mavzu": "Tuproq va jonli tabiat",
   "savollar": [
    {
-    "savol": "O'simlik bargi orqali oziqlanishi uchun qanday moddalar kerak?",
+    "savol": "O'simlik bargida oziqa hosil bo'lishi uchun nima kerak?",
     "variantlar": [
      "Faqat mineralllar",
-     "Haydiy suv va tuproq",
+     "Faqat tuproq",
      "Suv va qum",
-     "Suv zarrachalari va karbonat angidrid zaryachalari"
+     "Suv, karbonat angidrid va quyosh nuri"
     ],
     "togri": 3,
     "qiyinlik": "oson"
@@ -4378,9 +4378,9 @@
     "savol": "Tuproq orasida yashovchi qanday jonivorlar tuproqning unumdorligini oshiradi?",
     "variantlar": [
      "Faqat chumoli",
-     "Uchar va baliqlar",
+     "Qushlar va baliqlar",
      "Chuvalchang va chumoli kabi jonivorlar",
-     "Haydiy hayvonlar"
+     "Katta hayvonlar"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -4389,9 +4389,9 @@
     "savol": "Chuvalchang tuproqda asosan nima qiladi?",
     "variantlar": [
      "Tuproqni qayta ishlab, g'ovakligini va unumdorligini oshiradi",
-     "Tuproqni zaharlab utadi",
-     "Tuproq orasidan jo'nab utadi",
-     "Tuproqni taybaqa ayantiradi"
+     "Tuproqni zaharlaydi",
+     "Tuproqdan qochib ketadi",
+     "Tuproqni toshga aylantiradi"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -4399,10 +4399,10 @@
    {
     "savol": "O'simlik ildizi orqali qanday jarayonlar bo'ladi?",
     "variantlar": [
-     "Suv qabul qilish va vertikal o'sish",
+     "Fotosintez va gullash",
      "Yalniz oziqlanish",
      "Yalniz nafas olish",
-     "Oziqlanish va nafas olish"
+     "Suv va minerallarni shimish hamda nafas olish"
     ],
     "togri": 3,
     "qiyinlik": "oson"
@@ -4411,7 +4411,7 @@
     "savol": "Quyosh nuri ta'sirida o'simlik bargida qanday jarayon sodir bo'ladi?",
     "variantlar": [
      "Suv tayyorlash jarayoni",
-     "Havoiy tozalanadi",
+     "Barg to'kiladi",
      "Suv bug'lanadi",
      "Suv zarrachalari va CO2 birikib oziqa moddasi hosil bo'ladi"
     ],
@@ -4423,7 +4423,7 @@
     "variantlar": [
      "Yalniz suv",
      "Faqat qum",
-     "Gil va plastmas",
+     "Gil va plastmassa",
      "Chirindilar va minerallarga boy moddalar"
     ],
     "togri": 3,
@@ -4433,7 +4433,7 @@
     "savol": "Tuproq orasidagi jonivorlar asosan qanday oziqlanadi?",
     "variantlar": [
      "Quyosh energiyasi bilan",
-     "Suv va havoly",
+     "Faqat suv va havo bilan",
      "O'simliklar qoldig'i bilan",
      "Tashqaridan olib kelingan oziqlar bilan"
     ],
@@ -4444,7 +4444,7 @@
     "savol": "Yomg'ir yog'ishi va suv bosishidan tuproqga nima bo'ladi?",
     "variantlar": [
      "Tuproq qurigib ketadi",
-     "Tuproq g'ovalalib ketadi",
+     "Tuproq g'ovaklashadi",
      "Tuproq minerallarga boyib ketadi",
      "Tuproq loyga aylanib zichlab qoladi"
     ],
@@ -4455,9 +4455,9 @@
     "savol": "Agar tuproq zichlab qolib loyga aylansa, o'simlikka nima bo'ladi?",
     "variantlar": [
      "O'simlik yaxshi o'sadi",
-     "Tuproq havoni yomon o'tkazadi va o'simlik yaxshi o'smadi",
-     "O'simlik taqviy oziqlanadi",
-     "O'simlik bargi kattarib ketadi"
+     "Tuproq havoni yomon o'tkazadi va o'simlik yaxshi o'smaydi",
+     "O'simlik ko'proq oziqlanadi",
+     "Barglari kattalashib ketadi"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
@@ -4467,7 +4467,7 @@
     "variantlar": [
      "Faqat donador",
      "Unumdor va donador",
-     "Qorali va yengil",
+     "Qora va yengil",
      "Faqat unumdor"
     ],
     "togri": 1,
@@ -4476,8 +4476,8 @@
    {
     "savol": "Tuproq orasidagi jonivorlar tuproqga qanday ta'sir ko'rsatadi?",
     "variantlar": [
-     "Tuproqni yoshi qiladi",
-     "Tuproqni qurigib utadi",
+     "Tuproqni yosh qiladi",
+     "Tuproqni quritib yuboradi",
      "Tuproqni mineral moddalar bilan boyitadi",
      "Tuproqni zaharlab utadi"
     ],
@@ -4498,7 +4498,7 @@
    {
     "savol": "Tuproq orasidagi jonivorlar o'smiklar uchun qanday faydali?",
     "variantlar": [
-     "Tuproqni yangi suvga o'zgartirib utadi",
+     "Tuproqni suvga aylantiradi",
      "O'simlikni yeydi",
      "Tuproqni suv bilan to'ldiradi",
      "O'simliklar qoldigi bilan oziqlanib, tuproqni qayta ishlab boyitadi"
@@ -4510,7 +4510,7 @@
     "savol": "Agar tuproqda chirindilar va mineralllar bo'lmaganda, nima bo'ladi?",
     "variantlar": [
      "Tuproq donador bo'ladi",
-     "Tuproq unumdor olmadi",
+     "Tuproq unumdor bo'lmaydi",
      "Tuproq unumdor bo'ladi",
      "Tuproq g'ovak bo'ladi"
     ],
@@ -4556,7 +4556,7 @@
      "O'simlik tezda o'sadi",
      "O'simlik bargi yashillanadi",
      "O'simlik mineral bilan to'yinadi",
-     "O'simlik yaxshi o'smadi, chunki ildizi nafas olishi qiyin"
+     "O'simlik yaxshi o'smaydi, chunki ildizi nafas olishi qiyin"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -4565,7 +4565,7 @@
     "savol": "Tuproq bo'lmaganda quruqlikda jonli tabiat qanday bo'ladi?",
     "variantlar": [
      "Odamlar yashay oladi",
-     "O'simliklar bo'lmas edi va jonli tabiat yashay olmadi",
+     "O'simliklar bo'lmas edi va jonli tabiat yashay olmas edi",
      "Faqat hayvonlar yashadi",
      "Hayot yaxshi rivojlanadi"
     ],
@@ -4576,9 +4576,9 @@
     "savol": "Chuvalchanglar tuproqning unumdorligini qanday oshiradi?",
     "variantlar": [
      "O'simlik qoldigi bilan oziqlanib, tuproqni qayta ishlab mineral boyitadi",
-     "Havoni siqib tuproq ostiga uradi",
+     "Havoni siqib chiqaradi",
      "Tuproqda suv qo'shadi",
-     "Tuproqni suv bilan yuyadi"
+     "Tuproqni suv bilan yuvadi"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -4608,10 +4608,10 @@
    {
     "savol": "Jonli tabiatning tuproqga bog'lanishi nima orqali ifodalanar?",
     "variantlar": [
-     "Tuproq faqat shaxmatski ko'rinadi",
+     "Tuproq faqat ko'rinish uchun kerak",
      "Tuproq shunchaki suv saqlovchi",
      "Tuproq rang beradi",
-     "Tuproq bo'lmaganda jonli tabiat yashay olmadi"
+     "Tuproq bo'lmaganda jonli tabiat yashay olmas edi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -4630,7 +4630,7 @@
    {
     "savol": "Nima uchun tuproq donador va unumdor xususiyatlari ikkalasi ham muhim?",
     "variantlar": [
-     "Donadorlikda havo, unumdorlikda oziqa boradi",
+     "Donadorlik havo beradi, unumdorlik oziqa beradi",
      "Faqat unumdorlik muhim",
      "Faqat donadorlik muhim",
      "Hech qanday zaruriyat yo'q"
@@ -4650,7 +4650,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Tuproqning chirindi qanday jarayonlardan unumdor bo'ladi?",
+    "savol": "Tuproq qanday jarayonlar natijasida unumdor bo'ladi?",
     "variantlar": [
      "Faqat quyosh energiyasi kerak",
      "Faqat chirindilar kerak",
@@ -4663,7 +4663,7 @@
    {
     "savol": "Nobud bo'lgan hayvon va o'simlik qoldiqlarining tuproqda ahamiyati nima?",
     "variantlar": [
-     "Tuproq ostida kaliy hosil qiladi",
+     "Tuproq ostida neft hosil qiladi",
      "Tuproqni qoralashtiradi",
      "Tuproqni zaharlab utadi",
      "Mikroorganizmlar bilan aylanib, tuproq unumdorligini oshiradi"
@@ -4789,12 +4789,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Zubturumning barglaridan qanday kasalliklari davolanadi?",
+    "savol": "Zubturum barglari nimani davolashda ishlatiladi?",
     "variantlar": [
-     "Faqat asalariligining muammolari",
-     "Shamollash, oshqozon va ichak kasalliklari",
-     "Faqat shamollash",
-     "Faqat oshqozon kasalligi"
+     "Faqat tish og'rig'ini",
+     "Yara, kuygan va ari chaqqan joylarni",
+     "Faqat ko'z kasalligini",
+     "Faqat soch to'kilishini"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
@@ -4814,7 +4814,7 @@
     "savol": "Qoqio'tning barglari qanday ishlatiladi?",
     "variantlar": [
      "Faqat yog' tayyorlashda",
-     "Shaxar tayyorlashda",
+     "Shakar tayyorlashda",
      "Faqat dori sifatida",
      "Ovqatga ham solinadi"
     ],
@@ -4824,7 +4824,7 @@
    {
     "savol": "Butalarning bargları kech kuzda nima bo'ladi?",
     "variantlar": [
-     "Tuz to'planadilar",
+     "Tuz to'playdi",
      "Yanada qalin bo'lib o'sadi",
      "To'kilib, keyingi yili yangi barglar chiqaradi",
      "Rang o'zgarib ketadi"
@@ -4860,7 +4860,7 @@
      "Yoqimsiz",
      "Hidsiz",
      "Xushbo'y",
-     "Qoriqli"
+     "Achchiq"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -4890,7 +4890,7 @@
    {
     "savol": "O'tlarning ayrimlari nima hisoblanadi?",
     "variantlar": [
-     "Ohak",
+     "Temir",
      "Zaharli",
      "Dorivor",
      "Yog'li"
@@ -4902,7 +4902,7 @@
     "savol": "Tabiiy va madaniy o'simliklar o'rtasidagi asosiy farq nima?",
     "variantlar": [
      "Tabiiy o'simliklar o'z-o'zidan o'sadi, madaniy o'simliklar esa odamlar tomonidan ekiladi",
-     "Tabiiy o'simliklar davogar, madaniy o'simliklar esa zaharli",
+     "Tabiiy o'simliklar dorivor, madaniylari zaharli",
      "Tabiiy o'simliklar o't, madaniy o'simliklar esa faqat buta va daraxt",
      "Tabiiy o'simliklar tog'larda, madaniy o'simliklar esa ariq bo'ylarida o'sadi"
     ],
@@ -4910,14 +4910,14 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "O'simliklarning turlarini xilma-xilligiga qarab qaysi turning bargları yil davomida to'kilib, yangilani chiqadi?",
+    "savol": "Qaysi o'simlik buta hisoblanadi?",
     "variantlar": [
-     "Daraxtlarning bargları",
-     "Barchasi bir xilsanagi",
-     "O'tlarning bargları",
-     "Butalarning bargları"
+     "Na'matak",
+     "Chinor",
+     "Bug'doy",
+     "Yalpiz"
     ],
-    "togri": 3,
+    "togri": 0,
     "qiyinlik": "qiyin"
    },
    {
@@ -4987,12 +4987,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Na'matak aprel oyida gullab, avgust-sentabr oyida mevalari pishadi, shuning asosida gullab tushtunadigan vaqt davomiyligini hisoblang.",
+    "savol": "Na'matak aprelda gullab, avgust-sentabrda mevasi pishsa, gullashdan meva pishguncha taxminan qancha vaqt o'tadi?",
     "variantlar": [
      "Taxminan 1 oylik davom qiladi",
      "Taxminan 10 oylik davom qiladi",
-     "Taxminan 2-3 oylik davom qiladi",
-     "Taxminan 5-6 oylik davom qiladi"
+     "Taxminan 2-3 oy",
+     "Taxminan 4-5 oy"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -5018,9 +5018,9 @@
    {
     "savol": "Daraxtlarning poyasi qanday xususiyatlarga ega?",
     "variantlar": [
-     "Raqamlangan, shaffof, ko'plik va nozik",
-     "Tosh, yumshoq, ko'plik va shiring",
-     "Ohak, ingichka, bitta va qattiq",
+     "Shaffof, ingichka, ko'p",
+     "Yumshoq, suvli, ko'p",
+     "Ingichka, egiluvchan, ko'p",
      "Yog'ochlangan, qattiq, bitta va yo'g'on"
     ],
     "togri": 3,
@@ -5029,7 +5029,7 @@
    {
     "savol": "Yo'l chetida qaysi daraxtlarni ko'rish mumkin?",
     "variantlar": [
-     "Nur, olibka, dut",
+     "Paxta, bug'doy, makkajo'xori",
      "Archa, yong'oq, do'lana",
      "Chinor, qarag'ay, eman, zarang, terak, tol",
      "Olcha, bodom, yovvoyi olma"
@@ -5043,7 +5043,7 @@
      "Tol, zarang, eman",
      "Chinor, qarag'ay, terak",
      "Archa, yong'oq, do'lana, yovvoyi olma, olcha, bodom",
-     "Zaraq, duv, silb"
+     "Saksovul, juzg'un, quyonsuyak"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -5062,21 +5062,21 @@
    {
     "savol": "O'rmon daraxtlari qaysi suvi hisobiga o'sadi?",
     "variantlar": [
-     "Podzemni suv",
+     "Faqat quduq suvi",
      "Tog'dan kelib tushadigan suv",
-     "Istemlangan suv",
+     "Faqat vodoprovod suvi",
      "Yog'inlarning suvi"
     ],
     "togri": 3,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Daraxtning poyasi necha bo'ladi?",
+    "savol": "Daraxtning asosiy poyasi nechta bo'ladi?",
     "variantlar": [
      "Ikkita",
      "Bitta",
-     "Ko'plik",
-     "Chordita"
+     "Ko'p",
+     "To'rtta"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -5093,12 +5093,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Tog' o'rmonlarida qanday maydonlar katta arenani egallagan?",
+    "savol": "Tog' o'rmonlarida qaysi daraxtzorlar katta maydonlarni egallagan?",
     "variantlar": [
-     "Bodom zonasi",
-     "Tol zonasi",
+     "Bodomzorlar",
+     "Tolzorlar",
      "Archazorlar",
-     "Chinor zonasi"
+     "Chinorzorlar"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -5153,7 +5153,7 @@
      "Ha, hosil bo'ladi",
      "Yo'q, qo'shimcha shart kerak",
      "Lekin siyrak bo'ladi",
-     "Faqat qismik hosil bo'ladi"
+     "Faqat qisman hosil bo'ladi"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -5207,8 +5207,8 @@
     "variantlar": [
      "Tog' bo'lishi",
      "Issiqlik va namlik",
-     "Suv o'tib o'tishi",
-     "Kattalanik"
+     "Suv oqib o'tishi",
+     "Kattalik"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
@@ -5250,7 +5250,7 @@
     "savol": "Tekisliklarda issiqlik yetarli bo'lishiga qaramay, yozda yog'ingarchilik kam bo'lsa, daraxtlar uchun nima bo'ladi?",
     "variantlar": [
      "Rang o'zgartiradi",
-     "Yuqorida ko'tariladi",
+     "Yuqoriga ko'tariladi",
      "O'sishi qiynaladi",
      "Juda tez o'sadi"
     ],
@@ -5273,8 +5273,8 @@
     "variantlar": [
      "Issiqlik va namlik yetarli bo'lishi sababli, shuning uchun o'simliklar ko'p o'sadi",
      "Daraxtlar bir-biridan qo'rqadi",
-     "Daraxtlar tepa bo'laydi",
-     "Tuproq yanada qattiqlashadi"
+     "Daraxtlar baland bo'ladi",
+     "Tuproq qattiqlashadi"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -5294,7 +5294,7 @@
     "savol": "Agar tog'liklarda yozda yog'ingarchilik bo'lmasa, u holda o'rmonlar qanday bo'ladi?",
     "variantlar": [
      "Siyrak yoki qayb bo'ladi",
-     "Bunday o'rmonlar yasaladi",
+     "O'zgarmaydi",
      "Katta va zich bo'ladi",
      "Yanada yaxshi o'sadi"
     ],
@@ -5335,7 +5335,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Agar tekisliklarda yagona yog'in boshadigan qilib namlik yetib tursa, daraxtlar o'saladimi?",
+    "savol": "Agar tekisliklarda yozda ham yog'in yetarli bo'lsa, daraxtlar yaxshi o'sadimi?",
     "variantlar": [
      "Ha, o'sadi, chunki issiqlik bor va namlik yetib turadi",
      "Juda sekin o'sadi",
@@ -5551,12 +5551,12 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Ko'sak ochila boshlaydigan vaqt qaysi oydir?",
+    "savol": "Ko'saklar qachon ochila boshlaydi?",
     "variantlar": [
-     "Avgust oxirida",
-     "Sentabr boshida",
-     "Iyul oxirida",
-     "Oktabr boshida"
+     "Avgust oxiri – sentabr boshida",
+     "Mart boshida",
+     "May oxirida",
+     "Yanvar oyida"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -5606,12 +5606,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Paxtadan nechta turli mahsulotlar qilinadi?",
+    "savol": "Quyidagilardan qaysilari paxtadan olinadigan mahsulotlar?",
     "variantlar": [
-     "5-6 ta",
-     "10 ta",
-     "3-4 ta",
-     "Qog'oz, plastmassalar, charm, linoleum, sovun, moy, lok va boshqalar"
+     "Un va non",
+     "Shakar va asal",
+     "Tuz va ohak",
+     "Qog'oz, sovun, moy, linoleum"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -5628,31 +5628,31 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Ekilgan paxta urug'i nihol bo'lib o'sish jarayonida va uning tabiiy tekshiruvlarida qanday ta'mir-turlash qilinadi?",
+    "savol": "Chigit unib chiqqandan keyin nihollarga qanday ishlov beriladi?",
     "variantlar": [
      "Faqat o'g'it solinadi",
      "Traktor bilan kesib tashlanadi",
-     "Bir necha haftada nihol bo'lib o'sib chiqadi, keyin ortiqcha tuplari yagona qilinadi",
+     "Ortiqcha tuplari yulinib, nihollar yagona qilinadi",
      "Faqat sug'oriladi"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Ko'sak pishish va ochila boshlash jarayonida bo'ladigan o'zgarishlarni tushuntiring?",
+    "savol": "Ko'sak pishganda qanday o'zgarish bo'ladi?",
     "variantlar": [
      "Suv oqib ketadi",
      "Ko'sak eritib ketadi",
      "Ko'sak rang o'zgartiradi",
-     "Ko'sak oldidan ochilib, tolalarga to'la paxta chanoğini hosil qiladi"
+     "Ko'sak ochilib, ichidan oppoq tolali paxta ko'rinadi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Traktor yordamida berilayotgan dala ta'mir-turlashining barchasi bir vaqtda qanday maqsadlarni bajaradi?",
+    "savol": "Traktor yordamida g'o'za dalasida qanday ishlar bajariladi?",
     "variantlar": [
-     "Faqat dalaklarni kesish",
+     "Faqat barglar kesiladi",
      "Qator oralariga ishlov beriladi, o'g'itlar solinadi va sug'orib turiladi",
      "Faqat o'g'it solinadi",
      "Faqat chigit yig'iladi"
@@ -5665,7 +5665,7 @@
     "variantlar": [
      "Barg va gul faqat bezak uchun kerak",
      "Faqat ildiz muhim, qolgan qismlar keraksiz",
-     "Gulida meva hosil bo'ladi, mevasida urug' bo'ladi, urug'dan tola va mahsulotlar chiqa",
+     "Gulidan meva (ko'sak) hosil bo'ladi, ko'sakda chigit va tola bo'ladi",
      "Hammasi alohida alohida ish qiladi, bir-biriga bog'lanmadi"
     ],
     "togri": 2,
@@ -5679,12 +5679,12 @@
   "mavzu": "Bug'doy va qora don",
   "savollar": [
    {
-    "savol": "Bug'doy qanday oyda pishib yetiladi?",
+    "savol": "Bug'doy qaysi oyda pishib yetiladi?",
     "variantlar": [
-     "Oktabr oyda",
-     "Avgust oyda",
-     "Iyul oyda",
-     "Sentabr oyda"
+     "Dekabr oyida",
+     "Iyun oyida",
+     "Mart oyida",
+     "Noyabr oyida"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -5712,14 +5712,14 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Makkajo'xori qanday oyda pishib yetila boshlaydi?",
+    "savol": "Makkajo'xori qachon pishib yetiladi?",
     "variantlar": [
-     "Iyun oyda",
-     "Iyul oyda",
-     "May oyda",
-     "Aprel oyda"
+     "Mart oyida",
+     "Aprel oyida",
+     "Avgust–sentabr oylarida",
+     "Yanvar oyida"
     ],
-    "togri": 0,
+    "togri": 2,
     "qiyinlik": "oson"
    },
    {
@@ -5789,11 +5789,11 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Bug'doy donlarini qanday usulda o'rilib donlari ajratib olinadi?",
+    "savol": "Bug'doy nima bilan o'rilib, donlari ajratib olinadi?",
     "variantlar": [
-     "Asmon bilan",
+     "Arra bilan",
      "Qo'l bilan",
-     "Texnika bilan",
+     "Belkurak bilan",
      "Kombayni bilan"
     ],
     "togri": 3,
@@ -5855,10 +5855,10 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Makkajo'xori donlari erta bahorda qanday vaqtda ekiladi?",
+    "savol": "Makkajo'xori qaysi faslda ekiladi?",
     "variantlar": [
      "Kuzda",
-     "Bahorida",
+     "Bahorda",
      "Yozda",
      "Qishda"
     ],
@@ -5899,10 +5899,10 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Bug'doy mahsulotini butun jarayonni aniqlang: donlari qanday olinadi va keyin qanday mahsulotga aylantiriladi?",
+    "savol": "Bug'doy donidan un qanday olinadi?",
     "variantlar": [
-     "Kombayni bilan o'rilib elevator orqali tekshirib tegirmonda yanchilib un bo'ladi",
-     "Suv orqali o'rilib quyrg'onda yanchilib un bo'ladi",
+     "Kombayn bilan o'rilib, donlari tegirmonda yanchilib un qilinadi",
+     "Suvda ivitib, quritib un qilinadi",
      "Qo'l bilan o'rilib un bo'ladi",
      "Mashinada o'rilib qudam bilan yecib un bo'ladi"
     ],
@@ -5913,53 +5913,53 @@
     "savol": "Sholi uchun pollar tayyorlanayotganda qanday shartlar bajarilishi kerak?",
     "variantlar": [
      "Faqat shakli to'rtburchak bo'lishi kerak",
-     "Faqat chuqurligifn aniq bo'lishi kerak",
+     "Faqat chuqurligi aniq bo'lishi kerak",
      "Faqat forma muhim bo'lib boshqa hech narsa kerak emas",
-     "Chuqurligifn 30-40 sm bo'lib suv to'ldirilishi va o'sish davrida 10-20 sm qalinlikda suv bo'lishi kerak"
+     "Pollar to'rtburchak, 30–40 sm chuqur qilinadi va o'sish davrida 10–20 sm suv turadi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Agar makkajo'xori bo'yi 2 metrga yetsa va ba'zilari undan ham baland bo'lsa, eng baland makkajo'xori minimal necha metrdan ko'p bo'lishi kerak?",
+    "savol": "Makkajo'xorining bo'yi bug'doynikiga nisbatan qanday?",
     "variantlar": [
-     "2 metrdan kam",
-     "2 metrdan ko'p",
-     "1 metrga teng",
-     "Aniq 2 metr"
+     "Ancha past",
+     "Ancha baland (2 metrgacha)",
+     "Bir xil",
+     "Bug'doyning bo'yi 3 metr"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Bug'doy donlarini yig'ishni qaysi oyda boshlash kerak va buning uchun qanday vosita ishlatiladi?",
+    "savol": "Bug'doy qaysi oyda va nima yordamida yig'ib olinadi?",
     "variantlar": [
-     "Oktabr oyida osmon bilan",
-     "Sentabr oyida texnika bilan",
-     "Avgust oyida kombayni bilan",
-     "Iyul oyida qo'l bilan"
+     "Oktabr oyida qo'l bilan",
+     "Dekabr oyida traktor bilan",
+     "Iyun oyida kombayn bilan",
+     "Mart oyida qo'l bilan"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Agar sholi sentabr oyida pishib yetsa, shu oyda yig'ilishning boshlang'ich sharti qanday bo'ladi?",
+    "savol": "Sholi nima uchun Xorazm va Qoraqalpog'istonda ko'p yetishtiriladi?",
     "variantlar": [
-     "Barglari sarialang'a bo'lgan bo'ladi",
-     "Sholi tipik bo'lib ketgan bo'ladi",
-     "Pollar qurib ketgan bo'ladi",
-     "Polda yanazam suv bo'ladi"
+     "Tog'li joy bo'lgani uchun",
+     "Amudaryo yaqin bo'lib, suv ko'p bo'lgani uchun",
+     "Qor ko'p yog'gani uchun",
+     "Havosi sovuq bo'lgani uchun"
     ],
-    "togri": 3,
+    "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Makkajo'xori uchun eng ma'noli xususiyat qanday?",
+    "savol": "Makkajo'xori o'sishiga xos xususiyat qaysi?",
     "variantlar": [
      "Sekin o'sish",
      "Tez o'sish",
-     "Qush o'sish",
-     "Dastlabki mehnat"
+     "Qishda o'sish",
+     "Faqat suvda o'sish"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -5976,12 +5976,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Makkajo'xori barglari qanday bo'ladi va bu uning katta bo'yiga qanday ta'sir qiladi?",
+    "savol": "Makkajo'xori barglari qanday bo'ladi?",
     "variantlar": [
-     "Tor va qisqa bo'ladi",
-     "Tor va uzun bo'ladi",
-     "Eng va uzun bo'ladi va bu katta bo'yini ta'minlaydi",
-     "Eng va qisqa bo'ladi"
+     "Mayda va ignasimon",
+     "Tor va qisqa",
+     "Keng va uzun",
+     "Barglari bo'lmaydi"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -6054,7 +6054,7 @@
      "Bilmayman",
      "Yo'q",
      "Ha",
-     "Ha, faqat kuchli mos tugatilgan"
+     "Faqat qishda"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -6086,7 +6086,7 @@
     "variantlar": [
      "Iyun oyi oxirlaridan",
      "Iyul",
-     "Iyun",
+     "Mart",
      "May"
     ],
     "togri": 0,
@@ -6225,7 +6225,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Piyozning kuzda sepilgan urug'idan hosil bo'lgan nihollarida qanday isbotlar qilinadi?",
+    "savol": "Kuzda sepilgan piyoz urug'idan chiqqan nihollarga qanday ishlov beriladi?",
     "variantlar": [
      "Faqat sug'orish",
      "Faqat begona o'tlardan tozalash",
@@ -6258,7 +6258,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Piyoz urug'i kuzda dalalarga sepiladi va bahor kelib nihollar ko'karib chiqadi. Piyozning urug'i esa nima oyda pishib yetiladi?",
+    "savol": "Urug' olish uchun erta bahorda ekilgan mayda piyozlarning urug'i qaysi oylarda pishib yetiladi?",
     "variantlar": [
      "Iyun - iyul",
      "Oktabr - noyabr",
@@ -6280,12 +6280,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Karam va pomidor ko'chatlari qayerda yetishtiriladi va keyin bahorda qaysi qilishda dalalarga ekiladi?",
+    "savol": "Karam va pomidor ko'chatlari qayerda yetishtiriladi va bahorda dalaga nima ekiladi?",
     "variantlar": [
      "Issiqxonalarda yetishtiriladi va ko'chatlari ekiladi",
-     "To'g'nosida yetishtiriladi va qo'l bilan ekiladi",
-     "Taloq ostida yetishtiriladi va urug'lari ekiladi",
-     "Dalalarda yetishtiriladi va behisob qilib ekiladi"
+     "Tog'da yetishtiriladi va urug'i sepiladi",
+     "Suv ostida yetishtiriladi va ildizi ekiladi",
+     "Dalada yetishtiriladi va mevasi ekiladi"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -6302,14 +6302,14 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Amaliy ish bo'limida kartoshkaning har bir kurtakli nuqtasini bo'laklarga bo'lib suvga tushirish aytilgan. Bo'laklari suvga tushirishdan oldin qanday qilish kerak?",
+    "savol": "Kartoshkani bo'laklab ekishda har bir bo'lakda nima bo'lishi kerak?",
     "variantlar": [
-     "Dokaga tugib olinadi",
-     "O'g'itlar solinadi",
-     "Pechda quritiladi",
-     "Rang bo'yaladi"
+     "Faqat po'st",
+     "Gul",
+     "Kurtak (ko'zcha)",
+     "Urug'"
     ],
-    "togri": 0,
+    "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
@@ -6329,7 +6329,7 @@
      "6-7 oy",
      "1-2 oy",
      "4-5 oy",
-     "2-3 oy"
+     "3-4 oy"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -6339,8 +6339,8 @@
     "variantlar": [
      "Faqat piyoz va sabzida urug' bor",
      "Hammasida urug' bor, lekin pishib yetish vaqti turlicha",
-     "Hammasida urug' bor, lekin yagona qilish usuli turlicha",
-     "Hammasida urug' bor, lekin o'sish joyidagi sharoitlar turlicha"
+     "Hech birida urug' bo'lmaydi",
+     "Faqat pomidorda urug' bor"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -6489,7 +6489,7 @@
     "variantlar": [
      "3 oy",
      "4 oy",
-     "6 oy",
+     "7 oy",
      "5 oy"
     ],
     "togri": 2,
@@ -6587,9 +6587,9 @@
     "savol": "Qulupnay birinchi yili kamroq hosil beradi - buning asosiy sababi qanday bo'lishi mumkin?",
     "variantlar": [
      "Tuproq yetarli emas",
-     "Ildiz tizimlari kuchaymagani",
-     "O'simlik barcha kuchini o'sadishga sarflagani",
-     "O'simlik hali mustahkamlangani"
+     "Qulupnay bir yillik o'simlik",
+     "O'simlik hali yosh, kuchi ildiz va barg o'stirishga ketadi",
+     "Qulupnay qishda hosil beradi"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -6606,14 +6606,14 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Qulupnay tupini dekabr oyida ekib chiqilsa, gulla qaysi oyda boshlaydi?",
+    "savol": "Qulupnay qaysi oyda pisha boshlaydi?",
     "variantlar": [
      "Aprel",
      "May",
-     "Iyul",
+     "Dekabr",
      "Sentabr"
     ],
-    "togri": 2,
+    "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
@@ -6621,7 +6621,7 @@
     "variantlar": [
      "Tuproq mehr foydali bo'ladi",
      "Havo iliq bo'ladi",
-     "O'simlik birinchi yilda hali rivojlanmoqda",
+     "Qulupnay faqat ikkinchi yili gullaydi",
      "O'simlik ildiz tizimlari va barcha tuzilmalari kuchaylagani"
     ],
     "togri": 3,
@@ -6661,12 +6661,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Qulupnay tupini 'sentabr oyida egatlarga ekib chiqiladi' deb aytilishining asosiy sababi nima?",
+    "savol": "Pishgan qulupnay mevasi qanday rangda bo'ladi?",
     "variantlar": [
-     "Tuproq isishi",
-     "Kelgusi yili mo'l hosil beradi",
-     "Su yetarli",
-     "O'simlik eng qulay o'sadi"
+     "Ko'k",
+     "Qizil",
+     "Oq",
+     "Qora"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -6756,12 +6756,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Salomalaykum o'simligida qanday narsasi bor?",
+    "savol": "Salomalaykumning ildizpoyasida nima bor?",
     "variantlar": [
-     "Uyali",
-     "Changu",
-     "Tuganagi",
-     "Kurayi"
+     "Gul",
+     "Meva",
+     "Tuganak",
+     "Barg"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -6814,8 +6814,8 @@
     "savol": "G'umay qaysi sababga tez o'sib ketadi?",
     "variantlar": [
      "Qushlarning yordami",
-     "Har kuni bomdoddan turadigan sabotkasligi",
-     "Soyaning kuzilmasi",
+     "Qor ko'p yoqqani uchun",
+     "Soyada o'sgani uchun",
      "Madaniy o'simliklarga berilgan o'g'it va suv hisobiga"
     ],
     "togri": 3,
@@ -6833,22 +6833,22 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "G'umayning soyasida qolgan madaniy o'simlik qanday tabaasini ko'radi?",
+    "savol": "G'umayning soyasida qolgan madaniy o'simlik qanday o'sadi?",
     "variantlar": [
      "Nimjon bo'lib o'sadi",
-     "Surg'ulanadi",
+     "Juda baland bo'lib o'sadi",
      "Tez o'sib ketadi",
-     "O'sha soyada olma beradi"
+     "Ko'p hosil beradi"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Salomalaykum o'simligini yulib tashlanmasa, qanday natija kelib chiqadi?",
+    "savol": "Salomalaykum yulib tashlansa, nima bo'ladi?",
     "variantlar": [
-     "Qanotini yoyadi",
+     "Butunlay yo'qoladi",
      "Bir necha kundan keyin yana chiqib kelaveradi",
-     "Kuramaydi",
+     "Boshqa o'simlikka aylanadi",
      "Qurib ketadi"
     ],
     "togri": 1,
@@ -6880,9 +6880,9 @@
     "savol": "Zarpechakni dalalardan tozalanish uchun fermer qanday qilishi kerak?",
     "variantlar": [
      "Qo'l bilan yulish orqali",
-     "Otining suyuqligini sepish orqali",
-     "Qolasni tashilish orqali",
-     "Tarangni sutdan tushirib"
+     "Ustidan suv sepib",
+     "Unga o'g'it solib",
+     "Hech narsa qilmasdan"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -6890,18 +6890,18 @@
    {
     "savol": "Salomalaykum o'simligining tuganagi qayerdagi joylashgan?",
     "variantlar": [
-     "Shakining sichqon tirnoqlarida",
+     "Barglari ustida",
      "Tuproq ostida chuqur o'rnashib olgan",
-     "Temir qo'rg'onning ichida",
-     "Barglarining gvyalida"
+     "Gulining ichida",
+     "Poyasining uchida"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Salomalaykum o'simligining o't ildizpoyasi va tuganakdagi kurtaklar qanday xususiyatga ega?",
+    "savol": "Salomalaykumning ildizpoyasi va tuganagidagi kurtaklar qanday xususiyatga ega?",
     "variantlar": [
-     "Qo'qon changiga o'xshaydi",
+     "Tezda chirib ketadi",
      "Yomon ta'm beradi",
      "Tez ko'payadi",
      "Tuproqni tozalaydi"
@@ -6921,12 +6921,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Machin va salomalaykumning ildiz sistemalarini muqayasa qilganda, ularning o'xshashliklarining sababi nima?",
+    "savol": "Machin va salomalaykumning ildizlaridagi o'xshashlik nima?",
     "variantlar": [
      "Ularning ikkalasi ham sariq rangda",
      "Ularning ikkalasi baland bo'lib o'sadi",
      "Ularning ikkalasi bahorda chiqadi",
-     "Ularning ikkalasi ham tuproq ostida chuqur o'rnashib olkanligi tufayli yulish bilan to'liq yo'q bo'lmasligi mumkin"
+     "Ikkalasining ham ildizi tuproqda chuqur, shuning uchun yulganda to'liq yo'qolmasligi mumkin"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -7002,8 +7002,8 @@
     "variantlar": [
      "Qushlar hamma urug'ni yeb ketadi",
      "Machinlar urug'larini so'chib, kelgusi yili yuzlab machinlar o'sib chiqadi",
-     "Dalarning davom etadi",
-     "Tuproq yanada menganda bo'ladi"
+     "Hech narsa o'zgarmaydi",
+     "Tuproq yaxshilanadi"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -7020,7 +7020,7 @@
     "variantlar": [
      "Bodring, qovoq va kartoshka",
      "Tarvuz, qovun, bodring va kartoshka",
-     "Bodring va handalak",
+     "Olma va nok",
      "Tarvuz, qovun, bodring, qovoq va handalak"
     ],
     "togri": 3,
@@ -7084,7 +7084,7 @@
    {
     "savol": "Qovoq urug'lari qay vaqtda ekiladi?",
     "variantlar": [
-     "Qosh oylarida",
+     "Qish oylarida",
      "Erta bahorda",
      "Kuzning boshida",
      "Yozning o'rtasida"
@@ -7170,12 +7170,12 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Kechki bodring qachon yetistiriladi?",
+    "savol": "Bodring kech kuzdan bahor oxirigacha qayerda yetishtiriladi?",
     "variantlar": [
-     "Bahor oylarida",
-     "Qishning boshida",
-     "Yozning o'rtasida",
-     "Kech kuzdan boshlab bahor oxirlarigacha issiqxonalarda"
+     "Ochiq dalada",
+     "Qor ostida",
+     "Tog'da",
+     "Issiqxonalarda"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -7252,7 +7252,7 @@
      "Urug'larning rangi boshqacha",
      "Hammasi etining orasida joylashgan",
      "Hammasi po'stida joylashgan",
-     "Tarvuz etining orasida, qovun bo'shliqda alohida, qovoq etining orasida"
+     "Tarvuzniki etining orasida, qovun va qovoqniki o'rtadagi bo'shliqda"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -7271,7 +7271,7 @@
    {
     "savol": "Qovoq poyasidagi jingalaklari asosan qanday vazifani bajaradi?",
     "variantlar": [
-     "Osilib o'sadi va tuproqni ushlab turadi",
+     "Biror narsaga ilashib, osilib o'sishga yordam beradi",
      "Hasharotlarni ushlab turadi",
      "Suv chiqaradi",
      "Nur tortadi"
@@ -7307,7 +7307,7 @@
      "Avgust va Oktabr oylarida",
      "Iyul oyida",
      "Iyun oyida",
-     "Sentabr va Oktabr oylarida"
+     "Dekabr va yanvar oylarida"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -7335,11 +7335,11 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Urug'ini ekilgach unib chiqish uchun dastlabki eng zarur ish nima?",
+    "savol": "Poliz ekinlarining nihollari unib chiqqach, birinchi navbatda nima qilinadi?",
     "variantlar": [
      "Nihollar atrofi yumshatiladi",
      "Darhol o'g'it solinadi",
-     "Sug'oriladi",
+     "Nihollar yulib tashlanadi",
      "Palaklari taraladi"
     ],
     "togri": 0,
@@ -7412,7 +7412,7 @@
     "variantlar": [
      "Qindiqli",
      "Sabzavot",
-     "Mevali",
+     "Poliz ekini",
      "Dorivor"
     ],
     "togri": 3,
@@ -7434,7 +7434,7 @@
     "variantlar": [
      "Uzumning navlari",
      "Dorivor o'simliklar",
-     "Tok navlari",
+     "Olma navlari",
      "Mevali butalar"
     ],
     "togri": 0,
@@ -7457,7 +7457,7 @@
      "Anor navi",
      "Uzumning navi",
      "Shaftoli navi",
-     "Tok navi"
+     "Olma navi"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -7487,7 +7487,7 @@
    {
     "savol": "Tok nima uchun ishkom qilinadi?",
     "variantlar": [
-     "Poyasi va novdalari simlarga bog'lash uchun",
+     "Poyasi va novdalari o'zini tik tutib tura olmagani uchun",
      "Mevani o'stirish uchun",
      "Suv berish uchun",
      "Qoruq uchun"
@@ -7542,7 +7542,7 @@
    {
     "savol": "O'lkamizda yetishtirilgan uzum navlari quyidagilarga kiradi?",
     "variantlar": [
-     "Husayni, qora janjal, charos va toifi",
+     "Olma, nok, anor va anjir",
      "Faqat kishmish",
      "Husayni, qora janjal, charos, toifi, kishmish, buvaki, qirmiska, daroyi",
      "Faqat husayni va qora janjal"
@@ -7575,9 +7575,9 @@
    {
     "savol": "Agar anor avgust oyida pishsa, iyul oyida anor qanday holatda bo'ladi?",
     "variantlar": [
-     "Qoq chiqaradi",
+     "Endi ekiladi",
      "Butunlay yetib bo'ladi",
-     "Pishib turmay, yetilmoqchi bo'ladi",
+     "Hali pishmagan, pishib yetilayotgan bo'ladi",
      "Barg chiqaradi"
     ],
     "togri": 2,
@@ -7606,14 +7606,14 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Anor va anjir novdasidan ko'paytirilsa, qorag'at va malina ildiz kurtaklaridan ko'paytirilsa, qaysi usulning natijasi tezroq bo'ladi?",
+    "savol": "Anor va anjir hamda malina va qorag'at qanday ko'paytiriladi?",
     "variantlar": [
-     "Ildiz kurtaklari",
-     "Ikkalasi ham bir xil",
-     "Novdalar",
-     "Ikkalasi ham sekin"
+     "Hammasi urug'dan",
+     "Anor va anjir urug'dan, malina va qorag'at novdadan",
+     "Hammasi bargidan",
+     "Anor va anjir novdasidan, malina va qorag'at ildizidagi kurtaklardan"
     ],
-    "togri": 2,
+    "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
@@ -7650,12 +7650,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Kishmish navidan mayiz tayyorlanadi desa, bu qaysi fikrni ifodalaydi?",
+    "savol": "Kishmish navidan mayiz tayyorlanadi. Mayiz nima?",
     "variantlar": [
      "Kishmish bilan mayiz bir xil",
-     "Mayiz kishmish asosida mo'ljallangan",
+     "Kishmish navli uzumni quritib tayyorlangan mahsulot",
      "Mayiz uzumning boshqa navi",
-     "Kishmish mayizni yeydi"
+     "Olmaning bir navi"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -7734,12 +7734,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "77-rasmda ko'rsatilgan o'simliklar nima deb ataladi?",
+    "savol": "Tol, chinor, terak va eman qanday daraxtlar hisoblanadi?",
     "variantlar": [
-     "Yovvoy o'simliklar",
+     "Yovvoyi o'simliklar",
      "Manzarali daraxtlar",
-     "Yog'li o'simliklar",
-     "Gullar"
+     "Mevali daraxtlar",
+     "Poliz ekinlari"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -7888,20 +7888,20 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Manzarali daraxtlar uylarni shamoldan himoya qilish nechta vazifa bajaradhi?",
+    "savol": "Manzarali daraxtlar uylarni nimadan to'sib turadi?",
     "variantlar": [
-     "3 ta",
-     "2 ta",
-     "4 ta",
-     "1 ta"
+     "Qordan",
+     "Shamoldan",
+     "Suvdan",
+     "Tuproqdan"
     ],
-    "togri": 0,
+    "togri": 1,
     "qiyinlik": "o'rtacha"
    },
    {
     "savol": "Quyidagi daraxtlardan qaysilari ko'cha bo'ylasida o'stiriladi?",
     "variantlar": [
-     "Majnuntol va chinor",
+     "Majnuntol va atirgul",
      "Shumtol va eman",
      "Gulbeor va kartoshkagul",
      "Atirgul va marmarak"
@@ -7921,20 +7921,20 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Manzarali daraxtlar bir vaqtda nechta muhim vazifani bajaradhi?",
+    "savol": "Quyidagilardan qaysi biri manzarali daraxtlarning vazifasi EMAS?",
     "variantlar": [
-     "4 ta - bezash, soya, kislorod, shamoldan himoya",
-     "5 ta - hammasini qo'shib",
-     "2 ta - bezash va soya",
-     "3 ta - bezash, soya, kislorod chiqarish"
+     "Ko'chalarni bezash",
+     "Soya-salqin berish",
+     "Havoni changdan tozalash",
+     "Havoga karbonat angidrid chiqarish"
     ],
-    "togri": 1,
+    "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
     "savol": "Atirgul, chinnigul va kartoshkagulning umumiy xususiyati nima?",
     "variantlar": [
-     "Hammasi bahor oylarida gulaydi",
+     "Hammasi baland daraxt",
      "Hammasi boshqacha rangda",
      "Hammasi suv severadi",
      "Hammasi madaniy gul va odamlar tomonidan parvarish qilinadi"
@@ -8012,9 +8012,9 @@
     "savol": "Manzarali daraxtlar havoni chang va zaharli gazlardan tozalash jarayonida qanday rol o'ynaydi?",
     "variantlar": [
      "Shunchaki tutadi",
-     "Barglari gazlarni yutadi va haro beradi",
-     "Shumal kuchini kamaytiradi",
-     "Chang tuproqqa tusishini to'satadi"
+     "Barglari chang va zaharli gazlarni ushlab, havoni tozalaydi",
+     "Havoni isitadi",
+     "Changni ko'paytiradi"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -8029,10 +8029,10 @@
    {
     "savol": "Maktab gulzorida qaysi gullar o'stiriladi?",
     "variantlar": [
-     "Chinnigul va rayhon",
+     "Terak va chinor",
      "Chinnigul, qo'qongul, rayhon, shoyigul va atirgul",
      "Faqat atirgul",
-     "Qo'qongul va shoyigul"
+     "Ligustrum va tuya"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -8115,21 +8115,21 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Tayanch so'zlardan 'marmarak' nimaning noma'lum nomi?",
+    "savol": "Quyidagilardan qaysi biri gul?",
     "variantlar": [
-     "Gulbeor",
-     "Nargis",
-     "Tuya",
-     "Rayhon"
+     "Terak",
+     "Chinnigul",
+     "Tol",
+     "Eman"
     ],
     "togri": 1,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Erta bahordan gulzordagi gullar qanday ko'proq turiladi?",
+    "savol": "Erta bahordan gulzordagi gullar qanday parvarish qilinadi?",
     "variantlar": [
      "Hech qanday ish qilinmaydi",
-     "Yalniz yumshatilib turiladi",
+     "Faqat kesib tashlanadi",
      "Faqat sug'oriladi",
      "Vaqti-vaqti bilan tagi yumshatilib sug'orib turiladi"
     ],
@@ -8148,32 +8148,32 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Atirgul o'sishining qaysi bosqichida poyalarga aylanadi?",
+    "savol": "Atirgulning novdalari kuzda nima uchun kesiladi?",
     "variantlar": [
-     "Bargi o'sib chiqish bosqichida",
-     "Barg chiqishi bosqichida",
-     "Sezilib borish bosqichida",
-     "G'uncha shakllanishi bosqichida"
+     "Gullari tez so'lishi uchun",
+     "Bahorda yangi novda va barglar yaxshi o'sishi uchun",
+     "O'simlikni quritish uchun",
+     "Ildizini ko'paytirmaslik uchun"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Poyalardan yangi novdalar ko'karganda, barglar bilan birga nima paydo bo'ladi?",
+    "variantlar": [
+     "G'unchalar",
+     "Mevalar",
+     "Ildizlar",
+     "Urug'lar"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Poyalardan yangi nima o'sib novdalar ko'karadigan ekanligini ko'rsatadi?",
-    "variantlar": [
-     "Barglar bilan birga g'unchalar",
-     "Faqat g'uncha",
-     "Meva",
-     "Barg"
-    ],
-    "togri": 0,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Begona o'simliklar gulzorda qanday bilan harakat qilinadi?",
+    "savol": "Gulzorda begona o'simliklar bilan nima qilinadi?",
     "variantlar": [
      "Sug'orib turiladi",
-     "O'sib chiqadi va yulib tashlanadi",
+     "Yulib tashlanadi",
      "Shunchaki kesiladi",
      "Yaxshi qo'llab-quvvatlanadi"
     ],
@@ -8236,7 +8236,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Gulzordagi gul parvarishi necha'dan bahordan boshlanadi?",
+    "savol": "Gulzordagi gullar parvarishi qachondan boshlanadi?",
     "variantlar": [
      "Erta bahordan vaqti-vaqti bilan",
      "Yanvar oyidan",
@@ -8273,7 +8273,7 @@
     "variantlar": [
      "Begona o'simliklarni yulib tashlash uchun",
      "Faqat vaqtni o'ldirish uchun",
-     "Toza, surg'un va yaxshi o'sishi uchun sharoit yaratish",
+     "Gullar yaxshi o'sishi uchun sharoit yaratish",
      "Gullar bilan o'ynamoq uchun"
     ],
     "togri": 2,
@@ -8318,7 +8318,7 @@
      "Faqat atirgul sug'oriladi",
      "Barcha gullarning tagi birga yumshatilib sug'orib turiladi",
      "Har bir gul alohida sug'oriladi",
-     "Hech kimse qilmaydi"
+     "Hech kim parvarish qilmaydi"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -8337,7 +8337,7 @@
    {
     "savol": "Gulzordagi gul parvarishi uchun qanday to'plam amaliyotlar zarur bo'ladi?",
     "variantlar": [
-     "Faqat xush hid shumarish",
+     "Faqat gullarni hidlash",
      "Faqat ko'rish",
      "Yumshatilib sug'orib turish, begona o'simliklarni yulib tashlash, vaqti-vaqti bilan nazorat qilish",
      "Hech qanday ish kerak emas"
@@ -8433,7 +8433,7 @@
     "savol": "Yalpizning eng foydali qismi nima?",
     "variantlar": [
      "mevasi",
-     "bargisi",
+     "urug'i",
      "ildizi",
      "ko'kati"
     ],
@@ -8565,7 +8565,7 @@
     "savol": "Ichak kasalliklarini davo lashda nima ishlatiladi?",
     "variantlar": [
      "yalpiz",
-     "maymunjon",
+     "isiriq",
      "na'matak",
      "kashnich"
     ],
@@ -8705,7 +8705,7 @@
     "variantlar": [
      "Faqat qo'l hovuzlari yaqinida",
      "Faqat suv chegarasida",
-     "Dalalarda, ko'cha bo'ylarida va xonalarda",
+     "Dalalarda, ko'cha bo'ylarida va xonadonlarda",
      "Faqat tog'larda"
     ],
     "togri": 2,
@@ -8738,7 +8738,7 @@
     "variantlar": [
      "Yirik va mazali bo'ladi",
      "Juda shirin emas",
-     "Kichik va acidi",
+     "Kichik va nordon",
      "O'rtacha o'lchamda"
     ],
     "togri": 0,
@@ -8778,12 +8778,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Qurtning pilla ichida qanday shakl olmaydi?",
+    "savol": "Pilla ichida qurt nimaga aylanadi?",
     "variantlar": [
-     "To'pning",
-     "G'umbak",
-     "Siniq ko'prik",
-     "Uchburchak"
+     "Kapalak tuxumiga",
+     "G'umbakka",
+     "Chigirtkaga",
+     "Qo'ng'izga"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -8793,7 +8793,7 @@
     "variantlar": [
      "Yun matolar",
      "Atlas va shoyi matolar",
-     "Buxorat matolar",
+     "Jun gilamlar",
      "Paxtali matolar"
     ],
     "togri": 1,
@@ -8846,10 +8846,10 @@
    {
     "savol": "Ipak qurti dastlabki kunlarda nima bilan oziqlanadi?",
     "variantlar": [
-     "Qorin bilan",
+     "Paxta bilan",
      "Tut daraxtining yangi chiqayotgan barglari bilan",
      "Bug'doy bilan",
-     "Maxallifli o'tlari bilan"
+     "Qamish bilan"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
@@ -8923,10 +8923,10 @@
    {
     "savol": "Tut daraxti va ipak qurtining tabiiiy jarayonlari bir-biri bilan qanday bog'langan?",
     "variantlar": [
-     "Tut barglari ipak qurtining asosiy oziq-ovqati hisoblanadi va ipak qurti tut shaklini o'zgartirib turadi",
+     "Tut barglari ipak qurtining asosiy ozig'i hisoblanadi",
      "Tut daraxti ipak qurtini zaharlaydi",
      "Ular bir-biriga hech qanday ta'sir qilmaydi",
-     "Ipak qurti tut daraxtining shakli o'zgartirib turadi"
+     "Ipak qurti tut daraxtini o'stiradi"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -8943,11 +8943,11 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Viloyatlarda tut daraxtlarini qanday samarador ishlatiladi?",
+    "savol": "Viloyatlarda tut daraxtlaridan qanday foydalaniladi?",
     "variantlar": [
-     "Yalni sanoati uchun ishlatish",
-     "Maydonlarini barpo qilish orqali massiv ipak qurti boqilashiga sharoit yaratish",
-     "Tinglash uchun o'stirish",
+     "Faqat o'tin uchun kesiladi",
+     "Tutzorlar barpo qilinib, ko'p ipak qurti boqishga sharoit yaratiladi",
+     "Faqat chiroy uchun o'stiriladi",
      "Faqat soyadan foydalanish"
     ],
     "togri": 1,
@@ -8959,18 +8959,18 @@
      "Dastlabki kunlari yangi barglari qiymalab beriladi, so'ng butun barglari solinadi, har kuni o'sadi",
      "Barglari hech qachon berilmaydi",
      "Faqat bir marta beriladi",
-     "Barglari tinc oqiladi"
+     "Barglari qaynatib beriladi"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Tut daraxtining mavsimliy o'zgarishlari ipak qurti boqilashi bilan qanday bog'lanadi?",
+    "savol": "Tutning barg yozishi va ipak qurti boqish vaqti qanday bog'langan?",
     "variantlar": [
-     "Mavsum bo'lmaydi",
-     "Tut har oyda bir xil bo'ladi",
-     "Ipak qurti yil davomida bir xil boqiladi",
-     "Har oyning ibtidoida tut bargli mavsum va ipak qurti boqilash davri qat'iy belgilangan"
+     "Qurt qishda boqiladi",
+     "Ular bog'lanmagan",
+     "Qurt kuzda, barglar to'kilganda boqiladi",
+     "Tut barg yozgach (mart oxiri), aprel boshida qurtlar chiqadi va barg bilan boqiladi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -8987,12 +8987,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Pilla ichida qurt g'umbakka aylanishi qanday fiziologik o'zgarish?",
+    "savol": "Pilla ichida qurtning g'umbakka aylanishi nima?",
     "variantlar": [
      "Qurtning o'lim jarayoni",
      "Qurtning katta bo'lish jarayoni",
      "Qurtning uyqu vaqti",
-     "Qurtning mummifalanish jarayoni yoki metamorfoz"
+     "Qurtning rivojlanib, boshqa shaklga o'tishi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -9009,12 +9009,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Ipak sanoatiga qo'shilgan tut daraxti va ipak qurtining integratsiyasi O'zbekiston iqtisodiyoti uchun nima?",
+    "savol": "Tut daraxti va ipak qurti O'zbekiston uchun nima uchun muhim?",
     "variantlar": [
-     "Bolmasa-bolmadi ishlar",
-     "Faqat tarixiy qa'ydlar",
-     "Qishloq va sanoat xojaligining aloqali tarmog'ini tashkil qilish, milliy boyvalinni ziyoda etish",
-     "Ilmiy tadqiqot uchun zarur"
+     "Ulardan un olinadi",
+     "Ular faqat chiroy uchun",
+     "Ulardan ipak olinib, atlas va shoyi to'qiladi",
+     "Hech qanday ahamiyati yo'q"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -9030,8 +9030,8 @@
     "savol": "Ipak qurti asosan qayerda boqiladi?",
     "variantlar": [
      "Fermalarda",
-     "Ko'chamlarda",
-     "Qo'shna-qo'shiqlarda",
+     "Tog'larda",
+     "Daryolarda",
      "Xonadonlarda"
     ],
     "togri": 3,
@@ -9062,9 +9062,9 @@
    {
     "savol": "Pilla ichida qurt nimaga aylanadi?",
     "variantlar": [
-     "Billasiga",
-     "Poplataga",
-     "Qo'ng'iroqqa",
+     "Chigirtkaga",
+     "Qo'ng'izga",
+     "Baliqqa",
      "G'umbakka"
     ],
     "togri": 3,
@@ -9074,7 +9074,7 @@
     "savol": "Pillalardan olingan ipak tolasidan qanday matolar to'qiladi?",
     "variantlar": [
      "Shoyi va paxta",
-     "Ipak va atlas",
+     "Jun va charm",
      "Paxta va to'qimacha",
      "Atlas va shoyi"
     ],
@@ -9093,7 +9093,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Tut daraxtining yangi novdalari qayda pishib yetiladi?",
+    "savol": "Tut daraxtining yangi novdalari qachon pishib yetiladi?",
     "variantlar": [
      "Kuzda",
      "Yozda",
@@ -9104,12 +9104,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Kapalak pillani yorib chiqishi natijasida nima bo'ladi?",
+    "savol": "G'umbak pilla ichida nimaga aylanadi?",
     "variantlar": [
-     "G'umbak chiqadi",
-     "Qurt chiqadi",
-     "Kapalak chiqadi",
-     "Pilla yoriladi"
+     "Qurtga",
+     "Tuxumga",
+     "Kapalakka",
+     "Chigirtkaga"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -9128,10 +9128,10 @@
    {
     "savol": "Qurtlarga dastlabki kunlari qanday barglari beriladi?",
     "variantlar": [
-     "Xonadon barglari",
-     "Ko'nadan ko'naga berilgan barglari",
-     "Yangi chiqayotgan barglari",
-     "Qichib qolgan barglari"
+     "Qurigan barglar",
+     "Qizil barglar",
+     "Yangi chiqayotgan barglar",
+     "To'kilgan eski barglar"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -9174,7 +9174,7 @@
     "variantlar": [
      "Qurtni juda tez o'stirish uchun",
      "Barglari arzon bo'lgani uchun",
-     "Qurtning yangi tavrga moslashuvi uchun",
+     "Qurtlar juda kichik bo'lgani uchun ularga yeyish oson bo'lishi uchun",
      "Barglari yo'q bo'lgani uchun"
     ],
     "togri": 2,
@@ -9214,7 +9214,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Pilla ichida qurt o'sishining to'g'ri ketma-ketligi qanday?",
+    "savol": "Ipak qurtining rivojlanish ketma-ketligi qanday?",
     "variantlar": [
      "Tuxum-qurt-g'umbak-kapalak",
      "Qurt-tuxum-g'umbak-kapalak",
@@ -9239,7 +9239,7 @@
     "savol": "Xona havosi nima uchun almashtirib turilishi lozim?",
     "variantlar": [
      "Qurtning sog'lom o'sishi uchun",
-     "Qurtning salomatligini saqlash uchun",
+     "Xona sovib ketishi uchun",
      "Barglarn qurib qolmasligini saqlash uchun",
      "Haroratni sabitlash uchun"
     ],
@@ -9293,7 +9293,7 @@
    {
     "savol": "Agar xona harorati 26°C bo'lsa va namligi noto'g'ri saqlanilsa, qurt boqishiga bu qanday ta'sir ko'rsatadi?",
     "variantlar": [
-     "Qo'shimcha foydali ta'sir ko'rsatadi",
+     "Qurtlar tezroq pilla o'raydi",
      "Salbiy ta'sir ko'rsatadi",
      "Ijobiy ta'sir ko'rsatadi",
      "Hech qanday ta'sir ko'rsatmaydi"
@@ -9302,14 +9302,14 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Pillalardan olingan ipak tolasi atlas va shoyi matolariga ishlanadi - bu jarayon necha bosqichlik hisoblanadi?",
+    "savol": "Ipak qurti tuxumdan chiqqach, pilla o'ray boshlaguncha taxminan qancha vaqt o'tadi?",
     "variantlar": [
-     "1 bosqich",
-     "4-5 bosqich",
-     "6 bosqich",
-     "2-3 bosqich"
+     "1 hafta",
+     "3-4 hafta",
+     "2 oy",
+     "6 oy"
     ],
-    "togri": 3,
+    "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
@@ -9349,7 +9349,7 @@
     "savol": "Ipak qurti biologiyasi asosida, pilla ichida qurt g'umbakka aylanishi va kapalakka aylanishi qanday rivojlanish jarayoni?",
     "variantlar": [
      "Faqat biologik o'zgarish",
-     "To'liq biologik tahavvul va rivojlanish",
+     "To'liq o'zgarish bilan rivojlanish (tuxum – qurt – g'umbak – kapalak)",
      "Faqat tashqi o'zgarish",
      "Faqat fizik o'zgarish"
     ],
@@ -9419,7 +9419,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Filning hartiimi qanday vazifalar bajaradi?",
+    "savol": "Filning xartumi qanday vazifalarni bajaradi?",
     "variantlar": [
      "Faqat ovqatlanishda",
      "Faqat yuk ko'tarishda",
@@ -9430,7 +9430,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Jirafa qanday balandlik?",
+    "savol": "Jirafaning bo'yi qancha bo'ladi?",
     "variantlar": [
      "6 metr",
      "8 metr",
@@ -9478,7 +9478,7 @@
     "variantlar": [
      "Faqat qisqa masofaga tez yugura oladi",
      "Charchoq bo'lgani uchun",
-     "Uning oyog'i ila uchun",
+     "Oyog'i og'rigani uchun",
      "O'ljasi uyquda bo'lgani uchun"
     ],
     "togri": 0,
@@ -9496,7 +9496,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Yo'lbars va sher hayat ko'ngiloq qanday farq qiladi?",
+    "savol": "Yo'lbars va sherning hayot tarzi qanday farq qiladi?",
     "variantlar": [
      "Ikkalasi ham to'da bo'lib yashaydi",
      "Sher yakka, yo'lbars to'da bo'lib yashaydi",
@@ -9512,7 +9512,7 @@
      "Dam olish uchun",
      "O'rmon hayotini o'rganish uchun",
      "Daraxt ko'kish uchun",
-     "Asalning bilan oziqlanish uchun"
+     "Asal bilan oziqlanish uchun"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -9589,7 +9589,7 @@
      "Sherlar to'da tashkil etib, ma'lum bir hududni egallab oladi va boshqa yirtqich hayvonlarni yo'latmaslikka harakat qiladi",
      "Faqat o't yetkazish uchun",
      "Bolalari juda kattalar uchun",
-     "Faqat uning lazzatini boshlashi uchun"
+     "Faqat o'yin uchun"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -9628,12 +9628,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Fil va jirafa hayvonlarining o'lchamlari qanday bog'liq?",
+    "savol": "Quyidagi hayvonlardan qaysi birining bo'yi eng baland?",
     "variantlar": [
-     "Faqat jirafa baland",
-     "Ularning bog'lanishi yo'q",
-     "Fil 6 tonna og'ir va 4 metrga baland, jirafa esa 6 metrga baland, ikkalasi ham bitta-ikkita bolalaydi",
-     "Faqat fil og'ir"
+     "Fil",
+     "Sher",
+     "Jirafa",
+     "Bo'ri"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -9643,7 +9643,7 @@
     "variantlar": [
      "Bolalar darhol mustaqil bo'ladi",
      "Munosabat yo'q",
-     "Bolalar ona suti bilan oziqlanadi va ona bilan certain muddatga yashaydi, muddati hayvon turida turlicha (6 oy, 2 yil, 2-3 yil)",
+     "Bolalar ona suti bilan oziqlanadi va ona bilan ma'lum muddat birga yashaydi",
      "Faqat erkak bolalar ona bilan"
     ],
     "togri": 2,
@@ -9772,7 +9772,7 @@
      "Katta qushlar",
      "Mayda hasharotlar",
      "Katta hasharotlar",
-     "Kichik qo'ng'izlar"
+     "Baliqlar"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -9800,12 +9800,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Chumoli qaysi zararkunanda hasharotlarga zarar berador?",
+    "savol": "Chumolilar qanday foyda keltiradi?",
     "variantlar": [
-     "Tuxumlarini yo'q qiluvchi hasharotlarga",
-     "Barglarini yevchi hasharotlarga",
-     "Mevalarini yevchi hasharotlarga",
-     "Ildizlarini yevchi hasharotlarga"
+     "Zararkunanda hasharotlarning tuxumlarini yo'q qiladi",
+     "Barglarni yeydi",
+     "Mevalarni yeydi",
+     "Ildizlarni yeydi"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -9815,8 +9815,8 @@
     "variantlar": [
      "Yangi barglar hosil bo'ladi",
      "O'sishni davom ettiadi",
-     "Hostag'i yo'qoladi",
-     "Hostag'i ko'payadi"
+     "Hosil bermaydi, qurib qoladi",
+     "Hosili ko'payadi"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -9888,22 +9888,22 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Mart qo'ng'izi hech qanday joyda oziqlanmaydimi?",
+    "savol": "Mart qo'ng'izi va uning qurti (buzoqboshi) nima bilan oziqlanadi?",
     "variantlar": [
-     "Yo'q, tuproqdan va o'simliklaring bargi va ildizidan oziqlanadi",
-     "Faqat ildizidan oziqlanadi",
-     "Faqat barglarini yeydi",
-     "Ha, tuproqdan oziqlanadi"
+     "Qo'ng'izi barglarni, qurti ildizlarni yeydi",
+     "Ikkalasi ham faqat tuproq yeydi",
+     "Ikkalasi ham hasharot yeydi",
+     "Ikkalasi ham hech narsa yemaydi"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "O'rgimchak o'ljasi qaysi shaklda bo'ladi?",
+    "savol": "O'rgimchak ini qanday shaklda bo'ladi?",
     "variantlar": [
      "Kvadrat",
      "To'r shakli",
-     "Dumbalik",
+     "Qopcha",
      "Uchburchak"
     ],
     "togri": 1,
@@ -9913,7 +9913,7 @@
     "savol": "Daraxt po'stlog'ini batamom yeb tugatgandan keyin daraxt nima bo'ladi?",
     "variantlar": [
      "Qurib qoladi",
-     "Yangi bark beradi",
+     "Yangi po'stloq o'stiradi",
      "Yaxshilanadi",
      "O'sishni davom ettiadi"
     ],
@@ -9923,9 +9923,9 @@
    {
     "savol": "Mart qo'ng'izi va buzoqboshi ikkalasi ham o'simliklarga zarar yetkazadi. Bu ikkalasining foydali tomoni bor-mi?",
     "variantlar": [
-     "Yo'q, ikkalasidagi zararkunanda",
+     "Ha, ular gullarni changlaydi",
      "Bor, ular o'simliklarga yaxshi ta'sir qiladi",
-     "Yo'q, lekin ular kasalliklarni tilvalar",
+     "Ha, ular zararkunandalarni yeydi",
      "Yo'q, ular faqat zararkunanda"
     ],
     "togri": 3,
@@ -9959,7 +9959,7 @@
      "O'zgarmaydi va tinch qoladi",
      "Ko'payadi va ekinlarga katta zarar yetkazadi",
      "Pasayadi va o'rtaning sharoiti yaxshilanadi",
-     "Yo'qoladi va yo'g'on qolardi"
+     "Butunlay yo'qolardi"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -9979,9 +9979,9 @@
     "savol": "Zararkunanda hasharotlarni (chigirtka, kolorado qo'ng'izi) yo'q qilish uchun matnga ko'ra eng tabiiy yo'l qaysi?",
     "variantlar": [
      "Kimyoviy dorilar ishlatish",
-     "Mushtayi o'g'ritlash",
+     "Ekinni sug'ormaslik",
      "Qushlar va boshqa hayvonlarning yordam olish",
-     "Tuproqni issiq voda bilan yukaruvlash"
+     "Tuproqni issiq suv bilan yuvish"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -9989,10 +9989,10 @@
    {
     "savol": "Asalari, xonqizi, chumoli va o'rgimchakni birlashtirib turadigan umumiy xususiyat nima?",
     "variantlar": [
-     "Hamsida o'simlik barglarini yeyadi",
-     "Hamsida foydali hasharotlardir",
-     "Hamsida quriga bo'lgan",
-     "Hamsida zararkunanda hasharotlardir"
+     "Hammasi o'simlik barglarini yeydi",
+     "Hammasi foydali jonivorlar",
+     "Hammasi suvda yashaydi",
+     "Hammasi zararkunanda"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -10009,12 +10009,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Mart qo'ng'iz qurtlarini topib yevchi qushlar (sassiq-popishak, zag'cha) ularni qaysi o'rmanda topib yeyadi?",
+    "savol": "Sassiqpopishak va zag'cha mart qo'ng'izi qurtlarini qanday topib yeydi?",
     "variantlar": [
-     "Tuproqlarni titkilab delab",
-     "O'simlik tagi tutalib",
-     "Tuproqda tekis joyida",
-     "Barglar ostida"
+     "Tuproqni titkilab",
+     "O'simlik barglari ostidan",
+     "Suv ichidan",
+     "Daraxt uchidan"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -10042,14 +10042,14 @@
     "variantlar": [
      "Tuproq",
      "Suv",
-     "Bugs va zararkunanda hasharotlar",
+     "Har xil hasharotlar",
      "Faqat o't"
     ],
     "togri": 2,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Matndagi 6 hasharotxo'r qushning birinchisi qaysi?",
+    "savol": "Qaysi qush bir kunda o'z og'irligiga teng hasharot yeydi?",
     "variantlar": [
      "Chittak",
      "Jiblajibon",
@@ -10086,7 +10086,7 @@
     "variantlar": [
      "Ochiq dalalarda",
      "Daraxtlar po'stlog'i va devorlar yoriqlari orasidan",
-     "Yolbars qavafida",
+     "Uyalar ichidan",
      "Suv ustida"
     ],
     "togri": 1,
@@ -10139,9 +10139,9 @@
    {
     "savol": "Hasharotxo'r qushlar qayerda yashaydigan joylar mavjud?",
     "variantlar": [
-     "Faqat shohlarda",
+     "Faqat cho'lda",
      "Dala va bog'larda",
-     "Yoygalar atrofida",
+     "Faqat tog' cho'qqisida",
      "Faqat suv tubida"
     ],
     "togri": 1,
@@ -10150,10 +10150,10 @@
    {
     "savol": "Agar chittak bir kunda o'z og'irligiga teng hasharotlarni yesa, u 2 kunda qancha yeydi?",
     "variantlar": [
-     "O'z og'irligining yarmiga teng miq",
-     "Ikki baravar o'z og'irligiga teng miq",
-     "Uch baravar o'z og'irligiga teng miq",
-     "O'z og'irligiga teng miqdor"
+     "O'z og'irligining yarmicha",
+     "O'z og'irligidan 2 baravar ko'p",
+     "O'z og'irligidan 3 baravar ko'p",
+     "O'z og'irligicha"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
@@ -10175,7 +10175,7 @@
      "Har xil zararkunanda va qon so'ruvchi hasharotlarni",
      "Faqat yuproq hasharotlarni",
      "Faqat go'ng hasharotlarni",
-     "Har qanday jonijon va veg'etarianlarni"
+     "Faqat baliqlarni"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -10185,7 +10185,7 @@
     "variantlar": [
      "Ular turli xil vaqtda yeydi",
      "Ular bir xil hasharotlarni yeydi",
-     "Ular oz'iga xos joylardan hasharotlarni yeydi",
+     "Ularning har biri o'ziga xos joydan hasharot topib yeydi",
      "Ular bir xil joylardan hasharotlarni yeydi"
     ],
     "togri": 2,
@@ -10295,19 +10295,19 @@
     "variantlar": [
      "Faqat sassiqpopishak kerak",
      "Hech qanday ta'sir ko'rsatmaydi",
-     "Ular oz'iga xos joylardan (ekinlar orasida va devor yoriqlari) hasharotlarni yeyib, ko'proq hujaymlarni himoya qiladi",
+     "Ular turli joylardan (ekinlar orasidan, devor yoriqlaridan) hasharot yeb, ekinlarni ko'proq himoya qiladi",
      "Faqat jiblajibon kerak"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Chittak, chug'urchiq va kakkuqush orasida yeyish miqdori bo'yicha qaysi bo'linish to'g'ri?",
+    "savol": "Qaysi qush bir soatda 100 ta tukli qurt yeydi?",
     "variantlar": [
-     "Ularning barchasi teng miqdor yeyadi",
-     "Chug'urchiq eng ko'p, Kakkuqush o'rtacha, Chittak kam",
-     "Chittak eng ko'p, Kakkuqush o'rtacha, Chug'urchiq kam",
-     "Kakkuqush eng ko'p, Chug'urchiq o'rtacha, Chittak kam"
+     "Chittak",
+     "Chug'urchiq",
+     "Jiblajibon",
+     "Kakkuqush"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -10335,12 +10335,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Agar chug'urchiq bir kunda 200 g va kakkuqush bir soatda 100 ta qurt yesa, qaysi davom ko'proq ta'sir ko'rsatadi?",
+    "savol": "Chug'urchiq bir kunda 200 g chigirtka yeydi. 10 ta chug'urchiq bir kunda qancha chigirtka yeydi?",
     "variantlar": [
-     "Ular teng ta'sir ko'rsatadi",
-     "Malumot yetarli emas",
-     "Kakkuqush",
-     "Chug'urchiq"
+     "200 g",
+     "1 kg",
+     "2 kg",
+     "20 kg"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -10413,7 +10413,7 @@
      "4 kg",
      "3 kg",
      "5 kg dan ortiq",
-     "10 kg"
+     "1 kg"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -10421,10 +10421,10 @@
    {
     "savol": "Kurka dumini nimaga o'xshatib ko'tarib yuradi?",
     "variantlar": [
-     "Xalar",
-     "Buqe",
-     "Yelpig'ich",
-     "Palma barglar"
+     "Supurgiga",
+     "Qoshiqqa",
+     "Yelpig'ichga",
+     "Arqonga"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -10432,10 +10432,10 @@
    {
     "savol": "Tovuqlar har kuni deyarli nechta tuxum qo'yadi?",
     "variantlar": [
-     "Har saat",
+     "10 ta",
      "Bittadan",
      "2-3 ta",
-     "0-1 ta"
+     "Umuman qo'ymaydi"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -10488,7 +10488,7 @@
     "savol": "O'rdak bir haftada o'rtacha nechta tuxum qo'yadi?",
     "variantlar": [
      "5-6 ta",
-     "3-4 ta",
+     "10-12 ta",
      "1-2 ta",
      "2-3 ta"
     ],
@@ -10507,12 +10507,12 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Tovuq qanday maqsadlarni yetishtirish uchun arpa va makkajoʻxori bilan boqiladi?",
+    "savol": "Tovuqlar nima maqsadda arpa va makkajo'xori bilan boqiladi?",
     "variantlar": [
-     "Tuqi uchun",
+     "Uchishi uchun",
      "Ko'proq tuxum olish uchun",
-     "Bosqichma-bosqich",
-     "Ko'paytirilish uchun"
+     "Sayrashi uchun",
+     "Patining rangi uchun"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
@@ -10521,9 +10521,9 @@
     "savol": "G'ozlar nima bilan oziqlanadi?",
     "variantlar": [
      "Mayda baliqlar va boshqa jonivorlar",
-     "Donga",
-     "Travanizm",
-     "Arpa"
+     "Qum bilan",
+     "Faqat suv bilan",
+     "Tuz bilan"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -10531,10 +10531,10 @@
    {
     "savol": "Tovuqlar tuproqni nima bilan titkilab o'simlik urug'larini topib yeydi?",
     "variantlar": [
-     "Sirp",
-     "Quyon",
-     "Kunnoq",
-     "Oyoq"
+     "Qanoti",
+     "Dumi",
+     "Boshi",
+     "Oyog'i"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -10553,10 +10553,10 @@
    {
     "savol": "Jo'jalar qaysi vosita orqali ochiriladi?",
     "variantlar": [
-     "To'pda",
+     "Qozonda",
      "Inkubatorda",
-     "Kurilishda",
-     "Tabiiy suv bilan"
+     "Muzlatgichda",
+     "Suv ichida"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
@@ -10565,7 +10565,7 @@
     "savol": "G'oz bir mavsumlda nechta tuxum qiladi?",
     "variantlar": [
      "50-60 ta",
-     "30-40 ta",
+     "100-150 ta",
      "20-30 ta",
      "30-50 ta"
     ],
@@ -10584,7 +10584,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Agar ona tovuq 20 kunni bosib yotsa va har kuni tuxum qo'ysa, eng ko'p nechta tuxum qo'yadi?",
+    "savol": "Tovuq har kuni bittadan tuxum qo'ysa, 20 kunda nechta tuxum qo'yadi?",
     "variantlar": [
      "20 ta",
      "15 ta",
@@ -10600,7 +10600,7 @@
      "30-45 ta",
      "40-50 ta",
      "25-35 ta",
-     "35-45 ta"
+     "60-90 ta"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -10617,7 +10617,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Tovuq har kuni 1 ta qo'ysa va ona 15 ta bosib yotsa, eng kam necha kun farq?",
+    "savol": "Tovuq har kuni 1 ta tuxum qo'ysa, 15 ta tuxum yig'ish uchun necha kun kerak?",
     "variantlar": [
      "20 kun",
      "5 kun",
@@ -10628,7 +10628,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "G'oz 5 kg dan ortiq, kurka 10 kg dan ortiq bo'lsa, farq eng kam nechta kg?",
+    "savol": "G'oz 5 kg, kurka 10 kg bo'lsa, kurka g'ozdan necha kg og'ir?",
     "variantlar": [
      "4 kg",
      "5 kg",
@@ -10650,18 +10650,18 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Tovuq bir oyda 30 ta, g'oz 40 ta tuxum qo'ysa, g'oz bir yilda qancha ko'p?",
+    "savol": "Bir parranda oyiga 30 ta, ikkinchisi oyiga 40 ta tuxum qo'ysa, bir yilda ikkinchisi nechta ko'p tuxum qo'yadi?",
     "variantlar": [
      "120 ta",
      "160 ta",
      "100 ta",
      "140 ta"
     ],
-    "togri": 3,
+    "togri": 0,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Inkubatorda minglab jo'jalar ochirilsa va har bir jo'ja 3-4 oya yetsa, necha oy keyin parrandalar boqilishi mumkin?",
+    "savol": "Inkubatorda ochirilgan jo'jalar necha oyda voyaga yetadi?",
     "variantlar": [
      "4-5 oy",
      "3-4 oy",
@@ -10672,23 +10672,23 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Kurka 80 ta, tovuq 90 ta tuxum qo'ysa, oyiga tovuq kurka dan nechta ko'p?",
+    "savol": "Kurka yiliga 80 ta, tovuq 90 ta tuxum qo'ysa, tovuq oyiga kurkadan taxminan nechta ko'p tuxum qo'yadi?",
     "variantlar": [
-     "1 ta",
-     "0.8 ta",
-     "1.5 ta",
-     "1.2 ta"
+     "10 ta",
+     "taxminan 0,8 ta",
+     "1,5 ta",
+     "1,2 ta"
     ],
-    "togri": 3,
+    "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Ona tovuq 10-15 tuxumni 20-25 kun bosib yotsa, eng ko'p nechta oy davomida parrandalarni boqish mumkin?",
+    "savol": "Ona tovuq tuxumlarni necha kun bosib yotadi?",
     "variantlar": [
      "4 oy",
-     "2 oy",
-     "3 oy",
-     "1 oy"
+     "2 kun",
+     "20-25 kun",
+     "1 kun"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -10811,23 +10811,23 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Agar sigir 15 yil yashaydi va har yili bittadan bolalaydi, u bitta jismoniy umrida qancha bolalaydi?",
+    "savol": "Sigir har yili bittadan bola tug'sa, 5 yilda nechta bola tug'adi?",
     "variantlar": [
      "10 bolasi",
      "5 bolasi",
      "15 bolasi",
      "20 bolasi"
     ],
-    "togri": 2,
+    "togri": 1,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Qo'y oggi bir yilda voyaga yetadi degan so'z nima anglatadi?",
+    "savol": "Qo'zichoq qancha vaqtda voyaga yetadi?",
     "variantlar": [
-     "Qo'y bola har yili bir necha bolalaydi",
-     "Qo'y ot bilan o'ziga bolasi kelib qoladi",
-     "Qo'y bolasi bir yilda o'zining bolalashga tayyorlandi",
-     "Qo'y hech qachon voyaga yetmaydi"
+     "Bir haftada",
+     "Bir oyda",
+     "Bir yilda",
+     "10 yilda"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -10835,7 +10835,7 @@
    {
     "savol": "Cho'ponlar qanday transportdan foydalanib mol va qo'ylarni yaylovlarda boqadilar?",
     "variantlar": [
-     "Teshik",
+     "Qayiq",
      "Mashina",
      "Piyoda",
      "Ot"
@@ -10901,12 +10901,12 @@
    {
     "savol": "Qo'chqorlar qancha vaqt bo'rdoqiga boqiladi?",
     "variantlar": [
-     "Bir necha yil",
+     "Bir kun",
      "Umr bo'yi",
      "Bir necha oy",
      "Bitta yil"
     ],
-    "togri": 0,
+    "togri": 2,
     "qiyinlik": "o'rtacha"
    },
    {
@@ -10921,12 +10921,12 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Qo'chqor va sigir bolasi turli maqsadda ishlatiladi. Qaysi biri go'shti uchun davlatlashtiriladi?",
+    "savol": "Qo'chqorlar bir necha oy bo'rdoqiga boqilgach, nimaga topshiriladi?",
     "variantlar": [
-     "Qo'chqor",
-     "Sigir bolasi",
-     "Ikkalasi ham bir xil",
-     "Hech biri"
+     "Go'shtga",
+     "Sutga",
+     "Junga",
+     "Poygaga"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -10987,7 +10987,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Sigirning 15 yilliq hayoti davomida minimal ombor sut hosili qancha bo'ladi?",
+    "savol": "Sigir har kuni 8 litr sut bersa, 15 yilda (har yili 365 kun) jami necha litr sut beradi?",
     "variantlar": [
      "50000 litr",
      "36500 litr",
@@ -10998,12 +10998,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Qo'y va otlarning hayot muddati turli bo'lsa ham, ularning umumiy xususiyatlari qanday?",
+    "savol": "Qo'y va otdan qanday mahsulotlar olinadi?",
     "variantlar": [
-     "Ikkalasi ham faqat go'shti uchun boqiladi",
-     "Ikkalasi ham har yili bolalaydi",
-     "Hech qanday umumiylik yo'q",
-     "Ikkalasi ham 5 yil yashaydi"
+     "Qo'ydan qimiz, otdan jun",
+     "Qo'ydan go'sht va jun, otdan qimiz",
+     "Ikkalasidan ham faqat tuxum",
+     "Hech narsa olinmaydi"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -11024,7 +11024,7 @@
     "variantlar": [
      "Hech qanday farqi yo'q",
      "Ikkalasi ham go'shti uchun",
-     "Qorako'l terisining paltoga yengi qilish uchun, Hisor go'sht va yog'i uchun",
+     "Qorako'l terisidan telpak va palto yoqasi tikiladi, hisor go'sht va yog'i uchun boqiladi",
      "Ikkalasi ham juni uchun"
     ],
     "togri": 2,
@@ -11249,19 +11249,19 @@
    {
     "savol": "Delfin guruhlari kasal delfinga yordam beradi. Bu ularning qanday sifatini ko'rsatadi?",
     "variantlar": [
-     "Aqshi",
-     "Zahmatko'ylik",
-     "O'zaro yordam va oiladoron",
-     "Bilim"
+     "Qo'rqoqlikni",
+     "Yolg'izlikni",
+     "O'zaro yordamni",
+     "Dangasalikni"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "\"O't — bug'u — bo'ri\" zanjirida bo'ri sanasi kamayas, bug'u sanasida nima bo'ladi?",
+    "savol": "“O't — bug'u — bo'ri” zanjirida bo'rilar soni kamaysa, bug'ular soni nima bo'ladi?",
     "variantlar": [
      "Ortadi",
-     "Kamayaddi",
+     "Kamayadi",
      "O'zgarmas qoladi",
      "Butunlay yo'q bo'ladi"
     ],
@@ -11269,14 +11269,14 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Baqalar chivinlarni yeydi, chivinlar qurbaqaga oziqa bo'ladi, qurbaqalar ilon tomonidan yeyiladi. Matnda ko'rsatilgan birinchi zanjir bilan taqqoslaganda, bu zanjirda halqalar soni qanday?",
+    "savol": "“O't — chivin — qurbaqa — ilon — boyo'g'li” zanjirida nechta halqa bor?",
     "variantlar": [
-     "Birinchida 4, ikkinchida 3 ta halqa",
-     "Birinchida 3, ikkinchida 4 ta halqa",
-     "Teng",
-     "Taqqoslash mumkin emas"
+     "3 ta",
+     "4 ta",
+     "5 ta",
+     "6 ta"
     ],
-    "togri": 1,
+    "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
@@ -11386,7 +11386,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Qurbaqani ilon bilan bog'liq, ilon kimni yeyadi?",
+    "savol": "“O't – chivin – qurbaqa – ilon – boyo'g'li” zanjirida ilon kimni yeydi?",
     "variantlar": [
      "bo'yo'g'lini",
      "o'tni",
@@ -11401,7 +11401,7 @@
     "variantlar": [
      "o't shirasi",
      "o't bargini",
-     "o't nastavasini",
+     "o't tuprog'ini",
      "o't ildizini"
     ],
     "togri": 0,
@@ -11540,23 +11540,23 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Chivin o't yeganidan keyin, u qurbaqaga oziqa bo'lishi mumkin - bu nimaning dalili?",
+    "savol": "Chivin o't shirasini yeydi va o'zi qurbaqaga oziqa bo'ladi. Bu nimani ko'rsatadi?",
     "variantlar": [
-     "chivin zanjirda ikki o'rinda turishi mumkin",
-     "zanjir noto'g'ri",
-     "chivin o'rxon hayvon",
-     "chivin qurbaqani sevadi"
+     "Chivin ham oziqlanuvchi, ham oziqa bo'ladi",
+     "Zanjir noto'g'ri",
+     "Chivin yirtqich",
+     "Chivin qurbaqani yeydi"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "\"O't - bug'u - bo'ri\" zanjirda bug'u soni ortib qolsa, bu kimning oziqini kamaytirib yuboradi?",
+    "savol": "“O't – bug'u – bo'ri” zanjirida bug'ular ko'payib ketsa, nima kamayadi?",
     "variantlar": [
-     "ilon",
-     "bo'rining",
-     "qurbaqaning",
-     "chivining"
+     "Ilonlar",
+     "O'tlar",
+     "Qurbaqalar",
+     "Chivinlar"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
@@ -11586,10 +11586,10 @@
    {
     "savol": "Oziqa zanjirining asosiy talabi qaysi?",
     "variantlar": [
-     "hecho'tkazi uzilib qolmasligi",
+     "hech bir halqasi uzilib qolmasligi",
      "o'tlar bor bo'lishi",
      "eng ko'p halqa bo'lishi",
-     "hamma halqa bo'lishi"
+     "halqalar tartibsiz bo'lishi"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -11606,7 +11606,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Tabiatning mojaroy qonuni qanday?",
+    "savol": "Tabiatdagi tirik organizmlar o'zaro qanday bog'langan?",
     "variantlar": [
      "o'tlar hamma hayvonlarni yeyadi",
      "hayvonlar bir-birlari bilan jang qiladi",
@@ -11661,11 +11661,11 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Tabiatdagi oziqa zanjiri to'xtatilmasa, nima yuz beradi?",
+    "savol": "Tabiatdagi oziqa zanjiri buzilmasa, nima bo'ladi?",
     "variantlar": [
      "faqat o'tlar qoladi",
      "hamma hayvon nobud bo'ladi",
-     "tabiat o'nglab qoladi",
+     "faqat bitta hayvon qoladi",
      "organizmlar o'zaro bog'langan holda yashnaydi"
     ],
     "togri": 3,
@@ -11674,10 +11674,10 @@
    {
     "savol": "\"O't - chivin - qurbaqa - ilon - bo'yo'g'li\" zanjirida, agar chvinlar nobud bo'lsa, qurbaqa va ilonlar qanday ta'sirga duch keladi?",
     "variantlar": [
-     "ikkovalari ham farovatli bo'ladi",
+     "ikkalasi ham yaxshi yashaydi",
      "ilon qurbaqasini topadi",
      "ikkovalari ham ko'payadi",
-     "qurbaqa oziqsiz qoladi, ilon qurbaqa topavarmaydi"
+     "qurbaqa oziqsiz qoladi, keyin ilon ham qurbaqa topa olmaydi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -11694,12 +11694,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Tabiat tabiiy mojaroyida, oziqa zanjiri eng muhim rol qanday o'ynaydi?",
+    "savol": "Tabiatda oziqa zanjiri qanday muhim rol o'ynaydi?",
     "variantlar": [
-     "organizmlarni o'zaro bog'laydi va mojaroyni balanslashtiradi",
+     "organizmlarni o'zaro bog'lab, tabiatdagi muvozanatni saqlaydi",
      "faqat o'tlarni o'stiradi",
      "faqat hayvonlarni boshqaradi",
-     "hech qanday"
+     "hech qanday rol o'ynamaydi"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -11767,7 +11767,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Rasmdagi \"1\" raqami qaysi ichki a'zoni belgilaydi?",
+    "savol": "Qon aylanishini ta'minlovchi ichki a'zo qaysi?",
     "variantlar": [
      "Jigar",
      "Oshqozon",
@@ -11778,7 +11778,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Rasmdagi \"2\" raqami qaysi ichki a'zoni belgilaydi?",
+    "savol": "Nafas olish a'zosi qaysi?",
     "variantlar": [
      "Ichaklar",
      "O'pka",
@@ -11789,7 +11789,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Rasmdagi \"3\" raqami qaysi ichki a'zoni belgilaydi?",
+    "savol": "O't suyuqligini ishlab chiqaradigan a'zo qaysi?",
     "variantlar": [
      "Oshqozon",
      "Jigar",
@@ -11800,7 +11800,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Rasmdagi \"4\" raqami qaysi ichki a'zoni belgilaydi?",
+    "savol": "Ovqat qizilo'ngachdan keyin qaysi a'zoga tushadi?",
     "variantlar": [
      "O'pka",
      "Jigar",
@@ -11811,7 +11811,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Rasmdagi \"5\" raqami qaysi ichki a'zoni belgilaydi?",
+    "savol": "Oziq moddalar qonga asosan qaysi a'zodan so'riladi?",
     "variantlar": [
      "Jigar",
      "Oshqozon",
@@ -11958,7 +11958,7 @@
     "variantlar": [
      "Shikastlanishdan, suv va changdan himoya beradi, qon tomirlari orqali ozuqa yetkazadi",
      "Faqat yuqori qatlamdan",
-     "Faqat hargin bilan",
+     "Faqat rang berib",
      "Faqat muskullar orqali"
     ],
     "togri": 0,
@@ -11987,7 +11987,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Agar muskullar suyaklarga biriktilmasa odam tanasida neler bo'ladi?",
+    "savol": "Agar muskullar suyaklarga birikmagan bo'lsa, odam tanasida nima bo'ladi?",
     "variantlar": [
      "Nafas olish to'xtaydi",
      "Tana harakati to'liq mumkin bo'lmaydi",
@@ -12076,7 +12076,7 @@
      "200 dan ortiq",
      "150 ta",
      "100 ta",
-     "250 ta"
+     "50 ta"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -12115,7 +12115,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Yurak qaysi qafasining markaziga yaqin joylashgan?",
+    "savol": "Yurak qaysi qafas ichida joylashgan?",
     "variantlar": [
      "Qo'lda",
      "Boshda",
@@ -12130,8 +12130,8 @@
     "variantlar": [
      "Suyaklardan",
      "Muskullardan",
-     "Qanlardan",
-     "Yarim yarim"
+     "Yog'dan",
+     "Teridan"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -12174,14 +12174,14 @@
     "variantlar": [
      "Nerv tizimini",
      "Skeletni",
-     "Qon idoplanarni",
+     "Qonni",
      "Muskullarni"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Bolalarning suyaklari katta yoshdagilardagidek qanday?",
+    "savol": "Bolalarning suyaklari katta yoshdagilarnikiga nisbatan qanday?",
     "variantlar": [
      "Qora va og'ir bo'ladi",
      "Oqroq va engil",
@@ -12197,7 +12197,7 @@
      "Tilni to'g'ri o'rganish uchun",
      "Chiroyli ko'rinishi uchun",
      "Osongina qilish uchun",
-     "Suyaklari to'la shakllanmaganidagi sababli"
+     "Suyaklari hali to'la shakllanmagani uchun"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -12205,9 +12205,9 @@
    {
     "savol": "Yurak muskullari qisqarib-bo'shashib turishdagi jarayon qanday deyiladi?",
     "variantlar": [
-     "Tushish",
-     "Jipak",
-     "Yurimish",
+     "Nafas olish",
+     "Hazm qilish",
+     "Terlash",
      "Yurak urishi"
     ],
     "togri": 3,
@@ -12282,7 +12282,7 @@
    {
     "savol": "Nega bolalarning suyaklari katta yoshdagi odamlarning suyaklaridek qattiq emas?",
     "variantlar": [
-     "Ularni boshqa materialdan yasaganing",
+     "Ular temirdan yasalgan",
      "Ular past sifatli",
      "Ular o'sish jarayonida bo'ladi",
      "Ular kichikdir"
@@ -12305,9 +12305,9 @@
     "savol": "Yurak muskullari nima uchun doimiy ravishda qisqarib-bo'shashib turishi kerak?",
     "variantlar": [
      "Yurakni kuchaytirish uchun",
-     "Yurakni tinjalantirish uchun",
+     "Yurakni to'xtatish uchun",
      "Qonni tananing barcha qismiga aylantirilshi uchun",
-     "Yurakni paraktar berish uchun"
+     "Suyaklarni o'stirish uchun"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -12315,8 +12315,8 @@
    {
     "savol": "Bolalar o'sib katta bo'lishga qadar bolalarning suyaklari qanday o'zgaradi?",
     "variantlar": [
-     "Yumshoqashadi ko'proq",
-     "Kichiyashadi",
+     "Yumshab boradi",
+     "Kichrayib boradi",
      "To'liq shakllanib qattiqashadi",
      "Yo'qolib ketadi"
     ],
@@ -12328,7 +12328,7 @@
     "variantlar": [
      "Yurak tezroq urishi kerak",
      "Muskullar zaiflashadi",
-     "A'zolar bektor chala ishlaydi",
+     "Ichki a'zolar himoyasiz qolib, shikastlanishi mumkin",
      "Hech nima sodir bo'lmaydi"
     ],
     "togri": 2,
@@ -12357,22 +12357,22 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Bolalarni to'g'ri tutish nima sababli biologik jihatdan muhim?",
+    "savol": "Bolalar gavdani to'g'ri tutishi nima uchun muhim?",
     "variantlar": [
      "Suyaklarining to'g'ri o'sishi va shakllanishi uchun",
      "Muskullarni kuchaytirish uchun",
-     "Osmondagi zararlandan himoya qilish uchun",
+     "Ko'zni himoya qilish uchun",
      "Til o'rganishni tezlashtirish uchun"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Skelettik tizim va ichki a'zolar o'zaro o'ylantirilishi odam uchun nima uchun muhim?",
+    "savol": "Skelet odam uchun nima uchun muhim?",
     "variantlar": [
      "Estetik taraqqiyot",
      "Ovqat hazm qilishi",
-     "Odam saqlash va harakat imkoniyatini ta'minlash",
+     "Tanani tutib turadi, ichki a'zolarni himoya qiladi va harakatni ta'minlaydi",
      "Qonni aylantirilishi"
     ],
     "togri": 2,
@@ -12408,10 +12408,10 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Odam tanasida qol miqdori qancha?",
+    "savol": "Odam tanasida qancha qon bo'ladi?",
     "variantlar": [
-     "4 litrdan ko'proq",
-     "3 litrdan ko'proq",
+     "1 litr",
+     "2 litr",
      "7 litrdan ko'proq",
      "5 litrdan ko'proq"
     ],
@@ -12540,12 +12540,12 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Kamharakat odamning yuragi nima sababdan tez charcha?",
+    "savol": "Kamharakat odamning yuragi nima uchun tez charchaydi?",
     "variantlar": [
-     "Umuman charchimasni mumkin",
+     "Juda ko'p sport qilgani uchun",
      "Qoni kam bo'lgani uchun",
      "Yuragi katta bo'lgani uchun",
-     "Doimiy faoliyat uchun ko'proq ish qilgani uchun"
+     "Yuragi chiniqmagan, zaif bo'lgani uchun"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -12621,7 +12621,7 @@
     "variantlar": [
      "Yurakni kichiklashtiradi",
      "Yurakni doimiy yukga o'rgatib, uning ishlashni kuchaytiradi",
-     "Qon miqdorini ko'paytiади",
+     "Qon miqdorini ikki baravar ko'paytiradi",
      "Umuman ta'sir ko'rsatmaydi"
     ],
     "togri": 1,
@@ -12677,7 +12677,7 @@
      "Qon soğib ketadi",
      "Kislorod ko'p bo'lib, a'zolarga yetkaziladi va ular oziqlantiriladi",
      "Faqat qon rangini o'zgartirib beradi",
-     "Qon rangini o'zgartiradi"
+     "Qon to'xtab qoladi"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -12694,11 +12694,11 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Qonning aylanish tizimi buzilsa yoki xudat bo'lsa, odam tanasiga qanday jiddiy natijalari bo'ladi?",
+    "savol": "Qon aylanishi buzilsa, odam tanasiga qanday zarar yetadi?",
     "variantlar": [
      "Faqat bosh og'riydi",
      "Organlar kislorod va oziq moddasini yetarlicha olmasligi sababli zarar ko'radi, shuning uchun yurakni saqlash muhim",
-     "Hech qanday natijaси yo'q",
+     "Hech qanday zarar yetmaydi",
      "Faqat oyoqlar og'riydi"
     ],
     "togri": 1,
@@ -12761,7 +12761,7 @@
      "Changlardan",
      "Bakterialardan",
      "Viruslardan",
-     "Salamatda"
+     "Tovushdan"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -12792,9 +12792,9 @@
     "savol": "Bosh miya va orqa miya qayda joylashgan?",
     "variantlar": [
      "Ko'krakda",
-     "Bosh va umurtqa suti ichida",
-     "Qolda",
-     "Qorn ichida"
+     "Kalla suyagi va umurtqa pog'onasi ichida",
+     "Qo'lda",
+     "Qorin ichida"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -12822,14 +12822,14 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Siydik pufagiga qaysi a'zolardan moddalar tushadi?",
+    "savol": "Siydik pufagiga qaysi a'zodan moddalar tushadi?",
     "variantlar": [
      "Faqat jigardan",
      "Faqat buyrakdan",
      "Faqat ichakdan",
-     "Buyrak va oshqozondan"
+     "Yurak va o'pkadan"
     ],
-    "togri": 3,
+    "togri": 1,
     "qiyinlik": "oson"
    },
    {
@@ -12871,7 +12871,7 @@
      "Siydik",
      "Qonda moddalar",
      "O't suyuqligi",
-     "Mineral salts"
+     "Ter"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -13012,7 +13012,7 @@
     "savol": "Nima uchun xonani shamollatish sog'lig'i uchun zarur?",
     "variantlar": [
      "Faqat shamolni chiqarish",
-     "Hum kamaytirib berish uchun",
+     "Xonani isitish uchun",
      "Sovuq bo'lish uchun",
      "Havoda kislorod bo'lishi va yaxshi nafas olish uchun"
     ],
@@ -13034,7 +13034,7 @@
     "savol": "Zavod va fabrikalardan chiqayotgan tutun va gazlar nima uchun xavfli?",
     "variantlar": [
      "O'pkaga kirib, organizmning sog'lig'iga zararli",
-     "Faqat shum o'zgaradi",
+     "Faqat hid o'zgaradi",
      "Faqat rang o'zgaradi",
      "Faqat havo haroratini o'zgartirib yuboradi"
     ],
@@ -13082,7 +13082,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Qadimda (100-150 yil avval) insonning tabiatga ta'siri qanday bo'lgan?",
+    "savol": "Qadimda insonning tabiatga ta'siri qanday bo'lgan?",
     "variantlar": [
      "Juda katta va salbiy",
      "Umuman bo'lmagan",
@@ -13108,7 +13108,7 @@
     "variantlar": [
      "Daryo va ko'llarga",
      "Dala va bog'larga, shahar va qishloqlarga",
-     "Saharaga va o'rmonga",
+     "Dengizga",
      "Cho'l va tog'larga"
     ],
     "togri": 1,
@@ -13128,9 +13128,9 @@
    {
     "savol": "Yer ostida qanday moddalar tabiiy ravishda hosil bo'lib, insonlar tomonidan qazib olinmoqda?",
     "variantlar": [
-     "Tosh va qol",
+     "Tosh va qum",
      "Neft, gaz, ko'mir va metallar",
-     "Qumg'o' va domadir",
+     "Qor va muz",
      "Tuproq va tuzi"
     ],
     "togri": 1,
@@ -13139,7 +13139,7 @@
    {
     "savol": "Issiqlik elektrostansiyalarida asosan qanday tabiiy boylik yoqiladi?",
     "variantlar": [
-     "Tabiiy gaz",
+     "O'tin",
      "Neft",
      "Ko'mir",
      "Yog'"
@@ -13151,7 +13151,7 @@
     "savol": "Ko'chadagi avtomashinalar asosan nimani ishlatib yuradi?",
     "variantlar": [
      "Elektr energiyasi",
-     "Yog' va resin",
+     "Suv va tuz",
      "Suv",
      "Benzin va tabiiy gaz"
     ],
@@ -13159,10 +13159,10 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Dala ekinlari va mevali daraxtlarni zararkunanda hasharotlardan qo'riqlaш uchun nima ishlatiladi?",
+    "savol": "Dala ekinlari va mevali daraxtlarni zararkunanda hasharotlardan qo'riqlash uchun nima ishlatiladi?",
     "variantlar": [
-     "Qayish va kabel",
-     "Sug'orta",
+     "Arqon va sim",
+     "Faqat sug'orish",
      "Kimyoviy vositalar",
      "Issiq suv"
     ],
@@ -13181,10 +13181,10 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Niyaga yer ostidan neft, gaz va ko'mir qisqa muddatda yoqilishi muammoga olib keladi?",
+    "savol": "Yer ostidagi neft, gaz va ko'mirni qisqa muddatda yoqish qanday muammoga olib keladi?",
     "variantlar": [
-     "Chiqindi gazlar yoqilg'iga zarar beradi",
-     "Ozondagi teshiklar kichikayadi",
+     "Tuproq unumdor bo'ladi",
+     "Havo tozalanadi",
      "Tuproq yumshatiladi",
      "Millionlab yillar davomida hosil bo'lgan boyliklar tezda tugab ketadi va havoni ifloslantiradi"
     ],
@@ -13197,7 +13197,7 @@
      "Tutun",
      "Bug'",
      "Havo",
-     "Suv tuprog'i"
+     "Qor"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -13205,10 +13205,10 @@
    {
     "savol": "Avtomashinalarning soni yildan yilga ortib borayotgani nima masalasini kuchaytirayotgan?",
     "variantlar": [
-     "Yer qichishi",
-     "Suv nurlanishini",
+     "Suv toshqini",
+     "Zilzila",
      "Havo ifloslashini",
-     "Bolalar kasalligi"
+     "Bolalar o'yini"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -13225,23 +13225,23 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Kimyoviy vositalar dala ekinlarini zarar berayotgan hasharotlardan qo'riqlaшда nima masalasini keltirib chiqaradi?",
+    "savol": "Kimyoviy vositalar bilan ekinlarni zararkunandalardan qo'riqlash qanday muammo keltirib chiqaradi?",
     "variantlar": [
-     "Tuproqning qoldirilishi",
-     "Ustuvollarning ko'payishi",
+     "Tuproqning ko'payishi",
+     "Qushlarning ko'payishi",
      "Foydali hasharotlarning ham nobud bo'lishi",
-     "O'simliklarin ko'payishi"
+     "O'simliklarning ko'payishi"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Qushlar kimyoviy vositalardan nima javobi berish kerak?",
+    "savol": "Kimyoviy vositalar qushlarga qanday ta'sir qiladi?",
     "variantlar": [
-     "Qo'shimcha ozuqa",
-     "Foydali hayvonlar bilan birgalikda yashash",
-     "Zarari",
-     "Tuproqda yashash"
+     "Foyda keltiradi",
+     "Ko'paytiradi",
+     "Zarar keltiradi",
+     "Ta'sir qilmaydi"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -13250,9 +13250,9 @@
     "savol": "Matnga ko'ra, insonning tabiatga ta'sirining asosiy sababi nima?",
     "variantlar": [
      "Tog'larda yashash",
-     "Tabiiy ko'chma hayvonlar",
+     "Hayvonlarning ko'chishi",
      "Aql-zakovati va mehnati bilan fan-texnika taraqqiyoti",
-     "Ko'p ko'ch-ko'chma qilish"
+     "Yomg'ir ko'p yog'ishi"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -13263,7 +13263,7 @@
      "Toza bo'lib bormoqda",
      "Ko'payib bormoqda",
      "Qazib olinib ketmoqda",
-     "Kamsitilmoqda"
+     "Qaytadan hosil bo'lmoqda"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -13272,7 +13272,7 @@
     "savol": "Turli kimyoviy vositalarni ishlab chiqarayotgan korxonalarning mo'rilaridan chiqayotgan tutun havoga nima ta'sir etadi?",
     "variantlar": [
      "Havoning haroratini pasayishga olib keladi",
-     "Yer qichib ketadi",
+     "Havoni tozalaydi",
      "Havo salomatligiga foyda",
      "Havoni buzadi"
     ],
@@ -13284,7 +13284,7 @@
     "variantlar": [
      "Faqat hayvonlardan",
      "Fan-texnika, mashinalar, korxonalar, shaharlar va qishloqlar qurilishi, neft-gaz-ko'mir ishlatilishi, kimyoviy vositalar",
-     "Faqat tog' to'faylı",
+     "Faqat tog'lardan",
      "Faqat o'simliklarda"
     ],
     "togri": 1,
@@ -13324,10 +13324,10 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Insonning qo'llari qanday nisbatda tabiatga salbiy ta'sir etmoqda?",
+    "savol": "Inson tabiatga qaysi sohalarda salbiy ta'sir etmoqda?",
     "variantlar": [
-     "Faqat qardida",
-     "Faoliyatining barcha soхalashida",
+     "Faqat uyda",
+     "Faoliyatining ko'p sohalarida",
      "Faqat bog'da",
      "Faqat yozda"
     ],
@@ -13346,12 +13346,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Matnga asoslanib, inson tabiatga salbiy ta'sir etayotgani nimasi uchun kengaytirmoqda?",
+    "savol": "Inson tabiatga salbiy ta'sirni nima sababli kengaytirmoqda?",
     "variantlar": [
-     "Shunchaki o'ylasiz",
-     "Tabiiy ko'chma hayvonlarni kushtashtirish uchun",
+     "Hech qanday sababsiz",
+     "Hayvonlarni ko'paytirish uchun",
      "Faqat pul uchun",
-     "O'z ehtiyoji uchun yashash sharоitlarni yaratganda"
+     "O'z ehtiyoji uchun yashash sharoitlarini yaratishda"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -13362,7 +13362,7 @@
      "Eng farqi yo'q",
      "Qadimda tabiat umuman saqlanmagan",
      "Hozir tabiat yaхshi sifatda saqlangan",
-     "Qadimda insonning tabiatga ta'siri kichik bo'lgani uchun tabiatning o'zi saqlangan, hozir esa atayni harakatlar kerak"
+     "Qadimda inson ta'siri kichik bo'lgani uchun tabiat o'zi saqlangan, hozir esa uni maxsus muhofaza qilish kerak"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -13370,7 +13370,7 @@
    {
     "savol": "Turli mashinalarni ixtiro qilish va korxonalarni qurilish natiјasida nima yuz berdi?",
     "variantlar": [
-     "Tabiatning asosiy boylik va o'simliklari yo'qolib ketdi",
+     "Tabiatga katta salbiy ta'sir yetdi: havo ifloslandi, ko'p hayvonlar kamaydi",
      "Yovvoyi hayvonlar ko'payib ketdi",
      "Daryolar ko'payib ketdi",
      "O'simliklari ko'payib ketdi"
@@ -13382,9 +13382,9 @@
     "savol": "Yer yuzidagi tabiiy o'rmonlar, dashtlar va cho'llarning o'zlashtirilgan qismida yovvoyi hayvonlar nobud bo'lishining asosiy sababi nima?",
     "variantlar": [
      "Hayvonlar o'z-o'zidan uchib ketdi",
-     "Hayvonlar tog'ga tahlif etildi",
+     "Hayvonlar ataylab ko'paytirildi",
      "Hayvonlar klimat tufayli o'ldi",
-     "O'zlashtirilgan yerlar yangi yashash joylari bo'lib qoldi, tabiiy sharoitlar saqlanmadi"
+     "O'zlashtirilgan yerlarda ularning yashash joyi va tabiiy sharoiti yo'qoldi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -13401,7 +13401,7 @@
     "variantlar": [
      "Suvlarni boshqarish",
      "Tabiat boyliklaridan oqilona foydalanish",
-     "Hayvonlarni kesish",
+     "Hayvonlarni ovlash",
      "O'rmonlarni kesish"
     ],
     "togri": 1,
@@ -13455,7 +13455,7 @@
     "savol": "Ekologik xavfsizlik deganda nima tushuniladi?",
     "variantlar": [
      "Faqat havo toza bo'lishi",
-     "Shuningchun suv bo'lishi kerak",
+     "Faqat suv ko'p bo'lishi",
      "Atrof-muhit holatining tirik organizmlar hayoti va odamlar salomatligiga xavf-xatar yetkazmaydigan holati",
      "Faqat tuproq ifloslanmasligi"
     ],
@@ -13509,8 +13509,8 @@
    {
     "savol": "Kesilgan har bir daraxt o'rniga nima qilish lozim bo'ladi?",
     "variantlar": [
-     "Uni ko'targanga olib ketish",
-     "Unga salar qo'yish",
+     "Uni boshqa joyga olib ketish",
+     "Uning o'rniga uy qurish",
      "Boshqasini ekish",
      "Hech narsa qilmaslik"
     ],
@@ -13520,8 +13520,8 @@
    {
     "savol": "O'zbekistonda o'rmonlar asosan qayerda joylashgan?",
     "variantlar": [
-     "Daryo xech qaysi joyida",
-     "Tuproqning osti va cho'lning ortasida",
+     "Daryolar ichida",
+     "Cho'lning o'rtasida",
      "Ko'llar orasida",
      "Tog' yonbag'irlarida"
     ],
@@ -13543,8 +13543,8 @@
     "savol": "Chaqmoq bo'lganda o'rmonlarda nima xavfi ro'y beradi?",
     "variantlar": [
      "Daraxtlar dengizga ketadi",
-     "Daraxtlar ko'z yumadi",
-     "O'rimlar suv bilan to'linadi",
+     "Daraxtlar gullab ketadi",
+     "O'rmonni suv bosadi",
      "Qurib qolgan daraxtlarga yashin tushib yong'in chiqadi"
     ],
     "togri": 3,
@@ -13586,9 +13586,9 @@
    {
     "savol": "Ifloslangan suvni ichganda qanday kasalliklar kelib chiqishi mumkin?",
     "variantlar": [
-     "Faqat ko'z chiziladi",
+     "Faqat ko'z og'rig'i",
      "Terlama, vabo, oshqozon-ichak, teri kasalliklari",
-     "Faqat baxtda bo'lish",
+     "Faqat soch to'kilishi",
      "Faqat xotira kamayadi"
     ],
     "togri": 1,
@@ -13600,7 +13600,7 @@
      "Qog'oz, mato, namat, porolon, to'r va boshqalar",
      "Faqat plastmas",
      "Faqat temir",
-     "Faqat konkreat"
+     "Faqat beton"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -13608,7 +13608,7 @@
    {
     "savol": "Uy sharoitida chang bilan kurashda qanday filtrdan foydalaniladi?",
     "variantlar": [
-     "Konkreat filtr",
+     "Beton filtr",
      "Mato yoki namatdan yasalgan filtr",
      "Qum filtr",
      "Temir filtr"
@@ -13652,10 +13652,10 @@
    {
     "savol": "«Qizil kitob»ga kiritilgan o'simlik va hayvonlarni muhofaza qilish nima bilan bog'liq?",
     "variantlar": [
-     "Chapdagi maqola",
+     "Ularning rangi bilan",
      "Yo'qolib ketish xavfi borligida va ularni saqlab qolish zarurligida",
      "Xarita qilishda",
-     "Rang chikishda"
+     "Ularning narxi bilan"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"

@@ -52,8 +52,8 @@
    "variantlar": [
     "Kuzning boshida",
     "Yozning ortasida",
-    "Bahor kelib, kunlar ilishi bilan",
-    "Qushda"
+    "Bahor kelib, kunlar isishi bilan",
+    "Qishda"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -70,7 +70,7 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Piyoz urug'iga egilgan to'pgulida nima hosil bo'ladi?",
+   "savol": "Piyozning to'pgulida nima hosil bo'ladi?",
    "variantlar": [
     "Urug'",
     "Piyozning ildizlari",
@@ -85,7 +85,7 @@
    "variantlar": [
     "Erta bahorda",
     "Yozning o'rtasida",
-    "Qushlikda",
+    "Qishda",
     "Kuzning boshida"
    ],
    "togri": 0,
@@ -103,7 +103,7 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Ko'karib chiqqan kartoshka o'simliklarini qayerdaga o'tqalamiz?",
+   "savol": "Ko'karib chiqqan kartoshka bo'lakchalarini qayerga o'tqazamiz?",
    "variantlar": [
     "Tashqariga",
     "Suv ichiga",
@@ -150,7 +150,7 @@
    "savol": "Piyoz urug'ini olish uchun qaysi faslida mayda piyozlar egatlarga ekiladi?",
    "variantlar": [
     "Kuzning boshida",
-    "Qushlikda",
+    "Qishda",
     "Erta bahorda",
     "Yozning o'rtasida"
    ],
@@ -215,7 +215,7 @@
   {
    "savol": "Ertagi kartoshka yig'ilib olingan oyda piyoz qanday holatda bo'ladi?",
    "variantlar": [
-    "Xazorinchi bo'lib ketgan bo'ladi",
+    "Qurib qolgan bo'ladi",
     "Pishib yig'ilib olingan bo'ladi",
     "Hali sepilib turadi",
     "Hali egatda o'sib turadi"
@@ -224,34 +224,34 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Ertagi, o'rtagisi va kechki kartoshkalarni ekilish oylarining ketma-ketligini ko'rsating.",
+   "savol": "Qaysi kartoshka eng kech ekiladi?",
    "variantlar": [
-    "O'rtagisi (may), Ertagi (may-iyun), Kechki (iyun oxiri)",
-    "Ertagi (may-iyun), O'rtagisi (may), Kechki (iyun oxiri)",
-    "Kechki (iyun oxiri), Ertagi (may-iyun), O'rtagisi (may)",
-    "Kechki (iyun oxiri), O'rtagisi (may), Ertagi (may-iyun)"
+    "Ertagi kartoshka",
+    "Kechki kartoshka",
+    "O'rtagi kartoshka",
+    "Hammasi bir vaqtda ekiladi"
    ],
-   "togri": 0,
+   "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "O'rtagisi kartoshka ekilgan oydan kechki kartoshka yig'ilgan oyigacha necha oylik davr o'tadi?",
+   "savol": "O'rtagi kartoshka may oyida ekiladi, kechki kartoshka oktabrda yig'iladi. May oyidan oktabrgacha necha oy o'tadi?",
    "variantlar": [
     "5 oy",
     "6 oy",
     "7 oy",
     "4 oy"
    ],
-   "togri": 1,
+   "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Piyoz urug'i kuzda sepilgandan yig'ilgungacha necha oylik muddat o'tadi?",
+   "savol": "Piyoz urug'i qachon sepiladi va piyoz qachon yig'ib olinadi?",
    "variantlar": [
-    "8-9 oy",
-    "6 oy",
-    "10 oy",
-    "7 oy"
+    "Kuzda sepiladi, keyingi yili avgust–sentabrda yig'iladi",
+    "Bahorda sepiladi, shu yili mayda yig'iladi",
+    "Yozda sepiladi, shu yili kuzda yig'iladi",
+    "Qishda sepiladi, bahorda yig'iladi"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -271,7 +271,7 @@
    "savol": "Kechki kartoshka iyun oyi oxirlarida ekilgandan oktabr oyiga kelib, necha oylik vaqt o'tadi?",
    "variantlar": [
     "5 oy",
-    "4 oy",
+    "6 oy",
     "2 oy",
     "3 oy"
    ],
@@ -292,7 +292,7 @@
   {
    "savol": "Ertagi kartoshka yig'ilib olingan oyda o'rtagisi kartoshka qanday holatda bo'ladi?",
    "variantlar": [
-    "Hali pishib yetilmagan bo'ladi",
+    "Hali ekilmagan bo'ladi",
     "Hali ekilib turadi",
     "Ekilib o'sib turadi",
     "Yig'ilib olingan bo'ladi"

@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Algebra",
+ "mavzu": "16-§. Sodda tengsizliklarni isbotlash",
+ "savollar": [
+  {
+   "savol": "Tengsizlikni isbotlash nima?",
+   "variantlar": [
+    "Hisoblash",
+    "Yechish",
+    "Chizish",
+    "Uning har doim to'g'riligini ko'rsatish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Isbotlashda tengsizlikning chap va o'ng qismlari ayirmasi nimani ko'rsatishi kerak?",
+   "variantlar": [
+    "Ko'paytmasini",
+    "Yig'indisini",
+    "Bo'linmasini",
+    "Ishorasini"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a² ≥ 0 tengsizlik qachon o'rinli?",
+   "variantlar": [
+    "a > 0 da",
+    "a < 0 da",
+    "a = 0 da",
+    "Har doim"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(a − b)² ≥ 0 tengsizlik qachon o'rinli?",
+   "variantlar": [
+    "Har doim",
+    "a < b",
+    "a > b",
+    "a = b"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a² + b² ≥ 2ab tengsizlik qachon tenglikka aylanadi?",
+   "variantlar": [
+    "a = 0",
+    "a = −b",
+    "a = b",
+    "Hech qachon"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a² + 1 ≥ 2a tengsizlik qachon tenglik?",
+   "variantlar": [
+    "a = 1",
+    "Hech qachon",
+    "a = −1",
+    "a = 0"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a > 0, b > 0 bo'lsa (a + b)/2 va √(ab) dan qaysi biri katta yoki teng?",
+   "variantlar": [
+    "√(ab)",
+    "Teng",
+    "Aytib bo'lmaydi",
+    "(a + b)/2"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Isbotlashda ko'p ishlatiladigan usul?",
+   "variantlar": [
+    "Sinash",
+    "Chizish",
+    "Taxmin",
+    "Ayirmaning ishorasini aniqlash"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a² + b² ≥ 0 doim to'g'rimi?",
+   "variantlar": [
+    "Yo'q",
+    "Faqat musbatda",
+    "Faqat manfiyda",
+    "Ha"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(a + b)² ≥ 0 doim to'g'rimi?",
+   "variantlar": [
+    "Faqat manfiyda",
+    "Yo'q",
+    "Faqat musbatda",
+    "Ha"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a² + 4 ≥ 4a tengsizlikni isbotlash uchun qaysi ifoda?",
+   "variantlar": [
+    "(a + 2)² ≥ 0",
+    "(a − 4)² ≥ 0",
+    "(a − 2)² ≥ 0",
+    "a² ≥ 0"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a² + b² + 2 ≥ 2(a + b) tengsizlikda tenglik qachon?",
+   "variantlar": [
+    "Hech qachon",
+    "a = b = 0",
+    "a = 1, b = −1",
+    "a = b = 1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x² + 5 ≥ 4x tengsizlik doim to'g'rimi?",
+   "variantlar": [
+    "Yo'q",
+    "Ha (x − 2)² + 1 > 0",
+    "Faqat x > 0",
+    "Faqat x < 0"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a > 0 uchun a + 1/a ≥ 2. Tenglik qachon?",
+   "variantlar": [
+    "a = 0",
+    "a = 2",
+    "a = 1",
+    "Hech qachon"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a, b > 0 uchun a/b + b/a ≥ ?",
+   "variantlar": [
+    "4",
+    "2",
+    "0",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(a + b)² ≥ 4ab tengsizlik qachon tenglik?",
+   "variantlar": [
+    "a = −b",
+    "a = b",
+    "a = 0",
+    "Hech qachon"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x² + y² + 1 ≥ x + y tengsizlik?",
+   "variantlar": [
+    "Har doim to'g'ri",
+    "Hech qachon",
+    "Faqat musbatda",
+    "Ba'zan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a² − 6a + 10 > 0 har doim to'g'rimi?",
+   "variantlar": [
+    "Yo'q",
+    "Faqat a < 3",
+    "Ha, (a − 3)² + 1 > 0",
+    "Faqat a > 3"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a > b > 0 bo'lsa a² va b² dan qaysi biri katta?",
+   "variantlar": [
+    "Aytib bo'lmaydi",
+    "Teng",
+    "b²",
+    "a²"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a > 0, b > 0 va a > b bo'lsa 1/a va 1/b?",
+   "variantlar": [
+    "Aytib bo'lmaydi",
+    "Teng",
+    "1/a < 1/b",
+    "1/a > 1/b"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a² + b² + c² ≥ ab + bc + ca tengsizlikning isboti uchun ayirma?",
+   "variantlar": [
+    "½[(a − b)² + (b − c)² + (c − a)²]",
+    "abc",
+    "a² + b²",
+    "(a + b + c)²"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(a + b + c)² ≥ 3(ab + bc + ca) tengsizlik?",
+   "variantlar": [
+    "Har doim to'g'ri",
+    "Hech qachon",
+    "Ba'zan",
+    "Faqat musbatda"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a, b > 0 uchun (a + b)(1/a + 1/b) ≥ ?",
+   "variantlar": [
+    "1",
+    "4",
+    "8",
+    "2"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x > 0 uchun x + 4/x ≥ ?",
+   "variantlar": [
+    "1",
+    "2",
+    "8",
+    "4"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a, b, c > 0 uchun (a + b + c)/3 va ³√(abc) dan qaysi biri katta yoki teng?",
+   "variantlar": [
+    "(a + b + c)/3",
+    "Aytib bo'lmaydi",
+    "³√(abc)",
+    "Teng"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a² + b² ≥ (a + b)²/2 tengsizlik?",
+   "variantlar": [
+    "Hech qachon",
+    "Har doim to'g'ri",
+    "Faqat musbatda",
+    "Ba'zan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a⁴ + b⁴ ≥ 2a²b² tengsizlik?",
+   "variantlar": [
+    "Faqat musbatda",
+    "Har doim to'g'ri",
+    "Hech qachon",
+    "Ba'zan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x² + 1/x² ≥ 2 (x ≠ 0) tenglik qachon?",
+   "variantlar": [
+    "Hech qachon",
+    "x = 1",
+    "x = ±1",
+    "x = 0"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Koshi tengsizligi (a + b)/2 ≥ √(ab) qaysi shartda?",
+   "variantlar": [
+    "Har qanday",
+    "a = b",
+    "a < 0, b < 0",
+    "a ≥ 0, b ≥ 0"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a² + b² + 1 ≥ ab + a + b tengsizlikda tenglik?",
+   "variantlar": [
+    "a = b = 0",
+    "a = 1, b = 0",
+    "Hech qachon",
+    "a = b = 1"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

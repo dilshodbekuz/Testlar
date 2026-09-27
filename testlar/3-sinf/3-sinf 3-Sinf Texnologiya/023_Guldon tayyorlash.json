@@ -7,8 +7,8 @@
    "savol": "Guldon tayyorlashda birinchi qadamda nima tayyorlash kerak?",
    "variantlar": [
     "Kartoni",
-    "Makaza",
-    "Chok",
+    "Qaychini",
+    "Chokni",
     "Andaza"
    ],
    "togri": 3,
@@ -28,9 +28,9 @@
   {
    "savol": "Guldon bo'laklarini biriktirib tikishda nimalidan foydalaniladi?",
    "variantlar": [
-    "O'rash",
+    "Mix bilan",
     "Plastilina",
-    "Yopish",
+    "Faqat bo'yoq bilan",
     "Chok turlaridan"
    ],
    "togri": 3,
@@ -40,7 +40,7 @@
    "savol": "Qirqib olish jarayonida qaysi vosita ishlatiladi?",
    "variantlar": [
     "Rasm",
-    "Makaza",
+    "Qaychi",
     "Chok",
     "Qalam"
    ],
@@ -53,7 +53,7 @@
     "Vosita",
     "Tikishning turi",
     "Kartoni turi",
-    "Guldonning shaklini belgilashdigan rasm"
+    "Guldonning shaklini belgilaydigan qolip (namuna)"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -63,7 +63,7 @@
    "variantlar": [
     "Gulli yoki rangli kartonga",
     "O'qituvchining stoli ustiga",
-    "Kutiyaga",
+    "Qutiga",
     "Daftarning ichiga"
    ],
    "togri": 0,
@@ -103,21 +103,21 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Gulli yoki rangli kartoni nima sifatida ishlatiladi?",
+   "savol": "Gulli yoki rangli karton nima sifatida ishlatiladi?",
    "variantlar": [
     "Vosita",
-    "Bo'lak",
+    "Guldon uchun asosiy material",
     "Fon",
     "Tasvir"
    ],
-   "togri": 2,
+   "togri": 1,
    "qiyinlik": "oson"
   },
   {
    "savol": "Agar andazani tayyorlangandan keyin uni qirqib olmoqchi bo'lsangiz, birinchi qanday qadamni bajarasiz?",
    "variantlar": [
-    "Uni gulli kartonga joylashtirasiz",
-    "Makaza olib kelasiz",
+    "Uni kartonga joylashtirib, chizib olasiz",
+    "Kartonni suvga solasiz",
     "Kartoni bo'yasiz",
     "Kalemi tayyorlaysiz"
    ],
@@ -128,7 +128,7 @@
    "savol": "Guldon bo'laklarini biriktirib tikishda chok turlarini foydalanish qanday jarayonni anglatadi?",
    "variantlar": [
     "Bo'laklar qo'shilmasi",
-    "Boyang",
+    "Bo'yash",
     "Chizish",
     "Qirqib olish"
    ],
@@ -136,12 +136,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Rangli kartoni o'rniga gulli kartoni ishlatilishi mumkinmi?",
+   "savol": "Rangli karton o'rniga gulli karton ishlatsa bo'ladimi?",
    "variantlar": [
     "Yo'q",
     "Ha, ikkalasi bitta maqsadni bajaradi",
     "Bilmasman",
-    "Ha, lekin boshqacha ko'rinadi"
+    "Yo'q, faqat oq karton ishlatiladi"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -174,7 +174,7 @@
     "Har bir bo'lakni biriktirib tikish",
     "Chizish",
     "Qirqib olish",
-    "Boyang"
+    "Bo'yash"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -235,14 +235,14 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Agar siz gulli kartoni o'rniga oq kartoni ishlatish bo'lsa, guldonni qirqib olish jarayoniga nima ta'sir bo'ladi?",
+   "savol": "Agar gulli karton o'rniga oq karton ishlatilsa nima o'zgaradi?",
    "variantlar": [
-    "Qirqib olishda aniqlik yo'qoladi va xatolar ko'payadi",
-    "Qirqib olish osonlashadi",
-    "Faqat rang o'zgaradi",
-    "Hechbir ta'sir bo'lmaydi"
+    "Qirqishda aniqlik yo'qoladi",
+    "Qirqish juda qiyinlashadi",
+    "Faqat ko'rinishi (rangi) o'zgaradi",
+    "Guldon suvda eriydi"
    ],
-   "togri": 0,
+   "togri": 2,
    "qiyinlik": "qiyin"
   },
   {

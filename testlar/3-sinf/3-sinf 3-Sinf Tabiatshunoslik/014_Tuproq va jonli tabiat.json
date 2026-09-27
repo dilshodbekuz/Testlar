@@ -4,12 +4,12 @@
  "mavzu": "Tuproq va jonli tabiat",
  "savollar": [
   {
-   "savol": "O'simlik bargi orqali oziqlanishi uchun qanday moddalar kerak?",
+   "savol": "O'simlik bargida oziqa hosil bo'lishi uchun nima kerak?",
    "variantlar": [
     "Faqat mineralllar",
-    "Haydiy suv va tuproq",
+    "Faqat tuproq",
     "Suv va qum",
-    "Suv zarrachalari va karbonat angidrid zaryachalari"
+    "Suv, karbonat angidrid va quyosh nuri"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -40,9 +40,9 @@
    "savol": "Tuproq orasida yashovchi qanday jonivorlar tuproqning unumdorligini oshiradi?",
    "variantlar": [
     "Faqat chumoli",
-    "Uchar va baliqlar",
+    "Qushlar va baliqlar",
     "Chuvalchang va chumoli kabi jonivorlar",
-    "Haydiy hayvonlar"
+    "Katta hayvonlar"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -51,9 +51,9 @@
    "savol": "Chuvalchang tuproqda asosan nima qiladi?",
    "variantlar": [
     "Tuproqni qayta ishlab, g'ovakligini va unumdorligini oshiradi",
-    "Tuproqni zaharlab utadi",
-    "Tuproq orasidan jo'nab utadi",
-    "Tuproqni taybaqa ayantiradi"
+    "Tuproqni zaharlaydi",
+    "Tuproqdan qochib ketadi",
+    "Tuproqni toshga aylantiradi"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -61,10 +61,10 @@
   {
    "savol": "O'simlik ildizi orqali qanday jarayonlar bo'ladi?",
    "variantlar": [
-    "Suv qabul qilish va vertikal o'sish",
+    "Fotosintez va gullash",
     "Yalniz oziqlanish",
     "Yalniz nafas olish",
-    "Oziqlanish va nafas olish"
+    "Suv va minerallarni shimish hamda nafas olish"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -73,7 +73,7 @@
    "savol": "Quyosh nuri ta'sirida o'simlik bargida qanday jarayon sodir bo'ladi?",
    "variantlar": [
     "Suv tayyorlash jarayoni",
-    "Havoiy tozalanadi",
+    "Barg to'kiladi",
     "Suv bug'lanadi",
     "Suv zarrachalari va CO2 birikib oziqa moddasi hosil bo'ladi"
    ],
@@ -85,7 +85,7 @@
    "variantlar": [
     "Yalniz suv",
     "Faqat qum",
-    "Gil va plastmas",
+    "Gil va plastmassa",
     "Chirindilar va minerallarga boy moddalar"
    ],
    "togri": 3,
@@ -95,7 +95,7 @@
    "savol": "Tuproq orasidagi jonivorlar asosan qanday oziqlanadi?",
    "variantlar": [
     "Quyosh energiyasi bilan",
-    "Suv va havoly",
+    "Faqat suv va havo bilan",
     "O'simliklar qoldig'i bilan",
     "Tashqaridan olib kelingan oziqlar bilan"
    ],
@@ -106,7 +106,7 @@
    "savol": "Yomg'ir yog'ishi va suv bosishidan tuproqga nima bo'ladi?",
    "variantlar": [
     "Tuproq qurigib ketadi",
-    "Tuproq g'ovalalib ketadi",
+    "Tuproq g'ovaklashadi",
     "Tuproq minerallarga boyib ketadi",
     "Tuproq loyga aylanib zichlab qoladi"
    ],
@@ -117,9 +117,9 @@
    "savol": "Agar tuproq zichlab qolib loyga aylansa, o'simlikka nima bo'ladi?",
    "variantlar": [
     "O'simlik yaxshi o'sadi",
-    "Tuproq havoni yomon o'tkazadi va o'simlik yaxshi o'smadi",
-    "O'simlik taqviy oziqlanadi",
-    "O'simlik bargi kattarib ketadi"
+    "Tuproq havoni yomon o'tkazadi va o'simlik yaxshi o'smaydi",
+    "O'simlik ko'proq oziqlanadi",
+    "Barglari kattalashib ketadi"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -129,7 +129,7 @@
    "variantlar": [
     "Faqat donador",
     "Unumdor va donador",
-    "Qorali va yengil",
+    "Qora va yengil",
     "Faqat unumdor"
    ],
    "togri": 1,
@@ -138,8 +138,8 @@
   {
    "savol": "Tuproq orasidagi jonivorlar tuproqga qanday ta'sir ko'rsatadi?",
    "variantlar": [
-    "Tuproqni yoshi qiladi",
-    "Tuproqni qurigib utadi",
+    "Tuproqni yosh qiladi",
+    "Tuproqni quritib yuboradi",
     "Tuproqni mineral moddalar bilan boyitadi",
     "Tuproqni zaharlab utadi"
    ],
@@ -160,7 +160,7 @@
   {
    "savol": "Tuproq orasidagi jonivorlar o'smiklar uchun qanday faydali?",
    "variantlar": [
-    "Tuproqni yangi suvga o'zgartirib utadi",
+    "Tuproqni suvga aylantiradi",
     "O'simlikni yeydi",
     "Tuproqni suv bilan to'ldiradi",
     "O'simliklar qoldigi bilan oziqlanib, tuproqni qayta ishlab boyitadi"
@@ -172,7 +172,7 @@
    "savol": "Agar tuproqda chirindilar va mineralllar bo'lmaganda, nima bo'ladi?",
    "variantlar": [
     "Tuproq donador bo'ladi",
-    "Tuproq unumdor olmadi",
+    "Tuproq unumdor bo'lmaydi",
     "Tuproq unumdor bo'ladi",
     "Tuproq g'ovak bo'ladi"
    ],
@@ -218,7 +218,7 @@
     "O'simlik tezda o'sadi",
     "O'simlik bargi yashillanadi",
     "O'simlik mineral bilan to'yinadi",
-    "O'simlik yaxshi o'smadi, chunki ildizi nafas olishi qiyin"
+    "O'simlik yaxshi o'smaydi, chunki ildizi nafas olishi qiyin"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -227,7 +227,7 @@
    "savol": "Tuproq bo'lmaganda quruqlikda jonli tabiat qanday bo'ladi?",
    "variantlar": [
     "Odamlar yashay oladi",
-    "O'simliklar bo'lmas edi va jonli tabiat yashay olmadi",
+    "O'simliklar bo'lmas edi va jonli tabiat yashay olmas edi",
     "Faqat hayvonlar yashadi",
     "Hayot yaxshi rivojlanadi"
    ],
@@ -238,9 +238,9 @@
    "savol": "Chuvalchanglar tuproqning unumdorligini qanday oshiradi?",
    "variantlar": [
     "O'simlik qoldigi bilan oziqlanib, tuproqni qayta ishlab mineral boyitadi",
-    "Havoni siqib tuproq ostiga uradi",
+    "Havoni siqib chiqaradi",
     "Tuproqda suv qo'shadi",
-    "Tuproqni suv bilan yuyadi"
+    "Tuproqni suv bilan yuvadi"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -270,10 +270,10 @@
   {
    "savol": "Jonli tabiatning tuproqga bog'lanishi nima orqali ifodalanar?",
    "variantlar": [
-    "Tuproq faqat shaxmatski ko'rinadi",
+    "Tuproq faqat ko'rinish uchun kerak",
     "Tuproq shunchaki suv saqlovchi",
     "Tuproq rang beradi",
-    "Tuproq bo'lmaganda jonli tabiat yashay olmadi"
+    "Tuproq bo'lmaganda jonli tabiat yashay olmas edi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -292,7 +292,7 @@
   {
    "savol": "Nima uchun tuproq donador va unumdor xususiyatlari ikkalasi ham muhim?",
    "variantlar": [
-    "Donadorlikda havo, unumdorlikda oziqa boradi",
+    "Donadorlik havo beradi, unumdorlik oziqa beradi",
     "Faqat unumdorlik muhim",
     "Faqat donadorlik muhim",
     "Hech qanday zaruriyat yo'q"
@@ -312,7 +312,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Tuproqning chirindi qanday jarayonlardan unumdor bo'ladi?",
+   "savol": "Tuproq qanday jarayonlar natijasida unumdor bo'ladi?",
    "variantlar": [
     "Faqat quyosh energiyasi kerak",
     "Faqat chirindilar kerak",
@@ -325,7 +325,7 @@
   {
    "savol": "Nobud bo'lgan hayvon va o'simlik qoldiqlarining tuproqda ahamiyati nima?",
    "variantlar": [
-    "Tuproq ostida kaliy hosil qiladi",
+    "Tuproq ostida neft hosil qiladi",
     "Tuproqni qoralashtiradi",
     "Tuproqni zaharlab utadi",
     "Mikroorganizmlar bilan aylanib, tuproq unumdorligini oshiradi"

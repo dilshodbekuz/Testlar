@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Algebra",
+ "mavzu": "7-§. Kvadrat tengsizlikni kvadrat funksiya grafigi yordamida yechish",
+ "savollar": [
+  {
+   "savol": "Kvadrat tengsizlikni grafik usulda yechishda nima chiziladi?",
+   "variantlar": [
+    "To'g'ri chiziq",
+    "Giperbola",
+    "y = ax² + bx + c parabolasi",
+    "Aylana"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "ax² + bx + c > 0 tengsizlik yechimi grafikning qaysi qismi?",
+   "variantlar": [
+    "OY dan chapdagi",
+    "OX dan pastdagi qism",
+    "OX dan yuqoridagi qism",
+    "OY dan o'ngdagi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "ax² + bx + c < 0 tengsizlik yechimi grafikning qaysi qismi?",
+   "variantlar": [
+    "OX dan pastdagi qism",
+    "OX dan yuqoridagi",
+    "OY dan o'ngdagi",
+    "OY dan chapdagi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tengsizlikni grafik usulda yechishda avval nima topiladi?",
+   "variantlar": [
+    "Kvadrat uchhadning nollari",
+    "Uchi",
+    "Simmetriya o'qi",
+    "OY bilan kesishish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a > 0 bo'lsa parabola tarmoqlari?",
+   "variantlar": [
+    "Yuqoriga",
+    "Chapga",
+    "O'ngga",
+    "Pastga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a < 0 bo'lsa parabola tarmoqlari?",
+   "variantlar": [
+    "Pastga",
+    "Chapga",
+    "O'ngga",
+    "Yuqoriga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "D < 0, a > 0 bo'lsa parabola OX ga nisbatan qanday joylashgan?",
+   "variantlar": [
+    "Butunlay yuqorida",
+    "Kesadi",
+    "Tegadi",
+    "Butunlay pastda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "D < 0, a < 0 bo'lsa parabola OX ga nisbatan?",
+   "variantlar": [
+    "Butunlay pastda",
+    "Butunlay yuqorida",
+    "Kesadi",
+    "Tegadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x² − 1 > 0 tenglamaning nollari?",
+   "variantlar": [
+    "0",
+    "1",
+    "±1",
+    "±2"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nollari x₁ < x₂ bo'lgan a > 0 parabola OX dan pastda qaysi oraliqda?",
+   "variantlar": [
+    "Hech qayerda",
+    "(x₁; x₂)",
+    "(−∞; x₁)",
+    "(x₂; +∞)"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x² − 3x + 2 > 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "(−∞; 1) ∪ (2; +∞)",
+    "(−2; −1)",
+    "[1; 2]",
+    "(1; 2)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x² − 3x + 2 ≤ 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "[1; 2]",
+    "(1; 2)",
+    "(−∞; 1] ∪ [2; +∞)",
+    "[−2; −1]"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "−x² + 1 > 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "(−∞; −1) ∪ (1; +∞)",
+    "(−1; 1)",
+    "(1; +∞)",
+    "[−1; 1]"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "−x² + 5x − 4 ≥ 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "(1; 4)",
+    "[1; 4]",
+    "(−∞; 1] ∪ [4; +∞)",
+    "[−4; −1]"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x² − 6x + 5 < 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "(−5; −1)",
+    "(−∞; 1) ∪ (5; +∞)",
+    "(1; 5)",
+    "[1; 5]"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x² + 3x − 4 > 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "[−4; 1]",
+    "(−1; 4)",
+    "(−∞; −4) ∪ (1; +∞)",
+    "(−4; 1)"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x² − 9 ≤ 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "[0; 3]",
+    "[−3; 3]",
+    "(−∞; −3] ∪ [3; +∞)",
+    "(−3; 3)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "−x² − 4 < 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "Har qanday x",
+    "x > 0",
+    "Yechimi yo'q",
+    "x < 0"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x² − 8x + 16 ≤ 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "Yechimi yo'q",
+    "Har qanday",
+    "x ≠ 4",
+    "x = 4"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x² − 4x + 5 > 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "x > 0",
+    "Har qanday x",
+    "Yechimi yo'q",
+    "x ≠ 2"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x² − 2x − 8 ≤ 0 tengsizlikning butun yechimlari soni?",
+   "variantlar": [
+    "5",
+    "8",
+    "6",
+    "7"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "−x² + 6x − 8 > 0 tengsizlikning butun yechimlari?",
+   "variantlar": [
+    "3",
+    "2; 4",
+    "Yo'q",
+    "2; 3; 4"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2x² − 5x + 2 ≥ 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "(−∞; 1/2] ∪ [2; +∞)",
+    "(1/2; 2)",
+    "(−∞; 2]",
+    "[1/2; 2]"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3x² − 7x + 2 < 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "(2; 3)",
+    "(−∞; 1/3) ∪ (2; +∞)",
+    "(1/3; 2)",
+    "[1/3; 2]"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x² − 4x + 4 > 0 tengsizlikning eng kichik butun musbat yechimi?",
+   "variantlar": [
+    "2",
+    "1",
+    "3",
+    "0"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x² − 5x + 6 ≤ 0 tengsizlik yechimida nechta butun son?",
+   "variantlar": [
+    "3",
+    "1",
+    "2",
+    "4"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x² ≥ 2x tengsizlikning yechimi?",
+   "variantlar": [
+    "(−∞; 2]",
+    "(−∞; 0] ∪ [2; +∞)",
+    "[0; 2]",
+    "(0; 2)"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x² + 2 < 3x tengsizlikning yechimi?",
+   "variantlar": [
+    "(−∞; 1) ∪ (2; +∞)",
+    "[1; 2]",
+    "(1; 2)",
+    "(−2; −1)"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(x − 1)(x + 3) > 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "(−1; 3)",
+    "(−∞; −3) ∪ (1; +∞)",
+    "(−3; 1)",
+    "[−3; 1]"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(2 − x)(x + 1) ≥ 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "(−∞; −1] ∪ [2; +∞)",
+    "[−2; 1]",
+    "(−1; 2)",
+    "[−1; 2]"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

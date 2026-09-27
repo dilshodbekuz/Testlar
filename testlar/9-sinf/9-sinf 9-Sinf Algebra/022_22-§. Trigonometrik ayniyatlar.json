@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Algebra",
+ "mavzu": "22-§. Trigonometrik ayniyatlar",
+ "savollar": [
+  {
+   "savol": "Ayniyat nima?",
+   "variantlar": [
+    "Funksiya",
+    "Tenglama",
+    "Barcha qiymatlarda to'g'ri tenglik",
+    "Tengsizlik"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sin²α + cos²α ifodani soddalashtiring.",
+   "variantlar": [
+    "0",
+    "sin α",
+    "1",
+    "2"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 − sin²α ifodani soddalashtiring.",
+   "variantlar": [
+    "cos²α",
+    "0",
+    "sin²α",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 − cos²α ifodani soddalashtiring.",
+   "variantlar": [
+    "1",
+    "cos²α",
+    "0",
+    "sin²α"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "tg α · cos α = ?",
+   "variantlar": [
+    "1",
+    "tg α",
+    "sin α",
+    "cos α"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "ctg α · sin α = ?",
+   "variantlar": [
+    "ctg α",
+    "sin α",
+    "1",
+    "cos α"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sin α / tg α = ?",
+   "variantlar": [
+    "1",
+    "tg α",
+    "cos α",
+    "sin α"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 / (1 + tg²α) = ?",
+   "variantlar": [
+    "tg²α",
+    "1",
+    "cos²α",
+    "sin²α"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 / (1 + ctg²α) = ?",
+   "variantlar": [
+    "cos²α",
+    "ctg²α",
+    "sin²α",
+    "1"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ayniyatni isbotlash nimani anglatadi?",
+   "variantlar": [
+    "Hisoblash",
+    "Chap qismni o'ng qismga aylantirish",
+    "Chizish",
+    "Tenglamani yechish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sin α cos α (tg α + ctg α) = ?",
+   "variantlar": [
+    "0",
+    "sin α",
+    "1",
+    "cos α"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(sin α + cos α)² − 2 sin α cos α = ?",
+   "variantlar": [
+    "sin α",
+    "2",
+    "1",
+    "0"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(1 + tg²α) cos²α = ?",
+   "variantlar": [
+    "tg²α",
+    "cos²α",
+    "1",
+    "0"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(1 + ctg²α) sin²α = ?",
+   "variantlar": [
+    "0",
+    "sin²α",
+    "ctg²α",
+    "1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sin²α / (1 − cos²α) = ?",
+   "variantlar": [
+    "0",
+    "sin²α",
+    "1",
+    "cos²α"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "cos²α / (1 − sin²α) = ?",
+   "variantlar": [
+    "cos²α",
+    "0",
+    "1",
+    "sin²α"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sin²α + cos²α + tg α ctg α = ?",
+   "variantlar": [
+    "0",
+    "2",
+    "3",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 − sin α cos α tg α = ?",
+   "variantlar": [
+    "0",
+    "cos²α",
+    "1",
+    "sin²α"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "tg α + ctg α = ?",
+   "variantlar": [
+    "1 / (sin α cos α)",
+    "2",
+    "1",
+    "sin α cos α"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sin⁴α + 2sin²α cos²α + cos⁴α = ?",
+   "variantlar": [
+    "0",
+    "2",
+    "1",
+    "sin²α"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(1 − cos²α) ctg²α = ?",
+   "variantlar": [
+    "1",
+    "cos²α",
+    "0",
+    "sin²α"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "sin α / (1 + cos α) + (1 + cos α) / sin α = ?",
+   "variantlar": [
+    "2 / sin α",
+    "1",
+    "2",
+    "2 sin α"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(sin α + cos α)² + (sin α − cos α)² = ?",
+   "variantlar": [
+    "2",
+    "1",
+    "4 sin α cos α",
+    "0"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(tg α + ctg α)² − tg²α − ctg²α = ?",
+   "variantlar": [
+    "4",
+    "0",
+    "1",
+    "2"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "cos⁴α − sin⁴α = ?",
+   "variantlar": [
+    "cos²α − sin²α",
+    "0",
+    "sin²α − cos²α",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(1 − sin α)/cos α = ?",
+   "variantlar": [
+    "1",
+    "sin α / cos α",
+    "(1 + sin α)/cos α",
+    "cos α / (1 + sin α)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "tg²α − sin²α = ?",
+   "variantlar": [
+    "tg²α",
+    "1",
+    "sin²α",
+    "tg²α sin²α"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "sin²α ctg²α + cos²α tg²α = ?",
+   "variantlar": [
+    "sin²α + cos²α",
+    "0",
+    "2",
+    "1"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 / (1 − sin α) + 1 / (1 + sin α) = ?",
+   "variantlar": [
+    "1 / cos²α",
+    "2 cos²α",
+    "2 / cos²α",
+    "2"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(1 − ctg α)² + (1 + ctg α)² = ?",
+   "variantlar": [
+    "2 / sin²α",
+    "2 sin²α",
+    "2",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

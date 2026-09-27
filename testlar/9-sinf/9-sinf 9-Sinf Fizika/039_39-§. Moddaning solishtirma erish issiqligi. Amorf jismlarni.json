@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "39-§. Moddaning solishtirma erish issiqligi. Amorf jismlarning erishi va qotishi",
+ "savollar": [
+  {
+   "savol": "Solishtirma erish issiqligi qaysi harf bilan?",
+   "variantlar": [
+    "r",
+    "q",
+    "λ",
+    "c"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Solishtirma erish issiqligi birligi?",
+   "variantlar": [
+    "J/(kg·°C)",
+    "kg",
+    "J",
+    "J/kg"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Erish issiqligi formulasi?",
+   "variantlar": [
+    "Q = λ/m",
+    "Q = λm",
+    "Q = m/λ",
+    "Q = λ + m"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Muzning solishtirma erish issiqligi?",
+   "variantlar": [
+    "2,3 · 10⁶ J/kg",
+    "4200 J/kg",
+    "3,3 · 10⁵ J/kg",
+    "900 J/kg"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Massa ortsa erish uchun Q?",
+   "variantlar": [
+    "Ortadi",
+    "Nol",
+    "Kamayadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qotishda ajraladigan issiqlik?",
+   "variantlar": [
+    "Q = −λm",
+    "Q = λm",
+    "cm Δt",
+    "Nol"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "λ nimani ko'rsatadi?",
+   "variantlar": [
+    "Hajm",
+    "Massa",
+    "1 kg moddani erish t da eritish uchun kerak issiqlik",
+    "Bosim"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 kg muz 0 °C da erishi uchun issiqlik?",
+   "variantlar": [
+    "3,3 · 10⁶ J",
+    "33 000 J",
+    "4200 J",
+    "3,3 · 10⁵ J"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "2 kg muz erishi uchun (λ = 3,3 · 10⁵)?",
+   "variantlar": [
+    "1,65 · 10⁵ J",
+    "6,6 · 10⁵ J",
+    "3,3 · 10⁵ J",
+    "6,6 · 10⁶ J"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Q = λm da m qaysi kattalik?",
+   "variantlar": [
+    "Suv",
+    "Havo",
+    "Idish",
+    "Erigan modda massasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "m = 0,5 kg muz (0 °C). Erishi uchun Q = ?",
+   "variantlar": [
+    "1,65 · 10⁶ J",
+    "3,3 · 10⁵ J",
+    "1,65 · 10⁵ J",
+    "6,6 · 10⁵ J"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Q = 6,6 · 10⁵ J, λ = 3,3 · 10⁵. m = ?",
+   "variantlar": [
+    "0,5 kg",
+    "2 kg",
+    "20 kg",
+    "0,2 kg"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qo'rg'oshin λ = 2,5 · 10⁴ J/kg, m = 2 kg (erish t da). Q = ?",
+   "variantlar": [
+    "5 · 10⁵ J",
+    "2,5 · 10⁴ J",
+    "1,25 · 10⁴ J",
+    "5 · 10⁴ J"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mis λ = 2,1 · 10⁵ J/kg, m = 1 kg. Q = ?",
+   "variantlar": [
+    "2,1 · 10⁵ J",
+    "2,1 · 10⁴ J",
+    "21 000 J",
+    "2,1 · 10⁶ J"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Q = 4,2 · 10⁵ J, m = 2 kg. λ = ?",
+   "variantlar": [
+    "2,1 · 10⁴",
+    "4,2 · 10⁵",
+    "2,1 · 10⁵ J/kg",
+    "8,4 · 10⁵"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Muz t = −10 °C dan 0 °C gacha isitiladi (c = 2100, m = 1 kg). Q₁ = ?",
+   "variantlar": [
+    "210 000 J",
+    "4200 J",
+    "21 000 J",
+    "2100 J"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi muz keyin eriydi. Q₂ = ?",
+   "variantlar": [
+    "4200 J",
+    "21 000 J",
+    "3,3 · 10⁴ J",
+    "3,3 · 10⁵ J"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Umumiy Q = Q₁ + Q₂ = ?",
+   "variantlar": [
+    "6,6 · 10⁵ J",
+    "2,1 · 10⁴ J",
+    "3,3 · 10⁵ J",
+    "3,51 · 10⁵ J"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qotishda 1 kg suv 0 °C da beradigan issiqlik?",
+   "variantlar": [
+    "0",
+    "4200 J",
+    "3,3 · 10⁵ J",
+    "33 000 J"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Amorf jismlarda λ aniq qiymati bormi?",
+   "variantlar": [
+    "Doim",
+    "Ba'zan",
+    "Ha",
+    "Yo'q (aniq erish t yo'q)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 kg muz −20 °C dan suvga (20 °C) aylanguncha Q? (c_muz = 2100, λ = 3,3 · 10⁵, c_suv = 4200)",
+   "variantlar": [
+    "≈ 3,3 · 10⁵ J",
+    "≈ 4,2 · 10⁴ J",
+    "≈ 6,6 · 10⁵ J",
+    "≈ 4,56 · 10⁵ J"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi hisobning qismlari: −20→0 muz?",
+   "variantlar": [
+    "4200 J",
+    "42 000 J",
+    "420 000 J",
+    "21 000 J"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi hisobning: eritish?",
+   "variantlar": [
+    "42 000 J",
+    "3 300 000 J",
+    "330 000 J",
+    "33 000 J"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi hisobning: suvni 0→20 °C?",
+   "variantlar": [
+    "4200 J",
+    "84 000 J",
+    "8400 J",
+    "840 000 J"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 kg muz 0 °C, 1 kg 20 °C suvga solindi. Muz to'liq erisa Q kerak 3,3 · 10⁵. Suv bera oladigan Q (20→0)?",
+   "variantlar": [
+    "8400 J",
+    "4200 J",
+    "84 000 J",
+    "330 000 J"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi muz to'liq eriydimi?",
+   "variantlar": [
+    "Aniqlab bo'lmaydi",
+    "Ba'zan",
+    "Ha",
+    "Yo'q (84 000 < 330 000)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqorida qancha muz eriydi? (m = 84 000/3,3 · 10⁵)",
+   "variantlar": [
+    "≈ 2,5 kg",
+    "≈ 0,025 kg",
+    "≈ 0,25 kg",
+    "≈ 1 kg"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qo'rg'oshin (λ = 2,5 · 10⁴), c = 130, m = 1 kg, 27 °C dan erishgacha (327 °C) va eritish Q?",
+   "variantlar": [
+    "≈ 6,4 · 10⁵ J",
+    "≈ 3,9 · 10⁴ J",
+    "≈ 2,5 · 10⁴ J",
+    "≈ 6,4 · 10⁴ J"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "100 g muz (0 °C) 1 kVt li isitgichda erishi uchun vaqt (yo'qotishsiz)?",
+   "variantlar": [
+    "100 s",
+    "330 s",
+    "33 s",
+    "3,3 s"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Muz 0 °C, m = 0,2 kg; suv 0 °C emas: 0,4 kg 30 °C. Muz to'liq erishi mumkinmi? Q_suv (30→0) = 50 400 J, Q_muz = 66 000 J.",
+   "variantlar": [
+    "Aniqlab bo'lmaydi",
+    "Ha",
+    "Ba'zan",
+    "Yo'q"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

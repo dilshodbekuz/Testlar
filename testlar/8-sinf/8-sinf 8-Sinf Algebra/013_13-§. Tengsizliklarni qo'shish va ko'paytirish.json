@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Algebra",
+ "mavzu": "13-§. Tengsizliklarni qo'shish va ko'paytirish",
+ "savollar": [
+  {
+   "savol": "a > b va c > d bo'lsa, a + c va b + d ni solishtiring.",
+   "variantlar": [
+    "a + c < b + d",
+    "a + c = b + d",
+    "a + c > b + d",
+    "Aytib bo'lmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir xil ma'noli tengsizliklarni hadlab qo'shish mumkinmi?",
+   "variantlar": [
+    "Ha",
+    "Faqat manfiy sonlarda",
+    "Yo'q",
+    "Faqat butun sonlarda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "3 > 1 va 4 > 2 tengsizliklarni qo'shsak, qanday tengsizlik hosil bo'ladi?",
+   "variantlar": [
+    "12 > 2",
+    "7 < 3",
+    "1 > 7",
+    "7 > 3"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a > b, c > d va hamma sonlar musbat bo'lsa, ac va bd ni solishtiring.",
+   "variantlar": [
+    "ac = bd",
+    "ac < bd",
+    "Aytib bo'lmaydi",
+    "ac > bd"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "2 < 5 va 3 < 4 bo'lsa, 2 + 3 va 5 + 4 ni solishtiring.",
+   "variantlar": [
+    "5 < 9",
+    "5 > 9",
+    "9 < 5",
+    "5 = 9"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "2 < 5 va 3 < 4 bo'lsa, 2·3 va 5·4 ni solishtiring.",
+   "variantlar": [
+    "6 < 20",
+    "6 > 20",
+    "6 = 20",
+    "20 < 6"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Musbat sonli bir xil ma'noli tengsizliklarni hadlab ko'paytirish mumkinmi?",
+   "variantlar": [
+    "Faqat teng bo'lsa",
+    "Faqat manfiy sonlarda",
+    "Ha",
+    "Yo'q"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a < b va c < d bo'lsa, a + c va b + d ni solishtiring.",
+   "variantlar": [
+    "a + c > b + d",
+    "Aytib bo'lmaydi",
+    "a + c = b + d",
+    "a + c < b + d"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x > 1 va y > 2 bo'lsa, x + y qaysi sondan katta?",
+   "variantlar": [
+    "0",
+    "3",
+    "2",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a > 2 va b > 3 bo'lsa (musbat), ab qaysi sondan katta?",
+   "variantlar": [
+    "6",
+    "8",
+    "1",
+    "5"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 < a < 2 va 3 < b < 4 bo'lsa, a + b qaysi oraliqda yotadi?",
+   "variantlar": [
+    "3 < a + b < 5",
+    "4 < a + b < 6",
+    "1 < a + b < 4",
+    "2 < a + b < 6"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 < a < 2 va 3 < b < 4 bo'lsa, ab qaysi oraliqda yotadi?",
+   "variantlar": [
+    "3 < ab < 8",
+    "2 < ab < 6",
+    "3 < ab < 6",
+    "4 < ab < 8"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2 < a < 4 va 1 < b < 3 bo'lsa, a − b uchun to'g'ri baho qaysi?",
+   "variantlar": [
+    "1 < a − b < 1",
+    "−1 < a − b < 1",
+    "−1 < a − b < 3",
+    "0 < a − b < 3"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 < a < 3 bo'lsa, 2a ning yuqori chegarasi nechaga teng?",
+   "variantlar": [
+    "5",
+    "4",
+    "3",
+    "6"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2 < x < 3 va 4 < y < 5 bo'lsa, x + y qaysi oraliqda yotadi?",
+   "variantlar": [
+    "6 < x + y < 9",
+    "6 < x + y < 8",
+    "7 < x + y < 8",
+    "5 < x + y < 8"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a > 5 va b > 4 bo'lsa, a + b > ...?",
+   "variantlar": [
+    "20",
+    "5",
+    "9",
+    "1"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a < 3 va b < 2 bo'lsa (musbat), ab < ...?",
+   "variantlar": [
+    "1",
+    "5",
+    "6",
+    "32"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tengsizliklarni ayirish nega har doim mumkin emas?",
+   "variantlar": [
+    "Amal mavjud emas",
+    "Natija noto'g'ri bo'lishi mumkin",
+    "Manfiy sonlar yo'q",
+    "Ayirish murakkab"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "5 > 1 va 2 > 1 tengsizliklarni hadlab qo'shsak, qaysi tengsizlik hosil bo'ladi?",
+   "variantlar": [
+    "7 > 2",
+    "7 = 2",
+    "3 > 7",
+    "7 < 2"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a > b > 0 bo'lsa, a² va b² ni solishtiring.",
+   "variantlar": [
+    "Aytib bo'lmaydi",
+    "a² < b²",
+    "a² = b²",
+    "a² > b²"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3 > 2 va 10 > 1 tengsizliklarni hadlab ayirsak: 3 − 10 va 2 − 1 ni solishtiring.",
+   "variantlar": [
+    "−7 < 1",
+    "−7 > 1",
+    "−7 = 1",
+    "3 > 2"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "10 > 2 va 3 > 1 misolida 10 − 3 va 2 − 1 ni solishtiring.",
+   "variantlar": [
+    "8 > 3",
+    "7 = 1",
+    "7 < 1",
+    "7 > 1"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Manfiy sonlarni ko'paytirganda bir xil ma'noli tengsizliklarni ko'paytirish mumkinmi?",
+   "variantlar": [
+    "Shartga qarab, natijani tekshirish kerak",
+    "Doim mumkin",
+    "Faqat nol bilan",
+    "Doim mumkin emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "−3 < −1 va −4 < −2. Ularni ko'paytirsak: 12 va 2. Qaysi biri to'g'ri?",
+   "variantlar": [
+    "12 = 2",
+    "Mumkin emas",
+    "12 < 2",
+    "12 > 2"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a, b musbat va a < b bo'lsa, a/b va 1 ni solishtiring.",
+   "variantlar": [
+    "a/b < 1",
+    "Aytib bo'lmaydi",
+    "a/b = 1",
+    "a/b > 1"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "0 < a < 1 bo'lsa, a² va a ni solishtiring.",
+   "variantlar": [
+    "a² > a",
+    "a² < a",
+    "a² = a",
+    "Aytib bo'lmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a > 1 bo'lsa, a² va a ni solishtiring.",
+   "variantlar": [
+    "Aytib bo'lmaydi",
+    "a² = a",
+    "a² < a",
+    "a² > a"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2 < x < 3 va 1 < y < 2 bo'lsa, x/y ning qiymati qaysi oraliqda?",
+   "variantlar": [
+    "2 < x/y < 3",
+    "1 < x/y < 6",
+    "1 < x/y < 3",
+    "1 < x/y < 2"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a > 0, b > 0 bo'lsa, (a + b)(1/a + 1/b) ifoda eng kamida nechaga teng?",
+   "variantlar": [
+    "1",
+    "2",
+    "8",
+    "4"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x > 3 va y > 4 bo'lsa, xy qaysi sondan katta?",
+   "variantlar": [
+    "7",
+    "34",
+    "1",
+    "12"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "40-§. Bug'lanish va kondensatsiya",
+ "savollar": [
+  {
+   "savol": "Bug'lanish nima?",
+   "variantlar": [
+    "Qotish",
+    "Erish",
+    "Kondensatsiya",
+    "Suyuqlikning bug'ga aylanishi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kondensatsiya nima?",
+   "variantlar": [
+    "Qotish",
+    "Bug'lanish",
+    "Bug'ning suyuqlikka aylanishi",
+    "Erish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bug'lanishning turlari?",
+   "variantlar": [
+    "Bug'lanish va qaynash",
+    "Faqat qotish",
+    "Faqat qaynash",
+    "Faqat erish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bug'lanish qaysi t da bo'ladi?",
+   "variantlar": [
+    "Faqat 100 °C da",
+    "Har qanday t da",
+    "Faqat past t da",
+    "Faqat 0 °C da"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaynash nima?",
+   "variantlar": [
+    "Suyuqlik hajmida bug' hosil bo'lishi",
+    "Sovish",
+    "Erish",
+    "Faqat sirtdan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suvning qaynash t (normal bosimda)?",
+   "variantlar": [
+    "50 °C",
+    "200 °C",
+    "0 °C",
+    "100 °C"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaynash paytida t?",
+   "variantlar": [
+    "Nol",
+    "O'zgarmaydi",
+    "Ortadi",
+    "Kamayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Solishtirma bug'lanish issiqligi qaysi harf?",
+   "variantlar": [
+    "c",
+    "q",
+    "r (yoki L)",
+    "λ"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bug'lanish issiqligi formulasi?",
+   "variantlar": [
+    "Q = rm",
+    "Q = r + m",
+    "Q = m/r",
+    "Q = r/m"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suvning solishtirma bug'lanish issiqligi?",
+   "variantlar": [
+    "4200 J/kg",
+    "900 J/kg",
+    "2,3 · 10⁶ J/kg",
+    "3,3 · 10⁵ J/kg"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bug'lanish tezligi temperatura ortsa?",
+   "variantlar": [
+    "Nol",
+    "Ortadi",
+    "O'zgarmaydi",
+    "Kamayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sirt yuzasi ortsa bug'lanish tezligi?",
+   "variantlar": [
+    "Ortadi",
+    "Kamayadi",
+    "Nol",
+    "O'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shamol bo'lsa bug'lanish tezligi?",
+   "variantlar": [
+    "Ortadi",
+    "O'zgarmaydi",
+    "Kamayadi",
+    "Nol"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bug'lanishda suyuqlik?",
+   "variantlar": [
+    "Soviydi",
+    "Isiydi",
+    "O'zgarmaydi",
+    "Nol"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun terlagan tana soviydi?",
+   "variantlar": [
+    "Massa",
+    "Ter bug'lanishida issiqlik olinadi",
+    "Rang",
+    "Sovuq"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "m = 0,5 kg suv 100 °C da bug'lanishi uchun Q = rm = ?",
+   "variantlar": [
+    "4,6 · 10⁵ J",
+    "1,15 · 10⁶ J",
+    "2,3 · 10⁶ J",
+    "1,15 · 10⁵ J"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Q = 4,6 · 10⁶ J, r = 2,3 · 10⁶. m = ?",
+   "variantlar": [
+    "20 kg",
+    "10 kg",
+    "2 kg",
+    "0,5 kg"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bug' kondensatsiyalanganda issiqlik?",
+   "variantlar": [
+    "Nol",
+    "O'zgarmaydi",
+    "Yutiladi",
+    "Ajraladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bosim ortsa qaynash t?",
+   "variantlar": [
+    "Nol",
+    "O'zgarmaydi",
+    "Kamayadi",
+    "Ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tog'da baland joyda suv qaynash t?",
+   "variantlar": [
+    "Past",
+    "Aniqlab bo'lmaydi",
+    "Teng",
+    "Yuqori"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 kg suv 20 °C dan 100 °C gacha isitilib bug'ga aylanadi. Q = ?",
+   "variantlar": [
+    "≈ 6,6 · 10⁵ J",
+    "≈ 2,64 · 10⁶ J",
+    "≈ 3,4 · 10⁵ J",
+    "≈ 2,3 · 10⁶ J"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi hisobning bug'lanish qismi?",
+   "variantlar": [
+    "4200 J",
+    "2,64 · 10⁶ J",
+    "3,36 · 10⁵ J",
+    "2,3 · 10⁶ J"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "100 °C bug' 1 kg suvga aylanganda ajralgan issiqlik?",
+   "variantlar": [
+    "3,36 · 10⁵ J",
+    "2,3 · 10⁶ J",
+    "4200 J",
+    "0"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bug'ning 100 °C da kondensatsiya issiqligi 2,3 MJ, suv 100 °C dan 20 °C gacha soviydi. Umumiy ajralgan Q (1 kg)?",
+   "variantlar": [
+    "≈ 3,4 · 10⁵ J",
+    "≈ 2,64 · 10⁶ J",
+    "≈ 6,6 · 10⁵ J",
+    "≈ 2,3 · 10⁶ J"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bug' bilan kuyish suv bilan kuyishdan xavfliroq. Sababi?",
+   "variantlar": [
+    "Kondensatsiya issiqligi ajraladi",
+    "Rang",
+    "Massa",
+    "Sovuq"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bosim qozoni (avtoklav) nimaga asoslangan?",
+   "variantlar": [
+    "Bosim ortsa qaynash t ortishiga",
+    "Rang",
+    "Massa",
+    "Sovutish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun issiq choy puflaganda soviydi?",
+   "variantlar": [
+    "Rang",
+    "Sovuq",
+    "Massa",
+    "Bug'lanish tezlashadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kritik temperatura nima?",
+   "variantlar": [
+    "Undan yuqorida gaz siqib suyuqlikka aylantirilmaydi",
+    "Qaynash t",
+    "Xona t",
+    "Erish t"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bug' va gaz farqi nimada?",
+   "variantlar": [
+    "Bug' kritik t dan past t dagi gaz (suyuqlanadi)",
+    "Farq yo'q",
+    "Gaz sovuq",
+    "Bug' issiq"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "To'yingan bug' nima?",
+   "variantlar": [
+    "Gaz",
+    "Suyuqlik bilan dinamik muvozanatdagi bug'",
+    "Sovuq bug'",
+    "Quruq bug'"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

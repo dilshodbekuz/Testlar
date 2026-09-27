@@ -4,12 +4,12 @@
  "mavzu": "Bug'doy va qora don",
  "savollar": [
   {
-   "savol": "Bug'doy qanday oyda pishib yetiladi?",
+   "savol": "Bug'doy qaysi oyda pishib yetiladi?",
    "variantlar": [
-    "Oktabr oyda",
-    "Avgust oyda",
-    "Iyul oyda",
-    "Sentabr oyda"
+    "Dekabr oyida",
+    "Iyun oyida",
+    "Mart oyida",
+    "Noyabr oyida"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -37,14 +37,14 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Makkajo'xori qanday oyda pishib yetila boshlaydi?",
+   "savol": "Makkajo'xori qachon pishib yetiladi?",
    "variantlar": [
-    "Iyun oyda",
-    "Iyul oyda",
-    "May oyda",
-    "Aprel oyda"
+    "Mart oyida",
+    "Aprel oyida",
+    "Avgust–sentabr oylarida",
+    "Yanvar oyida"
    ],
-   "togri": 0,
+   "togri": 2,
    "qiyinlik": "oson"
   },
   {
@@ -114,11 +114,11 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Bug'doy donlarini qanday usulda o'rilib donlari ajratib olinadi?",
+   "savol": "Bug'doy nima bilan o'rilib, donlari ajratib olinadi?",
    "variantlar": [
-    "Asmon bilan",
+    "Arra bilan",
     "Qo'l bilan",
-    "Texnika bilan",
+    "Belkurak bilan",
     "Kombayni bilan"
    ],
    "togri": 3,
@@ -180,10 +180,10 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Makkajo'xori donlari erta bahorda qanday vaqtda ekiladi?",
+   "savol": "Makkajo'xori qaysi faslda ekiladi?",
    "variantlar": [
     "Kuzda",
-    "Bahorida",
+    "Bahorda",
     "Yozda",
     "Qishda"
    ],
@@ -224,10 +224,10 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Bug'doy mahsulotini butun jarayonni aniqlang: donlari qanday olinadi va keyin qanday mahsulotga aylantiriladi?",
+   "savol": "Bug'doy donidan un qanday olinadi?",
    "variantlar": [
-    "Kombayni bilan o'rilib elevator orqali tekshirib tegirmonda yanchilib un bo'ladi",
-    "Suv orqali o'rilib quyrg'onda yanchilib un bo'ladi",
+    "Kombayn bilan o'rilib, donlari tegirmonda yanchilib un qilinadi",
+    "Suvda ivitib, quritib un qilinadi",
     "Qo'l bilan o'rilib un bo'ladi",
     "Mashinada o'rilib qudam bilan yecib un bo'ladi"
    ],
@@ -238,53 +238,53 @@
    "savol": "Sholi uchun pollar tayyorlanayotganda qanday shartlar bajarilishi kerak?",
    "variantlar": [
     "Faqat shakli to'rtburchak bo'lishi kerak",
-    "Faqat chuqurligifn aniq bo'lishi kerak",
+    "Faqat chuqurligi aniq bo'lishi kerak",
     "Faqat forma muhim bo'lib boshqa hech narsa kerak emas",
-    "Chuqurligifn 30-40 sm bo'lib suv to'ldirilishi va o'sish davrida 10-20 sm qalinlikda suv bo'lishi kerak"
+    "Pollar to'rtburchak, 30–40 sm chuqur qilinadi va o'sish davrida 10–20 sm suv turadi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Agar makkajo'xori bo'yi 2 metrga yetsa va ba'zilari undan ham baland bo'lsa, eng baland makkajo'xori minimal necha metrdan ko'p bo'lishi kerak?",
+   "savol": "Makkajo'xorining bo'yi bug'doynikiga nisbatan qanday?",
    "variantlar": [
-    "2 metrdan kam",
-    "2 metrdan ko'p",
-    "1 metrga teng",
-    "Aniq 2 metr"
+    "Ancha past",
+    "Ancha baland (2 metrgacha)",
+    "Bir xil",
+    "Bug'doyning bo'yi 3 metr"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Bug'doy donlarini yig'ishni qaysi oyda boshlash kerak va buning uchun qanday vosita ishlatiladi?",
+   "savol": "Bug'doy qaysi oyda va nima yordamida yig'ib olinadi?",
    "variantlar": [
-    "Oktabr oyida osmon bilan",
-    "Sentabr oyida texnika bilan",
-    "Avgust oyida kombayni bilan",
-    "Iyul oyida qo'l bilan"
+    "Oktabr oyida qo'l bilan",
+    "Dekabr oyida traktor bilan",
+    "Iyun oyida kombayn bilan",
+    "Mart oyida qo'l bilan"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Agar sholi sentabr oyida pishib yetsa, shu oyda yig'ilishning boshlang'ich sharti qanday bo'ladi?",
+   "savol": "Sholi nima uchun Xorazm va Qoraqalpog'istonda ko'p yetishtiriladi?",
    "variantlar": [
-    "Barglari sarialang'a bo'lgan bo'ladi",
-    "Sholi tipik bo'lib ketgan bo'ladi",
-    "Pollar qurib ketgan bo'ladi",
-    "Polda yanazam suv bo'ladi"
+    "Tog'li joy bo'lgani uchun",
+    "Amudaryo yaqin bo'lib, suv ko'p bo'lgani uchun",
+    "Qor ko'p yog'gani uchun",
+    "Havosi sovuq bo'lgani uchun"
    ],
-   "togri": 3,
+   "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Makkajo'xori uchun eng ma'noli xususiyat qanday?",
+   "savol": "Makkajo'xori o'sishiga xos xususiyat qaysi?",
    "variantlar": [
     "Sekin o'sish",
     "Tez o'sish",
-    "Qush o'sish",
-    "Dastlabki mehnat"
+    "Qishda o'sish",
+    "Faqat suvda o'sish"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -301,12 +301,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Makkajo'xori barglari qanday bo'ladi va bu uning katta bo'yiga qanday ta'sir qiladi?",
+   "savol": "Makkajo'xori barglari qanday bo'ladi?",
    "variantlar": [
-    "Tor va qisqa bo'ladi",
-    "Tor va uzun bo'ladi",
-    "Eng va uzun bo'ladi va bu katta bo'yini ta'minlaydi",
-    "Eng va qisqa bo'ladi"
+    "Mayda va ignasimon",
+    "Tor va qisqa",
+    "Keng va uzun",
+    "Barglari bo'lmaydi"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"

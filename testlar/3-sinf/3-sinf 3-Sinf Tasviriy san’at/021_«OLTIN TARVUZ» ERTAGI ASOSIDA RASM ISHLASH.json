@@ -6,7 +6,7 @@
   {
    "savol": "\"Oltin tarvuz\" ertakida dehqon qanday daraj odam?",
    "variantlar": [
-    "Boy rassomi",
+    "Boy",
     "Kambag'al",
     "Otaxon",
     "Shoir"
@@ -20,7 +20,7 @@
     "O'lik holatda",
     "Qo'rqib ketibdi",
     "Sog' holatda",
-    "Siniq qanotida"
+    "Qanoti singan holda"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -42,7 +42,7 @@
     "Qanotini",
     "Ko'zini",
     "Ichini",
-    "Nozikini"
+    "Tumshug'ini"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -52,21 +52,21 @@
    "variantlar": [
     "Oltin pul",
     "Uch dona tarvuz urug'i",
-    "Ollomon",
-    "Soqoq-chechak"
+    "Qimmatbaho tosh",
+    "Gul"
    ],
    "togri": 1,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Rasm ishlashning birinchi bosqichi noma'lum?",
+   "savol": "Rasm ishlashning birinchi bosqichi nima?",
    "variantlar": [
     "Bo'yash",
-    "Raskaska qilish",
+    "Tasvirni qog'ozga joylashtirish",
     "Qalamda xomaki ishlash",
     "Tasvirni qalamda yakunlash"
    ],
-   "togri": 2,
+   "togri": 1,
    "qiyinlik": "oson"
   },
   {
@@ -77,11 +77,11 @@
     "Ikkinchi bosqich",
     "To'rtinchi bosqich"
    ],
-   "togri": 2,
+   "togri": 1,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Qutlug' Basharov qaysi daromaddan mashhur?",
+   "savol": "Qutlug' Basharov kim?",
    "variantlar": [
     "O'zbek xalq rassomi",
     "Doktor",
@@ -94,12 +94,12 @@
   {
    "savol": "Dehqon chigit ekayotganida nima sodir bo'ldi?",
    "variantlar": [
-    "Laylak qaytib keldi",
+    "Laylak qanoti singan holda yiqilib tushdi",
     "Chigit bilan birga tarvuz unib chiqdi",
-    "Shamol chiqdi",
-    "Yomg'ir yoğdi"
+    "Kuchli shamol chiqdi",
+    "Yomg'ir yog'di"
    ],
-   "togri": 1,
+   "togri": 0,
    "qiyinlik": "oson"
   },
   {
@@ -117,9 +117,9 @@
    "savol": "Ertakda dehqon laylakni parvarishlashining asosiy sababini toping?",
    "variantlar": [
     "Faqat vaqt o'tkazish",
-    "Laylakni satib qo'ymoq",
-    "Har kuni sho'rlansa deb",
-    "Behuda jonli mavjudotga mehr va oqibat ko'rsatmoq"
+    "Laylakni sotish uchun",
+    "Go'shtini yeyish uchun",
+    "Jonli mavjudotga mehr ko'rsatish uchun"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -150,9 +150,9 @@
    "savol": "Ijobiy fe'l-atvorli qahramon qanday sifatlari bilan tasvirlanadi?",
    "variantlar": [
     "Mehr-oqibat, mehribonlik, saxoyat",
-    "Qo'rqoq va ozod",
-    "Qovog'i o'ynab, xumsira",
-    "Xursand emas, ro'ya yuzi"
+    "Qo'rqoq va dangasa",
+    "Qovog'i solingan, qo'pol",
+    "Xafa va norozi"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -193,7 +193,7 @@
   {
    "savol": "Ertakda \"oltin\" so'zining to'g'ri talqini qanday?",
    "variantlar": [
-    "Qadrli, naqad ne'mat, qimmatbaho",
+    "Qadrli, noyob ne'mat",
     "Mahalliy pul",
     "Haqiqatan oltin metall",
     "Faqat rangi"
@@ -215,7 +215,7 @@
   {
    "savol": "Rasm ishlashning to'rt bosqichini ketma-ketlik bilan bajarish nima uchun zarur?",
    "variantlar": [
-    "Waqtni tejash uchun",
+    "Vaqtni tejash uchun",
     "Rasm noto'g'ri va butunliksiz bo'lib qolmaslik uchun",
     "Ranglarni tejash uchun",
     "Tezroq tugallash uchun"
@@ -237,7 +237,7 @@
   {
    "savol": "Laylak tashlab ketgan tarvuz urug'lari ertakda qanday chuqur ma'noni o'z ichiga oladi?",
    "variantlar": [
-    "Mehnatning barokati va sadaqaning natijavoy ekanligini",
+    "Mehr va yaxshilikning barakasini",
     "Dehqonning boylikka aylanishini",
     "Faqat tabiiy jarayonni",
     "Faqat o'simlishni ko'rsatadi"
@@ -260,7 +260,7 @@
    "savol": "\"Kambag'al dehqon\" ifodasi ertakda qanday ijtimoiy fikrni bildiradi?",
    "variantlar": [
     "Dehqonni tanqid qilishni",
-    "Ezgulik, sodiqlik kambag'alligi ham bo'lsa muhim ekanligini",
+    "Kambag'al bo'lsa ham ezgulik va sadoqat muhimligini",
     "Faqat kambag'allik",
     "Faqat iqtisodiy masalani"
    ],
@@ -282,9 +282,9 @@
    "savol": "\"Oltin tarvuz\" ertagi asosida rasm ishlashning badiiy maqsadi nima?",
    "variantlar": [
     "Vaqtni o'tkazish",
-    "Faqat qalamlarni shu'roti",
+    "Faqat qalam sotish",
     "Ertak tabiiy mazmunini vizual va badiiy shaklda ifodalash",
-    "O'suvchi nesni o'qitish"
+    "Faqat o'qish"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -314,7 +314,7 @@
   {
    "savol": "Ertakda laylakni \"osmond uchib kelayotgan\" deb tasvirlanishining chuqur ma'nosi qanday?",
    "variantlar": [
-    "Ozodlik, toza hayot va tabiatning sadoqasinni ramziy tarzda",
+    "Ozodlik va tabiatning go'zalligini",
     "Faqat hayvonni tavsifi",
     "Faqat uchish qobiliyati",
     "Tabiiy jarayonni faqat"
@@ -325,10 +325,10 @@
   {
    "savol": "Dehqonning \"siniq qanotiga taxtakach bog'lash\" harakati ertakda qanday insoniy sifatini ko'rsatadi?",
    "variantlar": [
-    "Shunchaki mehribonlik",
+    "Laylakdan foyda kutish",
     "Behuda yaxshi faqat",
     "Faqat hayvonlarni o'ylab",
-    "Ehtiyojning bo'lgan jonli mavjudotga mehr va sa'y-harakatni"
+    "Muhtoj jonzotga mehr va g'amxo'rlik"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"

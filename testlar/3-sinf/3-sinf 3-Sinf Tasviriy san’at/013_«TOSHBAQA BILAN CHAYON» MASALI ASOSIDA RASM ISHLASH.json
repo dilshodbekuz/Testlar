@@ -26,34 +26,34 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Toshbaqa va chayon qayerga safarga chiqdilar?",
+   "savol": "Toshbaqa va chayon yo'lda nimaga duch keldilar?",
    "variantlar": [
-    "Maktabga",
-    "Bozorga",
-    "Uyga",
-    "Yo'lga"
+    "Katta daryoga",
+    "Baland tog'ga",
+    "Qalin o'rmonga",
+    "Cho'lga"
    ],
-   "togri": 3,
+   "togri": 0,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Toshbaqa va chayon qaysi vaqt katta daryoga duch keldilar?",
+   "savol": "Toshbaqa chayonni daryodan qanday o'tkazdi?",
    "variantlar": [
-    "Shaxrda",
-    "Uyda",
-    "Qishloqda",
-    "Yo'lda"
+    "Qayiqda",
+    "Ko'prikdan",
+    "O'z ustiga mindirib",
+    "Uchib"
    ],
-   "togri": 3,
+   "togri": 2,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Chayon nima qilishni ish tutadi?",
+   "savol": "Chayonning odati nima?",
    "variantlar": [
     "Toshbaqani saqlashni",
-    "Nayzasini boshqalarga sanchab turishni",
+    "Nishini boshqalarga sanchish",
     "Gul yetishtirshni",
-    "Daryo suvini ishlab berishni"
+    "Daryo suvini ichish"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -73,8 +73,8 @@
    "savol": "Toshbaqa daryo tubiga nima sababli sho'ng'idi?",
    "variantlar": [
     "Javohir tomosha qilish uchun",
-    "Oling suv uchun",
-    "Chayon qilindirish uchun",
+    "Suv ichish uchun",
+    "Chayonni o'ynatish uchun",
     "Suvni o'rganish uchun"
    ],
    "togri": 0,
@@ -85,7 +85,7 @@
    "variantlar": [
     "Davlat bizning bogimiz",
     "Yaxshiga yondash, yomondan qoch",
-    "Mehnatni kim yoqlimas",
+    "Mehnatni kim yoqlamas",
     "Bilim nur, jahol zulmat"
    ],
    "togri": 1,
@@ -95,9 +95,9 @@
    "savol": "Kamoliddin Behzod kimning asarlariga illustratsiyalar ishlagan?",
    "variantlar": [
     "Ulugbek va Amir Temurning",
-    "Firdavsi va Nizomiyning",
+    "Pushkin va Lermontovning",
     "Mirzo Ulugbek va Bobur Mirzaning",
-    "A. Navoiy, Bobur va boshqa shoirlarning"
+    "A. Navoiy, Sa'diy va boshqa shoirlarning"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -114,14 +114,14 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Agar chayon toshbaqaga nish ura olmasa, nima bo'lardi?",
+   "savol": "Toshbaqa suvga sho'ng'iganda chayonga nima bo'ldi?",
    "variantlar": [
-    "Toshbaqa suvga cho'kib ketardi",
-    "Ulardan hech nima bo'lmardi",
-    "Ikkovlari do'st bo'lib qolardi",
-    "Chayon daryo o'rtasida qolardi"
+    "Qirg'oqqa sakrab chiqdi",
+    "Suvga cho'kib halok bo'ldi",
+    "Toshbaqaga do'st bo'ldi",
+    "Uchib ketdi"
    ],
-   "togri": 0,
+   "togri": 1,
    "qiyinlik": "o'rtacha"
   },
   {
@@ -129,7 +129,7 @@
    "variantlar": [
     "Toshbaqa uni ustiga mindirib ulgurdi",
     "U qo'rqib ketdi",
-    "Daryo buzoq edi",
+    "Daryo sayoz edi",
     "O'zining tabiati shunakki, hamma narsaga nish ura berdi"
    ],
    "togri": 3,
@@ -140,7 +140,7 @@
    "variantlar": [
     "Uni sinab ko'rmoqchi ekanligini aytdi",
     "Shukr aytdi",
-    "Yugulib ketdi",
+    "Yugurib ketdi",
     "Hamdardlik ko'rsatdi"
    ],
    "togri": 0,
@@ -149,10 +149,10 @@
   {
    "savol": "«Yaxshilikka – yomonlik» degani nimani anglatadi?",
    "variantlar": [
-    "Yaxshilik bilan javob bermaydigan mavjudki odam mavjud",
-    "Harqanday insan yaxshi",
+    "Yaxshilikka yomonlik bilan javob beradiganlar ham bor",
+    "Har qanday inson yaxshi",
     "Hamma insonlar yaxshi",
-    "Hamma yomonlar xoh yaxshi"
+    "Hamma yomonlar yaxshi bo'ladi"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -174,7 +174,7 @@
     "Asar mazmunini ko'rgazmali tasvirlovchi va to'ldiruvchi bo'lish",
     "Kitobning qiymatini oshirish",
     "Faqat rasmlarni qo'shish",
-    "O'quvchini kuting berish"
+    "O'quvchini chalg'itish"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -182,7 +182,7 @@
   {
    "savol": "Chayon niyatida yaxshilik yo'q ekanligini Toshbaqa qaysi belgi orqali tushunib oldi?",
    "variantlar": [
-    "Chayon suvni sichqantirib yubordi",
+    "Chayon suvni sachratdi",
     "Chayon toshbaqaga salom berdi",
     "Chayon qichqirib yubordi",
     "Chayon daryo o'rtasida bejo harakat qila boshladi"
@@ -193,10 +193,10 @@
   {
    "savol": "Agar toshbaqa chayon haqida oldindan bilgan bo'lsa, nima qilardi?",
    "variantlar": [
-    "Uning sozi ishonardi",
+    "Uning so'ziga ishonardi",
     "Chayon bilan do'st bo'lardi",
     "Uni olib o'tmadi",
-    "Yanada ehtiyotli bo'lardi"
+    "Uni uyiga mehmonga chaqirardi"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -204,10 +204,10 @@
   {
    "savol": "Masalada tasvirlangan voqeaning asosiy sababi nima edi?",
    "variantlar": [
-    "Chayon tabiatan kamon, yomonlikka moyil",
-    "Toshbaqa hafsalahaga moyil edi",
+    "Chayon tabiatan yomonlikka moyil edi",
+    "Toshbaqa dangasa edi",
     "Daryo o'ta xavfli edi",
-    "Shayx shunlarning buzmoqchi edi"
+    "Shayx shunday buyurgan edi"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -215,10 +215,10 @@
   {
    "savol": "Masalaning eng muhim paytasi qaysi?",
    "variantlar": [
-    "Daryo suvlari qurmaqda edi",
+    "Daryo quriyotgan payt",
     "Chayon daryo o'rtasida toshbaqani sinab ko'rmoqchi bo'lgan voqe",
-    "Toshbaqa Behzod haqida kitob o'qigan",
-    "Chayon bozi o'ynab yotgan edi"
+    "Toshbaqa kitob o'qigan payt",
+    "Chayon o'ynayotgan payt"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -227,7 +227,7 @@
    "savol": "Toshbaqa «mening ishim daryo tubiga javohirlarini tomosha qilishdir» deb nima aytmoqchi edi?",
    "variantlar": [
     "Har bir jonivarning o'ziga xos maqsadi va ishi borligini",
-    "Javohir yosh va qolganiladi",
+    "Javohirlar qimmat ekanini",
     "U buyuk inson ekanligini",
     "Daryo o'ta chuqur ekanligini"
    ],
@@ -237,9 +237,9 @@
   {
    "savol": "Chayon niyati haqida Toshbaqa nimni bilib oldi va uni qanday hal qildi?",
    "variantlar": [
-    "Chayon bilgan bo'ladi, shuning uchun u qo'rqib ketdi",
-    "Chayon yaxshi bola ekanligini, shuning uchun unga amin berdi",
-    "Chayon hunarmandligini, shuning uchun uning asobi berdi",
+    "Chayon qo'rqib ketganini",
+    "Chayon yaxshi ekanini, shuning uchun unga ishondi",
+    "Chayon hunarmand ekanini",
     "Chayon yomonlik niyati borligini, shuning uchun daryo tubiga sho'ng'idi"
    ],
    "togri": 3,
@@ -251,7 +251,7 @@
     "Chayon hech kishini xafa qilmaydi",
     "Chayon tabiatan zararli va ishontirish qiyn",
     "Chayon yaxshi inson ekanligini",
-    "Chayon faqat do'stlarga zara beradi"
+    "Chayon faqat do'stlariga zarar beradi"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -268,12 +268,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Agar toshbaqa va chayon yoshlikda muxtoj bo'lganlaridan, nega masala nihoyat bu tarzda yakunlandi?",
+   "savol": "Masala nima uchun shunday yakunlandi?",
    "variantlar": [
     "Ikkovlari do'st bo'lib qolishdi",
-    "Chayon tabiatan yomonlikka moyil bo'lgani uchun, toshbaqa uni o'tkazib tatol qildi",
+    "Chayon tabiatan yomonlikka moyil bo'lgani uchun, toshbaqa uni suvga tashlab qutuldi",
     "Chayonning yomonligi o'zgarib ketdi",
-    "Toshbaqa Behzodning asarlari haqida o'qib ketdi"
+    "Toshbaqa kitob o'qib ketdi"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -283,8 +283,8 @@
    "variantlar": [
     "Daryo sayohati juda qiziqarli",
     "Barcha insonlar yaxshi",
-    "Insonning tabiati o'tgacha qoladi, shuning uchun yaxshiga yondash va yomondan qochish kerak",
-    "Chayon faqat rasm shu sababli ishlangan"
+    "Yomonning tabiati o'zgarmaydi, shuning uchun yaxshiga yondash, yomondan qoch",
+    "Chayon faqat rasm uchun chizilgan"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -315,8 +315,8 @@
    "savol": "Agar siz «Toshbaqa bilan chayon» masalisiga kitob qopining illustratsiyasini tuzing kerak bo'lsa, asosiy qismda nimani tasvirlarsingiz?",
    "variantlar": [
     "Faqat chayon rasmi",
-    "Masalaning eng o'tmaksiz voqeasi – daryo o'rtasida toshbaqa va chayonning uchrashuvi",
-    "Shaxarni va daryo ko'pritisini",
+    "Masalaning eng ta'sirli voqeasi — daryo o'rtasida toshbaqa ustidagi chayon",
+    "Shahar va daryo ko'prigini",
     "Faqat Kamoliddin Behzod rasmi"
    ],
    "togri": 1,

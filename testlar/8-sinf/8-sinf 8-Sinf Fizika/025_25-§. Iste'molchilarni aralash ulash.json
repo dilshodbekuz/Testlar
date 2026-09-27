@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "25-§. Iste'molchilarni aralash ulash",
+ "savollar": [
+  {
+   "savol": "Aralash ulanish nima?",
+   "variantlar": [
+    "Faqat ketma-ket",
+    "Ketma-ket va parallel ulanishlarning birga qo'llanishi",
+    "Ulanmagan",
+    "Faqat parallel"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aralash ulanishni hisoblashda avval nima topiladi?",
+   "variantlar": [
+    "Kuchlanish",
+    "Umumiy tok",
+    "Sodda (parallel yoki ketma-ket) qismlar qarshiligi",
+    "Massa"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ketma-ket qismning R formulasi?",
+   "variantlar": [
+    "1/R = 1/R₁ + 1/R₂",
+    "R = R₁ − R₂",
+    "R = R₁R₂",
+    "R = R₁ + R₂"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Parallel qismning R formulasi?",
+   "variantlar": [
+    "R = R₁ − R₂",
+    "R = R₁ + R₂",
+    "R = R₁R₂",
+    "1/R = 1/R₁ + 1/R₂"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikkita bir xil R parallel bo'lsa, ularning R umumiy?",
+   "variantlar": [
+    "R²",
+    "R/2",
+    "R",
+    "2R"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "R₁ = 2 Om ketma-ket (R₂ = 3 Om ∥ R₃ = 6 Om). R₂∥R₃ = ?",
+   "variantlar": [
+    "18 Om",
+    "9 Om",
+    "4,5 Om",
+    "2 Om"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "R₁ = 2 Om + (R₂ ∥ R₃ = 2 Om). Umumiy R = ?",
+   "variantlar": [
+    "1 Om",
+    "2 Om",
+    "4 Om",
+    "8 Om"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aralash ulanish sxemasi qaysi?",
+   "variantlar": [
+    "Faqat bitta tarmoq",
+    "Faqat manba",
+    "Ham ketma-ket, ham parallel qismlari bor",
+    "Faqat tugun"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aralash ulanishda umumiy tok qayerdan o'tadi?",
+   "variantlar": [
+    "Ketma-ket qismdan",
+    "Faqat manbadan",
+    "O'tmaydi",
+    "Faqat parallel qismdan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ekvivalent (teng kuchli) qarshilik nima?",
+   "variantlar": [
+    "O'rtacha",
+    "Eng kichik R",
+    "Butun aralash zanjirning o'rniga qo'yiladigan bitta qarshilik",
+    "Eng katta R"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "R₁ = 4 Om ketma-ket (R₂ = 6 Om ∥ R₃ = 12 Om). Umumiy R?",
+   "variantlar": [
+    "4 Om",
+    "8 Om",
+    "16 Om",
+    "22 Om"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi zanjirda U = 16 V. Umumiy tok?",
+   "variantlar": [
+    "0,5 A",
+    "4 A",
+    "8 A",
+    "2 A"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(R₁ = 2 Om ∥ R₂ = 2 Om) ketma-ket R₃ = 3 Om. Umumiy R?",
+   "variantlar": [
+    "5 Om",
+    "1 Om",
+    "7 Om",
+    "4 Om"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi zanjirda U = 8 V. Umumiy tok?",
+   "variantlar": [
+    "1 A",
+    "2 A",
+    "0,5 A",
+    "4 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(R₁ = 6 Om ∥ R₂ = 3 Om) ketma-ket R₃ = 2 Om. Umumiy R?",
+   "variantlar": [
+    "4 Om",
+    "1,6 Om",
+    "11 Om",
+    "3 Om"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "4 ta bir xil R = 2 Om: ikkitasi ketma-ket, shu qism ikkinchi ikkitaga parallel. Umumiy R?",
+   "variantlar": [
+    "4 Om",
+    "8 Om",
+    "2 Om",
+    "1 Om"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Aralash ulanishda ketma-ket qism kuchlanishi qanday topiladi?",
+   "variantlar": [
+    "U = R/I",
+    "U = I + R",
+    "U = I·R",
+    "U = I/R"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "R₁ = 10 Om ketma-ket (R₂ = 20 Om ∥ R₃ = 20 Om). Umumiy R?",
+   "variantlar": [
+    "50 Om",
+    "30 Om",
+    "20 Om",
+    "40 Om"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi zanjirda U = 40 V. Umumiy tok?",
+   "variantlar": [
+    "2 A",
+    "4 A",
+    "0,8 A",
+    "1 A"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi zanjirda R₁ dagi kuchlanish (I = 2 A)?",
+   "variantlar": [
+    "5 V",
+    "40 V",
+    "10 V",
+    "20 V"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "R₁ = 1 Om ketma-ket (R₂ = 3 Om ∥ R₃ = 6 Om) ketma-ket R₄ = 2 Om. Umumiy R?",
+   "variantlar": [
+    "5 Om",
+    "12 Om",
+    "3 Om",
+    "8 Om"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi zanjirda U = 10 V. Umumiy tok?",
+   "variantlar": [
+    "10 A",
+    "0,5 A",
+    "2 A",
+    "5 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi zanjirda (I = 2 A) R₂∥R₃ qismdagi kuchlanish?",
+   "variantlar": [
+    "2 V",
+    "6 V",
+    "4 V",
+    "12 V"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi zanjirda (R₂∥R₃ da U = 4 V) R₂ = 3 Om dan o'tgan tok?",
+   "variantlar": [
+    "4 A",
+    "0,67 A",
+    "2 A",
+    "1,33 A"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi zanjirda R₃ = 6 Om dan o'tgan tok (U = 4 V)?",
+   "variantlar": [
+    "2 A",
+    "4 A",
+    "0,67 A",
+    "1,33 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita parallel tarmoq: 1-tarmoqda 2 Om + 4 Om ketma-ket, 2-tarmoqda 6 Om. Umumiy R?",
+   "variantlar": [
+    "1,5 Om",
+    "6 Om",
+    "3 Om",
+    "12 Om"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi zanjirda U = 12 V. Umumiy tok?",
+   "variantlar": [
+    "2 A",
+    "36 A",
+    "1 A",
+    "4 A"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi zanjirda 1-tarmoq toki?",
+   "variantlar": [
+    "1 A",
+    "2 A",
+    "12 A",
+    "4 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Aralash ulanishda umumiy R ning eng kichik qiymati qanday bo'lishi mumkin?",
+   "variantlar": [
+    "Har doim yig'indi",
+    "Eng kichik R dan kichik",
+    "Nol",
+    "Eng katta R dan katta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3 ta R = 6 Om: ikkitasi parallel, uchinchisi ular bilan ketma-ket. Umumiy R?",
+   "variantlar": [
+    "4 Om",
+    "9 Om",
+    "2 Om",
+    "18 Om"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

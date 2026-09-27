@@ -9,7 +9,7 @@
     "Shoshqacha qaror qabul qilish",
     "Kattalarni g'amgin qilish",
     "Behuda ishlar qilish",
-    "Nozuq va e'tibor bilan ishlash"
+    "Har ishni o'ylab, e'tibor bilan qilish"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -63,8 +63,8 @@
    "variantlar": [
     "O'yiniga qaytardiler",
     "Qirg'oqqa oldilar",
-    "Xonajoniga olib ketdilar",
-    "Bunga oldilar"
+    "Uyiga olib ketdilar",
+    "Maktabga olib ketdilar"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -72,7 +72,7 @@
   {
    "savol": "Sun'iy nafas berish nima?",
    "variantlar": [
-    "Joningni sog'ligi uchun nafas berish",
+    "Nafas olmayotgan odamga og'izdan havo berib, nafasini tiklash",
     "Yuzni suvda cho'mish",
     "Suv ichish",
     "Oddiy nafas olish"
@@ -85,14 +85,14 @@
    "variantlar": [
     "Suv ko'plab yutdi",
     "Kattalarni ko'rdi",
-    "Qayiqqa yetib olmaganarkan",
+    "Qayiqqa chiqib oldi",
     "Tezda hushidan o'tdi"
    ],
    "togri": 0,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Maqolda qanday sog'ot ko'rsatilgan?",
+   "savol": "Qaysi maqol ehtiyotkorlik haqida?",
    "variantlar": [
     "Besh o'lchab, bir kesa",
     "Yetti o'lchab, bir kesa",
@@ -103,10 +103,10 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Akmal qanday harakatni qildi bolalarning suzishdan oldin?",
+   "savol": "Bolalar suvga tushganda Akmal nima qildi?",
    "variantlar": [
     "Suv o'yiniga tushdi",
-    "Xush ko'rdim dedi",
+    "Uyga ketib qoldi",
     "Suzishni boshladı",
     "Qutqaruvchilar tomon shoshildi"
    ],
@@ -114,11 +114,11 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Agar siz Akmalning o'rnida bo'lsangiz, Jamshidning suv o'yiniga tushishiga qanday mos harakatini qilardingiz?",
+   "savol": "Agar siz Akmalning o'rnida bo'lsangiz, do'stlaringiz taqiqlangan joyda suvga tushsa, nima qilardingiz?",
    "variantlar": [
     "Suzishni davom etardim",
     "Unga ham tushib ketardim",
-    "Xali ham o'ynamiz deb aytardim",
+    "Ular bilan birga o'ynardim",
     "Kattalarni chaqirardim"
    ],
    "togri": 3,
@@ -129,7 +129,7 @@
    "variantlar": [
     "Ular Akmalning maslahatiga amal qildiler",
     "Ular kattalarni sezdiler",
-    "Ular ehtiyotkorlik bo'lishni unutdiler",
+    "Ularni kattalar yubordi",
     "Ular Jamshidga ergashib tushdi"
    ],
    "togri": 3,
@@ -158,7 +158,7 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Akmal kattalarning nazoratsiz harakat nima bo'lishini ko'rsatgan?",
+   "savol": "Akmalning fikricha, kattalar nazoratisiz suvga tushish qanday?",
    "variantlar": [
     "Xavfli bo'lish",
     "Foydali bo'lish",
@@ -174,7 +174,7 @@
     "Kattalarning nazoratida qolish kerak",
     "Tezda suzish kerak",
     "Hech kengashga amal qilmaslik",
-    "Suv o'yinlaridan chetda turish kerak"
+    "Chuqur joyga borish kerak"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -182,21 +182,21 @@
   {
    "savol": "Birinchi tibbiy yordam berish nima?",
    "variantlar": [
-    "Yumshat tibbiy ko'rsatmalar",
+    "Shifokor kelmasidan oldin ko'rsatiladigan dastlabki yordam",
     "Kasalxonaga borilish",
-    "Duch-duch qilish",
+    "Sabr bilan kutish",
     "Dorilar olish"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Elektr jihozlari nima uchun xavfarli hisoblanadi?",
+   "savol": "Elektr jihozlari nima uchun xavfli hisoblanadi?",
    "variantlar": [
     "Jarohatlanishga olib kelishi mumkin",
-    "Ular qimiysiz",
-    "Ular suv ichda",
-    "Ular suq"
+    "Ular qimmat",
+    "Ular og'ir",
+    "Ular chiroyli"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -215,7 +215,7 @@
   {
    "savol": "Maqoldagi 'yetti o'lchab' so'zi qanday ma'noni anglatadi?",
    "variantlar": [
-    "Soni oqlanadi",
+    "Ko'p sanash",
     "Suzish usuli",
     "Aniqliq va ehtiyotkorlik",
     "Tez harakat"
@@ -229,7 +229,7 @@
     "U suzishni bilmaydi",
     "U xavf-xatarni sezdi va yordam kerak deb tushundi",
     "U ular bilan o'ynmoqchi edi",
-    "U to'satdan qorkasidir"
+    "U qo'rqib ketdi"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -249,7 +249,7 @@
    "savol": "'Boshing bilan o'yla' aytishning asosiy ma'nosi nima?",
    "variantlar": [
     "Aniqliq bilan fikr qilib keyin ish qil",
-    "Shunchaki qora fikr qilish",
+    "Umuman o'ylamaslik",
     "Boshqalarga amal qilish",
     "Tezda fikr qilish"
    ],
@@ -271,7 +271,7 @@
    "savol": "Ehtiyotkorlik xislatlarining to'g'ri to'plami qaysi?",
    "variantlar": [
     "Shunchaki kulgi va o'ynash",
-    "Tezlash va juliya harakat",
+    "Shoshqaloq harakat",
     "Aniqliq, sezgi, chuqur fikrlash",
     "Kattalarni unutish"
    ],
@@ -281,8 +281,8 @@
   {
    "savol": "Sardorning holatining sababi qanday?",
    "variantlar": [
-    "U kattalarning nazoratisiz qilgan qilmish",
-    "U Akmalni tinglashi edi",
+    "Kattalar nazoratisiz, taqiqlangan joyda suzgani",
+    "U Akmalga quloq solgani",
     "U tez suzdi",
     "U kattalarni g'amgin qildi"
    ],
@@ -301,7 +301,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "'Qo'lingni tartibsiz harakat qilayotgan' deganda Sardor nima qilmoqchi edi?",
+   "savol": "Sardor suvda qo'llarini tartibsiz silkitganda nima qilmoqchi edi?",
    "variantlar": [
     "Raqsga tushdi",
     "O'yin davom etmoqchi bo'ldi",
@@ -323,12 +323,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Sardorni qayiqlarga olish va sun'iy nafas berish qanday ehtiyotkorlik namunasi?",
+   "savol": "Qutqaruvchilarning Sardorni qirg'oqqa olib chiqib, sun'iy nafas berishi nimani ko'rsatadi?",
    "variantlar": [
-    "O'yin davom etishining bir qismi",
-    "Sudga solib berish",
-    "Behuda vaqtni o'tkazish",
-    "Hayotga qaytarish uchun ehtiyotkorlik"
+    "O'yinning davomi",
+    "Jazolash",
+    "Vaqtni o'tkazish",
+    "Birinchi tibbiy yordam bilan hayotni saqlab qolish"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"

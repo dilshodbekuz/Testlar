@@ -39,9 +39,9 @@
   {
    "savol": "Kesilgan har bir daraxt o'rniga nima qilish lozim bo'ladi?",
    "variantlar": [
-    "boshqa o'simlik ekildi",
-    "hechqanday harakat qilinmadi",
-    "tuproq saqlanib qoldi",
+    "boshqa o'simlik ekiladi",
+    "hech narsa qilinmaydi",
+    "tuproq to'kiladi",
     "yangi daraxt ekiladi"
    ],
    "togri": 3,
@@ -52,19 +52,19 @@
    "variantlar": [
     "cho'llarida",
     "tog' yonbag'irlarida",
-    "salarida",
+    "shaharlarda",
     "vodiylarida"
    ],
    "togri": 1,
    "qiyinlik": "oson"
   },
   {
-   "savol": "O'rmon daraxtlarini kesish O'zbekistonda nima sifatida taqiqlangan?",
+   "savol": "O'zbekistonda o'rmon daraxtlarini kesishga ruxsat bormi?",
    "variantlar": [
-    "foydalanishga berilgan",
-    "shtraf qo'yilgan",
+    "ruxsat etilgan",
+    "rag'batlantiriladi",
     "taqiqlangan",
-    "tejashga majbur"
+    "majburiy"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -83,7 +83,7 @@
   {
    "savol": "Vulqon otilganda havoga qanday moddalar chiqib tushadi?",
    "variantlar": [
-    "faqat voda",
+    "faqat suv",
     "faqat chang",
     "chang, zaharli gaz va tutunlar",
     "faqat tutun"
@@ -105,10 +105,10 @@
   {
    "savol": "Suv filtrlari qanday vazifani bajaradi?",
    "variantlar": [
-    "suvni sogaritib",
+    "suvni shirin qiladi",
     "suvni rangini o'zgartirib",
     "suvni zararli moddalar va mikroorganizmlardan tozalab",
-    "suvni shardlab"
+    "suvni isitadi"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -138,7 +138,7 @@
   {
    "savol": "Sel kelganda atrof-muhitga qanday zarari bo'ladi?",
    "variantlar": [
-    "ko'p sorin tushibi",
+    "havo tozalanadi",
     "harorat oshadi",
     "uy, yo'l, ekinlar va chorva mollarini vayron qiladi",
     "faqat yomg'ir yog'adi"
@@ -162,7 +162,7 @@
    "variantlar": [
     "suv yuzini qoplab, o'simlik-hayvonlarning nafas olishini qiyinlashtiradi",
     "suv toza bo'ladi",
-    "suv o'shatiladi",
+    "suv shirin bo'ladi",
     "suv harorati oshadi"
    ],
    "togri": 0,
@@ -172,7 +172,7 @@
    "savol": "O'zbekiston Respublikasi Qizil kitobi ning 2-jildiga nima kiritilgan?",
    "variantlar": [
     "sayohatlarga oid ma'lumotlar",
-    "faqat balalar",
+    "faqat baliqlar",
     "faqat o'simliklar",
     "200 dan ortiq hayvon turlari"
    ],
@@ -205,8 +205,8 @@
    "savol": "Ifloslangan suvni ichganda qaysi kasalliklarga chalinish mumkin?",
    "variantlar": [
     "terlama, vabo, oshqozon-ichak, teri kasalliklari",
-    "qosh ismiga",
-    "shodiylik",
+    "tish og'rig'i",
+    "soch to'kilishi",
     "faqat sovuqqoqqalik"
    ],
    "togri": 0,
@@ -216,7 +216,7 @@
    "savol": "Yer osti boyliklarini tejashning sababbi nima?",
    "variantlar": [
     "tez tugab qoladi, oqilona foydalanish zarur",
-    "rangining zo'ri",
+    "chiroyli bo'lgani uchun",
     "davlat buyrug'i",
     "ko'p bo'lgani uchun"
    ],
@@ -279,7 +279,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Ko'rinishi sof suvning qanday xavfi oldi?",
+   "savol": "Tiniq ko'ringan suv ham qanday xavfli bo'lishi mumkin?",
    "variantlar": [
     "ko'rinishiga qaramay, ifloslantiruvchi moddalar va bakteriyalar mavjud",
     "faqat harorat",
@@ -304,8 +304,8 @@
    "savol": "Filtrlar bo'lmaganda odamlar qaysi xavfga duch keladi?",
    "variantlar": [
     "chang, tutun, gazlar, mikroorganizmlardan kasalliklarga chalinish",
-    "suq",
-    "shamol",
+    "faqat suv toshqini",
+    "faqat shamol",
     "hechqanday xavf"
    ],
    "togri": 0,
@@ -317,7 +317,7 @@
     "ma'lumat saqlash",
     "savdo",
     "to'plash",
-    "yo'qolib ketish xavfiga ogohlik, muhofaza va tiklaş harakat"
+    "yo'qolib ketish xavfidan ogohlantirish va ularni muhofaza qilish"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -328,7 +328,7 @@
     "o'simlik-hayvonlar nobud bo'ladi, insan hayoti xavf ostiga",
     "faqat vulqon",
     "zarar yo'q",
-    "bir xil zararna"
+    "hammasi zararsiz"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"

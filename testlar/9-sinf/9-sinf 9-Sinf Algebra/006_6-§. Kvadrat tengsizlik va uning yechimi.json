@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Algebra",
+ "mavzu": "6-§. Kvadrat tengsizlik va uning yechimi",
+ "savollar": [
+  {
+   "savol": "Kvadrat tengsizlik deb nimaga aytiladi?",
+   "variantlar": [
+    "a/x > 0",
+    "ax² + bx + c > 0 (yoki <, ≥, ≤) ko'rinishdagi tengsizlik",
+    "ax + b > 0",
+    "x³ > 0"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x² − 4 > 0 tengsizlik qaysi turga kiradi?",
+   "variantlar": [
+    "Kubik",
+    "Kvadrat tengsizlik",
+    "Kasr",
+    "Chiziqli"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x² > 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "Har qanday x",
+    "x ≠ 0",
+    "Yechimi yo'q",
+    "x > 0"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x² ≥ 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "x > 0",
+    "x ≠ 0",
+    "Har qanday x",
+    "Yechimi yo'q"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x² < 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "x < 0",
+    "x ≠ 0",
+    "Yo'q",
+    "Har qanday x"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x² ≤ 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "Yo'q",
+    "Har qanday",
+    "x < 0",
+    "x = 0"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x² + 1 > 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "x ≠ 0",
+    "Har qanday x",
+    "x > 0",
+    "Yechimi yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x² < 4 tengsizlikning yechimi?",
+   "variantlar": [
+    "[−2; 2]",
+    "(−∞; 2)",
+    "(−2; 2)",
+    "(2; +∞)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x² > 4 tengsizlikning yechimi?",
+   "variantlar": [
+    "(−∞; −2) ∪ (2; +∞)",
+    "(2; +∞)",
+    "[−2; 2]",
+    "(−2; 2)"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x² ≤ 9 tengsizlikning yechimi?",
+   "variantlar": [
+    "[−3; 3]",
+    "[0; 3]",
+    "(−3; 3)",
+    "(−∞; 3]"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x² − 5x + 6 < 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "[2; 3]",
+    "(−3; −2)",
+    "(−∞; 2) ∪ (3; +∞)",
+    "(2; 3)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x² − 5x + 6 > 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "(−3; −2)",
+    "(−∞; 2) ∪ (3; +∞)",
+    "[2; 3]",
+    "(2; 3)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x² − 1 ≥ 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "(−∞; 1]",
+    "(−1; 1)",
+    "[−1; 1]",
+    "(−∞; −1] ∪ [1; +∞)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x² − 3x ≤ 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "(−∞; 0] ∪ [3; +∞)",
+    "[0; 3]",
+    "[−3; 0]",
+    "(0; 3)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x² + 2x > 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "(−2; 0)",
+    "(−∞; 0)",
+    "(−∞; −2) ∪ (0; +∞)",
+    "(0; +∞)"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x² − 2x + 1 > 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "Har qanday x",
+    "x ≠ 1",
+    "x > 1",
+    "Yechim yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x² − 2x + 1 ≤ 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "Yechim yo'q",
+    "x < 1",
+    "Har qanday",
+    "x = 1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x² + x + 1 > 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "x > 0",
+    "Har qanday x",
+    "Yechimi yo'q",
+    "x ≠ 0"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "−x² + 4 > 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "(2; +∞)",
+    "(−∞; −2) ∪ (2; +∞)",
+    "(−2; 2)",
+    "[−2; 2]"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2x² − 8 ≤ 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "[−2; 2]",
+    "(−2; 2)",
+    "[0; 2]",
+    "(−∞; −2] ∪ [2; +∞)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x² − 4x − 5 < 0 tengsizlikning butun yechimlari soni?",
+   "variantlar": [
+    "3",
+    "5",
+    "6",
+    "4"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x² − 6x + 8 ≤ 0 tengsizlikning butun yechimlari?",
+   "variantlar": [
+    "2; 4",
+    "3; 4",
+    "2; 3; 4",
+    "1; 2; 3; 4"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x² + 4x + 5 < 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "x < −2",
+    "Har qanday",
+    "x > −2",
+    "Yo'q"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x² − 6x + 9 ≥ 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "Har qanday x",
+    "x = 3",
+    "x ≠ 3",
+    "Yechimi yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(x − 1)² < 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "Yo'q",
+    "Har qanday",
+    "x = 1",
+    "x ≠ 1"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(x − 2)² ≤ 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "Yo'q",
+    "x ≠ 2",
+    "Har qanday",
+    "x = 2"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x(x − 4) > 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "(−∞; 0) ∪ (4; +∞)",
+    "(4; +∞)",
+    "(−∞; 4)",
+    "(0; 4)"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "−x² + 5x − 6 ≥ 0 tengsizlikning yechimi?",
+   "variantlar": [
+    "(−∞; 2] ∪ [3; +∞)",
+    "[2; 3]",
+    "(2; 3)",
+    "[−3; −2]"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x² + px + 1 > 0 har qanday x da to'g'ri bo'lishi uchun p?",
+   "variantlar": [
+    "p > 2",
+    "p = 0",
+    "p < −2",
+    "−2 < p < 2"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x² − 2x + m > 0 har qanday x da bo'lishi uchun m?",
+   "variantlar": [
+    "m ≥ 1",
+    "m > 1",
+    "m < 1",
+    "m = 1"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

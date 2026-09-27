@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "17-§. Zanjirning bir qismi uchun Om qonuni",
+ "savollar": [
+  {
+   "savol": "Om qonuni formulasi qaysi?",
+   "variantlar": [
+    "I = R/U",
+    "I = U·R",
+    "I = U/R",
+    "I = U + R"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Om qonuniga ko'ra tok kuchi kuchlanishga qanday bog'liq?",
+   "variantlar": [
+    "Bog'liq emas",
+    "To'g'ri proporsional",
+    "Kvadratik",
+    "Teskari proporsional"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Om qonuniga ko'ra tok kuchi qarshilikka qanday bog'liq?",
+   "variantlar": [
+    "Teskari proporsional",
+    "Bog'liq emas",
+    "To'g'ri proporsional",
+    "Kvadratik"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Om qonuni qaysi olim nomi bilan?",
+   "variantlar": [
+    "Nyuton",
+    "G. Om",
+    "Kulon",
+    "Faradey"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kuchlanish formulasi (Om qonunidan)?",
+   "variantlar": [
+    "U = R/I",
+    "U = I + R",
+    "U = I·R",
+    "U = I/R"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qarshilik formulasi (Om qonunidan)?",
+   "variantlar": [
+    "R = I/U",
+    "R = U − I",
+    "R = U·I",
+    "R = U/I"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "U = 10 V, R = 5 Om. I = ?",
+   "variantlar": [
+    "2 A",
+    "50 A",
+    "15 A",
+    "0,5 A"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "I = 2 A, R = 10 Om. U = ?",
+   "variantlar": [
+    "0,2 V",
+    "20 V",
+    "5 V",
+    "12 V"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "U = 12 V, I = 3 A. R = ?",
+   "variantlar": [
+    "0,25 Om",
+    "15 Om",
+    "4 Om",
+    "36 Om"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 Om = ?",
+   "variantlar": [
+    "1 J",
+    "1 A/V",
+    "1 V/A",
+    "1 V·A"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qarshilik o'zgarmas, kuchlanish 3 marta ortdi. Tok?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "3 marta ortadi",
+    "3 marta kamayadi",
+    "9 marta ortadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kuchlanish o'zgarmas, qarshilik 4 marta ortdi. Tok?",
+   "variantlar": [
+    "4 marta ortadi",
+    "16 marta kamayadi",
+    "O'zgarmaydi",
+    "4 marta kamayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "U = 220 V, R = 44 Om. I = ?",
+   "variantlar": [
+    "264 A",
+    "176 A",
+    "5 A",
+    "0,2 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Lampa spiralining qarshiligi 240 Om, tok 0,5 A. U = ?",
+   "variantlar": [
+    "480 V",
+    "240,5 V",
+    "120 V",
+    "0,002 V"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tok 2 mA, R = 5 kOm. U = ?",
+   "variantlar": [
+    "10 000 V",
+    "10 V",
+    "0,01 V",
+    "2,5 V"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sim uchlaridagi kuchlanish 6 V, tok 0,3 A. R = ?",
+   "variantlar": [
+    "1,8 Om",
+    "0,05 Om",
+    "6,3 Om",
+    "20 Om"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Volt-amper xarakteristikasi nimani ko'rsatadi?",
+   "variantlar": [
+    "Haroratni",
+    "Tok kuchining kuchlanishga bog'liqligini",
+    "Massani",
+    "Vaqtni"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'tkazgichning VAX i (volt-amper) to'g'ri chiziq bo'lsa, qarshilik?",
+   "variantlar": [
+    "O'zgaruvchan",
+    "O'zgarmas",
+    "Nol",
+    "Cheksiz"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "U = 6 V da I = 2 A. U = 9 V da I = ?",
+   "variantlar": [
+    "1 A",
+    "3 A",
+    "4,5 A",
+    "18 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "R = 8 Om. Tok 0,5 A bo'lishi uchun U = ?",
+   "variantlar": [
+    "8,5 V",
+    "16 V",
+    "4 V",
+    "0,06 V"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Simdan I = 0,5 A tok o'tayapti, uchlaridagi kuchlanish 10 V. Kuchlanish 15 V ga oshsa, I?",
+   "variantlar": [
+    "1,5 A",
+    "0,25 A",
+    "0,75 A",
+    "0,33 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "U = 20 V da o'tkazgichdan I = 4 A tok o'tadi. Tok 1 A bo'lishi uchun kuchlanish?",
+   "variantlar": [
+    "20 V",
+    "80 V",
+    "5 V",
+    "0,2 V"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tok 3 A, qarshilik 10 Om. Qarshilik 15 Om ga ortsa (U o'zgarmas), tok?",
+   "variantlar": [
+    "3 A",
+    "1 A",
+    "2 A",
+    "4,5 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "R = ρ·l/S va I = U/R. ρ = 0,5, l = 20 m, S = 1 mm², U = 5 V. I = ?",
+   "variantlar": [
+    "0,05 A",
+    "50 A",
+    "0,5 A",
+    "2 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mis sim (ρ = 0,017), l = 100 m, S = 1 mm², U = 3,4 V. I = ?",
+   "variantlar": [
+    "5,8 A",
+    "0,5 A",
+    "2 A",
+    "0,2 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qarshilik 4 Om ning tok 5 A. Kuchlanish 2 marta oshsa va qarshilik 2 marta oshsa, tok?",
+   "variantlar": [
+    "2 marta ortadi",
+    "2 marta kamayadi",
+    "4 marta ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "VAX da chiziq qiyaligi kattaroq bo'lsa (I–U grafikda), qarshilik?",
+   "variantlar": [
+    "O'zgarmas",
+    "Kattaroq",
+    "Kichikroq",
+    "Nol"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki o'tkazgich VAX i: birida U = 4 V da I = 2 A, ikkinchisida U = 4 V da I = 1 A. Qaysining qarshiligi katta?",
+   "variantlar": [
+    "Aniqlab bo'lmaydi",
+    "Birinchisining",
+    "Teng",
+    "Ikkinchisining"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tok kuchi 0,2 A, R = 55 Om. Lampadagi kuchlanish?",
+   "variantlar": [
+    "11 V",
+    "0,004 V",
+    "275 V",
+    "55,2 V"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Om qonuni qanday zanjir uchun to'g'ri?",
+   "variantlar": [
+    "Faqat yorug'lik",
+    "Hech qaysi uchun",
+    "Faqat batareyaga",
+    "Zanjirning bir qismi uchun (o'zgarmas R da)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

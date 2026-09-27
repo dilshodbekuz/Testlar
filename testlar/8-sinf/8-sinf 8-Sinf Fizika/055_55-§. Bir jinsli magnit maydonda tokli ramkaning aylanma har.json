@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "55-§. Bir jinsli magnit maydonda tokli ramkaning aylanma harakati",
+ "savollar": [
+  {
+   "savol": "Tokli ramka magnit maydonda nima bo'ladi?",
+   "variantlar": [
+    "Tinch turadi",
+    "Isiydi",
+    "Buraladi",
+    "Yonadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aylantiruvchi moment qaysi kuchlardan hosil bo'ladi?",
+   "variantlar": [
+    "Ishqalanish",
+    "Amper kuchlaridan",
+    "Og'irlik",
+    "Kulon"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr dvigatel nima qiladi?",
+   "variantlar": [
+    "Issiqlik hosil qiladi",
+    "Mexanik energiyani elektrga aylantiradi",
+    "Yorug'lik",
+    "Elektr energiyasini mexanik energiyaga aylantiradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ramka B ga perpendikulyar bo'lganda moment?",
+   "variantlar": [
+    "Eng katta",
+    "Cheksiz",
+    "Yarmi",
+    "Nolga teng"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ramka B ga parallel bo'lganda moment?",
+   "variantlar": [
+    "Nol",
+    "Eng katta",
+    "Yarmi",
+    "Cheksiz"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ramka tomonlariga qanday kuchlar ta'sir qiladi?",
+   "variantlar": [
+    "Teng va qarama-qarshi yo'nalgan",
+    "Bir yo'nalgan",
+    "Yo'q",
+    "Tasodifiy"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ramkadagi tok yo'nalishi o'zgarsa moment?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Teskari bo'ladi",
+    "Nol",
+    "Ortadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aylanuvchi ramka uzluksiz aylanishi uchun nima kerak?",
+   "variantlar": [
+    "Kollektor (tok yo'nalishini o'zgartirish)",
+    "Kalit",
+    "Lampa",
+    "Batareya"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ramka o'ramlari soni ortsa, moment?",
+   "variantlar": [
+    "Kamayadi",
+    "Nol",
+    "O'zgarmaydi",
+    "Ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ramka yuzi ortsa moment?",
+   "variantlar": [
+    "Kamayadi",
+    "O'zgarmaydi",
+    "Nol",
+    "Ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Moment formulasi M = B·I·S·N·sin α. B = 0,5 T, I = 2 A, S = 0,01 m², N = 10, α = 90°. M = ?",
+   "variantlar": [
+    "0,05 N·m",
+    "0,1 N·m",
+    "1 N·m",
+    "0,01 N·m"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "M = 0,2 N·m, B = 0,1 T, S = 0,1 m², N = 20, α = 90°. I = ?",
+   "variantlar": [
+    "0,1 A",
+    "10 A",
+    "2 A",
+    "1 A"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kollektor nima vazifani bajaradi?",
+   "variantlar": [
+    "Yarim aylanishda tok yo'nalishini o'zgartiradi",
+    "Lampa",
+    "Batareya",
+    "Kalit"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Elektr dvigateldagi qo'zg'almas qism?",
+   "variantlar": [
+    "Cho'tka",
+    "Rotor",
+    "Stator",
+    "Kollektor"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Elektr dvigateldagi aylanuvchi qism?",
+   "variantlar": [
+    "Korpus",
+    "Cho'tka",
+    "Stator",
+    "Rotor (yakor)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Cho'tkalar nima uchun kerak?",
+   "variantlar": [
+    "Aylanuvchi yakorga tok uzatish uchun",
+    "Isitish",
+    "Tovush",
+    "Yoritish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dvigatelda magnit maydonni hosil qiluvchi qism?",
+   "variantlar": [
+    "Rotor emas",
+    "Kollektor",
+    "Cho'tka",
+    "Stator (magnit yoki elektromagnit)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ramka 90° dan keyin harakat yo'nalishi qanday saqlanadi?",
+   "variantlar": [
+    "Tovush",
+    "Batareya",
+    "O'zi",
+    "Kollektor tokni teskarilaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dvigatelda tok oshsa moment?",
+   "variantlar": [
+    "Kamayadi",
+    "Ortadi",
+    "O'zgarmaydi",
+    "Nol"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dvigatelda B oshsa moment?",
+   "variantlar": [
+    "Kamayadi",
+    "O'zgarmaydi",
+    "Ortadi",
+    "Nol"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tokli ramka magnit maydonda 90° ga burilganda moment o'zgaradi. Muvozanat holati qaerda?",
+   "variantlar": [
+    "B ga parallel",
+    "45°",
+    "Muvozanat yo'q",
+    "Ramka tekisligi B ga perpendikulyar bo'lganda"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun ramka muvozanat holatidan o'tib ketadi (inersiya tufayli)?",
+   "variantlar": [
+    "Batareya",
+    "Ishqalanish",
+    "Kollektor tokni teskarilaydi, aylanish davom etadi",
+    "Sovuq"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ramka: N = 50, S = 0,02 m², I = 1 A, B = 0,4 T, α = 90°. M = ?",
+   "variantlar": [
+    "0,04 N·m",
+    "0,8 N·m",
+    "4 N·m",
+    "0,4 N·m"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dvigatel U = 220 V, I = 5 A, P_foydali = 880 Vt. FIK = ?",
+   "variantlar": [
+    "40 %",
+    "20 %",
+    "100 %",
+    "80 %"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dvigatelning FIK i doim 100 % dan?",
+   "variantlar": [
+    "Kichik",
+    "Katta",
+    "Nol",
+    "Teng"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dvigatelning quvvati P = UI. U = 12 V, I = 3 A. P = ?",
+   "variantlar": [
+    "4 Vt",
+    "0,25 Vt",
+    "15 Vt",
+    "36 Vt"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektr dvigatelning rotori nima bilan aylanadi?",
+   "variantlar": [
+    "Kulon bilan",
+    "Og'irlik",
+    "Isitish",
+    "Amper kuchlari bilan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektr dvigatel yaratilgan (birinchi) kim tomonidan?",
+   "variantlar": [
+    "B. Yakobi",
+    "Nyuton",
+    "Kulon",
+    "Om"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dvigatelni ko'chirish uchun undagi nima o'zgartiriladi?",
+   "variantlar": [
+    "Rang",
+    "Vaqt",
+    "Massa",
+    "Tok yo'nalishi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Trolleybus, tramvay dvigatellari qaysi turdagi?",
+   "variantlar": [
+    "Ichki yonuv",
+    "Reaktiv",
+    "Bug'",
+    "Elektr dvigatel"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

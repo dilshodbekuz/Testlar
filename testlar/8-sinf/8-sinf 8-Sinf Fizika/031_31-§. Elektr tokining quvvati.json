@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "31-§. Elektr tokining quvvati",
+ "savollar": [
+  {
+   "savol": "Quvvat qaysi harf bilan belgilanadi?",
+   "variantlar": [
+    "P",
+    "U",
+    "A",
+    "I"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quvvat formulasi (tok uchun)?",
+   "variantlar": [
+    "P = U + I",
+    "P = I/U",
+    "P = U/I",
+    "P = U·I"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quvvat birligi nima?",
+   "variantlar": [
+    "Amper",
+    "Volt",
+    "Vatt",
+    "Joul"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 Vt = ?",
+   "variantlar": [
+    "1 J·s",
+    "1 V/A",
+    "1 A/V",
+    "1 J/s"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 kVt necha vatt?",
+   "variantlar": [
+    "1000 Vt",
+    "0,001 Vt",
+    "10 Vt",
+    "100 Vt"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quvvat nimani ifodalaydi?",
+   "variantlar": [
+    "Zaryadni",
+    "Kuchlanishni",
+    "Ishni",
+    "Vaqt birligida bajarilgan ishni"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "P = A/t formulasi qaysi kattalik uchun?",
+   "variantlar": [
+    "Ish",
+    "Vaqt",
+    "Quvvat",
+    "Kuch"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Lampochkaning quvvati qaysi birlikda ko'rsatiladi?",
+   "variantlar": [
+    "Vt",
+    "Om",
+    "A",
+    "V"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 MVt necha vatt?",
+   "variantlar": [
+    "10⁶ Vt",
+    "10⁻⁶ Vt",
+    "10³ Vt",
+    "10⁹ Vt"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quvvat kuchlanishga qanday bog'liq (I = const)?",
+   "variantlar": [
+    "Bog'liq emas",
+    "Teskari proporsional",
+    "To'g'ri proporsional",
+    "Kvadratik teskari"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "U = 220 V, I = 0,5 A. P = ?",
+   "variantlar": [
+    "110 Vt",
+    "0,5 Vt",
+    "220 Vt",
+    "440 Vt"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "P = 100 Vt, U = 220 V. I = ?",
+   "variantlar": [
+    "22 000 A",
+    "2,2 A",
+    "100 A",
+    "0,45 A"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "P = 60 Vt, I = 0,5 A. U = ?",
+   "variantlar": [
+    "120 V",
+    "60,5 V",
+    "0,0083 V",
+    "30 V"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "P = I²R formulasi qaysi qonundan?",
+   "variantlar": [
+    "Kulon qonunidan",
+    "U = IR ni P = UI ga qo'yishdan",
+    "Nyuton qonunidan",
+    "Faradey qonunidan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "P = U²/R formulasi qaysi almashtirishdan?",
+   "variantlar": [
+    "P = A/t dan",
+    "I = U/R ni P = UI ga qo'yishdan",
+    "U = IR dan",
+    "Faradey"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "R = 10 Om, I = 3 A. P = ?",
+   "variantlar": [
+    "90 Vt",
+    "0,3 Vt",
+    "13 Vt",
+    "30 Vt"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "U = 12 V, R = 4 Om. P = ?",
+   "variantlar": [
+    "48 Vt",
+    "0,33 Vt",
+    "3 Vt",
+    "36 Vt"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A = 1000 J, t = 10 s. P = ?",
+   "variantlar": [
+    "100 Vt",
+    "0,01 Vt",
+    "990 Vt",
+    "10 000 Vt"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "P = 2 kVt, t = 3 soat. A = ?",
+   "variantlar": [
+    "5 kVt·soat",
+    "0,67 kVt·soat",
+    "6 kVt·soat",
+    "2 kVt·soat"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Lampa 100 Vt, 5 soat yondi. Sarflangan energiya?",
+   "variantlar": [
+    "5 kVt·soat",
+    "500 kVt·soat",
+    "0,5 kVt·soat",
+    "20 kVt·soat"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki lampa 60 Vt va 100 Vt, 220 V ga parallel ulangan. Qaysi biri yorqinroq?",
+   "variantlar": [
+    "60 Vt li",
+    "Aniqlab bo'lmaydi",
+    "100 Vt li",
+    "Teng"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki lampa (60 Vt va 100 Vt, 220 V) ketma-ket ulansa, qaysi biri yorqinroq?",
+   "variantlar": [
+    "100 Vt li",
+    "Teng",
+    "Yonmaydi",
+    "60 Vt li"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "220 V/100 Vt lampa qarshiligi?",
+   "variantlar": [
+    "120 Om",
+    "484 Om",
+    "2,2 Om",
+    "22 000 Om"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "220 V/60 Vt lampada tok kuchi?",
+   "variantlar": [
+    "≈ 3,7 A",
+    "≈ 0,27 A",
+    "1 A",
+    "13 200 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2 kVt li elektr choynak 220 V tarmoqda tok kuchi?",
+   "variantlar": [
+    "2 A",
+    "≈ 9,1 A",
+    "0,11 A",
+    "440 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quvvat 3 marta ortishi uchun (R o'zgarmas) kuchlanish?",
+   "variantlar": [
+    "√3 marta ortishi kerak",
+    "9 marta",
+    "1/3",
+    "3 marta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nominal quvvat 100 Vt (220 V) lampa 110 V ga ulansa, quvvati (R o'zgarmas)?",
+   "variantlar": [
+    "25 Vt",
+    "200 Vt",
+    "50 Vt",
+    "100 Vt"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 kVt·soat = ?",
+   "variantlar": [
+    "1 MJ",
+    "3600 J",
+    "36 MJ",
+    "3,6 MJ"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektr hisoblagich ko'rsatkichi 30 kVt·soat ga oshdi. Bir kVt·soat narxi 500 so'm. To'lov?",
+   "variantlar": [
+    "30 000 so'm",
+    "60 so'm",
+    "500 so'm",
+    "15 000 so'm"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "P = 150 Vt, tarmoq 220 V. R = ? (P = U²/R)",
+   "variantlar": [
+    "≈ 323 Om",
+    "33 000 Om",
+    "70 Om",
+    "≈ 0,68 Om"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Algebra",
+ "mavzu": "34-§. Hodisalar",
+ "savollar": [
+  {
+   "savol": "Tasodifiy hodisa nima?",
+   "variantlar": [
+    "Albatta ro'y beradigan",
+    "Hech qachon ro'y bermaydigan",
+    "Tenglama",
+    "Tajriba natijasida ro'y berishi ham, bermasligi ham mumkin bo'lgan hodisa"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Muqarrar hodisa nima?",
+   "variantlar": [
+    "Ro'y bermaydigan",
+    "Tenglama",
+    "Albatta ro'y beradigan hodisa",
+    "Ba'zan ro'y beradigan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mumkin bo'lmagan hodisa nima?",
+   "variantlar": [
+    "Albatta ro'y beradigan",
+    "Hech qachon ro'y bermaydigan hodisa",
+    "Yig'indi",
+    "Ba'zan ro'y beradigan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tanga tashlanganda nechta elementar natija bor?",
+   "variantlar": [
+    "2",
+    "1",
+    "3",
+    "4"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'yin kubigi tashlanganda nechta elementar natija bor?",
+   "variantlar": [
+    "12",
+    "4",
+    "6",
+    "2"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kubikda 7 chiqishi qanday hodisa?",
+   "variantlar": [
+    "Tasodifiy",
+    "Mumkin bo'lmagan",
+    "Teng ehtimolli",
+    "Muqarrar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kubikda 1 dan 6 gacha son chiqishi qanday hodisa?",
+   "variantlar": [
+    "Tasodifiy",
+    "Muqarrar",
+    "Mumkin bo'lmagan",
+    "Yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hodisalar qanday harflar bilan belgilanadi?",
+   "variantlar": [
+    "a, b, c",
+    "1, 2, 3",
+    "A, B, C",
+    "x, y, z"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tajriba nima?",
+   "variantlar": [
+    "Son",
+    "Shartlar majmuasini amalga oshirish",
+    "Hodisa",
+    "Ehtimol"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elementar hodisa nima?",
+   "variantlar": [
+    "Muqarrar",
+    "Murakkab natija",
+    "Tajribaning bo'linmas natijasi",
+    "Mumkin bo'lmagan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A va B hodisalar yig'indisi (A + B) nima?",
+   "variantlar": [
+    "A ro'y bermaydi",
+    "Ikkalasi ham ro'y berishi",
+    "A yoki B (kamida biri) ro'y berishi",
+    "Hech biri ro'y bermaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A va B hodisalar ko'paytmasi (AB) nima?",
+   "variantlar": [
+    "Hech biri",
+    "Kamida biri ro'y berishi",
+    "A emas",
+    "Ikkalasining birga ro'y berishi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A hodisaga qarama-qarshi hodisa?",
+   "variantlar": [
+    "Muqarrar",
+    "A ro'y bermasligi",
+    "A va B",
+    "A ro'y berishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Birgalikda bo'lmagan hodisalar nima?",
+   "variantlar": [
+    "Bir vaqtda ro'y bermaydigan",
+    "Teng",
+    "Muqarrar",
+    "Birga ro'y beradigan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tanga tashlashda \"gerb\" va \"raqam\" hodisalari?",
+   "variantlar": [
+    "Muqarrar",
+    "Birgalikda",
+    "Mumkin bo'lmagan",
+    "Birgalikda bo'lmagan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kubikda \"juft son\" hodisasiga qulay natijalar?",
+   "variantlar": [
+    "1, 2",
+    "2, 4, 6",
+    "1, 3, 5",
+    "6"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kubikda \"toq son\" hodisasiga qulay natijalar?",
+   "variantlar": [
+    "1, 3, 5",
+    "6",
+    "2, 4, 6",
+    "1, 2"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kubikda \"3 dan katta son\" natijalari?",
+   "variantlar": [
+    "6",
+    "3, 4, 5, 6",
+    "4, 5, 6",
+    "1, 2, 3"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kubikda \"2 dan kichik son\" natijasi?",
+   "variantlar": [
+    "Yo'q",
+    "2",
+    "1",
+    "1, 2"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki tanga tashlanganda elementar natijalar soni?",
+   "variantlar": [
+    "2",
+    "8",
+    "3",
+    "4"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki kubik tashlanganda elementar natijalar soni?",
+   "variantlar": [
+    "6",
+    "12",
+    "36",
+    "18"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uch tanga tashlanganda natijalar soni?",
+   "variantlar": [
+    "9",
+    "3",
+    "8",
+    "6"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki kubikda yig'indi 12 bo'lishiga qulay natijalar soni?",
+   "variantlar": [
+    "2",
+    "1",
+    "6",
+    "3"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki kubikda yig'indi 7 bo'lishiga qulay natijalar soni?",
+   "variantlar": [
+    "5",
+    "6",
+    "7",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki kubikda yig'indi 2 bo'lishiga qulay natijalar?",
+   "variantlar": [
+    "(0, 2)",
+    "(2, 2)",
+    "(1, 1)",
+    "(1, 2)"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A + Ā (hodisa va uning qarama-qarshisi yig'indisi) nima?",
+   "variantlar": [
+    "Muqarrar hodisa",
+    "Tasodifiy",
+    "A",
+    "Mumkin bo'lmagan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A · Ā nima?",
+   "variantlar": [
+    "Muqarrar",
+    "Tasodifiy",
+    "Mumkin bo'lmagan hodisa",
+    "A"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qarama-qarshi hodisalar doim birgalikda bo'lmaydimi?",
+   "variantlar": [
+    "Faqat tangada",
+    "Yo'q",
+    "Ha",
+    "Ba'zan"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Barcha birgalikda bo'lmagan hodisalar qarama-qarshimi?",
+   "variantlar": [
+    "Ha",
+    "Doim",
+    "Yo'q",
+    "Faqat ikkitasi bo'lsa"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kartadan (36 ta) tasodifiy bittasi olinganda natijalar soni?",
+   "variantlar": [
+    "9",
+    "4",
+    "52",
+    "36"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

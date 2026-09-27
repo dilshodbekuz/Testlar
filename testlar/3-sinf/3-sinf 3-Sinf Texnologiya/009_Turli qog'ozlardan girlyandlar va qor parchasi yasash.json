@@ -18,7 +18,7 @@
    "savol": "Qor parchasining asosiy shakli qanday bo'ladi?",
    "variantlar": [
     "Beshburchak",
-    "Dumaloq",
+    "Oltiburchak",
     "Uchburchak",
     "To'rtburchak"
    ],
@@ -94,7 +94,7 @@
   {
    "savol": "Girlyanda va qor parchasi yasashda qog'ozing qaysi xususiyati eng muhim?",
    "variantlar": [
-    "Silliq va yumshoq bo'lishi",
+    "Yupqa va yumshoq bo'lishi",
     "Og'ir bo'lishi",
     "Qalin bo'lishi",
     "Qora rangli bo'lishi"
@@ -117,8 +117,8 @@
    "savol": "Qor parchasi yasashda qanday qog'oz yanada mos keladi?",
    "variantlar": [
     "Faqat oq qog'oz",
-    "Nafaqat sherali qog'oz",
-    "Rangli va olingan qog'oz",
+    "Faqat karton",
+    "Yupqa oq yoki rangli qog'oz",
     "Faqat qora qog'oz"
    ],
    "togri": 2,
@@ -138,7 +138,7 @@
   {
    "savol": "Qor parchasi va girlyandaning asosiy farqi nimada?",
    "variantlar": [
-    "Qor parchasi dumaloq, girlyanda chiziqli va uzun",
+    "Qor parchasi — alohida oltiburchak shakl, girlyanda — uzun zanjir",
     "Qor parchasi qisqa, girlyanda uzun",
     "Ular butunlay bir xil",
     "Qor parchasi og'ir, girlyanda yengil"
@@ -149,7 +149,7 @@
   {
    "savol": "Qor parchasi yasashda birinchi qaysi bosqich bajariladi?",
    "variantlar": [
-    "Qorni solib chiqish",
+    "Qor to'plash",
     "Rasm chizish",
     "Qog'ozni tayyorlash va to'g'ri kesish",
     "Girlyandani urash"
@@ -158,14 +158,14 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Girlyandalarni yasashda qag'ozni qalin, O'tkazib kesib qo'ysak, nima sodir bo'ladi?",
+   "savol": "Girlyanda uchun juda qalin qog'oz olinsa nima bo'ladi?",
    "variantlar": [
-    "Girlyanda tez buziladi",
-    "Girlyanda yanada rangrang bo'ladi",
-    "Girlyanda noz va sinish ehtimoli kamayadi",
-    "Hech qanday farq yo'q"
+    "Kesish va buklash qiyinlashadi",
+    "Girlyanda yengil bo'ladi",
+    "Hech qanday farq yo'q",
+    "Rangi o'zgaradi"
    ],
-   "togri": 2,
+   "togri": 0,
    "qiyinlik": "o'rtacha"
   },
   {
@@ -195,7 +195,7 @@
    "variantlar": [
     "Yozgi va bahorgi gullalar",
     "Faqat qor parchasi",
-    "Yulduz, changbop, mayak",
+    "Yulduzcha, fonarcha, archa o'yinchoqlari",
     "Uy, mashina"
    ],
    "togri": 2,
@@ -204,10 +204,10 @@
   {
    "savol": "Girlyandalarni devoriga osishdan oldin nima qilish kerak?",
    "variantlar": [
-    "Girlyandani sig'imoq",
+    "Suvga solish",
     "Rangi chiqmasligini tekshirish",
     "Hech narsani qilmaslik kerak",
-    "Qog'ozni silliqlash va silliq ekanligini tekshirish"
+    "Mustahkam yopishtirilganini tekshirish"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -217,7 +217,7 @@
    "variantlar": [
     "Faqat yozish",
     "Faqat o'qish",
-    "Tasavvur va til fikrlashni",
+    "Tasavvur va ijodiy fikrlashni",
     "Faqat hisoblash"
    ],
    "togri": 2,
@@ -229,7 +229,7 @@
     "Vaqtni o'tkazish uchun",
     "Qog'ozni isrof qilmaslik uchun",
     "Har bir bosqich keyingisiga tayyorlik bo'lishi va natija sifatli bo'lishi uchun",
-    "O'qituvchini ruzii-jon qilish uchun"
+    "O'qituvchini xursand qilish uchun"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -240,7 +240,7 @@
     "Faqat hisoblash",
     "Yozish va o'qish",
     "Rasm chizish va rang to'lash",
-    "Qog'ozni kesish, buklash, sirpa va birlashtirishning usullari"
+    "Qog'ozni qirqish, buklash va birlashtirish usullari"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -326,9 +326,9 @@
    "savol": "Turli qog'ozlardan turli shaklarda qor parchalarini yasashda qanday ilmiy, shuning uchun va amaliy bilimlari birga ishlatiladi?",
    "variantlar": [
     "Faqat biologiya",
-    "Faqat kimyo va adabiyot",
+    "Faqat kimyo",
     "Faqat tarix",
-    "Geometriya, fizika (kesish qanatlari), tasavvur va amaliy qo'l ko'nikligi"
+    "Geometriya, tasavvur va amaliy qo'l ko'nikmasi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"

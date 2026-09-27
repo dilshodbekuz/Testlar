@@ -138,7 +138,7 @@
   {
    "savol": "Oqqush qora fonda qanday ko'rinadi?",
    "variantlar": [
-    "Fon rangi bilan ayniyana ko'rinadi",
+    "Fon bilan qo'shilib ketadi",
     "Juda yorqin ko'rinadi",
     "Fonning rangi bilan birgalikda ko'rinadi",
     "Unchalik yorqin ko'rinmaydi"
@@ -149,9 +149,9 @@
   {
    "savol": "Axromatik fon (oq, kulrang, qora) xromatik narsalarni qanday ko'rsatadi?",
    "variantlar": [
-    "Onchalik aniq ko'rsatmaydi",
+    "Uncha aniq ko'rsatmaydi",
     "Rang o'zgaradi",
-    "Dora bo'lib ketadi",
+    "Xira bo'lib ketadi",
     "Aniqroq va yorqinroq"
    ],
    "togri": 3,
@@ -194,7 +194,7 @@
    "savol": "Sariq fonning ustiga qizil bezak gulli joylashtirgan bo'lsa, kontrast qanday bo'ladi?",
    "variantlar": [
     "Umuman kontrast yo'q",
-    "O'rtacha kontrast bo'ladi",
+    "Eng kuchli kontrast bo'ladi",
     "Kontrast ancha kuchli emas",
     "Juda kontrast bo'ladi"
    ],
@@ -213,9 +213,9 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Naqshni yoshirish va jonli ko'rsatish uchun qaysi rangli fond tanlash to'g'ri?",
+   "savol": "Naqshni yorqin va jonli ko'rsatish uchun qanday fon tanlanadi?",
    "variantlar": [
-    "Foningni bezak gulli rangi bilan ayni rangli tanlash",
+    "Bezak guli bilan bir xil rangli fon",
     "Faqat oq fond tanlash",
     "Bezak gulli rangiga kontrast bo'lgan fond tanlash",
     "Faqat qora fond tanlash"
@@ -226,7 +226,7 @@
   {
    "savol": "Ritm qoidasiga amal qilib ikkita bezak gulli yo'lsimon naqsh ishlashda bezak gullari qanday tartibda takrorlanishi kerak?",
    "variantlar": [
-    "Random tartibda",
+    "Tartibsiz",
     "Qarama-qarama tartibda",
     "Faqat bir xil tartibda",
     "Takrorlanib yoki almashinib kelishi kerak"
@@ -294,7 +294,7 @@
    "variantlar": [
     "O'zgaruvchi ko'rinadi",
     "Yanada yorqinroq",
-    "Ancha-muncha qo'ralgan",
+    "Xira",
     "Fonning rang bilan birgalikda"
    ],
    "togri": 1,
@@ -314,10 +314,10 @@
   {
    "savol": "Yo'lsimon naqsh ishlashda axromatik fond (oq, kulrang, qora) ishlatganimizda, xromatik bezak gullari qanday ko'rinadi?",
    "variantlar": [
-    "Yanada unchalik aniq bo'ladi",
+    "Unchalik aniq ko'rinmaydi",
     "Fondan ko'proq yorqin va aniq ko'rinadi",
-    "Faqat qora fonrada ko'rinadi",
-    "Fonday yorqin ko'rinadi"
+    "Faqat qora fonda ko'rinadi",
+    "Fon bilan bir xil ko'rinadi"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"

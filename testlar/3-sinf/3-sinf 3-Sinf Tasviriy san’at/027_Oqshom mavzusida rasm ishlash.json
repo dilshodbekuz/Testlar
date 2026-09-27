@@ -15,12 +15,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Quyosh qaysi vaqtda botayoqdi?",
+   "savol": "Quyosh qaysi vaqtda botadi?",
    "variantlar": [
     "Tun o'rtasida",
-    "Kuniozida",
+    "Tushda",
     "Oqshomda",
-    "Kunuz"
+    "Ertalab"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -30,7 +30,7 @@
    "variantlar": [
     "Oqshom",
     "Bomdod",
-    "Qunduz",
+    "Kunduz",
     "Tun"
    ],
    "togri": 0,
@@ -39,7 +39,7 @@
   {
    "savol": "Rassomlar nima bilan ish ko'rishni xush ko'radilar?",
    "variantlar": [
-    "Yalpi harakatchlik bilan",
+    "Faqat odamlarni chizish bilan",
     "Faqat suv bo'yida",
     "Faqat qora-oq ranglar bilan",
     "Bir xil manzarani kunning turli pallalarida chizish bilan"
@@ -59,12 +59,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Matnda berilgan yangi ranglardan \"Binafsha\" qaysi?",
+   "savol": "Binafsha rang qanday hosil bo'ladi?",
    "variantlar": [
-    "Rang yo'q",
-    "Bitta rang",
-    "Ikki rangning aralashmasi",
-    "Shu shartda mavjud"
+    "Ranglar halqasida yo'q",
+    "U asosiy rang",
+    "Ikki rangning (qizil va ko'k) aralashmasidan",
+    "Faqat oqdan"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -84,7 +84,7 @@
    "savol": "\"Qirmizi\" qaysi rangni anglatadi?",
    "variantlar": [
     "Och sariq",
-    "Siyoh qizil",
+    "To'q qizil",
     "Qo'ng'ir",
     "Och ko'k"
    ],
@@ -105,20 +105,20 @@
   {
    "savol": "\"Siyohrang\" qaysi rangga o'xshash?",
    "variantlar": [
-    "Moviy rang",
-    "Oq rang",
-    "Qora rang",
-    "Kulrang"
+    "Moviy",
+    "Oq",
+    "Sariq",
+    "To'q ko'k-binafsha"
    ],
    "togri": 3,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Kunuz va oqshomda narsalarning rangi nima sababli turlicha bo'ladi?",
+   "savol": "Kunduzi va oqshomda narsalarning rangi nima sababli turlicha bo'ladi?",
    "variantlar": [
     "Ko'zlar oqshomda yomon ko'radi",
     "Rassomlar xush ko'rishi uchun",
-    "Quyosh charaqlamashqa va botashiga ko'ra",
+    "Quyoshning charaqlab turishi yoki botishiga ko'ra",
     "Rangli moddalar o'zgaradi"
    ],
    "togri": 2,
@@ -149,18 +149,18 @@
   {
    "savol": "\"Kulrang\" va \"Siyohrang\" orasidagi farq nima?",
    "variantlar": [
-    "Farq yo'q, bir xil rang",
-    "Kulrang qora, siyohrang och",
-    "Kulrang och, siyohrang qora",
-    "Kulrang ko'k, siyohrang qizil"
+    "Farq yo'q",
+    "Kulrang — oq va qora aralashmasi, siyohrang — to'q ko'k-binafsha",
+    "Kulrang yashil, siyohrang sariq",
+    "Kulrang qizil, siyohrang oq"
    ],
-   "togri": 2,
+   "togri": 1,
    "qiyinlik": "o'rtacha"
   },
   {
    "savol": "Rassomlar \"ranglarni bor jilosida tasvirlashtirish\" bilan nima anglatadi?",
    "variantlar": [
-    "Ranglarning to'ng'iga, tabiatiga mos ravishda chizish",
+    "Ranglarning tusiga, tabiatiga mos ravishda chizish",
     "Faqat qora chiziq bilan chizish",
     "Rasmni juda katta qilish",
     "Rangni tezda chizish"
@@ -206,7 +206,7 @@
    "variantlar": [
     "Pushti qora, qizil och",
     "Pushti siyohroq",
-    "Pushti ochroq va sofiyroq",
+    "Pushti ochroq va yumshoqroq",
     "Pushti ko'k, qizil qora"
    ],
    "togri": 2,
@@ -228,16 +228,16 @@
    "variantlar": [
     "Ular turlicha rang oladi",
     "Ular aniqroq bo'ladi",
-    "Ular umumiylashib, so'v bo'lib boradi",
+    "Ular umumiylashib, xiralashib boradi",
     "Ular kattaroq bo'ladi"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Kunuz rasm va oqshom rasm orasida asosiy rang farqi qaysi?",
+   "savol": "Kunduzgi va oqshomgi rasm orasida asosiy rang farqi qanday?",
    "variantlar": [
-    "Kunuz ochiqqoq ranglar, oqshom quyuqqoq ranglar",
+    "Kunduzi ochroq ranglar, oqshomda to'qroq ranglar",
     "Farq yo'q",
     "Kunuz faqat qizil, oqshom faqat ko'k",
     "Kunuz ko'p rang, oqshom faqat bittagi rang"
@@ -279,12 +279,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Oqshom paytida quyosh nurlarining kamayishi rasm chizishida qanday muammoni yechadi?",
+   "savol": "Quyosh botayotganda osmon qanday ranglarda bo'ladi?",
    "variantlar": [
-    "Taassurotni va natural rangni ifodalash muammosini yechadi",
-    "Muammo yo'q",
-    "Rasmning o'lchamini aniqlash muammosini yechadi",
-    "Rasmni tezda chizish muammosini yechadi"
+    "Qizg'ish, zarg'aldoq, alvon",
+    "Faqat qora",
+    "Faqat yashil",
+    "Faqat oq"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -301,7 +301,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "128-betdagi rasmlardan oqshom tasvirini o'rganishda nima eng muhim dars olamiz?",
+   "savol": "Darslikdagi rasmlardan oqshom tasvirini o'rganishda qanday eng muhim saboq olamiz?",
    "variantlar": [
     "Rasmning o'lchami muhim",
     "Oqshom paytida ranglar va to'qlashning o'zgarishi, natural taassurotni chizishda bu nima ta'siri borligini tushunish",

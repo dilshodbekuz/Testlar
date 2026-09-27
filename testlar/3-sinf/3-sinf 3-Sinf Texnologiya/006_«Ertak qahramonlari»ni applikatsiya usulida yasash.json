@@ -18,7 +18,7 @@
    "savol": "Ertak qahramonini applikatsiya usulida yaratish uchun qaysi material asosiy kerak?",
    "variantlar": [
     "Metall plastinkasi",
-    "Charmaydan",
+    "Charmdan",
     "Qog'oz",
     "Mis simlari"
    ],
@@ -59,14 +59,14 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Qog'ozdan tipratikan kesib shapli yasash - bu qanday jarayon?",
+   "savol": "Qog'ozdan shakl qirqib olish uchun qaysi asbob kerak?",
    "variantlar": [
-    "Qog'ozni yirtish",
-    "Qog'ozni teshib chiqish",
-    "Qog'ozni bo'yash",
-    "Tipratika (qaychi) yordamida to'g'ri kesish orqali kerakli shakl hosil qilish"
+    "Qaychi",
+    "Bolg'a",
+    "Arra",
+    "Ombir"
    ],
-   "togri": 3,
+   "togri": 0,
    "qiyinlik": "oson"
   },
   {
@@ -96,7 +96,7 @@
    "variantlar": [
     "Faqat qalamlar",
     "Faqat bo'yaqlar",
-    "Qaychi (tipratika), yopistiruvchi va qog'oz",
+    "Qaychi, yelim va qog'oz",
     "Faqat o'lchagich"
    ],
    "togri": 2,
@@ -194,7 +194,7 @@
    "savol": "Qanday ertak qahramonlari applikatsiya uchun eng qulay?",
    "variantlar": [
     "Juda murakkab qahramonlar",
-    "Faqat gʻavvoslar",
+    "Faqat hayvonlar",
     "Oddiy, geometrik shakllardan tashkil topish mumkin bo'lgan qahramonlar",
     "Faqat insoniy qahramonlar"
    ],
@@ -205,9 +205,9 @@
    "savol": "Applikatsiya uchun shakllarni kesishda asosiy qoida nima?",
    "variantlar": [
     "Tezda kesilib ketish",
-    "Qoga'z yirtish",
+    "Qog'ozni yirtish",
     "Qalam bilan faqat chizish",
-    "Tipratika yordamida ehtiyotli va to'g'ri kesish"
+    "Qaychi bilan ehtiyotlik bilan, chiziq bo'yicha qirqish"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -235,7 +235,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Applikatsiyada ertak qahramonining xo'jaligini (basmasi, g'azabi, sa'odasi) qanday ifodalash mumkin?",
+   "savol": "Applikatsiyada qahramonning kayfiyatini (xafaligi, g'azabi, quvonchi) qanday ifodalash mumkin?",
    "variantlar": [
     "Faqat nomi yordamida",
     "Faqat so'zlar yordamida",

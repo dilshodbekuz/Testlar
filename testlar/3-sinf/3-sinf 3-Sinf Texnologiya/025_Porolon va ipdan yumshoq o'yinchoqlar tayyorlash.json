@@ -73,7 +73,7 @@
    "savol": "O'yinchoq yasashda qanday vosita ishlatiladi?",
    "variantlar": [
     "Faqat qalam",
-    "Qalam va qirqich",
+    "Qalam va qaychi",
     "Faqat qirqich",
     "Faqat chizmacha"
    ],
@@ -83,7 +83,7 @@
   {
    "savol": "Darsda boshqa jonivorlarni yasash haqida nima aytiladi?",
    "variantlar": [
-    "Qo'l bermasligi kerak",
+    "Qo'l tegizmaslik kerak",
     "Mustaqil ravishda ko'rish mumkin",
     "Taqiqlangan",
     "Oila bilan qilish kerak"
@@ -116,19 +116,19 @@
   {
    "savol": "Agar porolondan to'g'ri to'rtburchak tayyorlashda xato bo'lsa, nima qilish kerak?",
    "variantlar": [
-    "Hammasiga ahamiyat bermash",
+    "E'tibor bermaslik",
     "Boshtan boshlash",
-    "Dars o'qituvchisiga so'rash",
+    "Yig'lash",
     "Unga qo'shimcha porolon yopish"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Baliq shapini tayyorlagandan keyin qanday davom ettiriladi?",
+   "savol": "Porolon bo'lagiga baliq shakli tayyorlagach, nima qilinadi?",
    "variantlar": [
     "To'ldirib bo'yash",
-    "Qirq qo'yish",
+    "Suvga solish",
     "Ipga bog'lash",
     "Rasm chizish va qirqish"
    ],
@@ -182,10 +182,10 @@
   {
    "savol": "O'yinchoq yasashda porolondan shape tayyorlarganda qanday qurallar kerak?",
    "variantlar": [
-    "Vertkalni",
-    "Dasta",
+    "Bolg'a",
+    "Arra",
     "Faqat qalam",
-    "Qirqich va chizmacha"
+    "Qaychi va chizma"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -195,7 +195,7 @@
    "variantlar": [
     "Juda chiroyli bo'ladi",
     "Baliqga o'xshamasligi mumkin",
-    "Oqilgan bo'ladi",
+    "Oqarib ketadi",
     "Hech qanday o'zgarish bo'lmaydi"
    ],
    "togri": 1,
@@ -217,8 +217,8 @@
    "variantlar": [
     "Otaga so'rash",
     "Hech narsa kerak emas",
-    "To'liq diqqat va durs-diroya",
-    "Shunchaki ehtiyot bo'lish"
+    "To'liq diqqat va ehtiyotkorlik",
+    "Shoshilish"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -226,9 +226,9 @@
   {
    "savol": "Porolondan to'g'ri to'rtburchak shakli tayyorlang va baliq qismlarini chizing deb aytilganda, bu jarayonning asosiy maqsadi nima?",
    "variantlar": [
-    "Asligar yumshoq o'yinchoq yasashning birinchi bosqichini vujudga keltirish",
+    "Yumshoq o'yinchoq yasashning birinchi bosqichini bajarish",
     "Qarashga yoqqan narsani yasash",
-    "Rasmni cho'piga olish",
+    "Rasmni ko'chirib olish",
     "Faqat vaqt o'tkazish"
    ],
    "togri": 0,
@@ -259,18 +259,18 @@
   {
    "savol": "Porolondan to'g'ri to'rtburchak shakli tayyorlang, unga baliq shapini chizing va qirqib oling buyrugida qanday ketma-ketlik kuzatiladi?",
    "variantlar": [
-    "Qirqish → chizish → shape tayyorlash",
-    "Shape tayyorlash → chizish → qirqish",
+    "Qirqish → chizish → shakl tayyorlash",
+    "Shakl tayyorlash → chizish → qirqish",
     "Hammasini bir vaqtning o'zida bajarish",
-    "Chizish → shape tayyorlash → qirqish"
+    "Chizish → shakl tayyorlash → qirqish"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Baliq qismlari nechta qismdan iborat va ularning joylashishi nima uchun muhim?",
+   "savol": "Baliq qismlarining to'g'ri joylashishi nima uchun muhim?",
    "variantlar": [
-    "Uchuning barchasi muhim, tabiiy ko'rinish uchun",
+    "Baliq tabiiy ko'rinishi uchun",
     "Faqat rangi muhim",
     "Faqat miqdori muhim",
     "Miqdori muhim emas, joylashishi muhim emas"
@@ -292,7 +292,7 @@
   {
    "savol": "Mustaqil ravishda yangi jonivor tasavvur qilib o'yinchoq yasashda o'qituvchi qaysi ko'nikmani rivojlantirishga intiladi?",
    "variantlar": [
-    "Ijodiy fikirlanish va mustaqil ishlash ko'nikmalarini",
+    "Ijodiy fikrlash va mustaqil ishlash ko'nikmalarini",
     "Faqat qirqish ko'nikmasini",
     "Faqat rasmga chizish",
     "Vaqt sarfidorlikni"

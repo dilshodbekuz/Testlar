@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "24-§. Laboratoriya ishi. O'tkazgichlarni ketma-ket va parallel ulash",
+ "savollar": [
+  {
+   "savol": "Ishning maqsadi nima?",
+   "variantlar": [
+    "Ketma-ket va parallel ulashni o'rganish",
+    "Massani o'lchash",
+    "Haroratni o'lchash",
+    "Uzunlikni o'lchash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ketma-ket ulanishda tok kuchi ...?",
+   "variantlar": [
+    "nol",
+    "ortadi",
+    "har xil",
+    "hamma joyda bir xil"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Parallel ulanishda kuchlanish ...?",
+   "variantlar": [
+    "hamma tarmoqda bir xil",
+    "har xil",
+    "nol",
+    "ortadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda ampermetr qanday ulanadi?",
+   "variantlar": [
+    "Ulanmaydi",
+    "Aralash",
+    "Parallel",
+    "Ketma-ket"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda voltmetr qanday ulanadi?",
+   "variantlar": [
+    "Ulanmaydi",
+    "Ketma-ket",
+    "Aralash",
+    "Parallel"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda qaysi asboblar kerak?",
+   "variantlar": [
+    "Termometr",
+    "Barometr",
+    "Dinamometr",
+    "Manba, rezistorlar, ampermetr, voltmetr, kalit"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ketma-ket ulanish sxemasida rezistorlar qanday joylashgan?",
+   "variantlar": [
+    "Halqasimon",
+    "Uzilgan",
+    "Bir ketma-ketlikda",
+    "Tarmoqlangan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Parallel ulanishda rezistorlar qanday joylashgan?",
+   "variantlar": [
+    "Bittasi",
+    "Uzilgan",
+    "Umumiy tugunlarga ulangan",
+    "Ketma-ket"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda o'lchash natijalari qayerga yoziladi?",
+   "variantlar": [
+    "Simga",
+    "Batareyaga",
+    "Jadvalga",
+    "Kalitga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda kalit qachon yopiladi?",
+   "variantlar": [
+    "Sxema yig'ilib, tekshirilgach",
+    "Hech qachon",
+    "Doim ochiq",
+    "Boshida"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ketma-ket ulangan R₁ = 3 Om, R₂ = 5 Om. Nazariy umumiy R?",
+   "variantlar": [
+    "1,9 Om",
+    "8 Om",
+    "2 Om",
+    "15 Om"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Parallel R₁ = 3 Om, R₂ = 6 Om. Nazariy umumiy R?",
+   "variantlar": [
+    "18 Om",
+    "4,5 Om",
+    "2 Om",
+    "9 Om"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ketma-ket ulanishda U = 4 V, I = 0,5 A. Umumiy R = ?",
+   "variantlar": [
+    "0,125 Om",
+    "4,5 Om",
+    "2 Om",
+    "8 Om"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Parallel ulanishda U = 6 V, I = 3 A. Umumiy R = ?",
+   "variantlar": [
+    "18 Om",
+    "2 Om",
+    "9 Om",
+    "0,5 Om"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda o'lchash natijalari nazariy natijadan bir oz farq qilishi nimadan?",
+   "variantlar": [
+    "Asboblar va simlar xatoligidan",
+    "Xona rangidan",
+    "Sababsiz",
+    "Vaqtdan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ketma-ket ulanishda U₁ = 1,5 V, U₂ = 2,5 V. Umumiy U?",
+   "variantlar": [
+    "0,6 V",
+    "4 V",
+    "1 V",
+    "3,75 V"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Parallel ulanishda I₁ = 0,3 A, I₂ = 0,2 A. Umumiy I?",
+   "variantlar": [
+    "0,1 A",
+    "0,06 A",
+    "0,5 A",
+    "1,5 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda o'tkazgichlar ketma-ket ulanganda umumiy R nimaga teng?",
+   "variantlar": [
+    "Ko'paytmasiga",
+    "Bo'linmasiga",
+    "Ayirmasiga",
+    "Qarshiliklar yig'indisiga"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda parallel ulanganda umumiy R ...?",
+   "variantlar": [
+    "katta",
+    "nol",
+    "eng kichik R dan ham kichik",
+    "teng"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sxemani yig'ishda birinchi qaysi elementlar ulanadi?",
+   "variantlar": [
+    "Asosiy zanjir (manba, kalit)",
+    "Voltmetr",
+    "Mikroskop",
+    "Termometr"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ketma-ket 2 Om va 4 Om, U = 12 V. Ampermetr ko'rsatishi?",
+   "variantlar": [
+    "2 A",
+    "6 A",
+    "0,5 A",
+    "72 A"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Parallel 2 Om va 4 Om, U = 12 V. Ampermetr (umumiy) ko'rsatishi?",
+   "variantlar": [
+    "9 A",
+    "6 A",
+    "18 A",
+    "2 A"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda umumiy R nazariy 8 Om, o'lchangan 8,3 Om. Nisbiy xatolik?",
+   "variantlar": [
+    "8 %",
+    "≈ 3,75 %",
+    "0,3 %",
+    "37,5 %"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ketma-ket ulanganda U₁ : U₂ = R₁ : R₂. R₁ = 3, R₂ = 6, U = 9 V. U₁ = ?",
+   "variantlar": [
+    "6 V",
+    "4,5 V",
+    "3 V",
+    "9 V"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Parallel ulanganda I₁ : I₂ = R₂ : R₁. R₁ = 3, R₂ = 6, I = 9 A. I₁ = ?",
+   "variantlar": [
+    "4,5 A",
+    "3 A",
+    "6 A",
+    "9 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda ampermetr parallel ulansa nima bo'ladi?",
+   "variantlar": [
+    "Aniq o'lchaydi",
+    "Manbani qisqa tutashtirishi mumkin",
+    "Voltmetr ishlaydi",
+    "Hech narsa"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda 2 ta bir xil lampa ketma-ket va parallel yoqilsa, qaysi holatda yorqinroq (bir xil manba)?",
+   "variantlar": [
+    "Ikkalasi o'chadi",
+    "Ketma-ket",
+    "Parallel",
+    "Farq yo'q"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ketma-ket ulangan lampalardan biri olib tashlansa, ikkinchi lampa?",
+   "variantlar": [
+    "Yorqinlashadi",
+    "O'chadi",
+    "Yonadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Parallel ulangan lampalardan biri olib tashlansa, ikkinchisi?",
+   "variantlar": [
+    "O'chadi",
+    "Yorqinlashadi",
+    "Xuddi shunday yonadi",
+    "Xira"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda parallel R₁ = 10, R₂ = 10 Om. Umumiy qarshilik?",
+   "variantlar": [
+    "100 Om",
+    "5 Om",
+    "10 Om",
+    "20 Om"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

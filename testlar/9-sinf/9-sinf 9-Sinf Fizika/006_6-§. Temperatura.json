@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "6-§. Temperatura",
+ "savollar": [
+  {
+   "savol": "Temperatura nima?",
+   "variantlar": [
+    "Energiya",
+    "Jism qizish darajasini ifodalovchi kattalik",
+    "Ish",
+    "Issiqlik miqdori"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Temperaturani o'lchaydigan asbob?",
+   "variantlar": [
+    "Termometr",
+    "Manometr",
+    "Dinamometr",
+    "Barometr"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Selsiy shkalasida muzning erish temperaturasi?",
+   "variantlar": [
+    "100 °C",
+    "0 °C",
+    "37 °C",
+    "−273 °C"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Selsiy shkalasida suvning qaynash temperaturasi?",
+   "variantlar": [
+    "0 °C",
+    "100 °C",
+    "273 °C",
+    "37 °C"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Absolyut temperatura shkalasi kim nomi bilan?",
+   "variantlar": [
+    "Kelvin",
+    "Selsiy",
+    "Farengeyt",
+    "Om"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Absolyut nol temperatura?",
+   "variantlar": [
+    "273 K",
+    "0 K",
+    "−100 K",
+    "100 K"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Absolyut nol Selsiyda?",
+   "variantlar": [
+    "−100 °C",
+    "−273,15 °C",
+    "0 °C",
+    "273 °C"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "T (Kelvin) va t (Selsiy) orasidagi bog'lanish?",
+   "variantlar": [
+    "T = t",
+    "T = 273 t",
+    "T = t − 273",
+    "T = t + 273"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "0 °C necha Kelvin?",
+   "variantlar": [
+    "0 K",
+    "100 K",
+    "373 K",
+    "273 K"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "100 °C necha Kelvin?",
+   "variantlar": [
+    "100 K",
+    "273 K",
+    "0 K",
+    "373 K"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "27 °C necha Kelvin?",
+   "variantlar": [
+    "246 K",
+    "273 K",
+    "300 K",
+    "27 K"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "−73 °C necha Kelvin?",
+   "variantlar": [
+    "346 K",
+    "273 K",
+    "73 K",
+    "200 K"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "300 K necha Selsiy?",
+   "variantlar": [
+    "−27 °C",
+    "573 °C",
+    "300 °C",
+    "27 °C"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "373 K necha Selsiy?",
+   "variantlar": [
+    "646 °C",
+    "0 °C",
+    "273 °C",
+    "100 °C"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Temperatura o'zgarishi ΔT = Δt. Selsiyda 30 °C ga oshsa Kelvinda?",
+   "variantlar": [
+    "30 K ga",
+    "303 K ga",
+    "273 K ga",
+    "0"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Temperatura molekulalarning nimasiga bog'liq?",
+   "variantlar": [
+    "Massasiga",
+    "Hajmiga",
+    "O'rtacha kinetik energiyasiga",
+    "Soniga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Temperatura ortsa molekulalar tezligi?",
+   "variantlar": [
+    "Ortadi",
+    "Kamayadi",
+    "O'zgarmaydi",
+    "Nol"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Issiqlik muvozanati nima?",
+   "variantlar": [
+    "Erish",
+    "Yonish",
+    "Sovish",
+    "Jismlar temperaturalari tenglashgan holat"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nol temperatura (absolyut) da molekulalar harakati?",
+   "variantlar": [
+    "Cheksiz",
+    "To'xtaydi (nazariy)",
+    "Tezlashadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Termometr nimaga asoslangan?",
+   "variantlar": [
+    "Rang",
+    "Tovush",
+    "Massa",
+    "Jismlarning issiqlikdan kengayishiga"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "E_k = (3/2) k T. k = 1,38 · 10⁻²³ J/K, T = 300 K. E_k ≈ ?",
+   "variantlar": [
+    "6,2 · 10⁻²³ J",
+    "4,1 · 10⁻²¹ J",
+    "6,2 · 10⁻²¹ J",
+    "6,2 · 10⁻¹⁹ J"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "T 2 marta ortsa E_k?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "2 marta ortadi",
+    "4 marta ortadi",
+    "2 marta kamayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Boltsman doimiysi k = ?",
+   "variantlar": [
+    "8,31 J/(mol·K)",
+    "1,38 · 10⁻²³ J/K",
+    "6,02 · 10²³",
+    "9,8"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Universal gaz doimiysi R = ?",
+   "variantlar": [
+    "22,4",
+    "8,31 J/(mol·K)",
+    "1,38 · 10⁻²³",
+    "6,02 · 10²³"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "R va k orasidagi bog'lanish?",
+   "variantlar": [
+    "R = k · N_A",
+    "R = k + N_A",
+    "R = k²",
+    "R = k / N_A"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p = n k T formulasi?",
+   "variantlar": [
+    "Ish",
+    "Gaz bosimining temperaturaga bog'liqligi",
+    "Kuch",
+    "Tezlik"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "n = 10²⁵ m⁻³, T = 300 K. p = nkT ≈ ?",
+   "variantlar": [
+    "4,1 · 10⁴ Pa",
+    "10⁵ Pa",
+    "4,1 · 10³ Pa",
+    "4,1 · 10⁵ Pa"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "−20 °C da gaz molekulalari kinetik energiyasi 0 °C dagiga nisbatan?",
+   "variantlar": [
+    "Nol",
+    "Teng",
+    "Kichik (253/273 marta)",
+    "Katta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun T < 0 K mavjud emas?",
+   "variantlar": [
+    "Sababsiz",
+    "0 K — eng past temperatura",
+    "Xato",
+    "Chegara yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Temperaturalar farqi 50 °C bo'lsa, Kelvinda?",
+   "variantlar": [
+    "0 K",
+    "50 K",
+    "273 K",
+    "323 K"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

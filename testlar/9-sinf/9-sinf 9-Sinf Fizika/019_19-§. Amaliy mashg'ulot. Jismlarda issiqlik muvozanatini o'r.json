@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "19-§. Amaliy mashg'ulot. Jismlarda issiqlik muvozanatini o'rganish",
+ "savollar": [
+  {
+   "savol": "Issiqlik muvozanati nima?",
+   "variantlar": [
+    "Erish",
+    "Yonish",
+    "Sovish",
+    "Jismlar temperaturalari tenglashgan holat"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Issiqlik o'tishi qaysi yo'nalishda?",
+   "variantlar": [
+    "Sovuqdan issiqqa",
+    "Hech qayerga",
+    "Issiq jismdan sovuq jismga",
+    "Ikkalasiga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Muvozanat temperaturasi qachon o'rnatiladi?",
+   "variantlar": [
+    "Jismlar temperaturasi tenglashganda",
+    "Hech qachon",
+    "Boshida",
+    "Yonganda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kalorimetr nima?",
+   "variantlar": [
+    "Issiqlik miqdorini o'lchash uchun idish",
+    "Termometr",
+    "Manometr",
+    "Tarozi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda qanday asboblar kerak?",
+   "variantlar": [
+    "Kalorimetr, termometr, tarozi",
+    "Dinamometr",
+    "Chizg'ich",
+    "Voltmetr"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Issiqlik balansi tenglamasi?",
+   "variantlar": [
+    "Q = 0",
+    "Q = m",
+    "Q₁ = 2Q₂",
+    "Q_berilgan = Q_olingan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Termometr qaysi kattalikni o'lchaydi?",
+   "variantlar": [
+    "Massa",
+    "Vaqt",
+    "Temperatura",
+    "Uzunlik"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tarozi qaysi kattalikni o'lchaydi?",
+   "variantlar": [
+    "Vaqt",
+    "Temperatura",
+    "Uzunlik",
+    "Massa"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Isitilgan jism suvga tushirilsa suv?",
+   "variantlar": [
+    "Muzlaydi",
+    "Isiydi",
+    "Sovuydi",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suv issiqlik yo'qotishi sababi?",
+   "variantlar": [
+    "Atrof-muhitga issiqlik uzatilishi",
+    "Hajm",
+    "Massa",
+    "Rang"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Issiq suv 80 °C (0,1 kg), sovuq 20 °C (0,1 kg). t = ?",
+   "variantlar": [
+    "100 °C",
+    "50 °C",
+    "60 °C",
+    "40 °C"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Issiq suv 70 °C (0,2 kg), sovuq 10 °C (0,1 kg). t = ?",
+   "variantlar": [
+    "40 °C",
+    "30 °C",
+    "50 °C",
+    "60 °C"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Aralashmada ikki suv massasi teng bo'lsa t?",
+   "variantlar": [
+    "Kichik temperatura",
+    "Nol",
+    "O'rtacha arifmetik",
+    "Katta temperatura"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Issiq suv massasi ko'p bo'lsa t qanday bo'ladi?",
+   "variantlar": [
+    "O'rtada",
+    "Sovuq suvnikiga yaqin",
+    "Issiq suv temperaturasiga yaqinroq",
+    "Nol"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda asosiy xatolik manbai?",
+   "variantlar": [
+    "Hajm",
+    "Massa",
+    "Atrofga issiqlik yo'qotilishi",
+    "Rang"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishda kalorimetr devorlari nimaga sarflaydi?",
+   "variantlar": [
+    "Sovitadi",
+    "Hech narsa",
+    "Bir qism issiqlikni yutadi",
+    "Ko'paytiradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tajribada t₁ = 90 °C, t₂ = 20 °C, m₁ = m₂. t ≈ ?",
+   "variantlar": [
+    "35 °C",
+    "55 °C",
+    "110 °C",
+    "70 °C"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Muvozanat t = 40 °C, t₂ = 20 °C, t₁ = 60 °C. Massa nisbati m₁/m₂?",
+   "variantlar": [
+    "2",
+    "1",
+    "3",
+    "1/2"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kalorimetr ichi nima uchun yaltiroq?",
+   "variantlar": [
+    "Massa",
+    "Sovuq",
+    "Chiroy",
+    "Nurlanish orqali yo'qotishni kamaytirish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kalorimetr devorlari orasida nima bor?",
+   "variantlar": [
+    "Suv",
+    "Yog'",
+    "Havo (issiqlik izolyatsiyasi)",
+    "Metall"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Q_issiq = Q_sovuq + Q_yo'qotish. Q_yo'qotish > 0 bo'lsa t?",
+   "variantlar": [
+    "Aniqlab bo'lmaydi",
+    "Baland",
+    "Balansdan past chiqadi",
+    "Teng"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda issiq suv 0,15 kg, 80 °C; sovuq 0,1 kg, 15 °C. Nazariy t?",
+   "variantlar": [
+    "40 °C",
+    "65 °C",
+    "47,5 °C",
+    "54 °C"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tajribada o'lchangan t = 52 °C, nazariy 54 °C. Farq?",
+   "variantlar": [
+    "2 °C",
+    "5 °C",
+    "0",
+    "106 °C"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nisbiy farq (54 − 52)/54 ≈ ?",
+   "variantlar": [
+    "≈ 0,37 %",
+    "≈ 2 %",
+    "≈ 37 %",
+    "≈ 3,7 %"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda temperatura aniqligi termometr bo'linmasi 1 °C bo'lsa xatolik?",
+   "variantlar": [
+    "≈ 0,5 °C",
+    "≈ 5 °C",
+    "≈ 10 °C",
+    "≈ 0,05 °C"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Massalar tarozida o'lchanmasa, hajm orqali?",
+   "variantlar": [
+    "Suv uchun 1 l = 1 kg",
+    "Massa hajmga teng emas",
+    "Bo'lmaydi",
+    "Faqat metall"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Suv ustiga muz bo'lagi (0 °C) tushirilsa muvozanat holati?",
+   "variantlar": [
+    "Hech narsa",
+    "Eritish issiqligi ham hisobga olinadi",
+    "Faqat cmΔt",
+    "Muzlaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Issiqlik muvozanatida jismlar entropiyasi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Maksimal",
+    "Nol",
+    "Minimal"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kalorimetr sig'imi C_k. Issiqlik balansi?",
+   "variantlar": [
+    "C_k = 0",
+    "c₁m₁ = c₂m₂",
+    "c₁m₁(t₁ − t) = c₂m₂(t − t₂) + C_k(t − t₂)",
+    "Q = 1"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kalorimetr ichida 0,2 kg suv 20 °C, unga 0,1 kg 80 °C suv. t (kalorimetr yo'q)?",
+   "variantlar": [
+    "50 °C",
+    "40 °C",
+    "30 °C",
+    "60 °C"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

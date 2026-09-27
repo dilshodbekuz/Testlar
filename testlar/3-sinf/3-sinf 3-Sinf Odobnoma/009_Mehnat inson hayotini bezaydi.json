@@ -6,7 +6,7 @@
   {
    "savol": "Mehnat inson hayotini qanday bezaydi?",
    "variantlar": [
-    "Qalbi qo'jili qiladi",
+    "Qalbini qo'rqoq qiladi",
     "Kunini o'tkazadi",
     "Faqat pul beradi",
     "Hayotni go'zal qiladi"
@@ -26,12 +26,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Insonning qo'li gul deyilgandagi gul nima anglatadi?",
+   "savol": "Insonning qo'li gul deyilganda gul nimani anglatadi?",
    "variantlar": [
     "Rang-barang taom",
-    "Qara tutun",
+    "Qora tutun",
     "Haqiqiy gul o'simligi",
-    "Insonning ista ishi va ijodiyoti"
+    "Insonning mohir ishi va ijodi"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -48,34 +48,34 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Loydan qaysi buyumlar yasalishi mumkin?",
+   "savol": "Kulol loydan nimalar yasaydi?",
    "variantlar": [
-    "Mehnatkash va dangasa",
-    "Tosh va gul",
-    "Faqat kiyim va tosh",
-    "Bejirim vosita-buyumlar"
+    "Gilam",
+    "Oltin uzuk",
+    "Yog'och sandiq",
+    "Sopol idishlar"
    ],
    "togri": 3,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Aql ko'kka yetkazar, hunar ko'pga maqolada nima aytilmoqchi?",
+   "savol": "\"Aql ko'kka yetkazar, hunar ko'pga\" maqolida nima aytilmoqchi?",
    "variantlar": [
     "Osmon juda katta",
     "Hunar ko'pga kuch beradi",
-    "Aql ham hunar ham insoni takomillantirishning asosiy oʻrtasi",
+    "Aql ham, hunar ham insonni yuksaltiradi",
     "Aql osmon gacha cho'qqilangan"
    ],
    "togri": 2,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Zargarlik nima turidagi hunarmandchilikning ishlashi?",
+   "savol": "Zargarlik qanday hunar?",
    "variantlar": [
-    "Zarli buyumlarni yasashi",
+    "Oltin-kumushdan zeb-ziynat buyumlari yasash",
     "Toshni hosil qilish",
     "Hisob-kitobni bajarish",
-    "Buysallar yasash"
+    "Gilam to'qish"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -94,9 +94,9 @@
   {
    "savol": "Mehnat sharaf-shon ekan deyilgan, shuning uchun mehnat nima?",
    "variantlar": [
-    "Ko'rab qilish",
+    "Majburiy ish",
     "Yomon ish",
-    "Sharafli va hurmali ish",
+    "Sharafli va hurmatli ish",
     "Vaqt o'tkazish"
    ],
    "togri": 2,
@@ -125,12 +125,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Jadvaldan mehnatsevar insonga xos boʻlgan xususiyatlarni toping",
+   "savol": "Mehnatsevar insonga xos xususiyatlarni toping.",
    "variantlar": [
     "Dangasalik, Yalqovlik, Hasadgoʻylik, Ozodalik",
     "Intiluvchanlik, Yolg'onchilik, Hasadgoʻylik, Ozodalik",
     "Qunt, Intiluvchanlik, Mas'uliyat, Tartiblilik",
-    "Qunt, Sabr-toqat, Mas'uliyat, Tartiblilik"
+    "Qunt, Dangasalik, Mas'uliyat, Tartiblilik"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -150,9 +150,9 @@
    "savol": "Ertakda Zumrad qaysi fazilatlar uchun tanilgan edi?",
    "variantlar": [
     "Yalqovlik va dangasalik",
-    "Ozodalik va xudnoma koʻrsatish",
+    "Maqtanchoqlik va xudbinlik",
     "Hasadgoʻylik va yolgʻonchilik",
-    "Mehnatkashlik, halol ishchi boʻlishi va sabr-toqati"
+    "Mehnatkashlik, odob va sabr-toqat"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -161,7 +161,7 @@
    "savol": "Ertakdagi Qimmat haqida qanday togʻri ayta olamiz?",
    "variantlar": [
     "U yalqov va ishyoqmas edi",
-    "U hunarli va soʻl edi",
+    "U hunarli va odobli edi",
     "U sabr-toqat koʻrsatgan edi",
     "U juda mehnatkash edi"
    ],
@@ -180,23 +180,23 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Quyidagi milliy hunarmandchilik turlari orasidan qaysisi matnga koʻrsatilgan?",
+   "savol": "Quyidagi milliy hunarmandchilik turlaridan qaysilari matnda ko'rsatilgan?",
    "variantlar": [
     "Tikuvchilik, Kulolchilik, Naqqoshlik",
     "Oʻymakorlik, Toʻquvchilik, Kashtachilik",
     "Zargarlik, Gilamdoʻzlik, Duradgorlik",
-    "Hammasidan foydalanib barchasi matnga koʻrsatilgan"
+    "Yuqoridagilarning hammasi"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Toʻquvchilik nima ishni bajaradi?",
+   "savol": "To'quvchilik qanday ish?",
    "variantlar": [
-    "Togʻi va pardalarni yasashi",
-    "Tosh-astar bilan ishlab qilishi",
-    "Taomni pishirish",
-    "Qoʻlga osilgan buyumlarni tikishi"
+    "Mato va gazlama to'qish",
+    "Toshga naqsh o'yish",
+    "Taom pishirish",
+    "Kiyim tikish"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -217,8 +217,8 @@
    "variantlar": [
     "Tikish ishlari",
     "Rasm chizish va oynakashlik",
-    "Qoʻlda toʻqilingan gilamlarni yasashi",
-    "Tosh yasashi"
+    "Qo'lda gilam to'qish",
+    "Tosh yo'nish"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -229,7 +229,7 @@
     "Halol ishini qilish va sabr-toqatini koʻrsatish hamda ilm-hunar orttirgani",
     "Yolgʻon gap bilmagani va yosh boʻlgani",
     "Faqat mehnatkash boʻlgani",
-    "Sayt koʻp pul topgani"
+    "Ko'p pul topgani"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -238,7 +238,7 @@
    "savol": "Insonning qoʻlini gul deb atashning chuqur maʻnosi nima boʻlishi mumkin?",
    "variantlar": [
     "Tosh va loyga haqiqatan gul hosil qilish mumkin",
-    "Ijodiy va mehnatkosh qoʻl har qanday narsani yangi va bezak qilib yaratasaloladi",
+    "Mehnatkash qo'l har qanday narsani go'zal qilib yarata oladi",
     "Har insonning qoʻli gul rangda boʻladi",
     "Gul saqlaganlari faqat baxtli insonlar"
    ],
@@ -248,10 +248,10 @@
   {
    "savol": "Ertakdagi Qimmatning yalqovligi uning qaysi narsaga duch kelishiga sabab boʻlgan?",
    "variantlar": [
-    "Baxtiga erish imkoniyati",
+    "Baxtga erishishga",
     "Baxtdan mahrum boʻlish va maqsadiga erisha olmasligi",
     "Yaxshi jamiyatga kirishni",
-    "Maqsadiga erish va samadaro"
+    "Ko'p do'st orttirishga"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -270,7 +270,7 @@
   {
    "savol": "Hunar boʻlsa qoʻlingda, Non topilar yoʻlingda maqolaning iqtisodiy-ijtimoiy maʻnosi nima?",
    "variantlar": [
-    "Non haqdida gap tutulyaptizmi",
+    "Faqat non haqida gap boradi",
     "Hunar yoʻlingizni tushuntiradi",
     "Hunar boʻlgan insonning iqtisodiy ahvoli qulay, ijtimoiy oʻrni belgilangan boʻladi",
     "Yoʻlda yurib non topish oson"
@@ -290,12 +290,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Farhod qanday ruhiyatida oʻz mehnatiga ogʻir, lekin qiluvchi, jismoniy-ma'naviy kuch qoʻyib ishlay olgan?",
+   "savol": "Farhod tog' qazishdek og'ir mehnatga qanday kuch bilan bardosh bergan?",
    "variantlar": [
-    "Tanazzul bilan va hamni soxta",
-    "Vaslda sevgi, ishtiyoq va hunar bilan mehrubonlik bilan",
-    "Qorquv bilan va majborlash asosida",
-    "Majbur boʻlib, pul uchun"
+    "Qo'rquv va majburlik bilan",
+    "Sevgi, ishtiyoq va hunari bilan",
+    "Faqat pul uchun",
+    "Boshqalarning yordami bilan"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -304,9 +304,9 @@
    "savol": "Nima uchun Ilmsizga ishonch yoʻq, hunarsizga quvonch yoʻq deyilgan?",
    "variantlar": [
     "Ilm ham hunar ham insoni takomillantirib, baxtli hayotning asosi boʻladi",
-    "Faqat ilm kerak, hunarsiz boʻladi",
+    "Faqat ilm kerak, hunar kerak emas",
     "Quvonch va ishonch birgalikda faqat buyumlardan kelib chiqadi",
-    "Faqat hunar kerak, ilmsiz boʻladi"
+    "Faqat hunar kerak, ilm kerak emas"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -317,7 +317,7 @@
     "Yosh avlodning mehnatkashligi, hunarli boʻlishi va ilm-fanni rivojlantirishlari orqali",
     "Faqat buyumlar yasashning miqdori",
     "Faqat yosh avlodning oʻquvchiligi",
-    "Faqat boʻgin erkaklar mehnati"
+    "Faqat kattalar mehnati"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -328,7 +328,7 @@
     "Ikkalasi ham xayotni qulay va farovon qiladi",
     "Hech bir bogʻlanish yoʻq",
     "Faqat birlashib yaxshi natija beradi",
-    "Dangasalik hayotni qiyin, muammoli qilsa, mehnatkashlik hayotni qulay va samadaro qiladi"
+    "Dangasalik hayotni qiyin qiladi, mehnatsevarlik esa farovon va samarali qiladi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"

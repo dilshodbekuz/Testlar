@@ -4,12 +4,12 @@
  "mavzu": "Mahalla va qo‘ni-qo‘shnichilik munosabatlari",
  "savollar": [
   {
-   "savol": "Mahalla nima deb aytiladi?",
+   "savol": "Mahalla nima?",
    "variantlar": [
     "Ko'cha nomi",
     "Davlat nomi",
     "O'zbek xalqining eng qadimiy milliy qadriyati",
-    "Shahar qismi"
+    "Davlat idorasi"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -39,7 +39,7 @@
   {
    "savol": "Qadimda mahalla odamlari qanday yashashgan?",
    "variantlar": [
-    "Dar-bargada",
+    "Janjallashib",
     "Bir oila a'zolaridek ahil-inoq",
     "Yakkaxon shaklida",
     "Bir-biridan alohida"
@@ -92,7 +92,7 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Ko'chalarni kim saklashi kerak?",
+   "savol": "Ko'chalarni kim ozoda saqlashi kerak?",
    "variantlar": [
     "Faqat politsiya",
     "Qo'ni-qo'shnilar",
@@ -116,7 +116,7 @@
   {
    "savol": "Agar mahallada bolaga yordam kerak bo'lsa, mahalla kattalari nima qiladi?",
    "variantlar": [
-    "Palida o'tkasmaydi",
+    "Parvo qilmaydi",
     "O'z farzandidek nasihat qiladi va yordam beradi",
     "Boshqa joyga ketadi",
     "Hech nima qilmaydi"
@@ -125,9 +125,9 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Ko'chalarni ozoda saklash uchun nima zarur?",
+   "savol": "Ko'chalarni ozoda saqlash uchun nima zarur?",
    "variantlar": [
-    "Faqat fermon",
+    "Faqat farmon",
     "Faqat pul",
     "Faqat davlat buyrugi",
     "Qo'ni-qo'shchilik munosabatlari"
@@ -149,7 +149,7 @@
   {
    "savol": "Hashar tufayli mahallada nima bo'ldi?",
    "variantlar": [
-    "Mahalla qoraqo'l bo'ldi",
+    "Mahalla iflos bo'ldi",
     "Mahalla yanayam chiroy ochdi, daraxtlar oqlandi",
     "Mahalla kichik bo'ldi",
     "Mahalla buzildi"
@@ -183,7 +183,7 @@
    "savol": "Salima xolaning hovlisida nima qaynayapti?",
    "variantlar": [
     "Doshqozonda sumalak",
-    "Sabzi buguv",
+    "Palov",
     "Qaynatilgan suv",
     "Choy"
    ],
@@ -204,21 +204,21 @@
   {
    "savol": "Orif akaning uyida nima davom etmoqda?",
    "variantlar": [
-    "Yiqish ishlari",
+    "Buzish ishlari",
     "Qurilish ishlari",
     "Tayyorlash ishlari",
-    "Ta'mirlash ishlari"
+    "To'y marosimi"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Mahalla oqsoqollari va faollari nima bilan shug'ulnadi?",
+   "savol": "Mahalla oqsoqollari va faollari nima bilan shug'ullanadi?",
    "variantlar": [
     "Har bir oilaning tinch-totuv yashashiga hissa qo'shadi",
     "Faqat savdo bilan",
     "Faqat o'qitish bilan",
-    "Faqat harb bilan"
+    "Faqat sport bilan"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -227,9 +227,9 @@
    "savol": "Nima uchun mahalla o'zbek xalqining eng qadimiy qadriyati hisoblanadi?",
    "variantlar": [
     "Chunki u eng katta",
-    "Chunki u bahoriy",
-    "Chunki u zarli",
-    "Chunki inson bu yerda voyaga yetadi, ulg'ayadi, tarbiyalandi bo'ladi"
+    "Chunki u bahorda tashkil topgan",
+    "Chunki u oltindan qimmat",
+    "Chunki inson shu yerda voyaga yetadi, ulg'ayadi, tarbiya topadi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -240,7 +240,7 @@
     "Mahallani buzadi",
     "Mahallani obod bo'lishiga, chiroy ochishiga olib keladi",
     "Hech qanday ta'sir qilmaydi",
-    "Mahallani qirimga solib beradi"
+    "Mahallani kichraytiradi"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -260,19 +260,19 @@
    "savol": "Uy-joylar ko'pchilikning yordami bilan hashar qilib qurilganidan nima ko'rinadi?",
    "variantlar": [
     "Mahallada pul ko'p",
-    "Mahallada xarovat ko'p",
-    "Odamlar juda xumbay yashaydi",
+    "Mahallada janjal ko'p",
+    "Odamlar yolg'iz yashaydi",
     "Mahallada ahil-inoq yashash va bir-biriga yordam berish odati bor"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Mahalla oqsoqollari tinch-totuv yashashiga hissa qo'yish uchun nima qiladi?",
+   "savol": "Mahalla oqsoqollari tinch-totuvlikka hissa qo'shish uchun nima qiladi?",
    "variantlar": [
-    "Xaniqni ko'tariladi",
+    "Faqat mehmon kutadi",
     "Pul beradi",
-    "Har bir oilaning xushxaliga e'tibor beradi",
+    "Har bir oilaning holidan xabar oladi",
     "Boshqa mahallaga ketadi"
    ],
    "togri": 2,
@@ -281,7 +281,7 @@
   {
    "savol": "Ko'chalarni saklashdan tashqari, qo'ni-qo'shnilar yana nima bilan shug'ulnadi?",
    "variantlar": [
-    "Faqat xashak yiqish",
+    "Faqat xashak yig'ish",
     "Faqat kitob o'qish",
     "To'y-ma'rakalarni ahillikda o'tkazish",
     "Faqat chaqaloq tarbiyalash"

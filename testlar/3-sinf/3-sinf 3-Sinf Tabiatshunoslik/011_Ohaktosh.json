@@ -6,9 +6,9 @@
   {
    "savol": "Ohaktosh nima?",
    "variantlar": [
-    "Suvning bitta turi",
-    "Mitti va loydir",
-    "Rezyina",
+    "Suvning bir turi",
+    "Loy",
+    "Rezina",
     "Qattiq tosh"
    ],
    "togri": 3,
@@ -19,7 +19,7 @@
    "variantlar": [
     "Gilga",
     "Oq mayda shag'alga",
-    "Tugaliga",
+    "Temirga",
     "Qumga"
    ],
    "togri": 1,
@@ -31,7 +31,7 @@
     "Suv bo'lgan",
     "Xarsangtoshlar bo'lgan",
     "Qum bo'lgan",
-    "Qolshiq bo'lgan"
+    "Qalin o'rmon bo'lgan"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -42,7 +42,7 @@
     "Bir necha yuz marta",
     "O'n marta",
     "Ikki marta",
-    "Mingta marta"
+    "Ming marta"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -51,8 +51,8 @@
    "savol": "G'isht qayerdagi qurilmada pishiriladi?",
    "variantlar": [
     "Pechlarda",
-    "Lovlarda",
-    "Qazanda",
+    "Muzlatkichda",
+    "Qozonda",
     "Tandirda"
    ],
    "togri": 0,
@@ -73,7 +73,7 @@
    "savol": "Oyna va shishalar qaysi qumdan tayyorlanadi?",
    "variantlar": [
     "Qizil qumdan",
-    "Kokil qumdan",
+    "Yashil qumdan",
     "Oq qumdan",
     "Qora qumdan"
    ],
@@ -174,7 +174,7 @@
     "Plitka",
     "Devor",
     "Stakan",
-    "Pinchak"
+    "Pidjak"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -204,9 +204,9 @@
   {
    "savol": "G'isht yasash jarayonida gilni nima qilish kerak?",
    "variantlar": [
-    "Shamol bilan qizdirish",
+    "Shamolda qizdirish",
     "Faqat suv bilan aralash",
-    "Molding qilip, pechda pishirish",
+    "Qoliplab, pechda pishirish",
     "Faqat quritish"
    ],
    "togri": 2,
@@ -224,7 +224,7 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Agar xarsangtosh yemirilish jarayoni uzaytirilsa, qum ko'ligi nima bo'ladi?",
+   "savol": "Agar xarsangtoshlarning yemirilishi davom etsa, qum miqdori nima bo'ladi?",
    "variantlar": [
     "Ortib boradi",
     "Bir xil qoladi",
@@ -292,7 +292,7 @@
   {
    "savol": "G'isht yasashning to'liq jarayonini ketma-ketlikda tushuntiring.",
    "variantlar": [
-    "Gilni molding qilish va pechda pishirish",
+    "Gilni qoliplash, quritish va pechda pishirish",
     "Faqat pishirish",
     "Faqat quritish",
     "Faqat rangni berish"
@@ -301,11 +301,11 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Foydali qazilmalarni hozirgi kurs bilan sarflash natijalari qanday bo'ladi?",
+   "savol": "Foydali qazilmalarni hozirgi sur'atda sarflash natijasi qanday bo'ladi?",
    "variantlar": [
     "Hech narsa o'zgarish kelmaydi",
     "Birin-ketin tugab qoladi",
-    "Sifati yaxshilashda",
+    "Sifati yaxshilanadi",
     "Miqdori ortadi"
    ],
    "togri": 1,
@@ -326,7 +326,7 @@
    "savol": "Ohaktoshdan yasalgan rang-barang bezatish material qanday xususiyatlarga ega?",
    "variantlar": [
     "Faqat qattiq",
-    "Faqat pahal",
+    "Faqat yumshoq",
     "Faqat yengil",
     "Rang berish va mustahkamlik"
    ],

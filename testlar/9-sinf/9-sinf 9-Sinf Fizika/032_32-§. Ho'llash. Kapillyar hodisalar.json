@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "32-§. Ho'llash. Kapillyar hodisalar",
+ "savollar": [
+  {
+   "savol": "Ho'llash nima?",
+   "variantlar": [
+    "Suyuqlikning qattiq jism sirtiga yopishishi",
+    "Sovishi",
+    "Bug'lanishi",
+    "Erishi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ho'llaydigan suyuqlikda meniskning shakli?",
+   "variantlar": [
+    "Botiq",
+    "Qavariq",
+    "Aylana",
+    "Tekis"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ho'llamaydigan suyuqlikda meniskning shakli?",
+   "variantlar": [
+    "Aylana",
+    "Botiq",
+    "Tekis",
+    "Qavariq"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suv shishani ho'llaydimi?",
+   "variantlar": [
+    "Yo'q",
+    "Ha",
+    "Faqat issiq",
+    "Ba'zan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Simob shishani ho'llaydimi?",
+   "variantlar": [
+    "Ha",
+    "Yo'q",
+    "Faqat sovuq",
+    "Ba'zan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kapillyar nima?",
+   "variantlar": [
+    "Yo'g'on naycha",
+    "Juda ingichka naycha",
+    "Tosh",
+    "Sim"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kapillyar hodisa nima?",
+   "variantlar": [
+    "Qaynash",
+    "Erish",
+    "Ingichka naychalarda suyuqlikning ko'tarilishi yoki pasayishi",
+    "Bug'lanish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ho'llaydigan suyuqlik kapillyarda?",
+   "variantlar": [
+    "Qaynaydi",
+    "Ko'tariladi",
+    "O'zgarmaydi",
+    "Pasayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ho'llamaydigan suyuqlik kapillyarda?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Qaynaydi",
+    "Pasayadi",
+    "Ko'tariladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kapillyar ko'tarilish balandligi formulasi?",
+   "variantlar": [
+    "h = 2σρ/gr",
+    "h = σ/ρg",
+    "h = 2σ/(ρgr)",
+    "h = ρgr/2σ"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Naycha ingichka bo'lsa (r kichik) h?",
+   "variantlar": [
+    "Katta",
+    "Kichik",
+    "Nol",
+    "O'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "σ katta bo'lsa h?",
+   "variantlar": [
+    "Katta",
+    "Kichik",
+    "Nol",
+    "O'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ρ katta bo'lsa h?",
+   "variantlar": [
+    "Nol",
+    "O'zgarmaydi",
+    "Kichik",
+    "Katta"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Suv (σ = 0,072, ρ = 1000, g = 10) r = 0,5 mm. h = 2σ/(ρgr) = ?",
+   "variantlar": [
+    "≈ 0,0029 m",
+    "≈ 2,9 m",
+    "≈ 0,29 m",
+    "≈ 0,029 m"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi naycha radiusi 2 marta kichik bo'lsa h?",
+   "variantlar": [
+    "4 marta katta",
+    "2 marta katta",
+    "2 marta kichik",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qog'ozning suvni shimishi qaysi hodisa?",
+   "variantlar": [
+    "Qaynash",
+    "Erish",
+    "Bug'lanish",
+    "Kapillyar hodisa"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'simlik tomirlarida suv ko'tarilishi?",
+   "variantlar": [
+    "Kapillyar hodisa",
+    "Qaynash",
+    "Bug'lanish",
+    "Erish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dokali sham fitilida moy ko'tarilishi?",
+   "variantlar": [
+    "Bug'lanish",
+    "Qaynash",
+    "Kapillyar hodisa",
+    "Erish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun shakar bo'lagi suvni tortadi?",
+   "variantlar": [
+    "Erish",
+    "Rang",
+    "Kapillyarlik (g'ovaklik)",
+    "Massa"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun plash suvni o'tkazmaydi?",
+   "variantlar": [
+    "Rang",
+    "Yengil",
+    "Mato moy bilan ho'llanmaydi",
+    "Sovuq"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ho'llash burchagi θ bo'lsa h = 2σ cos θ/(ρgr). θ = 0° da h?",
+   "variantlar": [
+    "Nol",
+    "Manfiy",
+    "Kichik",
+    "Eng katta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ho'llamaydigan suyuqlikda θ > 90°, cos θ < 0. h?",
+   "variantlar": [
+    "Musbat",
+    "Manfiy (pasayadi)",
+    "Nol",
+    "Cheksiz"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Simob (σ = 0,47, ρ = 13 600) r = 1 mm. |h| = 2σ/(ρgr) ≈ ? (g = 10)",
+   "variantlar": [
+    "≈ 0,007 m",
+    "≈ 0,7 m",
+    "≈ 0,0007 m",
+    "≈ 0,07 m"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita kapillyar: r₁ = 1 mm, r₂ = 2 mm. Suvda h₁/h₂ = ?",
+   "variantlar": [
+    "1",
+    "2",
+    "4",
+    "1/2"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kapillyar hodisa qaysi kuchga asoslangan?",
+   "variantlar": [
+    "Og'irlik",
+    "Kulon",
+    "Sirt taranglik kuchi",
+    "Magnit"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun tuproqni yumshatganda namlik saqlanadi?",
+   "variantlar": [
+    "Sovuq",
+    "Massa",
+    "Rang",
+    "Kapillyarlar buziladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun uyning fundamentida gidroizolyatsiya?",
+   "variantlar": [
+    "Rang",
+    "Massa",
+    "Chiroy",
+    "Kapillyar ko'tarilishni oldini olish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ho'llash va ho'llamaslik nimaga bog'liq?",
+   "variantlar": [
+    "Vaqtga",
+    "Faqat rangga",
+    "Massaga",
+    "Suyuqlik va qattiq jism turiga"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sovun pufagida tashqi va ichki bosim farqi Δp = 4σ/r. σ = 0,04, r = 1 sm. Δp = ?",
+   "variantlar": [
+    "0,16 Pa",
+    "1,6 Pa",
+    "16 Pa",
+    "160 Pa"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tomchi ichidagi qo'shimcha bosim Δp = 2σ/r. σ = 0,07, r = 1 mm. Δp = ?",
+   "variantlar": [
+    "14 Pa",
+    "70 Pa",
+    "140 Pa",
+    "1400 Pa"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

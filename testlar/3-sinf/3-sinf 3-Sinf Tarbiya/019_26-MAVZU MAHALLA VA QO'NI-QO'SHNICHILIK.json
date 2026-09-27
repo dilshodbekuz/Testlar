@@ -6,10 +6,10 @@
   {
    "savol": "Qo'shnining haqi nimada bo'lishi mumkin?",
    "variantlar": [
-    "Qo'shnining o'yiga turli narsalarni taklif qilish",
-    "Qo'shni bilan do'stona munosabat va unga yordam berish, uning hayotiga xalaqit bermash",
-    "Qo'shniga biror narsani qarz olish",
-    "Qo'shnining ko'chmarida har doim o'ta borish"
+    "Qo'shnining eshigi oldida shovqin qilish",
+    "Qo'shni bilan do'stona munosabatda bo'lish, unga yordam berish va xalaqit bermaslik",
+    "Qo'shnidan doim qarz so'rash",
+    "Qo'shnikiga har kuni so'roqsiz kirish"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -20,7 +20,7 @@
     "Eng boy odamlar",
     "Mahalla oqsoqoli (mahalla raisi)",
     "Eng katta o'qituvchilar",
-    "Eng katta shujonalar"
+    "Eng yosh yigitlar"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -37,11 +37,11 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Adham onasi uni nima uchun chaqirib qoldi?",
+   "savol": "Adhamni onasi nima uchun chaqirdi?",
    "variantlar": [
-    "Boshqa bolalar bilan o'ynamaygan uchun",
-    "Chiqindilarni tashlab kelishini buyrugani uchun",
-    "Ko'chada yolg'onni uchun",
+    "Boshqa bolalar bilan o'ynamagani uchun",
+    "Chiqindini tashlab kelishni buyurgani uchun",
+    "Ko'chada yolg'on gapirgani uchun",
     "Futbol o'ynashni taqiqlagani uchun"
    ],
    "togri": 1,
@@ -51,8 +51,8 @@
    "savol": "Yolg'iz ayol uyida nima sodir bo'ldi?",
    "variantlar": [
     "Shamol oynani sindirdi",
-    "O'g'li tasodifa uzangullik etdi",
-    "Asxona portlab ketdi",
+    "O'g'li tasodifan o'yinchoq sindirdi",
+    "Oshxonada qozon qaynab ketdi",
     "Isitgichning nosozligi tufayli yong'in sodir bo'ldi"
    ],
    "togri": 3,
@@ -61,7 +61,7 @@
   {
    "savol": "Ko'chada Adham nima qilayotgan edi?",
    "variantlar": [
-    "Toza sho'rlamoqchi edi",
+    "Ko'cha supurayotgan edi",
     "Maza qilib to'p tepayotgan edi",
     "Yugurib yuribdi",
     "O'qish darsini qilib turibdi"
@@ -72,7 +72,7 @@
   {
    "savol": "Yong'inda yolg'iz ayol qaysi ko'chada yashardi?",
    "variantlar": [
-    "Quzisada",
+    "Qishloqda",
     "Shahar markazida",
     "Ko'chaning birinchi muyulishida",
     "Ko'chaning oxiri chizig'ida"
@@ -83,7 +83,7 @@
   {
    "savol": "Mahalla aholisini qanday narsalar bog'laydi?",
    "variantlar": [
-    "Faqat qo'l-qo'naqa",
+    "Faqat qarindoshlik",
     "Faqat puli bor-yo'qligi",
     "Qo'ni-qo'shnichilik, ichki tartib-qoida, ma'naviy-axloqiy me'yorlar, urf-odatlar va umumiy manfaatlar",
     "Faqat qo'ni-qo'shnichilik"
@@ -96,7 +96,7 @@
    "variantlar": [
     "Faqat to'ylarni",
     "Pul sarmayasini",
-    "Faqat sho'rvaytni",
+    "Faqat bayramlarni",
     "Jamoatchilik tizimini"
    ],
    "togri": 3,
@@ -105,9 +105,9 @@
   {
    "savol": "«Girgitton buvi» matni qaysisi haqida gapiradi?",
    "variantlar": [
-    "Bir shifo o'simliksi haqida",
-    "Qo'l-qo'naqa haqida",
-    "Togga chiqish haqida",
+    "Shifobaxsh o'simlik haqida",
+    "Qarindoshlar haqida",
+    "Toqqa chiqish haqida",
     "Mehmondostlik va saxovatchilik haqida"
    ],
    "togri": 3,
@@ -116,10 +116,10 @@
   {
    "savol": "Buvining «qizg'anchiq»ligini qanday tushunutish mumkin?",
    "variantlar": [
-    "Buvi boshida o'rnak o'ratgan",
+    "Buvi hech kimga hech narsa bermasdi",
     "Buvi mehmondostli va saxovatchilik bilan harekat qilardi",
-    "Buvi tez-tez sakradi",
-    "Buvi har doim kuldi"
+    "Buvi tez-tez sakrardi",
+    "Buvi doim kulardi"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -130,7 +130,7 @@
     "Ular o'zlarining ishiga amal qildilar",
     "Ular sekin-asta o't o'chirishga kirdiliar",
     "Ular shoshildilar va birgalikda o't o'chirishga harakat qildilar",
-    "Ular aytib-kuʻchit qildilar, lekin yordam bermadilar"
+    "Ular faqat tomosha qildilar"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -140,7 +140,7 @@
    "variantlar": [
     "Inkor qildi",
     "Xursand bo'lib chiqindi xaltasini olib ketdi",
-    "Norozi bo'lib bos qaldi",
+    "Norozi bo'lib turib qoldi",
     "Yo'ldan qaytib qoldi"
    ],
    "togri": 1,
@@ -149,20 +149,20 @@
   {
    "savol": "Yong'in sodir bo'lganda mahallaning katta-kichligi nima qildilar?",
    "variantlar": [
-    "Uyalob qoldilar",
-    "Bir-biriga suv uzatishar, qum separdi va o't o'chirishga harakat qildilar",
+    "Uyalib qoldilar",
+    "Bir-biriga suv uzatib, qum sepib, o't o'chirishga harakat qildilar",
     "Ayolning uyiga qaraymay ketib qoldilar",
-    "Uyda otirip qoldilar"
+    "Uyda o'tirib qoldilar"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Buviga yong'oq berayotgan bolani buvining «Yuraqol» deb chaqirig'i nima bildiradi?",
+   "savol": "Buvining «Yuraqol» deb chaqirishi nimani bildiradi?",
    "variantlar": [
-    "Buvi bolanoni salomlaydi va saxovatchilik bilan qabul qiladi",
-    "Buvi bolanoni xizmatchi qilmoqchidi",
-    "Buvi bolanoni haraka taqiqlay chagaydi",
+    "Buvi bolani mehr bilan chaqirib, saxiylik qiladi",
+    "Buvi bolani xizmatga chaqirdi",
+    "Buvi bolani urishdi",
     "Buvi bolanoni yoqtirmaydi"
    ],
    "togri": 0,
@@ -182,8 +182,8 @@
   {
    "savol": "Mahallaning tinchligini ta'minlash uchun nima zarur?",
    "variantlar": [
-    "Faqat qon-qavomi",
-    "Oqsoqolning mas'uliyati va mahalla aholisining oʻzaro tinchlik ruhiga ayllanishi",
+    "Faqat qarindoshlar",
+    "Oqsoqolning mas'uliyati va aholining o'zaro tinch-totuvligi",
     "Faqat pul",
     "Faqat bolalarni taqiqlash"
    ],
@@ -193,9 +193,9 @@
   {
    "savol": "Mahalla aholisining jamoa bo'lib yashashi nima uchun zarur?",
    "variantlar": [
-    "Faqat bo'ylik aytish uchun",
+    "Faqat maqtanish uchun",
     "Hech nima uchun zarur emas",
-    "Qo'rquvdan saqlash, qadriyatlarni shakllantirilishi uchun",
+    "Bir-birini qo'llab-quvvatlash va qadriyatlarni shakllantirish uchun",
     "Faqat pul uchun"
    ],
    "togri": 2,
@@ -206,7 +206,7 @@
    "variantlar": [
     "Faqat halol pul kerak",
     "Yong'oq eng qimmatli",
-    "Mehmondostlik va saxovatchilik insanni ijobiy qadriyatlarni bilir qiladi",
+    "Saxiylik va mehmondo'stlik insonni ezgu qiladi",
     "Buvini hamisha so'rash kerak"
    ],
    "togri": 2,
@@ -215,9 +215,9 @@
   {
    "savol": "Adhamning chiqindi tashishi mahallaga qanday ta'sir ko'rsatadi?",
    "variantlar": [
-    "Ariqni ifloslantirib, mahalla bolalariga shunga o'rgatib, mahalla obodini buzadi",
+    "Ariqni ifloslantiradi, boshqalarga yomon o'rnak bo'ladi, mahalla obodligini buzadi",
     "Faqat Adhamga ta'sir ko'rsatadi",
-    "Buvi sa'adatiga zarar yetkazadi",
+    "Faqat buviga zarar yetkazadi",
     "Hech qanday ta'sir ko'rsatmaydi"
    ],
    "togri": 0,
@@ -248,7 +248,7 @@
   {
    "savol": "«Qo'shning tinch – sen tinch» maqolasi Adhamning harakati bilan qanday bog'lanadi?",
    "variantlar": [
-    "Maqola hali vaqtida amal qiladi",
+    "Maqolning bu voqeaga aloqasi yo'q",
     "Agar ariqqa chiqindi to'kilsa, qo'shniga zarar yetadi, bu Adhamga ham zarar beradi",
     "Bog'lanmaydi",
     "Adham yolg'on aytgan"
@@ -259,10 +259,10 @@
   {
    "savol": "Buvining mehmondostligi mahalla hayotida qanday rol o'ynaydi?",
    "variantlar": [
-    "Mahallaning qadriyatini o'stira, odam-odam o'rtasida mehribonlik va saxovatchilik ruhini yaratadi",
+    "Odamlar orasida mehr va saxiylik ruhini kuchaytiradi",
     "Faqat pul uchun zarur",
     "Hech qanday rol o'ynamaydi",
-    "Faqat girgittonlar uchun rol o'ynaydi"
+    "Faqat buvining o'zi uchun muhim"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -272,7 +272,7 @@
    "variantlar": [
     "Hech qanday ta'sir ko'rsatmadi",
     "Salbiy ta'sir ko'rsatdi",
-    "Mahallaning oʻzaro yordam-kuvchalik ayolni qutqarish uchun yaroqli bo'ldi, bu yurtni tamir qilish va saviyasini oʻrgatadi",
+    "Mahalla ahilligi ayolni qutqarishga yordam berdi; bunday birlik yurtni mustahkam qiladi",
     "Faqat ayolni qutqarish kerak edi"
    ],
    "togri": 2,
@@ -281,7 +281,7 @@
   {
    "savol": "Mahalla qadriyatlarini shakllantirilishi uchun qanday shartlar zarur?",
    "variantlar": [
-    "Faqat zakon qo'llanish",
+    "Faqat qonun",
     "Oila, mahalla va oqsoqolning birgalikda ishlashi, odam-odam o'rtasida imon, ishonch va oʻzaro yordam-kuvchalik zarur",
     "Faqat o'qituvchi kerak",
     "Faqat pul yetarli"
@@ -306,7 +306,7 @@
     "Chiqindi tashishning ahamiyati yo'q",
     "Faqat yaxshi xulq-atvori muhim",
     "Xulq-atvori mahallaga ta'sir ko'rsatmaydi",
-    "Adham ariqqa chiqindi to'kilsa, mahalla bolalari ifloslikka o'rganadi, bu mahallaning va yurtning taqdiri buziladi"
+    "Adham ariqqa chiqindi to'ksa, boshqalar ham ifloslikka o'rganadi, bu mahalla va yurtga zarar"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -314,7 +314,7 @@
   {
    "savol": "«Bir farzandning tarbiyasi uchun yetti mahalla mas'ul» degan ibora nima bildiradi?",
    "variantlar": [
-    "Bolaning tarbiyasida oila, mahalla, oqsoqol va barcha aholining roli bir xil muhimdir",
+    "Bola tarbiyasiga butun mahalla mas'ul",
     "Faqat onajon mas'ul",
     "Faqat o'qituvchi mas'ul",
     "Faqat otajon mas'ul"

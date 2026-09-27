@@ -29,7 +29,7 @@
    "savol": "Bolalar qordan nima yasaydilar?",
    "variantlar": [
     "Qorbobo haykalini",
-    "O'yin o'yinalmaydigan narsani",
+    "O'yinchoq mashina",
     "Uy",
     "Suv"
    ],
@@ -50,8 +50,8 @@
   {
    "savol": "Qorbobo haykalini yasash uchun qanday material kerak?",
    "variantlar": [
-    "Glin",
-    "Qop",
+    "Loy",
+    "Qog'oz",
     "Qor",
     "Tosh"
    ],
@@ -105,10 +105,10 @@
   {
    "savol": "Bolalar qordan qanday narsalarni yasaydilar?",
    "variantlar": [
-    "Faqat o'yin o'yinaladi",
+    "Faqat to'p",
     "Qorbobo va boshqa haykallar",
-    "Faqat sug'urta",
-    "Faqat to'qtoq"
+    "Faqat qayiq",
+    "Faqat kitob"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -127,10 +127,10 @@
   {
    "savol": "Nima uchun qor va yaxmalaklar bolalarga o'yin maydoniga aylanadi?",
    "variantlar": [
-    "Darslik",
+    "Darslikda shunday yozilgan",
     "Sovuq iqlim tufayli qiziqarli o'yinlarga imkon beradi",
-    "Baland bo'lganidek emas",
-    "Murakkab narsadir"
+    "Qor baland bo'lgani uchun",
+    "Qor murakkab narsa"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -150,7 +150,7 @@
    "savol": "Qorbobo haykalini tuzishdan avval nima qilish kerak?",
    "variantlar": [
     "Qorni tayyorlash",
-    "Shahar tashrifi",
+    "Shaharga borish",
     "Kitob o'qish",
     "Rang sotib olish"
    ],
@@ -171,8 +171,8 @@
   {
    "savol": "Rassom qorbobo rasmini bosqichma-bosqich nima uchun ishlagan?",
    "variantlar": [
-    "Rang sotish",
-    "Rasm kichik bo'lsini",
+    "Rang sotish uchun",
+    "Rasm kichik bo'lsin deb",
     "O'quvchilarga oson tushuntirish va ko'rsatish",
     "Vaqtni sarflash"
    ],
@@ -182,9 +182,9 @@
   {
    "savol": "Bolalar chang'ida qaysi narsalardan foydalanadilar?",
    "variantlar": [
-    "Qop va yuqon",
+    "Qop va arqon",
     "Daftar va qalam",
-    "Kitob va alaif",
+    "Kitob va lagan",
     "Chang'i"
    ],
    "togri": 3,
@@ -205,7 +205,7 @@
    "savol": "Bolalar qorbobo rasmini ishlashda qaysi jarayonni kuzatish kerak?",
    "variantlar": [
     "Faqat oxirgi natijani",
-    "Varlanish xalida",
+    "Faqat boshlanishini",
     "Hech kimni",
     "Bosqichma-bosqich ishlash jarayonini"
    ],
@@ -239,7 +239,7 @@
    "variantlar": [
     "Iqlim o'zgaradi",
     "Qor va yaxmalaklar tabiatan qiziqarli o'yinlarga sharoit beradi",
-    "Qor shodqushqoq",
+    "Qor shoshqaloq",
     "Bolalar xush ko'radilar"
    ],
    "togri": 1,
@@ -260,7 +260,7 @@
    "savol": "Rassom qorbobo rasmini 4 bosqichda ishlash qaysi maqsaddagi?",
    "variantlar": [
     "O'quvchilarga o'rgatish va ketma-ket bo'lishni ko'rsatish",
-    "Shum chiqarish",
+    "Shovqin chiqarish",
     "Vaqt sarflash uchun",
     "Rang sotish"
    ],
@@ -283,8 +283,8 @@
    "variantlar": [
     "Ularning barchasi sovuq iqlim va qorga bog'liq",
     "Ularning barchasi darsga tegishli",
-    "Ularning barchasi ot hojatida kerak",
-    "Ularning barchasi yom-yom kerak"
+    "Ularning barchasi yozda o'ynaladi",
+    "Ularning barchasi uyda o'ynaladi"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -306,7 +306,7 @@
     "Vaqtni o'ldirish uchun",
     "Dars vaqtini uzaytirish",
     "O'quvchilarga murakkab rasmni soddalashtirish va o'rgatish",
-    "Markelarni sug'urta qilish"
+    "Qog'oz tejash uchun"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"

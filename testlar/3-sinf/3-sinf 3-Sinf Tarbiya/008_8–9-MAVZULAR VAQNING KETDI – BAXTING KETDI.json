@@ -4,7 +4,7 @@
  "mavzu": "8–9-MAVZULAR: VAQNING KETDI – BAXTING KETDI",
  "savollar": [
   {
-   "savol": "Gulyora qanday muvaffaqiyatga erishlogan?",
+   "savol": "Gulyora qanday muvaffaqiyatga erishgan?",
    "variantlar": [
     "Yozuvda jurnal",
     "Musiqada mukammillik",
@@ -39,7 +39,7 @@
   {
    "savol": "Gulyora vaqtini to'g'ri taqsimlashda kimning maslahatiga amal qildi?",
    "variantlar": [
-    "O'nglar",
+    "Do'stlarining",
     "Maktab direktori",
     "Jurnalistlar",
     "Ota-ona va ustozlar"
@@ -52,19 +52,19 @@
    "variantlar": [
     "Kitoblarni ko'p sotib oldi",
     "Pulni sarf qildi",
-    "Ko'p uchrab yurdi",
+    "Ko'p sayr qildi",
     "Tinimsiz tayyorgarlik ko'rdi va kun tartibiga rioya qildi"
    ],
    "togri": 3,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Olimjon qanday xati-harakatlarga berib ketdi?",
+   "savol": "Olimjon nimaga berilib ketdi?",
    "variantlar": [
     "Kitob o'qishga",
     "Kompyuter o'yinlariga",
-    "Kinosining",
-    "Sayt ziyoratiga"
+    "Kino ko'rishga",
+    "Sayohatga"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -83,9 +83,9 @@
   {
    "savol": "Vaqtni taqsimlash deganda nima tushuniladi?",
    "variantlar": [
-    "Vaqtni turli ishlar uchun to'g'ri belgilash va banjilsh",
+    "Vaqtni turli ishlar uchun to'g'ri belgilab chiqish",
     "Vaqtni xarajlash",
-    "Vaqtni bir nechaga bo'lish",
+    "Vaqtni behuda o'tkazish",
     "Vaqtni umuman o'ylash"
    ],
    "togri": 0,
@@ -97,7 +97,7 @@
     "Faqat darsga",
     "Chiroyli amallarga",
     "Faqat o'yinga",
-    "Yordamchiga"
+    "Uyquga"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -118,8 +118,8 @@
    "variantlar": [
     "Darslarni tashlab qo'ydi",
     "Sezmay vaqt o'tdi",
-    "Kompyuterning vaqtini ko'taytdi",
-    "Muvaffaqiyatga erishlosh mumkin bo'ldi"
+    "Kompyuter o'yinlariga berilib ketdi",
+    "Muvaffaqiyatga erishdi"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -129,8 +129,8 @@
    "variantlar": [
     "Vaqtni avvaldan belgilab berish",
     "Vaqtni bilmasdan ishlash",
-    "Vaqt bilan o'yna sh",
-    "Vaqtni hech qachon o'qish"
+    "Vaqt bilan o'ynash",
+    "Vaqtni hisobga olmaslik"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -138,8 +138,8 @@
   {
    "savol": "Tartib va intizom vaqtni to'g'ri sarflashga qanday ta'sir qiladi?",
    "variantlar": [
-    "Vaqtni tayyorlashga yordam beradi",
-    "Yopiq qiladi",
+    "Vaqtni kamaytiradi",
+    "Vaqtni behuda ketkazadi",
     "Hech qanday aloqasi yo'q",
     "Vaqtni yaxshi ishlatishga imkon beradi"
    ],
@@ -147,9 +147,9 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Uy ishlariga qo'shimcha dars qilish uchun nima zarur?",
+   "savol": "Uy ishlariga yordam berish va qo'shimcha dars qilish uchun nima zarur?",
    "variantlar": [
-    "O'q",
+    "O'yin",
     "Ko'p pul",
     "Katta kitob",
     "Vaqtni to'g'ri taqsimlash"
@@ -162,7 +162,7 @@
    "variantlar": [
     "Hech qanday bog'lanish yo'q",
     "Vaqt va baxt bir xil",
-    "Baxt vaqtni o'lchanganida o'tadi",
+    "Baxt vaqtdan qochadi",
     "Vaqtni to'g'ri sarflasa baxt keladi"
    ],
    "togri": 3,
@@ -180,12 +180,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Gulyora dars tayyor likda nima qilgan?",
+   "savol": "Gulyora olimpiadaga qanday tayyorlandi?",
    "variantlar": [
     "Tinimsiz tayyorgarlik ko'rdi",
     "Kompyuter o'ynadi",
-    "Sarfi-sarfona o'yla di",
-    "Ko'p yumshatdi"
+    "Sarson-sargardon yurdi",
+    "Ko'p uxladi"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -196,7 +196,7 @@
     "Vaqtni rejalashtirish",
     "Kompyuter ishlatish",
     "Sekin ishlash",
-    "O'z ichiga tortinish"
+    "Hamma ishni kechiktirish"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -204,10 +204,10 @@
   {
    "savol": "Olimjon kompyuter o'yinlariga berib ketganda nima zararini ko'rdi?",
    "variantlar": [
-    "Kulgi bekor bo'ldi",
-    "Miya g'alatdi",
+    "O'yinda yutqazdi",
+    "Kasal bo'lib qoldi",
     "Maktabga borish vaqtini sezmay qoldi va darsga ulgurmas qoldi",
-    "Ko'zi tushdi"
+    "Ko'zi og'ridi"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -226,20 +226,20 @@
   {
    "savol": "Agar Olimjon vaqtini rejalashtirgan bo'lsa, uning qanday natijasi bo'lar edi?",
    "variantlar": [
-    "Yenada ko'p o'ynamuchun",
+    "Yanada ko'p o'ynardi",
     "Darsga vaqtida borar va taraqqiyot qilardi",
-    "Yordama yo'q",
-    "Sekin qilur edi"
+    "Hech narsa o'zgarmasdi",
+    "Kechroq uxlardi"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Gulyora va Olimjon qissan qanday farq bor?",
+   "savol": "Gulyora va Olimjon qissasida qanday farq bor?",
    "variantlar": [
-    "Juda yo'q",
+    "Hech farq yo'q",
     "Yoshi boshqacha",
-    "Gulyora vaqtini to'g'ri ishlatti, Olimjon vaqtini bema'ni sotdi",
+    "Gulyora vaqtini to'g'ri ishlatdi, Olimjon vaqtini behuda sarfladi",
     "Puli boshqacha"
    ],
    "togri": 2,
@@ -248,9 +248,9 @@
   {
    "savol": "Vaqtni to'g'ri taqsimlab oladigan insan qanday sifatlar ko'rsatadi?",
    "variantlar": [
-    "Yumshatib ishlash",
+    "Dangasalik",
     "Tartib, intizom va maqsadga qaratilganlik",
-    "Juda eski",
+    "Shoshqaloqlik",
     "Behuda ishlash"
    ],
    "togri": 1,
@@ -270,7 +270,7 @@
   {
    "savol": "Gulyora tinimsiz tayyorgarlik ko'rganligi va kun tartibiga rioya qilganligi qanday natija berdi?",
    "variantlar": [
-    "Ortiqcha to'ng",
+    "Charchab qoldi",
     "Yo'qolgan vaqt",
     "Xalqaro fan olimpiadasida g'oliblik qo'lga kiritish",
     "Bema'ni ishlash"
@@ -306,7 +306,7 @@
     "Maqsad belgilash va tartib tutish",
     "Xursandlik",
     "Shunchaki ishlash",
-    "Rahiash"
+    "Dam olish"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -323,9 +323,9 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Enson tug'ilganidan beri qancha vaqt o'tganligi bilish va vaqtni to'g'ri ishlati sh o'rtasida qanday aloqa bo'lishi mumkin?",
+   "savol": "Inson tug'ilganidan beri qancha vaqt o'tganini bilish va vaqtni to'g'ri ishlatish o'rtasida qanday aloqa bor?",
    "variantlar": [
-    "Yo'qoladi",
+    "Vaqt to'xtaydi",
     "O'tgan vaqtni bilish vaqtni qadrlashga va to'g'ri ishlat ishga undaydi",
     "Vaqt bo'linadi",
     "Hech qanday"

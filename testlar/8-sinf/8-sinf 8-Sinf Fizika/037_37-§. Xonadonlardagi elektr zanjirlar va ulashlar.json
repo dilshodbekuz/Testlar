@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "37-§. Xonadonlardagi elektr zanjirlar va ulashlar",
+ "savollar": [
+  {
+   "savol": "Xonadon elektr tarmog'ida kuchlanish?",
+   "variantlar": [
+    "12 V",
+    "220 V",
+    "1000 V",
+    "1,5 V"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xonadonda priborlar qanday ulanadi?",
+   "variantlar": [
+    "Ketma-ket",
+    "Aralash",
+    "Parallel",
+    "Ulanmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr hisoblagich nimani o'lchaydi?",
+   "variantlar": [
+    "Tok kuchini",
+    "Kuchlanishni",
+    "Sarflangan elektr energiyasini",
+    "Massani"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rozetka nima uchun kerak?",
+   "variantlar": [
+    "Yoritish uchun",
+    "Isitish uchun",
+    "Priborlarni tarmoqqa ulash uchun",
+    "Tovush uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vilka nima?",
+   "variantlar": [
+    "Pribor simini rozetkaga ulaydigan qism",
+    "Batareya",
+    "Kalit",
+    "Lampa"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xonadonda o'chirgich (kalit) nima uchun kerak?",
+   "variantlar": [
+    "Yoritish",
+    "Isitish",
+    "Tovush",
+    "Zanjirni ulash-uzish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Saqlagich (avtomat) nima uchun kerak?",
+   "variantlar": [
+    "Yoritish",
+    "Isitish",
+    "Tovush",
+    "Ortiqcha yuklanishdan himoya qilish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yerga ulash nima uchun kerak?",
+   "variantlar": [
+    "Xavfsizlik uchun",
+    "Isitish",
+    "Yoritish",
+    "Tovush"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tarmoqdagi ikki sim qanday ataladi?",
+   "variantlar": [
+    "Katta va kichik",
+    "Faza va nol",
+    "Ichki va tashqi",
+    "Musbat va manfiy"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kalit qaysi simga ulanishi kerak?",
+   "variantlar": [
+    "Yerga ulanmagan",
+    "Ikkalasiga",
+    "Nolga",
+    "Fazaga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xonadonga tok kuchi 10 A gacha mo'ljallangan, tarmoq 220 V. Eng katta quvvat?",
+   "variantlar": [
+    "230 Vt",
+    "2200 Vt",
+    "22 Vt",
+    "210 Vt"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Xonadonda 100 Vt lampa, 2 kVt choynak va 1,5 kVt dazmol bir vaqtda yoqilsa, umumiy quvvat?",
+   "variantlar": [
+    "360 Vt",
+    "3,6 Vt",
+    "3,6 kVt",
+    "100 kVt"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi umumiy quvvatda tok (U = 220 V)?",
+   "variantlar": [
+    "≈ 0,016 A",
+    "792 A",
+    "3,6 A",
+    "≈ 16,4 A"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tarmoqdagi tok saqlagich erib ketishiga sabab?",
+   "variantlar": [
+    "Tok oshib ketishi",
+    "Qarshilik oshishi",
+    "Kuchlanish kamayishi",
+    "Sovuq"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Elektr priborlarni bir rozetkaga ko'p ulash nima uchun xavfli?",
+   "variantlar": [
+    "Qarshilik ortadi",
+    "Kuchlanish kamayadi",
+    "Tok oshib, simlar qizib ketadi",
+    "Xavfsiz"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qisqa tutashuv nima?",
+   "variantlar": [
+    "Juda kichik qarshilik tufayli tokning keskin ortishi",
+    "Tok yo'qolishi",
+    "Tovush",
+    "Kuchlanish oshishi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ko'p qavatli uylarda hisoblagich nima uchun kerak?",
+   "variantlar": [
+    "Yoritish",
+    "Sarfni hisoblash uchun",
+    "Tovush",
+    "Isitish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Xonadondagi lampa va kalit qanday ulanadi?",
+   "variantlar": [
+    "Aralash",
+    "Parallel",
+    "Ulanmaydi",
+    "Ketma-ket"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki xonali lampa (ikki kalit) sxemasi nima deyiladi?",
+   "variantlar": [
+    "Parallel",
+    "Ketma-ket",
+    "O'tish (ikki joydan boshqariladigan) kalit",
+    "Aralash"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Priborlarning nominal quvvati qayerda ko'rsatiladi?",
+   "variantlar": [
+    "Rozetkada",
+    "Pasportida (yorlig'ida)",
+    "Kalitda",
+    "Devorda"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Simning kesimi kichik bo'lsa, katta tokda nima yuz beradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Sovuydi",
+    "Yorishadi",
+    "Qizib ketadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Xonadondagi uzatgich sim o'lchami nimaga qarab tanlanadi?",
+   "variantlar": [
+    "Massaga",
+    "Uzunligiga",
+    "Tok kuchi va quvvatga",
+    "Sim rangiga"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektr hisoblagich 1 oyda 150 kVt·soat ko'rsatdi. Narxi 500 so'm. To'lov?",
+   "variantlar": [
+    "3,3 so'm",
+    "75 000 so'm",
+    "300 so'm",
+    "150 500 so'm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Choynak 1,5 kVt kuniga 1 soat, 30 kunda energiya?",
+   "variantlar": [
+    "450 kVt·soat",
+    "30 kVt·soat",
+    "1,5 kVt·soat",
+    "45 kVt·soat"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir xil ketma-ket ulangan ikkita lampa tarmoqqa (220 V) ulansa, har birida kuchlanish?",
+   "variantlar": [
+    "55 V",
+    "440 V",
+    "110 V",
+    "220 V"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Parallel ulangan 3 ta lampa, har biri 0,3 A. Umumiy tok?",
+   "variantlar": [
+    "0,9 A",
+    "0,1 A",
+    "2,7 A",
+    "0,3 A"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Avtomat saqlagich 16 A ga mo'ljallangan. 220 V da eng katta quvvat?",
+   "variantlar": [
+    "204 Vt",
+    "236 Vt",
+    "13,75 Vt",
+    "3520 Vt"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir vaqtda 2,5 kVt iste'mol qilinsa, 220 V da tok?",
+   "variantlar": [
+    "550 A",
+    "≈ 0,088 A",
+    "≈ 11,4 A",
+    "2,5 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Faza simiga tegib ketsa nima xavfli?",
+   "variantlar": [
+    "Yer orqali tok o'tishi",
+    "Kuchlanish ortishi",
+    "Tovush",
+    "Yorug'lik"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nol simi nima uchun kalitdan o'tmaydi?",
+   "variantlar": [
+    "Sababsiz",
+    "Massa",
+    "Chiroy uchun",
+    "Kalit faza simida bo'lishi xavfsiz"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

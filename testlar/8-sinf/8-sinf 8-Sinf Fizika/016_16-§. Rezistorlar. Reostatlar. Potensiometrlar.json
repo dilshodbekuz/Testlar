@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "16-§. Rezistorlar. Reostatlar. Potensiometrlar",
+ "savollar": [
+  {
+   "savol": "Rezistor nima?",
+   "variantlar": [
+    "Lampa",
+    "Ma'lum qarshilikka ega bo'lgan element",
+    "Kalit",
+    "Tok manbai"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Reostat nima?",
+   "variantlar": [
+    "Doimiy qarshilik",
+    "Tok manbai",
+    "Qarshiligi o'zgartiriladigan asbob",
+    "Voltmetr"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Reostat nima uchun ishlatiladi?",
+   "variantlar": [
+    "Yoritish uchun",
+    "Tok kuchini rostlash uchun",
+    "Tovush uchun",
+    "Isitish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Potensiometr nima?",
+   "variantlar": [
+    "Kuchlanishni rostlovchi qarshilik",
+    "Kalit",
+    "Tok manbai",
+    "Lampa"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Reostatning sirg'anuvchi kontakti nima deyiladi?",
+   "variantlar": [
+    "Lampa",
+    "Kalit",
+    "Sim",
+    "Sirpanchi (surilgich)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Reostat zanjirga qanday ulanadi?",
+   "variantlar": [
+    "Ketma-ket",
+    "Parallel",
+    "Ulanmaydi",
+    "Aralash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Reostatni uzunroq qismi ulansa qarshilik?",
+   "variantlar": [
+    "O'zgarmas",
+    "Kichik",
+    "Nol",
+    "Katta"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sxemada reostat qanday belgilanadi?",
+   "variantlar": [
+    "Rezistor belgisi va strelka",
+    "Aylana",
+    "Nuqta",
+    "Uchburchak"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rezistor qarshiligi qanday birlikda o'lchanadi?",
+   "variantlar": [
+    "Amper",
+    "Vatt",
+    "Om",
+    "Volt"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sim reostatida qanday sim ishlatiladi?",
+   "variantlar": [
+    "Kumush",
+    "Oltin",
+    "Mis",
+    "Yuqori solishtirma qarshilikli (nikelin)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Reostat surilgichi chapga surilganda qarshilik kamaysa, tok kuchi?",
+   "variantlar": [
+    "Kamayadi",
+    "O'zgarmaydi",
+    "Ortadi",
+    "Nolga teng"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Reostat qarshiligi 2 marta oshirilsa, kuchlanish o'zgarmas bo'lsa, tok?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "2 marta ortadi",
+    "2 marta kamayadi",
+    "4 marta kamayadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Potensiometr yordamida nima o'zgartiriladi?",
+   "variantlar": [
+    "Massa",
+    "Uzunlik",
+    "Kuchlanish",
+    "Vaqt"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Reostatda 20 Om yozilgan. Bu nimani bildiradi?",
+   "variantlar": [
+    "Eng kichik qarshiligi",
+    "Eng katta qarshiligi",
+    "Tok kuchi",
+    "Kuchlanish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Reostatdagi 2 A yozuvi nimani bildiradi?",
+   "variantlar": [
+    "O'rtacha tok",
+    "Eng kichik tok",
+    "Ruxsat etilgan eng katta tok",
+    "Kuchlanish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Reostat kesim yuzi katta bo'lsa nima yuz beradi?",
+   "variantlar": [
+    "Tok o'tmaydi",
+    "Katta tok o'tkazadi",
+    "Kichik tok",
+    "Qarshilik cheksiz"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yaxshi reostatning simi nima bilan o'raladi?",
+   "variantlar": [
+    "Yog'ochda",
+    "Suvda",
+    "Karkas ustiga o'raladi va izolyatsiyalanadi",
+    "Havoda"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Radiopriyomnikda ovoz balandligi rostlagichi qanday asbob?",
+   "variantlar": [
+    "Ampermetr",
+    "Potensiometr",
+    "Batareya",
+    "Kalit"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Reostatning qarshiligi qanday o'zgartiriladi?",
+   "variantlar": [
+    "Sim rangini",
+    "Sim massasini",
+    "Sim uzunligini o'zgartirib",
+    "Sim haroratini pasaytirib"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zanjirda lampa yorqinligini nima bilan rostlash mumkin?",
+   "variantlar": [
+    "Voltmetr",
+    "Kalit",
+    "Reostat",
+    "Ampermetr"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Reostat sirg'anuvchi kontakti to'liq o'ngga surilganda qarshilik R_max = 30 Om. Kuchlanish 15 V. Tok?",
+   "variantlar": [
+    "45 A",
+    "15 A",
+    "0,5 A",
+    "2 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Reostatning simi uzunligi 50 m, ρ = 0,4 Om·mm²/m, S = 1 mm². R_max = ?",
+   "variantlar": [
+    "20 Om",
+    "200 Om",
+    "5 Om",
+    "0,8 Om"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Reostatning bir qismi 10 Om, kuchlanish 20 V. Tok?",
+   "variantlar": [
+    "30 A",
+    "0,5 A",
+    "2 A",
+    "200 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Reostat sirg'anuvchisi zanjirdagi tokni oshirish uchun qanday surilishi kerak?",
+   "variantlar": [
+    "Qarshilikni kamaytiradigan tomonga",
+    "Farqi yo'q",
+    "Ko'paytiradigan tomonga",
+    "Olib tashlash"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Potensiometr va reostat orasidagi asosiy farq nima?",
+   "variantlar": [
+    "Ikkalasi bir xil",
+    "Potensiometr kuchlanishni rostlash uchun 3 uchli ulanadi",
+    "Reostat 3 uchli",
+    "Farq yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "U = 12 V, reostat qarshiligi 4 Om dan 24 Om gacha o'zgaradi. Eng kichik tok?",
+   "variantlar": [
+    "2 A",
+    "0,5 A",
+    "12 A",
+    "3 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "U = 12 V, reostat qarshiligi 4 Om dan 24 Om gacha. Eng katta tok?",
+   "variantlar": [
+    "3 A",
+    "0,5 A",
+    "48 A",
+    "2 A"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Reostat lampa bilan ketma-ket ulangan. Reostat qarshiligi oshsa, lampada kuchlanish?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Ortadi",
+    "Nolga teng",
+    "Kamayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nikelin simning uzunligi 2 marta oshsa reostat qarshiligi?",
+   "variantlar": [
+    "o'zgarmaydi",
+    "2 marta ortadi",
+    "2 marta kamayadi",
+    "4 marta ortadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zanjirda reostat qarshiligi 0 ga keltirilsa nima bo'lishi mumkin?",
+   "variantlar": [
+    "Tok keskin ortib ketishi mumkin",
+    "Tok to'xtaydi",
+    "Hech narsa",
+    "Kuchlanish ortadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

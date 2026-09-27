@@ -6,10 +6,10 @@
   {
    "savol": "Ertakda kambag'al dehqon osmonda uchib kelgan qaysi hayvonni topdi?",
    "variantlar": [
-    "Parrandagi",
-    "Chuqunchuk",
+    "Qarg'a",
+    "Chumchuq",
     "Laylak",
-    "Qush"
+    "Burgut"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -17,9 +17,9 @@
   {
    "savol": "Dehqon laylakni qayerga olib bordi?",
    "variantlar": [
-    "Deradaraga",
+    "Daraxtga",
     "O'z uyiga",
-    "Bozoriga",
+    "Bozorga",
     "Saroyga"
    ],
    "togri": 1,
@@ -28,7 +28,7 @@
   {
    "savol": "Laylakning siniq qanotiga dehqon nima bog'lab parvarishladi?",
    "variantlar": [
-    "Og'in",
+    "Temir",
     "Taxtakach",
     "Ip",
     "Parcha"
@@ -40,8 +40,8 @@
    "savol": "Laylak sog'ayib ketgandan keyin nima qildi?",
    "variantlar": [
     "Uyda qoldi",
-    "Oyina ko'p yurdi",
-    "Yoki unday qoldi",
+    "Uyda qolib ketdi",
+    "Dehqonni tishladi",
     "Uchib ketdi"
    ],
    "togri": 3,
@@ -128,7 +128,7 @@
    "savol": "Ertakdagi laylakka dehqonning yordamchi bo'lishida qanday insoniy xususiyat ko'rinadi?",
    "variantlar": [
     "O'z manfa'ati uchun",
-    "Boshqalarga ehson qilish uchun",
+    "Maqtanish uchun",
     "Faqat pul-mulk to'plash",
     "Mehribonlik va yordamsevarlik"
    ],
@@ -141,7 +141,7 @@
     "Dehqonning yordamiga minnatdarlik bildirish",
     "Ertakni davom ettirish",
     "Tasodifi hodisa",
-    "Osmondagi faqat sharoit"
+    "Osmondagi bulut tufayli"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -149,10 +149,10 @@
   {
    "savol": "Ijobiy fe'l-atvordagi qahramon qanday yuz ifodasi bilan tasvirlanadi?",
    "variantlar": [
-    "Chuqur va achinli",
+    "G'amgin va achchiq",
     "Xunuk va bezor",
     "Mehribon va yoqimli",
-    "Qo'rqoq va bezorilik"
+    "Qo'rqoq"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -206,7 +206,7 @@
    "variantlar": [
     "Faqat tuproq xususiyati",
     "Tasodifi tabiat hodisalari",
-    "Yaxsh ish ning samara beradigan tabiatini ko'rsatish",
+    "Yaxshi ishning samara berishini ko'rsatish",
     "Bahor nasimining ta'siri"
    ],
    "togri": 2,
@@ -237,8 +237,8 @@
   {
    "savol": "Ertakda laylak va dehqon orasidagi munosabat qanday tasniflanadi?",
    "variantlar": [
-    "Ulug'vorlik va bezorilik",
-    "Faqat ixchilik",
+    "Qo'pollik va bezorilik",
+    "Faqat hiyla",
     "Moliyaviy bog'lanish",
     "Do'stlik, minnatdarlik va o'zaro yordamlaşuv"
    ],
@@ -248,20 +248,20 @@
   {
    "savol": "'Bir bor ekan, bir yo'q ekan' iborasining ertaki matnidagi ma'nosi qanday?",
    "variantlar": [
-    "Faqat fantaziya",
-    "Shunchaki qadimgi so'zlash",
-    "Hech narsaning o'zgarmasligini bildirish",
-    "Vaqtning nisbiy va almashuvchi tabiatini bildirish"
+    "Ertakning an'anaviy boshlanishi — voqea qadim zamonda bo'lganini bildiradi",
+    "Faqat bitta odam borligini",
+    "Hech narsa yo'qligini",
+    "Voqea bugun bo'lganini"
    ],
-   "togri": 3,
+   "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
    "savol": "Ertakda dehqonning kambag'al bo'lishiga qaramay, jarohatli laylakka yordamda uning qanday xususiyati ko'rinadi?",
    "variantlar": [
-    "Faqat davomatchilik",
+    "Faqat dangasaligi",
     "Faqat o'z manfa'ati",
-    "Pul-mulkka ehsisimandi bo'lmay yordamga tayyorligi",
+    "Boy bo'lmasa ham yordamga tayyorligi",
     "Bezorilik"
    ],
    "togri": 2,
@@ -283,7 +283,7 @@
    "variantlar": [
     "Faqat o'qituvchi buyrug'i",
     "Rang tanlashning qismi",
-    "Qahramon tabiati va his-tuyg'ularini bevosita o'quvchiga ta'sir qilish",
+    "Qahramon tabiati va his-tuyg'ularini o'quvchiga yetkazish",
     "Faqat chiroyli ko'rinish"
    ],
    "togri": 2,
@@ -303,10 +303,10 @@
   {
    "savol": "Ertakda tabiat (laylak) va inson (dehqon) orasidagi munosabat qanday falsafiy ma'noga ega?",
    "variantlar": [
-    "Faqat selskoye bog'lanishi",
+    "Faqat qishloq bog'lanishi",
     "Tabiat va odam raqib",
     "Tabiat kuchli, odam zaif",
-    "Odam va tabiat bir-biriga yordamlaşadi va do'stliklaşadi"
+    "Inson va tabiat bir-biriga yordam beradi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -314,8 +314,8 @@
   {
    "savol": "Ertakni o'qib, tarvuz o'simligining osishi ertak kontekstida nima ramzi?",
    "variantlar": [
-    "Yaxshilikning samara beradigan ahamiytini, mehribonlik natijasini",
-    "Faqat o'simlikt mavzusi",
+    "Yaxshilikning samara berishini, mehribonlik natijasini",
+    "Faqat o'simlik mavzusini",
     "Tasodifi tabiat hodisalari",
     "Aralash tuproq"
    ],

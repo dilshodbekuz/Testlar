@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Ingliz tili",
+ "mavzu": "Revision 8",
+ "savollar": [
+  {
+   "savol": "Shohmat o'ynaganingiz necha ball olamiz?",
+   "variantlar": [
+    "+1",
+    "+3",
+    "-4",
+    "+5"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ertalab jismoniy mashqlar qilganingiz necha ball olamiz?",
+   "variantlar": [
+    "+3",
+    "+5",
+    "-4",
+    "-3"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kompyuter o'yinlarini yoqtirilmasa necha ball olamiz?",
+   "variantlar": [
+    "+5",
+    "-3",
+    "+1",
+    "+3"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sport yoqtirilsa necha ball olamiz?",
+   "variantlar": [
+    "+5",
+    "-4",
+    "+3",
+    "-3"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Televizor ko'rishni yoqtirmasa necha ball olamiz?",
+   "variantlar": [
+    "-4",
+    "+5",
+    "-3",
+    "+3"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suzishni yoqtirilsa necha ball olamiz?",
+   "variantlar": [
+    "+4",
+    "+5",
+    "-3",
+    "-4"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi faoliyat +5 ball olamiz?",
+   "variantlar": [
+    "Televizor ko'rish",
+    "Suzish",
+    "Shohmat o'ynash",
+    "Kompyuter o'yinlari"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi faoliyat salbiy ball olamiz?",
+   "variantlar": [
+    "Shohmatni o'ynash",
+    "Suzishni yoqtirish",
+    "Kompyuter o'yinlarini yoqtirmash",
+    "Sportni yoqtirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi faoliyat +3 ball olamiz?",
+   "variantlar": [
+    "Suzish",
+    "Ertalab jismoniy mashqlar",
+    "Shohmat o'ynash",
+    "Sport"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Televizor va kompyuter o'yinlari qaysi ballni beradi?",
+   "variantlar": [
+    "-4",
+    "-7",
+    "+7",
+    "-3"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar siz shohmat o'ynasangiz va ertalab jismoniy mashqlar qilsangiz, jami necha ball olamiz?",
+   "variantlar": [
+    "+8",
+    "+2",
+    "+5",
+    "+3"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar siz sport yoqtirsangiz va suzishni yoqtirsangiz, jami necha ball olamiz?",
+   "variantlar": [
+    "+6",
+    "+9",
+    "+5",
+    "+10"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar siz televizor ko'rishni yoqtirmasa va kompyuter o'yinlarini yoqtirmasa, jami necha ball olamiz?",
+   "variantlar": [
+    "0",
+    "-7",
+    "-1",
+    "-3"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shohmat va ertalab jismoniy mashqlar balllarining farqi nechaga teng?",
+   "variantlar": [
+    "+1",
+    "+2",
+    "+3",
+    "+8"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sport va kompyuter o'yinlari orasidagi ball farqi nechaga teng?",
+   "variantlar": [
+    "+6",
+    "+4",
+    "+2",
+    "+8"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar siz shohmat o'ynasangiz va televizor ko'rishni yoqtirmasa, jami necha ball olamiz?",
+   "variantlar": [
+    "-1",
+    "+1",
+    "+5",
+    "0"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar siz suzingiz va kompyuter o'yinlarini yoqtirmasa, jami necha ball olamiz?",
+   "variantlar": [
+    "+7",
+    "-1",
+    "0",
+    "+1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar siz ertalab jismoniy mashqlar qilsangiz va sportni yoqtirsangiz, jami necha ball olamiz?",
+   "variantlar": [
+    "+5",
+    "+8",
+    "+3",
+    "+2"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar siz shohmat o'ynasangiz, sport yoqtirsangiz va suzishni yoqtirsangiz, jami necha ball olamiz?",
+   "variantlar": [
+    "+15",
+    "+13",
+    "+12",
+    "+14"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Televizor va kompyuter o'yinlari uchun birga necha ball olamiz?",
+   "variantlar": [
+    "-8",
+    "-5",
+    "-6",
+    "-7"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar siz shohmat o'ynasangiz, ertalab jismoniy mashqlar qilsangiz, sport va suzishni yoqtirsangiz, televizor va kompyuter o'yinlarini yoqtirmasa, jami necha ball olamiz?",
+   "variantlar": [
+    "+10",
+    "+12",
+    "+9",
+    "+11"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar siz barcha sportli faoliyatlarni qilsangiz, jami necha ball olamiz?",
+   "variantlar": [
+    "+18",
+    "+17",
+    "+20",
+    "+19"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar siz televizor va kompyuter o'yinlarini yoqtirmasa, lekin shohmat o'ynasangiz, jami necha ball olamiz?",
+   "variantlar": [
+    "-2",
+    "+1",
+    "-1",
+    "0"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar siz sport va suzish necha marta birgalikda qilsangiz, 18 ball olamiz?",
+   "variantlar": [
+    "4 marta",
+    "3 marta",
+    "2 marta",
+    "1 marta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar siz shohmat va ertalab jismoniy mashqlarni 3 marta takrarlasangiz, jami necha ball olamiz?",
+   "variantlar": [
+    "+25",
+    "+27",
+    "+26",
+    "+24"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar siz kompyuter o'yinlarini yoqtirilmasa necha marta qilsangiz, -21 ball olamiz?",
+   "variantlar": [
+    "7 marta",
+    "5 marta",
+    "6 marta",
+    "8 marta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar siz barcha ijobiy faoliyatlarni ikkita kun uchun qilsangiz, jami necha ball olamiz?",
+   "variantlar": [
+    "+35",
+    "+37",
+    "+34",
+    "+36"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar siz shohmat va sport qilib, televizor va kompyuter o'yinlarini yoqtirmasangiz va bu holatni 2 marta takrorlasangiz, jami necha ball olamiz?",
+   "variantlar": [
+    "0",
+    "3",
+    "6",
+    "9"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar siz ertalab jismoniy mashqlar, suzish va televizor ko'rishni yoqtirmasa qilsangiz, jami necha ball olamiz?",
+   "variantlar": [
+    "+6",
+    "+3",
+    "+4",
+    "+5"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sport va televizor ko'rishni yoqtirmasa orasidagi ball farqi nechaga teng?",
+   "variantlar": [
+    "+10",
+    "+9",
+    "+8",
+    "+5"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

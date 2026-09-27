@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Algebra",
+ "mavzu": "33-§. Cheksiz kamayuvchi geometrik progressiya",
+ "savollar": [
+  {
+   "savol": "Cheksiz kamayuvchi geometrik progressiya nima?",
+   "variantlar": [
+    "Chekli",
+    "|q| < 1 bo'lgan cheksiz progressiya",
+    "q = 1",
+    "|q| > 1"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Cheksiz kamayuvchi geometrik progressiya yig'indisi formulasi?",
+   "variantlar": [
+    "S = b₁ · (1 − q)",
+    "S = b₁ / (1 + q)",
+    "S = b₁ / (1 − q)",
+    "S = b₁ q"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bu formula qaysi shartda o'rinli?",
+   "variantlar": [
+    "q = 1",
+    "|q| < 1",
+    "|q| > 1",
+    "q = 0"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "b₁ = 1, q = 1/2. S = ?",
+   "variantlar": [
+    "1",
+    "3",
+    "1/2",
+    "2"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "b₁ = 2, q = 1/2. S = ?",
+   "variantlar": [
+    "2",
+    "3",
+    "1",
+    "4"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "b₁ = 3, q = 1/3. S = ?",
+   "variantlar": [
+    "3",
+    "9",
+    "9/2",
+    "1"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 + 1/2 + 1/4 + ... = ?",
+   "variantlar": [
+    "∞",
+    "3",
+    "2",
+    "1"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Cheksiz kamayuvchi progressiya hadlari nolga?",
+   "variantlar": [
+    "Teng",
+    "Intiladi",
+    "Cheksizlikka intiladi",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "q = 0,5 bo'lsa progressiya cheksiz kamayuvchimi?",
+   "variantlar": [
+    "Faqat manfiyda",
+    "Ba'zan",
+    "Yo'q",
+    "Ha"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "q = 2 bo'lsa progressiya cheksiz kamayuvchimi?",
+   "variantlar": [
+    "Ha",
+    "Ba'zan",
+    "Doim",
+    "Yo'q"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "b₁ = 6, q = 1/3. S = ?",
+   "variantlar": [
+    "9",
+    "6",
+    "18",
+    "2"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "b₁ = 9, q = 1/3. S = ?",
+   "variantlar": [
+    "3",
+    "9",
+    "27",
+    "27/2"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "b₁ = 4, q = −1/2. S = ?",
+   "variantlar": [
+    "8/3",
+    "4",
+    "8",
+    "2"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "b₁ = 1, q = −1/2. S = ?",
+   "variantlar": [
+    "2",
+    "1",
+    "1/2",
+    "2/3"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "b₁ = 5, q = 0,2. S = ?",
+   "variantlar": [
+    "1",
+    "25",
+    "5",
+    "6,25"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "0,(3) = 0,333... ni oddiy kasrga aylantiring.",
+   "variantlar": [
+    "1/3",
+    "3/10",
+    "33/100",
+    "3/100"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "0,(6) ni oddiy kasrga aylantiring.",
+   "variantlar": [
+    "6/100",
+    "2/3",
+    "6/10",
+    "1/6"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "0,(1) ni oddiy kasrga aylantiring.",
+   "variantlar": [
+    "1/9",
+    "1/100",
+    "1/10",
+    "1/11"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "0,(9) = ?",
+   "variantlar": [
+    "9/10",
+    "99/100",
+    "1",
+    "0,9"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "b₁ = 2, S = 4. q = ?",
+   "variantlar": [
+    "1/2",
+    "1/4",
+    "2",
+    "4"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "b₁ = 8, S = 12. q = ?",
+   "variantlar": [
+    "1/3",
+    "2/3",
+    "1/2",
+    "3/4"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "S = 6, q = 1/3. b₁ = ?",
+   "variantlar": [
+    "9",
+    "6",
+    "2",
+    "4"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "0,(12) ni oddiy kasrga aylantiring.",
+   "variantlar": [
+    "4/33",
+    "12/90",
+    "1/12",
+    "12/100"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "0,1(6) ni oddiy kasrga aylantiring.",
+   "variantlar": [
+    "16/100",
+    "1/6",
+    "1/60",
+    "16/99"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "0,(45) ni oddiy kasrga aylantiring.",
+   "variantlar": [
+    "5/11",
+    "4/5",
+    "9/20",
+    "4/9"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Cheksiz kamayuvchi progressiya: b₁ = 1, b₂ = 1/2. S = ?",
+   "variantlar": [
+    "4",
+    "3",
+    "2",
+    "1,5"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kvadrat tomoni 4. Uning tomonlari o'rtalarini tutashtirib yangi kvadrat, va h.k. Yuzlar yig'indisi (16, 8, 4, ...)?",
+   "variantlar": [
+    "32",
+    "16",
+    "24",
+    "48"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Top 8 m balandlikdan tushib, har safar 1/2 balandlikka sakraydi. Jami tushish yo'llari (8 + 4 + 2 + ...)?",
+   "variantlar": [
+    "8 m",
+    "12 m",
+    "32 m",
+    "16 m"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 − 1/3 + 1/9 − ... = ?",
+   "variantlar": [
+    "3/2",
+    "2/3",
+    "3/4",
+    "1"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2 + 1 + 1/2 + 1/4 + ... = ?",
+   "variantlar": [
+    "2",
+    "3",
+    "8",
+    "4"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

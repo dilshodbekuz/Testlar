@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Algebra",
+ "mavzu": "4-§. Algebraik kasrlarni qo'shish va ayirish",
+ "savollar": [
+  {
+   "savol": "Maxrajlari bir xil kasrlarni qo'shishda nima qilinadi?",
+   "variantlar": [
+    "Suratlar qo'shiladi, maxraj o'zgarmaydi",
+    "Suratlar ko'paytiriladi",
+    "Maxrajlar qo'shiladi",
+    "Maxrajlar ayriladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a/c + b/c = ?",
+   "variantlar": [
+    "ab/c",
+    "(a + b)/c²",
+    "(a + b)/2c",
+    "(a + b)/c"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a/c − b/c = ?",
+   "variantlar": [
+    "(a + b)/c",
+    "ab/c",
+    "(a − b)/c²",
+    "(a − b)/c"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "2/x + 3/x = ?",
+   "variantlar": [
+    "1/x",
+    "5/x²",
+    "6/x",
+    "5/x"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "5/a − 2/a = ?",
+   "variantlar": [
+    "7/a",
+    "3/a²",
+    "10/a",
+    "3/a"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1/x + 1/x = ?",
+   "variantlar": [
+    "2/x²",
+    "1/x²",
+    "2/x",
+    "1"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "7/y − 7/y = ?",
+   "variantlar": [
+    "7",
+    "0",
+    "14/y",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x/3 + x/3 = ?",
+   "variantlar": [
+    "2x/3",
+    "x²/9",
+    "2x",
+    "2x/6"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Maxrajlari har xil kasrlarni qo'shishdan oldin nima qilish kerak?",
+   "variantlar": [
+    "Ko'paytirish",
+    "Teskarisini olish",
+    "Umumiy maxrajga keltirish",
+    "Qisqartirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a/b + c/b ifodaning maxraji qaysi?",
+   "variantlar": [
+    "b",
+    "a + c",
+    "2b",
+    "b²"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1/a + 1/b = ?",
+   "variantlar": [
+    "1/ab",
+    "(a + b)/(a·b)²",
+    "2/(a + b)",
+    "(a + b)/ab"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1/a − 1/b = ?",
+   "variantlar": [
+    "(b + a)/ab",
+    "(b − a)/ab",
+    "(a − b)/ab",
+    "0"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x/2 + x/3 = ?",
+   "variantlar": [
+    "x/5",
+    "2x/5",
+    "5x/2",
+    "5x/6"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(a + 2)/a − 2/a = ?",
+   "variantlar": [
+    "2",
+    "1",
+    "(a + 4)/a",
+    "a"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(x + 1)/x + (x − 1)/x = ?",
+   "variantlar": [
+    "2/x",
+    "x",
+    "2",
+    "2x"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3/(2x) + 1/(3x) = ?",
+   "variantlar": [
+    "11/(6x)",
+    "4/(6x)",
+    "3/(6x)",
+    "4/(5x)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a/(a + 1) + 1/(a + 1) = ?",
+   "variantlar": [
+    "2a/(a + 1)",
+    "a",
+    "1",
+    "(a + 1)²"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2/x − 1/(2x) = ?",
+   "variantlar": [
+    "1/(2x)",
+    "3/(2x)",
+    "1/x",
+    "3/x"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(2a − b)/c + (a + b)/c = ?",
+   "variantlar": [
+    "3a/c",
+    "a/c",
+    "(3a + 2b)/c",
+    "3ab/c"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x/y + y/x = ?",
+   "variantlar": [
+    "(x + y)/(xy)",
+    "(x² + y²)/(xy)",
+    "xy",
+    "2"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1/(x − 1) − 1/(x + 1) = ?",
+   "variantlar": [
+    "1/(x² − 1)",
+    "2x/(x² − 1)",
+    "2/(x² − 1)",
+    "0"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1/(x − 2) + 1/(x + 2) = ?",
+   "variantlar": [
+    "1/(x² − 4)",
+    "2x/(x² − 4)",
+    "4/(x² − 4)",
+    "2/(x² − 4)"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a/(a − b) − b/(a − b) = ?",
+   "variantlar": [
+    "1",
+    "a + b",
+    "0",
+    "(a − b)²"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(x² + 1)/(x − 1) − 2x/(x − 1) = ?",
+   "variantlar": [
+    "x − 1",
+    "x + 1",
+    "x",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1/(x(x + 1)) + 1/(x + 1) = ?",
+   "variantlar": [
+    "x + 1",
+    "(x + 1)/x",
+    "2/(x + 1)",
+    "1/x"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a/(a − 3) − 3/(3 − a) ifodani soddalashtiring.",
+   "variantlar": [
+    "a",
+    "(a + 3)/(a − 3)",
+    "1",
+    "(a − 3)/(a + 3)"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1/(2a − 2b) + 1/(a − b) = ?",
+   "variantlar": [
+    "3/(2(a − b))",
+    "2/(a − b)",
+    "1/(a − b)",
+    "3/(a − b)"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x/(x − 4) − 4/(x − 4) − 1 = ?",
+   "variantlar": [
+    "1",
+    "0",
+    "x",
+    "−1"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1/x + 1/y − (x + y)/(xy) = ?",
+   "variantlar": [
+    "0",
+    "1",
+    "xy",
+    "2/(xy)"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(a + b)/(a − b) + (a − b)/(a + b) = ?",
+   "variantlar": [
+    "(a² + b²)/(a² − b²)",
+    "2",
+    "2(a² + b²)/(a² − b²)",
+    "2a/(a² − b²)"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -8,7 +8,7 @@
    "variantlar": [
     "Faqat qo'l hovuzlari yaqinida",
     "Faqat suv chegarasida",
-    "Dalalarda, ko'cha bo'ylarida va xonalarda",
+    "Dalalarda, ko'cha bo'ylarida va xonadonlarda",
     "Faqat tog'larda"
    ],
    "togri": 2,
@@ -41,7 +41,7 @@
    "variantlar": [
     "Yirik va mazali bo'ladi",
     "Juda shirin emas",
-    "Kichik va acidi",
+    "Kichik va nordon",
     "O'rtacha o'lchamda"
    ],
    "togri": 0,
@@ -81,12 +81,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Qurtning pilla ichida qanday shakl olmaydi?",
+   "savol": "Pilla ichida qurt nimaga aylanadi?",
    "variantlar": [
-    "To'pning",
-    "G'umbak",
-    "Siniq ko'prik",
-    "Uchburchak"
+    "Kapalak tuxumiga",
+    "G'umbakka",
+    "Chigirtkaga",
+    "Qo'ng'izga"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -96,7 +96,7 @@
    "variantlar": [
     "Yun matolar",
     "Atlas va shoyi matolar",
-    "Buxorat matolar",
+    "Jun gilamlar",
     "Paxtali matolar"
    ],
    "togri": 1,
@@ -149,10 +149,10 @@
   {
    "savol": "Ipak qurti dastlabki kunlarda nima bilan oziqlanadi?",
    "variantlar": [
-    "Qorin bilan",
+    "Paxta bilan",
     "Tut daraxtining yangi chiqayotgan barglari bilan",
     "Bug'doy bilan",
-    "Maxallifli o'tlari bilan"
+    "Qamish bilan"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -226,10 +226,10 @@
   {
    "savol": "Tut daraxti va ipak qurtining tabiiiy jarayonlari bir-biri bilan qanday bog'langan?",
    "variantlar": [
-    "Tut barglari ipak qurtining asosiy oziq-ovqati hisoblanadi va ipak qurti tut shaklini o'zgartirib turadi",
+    "Tut barglari ipak qurtining asosiy ozig'i hisoblanadi",
     "Tut daraxti ipak qurtini zaharlaydi",
     "Ular bir-biriga hech qanday ta'sir qilmaydi",
-    "Ipak qurti tut daraxtining shakli o'zgartirib turadi"
+    "Ipak qurti tut daraxtini o'stiradi"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -246,11 +246,11 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Viloyatlarda tut daraxtlarini qanday samarador ishlatiladi?",
+   "savol": "Viloyatlarda tut daraxtlaridan qanday foydalaniladi?",
    "variantlar": [
-    "Yalni sanoati uchun ishlatish",
-    "Maydonlarini barpo qilish orqali massiv ipak qurti boqilashiga sharoit yaratish",
-    "Tinglash uchun o'stirish",
+    "Faqat o'tin uchun kesiladi",
+    "Tutzorlar barpo qilinib, ko'p ipak qurti boqishga sharoit yaratiladi",
+    "Faqat chiroy uchun o'stiriladi",
     "Faqat soyadan foydalanish"
    ],
    "togri": 1,
@@ -262,18 +262,18 @@
     "Dastlabki kunlari yangi barglari qiymalab beriladi, so'ng butun barglari solinadi, har kuni o'sadi",
     "Barglari hech qachon berilmaydi",
     "Faqat bir marta beriladi",
-    "Barglari tinc oqiladi"
+    "Barglari qaynatib beriladi"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Tut daraxtining mavsimliy o'zgarishlari ipak qurti boqilashi bilan qanday bog'lanadi?",
+   "savol": "Tutning barg yozishi va ipak qurti boqish vaqti qanday bog'langan?",
    "variantlar": [
-    "Mavsum bo'lmaydi",
-    "Tut har oyda bir xil bo'ladi",
-    "Ipak qurti yil davomida bir xil boqiladi",
-    "Har oyning ibtidoida tut bargli mavsum va ipak qurti boqilash davri qat'iy belgilangan"
+    "Qurt qishda boqiladi",
+    "Ular bog'lanmagan",
+    "Qurt kuzda, barglar to'kilganda boqiladi",
+    "Tut barg yozgach (mart oxiri), aprel boshida qurtlar chiqadi va barg bilan boqiladi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -290,12 +290,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Pilla ichida qurt g'umbakka aylanishi qanday fiziologik o'zgarish?",
+   "savol": "Pilla ichida qurtning g'umbakka aylanishi nima?",
    "variantlar": [
     "Qurtning o'lim jarayoni",
     "Qurtning katta bo'lish jarayoni",
     "Qurtning uyqu vaqti",
-    "Qurtning mummifalanish jarayoni yoki metamorfoz"
+    "Qurtning rivojlanib, boshqa shaklga o'tishi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -312,12 +312,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Ipak sanoatiga qo'shilgan tut daraxti va ipak qurtining integratsiyasi O'zbekiston iqtisodiyoti uchun nima?",
+   "savol": "Tut daraxti va ipak qurti O'zbekiston uchun nima uchun muhim?",
    "variantlar": [
-    "Bolmasa-bolmadi ishlar",
-    "Faqat tarixiy qa'ydlar",
-    "Qishloq va sanoat xojaligining aloqali tarmog'ini tashkil qilish, milliy boyvalinni ziyoda etish",
-    "Ilmiy tadqiqot uchun zarur"
+    "Ulardan un olinadi",
+    "Ular faqat chiroy uchun",
+    "Ulardan ipak olinib, atlas va shoyi to'qiladi",
+    "Hech qanday ahamiyati yo'q"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"

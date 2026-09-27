@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Algebra",
+ "mavzu": "11-§. Funksiyaning juftligi va toqligi",
+ "savollar": [
+  {
+   "savol": "Juft funksiya nima?",
+   "variantlar": [
+    "f(−x) = −f(x)",
+    "f(x) = 0",
+    "f(−x) = f(x)",
+    "f(x + T) = f(x)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Toq funksiya nima?",
+   "variantlar": [
+    "f(−x) = −f(x)",
+    "f(x) = 0",
+    "f(−x) = f(x)",
+    "f(x + T) = f(x)"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Juft funksiya grafigi qaysi o'qqa nisbatan simmetrik?",
+   "variantlar": [
+    "OY",
+    "Koordinata boshi",
+    "OX",
+    "y = x"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Toq funksiya grafigi nimaga nisbatan simmetrik?",
+   "variantlar": [
+    "y = x",
+    "Koordinata boshi",
+    "OX",
+    "OY"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "y = x² funksiya?",
+   "variantlar": [
+    "Juft",
+    "Ikkalasi ham",
+    "Ikkalasi ham emas",
+    "Toq"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "y = x³ funksiya?",
+   "variantlar": [
+    "Juft",
+    "Ikkalasi ham emas",
+    "Ikkalasi ham",
+    "Toq"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "y = x funksiya?",
+   "variantlar": [
+    "Ikkalasi ham",
+    "Toq",
+    "Ikkalasi ham emas",
+    "Juft"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "y = |x| funksiya?",
+   "variantlar": [
+    "Ikkalasi ham emas",
+    "Toq",
+    "Juft",
+    "Ikkalasi ham"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "y = 1/x funksiya?",
+   "variantlar": [
+    "Ikkalasi ham",
+    "Ikkalasi ham emas",
+    "Toq",
+    "Juft"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "y = x⁴ funksiya?",
+   "variantlar": [
+    "Toq",
+    "Juft",
+    "Ikkalasi ham emas",
+    "Ikkalasi ham"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "y = x² + 1 funksiya?",
+   "variantlar": [
+    "Ikkalasi ham",
+    "Ikkalasi ham emas",
+    "Toq",
+    "Juft"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y = x³ + x funksiya?",
+   "variantlar": [
+    "Ikkalasi ham emas",
+    "Juft",
+    "Toq",
+    "Ikkalasi ham"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y = x + 1 funksiya?",
+   "variantlar": [
+    "Juft",
+    "Ikkalasi ham",
+    "Ikkalasi ham emas",
+    "Toq"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y = x² + x funksiya?",
+   "variantlar": [
+    "Juft",
+    "Ikkalasi ham emas",
+    "Toq",
+    "Ikkalasi ham"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y = 3x² − |x| funksiya?",
+   "variantlar": [
+    "Ikkalasi ham",
+    "Toq",
+    "Juft",
+    "Ikkalasi ham emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y = x² · x funksiya (y = x³)?",
+   "variantlar": [
+    "Juft",
+    "Toq",
+    "Ikkalasi ham",
+    "Ikkalasi ham emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) juft va f(2) = 5 bo'lsa f(−2)?",
+   "variantlar": [
+    "0",
+    "5",
+    "−5",
+    "2"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) toq va f(2) = 5 bo'lsa f(−2)?",
+   "variantlar": [
+    "−5",
+    "2",
+    "5",
+    "0"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Toq funksiya uchun f(0) (aniqlangan bo'lsa)?",
+   "variantlar": [
+    "−1",
+    "0",
+    "Aniqlanmagan",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Juft va toq funksiya aniqlanish sohasi qanday bo'lishi kerak?",
+   "variantlar": [
+    "Har qanday",
+    "Faqat musbat",
+    "Faqat manfiy",
+    "0 ga nisbatan simmetrik"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y = x/(x² + 1) funksiya?",
+   "variantlar": [
+    "Ikkalasi ham emas",
+    "Ikkalasi ham",
+    "Toq",
+    "Juft"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "y = (x² + 1)/(x² − 1) funksiya?",
+   "variantlar": [
+    "Ikkalasi ham emas",
+    "Juft",
+    "Ikkalasi ham",
+    "Toq"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "y = √x funksiya juftmi yoki toqmi?",
+   "variantlar": [
+    "Toq",
+    "Ikkalasi ham emas (soha simmetrik emas)",
+    "Juft",
+    "Ikkalasi ham"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = x⁵ − 3x funksiya?",
+   "variantlar": [
+    "Ikkalasi ham emas",
+    "Juft",
+    "Ikkalasi ham",
+    "Toq"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = x⁴ − 2x² + 3 funksiya?",
+   "variantlar": [
+    "Juft",
+    "Ikkalasi ham",
+    "Ikkalasi ham emas",
+    "Toq"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = x² − 2x funksiya?",
+   "variantlar": [
+    "Juft",
+    "Toq",
+    "Ikkalasi ham emas",
+    "Ikkalasi ham"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki juft funksiya yig'indisi?",
+   "variantlar": [
+    "Ikkalasi ham emas",
+    "Juft",
+    "Toq",
+    "Ikkalasi ham"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki toq funksiya yig'indisi?",
+   "variantlar": [
+    "Ikkalasi ham emas",
+    "Toq",
+    "Juft",
+    "Ikkalasi ham"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Juft va toq funksiya ko'paytmasi?",
+   "variantlar": [
+    "Juft",
+    "Ikkalasi ham",
+    "Ikkalasi ham emas",
+    "Toq"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki toq funksiya ko'paytmasi?",
+   "variantlar": [
+    "Juft",
+    "Ikkalasi ham emas",
+    "Ikkalasi ham",
+    "Toq"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

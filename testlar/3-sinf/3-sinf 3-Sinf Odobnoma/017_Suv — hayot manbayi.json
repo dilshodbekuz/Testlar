@@ -37,11 +37,11 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Dunyoda suvning kamchilik o'ralgan mamlakat bormi?",
+   "savol": "Dunyoda ichimlik suvi kam bo'lgan joylar bormi?",
    "variantlar": [
-    "Suv hammajoyda teng",
-    "Faqat qarzlashga bor",
-    "Yo'q, ko'p suv bor",
+    "Yo'q, suv hamma joyda teng",
+    "Faqat qadimda bo'lgan",
+    "Yo'q, hamma joyda suv ko'p",
     "Ha, ko'p joyda ichimlik suvi kam"
    ],
    "togri": 3,
@@ -52,8 +52,8 @@
    "variantlar": [
     "Kitob va daftar",
     "Non va suv",
-    "Qo'zimcha va sharpalar",
-    "Oltin va javohrlarni"
+    "Kiyim va ko'rpa",
+    "Oltin va javohirlarni"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -63,19 +63,19 @@
    "variantlar": [
     "Kitob va qalamlar",
     "Pul va zargarlik",
-    "Xonali va turali",
+    "Kiyim-kechak",
     "Xalta to'la non va bir mesh suv"
    ],
    "togri": 3,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Suvni tejash uchun jo'mrakdan oqayotgan suv qanday qilish kerak?",
+   "savol": "Jo'mrakdan behuda oqayotgan suvni nima qilish kerak?",
    "variantlar": [
     "Daftarda yozish",
-    "Ko'p oqqisun",
+    "Ko'proq oqizish",
     "Berkitib qo'yish",
-    "Soyada qo'yish"
+    "Soyaga qo'yish"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -84,31 +84,31 @@
    "savol": "Suv she'rini kim yozgan?",
    "variantlar": [
     "Amir Temur",
-    "A'lisher Navoi",
-    "Berdaq Tafakkori",
+    "Alisher Navoiy",
+    "Hamid Olimjon",
     "Qambar Ota"
    ],
    "togri": 3,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Ariq va hovuzlarga qanday narsalarni tashlamang deya aytilgan?",
+   "savol": "Ariq va hovuzlarga nimalarni tashlamaslik kerak?",
    "variantlar": [
-    "Qolini",
+    "Toza suvni",
     "Turli chiqindilarni",
-    "Yo'g'ochni",
-    "Gullarni"
+    "Yomg'ir tomchilarini",
+    "Quyosh nurini"
    ],
    "togri": 1,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Behuda oqib yotgan suvdan kattalarni xabardor etish nima degan ma'no?",
+   "savol": "Behuda oqib yotgan suvni ko'rsangiz nima qilish kerak?",
    "variantlar": [
-    "Yo'lda suvni ko'rgan kattaga ayt",
-    "Isrofsiz suvning behuda oqib ketgani kattalarni ayt",
-    "Ota-onalarga suv haqida ayt",
-    "Katta kishiga suvni ichishni ayt"
+    "E'tibor bermay o'tib ketish",
+    "Kattalarga xabar berish",
+    "Suvda o'ynash",
+    "Do'stlarni chaqirib tomosha qilish"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -116,21 +116,21 @@
   {
    "savol": "Rivoyatda kambag'al boy uchun qanday muhim ishni qildi?",
    "variantlar": [
-    "Yo'lda bo'l salom berdi",
+    "Yo'lda salom berdi",
     "Oltin topishini o'rgatdi",
     "Unga non-suv berib sog'-omon manzilga yetkazdi",
-    "Birodarni topishiga yordam berdi"
+    "Birodarini topishga yordam berdi"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Matanda non-suv har qanday boylikdan ham qimmatliroq deganda nimani tushunish kerak?",
+   "savol": "Matnda \"non-suv har qanday boylikdan ham qimmatliroq\" deyilganda nimani tushunish kerak?",
    "variantlar": [
     "Hayotning asosiy zaruriyatlari boylikdan muhimroq",
-    "Non va suv har vaqt nuqsondir",
+    "Non va suv arzon",
     "Non va suv qiymati yuqori",
-    "Pula non va suv qiymati ko'proq"
+    "Pul non va suvdan qimmatroq"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -139,18 +139,18 @@
    "savol": "Safarda boy nima sababli tashnalik va ochlikdan azob chekdi?",
    "variantlar": [
     "Yo'l juda uzun edi",
-    "Puli tugatib qo'ydi",
+    "Pulini tugatib qo'ydi",
     "Faqat oltin va javohrlar oldi, non va suv olmadi",
-    "Otida otiy yo'q edi"
+    "Oti kasal edi"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Qambar Ota Suv she'rida Obod umr bo'stoni deganda nima kastedilgan?",
+   "savol": "Qambar Ota \"Suv\" she'rida \"Obod umr bo'stoni\" deganda nimani nazarda tutgan?",
    "variantlar": [
-    "Suv farovon va shangli hayotning asosi",
-    "Suv ko'l bostoni",
+    "Suv farovon va baxtli hayotning asosi",
+    "Suv ko'lning nomi",
     "Suv kitob",
     "Suv shahar"
    ],
@@ -160,10 +160,10 @@
   {
    "savol": "She'rda Qonib ich, yayrab yuvin qatorida nima aytilmoqda?",
    "variantlar": [
-    "Suv iching, yuvining va shodlik iching",
-    "Qo'l ich va yuvin",
-    "Pul iching va kiyinib yuvin",
-    "Toza iching va pul ayting"
+    "Suvni to'yib iching, maza qilib yuvining",
+    "Faqat qo'lingizni yuving",
+    "Suvni isrof qiling",
+    "Suvni sotib oling"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -182,8 +182,8 @@
   {
    "savol": "Suvni ishlatishda me'yorni saqlash bu nimani anglatadi?",
    "variantlar": [
-    "Suvni qaysoq qil",
-    "Keraklichasi qo'l, behuda oqib ketmaydi",
+    "Suvni ko'proq oqizish",
+    "Kerakli miqdorda ishlatish, behuda oqizmaslik",
     "Har kuni suv iching",
     "Suv ko'p iste'mol qil"
    ],
@@ -202,25 +202,25 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Ular yo'l yurishibdi, yo'l yursa ham mo'l yurishibdi jumlasida mo'l so'zi nima degan ma'no?",
+   "savol": "\"Ular yo'l yurishibdi, yo'l yursa ham mo'l yurishibdi\" jumlasida \"mo'l\" so'zi qanday ma'noda?",
    "variantlar": [
     "Tez-tez",
-    "To'liq",
+    "Ko'p, uzoq",
     "Qiyin, achchiq",
-    "Baharagi"
+    "Sekin"
    ],
-   "togri": 2,
+   "togri": 1,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "She'rning Kim qatra durin tejar, / Yurtin, taqdirin bezar qatorlarida nima aytilmoqda?",
+   "savol": "She'rdagi \"Kim qatra durin tejar, / Yurtin, taqdirin bezar\" satrlarida nima aytilmoqda?",
    "variantlar": [
-    "Yurta buyuk",
-    "Qatra yaxshi narsadir",
-    "Suvning bir tomchisini behuda qilgan insonning baxtiga sharq bo'yiladi",
-    "Tasqali maqtovdir"
+    "Yurt katta ekani",
+    "Suvning har tomchisini tejagan inson yurtini va taqdirini obod qiladi",
+    "Suvni ko'p ishlatish kerakligi",
+    "Qatra kichik narsa ekani"
    ],
-   "togri": 2,
+   "togri": 1,
    "qiyinlik": "o'rtacha"
   },
   {
@@ -237,9 +237,9 @@
   {
    "savol": "Rivoyat va matn asosida, suvni qadrlash bu nima tushunchasini ko'rsatadi?",
    "variantlar": [
-    "Suv isrofsiz iste'mol qil va undan qadr etib chumali bo'l",
+    "Suvni isrof qilmay, qadrlab ishlatish",
     "Suvni sotib ol",
-    "Suv to'pla va saqla",
+    "Suvni to'plab saqlash",
     "Suv juda ko'p iching"
    ],
    "togri": 0,
@@ -250,7 +250,7 @@
    "variantlar": [
     "Faqat non va suv",
     "Faqat pul va oltin",
-    "Faqat davra va rang",
+    "Faqat kitob va qalam",
     "Faqat to'shak va o'rindiq"
    ],
    "togri": 0,
@@ -259,10 +259,10 @@
   {
    "savol": "She'rda Zilol suvi bor Vatan, / Yutuqlarga yor Vatan qatorlarning o'zaro bog'lanishi nimani anglatadi?",
    "variantlar": [
-    "Vatan harb yo'q, ko'ngillar xush edi",
+    "Vatanda urush bo'lmagan",
     "Vatan suv juda ko'p bor",
     "Vatan o'sha vaqt suv bilan to'la edi",
-    "Toza suv vatan farovanligi, taraqqiyotining belgisi"
+    "Toza suv — Vatan farovonligi va taraqqiyotining belgisi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -270,9 +270,9 @@
   {
    "savol": "Dunyoning ba'zi joylarida suvning qiymati o'zgarib, oltin bahosida sotilishi nega mumkin?",
    "variantlar": [
-    "Qimmatli logistikasi",
+    "Suv juda chiroyli bo'lgani uchun",
     "Odamlar suv behuda iste'mol qiladilar",
-    "Suvni satuvchilar xona puli yuqori qo'yadilar",
+    "Suv sotuvchilar ochko'z bo'lgani uchun",
     "Ichimlik suvi taqchil va kam bo'lishi sababli"
    ],
    "togri": 3,
@@ -283,7 +283,7 @@
    "variantlar": [
     "Faqat suvni foydalanish",
     "Suvni sotish",
-    "Suvga duholat yo'qligi",
+    "Suvga befarq bo'lish",
     "Suvni tejash va ifloslantirmaslik"
    ],
    "togri": 3,
@@ -301,23 +301,23 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Suvni tejashning qo'llash usullari jo'mrakdan berkitish, ariqga chiqindi tashlamang, behuda suvdan xabardor qilish, me'nor saqlash bu bosqichlar nimaga sevir?",
+   "savol": "Jo'mrakni berkitish, ariqqa chiqindi tashlamaslik, behuda oqayotgan suv haqida xabar berish va me'yorni saqlash nimaga xizmat qiladi?",
    "variantlar": [
-    "Toza hayot yo'li",
-    "Suv saqlanish va isrofsizlik masalalarini hal qilish uchun",
-    "Faqat joy va suv qiqqiligi",
-    "Faqat joy tozalik"
+    "Faqat hovli tozaligiga",
+    "Suvni asrash va isrof qilmaslikka",
+    "Suvni qimmatlashtirishga",
+    "Faqat bog'ni sug'orishga"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Qambar Ota she'rining oxirgi qismi Zilol suvi bor Vatan burada Vataning suv manbalariga nisbatan qanday mas'uliyat qo'yamqot borayapti?",
+   "savol": "Qambar Otaning \"Zilol suvi bor Vatan\" satri nimani uqtiradi?",
    "variantlar": [
-    "Vatanning toza suvi uning farovani va yutuqlari uchun talab va mas'uliyat",
-    "Vatan suv har vaqt bor",
-    "Vatan suv ko'p, zarur yo'q",
-    "Suv faqat bog'chaga kerak"
+    "Vatanning toza suvini asrash — uning farovonligi uchun mas'uliyatimiz",
+    "Vatanda suv hech qachon tugamaydi",
+    "Suvni tejash shart emas",
+    "Suv faqat bog'larga kerak"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"

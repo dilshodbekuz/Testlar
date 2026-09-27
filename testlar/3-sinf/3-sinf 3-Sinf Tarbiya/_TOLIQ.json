@@ -148,12 +148,12 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Tanaffusda boshqa o'quvchilar tinch dam olayotgan bo'lsa, siz qanday xat-harakatlasiz?",
+    "savol": "Tanaffusda boshqa o'quvchilar tinch dam olayotgan bo'lsa, siz o'zingizni qanday tutasiz?",
     "variantlar": [
-     "Ularga xalaqit qilasiz, ovoz chiqarasiz",
-     "Ularga jahldash qilasiz",
-     "Ularni kuydirub yiboresiz",
-     "Ularning oyiniga kirasiz"
+     "Ularga xalaqit bermay, tinch o'ynayman",
+     "Ularga jahl qilaman",
+     "Baqirib yuguraman",
+     "Ularning o'yinini buzaman"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -205,8 +205,8 @@
    {
     "savol": "Darsda tartibli bo'lmasa, o'quvchining o'rganishida nima yuzaga keladi?",
     "variantlar": [
-     "Darsni stozavon tushunish mumkin",
-     "Dars yaxshi anglanish mumkin",
+     "Darsni yaxshi tushunmay qoladi",
+     "Darsni yaxshi tushunadi",
      "Ko'proq bilim hosil bo'ladi",
      "Hech narsa bo'lmaydi"
     ],
@@ -247,12 +247,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Agar biror shakhs sizga noxush muomala qilsa va siz unga g'amxo'rlik qilishni davom ettirsa, bu qanday ahloq ko'rinadi?",
+    "savol": "Agar kimdir sizga qo'pol muomala qilsa-yu, siz baribir unga yaxshilik qilsangiz, bu qanday xulq?",
     "variantlar": [
      "Shunchaki vaqt o'tkazish",
-     "Axmaqlarga ucha o'yinish",
-     "O'z-o'ziga ko'tarilish va kattaning adabini ko'rsatish",
-     "Zora etish"
+     "Qo'rqoqlik",
+     "Sabr-toqat va olijanoblik",
+     "Befarqlik"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -304,8 +304,8 @@
    {
     "savol": "Oshxonada xavfsizlik qoidalariga rioya qilmasa, qanday oqibatlar yuzaga keladi?",
     "variantlar": [
-     "Faqat birinchi narkolar",
-     "Faqat kulash-jing",
+     "Faqat kulgili holatlar",
+     "Faqat shovqin",
      "Jarohalarishlash, kuydirish, og'riy bo'lish kabi hodisalar",
      "Hech narsa bo'lmaydi"
     ],
@@ -364,7 +364,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Olimpiadada eng ko'p ishtirok etgan o'quvchilar soni nechtа?",
+    "savol": "Olimpiadada nechta o'quvchi ishtirok etdi?",
     "variantlar": [
      "300 nafar",
      "600 nafar",
@@ -487,7 +487,7 @@
    {
     "savol": "O'quvchilar musobaqada umumjamoa birinchi o'rin egalladi, bu nimani ko'rsatadi?",
     "variantlar": [
-     "Ularning eng kuchli va malodor ekanligini ko'rsatadi",
+     "Ularning bilimli va kuchli ekanligini",
      "Ularning eng faqirligi",
      "Ularning ojizligi",
      "Ularning binafshligi"
@@ -566,7 +566,7 @@
     "variantlar": [
      "50%",
      "15%",
-     "5% dan ko'p",
+     "25%",
      "10% ga yaqin"
     ],
     "togri": 3,
@@ -589,7 +589,7 @@
      "Buning hech qanday ahamiyati yo'q",
      "Bu davlatlar bog'liq ekanligini",
      "Bu davlatlar payti emandi",
-     "O'zbeklarning qo'shnisi davlatlarida ilm va fan sohasida faoliyatni"
+     "Qo'shni davlatlarda ham ilm-fanga qiziqish kattaligini"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -1355,7 +1355,7 @@
    {
     "savol": "Ilm (bilim) nima bilan ziyoda bo'ladi?",
     "variantlar": [
-     "O'rganish bilan",
+     "Yashirish bilan",
      "Sarflash bilan",
      "Qo'raslash bilan",
      "Tushunish bilan"
@@ -1500,7 +1500,7 @@
     "variantlar": [
      "Inson ziynati",
      "Bilim sharafi",
-     "Inson fakhri",
+     "Inson boyligi emas",
      "Inson fazilatining ekan ayni"
     ],
     "togri": 0,
@@ -1555,7 +1555,7 @@
     "variantlar": [
      "Ikkala savol berdi",
      "Bobur hamma biladi, Sevara bilmadi",
-     "Bobur savol berdi, Sevara shamindachixlikdan berdi",
+     "Bobur masxara qildi, Sevara esa uyalib savol bermadi",
      "Bobur yordamchi bo'ldi, Sevara o'zi kalka"
     ],
     "togri": 2,
@@ -1671,7 +1671,7 @@
     "savol": "Sardor matematika darsida qanday baho oldi?",
     "variantlar": [
      "Yaxshi",
-     "Adekvat",
+     "O'rtacha",
      "Qoniqarli",
      "A'lo"
     ],
@@ -1727,7 +1727,7 @@
     "variantlar": [
      "Hech qanday o'rtog'i yo'q bo'lish",
      "To'g'ri harakat va to'g'ri so'zlar",
-     "Eng ko'p pul yo'g'",
+     "Eng ko'p pulga ega bo'lish",
      "Faqat bitta faniga intilish"
     ],
     "togri": 1,
@@ -1738,7 +1738,7 @@
     "variantlar": [
      "O'yinni o'ynash",
      "Faqat darsga borish",
-     "Darsni bugungi uchun qoldirish",
+     "Darsni ertaga qoldirish",
      "Har kuni o'z xatolarini topib tuzatish"
     ],
     "togri": 3,
@@ -1761,7 +1761,7 @@
      "Boshqalarga yolg'on gapirish",
      "Bilimni unutish",
      "Hamma vaqt o'yna",
-     "Chin to'rtish va halollik"
+     "Chin dildan halollik va to'g'rilik"
     ],
     "togri": 3,
     "qiyinlik": "oson"
@@ -1780,9 +1780,9 @@
    {
     "savol": "Sardor Abbosga nima uchun tushuntirmadi?",
     "variantlar": [
-     "O'rtaqlari chaqirdi",
+     "O'rtoqlari chaqirdi",
      "O'qituvchi man qildi",
-     "A'lo baho olgan zavidan boshqalardan katta bo'lish istagan",
+     "A'lo baho olganidan g'ururlanib, boshqalardan ustun bo'lishni istadi",
      "Abbos bekorchi edi"
     ],
     "togri": 2,
@@ -1811,7 +1811,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Bilim olish talablaridan qaysi biri vaqtni bekorchi narsalarga sarflashga to'g'ri keladi?",
+    "savol": "Bilim olish talablaridan qaysi biri vaqtni bekorchi narsalarga sarflamaslikka oid?",
     "variantlar": [
      "O'z ustida muntazam ishlash",
      "Salomatlikka e'tibor",
@@ -1858,7 +1858,7 @@
     "savol": "Bilim egalarini hurmat qilish nima uchun zarur?",
     "variantlar": [
      "Ular eng katta yosh",
-     "Ular balo",
+     "Ular qo'rqinchli",
      "Ular eng boy",
      "Ular odobli va ilm-fan sohasida yutuq qo'lga kiritgan"
     ],
@@ -1879,7 +1879,7 @@
    {
     "savol": "Matndagi hikoyada ustoz qaysi talabni ko'rsatdi?",
     "variantlar": [
-     "Pul o'qitish",
+     "Pul yig'ish",
      "O'yinda shamil bo'lish",
      "Odobli bolaning vazifasi",
      "Faqat darni o'qish"
@@ -1903,8 +1903,8 @@
     "variantlar": [
      "Abbos xafa bo'lar edi",
      "Sardor ham Dilbar kabi odobli bo'lib qolardi",
-     "Sardor tez tog'ralar edi",
-     "Dars yanada zoriqar edi"
+     "Sardor darsga kechikardi",
+     "Dars zerikarli bo'lardi"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -1925,7 +1925,7 @@
     "variantlar": [
      "Bilim olish odobi faqat darsda kerak",
      "Ular bir-biridan juda alohida",
-     "Ularning fog'lanishi yo'q",
+     "Ularning bog'lanishi yo'q",
      "Bilim olish odobi odob-axloqning bo'lagi va asosi"
     ],
     "togri": 3,
@@ -1945,10 +1945,10 @@
    {
     "savol": "Qiyinchiliklardan qo'rqmaslik talabi nima uchun muhim?",
     "variantlar": [
-     "Faqat o'yun o'ynash uchun",
-     "Bekorchi",
-     "Yadgorlash uchun",
-     "Bilim egallashda yo'l-yo'naklar ayni shunga ko'tariladi"
+     "Faqat o'yin o'ynash uchun",
+     "Hech qanday ahamiyati yo'q",
+     "Faqat maqtov olish uchun",
+     "Bilim olish yo'lidagi qiyinchiliklarni yengishga yordam beradi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -1968,7 +1968,7 @@
     "savol": "Bilim olish talablarining hammasini qo'llagan o'quvchi qanday bo'ladi?",
     "variantlar": [
      "Faqat do'stlari qoladi",
-     "Oila va jamiyatning respektli a'zosi hamda haqiqiy bilimga ega bo'ladi",
+     "Oila va jamiyatning hurmatli a'zosi hamda haqiqiy bilimga ega bo'ladi",
      "Faqat \"a'lo\" baho oladi",
      "Bekorchi narsalar bo'ladi"
     ],
@@ -1990,7 +1990,7 @@
     "savol": "Bilim olish odobi to'liq bo'lishi uchun qaysi ikki asosiy elementi birga bo'lishi kerak?",
     "variantlar": [
      "Faqat kitob o'qish va a'lo baho",
-     "O'z shaxsiyatini taraqqiy ettirish va boshqalarning xayrlari ko'rish",
+     "O'z ustida ishlash va boshqalarga yaxshilik qilish",
      "Faqat ustozlarni hurmat qilish",
      "Faqat o'yin o'ynash"
     ],
@@ -2032,7 +2032,7 @@
      "Har bir buyuk ish orzu qilishdan boshlanadi",
      "Hamma kishi o'qituvchi bo'lishi kerak",
      "Maktabning binosi katta bo'lishi kerak",
-     "Xo'pning ishlashi muhim"
+     "Faqat ko'p ishlash muhim"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -2063,7 +2063,7 @@
     "savol": "\"Hunar – hunardan rizqing unar\" maqoli nima uchun aytiladi?",
     "variantlar": [
      "Hamma hunari o'rganish kerak",
-     "Hunar bilish muhim va inson pul keltiradi",
+     "Hunarli inson o'z rizqini topadi",
      "Hunar o'rganish juda qiyin",
      "Hunar vaqtni o'tkazishga yordam beradi"
     ],
@@ -2082,7 +2082,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "\"Har bir buyuk ish\" kimdan boshlanadi?",
+    "savol": "\"Har bir buyuk ish\" nimadan boshlanadi?",
     "variantlar": [
      "Pul topishdan",
      "Orzu qilishdan",
@@ -2115,14 +2115,14 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Siz katta bo'lsangiz qanday kasbni tanlashni xohlaysiz?",
+    "savol": "Kasb tanlayotganda insonlarga eng ko'p yordam beradigan narsa nima?",
     "variantlar": [
-     "Ko'p kasbning muhimi haqida o'ylash kerak",
-     "Faqat bitta kasb",
-     "Faqat o'qituvchi",
-     "Bilmaydi"
+     "Faqat mashhurlikka intilish",
+     "Shaxsiy qiziqish va qobiliyatga tayanish",
+     "Faqat oilaning fikriga qarash",
+     "Faqat pul topishni o'ylash"
     ],
-    "togri": 0,
+    "togri": 1,
     "qiyinlik": "o'rtacha"
    },
    {
@@ -2152,7 +2152,7 @@
     "variantlar": [
      "Hamma kasb bir xil",
      "Faqat pul",
-     "Shaxsiy qiziqish va kabiliyet",
+     "Shaxsiy qiziqish va qobiliyat",
      "Boshqa kishing tavsiyasi"
     ],
     "togri": 2,
@@ -2238,7 +2238,7 @@
    {
     "savol": "\"Yulduzlarga yetgulik kuch, sabr va ishtiyoq\" bo'lish uchun nima kerak?",
     "variantlar": [
-     "Doim o'rganish, harakat qilish va talab bo'lish",
+     "Doim o'rganish, harakat qilish va talabchan bo'lish",
      "Faqat pul",
      "Faqat taqdir",
      "Hech qanday ta'sir yo'q"
@@ -2261,7 +2261,7 @@
     "savol": "Buyuk orzu qanday haqiqatga aylanadi?",
     "variantlar": [
      "Hech qachon haqiqatga aylana olmaydi",
-     "Harakat, sabr va ishtiyoq orqasida",
+     "Harakat, sabr va ishtiyoq orqali",
      "Faqat taqdir orqasida",
      "Orzu qilsa yetarli"
     ],
@@ -2271,10 +2271,10 @@
    {
     "savol": "Dunyoni o'zgartirish mumkinmi va qanday?",
     "variantlar": [
-     "Faqat boy bo'lgan kishi o'zgartirar aladi",
-     "Faqat davlat o'zgartirar aladi",
+     "Faqat boy kishi o'zgartira oladi",
+     "Faqat davlat o'zgartira oladi",
      "Yo'q, mumkin emas",
-     "Ha, mumkin – kasb va hunarni rivojlantirish orqasida"
+     "Ha, mumkin — kasb va hunarni rivojlantirish orqali"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -2283,7 +2283,7 @@
     "savol": "Kasb va hunarmandchilik o'rtasida nima farq bor?",
     "variantlar": [
      "Hunarmandchilik faqat o'zbek uchun",
-     "Kasb har qanday ish, hunarmandchilik – ko'l sanoati va an'anaviy ish",
+     "Kasb — har qanday ish, hunarmandchilik — qo'l mehnati bilan an'anaviy buyumlar yaratish",
      "Kasb faqat zamonaviy kasblar",
      "Hech qanday farq yo'q"
     ],
@@ -2293,7 +2293,7 @@
    {
     "savol": "Nima uchun 3-sinf o'quvchilariga kasb haqida o'rgatish muhim?",
     "variantlar": [
-     "Davomiylashtiruvchi maktabga tayyorlash uchun",
+     "Faqat baho olish uchun",
      "Hech nima uchun kerak emas",
      "Faqat vaqtni o'tkazish uchun",
      "Kelajakda to'g'ri kasb tanlashga tayyorlanish uchun"
@@ -2304,8 +2304,8 @@
    {
     "savol": "\"Rizq\" nima demakdir va u qanday bo'ladi?",
     "variantlar": [
-     "Faqat taqdir qilgan narvsa",
-     "Inson faoliyati natijasida qo'lga kiyadigan pul va boylik",
+     "Faqat taqdir qilgan narsa",
+     "Halol mehnat bilan topiladigan ne'mat, daromad",
      "Faqat ovqat-ichimlik",
      "Faqat pul va hech narsa yo'q"
     ],
@@ -2331,7 +2331,7 @@
   "mavzu": "8–9-MAVZULAR: VAQNING KETDI – BAXTING KETDI",
   "savollar": [
    {
-    "savol": "Gulyora qanday muvaffaqiyatga erishlogan?",
+    "savol": "Gulyora qanday muvaffaqiyatga erishgan?",
     "variantlar": [
      "Yozuvda jurnal",
      "Musiqada mukammillik",
@@ -2366,7 +2366,7 @@
    {
     "savol": "Gulyora vaqtini to'g'ri taqsimlashda kimning maslahatiga amal qildi?",
     "variantlar": [
-     "O'nglar",
+     "Do'stlarining",
      "Maktab direktori",
      "Jurnalistlar",
      "Ota-ona va ustozlar"
@@ -2379,19 +2379,19 @@
     "variantlar": [
      "Kitoblarni ko'p sotib oldi",
      "Pulni sarf qildi",
-     "Ko'p uchrab yurdi",
+     "Ko'p sayr qildi",
      "Tinimsiz tayyorgarlik ko'rdi va kun tartibiga rioya qildi"
     ],
     "togri": 3,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Olimjon qanday xati-harakatlarga berib ketdi?",
+    "savol": "Olimjon nimaga berilib ketdi?",
     "variantlar": [
      "Kitob o'qishga",
      "Kompyuter o'yinlariga",
-     "Kinosining",
-     "Sayt ziyoratiga"
+     "Kino ko'rishga",
+     "Sayohatga"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -2410,9 +2410,9 @@
    {
     "savol": "Vaqtni taqsimlash deganda nima tushuniladi?",
     "variantlar": [
-     "Vaqtni turli ishlar uchun to'g'ri belgilash va banjilsh",
+     "Vaqtni turli ishlar uchun to'g'ri belgilab chiqish",
      "Vaqtni xarajlash",
-     "Vaqtni bir nechaga bo'lish",
+     "Vaqtni behuda o'tkazish",
      "Vaqtni umuman o'ylash"
     ],
     "togri": 0,
@@ -2424,7 +2424,7 @@
      "Faqat darsga",
      "Chiroyli amallarga",
      "Faqat o'yinga",
-     "Yordamchiga"
+     "Uyquga"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -2445,8 +2445,8 @@
     "variantlar": [
      "Darslarni tashlab qo'ydi",
      "Sezmay vaqt o'tdi",
-     "Kompyuterning vaqtini ko'taytdi",
-     "Muvaffaqiyatga erishlosh mumkin bo'ldi"
+     "Kompyuter o'yinlariga berilib ketdi",
+     "Muvaffaqiyatga erishdi"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -2456,8 +2456,8 @@
     "variantlar": [
      "Vaqtni avvaldan belgilab berish",
      "Vaqtni bilmasdan ishlash",
-     "Vaqt bilan o'yna sh",
-     "Vaqtni hech qachon o'qish"
+     "Vaqt bilan o'ynash",
+     "Vaqtni hisobga olmaslik"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -2465,8 +2465,8 @@
    {
     "savol": "Tartib va intizom vaqtni to'g'ri sarflashga qanday ta'sir qiladi?",
     "variantlar": [
-     "Vaqtni tayyorlashga yordam beradi",
-     "Yopiq qiladi",
+     "Vaqtni kamaytiradi",
+     "Vaqtni behuda ketkazadi",
      "Hech qanday aloqasi yo'q",
      "Vaqtni yaxshi ishlatishga imkon beradi"
     ],
@@ -2474,9 +2474,9 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Uy ishlariga qo'shimcha dars qilish uchun nima zarur?",
+    "savol": "Uy ishlariga yordam berish va qo'shimcha dars qilish uchun nima zarur?",
     "variantlar": [
-     "O'q",
+     "O'yin",
      "Ko'p pul",
      "Katta kitob",
      "Vaqtni to'g'ri taqsimlash"
@@ -2489,7 +2489,7 @@
     "variantlar": [
      "Hech qanday bog'lanish yo'q",
      "Vaqt va baxt bir xil",
-     "Baxt vaqtni o'lchanganida o'tadi",
+     "Baxt vaqtdan qochadi",
      "Vaqtni to'g'ri sarflasa baxt keladi"
     ],
     "togri": 3,
@@ -2507,12 +2507,12 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Gulyora dars tayyor likda nima qilgan?",
+    "savol": "Gulyora olimpiadaga qanday tayyorlandi?",
     "variantlar": [
      "Tinimsiz tayyorgarlik ko'rdi",
      "Kompyuter o'ynadi",
-     "Sarfi-sarfona o'yla di",
-     "Ko'p yumshatdi"
+     "Sarson-sargardon yurdi",
+     "Ko'p uxladi"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -2523,7 +2523,7 @@
      "Vaqtni rejalashtirish",
      "Kompyuter ishlatish",
      "Sekin ishlash",
-     "O'z ichiga tortinish"
+     "Hamma ishni kechiktirish"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -2531,10 +2531,10 @@
    {
     "savol": "Olimjon kompyuter o'yinlariga berib ketganda nima zararini ko'rdi?",
     "variantlar": [
-     "Kulgi bekor bo'ldi",
-     "Miya g'alatdi",
+     "O'yinda yutqazdi",
+     "Kasal bo'lib qoldi",
      "Maktabga borish vaqtini sezmay qoldi va darsga ulgurmas qoldi",
-     "Ko'zi tushdi"
+     "Ko'zi og'ridi"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -2553,20 +2553,20 @@
    {
     "savol": "Agar Olimjon vaqtini rejalashtirgan bo'lsa, uning qanday natijasi bo'lar edi?",
     "variantlar": [
-     "Yenada ko'p o'ynamuchun",
+     "Yanada ko'p o'ynardi",
      "Darsga vaqtida borar va taraqqiyot qilardi",
-     "Yordama yo'q",
-     "Sekin qilur edi"
+     "Hech narsa o'zgarmasdi",
+     "Kechroq uxlardi"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Gulyora va Olimjon qissan qanday farq bor?",
+    "savol": "Gulyora va Olimjon qissasida qanday farq bor?",
     "variantlar": [
-     "Juda yo'q",
+     "Hech farq yo'q",
      "Yoshi boshqacha",
-     "Gulyora vaqtini to'g'ri ishlatti, Olimjon vaqtini bema'ni sotdi",
+     "Gulyora vaqtini to'g'ri ishlatdi, Olimjon vaqtini behuda sarfladi",
      "Puli boshqacha"
     ],
     "togri": 2,
@@ -2575,9 +2575,9 @@
    {
     "savol": "Vaqtni to'g'ri taqsimlab oladigan insan qanday sifatlar ko'rsatadi?",
     "variantlar": [
-     "Yumshatib ishlash",
+     "Dangasalik",
      "Tartib, intizom va maqsadga qaratilganlik",
-     "Juda eski",
+     "Shoshqaloqlik",
      "Behuda ishlash"
     ],
     "togri": 1,
@@ -2597,7 +2597,7 @@
    {
     "savol": "Gulyora tinimsiz tayyorgarlik ko'rganligi va kun tartibiga rioya qilganligi qanday natija berdi?",
     "variantlar": [
-     "Ortiqcha to'ng",
+     "Charchab qoldi",
      "Yo'qolgan vaqt",
      "Xalqaro fan olimpiadasida g'oliblik qo'lga kiritish",
      "Bema'ni ishlash"
@@ -2633,7 +2633,7 @@
      "Maqsad belgilash va tartib tutish",
      "Xursandlik",
      "Shunchaki ishlash",
-     "Rahiash"
+     "Dam olish"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -2650,9 +2650,9 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Enson tug'ilganidan beri qancha vaqt o'tganligi bilish va vaqtni to'g'ri ishlati sh o'rtasida qanday aloqa bo'lishi mumkin?",
+    "savol": "Inson tug'ilganidan beri qancha vaqt o'tganini bilish va vaqtni to'g'ri ishlatish o'rtasida qanday aloqa bor?",
     "variantlar": [
-     "Yo'qoladi",
+     "Vaqt to'xtaydi",
      "O'tgan vaqtni bilish vaqtni qadrlashga va to'g'ri ishlat ishga undaydi",
      "Vaqt bo'linadi",
      "Hech qanday"
@@ -2673,7 +2673,7 @@
      "Shoshqacha qaror qabul qilish",
      "Kattalarni g'amgin qilish",
      "Behuda ishlar qilish",
-     "Nozuq va e'tibor bilan ishlash"
+     "Har ishni o'ylab, e'tibor bilan qilish"
     ],
     "togri": 3,
     "qiyinlik": "oson"
@@ -2727,8 +2727,8 @@
     "variantlar": [
      "O'yiniga qaytardiler",
      "Qirg'oqqa oldilar",
-     "Xonajoniga olib ketdilar",
-     "Bunga oldilar"
+     "Uyiga olib ketdilar",
+     "Maktabga olib ketdilar"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -2736,7 +2736,7 @@
    {
     "savol": "Sun'iy nafas berish nima?",
     "variantlar": [
-     "Joningni sog'ligi uchun nafas berish",
+     "Nafas olmayotgan odamga og'izdan havo berib, nafasini tiklash",
      "Yuzni suvda cho'mish",
      "Suv ichish",
      "Oddiy nafas olish"
@@ -2749,14 +2749,14 @@
     "variantlar": [
      "Suv ko'plab yutdi",
      "Kattalarni ko'rdi",
-     "Qayiqqa yetib olmaganarkan",
+     "Qayiqqa chiqib oldi",
      "Tezda hushidan o'tdi"
     ],
     "togri": 0,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Maqolda qanday sog'ot ko'rsatilgan?",
+    "savol": "Qaysi maqol ehtiyotkorlik haqida?",
     "variantlar": [
      "Besh o'lchab, bir kesa",
      "Yetti o'lchab, bir kesa",
@@ -2767,10 +2767,10 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Akmal qanday harakatni qildi bolalarning suzishdan oldin?",
+    "savol": "Bolalar suvga tushganda Akmal nima qildi?",
     "variantlar": [
      "Suv o'yiniga tushdi",
-     "Xush ko'rdim dedi",
+     "Uyga ketib qoldi",
      "Suzishni boshladı",
      "Qutqaruvchilar tomon shoshildi"
     ],
@@ -2778,11 +2778,11 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Agar siz Akmalning o'rnida bo'lsangiz, Jamshidning suv o'yiniga tushishiga qanday mos harakatini qilardingiz?",
+    "savol": "Agar siz Akmalning o'rnida bo'lsangiz, do'stlaringiz taqiqlangan joyda suvga tushsa, nima qilardingiz?",
     "variantlar": [
      "Suzishni davom etardim",
      "Unga ham tushib ketardim",
-     "Xali ham o'ynamiz deb aytardim",
+     "Ular bilan birga o'ynardim",
      "Kattalarni chaqirardim"
     ],
     "togri": 3,
@@ -2793,7 +2793,7 @@
     "variantlar": [
      "Ular Akmalning maslahatiga amal qildiler",
      "Ular kattalarni sezdiler",
-     "Ular ehtiyotkorlik bo'lishni unutdiler",
+     "Ularni kattalar yubordi",
      "Ular Jamshidga ergashib tushdi"
     ],
     "togri": 3,
@@ -2822,7 +2822,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Akmal kattalarning nazoratsiz harakat nima bo'lishini ko'rsatgan?",
+    "savol": "Akmalning fikricha, kattalar nazoratisiz suvga tushish qanday?",
     "variantlar": [
      "Xavfli bo'lish",
      "Foydali bo'lish",
@@ -2838,7 +2838,7 @@
      "Kattalarning nazoratida qolish kerak",
      "Tezda suzish kerak",
      "Hech kengashga amal qilmaslik",
-     "Suv o'yinlaridan chetda turish kerak"
+     "Chuqur joyga borish kerak"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -2846,21 +2846,21 @@
    {
     "savol": "Birinchi tibbiy yordam berish nima?",
     "variantlar": [
-     "Yumshat tibbiy ko'rsatmalar",
+     "Shifokor kelmasidan oldin ko'rsatiladigan dastlabki yordam",
      "Kasalxonaga borilish",
-     "Duch-duch qilish",
+     "Sabr bilan kutish",
      "Dorilar olish"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Elektr jihozlari nima uchun xavfarli hisoblanadi?",
+    "savol": "Elektr jihozlari nima uchun xavfli hisoblanadi?",
     "variantlar": [
      "Jarohatlanishga olib kelishi mumkin",
-     "Ular qimiysiz",
-     "Ular suv ichda",
-     "Ular suq"
+     "Ular qimmat",
+     "Ular og'ir",
+     "Ular chiroyli"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -2879,7 +2879,7 @@
    {
     "savol": "Maqoldagi 'yetti o'lchab' so'zi qanday ma'noni anglatadi?",
     "variantlar": [
-     "Soni oqlanadi",
+     "Ko'p sanash",
      "Suzish usuli",
      "Aniqliq va ehtiyotkorlik",
      "Tez harakat"
@@ -2893,7 +2893,7 @@
      "U suzishni bilmaydi",
      "U xavf-xatarni sezdi va yordam kerak deb tushundi",
      "U ular bilan o'ynmoqchi edi",
-     "U to'satdan qorkasidir"
+     "U qo'rqib ketdi"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -2913,7 +2913,7 @@
     "savol": "'Boshing bilan o'yla' aytishning asosiy ma'nosi nima?",
     "variantlar": [
      "Aniqliq bilan fikr qilib keyin ish qil",
-     "Shunchaki qora fikr qilish",
+     "Umuman o'ylamaslik",
      "Boshqalarga amal qilish",
      "Tezda fikr qilish"
     ],
@@ -2935,7 +2935,7 @@
     "savol": "Ehtiyotkorlik xislatlarining to'g'ri to'plami qaysi?",
     "variantlar": [
      "Shunchaki kulgi va o'ynash",
-     "Tezlash va juliya harakat",
+     "Shoshqaloq harakat",
      "Aniqliq, sezgi, chuqur fikrlash",
      "Kattalarni unutish"
     ],
@@ -2945,8 +2945,8 @@
    {
     "savol": "Sardorning holatining sababi qanday?",
     "variantlar": [
-     "U kattalarning nazoratisiz qilgan qilmish",
-     "U Akmalni tinglashi edi",
+     "Kattalar nazoratisiz, taqiqlangan joyda suzgani",
+     "U Akmalga quloq solgani",
      "U tez suzdi",
      "U kattalarni g'amgin qildi"
     ],
@@ -2965,7 +2965,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "'Qo'lingni tartibsiz harakat qilayotgan' deganda Sardor nima qilmoqchi edi?",
+    "savol": "Sardor suvda qo'llarini tartibsiz silkitganda nima qilmoqchi edi?",
     "variantlar": [
      "Raqsga tushdi",
      "O'yin davom etmoqchi bo'ldi",
@@ -2987,12 +2987,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Sardorni qayiqlarga olish va sun'iy nafas berish qanday ehtiyotkorlik namunasi?",
+    "savol": "Qutqaruvchilarning Sardorni qirg'oqqa olib chiqib, sun'iy nafas berishi nimani ko'rsatadi?",
     "variantlar": [
-     "O'yin davom etishining bir qismi",
-     "Sudga solib berish",
-     "Behuda vaqtni o'tkazish",
-     "Hayotga qaytarish uchun ehtiyotkorlik"
+     "O'yinning davomi",
+     "Jazolash",
+     "Vaqtni o'tkazish",
+     "Birinchi tibbiy yordam bilan hayotni saqlab qolish"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -3005,11 +3005,11 @@
   "mavzu": "12–13-MAVZULAR: KITOB – BILIM MANBAYI",
   "savollar": [
    {
-    "savol": "Aziza va Fazilat kimning vazifasini bajarish uchun kutubxonaga kirdilar?",
+    "savol": "Aziza va Fazilat kutubxonaga nima maqsadda kirdilar?",
     "variantlar": [
      "Sayyoralar haqida ma'lumot to'plash",
      "Tibbiyot haqida o'yin o'ynash",
-     "Shayx haqida kitob o'qish",
+     "Ertak kitobini o'qish",
      "Tarix kitobini o'qish"
     ],
     "togri": 0,
@@ -3038,22 +3038,22 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Priss papirusi qachon topilgan?",
+    "savol": "Qadimgi Misrda topilgan eng qadimgi kitoblardan biri qanday ataladi?",
     "variantlar": [
-     "1639-yili",
-     "1739-yili",
-     "1939-yili",
-     "1839-yili"
+     "Priss papirusi",
+     "Avesto",
+     "Boburnoma",
+     "Qutadg'u bilig"
     ],
-    "togri": 3,
+    "togri": 0,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Qur'oni karim qayda saqlanadi?",
+    "savol": "Qur'oni karimning qadimiy nusxasi (Usmon Mushafi) qayerda saqlanadi?",
     "variantlar": [
      "Mo'yi Muborak madrasasi kutubxona-muzeyida",
      "Buxoro kutubxonasida",
-     "Kokand muzeyida",
+     "Qo'qon muzeyida",
      "Samarqand madrasasida"
     ],
     "togri": 0,
@@ -3073,9 +3073,9 @@
    {
     "savol": "\"Avesto\" nima?",
     "variantlar": [
-     "Mamlakatimiz hududidagi eng qadimgy yozma manba",
+     "Mamlakatimiz hududidagi eng qadimgi yozma manba",
      "Faron haqida hikoya",
-     "Hududi qadimgi shayx",
+     "Qadimiy shahar nomi",
      "Qadimiy arab kitob"
     ],
     "togri": 0,
@@ -3086,7 +3086,7 @@
     "variantlar": [
      "Kitobni qayta qo'ydi",
      "Kitobning kerakli sahifasini yirtib oldi",
-     "Kitobni tuzing qilib qo'ydi",
+     "Kitobni tozalab qo'ydi",
      "Kitobni qayta o'qidi"
     ],
     "togri": 1,
@@ -3098,7 +3098,7 @@
      "Yugurish qobiliyati",
      "Ovqat yeyish qobiliyati",
      "Xotira va fikrlash qobiliyati",
-     "Poyabzal yilish qobiliyati"
+     "Poyabzal tikish qobiliyati"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -3115,10 +3115,10 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Nima uchun kutubxonachi qizlarning kitobni olib qo'ydi?",
+    "savol": "Nima uchun kutubxonachi qizlardan kitobni olib qo'ydi?",
     "variantlar": [
      "Shovqin qilgani va kutubxona odobini bilmagani",
-     "Kutubxonani yomonlashtirgan",
+     "Kutubxonachi charchagan edi",
      "Kitob juda qimmat edi",
      "Kitob buzilgan edi"
     ],
@@ -3131,18 +3131,18 @@
      "Kutubxonachiga yordam berish",
      "Kitobni saqlash",
      "Shovqin qilmaslik va boshqalarga xalaqit bermaslik",
-     "Bariklarlanib o'tirish"
+     "Baqirib o'tirish"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Fazilat Azizaning yengidan nima uchun tortib ani eshik tomon yetakladi?",
+    "savol": "Fazilat nima uchun Azizaning yengidan tortib eshik tomon yetakladi?",
     "variantlar": [
-     "Jim, uyat bo'ladi, ustozziga shikoyat qiladilar deb",
+     "Uyat bo'ladi, ustozimizga shikoyat qilishadi deb",
      "Kitob yo'q edi",
-     "Aziza charchalgan edi",
-     "Kutubxonachiga tutar edi"
+     "Aziza charchagan edi",
+     "Kutubxonachi chaqirdi"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -3163,7 +3163,7 @@
     "variantlar": [
      "Oshiradi",
      "O'zgarishmaydi",
-     "Tez oshira boshlaydi",
+     "Faqat eski so'zlarni qoldiradi",
      "Kamaytiradi"
     ],
     "togri": 0,
@@ -3186,7 +3186,7 @@
      "Kutubxoningizga boshqa kelmaymiz, kitoblaringiz ham kerak emas",
      "Xafa emasmiz",
      "Sizni sevamiz",
-     "Ertaga qaytib kellik"
+     "Ertaga qaytib kelamiz"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -3196,7 +3196,7 @@
     "variantlar": [
      "Kitoblar suv kabi",
      "Kitoblar juda qimmat",
-     "Kitob orqali bilim saqlash va rivojlanadi",
+     "Kitob bilimning manbayi",
      "Kitoblar yashash joydir"
     ],
     "togri": 2,
@@ -3229,19 +3229,19 @@
     "variantlar": [
      "Kitob yangi bo'ladi",
      "Hech narsaga ta'sir etmaydi",
-     "Boshqa o'quvchilarga ta'limning negiy oqibatlari yuzaga keladi",
+     "Boshqa o'quvchilarning ta'lim olishiga salbiy oqibat yetkazadi",
      "Kutubxonachi kuchli bo'ladi"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Agar siz Aziza bo'lsangiz, o'z xatohingizni qanday to'g'rilagan bo'lar edingiz?",
+    "savol": "Agar siz Aziza bo'lsangiz, xatoingizni qanday tuzatgan bo'lardingiz?",
     "variantlar": [
-     "Xafa bo'lib ketib borgan bo'lar edingiz",
-     "Kutubxonachiga samimiy kechirasiz so'rang bo'lar edingiz",
-     "Boshqa kutubxonaga borgan bo'lar edingiz",
-     "O'mirbod unutgan bo'lar edingiz"
+     "Xafa bo'lib ketib qolgan bo'lardim",
+     "Kutubxonachidan samimiy kechirim so'ragan bo'lardim",
+     "Boshqa kutubxonaga borgan bo'lardim",
+     "Hammasini unutgan bo'lardim"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -3249,8 +3249,8 @@
    {
     "savol": "\"Kitobga qanday munosabatda bo'lish kerak?\" savoli bilan \"Kitob – bilim qayrog'i\" iborasi qanday bog'lanadi?",
     "variantlar": [
-     "Kitobga hazoq bo'lish kerak",
-     "Kitobga e'zozlar bo'lish kerak, chunki u bilimning manbayi",
+     "Kitobga befarq bo'lish kerak",
+     "Kitobni e'zozlash kerak, chunki u bilim manbayi",
      "Kitob ahamiyatli emas",
      "Ular bog'lanmagan"
     ],
@@ -3273,30 +3273,30 @@
     "variantlar": [
      "Ayni ko'rinishda qolgan",
      "Har xil o'zgargan",
-     "Xofadan quvonchga o'tgan",
-     "Quvonch va hayajondan xafa va shamandagi holatga o'tgan"
+     "Xafalikdan quvonchga",
+     "Quvonch va hayajondan xafalik va uyatga"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Agar kutubxonachi qizlarni gaddaronacha aytmaganda, samimiy o'rgatib turgan bo'lsa, nima bo'lgan bo'lardi?",
+    "savol": "Agar kutubxonachi qizlarga qo'pol gapirmay, samimiy tushuntirganida nima bo'lardi?",
     "variantlar": [
-     "Kitob kattalaşgan bo'lardi",
+     "Qizlar yana shovqin qilardi",
      "Qizlar kutubxona odobini o'rganib, kundalik hayotida qo'llagan bo'lardi",
      "Kutubxonachi xafa bo'lardi",
-     "Xafa bo'lardi"
+     "Hech narsa o'zgarmasdi"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "\"Kitobni aql bilan kirmoq lozim\" degan fikr qanday ma'noni anglantiradi?",
+    "savol": "\"Kitobni aql bilan o'qimoq lozim\" degan fikr qanday ma'noni anglatadi?",
     "variantlar": [
      "Kitobni fotokopiya qilish",
      "Kitobni sotib olish",
      "Kitobni o'qishda o'yla-tafakkur va chuqur tushunch bilan yondashuv",
-     "Kitobni yumshroq ushlab o'qish"
+     "Kitobni yumshoqroq ushlab o'qish"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -3306,21 +3306,21 @@
     "variantlar": [
      "Kitoblar shaharlar uchun",
      "Kitoblar faqat o'zbek tilida",
-     "Kitoblar noqlasi",
-     "Insoniyat davri boshi kitob orqali bilimni saqlanib va rivojlanib kelgan"
+     "Kitoblar keraksiz",
+     "Insoniyat qadimdan kitob orqali bilimni saqlab va rivojlantirib kelgan"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Aziza va Fazilat kutubxonaning odobiyatini bilmasligining asosiy sababi qanday bo'lishi mumkin?",
+    "savol": "Kutubxonada o'zini qanday tutish kerak?",
     "variantlar": [
-     "Ularni hech kim o'rgatmadi",
-     "Kitobda yozilgan",
-     "Ular kichik edi",
-     "Kutubxonachi o'rgatmadi"
+     "Baland ovozda gaplashish",
+     "Kitob sahifalarini yirtib olish",
+     "Jim o'tirib, boshqalarga xalaqit bermaslik",
+     "Kitoblarni ruxsatsiz uyga olib ketish"
     ],
-    "togri": 0,
+    "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
@@ -3364,7 +3364,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Kompyuter necha avlodga ega?",
+    "savol": "Matnga ko'ra kompyuter necha avlodga ega?",
     "variantlar": [
      "To'rt avlod",
      "Uch avlod",
@@ -3375,9 +3375,9 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Kompyuter nererida tug'ilgan?",
+    "savol": "Kompyuter qayerda yaratilgan?",
     "variantlar": [
-     "Germaniјada",
+     "Germaniyada",
      "Britaniyada",
      "Frantsiyada",
      "Amerika Qo'shma Shtatlarida"
@@ -3454,7 +3454,7 @@
    {
     "savol": "Olimjon va Salimjon o'rtasidagi farq nima?",
     "variantlar": [
-     "Biri o'qiy oladim, biri o'qiy olmadi",
+     "Biri o'qiy oladi, biri o'qiy olmaydi",
      "Biri boshliq, biri ishchi",
      "Biri katta, biri kichik",
      "Biri kompyuterdan to'g'ri foydalandi, biri noto'g'ri foydalandi"
@@ -3466,7 +3466,7 @@
     "savol": "Yangi so'zlarni o'rganish uchun Olimjon nima ishladi?",
     "variantlar": [
      "Ustozi to'g'risida so'radi",
-     "Daftariga nusxa ko'chirdi",
+     "Hech narsa qilmadi",
      "Lug'at daftariga ko'chirdi",
      "Shunchaki yozib qo'ydi"
     ],
@@ -3544,7 +3544,7 @@
     "variantlar": [
      "Har vaqt yoqib turish kerak",
      "Uy vazifalari bajarish uchun",
-     "Har doim",
+     "Faqat kechasi",
      "O'yinlar o'ynash uchun"
     ],
     "togri": 1,
@@ -3566,7 +3566,7 @@
     "variantlar": [
      "Kompyuter juda katta bo'lib ketadi",
      "Kompyuter buziladi",
-     "Kompyuter hazm bo'ladi",
+     "Kompyuter qimmatlashadi",
      "Kompyuterdan o'ziga qaram bo'lib qolish mumkin"
     ],
     "togri": 3,
@@ -3575,7 +3575,7 @@
    {
     "savol": "Olimjon uy vazifalari bajarishdagi maqsadi nima edi?",
     "variantlar": [
-     "O'qituvchini hamdarda qilish",
+     "O'qituvchini xursand qilish",
      "Dars materialini o'rganish va bilim rivojlantirish",
      "Kompyuterni sinash",
      "Vaqtni o'ldirish"
@@ -3606,10 +3606,10 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Matnga ko'ra zavodlar va fabrikalarni qaysi shakl boshqarishi mumkin?",
+    "savol": "Matnga ko'ra zavod va fabrikalarni nima boshqarishi mumkin?",
     "variantlar": [
-     "Faqat sport uchun",
-     "Faqat yuk tashish uchun",
+     "Faqat hayvonlar",
+     "Faqat quyosh nuri",
      "Faqat insonlar tomonidan boshqarilishi mumkin",
      "Kompyuterlar tomonidan boshqarilishi mumkin"
     ],
@@ -3641,8 +3641,8 @@
    {
     "savol": "Matnga asosan, inson va kompyuter o'rtasida qanday munosabat bo'lishi kerak?",
     "variantlar": [
-     "Insan kompyuterni boshqaradi va to'g'ri foydalanadi",
-     "Ular bir-biriga dusmani",
+     "Inson kompyuterni boshqaradi va undan to'g'ri foydalanadi",
+     "Ular bir-biriga dushman",
      "Ular bir-biriga bog'liq emas",
      "Kompyuter insonni boshqaradi"
     ],
@@ -3679,7 +3679,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Daniyor hikoyasida uning nechta yosh singlimi bor?",
+    "savol": "Daniyorning singlisi necha yoshda?",
     "variantlar": [
      "5 yoshli",
      "6 yoshli",
@@ -3690,10 +3690,10 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Poyabzallar kiyim o'zi qachon paydo bo'ldi?",
+    "savol": "Poyabzal kiyimga nisbatan qachon paydo bo'lgan?",
     "variantlar": [
      "Kiyim bilan bir vaqtning o'zida",
-     "Asosdan paydo bo'lmagandir",
+     "Hech qachon",
      "Keyinroq",
      "Ko'p oldin"
     ],
@@ -3725,10 +3725,10 @@
    {
     "savol": "Vaqt o'tgani sari odamlar kiyimlarini nima bilan bezaganlar?",
     "variantlar": [
-     "Xamirga? nisbatan",
+     "Loy bilan",
      "Qum bilan",
      "Turli bezaklar bilan",
-     "Xalisan"
+     "Yog'och bezaklar bilan"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -3736,7 +3736,7 @@
    {
     "savol": "Bayram va tantanalarda qanday kiyimlar kiyiladi?",
     "variantlar": [
-     "Faqat qo'llalik kiyimlar",
+     "Faqat ish kiyimlari",
      "Bayram va tantanalarga maxsus kiyimlar",
      "Sport kiyimlari",
      "Kundalik kiyimlar"
@@ -3747,7 +3747,7 @@
    {
     "savol": "\"Kiyimlar ularga bo'lgan ehtiyojidan kelib chiqib paydo bo'lgan\" deganda nima tushuniladi?",
     "variantlar": [
-     "Kiyimlar shunga bezalanish uchun kerak",
+     "Kiyimlar tasodifan paydo bo'lgan",
      "Kiyimlar bezak asboblari",
      "Kiyimlar inson ehtiyojlari asosida vujudga kelgan",
      "Kiyimlar faqat bezak uchun kerak"
@@ -3756,7 +3756,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Onajon Daniyor singlimga nima deydi?",
+    "savol": "Onajon Daniyorning singlisiga nima deydi?",
     "variantlar": [
      "Yozda qalin kiyim kiy",
      "Kiyim kiyish shart emas",
@@ -3767,12 +3767,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Millatidan qat'i nazar hamma odamlar qanday kiyimlarni kiyadilar?",
+    "savol": "Turli millatlarga mansub odamlar ko'pincha qanday kiyim kiyishga intiladi?",
     "variantlar": [
-     "Turli-turli kiyimlarni",
-     "Faqat bo'ylakni",
-     "Millatiga xos kiyimlarni",
-     "Faqat ko'ylaglikni"
+     "Faqat oq rangli kiyimni",
+     "Hamma bir xil kiyimni",
+     "O'z millatiga xos an'anaviy kiyimni",
+     "Faqat qishki kiyimni"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -3789,10 +3789,10 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Tibbiyot xonasida yassioyoqlik tekshirilganidan keyin nima qilindi?",
+    "savol": "Tibbiyot xonasida yassioyoqlikni tekshirish uchun nima qilindi?",
     "variantlar": [
      "Tish tekshirildi",
-     "Oyoq kiyimi yechildi",
+     "Oyoq kiyimlari yechildi",
      "Qo'l tekshirildi",
      "Ko'z tekshirildi"
     ],
@@ -3803,8 +3803,8 @@
     "savol": "Tibbiyot xonada nima sababli rezina hidi paydo bo'ldi?",
     "variantlar": [
      "Poyabzallardan",
-     "Duvarning bo'yash",
-     "Oynani yupqa qilishdan",
+     "Devorning bo'yog'idan",
+     "Oynadan",
      "Desinfektantdan"
     ],
     "togri": 0,
@@ -3833,14 +3833,14 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Sport poyabzalini nima uchun kun davomida kiyib yurib bo'lmaydi?",
+    "savol": "Sport poyabzalini nima uchun kun bo'yi kiyib yurish tavsiya etilmaydi?",
     "variantlar": [
-     "O'z yodida kelmaydi",
-     "Rangaydi tezda",
-     "Buzilib ketadi",
-     "Kiyim madaniyati qoidalariga ko'ra"
+     "Rangi tez o'chadi",
+     "Qimmat turadi",
+     "Oyoq terlab, sog'liqqa zarar yetadi va yoqimsiz hid chiqadi",
+     "Tez yirtiladi"
     ],
-    "togri": 3,
+    "togri": 2,
     "qiyinlik": "o'rtacha"
    },
    {
@@ -3877,12 +3877,12 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Tog' yonbag'riga chiqib, kechki payt salqin tushib, gulxan qo'llarini isitsa, isinish uchun nima qilish mumkin?",
+    "savol": "Tog'da kechqurun salqin tushsa, isinish uchun nima qilish kerak?",
     "variantlar": [
-     "Chodirda uxlab, issiq kiyimda o'rtab olish",
-     "Hech nima qilish shart emas",
-     "Faqat qo'llarini issiq suv bilan isitish",
-     "Daryoga bo'rkling yugurib chiqish"
+     "Issiq kiyim kiyish",
+     "Hech narsa qilmaslik",
+     "Sovuq suv ichish",
+     "Sovuq suvga sho'ng'ish"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -3903,14 +3903,14 @@
     "variantlar": [
      "Yo'q bo'lib ketdi",
      "O'lcham kattalashdi",
-     "Turli bezaklar bilan bezalanib, madaniy ko'rinishi yangilan",
-     "Faqat rangaydi"
+     "Turli bezaklar bilan bezatilib, ko'rinishi yangilanib borgan",
+     "Faqat rangi o'zgargan"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Daniyor singlimning \"Nega yupqa?\", \"Nega kiyim kiyish kerak?\" savollari qaysi mavzuga ko'ra berilgan?",
+    "savol": "Daniyorning singlisining \"Nega yupqa?\", \"Nega kiyim kiyish kerak?\" savollari qaysi mavzuga oid?",
     "variantlar": [
      "Faqat maktab haqida",
      "Kiyim madaniyati va ehtiyojlari haqida",
@@ -3921,22 +3921,22 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Kiyimningiz sizning tabiatingiz va inson haqida beradigan taassurot orasidagi bog'laniш nima?",
+    "savol": "Kiyimingiz siz haqingizda qanday taassurot qoldiradi?",
     "variantlar": [
      "Bog'lanishi yo'q",
      "Faqat rang ahamiyatli",
      "Ahamiyati yo'q",
-     "Kiyimlaringiz sizning tartibingiz haqida ma'lumot beradi"
+     "Kiyimingiz sizning tartibli yoki tartibsizligingizni ko'rsatadi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Onajon nega qishga yaqinlashib, Daniyor singlimga yupqa ko'ylak o'rniga qalin ko'ylak kiyishni maslahat berdi?",
+    "savol": "Havo sovuy boshlaganda onajon nega Daniyorning singlisiga qalinroq ko'ylak kiyishni maslahat berdi?",
     "variantlar": [
-     "Ko'ylak tashib ketgani uchun",
+     "Ko'ylak yirtilgani uchun",
      "Faqat yangilash uchun",
-     "Iqlim o'zgarib, temperatura pastlangani uchun, sog'ligini himoya qilish uchun",
+     "Havo soviganda sog'ligini asrash uchun",
      "Shunchaki aytish"
     ],
     "togri": 2,
@@ -3954,12 +3954,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Tibbiyot xonasida biz xijolat bo'ldik, chunki:",
+    "savol": "Tibbiyot xonasida bolalar nima uchun xijolat bo'lishdi?",
     "variantlar": [
      "Biz birinchi marta xonaga kirdik",
      "Biror xato qildik",
      "Tibbiyot xonasi katta edi",
-     "Poyabzallarimizdan yoqimsiz hid chiqib, hamshira opaning ogohlantirish gaplarini eshitdi"
+     "Poyabzallaridan yoqimsiz hid chiqib, hamshira ogohlantirgani uchun"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -3980,8 +3980,8 @@
     "variantlar": [
      "Odamlar faqat rangga qaramaydi",
      "Ahamiyati yo'q",
-     "Sizning kiyimingiz, tarbiyangiz va tabiatingiz ko'rishtirishdagi baho siz tuzatgan taassurot beradi",
-     "Odamlar shunchaki qaradilar"
+     "Kiyimingizga qarab odamlar sizning didingiz va tarbiyangizga baho beradi",
+     "Odamlar shunchaki qaraydi"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -3999,7 +3999,7 @@
      "Oshxonani toza tuting",
      "Kiyimlarni yuvish",
      "Tana va qo'llarni toza saqlash",
-     "Uyni tekin tizish"
+     "Uyni bezatish"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -4020,19 +4020,19 @@
     "variantlar": [
      "Porsiyaga bo'lish",
      "Mevalarni yuvish",
-     "Sheker qo'shish",
-     "Tuzga batash"
+     "Shakar qo'shish",
+     "Tuzga botirish"
     ],
     "togri": 1,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Toza ichimlik suvi uchun nima foydalanish kerak?",
+    "savol": "Ichish uchun qanday suvdan foydalanish kerak?",
     "variantlar": [
      "Daryoning suvi",
      "Hovuzdan suv",
-     "Tekis kuduqning suvi",
-     "Cho'l suvini"
+     "Qaynatilgan yoki tozalangan suv",
+     "Ko'lmak suvi"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -4051,10 +4051,10 @@
    {
     "savol": "Kiyimlarni qanday saqlash kerak?",
     "variantlar": [
-     "Toza tuting",
-     "Emasligi holi",
-     "Suvga batashgan qilib",
-     "Shovqinda qoldiring"
+     "Toza tutish",
+     "Yuvmasdan saqlash",
+     "Ho'l holda tashlab qo'yish",
+     "Polga tashlab qo'yish"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -4074,8 +4074,8 @@
     "savol": "Shaxsiy buyumlarni tartibli saqlash uchun nima qilish kerak?",
     "variantlar": [
      "Ozoda va tartibli tutish",
-     "Har doim ko'chirish",
-     "Shovqinli joyda saqlash",
+     "Har joyga tashlab qo'yish",
+     "Iflos joyda saqlash",
      "Barcha narsani bir xonaga qo'yish"
     ],
     "togri": 0,
@@ -4106,7 +4106,7 @@
    {
     "savol": "Olimjon betoba chalingan sababi nima edi?",
     "variantlar": [
-     "Ko'p shovqin qilish",
+     "Ko'p shovqin qilgani",
      "Qo'llarni yuvmasdan nonni yeyish",
      "Ko'p choyni ichish",
      "Uyquni ko'p qilish"
@@ -4119,16 +4119,16 @@
     "variantlar": [
      "Hech ta'sir qilmadi",
      "Sog'lig'ini saqlaydi",
-     "Shovqin keltiraydi",
+     "Uyquni keltiradi",
      "Zarar beradi"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Olimjon oshxonaga qo'llarini yuvmasdan nonni yeydi. Bu nima degan nomatisqat?",
+    "savol": "Olimjon oshxonaga qo'llarini yuvmasdan nonni yeydi. Bu qanday xatolik hisoblanadi?",
     "variantlar": [
-     "Chaqaloq xulq-atvor",
+     "Kichik xato, zararsiz",
      "Yaxshi odatdir",
      "Zarar beradi",
      "Zarur ishdir"
@@ -4161,8 +4161,8 @@
    {
     "savol": "Mevalarni yuymasdan yesa, nima sodir bo'ladi?",
     "variantlar": [
-     "Foydasiz",
-     "Sababi yeyish kerak",
+     "Hech narsa bo'lmaydi",
+     "Mazasi o'zgaradi",
      "Betoba chalinish mumkin",
      "Yanada shirin bo'ladi"
     ],
@@ -4175,7 +4175,7 @@
      "Tuzli suvda",
      "Sovun va suvda",
      "Shunchaki suvda",
-     "Soyud bilan"
+     "Qum bilan"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
@@ -4192,10 +4192,10 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Oshxonaga oq qo'llarni yuvmasdan nonni yeysa nima bo'ladi?",
+    "savol": "Agar oshxonada qo'llarni yuvmasdan non yesa, nima bo'ladi?",
     "variantlar": [
      "Foydali bo'ladi",
-     "Tez sozlanadi",
+     "Tez to'yadi",
      "Hech nima",
      "Zarar beradi"
     ],
@@ -4216,8 +4216,8 @@
    {
     "savol": "Shaxsiy gigiyena qoldirib yuborsa, insan sog'lig'iga nima bo'ladi?",
     "variantlar": [
-     "Ko'proq o'sadi",
-     "Yanada kuchli bo'ladi",
+     "Bo'yi o'sadi",
+     "Kuchli bo'ladi",
      "Hech nima",
      "Betoba chalinish riski ortadi"
     ],
@@ -4225,12 +4225,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Olimjon betoba chalinsa, qo'ldirilgan darslarni qanday tiqishni o'rganish mumkin?",
+    "savol": "Olimjon betob bo'lib qolgach, qoldirilgan darslarni qanday to'ldirish mumkin?",
     "variantlar": [
      "Hech nima qila olmadi",
      "Takrorlash va o'qituvchidan yordamni so'rash",
      "Kitobni qayta o'qish",
-     "O'z avjida tugatish"
+     "O'qimasdan qoldirish"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -4240,7 +4240,7 @@
     "variantlar": [
      "Hech nima",
      "Pul tejiladi",
-     "Tezroq uyquga yoti",
+     "Tezroq uxlaydi",
      "Mikroblar tanaga kirib sog'lig'i buziladi"
     ],
     "togri": 3,
@@ -4252,7 +4252,7 @@
      "Yomon o'yinga chiqishi",
      "Maktabga vaqtida bormasligi",
      "Ko'p kitob o'qishi",
-     "Shaxsiy gigiyena qoidalarini qo'llamamasi"
+     "Shaxsiy gigiyena qoidalariga amal qilmagani"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -4260,9 +4260,9 @@
    {
     "savol": "Matndagi hikmat \"taomdan avval qo'l yuvish sog'lig'inga foyda\" nimani ta'kidlaydi?",
     "variantlar": [
-     "Qo'llarni yuv qilish muhim emaski",
-     "Faqat ko'chadan qaytkda kerak",
-     "Ayni hamma narsaga kerak",
+     "Qo'l yuvish muhim emas",
+     "Faqat ko'chadan qaytganda kerak",
+     "Faqat mehmonga borganda kerak",
      "Shaxsiy gigiyena sog'lig'i uchun zarur"
     ],
     "togri": 3,
@@ -4271,10 +4271,10 @@
    {
     "savol": "Shaxsiy gigiyena odatini o'zlashtirish uchun 3-sinf o'quvchilari nima qilishi kerak?",
     "variantlar": [
-     "Darhol o'rganish va kichiklarga o'rgat",
-     "O'zini unutish",
+     "Hoziroq o'rganish va kichiklarga o'rgatish",
+     "Hech narsa qilmaslik",
      "Kitob o'qish",
-     "Odamga gapini tugunish"
+     "Faqat kattalarni kutish"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -4284,7 +4284,7 @@
     "variantlar": [
      "Nonni tez yeyish kerak",
      "Oshxona yomon joydir",
-     "Choy xatra iymitdi",
+     "Choy ichish zararli",
      "Shaxsiy gigiyena qoldirib yuborsa betoba chalinish mumkin"
     ],
     "togri": 3,
@@ -4316,8 +4316,8 @@
     "savol": "Matndagi ta'limatlar (uyni ozoda tutish, qo'llarni yuving, toza suv) nima uchun berilgan?",
     "variantlar": [
      "Vaqt o'tkazish uchun",
-     "Buyurtma sifatida",
-     "Shaxsiy gigiyena yo'riqlamasi sifatida",
+     "Jazo sifatida",
+     "Shaxsiy gigiyena yo'riqnomasi sifatida",
      "Hikoya uchun"
     ],
     "togri": 2,
@@ -4345,9 +4345,9 @@
     "savol": "Xonada kimlar yashaydi?",
     "variantlar": [
      "Faqat Bilmasvoy",
-     "Bilmasvoy va uning buvimi",
-     "Bilmasvoy va uning singlimi",
-     "Faqat singlim"
+     "Bilmasvoy va uning buvisi",
+     "Bilmasvoy va uning singlisi",
+     "Faqat singlisi"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -4357,7 +4357,7 @@
     "variantlar": [
      "Tartibli joyda ish unadi",
      "Betartib xona yoqimli bo'ladi",
-     "Tozali yo'l xavofli bo'ladi",
+     "Toza yo'l xavfli bo'ladi",
      "Tartibsiz joyda ish unadi"
     ],
     "togri": 0,
@@ -4375,12 +4375,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Paypoqlar qanday tartibga keltirilib?",
+    "savol": "Paypoqlar qanday tartibga keltirildi?",
     "variantlar": [
      "Javon ustida joylashtirib",
      "Eshik yaqinida qo'yib",
-     "O'ng burchakda sarab",
-     "Poyni topib taxlab"
+     "O'ng burchakka tashlab",
+     "Juftini topib taxlab"
     ],
     "togri": 3,
     "qiyinlik": "oson"
@@ -4419,12 +4419,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Avtorning Bilmasvoyga xona tartibini keltirish uchun qanday yardimi?",
+    "savol": "Avtor Bilmasvoyga xonani tartibga keltirishda qanday yordam berdi?",
     "variantlar": [
      "Kitob bilan",
      "Amal bilan",
      "Pul bilan",
-     "Shuora bilan"
+     "Baqirish bilan"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -4441,12 +4441,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Agar siz shkafdagi kiyimlarni tartibga keltirmoqchi bo'lsangiz, birinchi nimani qilasiz?",
+    "savol": "Kiyimlarni shkafga joylashdan oldin nima qilish kerak?",
     "variantlar": [
      "Shkafdagi joylarni tozalaysiz",
      "Kiyimlarni olib chiqasiz",
      "Barchasi tasodifiy",
-     "Paypoqlarning poyini topib taxlaysiz"
+     "Kiyimlarni polga tashlaysiz"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -4474,9 +4474,9 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Bilmasvoy o'z xonasini nima bilan oqlamadi?",
+    "savol": "Bilmasvoy xonasi tartibsizligini nima deb oqladi?",
     "variantlar": [
-     "Singlimi ham bor, narsalarini o'zi yig'sin deb",
+     "Singlisi ham bor, narsalarini o'zi yig'sin deb",
      "Buvim bularni qiladi deb",
      "Vaqti yo'q deb",
      "Xona katta emas deb"
@@ -4490,7 +4490,7 @@
      "Darsga vaqti ko'proq bo'ladi",
      "Ijobiy ta'sir qiladi",
      "Hech ta'sir qilmaydi",
-     "Diqqatni buzadi va kamsitiadi"
+     "Diqqatni chalg'itadi"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -4554,7 +4554,7 @@
     "savol": "\"Tartibli joyda ish unadi\" degani shaxsning qaysi sifatini rivojlantiradi?",
     "variantlar": [
      "Hech qanday ahamiyati yo'q",
-     "Diqqat, kuch va energiyani tartibga to'g'ri ishlatas",
+     "Diqqat va kuchni to'g'ri ishlatishni",
      "Faqat xona tartibiga nisbatan",
      "Shunchaki dekorativ so'z"
     ],
@@ -4575,7 +4575,7 @@
    {
     "savol": "Avtorning Bilmasvoyga yordamda ko'rsatilgan qaysi qimmatli ta'rbiyaviy maqsad bor?",
     "variantlar": [
-     "Faqat sopish",
+     "Faqat supurish",
      "Kattalarning kichiklarga ta'sir va o'rnak bo'lish ahamiyati",
      "Oilaga yordamning shart emasligini",
      "Avtorning kuchi"
@@ -4586,10 +4586,10 @@
    {
     "savol": "Tartibsiz xonada dars tayyorlashning nima tufayli qiyin bo'ladi?",
     "variantlar": [
-     "Ijobiy sharoit",
+     "Xona yorug' bo'ladi",
      "Maydoni yo'q",
-     "Dastlabki ma'lumot",
-     "Zerikarli narsalardan diqqat buziladi"
+     "Kitoblar ko'p bo'ladi",
+     "Atrofdagi narsalar diqqatni chalg'itadi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -4606,12 +4606,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Tartibli mahol o'quvchining bilim olish jarayoniga qanday ta'sir qiladi?",
+    "savol": "Tartibli muhitning o'quvchining bilim olish jarayoniga qanday ta'siri bor?",
     "variantlar": [
-     "Shunga shundan, farqi yo'q",
+     "Farqi yo'q",
      "Ta'sir qilmaydi",
      "Salbiy ta'sir qiladi",
-     "Diqqat to'plostiriladi, samaradorlik ortadi"
+     "Diqqat to'planadi, samaradorlik ortadi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -4622,7 +4622,7 @@
      "Kattalarning mas'uliyati va mehribonligi",
      "Avtorning kuchi",
      "Avtorning vaqtida bo'lmasligini",
-     "Faqat shuora"
+     "Faqat maslahat"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -4633,7 +4633,7 @@
      "Dars qilish imkoniyati paydo bo'ldi, maqsad erishildi",
      "Vaqt behuda ketdi",
      "Hech nima o'zgarmaganning",
-     "Nafaqat xona, balki fikr ham o'zgardi"
+     "Xona yana betartib bo'ldi"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -4642,9 +4642,9 @@
     "savol": "Oila madaniyatining ta'rbiyadagi ahamiyati bu matnda qanday namoyish etiladi?",
     "variantlar": [
      "Ota-onalik va kichiklarga nisbatan mas'uliyat",
-     "Besh-oq shuora",
+     "Faqat maslahat",
      "Pul kamligini ko'rsatish",
-     "Faqat sopish"
+     "Faqat supurish"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -4652,8 +4652,8 @@
    {
     "savol": "Agar bolalar o'z narsalariga mas'uliyat olsa, ular nima o'rganadi?",
     "variantlar": [
-     "Faqat cleaning",
-     "Otaoni qo'rquv",
+     "Faqat tozalash",
+     "Ota-onadan qo'rqish",
      "Hech nima",
      "O'z-o'zini boshqarish va tartibdorlik"
     ],
@@ -4694,7 +4694,7 @@
     "variantlar": [
      "O'tirish kerak",
      "Chiqiladi",
-     "Tinishiladi",
+     "Qaraladi",
      "Tushiladi"
     ],
     "togri": 1,
@@ -4706,7 +4706,7 @@
      "Ko'ksiga qo'yib",
      "Qo'lga qo'yib",
      "Boshga qo'yib",
-     "Yurakga qo'yib"
+     "Tizzaga qo'yib"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -4714,7 +4714,7 @@
    {
     "savol": "Kattalarning gapini tinglayotganingizda nima qilish kerak?",
     "variantlar": [
-     "Vaqt vaqt bo'lib gaplashish",
+     "Telefonga qarab turish",
      "Tinglashni davom ettirish kerak",
      "Boshqa narsaga e'tibor berish",
      "Ularning gapini bo'lib ketish"
@@ -4749,19 +4749,19 @@
     "variantlar": [
      "Esmang degani",
      "Qaytarmang degani",
-     "Ptu'e chiqarmang degani",
+     "Tupurish harakatini qilmang degani",
      "Xursand bo'lmang degani"
     ],
     "togri": 2,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Birovning uyiga faqatgina nima mumkin emas?",
+    "savol": "Birovning uyiga qanday kirish mumkin emas?",
     "variantlar": [
      "Andisha bilan kirish",
      "Vaqt qo'yib borish",
      "Iloji bo'lsa kirish",
-     "Kutib-so'roqsiz kirish"
+     "Ruxsatsiz kirish"
     ],
     "togri": 3,
     "qiyinlik": "oson"
@@ -4780,7 +4780,7 @@
    {
     "savol": "Qizchaning harakatlaridan qanday dars olinadi?",
     "variantlar": [
-     "Ozodachi kiymasi to'g'ri edi",
+     "Qizchaning kiyimi eng muhim edi",
      "Tashqi ko'rinish va odob birga bo'lishi kerak",
      "Ayolning ta'qidi xato edi",
      "Tashqi ko'rinish eng muhimidir"
@@ -4811,10 +4811,10 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Jamoat transportida o'tirgan kishi kelgan qartiga nima qilishi kerak?",
+    "savol": "Jamoat transportida o'tirgan kishi keksa odam kelsa nima qilishi kerak?",
     "variantlar": [
      "Indamay o'tib ketish",
-     "Tinmiz so'lov berish",
+     "Qaramay o'tirish",
      "Chiqib ketish",
      "Joy berish kerak"
     ],
@@ -4835,7 +4835,7 @@
    {
     "savol": "Va'da bergandan keyin nima qilish kerak?",
     "variantlar": [
-     "Ayni vaqtda bajarish kerak",
+     "O'z vaqtida bajarish kerak",
      "Unutib qo'yish",
      "Kechiktirish",
      "Faqat iloji bo'lsa bajarish"
@@ -4849,7 +4849,7 @@
      "Shunchaki turish",
      "Birovni bosib o'tish",
      "Tartibga rioya qilish kerak",
-     "Eshikka yaqin turmang"
+     "Eshik oldida turish"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -4866,21 +4866,21 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Birovning narsasini olib qo'lishga nisbatan nima qilish kerak?",
+    "savol": "Birovning narsasini olish haqida qaysi qoida to'g'ri?",
     "variantlar": [
-     "Xohlagin qil",
-     "So'roq berish zaruri emas",
-     "Shunchaki olib ketish",
-     "So'roqsiz olib qo'lmaydi"
+     "Xohlagancha olish mumkin",
+     "So'rash shart emas",
+     "Olib ketib, keyin aytish",
+     "So'ramasdan olinmaydi"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Og'zingizda ovqat turgan holda gapirmang deganda nima tushunasladi?",
+    "savol": "Og'zingizda ovqat bo'lsa gapirmang deganda nima tushuniladi?",
     "variantlar": [
-     "Umuman gapirmang",
-     "Mumkin qador gapirish",
+     "Ovqatni yutmaguncha gapirmang",
+     "Sekin gapirsa bo'ladi",
      "Shunchaki shovqin qilmang",
      "Baland ovozda gapirish"
     ],
@@ -4890,9 +4890,9 @@
    {
     "savol": "Hikoyaga asoslanib, qizchaning xatosi nima edi?",
     "variantlar": [
-     "Ozoda kiymasi edi",
-     "Transportda o'turdi",
-     "Tashqi ko'rinishga e'tibor bermasdan odobsiz munosabat ko'rsatdi",
+     "Ozoda kiyingani",
+     "Transportda o'tirgani",
+     "Chiroyli kiyingan bo'lsa ham, odobsiz munosabatda bo'ldi",
      "Ayol vaqtida transportga chiqdi"
     ],
     "togri": 2,
@@ -4904,7 +4904,7 @@
      "Odob faqat boylarning ehtiyoji",
      "Boylik odob beradi",
      "Aql katta qimmat bo'lsa, odob uning bezagi hisoblanadi",
-     "Aql bo'lmasa odob turibdi"
+     "Aql bo'lmasa ham odob yetarli"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -4913,9 +4913,9 @@
     "savol": "Odobsizdan odob o'rganish mumkinmi?",
     "variantlar": [
      "Yo'q, umuman mumkin emas",
-     "Ha, salbiy misol ham o'rgantirar",
+     "Ha, salbiy misoldan ham o'rganish mumkin",
      "Faqat kitobdan o'rganish mumkin",
-     "Hech kim o'yta olmaydi"
+     "Hech kim o'rgata olmaydi"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -4935,8 +4935,8 @@
     "savol": "Qiz va ayol orasida bo'lgan to'qnashuv sababi to'liq nima edi?",
     "variantlar": [
      "Transportda turish",
-     "Do'ppa",
-     "Tashqi ko'rinish va odobning tog'i",
+     "Ob-havo",
+     "Tashqi ko'rinish bilan odob mos kelmagani",
      "Ayol vaqtida chiqib ketdi"
     ],
     "togri": 2,
@@ -4946,9 +4946,9 @@
     "savol": "Ko'chada va transportda odobni saqlashning asosiy maqsadi nima?",
     "variantlar": [
      "Shunchaki qoida qilish",
-     "Mudir so'ro'v qilmasin",
+     "Rahbar tanbeh bermasligi uchun",
      "Jasur ko'rinish",
-     "Boshqalarni xurmatash va jamiyatni intizamli saqlash"
+     "Boshqalarni hurmat qilish va jamiyatda tartibni saqlash"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -4956,7 +4956,7 @@
    {
     "savol": "Ko'chada yurganingizda tupurmang qoidasini to'liq qanday tushunarasi kerak?",
     "variantlar": [
-     "Umuman ptu'e chiqarmang",
+     "Umuman tupurmang",
      "Faqat tabiiy joyda",
      "Xohlagin qil",
      "Faqat uyda"
@@ -5016,11 +5016,11 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Aka-uka qanday bilan shug'ullanadi?",
+    "savol": "Aka-uka nima bilan shug'ullanadi?",
     "variantlar": [
      "Baliqchilik",
      "Cho'ponchilik",
-     "Xitoychilik",
+     "Hunarmandchilik",
      "Dehqonchilik"
     ],
     "togri": 3,
@@ -5040,7 +5040,7 @@
    {
     "savol": "Uka omborxonaga nima uchun borgan?",
     "variantlar": [
-     "Mo'ljallangan ishini bitirish uchun",
+     "Akasining omboriga o'z donidan qo'shib qo'yish uchun",
      "Xotirasini yangilash uchun",
      "Do'stlarini uchratish uchun",
      "Oilasiga pul olish uchun"
@@ -5052,7 +5052,7 @@
     "savol": "Aka omborxonada nima uchun borgan?",
     "variantlar": [
      "Xotirasini qayta yangilash uchun",
-     "Mo'ljallangan ishini qilish uchun",
+     "Ukasining omboriga o'z donidan qo'shib qo'yish uchun",
      "Donni sanab olish uchun",
      "Uka o'rnida bo'lish uchun"
     ],
@@ -5075,7 +5075,7 @@
     "variantlar": [
      "Donlarini sanab ko'rdi",
      "Qoziga ketish rejasi qildi",
-     "Xursand bo'lib o'rniga kelib yatdi",
+     "Xursand bo'lib o'rniga kelib yotdi",
      "Uka o'rniga boshqa ishni qildi"
     ],
     "togri": 2,
@@ -5150,10 +5150,10 @@
    {
     "savol": "Aka nima uchun o'zining donidan ukasining doniga qo'shib berdi?",
     "variantlar": [
-     "Ukasi boyitish uchun",
+     "Ukasini boyitish uchun",
      "Ukasi uylanishi kerak bo'lgani uchun",
-     "Uka karavon ketish uchun",
-     "Uka o'qish uchun"
+     "Ukasi karvon bilan ketishi uchun",
+     "Ukasi o'qishi uchun"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
@@ -5163,7 +5163,7 @@
     "variantlar": [
      "Akasi bozorga borish uchun",
      "Akasi boshqa don sotish uchun",
-     "Akasi yoshlar uchun",
+     "Akasi yosh bo'lgani uchun",
      "Akasining to'rt bolasi bo'lgani uchun"
     ],
     "togri": 3,
@@ -5185,7 +5185,7 @@
     "variantlar": [
      "Bozor savdogarlarina",
      "Ota-onasiga yaxshi tarbiya berib berganiga",
-     "Qozi o'zining beqabililigiga",
+     "Qozi o'zining adolati uchun",
      "Birinchi donni ko'p bo'lganiga"
     ],
     "togri": 1,
@@ -5196,7 +5196,7 @@
     "variantlar": [
      "Bir-biriga ranj bo'lish uchun",
      "Bir-biriga mehribonlik ko'rsatish va hayron qilish uchun",
-     "Ota-onaning ko'rmasdan",
+     "Ota-onasidan yashirinib",
      "Qo'shni bilan muammosi bo'lgani uchun"
     ],
     "togri": 1,
@@ -5229,8 +5229,8 @@
     "variantlar": [
      "Boshida don ko'p bo'lishi kerak deb o'ylab, oxirida oz bo'ldi",
      "Boshida teng bo'lishi kerak deb o'ylab, lekin oxirida ham teng bo'ldi",
-     "Boshida faqat o'z donini o'ylab borgam, oxirida qarindoshlarining holini o'ylab berdi",
-     "Boshida o'ylangan joyida kelmadi, oxirida qoshni keldi"
+     "Boshida faqat o'z donini o'ylagan, oxirida qarindoshining holini o'ylab berdi",
+     "Boshida janjallashdi, oxirida yarashdi"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -5250,7 +5250,7 @@
     "savol": "Nima uchun qozi aka-ukaning ota-onasiga rahmat aytdi? Ularning nima dars berib tarbiyalagan?",
     "variantlar": [
      "Yaxshi mehr-oqibat va adolat tarbiyasi berib berganlarining uchun",
-     "Ularning bo'lajak tarbiyasi uchun",
+     "Ularning boyligi uchun",
      "Ularning donlari ko'p bo'lgani uchun",
      "Ularning qoziga kelib bilganlarini uchun"
     ],
@@ -5258,22 +5258,22 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Agar aka-uka bir-biriga donlaridan bermasalar, nima bo'lar edi?",
+    "savol": "Agar aka-uka bir-biriga yordam bermaganida, nima bo'lardi?",
     "variantlar": [
-     "Ularning ota-onasi xursand bo'lardi",
-     "Donlarini teng bo'lib ketardi",
-     "Hech nima bo'lar edi",
-     "Qozi ularni mehrsiz va adolatdan mahrum deb e'lon qilardi"
+     "Ota-onasi xursand bo'lardi",
+     "Mehr-oqibat namunasi ko'rinmasdi",
+     "Donlari ikki barobar ko'payardi",
+     "Qozi ularni mukofotlardi"
     ],
-    "togri": 3,
+    "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
     "savol": "Aka nima uchun \"men oilaliman\" deb aytib o'z donini kamaytirdi?",
     "variantlar": [
-     "O'z qadriga kamaytirish uchun",
-     "Akasi bo'lmadi deb gapirish uchun",
-     "Bozorda o'z qiymatini ko'rsatish uchun",
+     "O'zini kamsitish uchun",
+     "Ukasini xafa qilish uchun",
+     "Bozorda maqtanish uchun",
      "O'z oilasining ehtiyoji bor ekanligi va uka uchun mehr ko'rsatish uchun"
     ],
     "togri": 3,
@@ -5282,9 +5282,9 @@
    {
     "savol": "Uka nima uchun \"akamning to'rt bolasi bor, men uylanmaganman\" deb gapirgan?",
     "variantlar": [
-     "Uka akasining bolalarini nafratlantirgani uchun",
-     "Uka qozini o'ylab turgan uchun",
-     "Uka o'z qadriga bo'yni loyib bo'ldi",
+     "Akasining bolalarini yoqtirmagani uchun",
+     "Qozini o'ylagani uchun",
+     "O'zini maqtash uchun",
      "Uka akasining ehtiyojini ko'rdi va akasiga mehr ko'rsatish uchun"
     ],
     "togri": 3,
@@ -5331,12 +5331,12 @@
   "mavzu": "23–24-MAVZULAR: QARI BILGANNI PARI BILMAS",
   "savollar": [
    {
-    "savol": "Umidjon maktabdan qaytib kimga salom berdi?",
+    "savol": "Umidjon maktabdan qaytgach kimning yoniga bordi?",
     "variantlar": [
-     "Otasi bilan suhbatga tushuq",
-     "Buvasining yoniga boribdi",
-     "O'qituvchisini kutib turdi",
-     "Oysi bilan gaplashib qoldi"
+     "Otasining",
+     "Buvasining",
+     "O'qituvchisining",
+     "Oyisining"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -5356,9 +5356,9 @@
     "savol": "Yanvar oyining xislati nima?",
     "variantlar": [
      "Qulfkalit yasashni xush ko'radi",
-     "Boyoqchilik",
+     "Bo'yoqchilik",
      "Kitob o'qish",
-     "Uyquchi"
+     "Uxlash"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -5408,11 +5408,11 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Iyun oyida oylar qanday faoliyat qiladi?",
+    "savol": "Iyun oyi nima qilishni yaxshi ko'radi?",
     "variantlar": [
-     "Qizig'ini yomg'irga o'tmadi",
-     "Mevalorsni yaxshi ko'radi",
-     "Uyquchi bo'ladi",
+     "Yomg'ir yog'dirish",
+     "Meva terish",
+     "Uxlash",
      "Anhorga cho'milishga ketaverar"
     ],
     "togri": 3,
@@ -5446,7 +5446,7 @@
      "Tug'ilgan kunlar qayerda nishonlanadi?",
      "Yanvar oyidagi kunlar necha?",
      "Nega fevral oyining kunlari boshqa oylarnikiga qaraganda kam?",
-     "Qachan yangi yil boslanadi?"
+     "Yangi yil qachon boshlanadi?"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -5463,12 +5463,12 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Iyul qanday sabab uchun Avgustga g'azab qildi?",
+    "savol": "Iyul nima uchun Avgustdan g'azablandi?",
     "variantlar": [
-     "Август o'zining oyiga 31 kun qisqa bilib qo'ygani",
-     "Avgust uni eslimay qo'ygan",
-     "Avgustning oy nomi unga o'xshab ketgan",
-     "Avgust undan ko'proq kun talabashi"
+     "Avgust uning nomini oldi",
+     "Avgust uni unutib qo'ydi",
+     "Avgustning nomi unga o'xshardi",
+     "Avgust undan ko'proq kun talab qildi"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -5478,7 +5478,7 @@
     "variantlar": [
      "Martning bir kunini o'g'irladi",
      "Yanvarning bir kunini o'g'irladi",
-     "Februalning bir kunini o'g'irladi va o'ziga qo'shdi",
+     "Fevralning bir kunini o'g'irlab, o'ziga qo'shdi",
      "Iyulning bir kunini o'g'irladi"
     ],
     "togri": 2,
@@ -5529,12 +5529,12 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Iyul va Avgust o'rtasidagi janjalni hal qilish uchun Yil janobi nima qildi?",
+    "savol": "Hozir avgust oyida necha kun bor?",
     "variantlar": [
-     "Iyulga yana bir kun berdi",
-     "Yangi oylar paydo qildi",
-     "Avgustning kunlarini 30 ta qoldirdi, tartibni o'zgarttirdi",
-     "Ikkalasini teng qoldi"
+     "28",
+     "30",
+     "31",
+     "29"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -5565,8 +5565,8 @@
     "savol": "Ertakda oylar nima uchun janjallashgan va tartib buzilgan?",
     "variantlar": [
      "Yangina oylar yaratish uchun",
-     "Qundagi tadbir o'tkazish uchun",
-     "Iyul va Avgust o'rtasidagi kunlar soniga teng bo'lmagan tafsig'ini hal qilish uchun",
+     "Bayram o'tkazish uchun",
+     "Iyul va Avgust kunlari soni teng bo'lmagani uchun",
      "Yil janobi ularga zulm qilgani"
     ],
     "togri": 2,
@@ -5575,10 +5575,10 @@
    {
     "savol": "Avgustning o'g'riligi Februalniga qanday ta'sir ko'rsatdi?",
     "variantlar": [
-     "Februar kunlarining soni kamayib ketdi va tartibning buzilishi natijasida ortiqcha sharoit yaratildi",
+     "Fevral kunlari kamayib qoldi",
      "Faqatgina Februar o'zgarib ketdi",
-     "Februar rengining o'zgarib ketdi",
-     "Februar kompyuter dek yangi sifa oldi"
+     "Fevralning nomi o'zgardi",
+     "Fevral eng uzun oyga aylandi"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -5595,11 +5595,11 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Qari bilganni pari bilmas sarlavhasi Avgust va buva lik kontextda qanday ma'no beradi?",
+    "savol": "\"Qari bilganni pari bilmas\" maqoli nimani anglatadi?",
     "variantlar": [
      "Qariyalar har doim to'g'ri",
-     "Qari bilim va tajriba orqali odam o'z xatoligini tushunib, o'zini tiriladi",
-     "Pari faqatgina pul",
+     "Keksalar bilim va tajribasi bilan ko'p narsani biladi",
+     "Parilar hamma narsani biladi",
      "Qari xalq bema'ni gap qiladi"
     ],
     "togri": 1,
@@ -5608,10 +5608,10 @@
    {
     "savol": "Februar oyining uyquchiligi ertakda nima sifatida ifodalanishi mumkin?",
     "variantlar": [
-     "Uyqu faqatgina Februari uchun kerakli",
-     "Februari har doim uyqida turadi",
+     "Fevral hech uxlamaydi",
+     "Fevral eng tetik oy",
      "Uni har kuni zo'rg'a uyg'otish kerak",
-     "Uni uyqu komasi olib qoladi"
+     "Fevral hammadan oldin uyg'onadi"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -5619,7 +5619,7 @@
    {
     "savol": "Iyul va Avgust o'rtasidagi kunlar soniga teng bo'lmaslik muammosining yechimini topish uchun qancha bilimlar kerak?",
     "variantlar": [
-     "Shuning uchun faqatgina shuning uchun",
+     "Hech qanday bilim kerak emas",
      "Tartib, teng qismlash va taqvim tuzilishi haqida bilim",
      "Faqatgina hisob-kitob",
      "Yanvar bo'yicha mavzuni bilish"
@@ -5628,34 +5628,34 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Август o'g'rilikni qilgandan keyin uning hol-ahvoli qanday o'zgarib ketdi?",
+    "savol": "Avgust o'g'rilik qilgandan keyin o'zini qanday his qildi?",
     "variantlar": [
-     "Yaqqon va quvnoq bo'ldi",
-     "O'zini aybodar his qildi va har bir qadamida fikiriy joza'lar bejasa",
+     "Xursand va quvnoq bo'ldi",
+     "O'zini aybdor his qildi",
      "Boshqa oylardan qayta so'z oldi",
-     "Shuning uchun unday tadbir qilmadi"
+     "Hech narsa o'zgarmadi"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Buva Umidjonning to't yilda bir marotaba tug'ilgan kunini nishonlash muammosini qanday talqin qilgan?",
+    "savol": "29-fevralda tug'ilgan odam tug'ilgan kunini necha yilda bir marta aynan o'z sanasida nishonlaydi?",
     "variantlar": [
-     "Taqvimning fikri qoldi",
-     "To'rt yilning tugab ketishi va soat tinishiga qaramay",
-     "Yil davomida hamma oyni kuzatish kerak",
-     "Faqatgina Februari uchun xusisiyat"
+     "Har yili",
+     "Ikki yilda bir marta",
+     "To'rt yilda bir marta",
+     "O'n yilda bir marta"
     ],
-    "togri": 1,
+    "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
     "savol": "Ertakda tartib buzilmasini xalos qilish uchun Yil janobi qanday sharti qo'yib, Februar uchun imkoniyat berdi?",
     "variantlar": [
-     "Qaysi oyning kunlarini o'zgartirib berishi",
+     "Boshqa oyning kunlarini olsa",
      "Agar vaqtida uyg'onib, o'z vazifasini bajara olsa, to'rt yilda bir marotaba 29 kunga ega bo'lishi",
      "Boshqa oylardan ko'proq kun qirib berishi",
-     "Qor yog'gargan bo'lsin"
+     "Qor yog'dirsa"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -5703,10 +5703,10 @@
    {
     "savol": "\"Eng zo'r qurol – o'tkir aql, yarog' bo'lsa – donishmandlikdir\" fikrda nima aytilmoqda?",
     "variantlar": [
-     "Donishmandlik kuch yo'q",
+     "Donishmandlikda kuch yo'q",
      "Qurol foydalı",
      "Yarog' quroldan ko'p",
-     "Aql va donishmandlik eng kuchlı asbadar"
+     "Aql va donishmandlik eng kuchli qurol"
     ],
     "togri": 3,
     "qiyinlik": "oson"
@@ -5714,7 +5714,7 @@
    {
     "savol": "Yo'l xavfsizligi nima uchun muhim?",
     "variantlar": [
-     "Yo'l bumalan kutub o'tkazish uchun",
+     "Yo'lda bekor turish uchun",
      "Avtomashina sotib olish uchun",
      "Bolalarning hayoti va sog'lig'ini himoya qilish uchun",
      "Tez yugurish uchun"
@@ -5727,19 +5727,19 @@
     "variantlar": [
      "\"Mehnat kuch beradi\" va \"Ilm nuri\"",
      "\"Bola aziz – odobi undan aziz\" va \"Eng zo'r qurol – o'tkir aql\"",
-     "\"Usta ko'p biladi\" va \"Ot chuvalchan\"",
-     "\"Oila posboni\" va \"Ota me'raj\""
+     "\"Usta ko'p biladi\" va \"Ot chopqir\"",
+     "\"Oila posboni\" va \"Ota mehri\""
     ],
     "togri": 1,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Odoba amal qilish nima demak?",
+    "savol": "Odobga amal qilish nima demak?",
     "variantlar": [
      "Hech kimga o'zini kuzatmay yurish",
      "Doimiy kulash",
      "Tez gapirish",
-     "Jamiyatning qoidalarini va qadiyalarini hurmat qilish"
+     "Jamiyat qoidalari va qadriyatlarini hurmat qilish"
     ],
     "togri": 3,
     "qiyinlik": "oson"
@@ -5747,10 +5747,10 @@
    {
     "savol": "\"Quloqchin taqqan\" ifodasining ma'nosi nima?",
     "variantlar": [
-     "Dais bo'lib yurgan",
-     "Ko'z bandli yurgan",
+     "Kasal bo'lib yurgan",
+     "Ko'zi bog'langan",
      "Qo'rqib yurgan",
-     "Musika eshitib yurgan"
+     "Musiqa eshitib yurgan"
     ],
     "togri": 3,
     "qiyinlik": "oson"
@@ -5759,7 +5759,7 @@
     "savol": "Donishmandlik nima?",
     "variantlar": [
      "Tez gapirish qobiliyati",
-     "Juda ko'p fulni sarflash",
+     "Juda ko'p pul sarflash",
      "Faqat ko'p kitob o'qishi",
      "Ko'p bilim va aqlni to'g'ri qo'llash"
     ],
@@ -5782,7 +5782,7 @@
     "variantlar": [
      "Ha, lekin juda qimmat",
      "Ha, yo'l harakati qoidalariga amal qilsak",
-     "Yo'q, bolalar esamgardir",
+     "Yo'q, bolalar sho'x bo'ladi",
      "Yo'q, hech qachon"
     ],
     "togri": 1,
@@ -5791,10 +5791,10 @@
    {
     "savol": "Quloqsiz bo'lib yurgan bola yo'lda qanday muammolar bilan duch kelishi mumkin?",
     "variantlar": [
-     "Mashinaning tovushini eshitmaydi",
+     "Musiqani yaxshi eshitadi",
      "O'yinchoqlari yo'q",
      "Yaxshi o'qiy olmaydi",
-     "Xavfni avwal sezib olmaydi va yo'lni to'g'ri o'tmaydi"
+     "Xavfni avval sezmaydi va yo'lni to'g'ri o'tmaydi"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
@@ -5803,8 +5803,8 @@
     "savol": "\"Bola aziz\" degan hikmatning amaliy ma'nosi nima?",
     "variantlar": [
      "Bolalarning hayoti va sog'lig'i eng muhim shuning uchun ularni himoya qilish kerak",
-     "Bolalarni hammesha o'yinga berish kerak",
-     "Bola hammesha ijon bo'ladi",
+     "Bolalarni doim o'ynatish kerak",
+     "Bola doim haq bo'ladi",
      "Bolalarning o'yinchoqlari qimmat"
     ],
     "togri": 0,
@@ -5847,9 +5847,9 @@
     "savol": "Oila davrasida muhokama qilish deganda nima tushuniladi?",
     "variantlar": [
      "Barchasini tinglash va fikrlashish",
-     "Sadaviy kulashish",
-     "Tunda uyqu vaqti",
-     "Kitob o'qiysh"
+     "Faqat kulishish",
+     "Uxlash vaqti",
+     "Kitob o'qish"
     ],
     "togri": 0,
     "qiyinlik": "o'rtacha"
@@ -5868,7 +5868,7 @@
    {
     "savol": "Matnda komiks degan so'z nima maqsadda ishlatilgan?",
     "variantlar": [
-     "Bolalarni ko'ldirish uchun",
+     "Bolalarni qo'rqitish uchun",
      "Yo'lda yugurish uchun",
      "Masalani masxara qilish uchun",
      "Odobni rasmlashtirilgan yo'lda tushuntirish uchun"
@@ -5893,7 +5893,7 @@
      "Bolalar ko'p, lekin odobsiz",
      "Odob bolani kichiklashtiradi",
      "Yo'l xavfsizligi odobdan kam muhim",
-     "Bolalar aziz lekin ularni himoya qilish (ehtiyot bo'lish) yanada muhim"
+     "Bola aziz, lekin uning odobi — yo'lda qoidalarga rioya qilishi undan ham muhim"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -5904,7 +5904,7 @@
      "Hech qanday bog'lanishi yo'q",
      "To'g'ri aqlni qo'llab, o'z hayotini himoya qilish va xavfli vaziyatlardan saqlash mumkin",
      "Bu fikr yo'l xavfsizligiga tegishli emas",
-     "Aql asbobi kuydagi muammolarni hal qiladi"
+     "Aql faqat darsda kerak"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -5913,9 +5913,9 @@
     "savol": "Yo'lda diqqat qilinmay musika eshitish qanday xavflarni keltirib chiqarishi mumkin?",
     "variantlar": [
      "Hech qanday xavfi yo'q",
-     "Musika yanada ehtiyotlilikni kuchaytiraydi",
-     "Mashinaning tovushini eshitmaydi, o'zini yo'lda yo'g'on bilmaydi, yo'lni to'g'ri o'tmaydi",
-     "Faqat kulagi zo'r bo'ladi"
+     "Musiqa ehtiyotkorlikni oshiradi",
+     "Mashina tovushini eshitmaydi va xavfni sezmay qoladi",
+     "Faqat qulog'i og'riydi"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -5946,7 +5946,7 @@
     "savol": "Odoba amal qilish va qoidalarga amal qilish orasidagi fundamental farq nima?",
     "variantlar": [
      "Odob muhimroq",
-     "Odob – madaniyat va muhtaramlikni ifodalaydigan xatti-harakat, qoidalar – hukuki talab. Xavfsizlik qoidalari hayot uchun juda muhim",
+     "Odob — madaniyat va hurmatni ifodalaydigan xulq, qoidalar — majburiy talab; xavfsizlik qoidalari hayot uchun juda muhim",
      "Hech farqi yo'q",
      "Qoida odob bilan bog'langan emas"
     ],
@@ -5996,10 +5996,10 @@
    {
     "savol": "Qo'shnining haqi nimada bo'lishi mumkin?",
     "variantlar": [
-     "Qo'shnining o'yiga turli narsalarni taklif qilish",
-     "Qo'shni bilan do'stona munosabat va unga yordam berish, uning hayotiga xalaqit bermash",
-     "Qo'shniga biror narsani qarz olish",
-     "Qo'shnining ko'chmarida har doim o'ta borish"
+     "Qo'shnining eshigi oldida shovqin qilish",
+     "Qo'shni bilan do'stona munosabatda bo'lish, unga yordam berish va xalaqit bermaslik",
+     "Qo'shnidan doim qarz so'rash",
+     "Qo'shnikiga har kuni so'roqsiz kirish"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -6010,7 +6010,7 @@
      "Eng boy odamlar",
      "Mahalla oqsoqoli (mahalla raisi)",
      "Eng katta o'qituvchilar",
-     "Eng katta shujonalar"
+     "Eng yosh yigitlar"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -6027,11 +6027,11 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Adham onasi uni nima uchun chaqirib qoldi?",
+    "savol": "Adhamni onasi nima uchun chaqirdi?",
     "variantlar": [
-     "Boshqa bolalar bilan o'ynamaygan uchun",
-     "Chiqindilarni tashlab kelishini buyrugani uchun",
-     "Ko'chada yolg'onni uchun",
+     "Boshqa bolalar bilan o'ynamagani uchun",
+     "Chiqindini tashlab kelishni buyurgani uchun",
+     "Ko'chada yolg'on gapirgani uchun",
      "Futbol o'ynashni taqiqlagani uchun"
     ],
     "togri": 1,
@@ -6041,8 +6041,8 @@
     "savol": "Yolg'iz ayol uyida nima sodir bo'ldi?",
     "variantlar": [
      "Shamol oynani sindirdi",
-     "O'g'li tasodifa uzangullik etdi",
-     "Asxona portlab ketdi",
+     "O'g'li tasodifan o'yinchoq sindirdi",
+     "Oshxonada qozon qaynab ketdi",
      "Isitgichning nosozligi tufayli yong'in sodir bo'ldi"
     ],
     "togri": 3,
@@ -6051,7 +6051,7 @@
    {
     "savol": "Ko'chada Adham nima qilayotgan edi?",
     "variantlar": [
-     "Toza sho'rlamoqchi edi",
+     "Ko'cha supurayotgan edi",
      "Maza qilib to'p tepayotgan edi",
      "Yugurib yuribdi",
      "O'qish darsini qilib turibdi"
@@ -6062,7 +6062,7 @@
    {
     "savol": "Yong'inda yolg'iz ayol qaysi ko'chada yashardi?",
     "variantlar": [
-     "Quzisada",
+     "Qishloqda",
      "Shahar markazida",
      "Ko'chaning birinchi muyulishida",
      "Ko'chaning oxiri chizig'ida"
@@ -6073,7 +6073,7 @@
    {
     "savol": "Mahalla aholisini qanday narsalar bog'laydi?",
     "variantlar": [
-     "Faqat qo'l-qo'naqa",
+     "Faqat qarindoshlik",
      "Faqat puli bor-yo'qligi",
      "Qo'ni-qo'shnichilik, ichki tartib-qoida, ma'naviy-axloqiy me'yorlar, urf-odatlar va umumiy manfaatlar",
      "Faqat qo'ni-qo'shnichilik"
@@ -6086,7 +6086,7 @@
     "variantlar": [
      "Faqat to'ylarni",
      "Pul sarmayasini",
-     "Faqat sho'rvaytni",
+     "Faqat bayramlarni",
      "Jamoatchilik tizimini"
     ],
     "togri": 3,
@@ -6095,9 +6095,9 @@
    {
     "savol": "«Girgitton buvi» matni qaysisi haqida gapiradi?",
     "variantlar": [
-     "Bir shifo o'simliksi haqida",
-     "Qo'l-qo'naqa haqida",
-     "Togga chiqish haqida",
+     "Shifobaxsh o'simlik haqida",
+     "Qarindoshlar haqida",
+     "Toqqa chiqish haqida",
      "Mehmondostlik va saxovatchilik haqida"
     ],
     "togri": 3,
@@ -6106,10 +6106,10 @@
    {
     "savol": "Buvining «qizg'anchiq»ligini qanday tushunutish mumkin?",
     "variantlar": [
-     "Buvi boshida o'rnak o'ratgan",
+     "Buvi hech kimga hech narsa bermasdi",
      "Buvi mehmondostli va saxovatchilik bilan harekat qilardi",
-     "Buvi tez-tez sakradi",
-     "Buvi har doim kuldi"
+     "Buvi tez-tez sakrardi",
+     "Buvi doim kulardi"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
@@ -6120,7 +6120,7 @@
      "Ular o'zlarining ishiga amal qildilar",
      "Ular sekin-asta o't o'chirishga kirdiliar",
      "Ular shoshildilar va birgalikda o't o'chirishga harakat qildilar",
-     "Ular aytib-kuʻchit qildilar, lekin yordam bermadilar"
+     "Ular faqat tomosha qildilar"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -6130,7 +6130,7 @@
     "variantlar": [
      "Inkor qildi",
      "Xursand bo'lib chiqindi xaltasini olib ketdi",
-     "Norozi bo'lib bos qaldi",
+     "Norozi bo'lib turib qoldi",
      "Yo'ldan qaytib qoldi"
     ],
     "togri": 1,
@@ -6139,20 +6139,20 @@
    {
     "savol": "Yong'in sodir bo'lganda mahallaning katta-kichligi nima qildilar?",
     "variantlar": [
-     "Uyalob qoldilar",
-     "Bir-biriga suv uzatishar, qum separdi va o't o'chirishga harakat qildilar",
+     "Uyalib qoldilar",
+     "Bir-biriga suv uzatib, qum sepib, o't o'chirishga harakat qildilar",
      "Ayolning uyiga qaraymay ketib qoldilar",
-     "Uyda otirip qoldilar"
+     "Uyda o'tirib qoldilar"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Buviga yong'oq berayotgan bolani buvining «Yuraqol» deb chaqirig'i nima bildiradi?",
+    "savol": "Buvining «Yuraqol» deb chaqirishi nimani bildiradi?",
     "variantlar": [
-     "Buvi bolanoni salomlaydi va saxovatchilik bilan qabul qiladi",
-     "Buvi bolanoni xizmatchi qilmoqchidi",
-     "Buvi bolanoni haraka taqiqlay chagaydi",
+     "Buvi bolani mehr bilan chaqirib, saxiylik qiladi",
+     "Buvi bolani xizmatga chaqirdi",
+     "Buvi bolani urishdi",
      "Buvi bolanoni yoqtirmaydi"
     ],
     "togri": 0,
@@ -6172,8 +6172,8 @@
    {
     "savol": "Mahallaning tinchligini ta'minlash uchun nima zarur?",
     "variantlar": [
-     "Faqat qon-qavomi",
-     "Oqsoqolning mas'uliyati va mahalla aholisining oʻzaro tinchlik ruhiga ayllanishi",
+     "Faqat qarindoshlar",
+     "Oqsoqolning mas'uliyati va aholining o'zaro tinch-totuvligi",
      "Faqat pul",
      "Faqat bolalarni taqiqlash"
     ],
@@ -6183,9 +6183,9 @@
    {
     "savol": "Mahalla aholisining jamoa bo'lib yashashi nima uchun zarur?",
     "variantlar": [
-     "Faqat bo'ylik aytish uchun",
+     "Faqat maqtanish uchun",
      "Hech nima uchun zarur emas",
-     "Qo'rquvdan saqlash, qadriyatlarni shakllantirilishi uchun",
+     "Bir-birini qo'llab-quvvatlash va qadriyatlarni shakllantirish uchun",
      "Faqat pul uchun"
     ],
     "togri": 2,
@@ -6196,7 +6196,7 @@
     "variantlar": [
      "Faqat halol pul kerak",
      "Yong'oq eng qimmatli",
-     "Mehmondostlik va saxovatchilik insanni ijobiy qadriyatlarni bilir qiladi",
+     "Saxiylik va mehmondo'stlik insonni ezgu qiladi",
      "Buvini hamisha so'rash kerak"
     ],
     "togri": 2,
@@ -6205,9 +6205,9 @@
    {
     "savol": "Adhamning chiqindi tashishi mahallaga qanday ta'sir ko'rsatadi?",
     "variantlar": [
-     "Ariqni ifloslantirib, mahalla bolalariga shunga o'rgatib, mahalla obodini buzadi",
+     "Ariqni ifloslantiradi, boshqalarga yomon o'rnak bo'ladi, mahalla obodligini buzadi",
      "Faqat Adhamga ta'sir ko'rsatadi",
-     "Buvi sa'adatiga zarar yetkazadi",
+     "Faqat buviga zarar yetkazadi",
      "Hech qanday ta'sir ko'rsatmaydi"
     ],
     "togri": 0,
@@ -6238,7 +6238,7 @@
    {
     "savol": "«Qo'shning tinch – sen tinch» maqolasi Adhamning harakati bilan qanday bog'lanadi?",
     "variantlar": [
-     "Maqola hali vaqtida amal qiladi",
+     "Maqolning bu voqeaga aloqasi yo'q",
      "Agar ariqqa chiqindi to'kilsa, qo'shniga zarar yetadi, bu Adhamga ham zarar beradi",
      "Bog'lanmaydi",
      "Adham yolg'on aytgan"
@@ -6249,10 +6249,10 @@
    {
     "savol": "Buvining mehmondostligi mahalla hayotida qanday rol o'ynaydi?",
     "variantlar": [
-     "Mahallaning qadriyatini o'stira, odam-odam o'rtasida mehribonlik va saxovatchilik ruhini yaratadi",
+     "Odamlar orasida mehr va saxiylik ruhini kuchaytiradi",
      "Faqat pul uchun zarur",
      "Hech qanday rol o'ynamaydi",
-     "Faqat girgittonlar uchun rol o'ynaydi"
+     "Faqat buvining o'zi uchun muhim"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
@@ -6262,7 +6262,7 @@
     "variantlar": [
      "Hech qanday ta'sir ko'rsatmadi",
      "Salbiy ta'sir ko'rsatdi",
-     "Mahallaning oʻzaro yordam-kuvchalik ayolni qutqarish uchun yaroqli bo'ldi, bu yurtni tamir qilish va saviyasini oʻrgatadi",
+     "Mahalla ahilligi ayolni qutqarishga yordam berdi; bunday birlik yurtni mustahkam qiladi",
      "Faqat ayolni qutqarish kerak edi"
     ],
     "togri": 2,
@@ -6271,7 +6271,7 @@
    {
     "savol": "Mahalla qadriyatlarini shakllantirilishi uchun qanday shartlar zarur?",
     "variantlar": [
-     "Faqat zakon qo'llanish",
+     "Faqat qonun",
      "Oila, mahalla va oqsoqolning birgalikda ishlashi, odam-odam o'rtasida imon, ishonch va oʻzaro yordam-kuvchalik zarur",
      "Faqat o'qituvchi kerak",
      "Faqat pul yetarli"
@@ -6296,7 +6296,7 @@
      "Chiqindi tashishning ahamiyati yo'q",
      "Faqat yaxshi xulq-atvori muhim",
      "Xulq-atvori mahallaga ta'sir ko'rsatmaydi",
-     "Adham ariqqa chiqindi to'kilsa, mahalla bolalari ifloslikka o'rganadi, bu mahallaning va yurtning taqdiri buziladi"
+     "Adham ariqqa chiqindi to'ksa, boshqalar ham ifloslikka o'rganadi, bu mahalla va yurtga zarar"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -6304,7 +6304,7 @@
    {
     "savol": "«Bir farzandning tarbiyasi uchun yetti mahalla mas'ul» degan ibora nima bildiradi?",
     "variantlar": [
-     "Bolaning tarbiyasida oila, mahalla, oqsoqol va barcha aholining roli bir xil muhimdir",
+     "Bola tarbiyasiga butun mahalla mas'ul",
      "Faqat onajon mas'ul",
      "Faqat o'qituvchi mas'ul",
      "Faqat otajon mas'ul"
@@ -6364,12 +6364,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Qobil oynadan qarab turgan edi, nima ko'rdi?",
+    "savol": "Qobil oynadan qarab nima ko'rdi?",
     "variantlar": [
-     "O't o'chiruvchilар avtomobili",
-     "Yangin",
+     "O't o'chiruvchilar avtomobilini",
+     "Yomg'ir yog'ayotganini",
      "Qo'shnining oshxonasidan tutun",
-     "Gaz quyi"
+     "Qushlarni"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -6388,9 +6388,9 @@
    {
     "savol": "Ajdodlar suv tanqis hududlarda suvni saqlash uchun qanday qurilma qurganlar?",
     "variantlar": [
-     "Basskyn",
+     "Basseyn",
      "Gumbazli hovuz (sardoba)",
-     "Cho'nta",
+     "Chelak",
      "Oddiy idish"
     ],
     "togri": 1,
@@ -6401,7 +6401,7 @@
     "variantlar": [
      "Nodira",
      "Alisher Navoiy",
-     "Mirmuhtarar",
+     "Muhammad Yusuf",
      "I.A. Krilov"
     ],
     "togri": 3,
@@ -6419,12 +6419,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Chumoli Ninachiga qaysi faslda yordam berish taklif qildi?",
+    "savol": "Ninachi Chumolidan qaysi faslda yordam so'radi?",
     "variantlar": [
      "Yozda",
-     "Bahorida",
+     "Bahorda",
      "Qishda",
-     "Kushda"
+     "Kuzda"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -6435,7 +6435,7 @@
      "Eshikni yopmagan",
      "Gazni o'chirmagan",
      "Oynani yopmagan",
-     "Daryoni yopamagan"
+     "Suvni yopmagan"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -6479,7 +6479,7 @@
      "O't o'chirmadi",
      "Gazni o'chirmadi",
      "Idishni ko'chirmadi",
-     "Shon'ni yoparmadi"
+     "Derazani yopmadi"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
@@ -6487,10 +6487,10 @@
    {
     "savol": "Akbar oftob urishining natijasi sifatida qanday holat yuzaga keldi?",
     "variantlar": [
-     "Suv ichishmadi",
+     "Suv ichmadi",
      "Qorni og'ridi",
      "Isitmasi ko'tarildi va bir necha kun uyda qoldi",
-     "Shuv bo'ldi"
+     "Oyog'i sindi"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -6510,17 +6510,17 @@
     "savol": "Gaz ko'tarilganda olovga nima sodir bo'ldi?",
     "variantlar": [
      "O'chib ketdi",
-     "Kuchaydi",
+     "Sekinlashdi",
      "Sovuq bo'ldi",
-     "Tezlashdi va sochiq yonib ketdi"
+     "Alanga kuchayib, sochiq yonib ketdi"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Zahro Zarifa uchun nima uchun asrabish kerakligini aytdi?",
+    "savol": "Zahro Zarifaga kitobni nima uchun asrash kerakligini aytdi?",
     "variantlar": [
-     "Dadaning mehnatini va kitobni yozishdagi mehnatni ham aytdi",
+     "Dadasining mehnati va kitob yozganlarning mehnati uchun",
      "Faqat dadaning kitob olib berish uchun mehnat qilgani",
      "Faqat kitobni yozishda mehnat sarflangani",
      "Faqat kitobning qimmatli ekanligi"
@@ -6533,7 +6533,7 @@
     "variantlar": [
      "Ninachi qish kunlarida muhtoj bo'ldi",
      "Nozimaning qorni og'ridi",
-     "Akbar xorazam bo'ldi",
+     "Akbar kasal bo'lib qoldi",
      "Barchasi to'g'ri"
     ],
     "togri": 3,
@@ -6543,7 +6543,7 @@
     "savol": "Nozima, Akbar va Zarifa halatlarining umumiy xususiyati nimada?",
     "variantlar": [
      "Hammasi vaqt tejadi",
-     "Hammasi uvoli qildi va oqibatdan azob chekdi",
+     "Hammasi ehtiyotsizlik qildi va oqibatidan aziyat chekdi",
      "Hammasi shifokorga bordi",
      "Hammasi yosh bolalar edi"
     ],
@@ -6566,7 +6566,7 @@
     "variantlar": [
      "Xotirjam televizor ko'rgan bo'lardi",
      "Kitob o'qigan bo'lardi",
-     "Darslar tayyorlashi qiynroq bo'lgan",
+     "Darsni qiynalib tayyorlardi",
      "Qorni og'rimagan bo'lardi"
     ],
     "togri": 3,
@@ -6578,7 +6578,7 @@
      "Ikkalasi hammasi boshqa edi",
      "Ikkalasi ham vaqtni tejadi",
      "Ikkalasi ham ehtiyotsiz bo'ldi va noto'g'ri natijaga olib keldi",
-     "Ikkalasi bilsilar edi"
+     "Ikkalasi hamma narsani bilardi"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
@@ -6595,10 +6595,10 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Chumoli Ninachiga qanday maslahat berish orqali uning muammosining yechimini taklif qildi?",
+    "savol": "Ertakdan qanday xulosa chiqadi?",
     "variantlar": [
      "Faqat ko'p ish qil",
-     "Yozda tejamkorlik qil va qish uchun tayyorlang",
+     "Yozda mehnat qilib, qishga tayyorlanish kerak",
      "Faqat qish uchun tayyorlang",
      "O'ynashda davom et"
     ],
@@ -6628,12 +6628,12 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Matnda tejash mavzusiga nisbatan qaysiga yetarlicha diqqqat qaratilmagan?",
+    "savol": "Gazdan foydalanishda qaysi qoida to'g'ri?",
     "variantlar": [
-     "Suvni tejash",
-     "Pul tejash va xarchlashga",
-     "Vaqtni tejash",
-     "Gazni tejash"
+     "Olovni qarovsiz qoldirish",
+     "Ishlatib bo'lgach gazni o'chirish",
+     "Yonib turgan gaz yoniga sochiq qo'yish",
+     "Gugurtni tejash uchun gazni o'chirmaslik"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -6643,7 +6643,7 @@
     "variantlar": [
      "Hamma narsadan mahrum bo'lgan",
      "Yolg'izi qolgan",
-     "Tayyorgar bo'lgan",
+     "Qishga tayyor bo'lardi",
      "Baribir muhtoj bo'lgan"
     ],
     "togri": 2,

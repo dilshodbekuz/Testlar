@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "26-§. Ichki yonuv dvigatellari",
+ "savollar": [
+  {
+   "savol": "Ichki yonuv dvigateli nima?",
+   "variantlar": [
+    "Elektr dvigatel",
+    "Shamol dvigateli",
+    "Yoqilg'i silindr ichida yonadigan dvigatel",
+    "Bug' mashinasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ichki yonuv dvigatelining asosiy qismlari?",
+   "variantlar": [
+    "Faqat g'ildirak",
+    "Silindr, porshen, klapanlar, shatun",
+    "Faqat batareya",
+    "Faqat lampa"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'rt taktli dvigatel nechta taktdan iborat?",
+   "variantlar": [
+    "2",
+    "4",
+    "3",
+    "6"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Birinchi takt?",
+   "variantlar": [
+    "So'rish",
+    "Siqish",
+    "Ish yurishi",
+    "Chiqarish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikkinchi takt?",
+   "variantlar": [
+    "Siqish",
+    "Ish yurishi",
+    "So'rish",
+    "Chiqarish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Uchinchi takt?",
+   "variantlar": [
+    "Chiqarish",
+    "So'rish",
+    "Siqish",
+    "Ish yurishi (yonish va kengayish)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'rtinchi takt?",
+   "variantlar": [
+    "Ish yurishi",
+    "So'rish",
+    "Siqish",
+    "Chiqarish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Benzin dvigatelida yoqilg'i nima bilan alangalanadi?",
+   "variantlar": [
+    "O'z-o'zidan",
+    "Siqish",
+    "Qizigan sim",
+    "Uchqun (shamcha)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dizel dvigatelida yoqilg'i qanday alangalanadi?",
+   "variantlar": [
+    "Siqilgan havoning qizishi natijasida",
+    "Shamcha",
+    "Uchqun",
+    "Yoy"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dvigatelda ish bajaruvchi takt?",
+   "variantlar": [
+    "Ikkinchi",
+    "To'rtinchi",
+    "Birinchi",
+    "Uchinchi takt"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ichki yonuv dvigatelining FIK taxminan?",
+   "variantlar": [
+    "25–40 %",
+    "5 %",
+    "100 %",
+    "90 %"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dizel dvigatel FIK i benzinnikidan?",
+   "variantlar": [
+    "Yuqoriroq",
+    "Aniqlab bo'lmaydi",
+    "Past",
+    "Teng"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yoqilg'i (benzin) va havo aralashmasi qayerda tayyorlanadi?",
+   "variantlar": [
+    "Shovqin so'ndirgichda",
+    "Silindrda faqat",
+    "Bakda",
+    "Karbyuratorda"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Klapan nima uchun kerak?",
+   "variantlar": [
+    "Tovush",
+    "Gaz kiritish/chiqarishni boshqarish",
+    "Yoritish",
+    "Isitish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shatun-krivoship mexanizmi nima qiladi?",
+   "variantlar": [
+    "Tovush",
+    "Porshenning ilgarilanma harakatini aylanma harakatga aylantiradi",
+    "Yorug'lik",
+    "Issiqlik"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Maxovik (mahovik) nima uchun kerak?",
+   "variantlar": [
+    "Yoritish",
+    "Sovutish",
+    "Aylanishni tekis saqlash uchun",
+    "Isitish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dvigatel sovutish tizimi nima uchun?",
+   "variantlar": [
+    "Tovush",
+    "Massa",
+    "Yoritish",
+    "Ortiqcha qizishdan saqlash uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishlagan gazlar qaysi qismdan chiqadi?",
+   "variantlar": [
+    "Chiqarish klapani orqali",
+    "Karbyurator",
+    "So'rish klapani",
+    "Shamcha"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dvigatel ishlashi uchun kislorod nima uchun kerak?",
+   "variantlar": [
+    "Rang",
+    "Massa",
+    "Yoqilg'i yonishi uchun",
+    "Sovutish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ish yurishida gaz qanday holatda?",
+   "variantlar": [
+    "Past bosimda",
+    "Sovuqda",
+    "Vakuumda",
+    "Yuqori bosim va yuqori temperaturada"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Siqish darajasi nima?",
+   "variantlar": [
+    "Bosim",
+    "Massa",
+    "Silindrning to'liq hajmi va siqilgan hajmi nisbati",
+    "Tezlik"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Siqish darajasi ortsa FIK?",
+   "variantlar": [
+    "Ortadi",
+    "Kamayadi",
+    "O'zgarmaydi",
+    "Nol"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun dizelda siqish darajasi benzin dvigatelidan katta?",
+   "variantlar": [
+    "Yengil",
+    "Arzon",
+    "Havo yoqilg'ini alangalatish darajasigacha qizishi kerak",
+    "Rangli"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun benzin dvigatelida siqish darajasi cheklangan?",
+   "variantlar": [
+    "Aralashma o'z-o'zidan portlab (detonatsiya) ketmasligi uchun",
+    "Arzon",
+    "Sovuq",
+    "Yengil"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki taktli dvigatel nima?",
+   "variantlar": [
+    "Reaktiv",
+    "To'rt taktli",
+    "Elektr",
+    "Bir aylanishda ish yurishi bo'ladigan dvigatel"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dvigatel quvvati N = A/t. Bir tsiklda A = 500 J, sekundiga 20 tsikl. N = ?",
+   "variantlar": [
+    "25 Vt",
+    "100 kVt",
+    "10 kVt",
+    "500 Vt"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dvigatel yiliga yoqilg'i sarfi tejalishi uchun nima kerak?",
+   "variantlar": [
+    "FIK ni oshirish",
+    "Massa ortirish",
+    "Rang",
+    "Tovush"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Avtomobil dvigatelining chiqarish gazlari ekologiyaga?",
+   "variantlar": [
+    "Foydali",
+    "Tozalaydi",
+    "Salbiy ta'sir qiladi",
+    "Ta'sir qilmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Katalitik neytralizator nima uchun?",
+   "variantlar": [
+    "Zararli gazlarni kamaytirish",
+    "Tezlik oshirish",
+    "Sovutish",
+    "Yoritish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektromobil ichki yonuv dvigatelidan qaysi jihatdan yaxshi?",
+   "variantlar": [
+    "Og'ir",
+    "Yoqilg'i yonadi",
+    "Zararli gaz chiqarmaydi",
+    "Shovqinli"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

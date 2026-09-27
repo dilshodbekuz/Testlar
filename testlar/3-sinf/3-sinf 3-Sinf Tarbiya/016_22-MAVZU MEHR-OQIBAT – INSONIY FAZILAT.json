@@ -15,11 +15,11 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Aka-uka qanday bilan shug'ullanadi?",
+   "savol": "Aka-uka nima bilan shug'ullanadi?",
    "variantlar": [
     "Baliqchilik",
     "Cho'ponchilik",
-    "Xitoychilik",
+    "Hunarmandchilik",
     "Dehqonchilik"
    ],
    "togri": 3,
@@ -39,7 +39,7 @@
   {
    "savol": "Uka omborxonaga nima uchun borgan?",
    "variantlar": [
-    "Mo'ljallangan ishini bitirish uchun",
+    "Akasining omboriga o'z donidan qo'shib qo'yish uchun",
     "Xotirasini yangilash uchun",
     "Do'stlarini uchratish uchun",
     "Oilasiga pul olish uchun"
@@ -51,7 +51,7 @@
    "savol": "Aka omborxonada nima uchun borgan?",
    "variantlar": [
     "Xotirasini qayta yangilash uchun",
-    "Mo'ljallangan ishini qilish uchun",
+    "Ukasining omboriga o'z donidan qo'shib qo'yish uchun",
     "Donni sanab olish uchun",
     "Uka o'rnida bo'lish uchun"
    ],
@@ -74,7 +74,7 @@
    "variantlar": [
     "Donlarini sanab ko'rdi",
     "Qoziga ketish rejasi qildi",
-    "Xursand bo'lib o'rniga kelib yatdi",
+    "Xursand bo'lib o'rniga kelib yotdi",
     "Uka o'rniga boshqa ishni qildi"
    ],
    "togri": 2,
@@ -149,10 +149,10 @@
   {
    "savol": "Aka nima uchun o'zining donidan ukasining doniga qo'shib berdi?",
    "variantlar": [
-    "Ukasi boyitish uchun",
+    "Ukasini boyitish uchun",
     "Ukasi uylanishi kerak bo'lgani uchun",
-    "Uka karavon ketish uchun",
-    "Uka o'qish uchun"
+    "Ukasi karvon bilan ketishi uchun",
+    "Ukasi o'qishi uchun"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -162,7 +162,7 @@
    "variantlar": [
     "Akasi bozorga borish uchun",
     "Akasi boshqa don sotish uchun",
-    "Akasi yoshlar uchun",
+    "Akasi yosh bo'lgani uchun",
     "Akasining to'rt bolasi bo'lgani uchun"
    ],
    "togri": 3,
@@ -184,7 +184,7 @@
    "variantlar": [
     "Bozor savdogarlarina",
     "Ota-onasiga yaxshi tarbiya berib berganiga",
-    "Qozi o'zining beqabililigiga",
+    "Qozi o'zining adolati uchun",
     "Birinchi donni ko'p bo'lganiga"
    ],
    "togri": 1,
@@ -195,7 +195,7 @@
    "variantlar": [
     "Bir-biriga ranj bo'lish uchun",
     "Bir-biriga mehribonlik ko'rsatish va hayron qilish uchun",
-    "Ota-onaning ko'rmasdan",
+    "Ota-onasidan yashirinib",
     "Qo'shni bilan muammosi bo'lgani uchun"
    ],
    "togri": 1,
@@ -228,8 +228,8 @@
    "variantlar": [
     "Boshida don ko'p bo'lishi kerak deb o'ylab, oxirida oz bo'ldi",
     "Boshida teng bo'lishi kerak deb o'ylab, lekin oxirida ham teng bo'ldi",
-    "Boshida faqat o'z donini o'ylab borgam, oxirida qarindoshlarining holini o'ylab berdi",
-    "Boshida o'ylangan joyida kelmadi, oxirida qoshni keldi"
+    "Boshida faqat o'z donini o'ylagan, oxirida qarindoshining holini o'ylab berdi",
+    "Boshida janjallashdi, oxirida yarashdi"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -249,7 +249,7 @@
    "savol": "Nima uchun qozi aka-ukaning ota-onasiga rahmat aytdi? Ularning nima dars berib tarbiyalagan?",
    "variantlar": [
     "Yaxshi mehr-oqibat va adolat tarbiyasi berib berganlarining uchun",
-    "Ularning bo'lajak tarbiyasi uchun",
+    "Ularning boyligi uchun",
     "Ularning donlari ko'p bo'lgani uchun",
     "Ularning qoziga kelib bilganlarini uchun"
    ],
@@ -257,22 +257,22 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Agar aka-uka bir-biriga donlaridan bermasalar, nima bo'lar edi?",
+   "savol": "Agar aka-uka bir-biriga yordam bermaganida, nima bo'lardi?",
    "variantlar": [
-    "Ularning ota-onasi xursand bo'lardi",
-    "Donlarini teng bo'lib ketardi",
-    "Hech nima bo'lar edi",
-    "Qozi ularni mehrsiz va adolatdan mahrum deb e'lon qilardi"
+    "Ota-onasi xursand bo'lardi",
+    "Mehr-oqibat namunasi ko'rinmasdi",
+    "Donlari ikki barobar ko'payardi",
+    "Qozi ularni mukofotlardi"
    ],
-   "togri": 3,
+   "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
    "savol": "Aka nima uchun \"men oilaliman\" deb aytib o'z donini kamaytirdi?",
    "variantlar": [
-    "O'z qadriga kamaytirish uchun",
-    "Akasi bo'lmadi deb gapirish uchun",
-    "Bozorda o'z qiymatini ko'rsatish uchun",
+    "O'zini kamsitish uchun",
+    "Ukasini xafa qilish uchun",
+    "Bozorda maqtanish uchun",
     "O'z oilasining ehtiyoji bor ekanligi va uka uchun mehr ko'rsatish uchun"
    ],
    "togri": 3,
@@ -281,9 +281,9 @@
   {
    "savol": "Uka nima uchun \"akamning to'rt bolasi bor, men uylanmaganman\" deb gapirgan?",
    "variantlar": [
-    "Uka akasining bolalarini nafratlantirgani uchun",
-    "Uka qozini o'ylab turgan uchun",
-    "Uka o'z qadriga bo'yni loyib bo'ldi",
+    "Akasining bolalarini yoqtirmagani uchun",
+    "Qozini o'ylagani uchun",
+    "O'zini maqtash uchun",
     "Uka akasining ehtiyojini ko'rdi va akasiga mehr ko'rsatish uchun"
    ],
    "togri": 3,

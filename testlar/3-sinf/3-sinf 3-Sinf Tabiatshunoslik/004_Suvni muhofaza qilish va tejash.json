@@ -8,7 +8,7 @@
    "variantlar": [
     "issiq",
     "ifloslangan",
-    "sorin",
+    "sho'r",
     "tiniq va toza"
    ],
    "togri": 3,
@@ -29,9 +29,9 @@
    "savol": "Vodoprovod suvi nima bilan tozalangan?",
    "variantlar": [
     "zararli mikroblardan",
-    "qum",
-    "masel",
-    "kemiya"
+    "qumdan",
+    "tuzdan",
+    "yog'dan"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -51,7 +51,7 @@
    "savol": "Ifloslangan suvni qaynatmasdan ichsa bo'ladimi?",
    "variantlar": [
     "faqat sovuq ichsa bo'ladi",
-    "emas, uni tindirish kerak",
+    "ha, agar sovuq bo'lsa",
     "yo'q, ichmasligi kerak",
     "ha, xavfsiz"
    ],
@@ -59,9 +59,9 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Daryo suvi qayerniga quyilsa, ular ham ifloslana aladi?",
+   "savol": "Daryo suvi qayerga quyilsa, u yerlar ham ifloslanadi?",
    "variantlar": [
-    "o'tka",
+    "osmonga",
     "tog'larga",
     "dengiz va ko'lga",
     "yer ostiga"
@@ -74,7 +74,7 @@
    "variantlar": [
     "sovuq suvlar",
     "oqava suvlar",
-    "marosim suvlari",
+    "yomg'ir suvlari",
     "toza suvlar"
    ],
    "togri": 1,
@@ -84,7 +84,7 @@
    "savol": "Suvni muhofaza qilish uchun birinchi navbatda nima qilish kerak?",
    "variantlar": [
     "suvni filtr qilish",
-    "suvga chiqindi tashlamamaligi",
+    "suvga chiqindi tashlamaslik",
     "suvni tejash",
     "suvni qaynatish"
    ],
@@ -92,12 +92,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Vodoprovod jomrasidan suv oqib turgan bo'lsa, nima qilish kerak?",
+   "savol": "Vodoprovod jo'mragidan suv behuda oqib turgan bo'lsa, nima qilish kerak?",
    "variantlar": [
-    "jomra burilishi kerak",
+    "jo'mrakni burab yopish kerak",
     "hech nima",
     "suv oqishi normal",
-    "suv so'zicha qoldirilishi kerak"
+    "suvni oqizib qo'yish kerak"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -108,7 +108,7 @@
     "faqat o'qituvchi",
     "har birimizning",
     "faqat hokimiyat",
-    "faqat viloyat"
+    "faqat viloyatning"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -119,7 +119,7 @@
     "suv issiq",
     "suv achchiq",
     "ko'p kishining mehnati behuda ketadi",
-    "suv yuqori"
+    "suv sovuq"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -127,10 +127,10 @@
   {
    "savol": "Suvning ifloslanishining oldini olish uchun odamlar nima qilmasligi kerak?",
    "variantlar": [
-    "suvga chiqindi tashlamamaligi",
+    "suvga chiqindi tashlamasligi",
     "suv ichmasligi",
     "suvda yuzmasligi",
-    "suvni tejamesligi"
+    "suvni tejamasligi"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -152,7 +152,7 @@
     "ha, butunlay",
     "faqat qismi",
     "yo'q, hali ham xavfli",
-    "bilmas"
+    "bilmayman"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -174,7 +174,7 @@
     "foydali",
     "hech narsa emas",
     "zarar beradi",
-    "tabiatiy"
+    "tabiiy"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -193,7 +193,7 @@
   {
    "savol": "Tog'dagi toza suv nega pastga borgan sari ifloslanadi?",
    "variantlar": [
-    "isigadi",
+    "isiydi",
     "bug'lanadi",
     "muzlab ketadi",
     "chiqindilarga uchraydi"
@@ -213,12 +213,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Vodoprovod suvini behudaga oqib qoldiring degan nima uchun xato?",
+   "savol": "Vodoprovod suvini behuda oqizish nima uchun noto'g'ri?",
    "variantlar": [
     "suv arzon",
     "ko'p mehnati behuda ketadi",
     "jomra buziladi",
-    "suv bilan kasallik yoziladi"
+    "suv bilan kasallik yuqadi"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -249,9 +249,9 @@
    "savol": "Tog'dagi toza suv pastga borgan sari ifloslanishi nima uchun muhim muammo?",
    "variantlar": [
     "bu muhim emas",
-    "suv sarf chiqadi",
-    "suv jimiydi",
-    "iflos suv barchasini ifloslaydi"
+    "suv qimmatlashadi",
+    "suv sovuydi",
+    "iflos suv hamma joyni ifloslaydi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -261,7 +261,7 @@
    "variantlar": [
     "faqat pul yo'qoladi",
     "iflos, tejashsizlik, kasalliklar",
-    "faqat suv yuqori",
+    "faqat suv qimmatlashadi",
     "hech narsa"
    ],
    "togri": 1,
@@ -272,7 +272,7 @@
    "variantlar": [
     "suv toza bo'ladi",
     "suv ko'payadi",
-    "suv yanada ifloslandi",
+    "suv yanada ifloslanadi",
     "xavfli mikroblar kamayadi"
    ],
    "togri": 3,
@@ -301,10 +301,10 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Korxonalar suvni to'g'ri oqava qilmaganda, nima oqibat bo'ladi?",
+   "savol": "Korxonalar oqava suvlarni tozalamasa, qanday oqibat bo'ladi?",
    "variantlar": [
     "faqat pul",
-    "daryo, dengiz, ko'l, odamlar ifloslandi",
+    "daryo, dengiz, ko'llar va odamlar zararlanadi",
     "faqat korxona zarar",
     "hech narsa"
    ],

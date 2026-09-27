@@ -6,10 +6,10 @@
   {
    "savol": "Maktab gulzorida qaysi gullar o'stiriladi?",
    "variantlar": [
-    "Chinnigul va rayhon",
+    "Terak va chinor",
     "Chinnigul, qo'qongul, rayhon, shoyigul va atirgul",
     "Faqat atirgul",
-    "Qo'qongul va shoyigul"
+    "Ligustrum va tuya"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -92,21 +92,21 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Tayanch so'zlardan 'marmarak' nimaning noma'lum nomi?",
+   "savol": "Quyidagilardan qaysi biri gul?",
    "variantlar": [
-    "Gulbeor",
-    "Nargis",
-    "Tuya",
-    "Rayhon"
+    "Terak",
+    "Chinnigul",
+    "Tol",
+    "Eman"
    ],
    "togri": 1,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Erta bahordan gulzordagi gullar qanday ko'proq turiladi?",
+   "savol": "Erta bahordan gulzordagi gullar qanday parvarish qilinadi?",
    "variantlar": [
     "Hech qanday ish qilinmaydi",
-    "Yalniz yumshatilib turiladi",
+    "Faqat kesib tashlanadi",
     "Faqat sug'oriladi",
     "Vaqti-vaqti bilan tagi yumshatilib sug'orib turiladi"
    ],
@@ -125,32 +125,32 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Atirgul o'sishining qaysi bosqichida poyalarga aylanadi?",
+   "savol": "Atirgulning novdalari kuzda nima uchun kesiladi?",
    "variantlar": [
-    "Bargi o'sib chiqish bosqichida",
-    "Barg chiqishi bosqichida",
-    "Sezilib borish bosqichida",
-    "G'uncha shakllanishi bosqichida"
+    "Gullari tez so'lishi uchun",
+    "Bahorda yangi novda va barglar yaxshi o'sishi uchun",
+    "O'simlikni quritish uchun",
+    "Ildizini ko'paytirmaslik uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Poyalardan yangi novdalar ko'karganda, barglar bilan birga nima paydo bo'ladi?",
+   "variantlar": [
+    "G'unchalar",
+    "Mevalar",
+    "Ildizlar",
+    "Urug'lar"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Poyalardan yangi nima o'sib novdalar ko'karadigan ekanligini ko'rsatadi?",
-   "variantlar": [
-    "Barglar bilan birga g'unchalar",
-    "Faqat g'uncha",
-    "Meva",
-    "Barg"
-   ],
-   "togri": 0,
-   "qiyinlik": "o'rtacha"
-  },
-  {
-   "savol": "Begona o'simliklar gulzorda qanday bilan harakat qilinadi?",
+   "savol": "Gulzorda begona o'simliklar bilan nima qilinadi?",
    "variantlar": [
     "Sug'orib turiladi",
-    "O'sib chiqadi va yulib tashlanadi",
+    "Yulib tashlanadi",
     "Shunchaki kesiladi",
     "Yaxshi qo'llab-quvvatlanadi"
    ],
@@ -213,7 +213,7 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Gulzordagi gul parvarishi necha'dan bahordan boshlanadi?",
+   "savol": "Gulzordagi gullar parvarishi qachondan boshlanadi?",
    "variantlar": [
     "Erta bahordan vaqti-vaqti bilan",
     "Yanvar oyidan",
@@ -250,7 +250,7 @@
    "variantlar": [
     "Begona o'simliklarni yulib tashlash uchun",
     "Faqat vaqtni o'ldirish uchun",
-    "Toza, surg'un va yaxshi o'sishi uchun sharoit yaratish",
+    "Gullar yaxshi o'sishi uchun sharoit yaratish",
     "Gullar bilan o'ynamoq uchun"
    ],
    "togri": 2,
@@ -295,7 +295,7 @@
     "Faqat atirgul sug'oriladi",
     "Barcha gullarning tagi birga yumshatilib sug'orib turiladi",
     "Har bir gul alohida sug'oriladi",
-    "Hech kimse qilmaydi"
+    "Hech kim parvarish qilmaydi"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -314,7 +314,7 @@
   {
    "savol": "Gulzordagi gul parvarishi uchun qanday to'plam amaliyotlar zarur bo'ladi?",
    "variantlar": [
-    "Faqat xush hid shumarish",
+    "Faqat gullarni hidlash",
     "Faqat ko'rish",
     "Yumshatilib sug'orib turish, begona o'simliklarni yulib tashlash, vaqti-vaqti bilan nazorat qilish",
     "Hech qanday ish kerak emas"

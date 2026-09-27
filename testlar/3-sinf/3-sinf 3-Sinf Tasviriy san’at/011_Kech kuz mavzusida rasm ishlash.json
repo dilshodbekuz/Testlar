@@ -26,14 +26,14 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Darslikda nomlanib ko'rsatilgan rassomlarning soni nechta?",
+   "savol": "Kuz manzarasida qaysi ranglar ko'p ishlatiladi?",
    "variantlar": [
-    "2 ta",
-    "3 ta",
-    "5 ta yoki undan ko'p",
-    "4 ta"
+    "Oq va ko'k",
+    "Sariq, zarg'aldoq, qizil",
+    "Qora va kulrang",
+    "Pushti va binafsha"
    ],
-   "togri": 2,
+   "togri": 1,
    "qiyinlik": "oson"
   },
   {
@@ -42,7 +42,7 @@
     "Guash yoki akvareli",
     "Tinter va plastik",
     "Faqat qalam",
-    "Murzak va qalam"
+    "Faqat ko'mir"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -72,7 +72,7 @@
   {
    "savol": "Matning boshida qaysi sharoitda kuz manzarasi tasvirlangan?",
    "variantlar": [
-    "Shiddat shamolida",
+    "Kuchli shamolda",
     "Quyoshli, ochiq havodada",
     "Yomg'irli kun",
     "Tungi vaqt"
@@ -86,7 +86,7 @@
     "Odam va turmush",
     "Tabiat manzarasi va kuz",
     "Binolar va yo'llar",
-    "Shahar va yolov"
+    "Shahar va yo'llar"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -96,7 +96,7 @@
    "variantlar": [
     "Umuman aks ettirmagan",
     "Maroq bilan va go'zalligini aks ettirib",
-    "Befarqligini bilan",
+    "Befarqlik bilan",
     "Tez-tez rasm ishlashganlar"
    ],
    "togri": 1,
@@ -141,7 +141,7 @@
     "Tog'li tabiat",
     "Tropik tabiat",
     "Shimaliy tabiat",
-    "O'zbek xalqining ko'rgan kuzgi tabiat"
+    "O'zbekistonning kuzgi tabiatini"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -171,10 +171,10 @@
   {
    "savol": "Guash yoki akvarelda bo'yashning boshlang'ich bosqichida qaysi ranglardan foydalanish kerak?",
    "variantlar": [
-    "Tarkibiy ranglar",
-    "Faqat tunda ranglar",
+    "Faqat to'q ranglardan",
+    "Faqat qora rangdan",
     "Faqat qora ranglar",
-    "Yengil ranglar"
+    "Och ranglardan"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -182,10 +182,10 @@
   {
    "savol": "Rassomlar kuzga oid asarlarini yaratishda qaysi fasldan ilhom olganlar?",
    "variantlar": [
-    "Kuzgi bop",
-    "Qishki bop",
-    "Yozgi bop",
-    "Bahori bop"
+    "Kuzdan",
+    "Qishdan",
+    "Yozdan",
+    "Bahordan"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -217,7 +217,7 @@
    "variantlar": [
     "Pul topish maqsadidan",
     "Darslikda shunday yozilgani uchun",
-    "Faqat bahorast",
+    "Faqat bahorda bo'lgani uchun",
     "Kuzning tabiatdagi o'ziga xos rol va chiroyli ko'rinishidan"
    ],
    "togri": 3,
@@ -246,7 +246,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Kuzgi ko'rinishni to'g'ri aks ettirish uchun rassomlar qaysi noaniqliklarni kuzatishlari kerak?",
+   "savol": "Kuzgi ko'rinishni to'g'ri aks ettirish uchun rassomlar nimalarni kuzatishlari kerak?",
    "variantlar": [
     "Bulut va shamol",
     "Hech nima",
@@ -259,7 +259,7 @@
   {
    "savol": "«Yomg'irli kun» mavzusida rasm ishlashda «Kech kuz» mavzusidan qaysi farqlari bo'ladi?",
    "variantlar": [
-    "Rasmni qaragim qilish kerak",
+    "Rasmni qorong'i qilish kerak",
     "Hech qanday farq yo'q",
     "Rang, bulut tarkibi, yorug'lik o'zgaradi",
     "Faqat sarlavha farq"
@@ -279,7 +279,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Darslikda ko'rsatilgan 1, 2, 3, 4 bosqichlarni takip qilish nima uchun muhim?",
+   "savol": "Darslikda ko'rsatilgan 1, 2, 3, 4 bosqichlarga rioya qilish nima uchun muhim?",
    "variantlar": [
     "Faqat sinfda qilish uchun",
     "Bosqichlar muhim emas",
@@ -303,7 +303,7 @@
   {
    "savol": "Kuzga oid rasmlarni tahlil qilganda rassomlarning qaysi ko'nikmalarini anglasa olamiz?",
    "variantlar": [
-    "Faqat siyoh chizishni",
+    "Faqat siyoh bilan chizishni",
     "Hisobiy bilimni",
     "Faqat portret chizishni",
     "Rangli va yorug'lik boshqaruvini, natural manzarani ifodalashni"

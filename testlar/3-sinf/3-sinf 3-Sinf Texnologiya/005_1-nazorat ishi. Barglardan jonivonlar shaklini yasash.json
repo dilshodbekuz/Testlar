@@ -4,22 +4,22 @@
  "mavzu": "1-nazorat ishi. Barglardan jonivonlar shaklini yasash",
  "savollar": [
   {
-   "savol": "Barglardan jonivonlar shaklini yasashda qaysi bargli ishlatiladi?",
+   "savol": "Barglardan jonivorlar shaklini yasashda qanday barglar ishlatiladi?",
    "variantlar": [
     "Tepa barglar",
-    "Qurib ketgan barglar",
-    "Yangi va rangli barglar",
+    "Chirigan barglar",
+    "Quritilgan (presslangan) rang-barang barglar",
     "Buzilgan barglar"
    ],
    "togri": 2,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Barglarni bir-biriga birlashtirish uchun qanday moddasi kerak?",
+   "savol": "Barglarni qog'ozga yopishtirish uchun nima kerak?",
    "variantlar": [
-    "Rasm",
+    "Bo'yoq",
     "Yog'",
-    "Teriyak yoki yassi",
+    "Yelim",
     "Suv"
    ],
    "togri": 2,
@@ -29,22 +29,22 @@
    "savol": "Barglardan yasashda hayvan ko'zlari uchun nima ishlatiladi?",
    "variantlar": [
     "Sim",
-    "Qo'ziqoq yoki tugma",
-    "O'qotar",
+    "Kichik tugma yoki urug'",
+    "Mix",
     "O'xshash barglar"
    ],
    "togri": 1,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Barglardan jonivonlar yasashda eng ko'p qaysi hayvon yasalinadi?",
+   "savol": "Barglardan jonivor yasash qaysi usulga kiradi?",
    "variantlar": [
-    "Sher",
-    "Baliq",
-    "Pil",
-    "Qush"
+    "Applikatsiya",
+    "Kashtachilik",
+    "To'qish",
+    "Kulolchilik"
    ],
-   "togri": 1,
+   "togri": 0,
    "qiyinlik": "oson"
   },
   {
@@ -53,7 +53,7 @@
     "Quritish",
     "Rangini o'zgartirish",
     "Kesish",
-    "Kukllamasi"
+    "Bo'yash"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -74,19 +74,19 @@
    "variantlar": [
     "Qaychi",
     "Hisob-kitob daftari",
-    "Dasmali",
-    "Sho'li"
+    "Yelim",
+    "Qalam"
    ],
    "togri": 1,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Barglardan jonivonlar yasashda jelvakni tayyorlash uchun nima kerak?",
+   "savol": "Barglardan jonivor yasash uchun nimalar kerak?",
    "variantlar": [
     "Faqat barglar",
-    "Faqat qo'ziqoq",
-    "Faqat yassi",
-    "Barglar va yassi"
+    "Faqat qalam",
+    "Faqat suv",
+    "Barglar, qog'oz va yelim"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -103,25 +103,25 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Barglardan hayvan shaklini yasashda eng muhim qism qaysi?",
+   "savol": "Barglarni qog'ozga yopishtirgandan keyin nima qilish kerak?",
    "variantlar": [
-    "Vujudi",
-    "Qanotlar",
-    "Dumasi",
-    "Oyoqlari"
+    "Darhol suvga solish",
+    "Ustiga og'ir narsa qo'yib, quritish",
+    "Qaychida kesib tashlash",
+    "Quyoshda kuydirish"
    ],
-   "togri": 2,
+   "togri": 1,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Agar barglar qurib ketgan bo'lsa, ularni qanday qayta ishlash kerak?",
+   "savol": "Barglarni tekis quritish uchun nima qilinadi?",
    "variantlar": [
-    "Darhol kesish",
-    "Ranglashtirish",
-    "Suv ichiga solishtirish",
-    "O'rtasida kesish"
+    "Kitob orasiga qo'yib presslanadi",
+    "Suvga solinadi",
+    "Olovda qizdiriladi",
+    "G'ijimlanadi"
    ],
-   "togri": 2,
+   "togri": 0,
    "qiyinlik": "o'rtacha"
   },
   {
@@ -138,23 +138,23 @@
   {
    "savol": "Barglardan yasashda rang berish uchun nima ishlatish mumkin?",
    "variantlar": [
-    "Rang va teriyak",
+    "Guash yoki akvarel bo'yoq",
     "Yog'",
     "Faqat suv",
-    "Qog'oz"
+    "Tuz"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Barglardan yasashda qaysi hayvonning dumasi eng uzun bo'ladi?",
+   "savol": "Barglarni qirqish uchun qaysi asbob kerak?",
    "variantlar": [
-    "Qush",
-    "Baliq",
-    "Chigirtka",
-    "Pashsha"
+    "Bolg'a",
+    "Qaychi",
+    "Arra",
+    "Ombir"
    ],
-   "togri": 2,
+   "togri": 1,
    "qiyinlik": "o'rtacha"
   },
   {
@@ -185,7 +185,7 @@
     "Uchburchak",
     "Dumaloq",
     "To'g'ri chiziq",
-    "Ushshapilon"
+    "Kvadrat"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -213,11 +213,11 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Barglardan yasashda jelvakni mustahkam qilish uchun qanday usul kerak?",
+   "savol": "Barglardan yasalgan ishni mustahkam qilish uchun nima qilinadi?",
    "variantlar": [
     "Uzoq vaqt quritish",
     "Quyosh ostida qo'yish",
-    "Teriyak yoki yassi bilan birlashtirish",
+    "Yelim bilan yaxshilab yopishtirish",
     "Suv ichiga solishtirish"
    ],
    "togri": 2,
@@ -238,7 +238,7 @@
    "savol": "Barglardan yasashda bir necha hayvonlarni birlashtirgan kompozitsiya yaratish uchun qanday tartibni bajara olish kerak?",
    "variantlar": [
     "Hech qanday tartib shart emas",
-    "Xo'jalik tartibida",
+    "Tasodifiy tartibda",
     "Rang va shakli muvofiqlik bo'lishi",
     "Maydonning markazsiga qo'yish"
    ],
@@ -270,9 +270,9 @@
   {
    "savol": "Barglardan yasashda tabiatiy rang bilan rang berilgan materialni birlashtirish uchun qanday o'ylash kerak?",
    "variantlar": [
-    "Bargli barglar tanlamay bo'lmaydi",
+    "Faqat bir xil rangli barg olish kerak",
     "Rang qanchalik chiroyli bo'lsa shuncha yaxshi",
-    "Rang rangga mos bo'lishi kerak",
+    "Ranglar bir-biriga mos bo'lishi kerak",
     "Tabiatiy rangdan foydalanish kerak"
    ],
    "togri": 2,
@@ -282,7 +282,7 @@
    "savol": "Barglardan yasashda yaratilgan jelvakni qanday muhofaza qilish mumkin?",
    "variantlar": [
     "Kunning issiq joyida qo'yish",
-    "Yumshoq joyda qutida saqlash",
+    "Qutida, quruq joyda saqlash",
     "Qaychi bilan kesib yuborish",
     "Suv ichida qo'yish"
    ],
@@ -290,12 +290,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Barglardan yasashda uch o'lchamdagi barglarni qanday birlashtirish orqali tabiiy ko'rinish yaratish mumkin?",
+   "savol": "Barglardan tangachalar yasashda barglar qanday joylashtiriladi?",
    "variantlar": [
-    "Kichikdan kattaga tartibi bilan",
-    "Chaotik ravishda",
-    "Hech qanday tartibsiz bo'ladi",
-    "Kattadan kichikga tartibi bilan"
+    "Kattaligiga qarab tartib bilan",
+    "Tartibsiz",
+    "Hammasini bir joyga",
+    "Faqat bitta barg"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -305,16 +305,16 @@
    "variantlar": [
     "Faqat rang va shakl",
     "Barglar orqali hayvonlarni o'rganish",
-    "Abjektivi yo'q",
+    "Faqat hisob-kitob",
     "San'at va tabiat alohida"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Barglardan yasashda qanday hayvonning shaklini yaratishda eng ko'p creative fikrlash kerak?",
+   "savol": "Barglardan qaysi hayvon shaklini yaratishda eng ko'p ijodiy fikrlash kerak?",
    "variantlar": [
-    "Turmush hayvonlari",
+    "Uy hayvonlari",
     "Baliq",
     "Pashsha",
     "Fantastik hayvonlar"
@@ -326,8 +326,8 @@
    "savol": "Barglardan yasashda o'simlik va hayvon orasidagi munosabatni ko'rib berish uchun qanday jarayon kerak?",
    "variantlar": [
     "Faqat o'lcham",
-    "Barglar va hayvonlarning shakli shunga asoslanadi",
-    "Rang istiqomati",
+    "Barglar shaklidan foydalanib, hayvon tasvirini yaratish",
+    "Faqat rang",
     "Hech qanday jarayon kerak emas"
    ],
    "togri": 1,

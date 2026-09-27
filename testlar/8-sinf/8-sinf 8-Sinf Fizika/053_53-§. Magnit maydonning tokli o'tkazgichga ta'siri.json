@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "53-§. Magnit maydonning tokli o'tkazgichga ta'siri",
+ "savollar": [
+  {
+   "savol": "Magnit maydon tokli o'tkazgichga qanday ta'sir qiladi?",
+   "variantlar": [
+    "Kuch bilan (Amper kuchi)",
+    "Sovutadi",
+    "Isitadi",
+    "Hech qanday"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Amper kuchi formulasi?",
+   "variantlar": [
+    "F = B·I·l·sin α",
+    "F = B + I + l",
+    "F = B/Il",
+    "F = Il/B"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Amper kuchi yo'nalishi qanday aniqlanadi?",
+   "variantlar": [
+    "Chap qo'l qoidasi",
+    "Kulon",
+    "O'ng qo'l qoidasi",
+    "Om qonuni"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Amper kuchi birligi?",
+   "variantlar": [
+    "Vebber",
+    "Nyuton",
+    "Tesla",
+    "Amper"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chap qo'l qoidasida to'rt barmoq nimani ko'rsatadi?",
+   "variantlar": [
+    "B ni",
+    "Vaqtni",
+    "Tok yo'nalishini",
+    "Kuchni"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chap qo'l qoidasida bosh barmoq nimani ko'rsatadi?",
+   "variantlar": [
+    "B ni",
+    "Amper kuchi yo'nalishini",
+    "Massani",
+    "Tokni"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chap qo'l qoidasida kuch chiziqlari kafta qanday kiradi?",
+   "variantlar": [
+    "Kaftga kiradi",
+    "Kaftdan chiqadi",
+    "Kiradi emas",
+    "Yon tomonlama"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kuch tok kuchiga qanday bog'liq?",
+   "variantlar": [
+    "To'g'ri proporsional",
+    "Teskari proporsional",
+    "Bog'liq emas",
+    "Kvadratik"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kuch o'tkazgich uzunligiga qanday bog'liq?",
+   "variantlar": [
+    "Kvadratik",
+    "Teskari proporsional",
+    "Bog'liq emas",
+    "To'g'ri proporsional"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kuch B ga qanday bog'liq?",
+   "variantlar": [
+    "Kvadratik",
+    "To'g'ri proporsional",
+    "Teskari proporsional",
+    "Bog'liq emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "B = 0,5 T, I = 2 A, l = 0,4 m, α = 90°. F = ?",
+   "variantlar": [
+    "0,2 N",
+    "4 N",
+    "0,04 N",
+    "0,4 N"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "B = 2 T, I = 5 A, l = 0,1 m, α = 90°. F = ?",
+   "variantlar": [
+    "0,1 N",
+    "10 N",
+    "100 N",
+    "1 N"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "F = 1,2 N, I = 3 A, l = 0,5 m, α = 90°. B = ?",
+   "variantlar": [
+    "2,25 T",
+    "0,8 T",
+    "0,18 T",
+    "1,25 T"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "F = 0,6 N, B = 0,3 T, l = 0,5 m, α = 90°. I = ?",
+   "variantlar": [
+    "0,25 A",
+    "0,09 A",
+    "4 A",
+    "1 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tok B ga parallel bo'lsa, Amper kuchi?",
+   "variantlar": [
+    "BIl",
+    "Nolga teng",
+    "Eng katta",
+    "Cheksiz"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tok B ga perpendikulyar bo'lsa, Amper kuchi?",
+   "variantlar": [
+    "BIl/2",
+    "Eng katta (BIl)",
+    "Nol",
+    "Cheksiz"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "α = 30° bo'lsa, F = BIl sin 30° = ? (B = 1 T, I = 2 A, l = 1 m)",
+   "variantlar": [
+    "1 N",
+    "4 N",
+    "0,5 N",
+    "2 N"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tok yo'nalishi o'zgarsa Amper kuchi yo'nalishi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Aylanadi",
+    "Teskari bo'ladi",
+    "Nol"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "B yo'nalishi o'zgarsa Amper kuchi yo'nalishi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Aylanadi",
+    "Nol",
+    "Teskari bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkalasi (I va B) ham teskarilansa kuch yo'nalishi?",
+   "variantlar": [
+    "Teskari",
+    "O'zgarmaydi",
+    "Aylanadi",
+    "Nol"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Simning massasi 20 g, uzunligi 0,5 m, B = 0,2 T. Sim havoda muallaq turishi uchun tok (mg = BIl, g = 10)?",
+   "variantlar": [
+    "1 A",
+    "0,4 A",
+    "2 A",
+    "20 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "B = 0,1 T, l = 0,2 m, I = 10 A, α = 90°. F = ?",
+   "variantlar": [
+    "0,02 N",
+    "20 N",
+    "2 N",
+    "0,2 N"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sim uzunligi 2 marta ortsa (I, B o'zgarmas), F?",
+   "variantlar": [
+    "2 marta kamayadi",
+    "2 marta ortadi",
+    "4 marta ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tok 3 marta, B 2 marta ortsa F necha marta ortadi?",
+   "variantlar": [
+    "9",
+    "6",
+    "5",
+    "3"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Amper kuchi ta'sirida o'tkazgich ko'chsa, magnit maydon nima qiladi?",
+   "variantlar": [
+    "Energiya yo'qotadi",
+    "Hech narsa",
+    "Ish bajarmaydi",
+    "Ish bajaradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektr dvigatel qaysi kuchga asoslangan?",
+   "variantlar": [
+    "Kulon kuchi",
+    "Amper kuchi",
+    "Ishqalanish",
+    "Og'irlik"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tokli ramka magnit maydonda nima bo'ladi?",
+   "variantlar": [
+    "Tinch turadi",
+    "Yonadi",
+    "Buraladi (aylanma harakat)",
+    "Erib ketadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ampermetr (magnitoelektrik) qaysi kuchga asoslangan?",
+   "variantlar": [
+    "Nyuton",
+    "Kulon",
+    "Arximed",
+    "Amper kuchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Amper kuchi B ga nisbatan tok burchagiga (α) qanday bog'liq?",
+   "variantlar": [
+    "cos α ga",
+    "Bog'liq emas",
+    "α ga",
+    "sin α ga proporsional"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "F = 0,04 N, B = 0,2 T, I = 1 A, l = 0,4 m. Bu holatda burchak α? (sin α = F/(BIl))",
+   "variantlar": [
+    "0°",
+    "30°",
+    "60°",
+    "90°"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

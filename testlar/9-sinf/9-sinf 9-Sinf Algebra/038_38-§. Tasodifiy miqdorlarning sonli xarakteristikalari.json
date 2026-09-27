@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Algebra",
+ "mavzu": "38-§. Tasodifiy miqdorlarning sonli xarakteristikalari",
+ "savollar": [
+  {
+   "savol": "Matematik kutilma (o'rta qiymat) formulasi?",
+   "variantlar": [
+    "M(X) = x₁ + x₂ + ...",
+    "M(X) = x₁ · x₂",
+    "M(X) = p₁ + p₂",
+    "M(X) = x₁p₁ + x₂p₂ + ... + xₙpₙ"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "M(X) nima?",
+   "variantlar": [
+    "Tasodifiy miqdorning o'rtacha qiymati",
+    "Eng katta qiymati",
+    "Eng kichik qiymati",
+    "Ehtimoli"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dispersiya nima?",
+   "variantlar": [
+    "Moda",
+    "Mediana",
+    "Qiymatlarning o'rtachadan chetlanish o'lchovi",
+    "O'rtacha qiymat"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dispersiya formulasi?",
+   "variantlar": [
+    "D(X) = M(X²) + (M(X))²",
+    "D(X) = M(X²) − (M(X))²",
+    "D(X) = X²",
+    "D(X) = M(X)"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'rtacha kvadratik chetlanish?",
+   "variantlar": [
+    "σ = √D(X)",
+    "σ = D(X)²",
+    "σ = M(X)",
+    "σ = 1/D"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "X = 5 (doimiy) bo'lsa M(X) = ?",
+   "variantlar": [
+    "25",
+    "5",
+    "1",
+    "0"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "X = 5 (doimiy) bo'lsa D(X) = ?",
+   "variantlar": [
+    "0",
+    "25",
+    "1",
+    "5"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "X: 1, 2 ; P: 0,5; 0,5. M(X) = ?",
+   "variantlar": [
+    "1",
+    "2",
+    "1,5",
+    "3"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "X: 0, 10 ; P: 0,5; 0,5. M(X) = ?",
+   "variantlar": [
+    "0",
+    "5",
+    "10",
+    "2,5"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dispersiya manfiy bo'lishi mumkinmi?",
+   "variantlar": [
+    "Ba'zan",
+    "Ha",
+    "Yo'q",
+    "Doim"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "X: 1, 2, 3 ; P: 0,2; 0,5; 0,3. M(X) = ?",
+   "variantlar": [
+    "1,9",
+    "2,3",
+    "2",
+    "2,1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "X: 0, 1 ; P: 0,4; 0,6. M(X) = ?",
+   "variantlar": [
+    "1",
+    "0,5",
+    "0,6",
+    "0,4"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kubik tashlanganda M(X) = ?",
+   "variantlar": [
+    "4",
+    "6",
+    "3",
+    "3,5"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tanga (gerb 1, raqam 0). M(X) = ?",
+   "variantlar": [
+    "0,5",
+    "1",
+    "0",
+    "0,25"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "X: 2, 4 ; P: 0,5; 0,5. M(X) = ?",
+   "variantlar": [
+    "2",
+    "3",
+    "6",
+    "4"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "X: 2, 4 ; P: 0,5; 0,5. M(X²) = ?",
+   "variantlar": [
+    "10",
+    "9",
+    "8",
+    "20"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "X: 2, 4 ; P: 0,5; 0,5. D(X) = ?",
+   "variantlar": [
+    "10",
+    "1",
+    "9",
+    "3"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "X: 2, 4 ; P: 0,5; 0,5. σ = ?",
+   "variantlar": [
+    "0,5",
+    "2",
+    "1",
+    "3"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "X: 0, 2 ; P: 0,5; 0,5. D(X) = ?",
+   "variantlar": [
+    "0,5",
+    "2",
+    "4",
+    "1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "M(X) = 3, M(X²) = 11. D(X) = ?",
+   "variantlar": [
+    "14",
+    "2",
+    "5",
+    "8"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "X: −1, 1 ; P: 0,5; 0,5. M(X) = ?",
+   "variantlar": [
+    "1",
+    "−1",
+    "0,5",
+    "0"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "X: −1, 1 ; P: 0,5; 0,5. D(X) = ?",
+   "variantlar": [
+    "2",
+    "0",
+    "1",
+    "0,5"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "X: 1, 2, 3 ; P: 1/3, 1/3, 1/3. M(X) = ?",
+   "variantlar": [
+    "2",
+    "6",
+    "3",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "X: 1, 2, 3 ; P: 1/3, 1/3, 1/3. D(X) = ?",
+   "variantlar": [
+    "1",
+    "1/3",
+    "2/3",
+    "2"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kubik: M(X²) = 91/6. D(X) = ? (M = 3,5)",
+   "variantlar": [
+    "12,25",
+    "35/12",
+    "91/6",
+    "3,5"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Y = 2X + 1 bo'lsa M(Y) = ? (M(X) = 3)",
+   "variantlar": [
+    "3",
+    "7",
+    "6",
+    "5"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Y = 2X + 1 bo'lsa D(Y) = ? (D(X) = 3)",
+   "variantlar": [
+    "12",
+    "7",
+    "6",
+    "3"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Y = X + 5 bo'lsa D(Y) = ? (D(X) = 4)",
+   "variantlar": [
+    "4",
+    "20",
+    "5",
+    "9"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "X: 10, 20, 30 ; P: 0,3; 0,4; 0,3. M(X) = ?",
+   "variantlar": [
+    "20",
+    "21",
+    "60",
+    "18"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita bir xil sinovda X ning M(X) = 4. M(X₁ + X₂) = ?",
+   "variantlar": [
+    "4",
+    "2",
+    "16",
+    "8"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

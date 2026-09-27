@@ -6,10 +6,10 @@
   {
    "savol": "Natyurmort deb nimani ataydi?",
    "variantlar": [
-    "Tutash, joylashtirilib qo'yilgan narsalarning rasmi",
+    "Bir joyga qo'yilgan jonsiz narsalar tasviri",
     "Bitta narsaning rasmi",
     "Manzaraning rasmi",
-    "Odamning porttreti"
+    "Odamning portreti"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -52,7 +52,7 @@
    "variantlar": [
     "Faqat rangini ko'rish",
     "Diqqat bilan kuzatish",
-    "Tez-tez qarama-qarshi tilish",
+    "Tez-tez yuzini burish",
     "Faqat shaklini bilish"
    ],
    "togri": 1,
@@ -99,7 +99,7 @@
     "To'rtinchi bosqichda",
     "Birinchi bosqichda"
    ],
-   "togri": 1,
+   "togri": 0,
    "qiyinlik": "oson"
   },
   {
@@ -117,8 +117,8 @@
    "savol": "Olma va ko'zaning o'lchamlari haqida ma'lumot berilgan sababning maqsadi nima?",
    "variantlar": [
     "Narsalarning to'g'ri nisbatlarini saqlash uchun",
-    "Tahlil o'rganishi uchun",
-    "Shunchaki tanashuv uchun",
+    "Tahlil o'rganish uchun",
+    "Shunchaki tanishish uchun",
     "Vaqt sarflash uchun"
    ],
    "togri": 0,
@@ -141,7 +141,7 @@
     "Narsalarning 3D hajmi ko'rinadi",
     "Tasvir qora-oq bo'ladi",
     "Fon yasaladi",
-    "Ranglar skanali bo'ladi"
+    "Ranglar suyuq bo'ladi"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -193,7 +193,7 @@
   {
    "savol": "Narsalarning oldida va orqasini aniqash uchun nima qilish kerak?",
    "variantlar": [
-    "Tez-tez qarama-qarshi tilish",
+    "Tez-tez yuzini burish",
     "Rang ishlatish",
     "Diqqat bilan kuzatish",
     "Istalgan joyda chizish"
@@ -257,7 +257,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Agar olma ko'zaning balandligidan 2 marta katta ekanligini bilsak, rasm ishlashda bu bilimlardan qanday foydalanish kerak?",
+   "savol": "Agar ko'za olmadan 2 marta baland ekanini bilsak, rasm ishlashda bu bilimdan qanday foydalanish kerak?",
    "variantlar": [
     "E'tibor qilmaslik",
     "Hisob uchun",
@@ -293,7 +293,7 @@
    "savol": "Natyurmortda narsalar turli balandlikda joylashgan bo'lsa, bu kompozitsiyaga qanday ta'sir qiladi?",
    "variantlar": [
     "Faqat rangga",
-    "Rasming dinamik va harakatga layiq bo'lishiga",
+    "Rasm jonli va qiziqarli bo'ladi",
     "Hech qanday ta'sir qilmaydi",
     "Qog'ozning sifatiga"
    ],
@@ -314,7 +314,7 @@
   {
    "savol": "Diqqat bilan kuzatish orqali natyurmort ishlashda rasm qanday xilga aylanadi?",
    "variantlar": [
-    "Her doim aniq emas",
+    "Hech qachon aniq bo'lmaydi",
     "Faqat rang bilan to'lgan",
     "To'g'ri, aniq va tabiatga o'xshash",
     "Tasodifiy"

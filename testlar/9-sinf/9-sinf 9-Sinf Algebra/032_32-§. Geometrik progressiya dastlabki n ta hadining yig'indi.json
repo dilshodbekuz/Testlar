@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Algebra",
+ "mavzu": "32-§. Geometrik progressiya dastlabki n ta hadining yig'indisi",
+ "savollar": [
+  {
+   "savol": "Geometrik progressiya yig'indisi formulasi (q ≠ 1)?",
+   "variantlar": [
+    "Sₙ = b₁ · n",
+    "Sₙ = b₁ · q",
+    "Sₙ = b₁ + n",
+    "Sₙ = b₁(qⁿ − 1)/(q − 1)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "q = 1 bo'lsa Sₙ = ?",
+   "variantlar": [
+    "0",
+    "n",
+    "b₁",
+    "n · b₁"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sₙ ning ikkinchi formulasi?",
+   "variantlar": [
+    "Sₙ = b₁ q",
+    "Sₙ = (bₙ q − b₁)/(q − 1)",
+    "Sₙ = bₙ",
+    "Sₙ = b₁ + bₙ"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "S₁ = ?",
+   "variantlar": [
+    "0",
+    "b₁",
+    "q",
+    "b₂"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 + 2 + 4 = ?",
+   "variantlar": [
+    "8",
+    "6",
+    "5",
+    "7"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 + 3 + 9 = ?",
+   "variantlar": [
+    "12",
+    "10",
+    "11",
+    "13"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "b₁ = 2, q = 2, n = 3. S₃ = ?",
+   "variantlar": [
+    "8",
+    "14",
+    "12",
+    "16"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "b₁ = 1, q = 3, n = 3. S₃ = ?",
+   "variantlar": [
+    "13",
+    "12",
+    "27",
+    "9"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "b₁ = 5, q = 1, n = 4. S₄ = ?",
+   "variantlar": [
+    "20",
+    "625",
+    "5",
+    "9"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 + 1 + 1 + 1 = ?",
+   "variantlar": [
+    "4",
+    "1",
+    "0",
+    "2"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 + 2 + 4 + 8 + 16 = ?",
+   "variantlar": [
+    "30",
+    "28",
+    "31",
+    "32"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "b₁ = 3, q = 2, n = 5. S₅ = ?",
+   "variantlar": [
+    "93",
+    "90",
+    "96",
+    "48"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "b₁ = 2, q = 3, n = 4. S₄ = ?",
+   "variantlar": [
+    "80",
+    "54",
+    "26",
+    "120"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "b₁ = 1, q = −1, n = 4. S₄ = ?",
+   "variantlar": [
+    "1",
+    "4",
+    "0",
+    "2"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "b₁ = 1, q = −1, n = 5. S₅ = ?",
+   "variantlar": [
+    "1",
+    "0",
+    "5",
+    "−1"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "b₁ = 27, q = 1/3, n = 3. S₃ = ?",
+   "variantlar": [
+    "39",
+    "36",
+    "13",
+    "27"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "b₁ = 1, q = 10, n = 3. S₃ = ?",
+   "variantlar": [
+    "11",
+    "111",
+    "1000",
+    "100"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "b₁ = 4, q = 2, S₃ = ?",
+   "variantlar": [
+    "32",
+    "16",
+    "28",
+    "24"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 + 1/2 + 1/4 + 1/8 = ?",
+   "variantlar": [
+    "15/8",
+    "7/4",
+    "1",
+    "2"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2 + 6 + 18 = ?",
+   "variantlar": [
+    "18",
+    "54",
+    "24",
+    "26"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "b₁ = 3, q = 2, S_n = 189. n = ?",
+   "variantlar": [
+    "7",
+    "6",
+    "5",
+    "8"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "b₁ = 1, q = 2, Sₙ = 255. n = ?",
+   "variantlar": [
+    "10",
+    "9",
+    "8",
+    "7"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 + 2 + 2² + ... + 2⁹ = ?",
+   "variantlar": [
+    "1023",
+    "1024",
+    "1000",
+    "512"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 + 3 + 3² + ... + 3⁴ = ?",
+   "variantlar": [
+    "81",
+    "121",
+    "120",
+    "243"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "b₁ = 5, q = 2, b₆ = 160. S₆ = ?",
+   "variantlar": [
+    "155",
+    "315",
+    "160",
+    "320"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "b₂ = 6, q = 3, S₃ = ? (b₁ = 2)",
+   "variantlar": [
+    "26",
+    "54",
+    "18",
+    "24"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir kunda bakteriyalar 2 marta ko'payadi. Dastlab 1 ta bo'lsa, 5-kun oxirida (1, 2, 4, 8, 16) jami?",
+   "variantlar": [
+    "30",
+    "31",
+    "32",
+    "16"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sₙ (q ≠ 1) = b₁(1 − qⁿ)/(1 − q). q = 2 uchun bu formula?",
+   "variantlar": [
+    "b₁ · 2n",
+    "b₁ · n",
+    "b₁ · 2ⁿ",
+    "b₁(2ⁿ − 1)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "b₁ = 7, q = 1: S₁₀ = ?",
+   "variantlar": [
+    "70",
+    "7",
+    "17",
+    "7¹⁰"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 − 2 + 4 − 8 + 16 − 32 = ?",
+   "variantlar": [
+    "63",
+    "21",
+    "−63",
+    "−21"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

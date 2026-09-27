@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "59-§. O'zgarmas tok elektr dvigateli",
+ "savollar": [
+  {
+   "savol": "Elektr dvigatelning ishlash printsipi?",
+   "variantlar": [
+    "Issiqlik",
+    "Elektromagnit induksiya",
+    "Kimyoviy reaksiya",
+    "Magnit maydonda tokli ramkaning aylanishi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'zgarmas tok dvigatelining asosiy qismlari?",
+   "variantlar": [
+    "Kalit",
+    "Stator, rotor, kollektor, cho'tkalar",
+    "Batareya",
+    "Lampa"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dvigatelning aylanuvchi qismi?",
+   "variantlar": [
+    "Korpus",
+    "Rotor (yakor)",
+    "Cho'tka",
+    "Stator"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dvigatelning qo'zg'almas qismi?",
+   "variantlar": [
+    "Rotor",
+    "Stator",
+    "Cho'tka",
+    "Kollektor"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kollektor nima uchun?",
+   "variantlar": [
+    "Yoritish",
+    "Tok yo'nalishini o'zgartirish",
+    "Isitish",
+    "Kuchlanish ortishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Cho'tkalar nima uchun?",
+   "variantlar": [
+    "Yoritish",
+    "Tovush",
+    "Isitish",
+    "Aylanuvchi yakorga tok uzatish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dvigatel nimani nimaga aylantiradi?",
+   "variantlar": [
+    "Issiqlikni yorug'likka",
+    "Kimyoviyni",
+    "Mexanikni elektrga",
+    "Elektr energiyani mexanik energiyaga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dvigatelda qaysi kuch ta'sir qiladi?",
+   "variantlar": [
+    "Ishqalanish",
+    "Kulon",
+    "Og'irlik",
+    "Amper kuchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr dvigatelni birinchi yaratgan olim?",
+   "variantlar": [
+    "Kulon",
+    "Nyuton",
+    "Om",
+    "B. Yakobi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr dvigatel qayerda ishlatiladi?",
+   "variantlar": [
+    "Tramvay, ventilyator, kir yuvish mashinasi",
+    "Simob barometri",
+    "Termometr",
+    "Kompas"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dvigatelning FIK formulasi?",
+   "variantlar": [
+    "η = P − P",
+    "η = P + P",
+    "η = P_foydali/P_to'la · 100 %",
+    "η = P_to'la/P_foydali"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dvigatel to'la quvvati 1000 Vt, foydali 800 Vt. FIK = ?",
+   "variantlar": [
+    "125 %",
+    "80 %",
+    "800 %",
+    "20 %"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "U = 220 V, I = 5 A. To'la quvvat?",
+   "variantlar": [
+    "44 Vt",
+    "225 Vt",
+    "4400 Vt",
+    "1100 Vt"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dvigatelda tok yo'nalishi teskarilansa aylanish?",
+   "variantlar": [
+    "Teskari bo'ladi",
+    "Tezlashadi",
+    "To'xtaydi",
+    "O'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Magnit maydon kuchaytirilsa dvigatel momenti?",
+   "variantlar": [
+    "Nol",
+    "Kamayadi",
+    "Ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yakorda o'ramlar soni oshsa moment?",
+   "variantlar": [
+    "Kamayadi",
+    "Nol",
+    "O'zgarmaydi",
+    "Ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dvigatelda energiya isrofi nimadan?",
+   "variantlar": [
+    "Tovush",
+    "Rang",
+    "Yorug'lik",
+    "Simlarning qizishi va ishqalanish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dvigatel yuklamasi ortsa, tok?",
+   "variantlar": [
+    "Ortadi",
+    "Nol",
+    "Kamayadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ko'p qutbli dvigatel nima uchun kerak?",
+   "variantlar": [
+    "Arzon",
+    "Chiroy",
+    "Aylanish tekisligi va momentni yaxshilash",
+    "Yengil"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Universal dvigatel qaysi tokda ishlaydi?",
+   "variantlar": [
+    "O'zgarmas va o'zgaruvchan",
+    "Faqat o'zgaruvchan",
+    "Faqat o'zgarmas",
+    "Ishlamaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dvigatel U = 24 V, I = 10 A, foydali quvvat 180 Vt. FIK?",
+   "variantlar": [
+    "25 %",
+    "133 %",
+    "75 %",
+    "100 %"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dvigatel 1 soatda 2 kVt·soat sarfladi. FIK 80 %. Foydali ish?",
+   "variantlar": [
+    "1,2 kVt·soat",
+    "2,5 kVt·soat",
+    "0,4 kVt·soat",
+    "1,6 kVt·soat"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dvigatelning aylantiruvchi momenti M = BISN sin α. Yakorda N = 100, S = 0,01 m², B = 0,5 T, I = 2 A, α = 90°. M = ?",
+   "variantlar": [
+    "1 N·m",
+    "10 N·m",
+    "0,1 N·m",
+    "0,01 N·m"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dvigatel yuritmali lift 100 kg yukni 10 m ga 20 s da ko'tardi (g = 10). Foydali quvvat?",
+   "variantlar": [
+    "5000 Vt",
+    "200 Vt",
+    "500 Vt",
+    "50 Vt"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi liftda dvigatel tok 5 A, U = 220 V. FIK?",
+   "variantlar": [
+    "≈ 100 %",
+    "≈ 45 %",
+    "≈ 22 %",
+    "≈ 90 %"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektr dvigatel avtomobil dvigateliga nisbatan qanday afzallikka ega?",
+   "variantlar": [
+    "Ekologik toza, FIK katta",
+    "Shovqinli",
+    "Arzon emas",
+    "Og'ir"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dvigatelda \"salt yurish\" nima?",
+   "variantlar": [
+    "Tez aylanish",
+    "Yuklamali",
+    "Yuklamasiz aylanish",
+    "To'xtash"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dvigatel rotori to'xtatib qo'yilsa (bloklansa) tok?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Kamayadi",
+    "Nol",
+    "Keskin ortadi, dvigatel kuyishi mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yakor o'ramlari orasida tok yo'nalishi qaysi qoida bilan aniqlanadi?",
+   "variantlar": [
+    "O'ng qo'l",
+    "Om",
+    "Chap qo'l (kuch yo'nalishi)",
+    "Kulon"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "FIK 100 % dan nima uchun kichik?",
+   "variantlar": [
+    "Sim uzun",
+    "Energiyaning bir qismi issiqlikka aylanadi",
+    "Massa",
+    "Rang"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

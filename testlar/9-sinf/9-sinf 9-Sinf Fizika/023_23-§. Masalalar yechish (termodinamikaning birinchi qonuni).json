@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "23-§. Masalalar yechish (termodinamikaning birinchi qonuni)",
+ "savollar": [
+  {
+   "savol": "Termodinamikaning birinchi qonuni?",
+   "variantlar": [
+    "Q = ΔU − A",
+    "Q = ΔU · A",
+    "Q = ΔU + A",
+    "Q = A − ΔU"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Izobarik jarayonda ish?",
+   "variantlar": [
+    "A = p/ΔV",
+    "A = p + ΔV",
+    "A = pΔV",
+    "A = ΔV/p"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ichki energiya bir atomli gaz uchun?",
+   "variantlar": [
+    "U = νRT",
+    "U = 3νRT",
+    "U = (1/2)νRT",
+    "U = (3/2)νRT"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "ΔU = (3/2)νRΔT. ν = 1 mol, ΔT = 10 K. ΔU ≈ ?",
+   "variantlar": [
+    "≈ 12,5 J",
+    "≈ 250 J",
+    "≈ 83 J",
+    "≈ 125 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A = pΔV. p = 10⁵ Pa, ΔV = 10⁻³ m³. A = ?",
+   "variantlar": [
+    "100 J",
+    "1 J",
+    "10 J",
+    "1000 J"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Q = 300 J, A = 100 J. ΔU = ?",
+   "variantlar": [
+    "200 J",
+    "400 J",
+    "100 J",
+    "300 J"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Q = 0 (adiabatik). ΔU = −A. A = 50 J. ΔU = ?",
+   "variantlar": [
+    "100 J",
+    "0",
+    "50 J",
+    "−50 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "V = const. A = ?",
+   "variantlar": [
+    "Q",
+    "ΔU",
+    "0",
+    "pΔV"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "T = const. ΔU = ?",
+   "variantlar": [
+    "0",
+    "Q",
+    "A",
+    "pΔV"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p = const. Q = ?",
+   "variantlar": [
+    "ΔU + pΔV",
+    "ΔU",
+    "0",
+    "pΔV"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gazga 1200 J berildi, ish 500 J. ΔU = ?",
+   "variantlar": [
+    "600 J",
+    "1700 J",
+    "500 J",
+    "700 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ΔU = 400 J, A = 200 J. Q = ?",
+   "variantlar": [
+    "600 J",
+    "200 J",
+    "800 J",
+    "400 J"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Izobarik: p = 2 · 10⁵ Pa, ΔV = 0,005 m³. A = ?",
+   "variantlar": [
+    "100 J",
+    "1000 J",
+    "10 000 J",
+    "40 J"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi jarayonda ΔU = 1500 J. Q = ?",
+   "variantlar": [
+    "2500 J",
+    "1000 J",
+    "500 J",
+    "1500 J"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 mol He izobarik 20 K ga isitildi. A = RΔT ≈ ?",
+   "variantlar": [
+    "≈ 16,6 J",
+    "≈ 1660 J",
+    "≈ 166 J",
+    "≈ 8,3 J"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi jarayonda ΔU = (3/2)RΔT ≈ ?",
+   "variantlar": [
+    "≈ 415 J",
+    "≈ 166 J",
+    "≈ 249 J",
+    "≈ 83 J"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi jarayonda Q ≈ ?",
+   "variantlar": [
+    "≈ 83 J",
+    "≈ 249 J",
+    "≈ 415 J",
+    "≈ 166 J"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Adiabatik kengayishda gaz ishi 300 J. ΔU = ?",
+   "variantlar": [
+    "300 J",
+    "600 J",
+    "0",
+    "−300 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Izotermik kengayishda gaz 700 J issiqlik oldi. A = ?",
+   "variantlar": [
+    "1400 J",
+    "700 J",
+    "350 J",
+    "0"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Izoxorik jarayonda gaz 500 J oldi. ΔU = ?",
+   "variantlar": [
+    "1000 J",
+    "500 J",
+    "0",
+    "250 J"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Silindrdagi gaz 2 kJ issiqlik oldi va porshenni ko'tarib 0,5 kJ ish bajardi. ΔU = ?",
+   "variantlar": [
+    "1,5 kJ",
+    "1 kJ",
+    "0,5 kJ",
+    "2,5 kJ"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gaz 3 kJ ish bajarib, ΔU = −1 kJ. Q = ?",
+   "variantlar": [
+    "2 kJ",
+    "4 kJ",
+    "−2 kJ",
+    "3 kJ"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sikl: 1000 J berildi, 700 J sovutgichga berildi. Ish?",
+   "variantlar": [
+    "700 J",
+    "1700 J",
+    "0",
+    "300 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p = 10⁵ Pa da hajm 2 l dan 5 l gacha, ΔU = 300 J. Q = ?",
+   "variantlar": [
+    "300 J",
+    "900 J",
+    "0",
+    "600 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2 mol bir atomli gaz izoxorik 50 K ga isitildi. Q = ΔU = (3/2)νRΔT ≈ ?",
+   "variantlar": [
+    "≈ 831 J",
+    "≈ 2077 J",
+    "≈ 623 J",
+    "≈ 1246 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi izoxorik jarayonda ish?",
+   "variantlar": [
+    "831 J",
+    "1246 J",
+    "415 J",
+    "0"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Termodinamikaning birinchi qonuniga ko'ra birinchi tur abadiy dvigatel?",
+   "variantlar": [
+    "Yaratish mumkin",
+    "Yaratib bo'lmaydi",
+    "Faqat vakuumda",
+    "Ba'zan mumkin"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Q = ΔU + A, Q > 0 bo'lsa nimani anglatadi?",
+   "variantlar": [
+    "Issiqlik yo'q",
+    "Sistema issiqlik oldi",
+    "Ish bajarilmadi",
+    "Sistema issiqlik berdi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Q < 0 nimani anglatadi?",
+   "variantlar": [
+    "Sistema issiqlik berdi",
+    "Sistema oldi",
+    "Aniqlab bo'lmaydi",
+    "Nol"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gaz sovutilib siqilsa (p = const) Q ishorasi?",
+   "variantlar": [
+    "Aniqlab bo'lmaydi",
+    "Manfiy",
+    "Nol",
+    "Musbat"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

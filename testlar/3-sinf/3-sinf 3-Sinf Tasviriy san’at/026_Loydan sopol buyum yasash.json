@@ -6,7 +6,7 @@
   {
    "savol": "Kulolchilik nima?",
    "variantlar": [
-    "Yog'ini ishlov beradi",
+    "Yog'ochga ishlov beradi",
     "Metalni ishlov beradi",
     "O'simlik ekiladi",
     "Loydan buyumlar yasaydi"
@@ -28,8 +28,8 @@
   {
    "savol": "Kulolchilikda asosiy qurol nima deb ataladi?",
    "variantlar": [
-    "Charm charxi",
-    "Demir qurol",
+    "Bolg'a",
+    "Temir qurol",
     "Kulollik charxi",
     "Elektr pechasi"
    ],
@@ -42,7 +42,7 @@
     "Tuproq va loy",
     "Metall",
     "Plastik",
-    "Qag'oz"
+    "Qog'oz"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -59,12 +59,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Sopol buyumlar qayerdagi quritiladi?",
+   "savol": "Sopol buyumlar an'anaviy tarzda qayerda pishiriladi?",
    "variantlar": [
-    "To'ponda",
+    "Tuproqda",
     "Xumdonda",
-    "Shimda",
-    "Xonada"
+    "Suvda",
+    "Muzlatkichda"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -86,7 +86,7 @@
     "Pishiq, chiroyli va nafis",
     "Past va yomon",
     "Odiy va oq",
-    "Og'ir va qo'polyosh"
+    "Og'ir va qo'pol"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -116,8 +116,8 @@
   {
    "savol": "Loyga shakl berishda qaysi qurol asosiy rol o'ynaydi?",
    "variantlar": [
-    "Demir qomma",
-    "Charm asbabi",
+    "Temir qolip",
+    "Charm asbob",
     "Kulollik charxi",
     "Elektr pechasi"
    ],
@@ -129,21 +129,21 @@
    "variantlar": [
     "Rang yaxshi beriladi",
     "Juda chiroyli bo'ladi",
-    "Buyum parchalanadi",
+    "Buyum yorilib ketadi",
     "Bezak oson tushadi"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Sopol buyumlarni pishirish qayerdagi qilinadi?",
+   "savol": "Loydan yasalgan buyum pishirishdan oldin nima qilinadi?",
    "variantlar": [
-    "Tuydada",
-    "Tandirda",
-    "Ohinda",
-    "Maxsus elektr pechda"
+    "Quritiladi",
+    "Suvga solinadi",
+    "Muzlatiladi",
+    "Yoqib yuboriladi"
    ],
-   "togri": 3,
+   "togri": 0,
    "qiyinlik": "o'rtacha"
   },
   {
@@ -158,7 +158,7 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Matinda ko'rsatilgan tunning nomi qaysi hunarmand?",
+   "savol": "Matnda tilga olingan kulol usta kim?",
    "variantlar": [
     "Miriy Akbar",
     "Nosir Orifiy",
@@ -169,11 +169,11 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Sopol buyumlarni qanday bilim bezaydilar?",
+   "savol": "Sopol buyumlar nima bilan bezatiladi?",
    "variantlar": [
     "Faqat oq rang",
     "Ko'rkam naqsh va bezaklar",
-    "Qirq asr naqshi",
+    "Faqat qora rang",
     "Oddiy rang"
    ],
    "togri": 1,
@@ -194,7 +194,7 @@
    "savol": "Abdurahim Muxtorov qanday o'yinchoqlarni yaratdi?",
    "variantlar": [
     "Milliy o'yinchoq va mayda shakllarni",
-    "Yog'i o'yinchoqlarni",
+    "Yog'och o'yinchoqlarni",
     "Plastik o'yinchoqlarni",
     "Metall o'yinchoqlarni"
    ],
@@ -202,7 +202,7 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Xalq ustallari buyumlarni bezaydi qanday bilim bilan?",
+   "savol": "Xalq ustalari buyumlarni qanday bezaydi?",
    "variantlar": [
     "Oddiy rang",
     "Oddiy bo'yash",
@@ -279,10 +279,10 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "\"Nafis siri\" iborasi sopol buyumlar haqida nima anglatadi?",
+   "savol": "«Nafis sir» iborasi sopol buyum haqida nimani anglatadi?",
    "variantlar": [
     "Arzonligini",
-    "Yaxshi, sof va yuqori sifatli malumotni",
+    "Buyum sirti yupqa, chiroyli yaltiroq qoplama bilan qoplanganini",
     "Xavfsizligini",
     "Og'irligini"
    ],
@@ -317,7 +317,7 @@
     "San'at arbobi va mayda shakllar ustasi",
     "Fermachi",
     "Metall ishchi",
-    "Boyoq ishi"
+    "Bo'yoqchi"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"

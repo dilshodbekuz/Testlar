@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "12-§. Izoxorik jarayon",
+ "savollar": [
+  {
+   "savol": "Izoxorik jarayon nima?",
+   "variantlar": [
+    "V = const bo'lgan jarayon",
+    "Q = 0",
+    "T = const",
+    "p = const"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Izoxorik jarayon qonuni (Sharl)?",
+   "variantlar": [
+    "pV = const",
+    "V/T = const",
+    "p/T = const",
+    "pT = const"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sharl qonunida T qaysi shkalada?",
+   "variantlar": [
+    "Ixtiyoriy",
+    "Selsiyda",
+    "Kelvinda",
+    "Farengeytda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Izoxorik jarayonda T ortsa p?",
+   "variantlar": [
+    "Nol",
+    "Kamayadi",
+    "Ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Izoxorik jarayonda hajm?",
+   "variantlar": [
+    "Kamayadi",
+    "Nol",
+    "Ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "T 2 marta ortsa (izoxor) p?",
+   "variantlar": [
+    "4 marta ortadi",
+    "2 marta kamayadi",
+    "2 marta ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Izoxora grafigi (p–T) qanday?",
+   "variantlar": [
+    "Koordinata boshidan o'tuvchi to'g'ri chiziq",
+    "Parabola",
+    "Aylana",
+    "Giperbola"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sharl qaysi mamlakat olimi?",
+   "variantlar": [
+    "Germaniya",
+    "Angliya",
+    "Rossiya",
+    "Fransiya"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yopiq idishda gazni isitish jarayoni?",
+   "variantlar": [
+    "Izoxorik",
+    "Izotermik",
+    "Izobarik",
+    "Adiabatik"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Izoxorik jarayonda gaz ishi?",
+   "variantlar": [
+    "Cheksiz",
+    "0",
+    "Musbat",
+    "pΔV"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p₁/T₁ = p₂/T₂. p₁ = 10⁵ Pa, T₁ = 300 K, T₂ = 600 K. p₂ = ?",
+   "variantlar": [
+    "5 · 10⁴ Pa",
+    "4 · 10⁵ Pa",
+    "10⁵ Pa",
+    "2 · 10⁵ Pa"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p₁ = 3 · 10⁵ Pa, T₁ = 450 K, T₂ = 300 K. p₂ = ?",
+   "variantlar": [
+    "3 · 10⁵ Pa",
+    "2 · 10⁵ Pa",
+    "4,5 · 10⁵ Pa",
+    "10⁵ Pa"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gaz 27 °C dan 127 °C gacha izoxorik isitilsa bosim?",
+   "variantlar": [
+    "2 marta ortadi",
+    "127/27 marta",
+    "4/3 marta ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = p₀(1 + αt). α = ?",
+   "variantlar": [
+    "1/100",
+    "1/273 K⁻¹",
+    "273",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yopiq ballon qizdirilsa portlash xavfi. Sababi?",
+   "variantlar": [
+    "Bosim kamayadi",
+    "Massa ortadi",
+    "Bosim ortadi",
+    "Hajm ortadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Izoxorik jarayonda ichki energiya (T ortsa)?",
+   "variantlar": [
+    "Ortadi",
+    "Kamayadi",
+    "Nol",
+    "O'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Izoxorik jarayonda berilgan issiqlik nimaga ketadi?",
+   "variantlar": [
+    "Tovushga",
+    "Ichki energiyani oshirishga",
+    "Yo'qoladi",
+    "Ish bajarishga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "V–T koordinatalarda izoxora qanday chiziq?",
+   "variantlar": [
+    "Giperbola",
+    "Gorizontal chiziq",
+    "Vertikal chiziq",
+    "Parabola"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p–V koordinatalarda izoxora?",
+   "variantlar": [
+    "Parabola",
+    "Gorizontal",
+    "Vertikal chiziq",
+    "Giperbola"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "T 3 marta kamaysa (izoxor) p?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "3 marta kamayadi",
+    "3 marta ortadi",
+    "9 marta kamayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ballon 20 °C da p = 2 · 10⁶ Pa. 60 °C gacha isitilsa p ≈ ?",
+   "variantlar": [
+    "≈ 2 · 10⁶ Pa",
+    "≈ 6 · 10⁶ Pa",
+    "≈ 1,5 · 10⁶ Pa",
+    "≈ 2,27 · 10⁶ Pa"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Lampochka 20 °C da p₀ = 10⁴ Pa. Yonganda T = 2000 K bo'ldi. p ≈ ?",
+   "variantlar": [
+    "≈ 10⁵ Pa",
+    "≈ 2 · 10⁵ Pa",
+    "≈ 6,8 · 10⁴ Pa",
+    "≈ 10⁴ Pa"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yopiq idishda p 1,2 marta ortishi uchun T 300 K dan qanchaga o'zgarishi kerak?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "360 K ga (60 K ortadi)",
+    "260 K ga",
+    "60 K ga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p₁ = 1,5 · 10⁵ Pa, T₁ = 300 K. T₂ = 400 K. p₂ = ?",
+   "variantlar": [
+    "3 · 10⁵ Pa",
+    "10⁵ Pa",
+    "2 · 10⁵ Pa",
+    "1,125 · 10⁵ Pa"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ballondagi gazni sovutsak, bosim 5 marta kamayadi. T₁ = 500 K. T₂ = ?",
+   "variantlar": [
+    "2500 K",
+    "5 K",
+    "500 K",
+    "100 K"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Idishdagi gaz p = 2 · 10⁵ Pa, T = 400 K. p = 10⁵ Pa bo'lishi uchun T = ?",
+   "variantlar": [
+    "800 K",
+    "200 K",
+    "400 K",
+    "100 K"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Izoxorik jarayonda dp/dT = p₀α. Bu nimani bildiradi?",
+   "variantlar": [
+    "Bosim T bilan chiziqli o'zgaradi",
+    "Bosim T² ga bog'liq",
+    "Kvadratik",
+    "Bog'liq emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Aerozol balloni isitilsa nega portlash xavfi bor?",
+   "variantlar": [
+    "Massa ortadi",
+    "Sovuydi",
+    "Hajm o'zgarmas, bosim ortadi",
+    "Hajm ortadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Molekulalar bilan devor to'qnashuvi soni T ortsa (V const)?",
+   "variantlar": [
+    "Ortadi",
+    "Nol",
+    "Kamayadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p–T grafikda izoxora nolga (T = 0) da p?",
+   "variantlar": [
+    "273",
+    "1",
+    "Cheksiz",
+    "0 ga intiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

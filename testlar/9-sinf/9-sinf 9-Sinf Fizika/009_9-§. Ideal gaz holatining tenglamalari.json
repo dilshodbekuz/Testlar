@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "9-§. Ideal gaz holatining tenglamalari",
+ "savollar": [
+  {
+   "savol": "Ideal gaz holat tenglamasi (Mendeleyev–Klapeyron)?",
+   "variantlar": [
+    "pV = RT/ν",
+    "p = VRT",
+    "pV = ν/RT",
+    "pV = νRT"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gaz holatini tavsiflovchi kattaliklar?",
+   "variantlar": [
+    "p, V, T",
+    "F, s, t",
+    "U, I, R",
+    "m, v, a"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Universal gaz doimiysi R?",
+   "variantlar": [
+    "8,31 J/(mol·K)",
+    "9,8",
+    "6,02 · 10²³",
+    "1,38 · 10⁻²³ J/K"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "pV = (m/M) RT formulasida m nima?",
+   "variantlar": [
+    "Hajm",
+    "Bosim",
+    "Gaz massasi",
+    "Molyar massa"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tenglamada T qanday shkalada olinadi?",
+   "variantlar": [
+    "Ixtiyoriy",
+    "Farengeytda",
+    "Selsiyda",
+    "Kelvinda"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Normal sharoit: temperatura?",
+   "variantlar": [
+    "25 °C",
+    "0 °C",
+    "20 °C",
+    "100 °C"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Normal sharoit: bosim?",
+   "variantlar": [
+    "10⁷ Pa",
+    "1 Pa",
+    "0 Pa",
+    "101 325 Pa (1 atm)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 mol gaz normal sharoitda hajmi?",
+   "variantlar": [
+    "100 l",
+    "1 l",
+    "10 l",
+    "22,4 l"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bosim birligi?",
+   "variantlar": [
+    "J",
+    "N",
+    "K",
+    "Pa"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hajm birligi (SI)?",
+   "variantlar": [
+    "l",
+    "sm³",
+    "m²",
+    "m³"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 l necha m³?",
+   "variantlar": [
+    "10⁻³ m³",
+    "10³ m³",
+    "1 m³",
+    "10⁻⁶ m³"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ν = 1 mol, T = 273 K, p = 10⁵ Pa. V = νRT/p ≈ ?",
+   "variantlar": [
+    "22,7 l",
+    "2,27 l",
+    "1 l",
+    "227 l"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ν = 2 mol, T = 300 K, V = 0,05 m³. p = νRT/V ≈ ?",
+   "variantlar": [
+    "1 · 10⁶ Pa",
+    "1 Pa",
+    "1 · 10⁴ Pa",
+    "1 · 10⁵ Pa"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = 10⁵ Pa, V = 0,0249 m³, T = 300 K. ν = pV/(RT) ≈ ?",
+   "variantlar": [
+    "10 mol",
+    "2 mol",
+    "1 mol",
+    "0,1 mol"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Klapeyron tenglamasi: p₁V₁/T₁ = p₂V₂/T₂ qachon o'rinli?",
+   "variantlar": [
+    "Hech qachon",
+    "Har doim",
+    "Gaz massasi o'zgarmaganda",
+    "Massa o'zgarsa"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gaz massasi o'zgarmaydi. p, V ikki marta oshsa T?",
+   "variantlar": [
+    "2 marta ortadi",
+    "4 marta ortadi",
+    "2 marta kamayadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "T ni 2 marta oshirib p ni 2 marta kamaytirsak V?",
+   "variantlar": [
+    "2 marta ortadi",
+    "4 marta ortadi",
+    "O'zgarmaydi",
+    "2 marta kamayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zichlik ρ = pM/(RT) formulasi?",
+   "variantlar": [
+    "Hajm",
+    "Gaz zichligi",
+    "Bosim",
+    "Massa"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gaz zichligi bosim ortsa (T const)?",
+   "variantlar": [
+    "Kamayadi",
+    "O'zgarmaydi",
+    "Nol",
+    "Ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gaz zichligi T ortsa (p const)?",
+   "variantlar": [
+    "Kamayadi",
+    "Ortadi",
+    "O'zgarmaydi",
+    "Nol"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kislorod (m = 32 g, M = 32 g/mol), T = 300 K, V = 0,025 m³. p ≈ ?",
+   "variantlar": [
+    "≈ 10⁵ Pa",
+    "≈ 10⁶ Pa",
+    "≈ 10⁴ Pa",
+    "≈ 10³ Pa"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Azot 28 g, T = 280 K, p = 10⁵ Pa. V ≈ ?",
+   "variantlar": [
+    "≈ 0,0023 m³",
+    "≈ 0,23 m³",
+    "≈ 2,3 m³",
+    "≈ 0,023 m³"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Idish hajmi 10 l, p = 2 · 10⁵ Pa, T = 300 K. ν ≈ ?",
+   "variantlar": [
+    "0,8 mol",
+    "80 mol",
+    "0,08 mol",
+    "8 mol"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p₁ = 10⁵ Pa, V₁ = 2 l, T₁ = 300 K. V₂ = 1 l, T₂ = 600 K. p₂ = ?",
+   "variantlar": [
+    "5 · 10⁴ Pa",
+    "2 · 10⁵ Pa",
+    "10⁵ Pa",
+    "4 · 10⁵ Pa"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p₁ = 2 · 10⁵ Pa, T₁ = 300 K, V₁ = 3 l. p₂ = 10⁵ Pa, T₂ = 300 K. V₂ = ?",
+   "variantlar": [
+    "1,5 l",
+    "3 l",
+    "6 l",
+    "12 l"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Havoning zichligi normal sharoitda (M = 29 g/mol) ≈ ?",
+   "variantlar": [
+    "≈ 0,129 kg/m³",
+    "≈ 129 kg/m³",
+    "≈ 12,9 kg/m³",
+    "≈ 1,29 kg/m³"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Vodorod (M = 2 g/mol) zichligi n.sh. da ≈ ?",
+   "variantlar": [
+    "≈ 0,09 kg/m³",
+    "≈ 0,9 kg/m³",
+    "≈ 0,009 kg/m³",
+    "≈ 9 kg/m³"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "27 °C va 10⁵ Pa da 1 mol gaz hajmi ≈ ?",
+   "variantlar": [
+    "≈ 22,4 l",
+    "≈ 249 l",
+    "≈ 2,49 l",
+    "≈ 24,9 l"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Idishdagi gaz sizib chiqsa (T, V const) p?",
+   "variantlar": [
+    "Nol",
+    "Ortadi",
+    "Kamayadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gaz massasi 2 marta ortsa (V, T const) p?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "2 marta kamayadi",
+    "4 marta ortadi",
+    "2 marta ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

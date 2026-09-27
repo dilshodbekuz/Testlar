@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "41-§. Atmosferadagi hodisalar",
+ "savollar": [
+  {
+   "savol": "Atmosfera nima?",
+   "variantlar": [
+    "Yorug'lik",
+    "Tosh qobig'i",
+    "Suv qobig'i",
+    "Yerni o'rab turgan havo qobig'i"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Havoning nisbiy namligi qaysi harf bilan?",
+   "variantlar": [
+    "λ",
+    "ρ",
+    "σ",
+    "φ"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nisbiy namlik formulasi?",
+   "variantlar": [
+    "φ = p · p_t",
+    "φ = p_t/p",
+    "φ = (p/p_t) · 100 %",
+    "φ = p + p_t"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p nima?",
+   "variantlar": [
+    "To'yingan bug' bosimi",
+    "Havo bosimi",
+    "Bug'ning parsial bosimi",
+    "Atmosfera bosimi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p_t nima?",
+   "variantlar": [
+    "To'yingan bug' bosimi",
+    "Havo",
+    "Bug'ning bosimi",
+    "Atmosfera"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shudring nuqtasi nima?",
+   "variantlar": [
+    "Qaynash t",
+    "Bug' to'yinadigan temperatura",
+    "Xona t",
+    "Erish t"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tuman nima?",
+   "variantlar": [
+    "Muz",
+    "Gaz",
+    "Yorug'lik",
+    "Havodagi mayda suv tomchilari"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bulut nima?",
+   "variantlar": [
+    "Faqat gaz",
+    "Faqat tosh",
+    "Suv tomchilari va muz kristallari",
+    "Yorug'lik"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yomg'ir qanday hosil bo'ladi?",
+   "variantlar": [
+    "Quyoshdan",
+    "Shamoldan",
+    "Sovuqdan",
+    "Bulutdagi tomchilarning kattalashib tushishidan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qor nima?",
+   "variantlar": [
+    "Suv",
+    "Bug'",
+    "Gaz",
+    "Muz kristallari"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Havoning nisbiy namligi 100 % bo'lsa bug'?",
+   "variantlar": [
+    "To'yinmagan",
+    "Sovuq",
+    "Yo'q",
+    "To'yingan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nisbiy namlik 50 % bo'lsa?",
+   "variantlar": [
+    "To'yingan",
+    "Bug' bosimi to'yingan bosimning yarmiga teng",
+    "Sovuq",
+    "Yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = 1 kPa, p_t = 2 kPa. φ = ?",
+   "variantlar": [
+    "20 %",
+    "200 %",
+    "100 %",
+    "50 %"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = 1,4 kPa, p_t = 2,3 kPa. φ ≈ ?",
+   "variantlar": [
+    "≈ 61 %",
+    "≈ 100 %",
+    "≈ 164 %",
+    "≈ 32 %"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "φ = 60 %, p_t = 3 kPa. p = ?",
+   "variantlar": [
+    "180 kPa",
+    "0,6 kPa",
+    "5 kPa",
+    "1,8 kPa"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Temperatura ortsa p_t?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Ortadi",
+    "Nol",
+    "Kamayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir xil p da T ortsa φ?",
+   "variantlar": [
+    "Kamayadi",
+    "Nol",
+    "Ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shudring qachon tushadi?",
+   "variantlar": [
+    "Isiganda",
+    "Doim",
+    "Havo shudring nuqtasigacha soviganda",
+    "Hech qachon"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Namlik qaysi asbobda o'lchanadi?",
+   "variantlar": [
+    "Termometr",
+    "Barometr",
+    "Manometr",
+    "Gigrometr"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Atmosfera bosimi qaysi asbobda?",
+   "variantlar": [
+    "Manometr",
+    "Gigrometr",
+    "Barometr",
+    "Termometr"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Psixrometr qanday ishlaydi?",
+   "variantlar": [
+    "Massa",
+    "Quruq va ho'l termometr ko'rsatishlar farqi bo'yicha",
+    "Rang",
+    "Bosim"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ho'l termometr nima uchun quruqdan past t ko'rsatadi?",
+   "variantlar": [
+    "Bug'lanish tufayli soviydi",
+    "Sovuq",
+    "Massa",
+    "Rang"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Havo namligi past bo'lsa ho'l va quruq termometr farqi?",
+   "variantlar": [
+    "Kichik",
+    "Nol",
+    "Teng",
+    "Katta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Namlik 100 % ga yetganda farq?",
+   "variantlar": [
+    "Ortadi",
+    "Nol",
+    "Katta",
+    "Kamayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Normal atmosfera bosimi?",
+   "variantlar": [
+    "100 mm",
+    "10 mm",
+    "1000 mm",
+    "760 mm sim. ust."
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 mm sim. ust. ≈ ?",
+   "variantlar": [
+    "≈ 133 Pa",
+    "≈ 1330 Pa",
+    "≈ 13,3 Pa",
+    "≈ 1,33 Pa"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Balandlik ortsa atmosfera bosimi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Ortadi",
+    "Nol",
+    "Kamayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Har 12 m balandlikka atmosfera bosimi taxminan qanchaga kamayadi?",
+   "variantlar": [
+    "≈ 1 mm sim. ust.",
+    "≈ 100 mm",
+    "≈ 0,1 mm",
+    "≈ 10 mm"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Foydali namlik xonada odam uchun?",
+   "variantlar": [
+    "100 %",
+    "≈ 40–60 %",
+    "0 %",
+    "10 %"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kuchli sovuqda xona havosi quruq bo'ladi. Sababi?",
+   "variantlar": [
+    "Bosim",
+    "Tashqi sovuq havo qizdirilganda φ kamayadi",
+    "Namlik oshadi",
+    "Rang"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "22-§. Termodinamikaning birinchi qonuni",
+ "savollar": [
+  {
+   "savol": "Termodinamikaning birinchi qonuni?",
+   "variantlar": [
+    "Q = ΔU − A",
+    "Q = A / ΔU",
+    "Q = ΔU + A",
+    "Q = ΔU · A"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qonunda Q nima?",
+   "variantlar": [
+    "Sistemaga berilgan issiqlik miqdori",
+    "Ichki energiya",
+    "Ish",
+    "Massa"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qonunda ΔU nima?",
+   "variantlar": [
+    "Ichki energiya o'zgarishi",
+    "Ish",
+    "Massa",
+    "Issiqlik"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qonunda A nima?",
+   "variantlar": [
+    "Ichki energiya",
+    "Issiqlik",
+    "Temperatura",
+    "Gaz bajargan ish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bu qonun qaysi energiya qonuni?",
+   "variantlar": [
+    "Energiyaning saqlanish qonuni",
+    "Massaning saqlanishi",
+    "Zaryad saqlanishi",
+    "Impuls"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "ΔU = Q − A. Bu qonunning boshqa ko'rinishi. Qaysi kattalik?",
+   "variantlar": [
+    "Ish",
+    "Ichki energiya o'zgarishi",
+    "Massa",
+    "Issiqlik"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Izoxorik jarayonda A = 0. Q = ?",
+   "variantlar": [
+    "0",
+    "ΔU",
+    "ΔU + A",
+    "A"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Izotermik jarayonda ΔU = 0. Q = ?",
+   "variantlar": [
+    "−A",
+    "0",
+    "A",
+    "ΔU"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Adiabatik jarayonda Q = 0. ΔU = ?",
+   "variantlar": [
+    "Q",
+    "0",
+    "−A",
+    "A"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Izobarik jarayonda Q = ?",
+   "variantlar": [
+    "ΔU",
+    "ΔU + pΔV",
+    "pΔV",
+    "0"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gazga 500 J issiqlik berildi va u 200 J ish bajardi. ΔU = ?",
+   "variantlar": [
+    "700 J",
+    "−300 J",
+    "100 J",
+    "300 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gazga 800 J issiqlik berildi, ΔU = 300 J. A = ?",
+   "variantlar": [
+    "240 J",
+    "500 J",
+    "800 J",
+    "1100 J"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gaz 600 J ish bajardi, ΔU = 0. Q = ?",
+   "variantlar": [
+    "−600 J",
+    "0",
+    "600 J",
+    "1200 J"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Adiabatik siqishda 400 J ish bajarilsa ΔU?",
+   "variantlar": [
+    "800 J",
+    "+400 J",
+    "0",
+    "−400 J"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gaz issiqlik berib, ish bajarmadi. ΔU = ?",
+   "variantlar": [
+    "2Q",
+    "−Q",
+    "0",
+    "Q"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gazdan 300 J issiqlik olinib, ustida 100 J ish bajarildi. ΔU = ?",
+   "variantlar": [
+    "400 J",
+    "−200 J",
+    "−400 J",
+    "200 J"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 mol bir atomli gaz izoxorik 100 K ga isitildi. Q = ΔU = (3/2)RΔT ≈ ?",
+   "variantlar": [
+    "≈ 831 J",
+    "≈ 415 J",
+    "≈ 1246 J",
+    "≈ 2077 J"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 mol bir atomli gaz izobarik 100 K ga isitildi. Q = (5/2)RΔT ≈ ?",
+   "variantlar": [
+    "≈ 2077 J",
+    "≈ 831 J",
+    "≈ 1246 J",
+    "≈ 415 J"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Birinchi qonun perpetuum mobile (birinchi tur) ni?",
+   "variantlar": [
+    "Qiladi",
+    "Ta'sir qilmaydi",
+    "Mumkin emasligini isbotlaydi",
+    "Mumkin"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ish bajarish uchun energiya qayerdan olinadi?",
+   "variantlar": [
+    "Massa",
+    "Issiqlik yoki ichki energiyadan",
+    "Hech qayerdan",
+    "Yo'qdan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sikl (tsikl) uchun ΔU = 0. Q = ?",
+   "variantlar": [
+    "A",
+    "0",
+    "−A",
+    "ΔU"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gaz Q₁ = 1000 J oldi, Q₂ = 600 J berdi (tsikl). Ish?",
+   "variantlar": [
+    "0",
+    "400 J",
+    "600 J",
+    "1600 J"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Izobarik: ν = 1 mol, ΔT = 50 K. A = RΔT ≈ 415 J. ΔU = (3/2)RΔT ≈ ?",
+   "variantlar": [
+    "≈ 1038 J",
+    "≈ 623 J",
+    "≈ 415 J",
+    "≈ 208 J"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi izobarik jarayonda Q = ΔU + A ≈ ?",
+   "variantlar": [
+    "≈ 1038 J",
+    "≈ 415 J",
+    "≈ 623 J",
+    "≈ 208 J"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Adiabatik kengayishda temperatura?",
+   "variantlar": [
+    "Ortadi",
+    "Nol",
+    "Kamayadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Q = ΔU + A da A < 0 ishorasi nimani anglatadi?",
+   "variantlar": [
+    "Aniqlab bo'lmaydi",
+    "Nol",
+    "Gaz ish bajargan",
+    "Gaz ustida ish bajarilgan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gaz isitilib hajmi o'zgarmasa, hamma issiqlik nimaga sarflanadi?",
+   "variantlar": [
+    "Tovushga",
+    "Ichki energiya oshishiga",
+    "Yo'qoladi",
+    "Ish bajarishga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Izotermik jarayonda gazga 900 J issiqlik berildi. Gaz ishi?",
+   "variantlar": [
+    "0",
+    "450 J",
+    "1800 J",
+    "900 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 kg suv 100 °C da bug'ga aylanishda (Q = 2,3 MJ) A = pΔV ≈ 170 kJ. ΔU ≈ ?",
+   "variantlar": [
+    "≈ 2,13 MJ",
+    "≈ 170 kJ",
+    "≈ 2,47 MJ",
+    "≈ 2,3 MJ"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sovutgichda ΔU va Q nima bo'ladi?",
+   "variantlar": [
+    "Q = 0",
+    "Q < 0 (issiqlik olinadi)",
+    "Q > 0",
+    "Aniqlab bo'lmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

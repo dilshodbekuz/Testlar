@@ -114,23 +114,23 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Agar sigir 15 yil yashaydi va har yili bittadan bolalaydi, u bitta jismoniy umrida qancha bolalaydi?",
+   "savol": "Sigir har yili bittadan bola tug'sa, 5 yilda nechta bola tug'adi?",
    "variantlar": [
     "10 bolasi",
     "5 bolasi",
     "15 bolasi",
     "20 bolasi"
    ],
-   "togri": 2,
+   "togri": 1,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Qo'y oggi bir yilda voyaga yetadi degan so'z nima anglatadi?",
+   "savol": "Qo'zichoq qancha vaqtda voyaga yetadi?",
    "variantlar": [
-    "Qo'y bola har yili bir necha bolalaydi",
-    "Qo'y ot bilan o'ziga bolasi kelib qoladi",
-    "Qo'y bolasi bir yilda o'zining bolalashga tayyorlandi",
-    "Qo'y hech qachon voyaga yetmaydi"
+    "Bir haftada",
+    "Bir oyda",
+    "Bir yilda",
+    "10 yilda"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -138,7 +138,7 @@
   {
    "savol": "Cho'ponlar qanday transportdan foydalanib mol va qo'ylarni yaylovlarda boqadilar?",
    "variantlar": [
-    "Teshik",
+    "Qayiq",
     "Mashina",
     "Piyoda",
     "Ot"
@@ -204,12 +204,12 @@
   {
    "savol": "Qo'chqorlar qancha vaqt bo'rdoqiga boqiladi?",
    "variantlar": [
-    "Bir necha yil",
+    "Bir kun",
     "Umr bo'yi",
     "Bir necha oy",
     "Bitta yil"
    ],
-   "togri": 0,
+   "togri": 2,
    "qiyinlik": "o'rtacha"
   },
   {
@@ -224,12 +224,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Qo'chqor va sigir bolasi turli maqsadda ishlatiladi. Qaysi biri go'shti uchun davlatlashtiriladi?",
+   "savol": "Qo'chqorlar bir necha oy bo'rdoqiga boqilgach, nimaga topshiriladi?",
    "variantlar": [
-    "Qo'chqor",
-    "Sigir bolasi",
-    "Ikkalasi ham bir xil",
-    "Hech biri"
+    "Go'shtga",
+    "Sutga",
+    "Junga",
+    "Poygaga"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -290,7 +290,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Sigirning 15 yilliq hayoti davomida minimal ombor sut hosili qancha bo'ladi?",
+   "savol": "Sigir har kuni 8 litr sut bersa, 15 yilda (har yili 365 kun) jami necha litr sut beradi?",
    "variantlar": [
     "50000 litr",
     "36500 litr",
@@ -301,12 +301,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Qo'y va otlarning hayot muddati turli bo'lsa ham, ularning umumiy xususiyatlari qanday?",
+   "savol": "Qo'y va otdan qanday mahsulotlar olinadi?",
    "variantlar": [
-    "Ikkalasi ham faqat go'shti uchun boqiladi",
-    "Ikkalasi ham har yili bolalaydi",
-    "Hech qanday umumiylik yo'q",
-    "Ikkalasi ham 5 yil yashaydi"
+    "Qo'ydan qimiz, otdan jun",
+    "Qo'ydan go'sht va jun, otdan qimiz",
+    "Ikkalasidan ham faqat tuxum",
+    "Hech narsa olinmaydi"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -327,7 +327,7 @@
    "variantlar": [
     "Hech qanday farqi yo'q",
     "Ikkalasi ham go'shti uchun",
-    "Qorako'l terisining paltoga yengi qilish uchun, Hisor go'sht va yog'i uchun",
+    "Qorako'l terisidan telpak va palto yoqasi tikiladi, hisor go'sht va yog'i uchun boqiladi",
     "Ikkalasi ham juni uchun"
    ],
    "togri": 2,

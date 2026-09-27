@@ -172,7 +172,7 @@ def claude(prompt, model=None):
         # Kirish xatosi esa tejamkor bayroqlardan kelib chiqishi mumkin
         # (ba'zi kompyuterlarda ular saqlangan hisobni ko'rmaydi), shuning
         # uchun bu yerda to'xtamaymiz - avval zaxira yo'lni sinab ko'ramiz.
-    if re.search(r"not logged in|/login|unauthorized|authentication", oxirgi or "", re.I):
+    if re.search(r"not logged in|/login|unauthorized|authenticat|OAuth", oxirgi or "", re.I):
         raise KirishYoq(oxirgi)
     raise ClaudeXato(oxirgi)
 

@@ -6,8 +6,8 @@
   {
    "savol": "Applikatsiya nima?",
    "variantlar": [
-    "Qog'ozni yip bilan birlashtirib yozish",
-    "Keslib, yopishtirib yasaladigan rasm",
+    "Qog'ozni ip bilan tikish",
+    "Qirqib, yopishtirib yasaladigan rasm",
     "Qalam bilan chizish",
     "Raskraska qo'llash"
    ],
@@ -29,7 +29,7 @@
    "savol": "Qog'ozdan applikatsiya yasashda eng muhim material nima?",
    "variantlar": [
     "Qog'oz",
-    "Yip",
+    "Ip",
     "Rang",
     "Qalam"
    ],
@@ -41,7 +41,7 @@
    "variantlar": [
     "Qaychi",
     "Chiziq",
-    "Xurja",
+    "Bolg'a",
     "Qalam"
    ],
    "togri": 0,
@@ -50,9 +50,9 @@
   {
    "savol": "Applikatsiya yasashda qog'ozni yopishtirishda nima ishlatiladi?",
    "variantlar": [
-    "Yip",
-    "Shira",
-    "O'smiq",
+    "Ip",
+    "Yelim (shira)",
+    "Tuz",
     "Rang"
    ],
    "togri": 1,
@@ -61,9 +61,9 @@
   {
    "savol": "Yoz mavzusidagi applikatsiyada qanday natural ko'rinishi turishi mumkin?",
    "variantlar": [
-    "Buzrang",
-    "Kun va issiqlik",
-    "Quyosh va baland o't",
+    "Qorli tog'",
+    "Sariq barglar to'kilishi",
+    "Quyosh va baland o'tlar",
     "Qor bo'roni"
    ],
    "togri": 2,
@@ -96,8 +96,8 @@
    "variantlar": [
     "Ish uchun tozalangan tekis joy",
     "Harorat yuqori bo'lgan joy",
-    "Sigim ko'p bo'lgan katta xona",
-    "Oyog'ini kengaytirish uchun"
+    "Qorong'i xona",
+    "Ko'cha"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -125,12 +125,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Yoz applikatsiyasida baland o't rasmi yasashda qanday rangidan foydalanish kerak?",
+   "savol": "Yoz applikatsiyasida baland o'tni qanday rangli qog'ozdan qirqish kerak?",
    "variantlar": [
-    "Faqat ko'k rang",
-    "Qizil va sariq ranglar",
-    "Faqat qora rang",
-    "Faqat shuvo rang"
+    "Faqat ko'k",
+    "Yashil",
+    "Faqat qora",
+    "Kulrang"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -141,7 +141,7 @@
     "Darhol qog'ozdan olib tashlash",
     "Bir necha vaqt shuning o'zida qoldirish",
     "Fonda yopishtirib qo'yish",
-    "Shira bilan bo'yash"
+    "Yelim bilan bo'yash"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -184,7 +184,7 @@
    "variantlar": [
     "Faqat bitta usul",
     "O'qituvchining exact ishni taqlid qilish",
-    "Shartnoma shartlari",
+    "Hech narsa",
     "Turli variantlar va ijodiy yondashuvlar"
    ],
    "togri": 3,
@@ -194,9 +194,9 @@
    "savol": "Shakllarni yopishtirib qo'yishdan oldin nima tekshirish kerak?",
    "variantlar": [
     "Shakllarning to'g'ri joyda turishi",
-    "Qalam turg'isi",
+    "Qalam qayerdaligi",
     "O'qituvchining ijozati",
-    "Shira qulog'ining stiyi"
+    "Yelimning hidi"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -218,7 +218,7 @@
     "Faqat qora rang",
     "Faqat oq rang",
     "Har qanday rang",
-    "Yozga mos ko'k yoki sachin rang"
+    "Yozga mos havorang yoki och ko'k rang"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -246,9 +246,9 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Yoz applikatsiyasida turli yozlar shakllarning birlashmasida qanday hosil bo'ladi?",
+   "savol": "Yoz applikatsiyasidagi turli shakllar qanday hosil qilinadi?",
    "variantlar": [
-    "Shira sochib bo'yab",
+    "Yelim sepib bo'yab",
     "Faqat qalam bilan",
     "Kesib turli rangdan yopishtirib olingan shakllari kombinatsiyasi bilan",
     "Raskraska qo'llab"
@@ -268,14 +268,14 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Agar quyosh va o't shakllarini yopishtirganimizdra ularni fonda qanday qo'yish kerak?",
+   "savol": "Applikatsiyada quyosh va o't qayerga joylashtiriladi?",
    "variantlar": [
-    "Ikkalasi ham qo'shilgan shaklda",
-    "Fonda quyosh ko'rinadi",
-    "Birorta ham ko'rinmaydi",
-    "Fonda o't ko'rinadi, quyosh ustida"
+    "Quyosh tepada osmonda, o't pastda",
+    "Ikkalasi ham pastda",
+    "O't tepada, quyosh pastda",
+    "Ikkalasi ham chetda"
    ],
-   "togri": 3,
+   "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
@@ -293,8 +293,8 @@
    "savol": "Katta shakllardan kichikgacha yopishtirib qo'yishning asosiy sababi nima?",
    "variantlar": [
     "Shakllarning detallarini yaxshi ko'rish va chidamli bo'lish uchun",
-    "Shunday qo'ldan chiqdi",
-    "Shartnoma shartida shunday yozilgan",
+    "Tasodifan shunday bo'ldi",
+    "Buyruq shunday",
     "Vaqtni o'tkazish uchun"
    ],
    "togri": 0,
@@ -325,7 +325,7 @@
   {
    "savol": "Yoz applikatsiyasini to'liq yasashning jarayoni qanday amalga oshtirilishi kerak?",
    "variantlar": [
-    "Faqat xuloas qilish bilan",
+    "Faqat xulosa qilish bilan",
     "Tasodifiy tartibda",
     "Tez-tezlik bilan, diqqatsizlik bilan",
     "Sekin-sekin, har bir qadamni diqqat bilan bajarish orqali"

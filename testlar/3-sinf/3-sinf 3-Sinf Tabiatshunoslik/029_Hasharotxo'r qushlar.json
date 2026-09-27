@@ -6,10 +6,10 @@
   {
    "savol": "Hasharotxo'r qushlar nima?",
    "variantlar": [
-    "Hasharotlarni yo'q qiluvchi qushlar",
+    "Hasharotlardan qo'rqadigan qushlar",
     "Hasharotlar bilan oziqlanadigan qushlar",
-    "Hasharotlarni traktor qiluvchi qushlar",
-    "Hasharotlarni xar kun tutgan qushlar"
+    "Faqat don yeydigan qushlar",
+    "Faqat suvda yashaydigan qushlar"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -81,14 +81,14 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "99-rasm asosida jiblajibon va so'fito'rg'ay qaysi nomerlar bilan ko'rsatilgan?",
+   "savol": "Qaysi qush bir kunda 200 g chigirtka yeydi?",
    "variantlar": [
-    "2 va 6",
-    "1 va 6",
-    "3 va 4",
-    "4 va 5"
+    "Chittak",
+    "Chug'urchiq",
+    "Kakkuqush",
+    "Jiblajibon"
    ],
-   "togri": 0,
+   "togri": 1,
    "qiyinlik": "oson"
   },
   {
@@ -114,12 +114,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Agar chittak 150g bo'lsa, u bir kunda nechchi gram hasharot yeyadi?",
+   "savol": "Chittak bir kunda o'z og'irligicha hasharot yeydi. Chittak 15 g bo'lsa, bir kunda necha gramm hasharot yeydi?",
    "variantlar": [
-    "200 g",
-    "150 g",
-    "100 g",
-    "250 g"
+    "20 g",
+    "15 g",
+    "10 g",
+    "25 g"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -169,25 +169,25 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Kakkuqush boshqa qushlar nima yemaydi yoki yemayotgan narsalarni yeyadi?",
+   "savol": "Kakkuqush boshqa qushlar yemaydigan qanday qurtlarni yeydi?",
    "variantlar": [
     "Yog'li o'tlar",
     "Chigirtka",
-    "Charalar",
+    "Chuvalchanglar",
     "Tukli qurtlar"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "99-rasm asosida chittak va chug'urchiq qaysi nomerlar bilan ko'rsatilgan?",
+   "savol": "Chittak bir kunda qancha hasharot yeydi?",
    "variantlar": [
-    "2 va 3",
-    "1 va 2",
-    "1 va 3",
-    "3 va 4"
+    "10 dona",
+    "Umuman yemaydi",
+    "1 kg",
+    "O'z og'irligiga teng"
    ],
-   "togri": 2,
+   "togri": 3,
    "qiyinlik": "o'rtacha"
   },
   {
@@ -224,12 +224,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Agar chittak 200g bo'lsa va bir kunda o'z og'irligiga teng hasharot yesa, jiblajibon shu kunda ham 200g hasharot yesa, ikkalasi jami nechchi gram hasharot yeyadi?",
+   "savol": "Chittak 20 g bo'lib, bir kunda o'z og'irligicha hasharot yeydi. U 3 kunda qancha hasharot yeydi?",
    "variantlar": [
-    "400 g",
-    "200 g",
-    "500 g",
-    "300 g"
+    "60 g",
+    "20 g",
+    "40 g",
+    "80 g"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -246,7 +246,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "99-rasmdagi 6 ta qushning umumiy xususiyati nima?",
+   "savol": "Chittak, chug'urchiq, kakkuqush va sassiqpopishakning umumiy xususiyati nima?",
    "variantlar": [
     "Faqat dala da yashaydi",
     "O'tlar yeyadi",
@@ -272,7 +272,7 @@
    "variantlar": [
     "Hech farq yo'q",
     "Faqat chug'urchiq farq qiladi",
-    "Chittak - o'g'irligi miqdori, chug'urchiq - 200g, kakkuqush - 100 tukli qurt",
+    "Chittak – o'z og'irligicha hasharot, chug'urchiq – 200 g chigirtka, kakkuqush – soatiga 100 ta tukli qurt yeydi",
     "Hammasida teng"
    ],
    "togri": 2,
@@ -292,16 +292,16 @@
   {
    "savol": "Agar bir dala zararkunanda va qon so'ruvchi hasharotlar bilan to'la bo'lsa, hasharotxo'r qushlar nima qiladi?",
    "variantlar": [
-    "Ularni yo'q qiladi va ekinga foydali",
+    "Ularni yeb, ekinlarni zararkunandalardan saqlaydi",
     "Ularni oddiygina kuzatadi",
     "Ular hasharotlardan o'zlari zarar ko'radi",
-    "Ularni xetdan olib ketadi"
+    "Ularni boshqa dalaga olib ketadi"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "99-rasmdagi qushlardan qaysilari hasharotlarni har xil joylarda tutib yeyadi?",
+   "savol": "Qaysi qushlar hasharotlarni turli joylardan (ekinlar orasidan, daraxt po'stlog'idan) tutib yeydi?",
    "variantlar": [
     "Jiblajibon va sassiqpopishak",
     "Faqat jiblajibon",
@@ -323,7 +323,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Kakkuqush nima qiladi va boshqa qushlardan nima yo'q qiladi yoki nima yemaydi?",
+   "savol": "Kakkuqushning boshqa qushlardan farqi nima?",
    "variantlar": [
     "Qon so'ruvchini yeyadi va boshqa qushlar yemaydi",
     "Barcha qushlar kabi chigirtka yeyadi",

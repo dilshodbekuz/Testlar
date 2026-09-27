@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "38-§. Elektr xavfsizlik choralari",
+ "savollar": [
+  {
+   "savol": "Inson uchun xavfsiz kuchlanish?",
+   "variantlar": [
+    "42 V dan past",
+    "220 V",
+    "1000 V",
+    "380 V"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Inson uchun xavfli tok kuchi taxminan?",
+   "variantlar": [
+    "0",
+    "0,0001 A",
+    "0,001 A",
+    "0,05 A dan yuqori"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nam qo'l bilan elektr priborga tegish?",
+   "variantlar": [
+    "Xavfsiz",
+    "Xavfli",
+    "Foydali",
+    "Zarar yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr toki urganda birinchi navbatda nima qilinadi?",
+   "variantlar": [
+    "Suv quyish",
+    "Yugurish",
+    "Tarmoqni o'chirish",
+    "Qochish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Simlar izolyatsiyasi buzilgan bo'lsa?",
+   "variantlar": [
+    "Nam qilish",
+    "Ishlatish mumkin emas",
+    "Bog'lash shart emas",
+    "Ishlatish mumkin"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yerga ulash nimadan himoya qiladi?",
+   "variantlar": [
+    "Elektr toki urishidan",
+    "Yong'indan",
+    "Yomg'irdan",
+    "Shamoldan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yonuvchi suyuqliklar yonayotgan elektr priborlarni nima bilan o'chirish kerak?",
+   "variantlar": [
+    "Suv bilan",
+    "Faqat suv",
+    "Suv bilan o'chirib bo'lmaydi",
+    "Har qanday"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yashin paytida elektr priborlarni?",
+   "variantlar": [
+    "Ulanish",
+    "O'chirish tavsiya etiladi",
+    "Ko'paytirish",
+    "Yoqish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr simlarini kim ta'mirlashi kerak?",
+   "variantlar": [
+    "Malakali mutaxassis",
+    "Bolalar",
+    "Har kim",
+    "Qo'shni"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xavfsizlik uchun elektr simlari qanday bo'lishi kerak?",
+   "variantlar": [
+    "Ochiq",
+    "Uzilgan",
+    "Izolyatsiyalangan",
+    "Nam"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Inson tanasining qarshiligi taxminan?",
+   "variantlar": [
+    "0",
+    "10 Om",
+    "1 Om",
+    "1000 Om va undan ko'p"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quruq teri qarshiligi nam terinikidan?",
+   "variantlar": [
+    "Teng",
+    "Kichik",
+    "Nol",
+    "Katta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Inson tanasidan I = 0,05 A tok o'tsa, kuchlanish (R = 1000 Om)?",
+   "variantlar": [
+    "0,05 V",
+    "1050 V",
+    "20 000 V",
+    "50 V"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yerga ulangan korpus nima uchun xavfsiz?",
+   "variantlar": [
+    "Yorug'lik",
+    "Tovush",
+    "Issiqlik",
+    "Korpusga o'tgan zaryad yerga oqadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Elektr toki urganida jabrlanuvchini simdan ajratishda nimadan foydalanish kerak?",
+   "variantlar": [
+    "Metall tayoq",
+    "Nam mato",
+    "Qo'l bilan",
+    "Quruq yog'och (izolyator)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bolalar elektr rozetkaga nimalarni tiqmasligi kerak?",
+   "variantlar": [
+    "Qog'ozni",
+    "Vilkani",
+    "Hech narsa emas",
+    "Metall buyumlarni"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Elektr xavfsizligi qoidalariga ko'ra, kalit qaysi simda bo'lishi kerak?",
+   "variantlar": [
+    "Nolda",
+    "Ikkalasida",
+    "Fazada",
+    "Yerda"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Uzilib tushgan yuqori kuchlanishli simga yaqin borish?",
+   "variantlar": [
+    "Zarar yo'q",
+    "Xavfsiz",
+    "Xavfli (qadam kuchlanishi)",
+    "Foydali"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qadam kuchlanishi nima?",
+   "variantlar": [
+    "Lampa",
+    "Batareya",
+    "Yer bo'ylab ikki oyoq orasida hosil bo'ladigan kuchlanish",
+    "Kalit"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Elektr priborni tarmoqdan uzishdan oldin nima qilinadi?",
+   "variantlar": [
+    "Simdan tortiladi",
+    "Kalit bilan o'chiriladi",
+    "Suvga tashlanadi",
+    "Yoqiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "R = 1500 Om (inson), U = 220 V. Tok?",
+   "variantlar": [
+    "≈ 6,8 A",
+    "≈ 0,147 A",
+    "330 A",
+    "1720 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi tok insonga qanday?",
+   "variantlar": [
+    "Xavfsiz",
+    "Foydali",
+    "O'ta xavfli (o'lim xavfi)",
+    "Sezilmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nam xonada xavfsiz kuchlanish qanday?",
+   "variantlar": [
+    "380 V",
+    "12 V gacha",
+    "220 V",
+    "1000 V"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun yuqori kuchlanishli simlarda qushlar tok urmaydi (bitta simda)?",
+   "variantlar": [
+    "Oyoqlari orasida potensial farq juda kichik",
+    "Xavfli",
+    "Izolyatsiyalangan",
+    "Yengil"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Avtomobilga yashin urganda odamlar nega xavfsiz?",
+   "variantlar": [
+    "Xavf yo'q",
+    "Tezlik",
+    "Metall kuzov Faradey qafasi",
+    "Shinalar"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ochiq maydonda yashin paytida eng yaxshi holat?",
+   "variantlar": [
+    "Past joyda cho'nqayib turish",
+    "Suvga tushish",
+    "Yugurish",
+    "Daraxtga suyanish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektr toki urganida yurak to'xtasa nima qilish kerak?",
+   "variantlar": [
+    "Sun'iy nafas va yurak massaji, tez yordam",
+    "Hech narsa",
+    "Kutish",
+    "Suv ichirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun elektr simlariga xavfsiz masofada yaqinlashish kerak?",
+   "variantlar": [
+    "Sababsiz",
+    "Yuqori kuchlanishda havo orqali tok o'tishi mumkin",
+    "Sovuq uchun",
+    "Yorug'lik uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Metall korpusli priborni yerga ulamaslik nimaga olib keladi?",
+   "variantlar": [
+    "Tovush",
+    "Hech narsa",
+    "Quvvat oshadi",
+    "Izolyatsiya buzilsa korpusda kuchlanish paydo bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rezina qo'lqop nima uchun ishlatiladi?",
+   "variantlar": [
+    "Isitish uchun",
+    "Izolyator sifatida",
+    "Yorug'lik uchun",
+    "Chiroy uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

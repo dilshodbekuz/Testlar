@@ -62,8 +62,8 @@
    "savol": "O'rnini tartibga keltirish nima demakdir?",
    "variantlar": [
     "O'rnini ko'chirish",
-    "O'rniga otin yoygirish",
-    "O'rnini o'zimiz ko'p ishlatgan narsalarni yig'ish",
+    "O'rinda o'ynash",
+    "O'rin-ko'rpani yig'ishtirib, joyiga qo'yish",
     "O'rnini tamirlash"
    ],
    "togri": 2,
@@ -249,9 +249,9 @@
    "savol": "Kun tartibini to'g'ri bajara olmasa, o'quvchiga nima sodir bo'ladi?",
    "variantlar": [
     "Faqat maktabda muammo",
-    "Faqat uygada muammo",
+    "Faqat uyda muammo",
     "Hech narsa sodir bo'lmaydi",
-    "Maktabda va uygada muammo"
+    "Maktabda ham, uyda ham muammo"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -301,34 +301,34 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Kun tartibida uyqu va uyqudan uyg'onish orasida nechta asosiy ish bo'ladi?",
+   "savol": "Kun tartibiga rioya qilish bolani qanday odatga o'rgatadi?",
    "variantlar": [
-    "14-15 ta",
-    "10-11 ta",
-    "8-9 ta",
-    "12-13 ta"
+    "Dangasalikka",
+    "Intizom va tartiblilikka",
+    "Kechikishga",
+    "Vaqtni behuda o'tkazishga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Davron ishlarni to'g'ri tartibda bajarsa, nima bo'ladi?",
+   "variantlar": [
+    "Maktabga kechikadi",
+    "Hech narsa o'zgarmaydi",
+    "Ko'proq charchaydi",
+    "Maktabga ozoda va o'z vaqtida tayyor bo'ladi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Davronning xatosini to'g'rilasa, maktabga borishga tayyor bo'lish uchun zaxira vaqt ko'payadi yoki kamayadi?",
+   "savol": "Kun tartibi nima uchun kerak?",
    "variantlar": [
-    "Vaqt aniqlanmaydi",
-    "Vaqtga ta'sir ko'rsatmaydi",
-    "Vaqt ko'payadi, kambagal tayyor bo'ladi",
-    "Vaqt kemayadi, tezroq tayyor bo'ladi"
-   ],
-   "togri": 0,
-   "qiyinlik": "qiyin"
-  },
-  {
-   "savol": "Kun tartibini bajarishning eng muhim qismi nima?",
-   "variantlar": [
-    "Ertalabki tayyorlanish va uy ishlariga yordamlashish",
-    "Dars tayyorlash",
-    "Maktabga borish",
-    "Dam olish"
+    "Vaqtni to'g'ri taqsimlab, hamma ishni o'z vaqtida bajarish uchun",
+    "Ko'proq televizor ko'rish uchun",
+    "Maktabga bormaslik uchun",
+    "Faqat o'ynash uchun"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"

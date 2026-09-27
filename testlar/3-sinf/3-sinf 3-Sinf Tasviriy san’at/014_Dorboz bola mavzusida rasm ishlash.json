@@ -28,7 +28,7 @@
   {
    "savol": "Dorbozlar arqon ustida o'yin ko'rsatayotganda qanday narsadan foydalanadilar?",
    "variantlar": [
-    "Shami",
+    "Sham",
     "Langarcho'p",
     "Qamchi",
     "Tayoq"
@@ -51,8 +51,8 @@
    "savol": "Dorbozlar qaysi shakllarda harakat bajaradilar?",
    "variantlar": [
     "Faqat yugurish",
-    "Faqat skanslash",
-    "Faqat yurishish",
+    "Faqat sakrash",
+    "Faqat yurish",
     "Yugurish va sakrash"
    ],
    "togri": 3,
@@ -61,9 +61,9 @@
   {
    "savol": "Dorbozlar ko'zini qanday holda o'yin ko'rsatadilar?",
    "variantlar": [
-    "Cho'ndan qarab",
+    "Orqasiga qarab",
     "Bir ko'zni bog'lab",
-    "Ochiq ko'zda masala yo'q",
+    "Ko'zi ochiq, hech narsasiz",
     "Ko'zni bog'lab"
    ],
    "togri": 3,
@@ -75,7 +75,7 @@
     "Xaltacha",
     "Taqiya",
     "Qalpoq",
-    "Tavush"
+    "Toj"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -86,7 +86,7 @@
     "Otalarning",
     "Bolalarning",
     "Raqqoslarning",
-    "Ochildarning"
+    "Uchuvchilarning"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -116,7 +116,7 @@
   {
    "savol": "Dorbozlar oyoqlariga qanday narsalar bog'laydillar?",
    "variantlar": [
-    "Pabootlar",
+    "Poyabzallar",
     "Pichoq yoki patnis",
     "Zanjirlar",
     "Soxta oyoqlar"
@@ -127,7 +127,7 @@
   {
    "savol": "Rasm ishlashning birinchi bosqichi qanday?",
    "variantlar": [
-    "Shunga yozyish",
+    "Nom yozish",
     "Tasvirni qog'ozga joylashtirish",
     "Ranglash",
     "Qalamda xomaki ishlash"
@@ -163,7 +163,7 @@
     "To'q ranglarda ishlov berish",
     "Qalamda xomaki ishlash",
     "Och ranglarda ishlash",
-    "Oyna uchun tayyorlash"
+    "Ramkaga solish"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -195,16 +195,16 @@
    "variantlar": [
     "Rasm turlari",
     "Dorbozlik san'atining turi",
-    "Bolalarning o'yni",
+    "Bolalar o'yini",
     "Ranglarni aralash usuli"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "O'rgatilgan yonoatlar dorbozlik san'atida qanday ishlatiladi?",
+   "savol": "O'rgatilgan hayvonlar dor o'yinlarida qanday ishtirok etadi?",
    "variantlar": [
-    "Musiqaga raqsadilar",
+    "Ular faqat qarab turadi",
     "Faqat dekorasiya sifatida",
     "Shunchaki tashqarida turadi",
     "Ayiq, ilon, maymun larning o'yinlari olib boriladi"
@@ -237,9 +237,9 @@
   {
    "savol": "Nega dorbozlar ko'zni bog'lab arqon ustida o'yin ko'rsatadilar deb o'ylaysiz?",
    "variantlar": [
-    "Chunki ko'z yumgani achishi kerak",
+    "Chunki ko'zi og'riydi",
     "Ko'zni bog'lash qiyinlik va mahirlilikni ko'rsatadi",
-    "Chunki ko'zlaridan ayt",
+    "Chunki quyosh ko'zni qamashtiradi",
     "Chunki bu qoida bo'lsa kerak"
    ],
    "togri": 1,
@@ -257,9 +257,9 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Rasm ishlashida och va to'q ranglarni nima uchun alohida-alohida ishlatadi?",
+   "savol": "Rasm ishlashda nima uchun avval och, keyin to'q ranglar ishlatiladi?",
    "variantlar": [
-    "Chunki och ranglar pas planda, to'q ranglar old planda turadi",
+    "Avval och ranglar bilan umumiy bo'yaladi, keyin to'q ranglar bilan soya va hajm beriladi",
     "Chunki ular har xil qiymatga ega",
     "Chunki och ranglar faqat ochiq joylarda ishlatiladi",
     "Chunki har bir rang o'z o'chmasda ishlatiladigani kerak"
@@ -273,7 +273,7 @@
     "Faqat bolalarning o'yinlari",
     "Faqat rasm bilimi",
     "Faqat musika bilimi",
-    "Arqonlashish, balans, jismoniy kuch va san'ati bilimni birlashtirish"
+    "Muvozanat, jismoniy kuch va san'at bilimini birlashtirish"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -316,7 +316,7 @@
    "variantlar": [
     "Faqat arqonlashish",
     "Raqqos, qiziqchi, askiyachi chiqishlari va turli sirk turlari birlashtiriladilar",
-    "Faqat rangli poyabezing",
+    "Faqat rangli poyabzal",
     "Faqat eski san'atlar"
    ],
    "togri": 1,

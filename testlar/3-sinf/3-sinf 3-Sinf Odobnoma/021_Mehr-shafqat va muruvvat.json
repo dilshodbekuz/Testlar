@@ -7,9 +7,9 @@
    "savol": "Mehr-shafqat va muruvvat nima?",
    "variantlar": [
     "Davlatga soliq to'lash",
-    "Xalqimiz qadrlay boylangan fazilatlar",
+    "Xalqimiz qadrlab kelgan fazilatlar",
     "Shaxsiy mulk sotilib berish",
-    "Hali-hol uzun muddatli kelishuvlar"
+    "Uzoq muddatli shartnomalar"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -17,7 +17,7 @@
   {
    "savol": "Luqmon hikoyasida Luqmon kimdir?",
    "variantlar": [
-    "Hayvonlarni uchang beruvchi",
+    "Hayvon sotuvchi",
     "Savdogarning do'sti",
     "Davlatning vaziri",
     "Hamisha birovlarga yaxshilik qiladigan odam"
@@ -39,10 +39,10 @@
   {
    "savol": "Dinimiz insonlarni nima bo'lishga da'vat etadi?",
    "variantlar": [
-    "Hamma vaqt chola bo'lishga",
-    "Birlashib bo'lishga",
+    "Yolg'iz bo'lishga",
+    "Kuchli bo'lishga",
     "Faqat boy bo'lishga",
-    "Mehr-muruv vatli, shafqatli bo'lishga"
+    "Mehr-muruvvatli, shafqatli bo'lishga"
    ],
    "togri": 3,
    "qiyinlik": "oson"
@@ -59,18 +59,18 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Mehr ko'rsatish uchun qanday bo'lish shart emas?",
+   "savol": "Mehr ko'rsatish uchun nima shart emas?",
    "variantlar": [
     "Qalb halol bo'lish",
     "Yaxshi fikrlash",
     "Boy yoki kuchli bo'lish",
-    "Solikka nisbatan o'yin"
+    "Yaxshi niyatli bo'lish"
    ],
    "togri": 2,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Hayvonlardan nima bilib olish mumkin?",
+   "savol": "Hayvonlarga munosabatidan nimani bilib olish mumkin?",
    "variantlar": [
     "Davlatning qonunlarini",
     "Kitoblarni o'qish qoidalarini",
@@ -94,10 +94,10 @@
   {
    "savol": "Savdogar Luqmonga nima uchun kelgan?",
    "variantlar": [
-    "Dost bo'lish uchun",
+    "Do'st bo'lish uchun",
     "Qarz so'rash uchun",
     "Hayvonlarni sotish uchun",
-    "Savdo savlamani o'qish uchun"
+    "Kitob so'rash uchun"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -105,9 +105,9 @@
   {
    "savol": "Luqmon savdogarning qo'liga nima tutqazdi?",
    "variantlar": [
-    "Maktab sertifikati",
+    "Xat",
     "Hayvon",
-    "Pul to'ladi haltasi",
+    "Pul to'la xalta",
     "Kitob"
    ],
    "togri": 2,
@@ -147,12 +147,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Luqmonning o'g'li nega otasiga savol bergan?",
+   "savol": "Luqmonning o'g'li nega otasiga savol berdi?",
    "variantlar": [
     "Luqmon noto'g'ri qaror qabul qilganiga o'xshagan",
-    "Pul yo'qolmaguncha oylagan",
+    "Pulni o'zi olmoqchi edi",
     "Savdogar yangi shahardan edi",
-    "Savdogar notanish odam edi va tonib ketishi mumkin edi"
+    "Savdogar notanish odam edi, qarzdan tonib ketishi mumkin edi"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -160,10 +160,10 @@
   {
    "savol": "Matnda 'Mo'min' so'zi nima ma'noda ishlatilgan?",
    "variantlar": [
-    "Davlatning raisida",
-    "Vaqtin savarsi",
+    "Davlat raisi",
+    "Vaqtinchalik mehmon",
     "Diniy shaxs",
-    "Dini insan"
+    "Imonli inson"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -173,7 +173,7 @@
    "variantlar": [
     "Uyidan bir xalta pul chiqarib olgan",
     "Qarz shartnomasi yozgan",
-    "Savdogarni testga olgan",
+    "Savdogarni sinovdan o'tkazgan",
     "O'g'liga odam haqida gapirgan"
    ],
    "togri": 0,
@@ -195,19 +195,19 @@
    "variantlar": [
     "Tunda qayerga borish kerak",
     "Uydan necha pul talab qilish kerak",
-    "Pul bilan qanday baholash kerak",
-    "Insonlarni iloji boricha yordamlash"
+    "Pulni qanday baholash kerak",
+    "Insonlarga iloji boricha yordam berish"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Savdogarning holati qanday yomon bo'lgan?",
+   "savol": "Savdogarning ahvoli nima uchun yomonlashgan edi?",
    "variantlar": [
-    "Har doim yomon",
+    "Har doim yomon edi",
     "Ayrim sabablarga koʻra ishim orqaga ketdi",
     "Faqat qisqa vaqt",
-    "Balki odam bo'lgandan beri"
+    "Tug'ilganidan beri kambag'al edi"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -224,14 +224,14 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Nima uchun Luqmon o'g'liga savdogar nomasi aytilmagan?",
+   "savol": "Luqmon notanish savdogarga nima uchun yordam berdi?",
    "variantlar": [
-    "Yaxshilik va muruvvat barcha inson uchun bir xil",
-    "Savdogar ayni vaqtda nomini o'zgartirngan",
-    "Sabab matnda yoʻq",
-    "Luqmon unutgan"
+    "Savdogar unga pul bergani uchun",
+    "Muhtojga yaxshilik qilish uning odati bo'lgani uchun",
+    "O'g'li buyurgani uchun",
+    "Savdogar qarindoshi bo'lgani uchun"
    ],
-   "togri": 0,
+   "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
@@ -240,7 +240,7 @@
     "Savdogarning holati va yardamning zaruriyati",
     "Faqat o'zining manfaati",
     "Pul qaytmasligi kafolatida",
-    "Hechni o'ylagan emas"
+    "Hech narsani o'ylamagan"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
@@ -260,8 +260,8 @@
    "savol": "Matnda 'insofga keladi' so'zlari nima ifoda qiladi?",
    "variantlar": [
     "Uyga qaytadi",
-    "Savda ko'payadi",
-    "O'ziga keladi, aql yana qaytadi",
+    "Savdosi ko'payadi",
+    "Vijdoni uyg'onib, to'g'ri yo'lga qaytadi",
     "Shunga qaytadi"
    ],
    "togri": 2,
@@ -270,9 +270,9 @@
   {
    "savol": "Luqmon o'g'li otasining javobidan qanday bilib oldi?",
    "variantlar": [
-    "Savdo qilib ko'p pul yo'q",
+    "Savdo qilib ko'p pul topiladi",
     "Pul qiymati yuqori",
-    "Yaxshilik doimo oqibatining hamdami emas",
+    "Yaxshilik unutiladi",
     "Yaxshilik ko'ngilida va xotirada qoladi"
    ],
    "togri": 3,
@@ -284,7 +284,7 @@
     "Savdogarni boshqa vaqtda to'lash kerak",
     "Yaxshilik insonlar xotirasida abadiy qoladi",
     "Yaxshilik doimo mukofotga ega",
-    "Pul qaytarish kelsagina"
+    "Pul albatta qaytadi"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -293,7 +293,7 @@
    "savol": "Luqmon o'g'li shunchaki pulning yo'qolishiga emas, nima haqida fikrlaydi?",
    "variantlar": [
     "Savdogar bekorga keldi",
-    "Birovning notanish bo'lishi va ishonchni buzishi",
+    "Notanish odam qarzni qaytarmasligi mumkinligi haqida",
     "Ota-onaning qaroriga shubha qilish",
     "O'ziga pul kerak edi"
    ],
@@ -303,10 +303,10 @@
   {
    "savol": "Matnning khulosasiga ko'ra, mehr-shafqat asosan nima?",
    "variantlar": [
-    "Vaqtincha va mo'ljal narsadir",
-    "Ko'z uchun ko'ringan berish",
-    "Qalb va harakatlarning murakkab holi",
-    "Faqat boy va kuchli insonlarining vazifasi"
+    "Vaqtinchalik narsa",
+    "Faqat ko'z-ko'z uchun qilinadigan ish",
+    "Qalbdan chiqadigan va amalda ko'rinadigan ezgulik",
+    "Faqat boy va kuchlilarning vazifasi"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -314,10 +314,10 @@
   {
    "savol": "Ushbu hikoyada Luqmonning eng asosiy dars nima edi?",
    "variantlar": [
-    "Yaxshilik qilish va u hisobida qayta kutmaslik, lekin boshqalarning o'ziga qilgan yaxshiligini qadr-qimmat qilish",
+    "Yaxshilik qilib, evaziga hech narsa kutmaslik",
     "Har doim hayron bo'lish",
-    "Pul to'lashni bevosita kutmaslik",
-    "Faqat pul qiynilasini"
+    "Faqat boylarga yordam berish",
+    "Hech kimga ishonmaslik"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"

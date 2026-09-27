@@ -70,12 +70,12 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Piyolaning sirtini qanday rangga bo'yanadi?",
+   "savol": "Quritilgan piyola nima bilan bo'yaladi?",
    "variantlar": [
-    "Ko'k rangga",
-    "Qizil rangga",
-    "Oq rangga",
-    "Sariq rangga"
+    "Guash bo'yoq bilan",
+    "Suv bilan",
+    "Yog' bilan",
+    "Tuz bilan"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -141,7 +141,7 @@
     "Hech narsa o'zgarib ketmaydi",
     "Piyola kuchli bo'ladi",
     "Naqsh yaxshi chiziladi",
-    "Piyola to'la qurimaydi va susta bo'ladi"
+    "Piyola yaxshi qurimaydi va bo'sh bo'ladi"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -149,7 +149,7 @@
   {
    "savol": "Pape-mashe usulida 6-7 marta qavat qo'llash nima uchun zarur?",
    "variantlar": [
-    "Piyolani etarlicha mustahkam va saoat qilish uchun",
+    "Piyolani yetarlicha mustahkam va chiroyli qilish uchun",
     "Piyolani kattalashtiristish uchun",
     "Piyolani tezda quritish uchun",
     "Naqshni yaxshi chizish uchun"
@@ -180,18 +180,18 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Agar piyolaning birinchi qavatida suvga bottirilgan qog'oz o'zidagi namlik piyolada to'ppoladi, bunday holat qanday oldini olunadi?",
+   "savol": "Birinchi qavat nima uchun faqat suv bilan yopishtiriladi?",
    "variantlar": [
-    "Piyolani tezda quritish kerak",
-    "Piyolani rangga bo'yanadi",
-    "Piyolaning sirtiga moy surtilaadi",
-    "Ikkinchi qavatda yelim qo'llash kerak"
+    "Qog'oz piyolaga yopishib qolmasligi uchun",
+    "Piyola rangli bo'lishi uchun",
+    "Piyola tez qurishi uchun",
+    "Naqsh chizish uchun"
    ],
-   "togri": 3,
+   "togri": 0,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Pape-mashe piyolasi tayyorlash jarayonida piyola necha marta suv bilan ishlatilaadi?",
+   "savol": "Qog'oz bo'laklari qaysi qavatda faqat suv bilan yopishtiriladi?",
    "variantlar": [
     "Birinchi qavatda va keyin quritishda",
     "Quritish va rangga bo'yash vaqtida",
@@ -235,12 +235,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Pape-mashe usulida piyola tayyorlashda birinchi qavatda suv va ikkinchi qavatda yelim ishlatilib, bu holatni 6-7 marta takrorlash jarayoni qanday tasiriga ta'sir qiladi?",
+   "savol": "Qatlamlarni ko'p marta takrorlash nimaga olib keladi?",
    "variantlar": [
-    "Naqsh elementlarining tutashishi",
-    "Rangning to'ppolashi",
-    "Piyolaning sirtini tekis qilish",
-    "Qog'oz tolalariga suv o'tishi va yelim bilan bog'lanishi"
+    "Naqsh tutashadi",
+    "Rang to'kiladi",
+    "Piyola sirti notekis bo'ladi",
+    "Piyola qalin va mustahkam bo'ladi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -250,7 +250,7 @@
    "variantlar": [
     "Naqsh yirtiladi, sababi quritish tezligi",
     "Piyola o'zgarib ketadi, sababi temperaturing o'zgarishi",
-    "Piyola susta va sil bo'ladi, sababi suv to'la chiqib ketmaydi",
+    "Piyola bo'sh va nam qoladi, chunki suv to'la chiqib ketmaydi",
     "Piyola kuchli bo'ladi, sababi suvning tezda bug'lanishi"
    ],
    "togri": 2,
@@ -261,7 +261,7 @@
    "variantlar": [
     "Piyolaning sirtiga rang yaxshi yopiladi",
     "Naqsh yaxshi chiziladi",
-    "Qog'oz bo'laklari piyoladagi ketma-ketlikda yopishtirilib, quritilgandan keyin osonlik bilan piyoladan chiqarilib olindi",
+    "Quritilgandan keyin pape-mashe piyoladan oson ajraladi",
     "Piyola rang beradi"
    ],
    "togri": 2,
@@ -272,7 +272,7 @@
    "variantlar": [
     "Qog'oz bo'laklari rangga bo'yalishi",
     "Qog'oz bo'laklari kesib tashlanishi",
-    "Qog'oz bo'laklari bir-biriga bo'yin-bo'yin tutashtirilishi, qavatlari yanglishib ketishdan saqlash uchun",
+    "Qog'oz bo'laklari bir-birining ustiga chiqarib yopishtiriladi, qavatlar siljimasligi uchun",
     "Qog'oz bo'laklari suvga botirilishi"
    ],
    "togri": 2,
@@ -282,7 +282,7 @@
    "savol": "Pape-mashe piyolasida qog'oz bo'laklarini yelim bilan tekis qilib yopishtirish nima sababdan muhim?",
    "variantlar": [
     "Yelim qog'ozni suv ko'rinishiga keltiradi",
-    "Yelim qog'ozni piyolaga mustahkam biriktiradi va piyola sirtini tekis hamda saoat qiladi",
+    "Yelim qog'ozni piyolaga mustahkam biriktiradi va sirtini silliq qiladi",
     "Yelim piyolaning sirtini rang qiladi",
     "Yelim naqshni bezaydi"
    ],

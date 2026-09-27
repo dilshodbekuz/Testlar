@@ -1,0 +1,337 @@
+{
+ "sinf": "4-sinf",
+ "kitob": "4-sinf 4-Sinf Tabiatshunoslik",
+ "mavzu": "Yer yuzi tabiatining xilma-xilligi",
+ "savollar": [
+  {
+   "savol": "Ufq nima?",
+   "variantlar": [
+    "Quyoshning botishi joyi",
+    "Yer yuzining eng yuqori nuqtasi",
+    "Osmon gumbazining Yer yuzi bilan tutashib, aylana chiziq bilan chegaralangandek ko'rinadigan qismi",
+    "Osmonning bo'lagi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ufqning nechta asosiy tomonlari bor?",
+   "variantlar": [
+    "4 ta",
+    "2 ta",
+    "5 ta",
+    "3 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyosh chiqadigan tomon qanday nomlanadi?",
+   "variantlar": [
+    "G'arb",
+    "Shimol",
+    "Janub",
+    "Sharq"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shimol tomonini qisqacha qanday belgilanadi?",
+   "variantlar": [
+    "J",
+    "Sh",
+    "G'",
+    "Shq"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qutb yulduzi Yerning qaysi qutbi ustida joylashgan?",
+   "variantlar": [
+    "Janubiy qutbi",
+    "Sharqiy qutbi",
+    "G'arbiy qutbi",
+    "Shimoliy qutbi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qutb yulduzini topish uchun qanday shaklni hosil qiladigan yulduzlar qidiriladi?",
+   "variantlar": [
+    "Doira",
+    "Kvadrat",
+    "Uchburchak",
+    "Cho'mich"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Daraxt shoxlari ko'p, zich va nisbatan yo'g'on bo'lgan tomon qaysi?",
+   "variantlar": [
+    "Shimol",
+    "Janub",
+    "Sharq",
+    "G'arb"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kompas nima?",
+   "variantlar": [
+    "Kuzatish asbobidir",
+    "Chizish asbobidir",
+    "Ufq tomonlarini aniqlash uchun maxsus asbobidir",
+    "O'lchash asbobidir"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kompasda havorangli ko'rsatkichi qanday tomonni ko'rsatadi?",
+   "variantlar": [
+    "Shimoln",
+    "Sharqni",
+    "G'arbni",
+    "Janubni"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Daraxt to'nkasining kesilgan joyidagi halqalar orasi kengroq bo'lgan tomon qaysi?",
+   "variantlar": [
+    "Shimol",
+    "Sharq",
+    "G'arb",
+    "Janub"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar Quyosh chiqadigan tomonni sharq deb aniqladim, u holda orqa tomonim qaysi tomon bo'ladi?",
+   "variantlar": [
+    "G'arb",
+    "Sharq",
+    "Janub",
+    "Shimol"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar yuzingiz shimolga qarab turgan bo'lsa, o'ng tomoningiz qaysi tomon bo'ladi?",
+   "variantlar": [
+    "G'arb",
+    "Shimol",
+    "Sharq",
+    "Janub"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ufq tomonlarini Qutb yulduziga qarab aniqlash uchun qanday paytda qilish mumkin?",
+   "variantlar": [
+    "Quyosh botayotgan vaqtda",
+    "Tunda",
+    "Kunduzi",
+    "Quyosh chiqayotgan vaqtda"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Daraxt shoхlarini ko'zdan kechirganingizda shoxlar kam va siyrak bo'lgan tomon qaysi?",
+   "variantlar": [
+    "G'arb",
+    "Sharq",
+    "Shimol",
+    "Janub"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kompasni to'g'ri foydalanish uchun shimol belgisi qaysi ko'rsatkichiga to'g'rilashi kerak?",
+   "variantlar": [
+    "Yashil ko'rsatkichi",
+    "Havorangli ko'rsatkichi",
+    "Qizil ko'rsatkichi",
+    "Oq ko'rsatkichi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bulut bo'lib Quyosh ko'rinmasa, ufq tomonlarini qanday aniqlash mumkin?",
+   "variantlar": [
+    "Mahalliy belgilarga qarab",
+    "Faqat Qutb yulduziga qarab",
+    "Hech qanday usul bilan aniqlash mumkin emas",
+    "Faqat kompas bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar yuzingiz janubga qarab turgan bo'lsa, chap tomoningiz qaysi tomon bo'ladi?",
+   "variantlar": [
+    "Sharq",
+    "Shimol",
+    "Janub",
+    "G'arb"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qutb yulduzi Yerning aylanishida nimaga sabab bir joyda qolamadi?",
+   "variantlar": [
+    "Sayyora uni tortib ketadi",
+    "Yerning aylanish o'qi ustida bo'lgani uchun",
+    "Yer siqilib ketadi",
+    "Quyosh uni olib ketadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Cho'mich shaklini hosil qiladigan yulduzlar nechta?",
+   "variantlar": [
+    "5 ta",
+    "6 ta",
+    "8 ta",
+    "7 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kompasda sharq tomonini qanday belgi bilan belgilangan?",
+   "variantlar": [
+    "S",
+    "N",
+    "W",
+    "E"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar siz maktabingizning shimol tomonida turib, o'ng tomoningizda dukoni ko'rgan bo'lsangiz, dukoni qaysi tomon?",
+   "variantlar": [
+    "Janub",
+    "Sharq",
+    "Shimol",
+    "G'arb"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kompas bilan ufq tomonlarini aniqlayotganingizda, qizil ko'rsatkichi qaysi belgiga to'g'rilandi?",
+   "variantlar": [
+    "E belgisiga",
+    "W belgisiga",
+    "S belgisiga",
+    "N belgisiga"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar daraxt to'nkasining kesilgan joyidagi halqalari orasi zich bo'lgan tomoni shimol ekanligini bilsangiz, halqalari orasi kengroq bo'lgan tomon qaysi?",
+   "variantlar": [
+    "Shimol",
+    "Tushunib bo'lmaydi",
+    "Sharq",
+    "Janub"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Siz bir xil paytda Quyoshga qarab va Qutb yulduziga qarab yuzingizni qo'llab tursangiz, har ikkala shaklda ham yuzingiz qaysi tomonga qarashi kerak?",
+   "variantlar": [
+    "Shimolga",
+    "Sharqqa",
+    "G'arbga",
+    "Janubga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar uyingiz Qutb yulduziga qarab yuzingizni qilib joylashgan bo'lsa, o'ng qo'lingiz ko'rsatib turgan tomon qaysi?",
+   "variantlar": [
+    "Shimol",
+    "Janub",
+    "G'arb",
+    "Sharq"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Daraxt shoxlarini sinchkovlik bilan ko'zdan kechirganingizda, shimoliy tomonning shoxlari siyrak bo'lsa, janubiy tomonning shoxlari qanday bo'ladi?",
+   "variantlar": [
+    "O'rtacha",
+    "Ko'p, zich va nisbatan yo'g'on",
+    "Kam va siyrak",
+    "Juda kam"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tunda Qutb yulduziga qarab ufq tomonlarini aniqlayotganingizda, birinchi qadamda nima qilishingiz kerak?",
+   "variantlar": [
+    "Kompasni chiqarib olmoq",
+    "Cho'mich shaklini yoddada saqlamoq",
+    "Shimol tomonni aniqlamoq",
+    "Cho'mich shaklini hosil qiladigan 7 ta yulduzlarni topmoq"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar Quyosh botayotgan tomonni g'arb deb aniqlasangiz, o'ng qo'lingiz ko'rsatib turgan tomon qaysi?",
+   "variantlar": [
+    "G'arb",
+    "Shimol",
+    "Janub",
+    "Sharq"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kompasni foydalanayotganingizda murvatini tortkandan keyin ko'rsatkichlar tebranib qolsa, qanday qilish kerak?",
+   "variantlar": [
+    "Ko'rsatkichlar tuguniga qadar kutmoq",
+    "Kompasni toki topping",
+    "Kompasni qaytasiga qo'ymoq",
+    "Darhol foydalanmoq"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Siz dunyoning turli joylarida turib qaralmasin, Qutb yulduzi qaysi tomonni ko'rsatib turadi?",
+   "variantlar": [
+    "Faqat sharqni",
+    "Faqat janubni",
+    "Doimo shimoln",
+    "Turgan joyga qarab o'zgaradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

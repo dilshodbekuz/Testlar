@@ -39,10 +39,10 @@
   {
    "savol": "Buvisining qanday narsalarini eshitadi Nodir?",
    "variantlar": [
-    "Dastuurlarni",
+    "Dasturlarni",
     "Shikoyatlarni",
     "Maqollari, qo'shiq va ertaklarini",
-    "Qaydalari"
+    "Hisob-kitoblarni"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -51,9 +51,9 @@
    "savol": "Yo'lda Nodir va Zokir kimni ko'rib qolishdi?",
    "variantlar": [
     "Sumka ko'tarib ketgan kampir",
-    "Bobo-bubisini",
+    "Bobo-buvisini",
     "Maktab direktori",
-    "Qo'ng'g'iroq ko'tarib ketgan shaxs"
+    "Politsiyachini"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -62,8 +62,8 @@
    "savol": "Kampir nima ko'tarib ketayotgan edi?",
    "variantlar": [
     "Sumka",
-    "Xum",
-    "Dara'xt",
+    "Suv",
+    "Daraxt",
     "Kitoblar"
    ],
    "togri": 0,
@@ -81,7 +81,7 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Nodir kampirni yordam berishdan kim bilan edi?",
+   "savol": "Kampirni ko'rganda Nodir kim bilan birga edi?",
    "variantlar": [
     "Zokir",
     "Bobosini",
@@ -92,23 +92,23 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Bobosi Nodir yelkasiga nima qildi?",
+   "savol": "Bobosi Nodirning yelkasini nima qildi?",
    "variantlar": [
-    "Xijolab qo'ydi",
-    "Tagga qo'ydi",
-    "Qoqib dua qildi",
+    "Silkitdi",
+    "Qo'l tegizmadi",
+    "Qoqib duo qildi",
     "Urdi"
    ],
    "togri": 2,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Bobosi 'Barakalla' deyish nima anglatadi?",
+   "savol": "Bobosining \"Barakalla\" deyishi nimani anglatadi?",
    "variantlar": [
-    "Baraka bersin, yaxshi ekan",
-    "Xunuksizdim",
-    "Xairon qoldim",
-    "Tashakkur"
+    "Baraka topgur, yaxshi ish qilding",
+    "Xafa bo'ldim",
+    "Hayron qoldim",
+    "Xayr"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -117,7 +117,7 @@
    "savol": "Nodir va Zokir o'rtasidagi eng muhim farq nima?",
    "variantlar": [
     "Ularning baholari",
-    "Nodir yaxshi, Zokir yomon",
+    "Nodir katta, Zokir kichik",
     "Nodir insoniy, Zokir o'ziga qaraydi",
     "Ularning yoshlari"
    ],
@@ -125,23 +125,23 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Bobosi Nodir uchun dua berishdagi sababi nima edi?",
+   "savol": "Bobosi Nodirga nima sababdan duo qildi?",
    "variantlar": [
-    "Nodir yaxshi o'quvchi",
-    "Nodir bayromda",
-    "Nodir kampirni yordam berdi",
-    "Nodir qayin qo'shin"
+    "Nodir yaxshi o'qigani",
+    "Nodir bayramda sovg'a olgani",
+    "Nodir kampirga yordam bergani",
+    "Nodir sportda g'olib bo'lgani"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "'Oltin olma, duo ol' so'zlarida nima tushunilmoqda?",
+   "savol": "\"Oltin olma, duo ol\" so'zlarida nima tushuniladi?",
    "variantlar": [
-    "Qoy satish",
-    "Haqiqiy olma satish",
-    "Yaxshi ish uchun duoning mukofoti",
-    "Bozorni o'tish"
+    "Oltin to'plash kerak",
+    "Olma sotib olish foydali",
+    "Yaxshi ish qilib duo olish oltindan qimmat",
+    "Bozordan olma olish kerak"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -152,24 +152,24 @@
     "Yo'lda o'ynadi",
     "Dars tayorlanmoqchi edi",
     "Kampirga yordam berdi",
-    "Maktabdan oqq qoldi"
+    "Maktabda qoldirildi"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Bobosi va buvisi Nodir uchun nima bemaloli dua qildi?",
+   "savol": "Matnga ko'ra, eng qimmatli mukofot nima?",
    "variantlar": [
     "Keksalarning duosi",
-    "Sal bersin",
-    "Toj bersin",
-    "Pul bersin"
+    "Oltin",
+    "Toj",
+    "Pul"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Zokir qanday so'z bilan Nodir taklifi raddiy qildi?",
+   "savol": "Zokir Nodirning taklifini qanday so'z bilan rad etdi?",
    "variantlar": [
     "'Yo'q, bugun emas'",
     "'Yo'q, keyin bilamiz'",
@@ -191,10 +191,10 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Nodir kampirni yordamdan qo'y qilmagan sababi?",
+   "savol": "Nodir kampirga yordam berishdan nega bosh tortmadi?",
    "variantlar": [
-    "Mamlakatni qutqarish uchun",
-    "Shoxini ko'rib oraxa qoldi",
+    "Maqtov olish uchun",
+    "Pul olish uchun",
     "Insoniy qadriyatlar va hamdardlik",
     "O'z oilasiga yordam berish uchun"
    ],
@@ -207,7 +207,7 @@
     "Unga dars berishdi",
     "Xushnodilik bildirdi va qoqib dua qildi",
     "Undan so'rashi boshlab qo'ydi",
-    "Unga jaza berdi"
+    "Unga jazo berdi"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -215,21 +215,21 @@
   {
    "savol": "Matnda 'Barakalla' so'zi nima uchun ishlatiladi?",
    "variantlar": [
-    "Xunuklik",
-    "Shukron va dua",
+    "So'kish",
+    "Maqtov va duo",
     "Jaza",
-    "Xunuk"
+    "Qo'rqitish"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Nodir qanday xislatlari uni to'g'ri yo'lga o'rnatganini ko'rsatadi?",
+   "savol": "Nodirning qaysi xislatlari uni to'g'ri yo'lga boshladi?",
    "variantlar": [
-    "Qorqu va hijola",
-    "Zo'rkung va sabrsizlik",
+    "Qo'rquv va uyat",
+    "Qo'pollik va sabrsizlik",
     "Hamdardlik va mas'uliyat",
-    "Tinchlik va behuda"
+    "Dangasalik va befarqlik"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -237,9 +237,9 @@
   {
    "savol": "Bobosi va buvisining Nodir uchun 'Keksalarning duosi' degani nimani anglatadi?",
    "variantlar": [
-    "Ulg'aning oilada yashash",
-    "Haqiqiy keksa yig'ish",
-    "Bazarda keksa sotish",
+    "Ular oilada eng katta ekani",
+    "Keksalar ko'p ekani",
+    "Keksalar hech narsa bilmasligi",
     "Ularning duolari Nodir uchun eng qadrli mukofot"
    ],
    "togri": 3,
@@ -250,41 +250,41 @@
    "variantlar": [
     "Shaxsiy qadriyat va mas'uliyat",
     "Maktab ta'limida",
-    "Turmush farovatiga",
+    "Turmush farovonligida",
     "Oilaning ta'sirida"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Nega Nodir bobosi va buvisi bilan vaqtini sevib yotadi?",
+   "savol": "Nodir nega bobosi va buvisi bilan vaqt o'tkazishni yaxshi ko'radi?",
    "variantlar": [
-    "Vaqtning o'tganini sezmaydi",
-    "Uning mashg'ulotlari",
-    "Tovar satuvchi bo'ladi",
-    "Ular bilan o'yin o'ynashdan"
+    "Ular bilan qiziqarli suhbatda vaqt qanday o'tganini sezmaydi",
+    "Ular unga pul beradi",
+    "Ular bilan faqat televizor ko'radi",
+    "Uyda boshqa hech kim yo'q"
    ],
    "togri": 0,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Kampir uchun Nodir nima bergan bo'ldi?",
+   "savol": "Nodir kampirga qanday yordam berdi?",
    "variantlar": [
-    "Kitob",
-    "Sumka",
-    "Pul",
-    "Hamdardlik va o'z vaqti"
+    "Kitob berdi",
+    "Sumkasini ko'tarib borishga yordamlashdi",
+    "Pul berdi",
+    "Taksi chaqirdi"
    ],
-   "togri": 3,
+   "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Matnda 'Barakalla, bolam' deyish asosida Nodir uchun bu nima bo'ldi?",
+   "savol": "Bobosining \"Barakalla, bolam\" deyishi Nodir uchun nima bo'ldi?",
    "variantlar": [
-    "Jaza",
-    "Tadbir",
-    "Behay shukron",
-    "Duoning eng yuqori shakli"
+    "Jazo",
+    "Tanbeh",
+    "Befarqlik",
+    "Maqtov va duo"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -305,30 +305,30 @@
    "variantlar": [
     "Pul istamoqchi bo'ldi",
     "Yaxshi ishning mukofoti duodir",
-    "Olma satishni",
-    "Bozorni o'tishni"
+    "Olma sotishni",
+    "Bozorga borishni"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Nodir kampirni yordam berishga qaror qabul qilgandagi ichki sababi?",
+   "savol": "Nodir kampirga yordam berishga nima sababdan qaror qildi?",
    "variantlar": [
-    "Maktabdan kuch",
-    "Bobosining shuquloti",
-    "Maktab tamoyili",
-    "Insoniy qalb va compassion"
+    "Maktab buyrug'i",
+    "Bobosining qo'rquvi",
+    "Maktab qoidasi",
+    "Mehribon, insoniy qalbi"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Nega Nodir uchun ushbu hodisaniyat muhim ekanini ko'rish mumkin?",
+   "savol": "Bu voqea Nodir uchun nima uchun muhim?",
    "variantlar": [
-    "Bobo-bubisining duodan batafsil tark",
-    "Yaxshi ishing mukofoti duodir va insoniy qadriyatlar",
-    "Uning maktab darsida",
-    "Yo'lda yurish"
+    "Bobosi uni urishgani uchun",
+    "Yaxshi ishning mukofoti duo ekanini angladi",
+    "Maktab darsiga kech qolgani uchun",
+    "Yo'lda yurgani uchun"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"

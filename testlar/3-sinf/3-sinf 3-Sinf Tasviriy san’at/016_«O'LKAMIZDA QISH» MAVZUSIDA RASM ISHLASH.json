@@ -29,7 +29,7 @@
    "savol": "Daraxtlar nima bilan qoplangan?",
    "variantlar": [
     "Qor bilan",
-    "Sang bilan",
+    "Loy bilan",
     "Shamol bilan",
     "Tutun bilan"
    ],
@@ -96,8 +96,8 @@
    "variantlar": [
     "Bargli va changali",
     "Yaproqsiz va qor qoplagan",
-    "Buloq bo'lib olti",
-    "Gulkash va yashil"
+    "Gullagan",
+    "Yashil barglar bilan"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -173,7 +173,7 @@
    "variantlar": [
     "Oq va tinch",
     "Juda ochiq va yorug'",
-    "Xirotod va to'q zangori",
+    "Xira va to'q zangori",
     "Rangli va quyoshli"
    ],
    "togri": 2,
@@ -194,8 +194,8 @@
    "savol": "Ayoz derazalarga \"g'aroyib naqshlar\" chizgani bu kim?",
    "variantlar": [
     "Rassomning hunari",
-    "Tabiaty tabqasi va kuchining ishlari",
-    "Bolalaring ishlari",
+    "Tabiatning — ayozning ishi",
+    "Bolalarning ishi",
     "Maktab o'qituvchisining mehnasi"
    ],
    "togri": 1,
@@ -226,10 +226,10 @@
   {
    "savol": "Qish manzarasidagi \"zarrin nurlar\", \"oppoq qor\" va \"to'q osmon\" - bu tasvir qanday tushuncha beradi?",
    "variantlar": [
-    "Qushlarning tumshugi",
+    "Qushlarning tumshug'ini",
     "Qishning qora tomonini",
-    "Tabiaty go'zallik va tinchligini",
-    "Qishning xofligi"
+    "Tabiatning go'zalligi va sokinligini",
+    "Qishning xavfliligini"
    ],
    "togri": 2,
    "qiyinlik": "qiyin"
@@ -249,9 +249,9 @@
    "savol": "Daraxtlar, uy mo'rilaridan tutun, dalalardagi qarg'alar - rasmda qaysi qismlarda joylanishi kerak?",
    "variantlar": [
     "Faqat chap tarafda",
-    "Faqat qora tarafda",
+    "Faqat pastda",
     "Faqat o'ng tarafda",
-    "Asmonda, o'rtada va fonida turli donada"
+    "Osmonda, o'rtada va fonda turli joylarda"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -259,7 +259,7 @@
   {
    "savol": "Rasm chizayotgan bolaning \"tutun uchirilmoqda, shamol esayotgan, qarg'alar qo'nim topgan\" holatlari - dinamika va chuqurlik nimaning orqali yaratiladi?",
    "variantlar": [
-    "Faqat shekl ko'ziga tushishi",
+    "Faqat shaklning ko'rinishi",
     "Chiziq va rangning o'zgarishi",
     "Harakatning ifodalanishi va elemento nisbatining to'g'ri joylanishi",
     "Faqat rang o'zgarishi"
@@ -281,7 +281,7 @@
   {
    "savol": "Matn \"Ertalabki quyosh\" bilan boshlanib \"Osmon to'q zangori\" bilan tugashi - rasmda nima ko'rsatadi?",
    "variantlar": [
-    "Nur va qoraliq orasidagi kontrastni, qishning qara tabiatini",
+    "Nur va to'q osmon o'rtasidagi kontrastni",
     "Shamol o'zgarishi",
     "Faqat rang o'zgarishi",
     "Daraxtlarning o'zgarishi"
@@ -301,7 +301,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Rasm chizishda daraxtlar, uylar, qorg'alardagi qarg'alar - ularning o'lcham nisbati qanday bo'lishi kerak?",
+   "savol": "Rasm chizishda daraxtlar, uylar va dalalardagi qarg'alarning o'lcham nisbati qanday bo'lishi kerak?",
    "variantlar": [
     "Daraxtlar eng katta, qarg'alar eng kichik - masshtab usuli",
     "Qarg'alar eng katta",
@@ -314,10 +314,10 @@
   {
    "savol": "Kuchsiz quyosh, oppoq qor, sovuq shamol va to'q osmon - matan butunida qish haqida qanday umumiy tasavvur yaratadi?",
    "variantlar": [
-    "Qish hangum va iliq",
+    "Qish issiq va iliq",
     "Qish juda yashil va ravshan",
     "Qish har kuni yorug' va sokin",
-    "Qish sovuq, qora rangda qiralashgan, yasash va tiriklik qiyin"
+    "Qish sovuq va qattiq, lekin o'ziga xos go'zal"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"
@@ -326,7 +326,7 @@
    "savol": "\"Ertalabki quyosh\", \"daraxtlar oppoq to'n\", \"uylar tutun\", \"osmon to'q zangori\" - rassom bu barchani rasmda ifodalashda qaysi usuldan foydalanishi kerak?",
    "variantlar": [
     "Faqat shakl va hajm",
-    "Rang, chiziq, dinamika va tavsirlarni to'g'ri kombinatsiyalashta",
+    "Rang, chiziq va harakatni to'g'ri uyg'unlashtirish",
     "Faqat ranglar",
     "Faqat qora chiziqlar"
    ],

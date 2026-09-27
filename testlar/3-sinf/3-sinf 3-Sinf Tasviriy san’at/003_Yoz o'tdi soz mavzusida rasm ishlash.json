@@ -9,7 +9,7 @@
     "Tog'da",
     "Shaharning markazida",
     "Bog'da",
-    "Qo'lda"
+    "Cho'lda"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -31,7 +31,7 @@
     "Shaharni markaziga",
     "Fabrikalar yoniga",
     "Tog'li maskanlarga, bog'lar va suv havzalariga yaqin joyga",
-    "Sayyorani orqasiga"
+    "Zavod yoniga"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -61,10 +61,10 @@
   {
    "savol": "Narsalar uzoqlashgan sari ularning ranglari qanday bo'ladi?",
    "variantlar": [
-    "Xiralashib boradimi",
-    "Qora bo'lib boradimi",
-    "Yorqinlashib boradimi",
-    "Rangisiz bo'lib boradimi"
+    "Xiralashib boradi",
+    "Qorayib boradi",
+    "Yorqinlashib boradi",
+    "Rangsiz bo'lib qoladi"
    ],
    "togri": 0,
    "qiyinlik": "oson"
@@ -83,7 +83,7 @@
   {
    "savol": "\"Yoz o'tdi soz\" mavzusida rasm ishlashda nima asosiy zarur?",
    "variantlar": [
-    "Nol va qalamni",
+    "Faqat o'chirg'ichni",
     "Faqat qalamni",
     "Yozgi taassuroti va kuzatgan rasmlarni",
     "Faqat og'ir ranglarni"
@@ -105,10 +105,10 @@
   {
    "savol": "Yozda odamlar soya-salqin joylarni pand ko'rishining sababida qanday?",
    "variantlar": [
-    "Suyuq issiq bo'ladi",
+    "Suv issiq bo'ladi",
     "Issiqdan qutilish uchun",
     "Hech narsa yo'q",
-    "Shunda daraxlar tez o'sadi"
+    "Daraxtlar tez o'sadi"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -138,7 +138,7 @@
   {
    "savol": "Agar \"Bizning bog'\" mavzusida rasm ishlasa, qaysi elementlarni ichiga olish kerak?",
    "variantlar": [
-    "Daraxlar, o't-o'simliklar, mebel kabi narsalarni",
+    "Daraxtlar, gullar, o't-o'simliklar",
     "Faqat odamlarni",
     "Faqat daraxlarni",
     "Faqat suv havzasini"
@@ -191,12 +191,12 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "\"Tog'li ko'l\" rasmi mavzu bilan nima sababli mos keladimi?",
+   "savol": "\"Tog'li ko'l\" rasmi mavzuga nima uchun mos keladi?",
    "variantlar": [
-    "Faqat katta",
+    "Faqat katta bo'lgani uchun",
     "Yozgi taassuroti va tog'li maskanlari tasvirlagani uchun",
-    "Qo'lgan rang uchun",
-    "Rahb rasmi ekaniga"
+    "Qora rangi uchun",
+    "Qishki rasm bo'lgani uchun"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -235,14 +235,14 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Agar tasvirda tog' va suv havzasi bo'lsa, kuzatish qoidasiga ko'ra qaysi element yaqin ko'rinishi kerak?",
+   "savol": "Kuzatish qoidasiga ko'ra yaqindagi narsa rasmda qanday tasvirlanadi?",
    "variantlar": [
-    "Boshqa",
-    "Tog' bo'lishi kerak",
-    "Teng ko'rinishi kerak",
-    "Suv havzasi bo'lishi kerak"
+    "Kichikroq va xiraroq",
+    "Kattaroq va yorqinroq",
+    "Ko'rinmaydi",
+    "Uzoqdagisi bilan bir xil"
    ],
-   "togri": 3,
+   "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
@@ -281,7 +281,7 @@
   {
    "savol": "\"Bizning bog'\" mavzusida ishlashda \"Yoz o'tdi soz\" mavzusidan nima foydalanish mumkin?",
    "variantlar": [
-    "Hiech nima",
+    "Hech nima",
     "Faqat rang tanlashni",
     "Yozgi taassuroti va rasm ishlash bosqichlarini",
     "Faqat tog' tasvirini"

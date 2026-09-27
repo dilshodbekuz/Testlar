@@ -30,7 +30,7 @@
    "variantlar": [
     "Rasm chizish san'ati",
     "Hajmli ifodalarni yaratish san'ati",
-    "Tasnifot san'ati",
+    "Kiyim tikish san'ati",
     "Musiqiy san'at"
    ],
    "togri": 1,
@@ -41,21 +41,21 @@
    "variantlar": [
     "Ovda fojia bo'lgan",
     "Kiyik tutish haqida",
-    "Nasriddin Afandi o'q otish haqida qiynoqlangan",
+    "Afandining o'q otishi haqida",
     "Podsho haqida"
    ],
    "togri": 2,
    "qiyinlik": "oson"
   },
   {
-   "savol": "Nasriddin Afandi hayotda yashab o'tganmi?",
+   "savol": "Darslikka ko'ra Nasriddin Afandi kim?",
    "variantlar": [
-    "Malum emas",
-    "Ha, u hali tirikdir",
-    "Ha, oldindan yashagan",
-    "Yo'q, u afsonaviy qahramondir"
+    "Tarixiy podsho",
+    "Afsonaviy xalq qahramoni",
+    "Haykaltarosh",
+    "Rassom"
    ],
-   "togri": 3,
+   "togri": 1,
    "qiyinlik": "oson"
   },
   {
@@ -92,9 +92,9 @@
    "qiyinlik": "oson"
   },
   {
-   "savol": "Latifalar qayerdagi ijodning asosi?",
+   "savol": "Latifalar qaysi ijodning namunasi?",
    "variantlar": [
-    "Xarej ijodi",
+    "Xorij ijodi",
     "Zamonaviy ijodi",
     "Og'zaki ijodi",
     "Kitob ijodi"
@@ -108,7 +108,7 @@
     "Ular dushman",
     "Afandi va eshagi birga lavhalar ishtirokida qatnashadi",
     "Eshak Afandiga qul",
-    "Ular do'st"
+    "Ular hech qachon birga tasvirlanmaydi"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -117,7 +117,7 @@
    "savol": "Haykal asosiga qanday narsalar olinadi?",
    "variantlar": [
     "Latifalar va lavhalar",
-    "Faqat xoyal",
+    "Faqat xayol",
     "Faqat hikoya",
     "Faqat tasavvur"
    ],
@@ -136,14 +136,14 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "\"Afandi mergan\" latifasidan Nasriddin Afandi qanday xususiyati kelib chiqadi?",
+   "savol": "«Afandi mergan» latifasida Afandining qaysi xususiyati ko'rinadi?",
    "variantlar": [
-    "U joni ehtiyotkordir",
-    "U sodiq do'st",
-    "U joni bohir",
-    "U o'zini maqtanib, aslida kamtardir"
+    "Qo'rqoqligi",
+    "Hozirjavobligi va zukkoligi",
+    "Dangasaligi",
+    "Ochko'zligi"
    ],
-   "togri": 3,
+   "togri": 1,
    "qiyinlik": "o'rtacha"
   },
   {
@@ -152,7 +152,7 @@
     "Faqat fotosuratlar",
     "Faqat tabiatni ko'rish",
     "Pedagogik kitoblar",
-    "Xalqning ijodiy meroqlaridan kelib chiqish"
+    "Xalqning ijodiy merosidan kelib chiqish"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -162,8 +162,8 @@
    "variantlar": [
     "Ular bir xil",
     "Ularning farqi yo'q",
-    "Eshak haykali oson, Nasriddin Afandi haykali qiynroq",
-    "Nasriddin Afandi haykali oson, eshak haykali qiynroq"
+    "Eshak haykali oson, Nasriddin Afandi haykali qiyinroq",
+    "Nasriddin Afandi haykali oson, eshak haykali qiyinroq"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -248,7 +248,7 @@
   {
    "savol": "Nasriddin Afandi afsonaviy qahramonning ko'p dunyoda mashhur bo'lishining asosiy sababi qanday?",
    "variantlar": [
-    "Xalqning latifalarida uning aqli, xiras sezgishligi va xumori o'z ifodasi topgan",
+    "Xalq latifalarida uning aqli, zukkoligi va hazili o'z ifodasini topgan",
     "Faqat maktabda o'qitiladi",
     "U biron qilmish qilgan",
     "U biron shahzoda edi"
@@ -268,12 +268,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "\"Afandi mergan\" latifasida Nasriddin Afandi podsho va vazirning xatolarini qanday yumshaltiraydi?",
+   "savol": "«Afandi mergan» latifasida Afandi xato otgan o'qlarini qanday oqladi?",
    "variantlar": [
-    "Ularni haqorat qiladi",
-    "O'z xatolarini ularga siljitib o'zni sodiq va aql-paranda deb ko'rsatadi",
-    "Ularga pul beradi",
-    "Ularni beshttanadi"
+    "Podshoni haqorat qildi",
+    "Xatolarini hazil bilan boshqalarga to'nkab, o'zini mergan qilib ko'rsatdi",
+    "Podshoga pul berdi",
+    "Yig'lab yubordi"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -312,11 +312,11 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "\"Afandi mergan\" latifasining mana va badastura eng muhim tomonini aniqlab, u asosida haykal tuzish jarayonini tushuntiring.",
+   "savol": "«Afandi mergan» latifasi asosida haykal tuzishda nimaga e'tibor berish kerak?",
    "variantlar": [
     "Faqat Afandi",
     "Butun hodisaning ironiyadagi mazmunini tushunib, Afandi va eshak, Afandi va podsho, Afandi va vazir o'rtasidagi munosabatlarni shakllarida ifodalash",
-    "Faqat o'q",
+    "Faqat o'qqa",
     "Faqat oxirgi o'q otishi"
    ],
    "togri": 1,

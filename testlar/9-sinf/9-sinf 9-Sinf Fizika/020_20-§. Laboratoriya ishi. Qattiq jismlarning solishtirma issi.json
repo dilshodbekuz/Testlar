@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "20-§. Laboratoriya ishi. Qattiq jismlarning solishtirma issiqlik sig'imini aniqlash",
+ "savollar": [
+  {
+   "savol": "Ishning maqsadi nima?",
+   "variantlar": [
+    "Qattiq jismning solishtirma issiqlik sig'imini aniqlash",
+    "Massani o'lchash",
+    "Bosimni o'lchash",
+    "Tezlikni o'lchash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Solishtirma issiqlik sig'imi formulasi?",
+   "variantlar": [
+    "c = Qm Δt",
+    "c = mΔt / Q",
+    "c = Q + mΔt",
+    "c = Q / (mΔt)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda qattiq jismni nima bilan isitishadi?",
+   "variantlar": [
+    "Sovuq suvda",
+    "Muzda",
+    "Qaynoq suvda",
+    "Havoda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kalorimetrga nima solinadi?",
+   "variantlar": [
+    "Tosh",
+    "Moy",
+    "Sovuq suv",
+    "Havo"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda qaysi asboblar kerak?",
+   "variantlar": [
+    "Dinamometr",
+    "Chizg'ich",
+    "Voltmetr",
+    "Kalorimetr, termometr, tarozi, qaynoq suv"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Massa qaysi asbobda o'lchanadi?",
+   "variantlar": [
+    "Termometr",
+    "Manometr",
+    "Tarozi",
+    "Dinamometr"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Temperatura qaysi asbobda o'lchanadi?",
+   "variantlar": [
+    "Manometr",
+    "Tarozi",
+    "Termometr",
+    "Dinamometr"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jism qanday temperaturagacha isitiladi?",
+   "variantlar": [
+    "−10 °C",
+    "0 °C",
+    "Qaynoq suv temperaturasigacha (≈ 100 °C)",
+    "20 °C"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Natijalar qayerga yoziladi?",
+   "variantlar": [
+    "Tarozi",
+    "Kalorimetrga",
+    "Termometrga",
+    "Jadvalga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda jism qaysi holatda bo'lishi kerak?",
+   "variantlar": [
+    "Qattiq",
+    "Suyuq",
+    "Gaz",
+    "Plazma"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jism m = 0,2 kg, 100 °C. Suv m = 0,2 kg, 20 °C, muvozanat t = 30 °C. c_jism = ? (c_suv = 4200)",
+   "variantlar": [
+    "≈ 42",
+    "≈ 600 J/(kg·°C)",
+    "≈ 60",
+    "≈ 6000"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Q_suv = c_s m_s (t − t₂) formulasi?",
+   "variantlar": [
+    "Jism olgan",
+    "Suv olgan issiqlik",
+    "Suv bergan issiqlik",
+    "Kalorimetr"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Q_jism = c m (t₁ − t) formulasi?",
+   "variantlar": [
+    "Suv bergan",
+    "Jism olgan",
+    "Jism bergan issiqlik",
+    "Kalorimetr"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi tenglamalardan c ni topish uchun nima tenglashtiriladi?",
+   "variantlar": [
+    "m = c",
+    "Q_jism = Q_suv",
+    "Q_jism = 0",
+    "t = t₁"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Xatolikka sabab bo'ladigan holat?",
+   "variantlar": [
+    "Tez ish",
+    "Jismni suvga tushirishda issiq suv olib kelish",
+    "Toza suv",
+    "Massa aniq"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Suv massasi 0,1 kg, t₂ = 18 °C, t = 26 °C, Q_suv = ?",
+   "variantlar": [
+    "3360 J",
+    "33 600 J",
+    "336 J",
+    "4200 J"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jism massasi 0,15 kg, 100 °C dan 26 °C gacha. Q_jism = 3360 J bo'lsa c?",
+   "variantlar": [
+    "≈ 22",
+    "≈ 3030",
+    "≈ 303 J/(kg·°C)",
+    "≈ 30"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jadvaldagi mis c = 380. Tajriba natijasi 400 bo'lsa nisbiy farq?",
+   "variantlar": [
+    "≈ 20 %",
+    "≈ 5 %",
+    "≈ 0,5 %",
+    "≈ 50 %"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tajribani takrorlash nimaga imkon beradi?",
+   "variantlar": [
+    "Vaqt o'tkazish",
+    "Aniqlikni oshirish",
+    "Sovitish",
+    "Massa o'zgartirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jism suvda to'liq botishi kerakmi?",
+   "variantlar": [
+    "Yo'q",
+    "Ba'zan",
+    "Farqi yo'q",
+    "Ha"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jism c = 500, m = 0,3 kg, 100 °C; suv 0,3 kg, 20 °C. Muvozanat t ≈ ?",
+   "variantlar": [
+    "≈ 60 °C",
+    "≈ 100 °C",
+    "≈ 20 °C",
+    "≈ 28,5 °C"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jism 0,25 kg, 100 °C; suv 0,3 kg, 20 °C; t = 27 °C. c ≈ ?",
+   "variantlar": [
+    "≈ 4200",
+    "≈ 4830",
+    "≈ 483 J/(kg·°C)",
+    "≈ 48"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Suv massasi ortsa (t o'zgarmas) hisoblangan c?",
+   "variantlar": [
+    "O'zgarmasligi kerak",
+    "Nol",
+    "Ortadi",
+    "Kamayadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kalorimetrning issiqlik sig'imi hisobga olinmasa c?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Nol",
+    "Cheksiz",
+    "Bir oz kattaroq/kichikroq chiqishi mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jism 60 g, 100 °C. 200 g 20 °C suvda t = 24 °C. c ≈ ?",
+   "variantlar": [
+    "≈ 7360",
+    "≈ 4200",
+    "≈ 736 J/(kg·°C)",
+    "≈ 73"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jism suvga tushirilgunga qadar sovuq suvda t o'zgarmasligi kerak. Nima uchun?",
+   "variantlar": [
+    "Boshlang'ich temperatura aniq ma'lum bo'lishi uchun",
+    "Sovuq",
+    "Massa",
+    "Chiroy"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kalorimetr termometr ko'rsatishi 26,0 °C bo'lsa, xatolik chegarasi 0,5 °C. Δt = 26,0 − 18,0 = 8 °C. Nisbiy xatolik ≈ ?",
+   "variantlar": [
+    "≈ 12,5 % (2·0,5/8)",
+    "≈ 0,5 %",
+    "≈ 50 %",
+    "≈ 1 %"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir xil massali mis va alyuminiy jismlar bir xil suvga tushirilsa, qaysi biri suvni ko'proq isitadi?",
+   "variantlar": [
+    "Aniqlab bo'lmaydi",
+    "Mis",
+    "Alyuminiy (c katta)",
+    "Teng"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishda solishtirma issiqlik sig'imi birligi?",
+   "variantlar": [
+    "J/(kg·°C)",
+    "°C",
+    "kg",
+    "J"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Massa 2 marta ortsa (boshqa kattaliklar bir xil) c formulasida c?",
+   "variantlar": [
+    "2 marta kamayadi (Q bir xil)",
+    "O'zgarmaydi",
+    "Nol",
+    "2 marta ortadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

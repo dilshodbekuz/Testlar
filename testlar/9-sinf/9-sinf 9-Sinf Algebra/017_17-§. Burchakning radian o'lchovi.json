@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Algebra",
+ "mavzu": "17-§. Burchakning radian o'lchovi",
+ "savollar": [
+  {
+   "savol": "Burchakning radian o'lchovi nima?",
+   "variantlar": [
+    "Yuza",
+    "Gradus",
+    "Uzunlik",
+    "Yoy uzunligining radiusga nisbati"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 radian nima?",
+   "variantlar": [
+    "360°",
+    "1°",
+    "Uzunligi radiusga teng yoyni tortuvchi markaziy burchak",
+    "180°"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "π radian necha gradus?",
+   "variantlar": [
+    "90°",
+    "360°",
+    "180°",
+    "60°"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "2π radian necha gradus?",
+   "variantlar": [
+    "360°",
+    "720°",
+    "180°",
+    "90°"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "π/2 radian necha gradus?",
+   "variantlar": [
+    "45°",
+    "60°",
+    "180°",
+    "90°"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "π/4 radian necha gradus?",
+   "variantlar": [
+    "45°",
+    "90°",
+    "30°",
+    "60°"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "π/3 radian necha gradus?",
+   "variantlar": [
+    "90°",
+    "45°",
+    "60°",
+    "30°"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "π/6 radian necha gradus?",
+   "variantlar": [
+    "60°",
+    "45°",
+    "30°",
+    "90°"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "90° necha radian?",
+   "variantlar": [
+    "π/4",
+    "π/2",
+    "π",
+    "2π"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "180° necha radian?",
+   "variantlar": [
+    "π/4",
+    "π",
+    "π/2",
+    "2π"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "60° necha radian?",
+   "variantlar": [
+    "π/3",
+    "π/6",
+    "π/2",
+    "2π/3"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "30° necha radian?",
+   "variantlar": [
+    "π/4",
+    "π/6",
+    "π/2",
+    "π/3"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "45° necha radian?",
+   "variantlar": [
+    "π/2",
+    "π/6",
+    "π/3",
+    "π/4"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "120° necha radian?",
+   "variantlar": [
+    "π/3",
+    "π/2",
+    "2π/3",
+    "3π/4"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "135° necha radian?",
+   "variantlar": [
+    "5π/6",
+    "3π/4",
+    "2π/3",
+    "π/4"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "150° necha radian?",
+   "variantlar": [
+    "2π/3",
+    "5π/6",
+    "3π/4",
+    "π/6"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "270° necha radian?",
+   "variantlar": [
+    "π",
+    "3π/2",
+    "2π",
+    "π/2"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2π/3 radian necha gradus?",
+   "variantlar": [
+    "150°",
+    "120°",
+    "90°",
+    "60°"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "5π/6 radian necha gradus?",
+   "variantlar": [
+    "150°",
+    "120°",
+    "135°",
+    "30°"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 radian taxminan necha gradus?",
+   "variantlar": [
+    "≈ 57,3°",
+    "≈ 30°",
+    "≈ 90°",
+    "≈ 180°"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yoy uzunligi l = α · R. R = 5 sm, α = 2 rad. l = ?",
+   "variantlar": [
+    "5 sm",
+    "2,5 sm",
+    "10 sm",
+    "7 sm"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "l = 12 sm, R = 4 sm. α = ?",
+   "variantlar": [
+    "48 rad",
+    "8 rad",
+    "0,33 rad",
+    "3 rad"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "α = π/3, R = 6 sm. l = ?",
+   "variantlar": [
+    "π sm",
+    "6π sm",
+    "3π sm",
+    "2π sm"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Doira yoyi 60° markaziy burchakka mos, R = 3. l = ?",
+   "variantlar": [
+    "π/3",
+    "3π",
+    "2π",
+    "π"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sektor yuzi S = αR²/2. α = 2, R = 3. S = ?",
+   "variantlar": [
+    "18",
+    "6",
+    "9",
+    "3"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3π/4 rad necha gradus?",
+   "variantlar": [
+    "120°",
+    "90°",
+    "135°",
+    "150°"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "7π/6 rad necha gradus?",
+   "variantlar": [
+    "240°",
+    "180°",
+    "150°",
+    "210°"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "210° necha radian?",
+   "variantlar": [
+    "5π/4",
+    "5π/6",
+    "7π/6",
+    "7π/4"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1° necha radian?",
+   "variantlar": [
+    "1/π",
+    "π/180",
+    "180/π",
+    "π/360"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1,5π rad necha gradus?",
+   "variantlar": [
+    "270°",
+    "240°",
+    "300°",
+    "180°"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

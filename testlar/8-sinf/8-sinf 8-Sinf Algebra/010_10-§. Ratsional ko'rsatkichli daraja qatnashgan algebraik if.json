@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Algebra",
+ "mavzu": "10-§. Ratsional ko'rsatkichli daraja qatnashgan algebraik ifodalarni soddalashtirish",
+ "savollar": [
+  {
+   "savol": "a³ · a² = ?",
+   "variantlar": [
+    "2a⁵",
+    "a⁵",
+    "a⁶",
+    "a¹"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a⁶ : a² = ?",
+   "variantlar": [
+    "a⁸",
+    "a³",
+    "a¹²",
+    "a⁴"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(a²)³ = ?",
+   "variantlar": [
+    "a⁵",
+    "3a²",
+    "a⁸",
+    "a⁶"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x⁻¹ = ?",
+   "variantlar": [
+    "−x",
+    "0",
+    "1/x",
+    "x"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a⁰ · a = ? (a ≠ 0)",
+   "variantlar": [
+    "a",
+    "0",
+    "a²",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(ab)² = ?",
+   "variantlar": [
+    "2ab",
+    "ab²",
+    "a²b²",
+    "a²b"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x^(1/2) · x^(1/2) = ?",
+   "variantlar": [
+    "1",
+    "x",
+    "x²",
+    "x^(1/4)"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a⁻² · a² = ? (a ≠ 0)",
+   "variantlar": [
+    "1",
+    "0",
+    "a",
+    "a⁻⁴"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(2x)³ = ?",
+   "variantlar": [
+    "8x",
+    "8x³",
+    "6x³",
+    "2x³"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a^(3) : a^(3) = ? (a ≠ 0)",
+   "variantlar": [
+    "1",
+    "a",
+    "a⁶",
+    "0"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a^(2/3) · a^(1/3) = ?",
+   "variantlar": [
+    "a",
+    "a^(1/3)",
+    "a²",
+    "a^(2/9)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a^(3/4) : a^(1/4) = ?",
+   "variantlar": [
+    "a^(3/16)",
+    "a^(1/2)",
+    "a",
+    "a⁴"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(x⁻²)⁻¹ = ?",
+   "variantlar": [
+    "x⁻³",
+    "x²",
+    "x³",
+    "x⁻²"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(a^(1/2) b^(1/2))² = ?",
+   "variantlar": [
+    "ab",
+    "a²b²",
+    "a + b",
+    "√(ab)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x^(−1/2) · x^(1/2) = ?",
+   "variantlar": [
+    "1",
+    "x",
+    "0",
+    "x⁻¹"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(a³ b⁻¹)² = ?",
+   "variantlar": [
+    "a⁵/b",
+    "a⁶/b",
+    "a⁶ b²",
+    "a⁶/b²"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a² · a^(−3) = ?",
+   "variantlar": [
+    "a⁻¹",
+    "a",
+    "a⁶",
+    "a⁵"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(x^(1/3))⁶ = ?",
+   "variantlar": [
+    "x³",
+    "x²",
+    "x^(1/2)",
+    "x⁶"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "√a · ⁴√a = ?",
+   "variantlar": [
+    "a",
+    "a^(1/8)",
+    "a^(2/3)",
+    "a^(3/4)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(a⁻¹ + b⁻¹) = ?",
+   "variantlar": [
+    "(a + b)/(ab)",
+    "1/(a + b)",
+    "a + b",
+    "ab/(a + b)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(a^(1/2) + b^(1/2))(a^(1/2) − b^(1/2)) = ?",
+   "variantlar": [
+    "a + b",
+    "√a − √b",
+    "a − b",
+    "a² − b²"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(x^(1/2) + 1)² = ?",
+   "variantlar": [
+    "x + 2x + 1",
+    "x² + 1",
+    "x + 2x^(1/2) + 1",
+    "x + 1"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a = 2, b = 8 bo'lsa, a⁻² · b ifodaning qiymati nechaga teng?",
+   "variantlar": [
+    "4",
+    "8",
+    "1/2",
+    "2"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(a^(3/2))² : a² = ?",
+   "variantlar": [
+    "a²",
+    "a",
+    "1",
+    "a³"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(9a⁴)^(1/2) = ?",
+   "variantlar": [
+    "3a",
+    "3a²",
+    "9a²",
+    "3a⁴"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(x^(−1) + y^(−1)) : (xy)^(−1) = ?",
+   "variantlar": [
+    "x − y",
+    "xy",
+    "1/(x + y)",
+    "x + y"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(8a³)^(1/3) = ?",
+   "variantlar": [
+    "2a",
+    "a",
+    "2a³",
+    "8a"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a^(1/2) · a^(1/3) · a^(1/6) = ?",
+   "variantlar": [
+    "a^(1/36)",
+    "a^(1/2)",
+    "a²",
+    "a"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(a − 1)/(a^(1/2) − 1) = ? (a ≠ 1, a ≥ 0)",
+   "variantlar": [
+    "a^(1/2) + 1",
+    "a − 1",
+    "a + 1",
+    "a^(1/2) − 1"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2⁻¹ · 4^(1/2) + 8^(1/3) nechaga teng?",
+   "variantlar": [
+    "2",
+    "4",
+    "5",
+    "3"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

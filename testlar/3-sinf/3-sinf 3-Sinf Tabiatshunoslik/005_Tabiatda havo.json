@@ -6,10 +6,10 @@
   {
    "savol": "Havo nima?",
    "variantlar": [
-    "Havo rangli suyuqliq",
+    "Havo rangli suyuqlik",
     "Havo bizga ko'rinmaydigan gaz",
     "Havo tosh",
-    "Havo sho'rva"
+    "Havo qattiq modda"
    ],
    "togri": 1,
    "qiyinlik": "oson"
@@ -18,7 +18,7 @@
    "savol": "Stakanda suv solingan idishga bo'sh stakan botirilganda suv stakan ichiga nima uchun kirmaydi?",
    "variantlar": [
     "Stakan ichida havo bordek bo'ladi",
-    "Tuproq tiqdi",
+    "Tuproq tiqilib qolgan",
     "Muz eriydi",
     "Suv muzlagan"
    ],
@@ -28,7 +28,7 @@
   {
    "savol": "Havo tarkibida qaysi gazlar va moddalar bor?",
    "variantlar": [
-    "Faqat sho'rva",
+    "Faqat tuz",
     "Faqat suv",
     "Faqat qum",
     "Azot, kislorod, karbonat angidrid, suv bug'i va boshqa moddalar"
@@ -125,18 +125,18 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Baliq va delfin suv ichida yashashlarida, ular havodan nima uchun nafas oladi?",
+   "savol": "Baliqlar suv ichida qanday nafas oladi?",
    "variantlar": [
     "Quyosh orqali",
     "Tuproq orqali",
-    "Suv ichida ham havo bor",
-    "Suvni bu qiladi"
+    "Suvda erigan havo (kislorod) bilan",
+    "Suvni ichib"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "O'simliklar havodan nafas olganida nima chiqaradi?",
+   "savol": "O'simliklar kunduzi havoga qaysi gazni chiqaradi?",
    "variantlar": [
     "Kislorod chiqaradi",
     "Qum chiqaradi",
@@ -149,7 +149,7 @@
   {
    "savol": "Agar mo'ridan chiqqan tutun osmonga tik ko'tarilayotgan bo'lsa, ob-havo qanday bo'ladi?",
    "variantlar": [
-    "Shumanasi yog'ar",
+    "Do'l yog'adi",
     "Qor yog'ar",
     "Havo ochiq bo'ladi",
     "Yomg'ir yog'adi"
@@ -163,7 +163,7 @@
     "Shamol kuchayadi",
     "Yomg'ir yog'ishi mumkin",
     "Qor yog'adi",
-    "Ob-hava soginadi"
+    "Havo isiydi"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -183,9 +183,9 @@
    "savol": "Agar qaldirg'och pastlab uchayotgan bo'lsa, nima yuz berishi mumkin?",
    "variantlar": [
     "Quyosh chiqadi",
-    "Bulut kayb bo'ladi",
+    "Bulutlar yo'qoladi",
     "Yomg'ir yog'ishi mumkin",
-    "Shamol kesadi"
+    "Shamol to'xtaydi"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -193,9 +193,9 @@
   {
    "savol": "Daftar bilan qog'oz parchalariga yelpisak, nima bo'ladi?",
    "variantlar": [
-    "Qog'oz parchasi suyuqlashadi",
-    "Qog'oz parchasi quyin bo'ladi",
-    "Qog'oz parchasi yemiriladi",
+    "Qog'oz eriydi",
+    "Qog'oz og'irlashadi",
+    "Qog'oz yonadi",
     "Qog'oz parchasi uchib ketadi"
    ],
    "togri": 3,
@@ -246,7 +246,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Stakanda qanday tajriba orqali havoning o'z joyini suvga bo'shtirmayligini ko'rsatish mumkin?",
+   "savol": "Qanday tajriba havo o'z joyini suvga bo'shatib bermasligini ko'rsatadi?",
    "variantlar": [
     "Stakanni tiq qo'ysak",
     "Stakanni quyosh nurida qo'ysak",
@@ -260,7 +260,7 @@
    "savol": "Yozda quyosh nurlari tikroq tushsa, havo harorati yuqori bo'lishiga nima sabab?",
    "variantlar": [
     "Bulut ko'p bo'ladi",
-    "Quyosh nurlari tikroq tushsa, hava ko'proq isitadi",
+    "Quyosh nurlari tikroq tushsa, havoni ko'proq isitadi",
     "Qor yog'adi",
     "Shamol esadi"
    ],
@@ -268,21 +268,21 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Nega qishda osmondagi bulutlar havo haroratini yanada pasaytiradi?",
+   "savol": "Kunduzi bulutlar quyoshni to'sib qo'ysa, havo qanday bo'ladi?",
    "variantlar": [
-    "Chunki bulutlar quyosh nurlarini to'sib, havoga issiqlik beradi",
-    "Chunki bulutlar quyosh nurlarini to'sib, hava isitilmasini to'sqin qiladi",
-    "Chunki bulutlar shamol keltiradi",
-    "Chunki bulutlar suv olib boradi"
+    "Issiqroq bo'ladi",
+    "Salqinroq bo'ladi, chunki quyosh nurlari yerni kamroq isitadi",
+    "O'zgarmaydi",
+    "Albatta qor yog'adi"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Agar Quyosh qora bulutlar orqasiga botsasiga ertasiga nima bo'lishi mumkin?",
+   "savol": "Agar quyosh qora bulutlar orqasiga botsa, ertasiga nima bo'lishi mumkin?",
    "variantlar": [
     "Havo ochiq bo'ladi",
-    "Shamol kesadi",
+    "Shamol to'xtaydi",
     "Yog'ingarchilik bo'lishi mumkin",
     "Qor yog'adi"
    ],
@@ -312,12 +312,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Suv hayvonlari faqat suvda yashasalarida, nega ularning ham kislorod kerak?",
+   "savol": "Suv hayvonlari suvda yashasa ham, kislorodni qayerdan oladi?",
    "variantlar": [
-    "Chunki tuproq orasida yashaydilar",
-    "Chunki havo suv ichida bor",
-    "Chunki tuproq orqali kiritiladi",
-    "Chunki Quyosh uni beradi"
+    "Tuproqdan",
+    "Suvda erigan havodan",
+    "Toshlardan",
+    "Quyoshdan"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"
@@ -328,7 +328,7 @@
     "Baliqlar kuchli bo'lgan",
     "Havoning harakati qadimda qancha kuchli va muhim bo'lgan ekanligini koʻrsatadi",
     "Shamol zaif bo'lgan",
-    "Odamlar suv ichida yashasalar"
+    "Odamlar suvda yashagan"
    ],
    "togri": 1,
    "qiyinlik": "qiyin"

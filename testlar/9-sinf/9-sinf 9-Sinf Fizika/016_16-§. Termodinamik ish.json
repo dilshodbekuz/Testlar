@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "16-§. Termodinamik ish",
+ "savollar": [
+  {
+   "savol": "Termodinamik ish qaysi harf bilan belgilanadi?",
+   "variantlar": [
+    "U",
+    "A",
+    "Q",
+    "W"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gaz kengayganda ish?",
+   "variantlar": [
+    "Nol",
+    "Aniqlab bo'lmaydi",
+    "Gaz bajaradi (musbat)",
+    "Gaz ustida bajariladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gaz siqilganda ish?",
+   "variantlar": [
+    "Gaz bajaradi",
+    "Nol",
+    "Tashqi kuchlar gaz ustida bajaradi",
+    "Aniqlab bo'lmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Izobarik jarayonda gaz ishi?",
+   "variantlar": [
+    "A = ΔV / p",
+    "A = p + ΔV",
+    "A = p / ΔV",
+    "A = p · ΔV"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ish birligi?",
+   "variantlar": [
+    "Nyuton",
+    "Vatt",
+    "Paskal",
+    "Joul"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Izoxorik jarayonda gaz ishi?",
+   "variantlar": [
+    "Cheksiz",
+    "0",
+    "Musbat",
+    "pΔV"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p–V grafikda ish nimaga teng?",
+   "variantlar": [
+    "Nolga",
+    "Egri chiziq uzunligiga",
+    "Egri chiziq ostidagi yuzaga",
+    "Burchakka"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gaz kengayganda hajm?",
+   "variantlar": [
+    "Kamayadi",
+    "O'zgarmaydi",
+    "Nol",
+    "Ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tashqi kuchlar ishi A' = −A. Bu nimani bildiradi?",
+   "variantlar": [
+    "Bog'liq emas",
+    "Nol",
+    "Teng",
+    "Gaz ishi bilan qarama-qarshi ishorali"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Termodinamika nimani o'rganadi?",
+   "variantlar": [
+    "Issiqlik va energiya o'zgarishlarini",
+    "Magnit",
+    "Tovush",
+    "Yorug'lik"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p = 2 · 10⁵ Pa, ΔV = 0,01 m³. A = ?",
+   "variantlar": [
+    "20 J",
+    "2 · 10⁷ J",
+    "200 J",
+    "2000 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = 10⁵ Pa, V₁ = 1 l, V₂ = 3 l. A = ?",
+   "variantlar": [
+    "100 J",
+    "300 J",
+    "200 J",
+    "2 J"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gaz 5 · 10⁵ Pa da hajmi 2 l dan 6 l gacha izobarik kengaydi. A = ?",
+   "variantlar": [
+    "1000 J",
+    "3000 J",
+    "2000 J",
+    "500 J"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 mol gaz izobarik ΔT = 50 K. A = RΔT ≈ ?",
+   "variantlar": [
+    "≈ 8,31 J",
+    "≈ 41,5 J",
+    "≈ 4150 J",
+    "≈ 415 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gaz 3 · 10⁵ Pa da 4 l dan 1 l gacha siqildi. Gaz ustida ish?",
+   "variantlar": [
+    "1200 J",
+    "300 J",
+    "900 J",
+    "−900 J"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi holda gazning o'zi bajargan ish?",
+   "variantlar": [
+    "−900 J",
+    "300 J",
+    "900 J",
+    "0"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Izobarik kengayishda p va ΔV kattalashsa A?",
+   "variantlar": [
+    "Nol",
+    "Kamayadi",
+    "O'zgarmaydi",
+    "Ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p–V da to'rtburchak yuzi 10⁵ Pa × 0,02 m³. Ish?",
+   "variantlar": [
+    "2000 J",
+    "2 · 10⁷ J",
+    "200 J",
+    "20 J"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ish faqat hajm o'zgarganda bajariladimi?",
+   "variantlar": [
+    "Ha",
+    "Ba'zan",
+    "Hech qachon",
+    "Yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gaz vakuumga kengaysa (p = 0) ish?",
+   "variantlar": [
+    "0",
+    "Manfiy",
+    "Cheksiz",
+    "Musbat"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gaz 2 · 10⁵ Pa da 1 l dan 4 l ga kengaydi, keyin 4 l dan 1 l ga 10⁵ Pa da siqildi. Umumiy ish?",
+   "variantlar": [
+    "900 J",
+    "300 J",
+    "600 J",
+    "0"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tsikl: p–V grafikda to'g'ri to'rtburchak, p 10⁵ dan 3 · 10⁵ Pa gacha, V 1 l dan 3 l gacha. Tsikl ishi?",
+   "variantlar": [
+    "0",
+    "800 J",
+    "200 J",
+    "400 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Silindrdagi gaz porshenni Δh = 0,1 m siljitdi, S = 0,01 m², p = 10⁵ Pa. A = pSΔh = ?",
+   "variantlar": [
+    "10 J",
+    "1000 J",
+    "1 J",
+    "100 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qishda uzoq turgan shinada bosim?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Kamayadi",
+    "Ortadi",
+    "Nol"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Izotermik kengayishda gaz ishi qaysi hisobiga bajariladi?",
+   "variantlar": [
+    "Kinetik",
+    "Ichki energiya",
+    "Potensial",
+    "Sistemaga berilgan issiqlik hisobiga"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "ν = 2 mol, izobarik ΔT = 100 K. A = νRΔT ≈ ?",
+   "variantlar": [
+    "≈ 16 620 J",
+    "≈ 1662 J",
+    "≈ 166 J",
+    "≈ 831 J"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Adiabatik siqishda gaz temperaturasi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Nol",
+    "Kamayadi",
+    "Ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Adiabatik kengayishda gaz temperaturasi?",
+   "variantlar": [
+    "Kamayadi",
+    "Nol",
+    "Ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Velosiped nasosi tez haydashda qizishi sababi?",
+   "variantlar": [
+    "Ishqalanish faqat",
+    "Adiabatik siqilish",
+    "Quyosh",
+    "Havo"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gaz bajargan ish hajmi ortishiga qanday bog'liq?",
+   "variantlar": [
+    "Bosim bilan ko'paytmasi",
+    "Bog'liq emas",
+    "Kvadratik",
+    "Teskari"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

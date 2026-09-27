@@ -53,7 +53,7 @@
     "Yurak, jigar, oyoq va qo'l",
     "Faqat yurak va o'pka",
     "Yurak, o'pka, jigar, oshqozon, ichak",
-    "Jigar, oshqozon va ichak"
+    "Suyak, teri va soch"
    ],
    "togri": 2,
    "qiyinlik": "oson"
@@ -128,9 +128,9 @@
    "savol": "Muskullar suyaklarga birikishi odam tanamizida qanday ahamiyatga ega?",
    "variantlar": [
     "Harakatni ta'minlaydi va tanamizni mustahkam qiladi",
-    "Faqat rang beraydi",
-    "Faqat sog'linadi",
-    "Faqat gidlang bo'laydi"
+    "Faqat rang beradi",
+    "Faqat terini qoplaydi",
+    "Faqat ovqatni hazm qiladi"
    ],
    "togri": 0,
    "qiyinlik": "o'rtacha"
@@ -139,7 +139,7 @@
    "savol": "Yurak va o'pka birgalikda odam tanasida qanday funktsiya bajaradi?",
    "variantlar": [
     "Faqat miyadagi signallarni uzatadi",
-    "Faqat ruxni toza qiladi",
+    "Faqat terini tozalaydi",
     "Faqat ovqatni hazm qiladi",
     "Qonni aylantirib, unga kislorod ta'minlaydi"
    ],
@@ -149,10 +149,10 @@
   {
    "savol": "Oshqozon va ichaklar birgalikda qanday vazifani bajaradi?",
    "variantlar": [
-    "Ruxni toza qiladi",
+    "Qonni tozalaydi",
     "Ovqatni hazm qiladi va oziqlantiraydi",
     "Qonni aylantirib chiqadi",
-    "Shuluklarga qarab turadi"
+    "Nafas oladi"
    ],
    "togri": 1,
    "qiyinlik": "o'rtacha"
@@ -163,7 +163,7 @@
     "Teri faqat haroratni regulyatsiya qiladi",
     "Teri qon aylantirishni boshqaradi",
     "Teri ovqatni hazm qiladi",
-    "Teri tashqida joylashgan saqlavchi baryer bo'lib xizmat qiladi"
+    "Teri tanani tashqi tomondan o'rab, himoya qatlami bo'lib xizmat qiladi"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -213,10 +213,10 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Teri qanday tuzilish tufayli tanamizni barcha khatarlardan himoya qiladi?",
+   "savol": "Teri tanamizni qanday himoya qiladi?",
    "variantlar": [
     "Faqat yuqori qavati",
-    "Teri mayda qon tomirlari va ich xaltachalari bilan tashkil topgan",
+    "Butun tanani qoplab, chang, suv va mikroblarni ichkariga o'tkazmaydi",
     "Faqat bosh qatlamining teri",
     "Faqat pastki qavati"
    ],
@@ -224,7 +224,7 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Odam tanasining tuzilishi uni qanday shakllarda mustahkamlagni ko'rsatadi?",
+   "savol": "Odam tanasini nima mustahkam va yaxlit qiladi?",
    "variantlar": [
     "Faqat muskullar",
     "Suyaklar, muskullar, teri va ichki a'zolarning koordinatsiyalangan tizimi",
@@ -248,8 +248,8 @@
   {
    "savol": "Teridag yog' va suv (ter) harorat regulyatsiyasida qanday roli bor?",
    "variantlar": [
-    "Ikkilasi ham faqat naminadi",
-    "Yog' issiqni saqlab qoladi, ter sog'lanish orqali haroratni tushiradi",
+    "Ikkalasi ham tanani isitadi",
+    "Yog' issiqni saqlaydi, ter bug'lanib tanani sovitadi",
     "Faqat ter muhim",
     "Faqat yog' haroratni regulyatsiya qiladi"
    ],
@@ -270,7 +270,7 @@
   {
    "savol": "Odam tanasining tashqi va ichki qismlari o'zaro bog'lanishning ahamiyati nima?",
    "variantlar": [
-    "Bog'lanish faqat tasavvufi",
+    "Bog'lanish yo'q",
     "Bog'lanish faqat rangda ko'rinadi",
     "Har bir a'zo o'z vazifasini bajarishi uchun bu bog'lanish zarur",
     "Tashqi va ichki qismlari alohida ishlashlari mumkin"
@@ -292,7 +292,7 @@
   {
    "savol": "Muskullar suyaklarga biriktirish orqali odam harakati qanday organizmni ta'minlaydi?",
    "variantlar": [
-    "Muskullar kontraktsiya qilish orqali suyakni harakatlantirib, yurishni, qo'lni siljitishni ta'minlaydi",
+    "Muskullar qisqarib, suyaklarni harakatlantiradi va yurish, qo'l harakatini ta'minlaydi",
     "Faqat qo'lni siljitishni",
     "Faqat o'zini tutish",
     "Faqat yurishni ta'minlaydi"
@@ -323,12 +323,12 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Teri himoyasi faqat tashqida bo'lgan khatarlardan emas, qanday yo'l bilan ichka haroratni ham regulyatsiya qiladi?",
+   "savol": "Teri tana haroratini qanday boshqaradi?",
    "variantlar": [
     "Faqat yurak orqali",
     "Faqat muskullar bilan",
     "Faqat jigar orqali",
-    "Terida mayda qon tomirlari orqali yuqaladigan issiqlik miqdorini boshqarib, ter sog'lanishi orqali haroratni tushiradi"
+    "Terdagi mayda qon tomirlari va ter ajralishi orqali"
    ],
    "togri": 3,
    "qiyinlik": "qiyin"

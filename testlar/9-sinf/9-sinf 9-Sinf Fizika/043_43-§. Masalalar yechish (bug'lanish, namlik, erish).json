@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Fizika",
+ "mavzu": "43-§. Masalalar yechish (bug'lanish, namlik, erish)",
+ "savollar": [
+  {
+   "savol": "Solishtirma bug'lanish issiqligi?",
+   "variantlar": [
+    "r = Q/m",
+    "r = Q + m",
+    "r = m/Q",
+    "r = Qm"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Solishtirma erish issiqligi?",
+   "variantlar": [
+    "λ = Qm",
+    "λ = Q/m",
+    "λ = m/Q",
+    "λ = Q + m"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nisbiy namlik?",
+   "variantlar": [
+    "φ = p_t/p",
+    "φ = p + p_t",
+    "φ = pp_t",
+    "φ = p/p_t · 100 %"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Q = cmΔt. c = 4200, m = 1 kg, Δt = 1 °C. Q = ?",
+   "variantlar": [
+    "420 J",
+    "42 J",
+    "1 J",
+    "4200 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Q = rm. r = 2,3 · 10⁶, m = 1 kg. Q = ?",
+   "variantlar": [
+    "2,3 · 10⁶ J",
+    "2,3 · 10⁷ J",
+    "2,3 · 10⁵ J",
+    "2300 J"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Q = λm. λ = 3,3 · 10⁵, m = 1 kg. Q = ?",
+   "variantlar": [
+    "3,3 · 10⁶ J",
+    "3,3 · 10⁵ J",
+    "330 J",
+    "3,3 · 10⁴ J"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Erish t muz uchun?",
+   "variantlar": [
+    "100 °C",
+    "−10 °C",
+    "50 °C",
+    "0 °C"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaynash t suv uchun?",
+   "variantlar": [
+    "50 °C",
+    "100 °C",
+    "200 °C",
+    "0 °C"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Suvning c?",
+   "variantlar": [
+    "4,2",
+    "42 000",
+    "420",
+    "4200 J/(kg·°C)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Muzning c?",
+   "variantlar": [
+    "4200",
+    "2100 J/(kg·°C)",
+    "21 000",
+    "420"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "0,5 kg muz 0 °C da erishi uchun Q?",
+   "variantlar": [
+    "1,65 · 10⁵ J",
+    "1,65 · 10⁶ J",
+    "3,3 · 10⁵ J",
+    "6,6 · 10⁵ J"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "0,2 kg suv 100 °C da bug'lanishi uchun Q?",
+   "variantlar": [
+    "2,3 · 10⁶ J",
+    "2,3 · 10⁵ J",
+    "4,6 · 10⁵ J",
+    "4,6 · 10⁶ J"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2 kg suv 20 °C dan 70 °C gacha isitilsa Q?",
+   "variantlar": [
+    "4 200 000 J",
+    "42 000 J",
+    "420 000 J",
+    "84 000 J"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 kg muz 0 °C, 3,3 · 10⁵ J beriladi. Nima bo'ladi?",
+   "variantlar": [
+    "To'liq eriydi",
+    "Bug'lanadi",
+    "Erimaydi",
+    "Isiydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 kg suv 100 °C, 2,3 · 10⁶ J beriladi. Nima bo'ladi?",
+   "variantlar": [
+    "Muzlaydi",
+    "Erimaydi",
+    "To'liq bug'ga aylanadi",
+    "Isiydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "φ = 40 %, p_t = 2 kPa. p = ?",
+   "variantlar": [
+    "80 kPa",
+    "0,4 kPa",
+    "5 kPa",
+    "0,8 kPa"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = 1,2 kPa, p_t = 2,4 kPa. φ = ?",
+   "variantlar": [
+    "50 %",
+    "20 %",
+    "200 %",
+    "100 %"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "0,1 kg 0 °C muz va 0,1 kg 40 °C suv aralashtirilsa (λ = 3,3 · 10⁵, c = 4200). Muz to'liq erish uchun suv beradigan Q (40→0)?",
+   "variantlar": [
+    "33 000 J",
+    "16 800 J",
+    "4200 J",
+    "1680 J"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqorida Q_muz = 33 000 J. Muz to'liq erimaydi. Nima qoladi?",
+   "variantlar": [
+    "Muz va suv 0 °C da",
+    "Faqat muz",
+    "Bug'",
+    "Faqat suv"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Erigan muz massasi (16 800/3,3 · 10⁵) ≈ ?",
+   "variantlar": [
+    "≈ 0,005 kg",
+    "≈ 0,1 kg",
+    "≈ 0,05 kg",
+    "≈ 0,5 kg"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2 kg 100 °C bug' 0 °C muzga (m = 3 kg) tegdi. Yetarlimi to'liq eritishga? Q_bug' (kondensatsiya + sovish 100→0) = 2 kg(2,3 · 10⁶ + 4,2 · 10⁵) = 5,44 MJ; Q_muz = 3·3,3 · 10⁵ = 0,99 MJ.",
+   "variantlar": [
+    "Aniqlab bo'lmaydi",
+    "Teng",
+    "Yo'q",
+    "Ha, ortiqcha"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "0,05 kg 0 °C muz + 0,2 kg 30 °C suv. Muz erishi uchun 16 500 J kerak. Suv 30→0 beradi 25 200 J. To'liq eriydimi?",
+   "variantlar": [
+    "Aniqlab bo'lmaydi",
+    "Ba'zan",
+    "Ha",
+    "Yo'q"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi aralashma oxirgi t ≈ ? (m_umumiy = 0,25 kg, ortiq issiqlik 8700 J)",
+   "variantlar": [
+    "≈ 8,3 °C",
+    "≈ 0 °C",
+    "≈ 15 °C",
+    "≈ 30 °C"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "1 kg 20 °C suv 100 °C ga qizib 0,1 kg bug'ga aylanishi uchun Q?",
+   "variantlar": [
+    "≈ 2,3 · 10⁵ J",
+    "≈ 5,66 · 10⁵ J",
+    "≈ 3,36 · 10⁵ J",
+    "≈ 5,66 · 10⁶ J"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektr choynak 2 kVt, 1 kg suvni 20 dan 100 °C gacha (yo'qotishsiz) qancha vaqtda?",
+   "variantlar": [
+    "84 s",
+    "336 s",
+    "168 s",
+    "16,8 s"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi choynakda hamma suvni bug'ga aylantirish uchun qo'shimcha vaqt (2,3 MJ)?",
+   "variantlar": [
+    "2300 s",
+    "115 s",
+    "11 500 s",
+    "1150 s"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Muz eritish uchun 1 kg λ = 3,3 · 10⁵. Bug'lanishga 1 kg r = 2,3 · 10⁶. Bug'lanishga necha marta ko'p issiqlik?",
+   "variantlar": [
+    "≈ 2 marta",
+    "≈ 0,14 marta",
+    "≈ 7 marta",
+    "≈ 70 marta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Suv bug'lanishi sovitish uchun ishlatiladi. Sabab?",
+   "variantlar": [
+    "Massa",
+    "Bug'lanishda issiqlik olinadi",
+    "Rang",
+    "Bug' issiq"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bug'lanish issiqligi nima hisobiga?",
+   "variantlar": [
+    "Rang",
+    "Molekulalar orasidagi bog'ni uzish",
+    "Massa",
+    "Kinetik energiya"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Termodinamik jarayonlarda erish va bug'lanishda molekulalarning kinetik energiyasi?",
+   "variantlar": [
+    "O'zgarmaydi (T const)",
+    "Nol",
+    "Kamayadi",
+    "Ortadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

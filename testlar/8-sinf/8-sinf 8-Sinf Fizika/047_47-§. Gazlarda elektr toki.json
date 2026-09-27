@@ -1,0 +1,337 @@
+{
+ "sinf": "8-sinf",
+ "kitob": "8-sinf 8-Sinf Fizika",
+ "mavzu": "47-§. Gazlarda elektr toki",
+ "savollar": [
+  {
+   "savol": "Gazlar odatda elektr tokini?",
+   "variantlar": [
+    "Yaxshi o'tkazadi",
+    "Faqat metall",
+    "O'tkazmaydi (dielektrik)",
+    "Doim o'tkazadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gaz ionlanganda u qanday bo'ladi?",
+   "variantlar": [
+    "Qattiq",
+    "O'tkazuvchan",
+    "Dielektrik",
+    "Suyuq"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ionlanish nima?",
+   "variantlar": [
+    "Isitish",
+    "Neytral atomdan elektron ajralishi",
+    "Sovutish",
+    "Massa ortishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gazlarda tok tashuvchilar?",
+   "variantlar": [
+    "Faqat elektronlar",
+    "Neytronlar",
+    "Ionlar va elektronlar",
+    "Atomlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gazda elektr razryadi nima?",
+   "variantlar": [
+    "Gazdan tok o'tishi",
+    "Gaz qotishi",
+    "Gaz siqilishi",
+    "Gaz sovishi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mustaqil bo'lmagan razryad nima?",
+   "variantlar": [
+    "Doim",
+    "Hech qachon",
+    "O'z-o'zidan",
+    "Tashqi ionlovchi ta'sir bilan bo'ladigan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mustaqil razryad nima?",
+   "variantlar": [
+    "Hech qachon",
+    "Doim tashqi",
+    "Tashqi ionizator kerak",
+    "Tashqi ionizator bo'lmasa ham davom etadigan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ionlash uchun nima ishlatiladi?",
+   "variantlar": [
+    "Bosim",
+    "Sovuq",
+    "Tovush",
+    "Yuqori harorat, nurlanish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yashin gazda razryadning qaysi turi?",
+   "variantlar": [
+    "Yoyli",
+    "Uchqunli",
+    "Yaltiroq",
+    "Toj"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ionlashgan gaz nima deyiladi?",
+   "variantlar": [
+    "Suv",
+    "Yog'",
+    "Sut",
+    "Plazma"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nima uchun quruq havo yaxshi izolyator?",
+   "variantlar": [
+    "Erkin zaryadlari juda kam",
+    "Suyuq",
+    "Og'ir",
+    "Qattiq"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gazda kuchli maydon ta'sirida nima yuz beradi?",
+   "variantlar": [
+    "Zarbali ionlanish",
+    "Sovish",
+    "Qotish",
+    "Isish yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zarbali ionlanish nima?",
+   "variantlar": [
+    "Bosim",
+    "Sovitish",
+    "Isitish",
+    "Tezlashgan elektronning atomni ionlashi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gaz razryadi nima uchun yorug'lik chiqaradi?",
+   "variantlar": [
+    "Qo'zg'algan atomlar nur chiqaradi",
+    "Sovuq",
+    "Massa",
+    "Isish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kunduzgi yorug'lik lampalari qaysi razryad turiga asoslangan?",
+   "variantlar": [
+    "Yoy",
+    "Yaltiroq (tutash) razryad",
+    "Uchqun",
+    "Toj"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Neon reklama naylari qaysi razryadga asoslangan?",
+   "variantlar": [
+    "Yaltiroq razryad",
+    "Uchqun",
+    "Yoy",
+    "Toj"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Elektr yoyi nima?",
+   "variantlar": [
+    "Juda yuqori haroratli kuchli tok razryadi",
+    "Sovuq razryad",
+    "Kuchsiz tok",
+    "Uchqun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Toj razryadi qayerda kuzatiladi?",
+   "variantlar": [
+    "Sovuq metallda",
+    "Vakuumda",
+    "Uchli o'tkazgichlar atrofida",
+    "Suvda"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gazda tok o'tish uchun qanday zarralar kerak?",
+   "variantlar": [
+    "Erkin zaryadli zarralar",
+    "Molekulalar",
+    "Neytral atomlar",
+    "Massa"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gazdagi tok metallardagidan nima bilan farq qiladi?",
+   "variantlar": [
+    "Tok yo'q",
+    "Faqat elektronlar",
+    "Ionlar ham qatnashadi",
+    "Farq yo'q"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gazning o'tkazuvchanligi Om qonuniga bo'ysunadimi?",
+   "variantlar": [
+    "Ha, doim",
+    "Odatda yo'q (VAX chiziqli emas)",
+    "Faqat metallarda",
+    "Hech qachon"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gazda mustaqil razryad boshlanishi uchun eng kam kuchlanish nima deyiladi?",
+   "variantlar": [
+    "Yonish (uzilish) kuchlanishi",
+    "Zaryad",
+    "Tok kuchi",
+    "Qarshilik"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yoyli razryadda harorat taxminan?",
+   "variantlar": [
+    "0 °C",
+    "100 °C",
+    "Bir necha ming °C",
+    "20 °C"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektr yoyi qayerda ishlatiladi?",
+   "variantlar": [
+    "Isitish",
+    "Sovutish",
+    "Yoritish emas",
+    "Payvandlash, prožektor"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun gazdagi razryad past bosimda oson kechadi?",
+   "variantlar": [
+    "Bosim past",
+    "Massa katta",
+    "Sovuq",
+    "Elektron erkin yugurish yo'li uzun"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tok o'tayotgan gaz qanday nur chiqaradi?",
+   "variantlar": [
+    "Yo'q",
+    "Doim oq",
+    "Gaz turiga bog'liq rangda",
+    "Doim qizil"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rekombinatsiya nima?",
+   "variantlar": [
+    "Ionlanish",
+    "Isish",
+    "Ionlar va elektronlarning qayta birlashishi",
+    "Sovish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gaz razryadida elektronlar ko'plab hosil bo'lishi (ko'chki) nima deyiladi?",
+   "variantlar": [
+    "Kondensatsiya",
+    "Elektron ko'chki",
+    "Diffuziya",
+    "Rekombinatsiya"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yashin havoda razryad, shunda hosil bo'ladigan tovush qanday?",
+   "variantlar": [
+    "Magnit",
+    "Havoning keskin kengayishidan momaqaldiroq",
+    "Issiqlik",
+    "Yorug'lik"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tashqi ionizator yo'qotilsa, mustaqil bo'lmagan razryad?",
+   "variantlar": [
+    "Davom etadi",
+    "O'zgarmaydi",
+    "Kuchayadi",
+    "To'xtaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

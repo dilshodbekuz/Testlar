@@ -1,0 +1,337 @@
+{
+ "sinf": "9-sinf",
+ "kitob": "9-sinf 9-Sinf Algebra",
+ "mavzu": "29-§. Arifmetik progressiya",
+ "savollar": [
+  {
+   "savol": "Arifmetik progressiya nima?",
+   "variantlar": [
+    "Yig'indi",
+    "Har bir hadi oldingisiga ko'paytirilgan",
+    "Ko'paytma",
+    "Har bir hadi oldingisiga bir xil son qo'shilgan ketma-ketlik"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Arifmetik progressiya ayirmasi qaysi harf?",
+   "variantlar": [
+    "a",
+    "q",
+    "d",
+    "n"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "aₙ₊₁ = aₙ + d formulasi nimani bildiradi?",
+   "variantlar": [
+    "Arifmetik progressiyani",
+    "Tenglamani",
+    "Yig'indini",
+    "Geometrik progressiyani"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "aₙ = a₁ + (n − 1)d formulasi nima?",
+   "variantlar": [
+    "Yig'indi",
+    "Ko'paytma",
+    "Ayirma",
+    "n-had formulasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "2, 5, 8, 11, ... progressiya ayirmasi?",
+   "variantlar": [
+    "3",
+    "2",
+    "1",
+    "5"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1, 3, 5, 7, ... progressiya ayirmasi?",
+   "variantlar": [
+    "1",
+    "4",
+    "2",
+    "3"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "10, 8, 6, 4, ... progressiya ayirmasi?",
+   "variantlar": [
+    "4",
+    "10",
+    "2",
+    "−2"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a₁ = 3, d = 2. a₂ = ?",
+   "variantlar": [
+    "5",
+    "1",
+    "3",
+    "6"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a₁ = 5, d = 3. a₃ = ?",
+   "variantlar": [
+    "11",
+    "14",
+    "15",
+    "8"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "d = 0 bo'lsa progressiya?",
+   "variantlar": [
+    "Kamayuvchi",
+    "O'zgarmas (barcha hadlari teng)",
+    "Yo'q",
+    "O'suvchi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a₁ = 2, d = 3. a₁₀ = ?",
+   "variantlar": [
+    "30",
+    "32",
+    "29",
+    "27"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a₁ = 10, d = −2. a₆ = ?",
+   "variantlar": [
+    "−2",
+    "0",
+    "2",
+    "4"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a₃ = 7, d = 2. a₁ = ?",
+   "variantlar": [
+    "9",
+    "3",
+    "5",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a₁ = 4, a₅ = 20. d = ?",
+   "variantlar": [
+    "6",
+    "5",
+    "3",
+    "4"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3, 7, 11, ... progressiyaning 20-hadi?",
+   "variantlar": [
+    "75",
+    "80",
+    "77",
+    "79"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Arifmetik o'rta xossasi: aₙ = ?",
+   "variantlar": [
+    "aₙ₋₁ + aₙ₊₁",
+    "aₙ₋₁ − aₙ₊₁",
+    "(aₙ₋₁ + aₙ₊₁)/2",
+    "aₙ₋₁ · aₙ₊₁"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2, x, 10 arifmetik progressiya bo'lsa x = ?",
+   "variantlar": [
+    "6",
+    "4",
+    "8",
+    "5"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a₂ = 5, a₄ = 9. d = ?",
+   "variantlar": [
+    "4",
+    "2",
+    "3",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a₂ = 5, a₄ = 9. a₁ = ?",
+   "variantlar": [
+    "1",
+    "4",
+    "3",
+    "2"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1, 4, 7, ... progressiyada 31 nechanchi had?",
+   "variantlar": [
+    "11",
+    "12",
+    "9",
+    "10"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a₅ = 17, a₈ = 29. d = ?",
+   "variantlar": [
+    "6",
+    "3",
+    "4",
+    "5"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a₅ = 17, a₈ = 29. a₁ = ?",
+   "variantlar": [
+    "1",
+    "3",
+    "0",
+    "5"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Arifmetik progressiyada a₃ + a₇ = 20. a₅ = ?",
+   "variantlar": [
+    "5",
+    "10",
+    "20",
+    "40"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a₁ + a₉ = 18. a₅ = ?",
+   "variantlar": [
+    "6",
+    "18",
+    "4,5",
+    "9"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "aₙ = 3n − 7. Bu progressiyaning d si?",
+   "variantlar": [
+    "−7",
+    "1",
+    "3",
+    "7"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "aₙ = 3n − 7. a₁ = ?",
+   "variantlar": [
+    "4",
+    "3",
+    "−7",
+    "−4"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2, 5, 8, ... progressiyaning nechanchi hadi 98 ga teng? (aₙ = 3n − 1)",
+   "variantlar": [
+    "32",
+    "35",
+    "33",
+    "34"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "−3, −1, 1, 3, ... da 45 nechanchi had?",
+   "variantlar": [
+    "25",
+    "24",
+    "23",
+    "22"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a₁ = 20, d = −3. Nechanchi had birinchi manfiy? (a₈ = −1)",
+   "variantlar": [
+    "7",
+    "6",
+    "9",
+    "8"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x − 1, 2x, x + 5 arifmetik progressiya. x = ?",
+   "variantlar": [
+    "1",
+    "6",
+    "4",
+    "2"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}
