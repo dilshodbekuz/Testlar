@@ -40,3 +40,6 @@ Bosqich B (7,8,9-sinf mazmuniy audit) holati. Har bir kitob tugagach shu yerga b
 
 ## 4-sinf (Bosqich A allaqachon tugallangan; Bosqich B davom etmoqda)
 
+- **Ona tili** (17 fayl / ~510 savol, 3161 qator) — TO'LIQ TEKSHIRILDI. Mazmuniy javob-kalit xatosi topilmadi. Fayl raqamlanishi va mavzular soni mos (17/17) — dublikat-mavzu muammosi yo'q.
+  - Bu kitob grammatik mashqlar (gap bo'laklari, so'z turkumlari, qo'shimchalar) shaklida bo'lgani uchun ko'p savollar terminologik/grammatik tahlilga asoslangan — bunday savollarda "to'g'ri javob" ko'pincha lingvistik talqinga bog'liq. Aniq faktik/hisoblash xatosi (masalan sana, son, o'tgan/hozirgi zamon aniqlashda ziddiyat) qidirildi va topilmadi. Bir nechta savol (masalan "gullarim" so'zini shaxs-son tahlili) atama qo'llanishida noaniq bo'lishi mumkin, lekin generatordagi izchil konventsiyaga mos (masalan "otalari" savolida ham xuddi shunday mantiq ishlatilgan) — aniq xato sifatida qayd etilmadi.
+
