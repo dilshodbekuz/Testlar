@@ -19,3 +19,5 @@ Bosqich B (7,8,9-sinf mazmuniy audit) holati. Har bir kitob tugagach shu yerga b
 
 - **Odobnoma** (24 fayl / 720 savol) — TO'LIQ TEKSHIRILDI. Xato topilmadi (javob kalitlari va mantiqiy izchillik to'g'ri). Matn sifati Tarbiya kitobiga qaraganda ancha yaxshi, lekin ba'zi savollarda uslub noqulay (tabiiy, lekin xato emas).
 
+- **Rus tili** (24 fayl / 720 savol) — TO'LIQ TEKSHIRILDI. Xato topilmadi (javob kalitlari to'g'ri). Umumiy sifat pastroq: tushuntirish matnlarida ko'p grammatik/uslub nomukammalliklari bor (masalan "havolangan" iboralar, tarjima uslubidagi noqulaylik), lekin bular javobni buzmaydi — aniq xato emas, shu sabab tegilmadi.
+
