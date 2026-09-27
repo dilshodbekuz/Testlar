@@ -10,7 +10,9 @@ ROOT = Path(__file__).resolve().parents[2]
 
 
 def normalize(text):
-    return re.sub(r"\s+", " ", unicodedata.normalize("NFKC", text)).strip().casefold()
+    # Harf registri genetika formulalarida ma'noli: AABB va Aabb boshqa
+    # genotiplar. Shu sabab savol va javoblarni casefold qilmaymiz.
+    return re.sub(r"\s+", " ", unicodedata.normalize("NFKC", text)).strip()
 
 
 def main():

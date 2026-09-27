@@ -26,12 +26,12 @@
       "qiyinlik": "oson"
     },
     {
-      "savol": "O'zbekiston gerbida qanday qushi tasvirlangan?",
+      "savol": "O'zbekiston gerbida qaysi qush tasvirlangan?",
       "variantlar": [
-        "Berkut",
+        "Burgut",
         "Humo",
-        "Burut",
-        "Qazoq"
+        "Lochin",
+        "Laylak"
       ],
       "togri": 1,
       "qiyinlik": "oson"
@@ -48,7 +48,7 @@
       "qiyinlik": "oson"
     },
     {
-      "savol": "Bayroqning balandligi qancha metr?",
+      "savol": "Xalqlar do'stligi maydonidagi bayroq ustunining balandligi necha metr?",
       "variantlar": [
         "60",
         "55",
@@ -81,12 +81,12 @@
       "qiyinlik": "oson"
     },
     {
-      "savol": "G'alaba qozongan sportchilar nima qiladilar?",
+      "savol": "G'alaba qozongan sportchilar davlat ramzlariga hurmatni qanday ifodalaydilar?",
       "variantlar": [
-        "O'qituvchi va talabalar",
+        "Maydonni tark etadilar",
         "O'z davlatining bayrog'ini ko'taradilar",
-        "Shoir va musiqa",
-        "Savdogarlar"
+        "Jim turadilar",
+        "Bayroqni yashiradilar"
       ],
       "togri": 1,
       "qiyinlik": "oson"
@@ -94,43 +94,43 @@
     {
       "savol": "Davlat madhiyasining asosiy vazifasi nima?",
       "variantlar": [
-        "Yurtimizga bo'lgan sevgi va hurmati ifodalaymiz",
-        "Mazmun yodlash",
+        "Yurtga muhabbat va hurmatni ifodalash",
+        "Faqat matnni yodlash",
         "Yangi qo'shiq o'rganish",
-        "Vaqtini o'tkazish"
+        "Vaqt o‘tkazish"
       ],
       "togri": 0,
       "qiyinlik": "oson"
     },
     {
-      "savol": "Jaloliddin poytaxtga qaysi bayrami arafasida keldi?",
+      "savol": "Jaloliddin poytaxtga qaysi bayram arafasida keldi?",
       "variantlar": [
         "Mustaqillik bayrami",
-        "Tilga shukorlik bayrami",
+        "Til bayrami",
         "Navro'z bayrami",
-        "Ulug'bek bayrami"
+        "Xotira kuni"
       ],
       "togri": 0,
       "qiyinlik": "oson"
     },
     {
-      "savol": "O'ng qo'limizni ko'ksimizga qo'yish nima bildiradi?",
+      "savol": "O'ng qo'limizni ko'ksimizga qo'yish nimani bildiradi?",
       "variantlar": [
-        "Balandlikni ifodalash",
-        "Yurtimizga bo'lgan mehrimizni ifodalash",
-        "Saogat berish",
-        "Kuchni ko'rsatish"
+        "Balandlikni",
+        "Yurtga mehrimizni",
+        "Shoshilayotganimizni",
+        "Kuchimizni"
       ],
       "togri": 1,
       "qiyinlik": "o'rtacha"
     },
     {
-      "savol": "Gerb va bayroqdagi har bir rang va tasvir nima?",
+      "savol": "Gerb va bayroqdagi har bir rang va tasvir nimani anglatadi?",
       "variantlar": [
-        "Tushrili narsalar",
-        "O'z ramzi va ma'nosiga ega",
-        "To'lqinlar",
-        "Xilma-xil o'yinlar"
+        "Tasodifiy bezakni",
+        "O'ziga xos ramz va ma'noni",
+        "Faqat tabiatni",
+        "O'yinlarni"
       ],
       "togri": 1,
       "qiyinlik": "o'rtacha"
@@ -147,12 +147,12 @@
       "qiyinlik": "o'rtacha"
     },
     {
-      "savol": "Davlat ramzlaringa hurmatsizlik qanday oqibatga olib keladi?",
+      "savol": "Davlat ramzlariga hurmatsizlik qanday oqibatga olib keladi?",
       "variantlar": [
-        "Hech nima",
-        "Tanbeh beriladi",
-        "Darslik beriladi",
-        "Qonuniy javobgarlik ko'zda tutiladi"
+        "Hech qanday oqibatga olib kelmaydi",
+        "Faqat ogohlantirishga",
+        "Darslik berilishiga",
+        "Qonuniy javobgarlikka"
       ],
       "togri": 3,
       "qiyinlik": "o'rtacha"
@@ -180,12 +180,12 @@
       "qiyinlik": "o'rtacha"
     },
     {
-      "savol": "Madhiya yangraganda g'aliblar nima qiladilar?",
+      "savol": "Madhiya yangraganda g'olib sportchilar nima qiladilar?",
       "variantlar": [
-        "Maydonda yuguradi",
-        "Bayroq yuqori ko'taradilar",
-        "Balandda turadi",
-        "Raqasa chamadilar"
+        "Maydonda yuguradilar",
+        "Davlat bayrog'ini baland ko'taradilar",
+        "Maydonni tark etadilar",
+        "Raqsga tushadilar"
       ],
       "togri": 1,
       "qiyinlik": "o'rtacha"
@@ -193,10 +193,10 @@
     {
       "savol": "Jaloliddinning otasi bayroq haqida nima aytdi?",
       "variantlar": [
-        "Bayroq ko'p bo'ladi",
-        "Bayroq yo'q kerak",
-        "Bayroq yurt ozodligi va tinchligi ramzidir",
-        "Bayroq oynasi"
+        "Bayroq oddiy mato",
+        "Bayroq kerak emas",
+        "Bayroq yurt ozodligi va tinchligi ramzi",
+        "Bayroq faqat bezak"
       ],
       "togri": 2,
       "qiyinlik": "o'rtacha"
@@ -213,45 +213,45 @@
       "qiyinlik": "o'rtacha"
     },
     {
-      "savol": "Jaloliddin katta bo'lganida nima qilishga qarang dedi?",
+      "savol": "Jaloliddin katta bo'lgach nima qilishini aytdi?",
       "variantlar": [
-        "Bayroq chizmah",
-        "Yurtimiz bayrog'ini yuksaklarga ko'tarish",
-        "Madhiya yozish",
-        "Davlatga xizmat qilish"
+        "Bayroq rasmini chizishni",
+        "Yurt bayrog'ini yuksaklarga ko'tarishni",
+        "Madhiya yozishni",
+        "Boshqa yurtga ketishni"
       ],
       "togri": 1,
       "qiyinlik": "o'rtacha"
     },
     {
-      "savol": "Nega davlat ramzlaringa hurmatsizlik qonunda javobgarlik ko'zda tutilgan?",
+      "savol": "Nega davlat ramzlariga hurmatsizlik uchun qonunda javobgarlik ko'zda tutilgan?",
       "variantlar": [
-        "Eski qoidalar",
-        "Zarur emas",
-        "Rasmiy talabi",
-        "Davlat ramzlari xalqning birlashushi va faxri"
+        "Ular eski bo‘lgani uchun",
+        "Hurmat shart emasligi uchun",
+        "Faqat rasmiy talab bo‘lgani uchun",
+        "Ular xalq birligi va davlat faxrini ifodalagani uchun"
       ],
       "togri": 3,
       "qiyinlik": "qiyin"
     },
     {
-      "savol": "Bayroq, gerb va madhiyaning jamiyat uchun birgalikda ahamiyati nimada?",
+      "savol": "Bayroq, gerb va madhiyaning jamiyat uchun birgalikdagi ahamiyati nimada?",
       "variantlar": [
-        "Faqat o'quvchi uchun",
-        "Rang va sadolik",
-        "Milliy birlik va tayiniy belgisi",
-        "Musaviy rasmiy narsalar"
+        "Faqat o‘quvchilarga kerak",
+        "Faqat ranglardan iborat",
+        "Milliy birlik va davlat mustaqilligini ifodalaydi",
+        "Faqat rasmiy bezak"
       ],
       "togri": 2,
       "qiyinlik": "qiyin"
     },
     {
-      "savol": "Jaloliddin nima uchun bayroq ko'taram deya qarang dedi?",
+      "savol": "Jaloliddin nega bayroqni yuksaklarga ko'tarishni orzu qildi?",
       "variantlar": [
-        "Bayroq o'yin narsasi",
-        "Yurtni sevish va faxrlashning belgisi",
-        "Qoidada yozilgan",
-        "Boshqalar qiladilar"
+        "Bayroq o‘yinchoq bo‘lgani uchun",
+        "Yurtga muhabbat va faxrini ifodalash uchun",
+        "Buni faqat qoida talab qilgani uchun",
+        "Boshqalarga taqlid qilish uchun"
       ],
       "togri": 1,
       "qiyinlik": "qiyin"
@@ -268,12 +268,12 @@
       "qiyinlik": "qiyin"
     },
     {
-      "savol": "Nega davlat madhiyasini yangraganda faqat iftixor emasmi, boshqa tuyg'ular ham uyg'onadi?",
+      "savol": "Davlat madhiyasi yangraganda nega faxr va hayajon tuyg'ulari uyg'onadi?",
       "variantlar": [
-        "Madhiya rang'in",
-        "Madhiya qora",
-        "Madhiya buydoq",
-        "Madhiya vatanimizning tarixini va azamini ta'minlaydi"
+        "U faqat ohangdan iborat",
+        "U ranglarni tasvirlaydi",
+        "U oddiy qo‘shiq",
+        "U Vatan tarixi, qudrati va orzularini ifodalaydi"
       ],
       "togri": 3,
       "qiyinlik": "qiyin"
@@ -290,23 +290,23 @@
       "qiyinlik": "qiyin"
     },
     {
-      "savol": "O'ng qo'limizni ko'ksimizga qo'yish orqali biz nima bildirapmiz?",
+      "savol": "O'ng qo'limizni ko'ksimizga qo'yish orqali nimani bildiramiz?",
       "variantlar": [
-        "Surpa ko'rsatish",
-        "Qo'lni ko'rish",
-        "Quvonchni",
-        "Yurtimizga bo'lgan chuqur sevgi va hurmati"
+        "Shoshayotganimizni",
+        "Qo‘limizni ko‘rsatishni",
+        "Faqat quvonchni",
+        "Yurtga chuqur muhabbat va hurmatni"
       ],
       "togri": 3,
       "qiyinlik": "qiyin"
     },
     {
-      "savol": "Davlat ramzlarini hurmat qilish faqat ta'tiflarda emasmi?",
+      "savol": "Davlat ramzlarini qachon hurmat qilish kerak?",
       "variantlar": [
-        "Ha, kundalik hayotda ham hurmat qilish burchimiz",
-        "Ha, faqat ta'tiflarda",
-        "Gap hammasir",
-        "Yo'q, kerak emas"
+        "Har kuni va barcha tegishli vaziyatlarda",
+        "Faqat bayramlarda",
+        "Faqat maktabda",
+        "Hurmat qilish shart emas"
       ],
       "togri": 0,
       "qiyinlik": "qiyin"
@@ -314,21 +314,21 @@
     {
       "savol": "Nega bayroq azaldan g'alaba va ozodlik timsoli bo'lgan?",
       "variantlar": [
-        "Tarixiy sabab va milliy qadriyatlar",
-        "Ketma-ketlik",
-        "Rang tanlashibdi",
-        "Rasmi har gal"
+        "U xalqning erkinligi va g‘alabasini ifodalagan",
+        "U faqat bezak bo‘lgan",
+        "U rang tanlash uchun ishlatilgan",
+        "U faqat sportda qo‘llangan"
       ],
       "togri": 0,
       "qiyinlik": "qiyin"
     },
     {
-      "savol": "Davlatning gerb, bayroq va madhiyasining o'zaro bog'lanishi nimada?",
+      "savol": "Davlat gerbi, bayrog'i va madhiyasi o'zaro qanday bog'langan?",
       "variantlar": [
-        "Faqat tarix",
-        "Hamma birgalikda milliy birlik va sevgi belgisi",
-        "Rasmi hamasi",
-        "Shuvi rang"
+        "Faqat tarixiyligi bilan",
+        "Ularning barchasi milliy birlik, mustaqillik va Vatanga muhabbatni ifodalaydi",
+        "Faqat rasmlari bilan",
+        "Faqat ranglari bilan"
       ],
       "togri": 1,
       "qiyinlik": "qiyin"
