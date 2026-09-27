@@ -197,7 +197,7 @@
      "Jonli tabiat",
      "Jonsiz tabiat",
      "Tabiat hodisasi",
-     "Madaniy narsа"
+     "Madaniy narsa"
     ],
     "togri": 2,
     "qiyinlik": "o'rtacha"
@@ -937,7 +937,7 @@
      "Harorat juda yuqori",
      "Shamol juda kuchli",
      "Tuproq suvli bo'lmaydi",
-     "Bahorgi yomg'ir suviga o'sadigan o'tlar jazirаma yozda qurib qoladi"
+     "Bahorgi yomg'ir suviga o'sadigan o'tlar jazirama yozda qurib qoladi"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -2662,7 +2662,7 @@
      "Mis va aluminiyga",
      "Oltin va kumushga",
      "Temirga",
-     "Qo'rg'oshinга"
+     "Qo'rg'oshinga"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -2736,9 +2736,9 @@
    {
     "savol": "Temirtosh rudalarining asosiy turlari nechta?",
     "variantlar": [
-     "To'rttа",
+     "To'rtta",
      "Bitta",
-     "Uchtа",
+     "Uchta",
      "Ikkita"
     ],
     "togri": 2,
@@ -3668,12 +3668,12 @@
   "mavzu": "Foydali qazilmalardan oqilona foydalanish",
   "savollar": [
    {
-    "savol": "Quyidagi metallarning qaysi biri qimmatbaho metall hisoblanadi?",
+    "savol": "Foydali qazilmalar nima?",
     "variantlar": [
-     "Aluminiy",
-     "Temir",
-     "Mis",
-     "Oltin"
+     "Insan tomonidan yaratilgan moddalar",
+     "Kimyoviy moddalar",
+     "Plastik va rayon",
+     "Tabiat in'om etgan boylik"
     ],
     "togri": 3,
     "qiyinlik": "oson"
@@ -3681,318 +3681,307 @@
    {
     "savol": "Gidroelektrostansiya nima?",
     "variantlar": [
-     "Uzoq masofani o'lchash inshoot",
      "Daryo to'g'on bilan to'silib, turbina parraklarining suv aylantirishidan elektr toki olinadigan inshoot",
-     "Gazni saqlash inshoot",
-     "Qo'lyoqli inshoot"
-    ],
-    "togri": 1,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Foydali qazilmalar nima?",
-    "variantlar": [
-     "Tabiat in'om etgan boylikdir",
-     "Insonda yasalgan buyumlar",
-     "Faqat metallardan yasalgan",
-     "Kishilar o'zaro tuluqligi uchun zarur buyumlar"
+     "Daryo suvini to'siladigan to'g'on",
+     "Gaz bilan ishlaydigan inshoot",
+     "Elektr chiqaradigan qurilma"
     ],
     "togri": 0,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Neftni tejash uchun asosan nima qilish kerak?",
+    "savol": "Matndagi matnda qaysi metallarning turlari nomlanadi?",
     "variantlar": [
-     "Neftning o'rnida ko'mir qo'llash",
+     "Temir va aluminiy",
+     "Faqat oltin va kumush",
+     "Temir, mis, aluminiy, oltin, kumush",
+     "Temir va mis"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ko'mirni tejash uchun qanday elektrostansiyalar ko'paytirilmoqda?",
+    "variantlar": [
+     "Atom elektrostansiyalari",
+     "Quyosh elektrostansiyalari",
+     "Shamol elektrostansiyalari",
+     "Gidroelektrostansiyalar"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Neftni tejash uchun birinchi navbatda nima qilish kerak?",
+    "variantlar": [
+     "Neftni chiqarishni to'xtatish",
+     "Mashinalarni butunlay ishlatmaslik",
      "Benzin sarfini kamaytirish",
-     "Benzinli avtomobillarni yoqib turish",
-     "Neftni qazib olmaslik"
+     "Neftni xorijga jo'natish"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Hozirda qanday avtomobillar ko'proq ishlab chiqarilmoqda?",
+    "variantlar": [
+     "Dizel avtomobillar",
+     "Benzinni kam sarflaydigan avtomobillar",
+     "Gazli avtomobillar",
+     "Benzinni ko'p sarflaydigan avtomobillar"
     ],
     "togri": 1,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Tabiiy gaz o'rniga kelajakda nima ishlatiladi?",
+    "savol": "Tabiiy gaz o'rniga kelajakda nima ishlatish maqsadga muvofiq bo'ladi?",
     "variantlar": [
      "Elektr plitalar",
-     "Ko'mir",
-     "Gaz",
-     "Neft"
-    ],
-    "togri": 0,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Metallurgiya kombinati nima uchun xizmat qiladi?",
-    "variantlar": [
-     "Mashinalar tayyorlash",
-     "Gazni saqash",
-     "Tuydiqlar tikish",
-     "Ishdan chiqqan metall qismlari eritib, yangidan buyumlar yasash"
-    ],
-    "togri": 3,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Ko'mirni tejash uchun qanday elektrostansiyalar ko'paytirilyapti?",
-    "variantlar": [
-     "Shamolga tekislangan",
-     "Quyosh elektrostansiyalari",
-     "Gidroelektrostansiyalar",
-     "Gaz elektrostansiyalari"
-    ],
-    "togri": 2,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Plastmassalar nima uchun ko'p ishlatila boshladi?",
-    "variantlar": [
-     "Metall o'rnini egallab borayotgan",
-     "Arzonroq narx",
-     "Suvda yaxshi eritiladi",
-     "Oson buziluvchanlik"
-    ],
-    "togri": 0,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Elektr toki bilan yuradigan avtomobillar bugungi kunlarda qanday holat ko'rsatmoqda?",
-    "variantlar": [
-     "Mutlaqo ishlatilmayapti",
-     "Ixtiro qilinmoqda va rivojlanmoqda",
-     "Faqat mavhum rejada qoldi",
-     "Barchasi sotib yuborildi"
-    ],
-    "togri": 1,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Foydali qazilmalardan kelajak avlodlar nima uchun bahramand bo'lishi kerak?",
-    "variantlar": [
-     "Foydali qazilmalar tugab qolmasligi uchun",
-     "Ular ham timsahlarda yashashi kerak",
-     "Ularda pul bo'lishi uchun",
-     "Faqat bugungi avlod bahramand bo'lishi kerak"
-    ],
-    "togri": 0,
-    "qiyinlik": "oson"
-   },
-   {
-    "savol": "Agar benzinni kam sarflaydigan avtomobillar ko'paysa, neft nima bo'ladi?",
-    "variantlar": [
-     "Yanada ko'p sarf qilinadi",
-     "Yangidan paydo bo'ladi",
-     "Tez tugunga qanoti",
-     "Eng oziqlandi o'tib ketadi"
-    ],
-    "togri": 3,
-    "qiyinlik": "o'rtacha"
-   },
-   {
-    "savol": "Gidroelektrostansiyalari ko'paytirish orqali qaysi foydali qazilma tejiladi?",
-    "variantlar": [
-     "Oltin",
+     "Benzin",
      "Neft",
-     "Tabiiy gaz",
      "Ko'mir"
     ],
-    "togri": 3,
-    "qiyinlik": "o'rtacha"
+    "togri": 0,
+    "qiyinlik": "oson"
    },
    {
-    "savol": "Metallurgiya kombinatida ishdan chiqqan metall qismlari nima uchun yig'ib olinadi?",
+    "savol": "Eski metallardan qayta nima yasaladi?",
     "variantlar": [
-     "Shartnoma asosida sotish uchun",
-     "Bunga sabab yo'q",
-     "Yangicha buyumlar yaratish uchun",
-     "Polatga aylantirib yuborish uchun"
+     "Faqat qurilish materiallari",
+     "Faqat texnika",
+     "Turli buyumlar va asbob-uskunalar",
+     "Faqat mashinalar"
     ],
     "togri": 2,
-    "qiyinlik": "o'rtacha"
+    "qiyinlik": "oson"
    },
    {
-    "savol": "Tabiiy gaz zaxirasi tugab qolmasligi uchun qanday ish olib borish kerak?",
+    "savol": "Plastmassalar qaydan olinadigan narsalar?",
     "variantlar": [
-     "Elektr energiyaning sarfini oshirish",
-     "Neftning ortiqcha miqdori ishlash",
-     "Ko'mir qazoqmasini ko'paytirish",
-     "Gazni behuda yoqib qo'ymaslik va tejab foydalanish"
+     "Faqat metallardan",
+     "Faqat gazdan",
+     "Turli chiqindilardan",
+     "Faqat neftdan"
     ],
-    "togri": 3,
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Foydali qazilmalardan oqilona foydalanish nima uchun zarur?",
+    "variantlar": [
+     "Kelajak avlodlarning ham bahramand bo'lishi uchun",
+     "Faqat xorij uchun",
+     "Faqat bugungi kundagimizdagi ehtiyojlar uchun",
+     "Faqat mashina ishlab chiqarish uchun"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Agar gidroelektrostansiya o'rniga issiqlik elektrostansiyasidan foydalanish davom ettirilsa, ko'mir sarfiga nima bo'ladi?",
+    "variantlar": [
+     "Ko'mir sarfi ko'payadi",
+     "Ko'mir narxi tushadi",
+     "Ko'mir ishlatilmaydi",
+     "Ko'mir sarfi kamayadi"
+    ],
+    "togri": 0,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Akkumyator bilan yuradigan avtomobillar nima uchun qabul qilindi?",
+    "savol": "Elektr akkumyatori bilan yuradigan avtomobillar nima uchun muhim?",
     "variantlar": [
-     "O'quvchilar maktabga yaqin masofaga borishi uchun",
-     "Benzini tejash uchun",
-     "Mashinalar yanada qora rangga aylanishi uchun",
-     "Mashina shovqini ko'paytirish uchun"
+     "Tezroq yurishi uchun",
+     "Neftni tejash uchun",
+     "Yanada og'ir bo'lganini uchun",
+     "Baho arzani"
     ],
     "togri": 1,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Plastmassalar turli chiqindilardan olinishi boshqa nima anglatadi?",
+    "savol": "Tabiiy gazni tejash uchun aholi qanday qilishi kerak?",
     "variantlar": [
-     "O'rin bosgan masalalar bor ekan",
-     "Foydali qazilmalarni tejash",
-     "Chiqindilar uchun to'liq bekor qilish",
-     "Chiqindilarni to'liq yoqib tashlash"
+     "Gazni behuda yoqib qo'ymaslik",
+     "Gazni faqat sardi kunlari ishlatish",
+     "Gazni butunlay tark etish",
+     "Gazni umuman ishlatmaslik"
     ],
-    "togri": 1,
+    "togri": 0,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Metallardan foydalanishni tejash uchun qanday jarayon o'tkaziladi?",
+    "savol": "Eski mashina va qurilmalarning metall qismlari nima uchun yig'ib olinadi?",
     "variantlar": [
-     "Metallarni suvga tashlash",
-     "Metallarni yer ostiga ko'm qo'yish",
-     "Ishdan chiqqan metall qismlari yig'ib olish va yangilanish",
-     "Metallarni joyida qo'yib qo'yish"
+     "Metallurgiya kombinatlarida eritilib yangidan buyumlar yasash uchun",
+     "Axlatka tashlab yuborish uchun",
+     "Dekoratsiya sifatida",
+     "Sotib yuborish uchun"
     ],
-    "togri": 2,
+    "togri": 0,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Benzinni kam sarflaydigan avtomobillarning ko'payishi neft zaxirasining tejashiga kamaymasa, bu jarayonni kim taklif qilgan?",
+    "savol": "Kelajakda metallning o'rnida nima ko'proq ishlatilmoqda?",
     "variantlar": [
-     "Radio telekanali",
-     "Xorijlik siyosatchi",
-     "Mutaxassislar",
-     "Hukumat"
+     "Plastmassalar",
+     "Cho'ycha",
+     "Shisha",
+     "Yog'och"
     ],
-    "togri": 2,
+    "togri": 0,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Gidroelektrostansiyalar qaysi tabiiy zavqa ishlatadi?",
+    "savol": "Metallarni tejash uchun o'quvchilar nima qilishi kerak?",
     "variantlar": [
-     "Quyosh",
-     "Isitishlik",
-     "Shamol",
-     "Suv"
+     "Faqat rasmiy muassasalarga yordam berish",
+     "Metallurgiya kombinatida ishlab ketish",
+     "Faqat metal yig'ib olish",
+     "Ota-onalariga eski metallarni yig'ib olishda yordam berish"
     ],
     "togri": 3,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Agar ko'mirni tejash uchun gidroelektrostansiyalar ko'paytirilsa, elektr energiya nima orqali ishlab chiqarilibgina?",
+    "savol": "Issiqlik elektrostansiyalarni gidroelektrostansiyalar bilan almashtirish natijasi qanday bo'ladi?",
     "variantlar": [
-     "Gazning kuyishi orqali",
-     "Metallning eritilishi orqali",
-     "Suvning aylanishi orqali",
-     "Shimlarning yozilishi orqali"
+     "Ishchi soni ko'payadi",
+     "Elektr narxi ko'payadi",
+     "Ko'mir sarfi ko'payadi",
+     "Ko'mir sarfi kamayadi"
     ],
-    "togri": 2,
+    "togri": 3,
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Agar issiqlik elektrostansiyalari o'rniga gidroelektrostansiyalarni ko'paytirsa, bu qaysi ikkita muammoni yechadi?",
+    "savol": "Benzin sarfini kamaytirish nima uchun muhim?",
     "variantlar": [
-     "Quyosh energiyasi ishlatiladi va shamol kuchayadi",
-     "Suvning ta'mirlash xarajati kamayadi va gazni tejish kerak bo'ladi",
-     "Ko'mir tejiladi va ta'mirlash xarajati oshadi",
-     "Elektr energiya beriladi va ko'mir tejiladi"
+     "Avtomobil tezroq yurishi uchun",
+     "Neftni tejash uchun",
+     "Avtomobil daha arzon bo'lishi uchun",
+     "Shaharni toza saqlash uchun"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Turli chiqindilardan qanday materiallar tayyorlanmoqda?",
+    "variantlar": [
+     "Faqat gazlar",
+     "Faqat neft mahsullari",
+     "Faqat metalllar",
+     "Plastmassalar"
     ],
     "togri": 3,
-    "qiyinlik": "qiyin"
+    "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Temir, mis, aluminiy ko'p ishlatiladi degan faktdan foydalanib, bu metallarning tejashga nima uchun ehtiyoj borligini aniqlay olasizmi?",
+    "savol": "Foydali qazilmalarni tejash uchun nima zarur?",
     "variantlar": [
-     "Ularning zaxirasining cheklangan ekanligidan",
-     "Ularning ko'chimasi oson bo'lgani uchun",
-     "Ularning soni cheksiz ko'p bo'lgani uchun",
-     "Ularning butun dunyo bo'ylab paytidir"
+     "Faqat yangi burilmalar ishlab chiqarish",
+     "Xorijdan olinadigan buyumlarni ishlatish",
+     "Ularni umuman ishlatmaslik",
+     "Fan va texnika taraqqiy etib oqilona foydalanish yo'llarini topish"
     ],
-    "togri": 0,
-    "qiyinlik": "qiyin"
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Matndagi 'foydali qazilmalardan oqilona foydalanish' qoidasini plastmassalar misolida qo'llasak, bu nima anglatadi?",
+    "savol": "Matndagi ma'lumotlarga asoslanib, foydali qazilmalarning asosiy muammosi nima?",
     "variantlar": [
-     "Plastmassalarni aylanma ishlatish va chiqindilardan yangi buyumlar yaratish",
-     "Plastmassalarni butunlay ishlatib qo'yish",
-     "Plastmassalarni metall o'rniga ishlatmaslik",
-     "Plastmassalarni sarflashni oshirish"
-    ],
-    "togri": 0,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Agar benzinni kam sarflaydigan avtomobillar ko'paysa va bu jarayonning barchasi 10 yil davomida bo'lsa, neftning zaxirasi qanday o'zgaradi?",
-    "variantlar": [
-     "Lozim bo'lgani kadar tejiladi va uzoqroq ishlaydi",
-     "Yanada tez tugadi",
-     "Mutlaqo o'zgarmaydi",
-     "Barchasi suvga aylanadi"
-    ],
-    "togri": 0,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Metallurgiya kombinatida metall qismlari eritib, yangidan buyumlar yasash jarayoni qaysi muammoni yechadi?",
-    "variantlar": [
-     "Mashina tayyorlashning vaqtini uzaytirish",
-     "Magnetizm muammosini hal qilish",
-     "Metallardan foydali qazilmalarni tejash va yangi buyumlar yaratish",
-     "Aholi ta'minoti bilan bog'liq masalani"
+     "Ularni faqat xorijga yuborish",
+     "Ularni to'liq ishlatib qo'yish",
+     "Ularni tugab qolishining oldini olish",
+     "Ularning narxini oshirish"
     ],
     "togri": 2,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Matndagi 'Foydali qazilmalar tugab qolishining oldini olish katta muammo bo'lib qolmoqda' jumlasi nima anglatadi?",
+    "savol": "Ko'mir, neft va gazni tejash uchun qanday umumiy maqsad bor?",
     "variantlar": [
-     "Bu muammo juda oson hal qilinadi",
-     "Shunga qaramasdan, bu muammo samarali hal qilinmasdan qolmoqda",
-     "Bu muammo hal qilish uchun hech narsaga kerak emas",
-     "Bu muammo hal qilinib tugadi"
-    ],
-    "togri": 1,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Agar elektr plitalar tabiiy gaz o'rniga kelajakda ko'p ishlatilsa, bu nima uchun muhimdir?",
-    "variantlar": [
-     "Elektr plitalar yaxshi isitadi",
-     "Elektr plitalar arzonroq",
-     "Tabiiy gaz saf emas",
-     "Tabiiy gazning zaxirasi tugab qolmasligi uchun va tejab foydalanish uchun"
-    ],
-    "togri": 3,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Matndagi 'shuning uchun yaroqsiz holga kelgan metall buyumlar, mashina qismlarini yig'ib olishga aholi ham jalb qilingan' qatlamdan qanday xulosa chiqarish mumkin?",
-    "variantlar": [
-     "Hukumat bu ishga aholi to'laqoniga majbur qiladi",
-     "Metallarni tejash uchun aholi ham faol ishtirok etishi zarur",
-     "Mashina qismlarini yig'ib olish yassiqlantiruvchi narsadir",
-     "Aholi bu ishdan juda yomon ko'rinadi"
-    ],
-    "togri": 1,
-    "qiyinlik": "qiyin"
-   },
-   {
-    "savol": "Elektr toki bilan yuradigan avtomobillar ixtiro qilinganligidan qaysi ikkita foydali natija kutilmoqda?",
-    "variantlar": [
-     "Neftning tejashi va kelajakda shunday avtomobillarning ko'payish",
-     "Metallarning tejashi va yog'in yag'ishi",
-     "Avtomobil soningning oshishi va issiqlik elektrostansiyalari kopayish",
-     "Gazning tejashi va temir zaryadining oshishi"
+     "Foydali qazilmalarning zaxiralarini saqlash va kelajakni himoya qilish",
+     "Faqat baho tejash",
+     "Ishni ortiqcha qilish",
+     "Faqat xorijga jo'natish"
     ],
     "togri": 0,
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "'Foydali qazilmalardan oqilona foydalanish va ularni tejash' degan mavzuni ko'mir, neft, tabiiy gaz va metallarning tejash usullari orqali ko'rsatganida, bu nima anglatadi?",
+    "savol": "Agar metallurgiya kombinatlarida eski metallarni qayta ishlatmasligi bo'lsa, nima bo'ladi?",
     "variantlar": [
-     "Tejash imkonsiz",
-     "Barcha foydali qazilmalarning tejash usullari har xil va barchasi birgalikda tekshirish zarur",
-     "Faqat ko'mir tejash kerak",
-     "Faqat oltin va kumushni tejash lozim"
+     "Foydali metallarning zaxirasi tezroq tugab qoladi",
+     "Faqat ishsizlik ko'payadi",
+     "Hech narsa o'zgarishi yo'q",
+     "Faqat baho oshadi"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Elektr avtomobillariga o'tish va tabiiy gazdan elektr plitalariga o'tish orta-sida qanday bog'lanish bor?",
+    "variantlar": [
+     "Hech qanday bog'lanish yo'q",
+     "Ikkala ham foydali qazilmalarni tejash uchun",
+     "Faqat narxni tejash uchun",
+     "Faqat texnika uchun"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Agar plastmassalar turli chiqindilardan olinadigan bo'lsa, bu nima uchun foydali qazilmalarni tejash bilan bog'liq?",
+    "variantlar": [
+     "Chiqindilarni qayta ishlatib metallarni tejashga yordam berish uchun",
+     "Hech qanday bog'lanish yo'q",
+     "Faqat arzon bo'lishi uchun",
+     "Faqat mashinalarni yanada yaxshi qilish uchun"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Matndagi ma'lumotlarga asoslanib, kelajakda energiya manbai va material ishlatish qanday o'zgaradi?",
+    "variantlar": [
+     "Yog'och asosiy ishlatiladi",
+     "Ko'mir va neft shuning uchun ishlatiladi",
+     "Ko'mir va neft o'rniga gaz, elektr va plastmassa ko'payadi",
+     "Hech narsa o'zgarishi yo'q"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Eski metallarni yig'ib olishga aholi nima uchun jalb qilinadi?",
+    "variantlar": [
+     "Faqat ishlashi uchun",
+     "Faqat shu buyumlarning narxi uchun",
+     "Hech qanday sababi yo'q",
+     "Metallarni tejash va chiqindilardan muhit saqlash uchun"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Agar benzin sarfi kamaytirilib va tabiiy gazdan kam foydalanilsa, matning asosiy maqsadiga qaysi darajada erishmish bo'ladi?",
+    "variantlar": [
+     "To'liq erishmish",
+     "Aksincha, muammo ko'payadi",
+     "Hech erishmish bo'lmaydi",
+     "Qisman erishmish"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Foydali qazilmalarning oqilona foydalanishini ta'minlash uchun qanday omillar zarur?",
+    "variantlar": [
+     "Faqat davlat",
+     "Fan-texnika, aholi va davlatning hamkorligi",
+     "Faqat biznes muassasalari",
+     "Faqat o'qituvchilar"
     ],
     "togri": 1,
     "qiyinlik": "qiyin"
@@ -10115,7 +10104,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Kakkuqush bir soatda nechtа tukli qurtni yeyadi?",
+    "savol": "Kakkuqush bir soatda nechta tukli qurtni yeyadi?",
     "variantlar": [
      "150 tani",
      "50 tani",
@@ -11749,7 +11738,7 @@
     "variantlar": [
      "O'pkaga",
      "Suyaklarga",
-     "Jigarга",
+     "Jigarga",
      "Yurakka"
     ],
     "togri": 1,
@@ -12621,7 +12610,7 @@
     "variantlar": [
      "Yurakni kichiklashtiradi",
      "Yurakni doimiy yukga o'rgatib, uning ishlashni kuchaytiradi",
-     "Qon miqdorini ko'paytiади",
+     "Qon miqdorini ko'paytiadi",
      "Umuman ta'sir ko'rsatmaydi"
     ],
     "togri": 1,
@@ -12698,7 +12687,7 @@
     "variantlar": [
      "Faqat bosh og'riydi",
      "Organlar kislorod va oziq moddasini yetarlicha olmasligi sababli zarar ko'radi, shuning uchun yurakni saqlash muhim",
-     "Hech qanday natijaси yo'q",
+     "Hech qanday natijasi yo'q",
      "Faqat oyoqlar og'riydi"
     ],
     "togri": 1,
@@ -13159,7 +13148,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Dala ekinlari va mevali daraxtlarni zararkunanda hasharotlardan qo'riqlaш uchun nima ishlatiladi?",
+    "savol": "Dala ekinlari va mevali daraxtlarni zararkunanda hasharotlardan qo'riqlash uchun nima ishlatiladi?",
     "variantlar": [
      "Qayish va kabel",
      "Sug'orta",
@@ -13225,7 +13214,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Kimyoviy vositalar dala ekinlarini zarar berayotgan hasharotlardan qo'riqlaшда nima masalasini keltirib chiqaradi?",
+    "savol": "Kimyoviy vositalar dala ekinlarini zarar berayotgan hasharotlardan qo'riqlashda nima masalasini keltirib chiqaradi?",
     "variantlar": [
      "Tuproqning qoldirilishi",
      "Ustuvollarning ko'payishi",
@@ -13327,7 +13316,7 @@
     "savol": "Insonning qo'llari qanday nisbatda tabiatga salbiy ta'sir etmoqda?",
     "variantlar": [
      "Faqat qardida",
-     "Faoliyatining barcha soхalashida",
+     "Faoliyatining barcha soxalashida",
      "Faqat bog'da",
      "Faqat yozda"
     ],
@@ -13351,7 +13340,7 @@
      "Shunchaki o'ylasiz",
      "Tabiiy ko'chma hayvonlarni kushtashtirish uchun",
      "Faqat pul uchun",
-     "O'z ehtiyoji uchun yashash sharоitlarni yaratganda"
+     "O'z ehtiyoji uchun yashash sharoitlarni yaratganda"
     ],
     "togri": 3,
     "qiyinlik": "qiyin"
@@ -13361,7 +13350,7 @@
     "variantlar": [
      "Eng farqi yo'q",
      "Qadimda tabiat umuman saqlanmagan",
-     "Hozir tabiat yaхshi sifatda saqlangan",
+     "Hozir tabiat yaxshi sifatda saqlangan",
      "Qadimda insonning tabiatga ta'siri kichik bo'lgani uchun tabiatning o'zi saqlangan, hozir esa atayni harakatlar kerak"
     ],
     "togri": 3,
