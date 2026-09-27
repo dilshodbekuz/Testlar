@@ -12,6 +12,8 @@ Bosqich B (7,8,9-sinf mazmuniy audit) holati. Har bir kitob tugagach shu yerga b
 
 - **Algebra** (26 fayl / ~1560 savol, 4814 qator) — TO'LIQ TEKSHIRILDI (savolma-savol, barcha hisoblash masalalari — foizlar, o'rtacha arifmetik, tenglamalar, darajalar, ko'phadlar, algebraik kasrlar, qisqa ko'paytirish formulalari, kombinatorika, harakat masalalari — qo'lda qayta hisoblab tekshirildi, o'nlab murakkab so'z masalalari va kombinatorika hisob-kitoblari alohida tekshirilgan). Xato topilmadi — barcha javob kalitlari to'g'ri chiqdi. Fayl/mavzu soni mos (26/26), dublikat-mavzu muammosi yo'q.
 
+- **O'zbekiston tarixi** (26 fayl / ~780 savol, 4706 qator) — TO'LIQ TEKSHIRILDI (savolma-savol, boshidan oxirigacha). Tarixiy fakt manbasi PDF'ni o'zim o'qimaganim uchun (QOIDA 2) tekshiruv matn ichidagi mantiqiy izchillikka asoslandi: barcha yil-arifmetika savollari (masalan, "necha yil o'tgan" turidagi o'nlab QIYIN savollar — Afrig'/kidariylar, Bumin xoqon, Buxoro qo'zg'oloni/To'ng yabg'u, Tohiriylar/Somoniylar/G'aznaviylar hukmronlik davomiyligi, Chingizxon-Xorazm voqealari, Amir Temur/Ulug'bek/Navoiy sanalari, Ma'mun akademiyasi–Ulug'bek rasadxonasi–Volter oraliqlari va h.k.) qo'lda qayta hisoblab tekshirildi — hammasi to'g'ri chiqdi. Xronologik tartiblash va sabab-oqibat savollari ham matn ichida izchil. Mazmuniy javob-kalit yoki mantiqiy xato topilmadi. Fayl/mavzu soni mos (26/26; fayl raqamlari original darslik bo'lim raqamlariga mos — 7,9,10,11,14,17,19,25,27,28,29,32,35,36 raqamli §lar kitobda yo'q, bu darslikning o'z bobi tanlovi, dublikat emas).
+
 
 ## 3-sinf
 
