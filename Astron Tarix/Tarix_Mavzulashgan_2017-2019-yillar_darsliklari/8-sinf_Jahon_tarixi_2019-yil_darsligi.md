@@ -9,7 +9,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **1. Mashhur fizik va kimyogar olimlar - italiyalik Alessandro Volta, angliyalik Gemfri Devi va Maykl Faradey hamda fransuz Andre-Mari Amper fanning qaysi sohasida kashfiyotlar qilganlar?**
 
 - Optika
-- Elektrotexnika (to'g'ri)
++ Elektrotexnika
 - Mexanika
 - Gidravlika
 
@@ -18,33 +18,33 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Kommunistik jamiyat
 - Demokratik jamiyat
 - Sotsialistik jamiyat
-- Kapitalistik jamiyat (to'g'ri)
++ Kapitalistik jamiyat
 
 **3. «Yangi tarix» ning birinchi bosqichi qaysi davrlarni o’z ichiga oladi?**
 
 - Buyuk geografik kashfiyotlardan Birinchi jahon urushining yakuni - 1918-yilgacha bo’lgan davrni
 - XIX asrning boshidan Birinchi jahon urushining yakuni -1918-yilgacha bo’lgan davrni
 - Salib yurishlari yakunidan Buyuk geografik kashfiyotlargacha bo’lgan davrni
-- Buyuk geografik kashfiyotlardan XVIII asrning oxiridagi Buyuk fransuz burjua inqilobigacha bo’lgan davrni (to'g'ri)
++ Buyuk geografik kashfiyotlardan XVIII asrning oxiridagi Buyuk fransuz burjua inqilobigacha bo’lgan davrni
 
 **4. Qachon ingliz muhandisi Jorj Stefenson paravozni ixtiro qilgan?**
 
 - 1819-yilda
 - 1810-yilda
-- 1814-yilda (to'g'ri)
++ 1814-yilda
 - 1817-yilda
 
 **5. Iqtisodda bozor munosabatlari shakllangan, jamiyatda siyosiy va ijtimoiy tenglik, huquqiy davlat, kishilarning tabiiy huquqlari, diniy bag’rikenglik kabi qadriyatlar qaror topgan tarixiy davr qanday ataladi?**
 
 - Kapitalistik sivilizatsiya
 - Imperialistik sivilizatsiya
-- Industrial sivilizatsiya (to'g'ri)
++ Industrial sivilizatsiya
 - Kolonistik sivilizatsiya
 
 **6. Agrar sivilizatsiya qaysi davrni o’z ichiga oladi?**
 
 - Mezolit davridan XVIII asrning 80-yillarigacha
-- Neolit davridan XVIII asrning 60-yillarigacha (to'g'ri)
++ Neolit davridan XVIII asrning 60-yillarigacha
 - Eneolit davridan XIX asrning 50-yillarigacha
 - Temir davridan XVII asrning 50-yillarigacha
 
@@ -53,18 +53,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Bir asr
 - Ikki asr
 - Uch asr
-- To’rt asr (to'g'ri)
++ To’rt asr
 
 **8. Xususiy mulkning asosini sanoat korxonalari tashkil etadigan, shuningdek, rivojlangan bozor iqtisodiyoti va yuqori sanoat ishlab chiqarishiga asoslangan jamiyat qanday ataladi?**
 
-- Kapitalistik jamiyat (to'g'ri)
++ Kapitalistik jamiyat
 - Demokratik jamiyat
 - Kommunistik jamiyat
 - Sotsialistik jamiyat
 
 **9. Jahon tarixida «Yangi tarix» necha bosqichga bo’linadi?**
 
-- Ikki bosqichga (to'g'ri)
++ Ikki bosqichga
 - Uch bosqichga
 - To’rt bosqichga
 - Besh bosqichga
@@ -73,7 +73,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Kapitalistik sivilizatsiya
 - Imperialistik sivilizatsiya
-- Industrial sivilizatsiya (to'g'ri)
++ Industrial sivilizatsiya
 - Kolonistik sivilizatsiya
 
 **11. Agrar sivilizatsiya yoki an’anaviy jamiyat nima?**
@@ -81,18 +81,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - O’rta asrlarda insoniyatning an’analar asosida hayot kechirishi
 - Jamiyatda kishilar tabaqalarga bo’linib yashashi
 - O’rta asrlarda insoniyatning qishloq xo‘jaligiga tayangan iqtisodiyot asosida hayot kechirishi
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **12. Jahon tarixida «Yangi tarix» qaysi davrni o’z ichiga oladi?**
 
 - Salib yurishlari yakunidan Buyuk geografik kashfiyotlargacha bo’lgan davrni
 - Buyuk geografik kashfiyotlardan XVIII asrning oxiridagi Buyuk fransuz burjua inqilobigacha bo’lgan davrni
-- Buyuk geografik kashfiyotlardan Birinchi jahon urushining yakuni - 1918-yilgacha bo’lgan davrni (to'g'ri)
++ Buyuk geografik kashfiyotlardan Birinchi jahon urushining yakuni - 1918-yilgacha bo’lgan davrni
 - XIX asrning boshidan Birinchi jahon urushining yakuni -1918-yilgacha bo’lgan davrni
 
 **13. «Yangi tarix» ning ikkinchi bosqichi qaysi davrlarni o’z ichiga oladi?**
 
-- XIX asrning boshidan Birinchi jahon urushining yakuni -1918-yilgacha bo’lgan davrni (to'g'ri)
++ XIX asrning boshidan Birinchi jahon urushining yakuni -1918-yilgacha bo’lgan davrni
 - Buyuk geografik kashfiyotlardan XVIII asrning oxiridagi Buyuk fransuz burjua inqilobigacha bo’lgan davrni
 - Buyuk geografik kashfiyotlardan Birinchi jahon urushining yakuni - 1918-yilgacha bo’lgan davrni
 - Salib yurishlari yakunidan Buyuk geografik kashfiyotlargacha bo’lgan davrni
@@ -102,14 +102,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 **14. Qachon Bartolomeu Diash boshchiligidagi ekspeditsiya Afrika janubidagi burunni aylanib o‘tib, Hind okeaniga chiqqan?**
 
-- XV asr oxirida (to'g'ri)
++ XV asr oxirida
 - XIV asr boshida
 - XIV asr oxirida
 - XV asr boshida
 
 **15. Xristofor Kolumb qaysi mamlakat qiroliga Atlantika okean bo‘ylab g’arbga qarab suzib, dengiz orqali Hindistonga yo‘l ochishni taklif qilgan?**
 
-- Ispaniya qiroliga (to'g'ri)
++ Ispaniya qiroliga
 - Angliya qiroliga
 - Portugaliya qiroliga
 - Fransiya qiroliga
@@ -119,12 +119,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Vasko da Gama ekspeditsiyasi
 - Bartolomeu Diash ekspeditsiyasi
 - Amerigo Vespuchchi ekspeditsiyasi
-- Fernando Magellan ekspeditsiyasi (to'g'ri)
++ Fernando Magellan ekspeditsiyasi
 
 **17. Vasko da Gama boshchiligidagi ekspeditsiya qachon arab dengizchisi Ahmad ibn Majid yordamida Hindistonga yetib kelgan?**
 
 - 1497-yilda
-- 1498-yilda (to'g'ri)
++ 1498-yilda
 - 1496-yilda
 - 1499-yilda
 
@@ -132,19 +132,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Hind okeanidan
 - Atlantika okeanidan
-- O‘rtayer dengizidan (to'g'ri)
++ O‘rtayer dengizidan
 - Qora dengizdan
 
 **19. Karavellalar qaysi okeandan xavfsiz suzib o‘ta oladigan ilk kemalar edi?**
 
 - Hind okeanidan
 - Tinch okeanidan
-- Atlantika okeanidan (to'g'ri)
++ Atlantika okeanidan
 - Shimoliy muz okeanidan
 
 **20. Qaysi dengizchi Indoneziya qirg‘oqlaridan sharqqa tomon suzib, Avstraliyani janubdan aylanib o‘tgan va keyinchalik Tasmaniya deb atalgan orolni kashf etgan?**
 
-- Abel Tasman (to'g'ri)
++ Abel Tasman
 - Luis Tasman
 - Fridrix Tasman
 - Genri Tasman
@@ -153,13 +153,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1 ta kemada
 - 2 ta kemada
-- 3 ta kemada (to'g'ri)
++ 3 ta kemada
 - 4 ta kemada
 
 **22. Qayerga dengiz yo‘lining ochilishiga umid qilgan dengizchilar Afrikaning janubidagi burunga “Yaxshi Umid burni” deb nom berganlar?**
 
 - Amerikaga
-- Hindistonga (to'g'ri)
++ Hindistonga
 - Arabistonga
 - Xitoyga
 
@@ -167,12 +167,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Inglizlar
 - Ispanlar
-- Portugallar (to'g'ri)
++ Portugallar
 - Fransuzlar
 
 **24. Qaysi dengizchi notanish va sokin bo‘lgan ulkan okeanga “Tinch okeani” nomini bergan?**
 
-- Fernando Magellan (to'g'ri)
++ Fernando Magellan
 - Vasko da Gama
 - Bartolomeu Diash
 - Amerigo Vespuchchi
@@ -180,7 +180,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **25. Xristofor Kolumb nechta ekspeditsiya uyushtirib, Antil orollari, Janubiy va Markaziy Amerika qirg‘oqlarini kashf etgan?**
 
 - 4 ta ekspeditsiya
-- 3 ta ekspeditsiya (to'g'ri)
++ 3 ta ekspeditsiya
 - 2 ta ekspeditsiya
 - 5 ta ekspeditsiya
 
@@ -189,25 +189,28 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Yerning dumaloqligi to‘g‘risidagi tasavvurlar
 - Atlantika okeanidan suzib o‘tib, afsonaviy boy hisoblangan Hindistonga dengiz yo‘lini ochish g’oyasi
 - О’rtayer dengizi orqali o‘zlashtirilgan savdo yo‘llari XV asrda Vizantiya imperiyasi qulagandan so‘ng Usmoniylar davlati tomonidan yopib qo‘yilishi
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **27. XV asrda Madeyra, Kanar, Azor orollarini kimlar kashf qilishgan?**
 
 - Fransuzlar
 - Inglizlar
-- Portugallar (to'g'ri)
++ Portugallar
 - Ispanlar
 
 **28. Xristofor Kolumb nima sababdan yangi kashf qilingan yerlarning aholisini “hindular” deb atagan?**
 
 - Yangi kashf qilingan yerlarning aholisi o’zlarini hindu deb atagani uchun
 - Hindistonga dengiz yo’lini ochish orzusi so’nmagani uchun
-- O‘zi kashf etgan yerlarning Hindiston ekanligiga ishonchi komil bo’lgani uchun (to'g'ri)
++ O‘zi kashf etgan yerlarning Hindiston ekanligiga ishonchi komil bo’lgani uchun
 - Yangi kashf qilingan yerlarning aholisi hind tiliga o’xshash tilda so’zlashgani uchun 
 
 **29. Quyidagi rasmda qaysi turdagi kema tasvirlangan?**
 
-- Karavella (to'g'ri)
+
+![](../images/astron58586526644418.png)
+
++ Karavella
 - Triyera
 - Galera
 - Esminets
@@ -215,13 +218,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **30. Quyidagilardan qaysi biri o’z ekspeditsiyasi nihoyasiga yetmasdan halok bo’lgan?**
 
 - Vasko da Gama
-- Fernando Magellan (to'g'ri)
++ Fernando Magellan
 - Amerigo Vespuchchi
 - Bartolomeu Diash
 
 **31. Buyuk geografik kashfiyotlar qaysi davrlarni o’z ichiga oladi?**
 
-- XV-XVII asrlarni (to'g'ri)
++ XV-XVII asrlarni
 - XIV-XV asrlarni
 - XVIII- XIX asrlarni
 - XVII-XIX asrlarni
@@ -230,7 +233,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1608-yilda
 - 1609-yilda
-- 1606-yilda (to'g'ri)
++ 1606-yilda
 - 1611-yilda
 
 **33. Xristofor Kolumb o’zi kashf qilgan birinchi orolni qanday atagan?**
@@ -238,25 +241,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - «San-Bernardino» («Muqaddas makon»)
 - «San-Isla de Nuerta» («Muqaddas orol»)
 - «San-Stefano» («Muqaddas najotkor»)
-- «San-Salvador» («Muqaddas xaloskor») (to'g'ri)
++ «San-Salvador» («Muqaddas xaloskor»)
 
 **34. Okean to’lqinlariga bardosh beruvchi, shamolga qarshi suza oladigan yelkanli kemalar qanday atalgan?**
 
-- Karavella (to'g'ri)
++ Karavella
 - Triyera
 - Galera
 - Esminets
 
 **35. Vasko da Gama boshchiligidagi ekspeditsiya qachon Afrikani janubdan aylanib o‘tib, Hind okeaniga chiqqan?**
 
-- 1497-yilda (to'g'ri)
++ 1497-yilda
 - 1498-yilda
 - 1496-yilda
 - 1495-yilda
 
 **36. Amerikaning janubidagi bo’g’oz qaysi dengizchi nomi bilan atalgan?**
 
-- Fernando Magellan (to'g'ri)
++ Fernando Magellan
 - Vasko da Gama
 - Bartolomeu Diash
 - Amerigo Vespuchchi
@@ -264,13 +267,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **37. 1492-yil 12-oktabrda … .**
 
 - Xristofor Kolumb boshchiligida tashkil qilingan ekspeditsiya yo‘lga chiqqan
-- Xristofor Kolumb boshchiligida tashkil qilingan ekspeditsiya Bagama orollari taikibiga kiruvchi bir orolga yetib kelgan (to'g'ri)
++ Xristofor Kolumb boshchiligida tashkil qilingan ekspeditsiya Bagama orollari taikibiga kiruvchi bir orolga yetib kelgan
 - Bartolomeu Diash boshchiligida tashkil qilingan ekspeditsiya “Yaxshi Umid burni” ga yetib kelgan
 - Shahzoda Genrix Dengizchi boshchiligida tashkil qilingan ekspeditsiya Kanar orollariga yetib kelgan
 
 **38. Buyuk geografik kashfiyotlardan keyin asosiy suv savdo yo’llari qayerga ko’chgan?**
 
-- Atlantika okeaniga (to'g'ri)
++ Atlantika okeaniga
 - O’rtayer dengiziga
 - Qora dengizga
 - Hind okeaniga
@@ -279,13 +282,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1608-yilda
 - 1611-yilda
-- 1606-yilda (to'g'ri)
++ 1606-yilda
 - 1609-yilda
 
 **40. Vasko da Gama boshchiligidagi ekspeditsiya qachon Portugaliyaga qaytib kelgan?**
 
 - 1496-yilda
-- 1499-yilda (to'g'ri)
++ 1499-yilda
 - 1498-yilda
 - 1497-yilda
 
@@ -294,12 +297,15 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Fernando Magellan
 - Vasko da Gama
 - Bartolomeu Diash
-- Amerigo Vespuchchi (to'g'ri)
++ Amerigo Vespuchchi
 
 **42. Quyidagi rasmda qaysi qit’a sariq rang bilan belgilangan?**
 
+
+![](../images/astron835161789389.png)
+
 - Shimoliy Amerika qit`asi
-- Avstraliya qit`asi (to'g'ri)
++ Avstraliya qit`asi
 - Afrika qit`asi
 - Janubiy Amerika qit`asi
 
@@ -308,27 +314,27 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - XIV asr boshida
 - XIV asr oxirida
 - XV asr boshida
-- XV asr oxirida (to'g'ri)
++ XV asr oxirida
 
 **44. Qaysi mamlakat dengizchilari XVI asrning ikkinchi yarmi - XVII asrning boshlarida Sulaymon (Solomon) orollari, Janubiy Polineziya va Melaneziyani kashf etganlar?**
 
 - Fransiya dengizchilari
 - Portugaliya dengizchilari
 - Angliya dengizchilari
-- Ispaniya dengizchilari (to'g'ri)
++ Ispaniya dengizchilari
 
 **45. Genrix Dengizchi qaysi mamlakat shahzodasi bo’lgan?**
 
 - Ispaniya
 - Angliya
-- Portugaliya (to'g'ri)
++ Portugaliya
 - Fransiya
 
 **46. Qachon portugaliyalik dengizchi Fernando Magellan ekspeditsiyasi Amerika janubidagi bir bo‘g‘ozni aylanib o’tib, Tinch okeaniga chiqqan?**
 
 - 1522-yilda
 - 1517-yilda
-- 1519-yilda (to'g'ri)
++ 1519-yilda
 - 1524-yilda
 
 **47. “Avstraliya” so’zining ma’nosi nima?**
@@ -336,26 +342,29 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - «G’arbiy Yer»
 - «Shimoliy Yer»
 - «Sharqiy Yer»
-- «Janubiy Yer» (to'g'ri)
++ «Janubiy Yer»
 
 **48. Qachon portugaliyalik dengizchi Fernando Magellan ekspeditsiyasi Ispaniya qirg‘oqlariga qaytib kelgan?**
 
 - 1524-yilda
 - 1517-yilda
 - 1519-yilda
-- 1522-yilda (to'g'ri)
++ 1522-yilda
 
 **49. Quyidagi rasmda Kalikut shahri qaysi raqam bilan belgilangan?**
 
+
+![](../images/astron2095318364573.png)
+
 - IV
 - III
-- I (to'g'ri)
++ I
 - II
 
 **50. Kapitalistik jamiyatda mehnat qurollari va ishlab chiqarish vositalariga egalik qiluvchi va ulardan daromad oluvchi hukmron sinf qanday atalgan?**
 
 - Monopolist
-- Burjuaziya (to'g'ri)
++ Burjuaziya
 - Aristokratiya
 - Proletariat
 
@@ -364,7 +373,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 **51. Angliyaning poytaxti London shahri qaysi daryo bo’yida joylashgan?**
 
-- Temza daryosi bo’yida (to'g'ri)
++ Temza daryosi bo’yida
 - Valensy daryosi bo’yida
 - Duero daryosi bo’yida
 - Kenay daryosi bo’yida
@@ -372,7 +381,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **52. O‘rta asrlarda banklar rolini qaysi muassasa bajargan?**
 
 - Pul zarb qilinadigan ustaxonalar
-- Pul maydalaydigan sarroflik do‘konlari (to'g'ri)
++ Pul maydalaydigan sarroflik do‘konlari
 - Yaxshi himoyalangan qal’a va qo’rg’onlar
 - Qo’riqlanadigan omborxonaga ega cherkovlar
 
@@ -380,12 +389,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Germaniya
 - Ispaniya
-- Fransiya (to'g'ri)
++ Fransiya
 - Angliya
 
 **54. Buyuk geografik kashfiyotlardan so‘ng Amerikadan oltin, kumush va boshqa qimmatbaho metallar yevropa bozorlariga kо‘plab keltirildi. Qirollar mamlakatda ishlab chiqarilgan mahsulotga nisbatan ancha ko‘p oltin va kumush tangalar zarb qildilar. Pul kо‘paygan sharoitda hunarmandlar va savdogarlar kasodga uchramaslik uchun o’z tovarlarining narxini oshirishga majbur bo’ldi. Shu tariqa yuz yillar davomida o‘zgarmasdan kelgan narx-navo shiddat bilan o‘sa boshladi. Bu jarayon … deb ataldi.**
 
-- «Narx-navo inqilobi» (to'g'ri)
++ «Narx-navo inqilobi»
 - «Bozor inqilobi»
 - «Tovar inqilobi»
 - «Talab-taklif inqilobi»
@@ -394,12 +403,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Barreiro
 - Elvas
-- Lissabon (to'g'ri)
++ Lissabon
 - Guarda
 
 **56. XV asrda zamonaviy ko‘rinishdagi ilk bank - Avliyo Georgiy banki qaysi shaharda paydo bo’lgan?**
 
-- Genuyada (to'g'ri)
++ Genuyada
 - Milanda
 - Venetsiyada
 - Rimda
@@ -408,27 +417,27 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Qishloq aholisi
 - Savdo-sotiq vakillari
-- Yollanma ishchilar (to'g'ri)
++ Yollanma ishchilar
 - Mahsulot ishlab chiqaruvchilar
 
 **58. XVI asrda G’arbiy Yevropaning qaysi shahrida diniy urushlar va vabo epidemiyasi natijasida o’n minglab aholi vafot etgan, shaharning rivojlanishi sekinlashgan?**
 
 - Madridda
 - Lissabonda
-- Parijda (to'g'ri)
++ Parijda
 - Londonda
 
 **59. Yangi davr boshlarida Angliyaning qaysi shahri Yevropaning asosiy savdo markaziga aylangan?**
 
 - Liverpul
-- London (to'g'ri)
++ London
 - Manchester
 - Birmingem
 
 **60. Yangi davr boshlarida G‘arbiy Yevropada aholining qaysi qatlami yangi zodagonlar deb atalgan?**
 
 - Uzoq va xatarli sayohatlarga otlanib, tezda boyib ketgan qatlami
-- Burjuaziyaning eski zodagonlar bilan quda-andachilik qilib, o’zlariga yuqori martaba va unvonlar sotib olgan qatlami (to'g'ri)
++ Burjuaziyaning eski zodagonlar bilan quda-andachilik qilib, o’zlariga yuqori martaba va unvonlar sotib olgan qatlami
 - Bosib olingan o’lkalarga borib o’rnashib, yer-mulk egasiga aylangan qatlami
 - Eski zodagonlarning tadbirkorchilik bilan shug’ullanishga o’tgan qatlami
 
@@ -436,7 +445,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Dividend
 - Chek
-- Aksiya (to'g'ri)
++ Aksiya
 - Valyuta
 
 **62. Yangi davr boshlarida dehqonlar ekin ekishda qaysi usuldan foydalanishga o’tishgan?**
@@ -444,12 +453,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Ikki dalali ekishga
 - Uch dalali ekishga
 - To’rt dalali ekishga
-- Ko’p dalali ekishga (to'g'ri)
++ Ko’p dalali ekishga
 
 **63. Qaysi davrdan Yevropaning savdo chorrahalari Shimoliy dengiz qirg’oqlariga ko’chgan?**
 
 - XVI asrning birinchi yarmidan
-- XVI asrning ikkinchi yarmidan (to'g'ri)
++ XVI asrning ikkinchi yarmidan
 - XVII asrning birinchi yarmidan
 - XVII asrning ikkinchi yarmidan
 
@@ -458,25 +467,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Kordova
 - Saragosa
 - Madrid
-- Sevilya (to'g'ri)
++ Sevilya
 
 **65. Yangi davr boshlarida G’arbiy Yevropada savdogarlar ulgurji savdo qiladigan, xaridorlar bilan oldi-sotdi shartnomasi tuziladigan joy qanday atalgan?**
 
 - Manufaktura
-- Birja (to'g'ri)
++ Birja
 - Yarmarka
 - Bank
 
 **66. Yangi davr boshlarida kapitalistik munosabatlar jadal rivojlangan G‘arbiy Yevropa mamlakatlarida kishilarning yangi tipi - … paydo bo’ldi.**
 
 - Sudxo’r
-- Tadbirkor (to'g'ri)
++ Tadbirkor
 - Aksioner
 - Kapitalist
 
 **67. “Manufaktura” so’zining ma’nosi nima?**
 
-- Qo‘l mehnatiga asoslangan ishlab chiqarish (to'g'ri)
++ Qo‘l mehnatiga asoslangan ishlab chiqarish
 - Qul mehnatiga asoslangan ishlab chiqarish
 - Yollanma ishchi mehnatiga asoslangan ishlab chiqarish
 - Mashina mehnatiga asoslangan ishlab chiqarish
@@ -484,7 +493,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **68. Yangi davr boshlarida Yevropaning savdo chorrahalari Shimoliy dengiz qirg’oqlariga ko’chganda Niderland qirolligining qaysi shahri savdo markaziga aylangan?**
 
 - Amsterdam
-- Antverpen (to'g'ri)
++ Antverpen
 - Leyden
 - Rotterdam
 
@@ -493,25 +502,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - “Birja”
 - “Konglomerat”
 - “Korporatsiya”
-- “Gildiya” (to'g'ri)
++ “Gildiya”
 
 **70. Kishilar bir-biridan kapitalning mavjudligi va daromad darajasiga qarab farqlanadigan jamiyat qanday ataladi?**
 
-- Sinfiy jamiyat (to'g'ri)
++ Sinfiy jamiyat
 - Kapitalistik jamiyat
 - Burjua jamiyati
 - Tovar-pul jamiyati
 
 **71. Yangi davr boshlarida G’arbiy Yevropada savdogarlar nima maqsadda aksionerlik kompaniyalariga birlasha boshlagan?**
 
-- Xavf-xatar katta bo’lgan uzoq masofalar bilan savdo qilish uchun (to'g'ri)
++ Xavf-xatar katta bo’lgan uzoq masofalar bilan savdo qilish uchun
 - O’z daromadlarini oshirish uchun
 - Xarajatlarni kamaytirish uchun
 - Kuchli raqobat muhitida kasodga uchramaslik uchun
 
 **72. Yangi davr boshlarida Yevropada bozorda sotishga mo‘ljallangan mahsulot ishlab chiqaruvchi xo’jaliklar qanday atalgan?**
 
-- Tovar ishlab chiqaruvchi xo’jaliklar (to'g'ri)
++ Tovar ishlab chiqaruvchi xo’jaliklar
 - Sanoat xo’jaliklari
 - Bozor xo’jaliklari
 - Natural xo’jalik
@@ -522,62 +531,68 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **73. Martin Lyuterning «95 tezislar» deb ataluvchi da’vati nimaga qarshi qaratilgan edi?**
 
 - Interdiktga
-- Indulgensiyaga (to'g'ri)
++ Indulgensiyaga
 - Autodafega
 - Inkvizitsiyaga
 
 **74. Xristianlikning qaysi mazhabining Injilni mustaqil o’qish, Xudo oldida shaxsiy javobgarlik hissi kabi o‘ziga xos jihatlari aholi orasida individualizmning rivojlanishiga ko‘maklashgan va savodxonlikni oshirgan?**
 
 - Katolik mazhabining
-- Protestant mazhabining (to'g'ri)
++ Protestant mazhabining
 - Provaslav mazhabining
 - Kalvinizm mazhabining
 
 **75. «Duo o’qi va ishla!» shiori qaysi ta’limotning asosi bo’lgan?**
 
 - Martin Lyuter ta’limotning
-- Jan Kalvin ta’limotining (to'g'ri)
++ Jan Kalvin ta’limotining
 - Tomas Myunser ta’limotning
 - Jon Boll ta’limotning
 
 **76. O’rta asrlarda cherkov marosimlari qaysi tilda olib borilgan?**
 
 - Yunon tilida
-- Lotin tilida (to'g'ri)
++ Lotin tilida
 - Ivrit tilida
 - Har davlatning o’z rasmiy tilida
 
 **77. Reformatsiya davrida siyosiy jihatdan tarqoq bo‘lgan qaysi davlat Papa boshliq katolik reaksiyaning barcha dahshatini o‘zida his qilgan?**
 
-- Italiya (to'g'ri)
++ Italiya
 - Fransiya
 - Germaniya
 - Ispaniya
 
 **78. Quyidagi rasmda qaysi hodisa tasvirlangan?**
 
-- Ignatiy Loyola Rim papasi huzurida (to'g'ri)
+
+![](../images/astron24512540788450.png)
+
++ Ignatiy Loyola Rim papasi huzurida
 - Jan Kalvin Rim papasi huzurida
 - Tomas Myunser Rim papasi huzurida
 - Martin Lyuter Rim papasi huzurida
 
 **79. Quyidagi rasmda kim tasvirlangan?**
 
+
+![](../images/astron5517377599635.png)
+
 - Jan Kalvin
 - Ignatiy Loyola
 - Tomas Myunser
-- Martin Lyuter (to'g'ri)
++ Martin Lyuter
 
 **80. Martin Lyuterning «95 tezislar» da’vati aslida nima uchun mo’ljallangan edi?**
 
 - Fanni cherkovdan ajratish uchun
-- Ilmiy munozara uchun (to'g'ri)
++ Ilmiy munozara uchun
 - Katolik cherkovi hokimiyatini kuchsizlantirish uchun
 - O’z cherkovini yaratish uchun
 
 **81. Germaniyadagi “Xalq Reformatsiyasi” deb atalgan dehqonlar qo’zg’oloni qachon bostirilgan?**
 
-- 1526-yil boshida (to'g'ri)
++ 1526-yil boshida
 - 1528-yil boshida
 - 1527-yil boshida
 - 1529-yil boshida
@@ -585,36 +600,39 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **82. «Iso jamiyati» asoschisi zodagon Ignatiy Loyola qaysi millatga mansub edi?**
 
 - Italyan millatiga
-- Ispan millatiga (to'g'ri)
++ Ispan millatiga
 - Nemis millatiga
 - Fransuz millatiga
 
 **83. Quyidagi xaritada 2 raqami bilan qaysi davlat belgilangan?**
 
+
+![](../images/astron7375677677127.png)
+
 - Lixtenshteyn grafligi
 - Birlashgan provinsiyalar
 - Belgiya qirolligi
-- Shveysariya ittifoqi (to'g'ri)
++ Shveysariya ittifoqi
 
 **84. G’arbiy Yevropaning qaysi mamlakati Yangi davr boshlarida tarqoq knyazliklardan iborat bo’lib, ichki ishlarida hal qiluvchi rolga katolik cherkov da’vo qilardi va juda katta yerlar, hatto butun boshli shaharlar ham katolik cherkoviga qarashli edi?**
 
 - Angliyada
 - Ispaniyada
-- Germaniyada (to'g'ri)
++ Germaniyada
 - Fransiyada
 
 **85. Kalvinizm ta’limotini kimlar qo‘llab-quvvatlaganlar?**
 
 - Hukmdor xonadon vakillari
 - Dehqon va hunarmandlar
-- Yangi zodagonlar va burjuaziya (to'g'ri)
++ Yangi zodagonlar va burjuaziya
 - Barcha javoblar to’g’ri
 
 **86. G’arbiy Yevropada xristianlik cherkovini isloh qilish jarayoni qanday nomlangan?**
 
 - Transformatsiya
 - Urbanizatsiya
-- Reformatsiya (to'g'ri)
++ Reformatsiya
 - Katolizatsiya
 
 **87. Martin Lyuterning «95 tezislar» da’vati qaysi tildan nemis tiliga tarjima qilingan?**
@@ -622,12 +640,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Saksoniya tilidan
 - Yunon tilidan
 - Ivrit tilidan
-- Lotin tilidan (to'g'ri)
++ Lotin tilidan
 
 **88. Katolik cherkov tomonidan protestantlarga qarshi qo‘llanilgan tadbirlar tarixda qanday nom olgan?**
 
 - Protireformatsiya
-- Kontrreformatsiya (to'g'ri)
++ Kontrreformatsiya
 - Prereformatsiya
 - Antireformatsiya
 
@@ -635,19 +653,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - “Yeretik dehqonlar urushi”
 - “Katolik dehqonlar urushi”
-- “Buyuk dehqonlar urushi” (to'g'ri)
++ “Buyuk dehqonlar urushi”
 - “Kambag’al dehqonlar urushi”
 
 **90. Martin Lyuterning «95 tezislar» da’vatidan jahli chiqqan Rim papasi uni qayshi shahar sudiga chaqirgan?**
 
 - Kyoln shahri sudiga
 - Myunxen shahri sudiga
-- Vorms shahri sudiga (to'g'ri)
++ Vorms shahri sudiga
 - Gamburg shahri sudiga
 
 **91. Kalvinizm ta’limotiga fransuz Jan Kalvin qayerda asos solgan?**
 
-- Jeneva shahrida (to'g'ri)
++ Jeneva shahrida
 - Bern shahrida
 - Parij shahrida
 - Vena shahrida
@@ -656,7 +674,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - «Adashgan olomonni gulxanda yoqish»
 - «Adashgan olomonni inkivizitsiyaga topshirish»
-- «Adashgan olomonni cherkovga qaytarish» (to'g'ri)
++ «Adashgan olomonni cherkovga qaytarish»
 - «Adashgan olomonni qilichdan o’tkazish»
 
 **93. “Xalq Reformatsiyasi” deb atalgan dehqonlar qo’zg’olonidan keyin Germaniya reyxstagida Reformatsiyaning yutuqlarini bekor qilishga norozilik bildirganlar nima deb atalgan?**
@@ -664,19 +682,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Kalvinistlar
 - Pravoslavlar
 - Lyuteranlar
-- Protestantlar (to'g'ri)
++ Protestantlar
 
 **94. “Lyuteranlar” deb kimlarga aytiladi?**
 
 - Martin Lyuter g’oyalariga qarshi kurashganlarga
-- Martin Lyuter tarafdotlari bo’lib, uning g’oyalari asosida o‘z mazhabi va cherkovini tashkil qilganlarga (to'g'ri)
++ Martin Lyuter tarafdotlari bo’lib, uning g’oyalari asosida o‘z mazhabi va cherkovini tashkil qilganlarga
 - Martin Lyuterning universitetdagi ilk tarafdorlariga
 - Martin Lyuter g’oyalarini qo’llab quvvatlagani uchun cherkov tomonidan jazolanganlarga
 
 **95. G’arbiy Yevropada katolik cherkovini isloh qilish jarayoni qaysi davlatda boshlangan?**
 
 - Angliyada
-- Germaniyada (to'g'ri)
++ Germaniyada
 - Fransiyada
 - Ispaniyada
 
@@ -685,18 +703,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Jan Kalvin
 - Ignatiy Loyola
 - Martin Lyuter
-- Tomas Myunser (to'g'ri)
++ Tomas Myunser
 
 **97. G’arbiy Yevropada katolik cherkovini isloh qilish jarayoni qachon boshlangan?**
 
 - 1518-yilda
-- 1517-yilda (to'g'ri)
++ 1517-yilda
 - 1524-yilda
 - 1520-yilda
 
 **98. Qachon Reformatsiyaga qarshi kurashish uchun Rim papasi «Iso jamiyati» yoki iyezuitlar («Iyezus» - Iisus, Iso) ordenini ta’sis etgan?**
 
-- 1540-yilda (to'g'ri)
++ 1540-yilda
 - 1544-yilda
 - 1539-yilda
 - 1551-yilda
@@ -706,11 +724,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Jinoyatchilarni o’tda yoqish to’g’risida Rim papasining farmoni
 - Qirolni hokimiyatdan chetlatish to’g’risidagi Rim papasining yorlig’i
 - Gunohlarni afv etganlik to’g’risida qirolning maxsus yorlig’i
-- Gunohlarni afv etganlik to’g’risida Rim papasining maxsus yorlig’i (to'g'ri)
++ Gunohlarni afv etganlik to’g’risida Rim papasining maxsus yorlig’i
 
 **100. Katolik cherkovini islohotini boshlab bergan Martin Lyuter Germaniyaning qaysi universitetda ilohiyot professori bo’lib faoliyat yuritgan?**
 
-- Vittenberg universitetida (to'g'ri)
++ Vittenberg universitetida
 - Shtutgard universitetida
 - Frayburg universitetida
 - Geydelberg universitetida
@@ -718,7 +736,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **101. Germaniyada “Xalq Reformatsiyasi” deb atalgan dehqonlar qo’zg’oloni qachon boshlangan?**
 
 - 1520-yilda
-- 1524-yilda (to'g'ri)
++ 1524-yilda
 - 1518-yilda
 - 1517-yilda
 
@@ -727,42 +745,48 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - “Aybsizlik”
 - “Qo’shilmaslik”
 - “Qarshilik”
-- “Norozilik” (to'g'ri)
++ “Norozilik”
 
 ## 4-§ G’arbiy Yevropada Yangi davr madaniyatining shakllanishi.
 
 
 **103. Quyidagi asar nomini toping.**
 
+
+![](../images/astron4655054572533.png)
+
 - «Ilohiy kun»
 - «Mona Liza»
-- «Sikstin madonnasi» (to'g'ri)
++ «Sikstin madonnasi»
 - «Isoning tug’ulishi»
 
 **104. Ingliz olimi Isaak Nyuton qaysi yillarda yashagan?**
 
 - 1606-1669-yillarda
-- 1643-1727-yillarda (to'g'ri)
++ 1643-1727-yillarda
 - 1627-1699-yillarda
 - 1632-1704-yillarda
 
 **105. Quyidagi rasmda kim tasvirlangan?**
 
+
+![](../images/astron76158078811067.png)
+
 - Rembrandt
 - Migel de Servantes
-- Uilyam Shekspir (to'g'ri)
++ Uilyam Shekspir
 - Tomas Mor
 
 **106. «Mona Liza» («Jokonda») kartinasi muallifi kim?**
 
 - Giorgio Vasari
 - Mikelanjelo Buonarroti
-- Leonardo da Vinchi (to'g'ri)
++ Leonardo da Vinchi
 - Rafael Santi
 
 **107. Ingliz yozuvchisi Uilyam Shekspir qaysi yillarda yashagan?**
 
-- 1564-1616-yillarda (to'g'ri)
++ 1564-1616-yillarda
 - 1478-1535-yillarda
 - 1452-1519-yillarda
 - 1547-1616-yillarda
@@ -770,41 +794,47 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **108. “Olam abadiy mavjud, u hech qachon yo‘q bo‘lmaydi”, degan xulosani dadil ilgari surgan, olamning cheksizligi va abadiyligi haqidagi nazariyani yaratgan olim kim?**
 
 - Galileo Galiley
-- Jordano Bruno (to'g'ri)
++ Jordano Bruno
 - Jon Lokk
 - Nikolay Kopernik
 
 **109. Quyidagi rasmda kim tasvirlangan?**
 
+
+![](../images/astron6568195783690.png)
+
 - Rembrandt
-- Migel de Servantes (to'g'ri)
++ Migel de Servantes
 - Uilyam Shekspir
 - Tomas Mor
 
 **110. Kim ideal davlat namunasini yaratib, uni «Utopiya» deb atagan?**
 
 - Migel de Servantes
-- Tomas Mor (to'g'ri)
++ Tomas Mor
 - Uilyam Shekspir
 - Jon Lokk
 
 **111. Italiyalik olim Galileo Galiley qaysi yillarda yashagan?**
 
 - 1552-1621-yillarda
-- 1564-1642-yillarda (to'g'ri)
++ 1564-1642-yillarda
 - 1548-1600-yillarda
 - 1547-1616-yillarda
 
 **112. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron4632346413456.png)
+
 - Galileo Galiley
-- Jordano Bruno (to'g'ri)
++ Jordano Bruno
 - Jon Lokk
 - Nikolay Kopernik
 
 **113. Qaysi olim insonning tabiiy huquqlari: yashash, erkinlik va mulk huquqlari haqidagi ta’limotni yaratgan?**
 
-- Jon Lokk (to'g'ri)
++ Jon Lokk
 - Jan Kalvin
 - Martin Lyuter
 - Tomas Mor
@@ -814,18 +844,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1547-1616-yillarda
 - 1478-1535-yillarda
 - 1564-1616-yillarda
-- 1452-1519-yillarda (to'g'ri)
++ 1452-1519-yillarda
 
 **115. Gumanizm XIV asr o ‘rtalarida dastlab qaysi mamlakatda paydo bo‘lgan?**
 
 - Germaniyada
-- Italiyada (to'g'ri)
++ Italiyada
 - Ispaniyada
 - Angliyada
 
 **116. «Utopiya» atamasining ma’nosi nima?**
 
-- «Mavjud bo’lmagan yer» (to'g'ri)
++ «Mavjud bo’lmagan yer»
 - «Ilohiy bo’lmagan yer»
 - «Hech kimniki bo’lmagan yer»
 - «Egasi bo’lmagan yer»
@@ -833,13 +863,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **117. Qaysi davrga kelib avval unutib yuborilgan antik madaniyat qayta tiklana boshlangan va bu jarayon Renessans - Uyg‘onish nomini olgan?**
 
 - XIII asrga kelib
-- XIV asrga kelib (to'g'ri)
++ XIV asrga kelib
 - XV asrga kelib
 - XVI asrga kelib
 
 **118. Nikolay Kopernik necha yil davomida osmon jismlarini kuzatgan va Yer Quyosh atrofida va o‘z o‘qi atrofida aylanadi, degan xulosaga kelgan?**
 
-- 30 yil davomida (to'g'ri)
++ 30 yil davomida
 - 40 yil davomida
 - 20 yil davomida
 - 10 yil davomida
@@ -847,7 +877,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **119. Polyak astronomi Nikolay Kopernik qaysi yillarda yashagan?**
 
 - 1475-1564-yillarda
-- 1473-1543-yillarda (to'g'ri)
++ 1473-1543-yillarda
 - 1452-1519-yillarda
 - 1478-1535-yillarda
 
@@ -856,26 +886,29 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Tomas Mor
 - Martin Lyuter
 - Jan Kalvin
-- Jon Lokk (to'g'ri)
++ Jon Lokk
 
 **121. Gumanist atamasi kelib chiqqan “humanus” so’zining ma’nosi nima?**
 
 - “Ruhiy”
 - “Falsafiy”
 - “Ma’naviy”
-- “Insoniy” (to'g'ri)
++ “Insoniy”
 
 **122. Uyg’onish davrida Yevropada olimlar, ijodkorlar ideal va namuna izlab qaysi madaniyatga murojaat qilganlar?**
 
-- Antik davr madaniyatiga (to'g'ri)
++ Antik davr madaniyatiga
 - Mesopotamiya madaniyatiga
 - Qadimgi Misr madaniyatiga
 - Arab madaniyatiga
 
 **123. Rasmdagi «David» haykali muallifi kim?**
 
+
+![](../images/astron64561643257849.png)
+
 - Giorgio Vasari
-- Mikelanjelo Buonarroti (to'g'ri)
++ Mikelanjelo Buonarroti
 - Leonardo da Vinchi
 - Rafael Santi
 
@@ -884,11 +917,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1452-1519-yillarda
 - 1473-1543-yillarda
 - 1478-1535-yillarda
-- 1483-1520-yillarda (to'g'ri)
++ 1483-1520-yillarda
 
 **125. Yevropalik olimlar orasida birinchi bo‘lib osmon jismlarini teleskop yordamida kuzatgan olim kim?**
 
-- Galileo Galiley (to'g'ri)
++ Galileo Galiley
 - Jordano Bruno
 - Nikolay Kopernik
 - Isaak Nyuton
@@ -897,14 +930,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1478-1535-yillarda
 - 1564-1616-yillarda
-- 1547-1616-yillarda (to'g'ri)
++ 1547-1616-yillarda
 - 1452-1519-yillarda
 
 **127. Kim insonlarni o‘rab turgan olamni sahna, odamlarni esa aktyorlar deb tasavvur qilardi?**
 
 - Migel de Servantes
 - Tomas Mor
-- Uilyam Shekspir (to'g'ri)
++ Uilyam Shekspir
 - Jon Lokk
 
 **128. Injil rivoyatlariga ko‘ra, Goliaf bu … .**
@@ -912,27 +945,27 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Hunarmand temirchi
 - Isroil shohi
 - Davidning do’sti
-- Devsifat maxluq (to'g'ri)
++ Devsifat maxluq
 
 **129. Italiyalik olim Jordano Bruno qaysi yillarda yashagan?**
 
 - 1552-1621-yillarda
 - 1547-1616-yillarda
-- 1548-1600-yillarda (to'g'ri)
++ 1548-1600-yillarda
 - 1564-1642-yillarda
 
 **130. Rassom Rembrandt qaysi yillarda yashagan?**
 
 - 1548-1600-yillarda
 - 1564-1642-yillarda
-- 1606-1669-yillarda (to'g'ri)
++ 1606-1669-yillarda
 - 1632-1704-yillarda
 
 **131. Qaysi asar haqida «u shunchalar yoqimliki, suratni ko‘rib insoniylikdan ko’ra ko’proq ilohiy oziq olasan», deb yozgan Uyg’onish davri tarixchilaridan biri?**
 
 - «David» asari haqida
 - «Sikstin madonnasi» asari haqida
-- «Mona Liza» («Jokonda») asari haqida (to'g'ri)
++ «Mona Liza» («Jokonda») asari haqida
 - «Adashgan o ‘g‘ilning qaytishi» asari haqida
 
 **132. Mexanika va astronomiyaning nazariy asoslarini yaratgan, butun olam tortishish qonunini ishlab chiqqan, ko‘zguli teleskopni kashf qilgan olim kim?**
@@ -940,40 +973,40 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Nikolay Kopernik
 - Galileo Galiley
 - Jordano Bruno
-- Isaak Nyuton (to'g'ri)
++ Isaak Nyuton
 
 **133. Italiyalik haykaltarosh Mikelanjelo Buonarroti qaysi yillarda yashagan?**
 
 - 1452-1519-yillarda
 - 1478-1535-yillarda
-- 1475-1564-yillarda (to'g'ri)
++ 1475-1564-yillarda
 - 1473-1543-yillarda
 
 **134. Kim «Inson - tabiatning ajoyib mo‘jizasi» deb hisoblardi?**
 
 - Migel de Servantes
 - Tomas Mor
-- Uilyam Shekspir (to'g'ri)
++ Uilyam Shekspir
 - Jon Lokk
 
 **135. Ingliz olimi Jon Lokk qaysi yillarda yashagan?**
 
 - 1643-1727-yillarda
 - 1606-1669-yillarda
-- 1632-1704-yillarda (to'g'ri)
++ 1632-1704-yillarda
 - 1627-1699-yillarda
 
 **136. Qaysi olimni cherkov gulxanda yoqishga hukm qilgan?**
 
 - Galileo Galileyni
 - Jon Lokkni
-- Jordano Brunoni (to'g'ri)
++ Jordano Brunoni
 - Nikolay Kopernikni
 
 **137. Leonardo da Vinchi qaysi san’atni «san’atlar malikasi» deb atagan?**
 
 - Haykaltaroshlik san’atini
-- Rasm chizish san’atini (to'g'ri)
++ Rasm chizish san’atini
 - Xattotlik san’atini
 - Naqsh yasash san’atini
 
@@ -982,39 +1015,48 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Rembrandt
 - Mikelanjelo Buonarroti
 - Leonardo da Vinchi
-- Rafael Santi (to'g'ri)
++ Rafael Santi
 
 **139. «Otello», «Hamlet», «Qirol Lir» hamda «Romeo va Juletta» kabi mashhur asarlar muallifi kim?**
 
 - Migel de Servantes
 - Tomas Mor
-- Uilyam Shekspir (to'g'ri)
++ Uilyam Shekspir
 - Jon Lokk
 
 **140. Quyidagi «Adashgan o ‘g‘ilning qaytishi» asari kim tomonidan chizilgan?**
 
-- Rembrandt (to'g'ri)
+
+![](../images/astron1272693887836.png)
+
++ Rembrandt
 - Rafael Santi
 - Mikelanjelo Buonarroti
 - Leonardo da Vinchi
 
 **141. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron5565100173781.png)
+
 - Galileo Galiley
 - Jon Lokk
 - Jordano Bruno
-- Nikolay Kopernik (to'g'ri)
++ Nikolay Kopernik
 
 **142. Quyidagi asar nomini toping.**
 
+
+![](../images/astron3129487601334.png)
+
 - «Florensiyalik ayol»
-- «Mona Liza» (to'g'ri)
++ «Mona Liza»
 - «Sikstin madonnasi»
 - «Leonardo madonnasi»
 
 **143. Geliosentrik nazariyaga asos solgan olim kim?**
 
-- Galileo Galiley (to'g'ri)
++ Galileo Galiley
 - Jordano Bruno
 - Isaak Nyuton
 - Nikolay Kopernik
@@ -1023,40 +1065,49 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1547-1616-yillarda
 - 1564-1616-yillarda
-- 1478-1535-yillarda (to'g'ri)
++ 1478-1535-yillarda
 - 1452-1519-yillarda
 
 **145. Qaysi davrga kelib ko’plab ruhoniylar va hatto Rim papalari ham gumanizm g’oyalari bilan qiziqib, gumanistlarga o’z fikrlarini erkin bayon qilish imkonini bergan?**
 
 - XIV asrga kelib
 - XVII asrga kelib
-- XVI asrga kelib (to'g'ri)
++ XVI asrga kelib
 - XV asrga kelib
 
 **146. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron76125251869266.png)
+
 - Galileo Galiley
 - Jordano Bruno
 - Nikolay Kopernik
-- Isaak Nyuton (to'g'ri)
++ Isaak Nyuton
 
 **147. «Don Kixot» asari muallifi kim?**
 
 - Daniyel Defo
-- Migel de Servantes (to'g'ri)
++ Migel de Servantes
 - Uilyam Shekspir
 - Tomas Mor
 
 **148. Quyidagi suratda kim tasvirlangan?**
 
-- Galileo Galiley (to'g'ri)
+
+![](../images/astron4062380857649.png)
+
++ Galileo Galiley
 - Jordano Bruno
 - Isaak Nyuton
 - Nikolay Kopernik
 
 **149. Quyidagi rasmda kim tasvirlangan?**
 
-- Tomas Mor (to'g'ri)
+
+![](../images/astron454002686760.png)
+
++ Tomas Mor
 - Migel de Servantes
 - Rembrandt
 - Uilyam Shekspir
@@ -1066,7 +1117,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 **150. Angliyada qirol bilan parlament o’rtasidagi urushda quyidagi qaysi tabaqalar qirolni qo’llab-quvvatlagan? 1) savdogarlar; 2) tadbirkorlar; 3) yangi dvoryanlar; 4) yirik yer egalari bo‘lgan asilzodalar; 5) qaram dehqonlar; 6) saroy amaldorlari; 7) ingliz cherkovi.**
 
-- 4, 5, 6, 7 (to'g'ri)
++ 4, 5, 6, 7
 - 2, 3, 5, 7
 - 1, 4, 6
 - 1, 2, 3
@@ -1076,20 +1127,23 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1637-yilda
 - 1648-yilda
 - 1642-yilda
-- 1640-yilda (to'g'ri)
++ 1640-yilda
 
 **152. Qaysi hukmdorning o’limi bilan Angliyada Tyudorlar sulolasi yakun topgan?**
 
 - Yakov II ning
-- Yelizaveta I ning (to'g'ri)
++ Yelizaveta I ning
 - Yakov I ning
 - Genrix VIII ning
 
 **153. Quyidagi xaritada Angliyadagi qaysi voqea tasvirlangan?**
 
+
+![](../images/astron48135943998537.png)
+
 - Irland zodagonlari hujumi
 - Dehqonlar qo’zg’oloni
-- Burjua inqilobi (to'g'ri)
++ Burjua inqilobi
 - Oq va qizil gullar urushi
 
 **154. Qaysi hukmdor davrida Angliya dengiz davlati -«dengizlar malikasi» ga aylangan?**
@@ -1097,46 +1151,49 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Yakov I davrida
 - Yakov II davrida
 - Genrix VIII davrida
-- Yelizaveta I davrida (to'g'ri)
++ Yelizaveta I davrida
 
 **155. XVIII asrda Angliya parlamenti nechta palatadan iborat edi?**
 
 - To’rt palatadan
 - Uch palatadan
 - Bir palatadan
-- Ikki palatadan (to'g'ri)
++ Ikki palatadan
 
 **156. Quyidagi rasmda kim tasvirlangan?**
 
+
+![](../images/astron2636260411776.png)
+
 - Uilyam Shekspir
 - Karl I
-- Oliver Kromvel (to'g'ri)
++ Oliver Kromvel
 - Frensis Bekon
 
 **157. Qachon Angliya respublika deb e’on qilingan?**
 
 - 1652-yil 16-iyunda
-- 1649-yil 19-mayda (to'g'ri)
++ 1649-yil 19-mayda
 - 1647-yil 10-oktyabrda
 - 1643-yil 14-martda
 
 **158. Angliyada qirol va parlament qarama-qarshiligi davrida qaysi mamlakat armiyasi parlament ittifoqchisi sifatida mamlakatga kirib kelgan?**
 
 - Daniya armiyasi
-- Shotlandiya armiyasi (to'g'ri)
++ Shotlandiya armiyasi
 - Fransiya armiyasi
 - Irlandiya armiyasi
 
 **159. Angliya parlamenti «Taxt vorisligi to‘g‘risida bill» ga asoslanib qayerlik nemis knyazlari sulolasidan Georg I ni Angliya taxtiga taklif qilgan?**
 
-- Gannoverlik (to'g'ri)
++ Gannoverlik
 - Saksoniyalik
 - Frankoniyalik
 - Bavariyalik
 
 **160. Angliyada Oliver Kromvelning protektorati o’rnatilgach, qaysi hokimiyat to’liq protektor (homiy, himoyachi) qo’liga o’tgan?**
 
-- Ijro hokimiyati (to'g'ri)
++ Ijro hokimiyati
 - Qonun chiqaruvchi hokimiyat
 - Sud hokimiyat
 - Barcha hokimiyat
@@ -1146,19 +1203,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Yakov II
 - Yakov I
 - Karl I
-- Karl II (to'g'ri)
++ Karl II
 
 **162. Angliya burjua inqilobi feodal mulkchilikka zarba berdi, ammo tugallanmay qoldi, chunki … .**
 
 - Qirol hokimiyatini to‘liq yo‘q qila olmadi
-- Dehqonlarni yerning to‘liq egalariga aylantirmadi va ularni feodal qaramlikdan ozod qilmadi (to'g'ri)
++ Dehqonlarni yerning to‘liq egalariga aylantirmadi va ularni feodal qaramlikdan ozod qilmadi
 - Shahar aholisi kutilgan islohotlarni bajarilishiga erisha olmadi
 - Parlamentning hokimiyati yetarlicha mustahkamlanmadi
 
 **163. Qachon Angliyada «Sharafli inqilob» sodir bo’lgan?**
 
 - 1678-yilda
-- 1688-yilda (to'g'ri)
++ 1688-yilda
 - 1685-yilda
 - 1693-yilda
 
@@ -1166,14 +1223,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Germaniya/Norvegiya
 - Fransiya/Belgiya
-- Irlandiya/Shotlandiya (to'g'ri)
++ Irlandiya/Shotlandiya
 - Gollandiya/Irlandiya
 
 **165. Angliyada puritanlar cherkovi qachon shakllangan?**
 
 - XVII asrning ikkinchi yarmida
 - XVII asrning birinchi yarmida
-- XVI asrning ikkinchi yarmida (to'g'ri)
++ XVI asrning ikkinchi yarmida
 - XVI asrning birinchi yarmida
 
 **166. Angliya qirolichasi Yelizaveta I qaysi yillarda hukmronlik qilgan?**
@@ -1181,13 +1238,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1556-1608-yillarda
 - 1561-1601-yillarda
 - 1563-1605-yillarda
-- 1558-1603-yillarda (to'g'ri)
++ 1558-1603-yillarda
 
 **167. «Sharafli inqilob» dan keyin Angliyada qanday siyosiy tuzum o’rnatilgan?**
 
 - Mutlaq monarxiya
 - Respublika
-- Konstitutsion monarxiya (to'g'ri)
++ Konstitutsion monarxiya
 - Diktatura
 
 **168. Angliyada 1643-yilning oxiriga kelib, mamlakat hududining qancha qismi qirol hukmronligi ostida edi?**
@@ -1195,32 +1252,32 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1/2 qismi
 - 1/4 qismi
 - 2/5 qismi
-- 3/4 qismi (to'g'ri)
++ 3/4 qismi
 
 **169. Quyidagi qaysi voqea Angliyada 1640-yilda bo’lib o’tgan?**
 
 - Xazina bo’shab qolgan
 - Mamlakatda ko‘plab ochlar qo‘zg‘oloni, Londonda esa ko‘cha tartibsizliklari bo‘lib o‘tgan
 - Shotlandiya Angliyaga qarshi harbiy harakatlarni boshlagan
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **170. Gannoverliklar ingliz taxtini qachoncha egallab turganlar?**
 
 - XIX asr oxirlarigacha
 - XX asr boshlarigacha
 - XIX asr o’rtalarigacha
-- XIX asr boshlarigacha (to'g'ri)
++ XIX asr boshlarigacha
 
 **171. Angliyada parlamentning qirol ustidan qozongan g’alabasidan so’ng mamlakatda qanday o’zgarishlar ro’y bergan?**
 
 - Zodagon yer egalari taxt foydasiga to‘lanadigan feodal soliqlardan ozod qilingan
 - Savdogarlar savdo yuritishga ruxsatnoma sotib olmaydigan bo‘lgan, Cherkov parlamentga bo‘ysundirilgan
 - Yer zodagon yer egalarining xususiy mulkiga aylangan, qirol, uning tarafdorlari va yepiskoplarning yerlari esa musodara qilingan
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **172. Britaniyaning Amerikadagi birinchi mustamlakasi qanday atalgan?**
 
-- Virjiniya (to'g'ri)
++ Virjiniya
 - Filadelfiya
 - Massachusets
 - Plimut
@@ -1228,7 +1285,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **173. Xristianlikning qaysi oqimi tarafdorlari Angliyada “puritanlar” deb atalgan?**
 
 - Pravoslavlar
-- Kalvinistlar (to'g'ri)
++ Kalvinistlar
 - Lyuteranlar
 - Katoliklar
 
@@ -1236,12 +1293,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Anglikan cherkovining yopilishi
 - Armiyaning tarqatilishi
-- Qirol ministrlarining sudga tortilishi (to'g'ri)
++ Qirol ministrlarining sudga tortilishi
 - Qirolning qatl qilinishi
 
 **175. Angliyada «Taxt vorisligi to‘g‘risida bill» qachon qabul qilingan?**
 
-- 1701-yilda (to'g'ri)
++ 1701-yilda
 - 1703-yilda
 - 1702-yilda
 - 1704-yilda
@@ -1250,21 +1307,21 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Demokratiya yoki irridentizm
 - Respublika yoki plyuralizm
-- Mutlaq monarxiya yoki absolutizm (to'g'ri)
++ Mutlaq monarxiya yoki absolutizm
 - Parlamentar monarxiya yoki parlamentarizm
 
 **177. XVIII asr davomida Buyuk Britaniya qaysi davlat bilan bo‘lgan shiddatli kurashlar jarayonida Shimoliy Amerikani, Hindistonni, Afrikadagi ko‘plab hududlarni egallab olgan va «dengizlar hukmroni» ga aylangan?**
 
 - Portugaliya bilan
 - Gollandiya bilan
-- Fransiya bilan (to'g'ri)
++ Fransiya bilan
 - Ispaniya bilan
 
 **178. Angliya taxtiga o’tirgan Styuartlar sulolasi qayerlik edi?**
 
 - Normandiyalik
 - Irlandiyalik
-- Shotlandiyalik (to'g'ri)
++ Shotlandiyalik
 - Uelslik
 
 **179. «Uzoq muddatli parlament» nomi bilan tarixga kirgan parlament Angliyada qachon yig’ilgan?**
@@ -1272,11 +1329,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1637-yilda
 - 1648-yilda
 - 1642-yilda
-- 1640-yilda (to'g'ri)
++ 1640-yilda
 
 **180. Angliya parlamenti qaysi qirolni taxtdan mahrum qilib, o’rniga Gollandiya hukmdori shahzoda Villem van Oranyeni taklif etgan?**
 
-- Yakov II (to'g'ri)
++ Yakov II
 - Yakov I
 - Karl I
 - Karl II
@@ -1285,13 +1342,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - XVIII asrda
 - XVII asrda
-- XVI asrda (to'g'ri)
++ XVI asrda
 - XV asrda
 
 **182. XVIII da gannoverliklar xristianlikning qaysi mazhabiga e’tiqod qilar edilar?**
 
 - Katolik mazhabiga
-- Protestant mazhabiga (to'g'ri)
++ Protestant mazhabiga
 - Pravoslav mazhabiga
 - Lyuteran mazhabiga
 
@@ -1300,11 +1357,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1693-yilda
 - 1685-yilda
 - 1678-yilda
-- 1688-yilda (to'g'ri)
++ 1688-yilda
 
 **184. Angliyada qirol va parlament qarama-qarshiligi davrida Oliver Kromvel qo’shinning qaysi turiga qo’mondonlik qilgan?**
 
-- Otliq qo’shinga (to'g'ri)
++ Otliq qo’shinga
 - Piyoda qo’shinga
 - Artilleriyaga
 - Harbiy flotga
@@ -1312,7 +1369,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **185. Qachon Angliya taxtida turgan Oranyelar sulolasining oxirgi vakili vafot etgan?**
 
 - 1719-yilda
-- 1714-yilda (to'g'ri)
++ 1714-yilda
 - 1707-yilda
 - 1711-yilda
 
@@ -1321,33 +1378,33 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1719-yilda
 - 1714-yilda
 - 1711-yilda
-- 1707-yilda (to'g'ri)
++ 1707-yilda
 
 **187. Qachon Angliya “Buyuk Britaniya” deb atala boshlangan?**
 
 - 1719-yilda
 - 1714-yilda
 - 1711-yilda
-- 1707-yilda (to'g'ri)
++ 1707-yilda
 
 **188. Qaysi qirol davrida Angliyada qirol hokimiyati kuchayib, faqat cherkovni emas, parlamentni ham o’ziga bo’ysundirib, ayrim mustaqil shimoliy grafliklar va Uels ham qirol hokimiyatini tan olgan?**
 
 - Genrix V Tyudor
 - Genrix VI Tyudor
 - Genrix VII Tyudor
-- Genrix VIII Tyudor (to'g'ri)
++ Genrix VIII Tyudor
 
 **189. Angliyada qirol bilan parlament o’rtasidagi urushda quyidagi qaysi tabaqalar parlamentni qo’llab-quvvatlagan? 1) savdogarlar; 2) tadbirkorlar; 3) yangi dvoryanlar; 4) yirik yer egalari bo‘lgan asilzodalar; 5) qaram dehqonlar; 6) saroy amaldorlari; 7) ingliz cherkovi.**
 
 - 2, 3, 5, 7
 - 4, 5, 6, 7
 - 1, 4, 6
-- 1, 2, 3 (to'g'ri)
++ 1, 2, 3
 
 **190. Yelizaveta I ning o‘limidan so’ng Angliya taxtiga Styuartlar sulolasidan bo’lgan qaysi hukmdor o’tirgan?**
 
 - Yakov II
-- Yakov I (to'g'ri)
++ Yakov I
 - Karl I
 - Karl II
 
@@ -1355,7 +1412,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Yakov II
 - Yakov I
-- Karl I (to'g'ri)
++ Karl I
 - Karl II
 
 ## 6-§ XVI-XVIII asrlarda xalqaro munosabatlar.
@@ -1365,20 +1422,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Sulaymon V
 - Boyazid IV
-- Mustafo III (to'g'ri)
++ Mustafo III
 - Murod V
 
 **193. «O’ttiz yillik urush» ga yakun yasagan Vestfal sulhiga ko’ra qaysi mamlakatning Ispaniyadan mustaqilligi tan olingan?**
 
 - Portugaliyaning
-- Gollandiyaning (to'g'ri)
++ Gollandiyaning
 - Belgiyaning
 - Italiyaning
 
 **194. Qachon Ispaniya qiroli Karl II vafot etgan?**
 
 - 1703-yilda
-- 1700-yilda (to'g'ri)
++ 1700-yilda
 - 1698-yilda
 - 1702-yilda
 
@@ -1386,26 +1443,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1772-1776-yillar
 - 1766-1771-yillar
-- 1768-1774-yillar (to'g'ri)
++ 1768-1774-yillar
 - 1770-1775-yillar
 
 **196. «Yetti yillik urush» natijasida Hindiston va Shimoliy Amerikadagi fransuz mustamlakalari qaysi davlatga o’tgan?**
 
 - Gollandiyaga
 - Portugaliyaga
-- Angliyaga (to'g'ri)
++ Angliyaga
 - Ispaniyaga
 
 **197. Ilk umumjahon sivilizatsiyasiga aylangan sivilizatsiyani ko’rsating.**
 
-- Yangi davr Yevropa sivilizatsiyasi (to'g'ri)
++ Yangi davr Yevropa sivilizatsiyasi
 - Rim imperiyasi sivilizatsiyasi
 - Antik davr yunon sivilizatsiyasi 
 - Qadimgi Misr sivilizatsiyasi
 
 **198. Kuchukqaynarji shartnomasiga ko’ra Rossiya qaysi dengizda harbiy flotga ega bo‘lish huquqini qo‘lga kiritgan?**
 
-- Qora dengizda (to'g'ri)
++ Qora dengizda
 - Kaspiy dengizda
 - O’rtayer dengizida
 - Egey dengizida
@@ -1414,14 +1471,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1622-1652-yillarda
 - 1620-1650-yillarda
-- 1618-1648-yillarda (to'g'ri)
++ 1618-1648-yillarda
 - 1615-1645-yillarda
 
 **200. Vestfal sulhidan keyin qaysi davlatning Yevropada roli oshgan?**
 
 - Ispaniyaning
 - Angliyaning
-- Fransiyaning (to'g'ri)
++ Fransiyaning
 - Germaniyaning
 
 **201. Kuchukqaynarji shartnomasiga ko’ra qaysi davlat Rossiyaga qaram davlatga aylangan?**
@@ -1429,19 +1486,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Xazar xonligi
 - No’g’ay xonligi
 - Astraxan xonligi
-- Qrim xonligi (to'g'ri)
++ Qrim xonligi
 
 **202. «Yetti yillik urush» natijasida eng katta foydani qaysi davlat olgan?**
 
 - Rossiya
-- Angliya (to'g'ri)
++ Angliya
 - Germaniya
 - Fransiya
 
 **203. Yevropa davlatlarining deyarli barchasi ishtirok etgan «Yetti yillik urush» qaysi yillarda bo’lib o’tgan?**
 
 - 1752-1759-yillarda
-- 1756-1763-yillarda (to'g'ri)
++ 1756-1763-yillarda
 - 1750-1757-yillarda
 - 1758-1765-yillarda
 
@@ -1449,13 +1506,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Avstriya va Usmoniylar davlati o‘rtasida
 - Germaniya va Ispaniya o‘rtasida
-- Fransiya va Ispaniya o‘rtasida (to'g'ri)
++ Fransiya va Ispaniya o‘rtasida
 - Fransiya va Germaniya o‘rtasida
 
 **205. «O’ttiz yillik urush» ga yakun yasagan Vestfal sulhi qachon tuzilgan?**
 
 - 1652-yilda
-- 1648-yilda (to'g'ri)
++ 1648-yilda
 - 1650-yilda
 - 1645-yilda
 
@@ -1464,19 +1521,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Markazlashgan kuchli davlatga aylangan 
 - Yevropa siyosatida hal qiluvchi o’ringa chiqqan 
 - Qisman tobe mamlakatga aylangan
-- Tarqoq knyazliklardan iborat bo‘lib qolavergan (to'g'ri)
++ Tarqoq knyazliklardan iborat bo‘lib qolavergan
 
 **207. Yangi davrda qaysi davlatdagi hukmron Gabsburglar sulolasi Yevropani katolik imperator boshchiligida yagona imperiya bo’lishi lozim deb hisoblashgan?**
 
 - Ispaniyadagi
 - Vengriyadagi
 - Germaniyadagi
-- Avstriyadagi (to'g'ri)
++ Avstriyadagi
 
 **208. Rossiya va Shvetsiya o’rtasidagi «Shimoliy urush» qaysi yillarda bo’lib o’tgan?**
 
 - 1711-1731-yillarda
-- 1700-1721-yillarda (to'g'ri)
++ 1700-1721-yillarda
 - 1707-1724-yillarda
 - 1705-1718-yillarda
 
@@ -1485,14 +1542,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Angliya qirolining
 - Neapol qirolining
 - Portugaliya qirolining
-- Fransiya qirolining (to'g'ri)
++ Fransiya qirolining
 
 **210. Ispan taxti uchun Fransiya-Ispaniya o’rtasidagi bo’lib o’tgan urushda tinchlik sulhi qachon tuzilgan?**
 
 - 1712-yilda
 - 1718-yilda
 - 1711-yilda
-- 1714-yilda (to'g'ri)
++ 1714-yilda
 
 ## 7-§ Fransiyada mutlaq monarxiya. Buyuk fransuz burjua inqilobi.
 
@@ -1501,27 +1558,27 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - General shtatlar
 - Milliy kengash
-- Ta’sis majlisi (to'g'ri)
++ Ta’sis majlisi
 - Parij Kommunasi
 
 **212. «Royal» so’zining ma’nosi nima?**
 
 - «Qudrat»
 - «Mulk»
-- «Qirol» (to'g'ri)
++ «Qirol»
 - «Xalq»
 
 **213. Yangi davrning qaysi asrida Fransiya jadal iqtisodiy o‘sishni boshdan kechirgan?**
 
 - XVII asr boshi - XVII asr o’rtalarida
-- XVI asr oxiri - XVII asr boshlarida (to'g'ri)
++ XVI asr oxiri - XVII asr boshlarida
 - XVI asr o’rtasi - XVI asr oxirlarida
 - XVI asr boshi - XVI asr o’rtalarida
 
 **214. Buyuk fransuz burjua inqilobida Ta’sis majlisi deputatlaridan qirol tarafdorlari bo’lganlar qanday atalgan?**
 
 - So’llar yoki yakobinchilar
-- O’nglar yoki royalistlar (to'g'ri)
++ O’nglar yoki royalistlar
 - O’nglar yoki robspyerchilar
 - So’llar yoki jirondachilar
 
@@ -1530,19 +1587,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 2, 4, 5
 - 1, 2, 3
 - 1, 3, 4
-- 2, 3, 4 (to'g'ri)
++ 2, 3, 4
 
 **216. Buyuk fransuz burjua inqilobi arafasida, uchinchi tabaqa vakillari tashkil etgan Milliy kengash keyinchalik qanday nomlangan?**
 
 - Xalq majlisi
-- Ta’sis majlisi (to'g'ri)
++ Ta’sis majlisi
 - Milliy kongress
 - Uchinchi tabaqa kengashi
 
 **217. Gabriel de Mirabo Fransiya General shtatlaridagi qaysi tabaqa qarashlarining ifodachisi edi?**
 
 - To’rtinchi tabaqaning
-- Uchinchi tabaqaning (to'g'ri)
++ Uchinchi tabaqaning
 - Ikkinchi tabaqaning
 - Birinchi tabaqaning
 
@@ -1551,11 +1608,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Yevfreytor
 - Marshal
 - Konstebl
-- Komendant (to'g'ri)
++ Komendant
 
 **219. Qachon Ta’sis majlisi Fransiya tarixida ilk konstitutsiyani qabul qilgan?**
 
-- 1791-yil sentabrda (to'g'ri)
++ 1791-yil sentabrda
 - 1792-yil sentabrda
 - 1790-yil avgustda
 - 1794-yil mayda
@@ -1563,7 +1620,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **220. «Inson va fuqaro huquqlari deklaratsiyasi» mohiyati qaysi shiorda o‘z ifodasini topgan edi?**
 
 - «Yakdillik, Umumiylik, Bag’rikenglik!»
-- «Ozodlik, Tenglik, Birodarlik!» (to'g'ri)
++ «Ozodlik, Tenglik, Birodarlik!»
 - «Tenglik, Bag’rikenglik, Birdamlik!»
 - «Erkinlik, Birlik, Adolat!»
 
@@ -1572,13 +1629,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Milliy kengash
 - Qonun chiqaruvchi majlis
 - General shtatlar
-- Ta’sis majlisi (to'g'ri)
++ Ta’sis majlisi
 
 **222. Buyuk fransuz burjua inqilobi arafasida, Fransiya qiroli Lyudovik XVI ning General shtatlar majlisidagi nutqidan norozi bo’lgan uchinchi tabaqa vakillari o‘z yig’ilishini qanday nom bilan atashgan?**
 
 - Ta’sis majlisi
 - Xalq majlisi
-- Milliy kengash (to'g'ri)
++ Milliy kengash
 - Uchinchi tabaqa shtatlari
 
 **223. 1789-yil 5-may kuni … .**
@@ -1586,26 +1643,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Ta’sis majlisi «Inson va fuqaro huquqlari deklaratsiyasi» ni qabul qilgan
 - Ta’sis majlisi Fransiya tarixida ilk konstitutsiyani qabul qilgan 
 - Xalq Bastiliya qal’asiga bostirib kirgan
-- Fransiya qiroli Lyudovik XVI General shtatlar majlisini ochgan (to'g'ri)
++ Fransiya qiroli Lyudovik XVI General shtatlar majlisini ochgan
 
 **224. Buyuk fransuz burjua inqilobida Ta’sis majlisidagi so‘l deputatlar qanday atalgan?**
 
 - Yakobinchilar
 - Royalistlar
 - Robspyerchilar
-- Jirondachilar (to'g'ri)
++ Jirondachilar
 
 **225. Fransiya General shtatlaridagi tabaqalarni to’g’ri ko’rsating. 1) Birinchi tabaqa; 2) Ikkinchi tabaqa; 3) Uchinchi tabaqa. a) dvoryanlar; b) ruhoniylar; c) savdogarlar, hunarmandlar, dehqonlar, burjuaziya.**
 
 - 1c, 2a, 3b
 - 1c, 2b, 3a
 - 1a, 2b, 3c
-- 1b, 2a, 3c (to'g'ri)
++ 1b, 2a, 3c
 
 **226. Buyuk fransuz burjua inqilobi davrida qancha yoshga to’lgan barcha erkaklarga saylash huquqi berilgan?**
 
 - 30 yoshga
-- 25 yoshga (to'g'ri)
++ 25 yoshga
 - 20 yoshga
 - 18 yoshga
 
@@ -1614,25 +1671,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Jirondachilar
 - Robespyerchilar
 - Royalistlar
-- Yakobinchilar (to'g'ri)
++ Yakobinchilar
 
 **228. Buyuk fransuz burjua inqilobidan keyin Parijda hokimiyat qaysi organning qo’liga o’tgan?**
 
 - General shtatlarning
 - Milliy kengashning
 - Ta’sis majlisining
-- Parij Kommunasining (to'g'ri)
++ Parij Kommunasining
 
 **229. Qachon Fransiyada Qonun chiqaruvchi majlis o‘z ishini boshlagan?**
 
-- 1791-yilda (to'g'ri)
++ 1791-yilda
 - 1792-yilda
 - 1793-yilda
 - 1794-yilda
 
 **230. Buyuk fransuz burjua inqilobi davrida qaysi siyosiy oqim vakilari o‘rta va kichik burjuaziya hokimiyatga kelmadi, dehqonlarga yer berilmadi, inqilob hali oxiriga yetgani yo‘q deb hisoblagan?**
 
-- Yakobinchilar (to'g'ri)
++ Yakobinchilar
 - Royalistlar
 - Robespyerchilar
 - Jirondachilar
@@ -1641,14 +1698,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1794-yil 12-mayda
 - 1791-yil 13-sentabrda
-- 1792-yil 22-sentabrda (to'g'ri)
++ 1792-yil 22-sentabrda
 - 1790-yil 5-avgustda
 
 **232. Buyuk fransuz burjua inqilobi davrida Qonun chiqaruvchi majlis qanday shior bilan xalqqa murojaat qilib, bosqinchilarga qarshi kurashga chorlagan?**
 
 - «Mamlakat xavf ostida!»
 - «Xalq xavf ostida!»
-- «Vatan xavf ostida!» (to'g'ri)
++ «Vatan xavf ostida!»
 - «Fransiya xavf ostida!»
 
 **233. Buyuk fransuz burjua inqilobi davrida jirondachilarga nega bunday nom berilgan?**
@@ -1656,11 +1713,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Ko‘pchiligi Parijning Jironda ko’chasidan bo’lgani uchun
 - Ko‘pchiligi Jironda, ya’ni «erksevar» taxallusini olgani uchun
 - Ko‘pchiligi Jironda oilasiga mansub bo’lganligi uchun
-- Ko‘pchiligi Jironda viloyatidan bo’lganligi uchun (to'g'ri)
++ Ko‘pchiligi Jironda viloyatidan bo’lganligi uchun
 
 **234. Fransiyada qaysi davlat organi zafarli urush mamlakatda vatanparvarlik hissini kuchaytiradi va inqilobiy holatni bartaraf etadi, degan fikr bilan Avstriyaga qarshi urush e’lon qilib, Belgiyaga qo`shin kiritgan?**
 
-- Qonun chiqaruvchi majlis (to'g'ri)
++ Qonun chiqaruvchi majlis
 - Milliy kengash
 - Ta’sis majlisi
 - Parij Kommunasi
@@ -1669,13 +1726,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Ta’sis majlisi «Inson va fuqaro huquqlari deklaratsiyasi» ni qabul qilgan
 - Ta’sis majlisi Fransiya tarixida ilk konstitutsiyani qabul qilgan
-- Xalq Bastiliya qal’asiga bostirib kirgan (to'g'ri)
++ Xalq Bastiliya qal’asiga bostirib kirgan
 - Fransiya qiroli Lyudovik XVI General shtatlar majlisini ochgan
 
 **236. Buyuk fransuz burjua inqilobi arafasida, Fransiya qiroli Lyudovik XVI General shtatlar majlisidagi nutqida nimani so’ragan edi?**
 
 - General shtatlarni tarqatishni
-- Aholiga yangi soliqlar joriy qilishni (to'g'ri)
++ Aholiga yangi soliqlar joriy qilishni
 - Soliqlarni ikki barobar oshirishni
 - Qirol oilasiga ajratiladigan mablag’ni ko’paytirishni
 
@@ -1683,13 +1740,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1795-yil 21-noyabrda
 - 1793-yil 19-aprelda
-- 1794-yil 27-iyulda (to'g'ri)
++ 1794-yil 27-iyulda
 - 1792-yil 16-iyunda
 
 **238. Buyuk fransuz burjua inqilobi davrida qaysi qishloq yaqinidagi jangda fransuz qo‘shinlari pruss armiyasi hujumlarini qaytargan?**
 
 - Gavr qishlog‘i
-- Valmi qishlog‘i (to'g'ri)
++ Valmi qishlog‘i
 - La-Roshel qishlog‘i
 - Rodez qishlog‘i
 
@@ -1698,14 +1755,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1793-yil fevralda
 - 1792-yil yanvarda
 - 1792-yil fevralda
-- 1793-yil yanvarda (to'g'ri)
++ 1793-yil yanvarda
 
 **240. Buyuk fransuz burjua inqilobi davrida yakobinchilarga nega bunday nom berilgan?**
 
 - Bu oqim Avliyo Yakob kunida tashkil topgani uchun
 - Markazi Parijning Sent-Yakob okrugida joylashgani uchun
 - Yetakchisi Lui Yakob ismli shaxs bo’lgani uchun
-- Avliyo Yakob monastirining kutubxonasida yig’ilganlari uchun (to'g'ri)
++ Avliyo Yakob monastirining kutubxonasida yig’ilganlari uchun
 
 ## 8-§ Buyuk fransuz burjua inqilobining yakunlanishi va tarixiy ahamiyati.
 
@@ -1714,12 +1771,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Monarxiyani
 - Diktaturani
-- Konsullikni (to'g'ri)
++ Konsullikni
 - Respublikani
 
 **242. Konventga qarshi isyon ko‘targan monarxiya tarafdorlarini general Napoleon Bonapart qanday tor-mor qilgan?**
 
-- Artilleriya yordamida (to'g'ri)
++ Artilleriya yordamida
 - Yollanma qo’shin yordamida
 - Kuchli piyoda qo’shin yordamida
 - Otliq qo’shin yordamida
@@ -1728,7 +1785,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Xususiy mulk huquqi
 - Bepul ta’lim huquqi
-- Umumiy saylov huquqi (to'g'ri)
++ Umumiy saylov huquqi
 - So’z erkinligi huquqi
 
 **244. Fransiyada hokimiyat tepasiga kelgan Termidorchilar nimaga bunday nom bilan atalgan?**
@@ -1736,19 +1793,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Fransuz kalendaridagi termidor oyining 12-kuni hokimiyatga kelganlari uchun
 - Fransuz kalendaridagi termidor oyining 11-kuni hokimiyatga kelganlari uchun
 - Fransuz kalendaridagi termidor oyining 10-kuni hokimiyatga kelganlari uchun
-- Fransuz kalendaridagi termidor oyining 9-kuni hokimiyatga kelganlari uchun (to'g'ri)
++ Fransuz kalendaridagi termidor oyining 9-kuni hokimiyatga kelganlari uchun
 
 **245. Buyuk fransuz burjua inqilobi davrida Konventga qarshi xalq qanday shior tarqatgan?**
 
 - «Yo’qolsin diktatura, yashasin respublika»
-- «Xalq, uyg‘on! Payt keldi!» (to'g'ri)
++ «Xalq, uyg‘on! Payt keldi!»
 - «Yo’qolsin Konvent»
 - «Hokimiyat xalqqa»
 
 **246. Napoleon Bonapart qachon Misrga yurish qilgan?**
 
 - 1799-yilda
-- 1798-yilda (to'g'ri)
++ 1798-yilda
 - 1801-yilda
 - 1796-yilda
 
@@ -1757,13 +1814,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Tibrning shimoliy qirg‘og‘i va Shveysariya
 - Dunayning g’arbiy qirg‘og‘i va Italiya
 - Elbaning so’l qirg‘og‘i va Gollandiya
-- Reynning so’l qirg‘og‘i va Belgiya (to'g'ri)
++ Reynning so’l qirg‘og‘i va Belgiya
 
 **248. 1798-yilda qayerga qilingan yurish Napoleon Bonapartni siyosiy hokimiyatni egallashga chorlagan?**
 
 - Saksoniyaga
 - Liviyaga
-- Misrga (to'g'ri)
++ Misrga
 - Gollandiyaga
 
 **249. Direktoriya davrida, Napoleon Bonapart boshchiligida bosib olingan hududlarida fransuzlar qanday o’zgarishlarni amalga oshirishgan?**
@@ -1771,32 +1828,32 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Cherkov va ibodatxonalarni ba’zi bir yig‘imlardan mahrum etishgan
 - Ma’lum darajada inson huquqlarini mustahkamlaydigan yangi qonunlarni joriy qilishgan
 - Feodal tartiblarni bekor qilishgan
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **250. Qaysi hududga qilgan yurishdan keyin Napoleon Bonapart o’zini shunchaki general emas, xalqning taqdiriga ta’sir o‘tkazishga qodir bo’lgan buyuk shaxs sifatida his qilgan?**
 
 - Germaniyaga
-- Italiyaga (to'g'ri)
++ Italiyaga
 - Gollandiyaga
 - Belgiyaga
 
 **251. Burjua inqilobi davrida Fransiyada hokimiyatni kollegial boshqaruv shakli, ijroiya hokimiyati qanday atalgan?**
 
 - Konsullik
-- Direktoriya (to'g'ri)
++ Direktoriya
 - Konvent
 - Parlament
 
 **252. Buyuk fransuz burjua inqilobi davrida Konventga qarshi xalq qo’zg’oloniga kimlar boshchilik qilgan edi?**
 
-- Yakobinchilar (to'g'ri)
++ Yakobinchilar
 - Robespyerchilar
 - Royalistlar
 - Jirondachilar
 
 **253. 1795-yilning avgustida Konvent tomonidan qabul qilingan yangi Fransiya konstitutsiyaga ko’ra Ijro hokimiyati Oqsoqollar kengashi tayinlaydigan nechta kishidan iborat Direktoriyaga topshirilgan?**
 
-- Besh kishidan iborat (to'g'ri)
++ Besh kishidan iborat
 - O’n kishidan iborat
 - Yetti kishidan iborat
 - Uch kishidan iborat
@@ -1806,13 +1863,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Besh kishidan iborat
 - O’n kishidan iborat
 - Yetti kishidan iborat
-- Uch kishidan iborat (to'g'ri)
++ Uch kishidan iborat
 
 **255. Buyuk fransuz burjua inqilobi davrida qachon Konventga qarshi qo’zg’olon boshlangan?**
 
 - 1796-yil mayda
 - 1795-yil martda
-- 1795-yil aprelda (to'g'ri)
++ 1795-yil aprelda
 - 1796-yil iyunda
 
 **256. Direktoriya davrida qaysi mamlakat Fransiyaga qaram respublikaga aylantirilgan?**
@@ -1820,13 +1877,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Germaniya
 - Italiya
 - Belgiya
-- Gollandiya (to'g'ri)
++ Gollandiya
 
 **257. Buyuk fransuz burjua inqilobi davrida Konsullar …ga sadoqat to‘g‘risida qasamyod qabul qilganlar.**
 
 - Armiya
 - Fransiya
-- Respublika (to'g'ri)
++ Respublika
 - Xalq
 
 **258. Fransiyada Direktoriya boshqaruvidan norozi bo’lgan gazetalar qanday talabni bosh sahifalarda yorita boshlagan?**
@@ -1834,19 +1891,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - «Kuchli konsullik o‘rnatish!»
 - «Kuchli respublika o‘rnatish!»
 - «Kuchli diktatura o‘rnatish!»
-- «Kuchli hokimiyat o‘rnatish!» (to'g'ri)
++ «Kuchli hokimiyat o‘rnatish!»
 
 **259. Ba’zi mamlakatlarda alohida vakolatlarga ega bo‘lgan vakillik organi qanday ataladi?**
 
 - Konsullik
 - Direktoriya
-- Konvent (to'g'ri)
++ Konvent
 - Parlament
 
 **260. 1795-yilning avgustida Konvent tomonidan qabul qilingan yangi Fransiya konstitutsiyaga ko’ra Qonunchilik hokimiyati ikki palatadan iborat bo’lgan. Ular qaysilar edi?**
 
 - Ta’sis majlisi va Milliy kengash
-- Besh yuzlar kengashi va Oqsoqollar kengashi (to'g'ri)
++ Besh yuzlar kengashi va Oqsoqollar kengashi
 - General shtatlar va Qonun chiqaruvchi majlis
 - Oqsoqollar kengashi va Ta’sis majlisi
 
@@ -1858,13 +1915,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Vilgelm II
 - Fridrix I
 - Vilgelm I
-- Fridrix II (to'g'ri)
++ Fridrix II
 
 **262. XVI asrda Germaniyada Gabsburglar sulolasidan bo‘lgan Germaniya imperatori o‘zining qayerdagi yerlaridan tashqarida hech qanday real hokimiyatga ega emasdi?**
 
 - Prussiyadagi
 - Saksoniyadagi
-- Avstriyadagi (to'g'ri)
++ Avstriyadagi
 - Bavariyadagi
 
 **263. Qachon Germaniya knyazliklari Turkiya bosqiniga qarshi kurashish uchun tarixda birinchi marta yakdil qaror qabul qilganlar va milliy-ozodlik qo‘shinini tuzganlar?**
@@ -1872,18 +1929,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1686-yilda
 - 1685-yilda
 - 1684-yilda
-- 1683-yilda (to'g'ri)
++ 1683-yilda
 
 **264. Qachon Germaniyada dehqonlar urushi bo’lib o’tgan?**
 
-- 1524-1526-yillarda (to'g'ri)
++ 1524-1526-yillarda
 - 1528-1530-yillarda
 - 1526-1528-yillarda
 - 1522-1524-yillarda
 
 **265. Qaysi shahar ostonasida Germaniya knyazliklarining milliy-ozodlik qo‘shini Usmoniylar qo’shinini tor-mor keltirib, Markaziy Yevropani Usmoniylar bosqinidan saqlab qolganlar?**
 
-- Vena ostonalarida (to'g'ri)
++ Vena ostonalarida
 - Strasburg ostonalarida
 - Budapesht ostonalarida
 - Berlin ostonalarida
@@ -1891,27 +1948,27 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **266. XVI asrda Germaniya nechta knyazliklarga bo’lingan edi?**
 
 - 400 dan ortiq
-- 300 dan ortiq (to'g'ri)
++ 300 dan ortiq
 - 200 dan ortiq
 - 100 dan ortiq
 
 **267. XVII asrda Germaniya knyazliklari ichida qaysilari eng kuchlilari edi va gegemonlik uchun kurash olib borganlar?**
 
-- Avstriya va Brandenburg (to'g'ri)
++ Avstriya va Brandenburg
 - Saksoniya va Meklenburg
 - Bavariya va Myunster
 - Kleve va Gessen
 
 **268. Qachon Brandenburg knyazligi o‘rnida Prussiya qirolligi tashkil topgan?**
 
-- 1701-yilda (to'g'ri)
++ 1701-yilda
 - 1703-yilda
 - 1704-yilda
 - 1702-yilda
 
 **269. XVIII asr oxirida Prussiya maydoni jihatidan Yevropada …, qo‘shini soni jihatidan esa … o’rinni egallagan.**
 
-- uchinchi/to’rtinchi (to'g'ri)
++ uchinchi/to’rtinchi
 - beshinchi/oltinchi
 - ikkinchi/birnchi
 - ikkinchi/uchinchi
@@ -1921,11 +1978,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Bavariya
 - Avstriya
 - Meklenburg
-- Brandenburg (to'g'ri)
++ Brandenburg
 
 **271. Qaysi yilgacha Germaniya «Muqaddas Rim imperiyasi» deb atalgan?**
 
-- 1806-yilgacha (to'g'ri)
++ 1806-yilgacha
 - 1805-yilgacha
 - 1804-yilgacha
 - 1803-yilgacha
@@ -1934,14 +1991,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Rossiya
 - Angliya
-- Germaniya (to'g'ri)
++ Germaniya
 - Fransiya
 
 **273. Qaysi qirol hukmronligi davrida Prussiya mutlaq monarxiyaga aylangan?**
 
 - Fridrix I davrida
 - Vilgelm I davrida
-- Fridrix II davrida (to'g'ri)
++ Fridrix II davrida
 - Vilgelm II davrida
 
 **274. XVI asrda Germaniyaning iqtisodiy jihatdan qoloqligi omillarini to’g’ri ko’rsating.**
@@ -1949,19 +2006,22 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Siyosiy tarqoqlik yagona ichki bozorning vujudga kelishiga imkon bermagani
 - Amerikadan Yevropaga oltin va kumushning katta miqdorda keltirilishi Germaniya misining ahamiyatiga jiddiy putur yetkazishi 
 - Dengiz savdo yo‘llarining Atlantika okeaniga ko‘chganligi
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **275. Quyidagi xaritada qaysi davlat okruglari ajratib ko’rsatilgan?**
 
+
+![](../images/astron86531151119186.png)
+
 - Avstro-Vengriya imperiyasi
-- Muqaddas Rim imperiyasi (to'g'ri)
++ Muqaddas Rim imperiyasi
 - Shveysariya ittifoqi
 - Fransiya imperiyasi
 
 **276. XVII asrda qaysi nemis knyazliginining markazi Vena shahri edi?**
 
 - Meklenburg knyazligining
-- Avstriya knyazligining (to'g'ri)
++ Avstriya knyazligining
 - Bavariya knyazligining
 - Brandenburg knyazligining
 
@@ -1970,11 +2030,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Olmos
 - Oltin
 - Temir
-- Mis (to'g'ri)
++ Mis
 
 **278. XVII asrda qaysi nemis knyazliginining markazi Berlin shahri edi?**
 
-- Brandenburg knyazligining (to'g'ri)
++ Brandenburg knyazligining
 - Meklenburg knyazligining
 - Avstriya knyazligining
 - Bavariya knyazligining
@@ -1982,7 +2042,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **279. Qachon Brandenburg knyazligida Prussiya gersogligi yetakchi mavqega ega bo’lib olgan?**
 
 - XVIII asr boshida
-- XVII asr oxirida (to'g'ri)
++ XVII asr oxirida
 - XVII asr boshida
 - XVIII asr oxirida
 
@@ -1991,18 +2051,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Rossiyaga
 - Germaniyaga
 - Angliyaga
-- Fransiyaga (to'g'ri)
++ Fransiyaga
 
 **281. Qaysi nemis knyazligi knyazi Fridrix I nomi bilan Prussiya qiroli deb e’lon qilingan?**
 
-- Brandenburg knyazi (to'g'ri)
++ Brandenburg knyazi
 - Meklenburg knyazi
 - Avstriya knyazi
 - Bavariya knyazi
 
 **282. XVI asr o’rtalarigacha, Shimoliy Italiya va uning vositachiligida, butun Sharqning G’arbiy Yevropa bozorlari bilan aloqalari qaysi mamlakat yerlaridan o‘tardi?**
 
-- Germaniya yerlaridan (to'g'ri)
++ Germaniya yerlaridan
 - Avstriya yerlaridan
 - Fransiya yerlaridan
 - Rossiya yerlaridan
@@ -2011,7 +2071,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Italiya
 - Angliya
-- Fransiya (to'g'ri)
++ Fransiya
 - Shveysariya
 
 ## 10-§ XVI-XVIII asrlarda Rossiya imperiyasi.
@@ -2021,19 +2081,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Mixail II
 - Mixail I
-- Ivan IV (to'g'ri)
++ Ivan IV
 - Ivan III
 
 **285. Rus milliy teatri asoschisi, rus aktyorlarining butun bir avlodini tarbiyalashda katta xizmat ko‘rsatgan shaxs kim?**
 
-- F.G. Volkov (to'g'ri)
++ F.G. Volkov
 - I.A. Krilov
 - G.D. Derjavin
 - D.J. Fonvizin
 
 **286. Ivan IV chaqirgan, Zemstvo sobori chiqargan qarorlarga oid to’g’ri javobni toping. 1) Yangi qonunlar to’plami — Sudebnik tuzildi; 2) Dvoryanlarni jinoyat va nojo‘ya qilmishlari uchun boyarlar sudiga berish taqiqlandi; 3) Dvoryanlardan ming nafariga Moskva uyezdidan yer-mulk ajratib berildi; 4) Davlat lavozimlarini faqat zodagon naslidan bo’lgan kishilar egallashi tartibiga chek qo‘yildi; 5) Boyarlar uchun aholidan yig‘iladigan soliqlar bekor qilindi; 6) Joylarda mahalliy o‘zini o‘zi boshqarish organlari - zemstvolar tuzildi.**
 
-- 1, 2, 3, 4, 5, 6 (to'g'ri)
++ 1, 2, 3, 4, 5, 6
 - 2, 4, 5, 6
 - 2, 4, 5
 - 1, 3, 4, 6
@@ -2042,12 +2102,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Norvegiyadagi
 - Rossiyadagi
-- Finlandiyadagi (to'g'ri)
++ Finlandiyadagi
 - Shvetsiyadagi
 
 **288. XVIII asrda Rossiyaning qaysi shahrida Fanlar akademiyasi, keyinchalik akademiya qoshida gimnaziya va universitet tashkil topgan?**
 
-- Sankt-Peterburgda (to'g'ri)
++ Sankt-Peterburgda
 - Orenburgda
 - Novgorodda
 - Moskvada
@@ -2055,7 +2115,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **289. Rossiya va Shvetsiya o’rtasidagi «Shimoliy urush» qaysi yillarda bo’lib o’tgan?**
 
 - 1704-1725-yillarda
-- 1700-1721-yillarda (to'g'ri)
++ 1700-1721-yillarda
 - 1703-1724-yillarda
 - 1708-1729-yillarda
 
@@ -2064,26 +2124,29 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Prussiya
 - Shvetsiya
 - Finlyandiya
-- Polsha (to'g'ri)
++ Polsha
 
 **291. Quyidagi xaritada Rossiyaning qaysi davrdagi xaritasi tasvirlangan?**
+
+
+![](../images/astron888764613211.png)
 
 - XVII asrning birinchi yarmidagi
 - XVII asrning ikkinchi yarmidagi
 - XVIII asrning birinchi yarmidagi
-- XVIII asrning ikkinchi yarmidagi (to'g'ri)
++ XVIII asrning ikkinchi yarmidagi
 
 **292. Qachon Ivan IV boyarlar hokimiyatiga zarba berish maqsadida mamlakat yerlaridan katta qismini ajratib olgan?**
 
 - 1561-yilda
 - 1575-yilda
 - 1572-yilda
-- 1565-yilda (to'g'ri)
++ 1565-yilda
 
 **293. XVIII asrda Laptevlar ekspeditsiyasi qaysi hududlarni o’rganib chiqishgan?**
 
 - Shimoliy dengizni Peterburgdan to Arxangelskgacha bo’lgan hududini
-- Shimoliy Muz okeanini Murmanskdan to Chukotkagacha bo’lgan hududini (to'g'ri)
++ Shimoliy Muz okeanini Murmanskdan to Chukotkagacha bo’lgan hududini
 - Boltiq dengizini Tverdan to Kronshtadgacha bo’lgan hududini
 - Shimoliy Muz okeanini Novgoroddan to Kamchatkagacha bo’lgan hududini
 
@@ -2091,12 +2154,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Zodagonlar kengashi
 - Dvoryanlar majlisi
-- Boyarlar dumasi (to'g'ri)
++ Boyarlar dumasi
 - Xalq vechesi
 
 **295. Qachon Ivan IV Rossiya taxtiga o’tirgan?**
 
-- 1547-yilda (to'g'ri)
++ 1547-yilda
 - 1549-yilda
 - 1541-yilda
 - 1544-yilda
@@ -2104,7 +2167,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **296. Rus podshosi Ivan IV ning «Grozniy» laqabi qanday ma’noni anglatadi?**
 
 - «Qo’rqmas», «dovyurak»
-- «Shafqatsiz», «dahshatli» (to'g'ri)
++ «Shafqatsiz», «dahshatli»
 - «Buyuk», «qudratli»
 - «Sahiy», «oliyjanob»
 
@@ -2112,12 +2175,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Amerika bilan Yevropa o‘rtasida
 - Osiyo bilan Afrika o‘rtasida
-- Osiyo bilan Amerika o‘rtasida (to'g'ri)
++ Osiyo bilan Amerika o‘rtasida
 - Amerika bilan Antarktida o‘rtasida
 
 **298. Qachon Pyotr I Rossiya taxtiga o’tirgan?**
 
-- 1689-yilda (to'g'ri)
++ 1689-yilda
 - 1698-yilda
 - 1683-yilda
 - 1682-yilda
@@ -2126,12 +2189,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - XVI asr oxirlarida
 - XVI asr o’rtalarida
-- XVI asr boshlarida (to'g'ri)
++ XVI asr boshlarida
 - XV asr oxirlarida
 
 **300. XVIII asrda Osiyoning eng shimoliy chekkasini kashf etgan shaxsni toping.**
 
-- S.I. Chelyuskin (to'g'ri)
++ S.I. Chelyuskin
 - M.D. Laptev
 - L.I. Polzunov
 - I.P. Kulibin
@@ -2139,20 +2202,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **301. Qachon Rossiya podshohi Ivan IV ning o’g’li Fyodor Ivanovich vafot etgan?**
 
 - 1599-yilda
-- 1598-yilda (to'g'ri)
++ 1598-yilda
 - 1597-yilda
 - 1596-yilda
 
 **302. Rus qonunlari to’plami “Sudebnik” krepostnoy dehqonlarning bir yer egasidan boshqasiga o‘tishini yiliga bir kun, ya’ni qaysi kun bilan cheklab qo‘ygan?**
 
 - 14-avgust bilan
-- 26-noyabr bilan (to'g'ri)
++ 26-noyabr bilan
 - 20-yanvar bilan
 - 19-mart bilan
 
 **303. Pyotr I davrida Rossiya nima uchun Shvetsiya bilan urush boshlagan?**
 
-- Boltiq dengiziga chiqish uchun (to'g'ri)
++ Boltiq dengiziga chiqish uchun
 - Shimoliy savdo yo’llarini o’z nazoratiga olish uchun
 - Shvetsiya bilan chegaradosh viloyatlarni egallash uchun
 - Shvetsiya bosib olgan hududlarni qaytarib olish uchun
@@ -2162,13 +2225,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1615-уilda
 - 1614-уilda
 - 1613-уilda
-- 1612-уilda (to'g'ri)
++ 1612-уilda
 
 **305. Pyotr I tashqi siyosatining asosiy maqsadlaridan biri Rossiyani qanday davlatga aylantirish edi?**
 
 - Kuchli piyoda qo’shiniga ega davlatga
 - Kuchli industrial iqtisodiyotga ega davlatga
-- Kuchli harbiy-dengiz flotiga ega davlatga (to'g'ri)
++ Kuchli harbiy-dengiz flotiga ega davlatga
 - Kuchli feodal-monarxistik davlatga
 
 **306. XVIII asrda Rossiyaning qaysi shahrida matematika va navigatsiya fanlari maktabi, artilleriya, meditsina maktablari ochilgan?**
@@ -2176,32 +2239,32 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Sankt-Peterburgda
 - Orenburgda
 - Novgorodda
-- Moskvada (to'g'ri)
++ Moskvada
 
 **307. Rus yerlari Moskva atrofida birlashishdan oldin qaysi davlatga qaram bo’lgan?**
 
 - Shvetsiya qirolligiga
 - Qrim xonligiga
 - Oq O’rdaga
-- Oltin O’rdaga (to'g'ri)
++ Oltin O’rdaga
 
 **308. Rossiya podshohi Ivan IV ning o’g’li Fyodor Ivanovich o’zidan voris qoldirmasdan vafot etgach, Zemstvo sobori kimni podsho etib saylagan?**
 
 - Mixail Romanovni
 - Dmitriy Pojarskiyni 
 - Kuzma Mininni 
-- Boris Godunovni (to'g'ri)
++ Boris Godunovni
 
 **309. XVII asrda Rossiya qishloq xo’jaligidagi asosiy mahsulot nima edi?**
 
 - Kanop
 - Javdar
-- G‘alla (to'g'ri)
++ G‘alla
 - Paxta
 
 **310. Hozirda Osiyoning eng shimoliy chekkasi qanday ataladi?**
 
-- Chelyuskin burni (to'g'ri)
++ Chelyuskin burni
 - Laptev burni
 - Polzunov burni
 - Kulibin burni
@@ -2210,20 +2273,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - G.D. Derjavin
 - D.J. Fonvizin
-- I.A. Krilov (to'g'ri)
++ I.A. Krilov
 - F.G. Volkov
 
 **312. Qachon Pyotr I imperator deb e’lon qilinib, Rossiya imperiyaga aylangan va mamlakatda mutlaq monarxiya to‘la qaror topgan?**
 
 - 1720-yilda
-- 1721-yilda (to'g'ri)
++ 1721-yilda
 - 1722-yilda
 - 1723-yilda
 
 **313. Qachon buyuk rus olimi M.V. Lomonosov tashabbusi bilan Moskva universiteti tashkil qilingan?**
 
 - 1758-yilda
-- 1755-yilda (to'g'ri)
++ 1755-yilda
 - 1783-yilda
 - 1781-yilda
 
@@ -2232,18 +2295,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1918-yil aprelgacha
 - 1915-yil dekabrgacha
 - 1909-yil iyulgacha
-- 1917-yil fevralgacha (to'g'ri)
++ 1917-yil fevralgacha
 
 **315. Rusda hukmdorlar «sar» unvonini olishidan oldin qanday atalgan?**
 
 - «Buyuk boyar»
 - «Boyar»
-- «Buyuk knyaz» (to'g'ri)
++ «Buyuk knyaz»
 - «Knyaz»
 
 **316. Qachon Moskvada chaqirilgan Zemstvo sobori Ivan IV Grozniy xotinining qarindoshi Mixail Fyodorovich Romanovni Rossiya podshosi etib saylagan?**
 
-- 1613-уilda (to'g'ri)
++ 1613-уilda
 - 1614-уilda
 - 1615-уilda
 - 1612-уilda
@@ -2252,13 +2315,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Mixail Romanov
 - Dmitriy Pojarskiy
-- Kuzma Minin (to'g'ri)
++ Kuzma Minin
 - Boris Godunov
 
 **318. Qachon Ivan IV birinchi bor erkin aholi turli toifalari vakillarining yig‘ilishini-Zemstvo soborini chaqirgan?**
 
 - 1541-yilda
-- 1549-yilda (to'g'ri)
++ 1549-yilda
 - 1547-yilda
 - 1544-yilda
 
@@ -2267,39 +2330,39 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Shimolga va sharqqa
 - Janubga va g’arbga
 - Shimolga va g’arbga 
-- Sharqqa va janubga (to'g'ri)
++ Sharqqa va janubga
 
 **320. Rus podshohi Ivan IV ichki siyosatining asosiy maqsadi … tabaqasini kuchaytirish orqali … mavqeyini zaiflashtirishga qaratilgan edi.**
 
 - ruhoniylar/boyarlar
 - ruhoniylar/knyazlar
 - boyarlar/dvoryanlar
-- dvoryanlar/ boyarlar (to'g'ri)
++ dvoryanlar/ boyarlar
 
 **321. Rossiya va Shvetsiya o’rtasidagi «Shimoliy urush» da Rossiya g’alaba qozonib, qaysi dengiziga chiqish huquqiga ega bo‘lgan?**
 
 - Egey dengiziga
 - Shimoliy dengizga
 - Qora dengizga
-- Boltiq dengiziga (to'g'ri)
++ Boltiq dengiziga
 
 **322. Yangi davrning qaysi asrida Rossiya hududi deyarli ikki barobar kengaygan?**
 
 - XVII asr oxirida
 - XVII asr boshida
-- XVI asr oxirida (to'g'ri)
++ XVI asr oxirida
 - XVI asr boshida
 
 **323. Qachon Ivan IV oprichninani bekor qilishga majbur bo’lgan?**
 
 - 1561-yilda
 - 1575-yilda
-- 1572-yilda (to'g'ri)
++ 1572-yilda
 - 1565-yilda
 
 **324. XVI asrning ikkinchi yarmida Rossiya qaysi davlatni bosib olgan? 1. Qozon xonligini; 2. Ashtarxon (Astraxan) xonligini; 3. No’g’ay xonligini; 4. Sibir xonligini; 5. Xazar xonligini.**
 
-- 1, 2, 4 (to'g'ri)
++ 1, 2, 4
 - 1, 2, 3
 - 2, 4, 5
 - 2, 3, 4
@@ -2307,14 +2370,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **325. Ryuriklar sulolasi Rossiyani necha yil boshqargan?**
 
 - 800 yil
-- 700 yil (to'g'ri)
++ 700 yil
 - 600 yil
 - 500 yil
 
 **326. «Oprichnina» (ajratib olingan) qaysi Rossiya hukmdori tomonidan boyarlar hokimiyatiga zarba berish maqsadida mamlakat yerlaridan ajratib olingan yer hisoblanadi?**
 
 - Ivan III tomonidan
-- Ivan IV tomonidan (to'g'ri)
++ Ivan IV tomonidan
 - Mixail II tomonidan
 - Mixail I tomonidan
 
@@ -2326,11 +2389,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1774-yil sentyabrda
 - 1776-yil mayda
 - 1772-yil oktyabrda
-- 1775-yil mayda (to'g'ri)
++ 1775-yil mayda
 
 **328. Qachon Filadelfiyada shtatlarni yagona qonun asosida birlashtirish, ularni boshqarish, yagona iqtisodiy tizimni shakllantirish kabi muammolarga bag’ishlangan Federal Konvent ish boshlagan?**
 
-- 1787-yil mayda (to'g'ri)
++ 1787-yil mayda
 - 1789-yil yanvarda
 - 1788-yil martda
 - 1786-yil aprelda
@@ -2339,7 +2402,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Sud hokimiyatini
 - Qonun chiqaruvchi hokimiyatini
-- Ijro hokimiyatini (to'g'ri)
++ Ijro hokimiyatini
 - Barcha hokimiyat tizimini
 
 **330. Qachon Angliyaning Virjiniyadagi ilk manzilgohi-Jeymstaun tashkil qilingan?**
@@ -2347,11 +2410,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1605-yilda
 - 1608-yilda
 - 1606-yilda
-- 1607-yilda (to'g'ri)
++ 1607-yilda
 
 **331. Britaniya hukumati AQSH bilan qaysi shaharda tinchlik muzokaralarini o‘tkazgan?**
 
-- Parijda (to'g'ri)
++ Parijda
 - Vashingtonda
 - Filadelfiyada
 - Londonda
@@ -2360,12 +2423,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - XV asrdan
 - XVI asrdan
-- XVII asrdan (to'g'ri)
++ XVII asrdan
 - XVIII asrdan
 
 **333. Mustaqillikka erishganidan keyin AQSH ning qaysi qismida plantatsion qullik saqlanib qolgan edi?**
 
-- Janubiy shtatlarida (to'g'ri)
++ Janubiy shtatlarida
 - G’arbiy shtatlarida
 - Shimoliy shtatlarida
 - Sharqiy shtatlarida
@@ -2373,7 +2436,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **334. Qaysi kun AQSH da Mustaqillik kuni sifatida nishonlanadi?**
 
 - 4-iyun
-- 4-iyul (to'g'ri)
++ 4-iyul
 - 3-avgust
 - 2-may
 
@@ -2382,19 +2445,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1787-уilda
 - 1790-уilda
 - 1788-уilda
-- 1789-уilda (to'g'ri)
++ 1789-уilda
 
 **336. Qachon ingliz qo’shinining asosiy qismlari taslim bo’lgan va Britaniya hukumati AQSH bilan muzokaralar o‘tkazishga qaror qilgan?**
 
 - 1781-yilda
-- 1782-yilda (to'g'ri)
++ 1782-yilda
 - 1783-yilda
 - 1784-yilda
 
 **337. Birinchi Qit’a Kongressida qaysi shtat vakillari qatnashmagan?**
 
 - Massachusets shtati
-- Jorjiya shtati (to'g'ri)
++ Jorjiya shtati
 - Virjiniya shtati
 - Karolina shtati
 
@@ -2402,27 +2465,27 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - «Kontinental korporatsiya»
 - «Kontinental birlashma»
-- «Kontinental uyushma» (to'g'ri)
++ «Kontinental uyushma»
 - «Kontinental majlis»
 
 **339. Qachon Buyuk Britaniya Amerika Qo’shma Shtatlarining tuzilganligini, uning mustaqilligi, ozodligi va suverenitetini tan olgan?**
 
 - 1782-yilda
 - 1781-yilda
-- 1783-yilda (to'g'ri)
++ 1783-yilda
 - 1784-yilda
 
 **340. Qachon AQSH Konstitutsiyasi qabul qilingan?**
 
 - 1788-yil 13-martda
-- Qachon AQSH Konstitutsiyasi qabul qilingan? (to'g'ri)
++ Qachon AQSH Konstitutsiyasi qabul qilingan?
 - 1786-yil 9-aprelda
 - 1789-yil 11-yanvarda
 
 **341. AQSH Konstitutsiyasiga ko’ra prezident necha yilga saylangan?**
 
 - 3 yilga
-- 4 yilga (to'g'ri)
++ 4 yilga
 - 5 yilga
 - 7 yilga
 
@@ -2431,39 +2494,39 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Jorj Vashington, Jeyms Uilson, Benjamin Franklin
 - Jorj Vashington, Aleksandr  Gamilton, Jeyms Uilson
 - Jeyms Medison, Aleksandr  Gamilton, Jon Jey
-- Benjamin Franklin, Jon Adams, Jon Jey (to'g'ri)
++ Benjamin Franklin, Jon Adams, Jon Jey
 
 **343. AQSH Mustaqillik deklaratsiyasini tuzish uchun komissiyaga kim boshchilik qilgan?**
 
 - Dakotalik Jon Adams
 - Filadelfiyalik Jorj Vashington
 - Karolinalik Benjamin Franklin
-- Virjiniyalik Tomas Jefferson (to'g'ri)
++ Virjiniyalik Tomas Jefferson
 
 **344. Mustaqillik uchun urush yillarida AQSH qaysi davlat bilan «Do’stlik va Tijorat Bitimi» ni imzolagan?**
 
-- Fransiya bilan (to'g'ri)
++ Fransiya bilan
 - Rossiya bilan
 - Germaniya bilan
 - Ispaniya bilan
 
 **345. Qachon Filadelfiyada Birinchi Qit’a Kongressi chaqirilgan?**
 
-- 1774-yil sentyabrda (to'g'ri)
++ 1774-yil sentyabrda
 - 1776-yil mayda
 - 1772-yil oktyabrda
 - 1775-yil mayda
 
 **346. Buyuk geografik kashfiyotlardan so‘ng Markaziy va Janubiy Amerikada qaysi davlatlar mustamlakalari tashkil qilingan?**
 
-- Ispaniya va Portugaliya (to'g'ri)
++ Ispaniya va Portugaliya
 - Gollandiya va Italiya
 - Germaniya va Gollandiya
 - Angliya va Fransiya
 
 **347. AQSH Mustaqillik Deklaratsiyasida davlat qurilishining asosi sifatida … e’lon qilingan.**
 
-- Xalq suvereniteti prinsipi (to'g'ri)
++ Xalq suvereniteti prinsipi
 - Respublika suvereniteti prinsipi
 - Shtat suvereniteti prinsipi
 - Federal hukumat suvereniteti prinsipi
@@ -2472,33 +2535,33 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Janubida
 - G’arbida
-- Shimolida (to'g'ri)
++ Shimolida
 - Sharqida
 
 **349. Amerika qurolli kuchlarining bosh qo’mondoni etib tayinlangan polkovnik Jorj Vashington qaysi shtatdan edi?**
 
 - Jorjiyalik
-- Virjiniyalik (to'g'ri)
++ Virjiniyalik
 - Karolinalik
 - Massachusetslik
 
 **350. Qachon AQSH Mustaqillik deklaratsiyasi qabul qilingan?**
 
 - 1776-yil 4-iyunda
-- 1776-yil 4-iyulda (to'g'ri)
++ 1776-yil 4-iyulda
 - 1775-yil 3-avgustda
 - 1775-yil 2-mayda
 
 **351. Qaysi davrga kelib Shimoliy Amerikadagi ingliz mustamlakalari aholisi o‘zlarini amerikalik deb atay boshlagan?**
 
-- XVIII asrning o’rtalarida (to'g'ri)
++ XVIII asrning o’rtalarida
 - XVII asrning oxirlarida
 - XVIII asrning boshlarida
 - XVIII asrning oxirlarida
 
 **352. Buyuk geografik kashfiyotlardan so‘ng Shimoliy Amerika, asosan, qaysi davlatlar tomonidan egallab olingan?**
 
-- Angliya va Fransiya (to'g'ri)
++ Angliya va Fransiya
 - Ispaniya va Portugaliya
 - Gollandiya va Italiya
 - Germaniya va Gollandiya
@@ -2506,7 +2569,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **353. Qachon Amerikadagi ingliz koloniyalari Buyuk Britaniyadan ajralib chiqishga da’vat etuvchi qaror qabul qilishgan?**
 
 - 1774-yil sentyabrda
-- 1776-yil mayda (to'g'ri)
++ 1776-yil mayda
 - 1772-yil oktyabrda
 - 1775-yil mayda
 
@@ -2514,7 +2577,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - XVII asrning birinchi yarmida
 - XVIII asrning ikkinchi yarmida
-- XVII asrning ikkinchi yarmida (to'g'ri)
++ XVII asrning ikkinchi yarmida
 - XVIII asrning birinchi yarmida
 
 ## 12-§ Ma’rifat asri.
@@ -2523,7 +2586,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **355. Nemis kompozitori Iogann Sebastyan Bax qaysi yillarda yashagan?**
 
 - 1756-1791-yillarda
-- 1685-1750-yillarda (to'g'ri)
++ 1685-1750-yillarda
 - 1770-1827-yillarda
 - 1667-1745-yillarda
 
@@ -2532,11 +2595,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Iogann Sebastyan Bax
 - Iogann Volfgang Gyote
 - Volfgang Amadey Motsart
-- Lyudvig van Betxoven (to'g'ri)
++ Lyudvig van Betxoven
 
 **357. Volfgang Amadey Motsart qaysi yillarda yashagan?**
 
-- 1756-1791-yillarda (to'g'ri)
++ 1756-1791-yillarda
 - 1685-1750-yillarda
 - 1770-1827-yillarda
 - 1667-1745-yillarda
@@ -2545,13 +2608,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1685-1750-yillarda
 - 1667-1745-yillarda
-- 1684-1781-yillarda (to'g'ri)
++ 1684-1781-yillarda
 - 1660-1731-yillarda
 
 **359. XVIII asr Yevropa ma’rifatparvarlari shiori nima bo’lgan?**
 
 - «Ilm va ma’rifat»
-- «Fan va taraqqiyot» (to'g'ri)
++ «Fan va taraqqiyot»
 - «Yuksalish va sanoat»
 - «Inson va olam»
 
@@ -2560,11 +2623,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Iogann Volfgang Gyote
 - Iogann Sebastyan Bax
 - Volfgang Amadey Motsart
-- Lyudvig van Betxoven (to'g'ri)
++ Lyudvig van Betxoven
 
 **361. «Qirolning birinchi tasvirchisi», rassom Fransua Bushe qaysi yillarda yashagan?**
 
-- 1703-1770-yillarda (to'g'ri)
++ 1703-1770-yillarda
 - 1749-1832-yillarda
 - 1660-1731-yillarda
 - 1667-1745-yillarda
@@ -2573,7 +2636,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1703-1770-yillarda
 - 1749-1832-yillarda
-- 1660-1731-yillarda (to'g'ri)
++ 1660-1731-yillarda
 - 1667-1745-yillarda
 
 **363. Quyidagilardan qaysi ijodkor Dublin ibodatxonasi rahbari bo’lgan?**
@@ -2581,18 +2644,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Daniyel Defo
 - Adam Smit
 - Jan Jak Russo
-- Jonatan Svift (to'g'ri)
++ Jonatan Svift
 
 **364. Zamondoshlari qaysi nemis kompozitorini o‘z davrining haqiqiy mo’jizasi deyishgan?**
 
 - Lyudvig van Betxovenni
-- Volfgang Amadey Motsartni (to'g'ri)
++ Volfgang Amadey Motsartni
 - Iogann Volfgang Gyoteni
 - Iogann Sebastyan Baxni
 
 **365. «Matto bayon etgan buyuk musibat» musiqiy asari muallifi kim?**
 
-- Iogann Sebastyan Bax (to'g'ri)
++ Iogann Sebastyan Bax
 - Iogann Volfgang Gyote
 - Volfgang Amadey Motsart
 - Lyudvig van Betxoven
@@ -2600,7 +2663,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **366. Qaysi ijodkor doktor Faust haqidagi qadimiy nemis afsonasini qayta yozgan?**
 
 - Iogann Sebastyan Bax
-- Iogann Volfgang Gyote (to'g'ri)
++ Iogann Volfgang Gyote
 - Volfgang Amadey Motsart
 - Lyudvig van Betxoven
 
@@ -2609,18 +2672,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1685-1750-yillarda
 - 1756-1791-yillarda
 - 1667-1745-yillarda
-- 1770-1827-yillarda (to'g'ri)
++ 1770-1827-yillarda
 
 **368. Qaysi musiqiy asar XVIII asr oxirida Fransiyada yuz bergan inqilobiy voqealar ruhi bilan yo‘g‘rilgan va Napoleon Bonapartga bag‘ishlangan edi, ammo u o’zini imperator deb e’lon qilganidan keyin «Qahramonnoma» deb qayta nomlangan?**
 
 - «Matto bayon etgan buyuk musibat» asari
 - «Fantaziya yo’lida sonata» asari
-- «Qahramonona» asari (to'g'ri)
++ «Qahramonona» asari
 - «Rekviyem» asari
 
 **369. «Robinzon Kruzoning hayoti va g‘aroyib sarguzashtlari» romani mualifi kim?**
 
-- Daniyel Defo  (to'g'ri)
++ Daniyel Defo 
 - Adam Smit
 - Jan Jak Russo
 - Jonatan Svift
@@ -2628,14 +2691,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **370. Qaysi asr Yevropa tarixiga «Ma’rifat asri» nomi bilan kirgan?**
 
 - XVI asr
-- XVIII asr (to'g'ri)
++ XVIII asr
 - XVII asr
 - XIX asr
 
 **371. Iogann Volfgang Gyote qaysi yillarda yashagan?**
 
 - 1703-1770-yillarda
-- 1749-1832-yillarda (to'g'ri)
++ 1749-1832-yillarda
 - 1660-1731-yillarda
 - 1667-1745-yillarda
 
@@ -2644,11 +2707,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 30 yil
 - 40 yil
 - 50 yil
-- 60 yil (to'g'ri)
++ 60 yil
 
 **373. Qaysi asrda Yevropada ilgari faqat tor doiradagi olimlarning mulki bo’lgan ilm-fan universitet chegarasidan chiqib, keng jamoatchilikka tarqala boshlagan?**
 
-- XVIII asrda (to'g'ri)
++ XVIII asrda
 - XIX asrda
 - XVII asrda
 - XVI asrda
@@ -2656,13 +2719,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **374. Qaysi nemis kompozitori 3 yoshidan boshlab musiqani o‘rgana boshlagan, 4 yoshida o’zining birinchi konsertini yozgan, 12 yoshida yozgan operasining premyerasi Milan teatrida qo‘yilgan, 14 yoshida Italiyadagi eng obro‘li musiqa akademiyasining akademigi bo‘lgan?**
 
 - Lyudvig van Betxoven
-- Volfgang Amadey Motsart (to'g'ri)
++ Volfgang Amadey Motsart
 - Iogann Volfgang Gyote
 - Iogann Sebastyan Bax
 
 **375. Volfgang Amadey Motsart Avstriyaning qaysi sharida dunyoga kelgan?**
 
-- Zalsburg shahrida (to'g'ri)
++ Zalsburg shahrida
 - Tirol shahrida
 - Grats shahrida
 - Vena shahrida
@@ -2670,13 +2733,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **376. «Qiyin taklif» nomli kartina muallifi kim?**
 
 - Fransua Bushe
-- Antuan Vatto (to'g'ri)
++ Antuan Vatto
 - Deni Didro
 - Jan Jak Russo
 
 **377. Qaysi nemis kompozitori asarlari odamlarga o’ta jiddiy tuyulardi, cherkov esa Xudodan qo’rqish  ohanglarining yetarli emasligi uchun uning musiqalarini yoqtirmas edi, hatto, o‘g’illari ham kompozitorning ijodini umidsiz, eskirib qolgan deb hisoblab, ularga meros bo‘lib qolgan qo’lyozmalarning ancha qismini yo’qotib yuborishgan?**
 
-- Iogann Sebastyan Bax (to'g'ri)
++ Iogann Sebastyan Bax
 - Iogann Volfgang Gyote
 - Volfgang Amadey Motsart
 - Lyudvig van Betxoven
@@ -2686,26 +2749,29 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1703-1770-yillarda
 - 1749-1832-yillarda
 - 1660-1731-yillarda
-- 1667-1745-yillarda (to'g'ri)
++ 1667-1745-yillarda
 
 **379. «Gulliverning sayohatlari» romani mualifi kim?**
 
 - Daniyel Defo
 - Adam Smit
 - Jan Jak Russo
-- Jonatan Svift (to'g'ri)
++ Jonatan Svift
 
 **380. «Figaroning uylanishi», «Rekviyem» (requem - motam kuyi, orom) musiqiy asarlari muallifi kim?**
 
-- Volfgang Amadey Motsart (to'g'ri)
++ Volfgang Amadey Motsart
 - Iogann Volfgang Gyote
 - Iogann Sebastyan Bax
 - Lyudvig van Betxoven
 
 **381. Quyidagi «Beparvo» kartinasi muallifi kim?**
 
+
+![](../images/astron3672124316262.png)
+
 - Fransua Bushe
-- Antuan Vatto (to'g'ri)
++ Antuan Vatto
 - Deni Didro
 - Jan Jak Russo
 
@@ -2714,22 +2780,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Daniyel Defo
 - Adam Smit
 - Jan Jak Russo
-- Jonatan Svift (to'g'ri)
++ Jonatan Svift
 
 ## 13-§ XVI-XVIII asrlarda Osiyo mamlakatlari rivojlanishining asosiy xususiyatlari.
 
 
 **383. Xarita bo’yicha to’g’ri javobni toping. 1. Janubiy Osiyo; 2. Janubi-g’arbiy Osiyo; 3. Sharqiy Osiyo; 4. Janubi-sharqiy Osiyo.**
 
+
+![](../images/astron45101573708179.png)
+
 - 1-I, 2-II, 3-III, 4-IV
 - 1-III, 2-IV, 3-I, 4-II
-- 1-II, 2-I, 3-IV, 4-III (to'g'ri)
++ 1-II, 2-I, 3-IV, 4-III
 - 1-IV, 2-III, 3-II, 4-I
 
 **384. Aholi tarkibida Yevropa dvoryanlariga monand oliyhimmat ritsarlar va knyazlar mavjud bo’lgan Sharqdagi yagona mamlakat qaysi edi?**
 
 - Xitoy
-- Yaponiya (to'g'ri)
++ Yaponiya
 - Hindiston
 - Koreya
 
@@ -2737,12 +2806,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1, 2, 4
 - 1, 2, 3
-- 1, 2, 3, 4 (to'g'ri)
++ 1, 2, 3, 4
 - 1, 3, 4
 
 **386. Qaysi davrgacha G‘arbning Sharqdan ustunligi faqat tashqi ko‘rinishda bo’lib, Sharq harbiy ishda, moddiy ne’matlarni ishlab chiqarishda Yevropadan ancha oldinda edi?**
 
-- XVII asrning o’rtalarigacha (to'g'ri)
++ XVII asrning o’rtalarigacha
 - XVII asrning boshlarigacha
 - XVIII asrning boshlarigacha
 - XVII asrning oxirlarigacha
@@ -2751,26 +2820,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Eron
 - Yaponiya
-- Xitoy (to'g'ri)
++ Xitoy
 - Hindiston
 
 **388. Yevropa tarix fanida sharqona taraqqiyot shaklini qanday atashadi?**
 
 - «O’zgacha sivilizatsiya», «o’zgacha jamiyat»
 - «Sharqona sivilizatsiya», «sharqona jamiyat»
-- «An’anaviy sivilizatsiya», «an’anaviy jamiyat» (to'g'ri)
++ «An’anaviy sivilizatsiya», «an’anaviy jamiyat»
 - «Antiqa sivilizatsiya», «antiqa jamiyat»
 
 **389. O’rta asrlar va Yangi davrda qaysi sharq mamlakati jamiyatida shaxs va uning o‘z hayot yo‘lini erkin tanlash huquqi rad etilmagan?**
 
 - Xitoyda
-- Yaponiyada (to'g'ri)
++ Yaponiyada
 - Hindistonda
 - Koreyada
 
 **390. Islom dini qaysi jihati uchun ko‘plab xalqlar o‘rtasida keng tarqalgan?**
 
-- Barcha musulmonlarning tengligiga asoslangani uchun (to'g'ri)
++ Barcha musulmonlarning tengligiga asoslangani uchun
 - Yakka xudoga e’tiqod qilingani uchun
 - Jamiyatda va insonlar turmushida poklikni targ’ib qilgani uchun
 - Barcha javoblar to’g’ri
@@ -2778,7 +2847,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **391. Rivojlanishda sifat o‘zgarishlariga emas, faqat son jihatdan ko‘payishga va tezkor natijalarga yo’naltirilgan o‘sish qanday ataladi?**
 
 - Intensiv
-- Ekstensiv (to'g'ri)
++ Ekstensiv
 - Innovatsion
 - Revolyutsion
 
@@ -2786,12 +2855,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Xitoy sivilizatsiyasida
 - Yaponiya sivilizatsiyasida
-- Hindiston sivilizatsiyasida (to'g'ri)
++ Hindiston sivilizatsiyasida
 - Koreya sivilizatsiyasida
 
 **393. Faqat xitoycha tartiblarni joriy qilgan … rejimining o’rnatilishi yapon jamiyatining rivojlanishini to‘xtatib, uni vaqtincha faol xalqaro aloqalardan uzib qo‘ygan.**
 
-- Tokugava (to'g'ri)
++ Tokugava
 - Musixito
 - Tanakura
 - Minomoto
@@ -2803,13 +2872,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Sin sulolasi davrida
 - Yuan sulolasi davrida
-- Min sulolasi davrida (to'g'ri)
++ Min sulolasi davrida
 - Tan sulolasi davrida
 
 **395. XVI asrda Xitoyda yer ijara haqi hosilning qancha foizini tashkil etgan?**
 
 - 30 foizini
-- 50 foizini (to'g'ri)
++ 50 foizini
 - 40 foizini
 - 60 foizini
 
@@ -2817,12 +2886,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Makkajo’xori
 - Bug’doy
-- Sholi (to'g'ri)
++ Sholi
 - Kartoshka
 
 **397. Xitoyda qaysi sulola davrida «G’arbga sayohat» romani yaratilgan?**
 
-- Chin sulolasi davrida (to'g'ri)
++ Chin sulolasi davrida
 - Yuan sulolasi davrida
 - Min sulolasi davrida
 - Tan sulolasi davrida
@@ -2832,11 +2901,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Arabistonga
 - Koreyaga
 - Yaponiyaga
-- Hindistonga (to'g'ri)
++ Hindistonga
 
 **399. Qaysi sulola davrida Xitoy o’z qudratining cho’qqisiga erishgan?**
 
-- Chin sulolasi davrida (to'g'ri)
++ Chin sulolasi davrida
 - Tan sulolasi davrida
 - Min sulolasi davrida
 - Yuan sulolasi davrida
@@ -2845,19 +2914,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Xattotlik san’atiga
 - Haykaltaroshlik san’atiga
-- Teatr san’atiga (to'g'ri)
++ Teatr san’atiga
 - Rassomchilik san’atiga
 
 **401. Xitoyning mashhur olimlardan biri Van Yanmin ta’limotiga oid to’g’ri javobni toping.**
 
 - Konfutsiylikdan voz kechgan holda, xitoy madaniyatini o‘zgargan tarixiy vaziyatga mos ravishda yangicha sharhlagan
-- Konfutsiylikdan voz kechmagan holda, bu ta’limotni o‘zgargan tarixiy vaziyatga mos ravishda yangicha sharhlagan (to'g'ri)
++ Konfutsiylikdan voz kechmagan holda, bu ta’limotni o‘zgargan tarixiy vaziyatga mos ravishda yangicha sharhlagan
 - Xristianlikni qabul qilgan holda, xitoy madaniyatini o‘zgargan tarixiy vaziyatga mos ravishda yangicha sharhlagan
 - Konfutsiylikni yagona va o’zgarmas ta’limot sifatida targ’ib qilgan
 
 **402. Xitoyning qaysi shahrida mahalliy vatanparvarlar chinlarga (manjurlar) qarshi yagona front tuzishga harakat qilishgan?**
 
-- Nankin shahrida (to'g'ri)
++ Nankin shahrida
 - Shanxay shahrida
 - Pekin shahrida
 - Lyaodun shahrida
@@ -2867,19 +2936,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Portugallar
 - Gollandlar
 - Ispanlar
-- Inglizlar (to'g'ri)
++ Inglizlar
 
 **404. XVI asrda Xitoyda yerga egalik qilishning nechta asosiy turi mavjud edi?**
 
 - Beshta turi
 - To’rtta turi
 - Uchta turi
-- Ikkita turi (to'g'ri)
++ Ikkita turi
 
 **405. Qachon Pekinga kirib kelgan manjurlar hukmdori Shunchji Xitoy imperatori deb e’lon qilingan?**
 
 - 1641-yilda
-- 1644-yilda (to'g'ri)
++ 1644-yilda
 - 1636-yilda
 - 1639-yilda
 
@@ -2887,33 +2956,33 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Chin sulolasi davrida
 - Tan sulolasi davrida
-- Min sulolasi davrida (to'g'ri)
++ Min sulolasi davrida
 - Yuan sulolasi davrida
 
 **407. Qaysi Yevropa davlati Filippinni egallab olganidan so’ng, atrofdagi orollarda savdo bilan shug‘ullanuvchi minglab Xitoy fuqarolarini yo’q qilib yuborgan?**
 
 - Portugaliya
 - Gollandiya
-- Ispaniya (to'g'ri)
++ Ispaniya
 - Fransiya
 
 **408. Nima sababdan Rossiyaning XVIII asrning 70-yillarida Xitoy bilan o‘zaro aloqalar o‘rnatishga urinishi muvaffaqiyatsiz tugagan?**
 
 - Ikkala davlat o‘rtasida Mo’g’uliston va Koreyada ta’sir uchun kurash
-- Ikkala davlat o‘rtasida Uzoq Sharqda va Markaziy Osiyoda ta’sir uchun kurash (to'g'ri)
++ Ikkala davlat o‘rtasida Uzoq Sharqda va Markaziy Osiyoda ta’sir uchun kurash
 - Ikkala davlat o‘rtasida Afg’oniston va Hindistonda ta’sir uchun kurash
 - Ikkala davlat o‘rtasida Janubiy Sibir va Yaponiyada ta’sir uchun kurash
 
 **409. XVII asrda kimlar Tayvan orollarining bir qismini egallab olganlar?**
 
 - Portugallar
-- Gollandlar (to'g'ri)
++ Gollandlar
 - Ispanlar
 - Inglizlar
 
 **410. Manjurlar o’z davlatini tuzib, dastlab qaysi hududni egallagan?**
 
-- Mo’g’ulistonni (to'g'ri)
++ Mo’g’ulistonni
 - Xitoyni
 - Koreyani
 - Qashqarni
@@ -2922,19 +2991,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - XIV asrdan
 - XVII asrdan
-- XVI asrdan (to'g'ri)
++ XVI asrdan
 - XV asrdan
 
 **412. Manjurlarning chin sulolasi Xitoyda qachongacha hukmronlik qilgan?**
 
-- 1911-yilgacha (to'g'ri)
++ 1911-yilgacha
 - 1914-yilgacha
 - 1912-yilgacha
 - 1913-yilgacha
 
 **413. Quyidagi qaysi davlat chinlar (manjurlar) ga vassallikni tan olgan?**
 
-- Birma (to'g'ri)
++ Birma
 - Vyetnam
 - Koreya
 - Yaponiya
@@ -2942,13 +3011,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **414. Qachongacha Xitoy iqtisodiy jihatdan dunyoning eng qudratli davlatlaridan biri bo’lib qolgan?**
 
 - XVII asrning boshigacha
-- XVIII asrning oxirigacha (to'g'ri)
++ XVIII asrning oxirigacha
 - XVII asrning oxirigacha
 - XVIII asrning boshigacha
 
 **415. XVII asrda yevropaliklar Xitoydan ipak va chinni olib ketib, bu yerga qanday mahsulot olib kelardilar?**
 
-- Tamaki va o’qotar qurollar (to'g'ri)
++ Tamaki va o’qotar qurollar
 - Oltin va kumush
 - Shakar va paxta
 - Yog’och va movut
@@ -2958,39 +3027,39 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Yuan sulolasi
 - Tan sulolasi
 - Sin sulolasi
-- Min sulolasi (to'g'ri)
++ Min sulolasi
 
 **417. Mashhur olimlardan biri Van Yanmin qaysi sulola davrida faoliyat yuritgan?**
 
 - Sin sulolasi davrida
 - Tan sulolasi davrida
-- Min sulolasi davrida (to'g'ri)
++ Min sulolasi davrida
 - Yuan sulolasi davrida
 
 **418. Manjurcha «Chin» so’zi qanday ma’noni anglatadi?**
 
 - «Qudrat», «osmon»
 - «Mard», «jasur»
-- «Sof», «toza» (to'g'ri)
++ «Sof», «toza»
 - «Kuchli», «qudratli»
 
 **419. XVI asr oxirida qaysi hududda manjur qabilalarining ittifoqi paydo bo‘lgan?**
 
 - Amur daryosidan shimolda
-- Amur daryosidan janubda (to'g'ri)
++ Amur daryosidan janubda
 - Don daryosidan janubda
 - Don daryosidan shimolda
 
 **420. Xitoyda kunsyuy asosida shakllangan … dunyoga mashhur bo‘ldi.**
 
-- Pekin operasi (to'g'ri)
++ Pekin operasi
 - Shanxay operasi
 - Nankin operasi
 - Tayvan operasi
 
 **421. Qachon manjurlar sardori Abaxay o’zini xon, yangi davlatni esa Chin deb atagan?**
 
-- 1636-yilda (to'g'ri)
++ 1636-yilda
 - 1641-yilda
 - 1644-yilda
 - 1639-yilda
@@ -3003,12 +3072,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Avrangzeb
 - Akbar
 - Jahongir Mirzo
-- Shoh Jahon (to'g'ri)
++ Shoh Jahon
 
 **423. Panipat jangi qachon bo’lib o’tgan?**
 
 - 1524-yil 11-mayda
-- 1526-yil 21-aprelda (to'g'ri)
++ 1526-yil 21-aprelda
 - 1525-yil 18-martda
 - 1523-yil 20-mayda
 
@@ -3017,33 +3086,33 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1763-yilda
 - 1760-yilda
 - 1759-yilda
-- 1757-yilda (to'g'ri)
++ 1757-yilda
 
 **425. Hindistonda qaysi hukmdor davrida hindlarning ziyoratgohlaridan olinadigan soliq bekor qilingan?**
 
 - Avrangzeb davrida
 - Воbur davrida
 - Humoyun davrida
-- Akbar davrida (to'g'ri)
++ Akbar davrida
 
 **426. Qaysi hind shoiri tug‘ma ko‘r bo‘lgan va Krishnaning hayoti haqida yorqin poemalar yaratgan?**
 
 - Tulsidas
 - Premchand
-- Surdas (to'g'ri)
++ Surdas
 - Mirabai
 
 **427. Qaysi Boburiy hukmdor «Milliy podshoh », «Xalq hukmdori» nomlariga sazovor bo‘lgan?**
 
 - Shoh Jahon
 - Humoyun
-- Akbar (to'g'ri)
++ Akbar
 - Avrangzeb
 
 **428. «Mahabharata», «Ramayana» asarlari qaysi Boburiy hukmdor davrida tarjima qilingan?**
 
 - Avrangzeb davrida
-- Akbar davrida (to'g'ri)
++ Akbar davrida
 - Jahongir Mirzo davrida
 - Shoh Jahon davrida
 
@@ -3052,18 +3121,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Iskandar Lo’di
 - Bahlul Lo’di
 - Muhmud Lo’di
-- Ibrohim Lo‘di (to'g'ri)
++ Ibrohim Lo‘di
 
 **430. Qaysi hind shoiri «Ramayana» syujetlari asosida «Ramaning jasoratlari» nomli juda katta poema yaratgan?**
 
-- Tulsidas (to'g'ri)
++ Tulsidas
 - Premchand
 - Surdas
 - Mirabai
 
 **431. Qachon Zahiriddin Muhammad Воbur vafot etgan?**
 
-- 1530-yilda (to'g'ri)
++ 1530-yilda
 - 1532-yilda
 - 1531-yilda
 - 1533-yilda
@@ -3071,7 +3140,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **432. Hindiston tarixida Bobur vorislari orasida eng mashhuri, buyuk islohotchi, «Buyuk Akbar» nomi bilan atalgan Shoh Akbar qaysi yillarda hukmronlik qilgan?**
 
 - 1557-1606-yillarda
-- 1556-1605-yillarda (to'g'ri)
++ 1556-1605-yillarda
 - 1558-1607-yillarda
 - 1559-1608-yillarda
 
@@ -3079,19 +3148,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Воbur davrida
 - Avrangzeb davrida
-- Akbar davrida (to'g'ri)
++ Akbar davrida
 - Humoyun davrida
 
 **434. Humoyun taxtdan ag’darilganidan keyin Hindiston taxtiga kim o’tirgan?**
 
 - Panjobliklarning mahdiy qabilasi sardori Mahmudshoh
-- Afg‘onlarning sur qabilasi sardori Sherxon (to'g'ri)
++ Afg‘onlarning sur qabilasi sardori Sherxon
 - Afg‘onlarning lo’diy qabilasi sardori G’ozixon
 - Turkiylarning ming qabilasi sardori Elbarsxon
 
 **435. Qaysi Boburiy hukmdor musulmon bo’lmaganlardan olinadigan jizya solig’ini qayta tiklagan, hindlar uchun qolgan barcha soliqlarni ikki hissaga oshirgan, ularga o‘z bayramlarini nishonlashni taqiqlagan, hind ibodatxonalarini buzib tashlashni buyurgan?**
 
-- Avrangzeb (to'g'ri)
++ Avrangzeb
 - Akbar
 - Jahongir Mirzo
 - Shoh Jahon
@@ -3101,19 +3170,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Humoyun davrida
 - Воbur davrida
 - Avrangzeb davrida
-- Akbar davrida (to'g'ri)
++ Akbar davrida
 
 **437. Qachon Zahiriddin Muhammad Воburning o’g’li Humoyun Dehlini qaytarib olgan?**
 
 - 1552-yilda
 - 1553-yilda
 - 1554-yilda
-- 1555-yilda (to'g'ri)
++ 1555-yilda
 
 **438. Zahiriddin Muhammad Воbur Hindistonga yurish qilishdan oldin qayerning hukmdori bo’lgan?**
 
 - Balxning
-- Kobulning (to'g'ri)
++ Kobulning
 - Samarqandning
 - Marvning
 
@@ -3121,40 +3190,46 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Avrangzeb davrida
 - Humoyun davrida
-- Akbar davrida (to'g'ri)
++ Akbar davrida
 - Воbur davrida
 
 **440. Hindistonda qaysi hukmdor davrida musulmon bo’lmaganlardan olinadigan jon solig‘i – “jizya” bekor qilingan?**
 
 - Воbur davrida
 - Humoyun davrida
-- Akbar davrida (to'g'ri)
++ Akbar davrida
 - Avrangzeb davrida
 
 **441. Quyidagi xaritada Agra shahri qaysi raqam bilan belgilangan?**
 
+
+![](../images/astron15365352271263.png)
+
 - IV
 - III
-- II (to'g'ri)
++ II
 - I
 
 **442. Hindiston hukmdori Akbarshoh islohotlari ichida unga eng katta shuhrat keltirgani qaysi islohot edi?**
 
-- Diniy islohot (to'g'ri)
++ Diniy islohot
 - Ma’muriy islohot
 - Agrar islohot
 - Harbiy islohot
 
 **443. Quyidagi suratda qaysi Hindiston hukmdori tasvirlangan?**
 
+
+![](../images/astron93784541488748.png)
+
 - Воbur
 - Humoyun
-- Akbar (to'g'ri)
++ Akbar
 - Avrangzeb
 
 **444. Qachon mahalliy hind zodagonlari Humoyunga qarshi birlashib, uni taxtdan ag’darishgan?**
 
-- 1540-yilda (to'g'ri)
++ 1540-yilda
 - 1539-yilda
 - 1541-yilda
 - 1542-yilda
@@ -3164,26 +3239,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Shoh Jahon
 - Jahongir Mirzo
 - Akbar
-- Avrangzeb (to'g'ri)
++ Avrangzeb
 
 **446. Hindistonni bo‘ysundirishda yetakchilik qilgan Ost-Indiya kompaniyasi qaysi davlatga tegishli edi?**
 
 - Ispaniyaga
 - Fransiyaga
-- Buyuk Britaniyaga (to'g'ri)
++ Buyuk Britaniyaga
 - Portugaliyaga
 
 **447. Zahiriddin Muhammad Воbur Hindistonga yurishi arafasida Dehli sultonligida qaysi qabilaning Lo’diylar sulolasi hukmronlik qilayotgan edi?**
 
 - Saljuqiylarning
 - Turkiylarning
-- Afg‘onlarning (to'g'ri)
++ Afg‘onlarning
 - O’g’uzlarning
 
 **448. Hindistondagi Haydarobod qaysi yilda vujudga kelgan?**
 
 - 1726-yilda
-- 1724-yilda (to'g'ri)
++ 1724-yilda
 - 1728-yilda
 - 1721-yilda
 
@@ -3192,14 +3267,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Usmoniylar davlatining
 - Xurosonning
 - Misrning
-- Eronning (to'g'ri)
++ Eronning
 
 ## 16-§ XVI-XVIII asrlarda Yaponiya va Koreya.
 
 
 **450. XVI -XVIII asrlarda Yaponiyada feodallar qo‘lida xizmat qilgan dvoryanlar qanday atalgan?**
 
-- Samuray (to'g'ri)
++ Samuray
 - Mikado
 - Syogun
 - Daymyo
@@ -3208,7 +3283,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Bozor
 - Saroy
-- Qal’a (to'g'ri)
++ Qal’a
 - Ibodatxona
 
 **452. XVI asrda Li Sun Sin koreys xalqining Yaponiyaga qarshi urushida qaysi qo’shinga qo’mondonlik qilgan?**
@@ -3216,33 +3291,33 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Artilleriyaga
 - Piyoda qo’shinga
 - Otliq qo’shinga
-- Dengiz flotiga (to'g'ri)
++ Dengiz flotiga
 
 **453. XVI asrda «Haq ish uchun» xalq partizan guruhlari qaysi mamlakatda tuzilgan?**
 
 - Hindistonda
 - Xitoyda
 - Yaponiyada
-- Koreyada (to'g'ri)
++ Koreyada
 
 **454. Yaponiyada barcha xristian missionerlari mamlakatdan quvib yuborililishi to’g’risidagi qonun qachon qabul qilingan?**
 
 - XVII asr oxirida
 - XVII asr boshida
-- XVI asr oxirida (to'g'ri)
++ XVI asr oxirida
 - XVI asr boshida
 
 **455. Qachon Tokugava Ieyasu syogun unvonini qabul qilgan?**
 
 - 1604-yilda
 - 1605-yilda
-- 1603-yilda (to'g'ri)
++ 1603-yilda
 - 1602-yilda
 
 **456. Peyzaj janri Koreyaga qayerdan kirib kelgan?**
 
 - Yevropadan
-- Xitoydan (to'g'ri)
++ Xitoydan
 - Hindistondan
 - Yaponiyadan
 
@@ -3250,12 +3325,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 70 minglik qo’shin
 - 60 minglik qo’shin
-- 50 minglik qo’shin (to'g'ri)
++ 50 minglik qo’shin
 - 40 minglik qo’shin
 
 **458. Tokugava Ieyasu poytaxt qilib saylagan Edo shahri hozirgi qaysi shahar?**
 
-- Tokio shahri (to'g'ri)
++ Tokio shahri
 - Kioto shahri
 - Osaka shahri
 - Nagoya shahri
@@ -3265,19 +3340,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Mikado
 - Samuray
 - Daymyo
-- Syogun (to'g'ri)
++ Syogun
 
 **460. Qachon Yaponiya qo‘shini Koreya hududiga bostirib kirib Seul va Pxenyanni egallagan?**
 
 - 1595-yilda
-- 1592-yilda (to'g'ri)
++ 1592-yilda
 - 1590-yilda
 - 1598-yilda
 
 **461. Qachon an’anaviy yapon teatri – “kabuki” paydo bo’lgan?**
 
 - XVIII asrda
-- XVII asrda (to'g'ri)
++ XVII asrda
 - XVI asrda
 - XV asrda
 
@@ -3286,12 +3361,15 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 3, 4, 5
 - 1, 3, 4, 6
 - 2, 3, 4, 5, 6
-- 1, 2, 3, 4, 5 (to'g'ri)
++ 1, 2, 3, 4, 5
 
 **463. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron5137301338911.png)
+
 - Mikado Hiroxito
-- Tokugava Ieyasu (to'g'ri)
++ Tokugava Ieyasu
 - Toyotomi Xideyosi
 - Oda Nobunaga
 
@@ -3299,20 +3377,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Tan sulolasi
 - Chin sulolasi
-- Min sulolasi (to'g'ri)
++ Min sulolasi
 - Yuan sulolasi
 
 **465. Qaysi yildagi shartnomaga ko’ra Koreya qiroli o‘zini manjurlarning vassali deb tan olgan, minlar sulolasi bilan har qanday munosabatlarni to‘xtatish va manjurlarga Xitoyga qarshi urushda yordam berish hamda har yili o‘lpon to ‘lab turish majburiyatini olgan?**
 
 - 1651-yildagi
-- 1637-yildagi (to'g'ri)
++ 1637-yildagi
 - 1645-yildagi
 - 1627-yildagi
 
 **466. Qachon Koreyada «Qonunlarning buyuk to`plami» deb nomlangan hujjat qabul qilingan?**
 
 - 1789-yilda
-- 1785-yilda (to'g'ri)
++ 1785-yilda
 - 1788-yilda
 - 1781-yilda
 
@@ -3321,25 +3399,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Tokugava
 - Xideyosi
 - Nobunaga
-- Yosimune (to'g'ri)
++ Yosimune
 
 **468. Koreya qiroli Yongjo qaysi yillarda hukmronlik qilgan?**
 
 - 1718-1770-yillarda
-- 1725-1776-yillarda (to'g'ri)
++ 1725-1776-yillarda
 - 1722-1774-yillarda
 - 1731-1772-yillarda
 
 **469. Qaysi Osiyo mamlakati yevropaliklar bosqini davrida, ichki islohotlar hamda oqilona tashqi siyosat tufayli o’z mustaqilligini saqlab qolgan?**
 
-- Yaponiya (to'g'ri)
++ Yaponiya
 - Koreya
 - Hindiston
 - Xitoy
 
 **470. Qaysi janr «tog‘ va suvni tasvirlash» deb atalgan?**
 
-- Peyzaj janri (to'g'ri)
++ Peyzaj janri
 - Mozaika janri
 - Freska janri
 - Natyurmort janri
@@ -3349,13 +3427,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1864-yilgacha
 - 1865-yilgacha
 - 1866-yilgacha
-- 1867-yilgacha (to'g'ri)
++ 1867-yilgacha
 
 **472. Qachon manjurlar Koreyaga bostirib kirishgan?**
 
 - 1621-yilda
 - 1618-yilda
-- 1627-yilda (to'g'ri)
++ 1627-yilda
 - 1620-yilda
 
 **473. «Xokku» nima?**
@@ -3363,32 +3441,32 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Qofiyalashmagan besh qatorli lirik she’r
 - Yaponiyada poeziyaning eng keng tarqalgan janri
 - «Tomchi suvda ummonni ko‘rish kerak» degan badiiy tamoyil asosida yozilgan she’r
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **474. XVI-XVIII asrlarda Yaponiyaning markazlashgan yagona davlatga birlashishida qaysi shaxs muhim rol o’ynagan?**
 
 - Toyotomi Xideyosi
 - Tokugava Ieyasu
 - Oda Nobunaga
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **475. Chon Son, Li Myonuk, Kim Xondo XVI-XVIII asrlardagi qaysi davlat peyzaj janri namoyandalari hisoblanadi?**
 
 - Xitoy
 - Yaponiya
-- Koreya (to'g'ri)
++ Koreya
 - Birma
 
 **476. Syogun Yosimune qaysi yillarda hukmronlik qilgan?**
 
-- 1716-1745-yillarida (to'g'ri)
++ 1716-1745-yillarida
 - 1719-1741-yillarida
 - 1711-1749-yillarida
 - 1713-1747-yillarida
 
 **477. Qaysi so’z yaponchada «og’moq», «o’zini olib qochmoq» degan ma’noni anglatadi?**
 
-- Kabuki (to'g'ri)
++ Kabuki
 - Xokku
 - Katana
 - Xarakiri
@@ -3398,18 +3476,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1621-yilda
 - 1618-yilda
 - 1610-yilda
-- 1614-yilda (to'g'ri)
++ 1614-yilda
 
 **479. Qaysi syogun «100 moddali Farmon» deb ataluvchi qonunlar to’plamini joriy etgan?**
 
 - Tokugava
 - Xideyosi
-- Yosimune (to'g'ri)
++ Yosimune
 - Nobunaga
 
 **480. Nima sababdan syogun Tokugava nomiga bo’lsa-da, imperator hokimiyati daxlsizligini saqlab qolgan?**
 
-- Yapon xalqi uchun imperator Xudoning avlodi hisoblangan (to'g'ri)
++ Yapon xalqi uchun imperator Xudoning avlodi hisoblangan
 - Syogunning oliy vazifasi imperatorni saqlash bo’lgan
 - Keyinchalik o’z avlodini imperatorlik taxtiga o’tqazish uchun
 - Imperator Yaponiyaning oliy ruhoniysi hisoblangan
@@ -3419,19 +3497,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Hindistonni
 - Xitoyni
 - Koreyani
-- Yaponiyani (to'g'ri)
++ Yaponiyani
 
 **482. Tokugava Ieyasu nechanchi syogunlikka asos solgan?**
 
 - To’rtinchi syogunlikka
 - Birinchi syogunlikka
 - Ikkinchi syogunlikka
-- Uchunchi syogunlikka (to'g'ri)
++ Uchunchi syogunlikka
 
 **483. XVI -XVIII asrlarda Yaponiyada viloyatlarni boshqargan feodallar qanday atalgan?**
 
 - Syogun
-- Daymyo (to'g'ri)
++ Daymyo
 - Mikado
 - Samuray
 
@@ -3440,25 +3518,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - «Syo» - yagona, «gun» - yo’lboshchi
 - «Syo» - haqiqiy, «gun» - hukmdor
 - «Syo» - oliy, «gun» - qo’mondon
-- «Syo» - general, «gun» - qo’shin (to'g'ri)
++ «Syo» - general, «gun» - qo’shin
 
 **485. Xokku janrining eng yirik namoyandasi kim?**
 
 - Kim Xondo
 - Li Myonuk
 - Chon Son
-- Masuo Basyo (to'g'ri)
++ Masuo Basyo
 
 **486. Qachon Xitoy va Koreyaning birlashgan qo’shinlari Pxenyan va Seulni yaponlardan ozod qilganlar?**
 
-- 1593-yilda (to'g'ri)
++ 1593-yilda
 - 1592-yilda
 - 1590-yilda
 - 1598-yilda
 
 **487. Samuray so’zi kelib chiqqan « saburau» so’zi qanday ma’noni anglatadi?**
 
-- Xizmat qilmoq (to'g'ri)
++ Xizmat qilmoq
 - Sodiq odam
 - Jasur jangchi
 - O’tkir qilich
@@ -3467,7 +3545,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Oltinchi syoguni
 - Yettinchi syoguni
-- Sakkizinchi syoguni (to'g'ri)
++ Sakkizinchi syoguni
 - To’qqizinchi syoguni
 
 ## 17-§ XVI-XVIII asrlarda Usmoniylar imperiyasi.
@@ -3478,25 +3556,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1688-yilda
 - 1685-yilda
 - 1680-yilda
-- 1684-yilda (to'g'ri)
++ 1684-yilda
 
 **490. Turk olimlari Xizr Xalifa Tabariy, Mulla Mehmet Chalabiy, Mustafo Koshipzoda fanning qaysi sohalarida faoliyat yuritganlar?**
 
-- Matematika va astronomiya sohasida (to'g'ri)
++ Matematika va astronomiya sohasida
 - Astronomiya va geografiya sohasida
 - Geometriya va matematika sohasida
 - Fizika va kimyo sohasida
 
 **491. Qaysi Usmoniy sulton Suriya va Falastinni bosib olgan?**
 
-- Salim I (to'g'ri)
++ Salim I
 - Sulaymon I
 - Murod III
 - Boyazid II
 
 **492. XVI asrda Usmoniylar imperiyasida viloyatlarni kim boshqargan?**
 
-- Vali (to'g'ri)
++ Vali
 - Valibey
 - Arkog’a
 - Sanjoqbey
@@ -3505,19 +3583,22 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - XVIII asrda
 - XVII asrda
-- XVI asrda (to'g'ri)
++ XVI asrda
 - XV asrda
 
 **494. Usmoniy sultonlar Angliya va Fransiyaga qaysi davlatga qarshi kurashda ittifoqchi sifatida qarashgan?**
 
 - Avstriyaga
 - Germaniyaga
-- Rossiyaga (to'g'ri)
++ Rossiyaga
 - Eronga
 
 **495. Quyidagi xaritada Istanbul shahri qaysi raqam bilan belgilangan?**
 
-- I (to'g'ri)
+
+![](../images/astron8644777572680.png)
+
++ I
 - II
 - III
 - IV
@@ -3526,26 +3607,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Germaniya savdogarlari
 - Rossiya savdogarlari
-- Fransiya savdogarlari (to'g'ri)
++ Fransiya savdogarlari
 - Angliya savdogarlari
 
 **497. Usmoniylar imperiyasida «yanichar» deb kimlarga aytilgan?**
 
 - Sultonning shaxsiy gvardiyasiga
 - Harbiy kemada xizmat qiladigan askarlarga
-- Piyoda askarlarga (to'g'ri)
++ Piyoda askarlarga
 - Otliq askarlarga
 
 **498. «Yanichar» so’zining ma’nosi nima?**
 
 - «Sodiq qo’shin»
-- «Yangi qo’shin» (to'g'ri)
++ «Yangi qo’shin»
 - «Qudratli qo’shin»
 - «Piyoda qo’shin»
 
 **499. Usmoniylar davrida yozilgan «Sayohatnoma» asarining muallifi kim?**
 
-- Avliyo Chalabiy (to'g'ri)
++ Avliyo Chalabiy
 - Mustafo Koshipzoda
 - Mulla Mehmet Chalabiy
 - Xizr Xalifa Tabariy
@@ -3554,12 +3635,15 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1514-yilda
 - 1519-yilda
-- 1517-yilda (to'g'ri)
++ 1517-yilda
 - 1511-yilda
 
 **501. Quyidagi rasmda qaysi Usmoniy hukmdor tasvirlangan?**
 
-- Salim I (to'g'ri)
+
+![](../images/astron27095959648.png)
+
++ Salim I
 - Sulaymon I
 - Murod III
 - Boyazid II
@@ -3568,7 +3652,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Vali
 - Arkog’a
-- Sanjoqbey (to'g'ri)
++ Sanjoqbey
 - Valibey
 
 **503. XVII asr turk me’morchiligining ajoyib namunalari hisoblangan Bag‘dod va Ravon ko‘shklari qaysi saroyda joylashgan?**
@@ -3576,46 +3660,46 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Marmar saroyida
 - Shirbudun saroyida
 - Yildiz saroyida
-- To‘pqopi saroyida (to'g'ri)
++ To‘pqopi saroyida
 
 **504. XVI asrda dehqonlarni qishloqlardan qochib ketishini oldini olish uchun Usmoniylar sultoni qanday farmon chiqargan?**
 
 - Qochib ketgan dehqonlarni qatl qilish huquqini beruvchi maxsus farmon
 - Qochib ketgan dehqonlarni uzoq muddatga qamab qo’yish huquqini beruvchi maxsus farmon
 - Qochib ketgan dehqonlarning mol-mulkini musodara qilish huquqini beruvchi maxsus farmon
-- Qochib ketgan dehqonlarni majburan qaytarib olib kelish huquqini beruvchi maxsus farmon (to'g'ri)
++ Qochib ketgan dehqonlarni majburan qaytarib olib kelish huquqini beruvchi maxsus farmon
 
 **505. Usmoniylar imperiyasida «sipohiy» deb kimlarga aytilgan?**
 
 - Sultonning shaxsiy gvardiyasiga
-- Otliq askarlarga (to'g'ri)
++ Otliq askarlarga
 - Piyoda askarlarga
 - Harbiy kemada xizmat qiladigan askarlarga
 
 **506. XVI asr oxiri - XVII asr boshlarida Turkiya … .**
 
 - Yevropaga to’la qaram davlatga aylangan
-- Avvalgidek hujumkor qudratga ega bo‘lmay qolgan (to'g'ri)
++ Avvalgidek hujumkor qudratga ega bo‘lmay qolgan
 - O’z rivojlanishining cho’qqisiga yetgan
 - Bosqinchilik urushlarini davom qildirgan
 
 **507. XVI asr boshlarida Usmoniylar imperiyasida «sanjoq» deb nimaga aytilgan?**
 
 - Viloyatlarga
-- Tumanlarga (to'g'ri)
++ Tumanlarga
 - Shaharlarga
 - Qishloqlarga
 
 **508. Qachon Sulton Salim I Eron shohi Ismoil Safaviy qo‘shinini tor-mor etgan?**
 
-- 1514-yilda (to'g'ri)
++ 1514-yilda
 - 1519-yilda
 - 1517-yilda
 - 1511-yilda
 
 **509. XVI asrda Usmoniylar imperiyasining Osiyodagi eng yirik raqibi qaysi davlat edi?**
 
-- Eron (to'g'ri)
++ Eron
 - Misr
 - Hindiston
 - Xitoy
@@ -3627,20 +3711,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Pahlaviy qabilasi
 - Pushtun qabilasi
-- Qojar qabilasi (to'g'ri)
++ Qojar qabilasi
 - Mahdiy qabilasi
 
 **511. Ismoil Safaviy Eronni birlashtirishdan oldin qaysi shahar hokimi bo’lgan?**
 
 - Mashhad shahrining
 - Sheroz shahrining
-- Ardabil shahrining (to'g'ri)
++ Ardabil shahrining
 - Tabriz shahrining
 
 **512. Abbos I Safaviy qaysi yillarda hukmronlik qilgan?**
 
 - 1590-1636-yillarda
-- 1587-1629-yillarda (to'g'ri)
++ 1587-1629-yillarda
 - 1589-1632-yillarda
 - 1584-1630-yillarda
 
@@ -3648,12 +3732,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Mashhadga
 - Sherozga
-- Isfahonga (to'g'ri)
++ Isfahonga
 - Hamadonga
 
 **514. Eronda qachon qojar qabilasi hokimiyatni qo’lga olgan?**
 
-- 1796-yilda (to'g'ri)
++ 1796-yilda
 - 1758-yilda
 - 1747-yilda
 - 1736-yilda
@@ -3661,7 +3745,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **515. XVI-XVIII asrlarda Eronda amaldorlarga xizmat vazifasini bajarish muddatiga, shoh oldidagi xizmati uchun vaqtincha yoki umrbod beriladigan, ammo meros qoldirish mumkin bo’lmagan yer-mulk qanday atalgan?**
 
 - Iqto
-- Tiyul (to'g'ri)
++ Tiyul
 - Xolisa
 - Suyurg‘ol
 
@@ -3669,13 +3753,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Kirmon shahri
 - Yazd shahri
-- Tehron shahri (to'g'ri)
++ Tehron shahri
 - Sheroz shahri
 
 **517. Eronda qachon zend qabilasi hokimiyatni qo’lga olgan?**
 
 - 1796-yilda
-- 1758-yilda (to'g'ri)
++ 1758-yilda
 - 1747-yilda
 - 1736-yilda
 
@@ -3684,12 +3768,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Taxmasp II Safaviy
 - Sulton Husayn Safaviy
 - Abbos I Safaviy
-- Ismoil I Safaviy (to'g'ri)
++ Ismoil I Safaviy
 
 **519. Qachon Ismoil I Safaviy Tabriz shahrini ishg‘ol etgan?**
 
 - 1505-yilda
-- 1502-yilda (to'g'ri)
++ 1502-yilda
 - 1508-yilda
 - 1500-yilda
 
@@ -3698,18 +3782,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Mashhad shahrini
 - Sheroz shahrini
 - Isfahon shahrini
-- Tabriz shahrini (to'g'ri)
++ Tabriz shahrini
 
 **521. XVI-XVII asrlarda Eronning qaysi shahri miniatura markaziga aylangan?**
 
 - Tabriz shahri
-- Isfahon shahri (to'g'ri)
++ Isfahon shahri
 - Sheroz shahri
 - Tehron shahri
 
 **522. Safaviylarning so’nggi hukmdori kim?**
 
-- Taxmasp II (to'g'ri)
++ Taxmasp II
 - Sulton Husayn I
 - Abbos III
 - Ismoil II
@@ -3718,13 +3802,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Suyurg‘ol
 - Xolisa
-- Tiyul (to'g'ri)
++ Tiyul
 - Iqto
 
 **524. Shoh masjidi, Shayx Lutfulla masjidi, Ali Kара va Chexel Sotun saroy ansambllari Eronning qaysi shahrida joylashgan?**
 
 - Tabrizda
-- Isfahonda (to'g'ri)
++ Isfahonda
 - Sherozda
 - Tehronda
 
@@ -3733,20 +3817,23 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Tabrizda
 - Marvda
 - Balxda
-- Hirotda (to'g'ri)
++ Hirotda
 
 **526. XVIII asrda Eron qaysi Yevropa mamlakatlari bilan bir nechta teng bo’lmagan shartnomalar imzolab, ularning iqtisodiy va siyosiy ekspansiyasiga keng yo‘l ochib bergan? 1) Germaniya; 2) Angliya; 3) Fransiya; 4) Gollandiya; 5) Rossiya; 6) Portugaliya.**
 
 - 1, 2, 3
 - 2, 3, 4
-- 2, 3, 5 (to'g'ri)
++ 2, 3, 5
 - 1, 5, 6
 
 **527. Quyidagi suratda qaysi safaviy hukmdor tasvirlangan?**
 
+
+![](../images/astron598735201815.png)
+
 - Taxmasp II
 - Nodirshoh
-- Abbos I (to'g'ri)
++ Abbos I
 - Ismoil I
 
 **528. Qachon Nodir Quli Eronni afg’onlardan ozod qilib, o‘zini Eron shohi Nodirshoh deb e’lon qilishga erishgan?**
@@ -3754,26 +3841,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1796-yilda
 - 1758-yilda
 - 1747-yilda
-- 1736-yilda (to'g'ri)
++ 1736-yilda
 
 **529. Qaysi safaviy hukmdor muntazam qo‘shin tuzgan?**
 
 - Taxmasp II
 - Nodirshoh
-- Abbos I (to'g'ri)
++ Abbos I
 - Ismoil I
 
 **530. Qachon Ismoil I Safaviy o‘zini shahanshoh deb e’lon qilgan?**
 
 - 1505-yilda
-- 1502-yilda (to'g'ri)
++ 1502-yilda
 - 1508-yilda
 - 1500-yilda
 
 **531. XVI-XVII asrlarda Eronda ijod qilgan kurd mumtoz adabiyotining yorqin namoyandasi kim?**
 
 - Sodiqbek Afshar
-- Ahmad Hasaniy (to'g'ri)
++ Ahmad Hasaniy
 - Mirza Shafiq
 - Soib Tabriziy
 
@@ -3782,11 +3869,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1928-yilgacha
 - 1929-yilgacha
 - 1920-yilgacha
-- 1925-yilgacha (to'g'ri)
++ 1925-yilgacha
 
 **533. Ismoil I Safaviy markaziy hokimiyatni mustahkamlash maqsadida qaysi yer egaligini deyarli butunlay bekor qilgan?**
 
-- Suyurg‘ol (to'g'ri)
++ Suyurg‘ol
 - Xolisa
 - Tiyul
 - Iqto
@@ -3796,19 +3883,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Mashhad shahrini
 - Sheroz shahrini
 - Isfahon shahrini
-- Tabriz shahrini (to'g'ri)
++ Tabriz shahrini
 
 **535. Qachon Eron shohi Nodirshoh o‘zaro ichki nizolar natijasida o‘ldirilgan?**
 
 - 1796-yilda
 - 1758-yilda
-- 1747-yilda (to'g'ri)
++ 1747-yilda
 - 1736-yilda
 
 **536. Qachon afg’onlar o‘z yetakchisi Mir Mahmud boshchiligida Eronga hujum qilgan va shoh Sulton Husayn hokimiyatni topshirishga majbur bo’lgan?**
 
 - 1710-yilda
-- 1722-yilda (to'g'ri)
++ 1722-yilda
 - 1717-yilda
 - 1713-yilda
 
@@ -3817,11 +3904,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Usmonli turklar davlatiga qaram bo’lib qo’lgan edi
 - O’z qudratining cho’qqisiga erishgan edi
 - Markazlashgan kuchli hokimiyat qaror topgan edi
-- Markaziy hokimiyatga bo‘ysunmaydigan bir qancha mustaqil hududlarga bo’linib ketgan edi (to'g'ri)
++ Markaziy hokimiyatga bo‘ysunmaydigan bir qancha mustaqil hududlarga bo’linib ketgan edi
 
 **538. Qachon safaviy hukmdor Sulton Husayn dehqonlarning yerni tashlab ketishlarini taqiqlovchi farmon chiqargan?**
 
-- 1710-yilda (to'g'ri)
++ 1710-yilda
 - 1722-yilda
 - 1717-yilda
 - 1713-yilda
@@ -3830,7 +3917,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Taxmasp II davrida
 - Nodirshoh davrida
-- Abbos I davrida (to'g'ri)
++ Abbos I davrida
 - Ismoil I davrida
 
 ## 19-§ XVI-XVIII asrlarda Afrika mamlakatlari.
@@ -3840,20 +3927,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1522-yilda
 - 1519-yilda
-- 1517-yilda (to'g'ri)
++ 1517-yilda
 - 1524-yilda
 
 **541. XVII asrdan Afrikadagi qul savdosiga qaysi nemis davlati qo’shilgan?**
 
 - Avstriya
 - Bavariya
-- Brandenburg (to'g'ri)
++ Brandenburg
 - Meklenburg
 
 **542. Qachon Usmonli turklar Liviyani o’z davlatiga qo’shib olishgan?**
 
 - 1574-yilda
-- 1551-yilda (to'g'ri)
++ 1551-yilda
 - 1565-yilda
 - 1567-yilda
 
@@ -3861,26 +3948,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Sudan
 - Liviya
-- Misr (to'g'ri)
++ Misr
 - Jazoir
 
 **544. XVI asrda Volta va Niger daryolari oralig‘ini portugallar qanday atashgan?**
 
-- Qul qirg’og’i (to'g'ri)
++ Qul qirg’og’i
 - Oltin qirg’oq
 - Qalampir qirg’og’i
 - Fil Suyagi qirg’og’i
 
 **545. O’rta asrlarda Misrda mavjud bo‘lgan, asosan, kavkazlik va turkiy xalqlar vakillaridan iborat o‘smir qullardan shakllantirilgan harbiylar qatlami qanday atalgan?**
 
-- Mamluk (to'g'ri)
++ Mamluk
 - Yanichar
 - Sipohiy
 - Rajput
 
 **546. XVI asrda nima sababdan Afrika ichkarisiga kirib borgan portugallar o’zlarini istilochilardek tuta olmaganlar?**
 
-- U yerlarda kuchli davlatlar mavjud bo’lganligi sababli (to'g'ri)
++ U yerlarda kuchli davlatlar mavjud bo’lganligi sababli
 - Jazirama issiqqa chiday olmaganliklari sababli
 - Asosan jangovor qabilalar bilan kurashishga to’g’ri kelganligi sababli
 - Kam sonli bo’lganliklari sababli
@@ -3888,7 +3975,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **547. XVI asr boshida Jazoirlik sarkarda Xayriddin kimlarga qarshi yordam so’rab Turkiyaga murojaat qilgan?**
 
 - Fransuzlarga qarshi
-- Ispanlarga qarshi (to'g'ri)
++ Ispanlarga qarshi
 - Gollandlarga qarshi
 - Portugallarga qarshi
 
@@ -3896,12 +3983,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 70-80 million
 - 40-50 million
-- 60-70 million (to'g'ri)
++ 60-70 million
 - 30-40 million
 
 **549. XVI-XVIII asrlarda Yevropa va Amerikadagi Bristol, Liverpul, Manchester, London, Nant, Ruan, Amsterdam, Nyu-York, Yangi Orlean, Rio-de-Janeyro kabi ko‘plab shaharlarning jadal rivojlanishi qanday mahsulotning savdosidan keladigan foyda bilan bog’liq edi?**
 
-- Qul savdosidan (to'g'ri)
++ Qul savdosidan
 - Fil suyagi savdosidan
 - Oltin savdosidan
 - Olmos savdosidan
@@ -3910,26 +3997,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Shimoliy va Sharqiy Afrika
 - Sharqiy va Janubiy Afrika
-- G’arbiy va Markaziy Afrika (to'g'ri)
++ G’arbiy va Markaziy Afrika
 - Sharqiy va Markaziy Afrika
 
 **551. XVI asrda hozirgi qaysi huduning qirg’oqlarini portugallar Qalampir qirg’og’i, Fil Suyagi qirg’og’i, Oltin qirg’oq deb atashgan?**
 
 - Shimoliy Marokashning
 - Shimoliy Liviyaning
-- Shimoliy Liberiyaning (to'g'ri)
++ Shimoliy Liberiyaning
 - Shimoliy Gananing
 
 **552. Arablar Afrikadan musulmon mamlakatlariga qancha qul yetkazib berganlar?**
 
-- 15-16 million (to'g'ri)
++ 15-16 million
 - 12-13 million
 - 13-14 million
 - 17-18 million
 
 **553. Qachon Usmonli turklar Tunisdagi ispanlar hukmronligiga chek qo’yganlar?**
 
-- 1574-yilda (to'g'ri)
++ 1574-yilda
 - 1551-yilda
 - 1565-yilda
 - 1567-yilda
@@ -3938,33 +4025,33 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Vali
 - Sanjoqbegi
-- Beklarbegi (to'g'ri)
++ Beklarbegi
 - Piri Rais
 
 **555. Qachon Napoleon Bonapart boshchiligidagi fransuz qo‘shinlari Misrga bostirib kirgan va Qohirani zabt etgan?**
 
-- 1798-yilda (to'g'ri)
++ 1798-yilda
 - 1800-yilda
 - 1802-yilda
 - 1796-yilda
 
 **556. Afrika tarixini sivilizatsiyaviy nuqtayi nazardan ikkiga – …dan shimolga va janubga ajratib o‘rganish ma’qul bo‘ladi.**
 
-- Sahroyi Kabir (to'g'ri)
++ Sahroyi Kabir
 - Nil daryosi
 - Kongo daryosi
 - Ekvator chizig’i
 
 **557. Qachon Turk hukmronligi va mamluklar zulmiga qarshi, Qohiradagi al-Azhar masjidining taniqli shayxlari da’vati bilan qohiralik hunarmand va savdogarlar o’z do‘konlarini yopganlar?**
 
-- 1795-yilning yozida (to'g'ri)
++ 1795-yilning yozida
 - 1798-yilning yozida
 - 1796-yilning yozida
 - 1797-yilning yozida
 
 **558. XVI-XVIII asrlarda qanday mahsulot savdosi afrikaliklar jamiyatida mulkiy va ijtimoiy tengsizlikni kuchaytirib, qabilaviy tuzumning buzulishiga olib kelgan?**
 
-- Qul savdosi (to'g'ri)
++ Qul savdosi
 - Fil suyagi savdosi
 - Oltin savdosi
 - Olmos savdosi
@@ -3973,7 +4060,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Tunis va Misr
 - Misr va Liviya
-- Sudan va Marokash (to'g'ri)
++ Sudan va Marokash
 - Marokash va Tunis
 
 **560. XVI asrda Yashil burundan Kongo daryosigacha bo‘lgan qirg‘oq hududlaridan portugaliyaliklar dastlab nima olib ketishgan?**
@@ -3981,13 +4068,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Qullar
 - Olmos
 - Kumush
-- Oltin (to'g'ri)
++ Oltin
 
 **561. Qachon Napoleon Bonapart boshchiligidagi fransuz qo‘shinlari Misrni tark etishga majbur bo‘lganlar?**
 
 - 1796-yilda
 - 1798-yilda
-- 1800-yilda (to'g'ri)
++ 1800-yilda
 - 1802-yilda
 
 **562. Qaysi yillarda portugallar va ispanlar Yashil burundan Kongo daryosigacha bo‘lgan qirg‘oq hududlarini o‘rganib chiqishgan?**
@@ -3995,18 +4082,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1431-yildan 1479-yilgacha
 - 1432-yildan 1480-yilgacha
 - 1433-yildan 1481-yilgacha
-- 1434-yildan 1482-yilgacha (to'g'ri)
++ 1434-yildan 1482-yilgacha
 
 **563. Qachon Tripoli ispanlar tomonidan zabt etilgan?**
 
 - 1519-yilda
 - 1517-yilda
 - 1516-yilda
-- 1510-yilda (to'g'ri)
++ 1510-yilda
 
 **564. Yevropalik qulfurushlar Afrikadan Amerikaga qancha qul yetkazib berganlar?**
 
-- 15-16 million (to'g'ri)
++ 15-16 million
 - 12-13 million
 - 13-14 million
 - 17-18 million
@@ -4014,7 +4101,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **565. XVII asrdan qul savdosida yetakchilik qilishni kimlar o‘z qo‘liga olgan?**
 
 - Ispanlar
-- Gollandlar (to'g'ri)
++ Gollandlar
 - Portugallar
 - Fransuzlar
 
@@ -4022,7 +4109,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Ikkita hududga
 - Uchta hududga
-- To’rtta hududga (to'g'ri)
++ To’rtta hududga
 - Beshta hududga
 
 **567. Turklar istilosidan so’ng Misrda qanday o’zgarishlar sodir bo’lgan?**
@@ -4030,12 +4117,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Mamluklarning siyosiy hokimiyati ag’darilib, barcha feodallar o‘z mulklari va imtiyozlarini saqlab qolganlar
 - Misr alohida podsholik maqomini olgan va amalda yarim mustaqil davlatga aylangan
 - Mahalliy boshqaruv hokimiyati to‘liq mamluk amirlarining qo’lida saqlanib qolgan
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **568. Usmonli turklar Tunisni ispanlardan necha kishilik qo’shin bilan ozod qilganlar?**
 
 - 30 ming kishilik
-- 40 ming kishilik (to'g'ri)
++ 40 ming kishilik
 - 50 ming kishilik
 - 60 ming kishilik
 
@@ -4044,18 +4131,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - XVII asr boshiga kelib
 - XVII asr oxiriga kelib
 - XVIII asr boshiga kelib
-- XVIII asr oxiriga kelib (to'g'ri)
++ XVIII asr oxiriga kelib
 
 **570. Napoleon Bonapart bosqini davrida Qohiradagi qaysi masjid fransuz bosqiniga qarshi xalq harakatining markaziga aylangan?**
 
 - Al-Hakim masjidi
-- Al-Azhar masjidi (to'g'ri)
++ Al-Azhar masjidi
 - Sulton Hasan masjidi
 - Muhammad Ali masjidi
 
 **571. XVI asrning oxirigacha qul savdosi bilan G’arbiy Afrikada faqat kimlar shug‘ullangan?**
 
-- Portugallar (to'g'ri)
++ Portugallar
 - Gollandlar
 - Ispanlar
 - Fransuzlar
@@ -4067,33 +4154,33 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Fransiyada
 - Germaniyada
-- Buyuk Britaniyada (to'g'ri)
++ Buyuk Britaniyada
 - Ispaniyada
 
 **573. Qachon London shahrida ishchilarning «Umumiy saylov huquqi uchun kurash ishchi assotsiatsiyasi» tuzilgan?**
 
-- 1836-yilda (to'g'ri)
++ 1836-yilda
 - 1822-yilda
 - 1832-yilda
 - 1825-yilda
 
 **574. Tarixga «chartistlar harakati» nomi bilan kirgan harakat nimani o’ziga maqsad qilib olgan edi?**
 
-- Barcha erkaklarga umumiy saylov huquqi berilishini (to'g'ri)
++ Barcha erkaklarga umumiy saylov huquqi berilishini
 - Barcha ayollarlarga umumiy saylov huquqi berilishini
 - Barcha fuqarolarga umumiy saylov huquqi berilishini
 - Barcha millat vakillariga umumiy saylov huquqi berilishini
 
 **575. XIX asr o’rtalarida qaysi davlat yer yuzi aholisining chorak qismini birlashtirgan edi?**
 
-- Buyuk Britaniya (to'g'ri)
++ Buyuk Britaniya
 - Ispaniya
 - Fransiya
 - Rossiya
 
 **576. Buyuk Britaniyadagi birinchi parlament islohotiga oid to’g’ri javobni toping. 1) Quyi palata davlat budjetini nazorat qilish huquqini о’zida saqlab qolgan; 2) Buyuk Britaniya hukumatining faqat quyi palata oldida javobgarligi belgilab qo‘yilgan; 3) Quyi palata hukumatga ishonchsizlik bildirgan taqdirda, hukumatning iste’foga chiqishi majburiy qilib qo’yilgan; 4) Islohotdan so‘ng saylangan yangi parlament 13 yoshgacha bo’lgan bolalar uchun 8 soatlik ish vaqti belgilagan va 9 yoshgacha bo’lgan bolalarning mehnat qilishi taqiqlangan; 5) Shaharlarda o‘z uyiga ega bo‘lgan hamda alohida  xonadonda turadigan barcha erkaklarga saylov huquqi berilgan.**
 
-- 1, 2, 3, 4 (to'g'ri)
++ 1, 2, 3, 4
 - 1, 2, 3, 5
 - 1, 3, 4, 5
 - 2, 3, 4, 5
@@ -4102,48 +4189,48 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1816-yilda
 - 1822-yilda
-- 1832-yilda (to'g'ri)
++ 1832-yilda
 - 1825-yilda
 
 **578. Sanoat to’ntarishining tugallanishi deyilganda nima tushuniladi?**
 
 - Ishlab chiqarishning 80 foizi mashinalarga yuklatilganligi
 - Ishlab chiqarish to’liq mashinalarga yuklatilganligi
-- Bir mashina yordamida boshqa mashinaning yaratilishi boshlanganligi (to'g'ri)
++ Bir mashina yordamida boshqa mashinaning yaratilishi boshlanganligi
 - Bug’ mashinalari bilan birga ichki yonuv dvigatelining ishlatilishi
 
 **579. «Umumiy saylov huquqi uchun kurash ishchi assotsiatsiyasi» Britaniya parlamentiga 12 yil davomida necha marta xartiya (chartiya) - yorliq topshirgan?**
 
 - Ikki marta
-- Uch marta (to'g'ri)
++ Uch marta
 - To’rt marta
 - Besh marta
 
 **580. Qachon Buyuk Britaniya sanoatning rivojlanish darajasi, savdoning ko‘lami va dengizdagi qudrati jihatidan dunyoning eng qudratli davlatiga aylangan?**
 
 - XIX asrning 60-yillarida
-- XIX asrning 50-yillarida (to'g'ri)
++ XIX asrning 50-yillarida
 - XIX asrning 40-yillarida
 - XIX asrning 70-yillarida
 
 **581. Buyuk Britaniya va Yevropaning boshqa mamlakatlaridan ko‘chib borgan kishilar o‘zlashtirgan hududlar qanday atalgan?**
 
 - «Boy mustamlakalar»
-- «Oq mustamlakalar» (to'g'ri)
++ «Oq mustamlakalar»
 - «Oliy mustamlakalar»
 - «Irqiy mustamlakalar»
 
 **582. Qaysi davlat dunyoning birinchi sanoatlashgan mamlakatiga aylangan?**
 
 - Germaniya
-- Buyuk Britaniya (to'g'ri)
++ Buyuk Britaniya
 - Fransiya
 - Gollandiya
 
 **583. Buyuk Britaniyadagi ikkinchi parlament islohotiga ko’ra kimlarga saylov huquqi berilgan?**
 
 - Shaharlarda o‘z uyiga ega bo‘lgan barcha erkaklarga saylov huquqi berilgan
-- Shaharlarda o‘z uyiga ega bo‘lgan hamda alohida  xonadonda turadigan barcha erkaklarga saylov huquqi berilgan (to'g'ri)
++ Shaharlarda o‘z uyiga ega bo‘lgan hamda alohida  xonadonda turadigan barcha erkaklarga saylov huquqi berilgan
 - Shaharlarda alohida xonadonda turadigan barcha erkaklarga saylov huquqi berilgan
 - Shaharlarda o‘z uyiga ega bo‘lgan hamda alohida  xonadonda turadigan barcha erkak va ayollarga saylov huquqi berilgan
 
@@ -4152,18 +4239,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Ispaniya
 - Fransiya
 - Rossiya
-- Buyuk Britaniya (to'g'ri)
++ Buyuk Britaniya
 
 **585. Buyuk Britaniyaning qaysi mustamlakasi eng yirigi hisoblanib, unda 300 million aholi yashagan?**
 
 - Janubiy Afrika
 - Avstraliya
 - Kanada
-- Hindiston (to'g'ri)
++ Hindiston
 
 **586. 1816-yilda Buyuk Britaniya aholisi soni qanchani tashkil etgan?**
 
-- 12 million kishini (to'g'ri)
++ 12 million kishini
 - 15 million kishini
 - 10 million kishini
 - 19 million kishini
@@ -4171,21 +4258,21 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **587. Buyuk Britaniyadagi birinchi parlament islohotiga ko’ra, yirik sanoat markazlariga parlamentdan nechta o‘rin ajratib berilgan?**
 
 - 152 o‘rin
-- 144 o‘rin (to'g'ri)
++ 144 o‘rin
 - 155 o‘rin
 - 161 o‘rin
 
 **588. O’zini o‘zi boshqaradigan qaram yer, o‘lka qanday ataladi?**
 
 - Mustamlaka
-- Dominion (to'g'ri)
++ Dominion
 - Konfederatsiya
 - Federatsiya
 
 **589. Qaysi soha XIX asr boshlarida Buyuk Britaniyaga qudratli savdo va harbiy dengiz floti tuzishga imkon yaratgan?**
 
 - Temiryo’lsozlik
-- Parovozsozlik (to'g'ri)
++ Parovozsozlik
 - Metallurgiya
 - Tog’-kon sanoati
 
@@ -4194,18 +4281,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1814-yilda
 - 1822-yilda
 - 1816-yilda
-- 1825-yilda (to'g'ri)
++ 1825-yilda
 
 **591. Qachon Buyuk Britaniyada mashinalar 150 million odamning qo‘l mehnatiga teng ishni bajarish darajasiga yetgan edi?**
 
 - 1822-yilda
-- 1816-yilda (to'g'ri)
++ 1816-yilda
 - 1825-yilda
 - 1814-yilda
 
 **592. Qachon Buyuk Britaniyada sanoat to‘ntarishi tugallangan?**
 
-- XIX asrning 40-yillarida (to'g'ri)
++ XIX asrning 40-yillarida
 - XIX asrning 60-yillarida
 - XIX asrning 50-yillarida
 - XIX asrning 70-yillarida
@@ -4214,14 +4301,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Fransiya
 - Ispaniya
-- Buyuk Britaniya (to'g'ri)
++ Buyuk Britaniya
 - Rossiya
 
 **594. Qachon Buyuk Britaniyada ikkinchi parlament islohoti o’tkazilgan?**
 
 - 1861-yilda
 - 1869-yilda
-- 1867-yilda (to'g'ri)
++ 1867-yilda
 - 1865-yilda
 
 **595. Qachon Buyuk Britaniya parlamenti ish tashashni taqiqlovchi qonun qabul qilgan?**
@@ -4229,12 +4316,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1816-yilda
 - 1822-yilda
 - 1832-yilda
-- 1825-yilda (to'g'ri)
++ 1825-yilda
 
 **596. XIX asrning birinchi yarmida Buyuk Britaniyada yoqilg’ining eng muhim turi qaysi edi?**
 
 - Kerosin
-- Toshko’mir (to'g'ri)
++ Toshko’mir
 - Benzin
 - Dizel yoqilg’isi
 
@@ -4243,28 +4330,28 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Kanada
 - Avstraliya
 - Yangi Zelandiya
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **598. Qachon Buyuk Britaniya Kanadaga dominion maqomini berishga majbur bo’lgan?**
 
 - 1869-yilda
 - 1861-yilda
 - 1865-yilda
-- 1867-yilda (to'g'ri)
++ 1867-yilda
 
 ## 21-§ 1800-1870-yillarda Fransiya.
 
 
 **599. Austerlis jangida Napoleonga qarshi qaysi Rossiya va Avstriya imperatorlari ishtirok etgan?**
 
-- Aleksandr I hamda Frans II (to'g'ri)
++ Aleksandr I hamda Frans II
 - Aleksandr II hamda Frans III
 - Nikolay I hamda Fridrix I
 - Aleksandr III hamda Fridrix II
 
 **600. Fransiya qiroli Lyudovik XVIII qachon vafot etgan?**
 
-- 1824-yilda (to'g'ri)
++ 1824-yilda
 - 1823-yilda
 - 1822-yilda
 - 1821-yilda
@@ -4274,25 +4361,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 30 kun
 - 50 kun
 - 90 kun
-- 100 kun (to'g'ri)
++ 100 kun
 
 **602. Qachon Fransiyada «Iyul monarxiyasi» qulab, Ikkinchi Respublika o’rnatilgan?**
 
 - 1846-yil 28-sentabr kuni
 - 1849-yil 13-dekabr kuni
-- 1848-yil 25-fevral kuni (to'g'ri)
++ 1848-yil 25-fevral kuni
 - 1851-yil 21-mart kuni
 
 **603. Qachon Napoleon Bonapart Birinchi konsul lavozimini egallagan?**
 
 - 1796-yilda
-- 1799-yilda (to'g'ri)
++ 1799-yilda
 - 1804-yilda
 - 1805-yilda
 
 **604. Qachon Yevropa mamlakatlari qo’shinlaridan iborat qurolli kuchlar bilan Napoleon Bonapart armiyasi o‘rtasidagi hal qiluvchi Leypsig ostonasidagi jang bo’lib o’tgan?**
 
-- 1813-yilda (to'g'ri)
++ 1813-yilda
 - 1815-yilda
 - 1814-yilda
 - 1816-yilda
@@ -4301,7 +4388,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 19 yoshga to’lgan
 - 18 yoshga to’lgan
-- 21 yoshga to’lgan (to'g'ri)
++ 21 yoshga to’lgan
 - 20 yoshga to’lgan
 
 **606. Napoleon Bonapart qaysi davlatga qarshi «qit’a qamali» e’lon qilgan?**
@@ -4309,13 +4396,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Avstriyaga
 - Daniyaga
 - Rossiyaga
-- Buyuk Britaniyaga (to'g'ri)
++ Buyuk Britaniyaga
 
 **607. XIX asrda Fransiyada qaysi yili qish juda sovuq kelib, kuzgi g’alla nobud bo’lgan va nonning narxi oshib ketgan?**
 
 - 1844-yilda
 - 1845-yilda
-- 1846-yilda (to'g'ri)
++ 1846-yilda
 - 1847-yilda
 
 **608. 1814-1815-yillardagi Vena kongressida nimani taqiqlovchi deklaratsiya qabul qilingan?**
@@ -4323,33 +4410,33 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Matbuot va so’z erkinligini taqiqlovchi
 - Ishchilarning ish tashlash huquqini taqiqlovchi
 - Bolalar mehnatidan foydalanishni taqiqlovchi
-- Qora tanli qullar savdosini taqiqlovchi (to'g'ri)
++ Qora tanli qullar savdosini taqiqlovchi
 
 **609. Vena kongressida kelgusida ro‘y berishi mumkin bo‘lgan inqiloblarga qarshi birgalikda kurashish maqsadida qaysi davlatlar o’rtasida «Muqaddas ittifoq» tuzilgan?**
 
 - Rossiya, Buyuk Britaniya, Avstriya
 - Italiya, Ispaniya, Avstriya
-- Rossiya, Avstriya, Prussiya (to'g'ri)
++ Rossiya, Avstriya, Prussiya
 - Buyuk Britaniya, Gollandiya, Prussiya
 
 **610. Fuqarolarning saylov huquqidan foydalanishlarini cheklovchi shartlar qanday ataladi?**
 
 - Boykot
 - Xartiya
-- Senz (to'g'ri)
++ Senz
 - Veto
 
 **611. Napoleon Bonapart, asosan, Rossiya va Avstriya qo‘shinidan iborat birlashgan armiya ustidan hal qiluvchi g’alabani qo’lga kiritgan Austerlis jangi qachon bo’lib o’tgan?**
 
 - 1801-yilda
 - 1804-yilda
-- 1805-yilda (to'g'ri)
++ 1805-yilda
 - 1807-yilda
 
 **612. 1814-1815-yillardagi Vena kongressining asosiy maqsadi nima edi?**
 
 - Fransiyani kuchsizlantirish
-- Yevropani g‘olib davlatlar manfaatlari yo‘lida qayta taqsimlash (to'g'ri)
++ Yevropani g‘olib davlatlar manfaatlari yo‘lida qayta taqsimlash
 - Fransiya mustamlakalarini g‘olib davlatlar manfaatlari yo‘lida qayta taqsimlash
 - Napoleon Bonapartni qayta hokimiyatni egallashini oldini olish
 
@@ -4358,25 +4445,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Nemislar
 - Ruslar
 - Inglizlar
-- Fransuzlar (to'g'ri)
++ Fransuzlar
 
 **614. Qachon Rossiya-Fransiya o’rtasida Moskva yaqinidagi Borodino qishlog‘ida hal qiluvchi jang bo’lib o’tgan?**
 
 - 1812-yil 21-dekabrda
-- 1812-yil 7-sentabrda (to'g'ri)
++ 1812-yil 7-sentabrda
 - 1811-yil 17-oktabrda
 - 1811-yil 14-noyabrda
 
 **615. Vaterloo qishlog‘i hozirgi qaysi davlat hududida joylashgan?**
 
 - Gollandiya hududida
-- Belgiya hududida (to'g'ri)
++ Belgiya hududida
 - Germaniya hududida
 - Shveysariya hududida
 
 **616. Napoleon Bonapart qachon vafot etgan?**
 
-- 1821-yilda (to'g'ri)
++ 1821-yilda
 - 1822-yilda
 - 1823-yilda
 - 1824-yilda
@@ -4384,7 +4471,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **617. Vaterloo jangida mag’lub bo’lganidan keyin Napoleon Bonapart qayerga surgun qilingan?**
 
 - Elba oroliga
-- Muqaddas Yelena oroliga (to'g'ri)
++ Muqaddas Yelena oroliga
 - Trinidad oroliga
 - Folklend oroliga
 
@@ -4392,19 +4479,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 10 ming kishilik qo‘shin
 - 20 ming kishilik qo‘shin
-- 30 ming kishilik qo‘shin (to'g'ri)
++ 30 ming kishilik qo‘shin
 - 40 ming kishilik qo‘shin
 
 **619. Burjua inqilobidan oldin Fransiyada qaysi sulola hukmronlik qilgan?**
 
-- Burbonlar sulolasi (to'g'ri)
++ Burbonlar sulolasi
 - Gogensollernlar sulolasi
 - Gabsburglar sulolasi
 - Valualar sulolasi
 
 **620. Qachon ittifoqchi davlatlar armiyasi Parijga kirib kelgan va Napoleon Bonapart taxtdan voz kechishga majbur bo‘lgan?**
 
-- 1814-yilda (to'g'ri)
++ 1814-yilda
 - 1815-yilda
 - 1816-yilda
 - 1813-yilda
@@ -4413,7 +4500,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1792-yilgi
 - 1787-yilgi
-- 1789-yilgi (to'g'ri)
++ 1789-yilgi
 - 1776-yilgi
 
 **622. Qachon Fransiya qiroli Karl X mamlakat parlamentini tarqatib yuborib, fuqarolar saylov huquqlarining yanada cheklanishini ma’lum qilgan?**
@@ -4421,12 +4508,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1831-yil iyul oyida
 - 1832-yil iyul oyida
 - 1829-yil iyul oyida
-- 1830-yil iyul oyida (to'g'ri)
++ 1830-yil iyul oyida
 
 **623. Qachon Senat Napoleon Bonapartni «Fransuzlar imperatori Napoleon I» deb e’lon qilgan?**
 
 - 1801-yilda
-- 1804-yilda (to'g'ri)
++ 1804-yilda
 - 1805-yilda
 - 1807-yilda
 
@@ -4435,13 +4522,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1809-yilda
 - 1804-yilda
 - 1805-yilda
-- 1807-yilda (to'g'ri)
++ 1807-yilda
 
 **625. Napoleon Bonapart surgun qilinganidan keyin ittifoqchi davlatlar Fransiya taxtiga kimni o’tqazishgan?**
 
 - Lyudovik XVI ning jiyani Lyudovik XVII ni
 - Lyudovik XVI ning amakisi Lyudovik XIX ni
-- Lyudovik XVI ning ukasi Lyudovik XVIII ni (to'g'ri)
++ Lyudovik XVI ning ukasi Lyudovik XVIII ni
 - Lyudovik XVI ning akasi Lyudovik XV ni
 
 **626. «Iyul monarxiyasi» nomini olgan voqealardan cho‘chib chet elga qochib ketgan Fransiya qiroli Karl X o’rniga yirik burjuaziya qaysi sulolaning qarindoshi bo’lgan Lui Filippni taxtga o’tqazgan?**
@@ -4449,11 +4536,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Gogensollernlarning
 - Gabsburglarning
 - Valualarning
-- Burbonlarning (to'g'ri)
++ Burbonlarning
 
 **627. Napoleon Bonapart va unga qarshi ittifoqchilar qo’shini o’rtasidagi Vaterloo qishlog‘idagi jang qachon bo’lib o’tgan?**
 
-- 1815-yilda (to'g'ri)
++ 1815-yilda
 - 1816-yilda
 - 1817-yilda
 - 1818-yilda
@@ -4462,20 +4549,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Zodagonlarga
 - Dehqonlarga
-- Burjuaziyaga (to'g'ri)
++ Burjuaziyaga
 - Harbiylarga
 
 **629. Urushda yetkazilgan zarar o‘rnini qoplash uchun mag‘lub davlat tomonidan to‘lanadigan to‘lov nima deb ataladi?**
 
 - Konsepsiya
-- Kontributsiya (to'g'ri)
++ Kontributsiya
 - Konspiratsiya
 - Kollaboratsiya
 
 **630. Qachon Lui Napoleon Bonapart o‘zini Napoleon III nomi bilan Fransiya imperatori deb e’lon qilgan va Fransiyada Ikkinchi imperiya o‘rnatilgan?**
 
 - 1851-yil 5-yanvarda
-- 1852-yil 2-dekabrda (to'g'ri)
++ 1852-yil 2-dekabrda
 - 1854-yil 7-fevralda
 - 1856-yil 3-noyabrda
 
@@ -4484,13 +4571,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - «Muqaddas urush»
 - «Xalq urushi»
 - «Napoleon urushlari»
-- «Vatan urushi» (to'g'ri)
++ «Vatan urushi»
 
 **632. Vena kongressi qaysi yillarda bo‘lib o’tgan?**
 
 - 1816-1817-yillarda
 - 1818-1819-yillarda
-- 1814-1815-yillarda (to'g'ri)
++ 1814-1815-yillarda
 - 1812-1813-yillarda
 
 **633. Qachon Fransiyada «Iyul monarxiyasi» nomini olgan voqealar ro’y bergan?**
@@ -4498,11 +4585,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1829-yilda
 - 1832-yilda
 - 1831-yilda
-- 1830-yilda (to'g'ri)
++ 1830-yilda
 
 **634. Qachon Napoleon Bonapart surgundan Fransiyaning janubiga qaytib kelgan?**
 
-- 1815-yilning mart oyida (to'g'ri)
++ 1815-yilning mart oyida
 - 1816-yilning may oyida
 - 1814-yilning aprel oyida
 - 1813-yilning iyun oyida
@@ -4511,26 +4598,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - P.N. Bagration
 - I.A. Suvorov
-- M.I. Kutuzov (to'g'ri)
++ M.I. Kutuzov
 - S.V. Denisev
 
 **636. Qachon Napoleon Bonapartning jiyani Lui Napoleon Bonapart Fransiya Prezidenti etib saylangan?**
 
-- 1848-yilning dekabr oyida (to'g'ri)
++ 1848-yilning dekabr oyida
 - 1849-yilning yanvar oyida
 - 1850-yilning fevral oyida
 - 1851-yilning noyabr oyida
 
 **637. Vaterloo jangida qaysi davlatlar ittifoqi Napoleon Bonapartga qarshi kurashgan?**
 
-- Buyuk Britaniya, Gollandiya, Prussiya (to'g'ri)
++ Buyuk Britaniya, Gollandiya, Prussiya
 - Buyuk Britaniya, Daniya, Shvetsiya
 - Italiya, Ispaniya, Avstriya
 - Rossiya, Avstriya, Germaniya
 
 **638. Birinchi imperiya qulaganidan keyin ittifoqchilar Napoleon Bonapartni qayerga surgun qilganlar?**
 
-- Elba oroliga (to'g'ri)
++ Elba oroliga
 - Trinidad oroliga
 - Folklend oroliga
 - Muqaddas Yelena oroliga
@@ -4540,12 +4627,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Vaterloo ostonasida
 - Austerlis ostonasida
 - Borodino ostonasida
-- Leypsig ostonasida (to'g'ri)
++ Leypsig ostonasida
 
 **640. «Imperiya - bu tinch-totuvlik» iborasi kimga tegishli?**
 
 - Fransiya imperatori Napoleon I ga
-- Fransiya imperatori Napoleon III ga (to'g'ri)
++ Fransiya imperatori Napoleon III ga
 - Germaniya imperatori Vilgelm I ga
 - Rossiya imperatori Aleksandr II ga
 
@@ -4554,7 +4641,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 **641. XIX asrda qaysi hudud Italiya siyosiy tarqoqligining tayanchi bo’lib qolayotgan edi?**
 
-- Sitsiliya va Neapol qirolligi (to'g'ri)
++ Sitsiliya va Neapol qirolligi
 - Milan va Venetsiya shahar respublikalari
 - Genuya va Florensiya grafliklari
 - Papalar viloyati va Lombardiya gersogliklari
@@ -4562,7 +4649,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **642. XIX asrning o’rtalarida qaysi yilda Yevropada iqtisodiy inqiroz ro’y bergan?**
 
 - 1845-yilda
-- 1847-yilda (to'g'ri)
++ 1847-yilda
 - 1849-yilda
 - 1855-yilda
 
@@ -4571,11 +4658,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Kamillo Kavur
 - Julio Chezare
 - Juzeppe Garibaldi
-- Juzeppe Madzini  (to'g'ri)
++ Juzeppe Madzini 
 
 **644. Qachon Italiyani birlashtirishining qizg‘in tarafdori, xalq qahramoni Juzeppe Garibaldi o‘z harbiy kuchlari bilan Sitsiliya oroliga kelib tushgan va Palermo shahrini egallagan?**
 
-- 1860-yilda (to'g'ri)
++ 1860-yilda
 - 1866-yilda
 - 1870-yilda
 - 1861-yilda
@@ -4583,13 +4670,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **645. XIX asrda qaysi mamlakatda davlatni birlashtirishda xizmatlari beqiyos bo’lgan xalq qahramonlarini «Vatanning aql-zakovati, joni hamda shamshiri» ga qiyoslashgan?**
 
 - Fransiyada
-- Italiyada (to'g'ri)
++ Italiyada
 - Germaniyada
 - Buyuk Britaniyada
 
 **646. XIX asrdagi Italiya parlamenti palatalarini toping.**
 
-- Senat va Deputatlar palatasi (to'g'ri)
++ Senat va Deputatlar palatasi
 - Yuqori va Quyi palata
 - Qirollik va Xalq kengashi palatasi
 - Vazirlar kengashi va Vakillar kengashi palatasi
@@ -4599,32 +4686,32 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Gessen knyazligi
 - Meklenburg grafligi
 - Bavariya knyazligi
-- Prussiya qirolligi (to'g'ri)
++ Prussiya qirolligi
 
 **648. Juzeppe Garibaldi Sitsiliyani egallagandan keyin qayerga yurish qilgan?**
 
 - Rimga
-- Neapolga (to'g'ri)
++ Neapolga
 - Venetsiyaga
 - Milanga
 
 **649. Qachon Avstriya qo‘l ostida qolgan Venetsiya viloyati Italiya qirolligiga qo’shib olingan?**
 
 - 1860-yilda
-- 1866-yilda (to'g'ri)
++ 1866-yilda
 - 1870-yilda
 - 1861-yilda
 
 **650. Italiya Bosh vaziri Kamillo Kavur Avstriya zulmiga qarshi kurashda qaysi davlat bilan shartnoma tuzishga erishgan?**
 
-- Fransiya bilan (to'g'ri)
++ Fransiya bilan
 - Rossiya bilan
 - AQSH bilan
 - Buyuk Britaniya bilan
 
 **651. Germaniyani birlashtirish yo’lidagi asosiy tashqi to’siq qaysi davlat edi?**
 
-- Fransiya (to'g'ri)
++ Fransiya
 - Rossiya
 - Italiya
 - Buyuk Britaniya
@@ -4633,12 +4720,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Kamillo Kavur
 - Julio Chezare
-- Juzeppe Garibaldi (to'g'ri)
++ Juzeppe Garibaldi
 - Juzeppe Madzini
 
 **653. Bismark tuzgan Germaniya davlatlari ittifoqida kansler lavozimi qanday atalgan?**
 
-- Bundeskansler (to'g'ri)
++ Bundeskansler
 - Reyxskansler
 - Volkskansler
 - Unterkansler
@@ -4646,14 +4733,17 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **654. Qachon Prussiya qirolligida konstitutsiya joriy qilingan?**
 
 - 1847-yilda
-- 1848-yilda (to'g'ri)
++ 1848-yilda
 - 1850-yilda
 - 1852-yilda
 
 **655. Quyidagi rasmda kim tasvirlangan?**
 
+
+![](../images/astron98579439555168.png)
+
 - Kamillo Kavur
-- Otto fon Bismark (to'g'ri)
++ Otto fon Bismark
 - Juzeppe Garibaldi
 - Juzeppe Madzini
 
@@ -4662,12 +4752,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1860-yilda
 - 1866-yilda
 - 1870-yilda
-- 1861-yilda (to'g'ri)
++ 1861-yilda
 
 **657. XIX asr o’rtasida Germaniyada bo’lib o’tgan inqilobning asosiy maqsadi nima edi?**
 
 - Respublika o’rnatish va ijtimoiy himoyani kuchaytirish
-- Siyosiy tarqoqligiga barham berish va feodal tartiblarni tugatish (to'g'ri)
++ Siyosiy tarqoqligiga barham berish va feodal tartiblarni tugatish
 - Monarxiyani ag’darib tashlash va siyosiy ta’qiblarga barham berish
 - Konstitutsion monarxiya o’rnatish va absolyutizmga qarshi kurashish
 
@@ -4676,18 +4766,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Dengiz savdosining sust taraqqiy etganligi
 - Agrar sohaning sust taraqqiy etganligi
 - Sanoatning sust taraqqiy etganligi
-- Ichki bozorning sust taraqqiy etganligi (to'g'ri)
++ Ichki bozorning sust taraqqiy etganligi
 
 **659. Avstriya ustidan qozonilgan tarixiy g’alabadan so‘ng, Bismark Germaniyada mavjud davlatlarning Prussiya bilan qanday shartnomani imzolashlariga erishgan?**
 
 - «Buyuk Germaniya Ittifoqi» shartnomasini
 - «Yagona Germaniya Ittifoqi» shartnomasini
 - «Muqaddas Germaniya Ittifoqi» shartnomasini
-- «Shimoliy Germaniya Ittifoqi» shartnomasini (to'g'ri)
++ «Shimoliy Germaniya Ittifoqi» shartnomasini
 
 **660. Bismark tomonidan ishlab chiqilgan konstitutsiya qachongacha amalda bo’lgan?**
 
-- 1919-yilgacha (to'g'ri)
++ 1919-yilgacha
 - 1918-yilgacha
 - 1914-yilgacha
 - 1920-yilgacha
@@ -4695,7 +4785,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **661. Qachon Prussiya Avstriya ustidan g’alabaga erishgan?**
 
 - 1860-yilda
-- 1866-yilda (to'g'ri)
++ 1866-yilda
 - 1870-yilda
 - 1861-yilda
 
@@ -4703,13 +4793,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1860-yilda
 - 1866-yilda
-- 1870-yilda (to'g'ri)
++ 1870-yilda
 - 1861-yilda
 
 **663. Birinchi jahon urushidan keyin qaysi shaharda Germaniya Respublikasi Konstitutsiyasi qabul qilingan?**
 
 - Berlinda
-- Veymarda (to'g'ri)
++ Veymarda
 - Nyurnbergda
 - Myunxenda
 
@@ -4718,18 +4808,21 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Oqsoqollar yig’ini
 - Vazirlar kengashi
 - Xalq kengashi 
-- Millat majlisi (to'g'ri)
++ Millat majlisi
 
 **665. Quyidagi suratda kim tasvirlangan?**
 
-- Kamillo Kavur (to'g'ri)
+
+![](../images/astron5598849988985.png)
+
++ Kamillo Kavur
 - Otto fon Bismark
 - Juzeppe Garibaldi
 - Juzeppe Madzini 
 
 **666. 1848-yilda qaysi mamlakatda bo’lgan iqilob ta’sirida Berlinda ham namoyishlar boshlangan?**
 
-- Fransiyadagi (to'g'ri)
++ Fransiyadagi
 - Italiyadagi
 - Rossiyadagi
 - Buyuk Britaniyadagi
@@ -4739,49 +4832,52 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 **667. Quyidagi rasmda kim tasvirlangan?**
 
+
+![](../images/astron3165813761188.png)
+
 - Aleksandr II
 - Nikolay I
-- Nikita Muravyov (to'g'ri)
++ Nikita Muravyov
 - Pavel Pestel
 
 **668. Rossiyada Dekabristlar qo’zg’oloni qachon bo’lib o’tgan?**
 
 - 1824-yilning 25-dekabr kuni
-- 1825-yilning 14-dekabr kuni (to'g'ri)
++ 1825-yilning 14-dekabr kuni
 - 1824-yilning 10-dekabr kuni
 - 1825-yilning 21-dekabr kuni
 
 **669. Vatan urushi qatnashchisi Pavel Pestel dekabristlarning qaysi jamiyatining kо’zga kо’ringan arbobi edi?**
 
 - «Shimoliy jamiyat» ning
-- «Janubiy jamiyat» ning (to'g'ri)
++ «Janubiy jamiyat» ning
 - «G’arbiy jamiyat» ning
 - «Sharqiy jamiyat» ning
 
 **670. XIX asrda Rossiyada «otrezok» yerlar deb qanday yerlarga aytilgan?**
 
-- Dehqon hukumat qarorida belgilanganidan ko’proq hududdagi yerdan foydalanib kelgan bo’lsa, uning ortiqchasi pomeshikka o‘tkazilgan yerlarga (to'g'ri)
++ Dehqon hukumat qarorida belgilanganidan ko’proq hududdagi yerdan foydalanib kelgan bo’lsa, uning ortiqchasi pomeshikka o‘tkazilgan yerlarga
 - Pomeshik o’z ixtiyorida saqlab qolgan yerning 1/3 qismiga
 - Pomeshik cho’l hududlarda o’z ixtiyorida saqlab qolgan yerning 1/2 qismiga
 - Davlat pomeshchikdan dehqonga berish uchun tortib olgan yerlarga
 
 **671. Rossiyada Dekabristlar nechta maxfiy jamiyat tuzgan edilar?**
 
-- Ikkita jamiyat (to'g'ri)
++ Ikkita jamiyat
 - Uchta jamiyat
 - To’rtta jamiyat
 - Beshta jamiyat
 
 **672. Qachon butun Kavkaz Rossiya tarkibiga kiritilgan?**
 
-- 1864-yilda (to'g'ri)
++ 1864-yilda
 - 1867-yilda
 - 1861-yilda
 - 1869-yilda
 
 **673. «Yevgeniy Onegin», «Uxlayotgan go’zal», «Shelkunchik» operalari muallifi kim?**
 
-- P.I. Chaykovskiy (to'g'ri)
++ P.I. Chaykovskiy
 - I.S. Turgenev
 - M.I. Glinka
 - N.V. Gogol
@@ -4790,41 +4886,44 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 29 yil davomida
 - 39 yil davomida
-- 49 yil davomida (to'g'ri)
++ 49 yil davomida
 - 59 yil davomida
 
 **675. Rossiyada krepostnoylik huquqi bekor qilingandan keyin dehqonlarga berilgan yer qanday atalgan?**
 
 - Desyatina yer
-- Chek yer (to'g'ri)
++ Chek yer
 - Krepostnoy yer
 - Otrezok yer
 
 **676. Rossiyada Dekabristlar qo’zg’oloni qaysi kunga belgilangan edi?**
 
 - Imperator Aleksandr I ning tu’g’ilgan kuni o’tkaziladigan marosim kuniga
-- Imperator Nikolay I ning taxtga o’tqazilishi marosimi o‘tkaziladigan kunga (to'g'ri)
++ Imperator Nikolay I ning taxtga o’tqazilishi marosimi o‘tkaziladigan kunga
 - Imperatorning barcha oila a’zolari yig’iladigan Rojdestvo kuniga
 - Imperator hukumatining barcha vazirlari yig’iladigan yig’ilish kuniga
 
 **677. Qachon Rossiyada «Krepostnoy huquqni bekor qilish to’g‘risida» gi Qonun imzolangan?**
 
-- 1861-yil 19-fevralda (to'g'ri)
++ 1861-yil 19-fevralda
 - 1860-yil 17-dekabrda
 - 1861-yil 25-yanvarda
 - 1862-yil 10-noyabrda
 
 **678. Quyidagi rasmda kim tasvirlangan?**
 
+
+![](../images/astron7127555766458.png)
+
 - Aleksandr II
 - Nikolay I
 - Nikita Muravyov
-- Pavel Pestel (to'g'ri)
++ Pavel Pestel
 
 **679. XIX asrdagi qaysi rus shoiri zamonaviy rus adabiy tiliga asos solgan?**
 
 - F.M. Dostoyevskiy
-- A.S. Pushkin (to'g'ri)
++ A.S. Pushkin
 - L.N. Tolstoy
 - M.Y. Lermontov
 
@@ -4833,18 +4932,21 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Rossiyada boyarning cheklanmagan hokimiyati
 - Rossiyada cherkovning cheklanmagan hokimiyati
 - Rossiyada pomeshchikning cheklanmagan hokimiyati
-- Rossiyada hukmdorning cheklanmagan hokimiyati (to'g'ri)
++ Rossiyada hukmdorning cheklanmagan hokimiyati
 
 **681. «Bolalik», «Kazaklar», «Urush va tinchlik» asarlari muallifi kim?**
 
 - F.M. Dostoyevskiy
 - A.S. Pushkin
-- L.N. Tolstoy (to'g'ri)
++ L.N. Tolstoy
 - M.Y. Lermontov
 
 **682. Quyidagi rasmda qaysi Rossiya imperatori tasvirlangan?**
 
-- Aleksandr II (to'g'ri)
+
+![](../images/astron733930251189.png)
+
++ Aleksandr II
 - Aleksandr III
 - Nikolay I
 - Nikolay II
@@ -4853,19 +4955,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1/2 qismini/1/5 qismini
 - 1/5 qismini/1/4 qismini
-- 1/3 qismini/1/2 qismini (to'g'ri)
++ 1/3 qismini/1/2 qismini
 - 1/4 qismini/1/3 qismini
 
 **684. Qachon Qo‘qon xonligi va Buxoro amirligining bosib olingan hududlarida Turkiston general-gubernatorligi tashkil etilgan?**
 
 - 1864-yilda
-- 1867-yilda (to'g'ri)
++ 1867-yilda
 - 1861-yilda
 - 1869-yilda
 
 **685. Rossiyada samoderjaviye va krepostnoylikka qarshi kurashchilar harakati qanday nomlangan?**
 
-- «Dekabristlar harakati» (to'g'ri)
++ «Dekabristlar harakati»
 - «Respublikachilar harakati»
 - «Yosh Rossiya harakati»
 - «Inqilobiy harakat»
@@ -4874,19 +4976,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - P.I. Chaykovskiy
 - I.S. Turgenev
-- M.I. Glinka (to'g'ri)
++ M.I. Glinka
 - N.V. Gogol
 
 **687. Dekabristlar «Shimoliy jamiyati» ning konstitutsiya loyihasiga oid to’g’ri javobni toping. 1) Muallifi Pavel Pestel; 2) Muallifi Nikita Muravyov 3) Loyiha «Rus haqiqati» deb atalgan; 4) Rossiyani konstitutsiyaviy monarxiya deb e’lon qilishni ko‘zda tutardi 5) Samoderjaviye, krepostnoylik huquqini yo‘q qilish va Rossiyada Respublika idora usulini joriy etish ko‘zda tutilgan edi; 6) Mulk senzi asosida saylanadigan ikki palatali Xalq Vechesi parlament bo’lishi kerak edi 7) Hamma fuqarolar uchun teng saylov huquqi asosida saylanadigan «Xalq vechesi» Rossiya parlamenti bo’lishi belgilangan edi.**
 
-- 2, 4, 6 (to'g'ri)
++ 2, 4, 6
 - 1, 5, 7
 - 1, 3, 5
 - 2, 3, 4
 
 **688. «Jinoyat va jazo», «Telba» asarlari muallifi kim?**
 
-- F.M. Dostoyevskiy (to'g'ri)
++ F.M. Dostoyevskiy
 - A.S. Pushkin
 - L.N. Tolstoy
 - M.Y. Lermontov
@@ -4895,19 +4997,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1851-1854-yillarda
 - 1852-1855-yillarda
-- 1853-1856-yillarda (to'g'ri)
++ 1853-1856-yillarda
 - 1854-1857-yillarda
 
 **690. Qachon Rossiya o‘ziga qarashli bo‘lgan Alyaskani AQSH ga sotgan?**
 
 - 1864-yilda
-- 1867-yilda (to'g'ri)
++ 1867-yilda
 - 1861-yilda
 - 1869-yilda
 
 **691. Rossiyada Dekabristlar qo’zg’oloni muvaffaqiyatsizlikka uchragach, ularning rahbarlaridan nechta kishi dorga osilgan?**
 
-- Besh kishi (to'g'ri)
++ Besh kishi
 - Ikki kishi
 - Uch kishi
 - To’rt kishi
@@ -4917,26 +5019,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Dehqon mustaqil suratda shartnoma, savdo bitimlari  tuzish, ko‘chmas mulk sotib olish va uni meros qoldirish huquqilariga ega bo’lgan
 - Dehqonlarni sotib olish, sotish yoki boshqa birovga hadya qilish taqiqlangan
 - Dehqon pomeshikning ruxsatisiz oila qurish huquqiga ega bo’lgan
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **693. Dekabristlar «Janubiy jamiyati» ning konstitutsiya loyihasiga oid to’g’ri javobni toping. 1) Muallifi Pavel Pestel; 2) Muallifi Nikita Muravyov 3) Loyiha «Rus haqiqati» deb atalgan; 4) Rossiyani konstitutsiyaviy monarxiya deb e’lon qilishni ko‘zda tutardi 5) Samoderjaviye, krepostnoylik huquqini yo‘q qilish va Rossiyada Respublika idora usulini joriy etish ko‘zda tutilgan edi; 6) Mulk senzi asosida saylanadigan ikki palatali Xalq Vechesi parlament bo’lishi kerak edi 7) Hamma fuqarolar uchun teng saylov huquqi asosida saylanadigan «Xalq vechesi» Rossiya parlamenti bo’lishi belgilangan edi.**
 
 - 2, 4, 5, 6
 - 1, 5, 6, 7
-- 1, 3, 5, 7 (to'g'ri)
++ 1, 3, 5, 7
 - 2, 3, 4, 6
 
 **694. Rossiyada «Krepostnoy huquqni bekor qilish to’g‘risida» gi Qonunini qaysi imperator qabul qilgan?**
 
 - Nikolay II
-- Aleksandr II (to'g'ri)
++ Aleksandr II
 - Aleksandr III
 - Nikolay I
 
 **695. «Ruslan va Lyudmila», «Kavkaz asiri», «Yevgeniy Onegin», «Kapitan qizi» asarlari muallifi kim?**
 
 - F.M. Dostoyevskiy
-- A.S. Pushkin (to'g'ri)
++ A.S. Pushkin
 - L.N. Tolstoy
 - M.Y. Lermontov
 
@@ -4947,14 +5049,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Uolt Uitmen
 - Mark Tven
-- Fenimor Kuper (to'g'ri)
++ Fenimor Kuper
 - German Melvill
 
 **697. XIX asrning 50-yillarning oxirlarida AQSH da qullar qo‘zg‘olonini ko‘tarishga urinib ko‘rgan oq tanli fermer Jon Braun tuzgan qurolli guruh … kishidan iborat bo’lgan va guruhda … nafar qora tanli kishi ham bor edi.**
 
 - 25/9
 - 27/3
-- 22/5 (to'g'ri)
++ 22/5
 - 28/2
 
 **698. Qachon AQSH da qulchilik bekor qilingan?**
@@ -4962,25 +5064,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1862-yilning yanvar oyida
 - 1863-yilning fevral oyida
 - 1864-yilning noyabr oyida
-- 1865-yilning dekabr oyida (to'g'ri)
++ 1865-yilning dekabr oyida
 
 **699. XIX asrda AQSH ning qaysi qismida qishloq xo‘jaligining asosini fermer xo‘jaligi tashkil etgan?**
 
 - Sharqida
 - G’arbida
-- Shimolida (to'g'ri)
++ Shimolida
 - Janubida
 
 **700. XVIII asrda Amerika rassomchiligida kimlarga taqlid qilishgan?**
 
-- Inglizlarga (to'g'ri)
++ Inglizlarga
 - Nemislarga
 - Fransuzlarga
 - Ruslarga
 
 **701. Qachon AQSH da sanoat inqilobi boshlangan?**
 
-- XIX asrning 30-yillarida (to'g'ri)
++ XIX asrning 30-yillarida
 - XIX asrning 40-yillarida
 - XIX asrning 50-yillarida
 - XIX asrning 60-yillarida
@@ -4990,18 +5092,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Sharqida
 - G’arbida
 - Shimolida
-- Janubida (to'g'ri)
++ Janubida
 
 **703. Qachon qora tanlilarning fuqarolik va siyosiy huquqlari oq tanlilarniki bilan tenglashtirilgan o’zgarishni AQSH Kongressi konstitutsiyaga kiritgan?**
 
 - 1860-yilda
-- 1866-yilda (to'g'ri)
++ 1866-yilda
 - 1863-yilda
 - 1864-yilda
 
 **704. «Gomstedlar to‘g‘risida» gi Qonunga to’g’ri izoh berilgan javobni toping.**
 
-- G’arbdagi bo‘sh yotgan katta yer jamg’armasini fermer xo‘jaligi yuritishni istagan shaxslarga bepul bo‘lib berish to’g’risidagi qonun (to'g'ri)
++ G’arbdagi bo‘sh yotgan katta yer jamg’armasini fermer xo‘jaligi yuritishni istagan shaxslarga bepul bo‘lib berish to’g’risidagi qonun
 - Hindularni rezervatsiyalarga ko’chirish to’g’risidagi qonun
 - Fuqarolar urushida mag’lub bo’lgan janub plantatorlarining qullarini erkin fuqaro sifatida tan olish to’g’risidagi qonun
 - Ozodlikka chiqqan qora tanli fuqarolarni ish, yer va uy-joy bilan ta’minlashga qaratilgan qonun
@@ -5011,11 +5113,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1858-1862-yillarda
 - 1865-1868-yillarda
 - 1856-1861-yillarda
-- 1861-1865-yillarda (to'g'ri)
++ 1861-1865-yillarda
 
 **706. XIX asrning 50-yillarning oxirlarida AQSH da atoqli abolitsionist, oq tanli fermer Jon Braun qayerda qullar qo‘zg‘olonini ko‘tarishga urinib ko‘rgan?**
 
-- Virjiniyada (to'g'ri)
++ Virjiniyada
 - Texasda
 - Jorjiyada
 - Floridada
@@ -5024,7 +5126,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - «О’zingizga mulk olish uchun ovoz bering!»
 - «О’zingizga uy olish uchun ovoz bering!»
-- «О’zingizga yer olish uchun ovoz bering!» (to'g'ri)
++ «О’zingizga yer olish uchun ovoz bering!»
 - «О’zingizga huquq olish uchun ovoz bering!»
 
 **708. AQSH prezidenti Avraam Linkolnning yashagan yillarini toping.**
@@ -5032,12 +5134,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1806-1862-yillar
 - 1803-1863-yillar
 - 1812-1864-yillar
-- 1809-1865-yillar (to'g'ri)
++ 1809-1865-yillar
 
 **709. XIX asrning 50-yillarning oxirlarida AQSH da qullar qo‘zg‘olonini ko‘tarishga urinib ko‘rgan oq tanli fermer Jon Braun qaysi tog’da joylashib olib, u yerdan qo’zg’olonni plantatsiyalarga yoyishni umid qilgan?**
 
 - Kordilyera tog’ida
-- Allegan tog’ida (to'g'ri)
++ Allegan tog’ida
 - Rashmor tog’ida
 - Denali tog’ida
 
@@ -5045,19 +5147,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Irqchilikka
 - Jinoyatchilikka
-- Qulchilikka (to'g'ri)
++ Qulchilikka
 - Ishsizlikka
 
 **711. XIX asrda qaysi muallif asarining qahramoni amerikacha hayot ruhiga yaqin bo‘lgani uchun AQSH milliy adabiyotining keyingi yo‘nalishini belgilab bergan?**
 
-- Daniyel Defo asarining (to'g'ri)
++ Daniyel Defo asarining
 - Adam Smit asarining
 - Jan Jak Russo asarining
 - Jonatan Svift asarining
 
 **712. Qachon AQSH prezidentligi uchun bo‘lgan saylovlarda respublikachilar partiyasi vakili Avraam Linkoln g’alaba qozongan?**
 
-- 1860-yilda (to'g'ri)
++ 1860-yilda
 - 1861-yilda
 - 1859-yilda
 - 1858-yilda
@@ -5067,7 +5169,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - qurolli guruhi tor-mor etilgan va u qamoqda vafot etgan
 - qurolli guruhi tor-mor etilgan va u jangda o’ldirilgan
 - qurolli guruhi tor-mor etilgan va u otib o‘ldirishga hukm qilingan
-- qurolli guruhi tor-mor etilgan va u osib o‘ldirishga hukm qilingan (to'g'ri)
++ qurolli guruhi tor-mor etilgan va u osib o‘ldirishga hukm qilingan
 
 ## 25-§ Lotin Amerikasi xalqlarining milliy-ozodlik kurashi.
 
@@ -5077,18 +5179,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1833-yilda
 - 1827-yilda
 - 1822-yilda
-- 1830-yilda (to'g'ri)
++ 1830-yilda
 
 **715. «Ispaniya mening mamlakatimni bandi qilgan zanjirlarni parchalab tashlamagunimcha xotirjam bo‘lmayman» iborasi kimda tegishli?**
 
 - Xose San-Martinga
-- Simon Bolivarga (to'g'ri)
++ Simon Bolivarga
 - Migel Idalgoga
 - Xose Morelosga
 
 **716. Qachon Meksika mustaqillikka erishgan?**
 
-- 1821-yilda (to'g'ri)
++ 1821-yilda
 - 1823-yilda
 - 1825-yilda
 - 1820-yilda
@@ -5096,7 +5198,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **717. Amerikada oq tanli va qora tanli kishilar o’rtasidagi nikohdan tug’ilgan avlod qanday atalgan?**
 
 - Metis
-- Mulat (to'g'ri)
++ Mulat
 - Kreol
 - Bur
 
@@ -5104,20 +5206,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1801-yilda
 - 1805-yilda
-- 1810-yilda (to'g'ri)
++ 1810-yilda
 - 1813-yilda
 
 **719. Migel Idalgo va Xose Morelos qaysi mamlakat xalqining ozodlik kurashi qahramonlari hisoblanadi?**
 
 - Braziliya xalqining
-- Meksika xalqining (to'g'ri)
++ Meksika xalqining
 - Argentina xalqining
 - Venesuela xalqining
 
 **720. «Inqilobga xizmat qilish - dengizni shudgor qilish bilan barobar» iborasi kimda tegishli?**
 
 - Xose San-Martin
-- Simon Bolivar (to'g'ri)
++ Simon Bolivar
 - Migel Idalgo
 - Xose Morelos
 
@@ -5125,12 +5227,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Metis
 - Mulat
-- Kreol (to'g'ri)
++ Kreol
 - Bur
 
 **722. Amerikada oq tanli aholiga mansub kishilar bilan hindular o’rtasidagi nikohdan tug’ilgan avlod qanday atalgan?**
 
-- Metis (to'g'ri)
++ Metis
 - Mulat
 - Kreol
 - Bur
@@ -5139,13 +5241,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Uch kunlik
 - Besh kunlik
-- O‘n kunlik (to'g'ri)
++ O‘n kunlik
 - Yetti kunlik
 
 **724. Yangi Grenadaning Ispaniyadan ozod bo‘lishiga kim yordam bergan?**
 
 - Xose San-Martin
-- Simon Bolivar (to'g'ri)
++ Simon Bolivar
 - Migel Idalgo
 - Xose Morelos
 
@@ -5154,11 +5256,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Birinchi kelgan bosqinchilar o’zlarini lotinlarning avlodlari deb hisoblagani uchun
 - Cherkovlarda duolar XX asrgacha lotin tilida o’qilgani uchun
 - Ushbu mintaqalarda lotin tili keng tarqalgani uchun
-- Aholisining ko‘pchiligi so‘zlashadigan ispan va portugal tillari lotin tili negizida tashkil topgani uchun (to'g'ri)
++ Aholisining ko‘pchiligi so‘zlashadigan ispan va portugal tillari lotin tili negizida tashkil topgani uchun
 
 **726. Braziliya qaysi mamlakat mustamlakasi bo’lgan?**
 
-- Portugaliya (to'g'ri)
++ Portugaliya
 - Ispaniya
 - Gollandiya
 - Britaniya
@@ -5168,46 +5270,49 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Boliviya
 - Braziliya
 - Argentina
-- Venesuela (to'g'ri)
++ Venesuela
 
 **728. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron455912189696.png)
+
 - Xose San-Martin
-- Simon Bolivar (to'g'ri)
++ Simon Bolivar
 - Migel Idalgo
 - Xose Morelos
 
 **729. Qaysi shaxs Ispaniyadan ozod qilingan barcha Amerika Respublikalari konfederatsiyasini tuzishni orzu qilgan?**
 
 - Xose San-Martin
-- Simon Bolivar (to'g'ri)
++ Simon Bolivar
 - Migel Idalgo
 - Xose Morelos
 
 **730. Qaysi mamlakat Simon Bolivarning safdoshi general Sukre boshchiligida ispan qo’shinini tor-mor etgan va mustaqillikka erishgan?**
 
 - Yuqori Argentina
-- Yuqori Peru (to'g'ri)
++ Yuqori Peru
 - Yuqori Venesuela
 - Yuqori Paragvay
 
 **731. XIX asrning boshlarida bo’lib o’tgan milliy-ozodlik kurashlaridan keyin Ispaniya Amerikadagi qaysi mulklarini saqlab qolgan?**
 
 - Panama va Kaliforniyani
-- Kuba va Puerto-Rikoni (to'g'ri)
++ Kuba va Puerto-Rikoni
 - Gonduras va Gvineyani
 - Quyi Paragvay va Nikaraguani
 
 **732. Qachon Venesuela mustaqil deb e’lon qilingan?**
 
-- 1811-yilda (to'g'ri)
++ 1811-yilda
 - 1806-yilda
 - 1810-yilda
 - 1815-yilda
 
 **733. Kimning qo‘mondonligidagi inqilobiy qo‘shin Argentinani ozod qilgan va mustaqillikka erishgan?**
 
-- Xose San-Martin (to'g'ri)
++ Xose San-Martin
 - Simon Bolivar
 - Migel Idalgo
 - Xose Morelos
@@ -5215,7 +5320,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **734. Qaysi davlat Simon Bolivar sharafiga Boliviya deb atalgan?**
 
 - Yuqori Argentina
-- Yuqori Peru (to'g'ri)
++ Yuqori Peru
 - Yuqori Venesuela
 - Yuqori Paragvay
 
@@ -5223,33 +5328,39 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1811-yilda
 - 1806-yilda
-- 1810-yilda (to'g'ri)
++ 1810-yilda
 - 1815-yilda
 
 **736. Qachon Braziliya Portugaliyadan mustaqil deb e’lon qilingan?**
 
 - 1833-yilda
 - 1827-yilda
-- 1822-yilda (to'g'ri)
++ 1822-yilda
 - 1830-yilda
 
 **737. Quyidagi mamlakatlarning mustaqilikka erishgan yillariga oid to’g’ri javobni toping. a) 1811-yil; b) 1816-yil; c) 1818-yil; d) 1819-yil; e) 1821-yil; f) 1822-yil; g) 1825-yil.**
 
+
+![](../images/astron27961840798156.png)
+
 - 1g, 2f, 3d, 4c, 5b, 6a, 7e, 8e
-- 1e, 2e, 3g, 4c, 5d, 6f, 7a, 8b (to'g'ri)
++ 1e, 2e, 3g, 4c, 5d, 6f, 7a, 8b
 - 1d, 2a, 3a, 4a, 5c, 6g, 7e, 8f
 - 1a, 2c, 3d, 4c, 5g, 6b, 7f, 8e
 
 **738. Quyidagi xaritada raqamlar bilan belgilangan hududlar qaysi davlatlarga qarashli bo’lgan?**
 
-- I-Britaniya, II-Gollandiya, III-Fransiya (to'g'ri)
+
+![](../images/astron20869267951047.png)
+
++ I-Britaniya, II-Gollandiya, III-Fransiya
 - I, II-Gollandiya, III-Britaniya, IV-Fransiya
 - I-Fransiya, II, III-Britaniya, IV-Gollandiya
 - I, II, III-Portugaliya, IV-Fransiya
 
 **739. Mustaqillik uchun kurash boshlangan qaysi sana tarixda Argentina xalqining milliy bayrami kuni bo‘lib qolgan?**
 
-- 25-may (to'g'ri)
++ 25-may
 - 4-iyul
 - 18-dekabr
 - 30-aprel
@@ -5259,18 +5370,21 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Boliviya
 - Meksika
 - Argentina
-- Venesuela (to'g'ri)
++ Venesuela
 
 **741. Quyidagi qaysi shaxs ispan qo’shinlariga qarshi olib borgan muvaffaqiyatli janglari uchun general unvonini va «Xaloskor» degan faxriy nomni olgan?**
 
 - Xose San-Martin
-- Simon Bolivar (to'g'ri)
++ Simon Bolivar
 - Migel Idalgo 
 - Xose Morelos
 
 **742. Quyidagi suratda kim tasvirlangan?**
 
-- Xose San-Martin (to'g'ri)
+
+![](../images/astron84556537436625.png)
+
++ Xose San-Martin
 - Simon Bolivar
 - Migel Idalgo
 - Xose Morelos
@@ -5279,13 +5393,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1801-yilda
 - 1805-yilda
-- 1810-yilda (to'g'ri)
++ 1810-yilda
 - 1813-yilda
 
 **744. XIX asr boshlarida bo’lib o’tgan milliy-ozodlik kurashlaridan keyin Janubiy Amerikadagi qaysi mamlakatdan tashqari barcha Lotin Amerikasi mamlakatlarida Respublika tuzumi o‘rnatilgan?**
 
 - Boliviyadan tashqari
-- Braziliyadan tashqari (to'g'ri)
++ Braziliyadan tashqari
 - Argentinadan tashqari
 - Venesueladan tashqari
 
@@ -5294,7 +5408,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 **745. «Ost-Indiya» kompaniyasining qaysi shahardagi gubernatori Buyuk Britaniyaning Hindistondagi barcha mustamlakalari general-gubernatori etib tayinlangan?**
 
-- Kalkutta shahridagi (to'g'ri)
++ Kalkutta shahridagi
 - Dehli shahridagi
 - Mumbay shahridagi
 - Agra shahridagi
@@ -5303,7 +5417,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Otliq qo’shin bilan shaharga hujum qilinishi
 - To’plar yordamida shahar devorining yo’q qilinishi
-- To’plarni fillarga ortib Dehliga olib kirilishi (to'g'ri)
++ To’plarni fillarga ortib Dehliga olib kirilishi
 - Shahar oziq-ovqat omborining yo’q qilinishi
 
 **747. Hindistonda sipohiylar qo‘zg‘olonining boshlanishiga bevosita turtki bo‘lgan sababni toping.**
@@ -5311,18 +5425,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Oylik maoshining qisqartirilishi
 - Yevropacha harbiy kiyim joriy etilishi
 - Oziq-ovqat zahirasining tugashi
-- Patron bilan o‘qlanadigan miltiqning  joriy etilishi (to'g'ri)
++ Patron bilan o‘qlanadigan miltiqning  joriy etilishi
 
 **748. Qachon Hindiston Buyuk Britaniya mulki deb e’lon qilingan?**
 
 - 1855-yilda
-- 1858-yilda (to'g'ri)
++ 1858-yilda
 - 1857-yilda
 - 1853-yilda
 
 **749. Hindistonda sipohiylar qaysi hukmdorni hind xalqini mustamlakachilarga qarshi qo‘zg‘olon ko‘tarishga chorlovchi chaqiriqni imzolashga majbur qilganlar?**
 
-- Bahodirshoh II (to'g'ri)
++ Bahodirshoh II
 - Akbarshoh III
 - Jahongirshoh I
 - Ahmadshosh IV
@@ -5330,7 +5444,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **750. «Ost-Indiya» kompaniyasi qaysi qonunga asosan Hindistonni boshqaruvchi mustamlakachi ma’muriyat apparatiga aylantirilgan?**
 
 - “Mustamlakalarni boshqarish to’g’risida” gi qonunga asosan
-- “Hindistonni boshqarish to’g’risida” gi qonunga asosan (to'g'ri)
++ “Hindistonni boshqarish to’g’risida” gi qonunga asosan
 - “Sharqni boshqarish to’g’risida” gi qonunga asosan
 - “Hindi-xitoyni boshqarish to’g’risida” gi qonunga asosan
 
@@ -5338,20 +5452,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1855-yilda
 - 1858-yilda
-- 1857-yilda (to'g'ri)
++ 1857-yilda
 - 1853-yilda
 
 **752. XIX asrda inglizlarning hindlardan tuzilgan yollanma qo’shini qanday atalgan?**
 
 - Rajput
-- Sipohiy (to'g'ri)
++ Sipohiy
 - Mahdiy
 - Mamluk
 
 **753. Hindistonda sipohiylar qo’zg’olon ko’tarib, qaysi shaharni egallaganlar?**
 
 - Kalkuttani
-- Dehlini (to'g'ri)
++ Dehlini
 - Mumbayni
 - Agrani
 
@@ -5360,12 +5474,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Yer egalarining soliqlarni oshirishi taqiqlab qo’yilgan
 - Mahalliy roja (knyaz) larning o‘z yerlariga egalik huquqi daxlsiz deb e ’lon qilingan 
 - «Ost-Indiya» kompaniyasi tugatilib, Hindistonni boshqarish Britaniya ma’murlari qo‘liga o‘tgan
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **755. XIX asrning o’rtalarida hindlarning birdan bir uyushgan tashkiloti qaysi edi?**
 
 - Hind Milliy Kongresi
-- Yollanma sipohiylar qo’shini (to'g'ri)
++ Yollanma sipohiylar qo’shini
 - Hind dehqonlari uyushmasi
 - Rojalar kengashi
 
@@ -5373,13 +5487,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Tiriklayin yoqib yuborganlar
 - Oila a’zolari bilan otib tashlaganlar
-- To’p og’ziga bog’lab otganlar (to'g'ri)
++ To’p og’ziga bog’lab otganlar
 - Tiriklayin ko’mganlar
 
 **757. XIX asrda qaysi organ Buyuk Britaniyaning Hindistondagi mustamlakachilik siyosatining yo‘nalishlarini belgilab borgan?**
 
 - Buyuk Britaniya parlamenti
-- «Hindiston ishlari bo’yicha nazorat kengashi» (to'g'ri)
++ «Hindiston ishlari bo’yicha nazorat kengashi»
 - «Ost-Indiya» kompaniyasi
 - Hindiston Milliy Kongressi
 
@@ -5389,7 +5503,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **758. «Ikkinchi afyun urushi» dan keyin qaysi mamlakat fuqarolari Xitoy hududida Xitoy qonunlari va sudiga bo’ysunishdan ozod qilingan?**
 
 - Buyuk Britaniya va Germaniya fuqarolari
-- Buyuk Britaniya va Fransiya fuqarolari (to'g'ri)
++ Buyuk Britaniya va Fransiya fuqarolari
 - Fransiya va Rossiya fuqarolari
 - Gollandiya va AQSH fuqarolari
 
@@ -5398,13 +5512,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Mao Szedunga
 - Chan Kayshiga
 - Sun Yatsenga
-- Xun Syutsyuanga (to'g'ri)
++ Xun Syutsyuanga
 
 **760. «Taypin tyango» so’zining ma’nosi nima?**
 
 - «Osmon ostidagi davlat»
 - «Xalq farovonligi davlati»
-- «Samoviy mo‘l-ko‘lchilik davlati» (to'g'ri)
++ «Samoviy mo‘l-ko‘lchilik davlati»
 - «Musaffo osmonli davlat»
 
 **761. «Birinchi afyun urushi» bo’lib o’tgan yillarni toping.**
@@ -5412,26 +5526,29 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1838-1840-yillar
 - 1844-1847-yillar
 - 1856-1860-yillar
-- 1840-1842-yillar (to'g'ri)
++ 1840-1842-yillar
 
 **762. Quyidagi xaritada Tibet qaysi raqam ostida berilgan?**
 
+
+![](../images/astron2978277416960.png)
+
 - I
-- II (to'g'ri)
++ II
 - III
 - IV
 
 **763. Taypinlar davlatida … qo‘shinga bitta askar yetkazib berishi belgilab qo‘yilgan edi.**
 
 - har to’rtta oilaning
-- har bir oilaning (to'g'ri)
++ har bir oilaning
 - har uchta oilaning
 - har ikkita oilaning
 
 **764. «Ikkinchi afyun urushi» da Xitoy qaysi davlatlarga qarshi kurash olib borgan?**
 
 - Buyuk Britaniya va Germaniyaga
-- Buyuk Britaniya va Fransiyaga (to'g'ri)
++ Buyuk Britaniya va Fransiyaga
 - Fransiya va Rossiyaga
 - Gollandiya va Portugaliyaga
 
@@ -5439,26 +5556,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Shanxay porti
 - Gonkong porti
-- Guanchjou porti (to'g'ri)
++ Guanchjou porti
 - Xanchjou porti
 
 **766. XIX asrda Buyuk Britaniya savdogarlari qayerdan g‘ayriqonuniy ravishda Xitoyga afyun (qora dori) kirita boshlaganlar?**
 
-- Hindistondan (to'g'ri)
++ Hindistondan
 - Mo’g’ulistondan
 - Vyetnamdan
 - Laosdan
 
 **767. Qachon Xitoy bandargohlarini tashqi savdo uchun yopiq deb e’lon qilgan?**
 
-- 1757-yilda (to'g'ri)
++ 1757-yilda
 - 1750-yilda
 - 1754-yilda
 - 1760-yilda
 
 **768. Taypinlar qo’zg’olonini bostirishda Xitoy hukumatiga qaysi davlatlar yordam bergan? 1) Buyuk Britaniya; 2) Fransiya; 3) AQSH; 4) Rossiya; 5) Yaponiya.**
 
-- 1, 2, 3 (to'g'ri)
++ 1, 2, 3
 - 2, 3, 4
 - 3, 4, 5
 - 1, 3, 5
@@ -5467,19 +5584,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1848-yilda
 - 1845-yilda
-- 1850-yilda (to'g'ri)
++ 1850-yilda
 - 1853-yilda
 
 **770. Qaysi davrga kelib Chin (Sin) imperiyasining istilochilik qudrati zaiflashgan?**
 
 - XVIII asr boshlariga kelib
-- XVIII asr oxirlariga kelib (to'g'ri)
++ XVIII asr oxirlariga kelib
 - XIX asr boshlariga kelib
 - XIX asr oxirlariga kelib
 
 **771. «Birinchi afyun urushi» yakuniga ko’ra Buyuk Britaniya qayerni bosib olgan?**
 
-- Gonkong orolini (to'g'ri)
++ Gonkong orolini
 - Tayvan orolini
 - Makao orolini 
 - Chjunsha orolini
@@ -5487,7 +5604,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **772. «Ikkinchi afyun urushi» da mustamlakachilar qaysi shahar bo’sag’asidagi juda boy xazinalarga ega bo‘lgan imperatorning yozgi saroyini talab, vayron qilganlar?**
 
 - Shanxay shahridagi
-- Pekin shahridagi (to'g'ri)
++ Pekin shahridagi
 - Nankin shahridagi
 - Loyan shahridagi
 
@@ -5495,7 +5612,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1870-yilda
 - 1868-yilda
-- 1864-yilda (to'g'ri)
++ 1864-yilda
 - 1861-yilda
 
 **774. Taypinlar qo’zg’oloni rahbari Xun Syutsyuanning kasbi nima edi?**
@@ -5503,25 +5620,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Davlat amaldori
 - Harbiy zobit
 - Qishloq oqsoqoli
-- Maktab o‘qituvchisi (to'g'ri)
++ Maktab o‘qituvchisi
 
 **775. XVIII asrda Xitoy o’zini o’zi tashqi dunyodan ajratib qo‘yishga qaratilgan siyosat qanday nom olgan?**
 
-- «Yopiq eshiklar» (to'g'ri)
++ «Yopiq eshiklar»
 - «Yopiq mamlakat»
 - «Yopiq portlar»
 - «Yopiq savdo»
 
 **776. XIX asrda qaysi mamlakat Xitoyda hammadan ko’proq imtiyozga ega bo’lgan edi?**
 
-- Buyuk Britaniya (to'g'ri)
++ Buyuk Britaniya
 - Fransiya
 - AQSH
 - Rossiya
 
 **777. Taypinlar Xitoyning qaysi viloyatida o’z davlatini barpo etganlar?**
 
-- Yanszi viloyatida (to'g'ri)
++ Yanszi viloyatida
 - Sichuan viloyatida
 - Shensi viloyatida
 - Guandun viloyatida
@@ -5530,20 +5647,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1838-1840-yillar
 - 1844-1847-yillar
-- 1856-1860-yillar (to'g'ri)
++ 1856-1860-yillar
 - 1840-1842-yillar
 
 **779. Taypinlar davlatining markazi qaysi shahar edi?**
 
 - Shanxay shahri
 - Pekin shahri
-- Nankin shahri (to'g'ri)
++ Nankin shahri
 - Loyan shahri
 
 **780. Xitoyning qaysi qismida Taypinlar qo’zg’oloni boshlangan?**
 
 - Shimolida
-- Janubida (to'g'ri)
++ Janubida
 - G’arbida
 - Sharqida
 
@@ -5555,13 +5672,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1860-yilda
 - 1863-yilda
 - 1864-yilda
-- 1867-yilda (to'g'ri)
++ 1867-yilda
 
 **782. Qachon amerikaliklarga, «Tinchlik va do’stlik to’g’risida» gi Shartnomaga ko’ra ochilgan portlardan tashqari, yana bir nechta yapon porti ochib  qo‘yilgan?**
 
 - 1854-yilda
 - 1855-yilda
-- 1858-yilda (to'g'ri)
++ 1858-yilda
 - 1860-yilda
 
 **783. XIX asrda Yaponiyada qo’shinga singdirilgan «yaponcha milliy ruh» ning hususiyatlari nimalardan iborat edi?**
@@ -5569,11 +5686,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - O’z davlatining manfaatlariga sodiqlik
 - Imperatorga muhabbat
 - O’limni nazar-pisand qilmaslik
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **784. Chet el fuqarolarining shaxsi, uy-joyi va mol-mulki daxlsizligi hamda mahalliy davlat sudining ularni sud qila olmasligi qanday ataladi?**
 
-- Eksterritorial huquq (to'g'ri)
++ Eksterritorial huquq
 - Interritorial huquq
 - Dominional huquq
 - Imperial huquq
@@ -5583,12 +5700,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - «Meydzi boshqaruvi»
 - «Meydzi rivojlanishi»
 - «Meydzi yuksalishi»
-- «Meydzi inqilobi» (to'g'ri)
++ «Meydzi inqilobi»
 
 **786. Meydzi islohotlarining dastlabki bosqichida qaysi sohada o’zgarishlar amalga oshirilgan?**
 
 - Ta’lim sohasida
-- Agrar sohada (to'g'ri)
++ Agrar sohada
 - Harbiy sohada
 - Ma’muriy sohada
 
@@ -5597,39 +5714,39 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Ziyolilar
 - Burjuaziya
 - Dehqonlar
-- Samuraylar (to'g'ri)
++ Samuraylar
 
 **788. Meydzi o’tkazgan harbiy islohotga ko’ra qaysi davlatdan harbiy mutaxassislar taklif etilgan?**
 
 - Buyuk Britaniyadan
 - Germaniyadan
-- Fransiyadan (to'g'ri)
++ Fransiyadan
 - Rossiyadan
 
 **789. AQSH bilan Yaponiya o‘rtasida «Tinchlik va do’stlik to’g’risida» gi Shartnomaga ko’ra Yaponiya AQSH ga nechta portini ochgan?**
 
 - Bitta portni
-- Ikkita portni (to'g'ri)
++ Ikkita portni
 - Uchta portni
 - To’rtta portni
 
 **790. XIX asrda Yaponiyada qaysi davlat fuqarolariga eksterritoriallik huquqi berilgan?**
 
 - Buyuk Britaniya fuqarolariga
-- AQSH fuqarolariga (to'g'ri)
++ AQSH fuqarolariga
 - Fransiya fuqarolariga
 - Germaniya fuqarolariga
 
 **791. Qachon AQSH bilan Yaponiya o‘rtasida «Tinchlik va do’stlik to’g’risida» gi Shartnoma imzolangan?**
 
-- 1854-yilda (to'g'ri)
++ 1854-yilda
 - 1855-yilda
 - 1858-yilda
 - 1860-yilda
 
 **792. Qachon AQSH harbiy-dengiz floti Yaponiyani ochilishga majbur etgan?**
 
-- 1854-yilda (to'g'ri)
++ 1854-yilda
 - 1855-yilda
 - 1858-yilda
 - 1860-yilda
@@ -5637,27 +5754,27 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **793. Yaponiyada Amaterasu qanday xudo?**
 
 - Yer xudosi
-- Quyosh xudosi (to'g'ri)
++ Quyosh xudosi
 - Osmon xudosi
 - Urush xudosi
 
 **794. «Shu davrdan boshlab, Yaponiyaga chet ellardan hech kim, hatto elchilar ham kiritilmaydi. O’lim xavfi ham bu farmonni bekor qila olmasligi lozim». Ushbu farmon kim tomonidan chiqarilgan?**
 
-- Syogun (to'g'ri)
++ Syogun
 - Bosh vazir
 - Imperator
 - Mikado
 
 **795. Meydzi davrida Yaponiya hukumati o’z oldiga mamlakatni isloh qilish borasida qanday vazifani qo’ygandi?**
 
-- Milliy an’analardan voz kechmagan, mustaqillikni to‘la saqlab qolgan holda G’arb namunasida Yaponiyani zamonaviylashtirish (to'g'ri)
++ Milliy an’analardan voz kechmagan, mustaqillikni to‘la saqlab qolgan holda G’arb namunasida Yaponiyani zamonaviylashtirish
 - Milliy an’analar to’la yangilangan, mustaqillikni to‘la saqlab qolgan holda G’arb namunasida Yaponiyani zamonaviylashtirish
 - Milliy an’analardan voz kechmagan, qadimiy yapon davlatchiligi namunasida Yaponiyani shakllartirish
 - Milliy an’analardan voz kechmagan, G’arb davlatlari homiyligi va nazoratidagi Yaponiyani zamonaviylashtirish
 
 **796. Meydzi o’tkazgan ma’muriy islohotda mahalliy knyazlar qudratini sindirish uchun dastlab qanday tadbir amalga oshirilgan?**
 
-- Ularning yerlarini bir qismi musodara qilingan (to'g'ri)
++ Ularning yerlarini bir qismi musodara qilingan
 - Knyazlar boshqaruv huquqidan mahrum etilgan
 - Joylarda hokimiyat imperator tayinlaydigan gubernatorlar qo’liga o’tgan
 - Knyazlar mamlakatdan surgun qilingan
@@ -5667,18 +5784,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1860-yilda
 - 1863-yilda
 - 1864-yilda
-- 1867-yilda (to'g'ri)
++ 1867-yilda
 
 **798. Meydzi o’tkazgan harbiy islohotga ko’ra kimlar doimiy harbiy xizmatda bo’lish imtiyozidan mahrum etilgan?**
 
 - Daymyolar
 - Syogunlar
-- Samuraylar (to'g'ri)
++ Samuraylar
 - Mikadolar
 
 **799. «Meydzi» so’zining ma’nosi nima?**
 
-- «Ma’rifatli boshqaruv» (to'g'ri)
++ «Ma’rifatli boshqaruv»
 - «Oqilona boshqaruv»
 - «Idrokli boshqaruv»
 - «Ilohiy boshqaruv»
@@ -5686,7 +5803,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **800. Meydzi o’tkazgan agrar islohotga ko’ra, yerdan olinadigan soliqning miqdori hosildan olinadigan daromad hajmining qancha foiziga teng qilib belgilangan?**
 
 - 20 foiziga
-- 50 foiziga (to'g'ri)
++ 50 foiziga
 - 40 foiziga
 - 30 foiziga
 
@@ -5694,13 +5811,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Bat
 - Yuan
-- Iyena (to'g'ri)
++ Iyena
 - Von
 
 **802. Meydzi o’tkazgan agrar islohotdan 10 yil o’tib dehqonlarning qancha qismi o‘zlariga berilgan yerni qo‘llarida saqlab qola olganlar?**
 
 - 1/2 qismi
-- 1/3 qismi (to'g'ri)
++ 1/3 qismi
 - 1/4 qismi
 - 1/5 qismi
 
@@ -5709,7 +5826,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Aholini ma’naviy onggini oshirish masalasiga
 - Yirik harbiy va savdo floti yaratish masalasiga
 - Harbiy qudratni oshirish masalasiga
-- Ishlab chiqarishni sanoatlashtirish masalasiga (to'g'ri)
++ Ishlab chiqarishni sanoatlashtirish masalasiga
 
 ## 29-§ 1800-1870-yillarda Koreya.
 
@@ -5717,13 +5834,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **804. XIX asr boshlarida Koreyaga fransuz harbiy kemalari yuborilishiga nima bahona bo’lgan?**
 
 - Fransuz ofitserining Koreyada o’ldirilishi
-- Fransuz missionerlarining xristian dinini qabul qilgan koreyslar bilan birga qatl etilishi (to'g'ri)
++ Fransuz missionerlarining xristian dinini qabul qilgan koreyslar bilan birga qatl etilishi
 - Fransuz elchisining Koreyada o’ldirilishi
 - Fransuz missionerlarining Koreyadan quvilishi
 
 **805. XIX asrda Koreyada davlatni boshqargan Li Xa In qayta tiklagan Kyonbokkun saroyi XVI asrda kimlarning bosqini paytida yonib ketgan edi?**
 
-- Yaponlarning (to'g'ri)
++ Yaponlarning
 - Xitoyliklarning
 - Mo’g’ullarning
 - Manjurlarning
@@ -5733,32 +5850,32 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Seonsan 
 - Noron
 - Kojon
-- Tevongun (to'g'ri)
++ Tevongun
 
 **807. XIX asrda Koreyada davlatni boshqargan Li Xa In hal qiluvchi ta’sirga ega bo’lgan asilzodalarining qudratini zaiflashtirish uchun qanday tadbir amalga oshirgan?**
 
 - Islohotlarga qarshilarni qatl qilgan
 - Mol-mulki va yerlarini musodara qilib, o’zlarini surgun qilgan
 - Yerlarini musodara qilgan
-- Dvoryan bo’lmagan qatlamlar vakillariga ham davlat xizmatiga kirish imkoniyatini yaratgan (to'g'ri)
++ Dvoryan bo’lmagan qatlamlar vakillariga ham davlat xizmatiga kirish imkoniyatini yaratgan
 
 **808. Qachon Koreyaning Jejudo orolida dehqonlar va baliqchilarning qo‘zg‘oloni bo‘lib o‘tgan?**
 
 - 1819-yilda
 - 1815-yilda
-- 1813-yilda (to'g'ri)
++ 1813-yilda
 - 1810-yilda
 
 **809. XIX asr boshlarida asosan qaysi mamlakat missionerlari Koreyaga yashirin kirib kelib, o‘z faoliyatlarini olib borayotgan edilar?**
 
-- Fransuz missionerlari (to'g'ri)
++ Fransuz missionerlari
 - Ingliz missionerlari
 - Nemis missionerlari
 - Ispan missionerlari
 
 **810. XIX asr ikkinchi yarmida Koreya qaysi mamlakatning mustamlakasiga aylangan?**
 
-- Yaponiyaning (to'g'ri)
++ Yaponiyaning
 - Fransiyaning
 - Xitoyning
 - Buyuk Britaniyaning
@@ -5767,7 +5884,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Hindistonda
 - Yaponiyada
-- Koreyada (to'g'ri)
++ Koreyada
 - Xitoyda
 
 **812. XIX asrda Koreyada «tevongun» deb kimga aytilgan?**
@@ -5775,18 +5892,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Qo’mondonga
 - Asilzodaga
 - Oqsoqolga
-- Hokimga (to'g'ri)
++ Hokimga
 
 **813. XIX asrda Koreyada davlatni boshqargan Li Xa In asilzodalar va oddiy xalqni «tenglashtirish» maqsadida xalq uchun qanday rangli oyoq kiyim kiyishni taqiqlagan?**
 
 - Qizil rangli
-- Qora rangli (to'g'ri)
++ Qora rangli
 - Moviy rangli
 - Oq rangli
 
 **814. Qachon Koreya qirg‘oqlari yaqinida paydo bo‘lgan kema Buyuk Britaniya nomidan savdo munosabatlari o‘rnatishni taklif qilgan, lekin rad javobini olgan?**
 
-- 1832-yilda (to'g'ri)
++ 1832-yilda
 - 1831-yilda
 - 1836-yilda
 - 1835-yilda
@@ -5796,26 +5913,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1868-yilda
 - 1867-yilda
 - 1860-yilda
-- 1863-yilda (to'g'ri)
++ 1863-yilda
 
 **816. Qachon Rim papasi Koreya yepiskopligi tuzilganligini e’lon qilgan?**
 
 - 1832-yilda
-- 1831-yilda (to'g'ri)
++ 1831-yilda
 - 1836-yilda
 - 1835-yilda
 
 **817. XIX asrda Koreyada davlatni boshqargan Li Xa In davrida oddiy kishilar to‘laydigan qaysi soliq barcha qatlamlar uchun majburiy uy boshi solig‘i bilan almashtirgan?**
 
 - Yer solig’i
-- Harbiy soliq (to'g'ri)
++ Harbiy soliq
 - Jon solig’i
 - Daromad solig’i
 
 **818. XIX asrda Koreyada «noron» deb kimga aytilgan?**
 
 - Qo’mondonga
-- Oqsoqolga (to'g'ri)
++ Oqsoqolga
 - Asilzodaga
 - Hokimga
 
@@ -5824,7 +5941,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Xvan sulolasiga
 - Koryo sulolasiga
 - Chxon sulolasiga
-- Li sulolasiga (to'g'ri)
++ Li sulolasiga
 
 ## 30-§ 1800-1870-yillarda Usmoniylar imperiyasi.
 
@@ -5832,14 +5949,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **820. «Qrim urushi» da qaysi davlatlar ittifoqi Rossiya ustidan g’alaba qozongan?**
 
 - Belgiya, Fransiya va Yaponiya ittifoqi
-- Buyuk Britaniya, Fransiya va Turkiya ittifoqi (to'g'ri)
++ Buyuk Britaniya, Fransiya va Turkiya ittifoqi
 - Buyuk Britaniya, Vengriya va Germaniya ittifoqi
 - Germaniya, Avstriya va Turkiya ittifoqi
 
 **821. 1856-yilda Rossiya-Turkiya urushi yakunlangach, tinchlik shartnomasi qaysi shaharda imzolangan?**
 
 - Sankt-Peterburgda
-- Parijda (to'g'ri)
++ Parijda
 - Londonda
 - Venada
 
@@ -5848,19 +5965,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Germaniya
 - Fransiya
 - Buyuk Britaniya
-- Rossiya (to'g'ri)
++ Rossiya
 
 **823. 1853-1856-yillarda Rossiya-Turkiya o’rtasida bo’lib o’tgan urush Rossiya tarixiga qanday nom bilan kirgan?**
 
 - «Turk urushi»
-- «Qrim urushi» (to'g'ri)
++ «Qrim urushi»
 - «Dardanell urushi»
 - «Bosfor urushi»
 
 **824. XIX asrda turk sultoni qo‘shinini tor-mor etib, Istanbulga yurish boshlagan Muhammad Alini qaysi davlat qo’llab-quvvatlagan edi?**
 
 - Germaniya
-- Fransiya (to'g'ri)
++ Fransiya
 - Buyuk Britaniya
 - Rossiya
 
@@ -5868,34 +5985,34 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - XIX asrning 80-yillariga kelib
 - XIX asrning 70-yillariga kelib
-- XIX asrning 60-yillariga kelib (to'g'ri)
++ XIX asrning 60-yillariga kelib
 - XIX asrning 50-yillariga kelib
 
 **826. XIX asrda Usmoniylar imperiyasida aholining qaysi qatlamidan boshqa barcha davlat xizmatchilari sultonning quli hisoblangan?**
 
 - Vazirlardan tashqari
-- Ruhoniylardan tashqari (to'g'ri)
++ Ruhoniylardan tashqari
 - Sipohiylardan tashqari
 - Yanicharlardan tashqari
 
 **827. Davlat korxonalarini, mulkini muayyan muddatga chet el kapitaliga berish haqidagi kelishuv shartnoma qanday nomlanadi?**
 
 - Konkurensiya
-- Konsessiya (to'g'ri)
++ Konsessiya
 - Konfessiya
 - Konfiskatsiya
 
 **828. XIX asrda Yevropa davlatlari qanday masaladan Turkiya ichki ishlariga aralashish quroli sifatida foydalanganlar?**
 
 - Imperiyaning tarkibidagi xristian aholining zulmga uchrashidan
-- Imperiya xalqlarining milliy-ozodlik kurashidan (to'g'ri)
++ Imperiya xalqlarining milliy-ozodlik kurashidan
 - Imperiyaning iqtisodiy qoloqligidan
 - Imperiyaning harbiy qoloqligidan
 
 **829. Qachon Muhammad Ali turk sultonidan Misr va Sudanni boshqarishni meros qilib qoldirish huquqini olgan?**
 
 - 1833-yilda
-- 1840-yilda (to'g'ri)
++ 1840-yilda
 - 1827-yilda
 - 1830-yilda
 
@@ -5904,19 +6021,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Aleksandr III
 - Nikolay II
 - Aleksandr II
-- Nikolay I (to'g'ri)
++ Nikolay I
 
 **831. Qaysi davrga kelib Yevropaning kuchli davlatlari Usmoniylar imperiyasining zaiflashib qolganligidan foydalanib, uning mustamlaka hududlariga ko‘z olaytira boshlaganlar?**
 
 - XIX asr oxiriga kelib
 - XIX asr boshiga kelib
 - XVIII asr boshiga kelib
-- XVIII asr oxiriga kelib (to'g'ri)
++ XVIII asr oxiriga kelib
 
 **832. Qachon Londonda Buyuk Britaniya, Fransiya va Rossiya o‘rtasida Turkiyaga qaram Gretsiyaga muxtoriyat huquqi berilishini ko‘zda tutuvchi bitim imzolangan?**
 
 - 1833-yilda
-- 1827-yilda (to'g'ri)
++ 1827-yilda
 - 1840-yilda
 - 1830-yilda
 
@@ -5925,35 +6042,35 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Eronning
 - Tunisning
 - Suriyaning
-- Misrning (to'g'ri)
++ Misrning
 
 **834. Qachon Fransiya Jazoirni bosib olgan?**
 
 - 1833-yilda
 - 1827-yilda
 - 1840-yilda
-- 1830-yilda (to'g'ri)
++ 1830-yilda
 
 **835. Yevropa davlatlarining Usmoniylar imperiyasiga qaram o‘lkalarni egallab olish uchun o‘zaro kurashi tarixga qanday nom bilan kirgan?**
 
 - «Turklar masalasi»
 - «Mustamlaka masalasi»
 - «Usmoniylar masalasi»
-- «Sharq masalasi» (to'g'ri)
++ «Sharq masalasi»
 
 **836. XIX asrda turk sultoni qo‘shinini tor-mor etib, Istanbulga yurish boshlagan Muhammad Alidan Turkiyani qaysi davlat saqlab qolgan?**
 
 - Germaniya
 - Buyuk Britaniya
 - Fransiya
-- Rossiya (to'g'ri)
++ Rossiya
 
 ## 31-§ 1800-1870-yillarda Eron va Afg’oniston.
 
 
 **837. Qachon Do’st Muhammadxon Afg`oniston taxtini egallagan va o’zini amir deb e’lon qilgan?**
 
-- 1826-yilda (to'g'ri)
++ 1826-yilda
 - 1825-yilda
 - 1823-yilda
 - 1820-yilda
@@ -5963,19 +6080,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Ahmadshoh
 - Akbarshoh
 - Do’st Muhammadxon
-- Fathxon (to'g'ri)
++ Fathxon
 
 **839. Qachon Eron shohi Nodirshoh o’ldirilgan?**
 
 - 1722-yilda
-- 1747-yilda (to'g'ri)
++ 1747-yilda
 - 1736-yilda
 - 1729-yilda
 
 **840. XIX asr oxirida ham qabila-urug’chilik munosabatlari va natural xo’jalik saqlanib qolgan Osiyo davlatini toping.**
 
 - Suriya
-- Afg’oniston (to'g'ri)
++ Afg’oniston
 - Hindiston
 - Eron
 
@@ -5984,25 +6101,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - AQSH
 - Germaniya
 - Fransiya
-- Buyuk Britaniya (to'g'ri)
++ Buyuk Britaniya
 
 **842. Buyuk Britaniya Afg’onistonga hujum qilib Kobulni egallagach, kim taxtga o’tqazilgan?**
 
 - Abdalilar sulolasining vakili Ahmadshohni
 - Barakzaylar sulolasining vakili Fathxonni
-- Durroniylar sulolasining vakili Shujuni (to'g'ri)
++ Durroniylar sulolasining vakili Shujuni
 - Barakzaylar sulolasining vakili Akbarshohni
 
 **843. Qachon Eron Hirot shahrini bosib olgan?**
 
 - 1830-yilda
 - 1857-yilda
-- 1856-yilda (to'g'ri)
++ 1856-yilda
 - 1852-yilda
 
 **844. XIX asrda Eronda Sadri a’zam qanday lavozim bo’lgan?**
 
-- Bosh vazir (to'g'ri)
++ Bosh vazir
 - Moliya va ichki ishlar vaziri
 - Saroy bosh tabibi
 - Harbiy vazir
@@ -6010,20 +6127,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **845. Qayerda afg‘onlarning gilzoiy qabilasi xoni Mir Vaysxon Eronga qarshi qo’zg’olon ko’targan?**
 
 - Marv viloyatida
-- Qandahor viloyatida (to'g'ri)
++ Qandahor viloyatida
 - Hirot viloyatida
 - Kobul viloyatida
 
 **846. XIX asrda qaysi Osiyo davlatida kengash «jirg‘a» deb yuritilgan?**
 
 - Suriyada
-- Afg’onistonda (to'g'ri)
++ Afg’onistonda
 - Eronda
 - Arabistonda
 
 **847. Qachon Eronda «Bobiylar qo‘zg‘oloni» bo’lib o’tgan?**
 
-- 1848-1850-yillarda (to'g'ri)
++ 1848-1850-yillarda
 - 1845-1856-yillarda
 - 1840-1844-yillarda
 - 1851-1853-yillarda
@@ -6031,13 +6148,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **848. Qachon afg‘on qabila xonlarining jirg‘asi (kengashi) afg‘onlarning Abdali qabilasi sardori Ahmadxonni Afg’oniston shohi deb e’lon qilgan?**
 
 - 1722-yilda
-- 1747-yilda (to'g'ri)
++ 1747-yilda
 - 1736-yilda
 - 1729-yilda
 
 **849. Qachon Buyuk Britaniya va Eron o’rtasida Parij Tinchlik shartnomasi imzolangan?**
 
-- 1857-yilda (to'g'ri)
++ 1857-yilda
 - 1830-yilda
 - 1856-yilda
 - 1852-yilda
@@ -6045,7 +6162,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **850. XIX asrda Eronda viloyatlarni kim boshqargan?**
 
 - Piri Rais
-- Beklarbegi (to'g'ri)
++ Beklarbegi
 - Sanjoqbegi
 - Vali
 
@@ -6054,11 +6171,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1857-yilda
 - 1855-yilda
 - 1870-yilda
-- 1863-yilda (to'g'ri)
++ 1863-yilda
 
 **852. Qachon Buyuk Britaniya bilan Afg’oniston о’rtasida harbiу shartnoma tuzilgan?**
 
-- 1857-yilda (to'g'ri)
++ 1857-yilda
 - 1855-yilda
 - 1870-yilda
 - 1863-yilda
@@ -6067,19 +6184,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Bosh vazir
 - Moliya va ichki ishlar vaziri
-- Saroy bosh tabibi (to'g'ri)
++ Saroy bosh tabibi
 - Harbiy vazir
 
 **854. Qachon afg‘onlarning gilzoiy qabilasi xoni Mir Vaysxon Eronga qarshi qo’zg’olon ko’targan?**
 
 - 1707-yilda
 - 1715-yilda
-- 1709-yilda (to'g'ri)
++ 1709-yilda
 - 1713-yilda
 
 **855. XVIII asrda qaysi Afg’oniston hukmdori o’ziga «Durri durron» unvonini qabul qilgan va Abdali qabilasining nomini “Durroniy” nomi bilan o’zgartirgan?**
 
-- Ahmadshoh (to'g'ri)
++ Ahmadshoh
 - Akbarshoh
 - Do’st Muhammadxon
 - Fathxon
@@ -6088,7 +6205,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1722-yilda
 - 1747-yilda
-- 1736-yilda (to'g'ri)
++ 1736-yilda
 - 1729-yilda
 
 **857. «Durri durron» so’zining ma’nosi nima?**
@@ -6096,33 +6213,33 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - «Ulug’lar ulug’i»
 - «Shohlar shohi»
 - «Buyuklar buyuki»
-- «Javohirlar javohiri» (to'g'ri)
++ «Javohirlar javohiri»
 
 **858. Buyuk Britaniya va Eron o’rtasida imzolangan Parij Tinchlik shartnomasiga ko’ra Eron qaysi hududlardan voz kechgan?**
 
 - Lahor va Bengaliyaning boshqa hududlaridan
 - Marv va Xurosonning boshqa hududlaridan
 - Balx va Seyistonning boshqa hududlaridan
-- Hirot va Afg’onistonning boshqa hududlaridan (to'g'ri)
++ Hirot va Afg’onistonning boshqa hududlaridan
 
 **859. Nodirshoh Afg‘onistonni itoatda tutib turish uchun Erondan ko‘plab jangchilarni oilalari bilan qaysi shaharga ko’chirgan?**
 
 - Balxga
 - Hirotga
-- Kobulga (to'g'ri)
++ Kobulga
 - Marvga
 
 **860. XIX asrda Eron taxti vorisi qarorgohi qaysi shaharda joylashgan edi?**
 
 - Kirmon shahrida
 - Sheroz shahrida
-- Tabriz shahrida (to'g'ri)
++ Tabriz shahrida
 - Isfahon shahrida
 
 **861. XIX asrda Eronda Amin ad-davla qanday lavozim bo’lgan?**
 
 - Bosh vazir
-- Moliya va ichki ishlar vaziri (to'g'ri)
++ Moliya va ichki ishlar vaziri
 - Saroy bosh tabibi
 - Harbiy vazir
 
@@ -6130,13 +6247,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Panjob
 - Mozandaron
-- Ozarbayjon (to'g'ri)
++ Ozarbayjon
 - Armaniston
 
 **863. Bobiylik ta’limotining asoschisi  sayyid Ali Muhammadning «Bob» taxallusining ma’nosi nima edi?**
 
 - «Haqiqat va adolat yo‘liga olib chiquvchi shaxs»
-- «Haqiqat va adolat yo‘liga olib chiquvchi eshik» (to'g'ri)
++ «Haqiqat va adolat yo‘liga olib chiquvchi eshik»
 - «Haqiqat va adolat yo‘liga olib chiquvchi e’tiqod»
 - «Haqiqat va adolat yo‘liga olib chiquvchi yo’l»
 
@@ -6145,12 +6262,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1830-1832-yillarda
 - 1827-1829-yillarda
 - 1825-1827-yillarda
-- 1826-1828-yillarda (to'g'ri)
++ 1826-1828-yillarda
 
 **865. Qachon Do‘st Muhammadxon ingliz-afg‘on do‘stlik shartnomasini imzolagan?**
 
 - 1857-yilda
-- 1855-yilda (to'g'ri)
++ 1855-yilda
 - 1870-yilda
 - 1863-yilda
 
@@ -6159,26 +6276,29 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Buyuk Britaniya va Rossiya o’rtasida bo’lib olingan edi
 - Rossiya mustamlakasi edi
 - Buyuk Britaniya mustamlakasi edi
-- Mustamlaka ham, qaram davlat ham emas edi (to'g'ri)
++ Mustamlaka ham, qaram davlat ham emas edi
 
 **867. Quyidagi XIX asr karikaturasida ayiq (Rossiya) va sher (Buyuk Britaniya) ning orasida turgan odam sifatida qaysi davlat tasvirlangan?**
 
+
+![](../images/astron76916867342611.png)
+
 - Hindiston
-- Afg’oniston (to'g'ri)
++ Afg’oniston
 - Turkiya
 - Eron
 
 **868. Birinchi ingliz-afg‘on urushida katta rol o’ynagan shaxsni toping.**
 
 - Ahmadshoh
-- Akbarshoh (to'g'ri)
++ Akbarshoh
 - Do’st Muhammadxon
 - Fathxon
 
 **869. XIX asrda Buyuk Britaniya Eronni qaysi shaharga bo’lgan da’vosidan voz kechishga majbur qilgan?**
 
 - Balxga
-- Hirotga (to'g'ri)
++ Hirotga
 - Marvga
 - Kobulga
 
@@ -6186,12 +6306,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Balx aholisi
 - Hirot aholisi
-- Kobul aholisi (to'g'ri)
++ Kobul aholisi
 - Marv aholisi
 
 **871. Qachon Qandahor xonligi Eron poytaxti Isfahonni  egallab olgan va Mir Vaysxonning o‘g‘li Mir Mahmud o‘zini Eron shohi deb e’lon qilgan?**
 
-- 1722-yilda (to'g'ri)
++ 1722-yilda
 - 1747-yilda
 - 1736-yilda
 - 1729-yilda
@@ -6199,7 +6319,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **872. Qachon Birinchi ingliz-afg‘on urushi bo’lib o’tgan?**
 
 - 1845-1847-yillarda
-- 1838-1842-yillarda (to'g'ri)
++ 1838-1842-yillarda
 - 1842-1845-yillarda
 - 1836-1838-yillarda
 
@@ -6207,7 +6327,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Moliyaviy kengashga
 - Diniy kengashga
-- Maxfiy kengashga (to'g'ri)
++ Maxfiy kengashga
 - Harbiy kengashga
 
 ## 32-§ 1800-1870-yillarda Afrika xalqlari.
@@ -6218,12 +6338,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Germaniya
 - Fransiya
 - Portugaliya
-- Buyuk Britaniya (to'g'ri)
++ Buyuk Britaniya
 
 **875. Madagaskar oroli qaysi okeanda joylashgan?**
 
 - Tinch okeanida
-- Hind okeanida (to'g'ri)
++ Hind okeanida
 - Atlantika okeanida
 - Shimoliy muz okeanida 
 
@@ -6231,26 +6351,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - AQSH dagi ilk qora tanli fuqaro Monro nomidan
 - AQSH dagi abolitsionist Monro nomidan
-- AQSH prezidenti Monro nomidan (to'g'ri)
++ AQSH prezidenti Monro nomidan
 - AQSH senatori Monro nomidan
 
 **877. Qaysi asrdan boshlab Afrika qit’asining ichkari qismini mustamlakaga aylantirish boshlangan?**
 
-- XIX asrdan (to'g'ri)
++ XIX asrdan
 - XVIII asrdan
 - XVII asrdan
 - XVI asrdan
 
 **878. Qaysi davlat Madagaskar orolini bosib olishga bir necha bor urinib ko‘rgan, lekin muvaffaqiyatsizlikka uchragan?**
 
-- Fransiya (to'g'ri)
++ Fransiya
 - Germaniya
 - Portugaliya
 - Buyuk Britaniya
 
 **879. Qachon Efiopiya imperatori Kassa Buyuk Britaniyaning aralashuvi bilan taxtdan ag’darilgan?**
 
-- 1867-yilda (to'g'ri)
++ 1867-yilda
 - 1847-yilda
 - 1830-yilda
 - 1853-yilda
@@ -6260,19 +6380,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Janubida
 - Shimolida
 - Sharqida
-- G’arbida (to'g'ri)
++ G’arbida
 
 **881. Afrikaliklarni qul qilib sotish qaysi davrgacha davom etgan?**
 
 - XX asr boshlarigacha
 - XIX asr оxirlarigacha
-- XIX asr о’rtalarigacha (to'g'ri)
++ XIX asr о’rtalarigacha
 - XIX asr boshlarigacha
 
 **882. Qachon Liberiya ozod davlati tuzilganligi e’lon qilingan?**
 
 - 1855-yilda
-- 1847-yilda (to'g'ri)
++ 1847-yilda
 - 1816-yilda
 - 1821-yilda
 
@@ -6281,32 +6401,35 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Efiopiya, Misr
 - Sudan, Madagaskar
 - Tunis, Marokash
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **884. XIX asrda Angola va Mozambik qaysi davlat mustamlakalari edi?**
 
 - Fransiya
 - Buyuk Britaniya
 - Gollandiya
-- Portugaliya (to'g'ri)
++ Portugaliya
 
 **885. Qachon Fransiya Jazoirni bosib olgan?**
 
 - 1867-yilda
 - 1847-yilda
-- 1830-yilda (to'g'ri)
++ 1830-yilda
 - 1853-yilda
 
 **886. Kimlar Oranj Respublikasi va Transvaal davlatini tuzishgan?**
 
-- Burlar (to'g'ri)
++ Burlar
 - Mulatlar
 - Kreollar
 - Metislar
 
 **887. Quyidagi xaritada alohida belgilangan hudud 1800-yil va 1870-yillarda qaysi davlatlarga tegishli bo’lgan?**
 
-- Gollandiya/Buyuk Britaniya (to'g'ri)
+
+![](../images/astron61394536716315.png)
+
++ Gollandiya/Buyuk Britaniya
 - Germaniya/Portugaliya
 - Portugaliya/Ispaniya
 - Fransiya/ Portugaliya
@@ -6316,19 +6439,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Fil suyagi savdosining
 - Olmos savdosining
 - Oltin savdosining
-- Qul savdosining (to'g'ri)
++ Qul savdosining
 
 **889. Kap koloniyasi aholisi bo’lgan “bur” so’zi qanday ma’noni anglatgan?**
 
 - Dengizchi
 - Jangchi
 - Fuqaro
-- Dehqon (to'g'ri)
++ Dehqon
 
 **890. Qachon jazoirliklar yo’lboshchisi Abdulqodir halok bo’lgan?**
 
 - 1867-yilda
-- 1847-yilda (to'g'ri)
++ 1847-yilda
 - 1830-yilda
 - 1853-yilda
 
@@ -6337,39 +6460,39 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1855-yilda
 - 1847-yilda
 - 1816-yilda
-- 1821-yilda (to'g'ri)
++ 1821-yilda
 
 **892. XIX asr oxiriga kelib, Afrika hududining qancha foizi mustamlakachilar qo‘liga o`tgan?**
 
 - 100 foizi
 - 80 foizi
-- 90 foizi (to'g'ri)
++ 90 foizi
 - 70 foizi
 
 **893. Qachon AQSH da erkinlikka erishgan qora tanli qullarni Afrikaga joylashtinsh harakati boshlangan?**
 
 - 1855-yilda
 - 1847-yilda
-- 1816-yilda (to'g'ri)
++ 1816-yilda
 - 1821-yilda
 
 **894. Kap koloniyasi aholisi bo’lgan burlar kimlarning avlodlari edi?**
 
 - Italyan, nemis va inglizlarning
-- Fransuz, nemis va gollandlarning (to'g'ri)
++ Fransuz, nemis va gollandlarning
 - Golland, portugal va ispanlarning
 - Ingliz, irland va nemislarning
 
 **895. XIX asrda qaysi Afrika davlatlari o’z mustaqilligini saqlab qola olgan?**
 
 - Sudan, Madagaskar
-- Liberiya, Efiopiya (to'g'ri)
++ Liberiya, Efiopiya
 - Tunis, Marokash
 - Zimbabve, Misr
 
 **896. Qachon kichik yer egasining о’g’li Kassa Efiopiyani yagona davlatga birlashtirib, o‘zini imperator deb e’lon qilgan?**
 
-- 1855-yilda (to'g'ri)
++ 1855-yilda
 - 1847-yilda
 - 1816-yilda
 - 1821-yilda

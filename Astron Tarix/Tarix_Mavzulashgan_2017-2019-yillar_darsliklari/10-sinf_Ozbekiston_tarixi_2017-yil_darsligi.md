@@ -10,7 +10,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1918-1991-yillar
 - 1922-1992-yillar
-- 1917-1991-yillar (to'g'ri)
++ 1917-1991-yillar
 - 1916-1991-yillar
 
 **2. 1925-yil fevralida quyida O’zbekiston tarixida bo’lgan voqeani toping.**
@@ -18,25 +18,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - O’zbekiston SSRning birinchi Konstitutsiyasi qabul qilingan
 - BXSR faoliyati tugatilgan
 - O’zbekiston SSR Kompartiyasining II plenumi bo’lib o’tgan
-- O’zbekiston SSR tuzilgan (to'g'ri)
++ O’zbekiston SSR tuzilgan
 
 **3. O‘zbekiston tarixida sovet davrining birinchi bosqichi qaysi yillarni o’z ichiga oladi?**
 
 - 1918-1931-yillar
 - 1922-1945-yillar
-- 1917-1924-yillar (to'g'ri)
++ 1917-1924-yillar
 - 1920-1938-yillar
 
 **4. “Tarix millatning o’tmishi, taraqqiyoti hamda tanazzuli sabablarini o’rganaturg’on ilmdir”, ushbu so’zlar muallifi kim?**
 
-- A. Fitrat (to'g'ri)
++ A. Fitrat
 - A. Cho’lpon
 - A. Avloniy
 - A. Qodiriy
 
 **5. Qachon O‘zbekiston Respublikasi Prezidenti Shavkat Mirziyoyev Oliy Majlis palatalarining qo‘shma majlisida so‘zlagan nutqida  yaqin o‘tmish tariximizga quyidagicha baho bergan edi: “O‘zbek xalqining  necha mingyillik tarixida qanday murakkab davrlar, og‘ir sinovlar bo‘lganini  barchamiz yaxshi bilamiz”?**
 
-- 2016-yil 14-dekabrda (to'g'ri)
++ 2016-yil 14-dekabrda
 - 2017-yil 22-dekabrda
 - 2017-yil 17-dekabrda
 - 2016-yil 24-dekabrda
@@ -46,7 +46,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1926-1991-yillar
 - 1941-1990-yillar
 - 1920-1990-yillar
-- 1925-1991-yillar (to'g'ri)
++ 1925-1991-yillar
 
 ## 1-§ Turkiston o‘lkasi 1917-yil fevral-oktyabr oralig‘ida.
 
@@ -55,26 +55,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Sho’roi Islomiya
 - Jadidlar
-- Sho’roi Ulamo (to'g'ri)
++ Sho’roi Ulamo
 - Butunturkiston musulmonlari soveti
 
 **8. Sho’royi Islomiya tarkibida nima sababdan bo’linish yuz beragan?**
 
 - Uning tarkibida ruslarga yon bosuvchilarning mavjudligi sababli
 - Uning tarkibida mahalliy aholini manfaatlarini ko’zlamaydiganlarning ham mavjudligi sababli
-- Uning tarkibida qadimchilarning va jadidchilar bilan kelishmovchiliklar mavjudligi sababli (to'g'ri)
++ Uning tarkibida qadimchilarning va jadidchilar bilan kelishmovchiliklar mavjudligi sababli
 - Uning tarkibidagi marifatparvarlarning yo’qligi sababli
 
 **9. “Sho’royi ulamo” jamiyatining qaysi shahardagi shubasiga Mulla Muhiddinxon va Mulla Ulug’xon To’rayevlar boshchilik qilgan?**
 
-- Qo’qondagi (to'g'ri)
++ Qo’qondagi
 - Namangandagi
 - Samarqanddagi
 - Toshkentdagi
 
 **10. Rossiyadagi Fevral inqilobiga oid to’g’ri ma’lumotlarni toping. 1) Petrograddagi harakatlar fevral inqilobi g’alabasi bilan yakunlangan; 2) Samoderjaviyega barham berilgan; 3) Imperatorning cheksiz hukumronligiga barham berilgan; 4) Nikolay II o’z xohishi bilan taxtdan voz kechgan; 5) Moskvada Davlat Dumasining Muvaqqat komiteti tuzilgan; 6) Muvaqqat hukumatga Aleksey Kerenskiy 1917-yilning iyun-oktyabr oylarida boshchilik qilgan.**
 
-- 1, 2, 3, 4 (to'g'ri)
++ 1, 2, 3, 4
 - 1, 3, 4, 6
 - 1, 3, 5, 6
 - 1, 2, 4, 6
@@ -84,25 +84,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1917-yil 4-mart kuni
 - 1917-yil 8-mart kuni
 - 1917-yil 5-mart kuni
-- 1917-yil 2-mart kuni (to'g'ri)
++ 1917-yil 2-mart kuni
 
 **12. Qachon Rossiyada “Fevral inqilobi” sodir bo’lgan?**
 
 - 1917-yil 26-fevralda
 - 1917-yil 17-fevralda
 - 1918-yil 19-fevralda
-- 1917-yil 27-fevralda (to'g'ri)
++ 1917-yil 27-fevralda
 
 **13. 1917-yil 7-aprelda Turkiston o’lkasini idora qilish uchun 9 kishidan iborat Komitet qayerda tuzilgan?**
 
 - Moskvada
-- Toshkentda (to'g'ri)
++ Toshkentda
 - Petrogradda
 - Qo’qonda
 
 **14. “Sho’roi islomiya” tashkiloti qachon va qayerda tashkil topgan?**
 
-- Toshkentda, 1917-yil 14-martda (to'g'ri)
++ Toshkentda, 1917-yil 14-martda
 - Qo’qonda, 1917-aprel oyida
 - Xivada, 1917-yil mart oyida
 - Buxoroda, 1917-yil 14-mayda
@@ -111,26 +111,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1917-yil iyulda
 - 1917-yil noyabrda
-- 1917-yil iyunda (to'g'ri)
++ 1917-yil iyunda
 - 1917-yil aprelda
 
 **16. Turkiston o’lka musulmonlari kengashiga (Kraymussovet) kim raislik qilgan?**
 
 - Ubaydullaxo’ja Asadullaxo’jayev
 - Abdulvohidqori Abduraufqori o’g’li
-- Mustafo Cho’qay (to'g'ri)
++ Mustafo Cho’qay
 - Zaki Validiy
 
 **17. “Sho’royi ulamo” jamiyatining eng yirik shubasi qaysi shaharda joylashgan edi?**
 
-- Qo’qonda (to'g'ri)
++ Qo’qonda
 - Namanganda
 - Samarqandda
 - Toshkentda
 
 **18. “Sho’royi islomiya” tashkilotiga keyinchalik kim raislik qilgan?**
 
-- Ubaydullaxo’ja Asadullaxo’jayev (to'g'ri)
++ Ubaydullaxo’ja Asadullaxo’jayev
 - Abdulvohidqori Abduraufqori o’g’li
 - Mustafo Cho’qay
 - Zaki Validiy
@@ -140,32 +140,32 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Qo’qon
 - Namangan
 - Samarqand
-- Toshkent (to'g'ri)
++ Toshkent
 
 **20. Qachon oxirgi Turkiston general-gubernatori uy qamog’iga tashlangan?**
 
 - 1918-yil 14-mart kuni
 - 1917-yil 17-mart kuni
-- 1917-yil 31-mart kuni (to'g'ri)
++ 1917-yil 31-mart kuni
 - 1918-yil 12-mart kuni
 
 **21. Turkiston o’lka musulmonlari kengashining gazetasini toping.**
 
-- “Sho’roi islom” (to'g'ri)
++ “Sho’roi islom”
 - “Sho’roi ulamo”
 - “Samarqand”
 - “Turkiston”
 
 **22. 1917-yil 16-23-aprel kunlari Toshkentda ... .**
 
-- Butun Turkiston musulmonlarining I qurultoyi bo’lib o’tgan (to'g'ri)
++ Butun Turkiston musulmonlarining I qurultoyi bo’lib o’tgan
 - Sho’roi islomiya tashkil topgan
 - Sho’roi ulamo tashkil topgan
 - Turkkomissiya tuzilgan
 
 **23. Rossiyadagi Muvaqqat hukumatga 1917-mart-iyul oylarida boshchilik qilgan shaxsni toping.**
 
-- Georgiy Lvov (to'g'ri)
++ Georgiy Lvov
 - Aleksandr Kerenskiy
 - A.N. Kuropatkin
 - Nikolay Shchepkin
@@ -173,7 +173,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **24. “Sho’roi islomiya” tashkilotiga dastavval kim raislik qilgan?**
 
 - Ubaydullaxo’ja Asadullaxo’jayev
-- Abdulvohidqori Abduraufqori o’g’li (to'g'ri)
++ Abdulvohidqori Abduraufqori o’g’li
 - Mustafo Cho’qay
 - Zaki Validiy
 
@@ -182,32 +182,32 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Farg’ona va Andijonda
 - Namangan va Buxoroda
 - Buxoroda va Samarqand
-- Toshkent va Qo’qonda (to'g'ri)
++ Toshkent va Qo’qonda
 
 **26. Qaysi guruh sovetlar ichida dehqonlar manfaati himoya qilgan?**
 
 - Kadetlar
 - Bolsheviklar
-- Eserlar (to'g'ri)
++ Eserlar
 - Mensheviklar
 
 **27. Oxirgi Turkiston general-gubernatori kim?**
 
 - Duxovskiy
-- Kuropatkin (to'g'ri)
++ Kuropatkin
 - Verevskiy
 - Kaufman
 
 **28. “Sho’royi ulamo” va “Sho’royi Islomiya” tashkilotlari birlashib …. ni tashkil etgan.**
 
-- “Ittifoqi muslimin” (to'g'ri)
++ “Ittifoqi muslimin”
 - “Ulamochilar jamiyati”
 - “Musulmonlar jamiyati”
 - “Ozod turkiston jamiyati”
 
 **29. Turkiston o’lka musulmonlari kengashida kimlar kotib vazifasini bajargan?**
 
-- M. Abdurashidxonov, Zaki Validiy (to'g'ri)
++ M. Abdurashidxonov, Zaki Validiy
 - Zaki Validiy, Mustafo Cho’qay
 - Behbudiy, Munavvarqori
 - Munavvarqori, A. Fitrat
@@ -215,13 +215,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **30. Quyidagi qaysi qurutoyida Turkistonga muxtoriyat berish vazifasi qo’yilgan edi?**
 
 - Turkiston o’lka musulmonlari kengashida
-- Butunturkiston o’lka musulmonlarining I qurultoyida (to'g'ri)
++ Butunturkiston o’lka musulmonlarining I qurultoyida
 - Turkkomissiyaning IV sezdida
 - Sho’royi ulamoning Qo’qondagi I qurultoyida
 
 **31. Rossiya hududida grigoryan kalendarini joriy qilish bo’yicha RSFSR Xalq Komissarlari Soveti raisining maxsus dekreti qachon qabul qilingan?**
 
-- 1918-yil 26-yanvarda (to'g'ri)
++ 1918-yil 26-yanvarda
 - 1918-yil 26-noyabrda
 - 1918-yil 19-fevralda
 - 1918-yil 13-martda
@@ -229,20 +229,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **32. Rossiya hududida grigorian kalendari joriy qilinganda, amalda mavjud bo‘lgan kalendardagi necha kunlik farq tuzatilgan?**
 
 - 11 kunlik
-- 13 kunlik (to'g'ri)
++ 13 kunlik
 - 15 kunlik
 - 17 kunlik
 
 **33. 1917-yilda Turkistonda uch hokimiyatchilik paydo bo’lgan bo’lib, bular Rossiya Muvaqqat hukumatining Turkiston komiteti, Turkistondagi ishchi va askar deputatlarining mahalliy va markaziy Sovetlari va   … hokimiyati edi.**
 
-- Turkiston o’lka musulmonlari soveti (to'g'ri)
++ Turkiston o’lka musulmonlari soveti
 - Sho’roi ulamo
 - Sho’roi islomiya
 - Turkiston bolsheviklari
 
 **34. Turkiston o’lka musulmonlari kengashi qachon tashkil topgan?**
 
-- 1917-yil aprelda (to'g'ri)
++ 1917-yil aprelda
 - 1918-yil martda
 - 1919-yil iyunda
 - 1918-yil dekabrda
@@ -251,21 +251,24 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1903-yilda
 - 1904-yilda
-- 1905-yilda (to'g'ri)
++ 1905-yilda
 - 1906-yilda
 
 **36. “Rusiyada bosh ko’targan yangi bir balo, Bolshevik balosi” degan so’zlar muallifi kim?**
 
-- A. Fitrat (to'g'ri)
++ A. Fitrat
 - A. Cho’lpon
 - A. Avloniy
 - A. Qodiriy
 
 **37. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron0989077984135.png)
+
 - Ahmad Zaki Validiy
 - Abdurauf Fitrat
-- Ubaydulla Xo’jayev (to'g'ri)
++ Ubaydulla Xo’jayev
 - Mahmudxo’ja Behbudiy
 
 **38. Quyidagi qaysi voqea Turkiston o’lka musulmon aholisini siyosiy jihatdan uyg’otishda, demokratik o’zgarishlarga boshchilik qilmoqchi bo’lgan yangi kuchlarning siyosiy maydonga chiqishida muhim ahamiyat kasb etgan?**
@@ -273,39 +276,42 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - O’zbekiston SSRning birinchi Konstitutsiyasining qabul qilinishi
 - BXSR faoliyati tugatilishi
 - O’zbekiston SSRning II plenumi
-- 1917-yil Fevral inqilobi (to'g'ri)
++ 1917-yil Fevral inqilobi
 
 **39. Quyidagi so’zlardan qaysi biri Mahmudxo’ja Behbudiyga tegishli?**
 
 - “Tarix millatning o’tmishi taraqqiyoti hamda tanazzuli sabablarini o’rganaturg’on ilmdir”
 - “Rusiyada bosh ko’targan yangi bir balo, bolshevik balosi”
-- “Haq olinur, berilmas” (to'g'ri)
++ “Haq olinur, berilmas”
 - “Tarix millatning kelajagi va poydevoridur”
 
 **40. 1917-yil Turkiston o’lkasini idora qilish uchun tuzilgan Komitetga oid to’g’ri ma’lumotni toping. 1) Turkiston komitetiga kadetlar partiyasi vakili Nikolay Shchepkin va eserlardan Vladimir Nakivkin raislik qilishgan; 2) Uning tarkibiga yevropaliklardan tashqari mahalliy vakillardan M.Tinishboyev, Alixon Bukeyxonov, Sadri Maqsudiy, Abdul Aziz Davletshinlar ham kirgan; 3) Komitet a’zolarining deyarli barchasi mahalliy sharoitni yaxshi bilishmas va kuchsiz siyosatchi edilar.**
 
 - 1, 2
 - 1, 3
-- 1, 2, 3 (to'g'ri)
++ 1, 2, 3
 - 2, 3
 
 **41. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron573053299489.png)
+
 - Abdurauf Fitrat
-- Ahmad Zaki Validiy (to'g'ri)
++ Ahmad Zaki Validiy
 - Ubaydulla Xo’jayev
 - Mahmudxo’ja Behbudiy
 
 **42. “Sho’royi ulamo” jamiyatining dasturida quyidagi qaysi jumlalar keltirilgan edi? 1) Ichki siyosiy tuzilmada shariat qonunlarga qatiy rioya qilish; 2) Milliy qadriyatlarga qat’iy rioya qilish; 3) Milliy-diniy qadriyatlarni yuksaltirishga da’vat etilgan; 4) Madrasalarni iqtisodiy jihatdan qo’llab-quvvatlash aytilgan.**
 
 - 1, 2, 3
-- 1, 3, 4 (to'g'ri)
++ 1, 3, 4
 - 1, 2, 3, 4
 - 2, 3, 4
 
 **43. Rossiyada “Bolsheviklar” guruhi qachon tashkil etilgan?**
 
-- 1903-yilda (to'g'ri)
++ 1903-yilda
 - 1904-yilda
 - 1905-yilda
 - 1906-yilda
@@ -313,14 +319,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **44. “Sho’royi ulamo” va “Sho’royi Islomiya” tashkilotlari qachon tugatilgan?**
 
 - 1918-yil aprel oyida
-- 1918-yil may oyida (to'g'ri)
++ 1918-yil may oyida
 - 1918-yil iyul oyida
 - 1918-yil sentyabr oyida
 
 **45. Turkiston o’lka musulmonlari kengashining Samarqand, Namangan, O’sh, Marvdagi sho’balari qachon tashkil etilganligini toping.**
 
 - 1917-yil mart oyida
-- 1917-yil aprel oyida (to'g'ri)
++ 1917-yil aprel oyida
 - 1918-yil aprel oyida
 - 1918-yil noyabr oyida
 
@@ -332,25 +338,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Kuropatkin
 - Pavlienko
 - Kolesov
-- Perfilev (to'g'ri)
++ Perfilev
 
 **47. Turkiston o’lka Xalq Komissarlari Soveti qachon tuzilgan?**
 
-- 1917-yil 15-22-noyabrda (to'g'ri)
++ 1917-yil 15-22-noyabrda
 - 1917-yil 18-24-noyabrda
 - 1918-yil 12-22-noyabrda
 - 1918-yil 11-12-noyabrda
 
 **48. Petrogradda ochilgan Butunrossiya sovetlarining II sezdida bolsheviklar dastlab so’l eserlar bilan hamkorlikda Muvaqqat hukumat ag’darilganligini qo’llab-quvvatlab … ni e’lon qildilar.**
 
-- “Tinchlik va yer to’g’risidagi dekret” (to'g'ri)
++ “Tinchlik va yer to’g’risidagi dekret”
 - “Mamlakat mustamlakachiligini yanada kengaytirish haqida dekret”
 - “Buturossiyani yagona markazlashtirish to’g’risida dekret”
 - “Tuzilajak davlatni bolsheviklar ixtiyorida ekanligi haqida dekret”
 
 **49. Turkiston o’lka musulmonlarining Markaziy Kengashi qachon o’z qarorgohini Qo’qonga ko’chirgan?**
 
-- 1917-yilning noyabr oyi boshida (to'g'ri)
++ 1917-yilning noyabr oyi boshida
 - 1917-yilning oktyabr oyi boshida
 - 1918-yilning dekabr oyi boshida
 - 1918-yilning fevral oyi boshida
@@ -358,7 +364,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **50. Turkistonning Skobelov va Samarqand shaharlarida sovetlar hokimiyati qachon o’rnatilgan?**
 
 - 1917-yil oktyabrda
-- 1917-yil noyabrda (to'g'ri)
++ 1917-yil noyabrda
 - 1918-yil dekabrda
 - 1918-yil yanvarda
 
@@ -367,11 +373,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1917-yilning 15-22-noyabrda
 - 1917-yilning 17-22-noyabrda
 - 1917-yilning 17-19-noyabrda
-- 1917-yilning 12-15-noyabrda (to'g'ri)
++ 1917-yilning 12-15-noyabrda
 
 **52. Qachon bolsheviklar Petrograd va Moskva Sovetlarida ko‘pchilikni egallagan hamda hokimiyatni bosib olish uchun qurolli to‘ntarishga tayyorgarlik ko‘rgan?**
 
-- 1917-yil avgust oxiri – sentyabr boshlarida (to'g'ri)
++ 1917-yil avgust oxiri – sentyabr boshlarida
 - 1917-yil sentyabr oxiri – oktyabr boshlarida
 - 1916-yil avgust oxiri – sentyabr boshlarida
 - 1916-yil oktyabr oxiri – noyabr boshlarida
@@ -380,26 +386,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 2 kunlik
 - 3 kunlik
-- 4 kunlik (to'g'ri)
++ 4 kunlik
 - 5 kunlik
 
 **54. Turkistonni bolsheviklar tomonidan zo’ravonlik bilan egallanishini Sho’roi Ulamoning qayerdagi shubasi qo’llab-quvvatlaygan?**
 
 - Samarqanddagi
 - Namangandagi
-- Toshkentdagi (to'g'ri)
++ Toshkentdagi
 - Skobelovdagi
 
 **55. Turkiston o‘lka Xalq Komissarlari Sovetida qancha o‘rin so‘l eserlarga, qancha o‘rin bolsheviklar bilan maksimalistlarga berilgan?**
 
 - 7 o’rin/8 o’rin
-- 8 o’rin/7 o’rin (to'g'ri)
++ 8 o’rin/7 o’rin
 - 7 o’rin/7 o’rin
 - 8 o’rin/8 o’rin
 
 **56. Quyidagi javoblardan “Turli musulmon guruhlarining birlashgan kengashi” ga oid to’g’ri javoblarni toping. 1) Kengash kun tartibida “Turkistonda hokimiyatni tashkil etish” masalasi turar edi; 2) Kengash o‘rinlarining yarmi musulmon aholisi vakillariga beriladigan koalitsion hukumat tuzishni yoqlab chiqqan; 3) Bolsheviklar o‘zlari bilan koalitsion hukumat tuzishni orzu qilgan Sherali Lapin boshchiligidagi ulamochilarning fikrlarini qat’iy suratda rad etishgan; 4) Ulamochilarning koalitsion hukumat talabini milliy demokratik kuchlar ham qo‘llab-quvvatlamagan; 5) Koalitsion hukumatda yevropaliklarga 8 ta o’rin berish ko’zda tutilgan edi.**
 
-- 1, 2, 3, 4 (to'g'ri)
++ 1, 2, 3, 4
 - 1, 2, 4, 5
 - 1, 3, 4, 5
 - 1, 2, 3, 4, 5
@@ -409,12 +415,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Qo’qon/Toshkent va Sirdaryo
 - Toshkent/Sirdaryo va Surxondaryo
 - Samarqand/Toshkent va Farg’ona
-- Toshkent/Sirdaryo va Samarqand (to'g'ri)
++ Toshkent/Sirdaryo va Samarqand
 
 **58. Petrogradda oktyabr to’ntarilishi yuz bergan davrda Turkiston o’lkasi bosh komissari kim edi?**
 
 - Kuropatkin
-- Korovichenko (to'g'ri)
++ Korovichenko
 - Kolesov
 - Perfilyev
 
@@ -422,19 +428,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Kuropatkin
 - Pavlienko
-- Kolesov (to'g'ri)
++ Kolesov
 - Perfilyev
 
 **60. Oktyabr inqilobidan keyin qachondan boshlab Toshkentning yangi shahrida qurolli to‘qnashuvlar avj olgan?**
 
 - 1917-yil 26-oktyabrdan
 - 1917-yil 27-oktyabrdan
-- 1917-yil 28-oktyabrdan (to'g'ri)
++ 1917-yil 28-oktyabrdan
 - 1917-yil 29-oktyabrdan
 
 **61. Turkistonda bolsheviklar kimlarga tayangan holda o’z diktaturasini o’rnatgan?**
 
-- Yevropalik ishchilar, qizil gvardiyachilar va boshqa harbiy qismlarga (to'g'ri)
++ Yevropalik ishchilar, qizil gvardiyachilar va boshqa harbiy qismlarga
 - Harbiy qism garnizoni, so’l eserlar va kadetlarga
 - Qizil gvardiyachilar, eserlar va kadetlarga
 - Mahalliy zodagonlar va chor hokimiyatidan norozi aholiga
@@ -445,13 +451,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **62. Turkiston Muxtoriyatiga hujum paytida, Qo’qon shahri ustiga necha kun davomida to‘plardan yondiruvchi snaryadlar otilgan?**
 
 - 2 kun davomida
-- 3 kun davomida (to'g'ri)
++ 3 kun davomida
 - 5 kun davomida
 - 7 kun davomida
 
 **63. 1917-yil 18-fevraldan boshlab amalda Turkiston muxtoriyati hukumatining rahbariga aylangan shaxs kim?**
 
-- Kichik Egash (to'g'ri)
++ Kichik Egash
 - Katta Ergash
 - Madaminbek
 - Qosim Ponsod
@@ -459,13 +465,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **64. Turkiston Muxtoriyati himoyasida dastlabki jangda muxtoriyatning milliy qo‘shinidan tashqari, asosan bolta, cho‘kich, tayoq ko‘targan qancha kishiga yaqin qo‘qonlik tinch aholi vakillari ham qatnashgan?**
 
 - 5 000 kishiga yaqin
-- 10 000 kishiga yaqin (to'g'ri)
++ 10 000 kishiga yaqin
 - 15 000 kishiga yaqin
 - 20 000 kishiga yaqin
 
 **65. Qaysi gazetada yozilishicha, Turkiston Muxtoriyati hukumatini tan olib Toshkentda 60 000 kishidan iborat namoyish bo’lib o’tgan?**
 
-- “Ulug’ Turkiston” gazetasida (to'g'ri)
++ “Ulug’ Turkiston” gazetasida
 - “Al-Izoh” gazetasida
 - “El bayrog’i” gazetasida
 - “Turkestanskiye vedemosti” gazetasida
@@ -474,12 +480,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Solomon Gersfeld
 - Hidoyatbek Yurug’li Agayev
-- Obidjon Mahmudov (to'g'ri)
++ Obidjon Mahmudov
 - Abdurahmon O’razayev
 
 **67. “Xo‘qand hozir o‘liklar  shahri” degan ibora qaysi gazetada chiqqan?**
 
-- “Ulug’ Turkiston” gazetasida (to'g'ri)
++ “Ulug’ Turkiston” gazetasida
 - “Al-Izoh” gazetasida
 - “El bayrog’i” gazetasida
 - “Turkestanskiye vedemosti” gazetasida
@@ -487,27 +493,27 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **68. Butunturkiston o’lka musulmonlarining favqulotda IV qurultoyida ko’rilgan asosiy masalani toping.**
 
 - Turkistonni yagona davlatga aylantirish masalasi
-- Turkistonni boshqarish shakli masalasi (to'g'ri)
++ Turkistonni boshqarish shakli masalasi
 - Turkistoning yer-suv masalasi
 - Turkistonni rus bosqinidan xalos etish masalasi
 
 **69. Turkiston Muxtoriyatining yer va suv boyliklari vaziri etib kim tayinlangan?**
 
 - Solomon Gersfeld
-- Hidoyatbek Yurg’uli Agayev (to'g'ri)
++ Hidoyatbek Yurg’uli Agayev
 - Islom Sulton Shoahmedov
 - Abdurahmon O’razayev
 
 **70. Turkistondagi barcha aholi: irqi, millati, dini, jinsi, yoshi va siyosiy e’tiqodlaridan qat’i nazar, yakdillik va hamjihatlikka da’vat etilgan Turkiston Muxtoriyatining Muvaqqat hukumati a’zolari (8 kishi) imzolagan maxsus Murojaatnoma qachon e’lon qilingan?**
 
-- 1917-yil 1-dekabrda (to'g'ri)
++ 1917-yil 1-dekabrda
 - 1917-yil 2-dekabrda
 - 1917-yil 9-dekabrda
 - 1917-yil 6-dekabrda
 
 **71. Turkiston Muxtoriyati hukumatini alqab sherlar yozgan shoirlarni toping.**
 
-- Cho’lpon, Fitrat, Hamza (to'g'ri)
++ Cho’lpon, Fitrat, Hamza
 - Cho’lpon, Fitrat, Behbudiy
 - Fitrat, Behbudiy, Munavvarqori
 - Behbudiy, Munavvarqori, Abdulla Qahhor
@@ -515,13 +521,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **72. Turkiston o‘lka XKS qachon Turkiston Muxtoriyatiga qarshi harbiy harakatlarni boshlgan?**
 
 - 1918-yil 27-yanvarda
-- 1918-yil 30-yanvarda (to'g'ri)
++ 1918-yil 30-yanvarda
 - 1918-yil 29-yanvarda
 - 1918-yil 26-yanvarda
 
 **73. “Dashnoqsutyun partiyasi” qaysi xalqning partiyasi hisoblanadi?**
 
-- Armanlarning (to'g'ri)
++ Armanlarning
 - Gruzinlarning
 - Tatarlarning
 - Boshqirdlarning
@@ -530,7 +536,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 12 eshelon
 - 10 eshelon
-- 11 eshelon (to'g'ri)
++ 11 eshelon
 - 13 eshelon
 
 **75. Turkiston Muxtoriyati ichki-ishlar vazirining o’rinbosari  etib kim tayinlangan?**
@@ -538,11 +544,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Solomon Gersfeld
 - Hidoyatbek Yurug’li Agayev
 - Islom Sulton Shoahmedov
-- Abdurahmon O’razayev (to'g'ri)
++ Abdurahmon O’razayev
 
 **76. Butunturkiston o’lka musulmonlarining favqulotda IV qurultoyi qachon va qayerda o’tkazilgan?**
 
-- 1917-yilning 26-28-noyabr kunlarida Qo’qonda (to'g'ri)
++ 1917-yilning 26-28-noyabr kunlarida Qo’qonda
 - 1917-yilning 26-28-oktyabr kunlarida Toshkentda
 - 1918-yilning 26-28-yanvar kunlarida Samarqanda
 - 1918-yilning 26-28-dekabr kunlarida Buxoroda
@@ -551,20 +557,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Kolonna
 - Abordaj
-- Eshelon (to'g'ri)
++ Eshelon
 - Polk
 
 **78. Qaysi gazeta o‘z sahifalarida muxtoriyat hukumati faoliyatiga alohida o‘rin bergan?**
 
 - “Hurriyat”
-- “Ulug‘ Turkiston” (to'g'ri)
++ “Ulug‘ Turkiston”
 - “El bayrog‘i”
 - “Birlik tug‘i”
 
 **79. “Ulug‘ Turkiston” gazetasi chuqur qayg‘u bilan xabar berganidek, “... Xo‘qand (Qo‘qon) tarixining eng dahshatli kuni edi. Armanilar ayricha faoliyat ko‘rsatganlar”.**
 
 - 18-fevral
-- 20-fevral (to'g'ri)
++ 20-fevral
 - 21-fevral
 - 22-fevral
 
@@ -572,26 +578,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Cho’lpon
 - Behbudiy
-- Munavvarqori (to'g'ri)
++ Munavvarqori
 - Fitrat
 
 **81. Turkiston Muxtoriyati hukumati a’zolarining mutaxasisligi bilan mos javobni toping. 1) Muhammadjon Tinishboyev; 2) Solomon Gersfeld, Mustafo Cho’qay, Abdurahmon O’razayev, Ubaydulla Xo’jayev; 3) Hidoyatbek Yurug’li Agayev; 4) Obidjon Mahmudov. a) tog’-kon sanoati  mutaxasisi; b) agranom; c) huquqshunos; d) temiryo’l muhandisi.**
 
 - 1-b, 2-a, 3-c, 4-d
-- 1-d, 2-c, 3-b, 4-a (to'g'ri)
++ 1-d, 2-c, 3-b, 4-a
 - 1-a, 2-c, 3-b, 4-d
 - 1-a, 2-b, 3-c, 4-d
 
 **82. Muxtor Turkiston hukumatini tan olinganini e’lon qilib, Toshkentda 60 000 kishidan iborat namoyish qachon bo’lib o’tgan?**
 
-- 1917-yil dekabrda (to'g'ri)
++ 1917-yil dekabrda
 - 1917-yil yanvarda
 - 1917-yil noyabrda
 - 1918-yil fevralda
 
 **83. Quyidagilardan qaysilari Turkiston Muxtoriyatining nashrlari hisoblanadi? 1) “El bayrog’i”; 2) “Birlik tug’i”; 3) “Свободный Туркестан”; 4) “Ulug’ Turkiston”.**
 
-- 1, 2, 3 (to'g'ri)
++ 1, 2, 3
 - 1, 2, 4
 - 1, 3, 4
 - 1, 2, 3, 4
@@ -599,13 +605,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **84. Turkiston Muxtoriyati hukumati necha kun mavjud bo’lgan?**
 
 - 76 kun
-- 72 kun (to'g'ri)
++ 72 kun
 - 81 kun
 - 87 kun
 
 **85. Qachon Turkiston o‘lkasi ishchi, soldat va dehqon deputatlari Sovetlarining favqulodda bo‘lib o‘tgan IV syezdida Turkiston Muxtoriyati hukumatini kuch bilan tugatishga qaror qilingan?**
 
-- 1918-yil 19-26-yanvarda (to'g'ri)
++ 1918-yil 19-26-yanvarda
 - 1918-yil 20-25-yanvarda
 - 1918-yil 13-19-yanvarda
 - 1918-yil 11-15-yanvarda
@@ -613,7 +619,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **86. Qayerda bo’lib o’tgan viloyat Sovetlarining syezdida yig’ilganlar Turkiston Muxtoriyatiga qo’shilishga qaror qabul qilganlar va Millat Majlisi tarkibiga 5 vakil saylaganlar?**
 
 - Toshkentda
-- Samarqandda (to'g'ri)
++ Samarqandda
 - Qo’qonda
 - Buxoroda
 
@@ -621,7 +627,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Mahmudxo’ja Behbudiy
 - Ubaydulla Xo’jayev
-- Mustafo Cho‘qay (to'g'ri)
++ Mustafo Cho‘qay
 - Kichik Ergash
 
 **88. Butunturkiston o‘lka musulmonlarining favqulodda IV qurultoyi yig‘ilishda Butunrossiya Ta’sis Majlisi chaqirilgunga qadar hokimiyat … va …  qo‘lida bo‘lishi kerak, deb qaror qabul qilgan.**
@@ -629,26 +635,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Muvaqqat Harbiy Kengash, Majlisi Oliy
 - Turkiston Harbiy Kengashi, Turkiston Xalq (Millat) Majlisi
 - Milliy Mudofaa Kengashi, Ulamolar Majlisi
-- Turkiston Muvaqqat Kengashi, Turkiston Xalq (Millat) Majlisi (to'g'ri)
++ Turkiston Muvaqqat Kengashi, Turkiston Xalq (Millat) Majlisi
 
 **89. Turkiston Muxtoriyati hukumati aholini ocharchilik changalidan qutqarish uchun qayerdan mamlakatga g’alla olib kelish ishlarida amaliy qadamlar tashlagan?**
 
 - Qozog’istondan Orenburg orqali
 - Sibirdan Kavkaz orqali
-- Kavkazdan Orenburg orqali (to'g'ri)
++ Kavkazdan Orenburg orqali
 - Erondan Turkmaniston orqali
 
 **90. Qachon tarkib topayotgan yangi hukumatning nomi Turkiston Muxtoriyati deb ataladigan bo‘lgan?**
 
 - 1917-yil 27-noyabrda
 - 1917-yil 29-noyabrda
-- 1917-yil 28-noyabrda (to'g'ri)
++ 1917-yil 28-noyabrda
 - 1917-yil 23-noyabrda
 
 **91. Turkiston Muxtoriyatining markazi qaysi shahar edi?**
 
 - Toshkent
-- Qo’qon (to'g'ri)
++ Qo’qon
 - Samarqand
 - Namangan
 
@@ -657,18 +663,21 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Muhammadjon Tinishboyev
 - Islom Sulton Shoahmedov
 - Mustafo Cho’qay
-- Ubaydulla Xo’jayev (to'g'ri)
++ Ubaydulla Xo’jayev
 
 **93. Quyidagi suratda 1918-yilda qizil askarlar tomonidan tor-mor etilgan qaysi shaharning ko’rinishi tasvirlangan?**
 
+
+![](../images/astron959326626342.png)
+
 - Xiva
-- Qo’qon (to'g'ri)
++ Qo’qon
 - Samarqand
 - Toshkent
 
 **94. Turkiston Muxtoriyatining moliya vaziri  etib kim tayinlangan?**
 
-- Solomon Gersfeld (to'g'ri)
++ Solomon Gersfeld
 - Hidoyatbek Yurug’li Agayev
 - Islom Sulton Shoahmedov
 - Abdurahmon O’razayev
@@ -677,7 +686,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - M. Behbudiyning
 - A. Fitratning
-- O. Mahmudovning (to'g'ri)
++ O. Mahmudovning
 - H. Niyoziyning
 
 **96. Muxtoriyat e’lon qilingan 27-noyabr kunini “Milliy Laylatul qadrimiz” deb kim nomlagan?**
@@ -685,32 +694,32 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Cho’lpon
 - Behbudiy
 - Qodiriy
-- Fitrat (to'g'ri)
++ Fitrat
 
 **97. Turkiston Muxtoriyatiga qizil armiya hujumi davomida, Qo‘qonning o‘zida 3 kun davomida qancha kishi o‘ldirilgan?**
 
 - 14 000 kishi
 - 11 000 kishi
 - 12 000 kishi
-- 10 000 kishi (to'g'ri)
++ 10 000 kishi
 
 **98. Turkiston Muxtoriyatida hukumat iqtisodiy sohada qancha miqdorida ichki zayom chiqarishni yo‘lga qo‘ygan?**
 
 - 20 million so‘m
 - 25 million so‘m
 - 35 million so‘m
-- 30 million so‘m (to'g'ri)
++ 30 million so‘m
 
 **99. Turkiston Muxtoriyatining bosh vaziri etib kim tayinlangan?**
 
-- Muhammadjon Tinishboyev (to'g'ri)
++ Muhammadjon Tinishboyev
 - Islom Sulton Shoahmedov
 - Mustafo Cho’qay
 - Ubaydulla Xo’jayev
 
 **100. Turkiston Muxtoriyati qachon tashkil topgan?**
 
-- 1917-yil 27-noyabrda (to'g'ri)
++ 1917-yil 27-noyabrda
 - 1917-yil 21 noyabrda
 - 1917-yil 24-dekabrda
 - 1917-yil 23-fevralda
@@ -719,28 +728,28 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Yettisuvda
 - Xorazmda
-- Farg’onada (to'g'ri)
++ Farg’onada
 - Buxoroda
 
 **102. Turkiston Muxtoriyatining harbiy vaziri boshchiligida harbiy ko’rik (parad) qachon o’tkazilganligini va unda qancha askar qatnashganligini toping.**
 
 - 1918-yilda, 1200 askar
 - 1919-yilda, 2500 askar
-- 1918-yilda, 2000 askar (to'g'ri)
++ 1918-yilda, 2000 askar
 - 1917-yilda, 2000 askar
 
 **103. Turkiston Muxtoriyatining bosh vazir o’rinbosari etib kim tayinlangan?**
 
 - Solomon Gersfeld
 - Hidoyatbek Yurug’li Agayev
-- Islom Sulton Shoahmedov (to'g'ri)
++ Islom Sulton Shoahmedov
 - Abdurahmon O’razayev
 
 **104. Turkiston Muxtoriyatining tashqi ishlar vaziri etib kim tayinlangan?**
 
 - Muhammadjon Tinishboyev
 - Islom Sulton Shoahmedov
-- Mustafo Cho’qay (to'g'ri)
++ Mustafo Cho’qay
 - Ubaydulla Xo’jayev
 
 **105. Turkiston Muxtoriyatining mavjudligini katta xavf deb bilgan Toshkent Soveti rahbar kim edi?**
@@ -748,33 +757,39 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Krovichenko
 - A. Kerenskiy
 - G. Lvov
-- Ivan Tobolin (to'g'ri)
++ Ivan Tobolin
 
 **106. Turkiston Muxtoriyati Muvaqqat Kengashining tarkibi necha kishidan iborat bo’lgan?**
 
 - 5 kishi
-- 8 kishi (to'g'ri)
++ 8 kishi
 - 9 kishi
 - 7 kishi
 
 **107. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron35673369276951.png)
+
 - M. Buhbudiy
 - A. Fitrat
-- O. Mahmudov (to'g'ri)
++ O. Mahmudov
 - H.H. Niyoziy
 
 **108. Turkiston Muxtoriyati va rus bolsheviklari o’rtasidagi shartnoma qachon va qayerda imzolangan?**
 
 - 1918-yil 22-aprelda Toshkentdagi Rus-Osiyo banki binosida
-- 1918-yil 22-fevralda Qo’qondagi Rus-Osiyo banki binosida (to'g'ri)
++ 1918-yil 22-fevralda Qo’qondagi Rus-Osiyo banki binosida
 - 1917-yil 22-yanvarda Toshkentdagi Rus-Osiyo banki binosida
 - 1917-yil 22-martda Toshkentdagi Rus-Osiyo banki binosida
 
 **109. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron374162783665.png)
+
 - Ubaydulla Xo’jayev
-- Mustafo Cho’qay (to'g'ri)
++ Mustafo Cho’qay
 - Islom Sulton Shoahmedov
 - Muhammadjon Tinishboyev
 
@@ -784,7 +799,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **110. Kimlarning ko’rsatmasiga binoan “Rossiya sovet federatsiyasining Turkiston sovet respublikasi haqidagi Nizomi” qabul qilingan?**
 
 - Kobozev va Perfilyev
-- Lenin va Stalin (to'g'ri)
++ Lenin va Stalin
 - Trotskiy va Frunze
 - Frunze va Lenin
 
@@ -792,20 +807,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1922-yil aprelda
 - 1922-yil iyulda
-- 1921-yil martda (to'g'ri)
++ 1921-yil martda
 - 1921-yil aprelda
 
 **112. “Rossiya sovet federatsiyasining Turkiston sovet respublikasi haqidagi Nizomi” qachon qabul qilingan?**
 
 - 1919-yil 30-mayda
 - 1919-yil 14-aprelda
-- 1918-yil 30-aprelda (to'g'ri)
++ 1918-yil 30-aprelda
 - 1918-yil 25-mayda
 
 **113. 1917-1923-yillarda Turkistonning qayerida yuz bergan ocharchilik natijasida 1 mln. kishi (1) va 200 000 (2) kishi halok bo’lgan?**
 
 - 1-Sirdaryo viloyati va 2-Toshkent viloyatida
-- 1-Farg‘ona vodiysi va 2-Samarqand viloyatida (to'g'ri)
++ 1-Farg‘ona vodiysi va 2-Samarqand viloyatida
 - 1-Buxoro viloyati va 2-Samarqand viloyatida
 - 1-Farg’ona vodiysi va 2-Toshkent viloyatida
 
@@ -813,12 +828,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - N. Xo’jayev
 - A. Muhitdinov
-- T. Risqulov (to'g'ri)
++ T. Risqulov
 - Yu. Aliyev
 
 **115. Sovet hokimiyati Turkistondagi barcha fabrika-zavodlarni o‘z egalari qo‘lidan tortib olib, undan avvalo qanday maqsadda foydalangan?**
 
-- Mudofaaga mo‘ljallangan mahsulotlar ishlab chiqarishda (to'g'ri)
++ Mudofaaga mo‘ljallangan mahsulotlar ishlab chiqarishda
 - Eksportbop mahsulotlar ishlab chiqarishda
 - Markaz mafaatlari uchun xizmat qiladigan mahsulotlar ishlab chiqarishda
 - Trikotaj mahsulotlari ishlab chiqarishda
@@ -826,27 +841,27 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **116. Qachon Turkiston ishchi, soldat, krestyan, musulmon va dehqonlarning V o’lka syezdi bo’lib o’tgan?**
 
 - 1918-yil 21-aprel – 6-mayda
-- 1918-yil 20-aprel – 1-mayda (to'g'ri)
++ 1918-yil 20-aprel – 1-mayda
 - 1919-yil 23-aprel – 2-mayda
 - 1919-yil 25-aprel – 5-mayda
 
 **117. Turkistonda Yangi iqtisodiy siyosat (NEP) ning asosi nimalardan iborat edi? 1) Boshqaruv tizimida islohotlar o’tkazish; 2) Xalq xo‘jaligiga rahbarlik qilishning harbiy-kommunistik usullaridan voz kechish; 3) Ishlab chiqaruvchiga erkinlik berish; 4) Dehqonlarga bir qadar erkinlik berish; 5) Iqtisodiyotga rahbarlik qilishning harbiy-kommunistik usullaridan voz kechish; 6) Xususiy mulk egalari tekinxo‘rlar deb e’lon qilish; 7) Ortiqcha oziq-ovqat mahsulotlarini markazga jo’natish.**
 
 - 1, 3, 5, 7
-- 2, 3, 4, 5 (to'g'ri)
++ 2, 3, 4, 5
 - 1, 4, 5, 6
 - 1, 5, 6, 7
 
 **118. Turkiston avtanom sovet sotsialistik respublikasi (TASSR) qachon tuzilgan?**
 
 - 1918-yil 30-mayda
-- 1918-yil 30-aprelda (to'g'ri)
++ 1918-yil 30-aprelda
 - 1917-yil-30-iyulda
 - 1919-yil 25-mayda
 
 **119. Qachon Turkiston Kommunistik partiyasining II konferensiyasida RKP (b) o‘lka Musulmonlar byurosi (Musbyuro) tashkil qilingan?**
 
-- 1919-yil martda (to'g'ri)
++ 1919-yil martda
 - 1919-yil aprelda
 - 1919-yil mayda
 - 1919-yil iyunda
@@ -855,13 +870,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - N. Xo’jayev
 - A. Muhitdinov
-- T. Risqulov (to'g'ri)
++ T. Risqulov
 - Yu. Aliyev
 
 **121. Turkiston ishchi, soldat, krestyan, musulmon va dehqonlarning V o’lka sezdi qayerda bo’lib o’tgan?**
 
 - Moskvada
-- Toshkentda (to'g'ri)
++ Toshkentda
 - Samarqandda
 - Qo’qonda
 
@@ -869,19 +884,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1, 2, 3, 4
 - 2, 3, 4, 5
-- 1, 2, 3, 4, 5 (to'g'ri)
++ 1, 2, 3, 4, 5
 - 1, 2, 3, 5
 
 **123. 1 pud qancha kilogrammga teng?**
 
 - 17,38 kg. ga
 - 19,38 kg. ga
-- 16,38 kg. ga (to'g'ri)
++ 16,38 kg. ga
 - 18,38 kg. ga
 
 **124. Nechanchi yillarda Turkistondan Rossiyaga 4,4  mln. pud g‘alla jo‘natilgan?**
 
-- 1921-1922-yillarda (to'g'ri)
++ 1921-1922-yillarda
 - 1922-1923-yillarda
 - 1924-1925-yillarda
 - 1920-1922-yillarda
@@ -890,12 +905,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1917-yilning yozida
 - 1918-yilning kuzida
-- 1917-yilning qishida (to'g'ri)
++ 1917-yilning qishida
 - 1918-yilning yozida
 
 **126. Butun sanoat ishlab chiqarishi davlat qo‘lida jamlanishi, qattiq markazlashtirish asosida boshqarilishi, dehqonlar o‘zi yetishtirgan mahsulotning ortiqchasini davlatga topshirishi (oziq-ovqat razvyorstkasi, ya’ni taqsimoti), davlat esa oziq-ovqat va sanoat mahsulotlarini taqsimlashni o‘z qo‘liga olishi; bozor yo‘qotilib pul muomalasi natura (mahsulotlar) bilan almashtirishi, mehnatga yaroqli barcha aholi majburiy mehnatga jalb qilinishi (mehnat militarizatsiyasi) … deb ataladi.**
 
-- “Harbiy kommunizm” (to'g'ri)
++ “Harbiy kommunizm”
 - “Oziq-ovqat razvyorstkasi”
 - “Sotsialistik qurilish”
 - “Qayta qurish”
@@ -903,14 +918,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **127. Sovet hokimiyati tomonidan O‘rta Osiyoda yer-suv islohoti necha bosqichda amalga oshirilgan?**
 
 - 5 bosqichda
-- 2 bosqichda (to'g'ri)
++ 2 bosqichda
 - 3 bosqichda
 - 4 bosqichda
 
 **128. Quyidagi shaxslardan qaysilari Musulmonlar byurosi faoliyatida ishtirok etgan? 1) T. Risqulov; 2) N. Xo‘jayev; 3) A. Muhitdinov; 4) Y. Ibragimov; 5) Yu. Aliyev; 6) Munavvarqori; 7) A. Avloniy; 8) F. Xo’jayev.**
 
 - 1, 3, 5, 6, 8
-- 1, 2, 3, 4, 5, 6, 7 (to'g'ri)
++ 1, 2, 3, 4, 5, 6, 7
 - 2, 3, 4, 5, 6, 7, 8
 - 2, 4, 5, 7, 8
 
@@ -919,18 +934,21 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1, 2, 3
 - 2, 3, 4, 5
 - 1, 2, 5, 6
-- 1, 2, 3, 4 (to'g'ri)
++ 1, 2, 3, 4
 
 **130. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron59125073644542.png)
+
 - N. Xo’jayev
 - A. Muhitdinov
-- T. Risqulov (to'g'ri)
++ T. Risqulov
 - Yu. Aliyev
 
 **131. O‘rta Osiyoda yer-suv islohoti birinchi bosqichi qachon va qayerda amalga oshirilgan?**
 
-- 1921-1922-yillarda Turkiston ASSR va Qozog‘iston ASSR da (to'g'ri)
++ 1921-1922-yillarda Turkiston ASSR va Qozog‘iston ASSR da
 - 1921-1922-yillarda Turkiston ASSR va Turkmaniston ASSR da
 - 1922-1923-yillarda Turkiston ASSR va Qozog‘iston ASSR da
 - 1921-1922-yillarda Tojikiston ASSR va Qozog‘iston ASSR da
@@ -939,13 +957,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 3,09 gektarga
 - 4,09 gektarga
-- 1,09 gektarga (to'g'ri)
++ 1,09 gektarga
 - 2,09 gektarga
 
 **133. Turkistonda qachon Yangi iqtisodiy siyosat (NEP) joriy qilingan?**
 
 - 1922-yil martda
-- 1921-yil avgustda (to'g'ri)
++ 1921-yil avgustda
 - 1924-yil iyulda
 - 1923-yil aprelda
 
@@ -954,11 +972,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1921-1922-yillarda
 - 1919-1921-yillarda
 - 1917-1919-yillarda
-- 1918-1920-yillarda (to'g'ri)
++ 1918-1920-yillarda
 
 **135. Qachon T. Risqulov o‘z vazifasidan ozod qilinib, Moskvaga ishga chaqirib olingan?**
 
-- 1920-yilning yozida (to'g'ri)
++ 1920-yilning yozida
 - 1920-yilning kuzida
 - 1921-yilning qishida
 - 1921-yilning yozida
@@ -967,13 +985,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1, 2, 3
 - 1, 2, 4, 5
-- 1, 2, 3, 4, 5 (to'g'ri)
++ 1, 2, 3, 4, 5
 - 1, 3, 4, 5
 
 **137. Sovet hukumati rahbari V.I. Lenin tomonidan O’rta Osiyoga favqulotda komissar qilib kim tayinlangan?**
 
 - Ivanov
-- Kobozev (to'g'ri)
++ Kobozev
 - Kolesov
 - Perfilyev
 
@@ -981,19 +999,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - “Sho’roi Ulamo” va “Sho’roi Islomiya”
 - “Sho’roi Islomiya” va Turkiston kommunistik partiyasi
-- Milliy kommunistlar va Musulmonlar byurosi (to'g'ri)
++ Milliy kommunistlar va Musulmonlar byurosi
 - Musulmonlar byurosi va Turkiston kommunistik partiyasi
 
 **139. Sovetlar davlatining dastlabki davrida kimlar fuqarolik huquqlaridan mahrum etilgan edi?**
 
-- Xususiy mulk egalari (to'g'ri)
++ Xususiy mulk egalari
 - Zodagonlar
 - Jadidlar
 - Milliy ziyolilar
 
 **140. T. Risqulovning Turkistonni mustaqillik tomon olib boruvchi fikrlariga kimlar qarshi chiqqan?**
 
-- M.V. Frunze va V.I. Lenin (to'g'ri)
++ M.V. Frunze va V.I. Lenin
 - I. Tobolin va I. Stalin
 - F. Kobozev va M.V. Frunze
 - F. Kolesov va V.I. Lenin
@@ -1006,18 +1024,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Xususiy mulkning bekor qilinishi
 - Oziq-ovqat ravyortkasi va g’alla monopoliyasi
 - Islom dining cheklanishi
-- Sovetlarning mustamlakachilik va shovinistik siyosati (to'g'ri)
++ Sovetlarning mustamlakachilik va shovinistik siyosati
 
 **142. Farg’ona vodiysida 1918-yilning o’rtalariga kelib qancha qo’rboshi guruhlari faoliyat olib borgan?**
 
 - 50 ga yaqin
-- 100 ga yaqin (to'g'ri)
++ 100 ga yaqin
 - 150 ga yaqin
 - 200 ga yaqin
 
 **143. Farg’ona vodiysida qachon favqulodda holat e’lon qilingan?**
 
-- 1921-yil 13-sentyabrida (to'g'ri)
++ 1921-yil 13-sentyabrida
 - 1923-yil 12-mayida
 - 1920-yil 11-noyabrida
 - 1922-yil 17-oktyabrida
@@ -1027,26 +1045,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 9 000 nafar
 - 5 000 nafar
 - 6 000 nafar
-- 8 000 nafar (to'g'ri)
++ 8 000 nafar
 
 **145. Sovet hukumatiga qarshi kurashgan qo’rboshi Ochilbek qaysi shahar atrofida bo’lgan jangda halok bo’lgan?**
 
 - Ko’lob
 - Urgut
 - O’zgan
-- Kitob (to'g'ri)
++ Kitob
 
 **146. Turkistondagi istiqlolchilik harakatining asosiy harakatlantiruvchi kuchini kimlar tashkil qilgan edi? 1) Dehqonlar; 2) Chorvadorlar; 3) Ziyolilar; 4) Chorikorlar; 5) Harbiylar; 6) Hunarmandlar; 7) Dindorlar; 8) Mardikorlar.**
 
 - 1, 2, 5, 8
-- 1, 3, 4, 6, 8 (to'g'ri)
++ 1, 3, 4, 6, 8
 - 1, 3, 4, 5, 6
 - 2, 3, 4, 8
 
 **147. Pomirning qaysi ovulida Farg’ona muvaqqat muxtoriyat hukumati tuzilganligi e’lon qilingan?**
 
 - Bachqir
-- Ergashtom (to'g'ri)
++ Ergashtom
 - Sho’g’non
 - Ko’lob
 
@@ -1055,18 +1073,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Tashqi ishlar vaziri
 - Ichki ishlar vaziri
 - Moliya ishlarga mas’ul
-- Qo’shinning Oliy bosh qo’mondoni (to'g'ri)
++ Qo’shinning Oliy bosh qo’mondoni
 
 **149. Turkiston-turk mustaqil islom jumhuriyati qachon tashkil topgan?**
 
 - 1919-yil 2-dekabrda
 - 1920-yil 1-martda
-- 1920-yil 3-mayda (to'g'ri)
++ 1920-yil 3-mayda
 - 1919-yil 12-oktyabrda
 
 **150. “Qo’rxona” nima?**
 
-- To’p yasash korxonalari (to'g'ri)
++ To’p yasash korxonalari
 - Qurol-yarog’ ombori
 - Politsiya binosi
 - Qo’shin to’planadigan joy
@@ -1075,26 +1093,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 6 nafar
 - 2 nafar
-- 8 nafar (to'g'ri)
++ 8 nafar
 - 7 nafar
 
 **152. Qachon bolsheviklar bilan bo’lgan jangda Kichik Ergash halok bo’lgan?**
 
 - 1918-yil 27-mayda
 - 1918-yil 29-martda
-- 1918-yil 27-fevralda (to'g'ri)
++ 1918-yil 27-fevralda
 - 1918-yil 26-fevralda
 
 **153. Farg’onada bolsheviklarga qarshi istiqlolchilik harakati qachon o’zining eng yuqori cho’qqisiga chiqqan?**
 
-- 1919-yil yozining oxiri va kuzida (to'g'ri)
++ 1919-yil yozining oxiri va kuzida
 - 1918-yil bahorining oxiri va yozida
 - 1920-yil yozining oxiri va kuzida
 - 1921-yil qishining oxiri va bahorida
 
 **154. Farg’ona muvaqqat muxtoriyat hukumati kim boshchiligida tuzilgan?**
 
-- Madaminbek (to'g'ri)
++ Madaminbek
 - Katta Ergash
 - Bahrombek
 - Shermuhammadbek
@@ -1104,32 +1122,32 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - P. Kobozev
 - M. Frunze
 - F. Kolesov
-- N. Veryovkin-Roxalskiy (to'g'ri)
++ N. Veryovkin-Roxalskiy
 
 **156. Sovet hokimiyatiga qarshi Marg’ilonda kim kurash boshlagan?**
 
 - Katta Ergash
-- Madaminbek (to'g'ri)
++ Madaminbek
 - Shermuhammadbek
 - Bahrombek
 
 **157. Bolsheviklarga qarshi istiqlolchilik harakatida qo’rboshi Shakarxon va Muhiddinbekning onasi qaysi hududda faoliyat olib borgan?**
 
 - Namanganda
-- Farg’onada (to'g'ri)
++ Farg’onada
 - Buxoroda
 - Samarqandda
 
 **158. Madaminbek sovetlar bilan qachon yarash bitimini imzolagan?**
 
 - 1920-yil 7-martda
-- 1920-yil 6-martda (to'g'ri)
++ 1920-yil 6-martda
 - 1921-yil 1-iyunda
 - 1921-yil 3-mayda
 
 **159. Qo’rboshi Katta Ergash nechanchi yillarda yashagan?**
 
-- 1882-1921-yillarda (to'g'ri)
++ 1882-1921-yillarda
 - 1885-1918-yillarda
 - 1883-1921-yillarda
 - 1881-1922-yillarda
@@ -1139,19 +1157,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Buxoroda
 - Samarqandda
 - Andijonda
-- Qo’qonda (to'g'ri)
++ Qo’qonda
 
 **161. Sovet hukumatiga qarshi kurashgan qo’rboshi Ochilbek qachon halok bo’lgan?**
 
 - 1922-yil 13-sentyabrda
-- 1923-yil 10-mayda (to'g'ri)
++ 1923-yil 10-mayda
 - 1921-yil 11-noyabrda
 - 1924-yil 17-mayda
 
 **162. 1920-yilning yanvar oyi o’rtalarida … .**
 
 - Farg’ona vodiysida favqulodda holat e’lon qilingan
-- Farg’ona vodiysida jangavor tashabbus qizil armiya tomonga o’tgan (to'g'ri)
++ Farg’ona vodiysida jangavor tashabbus qizil armiya tomonga o’tgan
 - Madaminbek noma’lum tarzda o’ldirilgan
 - Madaminbek Fag’ona qo’shinlari qo’mondonligiga yarash muzokaralari boshlashni taklif qilgan
 
@@ -1159,19 +1177,22 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Qon to’kilishini oldini olish maqsadida
 - Hiyla ishlatish maqsadida
-- Vaqtdan yutish uchun (to'g'ri)
++ Vaqtdan yutish uchun
 - Barcha javoblar to’g’ri
 
 **164. Turkiston mintaqasida bolsheviklar hukmronligidagi sovet rejimiga qarshi harakatlar qachon boshlangan?**
 
 - 1918-yil fevral oyining dastlabki o’n kunligida
 - 1917-yil noyabr oyining oxirgi o’n kunligida
-- 1918-yil fevral oyining so’nggi o’n kunligida (to'g'ri)
++ 1918-yil fevral oyining so’nggi o’n kunligida
 - 1917-yil noyabr oyi dastlabki o’n kunligida
 
 **165. Quyidagi rasmda kim tasvirlangan?**
 
-- Katta Ergash (to'g'ri)
+
+![](../images/astron1944369962573.png)
+
++ Katta Ergash
 - Kichik Ergash
 - Madaminbek
 - Shermuhammadbek
@@ -1180,12 +1201,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1924-yilda
 - 1923-yilda
-- 1922-yilda (to'g'ri)
++ 1922-yilda
 - 1925-yilda
 
 **167. T. Risqulovning e’tiroficha, Turkistondagi istiqlolchilik harakatga asosan kimlar kelib qo’shilgan? 1) Dehqonlar; 2) Chorvadorlar; 3) Ziyolilar; 4) Chorikorlar; 5) Harbiylar; 6) Hunarmandlar; 7) Dindorlar; 8) Mardikorlar.**
 
-- 1, 6 (to'g'ri)
++ 1, 6
 - 5, 6
 - 4, 5
 - 3, 4
@@ -1194,13 +1215,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Karmana va Qorako’lni
 - O’sh va O’zganni
-- Jalolobod va O’shni (to'g'ri)
++ Jalolobod va O’shni
 - Fathobod va Xo’jandni
 
 **169. 1919-yilning kuziga kelib Shermuhammadbek qo’l ostida necha nafar askar bo’lgan?**
 
 - 30 000
-- 20 000 (to'g'ri)
++ 20 000
 - 25 000
 - 35 000
 
@@ -1209,12 +1230,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Bahrombek
 - Madaminbek
 - Shermuhammadbek
-- Ochilbek (to'g'ri)
++ Ochilbek
 
 **171. Farg’ona viloyatida qachon sovet hokimyati tomonidan harbiy diktatura o’rnatilgan?**
 
 - 1922-yil sentyabrda
-- 1921-yil noyabrda (to'g'ri)
++ 1921-yil noyabrda
 - 1921-yil oktyabrda
 - 1922-yil dekabrda
 
@@ -1223,12 +1244,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Ye. Perfilev
 - I. Tobolin
 - P. Kobozev
-- M. Frunze (to'g'ri)
++ M. Frunze
 
 **173. Bolshevik maddohlarning e’tirof etishicha, qo’rboshilar o’rtasida eng kuchlisi kim edi?**
 
 - Katta Ergash
-- Madaminbek (to'g'ri)
++ Madaminbek
 - Shermuhammadbek
 - Ochilbek
 
@@ -1237,18 +1258,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1885-1919-yillarda
 - 1882-1921-yillarda
 - 1886-1917-yillarda
-- 1885-1918-yillarda (to'g'ri)
++ 1885-1918-yillarda
 
 **175. Madaminbek sovetlar bilan qaysi shaharda yarash bitimini imzolagan?**
 
 - Namanganda
 - Andijonda
-- Skobelevda (to'g'ri)
++ Skobelevda
 - O’shda
 
 **176. Katta Ergash qo’shini mag’lubiyatga uchragach, Shermuhammadbek asosiy kuchlarni olib qayerga chekingan?**
 
-- Oloyga (to'g'ri)
++ Oloyga
 - Eronga
 - Afg’onistonga
 - Yettisuvga
@@ -1258,11 +1279,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1, 3, 4, 6
 - 2, 3, 5, 7
 - 2, 4, 5, 7
-- 1, 2, 5, 6 (to'g'ri)
++ 1, 2, 5, 6
 
 **178. Sovet hukumati tomonidan Far’ona viloyatining harbiy diktatori etib kim tayinlangan?**
 
-- P. Baranov (to'g'ri)
++ P. Baranov
 - I. Tobolin
 - P. Kobozev
 - N. Veryovkin-Roxalskiy
@@ -1271,13 +1292,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Namanganda
 - Farg’onada
-- Buxoroda (to'g'ri)
++ Buxoroda
 - Samarqandda
 
 **180. Farg’ona armiya gruppasi shtabining “mutlaqo maxfiy” ma’lumotlarga qaraganda, 1921-yil iyun-sentyabr oylarida Farg’ona viloyatida qancha qo’rboshi guruhlari harakat qilgan?**
 
 - 150 dan ortiq
-- 200 dan ortiq (to'g'ri)
++ 200 dan ortiq
 - 250 dan ortiq
 - 100 dan ortiq
 
@@ -1286,18 +1307,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1919-yil 2-dekabrda
 - 1920-yil 1-martda
 - 1920-yil 3-mayda
-- 1919-yil 12-oktyabrda (to'g'ri)
++ 1919-yil 12-oktyabrda
 
 **182. 1919-yilning kuziga kelib Madaminbek qo’l ostida necha nafar askar bo’lgan?**
 
 - 25 000 nafar
 - 20 000 nafar
-- 30 000 nafar (to'g'ri)
++ 30 000 nafar
 - 35 000 nafar
 
 **183. Farg’ona muvaqqat muxtoriyat hukumati tarkibiga necha nafar tub aholi vakili kiritilgan edi?**
 
-- 16 nafar (to'g'ri)
++ 16 nafar
 - 12 nafar
 - 15 nafar
 - 17 nafar
@@ -1305,29 +1326,35 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **184. Turkistondagi istiqlolchilik harakati yo’lboshchisi Madaminbek qachon o’ldirilgan?**
 
 - 1920-yil dekabr oyida
-- 1920-yil may oyida (to'g'ri)
++ 1920-yil may oyida
 - 1921-yil yanvar oyida
 - 1921-yil aprel oyida
 
 **185. Quyidagi rasmda kim tasvirlangan?**
 
+
+![](../images/astron5449077614893.png)
+
 - Katta Ergash
 - Kichik Ergash
 - Madaminbek
-- Shermuhammadbek (to'g'ri)
++ Shermuhammadbek
 
 **186. Quyidagi rasmda kim tasvirlangan?**
 
+
+![](../images/astron27952554952847.png)
+
 - Katta Ergash
 - Kichik Ergash
-- Madaminbek (to'g'ri)
++ Madaminbek
 - Shermuhammadbek
 
 **187. Turkistonda istiqlolchilik harakatining birinchi davri yakunlangan bo’lsa-da, hali oldinda kurashning necha yili turar edi?**
 
 - 15 yili
 - 12 yili
-- 10 yili (to'g'ri)
++ 10 yili
 - 17 yili
 
 **188. Faoliyatida “Turkiston milliy birligi” tashkiloti ko’rsatmalari asosida ish olib borgan va xalq orasida o’zining jasurligi bilan nom chiqargan qo’rboshi kim?**
@@ -1335,25 +1362,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Bahrombek
 - Madaminbek
 - Shermuhammadbek
-- Ochilbek (to'g'ri)
++ Ochilbek
 
 **189. Turkiston-turk mustaqil islom jumhuriyati kim boshchiligida tashkil topgan?**
 
 - Katta Ergash
 - Madaminbek
-- Shermuhammadbek (to'g'ri)
++ Shermuhammadbek
 - Bahrombek
 
 **190. Sovet hokimiyati tomonidan “bosmachilar” deb atalgan harakat a’zolari aslida kimlar edi?**
 
 - Istilochilar
 - Qo’zg’olonchilar
-- Istiqlolchilar (to'g'ri)
++ Istiqlolchilar
 - Qaroqchilar
 
 **191. Qachon Turkiston mintaqasida istiqlolchilik harakatining birinchi davri yakunlangan?**
 
-- 1924-yilda (to'g'ri)
++ 1924-yilda
 - 1923-yilda
 - 1922-yilda
 - 1925-yilda
@@ -1362,19 +1389,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Katta Ergash
 - Madaminbek
-- Shermuhammadbek (to'g'ri)
++ Shermuhammadbek
 - Bahrombek
 
 **193. 1923-1924-yillarda Farg’ona vodiysidagi istiqlolchilar guruhiga kimlar boshchilik qilgan? 1) Bahrombek; 2) Islom Polvon; 3) Ochilbek; 4) Shahriyor; 5) Yormat Maxsum.**
 
 - 1, 3
-- 2, 5 (to'g'ri)
++ 2, 5
 - 2, 4
 - 3, 5
 
 **194. Bolsheviklarga qarshi Qo’qon uyezdidagi harakatning dastlabki tayanch nuqtasi qayer edi?**
 
-- Bachqir (to'g'ri)
++ Bachqir
 - Quva
 - Pishpak
 - O’zgan
@@ -1384,7 +1411,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 **195. BXSR Nozirlar sho’rosining raisi kim edi?**
 
-- Fayzulla Xo’jayev (to'g'ri)
++ Fayzulla Xo’jayev
 - Muxtorjon Saidjonov
 - Abdulhamid Oripov
 - Abdulqodir Muhitdinov
@@ -1394,12 +1421,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - I qurultoyda
 - II qurultoyda
 - IV qurultoyda
-- V qurultoyda (to'g'ri)
++ V qurultoyda
 
 **197. “Buxoroda 3000 ga yaqin hovli, 3000 dan ortiq do’kon, 20 ta saroy, 29 ta masjid 34 ta guzar yonib xarob bo’lgan…Buxoroliklar bu kunlarni “kichik qiyomat” deb atashgan” ushbu ma’lumotlar qaysi asardan olingan?**
 
 - “Tarixiy Salimiy”
-- “Tarixi nafoe” (to'g'ri)
++ “Tarixi nafoe”
 - “Hasratli tarix”
 - “Tarixi jadidi Buxoro”
 
@@ -1408,12 +1435,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1917-yil 1-martda
 - 1917-yil 7-martda
 - 1918-yil 4-martda
-- 1918-yil 2-martda (to'g'ri)
++ 1918-yil 2-martda
 
 **199. Butunbuxoro xalq vakillarining II qurultoyi qachon bo’lib o’tgan?**
 
 - 1921-yil 16-18-avgustda
-- 1921-yil 18-23-sentyabrda (to'g'ri)
++ 1921-yil 18-23-sentyabrda
 - 1921-yil 8-11-oktyabrda
 - 1921-yil 19-21-sentyabrda
 
@@ -1421,13 +1448,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1919-yil 7-martda
 - 1918-yil 6-fevralda
-- 1918-yil 1-martda (to'g'ri)
++ 1918-yil 1-martda
 - 1919-yil 2-martda
 
 **201. Amir Sayid Olimxonning Buxoroda islohotlar o’tkazish to’g’risidagi farmoni qachon bekor qilingan?**
 
 - 1917-yil 28-mayda
-- 1917-yil 14-aprelda (to'g'ri)
++ 1917-yil 14-aprelda
 - 1917-yil 17-iyulda
 - 1917-yil 21-iyunda
 
@@ -1435,12 +1462,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Kattaqo’rg’onda
 - Chorjo’yda
-- Fathobodda (to'g'ri)
++ Fathobodda
 - Karmanada
 
 **203. Qaysi sanada qizil armiya Buxoro shahrini egallagan va amir hokimyati ag’darilgan?**
 
-- 1920-yil 2-sentyabrda (to'g'ri)
++ 1920-yil 2-sentyabrda
 - 1921-yil 7-sentyabrda
 - 1921-yil 6-sentyabrda
 - 1920-yil 5-sentyabrda
@@ -1448,7 +1475,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **204. Rossiyada podsho hukumati ag’darilgandan keyin Buxoroda ish olib borgan Rossiya imperiyasining siyosiy agentligi nima deb ataladigan bo’lgan?**
 
 - Rossiya hukumatining vakilligi
-- Rossiya hukumatining rezidenti (to'g'ri)
++ Rossiya hukumatining rezidenti
 - Turkiston XKS ning Buxoro sho’basi
 - RSFSR ning Buxorodagi komissariyati
 
@@ -1457,11 +1484,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Fayzulla Xo’jayev
 - Muxtorjon Saidjonov
 - Usmon Xo’ja
-- Abdulqodir Muhitdinov (to'g'ri)
++ Abdulqodir Muhitdinov
 
 **206. Quyidagi suratda kim tasvirlangan?**
 
-- Fayzulla Xo’jayev (to'g'ri)
+
+![](../images/astron48823799598455.png)
+
++ Fayzulla Xo’jayev
 - Sadriddin Ayniy
 - Abdurauf Fitrat
 - Abdulvohid Burhonov-Munzim
@@ -1471,12 +1501,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - I qurultoyda
 - II qurultoyda
 - IV qurultoyda
-- V qurultoyda (to'g'ri)
++ V qurultoyda
 
 **208. Amir Sayid Olimxon qachon Buxoroda islohotlar to’g’risidagi farmonni imzolagan?**
 
 - 1917-yil 2-martda
-- 1917-yil 7-aprelda (to'g'ri)
++ 1917-yil 7-aprelda
 - 1918-yil 5-mayda
 - 1918-yil 8-dekabrda
 
@@ -1485,40 +1515,46 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1917-yil 7-noyabrida
 - 1918-yil 6-oktyabrida
 - 1918-yil 1-martida
-- 1917-yil 2-dekabrida (to'g'ri)
++ 1917-yil 2-dekabrida
 
 **210. Turkiston o’lkasida bolsheviklar qachon hokimiyat tepasiga kelgan?**
 
 - 1917-yilning fevralida
 - 1918-yilning oktyabrida
 - 1918-yilning dekabrida
-- 1917-yilning noyabrida (to'g'ri)
++ 1917-yilning noyabrida
 
 **211. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron69782787518783.png)
+
 - Sattor Xo’jayev
-- Porso Xo’jayev (to'g'ri)
++ Porso Xo’jayev
 - Usmon Xo’ja
 - Sobir Yusupov
 
 **212. Buxoro shahriga, Qizil armiya tomonidan 1-2-sentyabr kunlari jami qancha snaryadlar tashlangan?**
 
 - 13 000 snaryad
-- 12 000 snaryad (to'g'ri)
++ 12 000 snaryad
 - 11 000 snaryad
 - 14 000 snaryad
 
 **213. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron7267173523142.png)
+
 - Porso Xo’jayev
 - Muxtorjon Saidjonov
-- Usmon Xo’ja (to'g'ri)
++ Usmon Xo’ja
 - Abdulqodir Muhitdinov
 
 **214. Amir Sayid Olimxon yashagan yillarni toping.**
 
 - 1882-1944-yillar
-- 1881-1944-yillar (to'g'ri)
++ 1881-1944-yillar
 - 1878-1954-yillar
 - 1886-1938-yillar
 
@@ -1526,19 +1562,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1-a, 2-g, 3-e, 4-b, 5-d, 6-c, 7-h, 8-f
 - 1-d, 2-h, 3-b, 4-f, 5-a, 6-c, 7-e, 8-g
-- 1-e, 2-h, 3-f, 4-b, 5-d, 6-g, 7-a, 8-c (to'g'ri)
++ 1-e, 2-h, 3-f, 4-b, 5-d, 6-g, 7-a, 8-c
 - 1-g, 2-b, 3-f, 4-h, 5-d, 6-c, 7-a, 8-e
 
 **216. “Tarixi nafoe” (“Foydali tarix”) asarining muallifi kim?**
 
 - Mirza Salimbek
 - Ahmad Zaki Validiy
-- Muhammad Ali Baljuvoniy (to'g'ri)
++ Muhammad Ali Baljuvoniy
 - Ahmad Donish
 
 **217. Yosh buxoroliklar safida islohot sohasida faol harakatlarni qo’llab-quvvatlovchi yosh jadidlarning yetakchilarini toping. 1) Fayzulla Xo’jayev; 2) Sadriddin Ayniy; 3) Abdurauf Fitrat; 4) Abdulvohid Burhonov-Munzim.**
 
-- 1, 3 (to'g'ri)
++ 1, 3
 - 2, 3
 - 1, 4
 - 3, 4
@@ -1547,47 +1583,50 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1924-yilda
 - 1923-yilda
-- 1922-yilda (to'g'ri)
++ 1922-yilda
 - 1925-yilda
 
 **219. 1920-yilda Qizil armiyaga qarshi Amir Olimxon ixtiyorida qancha qo’shin bor edi?**
 
 - 20 000 sarboz, 50 ta eski to’p, 10 ta pulemyot
-- 15 000 sarboz, 55 ta eski to’p, 12 ta pulemyot (to'g'ri)
++ 15 000 sarboz, 55 ta eski to’p, 12 ta pulemyot
 - 25 000 sarboz, 45 ta eski to’p, 15 ta pulemyot
 - 17 000 sarboz, 60 ta eski to’p, 22 ta pulemyot
 
 **220. Buxoro amirligi hududidagi ishchi va soldat deputatlari Sovetlarining II syezdi bo’lib o’tgan Yangi Buxoro hozirgi kunda nima deb ataladi?**
 
 - O’zgan
-- Kogon (to'g'ri)
++ Kogon
 - Ko’lob
 - Darvoz
 
 **221. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron52538856622980.png)
+
 - Fayzulla Xo’jayev
 - Muxtorjon Saidjonov
 - Usmon Xo’ja
-- Abdulqodir Muhitdinov (to'g'ri)
++ Abdulqodir Muhitdinov
 
 **222. Yosh buxoroliklar safidagi mamlakatni asta-sekin isloh qilish tarfadorlari bo’lgan eski jadidlarning yetakchilarini toping. 1) Abdulvohid Burhonov-Munzim; 2) Sadriddin Ayniy; 3) Abdurauf Fitrat; 4) Fayzulla Xo’jayev.**
 
 - 1, 3
-- 1, 2 (to'g'ri)
++ 1, 2
 - 2, 4
 - 3, 4
 
 **223. Mirza Salimbek haqidagi to’g’ri ma’lumotlarni toping. 1) Amir nomidan Qiziltepa bitimini imzolagan; 2) Buxoro amirligining bosh mehtari bo’lgan; 3) Buxoro amirligining bosh zakotchisi bo’lgan; 4) Amir xonadoning a’zosi, amirlikning rasmiy vakili edi; 5) “Tarixi Salimiy” asarining muallifi; 6) Kolesov bosqini haqida hikoya qilgan; 7) Amirlikda devon ishlariga masul bo’lgan; 8) Taniqli davlat arbobi va tarixchi edi.**
 
-- 1, 3, 5, 6, 8 (to'g'ri)
++ 1, 3, 5, 6, 8
 - 1, 2, 4, 5, 6
 - 2, 4, 5, 7, 8
 - 3, 4, 5, 6, 8
 
 **224. Butunbuxoro xalq vakillarining I qurultoyi qachon bo’lib o’tgan?**
 
-- 1920-yil 6-8-oktyabrda (to'g'ri)
++ 1920-yil 6-8-oktyabrda
 - 1921-yil 2-4-sentyabrda
 - 1920-yil 7-9-oktyabrda
 - 1921-yil 9-11-martda
@@ -1596,7 +1635,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1-a, 2-c, 3-b, 4-d
 - 1-b, 2-c, 3-d, 4-a
-- 1-c, 2-b, 3-d, 4-a (to'g'ri)
++ 1-c, 2-b, 3-d, 4-a
 - 1-c, 2-b, 3-a, 4-d
 
 **226. F. Kolesov bosqini vaqtida qaysi hududlar oralig’idagi 170 kilometrlik temiryo’l Buxoro amiri sarbozlari tomonidan buzib tashlangan?**
@@ -1604,19 +1643,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Xatirchidan Karmanagacha
 - Xo’janddan O’ratepagacha
 - Shahrisabzdan Ko’lobgacha
-- Karmanadan Qorako’lgacha (to'g'ri)
++ Karmanadan Qorako’lgacha
 
 **227. Sovet hukumati qachon Buxoro amirligini tugatishga kirishgan?**
 
 - 1920-yil 17-iyulda
 - 1921-yil 21-sentyabrda
 - 1921-yil 12-oktyabrda
-- 1920-yil 29-avgustda (to'g'ri)
++ 1920-yil 29-avgustda
 
 **228. Buxoroni egallash jarayonida, Qizil armiya tomonidan 3 kun davomida shahar ustida uchib, bomba yog’dirgan “qora quzg’un” (aeroplan) lar soni nechta edi?**
 
 - 13 ta
-- 11 ta (to'g'ri)
++ 11 ta
 - 12 ta
 - 14 ta
 
@@ -1625,18 +1664,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1917-yil 2-martda
 - 1917-yil 7-martda
 - 1918-yil 8-martda
-- 1918-yil 5-martda (to'g'ri)
++ 1918-yil 5-martda
 
 **230. Buxoro amirligini tugatish uchun tuzilgan qo’shinlarini M.V. Frunze 4 ta zarbdor guruhlarga bo’lgan, asosiy vazifa qaysi guruh zimmasiga yuklatilgan edi?**
 
 - Samarqand guruhiga
 - Kattaqo’rg’on guruhiga
 - Chorjo’y guruhiga
-- Kogon guruhiga (to'g'ri)
++ Kogon guruhiga
 
 **231. 1920-yilda Buxoro chegaralarida, amirlikni tugatish uchun Turkiston frontining qancha askarlari shay holatga keltirib qo’yilgan edi?**
 
-- 7 000 piyoda, 2 500 otliq (to'g'ri)
++ 7 000 piyoda, 2 500 otliq
 - 8 000 piyoda, 3 500 otliq
 - 3 000 piyoda 4 500 otliq
 - 6 000 piyoda 1 500 otliq
@@ -1645,20 +1684,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1917-yil 1-mayda
 - 1917-yil 4-aprelda
-- 1917-yil 8-aprelda (to'g'ri)
++ 1917-yil 8-aprelda
 - 1917-yil 2-martda
 
 **233. Markaziy Revkom o’rniga Butunbuxoro Markaziy Ijroiya Qo’mitasi tashkil qilingan vaqtda unga kim rais bo’lgan?**
 
 - Porso Xo’jayev
 - Muxtorjon Saidjonov
-- Usmon Xo’ja (to'g'ri)
++ Usmon Xo’ja
 - Abdulqodir Muhitdinov
 
 **234. 1918-yilda Fayzulla Xo’jayev raisligida necha kishidan iborat yosh buxoroliklarning inqilobiy qo’mitasi (revkom) tuzilgan?**
 
 - 9 kishidan
-- 7 kishidan (to'g'ri)
++ 7 kishidan
 - 6 kishidan
 - 8 kishidan
 
@@ -1667,26 +1706,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Amirlik xazinasi va boshqa boyliklar ortilgan 2 ta eshelon Buxoro shahridan Moskvaga yo’l olgan
 - “Qizil qo’mondon” M.V. Frunze Moskvaga qaytib ketgan
 - Qizil armiya tomonidan amir hokimiyati ag’darilgan
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **236. Sovet Turkistoni bilan Buxoro amirligi o’rtasida Qiziltepa bitimi qachon imzolangan?**
 
 - 1918-yil 17-martda
 - 1919-yil 12-aprelda
 - 1919-yil 27-mayda
-- 1918-yil 25-martda (to'g'ri)
++ 1918-yil 25-martda
 
 **237. Qizil armiya bosqinidan keyin Buxoro shahri necha kun davomida yonib turgan?**
 
 - 10 kun davomida
-- 20 kun davomida (to'g'ri)
++ 20 kun davomida
 - 15 kun davomida
 - 30 kun davomida
 
 **238. 1922-1924-yillarda kim Butunbuxoro Markaziy Ijroiya Qo’mitasi raisi lavozimini egallagan?**
 
 - Sattor Xo’jayev
-- Porso Xo’jayev (to'g'ri)
++ Porso Xo’jayev
 - Usmon Xo’ja
 - Sobir Yusupov 
 
@@ -1694,19 +1733,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Buxoro amirining islohotlar o’tkazish to’g’risidagi farmoni e’lon qilinishi
 - Amir hokimyati ag’darilib, hokimyat Yosh buxoroliklarga berilishi
-- Petrograddagi fevral inqilobi (to'g'ri)
++ Petrograddagi fevral inqilobi
 - Inqilobiy qo’mitaning tuzilishi
 
 **240. Butunbuxoro xalq vakillarining V qurultoyi qachon bo’lib o’tgan?**
 
 - 1921-yil 16-18-oktyabrda
-- 1924-yil 18-20-sentyabrda (to'g'ri)
++ 1924-yil 18-20-sentyabrda
 - 1923-yil 17-19-oktyabrda
 - 1922-yil 11-13-martda
 
 **241. Qaysi sanada Turkiston fronti qo’mondoni M.V. Frunze Buxoro amirligini tugatish maqsadida Samarqand-Buxoro guruhi (fronti) ni tuzish haqida buyruq bergan?**
 
-- 1920-yil 12-avgustda (to'g'ri)
++ 1920-yil 12-avgustda
 - 1921-yil 17-sentyabrda
 - 1921-yil 17-martda
 - 1920-yil 25-mayda
@@ -1714,7 +1753,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **242. F. Kolesov 1918-yil 17-martda o’z otryadi bilan qayerga yetib kelgan?**
 
 - Buxoroga
-- Samarqandga (to'g'ri)
++ Samarqandga
 - Toshkentga
 - Yangi Buxoroga
 
@@ -1722,7 +1761,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Turkiston fronti qo’mondoni
 - Turkiston o’qchi diviziyasining boshlig’i
-- Turkiston XKS raisi (to'g'ri)
++ Turkiston XKS raisi
 - Kraymussovet raisi
 
 ## 7-§ Xiva xonligidagi ahvol hamda xon hokimiyatining ag’darilishi. XXSR ning tuzilishi va turli islohotlar.
@@ -1730,14 +1769,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 **244. Qachon Turkiston frontining Amudaryo (Xiva) guruhi qo‘shinlari Xiva xonligi hududini bosib olish uchun keskin janglar olib borgan?**
 
-- 1919-yil noyabr-1920-yil yanvar oylarida (to'g'ri)
++ 1919-yil noyabr-1920-yil yanvar oylarida
 - 1919-yil dekabr-1920-yil yanvar oylarida
 - 1919-yil apel-1920-yil may oylarida
 - 1919-yil noyabr-1920-yil dekabr oylarida
 
 **245. Xorazmda qaysi sanada qizil askarlar uyushtirgan harbiy davlat to‘ntarishidan keyin P. Yusupov hukumati ag‘darib tashlangan?**
 
-- 1921-yil 6-martda (to'g'ri)
++ 1921-yil 6-martda
 - 1921-yil 8-martda
 - 1922-yil 4-martda
 - 1922-yil 2-martda
@@ -1747,40 +1786,40 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1921-yil 29-aprelda
 - 1920-yil 21-noyabrda
 - 1920-yil 23-martda
-- 1921-yil 24-noyabrda (to'g'ri)
++ 1921-yil 24-noyabrda
 
 **247. Asfandiyorxon Muvaqqat hukumatning Xivadagi vakiliga tayanib Majlisni tarqatib yuborgach, kimlardan iborat Majlis va Nozirlar Sho‘rosi yangidan tashkil etilgan?**
 
 - Polvonniyoz Yusupov; Anvar Ochilkbekov
 - Bobooxun Salimov; Husaynbek Matmurodov
 - Polvonniyoz Yusupov; Bobooxun Salimov
-- Ortiq Oxun; Is’hoqxo‘ja Xo‘jayev (to'g'ri)
++ Ortiq Oxun; Is’hoqxo‘ja Xo‘jayev
 
 **248. Qachon Xiva xonligining poytaxti Xiva shahri qizil askarlar tomonidan bosib olingan?**
 
 - 1919-yil 9-aprelda
 - 1919-yil 4-noyabrda
 - 1920-yil 3-martda
-- 1920-yil 1-fevralda (to'g'ri)
++ 1920-yil 1-fevralda
 
 **249. XXSR mavjud bo‘lgan qariyb 5 yil davomida bolsheviklar tomonidan XXSR MIK raislari va hukumat boshliqlarining har biri necha martadan o‘zgartirilgan?**
 
 - 15 martadan
 - 20 martadan
-- 10 martadan (to'g'ri)
++ 10 martadan
 - 5 martadan
 
 **250. Qachon XXSR da hunarmandchilik va sanoat sohasidagi soliqlar ham bir tizimga solinib, davlat sanoat solig‘i joriy qilingan?**
 
 - 1921-yilda
 - 1922-yilda
-- 1923-yilda (to'g'ri)
++ 1923-yilda
 - 1924-yilda
 
 **251. Yosh xivaliklarning Xiva xoni Asfandiyorxonga taqdim etgan islohot to‘g‘risidagi manifestida nimalar ko’zda tutilgan edi? 1) Yangi usul maktablari ochish; 2) Mamlakatda temiryo‘l, pochta, telegraf barpo etilishi zarurligi; 3) Davlat xazinasi nazorat ostiga olinishi; 4) Barcha amaldorlarning saylanishi va maosh bilan ta’minlanishi; 5) Butun aholining shariat oldida tengligi; 6) Jadid maktablarini sovet maktablariga almashtirish.**
 
 - 1, 2, 3, 4, 5, 6
-- 1, 2, 3, 4, 5 (to'g'ri)
++ 1, 2, 3, 4, 5
 - 1, 2, 4, 5, 6
 - 1, 2, 3, 4
 
@@ -1788,12 +1827,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1917-yil 5-martda
 - 1918-yil 9-iyunda
-- 1917-yil 5-aprelda (to'g'ri)
++ 1917-yil 5-aprelda
 - 1918-yil 2-mayda
 
 **253. Qachon XXSR da yangi tipdagi maktablar tashkil qilina boshlangan?**
 
-- 1920-yilda (to'g'ri)
++ 1920-yilda
 - 1921-yilda
 - 1922-yilda
 - 1923-yilda
@@ -1802,34 +1841,37 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Ivanov
 - Skobelov
-- Mirbadalov (to'g'ri)
++ Mirbadalov
 - Ostroumov
 
 **255. Muvaqqat hukumatning Xivadagi vakili to’g’ri berilgan javobni toping.**
 
 - General Ivanov
 - General Skobelov
-- General Mirbadalov (to'g'ri)
++ General Mirbadalov
 - General Ostroumov
 
 **256. Qachon Yosh xivaliklar To‘rtko‘ldagi inqilobchi kommunistlar guruhi hamda Qo‘shmamedxon Sapiyev va G‘ulomalixon Bahodir boshchiligidagi turkman qabilalari bilan o’zaro ittfoq tuzib, Xiva xoni Said Abdullaxon va Junaidxonga qarshi kurash boshlash uchun qizil askarlarni yordamga chaqirgan?**
 
 - 1919-yil 9-aprelda
-- 1919-yil 4-noyabrda (to'g'ri)
++ 1919-yil 4-noyabrda
 - 1920-yil 3-martda
 - 1920-yil 2-iyunda
 
 **257. Asfandiyorxon tomonidan qachon Junaidxon Xiva xonligi qurolli kuchlari qo‘mondoni qilib tayinlangan?**
 
 - 1917-yilda
-- 1918-yilda (to'g'ri)
++ 1918-yilda
 - 1919-yilda
 - 1920-yilda
 
 **258. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron59237743112741.png)
+
 - Polvonniyoz Yusupov
-- Bobooxun Salimov (to'g'ri)
++ Bobooxun Salimov
 - Husaynbek Matmurodov
 - Asfandiyorxon
 
@@ -1837,12 +1879,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Bobooxun Salimov
 - Husaynbek Matmurodov
-- Polvonniyoz Yusupov (to'g'ri)
++ Polvonniyoz Yusupov
 - Davlatmurod mahram
 
 **260. Qachon Yosh xivaliklar partiyasi tashkil etilgan?**
 
-- 1914-yilda (to'g'ri)
++ 1914-yilda
 - 1915-yilda
 - 1916-yilda
 - 1917-yilda
@@ -1852,11 +1894,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Bobooxun Salimov
 - Husaynbek Matmurodov
 - Polvonniyoz Yusupov
-- Davlatmurod mahram (to'g'ri)
++ Davlatmurod mahram
 
 **262. Butunxorazm xalq vakillarining nechanchi qurultoyida XXSR ning muvaqqat Konstitutsiyasi va dastlabki Bayrog‘i qabul qilingan?**
 
-- I qurultoyida (to'g'ri)
++ I qurultoyida
 - II qurultoyida
 - III qurultoyida
 - IV qurultoyida
@@ -1866,12 +1908,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 12 nafar
 - 14 nafar
 - 16 nafar
-- 17 nafar (to'g'ri)
++ 17 nafar
 
 **264. Junaidxonninng qizil askarlarga qarshi olib borgan kurashi qancha vaqt davom etgan?**
 
 - 1 yil
-- 1,5 yil (to'g'ri)
++ 1,5 yil
 - 2 yil
 - 2,5 yil
 
@@ -1879,42 +1921,45 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1920-yilda
 - 1921-yilda
-- 1923-yilda (to'g'ri)
++ 1923-yilda
 - 1924-yilda
 
 **266. XXSR ning yosh hukumati, BXSR, Turkiston ASSR va RSFSR dan tashqari, quyidagi qaysi xorijiy davlatlar bilan mustaqil ravishda savdo-sotiq va iqtisodiy aloqalarni olib borishga harakat qilgan? 1) AQSH; 2) Finlyandiya; 3) Shvetsiya; 4) Germaniya; 5) Turkiya; 6) Afg‘oniston; 7) Eron.**
 
 - 1, 2, 3, 4, 5
 - 2, 3, 4, 5, 6
-- 2, 3, 4, 5, 6, 7 (to'g'ri)
++ 2, 3, 4, 5, 6, 7
 - 3, 4, 5, 6, 7
 
 **267. Xiva xonligida 1918-1920-yilllarda hukmronlik qilgan xonni toping.**
 
 - Is’hoqbek Mirzo
 - Davlatbek
-- Said Abdulla (to'g'ri)
++ Said Abdulla
 - Nurullaboy
 
 **268. Asl ismi Qurbon Mamed Sardor bo’lgan Junaidxon …larning yovmut urug’idan bo’lgan.**
 
 - mang’it
 - qipchoq
-- turkman (to'g'ri)
++ turkman
 - qoraqalpoq
 
 **269. Qachon Xivada bo‘lgan saroy fitnasi oqibatida Asfandiyorxon o‘ldirilgan?**
 
-- 1918-yil 30-oktyabr (to'g'ri)
++ 1918-yil 30-oktyabr
 - 1918-yil 13-noyabr
 - 1919-yil 10-dekabr
 - 1919-yil 15-sentyabr
 
 **270. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron7684276954655.png)
+
 - Bobooxun Salimov
 - Husaynbek Matmurodov
-- Polvonniyoz Yusupov (to'g'ri)
++ Polvonniyoz Yusupov
 - Davlatmurod mahram
 
 **271. Xiva xonligida Said Abdullaxon taxtdan voz kechgandan keyin Muvaqqat inqilobiy qo’mita qachon tuzilgan?**
@@ -1922,11 +1967,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1919-yil 9-aprelda
 - 1919-yil 4-noyabrda
 - 1920-yil 3-martda
-- 1920-yil 2-fevralda (to'g'ri)
++ 1920-yil 2-fevralda
 
 **272. Xiva yaqinidagi Taxta qishlog‘ida qachon Junaidxon bilan sovet hokimiyati vakillari o‘rtasida shartnoma imzolangan?**
 
-- 1919-yil 9-aprelda (to'g'ri)
++ 1919-yil 9-aprelda
 - 1919-yil 5-aprelda
 - 1920-yil 3-martda
 - 1920-yil 4-iyunda
@@ -1935,19 +1980,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1919-yil oktyabrda
 - 1918-yil dekabrda
-- 1918-yil noyabrda (to'g'ri)
++ 1918-yil noyabrda
 - 1919-yil mayda
 
 **274. XXSR da qishloq xo’jaligida qachon yagona soliq tizimi joriy etilgan?**
 
 - 1921-yilda
-- 1922-yilda (to'g'ri)
++ 1922-yilda
 - 1923-yilda
 - 1924-yilda
 
 **275. XXSR ni Xorazm Sovet Sotsialistik Respublikasi (XSSR) ga aylantirish to‘g‘risida qaror qabul qilingan Butunxorazm xalq vakillarining IV qurultoyi qachon bo’lib o’tgan?**
 
-- 1923-yil 17-20-oktyabrda (to'g'ri)
++ 1923-yil 17-20-oktyabrda
 - 1923-yil 20-25-oktyabrda
 - 1924-yil 26-28-oktyabrda
 - 1924-yil 17-19-oktyabrda
@@ -1956,33 +2001,36 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Issiqko’lga
 - Eronga
-- Qoraqumga (to'g'ri)
++ Qoraqumga
 - Qizilqumga
 
 **277. Xivada xalq dorilfuni qachon ochilgan?**
 
 - 1920-yilda
-- 1921-yilda (to'g'ri)
++ 1921-yilda
 - 1923-yilda
 - 1924-yilda
 
 **278. Xiva xonligida islohotlar loyihasi e`lon qilingandan keyin kim boshchiligida Majlis va Nozirlar Sho‘rosi tashkil etilgan?**
 
 - Polvonniyoz Yusupov; Anvar Ochilkbekov
-- Bobooxun Salimov; Husaynbek Matmurodov (to'g'ri)
++ Bobooxun Salimov; Husaynbek Matmurodov
 - Polvonniyoz Yusupov; Bobooxun Salimov
 - Ortiq Oxun; Is’hoqxo‘ja Xo‘jayev
 
 **279. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron96521932719958.png)
+
 - Polvonniyoz Yusupov
 - Bobooxun Salimov
 - Husaynbek Matmurodov
-- Asfandiyorxon (to'g'ri)
++ Asfandiyorxon
 
 **280. Xiva xoni Asfandiyorxon rus kazaklari yordamida qachon Majlisni butunlay tugatgan?**
 
-- 1917-yil noyabrda (to'g'ri)
++ 1917-yil noyabrda
 - 1917-yil iyunda
 - 1918-yil aprelda
 - 1918-yil dekabrda
@@ -1992,18 +2040,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1920-yilda
 - 1921-yilda
 - 1923-yilda
-- 1924-yilda (to'g'ri)
++ 1924-yilda
 
 **282. Qachon Yosh xivaliklar partiyasi rahbari Polvonniyoz Yusupov boshchiligidagi delegatsiya Muvaqqat hukumat vakillari bilan muzokara o‘tkazish uchun Toshkentga kelgan?**
 
 - 1918-yil martda
 - 1918-yil iyunda
 - 1917-yil aprelda
-- 1917-yil mayda (to'g'ri)
++ 1917-yil mayda
 
 **283. Xorazm Xalq Sovet Respublikasi (XXSR) tuzilganligi e’lon qilingan Butunxorazm xalq vakillarining I qurultoyi qachon bo’lib o’tgan?**
 
-- 1920-yil 26-30-aprelda (to'g'ri)
++ 1920-yil 26-30-aprelda
 - 1920-yil 22-26-aprelda
 - 1921-yil 20-24-aprelda
 - 1921-yil 18-22-aprelda
@@ -2013,20 +2061,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - I qurultoyida
 - II qurultoyida
 - III qurultoyida
-- IV qurultoyida (to'g'ri)
++ IV qurultoyida
 
 **285. Xiva xoni Asfandiyorxon tomonidan imzo chekilgan Yosh xivaliklar partiyasining islohot to‘g‘risidagi manifestini amalga oshirilishini nazorat qilish uchun necha kishidan iborat “Idorai mashruta” tashkil qilingan?**
 
 - 20 kishidan
 - 25 kishidan
-- 30 kishidan (to'g'ri)
++ 30 kishidan
 - 35 kishidan
 
 **286. Xiva xoni Asfandiyorxon o`ldirilgandan keyin taxtga kim kelgan?**
 
 - Is’hoqbek Mirzo
 - Davlatbek
-- Said Abdulla (to'g'ri)
++ Said Abdulla
 - Nurullaboy
 
 ## 8-§ BXSR va XXSR da qizil armiyaga qarshi kurash.
@@ -2036,7 +2084,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Ibrohimbek
 - Davlatmandbek
-- Mulla Abdulqahhor (to'g'ri)
++ Mulla Abdulqahhor
 - Bahrombek
 
 **288. Qaysi voqeadan keyin O’rta Osiyoda istiqlolchilik harakatining birinchi davri yakunlangan?**
@@ -2044,11 +2092,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Birinchi jahon urushi boshlangandan keyin
 - Birinchi jahon urushi tugagandan keyin
 - Turkiston Muxtoriyati tugagandan keyin
-- Milliy-hududiy chegaralanish o‘tkazilgandan keyin (to'g'ri)
++ Milliy-hududiy chegaralanish o‘tkazilgandan keyin
 
 **289. Mulla Abdulqahhor rahbarligida Buxoroning g‘arbiy qismida necha qo‘rboshi birlashgan?**
 
-- 20 nafar (to'g'ri)
++ 20 nafar
 - 25 nafar
 - 30 nafar
 - 35 nafar
@@ -2057,7 +2105,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Ibrohimbek
 - Davlatmandbek
-- Mulla Abdulqahhor (to'g'ri)
++ Mulla Abdulqahhor
 - Bahrombek
 
 **291. M. Frunzening ta’rificha Turkiston marvaridi deb qayerga aytilgan?**
@@ -2065,19 +2113,22 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Samarqandga
 - Andijonga
 - Buxoroga
-- Farg’onaga (to'g'ri)
++ Farg’onaga
 
 **292. Quyidagi suratda qaysi qo’rboshi tasvirlangan?**
+
+
+![](../images/astron69436963457352.png)
 
 - Ibrohimbek
 - Davlatmandbek
 - Mulla Abdulqahhor
-- Hamro Polvon (to'g'ri)
++ Hamro Polvon
 
 **293. Anvar Posho xotirasiga bag‘ishlab “Baljuvon” marsiyasini yozgan shoir kim?**
 
 - Fitrat
-- Cho‘lpon (to'g'ri)
++ Cho‘lpon
 - Avloniy
 - Qodiriy
 
@@ -2085,7 +2136,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Ibrohim Posho
 - Murod Posho
-- Anvar Posho (to'g'ri)
++ Anvar Posho
 - Sulton Posho
 
 **295. Buxoroga Qizil armiyaga qarshi kurash uchun kelgan Anvar Posho qachon halok bo‘lgan?**
@@ -2093,25 +2144,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1921-yil oktyabrda
 - 1923-yil noyabrda
 - 1924-yil dekabrda
-- 1922-yil avgustda (to'g'ri)
++ 1922-yil avgustda
 
 **296. Mulla Abdulqahhor qachon qizil askarlarga qarshi bo‘lgan janglarning birida halok bo‘lgan?**
 
 - 1921-yilda
 - 1922-yilda
 - 1923-yilda
-- 1924-yilda (to'g'ri)
++ 1924-yilda
 
 **297. Amirlik ag’darilgach, Sharqiy Buxoro hududida qo’rboshilik qilgan shaxsni toping.**
 
 - Ibrohimbek va Mulla Abdulqahhor
-- Davlatmandbek va Ibrohimbek (to'g'ri)
++ Davlatmandbek va Ibrohimbek
 - Mulla Abdulqahhor va Hamro Polvon
 - Hamro Polvon va Davlatmandbek
 
 **298. Avval Rossiya imperiyasi, keyinroq Xiva xonligiga qarshi kurashgan Junaidxon qachondan qizil askarlarga qarshi mustaqillik uchun jangga kirgan edi?**
 
-- 1918-yil o‘rtalaridan (to'g'ri)
++ 1918-yil o‘rtalaridan
 - 1919-yil o‘rtalaridan
 - 1920-yil o‘rtalaridan
 - 1921-yil o‘rtalaridan
@@ -2120,19 +2171,22 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 10 ming nafar
 - 12 ming nafar
-- 15 ming nafar (to'g'ri)
++ 15 ming nafar
 - 20 ming nafar
 
 **300. Anvar Posho Kavkazdan qachon Buxoro shahriga kelgan?**
 
-- 1921-yil oktyabrda (to'g'ri)
++ 1921-yil oktyabrda
 - 1920-yil noyabrda
 - 1920-yil dekabrda
 - 1922-yil yanvarda
 
 **301. Quyidagi suratda qaysi qo’rboshi tasvirlangan?**
 
-- Ibrohimbek (to'g'ri)
+
+![](../images/astron8315367798277.png)
+
++ Ibrohimbek
 - Davlatmandbek
 - Mulla Abdulqahhor
 - Bahrombek
@@ -2140,20 +2194,23 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **302. Mulla Abdulqahhor rahbarligida Buxoroning qaysi viloyatlarida Qizil armiyaga qarshi o`nlab qo`rboshilar faoliyat olib borishgan? 1) G’ijduvon; 2) Karmana; 3) Zarafshon; 4) Buxoro; 5) Nurota.**
 
 - 1, 2, 3
-- 2, 4, 5 (to'g'ri)
++ 2, 4, 5
 - 2, 3, 4
 - 1, 2, 3, 4
 
 **303. Quyidagi suratda kim tasvirlangan?**
 
-- Anvar Posho (to'g'ri)
+
+![](../images/astron44318236275838.png)
+
++ Anvar Posho
 - Murod Posho
 - Ibrohim Posho
 - Sulton Posho
 
 **304. Qizil armiyada bilan bir qator janglarda mag‘lubiyatga uchragan Olimxon qachon Afg‘oniston davlati hududiga o‘tib ketishga majbur bo‘lgan?**
 
-- 1921-yil martda (to'g'ri)
++ 1921-yil martda
 - 1922-yil aprelda
 - 1923-yil dekabrda
 - 1924-yil martda
@@ -2161,27 +2218,27 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **305. Sobiq amir Olimxon Buxoroning qaysi hududiga kelib Qizil armiyaga qarshi kurashga rahbarlik qilgan?**
 
 - G’arbiy hududiga
-- Sharqiy hududiga (to'g'ri)
++ Sharqiy hududiga
 - Shimoliy hududiga
 - Janubiy hududiga
 
 **306. Uchinchi chaqiriq XXSR MIK II sessiyasi qachon bo’lib o’tgan?**
 
-- 1923-yil 12-yanvarda (to'g'ri)
++ 1923-yil 12-yanvarda
 - 1924-yil 10-dekabrda
 - 1925-yil 18-martda
 - 1926-yil 22-mayda
 
 **307. Istiqlolchilik harakatining eng zaif tomonlari to‘g‘ri berilgan javoblarni toping. 1) Yagona markaz ostida to‘liq birlasha olmasligi; 2) Yagona milliy dasturning yaratilmaganligi; 3) Ba’zi yetakchi shaxslar orasidagi kelishmovchilik va nizolarning mavjudligi; 4) Qizil askarlarga taslimchilik siyosati.**
 
-- 1, 2, 3 (to'g'ri)
++ 1, 2, 3
 - 2, 3, 4
 - 1, 2, 3, 4
 - 1, 3, 4
 
 **308. O’rta Osiyoda istiqlolchilik harakatining ikkinchi davri qaysi yillarda bo’lib o’tgan?**
 
-- 1925-1935-yillarda (to'g'ri)
++ 1925-1935-yillarda
 - 1926-1936-yillarda
 - 1927-1935-yillarda
 - 1929-1937-yillarda
@@ -2189,7 +2246,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **309. 1922-yil aprel oyida Junaidxon qo‘shinlari qayerni qizil askarlardan ozod qilishgan?**
 
 - Alieli shahri va uning atroflarini
-- Porsu shahri va uning atroflarini (to'g'ri)
++ Porsu shahri va uning atroflarini
 - Bog’ot shahri va uning atroflarini
 - Hazorasp shahri va uning atroflarini
 
@@ -2198,18 +2255,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Usmon Xo‘ja
 - Abdulhamid Oripov
 - Madaminbek
-- Junaidxon (to'g'ri)
++ Junaidxon
 
 **311. Turkistondagi istiqlolchilik harakati qachon mag‘lubiyatga uchragan?**
 
 - 1932-yilda
 - 1934-yilda
-- 1935-yilda (to'g'ri)
++ 1935-yilda
 - 1937-yilda
 
 **312. O’z lavozimini tark etib, Qizil armiyaga qarshi kurashish uchun muxolifatdagi qurolli harakatga qo’shilgan BXSR Markaziy Ijroiy Qo‘mitasi raisi kim?**
 
-- Usmon Xo‘ja (to'g'ri)
++ Usmon Xo‘ja
 - Abdulhamid Oripov
 - Muhiddin Maxsum Xo‘jayev
 - Ali Rizo Afandi
@@ -2217,43 +2274,46 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **313. O‘z lavozimini tark etib, Qizil armiyaga qarshi kurashish uchun muxolifatdagi qurolli harakatga qo‘shilgan BXSR harbiy ishlar noziri kim?**
 
 - Usmon Xo‘ja
-- Abdulhamid Oripov (to'g'ri)
++ Abdulhamid Oripov
 - Muhiddin Maxsum Xo‘jayev
 - Ali Rizo Afandi
 
 **314. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron49329769587560.png)
+
 - Usmon Xo‘ja
 - Shermuhammadbek
 - Madaminbek
-- Junaidxon (to'g'ri)
++ Junaidxon
 
 **315. Anvar Poshoning sa’y-harakatlari bilan Sharqiy Buxoroda amalga oshirilgan ishlarni aniqlang. 1) Birlashgan qismlar bunyod etilgan; 2) Qo‘shin turk zobitlari bilan mustahkamlangan; 3) G‘arbcha qo‘mondonlik uslubi joriy qilingan; 4) Vaqf mulklari askarlarga bepul bo‘lib berilgan.**
 
 - 1, 2, 4
 - 1, 3, 4
 - 2, 3, 4
-- 1, 2, 3 (to'g'ri)
++ 1, 2, 3
 
 **316. Anvar Posho 1921-yil 9-noyabrda Qarshi yaqinidagi Qiliko‘l atrofida kim bilan uchrashgan va bayonot bergan?**
 
 - Ibrohimbek
 - Davlatmandbek
-- Mulla Nafis (to'g'ri)
++ Mulla Nafis
 - Salim Posho
 
 **317. Buxorodagi istiqlolchilik harakatiga madad bo’lish uchun Turkiyadan kelgan generallarni toping.**
 
 - Nodir va Ibrohim Posho
 - Murod va Nodir Posho
-- Anvar va Salim Posho (to'g'ri)
++ Anvar va Salim Posho
 - Sulton va Mulla Nafis Posho
 
 **318. Mulla Abdulqahhor qayerda qizil askarlarga qarshi bo‘lgan janglarning birida halok bo‘lgan?**
 
 - Nurotada
 - Issiqko‘lda
-- Qizilqumda (to'g'ri)
++ Qizilqumda
 - Qoraqumda
 
 **319. O’rta Osiyoda istiqlolchilik harakatining birinchi davri qachon yakunlangan?**
@@ -2261,25 +2321,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1918-yil
 - 1919-yil
 - 1921-yil
-- 1924-yil (to'g'ri)
++ 1924-yil
 
 **320. “Xotiralar” kitobi muallifi kim?**
 
-- Ahmad Zaki Validiy (to'g'ri)
++ Ahmad Zaki Validiy
 - Usmon Xo‘ja
 - Abdulhamid Oripov
 - Mirza Salimbek
 
 **321. Qizil askarlarga qarshi kurash davrida sharqiy Buxoro hududida o‘zining boshqaruv usulini amalga oshirgan qo‘rboshi kim?**
 
-- Ibrohimbek (to'g'ri)
++ Ibrohimbek
 - Davlatmandbek
 - Mulla Abdulqahhor
 - Bahrombek
 
 **322. Junaidxon 1924-yil 17-iyunda o‘zining necha hamrohi bilan Afg‘onistonning Hirot shahriga yetib kelgan?**
 
-- 20 nafar (to'g'ri)
++ 20 nafar
 - 25 nafar
 - 30 nafar
 - 35 nafar
@@ -2290,20 +2350,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **323. Qachon Xorazm Kompartiyasining yangi rahbarlari respublikaning chegaralanishga kiritilishiga o‘z roziligini bildirgan?**
 
 - 1923-yil 13-iyunda
-- 1924-yil 26-iyulda (to'g'ri)
++ 1924-yil 26-iyulda
 - 1925-yil 15-dekabrda
 - 1926-yil 24-martda
 
 **324. I.V. Stalinning taklifi bilan RKP(B) MK Siyosiy byurosining “O‘rta Osiyo respublikalarini milliy-hududiy chegaralash to‘g‘risida” maxsus qarori qachon qabul qilingan?**
 
 - 1923-yil 13-iyulda
-- 1924-yil 12-iyunda (to'g'ri)
++ 1924-yil 12-iyunda
 - 1925-yil 15-dekabrda
 - 1926-yil 24-martda
 
 **325. 1924-yilgi RSFSR MIKning milliy-hududiy chegaralanishi to‘g‘risidagi qarorida Tojikiston ASSR qaysi hududning tarkibida tuzilishi kerak edi?**
 
-- O‘zSSR tarkibida (to'g'ri)
++ O‘zSSR tarkibida
 - RSFSR tarkibida
 - Qirg‘iziston ASSR tarkibida
 - Qozog‘iston SSR tarkibida
@@ -2313,19 +2373,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1, 2, 3, 4, 5, 6, 12
 - 2, 3, 4, 5, 6, 9, 11, 12
 - 1, 4, 5, 6, 7, 8, 10, 11, 12
-- 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 (to'g'ri)
++ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
 
 **327. Qachon RKP(B) MK O‘rta Osiyo byurosi yangi tashkil etiladigan milliy respublikalar va oblastlarning muvaqqat byurosini tashkil etgan?**
 
 - 1923-yil 23-iyunda
 - 1924-yil 12-iyunda
 - 1925-yil 25-dekabrda
-- 1924-yil 15-iyulda (to'g'ri)
++ 1924-yil 15-iyulda
 
 **328. Milliy-hududiy chegaralanish davrida Qoraqirg‘iz (Qirg‘iziston) muxtor viloyati qaysi davlat tarkibida tuzilgan?**
 
 - O‘zSSR tarkibida
-- RSFSR tarkibida (to'g'ri)
++ RSFSR tarkibida
 - Qirg‘iziston ASSR tarkibida
 - Qozog‘iston ASSR tarkibida
 
@@ -2334,19 +2394,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1927-yilda
 - 1926-yilda
 - 1928-yilda
-- 1929-yilda (to'g'ri)
++ 1929-yilda
 
 **330. Milliy-hududiy chegaralanish davrida O‘rta Osiyo hududidagi Turkiston ASSR, Buxoro va Xorazm respublikalari o‘rnida nechta milliy davlat birlashmalari tashkil etilgan?**
 
 - 4 ta
 - 5 ta
-- 6 ta (to'g'ri)
++ 6 ta
 - 7 ta
 
 **331. Butunbuxoro xalq vakillarining V qurultoyida O‘rta Osiyoda milliy-hududiy chegaralanishni o‘tkazish to‘g‘risida qaror qabul qilingan sanani toping.**
 
 - 1923-yil 23-iyun
-- 1924-yil 20-sentyabr (to'g'ri)
++ 1924-yil 20-sentyabr
 - 1925-yil 15-dekabr
 - 1924-yil 16-sentyabr
 
@@ -2355,47 +2415,47 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1923-yil 13-iyunda
 - 1923-yil 20-sentyabrda
 - 1924-yil 31-oktyabrda
-- 1924-yil 18-noyabrda (to'g'ri)
++ 1924-yil 18-noyabrda
 
 **333. Xorazm Kompartiyasi Markaziy Komiteti mas’ul kotibi Qalandar Odinayev qachon vazifasidan olib tashlangan?**
 
 - 1921-yilda
 - 1922-yilda
 - 1923-yilda
-- 1924-yilda (to'g'ri)
++ 1924-yilda
 
 **334. Turkiston ASSR MIKning favqulodda sessiyasida O‘rta Osiyoda milliy-hududiy chegaralanishni o‘tkazish to‘g‘risida qaror qabul qilingan sanani toping.**
 
 - 1923-yil 23-iyun
 - 1924-yil 12-iyun
 - 1925-yil 25-dekabr
-- 1924-yil 16-sentyabr (to'g'ri)
++ 1924-yil 16-sentyabr
 
 **335. 1924-yili 20-sentyabr kuni Butunbuxoro xalq vakillarining V qurultoyida “O‘rta Osiyoning milliy davlat chegaralanishi to‘g‘risida” ma’ruza qilgan shaxsni kim?**
 
 - M. Saidjonov
 - D. Kalugin
-- F. Xo‘jayev (to'g'ri)
++ F. Xo‘jayev
 - F. Asfandiyorov
 
 **336. Butunxorazm xalq vakillarining V qurultoyida O‘rta Osiyoda milliy-hududiy chegaralanishni o‘tkazish to‘g‘risida qaror qabul qilingan sanani toping.**
 
 - 1923-yil 13-iyun
 - 1924-yil 20-sentyabr
-- 1924-yil 29-oktyabr (to'g'ri)
++ 1924-yil 29-oktyabr
 - 1923-yil 16-sentyabr
 
 **337. Butunittifoq (SSSR) Markaziy Ijroiya Qo‘mitasining III sessiyasida O‘rta Osiyoda milliy-hududiy chegaralanishning o‘tkazilishi to‘g‘risida nutq so‘zlagan shaxs kim?**
 
 - M. Saidjonov
 - D. Kalugin
-- F. Xo‘jayev (to'g'ri)
++ F. Xo‘jayev
 - F. Asfandiyorov
 
 **338. Milliy-hududiy chegaralanish davrida Qozog‘iston ASSR qaysi davlat tarkibida tuzilgan?**
 
 - O‘zSSR tarkibida
-- RSFSR tarkibida (to'g'ri)
++ RSFSR tarkibida
 - Qirg‘iziston ASSR tarkibida
 - Tojikiston ASSR tarkibida
 
@@ -2403,14 +2463,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Saidjonov
 - Kalugin
-- Inoyatov (to'g'ri)
++ Inoyatov
 - Asfandiyorov
 
 **340. Qachon Butunittifoq (SSSR) Markaziy Ijroiya Qo‘mitasining III sessiyasida Turkiston ASSR  MIK favqulodda sessiyasi, Butunbuxoro va Butunxorazm xalq vakillarining V qurultoylari  qarorlari asosida O‘rta Osiyoda milliy respublikalar tuzish to‘g‘risida maxsus qarori qabul qilingan?**
 
 - 1923-yil 13-iyunda
 - 1924-yil 20-sentyabrda
-- 1924-yil 27-oktyabrda (to'g'ri)
++ 1924-yil 27-oktyabrda
 - 1923-yil 16-sentyabrda
 
 **341. Qoraqalpog‘iston ASSR qachondan O‘zSSR tarkibiga kiritilgan?**
@@ -2418,40 +2478,43 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1929-yildan
 - 1931-yildan
 - 1935-yildan
-- 1936-yildan (to'g'ri)
++ 1936-yildan
 
 **342. O‘zbekiston SSR Muvaqqat inqilobiy komiteti (Markaziy revkom) qachon tashkil topgan?**
 
 - 1923-yil 13-iyunda
 - 1924-yil 20-sentyabrda
-- 1924-yil 31-oktyabrda (to'g'ri)
++ 1924-yil 31-oktyabrda
 - 1923-yil 16-sentyabrda
 
 **343. Qachon RSFSR (Butunrossiya) MIKning II sessiyasida Turkiston ASSR MIKning milliy-hududiy chegaralanishi to‘g‘risidagi qarori ayrim tuzatishlar bilan qabul qilingan?**
 
 - 1923-yil 23-iyunda
 - 1924-yil 20-sentyabrda
-- 1924-yil 14-oktyabrda (to'g'ri)
++ 1924-yil 14-oktyabrda
 - 1923-yil 16-sentyabrda
 
 **344. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron21686789808055.png)
+
 - M. Saidjonov
 - D. Kalugin
-- F. Xo‘jayev (to'g'ri)
++ F. Xo‘jayev
 - F. Asfandiyorov
 
 **345. Qachon Farg‘ona vodiysi vakillari RSFSR tarkibida Farg‘ona muxtor viloyatini tashkil etish to‘g‘risidagi taklif bilan chiqqan edilar?**
 
 - 1921-yilda
 - 1922-yilda
-- 1923-yilda (to'g'ri)
++ 1923-yilda
 - 1924-yilda
 
 **346. Qachon Qirg‘iziston ASSR (aslida Qozog‘iston ASSR) tuzilgan?**
 
 - 1919-yilda
-- 1920-yilda (to'g'ri)
++ 1920-yilda
 - 1921-yilda
 - 1922-yilda
 
@@ -2459,7 +2522,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1, 2, 3, 5, 6, 7
 - 1, 3, 4, 5, 6, 7
-- 1, 2, 3, 4, 5, 6 (to'g'ri)
++ 1, 2, 3, 4, 5, 6
 - 2, 3, 4, 5, 6, 7
 
 **348. Milliy-hududiy chegaralanish davrida Qoraqalpoq muxtor viloyati (keyinchalik Qoraqalpog‘iston ASSR muxtor viloyati) qaysi davlat tarkibida tuzilgan?**
@@ -2467,12 +2530,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - O‘zSSR tarkibida
 - RSFSR tarkibida
 - Qirg‘iziston ASSR tarkibida
-- Qozog‘iston ASSR tarkibida (to'g'ri)
++ Qozog‘iston ASSR tarkibida
 
 **349. Qachon Xorazm rahbarlari RKP(B) MK ga “Xorazmda milliy masalani hal qilish to‘g‘risida maktub” yuborib, unda Xorazmni chegaralanishga qo‘shmaslikni iltimos qilganlar?**
 
 - 1923-yil 3-iyunda
-- 1924-yil 8-mayda (to'g'ri)
++ 1924-yil 8-mayda
 - 1925-yil 5-dekabrda
 - 1926-yil 4-martda
 
@@ -2481,14 +2544,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 **350. 1925-yil 6-12 fevraldagi O‘zbekiston Kommunistik partiyasining I ta’sis syezdida SSSR Markaziy Ijroiya Qo‘mitasidan kim qatnashgan va ma’ruza qilgan?**
 
-- M. Kalinin (to'g'ri)
++ M. Kalinin
 - V. Ivanov
 - A. Ikromov
 - D. Karimov
 
 **351. Quyidagilardan “Qo’shchi” uyushmasining faolini toping.**
 
-- Y. Oxunboboyev (to'g'ri)
++ Y. Oxunboboyev
 - A. Ikromov
 - M. Kalinin
 - F. Xo’jayev
@@ -2496,7 +2559,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **352. O‘zbekiston SSR tarkibida Tojikiston Avtonom Sovet Sotsialistik Respublikasi (Tojikiston ASSR) tuzilganligi haqida deklaratsiya qayerda qabul qilingan?**
 
 - Moskvada
-- Dushanbeda (to'g'ri)
++ Dushanbeda
 - Toshkentda
 - Buxoroda
 
@@ -2505,12 +2568,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Y. Oxunboboyev
 - A. Ikromov
 - M. Kalinin
-- F. Xo‘jayev (to'g'ri)
++ F. Xo‘jayev
 
 **354. O‘zbekiston SSR Markaziy Ijroiya Qo‘mitasi raisi lavozimlariga saylanishdan oldin Yo‘ldosh Oxunboboyev qaysi lavozimda edi?**
 
 - O‘zbekiston SSR Xalq Komissarlari Soveti raisi
-- “Qo‘shchi” uyushmasi faoli (to'g'ri)
++ “Qo‘shchi” uyushmasi faoli
 - O‘zbekiston SSR Markaziy Ijroiya Qo‘mitasi raisi
 - Turkiston kompartiyasi raisi
 
@@ -2518,7 +2581,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - O’sh
 - Bishkek
-- Xo’jand (to'g'ri)
++ Xo’jand
 - Dushanbe
 
 **356. Yosh avlodni kommunistik ruhda tarbiyalash bilan qaysi tashkilot shug‘ullangan?**
@@ -2526,25 +2589,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - O‘zSSR MIK VKP
 - O‘zSSR KP
 - “Qo‘shchi” ittifoqi
-- O‘zLKSM (to'g'ri)
++ O‘zLKSM
 
 **357. O‘zbekiston SSR Butunittifoq Sovetlarining nechanchi syezdida SSSR tarkibiga qabul qilingan?**
 
 - II syezdida
 - IV syezdida
 - V syezdida
-- III syezdida (to'g'ri)
++ III syezdida
 
 **358. O‘zbekiston SSR ning birinchi Konstitutsiyasi qachon qabul qilingan?**
 
 - 1926-yil 25-aprelda
-- 1927-yil 30-martda (to'g'ri)
++ 1927-yil 30-martda
 - 1927-yil 30-aprelda
 - 1926-yil 25-martda
 
 **359. O‘zbekiston SSR Sovetlarining nechanchi syezdida uning birinchi Konstitutsiyasi qabul qilingan?**
 
-- II syezdida (to'g'ri)
++ II syezdida
 - IV syezdida
 - V syezdida
 - III syezdida
@@ -2553,20 +2616,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - O’zSSR MIK
 - O’zSSR KP
-- “Qo‘shchi” ittifoqi (to'g'ri)
++ “Qo‘shchi” ittifoqi
 - O‘z SSR XKS
 
 **361. “Qo‘shchi” ittifoqi kimlarni g‘oyaviy jihatdan birlashtirib turgan tashkil edi?**
 
 - Hunarmandlarni
 - Ziyolilarni
-- Dehqonlarni (to'g'ri)
++ Dehqonlarni
 - Ayollarni
 
 **362. O’zbekiston SSR ning poytaxtlarini poytaxtlik davri bilan molsashtiring. 1) Samarqand; 2) Toshkent; 3) Buxoro. a) 1925-yil fevral-aprel; b) 1925-yil aprel 1930-yil sentyabr; c) 1930-1991-yil.**
 
 - 1-a, 2-b, 3-c
-- 1-b, 2-c, 3-a (to'g'ri)
++ 1-b, 2-c, 3-a
 - 1-c, 2-b, 3-a
 - 1-b, 2-a, 3-c
 
@@ -2575,19 +2638,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1918-1953-yillarda
 - 1920-1961-yillarda
 - 1923-1991-yillarda
-- 1925-1952-yillarda (to'g'ri)
++ 1925-1952-yillarda
 
 **364. O‘zbekiston SSR da qachon ilk bor ma’muriy-hududiy bo‘linish o‘tkazilgan?**
 
 - 1924-yil 28-martda
-- 1925-yil 29-yanvarda (to'g'ri)
++ 1925-yil 29-yanvarda
 - 1926-yil 29-sentyabrda
 - 1927-yil 19-avgustda
 
 **365. SSSR 1922-yil 30-dekabrda tashkil topganida quyidagi qaysi davlat ishtirok etmagan?**
 
 - RSFSR
-- Moldoviya (to'g'ri)
++ Moldoviya
 - ZSFSR – Kavkazorti
 - Ukraina
 
@@ -2595,19 +2658,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Qo‘qonda
 - Samarqandda
-- Buxoroda (to'g'ri)
++ Buxoroda
 - Toshkentda
 
 **367. 1925-yilda “Qo’shchi” ittifoqi nechta kishini o’ziga birlashtirgan edi?**
 
-- 200 ming kishini (to'g'ri)
++ 200 ming kishini
 - 300 ming kishini
 - 400 ming kishini
 - 500 ming kishini
 
 **368. 1925-yil 6-12-fevralda qaysi shaharda O‘zbekiston Kommunistik partiyasining I ta’sis syezdi bo‘lib o‘tgan?**
 
-- Buxoroda (to'g'ri)
++ Buxoroda
 - Samarqandda
 - Toshkentda
 - Xivada
@@ -2617,18 +2680,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1929-yil 15-oktyabrda
 - 1931-yil 12-oktyabrda
 - 1932-yil 10-sentyabrda
-- 1930-yil 20-sentyabrda (to'g'ri)
++ 1930-yil 20-sentyabrda
 
 **370. O‘zbekiston SSR Xalq Komissarlari Soveti raisi lavozimlariga saylanishdan oldin Fayzulla Xo‘jayev qaysi lavozimda edi?**
 
-- Buxoro SSR hukumati raisi (to'g'ri)
++ Buxoro SSR hukumati raisi
 - “Qo‘shchi” uyushmasi faoli
 - O‘zbekiston SSR Markaziy Ijroiya Qo‘mitasi raisi
 - Turkiston kompartiyasi raisi
 
 **371. 1925-yil 12-19-fevralda Qoraqalpoq avtonom viloyati … Sovetlarining I ta’sis syezdi bo‘lib o‘tgan.**
 
-- qizil askar, dehqon va batrak deputatlari (to'g'ri)
++ qizil askar, dehqon va batrak deputatlari
 - dehqon, hunarmand, qizil askarlar deputatlari
 - dehqon, batrak, miliy ziyolilar deputatlari
 - dehqon, ko’chmanchi, qizil askarlar deputatlari
@@ -2638,12 +2701,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Xivada
 - Moskvada
 - Toshkentda
-- To’rtko’lda (to'g'ri)
++ To’rtko’lda
 
 **373. 1926-yil 29-sentyabrda O’zSSR MIQ V sessiyasining rayonlashtirish to’g’risidagi qaroriga ko’ra O’zbekistonda mavjud bo’lgan 7 ta viloyat o’rniga nechta okrug tuzilgan?**
 
 - 12 ta
-- 10 ta (to'g'ri)
++ 10 ta
 - 13 ta
 - 18 ta
 
@@ -2651,7 +2714,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1922-1941-yillarda
 - 1918-1940-yillarda
-- 1920-1933-yillarda (to'g'ri)
++ 1920-1933-yillarda
 - 1921-1935-yillarda
 
 **375. 1924-yil oxirida O‘rta Osiyo respublikalarida 8 131 062 kishi yashagan bo‘lib, ularning qariyib yarmisi qayerda istiqomat qilgan?**
@@ -2659,18 +2722,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Qirg‘izistonda
 - Qozog‘istonda
 - Tojikistonda
-- O‘zbekistonda (to'g'ri)
++ O‘zbekistonda
 
 **376. O‘zbekiston komsomoliga qachon va qayerda asos solingan?**
 
 - 1925-yilda Toshkentda
 - 1926-yilda Buxoroda
 - 1926-yilda Farg’onada
-- 1925-yilda Samarqandda (to'g'ri)
++ 1925-yilda Samarqandda
 
 **377. Dastlab tashkil qilingan paytda O’zSSR tarkibida nechta viloyat mavjud edi?**
 
-- 7 ta (to'g'ri)
++ 7 ta
 - 8 ta
 - 9 ta
 - 6 ta
@@ -2679,12 +2742,15 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Moskvada
 - Samarqandda
-- Toshkentda (to'g'ri)
++ Toshkentda
 - Buxoroda
 
 **379. Quyidagi suratda kim tasvirlangan?**
 
-- Y. Oxunboboyev (to'g'ri)
+
+![](../images/astron1189034782552.png)
+
++ Y. Oxunboboyev
 - A. Ikromov
 - M. Kalinin
 - F. Xo‘jayev
@@ -2692,14 +2758,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **380. Qaysi shahar respublikaning markazida joylashgan bo‘lib, bu holat yangi tashkil qilingan O‘zbekiston SSR hududining barcha qismlarini amalda bir butun qilib birlashtirishga hamda sovet tashkilotlari ishini jonlantirishga yordam bergan?**
 
 - Xo‘jand
-- Samarqand (to'g'ri)
++ Samarqand
 - Toshkent
 - Buxoro
 
 **381. O‘zbekiston kasaba uyushmasiga qachon asos solingan?**
 
 - 1925-yil 28-martda
-- 1925-yil 21-martda (to'g'ri)
++ 1925-yil 21-martda
 - 1926-yil 29-sentyabrda
 - 1926-yil 20-sentyabrda
 
@@ -2707,7 +2773,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1926-yil 12-martda
 - 1925-yil 22-martda
-- 1925-yil 17-fevralda (to'g'ri)
++ 1925-yil 17-fevralda
 - 1926-yil 25-fevralda
 
 ## 11-§ O’zbekistonda qishloq xo’jaligini kollektivlashtirish siyosati hamda quloqlarning surgun qilinishi.
@@ -2718,11 +2784,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - O‘zSSR G‘alla tayyorlash guruhi vakili
 - O‘zSSR MIQ sekretari
 - O‘zSSR XKS sekretari
-- O‘zSSR Kompartiyasi MK sekretari (to'g'ri)
++ O‘zSSR Kompartiyasi MK sekretari
 
 **384. O’zSSR da kolxozlarga kirmagan dehqonlarga nisbatan qandan tayziqlar amalga oshirilgan?**
 
-- Qishloq xo‘jalik soliqlari oshirilgan (to'g'ri)
++ Qishloq xo‘jalik soliqlari oshirilgan
 - Davlatga majburan topshiriladigan mahsulot hajmi kolxozlarga nisbatan 60 foizga ko‘paytirilgan
 - “Vatanga xiyonat qilishda“ ayblashgan
 - Ular turli majburiy ishlarga jalb etilgan
@@ -2732,11 +2798,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1930-yilda
 - 1928-yilda
 - 1929-yilda
-- 1932-yilda (to'g'ri)
++ 1932-yilda
 
 **386. Yer-suv islohotlarining ikkinchi bosqichi o‘tkazilgan hududlarni davri bilan to‘g‘ri berilgan qatorni toping. 1) Farg‘ona, Toshkent, Samarqand viloyatlari; 2) Qashqadaryo, Surxondaryo, Xorazm okruglari; 3) Zarafshon viloyati (Buxoro va O‘rta Zarafshon okruglari). a) 1925-1926-yillar; b) 1927-yil; c) 1928-1929-yillar.**
 
-- 1-a, 2-c, 3-b (to'g'ri)
++ 1-a, 2-c, 3-b
 - 1-c, 2-b, 3-a
 - 1-a, 2-b, 3-c
 - 1-b, 2-c, 3-a
@@ -2744,7 +2810,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **387. 1931-yilda quyidagi qaysi hududlarda quloqlar uchun maxsus konsentratsion lagerlar va ko‘chirib keltirilganlarning  majburiy mehnat posyolkalari tashkil qilingan edi? 1) Qo‘qon; 2) Chust-Pop; 3) Oqdaryo; 4) Ikromov; 5) G‘ijduvon; 6) Vobkent; 7) Bauman; 8) Denov; 9) Sariosiyo; 10) Quvasoy; 11) Yangiyer; 12) Quva; 13) Yangiyo‘l.**
 
 - 1, 3, 5, 7, 8, 9, 10, 11, 12, 13
-- 1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 13 (to'g'ri)
++ 1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 13
 - 1, 4, 5, 6, 8, 10, 13
 - 1, 2, 5, 6, 9, 11, 13
 
@@ -2752,13 +2818,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1932-1954-yillarni
 - 1933-1953-yillarni
-- 1934-1956-yillarni (to'g'ri)
++ 1934-1956-yillarni
 - 1935-1952-yillarni
 
 **389. O’zSSR da “Agrar inqilob” ning strategiya va taktikasi qachon tasdiqlangan?**
 
 - 1924-yil dekabrda
-- 1925-yil noyabrda (to'g'ri)
++ 1925-yil noyabrda
 - 1926-yil martda
 - 1927-yil fevralda
 
@@ -2766,7 +2832,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 30 dan ziyod            
 - 40 dan ziyod            
-- 60 dan ziyod (to'g'ri)
++ 60 dan ziyod
 - 80 dan ziyod
 
 **391. Qachon O‘zbekistonda yakka dehqon xo‘jaliklariga butkul barham berilgan?**
@@ -2774,12 +2840,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1932-yilda
 - 1933-yilda
 - 1937-yilda
-- 1939-yilda (to'g'ri)
++ 1939-yilda
 
 **392. Qachondan boshlab O‘zbekistonda yalpi jamoalashtiriladigan tumanlar qaytadan tuzilgan?**
 
 - 1929-yilning kuzidan
-- 1931-yilning bahoridan (to'g'ri)
++ 1931-yilning bahoridan
 - 1933-yilning yozidan
 - 1927-yilning qishidan
 
@@ -2788,18 +2854,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Qishloqlarda yangi birlashmalar-kommunalar va sovxozlar tashkil etilganligi
 - Islohot natijasida dehqonlarning katta qismi yer-mulkka ega bo’lganligi
 - Qishloqlarda chorakor-batraklar toifasining tugatilganligi
-- Islohot natijasida quloqlarning sinf sifatida butunlay tugatilganligi (to'g'ri)
++ Islohot natijasida quloqlarning sinf sifatida butunlay tugatilganligi
 
 **394. G‘alla tayyorlash kompaniyaning murosasizligi haqida “G‘alla tayyorlash urush degandek gap. G‘alla tayyorlovchilar otishi, qamashi va boshqa ishlar qilishi mumkin. Ular hukmbardorlik qiladi”, deb ta’riflagan Jalilov qaysi tumanning g‘alla tayyorlash guruhi vakili edi?**
 
 - Shofirkon tumanining
 - Samarqand tumanining
-- Shahrisabz tumanining (to'g'ri)
++ Shahrisabz tumanining
 - Karmana tumanining
 
 **395. Quyidagi hujjatlarni qabul qilingan sanasi bilan to‘g‘ri berilgan javobni toping. 1) O‘zbekiston SSR MIK ning “Suv va suvni natsionalizatsiya qilish to‘g‘risida” va “yer-suv islohoti to‘g‘risida” gi dekreti; 2) O‘zbekiston Kompartiyasi Markaziy Komitetining “Kollektivlashtirish va quloq xo‘jaliklarini tugatish to‘g‘risida” gi qarori; 3) VKP(B) MK Siyosiy byurosining  “Yoppasiga jamoalashtirish rayonlarida quloq xo‘jaliklarini tugatish tadbirlari to‘g‘risida” gi qarori. a) 1925-yil 2-dekabr; b) 1930-yil 26-yanvar; c) 1930-yil 17-fevral.**
 
-- 1-a, 2-c, 3-b (to'g'ri)
++ 1-a, 2-c, 3-b
 - 1-c, 2-b, 3-a
 - 1-a, 2-b, 3-c
 - 1-b, 2-c, 3-a
@@ -2808,19 +2874,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1, 4, 6
 - 2, 3, 5
-- 1, 4, 5 (to'g'ri)
++ 1, 4, 5
 - 3, 4, 6
 
 **397. 1930-yil mart oyida O‘zSSR da va SSSR miqyosida kollektivlashtirishga qarshi qancha qurolli chiqishlar qayd etilgan?**
 
-- 240 ta; 2000 dan ortiq (to'g'ri)
++ 240 ta; 2000 dan ortiq
 - 260 ta; 3000 dan ortiq
 - 430 ta; 3500 dan ortiq
 - 280 ta; 2500 dan ortiq
 
 **398. O’zSSR da quloqlashtirish siyosati asosan qaysi yilda amalga oshirib bo‘lingan?**
 
-- 1933-yilda (to'g'ri)
++ 1933-yilda
 - 1937-yilda
 - 1935-yilda
 - 1931-yilda
@@ -2828,7 +2894,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **399. Mustabid sovet rejimi qaysi yillarda badavlat va o‘rtahol dehqonlarni qishloq burjuaziyasi sifatida tugatish siyosatini olib borgan?**
 
 - 1925-1933-yillarda
-- 1929-1935-yillarda (to'g'ri)
++ 1929-1935-yillarda
 - 1927-1939-yillarda
 - 1926-1937-yillarda
 
@@ -2836,7 +2902,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1925-yilda
 - 1927-yilda
-- 1929-yilda (to'g'ri)
++ 1929-yilda
 - 1933-yilda
 
 **401. O‘zSSR da yer-suv islohoti jarayonida Farg‘ona viloyatida … desyatina, Toshkent va Samarqand viloyatlarida … desyatina va undan ortiq sug‘oriladigan yerlari bor katta yer egalarining xo‘jaliklari butunlay tugatilishi nazarda tutilgan edi.**
@@ -2844,19 +2910,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 50/60
 - 30/40
 - 10/20
-- 40/50 (to'g'ri)
++ 40/50
 
 **402. Quloq xo‘jaliklarini tugatish kompaniyasi O‘zbekistonda qachondan boshlab avj olgan?**
 
 - 1927-yil noyabrdan
 - 1929-yil yanvardan
-- 1930-yil fevraldan (to'g'ri)
++ 1930-yil fevraldan
 - 1933-yil sentyabrdan
 
 **403. Qachon SSSR hududida mehnat surgunida bo‘lgan 1152 o‘zbekistonlik “quloqlar” harakatdagi armiya safiga chaqirilib, frontga jo‘natilgan?**
 
 - 1941-yilda
-- 1942-yilda (to'g'ri)
++ 1942-yilda
 - 1943-yilda
 - 1939-yilda
 
@@ -2865,11 +2931,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Sirdaryo okrugida
 - O’rta Zarafshon okrugida
 - Samarqand okrugida
-- Qashqadaryo okrugida (to'g'ri)
++ Qashqadaryo okrugida
 
 **405. O’zSSR da yer-suv islohotidan so’ng o’ziga to’q dehqonlarga qancha yer qoldirilgan?**
 
-- 7-10 desyatina (to'g'ri)
++ 7-10 desyatina
 - 10-13 desyatina
 - 4-7 desyatina
 - 11-14 desyatina
@@ -2879,12 +2945,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Qashqadaryo va Sirdaryoda
 - Xorazm va Buxoroda
 - Farg‘ona va Qashqadaryoda
-- Toshkent va Samarqandda (to'g'ri)
++ Toshkent va Samarqandda
 
 **407. 1933-yilda O‘zbekistonda surgun qilingan quloq xo‘jaliklari soni qanchaga yetgan?**
 
 - 5000 tagacha
-- 5500 tagacha (to'g'ri)
++ 5500 tagacha
 - 6000 tagacha
 - 6500 tagacha
 
@@ -2893,11 +2959,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Qiliko’l, Kattag’amxo’r
 - Bog’iafsal, Vardonze
 - G’ishti, Ilyali
-- Ko’li Odina, Jilvon (to'g'ri)
++ Ko’li Odina, Jilvon
 
 **409. O‘zSSR da 1925-1929-yillarda o‘tkazilgan islohotlar natijasida barcha viloyatlarda … ga yaqin boy xo‘jaliklar tugatilgan, … dan ortiq o‘ziga to‘q xo‘jaliklarning “ortiqcha” yerlari tortib olingan.**
 
-- 5000, 23 000 (to'g'ri)
++ 5000, 23 000
 - 5500, 24 000
 - 6000, 23 000
 - 6500, 23 500
@@ -2906,13 +2972,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 12 ta
 - 15 ta
-- 19 ta (to'g'ri)
++ 19 ta
 - 26 ta
 
 **411. 410 g. ga teng og’irlik o’lchovi qanday ataladi?**
 
 - Pud
-- Funt (to'g'ri)
++ Funt
 - Botmon
 - Unsiya
 
@@ -2920,14 +2986,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 65 foizi
 - 70 foizi
-- 75 foizi (to'g'ri)
++ 75 foizi
 - 80 foizi
 
 **413. O’zSSR da quloqlar uchun maxsus konsentratsion lagerlar va ko‘chirib keltirilganlarning nechta majburiy mehnat posyolkalari tashkil qilingan edi?**
 
 - 12 ta
 - 15 ta
-- 17 ta (to'g'ri)
++ 17 ta
 - 19 ta
 
 **414. Siyosiy mahbuslar qamaladigan maxsus lager qanday nomlanadi?**
@@ -2935,7 +3001,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Politlager
 - Quloqlar lageri
 - Mehnat lageri
-- Konsentratsion lager (to'g'ri)
++ Konsentratsion lager
 
 ## 12-§ O’zbekistonda industrlashtirish siyosatining amalga oshirilishi va kadrlar masalasi.
 
@@ -2943,34 +3009,37 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **415. Birinchi besh yillikda O’zbekistonda nechta korxona qurilgan?**
 
 - 298 ta
-- 289 ta (to'g'ri)
++ 289 ta
 - 279 ta
 - 239 ta
 
 **416. “Davlat apparatini mahalliylashtirish va yerli millat ishchilarini ishlab chiqarishga jalb qilish to‘g‘risida”gi masala ko‘rilgan O‘zbekiston Kommunistik partiyasining III syezdi qachon bo‘lib o‘tgan?**
 
 - 1927-yil 26-29-iyunda
-- 1927-yil 16-24-noyabrda (to'g'ri)
++ 1927-yil 16-24-noyabrda
 - 1925-yil 13-18-mayda
 - 1932-yil 22-25-martda
 
 **417. Qachon Chirchiq-Bo‘zsuv GES lar kaskadi barpo etilgan?**
 
 - XX asr 20-yillarida
-- XX asr 30-yillarida (to'g'ri)
++ XX asr 30-yillarida
 - XX asr 40-yillarida
 - XX asr 50-yillarida
 
 **418. Quyidagi suratda kim tasvirlangan?**
 
-- A. Ikromov (to'g'ri)
+
+![](../images/astron4856222343372.png)
+
++ A. Ikromov
 - S. Muxtorjonov
 - O. Po’latov
 - B. Mavlonbekov
 
 **419. Samarqand shahrida bo‘lib o‘tgan, “Partiya, sovet, xo‘jalik, kasaba uyushmalari va kooperativ tashkilotlariga mahalliy aholini jalb qilish” masalasi ko‘rib chiqilgan O‘zbekiston Kommunistik partiyasining II syezdi qachon bo‘lib o‘tgan?**
 
-- 1925-yil 22-30-noyabrda (to'g'ri)
++ 1925-yil 22-30-noyabrda
 - 1926-yil 25-30-martda
 - 1927-yil 3-12-yanvarda
 - 1928-yil 9-11-fevralda
@@ -2978,7 +3047,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **420. XX asr 20-30-yillarida O’zbekistonda elektr stansiyalari quvvati necha kilovattga yetgan?**
 
 - 428 mln. kilovattga
-- 482 mln. kilovattga (to'g'ri)
++ 482 mln. kilovattga
 - 284 mln. kilovattga
 - 842 mln. kilovattga
 
@@ -2987,11 +3056,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - A. Ikromov
 - S. Muxtorjonov
 - O. Po’latov
-- B. Mavlonbekov (to'g'ri)
++ B. Mavlonbekov
 
 **422. O‘rta Osiyo respublikalarida paxtachilik va mashinasozlik sanoatining to‘ng‘ichi bo‘lgan korxona qaysi?**
 
-- Toshkent qishloq xo‘jaligi mashinasozligi zavodi (to'g'ri)
++ Toshkent qishloq xo‘jaligi mashinasozligi zavodi
 - Toshkent to‘qimachilik kombinati
 - Chirchiq elektr kimyo kombinati
 - Toshkent traktor zavodi
@@ -3000,20 +3069,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1929-yil 8-martda
 - 1930-yil 2-martda
-- 1925-yil 3-martda (to'g'ri)
++ 1925-yil 3-martda
 - 1932-yil 5-martda
 
 **424. “Davlat apparatini mahalliylashtirish Markaziy komissiyasi” nomi qachon “Davlat apparati va sanoatni O‘zbeklashtirish Markaziy komissiyasi” deb o‘zgartirilgan?**
 
 - 1925-yil 2-noyabrda
 - 1926-yil 5-martda
-- 1927-yil 8-yanvarda (to'g'ri)
++ 1927-yil 8-yanvarda
 - 1928-yil 1-fevralda
 
 **425. F. Xo’jayev tashabbusi bilan qaysi tashkilot huzurida “Davlat apparatini mahalliylashtirish Markaziy komissiyasi” tuzilgan?**
 
 - O’zSSR XKS
-- O’zSSR MIK (to'g'ri)
++ O’zSSR MIK
 - O’zSSR Kompartiyasi
 - O’zSSR LKSM
 
@@ -3021,34 +3090,34 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1926-yilgacha
 - 1927-yilgacha
-- 1928-yilgacha (to'g'ri)
++ 1928-yilgacha
 - 1929-yilgacha
 
 **427. Qachon O‘zbeklashtirish Markaziy komissiyasi faoliyati to‘xtatilgan?**
 
 - 1929-yil 18-noyabrda
 - 1930-yil 21-martda
-- 1931-yil 11-dekabrda (to'g'ri)
++ 1931-yil 11-dekabrda
 - 1932-yil 16-martda
 
 **428. 1927-yilda O‘zSSR xalq xo‘jaligida qishloq xo‘jaligining va sanoatning salmog‘i qancha foizni tashkil etgan?**
 
 - 66,2 %; 34,4 %
 - 64,6 %; 34,7 %
-- 62,6 %; 37,4 % (to'g'ri)
++ 62,6 %; 37,4 %
 - 63,6 %; 37,2 %
 
 **429. SSSR da mamlakat xo’jaligini rivojlantirishga qaratilgan xo’jalik yuritishning besh yillik rejalari qachondan qabul qilina boshlangan?**
 
 - 1927-yildan
-- 1928-yildan (to'g'ri)
++ 1928-yildan
 - 1929-yildan
 - 1930-yildan
 
 **430. Qachon SSSR da iqtisodiyotni rivojlantirishning hal qiluvchi vositasi sifatida sotsialistik industrlashtirishga o‘tish ommaviy tarzda e’lon qilingan?**
 
 - 1925-yil mayda
-- 1925-yil dekabrda (to'g'ri)
++ 1925-yil dekabrda
 - 1927-yil aprelda
 - 1927-yil iyunda
 
@@ -3057,18 +3126,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1925-yil 22-noyabrda
 - 1926-yil 10-martda
 - 1927-yil 28-yanvarda
-- 1928-yil 18-fevralda (to'g'ri)
++ 1928-yil 18-fevralda
 
 **432. 1920-yillarda O’zbekistonda sanoat ishlab chiqarishining qancha foizi qishloq xo‘jalik xomashyosini qayta ishlashga asoslangan edi?**
 
 - 60 foizi
 - 70 foizi
 - 80 foizi
-- 90 foizi (to'g'ri)
++ 90 foizi
 
 **433. O’zbekistonda sanoatni industrlashtirish qachon amalga oshirilgan?**
 
-- 1928-yilda (to'g'ri)
++ 1928-yilda
 - 1930-yilda
 - 1932-yilda
 - 1934-yilda
@@ -3077,14 +3146,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 5 oy oldin
 - 7 oy oldin
-- 9 oy oldin (to'g'ri)
++ 9 oy oldin
 - 4 oy oldin
 
 **435. XX asr 20-30-yillarida O’zbekistonda yengil sanoatning qaysi sohalarida ishlab chiqarish sur’atlari oshib borgan? 1) Ko‘nchilik; 2) To‘quvchilik; 3) Poyabzal ishlab chiqarish; 4) Tikuvchilik; 5) Matoga gul bosish; 6) Ip-gazlama ishlab chiqarish.**
 
 - 1, 2, 3, 5
 - 2, 4, 5, 6
-- 1, 3, 4, 6 (to'g'ri)
++ 1, 3, 4, 6
 - 1, 2, 3, 4
 
 **436. O’zSSR da tashkil etilgan “Davlat apparatini mahalliylashtirish Markaziy komissiyasi” zimmasiga qanday vazifa yuklangan edi?**
@@ -3092,12 +3161,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - O’zbek tiliga davlat tili maqomini beruvchi qonun lohihasini ishlab chiqish
 - O’zSSR dagi barcha korxona va tashkilotlarda mahalliy kadrlarni ko’paytirish
 - O’zSSR dagi barcha korxona va tashkilotlarda ish yuritishda o’zbek tiliga o’tkazish
-- O’zSSR dagi barcha korxona va tashkilotlarda mahalliylashtirish asosiy rejasini ishlab chiqish (to'g'ri)
++ O’zSSR dagi barcha korxona va tashkilotlarda mahalliylashtirish asosiy rejasini ishlab chiqish
 
 **437. Bir daryo oqimida bir-biridan ma’lum masofada joylashgan, umumiy suv xo‘jalik rejimi bilan o‘zaro bog‘langan bir nechta gidroelektrostansiya qanday ataladi?**
 
 - Gidrouzel
-- GES lar kaskadi (to'g'ri)
++ GES lar kaskadi
 - Kollektorlar
 - Logistika
 
@@ -3106,7 +3175,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 **438. O’zSSRda 1939-yilda qancha xotin-qizlar traktorchilikka o’qigan?**
 
-- 2500 nafar ayol (to'g'ri)
++ 2500 nafar ayol
 - 2550 nafar ayol
 - 3000 nafar ayol
 - 3200 nafar ayol
@@ -3116,25 +3185,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - O’ta salbiy oqibatlarga olib kelgan
 - 2500 dan ortiq ayollar o’z jonini qurbon qilgan
 - “Hujum” kompaniyasiga qarshi bo’lgan ayollarga  nisbatan zulum o’tkazish boshlangan
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **440. 1927-yilda Andijondagi Eski shahar ayollar klubiga necha nafar ayol a’zo bo’lgan?**
 
 - 150 nafar ayol
 - 142 nafar ayol
-- 134 nafar ayol (to'g'ri)
++ 134 nafar ayol
 - 125 nafar ayol
 
 **441. “Hujum” kompaniyasini o’tkazish uchun maxsus komissiyalar O’zbekistonda qachon tuzilgan?**
 
-- 1926-yil dekabrda (to'g'ri)
++ 1926-yil dekabrda
 - 1927-yil yanvarda
 - 1928-yil martda
 - 1929-yil mayda
 
 **442. 1930-yil O’zSSRda hunarmandchilik kooperatsiyasining 50 dan ortiq artellarida qancha mahalliy ayollar ishlagan?**
 
-- 5000 nafardan ko’proq (to'g'ri)
++ 5000 nafardan ko’proq
 - 4500 nafardan ko’proq
 - 6000 nafardan ko’proq
 - 7000 nafardan ko’proq
@@ -3142,20 +3211,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **443. O’zSSRda “Hujum” kompaniyasi qachon e’lon qilingan va boshlangan?**
 
 - 1925-yil avgustda/1926-yil 12-sentyabrda
-- 1926-yil sentyabrda/1927-yil 8-martda (to'g'ri)
++ 1926-yil sentyabrda/1927-yil 8-martda
 - 1927-yil oktyabrda/1928-yil 20-martda
 - 1928-yil noyabrda/1929-yil 13-mayda
 
 **444. 1927-yil O’zSSRdagi tuman ijroiya va okrug ijroiya qo’mita a’zolarining qancha foizini ayollar tashkil etgan?**
 
-- 20 foiz/17 foiz (to'g'ri)
++ 20 foiz/17 foiz
 - 30 foiz/20 foiz
 - 25 foiz/40 foiz
 - 22 foiz/20 foiz 
 
 **445. Otning dumi qilidan to’qilgan, yuzga tutiladigan to’r parda qanday nomlangan?**
 
-- Chachvon (to'g'ri)
++ Chachvon
 - Chopon
 - Saukele
 - Paranji
@@ -3164,26 +3233,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 16 ta artelda 800 nafar ayol
 - 17 ta artelda 600 nafar ayol
-- 16 ta artelda 814 nafar ayol (to'g'ri)
++ 16 ta artelda 814 nafar ayol
 - 14 ta artelda 700 nafar ayol
 
 **447. “Artel” so’zi qaysi tildan olingan va qanday ma’noni anglatadi?**
 
 - Fransuzcha “shogirt” degani
-- Italyancha “hunarmand” degani (to'g'ri)
++ Italyancha “hunarmand” degani
 - Nemischa “mahsulot” degani
 - Inglizcha “mehnat” degani
 
 **448. O’zbek ayollari va xotin qizlarining hayoti  qanday asosda qurilgan edi?**
 
-- Islom dini shariat ko’rsatmalari asosida (to'g'ri)
++ Islom dini shariat ko’rsatmalari asosida
 - Milliy urf odatlar asosida
 - Mahalliy urf odat va an’analar asosida
 - Ajdodlar tajribasi asosida
 
 **449. Sovet hukumati “Hujum” kompaniyasini o’tkazishdan qanday maqsadlarni ko’zlagan edi? 1) O’zbek xalqining tarixan tarkib topgan milliy an’ana va qadryatlarini yo’qotish; 2) O’zbek xalqi ma’naviyatiga zarba berish; 3) “Xotin qizlarni ozod qilish” bahonasida sanoat korxonalarida, kolxoz va sovxozlarda ishlovchi  arzon ishchi uchini yaratish; 4) Amalda ularni sho’ro qullariga aylantirish; 5) Ayollardan yetuk kadrlar tayyorlash; 6) Chekka o’lkalarga ma’rifatchilarni yuborish.**
 
-- 1, 2, 3, 4 (to'g'ri)
++ 1, 2, 3, 4
 - 1, 3, 5, 6
 - 1, 4, 5, 6
 - 3, 4, 5, 6
@@ -3193,18 +3262,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Birinchi besh yillik reja qabul qilinganidan keyin
 - Quloqlashtirish boshlanganidan keyin
 - Industrlashtirish boshlanganidan keyin
-- Kolxozlar va sovxozlar tashkil etilganidan keyin (to'g'ri)
++ Kolxozlar va sovxozlar tashkil etilganidan keyin
 
 **451. O’zbek ayollari faollaridan bo’lgan Jahon Obidova va Tojixon Shodiyevalar qanday lavozimlarda ishlaganlar?**
 
 - Prezidium a’zosi va O’zSSR MIK prezidium raisi o’rinbosari
-- O’zSSR MIK prezidium raisi o’rinbosari va Prezidium a’zosi (to'g'ri)
++ O’zSSR MIK prezidium raisi o’rinbosari va Prezidium a’zosi
 - O’zSSR MIK prezidiumi raisi va O’zSSR MIK prezidiumi Raisi o’rinbosari
 - O’zSSR Prezidium a’zosi va O’zbekiston SSR MIK prezidium raisi
 
 **452. Sovet hukumati o’zbek xotin-qizlarini ozodlikka chiqarish bilan birga qanday tadbirlar amalga oshirgan?**
 
-- Ayollarni ishlab chiqarishga jalb etish (to'g'ri)
++ Ayollarni ishlab chiqarishga jalb etish
 - Ayollarni oilada erkini ta’minlash
 - Xotin qizlarni maktablarga jalb etish
 - Ayollar huquqlari uchun kurashish
@@ -3214,18 +3283,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Yunoncha so’z bo’lib “ishchi, xizmatchi” degani
 - Lotincha so’z bo’lib “ustaxona, ishxona” degani
 - Yunoncha so’z bo’lib “ittifoq, sheriklik” degani
-- Lotincha so’z bo’lib “sheriklik, hamkorlik” degani (to'g'ri)
++ Lotincha so’z bo’lib “sheriklik, hamkorlik” degani
 
 **454. O’zSSR da 1927-yil 8-martda boshlangan ommaviy mitinglarda qancha xotin-qizlar paranjilarini gulxanda yondirganlar?**
 
 - 50 000 dan ortiq
 - 80 000 dan ortiq
-- 100 000 dan ortiq (to'g'ri)
++ 100 000 dan ortiq
 - 120 000 dan ortiq
 
 **455. “Artel” nima?**
 
-- Kasb hunar egalari birgalikda jamoa bo’lib ishlash uchun tuzilgan uyushma (to'g'ri)
++ Kasb hunar egalari birgalikda jamoa bo’lib ishlash uchun tuzilgan uyushma
 - Yakka tartibda ish olib boruvchi hunarmand ustaxonasi
 - Hunarmandchilik sexlari
 - Qo’l mehnatiga asoslangan ustaxona
@@ -3236,7 +3305,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **456. XX asrning 30-40-yillarida o’zbek milliy musiqasini rivojlantirish yo’lida qaysi kompozitorlar ijod qilganlar? 1) Y. Rajabiy; 2) M. Uyg’ur; 3) M. Ashrafiy; 4) M. Burxonov; 5) T. Jalilov.**
 
 - 1, 2, 3, 4
-- 1, 3, 4, 5 (to'g'ri)
++ 1, 3, 4, 5
 - 1, 2, 4, 5
 - 1, 2, 3, 5
 
@@ -3244,12 +3313,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 411 ta
 - 412 ta
-- 413 ta (to'g'ri)
++ 413 ta
 - 414 ta
 
 **458. 1937-yilda O’zSSR da qancha xotin-qiz o’qish va yozishni o’rganib olgan?**
 
-- 139 000 nafar (to'g'ri)
++ 139 000 nafar
 - 149 000 nafar
 - 159 000 nafar
 - 169 000 nafar
@@ -3257,14 +3326,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **459. O’zSSR da imlo necha marta o’zgartirilgan?**
 
 - 2 marta
-- 3 marta (to'g'ri)
++ 3 marta
 - 4 marta
 - 5 marta
 
 **460. Qachon O’zSSR da arab imlosi isloh qilingan?**
 
 - 1920-1921-yillarda
-- 1921-1922-yillarda (to'g'ri)
++ 1921-1922-yillarda
 - 1922-1923-yillarda
 - 1923-1924-yillarda
 
@@ -3273,18 +3342,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 15 tilda
 - 16 tilda
 - 17 tilda
-- 18 tilda (to'g'ri)
++ 18 tilda
 
 **462. O’zbek yozuvini arab grafikasidan lotin grafikasiga o’tkazish haqida qaror qachon O’zSSR Maorif xalq komissarligi hay’ati tomonidan tasdiqlangan va O’zSSR da lotin grafikasiga o’tilgan?**
 
-- 1929-yil 10-avgustda tasdiqlangan va 1-dekabrdan lotin yozuviga o’tilgan (to'g'ri)
++ 1929-yil 10-avgustda tasdiqlangan va 1-dekabrdan lotin yozuviga o’tilgan
 - 1930-yil 10-avgustda tasdiqlangan va 2-dekabrdan lotin yozuviga o’tilgan
 - 1940-yil 10-avgustdan tasdiqlangan va 1-dekabrdan lotin yozuviga o’tilgan
 - 1941-yil 10-avgustda tasdiqlangan va 2-dekabrdan lotin yozuviga o’tilgan
 
 **463. 1940-yilda O’zSSRda necha oliy va o’rta maxsus o’quv yurtlari ishlab turgan?**
 
-- 30 ta oliy va 100 ga yaqin o’rta maxsus o’quv yurtlari (to'g'ri)
++ 30 ta oliy va 100 ga yaqin o’rta maxsus o’quv yurtlari
 - 20 ta oliy va 100 ga yaqin o’rta maxsus o’quv yurtlari
 - 25 ta oliy va 90 ga yaqin o’rta maxsus o’quv yurtlari
 - 35 ta oliy va 85 ga yaqin o’rta maxsus o’quv yurtlari
@@ -3294,13 +3363,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Tub aholini savodsiz qilish
 - Asriy qadriyatlardan mahrum qilish
 - Sovet madaniyati ruhida tarbiyalash va ruslashtirish
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **465. O’zbekiston SSR Fanlar Komiteti qachon tuzilgan?**
 
 - 1930-yil 14-oktyabrda
 - 1931-yil 17-oktyabrda
-- 1932-yil 14-oktyabrda (to'g'ri)
++ 1932-yil 14-oktyabrda
 - 1934-yil 10-oktyabrda
 
 **466. 1934-yilda O’zbekiston SSR Fanlar Komiteti raisi qilib kim saylangan?**
@@ -3308,19 +3377,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Habib Abdullayev
 - Sa’di Sirojiddinov
 - Yaxyo G’ulomov
-- Otajon Hoshimov (to'g'ri)
++ Otajon Hoshimov
 
 **467. O’zbek musiqa va vokal san’atining rivojlanishida muxim rol o’ynagan Davlat konsevatoriyasi qachon va qayerda ochilgan?**
 
 - 1937-yil Samarqandda
-- 1936-yil Toshkentda (to'g'ri)
++ 1936-yil Toshkentda
 - 1935-yil Toshkentda
 - 1934-yil Samarqandda
 
 **468. “Tarbiya bizlar uchun yo hayot - yo mamot, yo najot - yo halokat, yo saodat - yo falokat masalasidir” degan so’zlar qaysi ma’rifatparvar adibga tegishli?**
 
 - Behbudiyga
-- Avloniyga (to'g'ri)
++ Avloniyga
 - Munavvarqoriga
 - Hamzaga
 
@@ -3328,20 +3397,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1932-yil 10-17-yanvarda
 - 1933-yil 10-17-yanvarda
-- 1934-yil 10-17-yanvarda (to'g'ri)
++ 1934-yil 10-17-yanvarda
 - 1935-yil 10-17-yanvarda
 
 **470. O’zSSR da kirill yozuviga o’tilgach, yana qaysi hududlar rus grafikasiga o’tkazilgan?**
 
 - O’rta Osiyo respublikalari va Armaniston
 - O’rta Osiyo respublikalari va Boltiq bo’yi respubliklari
-- O’rta Osiyo respublikalari va Ozarbayjon (to'g'ri)
++ O’rta Osiyo respublikalari va Ozarbayjon
 - O’rta Osiyo respublikalari va Kavkaz
 
 **471. Sovet hokimiyati dastlab O’rta Osiyoda qanday oliy o’quv yurtlarini ochgan?**
 
 - O’rta Osiyo universiteti va Tibbiyot universiteti
-- Turkiston davlat va O’zbekiston davlat universiteti (to'g'ri)
++ Turkiston davlat va O’zbekiston davlat universiteti
 - O’zbekiston milliy universiteti
 - Barcha javoblar to’g’ri
 
@@ -3350,19 +3419,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1, 2, 4
 - 2, 3, 4
 - 1, 3, 4
-- 1, 2, 3 (to'g'ri)
++ 1, 2, 3
 
 **473. 1929-yil mayida o’zbek yozuvini arab grafikasidan lotin grafikasiga o’tkazish haqidagi qaror qabl qilingan konferensiya qaysi shaharda bo’lib o’tgan?**
 
 - Buxoroda
-- Samarqandda (to'g'ri)
++ Samarqandda
 - Toshkentda
 - Qo’qonda
 
 **474. 1930-1940-yillarda o’zbek tilida o’qitiladigan maktablarning soni necha marta oshgan?**
 
 - 5 marta
-- 10 marta (to'g'ri)
++ 10 marta
 - 15 marta
 - 20 marta
 
@@ -3371,11 +3440,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1932-yil 10-17-yanvarda
 - 1933-yil 10-17-yanvarda
 - 1934-yil 10-17-yanvarda
-- 1935-yil 10-17-yanvarda (to'g'ri)
++ 1935-yil 10-17-yanvarda
 
 **476. “Konservatoriya” so’zi italyanchada qanday ma’noni anglatadi?**
 
-- Boshpana (to'g'ri)
++ Boshpana
 - Ustaxona
 - Dam olish joyi
 - Ijod uyi
@@ -3385,26 +3454,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Aristokratiya
 - Burjuaziya
 - Ishchilar sinfi
-- Proletariat (to'g'ri)
++ Proletariat
 
 **478. Sovet hokimiyatining imloni o’zgartirishdan ko’zlagan maqsadi qanday edi?**
 
 - Lotin grafikasiga o’tish orqali muqaddas Quroni Karim, Hadis va boshqa kitoblarni yo’qotishni ko’zlagan
 - Kirill alifbosiga o’tish asosida turkiy tilli Sovet respublikalarini Turkiya va boshqa davlatlarning ta’siridan saqlab qolishni ko’zlagan
 - O’zbek xalqi bilan qardosh turk xalqi o’rtasidagi aloqalarni yo’qotishni ko’zlagan
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **479. Qachon O’zbekiston SSR Fanlar Komiteti SSSR Fanlar Akademiyasi O’zSSR filialiga (O’zFAN) ga aylantirilgan?**
 
 - 1939-yil 19-yanvarda
-- 1940-yil 9-yanvarda (to'g'ri)
++ 1940-yil 9-yanvarda
 - 1941-yil 9-yanvarda
 - 1942-yil 19-yanvarda
 
 **480. Matematik olim T. Qori Niyoziy maruzasi bo’yicha lotin yozuvidan kirill asosidagi o’zbek yozuviga o’tishga qaror qilingan O’zSSR Oliy Sovetining III sessiyasi qachon bo’lib o’tgan?**
 
 - 1939-yil 5-mayda
-- 1940-yil 8-mayda (to'g'ri)
++ 1940-yil 8-mayda
 - 1941-yil 9-mayda
 - 1942-yil 7-mayda
 
@@ -3415,26 +3484,29 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1, 2, 4, 5
 - 2, 3, 4, 5
-- 1, 3, 4, 5 (to'g'ri)
++ 1, 3, 4, 5
 - 1, 2, 3, 4, 5
 
 **482. Mirkomil Mirsharopov qanday lavozimlarda ishlagan?**
 
+
+![](../images/astron141167183927.png)
+
 - XXSR harbiy ishlar noziri
 - Alohida O’zbek otliq askarlar polkining komandiri va kommissari
 - 19-tog’li otliq O’zbek diviziyasi komandiri
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **483. “Men to’g’rilik orqasida bosh ketsa “eh” deydigan yigit emasman” so’zlari kimga tegishli?**
 
 - A. Fitratga
-- A. Qodiriyga (to'g'ri)
++ A. Qodiriyga
 - U. Nosirga
 - A. Cho’lponga
 
 **484. Mirkomil Mirsharopov qachon va qayerda qamoqqa olingan?**
 
-- 1937-yil 28-oktyabrda Maykopda (to'g'ri)
++ 1937-yil 28-oktyabrda Maykopda
 - 1938-yil 21-oktyabrda Moskvada
 - 1939-yil 13-oktyabrda Leningradda
 - 1937-yil 25-oktyabrda Toshkentda
@@ -3442,7 +3514,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **485. “Qata’on qurbonlari xotirasi” muzeyi qachon ochilgan?**
 
 - 2001-yil 31-avgustda
-- 2002-yil 31-avgustda (to'g'ri)
++ 2002-yil 31-avgustda
 - 2002-yil 4-oktyabrda
 - 2001-yil 4-oktyabrda
 
@@ -3450,34 +3522,34 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 39 ming nafardan ortiq
 - 40 ming nafardan ortiq
-- 41 ming nafardan ortiq (to'g'ri)
++ 41 ming nafardan ortiq
 - 42 ming nafardan ortiq
 
 **487. Shamsiddin Badriddinov va uning 5 nafar safdoshi ustidan sud jarayoni qachon o’tkazilgan?**
 
 - 1932-yil 5-15-mayda
 - 1932-yil 10-may 15-iyunda
-- 1932-yil 5-may 15-iyunda (to'g'ri)
++ 1932-yil 5-may 15-iyunda
 - 1932-yil 25-may 15-iyunda
 
 **488. “Badriddinovchilik” ishini olib borgan va turkiy xalqlarga nisbatan nafrati bilan tanilgan prokuror kim edi?**
 
 - V. Yujin
-- R. Katanyan (to'g'ri)
++ R. Katanyan
 - R. Kaplan
 - A. Ivanov
 
 **489. 1920-1930-yillardagi qatag’onlar va terror natijasida O’zbekiston Kommunistik partiyasi a’zolaridan qanchasi firqadan chiqarilgan?**
 
 - 15,5 foizi
-- 25,6 foizi (to'g'ri)
++ 25,6 foizi
 - 35,7 foizi
 - 45,8 foizi
 
 **490. Munavvarqori Abdurashidxonov boshchiligida 38 nafar kishi qachon qamoqqa olingan?**
 
 - 1928-yil 5-noyabrda
-- 1929-yil 5-noyabrda (to'g'ri)
++ 1929-yil 5-noyabrda
 - 1930-yil 5-noyabrda
 - 1931-yil 5-noyabrda
 
@@ -3486,12 +3558,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - “Bosmachi” lar bilan aloqa bog’lagan
 - Munavvarqori va S. Qosimovning yaqin do’sti bo’lgan
 - “Milliy Ittihod” tashkiloti bilan aloqa bog’lagan
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **492. “Narkompros” ishi boyicha kimlar jazoga tortilgan? 1) Mannon Ramziy-Mannon Abdullayev; 2) Botu-Maxmud Xodiyev; 3) B. Sharipov; 4) Oltoy-Bois Qoriyev; 5) Nodir Saidov.**
 
 - 1, 2, 3, 4, 5
-- 1, 2, 4, 5 (to'g'ri)
++ 1, 2, 4, 5
 - 2, 3, 4, 5
 - 1, 3, 4, 5
 
@@ -3499,26 +3571,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1935-yilning yozida
 - 1936-yilning kuzida
-- 1937-yilning yozida (to'g'ri)
++ 1937-yilning yozida
 - 1938-yilning kuzida
 
 **494. Sh. Badriddinov qanday lavozimda ishlagan?**
 
-- O’zbekiston SSR Oliy Sudining sobiq prokurori (to'g'ri)
++ O’zbekiston SSR Oliy Sudining sobiq prokurori
 - O’zbekiston SSR oliy Sudining sud raisi
 - O’zbekiston SSR oliy Sudining sud raisi o’rinbosari
 - O’zbekiston SSR oliy Sudi prokurorining o’rinbosari
 
 **495. Qatag’on yillarida O’zbekistonda qancha kishi otib o’ldirishga hukm qilingan?**
 
-- 6920 kishi (to'g'ri)
++ 6920 kishi
 - 6944 kishi
 - 6930 kishi
 - 6290 kishi
 
 **496. O’zbekiston Respublikasida har yili “Qatag’on qurbonlarini yod etish kuni” qaysi sanada o’tkaziladi?**
 
-- 31-avgustda (to'g'ri)
++ 31-avgustda
 - 1-sentyabrda
 - 18-noyabrda
 - 4-oktyabrda
@@ -3526,7 +3598,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **497. Mirkomil Mirsharopov va 18 nafar o’zbek harbiy komandirlari va askarlari qachon otib tashlangan?**
 
 - 1937-yil 30-oktyabrda
-- 1938-yil 10-oktyabrda (to'g'ri)
++ 1938-yil 10-oktyabrda
 - 1939-yil 12-oktyabrda
 - 1940-yil 10-oktyabrda
 
@@ -3535,11 +3607,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - “Bosmachilar” ni qo’llab quvvatlash
 - “Aksil inqilobchi millatchi tashkilotchilar” a’zolari bilan aloqa bog’lash
 - Islom dinini himoya qilish
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **499. Munavvarqori Abdurashidxonov boshchiligida qamoqqa olinganlar soni 38 kishidan keyinchalik qanchaga yetgan?**
 
-- 87 kishiga (to'g'ri)
++ 87 kishiga
 - 88 kishiga
 - 75 kishiga
 - 78 kishiga
@@ -3547,20 +3619,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **500. XX asr o’zbek madaniyatining yorqin yulduzlari Fitrat, Cho’lpon va Qodiriylar qachon otib tashlangan?**
 
 - 1937-yil 2-oktyabrda
-- 1938-yil 4-oktyabrda (to'g'ri)
++ 1938-yil 4-oktyabrda
 - 1939-yil 8-oktyabrda
 - 1936-yil 5-oktyabrda
 
 **501. O’zbekiston SSR Oliy Sudining raisi Sadulla Qosimov qachon lavozimidan bo’shatilib, qamoqqa olingan?**
 
 - 1929-yil fevralda
-- 1929-yil martda (to'g'ri)
++ 1929-yil martda
 - 1930-yil aprelda
 - 1930-yil mayda
 
 **502. Usmon Nosir qayerda vafot etgan?**
 
-- Qamoqxonada (to'g'ri)
++ Qamoqxonada
 - Surgunda
 - Sud majlisida
 - Tergovda
@@ -3568,13 +3640,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **503. Toshkentda “Shahidlar xotirasi” yodgorlik majmuasi qachon ochilgan?**
 
 - 2000-yil 15-mayda
-- 2000-yil 12-mayda (to'g'ri)
++ 2000-yil 12-mayda
 - 2001-yil 15-mayda
 - 2001-yil 12-mayda
 
 **504. Munavvarqori ishida necha kishi uzoq muddatli qamoq jazosiga hukm qilingan?**
 
-- 72 kishi (to'g'ri)
++ 72 kishi
 - 73 kishi
 - 70 kishi
 - 69 kishi
@@ -3584,18 +3656,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 4651 nafari
 - 4710 nafari
 - 4852 nafari
-- 4811 nafari (to'g'ri)
++ 4811 nafari
 
 **506. Qachon Samarqand shahrida O’zbekiston SSR Maorif xalq kommisarligining bir guruh rahbar xodimlari hibsga olingan?**
 
 - 1926-yil avgustda
 - 1929-yil avgustda
 - 1928-yil avgustda
-- 1930-yil avgustda (to'g'ri)
++ 1930-yil avgustda
 
 **507. Sovet rejimi o’z hokimiyatini mustahkamlab olgach uning xususiyatlari kimlarga bo’lgan munosabatlarida oshkora namoyon bo’la boshladi?**
 
-- Milliy respublikalar rahbar xodimlariga munosabatida (to'g'ri)
++ Milliy respublikalar rahbar xodimlariga munosabatida
 - Milliy respublika ziyolilariga bo’lgan munosabatida
 - Milliy respublikalar ishchi-dehqonlarga bo’lgan munosabatida
 - Milliy tub joy aholiga bo’lgan munosabatida
@@ -3603,20 +3675,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **508. Munavvarqori Abdurashidxonov boshchiligidagi 15 nafar milliy istiqlol a’zolari qachon otib o’ldirishga hukm qilingan?**
 
 - 1930-yil 25-aprelda
-- 1931-yil 25-aprelda (to'g'ri)
++ 1931-yil 25-aprelda
 - 1932-yil 25-aprelda
 - 1929-yil 25-aprelda
 
 **509. O’zSSR da Markazning tazyiqi bilan jazo mexanizmi qachon ishga tushirilgan?**
 
-- 1929-yil 17-fevral 2-martda Samarqandda o’tkazilgan O’zbekiston Kompartiyasining IV syezdidan keyin (to'g'ri)
++ 1929-yil 17-fevral 2-martda Samarqandda o’tkazilgan O’zbekiston Kompartiyasining IV syezdidan keyin
 - 1929-yil 2-fevral 17-martda Toshkentda o’tkazilgan O’zbekiston Kompartiyasining V syezdidan keyin
 - 1929-yil 15-fevral 1-martda Buxoroda o’tkazilgan O’zbekiston Kompartiyasining IV syezdidan keyin
 - 1930-yil 5-fevral 25-martda Samarqandda o’tkazilgan O’zbekiston Kompartiyasining VI syezdidan keyin
 
 **510. O’zSSR Oliy Sudining raisi S. Qosimov sudiga kimlar ataylab siyosiy tus berishgan?**
 
-- Sud raisi Vasilev-Yujin va prokuror Katanyan (to'g'ri)
++ Sud raisi Vasilev-Yujin va prokuror Katanyan
 - Sud raisi Ivanov va prokuror Katanyan
 - Sud raisi Volkov va prokuror Ivanov
 - Sud raisi Kaplan va prokuror Vasilev
@@ -3628,7 +3700,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 200/100
 - 450/100
-- 308/100 (to'g'ri)
++ 308/100
 - 409,100
 
 **512. Sovet-fin urushida qatnashgan Toshkent piyodalar bilim yurti bitiruvchilarini toping. 1) A. Tolstov; 2) Ismoil Bekjonov; 3) V. Russkix; 4) A. Magalov; 5) Qo‘chqor Turdiyev; 6) A. Tupikov; 7) F. Uteshev.**
@@ -3636,25 +3708,28 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1, 3, 5, 6, 7
 - 2, 4, 5, 6, 7
 - 1, 2, 3, 4, 5
-- 1, 3, 4, 6, 7 (to'g'ri)
++ 1, 3, 4, 6, 7
 
 **513. Qaysi voqeadan keyin Ikkinchi jahon urushi boshlangan?**
 
-- 1939-yil 1-sentyabrda Adolf Gitler boshchiligidagi Germaniya davlati Polshaga hujum qilganidan keyin (to'g'ri)
++ 1939-yil 1-sentyabrda Adolf Gitler boshchiligidagi Germaniya davlati Polshaga hujum qilganidan keyin
 - 1940-yil iyulda qizil armiya Latviya, Litva, Estoniya hududlarini bosib olganidan keyin
 - 1939-yil 23-avgustda Moskvada SSSR va Germaniya o‘rtasida 10 yil muddatga hujum qilmaslik to‘g‘risidagi bitim imzolanganidan keyin
 - 1941-yil 22-iyulda Germaniya SSSR ga hujum qilganidan keyin
 
 **514. Ikkinchi jahon urushi davrida respublikaga rahbarlik qilgan O‘zbekiston Kompartiyasi Markaziy Komitetining birinchi sekretari kim edi?**
 
-- U. Yusupov (to'g'ri)
++ U. Yusupov
 - S. Rahimov
 - M. Cho‘qay
 - A. Niyozov
 
 **515. Quyidagi suratda kim tasvirlangan?**
 
-- Usmon Yusupov (to'g'ri)
+
+![](../images/astron70186487191549.png)
+
++ Usmon Yusupov
 - Sobir Rahimov
 - Mustafo Cho‘qay
 - Amin Niyozov
@@ -3662,14 +3737,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **516. Sovet-fin urushi natijasida SSSR qaysi hududlarni qo‘lga kiritgan?**
 
 - Sharqiy Ukraina va G‘arbiy Belorusiyani
-- Viborg shahri va Ladoga ko‘li atrofini (to'g'ri)
++ Viborg shahri va Ladoga ko‘li atrofini
 - Finlandiya va Fin ko‘rfazini
 - Hech bir hududni qo‘lga kiritolmagan
 
 **517. O‘zbekiston aholisidan, Ikkinchi jahon urushining dastlabki kunlarida, mudofaa jamg‘armasiga qancha miqdorda pul, obligatsiya va qimmatbaho boyliklar tushgan?**
 
 - 40 mln. rubl
-- 30 mln. rubl (to'g'ri)
++ 30 mln. rubl
 - 50 mln. rubl
 - 60 mln. rubl
 
@@ -3678,25 +3753,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 550,9 mln. rubl pul, 20 kg. oltin va kumush
 - 653,1 mln. rubl pul, 30 kg. oltin va kumush
 - 690,5 mln. rubl pul, 25 kg. oltin va kumush
-- 649,9 mln. rubl pul, 22 kg. oltin va kumush (to'g'ri)
++ 649,9 mln. rubl pul, 22 kg. oltin va kumush
 
 **519. 1939-yil 23-avgustda kimning taklifi bilan Moskvada SSSR va Germaniya o‘rtasida 10 yil muddatga hujum qilmaslik to‘g‘risida bitim imzolangan?**
 
 - A. Gitler
-- I.V. Stalin (to'g'ri)
++ I.V. Stalin
 - U. Cherchill
 - B. Ribbentrop
 
 **520. Qachon Sovet ittifoqida Gitler Germaniyasi hujumi natijasida harbiy holat joriy etilganligi haqida farmon e’lon qilingan?**
 
-- 1941-yil 22-iyunda (to'g'ri)
++ 1941-yil 22-iyunda
 - 1941-yil 30-iyunda
 - 1940-yil 25-iyunda
 - 1940-yil 26-iyunda
 
 **521. Qachon qizil armiya Latviya, Litva, Estoniya hududlarini bosib olgan hamda ushbu respublikalar majburiy ravishda Sovet Ittifoqi tarkibiga kiritilgan?**
 
-- 1940-yil iyulda (to'g'ri)
++ 1940-yil iyulda
 - 1940-yil martda
 - 1939-yil dekabrda
 - 1939-yil noyabrda
@@ -3704,7 +3779,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **522. Toshkent aviatsiya zavodi qachon barpo etilgan?**
 
 - 1942-yil dekabrda
-- 1941-yil oktyabrda (to'g'ri)
++ 1941-yil oktyabrda
 - 1945-yil oktyabrda
 - 1943-yil sentyabrda
 
@@ -3712,12 +3787,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 10 tasi
 - 20 tasi
-- 50 tasi (to'g'ri)
++ 50 tasi
 - 70 tasi
 
 **524. Lotinchadan tarjima qilinganda “bo‘shatmoq”, “xoli qilmoq” ma`nosini anglatuvchi so‘zni toping.**
 
-- Evakuatsiya (to'g'ri)
++ Evakuatsiya
 - Ekspansiya
 - Agressiya
 - Missiya
@@ -3727,11 +3802,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1-b, 2-d, 3-c, 4-e, 5-a
 - 1-a, 2-b, 3-c, 4-d, 5-e
 - 1-c, 2-d, 3-b, 4-e, 5-a
-- 1-d, 2-c, 3-b, 4-a, 5-e (to'g'ri)
++ 1-d, 2-c, 3-b, 4-a, 5-e
 
 **526. Qachon sovet-fin urushi bo‘lib o‘tgan?**
 
-- 1939-yil 30-noyabr – 1940-yil 12-martda (to'g'ri)
++ 1939-yil 30-noyabr – 1940-yil 12-martda
 - 1939-yil 14-dekabr ¬¬– 1940-yil 18-fevralda
 - 1939-yil 14-noyabr – 1940-yil 18-martda
 - 1939-yil 30-dekabr – 1940-yil 12-fevralda
@@ -3741,32 +3816,32 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Kavkazorti, Litva, Serbiyada
 - Latviya, Litva, Estoniyada
 - Bessarabiya, Ukraina, G‘arbiy Belorussiyada
-- Polsha, Boltiqbo‘yi, Finlyandiyada (to'g'ri)
++ Polsha, Boltiqbo‘yi, Finlyandiyada
 
 **528. Ikkinchi jahon urushi yillarida O’zSSR dagi qaysi zavod front uchun qiruvchi samolyotlar ishlab chiqargan?**
 
 - Tashselmash zavodi
 - Toshkent traktor zavodi
 - Bekobod metallurgiya zavodi
-- Toshkent aviatsiya zavodi (to'g'ri)
++ Toshkent aviatsiya zavodi
 
 **529. 1939-yil 23-avgustda Moskvada SSSR va Germaniya o‘rtasida 10 yil muddatga hujum qilmaslik to‘g‘risidagi bitim qanday nom bilan tarixga kirgan?**
 
 - Parij bitimi
 - London bitimi
 - Brest-Litovsk shartnomasi
-- Molotov-Ribbentrop pakti (to'g'ri)
++ Molotov-Ribbentrop pakti
 
 **530. Bosqinchilikdan iborat bo‘lgan, tajovuzkorlikka asoslangan harakat qanday ataladi?**
 
 - Evakuatsiya
 - Ekspansiya
-- Agressiya (to'g'ri)
++ Agressiya
 - Missiya
 
 **531. Ikkinchi jahon urushi yillarida mashhur o‘zbek raqqosasi Tamaraxonim mudofaa fondiga qancha so‘m topshirgan?**
 
-- 50 ming so‘m (to'g'ri)
++ 50 ming so‘m
 - 30 ming so‘m
 - 10 ming so‘m
 - 55 ming so‘m
@@ -3774,13 +3849,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **532. Qachon SSSR tarkibidagi 15-ittifoqdosh respublika, Moldoviya SSR tashkil etilgan?**
 
 - 1940-yil iyulda
-- 1940-yil avgustda (to'g'ri)
++ 1940-yil avgustda
 - 1939-yil dekabrda
 - 1939-yil noyabrda
 
 **533. Arxiv hujjatlarining dalolat berishicha, Ikkinchi jahon urushining dastlabki kunlarida O’zSSR ning shahar va tuman harbiy komissarliklariga ko‘ngillilardan qancha ariza tushgan?**
 
-- 14 mingdan ortiq (to'g'ri)
++ 14 mingdan ortiq
 - 15 mingdan ortiq
 - 10 mingdan ortiq
 - 20 mingdan ortiq
@@ -3789,19 +3864,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1939-yil 30-dekabrda
 - 1940-yil 18-martda
-- 1939-yil 14-dekabrda (to'g'ri)
++ 1939-yil 14-dekabrda
 - 1941-yil 15-noyabrda
 
 **535. Quyidagi I.V. Stalin bilan bog’liq voqealarni sanalar bilan moslashtiring. 1) U boshchiligida DMQ tuzilgan; 2) SSSR Mudofaa xalq komissari lavozimini egallagan; 3) SSSR Qurolli kuchlari Oliy Bosh qo‘mondoni lavozimini egallagan. a) 1941-yil 19-iyulda; b) 1941-yil 8-avgustda; c) 1941-yil 30-iyunda.**
 
 - 1-a, 2-b, 3-c
-- 1-c, 2-a, 3-b (to'g'ri)
++ 1-c, 2-a, 3-b
 - 1-b, 2-a, 3-c
 - 1-c, 2-b, 3-a
 
 **536. Ikkinchi jahon urushi yillarida Toshkent aviatsiya zavodi qaysi shahardan ko‘chirib keltirilgan zavod asosida barpo etilgan?**
 
-- Ximki shahridan (to'g'ri)
++ Ximki shahridan
 - Stalingrad shahridan
 - Viborg shahridan
 - Praga shahridan
@@ -3809,7 +3884,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **537. 1941-yil 23-24-iyun kunlari O’zSSR ning qaysi shaharlarida ko‘p ming kishilik mitinglar bo‘lib o‘tgan? 1) Toshkent; 2) Samarqand; 3) Buxoro; 4) Jizzax; 5) Andijon; 6) Namangan; 7) Farg‘ona; 8) Nukus.**
 
 - 1, 2, 4, 6, 7
-- 2, 3, 5, 6, 7, 8 (to'g'ri)
++ 2, 3, 5, 6, 7, 8
 - 1, 2, 3, 4, 5, 6
 - 2, 4, 6, 7, 8
 
@@ -3821,46 +3896,46 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Qand lavlagini
 - G’allani
 - Shakar qamishni
-- Paxtani (to'g'ri)
++ Paxtani
 
 **539. 1943-yilda O’zSSR da sanoatning respublika xalq xo‘jaligidagi salmog‘i necha foizgacha ortgan?**
 
 - 65 foizgacha
 - 70 foizgacha
 - 80 foizgacha
-- 75 foizgacha (to'g'ri)
++ 75 foizgacha
 
 **540. Urush yillarida O‘zbekistonda qaysi GES lar qurilgan? 1) Oqqovoq; 2) Qarantay; 3) Qibray; 4) Qorovultepa; 5) Salor; 6) Farhod.**
 
 - 1, 3, 4, 6
 - 1, 2, 4, 6
 - 1, 4, 5, 6
-- 1, 3, 5, 6 (to'g'ri)
++ 1, 3, 5, 6
 
 **541. Qachon O’zSSR hukumati xalq xo‘jaligini harbiy izga solish, qaysi korxona qachon ishga tushirilishi to‘g‘risida, ichki resurslarni to‘la safarbar etish to‘g‘risida aniq vazifalarni belgilab bergan?**
 
-- 1941-yil sentyabr-dekabrda (to'g'ri)
++ 1941-yil sentyabr-dekabrda
 - 1941-yil mart-aprelda
 - 1941-yil oktyabr-noyabrda
 - 1942-yil sentyabr-dekabrda
 
 **542. Urush yillarida O‘zbekistonda nechinchi yilda yangi sanoat mahsulotini ishlab chiqarish 2 baravar ko‘paygan?**
 
-- 1942-yilda (to'g'ri)
++ 1942-yilda
 - 1943-yilda
 - 1944-yilda
 - 1945-yilda
 
 **543. Urush yillarida O‘zbekistonda nechta yirik gidroelektr stansiyasi qurilgan?**
 
-- 7 ta (to'g'ri)
++ 7 ta
 - 11 ta
 - 15 ta
 - 8 ta
 
 **544. Urush yillarida O’zSSR da qaysi qand lavlagini qayta ishlovchi qand zavodlari qurilgan? 1) Zirabuloq; 2) Krasnogvardeysk; 3) Sirdaryo; 4) Qo‘qon; 5) Yangiyo‘l; 6) Jizzax.**
 
-- 1, 2, 4, 5 (to'g'ri)
++ 1, 2, 4, 5
 - 1, 3, 5, 6
 - 2, 3, 4, 5
 - 2, 4, 5, 6
@@ -3868,7 +3943,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **545. Urush yillarida O‘zSSR dan g‘arbiy frontga oziq-ovqat va kiyim-kechak olib borgan delegatsiya rahbari kim?**
 
 - Usmon Yusupov
-- Hasan Islomov (to'g'ri)
++ Hasan Islomov
 - Qo‘chqor Turdiyev
 - Sobir Rahimov
 
@@ -3877,18 +3952,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 15 bola
 - 13 bola
 - 9 bola
-- 10 bola (to'g'ri)
++ 10 bola
 
 **547. O’zSSR da don va texnik ekinlarni ko‘paytirish harakati natijasida 1942-yil bahorida necha ming gektar yer o‘zlashtirilgan?**
 
-- 220 500 ga (to'g'ri)
++ 220 500 ga
 - 350 780 ga
 - 352 450 ga
 - 145 226 ga
 
 **548. Urush davrida O‘zbekistonda ishchi va xizmatchilarga kuniga (A) grammdan, oila a’zolariga esa (B) grammdan non berilgan.**
 
-- a-400-500, b-300-400 (to'g'ri)
++ a-400-500, b-300-400
 - a-300-400, b-200-300
 - a-100-200, b-50-100
 - a-500-600, b-300-400
@@ -3898,11 +3973,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - a-25, b-150
 - a-36, b-255
 - a-80, b-210
-- a-63, b-230 (to'g'ri)
++ a-63, b-230
 
 **550. “Gimnastyorka” nima?**
 
-- Tik yoki qaytarma yoqali, ustidan kamar bog‘lanadigan ust ko‘ylak (rasmiy harbiy kiyim) (to'g'ri)
++ Tik yoki qaytarma yoqali, ustidan kamar bog‘lanadigan ust ko‘ylak (rasmiy harbiy kiyim)
 - Mina otadigan qurol (rus. – irg‘itmoq, otmoq)
 - Tibbiy xizmat ko‘rsatish xodimlari va uskunaliri bilan ta’minlangan poyezd
 - Askarlar shug‘ullanadigan sport turi
@@ -3912,11 +3987,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Samarqandda
 - Navoiyda
 - Jizzaxda
-- Bekobodda (to'g'ri)
++ Bekobodda
 
 **552. Urush yillarida O’zSSR da kolxozlarda kimlar uchun majburiy ish kuni normasi 1,5 marta oshirilgan?**
 
-- Kattalar va 12 yoshdan oshgan bolalar uchun (to'g'ri)
++ Kattalar va 12 yoshdan oshgan bolalar uchun
 - Kattalar va 13 yoshdan oshgan bolalar uchun
 - Kattalar va 14 yoshdan oshgan bolalar uchun
 - Kattalar va 15 yoshdan oshgan bolalar uchun
@@ -3924,14 +3999,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **553. O‘zbekiston Ittifoqning asosiy jangovar aslahaxonalaridan biri sifatida frontga (A) samolyot, (B) minamyot, (C) snaryad yetkazib bergan.**
 
 - a-1000 dan ortiq, b-52 mln dona, c-300 000 dona
-- a-2000 dan ortiq, b-22 mln dona, c-500 000 dona (to'g'ri)
++ a-2000 dan ortiq, b-22 mln dona, c-500 000 dona
 - a-1500 dan ortiq, b-30 mln dona, c-600 000 dona
 - a-2500 dan ortiq, b-24 mln dona, d-400 000 dona
 
 **554. Urush yillarida kattaqo’rg’onlik urush nogironi Hamid Samadov qancha bola olib tarbiyalagan?**
 
 - 15 bola
-- 13 bola (to'g'ri)
++ 13 bola
 - 9 bola
 - 10 bola
 
@@ -3940,26 +4015,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1, 3, 5
 - 1, 2, 4
 - 2, 4, 5
-- 1, 4, 5 (to'g'ri)
++ 1, 4, 5
 
 **556. Urush yillarida totalitar tuzum rahbarlarining farmoyishi bilan mamlakatning sharqiy hududlariga ko‘chirilib yuborilgan Kavkaz xalqlarini toping. 1) Chechenlar; 2) Greklar; 3) Ingushlar; 4) Qrim tatarlari; 5) Qorachoylar; 6) Mesxeti turklari; 7) Gruzinlar; 8) Bolqorlar.**
 
 - 1, 3, 5, 7, 8
-- 1, 3, 5, 6, 8 (to'g'ri)
++ 1, 3, 5, 6, 8
 - 1, 2, 4, 6, 7
 - 2, 4, 6, 7, 8
 
 **557. Urush yillarida O‘zbekiston qishloq xo‘jaligi ahli (A) ziyod paxta xomashyosi, (B) mahsulotlarini davlatga yetkazib bergan.**
 
 - a-3 mln. tonnadan, b-60 mln. pud don
-- a-4 mln. tonnadan, b-82 mln. pud don (to'g'ri)
++ a-4 mln. tonnadan, b-82 mln. pud don
 - a-5 mln. tonnadan, b-70 mln. pud don
 - a-6 mln. tonnadan, b-90 mln. pud don
 
 **558. Urush yillarida O‘zSSR ga qayerda yashagan mesxeti turklar ko‘chirilgan?**
 
 - Qrimda
-- Gruziyada (to'g'ri)
++ Gruziyada
 - Shimoliy Kavkazda
 - Turkiyada
 
@@ -3967,12 +4042,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1, 2, 4, 6
 - 2, 3, 5, 6
-- 1, 3, 4, 6 (to'g'ri)
++ 1, 3, 4, 6
 - 1, 2, 3, 5
 
 **560. O’zSSR da urush davrida qancha harbiy gospital joylashtirilgan?**
 
-- 30 dan ortiq (to'g'ri)
++ 30 dan ortiq
 - 15 dan ortiq
 - 20 dan ortiq
 - 10 dan ortiq
@@ -3982,18 +4057,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - lgota
 - zayom
 - kompensatsiya
-- payok (to'g'ri)
++ payok
 
 **562. O’zSSR da qaysi viloyatlarida qand lavlagi uchun unumli yerlar ajratilib, 1943-yili 1,5 mln. sentnerdan ortiq lavlagi davlatga topshirilgan?**
 
-- Samarqand, Farg‘ona, Toshkent (to'g'ri)
++ Samarqand, Farg‘ona, Toshkent
 - Xorazm, Buxoro, Jizzax
 - Qarshi, Navoiy, Sirdaryo
 - Samarqand, Jizzax, Sirdaryo
 
 **563. Urush yillarida O’zSSR da qaysi suv omborlari qurilgan?**
 
-- Kosonsoy, Rudasoy (to'g'ri)
++ Kosonsoy, Rudasoy
 - Oqqovoq, Solor
 - Kattaqo’rg’on, Qoratepa
 - Andijonsoy, Rudasoy
@@ -4002,12 +4077,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 3 yildan 6 yilgacha
 - 4 yildan 7 yilgacha
-- 5 yildan 8 yilgacha (to'g'ri)
++ 5 yildan 8 yilgacha
 - 6 yildan 9 yilgacha
 
 **565. Urush yillarida O‘zSSR ga ko‘chirilgan xalqlarni ularning soni bilan moslashtiring? 1) Qrim tatarlari; 2) Mesxeti turklari; 3) Chechenlar; 4) Ingushlar; 5) Bolqor va greklar. a) 4500; b) 20 000; c) 151 604; d) 110 000; e) 175 000.**
 
-- 1-c, 2-d, 3-e, 4-b, 5-a (to'g'ri)
++ 1-c, 2-d, 3-e, 4-b, 5-a
 - 1-a, 2-b, 3-c, 4-d, 5-e
 - 1-d, 2-c, 3-b, 4-e, 5-a
 - 1-a ,2-e, 3-c, 4-d, 5-b
@@ -4015,7 +4090,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **566. Urush yillarida O‘zbekistonga 1 mln. nafardan ortiq kishi, jumladan, necha ming bola evakuatsiya qilingan?**
 
 - 100 ming bola
-- 200 ming bola (to'g'ri)
++ 200 ming bola
 - 300 ming bola
 - 400 ming bola
 
@@ -4023,7 +4098,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 3/4 qismini
 - 2/4 qismini
-- 1/4 qismini (to'g'ri)
++ 1/4 qismini
 - 2/5 qismini
 
 **568. Urush yillarida O’zbekistonda og‘ir mehnat yuki asosan kimlarning yelkasiga tushgan?**
@@ -4031,39 +4106,42 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Ayollarning
 - Qariyalarning
 - O‘smirlarning
-- Barcha javoblar to‘g‘ri (to'g'ri)
++ Barcha javoblar to‘g‘ri
 
 **569. 1941-yilda O’zbekistonda davlatga qancha miqdorda paxta topshirilgan?**
 
 - 3 mln. tonnadan ziyod
 - 2,6 mln. tonnadan ziyod
-- 1,6 mln. tonnadan ziyod (to'g'ri)
++ 1,6 mln. tonnadan ziyod
 - 1 mln. tonnadan ziyod
 
 **570. Urush yillarida O’zSSR da qachon harbiy korxonalar xodimlari urushga safarbar qilinganlar qatoriga qo‘shilgan va shu korxonalarga biriktirilgan?**
 
-- 1941-yil 14-dekabrdan (to'g'ri)
++ 1941-yil 14-dekabrdan
 - 1940-yil 18-martdan
 - 1939-yil 14-dekabrdan
 - 1941-yil noyabrdan
 
 **571. Urush yillarida toshkentlik oddiy temirchi Shoahmad Shomahmudovlar qancha bola olib tarbiyalashgan?**
 
-- 15 bola (to'g'ri)
++ 15 bola
 - 13 bola
 - 9 bola
 - 10 bola
 
 **572. Quyidagi suratda O’zbekistondagi urush yillarida qurilgan qaysi GES tasvirlangan?**
 
-- Farhod GES (to'g'ri)
+
+![](../images/astron61606838529945.png)
+
++ Farhod GES
 - Salor GES
 - Qibray GES
 - Oqqovoq GES
 
 **573. Urush yillarida O’zSSR da aholi tarkibida vujudga kelgan yangi ijtimoiy guruhlarni toping. 1) Harbiy xizmatchilar oilalari; 2) Janglarda qatnashganlar; 3) Evakuatsiya qilinganlar; 4) Boylar kvartallari a’zolari; 5) Urush nogironlari; 6) Urush yetim bolalari.**
 
-- 1, 3, 5, 6 (to'g'ri)
++ 1, 3, 5, 6
 - 1, 2, 4, 5
 - 2, 3, 4, 6
 - 3, 4, 5, 6
@@ -4074,13 +4152,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **574. Toshkentda qachon Xotira va Qadrlash maydoni barpo etilib, unda “Motamsaro ona” haykali hamda xiyobonning shimoliy va janubiy tomonida qad ko‘targan ayvonlar tokchalarida Ikkinchi jahon urushida halok bo‘lgan o‘zbekistonlik barcha jangchilarning ism-sharifi bitilgan metall tokchalar o‘rnatilgan?**
 
 - 2000-yil mayda
-- 1999-yil mayda (to'g'ri)
++ 1999-yil mayda
 - 2001-yil mayda
 - 2002-yil mayda
 
 **575. 1939-yilda O’zSSR aholisi qancha bo‘lgan?**
 
-- 6,5 million (to'g'ri)
++ 6,5 million
 - 7,5 million
 - 8,5 million
 - 9,5 million
@@ -4088,14 +4166,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **576. Qachon SSSR Davlat Mudofaa Komitetining “Milliy harbiy qo‘shilmalar tashkil etish to‘g‘risida” gi qarori chiqqan?**
 
 - 1942-yil 27-martda
-- 1941-yil 13-noyabrda (to'g'ri)
++ 1941-yil 13-noyabrda
 - 1945-yil 26-iyunda
 - 1942-yil 13-mayda
 
 **577. 1941-yil yozidan to 1942-yil bahorigacha (A) mln. turkistonlik jangchilar nemislarga asir tushgan hamda ularning ko‘pchiligi harbiy asirlar konslagerlarida bo‘lishgan. 1942-yil yozida ulardan faqat (B) kishi tirik qolgan, xolos.**
 
 - a-2,7 mln, b-500 000
-- a-1,7 mln, b-400 000 (to'g'ri)
++ a-1,7 mln, b-400 000
 - a-4,3 mln, b-600 000
 - a-1,2 mln, b-300 000
 
@@ -4103,19 +4181,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Ukrainadagi Odessa shahrini
 - Belorusiyadagi Gomel shahrini
-- Polshadagi Gdansk shahrini (to'g'ri)
++ Polshadagi Gdansk shahrini
 - Kavkazdagi Botumi shahrini
 
 **579. “Vintovka” nima?**
 
 - To’pponcha
 - Avtomat
-- Miltiq (to'g'ri)
++ Miltiq
 - To’p
 
 **580. 1942-yil 27-martda SSSR Oliy Soveti Prezidiumining farmoni bilan nechta ofitser va oddiy askarlarga Sovet Ittifoqi Qahramoni yuksak unvoni berilgan?**
 
-- 26 nafar (to'g'ri)
++ 26 nafar
 - 33 nafar
 - 28 nafar
 - 40 nafar
@@ -4123,21 +4201,21 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **581. Qaysi hududni zabt etgan jangchilar orasida Sovet Ittifoqi Qahramoni  unvoniga sazovor  bo‘lgan toshkentlik   Botir Boboyev va Solih Umarov, marg‘ilonlik Tojiali Boboyevlar bo‘lgan?**
 
 - Brest qal’asini
-- Berlinni (to'g'ri)
++ Berlinni
 - Kyonigsbergni
 - Kiyevni
 
 **582. O‘zbekistonliklar yevropadagi Qarshilik ko‘rsatish harakati saflarida, qaysi hududlarni fashizmdan ozod etishda faol qatnashganlar va partizan qo‘shilmalarida jang qilganlar? 1) Polsha; 2) Finlandiya; 3) Bolgariya; 4) Vengriya; 5) Ruminiya; 6) Chexoslovakiya; 7) Italiya; 8) Gretsiya; 9) Avstriya; 10) Yugoslaviya; 11) Fransiya; 12) Belgiya.**
 
 - 1, 2, 4, 6, 7, 8, 9
-- 1, 3, 4, 5, 6, 7, 8, 9, 10, 11 (to'g'ri)
++ 1, 3, 4, 5, 6, 7, 8, 9, 10, 11
 - 1, 2, 4, 6, 8, 10, 12
 - 1, 3, 5, 7, 9, 11, 12
 
 **583. Oddiy askarga beriladigan boshlang‘ich harbiy unvon va shu unvonga ega bo‘lgan shaxs qanday atalgan?**
 
 - Ryadovoy
-- Yefreytor (to'g'ri)
++ Yefreytor
 - Serjant
 - Leytenant
 
@@ -4145,33 +4223,33 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1995-yilda 34 jildli
 - 1994-yilda 34 jildli
-- 1995-yilda 33 jildli (to'g'ri)
++ 1995-yilda 33 jildli
 - 1994-yilda 33 jildli
 
 **585. Urush yillarida tuzilgan 221-motorlashtirilgan diviziyada katta tajribaga ega o‘zbek ofitserlaridan polkovnik … , mayor … va boshqalar bor edi.**
 
 - Qo‘chqor Turdiyev, Zebo G‘aniyeva
-- Ismoil Bekjonov, Sobir Rahimov (to'g'ri)
++ Ismoil Bekjonov, Sobir Rahimov
 - Sharif Ergashev, Xalloq Aminov
 - Botir Boboyev, Solih Umarov
 
 **586. Birinchi bo’lib Sovet Ittifoqi qahramoni unvonini olgan o’zbek jangchisi kim?**
 
 - Sobir Rahimov
-- Qo‘chqor Turdiyev (to'g'ri)
++ Qo‘chqor Turdiyev
 - Botir Boboyev
 - Zebo G`aniyeva
 
 **587. “Moskva mudofaasi uchun” maxsus medali bilan mukofotlanganlar orasida O‘zbekiston jangchilaridan necha kishi bo‘lgan?**
 
-- 1753 kishi (to'g'ri)
++ 1753 kishi
 - 1563 kishi
 - 1765 kishi
 - 1445 kishi
 
 **588. Qachon gitlerchilar Germaniyasi butunlay taslim bo‘lgan?**
 
-- 1945-yil 9-mayda (to'g'ri)
++ 1945-yil 9-mayda
 - 1945-yil 8-mayda
 - 1944-yil 7-mayda
 - 1944-yil 6-mayda
@@ -4179,7 +4257,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **589. Ikkinchi jahon urushida asir tushishga majbur bo‘lgan sovet jangchilari orasidagi sobiq legioner, keyinchalik Germaniyada yashagan namanganlik tarixchi olimni toping.**
 
 - Asadulla Ma’mur
-- Boymirza Hayit (to'g'ri)
++ Boymirza Hayit
 - Xolmirza Erkin
 - Alisher Orolovich
 
@@ -4188,32 +4266,32 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 110 000 nafari
 - 150 000 nafari
 - 140 000 nafari
-- 120 000 nafari (to'g'ri)
++ 120 000 nafari
 
 **591. Birinchi o‘zbek Sovet Ittifoqi qahramoni Qo‘chqor Turdiyev qayerlik edi?**
 
 - Buxorolik
 - Samarqandlik
-- Andijonlik (to'g'ri)
++ Andijonlik
 - Toshkentlik
 
 **592. Qaysi hudud uchun bo‘lgan janglarda, Toshkentda tuzilgan Sobir Rahimov qo‘mondonligidagi diviziya 3 oy davomida dushmanning 8 000 nafar askar va ofitserini qirib tashlgan?**
 
-- Kavkaz uchun (to'g'ri)
++ Kavkaz uchun
 - Dnepr uchun
 - Kursk uchun
 - Ukraina uchun
 
 **593. Shofirkonlik yurtdoshlarimizdan qaysi biri nemis va sovet konslagerlaridan omon chiqib, O‘zbekistonga qaytgan?**
 
-- Abdulla Rasulov (to'g'ri)
++ Abdulla Rasulov
 - Vali Qayumxon
 - Abdulla Qayumov
 - Qo‘chqor Turdiyev
 
 **594. Urush yillarida necha nafar o‘zbekistonliklar fashizmga qarshi kurashda qatnashgan?**
 
-- 1,5 million (to'g'ri)
++ 1,5 million
 - 2,5 million
 - 3,5 million
 - 4,5 million
@@ -4221,7 +4299,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **595. Sobir Rahimovga qachon Sovet Ittifoqi Qahramoni unvoni berilgan?**
 
 - 1975-yil 9-mayda
-- 1965-yil 9-mayda (to'g'ri)
++ 1965-yil 9-mayda
 - 1955-yil 9-mayda
 - 1985-yil 9-mayda
 
@@ -4230,32 +4308,38 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 300 000 jangchi
 - 400 000 jangchi
 - 450 000 jangchi
-- 500 000 jangchi (to'g'ri)
++ 500 000 jangchi
 
 **597. 1941-yil yozida qayerda 19-O‘zbek tog‘-otliq diviziyasi qayta tuzilib, uning asosida 221-motorlashtirilgan diviziya tashkil qilingan?**
 
-- Samarqandda (to'g'ri)
++ Samarqandda
 - Toshkentda
 - Buxoroda
 - Andijonda
 
 **598. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron44932832155355.png)
+
 - Go’zal Holtamova
 - Asal Holiqova
-- Zebo G’aniyeva (to'g'ri)
++ Zebo G’aniyeva
 - Niso Berdiquliyeva
 
 **599. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron15798280728282.png)
+
 - Botir Boboyev
-- Sobir Rahimov (to'g'ri)
++ Sobir Rahimov
 - Solih Umarov
 - Sharif Ergashev
 
 **600. Gvardiyachi general-mayor Sobir Rahimov qachon halok bo‘lgan?**
 
-- 1945-yil 26-martda (to'g'ri)
++ 1945-yil 26-martda
 - 1943-yil 16-aprelda
 - 1944-yil 22-noyabrda
 - 1942-yil 13-dekabrda
@@ -4264,20 +4348,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Yo‘ldosh Ohunboboyev
 - Mustafo Cho‘qay
-- Vali Qayumxon (to'g'ri)
++ Vali Qayumxon
 - Abdulla Nabiyev
 
 **602. Belorusiyani ozod qilish uchun bo‘lgan janglarning birida 1943-yil noyabrda Gomel shahri atrofida 33 yoshida mardlarcha halok bo‘lgan o‘zbek jangchisi kim edi?**
 
 - Botir Boboyev
-- Sulton Jo‘ra (to'g'ri)
++ Sulton Jo‘ra
 - Solih Umarov
 - Sharif Ergashev
 
 **603. Kimlarning tashabbusi bilan 1942-yil martda “Turkiston legion” ga asos solingan?**
 
 - Yo‘ldosh Ohunboboyev, Vali Qayumxon
-- Mustafo Cho‘qay, Vali Qayumxon (to'g'ri)
++ Mustafo Cho‘qay, Vali Qayumxon
 - Abdulla Rasulov, Yo‘ldosh Ohunboboyev
 - Abdulla Nabiyev, Mustafo Cho‘qay
 
@@ -4286,26 +4370,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Smolensk yaqinida
 - Odessa yaqinida
 - Sevastopol yaqinida
-- Yelna yaqinida (to'g'ri)
++ Yelna yaqinida
 
 **605. Ikkinchi jahon urushida eng katta talafotga uchragan SSSR bo‘lib, u qancha kishidan ajralgan?**
 
 - 16 million
 - 28 million
-- 27 million (to'g'ri)
++ 27 million
 - 40 million
 
 **606. SSSR Davlat Mudofaa Komitetining “Milliy harbiy qo‘shilmalar tashkil etish to‘g‘risida” gi qaroriga ko‘ra nimalar ta’kidlangan? 1) O‘zbekistonda 5 ta kavaleriya diviziyasi tashkil qilish; 2) O‘zbekistonda 9 ta alohida o‘qchilar brigadasi tashkil qilish; 3) Askarlarni mardligi va jasorati uchun “Qizil bayroq” ordeni bilan mukofotlash; 4) Diviziyalar tarkibi mahalliy xalqlarga mansub 40 yoshdan katta bo‘lmagan sog‘lom va baquvvat kishilar bilan to‘ldirilishi; 5) Imkoniyat doirasida rahbariyat tarkibi ham mahalliy millat vakillaridan bo‘lishi.**
 
 - 1, 3, 5
 - 2, 3, 4
-- 1, 2, 4, 5 (to'g'ri)
++ 1, 2, 4, 5
 - 1, 3, 4, 5
 
 **607. O‘zbekistonlik (A) nafar jangchi Sovet Ittifoqi Qahramoni unvoniga sazovor bo‘lgan, ulardan (B) nafari o‘zbek edi. (C) nafar o‘zbekistonlik jangchilar uchala darajadagi “Shuhrat” ordeni bilan taqdirlanganlar.**
 
 - a-280, b-76, c-64
-- a-280, b-75, c-52 (to'g'ri)
++ a-280, b-75, c-52
 - a-380, b-74, c-50
 - a-180, b-45, c-32
 
@@ -4313,33 +4397,33 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1, 2, 4, 6
 - 2, 3, 4, 6
-- 1, 3, 4, 5 (to'g'ri)
++ 1, 3, 4, 5
 - 1, 3, 4, 6
 
 **609. Dnepr uchun olib borilgan janglarda qahramonlik ko‘rsatgani uchun qaysi o‘zbek yigitlariga Sovet Ittifoqi Qahramoni unvoni berilgan?**
 
 - Botir Boboyev va Solih Umarov
-- Sharif Ergashev va Xalloq Aminov (to'g'ri)
++ Sharif Ergashev va Xalloq Aminov
 - Norin Latipov va Botir Boboyev
 - Solih Umarov va Sulton Jo‘ra
 
 **610. Moskvani himoya qilishda 28 nafar fashistni otib o‘ldirgan va “Qizil  Bayroq” ordeni bilan taqdirlangan o‘zbek jangchisi kim?**
 
 - Sobir Rahimov
-- Zebo G‘aniyeva (to'g'ri)
++ Zebo G‘aniyeva
 - Qo‘chqor Turdiyev
 - Botir Boboyev
 
 **611. Dnepr uchun olib borilgan janglarda qahramonlik ko‘rsatgani uchun necha nafar o‘zbek yigitiga Sovet Ittifoqi Qahramoni unvoni berilgan?**
 
-- 26 nafar (to'g'ri)
++ 26 nafar
 - 33 nafar
 - 28 nafar
 - 40 nafar
 
 **612. O‘zbekistonlik jangchilarning qanchasi “Berlinni ishg‘ol etganligi uchun” jangovar medali bilan taqdirlangan?**
 
-- 1706 nafari (to'g'ri)
++ 1706 nafari
 - 1906 nafari
 - 1606 nafari
 - 1806 nafari
@@ -4349,7 +4433,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 **613. O‘zSSR FA tuzilganda unga kim prezident etib tayinlangan?**
 
-- Qori-Niyoziy (to'g'ri)
++ Qori-Niyoziy
 - Yo‘ldosh Oxunboboyev
 - Ahmadali Asqarov
 - Sadriddin Ayniy
@@ -4359,18 +4443,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1-a, 2-b, 3-c, 4-d, 5-e
 - 1-a, 2-d, 3-e, 4-b, 5-c
 - 1-a, 2-e, 3-b, 4-d, 5-c
-- 1-a, 2-e, 3-d, 4-b, 5-c (to'g'ri)
++ 1-a, 2-e, 3-d, 4-b, 5-c
 
 **615. Ilgari mavjud bo‘lgan qaysi institut O‘zbek tili va adabiyoti hamda Tarix va arxeologiya institutlariga ajratilib, yangi tashkil etilgan O‘zSSR FA tarkibiga kiritilgan?**
 
 - Matematika, tarix va arxeologiya instituti
 - Tarix, adabiyot va arxeologiya instituti
-- Til, adabiyot va tarix instituti (to'g'ri)
++ Til, adabiyot va tarix instituti
 - Geografiya, tarix va arxeologiya instituti
 
 **616. Urush yillarida O’zSSR ga Moskva, Leningrad, Kiyev, Minsk, Voronej va boshqa shaharlardan (a) ta oliy o‘quv yurti va (b) ta harbiy akademiya evakuatsiya qilingan.**
 
-- a-31, b-7 (to'g'ri)
++ a-31, b-7
 - a-21, b-6
 - a-32, b-8
 - a-29, b-5
@@ -4380,18 +4464,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - a-20, b-25 000, c-16 000
 - a-25, b-45 000, c-36 000
 - a-16, b-15 000, c-18 000
-- a-30, b-35 000, c-26 000 (to'g'ri)
++ a-30, b-35 000, c-26 000
 
 **618. SSSR Xalq Komissarlari Soveti raisi I.V. Stalinning nechinchi yildagi qarori asosida O‘zSSR FA tashkil topgan?**
 
 - 1943-yil noyabrdagi
 - 1944-yil dekabrdagi
 - 1945-yil fevraldagi
-- 1943-yil sentyabrdagi (to'g'ri)
++ 1943-yil sentyabrdagi
 
 **619. Ikkinchi jahon urushi yillarida yozilgan “Biz g`alaba qozonamiz” nomli asar janrini toping.**
 
-- Almanax (to'g'ri)
++ Almanax
 - Antalogiya
 - Roman
 - Drama
@@ -4401,18 +4485,21 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 250 nafar
 - 455 nafar
 - 340 nafar
-- 375 nafar (to'g'ri)
++ 375 nafar
 
 **621. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron7403946771378.png)
+
 - Oybek
-- T. Qori-niyoziy (to'g'ri)
++ T. Qori-niyoziy
 - A. Hidoyatov
 - Uyg’un
 
 **622. Qachon Toshkentda O‘zbekiston SSR Fanlar akademiyasi (O‘zSSR FA) tashkil topgan?**
 
-- 1943-yil 4-noyabrda (to'g'ri)
++ 1943-yil 4-noyabrda
 - 1944-yil 7-dekabrda
 - 1945-yil 8-yanvarda
 - 1943-yil 2-sentyabrda
@@ -4420,14 +4507,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **623. Taniqli o‘zbek matematik olimi Toshmuhammad Niyozovich Qori-Niyoziy qaysi yillarda yashagan?**
 
 - 1896-1969 yillarda
-- 1897-1970 yillarda (to'g'ri)
++ 1897-1970 yillarda
 - 1887-1960 yillarda
 - 1891-1956 yillarda
 
 **624. Ikkinchi jahon urushi yillarida yozilgan “O‘zbekiston shoirlari frontga” nomli asar janrini toping.**
 
 - Almanax
-- Antalogiya (to'g'ri)
++ Antalogiya
 - Roman
 - Drama
 
@@ -4438,7 +4525,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1969-yilda
 - 1948-yilda
-- 1949-yilda (to'g'ri)
++ 1949-yilda
 - 1961-yilda
 
 **626. Almashlab ekishga amal qilmagan holda dalada faqat bir xil ekinni muttasil yetishtirish qanday ataladi?**
@@ -4446,18 +4533,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Kooperativ ekish
 - Ekstensiv foydalanish
 - Agrokultura
-- Monokultura (to'g'ri)
++ Monokultura
 
 **627. O’zSSR dagi qaysi zavodda 1949-yildan traktor pritseplari (tirkagichlari) ni ishlab chiqarish yo’lga qo’yilgan?**
 
-- “Tashavtomash” (to'g'ri)
++ “Tashavtomash”
 - “Tashselmash”
 - “Toshkent traktor zavodi”
 - “O’zbekselmash”
 
 **628. Qachon Mirzacho’l shaharchasi Guliston shahriga aylantirilgan?**
 
-- 1961-yilda (to'g'ri)
++ 1961-yilda
 - 1956-yilda
 - 1963-yilda
 - 1960-yilda
@@ -4466,7 +4553,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1946-yil boshiga kelib
 - 1945-yil boshiga kelib
-- 1945-yil oxiriga kelib (to'g'ri)
++ 1945-yil oxiriga kelib
 - 1946-yil oxiriga kelib
 
 **630. Qachondan boshlab Mirzacho’lni o’zlashtirish boshlangan?**
@@ -4474,19 +4561,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1958-yildan
 - 1955-yildan
 - 1957-yildan
-- 1956-yildan (to'g'ri)
++ 1956-yildan
 
 **631. 1946-yilda O’zSSR da qancha maydon faqat paxta ekish uchun bo’shatilgan?**
 
 - 779 000 gektar
-- 218 000 gektar (to'g'ri)
++ 218 000 gektar
 - 850 000 gektar
 - 160 000 gektar
 
 **632. Qachon “Tashselmash” zavodida paxta terish mashinalarining dastlabki partiyasi ishlab chiqarilgan?**
 
 - 1947-yilda
-- 1948-yilda (to'g'ri)
++ 1948-yilda
 - 1949-yilda
 - 1951-yilda
 
@@ -4495,18 +4582,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1961-yilda
 - 1966-yilda
 - 1963-yilda
-- 1969-yilda (to'g'ri)
++ 1969-yilda
 
 **634. KPSS MK va SSSR Ministrlar Sovetining 1956-yili 6-avgustdagi qarori bo’yicha Qozog’istonda paxta ekiladigan maydonlarni qanchaga kengaytirish rejalashtirilgan?**
 
 - 200 000 gektar
 - 160 000 gektar
-- 100 000 gektar (to'g'ri)
++ 100 000 gektar
 - 220 000 gektar
 
 **635. Qachon Sovet Ittifoqida oziq-ovqat va sanoat tovarlariga kartochka tizimi bekor qilingan?**
 
-- 1947-yil dekabrda (to'g'ri)
++ 1947-yil dekabrda
 - 1947-yil sentyabrda
 - 1946-yil martda
 - 1946-yil sentyabrda
@@ -4516,11 +4603,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - O’zbekistonda paxtani qayta ishlash sanoatini vujudga keltirishga qaratilgan
 - O’zbekistonda paxta ekin maydonlarini keskin ko’paytirishga qaratilgan
 - O’zbekistonda paxta savdosiga butunlay chek qo’yishga qaratilgan
-- O’zbekistonda paxta monokulturasini uzil-kesil joriy qilishga qaratilgan (to'g'ri)
++ O’zbekistonda paxta monokulturasini uzil-kesil joriy qilishga qaratilgan
 
 **637. Urushdan keyingi yillarda O’zSSR ning qaysi hududida neftni qayta ishlash zavodi foydalanishga topshirilgan?**
 
-- Farg’onada (to'g'ri)
++ Farg’onada
 - Samarqandda
 - Buxoroda
 - Qashqadaryoda
@@ -4528,7 +4615,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **638. Qachon O’zbekiston metallurgiya zavodida yangi prokat sexi ishga tushirilgan?**
 
 - 1945-yilda
-- 1946-yilda (to'g'ri)
++ 1946-yilda
 - 1947-yilda
 - 1948-yilda
 
@@ -4537,19 +4624,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Mirzacho’l shaharchasi Guliston shahriga aylantirilgan
 - Tashavtomash zavodi ishga tushirilgan
 - O’zbekistonda 2 222 000 tonna paxta yetishtirilgan
-- O’zbekistonda mineral o’gitlar narxini pasaytirish joriy qilingan (to'g'ri)
++ O’zbekistonda mineral o’gitlar narxini pasaytirish joriy qilingan
 
 **640. O’zbekistonda paxtachilikda 1956-yili joriy qilingan yangiliklarning qaysi biri to’g’ri berilgan?**
 
 - Paxta xarid narxlari kamaytirilgan
 - MTS larga to’lanadigan natura haqi stavkalarini 40 foizga oshirilgan
-- Suv uchun to’lanadigan haq bekor qiligan (to'g'ri)
++ Suv uchun to’lanadigan haq bekor qiligan
 - Mineral o’g’itlardan foydalanish kamaytirilgan
 
 **641. Quyidagi voqealardan qaysi biri boshqalariga nisbatan keyinroq sodir bo’lgan?**
 
 - O’zbekiston metallurgiya zavodida yangi prokat sexi ishga tushirilgan
-- O’zbekistonda yetishtirilgan paxtaning miqdori 2 222 000 tonnaga yetgan (to'g'ri)
++ O’zbekistonda yetishtirilgan paxtaning miqdori 2 222 000 tonnaga yetgan
 - Respublikada 218 000 gektar sug’oriladigan maydon faqat paxta ekish uchun bo’shatilgan
 - Tashselmash zavodi paxta terish mashinalarining dastlabki partiyasini ishlab chiqargan
 
@@ -4560,7 +4647,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Usmon Yusupov
 - Nuritdin Muhitdinov
-- Amin Niyozov (to'g'ri)
++ Amin Niyozov
 - Akmal Ikromov
 
 **643. Stalin vafotidan keyin kim SSSR Ministrlar Sovetining raisi lavozimiga tayinlangan?**
@@ -4568,12 +4655,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Nikita Xrushchev
 - Leonid Brejnev
 - Lavrentiy Beriya
-- Georgiy Malenkov (to'g'ri)
++ Georgiy Malenkov
 
 **644. Nikita Xrushchev 1954-yilda Usmon Yusupovni respublika hukumati raisligidan olib tashlab, qayerdagi “4-Boyovut” sovxoziga direktor qilib jo’natgan?**
 
 - Jizzaxdagi
-- Mirzacho’ldagi (to'g'ri)
++ Mirzacho’ldagi
 - Qashqadaryodagi
 - Qizilqumdagi
 
@@ -4582,40 +4669,43 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Qo’qon va Marg’ilonda
 - Marg’ilon va Samarqandda
 - Samarqand va Buxoroda
-- Marg’ilon va Toshkentda (to'g'ri)
++ Marg’ilon va Toshkentda
 
 **646. SSSR da XX asrning 40-yillari oxiri va 50-yillari boshlaridagi qatag’onlar asosan kimlarga qarshi qaratilgan edi?**
 
 - Harbiy va davlat xizmatchilariga
 - Davlat va jamoat arboblariga
-- Madaniyat va fan arboblariga (to'g'ri)
++ Madaniyat va fan arboblariga
 - Asosan partiya va davlat xodimlariga
 
 **647. Sobir Kamolov qaysi yillarda O’z SSR Kompartiyasi MK ning birinchi sekretari lavozimida ishlagan?**
 
 - 1950-1955-yillarda
 - 1955-1957-yillarda
-- 1957-1959-yillarda (to'g'ri)
++ 1957-1959-yillarda
 - 1959-1961-yillarda
 
 **648. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron2929206375770.png)
+
 - Amin Niyozov
-- Nuriddin Muhitdinov (to'g'ri)
++ Nuriddin Muhitdinov
 - Sobir Kamolov
 - Usmon Yusupov
 
 **649. 1951-yili “sovetlarga qarshi millatchilik faoliyat” olib borganlikda ayblanib qamoqqa olingan madaniyat arboblari qachon sovet rejimi tomonidan oqlanib ozod qilingan?**
 
 - 1953-yilda
-- 1955-yilda (to'g'ri)
++ 1955-yilda
 - 1958-yilda
 - 1961-yilda
 
 **650. Nuriddin Muhitdinov qaysi yillarda O’z SSR Kompartiyasi MK ning birinchi sekretari lavozimida ishlagan?**
 
 - 1950-1955-yillarda
-- 1955-1957-yillarda (to'g'ri)
++ 1955-1957-yillarda
 - 1957-1959-yillarda
 - 1959-1961-yillarda
 
@@ -4624,19 +4714,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 2, 4, 3, 1
 - 2, 3, 4, 1
 - 3, 2, 1, 4
-- 2, 4, 1, 3 (to'g'ri)
++ 2, 4, 1, 3
 
 **652. O’zbekiston Kompartiyasi Markaziy Komitetining mafkuraviy masalalarga bag’ishlangan X plenumida “Respublikada mafkuraviy ishning ahvoli va uni yaxshilash choralari to’g’risida” kim ma’ruza qilgan?**
 
 - Usmon Yusupov
 - Nuritdin Muhitdinov
-- Amin Niyozov (to'g'ri)
++ Amin Niyozov
 - Akmal Ikromov
 
 **653. 1956-yilda 25-fevralda qaysi majlisda Nikita Xrushchev shaxsga sig’inish va uning oqibatlari to’g’risida ma’ruza qilib, Stalin shaxsiga sig’inishni qoralagan?**
 
 - KPSS Markaziy Komitetining XXI plenumida
-- KPSS XX syezdining yopiq majlisida (to'g'ri)
++ KPSS XX syezdining yopiq majlisida
 - Kompartiyasi Markaziy Komitetining XII plenumida
 - KPSS XIX syezdining yopiq majlisida
 
@@ -4644,40 +4734,46 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1954-1955-yillarda
 - 1951-1953-yillarda
-- 1957-1961-yillarda (to'g'ri)
++ 1957-1961-yillarda
 - 1955-1960-yillarda
 
 **655. Quyidagi suratda kim tasvirlangan?**
 
-- Amin Niyozov (to'g'ri)
+
+![](../images/astron1426819186851.png)
+
++ Amin Niyozov
 - Nuriddin Muhitdinov
 - Sobir Kamolov
 - Usmon Yusupov
 
 **656. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron3949662213880.png)
+
 - Amin Niyozov
 - Nuriddin Muhitdinov
-- Sobir Kamolov (to'g'ri)
++ Sobir Kamolov
 - Usmon Yusupov
 
 **657. 1950-aprelda Usmon Yusupov o’z vazifasidan ozod qilinib, Moskvada qanday lavozimga tayinlangan?**
 
 - SSSR Tashqi ishlar ministri
 - SSSR Ichki ishlar ministri
-- SSSR Paxtachilik ministri (to'g'ri)
++ SSSR Paxtachilik ministri
 - SSSR Qishloq xo’jaligi ministri
 
 **658. 15 oy davomida O’zSSR partiya tashkilotini boshqargan rahbarni toping.**
 
 - Amin Niyozov
 - Nuriddin Muhitdinov
-- Sobir Kamolov (to'g'ri)
++ Sobir Kamolov
 - Usmon Yusupov
 
 **659. Amin Niyozov qaysi yillarda O’z SSR Kompartiyasi MK ning birinchi sekretari lavozimida ishlagan?**
 
-- 1950-1955-yillarda (to'g'ri)
++ 1950-1955-yillarda
 - 1955-1957-yillarda
 - 1957-1959-yillarda
 - 1959-1961-yillarda
@@ -4686,19 +4782,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Amin Niyozov
 - Nuriddin Muhitdinov
-- Sobir Kamolov (to'g'ri)
++ Sobir Kamolov
 - Usmon Yusupov
 
 **661. O’zSSR da paxta xarid narxini oshirishni Markaz oldiga qo’yib uni uddalagan rahbar kim edi?**
 
 - Amin Niyozov
-- Nuriddin Muhitdinov (to'g'ri)
++ Nuriddin Muhitdinov
 - Sobir Kamolov
 - Usmon Yusupov
 
 **662. O’zSSR da rahbarligi davrida kadrlarni mahalliylashtirish jarayonini ommaviy ravishda amalga oshira boshlangan va islom diniga erkinliklar bergan siyosiy arbobni toping.**
 
-- Sobir Kamolov (to'g'ri)
++ Sobir Kamolov
 - Amin Niyozov
 - Nuriddin Muhitdinov
 - Usmon Yusupov
@@ -4706,13 +4802,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **663. 1950-yili 1-sentyabrda “O’zbekiston SSR Fanlar akademiyasining ishi to’g’risida” gi ish bo’yicha qoralangan akademiya olimlarini sohasi bilan to’g’ri ko’rsating. 1) Adabiyotshunos va faylasuf; 2) Iqtisodchi; 3) Tilshunos; 4) Sharqshunos va tarixchi. a) Olim Aminov; b) Olim Usmonov; c) Abdusamad Boboxo’jayev; d) Vohid Zohidov.**
 
 - 1-d, 2-b, 3-a, 4-c
-- 1-d, 2-a, 3-b, 4-c (to'g'ri)
++ 1-d, 2-a, 3-b, 4-c
 - 1-d, 2-a, 3-c, 4-b
 - 1-a, 2-d, 3-c, 4-b
 
 **664. Qachon O’zbekiston Kompartiyasi Markaziy Komitetining mafkuraviy masalalarga bag’ishlangan X plenumi bo’lib o’tgan?**
 
-- 1952-yil fevralda (to'g'ri)
++ 1952-yil fevralda
 - 1952-yil dekabrda
 - 1950-yil sentyabrda
 - 1950-yil dekabrda
@@ -4720,13 +4816,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **665. Qaysi O’zSSR rahbari o’zbek ziyolilari oqlanishida tashabbuskorlik ko’rsatgan?**
 
 - Amin Niyozov
-- Nuriddin Muhitdinov (to'g'ri)
++ Nuriddin Muhitdinov
 - Sobir Kamolov
 - Usmon Yusupov
 
 **666. 1956-yildan keyin O’zbekiston bo’yicha otilgan va qamoqqa olinganlardan qancha kishi oqlangan?**
 
-- 40 mingga yaqin (to'g'ri)
++ 40 mingga yaqin
 - 50 mingga yaqin
 - 60 mingga yaqin
 - 20 mingga yaqin
@@ -4735,20 +4831,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 7 kishi
 - 10 kishi
-- 12 kishi (to'g'ri)
++ 12 kishi
 - 9 kishi
 
 **668. “Marg’ilonda tug’ilgan. 1947-1950-yillarda O‘zbekiston SSR Oliy Soveti Prezidiumi raisi lavozimida ishlagan. Uning davrida O’zbekiston ziyolilariga nisbatan qatog’on siyosati olib borilgan. 1950-1955-yillarda O’zbekiston Kompartiyasi  Markaziy Komitetining birinchi sekretari lavozimida ishlagan”. Usbu ma’lumotlar qaysi O’zSSR rahbari haqida?**
 
 - Sobir Kamolov
-- Amin Niyozov (to'g'ri)
++ Amin Niyozov
 - Nuriddin Muhitdinov
 - Usmon Yusupov
 
 **669. Quyidagilardan qaysi biri KPSS MK ideologiya sekretari lavozimida ishlagan?**
 
 - Amin Niyozov
-- Nuriddin Muhitdinov (to'g'ri)
++ Nuriddin Muhitdinov
 - Sobir Kamolov
 - Usmon Yusupov
 
@@ -4759,14 +4855,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1, 3, 5
 - 2, 4, 6
-- 3, 4, 6 (to'g'ri)
++ 3, 4, 6
 - 1, 7, 8
 
 **671. Toshkent katta halqa avtomobil yo’li qachon loyihalashtirilgan va qurilgan?**
 
 - 1960-1973-yillarda
 - 1947-1950-yillarda
-- 1959-1968-yillarda (to'g'ri)
++ 1959-1968-yillarda
 - 1955-1966-yillarda
 
 **672. Urushdan keyin O’zbekistonda og’ir sanoat asosan qaysi tarmoqni rivojlantirishga qaratilgan edi?**
@@ -4774,19 +4870,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Chorvachilikni
 - To’qimachilikni
 - G’allachilikni
-- Paxtachilikni (to'g'ri)
++ Paxtachilikni
 
 **673. Chorjo’y-Qo’ng’irot temir yo’li necha kilometrdan iborat?**
 
 - 500 kilometrdan
-- 600 kilometrdan (to'g'ri)
++ 600 kilometrdan
 - 700 kilometrdan
 - 800 kilometrdan
 
 **674. SSSR da beshinchi besh yillik davri qaysi yillarni o’z ichiga oladi?**
 
 - 1946-1950-yillarni
-- 1951-1955-yillarni (to'g'ri)
++ 1951-1955-yillarni
 - 1956-1960-yillarni
 - 1961-1965-yillarni
 
@@ -4794,7 +4890,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1, 3, 5
 - 2, 4, 6
-- 1, 2, 3, 4 (to'g'ri)
++ 1, 2, 3, 4
 - 1, 2, 3, 4, 5, 6
 
 **676. Urushdan keyin O’zbekistonga qanday rahbar lavozimlar Moskvadan yuborilgan vakillardan iborat bo’lib, ular katta huquq va imtiyozlarga ega bo’lgan hamda respublikadagi kadrlar taqdirini o’z ixtiyorlari bo’yicha hal qilishgan? 1) O’zbekiston Kompartiyasi Markaziy Komitetining ikkinchi sekretarlari; 2) O’zbekiston SSR Ministrlar Soveti raisi; 3) O’zbekiston SSR Oliy Soveti Prezidiumi raisining birinchi o’rinbosarlari; 4) Davlat xavfsizlik komiteti; 5) Muhum ministrliklar rahbarlari; 6) Viloyat va shahar partiya tashkilotlarining ikkinchi sekretarlari.**
@@ -4802,11 +4898,11 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1, 3, 5
 - 2, 4, 5, 6
 - 1, 2, 3, 4, 5
-- 1, 2, 3, 4, 5, 6 (to'g'ri)
++ 1, 2, 3, 4, 5, 6
 
 **677. Urushdan keyin rahbar lavozimlarga O’zbekistonga Moskvadan yuborilgan vakillar asosan qaysi xalq vakillaridan iborat bo’lgan?**
 
-- Slavyan va armanlardan (to'g'ri)
++ Slavyan va armanlardan
 - Skandinav va gruzinlardan
 - Tatar va ruslardan
 - Rus va chechenlardan
@@ -4815,26 +4911,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1945-yildan
 - 1946-yildan
-- 1947-yildan (to'g'ri)
++ 1947-yildan
 - 1948-yildan
 
 **679. Urushdan keyin O’zbekistonda qaysi korxona aholi qalin yashaydigan joylarda qurilgan bo’lib, atrof-muhitni ifloslantirgan va ekologik vaziyatni murakkablashtirgan?**
 
 - Chirchiq elektrkimyo kombinati
 - Navoiy kimyo kombinati
-- Yangiyo’l biokimyo zavodi (to'g'ri)
++ Yangiyo’l biokimyo zavodi
 - Barcha javoblar to’g’ri
 
 **680. SSSR dagi 1946-1950-yillardagi besh yillik nechanchi besh yillik hisoblanadi?**
 
 - Ikkinchi
 - Uchinchi
-- To’rtinchi (to'g'ri)
++ To’rtinchi
 - Beshinchi
 
 **681. O’zbekiston havo yo’llarida qachondan boshlab yuksak tezliklar va parvozlar davrini ochib bergan  TU-104 rusumli yo’lovchi tashuvchi samolyotlar paydo bo’lgan?**
 
-- XX asrning 50-yillari o’rtalaridan (to'g'ri)
++ XX asrning 50-yillari o’rtalaridan
 - XX asrning 60-yillari boshlaridan
 - XX asrning 70-yillari boshlaridan
 - XX asrning 50-yillari boshlaridan
@@ -4843,34 +4939,34 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1945-yilda
 - 1946-yilda
-- 1947-yilda (to'g'ri)
++ 1947-yilda
 - 1948-yilda
 
 **683. 1959-yilda O’zSSR aholisi tarkibida o’zbeklarning salmog’i … bo’lsa ham undagi o’zbek ishchilarining miqdori atigi … ni tashkil etgan.**
 
 - 63 %; 28 %
 - 80 %; 59 %
-- 62 %; 43 % (to'g'ri)
++ 62 %; 43 %
 - 65 %; 40 %
 
 **684. O’zbekistonda urushdan keyingi yillarda qaysi sanoatda ishlab chiqarish rejalari bajarilmas, aholining iste’mol mollari bilan ta’minlash darajasi Ittifoqqa nisbatan bir necha marta kam bo’lgan?**
 
 - Og’ir sanoatda
-- Yengil sanoatda (to'g'ri)
++ Yengil sanoatda
 - Kimyo sanoatida
 - Savdo sanoatida
 
 **685. Qoraqalpog’istonni Qozog’iston bilan bog’lab, O’rta Osiyodan Markazga olib borgan ikkinchi poyezd yo’lini toping.**
 
 - Chorjo’y-Qo’ng’irot yo’li
-- Qo’ng’irot-Beynov yo’li (to'g'ri)
++ Qo’ng’irot-Beynov yo’li
 - Nukus-Mang’it yo’li
 - Taxiatosh-Nukus yo’li
 
 **686. O’zbekistonda urushdan keyin qanday korxonalarning ko’plab qurilishi foydadan ko’ra ko’proq salbiy oqibatlarga olib kelgan?**
 
 - To’qimachilik korxonalarining
-- Kimyo korxonalarining (to'g'ri)
++ Kimyo korxonalarining
 - Transport korxonalarining
 - Yog’-moy korxonalarining
 
@@ -4879,7 +4975,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 **687. O’zbekiston Respublikasi Prezidenti tomonidan qachon “Sharof Rashidov tavalludining 100 yilligini nishonlash to’g’risida” gi qaror qabul qilingan?**
 
-- 2017-yil 27-martda (to'g'ri)
++ 2017-yil 27-martda
 - 2017-yil 13-noyabrda
 - 2016-yil 10-avgustda
 - 2016-yil 14-mayda
@@ -4887,13 +4983,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **688. Butun Sharqda parlament raisi bo’lgan birinchi ayol kim?**
 
 - Sayyora Rashidova
-- Yodgor Nasriddinova (to'g'ri)
++ Yodgor Nasriddinova
 - Indra Gandi
 - Benazir Bxutto
 
 **689. Sharof Rashidov qachon va qayerda tug’ilgan?**
 
-- 1917-yil 7-noyabrda Jizzaxda (to'g'ri)
++ 1917-yil 7-noyabrda Jizzaxda
 - 1918-yil 23-yanvarda Samarqandda
 - 1919-yil 7-noyabrda Buxoroda
 - 1920-yil 23-yanvarda Toshkentda
@@ -4902,12 +4998,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Leninist
 - Yosh Leninchi
-- Komsomol (to'g'ri)
++ Komsomol
 - Yosh kommunist
 
 **691. Yodgor Nasriddinova qayerda tug’ilgan?**
 
-- Qo’qonda (to'g'ri)
++ Qo’qonda
 - Jizzaxda
 - Andijonda
 - Samarqandda
@@ -4916,13 +5012,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1917-1983-yillar
 - 1910-1978-yillar
-- 1906-1982-yillar (to'g'ri)
++ 1906-1982-yillar
 - 1907-1989-yillar
 
 **693. Sovet jamiyati siyosiy tizimining asosiy ustuni qaysi organ hisoblangan?**
 
 - Yoshlar tashkilotlari
-- Kompartiya (to'g'ri)
++ Kompartiya
 - Kasaba uyushmalari
 - Barcha javoblar to’g’ri
 
@@ -4931,19 +5027,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 6 ta bekatdan
 - 7 ta bekatdan
 - 8 ta bekatdan
-- 9 ta bekatdan (to'g'ri)
++ 9 ta bekatdan
 
 **695. Toshkentda qachon zilzila sodir bo’lgan?**
 
 - 1977-yilda
-- 1966-yilda (to'g'ri)
++ 1966-yilda
 - 1959-yilda
 - 1979-yilda
 
 **696. Sharof Rashidov qaysi yillarda O’zbekiston SSR Oliy Soveti Prezidiumining raisi sifatida faoliyat ko’rsatgan?**
 
 - 1950-1955-yillarda
-- 1950-1959-yillarda (to'g'ri)
++ 1950-1959-yillarda
 - 1952-1959-yillarda
 - 1951-1957-yillarda
 
@@ -4952,60 +5048,63 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1982-yil 3-noyabrda
 - 1966-yil 8-dekabrda
 - 1959-yil 5-martda
-- 1977-yil 7-oktyabrda (to'g'ri)
++ 1977-yil 7-oktyabrda
 
 **698. SSSR yangi Konstitutsiyasining nechanchi moddasida KPSS ning sovet davlatidagi yetakchilik roli qonuniy mustahkamlab qo’yilib, kommunistik partiya jamiyatning rahbarlik qiluvchi va yo’naltiruvchi kuchi deb yozilgan edi?**
 
 - 18-moddasida
 - 9-moddasida
 - 12-moddasida
-- 6-moddasida (to'g'ri)
++ 6-moddasida
 
 **699. Toshkent metropoliteni qurilishi kimning tashabbusi bilan boshlangan?**
 
 - Amin Niyozov
 - Sobir Kamolov
 - Nuriddin Muhitdinov
-- Sharof Rashidov (to'g'ri)
++ Sharof Rashidov
 
 **700. O’zbekiston SSR Oliy Soveti Prezidiumi raisi lavozimlarida faoliyat ko’rsatgan shaxslarni yillari bilan to’g’ri ko’rsating. 1) Inomjon Usmonxo’jayev; 2) Yodgor Nasriddinova; 3) Nazar Matchonov. a) 1959-1970-yillar; b) 1978-1983-yillar; c) 1970-1978-yillar.**
 
 - 1-c, 2-b, 3-a
-- 1-b, 2-a, 3-c (to'g'ri)
++ 1-b, 2-a, 3-c
 - 1-c, 2-a, 3-b
 - 1-a, 2-c, 3-b
 
 **701. Toshkent metropolitenining birinchi navbati qachon ishga tushirilgan?**
 
-- 1977-yil noyabrda (to'g'ri)
++ 1977-yil noyabrda
 - 1966-yil sentyabrda
 - 1959-yil martda
 - 1981-yil oktyabrda
 
 **702. Quyidagi suratda kim tasvirlangan?**
 
+
+![](../images/astron94634390776337.png)
+
 - Amin Niyozov
 - Sobir Kamolov
 - Nuriddin Muhitdinov
-- Sharof Rashidov (to'g'ri)
++ Sharof Rashidov
 
 **703. O’zbekiston SSR Ministrlar Sovetining raisi lavozimida mehnat qilgan shaxslarni yillari bilan to’g’ri ko’rsating. 1) Orif Alimov; 2) Rahmonqul Qurbonov; 3) Normuhammadi Xudoyberdiyev. a) 1959-1961-yillar; b) 1971-1984-yillar; c) 1961-1971-yillar.**
 
 - 1-c, 2-b, 3-a
 - 1-b, 2-a, 3-c
 - 1-c, 2-a, 3-b
-- 1-a, 2-c, 3-b (to'g'ri)
++ 1-a, 2-c, 3-b
 
 **704. “Partiya nomenklaturasi” nima?**
 
 - Partiyani faqat slavyan va arman millatiga mansub shaxslar boshqarishi
-- Partiya organlari bilan kelishib tayinlanadigan lavozimlar (to'g'ri)
++ Partiya organlari bilan kelishib tayinlanadigan lavozimlar
 - Partiyadagi ko’pchilikning rus millatiga mansubligi
 - Joylarda partiya nomidan ish ko’radigan boshqarmalar
 
 **705. O’zSSR da XX asrning 60-80-yillarida qaysi cho’llarning o’zlashtirilishi natijasida ekin maydonlari kengaygan? 1) Mirzacho’l; 2) Usyurt; 3) Surxon-Sherobod; 4) Qorako’l; 5) Qarshi; 6) Zarafshon.**
 
-- 1, 3, 5 (to'g'ri)
++ 1, 3, 5
 - 2, 4, 5, 6
 - 1, 2, 3, 5
 - 1, 2, 3, 4, 5, 6
@@ -5014,14 +5113,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - XX asrning 50-60-yillarida
 - XX asrning 20-30-yillarida
-- XX asrning 60-80-yillarida (to'g'ri)
++ XX asrning 60-80-yillarida
 - XX asrning 30-50-yillarida
 
 **707. Sharof Rashidov O’zbekiston Kompartiyasi Markaziy Komitetining birinchi sekretari lavozimiga qachon saylangan?**
 
 - 1977-yil 13-noyabrda
 - 1966-yil 2-aprelda
-- 1959-yil 15-martda (to'g'ri)
++ 1959-yil 15-martda
 - 1977-yil 7-oktyabrda
 
 **708. 1917-1983-yillarda yashab faoliyat ko’rsatgan O’zSSR rahbarini toping.**
@@ -5029,13 +5128,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Amin Niyozov
 - Sobir Kamolov
 - Nuriddin Muhitdinov
-- Sharof Rashidov (to'g'ri)
++ Sharof Rashidov
 
 **709. Milliy respublikalar huquqini rasmiy cheklab, Markazga keng vakolatlar olib bergan SSSR ning yangi Konstitutsiyasi kimning rahbarligida tayyorlangan?**
 
 - Xrushchev
 - Andropov
-- Brejnev (to'g'ri)
++ Brejnev
 - Gorbachyov
 
 ## 24-§ O’zbekistonda yoqilg’i va tog’-kon sanoatining vujudga keltirilishi hamda aholi milliy tarkibidagi o’zgarishlar.
@@ -5043,7 +5142,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 **710. XX asr 60-80-yillarida O’zbekistonda qancha millat va elatlar yashagan?**
 
-- 127 ta (to'g'ri)
++ 127 ta
 - 129 ta
 - 130 ta
 - 131 ta
@@ -5053,19 +5152,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1951-yilda
 - 1955-yilda
 - 1960-yilda
-- 1961-yilda (to'g'ri)
++ 1961-yilda
 
 **712. Navoiy viloyati qachon tashkil qilingan?**
 
 - 1980-yilda
 - 1981-yilda
-- 1982-yilda (to'g'ri)
++ 1982-yilda
 - 1983-yilda
 
 **713. Jarqo’rg’on, Qorovulbozor, Sariqtosh gaz konlari nechanchi yil ochilgan?**
 
 - 1960-yillarda
-- 1950-yillarda (to'g'ri)
++ 1950-yillarda
 - 1970-yillarda
 - 1980-yillarda
 
@@ -5073,19 +5172,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1954-yilda
 - 1955-yilda
-- 1956-yilda (to'g'ri)
++ 1956-yilda
 - 1957-yilda
 
 **715. Muruntov oltin konida dastlabki sof quyma oltin (999,9 probali) nechanchi yilda tayorlangan?**
 
-- 1963-yilda (to'g'ri)
++ 1963-yilda
 - 1964-yilda
 - 1965-yilda
 - 1966-yilda
 
 **716. Gazli konidan 1975-yilga kelib qancha gaz ishlab chiqarilgan edi?**
 
-- 33,7 mlrd. m/kub (to'g'ri)
++ 33,7 mlrd. m/kub
 - 34,7 mlrd. m/kub
 - 35,1 mlrd. m/kub
 - 36,6 mlrd. m/kub
@@ -5094,19 +5193,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 0,2 mlrd. m/kub
 - 0,3 mlrd. m/kub
-- 0,4 mlrd. m/kub (to'g'ri)
++ 0,4 mlrd. m/kub
 - 0,5 mlrd. m/kub
 
 **718. Qachon Navoiy kon-metallurgiya kambinatiga poydevor qo’yilishi bilan Navoiy shahriga asos solingan?**
 
 - 1955-yil 1-sentyabrda
-- 1958-yil 3-sentyabrda (to'g'ri)
++ 1958-yil 3-sentyabrda
 - 1958-yil 7-sentyabrda
 - 1959-yil 9-sentyabrda
 
 **719. O’zbekistonning tabiiy gaz mavjud bo’lgan tumanlarida faol geologik–qidiruv ishlari XX asrning nechanchi yillarida boshlangan edi?**
 
-- 50-yillarida (to'g'ri)
++ 50-yillarida
 - 60-yillarida
 - 70-yillarda
 - 80-yillarda
@@ -5115,27 +5214,27 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 400 milliard metr kubdan
 - 450 milliard metr kubdan
-- 500 milliard metr kubdan (to'g'ri)
++ 500 milliard metr kubdan
 - 550 milliard metr kubdan
 
 **721. Butunittifoq gaz qazib chiqarishda O’zbekistonning ulishi 1960-yildagi 1 foizdan 1975-yilda necha foizga ko’tarilgan?**
 
 - 10 foizga
-- 20 foizga (to'g'ri)
++ 20 foizga
 - 30 foizga
 - 40 foizga
 
 **722. XX asr 70-80-yillarida O’zSSR da har yili taxminan necha tonna atrofida sof oltin quymasi tayyorlangan?**
 
 - 40 tonna
-- 50 tonna (to'g'ri)
++ 50 tonna
 - 60 tonna
 - 70 tonna
 
 **723. XX asr 70-80-yillarida O’zbekistonda yer osti konlaridan taxminan necha dollarlik foydali qazilma boylik olingan?**
 
 - 5 mlrd. dollar
-- 5,5 mlrd. dollar (to'g'ri)
++ 5,5 mlrd. dollar
 - 6 mlrd. dollar
 - 6,5 mlrd. dollar
 
@@ -5144,14 +5243,14 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 4 o’rinni
 - 5 o’rinni
 - 6 o’rinni
-- 7 o’rinni (to'g'ri)
++ 7 o’rinni
 
 ## 25-§ O’zbekistonda ekologik vaziyatning og’irlashishi va Orol fojiasi.
 
 
 **725. XX asrning 80-yillarida Orolbo’yi mintaqasi aholisi ayollarining necha foizi kamqonlik kasaliga uchragan edi?**
 
-- 60 foizi (to'g'ri)
++ 60 foizi
 - 65 foizi
 - 70 foizi
 - 75 foizi
@@ -5160,7 +5259,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 10 marta
 - 20 marta
-- 30 marta (to'g'ri)
++ 30 marta
 - 40 marta
 
 **727. Orolbo’yi mintaqasida bir yoshgacha bo’lgan bolalar orasida o’lim har ming bolaga nisbatan 1980-yildagi 46,5 nafardan 1986-yilda qanchaga yetgan?**
@@ -5168,32 +5267,32 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 54 nafarga
 - 60 nafarga
 - 67 nafarga
-- 72 nafarga (to'g'ri)
++ 72 nafarga
 
 **728. XX asr 60-80 yillarida O’zbekistonning qaysi hududlarida kimyo zavodlari qurilgan edi?**
 
 - Samarqand, Toshkent, Sirdaryo
 - Buxoro, Navoiy, Qarshi
-- Navoiy, Chirchiq, Farg’ona (to'g'ri)
++ Navoiy, Chirchiq, Farg’ona
 - Xorazm, Navoiy, Nasaf
 
 **729. Hozirgi vaqtda Orol dengizi necha bo’lakka bo’linib ketgan?**
 
 - 2 bo’lakka
-- 3 bo’lakka (to'g'ri)
++ 3 bo’lakka
 - 4 bo’lakka
 - 5 bo’lakka
 
 **730. Orol dengizining qaysi qismi kichik va sayoz birinchi qismi hisoblanadi?**
 
-- Shimoliy qismi (to'g'ri)
++ Shimoliy qismi
 - Sharqiy qismi
 - G’arbiy qismi
 - Janubiy qismi
 
 **731. XX asr 80-yillari o’rtalarida O’zSSR da qancha tonna zaharli pestitsidlardan qishloq xo’jaligida qo’llanilgan?**
 
-- 90 000 tonna (to'g'ri)
++ 90 000 tonna
 - 70 000 tonna
 - 60 000 tonna
 - 80 000 tonna
@@ -5203,12 +5302,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Orol dengizining 40 000 km kvadratdan ziyod qismining quruqlikka aylanishi natijasida
 - O’rta Osiyoda sug’orishning tez suratlar bilan rivojlanishi sababli
 - Amudaryo va Sirdaryo suv hajmining kamayib borishi va tabiiy bug’lanishning yuqoriligi tufayli
-- Barcha javoblar to’g’ri (to'g'ri)
++ Barcha javoblar to’g’ri
 
 **733. Orol dengizining qaysi qismi nisbatan kattaroq maydonga ega bo’lgan va sayoz ikkinchi qismi hisoblanadi?**
 
 - Shimoliy qismi
-- Sharqiy qismi (to'g'ri)
++ Sharqiy qismi
 - G’arbiy qismi
 - Janubiy qismi
 
@@ -5216,19 +5315,19 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Shimoliy qismi
 - Sharqiy qismi
-- G’arbiy qismi (to'g'ri)
++ G’arbiy qismi
 - Janubiy qismi
 
 **735. Zaharlilik darajasi yuqori bo’lgan kimyoviy modda – “butifos” g’o’zani defoliatsiya qilish (bargini to’kish) uchun O’zbekistonda necha yil davomida ishlatilgan?**
 
 - 10 yil davomida
 - 15 yil davomida
-- 20 yil davomida (to'g'ri)
++ 20 yil davomida
 - 25 yil davomida
 
 **736. O’zSSR rahbariyati nechanchi yilda qishloq xo’jaligida kimyoviy moddalardan foydalanishni taqiqlagan?**
 
-- 1981-yilda (to'g'ri)
++ 1981-yilda
 - 1982-yilda
 - 1983-yilda
 - 1984-yilda
@@ -5236,7 +5335,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **737. XX asrning 80-yillarida Orolbo’yi mintaqasi aholisida sariq kasalligi necha marotaba ortgan?**
 
 - 6 marta
-- 7 marta (to'g'ri)
++ 7 marta
 - 8 marta
 - 9 marta
 
@@ -5245,7 +5344,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 10 mln. rubldan ortiq
 - 15 mln. rubldan ortiq
 - 20 mln. rubldan ortiq
-- 30 mln. rubldan ortiq (to'g'ri)
++ 30 mln. rubldan ortiq
 
 ## 26-§ O’zbekistonda paxta ishi va uning oqibatlari
 
@@ -5255,26 +5354,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1982-yil 24-may XIV plenumda
 - 1983-yil 12 aprel XV plenumda
 - 1985-yil 18-iyun XVII plenumda
-- 1984-yil 23-iyun XVI plenumda (to'g'ri)
++ 1984-yil 23-iyun XVI plenumda
 
 **740. 1984-1985-yillarda Sovet Ittifoqiga kim rahbarlik qilgan?**
 
 - Yuriy Andropov
 - Andrey Gromiko
-- Konstantin Chernenko (to'g'ri)
++ Konstantin Chernenko
 - Mixail Gorbachyov
 
 **741. Quyidagi qaysi so’z “ajratmoq”, “yakkalamoq” degan ma’nolarni anglatadi?**
 
 - Anneksiya
 - Sanksiya
-- Izolyator (to'g'ri)
++ Izolyator
 - Komprador
 
 **742. 1985-1990-yillarda O‘zbekistonda “paxta ishi” bo’yicha jami qancha kishi soxta ayblar bilan jinoiy javobgarlikka tortilgan?**
 
 - 3000 nafar kishi
-- 5000 nafar kishi (to'g'ri)
++ 5000 nafar kishi
 - 6000 nafar kishi
 - 4000 nafar kishi
 
@@ -5282,12 +5381,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1980-yil noyabrda
 - 1981-yil noyabrda
-- 1982-yil noyabrda (to'g'ri)
++ 1982-yil noyabrda
 - 1983-yil noyabrda
 
 **744. 1982-1984-yillarda Sovet Ittifoqiga kim rahbarlik qilgan?**
 
-- Yuriy Andropov (to'g'ri)
++ Yuriy Andropov
 - Andrey Gromiko
 - Konstantin Chernenko
 - Mixail Gorbachyov
@@ -5297,32 +5396,32 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Sharof Rashidov
 - Inomjon Usmonxo‘jayev
 - Rustam Saidov
-- Rafiq Nishonov (to'g'ri)
++ Rafiq Nishonov
 
 **746. “Paxta ishi” deb atalgan siyosiy qatag’onlar davrida 1983-yilda tuzilgan tergov guruhining rahbarlari kimlar edi?**
 
 - D.B. Denisov va N.V. Ivanov
 - T.X. Gdlyan va D.B. Denisov
-- T.X. Gdlyan va N.V. Ivanov (to'g'ri)
++ T.X. Gdlyan va N.V. Ivanov
 - A.D. Molotov va T.X. Gdlyan
 
 **747. 1983-1987-yillarda Moskva, Leningrad (hozirgi Sankt-Peterburg) va RSFSR ning boshqa shaharlaridan qancha “desantchi” O‘zbekistonning partiya, sovet, ma’muriy-xo‘jalik organlariga yuqori rahbarlik lavozimlariga ishga yuborilgan edi?**
 
 - 800 nafarga yaqin
 - 900 nafarga yaqin
-- 1000 nafarga yaqin (to'g'ri)
++ 1000 nafarga yaqin
 - 1100 nafarga yaqin
 
 **748. Leonid Brejnev mamlakat va partiyani necha yil davomida boshqargan?**
 
 - 15 yil davomida
 - 16 yil davomida
-- 18 yil davomida (to'g'ri)
++ 18 yil davomida
 - 22 yil davomida
 
 **749. 1985-yil 2-iyulda kim SSSR Oliy Soveti Prezidiumi raisi lavozimiga saylangan?**
 
-- Andrey Gromiko (to'g'ri)
++ Andrey Gromiko
 - Vladimir Savchenko
 - Mixail Kornenko
 - Andrey Yakubov
@@ -5330,7 +5429,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **750. 1983-1988-yillarda O‘zbekistonga kim rahbarlik qilgan?**
 
 - Sharof Rashidov
-- Inomjon Usmonxo‘jayev (to'g'ri)
++ Inomjon Usmonxo‘jayev
 - Rustam Saidov
 - Rafiq Nishonov
 
@@ -5339,20 +5438,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1982-yil 24-mayda
 - 1983-yil 12 aprelda
 - 1981-yil 18-iyunda
-- 1984-yil 23-iyunda (to'g'ri)
++ 1984-yil 23-iyunda
 
 **752. 1985-1990-yillarda O‘zbekistonda “paxta ishi” degan uydirma bo‘yicha jami qancha kishi tergov qilingan?**
 
 - 30 000 kishi
 - 20 000 kishi
 - 50 000 kishi
-- 40 000 kishi (to'g'ri)
++ 40 000 kishi
 
 **753. Qachondan boshlab sovet rejimi, uning siyosiy tizimi va xo‘jalik yuritish usullari o‘zining rivojlanish imkoniyatlarini tugata boshlagan?**
 
 - XX asrning 60-yillaridan
 - XX asrning 70-yillaridan
-- XX asrning 80-yillaridan (to'g'ri)
++ XX asrning 80-yillaridan
 - XX asrning 90-yillaridan
 
 **754. Mixail Gorbachyov qachon KPSS MK Bosh sekretari lavozimini egallagan?**
@@ -5360,46 +5459,46 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1984-yil 10-mayda
 - 1986-yil 14-fevralda
 - 1986-yil 22-oktyabrda
-- 1985-yil 11-martda (to'g'ri)
++ 1985-yil 11-martda
 
 **755. O‘zbekiston Kompartiyasi Markaziy Komiteti birinchi sekretari Sharof Rashidov qachon vafot etgan?**
 
 - 1982-yil oktyabrda
 - 1981-yil sentyabrda
-- 1983-yil oktyabrda (to'g'ri)
++ 1983-yil oktyabrda
 - 1984-yil dekabrda
 
 **756. Qachondan boshlab SSSR da qayta qurish siyosati boshlangan?**
 
 - 1983-yildan
 - 1984-yildan
-- 1985-yildan (to'g'ri)
++ 1985-yildan
 - 1986-yildan
 
 **757. Quyidagi qaysi so’z lotinchada “qat’iy”, “o‘ta jiddiy qaror” degan ma’nolarni anglatadi?**
 
 - Anneksiya
-- Sanksiya (to'g'ri)
++ Sanksiya
 - Izolyator
 - Komprador
 
 **758. “Izolyator” nima?**
 
 - Mag’lub davlatning hududini qo’shib olish
-- Kazarma, lager, yuqumli kasal saqlanadigan va shu kabi vaqtincha ajratib qo‘yiladigan alohida xona, joy (to'g'ri)
++ Kazarma, lager, yuqumli kasal saqlanadigan va shu kabi vaqtincha ajratib qo‘yiladigan alohida xona, joy
 - Hujjat, qarorlarning oliy organ tomonidan tasdiqlanishi, shunday tasdiq natijasida hujjat, qarorning qonuniy kuchga ega bo‘lishi
 - Hokimiyatning qonuniy asosga ega bo’lishi
 
 **759. “Sanksiya” nima?**
 
-- Hujjat, qarorlarning oliy organ tomonidan tasdiqlanishi, shunday tasdiq natijasida hujjat, qarorning qonuniy kuchga ega bo‘lishi (to'g'ri)
++ Hujjat, qarorlarning oliy organ tomonidan tasdiqlanishi, shunday tasdiq natijasida hujjat, qarorning qonuniy kuchga ega bo‘lishi
 - Kazarma, lager, yuqumli kasal saqlanadigan va shu kabi vaqtincha ajratib qo‘yiladigan alohida xona, joy
 - Hokimiyatning qonuniy asosga ega bo’lishi
 - Gumondor shaxsning sud qarori bilan qamoqqa olinishi
 
 **760. O‘zbekiston Kompartiyasi Markaziy Komitetining XVI plenumiga Moskvadan maxsus yuborilgan KPSS MK sekretari kim edi?**
 
-- Y.K. Ligachev (to'g'ri)
++ Y.K. Ligachev
 - A.N. Ribashev
 - A.A. Makarov
 - D.S. Kalinin
@@ -5410,13 +5509,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **761. “Qayta qurish” ning qaysi bosqichida jamiyatning barcha jabhalarini kompleks tarzda isloh qilish kun tartibiga qo‘yilgan?**
 
 - Birinchi bosqichida
-- Ikkinchi bosqichida (to'g'ri)
++ Ikkinchi bosqichida
 - Uchinchi bosqichida
 - To’rtinchi bosqichida
 
 **762. Qachon Quvasoyda yoshlar o‘rtasida bo‘lgan bezorilik vodiyda millatlararo to‘qnashuvni (mesxeti turklari bilan mahalliy yoshlar o‘rtasida) keltirib chiqargan?**
 
-- 1989-yil may-iyun oylarida (to'g'ri)
++ 1989-yil may-iyun oylarida
 - 1989-yil sentyabr-oktyabr oylarida
 - 1990-yil may-iyul oylarida
 - 1990-yil aprel-may oylarida
@@ -5426,32 +5525,32 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1, 2
 - 1, 3
 - 1, 2, 4
-- 1, 2, 3 (to'g'ri)
++ 1, 2, 3
 
 **764. “Qayta qurish” ning ikkinchi bosqichi nechanchi yillarda bo’lib o’tgan?**
 
 - 1988-1989-yillarda
 - 1986-1989-yillarda
 - 1987-1988-yillarda
-- 1987-1989-yillarda (to'g'ri)
++ 1987-1989-yillarda
 
 **765. 1989-yil 21-oktyabrda O’zSSR Oliy Sovetining XI sessiyasi qanday qonunni qabul qilgan?**
 
 - “O‘zbekiston SSR hududi haqida” qonunni
 - “O‘zbekiston SSR davlat ramzlari haqida” qonunni
 - “O‘zbekiston SSR qurolli kuchlari haqida” qonunni
-- “O‘zbekiston SSR davlat tili haqida” qonunni (to'g'ri)
++ “O‘zbekiston SSR davlat tili haqida” qonunni
 
 **766. KPSS MK ning qachon bo’lib o’tgan plenumi sovet jamiyati hayotining barcha sohalarini chuqur isloh qilish yo‘lini e’lon qilgan?**
 
 - 1983-yil sentyabr plenumi
 - 1984-yil iyun plenumi
 - 1986-yil mart plenumi
-- 1985-yil aprel plenumi (to'g'ri)
++ 1985-yil aprel plenumi
 
 **767. 1989-yil 3-12-iyunda Farg‘ona viloyatida bo‘lgan millatlararo to‘qnashuvlar va namoyishchilarning harbiylar tomonidan o‘qqa tutilishi natijasida necha kishi halok bo‘lgan?**
 
-- 103 nafar (to'g'ri)
++ 103 nafar
 - 105 nafar
 - 110 nafar
 - 125 nafar
@@ -5459,7 +5558,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **768. O’zSSR ning qaysi shahrida 1989-yil 7-8-iyunda bo’lgan mahalliy aholining tinch namoyishi harbiy qism askarlari tomonidan o‘qqa tutilishi natijasida 50 dan ziyod namoyishchilar halok bo‘lgan?**
 
 - Andijon shahrida
-- Qo‘qon shahrida (to'g'ri)
++ Qo‘qon shahrida
 - Marg‘ilon shahrida
 - Bo‘ka shahrida
 
@@ -5467,12 +5566,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Xalqlar va ijtimoiy guruhlarning millatlar ozodligi, mustaqilligi, huquqiy tengligiga asoslangan birdamlik va o‘zaro hamkorlik tamoyili
 - Diniy erkinlika qarshi qaratilgan harakat
-- Partiya hukmronligiga asoslangan tizim (to'g'ri)
++ Partiya hukmronligiga asoslangan tizim
 - Saylov erkinligiga qarshi qaratilgan tizim
 
 **770. “Qayta qurish” ning qaysi bosqichida ilmiy-texnika taraqqiyoti yutuqlarini ishlab chiqarishga jalb etish asosida jamiyatda tub iqtisodiy taraqqiyotni jadallashtirish va uning asnosida inson omilini faollashtirish mo‘ljallangan edi?**
 
-- Birinchi bosqichida (to'g'ri)
++ Birinchi bosqichida
 - Ikkinchi bosqichida
 - Uchinchi bosqichida
 - To’rtinchi bosqichida
@@ -5480,34 +5579,34 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **771. Qachon Farg‘ona vodiysining O‘sh va O‘zgan shaharlarida (qo‘shni Qirg‘iziston hududida) qirg‘izlar bilan o‘zbeklar o‘rtasida etnik mojaro kelib chiqqan?**
 
 - 1989-yil mayda
-- 1990-yil iyunda (to'g'ri)
++ 1990-yil iyunda
 - 1991-yil aprelda
 - 1992-yil iyulda
 
 **772. “Qayta qurish” ning asosiy tarkibiy qismlari deb qanday islohotlar o‘tkazish belgilangan edi?**
 
 - Siyosiy hayotni demokratlashtirish va tub iqtisodiy islohot
-- Ijtimoiy hayotni demokratlashtirish va tub iqtisodiy islohot (to'g'ri)
++ Ijtimoiy hayotni demokratlashtirish va tub iqtisodiy islohot
 - Jamiyatning barcha sohalarini demokratlashtirish islohotlari
 - Saylov jarayonlarini demokratlashtirish islohotlari
 
 **773. “Internatsionalizm” nima?**
 
-- Xalqlar va ijtimoiy guruhlarning millatlar ozodligi, mustaqilligi, huquqiy tengligiga asoslangan birdamlik va o‘zaro hamkorlik tamoyili (to'g'ri)
++ Xalqlar va ijtimoiy guruhlarning millatlar ozodligi, mustaqilligi, huquqiy tengligiga asoslangan birdamlik va o‘zaro hamkorlik tamoyili
 - Diniy erkinlika qarshi qaratilgan harakat
 - Partiya hukmronligiga asoslangan tizim
 - Saylov erkinligiga qarshi qaratilgan qoida
 
 **774. “Qayta qurish” ning birinchi bosqichi nechanchi yillarda bo’lib o’tgan?**
 
-- 1985-1986-yillarda (to'g'ri)
++ 1985-1986-yillarda
 - 1984-1985-yillarda
 - 1986-1987-yillarda
 - 1983-1984-yillarda
 
 **775. “Qayta qurish” ning birinchi bosqichi nima bilan izohlanadi?**
 
-- Ma’muriy tashkiliy tadbirlarni an’anaviy usullarda olib borilishi bilan (to'g'ri)
++ Ma’muriy tashkiliy tadbirlarni an’anaviy usullarda olib borilishi bilan
 - Ijtimoiy hayotni demokratlashtirish va tub iqtisodiy islohot bilan
 - Jamiyatning barcha sohalarini demokratlashtirish bilan
 - Saylov jarayonlarini demokratlashtirish bilan
@@ -5515,7 +5614,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **776. 1989-yil 3-12-iyunda Farg‘ona viloyatida bo‘lgan millatlararo to‘qnashuvlar va namoyishchilarning harbiylar tomonidan o‘qqa tutilishi natijasida necha kishi jarohatlangan va necha xonadonga o‘t qo‘yilib, vayron etilgan?**
 
 - 1022 kishi jarohatlangan va 750 xonadonga o‘t qo‘yilib, vayron etilgan
-- 1011 kishi jarohatlangan va 757 xonadonga o‘t qo‘yilib, vayron etilgan (to'g'ri)
++ 1011 kishi jarohatlangan va 757 xonadonga o‘t qo‘yilib, vayron etilgan
 - 1056 kishi jarohatlangan va 765 xonadonga o‘t qo‘yilib, vayron etilgan
 - 1084 kishi jarohatlangan va 650 xonadonga o‘t qo‘yilib, vayron etilgan
 
@@ -5527,25 +5626,25 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - Abdurahim Po‘latov
 - Islom Karimov
 - Muhammad Solih
-- Mirahmad Mirqosimov (to'g'ri)
++ Mirahmad Mirqosimov
 
 **778. Quyidagi qaysi so‘z lotinchada “xabar berilishi zarur bo‘lgan narsa” degan ma’noni anglatadi?**
 
 - Vitse
-- Referendum (to'g'ri)
++ Referendum
 - Deklaratsiya
 - Nota
 
 **779. Qachon bo‘lib o‘tgan O‘zbekiston SSR Oliy Sovetining o‘n ikkinchi chaqiriq I sessiyasida O‘zbekistonda prezidentlik boshqaruvi ta’sis etilgan?**
 
-- 1990-yil 24-martda (to'g'ri)
++ 1990-yil 24-martda
 - 1990-yil 22-martda
 - 1991-yil 24-martda
 - 1991-yil 22-martda
 
 **780. 1988-yil noyabrda O’zbekistonda o’z faoliyatini boshlagan xalq harakatlari berilgan javobni toping. 1) “Birlik”; 2) “To’maris”; 3) “Do’stlik”; 4) “Erk”; 5) O‘zbekiston yoshlarining erkin uyushmasi.**
 
-- 1, 2, 5 (to'g'ri)
++ 1, 2, 5
 - 1, 4, 5
 - 3, 4, 5
 - 1, 2, 3
@@ -5554,12 +5653,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 1, 3, 5
 - 3, 4, 5
-- 1, 2, 4 (to'g'ri)
++ 1, 2, 4
 - 1, 2, 5
 
 **782. O‘zbekistonda prezidentlik boshqaruvining paydo bo‘lishi va taraqqiyoti necha bosqichdan iborat?**
 
-- 3 bosqichdan (to'g'ri)
++ 3 bosqichdan
 - 2 bosqichdan
 - 4 bosqichdan
 - 5 bosqichdan
@@ -5567,27 +5666,27 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **783. Qachon birinchi marta SSSR da umumxalq referendumi o‘tkazilgan?**
 
 - 1991-yil 18 martda
-- 1991-yil 17-martda (to'g'ri)
++ 1991-yil 17-martda
 - 1992-yil 21-martda
 - 1992-yil 17-martda
 
 **784. Quyidagi qaysi so‘z lotinchada “o‘rniga” degan ma’noni anglatadi?**
 
-- Vitse (to'g'ri)
++ Vitse
 - Referendum
 - Deklaratsiya
 - Nota
 
 **785. Sovet Ittifoqi tarkibidan 1990-yil mart-may oylarida qaysi davlatlar chiqib ketgan?**
 
-- Litva, Latviya, Estoniya (to'g'ri)
++ Litva, Latviya, Estoniya
 - Armaniston, Ozarbayjon, Gruziya
 - Moldova, Litva, Gruziya
 - Estoniya, Ukraina, Belorusiya
 
 **786. SSSR Prezidenti lavozimi ta’sis etilgan SSSR Xalq deputatlarining navbatdan tashqari III syezdi qachon bo’lib o’tgan?**
 
-- 1990-yil 12-15-martda (to'g'ri)
++ 1990-yil 12-15-martda
 - 1990-yil 22-23-martda
 - 1991-yil 24-25-martda
 - 1991-yil 12-15-martda
@@ -5596,12 +5695,12 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - Abdurahim Po‘latov
 - Islom Karimov
-- Muhammad Solih (to'g'ri)
++ Muhammad Solih
 - Mirahmad Mirqosimov
 
 **788. Qachon SSSR davlati xalqaro huquq subyekti sifatida barham topgan?**
 
-- 1991-yil 25-dekabrda (to'g'ri)
++ 1991-yil 25-dekabrda
 - 1991-yil 29-avgustda
 - 1992-yil 29-avgustda
 - 1992-yil 25-dekabrda
@@ -5609,20 +5708,20 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **789. 1991-yilda “Mustaqil Davlatlar Ittifoqi to‘g‘risida shartnoma” loyihasi quyidagi qaysi davlat matbuotida 28-iyun va 16-avgust kunlari e’lon qilingan?**
 
 - Qozog‘iston
-- O‘zbekiston (to'g'ri)
++ O‘zbekiston
 - Qirg‘iziston
 - Turkmaniston
 
 **790. 1988-yil noyabrda jamoat tashkiloti sifatida qaysi xalq harakati tashkil topgan?**
 
-- “Birlik” xalq harakati (to'g'ri)
++ “Birlik” xalq harakati
 - “Do’stlik” xalq harakati
 - “Erk” xalq harakati
 - “To’maris” ayollar harakati
 
 **791. 1990-yil 12-iyunda qaysi davlatning suvereniteti to‘g‘risida Deklaratsiya qabul qilingan?**
 
-- RSFSR (to'g'ri)
++ RSFSR
 - Belorusiya
 - Ukraina
 - Qozog‘iston
@@ -5630,13 +5729,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **792. Qaysi yillarda nashr etilgan “Erk” gazetasi O‘zbekiston aholisi o‘rtasida juda mashhur bo‘lib ketgan?**
 
 - 1989-1991-yillarda
-- 1990-1992-yillarda (to'g'ri)
++ 1990-1992-yillarda
 - 1994-1995-yillarda
 - 1993-1994-yillarda
 
 **793. 1992-yildan qaysi harakat va partiyalar O‘zbekiston hududida o‘z siyosiy faoliyatini to‘xtatgan?**
 
-- “Birlik” va “Erk” (to'g'ri)
++ “Birlik” va “Erk”
 - “To’maris” va “Birdamlik”
 - “Do’stlik” va “Birlik”
 - “Birlik” va “To’maris”
@@ -5644,13 +5743,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **794. 1989-yil 23-iyunda O‘zbekiston Kompartiyasi Markaziy Komitetining birinchi sekretari etib kim saylangan?**
 
 - Abdurahim Po‘latov
-- Islom Karimov (to'g'ri)
++ Islom Karimov
 - Saloy Madaminov
 - Mirahmad Mirqosimov
 
 **795. KPSS siyosiy partiya sifatida qachon o‘z faoliyatini to‘xtatgan?**
 
-- 1991-yil 29-avgustda (to'g'ri)
++ 1991-yil 29-avgustda
 - 1992-yil 28-avgustda
 - 1991-yil 28-avgustda
 - 1992-yil 29-avgustda
@@ -5659,26 +5758,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - “Birlik”, “Erk” gazetalari
 - “To’maris”, “O‘zbekiston yoshlari” gazetalari
-- “Birlik”, “To’maris” gazetalari (to'g'ri)
++ “Birlik”, “To’maris” gazetalari
 - Barcha javoblar to’g’ri
 
 **797. Mustaqillik Deklaratsiyasi qabul qilingan O‘zbekiston SSR Oliy Soveti o‘n ikkinchi chaqiriq II sessiyasi qachon bo‘lgan?**
 
 - 1990-yil 20-iyulda
 - 1991-yil 20-iyulda
-- 1990-yil 20-iyunda (to'g'ri)
++ 1990-yil 20-iyunda
 - 1991-yil 20-iyunda
 
 **798. “Birlik” xalq harakatining rahbari kim bo’lgan?**
 
 - Islom Karimov
-- Abdurahim Po‘latov (to'g'ri)
++ Abdurahim Po‘latov
 - Saloy Madaminov
 - Mirahmad Mirqosimov
 
 **799. 1991-yil 23-aprelda Moskva yaqinidagi Novo-Ogaryovoda qabul qilingan “Mamlakatdagi ahvolni barqarorlashtirish va tanglikni bartaraf etishga doir kechiktirib bo‘lmaydigan chora-tadbirlar to‘g‘risida qo‘shma bayonot” qanday nom olgan?**
 
-- “9+1” (to'g'ri)
++ “9+1”
 - “8+1”
 - “9+2”
 - “7+2”
@@ -5686,13 +5785,13 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **800. 1991-yil 23-aprelda Moskva yaqinidagi Novo-Ogaryovoda bayonot qabul qilish uchun quyidagi qaysi respublikalar oliy idoralari rahbarlari uchrashgan edi? 1) RSFSR; 2) Ukraina; 3) Belorusiya; 4) O’zbekiston; 5) Latviya; 6) Estoniya; 7) Qozog’iston; 8) Ozarbayjon; 9) Tojikiston; 10) Qirg’iziston; 11) Turkmaniston.**
 
 - 1, 2, 3, 4, 5, 6, 7, 10
-- 1, 2, 3, 4, 7, 8, 9, 10, 11 (to'g'ri)
++ 1, 2, 3, 4, 7, 8, 9, 10, 11
 - 1, 2, 4, 6, 8, 9, 10, 11
 - 1, 3, 5, 7, 9, 10
 
 **801. O‘zbekiston SSR Ministrlar Sovetiga Shukurulla Mirsaidov qaysi davrda raislik qilgan?**
 
-- 1990-yil mart-oktyabr oylarida (to'g'ri)
++ 1990-yil mart-oktyabr oylarida
 - 1989-yil may-sentyabr oylarida
 - 1989-yil mart-oktyabr oylarida
 - 1990-yil may-sentyabr oylarida
@@ -5702,18 +5801,18 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 - 1, 2, 3, 4
 - 1, 3, 4
 - 1, 2, 4
-- 1, 2, 3 (to'g'ri)
++ 1, 2, 3
 
 **803. Quyidagi qaysi so‘z “ma’lum qilaman” degan ma’noni anglatadi?**
 
 - Vitse
 - Referendum
-- Deklaratsiya (to'g'ri)
++ Deklaratsiya
 - Nota
 
 **804. O’zbekistonda qaysi yilda “Erk” demokratik partiyasining ta’sis qurultoyida uning dasturi va nizomi qabul qilingan?**
 
-- 1990-yil 30-aprelda (to'g'ri)
++ 1990-yil 30-aprelda
 - 1989-yil 21-sentyabrda
 - 1990-yil 31-avgustda
 - 1991-yil 19-sentyabrda
@@ -5721,7 +5820,7 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 **805. Ittifoqdosh respublikalar o‘rtasida birinchi bo‘lib qaysi birida prezidentlik boshqaruvi joriy qilingan?**
 
 - Qozog‘istonda
-- O‘zbekistonda (to'g'ri)
++ O‘zbekistonda
 - Belorusiyada
 - Ukrainada
 
@@ -5729,26 +5828,26 @@ _Tarix (Mavzulashgan) (2017-2019-yillar darsliklari)_
 
 - 2004-yil yanvargacha
 - 2005-yil fevralgacha
-- 2005-yil yanvargacha (to'g'ri)
++ 2005-yil yanvargacha
 - 2006-yil martgacha
 
 **807. O‘zbekiston SSR tarkibidagi Qoraqalpog‘iston ASSR suvereniteti to‘g‘risida Deklaratsiya qachon qabul qilingan?**
 
 - 1990-yil 20-iyulda
 - 1991-yil 20-iyunda
-- 1990-yil 14-dekabrda (to'g'ri)
++ 1990-yil 14-dekabrda
 - 1991-yil 15-dekabrda
 
 **808. 1991-yil 31-avgustda O‘zbekiston Respublikasi Oliy Kengashining o‘n ikkinchi chaqiriq navbatdan tashqari nechanchi sessiyasida O‘zbekiston Respublikasi prezidenti I.A. Karimovning Davlat Mustaqilligi to‘g‘risidagi ma’ruzasi tinglangan va “O‘zbekiston Respublikasining Davlat Mustaqilligi asoslari to‘g‘risida” qonun qabul qilingan?**
 
 - IV sessiyasida
 - V sessiyasida
-- VI sessiyasida (to'g'ri)
++ VI sessiyasida
 - VII sessiyasida
 
 **809. “O‘zbekiston Respublikasining Davlat Mustaqilligi asoslari to‘g‘risida” gi qonun necha moddadan iborat?**
 
 - 16 moddadan
-- 17 moddadan (to'g'ri)
++ 17 moddadan
 - 18 moddadan
 - 19 moddadan

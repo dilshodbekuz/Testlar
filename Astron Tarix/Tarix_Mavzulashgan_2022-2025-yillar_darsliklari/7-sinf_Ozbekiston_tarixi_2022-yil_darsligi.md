@@ -8,7 +8,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 **1. Ilk o‘rta asrlar qaysi asrlarni o‘z ichiga oladi?**
 
-- IV–VIII asrlarni (to'g'ri)
++ IV–VIII asrlarni
 - IX–XV asrlarni
 - XVI–XIX asrlarni
 - XIV–XVIII asrlarni
@@ -16,20 +16,20 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 **2. Qadimdan «Turon» deb atalib kelingan yurtimiz  va unga tutash hududlar XVIII–XIX asr g‘arb olimlari va sayyohlari tomonidan qanday atalgan?**
 
 - «Movarounnahr», «Xuroson»
-- «O‘rta Osiyo» yoki «Markaziy Osiyo» (to'g'ri)
++ «O‘rta Osiyo» yoki «Markaziy Osiyo»
 - «Movarounnahr», «Turon»
 - «Yettisuv», «Xuroson»
 
 **3. Ilk o‘rta asrlarda qaysi so‘z «qishloq hokimi» degan ma’noni anglatgan?**
 
-- Dehqon (to'g'ri)
++ Dehqon
 - Kadivar
 - Kashovarz
 - Chokar
 
 **4. Qadimdan «Turon» deb atalib kelingan yurtimiz  va unga tutash hududlar arablar davridan qanday atalgan?**
 
-- «Movarounnahr», «Xuroson» (to'g'ri)
++ «Movarounnahr», «Xuroson»
 - «O‘rta Osiyo» yoki «Markaziy Osiyo»
 - «Movarounnahr», «Turon»
 - «Yettisuv», «Xuroson»
@@ -38,7 +38,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - «O‘zxon» va «o‘zbiy»
 - «O‘zbek» va «o‘zixon»
-- «O‘zbiy» va «o‘zbek» (to'g'ri)
++ «O‘zbiy» va «o‘zbek»
 - «O‘zxon» va «o‘zbek»
 
 **6. «O‘rta asrlar» tushunchasi tarix faniga qayerlik tarixchilari tomonidan olib kirilgan?**
@@ -46,33 +46,33 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Nemis tarixchilari
 - Fransuz tarixchilari
 - Ingliz tarixchilari
-- Italyan tarixchilari (to'g'ri)
++ Italyan tarixchilari
 
 **7. Yevropada o‘rta asrlarning boshlanishi qaysi voqeaga to‘g‘ri keladi?**
 
 - Franklar davlatining vujudga kelishiga (486-yil) 
 - Buyuk Karl hukmronligining boshlanishiga (768-yil)
-- Rim imperiyasining qulashiga (476-yil) (to'g'ri)
++ Rim imperiyasining qulashiga (476-yil)
 - Rim imperiyasining ikkiga ajralishiga (395-yil)
 
 **8. So‘nggi o‘rta asrlar qaysi asrlarni o‘z ichiga oladi?**
 
 - IV–VIII asrlarni
 - IX–XV asrlarni
-- XVI–XIX asrlarni (to'g'ri)
++ XVI–XIX asrlarni
 - XIV–XVIII asrlarni
 
 **9. Rivojlangan o‘rta asrlar qaysi asrlarni o‘z ichiga oladi?**
 
 - IV–VIII asrlarni
-- IX–XV asrlarni (to'g'ri)
++ IX–XV asrlarni
 - XVI–XIX asrlarni
 - XIV–XVIII asrlarni
 
 **10. Ilk o‘rta asrlarda dehqonlarning ekinzorlarida ishlovchi yersiz ishchilar nima deb atalgan?**
 
 - Dehqon
-- Kadivar (to'g'ri)
++ Kadivar
 - Kashovarz
 - Chokar
 
@@ -81,32 +81,32 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - V asr boshlarida
 - VI asr boshlarida
 - VII asr boshlarida
-- VIII asr boshlarida (to'g'ri)
++ VIII asr boshlarida
 
 **12. Ilk o‘rta asrlarda erkin ziroatchilar tabaqasi nima deb atalgan?**
 
 - Qo‘riqchi
 - Kadivar
-- Kashovarz (to'g'ri)
++ Kashovarz
 - Chokar
 
 **13. Bizning tariximizda «o‘rta asrlar» deb atalayotgan davr qachondan boshlangan?**
 
 - IV asr boshlari hamda V asr oxirlaridan
 - IV asr o‘rtalari hamda V asr boshlaridan
-- IV asr oxirlari hamda V asr o‘rtalaridan (to'g'ri)
++ IV asr oxirlari hamda V asr o‘rtalaridan
 - V asr oxirlari hamda VI asr o‘rtalaridan
 
 **14. Zaminimizda tug‘ilib, voyaga yetgan Imom Buxoriy, Imom Termiziy, Mahmud Zamahshariy, Ahmad Yassaviy, Najmiddin Kubro singari mashhur ulamolar qaysi asrlarda yashagan?**
 
 - X–XI asrlarda
 - IX–XIII asrlarda
-- IX–XII asrlarda (to'g'ri)
++ IX–XII asrlarda
 - X–XIV asrlarda
 
 **15. 7-sinf O‘zbekiston tarixi darsligi qaysi asrlar tarixini o‘rganadi?**
 
-- IV asrdan XIII asr boshlarigacha (to'g'ri)
++ IV asrdan XIII asr boshlarigacha
 - V asrdan XIV asr boshlarigacha
 - VI asrdan XV asr boshlarigacha
 - VII asrdan XVI asr boshlarigacha
@@ -116,7 +116,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Ilk, yangi va so‘nggi o‘rta asrlarga
 - Rivojlangan va so‘nggi o‘rta asrlarga
 - Yangi va so‘nggi o‘rta asrlarga 
-- Ilk, rivojlangan va so‘nggi o‘rta asrlarga  (to'g'ri)
++ Ilk, rivojlangan va so‘nggi o‘rta asrlarga 
 
 ## 2-§ IV–VII asrlarda mamlakatimiz xalqlarining turmush tarzi.
 
@@ -126,12 +126,12 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Yahyo G‘ulomov, «O‘zbekistonda irrigatsiya tarixi»
 - Karimov Tursun, «O‘zbek davlatchiligi tarixi»
 - Habibulla Sulaymonov, «O‘zbekistonda feodalizm munosabatlarining rivojlanishi»
-- Ahmadali Asqarov, «O‘zbek xalqining etnogenezi va etnik tarixi»  (to'g'ri)
++ Ahmadali Asqarov, «O‘zbek xalqining etnogenezi va etnik tarixi» 
 
 **18. Ilk o‘rta asrlarda «chokar» kim bo‘lgan?**
 
 - Qishloq hokimi, mulkdor tabaqa
-- Dehqon mulkini qo‘riqlovchi, harbiy posbon (to'g'ri)
++ Dehqon mulkini qo‘riqlovchi, harbiy posbon
 - Ziroatchi oddiy qo‘shchi
 - Qishloqning dehqonlarga qaram aholisi
 
@@ -139,12 +139,12 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Qishloq hokimi, mulkdor tabaqa
 - Dehqon mulkini qo‘riqlovchi, harbiy posbon
-- Ziroatchi oddiy qo‘shchi (to'g'ri)
++ Ziroatchi oddiy qo‘shchi
 - Qishloqning dehqonlarga qaram aholisi
 
 **20. Ilk o‘rta asrlarda «dehqon» kim bo‘lgan?**
 
-- Qishloq hokimi, mulkdor tabaqa (to'g'ri)
++ Qishloq hokimi, mulkdor tabaqa
 - Dehqon mulkini qo‘riqlovchi, harbiy posbon
 - Ziroatchi oddiy qo‘shchi
 - Qishloqning dehqonlarga qaram aholisi
@@ -154,7 +154,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Qishloq hokimi, mulkdor tabaqa
 - Dehqon mulkini qo‘riqlovchi, harbiy posbon
 - Ziroatchi oddiy qo‘shchi
-- Qishloqning dehqonlarga qaram aholisi (to'g'ri)
++ Qishloqning dehqonlarga qaram aholisi
 
 ## 3-4-§ IV–VII asrlarda Xorazm.
 
@@ -163,26 +163,26 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Ruhoniy shifokorlar
 - Xattot kitobdorlar
-- Ruhoniylar – diniy marosimlarni bajaruvchilar (to'g'ri)
++ Ruhoniylar – diniy marosimlarni bajaruvchilar
 - Munajjim-olimlar
 
 **23. Afrig‘iylar sulolasi Xorazmda qaysi asrlarda hukumronlik qilgan?**
 
-- III-X asrlarda (to'g'ri)
++ III-X asrlarda
 - V-VIII asrlarda
 - VI-IX asrlarda
 - IV-X asrlarda
 
 **24. Qang‘ davlatidan mustaqil bo‘lgan Xorazmni qaysi sulola boshqargan?**
 
-- Afrig‘iylar sulolasi (to'g'ri)
++ Afrig‘iylar sulolasi
 - Siyovushiylar sulolasi
 - Anushteginiylar sulolasi
 - Ma’muniylar sulolasi
 
 **25. Xorazmning afrig‘iy shohlari kumush tangalarining … tasviri tushirilgan edi.**
 
-- oldi tarafiga shoh surati, orqasiga esa suvoriy (to'g'ri)
++ oldi tarafiga shoh surati, orqasiga esa suvoriy
 - oldi tarafiga burgut surati, orqasiga esa qoplon
 - oldi tarafiga shoh surati, orqasiga esa malika
 - oldi tarafiga sher, orqasiga esa ot
@@ -190,7 +190,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 **26. «Mudofaa jihatidan poytaxt nihoyatda mustahkam qilib qurilgan bo‘lib, shahar devorining o‘rtasida darvozaxona bo‘lgan. Darvoza qarshisida shahar markazidan kesib o‘tkazilgan ko‘chaning har ikki tomonlari bo‘ylab shaharliklarning turar joylari joylashgan. Shahar markazidan yuqoriroqda ibodatxona majmuasi joylashgan bo‘lib, uning burchak qismida esa balandligi 25 metr bo‘lgan ko‘p minorali xorazmshohlar qasri qad ko‘targan». Yuqoridagi ta’rif qaysi ilk o‘rta asr shahriga berilgan?**
 
 - Ellikqal’a shahriga
-- Tuproqqal’a shahriga (to'g'ri)
++ Tuproqqal’a shahriga
 - Qo‘yqirilganqal’a shahriga
 - Oybuyurqal’a shahriga
 
@@ -199,39 +199,42 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Muhammad ibn Jarir at-Tabari
 - Mahmud az-Zamaxshariy
 - Abu Bakr Muhammad Narshaxiy
-- Abu Rayhon Beruniy (to'g'ri)
++ Abu Rayhon Beruniy
 
 **28. Qadimiy Xorazmdagi afsonaga ko‘ra, Xubbining onasi dengiz malikasi o‘g‘irlab ketgan o‘g‘lini qayerdan yig‘lab qidirgan?**
 
 - Sirdaryodan
-- Amudaryodan (to'g'ri)
++ Amudaryodan
 - Orol dengizidan
 - Kaspiy dengizidan
 
 **29. Zaiflashib borayotgan Qang‘ davlatidan birinchi bo‘lib qaysi davlat ajralib chiqqan?**
 
-- Xorazm (to'g'ri)
++ Xorazm
 - Sug‘diyona
 - Marg‘iyona
 - Baqtriya
 
 **30. Suratdagi tanga qaysi Xorazm hukmdori davriga tegishli?**
 
+
+![](../images/astron60112082614421.png)
+
 - Farasman
 - Kubod
 - Afrig‘
-- Shovshafar (to'g'ri)
++ Shovshafar
 
 **31. Qadimgi Xorazmda qayiqlarning burnida qaysi ayolning haykali o‘rnatilgan?**
 
-- Xubbining onasining haykali (to'g'ri)
++ Xubbining onasining haykali
 - Zardushtning onasining haykali
 - Jamshidning onasining haykali
 - Afrig‘ning onasining haykali
 
 **32. Xorazmshoh Afrig‘ poytaxtni Kat shahriga ko‘chirgach qaysi qasr ichida o‘ziga yangi saroy qurdirgan?**
 
-- Alfir (to'g'ri)
++ Alfir
 - Oychixon
 - Tuproqqal’a
 - Kabir
@@ -241,13 +244,13 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Milodiy 318-yildan
 - Milodiy 350-yildan
 - Milodiy 321-yildan
-- Milodiy 305-yildan (to'g'ri)
++ Milodiy 305-yildan
 
 **34. Xorazmda nechanchi asrgacha zardushtiylik dinining ta’siri kuchli bo‘lgan?**
 
 - VI asrgacha
 - VII asrgacha
-- VIII asrgacha (to'g'ri)
++ VIII asrgacha
 - IX asrgacha
 
 **35. Xorazmda Xubbi qanday iloh bo‘lgan?**
@@ -255,32 +258,32 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Yer ilohi
 - Quyosh ilohi
 - Chaqmoq ilohi
-- Suv ilohi (to'g'ri)
++ Suv ilohi
 
 **36. Qadimiy Xorazmdagi afsonaga ko‘ra, qaysi iloh baliqni bir qo‘li bilan tutib quyoshga uzatar va uni quyosh shulasida qovurib yer edi, suvga cho‘kkanlarni qutqargan, so‘yilgan ho‘kizlarga jon bag‘ishlagan?**
 
 - Ahuramazda
 - Anahita
-- Xubbi (to'g'ri)
++ Xubbi
 - Zaratushtra
 
 **37. Ilk o‘rta asrlarda O‘rta Osiyodagi qaysi xalqning turmushida, asosan, baliq, qovun, qovoq, yovvoyi jiyda va tut alohida o‘rin tutgan?**
 
 - Sug‘diylar
 - Baqtriyaliklar
-- Xorazmliklar (to'g'ri)
++ Xorazmliklar
 - Marg‘iyonaliklar
 
 **38. Afrig‘iylar davrida Xorazmda hukmronlik ramzi … bo‘lgan.**
 
 - Yo‘lbars va qoplon
 - Lochin va bo‘ri
-- Burgut va lochin (to'g'ri)
++ Burgut va lochin
 - Sher va burgut
 
 **39. Tuproqqal’a haqida bildirilgan to‘g‘ri fikrlarni toping. 1) Shahar devorining o‘rtasida darvozaxona bo‘lgan; 2) Shahar markazidan yuqoriroqda ibodatxona majmuasi joylashgan; 3) Ibodatxona burchak qismida balandligi 25 metr bo‘lgan ko‘p minorali xorazmshohlar qasri qad ko‘targan; 4) Qasr imoratlari — ikki qavatli shoh saroyi va koshona turar joylarining devor tokchalari turli maz mundagi rangdor tasvirlar, bo‘rtma ganchkor naqshlar  hamda haykallar bilan bezatilgan; 5) Umumiy maydoni 20 gektarni tashkil etgan.**
 
-- 1, 2, 3, 4, 5 (to'g'ri)
++ 1, 2, 3, 4, 5
 - 1, 2, 3, 4
 - 1, 2, 3
 - 1, 2
@@ -288,13 +291,13 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 **40. Qang‘ davlatidan mustaqil bo‘lgan Xorazmning poytaxti qaysi shahar edi?**
 
 - Ellikqal’a shahri
-- Tuproqqal’a shahri (to'g'ri)
++ Tuproqqal’a shahri
 - Qo‘yqirilgan qal’a shahri
 - Oybuyur qal’a shahri
 
 **41. Amudaryoga … kelib qo‘shilgan joyning quyidan boshlab, u hech qanday irmoqlarsiz jazirama sahrolar ichidan oqa boshlaydi va shu yerdan uning hayotbaxsh faoliyati boshlanib, Xorazm diyorini suv bilan ta’minlaydi.**
 
-- Surxon (to'g'ri)
++ Surxon
 - Zarafshon
 - Chirchiq
 - Norin
@@ -303,14 +306,14 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Ibn Arabshox
 - Narshxiy
-- Istaxriy (to'g'ri)
++ Istaxriy
 - Ibn Battuta
 
 **43. Qachon Xorazmshoh Afrig‘ o‘z qarorgohini Xorazmning qadimgi Kat shahriga ko‘chirgan?**
 
 - Milodiy 318-yilda
 - Milodiy 350-yilda
-- Milodiy 305-yilda (to'g'ri)
++ Milodiy 305-yilda
 - Milodiy 321-yilda
 
 **44. Xorazm vohasiga … sahrosi tutashib ketgan. … meridianidan sal sharqroqda qum tepaliklar chegarasi shimoliy-g‘arb tomonga buriladi va shu yo‘nalishda deyarli … ko‘ligacha borib yetadi.**
@@ -318,25 +321,25 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Qizilqum/Xiva/Qorako‘l
 - Qoraqum/Urganch/Qorako‘l
 - Qoraqum/Xiva/Sariqamish
-- Qoraqum/Xiva/ Qorako‘l (to'g'ri)
++ Qoraqum/Xiva/ Qorako‘l
 
 **45. Ilk o‘rta asrlarda qaysi Xorazm shahrida balandligi 25 metr bo‘lgan ko‘p minorali xorazmshohlar qasri qad ko‘targan va qasr imoratlari — ikki qavatli shoh saroyi va koshona turar joylarining devor tokchalari turli mazmundagi rangdor tasvirlar, bo‘rtma ganchkor naqshlar hamda haykallar bilan bezatilgan edi?**
 
 - Ellikqal’a shahrida
-- Tuproqqal’a shahrida (to'g'ri)
++ Tuproqqal’a shahrida
 - Qo‘yqirilganqal’a shahrida
 - Oybuyurqal’a shahrida
 
 **46. Amudaryo qayerdan boshlanadi?**
 
 - Himolayning Janubiy yonbag‘irlaridagi muzliklardan
-- Hindiqushning Shimoliy yonbag‘irlaridagi muzliklardan (to'g'ri)
++ Hindiqushning Shimoliy yonbag‘irlaridagi muzliklardan
 - Turon tog‘ tizmalarining G‘arbiy yonbag‘irlaridagi muzliklardan
 - Nurota tog‘ tizmalarining Janubiy yonbag‘irlaridagi muzliklardan
 
 **47. Qadimiy Xorazmdagi afsonaga ko‘ra, kim o‘z xalqini daryoda urishishga o‘rgatgan?**
 
-- Xubbining onasi (to'g'ri)
++ Xubbining onasi
 - Zardushtning onasi
 - Jamshidning onasi
 - Afrig‘ning onasi
@@ -344,20 +347,20 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 **48. Zardushtiylar ta’lim maskanlarida mobadlar bolalarga, asosan, nimalardan saboq berganlar?**
 
 - O‘qish, yozish va dehqonchilik hunaridan
-- O‘qish, yozish va jang san’atidan (to'g'ri)
++ O‘qish, yozish va jang san’atidan
 - Xattotlik va din asoslaridan
 - Musiqa, she’riyat va munajjimlik ilmidan
 
 **49. Qadimiy Xorazmdagi afsonaga ko‘ra, qaysi hukmdor taxtga o‘tirgan vaqtda Xubbi dom-daraksiz g‘oyib bo‘lgan, uni dengiz malikasi o‘g‘irlab ketgan?**
 
 - Farasman
-- Jamshid (to'g'ri)
++ Jamshid
 - Afrig‘
 - Shovshafar
 
 **50. Xorazm davlatining poytaxti dastlab Qoraqalpog‘istonning hozirgi Ellikqal’a tumanida joylashgan qadimgi qaysi shahar xarobasining o‘rnida bo‘lgan?**
 
-- Tuproqqal’a (to'g'ri)
++ Tuproqqal’a
 - Ellikqal’a
 - Qo‘yqirilganqal’a
 - Oybuyurqal’a
@@ -365,7 +368,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 **51. Ilk o‘rta asrlarda Tuproqqal’a shahri qancha maydonni egallagan edi?**
 
 - 15 gektarni
-- 20 gektarni (to'g'ri)
++ 20 gektarni
 - 25 gektarni
 - 30 gektarni
 
@@ -375,13 +378,13 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 **52. Qachon kidariylar va sosoniylar o‘rtasida to‘qnashuv bo‘lib o‘tgan va unda kidariylar yengilgan?**
 
 - 422-yilda
-- 456-yilda (to'g'ri)
++ 456-yilda
 - 468-yilda
 - 491-yilda
 
 **53. Turonda kidariylar va еftaliylar hukmronligi o‘rnatilgach, xioniylarning siyosiy ahvoli o‘zgaradi va ular kimlarga tobe bo‘lib qolgan?**
 
-- Eftaliylarga (to'g'ri)
++ Eftaliylarga
 - Kidariylarga
 - Sosoniylarga
 - Toxariylarga
@@ -390,27 +393,30 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Kidariylar
 - Xiyoniylar
-- Yuechjilar (to'g'ri)
++ Yuechjilar
 - Toxarlar
 
 **55. Rasmda qaysi xalq tangasi tasvirlangan?**
 
+
+![](../images/astron1936319971013.png)
+
 - Xiyoniylar
-- Kidariylar (to'g'ri)
++ Kidariylar
 - Eftaliylar
 - Kushonlar
 
 **56. Nima sababdan toxarlarni «kidariylar» deb atashgan?**
 
 - Ular Kidar deb nomlangan urug‘dan bo‘lgani uchun
-- Ularga Kidar ismli hukmdor boshchilik qilganligi uchun (to'g'ri)
++ Ularga Kidar ismli hukmdor boshchilik qilganligi uchun
 - Ular Kidar degan shaharga asos solgani uchun
 - Ular Kidar degan xudoga sig‘ingani uchun
 
 **57. Toxariylar kimlarning avlodlari bo‘lgan?**
 
 - Kidariylarning
-- Kushonlarning (to'g'ri)
++ Kushonlarning
 - Davanliklarning
 - Oq xunnlarning
 
@@ -419,11 +425,11 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - 100 yildan ortiq
 - 130 yildan ortiq
 - 110 yildan ortiq
-- 120 yildan ortiq (to'g'ri)
++ 120 yildan ortiq
 
 **59. Qachon sharqdan Sirdaryo va Orol bo‘ylari orqali Xorazm hamda Amudaryo havzasiga yana bir ko‘chmanchi chorvador aholi – toxarlar kirib kelgan?**
 
-- V asrning 20-yillarida (to'g'ri)
++ V asrning 20-yillarida
 - V asrning 30-yillarida
 - V asrning 40-yillarida
 - V asrning 50-yillarida
@@ -432,7 +438,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - 1, 2, 3, 4, 5, 6
 - 2, 3, 4, 5, 6
-- 2, 3, 4, 5 (to'g'ri)
++ 2, 3, 4, 5
 - 2, 3, 4
 
 **61. Tarixda xioniylar nomi bilan mashhur bo‘lgan qabilalarning asli vatanini ayrim tadqiqotchilar qayerda deb hisoblaydilar?**
@@ -440,11 +446,11 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Sharqiy Turkistonda
 - Sirdaryo bo‘yida
 - Kaspiy dengizi bo‘yida
-- Orol dengizi bo‘yida (to'g'ri)
++ Orol dengizi bo‘yida
 
 **62. «Kidara Kushon sha» degan yozuv bitilgan tangalar nechta hokim tomonidan bir vaqtning o‘zida zarb etilgan?**
 
-- Ikkita hokim tomonidan (to'g'ri)
++ Ikkita hokim tomonidan
 - Uchta hokim tomonidan
 - To‘rtta hokim tomonidan
 - Beshta hokim tomonidan
@@ -454,18 +460,18 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Oromiy
 - Eroniy
 - Sanskrit
-- Braxmiy (to'g'ri)
++ Braxmiy
 
 **64. Tarixchi K. Treverning fikricha, xioniylar qachon o‘zining kuchaygan pallasiga kirgan?**
 
 - IV asrning 50-yillarida
 - IV asrning 60-yillarida
-- IV asrning 70-yillarida (to'g'ri)
++ IV asrning 70-yillarida
 - IV asrning 80-yillarida
 
 **65. Kimlarga tegishli «Kidara Kushon sha» degan yozuv bitilgan tangalar topilgan?**
 
-- Kidariylarga (to'g'ri)
++ Kidariylarga
 - Xiyoniylarga
 - Yuechjilarga
 - Kushonlarga
@@ -475,13 +481,13 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - III asrda
 - V asrda
 - VI asrda
-- IV asrda (to'g'ri)
++ IV asrda
 
 **67. Xiyoniylar markazi qayer bo‘lgan Shimoliy Hindiston, Afg‘oniston, Xurosonning bir qismini ham o‘z ichiga olgan katta davlat tuzishgan?**
 
 - Sug‘diyona
 - Marg‘iyona
-- Toxariston (to'g'ri)
++ Toxariston
 - Xorazm
 
 **68. Kidariylar dastlab qayerda yashaganlar?**
@@ -489,12 +495,12 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Yettisuvda
 - Januby Sibirda
 - Oloy vodiysida
-- Sharqiy Turkistonda (to'g'ri)
++ Sharqiy Turkistonda
 
 **69. Kidar Shimoliy Hindistonga yurish qilib, Gandhardan shimoldagi nechta davlatni o‘ziga bo‘ysundirgan?**
 
 - 3 ta davlatni
-- 5 ta davlatni (to'g'ri)
++ 5 ta davlatni
 - 7 ta davlatni
 - 9 ta davlatni
 
@@ -503,18 +509,18 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - 45 yil
 - 55 yil
 - 65 yil
-- 75 yil (to'g'ri)
++ 75 yil
 
 **71. Kidariylar qaysi hududdagi Gupta davlatini egallab, u yerda 75 yil hukumronlik qilganlar?**
 
 - Sharqiy Afg‘onistondagi
 - G‘arbiy Erondagi
-- Shimoliy Hindistondagi (to'g'ri)
++ Shimoliy Hindistondagi
 - Janubiy Xitoydagi
 
 **72. Yuechjilar (kushonlar) hukmdori Sidolo jujanlar hujumi tufayli o‘z qarorgohini qayerga ko‘chirgan?**
 
-- Bologa (Balx) ga (to'g'ri)
++ Bologa (Balx) ga
 - Marvga
 - Poykandga
 - Varaxshaga
@@ -522,7 +528,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 **73. G‘arb tarixchilari xioniylarni qaysi qabilalarga yaqin deb bilishgan?**
 
 - Mo‘g‘ullarga qarindosh hisoblab, ularni «oq mo‘g‘ullar» deb ataydilar
-- Xunnlarga qarindosh hisoblab, ularni «oq xunnlar» deb ataydilar (to'g'ri)
++ Xunnlarga qarindosh hisoblab, ularni «oq xunnlar» deb ataydilar
 - Uyg‘urlarga qarindosh hisoblab, ularni «oq uyg‘urlar» deb ataydilar
 - Turkiylarga qarindosh hisoblab, ularni «oq turkiylar» deb ataydilar
 
@@ -531,7 +537,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Sosoniylar
 - Xiyoniylar
 - Yuechjilar
-- Eftaliylar (to'g'ri)
++ Eftaliylar
 
 ## 6-7-§ Eftaliylar.
 
@@ -539,7 +545,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 **75. Turon shishalari rangdorligi, yarqiroqligi va tiniqligi jihatidan kimlarning shishasidan ustun turgan?**
 
 - Hindiston
-- Vizantiya (to'g'ri)
++ Vizantiya
 - Xitoy
 - Rim
 
@@ -547,13 +553,13 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - 1, 2, 3, 4
 - 1, 2, 4
-- 1, 2, 3 (to'g'ri)
++ 1, 2, 3
 - 2, 3, 4
 
 **77. Ilk o‘rta asrlarda qaysi davrdan boshlab Buxoro Turonning yirik madaniy va iqtisodiy markazlaridan biri bo‘lgan?**
 
 - III asrdan
-- IV asrdan (to'g'ri)
++ IV asrdan
 - V asrdan
 - VI asrdan
 
@@ -562,11 +568,11 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Afrosiyob
 - Varaxsha
 - Buxoro
-- Poykand (to'g'ri)
++ Poykand
 
 **79. Eftallar davrida qaysi til xalqaro til sifatida Yettisuv va Farg‘ona, Sharqiy Turkiston, Xitoy hududlarida foydalanilgan?**
 
-- Sug‘diy tili (to'g'ri)
++ Sug‘diy tili
 - Turkiy til
 - Forsiy til
 - Eftal tili
@@ -574,7 +580,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 **80. Qaysi asrlarda Eftalon sulolasiga mansub qabila Turon hududida hukmronlik qilgan?**
 
 - IV–V asrlarda
-- V–VI asrlarda (to'g'ri)
++ V–VI asrlarda
 - VI–VII asrlarda
 - VII–VIII asrlarda
 
@@ -583,40 +589,43 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Xiyoniylarda
 - Kidariylarda
 - Sosoniylarda
-- Eftallarda (to'g'ri)
++ Eftallarda
 
 **82. Eftallar davlatida hukmdor nima deb atalgan?**
 
-- Sho (shoh) (to'g'ri)
++ Sho (shoh)
 - Tudun
 - Dehqon
 - Ixshid
 
 **83. Eftallar mamlakatimizga qayerdan kirib kelishgan?**
 
-- Sharqdan (to'g'ri)
++ Sharqdan
 - Shimoldan
 - Janubdan
 - G‘arbdan
 
 **84. Ilk o‘rta asrlarda qaysi davlatda, asosiy dindan tashqari, tangrichilik, buddaviylik, moniylik, mazdakiylik e’tiqodlari va shaharlarda nestorianlar va yahudiylar jamoalari ham bo‘lgan?**
 
-- Eftaliylarda (to'g'ri)
++ Eftaliylarda
 - Kidariylar
 - Xiyoniylarda
 - Kushonlarda
 
 **85. Qaysi yilda eftallar bilan bo‘lib o‘tgan urush sosoniylar shohi Pero‘zning halokati bilan tugagan?**
 
-- 484-yilda (to'g'ri)
++ 484-yilda
 - 481-yilda
 - 479-yilda
 - 492-yilda
 
 **86. Suratdagi koshinda (freska) kim ta’svirlangan?**
 
+
+![](../images/astron49102116158746.png)
+
 - Sosoniylar hukmdori
-- Eftallar hukmdori (to'g'ri)
++ Eftallar hukmdori
 - Xiyoniylar hukmdori
 - Kidariylar hukmdori
 
@@ -625,20 +634,20 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - 588-589-yillarda
 - 558-559-yillarda
 - 578-579-yillarda
-- 568-569-yillarda (to'g'ri)
++ 568-569-yillarda
 
 **88. Ilk o‘rta asr shahri bo‘lgan Zartepa hozirgi qaysi shahar atrofida joylashgan edi?**
 
 - Samarqand
 - Buxoro
-- Termiz (to'g'ri)
++ Termiz
 - Toshkent
 
 **89. Poykant shahri ilk o‘rta asrlarda qayerda joylashgan edi?**
 
 - Xorazmda
 - Baqtriyada
-- Sug‘dda (to'g'ri)
++ Sug‘dda
 - Marg‘iyonada
 
 **90. Eftallar davlati viloyatlarining har biri o‘zining qanday tangalarini zarb etgan?**
@@ -646,18 +655,21 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Mis yoki bronza
 - Kumush yoki oltin
 - Mis yoki oltin
-- Kumush yoki mis (to'g'ri)
++ Kumush yoki mis
 
 **91. Suratda nima tasvirlangan?**
 
+
+![](../images/astron37315777742752.png)
+
 - Eftaliylar davridagi davlat ramzi
 - Eftaliylar davridagi mamlakat bayrog‘i
-- Eftaliylar davridagi amaldorlar muhri (to'g'ri)
++ Eftaliylar davridagi amaldorlar muhri
 - Eftaliylar davridagi tanga
 
 **92. 568-569-yillarda Vizantiya imperatori huzurida bo‘lgan … elchisi imperatorning: «Eftaliylar shaharlarda yashaydilarmi yoki qishloqlardami?» – degan savoliga: «Ular shaharlik sulolalar, oliy hazratlari», – deb javob bergan?**
 
-- turk (to'g'ri)
++ turk
 - sug‘d
 - eron
 - xitoy
@@ -667,19 +679,19 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Xorazmda
 - Naxshab (Qarshi) vohasida
 - Samarqand Sug‘dida
-- Buxoro Sug‘dida (to'g'ri)
++ Buxoro Sug‘dida
 
 **94. Eftallarda qizlar qanday ishlarga o‘rgatilgan? 1) Qilich chopishga; 2) Otda yurishga; 3) Kamondan o‘q otishga; 4) Safda yurishga.**
 
 - 1, 3
 - 1, 2
-- 2, 3 (to'g'ri)
++ 2, 3
 - 3, 4
 
 **95. Ilk o‘rta asrlar davrining o‘ziga xos me’morchilik namunalaridan bo‘lgan 1) Zahoki Maron, 2) Shahri Vayron, 3) Fir qal’alari hozirgi qayerlarda joylashgan?**
 
 - 1) Naxshab / 2) Xorazm / 3) Buxoro
-- 1) Naxshab / 2) Buxoro / 3) Xorazm (to'g'ri)
++ 1) Naxshab / 2) Buxoro / 3) Xorazm
 - 1) Buxoro / 2) Naxshab / 3) Xorazm
 - 1) Xorazm / 2) Buxoro / 3) Naxshab
 
@@ -687,7 +699,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Afrosiyob
 - Varaxsha
-- Buxoro (to'g'ri)
++ Buxoro
 - Poykand
 
 **97. Eftallar qaysi dinga sig‘inganlar?**
@@ -695,20 +707,20 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Buddizm
 - Shomonizm
 - Sintoizm
-- Zardushtiylik (to'g'ri)
++ Zardushtiylik
 
 **98. Zog‘ariq (Zovariq), Bo‘zsuv, Darg‘om kanallari qachon barpo etilgan?**
 
 - III asrda
 - IV asrda
-- V asrda (to'g'ri)
++ V asrda
 - VI asrda
 
 **99. Eftallar davrida qaysi mamlakat hukmdorlari Turon shishalaridan o‘z saroylarini bezashda foydalanishgan?**
 
 - Eronda
 - Vizantiyada
-- Xitoyda (to'g'ri)
++ Xitoyda
 - Rimda
 
 **100. Qadimgi davrda kichik manzilgoh sifatida paydo bo‘lgan Zartepa IV–V asrlarga kelib maydoni qancha gektar bo‘lgan yirik shaharga aylangan?**
@@ -716,18 +728,18 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - 18 gektar
 - 28 gektar
 - 27 gektar
-- 17 gektar (to'g'ri)
++ 17 gektar
 
 **101. Eftallar davrida Turonda qaysi soha yuksak darajada rivojlangan?**
 
 - Chilangarlik
 - Gilam to‘qish
-- Shishasozlik (to'g'ri)
++ Shishasozlik
 - Qurol-yarog‘ yasash
 
 **102. Eftallar davlatiga O‘rta Osiyodan tashqari qaysi hududlar ham kirgan? 1) Sharqiy Turkiston; 2) Afg‘oniston; 3) Shimoliy Hindiston; 4) Hozirgi Pokiston.**
 
-- 1, 2, 3, 4 (to'g'ri)
++ 1, 2, 3, 4
 - 1, 2, 3
 - 1, 2, 4
 - 2, 3, 4
@@ -736,20 +748,20 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Buxoro, Usturshona, Vardona, Naxshab, Samarqand va Sug‘diyona
 - Chag‘oniyon, Poykand, Vardona, Naxshab, Samarqand va Marg‘iyona
-- Buxoro, Poykand, Vardona, Naxshab, Samarqand va Xorazm (to'g'ri)
++ Buxoro, Poykand, Vardona, Naxshab, Samarqand va Xorazm
 - Buxoro, Poykand, Vardona, Naxshab, Samarqand va Termiz
 
 **104. Qachon Panjikentda nisbatan qadimiyroq bo‘lgan qishloq o‘rniga umumiy maydoni 18 gektar bo‘lgan yangi shahar barpo etilgan?**
 
 - III asrda
 - IV asrda
-- V asrda (to'g'ri)
++ V asrda
 - VI asrda
 
 **105. Ushbu sug‘orish tarmoqlarining qaysi biri Samarqand viloyati janubiy tumanlarining asosiy suv manbayi hisoblanadi?**
 
 - Zog‘ariq
-- Darg‘om (to'g'ri)
++ Darg‘om
 - Bo‘zsuv
 - Zovariq
 
@@ -758,12 +770,12 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Yunon-rim tarixchisi Arrian
 - Arab geografi al-Muqaddasiy
 - Buxorolik tarixchi Narshaxiy
-- Vizantiyalik tarixchi Prokopiy Kesariyskiy (to'g'ri)
++ Vizantiyalik tarixchi Prokopiy Kesariyskiy
 
 **107. Baqtriya yozuvi asosida shakllangan eftallar alifbosi nechta harfdan iborat bo‘lgan?**
 
 - 20 harfdan
-- 25 harfdan (to'g'ri)
++ 25 harfdan
 - 30 harfdan
 - 32 harfdan
 
@@ -771,19 +783,19 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - III asrda
 - IV asrda
-- V asrda (to'g'ri)
++ V asrda
 - VI asrda
 
 **109. V-VI asrlarda orqa tomonida tik turgan kamonchi tasviri tushirilgan kumush tangalar qayerda zarb etilgan?**
 
 - Xorazmda
 - Naxshab (Qarshi) vohasida
-- Samarqand Sug‘dida (to'g'ri)
++ Samarqand Sug‘dida
 - Buxoro Sug‘dida
 
 **110. V asrda Panjikentda nisbatan qadimiyroq bo‘lgan qishloq o‘rniga umumiy maydoni necha gektar bo‘lgan yangi shahar barpo etilgan?**
 
-- 18 gektar (to'g'ri)
++ 18 gektar
 - 28 gektar
 - 17 gektar
 - 27 gektar
@@ -792,7 +804,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - II–III asrlarga kelib
 - III–IV asrlarga kelib
-- IV–V asrlarga kelib (to'g'ri)
++ IV–V asrlarga kelib
 - V–VI asrlarga kelib
 
 **112. Eftaliylar davlatining dastlabki poytaxtlari qaysi shaharlar bo‘lgan?**
@@ -800,12 +812,12 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Buxoro yaqinidagi Afrosiyob va Ayritom shaharlari
 - Samarqand yaqinidagi Afrosiyob va Ayritom shaharlari
 - Samarqand yaqinidagi Poykent va Varaxsha shaharlari
-- Buxoro yaqinidagi Poykent va Varaxsha shaharlari (to'g'ri)
++ Buxoro yaqinidagi Poykent va Varaxsha shaharlari
 
 **113. Ilk o‘rta asrlarda o‘ng tomonida podsho bosh qismi tasviri tushirilgan mahalliy kumush va mis tangalar qayerda muomalada bo‘lgan?**
 
 - Xorazmda
-- Naxshab (Qarshi) vohasida (to'g'ri)
++ Naxshab (Qarshi) vohasida
 - Samarqand Sug‘dida
 - Buxoro Sug‘dida
 
@@ -813,19 +825,19 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - 1, 4
 - 2, 3
-- 3, 4 (to'g'ri)
++ 3, 4
 - 1, 2
 
 **115. Ichki va tashqi savdo munosabatlarida eftaliylar dastavval qanday tangalaridan keng foydalanadilar?**
 
 - Xitoy imperatorlarining oltin tangalaridan
-- Sosoniy hukmdorlarining kumush tangalaridan (to'g'ri)
++ Sosoniy hukmdorlarining kumush tangalaridan
 - Kushon hukmdorlarining oltin tangalaridan
 - Mahalliy zodagonlarning mis tangalaridan
 
 **116. Yozma manbalarda eftallar qaysi nomlar bilan tilga olingan? 1) Eftaliylar; 2) Eftallar; 3) Eftalitlar; 4) Xaytallar.**
 
-- 1, 2, 3, 4 (to'g'ri)
++ 1, 2, 3, 4
 - 2, 3, 4
 - 1, 2, 3
 - 1, 2, 4
@@ -833,13 +845,13 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 **117. Eftaliylar yozuvi qaysi alifbo asosida shakllangan edi?**
 
 - Toxar alifbosi
-- Baqtriya alifbosi (to'g'ri)
++ Baqtriya alifbosi
 - Sug‘d alifbosi
 - Eron alifbosi
 
 **118. Ilk o‘rta asrlarda old tomonida hukmdor boshi, orqa tomonida otliq chavandoz tasviri tushirilgan kumush va mis tangalar qayerda zarb etilgan?**
 
-- Xorazmda (to'g'ri)
++ Xorazmda
 - Naxshab (Qarshi) vohasida
 - Samarqand Sug‘dida
 - Buxoro Sug‘dida
@@ -847,14 +859,14 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 **119. IV asrda Buxoroning nechta darvozasi bo‘lgan?**
 
 - 4 ta
-- 7 ta (to'g'ri)
++ 7 ta
 - 10 ta
 - 12 ta
 
 **120. Tashqi savdo bojidan manfaatdor bo‘lgan eftaliylar qanday yo‘l tutganlar?**
 
 - Elchilik aloqarini kengaytirganlar
-- Ipak yo‘lini o‘z nazoratlari ostida tutib turishga harakat qilganlar (to'g'ri)
++ Ipak yo‘lini o‘z nazoratlari ostida tutib turishga harakat qilganlar
 - Keng istilochilik yurishlarini olib borganlar
 - Soliqlar va bojlarni kamaytirganlar
 
@@ -863,11 +875,11 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Baqtriyaliklar
 - Xorazmliklar
 - Marg‘iyonaliklar
-- Sug‘diylar (to'g'ri)
++ Sug‘diylar
 
 **122. Eftallar davrida Turon aholisining bir qismi … tilida, ikkinchi qismi esa … tilda so‘zlashgan.**
 
-- sug‘d/turkiy (to'g'ri)
++ sug‘d/turkiy
 - forsiy/sug‘d
 - turkiy/forsiy
 - toxar/kushon
@@ -876,20 +888,20 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Kidariylar
 - Xiyoniylar
-- Eftaliylar (to'g'ri)
++ Eftaliylar
 - Kushonlar
 
 **124. Eftallar nomi «Eftalon» degan … nomidan olingan bo‘lib, uni “Vaxshunvar” deb ham ataganlar.**
 
 - shahar
-- shoh (to'g'ri)
++ shoh
 - xudo
 - qabila
 
 **125. 568-569-yillarda qaysi mamlakat hukumdori huzurida bo’lgan turk elchisi imperatorning: «Eftaliylar shaharlarda yashaydilarmi yoki qishloqlardami?» – degan savoliga: «Ular shaharlik sulolalar, oliy hazratlari», – deb javob bergan?**
 
 - Xitoy imperatori
-- Vizantiya imperatori (to'g'ri)
++ Vizantiya imperatori
 - Guptalar imperatori
 - Rim imperatori
 
@@ -901,47 +913,50 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Xiyoniylar
 - Kushonlar
 - Kidariylar
-- Eftaliylar (to'g'ri)
++ Eftaliylar
 
 **127. Qaysi dinda olamning ibtidosi ikki qarama-qarshi yaratuvchi – yorug‘lik va ezgulik hamda zulmat va yovuzlikdan iborat, deb hisoblangan, hamda ibodat, ro‘za, sadaqa dinining arkoni hisoblangan?**
 
 - Zardushtiylik
 - Buddaviylik
 - Shomonlik
-- Moniylik (to'g'ri)
++ Moniylik
 
 **128. Eftallar davlati parchalanib ketgach qaysi hududlar Eron sosoniylari tasarrufiga o‘tgan?**
 
 - Amudaryoning o‘ng sohillari bo‘ylab Kaspiy dengizigacha bo‘lgan viloyatlar
-- Amudaryoning janubiy qirg‘oqlarigacha bo‘lgan viloyatlar (to'g'ri)
++ Amudaryoning janubiy qirg‘oqlarigacha bo‘lgan viloyatlar
 - Sirdaryoning janubiy qirg‘oqlarigacha bo‘lgan viloyatlar
 - Sirdaryoning o‘ng sohillari bo‘ylab Kaspiy dengizigacha bo‘lgan viloyatlar
 
 **129. Eron shohi Xusrav I Anushervon qaysi turk xoqoniga kuyov bo‘lgan va ular o‘rtasidagi harbiy ittifoq mustahkamlangan?**
 
-- Istami (to'g'ri)
++ Istami
 - Kultegin
 - Qoracho‘rin
 - Bumin
 
 **130. Turk xoqonligida o‘n o‘q el sardori qancha suvoriyga ega bo‘lgan?**
 
-- Tuman (o‘n ming) (to'g'ri)
++ Tuman (o‘n ming)
 - Budun (bech ming)
 - Shod (yuz ming)
 - Tudun (ellik ming)
 
 **131. Suratdagi to‘rt tomoni teng bo‘lgan salb – «adji» qaysi dinga taalluqli?**
 
+
+![](../images/astron2390872987543.png)
+
 - Zardushtiylik
 - Buddaviylik
-- Tangrichilik (to'g'ri)
++ Tangrichilik
 - Moniylik
 
 **132. Turk xoqonligi davriga oid qaysi manbada Tangri yagona, azaliy, abadiy, hayot beruvchi, yaratuvchi, o‘ldiruvchi, hukm qiluvchi, yordam beruvchi, jazolovchi, bandaning duosini qabul qiluvchi, himoya qiluvchi, marhamatiga oluvchi, hamma narsani biluvchi, insonlarga ilm beruvchi va yo‘l ko‘rsatuvchi kabi sifatlar bilan maqtalgan?**
 
 - Bilga xoqon bitiklarida
-- Urxun-Yenisey yodgorliklarida (to'g'ri)
++ Urxun-Yenisey yodgorliklarida
 - Mug‘ qal’asi yozuvlarida
 - Kultegin bitiklarida
 
@@ -949,7 +964,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Yangi hududlarni bosib ololmasa, ya’ni qabilalar uchun yangi maydonlarni o‘zlashtira olmasa
 - Aholini o‘z diniga o‘tkaza olmasa, ya’ni Tangrichilik dinini qo‘shni hududlarga targ‘ib qila olmasa
-- Tangri bergan siyosiy hokimiyat ishonchni oqlamasa, ya’ni o‘z iqtidorini ko‘rsata olmasa (to'g'ri)
++ Tangri bergan siyosiy hokimiyat ishonchni oqlamasa, ya’ni o‘z iqtidorini ko‘rsata olmasa
 - O‘zidan nasl qoldira olmasa, ya’ni sulolani davom qildira olmasa
 
 **134. Turk xoqonligi davrida qonuniy hujjat «Turk qonunnomasi» qayerda amalda bo‘lib, u ibodatxonada saqlangan?**
@@ -957,18 +972,18 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Ustrushonada
 - Marvda
 - Buxoroda
-- Samarqandda (to'g'ri)
++ Samarqandda
 
 **135. Turk xoqonligida «budun» yoki «qora budun» nomlari bilan kimlar atalgan?**
 
 - Yengil qurollangan piyoda askarlar
 - Og‘ir qurollangan otliq suvoriylar
 - O‘troq mahalliy aholi
-- Ko‘chmanchi chorvador aholi (to'g'ri)
++ Ko‘chmanchi chorvador aholi
 
 **136. Turk xoqonligi davrida «Ezgu amal, ezgu fikr, ezgu so‘z» iborasi qaysi dinga taalluqli bo‘lgan?**
 
-- Zardushtiylik (to'g'ri)
++ Zardushtiylik
 - Buddaviylik
 - Shomonlik
 - Moniylik
@@ -976,14 +991,14 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 **137. «Qovunchi davri qabristonlari, asosan, tuproq qo‘rg‘onlar va ustiga tosh uyilgan yer ostidagi maxsus qabr (katakomba) lardan iborat bo‘lib, ularning qabr xonalari (kameralari) ham gumbazli, keng va yer sathidan ancha chuqurlikda joylashgan…». Ushbu ma’lumotlar manbasini toping.**
 
 - Karimov Tursun «O‘zbek davlatchiligi tarixi»
-- Ahmadali Asqarov «O‘zbek xalqining kelib chiqish tarixi» (to'g'ri)
++ Ahmadali Asqarov «O‘zbek xalqining kelib chiqish tarixi»
 - Yahyo G‘ulomov «O‘zbekistonda irrigatsiya tarixi»
 - Habibulla Sulaymonov «O‘zbekistonda feodalizm munosabatlarining rivojlanishi»
 
 **138. Turk xoqonligida kimlarga «yabg‘u xoqon» unvoni berilgan?**
 
 - Kultegin va Buminga
-- Bumin va Istamiga (to'g'ri)
++ Bumin va Istamiga
 - Qoracho‘rin va Kulteginga
 - Istami va Qoracho‘ringa
 
@@ -991,7 +1006,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Podshohlar uchun maxsus qabr
 - Oltindan yasalgan daxma ichidagi maxsus qabr
-- Ustiga tosh uyilgan yer ostidagi maxsus qabr (to'g'ri)
++ Ustiga tosh uyilgan yer ostidagi maxsus qabr
 - Oilaviy dafn qilinadigan maxsus qabr
 
 **140. «Qovunchi madaniyati» qayerdan topilgan?**
@@ -999,18 +1014,18 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Samarqand viloyati Yangiyer shahri hududidan
 - Toshkent viloyati Yangikent shahri hududidan
 - Farg‘ona viloyati Yangiyo‘l shahri hududidan
-- Toshkent viloyati Yangiyo‘l shahri hududidan (to'g'ri)
++ Toshkent viloyati Yangiyo‘l shahri hududidan
 
 **141. Qaysi dinda ajdodlarga, Osmonga (Tangri) va yer-suvga sig‘inishgan?**
 
 - Zardushtiylik
 - Buddaviylik
-- Shomonlik (to'g'ri)
++ Shomonlik
 - Moniylik
 
 **142. Turk xoqonligida el va xoqon hokimiyatining Tangri tomonidan qaysi xonadonga «Turk budun (xalqi)» ga in’om qilinganiga ishonilgan?**
 
-- Ashina (to'g'ri)
++ Ashina
 - Sagaris
 - Akinak
 - Daxyu
@@ -1020,18 +1035,18 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Qabilalarning markaziy hokimiyatga bo‘ysunmaslikka intilgani
 - Turk xoqonligi tasarrufida bo‘lgan hududlardagi hokimlarning mustaqil siyosat yuritishi
 - Bo‘ysundirilgan hududlarni mahalliy hokimlar orqali  boshqaruv tartibi
-- Vizantiya, Xitoy va Eron bilan doimiy raqobat (to'g'ri)
++ Vizantiya, Xitoy va Eron bilan doimiy raqobat
 
 **144. Turklarning g‘arbga tomon yurishlariga kim boshchilik qilgan?**
 
 - Qoracho‘rin
 - Kultegin
 - Bumin
-- Istami (to'g'ri)
++ Istami
 
 **145. G‘arbiy Turk xoqonligi poxtaxtini toping.**
 
-- Yettisuv (to'g'ri)
++ Yettisuv
 - Sharqiy Turkiston
 - O‘tukan vodiysi
 - Oltoy
@@ -1040,13 +1055,13 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Zardushtiylik
 - Buddaviylik
-- Shomonlik (to'g'ri)
++ Shomonlik
 - Moniylik
 
 **147. Eftaliylar davlati parchalanishiga nima sabab bo‘lgan?**
 
 - Iqtisodiy qoloqlik va diniy mojarolar
-- Janubdan Eron sosoniylaridan, shimoldan esa Turk xoqonligidan zarbaga uchrashi (to'g'ri)
++ Janubdan Eron sosoniylaridan, shimoldan esa Turk xoqonligidan zarbaga uchrashi
 - Ichki ziddiyatlar va mamlakatda ketma-ket ro‘y bergan qurg‘oqchilik
 - Toj-u taxt uchun kurashlar
 
@@ -1054,13 +1069,13 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Zardushtiylik
 - Buddaviylik
-- Shomonlik (to'g'ri)
++ Shomonlik
 - Moniylik
 
 **149. Tangrichilik ta’limotiga ko‘ra qaysi rang ilohiy buyuklik ramzi hisoblangan?**
 
 - Qora rang
-- Ko‘k rang (to'g'ri)
++ Ko‘k rang
 - Qizil rang
 - Sariq rang
 
@@ -1068,7 +1083,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - V asr oxirlarida
 - VI asr boshlarida
-- VI asr o‘rtalarida (to'g'ri)
++ VI asr o‘rtalarida
 - VI asr oxirlarida
 
 **151. Turk xoqonligida qaysi tilda so‘zlashuvchi qabilalar ittifoqi xoqonlik asosini tashkil etar edi?**
@@ -1076,26 +1091,26 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Oromiy
 - Sug‘diy
 - Kidariy
-- Turkiy (to'g'ri)
++ Turkiy
 
 **152. Turk xoqonligida Ashina xonadoniga siyosiy hokimyat bergan iloh qanday atalgan?**
 
 - Alloh
 - Samo
-- Tangri (to'g'ri)
++ Tangri
 - Xubbi
 
 **153. Turk xoqonligi tashkil topgach, dastlab qaysi hududda yashovchi turkiy qabilalar bo‘y sundirilgan?**
 
 - Amudaryoning quyi qismida yashovchi qabilalar
 - Sirdaryoning yuqori oqimida yashovchi qabilalar
-- Yettisuv va Sharqiy Turkistonga tutashgan yurtlarda yashovchi qabilalar (to'g'ri)
++ Yettisuv va Sharqiy Turkistonga tutashgan yurtlarda yashovchi qabilalar
 - Farg‘ona vodiysi va Xitoy oralig‘idagi yerlarda yashovchi qabilalar
 
 **154. Turk xoqonligi ikkiga bo‘linganidan keyin qaysi hududlar Sharqiy turk xoqonligi tarkibiga o‘tgan? 1) Janubiy Sibir; 2) Yettisuv; 3) Urxun havzasi (Mo‘g‘uliston); 4) Sharqiy Turkiston; 5) Shimoliy Xitoy; 6) Sirdaryo va Amudaryo havzalari hamda ularga tutashgan hududlar.**
 
 - 1, 2, 3
-- 1, 3, 5 (to'g'ri)
++ 1, 3, 5
 - 2, 3, 4
 - 2, 4, 6
 
@@ -1103,7 +1118,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Yettisuv
 - Sharqiy Turkiston
-- O‘tukan vodiysi (to'g'ri)
++ O‘tukan vodiysi
 - Oltoy
 
 **156. Turk xoqonligi ikkiga bo‘linganidan keyin qaysi hududlar G‘arbiy turk xoqonligi tarkibiga o‘tgan? 1) Janubiy Sibir; 2) Yettisuv; 3) Urxun havzasi (Mo‘g‘uliston); 4) Sharqiy Turkiston; 5) Shimoliy Xitoy; 6) Sirdaryo va Amudaryo havzalari hamda ularga tutashgan hududlar.**
@@ -1111,25 +1126,25 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - 1, 2, 3
 - 1, 3, 5
 - 2, 3, 4
-- 2, 4, 6 (to'g'ri)
++ 2, 4, 6
 
 **157. Qaysi omil Turk xoqonligini tobora zaiflashtirgan?**
 
 - Qabilalarning markaziy hokimiyatga bo‘ysunmaslikka intilgani
 - Turk xoqonligi tasarrufida bo‘lgan hududlardagi hokimlarning mustaqil siyosat yuritishi
-- Bo‘ysundirilgan hududlarni mahalliy hokimlar orqali  boshqaruv tartibi (to'g'ri)
++ Bo‘ysundirilgan hududlarni mahalliy hokimlar orqali  boshqaruv tartibi
 - O‘zaro ichki ziddiyatlar va urushlar
 
 **158. Eftaliylar o‘z davlatning shimoliy hududlarini Turk xoqonligidan mudofaa qilish bilan band bo‘lgan bir paytda sosoniylar janubiy o‘lkalar bo‘lmish qaysi viloyatlarni ulardan tortib olganlar?**
 
 - Marg‘iyona va Sug‘diyonani
 - Sug‘diyona va Baqtriyani
-- Toxariston va Chag‘oniyonni (to'g'ri)
++ Toxariston va Chag‘oniyonni
 - Baqtriya va Toxaristonni
 
 **159. Ajinatepadan topilgan budda haykali hozirda qaysi shahardagi Milliy arxeologiya muzeyida saqlanadi?**
 
-- Dushanbe shahrida (to'g'ri)
++ Dushanbe shahrida
 - Toshkent shahrida
 - Bishkek shahrida
 - Ostona shahrida
@@ -1137,7 +1152,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 **160. Turk xoqonligi davriga oid budda haykallari Farg‘ona vodiysidagi …dan hamda Qo‘rg‘ontepa yaqinidagi …dan topilib, o‘rganilgan.**
 
 - Quva/Oychixon qal’a
-- Quva/Ajinatepa (to'g'ri)
++ Quva/Ajinatepa
 - Sangirtepa/Ajinatepa
 - Qamchiq/Avliyotepa
 
@@ -1145,13 +1160,13 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Chukotka dengizidan Qrim yarimoroligacha, Sibirdan Hindistongacha
 - Bering bo‘g‘ozidan Kichik Osiyo yarimoroligacha, Sibirdan Hindistongacha
-- Oxota dengizidan Qrim yarimoroligacha, Sibirdan Hindistongacha (to'g'ri)
++ Oxota dengizidan Qrim yarimoroligacha, Sibirdan Hindistongacha
 - Kamchatka yarimorolidan Qrim yarimoroligacha, Oltoydan Hindistongacha
 
 **162. Turk xoqonligi qaysi davlat bilan eftaliylarga qarshi o‘zaro harbiy ittifoq tuzgan va bu ittifoq qarindoshlik bilan mustahkamlangan?**
 
 - Gupta imperatorlari
-- Eron sosoniylari (to'g'ri)
++ Eron sosoniylari
 - Choch malikshohlari
 - Sug‘d ixshidlari
 
@@ -1159,7 +1174,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Kiyik
 - Qoplon
-- Bo‘ri (to'g'ri)
++ Bo‘ri
 - Ot
 
 **164. Qayerdan topilgan buddasi haykalining bo‘yi 12 metrga boradi?**
@@ -1167,12 +1182,15 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Varaxsha
 - Oychixon qal’a
 - Avliyotepa
-- Ajinatepa (to'g'ri)
++ Ajinatepa
 
 **165. Quyidagi suratdagi haykal kimga qo‘yilgan?**
 
+
+![](../images/astron7865841534262.png)
+
 - Kultegin
-- Bumin (to'g'ri)
++ Bumin
 - Qoracho‘rin
 - Istami
 
@@ -1180,14 +1198,14 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - «Tuman»
 - «Budun»
-- «Shod» (to'g'ri)
++ «Shod»
 - «Tudun»
 
 **167. Turk xoqonligi qaysi hududda tashkil topgan?**
 
 - Sirdaryo va Orol bo‘ylarida
 - Mo‘g‘uliston va Manchjuriyada
-- Oltoy va Janubiy Sibirda (to'g'ri)
++ Oltoy va Janubiy Sibirda
 - Yettisuv va Sharqiy Turkistonda
 
 **168. Turk xoqonligining markazi qayer bo‘lgan?**
@@ -1195,13 +1213,13 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Janubiy Sibir
 - Yettisuv
 - Sharqiy Turkiston
-- Oltoy (to'g'ri)
++ Oltoy
 
 **169. Qachon Turk xoqonligi Sharqiy turk xoqonligi va G‘arbiy turk xoqonligiga bo‘linib ketgan?**
 
 - VI asrning 60-yillari oxirlarida
 - VI asrning 70-yillari oxirlarida
-- VI asrning 80-yillari oxirlarida (to'g'ri)
++ VI asrning 80-yillari oxirlarida
 - VI asrning 90-yillari oxirlarida
 
 **170. Turk xoqonligining asoschisi kim?**
@@ -1209,11 +1227,11 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Istami
 - Qoracho‘rin
 - Kultegin
-- Bumin (to'g'ri)
++ Bumin
 
 **171. Eftallar davlati parchalanib ketgach qaysi hududlar Turk xoqonligi tasarrufiga o‘tgan?**
 
-- Amudaryoning o‘ng sohillari bo‘ylab Kaspiy dengizigacha cho‘zilgan yerlar (to'g'ri)
++ Amudaryoning o‘ng sohillari bo‘ylab Kaspiy dengizigacha cho‘zilgan yerlar
 - Amudaryoning janubiy qirg‘oqlarigacha bo‘lgan yerlar
 - Sirdaryoning janubiy qirg‘oqlarigacha bo‘lgan yerlar 
 - Sirdaryoning o‘ng sohillari bo‘ylab Kaspiy dengizigacha cho‘zilgan yerlar
@@ -1221,7 +1239,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 **172. Turk xoqonligida o‘n o‘q budun yoki elning hokimi qanday nom bilan atalgan?**
 
 - «Tudun» yoki «budun»
-- «Yabg‘u» yoki «jabg‘u» (to'g'ri)
++ «Yabg‘u» yoki «jabg‘u»
 - «Qora budun» yoki «tudun»
 - «Sho» yoki «shoh»
 
@@ -1230,11 +1248,11 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - tudun
 - qora budun
 - budun
-- yabg‘u (to'g'ri)
++ yabg‘u
 
 **174. Qadimgi turk jamiyati xoqon Bumin mansub bo‘lgan qaysi xonadon vakillariga hukmdor sifatida qaraganlar?**
 
-- Ashina (to'g'ri)
++ Ashina
 - Sagaris
 - Akinak
 - Daxyu
@@ -1244,25 +1262,25 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - «Qam» so‘zi «shomon» so‘ziga qaraganda chuqurroq ma’noga ega bo‘lganligi sababli
 - Ushbu dinning oliy xudosi «qam» deb atalgani sababli
 - Turklarda «shomon» so‘zi muqaddas hisoblanib, aytish taqiqlangani sababli
-- Turklarda «shomon» so‘zi bo‘lmagani sababli (to'g'ri)
++ Turklarda «shomon» so‘zi bo‘lmagani sababli
 
 **176. Turk xoqonligi o‘z mafkurasiga ko‘ra, “el” deb atalib, qadimgi tarixda u bilan bog‘liq qanday iboralar shakllangan? 1) «Mangu el»; 2) «Tangri (ilohiy) el»; 3) «Ilohiy el»; 4) «Turk eli».**
 
 - 1, 2, 3
-- 1, 2, 4 (to'g'ri)
++ 1, 2, 4
 - 1, 3, 4
 - 2, 3, 4
 
 **177. «Turk» so‘zi qanday ma’nolarni anglatadi?**
 
-- Baquvvat, barkamol, odillik (to'g'ri)
++ Baquvvat, barkamol, odillik
 - Sof, toza, bejirim
 - Kuch, qudrat, davlat
 - Adolat, kuch, haqiqat
 
 **178. VI asr o‘rtalarida Turk xoqonligining hududlari qayerlargacha cho‘zilgan edi?**
 
-- Sirdaryo va Orol dengizi bo‘ylarigacha (to'g'ri)
++ Sirdaryo va Orol dengizi bo‘ylarigacha
 - Amudaryo va Orol dengizi bo‘ylarigacha
 - Amudaryo va Kaspiy dengizi bo‘ylarigacha
 - Sirdaryo va Kaspiy dengizi bo‘ylarigacha
@@ -1274,20 +1292,20 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Muhammad ibn Jarir at-Tabariyning «Tarix ar-rusul val-muluk» asarida
 - Abu Rayhon Beruniyning «Qadimgi xalqlardan qolgan yodgorliklar» asarida
-- Abu Bakr Narshaxiyning «Buxoro tarixi» asarida (to'g'ri)
++ Abu Bakr Narshaxiyning «Buxoro tarixi» asarida
 - Mahmud Qoshg‘ariyning «Devonu lug‘otit-turk» asarida
 
 **180. Turk xoqoniga qarshi ko‘tarilgan qo‘zg‘olon bostirilgach, uning yo‘lboshchisi Abruy … .**
 
 - bir umrlik zindonga tashlangan
 - jangda halok bo‘lgan
-- o‘ldirilgan (to'g'ri)
++ o‘ldirilgan
 - boshqa yurtga qochib ketgan
 
 **181. Ilk o‘rta asrlarda O‘rta Osiyoda bola necha yoshga to‘lishi bilan uni bilim olishga yo‘llab, dastavval, xat-savod va hisob-kitobni o‘rganishga jalb etganlar?**
 
 - 4 yoshga
-- 5 yoshga (to'g'ri)
++ 5 yoshga
 - 6 yoshga
 - 7 yoshga
 
@@ -1295,7 +1313,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - VI asrning birinchi choragida
 - VI asrning ikkinchi choragida
-- VII asrning birinchi choragida (to'g'ri)
++ VII asrning birinchi choragida
 - VII asrning ikkinchi choragida
 
 **183. Quyidagi qaysi asarda ulug‘ ajdodlarimizning qadimiy tarixi, boy madaniyati bilan birga Navro‘z  bayramiga oid ma’lumotlar ham aks etgan?**
@@ -1303,32 +1321,35 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Alisher Navoiyning «Majolis un-nafois» asarida
 - Abu Rayhon Beruniyning «Qadimgi xalqlardan qolgan yodgorliklar» asarida
 - Abu Bakr Narshaxiyning «Buxoro tarixi» asarida
-- Mahmud Qoshg‘ariyning «Devonu lug‘otit-turk» asarida (to'g'ri)
++ Mahmud Qoshg‘ariyning «Devonu lug‘otit-turk» asarida
 
 **184. G‘arbiy Turk xoqonligi o‘z ehtiyoji va hayotiy zaruratidan kelib chiqib, qaysi islohotlarni amalga oshirgan? 1) «O‘nlik» tizimni yaratish; 2) Vazirliklarni tashkil etish; 3) Vassal hokimliklar hududida o‘z qarorgohlarini barpo etish; 4) Davlat boshqaruvini takomillashtirish.**
 
 - 1, 2, 4
 - 1, 2, 3
 - 2, 3, 4
-- 1, 3, 4 (to'g'ri)
++ 1, 3, 4
 
 **185. Turk xoqonligida o‘g‘rilik yoki buzuqlik qilgan shaxsga qanday jazo qo‘llanilgan?**
 
-- Qo‘li yoki oyog‘i kesilgan (to'g'ri)
++ Qo‘li yoki oyog‘i kesilgan
 - Mol-mulki bilan tovon to‘lashga majbur etilgan
 - Qullikka sotilgan
 - Qatl qilingan
 
 **186. Quyidagi suratdagi tanga qaysi davlatga taalluqli?**
 
-- G‘arbiy Turk xoqonligi (to'g'ri)
+
+![](../images/astron11442948402882.png)
+
++ G‘arbiy Turk xoqonligi
 - Sharqiy Turk xoqonligi
 - Eron sosoniylari
 - Kushon podsholigi
 
 **187. Ilk o‘rta asrlarda quyidagi qaysi hududda bolalar kaftiga tanga qo‘yib, tiliga asal surtish odati bo‘lgan?**
 
-- Sug‘dda (to'g'ri)
++ Sug‘dda
 - Buxoroda
 - Xorazmda
 - Chochda
@@ -1337,12 +1358,12 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - VI asrning birinchi yarmida
 - VI asrning ikkinchi yarmida
-- VII asrning birinchi yarmida (to'g'ri)
++ VII asrning birinchi yarmida
 - VII asrning ikkinchi yarmida
 
 **189. Turk xoqonligiga qarshi qo‘zg‘olon ko‘targan Abruyning kelib chiqishi to‘g‘ri ko‘rsatilgan javobni toping.**
 
-- Xoqon xonadoniga mansub shaxs bo‘lgan (to'g'ri)
++ Xoqon xonadoniga mansub shaxs bo‘lgan
 - Harbiy qatlamga mansub shaxs bo‘lgan
 - Buxorxudotlar sulolasiga mansub shaxs bo‘lgan
 - Kambag‘al kadivar qatlamiga mansub shaxs bo‘lgan
@@ -1351,26 +1372,26 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Toxariston hududlariga
 - Choch hududlariga
-- Sug‘d hududlariga (to'g'ri)
++ Sug‘d hududlariga
 - Ustrushona hududlariga
 
 **191. Qachon Samarqandda avtomobil yo‘li qurilishi jarayonida buldozer yer tekislash ishlarini olib borayotganida yer ostidan bir necha katta rangli devor bo‘laklarini surib chiqarishi natijasida Afrosiyob shahri xarobalari topilgan?**
 
 - XX asr 50-yillarida
-- XX asr 60-yillarida (to'g'ri)
++ XX asr 60-yillarida
 - XX asr 70-yillarida
 - XX asr 80-yillarida
 
 **192. Mahmud Qoshg‘ariyning «Devonu lug‘otit-turk» asari qachon yaratilgan?**
 
-- XI asrda (to'g'ri)
++ XI asrda
 - XII asrda
 - X asrda
 - IX asrda
 
 **193. Turk xoqonligi davrida hunarmandchilik mahsulotlarini yasash uchun oltin, temir, mis qayerdan qazib olingan?**
 
-- Farg‘ona va Sug‘dda (to'g'ri)
++ Farg‘ona va Sug‘dda
 - Iloqda
 - Shahrisabzda
 - Ustrushonada
@@ -1380,12 +1401,12 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Olti marotaba
 - Yetti marotaba
 - Sakkiz marotaba
-- To‘qqiz marotaba (to'g'ri)
++ To‘qqiz marotaba
 
 **195. Turk xoqonligida shaxsga qarshi qaratilgan boshqa jinoyatlar uchun yetkazilgan zararni necha barobar qilib to‘lash sharti qo‘yilgan edi?**
 
 - Besh barobar
-- O‘n barobar (to'g'ri)
++ O‘n barobar
 - O‘n besh barobar
 - Yigirma barobar
 
@@ -1394,18 +1415,18 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Qo‘li yoki oyog‘i kesilgan
 - Mol-mulki bilan tovon to‘lashga majbur etilgan
 - Qullikka sotilgan
-- Qatl qilingan (to'g'ri)
++ Qatl qilingan
 
 **197. Qaysi manbada garchi turklar doimiy yashash joylariga ega bo‘lmasa ham, lekin ularning har birida ajratib berilgan yer borligi haqida ma’lumot berilgan?**
 
 - Turkiy manbalarda
 - Arab manbalarida
-- Xitoy manbalarida (to'g'ri)
++ Xitoy manbalarida
 - Vizantiya manbalarida
 
 **198. Abruy qo‘zg‘olonini bostirish uchun qaysi turk xoqoni o‘g‘li Sheri Kishvar (El Arslon) boshliq qo‘shin yuborgan?**
 
-- Qoracho‘rin (to'g'ri)
++ Qoracho‘rin
 - Kultegin
 - Istami
 - To‘n yabg‘u
@@ -1414,7 +1435,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Vizantiyaga
 - Rimga
-- Xitoyga (to'g'ri)
++ Xitoyga
 - Hindistonga
 
 **200. Turk xoqonligida ishlab chiqilgan jinoyatchilikka qarshi qonun hujjatlariga ko‘ra, sodir etilgan jinoyat uchun jazoning asosiy qanday turlari berilgan? 1) Qatl еtish; 2) Tana a’zolarini kesib tashlash; 3) Zararni to‘lash; 4) Mol-mulk tarzida tovon to‘lash.**
@@ -1422,33 +1443,33 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - 2, 3, 4
 - 1, 2, 4
 - 1, 2, 3
-- 1, 2, 3, 4 (to'g'ri)
++ 1, 2, 3, 4
 
 **201. VII asrdan boshlab quyidagi qaysi hudud mustaqil mulklar ittifoqidan iborat bo‘lgan?**
 
 - Toxariston
 - Choch
 - Ustrushona
-- Buxoro (to'g'ri)
++ Buxoro
 
 **202. «Tempera» nima?**
 
 - Tuxum sarig‘iga rangdor mineral toshlar aralashtirib tayyorlanadigan yonuvchi modda
 - Tuxum oqiga rangsiz mineral upasi aralashtirib tayyorlanadigan taom
 - Tuxum sarig‘iga rangdor mineral upasi aralashtirib tayyorlanadigan malham
-- Tuxum sarig‘iga rangdor mineral upasi aralashtirib tayyorlanadigan bo‘yoq (to'g'ri)
++ Tuxum sarig‘iga rangdor mineral upasi aralashtirib tayyorlanadigan bo‘yoq
 
 **203. Turk xoqonligida birovga jarohat yetkazgani yoxud mayib qilgani uchun qanday jazo turi qo‘llanilgan?**
 
 - Qo‘li yoki oyog‘i kesilgan
-- Mol-mulki bilan tovon to‘lashga majbur etilgan (to'g'ri)
++ Mol-mulki bilan tovon to‘lashga majbur etilgan
 - Qullikka sotilgan
 - Qatl qilingan
 
 **204. Ilk o‘rta asrlarda «Hamuket» so‘zi Buxoro tilida qanday ma’noni anglatgan?**
 
 - «Hamuk - oltinning shahari»
-- «Hamuk - gavharning shahari» (to'g'ri)
++ «Hamuk - gavharning shahari»
 - «Hamuk - buyuklarning shahari»
 - «Hamuk – ulug‘larning shahari»
 
@@ -1457,11 +1478,11 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Xitoy, Parfiya va Vizantiya
 - Rim, Eron va Vizantiya
 - Xitoy, Sharqiy Turk xoqonligi va Vizantiya
-- Xitoy, Eron va Vizantiya (to'g'ri)
++ Xitoy, Eron va Vizantiya
 
 **206. Ilk o‘rta asrlarda Sug‘d yozuvi qanday tartibda yozilgan?**
 
-- Chapdan o‘nga qarab (to'g'ri)
++ Chapdan o‘nga qarab
 - O‘ngdan chapga qarab
 - Tepadan pastga qarab
 - Pastdan tepaga qarab
@@ -1470,33 +1491,33 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Farg‘ona va Sug‘dda
 - Iloqda
-- Shahrisabzda (to'g'ri)
++ Shahrisabzda
 - Ustrushonada
 
 **208. Turk xoqonligi davrida Turon zaminida turkiy yozuv bilan bir qatorda yana qaysi yozuvlar ham keng qo‘llanilgan edi?**
 
 - Baqtriya va Xorazm yozuvlari
-- Sug‘d va Xorazm yozuvlari (to'g'ri)
++ Sug‘d va Xorazm yozuvlari
 - Sug‘d va Baqtriya yozuvlari
 - Baqtriya va Kushon yozuvlari
 
 **209. Qayerda Sheri Kishvardan keyin podshohlik qilganlar Iskajkat, Sharg‘, Romtin, Faraxshiy (Varaxsha) qishlog‘iga asos solishgan?**
 
 - Sug‘dda
-- Buxoroda (to'g'ri)
++ Buxoroda
 - Naxshabda
 - Chochda
 
 **210. Turk xoqonligiga qarshi Abruy qo‘zg‘oloni qayerda boshlangan?**
 
 - Sug‘dda
-- Buxoroda (to'g'ri)
++ Buxoroda
 - Xorazmda
 - Chochda
 
 **211. G‘arbiy Turk xoqoni kimlar yordamida mustaqil hokimliklar ustidan nazoratni kuchaytirgan?**
 
-- O‘z noiblari – tudunlar yordamida (to'g'ri)
++ O‘z noiblari – tudunlar yordamida
 - O‘z qarindoshlari – jabg‘ular yordamida
 - O‘z lashkarboshilari – shodlar yordamida
 - O‘z amaldorlari – budunlar yordamida
@@ -1504,35 +1525,35 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 **212. G‘arbiy Turk xoqonligida hukmdor qarorgohi vazifasini bajargan shaharlar nomlari to‘g‘ri moslashtirilgan javobni toping.**
 
 - Suyab (Turfan), Beshbaliq (Oq Bishim), Ek-tog‘ (Sharqiy Turkiston)
-- Suyab (Oq Bishim), Beshbaliq (Turfan), Ek-tog‘ (Sharqiy Turkiston) (to'g'ri)
++ Suyab (Oq Bishim), Beshbaliq (Turfan), Ek-tog‘ (Sharqiy Turkiston)
 - Suyab (Sharqiy Turkiston), Beshbaliq (Turfan), Ek-tog‘ (Oq Bishim)
 - Suyab (Oq Bishim), Beshbaliq (Sharqiy Turkiston), Ek-tog‘ (Turfan)
 
 **213. Manbalarda Sheri Kishvar Buxoro shahristonini qurib, necha yil podshohlik qilgani aytiladi?**
 
 - 30 yil
-- 20 yil (to'g'ri)
++ 20 yil
 - 15 yil
 - 10 yil
 
 **214. Ilk o‘rta asrlarda O‘rta Osiyoda bolalar balog‘at yoshiga yetgach … .**
 
 - xat-savod va hisob-kitobni o‘rganishga jalb etganlar
-- dunyo tanish, savdo-tijorat ishlarini o‘rganish uchun maxsus vakillar homiyligida boshqa davlatlarga yuborganlar (to'g'ri)
++ dunyo tanish, savdo-tijorat ishlarini o‘rganish uchun maxsus vakillar homiyligida boshqa davlatlarga yuborganlar
 - uzoq muddatli harbiy hizmatga jalb qilganlar
 - oila qurib, yangi avlod o‘stirishga undaganlar
 
 **215. G‘arbiy Turk xoqonligida kimning davrida boshqaruv tartiblari isloh qilinib, viloyat hokimlarini xoqonlik ma’muriyati bilan bevosita bog‘lash va ularning ustidan nazoratni kuchaytirish maqsadida mahalliy hukmdorlarga xoqonlikning «yabg‘u» unvoni berilgan?**
 
 - Qoracho‘rin
-- To‘n yabg‘u (to'g'ri)
++ To‘n yabg‘u
 - Bumin
 - Istemi
 
 **216. Ilk o‘rta asrlarda quyidagi qaysi hudud Sug‘d siyosiy ittifoqiga kirmagan bo‘lib, u alohida mustaqil davlat bo‘lgan?**
 
 - Toxariston
-- Farg‘ona (to'g'ri)
++ Farg‘ona
 - Buxoro
 - Ustrushona
 
@@ -1540,27 +1561,27 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - 2014-yilda
 - 2015-yilda
-- 2016-yilda (to'g'ri)
++ 2016-yilda
 - 2017-yilda
 
 **218. Ilk o‘rta asrlarda O‘rta Osiyodagi mahalliy hududlar va ularning hukmdorlari qanday atalganligini moslashtiring. 1) Sug‘d va Farg‘ona; 2) Toxariston; 3) Xorazm; 4) Kesh; 5) Buxoro; 6) Ustrushona; 7) Choch. a) «malikshoh»; b) «ixshid»; c) «xorazmshoh»; d) «ixrid»; e) «afshin»; f) «xudot»; g) «tudun».**
 
 - 1-a, 2-b, 3-c, 4-d, 5-f, 6-e, 7-g
 - 1-b, 2-a, 3-d, 4-c, 5-f, 6-e, 7-g
-- 1-b, 2-a, 3-c, 4-d, 5-f, 6-e, 7-g (to'g'ri)
++ 1-b, 2-a, 3-c, 4-d, 5-f, 6-e, 7-g
 - 1-b, 2-a, 3-c, 4-d, 5-e, 6-f, 7-g
 
 **219. Ilk o‘rta asrlarda quyidagi qaysi hudud mahalliy hokimlari ayrim vaqtlarda Choch va Xorazmning mustaqil hukmdorlari bilan birlashib, ma’lum muddatlarda yirik shaharlarda o‘z qurultoylarini o‘tkazib turganlar?**
 
 - Toxariston
-- Sug‘d (to'g'ri)
++ Sug‘d
 - Buxoro
 - Ustrushona
 
 **220. Turk xoqonligi davrida hunarmandchilik mahsulotlarini yasash uchun qo‘rg‘oshin, kumush va oltin qayerdan qazib olingan?**
 
 - Farg‘ona va Sug‘dda
-- Iloqda (to'g'ri)
++ Iloqda
 - Shahrisabzda
 - Ustrushonada
 
@@ -1569,18 +1590,18 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Istami
 - To‘n yabg‘u
 - Sheri Kishvar
-- Qarojurin (to'g'ri)
++ Qarojurin
 
 **222. VII asrning birinchi yarmida G‘arbiy Turk xoqonligidan qaysi davlatga to‘qqiz marotaba elchi yuborilgan?**
 
 - Vizantiyaga
 - Rimga
-- Xitoyga (to'g'ri)
++ Xitoyga
 - Hindistonga
 
 **223. «Devoriy tasvirlarning ichida, ayniqsa, bir xonadan topilgani ancha yaxshi saqlanib qolgan. Devorlar, supa xom g‘isht va paxsadan bunyod etilgan. Xona to‘rida taxtga o‘xshash o‘rindiq joylashgan bo‘lsa kerak, supaning o‘sha qismi bo‘rtib turganligi aniqlangan. Xona devorlaridagi rasmlarda shoh a’yonlari, Chag‘oniyon, Toxariston, Sharqiy Turkiston, Choch, Chinu Mochin, Hindiston va boshqa mamlakatlardan kelgan elchilar, olib kelingan ot-ulov, sovg‘alar va ov sahnasi ifodalangan. Suratlar nihoyatda nafis ishlanib, yuqori did bilan bo‘yalgan». Yuqoridagi jumlalar qaysi shahar xarobalariga tegishli?**
 
-- Afrosiyob (to'g'ri)
++ Afrosiyob
 - Varaxsha
 - Ajinatepa
 - Tuproqqal’a
@@ -1590,13 +1611,13 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - «Oltin»
 - «Katta»
 - «Buyuk»
-- «Gavhar» (to'g'ri)
++ «Gavhar»
 
 **225. Buxoroda kimdan keyin podshohlik qilganlar Iskajkat, Sharg‘, Romtin, Faraxshiy (Varaxsha) qishlog‘iga asos solishgan?**
 
 - To‘n yabg‘u
 - Bumin
-- Sheri Kishvar (to'g'ri)
++ Sheri Kishvar
 - Qarojurin
 
 **226. Ilk o‘rta asrlarda O‘rta Osiyo shaharlarida sug‘d-turk ikki tilliligi rasmiy odat bo‘lganligi haqida kim, qaysi asarida yozib qoldirgan?**
@@ -1604,11 +1625,11 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Alisher Navoiy «Majolis un-nafois» asarida
 - Abu Rayhon Beruniy «Qadimgi xalqlardan qolgan yodgorliklar» asarida
 - Abu Bakr Narshaxiy «Buxoro tarixi» asarida
-- Mahmud Qoshg‘ariy «Devonu lug‘otit-turk» asarida (to'g'ri)
++ Mahmud Qoshg‘ariy «Devonu lug‘otit-turk» asarida
 
 **227. Quyidagi qaysi davlatda davlat boshqaruvidagi barcha bog‘inlarida lavozim egalari harbiy unvonga ega bo‘lishi shart hisoblangan?**
 
-- G‘arbiy Turk xoqonligida (to'g'ri)
++ G‘arbiy Turk xoqonligida
 - Sharqiy Turk xoqonligida
 - Eftallar davlatida
 - Kidariylar davlatida
@@ -1616,30 +1637,33 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 **228. Abruy boshchiligidagi qo‘zg‘olondan vahimaga tushgan mulkdor dehqonlar va boy savdogarlar Buxoro viloyatini tark etib, qayerga borib o‘rnashganlar?**
 
 - Farg‘ona vodiysiga
-- Turkiston va Taroz atrofiga (to'g'ri)
++ Turkiston va Taroz atrofiga
 - Xorazm vohasiga
 - Sharqiy Turkiston va Yettisuvga
 
 **229. Rassom V. S. Kaydalov qalamiga mansub ushbu asarda qaysi tarixiy voqea tasvirlangan?**
 
+
+![](../images/astron43255081444054.png)
+
 - Rofe ibn Lays qo‘zg‘oloni
 - Oq kiyimlilar qo‘zg‘oloni
 - Muqanna qo‘zg‘oloni
-- Abruy qo‘zg‘oloni (to'g'ri)
++ Abruy qo‘zg‘oloni
 
 ## 12-13-§ Mahalliy hokimliklarning tashkil topishi.
 
 
 **230. Toxariston aholisining asosiy qismi nima bilan shug‘ullangan?**
 
-- O‘troq dehqonchilik bilan (to'g'ri)
++ O‘troq dehqonchilik bilan
 - Chorvachilik bilan
 - Hunarmandchilik bilan
 - Savdo–sotiq bilan
 
 **231. Turk xoqonligining mahalliy sulolalar boshqaruvini saqlab qolishdan maqsadi nima edi? 1) O‘troq o‘lkalarda siyosiy barqarorlikni ta’minlash; 2) Iqtisodiy taraqqiyot rivojini to‘xtatmaslik; 3) harbiy jihatdan ularga ko‘maklashish; 4) Mahalliy aholi va ko‘chmanchilar o‘rtasida ishonchli vositachilarga ega bo‘lish.**
 
-- 1, 2, 3 (to'g'ri)
++ 1, 2, 3
 - 1, 3, 4
 - 1, 2, 4
 - 2, 3, 4
@@ -1648,12 +1672,12 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Tardu xoqon
 - Istami yabg‘u
-- To‘n yabg‘u (to'g'ri)
++ To‘n yabg‘u
 - Qorajurin Biyog‘u
 
 **233. VI–VII asrlarda Zarafshon vodiylarida joylashgan Samarqand, Buxoro va Qashqadaryo vohasidagi Kesh viloyatining … yirik mulklari birlashgan bo‘lib, ularning har biri o‘z hokimi, harbiy chokarlari va mis puli birligiga ega edi.**
 
-- o‘n bitta (to'g'ri)
++ o‘n bitta
 - o‘n uchta
 - o‘n beshta
 - o‘n yettita
@@ -1662,14 +1686,14 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Tudun
 - Malikshoh
-- Ixshid (to'g'ri)
++ Ixshid
 - Afshin
 
 **235. Turk xoqonligi ikkiga bo‘lingach Choch … .**
 
 - Eron sosoniylari tasarrufiga o‘tgan
 - Mustaqillikni qo‘lga kiritgan
-- G‘arbiy Turk xoqonligi tarkibida bo‘lgan (to'g'ri)
++ G‘arbiy Turk xoqonligi tarkibida bo‘lgan
 - Sharqiy Turk xoqonligi tarkibida bo‘lgan
 
 **236. Ilk o‘rta asrlarda Teginlar sulolasi quyidagi qaysi hududni boshqargan?**
@@ -1677,18 +1701,18 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Chag‘oniyon
 - Toxariston
 - Farg‘ona
-- Choch (to'g'ri)
++ Choch
 
 **237. Ilk o‘rta asrlarda «tujjor» deb kimlarga aytilgan?**
 
-- Savdogarlarga (to'g'ri)
++ Savdogarlarga
 - Harbiylarga
 - Hukmdorlarga
 - Dehqonlarga
 
 **238. Turk xoqonligi davridagi Choch tangalarining o‘ziga xos tomoni nimada edi?**
 
-- Sug‘diy yozuvda bitilgani (to'g'ri)
++ Sug‘diy yozuvda bitilgani
 - Yuqori sifatli oltindan zarb etilgani
 - Shakli to‘tburchak bo‘lgani
 - O‘rtasida teshikchasi borligi
@@ -1698,19 +1722,19 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Chag‘oniyonga
 - Toxaristonga
 - Farg‘onaga
-- Chochga (to'g'ri)
++ Chochga
 
 **240. Ilk o‘rta asrlarda quyidagi qaysi hududning hisori qo‘ylari va tulporlari juda mashhur bo‘lgan?**
 
 - Marg‘iyona
 - Toxariston
 - Farg‘ona
-- Sug‘d (to'g'ri)
++ Sug‘d
 
 **241. Qachondan Chochda Turk xoqonligi hukmronligi o‘rnatilib, voha aholisi etnik tarkibida turkiylar salmog‘i keskin oshgan?**
 
 - VI asr birinchi yarmidan
-- VI asr ikkinchi yarmidan (to'g'ri)
++ VI asr ikkinchi yarmidan
 - VII asr birinchi yarmidan
 - VII asr ikkinchi yarmidan
 
@@ -1718,33 +1742,33 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - 1, 2, 5, 7
 - 1, 2, 3, 7
-- 1, 2, 6, 7 (to'g'ri)
++ 1, 2, 6, 7
 - 1, 2, 4, 7
 
 **243. V–VII asrlarda Turk xoqonligi bir qancha hokimliklarga bo‘linib, qanchadan ortiq mustaqil hokimliklar tashkil topgan?**
 
 - 10 dan ortiq
-- 15 dan ortiq (to'g'ri)
++ 15 dan ortiq
 - 20 dan ortiq
 - 25 dan ortiq
 
 **244. Ilk o‘rta asrlarda qaysi hududning 27 ta tog‘ va tog‘oldi viloyatlaridan iborat mustaqil hokimliklari bo‘lgan?**
 
 - Marg‘iyonada
-- Toxaristonda (to'g'ri)
++ Toxaristonda
 - Xorazmda
 - Sug‘dda
 
 **245. Kimlar o‘z alifbosida «ch» harfi bo‘lmaganligi sababli Chochni «Shosh» deb atashgan?**
 
-- Arablar (to'g'ri)
++ Arablar
 - Eroniylar
 - Xitoyliklar
 - Turkiylar
 
 **246. Chochga kimlarning kirib kelishi mahalliy a’yonlarning o‘troqlashib, zardushtiylikni qabul qilishiga sabab bo‘lgan?**
 
-- Sug‘diylarning (to'g'ri)
++ Sug‘diylarning
 - Xorazmliklarning
 - Toxaristonliklarning
 - Turkiylarning
@@ -1754,39 +1778,39 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Chag‘oniyon
 - Toxariston
 - Farg‘ona
-- Choch (to'g'ri)
++ Choch
 
 **248. Turkiylarda qaysi so‘z «davlat» ma’nosini bildirgan?**
 
 - «Ulus»
-- «El» (to'g'ri)
++ «El»
 - «Ayl»
 - «Budun»
 
 **249. Choch vassal mulk sifatida qaysi xoqon tasarrufida bo‘lgan?**
 
 - Bumin yabg‘u
-- Istami yabg‘u (to'g'ri)
++ Istami yabg‘u
 - Bilga xoqon
 - Qorajurin Biyog‘u
 
 **250. Teginlar sulolasi davrida Chochda soliq yig‘imlari nozirlari qanday atalgan?**
 
 - Tegin
-- Tudun (to'g'ri)
++ Tudun
 - Ixrid
 - Budun
 
 **251. Ilk o‘rta asrlarda Qurama va Qoramozor tog‘lari yonbag‘irlarida qadimdan qaysi soha bilan shug‘ullanilgan?**
 
-- Yilqichilik (to'g'ri)
++ Yilqichilik
 - Dehqonchilik
 - Uzumchilik
 - Sholichilik
 
 **252. Ilk o‘rta asrlarda Varxuman ismli shaxs qaysi hududning hukmdori bo‘lgan?**
 
-- Sug‘d (to'g'ri)
++ Sug‘d
 - Marg‘iyona
 - Toxariston
 - Farg‘ona
@@ -1794,7 +1818,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 **253. G‘arbiy Turk xoqoni To‘n yabg‘u o‘z qarorgohini … yaqinidagi Mingbuloq mavzesiga ko‘chirgan.**
 
 - Qanha
-- Choch (to'g'ri)
++ Choch
 - Ershi
 - Afrosiyob
 
@@ -1802,20 +1826,20 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Marg‘iyona
 - Toxariston
-- Farg‘ona (to'g'ri)
++ Farg‘ona
 - Sug‘d
 
 **255. Ilk o‘rta asrlarda qaysi hudud ko‘plab diniy konfessiyalar kesishgan mintaqa bo‘lganligi uchun u yerda mahalliy turklarning tangrichilik, xristianlikning nestorian oqimi, moniylik kabi dinlar ham tarqalgan edi?**
 
 - Sug‘dda
-- Chochda (to'g'ri)
++ Chochda
 - Toxaristonda
 - Farg‘onada
 
 **256. O‘rta Osiyoda VI–VII asrlarda davlatlar birlashmasi ittifoqida kimlar katta siyosiy nufuzga ega bo‘lib, mustaqil hokimliklar orasida eng yirigi hisoblangan?**
 
 - Toxariston malikshohlari
-- Sug‘d ixshidlari (to'g'ri)
++ Sug‘d ixshidlari
 - Buxoro xudoylari
 - Choch tudunlari
 
@@ -1823,7 +1847,7 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - 1, 2, 3
 - 2, 4, 5
-- 3, 4, 5 (to'g'ri)
++ 3, 4, 5
 - 1, 3, 4
 
 **258. Ilk o‘rta asrlarda quyidagi qaysi hududning Koson, Axsikat (Xushkat) va Quva (Qubo) kabi yirik markaziy shaharlari bo‘lgan?**
@@ -1831,27 +1855,27 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Marg‘iyona
 - Toxariston
 - Sug‘d
-- Farg‘ona (to'g'ri)
++ Farg‘ona
 
 **259. Ilk o‘rta asrlarda O‘rta Osiyo qishloqlarida qanday nomlar bilan shuhrat topgan istehkomli turar joylar qad ko‘targan? 1) «Ko‘shk»; 2) «Qasr»; 3) «Qo‘rg‘on»; 4) «Qo‘rg‘oncha».**
 
 - 2, 3, 4
 - 1, 2, 4
 - 1, 2, 3
-- 1, 2, 3, 4 (to'g'ri)
++ 1, 2, 3, 4
 
 **260. Qachon Chochda o‘troq mahalliy aholining manzilgohlari soni nihoyatda oshgan?**
 
 - V–VII asr boshlarida
 - V–VII asr oxirlarida
 - VI–VIII asr oxirlarida
-- VI–VIII asr boshlarida (to'g'ri)
++ VI–VIII asr boshlarida
 
 **261. Xoqon To‘n yabg‘u qaysi yillarda hukmronlik qilgan?**
 
 - 614–634-yillarda
 - 619–638-yillarda
-- 618–630-yillarda (to'g'ri)
++ 618–630-yillarda
 - 622–635-yillarda
 
 **262. Toxaristonda hunarmandchilikning qaysi sohalari ayniqsa yuksalgan edi?**
@@ -1859,19 +1883,19 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Qurolsozlik, shishasozlik, duradgorlik
 - Qurolsozlik, kulochilik, to‘qimachilik
 - Qo‘g‘oz tayyorlash, shishasozlik, to‘qimachilik
-- Qurolsozlik, shishasozlik, to‘qimachilik (to'g'ri)
++ Qurolsozlik, shishasozlik, to‘qimachilik
 
 **263. Chjou xonadoni va «o‘n o‘q» sulolasi vakillari Sug‘dda davlatni kim orqali boshqargan?**
 
 - Podsho orqali
-- Oqsoqollar Kengashi oliy organi orqali  (to'g'ri)
++ Oqsoqollar Kengashi oliy organi orqali 
 - Turkiy ko‘chmanchi chorvador urug‘ oqsoqollari orqali
 - O‘z vakillari «yabg‘u» lar orqali
 
 **264. V–VII asrlarda mavjud bo‘lgan va rivojlangan davlatlarning muhrlarida asosan nimalarning tasviri tushirilgan?**
 
 - Oldida hukmdor va orqasida malika yoki taxt vorisi bo‘lmish shahzodaning tasviri
-- Oldida hukmdor va orqasida o‘z davri uchun muhim bo‘lgan buyum yoki jonzotlarning tasviri (to'g'ri)
++ Oldida hukmdor va orqasida o‘z davri uchun muhim bo‘lgan buyum yoki jonzotlarning tasviri
 - Oldida diniy kalomlar, muhim ma’lumot beruvchi yozuvlar va orqasida hukmdorning tasviri
 - Oldida o‘z davri uchun muhim bo‘lgan buyum yoki jonzotlar va orqasida diniy kalomlar, muhim ma’lumot beruvchi yozuvlar tasviri
 
@@ -1879,13 +1903,13 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - «tegin»
 - «tudun»
-- «eltabar» (to'g'ri)
++ «eltabar»
 - «budun»
 
 **266. X asrda yashagan arab mualliflari (Ibn Xavqal va Ishtaxriy) ning qayd etishicha, birgina qaysi shaharning yigirma ikkita darvozasi bo‘lgan?**
 
 - Qanha
-- Binkat (to'g'ri)
++ Binkat
 - Ershi
 - Afrosiyob
 
@@ -1894,32 +1918,32 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - V.V. Bartold «Yettisuv tarixi bo‘yicha ocherklar»
 - K. Trever «Qadimgi sharq sivilizatsiyasi»
 - N.I. Veselovskiy «O‘rta Osiyo tarixidan ocherklar»
-- Y.F. Buryakov «Ilk o‘rta asrlardagi Choch tarixidan» (to'g'ri)
++ Y.F. Buryakov «Ilk o‘rta asrlardagi Choch tarixidan»
 
 **268. Qaysi G‘arbiy Turk xoqoni o‘z qarorgohini Choch yaqinidagi Mingbuloq mavzesiga ko‘chirgan?**
 
 - Bumin yabg‘u
 - Istami yabg‘u
-- To‘n yabg‘u (to'g'ri)
++ To‘n yabg‘u
 - Qorajurin Biyog‘u
 
 **269. X asrda yurtimizdagi qaysi shahar Binkat deb atalgan?**
 
 - Xiva
 - Buxoro
-- Toshkent (to'g'ri)
++ Toshkent
 - Termiz
 
 **270. Teginlar sulolasi davrida Chochda shahzoda, taxt vorisi qanday atalgan?**
 
-- Tegin (to'g'ri)
++ Tegin
 - Tudun
 - Ixrid
 - Budun
 
 **271. Ilk o‘rta asrlarda Toxaristonning poytaxti qaysi shahar bo‘lgan?**
 
-- Balx (to'g'ri)
++ Balx
 - Marv
 - Varaxsha
 - Afrosiyob
@@ -1928,19 +1952,19 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - III–V asrlarda
 - IV–VI asrlarda
-- V–VII asrlarda (to'g'ri)
++ V–VII asrlarda
 - VI–VIII asrlarda
 
 **273. Chochda sug‘diy til va yozuv qatorida turkiy til va yozuvning amal qilishi qaysi shahar xarobasidan topilgan sopol idishdagi bitiklarda o‘z aksini topgan?**
 
-- Qanha (to'g'ri)
++ Qanha
 - Bityan
 - Ershi
 - Afrosiyob
 
 **274. Samarqandni poytaxt qilgan Sug‘d qaysi davlat tanazzulidan keyin mustaqilligini tiklagan?**
 
-- Qang‘ davlati (to'g'ri)
++ Qang‘ davlati
 - Kushon podsholigi
 - G‘arbiy Turk xoqonligi
 - Sharqiy Turk xoqonligi
@@ -1950,41 +1974,50 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Eloq kumushlarini, Tunkat va To‘qkat metallini, kulolchilik buyumlari
 - Choch kumushlari, oltin va kumush, yashil feruzalarini
 - Sholi va mevalar, Tunkat va To‘qkat metallini, moviy feruzalarini
-- Lashkarak kumushlarini, Tunkat va To‘qkat metallini, moviy feruzalarini (to'g'ri)
++ Lashkarak kumushlarini, Tunkat va To‘qkat metallini, moviy feruzalarini
 
 **276. Quyidagi Chag‘oniyon va Choch elchilari Sug‘d hukmdori Varxuman huzurida tasvirlangan devoriy surat qaysi shahar xarobalaridan topilgan?**
+
+
+![](../images/astron90897716561241.png)
 
 - Varaxsha
 - Ayritom
 - Ershi
-- Afrosiyob (to'g'ri)
++ Afrosiyob
 
 **277. Turk-sug‘d namunasidagi tangalar deb qanday tangalarga aytiladi?**
 
 - Sug‘d ixshidlari davrida, VII–VIII asrlarda turkiy yozuv va tilda zarb etilgan tangalarga
-- Turk xoqonligi davrida, VII–VIII asrlarda sug‘diy yozuv va tilda zarb etilgan tangalarga (to'g'ri)
++ Turk xoqonligi davrida, VII–VIII asrlarda sug‘diy yozuv va tilda zarb etilgan tangalarga
 - G‘arbiy Turk xoqonligi davrida, VII–VIII asrlarda old tomoni sug‘diy, orqa tomoni turkiy yozuv va tilda zarb etilgan tangalarga
 - Sharqiy Turk xoqonligi davrida, VII–VIII asrlarda orqa tomoni sug‘diy, old tomoni turkiy yozuv va tilda zarb etilgan tangalarga
 
 **278. Quyidagi rasmda qaysi istehkom tasvirlangan?**
 
+
+![](../images/astron96671551823139.png)
+
 - Turoqqal’a
-- Zangtepa qal’asi (to'g'ri)
++ Zangtepa qal’asi
 - Qo‘yqirilganqal’a
 - Ajinatepa qal’asi
 
 **279. Choch haqida bildirilgan to‘g‘ri mulohazalarni toping. 1) Choch (Toshkent vohasi) Chirchiq va Ohangaron havzalaridagi joylashgan; 2) Choch Ipak yo‘lining shimoli-sharqiy yo‘nalishida strategik ahamiyatga ega bo‘lgan hudud hisoblangan; 3) Vohaning turkiy hukmdorlari davlat ishlarini olib borishda sug‘diy til va yozuvidan deyarli foydalanishmagan; 4) VII–VIII asrlarga mansub tangalari sug‘diy yozuv va tilda zarb ettirishgan; 5) Chochda sug‘diy til va yozuv qatorida turkiy til va yozuvning amal qilishi Ershi shahri xarobasidan topilgan sopol idishdagi bitiklarda o‘z aksini topgan.**
 
-- 1, 2, 4 (to'g'ri)
++ 1, 2, 4
 - 1, 2, 3
 - 1, 3, 4
 - 2, 3, 5
 
 **280. Quyidagi rasmdagi Choch tangasi qaysi yillarga mansub?**
 
+
+![](../images/astron4902821135214.png)
+
 - 635-735-yillarga
 - 620-720-yillarga
-- 625-725-yillarga (to'g'ri)
++ 625-725-yillarga
 - 630-730-yillarga
 
 ## 14-15-§ Turon xalqlarining harbiy san’ati.
@@ -1992,14 +2025,14 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 **281. «Turon» atamasi dastlab qaysi manbada tilga olingan?**
 
-- «Avesto» kitobida (to'g'ri)
++ «Avesto» kitobida
 - Arab tarixchilari manbalarida
 - O‘rxun-Yenisey manbalarida
 - Bilga xoqon bitigida
 
 **282. Turkiy jangchilar qanday harbiy taktika usulidan keng foydalanishgan?**
 
-- Yolg‘ondan chekinish (to'g'ri)
++ Yolg‘ondan chekinish
 - Dushmanning asosiy kuchlarini ikki yoki bir necha qismlarga ajratib yakson qilish
 - Otliq askar hujumi bilan dushman saflarini yorib o‘tish
 - Aylana usulini qo‘llashgan
@@ -2009,12 +2042,12 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 - Johiz
 - Ishtaxriy
 - Ibn Xaldun
-- Ibn Arabshoh (to'g'ri)
++ Ibn Arabshoh
 
 **284. Turk xoqonligi davrida qaysi mustaqil hokimliklar o‘z harbiy qo‘shiniga ega edilar? 1) Ustrushona; 2) Sug‘diyona; 3) Marg‘iyona; 4) Toxariston; 5) Farg‘ona; 6) Xorazm; 7) Choch.**
 
 - 1, 2, 3, 5, 6, 7
-- 2, 4, 5, 6, 7, 8 (to'g'ri)
++ 2, 4, 5, 6, 7, 8
 - 2, 3, 4, 5, 6, 7
 - 1, 2, 3, 5, 7, 8
 
@@ -2022,14 +2055,14 @@ _Tarix (Mavzulashgan) (2022-2025-yillar darsliklari)_
 
 - Chag‘oniyon, Xorazm va Sug‘ddan
 - Toxariston, Xorazm va Farg‘onadan
-- Xorazm, Sug‘d va Toxaristondan (to'g'ri)
++ Xorazm, Sug‘d va Toxaristondan
 - Choch, Toxariston, va Xorazmdan
 
 **286. «Dudama» nima?**
 
 - Jangovor sovutning turi
 - Uzoqqa otuvchi kamonning turi
-- Chopuvchi qurolning turi (to'g'ri)
++ Chopuvchi qurolning turi
 - Ot bilan jang qilish uslubining turi
 
 **287. Turkiyalik olim Usmon Turonning «Turkiy xalqlar
@@ -2039,21 +2072,21 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 2, 3, 4, 5, 6, 7
 - 1, 2, 3, 4, 6, 7
-- 1, 2, 3, 5, 6, 8 (to'g'ri)
++ 1, 2, 3, 5, 6, 8
 - 2, 3, 4, 5, 7, 8
 
 **288. Turk xoqonligi qo‘shinida har bir tuman o‘zining tug‘i ya’ni … ga ega bo‘lgan.**
 
 - maxsus kiyimi
 - bayrog‘i
-- nishoni (to'g'ri)
++ nishoni
 - shiori
 
 **289. Turon hududi qaysi asrda eftaliylar davlati tarkibiga kirgan?**
 
 - III asrda
 - IV asrda
-- V asrda (to'g'ri)
++ V asrda
 - VI asrda
 
 **290. «Samarqand hokimining qabilasidan bo‘lgan ko‘pchilik jangchilar jasur va g‘ayratli bo‘lib, o‘limni nazar-pisand qilmagan. Janglarda hech bir raqib ularga bardosh bera olmagan. Ular jang davomida qurol-aslahaning barcha turlaridan mohirona foydalanishgan». Xitoylik sayyoh tomonidan esdaliklarida bitilgan yuqoridagi ma’lumotlar qaysi hudud jangchilariga nisbatan bayon etilgan?**
@@ -2061,11 +2094,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Chag‘oniyon
 - Toxariston
 - Farg‘ona
-- Sug‘d (to'g'ri)
++ Sug‘d
 
 **291. «Turkiy xalqlar mafkurasi» nomli kitob muallifi olim Usmon Turon qayerlik?**
 
-- Turkiyalik (to'g'ri)
++ Turkiyalik
 - Azarbayjonlik
 - Gruziyalik
 - Boshqirdistonlik
@@ -2073,21 +2106,21 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **292. «Manoqib al-atrok» asari muallifi kim?**
 
 - Beruniy
-- Johiz (to'g'ri)
++ Johiz
 - Narshaxiy
 - Ibn Arabshoh
 
 **293. Turkiy suvoriylar tomonidan nimaning kashf etilishi otliq askarlarga ot ustida mustahkam o‘tira olish va og‘ir aslahalar bilan qurollanish imkonini bergan?**
 
 - Bo‘yinturuq
-- Uzangi (to'g'ri)
++ Uzangi
 - Egar
 - Bargustivon
 
 **294. VI asrda O‘rta Osiyo hududi Turk xoqonligiga o‘tishi bilan «tur» va «oriy» atamalari uyg‘unlashib, Turon nomi kimlarga nisbatan beriladigan bo‘lgan?**
 
 - Toxarlar
-- Turklar (to'g'ri)
++ Turklar
 - Xorazmliklar
 - Sug‘diylar
 
@@ -2096,11 +2129,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Amudaryo va Zafarshondan shimolda, to Sharqdagi Buyuk Xitoy devorigacha hududlar
 - Amudaryo va Sirdaryodan janubda, to Sharqdagi Buyuk Xitoy devorigacha hududlar
 - Amudaryo va Sirdaryodan shimolda, to Sharqdagi Gobi cho‘ligacha hududlar
-- Amudaryo va Sirdaryodan shimolda, to Sharqdagi Buyuk Xitoy devorigacha hududlar (to'g'ri)
++ Amudaryo va Sirdaryodan shimolda, to Sharqdagi Buyuk Xitoy devorigacha hududlar
 
 **296. Turk xoqonligi otliq askarlari nima sababdan o‘zi bilan kamida ikki yoki uchta otni olib yurgan?**
 
-- Horigan otlarni charchamagan otlarga almashtirish imkoniyatini bergan (to'g'ri)
++ Horigan otlarni charchamagan otlarga almashtirish imkoniyatini bergan
 - Yuk ko‘tarish va jangda ishtirok etish uchun alohida-alohida otlardan foydalanilgan
 - Uzoq muddatli yurishlar vaqtida go‘sht va terisidan foydalanish uchun
 - Jang vaqtda askarlar soni ko‘p bo‘lib ko‘rinishi uchun
@@ -2108,7 +2141,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **297. «Sosoniy-forslar barcha xalqlardan davlatni boshqarish sohasida, xitoyliklar - hunarmandchilikda, yunonlar - ilm-fanda, turklar - harbiy ishda ustundirlar». Ushbu fikrlar muallifi kim?**
 
 - Ibn Xaldun
-- Johiz (to'g'ri)
++ Johiz
 - Narshaxiy
 - Ibn Arabshoh
 
@@ -2117,11 +2150,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Yengil va o‘tkir jangovor oyboltalar bilan qurollanganligida
 - Ot ustida kamondan o‘q uza olishganligida
 - Oyoq va qo‘llarini himoyalash maqsadida maxsus metall parchalaridan tayyorlangan sovut kiyganligida
-- Ikkiyoqlama o‘tkir tig‘li qilichlari bo‘lganligida (to'g'ri)
++ Ikkiyoqlama o‘tkir tig‘li qilichlari bo‘lganligida
 
 **299. Eftaliylar jangda asosan nimalardan foydalanishgan?**
 
-- Gurzi (to'g'ri)
++ Gurzi
 - Xanjar
 - Kamon
 - Bolta
@@ -2131,18 +2164,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - O‘nlik bo‘linma
 - Yuzlik bo‘linma
 - Minglik bo‘linma
-- O‘n minglik bo‘linma (to'g'ri)
++ O‘n minglik bo‘linma
 
 **301. Turon jangchilari dubulg‘asi nimadan yasalgan edi?**
 
 - Misdan
 - Bronzadan
 - Qo‘rg‘oshindan
-- Temirdan (to'g'ri)
++ Temirdan
 
 **302. Turk xoqonligi lashkarining asosini qaysi turdagi qo‘shin tashkil qilgan?**
 
-- Otliq qo‘shin (to'g'ri)
++ Otliq qo‘shin
 - Kamonchilar qo‘shini
 - Og‘ir qurollangan piyoda askarlar qo‘shini
 - Yengil qurollangan piyoda askarlar qo‘shini
@@ -2150,7 +2183,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **303. Turk xoqonligi davrida nimalar qoshida tashkil etilgan ta’lim dargohlarida yigitlarga otda erkin yura olish, qilichbozlik, kamondan o‘q otish, gurzi ishlatish, kurash tushish, palaxmon otish kabilar o‘rgatilgan?**
 
 - Harbiy qa’lalar
-- Ibodatxonalar (to'g'ri)
++ Ibodatxonalar
 - Davlat mahkamalari
 - Saroylar
 
@@ -2159,26 +2192,26 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Uzun va og‘ir nayza
 - Uzun va og‘ir bolta
 - Uzun va og‘ir gurzi
-- Uzun va og‘ir qilich (to'g'ri)
++ Uzun va og‘ir qilich
 
 **305. Eftaliylar kimlarning siyosatini davom ettirib, O‘rta Osiyo, Sharqiy Eron, Shimoliy Hindiston va Sharqiy Turkiston xalqlarini yagona davlatga birlashtirgan?**
 
 - Kidariylar
 - Xioniylar
-- Kushonlar (to'g'ri)
++ Kushonlar
 - Sosoniylar
 
 **306. Turonliklar nimani uzun nayzaga bo‘ri yoki boshqa biror hayvonning tilla suvi yuritilgan boshi va otning yoli bilan birga o‘rnatishgan?**
 
 - Qabila ramzini
 - Bo‘linma bayrog‘ini
-- Tuman tug‘ini (to'g'ri)
++ Tuman tug‘ini
 - Hukmdor tamg‘asini
 
 **307. Tarixchilar fikricha, turlar (turklar) qaysi xalqlarning tarmog‘i hisoblangan?**
 
 - Hindi-xitoy
-- Oriy (to'g'ri)
++ Oriy
 - Hind-yevropa
 - Axey
 
@@ -2187,14 +2220,14 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Yolg‘ondan chekinish usulini
 - Dushmanning asosiy kuchlarini ikki yoki bir necha qismlarga ajratib yakson qilish usulini
 - Otliq askar hujumi bilan dushman saflarini yorib o‘tish usulini
-- Aylana usulini (to'g'ri)
++ Aylana usulini
 
 ## 16-17-§ VI–VII asrlarda Turon xalqlari madaniy hayoti.
 
 
 **309. Ilk o‘rta asrlarda Turon gazmol markazlarida «zandanachi» matosi qanday rangli ipakdan ishlangan?**
 
-- Ko‘k rangli (to'g'ri)
++ Ko‘k rangli
 - Qizil rangli
 - Pushti rangli
 - Oq rangli
@@ -2204,40 +2237,46 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 1-Chin, 2-Shod, 3-Tudun, 4-O‘tukan
 - 1-Rum, 2-Eloq, 3-Eltarish, 4-O‘tukan
 - 1-Mochin, 2-Tuman, 3-Eltarish, 4-O‘tukan
-- 1-Chin, 2-Shod, 3-Eltarish, 4-O‘tukan (to'g'ri)
++ 1-Chin, 2-Shod, 3-Eltarish, 4-O‘tukan
 
 **311. Ilk o‘rta asrlarda Turongi qaysi hududda faqat erkak va ayol xizmatchilar belbog‘ taqishardi, aslzoda ayollar esa belini bog‘lashmagan?**
 
 - Baqtriyada
 - Sug‘dda
-- Toxaristonda (to'g'ri)
++ Toxaristonda
 - Xorazmda
 
 **312. Quyidagi rasmdagi eftaliylar davriga oid ov manzarasi tasvirlangan mis idish qaysi davrga oid va qayerdan topilgan?**
 
+
+![](../images/astron39584734724917.png)
+
 - III asr, Tojikistondan topilgan
 - IV asr, Afg‘onistondan topilgan
-- V asr, Pokistondan topilgan (to'g'ri)
++ V asr, Pokistondan topilgan
 - VI asr, Hindistondan topilgan
 
 **313. Yahudiylar qaysi davlat quvg‘inlaridan so‘ng Eronga, Samarqand va Buxoroga ko‘chib kelgan edilar?**
 
 - Misr
-- Ossuriya (to'g'ri)
++ Ossuriya
 - Bobil
 - Akkad
 
 **314. Mug‘ tog‘i va Afrosiyobdan qaysi yozuv namunalari topilgan?**
 
 - Baqtriya yozuvi
-- Sug‘d yozuvi (to'g'ri)
++ Sug‘d yozuvi
 - Toxar yozuvi
 - Xorazm yozuvi
 
 **315. Quyidagi rasmda nima tasvirlangan?**
 
+
+![](../images/astron71944644702670.png)
+
 - Zardushtiylarning xorazmiy tilli diniy kitobati namunasi
-- Moniylarning sug‘diy tilli diniy kitobati namunasi (to'g'ri)
++ Moniylarning sug‘diy tilli diniy kitobati namunasi
 - Shomoniylarning turkiy tilli diniy kitobati namunasi
 - Buddaviylarning sanskrit tilli diniy kitobati namunasi
 
@@ -2246,53 +2285,59 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Buddaviylik
 - Zardushtiylik
 - Tangrichilik
-- Xristianlik (to'g'ri)
++ Xristianlik
 
 **317. Qadimgi ko‘kturk (Kultegin va Bilga xoqon) bitiklari Oltoy va Sharqiy Turkistondan tashqari, yana qayerlardan topilgan qabrtoshlari, sopol va metall buyumlar, yog‘och hamda tanga pullarda saqlanib qolgan?**
 
 - Xoram, Zarafshon, Choch
 - Chag‘oniyon, Farg‘ona, Zarafshon
-- Yettisuv, Farg‘ona, Zarafshon (to'g'ri)
++ Yettisuv, Farg‘ona, Zarafshon
 - Toxariston, Yettisuv, Farg‘ona
 
 **318. «Daxarma» nima?**
 
 - Tabiat in’omlari va mo‘jizalarining mohiyati haqida ta’lim
 - Atrof-muhit va undagi jonzotlarning inson taqdiriga ta’siri haqida ta’lim
-- Diniy qonun-qoidalar va Xudoning mohiyati hamda irodasi (xudojo‘ylik) haqida ta’lim (to'g'ri)
++ Diniy qonun-qoidalar va Xudoning mohiyati hamda irodasi (xudojo‘ylik) haqida ta’lim
 - Jamiyatda o‘zini tutish va odob-ahloq qoidalari haqida ta’lim
 
 **319. Qaysi din haykaltaroshlik rivojiga kuchli ta’sir ko‘rsatgan?**
 
 - Moniylik
-- Buddaviylik (to'g'ri)
++ Buddaviylik
 - Zardushtiylik
 - Qam (shomonlik)
 
 **320. Xorazmdagi qaysi qal’alardan topilgan zardushtiylarning ibodatxonasi diqqatga sazovor inshootlarning o‘rtasida qo‘sh devorlar bilan qurshalgan va ichkariga aylanma yo‘lagi orqali kiriladigan to‘g‘ri burchakli bino bo‘lgan?**
 
 - Fir qal’asi va Ayozqal’adan
-- Jonbosqal’a va Tuproqqal’adan (to'g'ri)
++ Jonbosqal’a va Tuproqqal’adan
 - Qo‘yqirilganqal’a va Jonbosqal’adan
 - Tuproqqal’a va Qo‘yqirilganqal’adan
 
 **321. Ushbu devoriy surat qayerdan topilgan?**
 
-- Varaxsha (to'g'ri)
+
+![](../images/astron8109840291258.png)
+
++ Varaxsha
 - Panjikent
 - Bolaliktepa
 - Afrosiyob
 
 **322. Quyidagi rasmda qaysi shahar xarobalari tasvirlangan?**
 
-- Marv (to'g'ri)
+
+![](../images/astron66211823601169.png)
+
++ Marv
 - Afrosiyob
 - Varaxsha
 - Qanha
 
 **323. Bolaliktepa yodgorligi qayerda joylashgan?**
 
-- Surxon vohasida (to'g'ri)
++ Surxon vohasida
 - Toshkent vohasida
 - Zarafshon vodiysida
 - Farg‘ona vodiysida
@@ -2301,7 +2346,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - eftallar
 - turkiylar
-- kushonlar (to'g'ri)
++ kushonlar
 - kidariylar
 
 **325. Zardushtiylik diniga oid Chilpiq qal’a qayerda joylashgan?**
@@ -2309,60 +2354,63 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Karki tumani, Turkmaniston
 - Ko‘ktepa tumani, Turkmaniston
 - Beruniy tumani, Qoraqalpog‘iston
-- Amudaryo tumani, Qoraqalpog‘iston (to'g'ri)
++ Amudaryo tumani, Qoraqalpog‘iston
 
 **326. Qaysi asrda Samarqand va Buxoroda xristianlik tarqalib, diniy muassasalar tashkil qilingan?**
 
 - VII asrda
 - VI asrda
 - IV asrda
-- V asrda (to'g'ri)
++ V asrda
 
 **327. «Vihara» nima?**
 
 - Moniy o‘quv maskanlari
 - Nasroniy o‘quv maskanlari
 - Zardushtiy o‘quv maskanlari
-- Buddaviy o‘quv maskanlari (to'g'ri)
++ Buddaviy o‘quv maskanlari
 
 **328. Ilk o‘rta asrlarda Xorazmda o‘g‘il bolalarga nimalardan ta’lim berilgan?**
 
 - O‘qish, yozish, hisob-kitob, zoologiya, botanika, astronomiya, muhandislik, tibbiyot va me’morchilik
 - O‘qish, yozish, geografiya, zoologiya, botanika, astronomiya, muhandislik, tibbiyot va me’morchilik
 - O‘qish, yozish, hisob-kitob, geografiya, zoologiya, botanika, tibbiyot va me’morchilik
-- O‘qish, yozish, hisob-kitob, geografiya, zoologiya, botanika, astronomiya, muhandislik, tibbiyot va me’morchilik (to'g'ri)
++ O‘qish, yozish, hisob-kitob, geografiya, zoologiya, botanika, astronomiya, muhandislik, tibbiyot va me’morchilik
 
 **329. Quva yodgorligi qayerda joylashgan?**
 
 - Surxon vohasida
 - Toshkent vohasida
 - Zarafshon vodiysida
-- Farg‘ona vodiysida (to'g'ri)
++ Farg‘ona vodiysida
 
 **330. Ilk o‘rta asrlarda Turon hududidan o‘tgan savdo yo‘llarida eng qimmatbaho tovarlar qaysilar edi?**
 
-- Yozuv materiallari va kitoblar (to'g'ri)
++ Yozuv materiallari va kitoblar
 - Xitoy shoyilari va qog‘ozlar
 - Qimmatbaho toshlar va zeb ziynatlar
 - Ziravorlar va matolar
 
 **331. Turklarning turkiy run (ko‘k-turk) xati biri ikkinchisiga tutashib ketadigan nechta harfdan iborat edi?**
 
-- 38-40 ta harfdan (to'g'ri)
++ 38-40 ta harfdan
 - 25-27 ta harfdan
 - 28-30 ta harfdan
 - 32-34 ta harfdan
 
 **332. Quyidagi rasmda tasvirlangan To‘nyuquq bitiktoshi qaysi asrga oid va qayerdan topilgan?**
 
+
+![](../images/astron1473133753137.png)
+
 - VIII asr. Janubiy Qozog‘iston
 - VII asr. Shimoliy Qozog‘iston
 - VII asr. Shimoliy Mo‘g‘uliston
-- VIII asr. Janubiy Mo‘g‘uliston (to'g'ri)
++ VIII asr. Janubiy Mo‘g‘uliston
 
 **333. Yurtimizda qaysi ta’limot bilan bog‘liq an’analarga ko‘ra har bir ibodatxonada rohiblar tayyorlaydigan ta’lim muassasalari bo‘lganligi aniqlangan?**
 
-- Buddaviylik (to'g'ri)
++ Buddaviylik
 - Zardushtiylik
 - Tangrichilik
 - Nasroniylik
@@ -2371,12 +2419,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Surxon vohasida
 - Toshkent vohasida
-- Zarafshon vodiysida (to'g'ri)
++ Zarafshon vodiysida
 - Farg‘ona vodiysida
 
 **335. Sug‘ddagi katta nestoriyan jamoalarining hujjatlari qaysi tilida yozilgan?**
 
-- Sug‘d tilida (to'g'ri)
++ Sug‘d tilida
 - Yunon tilida
 - Lotin tilida
 - Yahudiy tilida
@@ -2384,7 +2432,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **336. Turkiy run yozuvi nimaga o‘yib yozishga nihoyatda qulay bo‘lgan?**
 
 - Ohaktosh va sopolga
-- Tosh va yog‘ochga (to'g'ri)
++ Tosh va yog‘ochga
 - Sopol va paxsaga
 - Metall va sopolga
 
@@ -2394,13 +2442,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **337. «Ular xotinning bir poy etigini ham paypog‘i bilan topib oldilar. Etik va paypoq tilla (ishlatilib tikilgan va) qimmatbaho toshlar bilan bezatilgan edi, baho qilganlarida ikki yuz ming dirham turdi». Ushbu ma’lumotlar kimning qaysi asarida keltirilgan?**
 
 - Sharafiddin Ali Yazdiyning «Zafarnoma» asarida
-- Abu Bakr Narshaxiyning «Buxoro tarixi» asarida (to'g'ri)
++ Abu Bakr Narshaxiyning «Buxoro tarixi» asarida
 - Muhammad ibn Ja’farning «Movarounnahr yurishi» asarida
 - Mahmud Qoshg‘ariyning «Devonu lug‘otit-turk» asarida
 
 **338. Qutayba ibn Muslimni qaysi xalifa Xurosonga noib etib yuborgan?**
 
-- Abdurahmon ibn Marvon (to'g'ri)
++ Abdurahmon ibn Marvon
 - Umar ibn Abdulaziz
 - Muoviya ibn Abu Sufyon
 - Valid ibn Abdulmalik
@@ -2410,33 +2458,33 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Mahalliy yirik mulkorlarning
 - Sosoniylar davlatining
 - Tan imperiyasining
-- G‘arbiy va Sharqiy Turk xoqonliklarining (to'g'ri)
++ G‘arbiy va Sharqiy Turk xoqonliklarining
 
 **340. Xuroson noibi Qutayba ibn Muslim qaysi yillar davomida Chag‘oniyon, Poykand, Buxoro, Naxshab, Kesh, Xorazm, Samarqand, Choch va Farg‘onani bosib olgan?**
 
 - 701-711-yillarda
 - 703-713-yillarda
-- 705-715-yillarda (to'g'ri)
++ 705-715-yillarda
 - 707-717-yillarda
 
 **341. Qachon arab qo‘mondonlari Amudaryoning o‘ng sohiliga bosqinchilik yurishlarini boshlaganlar?**
 
 - 667-yilda
-- 654-yilda (to'g'ri)
++ 654-yilda
 - 704-yilda
 - 651-yilda
 
 **342. Arab istilochilari Movarounnahrni necha yil davomida juda katta kuch, mablag‘ va talafotlar evaziga qo‘lga kiritganlar?**
 
 - Deyarli ellik yil davomida
-- Deyarli yuz yil davomida (to'g'ri)
++ Deyarli yuz yil davomida
 - Deyarli yuz ellik yil davomida
 - Deyarli ikki yuz yil davomida
 
 **343. Turklarning qaysi shaharni tashlab chiqishi, arab istilochilarining Movarounnahrga yurish imkoniyatini oshirgan?**
 
 - Marv
-- Balx (to'g'ri)
++ Balx
 - Poykand
 - Buxoro
 
@@ -2445,18 +2493,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - G‘arbiy Turk xoqonligi
 - Sharqiy Turk xoqonligi
 - No‘g‘ay xoqonligi
-- Turkash xoqonligi (to'g'ri)
++ Turkash xoqonligi
 
 **345. Arablar bosqini davrida Buxoro podshoxi Ubaydulloh ibn Ziyodga odam yuborib, necha kun muhlat so‘ragan edi?**
 
 - To‘rt kun
 - Besh kun
 - Olti kun
-- Yetti kun (to'g'ri)
++ Yetti kun
 
 **346. Xuroson markazi qaysi shahar bo‘lgan?**
 
-- Marv (to'g'ri)
++ Marv
 - Balx
 - Poykand
 - Buxoro
@@ -2466,11 +2514,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 667-yilda
 - 654-yilda
 - 683-yilda
-- 651-yilda (to'g'ri)
++ 651-yilda
 
 **348. Arablar Xurosonni istilo qilganch, viloyatni boshqarish uchun maxsus noib tayinlanib, uning qarorgohini qaysi shaharda joylashtirishgan?**
 
-- Marvda (to'g'ri)
++ Marvda
 - Poykandda
 - Balxda
 - Buxoroda
@@ -2479,34 +2527,37 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Arab va fors tilidagi
 - Fors va turkiy tildagi
-- Xitoy va arab tilidagi (to'g'ri)
++ Xitoy va arab tilidagi
 - Turkiy va arab tilidagi
 
 **350. Qudratli turk xoqonliklari tanazzuli nafaqat arab istilochilari uchun qo‘l kelgan, balki azaliy raqib bo‘lgan qaysi davlat uchun ham ayni muddao bo‘lgan?**
 
 - Mo‘g‘uliston
-- Xitoy (to'g'ri)
++ Xitoy
 - Eron
 - Hindiston
 
 **351. Turon (Xuroson) da birinchi bo‘lib arablar qaysi shaharni egallashgan?**
 
-- Marv (to'g'ri)
++ Marv
 - Balx
 - Poykand
 - Buxoro
 
 **352. Quyidagi suratdagi ma’lmotlar qaysi manbaning 45-47-qatorlaridan olingan?**
 
+
+![](../images/astron9092348590590.png)
+
 - O‘rxun-Yenisey yozuvlari
 - Inal xoqon maqbarasi yozuvlari
-- To‘nyuquq bitiktoshi (to'g'ri)
++ To‘nyuquq bitiktoshi
 - Bilga xoqon bitiktoshi
 
 **353. Arablarning piyoda qo‘shinlar tarkibini asosini kimlar tashkil etgan?**
 
 - Arab qabilalari aholisi
-- Zabt etilgan xalqlar vakillari (to'g'ri)
++ Zabt etilgan xalqlar vakillari
 - Qullar va yollanma askarlar
 - Ajam xalqlari jangchilari
 
@@ -2515,11 +2566,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 701-yilda
 - 703-yilda
 - 702-yilda
-- 704-yilda (to'g'ri)
++ 704-yilda
 
 **355. Arablar qaysi yilda Chag‘oniyonga hujum qilishgan?**
 
-- 667-yilda (to'g'ri)
++ 667-yilda
 - 654-yilda
 - 704-yilda
 - 651-yilda
@@ -2529,18 +2580,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Shomonlikdan tashqari
 - Zardushtiylikdan tashqari
 - Moniylikdan tashqari
-- Xristianlikdan tashqari (to'g'ri)
++ Xristianlikdan tashqari
 
 **357. Arab istilochilarining Movarounnahrdagi g‘alabasi sabablarini to‘g‘ri toping. 1) Xalifalikning qudrati; 2) Turon aholisining o‘z vaqtida dushmanga qarshi birlasha olmaganligi; 3) Mayda mulklarning o‘zini oqlamagan «mustaqil siyosati»; 4) Mahalliy hokimliklarni birlashtiruvchi kuchlarning o‘z muammolari bilan band bo‘lib qolganligi.**
 
 - 1, 3, 4
 - 1, 2, 4
-- 2, 3, 4 (to'g'ri)
++ 2, 3, 4
 - 1, 2, 3
 
 **358. Qaysi yilda Sug‘d ixshidi G‘urak va Panjikent hokimi Divashtich boshchiligida arablarga qarshi harbiy harakatlar boshlangan?**
 
-- 720-yilda (to'g'ri)
++ 720-yilda
 - 755-yilda
 - 740-yilda
 - 768-yilda
@@ -2550,12 +2601,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Hozirgi Afg‘onistonning shimolini
 - Eronning shimoli-sharqiy qismini
 - Janubiy Turkmanistondan to Amudaryogacha bo‘lgan hududlarni
-- Amudaryodan shimolda joylashgan viloyatlarni (to'g'ri)
++ Amudaryodan shimolda joylashgan viloyatlarni
 
 **360. Qaysi arab qo‘mondoni Movarounnahrni uzil-kesil bosib olishga erishgan?**
 
 - Xolid ibn Valid
-- Qutayba ibn Muslim (to'g'ri)
++ Qutayba ibn Muslim
 - Tariq ibn Ziyod
 - Musa ibn Nusayr
 
@@ -2563,19 +2614,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 2, 3, 4
 - 1, 3, 5
-- 1, 2, 5 (to'g'ri)
++ 1, 2, 5
 - 2, 4, 5
 
 **362. Qaysi xalifa Ubaydulloh ibn Ziyodni Xurosonga noib qilib tayinlab, Movarounnahrga yurish uchun yuborgan?**
 
 - Abul Abbos Saffoh
-- Muoviya I (to'g'ri)
++ Muoviya I
 - Marvon II
 - Horun ar-Rashid
 
 **363. Ubaydulloh ibn Ziyod Poykand va Romitanni olganda qancha buxorolik asirni shaxsan o‘ziga olgan?**
 
-- To‘rt ming asirni (to'g'ri)
++ To‘rt ming asirni
 - Besh ming asirni
 - Olti ming asirni
 - Yetti ming asirni
@@ -2583,7 +2634,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **364. Arablarga qarshi fors, turk va sug‘d qo‘shinlari ittifoqi harakat qilib, qaysi shaharni qaytarib olgan edilar?**
 
 - Marv
-- Balx (to'g'ri)
++ Balx
 - Poykand
 - Buxoro
 
@@ -2591,12 +2642,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 1, 2, 3, 4
 - 1, 2, 4
-- 1, 3, 4 (to'g'ri)
++ 1, 3, 4
 - 1, 2, 3
 
 **366. Nima sababdan o‘lkamizda G‘arbiy Turk xoqonligi arablar hujumiga munosib qarshilik qila olmagan?**
 
-- Tan imperiyasining G‘arbiy Turk xoqonligiga hujumlari (to'g'ri)
++ Tan imperiyasining G‘arbiy Turk xoqonligiga hujumlari
 - Sharqiy va G‘arbiy Turk xoqonliklari o‘rtasidagi siyosiy kurash
 - G‘arbiy Turk xoqonligidagi ichki qabilalararo kurashlar
 - Janubiy Sibirdan ko‘chib kelayotgan boshqa turkiy qabilalar oqimi va harbiy tazyiqining kuchayishi
@@ -2606,32 +2657,32 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Nasaf, Choch, Kesh
 - Kesh, Eloq, Choch
 - Sug‘d, Toxariston, Farg‘ona
-- Kesh, Nasaf, Xorazm (to'g'ri)
++ Kesh, Nasaf, Xorazm
 
 **368. Arablar istilosi davrida O‘rta Osiyodagi qaysi hududlar aholisining katta qismini jangovar turkiylar tashkil etardi? 1) Balx; 2) Xuttalon; 3) Chag‘oniyon; 4) Xorazm; 5) Choch; 6) Ustrushona; 7) Darvoz; 8) Sug‘d; 9) Badaxshon.**
 
 - 3, 4, 5, 6, 7, 9
-- 1, 2, 3, 5, 6, 8 (to'g'ri)
++ 1, 2, 3, 5, 6, 8
 - 2, 3, 4, 5, 6, 7
 - 1, 3, 5, 6, 8, 9
 
 **369. Islom dinini qabul qilib, musulmon bo‘lgan mahalliy aholi vakillari dastlabki yillarda qaysi soliqlaridan ozod etilgan?**
 
-- Xiroj va jizyadan (to'g'ri)
++ Xiroj va jizyadan
 - Zakot va ushrdan
 - Ushr va jizyadan
 - Xiroj va zakotdan
 
 **370. Arablar bosqini arafasida 1) Sug‘d va Toxariston, 2) Choch va Iloq, 3) Farg‘ona, 4) Ustrushona, Chag‘oniyon, Kabodiyon, Xuttalon, Rasht, Darvoz, Badaxshon kabi o‘lkalar nimalarga bo‘linib ketgan edi?**
 
-- 1-mulklarga, 2-yarim mustaqil mulklarga, 3-hokimliklarga, 4-yarim mustaqil mulklarga (to'g'ri)
++ 1-mulklarga, 2-yarim mustaqil mulklarga, 3-hokimliklarga, 4-yarim mustaqil mulklarga
 - 1-viloyatlarga, 2-yarim mustaqil mulklarga, 3-hokimliklarga, 4-yarim mustaqil mulklarga
 - 1-mulklarga, 2-amirliklarga, 3-hokimliklarga, 4-yarim mustaqil mulklarga
 - 1-mulklarga, 2-yarim mustaqil mulklarga, 3-hokimliklarga, 4-hokimliklarga
 
 **371. Arablar Turon hududini bosib olgach, uni necha qismga bo‘lishgan?**
 
-- Ikki qismga (to'g'ri)
++ Ikki qismga
 - Uch qismga
 - To‘rt qismga
 - Besh qismga
@@ -2639,13 +2690,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **372. Arablar qaysi yilda Maymurg‘ga hujum qilishgan?**
 
 - 667-yilda
-- 654-yilda (to'g'ri)
++ 654-yilda
 - 704-yilda
 - 651-yilda
 
 **373. Arablarning yengil va og‘ir yaroqlar bilan qurollangan kuchli otliq qo‘shini asosini kimlar tashkil etgan?**
 
-- Arab qabilalari vakillari (to'g'ri)
++ Arab qabilalari vakillari
 - Zabt etilgan xalqlar qo‘shinlari
 - Qullar va yollanma askarlar
 - Ajam xalqlari jangchilari
@@ -2653,13 +2704,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **374. «Muhammad ibn Ja’farning bayon qilishicha, Ubaydulloh ibn Ziyod xalifa Muoviya I tomonidan Xurosonga yuborilib, u Jayhun (Amudaryo) daryosidan o‘tib Buxoroga kelgan vaqtida Buxoro podshohi, o‘g‘li Tag‘shoda kichik yoshli bo‘lgani tufayli, bir xotin kishi edi». Ushbu ma’lumotlar kimning qaysi asarida keltirilgan?**
 
 - Sharafiddin Ali Yazdiyning «Zafarnoma» asarida
-- Abu Bakr Narshaxiyning «Buxoro tarixi» asarida (to'g'ri)
++ Abu Bakr Narshaxiyning «Buxoro tarixi» asarida
 - Muhammad ibn Ja’farning «Movarounnahr yurishi» asarida
 - Mahmud Qoshg‘ariyning «Devonu lug‘otit-turk» asarida
 
 **375. G‘arbiy Turk xoqonligi vorisi bo‘lgan davlatni toping.**
 
-- Turkash xoqonligi (to'g'ri)
++ Turkash xoqonligi
 - Sibir xoqonligi
 - Sharqiy Turk xoqonligi
 - No‘g‘ay xoqonligi
@@ -2669,18 +2720,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Arablardan tortib olingan hukmdorlar yerlarini
 - Arablarga tashlab ketilgan hukmdorlar yerlarini
 - Arablarga bo‘ysungan hukmdorlar yerlarini
-- Arablarga bo‘ysunmagan hukmdorlar yerlarini (to'g'ri)
++ Arablarga bo‘ysunmagan hukmdorlar yerlarini
 
 **377. Arablar istilosiga qarshi Movarounnahr xalqlarining birlashishiga to‘siq bo‘lgan sababni toping.**
 
 - O‘z boshlaridan iqtisodiy inqirozni boshidan kechirayotganligi
 - Kuchli boshqaruvchilik qobiliyatiga ega sulolalarning mavjud emasligi
-- Mulk hukmdorlari ichki mustaqil bo‘lgani bois, o‘zlarini ko‘p ham markazga tobe, deb hisoblamasligi (to'g'ri)
++ Mulk hukmdorlari ichki mustaqil bo‘lgani bois, o‘zlarini ko‘p ham markazga tobe, deb hisoblamasligi
 - Mahalliy urushlarning nihoyatda ko‘pligi
 
 **378. Qaysi davlat zabt etilgach, arablarga Movarounnahr tomon yo‘l ochilgan?**
 
-- Sosoniylar davlati (to'g'ri)
++ Sosoniylar davlati
 - G‘arbiy Turk xoqonligi
 - Sharqiy Turk xoqonligi
 - Eftalalr davlati
@@ -2689,12 +2740,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 1, 3, 4
 - 1, 2, 4
-- 2, 3, 4 (to'g'ri)
++ 2, 3, 4
 - 1, 2, 3
 
 **380. Arablar qaysi yilda Amudaryodan kechib o‘tib, Buxoro hududiga bostirib kirib, Poykand va Romitanni egallashgan?**
 
-- 673-yil kuzida (to'g'ri)
++ 673-yil kuzida
 - 654-yil kuzida
 - 671-yil bahorida
 - 651-yil bahorida
@@ -2702,7 +2753,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **381. Arablar istilosi davrida O‘rta Osiyo hududidagi mahalliy hokimliklar qaysi davlat vassali edilar?**
 
 - Sosoniylar davlati
-- G‘arbiy Turk xoqonligi (to'g'ri)
++ G‘arbiy Turk xoqonligi
 - Sharqiy Turk xoqonligi
 - Eftaliylar davlati
 
@@ -2711,26 +2762,26 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Goh u, goh bu tomonda turib kurashganlar
 - Markaziy hokimiyatga katta yordam ko‘rsatishgan
 - Arablar tomoniga o‘tib ketgan
-- Markazga yordam berishdan bosh tortgan (to'g'ri)
++ Markazga yordam berishdan bosh tortgan
 
 **383. Arablarga qarshi harbiy harakatlar boshlagan G‘urak va Divashtichga yordam berish uchun qayerdan turk lashkarlari yetib kelgan?**
 
 - Usturshonadan
 - Farg‘onadan
 - Chochdan
-- Yettisuvdan (to'g'ri)
++ Yettisuvdan
 
 **384. O‘rta Osiyoda Islomni qabul qilgan aholining ko‘pchiligi nomigagina musulmon bo‘lib, uzoq vaqtlargacha pinhona o‘z dini va e’tiqodlarida qolavergan. Natijada islom dinini qabul qilishning yangi shartlari belgilab chiqilgan. Unga ko‘ra ... .**
 
 - Masjidlarga kelish va arab tilida so‘zlashish shart edi
 - Namozni ommaviy o‘qishi shart edi
-- Qur’on suralarini yod olishlari shart edi (to'g'ri)
++ Qur’on suralarini yod olishlari shart edi
 - Muhammad (s.a.v.) payg‘ambarning hayot yo‘lini yod olishi shart edi
 
 **385. IX asr muarrixi Muhammad Narshaxiyning yozishicha, Qutayba ibn Muslim (Amir Qutayba ibn Muslim ibn Umar ibn Husayn ibn Robiya ibn Xolid ibn Usayd Al-Xayr) …ning Boxila degan joyida tavallud topgan.**
 
 - Yaman
-- Shom (to'g'ri)
++ Shom
 - Hijoz
 - Ajam
 
@@ -2738,19 +2789,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Ushr
 - Zakot
-- Jiz’ya (to'g'ri)
++ Jiz’ya
 - Xiroj
 
 **387. Movarounnahr aholisini tinchlantirish va arablar hokimiyatini mustahkamlash maqsadida qaysi Xuroson noibi islom dinini qabul qilganlardan xiroj va jiz’ya soliqlarini olmaslikka qaror qilgan?**
 
 - Qutayba ibn Muslim
-- Ashros (to'g'ri)
++ Ashros
 - Abu Muslim
 - Nasr ibn Sayyor
 
 **388. Balx arablardan qaytarib olingach, kimlar turklar bilan birlashish rejasiga qarshi chiqib, turklarni «azaliy raqib» ekani bahonasida arablar bilan kelishishni afzal ko‘rgan edilar?**
 
-- Sosoniylar (to'g'ri)
++ Sosoniylar
 - Sug‘diylar
 - Toxarlar
 - Chag‘oniylar
@@ -2763,25 +2814,25 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Sopol
 - Qog‘oz
 - Gilam
-- Kamon (to'g'ri)
++ Kamon
 
 **390. VIII asrdan Turon o‘lkasidagi mahkama ishlarida mahalliy turkiy, xorazmiy, sug‘diy, boxtariy tillar va yozuvlar o‘rnini qaysi til va yozuv egallagan?**
 
 - Ajam
 - Uyg‘ur
-- Arab (to'g'ri)
++ Arab
 - Fors
 
 **391. Kim Muqannani odam yuborib, Marvdan Bag‘dodga oldirib keltirgan va bir necha yil davomida zindonda tutib turgan?**
 
-- Abu Ja’far Davonaqiy (to'g'ri)
++ Abu Ja’far Davonaqiy
 - Qutayba ibn Muslim
 - Nasr ibn Sayyor
 - Abu Muslim
 
 **392. Abu Muslim ismining lug‘aviy ma’nosi nima?**
 
-- «Muslimning otasi» deb tarjima qilinsada, mohiyati «eng yaxshi musulmon» demakdir (to'g'ri)
++ «Muslimning otasi» deb tarjima qilinsada, mohiyati «eng yaxshi musulmon» demakdir
 - «Muslimning kattasi» deb tarjima qilinsada, mohiyati «musulmonlar ishonchi» demakdir
 - «Muslimning farzandi» deb tarjima qilinsada, mohiyati «musulmonlar yetakchisi» demakdir
 - «Muslimning ibrati» deb tarjima qilinsada, mohiyati «musulmonlar qudrati» demakdir
@@ -2789,7 +2840,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **393. «Oq kiyimlilar» harakatning rahbari Hoshim ibn Hakim ismli … bo‘lgan.**
 
 - mudarris
-- hunarmand (to'g'ri)
++ hunarmand
 - savdogar
 - dehqon
 
@@ -2798,12 +2849,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Farg‘onaliklar
 - Qashqarliklar
 - Kucharliklar
-- Qarluqlar (to'g'ri)
++ Qarluqlar
 
 **395. Qaysi qog‘oz turi yuzi oq rangdagi dumaloq suv tomchi izlari bilan qoplangan bo‘lgan?**
 
 - «Samarqand shoyi qog‘ozi»
-- «Miri Ibrohimiy» qog‘ozi (to'g'ri)
++ «Miri Ibrohimiy» qog‘ozi
 - «Nimkanop» qog‘ozi
 - «Samarqand sulton qog‘ozi»
 
@@ -2812,18 +2863,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Qizil rangdagi
 - Qora rangdagi
 - Oq rangdagi
-- Ko‘k rangdagi (to'g'ri)
++ Ko‘k rangdagi
 
 **397. Muqanna haqidagi ma’lumotlar bizga kimning qaysi asari orqali yetib kelgan?**
 
 - Sharafiddin Ali Yazdiyning «Zafarnoma» asari
-- Abu Bakr Narshaxiyning «Buxoro tarixi» asari (to'g'ri)
++ Abu Bakr Narshaxiyning «Buxoro tarixi» asari
 - Muhammad ibn Ja’farning «Movarounnahr yurishi» asari
 - Mahmud Qoshg‘ariyning «Devonu lug‘otit-turk» asari
 
 **398. «Oq kiyimlilar» qo‘zg‘oloni rahbarini toping.**
 
-- Hoshim ibn Hakim (to'g'ri)
++ Hoshim ibn Hakim
 - Rofe ibn Lays
 - Yoqub ibn Lays
 - Ziyod ibn Solih
@@ -2833,12 +2884,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Eron
 - Vizantiya
 - Arabiston
-- Mesopotamiya (to'g'ri)
++ Mesopotamiya
 
 **400. Qayerda boshlangan qo‘zg‘olonni Abu Muslim mahalliy kuchlar yordami bilan zo‘rg‘a bostirgan?**
 
 - Balxda
-- Buxoroda (to'g'ri)
++ Buxoroda
 - Marvda
 - Chochda
 
@@ -2846,26 +2897,26 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Oq rangdagi
 - Yashil rangdagi
-- Qora rangdagi (to'g'ri)
++ Qora rangdagi
 - Moviy rangdagi
 
 **402. 751-yildagi xalifalik va Tan imperiyasi o‘rtasidagi Talas jangida asirga tushgan xitoylik jangchilar orasidan tanlab olingan hunarmandlar Samarqandda nima ishlab chiqarish sanoatining yanada rivojlanishiga munosib hissa qo‘shganlar?**
 
 - Ipak
-- Qog‘oz (to'g'ri)
++ Qog‘oz
 - Porox
 - Chinni
 
 **403. Ilk o‘rta asrlarda «kudungarlik» qanday kasb bo‘lgan?**
 
 - Kitoblarga rasm chizish
-- Matolarni bo‘yash (to'g'ri)
++ Matolarni bo‘yash
 - Gilamlarga naqsh berish
 - Sopol idishlariga ohor berish
 
 **404. Muqqannaning otasi Hakim kimning davridagi Xuroson amiri lashkarboshilaridan biri edi?**
 
-- Abu Ja’far Davonaqiy (to'g'ri)
++ Abu Ja’far Davonaqiy
 - Qutayba ibn Muslim
 - Nasr ibn Sayyor
 - Tohir ibn Husayn
@@ -2875,11 +2926,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 720-yilda
 - 755-yilda
 - 740-yilda
-- 750-yilda (to'g'ri)
++ 750-yilda
 
 **406. Abu Muslim Xurosonga kelib aholini nimaga da’vat etgan?**
 
-- Payg‘ambar (s.a.v.) avlodlarini quvvatlashga (to'g'ri)
++ Payg‘ambar (s.a.v.) avlodlarini quvvatlashga
 - Umaviylarni taxtdan ag‘darishga
 - Soliqlarni to‘lamaslikka
 - Xalifalikdan ajralib chiqishga
@@ -2887,14 +2938,14 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **407. Tan davlati 750-yilda millati … bo‘lgan Gao Syanchji (Gav Shanchji) qo‘mondonligida katta qo‘shinni Turonga jo‘natgan.**
 
 - xitoy
-- koreys (to'g'ri)
++ koreys
 - yapon
 - mo‘g‘ul
 
 **408. Ilk o‘rta asrlarda qog‘oz asosan qaysi daraxtining po‘stlog‘idan tayyorlangan?**
 
 - Chinor daraxtining
-- Tut daraxtining (to'g'ri)
++ Tut daraxtining
 - Terak daraxtining
 - Qarag‘ay daraxtining
 
@@ -2903,11 +2954,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - «Samarqand shoyi qog‘ozi»
 - «Miri Ibrohimiy» qog‘ozi
 - «Nimkanop» qog‘ozi
-- «Samarqand sulton qog‘ozi» (to'g'ri)
++ «Samarqand sulton qog‘ozi»
 
 **410. Qachon xalifalikda toj-u taxt uchun kurash kuchaygan?**
 
-- VIII asrning 40-yillarida (to'g'ri)
++ VIII asrning 40-yillarida
 - VIII asrning 50-yillarida
 - VIII asrning 60-yillarida
 - VIII asrning 70-yillarida
@@ -2917,25 +2968,25 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Tabriz atrofi aholisidan, Baykand deb atalgan qishloqdan
 - Damashq atrofi aholisidan, Rabot deb atalgan qishloqdan
 - Balx atrofi aholisidan, Kufa deb atalgan qishloqdan
-- Marv atrofi aholisidan, Koza deb atalgan qishloqdan (to'g'ri)
++ Marv atrofi aholisidan, Koza deb atalgan qishloqdan
 
 **412. IX asrga kelib, O‘rta Osiyoda qog‘oz ishlab chiqarish shahar hunarmandchiligining eng muhim jabhalaridan biriga aylangach, asta-sekin qaysi shahar qog‘ozi butun Sharq va G‘arb bozorlarini ham egallagan?**
 
 - Balx
 - Buxoro
 - Marv
-- Samarqand (to'g'ri)
++ Samarqand
 
 **413. Umaviylarga qarshi targ‘ibot olib borish uchun Abu Muslim qayerga yuborilgan?**
 
 - Eronga
 - Suriyaga
 - Movarounnahrga
-- Xurosonga (to'g'ri)
++ Xurosonga
 
 **414. Abbosiylar nima uchun Abu Muslimni Xuroson va Movarounnahrga noib qilib tayinlaganlar?**
 
-- Abu Muslimning xalq orasidagi obro‘yining tobora ortib borishiga xayrixoh emas edilar (to'g'ri)
++ Abu Muslimning xalq orasidagi obro‘yining tobora ortib borishiga xayrixoh emas edilar
 - Xuroson va Movarounnahrda o‘z hokimiyatlarini mustahkamlash uchun
 - Abu Muslim o‘z xizmatlari evaziga shuni talab qilgani uchun
 - Yirik arab zodagonlari Abu Muslimni poytaxtda bo‘lishini xohlamaganlari uchun
@@ -2943,7 +2994,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **415. 751-yil iyul oyida arablarning Ziyod ibn Solih qo‘mondonligi ostidagi qo‘shini Gao Syanchjining …lardan iborat yirik qo‘shini bilan Talas daryosi bo‘yida to‘qnashgan. 1) Xitoylar; 2) Farg‘onaliklar; 3) Qashqarliklar; 4) Kucharliklar; 5) Qarluqlar; 6) Chochliklar.**
 
 - 1, 2, 3, 4, 6
-- 1, 2, 3, 4, 5 (to'g'ri)
++ 1, 2, 3, 4, 5
 - 1, 2, 3, 5, 6
 - 2, 3, 4, 5, 6
 
@@ -2951,21 +3002,21 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 1, 3, 4
 - 2, 3, 4
-- 1, 2, 3 (to'g'ri)
++ 1, 2, 3
 - 1, 2, 4
 
 **417. Ilk o‘rta asrlarda yurtimizda qog‘oz turlarini yaratishda xomashyo sifatida nimadan keng foydalanilgan?**
 
 - Paxta, kanop va tut daraxti po‘stlog‘idan
 - Kanop, ipak va terak daraxti po‘stlog‘idan
-- Paxta, ipak va tut daraxti po‘stlog‘idan (to'g'ri)
++ Paxta, ipak va tut daraxti po‘stlog‘idan
 - Kanop, ipak va yong‘oq daraxti po‘stlog‘idan
 
 **418. Qaysi jangdagi mag‘lubiyat Tan imperiyasining O‘rta Osiyo hududini egallash yo‘lidagi tajovuzkorona siyosatiga uzil-kesil chek qo‘ygan?**
 
 - Dandanakon jangidagi
 - Marv jangidagi
-- Talas jangidagi (to'g'ri)
++ Talas jangidagi
 - Mansikert jangi
 
 **419. Muqanna qo‘zg‘oloni qaysi yilgacha davom etgan?**
@@ -2973,25 +3024,25 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 792-yilgacha
 - 769-yilgacha
 - 776-yilgacha
-- 783-yilgacha (to'g'ri)
++ 783-yilgacha
 
 **420. Abu Muslim qaysi shaharda davlat va harbiy kuchlarning yuqori lavozimiga tayinlangan?**
 
 - Marv
 - Damashq
-- Bag‘dod (to'g'ri)
++ Bag‘dod
 - Balx
 
 **421. Rofe ibn Lays qo‘zg‘oloni qayerdan boshlanib Shosh, Farg‘ona, Buxoro, Naxshab va Xorazm viloyatlariga tarqalgan?**
 
 - Nasafdan
-- Samarqanddan (to'g'ri)
++ Samarqanddan
 - Qarshidan
 - Ustrushonadan
 
 **422. Qaysi diniy-falsafiy ta’limotning asosiy g‘oyasi mulkiy umumiylik, barcha narsalarning umumiy, teng bo‘lishidan iborat bo‘lgan?**
 
-- Mazdakiylikning (to'g'ri)
++ Mazdakiylikning
 - Moniylikning
 - Zardushtiylikning
 - Buddaviylikning
@@ -3000,26 +3051,26 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Murg‘ob yaqinida
 - Maymurg‘ yaqinida
-- Talas yaqinida (to'g'ri)
++ Talas yaqinida
 - Jand yaqinida
 
 **424. Qaysi qog‘oz turi rangi och sariq — novvot rangda bo‘lgan?**
 
-- «Samarqand shoyi qog‘ozi» (to'g'ri)
++ «Samarqand shoyi qog‘ozi»
 - «Miri Ibrohimiy» qog‘ozi
 - «Nimkanop» qog‘ozi
 - «Samarqand sulton qog‘ozi»
 
 **425. Umaviylarga qarshi umumiy norozilik nihoyatda kuchayishiga nima sabab bo‘lgan edi?**
 
-- Xiroj solig‘i miqdorining oshirib yuborilgani hamda aholining muttasil hasharlarga majburan jalb etilishi (to'g'ri)
++ Xiroj solig‘i miqdorining oshirib yuborilgani hamda aholining muttasil hasharlarga majburan jalb etilishi
 - Istilolar natijasida harbiylarning nihoyatda holdan toyganligi
 - Bosib olingan yerlarni hukmron sulolala vakillari o‘zlashtirib olishi
 - Arablar va mahalliy aholi o‘rtasidagi kelishmovchilik
 
 **426. 751-yilda Talas yaqinidagi jangda asir tushgan xitoylik jangchilar hunarmandchilikdan xabardor bo‘lib, o‘z hayotlarini saqlab qolish niyatida Movarounnahrdagi mahalliy hunarmandlarga nimaning sir-sinoatlarini o‘rgatishgan?**
 
-- Qog‘oz ishlab chiqarishning (to'g'ri)
++ Qog‘oz ishlab chiqarishning
 - Shoyi ishlab chiqarishning
 - Chinni ishlab chiqarishning
 - Porox ishlab chiqarishning
@@ -3027,14 +3078,14 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **427. Muqanna dastlab qanday kasb bilan shug‘ullangan?**
 
 - Chilangarlik
-- Kudungarlik (to'g'ri)
++ Kudungarlik
 - Kulolchilik
 - Gilamdo‘zlik
 
 **428. Muqanna o‘z yaqinlari bilan qayerdagi Som qal’asini qarorgohiga aylantirgan?**
 
 - Farg‘ona vodiysidagi
-- Kesh vohasidagi (to'g'ri)
++ Kesh vohasidagi
 - Choch vohasidagi
 - Zarafshon vodiysidagi
 
@@ -3043,25 +3094,25 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Turk olimi Usmon Turon
 - Fors yozuvchisi Narshaxiy
 - Arab tarixchisi Gardiziy
-- Arab tarixchisi Maqdisiy  (to'g'ri)
++ Arab tarixchisi Maqdisiy 
 
 **430. 751-yildagi xalifalik va Tan imperiyasi o‘rtasidagi Talas jangida asirga tushgan xitoylik jangchilar orasidan tanlab olingan hunarmandlar qayerga keltirilgan?**
 
 - Balxga
 - Buxoroga
-- Samarqandga (to'g'ri)
++ Samarqandga
 - Chochga
 
 **431. Tan imperiyasi qo‘shini farg‘onaliklar bilan ittifoqlikda qayerni vayron qilib, katta o‘ljani qo‘lga kiritgan va hokimini qatl qilgan, uning o‘g‘li esa arablardan yordam so‘ragan?**
 
 - Badaxshon
 - Buxoro
-- Choch (to'g'ri)
++ Choch
 - Eloq
 
 **432. Muqanna qayerda sarxanglikdan vazirlik darajasigacha ko‘tarilgan?**
 
-- Xurosonda (to'g'ri)
++ Xurosonda
 - Movarounnahrda
 - Arabistonda
 - Suriyada
@@ -3070,19 +3121,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 801-yilda
 - 804-yilda
-- 806-yilda (to'g'ri)
++ 806-yilda
 - 802-yilda
 
 **434. Qayerda «Oq kiyimlilar» yengilgach, mahalliy mulkdor tabaqa vakillari arablarga yordam bera boshlaganlar?**
 
 - Eloq va Buxoroda
-- Narshax va Samarqandda (to'g'ri)
++ Narshax va Samarqandda
 - Choch va Ustrushonada
 - Kesh va Farg‘onada
 
 **435. «Mening kim ekanimni bilasizmi?», «Yanglishdingiz, men sizning va butun olamning xudosiman»... va yana: «O‘zimni qanday nom bilan atashni istasam atay beraman», «Men xalqqa o‘zimni Odam (Ato) suratida, keyin Nuh suratida, keyin Ibrohim suratida, keyin Muso suratida, so‘ng Iso suratida, keyin Muhammad mustafo (s.a.v.) suratida, keyin Abu Muslim suratida ko‘rsatgan zotman, endi esa mana o‘zingiz ko‘rib turgan suratdaman», «Ular nafsoniy edilar, men esa ruhoniyman va ularning (badanlari) ichida edim, menda shunday qudrat borki, o‘zimni qanday suratda ko‘rsatishni istasam, shunday suratda ko‘rsata beraman». Ushbu jumlalar kimga tegishli?**
 
-- Hoshim ibn Hakim (to'g'ri)
++ Hoshim ibn Hakim
 - Qutayba ibn Muslim
 - Nasr ibn Sayyor
 - Abu Muslim
@@ -3091,7 +3142,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Oq rangdagi
 - Yashil rangdagi
-- Qora rangdagi (to'g'ri)
++ Qora rangdagi
 - Moviy rangdagi
 
 **437. Qaysi yilda Abul Abbos Saffoh taxtga o‘tirgan va Arab xalifaligida davlat hokimiyati abbosiylar qo‘liga o‘tgan?**
@@ -3099,26 +3150,26 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 720-yilda
 - 755-yilda
 - 740-yilda
-- 750-yilda (to'g'ri)
++ 750-yilda
 
 **438. Qaysi Xuroson noibi Rofe ibn Lays qo‘zg‘olonini bostirishda dehqonlardan bo‘lgan Somonxudotning nabiralari: Nuh, Ahmad va Yahyolardan yordam so‘ragan?**
 
 - Nasr ibn Sayyor
 - Qutayba ibn Muslim
-- Ma’mun (to'g'ri)
++ Ma’mun
 - Ashros
 
 **439. Qaysi qog‘oz turi ipak qoldiqlari hamda po‘stloq tolalari bilan qorishtirib tayyorlangani uchun dolchin rangda bo‘lgan?**
 
 - «Samarqand shoyi qog‘ozi»
 - «Miri Ibrohimiy» qog‘ozi
-- «Nimkanop» qog‘ozi (to'g'ri)
++ «Nimkanop» qog‘ozi
 - «Samarqand sulton qog‘ozi»
 
 **440. Sharqiy Turk xoqonligi qaysi davlat tomonidan tugatilgan?**
 
 - G‘arbiy Turk xoqonligi
-- Uyg‘ur xoqonligi (to'g'ri)
++ Uyg‘ur xoqonligi
 - Arab xalifaligi
 - Tan imperiyasi
 
@@ -3127,19 +3178,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 720-yilda
 - 755-yilda
 - 740-yilda
-- 751-yilda (to'g'ri)
++ 751-yilda
 
 **442. Umaviylar davrida xalifalikning poytaxti qaysi shahar edi?**
 
 - Madina
 - Makka
 - Bag‘dod
-- Damashq (to'g'ri)
++ Damashq
 
 **443. 751-yil iyul oyidagi Talas vodiysida bo‘lib o‘tgan, xalifalik va Tan imperiyasi qo‘shinlari o‘rtasidagi jang necha kun davom etgan?**
 
 - 3 kun
-- 5 kun (to'g'ri)
++ 5 kun
 - 7 kun
 - 9 kun
 
@@ -3148,11 +3199,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Hoshim ibn Hakim
 - Qutayba ibn Muslim
 - Tariq ibn Ziyod
-- Ziyod ibn Solih (to'g'ri)
++ Ziyod ibn Solih
 
 **445. Muqanna qo‘zg‘oloni yana qanday nom bilan atalgan?**
 
-- «Oq kiyimlilar» harakati (to'g'ri)
++ «Oq kiyimlilar» harakati
 - «Qora kiyimlilar» harakati
 - «Qizil kiyimlilar» harakati
 - «Sariq kiyimlilar» harakati
@@ -3160,14 +3211,14 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **446. Abu Muslim qayerlik edi?**
 
 - Xalablik
-- Kufalik (to'g'ri)
++ Kufalik
 - Marvlik
 - Damashqlik
 
 **447. Muqqannaning otasi Hakim qayerlik edi?**
 
 - Marvlik
-- Balxlik (to'g'ri)
++ Balxlik
 - Tabrizlik
 - Damashqlik
 
@@ -3176,19 +3227,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Abu Ja’far Davonaqiy
 - Qutayba ibn Muslim
 - Nasr ibn Sayyor
-- Abu Muslim (to'g'ri)
++ Abu Muslim
 
 **449. Muqanna kimning g‘oyalariga asoslangan ijtimoiy tenglik va erkin hayotga da’vat etuvchi ta’limotni targ‘ib etgan?**
 
 - Buddaning
 - Zardushtning
 - Moniyning
-- Mazdakning (to'g'ri)
++ Mazdakning
 
 **450. Umaviylarga qarshi umumiy norozilik, ayniqsa, qaysi xalifa hukmronlik qilgan davrda nihoyatda kuchaygan?**
 
 - Muoviya Abu Sufyon
-- Marvon Muhammad (to'g'ri)
++ Marvon Muhammad
 - Umar Abdulaziz
 - Hoshim Abdulmalik
 
@@ -3197,32 +3248,32 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - lavozimidan tushirgan
 - surgun qilgan
 - qamoqqa tashlagan
-- qatl ettirgan (to'g'ri)
++ qatl ettirgan
 
 **452. «Oq kiyimlilar» harakati yengilgach Muqannaning taqdiri qanday bo‘lgan?**
 
 - Jangda halok bo‘lgan
 - Qatl etilgan
-- O‘z joniga qasd qilgan (to'g'ri)
++ O‘z joniga qasd qilgan
 - Qochib ketgan
 
 **453. «Muqanna» so‘zining ma’nosi nima?**
 
 - «Isyonkor»
 - «Xaloskor»
-- «Niqobdor» (to'g'ri)
++ «Niqobdor»
 - «Taqvodor»
 
 **454. Muqanna harakati ayniqsa qayerda avj olib Iloq (Ohangaron) vodiysi va Shoshga ham o‘zining ta’sirini o‘tkazgan?**
 
 - Keshda
 - Badaxshonda
-- Sug‘dda (to'g'ri)
++ Sug‘dda
 - Xorazmda
 
 **455. Muqannaning haqiqiy ismi kim bo‘lgan?**
 
-- Hoshim ibn Hakim (to'g'ri)
++ Hoshim ibn Hakim
 - Qutayba ibn Muslim
 - Nasr ibn Sayyor
 - Mahmud ibn Ali
@@ -3230,13 +3281,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **456. «Sarxang» lik qanday lavozim edi?**
 
 - Suv taqsimoti boshqaruvchisi
-- Kichik lashkarboshi (to'g'ri)
++ Kichik lashkarboshi
 - Bosh kotib
 - Soliq noziri
 
 **457. Talas jangida mag‘lub bo‘lgan Tan imperiyasi qo‘shini qo‘mondoni Gao Syanchji … Li Siye va Duan Shoushilar bilan birga zo‘rg‘a qochib qutilgan.**
 
-- yordamchilari (to'g'ri)
++ yordamchilari
 - o‘g‘illari
 - lashkarboshilari
 - shogirdlari
@@ -3246,11 +3297,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 792-yilda
 - 769-yilda
 - 776-yilda
-- 783-yilda (to'g'ri)
++ 783-yilda
 
 **459. VIII asrning I yarmida Tan imperiyasi Buyuk ipak yo‘lini egallash va bu yo‘ldagi davlatlarni o‘ziga bo‘ysundirish uchun bir necha bor urushlar qilgan va qaysi hudud hokimining Xitoydan yordam so‘rashi bu yurishlarga bahona bo‘lgan?**
 
-- Farg‘ona (to'g'ri)
++ Farg‘ona
 - Choch
 - Xuttalon
 - Ustrushona
@@ -3262,19 +3313,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Shimoliy Kavkaz dashtlariga borib o‘rnashadi
 - Shimoliy Xitoy hududiga chekinadi
-- Movarounnahrga kirib boradi va yangi sulola – saljuqiylar boshchiligida Old Osiyo mamlakatlarini istilo qilishga kirishadi (to'g'ri)
++ Movarounnahrga kirib boradi va yangi sulola – saljuqiylar boshchiligida Old Osiyo mamlakatlarini istilo qilishga kirishadi
 - G‘arbiy Sibir dashtlariga ko‘chib borishadi
 
 **461. Tohir ibn Husayndan oldin Xuroson noibi kim bo‘lgan?**
 
-- G‘asson (to'g'ri)
++ G‘asson
 - Ashros
 - Harsama
 - Yamin
 
 **462. Kimlarning yurtida poytaxtdan tashqari Jo‘l, Navkat, Karmankat, Yor kabi shaharlar va qator qishloqlar qad ko‘targan edi?**
 
-- Qarluqlar (to'g'ri)
++ Qarluqlar
 - O‘g‘uzlar
 - Tohiriylar
 - Qoraxitoylar
@@ -3284,11 +3335,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Hirot
 - Farg‘ona
 - Shosh va Ustrushona
-- Samarqand (to'g'ri)
++ Samarqand
 
 **464. Qaysi manbalarda yirik etnik uyushmalardan biri o‘g‘uzlar «guz» deb atalgan?**
 
-- Arab-fors manbalarida (to'g'ri)
++ Arab-fors manbalarida
 - Turkiy manbalarda
 - Xitoy manbalarida
 - Kushon manbalarida
@@ -3297,12 +3348,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Irtish daryosidan janubroqdagi Jo‘l shahri
 - Kama daryosidan shimolroqdagi Navkat shahri
-- Chu daryosidan shimolroqdagi Suyob shahri (to'g'ri)
++ Chu daryosidan shimolroqdagi Suyob shahri
 - Sirdaryodan shimolroqdagi Karmankat shahri
 
 **466. Xalifa Horun ar-Rashidning hukmronlik yillarini toping.**
 
-- 786–809-yillar (to'g'ri)
++ 786–809-yillar
 - 783–807-yillar
 - 780–802-yillar
 - 788–811-yillar
@@ -3311,7 +3362,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 861-878-yillarda
 - 871-892-yillarda
-- 873-879-yillarda (to'g'ri)
++ 873-879-yillarda
 - 879-900-yillarda
 
 **468. Narshaxiy ma’lumotlariga ko‘ra, xalifa Ma’mun mahalliy zodagon kimning o‘g‘illariga xat yozib, ularga Rofe ibn Lays bilan urushda Harsamaga yordam berishni buyurgan?**
@@ -3319,26 +3370,26 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Nasr ibn Somonxudotning
 - Ilyos ibn Somonxudotning
 - Nuh ibn Somonxudotning
-- Asad ibn Somonxudotning (to'g'ri)
++ Asad ibn Somonxudotning
 
 **469. Qarluqlar davlati qayerda tashkil topdi?**
 
 - Oltoyda
-- Yettisuvda (to'g'ri)
++ Yettisuvda
 - Sibirda
 - Sharqiy Turkistonda
 
 **470. Safforiylar hokimiyatga kelgan vaqtda Xuroson poytaxti qaysi shahar edi?**
 
 - Marv
-- Nishopur (to'g'ri)
++ Nishopur
 - Ray
 - Isfahon
 
 **471. Qarluqlar davlati qachon tashkil topgan?**
 
 - VIII asr boshlarida
-- VIII asr o‘rtalarida (to'g'ri)
++ VIII asr o‘rtalarida
 - VIII asr oxirlarida
 - IX asr boshlarida
 
@@ -3347,40 +3398,43 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Balx yaqinidagi Kufa shahri hokimi
 - Balx yaqinidagi Bo‘shang shahri hokimi
 - Hirot yaqinidagi Kufa shahri hokimi
-- Hirot yaqinidagi Bo‘shang shahri hokimi (to'g'ri)
++ Hirot yaqinidagi Bo‘shang shahri hokimi
 
 **473. Tohiriylarga qarshi ko‘tarilgan qo‘zg‘olon boshliqlari aka-uka Ya’qub va Amr ibn Layslarning kasbi nima edi?**
 
-- Miskar (to'g'ri)
++ Miskar
 - Duradgor
 - Zargar
 - Tunukachi
 
 **474. Quyidagi suratda qaysi sulola tangasi tasvirlangan?**
 
+
+![](../images/astron771130616563.png)
+
 - Ma’muniylar
 - Somoniylar
 - Safforiylar
-- Tohiriylar (to'g'ri)
++ Tohiriylar
 
 **475. Turkuy qabilalardan bo‘lmish qarluqlar qadimda qayerda yashaganlar?**
 
 - Sharqiy Turkiston va Yettisuvda
 - Irtish daryosining quyi oqimi va hozirgi Janubiy Qozog‘istonda
 - Sharqiy Turkiston va hozirgi Sharqiy Qozog‘istonda
-- Oltoyning g‘arbida, so‘ngra Irtish daryosining o‘rta oqimida yashagan (to'g'ri)
++ Oltoyning g‘arbida, so‘ngra Irtish daryosining o‘rta oqimida yashagan
 
 **476. Xalifa Ma’mun Somonxudotning nabiralaridan Ahmadga qayerni bergan?**
 
 - Hirot
-- Farg‘ona (to'g'ri)
++ Farg‘ona
 - Samarqand
 - Shosh va Ustrushona
 
 **477. Qachon Tohir ibn Husayn boshliq Xuroson va Movarounnahr mulkdorlari Bag‘dodga yurish qilganlar va Ma’mun xalifalik taxtiga o‘tirgan?**
 
 - 818-yilda
-- 813-yilda (to'g'ri)
++ 813-yilda
 - 810-yilda
 - 815-yilda
 
@@ -3389,54 +3443,54 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Irtish daryosidan janubroqdagi Jo‘l shahri
 - Kama daryosidan shimolroqdagi Navkat shahri
 - Chu daryosidan shimolroqdagi Suyob shahri
-- Sirdaryo quyi oqimi bo‘yidagi Yangikent shahri (to'g'ri)
++ Sirdaryo quyi oqimi bo‘yidagi Yangikent shahri
 
 **479. VI–VII asrlarda Qarluqlar qaysi davlat tarkibiga kirgan?**
 
 - Eron sosoniylari
 - Tan imperiyasi
 - Eftallar podsholigi
-- Turk xoqonligi (to'g'ri)
++ Turk xoqonligi
 
 **480. Qarluqlar chetga asosan qaysi mahsulotlarni chiqarganlar?**
 
 - Teri, zargarlik mahsulotlari, qullar
 - Temir, mis, sopol buyumlar
 - Sut, go‘sht, teri
-- Gilam, sholcha, namat (to'g'ri)
++ Gilam, sholcha, namat
 
 **481. Xalifa Ma’mun Somonxudotning nabiralaridan Yahyoga qayerni bergan?**
 
 - Hirot
 - Farg‘ona
 - Samarqand
-- Shosh va Ustrushona (to'g'ri)
++ Shosh va Ustrushona
 
 **482. Tohiriylar sulolasiga qaysi yili Tohir ibn Husayn tomonidan asos solingan?**
 
 - 813-yilda
 - 822-yilda
 - 815-yilda
-- 821-yilda (to'g'ri)
++ 821-yilda
 
 **483. Asad ibn Somonxudotning o‘g‘illari da’vatiga ko‘ra, Rofe ibn Lays kim bilan sulh tuzgan va ular o‘rtasida quda-andalik vujudga kelib, xalifa Horun bu ishdan xotirjam bo‘lgan?**
 
 - Hoshim ibn Hakim
-- Harsama A’yai (to'g'ri)
++ Harsama A’yai
 - Qutayba ibn Muslim
 - Abu Muslim
 
 **484. Qaysi yillarda xalifa Horun ar-Rashidning o‘g‘illari Ma’mun bilan Amin o‘rtasida taxt uchun kurash bo‘lib o‘tgan?**
 
 - 811–815-yillarda
-- 809–813-yillarda (to'g'ri)
++ 809–813-yillarda
 - 807–811-yillarda
 - 804–808-yillarda
 
 **485. Safforiylar davlatida Ya’qub ibn Lays qaysi yillarda hukmronlik qilgan?**
 
 - 876-882-yillarda
-- 873-879-yillarda (to'g'ri)
++ 873-879-yillarda
 - 879-900-yillarda
 - 881-903-yillarda
 
@@ -3444,33 +3498,33 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Balx viloyatining
 - Jand viloyatining
-- Hirot viloyatining (to'g'ri)
++ Hirot viloyatining
 - Isfahon viloyatining
 
 **487. Tohir ibn Husayn 811-yili qaysi shahar yaqinida xalifa Aminning Ali Moxon ismli sarkardasini mag‘lub etgan?**
 
 - Marv
 - Nishopur
-- Ray (to'g'ri)
++ Ray
 - Isfahon
 
 **488. Xalifa Ma‘mun qachon Tohir ibn Husaynni Xuroson va Movarounnahr noibi etib tayinlagan?**
 
 - 819-yilda
 - 820-yilda
-- 821-yilda (to'g'ri)
++ 821-yilda
 - 822-yilda
 
 **489. Horun ar-Rashid Xurosonga safar vaqtida qayerda vafot etgan?**
 
 - G‘aznada
 - Isfahonda
-- Tusda (to'g'ri)
++ Tusda
 - Rayda
 
 **490. Qachon o‘g‘uzlar davlati shimoli-sharqdan qo‘zg‘algan qipchoqlar tomonidan qaqshatqich zarbaga uchrab, bo‘linib ketgan?**
 
-- X asrning birinchi choragida (to'g'ri)
++ X asrning birinchi choragida
 - X asrning ikkinchi choragida
 - XI asrning birinchi choragida
 - XI asrning ikkinchi choragida
@@ -3479,12 +3533,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Shimoliy qismidagi
 - Sharqiy qismidagi
-- Markaziy qismidagi (to'g'ri)
++ Markaziy qismidagi
 - Janubiy qismidagi
 
 **492. Qaysi yillarda Xurosonda Tohiriylar davlati hukmronlik qilgan?**
 
-- 821–873-yillarda (to'g'ri)
++ 821–873-yillarda
 - 828–884-yillarda
 - 824–876-yillarda
 - 826–878-yillarda
@@ -3494,12 +3548,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Yettisuv va Sharqiy Turkistonda
 - Orol bo‘ylari va Kaspiy hududida
 - Amudaryoning quyi oqimida
-- Sirdaryo havzasi hamda Orol dengizi bo‘yida (to'g'ri)
++ Sirdaryo havzasi hamda Orol dengizi bo‘yida
 
 **494. Qachon qarluqlarning kattagina qismi musulmon bo‘lgan?**
 
 - X asr boshlarida
-- X asr o‘rtalarida (to'g'ri)
++ X asr o‘rtalarida
 - X asr oxirlarida
 - XI asr boshlarida
 
@@ -3507,13 +3561,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 869-yilda
 - 872-yilda
-- 873-yilda (to'g'ri)
++ 873-yilda
 - 876-yilda
 
 **496. Qarluqlar davlati hukmdori nima deb yuritilgan?**
 
 - «Xon» yoki «xoqon»
-- «Yabg‘u» yoki «jabg‘u» (to'g'ri)
++ «Yabg‘u» yoki «jabg‘u»
 - «Tudun» yoki «budun»
 - «Elshoh» yoki «malik»
 
@@ -3521,12 +3575,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - VII asr oxiri va VIII asr boshida
 - VIII asr oxiri va IX asr boshida
-- IX asr oxiri va X asr boshida (to'g'ri)
++ IX asr oxiri va X asr boshida
 - X asr oxiri va XI asr boshida
 
 **498. Safforiylar davlati nomi kimning nomidan olingan?**
 
-- Ya’qub ibn Lays as-Saffor (to'g'ri)
++ Ya’qub ibn Lays as-Saffor
 - Amr ibn Lays as-Saffor
 - Rofe ibn Lays as-Saffor
 - Umar ibn Lays as-Saffor
@@ -3534,7 +3588,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **499. Xalifa Horun ar-Rashidning Rofe ibn Laysga qarshi kurashi haqida qaysi manbada yozib qoldirilgan?**
 
 - Sharafiddin Ali Yazdiyning «Zafarnoma» asarida
-- Abu Bakr Narshaxiyning «Buxoro tarixi» asarida (to'g'ri)
++ Abu Bakr Narshaxiyning «Buxoro tarixi» asarida
 - Muhammad ibn Ja’farning «Movarounnahr yurishi» asarida
 - Mahmud Qoshg‘ariyning «Devonu lug‘otit-turk» asarida
 
@@ -3542,7 +3596,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - «Ikki qanotda kurashuvchi»
 - «Ikki usulda kurashuvchi»
-- «Ikki qo‘lda kurashuvchi» (to'g'ri)
++ «Ikki qo‘lda kurashuvchi»
 - «Ikki qilichda kurashuvchi»
 
 **501. Safforiy hukmdor Amir ibn Lays qaysi yillarda hukmronlik qilgan?**
@@ -3550,11 +3604,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 861-878-yillarda
 - 871-892-yillarda
 - 873-879-yillarda
-- 879-900-yillarda (to'g'ri)
++ 879-900-yillarda
 
 **502. O‘g‘uzlar davlati parchalib ketganidan keyin, ularning bir qismi … .**
 
-- Shimoliy Kavkaz dashtlariga borib o‘rnashadi (to'g'ri)
++ Shimoliy Kavkaz dashtlariga borib o‘rnashadi
 - Shimoliy Xitoy hududiga chekinadi
 - Movarounnahrga kirib boradi va yangi sulola – saljuqiylar boshchiligida Old Osiyo mamlakatlarini istilo qilishga kirishadi
 - G‘arbiy Sibir dashtlariga ko‘chib borishadi
@@ -3563,26 +3617,26 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Sirdaryoning quyi qismiga
 - Farg‘ona vodiysi va Yettisuv o‘lkasiga
-- Shosh atrofi, Farg‘ona, Zarafshon vodiylariga (to'g'ri)
++ Shosh atrofi, Farg‘ona, Zarafshon vodiylariga
 - Talos va Farg‘ona vodiysiga
 
 **504. Tohir ibn Husayn Xuroson va Movarounnahr amiri bo‘lgach, Asadning o‘g‘illaridan eng kattasi bo‘lgan kimga sarpo kiygizgan?**
 
 - Ahmad ibn Asadga
 - Yahyo ibn Asadga
-- Nuh ibn Asadga (to'g'ri)
++ Nuh ibn Asadga
 - Ilyos ibn Asadga
 
 **505. O‘g‘uzlar qaysi xalqlarning etnogenezida muhim rol o‘ynagan?**
 
-- Turkman, ozarbayjon, qoraqalpoqlarning (to'g'ri)
++ Turkman, ozarbayjon, qoraqalpoqlarning
 - Qirg‘iz va uyg‘urlarning
 - Buryat, qozoq va udmurtlarning
 - O‘zbek va tojiklarning
 
 **506. Qachon Tohir ibn Husayn Ray yaqinida xalifa Aminning Ali Moxon ismli sarkardasini mag‘lub etgan?**
 
-- 811-yilda (to'g'ri)
++ 811-yilda
 - 812-yilda
 - 813-yilda
 - 814-yilda
@@ -3591,12 +3645,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Hoshim ibn Hakimni
 - Qutayba ibn Muslimni
-- Harsama A’yaini (to'g'ri)
++ Harsama A’yaini
 - Abu Muslimni
 
 **508. Xalifa Ma’mun Somonxudotning nabiralaridan Ilyosga qayerni bergan?**
 
-- Hirot (to'g'ri)
++ Hirot
 - Farg‘ona
 - Samarqand
 - Shosh va Ustrushona
@@ -3605,7 +3659,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - VIII asrda
 - IX asrda
-- X asrda (to'g'ri)
++ X asrda
 - XI asrda
 
 **510. Qarluqlar qaysi xalqlarning etnogenezida muhim rol o‘ynagan?**
@@ -3613,14 +3667,14 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Turkman, ozarbayjon, qoraqalpoqlarning
 - Qirg‘iz va uyg‘urlarning
 - Buryat, qozoq va udmurtlarning
-- O‘zbek va tojiklarning (to'g'ri)
++ O‘zbek va tojiklarning
 
 **511. Qarluqlar davlati shimol va sharqdan …, g‘arbdan …, janubda esa … bilan chegaralangan edi.**
 
 - Elsuvi daryosi vodiysigacha, chigil qabilasi yaylovlarigacha/yag‘molar vohasi va Sharqiy Turkiston/o‘g‘uz yurti va Farg‘ona vodiysi
 - Yag‘molar vohasi va Sharqiy Turkiston/o‘g‘uz yurti va Farg‘ona vodiysi/Elsuvi daryosi vodiysigacha, chigil qabilasi yaylovlari
 - O‘g‘uz yurti va Farg‘ona vodiysi/Elsuvi daryosi vodiysigacha, chigil qabilasi yaylovlarigacha/yag‘molar vohasi va Sharqiy Turkiston
-- Elsuvi daryosi vodiysigacha, chigil qabilasi yaylovlarigacha/o‘g‘uz yurti va Farg‘ona vodiysi/yag‘molar vohasi va Sharqiy Turkiston (to'g'ri)
++ Elsuvi daryosi vodiysigacha, chigil qabilasi yaylovlarigacha/o‘g‘uz yurti va Farg‘ona vodiysi/yag‘molar vohasi va Sharqiy Turkiston
 
 ## 24-25-§ Somoniylar.
 
@@ -3629,7 +3683,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - «Qo‘shchilar» yoki «kadivar»
 - «Barzikor» yoki «kashovarz»
-- «Barzikor» yoki «qo‘shchilar» (to'g'ri)
++ «Barzikor» yoki «qo‘shchilar»
 - «Kashovarz» yoki «dehqon»
 
 **513. X asrda qaysi turdagi yer-mulk dastavval asosan oliy tabaqali zodagonlar: sulola a’zolari – amirzodalar va yirik mansabdorlarga in’om etilgan va bunday mulk avvaliga bir umrga emas, balki ma’lum muddatga berilib, nasldan naslga o‘tkazilmagan, shuningdek, mulk egasi o‘ziga in’om qilingan hududlarda yashovchi aholidan olinadigan soliqlarning ma’lum qismini o‘zlariga olish huquqiga ega bo‘lganlar?**
@@ -3637,34 +3691,37 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - «Mulki xos»
 - «Xolisa»
 - «Muqto»
-- «Iqto» (to'g'ri)
++ «Iqto»
 
 **514. Qaysi somoniy hukmdor Samarqandni markazga aylantirgan va Movarounnahrning barcha viloyatlarini birlashtirish va uni Xurosondan ajratib olish choralarini ko‘rgan?**
 
 - Nuh
 - Ahmad
-- Nasr (to'g'ri)
++ Nasr
 - Ismoil
 
 **515. X asrda «muqto» yoki «iqtodor» deb kimga aytilgan?**
 
 - «Muqto» egasiga
 - «Mulki xos» segasiga
-- «Iqto» egasiga (to'g'ri)
++ «Iqto» egasiga
 - «Xolisa» egasiga
 
 **516. Sosoniy shohanshohi Xurmazd IV ning harbiy qo‘mondoni Bahrom Chubin kelib chiqishi bo‘yicha kimlardan edi?**
 
-- Sosoniylar xizmatidagi o‘g‘uz turklaridan edi (to'g'ri)
++ Sosoniylar xizmatidagi o‘g‘uz turklaridan edi
 - Sosoniylar xizmatidagi qarluqlaridan edi
 - Sosoniylar xizmatidagi sug‘d ixshidlaridan edi
 - Sosoniylar xizmatidagi yag‘mo turklaridan edi
 
 **517. Quyidagi suratda tasvirlangan idish qaysi sulola davriga oid?**
 
+
+![](../images/astron77439118198741.png)
+
 - Safforiylar
 - Tohiriylar
-- Somoniylar (to'g'ri)
++ Somoniylar
 - G‘aznaviylar
 
 **518. Sosoniy hukmdor Xurmazd IV ning hukmronlik yillarini toping.**
@@ -3672,11 +3729,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 563-572-yillar
 - 572-581-yillar
 - 580-595-yillar
-- 579-590-yillar (to'g'ri)
++ 579-590-yillar
 
 **519. Somoniylar davrida Dargohda nimalar joylashgan edi? 1) Amir qarorgohi; 2) Saroy a’yonlari, navkar va xizmatkorlarining turar joylari; 3) Zarbxona; 4) Qurol-aslaha ombori.**
 
-- 1, 2 (to'g'ri)
++ 1, 2
 - 3, 4
 - 2, 4
 - 1, 3
@@ -3685,14 +3742,14 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Avval Rum va Armaniston, keyin esa Yettisuv va Sharqiy Turkiston noibi etib tayinlangan
 - Avval Suriya va Falastin, keyin esa Ray va Xuroson noibi etib tayinlangan
-- Avval Armaniston va Ozarbayjon, keyin esa Ray va Xuroson noibi etib tayinlangan (to'g'ri)
++ Avval Armaniston va Ozarbayjon, keyin esa Ray va Xuroson noibi etib tayinlangan
 - Avval Misr va Kichik Osiyo, keyin esa Movarounnahr va Xuroson noibi etib tayinlangan
 
 **521. Somoniylar davrida lashkar ikki toifaga bo‘lingan bo‘lib, ular qaysilar edi?**
 
 - Turkiy qabilalardan yig‘ilgan piyoda qismlar va arab-ajam xalqlaridan yig‘ilgan otliq qismlar
 - Hukmdor xizmatida bo‘lgan mahalliy aholidan yig‘ilgan qismlar (gvardiya) va yollanma qo‘shindan iborat qismlar
-- Doimiy ravishda faoliyat ko‘rsatuvchi saralangan qismlar (gvardiya) va zarur hollarda viloyatlardan yig‘iladigan qismlar (to'g'ri)
++ Doimiy ravishda faoliyat ko‘rsatuvchi saralangan qismlar (gvardiya) va zarur hollarda viloyatlardan yig‘iladigan qismlar
 - Og‘ir qurollangan otliq qismlar va yengil qurollangan piyoda qismlar
 
 **522. Qachon Movarounnahrda hokimiyat qoraxoniylar qo‘liga o‘tgan?**
@@ -3700,19 +3757,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - IX asr boshida
 - IX asr oxirida
 - X asr boshida
-- X asr oxirida (to'g'ri)
++ X asr oxirida
 
 **523. Qaysi somoniy hukmdor saroyning maxsus muntazam sarbozlaridan iborat yaxshi qurollangan harbiy qo‘shin tuzgan?**
 
 - Nasr II
 - Ahmad
-- Ismoil (to'g'ri)
++ Ismoil
 - Nuh
 
 **524. Ismoil Somoniy qaysi shahrini zabt etib, dashtliklarga qaqshatqich zarba bergan?**
 
 - Navkat
-- Taroz (to'g'ri)
++ Taroz
 - Tus
 - Ray
 
@@ -3720,40 +3777,43 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Mashvarat va dargohdan
 - Devonlar (vazirliklar) va kengashdan
-- Amir dargohi va devonlar (vazirliklar) dan (to'g'ri)
++ Amir dargohi va devonlar (vazirliklar) dan
 - Kengash va qurultoydan
 
 **526. Quyidagi suratdagi tanga qaysi somoniy hukmdorniki?**
 
+
+![](../images/astron465946362323.png)
+
 - Ahmad Ismoil
 - Ismoil Asad
 - Nuh Yahyo
-- Nasr Ahmad (to'g'ri)
++ Nasr Ahmad
 
 **527. Somoniylardan kim butun Movarounnahrning hukmdoriga aylanib, o‘z nomi bilan kumush dirham zarb ettirgan?**
 
 - Nuh
 - Ahmad
-- Nasr (to'g'ri)
++ Nasr
 - Ismoil
 
 **528. Somoniylar iqtisodiy inqirozdan chiqish uchun qanday tadbirni amalga oshirganlar?**
 
 - Xalifalikdan katta miqdorda qarz olingan
 - Bosqinchilik yurishlari amalga oshirilgan
-- Aholidan ikki marta soliq undirib olingan (to'g'ri)
++ Aholidan ikki marta soliq undirib olingan
 - Aholidan ikki yillik soliq undirib olingan
 
 **529. Sosoniy shohanshohi Xurmazd IV ning harbiy qo‘mondoni Baxrom Chubin avlodlari qayerda yashagan?**
 
-- Balxda (to'g'ri)
++ Balxda
 - Marvda
 - Rayda
 - Isfahonda
 
 **530. Qachon Ismoil Somoniy butun Movarounnahr hukmini o‘z qo‘liga olishga erishib, «haqiqatan ham podshohlikka loyiq va haqli» ekanini isbotlagan?**
 
-- 892-yilda (to'g'ri)
++ 892-yilda
 - 882-yilda
 - 899-yilda
 - 879-yilda
@@ -3761,7 +3821,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **531. Abu Bakr Narshaxiyning ma’lumotlariga ko‘ra, qaysi Somoniy hukmdor davrida vazir devoni, moliya (kirim-chiqim) ishlari devoni, davlat hujjatlarini boshqarish ishlari devoni, soqchilar boshlig‘i devoni, xat-xabarlar mutasaddisi devoni, saroy ish boshqaruvchisi devoni, davlat xos mulklari devoni, muhtasib devoni, vaqflar devoni, qozilik ishlari devoni faoliyat olib borgan?**
 
 - Ahmad davrida
-- Nasr II davrida (to'g'ri)
++ Nasr II davrida
 - Ismoil davrida
 - Nuh davrida
 
@@ -3769,7 +3829,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Samjuriy
 - Foyiq
-- Sabuk (to'g'ri)
++ Sabuk
 - Tosh
 
 **533. Somoniylarda davlat ishlariga qabul qilishda qanday talablar mavjud edi? 1) Davlat tilini mukammal bilish; 2) She’r yozish sa’atidan habardor bo‘lish; 3) Zamona huquq me’yorlaridan to‘liq xabardorlik; 4) Tarix, adabiyot kabi ilmlardan boxabarlik; 5) Biror hunarning egasi bo‘lish; 6) Hisob-kitob ishlaridagi bilimdonlik.**
@@ -3777,20 +3837,23 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 2, 4, 5, 6
 - 1, 2, 3, 4
 - 2, 3, 5, 6
-- 1, 3, 4, 6 (to'g'ri)
++ 1, 3, 4, 6
 
 **534. Rasmdagi Ismoil Somoniy maqbarasi qaysi davrga oid va qayerda joylashgan?**
+
+
+![](../images/astron39707131647844.png)
 
 - Marv. IX asr
 - Balx. IX asr
 - Samarqand. X asr
-- Buxoro. X asr (to'g'ri)
++ Buxoro. X asr
 
 **535. Ismoil Somoniyning vafotidan so‘ng siyosiy boshboshdoqlik avjiga chiqib, markaziy hokimiyat mavqeyiga putur yetishi mintaqaning qaysi hududlarida boshqa bir siyosiy sulola - qoraxoniylarning kuchayib borishi bilan bir vaqtga to‘g‘ri kelgandi?**
 
 - Yettisuv va Sharqiy Turkistonda
 - Janubiy Sibir va Oltoyda
-- Yettisuv va Qoshg‘arda (to'g'ri)
++ Yettisuv va Qoshg‘arda
 - Shimoliy Mo‘g‘uliston va Yettisuvda
 
 **536. Somoniylar davlatida devonlar orasida qaysi biri bosh boshqaruv mahkamasi hisoblangan?**
@@ -3798,13 +3861,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Vaqflar devoni
 - Qozilik ishlari devoni
 - Muhtasib devoni
-- Vazir devoni (to'g'ri)
++ Vazir devoni
 
 **537. Qaysi somoniy hukmdor Movarounnahr va Xurosonni o‘z qo‘l ostida birlashtirgan va Buxoro shahri bu davlatning poytaxtiga aylangan?**
 
 - Nasr Somoniy
 - Ahmad Somoniy
-- Ismoil Somoniy (to'g'ri)
++ Ismoil Somoniy
 - Nuh Somoniy
 
 **538. X asrda yirik mansabdorlarning davlat oldidagi xizmati uchun taqdim etilgan yer va suv, bazida ayrim viloyat yoki shaharlar va tumanlar hadya etilgan mulklar qanday atalgan?**
@@ -3812,18 +3875,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - «Mulki xos»
 - «Xolisa»
 - «Muqto»
-- «Iqto» (to'g'ri)
++ «Iqto»
 
 **539. Somoniylar davlati necha devon orqali idora qilingan?**
 
 - 4 ta devon
 - 8 ta devon
-- 10 ta devon (to'g'ri)
++ 10 ta devon
 - 12 ta devon
 
 **540. Abu Bakr Narshaxiyning ma’lumotlariga ko‘ra, Somoniylar davrida kim Registonga bir saroy (qurishni) buyurgan?**
 
-- Nasr II (to'g'ri)
++ Nasr II
 - Ahmad
 - Ismoil
 - Nuh
@@ -3831,20 +3894,23 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **541. Qaysi yilgi jangda Ismoil Somoniy Nasr ustidan g‘olib chiqqan?**
 
 - 869-yildagi
-- 888-yildagi (to'g'ri)
++ 888-yildagi
 - 873-yildagi
 - 901-yildagi
 
 **542. Quyidagi suratda qaysi sulola hukmdorining jangdagi tasviri aks etgan?**
 
-- Somoniylar (to'g'ri)
+
+![](../images/astron8473247452114.png)
+
++ Somoniylar
 - Safforiylar
 - Qoraxoniylar
 - G‘aznaviylar
 
 **543. Qaysi somoniy hukmdor davrida Buxoroning Registon maydonida amir qasri qarshisida devonlar uchun saroy qurilib, mahkama mana shu maxsus binoga joylashgan edi?**
 
-- Nasr II davrida (to'g'ri)
++ Nasr II davrida
 - Ahmad davrida
 - Ismoil davrida
 - Nuh davrida
@@ -3854,18 +3920,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - «Mulki xos»
 - «Mulk yerlari»
 - «Mulki sultoniy»
-- «Vaqf yerlari» (to'g'ri)
++ «Vaqf yerlari»
 
 **545. IX asrda Movarounnahrning siyosiy hayotida ham o‘zgarishlar yuz beradi. Yurtga avval …, so‘ngra … boshchilik qiladi. Har biri hukmronligi davrida o‘z nomlaridan …dan chaqalar zarb etadi.**
 
-- Nuh/Ahmad/mis (to'g'ri)
++ Nuh/Ahmad/mis
 - Nasr/Ahmad/mis
 - Ahmad/Nuh/oltin
 - Nuh/Ahmad/kumush
 
 **546. Movarounnahr aholisining mustaqillikka erishishi, arab xalifalariga yoqmas edi. Shu boisdan xalifalik … .**
 
-- Safforiylar bilan somoniylarni to‘qnashtirishga va ularning har ikkisini ham zaiflashtirib, bu boy viloyatlarda o‘z ta’sirini qayta tiklashga harakat qilgan (to'g'ri)
++ Safforiylar bilan somoniylarni to‘qnashtirishga va ularning har ikkisini ham zaiflashtirib, bu boy viloyatlarda o‘z ta’sirini qayta tiklashga harakat qilgan
 - Barcha mulklarni o‘ziga tobe bo‘lgan Somoniylarga berishga harakat qilgan
 - Barcha mulklarni o‘ziga itoatda bo‘lgan Safforiylarga berishga harakat qilgan
 - O‘lkadagi katta-kichik qo‘zg‘olonlarni moddiy jihatdan qo‘llab-quvvatlagan
@@ -3873,7 +3939,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **547. Ismoil Somoniy qayerda tavallud topgan?**
 
 - Samarqandda
-- Farg‘onada (to'g'ri)
++ Farg‘onada
 - Chochda
 - Buxoroda
 
@@ -3881,7 +3947,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - «Mulki xos»
 - «Mulk yerlari»
-- «Mulki sultoniy» (to'g'ri)
++ «Mulki sultoniy»
 - «Vaqf yerlari»
 
 **549. Ismoil Somoniy necha yoshida otasi Ahmad vafot etib, akasi Nasr qo‘lida qolgan?**
@@ -3889,18 +3955,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 8 yoshida
 - 10 yoshida
 - 12 yoshida
-- 14 yoshida (to'g'ri)
++ 14 yoshida
 
 **550. Somoniylar davrida hukmron sulola vakillari, mulkdor dehqon va aslzodalarning tasarrufidagi katta-katta yer maydonlaridan tortib mehnatkash qishloq aholisiga tegishli mayda xususiy yerlargacha barchasi qanday atalgan?**
 
 - «Mulki xos»
-- «Mulk yerlari» (to'g'ri)
++ «Mulk yerlari»
 - «Mulki sultoniy»
 - «Vaqf yerlari»
 
 **551. Somoniylar davrida oliy martabali din peshvolari va sayyidlar qo‘l ostidagi yerlar qanday atalgan?**
 
-- «Mulki xos» (to'g'ri)
++ «Mulki xos»
 - «Mulk yerlari»
 - «Mulki sultoniy»
 - «Vaqf yerlari»
@@ -3908,13 +3974,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **552. Somoniylar davrida qishloq jamoalari tasarrufidagi ma’lum yer maydonlari qanday atalgan?**
 
 - «Mulki xos»
-- «Jamoa yerlari» (to'g'ri)
++ «Jamoa yerlari»
 - «Muqto»
 - «Iqto»
 
 **553. Somoniylar davrida qo‘shinda to‘rt kishidan iborat guruhga boshliq qanday atalgan?**
 
-- «Visoqboshi» (to'g'ri)
++ «Visoqboshi»
 - «Haylboshi»
 - «Hojib ul-hujob»
 - «Sarhang»
@@ -3922,20 +3988,23 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **554. Somoniylar davrida davlat soliqlari (xiroj va ushr) qanday usulda olingan?**
 
 - Faqat yer egasidan yer uchun olinar edi
-- Yer egasidan ham, qo‘shchilardan ham alohida-alohida olinar edi (to'g'ri)
++ Yer egasidan ham, qo‘shchilardan ham alohida-alohida olinar edi
 - Faqat qo‘shchilardan hosil uchun olinar edi
 - Qo‘shchilardan ham yer uchun, ham hosil uchun olinar edi
 
 **555. Quyidagi suratda qaysi davlat xaritasi keltirilgan?**
 
-- Somoniylar (to'g'ri)
+
+![](../images/astron432600526437.png)
+
++ Somoniylar
 - Safforiylar
 - Toxiriylar
 - Kidariylar
 
 **556. Ismoil Somoniy qachon tavallud topgan?**
 
-- 849-yilda (to'g'ri)
++ 849-yilda
 - 852-yilda
 - 844-yilda
 - 860-yilda
@@ -3945,19 +4014,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - IX asrning birinchi choragida
 - IX asrning ikkinchi choragida
 - IX asrning uchinchi choragida
-- IX asrning oxirgi choragida (to'g'ri)
++ IX asrning oxirgi choragida
 
 **558. Alpteginning qaysi shahar bozoridan sotib olgan Sabuk ismli quli keyinchalik o‘z iste’dodi bilan yirik harbiy sarkarda darajasiga ko‘tarilgan?**
 
 - Balx
 - Ray
 - Tus
-- Nishopur (to'g'ri)
++ Nishopur
 
 **559. «Ismoil davlatchiligimiz tarixidagi tajriba va an’analarni uddaburonlik bilan davom ettira bilgan davlat arbobi hisoblanadi. U, eng avvalo, mamlakatimiz siyosiy birligini ta’minlash ishiga bel bog‘lab, Farg‘ona, Isfijob, Shosh, Samarqand, Buxoro, Xorazm, Chag‘oniyon, Xuttalon, Kesh, Xuroson, Seyiston, G‘azna kabi qator viloyatlarni o‘z hukmi ostida birlashtirdi... Ismoil markazlashgan davlatchilik asoslarini qaytadan tiklashga muvaffaq bo‘lgan». Ushbu fikrlar muallifi va manbasini toping.**
 
 - Ziyodulla Bobur «Turkiston xalqlari tarixi»
-- Azamat Ziyo «O‘zbek davlatchiligi tarixi» (to'g'ri)
++ Azamat Ziyo «O‘zbek davlatchiligi tarixi»
 - Ravshan Nazarov «Tarixiy hujjatlar va manbalar tahlili»
 - Murod Qosimov «Jahon tarixi va O‘zbekiston»
 
@@ -3966,11 +4035,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Somoniylar
 - Saljuqiylar
 - Qoraxoniylar
-- G‘aznaviylar (to'g'ri)
++ G‘aznaviylar
 
 **561. Manbalarda keltirilishicha qaysi sulolaning kelib chiqishi sosoniy shohanshohi Xurmazd IV ning harbiy qo‘mondoni Bahrom Chubinga borib taqaladi?**
 
-- Somoniylar (to'g'ri)
++ Somoniylar
 - Safforiylar
 - Tohiriylar
 - Kidariylar
@@ -3979,13 +4048,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - To‘rt bosqichdan
 - Olti bosqichdan
-- Sakkiz bosqichdan (to'g'ri)
++ Sakkiz bosqichdan
 - O‘n bosqichdan
 
 **563. Samjuriy, Alptegin, Tosh, Foyiqlar … .**
 
 - Safforiylar xizmatida bo‘lgan turkiy qullar
-- Somoniylar xizmatida bo‘lgan turkiy qullar (to'g'ri)
++ Somoniylar xizmatida bo‘lgan turkiy qullar
 - Tohiriylar xizmatida bo‘lgan turkiy qullar
 - G‘aznaviylar xizmatida bo‘lgan turkiy qullar
 
@@ -3994,18 +4063,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - tutib olib, qatl qilingan
 - butun davlat bo‘ylab qidiruvga berilgan
 - egasiga zarar miqdori to‘lab berilgan
-- uni hech kim qidirmagan (to'g'ri)
++ uni hech kim qidirmagan
 
 **565. Somoniylar davrida kichik qo‘shin boshlig‘i qanday atalgan?**
 
 - «Visoqboshi»
-- «Haylboshi» (to'g'ri)
++ «Haylboshi»
 - «Hojib ul-hujob»
 - «Sarhang»
 
 **566. Somoniylar davlatida yaxshi va uzoq xizmat qilgan sarbozlar qanday lavozimiga ko‘tarilgan?**
 
-- «Hojib» (to'g'ri)
++ «Hojib»
 - «Hojibi buzruk»
 - «Hojib ul-hujob»
 - «Hojib al-amir»
@@ -4013,7 +4082,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **567. Bir-biri bilan kurash olib borgan safforiy va somoniy hukmdorlarni toping.**
 
 - Amir ibn Lays va Nasr Somoniy
-- Amir ibn Lays va Ismoil Somoniy (to'g'ri)
++ Amir ibn Lays va Ismoil Somoniy
 - Ya’qub ibn Lays va Yahyo Somoniy
 - Ya’qub ibn Lays va Nuh Somoniy
 
@@ -4022,11 +4091,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Ibn Arabshox
 - Al Maqsidiy
 - Ibn Hayqal
-- Narshaxiy (to'g'ri)
++ Narshaxiy
 
 **569. Somoniylar davrida «hojib ul-hujob», «hojibi buzruk» qanday lavozim bo‘lgan?**
 
-- Hojiblarning boshlig‘i (to'g'ri)
++ Hojiblarning boshlig‘i
 - Hojarlarning boshlig‘i
 - Hojilarning boshlig‘i
 - Muhojirlarning boshlig‘i
@@ -4036,12 +4105,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Samjuriy
 - Foyiq
 - Sabuktegin
-- Alptegin (to'g'ri)
++ Alptegin
 
 **571. Qaysi xalifa safforiylar hukmdori Amr ibn Laysga Xuroson bilan birga Movarounnahr ustidan ham hukm yuritish huquqi berilgani haqida farmon chiqargan?**
 
 - Horun ar-Rashid
-- Mu’tazid (to'g'ri)
++ Mu’tazid
 - Amin
 - Ma’mun
 
@@ -4052,12 +4121,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Farg‘onada
 - Sirdaryoda
-- Xorazmda (to'g'ri)
++ Xorazmda
 - Buxoroda
 
 **573. Somoniylar davrida xalqaro savdo-sotiqda qo‘llanilgan kumush tangalar qanday atalgan?**
 
-- Dirham (to'g'ri)
++ Dirham
 - Fals
 - Dinor
 - Chek
@@ -4065,7 +4134,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **574. Somoniylar davrida … Vador qishlog‘ida to‘qilgan mato «Vadoriy» nomi bilan mashxur edi.**
 
 - Farg‘onaning
-- Samarqandning (to'g'ri)
++ Samarqandning
 - Shoshning
 - Buxoroning
 
@@ -4074,19 +4143,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Farg‘onaning
 - Samarqandning
 - Shoshning
-- Buxoroning (to'g'ri)
++ Buxoroning
 
 **576. Somoniylar davrida quyidagi qaysi hududda qayiqsozlik rivojlangan edi?**
 
 - Samarqandda
-- Xorazmda (to'g'ri)
++ Xorazmda
 - Shoshda
 - Sug‘dda
 
 **577. Somoniylar maqbarasi kimning davrida qurilgan deb hisoblanadi?**
 
 - Nasr II Somoniy
-- Ismoil Somoniy (to'g'ri)
++ Ismoil Somoniy
 - Yahyo Somoniy
 - Ilyos Somoniy
 
@@ -4095,34 +4164,34 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - dirham
 - fals
 - dinor
-- chek (to'g'ri)
++ chek
 
 **579. Somoniylar davrida qaysi soliqdan xazinaga tushadigan daromad davlat kirim-chiqimining kattagina qismini qoplar edi?**
 
 - Jizyadan
 - Ushrdan
 - Zakotdan
-- Xirojdan (to'g'ri)
++ Xirojdan
 
 **580. Somoniylar davrida mamlakat ma’naviy hayotiga rahnamolik qilgan din va ilm peshvolari ustodlar keyinchalik nima deb ulug‘langan?**
 
 - Hojibi buzruk
 - Rais us-shuaro
 - Amir ul-umaro
-- Shayx ul-islom (to'g'ri)
++ Shayx ul-islom
 
 **581. «… qariyb 1000 yil avval qurilgan ushbu inshoot o‘zining konstruktiv va me’moriy yechimlari bilan mutaxassislarni lol qoldirmoqda. Uning tarxi kvadratga yaqin ko‘rinishda bo‘lib, to‘rt burchagida to‘rtta guldastasimon burjlari bor». Ushbu ta’rif qaysi inshootga berilgan?**
 
 - Qadimiy Xorazmdagi Qavat qal’asiga
 - Samarqand (Afrosiyob) dagi somoniylar qasrining bir qismi bo‘lgan binoga
-- Termiz yaqinidagi Qirqqiz qal’asiga (to'g'ri)
++ Termiz yaqinidagi Qirqqiz qal’asiga
 - Buxorodagi Ismoil Somoniy maqbarasiga
 
 **582. «Chek» so‘zi qaysi tildan olingan?**
 
 - Sug‘d tilidan
 - Turk tilidan
-- Fors tilidan (to'g'ri)
++ Fors tilidan
 - Arab tilidan
 
 **583. Somoniylar davrida qaysi hudud kumush va qo‘rg‘oshin konlari hamda kumush tanga chiqaradigan zarbxonasi bilan mashhur edi?**
@@ -4130,11 +4199,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Buxoro
 - Samarqand
 - Shosh
-- Iloq (to'g'ri)
++ Iloq
 
 **584. «Farsax» yoki «farsang» – taxminan necha kilometrga teng masofa o‘lchov birligi?**
 
-- 6 kilometrga (to'g'ri)
++ 6 kilometrga
 - 8 kilometrga
 - 5 kilometrga
 - 4 kilometrga
@@ -4144,32 +4213,35 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - kumush falslar
 - oltin falslar
 - oltin dirhamlar
-- kumush dirhamlar (to'g'ri)
++ kumush dirhamlar
 
 **586. Somoniylar davrida qaysi hudud o‘zining ko‘nchilik mahsulotlari va charm mollari bilan mashhur edi?**
 
 - Buxoro
 - Samarqand
-- Shosh (to'g'ri)
++ Shosh
 - Iloq
 
 **587. Somoniylar davrida ustoddan keyin kimlar turgan?**
 
 - Hojib
 - Imom
-- Xatib (to'g'ri)
++ Xatib
 - Rais
 
 **588. Somoniylar maqbarasi qaysi shaharda joylashgan?**
 
 - Termizda
 - Samarqandda
-- Buxoroda (to'g'ri)
++ Buxoroda
 - Nasafda
 
 **589. Quyidagi suratdagi somoniylar davriga oid tanga qaysi shaharda zarb etilgan?**
 
-- Buxoro (to'g'ri)
+
+![](../images/astron22597692267336.png)
+
++ Buxoro
 - Samarqand
 - Termiz
 - Shosh
@@ -4177,34 +4249,34 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **590. «… binoning old tomoni yogoch ustunli, peshayvonli bo‘lib, o‘rtada tomi gumbaz bilan yopilgan katta xona va uning ikki yonida yana qo‘shimcha xonalari bo‘lgan. Asosiy zal ohaktoshli ganchning ichiga tolasimon o‘simliklar qo‘shilgan materialdan juda nafis o‘ymakorlik usulida hashamdor qilib ishlangan». Ushbu ta’rif qaysi inshootga berilgan?**
 
 - Qadimiy Xorazmdagi Qavat qal’adagi saroyga
-- Samarqand (Afrosiyob) dagi somoniylar qasrining bir qismi bo‘lgan binoga (to'g'ri)
++ Samarqand (Afrosiyob) dagi somoniylar qasrining bir qismi bo‘lgan binoga
 - Termiz yaqinidagi Qirqqiz qal’asidagi hukmdor qasriga
 - Buxorodagi Ismoil Somoniy maqbarasiga
 
 **591. «Mayolika» nima?**
 
 - Turar joy binolari qurilishida keng foydalanilgan sinchli konstruksiya
-- Sirlangan koshin va naqshlar o‘yilgan sirlangan yaxlit pishirilgan sopol taxtachalar — parchin (to'g'ri)
++ Sirlangan koshin va naqshlar o‘yilgan sirlangan yaxlit pishirilgan sopol taxtachalar — parchin
 - Pardoz ishlarida somonli loy suvoq qatorida ishlatilgan ganchning har xil turlari
 - Sirlanmagan koshin va sopol plitkalar
 
 **592. Somoniylar davrida qaysi material ma’muriy va jamoat binolari qurilishida asosiy material bo‘lib qolgan?**
 
 - Tosh
-- Pishiq g‘isht (to'g'ri)
++ Pishiq g‘isht
 - Marmar
 - Xom g‘isht
 
 **593. Somoniylar davrida ichki bozorlarda muomalada bo‘lgan mis chaqa qanday atalgan?**
 
 - Dirham
-- Fals (to'g'ri)
++ Fals
 - Dinor
 - Chek
 
 **594. Somoniylar davrida Buxoro qanday mahsuloti bilan mashhur bo‘lgan?**
 
-- Qovunlari (to'g'ri)
++ Qovunlari
 - Anorlari
 - Olmalari
 - Uzumlari
@@ -4212,13 +4284,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **595. «Madrasa» so‘zi arabchada qanday ma’noni anglatadi?**
 
 - O‘qimoq
-- O‘rganmoq (to'g'ri)
++ O‘rganmoq
 - Bilmoq
 - Yozmoq
 
 **596. Somoniylar davrida mamlakat ma’naviy hayotiga nima deb atalgan din va ilm peshvolari rahnamolik qilgan?**
 
-- Ustod (to'g'ri)
++ Ustod
 - Ustoz
 - Imom
 - Shayx ul-islom
@@ -4226,13 +4298,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **597. Somoniylar davrida qayerda yuqori navli qog‘oz ishlab chiqarilar edi?**
 
 - Buxoroda
-- Samarqandda (to'g'ri)
++ Samarqandda
 - Shoshda
 - Iloqda
 
 **598. «Turon me’morchiligi durdonasi bo‘lgan bu maqbara kubsimon hajmda bo‘lib, tomonlarining tashqi uzunligi 10 metrga yaqin. Nihoyatda jozibador ishlangan bu binoning ichki tomonlari 7,2x7,2 metr bo‘lib, usti gumbaz tarzida yopilgan». Ushbu ta’rif qaysi inshootga berilgan?**
 
-- Buxorodagi Somoniylar maqbarasiga (to'g'ri)
++ Buxorodagi Somoniylar maqbarasiga
 - Qadimiy Xorazmdagi Qavat qal’asiga
 - Samarqand (Afrosiyob) dagi somoniylar qasrining bir qismi bo‘lgan binoga
 - Termiz yaqinidagi Qirqqiz qal’asiga
@@ -4240,13 +4312,16 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **599. Somoniylar davrida Movarounnahrga qayerdan qimmatbaho mo‘ynalar, shamlar, cho‘qqi qalpoqlar keltirilgan?**
 
 - Mo‘g‘uliston va Sharqiy Turkistondan
-- Bulg‘or va Xazardan (to'g'ri)
++ Bulg‘or va Xazardan
 - Xitoy va Hindistondan
 - Sibir va Mo‘g‘ulistondan
 
 **600. Quyidagi rasmdagi idish qaysi sulola davriga oid?**
 
-- Somoniylar (to'g'ri)
+
+![](../images/astron4052295556374.png)
+
++ Somoniylar
 - G‘aznaviylar
 - Tohiriylar
 - Safforiylar
@@ -4255,7 +4330,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Xitoyga
 - Itil, Xazar va Bulg‘orga
-- Janubiy Sibir va Mo‘g‘ulistonga (to'g'ri)
++ Janubiy Sibir va Mo‘g‘ulistonga
 - Hindiston va Sibirga
 
 **602. Somoniylar davrida qaysi shaharda Turondagi ilk madrasa bunyod etilgan?**
@@ -4263,19 +4338,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Samarqandda
 - Termizda
 - Shoshda
-- Buxoroda (to'g'ri)
++ Buxoroda
 
 **603. Somoniylarda kumush tangalar faqat hukumat boshlig‘i nomidan qaysi hududlardagi davlat zarbxonalarida so‘qilar edi?**
 
 - Samarqand, Farg‘ona, Marv va Shosh
 - Termiz, Buxoro, Hirot va Shosh
-- Marv, Samarqand, Buxoro va Shosh (to'g'ri)
++ Marv, Samarqand, Buxoro va Shosh
 - Xorazm, Samarqand, Buxoro va Shosh
 
 **604. Somoniylar davrida Movarounnahrga qayerdan turli xildagi qimmatbaho mo‘ynalar, chorva mollari va chorvachilik mahsulotlari keltirilgan?**
 
 - Mo‘g‘ulistondan
-- Sibirdan (to'g'ri)
++ Sibirdan
 - Xitoydan
 - Bulg‘or va Xazardan
 
@@ -4284,18 +4359,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Jizya
 - Ushr
 - Zakot
-- Xiroj (to'g'ri)
++ Xiroj
 
 **606. Somoniylar davrida Xitoy bilan bo‘lgan savdoda qaysi mahsulotlar muhim o‘rin tutgan?**
 
 - Ipak mato, egar-jabduq va choy
 - Bo‘z, kiyim-kechak, tuz va ot
-- Choy, ipak mato, tuz va ot (to'g'ri)
++ Choy, ipak mato, tuz va ot
 - Chinni idishlar, tuz, teri va qurol
 
 **607. «Xonaqoh» qanday inshoot hisoblanadi?**
 
-- G‘aribxona, musofirxona (to'g'ri)
++ G‘aribxona, musofirxona
 - Tanga zarb qilinadigan muassasa
 - Qurol-yarog‘ ombori
 - Kitob va qo‘lyozmalar saqlanadigan bino
@@ -4305,12 +4380,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 6 000 qadamga
 - 8 000 qadamga
 - 10 000 qadamga
-- 12 000 qadamga (to'g'ri)
++ 12 000 qadamga
 
 **609. Somoniylar davrida Movarounnahr va Xorazmdan qayerga guruch, quruq mevalar, shirinliklar, tuzlangan baliq, paxta, shoyi matolar, movut, kimxob va gilamlar olib borib sotilgan?**
 
 - Mo‘g‘uliston va Sharqiy Turkistonga
-- Itil, Xazar va Bulg‘orga (to'g'ri)
++ Itil, Xazar va Bulg‘orga
 - Xitoy va Hindistonga
 - Sibir va Mo‘g‘ulistonga
 
@@ -4318,7 +4393,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Ibn Arabshox
 - Narshxiy
-- Istaxriy (to'g'ri)
++ Istaxriy
 - Ibn Battuta
 
 **611. VII–VIII asrlarda «cha» yoki «ming» deb nimaga aytilgan?**
@@ -4326,12 +4401,15 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Pul birligining nomlariga
 - Xitoy tangalariga
 - Zotdor otlarning turlariga
-- Xushbo‘y choy o‘simligiga (to'g'ri)
++ Xushbo‘y choy o‘simligiga
 
 **612. Quyidagi rasmdagi Qirqqiz qal’asi qayerda joylashgan?**
 
+
+![](../images/astron90996834459887.png)
+
 - Samarqand
-- Termiz (to'g'ri)
++ Termiz
 - Xorazm
 - Surxondaryo
 
@@ -4340,7 +4418,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - «Fulusi somoniy»
 - «Fals»
 - «Muhammadiy»
-- «Ismoiliy» (to'g'ri)
++ «Ismoiliy»
 
 ## 28-29-§ G‘aznaviylar.
 
@@ -4350,18 +4428,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - sarhang
 - sipoh
 - amir
-- hojib (to'g'ri)
++ hojib
 
 **615. G‘aznaviylar va Xorazm qo‘shinlari o‘rtasidagi jang qayerda bo‘lib o‘tgan?**
 
 - Kat yaqinida
 - Xiva yaqinida
 - Urganch yaqinida
-- Hazorasp yaqinida (to'g'ri)
++ Hazorasp yaqinida
 
 **616. Musulmon davlatlarida juma namozida hukmdor nomini aytib, uning haqiga duo o‘qish, olqishlash qanday atalgan?**
 
-- Xutba (to'g'ri)
++ Xutba
 - Hijrat
 - G‘oziy
 - G‘azot
@@ -4370,13 +4448,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Alptegin
 - Ma’sud G‘aznaviy
-- Sabuktegin (to'g'ri)
++ Sabuktegin
 - Mahmud G‘aznaviy
 
 **618. Qaysi g‘aznaviy hukmdor Abul Qosim ismli fors shoiriga «Firdavsiy» taxallusini bergan?**
 
 - Alptegin
-- Mahmud G‘aznaviy (to'g'ri)
++ Mahmud G‘aznaviy
 - Ma’sud G‘aznaviy
 - Sabuktegin
 
@@ -4385,18 +4463,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Alptegin
 - Sabuktegin
 - Ma’sud G‘aznaviy
-- Mahmud G‘aznaviy (to'g'ri)
++ Mahmud G‘aznaviy
 
 **620. Alptegin G‘azna va … viloyatlarini mustaqil idora etishga intilib, G‘aznaviylar davlat boshqaruvini qo‘lga oldgan.**
 
 - Hirot
 - Balx
 - Marv
-- Kobul (to'g'ri)
++ Kobul
 
 **621. G‘aznaviylar davlati qo‘shinida o‘rta darajadagi harbiy lashkarboshilar qanday atalgan?**
 
-- Sarhang (to'g'ri)
++ Sarhang
 - Hukmdor
 - Sipohsolor
 - Salor
@@ -4405,26 +4483,29 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Sarhang
 - Hukmdor
-- Sipohsolor (to'g'ri)
++ Sipohsolor
 - Salor
 
 **623. Qaysi yilda Mahmud kuyovi xorazmshoh Ma’mun ibn Ma’munga uyushtirilgan suiqasddan so‘ng shu yilning bahorida Xorazmga yurish qilgan?**
 
-- 1017-yilda (to'g'ri)
++ 1017-yilda
 - 1018-yilda
 - 1016-yilda
 - 1019-yilda
 
 **624. Qaysi mashhur shaxs G‘azna haqida gapirganda, bu shaharda hashamatli saroylar, madrasa va bozorlar ko‘pligini qayd etgan edi?**
 
-- Abu Rayhon Beruniy (to'g'ri)
++ Abu Rayhon Beruniy
 - Muhammad al-Xorazmiy
 - Abu Ali Ibn Sino
 - Mahmud az-Zamaxshariy
 
 **625. Suratdagi kimning haykali?**
 
-- Alptegin (to'g'ri)
+
+![](../images/astron35111111157031.png)
+
++ Alptegin
 - Mahmud G‘aznaviy
 - Sabuktegin
 - Ismoil Somoniy
@@ -4432,7 +4513,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **626. G‘aznaviylar davrida viloyat boshlig‘i – voliyni kim tayinlagan?**
 
 - Ulug‘ hojib
-- Oliy hukmdor (to'g'ri)
++ Oliy hukmdor
 - Kutvol
 - Devonbegi
 
@@ -4440,27 +4521,27 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Alpteginga
 - Ma’sud G‘aznaviyga
-- Sabukteginga (to'g'ri)
++ Sabukteginga
 - Mahmud G‘aznaviyga
 
 **628. G‘aznaviylar davlatida qo‘shinga oliy qo‘mondonlik kimning ixtiyorida bo‘lgan?**
 
 - Sarhang
-- Hukmdor (to'g'ri)
++ Hukmdor
 - Sipohsolor
 - Salor
 
 **629. Qaysi g‘aznaviy hukmdor saroyida Abulhasan Farruxiy, Abdulmajid Sanoiy, Unsuriy, Manuchehriy, Utbiy, Gardiziy, Bayhaqiy va shu singari shoir, tarixchilar faoliyat ko‘rsatishgan?**
 
 - Alptegin
-- Mahmud G‘aznaviy (to'g'ri)
++ Mahmud G‘aznaviy
 - Ma’sud G‘aznaviy
 - Sabuktegin
 
 **630. Qaysi yillarda qoraxoniylar Xurosonga bostirib kirganlar?**
 
 - 1010-1012-yillarda
-- 1006-1008-yillarda (to'g'ri)
++ 1006-1008-yillarda
 - 1008-1010-yillarda
 - 1004-1006-yillarda
 
@@ -4469,11 +4550,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Sipohdor
 - Davotdor
 - Martabador
-- Pardador (to'g'ri)
++ Pardador
 
 **632. G‘azna shahri qaysi sohaning qadimiy markazlaridan hisoblanadi?**
 
-- Metallsozlikning (to'g'ri)
++ Metallsozlikning
 - Qurolsozlikning
 - Kulolchilikning
 - Ko‘nchilikning
@@ -4483,18 +4564,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Alptegin
 - Ma’sud G‘aznaviy
 - Sabuktegin
-- Mahmud G‘aznaviy (to'g'ri)
++ Mahmud G‘aznaviy
 
 **634. Qaysi g‘aznaviy hukmdor sipohsolor mansabiga ukasi Muhammad Yusufni loyiq topgan?**
 
 - Alptegin
 - Ma’sud G‘aznaviy
 - Sabuktegin
-- Mahmud G‘aznaviy (to'g'ri)
++ Mahmud G‘aznaviy
 
 **635. Mahmud G‘aznaviy Erondagi qaysi hududlarni o‘z mulkiga qo‘shib olgan?**
 
-- Ray va Jilob (to'g'ri)
++ Ray va Jilob
 - Chag‘oniyon va Qobodiyon
 - Jilob va Taroz
 - Taroz va Xuttalon
@@ -4503,7 +4584,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Beruniy
 - Farruxiy
-- Masihiy (to'g'ri)
++ Masihiy
 - Sanoiy
 
 **637. Qaysi g‘aznaviy hukmdor G‘aznada ilk davlat madrasasini ochib, unga noyob qo‘lyozmalarni to‘platgan, bundan tashqari jome masjidi, ulkan suv to‘g‘oni va yana necha-necha inshootlar barpo еttirgan?**
@@ -4511,12 +4592,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Alptegin
 - Ma’sud G‘aznaviy
 - Sabuktegin
-- Mahmud G‘aznaviy (to'g'ri)
++ Mahmud G‘aznaviy
 
 **638. G‘aznaviylar davrida viloyatlardagi boshqaruv ishlarini olib borgan shaxs qanday atalgan?**
 
 - Rais
-- Amid (to'g'ri)
++ Amid
 - Voliy
 - Kutvol
 
@@ -4524,19 +4605,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Sarhang
 - Hukmdor
-- Sipohsolor (to'g'ri)
++ Sipohsolor
 - Salor
 
 **640. Mahmud G‘aznaviy qoraxoniylarga tegishli bo‘lgan qaysi hududlarni o‘z davlati tarkibiga kiritgan?**
 
 - Ray, Jilob, Taroz
-- Chag‘oniyon, Qobodiyon, Xuttalon (to'g'ri)
++ Chag‘oniyon, Qobodiyon, Xuttalon
 - Kobul, Marv, Balx
 - Taroz, Qobodiyon, Ray
 
 **641. G‘aznaviylar sulolasi nomi nimaning nomidan olingan?**
 
-- Saltanatning poytaxti G‘azna shahri nomidan (to'g'ri)
++ Saltanatning poytaxti G‘azna shahri nomidan
 - Saltanatning eng qudratli hukmdori Mahmud G‘aznaviy nomidan
 - Saltanatning oltin tangasi «g‘azna» nomidan
 - Saltanatning eng kuchli turkiy qabilasi g‘aznalar nomidan
@@ -4545,7 +4626,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 972-973 yillarda
 - 955-956-yillarda
-- 962-963-yillarda (to'g'ri)
++ 962-963-yillarda
 - 980-981-yillarda
 
 **643. Mahmud G‘aznaviy kimni siymosini qog‘ozga ko‘chirtirib, qanday qilib bo‘lmasin, uni topib keltirishga farmon bergan?**
@@ -4553,18 +4634,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Abu Rayhon Beruniy
 - Abulhasan Farruxiy
 - Abdulmajid Sanoiy
-- Abu Ali Ibn Sino (to'g'ri)
++ Abu Ali Ibn Sino
 
 **644. G‘aznaviylar davlati qo‘shinida yuqori darajadagi harbiy lashkarboshilar qanday atalgan?**
 
 - Sarhang
 - Hukmdor
 - Sipohsolor
-- Salor (to'g'ri)
++ Salor
 
 **645. Mahmud G‘aznaviy va Ray malikasi Sayida Xotun haqidagi ma’lumotlar qaysi tarixchi olim asarida keltirilgan?**
 
-- Akbar Zamonov, «O‘rta asr tarixiy shaxslari hayotining ayrim noma’lum sahifalari» (to'g'ri)
++ Akbar Zamonov, «O‘rta asr tarixiy shaxslari hayotining ayrim noma’lum sahifalari»
 - Olim Otaxonov, «O‘zbek davlatchiligi tarixi»
 - Sayfiddin Meliqo‘ziev, «O‘zbekiston xalqlari tarixi»
 - Jumaboy Rahimov, «Siyosiy tarixga doir monografiyalar»
@@ -4573,26 +4654,26 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Abu Rayhon Beruniy
 - Abulhasan Farruxiy
-- Abu Ali Ibn Sino (to'g'ri)
++ Abu Ali Ibn Sino
 - Abdulmajid Sanoiy
 
 **647. Kim asli Sirdaryo bo‘ylarida yashagan barsxon turkiy qabilasiga mansub bo‘lib, yoshligida asir olinib, so‘ngra qul qilib sotilgan edi?**
 
 - Alptegin
 - Samjuriy
-- Sabuktegin (to'g'ri)
++ Sabuktegin
 - Foyiq
 
 **648. Sayida Xotun Rayda necha yil davomida shahzoda Majdiddin Davlo bilan birga hukmronlik qilgan?**
 
 - 19 yil davomida
-- 29 yil davomida (to'g'ri)
++ 29 yil davomida
 - 22 yil davomida
 - 35 yil davomida
 
 **649. Somoniylar qo‘l ostida Alptegin qanday lavozimda ishlagan?**
 
-- Turkiy qo‘shin boshlig‘i (to'g'ri)
++ Turkiy qo‘shin boshlig‘i
 - Devon rahbari
 - Hukmdorning maslahatchisi
 - Din ulamolari hojibi
@@ -4602,18 +4683,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 1022-yilda
 - 1028-yilda
 - 1025-yilda
-- 1030-yilda (to'g'ri)
++ 1030-yilda
 
 **651. Mahmud G‘aznaviydan so‘ng bevosita hokimiyat ishlarini qo‘lga olgan Ali Qarib kim ismli shaxsning lavozimi nima bo‘lgan?**
 
 - Saroy hojibi
-- Ulug‘ hojib (to'g'ri)
++ Ulug‘ hojib
 - Hojib-jomador
 - Navbatchi hojib
 
 **652. Qaysi olim Mahmud G‘aznaviy vafotidan (1030) keyin ham G‘aznada to umrining oxirigacha, ya’ni 1048-yilga qadar yashab qolgan?**
 
-- Abu Rayhon Beruniy (to'g'ri)
++ Abu Rayhon Beruniy
 - Abulhasan Farruxiy
 - Abu Ali Ibn Sino
 - Abdulmajid Sanoiy
@@ -4621,7 +4702,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **653. Abul Qosim Firdavsiy Mahmud G‘aznaviy tomonidan G‘aznadan quvilgach qayerga yo‘l olgan?**
 
 - Rayga
-- Tusga (to'g'ri)
++ Tusga
 - Balxga
 - Nishopurga
 
@@ -4629,14 +4710,14 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 2, 4, 5, 6, 7
 - 2, 3, 4, 5, 6
-- 1, 2, 3, 4, 5 (to'g'ri)
++ 1, 2, 3, 4, 5
 - 1, 2, 3, 6, 7
 
 **655. G‘aznaviylarda qaysi lavozim nafaqat hojiblar orasida, balki butun mamlakat hayotida katta mavqega ega bo‘lgan?**
 
 - Saroy hojibi
 - Hojib-jomador
-- Ulug‘ hojib (to'g'ri)
++ Ulug‘ hojib
 - Navbatchi hojib
 
 **656. Qaysi g‘aznaviy hukmdor Ray viloyati malikasi Sayida Xotunga elchi jo‘natib, juma namozida o‘zining nomini xutbaga qo‘shib o‘qitishni, uning nomi bilan tanga pul chiqarilishini talab qilgan?**
@@ -4644,11 +4725,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Alptegin
 - Ma’sud G‘aznaviy
 - Sabuktegin
-- Mahmud G‘aznaviy (to'g'ri)
++ Mahmud G‘aznaviy
 
 **657. Qaysi sulola davrida xazinachi, joma xona va farrosh kabi mansab va xizmatlarning o‘rni katta bo‘lgan?**
 
-- G‘aznaviylar (to'g'ri)
++ G‘aznaviylar
 - Tohiriylar
 - Safforiylar
 - Somoniylar
@@ -4657,12 +4738,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Sobiq devonbegi
 - Sobiq amir ul-umaro
-- Sobiq bosh hojib (to'g'ri)
++ Sobiq bosh hojib
 - Sobiq rais us-shuaro
 
 **659. Qaysi hukmdor Xurosonni butkul Somoniylar davlatidan ajratib olgan va uning davrida G‘aznaviylar davlati Sharqning eng qudratli davlatlaridan biriga aylangan?**
 
-- Mahmud G‘aznaviy (to'g'ri)
++ Mahmud G‘aznaviy
 - Ma’sud G‘aznaviy
 - Sabuktegin
 - Alptegin
@@ -4671,19 +4752,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Sipohdor
 - Davotdor
-- Martabador (to'g'ri)
++ Martabador
 - Pardador
 
 **661. G‘aznaviylar davlati boshqaruv tizimining markazida qaysi muassasalar turgan?**
 
-- Dargoh va devonlar (vazirliklar) (to'g'ri)
++ Dargoh va devonlar (vazirliklar)
 - Kengash va devonlar (vazirliklar)
 - Majlis va devonlar (vazirliklar)
 - Qurultoy va devonlar (vazirliklar)
 
 **662. Sabuktegin qaysi yillarda hukmronlik qilgan?**
 
-- 977-997-yillarda (to'g'ri)
++ 977-997-yillarda
 - 971-991-yillarda
 - 962-982 yillarda
 - 966-986-yillarda
@@ -4692,7 +4773,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Kobul
 - Balx
-- G‘azna (to'g'ri)
++ G‘azna
 - Marv
 
 **664. Sabukteginning o‘g‘li bo‘lgan kimning davrida G‘aznaviylar davlati hududi kengaydi?**
@@ -4700,11 +4781,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Alptegin davrida
 - Ma’sud G‘aznaviy davrida
 - Alp Arslon davrida
-- Mahmud G‘aznaviy davrida (to'g'ri)
++ Mahmud G‘aznaviy davrida
 
 **665. G‘aznaviylar davlati boshqaruv tizimida qaysi muassasa faoliyatiga oliy hukmdor faoliyati bilan bog‘liq xizmatlar va amallar kirgan?**
 
-- Dargoh (to'g'ri)
++ Dargoh
 - Kengash
 - Majlis
 - Devon
@@ -4712,20 +4793,20 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **666. G‘aznaviylar davrida oliy hukmdorning hujjatlarini yurituvchi shaxs qanday atalgan?**
 
 - Sipohdor
-- Davotdor (to'g'ri)
++ Davotdor
 - Martabador
 - Pardador
 
 **667. Qaysi buyuk olim Xorazmdan G‘aznaga olib ketilgan?**
 
-- Abu Rayhon Beruniy (to'g'ri)
++ Abu Rayhon Beruniy
 - Muhammad al-Xorazmiy
 - Abu Ali Ibn Sino
 - Mahmud az-Zamaxshariy
 
 **668. Qaysi g‘aznaviy hukmdor turkiy, arab, fors tillarini mukammal bilgan, she’riyatdan xabardor bo‘lgan?**
 
-- Mahmud G‘aznaviy (to'g'ri)
++ Mahmud G‘aznaviy
 - Alptegin
 - Ma’sud G‘aznaviy
 - Sabuktegin
@@ -4735,25 +4816,25 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Anushtegin
 - Foyiq
 - Samjuriy
-- Oltuntosh (to'g'ri)
++ Oltuntosh
 
 **670. G‘aznaviylar siyosiy nufuzi kimning davrida ortib, somoniylar tomonidan e’tirof etilgan?**
 
 - Alptegin
 - Bahrom Chubin
-- Sabuktegin (to'g'ri)
++ Sabuktegin
 - Mahmud G‘aznaviy
 
 **671. Qul qilib sotib yuborilgan Sabukteginni kim o‘z qaramog‘iga olgan?**
 
-- Alptegin (to'g'ri)
++ Alptegin
 - Bahrom Chubin
 - El Arson
 - Ismoil Somoniy
 
 **672. Bag‘dod xalifasi qaysi g‘aznaviy hukmdorga «Yamin ud-davla va amin ul-milla» («Musulmon davlatining o‘ng qo‘li va millatning omonligi») degan faxriy unvon va Xuroson hokimligiga yorliq, bayroq va nog‘ora yuborgan?**
 
-- Mahmud G‘aznaviyga (to'g'ri)
++ Mahmud G‘aznaviyga
 - Ma’sud G‘aznaviyga
 - Sabukteginga
 - Alpteginga
@@ -4762,26 +4843,26 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Abul Qosim Davlo
 - Harsama Davlo
-- Faxriddin Davlo (to'g'ri)
++ Faxriddin Davlo
 - Majdiddin Davlo
 
 **674. G‘azna shahri … daryosi bo‘yida, Kobul-Qandahor avtomobil yo‘lida joylashgan.**
 
 - Panj
 - Tajan
-- G‘azni (to'g'ri)
++ G‘azni
 - Harirud
 
 **675. G‘aznaviylar davriga oid manbalarda nechta devonning nomi tilga olingan?**
 
 - 3 ta
 - 4 ta
-- 5 ta (to'g'ri)
++ 5 ta
 - 6 ta
 
 **676. G‘aznaviylar davrida … miqyosida kutvol, sohibi devon kabi amaldorlar faoliyat ko‘rsatganlar.**
 
-- shahar (to'g'ri)
++ shahar
 - saroy
 - mamlakat
 - viloyat
@@ -4789,20 +4870,20 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **677. G‘aznaviylar davrida qaysi mansab xizmatining o‘rni alohida e’tiborga loyiq bo’lgan?**
 
 - Sipohdorlik
-- Hojiblik (to'g'ri)
++ Hojiblik
 - Amirlik
 - Sarhanglik
 
 **678. G‘aznaviylarda qaysi lavozim egasi rasmiy marosimlar, turli tadbirlarda hukmdorga eng yaqin joyda turgan, janglarda ham unga qo‘shinning eng salmoqli va mas’uliyatli qismiga boshchilik qilish vazifasi yuklatilgan?**
 
 - Saroy hojibi
-- Ulug‘ hojib (to'g'ri)
++ Ulug‘ hojib
 - Hojib-jomador
 - Navbatchi hojib
 
 **679. G‘aznaviylar davrida saroy xizmatchisi qanday atalgan?**
 
-- Sipohdor (to'g'ri)
++ Sipohdor
 - Davotdor
 - Martabador
 - Pardador
@@ -4811,7 +4892,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Somoniylar
 - Tohiriylar
-- G‘aznaviylar (to'g'ri)
++ G‘aznaviylar
 - Safforiylar
 
 **681. Mahmud G‘aznaviy Rayga qo‘shin tortib, nechanchi yilda uni o‘z hukmronligiga o‘tkazgan?**
@@ -4819,11 +4900,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 1017-yilda
 - 1026-yilda
 - 1023-yilda
-- 1029-yilda (to'g'ri)
++ 1029-yilda
 
 **682. Quyidagi qaysi olimning eng sara asarlari G‘aznada dunyoga kelgan, sulton Mahmud bilan ko‘pgina yurishlarda ishtirok etgan, G‘aznada rasadxona ochib, shogirdlariga dars bergan va unumli ijod qilgan?**
 
-- Abu Rayhon Beruniy (to'g'ri)
++ Abu Rayhon Beruniy
 - Abulhasan Farruxiy
 - Abu Ali Ibn Sino
 - Abdulmajid Sanoiy
@@ -4831,13 +4912,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **683. Mahmud G‘aznaviy davrida valiahd Majdiddin Davloning hali voyaga yetmaganligi tufayli, qaysi hududini o‘g‘li nomidan Sayida Xotun idora qilib turgan edi?**
 
 - Nishopur
-- Ray (to'g'ri)
++ Ray
 - Balx
 - Marv
 
 **684. Qaysi shoir ijodi uchun munosib haq olmaganligini ro‘kach qilib, berilgan 60 000 kumush dirhamni aholiga tarqatish orqali hurmatsizlik ko‘rsatgach, Mahmud G‘aznaviy qattiq g‘azablangan va uni o‘limga hukm qilgan, ammo keyinchalik ko‘ngli yumshab, hukmni bekor qilgan va shoirning shahardan chiqib ketishiga ruxsat bergan?**
 
-- Firdavsiy (to'g'ri)
++ Firdavsiy
 - Gardiziy
 - Unsuriy
 - Manuchehriy
@@ -4845,7 +4926,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **685. G‘azna shahri qayerda joylashgan?**
 
 - Afg‘onistonning shimoli-sharqiy qismida
-- Afg‘onistonning janubi-sharqiy qismida (to'g'ri)
++ Afg‘onistonning janubi-sharqiy qismida
 - Afg‘onistonning shimoli-g‘arbiy qismida
 - Afg‘onistonning janubi-g‘arbiy qismida
 
@@ -4854,18 +4935,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Rais
 - Amid
 - Kutvol
-- Voliy (to'g'ri)
++ Voliy
 
 **687. Qaysi g‘aznaviy hukmdor otasining «Ma’naviy ulug‘vorlik bamisoli alanga va shamol, bularning harakat va parvoz xususiyati bor. Maishat еsa qiya yerdagi qum uyumiga o‘xshash. Uning tubanlikka surilish xosiyati bor», degan nasihatiga amal qilib, ilm-fan sohasiga katta e’tibor qaratgan?**
 
 - Alptegin
-- Mahmud G‘aznaviy (to'g'ri)
++ Mahmud G‘aznaviy
 - Ma’sud G‘aznaviy
 - Sabuktegin
 
 **688. G‘aznaviylar davrida shahar boshlig‘i qanday atalgan?**
 
-- Rais (to'g'ri)
++ Rais
 - Amid
 - Voliy
 - Kutvol
@@ -4878,19 +4959,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Alptegin
 - Sabuktegin
 - Ma’sud G‘aznaviy
-- Mahmud G‘aznaviy (to'g'ri)
++ Mahmud G‘aznaviy
 
 **690. Qoraxoniylar davrida oltin, neft, feruza, temir konlari qayerda bo‘lgan?**
 
 - Farg‘onada
 - Nurota tog‘larida
 - Ohangaron atrofi (Qoramozor) da
-- Buxoro va Ustrushonada (to'g'ri)
++ Buxoro va Ustrushonada
 
 **691. Qaysi davr davomidagi sa’y-harakatlar natijasida qoraxoniylar sharqiy yo‘nalishda Balxash ko‘li — Cherchen daryosigacha (Sharqiy Turkiston) bo‘lgan yerlarni bo‘ysundirishga muvaffaq bo‘lishgan?**
 
 - X asrning birinchi yarmidagi
-- X asrning ikkinchi yarmidagi (to'g'ri)
++ X asrning ikkinchi yarmidagi
 - XI asrning birinchi yarmidagi
 - XI asrning ikkinchi yarmidagi
 
@@ -4899,32 +4980,32 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Biruk
 - Ag‘ichi
 - Oshchi
-- Qushchi (to'g'ri)
++ Qushchi
 
 **693. Yettisuv viloyatida yuksalishni boshlagan qaysi davlat janub, g‘arb yo‘nalishlarida o‘z hukmronlik doiralarini kengaytirib borganlar va buning natijasida Cherchen daryosidan Xorazmgacha bo‘lgan hududni boshqargan?**
 
 - G‘aznaviylar
 - Qoraxitoylar
 - Saljuqiylar
-- Qoraxoniylar (to'g'ri)
++ Qoraxoniylar
 
 **694. Qoraxoniylar davlatida viloyat (mulk) larni kimlar boshqargan?**
 
 - Yabg‘u
-- Takin (to'g'ri)
++ Takin
 - Hojib
 - Shod
 
 **695. Qaysi viloyatda yuksalishni boshlagan qoraxoniylar janub, g‘arb yo‘nalishlarida o‘z hukmronlik doiralarini kengaytirib borganlar va buning natijasida Cherchen daryosidan Xorazmgacha bo‘lgan hududni boshqarganlar?**
 
-- Yettisuvda (to'g'ri)
++ Yettisuvda
 - Sharqiy Turkistonda
 - Qoshg‘arda
 - Janubiy Sibirda
 
 **696. Isfijob (Sayram) hokimi Bilgakulning qanday laqabi bo‘lgan?**
 
-- «Qora» (to'g'ri)
++ «Qora»
 - «Buyuk»
 - «Qudratli»
 - «Adolatli»
@@ -4933,14 +5014,14 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 100 yilga yaqin
 - 150 yilga yaqin
-- 200 yilga yaqin (to'g'ri)
++ 200 yilga yaqin
 - 250 yilga yaqin
 
 **698. Qoraxoniylar davrida tuya yo qo‘y yungidan to‘qilgan issiq kiyim qanday atalgan?**
 
 - Izlik
 - Ichuq
-- Qars (to'g'ri)
++ Qars
 - Ag‘cha
 
 **699. Quyidagi qaysi davlatda siyosiy markaz sifatida o‘z tarixiy makonlaridagi katta shaharlardan bo‘lmish Bolasog‘un va nisbatan undan uzoqda bo‘lmagan Qoshg‘ar tanlangan?**
@@ -4948,27 +5029,27 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - G‘aznaviylarda
 - Qoraxitoylarda
 - Saljuqiylarda
-- Qoraxoniylarda (to'g'ri)
++ Qoraxoniylarda
 
 **700. Qoraxoniylar davrida qurilgan Minorai kalon qayerda joylashgan?**
 
 - Termizda
 - Surxondaryoda
 - Navoiyda
-- Buxoroda (to'g'ri)
++ Buxoroda
 
 **701. Qoraxoniy hukmdor Ibrohim Nasr qayerda bunyod etilgan madrasa majmuyini ta’minlash uchun uch mehmonxona, bir karvonsaroy, bir erkaklar hammomi, suv ayirgich, uzumzor, bir qancha ekin yerlari va boshqalardan keladigan daromadni vaqf qilib bergan?**
 
 - Marvda
 - Buxoroda
-- Samarqandda (to'g'ri)
++ Samarqandda
 - Tarozda
 
 **702. Qoraxoniylar davlatida oshxona mutasaddisi qanday atalgan?**
 
 - Biruk
 - Ag‘ichi
-- Oshchi (to'g'ri)
++ Oshchi
 - Qushchi
 
 **703. Mahmud Qoshg‘ariyning «Devonu lug‘otit-turk» asarida berilgan dunyo xaritasi markazida qaysi hudud tasvirlangan?**
@@ -4976,46 +5057,46 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Movarounnahr va Xuroson
 - Eron va Suriya
 - Oltoy va Qoshg‘ar
-- Yettisuv va Sharqiy Turkiston (to'g'ri)
++ Yettisuv va Sharqiy Turkiston
 
 **704. Qoraxoniylar davlatida qaysi lavozimdagi shaxslarga bilimli, o‘quvli, yetuk, sheryurak, ko‘zi to‘q, uyat-andishali bo‘lish, astronomiya, matematika, geodeziya ilmlarini mukammal bilish, shaxmat va nardni raqiblaridan ustun darajada o‘ynash, harbiy san’atda benazir bo‘lish va hech qachon may ichmaslik, so‘z, iboralarning to‘g‘ri va ko‘chma ma’nolarini puxta bilish talabi qo‘yilgan?**
 
 - Devonbegilarga
 - Shayx ul-islomlarga
-- Elchilarga (to'g'ri)
++ Elchilarga
 - Hojiblarga
 
 **705. Qoraxoniylar davrida … Minorai kalon, qator masjidlar, … Jarqo‘rg‘on minorasi, … masjid va minora, … maqbaralar, minora, masjidlar, … madrasalar bunyod etilgan.**
 
 - Buxoroda/ Vobkentda/ Surxondaryoda/ Samarqandda/ O‘zganda
 - Samarqandda/ Vobkentda/ Surxondaryoda/ O‘zganda/ Buxoroda
-- Buxoroda/ Surxondaryoda/ Vobkentda/ O‘zganda/ Samarqandda (to'g'ri)
++ Buxoroda/ Surxondaryoda/ Vobkentda/ O‘zganda/ Samarqandda
 - Samarqandda/ Surxondaryoda/ Vobkentda/ O‘zganda/ Buxoroda
 
 **706. «Bu kitobni tartib beruvchi Bolasog‘unda tug‘ilgan, sabr-qanoatli kishidir. Ammo bu kitobni Qoshg‘arda tugal qilib, Mashriq maliki Tavg‘achxon dargohiga keltiribdir. Malik uni yorlaqab, ulug‘lab, o‘z saroyida Xos Hojiblik lavozimini beribdi». Quyidagi jumlalar kim va qaysi asar haqida?**
 
 - Mahmud Qoshg‘ariy «Devonu lug‘otit-turk» asari
-- Yusuf Xos Hojib «Qutadg‘u bilig» asari (to'g'ri)
++ Yusuf Xos Hojib «Qutadg‘u bilig» asari
 - Sharafiddin Ali Yazdiy «Zafarnoma» asari
 - Kaykovus «Qobusnoma» asari
 
 **707. X asr oxirida Somoniylar davlati o‘rniga nechta yangi davlat vujudga kelgan?**
 
-- 2 ta (to'g'ri)
++ 2 ta
 - 3 ta
 - 4 ta
 - 5 ta
 
 **708. G‘arbiy qoraxoniy xoqonligida shahar boshlig‘i qanday atalgan?**
 
-- Rais (to'g'ri)
++ Rais
 - Hokim
 - Voliy
 - Kutvol
 
 **709. X asr ikkinchi yarmi davomidagi sa’y-harakatlar natijasida qoraxoniylar qaysi yo‘nalishda Balxash ko‘li — Cherchen daryosigacha (Sharqiy Turkiston) bo‘lgan yerlarni bo‘ysundirishga muvaffaq bo‘lishgan?**
 
-- Sharqiy yo‘nalishda (to'g'ri)
++ Sharqiy yo‘nalishda
 - G‘arbiy yo‘nalishda
 - Shimoliy yo‘nalishda
 - Janubiy yo‘nalishda
@@ -5025,11 +5106,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - G‘aznaviylar
 - Somoniylar
 - Saljuqiylar
-- Qoraxoniylar (to'g'ri)
++ Qoraxoniylar
 
 **711. Qachon qoraxoniylarning Movarounnahrda to‘liq hukmronligi qaror topgan?**
 
-- X asrning 40-yillarida (to'g'ri)
++ X asrning 40-yillarida
 - X asrning 50-yillarida
 - X asrning 60-yillarida
 - X asrning 70-yillarida
@@ -5039,18 +5120,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Sibir va Oltoyda
 - Qoshg‘ar va Sharqiy Turkistonda
 - Yettisuv va Sharqiy Turkistonda
-- Yettisuv va Qoshg‘arda (to'g'ri)
++ Yettisuv va Qoshg‘arda
 
 **713. Yusuf Xos Hojib «Qutadg‘u bilig» asarini qayerda yozib tugatgan?**
 
-- Qoshg‘arda (to'g'ri)
++ Qoshg‘arda
 - Bolasog‘unda
 - Yettisuvda
 - Tarozda
 
 **714. Qoraxoniylar somoniylarning o‘rnini olishlari bilan … . 1) Harbiylashgan boshqaruv tizimi joriy qilingan; 2) Markazlashgan davlat tizimiga zarba berilgan; 3) Boshqaruvda mulkchilik shakli joriy qilingan; 4) Qo‘l ostidagi viloyatlarni sulola namoyandalariga bo‘lib berish joriy qilingan.**
 
-- 2, 3, 4 (to'g'ri)
++ 2, 3, 4
 - 1, 3, 4
 - 1, 2, 4
 - 1, 2, 3
@@ -5058,20 +5139,20 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **715. Qoraxoniylar davlatida tashqi siyosat bilan shug‘ullanuvchi mansabdorlarga, xususan, elchilar oldiga qo‘yilgan talablar kimning qaysi asarida keltirilgan?**
 
 - Mahmud Qoshg‘ariy, «Devonu lug‘otit-turk»
-- Yusuf Xos Hojib, «Qutadg‘u bilig» (to'g'ri)
++ Yusuf Xos Hojib, «Qutadg‘u bilig»
 - Sharafiddin Ali Yazdiy, «Zafarnoma»
 - Kaykovus, «Qobusnoma»
 
 **716. Qoraxoniylar davlatida xazinachi qanday atalgan?**
 
 - Biruk
-- Ag‘ichi (to'g'ri)
++ Ag‘ichi
 - Oshchi
 - Qushchi
 
 **717. Qoraxoniylar davlatida markazdagi boshqaruv tizimi qanday idoralardan iborat bo‘lgan?**
 
-- Dargoh va devonlardan (to'g'ri)
++ Dargoh va devonlardan
 - Kengash va dargohlardan
 - Dargoh va majlislardan
 - Mahkama va majlislardan
@@ -5080,19 +5161,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - XI asrning birinchi choragida
 - XI asrning ikkinchi choragida
-- XI asrning uchinchi choragida (to'g'ri)
++ XI asrning uchinchi choragida
 - XI asrning to‘rtinchi choragida
 
 **719. Qachon Yettisuv va Qoshg‘arda yashovchi qarluq, chig‘il, yag‘mo kabi turkiy qabilalar o‘zlarining kuchli davlatlarini tuzishga muvaffaq bo‘lgan edilar?**
 
 - X asrning birinchi yarmiga kelib
-- X asrning ikkinchi yarmiga kelib (to'g'ri)
++ X asrning ikkinchi yarmiga kelib
 - XI asrning birinchi yarmiga kelib
 - XI asrning ikkinchi yarmiga kelib
 
 **720. Qaysi hududda hokimiyatga qarshi ko‘tarilgan isyonlar, toj-u taxt uchun uzluksiz olib borilgan kurashlar Somoniylar davlati inqirozini yaqinlashtirgan edi?**
 
-- Xurosonda (to'g'ri)
++ Xurosonda
 - Movarounnahrda
 - Cha‘goniyonda
 - Xorazmda
@@ -5100,14 +5181,14 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **721. Qadimgi turkiylarda qaysi atama xoqon vorisi, valiahdiga nisbatan qo‘llanilib, keyinchalik harbiy lashkarboshilar unvoni sifatida ham ishlatilgan?**
 
 - «Yabg‘u» (jabg‘u)
-- «Takin» (tegin) (to'g'ri)
++ «Takin» (tegin)
 - «Hojib» (buzruk)
 - «Xon» (xoqon)
 
 **722. Qoraxoniylar davrida olmaxon, sobol va boshqa hayvonlar terisidan ishlangan po‘stin qanday atalgan?**
 
 - Izlik
-- Ichuq (to'g'ri)
++ Ichuq
 - Qars
 - Ag‘cha
 
@@ -5115,19 +5196,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Farg‘onada
 - Nurota tog‘larida
-- Ohangaron atrofi (Qoramozor) da (to'g'ri)
++ Ohangaron atrofi (Qoramozor) da
 - Buxoro va Ustrushonada
 
 **724. Qachon qoraxoniy Ibrohim Nasr Samarqanddagi bir shifoxona ixtiyoriga butun imoratlari, rastalari bilan ikki karvonsaroyni in’om-hadya (vaqf) etgan?**
 
 - 1060-yilda
 - 1056-yilda
-- 1066-yilda (to'g'ri)
++ 1066-yilda
 - 1068-yilda
 
 **725. Qoraxoniylar davrida oltin, simob, kumush, temir, mis, feruza, navshadil, neft, kuporos, qatron konlari qayerda bo‘lgan?**
 
-- Farg‘onada (to'g'ri)
++ Farg‘onada
 - Nurota tog‘larida
 - Ohangaron atrofi (Qoramozor) da
 - Buxoro va Ustrushonada
@@ -5136,7 +5217,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Balxash ko‘li — Cherchen daryosigacha (Sharqiy Turkiston) bo‘lgan yerlar
 - Isfijob, O‘zgand, Murg‘ob daryosi quyi oqimlarigacha bo‘lgan yerlar
-- Termiz, Qabodiyon, Xuttalon kabi Amudaryodan shimoldagi yerlar (to'g'ri)
++ Termiz, Qabodiyon, Xuttalon kabi Amudaryodan shimoldagi yerlar
 - Taroz va Sirdaryoning quyi oqimigacha bo‘lgan yerlar
 
 **727. Yusuf Xos Hojib va Mahmud Qoshg‘ariyga qoraxoniylar tomonidan qanday unvon berilgan?**
@@ -5144,18 +5225,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - «Buyuk hojib»
 - «Qutlug‘ hojib»
 - «Ulug‘ hojib»
-- «Xos hojib» (to'g'ri)
++ «Xos hojib»
 
 **728. Qoraxoniylar davlat boshqaruvi haqidagi to‘g‘ri javobni toping. 1) Davlatni odatda «qoraxon» unvoni bilan ulug‘langan «buyuk xon» boshqargan; 2) Xonlik taxtiga merosiy udum asosida otadan keyin o‘g‘il yoki aka-ukasi kabi yaqin kishisi o‘tirgan; 3) Xonlar «qoraxon» unvoni bilan birga, tavg‘achxon, arslonxon, bug‘roxon kabi faxriy unvonlar bilan ham ulug‘langan.**
 
 - 1, 2
-- 1, 3 (to'g'ri)
++ 1, 3
 - 2, 3
 - 1, 2, 3
 
 **729. Qoraxoniylar Movarounnahrni boshqarishda qanday usuldan foydalanishgan?**
 
-- Qo‘l ostidagi viloyatlarni sulola namoyandalariga bo‘lib berishgan (to'g'ri)
++ Qo‘l ostidagi viloyatlarni sulola namoyandalariga bo‘lib berishgan
 - Mahalliy amaldorlar xizmatidan foydalanishgan
 - Mulklarni oldingi egalarida qoldirib, faqat soliq yig‘ish bilan shug‘ullanishgan
 - Xorijiy, asosan, sosoniylar amaldorlari xizmatidan foydalanishgan
@@ -5163,14 +5244,14 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **730. Qoraxoniylar 1005-yilda qaysi hududlarni o‘z tasarruflariga kiritganlar?**
 
 - Taroz va Sirdaryoning quyi oqimigacha
-- Buxoro, Samarqand va Amudaryogacha (to'g'ri)
++ Buxoro, Samarqand va Amudaryogacha
 - Isfijob, O‘zgand, Murg‘ob daryosi quyi oqimlarigacha
 - Balxash ko‘li — Cherchen daryosigacha (Sharqiy Turkiston)
 
 **731. Tarixchilar qoraxoniylarning nomi kimga nisbatan «qoraxon» deyilsa kerak, deb taxmin qiladilar?**
 
 - Ibrohim Nasr
-- Bilgakul (to'g'ri)
++ Bilgakul
 - Sotuq Bug‘roxon
 - Qutlugʻ Eltarish
 
@@ -5178,19 +5259,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Biruk
 - Ag‘ichi
-- Haylboshi (to'g'ri)
++ Haylboshi
 - Chovush
 
 **733. X asr oxirida qaysi davlatning hududi Qoshg‘ardan Amudaryogacha cho’zilgan edi?**
 
 - Qoraxitoylar
 - Somoniylar
-- Qoraxoniylar (to'g'ri)
++ Qoraxoniylar
 - G‘aznaviylar
 
 **734. Quyidagi qaysi asar XI asrda yozilgan bo‘lib, qoraxoniylar davri tili morfologiyasi, fonetikasi, leksikasi, etimologiyasini o‘rganishda muhim manba hisoblanadi?**
 
-- Mahmud Qoshg‘ariyning «Devonu lug‘otit-turk» asari (to'g'ri)
++ Mahmud Qoshg‘ariyning «Devonu lug‘otit-turk» asari
 - Yusuf Xos Hojibning «Qutadg‘u bilig» asari
 - Sharafiddin Ali Yazdiyning «Zafarnoma» asari
 - Kaykovusning «Qobusnoma» asari
@@ -5200,32 +5281,35 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Taroz va Sirdaryoning quyi oqimigacha
 - Buxoro, Samarqand va Amudaryogacha
 - Isfijob, O‘zgand, Murg‘ob daryosi quyi oqimlarigacha
-- Balxash ko‘li — Cherchen daryosigacha (Sharqiy Turkiston) (to'g'ri)
++ Balxash ko‘li — Cherchen daryosigacha (Sharqiy Turkiston)
 
 **736. Qoraxoniylar do‘stona munosabatlar o‘rnatish tarafdori ekanligini bildirib, qo‘shnisi bo‘lgan qaysi davlat bilan elchilik aloqalarini o‘rnatgan, ammo bunday munosabatlar uzoqqa cho‘zilmagan?**
 
-- G‘aznaviylar bilan (to'g'ri)
++ G‘aznaviylar bilan
 - Somoniylar bilan
 - Saljuqiylar bilan
 - Sosoniylar bilan
 
 **737. Quyidagi suratdagi qoraxoniylar davrida qurilgan Jarqo‘rg‘on minorasi qayerda joylashgan?**
 
+
+![](../images/astron81171447869863.png)
+
 - Navoiyda
-- Surxondaryoda (to'g'ri)
++ Surxondaryoda
 - Termizda
 - Buxoroda
 
 **738. Qoraxoniylar davlatida markazdagi boshqaruv tizimi nechta idoradan iborat bo‘lgan?**
 
 - 1 ta
-- 2 ta (to'g'ri)
++ 2 ta
 - 3 ta
 - 4 ta
 
 **739. G‘arbiy qoraxoniylar davlatiga qaysi hududlar kirgan?**
 
-- Samarqand, Buxoro, Xuttalon, Chag‘oniyon, Choch-Iloq (to'g'ri)
++ Samarqand, Buxoro, Xuttalon, Chag‘oniyon, Choch-Iloq
 - Taroz, Qoshg‘ar, Sirdaryoning quyi oqimi
 - Yettisuv, Sharqiy Turkiston
 - Isfijob, O‘zgan, Murg‘ob vohasi
@@ -5233,7 +5317,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **740. Qoraxoniylar davlatida siyosiy markaz sifatida o‘z tarixiy makonlaridagi katta shaharlardan bo‘lmish … va nisbatan undan uzoqda bo‘lmagan … tanlangan.**
 
 - Taroz/Qoshg‘ar
-- Bolasog‘un/Qoshg‘ar (to'g'ri)
++ Bolasog‘un/Qoshg‘ar
 - Sayram/Bolasog‘un
 - Isfijob/Taroz
 
@@ -5241,12 +5325,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Qoshg‘arda
 - Yettisuvda
-- Bolasog‘unda (to'g'ri)
++ Bolasog‘unda
 - Tarozda
 
 **742. Qaysi qoraxoniy hukmdor Samarqandda bunyod etilgan madrasa majmuyini ta’minlash uchun uch mehmonxona, bir karvonsaroy, bir erkaklar hammomi, suv ayirgich, uzumzor, bir qancha ekin yerlari va boshqalardan keladigan daromadni vaqf qilib bergan?**
 
-- Ibrohim Nasr (to'g'ri)
++ Ibrohim Nasr
 - Bilgakul
 - Sotuq Bug‘roxon
 - Qutlugʻ Eltarish
@@ -5254,13 +5338,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **743. Qachon Somoniylar davlati o‘rniga ikkita yangi davlat: Qoraxoniylar va G‘aznaviylar davlati vujudga kelgan?**
 
 - X asr boshida
-- X asr oxirida (to'g'ri)
++ X asr oxirida
 - XI asr boshida
 - XI asr oxirida
 
 **744. Qoraxoniylar davlatida taxtga kim o‘tirgan?**
 
-- Og‘a-inichilik udumi asosida sulolaning eng yoshi ulug‘ kishisi o‘tirgan (to'g'ri)
++ Og‘a-inichilik udumi asosida sulolaning eng yoshi ulug‘ kishisi o‘tirgan
 - Merosiy udum asosida otadan keyin o‘g‘il yoki aka-ukasi kabi yaqin kishisi o‘tirgan
 - Qabilalar kengashida saylangan eng kuchli urug‘ vakili o‘tirgan
 - Dargoh yig‘ilishida saylangan eng munosib, qudratli va bilimga ega kishi o‘tirgan
@@ -5270,25 +5354,25 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Qoraxitoylar
 - Somoniylar
 - Qoraxoniylar
-- G‘aznaviylar (to'g'ri)
++ G‘aznaviylar
 
 **746. Qoraxoniylar quyidagi somoniylarning qaysi mulklarini egallashga muvaffaq bo‘lishgan? 1) Xorazm; 2) Farg‘ona; 3) Isfijob; 4) Badaxshon; 5) Samarqand; 6) Buxoro.**
 
 - 1, 3, 4, 5
 - 2, 3, 4, 5
-- 2, 3, 5, 6 (to'g'ri)
++ 2, 3, 5, 6
 - 1, 2, 3, 4
 
 **747. Ismoil Somoniy Tarozni egallaganidan so‘ng turkiy qabilalar qayerga chekinishga majbur bo‘lishgan?**
 
 - Isfijob (Sayram)
 - Turkiston
-- G‘arbiy Qoshg‘ar (to'g'ri)
++ G‘arbiy Qoshg‘ar
 - Sharqiy Qoshg‘ar
 
 **748. Qaysi qoraxoniy hukmdor 1066-yili Samarqanddagi bir shifoxona ixtiyoriga butun imoratlari, rastalari bilan ikki karvonsaroyni in’om-hadya (vaqf) etgan?**
 
-- Ibrohim Nasr (to'g'ri)
++ Ibrohim Nasr
 - Bilgakul
 - Sotuq Bug‘roxon
 - Qutlugʻ Eltarish
@@ -5296,14 +5380,14 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **749. Qoraxoniylar davrida Movarounnahrda qancha hunarmandchilik sohasi rivojlanib borgan?**
 
 - Yigirmadan ortiq
-- O‘ttizdan ortiq (to'g'ri)
++ O‘ttizdan ortiq
 - Qirqdan ortiq
 - Ellikdan ortiq
 
 **750. G‘arbiy qoraxoniy xoqonligida qaysi davlat davrida mavjud bo‘lgan boshqaruv tizimi saqlanib qolgan edi?**
 
 - G‘aznaviylar
-- Somoniylar (to'g'ri)
++ Somoniylar
 - Saljuqiylar
 - Tohiriylar
 
@@ -5311,14 +5395,17 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Safforiylar
 - Tohiriylar
-- Somoniylar (to'g'ri)
++ Somoniylar
 - G‘aznaviylar
 
 **752. Quyidagi suratdagi qoraxoniylar davriga oid Raboti Malik karvonsaroyi qayerda joylashgan?**
 
+
+![](../images/astron8133406350915.png)
+
 - Samarqand shahri yaqinida
 - Buxoro shahri yaqinida
-- Navoiy shahri yaqinida (to'g'ri)
++ Navoiy shahri yaqinida
 - Turkiston shahri yaqinida
 
 **753. Yusuf Xos Hojib «Qutadg‘u bilig» asarini tugatib, qaysi hukmdor dargohiga keltirgan?**
@@ -5326,19 +5413,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Bilgakul xoqon
 - Sotuq Bug‘roxon
 - Qutlugʻ Eltarish
-- Tavg‘achxon (to'g'ri)
++ Tavg‘achxon
 
 **754. Qoraxoniylar davlatida kichik zobitlar qanday atalgan?**
 
 - Biruk
 - Ag‘ichi
 - Haylboshi
-- Chovush (to'g'ri)
++ Chovush
 
 **755. X asr ikkinchi yarmi davomida qoraxoniylar qaysi yo‘nalishda Isfijob, O‘zgand, Murg‘ob daryosi quyi oqimlarigacha bo‘lgan hududlarni o‘z ta’sir doiralariga kiritib olganlar?**
 
 - Sharqiy yo‘nalishda
-- G‘arbiy yo‘nalishda (to'g'ri)
++ G‘arbiy yo‘nalishda
 - Shimoliy yo‘nalishda
 - Janubiy yo‘nalishda
 
@@ -5347,32 +5434,32 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Isfijob (Sayram)
 - Turkiston
 - Sharqiy Qoshg‘ar
-- Taroz (to'g'ri)
++ Taroz
 
 **757. «Qutadg‘u bilig» asari uchun qaysi hukmdor muallifga o‘z saroyida Xos Hojiblik lavozimini bergan va uning nomi Yusuf Ulug‘ Xos Hojib deb mashhur bo‘lgan?**
 
 - Bilgakul xoqon
 - Sotuq Bug‘roxon
 - Qutlugʻ Eltarish
-- Tavg‘achxon (to'g'ri)
++ Tavg‘achxon
 
 **758. X asr oxirida Somoniylar davlati qaysi yangi ikkita davlatga ajralgan?**
 
 - G‘aznaviylar va Tohiriylar
 - Qoraxitoylar va G‘aznaviylar
 - Qoraxoniylar va Qoraxitoylar
-- Qoraxoniylar va G‘aznaviylar (to'g'ri)
++ Qoraxoniylar va G‘aznaviylar
 
 **759. Qachon qoraxoniylar Buxoro, Samarqand va Amudaryogacha bo‘lgan hududlarni o‘z tasarruflariga kiritganlar?**
 
 - 1003-yilda
 - 1007-yilda
 - 1012-yilda
-- 1005-yilda (to'g'ri)
++ 1005-yilda
 
 **760. Qoraxoniylar davlatida mehmonlarni qabul qilish xizmati boshlig‘i qanday atalgan?**
 
-- Biruk (to'g'ri)
++ Biruk
 - Ag‘ichi
 - Oshchi
 - Qushchi
@@ -5380,13 +5467,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **761. Qoraxoniylar davrida oltin, mis, qo‘rg‘oshin, simob, marmar konlari qayerda bo‘lgan?**
 
 - Farg‘onada
-- Nurota tog‘larida (to'g'ri)
++ Nurota tog‘larida
 - Ohangaron atrofi (Qoramozor) da
 - Buxoro va Ustrushonada
 
 **762. Qoraxoniylar davrida charmdan ishlangan oyoq kiyimlari qanday atalgan?**
 
-- Izlik (to'g'ri)
++ Izlik
 - Qars
 - Ichuq
 - Ag‘cha
@@ -5395,27 +5482,27 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 1, 2, 3
 - 1, 3, 4
-- 1, 2, 4 (to'g'ri)
++ 1, 2, 4
 - 2, 3, 4
 
 **764. G‘arbiy qoraxoniy xoqonligida viloyat boshliqlari qanday atalgan?**
 
 - Rais
-- Hokim (to'g'ri)
++ Hokim
 - Voliy
 - Kutvol
 
 **765. Qachon ichki ziddiyatlarning kuchayishi va keskinlashuvi natijasida Somoniylar davlati kuchsizlana boshlagan?**
 
 - X asrning birinchi yarmiga kelib
-- X asrning ikkinchi yarmiga kelib (to'g'ri)
++ X asrning ikkinchi yarmiga kelib
 - XI asrning birinchi yarmiga kelib
 - XI asrning ikkinchi yarmiga kelib
 
 **766. Cherchen daryosi qaysi hududda joylashgan?**
 
 - Janubiy Yettisuvda
-- Sharqiy Turkistonda (to'g'ri)
++ Sharqiy Turkistonda
 - G‘arbiy Qoshg‘arda
 - Shimoliy Qoshg‘arda
 
@@ -5423,7 +5510,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Samarqand, Buxoro, Xuttalon, Chag‘oniyon, Choch-Iloq
 - Taroz, Qoshg‘ar, Sirdaryoning quyi oqimi
-- Yettisuv, Sharqiy Turkiston (to'g'ri)
++ Yettisuv, Sharqiy Turkiston
 - Isfijob, O‘zgan, Murg‘ob vohasi
 
 **768. Qaysi hududni egallab bo‘lgandan so‘ng, qoraxoniylar Somoniylar davlati tarkibida bo‘lgan Movarounnahrga ham harbiy yurishlar uyushtirganlar?**
@@ -5431,11 +5518,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Yettisuv va Uyg‘urlar yurtini
 - Tyan-Shan va Qoshg‘arni
 - Sharqiy Turkiston va Yettisuvni
-- Tyan-Shan va Yettisuvni (to'g'ri)
++ Tyan-Shan va Yettisuvni
 
 **769. Qoraxoniylar davlatida somoniylardan farqli ravishda kimlar, asosan, oliy hukmdor, viloyat hokimlarining davlat va raiyat ishlari bo‘yicha eng yaqin maslahatchilari hisoblanganlar?**
 
-- Hojiblar (to'g'ri)
++ Hojiblar
 - Raislar
 - Voliylar
 - Kutvollar
@@ -5444,40 +5531,46 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 1003-yilda
 - 1007-yilda
-- 1008-yilda (to'g'ri)
++ 1008-yilda
 - 1005-yilda
 
 **771. Quyidagi suratdagi Samarqandda joylashgan qoraxoniylar sulolasi qarorgohi xarobalari qaysi asrlarga oid?**
 
+
+![](../images/astron69311770179373.png)
+
 - IX-X asrlarga
 - X-XI asrlarga
-- XI-XII asrlarga (to'g'ri)
++ XI-XII asrlarga
 - XII-XIII asrlarga
 
 **772. Qoraxoniy Ibrohim Nasr 1066-yili qayerdagi bir shifoxona ixtiyoriga butun imoratlari, rastalari bilan ikki karvonsaroyni in’om-hadya (vaqf) etgan?**
 
 - Marvdagi
 - Buxorodagi
-- Samarqanddagi (to'g'ri)
++ Samarqanddagi
 - Tarozdagi
 
 **773. X asr ikkinchi yarmi davomida qoraxoniylar g‘arbiy yo‘nalishda qaysi hududlarni o‘z ta’sir doiralariga kiritib olganlar?**
 
 - Taroz va Sirdaryoning quyi oqimigacha
 - Buxoro, Samarqand va Amudaryogacha
-- Isfijob, O‘zgand, Murg‘ob daryosi quyi oqimlarigacha (to'g'ri)
++ Isfijob, O‘zgand, Murg‘ob daryosi quyi oqimlarigacha
 - Balxash ko‘li — Cherchen daryosigacha (Sharqiy Turkiston)
 
 **774. Kimning hukmronligi davrida Qoraxoniylar sulolasi islomni qabul qilgan?**
 
 - Ibrohim Nasr
 - Bilgakul
-- Sotuq Bug‘roxon (to'g'ri)
++ Sotuq Bug‘roxon
 - Qutlugʻ Eltarish
 
 **775. Quyidagi suratdagi dunyo xaritasi qaysi asarda chizilgan?**
 
-- Mahmud Qoshg‘ariyning «Devonu lug‘otit-turk» asarida (to'g'ri)
+
+![](../images/astron3791150665521.png)
+
++ Mahmud Qoshg‘ariyning «Devonu lug‘otit-turk» asarida
 - Yusuf Xos Hojibning «Qutadg‘u bilig» asarida
 - Sharafiddin Ali Yazdiyning «Zafarnoma» asarida
 - Kaykovusning «Qobusnoma» asarida
@@ -5485,13 +5578,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **776. Qoraxoniylar davlatida oliy davlat organi qaysi muassasa hisoblangan?**
 
 - Devon
-- Dargoh (to'g'ri)
++ Dargoh
 - Kengash
 - Majlis
 
 **777. X asrning ikkinchi yarmida qaysi hudud hokimi Bilgakul o‘zini xoqon deb atab, oliy hukmronlikka da’vo bilan chiqqan?**
 
-- Isfijob (Sayram) (to'g'ri)
++ Isfijob (Sayram)
 - Turkiston
 - Qoshg‘ar
 - Taroz
@@ -5501,7 +5594,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 **778. Qaysi asarda har qanday podshoh, xalq orzu qilgulik aql-zakovat, valine’mat sohiblari bo‘lmish vazirlar to‘g‘risida so‘z yuritilganda «Siyosatnoma» muallifi Nizomulmulkni alohida mehr-muhabbat bilan, har jihatdan namuna qilib ko‘rsatiladi va bunday «qilich va qalam sohibi» bo‘lmish vazirlarni e’zozlashga, qadrlashga da’vat etiladi?**
 
-- «Temur tuzuklari» (to'g'ri)
++ «Temur tuzuklari»
 - «Zafarnoma»
 - «Boburnoma»
 - «Tarixi arba ulus»
@@ -5510,19 +5603,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Madinani
 - Damashqni
-- Bag‘dodni (to'g'ri)
++ Bag‘dodni
 - Makkani
 
 **780. Saljuqiylar davrida qayerning bug‘doyi shuhrat qozongan?**
 
 - Niso
-- Marv (to'g'ri)
++ Marv
 - Xorazm
 - Jurjon (Gurgon)
 
 **781. Qaysi saljuqiy hukmdor zamonida Samarqand, Buxoro, Farg‘ona saljuqiylar qo‘l ostida birlashgan?**
 
-- Malikshoh (to'g'ri)
++ Malikshoh
 - Alp Arslon
 - Tug‘rulbek
 - Sanjar
@@ -5531,7 +5624,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 1030-yilda
 - 1045-yilda
-- 1040-yilda (to'g'ri)
++ 1040-yilda
 - 1050-yilda
 
 **783. Qaysi sharqiy saljuquy hukmdor qudrati avjiga chiqqan vaqtlarda g‘arbiy saljuqiylar (Eron, Iroq, Ozarbayjon) uning siyosiy ta’sirida bo‘lganlar?**
@@ -5539,18 +5632,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Malikshoh
 - Alp Arslon
 - Tug‘rulbek
-- Sanjar (to'g'ri)
++ Sanjar
 
 **784. Qaysi shahardagi «Nizomiya» nomidagi madrasada buyuk olim Abu Homid G‘azzoliy dars bergan?**
 
 - Basra
 - Isfahon
-- Bag‘dod (to'g'ri)
++ Bag‘dod
 - Nishopur
 
 **785. Qaysi yilda Rashiduddinning «Jome at-tavorix» kitobida saljuqiy hukmdor Ahmad Sanjarning toj kiyish marosimi tasvirlangan?**
 
-- 1307-yilda (to'g'ri)
++ 1307-yilda
 - 1302-yilda
 - 1311-yilda
 - 1305-yilda
@@ -5560,39 +5653,39 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Malikshohga
 - Alp Arslonga
 - Sanjarga
-- Tug‘rulbekka (to'g'ri)
++ Tug‘rulbekka
 
 **787. Qachon Saljuq ismli shaxs o‘zining fazilatlari, bilimdonligi, abjirligi va mardligi tufayli obro‘-e’tibor qozonib, bir qancha qabilalar sardori, katta harbiy kuch boshlig‘i darajasiga erishgan?**
 
 - VIII asrda
 - IX asrda
-- X asrda (to'g'ri)
++ X asrda
 - XI asrda
 
 **788. Saljuqiylar davrida tarkibida oltindan tashqari qo‘shimcha metall aralashmasi bo‘lgan dinor qanday atalgan?**
 
-- Rukniy (to'g'ri)
++ Rukniy
 - Fulusiy
 - Qizil dinor
 - Draxma
 
 **789. XII asr oxiriga kelib qaysi sultonlikdan o‘zga biron-bir makonda rasmiy saljuqiy xonadoni qolmagan edi?**
 
-- Kichik Osiyodagi Onado‘li (Kunya) sultonligidan (to'g'ri)
++ Kichik Osiyodagi Onado‘li (Kunya) sultonligidan
 - Yaqin Sharqdagi Suriya sultonligidan
 - Yaqin Sharqdagi Iroq sultonligidan
 - Janubiy Osiyodagi Kirmon sultonligidan
 
 **790. Saljuqiy hukmdor Sulton Alp Arslon qayerda Vizantiya imperatori Roman IV Diogenni yenggan?**
 
-- Kichik Osiyoda (to'g'ri)
++ Kichik Osiyoda
 - Falastinda
 - Suriyada
 - Armanistonda
 
 **791. Saljuqiylar davrida qayerning uzumlari, behisi, baqlajoni shuhrat qozongan?**
 
-- Niso (to'g'ri)
++ Niso
 - Marv
 - Xorazm
 - Jurjon (Gurgon)
@@ -5602,18 +5695,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - G‘aznaviylarga
 - Vizantiyaliklarga
 - Xorazmshohlarga
-- Mo‘g‘ullarga (to'g'ri)
++ Mo‘g‘ullarga
 
 **793. «Podshohning bir haftada ikki kun zulm ko‘rganlarni qabul qilmasdan iloji yo‘q. U zulmkorni jazolamog‘i, insofga chaqirmog‘i, raiyat so‘zlarini o‘z qulog‘i bilan vositachisiz eshitmog‘i kerak. Arzchilar eng muhim so‘zlarini aytmoqlari, (hukmdor esa) ular bo‘yicha hukm chiqarmog‘i lozim. Shunda mamlakatda podshoh ezilgan va adl istovchilarni haftada ikki kun qabul qilib, ularning so‘zini tinglar ekan, ovozasi tarqaydi. Zolimlar bundan cho‘chiydilar, qullarini kaltaklamaydilar». Ushbu misralar qaysi asardan keltirilgan?**
 
 - Mahmud Qoshg‘ariy «Devonu lug‘otit-turk»
 - Yusuf Xos Hojib «Qutadg‘u bilig»
 - Sharafiddin Ali Yazdiy «Zafarnoma»
-- Nizomulmulk «Siyosatnoma» (to'g'ri)
++ Nizomulmulk «Siyosatnoma»
 
 **794. 1040-yilda kimlar o‘rtasida Dandanaqonda to‘qnashuv bo‘lgan?**
 
-- Saljuqiylar va g‘aznaviylar o‘rtasida (to'g'ri)
++ Saljuqiylar va g‘aznaviylar o‘rtasida
 - Somoniylar va g‘aznaviylar o‘rtasida
 - Qoraxoniylar va saljuqiylar o‘rtasida
 - G‘aznaviylar va qoraxoniylar o‘rtasida
@@ -5623,12 +5716,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - XI asrning birinchi yarmida
 - XI asrning ikkinchi yarmida
 - XII asrning birinchi yarmida
-- XII asrning ikkinchi yarmida (to'g'ri)
++ XII asrning ikkinchi yarmida
 
 **796. Saljuqiylar davlatida mulk, yer-suv taqsimlash, muhim davlat va boshqaruv mansablariga tayinlash ishlari, ariza va shikoyatlarni ko‘rib chiqish va moliyaviy kirim-chiqimlarning nazoratida kim turgan?**
 
 - Bosh vazir
-- Sulton (to'g'ri)
++ Sulton
 - Devonbegi
 - A’zam
 
@@ -5636,12 +5729,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - G‘aznaviylar
 - Qoraxoniylar
-- Saljuqiylar (to'g'ri)
++ Saljuqiylar
 - Somoniylar
 
 **798. Nizomulmulk vazirlik davrida qaysi shaharlarda «Nizomiya» nomidagi madrasalar qurdirgan? 1) Bag‘dod; 2) Damashq; 3) Basra; 4) Isfahon.**
 
-- 1, 3, 4 (to'g'ri)
++ 1, 3, 4
 - 1, 2, 3
 - 1, 2, 4
 - 2, 3, 4
@@ -5650,7 +5743,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - XI asr boshlarida
 - XI asr oxirlarida
-- XII asr boshlarida (to'g'ri)
++ XII asr boshlarida
 - XII asr oxirlarida
 
 **800. Saljuqiylar davrida qayerning xurmolari, shakarqamishi, limonlari shuhrat qozongan?**
@@ -5658,12 +5751,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Niso
 - Marv
 - Xorazm
-- Jurjon (Gurgon) (to'g'ri)
++ Jurjon (Gurgon)
 
 **801. Qaysi saljuqiy hukmdor Kichik Osiyoda Vizantiya imperatori Roman IV Diogenni yenggan?**
 
 - Malikshoh
-- Alp Arslon (to'g'ri)
++ Alp Arslon
 - Mahmud
 - Tug‘rulbek
 
@@ -5671,12 +5764,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Eron va Xuroson
 - Yettisuv va Sharqiy Turkiston
-- Xuroson va Movarounnahr (to'g'ri)
++ Xuroson va Movarounnahr
 - Movarounnahr va Yettisuv
 
 **803. Movarounnahrga kimlarning sharqdan bostirib kirishi saljuqiy Sulton Sanjarning kuchi zaiflashishiga olib kelgan?**
 
-- Qoraxitoylarning (to'g'ri)
++ Qoraxitoylarning
 - Qipchoqlarning
 - Yag‘molarning
 - Qarluqlarning 
@@ -5684,55 +5777,58 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **804. Qachon saljuqiylar saltanati zaiflashib, mamlakatning parchalanish jarayoni boshlangan?**
 
 - XI asrning birinchi yarmida
-- XI asrning ikkinchi yarmida (to'g'ri)
++ XI asrning ikkinchi yarmida
 - XII asrning birinchi yarmida
 - XII asrning ikkinchi yarmida
 
 **805. Qaysi hukmdor davrida Saljuqiylar saltanati Sharqiy Turkistondan O‘rta dengizgacha bo‘lgan hududni o‘z ichiga olgan?**
 
-- Malikshoh (to'g'ri)
++ Malikshoh
 - Alp Arslon
 - Tug‘rulbek
 - Sanjar
 
 **806. Quyidagi suratda qaysi hukumdorning toj kiyish marosimi tasvirlangan?**
 
+
+![](../images/astron6988342322670.png)
+
 - Saljuqiy hukmdor Malikshohning
 - Saljuqiy hukmdor Mahmudning
-- Saljuqiy hukmdor Ahmad Sanjarning (to'g'ri)
++ Saljuqiy hukmdor Ahmad Sanjarning
 - Saljuqiy hukmdor Alp Arslonning
 
 **807. «Nizomulmulk» so‘zining ma’nosi nima?**
 
 - Davlatning tashkilotchisi
 - Davlatning maslahatchisi
-- Davlatning tartibotchisi (to'g'ri)
++ Davlatning tartibotchisi
 - Davlatning targ‘ibotchisi
 
 **808. Kimlar sababli Kichik Osiyoda turkiy davlat va millatga asos solingan?**
 
 - G‘aznaviylar
 - Qoraxoniylar
-- Saljuqiylar (to'g'ri)
++ Saljuqiylar
 - Mo‘g‘ullar
 
 **809. Qachon saljuqiylar xonadoni vakillari faoliyati bilan bog‘liq Suriya, Iroq, Onado‘li (Kunya), Kirmon sultonliklari yuzaga kelgan?**
 
 - XI asrning birinchi yarmida
-- XI asrning ikkinchi yarmida (to'g'ri)
++ XI asrning ikkinchi yarmida
 - XII asrning birinchi yarmida
 - XII asrning ikkinchi yarmida
 
 **810. Qaysi asarning ikkinchi nomi «Siyar ulmuluk» (Podshohlarning turmush tarzi) deb ataladi?**
 
 - «Temur tuzuklari»
-- «Siyosatnoma» (to'g'ri)
++ «Siyosatnoma»
 - «Zafarnoma»
 - «Tarixi arba ulus»
 
 **811. Saljuqiylar davrida qaysi hukumdor sharq va g‘arb yo‘nalishlararo savdosini yanada jonlantirish niyatida Xuroson va Iroq savdogarlarini ba’zi bir savdo to‘lovlaridan ozod etgan?**
 
-- Malikshoh (to'g'ri)
++ Malikshoh
 - Alp Arslon
 - Tug‘rulbek
 - Sanjar
@@ -5740,7 +5836,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **812. G‘arbiy saljuqiylar davlatiga qaysi hududlar kirgan?**
 
 - Suriya, Ozarbayjon, Iroq
-- Eron, Iroq, Ozarbayjon (to'g'ri)
++ Eron, Iroq, Ozarbayjon
 - Ozarbayjon, Suriya, Eron
 - Iroq, Eron, Armaniston
 
@@ -5748,7 +5844,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Teri mahsulotlari
 - Non mahsulotlari
-- Neft mahsulotlari (to'g'ri)
++ Neft mahsulotlari
 - Sut mahsulotlari
 
 **814. Qaysi sulton o‘limidan keyin sharqiy saljuqiylar faoliyatiga chek qo‘yilgan?**
@@ -5756,19 +5852,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Malikshoh
 - Alp Arslon
 - Tug‘rulbek
-- Sanjar (to'g'ri)
++ Sanjar
 
 **815. Sulton Malikshoh sharq va g‘arb yo‘nalishlararo savdosini yanada jonlantirish niyatida qaysi hududlarning savdogarlarini ba’zi bir savdo to‘lovlaridan ozod etgan?**
 
 - Movarounnahr va Xuroson
 - Xorazm va Movarounnahr
-- Xuroson va Iroq (to'g'ri)
++ Xuroson va Iroq
 - Armaniston va Eron
 
 **816. Saljuqiy hukmdor Sulton Alp Arslon Kichik Osiyoda qaysi Vizantiya imperatorini yenggan?**
 
 - Isaak II Angel
-- Roman IV Diogen (to'g'ri)
++ Roman IV Diogen
 - Mixail VIII Paleolog
 - Manuel I Komnin
 
@@ -5777,20 +5873,23 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - dirham
 - fals
 - dinor
-- chek (to'g'ri)
++ chek
 
 **818. Nizomulmulk davrida qaysi taniqli astronom shamsiy taqvim – kalendarni isloh etish uchun tuzilgan ishchi guruhga rahbarlikka taklif qilingan?**
 
 - Ali Qushchi
-- Umar Xayyom (to'g'ri)
++ Umar Xayyom
 - Rashiduddin
 - Abu Homid G‘azzoliy
 
 **819. Quyidagi rasmdagi sopol plitka qaysi sulola daavriga mansub?**
 
+
+![](../images/astron9140689614012.png)
+
 - G‘aznaviylar
 - Qoraxoniylar
-- Saljuqiylar (to'g'ri)
++ Saljuqiylar
 - Somoniylar
 
 **820. Qaysi hukmdor roziligi va bir necha shartlar bilan saljuqiy oilalari Xurosonga kela boshlaganlar?**
@@ -5798,18 +5897,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Alptegin
 - Ma’sud G‘aznaviy
 - Sabuktegin
-- Mahmud G‘aznaviy (to'g'ri)
++ Mahmud G‘aznaviy
 
 **821. Sharqiy Turkistondagi qaysi davlat saljuqiylar ustunligini tan olgan?**
 
 - G‘aznaviylar
 - Somoniylar
 - Qoraxitoylar
-- Qoraxoniylar (to'g'ri)
++ Qoraxoniylar
 
 **822. Saljuqiylar turkiy o‘guz qavmi tarkibida dastlab qayerlarda yashagan?**
 
-- Hozirgi Janubiy Qozog‘iston hududiga to‘g‘ri keladigan yaylovlarda, Sirdaryoning o‘rta oqimidagi yerlarda (to'g'ri)
++ Hozirgi Janubiy Qozog‘iston hududiga to‘g‘ri keladigan yaylovlarda, Sirdaryoning o‘rta oqimidagi yerlarda
 - Hozirgi Janubiy Qirg‘iziston hududiga to‘g‘ri keladigan yaylovlarda, Amudaryoning o‘rta oqimidagi yerlarda
 - Hozirgi Janubiy Tojikiston hududiga to‘g‘ri keladigan yaylovlarda, Amudaryoning quyi oqimidagi yerlarda
 - Hozirgi Janubiy O‘zbekiston hududiga to‘g‘ri keladigan yaylovlarda, Amudaryoning quyi oqimidagi yerlarda
@@ -5819,19 +5918,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Londondagi Britaniya muzeyida
 - Parijdagi Luvr muzeyida
 - Qohiradagi Al Azhar masjidida
-- Erondagi Tebriz Milliy kutubxonasida (to'g'ri)
++ Erondagi Tebriz Milliy kutubxonasida
 
 **824. Qaysi asar yaratilgan davrdan boshlab olimlar, tarixchilar, adiblar, eng asosiysi, shoh-u hokimlar diqqatini o‘ziga tortib kelgan, asarni sultonlar va mansabdor shaxslar ko‘chirtirib olib, o‘z faoliyatlarida foydalanganlar?**
 
 - «Temur tuzuklari»
-- «Siyosatnoma» (to'g'ri)
++ «Siyosatnoma»
 - «Zafarnoma»
 - «Tarixi arba ulus»
 
 **825. Saljuqiylar davrida eng yuqori darajadagi pul birligi o‘rnida sof oltindan zarb etilgan dinor (…) qabul qilingan.**
 
 - sariq dinor
-- qizil dinor (to'g'ri)
++ qizil dinor
 - moviy dinor
 - ko‘k dinor
 
@@ -5839,12 +5938,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Qo‘shni davlatlar hujumlarning kuchayishi
 - Ichki taxt uchun va sulolaviy kurashlar
-- Saltanatning haddan tashqari ulkan hududda yoyilganligi (to'g'ri)
++ Saltanatning haddan tashqari ulkan hududda yoyilganligi
 - Mahalliy hokimliklarning mustaqilikka intilishi
 
 **827. Saljuqiylar davlatida sulton qanday unvonga ega bo‘lgan?**
 
-- Sulton ul-a’zam (to'g'ri)
++ Sulton ul-a’zam
 - Sulton az-zaman
 - Sulton ul-mulk
 - Sulton as-sahih
@@ -5853,47 +5952,47 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Niso
 - Marv
-- Xorazm (to'g'ri)
++ Xorazm
 - Jurjon (Gurgon)
 
 **829. Saljuqiylar davlatida mamlakatning obodonchiligi, qurilishlar, karvon yo‘llarining xavfsizligini ta’minlash masalalarini kim nazorat qilib turgan?**
 
 - Bosh vazir
-- Sulton (to'g'ri)
++ Sulton
 - Devonbegi
 - A’zam
 
 **830. Saljuqiylar davrida qaysi hududda chiqadigan mushk, oltin, kumush yombilar nafaqat tashqi bozorda, balki mintaqaning o‘zida ham qadrlangan?**
 
 - Amudaryo quyi oqimi, o‘ng qirg‘og‘i yerlaridan
-- Sirdaryo quyi oqimi, o‘ng qirg‘og‘i yerlaridan (to'g'ri)
++ Sirdaryo quyi oqimi, o‘ng qirg‘og‘i yerlaridan
 - Murg‘ob daryosi quyi oqimi, o‘ng qirg‘og‘i yerlaridan
 - Zarafshon daryosi quyi oqimi, o‘ng qirg‘og‘i yerlaridan
 
 **831. Movarounnahrga qoraxitoylarning sharqdan bostirib kirishi saljuqiy Sulton Sanjarning kuchi zaiflashishiga olib kelgan va bu o‘z o‘rnida saljuqiylarga qaram bo‘lgan qaysi hududning yuksalishi uchun sharoit yaratgan?**
 
-- Xorazm (to'g'ri)
++ Xorazm
 - Eron
 - Xuroson
 - Onado‘li
 
 **832. Qachon saljuqiylar Xorazm, Eron, Kavkazortiga harbiy yurishlar uyushtirganlar va bu hududlarni o‘z ta’sir doiralariga o‘tkazganlar?**
 
-- XI asrning 40-yillarida (to'g'ri)
++ XI asrning 40-yillarida
 - XI asrning 50-yillarida
 - XI asrning 60-yillarida
 - XI asrning 70-yillarida
 
 **833. Hozirgi qaysi davlatdagi turkiy tilli xalq Turkistonni ota yurtimiz, ya’ni tarixiy vatanimiz, deb e’tirof etadi?**
 
-- Turkiya (to'g'ri)
++ Turkiya
 - Gruziya
 - Ozarbayjon
 - Armaniston
 
 **834. Quyidagi qaysi shaxs shoir, to‘rtliklar ustasi bo‘lish bilan birga yetuk yulduzshunos, matematika tarixida sonlardan butun musbat ildiz topishning umumiy qoidasini birinchi bo‘lib isbotlab bergan olim edi?**
 
-- Umar Xayyom (to'g'ri)
++ Umar Xayyom
 - Ali Qushchi
 - Rashiduddin
 - Abu Homid G‘azzoliy
@@ -5906,32 +6005,35 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Qutbiddin Muhammad
 - Otsiz
 - Alovuddin Muhammad
-- El Arslon (to'g'ri)
++ El Arslon
 
 **836. Qutbiddin Muhammad saljuqiylar dargohiga qaram bo‘lib, har yili o‘zi yoki o‘g‘li Otsiz orqali viloyatdan undiriladigan soliqni poytaxt …ga olib borib turgan.**
 
 - Jurjon
 - Balx
-- Marv (to'g'ri)
++ Marv
 - Nishopur
 
 **837. Xorazmni qo‘lga kiritganidan keyin Sulton Sanjar uni kimga bergan?**
 
 - Otsizning o‘g‘li Sulaymonshohga
 - Qutbiddin Muhammadning jiyani Sulaymonshohga
-- Otsizning jiyani Sulaymonshohga (to'g'ri)
++ Otsizning jiyani Sulaymonshohga
 - Qutbiddin Muhammadning ukasi Sulaymonshohga
 
 **838. Quyidagi qaysi sulola vakillari o‘z davlatida majburiy umumxalq harbiy ta’lim tizimini joriy qilgan?**
 
-- Anushteginiylar (to'g'ri)
++ Anushteginiylar
 - Qoraxoniylar
 - Saljuqiylar
 - G‘aznaviylar
 
 **839. Quyidagi xaritada qaysi davlat hududi tasvirlangan?**
 
-- Xorazmshohlar davlati (to'g'ri)
+
+![](../images/astron54785042995637.png)
+
++ Xorazmshohlar davlati
 - Qoraxoniylar davlati
 - Saljuqiylar davlati
 - G‘aznaviylar davlati
@@ -5941,12 +6043,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Qutbiddin Muhammad
 - Takash
 - Alovuddin Muhammad
-- El Arslon (to'g'ri)
++ El Arslon
 
 **841. Qutbiddin Muhammad saljuqiylar dargohiga qaram bo‘lib, har yili o‘zi yoki o‘g‘li Otsiz orqali viloyatdan undiriladigan soliqni poytaxt qaysi shaharga olib borib turgan?**
 
 - Niso
-- Marv (to'g'ri)
++ Marv
 - Balx
 - Nishopur
 
@@ -5954,13 +6056,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Qutbiddin Muhammad
 - Takash
-- Otsiz (to'g'ri)
++ Otsiz
 - El Arslon
 
 **843. Qaysi xorazmshoh Buxoroni egallagan?**
 
 - Qutbiddin Muhammad
-- Otsiz (to'g'ri)
++ Otsiz
 - Takash
 - El Arslon
 
@@ -5969,11 +6071,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Afrig‘iylar sulolasi
 - Oltintoshiylar sulolasi
 - Ma’muniylar sulolasi
-- Anushteginiylar sulolasi (to'g'ri)
++ Anushteginiylar sulolasi
 
 **845. Kimlar Movarounnahrdan qoraxitoylarni haydab chiqargan?**
 
-- Anushteginiylar (to'g'ri)
++ Anushteginiylar
 - Qoraxoniylar
 - Saljuqiylar
 - G‘aznaviylar
@@ -5983,25 +6085,28 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - An-Nasaviy
 - Hofizi Abro‘
 - Rashiduddin
-- Otamalik Juvayniy (to'g'ri)
++ Otamalik Juvayniy
 
 **847. Sulton Muhammad Xorazmshohning asosiy maqsadi nima edi?**
 
 - Movarounnahrdan qoraxitoylarni haydab chiqarish
-- Suriya, Kichik Osiyo va Misrni bo‘ysundirish (to'g'ri)
++ Suriya, Kichik Osiyo va Misrni bo‘ysundirish
 - Ozarbayjon, Eron, Xurosonni egallash
 - Saljuqiylarning barcha mulklarini egallash
 
 **848. Quyidagi suratda Xorazmdagi qaysi qal’a tasvirlangan?**
 
+
+![](../images/astron663562379257.png)
+
 - Qo‘yqirilganqal’a
 - Tuproqqal’a
-- Qizilqal’a (to'g'ri)
++ Qizilqal’a
 - Oybuyurqal’a
 
 **849. Muhammad xorazmshoh Bag‘dod yurishi davrida qayerga yetganida g‘ayritabiiy hodisa yuz berib, to‘satdan havo sovib, uch kecha-yu uch kunduz qor yog‘gan va izg‘irin sovuq hammayoqni qamrab olgan?**
 
-- Hulvon viloyatiga (to'g'ri)
++ Hulvon viloyatiga
 - Seyiston viloyatiga
 - Dandanaqon viloyatiga
 - Badaxshon viloyatiga
@@ -6011,11 +6116,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Qutbiddin Muhammad
 - Takash
 - Alovuddin Muhammad
-- El Arslon (to'g'ri)
++ El Arslon
 
 **851. Xorazmshoh Takashning hukmronlik yillarini toping.**
 
-- 1172–1200-yillar (to'g'ri)
++ 1172–1200-yillar
 - 1170–1198-yillar
 - 1182–1202-yillar
 - 1176–1205-yillar
@@ -6025,32 +6130,32 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 250 ming nafar
 - 300 ming nafar
 - 350 ming nafar
-- 400 ming nafar (to'g'ri)
++ 400 ming nafar
 
 **853. Qaysi tarixchilarning yozishiga ko‘ra, Anushteginiylar sulolasining asoschisi Anushtegin dastlabki faoliyatini Jaloliddin Malikshoh I saroyidan boshlagan?**
 
 - An-Nasaviy va Otamalik Juvayniy
 - Hofizi Abro‘ va Nasaviy
-- Rashiduddin va Hofizi Abro‘ (to'g'ri)
++ Rashiduddin va Hofizi Abro‘
 - Otamalik Juvayniy va Rashiduddin
 
 **854. Qaysi xorazmshoh Movarounnahrdan qoraxitoylarni haydab chiqargan?**
 
 - Takash
 - Otsiz
-- Alovuddin Muhammad (to'g'ri)
++ Alovuddin Muhammad
 - El Arslon
 
 **855. Tarixchilardan Rashiduddin va Hofizi Abro‘larning yozishiga ko‘ra, Anushteginiylar sulolasining asoschisi Anushtegin dastlabki faoliyatini qaysi saljuqiy sulton saroyidan boshlagan?**
 
 - Alp Arslon Arxas
-- Jaloliddin Malikshoh I (to'g'ri)
++ Jaloliddin Malikshoh I
 - Gʻiyosiddin Muhammad
 - Sultonshoh I
 
 **856. Xorazmshoh Muhammadning Fors Iroqi, Ozarbayjonga qilgan yurishida qancha suvoriysi bo‘lgan?**
 
-- 100 ming nafar (to'g'ri)
++ 100 ming nafar
 - 150 ming nafar
 - 170 ming nafar
 - 120 ming nafar
@@ -6058,20 +6163,20 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **857. Qaysi xorazmshoh G‘arbiy Eronning ayrim qismini hamda Kirmonni bo‘ysundirgan?**
 
 - Qutbiddin Muhammad
-- Takash (to'g'ri)
++ Takash
 - Alovuddin Muhammad
 - El Arslon
 
 **858. Qaysi shaxsga «Xorazm mutasarrufi» mansabiga tayinlanib, unga Xorazm shixnasi (qal’a boshlig‘i) unvoni berilgan?**
 
-- Anushtegin (to'g'ri)
++ Anushtegin
 - Takash
 - Otsiz
 - El Arslon
 
 **859. Qaysi shahar Xorazm saltanatining birinchi va asosiy poytaxti bo‘lgan?**
 
-- Gurganch (to'g'ri)
++ Gurganch
 - Xiva
 - Hazorasp
 - Kat
@@ -6081,26 +6186,29 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 1087-yilda
 - 1077-yilda
 - 1078-yilda
-- 1097-yilda (to'g'ri)
++ 1097-yilda
 
 **861. Xorazmshoh Otsiz mustaqillik uchun qaysi saljuqiy sultonga qarshi kurash olib borgan?**
 
 - Sulton Malikshoh
 - Sulton Alp Arslon
 - Sulton Tug‘rulbek
-- Sulton Sanjar (to'g'ri)
++ Sulton Sanjar
 
 **862. Qaysi voqea xorazmshoh Alovuddin Muhammadni obro‘-e’tiborini nihoyatda oshirib yuborgan?**
 
 - Bag‘dod xalifasining hujumini qaytarishi
 - Eronni to‘liq egallashi
-- Movarounnahrdan qoraxitoylarni haydab chiqarishi (to'g'ri)
++ Movarounnahrdan qoraxitoylarni haydab chiqarishi
 - Saljuqiylardan Xurosonni tortib olishi
 
 **863. Quyidagi suratda tasvirlangan Sulton Sanjar maqbarasi qaysi shaharda joylashgan?**
 
+
+![](../images/astron35235296213743.png)
+
 - Niso
-- Marv (to'g'ri)
++ Marv
 - Balx
 - Nishopur
 
@@ -6108,19 +6216,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Takash
 - Otsiz
-- Alovuddin Muhammad (to'g'ri)
++ Alovuddin Muhammad
 - Jaloliddin Manguberdi
 
 **865. Qaysi xorazmshoh Bag‘dod xalifasidan «Xorazm viloyati va u tomonidan Xorazmga qo‘shib olingan hamda olinadigan g‘arbiy, sharqiy chegaralardagi viloyatlarning hukmdori», deb tan olingan yorliq olgan?**
 
 - Qutbiddin Muhammad
 - Takash
-- Otsiz (to'g'ri)
++ Otsiz
 - El Arslon
 
 **866. Anushtegin qaysi saljuqiy sultonning ko‘zga ko‘ringan va ishonchli mansabdorlaridan sanalgan?**
 
-- Malikshoh (to'g'ri)
++ Malikshoh
 - Alp Arslon
 - Tug‘rulbek
 - Sanjar
@@ -6128,13 +6236,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **867. Qaysi xorazmshoh hukmronligi so‘nggida hatto Bag‘dodni – xalifalik poytaxtini zabt etishga shaylangan, ammo, yurish chog‘ida vafot etgan?**
 
 - Qutbiddin Muhammad
-- Takash (to'g'ri)
++ Takash
 - Otsiz
 - El Arslon
 
 **868. XIII asr boshlarida quyidagi qaysi davlat chegaralari Orol dengizidan Hind okeanigacha, Iroqdan Sharqiy Turkistongacha bo‘lgan ulkan hududni egallagan?**
 
-- Xorazmshohlar davlati (to'g'ri)
++ Xorazmshohlar davlati
 - Qoraxoniylar davlati
 - Saljuqiylar davlati
 - G‘aznaviylar davlati
@@ -6144,32 +6252,32 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Sulton Malikshoh
 - Sulton Alp Arslon
 - Sulton Tug‘rulbek
-- Sulton Sanjar (to'g'ri)
++ Sulton Sanjar
 
 **870. Saljuqiylar davrida Xorazmda mavjud bo‘lgan «shixna» qanday lavozim edi?**
 
 - Viloyat hokimi
-- Qal’a boshlig‘i (to'g'ri)
++ Qal’a boshlig‘i
 - Shahar boshqaruvchisi
 - Sulton maslahatchisi
 
 **871. Xorazmshoh Takash qo‘shinida qancha otliq askar bo‘lgan?**
 
 - 100 ming nafar
-- 170 ming nafar (to'g'ri)
++ 170 ming nafar
 - 150 ming nafar
 - 120 ming nafar
 
 **872. Xorazm vohasida hukmronlik qilgan mahalliy sulolalar qadimdan qanday umumiy nomi bilan yuritib kelingan?**
 
-- Xorazmshohlar (to'g'ri)
++ Xorazmshohlar
 - Malikshohlar
 - Ixshidlar
 - Xoqonlar
 
 **873. Xorazmshoh Otsiz kimdan «Xorazm viloyati va u tomonidan Xorazmga qo‘shib olingan hamda olinadigan g‘arbiy, sharqiy chegaralardagi viloyatlarning hukmdori», deb tan olingan yorliq olgan?**
 
-- Bag‘dod xalifasidan (to'g'ri)
++ Bag‘dod xalifasidan
 - Saljuqiy Sulton Sanjardan
 - Saljuqiy Sulton Malikshohdan
 - Damashq xalifasidan
@@ -6179,12 +6287,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 250 ming atrofidagi
 - 300 ming atrofidagi
 - 350 ming atrofidagi
-- 400 ming atrofidagi (to'g'ri)
++ 400 ming atrofidagi
 
 **875. Otsiz Xorazm hokimligiga tayinlangan vaqti necha yoshda edi?**
 
 - Yigirmaga ham kirmagan edi
-- O‘ttizga ham kirmagan edi (to'g'ri)
++ O‘ttizga ham kirmagan edi
 - Qirqqa ham kirmagan edi
 - Ellikka ham kirmagan edi
 
@@ -6192,20 +6300,20 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Qutbiddin Muhammad
 - Takash
-- Otsiz (to'g'ri)
++ Otsiz
 - El Arslon
 
 **877. Qaysi xorazmshoh xalifa nomini xutbadan chiqarib tashlashni buyurgan?**
 
 - Takash
 - Otsiz
-- Alovuddin Muhammad (to'g'ri)
++ Alovuddin Muhammad
 - El Arslon
 
 **878. Qachon Anushtegin Xorazm hokimligi vazifasiga tayinlangan?**
 
 - 1087-yilda
-- 1077-yilda (to'g'ri)
++ 1077-yilda
 - 1078-yilda
 - 1097-yilda
 
@@ -6213,7 +6321,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 1198–1218-yillar
 - 1206–1223-yillar
-- 1200–1220-yillar (to'g'ri)
++ 1200–1220-yillar
 - 1201–1224-yillar
 
 ## 36-37-§ Xorazmshohlar davlat boshqaruvi va ijtimoiy-iqtisodiy hayot.
@@ -6222,14 +6330,14 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **880. Tarixchi Juvayniyning yozishicha, qaysi shahar Turkon xotunning xos poytaxti hisoblangan?**
 
 - Samarqand
-- Gurganch (to'g'ri)
++ Gurganch
 - Buxoro
 - Xo‘jand
 
 **881. Muhammad Xorazmshohning onasi Turkon qaysi shaharda istiqomat qilar edi?**
 
 - Samarqandda
-- Gurganchda (to'g'ri)
++ Gurganchda
 - Buxoroda
 - Sig‘noqda
 
@@ -6237,54 +6345,60 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Shayx ul-islom
 - Hojib
-- Vazir (to'g'ri)
++ Vazir
 - Muhtasib
 
 **883. Chingizxon bosqini arafasida vazir lavozimi xorazmshoh Alovuddin Muhammad tomonidan bekor qilingan va oliy hukmdor qoshida nechta vakildan iborat kengashga o‘xshagan boshqaruv joriy etilgan?**
 
 - To‘rt vakildan
 - Besh vakildan
-- Olti vakildan (to'g'ri)
++ Olti vakildan
 - Yetti vakildan
 
 **884. Anushteginiylar davrida bozordagi tartibni kim ushlab turgan, mahsulotlarning sifatini, idishlarning tozaligini, mahsulotlarning yangiligini, tarozi toshlari va uzunlik o‘lchovchi asboblarning to‘g‘riligini nazorat qilgan?**
 
 - Hojib
-- Muhtasib (to'g'ri)
++ Muhtasib
 - Kutvol
 - Ustoz
 
 **885. Quyidagi suratda qaysi xorazmshoh maqbarasi tasvirlangan?**
 
+
+![](../images/astron83848597459844.png)
+
 - Takash
 - Otsiz
 - Alovuddin Muhammad
-- El Arslon (to'g'ri)
++ El Arslon
 
 **886. Anushteginiylar davrida Xorazmda qurilish ishlarida qaysi daraxt yog‘ochidan keng foydalanilgan?**
 
 - Tut
 - Gujum
-- Majnuntol (to'g'ri)
++ Majnuntol
 - Terak
 
 **887. Quyidagi suratda tasvirlangan xorazmshoh El Arslonning taxtga o‘tirishi marosimi qaysi kitobda keltirilgan?**
 
+
+![](../images/astron10279132203679.png)
+
 - «Tarixi arba ulus» kitobida
-- «Jome at-tavorix» kitobida (to'g'ri)
++ «Jome at-tavorix» kitobida
 - «Xorazm tarixi» kitobida
 - «Zafarnoma» kitobida
 
 **888. «Tug‘ro» nima?**
 
 - Bayroq
-- Muhr (to'g'ri)
++ Muhr
 - Nog‘ora
 - Toj
 
 **889. Qaysi tarixchi Sulton Muhammad Xorazmshoh farmonlarining onasi tomonidan bekor qilinishini «birinchidan, onasining unga bo‘lgan mehrini qadrlashi, ikkinchidan, mamlakatning barcha amirlari onasining urug‘idan ekanligi», deya izohlagan?**
 
-- An-Nasaviy (to'g'ri)
++ An-Nasaviy
 - Hofizi Abro‘
 - Rashiduddin
 - Otamalik Juvayniy
@@ -6292,13 +6406,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **890. Sulton Aluoddin Muhammadning onasi Turkon xotun yashiringan Ilol qal’asini qaysi mo‘g‘ul sarkardasi qamal qilgan?**
 
 - Jebe
-- Subutoy (to'g'ri)
++ Subutoy
 - Shiki Xutuxu
 - Suketu Cho‘rbiy
 
 **891. Anushteginiylarda oliy hukmdor kotibi qanday atalgan?**
 
-- Davatdor (to'g'ri)
++ Davatdor
 - Amir a’lam
 - Oxur amiri
 - Choshnigir
@@ -6306,7 +6420,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **892. Turkon xotun yashiringan Ilol qal’asi mo‘g‘ullarga taslim bo‘lgach, mo‘g‘ul askarlari Turkon xotunni yaqinlari bilan birga Toliqonda turgan turgan kimning yoniga olib borganlar?**
 
 - Chig‘atoyning
-- Chingizxonning (to'g'ri)
++ Chingizxonning
 - O‘qtoyning
 - Jo‘jining
 
@@ -6314,13 +6428,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 15, 16, 17, 18, 19, 20, 21, 22
 - 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 21
-- 1, 2, 3, 4, 5, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 (to'g'ri)
++ 1, 2, 3, 4, 5, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21
 - 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 14, 15, 16, 17, 18, 19, 20, 21, 22
 
 **894. Anushteginiylarda qaysi unvonga ega bo‘lgan vazirlar xonaga oliy hukmdordan boshqa kim kirsa ham, hattoki u taxt vorisi bo‘lgan taqdirda ham, u bilan salomlashish uchun o‘rnilaridan turishmagan?**
 
 - «Sadr»
-- «Nizom ul-mulk» (to'g'ri)
++ «Nizom ul-mulk»
 - «Dastur»
 - «Xojayi buzurg»
 
@@ -6328,7 +6442,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Minora tepasidan uloqtirgan
 - Dorga ostirgan
-- Jayhun daryosiga cho‘ktirib yuborgan (to'g'ri)
++ Jayhun daryosiga cho‘ktirib yuborgan
 - Boshi tanasidan judo qilingan
 
 **896. Muhammad Xorazmshohning onasi Turkon xotun qanday laqabga ega bo‘lgan?**
@@ -6336,11 +6450,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - «Sultonlar sultoni»
 - «Turk onasi»
 - «Mashriq malikasi»
-- «Jahon hokimi» (to'g'ri)
++ «Jahon hokimi»
 
 **897. Anushteginiylarda vazirdan boshqa yana bir muhim mansab – bu ulug‘ yoki buyuk … hisoblangan.**
 
-- hojib (to'g'ri)
++ hojib
 - muhtasib
 - shayx
 - ustoz
@@ -6348,48 +6462,51 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **898. Anushteginiylarda «Oliy toj faxriy majlisi» deb atalgan hukumat boshqaruvi kimning qo‘lida bo‘lgan va unga barcha devonlar bo‘ysungan?**
 
 - Xorazmshohning
-- Bosh vazirning (to'g'ri)
++ Bosh vazirning
 - Turkon xotunning
 - Shayx ul-islomning
 
 **899. Anushteginiylarda oliy hukmdorga mo‘ljallangan o‘rin-ko‘rpa, gilam, chodir va shunga o‘xshashlar uchun mas’ul xizmat boshlig‘i qanday atalgan?**
 
 - Davatdor
-- Farrosh (to'g'ri)
++ Farrosh
 - Oxur amiri
 - Choshnigir
 
 **900. Anushteginiylarda vazirlik mansabining takomillashgan ko‘rinishi kimning hukmronligi davri bilan bog‘liq?**
 
 - Takash
-- Otsiz (to'g'ri)
++ Otsiz
 - Alovuddin Muhammad
 - El Arslon
 
 **901. Quyidagi suratda nima tasvirlangan?**
 
+
+![](../images/astron45349668159189.png)
+
 - Haj safariga otlangan Turkon xotun
 - Gurganchga borayotgan Turkon xotun
 - Mo‘g‘ullardan qochayotgan Turkon xotun
-- Mo‘g‘ullarga asir tushgan Turkon xotun (to'g'ri)
++ Mo‘g‘ullarga asir tushgan Turkon xotun
 
 **902. Anushteginiylar davrida Urganch savdogarlari Bag‘dod, hattoki …ga qadar mahsulotlar olib borishgan.**
 
 - Kunya
 - Kirmon
 - Onado‘li
-- Andalus (to'g'ri)
++ Andalus
 
 **903. Anushteginiylarda kim davlat boshlig‘ining asosiy maslahatchisi hisoblangan va o‘z harakatlari yuzasidan oliy hukmdorgagina hisobot bergan, rasmiy tantanalar, xalqaro munosabatlar, tobe mamlakatlar bilan muzokaralarda oliy hukmdor nomidan ish yuritgan?**
 
-- Vazir (to'g'ri)
++ Vazir
 - Shayx ul-islom
 - Hojib
 - Muhtasib
 
 **904. Anushteginiylarda qoidaga ko‘ra, turkiy aslzodalar vakiligina qaysi mansabga tayinlanishi mumkin bo‘lgan?**
 
-- Hojib (to'g'ri)
++ Hojib
 - Muhtasib
 - Shayx
 - Ustoz
@@ -6399,27 +6516,27 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Xonbaliqqa
 - Bolasog‘unga
 - Tarozga
-- Qoraqurumga (to'g'ri)
++ Qoraqurumga
 
 **906. Xorazmda anushteginiylar davrida harbiy devon boshlig‘i, albatta, … bo‘lishi shart edi.**
 
 - sulola vakili
 - xorazmlik
 - turkiy
-- musulmon (to'g'ri)
++ musulmon
 
 **907. Anushteginiylarda sultonning shaxsiy otlari qaysi lavozimdagi shaxsning tasarrufida bo‘lgan?**
 
 - Davatdor
 - Amir a’lam
-- Oxur amiri (to'g'ri)
++ Oxur amiri
 - Choshnigir
 
 **908. Sulton Aluoddin Muhammadning onasi Turkon xotun yashiringan Ilol qal’asi necha kunlik qamaldan so‘ng suvsizlikdan mo‘g‘ullarga taslim bo‘lgan?**
 
 - Besh kundan so‘ng
 - O‘n kundan so‘ng
-- O‘n besh kundan so‘ng (to'g'ri)
++ O‘n besh kundan so‘ng
 - Yigirma kundan so‘ng
 
 **909. Anushteginiylarda oliy hukmdorga beriladigan ovqat, ichimliklarni ta’tib ko‘ruvchi lavozim qanday atalgan?**
@@ -6427,18 +6544,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Davatdor
 - Amir a’lam
 - Oxur amiri
-- Choshnigir (to'g'ri)
++ Choshnigir
 
 **910. Qaysi daraxt yog‘ochidan qurilgan inshootlar yengil bo‘lgan va toshdan qurilgan binolarga qaraganda zilzilaga chidamli hisoblangan?**
 
 - Tut
 - Gujum
-- Majnuntol (to'g'ri)
++ Majnuntol
 - Terak
 
 **911. Xorazmda anushteginiylar davrida harbiy devon nechta devonga bo‘lingan?**
 
-- 2 ta devonga (to'g'ri)
++ 2 ta devonga
 - 3 ta devonga
 - 4 ta devonga
 - 5 ta devonga
@@ -6448,11 +6565,14 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 1, 3, 4
 - 1, 2, 4
 - 1, 2, 3
-- 1, 2, 3, 4 (to'g'ri)
++ 1, 2, 3, 4
 
 **913. Quyidagi suratdagi Najmiddin Kubro maqbarasi qayerda joylashgan?**
 
-- Turkmaniston (to'g'ri)
+
+![](../images/astron15379158714561.png)
+
++ Turkmaniston
 - O‘zbekiston
 - Eron
 - Tojikiston
@@ -6462,11 +6582,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Saljuqiylar sultoni nomi bilan
 - Bag‘dod xalifasi nomi bilan
 - Damashq xalifasi nomi bilan
-- Xorazmshoh nomi bilan (to'g'ri)
++ Xorazmshoh nomi bilan
 
 **915. Anushteginiylarda qaysi mansab egasi har doim hukmdorning oldida yurgan, hukmdor safar va yurishlarga chiqqanida ham uni tark etmagan, rasmiy qabullar vaqtida vazirlar xorazmshohlarning o‘ng tomonidan o‘rin egallashgan?**
 
-- Vazir (to'g'ri)
++ Vazir
 - Shayx ul-islom
 - Hojib
 - Muhtasib
@@ -6474,7 +6594,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **916. Xorazmda anushteginiylar davrida «devon ravotib» qanday masalalar bilan shug‘ullangan?**
 
 - Harbiy masalalarni ko‘rish
-- Harbiylarga maosh berish (to'g'ri)
++ Harbiylarga maosh berish
 - Harbiy lavozimlarga tayinlash
 - Harbiylar ta’minoti
 
@@ -6483,25 +6603,25 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - An-Nasaviy
 - Hofizi Abro‘
 - Rashiduddin
-- Juvayniy (to'g'ri)
++ Juvayniy
 
 **918. Anushteginiylarda qaysi lavozimdagi shaxs otxonalar, oshxonalar, novvoyxonalar, chog‘ir saqlanadigan yerto‘lalarni nazorat qilgan, saroy xodimlari faoliyati uchun to‘liq javobgar bo‘lgan?**
 
 - Hojib
 - Muhtasib
 - Shayx
-- Ustoz (to'g'ri)
++ Ustoz
 
 **919. Anushteginiylar davrida Xorazmda qayerlik o‘ymakor duradgorlar fil suyagi va obnus daraxti yog‘ochidan ajoyib buyumlarni yasashgan?**
 
 - Xivalik
 - Hazorasplik
 - Katlik
-- Urganchlik (to'g'ri)
++ Urganchlik
 
 **920. Mo‘g‘ullar hujumi davrida Sulton Aluoddin Muhammad bolalari, nevaralari, yaqinlarini xazinasi bilan vazir Nosiriddinning kuzatuvida qayerdagi Ilol (Tajan irmog‘idagi hudud) qal’asiga yuborgan?**
 
-- Eron tomondagi (to'g'ri)
++ Eron tomondagi
 - Iroq tomondagi
 - Ozarbayjon tomondagi
 - Suriya tomondagi
@@ -6511,32 +6631,32 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Mulk
 - Mansab
 - Qo‘shin
-- Nafaqa (to'g'ri)
++ Nafaqa
 
 **922. Anushteginiylarda vazirlar o‘z ona tili — turkiy tildan tashqari yana qaysi tillarni mukammal bilishi shart bo‘lgan?**
 
 - Xitoy va hind tillarini
 - Fors va xitoy tillarini
-- Arab va fors tillarini (to'g'ri)
++ Arab va fors tillarini
 - Hind va arab tillarini
 
 **923. Anushteginiylarda kim fuqarolar va davlat hukmdori o‘rtasida vositachi vazifasini bajargan hamda mamlakatdagi tartib-intizom uchun asosiy javobgar hisoblangan?**
 
-- Vazir (to'g'ri)
++ Vazir
 - Shayx ul-islom
 - Hojib
 - Muhtasib
 
 **924. Mo‘g‘ullar hujumi davrida Sulton Aluoddin Muhammad onasi va haramini qayerga olib ketgan?**
 
-- Mozandaronga (to'g'ri)
++ Mozandaronga
 - Seyistonga
 - Jurjonga
 - Kirmonga
 
 **925. Xorazmda anushteginiylar davrida «devon jaysh» qanday masalalar bilan shug‘ullangan?**
 
-- Harbiy masalalarni ko‘rish (to'g'ri)
++ Harbiy masalalarni ko‘rish
 - Harbiylarga maosh berish
 - Harbiy lavozimlarga tayinlash
 - Harbiylar ta’minoti
@@ -6545,20 +6665,20 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Xo‘jandni
 - Hirotni
-- Samarqandni (to'g'ri)
++ Samarqandni
 - Buxoroni
 
 **927. Qaysi qabiladan tashkil etilgan oliy martabali sarkardalar Turkon xotun bilan yaqin bo‘lib, aksariyati saroyda Sulton Alouddin Muhammadga qarshi bo‘lib turgan biron-bir guruhga boshchilik qilganlar?**
 
 - Qang‘lardan
-- Qipchoqlardan (to'g'ri)
++ Qipchoqlardan
 - Yag‘molardan
 - Turkmanlardan
 
 **928. Anushteginiylarda qaysi lavozimdagi shaxs hukmdorning aynan o‘ziga tegishli ishlari bo‘yicha hisobot bergan, rasmiy marosimlarga amal qilinishini nazorat qilgan?**
 
 - Muhtasib
-- Hojib (to'g'ri)
++ Hojib
 - Shayx
 - Ustoz
 
@@ -6569,12 +6689,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Kushon davlati
 - Eftallar davlati
-- Qang‘ davlati (to'g'ri)
++ Qang‘ davlati
 - Kidariylar davlati
 
 **930. Kelib chiqishi bir-biriga yaqin bo‘lgan turli qabila va elatlarning asrlar davomida qo‘shilib borishi qanday ataldi?**
 
-- Etnik jarayon (to'g'ri)
++ Etnik jarayon
 - Antropologik jarayon
 - Geneologik jarayon
 - Arxeologik jarayon
@@ -6583,20 +6703,20 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Sug‘diy va g‘arbiy eroniy tillarda
 - Sug‘diy va sharqiy eroniy tillarda
-- Turkiy va sharqiy eroniy tillarda (to'g'ri)
++ Turkiy va sharqiy eroniy tillarda
 - Turkiy va g‘arbiy eroniy tillarda
 
 **932. Qaysi davlat davrida «Qovunchi madaniyati» va O‘rta Osiyoning antropologik qiyofasi to‘liq shakllangan?**
 
 - Kushon davlati
 - Eftallar davlati
-- Qang‘ davlati (to'g'ri)
++ Qang‘ davlati
 - Kidariylar davlati
 
 **933. O‘zbeklar alohida etnik birlik (elat) bo‘lib, qayerlarda shakllangan? 1) Movarounnahr; 2) Janubiy Sibiy o‘lkalari; 3) Xorazm; 4) Yettisuv; 5) Sharqiy Turkistonning g‘arbiy mintaqalari; 6) Shimoliy Pokiston hududlari.**
 
 - 2, 4, 5, 6
-- 1, 3, 4, 5 (to'g'ri)
++ 1, 3, 4, 5
 - 1, 2, 3, 4
 - 1, 2, 4, 6
 
@@ -6605,40 +6725,40 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 1, 4, 5, 6, 7, 8
 - 1, 2, 3, 4, 5, 7
 - 2, 3, 4, 5, 6, 7
-- 2, 3, 4, 6, 7, 8 (to'g'ri)
++ 2, 3, 4, 6, 7, 8
 
 **935. Qaysi asrda Movarounnahr mintaqasida yaxlit turkiy etnik qatlam, turkiy til muhiti vujudga kela boshlagan va o‘z navbatida sug‘diylar va boshqa mahalliy etnoslarda ham turkiylashish jarayoni jadallashgan?**
 
 - VI asrda
 - VII asrda
 - VIII asrda
-- IX asrda (to'g'ri)
++ IX asrda
 
 **936. Ilk o‘rta asrlarda quyidagi qaysi xalq yarim chorvador bo‘lgan?**
 
 - Saklar
 - Massagetlar
-- Qang‘lar (to'g'ri)
++ Qang‘lar
 - Baqtriyaliklar
 
 **937. Qaysi asrlarda o‘zbek xalqi shakllangan?**
 
 - VII–X asrlarda
 - VIII–XI asrlarda
-- IX–XII asrlarda (to'g'ri)
++ IX–XII asrlarda
 - X–XIII asrlarda
 
 **938. Qaysi asrdan o‘lkamiz «Turkiston» nomi bilan atala boshlangan?**
 
 - VI asrdan
-- VII asrdan (to'g'ri)
++ VII asrdan
 - VIII asrdan
 - IX asrdan
 
 **939. Movarounnahrda joylashgan aholi qadimdan qaysi tillarda so‘zlashgan?**
 
 - Ikki tilda: sug‘d va sharqiy eroniy tillarda
-- Ikki tilda: sug‘d va turk tillarida (to'g'ri)
++ Ikki tilda: sug‘d va turk tillarida
 - Uch tilda: sug‘d, sharqiy eroniy va turk tillarida
 - Uch tilda: sug‘d, sharqiy eroniy va baqtriya tillarida
 
@@ -6647,11 +6767,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - «Qabila»
 - «Jamoa»
 - «Millat»
-- «Xalq» (to'g'ri)
++ «Xalq»
 
 **941. Qaysi sulola davrida Movarounnahr va Xorazmda siyosiy hokimiyat turkiy sulolalarga o‘tgan?**
 
-- Qoraxoniylar davrida (to'g'ri)
++ Qoraxoniylar davrida
 - Saljuqiylar davrida
 - G‘aznaviylar davrida
 - Tohiriylar davrida
@@ -6661,7 +6781,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 **942. Qaysi shahar «Qubbatul islom» – «Islom dinining gumbazi» nomi bilan shuhrat topgan?**
 
-- Buxoro (to'g'ri)
++ Buxoro
 - Samarqand
 - Termiz
 - Marv
@@ -6670,26 +6790,26 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Abu Abdulloh Muhammad ibn Idris Shofe’iy
 - Abu Abdulloh Ahmad ibn Hanbal
-- Abul Hasan Ash’ariy (to'g'ri)
++ Abul Hasan Ash’ariy
 - Abu Hanifa No‘mon ibn Sobit
 
 **944. «Yo‘nalish», «yo‘l», «ta’limot» so‘zlari arabcha qaysi so‘z bilan ifodalandi?**
 
 - Shariat
-- Mazhab (to'g'ri)
++ Mazhab
 - Tariqat
 - Fiqh
 
 **945. Hadislarning yig‘ilishida qaysi buyuk vatandoshlarimizning xizmatlari katta bo‘lgan? 1) Abu Abdulloh Buxoriy; 2) Imom Termiziy; 3) Hakim Termiziy; 4) Imom Dorimiy.**
 
-- 1, 2, 3, 4 (to'g'ri)
++ 1, 2, 3, 4
 - 1, 2, 3
 - 1, 2, 4
 - 2, 3, 4
 
 **946. Qachon O‘zbekistonda Moturidiy tavalludining 1130-yilligi keng nishonlangan?**
 
-- 2000-yilda (to'g'ri)
++ 2000-yilda
 - 2002-yilda
 - 2004-yilda
 - 2006-yilda
@@ -6699,26 +6819,26 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - «Tog‘ning narigi tomoni»
 - «Dengizning narigi tomoni»
 - «Sahroning narigi tomoni»
-- «Daryoning narigi tomoni» (to'g'ri)
++ «Daryoning narigi tomoni»
 
 **948. Kim o‘ziga yomonlik qilganlarni ko‘rganida: «Bizlarni yomonlagan kishilarning gunohini Alloh kechirsin, bizlarni yaxshi ko‘rganlarni Alloh rahmat qilsin», deb duo qilgan ekan?**
 
 - Abu Abdulloh Muhammad ibn Idris Shofe’iy
 - Abu Abdulloh Ahmad ibn Hanbal
 - Abu Abdulloh Molik ibn Anas
-- Abu Hanifa No‘mon ibn Sobit (to'g'ri)
++ Abu Hanifa No‘mon ibn Sobit
 
 **949. Hanbaliylik mazhabida nimani boshqa iloj qolmagandagina ishlatishga ruxsat beriladi?**
 
 - Istehsonni
 - Sunnatni
 - Ijmoni
-- Qiyosni (to'g'ri)
++ Qiyosni
 
 **950. Hanbaliylik mazhabi asoschisi imom Abu Abdulloh Ahmad ibn Hanbal qaysi yillarda yashagan?**
 
 - 767–804-yillarda
-- 780–855-yillarda (to'g'ri)
++ 780–855-yillarda
 - 755–792-yillarda
 - 761–801-yillarda
 
@@ -6726,20 +6846,20 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Saudiya Arabistoni, Yaman, BAA, Quvayt, Qatarda
 - Indoneziya, Malayziya, Misr, Sudan, Keniya, Mali, Liviyada
-- Hindiston, Pokiston, Afg‘oniston, Iroq, Suriya, Turkiya va qator Afrika mamlakatlarida (to'g'ri)
++ Hindiston, Pokiston, Afg‘oniston, Iroq, Suriya, Turkiya va qator Afrika mamlakatlarida
 - Marokash, Jazoir, Tunis, Bangladeshda
 
 **952. «Kunya» so‘zi qaysi so‘zning izofa qaratqichli birikma holatidagi shakli hisoblanadi?**
 
 - Ibn (arabcha «o‘g‘li») so‘zining
 - Ibn (arabcha «ota») so‘zining
-- Abu (arabcha «ota») so‘zining (to'g'ri)
++ Abu (arabcha «ota») so‘zining
 - Abu (arabcha «o‘g‘li») so‘zining
 
 **953. Qaysi yildan O‘zbekiston Prezidenti tashabbusi bilan Imom Moturidiy majmuasida «Kalom ilmi maktabi», moturidiylik ta’limotining yirik vakili Abul Mu’in Nasafiy ziyoratgohida esa «Aqoid maktabi»ni tashkil etilgan?**
 
 - 2016-yildan
-- 2017-yildan (to'g'ri)
++ 2017-yildan
 - 2018-yildan
 - 2019-yildan
 
@@ -6747,12 +6867,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Sunnatni
 - Ijmoni
-- Istehsonni (to'g'ri)
++ Istehsonni
 - Qiyosni
 
 **955. O‘rta Osiyoda qayerda maxsus «Faqihlar madrasasi» degan ixtisoslashtirilgan madrasa qurilgan?**
 
-- Buxoroda (to'g'ri)
++ Buxoroda
 - Samarqandda
 - Termizda
 - Marvda
@@ -6762,12 +6882,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Abu Abdulloh Muhammad ibn Idris Shofe’iy
 - Abu Abdulloh Ahmad ibn Hanbal
 - Abu Abdulloh Molik ibn Anas
-- Abu Hanifa No‘mon ibn Sobit (to'g'ri)
++ Abu Hanifa No‘mon ibn Sobit
 
 **957. Nimaning chin mohiyati nafsni poklash, axloqni sayqallash, ma’naviy kamolotga erishishdan iborat?**
 
 - Tariqat
-- Tasavvuf (to'g'ri)
++ Tasavvuf
 - Mazhab
 - Ta’limot
 
@@ -6775,19 +6895,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Hanbaliylik mazhabi
 - Shofe’iylik mazhabi
-- Hanafiylik mazhabi (to'g'ri)
++ Hanafiylik mazhabi
 - Molikiylik mazhabi
 
 **959. Molikiylik mazhabi asoschisi, imom Abu Abdulloh Molik ibn Anas qachon tavallud topgan?**
 
 - 728-yilda
-- 711-yilda (to'g'ri)
++ 711-yilda
 - 719-yilda
 - 705-yilda
 
 **960. Ilk islom davrida ulamolarning bir ovozdan qabul qilgan qarorlari qanday atalgan?**
 
-- Ijmo (to'g'ri)
++ Ijmo
 - Xutba
 - Qiyos
 - Sunnat
@@ -6796,12 +6916,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Yassaviya ta’limoti
 - Kubraviya ta’limoti
-- Ash’ariya ta’limoti (to'g'ri)
++ Ash’ariya ta’limoti
 - Moturidiya ta’limoti
 
 **962. Hanbaliylik mazhabi qayerlarda keng tarqalgan?**
 
-- Saudiya Arabistoni, Yaman, BAA, Quvayt, Qatarda (to'g'ri)
++ Saudiya Arabistoni, Yaman, BAA, Quvayt, Qatarda
 - Indoneziya, Malayziya, Misr, Sudan, Keniya, Mali, Liviyada
 - Hindiston, Pokiston, Afg‘oniston, Iroq, Suriya, Turkiya va qator Afrika mamlakatlarida
 - Marokash, Jazoir, Tunis, Bangladeshda
@@ -6810,14 +6930,14 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 767–804-yillarda
 - 780–855-yillarda
-- 870–944-yillarda (to'g'ri)
++ 870–944-yillarda
 - 873–936-yillarda
 
 **964. Qaysi asrlarda islom dini O‘rta Osiyo xalqlari davlatchiligi tarixida katta rol o‘ynay boshlagan?**
 
 - VII–X asrlarda
 - VIII–XI asrlarda
-- IX–XII asrlarda (to'g'ri)
++ IX–XII asrlarda
 - X–XIII asrlarda
 
 **965. Qaysi ta’limotda inson o‘z xatti-harakatlarini tanlashda ixtiyorligi ta’kidlanadi?**
@@ -6825,18 +6945,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Yassaviya ta’limotida
 - Kubraviya ta’limotida
 - Ash’ariya ta’limotida
-- Moturidiya ta’limotida (to'g'ri)
++ Moturidiya ta’limotida
 
 **966. Arabcha «tariqat» so‘zi qanday ma’noni anglatadi?**
 
 - «Ta’limot»
-- «Yo‘l» (to'g'ri)
++ «Yo‘l»
 - «Ilm»
 - «Haqiqat»
 
 **967. Abu Hanifa No‘mon ibn Sobit qayerda tug‘ilgan va vafot etgan?**
 
-- Kufa/Bag‘dod (to'g'ri)
++ Kufa/Bag‘dod
 - Isfahon/Kufa
 - Damashq/Isfahon
 - Bag‘dod/Sheroz
@@ -6846,18 +6966,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Abu Abdulloh Muhammad ibn Idris Shofe’iy
 - Abu Abdulloh Ahmad ibn Hanbal
 - Abu Abdulloh Molik ibn Anas
-- Abu Hanifa No‘mon ibn Sobit (to'g'ri)
++ Abu Hanifa No‘mon ibn Sobit
 
 **969. Kim islomda erkinlik tamoyilining homiysi bo‘lib, tijorat va boshqa sohalarda (turmush qurishda erkak va ayolga teng huquq berilishi, yetim bolalarning huquqlari va boshqalarda) inson huquqi va erkinliklarini himoya qilib kelgan?**
 
 - Abu Abdulloh Muhammad ibn Idris Shofe’iy
 - Abu Abdulloh Ahmad ibn Hanbal
 - Abu Abdulloh Molik ibn Anas
-- Abu Hanifa No‘mon ibn Sobit (to'g'ri)
++ Abu Hanifa No‘mon ibn Sobit
 
 **970. Arablar timsolida yangi siyosiy kuchning paydo bo‘lishi oqibatida Turon necha qismga bo‘lingan?**
 
-- Ikki qismga (to'g'ri)
++ Ikki qismga
 - Uch qismga
 - To‘rt qismga
 - Besh qismga
@@ -6867,18 +6987,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Yassaviya ta’limoti
 - Kubraviya ta’limoti
 - Ash’ariya ta’limoti
-- Moturidiya ta’limoti (to'g'ri)
++ Moturidiya ta’limoti
 
 **972. Ash’ariya ta’limoti qaysi sulola davrida Xurosonda rivojlangan?**
 
-- Saljuqiylar davrida (to'g'ri)
++ Saljuqiylar davrida
 - G‘aznaviylar davrida
 - Somoniylar davrida
 - Qoraxoniylar davrida
 
 **973. Hanafiylik, molikiylik, shofe’iylik, hanbaliylik islomdagi qaysi yo‘nalish mazhablari hisoblanadi?**
 
-- Sunniylik (to'g'ri)
++ Sunniylik
 - Shialik
 - Xorijiylik
 - Salafiylik
@@ -6888,19 +7008,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Saudiya Arabistoni, Yaman, BAA, Quvayt, Qatarda
 - Indoneziya, Malayziya, Misr, Sudan, Keniya, Mali, Liviyada
 - Hindiston, Pokiston, Afg‘oniston, Iroq, Suriya, Turkiya va qator Afrika mamlakatlarida
-- Marokash, Jazoir, Tunis, Bangladeshda (to'g'ri)
++ Marokash, Jazoir, Tunis, Bangladeshda
 
 **975. «Tilingni yaxshi hunar bilan o‘rgatgil va muloyim so‘zdan boshqa narsani odat qilmagil. Nedinkim, tilga har nechuk so‘zni o‘rgatsang, shuni aytur, so‘zni o‘z joyida ishlatgil, so‘z agar yaxshi bo‘lsa, ammo noo‘rin ishlatilsa, garchand u har nechuk yaxshi so‘z bo‘lsa ham yomon, nobop eshitilur. Shuning uchun behuda so‘zlamagilki, foydasizdur. Bunday befoyda so‘z ziyon keltirur va har so‘zki undan hunar isi kelmasa, bunday so‘zni gapirmaslik lozim». Ushbu jumlalar kimning qaysi asarida keltirilgan?**
 
 - Mahmud Qoshg‘ariy, «Devonu lug‘otit-turk»
-- Kaykovus, «Qobusnoma» (to'g'ri)
++ Kaykovus, «Qobusnoma»
 - Yusuf Xos Hojib, «Qutadg‘u bilig»
 - Sharafiddin Ali Yazdiy, «Zafarnoma»
 
 **976. Hanafiylik mazhabi asoschisi Abu Hanifa nomi bilan mashhur Nu’mon Sobit Kufiy qaysi yilalrda yashagan?**
 
 - 696–764-yillarda
-- 699–767-yillarda (to'g'ri)
++ 699–767-yillarda
 - 683–759-yillarda
 - 689–761-yillarda
 
@@ -6909,20 +7029,23 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Kufa
 - Isfahon
 - Damashq
-- Bag‘dod (to'g'ri)
++ Bag‘dod
 
 **978. Rasmdagi Abu Mansur Moturidiy maqbarasi qaysi shaharda joylashgan?**
 
+
+![](../images/astron6136463228748.png)
+
 - Buxoro
 - Termiz
-- Samarqand (to'g'ri)
++ Samarqand
 - Navoiy
 
 **979. Sunniylikdagi to‘rtala mazhab (hanafiylik, molikiylik, shofe’iylik, hanbaliylik) bir-biri bilan teng hisoblanib, nimasi bilan farq qiladi?**
 
 - Xalifalikning qaysi sulolasi siyosatini qo‘llab-quvvatlashi bilan
 - Qaror chiqarishda asoslanadigan manbalari bilan
-- Shariat masalalarida yengilroq yoki qattiqroq hukm chiqarishlari bilan (to'g'ri)
++ Shariat masalalarida yengilroq yoki qattiqroq hukm chiqarishlari bilan
 - Musulmonlarning huquqlari borasidagi qarashlari bilan
 
 **980. Qaysi mazhabda birinchi manba Qur’oni karim, ikkinchi manba hadis hisoblanadi, shar’iy masalalarda Madina hayoti va odatlari ko‘p hollarda ustun turgan?**
@@ -6930,12 +7053,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Hanbaliylik mazhabida
 - Shofe’iylik mazhabida
 - Hanafiylik mazhabida
-- Molikiylik mazhabida (to'g'ri)
++ Molikiylik mazhabida
 
 **981. Shofe’iylik mazhabi qayerlarda keng tarqalgan?**
 
 - Saudiya Arabistoni, Yaman, BAA, Quvayt, Qatarda
-- Indoneziya, Malayziya, Misr, Sudan, Keniya, Mali, Liviyada (to'g'ri)
++ Indoneziya, Malayziya, Misr, Sudan, Keniya, Mali, Liviyada
 - Hindiston, Pokiston, Afg‘oniston, Iroq, Suriya, Turkiya va qator Afrika mamlakatlarida
 - Marokash, Jazoir, Tunis, Bangladeshda
 
@@ -6943,19 +7066,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 1, 3, 4
 - 1, 2, 4
-- 1, 2, 3 (to'g'ri)
++ 1, 2, 3
 - 1, 2, 3, 4
 
 **983. Shofe’iylik mazhabi asoschisi Abu Abdulloh Muhammad ibn Idris Shofe’iy qaysi yillarda yashagan?**
 
-- 767–804-yillarda (to'g'ri)
++ 767–804-yillarda
 - 780–855-yillarda
 - 755–792-yillarda
 - 761–801-yillarda
 
 **984. Hanbaliylik mazhabida nimalar asosiy manba hisoblanadi?**
 
-- Qur’on va sunnat (to'g'ri)
++ Qur’on va sunnat
 - Sunnat va ijmo
 - Ijmo va qiyos
 - Qiyos va istehson
@@ -6963,20 +7086,23 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **985. «Arodi at-turk» so‘zining ma’nosi nima?**
 
 - «Turklar yerlari», ya’ni arablarga bo‘ysungan hukmdorlar yerlari
-- «Turklar yerlari», ya’ni arablarga bo‘ysunmagan hukmdorlar yerlari (to'g'ri)
++ «Turklar yerlari», ya’ni arablarga bo‘ysunmagan hukmdorlar yerlari
 - «Turklar yerlari», ya’ni arablarga uzoq bo‘lgan hukmdorlar yerlari
 - «Turklar yerlari», ya’ni arablarga begona hukmdorlar yerlari
 
 **986. Rasmdagi imomi A’zam maqbarasi qayerda joylashgan?**
 
-- Bag‘dod (to'g'ri)
+
+![](../images/astron18387911274530.png)
+
++ Bag‘dod
 - Damashq
 - Isfahon
 - Kufa
 
 **987. O‘rta Osiyoda qayerda dastlabki madrasalar VIII-IX asrlardan boshlab barpo qilingan?**
 
-- Buxoroda (to'g'ri)
++ Buxoroda
 - Samarqandda
 - Termizda
 - Marvda
@@ -6984,14 +7110,14 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **988. Moturidiya ta’limoti qayerlarda hozir ham oliy, o‘rta ta’lim tizimida va diniy o‘quv yurtlarida mustaqil fan sifatida o‘qitib kelinadi?**
 
 - Marokash, Jazoir, Tunis, Bangladeshda
-- Suriya, Iroq, Turkiya, Pokiston, Hindiston, Shimoliy Afrika (to'g'ri)
++ Suriya, Iroq, Turkiya, Pokiston, Hindiston, Shimoliy Afrika
 - Hindiston, Pokiston, Afg‘oniston, Iroq, Suriya, Turkiya va qator Afrika mamlakatlarida
 - Indoneziya, Malayziya, Misr, Sudan, Keniya, Mali, Liviyada
 
 **989. «Imomi A’zam» so‘zining ma’nosi nima?**
 
 - «Muqaddas imom»
-- «Ulug‘ imom» (to'g'ri)
++ «Ulug‘ imom»
 - «Buyuk imom»
 - «Oliy imom»
 
@@ -6999,13 +7125,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Abu Abdulloh Buxoriy
 - Imom Termiziy
-- Abu Hanifa (to'g'ri)
++ Abu Hanifa
 - Imom Dorimiy
 
 **991. Qaysi asrlarda musulmonlar orasida Qur’on oyatlari va hadislarni noto‘g‘ri tushungan toifalar paydo bo‘lgan?**
 
 - VII–VIII asrlarda
-- VIII–IX asrlarda (to'g'ri)
++ VIII–IX asrlarda
 - IX–X asrlarda
 - X–XI asrlarda
 
@@ -7014,12 +7140,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 767–804-yillarda
 - 780–855-yillarda
 - 870–944-yillarda
-- 873–936-yillarda (to'g'ri)
++ 873–936-yillarda
 
 **993. Ash’ariya ta’limoti dastlab qayerda rivojlangan?**
 
 - Suriyada
-- Iroqda (to'g'ri)
++ Iroqda
 - Arabistonda
 - Xurosonda
 
@@ -7031,19 +7157,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Termizda
 - Samarqandda
 - Shoshda
-- Buxoroda (to'g'ri)
++ Buxoroda
 
 **995. Abu Homid G‘azzoliy qaysi yillarda yashagan?**
 
 - 1052–1108-yillarda
 - 1061–1114-yillarda
 - 1065–1123-yillarda
-- 1058–1111-yillarda (to'g'ri)
++ 1058–1111-yillarda
 
 **996. Kimning qaysi asarida sug‘d yozuvi ish yuritishda, savdo va madaniy aloqalarda katta ahamiyatga ega bo‘lib, qadimgi uyg‘ur, mo‘g‘ul va manjurlar yozuvlari paydo bo‘lishiga asos bo‘lganligi ta’kidlanadi?**
 
 - S. P. Tolstov, «Qadimiy Xorazm sivilizatsiyasini izlab»
-- A. Sagdullayev, «Qadimgi O‘zbekiston ilk yozma manbalarda» (to'g'ri)
++ A. Sagdullayev, «Qadimgi O‘zbekiston ilk yozma manbalarda»
 - V. V. Bartold, «Turkiston»
 - Y. G. G‘ulomov, «Xorazmning sug‘orilish tarixi»
 
@@ -7052,25 +7178,25 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Mahmud Qoshg‘ariy, «Devonu lug‘otit-turk»
 - Yusuf Xos Hojib, «Qutadg‘u bilig»
 - Sharafiddin Ali Yazdiy, «Zafarnoma»
-- Kaykovus, «Qobusnoma» (to'g'ri)
++ Kaykovus, «Qobusnoma»
 
 **998. Ilk o‘rta asrlarda «pesha» deb nimaga aytilgan?**
 
 - Xulq, atvor
 - Urf, odat
-- Hunar, kasb (to'g'ri)
++ Hunar, kasb
 - Ilm, fan
 
 **999. Abu Homid G‘azzoliy Sharq va G‘arbda kim sifatida tanilgan?**
 
 - Munajjim va ilohiyotchi
-- Ilohiyotchi va faylasuf (to'g'ri)
++ Ilohiyotchi va faylasuf
 - Hadishunos va munajjim
 - Faylasuf va hadishunos
 
 **1000. Ilk o‘rta asrlarda otlarni davolovchi kasbi qanday atalgan?**
 
-- Baytorlik (to'g'ri)
++ Baytorlik
 - Massohlik
 - Xunyogarlik
 - Korizkunlik
@@ -7080,18 +7206,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Abu Muslim
 - Nasr ibn Sayyor
 - Ubaydulloh ibn Ziyod
-- Qutayba ibn Muslim (to'g'ri)
++ Qutayba ibn Muslim
 
 **1002. Kimning «Ihyou ulumid-din» asarining «Ilm kitobi» qismida «ta’lim oluvchi va ta’lim beruvchi odoblari haqida» ibratli fikrlar bayon qilingan?**
 
 - Abul Hasan Ash’ariyning
 - Abu Hanifa No‘mon ibn Sobitning
-- Abu Homid G‘azzoliyning (to'g'ri)
++ Abu Homid G‘azzoliyning
 - Abu Abdulloh Ahmad ibn Hanbalning
 
 **1003. Qachon Balxda 400 ta madrasa va 900 ta maktab bo‘lgan?**
 
-- IX asr boshlarida (to'g'ri)
++ IX asr boshlarida
 - IX asr oxirlarida
 - X asr boshlarida
 - X asr oxirlarida
@@ -7101,12 +7227,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 941-yilda
 - 946-yilda
 - 932-yilda
-- 937-yilda (to'g'ri)
++ 937-yilda
 
 **1005. Sayyoh Istaxriy qaysi yillarda yashagan?**
 
 - 845-921-yillarda
-- 850-934-yillarda (to'g'ri)
++ 850-934-yillarda
 - 852-931-yillarda
 - 849-928-yillarda
 
@@ -7115,32 +7241,32 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Samarqandda/eronlik
 - Damshqda/xurosonlik
 - Buxoroda/sug‘dlik
-- Bag‘dodda/xorazmlik (to'g'ri)
++ Bag‘dodda/xorazmlik
 
 **1007. Ilk o‘rta asrlarda musiqa asboblari ustasi kasbi qanday atalgan?**
 
 - Baytorlik
 - Massohlik
-- Xunyogarlik (to'g'ri)
++ Xunyogarlik
 - Korizkunlik
 
 **1008. Qaysi xorazmshoh davrida jami 4440 ta, faqatgina Gurganchning o‘zida 700 ta madrasa bo‘lgan?**
 
 - Otsiz
-- Anushtegin (to'g'ri)
++ Anushtegin
 - Takash
 - Alouddin Muhammad
 
 **1009. Maktabdan yuqori bosqichdagi ta’lim dargohlari to «madrasa» nomi qat’iylashguncha qanday atalgan?**
 
 - «Mashvarat»
-- «Majlis» (to'g'ri)
++ «Majlis»
 - «Kengash»
 - «Yig‘in»
 
 **1010. Ilk o‘rta asrlarda madrasalarda ilm bergan kishilar qanday atalgan? 1) Shayx; 2) Hakim; 3) Ustoz; 4) Ustod.**
 
-- 1, 2, 3 (to'g'ri)
++ 1, 2, 3
 - 1, 2, 4
 - 1, 3, 4
 - 1, 2, 3, 4
@@ -7150,18 +7276,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Abu Muslim
 - Nasr ibn Sayyor
 - Ubaydulloh ibn Ziyod
-- Qutayba ibn Muslim (to'g'ri)
++ Qutayba ibn Muslim
 
 **1012. Ilk o‘rta asrlarda yer o‘lchovchi, tanobchi kasbi qanday atalgan?**
 
 - Baytorlik
-- Massohlik (to'g'ri)
++ Massohlik
 - Xunyogarlik
 - Korizkunlik
 
 **1013. Mug‘ tog‘idan topilgan hujjat qanday qog‘ozga bitilgan?**
 
-- Kul rang, ipak tolalari aralash «Xitoy» qog‘oziga (to'g'ri)
++ Kul rang, ipak tolalari aralash «Xitoy» qog‘oziga
 - Oq rang, ipak tolalari aralash «Xitoy» qog‘oziga
 - Oq rang, ipak tolalari aralash «Samarqand» qog‘oziga
 - Kul rang, ipak tolalari aralash «Samarqand» qog‘oziga
@@ -7170,12 +7296,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Termizda
 - Samarqandda
-- Buxoroda (to'g'ri)
++ Buxoroda
 - Shoshda
 
 **1015. «Inshootlarning o‘rtasida qo‘sh devorlar bilan qurshalgan va ichkariga aylanma yo‘lagi bo‘lgan to‘g‘ri burchakli bino bo‘lgan. Xonalardan 140 ta teriga va yog‘ochga yozilgan turli mazmundagi hujjatlar hamda 138 ta katta-kichik haykalchalar topilgan». Ushbu ma’lumotlar kimning qaysi asaridan olingan?**
 
-- S. P. Tolstov, «Qadimiy Xorazm sivilizatsiyasini izlab» (to'g'ri)
++ S. P. Tolstov, «Qadimiy Xorazm sivilizatsiyasini izlab»
 - A. Sagdullayev, «Qadimgi O‘zbekiston ilk yozma manbalarda»
 - V. V. Bartold, «Turkiston»
 - Y. G. G‘ulomov, «Xorazmning sug‘orilish tarixi»
@@ -7185,19 +7311,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 2, 3, 5, 6
 - 1, 3, 5, 8
 - 1, 6, 8, 9
-- 2, 4, 7, 9 (to'g'ri)
++ 2, 4, 7, 9
 
 **1017. Mug‘ tog‘idan topilgan hujjatni kim yozgan?**
 
 - Xoriyenning quli yozgan
 - G‘urakning quli yozgan 
-- Divashtichning quli yozgan (to'g'ri)
++ Divashtichning quli yozgan
 - Farasmanning quli yozgan
 
 **1018. Mug‘ tog‘idan topilgan hujjatda qaysi asrda o‘lkamizda ro‘y bergan voqealar haqida so‘z boradi?**
 
 - VII asrda
-- VIII asrda (to'g'ri)
++ VIII asrda
 - IX asrda
 - X asrda
 
@@ -7205,7 +7331,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 4 yoshdan 10 yoshgacha
 - 5 yoshdan 11 yoshgacha
-- 6 yoshdan 12 yoshgacha (to'g'ri)
++ 6 yoshdan 12 yoshgacha
 - 7 yoshdan 13 yoshgacha
 
 **1020. Ilk o‘rta asrlarda qaysi davlatlarga oid bo‘lgan tangalarda podshohlarning rasmi tushirilib, ismlari bilan zarb etilganlari uchraydi?**
@@ -7213,12 +7339,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Kushonlar va Qang‘ davlatiga
 - Kidariylar va Kushonlarga
 - Turk xoqonligi va Kidariylarga
-- Eftaliylar va Turk xoqonligiga (to'g'ri)
++ Eftaliylar va Turk xoqonligiga
 
 **1021. Qaysi davlat davrida Turonda sug‘dcha, xorazmcha, buxorocha, karoshti, eftaliycha yozuvlar mavjud bo‘lgan?**
 
 - Kidariylar davrida
-- Eftaliylar davrida (to'g'ri)
++ Eftaliylar davrida
 - Kushonlar davrida
 - Turk xoqonligi davrida
 
@@ -7226,12 +7352,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Abul Hasan Ash’ariy
 - Abu Hanifa No‘mon ibn Sobit
-- Abu Homid G‘azzoliy (to'g'ri)
++ Abu Homid G‘azzoliy
 - Abu Abdulloh Ahmad ibn Hanbal
 
 **1023. Qaysi Turk xoqoni Vizantiya imperatoriga noma yuborgan?**
 
-- Istami (to'g'ri)
++ Istami
 - Bumin
 - Qoracho‘rin
 - Alp Arslon
@@ -7239,7 +7365,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **1024. Kaykovus o‘zining «Qobusnoma» asarida qaysi kasblarni «biror pasha (hunar, kasb) bila bog‘liq ishlar» deb atagan? 1) Tabiblik; 2) Xunyogarlik (musiqa asboblari ustasi); 3) Munajjimlik; 4) Baytorlik (otlarni davolovchi); 5) Muhandislik; 6) Massohlik (yer o‘lchovchi, tanobchi); 7) Binokorlik; 8) Shoirlik; 9) Korizkunlik.**
 
 - 2, 3, 5, 6, 8
-- 1, 3, 5, 6, 8 (to'g'ri)
++ 1, 3, 5, 6, 8
 - 1, 2, 3, 5, 6
 - 2, 4, 7, 8, 9
 
@@ -7248,25 +7374,25 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 927-930-yillarda
 - 928-931-yillarda
 - 929-932-yillarda
-- 930-933-yillarda (to'g'ri)
++ 930-933-yillarda
 
 **1026. Turk xoqoni Istami Vizantiya imperatoriga yuborgan nomasini kim olib borgan?**
 
 - Fors elchisi
-- Sug‘d elchisi (to'g'ri)
++ Sug‘d elchisi
 - Sak elchisi
 - Turk elchisi
 
 **1027. Kim ilmni kimlarga o‘rgatmoq lozim, degan savolga «dunyoviy va diniy ilmlarni faqat qalbi ezgulikka limmo- lim insonlarga o‘rgatish lozim. Ilm faqat ezgulikka xizmat qilishi kerak», degan fikrni ilgari surgan?**
 
-- Abu Homid G‘azzoliy (to'g'ri)
++ Abu Homid G‘azzoliy
 - Abul Hasan Ash’ariy
 - Abu Hanifa No‘mon ibn Sobit
 - Abu Abdulloh Ahmad ibn Hanbal
 
 **1028. Ilk o‘rta asrlarda Turonda madrasada ta’lim olish necha yoshdan boshlangan?**
 
-- 12, 14 yoshdan (to'g'ri)
++ 12, 14 yoshdan
 - 13, 15 yoshdan
 - 14, 16 yoshdan
 - 15, 17 yoshdan
@@ -7275,12 +7401,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Abul Hasan Ash’ariy
 - Abu Hanifa No‘mon ibn Sobit
-- Abu Homid G‘azzoliy (to'g'ri)
++ Abu Homid G‘azzoliy
 - Abu Abdulloh Ahmad ibn Hanbal
 
 **1030. Mashhur sayyoh Istaxriy o‘zining «Kitob masolik va-l-mamolik» asarida kimlarning ilmga o‘chliklarini yozgan?**
 
-- Xorazmliklarning (to'g'ri)
++ Xorazmliklarning
 - Sug‘dliklarning
 - Baqtriyaliklarning
 - Shoshliklarning
@@ -7291,55 +7417,55 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **1031. Abu Iso Muhammad Termiziy qaysi yillarda yashagan?**
 
 - 816–885-yillarda
-- 824–892-yillarda (to'g'ri)
++ 824–892-yillarda
 - 814–881-yillarda
 - 825–895-yillarda
 
 **1032. Burhoniddin Marg‘inoniy qanday ulug‘ martabaga sazovor bo‘lgan?**
 
-- «Shayx ul-islom» (to'g'ri)
++ «Shayx ul-islom»
 - «Shayx ur-rais»
 - «Xos Hojib»
 - «Hojibi buzruk»
 
 **1033. Kim «hadis ilmining sultoni» degan sharafli unvonga sazovor bo‘lgan?**
 
-- Imom Buxoriy (to'g'ri)
++ Imom Buxoriy
 - Mahmud Zamaxshariy
 - Imom Termiziy
 - Burhoniddin Marg‘inoniy
 
 **1034. Abul Qosim Mahmud ibn Umar ibn Muhammad Zamaxshariy qaysi yillarda yashagan?**
 
-- 1075–1144-yillarda (to'g'ri)
++ 1075–1144-yillarda
 - 1072–1141-yillarda
 - 1066–1138-yillarda
 - 1069–1135-yillarda
 
 **1035. Musulmon olamidagi dastlabki o‘quv dargohlari — madrasalar VIII asrning oxirlarida o‘sha davrdagi ilmiy-madaniy markazlar hisoblangan qaysi qadimiy shaharlarda faoliyat ko‘rsata boshlagan? 1) Marv; 2) Buxoro; 3) Balx; 4) Samarqand; 5) Nasaf; 6) Termiz; 7) Xiva; 8) Ustrushona; 9) Shosh; 10) Marg‘ilon.**
 
-- 2, 4, 5, 6, 7, 9, 10 (to'g'ri)
++ 2, 4, 5, 6, 7, 9, 10
 - 2, 3, 5, 7, 8, 9, 10
 - 1, 2, 3, 4, 5, 6, 9
 - 1, 4, 5, 6, 7, 8, 9
 
 **1036. «Ilmdan boshqa najot yo‘q va bo‘lmagay!». Ushbu jumlalar muallifi kim?**
 
-- Imom Buxoriy (to'g'ri)
++ Imom Buxoriy
 - Mahmud Zamaxshariy
 - Imom Termiziy
 - Burhoniddin Marg‘inoniy
 
 **1037. Zamaxshariy «Al-Mufassal» asarini qancha vaqt davomida yozgan?**
 
-- Bir yarim yil davomida (to'g'ri)
++ Bir yarim yil davomida
 - Ikki yarim yil davomida
 - Uch yarim yil davomida
 - To‘rt yarim yil davomida
 
 **1038. Narshaxiyning «Tahqiqi viloyati Buxoro» («Buxoro tarixi») asari qayerda fransuz tilida nashr etilgan?**
 
-- Parijda (to'g'ri)
++ Parijda
 - Bryusselda
 - Jenevada
 - Marselda
@@ -7348,7 +7474,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 886–946-yillarda
 - 897–957-yillarda
-- 899–959-yillarda (to'g'ri)
++ 899–959-yillarda
 - 902–962-yillarda
 
 **1040. Narshaxiyning «Tahqiqi viloyati Buxoro» («Buxoro tarixi») asari qayerda tojik tilida nashr etilgan?**
@@ -7356,19 +7482,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Ashxobodda
 - Bishkekda
 - Ostonada
-- Dushanbeda (to'g'ri)
++ Dushanbeda
 
 **1041. Payg‘ambar Muhammad alayhissalomning hadislariga bag‘ishlangan «Navodir al-usul fi ma’rifat axbor Rasul» («Rasululloh xabarlarini bilishga oid usullar») asari muallifi kim?**
 
 - Imom Buxoriy
-- Hakim Termiziy (to'g'ri)
++ Hakim Termiziy
 - Burhoniddin Marg‘inoniy
 - Mahmud Zamaxshariy
 
 **1042. Burhoniddin Marg‘inoniyning qancha asarlar yozganligi manbalarda qayd qilingan?**
 
 - Ellikka yaqin
-- Yuzga yaqin (to'g'ri)
++ Yuzga yaqin
 - Yuz ellikka yaqin
 - Ikki yuzga yaqin
 
@@ -7376,12 +7502,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 1, 2, 3, 4, 5, 6
 - 1, 2, 3, 4, 5, 6, 7
-- 1, 2, 3, 4, 5, 6, 7, 8 (to'g'ri)
++ 1, 2, 3, 4, 5, 6, 7, 8
 - 1, 2, 3, 4, 5, 6, 7, 8, 9
 
 **1044. Narshaxiy «Tahqiqi viloyati Buxoro» («Buxoro tarixi») asarini qaysi yillarda yozgan?**
 
-- 943–944-yillarda (to'g'ri)
++ 943–944-yillarda
 - 944–945-yillarda
 - 945–946-yillarda
 - 946–947-yillarda
@@ -7391,19 +7517,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Yozyovon tumanida
 - Toshloq tumanida
 - Beshariq tumanida
-- Rishton tumanida (to'g'ri)
++ Rishton tumanida
 
 **1046. Narshaxiyning «Tahqiqi viloyati Buxoro» («Buxoro tarixi») asari qaysi asrda Turonning arab xalifaligidan ajralib chiqishi, Movarounnahr va Xurosonda somoniylar hukmronligining o‘rnatilishi hamda Buxoroning iqtisodiy va madaniy hayoti tasvirlangan?**
 
 - VIII asrda
-- IX asrda (to'g'ri)
++ IX asrda
 - X asrda
 - XI asrda
 
 **1047. Zamaxshariyning «Usuldagi tartibotlar» asari nimaga bag‘ishlangan?**
 
 - Fiqhga
-- Din asoslariga (to'g'ri)
++ Din asoslariga
 - Arab tili grammatikasiga
 - Hadislarga
 
@@ -7411,7 +7537,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Londonda
 - Oksfordda
-- Kembrijda (to'g'ri)
++ Kembrijda
 - Vashingtonda
 
 **1049. «Al-Mufassal» asari muallifi kim?**
@@ -7419,19 +7545,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Imom Buxoriy
 - Imom Termiziy
 - Burhoniddin Marg‘inoniy
-- Mahmud Zamaxshariy (to'g'ri)
++ Mahmud Zamaxshariy
 
 **1050. Manbalarda aytilishicha, Imom Buxoriyning sahih to‘plamiga kiritilgan ishonchli hadislarning soni takrorlanadiganlari bilan birga ... ta bo‘lib, takrorlanmaydigan holda esa … hadisdan iborat bo‘lgan.**
 
 - 6 275/2 000
-- 7 275/4 000 (to'g'ri)
++ 7 275/4 000
 - 5 275/3 000
 - 8 275/5 000
 
 **1051. Narshaxiyning «Tahqiqi viloyati Buxoro» («Buxoro tarixi») asari qayerlarda fors tilida nashr etilgan?**
 
 - Samarqand va Tehronda
-- Buxoro va Tehronda (to'g'ri)
++ Buxoro va Tehronda
 - Buxoro va Isfahonda
 - Samarqand va Isfahonda
 
@@ -7439,7 +7565,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Mufassir
 - Imom
-- Roviy (to'g'ri)
++ Roviy
 - Muhaddis
 
 **1053. Qur’onni tafsir qiluvchilar qanday ataladi?**
@@ -7447,18 +7573,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Mutavalli
 - Muarrix
 - Muhaddis
-- Mufassir (to'g'ri)
++ Mufassir
 
 **1054. Imom Burhoniddin Abulhasan Ali ibn Abubakr ibn Abduljalil Farg‘oniy Marg‘inoniyning nasabi qaysi xalifaga borib taqaladi?**
 
-- Abu Bakr (to'g'ri)
++ Abu Bakr
 - Umar
 - Usmon
 - Ali
 
 **1055. Qachon Imom Termiziy Nishopurdan o‘z tug‘ilgan yurtiga qaytgan?**
 
-- 868-yilda (to'g'ri)
++ 868-yilda
 - 872-yilda
 - 863-yilda
 - 878-yilda
@@ -7466,7 +7592,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **1056. Kim «al-Hakim», ya’ni «(borliqdagi) hikmatni anglagan zot» nomiga musharraf bo‘lgan?**
 
 - Imom Buxoriy
-- Hakim Termiziy (to'g'ri)
++ Hakim Termiziy
 - Burhoniddin Marg‘inoniy
 - Mahmud Zamaxshariy
 
@@ -7475,33 +7601,33 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Ismoil ibn Ahmadga
 - Ilyos ibn Asadga
 - Nasr ibn Ahmadga
-- Nuh ibn Nasrga (to'g'ri)
++ Nuh ibn Nasrga
 
 **1058. Narshaxiy «Tahqiqi viloyati Buxoro» («Buxoro tarixi») asarini qaysi tilda yozgan?**
 
 - Sug‘d tilida
 - Turk tilida
 - Fors tilida
-- Arab tilida (to'g'ri)
++ Arab tilida
 
 **1059. Burhoniddin Marg‘inoniyning «Hidoya» asari qayerda yozilgan?**
 
 - Bag‘dodda
 - Makkada
 - Buxoroda
-- Samarqandda (to'g'ri)
++ Samarqandda
 
 **1060. Iso Termiziy maqbarasi qayerda joylashgan?**
 
 - Denov tumanida
 - Bandixon tumanida
 - Angor tumanida
-- Sherobod tumanida (to'g'ri)
++ Sherobod tumanida
 
 **1061. Imom Burhoniddin Marg‘inoniy qaysi yillarda yashagan?**
 
 - 1117-1183-yillarda
-- 1123-1197-yillarda (to'g'ri)
++ 1123-1197-yillarda
 - 1126-1191-yillarda
 - 1119-1186-yillarda
 
@@ -7509,40 +7635,40 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 2001-yilning noyabrida
 - 2003-yilning noyabrida
-- 2000-yilning noyabrida (to'g'ri)
++ 2000-yilning noyabrida
 - 2006-yilning noyabrida
 
 **1063. «Bad’u sha’ni Abu Abdulloh» («Abu Abdulloh ishining boshlanishi») nomli avtobiografik risola muallifi kim?**
 
 - Imom Buxoriy
-- Hakim Termiziy (to'g'ri)
++ Hakim Termiziy
 - Burhoniddin Marg‘inoniy
 - Mahmud Zamaxshariy
 
 **1064. Hakim Termiziyning qaysi asarida allomaning valiylik haqidagi qarashlari keng bayon etilgan?**
 
 - «Navodir al-usul fi ma’rifat axbor Rasul» («Rasululloh xabarlarini bilishga oid usullar») asarida
-- «Xatm ul-avliyo» (ba’zi manbalarda «Xatm ul-valoyat») asarida (to'g'ri)
++ «Xatm ul-avliyo» (ba’zi manbalarda «Xatm ul-valoyat») asarida
 - «Kitob haqiqat al-odamiya» («Insoniyat haqiqati to‘g‘risida kitob») asarida
 - «Adab al-nafs» («Nafs odobi») asarida
 
 **1065. Imom Buxoriy maqbarasi qaysi shaharda joylashgan?**
 
 - Termizda
-- Samarqandda (to'g'ri)
++ Samarqandda
 - Farg‘onada
 - Buxoroda
 
 **1066. Kimning «al-Jome as-sahih» (Sahih, ishonchli to‘plam) asari islomda Qur’oni karimdan keyingi o‘rinda turadigan ikkinchi muhim manba hisoblanadi?**
 
-- Imom Buxoriyning (to'g'ri)
++ Imom Buxoriyning
 - Mahmud Zamaxshariyning
 - Imom Termiziyning
 - Burhoniddin Marg‘inoniyning
 
 **1067. Burhoniddin Marg‘inoniyning «Hidoya» asari qachon yozilgan?**
 
-- 1178-yilda (to'g'ri)
++ 1178-yilda
 - 1172-yilda
 - 1169-yilda
 - 1165-yilda
@@ -7550,28 +7676,31 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **1068. Imom Buxoriyni qaysi shaharda olimlar hadislarning matn va isnodlarini o‘zgartirib, imtihon qilmoqchi bo‘lganlar?**
 
 - Damashqda
-- Bag‘dodda (to'g'ri)
++ Bag‘dodda
 - Buxoroda
 - Samarqandda
 
 **1069. Hakim Termiziyning qaysi asarining bir qo‘lyozma nusxasi O‘zbekiston musulmonlar idorasi kutubxonasida saqlanmoqda?**
 
-- «Navodir al-usul fi ma’rifat axbor Rasul» («Rasululloh xabarlarini bilishga oid usullar») asarining (to'g'ri)
++ «Navodir al-usul fi ma’rifat axbor Rasul» («Rasululloh xabarlarini bilishga oid usullar») asarining
 - «Xatm ul-avliyo» (ba’zi manbalarda «Xatm ul-valoyat») asarining
 - «Kitob haqiqat al-odamiya» («Insoniyat haqiqati to‘g‘risida kitob») asarining
 - «Adab al-nafs» («Nafs odobi») asarining
 
 **1070. Zamaxshariy necha marta haj safarida bo‘lgan?**
 
-- Ikki marta (to'g'ri)
++ Ikki marta
 - Uch marta
 - To‘rt marta
 - Besh marta
 
 **1071. Rasmdagi Imom Burhoniddin Marg‘inoniy ziyoratgohi qayerda joylashgan?**
 
+
+![](../images/astron43806943905728.png)
+
 - Namangan viloyatida
-- Farg‘ona viloyatida (to'g'ri)
++ Farg‘ona viloyatida
 - Andijon viloyatida
 - Sirdaryo viloyatida
 
@@ -7579,26 +7708,26 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Makkada 
 - Xivada
-- Ko‘hna Urganchda (to'g'ri)
++ Ko‘hna Urganchda
 - Buxoroda
 
 **1073. Narshaxiyning «Tahqiqi viloyati Buxoro» («Buxoro tarixi») asari qayerda rus va o‘zbek tilida nashr etilgan?**
 
 - Sankt-Peterburgda
 - Buxoroda
-- Toshkentda (to'g'ri)
++ Toshkentda
 - Moskvada
 
 **1074. Zamaxshariyning «Turli masalalarning muhimi», «Vorislik huquqi ilmi bo‘yicha mashq» asarlari nimaga bag‘ishlangan?**
 
-- Fiqhga (to'g'ri)
++ Fiqhga
 - Din asoslariga
 - Arab tili grammatikasiga
 - Hadislarga
 
 **1075. Hakim Termiziyning nechta asari bizgacha yetib kelgan?**
 
-- Oltmishga yaqini (to'g'ri)
++ Oltmishga yaqini
 - Yetmishga yaqini
 - Saksonga yaqini
 - To‘qsonga yaqini
@@ -7607,7 +7736,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 1, 3, 4
 - 1, 2, 3
-- 1, 2, 4 (to'g'ri)
++ 1, 2, 4
 - 2, 3, 4
 
 **1077. Hakim Termiziy qaysi yillarda yashagan?**
@@ -7615,12 +7744,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 780/790-885-yillarda
 - 760/770-878-yillarda
 - 740/750-853-yillarda
-- 750/760-869-yillarda (to'g'ri)
++ 750/760-869-yillarda
 
 **1078. Ma’lumotlarga ko‘ra kim bir kuni bir insondan hadis eshitish va uni yozib olish uchun izlab borgan, u kishi otini chaqirish maqsadida etagiga yolg‘ondan yem solgandek ko‘rsatib, aldab chaqirayotganini ko‘rgan va oqibatda juda uzoqdan kelgan bo‘lsalar-da, u kishidan hadis eshitmay qaytib ketganlar?**
 
 - Mahmud Zamaxshariy
-- Imom Buxoriy (to'g'ri)
++ Imom Buxoriy
 - Imom Termiziy
 - Burhoniddin Marg‘inoniy
 
@@ -7629,20 +7758,20 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Fiqhga
 - Din asoslariga
 - Arab tili grammatikasiga
-- Hadislarga (to'g'ri)
++ Hadislarga
 
 **1080. Alisher Navoiy qaysi dostonining ustozi Abdurahmon Jomiy ta’rifiga bag‘ishlangan bobida Zamahshariyni eslab o‘tgan?**
 
 - «Saddi Iskandariy» dostonida
 - «Farhod va Shirin» dostonida
 - «Hayrat ul-abror» dostonida
-- «Sab’ai sayyor» dostonida (to'g'ri)
++ «Sab’ai sayyor» dostonida
 
 **1081. Imom Buxoriy qaysi shogirdiga sen mendan bahra topganingdan ko‘ra, men sendan ko‘proq bahra topdim», deb aytgan?**
 
 - Abulhasan Ali ibn Abubakrga
 - Burhoniddin Marg‘inoniyga 
-- Imom Termiziyga (to'g'ri)
++ Imom Termiziyga
 - Is’hoq Rohuvaihga
 
 **1082. Abu Iso Muhammad Termiziy tavallud topgan Bug‘ qishlog‘i hozirgi qaysi tumanda joylashgan?**
@@ -7650,11 +7779,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Denov tumanida
 - Bandixon tumanida
 - Angor tumanida
-- Sherobod tumanida (to'g'ri)
++ Sherobod tumanida
 
 **1083. Qachon yurtimizda Termiziy tavalludining 1200 yilligi keng nishonlangan?**
 
-- 1990-yilda (to'g'ri)
++ 1990-yilda
 - 1994-yilda
 - 1991-yilda
 - 1998-yilda
@@ -7662,7 +7791,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **1084. Zamaxshariy qayerning Zamaxshar qishlog‘ida tug‘ilgan?**
 
 - Buxoro
-- Xorazm (to'g'ri)
++ Xorazm
 - Samarqand
 - Termiz
 
@@ -7670,14 +7799,14 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Mahmud Zamaxshariy
 - Imom Buxoriy
-- Imom Termiziy (to'g'ri)
++ Imom Termiziy
 - Burhoniddin Marg‘inoniy
 
 **1086. Hadis to‘plovchilar qanday ataladi?**
 
 - Mutavalli
 - Muarrix
-- Muhaddis (to'g'ri)
++ Muhaddis
 - Mufassir
 
 **1087. Imom Termiziy Imom Buxoriy bilan qaysi shaharda uchrashgan va ikki alloma birgalikda necha yil yashashgan?**
@@ -7685,20 +7814,20 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Isfahonda, 3 yil
 - Marvda, 8 yil
 - Bag‘dodda, 2 yil
-- Nishopurda, 5 yil (to'g'ri)
++ Nishopurda, 5 yil
 
 **1088. Zamaxshariy «Al-Mufassal» asarini qayerda yashagan paytida yozgan?**
 
 - Nishopurda
 - Madinada
-- Makkada (to'g'ri)
++ Makkada
 - Bag‘dodda
 
 **1089. Narshaxiyning «Tahqiqi viloyati Buxoro» («Buxoro tarixi») asarining qaysi tilga tarjima qilinib, qariyb uch asr davomida bir necha bor tahrir, qisqartirish va qo‘shimchalarni boshidan kechirgan nusxasi saqlanib qolgan?**
 
 - Sug‘d tiliga
 - Turk tiliga
-- Fors tiliga (to'g'ri)
++ Fors tiliga
 - Arab tiliga
 
 **1090. Quyidagi qaysi asarlar Imom Termiziy qalamiga mansub? 1) «Al-Jome’ as-sahih» («Ishonarli to‘plam»); 2) «Ash-Shamoil an-nabaviya» («Payg‘ambar alayhissalomning shakl va sifatlari»); 3) «Al-Ilal fil-hadis» («Hadislardagi illatlar»); 4) «at-Ta’rix» («Tarix»).**
@@ -7706,11 +7835,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 1, 2, 4
 - 1, 2, 3
 - 2, 3, 4
-- 1, 2, 3, 4 (to'g'ri)
++ 1, 2, 3, 4
 
 **1091. Zamaxshariy qaysi yildan e’tiboran butun umrini ilm-fanga bag‘ishlagan?**
 
-- 1118-yildan (to'g'ri)
++ 1118-yildan
 - 1122-yildan
 - 1114-yildan
 - 1129-yildan
@@ -7718,7 +7847,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **1092. Kim «Jorulloh» – «Allohning qo‘shnisi», «Arab va g‘ayri arablar ustozi », «Xorazm faxri» nomlari bilan ulug‘langan?**
 
 - Al-Xorazmiy
-- Zamaxshariy (to'g'ri)
++ Zamaxshariy
 - Beruniy
 - Abu Nasr Mansur
 
@@ -7726,13 +7855,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 37 bobdan
 - 47 bobdan
-- 57 bobdan (to'g'ri)
++ 57 bobdan
 - 67 bobdan
 
 **1094. Imom Termiziyning «Al-Jome’ as-sahih» asari nechta ishonchli hadislar to‘plamidan biri hisoblanadi?**
 
 - 5 ta
-- 6 ta (to'g'ri)
++ 6 ta
 - 7 ta
 - 8 ta
 
@@ -7740,20 +7869,20 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Imom Buxoriy
 - Imom Termiziy
-- Burhoniddin Marg‘inoniy (to'g'ri)
++ Burhoniddin Marg‘inoniy
 - Mahmud Zamaxshariy
 
 **1096. Imom Buxoriy Muhammad (s.a.v.) ning qancha hadislarini yodida saqlagan?**
 
 - Besh yuz mingga yaqin
-- Olti yuz mingga yaqin (to'g'ri)
++ Olti yuz mingga yaqin
 - Yetti yuz mingga yaqin
 - Sakkiz yuz mingga yaqin
 
 **1097. Kim hadis ilmi olimlaridan biri Is’hoq Rohuvaihning «Koshki sizlar Nabii sollallohu alayhi vasallamning sunnatlarini jamlagan muxtasar, sahih kitob jam qilsangiz edi!» degan so‘zlaridan keyin hadislarni jamlashni boshlagan?**
 
 - Mahmud Zamaxshariy
-- Imom Buxoriy (to'g'ri)
++ Imom Buxoriy
 - Imom Termiziy
 - Burhoniddin Marg‘inoniy
 
@@ -7761,7 +7890,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Farg‘ona
 - G‘ijduvon
-- Buxoro (to'g'ri)
++ Buxoro
 - Samarqand
 
 **1099. Imom Buxoriyning «Al-Jome as-sahih» asari necha yil mobaynida yozib tugatilgan?**
@@ -7769,25 +7898,25 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 14 yil mobaynida
 - 12 yil mobaynida
 - 18 yil mobaynida
-- 16 yil mobaynida (to'g'ri)
++ 16 yil mobaynida
 
 **1100. Narshaxiy qayerning Narshax qishlog‘ida tug‘ilgan?**
 
 - Farg‘ona
 - G‘ijduvon
-- Buxoro (to'g'ri)
++ Buxoro
 - Samarqand
 
 **1101. Hakim Termiziy nechta asar yozgan?**
 
 - Ikki yuzga yaqin
 - Uch yuzga yaqin
-- To‘rt yuzga yaqin (to'g'ri)
++ To‘rt yuzga yaqin
 - Besh yuzga yaqin
 
 **1102. Qachon musulmonlar tomonidan dunyodagi birinchi shifoxona tashkil qilingan?**
 
-- 707-yilda (to'g'ri)
++ 707-yilda
 - 709-yilda
 - 711-yilda
 - 718-yilda
@@ -7797,19 +7926,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Fiqhga
 - Mantiqqa
 - Riyoziyotga
-- Tasavvufga (to'g'ri)
++ Tasavvufga
 
 **1104. Zamaxshariy «Qur’on haqiqatlari va uni sharhlash orqali so‘zlar ko‘zlarini ochish» («Al-Kashshof an haqoiq it-tanziyl va uyun-il-aqoviyl fi vujuh it-ta’viyl») asarini qayerda yozgan?**
 
 - Nishopurda
 - Madinada
-- Makkada (to'g'ri)
++ Makkada
 - Bag‘dodda
 
 **1105. Burhoniddin Marg‘inoniy qaysi mazhab bo‘yicha buyuk faqih va mujtahid darajasiga ko‘tarilgan?**
 
 - Hanbaliy mazhabi
-- Hanafiy mazhabi (to'g'ri)
++ Hanafiy mazhabi
 - Molikiy mazhabi
 - Shofe’iy mazhabi
 
@@ -7818,7 +7947,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 **1106. Ma’mun akademiyasida Beruniyning qaysi sohadagi makatbi mashhur bo‘lgan?**
 
-- Astronomiya (to'g'ri)
++ Astronomiya
 - Matematika
 - Kimyo
 - Geometriya
@@ -7828,13 +7957,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Damashqda
 - Bag‘dodda
 - Qohirada
-- Nishopurda (to'g'ri)
++ Nishopurda
 
 **1108. Muhammad Muso Xorazmiy qaysi xalifa tomonidan Bag‘dodga olib ketilgan?**
 
 - Horun
 - Amin
-- Ma’mun (to'g'ri)
++ Ma’mun
 - Muoviya
 
 **1109. Hozirgi geologiya, mineralogiya, fizika va kimyo sohalari uchun nihoyatda muhim va ishonchli bo‘lgan moddalar tahlili (diagnostikasi) ning usuli, ya’ni moddalar solishtirma og‘irligini aniqlash ilk bor qayerda kashf qilingan kashf qilingan?**
@@ -7842,18 +7971,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Bag‘dodda, «Bayt al-Hikma» akademiyasida
 - Misrda, Aleksandriya akademiyasida
 - Afinada, Platon akademiyasida
-- Xorazmda, Ma’mun akademiyasida (to'g'ri)
++ Xorazmda, Ma’mun akademiyasida
 
 **1110. Hozirgi geologiya, mineralogiya, fizika va kimyo sohalari uchun nihoyatda muhim va ishonchli bo‘lgan moddalar tahlili (diagnostikasi) ning usuli, ya’ni moddalar solishtirma og‘irligini aniqlash kim tomonidan kashf qilingan kashf qilingan?**
 
 - Abul Xayr Hammor
 - Abu Nasr
-- Beruniy (to'g'ri)
++ Beruniy
 - Ibn Sino
 
 **1111. XI-XII asrlarda Markaziy Osiyoda sariq loydan tayyorlanib, maxsus xumdonlarda pishirilgan g‘isht qanday atalgan?**
 
-- «Musulmon g‘isht» (to'g'ri)
++ «Musulmon g‘isht»
 - «Turon g‘isht»
 - «Sug‘d g‘isht»
 - «Dev g‘isht»
@@ -7861,20 +7990,20 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **1112. Diyorimizga qaysi asrga qadar asosan loy va xom g‘ishtdan qurib kelingan binolar o‘rniga endi pishiq g‘ishtlar ham ishlatila boshlangan?**
 
 - VIII asrga qadar
-- IX asrga qadar (to'g'ri)
++ IX asrga qadar
 - X asrga qadar
 - XI asrga qadar
 
 **1113. Ma’mun akademiyasida Abu Nasrning qaysi sohadagi makatbi mashhur bo‘lgan?**
 
 - Astronomiya
-- Matematika (to'g'ri)
++ Matematika
 - Kimyo
 - Geometriya
 
 **1114. Qachon mamlakatimizda Xorazm Ma’mun akademiyasining 1000 yilligi nishonlangan?**
 
-- 2006-yilda (to'g'ri)
++ 2006-yilda
 - 2008-yilda
 - 2004-yilda
 - 2002-yilda
@@ -7883,26 +8012,26 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Muhammad Muso Xorazmiy
 - Abu Ali Ibn Sino
-- Abu Rayhon Beruniy (to'g'ri)
++ Abu Rayhon Beruniy
 - Mahmud Zamaxshariy
 
 **1116. Xorazmshoh Abul Hasan Ali ibn Ma’mun qachon Gurganchda akademiyaga asos solgan?**
 
 - 1006-yilda
-- 1004-yilda (to'g'ri)
++ 1004-yilda
 - 1008-yilda
 - 1002-yilda
 
 **1117. IX-X asrlarda diyorimizga kelib-ketgan sayyoh va olimlar shaharlarga ta’rif bera turib, asosiy binolar sifatida nimalarni tilga olganlar?**
 
 - Saroy va karvonsaroylarni
-- Masjid va madrasalarni (to'g'ri)
++ Masjid va madrasalarni
 - Madrasa va hammomlarni
 - Hammon va masjidlarni
 
 **1118. Xorazmshoh Ma’munning zukko ma’rifatparvar va faylasuf bo‘lgan vaziri kim edi?**
 
-- Abu Husayn Suhayliy (to'g'ri)
++ Abu Husayn Suhayliy
 - Nizom ul-Mulk
 - Fazl ibn Sahl
 - Abdulloh ibn Tohir
@@ -7912,25 +8041,28 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - «Bayt al-Hikma» akademiyasida
 - Qohira akademiyasida
 - Bag‘dod akademiyasida
-- Ma’mun akademiyasida (to'g'ri)
++ Ma’mun akademiyasida
 
 **1120. Nizomulmulk qaysi sulola davrida vazir bo‘lgan?**
 
 - G‘aznaviylar
 - Qoraxoniylar
-- Saljuqiylar (to'g'ri)
++ Saljuqiylar
 - Somoniylar
 
 **1121. Marv noibi Ma’mun qachon Bag‘dod xalifaligi taxtiga o‘tirgan?**
 
-- 813-yilda (to'g'ri)
++ 813-yilda
 - 815-yilda
 - 814-yilda
 - 816-yilda
 
 **1122. Rasmdagi Mag‘oki Attoriy masjidi qayerda joylashgan?**
 
-- Buxoroda (to'g'ri)
+
+![](../images/astron685426191558.png)
+
++ Buxoroda
 - Samarqandda
 - Termizda
 - Marg‘ilonda
@@ -7939,12 +8071,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Abul Xayr Hammorning
 - Abu Rayhon Beruniyning
-- Muhammad Muso Xorazmiyning (to'g'ri)
++ Muhammad Muso Xorazmiyning
 - Abu Ali Ibn Sinoning
 
 **1124. XI-XII asrlarda Markaziy Osiyoda imoratlarni nechta burchakli peshtoqlari baland ko‘tarilgan va hashamatli gumbazlar bilan yopilgan holda qurish odat tusiga kirgan?**
 
-- Sakkiz burchakli (to'g'ri)
++ Sakkiz burchakli
 - O‘n burchakli
 - Olti burchakli
 - To‘rt burchakli
@@ -7952,7 +8084,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **1125. Nizomulmulk tomonidan qayerda asos solingan «Nizomiya» madrasalaridan birida olti ming talaba yashab, ta’lim olgan?**
 
 - Damashqda
-- Bag‘dodda (to'g'ri)
++ Bag‘dodda
 - Qohirada
 - Nishopurda
 
@@ -7960,7 +8092,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Astronomiya
 - Matematika
-- Kimyo (to'g'ri)
++ Kimyo
 - Geometriya
 
 ## 47-48-§ Muhammad ibn Muso al-Xorazmiy.
@@ -7968,7 +8100,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 **1127. Muhammad ibn Muso al-Xorazmiy qaysi fanning asoschisi sifatida ilm-fan tarixida yuksak nom qozongan?**
 
-- Algebra (to'g'ri)
++ Algebra
 - Matematika
 - Geometriya
 - Arifmetika
@@ -7977,13 +8109,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Iroqdagi
 - Misrdagi
-- Suriyadagi (to'g'ri)
++ Suriyadagi
 - Falastindagi
 
 **1129. «Zij», «Usturlob bilan ishlash haqida kitob», «Usturlob yasash haqida kitob», «Usturlob yordamida azimutni aniqlash haqida», «Kitob ar-ruhoma», «Kitob at-tarix» asarlari muallifi kim?**
 
 - Ahmad Farg‘oniy
-- Muhammad ibn Muso al-Xorazmiy (to'g'ri)
++ Muhammad ibn Muso al-Xorazmiy
 - Abu Nasr Forobiy
 - Abu Rayhon Beruniy
 
@@ -7992,11 +8124,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - yunon
 - bobil
 - misr
-- hind (to'g'ri)
++ hind
 
 **1131. «Diksit Algoritmi» jumlasi ma’nosi nima?**
 
-- «Al-Xorazmiy shunday deydi» (to'g'ri)
++ «Al-Xorazmiy shunday deydi»
 - «Al-Xorazmiy shunday yozadi»
 - «Al-Xorazmiy shunday yashaydi»
 - «Al-Xorazmiy shunday ishlaydi»
@@ -8004,20 +8136,20 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **1132. Muhammad ibn Muso al-Xorazmiy nechta asar yozgan?**
 
 - 10 dan ortiq
-- 20 dan ortiq (to'g'ri)
++ 20 dan ortiq
 - 30 dan ortiq
 - 40 dan ortiq
 
 **1133. Muhammad ibn Muso al-Xorazmiy qadimiy qaysi davlatdan ma’lum bo‘lgan birinchi va ikkinchi darajali tenglamalarni yechish usullarini bayon qilgan?**
 
 - Misrdan
-- Bobildan (to'g'ri)
++ Bobildan
 - Hindistondan
 - Ossuriyadan
 
 **1134. Muhammad ibn Muso al-Xorazmiyning nechta asari bizgacha yetib kelgan?**
 
-- 10 tasi (to'g'ri)
++ 10 tasi
 - 20 tasi
 - 30 tasi
 - 40 tasi
@@ -8025,13 +8157,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **1135. Xalifa Ma’munning hukmronlik yillarini toping.**
 
 - 810–830-yillar
-- 813–833-yillar (to'g'ri)
++ 813–833-yillar
 - 815–835-yillar
 - 820–840-yillar
 
 **1136. «Har gal mobil telefoningni qo‘lga olganda, unutma, uning «ichida» musulmon o‘zbek otaxon yashirin o‘tiradi!». Ushbu jumla muallifi bo‘lgan Britan jurnalisti kim?**
 
-- Endryu Marr (to'g'ri)
++ Endryu Marr
 - Robert Fisk
 - Metyu Vidard
 - Pyer Bartolomey
@@ -8039,7 +8171,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **1137. Muhammad ibn Muso al-Xorazmiy qaysi yillarda yashagan?**
 
 - 973–1048-yillarda
-- 783–850-yillarda (to'g'ri)
++ 783–850-yillarda
 - 797–865-yillarda
 - 873–950-yillarda
 
@@ -8048,25 +8180,25 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Matematikaga
 - Geometriyaga
 - Arifmetikaga
-- Geografiyaga (to'g'ri)
++ Geografiyaga
 
 **1139. «Men arifmetikaning oddiy va murakkab masalalarini o‘z ichiga oluvchi … ni ta’lif qildim», deb yozgan Al-Xorazmiy.**
 
 - «Hind hisobi haqida kitob»
 - «Qo‘shish va ayirish haqida kitob»
-- «Al-jabr val-muqobala hisob haqida qisqacha kitob» (to'g'ri)
++ «Al-jabr val-muqobala hisob haqida qisqacha kitob»
 - «Usturlob yasash haqida kitob»
 
 **1140. «Al-Xorazmiy» nomidan qaysi so‘z kelib chiqqan?**
 
 - «Arifmetika»
-- «Algoritm» (to'g'ri)
++ «Algoritm»
 - «Astrolyabiya»
 - «Algebra»
 
 **1141. «Xorazmiy o‘z davrining eng buyuk matematigi va agar barcha shart-sharoitlar nazarga olinsa, hamma davrlarning ham eng buyuklaridan biri», deb ta’kidlagan amerikalik tarixchi kim?**
 
-- J. Sarton (to'g'ri)
++ J. Sarton
 - E. Foner
 - D. Gudvin
 - H. Richardson
@@ -8076,12 +8208,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - «Ta’rifladim»
 - «O‘qidim»
 - «Tuzdim»
-- «Yozdim» (to'g'ri)
++ «Yozdim»
 
 **1143. Abu Ja’far (Abu Abdulloh) Muhammad ibn Muso al-Xorazmiy qayerda tug‘ilgan?**
 
 - Guganchda
-- Xivada (to'g'ri)
++ Xivada
 - Hazoraspda
 - Vazirda
 
@@ -8090,11 +8222,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - «Arifmetika»
 - «Astrolyabiya»
 - «Algoritm»
-- «Algebra» (to'g'ri)
++ «Algebra»
 
 **1145. Muhammad ibn Muso al-Xorazmiy qaysi sonni son sifatida e’tirof etgan va hind sanoq tizimidan foydalanib, arab sanoq tizimiga asos solgan?**
 
-- 0 sonini (to'g'ri)
++ 0 sonini
 - 10 sonini
 - 100 sonini
 - 1000 sonini
@@ -8103,19 +8235,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Matematikaga
 - Geometriyaga
-- Arifmetikaga (to'g'ri)
++ Arifmetikaga
 - Geografiyaga
 
 **1147. X asrda yashagan qaysi sayyoh «Xorazmliklar aql-idrok, ilm, fiqh, qobiliyat hamda bilim kishilaridir», degan?**
 
 - Ibn Battuta
 - Al-Mas’udiy
-- Al-Muqaddasiy (to'g'ri)
++ Al-Muqaddasiy
 - Ibn Fadlan
 
 **1148. Muhammad ibn Muso al-Xorazmiyning aytishicha, algebrada uch xil son bilan ish ko‘riladi: … (jizr) yoki … (shay), … (mol) va oddiy son yoki … (pul birligi).**
 
-- ildiz/narsa/kvadrat/dirham (to'g'ri)
++ ildiz/narsa/kvadrat/dirham
 - narsa/kvadrat/dirham/ildiz
 - kvadrat/dirham/ildiz/narsa
 - dirham/ildiz/narsa/kvadrat
@@ -8123,7 +8255,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **1149. Qaysi yilda Sayyoralar tizimini nomlash ishchi guruhi Oyning kraterini Muso Xorazmiy nomi bilan atagan?**
 
 - 1978-yilda
-- 1976-yilda (to'g'ri)
++ 1976-yilda
 - 1971-yilda
 - 1973-yilda
 
@@ -8135,20 +8267,20 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Makiavelli
 - Shiller
 - Dante
-- Regiomontan (to'g'ri)
++ Regiomontan
 
 **1151. Abul Abbos Ahmad ibn Muhammad ibn Kasir al-Farg‘oniy qaysi yillarda yashagan?**
 
 - 973–1048-yillarda
 - 783–850-yillarda
-- 797–865-yillarda (to'g'ri)
++ 797–865-yillarda
 - 873–950-yillarda
 
 **1152. «Usturlob yasash haqida kitob», «Yetti iqlimni hisoblash haqida» asarlari va «Oyning Yer ostida va ustida bo‘lish vaqtlarini aniqlash haqida risola» qo‘lyozmasi muallifi kim?**
 
 - Abu Rayhon Beruniy
 - Muhammad ibn Muso al-Xorazmiy
-- Ahmad Farg‘oniy (to'g'ri)
++ Ahmad Farg‘oniy
 - Abu Nasr Farobiy
 
 **1153. Ahmad Farg‘oniy Farg‘ona vodiysining qaysi qishlog‘ida tug‘ilgan?**
@@ -8156,12 +8288,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Rishton qishlog‘ida
 - Kufa qishlog‘ida
 - Afshona qishlog‘ida
-- Qubo (Quva) qishlog‘ida (to'g'ri)
++ Qubo (Quva) qishlog‘ida
 
 **1154. Qohira shahrining qayerida Ahmad al-Farg‘oniyning haykali o‘rnatilgan?**
 
 - Markaziy maydonida
-- Roud orolida (to'g'ri)
++ Roud orolida
 - Parlament binosi oldida
 - Milliy bog‘ida
 
@@ -8169,13 +8301,13 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - X asrda
 - XI asrda
-- XII asrda (to'g'ri)
++ XII asrda
 - XIII asrda
 
 **1156. Ahmad Farg‘oniy avval …dagi rasadxonada ish olib bordi, so‘ngra …dagi rasadxonada osmon jismlari harakati va o‘rnini aniqlash, yangicha «Zij» yaratish ishlariga rahbarlik qilgan?**
 
 - Damashq/Hamadon
-- Bag‘dod/Damashq (to'g'ri)
++ Bag‘dod/Damashq
 - Buxoro/Bag‘dod
 - Sheroz/Samarqand
 
@@ -8184,26 +8316,26 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Ispaniyadan
 - Armanistondan
 - Suriyadan
-- Hindistondan (to'g'ri)
++ Hindistondan
 
 **1158. Qaysi samoviy jismdagi kraterlardan biriga Ahmad al-Farg‘oniy nomi berilgan?**
 
 - Yupiterdagi
 - Marsdagi
-- Oydagi (to'g'ri)
++ Oydagi
 - Veneradagi
 
 **1159. Ahmad Farg‘oniy qaysi yunon olimining «Yulduzlar jadvali» asarida berilgan ma’lumotlarni ko‘rib chiqish hamda o‘sha davrdagi barcha asosiy joylarning geografik koordinatalarini yangidan aniqlash yuzasidan olib borilgan muhim tadqiqotlarda faol ishtirok etgan?**
 
 - Aristotelning
-- Ptolemeyning (to'g'ri)
++ Ptolemeyning
 - Demokritning
 - Geraklitning
 
 **1160. Farg‘oniy nomi XVIII asrda Yevropada kim tomonidan tilga olingan?**
 
 - Makiavelli
-- Shiller (to'g'ri)
++ Shiller
 - Dante
 - Regiomontan
 
@@ -8212,18 +8344,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Yangicha dehqonchilik turiga
 - Yangicha yer taqsimotiga
 - Yangicha yil taqvimiga 
-- Yangicha soliq miqdoriga (to'g'ri)
++ Yangicha soliq miqdoriga
 
 **1162. Atoqli astronom Yan Geveliy qaysi yilda nashr qilingan «Selenografiya» kitobida oydagi kraterlardan birini buyuk vatandoshimiz Ahmad Farg‘oniy nomi bilan atagan?**
 
-- 1647-yilda (to'g'ri)
++ 1647-yilda
 - 1645-yilda
 - 1641-yilda
 - 1649-yilda
 
 **1163. Qachon Misr poytaxti Qohirada Ahmad al-Farg‘oniyga haykal o‘rnatilgan?**
 
-- 2007-yilda (to'g'ri)
++ 2007-yilda
 - 2003-yilda
 - 2005-yilda
 - 2002-yilda
@@ -8231,27 +8363,27 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **1164. Qachon Ahmad al-Farg‘oniyning 1200 yillik tavallud sanasi nishonlangan?**
 
 - 1992-yilda
-- 1998-yilda (to'g'ri)
++ 1998-yilda
 - 1995-yilda
 - 1991-yilda
 
 **1165. Ilk o‘rta asrlarda Misr hududining qancha qismida dehqonchilik qilish, biron yegulik yetishtirish mumkin bo‘lgan?**
 
 - Sakkiz foizida
-- Olti foizida (to'g'ri)
++ Olti foizida
 - O‘n foizida
 - O‘n ikki foizida
 
 **1166. Ahmad Farg‘oniy qachon Qohira yaqinidagi Ravzo orolida «nilometr», ya’ni suv sathini belgilovchi uskuna yasagan?**
 
-- 861-yilda (to'g'ri)
++ 861-yilda
 - 858-yilda
 - 873-yilda
 - 867-yilda
 
 **1167. Ahmad Farg‘oniyning «Astronomiya asoslari haqidagi kitob» asari qaysi hudud orqali Yevropa mamlakatlarida astronomiya ilmining rivojini boshlab bergan?**
 
-- Ispaniya orqali (to'g'ri)
++ Ispaniya orqali
 - Italiya orqali
 - Shimoliy Afrika orqali
 - Kichik Osiyo orqali
@@ -8260,7 +8392,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Makiavelli
 - Shiller
-- Dante (to'g'ri)
++ Dante
 - Regiomontan
 
 **1169. Ahmad al-Farg‘oniyning qaysi asari «Samoviy harakatlar va umumiy ilmi nujum» («Astronomiya asoslari haqidagi kitob») asari qachon boshqa Yevropa tillariga tarjima qilinganidan so‘ng, al-Farg‘oniyning nomi «Alfraganus» tarzida dunyoga tanilgan?**
@@ -8268,15 +8400,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - X asrda
 - XI asrda
 - XII asrda
-- XIII asrda (to'g'ri)
++ XIII asrda
 
 ## 51-52-§ Abu Nasr Forobiy.
 
 
 **1170. Quyidagi rasmdagi shohrud musiqiy asbobining chizmasi kimning kitobida tasvirlangan?**
 
+
+![](../images/astron4078963208859.png)
+
 - Ahmad Farg‘oniy
-- Abu Nasr Forobiy (to'g'ri)
++ Abu Nasr Forobiy
 - Abu Rayhon Beruniy
 - Abu Ali ibn Sino
 
@@ -8284,19 +8419,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Ahmad Farg‘oniy
 - Abu Rayhon Beruniy
-- Abu Ali ibn Sino (to'g'ri)
++ Abu Ali ibn Sino
 - Al-Xorazmiy
 
 **1172. Kim Sharq mamlakatlarida «Al-muallim as-Soniy» – «Ikkinchi muallim», «Sharq Arastusi» degan unvonlarga sazovor bo‘lgan?**
 
 - Ahmad Farg‘oniy
 - Abu Rayhon Beruniy
-- Abu Nasr Forobiy (to'g'ri)
++ Abu Nasr Forobiy
 - Abu Ali ibn Sino
 
 **1173. «Baxt-saodatga erishuv yo‘llari» («Risola fi-t tanbeh ola asbob as-saodat»), «Shaharni boshqarish» («As-siyosat an-madaniya»), «Urush va tinch turmush haqida kitob» («Kitob fitoyii val xurub»), «Fazilatli xulqlar» («Asashrat al-Fazila») asarlari muallifi kim?**
 
-- Abu Nasr Forobiy (to'g'ri)
++ Abu Nasr Forobiy
 - Ahmad Farg‘oniy
 - Abu Rayhon Beruniy
 - Abu Ali ibn Sino
@@ -8305,7 +8440,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - «Fazilatli xulqlar»
 - «Shaharni boshqarish»
-- «Fozil odamlar shahri» (to'g'ri)
++ «Fozil odamlar shahri»
 - «Baxt-saodatga erishuv yo‘llari»
 
 **1175. Abu Nasr Forobiy qanday oilada tug‘ilgan?**
@@ -8313,11 +8448,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Kelib chiqishi noma’lum bo‘lgan hunarmand oilasida
 - Mahalliy aholidan bo‘lgan amaldor oilasida
 - Eroniylardan bo‘lgan savdogar oilasida
-- Turkiy qabilalardan bo‘lgan harbiy xizmatchi oilasida (to'g'ri)
++ Turkiy qabilalardan bo‘lgan harbiy xizmatchi oilasida
 
 **1176. Abu Nasr Forobiyning qaysi risolasida jamiyatning kelib chiqishi, maqsad va vazifalari izchil yoritilgan?**
 
-- «Fozil odamlar shahri» (to'g'ri)
++ «Fozil odamlar shahri»
 - «Fazilatli xulqlar»
 - «Shaharni boshqarish»
 - «Baxt-saodatga erishuv yo‘llari»
@@ -8327,26 +8462,26 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 973–1048-yillarda
 - 783–850-yillarda
 - 797–865-yillarda
-- 873–950-yillarda (to'g'ri)
++ 873–950-yillarda
 
 **1178. Abu Nasr Forobiy «Fozil odamlar shahri» asarida rahbar insonda bo‘lishi kerak bo‘lgan nechta xislat-fazilatni sanab o‘tgan?**
 
 - 6 ta
 - 8 ta
 - 10 ta
-- 12 ta (to'g'ri)
++ 12 ta
 
 **1179. Abu Nasr Forobiy qaysi tillarda falsafiy mazmundagi she’rlar ham yozgan?**
 
 - Yunon va sug‘d tillarida
 - Turkiy va arab tillarida
 - Fors va turkiy tillarda
-- Arab va fors tillarida (to'g'ri)
++ Arab va fors tillarida
 
 **1180. Abu Nasr Forobiy qaysi yunon mutafakkirlari asarlarini tarjima qilgan?**
 
 - Aristotel, Yevklid, Ptolemey, Porfiriy, Arximed
-- Platon, Aristotel, Yevklid, Ptolemey, Porfiriy (to'g'ri)
++ Platon, Aristotel, Yevklid, Ptolemey, Porfiriy
 - Yevklid, Ptolemey, Porfiriy, Demokrit, Geraklit
 - Ptolemey, Porfiriy, Demokrit, Geraklit, Suqrot
 
@@ -8355,11 +8490,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Ahmad Farg‘oniy
 - Abu Rayhon Beruniy
 - Abu Ali ibn Sino
-- Abu Nasr Forobiy (to'g'ri)
++ Abu Nasr Forobiy
 
 **1182. Abu Nasr Forobiy asarlarini necha guruhga ajratish mumkin?**
 
-- 2 guruhga (to'g'ri)
++ 2 guruhga
 - 3 guruhga
 - 4 guruhga
 - 5 guruhga
@@ -8367,21 +8502,21 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **1183. Abu Nasr Forobiy tug‘ilgan Forob shahri yana qanday nomlangan?**
 
 - Taroz
-- O‘tror (to'g'ri)
++ O‘tror
 - Turkiston
 - Bolasog‘un
 
 **1184. «Metafizika», «Etika», «Ritorika», «Sofistika» asarlari muallifi kim?**
 
 - Yevklid
-- Aristotel (to'g'ri)
++ Aristotel
 - Ptolemey
 - Porfiriy
 
 **1185. Abu Nasr Forobiy qancha asar yaratgan?**
 
 - 150 dan ortiq
-- 160 dan ortiq (to'g'ri)
++ 160 dan ortiq
 - 170 dan ortiq
 - 180 dan ortiq
 
@@ -8390,11 +8525,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 40 dan ortiq tilni
 - 50 dan ortiq tilni
 - 60 dan ortiq tilni
-- 70 dan ortiq tilni (to'g'ri)
++ 70 dan ortiq tilni
 
 **1187. Qaysi mutafakkirlar Abu Nasr Forobiyning ta’limotini chuqur o‘rganib, uni yangi g‘oyalar bilan boyitganlar? 1) Ibn Sino; 2) Ahmad Farg‘oniy; 3) Umar Xayyom; 4) Al-Xorazmiy; 5) Beruniy.**
 
-- 1, 3, 5 (to'g'ri)
++ 1, 3, 5
 - 1, 2, 4
 - 2, 3, 4
 - 2, 4, 5
@@ -8404,18 +8539,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Ahmad Farg‘oniy
 - Abu Rayhon Beruniy
 - Abu Ali ibn Sino
-- Abu Nasr Forobiy (to'g'ri)
++ Abu Nasr Forobiy
 
 **1189. Abu Nasr Forobiy tug‘ilgan Forob shahri qayerda joylashgan edi?**
 
-- Sirdaryoning o‘ng qirg‘og‘ida (to'g'ri)
++ Sirdaryoning o‘ng qirg‘og‘ida
 - Sirdaryoning chap qirg‘og‘ida
 - Amudaryoning o‘ng qirg‘og‘ida
 - Amudaryoning chap qirg‘og‘ida
 
 **1190. Abu Nasr Forobiy o‘z asarlarini qaysi tilda yozgan?**
 
-- Arab tilida (to'g'ri)
++ Arab tilida
 - Fors tilida
 - Turkiy tilda
 - Sug‘d tilida
@@ -8424,20 +8559,20 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Arximeddan keyin
 - Ptolemeydan keyin
-- Aristoteldan keyin (to'g'ri)
++ Aristoteldan keyin
 - Suqrotdan keyin
 
 **1192. «Metafizika» so‘zining lug‘aviy ma’nosi nima?**
 
 - «Fizikadan boshqa»
 - «Fizikadan oldin»
-- «Fizikadan so‘ng» (to'g'ri)
++ «Fizikadan so‘ng»
 - «Fizikadan qiyin»
 
 **1193. Kim musiqani inson tarbiyasiga ta’sir qiluvchi omillardan biri deb bilgan?**
 
 - Ahmad Farg‘oniy
-- Abu Nasr Forobiy (to'g'ri)
++ Abu Nasr Forobiy
 - Abu Rayhon Beruniy
 - Abu Ali ibn Sino
 
@@ -8447,35 +8582,38 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **1194. «Beruniy» so‘zining ma’nosi nima?**
 
 - «Ichkarilik»
-- «Tashqarilik» (to'g'ri)
++ «Tashqarilik»
 - «Shaharlik»
 - «Vohalik»
 
 **1195. Quyidagi rasmda Abu Rayhon Beruniyning XIII asrda ko‘chirilgan qaysi asari tasvirlangan?**
 
+
+![](../images/astron4183310349653.png)
+
 - «Geodeziya»
 - «Mineralogiya»
 - «Saydana»
-- «Kitob al-tafhim» (to'g'ri)
++ «Kitob al-tafhim»
 
 **1196. Abu Rayhon Beruniy ustozi Abu Nasr ibn Iroqdan qaysi fanlarga oid bilimlarni o‘rgangan?**
 
 - Tibbiy, astronomiya va falsafa
 - Ilohiyot, falsafa va algebra
 - Mineralogiya, geometriya, astronomiya
-- Astronomiya, algebra va geometriya (to'g'ri)
++ Astronomiya, algebra va geometriya
 
 **1197. «U arab adabiyoti okeanida yagona qoyadir. Hindshunoslikda Beruniyga teng keladigan kishini na ilgari va na so‘nggi vaqtlarda o‘tganini bilmaymiz». Beruniy haqida bildirilgan yuqoridagi fikrlar muallifi bo‘lgan nemis sharqshunosi Zaxau qaysi asrda yashagan?**
 
 - XVI asrda
 - XVII asrda
 - XVIII asrda
-- XIX asrda (to'g'ri)
++ XIX asrda
 
 **1198. «Mehnatsiz shon-shavkatga, martabaga erishgan kishi hurmatga loyiqmi? Yuqori martabaga mehnatsiz erishgan kishi farog‘at va rohat soyasida yashaydi, yaxshi kiyinadi, ammo ulug‘lik libosidan mahrum, yalong‘ochdir». Ushbu jumlalar Abu Rayhon Beruniyning qaysi asarida keltirilgan?**
 
 - «Geodeziya»
-- «Mineralogiya» (to'g'ri)
++ «Mineralogiya»
 - «Saydana»
 - «Kitob al-tafhim»
 
@@ -8483,19 +8621,22 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 29 yoshida
 - 21 yoshida
-- 22 yoshida (to'g'ri)
++ 22 yoshida
 - 25 yoshida
 
 **1200. Quyidagi suratdagi suvga tushirilgan namuna asosida siqib chiqarilgan suyuqlikning hajmini aniqlash moslamasi chizmasi Abu Rayhon Beruniyning XI asrda yozilgan qaysi asarida keltirilgan?**
 
+
+![](../images/astron78757154783773.png)
+
 - «Geodeziya»
-- «Mineralogiya» (to'g'ri)
++ «Mineralogiya»
 - «Saydana»
 - «Kitob al-tafhim»
 
 **1201. «Garchi biz bu kitobning ba’zi joylarida turli fanlarga o‘tib, bayonimizga aloqasi yo‘q masalalarga kirishib ketsak ham, bu gapni cho‘zish yoki ko‘paytirish maqsadida emas, balki o‘quvchini zeriktirmaslik uchundir. Chunki doim bir xil narsaga qarash malollik va sabrsizlikni olib keladi. O‘quvchi fandan fanga o‘tib tursa, turli bog‘larda yurganga o‘xshaydi...». Ushbu jumlalar Abu Rayhon Beruniyning qaysi asarida kelirilgan?**
 
-- «Qadimgi xalqlardan qolgan yodgorliklar» (to'g'ri)
++ «Qadimgi xalqlardan qolgan yodgorliklar»
 - «Geodeziya»
 - «Mineralogiya»
 - «Kitob al-tafhim»
@@ -8504,7 +8645,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - «Geodeziya»
 - «Mineralogiya»
-- «Saydana» (to'g'ri)
++ «Saydana»
 - «Kitob al-tafhim»
 
 **1203. Abu Rayhon Beruniy qaysi fanlarni puхtа egаllаgаn? 1) Fаlаkiyot (аstrоnоmiya); 2) Fizikа; 3) Riyoziyot (mаtematika); 4) Ilоhiyot; 5) Ma’dаnshunоslik.**
@@ -8512,18 +8653,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 2, 3, 4
 - 2, 3, 4, 5
 - 1, 2, 3, 5
-- 1, 2, 3, 4, 5 (to'g'ri)
++ 1, 2, 3, 4, 5
 
 **1204. «Qonuni Mas’udiy» asari muallifi kim?**
 
 - Ahmad Farg‘oniy
-- Abu Rayhon Beruniy (to'g'ri)
++ Abu Rayhon Beruniy
 - Abu Ali ibn Sino
 - Al-Xorazmiy
 
 **1205. Xorazmdagi siyosiy ziddiyatlar va notinchlik sabab Beruniy 22 yoshida ona shahrini tark etib, Kaspiy dengizi janubidagi qaysi shaharlarda yashagan?**
 
-- Jurjon va Ray (to'g'ri)
++ Jurjon va Ray
 - Ray va Isfahon
 - Isfahon va Hamadon
 - Hamadon va Jurjon
@@ -8532,20 +8673,20 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 50 dan ortiq
 - 100 dan ortiq
-- 150 dan ortiq (to'g'ri)
++ 150 dan ortiq
 - 200 dan ortiq
 
 **1207. Qaysi mutafakkir shu paytgacha noma’lum bo‘lgan Amerika qit’asi mavjudligini taxmin qilib, o‘z asarlarida bu haqda bir necha bor yozgan?**
 
 - Ahmad Farg‘oniy
-- Abu Rayhon Beruniy (to'g'ri)
++ Abu Rayhon Beruniy
 - Abu Ali ibn Sino
 - Al-Xorazmiy
 
 **1208. Abu Rayhon Beruniyning ilk ustozi kim bo‘lgan?**
 
 - Abu Sahl Iso al-Masihiy
-- Abu Nasr ibn Iroq (to'g'ri)
++ Abu Nasr ibn Iroq
 - Abu Sa’d al-Sam’ani
 - Abulfazl Muhammad Bayhaqiy
 
@@ -8553,12 +8694,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - XIII–XIV asrlarda
 - XIV–XV asrlarda
-- XV–XVI asrlarda (to'g'ri)
++ XV–XVI asrlarda
 - XVI–XVII asrlarda
 
 **1210. Abu Rayhon Beruniy haykallari O‘zbekistonda qayerlarda o‘rnatilgan?**
 
-- Toshkent va Xorazmda (to'g'ri)
++ Toshkent va Xorazmda
 - Qoraqalpog‘iston va Toshkentda
 - Xorazm va Qoraqalpog‘istonda
 - Navoiy va Samarqandda
@@ -8568,11 +8709,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 1029–1040-yillar
 - 1033–1044-yillar
 - 1026–1037-yillar
-- 1030–1041-yillar (to'g'ri)
++ 1030–1041-yillar
 
 **1212. Xorazm qachon Mahmud G‘aznaviy tomonidan zabt etilgan?**
 
-- 1017-yilda (to'g'ri)
++ 1017-yilda
 - 1019-yilda
 - 1011-yilda
 - 1013-yilda
@@ -8582,19 +8723,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - M. Islomov
 - A. Haydarov
 - B. Nazarov
-- H. Abdullayev (to'g'ri)
++ H. Abdullayev
 
 **1214. Abu Rayhon Beruniy nechta yulduzning koordinatalari va yulduz kattaliklari qayd etilgan yulduzlar jadvalini hamda dunyoning geografik xaritasini tuzgan?**
 
 - 1039 ta
 - 1059 ta
 - 1049 ta
-- 1029 ta (to'g'ri)
++ 1029 ta
 
 **1215. «Beruniyning qiziqqan ilm sohalaridan ko‘ra, qiziqmagan sohalarini sanab o‘tish osondir». Ushbu jumlalar muallifi bo‘lgan sharqshunos olim kim?**
 
 - V. V. Bartold
-- I. Y. Krachkovskiy (to'g'ri)
++ I. Y. Krachkovskiy
 - A. I. Bazilevich
 - Y. A. Primakov
 
@@ -8603,18 +8744,18 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 18 yoshida
 - 20 yoshida
 - 22 yoshida
-- 16 yoshida (to'g'ri)
++ 16 yoshida
 
 **1217. Quyidagi qaysi obyektlarga Abu Rayhon Beruniy nomi berilgan? 1) O‘zbekiston Fanlar akademiyasi Sharqshunoslik institutiga; 2) Toshkentdagi metro bekatiga; 3) Oydagi vulqonga; 4) Asteroidga.**
 
 - 2, 3, 4
 - 1, 2, 4
 - 1, 2, 3
-- 1, 2, 3, 4 (to'g'ri)
++ 1, 2, 3, 4
 
 **1218. Abu Rayhon Beruniy ustozi Abu Sahl Iso al-Masihiydan qaysi fanlarga oid bilimlarni o‘rgangan?**
 
-- Tibbiy, astronomiya va falsafa (to'g'ri)
++ Tibbiy, astronomiya va falsafa
 - Ilohiyot, falsafa va algebra
 - Mineralogiya, geometriya, astronomiya
 - Astronomiya, algebra va geometriya
@@ -8623,19 +8764,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 13 ta asarini
 - 10 ta asarini
-- 12 ta asarini (to'g'ri)
++ 12 ta asarini
 - 18 ta asarini
 
 **1220. Abu Rayhon Beruniy «Qadimgi xalqlardan qolgan yodgorliklar» asarini qaysi yilda tugallgan?**
 
-- 1000-yilda (to'g'ri)
++ 1000-yilda
 - 1003-yilda
 - 1001-yilda
 - 1008-yilda
 
 **1221. Abu Rayhon Muhammad ibn Ahmad Beruniy qaysi yillarda yashagan?**
 
-- 973–1048-yillarda (to'g'ri)
++ 973–1048-yillarda
 - 797–865-yillarda
 - 783–850-yillarda
 - 873–950-yillarda
@@ -8643,7 +8784,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **1222. «… bir olim astronomiya sohasida men bilan bahsga kirishdi va ilmda mendan ancha past tursa-da, mendan o‘zini yuqori olib, hatto kaminani haqorat ham qildi. Vaholanki, faqat boylik ortiqchaligi oramizdagi farq edi». Beruniy qaysi shahardaligida yuqoridagi voqea ro‘y bergan?**
 
 - Jurjon
-- Ray (to'g'ri)
++ Ray
 - Isfahon
 - Hamadon
 
@@ -8651,21 +8792,21 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Abu Nasr Forobiy
 - Ahmad Farg‘oniy
-- Abu Rayhon Beruniy (to'g'ri)
++ Abu Rayhon Beruniy
 - Abu Ali ibn Sino
 
 **1224. Abu Rayhon Beruniy o‘zining birinchi astronomik tajribalarini qaysi shaharda boshlagan?**
 
 - Gurganch shahrida
 - Ray shahrida
-- Kat shahrida (to'g'ri)
++ Kat shahrida
 - Jurjon shahrida
 
 **1225. Abu Rayhon Beruniyning o‘z ismi kim?**
 
 - Rayhon
 - Ahmad
-- Muhammad (to'g'ri)
++ Muhammad
 - Ali
 
 **1226. Abu Rayhon Beruniy Mas’ud G‘aznaviyning …ni o‘rganishiga, …dan xabardor bo‘lishiga ko‘maklashgan.**
@@ -8673,19 +8814,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - hind tili/tarix
 - yunon tili/falsafa
 - fors tili/matematika
-- arab tili/astronomiya (to'g'ri)
++ arab tili/astronomiya
 
 **1227. Abu Rayhon Beruniy tibbiyotga bag‘ishlangan «Saydana» asarida mingdan ortiq dorivor moddalar nomini nechta tilda yozib chiqqan?**
 
 - 10 tilda
 - 20 tilda
-- 30 tilda (to'g'ri)
++ 30 tilda
 - 40 tilda
 
 **1228. «О‘rta asr va yangi zamon mualliflaridan hech biri hind madaniyatining chigal masalalarini chuqur ilmiy ruhda tushunishda Abu Rayhon Muhammad ibn Ahmad Beruniy erishgan yutuqlarga erisha olmadi». Ushbu jumlalar muallifi bo‘lgan hind olimi kim?**
 
 - Kiran Kumar
-- Hamid Rizo (to'g'ri)
++ Hamid Rizo
 - Manjul Bhargava
 - Satyajit Mayor
 
@@ -8694,26 +8835,29 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - VIII asrni
 - IX asrni
 - X asrni
-- XI asrni (to'g'ri)
++ XI asrni
 
 **1230. 2009-yil iyun oyida Eron hukumati tomonidan qayerdagi Birlashgan Millatlar Tashkilotining bo‘limiga to‘rt mashhur olim: Ibn Sino, Beruniy, Zokiriy Roziy (Reyz) hamda Umar Xayyomni o‘z ichiga olgan pavilyon taqdim etilgan?**
 
-- Venadagi (to'g'ri)
++ Venadagi
 - Parijdagi
 - Londondagi
 - Berlindagi
 
 **1231. Mahmud G‘aznaviy Hindistonga qilgan bir nechta yurishlarida Beruniyni kim sifatida yonida olib yurgan?**
 
-- Munajjim (to'g'ri)
++ Munajjim
 - Tabib
 - Geograf
 - Tarixchi
 
 **1232. Quyidagi rasmdagi Yer aylanishi chizmasi muallifi kim?**
 
+
+![](../images/astron25213805218.png)
+
 - Ahmad Farg‘oniy
-- Abu Rayhon Beruniy (to'g'ri)
++ Abu Rayhon Beruniy
 - Abu Ali ibn Sino
 - Al-Xorazmiy
 
@@ -8721,7 +8865,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - 1977-yilda
 - 1968-yilda
-- 1957-yilda (to'g'ri)
++ 1957-yilda
 - 1973-yilda
 
 **1234. Qachon O‘zbekistonda Abu Rayhon Beruniy tavalludining 1000 yilligi nishonlangan?**
@@ -8729,11 +8873,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 1977-yilda
 - 1968-yilda
 - 1957-yilda
-- 1973-yilda (to'g'ri)
++ 1973-yilda
 
 **1235. Abu Rayhon Beruniyning ikkinchi ustozi kim bo‘lgan?**
 
-- Abu Sahl Iso al-Masihiy (to'g'ri)
++ Abu Sahl Iso al-Masihiy
 - Abu Nasr ibn Iroq
 - Abu Sa’d al-Sam’ani
 - Abulfazl Muhammad Bayhaqiy
@@ -8741,7 +8885,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **1236. Abu Rayhon Beruniy qayerda tug‘ilgan va vafot etgan?**
 
 - Gurganch/Bag‘dod
-- Kat/G‘azna (to'g'ri)
++ Kat/G‘azna
 - Xiva/Kobul
 - Vazir/Balx
 
@@ -8749,19 +8893,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - «Geodeziya»
 - «Mineralogiya»
-- «Qadimgi xalqlardan qolgan yodgorliklar» (to'g'ri)
++ «Qadimgi xalqlardan qolgan yodgorliklar»
 - «Kitob al-tafhim»
 
 **1238. Qachon Eron hukumati tomonidan Venadagi Birlashgan Millatlar Tashkilotining bo‘limiga to‘rt mashhur olim: Ibn Sino, Beruniy, Zokiriy Roziy (Reyz) hamda Umar Xayyomni o‘z ichiga olgan pavilyon taqdim etilgan?**
 
 - 2012-yil iyun oyida
-- 2009-yil iyun oyida (to'g'ri)
++ 2009-yil iyun oyida
 - 2007-yil iyun oyida
 - 2014-yil iyun oyida
 
 **1239. Abu Rayhon Beruniy o‘zining falakiyotga oid asarlarida qaysi fikrni birinchi bo‘lib ilgari surgan?**
 
-- Yerning Quyosh atrofida aylanishi haqidagi (to'g'ri)
++ Yerning Quyosh atrofida aylanishi haqidagi
 - Yerning shar shaklida ekanligi haqidagi
 - Quyoshning boshqa yulduzlar kabi yulduzligi haqidagi
 - Koinotning cheksizligi haqidagi
@@ -8771,26 +8915,29 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Hamadonda
 - Bag‘dodda
 - G‘aznada
-- Jurjonda (to'g'ri)
++ Jurjonda
 
 **1241. Eron hukumati tomonidan Venadagi Birlashgan Millatlar Tashkilotining bo‘limiga taqdim etilgan, to‘rt mashhur olim: Ibn Sino, Beruniy, Zokiriy Roziy (Reyz) hamda Umar Xayyomni o‘z ichiga olgan pavilyon shaharnig qaysi qismidan joy olgan?**
 
 - Hofburg saroyidan
 - Vena davlat opera teatridan
-- Xalqaro markaziy Memorial maydonidan (to'g'ri)
++ Xalqaro markaziy Memorial maydonidan
 - Albertina majmuasidan
 
 **1242. Quyidagi suratda qanday asbob tasvirlangan?**
 
+
+![](../images/astron36739819417473.png)
+
 - Kvadrant
 - Armil
-- Usturlob (to'g'ri)
++ Usturlob
 - Jantariy
 
 **1243. «Hindiston» filmi muallifi bo‘lgan hind olimi kim?**
 
 - Kiran Kumar
-- Hamid Rizo (to'g'ri)
++ Hamid Rizo
 - Manjul Bhargava
 - Satyajit Mayor
 
@@ -8799,7 +8946,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 **1244. Abu Ali ibn Sino necha yoshidan boshlang‘ich matematika, mantiq, fiqh, falsafa ilmlari bilan shug‘ullana boshlagan?**
 
-- 13 yoshidan (to'g'ri)
++ 13 yoshidan
 - 14 yoshidan
 - 15 yoshidan
 - 16 yoshidan
@@ -8807,7 +8954,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 **1245. Abu Ali ibn Sino necha yoshidayoq mashhur tabib — hakim bo‘lib tanilgan?**
 
 - 15-16 yoshidayoq
-- 16-17 yoshidayoq (to'g'ri)
++ 16-17 yoshidayoq
 - 17-18 yoshidayoq
 - 18-19 yoshidayoq
 
@@ -8815,19 +8962,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - «Al-qonun fit-tib»
 - «Kitob ash-shifo»
-- «Risolatun fi taqsim al-mavjudot» (to'g'ri)
++ «Risolatun fi taqsim al-mavjudot»
 - «Kitob al-ishorat fil mantiq va hikmat»
 
 **1247. Abu Ali Ibn Sinoning «Al-qonun fit-tib» asari qachon lotinchaga tarjima qilingan?**
 
 - XI asrda
-- XII asrda (to'g'ri)
++ XII asrda
 - XIII asrda
 - XIV asrda
 
 **1248. Aytishlariga qaraganda, hakimlar aslida 4 ta bo‘lgan, G‘arbda kimlar?**
 
-- Arastu va Iskandar (to'g'ri)
++ Arastu va Iskandar
 - Iskandar va Suqrot
 - Suqrot va Aflotun
 - Aflotun va Arastu
@@ -8837,19 +8984,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 10 marta
 - 20 marta
 - 30 marta
-- 40 marta (to'g'ri)
++ 40 marta
 
 **1250. Aytishlariga qaraganda, hakimlar aslida 4 ta bo‘lgan, Sharqda kimlar?**
 
 - Ahmad Farg‘oniy va Abu Nasr Forobiy
-- Abu Nasr Forobiy va Abu Ali ibn Sino (to'g'ri)
++ Abu Nasr Forobiy va Abu Ali ibn Sino
 - Abu Ali ibn Sino va Abu Rayhon Beruniy
 - Abu Rayhon Beruniy va Hakim Termiziy
 
 **1251. Qachon Belgiyaning Kortreyk shahrida Ibn Sinoga haykal qo‘yilgan?**
 
 - 1999-yilda
-- 2000-yilda (to'g'ri)
++ 2000-yilda
 - 2002-yilda
 - 1997-yilda
 
@@ -8857,7 +9004,7 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Ahmad Farg‘oniy
 - Abu Rayhon Beruniy
-- Abu Ali ibn Sino (to'g'ri)
++ Abu Ali ibn Sino
 - Al-Xorazmiy
 
 **1253. Qaysi samoviy jismdagi kraterga Abu Ali ibn Sinoning nomi berilgan?**
@@ -8865,19 +9012,19 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - Veneradagi
 - Marsdagi
 - Yupiterdagi
-- Oydagi (to'g'ri)
++ Oydagi
 
 **1254. Qaysi asrda yashagan mashhur shved botanigi Karl Linney doimo yashil bo‘lib turuvchi bir tropik daraxtni Ibn Sino sharafiga «Avitsenniya» deb atagan?**
 
 - XVI asrda
 - XVII asrda
-- XVIII asrda (to'g'ri)
++ XVIII asrda
 - XIX asrda
 
 **1255. Abu Ali ibn Sino necha yoshida Qur’oni Karimni to‘liq yod olgan?**
 
 - 8 yoshida
-- 10 yoshida (to'g'ri)
++ 10 yoshida
 - 12 yoshida
 - 6 yoshida
 
@@ -8886,32 +9033,32 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - 1603-yilda
 - 1608-yilda
 - 1605-yilda
-- 1601-yilda (to'g'ri)
++ 1601-yilda
 
 **1257. Abu Ali Ibn Sino tarixida birinchi bo‘lib … .**
 
 - gigiyena qoidalari to‘plamini tuzgan
 - tibbiyot niqobini qo‘llashni joriy etgan
 - jarrohlik operatsiyasini amalga oshirgan
-- vabo bilan ofatni farqlagan (to'g'ri)
++ vabo bilan ofatni farqlagan
 
 **1258. Abu Ali ibn Sino (Abu Ali al-Husayn ibn Abdulloh ibn al-Hasan ibn Ali) qaysi yillarda yashagan?**
 
 - 973–1048-yillarda
 - 797–865-yillarda
-- 980–1037-yillarda (to'g'ri)
++ 980–1037-yillarda
 - 873–950-yillarda
 
 **1259. Abu Ali Ibn Sino bemorlarni davolashda nimalarga ahamiyat berish kerakligini aytgan?**
 
 - 2 narsaga: ovqatlanish tartibi (parhez) va dorilar bilan davolash
-- 3 narsaga: ovqatlanish tartibi (parhez), dorilar bilan davolash va turli tibbiy tadbirlarni qo‘llash (qon olish, zuluk yoki banka qo‘yish va boshqalar) (to'g'ri)
++ 3 narsaga: ovqatlanish tartibi (parhez), dorilar bilan davolash va turli tibbiy tadbirlarni qo‘llash (qon olish, zuluk yoki banka qo‘yish va boshqalar)
 - 4 narsaga: ovqatlanish tartibi (parhez), dorilar bilan davolash, turli tibbiy tadbirlarni qo‘llash (qon olish, zuluk yoki banka qo‘yish va boshqalar) va jismoniy faollik
 - 5 narsaga: ovqatlanish tartibi (parhez), dorilar bilan davolash, turli tibbiy tadbirlarni qo‘llash (qon olish, zuluk yoki banka qo‘yish va boshqalar), jismoniy faollik va ruhiy sog‘lomlashtirish
 
 **1260. Abu Ali ibn Sino qayerda tug‘ilgan va vafot etgan?**
 
-- Afshоna qishlog‘i/Hamadоn shahri (to'g'ri)
++ Afshоna qishlog‘i/Hamadоn shahri
 - Qubo qishlog‘i/Isfahon shahri
 - Bug‘ qishlog‘i/Jurjon shahri
 - Kufa qishlog‘i/Ray shahri
@@ -8920,12 +9067,12 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - «Ibn Sino» va «Madadsino» nomli
 - «Abu Ali Ibn Sino» va «Avicenna» nomli
-- «Ibn Sino» va «Sino» nomli (to'g'ri)
++ «Ibn Sino» va «Sino» nomli
 - «Sino» va «Avicenna» nomli
 
 **1262. Abu Ali Ibn Sinoning «Shayx ar-rais» nomi, eng avvalo, uning buyuk …ligiga ishoradir.**
 
-- faylasuf (to'g'ri)
++ faylasuf
 - tabib
 - ilohiyotchi
 - astronom
@@ -8935,11 +9082,11 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 - XIV asrgacha
 - XV asrgacha
 - XVI asrgacha
-- XVII asrgacha (to'g'ri)
++ XVII asrgacha
 
 **1264. Abu Ali ibn Sino ilmiy merosini o‘rganish ishlari qaysi asrga kelib jadal tus olgan?**
 
-- XIII asrga (to'g'ri)
++ XIII asrga
 - XIV asrga
 - XV asrga
 - XVI asrga
@@ -8948,26 +9095,26 @@ mafkurasi» nomli kitobida keltirilishicha, turkiylar … .
 
 - Ahmad Farg‘oniyga
 - Abu Rayhon Beruniyga
-- Abu Nasr Forobiyga (to'g'ri)
++ Abu Nasr Forobiyga
 - Hakim Termiziyga
 
 **1266. Abu Ali ibn Sino G‘arbda qanday nom bilan mashhur bo‘lgan?**
 
 - Algoritm
-- Avitsеnna (to'g'ri)
++ Avitsеnna
 - Alfraganus
 - Algebra
 
 **1267. O‘zbekistonda qayerlarda Ibn Sinoga haykal o‘rnatilgan?**
 
-- Buxoro shahri va Afshona qishlog‘ida (to'g'ri)
++ Buxoro shahri va Afshona qishlog‘ida
 - Toshkent shahri va Afshona qishlog‘ida
 - Buxoro shahri va Qubo qishlog‘ida
 - Toshkent shahri va Qubo qishlog‘ida
 
 **1268. Qachon O‘zbekistonda Ibn Sino xalqaro jamg‘armasi tuzilgan?**
 
-- 1999-yilda (to'g'ri)
++ 1999-yilda
 - 2000-yilda
 - 2002-yilda
 - 1997-yilda
