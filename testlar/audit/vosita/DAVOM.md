@@ -22,7 +22,7 @@ Qo'llanma: QOLLANMA.md. Tuzatishlar jurnali: ../tuzatishlar_qolda.jsonl. Har age
 - Vatan tuyg'usi, Tasviriy san'at, Ingliz tili, Biologiya, Adabiyot, Ona tili, Tarixdan hikoyalar, Texnologiya — xato topilmadi.
 - 2 ta joy manbasiz/chalkash bo'lgani uchun tuzatilmay qoldirildi (Matematika 1-qism 14:27, Matematika 2-qism 20:29).
 - Batafsil: ish/men/tayyor.txt.
-## 6-sinf — QISMAN (2026-09-27, men agentsiz)
+## 6-sinf — TO'LIQ TEKSHIRILDI (audit tugadi, 2026-09-27)
 - Avtomatik skan (HISOBOT.md) va qo'lda tasdiqlangan CSV'lardagi (TASDIQLANGAN_MUAMMOLAR,
   QOLDA_TASDIQLANGAN_MUAMMOLAR, TASDIQLANGAN_ZIDDIYATLI_TAKRORLAR, TASDIQLANGAN_ALOHIDA_KIRILL)
   barcha haqiqiy xatolar tekshirildi va tuzatildi: Matematika 011:19, 013:1, 014:23; Geografiya 003:19,
@@ -44,8 +44,15 @@ Qo'llanma: QOLLANMA.md. Tuzatishlar jurnali: ../tuzatishlar_qolda.jsonl. Har age
   xatosi tuzatildi (tafsilot: tuzatishlar_qolda.jsonl).
 - Tarix (44 mavzu, 1309 savol) cloud agent orqali tekshirildi: 1 ta sana xatosi tuzatildi (013:20,
   "XI asr" → "VI asr", Bobil Yahudiyani mil.avv. 586-yilda bosgan).
-- TUZATILMAGAN: Adabiyot(1,2), Musiqa, Tasviriy san'at — agent ishga tushirilgan edi, lekin cloud
-  kredit muammosi tufayli boshlanishidan oldin to'xtatildi (bexosdan noto'g'ri sinf — 3-sinf Tasviriy
-  san'atga — yozgan xatosi tuzatib qo'yildi, tafsilot uchun sessiya tarixiga qara). Hali savolma-savol
-  tekshirilmagan.
-## 7-9-sinf: qisman holatlar ish/A20../tayyor.txt da; qolganlari navbat.txt da (A21-A41). Keyingi: 6-sinf Adabiyot(1,2)/Musiqa/Tasviriy san'at, keyin 7-sinf.
+- 6-sinf uchun "Musiqa" va "Tasviriy san'at" kitob papkalari umuman MAVJUD EMAS (na `kitoblar/`, na
+  `testlar/6-sinf/` da) — tekshirilmadi, chunki tekshirish uchun hech narsa yo'q.
+- Adabiyot (1-qism, 10 mavzu, 297 savol) va Adabiyot (2-qism, 11 mavzu, 327 savol) cloud sessiya orqali
+  to'liq tekshirildi. 4 ta xato tuzatildi: Ibroyim Yusupov 011:11 (arifmetik xato), Abay Qo'nonboyev
+  007:3 (tug'ilgan joyi noto'g'ri ko'rsatilgan edi), Tog'ay Murod 010:24 va O'tkir Hoshimov 010:22
+  (kirill-lotin aralash matn).
+- MUHIM, TUZATILMAGAN topilma: "6-sinf 6-Sinf Adabiyot (1-qism)/005_Odil YOQUBOV - MUZQAYMOQ.json"
+  faylining barcha 29 ta savoli aslida Xudoyberdi To'xtaboyev/"Sariq devni minib" (Hoshimjon) mavzusiga
+  tegishli, Odil Yoqubovga emas — `_mavzular.json`dagi sahifa oraliqlari mos kelmagan (CLAUDE.md
+  qoida 6). Bu mavzu faylini o'chirib qayta generatsiya qilish tavsiya etiladi.
+- 6-SINF AUDIT TO'LIQ TUGADI.
+## 7-9-sinf: qisman holatlar ish/A20../tayyor.txt da; qolganlari navbat.txt da (A21-A41). Keyingi sinf: 7-sinf.
