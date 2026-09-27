@@ -10,6 +10,8 @@ Bosqich B (7,8,9-sinf mazmuniy audit) holati. Har bir kitob tugagach shu yerga b
 
 - **Informatika** (16 fayl / ~480 savol, 2950 qator) — TO'LIQ TEKSHIRILDI (savolma-savol, barcha hisoblashlar — sanoq sistemalari o'zgartirish, ikkilik/sakkizlik/o'n oltilik amallar, kodlash, axborot hajmi, uzatish tezligi masalalari — qo'lda qayta hisoblab tekshirildi). Xato topilmadi — hammasi to'g'ri chiqdi. Fayl raqamlanishida 8-dars yo'q (7-darsdan keyin 9-dars keladi) — bu original darslikning o'zida shunday raqamlanish bo'lishi mumkin, mavzu takrorlanishi yoki dublikat emas, shuning uchun muammo sifatida qayd etilmadi.
 
+- **Algebra** (26 fayl / ~1560 savol, 4814 qator) — TO'LIQ TEKSHIRILDI (savolma-savol, barcha hisoblash masalalari — foizlar, o'rtacha arifmetik, tenglamalar, darajalar, ko'phadlar, algebraik kasrlar, qisqa ko'paytirish formulalari, kombinatorika, harakat masalalari — qo'lda qayta hisoblab tekshirildi, o'nlab murakkab so'z masalalari va kombinatorika hisob-kitoblari alohida tekshirilgan). Xato topilmadi — barcha javob kalitlari to'g'ri chiqdi. Fayl/mavzu soni mos (26/26), dublikat-mavzu muammosi yo'q.
+
 
 ## 3-sinf
 
