@@ -31,8 +31,21 @@ Qo'llanma: QOLLANMA.md. Tuzatishlar jurnali: ../tuzatishlar_qolda.jsonl. Har age
   sessiyada allaqachon tuzatilgan ekan (fayl tekshirilib tasdiqlandi).
 - Ingliz tili'dagi 2 ta "ziddiyatli takror" guruhi (004/010, 058/059) tekshirildi — turli matn/kontekstga
   tegishli bo'lgani uchun xato emas deb topildi, tegilmadi.
-- TUZATILMAGAN: Botanika, Fizika, Informatika, Informatika(1), Informatika(2), Adabiyot(1,2), Musiqa,
-  Tasviriy san'at, Ingliz tili, Tarix — mexanik skanda signal chiqmagan, lekin mazmun jihatdan
-  savolma-savol hali o'qib chiqilmagan (~9000+ savol qoldi). Keyingi qadam: shu kitoblarni navbat
-  bilan qo'lda o'qib chiqish.
-## 7-9-sinf: qisman holatlar ish/A20../tayyor.txt da; qolganlari navbat.txt da (A21-A41). Keyingi: 6-sinf qolgan kitoblari, keyin 7-sinf.
+- Fizika (24 mavzu, 718 savol) men tomonimdan savolma-savol tekshirildi: 6 ta hisoblash/kalit xatosi
+  tuzatildi (014:12 F2=45N emas 60N deb belgilangan edi, 014:13 birlik nomuvofiqligi, 013:23 p=1000Pa
+  emas 2000Pa deb belgilangan edi, 019:12 richag hisobi 5N emas 80N deb belgilangan edi, 021:28 ko'zgu
+  tasvir tezligi 1m/s emas 2m/s deb belgilangan edi).
+- Ingliz tili (77 mavzu, 2299 savol) cloud agent orqali tekshirildi — haqiqiy xato topilmadi.
+- Botanika (37 mavzu, 1103 savol) cloud agent orqali tekshirildi — javob kaliti darajasida xato
+  topilmadi, lekin MUHIM topilma: 029_SHO'RADOSHLAR OILASI.json va 030_G'O'ZADOSHLAR OILASI.json
+  fayllari sarlavhasiga mos kelmaydi (savollar aslida Gulxayridoshlar/Burchoqdoshlar haqida) — PDF'dan
+  mavzu noto'g'ri ajratilgan, qayta generatsiya kerak (CLAUDE.md qoida #6).
+- Informatika (barcha 3 kitob, 50 mavzu, 1489 savol) cloud agent orqali tekshirildi, 4 ta kirill/hisob
+  xatosi tuzatildi (tafsilot: tuzatishlar_qolda.jsonl).
+- Tarix (44 mavzu, 1309 savol) cloud agent orqali tekshirildi: 1 ta sana xatosi tuzatildi (013:20,
+  "XI asr" → "VI asr", Bobil Yahudiyani mil.avv. 586-yilda bosgan).
+- TUZATILMAGAN: Adabiyot(1,2), Musiqa, Tasviriy san'at — agent ishga tushirilgan edi, lekin cloud
+  kredit muammosi tufayli boshlanishidan oldin to'xtatildi (bexosdan noto'g'ri sinf — 3-sinf Tasviriy
+  san'atga — yozgan xatosi tuzatib qo'yildi, tafsilot uchun sessiya tarixiga qara). Hali savolma-savol
+  tekshirilmagan.
+## 7-9-sinf: qisman holatlar ish/A20../tayyor.txt da; qolganlari navbat.txt da (A21-A41). Keyingi: 6-sinf Adabiyot(1,2)/Musiqa/Tasviriy san'at, keyin 7-sinf.
