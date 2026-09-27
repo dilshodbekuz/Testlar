@@ -21,3 +21,5 @@ Bosqich B (7,8,9-sinf mazmuniy audit) holati. Har bir kitob tugagach shu yerga b
 
 - **Rus tili** (24 fayl / 720 savol) — TO'LIQ TEKSHIRILDI. Xato topilmadi (javob kalitlari to'g'ri). Umumiy sifat pastroq: tushuntirish matnlarida ko'p grammatik/uslub nomukammalliklari bor (masalan "havolangan" iboralar, tarjima uslubidagi noqulaylik), lekin bular javobni buzmaydi — aniq xato emas, shu sabab tegilmadi.
 
+- **Texnologiya** (30 fayl / 900 savol) — TO'LIQ TEKSHIRILDI. Xato topilmadi (matematik hisoblashlar — perimetr, yuza, radius/diametr nisbatlari — va amaliy-texnologik javob kalitlari tekshirilgan, hammasi to'g'ri). Uslub jihatidan bir oz notekis, lekin mazmuniy xato yo'q.
+
