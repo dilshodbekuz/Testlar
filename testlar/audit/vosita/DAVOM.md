@@ -17,3 +17,5 @@ Bosqich B (7,8,9-sinf mazmuniy audit) holati. Har bir kitob tugagach shu yerga b
   - **Umumiy sifat muammosi (TUZATILMADI, faqat qayd):** Ushbu kitobda juda ko'p g'alati/buzuq so'zlar bor (masalan "shamindachixlik", "cezalandirish", "malodor", "binafshligi", "uchunchi", "ashmadi", "narkolar", "kulash-jing" va h.k.) — bular aniq bitta to'g'ri so'zga tuzatib bo'lmaydigan darajada noaniq, shuning uchun tegilmadi. Bu kitobning boshqa kitoblardan sifati past ekanligini ko'rsatadi, ehtimol qayta generatsiya qilish kerak.
   - Boshqa mazmuniy tekshiruv: matematik/mantiqiy hisoblashlar (medal sonlari, foizlar) tekshirilgan va to'g'ri chiqqan.
 
+- **Odobnoma** (24 fayl / 720 savol) — TO'LIQ TEKSHIRILDI. Xato topilmadi (javob kalitlari va mantiqiy izchillik to'g'ri). Matn sifati Tarbiya kitobiga qaraganda ancha yaxshi, lekin ba'zi savollarda uslub noqulay (tabiiy, lekin xato emas).
+
