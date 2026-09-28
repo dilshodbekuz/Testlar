@@ -1,0 +1,326 @@
+{
+ "sinf": "4-sinf",
+ "kitob": "4-sinf 4-Sinf Matematika",
+ "mavzu": "Tengsizliklar",
+ "savollar": [
+  {
+   "savol": "\"Katta\" (>), \"kichik\" (<), \"katta yoki teng\" (≥), \"kichik yoki teng\" (≤) belgisi bilan birlashtirilgan ikki ifoda nima deb ataladi?",
+   "variantlar": [
+    "tenglama",
+    "tenglik",
+    "tengsizlik",
+    "amallar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Katta\" belgisi qanday yoziladi?",
+   "variantlar": [
+    "<",
+    ">",
+    "≤",
+    "≥"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Kichik\" belgisi qanday yoziladi?",
+   "variantlar": [
+    ">",
+    "≥",
+    "≤",
+    "<"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Katta yoki teng\" belgisi qanday yoziladi?",
+   "variantlar": [
+    "<",
+    ">",
+    "≥",
+    "≤"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Kichik yoki teng\" belgisi qanday yoziladi?",
+   "variantlar": [
+    "<",
+    ">",
+    "≥",
+    "≤"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "947 > 852 tengsizlik to'g'rimi?",
+   "variantlar": [
+    "hisob kerak",
+    "ha",
+    "bilmayman",
+    "yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "2 457 < 1 457 tengsizlik to'g'rimi?",
+   "variantlar": [
+    "ha",
+    "bilmayman",
+    "teng",
+    "yo'q"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "458 + 754 < 1 468 tengsizlik to'g'rimi?",
+   "variantlar": [
+    "aniqsiz",
+    "bilmayman",
+    "ha",
+    "yo'q"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "4 km 234 m va 486 m ning taqqoslashida qaysi belgi qo'yiladi?",
+   "variantlar": [
+    "≠",
+    "=",
+    ">",
+    "<"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "8 t 465 kg va 8 546 kg ning taqqoslashida qaysi belgi qo'yiladi?",
+   "variantlar": [
+    "≥",
+    "=",
+    ">",
+    "<"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "3 + x < 5 tengsizlikda x ning qanday qiymatlari to'g'ri?",
+   "variantlar": [
+    "x = 2, 3, 4",
+    "x = 0, 1",
+    "x = 5, 6",
+    "x = 0"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "6 - x > 4 tengsizlikda x ning qanday qiymatlari to'g'ri?",
+   "variantlar": [
+    "x = 2, 3, 4",
+    "x = 0, 1",
+    "x = 0",
+    "x = 1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "5·x < 35 tengsizlikda x ning qanday qiymatlari to'g'ri?",
+   "variantlar": [
+    "x = 0",
+    "x = 1, 2, 3, 4, 5",
+    "x = 7, 8",
+    "x = 0, 1, 2, 3, 4, 5, 6"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "36:x > 4 tengsizlikda x ning qanday qiymatlari to'g'ri?",
+   "variantlar": [
+    "x = 8, 9",
+    "x = 1, 2, 3, 4, 5, 6, 7, 8",
+    "x = 9, 10",
+    "x = 0"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x + 220 < 800 tengsizlikda x ning eng katta qiymati qancha?",
+   "variantlar": [
+    "580",
+    "582",
+    "581",
+    "579"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "216·70 > 216·17 tengsizlik to'g'rimi?",
+   "variantlar": [
+    "hisob kerak",
+    "yo'q",
+    "ha",
+    "teng"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "267·34 < 267·(4·8) tengsizlik to'g'rimi?",
+   "variantlar": [
+    "yo'q",
+    "teng",
+    "aniqsiz",
+    "ha"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "21 525 > 562 145 - 12 478 tengsizlik to'g'rimi?",
+   "variantlar": [
+    "ha",
+    "hisob kerak",
+    "yo'q",
+    "teng"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x ≤ 548 tengsizlikka mos keluvchi x ning eng katta qiymati qancha?",
+   "variantlar": [
+    "547",
+    "550",
+    "549",
+    "548"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "7 020 : 90 > 5 030 - 4 961 tengsizlik to'g'rimi?",
+   "variantlar": [
+    "ha",
+    "teng",
+    "hisob kerak",
+    "yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "704 · 42 < 26 470 + 3 704 tengsizlik to'g'rimi?",
+   "variantlar": [
+    "hisob kerak",
+    "yo'q",
+    "ha",
+    "teng"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Omborxonada 15 480 kg kartoshka va 12 450 kg sabzi bor. Kartoshka sabzidan necha kg og'ir?",
+   "variantlar": [
+    "3 032",
+    "3 029",
+    "3 030",
+    "3 031"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "5 87_ > 5 876 tengsizlikda katakchaning o'rniga qanday raqam qo'yiladi?",
+   "variantlar": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "45 872 > x + 45 562 tengsizlikda x ning qanday qiymatlari to'g'ri?",
+   "variantlar": [
+    "x = 310",
+    "x > 310",
+    "x < 310",
+    "x ≥ 310"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "45 872 > x + 45 562 tengsizlikda x ning uchta ketma-ket qiymati nechada?",
+   "variantlar": [
+    "0, 1, 2",
+    "309, 310, 311",
+    "307, 308, 309",
+    "1, 2, 3"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "To'rtta bekatlari orasidagi masofa 10 124 metr. 1-2: 3 846 m, 2-3: 1-2 dan 247 m uzun. 3-4 masofa?",
+   "variantlar": [
+    "2 184",
+    "2 186",
+    "2 187",
+    "2 185"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Malika 165 so'z, Lola Malikadan ko'p, Azamatdan kam, Azamat 167 so'z o'qirsa, Lola?",
+   "variantlar": [
+    "165",
+    "167",
+    "164",
+    "166"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "25 687 - 14 856 va 45 584 + 55 551 ni taqqoslang",
+   "variantlar": [
+    "25 687 - 14 856 > 45 584 + 55 551",
+    "25 687 - 14 856 = 45 584 + 55 551",
+    "25 687 - 14 856 ≥ 45 584 + 55 551",
+    "25 687 - 14 856 < 45 584 + 55 551"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "56 746 - 25 484 va 96 255 + 55 442 ni taqqoslang",
+   "variantlar": [
+    "56 746 - 25 484 > 96 255 + 55 442",
+    "56 746 - 25 484 = 96 255 + 55 442",
+    "56 746 - 25 484 < 96 255 + 55 442",
+    "56 746 - 25 484 ≥ 96 255 + 55 442"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}
