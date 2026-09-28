@@ -93,7 +93,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Sonlarni qo'shishning bo'laklab qo'shishdan boshqa ikkinchi usuli qaysi?",
+    "savol": "Sonlarni xonalar bo'yicha tagma-tag yozib qo'shish usuli qanday ataladi?",
     "variantlar": [
      "Ko'paytirib qo'shish",
      "Ustun shaklida qo'shish",
@@ -104,14 +104,14 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Toshkent–Samarqand yo'nalishi bo'yicha qatnovchi tezyurar poyezd qanday nomlanadi?",
+    "savol": "180 + 350 nechaga teng?",
     "variantlar": [
-     "Sharq",
-     "Registon",
-     "Nasaf",
-     "Afrosiyob"
+     "530",
+     "520",
+     "540",
+     "430"
     ],
-    "togri": 3,
+    "togri": 0,
     "qiyinlik": "oson"
    },
    {
@@ -4071,7 +4071,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Namunada 86 : 2 ni hisoblash uchun 86 soni qanday yoyilgan?",
+    "savol": "86 : 2 ni xona qo'shiluvchilariga ajratib hisoblash uchun 86 qanday yoyiladi?",
     "variantlar": [
      "70 + 16",
      "90 − 4",
@@ -4375,7 +4375,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Ko'paytirishni tekshirish uchun nima qilinadi?",
+    "savol": "Ko'paytirishni tekshirish uchun ko'paytma noldan farqli ko'paytuvchilardan biriga qanday amal qilinadi?",
     "variantlar": [
      "Ko'paytma ko'paytuvchilardan biriga qo'shiladi",
      "Ko'paytma ko'paytuvchilardan biriga bo'linadi",
@@ -4701,10 +4701,10 @@
   "mavzu": "Uch va undan ortiq ko'paytuvchilarni ko'paytirish",
   "savollar": [
    {
-    "savol": "Uch va undan ortiq ko'paytuvchilarni turli tartibda ko'paytirish mumkin. Bu qaysi xossaga asoslanadi?",
+    "savol": "Uch va undan ortiq ko'paytuvchini istalgan tartibda va guruhlab hisoblash qaysi xossalarga asoslanadi?",
     "variantlar": [
      "Bo'lishning xossasiga",
-     "Ko'paytirishning o'rin almashtirish xossasiga",
+     "Ko'paytirishning o'rin almashtirish va guruhlash xossalariga",
      "Ayirishning xossasiga",
      "Qo'shishning o'rin almashtirish xossasiga"
     ],
@@ -5082,7 +5082,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "To'g'ri chiziqlar qanday belgilanadi?",
+    "savol": "To'g'ri chiziqni bitta kichik lotin harfi bilan qanday belgilash mumkin?",
     "variantlar": [
      "Kirill alifbosining bosh harflari bilan",
      "Lotin alifbosining kichik harflari a, b, ... bilan",
@@ -5093,12 +5093,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "To'g'ri chiziq qanday hosil bo'ladi?",
+    "savol": "Ikki tomonga cheksiz davom etadigan tekis chiziq nima deyiladi?",
     "variantlar": [
-     "Nuqtalarni ma'lum yo'nalish bo'yicha ketma-ket qo'yib chiqish natijasida",
-     "Aylana chizish natijasida",
-     "Nuqtalarni tartibsiz qo'yib chiqish natijasida",
-     "Bitta nuqta qo'yish natijasida"
+     "To'g'ri chiziq",
+     "Aylana",
+     "Egri chiziq",
+     "Nuqta"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -9734,12 +9734,12 @@
   "mavzu": "216:3 ko'rinishidagi ifodalar",
   "savollar": [
    {
-    "savol": "216:3 ifodasini yechishda 2 soni 3 dan kichik bo'lgani uchun nechta yuzlik va o'nlik birga olinadi?",
+    "savol": "216:3 ni hisoblashda 2 yuzlik va 1 o'nlik jami nechta o'nlik bo'ladi?",
     "variantlar": [
-     "216",
-     "21",
-     "2",
-     "6"
+     "216 o'nlik",
+     "21 o'nlik",
+     "2 o'nlik",
+     "6 o'nlik"
     ],
     "togri": 1,
     "qiyinlik": "oson"
@@ -10441,7 +10441,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "3 soniga karrali sonlarni topish uchun 3 ni qaysi sonlarga ko'paytiramiz?",
+    "savol": "3 sonining barcha musbat karralilarini ketma-ket olish uchun 3 ni qaysi sonlarga ko'paytiramiz?",
     "variantlar": [
      "3, 6, 9, 12 ...",
      "0, 1, 2 ga",
@@ -10628,7 +10628,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "72 sonini ikkita son ko'paytmasi ko'rinishida (tartibini hisobga olmay) necha usulda yozish mumkin?",
+    "savol": "72 sonini ikkita natural son ko'paytmasi ko'rinishida, tartibini hisobga olmay, necha usulda yozish mumkin?",
     "variantlar": [
      "5 usulda",
      "12 usulda",
@@ -10745,7 +10745,7 @@
   "mavzu": "Ikki xonali songa ko'paytirish",
   "savollar": [
    {
-    "savol": "12 · 15 ko'paytmasini yechishda 15 soni qanday yoyildi?",
+    "savol": "12 · 15 ni hisoblashda 15 soni xona qo'shiluvchilari yig'indisi ko'rinishida qanday yoyiladi?",
     "variantlar": [
      "15 + 0",
      "10 · 5",
@@ -11419,7 +11419,7 @@
   "mavzu": "Uchburchaklarning turlari",
   "savollar": [
    {
-    "savol": "Uchala tomoni teng bo‘lgan uchburchak qanday uchburchak deyiladi?",
+    "savol": "Uchala tomoni teng bo‘lgan uchburchakning eng aniq nomi qaysi?",
     "variantlar": [
      "To‘g‘ri uchburchak",
      "Turli tomonli uchburchak",
@@ -13203,12 +13203,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Qadimgi Misrda hisobni osonlashtiruvchi moslama sifatida nima xizmat qilgan?",
+    "savol": "3457 va 3475 sonlarini taqqoslang.",
     "variantlar": [
-     "Cho'plar",
-     "Toshlar",
-     "Abak",
-     "Tugunchali ip"
+     "3457 > 3475",
+     "Taqqoslab bo'lmaydi",
+     "3457 < 3475",
+     "3457 = 3475"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -13811,7 +13811,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "10000 ichida sonlarni ustun shaklida qo'shish qaysi qo'shishga o'xshab bajariladi?",
+    "savol": "Darslikda 10000 ichida sonlarni ustun shaklida qo'shish avval o'rganilgan qaysi bo'limdagi qo'shishga o'xshatib tushuntirilgan?",
     "variantlar": [
      "100000 ichida qo'shish",
      "ko'paytirish",
@@ -13822,14 +13822,14 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Ulug'bek observatoriyasida nechta yulduz xaritasi tuzilgan?",
+    "savol": "2400 + 3300 nechaga teng?",
     "variantlar": [
-     "1437 ta",
-     "365 ta",
-     "1449 ta",
-     "1018 ta"
+     "5700",
+     "5600",
+     "5800",
+     "4700"
     ],
-    "togri": 3,
+    "togri": 0,
     "qiyinlik": "oson"
    },
    {
@@ -13976,7 +13976,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Ulug'bek yulduz xaritasi tuzilgan yili necha yoshda edi?",
+    "savol": "Mirzo Ulug'bek 1394-yilda tug'ilgan. U 1437-yilda necha yoshga to'lgan?",
     "variantlar": [
      "43 yosh",
      "55 yosh",
@@ -14126,7 +14126,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "10000 ichida sonlarni ustun shaklida ayirish qaysi ayirishga o'xshab bajariladi?",
+    "savol": "Darslikda 10000 ichida sonlarni ustun shaklida ayirish avval o'rganilgan qaysi bo'limdagi ayirishga o'xshatib tushuntirilgan?",
     "variantlar": [
      "100000 ichida ayirishga",
      "1000 ichida ayirishga",
@@ -14159,12 +14159,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Beruniy Amerika qit'asi borligini ilmiy bashorat qilgan asarini qaysi yilda yozgan?",
+    "savol": "6800 – 2500 nechaga teng?",
     "variantlar": [
-     "1030-yilda",
-     "1492-yilda",
-     "1415-yilda",
-     "2212-yilda"
+     "4300",
+     "4200",
+     "4400",
+     "3300"
     ],
     "togri": 0,
     "qiyinlik": "oson"
@@ -14368,7 +14368,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Beruniy asarini 1030-yilda yozgan. Oradan 462 yil o'tib Amerika qit'asi kashf etildi. Bu qaysi yil?",
+    "savol": "Beruniy asari 1030-yilda yozilgan. Oradan 462 yil o'tib Kolumb Amerikaga yetib bordi. Bu qaysi yil?",
     "variantlar": [
      "1482",
      "1492",
@@ -14822,7 +14822,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Bir xil raqamlar ketma-ket nechta martadan ko'p yozilishi mumkin emas?",
+    "savol": "Rim raqamlarida I, X, C va M belgilari ketma-ket ko'pi bilan necha marta yoziladi?",
     "variantlar": [
      "5 martadan",
      "2 martadan",
@@ -14833,7 +14833,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Rim raqamlari yordamida yozilgan eng katta son qaysi?",
+    "savol": "Odatiy rim yozuvida I, X, C va M ketma-ket ko'pi bilan uch marta yoziladi va ustki chiziq ishlatilmaydi. Shu qoida bo'yicha eng katta son qaysi?",
     "variantlar": [
      "1000",
      "3999",
@@ -14866,7 +14866,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Rim raqamlari yordamida yozilgan eng katta son 3999 qanday yoziladi?",
+    "savol": "Ustki chiziqsiz odatiy rim yozuvida 3999 soni qanday yoziladi?",
     "variantlar": [
      "MMMCMIC",
      "MMMDCCCC",
@@ -15075,7 +15075,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Nima uchun 4000 sonini rim raqamlari qoidasiga ko'ra yozib bo'lmaydi?",
+    "savol": "Ustki chiziqsiz odatiy rim yozuvida M ketma-ket ko'pi bilan uch marta yoziladi. Nega 4000 sonini MMMM shaklida yozish bu qoidaga zid?",
     "variantlar": [
      "Chunki 4000 juft son emas",
      "Chunki M raqami 4 marta ketma-ket yozilishi kerak bo'lardi, bu mumkin emas",
@@ -15192,12 +15192,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "827-yili al-Xorazmiy nimani hisoblab topgan?",
+    "savol": "300 · 3 nimaga teng?",
     "variantlar": [
-     "Dengiz chuqurligini",
-     "Quyoshning yoshini",
-     "Yer sharining kattaligini",
-     "Oyning kattaligini"
+     "900",
+     "90",
+     "9000",
+     "390"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -16104,7 +16104,7 @@
   "mavzu": "10000 ichida yozma bo'lish",
   "savollar": [
    {
-    "savol": "Noma'lum ko'paytuvchini topish uchun nima qilinadi?",
+    "savol": "Ma'lum ko'paytuvchi noldan farqli bo'lsa, noma'lum ko'paytuvchini topish uchun nima qilinadi?",
     "variantlar": [
      "Ikkala ko'paytuvchini qo'shamiz",
      "Ko'paytmadan ma'lum ko'paytuvchini ayiramiz",
@@ -17031,7 +17031,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Laylaklar 2000 m balandlikda uchadi. Turnalar laylaklardan 2 marta, lochinlar 5 marta balandroq uchadi. Turnalar va lochinlar uchish balandliklari yig'indisi necha km?",
+    "savol": "Masala shartiga ko'ra, laylak 2000 m balandlikda uchadi. Turna undan 2 marta, lochin 5 marta balandroq uchsa, turna va lochin balandliklari yig'indisi necha km?",
     "variantlar": [
      "16 km",
      "12 km",
@@ -17192,7 +17192,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Kattaliklar ustida amallar bajarish uchun kattaliklar qanday bo'lishi kerak?",
+    "savol": "Kattaliklarni qo'shish, ayirish yoki taqqoslashdan oldin ular qanday o'lchov birliklariga keltiriladi?",
     "variantlar": [
      "turli o'lchov birligida",
      "bir xil o'lchov birligida",
@@ -18485,12 +18485,12 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Bitta odam bir sutkada necha kg havoni yutadi?",
+    "savol": "x + 45 = 100 tenglamada x nechaga teng?",
     "variantlar": [
-     "100 kg",
-     "12 kg",
-     "22 kg",
-     "2 kg"
+     "55",
+     "45",
+     "65",
+     "50"
     ],
     "togri": 2,
     "qiyinlik": "oson"
@@ -18518,7 +18518,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Sonni 3 ga qoldiqli bo'lganda qoldiq qaysi son bo'la olmaydi?",
+    "savol": "Natural sonni 3 ga bo'lganda qoldiq qaysi son bo'la olmaydi?",
     "variantlar": [
      "0",
      "3",
@@ -18789,22 +18789,22 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Qaysi transport vositasi 1 soatda eng uzoq masofani, ya'ni 120 km ni bosib o'tadi?",
+    "savol": "Ustaxonada bir soatda 15 ta stul yasaladi. 4 soatda nechta stul yasaladi?",
     "variantlar": [
-     "Mototsikl",
-     "Avtomobil",
-     "Velosiped",
-     "Piyoda"
+     "60",
+     "45",
+     "75",
+     "64"
     ],
-    "togri": 1,
+    "togri": 0,
     "qiyinlik": "oson"
    },
    {
-    "savol": "Bitta odam bir sutkada necha kg havoni yutadi?",
+    "savol": "Bir qopda 25 kg un bor. 3 ta shunday qopda jami necha kg un bor?",
     "variantlar": [
-     "12 kg",
-     "32 kg",
-     "22 kg",
+     "75",
+     "70",
+     "85",
      "2 kg"
     ],
     "togri": 2,
@@ -18844,7 +18844,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Qoldiqli bo'lish qanday tekshiriladi?",
+    "savol": "Qoldiqli bo'lishda bo'linuvchini qayta hosil qilib tekshirish uchun nima qilinadi?",
     "variantlar": [
      "Bo'linma qoldiqqa ko'paytiriladi",
      "Bo'luvchi bilan bo'linma ko'paytirilib, qoldiq qo'shiladi va bo'linuvchi chiqishi kerak",
@@ -18877,7 +18877,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "«4 · 100 g + 3 · 150 g» ifodasidagi 3 · 150 g nimani bildiradi?",
+    "savol": "Masalada har biri 150 g bo'lgan 3 paket sabzi urug'i olingan. 3 · 150 g nimani bildiradi?",
     "variantlar": [
      "Har birida 100 g dan bo'lgan 3 paket kashnich urug'i massasini",
      "Har birida 150 g dan bo'lgan 3 paket sabzi urug'i massasini",
@@ -19811,7 +19811,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Aylananing diametri aylana uchun nima bo'ladi?",
+    "savol": "Aylana diametri yotgan to'g'ri chiziq aylana uchun nima bo'ladi?",
     "variantlar": [
      "Simmetriya o'qi",
      "Markazi",
@@ -19833,7 +19833,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Simmetriya o'qiga nisbatan simmetrik nuqtalar o'qqa nisbatan qanday joylashadi?",
+    "savol": "O'qda yotmaydigan ikki simmetrik nuqta simmetriya o'qiga nisbatan qanday joylashadi?",
     "variantlar": [
      "O'qning ikki tomonida, o'qdan turli uzoqlikda",
      "Ikkalasi o'qning bir tomonida",
@@ -19866,7 +19866,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Simmetrik uchburchaklarning o'zaro simmetrik burchaklari nima yordamida tutashtiriladi?",
+    "savol": "Simmetrik uchburchaklarning mos uchlari nima yordamida tutashtiriladi?",
     "variantlar": [
      "Tarozi yordamida",
      "Aylana yordamida",
@@ -19921,7 +19921,7 @@
     "qiyinlik": "o'rtacha"
    },
    {
-    "savol": "Uzunligi 5 cm bo'lgan kesmaning simmetriya o'qi uni qanday ikki qismga ajratadi?",
+    "savol": "Uzunligi 5 cm bo'lgan kesmaning o'rta perpendikulari uni qanday ikki qismga ajratadi?",
     "variantlar": [
      "5 cm va 0 cm",
      "2 cm 5 mm va 2 cm 5 mm",
@@ -20401,7 +20401,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "Doira 12 ta teng bo'lakka bo'lingan, \"o'n ikkidan to'qqiz\" qismi bo'yalgan. Bo'yalmagan qismning surati nechaga teng?",
+    "savol": "Doira 12 teng bo'lakka bo'linib, 9 bo'lagi bo'yalgan. Bo'yalmagan qismni maxraji 12 bo'lgan kasr bilan yozganda surat nechaga teng?",
     "variantlar": [
      "9",
      "21",
@@ -21170,7 +21170,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Aralash son nimadan iborat?",
+    "savol": "Aralash son qanday qismlardan iborat?",
     "variantlar": [
      "Ikkita kasrdan",
      "Faqat butun sondan",
@@ -23126,7 +23126,7 @@
   "mavzu": "Yuzalarni taqqoslash",
   "savollar": [
    {
-    "savol": "Yuzalarni taqqoslashda tomonlar qanday o'lchanishi kerak?",
+    "savol": "Yuzalarni taqqoslashda o'lchovlar qanday birliklarda ifodalanishi kerak?",
     "variantlar": [
      "Bir xil kattaliklarda",
      "Faqat millimetrlarda",
@@ -24197,7 +24197,7 @@
      "90° dan katta burchaklar",
      "90° ga teng burchaklar",
      "180° ga teng burchaklar",
-     "90° dan kichik burchaklar"
+     "0° dan katta va 90° dan kichik burchaklar"
     ],
     "togri": 3,
     "qiyinlik": "oson"
@@ -24205,7 +24205,7 @@
    {
     "savol": "Qaysi burchaklar o'tmas burchak deyiladi?",
     "variantlar": [
-     "90° dan 180° gacha burchaklar",
+     "90° dan katta va 180° dan kichik burchaklar",
      "Faqat 180° li burchak",
      "Faqat 90° li burchak",
      "0° dan 90° gacha burchaklar"
@@ -24368,7 +24368,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "O'quv yilining uchinchi choragi 11-yanvardan 20-martgacha davom etadi. Fevral 28 kun bo'lgan yilda uchinchi chorak necha sutkadan iborat?",
+    "savol": "Boshlanish va tugash kunlarini ham sanab, 11-yanvardan 20-martgacha bo'lgan davr fevral 28 kun bo'lsa necha sutka?",
     "variantlar": [
      "71",
      "70",
@@ -24379,7 +24379,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "O'quv yilining uchinchi choragi 11-yanvardan 20-martgacha davom etadi. Fevral 29 kun bo'lgan yilda uchinchi chorak necha sutkadan iborat?",
+    "savol": "Boshlanish va tugash kunlarini ham sanab, 11-yanvardan 20-martgacha bo'lgan davr fevral 29 kun bo'lsa necha sutka?",
     "variantlar": [
      "68",
      "69",
@@ -24833,7 +24833,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "O'nli kasrni yozishda avval nima yoziladi?",
+    "savol": "Maxraji 10, 100, 1000 kabi bo'lgan kasrni o'nli kasr shaklida yozishda nima qilinadi?",
     "variantlar": [
      "maxraj",
      "vergul",
@@ -25496,7 +25496,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "O'nli sanoq sistemasida har bir xona birligi o'zidan keyingi xona birligidan qanday?",
+    "savol": "O'nli sanoq sistemasida har bir xona birligi o'zidan o'ngdagi keyingi xona birligidan qanday?",
     "variantlar": [
      "10 marta kichik",
      "100 marta kichik",
@@ -26148,7 +26148,7 @@
   "mavzu": "Fazoviy figura – piramida",
   "savollar": [
    {
-    "savol": "Piramidaning eng yuqorida joylashgan nuqtasi nima deyiladi?",
+    "savol": "Piramida asos tekisligidan tashqarida joylashib, barcha yon qirralar tutashadigan nuqta nima deyiladi?",
     "variantlar": [
      "Piramidaning uchi",
      "Piramidaning burchagi",
@@ -26214,7 +26214,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Uchburchakli piramida karton qog'ozdan qirqib olingan qanday figurani buklab hosil qilinadi?",
+    "savol": "Darslikdagi andazada o'rta chiziqlar bo'ylab buklab uchburchakli piramida hosil qilish uchun kartondan qaysi figura qirqiladi?",
     "variantlar": [
      "Teng tomonli uchburchakni",
      "To'g'ri to'rtburchakni",
@@ -26496,11 +26496,11 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Konus chizmasida asosining radiusi nimaga teng?",
+    "savol": "To'g'ri burchakli uchburchak bir kateti atrofida aylantirilib konus hosil qilinsa, konus asosining radiusi nimaga teng?",
     "variantlar": [
      "Uchburchakning gipotenuzasiga",
      "Uchburchakning perimetriga",
-     "Uchburchakning to‘g‘ri burchakli tomonlaridan biriga",
+     "Uchburchakning aylanish o'qi bo'lmagan ikkinchi katetiga",
      "Doiraning yuziga"
     ],
     "togri": 2,
@@ -27529,7 +27529,7 @@
     "qiyinlik": "oson"
    },
    {
-    "savol": "Sonli piramidada ustidagi son nimaga teng?",
+    "savol": "Ko'paytirish qoidasiga asoslangan sonli piramidada yuqoridagi son nimaga teng?",
     "variantlar": [
      "Ostidagi ikkita sonning bo'linmasiga",
      "Ostidagi ikkita sonning ko'paytmasiga",
@@ -27749,7 +27749,7 @@
     "qiyinlik": "qiyin"
    },
    {
-    "savol": "120 ta darslikning 1/20 qismi «3» bahoga, 1/6 qismi «4» bahoga, qolganlari «5» bahoga baholandi. Nechta darslik «5» bahoga baholangan?",
+    "savol": "120 ta darslikning saqlanish holati tekshirildi: 1/20 qismi «3», 1/6 qismi «4», qolganlari «5» baho oldi. Nechta darslik «5» baho olgan?",
     "variantlar": [
      "26",
      "100",
