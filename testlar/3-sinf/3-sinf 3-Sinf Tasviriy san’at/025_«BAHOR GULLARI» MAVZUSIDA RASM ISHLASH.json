@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Tasviriy san’at",
+ "mavzu": "«BAHOR GULLARI» MAVZUSIDA RASM ISHLASH",
+ "savollar": [
+  {
+   "savol": "\"Bahor gullari\" mavzusida rasmdagi asosiy ranglar qaysidir?",
+   "variantlar": [
+    "Qora, oq, sariq",
+    "Yam-yashil, turfa ranglar",
+    "Faqat ko'k",
+    "Faqat qizil"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bahorda dala va daraxtlar qanday rangga kiradi?",
+   "variantlar": [
+    "Sariq rangga",
+    "Yam-yashil rangga",
+    "Ko'k rangga",
+    "Qora rangga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Atirgul rasmini ishlashning birinchi bosqichi qanday?",
+   "variantlar": [
+    "Tasvirni o'lchamlarini belgilash",
+    "Qalamda xomaki ishlash",
+    "Bo'yoqlar bilan ishlov berish",
+    "Tasvirni qalamda yakunlash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gullayotgan olma shoxi rasmini ishlashning oxirgi bosqichi nima?",
+   "variantlar": [
+    "Bo'yoqlar bilan ishlov berish",
+    "Qalamda xomaki ishlash",
+    "Tasvirni qalamda yakunlash",
+    "Tasvirni o'lchamlarini belgilash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rasmsni qalamda yakunlashdan oldin nima qilish kerak?",
+   "variantlar": [
+    "Rasmsni yo'q qilish",
+    "Bo'yoqlar bilan ishlov berish",
+    "Qalamda xomaki ishlash",
+    "Tasvirni o'lchamlarini belgilash"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bahor faslining ilk darakchilari deganda nima tushuniladi?",
+   "variantlar": [
+    "Katta daraxtlar",
+    "Toza shamollar",
+    "Dastlabki gullar va o'simliklar",
+    "Qorong'u vaqtlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rassom U. Ahmetjonovaning \"Bahor\" asarida nima tasvirlangan?",
+   "variantlar": [
+    "Qish manzonyi",
+    "Yozgi o'rmon",
+    "Kuzgi ranglar",
+    "Bahorgi tabiat"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Bahor gullari\" mavzusida rasm ishlaganda, qanday rang tushlanadi?",
+   "variantlar": [
+    "Faqat kulrang",
+    "Faqat qora rang",
+    "Faqat oq rang",
+    "Turli xil va yashnagich ranglar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gullayotgan olma shoxi rasmini ishlashda, qalamda xomaki bosqichidan keyin nima keladi?",
+   "variantlar": [
+    "Rasm yo'q qilish",
+    "Tasvirni qalamda yakunlash",
+    "Bo'yoqlar bilan ishlov berish",
+    "Tasvirni o'lchamlarini belgilash"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Atirgul rasmi bo'yoqlar bosqichiga o'tishdan oldin nima kerak?",
+   "variantlar": [
+    "Tasvirni o'lchamlarini belgilash",
+    "Tasvirni qalamda yakunlash",
+    "Rasmsni yo'q qilish",
+    "Vaqt kutish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Atirgul va gullayotgan olma shoxi rasmlarini ishlashning umumiy bosqichlari qanday?",
+   "variantlar": [
+    "Faqat qalamda ishlash",
+    "Faqat bo'yoqlar bilan ishlov berish",
+    "Faqat ko'rish",
+    "Tasvirni belgilash, xomaki, yakunlash, bo'yoq"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar rasm ishlashda \"tasvirni o'lchamlarini belgilash\" bosqichini o'tkazib qolsak, qanday muammo bo'ladi?",
+   "variantlar": [
+    "Bo'yoq ochilib ketadi",
+    "Qalamning ko'rinishi o'zgaradi",
+    "Rang to'g'ri tanlanmaydi",
+    "Rasm aniq ravishda o'rniga joylanmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Bahor gullari\" rasmlarda \"turfa ranglar\" qo'llaniladi. Bu nima sababdan?",
+   "variantlar": [
+    "Faqat qizil rang mavjud",
+    "Kompyuter shartloviga ko'ra",
+    "Turfa gul turlari bor",
+    "Rassom xohlagani uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gullayotgan olma shoxi rasmini ishlashda, xomaki bosqichi nima uchun kerak?",
+   "variantlar": [
+    "Rasmsni yo'q qilish",
+    "Asosiy shakllarni belgilash",
+    "Qalamni sindirib tashlash",
+    "Rangni o'zgartirib qo'yish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tasvirni qalamda yakunlashda nima talab qilinadi?",
+   "variantlar": [
+    "Asosiy chiziqqalar aniqlanadi va mustahkamlandi",
+    "Xomaki bo'limi to'liq o'chiriladi",
+    "Bo'yoq butunlay o'chiriladi",
+    "Rasm boshqasiga o'tkaziladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Bahor gullari\" mavzusida akvarelda bo'yashda, qanday usul ishlatiladi?",
+   "variantlar": [
+    "Qalam bilan yotiq chiziqlar",
+    "Ranglashtirib, suv bilan yummaloq rang yasash",
+    "Faqat rang chiqarish",
+    "Rangga rang qo'yish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matni asosida, bahorda \"dala va daraxtlar yam-yashil rangga kiradi\" deyiladi. Bu nima demak?",
+   "variantlar": [
+    "Faqat dala o'zgaradi",
+    "Tabiatning barcha qismi yashil holatga aylanadi",
+    "Faqat daraxtlar o'zgaradi",
+    "Rang butunlay o'chiriladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Atirgul rasmini ishlashda bo'yoqlar bilan ishlov berish qanday bosqichning natijasidir?",
+   "variantlar": [
+    "Rasm ko'rishning",
+    "Qalamda xomakining",
+    "Tasvirni qalamda yakunlashning",
+    "Tasvirni o'lchamlarini belgilashning"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"8 ta farqni toping\" o'yinida nima asosida farqlar belgilanadi?",
+   "variantlar": [
+    "Rang asosida",
+    "O'lcham asosida",
+    "Faqat chiziqlari asosida",
+    "Rasm elementlarining joylashishi va turli o'zgarishlar asosida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gullayotgan olma shoxi rasmini ishlashda, qalamda xomaki bosqichida nima ko'rsatiladi?",
+   "variantlar": [
+    "Tukli chiziqlar",
+    "Oxirgi bo'yoqlar",
+    "Faqat ranglar",
+    "Asosiy shakl va hajmning bo'limlari"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matni asosida, bahor mevalarining gullari \"turfa ranglar\"da tasvir qilinadi. Bu rasm ishlaganda nima demak?",
+   "variantlar": [
+    "Rang tanlovi cheklanadi",
+    "Har bir gul turi o'z rangida tasvir qilinadi va rang boyligi kuzatiladi",
+    "Rang ishlatilmaydi",
+    "Bir xil rang ishlatiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Atirgul va gullayotgan olma shoxi rasmlarini ishlashning bosqichlari oid asosiy farqi nima?",
+   "variantlar": [
+    "Rasmsni o'lchamlarini belgilash",
+    "Xomaki bosqichining ko'lami",
+    "Bosqichlar tartibining farqli tabiati va ishlash turlari",
+    "Faqat bo'yoq foydasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Bahor gullari\" mavzusida rasm ishlaganda, \"yam-yashil rang\" va \"turfa ranglar\"ning aloqasi nima?",
+   "variantlar": [
+    "Bularning aloqasi yo'q",
+    "Yam-yashil - asosiy fon, turfa ranglar - gullarning ranglari",
+    "Turfa ranglar - asosiy fon, yam-yashil - faqat o'simliklar",
+    "Bularning hammasini bir vaqtda ishlatmay qo'yish kerak"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar rasm ishlashda \"qalamda xomaki\" bosqichini shoshqaliq bilan bajarilsa, keyingi bosqichlar qanday ta'sir ko'radi?",
+   "variantlar": [
+    "Bo'yoq aniqroq bo'ladi",
+    "Rasm yaxshilashadi",
+    "Rasm aniq bo'lmaydi va qalamda yakunlash qiyinlashadi",
+    "Rang birlamchi bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "U. Ahmetjonovaning \"Bahor\" asari bo'yicha hikoya tuzing deyilganda, nima tushuniladi?",
+   "variantlar": [
+    "Asarning tarkibini daftarni o'qish",
+    "Rasm haqida nimani uyga yozish",
+    "Asarni ko'rib, uning o'zi tuzgan hikoyasini bayon qilish",
+    "Rassmoning nomini takrorlash"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rasm ishlash prosessida \"xomaki\", \"yakunlash\" va \"bo'yoq\" bosqichlarining maqsadining o'ziga xosligi nima?",
+   "variantlar": [
+    "Faqat ranglash muhim",
+    "Tartib oid emas",
+    "Xomaki - asosiy shakl, yakunlash - aniqlanish, bo'yoq - ranglash",
+    "Hammasi bir xil maqsadda qilinadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matni asosida \"Bahor gullari\" mavzusida rasm ishlaganda, qanday ketma-ketlik talab qilinadi?",
+   "variantlar": [
+    "Ketma-ketlik oid emas",
+    "Faqat bo'yoq kerak",
+    "O'lcham → xomaki → qalamda yakunlash → bo'yoq",
+    "Bo'yoq → yakunlash → xomaki → o'lcham"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gullayotgan olma shoxi rasmini ishlashda, qalamda yakunlash bosqichining rasm uchun ahamiyati nima?",
+   "variantlar": [
+    "Rasm muvaffaqiyat qazo bo'ladi",
+    "Rasm yo'q bo'lib ketadi",
+    "Faqat vaqt o'tadi",
+    "Asosiy shakllarni aniqlantirib mustahkamlanadi va ranglashga tayyor bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Tog'larning bahorgi ko'rinishi\" mavzusida rasm ishlaganda, \"Bahor gullari\"dagi qanday bilimlar qo'llaniladi?",
+   "variantlar": [
+    "Faqat rang tanlash",
+    "Faqat o'lcham",
+    "Hech narsa qo'llanilmaydi",
+    "Rasm ishlash bosqichlari, bahor tasvirining xususiyatlari va rang turfligi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rasm ishlashda tasvirni belgilash, xomaki, yakunlash va bo'yoq bosqichlarining barchasi to'liq bajarilganligini qanday bilsa bo'ladi?",
+   "variantlar": [
+    "Hech narsani bilmay qo'yish mumkin",
+    "Rasm aniq, to'liq, rang boyligi va chiziqlarning mustahkamlanishi ko'rinsa",
+    "Bo'yoq qo'lanilganida",
+    "Rasm oxiri bo'lganda"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}
