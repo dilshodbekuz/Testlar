@@ -1,0 +1,218 @@
+[
+  {
+    "file": "4-sinf/4-sinf 4-Sinf Matematika/003_Ko'p xonali sonlarni qo'shish.json",
+    "question_no": 19,
+    "line": 205,
+    "question": {
+      "savol": "Hisoblang: 50000 + 4000 + 3000 = ?",
+      "variantlar": [
+        "55000",
+        "56000",
+        "57000",
+        "58000"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    "reason": "Kalit xato: 50000 + 4000 + 3000 = 57000. B (56000) belgilangan.",
+    "recommendation": "Kalitni C (indeks 2) ga almashtirish."
+  },
+  {
+    "file": "4-sinf/4-sinf 4-Sinf Matematika/008_Uzunlik birliklari.json",
+    "question_no": 23,
+    "line": 249,
+    "question": {
+      "savol": "118 m 06 cm – 92 m 32 cm nechaga teng?",
+      "variantlar": [
+        "26 m 74 cm",
+        "26 m 74 cm",
+        "25 m 74 cm",
+        "25 m 75 cm"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    "reason": "A va B variantlari aynan bir xil: 26 m 74 cm. To‘g‘ri javob C (25 m 74 cm).",
+    "recommendation": "Takror noto‘g‘ri variantlardan birini boshqa qiymat bilan almashtirish."
+  },
+  {
+    "file": "6-sinf/6-sinf 6-Sinf Matematika/003_Sonning tub ko'paytuvchilarga yoyilmasi.json",
+    "question_no": 11,
+    "line": 117,
+    "question": {
+      "savol": "12 sonini tub ko'paytuvchilarga yoying",
+      "variantlar": [
+        "2 × 6",
+        "3 × 4",
+        "2 × 3 × 2",
+        "2² × 3"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    "reason": "C: 2 × 3 × 2 va D: 2² × 3 — ikkalasi ham 12 ning tub ko‘paytuvchilarga yoyilmasi. Savol darajali yozuvni talab qilmagan.",
+    "recommendation": "Savolda darajalar yordamida yozishni aniq talab qilish yoki C variantini almashtirish."
+  },
+  {
+    "file": "6-sinf/6-sinf 6-Sinf Matematika/003_Sonning tub ko'paytuvchilarga yoyilmasi.json",
+    "question_no": 14,
+    "line": 150,
+    "question": {
+      "savol": "45 ni tub ko'paytuvchilarga yoying",
+      "variantlar": [
+        "3 × 3 × 5",
+        "3² × 5",
+        "5 × 9",
+        "3 × 15"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    "reason": "A: 3 × 3 × 5 va B: 3² × 5 — ikkalasi ham 45 ning tub ko‘paytuvchilarga yoyilmasi.",
+    "recommendation": "Savolda darajalar yordamida yozishni aniq talab qilish yoki A variantini almashtirish."
+  },
+  {
+    "file": "3-sinf/3-sinf 3-Sinf Ingliz tili/003_Unit 1 Lesson 3 Are you a driver.json",
+    "question_no": 2,
+    "line": 18,
+    "question": {
+      "savol": "Quyidagi kasblardan qaysi biri matnda nomlanmaydi?",
+      "variantlar": [
+        "Doktor",
+        "Voqea",
+        "Muhandis",
+        "O'qituvchi"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    "reason": "Savol matnga tayanadi, lekin JSON ichida manba matni yo‘q. Kasblar orasiga “Voqea” kiritilgan.",
+    "recommendation": "Asl matnni biriktirish, variantlarni mazmunan qayta tuzish."
+  },
+  {
+    "file": "4-sinf/4-sinf 4-Sinf Ingliz tili/010_Unit 3 - Lesson 1 Do you help your mum.json",
+    "question_no": 26,
+    "line": 282,
+    "question": {
+      "savol": "Agar haftalik jadvalda ko'rsatilgan barcha 5 ta harakatni bajaradigan bo'lsan, nechta kunni to'liq yurakda ish qilish kerak?",
+      "variantlar": [
+        "7 ta kun",
+        "3 ta kun",
+        "har bir kun",
+        "5 ta kun"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    "reason": "“nechta kunni to‘liq yurakda ish qilish kerak” jumlasi tushunarsiz; beshta harakatdan beshta kun degan javob kelib chiqmaydi. Jadval ilova qilinmagan.",
+    "recommendation": "Jadvalni qo‘shish va savolni aniq qayta yozish."
+  },
+  {
+    "file": "5-sinf/5-sinf 5-Sinf Adabiyot/001_Adabiyot – so'z san'ati.json",
+    "question_no": 26,
+    "line": 282,
+    "question": {
+      "savol": "Quyidagi jumla matndagi qaysi tushunchani eng yaxshi ifoda etadi: \"Bolalar loy-kulgacha, qumdan uy, plastilində qushcha yasay ekan, yodiga o'sha narsalarning surati keltiradi\"",
+      "variantlar": [
+        "Bolalar faqat o'yn yasadi",
+        "Bolalarning qo'li chala bo'lgani uchun",
+        "Bolalarning xayoli noto'g'ri bo'lgani uchun",
+        "Bolalarning obrazli fikrlash qobiliyati va xayol kuchining rivojlanishini"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    "reason": "Iqtibos va variantlar grammatik jihatdan buzilgan: “loy-kulgacha”, “plastilində”, “yasay ekan”, “Bolalar faqat o‘yn yasadi”.",
+    "recommendation": "Asl parcha bilan taqqoslab qayta tahrirlash."
+  },
+  {
+    "file": "6-sinf/6-sinf 6-Sinf Adabiyot (2-qism)/001_Said Ahmad.json",
+    "question_no": 20,
+    "line": 216,
+    "question": {
+      "savol": "Paxtakorning rasmini gazeta birinchi betida chap-chunkur holati qanday tasvirlanadilar?",
+      "variantlar": [
+        "O'tirib qo'q",
+        "Yutib o'yin",
+        "Yurmasin turib",
+        "Paxta qistirib kulib"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    "reason": "Savol va chalg‘ituvchi variantlar tushunarsiz: “chap-chunkur”, “O‘tirib qo‘q”, “Yutib o‘yin”.",
+    "recommendation": "Asl hikoya asosida savol va barcha variantlarni qayta yozish."
+  },
+  {
+    "file": "4-sinf/4-sinf 4-Sinf Musiqa/001_Vatanimizni madh etamiz.json",
+    "question_no": 1,
+    "line": 7,
+    "question": {
+      "savol": "Band shakli nechta shå'riy misradan iborat?",
+      "variantlar": [
+        "4 ta",
+        "5 ta",
+        "3 ta",
+        "6 ta"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    "reason": "“shå’riy”/“Shå’riy” ko‘rinishidagi buzilgan yozuv mavjud.",
+    "recommendation": "“she’riy”/“She’riy” ko‘rinishiga tuzatish."
+  },
+  {
+    "file": "4-sinf/4-sinf 4-Sinf Musiqa/001_Vatanimizni madh etamiz.json",
+    "question_no": 7,
+    "line": 73,
+    "question": {
+      "savol": "Band shakli nimalardan tarkib topadi?",
+      "variantlar": [
+        "Naqarot va ilhomdan",
+        "Musiqa asboblaridan",
+        "Raqs va oyinlardan",
+        "Shå'riy misra va kuydan"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    "reason": "“shå’riy”/“Shå’riy” ko‘rinishidagi buzilgan yozuv mavjud.",
+    "recommendation": "“she’riy”/“She’riy” ko‘rinishiga tuzatish."
+  },
+  {
+    "file": "4-sinf/4-sinf 4-Sinf Musiqa/001_Vatanimizni madh etamiz.json",
+    "question_no": 11,
+    "line": 117,
+    "question": {
+      "savol": "Band va naqarotli band shakl o'rtasida asosiy farq nima?",
+      "variantlar": [
+        "Kattalikda farq",
+        "Janri boshqacha",
+        "Kuylari boshqacha",
+        "Naqarotli band shaklida shå'riy misralar o'zgaruvchan, naqarot o'zgarmasdan takrorlanadi"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    "reason": "“shå’riy”/“Shå’riy” ko‘rinishidagi buzilgan yozuv mavjud.",
+    "recommendation": "“she’riy”/“She’riy” ko‘rinishiga tuzatish."
+  },
+  {
+    "file": "4-sinf/4-sinf 4-Sinf Musiqa/001_Vatanimizni madh etamiz.json",
+    "question_no": 22,
+    "line": 238,
+    "question": {
+      "savol": "Band va naqarotli band shakllarida shå'riy va musiqiy tuzilmasining o'zaro munosabati qanday?",
+      "variantlar": [
+        "Shå'riy misralar to'rt, kuy ham to'rt; naqarot o'zgarmasdan bandlar orasida takrorlanadi",
+        "Har safar boshqacha",
+        "Bog'lanmagani",
+        "Musiqiy tuzilma davomiyligi"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    "reason": "“shå’riy”/“Shå’riy” ko‘rinishidagi buzilgan yozuv mavjud.",
+    "recommendation": "“she’riy”/“She’riy” ko‘rinishiga tuzatish."
+  }
+]

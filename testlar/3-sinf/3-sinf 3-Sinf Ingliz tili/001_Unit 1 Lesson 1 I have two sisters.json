@@ -6,10 +6,10 @@
     {
       "savol": "'I have two sisters' gap nimani bildiradi?",
       "variantlar": [
-        "Mening ikkita opam yoki singilim bor",
-        "Mening ikki opam bor",
-        "Mening ikkita singilim bor",
-        "Mening ikkita erkak aka yoki ukam bor"
+        "Mening ikkita opa-singlim bor",
+        "Mening bitta opa-singlim bor",
+        "Mening uchta opa-singlim bor",
+        "Mening ikkita aka-ukam bor"
       ],
       "togri": 0,
       "qiyinlik": "oson"
@@ -39,27 +39,27 @@
     {
       "savol": "'I have one brother' gap nimani bildiradi?",
       "variantlar": [
-        "Mening bir opam bor",
-        "Mening bir singilim bor",
-        "Mening bir aka yoki ukam bor",
-        "Mening bir onasi bor"
+        "Mening bitta opa-singlim bor",
+        "Mening ikkita opa-singlim bor",
+        "Mening bitta aka-ukam bor",
+        "Mening ikkita aka-ukam bor"
       ],
       "togri": 2,
       "qiyinlik": "oson"
     },
     {
-      "savol": "Lesson 1 ning mavzusi qanday?",
+      "savol": "'I have two sisters' gapida nima haqida aytilgan?",
       "variantlar": [
-        "Our family",
-        "Colors",
-        "Numbers",
-        "I have two sisters"
+        "Sevimli rang haqida",
+        "Maktab haqida",
+        "Kasb haqida",
+        "Opa-singillar soni haqida"
       ],
       "togri": 3,
       "qiyinlik": "oson"
     },
     {
-      "savol": "'Two' raqami qanday yoziladi?",
+      "savol": "'Two' so'zi qaysi sonni bildiradi?",
       "variantlar": [
         "1",
         "4",
@@ -70,7 +70,7 @@
       "qiyinlik": "oson"
     },
     {
-      "savol": "'Three' raqami qanday yoziladi?",
+      "savol": "'Three' so'zi qaysi sonni bildiradi?",
       "variantlar": [
         "4",
         "2",
@@ -92,7 +92,7 @@
       "qiyinlik": "oson"
     },
     {
-      "savol": "'One' raqami qanday yoziladi?",
+      "savol": "'One' so'zi qaysi sonni bildiradi?",
       "variantlar": [
         "1",
         "0",
@@ -103,18 +103,18 @@
       "qiyinlik": "oson"
     },
     {
-      "savol": "Darsdagi 'Play Numbers' o'yini nima uchun?",
+      "savol": "'One, two, three' so'zlarini mashq qilish nimani o'rganishga yordam beradi?",
       "variantlar": [
-        "Aksiyolarni o'rganish uchun",
-        "Hayvonlarni o'rganish uchun",
-        "Ranglarni o'rganish uchun",
-        "Raqamlarni o'rganish uchun"
+        "Kasblarni",
+        "Hayvonlarni",
+        "Ranglarni",
+        "Sonlarni"
       ],
       "togri": 3,
       "qiyinlik": "oson"
     },
     {
-      "savol": "Agar 'I have one sister' desa, qancha singilim bor?",
+      "savol": "'I have one sister' gapida nechta opa yoki singil borligi aytilgan?",
       "variantlar": [
         "2",
         "1",
@@ -125,7 +125,7 @@
       "qiyinlik": "o'rtacha"
     },
     {
-      "savol": "'I have two sisters and one brother' gapda qancha oila a'zosi ko'rsatilgan?",
+      "savol": "'I have two sisters and one brother' gapida so'zlovchining aka-uka va opa-singillari jami nechta?",
       "variantlar": [
         "2",
         "3",
@@ -136,7 +136,7 @@
       "qiyinlik": "o'rtacha"
     },
     {
-      "savol": "(c) variantida 'I have two brothers and two sisters' gapda jami nechta a'zo bor?",
+      "savol": "'I have two brothers and two sisters' gapida so'zlovchining aka-uka va opa-singillari jami nechta?",
       "variantlar": [
         "4",
         "3",
@@ -147,7 +147,7 @@
       "qiyinlik": "o'rtacha"
     },
     {
-      "savol": "Agar 'I have three sisters and one brother' desa, jami qancha oila a'zosi bor?",
+      "savol": "'I have three sisters and one brother' gapida so'zlovchining aka-uka va opa-singillari jami nechta?",
       "variantlar": [
         "3",
         "5",
@@ -158,7 +158,7 @@
       "qiyinlik": "o'rtacha"
     },
     {
-      "savol": "(e) variantida 'I have one brother and three sisters' gapda qancha singilim ko'rsatilgan?",
+      "savol": "'I have one brother and three sisters' gapida nechta opa yoki singil borligi aytilgan?",
       "variantlar": [
         "1",
         "2",
@@ -169,7 +169,7 @@
       "qiyinlik": "o'rtacha"
     },
     {
-      "savol": "(a) variantida 'I have one sister and one brother' gapda jami qancha a'zo bor?",
+      "savol": "'I have one sister and one brother' gapida so'zlovchining aka-uka va opa-singillari jami nechta?",
       "variantlar": [
         "3",
         "1",
@@ -180,7 +180,7 @@
       "qiyinlik": "o'rtacha"
     },
     {
-      "savol": "(d) variantida 'I have three brothers and one sister' gapda jami nechta a'zo bor?",
+      "savol": "'I have three brothers and one sister' gapida so'zlovchining aka-uka va opa-singillari jami nechta?",
       "variantlar": [
         "2",
         "4",
@@ -191,7 +191,7 @@
       "qiyinlik": "o'rtacha"
     },
     {
-      "savol": "Agar mening ikkita singilim bo'lsa, engliz tilida nima aytaman?",
+      "savol": "'Mening ikkita opa-singlim bor' ingliz tilida qanday aytiladi?",
       "variantlar": [
         "I have one sister",
         "I have four sisters",
@@ -202,7 +202,7 @@
       "qiyinlik": "o'rtacha"
     },
     {
-      "savol": "(b) variantida 'I have one sister and two brothers' gapda nechta aka bor?",
+      "savol": "'I have one sister and two brothers' gapida nechta aka yoki uka borligi aytilgan?",
       "variantlar": [
         "2",
         "1",
@@ -224,12 +224,12 @@
       "qiyinlik": "o'rtacha"
     },
     {
-      "savol": "'Play I have three sisters and one brother' o'yini nima o'rgatadi?",
+      "savol": "'I have three sisters and one brother' gapida qaysi ikki turdagi so'zlar ishlatilgan?",
       "variantlar": [
-        "Faqat ingliz tilini",
-        "Faqat oila a'zolarini",
-        "Faqat raqamlarni",
-        "Raqamlar va oila a'zolarini"
+        "Faqat ranglar",
+        "Faqat kasblar",
+        "Kasblar va ranglar",
+        "Sonlar va qarindoshlik nomlari"
       ],
       "togri": 3,
       "qiyinlik": "qiyin"
@@ -246,7 +246,7 @@
       "qiyinlik": "qiyin"
     },
     {
-      "savol": "Agar A ning 2 opasi va 1 akasi, B ning 1 opasi va 2 akasi bo'lsa, jami qancha a'zo bor?",
+      "savol": "Ali 'I have two sisters and one brother', Vali 'I have one sister and two brothers' dedi. Ali va Vali turli oilalardan. Ular sanagan aka-uka va opa-singillar jami nechta?",
       "variantlar": [
         "5",
         "7",
@@ -268,18 +268,18 @@
       "qiyinlik": "qiyin"
     },
     {
-      "savol": "'Look at the pictures and match' jarayonida qanday faoliyat bo'ladi?",
+      "savol": "'Look at the pictures and match' ko'rsatmasi nimani bildiradi?",
       "variantlar": [
-        "Faqat yozish",
-        "Faqat o'qish",
-        "Faqat tinglash",
-        "O'qish va mos keltirish"
+        "Faqat yozing",
+        "Faqat o'qing",
+        "Faqat tinglang",
+        "Rasmlarga qarang va moslashtiring"
       ],
       "togri": 3,
       "qiyinlik": "qiyin"
     },
     {
-      "savol": "Agar 4 ta oila a'zosi bo'lsa (singil va aka), nechta turli kombinatsiya mumkin?",
+      "savol": "Bir bolaning aka-uka va opa-singillari jami 4 nafar. Aka-ukalar soni 0, 1, 2, 3 yoki 4 bo'lishi mumkin. Ularning sonlarini taqsimlashning nechta varianti bor?",
       "variantlar": [
         "4",
         "3",
@@ -301,18 +301,18 @@
       "qiyinlik": "qiyin"
     },
     {
-      "savol": "'Work in groups of four' o'yinida nechta turli variant bor?",
+      "savol": "'Work in groups of four' ko'rsatmasiga ko'ra har bir guruhda nechta o'quvchi bo'ladi?",
       "variantlar": [
         "7",
         "4",
         "6",
         "5"
       ],
-      "togri": 3,
+      "togri": 1,
       "qiyinlik": "qiyin"
     },
     {
-      "savol": "Agar X ning 3 opasi, Y ning 2 akasi bo'lsa, jami qancha a'zo ko'rsatilgan?",
+      "savol": "'Three sisters and two brothers' iborasida jami nechta kishi sanalgan?",
       "variantlar": [
         "5",
         "4",
@@ -323,12 +323,12 @@
       "qiyinlik": "qiyin"
     },
     {
-      "savol": "Darsdagi materiallar qaysi asosiy mavzularni o'z ichiga oladi?",
+      "savol": "'I have two sisters' va 'I have one brother' gaplari yordamida nimalar mashq qilinadi?",
       "variantlar": [
-        "Faqat hayvonlar",
-        "Raqamlar, oila va gaplash",
-        "Faqat raqamlar",
-        "Faqat oila"
+        "Faqat hayvon nomlari",
+        "Sonlar va qarindoshlik nomlari",
+        "Faqat ranglar",
+        "Faqat kasblar"
       ],
       "togri": 1,
       "qiyinlik": "qiyin"

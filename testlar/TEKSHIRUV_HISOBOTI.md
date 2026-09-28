@@ -1,3 +1,5 @@
+> **2026-09-28 yangilanish:** Quyidagi eski hisobot joriy holatni tasdiqlamaydi. 3-sinf bo‘yicha [yangi tuzatishlar va holat](audit/production_3sinf/HISOBOT.md) mavjud. To‘liq production holati: tayyor emas.
+
 # Testlar tekshiruvi — 3–9-sinflar
 
 Tekshiruv sanasi: 2026-09-27.

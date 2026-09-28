@@ -7,10 +7,10 @@
       {
         "savol": "'I have two sisters' gap nimani bildiradi?",
         "variantlar": [
-          "Mening ikkita opam yoki singilim bor",
-          "Mening ikki opam bor",
-          "Mening ikkita singilim bor",
-          "Mening ikkita erkak aka yoki ukam bor"
+          "Mening ikkita opa-singlim bor",
+          "Mening bitta opa-singlim bor",
+          "Mening uchta opa-singlim bor",
+          "Mening ikkita aka-ukam bor"
         ],
         "togri": 0,
         "qiyinlik": "oson"
@@ -40,27 +40,27 @@
       {
         "savol": "'I have one brother' gap nimani bildiradi?",
         "variantlar": [
-          "Mening bir opam bor",
-          "Mening bir singilim bor",
-          "Mening bir aka yoki ukam bor",
-          "Mening bir onasi bor"
+          "Mening bitta opa-singlim bor",
+          "Mening ikkita opa-singlim bor",
+          "Mening bitta aka-ukam bor",
+          "Mening ikkita aka-ukam bor"
         ],
         "togri": 2,
         "qiyinlik": "oson"
       },
       {
-        "savol": "Lesson 1 ning mavzusi qanday?",
+        "savol": "'I have two sisters' gapida nima haqida aytilgan?",
         "variantlar": [
-          "Our family",
-          "Colors",
-          "Numbers",
-          "I have two sisters"
+          "Sevimli rang haqida",
+          "Maktab haqida",
+          "Kasb haqida",
+          "Opa-singillar soni haqida"
         ],
         "togri": 3,
         "qiyinlik": "oson"
       },
       {
-        "savol": "'Two' raqami qanday yoziladi?",
+        "savol": "'Two' so'zi qaysi sonni bildiradi?",
         "variantlar": [
           "1",
           "4",
@@ -71,7 +71,7 @@
         "qiyinlik": "oson"
       },
       {
-        "savol": "'Three' raqami qanday yoziladi?",
+        "savol": "'Three' so'zi qaysi sonni bildiradi?",
         "variantlar": [
           "4",
           "2",
@@ -93,7 +93,7 @@
         "qiyinlik": "oson"
       },
       {
-        "savol": "'One' raqami qanday yoziladi?",
+        "savol": "'One' so'zi qaysi sonni bildiradi?",
         "variantlar": [
           "1",
           "0",
@@ -104,18 +104,18 @@
         "qiyinlik": "oson"
       },
       {
-        "savol": "Darsdagi 'Play Numbers' o'yini nima uchun?",
+        "savol": "'One, two, three' so'zlarini mashq qilish nimani o'rganishga yordam beradi?",
         "variantlar": [
-          "Aksiyolarni o'rganish uchun",
-          "Hayvonlarni o'rganish uchun",
-          "Ranglarni o'rganish uchun",
-          "Raqamlarni o'rganish uchun"
+          "Kasblarni",
+          "Hayvonlarni",
+          "Ranglarni",
+          "Sonlarni"
         ],
         "togri": 3,
         "qiyinlik": "oson"
       },
       {
-        "savol": "Agar 'I have one sister' desa, qancha singilim bor?",
+        "savol": "'I have one sister' gapida nechta opa yoki singil borligi aytilgan?",
         "variantlar": [
           "2",
           "1",
@@ -126,7 +126,7 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "'I have two sisters and one brother' gapda qancha oila a'zosi ko'rsatilgan?",
+        "savol": "'I have two sisters and one brother' gapida so'zlovchining aka-uka va opa-singillari jami nechta?",
         "variantlar": [
           "2",
           "3",
@@ -137,7 +137,7 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "(c) variantida 'I have two brothers and two sisters' gapda jami nechta a'zo bor?",
+        "savol": "'I have two brothers and two sisters' gapida so'zlovchining aka-uka va opa-singillari jami nechta?",
         "variantlar": [
           "4",
           "3",
@@ -148,7 +148,7 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "Agar 'I have three sisters and one brother' desa, jami qancha oila a'zosi bor?",
+        "savol": "'I have three sisters and one brother' gapida so'zlovchining aka-uka va opa-singillari jami nechta?",
         "variantlar": [
           "3",
           "5",
@@ -159,7 +159,7 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "(e) variantida 'I have one brother and three sisters' gapda qancha singilim ko'rsatilgan?",
+        "savol": "'I have one brother and three sisters' gapida nechta opa yoki singil borligi aytilgan?",
         "variantlar": [
           "1",
           "2",
@@ -170,7 +170,7 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "(a) variantida 'I have one sister and one brother' gapda jami qancha a'zo bor?",
+        "savol": "'I have one sister and one brother' gapida so'zlovchining aka-uka va opa-singillari jami nechta?",
         "variantlar": [
           "3",
           "1",
@@ -181,7 +181,7 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "(d) variantida 'I have three brothers and one sister' gapda jami nechta a'zo bor?",
+        "savol": "'I have three brothers and one sister' gapida so'zlovchining aka-uka va opa-singillari jami nechta?",
         "variantlar": [
           "2",
           "4",
@@ -192,7 +192,7 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "Agar mening ikkita singilim bo'lsa, engliz tilida nima aytaman?",
+        "savol": "'Mening ikkita opa-singlim bor' ingliz tilida qanday aytiladi?",
         "variantlar": [
           "I have one sister",
           "I have four sisters",
@@ -203,7 +203,7 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "(b) variantida 'I have one sister and two brothers' gapda nechta aka bor?",
+        "savol": "'I have one sister and two brothers' gapida nechta aka yoki uka borligi aytilgan?",
         "variantlar": [
           "2",
           "1",
@@ -225,12 +225,12 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "'Play I have three sisters and one brother' o'yini nima o'rgatadi?",
+        "savol": "'I have three sisters and one brother' gapida qaysi ikki turdagi so'zlar ishlatilgan?",
         "variantlar": [
-          "Faqat ingliz tilini",
-          "Faqat oila a'zolarini",
-          "Faqat raqamlarni",
-          "Raqamlar va oila a'zolarini"
+          "Faqat ranglar",
+          "Faqat kasblar",
+          "Kasblar va ranglar",
+          "Sonlar va qarindoshlik nomlari"
         ],
         "togri": 3,
         "qiyinlik": "qiyin"
@@ -247,7 +247,7 @@
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "Agar A ning 2 opasi va 1 akasi, B ning 1 opasi va 2 akasi bo'lsa, jami qancha a'zo bor?",
+        "savol": "Ali 'I have two sisters and one brother', Vali 'I have one sister and two brothers' dedi. Ali va Vali turli oilalardan. Ular sanagan aka-uka va opa-singillar jami nechta?",
         "variantlar": [
           "5",
           "7",
@@ -269,18 +269,18 @@
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "'Look at the pictures and match' jarayonida qanday faoliyat bo'ladi?",
+        "savol": "'Look at the pictures and match' ko'rsatmasi nimani bildiradi?",
         "variantlar": [
-          "Faqat yozish",
-          "Faqat o'qish",
-          "Faqat tinglash",
-          "O'qish va mos keltirish"
+          "Faqat yozing",
+          "Faqat o'qing",
+          "Faqat tinglang",
+          "Rasmlarga qarang va moslashtiring"
         ],
         "togri": 3,
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "Agar 4 ta oila a'zosi bo'lsa (singil va aka), nechta turli kombinatsiya mumkin?",
+        "savol": "Bir bolaning aka-uka va opa-singillari jami 4 nafar. Aka-ukalar soni 0, 1, 2, 3 yoki 4 bo'lishi mumkin. Ularning sonlarini taqsimlashning nechta varianti bor?",
         "variantlar": [
           "4",
           "3",
@@ -302,18 +302,18 @@
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "'Work in groups of four' o'yinida nechta turli variant bor?",
+        "savol": "'Work in groups of four' ko'rsatmasiga ko'ra har bir guruhda nechta o'quvchi bo'ladi?",
         "variantlar": [
           "7",
           "4",
           "6",
           "5"
         ],
-        "togri": 3,
+        "togri": 1,
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "Agar X ning 3 opasi, Y ning 2 akasi bo'lsa, jami qancha a'zo ko'rsatilgan?",
+        "savol": "'Three sisters and two brothers' iborasida jami nechta kishi sanalgan?",
         "variantlar": [
           "5",
           "4",
@@ -324,12 +324,12 @@
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "Darsdagi materiallar qaysi asosiy mavzularni o'z ichiga oladi?",
+        "savol": "'I have two sisters' va 'I have one brother' gaplari yordamida nimalar mashq qilinadi?",
         "variantlar": [
-          "Faqat hayvonlar",
-          "Raqamlar, oila va gaplash",
-          "Faqat raqamlar",
-          "Faqat oila"
+          "Faqat hayvon nomlari",
+          "Sonlar va qarindoshlik nomlari",
+          "Faqat ranglar",
+          "Faqat kasblar"
         ],
         "togri": 1,
         "qiyinlik": "qiyin"
@@ -342,29 +342,29 @@
     "mavzu": "Unit 1 Lesson 2: My mum is a teacher",
     "savollar": [
       {
-        "savol": "Darsning nomi nima?",
+        "savol": "'My mum is a teacher' gapining tarjimasini toping.",
         "variantlar": [
-          "My family",
-          "My dad",
-          "My mum is a teacher",
-          "My friend"
+          "Mening otam shifokor",
+          "Mening onam oshpaz",
+          "Mening onam o'qituvchi",
+          "Mening akam haydovchi"
         ],
         "togri": 2,
         "qiyinlik": "oson"
       },
       {
-        "savol": "'Listen and repeat' - bu nima?",
+        "savol": "'Listen and repeat' ko'rsatmasining tarjimasini toping.",
         "variantlar": [
-          "ting va takror et",
-          "ko'rsat va ayt",
-          "o'yin va taxmin qil",
-          "ting va kuy bajar"
+          "Tinglang va takrorlang",
+          "Ko'rsating va ayting",
+          "O'qing va yozing",
+          "Tinglang va qo'shiq ayting"
         ],
         "togri": 0,
         "qiyinlik": "oson"
       },
       {
-        "savol": "Matndagi professionalardan biri kim?",
+        "savol": "'My mum is a teacher' gapida qaysi kasb nomi bor?",
         "variantlar": [
           "singer",
           "teacher",
@@ -386,7 +386,7 @@
         "qiyinlik": "oson"
       },
       {
-        "savol": "Professionalarni aytishda qanday artikl ishlatiladi?",
+        "savol": "Ingliz tilida kishining kasbini umumiy ma'noda tanishtirganda, masalan, 'She is a teacher', kasb nomidan oldin qaysi artikl turi qo'llanadi?",
         "variantlar": [
           "this",
           "the",
@@ -397,45 +397,45 @@
         "qiyinlik": "oson"
       },
       {
-        "savol": "'Point and say' - bu nima?",
+        "savol": "'Point and say' ko'rsatmasining tarjimasini toping.",
         "variantlar": [
-          "o'yin va taxmin qil",
-          "tingla va takror et",
-          "ko'rsat va ayt",
-          "kuy shahar et"
+          "O'qing va yozing",
+          "Tinglang va takrorlang",
+          "Ko'rsating va ayting",
+          "Chizing va bo'yang"
         ],
         "togri": 2,
         "qiyinlik": "oson"
       },
       {
-        "savol": "Teacher - bu kimdir?",
+        "savol": "'Teacher' kasbidagi kishi nima qiladi?",
         "variantlar": [
-          "olovni o'chiradi",
-          "mashina boshqaradi",
-          "ot ishida ishlaydi",
-          "dars beradi"
+          "Yong'inni o'chiradi",
+          "Avtomobil boshqaradi",
+          "Ekin yetishtiradi",
+          "Dars beradi"
         ],
         "togri": 3,
         "qiyinlik": "oson"
       },
       {
-        "savol": "Driver - bu kimdir?",
+        "savol": "'Driver' kasbidagi kishi nima qiladi?",
         "variantlar": [
-          "mashina boshqaradi",
-          "aytlanish beradi",
-          "kasalliklarni davolavadi",
-          "osh tayyorlaydi"
+          "Avtomobil boshqaradi",
+          "Dars beradi",
+          "Bemorlarni davolaydi",
+          "Ovqat tayyorlaydi"
         ],
         "togri": 0,
         "qiyinlik": "oson"
       },
       {
-        "savol": "'Work in pairs' - bu nima?",
+        "savol": "'Work in pairs' ko'rsatmasi nimani bildiradi?",
         "variantlar": [
-          "guruhda ishlash",
-          "juftlikda ishlash",
-          "to'rtta bilan ishlash",
-          "yagona ishlash"
+          "Butun sinf bilan ishlang",
+          "Juftlikda ishlang",
+          "To'rt kishilik guruhda ishlang",
+          "Yolg'iz ishlang"
         ],
         "togri": 1,
         "qiyinlik": "oson"
@@ -452,7 +452,7 @@
         "qiyinlik": "oson"
       },
       {
-        "savol": "Agar birov mashinani boshqarsa, u qanday kasb?",
+        "savol": "Kasbi avtomobil boshqarish bo'lgan kishi ingliz tilida kim deyiladi?",
         "variantlar": [
           "doctor",
           "driver",
@@ -463,7 +463,7 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "Agar birov aytlanish bersa, u qanday kasb?",
+        "savol": "O'quvchilarga dars beradigan mutaxassis ingliz tilida kim deyiladi?",
         "variantlar": [
           "secretary",
           "driver",
@@ -474,7 +474,7 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "Agar birov ot ishida bo'lsa, u qanday kasb?",
+        "savol": "O'z xo'jaligida ekin yetishtiradigan fermer ingliz tilida kim deyiladi?",
         "variantlar": [
           "driver",
           "teacher",
@@ -485,7 +485,7 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "Agar birov osh tayyorlasa, u qanday kasb?",
+        "savol": "Ovqat tayyorlaydigan oshpaz ingliz tilida kim deyiladi?",
         "variantlar": [
           "doctor",
           "teacher",
@@ -496,7 +496,7 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "Agar birov olovni o'chiritsa, u qanday kasb?",
+        "savol": "Yong'inni o'chiradigan mutaxassis ingliz tilida kim deyiladi?",
         "variantlar": [
           "teacher",
           "fireman",
@@ -507,7 +507,7 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "Agar birov kasalliklarni davolavasa, u qanday kasb?",
+        "savol": "Bemorlarni davolaydigan shifokor ingliz tilida kim deyiladi?",
         "variantlar": [
           "teacher",
           "driver",
@@ -518,7 +518,7 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "Agar birov idorada hujjatlar bilan ishlasa, u qanday kasb?",
+        "savol": "Kotib ingliz tilida qanday ataladi?",
         "variantlar": [
           "doctor",
           "teacher",
@@ -529,7 +529,7 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "Agar birov asmonda uchsa, u qanday kasb?",
+        "savol": "Samolyotni boshqaradigan uchuvchi ingliz tilida kim deyiladi?",
         "variantlar": [
           "doctor",
           "teacher",
@@ -540,56 +540,56 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "Matndagi 'Play My dad's a doctor' o'yini nimani o'rgataadi?",
+        "savol": "'Teacher', 'doctor' va 'driver' so'zlari qaysi mavzuga kiradi?",
         "variantlar": [
-          "hayvonlarni",
-          "ranglarni",
-          "raqamlarni",
-          "professionalarni"
+          "Hayvonlar",
+          "Ranglar",
+          "Sonlar",
+          "Kasblar"
         ],
         "togri": 3,
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "'Listen and sing' - bu nima?",
+        "savol": "'Listen and sing' ko'rsatmasining tarjimasini toping.",
         "variantlar": [
-          "ting va kuy bajar",
-          "ko'rsat va ayt",
-          "o'yin va taxmin qil",
-          "ting va takror et"
+          "Tinglang va qo'shiq ayting",
+          "Ko'rsating va ayting",
+          "O'qing va yozing",
+          "Tinglang va takrorlang"
         ],
         "togri": 0,
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "'My dad is a doctor' va 'My mum is a teacher' gaplarida asosiy farq nima?",
+        "savol": "'My dad is a doctor' va 'My mum is a teacher' gaplarida qaysi ikki kasb aytilgan?",
         "variantlar": [
-          "bir professionani aytadi",
-          "bir 'is' verbi bilan",
-          "shaxs farqli",
-          "professionalar boshqacha"
+          "Oshpaz va fermer",
+          "Haydovchi va uchuvchi",
+          "Kotib va o't o'chiruvchi",
+          "Shifokor va o'qituvchi"
         ],
         "togri": 3,
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "Agar siz 'Play Look and guess' o'yinini o'ynasangiz, qanday bajarasiz?",
+        "savol": "O'yin qoidasi: bir o'quvchi kasbni gapirmasdan harakat bilan ko'rsatadi, boshqalar topadi. Kasbni ko'rsatuvchi o'quvchi nima qiladi?",
         "variantlar": [
-          "harf tartibiga ko'ra yozasiz",
-          "ko'rsat va ayatasiz",
-          "ting va takror etasiz",
-          "mimika qilasiz va boshqalar taxmin qiladi"
+          "Kasb nomini yozadi",
+          "Kasb nomini aytadi",
+          "Boshqalarning javobini takrorlaydi",
+          "Kasbga mos harakatlarni bajaradi"
         ],
         "togri": 3,
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "'Write in alphabetical order' - bu nima?",
+        "savol": "'Write in alphabetical order' ko'rsatmasining tarjimasini toping.",
         "variantlar": [
-          "rost tomon yozish",
-          "bosh harflar bilan yozish",
-          "o'ng tomon yozish",
-          "alifbo tartibiga ko'ra yozish"
+          "So'zlarni teskari yozing",
+          "Faqat bosh harflar bilan yozing",
+          "So'zlarni tarjima qiling",
+          "Alifbo tartibida yozing"
         ],
         "togri": 3,
         "qiyinlik": "qiyin"
@@ -606,51 +606,51 @@
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "Agar birov 'farmer' qo'shmoqchi bo'lsangiz, u boshqa professionalar bilan qanday ishdan kesib o'tadi?",
+        "savol": "'Farmer' kasbidagi kishi odatda qaysi ish bilan shug'ullanadi?",
         "variantlar": [
-          "ot ishida bo'ladi",
-          "uy ishida ishlaydi",
-          "faqat erkaklar bilan ishlaydi",
-          "olovni o'chiradi"
+          "Ekin yetishtirish va chorva boqish",
+          "Maktabda dars berish",
+          "Samolyot boshqarish",
+          "Yong'inni o'chirish"
         ],
         "togri": 0,
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "Matndagi 'My dad is a doctor' misoli asosida, 'My sister is a...?' gapda blank joyini to'ldirish mumkin?",
+        "savol": "'My sister is a ...' gapiga grammatik jihatdan qaysi so'z mos keladi?",
         "variantlar": [
-          "Istalgan professionali bilan",
-          "Faqat 'teacher' bilan",
-          "Faqat 'housewife' bilan",
-          "Faqat 'doctor' bilan"
+          "teacher",
+          "apples",
+          "happy",
+          "run"
         ],
         "togri": 0,
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "Matndagi barcha mashqlarning umumiy maqsadi nima?",
+        "savol": "'Cook', 'pilot' va 'farmer' so'zlarini o'rganishdan maqsad nima?",
         "variantlar": [
-          "raqamlarni o'rganish",
-          "hayvonlarni o'rganish",
-          "professionalarni o'rganish",
-          "ranglarni o'rganish"
+          "Sonlarni o'rganish",
+          "Hayvonlarni o'rganish",
+          "Kasb nomlarini o'rganish",
+          "Ranglarni o'rganish"
         ],
         "togri": 2,
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "'Listen and sing' va 'Listen and repeat' o'rtasida asosiy farq nima?",
+        "savol": "'Listen and sing' hamda 'Listen and repeat' ko'rsatmalarining farqi nima?",
         "variantlar": [
-          "'sing' kuyni o'z ichiga oladi",
-          "bugungi farqli mashqlar",
-          "farqi yo'q",
-          "'repeat' kuyni o'z ichiga oladi"
+          "Birinchisida qo'shiq aytiladi, ikkinchisida eshitilgan gap yoki so'z takrorlanadi",
+          "Birinchisida rasm chiziladi",
+          "Ikkalasi ham faqat yozishni talab qiladi",
+          "Ikkinchisida albatta raqs tushiladi"
         ],
         "togri": 0,
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "Matndagi 'e.g.' belgisi nima?",
+        "savol": "Inglizcha matnlardagi 'e.g.' qisqartmasi qanday ma'noda qo'llanadi?",
         "variantlar": [
           "exercise guide",
           "English grammar",
@@ -661,7 +661,7 @@
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "Agar siz matndagi barcha professionalarni harf tartibiga ko'ra yozsangiz, birinchi professiyal qaysi bo'ladi?",
+        "savol": "'Doctor', 'director', 'cook', 'driver' so'zlari alifbo tartibida joylashtirilsa, qaysi biri birinchi keladi?",
         "variantlar": [
           "doctor",
           "director",
@@ -690,10 +690,10 @@
         "qiyinlik": "oson"
       },
       {
-        "savol": "Quyidagi kasblardan qaysi biri matnda nomlanmaydi?",
+        "savol": "'Engineer' so'zining o'zbekcha tarjimasi qaysi?",
         "variantlar": [
-          "Doktor",
-          "Voqea",
+          "Shifokor",
+          "Haydovchi",
           "Muhandis",
           "O'qituvchi"
         ],
@@ -701,42 +701,42 @@
         "qiyinlik": "oson"
       },
       {
-        "savol": "'Yes, I am' javob qaysi savolga beriladi?",
+        "savol": "Qaysi savolga qisqa tasdiq javobi sifatida 'Yes, I am' deyish mumkin?",
         "variantlar": [
           "Are you in the library?",
           "Do you like apples?",
           "What is your name?",
-          "Are you happy?"
+          "Is he happy?"
         ],
         "togri": 0,
         "qiyinlik": "oson"
       },
       {
-        "savol": "'Are you in the gym?' savolining to'g'ri javabi qaysi?",
+        "savol": "'Are you in the gym?' savoliga qisqa tasdiq javobini toping.",
         "variantlar": [
           "Yes, I am.",
-          "Yes, I'm in the gym.",
-          "No, I'm in the park.",
-          "I like the gym."
+          "Yes, he is.",
+          "Yes, they are.",
+          "Yes, she is."
         ],
         "togri": 0,
         "qiyinlik": "oson"
       },
       {
-        "savol": "'His mum's a teacher' misalida kim o'qituvchi bo'lib keladi?",
+        "savol": "'His mum's a teacher' gapida kim o'qituvchi?",
         "variantlar": [
-          "O'qituvchining onasi",
-          "Biror narsani bilmayman",
-          "Maktabning o'qituvchisi",
+          "Uning otasi",
+          "Uning akasi",
+          "Uning singlisi",
           "Uning onasi"
         ],
         "togri": 3,
         "qiyinlik": "oson"
       },
       {
-        "savol": "Matnda quyidagi joylardan qaysi biri nomlanadi?",
+        "savol": "'Park' so'zining o'zbekcha tarjimasi qaysi?",
         "variantlar": [
-          "Park",
+          "Istirohat bog'i",
           "Shifoxona",
           "Muzey",
           "Aeroport"
@@ -745,11 +745,11 @@
         "qiyinlik": "oson"
       },
       {
-        "savol": "Quyidagi joylardan qaysi biri matnda nomlanmaydi?",
+        "savol": "'School' so'zining o'zbekcha tarjimasi qaysi?",
         "variantlar": [
-          "Kitobxona",
-          "Park",
-          "Askorida",
+          "Kutubxona",
+          "Istirohat bog'i",
+          "Sport zali",
           "Maktab"
         ],
         "togri": 3,
@@ -778,9 +778,9 @@
         "qiyinlik": "oson"
       },
       {
-        "savol": "Matnda nomlangan joylarning barchasida qaysi prepositsion ishlatiladi?",
+        "savol": "'I am ... the library' gapida kutubxona ichida ekanlikni bildiruvchi predlogni tanlang.",
         "variantlar": [
-          "at",
+          "under",
           "by",
           "on",
           "in"
@@ -800,23 +800,23 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "'My mum's a teacher' dan 'His mum's a teacher' hosil qilish uchun nima o'zgartirish kerak?",
+        "savol": "'My mum's a teacher' gapini 'His mum's a teacher' shakliga o'tkazishda qaysi so'z almashtiriladi?",
         "variantlar": [
-          "Shaxsni o'zgartirish",
-          "Joyni o'zgartirish",
-          "Kasbni o'zgartirish",
-          "Egani o'zgartirish"
+          "teacher so'zi doctor bilan",
+          "mum so'zi dad bilan",
+          "a artikli the bilan",
+          "My so'zi His bilan"
         ],
         "togri": 3,
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "'Look and guess' o'yinida A nima qiladi?",
+        "savol": "O'yin qoidasi: A kartadagi kasbni harakat bilan ko'rsatadi, B kasbni topadi. A nima qilishi kerak?",
         "variantlar": [
-          "Joyni ko'rsatadi",
-          "Kartani olib, mimikasini tasvir etadi",
-          "Savol beradi",
-          "Kasb nomini aytadi"
+          "Joy nomini aytishi",
+          "Kartadagi kasbga mos harakatni ko'rsatishi",
+          "Ismini aytishi",
+          "Kasb nomini yozishi"
         ],
         "togri": 1,
         "qiyinlik": "o'rtacha"
@@ -833,18 +833,18 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "Matnda ko'rsatilgan joylarning hammasi qaysi prepositsion bilan ishlatiladi?",
+        "savol": "'I am ... gym' gapida sport zali ichida ekanlikni bildirish uchun qaysi birikma kerak?",
         "variantlar": [
-          "by the",
+          "by a",
           "in the",
-          "at the",
-          "on the"
+          "under the",
+          "on a"
         ],
         "togri": 1,
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "B 'His dad's a doctor' desa, A ning avvali nima aytgan bo'ladi?",
+        "savol": "Ali otasi haqida gapirdi. Vali Alini nazarda tutib 'His dad's a doctor' dedi. Ali avval qaysi gapni aytgan?",
         "variantlar": [
           "Are you a doctor?",
           "My dad's a doctor.",
@@ -855,7 +855,7 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "'Are you in the canteen?' savolining to'g'ri qisqartirilgan javabi qaysi?",
+        "savol": "'Are you in the canteen?' savoliga qisqa tasdiq javobini toping.",
         "variantlar": [
           "Yes, I am.",
           "Yes, I am in the canteen.",
@@ -877,12 +877,12 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "'His mum's a teacher' o'yinining asosiy qoidasi nima?",
+        "savol": "Bola 'My mum's a teacher' dedi. Uning onasi haqida 'His mum's a teacher' deyishda nima o'zgaradi?",
         "variantlar": [
-          "Kasbni o'zgartirmoq",
-          "Kasbni aytmoq",
-          "Joyni aytmoq",
-          "Egani o'zgartirmoq"
+          "Kasb nomi",
+          "Joy nomi",
+          "mum so'zi",
+          "My so'zi His so'ziga almashtiriladi"
         ],
         "togri": 3,
         "qiyinlik": "o'rtacha"
@@ -890,21 +890,21 @@
       {
         "savol": "Agar 'Are you in the zoo?' savolga 'Yes, I am' javob bersangiz, siz qayerdasiz?",
         "variantlar": [
-          "Kitobxonada",
-          "Parkda",
+          "Kutubxonada",
+          "Istirohat bog'ida",
           "Hayvonot bog'ida",
-          "Askorida"
+          "Sport zalida"
         ],
         "togri": 2,
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "A: 'My dad's a driver' desa, B: 'His dad's a ___' deb davom ettiradi. Bo'sh joyni to'ldiring.",
+        "savol": "Ali: 'My dad's a driver.' Vali Ali haqida: 'His dad's a ___.' Bo'sh joyni inglizcha so'z bilan to'ldiring.",
         "variantlar": [
-          "haydovchi",
-          "o'qituvchi",
-          "doktor",
-          "muhandis"
+          "driver",
+          "teacher",
+          "doctor",
+          "engineer"
         ],
         "togri": 0,
         "qiyinlik": "qiyin"
@@ -921,7 +921,7 @@
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "'Look and guess' o'yinida B-ni kashf qilish uchun eng avvali qaysi savol beriladi?",
+        "savol": "Suhbatdoshingizning o'qituvchi ekanini so'rash uchun qaysi savol mos keladi?",
         "variantlar": [
           "What's your name?",
           "Are you a teacher?",
@@ -934,16 +934,16 @@
       {
         "savol": "'Are you in the gym?' va 'Are you a teacher?' savollari orasidagi asosiy farq nima?",
         "variantlar": [
-          "Bittasi affirmative, ikkinchisi negative",
-          "Bittasi joy, ikkinchisi kasb",
-          "Qiyinlik darajasi turlicha",
-          "Bittasi yes/no, ikkinchisi open-ended"
+          "Birinchisi tasdiq gap, ikkinchisi inkor gap",
+          "Birinchisi joyni, ikkinchisi kasbni so'raydi",
+          "Birinchisi yoshni, ikkinchisi ismni so'raydi",
+          "Birinchisi rangni, ikkinchisi sonni so'raydi"
         ],
         "togri": 1,
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "A: 'My mum's a teacher, my dad's a doctor' desa, B qanday javob beradi?",
+        "savol": "Ali ismli o'g'il bola: 'My mum's a teacher, my dad's a doctor' dedi. Vali Alining ota-onasi haqida qaysi gapni aytadi?",
         "variantlar": [
           "My mum's a teacher, my dad's a doctor.",
           "His mum's a teacher, his dad's a doctor.",
@@ -954,18 +954,18 @@
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "'Are you in the gym?' savoli matnning qaysi o'yiningga tegishli?",
+        "savol": "'Are you in the gym?' savolida nima so'ralgan?",
         "variantlar": [
-          "Ask and answer",
-          "Look and guess",
-          "His mum's a teacher",
-          "Are you a driver?"
+          "Sport zalida ekaningiz",
+          "Kasbingiz",
+          "Yoshingiz",
+          "Ismingiz"
         ],
         "togri": 0,
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "'His mum's a teacher' o'yinida o'zgarish (transformation) qanday amalga oshiriladi?",
+        "savol": "Ali 'My mum's a teacher' dedi. Shu gapni Ali haqida 'His mum's a teacher' deb aytish uchun qaysi o'zgarish qilinadi?",
         "variantlar": [
           "'His' ni 'My' ga o'zgartirish",
           "'My' ni 'His' ga o'zgartirish",
@@ -976,10 +976,10 @@
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "Matnda nomlangan joylardan qaysi biri tabiatiy joy hisoblanadi?",
+        "savol": "Odamlar turli hayvonlarni tomosha qilish uchun boradigan joy qaysi?",
         "variantlar": [
-          "Askorida",
-          "Kitobxona",
+          "Oshxona",
+          "Kutubxona",
           "Sinf xonasi",
           "Hayvonot bog'i"
         ],
@@ -987,23 +987,23 @@
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "'Yes, I am' va 'No, I'm not' javoblarini ishlatishning asosiy qoidasi nima?",
+        "savol": "'Yes, I am' yoki 'No, I'm not' qisqa javoblari qaysi turdagi savolga mos keladi?",
         "variantlar": [
-          "Yes/No savollari uchun",
-          "Open-ended savollari uchun",
-          "Qayerda savollari uchun",
-          "Qanday savollari uchun"
+          "Are you ...? bilan boshlangan savolga",
+          "Do you ...? bilan boshlangan savolga",
+          "Where is ...? bilan boshlangan savolga",
+          "How many ...? bilan boshlangan savolga"
         ],
         "togri": 0,
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "'Are you a driver?' o'yini orqali eng asosiy bilim qaysi bo'ladi?",
+        "savol": "'Are you a driver?' — 'Yes, I am' suhbati qanday ko'nikmani mashq qildiradi?",
         "variantlar": [
-          "Mimikada kasblarni tasvir etish",
-          "Yes/No savol-javob ko'nikmalarini rivojlantirishinoq",
-          "Joylarning nomlarini bilish",
-          "Kasblarning nomlarini bilish"
+          "Sonlarni hisoblash",
+          "Kasb haqida so'rash va qisqa javob berish",
+          "Joy nomlarini yozish",
+          "Ranglarni farqlash"
         ],
         "togri": 1,
         "qiyinlik": "qiyin"
@@ -1016,51 +1016,51 @@
     "mavzu": "Unit 1 Lesson 4: Project",
     "savollar": [
       {
-        "savol": "Unit 1 ning mavzusi nima?",
+        "savol": "'Our family is big' mavzusida nima haqida gap bor?",
         "variantlar": [
           "Uy haqida",
-          "Familya haqida",
-          "Dostlar haqida",
+          "Oila haqida",
+          "Do'stlar haqida",
           "Maktab haqida"
         ],
         "togri": 1,
         "qiyinlik": "oson"
       },
       {
-        "savol": "Lesson 4 da qanday loyiha bor?",
+        "savol": "'Make my family photo album' topshirig'ida nima qilish so'ralgan?",
         "variantlar": [
-          "Familya fotoalbomi yaratish",
-          "Rasm chizish",
-          "Oyin o'ynash",
+          "Oila fotoalbomini yaratish",
+          "Maktab rasmini chizish",
+          "So'zlarni alifbo tartibida yozish",
           "Kitob o'qish"
         ],
         "togri": 0,
         "qiyinlik": "oson"
       },
       {
-        "savol": "Familya fotoalbomining birinchi qismi (1a) nimani o'z ichiga oladi?",
+        "savol": "Loyiha ko'rsatmasi: '1a. Make my family photo album.' Bu bosqichda nima qilinadi?",
         "variantlar": [
-          "Gap tuzish",
-          "Fotoalbomi taqdim etish",
-          "Oyin o'ynash",
-          "Fotoalbom yaratish"
+          "Faqat gaplar tarjima qilinadi",
+          "Tayyor albom taqdim etiladi",
+          "O'yin o'ynaladi",
+          "Oila fotoalbomi yaratiladi"
         ],
         "togri": 3,
         "qiyinlik": "oson"
       },
       {
-        "savol": "Odina kim?",
+        "savol": "'This is my sister. Her name is Odina.' Gaplarga ko'ra, Odina so'zlovchiga kim bo'ladi?",
         "variantlar": [
-          "Qarindosh",
-          "Singlisi",
-          "Opasi",
-          "Akasi"
+          "Onasi",
+          "Opasi yoki singlisi",
+          "Xolasi",
+          "Akasi yoki ukasi"
         ],
         "togri": 1,
         "qiyinlik": "oson"
       },
       {
-        "savol": "Odina necha yoshda?",
+        "savol": "'Her name is Odina. She is 25.' Gaplarga ko'ra, Odina necha yoshda?",
         "variantlar": [
           "23",
           "28",
@@ -1071,40 +1071,40 @@
         "qiyinlik": "oson"
       },
       {
-        "savol": "Odina qaysi kasbda ishlaydi?",
+        "savol": "'Odina is a secretary' gapiga ko'ra, Odina kim bo'lib ishlaydi?",
         "variantlar": [
-          "Doktor",
+          "Shifokor",
           "O'qituvchi",
-          "Sekretar",
+          "Kotiba",
           "Sotuvchi"
         ],
         "togri": 2,
         "qiyinlik": "oson"
       },
       {
-        "savol": "Madina nechta akasi bor?",
+        "savol": "'Madina has two brothers' gapiga ko'ra, Madinaning nechta aka yoki ukasi bor?",
         "variantlar": [
           "Ikkita",
           "Uchta",
           "To'rtta",
-          "Bir"
+          "Bitta"
         ],
         "togri": 0,
         "qiyinlik": "oson"
       },
       {
-        "savol": "Loyiha 1b qismi nima?",
+        "savol": "'Present your family photo album' topshirig'i nimani bildiradi?",
         "variantlar": [
-          "Albomni taqdim etish",
-          "Albom yaratish",
-          "Oyin o'ynash",
-          "Matn yozish"
+          "Oila fotoalbomingizni taqdim eting",
+          "Fotoalbomni yoping",
+          "O'yin o'ynang",
+          "Matnni ko'chiring"
         ],
         "togri": 0,
         "qiyinlik": "oson"
       },
       {
-        "savol": "Albom \"Contents\" qismi nima?",
+        "savol": "Fotoalbomdagi 'Contents' so'zi nimani bildiradi?",
         "variantlar": [
           "Mundarija",
           "Rasmlar to'plami",
@@ -1115,18 +1115,18 @@
         "qiyinlik": "oson"
       },
       {
-        "savol": "Loyiha 2-qismi nima?",
+        "savol": "Loyiha topshirig'i: 'Play Madina has two brothers'. Nima qilish so'ralgan?",
         "variantlar": [
-          "\"Madina has two brothers\" oyini o'ynash",
+          "Shu nomli o'yinni o'ynash",
           "Rasm chizish",
-          "Taqdim etish",
-          "Albom yaratish"
+          "Albomni yopish",
+          "Kitob sotib olish"
         ],
         "togri": 0,
         "qiyinlik": "oson"
       },
       {
-        "savol": "Agar albom Contents qismida \"My dad\", \"My mum\" va yana 3 ta \"My\" bo'lsa, umumiy nechta familya a'zosi ko'rsatiladi?",
+        "savol": "Albom mundarijasida besh xil oila a'zosi uchun bittadan band bor: 'My dad', 'My mum' va yana uchta band. Jami nechta oila a'zosi ko'rsatilgan?",
         "variantlar": [
           "5",
           "6",
@@ -1137,7 +1137,7 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "Odina haqida nechta xususiyat aytilgan?",
+        "savol": "Matn: 'This is my sister. Her name is Odina. She is a secretary. She is 25.' Nechta ma'lumot aytilgan: qarindoshligi, ismi, kasbi va yoshi?",
         "variantlar": [
           "2 ta",
           "5 ta",
@@ -1148,7 +1148,7 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "Contents qismida birinchi kim ko'rsatiladi?",
+        "savol": "Mundarija: 1. My dad; 2. My mum; 3. My sister. Birinchi band qaysi?",
         "variantlar": [
           "My sister",
           "My dad",
@@ -1159,7 +1159,7 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "Contents qismida ikkinchi kim ko'rsatiladi?",
+        "savol": "Mundarija: 1. My dad; 2. My mum; 3. My sister. Ikkinchi band qaysi?",
         "variantlar": [
           "My brother",
           "My sister",
@@ -1170,7 +1170,7 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "Taqdim etishning misolida birinchi gap qanday boshlaydi?",
+        "savol": "Matn: 'This is my sister. Her name is Odina. She is a secretary. She is 25.' Birinchi gap qaysi?",
         "variantlar": [
           "\"Her name is Odina\"",
           "\"She is a secretary\"",
@@ -1181,29 +1181,29 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "Odina haqida gap aytganda birinchi nima aytiladi?",
+        "savol": "'This is my sister' gapi Odinaning qaysi jihatini bildiradi?",
         "variantlar": [
-          "Qarorligi (family relation)",
-          "Yoshu",
-          "Manzili",
-          "Kasbi"
+          "So'zlovchiga qarindoshligini",
+          "Yoshini",
+          "Manzilini",
+          "Kasbini"
         ],
         "togri": 0,
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "\"Madina has two brothers\" gap nima ko'rsatadi?",
+        "savol": "'Madina has two brothers' gapida nima aytilgan?",
         "variantlar": [
-          "Madina familyasining tuzilishini",
-          "Madina yoshini",
-          "Madina manzilini",
-          "Madina kasbini"
+          "Madinaning aka-ukalari soni",
+          "Madinaning yoshi",
+          "Madinaning manzili",
+          "Madinaning kasbi"
         ],
         "togri": 0,
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "Agar Madina 2 akasi bo'lsa, Madina familyasida kamida nechta nafar bor?",
+        "savol": "Madinaning ikkita aka-ukasi bor. Madina va uning ikki aka-ukasi birgalikda necha kishi bo'ladi?",
         "variantlar": [
           "5 nafar",
           "2 nafar",
@@ -1214,29 +1214,29 @@
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "Proyektda taqdim etishning misoli qanday?",
+        "savol": "Opa yoki singilni tanishtirish uchun qaysi gap mos?",
         "variantlar": [
-          "\"My dad is a teacher\"",
-          "\"Madina has two brothers\"",
-          "\"I like my family\"",
-          "\"My sister is kind\""
+          "My dad is a teacher.",
+          "This is my sister.",
+          "This is my brother.",
+          "This is my mum."
         ],
         "togri": 1,
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "Jasur Sobirov tomonidan yaratilgan matn nima haqida?",
+        "savol": "Jasur Sobirov albomiga 'My family' deb nom qo'ydi. Albom nima haqida?",
         "variantlar": [
           "Maktab haqida",
           "Darslar haqida",
-          "Familya haqida",
-          "Dostlar haqida"
+          "Oila haqida",
+          "Do'stlar haqida"
         ],
         "togri": 2,
         "qiyinlik": "o'rtacha"
       },
       {
-        "savol": "Agar albom Contents qismida 5 ta \"My\" bo'lsa va birinchisi \"My dad\", ikkinchisi \"My mum\" bo'lsa, qolgan 3 tasi nima bo'lishi kerak?",
+        "savol": "Oila fotoalbomida 'My dad' va 'My mum' bandlari bor. Qaysi qatordagi uchta band ham qarindoshlar haqida?",
         "variantlar": [
           "My school, My friend, My house",
           "My teacher, My desk, My chair",
@@ -1247,18 +1247,18 @@
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "Unit 1 mavzusi \"Our family is big\" bilan proyektining bog'lanishi nima?",
+        "savol": "'Our family is big' mavzusida oila fotoalbomini tayyorlash nimani mashq qilishga yordam beradi?",
         "variantlar": [
-          "Katta familyani ko'rsatish uchun albom kerak",
-          "Katta sinfda o'rganish kerak",
-          "Katta albom yaratish kerak",
-          "Bog'lanishi yo'q"
+          "Oila a'zolarini ingliz tilida tanishtirishni",
+          "Faqat sinf jihozlarini sanashni",
+          "Faqat albom o'lchamini hisoblashni",
+          "Transport nomlarini o'rganishni"
         ],
         "togri": 0,
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "Loyihani to'liq yakunlash uchun 1a va 1b qismlarini qanday tartibda qilish kerak?",
+        "savol": "Loyiha bosqichlari: 1a — albom yaratish, 1b — tayyor albomni taqdim etish. Ish qanday tartibda bajariladi?",
         "variantlar": [
           "Bir vaqtda",
           "1a, keyin 1b",
@@ -1269,51 +1269,51 @@
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "Agar Contents \"My dad\", \"My mum\", \"My sister\", \"My brother\", \"My grandmother\" bo'lsa, albomda nechta varaq bo'ladi?",
+        "savol": "Albomda beshta oila a'zosining har biriga bittadan sahifa ajratildi. Muqova va mundarijani hisoblamaganda, ular uchun jami nechta sahifa kerak?",
         "variantlar": [
-          "4 varaq",
-          "5 varaq",
-          "3 varaq",
-          "6 varaq"
+          "4 sahifa",
+          "5 sahifa",
+          "3 sahifa",
+          "6 sahifa"
         ],
         "togri": 1,
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "Odina misolida ko'rsatilgan taqdim etish shakli qanday?",
+        "savol": "'This is my sister. Her name is Odina. She is a secretary. She is 25.' Bu matnning shakli qanday?",
         "variantlar": [
-          "Rasm bilan",
+          "Hisoblash misoli",
           "Uzun maqola",
-          "Kitobdan ko'chirma",
-          "Qisqa ta'rif"
+          "Faqat so'zlar ro'yxati",
+          "Qisqa tanishtiruv"
         ],
         "togri": 3,
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "\"Madina has two brothers\" oyunining maqsadi nima?",
+        "savol": "'Madina has two brothers' qolipi bo'yicha Alining bitta opa-singli borligini qanday aytamiz?",
         "variantlar": [
-          "Akalarni hisoblash",
-          "Madina haqida ko'proq bilish",
-          "Ingliz tilida qo'shma sonlarni bilish",
-          "Shunga o'xshash gaplar tuzish"
+          "Ali have one sister.",
+          "Ali has two brothers.",
+          "Ali is one sister.",
+          "Ali has one sister."
         ],
         "togri": 3,
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "Loyiha 1a (albom yaratish) va 1b (taqdim etish) orasida qanday munosabat bor?",
+        "savol": "Loyihada avval oila fotoalbomi yaratiladi, keyin shu albom taqdim etiladi. Bosqichlar qanday bog'langan?",
         "variantlar": [
-          "1a bo'lmasa 1b bo'lmaydi",
-          "1b bo'lmasa 1a bo'lmaydi",
-          "Tartibi umuman muhim emas",
-          "Alohida, bog'liq bo'lmagan loyihalar"
+          "Birinchi bosqichda tayyorlangan albom ikkinchi bosqichda taqdim etiladi",
+          "Albom faqat taqdimotdan keyin yaratiladi",
+          "Bosqichlar bir-biriga aloqasiz",
+          "Ikkala bosqichda ham faqat kitob o'qiladi"
         ],
         "togri": 0,
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "Agar o'quvchi 4 ta familya a'zosini albomda ko'rsatsa, Contents qismida nechta \"My\" bo'ladi?",
+        "savol": "Albomdagi to'rtta bandning har biri 'My' so'zi bilan boshlanadi. Shu bandlar sarlavhalarida 'My' jami necha marta yoziladi?",
         "variantlar": [
           "5 ta",
           "2 ta",
@@ -1324,7 +1324,7 @@
         "qiyinlik": "qiyin"
       },
       {
-        "savol": "Odina misolining tuzilishi boshqa familya a'zolari uchun ham qo'llanilishi mumkin?",
+        "savol": "Oila a'zosini tanishtirishda uning qarindoshligi, ismi, kasbi va yoshini aytish qolipidan boshqa oila a'zolari uchun ham foydalanish mumkinmi?",
         "variantlar": [
           "Ha, boshqa a'zolar uchun ham",
           "Faqat yosh a'zolar uchun",
