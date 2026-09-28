@@ -7,7 +7,7 @@
    "savol": "Parranda boshi qanday geometrik shaklda bo'ladi?",
    "variantlar": [
     "Beshburchak",
-    "Trikutngi",
+    "Uchburchak",
     "To'rtburchak",
     "Doira"
    ],
@@ -17,7 +17,7 @@
   {
    "savol": "Parranda ko'zi qanday shaklning?",
    "variantlar": [
-    "Trikutngi",
+    "Uchburchak",
     "To'rtburchak",
     "Yulduz",
     "Doira"
@@ -28,7 +28,7 @@
   {
    "savol": "Parranda tanasi qanday shaklga o'xshaydi?",
    "variantlar": [
-    "Trikutngi",
+    "Uchburchak",
     "Beshburchak",
     "To'rtburchak",
     "Doira"
@@ -39,7 +39,7 @@
   {
    "savol": "Parranda qanotlari qanday shakl ko'rinishida?",
    "variantlar": [
-    "Trikutngi",
+    "Uchburchak",
     "To'rtburchak",
     "Doira",
     "Yulduz"
@@ -51,7 +51,7 @@
    "savol": "Parranda tumi qanday geometrik shakl?",
    "variantlar": [
     "To'rtburchak",
-    "Trikutngi",
+    "Uchburchak",
     "Doira",
     "Beshburchak"
    ],
@@ -116,10 +116,10 @@
   {
    "savol": "Parranda boshi va tumi qanday geometrik shakllardan tashkil topgan?",
    "variantlar": [
-    "Doira va trikutngi",
+    "Doira va uchburchak",
     "Doira va to'rtburchak",
     "To'rtburchak va to'rtburchak",
-    "Trikutngi va trikutngi"
+    "Uchburchak va uchburchak"
    ],
    "togri": 3,
    "qiyinlik": "o'rtacha"
@@ -136,7 +136,7 @@
    "qiyinlik": "o'rtacha"
   },
   {
-   "savol": "Parranda boshi trikutngi bo'lsa, uning nechta burchagi bor?",
+   "savol": "Parranda boshi uchburchak bo'lsa, uning nechta burchagi bor?",
    "variantlar": [
     "To'rtta",
     "Ikki",
@@ -152,7 +152,7 @@
     "Beshburchak",
     "Doira",
     "To'rtburchak",
-    "Trikutngi"
+    "Uchburchak"
    ],
    "togri": 2,
    "qiyinlik": "o'rtacha"
@@ -173,7 +173,7 @@
    "variantlar": [
     "To'rtburchak",
     "Beshburchak",
-    "Trikutngi",
+    "Uchburchak",
     "Doira"
    ],
    "togri": 0,
@@ -182,9 +182,9 @@
   {
    "savol": "Parranda qanotlari va tanasi qanday shaklda?",
    "variantlar": [
-    "Qanotlar doira, tani trikutngi",
+    "Qanotlar doira, tani uchburchak",
     "Ikkalasi ham to'rtburchak",
-    "Qanotlar trikutngi, tani doira",
+    "Qanotlar uchburchak, tani doira",
     "Har xil shakl"
    ],
    "togri": 1,
@@ -195,7 +195,7 @@
    "variantlar": [
     "Doira",
     "To'rtburchak",
-    "Trikutngi",
+    "Uchburchak",
     "Beshburchak"
    ],
    "togri": 0,
@@ -204,9 +204,9 @@
   {
    "savol": "Parranda boshi va oyoqlarining shakli qanday?",
    "variantlar": [
-    "Trikutngi va to'rtburchak",
+    "Uchburchak va to'rtburchak",
     "To'rtburchak va beshburchak",
-    "Trikutngi va doira",
+    "Uchburchak va doira",
     "Doira va to'rtburchak"
    ],
    "togri": 0,
@@ -268,7 +268,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Agar parranda tani to'rtburchak (4 burchak), boshi trikutngi (3 burchak) bo'lsa, ularning burchaklari farqi nechta?",
+   "savol": "Agar parranda tani to'rtburchak (4 burchak), boshi uchburchak (3 burchak) bo'lsa, ularning burchaklari farqi nechta?",
    "variantlar": [
     "1",
     "2",
@@ -279,7 +279,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Parranda rasmida trikutngi (bosh, tumi) va to'rtburchak (tani, qanotlar, oyoqlar) nisbati qanday?",
+   "savol": "Parranda rasmida uchburchak (bosh, tumi) va to'rtburchak (tani, qanotlar, oyoqlar) nisbati qanday?",
    "variantlar": [
     "1:1",
     "3:4",
@@ -290,7 +290,7 @@
    "qiyinlik": "qiyin"
   },
   {
-   "savol": "Parranda shakli barcha geometrik shakllarning (trikutngi, to'rtburchak, doira) qancha darajada birikkan?",
+   "savol": "Parranda shakli barcha geometrik shakllarning (uchburchak, to'rtburchak, doira) qancha darajada birikkan?",
    "variantlar": [
     "Bosh va oyoq",
     "Faqat bosh",
