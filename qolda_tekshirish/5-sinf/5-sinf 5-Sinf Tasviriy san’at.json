@@ -1,0 +1,4386 @@
+{
+ "sinf": "5-sinf",
+ "kitob": "5-sinf 5-Sinf Tasviriy san’at",
+ "mavzular": [
+  {
+   "sinf": "5-sinf",
+   "kitob": "5-sinf 5-Sinf Tasviriy san’at",
+   "mavzu": "1-dars. Tasviriy san'atning ifoda vositalari haqida suhbat",
+   "savollar": [
+    {
+     "savol": "Tasviriy san'atning ifodaviy vositalari qaysi tushunchalarni o'z ichiga oladi?",
+     "variantlar": [
+      "A) Rang, chiziq, dog', hajm, shakl, fazo, faktura",
+      "B) Rang, rangi, qora, safed",
+      "C) Faqat chiziq va nuqta",
+      "D) Faqat rang va kontur"
+     ],
+     "TO'G'RI_JAVOB": "A) Rang, chiziq, dog', hajm, shakl, fazo, faktura",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Rangtasvir turining asosi nima?",
+     "variantlar": [
+      "A) Ranglar",
+      "B) Shtrixlar",
+      "C) Chiziqlar",
+      "D) Konturlar"
+     ],
+     "TO'G'RI_JAVOB": "A) Ranglar",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Grafi kada qanday tasviriy vositalari qo'llaniladi?",
+     "variantlar": [
+      "A) Faqat qora chiziqlar",
+      "B) Chiziq, shtrix, kontur, tus, oq-qora dog'lar",
+      "C) Rang va chiziqlar",
+      "D) Faqat to'lqinsimon chiziqlar"
+     ],
+     "TO'G'RI_JAVOB": "B) Chiziq, shtrix, kontur, tus, oq-qora dog'lar",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Haykaltaroshlikda asosiy ifodaviy vosita sifatida nima qo'llaniladi?",
+     "variantlar": [
+      "A) Hajm",
+      "B) Rang",
+      "C) Faktura",
+      "D) Chiziq"
+     ],
+     "TO'G'RI_JAVOB": "A) Hajm",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Leonardo da Vinchi va Rembrandt qaysi san'at turining taniqli vakillari?",
+     "variantlar": [
+      "A) Haykaltaroshlik",
+      "B) Rangtasvir",
+      "C) Amaliy san'at",
+      "D) Grafi ka"
+     ],
+     "TO'G'RI_JAVOB": "B) Rangtasvir",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Nafi s haykaltaroshlik qanday xususiyatlari bilan ajralib turadi?",
+     "variantlar": [
+      "A) Qora rangining ustunligi",
+      "B) Faqat bronzadan yasalishi",
+      "C) Ulug' o'lchamligi",
+      "D) O'zining nafi sligi va kichik o'lchamligi"
+     ],
+     "TO'G'RI_JAVOB": "D) O'zining nafi sligi va kichik o'lchamligi",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Simmetriya so'zi qaysi tildan olingan?",
+     "variantlar": [
+      "A) Yunoncha",
+      "B) Latincha",
+      "C) Inglizcha",
+      "D) Arabcha"
+     ],
+     "TO'G'RI_JAVOB": "A) Yunoncha",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Kulolchilik san'ati qanday buyumlarni yaratadi?",
+     "variantlar": [
+      "A) Faqat vositalari",
+      "B) Faqat ranglar",
+      "C) Faqat devor bezaklari",
+      "D) Sopol va chinni idishlar, loydan ishlangan o'yinchoqlar"
+     ],
+     "TO'G'RI_JAVOB": "D) Sopol va chinni idishlar, loydan ishlangan o'yinchoqlar",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Zardo'zlikda asosiy material sifatida nima ishlatiladi?",
+     "variantlar": [
+      "A) Qoq'loz",
+      "B) Ipak va yun iplar",
+      "C) Temir va mis",
+      "D) Zar iplar va baxmal"
+     ],
+     "TO'G'RI_JAVOB": "D) Zar iplar va baxmal",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Dizayn so'zi qaysi tildan olingan?",
+     "variantlar": [
+      "A) Ingliz tilidan",
+      "B) Farshi tilidan",
+      "C) Arabcha tilidan",
+      "D) Italyan tilidan"
+     ],
+     "TO'G'RI_JAVOB": "A) Ingliz tilidan",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Issiq va sovuq gamm adagi ranglar ko'proq qaysi janrda qo'llaniladi?",
+     "variantlar": [
+      "A) Manzara janrida",
+      "B) Faqat abstraktda",
+      "C) Naturmort janrida",
+      "D) Portret janrida"
+     ],
+     "TO'G'RI_JAVOB": "A) Manzara janrida",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Rangtasvirda rang surtmalari nima sifatida muhim?",
+     "variantlar": [
+      "A) Faqat rangi belgilab beradi",
+      "B) Rassomning ish uslubini belgilab beradi",
+      "C) Hech qanday ahamiyat yo'q",
+      "D) Faqat qo'y peshlik belgilab beradi"
+     ],
+     "TO'G'RI_JAVOB": "B) Rassomning ish uslubini belgilab beradi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Grafi kada sharning yorug'-soya qismini tasvirlashda qanday shtrixdan foydalaniladi?",
+     "variantlar": [
+      "A) Qiya chiziqlardan",
+      "B) To'lqinsimon chiziqlardan",
+      "C) To'g'ri chiziqlardan",
+      "D) Yoysimon chiziq (shtrix)lardan"
+     ],
+     "TO'G'RI_JAVOB": "D) Yoysimon chiziq (shtrix)lardan",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Shtrixlar rassomning qanday narsasini belgilab beradi?",
+     "variantlar": [
+      "A) Faqat rangni",
+      "B) Faqat fikrni",
+      "C) Faqat yoshini",
+      "D) Ish uslubini"
+     ],
+     "TO'G'RI_JAVOB": "D) Ish uslubini",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "O'zbekistonlik rassomlar rang surtmalaridan qaysi janrlarda ijod qilgan?",
+     "variantlar": [
+      "A) Faqat tarix janrida",
+      "B) Faqat abstrakt asarlarida",
+      "C) Manzara va naturmort janrlarida",
+      "D) Faqat portret janrida"
+     ],
+     "TO'G'RI_JAVOB": "C) Manzara va naturmort janrlarida",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Haykaltarosh o'z fikrini birinchi navbatda qaysi materialda aniqlaydi?",
+     "variantlar": [
+      "A) Qog'ozda",
+      "B) Marmardan",
+      "C) Bronzadan",
+      "D) To'g'ri tayyorlangan qattiq materialda"
+     ],
+     "TO'G'RI_JAVOB": "A) Qog'ozda",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Simmetrik komponentsiyaning tasmali, halqali va aylana naqshlari amaliy san'atda qanday ishlatiladi?",
+     "variantlar": [
+      "A) Muhim o'rin tutadi",
+      "B) Hech qanday joyda",
+      "C) Faqat mahalliy san'atda",
+      "D) Faqat dekorasiyada"
+     ],
+     "TO'G'RI_JAVOB": "A) Muhim o'rin tutadi",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Yog'och o'ymakorligi san'atida ritm qanday ahamiyatga ega?",
+     "variantlar": [
+      "A) Aniqlik, zebolilik va jozibadorlikka erishishga yordam beradi",
+      "B) Faqat qo'y peshlikni ta'sir etadi",
+      "C) Hech qanday o'rni yo'q",
+      "D) Faqat rangni ta'sir etadi"
+     ],
+     "TO'G'RI_JAVOB": "A) Aniqlik, zebolilik va jozibadorlikka erishishga yordam beradi",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Kashtachilik san'atida qanday naqshlar ko'p uchratiladi?",
+     "variantlar": [
+      "A) Faqat geometrik shakllar",
+      "B) Faqat harflar",
+      "C) Faqat qora-oq naqshlar",
+      "D) Guldasta, majnuntol, quyosh va qo'ngan qushlar"
+     ],
+     "TO'G'RI_JAVOB": "D) Guldasta, majnuntol, quyosh va qo'ngan qushlar",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Interyer dizayni nima?",
+     "variantlar": [
+      "A) Binoning tashqi ko'rinishini mo'ljallash",
+      "B) Kitob dizayni",
+      "C) Avtomobil yaratish",
+      "D) Binoning ichki ko'rinishini mo'ljallash"
+     ],
+     "TO'G'RI_JAVOB": "D) Binoning ichki ko'rinishini mo'ljallash",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Rang havoning holati va fazodagi joylashuviga qarab o'zgarishi qanday bilimni ifodalaydi?",
+     "variantlar": [
+      "A) Rangning faqat psixologik ta'sirini",
+      "B) Rangning faqat ijtimoiy ahamiyatini",
+      "C) Rangning dinamik tabiatini va uning kontekstga bog'liqligi",
+      "D) Faqat rangning statik xususiyatini"
+     ],
+     "TO'G'RI_JAVOB": "C) Rangning dinamik tabiatini va uning kontekstga bog'liqligi",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Van Gog va O'zbekistonlik rassomlarning ijodiy uslubida qanday o'xshashlik mavjud?",
+     "variantlar": [
+      "A) Faqat Van Gog rang surtmalarini qo'llagan",
+      "B) Ularning uslubi to'lig'ina farqli",
+      "C) Ikkala guruh ham rang surtmalarini o'z uslubiga asoslanib o'rinli qo'llagan",
+      "D) O'zbekistonliklar Van Gogni taqlid qilgan"
+     ],
+     "TO'G'RI_JAVOB": "C) Ikkala guruh ham rang surtmalarini o'z uslubiga asoslanib o'rinli qo'llagan",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Haykaltarosh turli materiallardan (yog'och, marmar, bronza) ishlashni nima uchun har xil tanlaydi?",
+     "variantlar": [
+      "A) Tasodifiy ravishda tanlaydi",
+      "B) Har bir material o'ziga xos xususiyatlarga ega va g'oyaga mos ravishda tanlaydi",
+      "C) Faqat mavjudligiga asoslanib",
+      "D) Faqat qimmatiga asoslanib"
+     ],
+     "TO'G'RI_JAVOB": "B) Har bir material o'ziga xos xususiyatlarga ega va g'oyaga mos ravishda tanlaydi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Grafi kaning rangtasvir dan asosiy farqli tomoni nima?",
+     "variantlar": [
+      "A) Grafi ka rangga boy",
+      "B) Asosiy tasvirlash usuli faqat bir xil tusdagi rasmlar; rangning o'rni nisbatan chegaralangan",
+      "C) Ularning farqi yo'q",
+      "D) Rangtasvir chiziq o'z ichiga olmaydi"
+     ],
+     "TO'G'RI_JAVOB": "B) Asosiy tasvirlash usuli faqat bir xil tusdagi rasmlar; rangning o'rni nisbatan chegaralangan",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Sherdor madrasasi peshtoqidagi naqshning simmetrik holdan keyin bir tirnog'i nima uchun qoldirilgan?",
+     "variantlar": [
+      "A) Ustalik xatosi sifatida",
+      "B) Ornamental tayyorlash uchun",
+      "C) Hech sababsiz",
+      "D) Inson hayotidagi xohish bilan imkoniyat har doim mos kelmasligi va 'Bu dunyo, bir kam dunyo' ekanligiga ishora"
+     ],
+     "TO'G'RI_JAVOB": "D) Inson hayotidagi xohish bilan imkoniyat har doim mos kelmasligi va 'Bu dunyo, bir kam dunyo' ekanligiga ishora",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Nafi s haykaltaroshlikda foydalaniladigan materiallar va ularning roli qanday?",
+     "variantlar": [
+      "A) Faqat bronzadan; og'irligi uchun",
+      "B) Faqat toshdan; uzunligi uchun",
+      "C) Chinni, sopol, yog'och, metall va boshqa materiallar; nafi sligi va kichik o'lchamligi uchun muhim",
+      "D) Faqat yog'ochdan; eftinligi uchun"
+     ],
+     "TO'G'RI_JAVOB": "C) Chinni, sopol, yog'och, metall va boshqa materiallar; nafi sligi va kichik o'lchamligi uchun muhim",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Davriy takrorlanishning uch ko'rinishi qaysi?",
+     "variantlar": [
+      "A) Vertikal, gorizontal va diagonal takrorlanish",
+      "B) To'g'ri, qiya va yoysimon takrorlanish",
+      "C) Oddiy, murakkab va juda murakkablashgan takrorlanish",
+      "D) Oq, qora va rang takrorlanish"
+     ],
+     "TO'G'RI_JAVOB": "C) Oddiy, murakkab va juda murakkablashgan takrorlanish",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Kulolchilikda feruza rang nima sifatida qo'llaniladi va bu nima anglatadi?",
+     "variantlar": [
+      "A) Hech qanday ahamiyat yo'q",
+      "B) Faqat rang klassifikatsiyasi uchun",
+      "C) Baxt keltiruvchi belgi sifatida; o'zbek xalq madaniyatida muhim o'rin",
+      "D) Faqat bezak sifatida"
+     ],
+     "TO'G'RI_JAVOB": "C) Baxt keltiruvchi belgi sifatida; o'zbek xalq madaniyatida muhim o'rin",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "O'zbekiston dizayni boshqa mamlakatlar dizayni dan farqlanishi va bunga misol nima?",
+     "variantlar": [
+      "A) Faqat xarid qiymati bo'yicha farq qiladi",
+      "B) Farq yo'q",
+      "C) O'zining mahalliy belgilari bilan farq qiladi, masalan, Asaka zavodi avtomobillari",
+      "D) Faqat rang bo'yicha farq qiladi"
+     ],
+     "TO'G'RI_JAVOB": "C) O'zining mahalliy belgilari bilan farq qiladi, masalan, Asaka zavodi avtomobillari",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Rangtasvir asarini yaratishda emotsional ta'sir kuchini oshirish uchun qanday kombinatsiyalar qo'llaniladi?",
+     "variantlar": [
+      "A) Asarning mazmun va mohiyatidan kelib chiqqan holda ranglarning issiq va sovuq turlaridan foydalaniladi",
+      "B) Faqat chiziq qo'llaniladi",
+      "C) Faqat shtrix qo'llaniladi",
+      "D) Faqat nuqtalar qo'llaniladi"
+     ],
+     "TO'G'RI_JAVOB": "A) Asarning mazmun va mohiyatidan kelib chiqqan holda ranglarning issiq va sovuq turlaridan foydalaniladi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "5-sinf",
+   "kitob": "5-sinf 5-Sinf Tasviriy san’at",
+   "mavzu": "4-dars. Oq va qora ranglardan grafik rasm ishlash",
+   "savollar": [
+    {
+     "savol": "Grafi ka yunoncha \"grapho\" so'zidan olingan bo'lib, u qanday ma'noni bildiradi?",
+     "variantlar": [
+      "A) Chiz, yo'l",
+      "B) Rang, qora",
+      "C) Siluet, tasvirlar",
+      "D) Chizaman, yozaman, rasm chizaman"
+     ],
+     "TO'G'RI_JAVOB": "D) Chizaman, yozaman, rasm chizaman",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Grafi k rasm ishlashda asosan qaysi ranglardan foydalaniladi?",
+     "variantlar": [
+      "A) Sariq va ko'k",
+      "B) Sariq va qora",
+      "C) Qora va oq",
+      "D) Qizil va ko'k"
+     ],
+     "TO'G'RI_JAVOB": "C) Qora va oq",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Qora rang grafi k rasmlarda qaysi holatlarni tasvirlashda qo'llaniladi?",
+     "variantlar": [
+      "A) Tiniq va nozik joylarda",
+      "B) Nur va yorug' joylarda",
+      "C) Quyuq, qalin, qayg'uli joylarda",
+      "D) Tingrak va yumshoq joylarda"
+     ],
+     "TO'G'RI_JAVOB": "C) Quyuq, qalin, qayg'uli joylarda",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Oq rang grafi k rasmlarda qanday holatlarni ifodalashda qo'llaniladi?",
+     "variantlar": [
+      "A) Tiniq va nozik, ulug'vor va shodlik kayfi yatini tasvirlashda",
+      "B) Qayg'u va xayf",
+      "C) Tepalik va tog'larda",
+      "D) Qora va tungi ko'rinishlarda"
+     ],
+     "TO'G'RI_JAVOB": "A) Tiniq va nozik, ulug'vor va shodlik kayfi yatini tasvirlashda",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Siluet nima?",
+     "variantlar": [
+      "A) Rasm chizish usuli",
+      "B) Tabiat ko'rinishi",
+      "C) Grafi k rasmlardagi yo'l",
+      "D) Oq fonda qora rangdagi predmetning shadidagi ko'rinishi"
+     ],
+     "TO'G'RI_JAVOB": "D) Oq fonda qora rangdagi predmetning shadidagi ko'rinishi",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Siluet san'ati qachon paydo bo'lgan?",
+     "variantlar": [
+      "A) XVIII asrning oxirida",
+      "B) XIX asrda",
+      "C) Eramizdan avvalgi VI asrda",
+      "D) XX asrda"
+     ],
+     "TO'G'RI_JAVOB": "C) Eramizdan avvalgi VI asrda",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "XVIII asrning birinchi yarmida siluet san'ati kimning nomi bilan qaytadan vujudga keltiriladi?",
+     "variantlar": [
+      "A) Y.S. Kuglikova",
+      "B) Yelizaveta Byom",
+      "C) A.Savrasov",
+      "D) Eten de Siluet"
+     ],
+     "TO'G'RI_JAVOB": "D) Eten de Siluet",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Yelizaveta Byom qaysi kitobni yozgan?",
+     "variantlar": [
+      "A) Bolalar hayotidan siluetlar",
+      "B) Qora va oq rang",
+      "C) Daraxtlar dunyosi",
+      "D) Manzara san'ati"
+     ],
+     "TO'G'RI_JAVOB": "A) Bolalar hayotidan siluetlar",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Grafi k rasmlarda oq va qora ranglar bir-biriga nisbatan nima?",
+     "variantlar": [
+      "A) Yoqimli ranglar",
+      "B) Qarama-qarshi ranglar",
+      "C) O'xshash ranglar",
+      "D) Qiyin ranglar"
+     ],
+     "TO'G'RI_JAVOB": "B) Qarama-qarshi ranglar",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Grafi k rashmda daraxt tasvirida qanday chiziqlardan foydalaniladi?",
+     "variantlar": [
+      "A) Vertikal va gorizontal chiziqlardan",
+      "B) Faqat aylanasimon chiziqlardan",
+      "C) Faqat vertikal chiziqlardan",
+      "D) Faqat gorizontal chiziqlardan"
+     ],
+     "TO'G'RI_JAVOB": "A) Vertikal va gorizontal chiziqlardan",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Qora otning silueti oq fonda aniq ajralib turishi uchun nima qilish kerak?",
+     "variantlar": [
+      "A) Ko'p chiziqlar chizish",
+      "B) Sariq rangdan foydalanish",
+      "C) Qora va oq ranglarning qarama-qarshi bo'lishidan foydalanish",
+      "D) Rasm katta qilish"
+     ],
+     "TO'G'RI_JAVOB": "C) Qora va oq ranglarning qarama-qarshi bo'lishidan foydalanish",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Grafi k rashmda xotirjam va o'ychan holatlarni tasvirlashda qanday chiziqlardan foydalaniladi?",
+     "variantlar": [
+      "A) Ravon, xotirjam, aylanasimon, siniq, qiyshiq chiziqlardan",
+      "B) Faqat qalin chiziqlardan",
+      "C) Faqat siniq chiziqlardan",
+      "D) Faqat to'g'ri chiziqlardan"
+     ],
+     "TO'G'RI_JAVOB": "A) Ravon, xotirjam, aylanasimon, siniq, qiyshiq chiziqlardan",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Grafi k rasm ishlashda birinchi bosqichda nima qilish kerak?",
+     "variantlar": [
+      "A) Manzaraning tasvirini qog'ozga yordamchi chiziqlar orqali to'g'ri joylashtirib chizish",
+      "B) Umumlashtirib chiqarish",
+      "C) Soyalarni shtrihlash",
+      "D) Rang qo'llash"
+     ],
+     "TO'G'RI_JAVOB": "A) Manzaraning tasvirini qog'ozga yordamchi chiziqlar orqali to'g'ri joylashtirib chizish",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkinchi bosqichda qanday chiziqlar yuritiladi?",
+     "variantlar": [
+      "A) Nozik chiziqlar",
+      "B) Yorug'-soya joylari aniqlashtirilib, yengil chiziqlar orqali shtrixlar",
+      "C) Ranglar",
+      "D) Qalin chiziqlar"
+     ],
+     "TO'G'RI_JAVOB": "B) Yorug'-soya joylari aniqlashtirilib, yengil chiziqlar orqali shtrixlar",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Uchinchi bosqichda nima aniqlashtirilib, nimalar bajarish kerak?",
+     "variantlar": [
+      "A) Soyalar qo'llaniladi",
+      "B) Och-to'qlik joylaridagi tusli munosabati aniqlashtiriladi",
+      "C) Shtrixlar yuritiladi",
+      "D) Chiziqlar aniqlashtirilib, bo'yoq qo'llaniladi"
+     ],
+     "TO'G'RI_JAVOB": "B) Och-to'qlik joylaridagi tusli munosabati aniqlashtiriladi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Manzara tasviri yasashda yaqin va uzoqdagi narsalarning joylashuvi qanday bo'ladi?",
+     "variantlar": [
+      "A) O'xshash",
+      "B) Uchta ko'rinishda - yaqin, o'rta va olisda",
+      "C) Faqat olisda joylashadi",
+      "D) Faqat yaqin joylashadi"
+     ],
+     "TO'G'RI_JAVOB": "B) Uchta ko'rinishda - yaqin, o'rta va olisda",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Tabiatning biron-bir holatini tasvirlashda eng birinchi nima aniqlab olinadi?",
+     "variantlar": [
+      "A) Ko'rish nuqtasi va ufq chizig'i",
+      "B) Soyalar",
+      "C) Ranglar",
+      "D) Chiziqlar"
+     ],
+     "TO'G'RI_JAVOB": "A) Ko'rish nuqtasi va ufq chizig'i",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Rasm kompozitsiyasini to'g'ri topish uchun qanday qurilmadan foydalanish mumkin?",
+     "variantlar": [
+      "A) Chizg'ich",
+      "B) Kompas",
+      "C) Ramka shaklidagi karton yoki qog'ozdan yasalgan maxsus asbob",
+      "D) Xonachisi"
+     ],
+     "TO'G'RI_JAVOB": "C) Ramka shaklidagi karton yoki qog'ozdan yasalgan maxsus asbob",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Olisdagi narsalar yaqindagiga nisbatan qanday chiziladi?",
+     "variantlar": [
+      "A) Kichikroq",
+      "B) Qalinroq",
+      "C) Ko'kkuroq",
+      "D) Kattaroq"
+     ],
+     "TO'G'RI_JAVOB": "A) Kichikroq",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Havo perspektivasi qoidasiga ko'ra uzoqdagi narsalar rang va tus jihatdan nima ko'rinadi?",
+     "variantlar": [
+      "A) Rang nomuvozzni",
+      "B) Yanada yorqin va to'q",
+      "C) Xiraroq va ochroq",
+      "D) Qoraning bo'shti"
+     ],
+     "TO'G'RI_JAVOB": "C) Xiraroq va ochroq",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Grafi k rasmlarda Yelizaveta Byom va Y.S. Kuglikova turli epokalarda siluet san'atida nima uchun muhim rol o'ynadi?",
+     "variantlar": [
+      "A) Ko'p chiziq chizdi",
+      "B) Faqat bitta rang ishlatdi",
+      "C) Siluet san'atini ilgari surdi va rivojlandirdi",
+      "D) Ranglarni aralashtirib yubordi"
+     ],
+     "TO'G'RI_JAVOB": "C) Siluet san'atini ilgari surdi va rivojlandirdi",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Agar siz \"Qarag'aylar\" tushida qiyin, jo'shqin manzara chizishda bo'lsangiz, qanday chiziq yo'nalishlari va qalinlikni tanlab olardingiz?",
+     "variantlar": [
+      "A) Faqat gorizontal chiziqlar",
+      "B) Faqat aylanasimon va yengil chiziqlar",
+      "C) Faqat to'g'ri va nozik chiziqlar",
+      "D) Turli yo'nalishli qalinlashtirilgan chiziqlar va qalin soyali joylari"
+     ],
+     "TO'G'RI_JAVOB": "D) Turli yo'nalishli qalinlashtirilgan chiziqlar va qalin soyali joylari",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Grafi k rasm ishlashda vertikal va gorizontal chiziqlar daraxtning qaysi qismlarini tasvirlashda muhim rol o'ynaydi?",
+     "variantlar": [
+      "A) Shox-shabbalari va tana shakllarini ifodalashda",
+      "B) Parchalarini ko'rsatishda",
+      "C) Ranglashtirishda",
+      "D) Ildizlarini tasvirlashda"
+     ],
+     "TO'G'RI_JAVOB": "A) Shox-shabbalari va tana shakllarini ifodalashda",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "\"Olma daraxti\" va \"Qarag'aylar\" rasmlarda bir necha bosqich qo'llanilsa, shu bosqichlarda qanday o'zgarish sodir bo'ladi?",
+     "variantlar": [
+      "A) Faqat ranglar o'zgaradi",
+      "B) Faqat chiziqlar o'zgaradi",
+      "C) Chiziqli tasvir tayyor bo'lganidan keyin yorug'-soya joylari, tus va soyalar o'rta olib turadi",
+      "D) Hech narsa o'zgarmaydi"
+     ],
+     "TO'G'RI_JAVOB": "C) Chiziqli tasvir tayyor bo'lganidan keyin yorug'-soya joylari, tus va soyalar o'rta olib turadi",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Grafi k rashmda siluetning roli nimada ifodalanadi va u nima uchun asosiy?",
+     "variantlar": [
+      "A) Ranglar qo'llashda",
+      "B) Faqat rasm chiziqlashda",
+      "C) Faqat yo'llar ko'rsatishda",
+      "D) Predmetni oq fonda qora rangda jasur ko'rsatib, uning shakli va xususiyatini aniqroq ifodalashda"
+     ],
+     "TO'G'RI_JAVOB": "D) Predmetni oq fonda qora rangda jasur ko'rsatib, uning shakli va xususiyatini aniqroq ifodalashda",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Manzara tasviri yasashda dastlab alohida bo'laklarni (daraxt tanasi, novda, shox-shabba) chizishning o'rni nima?",
+     "variantlar": [
+      "A) Faqat qoralama uchun",
+      "B) Ushbu bosqichsiz rasm tayyor bo'lishi mumkin",
+      "C) Narsalarning xarakterli belgilari, bo'laklarning nisbati va yo'nalishini to'g'ri o'rganish uchun, keyin esa butun manzara chizishga o'tish uchun",
+      "D) Hech qanday ahamiyat yo'q"
+     ],
+     "TO'G'RI_JAVOB": "C) Narsalarning xarakterli belgilari, bo'laklarning nisbati va yo'nalishini to'g'ri o'rganish uchun, keyin esa butun manzara chizishga o'tish uchun",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Grafi k rashlarda to'rtinchi bosqichda \"Qalin soyali joylari to'qlashtirib, umumlashtiriladi\" qaysi maqsadda bajariladi?",
+     "variantlar": [
+      "A) Faqat vaqt o'tkazish uchun",
+      "B) Daraxtlar hajmdorligi, xarakterli joylari, soyalari va ularning o'zaro bog'lanishlarini umumlashtirib, rasmnning to'liqligi va bir yutalganligi ta'minlamasl uchun",
+      "C) Ranglarni qo'shish uchun",
+      "D) Rasm katta qilish uchun"
+     ],
+     "TO'G'RI_JAVOB": "B) Daraxtlar hajmdorligi, xarakterli joylari, soyalari va ularning o'zaro bog'lanishlarini umumlashtirib, rasmnning to'liqligi va bir yutalganligi ta'minlamasl uchun",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Agar manzara ishlashda yaqin, o'rta va olisdagi narsalarni to'g'ri tasvirlashni istasangiz, nima o'rganish zarur?",
+     "variantlar": [
+      "A) Faqat ildizlarni",
+      "B) Faqat ranglarni",
+      "C) Faqat chiziqlarni",
+      "D) Uzoqdagi narsalarning yaqindagiga nisbatan kichik bo'lishini va havo perspektivasi qoidasini hisobga olish"
+     ],
+     "TO'G'RI_JAVOB": "D) Uzoqdagi narsalarning yaqindagiga nisbatan kichik bo'lishini va havo perspektivasi qoidasini hisobga olish",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Grafi k rasm ishlashda xotirjam, tinchlik holatini ifodalovchi manzaral joy tanlash nega muhim?",
+     "variantlar": [
+      "A) Chiziqlar soni uchun",
+      "B) Rasm tasviri to'g'ri ijro etilish uchun va tabiatga bo'lgan munosabatni to'g'ri ifodalash uchun",
+      "C) Faqat rang uchun",
+      "D) Qog'ozning kattaligi uchun"
+     ],
+     "TO'G'RI_JAVOB": "B) Rasm tasviri to'g'ri ijro etilish uchun va tabiatga bo'lgan munosabatni to'g'ri ifodalash uchun",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Grafi k rasm ishlashda tabiat holatini chizishdan avval \"sinchiklab kuzatish\" nima anglatadi va u nima uchun kerak?",
+     "variantlar": [
+      "A) Narsalarning xarakterli belgilari, rang o'zgarishlari, yorug'-soya joylari va ularning nisbatlarini diqqat bilan ko'rib, to'g'ri tasvir yasash uchun",
+      "B) Faqat ranglarni ko'rish",
+      "C) Vaqt o'tkazish",
+      "D) Tezda chizish"
+     ],
+     "TO'G'RI_JAVOB": "A) Narsalarning xarakterli belgilari, rang o'zgarishlari, yorug'-soya joylari va ularning nisbatlarini diqqat bilan ko'rib, to'g'ri tasvir yasash uchun",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "5-sinf",
+   "kitob": "5-sinf 5-Sinf Tasviriy san’at",
+   "mavzu": "6-dars. Hajm – haykaltaroshlik",
+   "savollar": [
+    {
+     "savol": "Haykaltaroshlik san'ati qaysi davrda yog'och, tosh va marmarni ishlov berishni mukammal o'zlashtirgan?",
+     "variantlar": [
+      "A) Eramiz boshlanishida",
+      "B) Eramiz avvalgi XX asrida",
+      "C) Eramizdan avvalgi V-IV asrlarda",
+      "D) Eramiz boshlanganidan keyin 100 yildan so'ng"
+     ],
+     "TO'G'RI_JAVOB": "C) Eramizdan avvalgi V-IV asrlarda",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Antik Yunon haykaltaroshi Mironning mashhur asari qanday nomda tanilgan?",
+     "variantlar": [
+      "A) Ot yuqori ko'taradigan",
+      "B) Disk otuvchi",
+      "C) Qaychoq otuvchi",
+      "D) Niza otuvchi"
+     ],
+     "TO'G'RI_JAVOB": "B) Disk otuvchi",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Afrodita qanday tilimali ramzdir?",
+     "variantlar": [
+      "A) Tilmacchilik va savot",
+      "B) Jang va qahramanliki",
+      "C) Bilim va aql",
+      "D) Go'zallik va muhabbat"
+     ],
+     "TO'G'RI_JAVOB": "D) Go'zallik va muhabbat",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Mikelanjelo Buonarotti qaysi davr san'atkori edi?",
+     "variantlar": [
+      "A) Qadim Rim",
+      "B) Uyg'onish davri",
+      "C) Yangi vaqtlar",
+      "D) O'rta asrlar"
+     ],
+     "TO'G'RI_JAVOB": "B) Uyg'onish davri",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Mikelanjelo qaysi shaharning yaqinida dunyoga kelgan?",
+     "variantlar": [
+      "A) Roma yaqinida",
+      "B) Florensiya yaqinida",
+      "C) Neapolis yaqinida",
+      "D) Venetsiya yaqinida"
+     ],
+     "TO'G'RI_JAVOB": "B) Florensiya yaqinida",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "\"David\" haykali kim tomonidan yaratilgan?",
+     "variantlar": [
+      "A) Domeniko Girlandayo",
+      "B) Yakov Shapiro",
+      "C) Mikelanjelo",
+      "D) Ilhom Jabborov"
+     ],
+     "TO'G'RI_JAVOB": "C) Mikelanjelo",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "\"David\" haykali 1504-yilda qayerda o'rnatilgan?",
+     "variantlar": [
+      "A) Milonda",
+      "B) Venetsiyada",
+      "C) Rimda",
+      "D) Florensiya bosh maydonida"
+     ],
+     "TO'G'RI_JAVOB": "D) Florensiya bosh maydonida",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "O'zbek Badiiy akademiyasining haqiqiy a'zosi bo'lgan haykaltarosh kim?",
+     "variantlar": [
+      "A) Ilhom Jabborov",
+      "B) Ahmad al-Farg'oniy",
+      "C) Jaloliddin Manguberdi",
+      "D) Yakov Shapiro"
+     ],
+     "TO'G'RI_JAVOB": "A) Ilhom Jabborov",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ilhom Jabborov 1945-yilda qaysi jilodagi qishlog'ida tavallud topgan?",
+     "variantlar": [
+      "A) Pap tumanida",
+      "B) Namangan tumanida",
+      "C) Chust tumanining Olmos qishlog'ida",
+      "D) Quva tumanida"
+     ],
+     "TO'G'RI_JAVOB": "C) Chust tumanining Olmos qishlog'ida",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Haykal 20 sm dan ortiq bo'lsa, uning karkasi qanday tayyorlanadi?",
+     "variantlar": [
+      "A) Sim va yog'och orqali",
+      "B) Faqat paxta orqali",
+      "C) Toza eritmadan",
+      "D) Faqat yog'ochdan"
+     ],
+     "TO'G'RI_JAVOB": "A) Sim va yog'och orqali",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Qadim Yunon haykaltaroshlar marmar haykallarni qanday bo'yaganlar?",
+     "variantlar": [
+      "A) Faqat oq rangga",
+      "B) Qizil-siyoh ranglar bilan",
+      "C) Faqat qizil rangga",
+      "D) Odam tanasining rangi singari"
+     ],
+     "TO'G'RI_JAVOB": "D) Odam tanasining rangi singari",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Yog'ochdan ishlangan haykallar ustiga nima yopishtirilgan?",
+     "variantlar": [
+      "A) Bronza qanog'i",
+      "B) Fiil suyagidan ishlangan yupqa plastinkalar",
+      "C) Marmarga ishlangan laylar",
+      "D) Oq gilsiz"
+     ],
+     "TO'G'RI_JAVOB": "B) Fiil suyagidan ishlangan yupqa plastinkalar",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Eramizdan avvalgi V asrga kelib haykaltaroshlar odam gavdasini qaysi holatlarda tasvirlashni o'rganganlar?",
+     "variantlar": [
+      "A) Faqat turgan holatlarda",
+      "B) Faqat yotib turishni",
+      "C) Harakat qilib turgan holatlarda",
+      "D) Faqat to'satning turshini"
+     ],
+     "TO'G'RI_JAVOB": "C) Harakat qilib turgan holatlarda",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "\"Milos Afroditasi\" haykali qaysi sifatlar orqali tomoshabinni o'ziga rom qiladi?",
+     "variantlar": [
+      "A) Nafsligi va go'zalligi",
+      "B) Tilsimi va rangi",
+      "C) Xunukligi va jidam",
+      "D) Kattaliqi va og'irligi"
+     ],
+     "TO'G'RI_JAVOB": "A) Nafsligi va go'zalligi",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Qadim hindlar qaysi xudosi haqida minglab haykallar yaratganlar?",
+     "variantlar": [
+      "A) Budda haqida",
+      "B) Shiva haqida",
+      "C) Brahma haqida",
+      "D) Krishna haqida"
+     ],
+     "TO'G'RI_JAVOB": "A) Budda haqida",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Mikelanjelo 13 yoshida qayerga o'qishga kirdi?",
+     "variantlar": [
+      "A) Milonda",
+      "B) Rimda",
+      "C) Florensiyalik Domeniko Girlandayo ustaxonasiga",
+      "D) Venetsiyada"
+     ],
+     "TO'G'RI_JAVOB": "C) Florensiyalik Domeniko Girlandayo ustaxonasiga",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Mikelanjelo tomonidan yaratilgan \"Pyete\" (Isoga aza tutish) haykali qayda tayyorlangan?",
+     "variantlar": [
+      "A) Florensiyada",
+      "B) Milonda",
+      "C) Venetsiyada",
+      "D) Rimda"
+     ],
+     "TO'G'RI_JAVOB": "D) Rimda",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Toshkent shahrida o'rnatilgan Amir Temur haykalini qanday materialdan yasangan?",
+     "variantlar": [
+      "A) Toshdan",
+      "B) Marmardan",
+      "C) Bronzadan",
+      "D) Yog'ochdan"
+     ],
+     "TO'G'RI_JAVOB": "C) Bronzadan",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Gavjum xiyobonida o'rnatilgan Amir Temur otliq haykalini qaysi haykaltaroshlar ishlagan?",
+     "variantlar": [
+      "A) Mikelanjelo",
+      "B) Jaloliddin Manguberdi",
+      "C) Ilhom Jabborov va K. Jabborov",
+      "D) Yakov Shapiro"
+     ],
+     "TO'G'RI_JAVOB": "C) Ilhom Jabborov va K. Jabborov",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Odam gavdasini karkasini tayyorlashda yelkadan chanqo'q suyagigacha bo'lgan oraliqi qanday shaklda qilinadi?",
+     "variantlar": [
+      "A) Dumaloq shaklida",
+      "B) Beshburchak shaklida",
+      "C) Kvadrat shaklida",
+      "D) Uchburchak shaklida"
+     ],
+     "TO'G'RI_JAVOB": "D) Uchburchak shaklida",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Mikelanjelo \"David\" haykalida qanday asosiy maqsadga erishgan?",
+     "variantlar": [
+      "A) Faqat yunon mefologiyasini tushuntirish",
+      "B) Antik Rim qahramonikg taqlid qilish",
+      "C) Arkitektura va haykalni birlashtirish",
+      "D) Tabiatning eng go'zal mo'jizasi - odam qomatining takrorlanmas go'zalligini va kuch-qudratini ifoda etish"
+     ],
+     "TO'G'RI_JAVOB": "D) Tabiatning eng go'zal mo'jizasi - odam qomatining takrorlanmas go'zalligini va kuch-qudratini ifoda etish",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Odam gavdasini to'la ishlash uchun haykal 20 sm dan ortiq bo'lsa, karkasni tayyorlashning asosiy maqsadi nima?",
+     "variantlar": [
+      "A) Yopishtirishni sezilarli qilish uchun",
+      "B) Faqat qoqilish uchun",
+      "C) Haykal ranglantirish uchun",
+      "D) Bo'shliqda joylashish o'lchamlari va simdan gavdaning nisbatlari hisobga olinib"
+     ],
+     "TO'G'RI_JAVOB": "D) Bo'shliqda joylashish o'lchamlari va simdan gavdaning nisbatlari hisobga olinib",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Amir Temur otning jilovini mahkam ushlab turishi qanday ramziy ma'noni bildiradi?",
+     "variantlar": [
+      "A) Otga sevgi ko'rsatish",
+      "B) Harbiy kuchni ko'rsatish",
+      "C) Otning emas, buyuk bir mamlakatning jilovidir",
+      "D) Faqat otni bo'ysundirilganligini"
+     ],
+     "TO'G'RI_JAVOB": "C) Otning emas, buyuk bir mamlakatning jilovidir",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Haykaltaroshlik mashg'ulotlarida steklarga loy yopishib qolmasligi uchun ularni avval nima qilish kerak?",
+     "variantlar": [
+      "A) Muzlatish",
+      "B) Suv bilan shuftish",
+      "C) Jilvirlanib, keyin alif yoki lok bilan to'yintirish",
+      "D) Sug'orish"
+     ],
+     "TO'G'RI_JAVOB": "C) Jilvirlanib, keyin alif yoki lok bilan to'yintirish",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Mashg'ulotlar jarayonida ko'proq steklar bilan emas, qo'l barmoqlari bilan ishlash kerakligining asosiy sababi nima?",
+     "variantlar": [
+      "A) Vaqti yo'q bo'lgani uchun",
+      "B) Qo'l mushlashishi uchun",
+      "C) Qo'l oqqish uchun",
+      "D) Qo'l hajm va harakatni his etish malakalarini shakllantirishda asosiy vazifani bajaradi"
+     ],
+     "TO'G'RI_JAVOB": "D) Qo'l hajm va harakatni his etish malakalarini shakllantirishda asosiy vazifani bajaradi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Mustaqillik davri O'zbekistonda qaysi qahramanlarnig ko'pgina haykallar yaratildi?",
+     "variantlar": [
+      "A) Faqat tiriklar",
+      "B) Amir Temur, Ahmad al-Farg'oniy, Jaloliddin Manguberdi, Alisher Navoiy va boshqalar",
+      "C) Faqat qadim xalq qahramanlari",
+      "D) Faqat shoirahlari"
+     ],
+     "TO'G'RI_JAVOB": "B) Amir Temur, Ahmad al-Farg'oniy, Jaloliddin Manguberdi, Alisher Navoiy va boshqalar",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Karkaslarga loyni yopishtirish va mustahkamlash uchun qaysi materiallardan foydalaniladi?",
+     "variantlar": [
+      "A) Yog'och bolg'acha va to'rtburchak reykalar",
+      "B) Faqat plastik",
+      "C) Faqat paxta",
+      "D) Faqat polimer"
+     ],
+     "TO'G'RI_JAVOB": "A) Yog'och bolg'acha va to'rtburchak reykalar",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Mikelanjelo tomonidan 1492-1494-yillarda yaratilgan \"Zina oldidagi Madonna\" va \"Kentavrlar jangi\" haykallarini qaysi muzeyida saqlanadi?",
+     "variantlar": [
+      "A) Roma Qadimiy Sanat muzeyida",
+      "B) Milan akademiyasida",
+      "C) Florensiya Buonarotti muzeyida",
+      "D) Venetsiya institutida"
+     ],
+     "TO'G'RI_JAVOB": "C) Florensiya Buonarotti muzeyida",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Antik haykaltaroshlar marmar haykallarini qanday xususiyat bilan yaratganlar?",
+     "variantlar": [
+      "A) Qattiq va yorilgan",
+      "B) Quruq va rangisiz",
+      "C) Faqat ko'k rangda",
+      "D) Tirikdek, nafas olayotgandek"
+     ],
+     "TO'G'RI_JAVOB": "D) Tirikdek, nafas olayotgandek",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Yakov Shapiro 70-yillar oxiri va 80-yillarda O'zbekistonda qanday asarlarning muallifi sifatida mashhur bo'ldi?",
+     "variantlar": [
+      "A) Faqat sha'riy eserlar",
+      "B) Ko'pgina relyeflar va Kosmonautlar xiyobonidagi haykaltaroshlik kompleksi",
+      "C) Faqat mazzalar",
+      "D) Faqat binolar"
+     ],
+     "TO'G'RI_JAVOB": "B) Ko'pgina relyeflar va Kosmonautlar xiyobonidagi haykaltaroshlik kompleksi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "5-sinf",
+   "kitob": "5-sinf 5-Sinf Tasviriy san’at",
+   "mavzu": "7-dars. Oydin tundagi yoki quyoshning botish chog'idagi daraxtni tasvirlash",
+   "savollar": [
+    {
+     "savol": "Matndagi shamol qanday bo'lgan?",
+     "variantlar": [
+      "A) Shamolsiz",
+      "B) Sekin shamol",
+      "C) Shabdali shamol",
+      "D) Kuchli shamol"
+     ],
+     "TO'G'RI_JAVOB": "A) Shamolsiz",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Oyning nur suv yuzasini qanday ranglarga bo'yab turibdi?",
+     "variantlar": [
+      "A) Qora va oq",
+      "B) Qizil va ko'k",
+      "C) Ko'kish, sariq va oltin",
+      "D) Pushti va ko'ng'ir"
+     ],
+     "TO'G'RI_JAVOB": "C) Ko'kish, sariq va oltin",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "G'. Abdurahmonov qayerda tug'ilgan?",
+     "variantlar": [
+      "A) Farg'onada",
+      "B) Samarqandda",
+      "C) Toshkent shahrida",
+      "D) Toshkent tumani Keles qishlog'ida"
+     ],
+     "TO'G'RI_JAVOB": "D) Toshkent tumani Keles qishlog'ida",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Rassom P. Benkov nomidagi badiiy bilim yurtini qaysi yilida tugatgan?",
+     "variantlar": [
+      "A) 1965-yili",
+      "B) 1960-yili",
+      "C) 1955-yili",
+      "D) 1950-yili"
+     ],
+     "TO'G'RI_JAVOB": "C) 1955-yili",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Matndagi daraxtlar bir-biri bilan nima qilashib turibdi?",
+     "variantlar": [
+      "A) Kesishib turibdi",
+      "B) Quloq solgandek turibdi",
+      "C) Shovqin qilashib turibdi",
+      "D) Asta pichirlashib turibdi"
+     ],
+     "TO'G'RI_JAVOB": "D) Asta pichirlashib turibdi",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Suratni qanday bo'yoqlar bilan tasvirlash mumkin?",
+     "variantlar": [
+      "A) Qalam va qogoz",
+      "B) Yog' bo'yoqlari",
+      "C) Guash yoki akvarel",
+      "D) Muz bo'yoqlari"
+     ],
+     "TO'G'RI_JAVOB": "C) Guash yoki akvarel",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Matni bo'yicha qirg'oqlar qanday rangga bo'yalib turibdi?",
+     "variantlar": [
+      "A) Oq rangga",
+      "B) Sariq rangga",
+      "C) Qizil-qo'ng'ir rangga",
+      "D) Ko'k rangga"
+     ],
+     "TO'G'RI_JAVOB": "C) Qizil-qo'ng'ir rangga",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "M. Nabiyev, H. Rahmonov, T. Oganesov rassom G'. Abdurahmonov uchun kim edi?",
+     "variantlar": [
+      "A) Xalq san'atkarlari",
+      "B) Yaqin do'stlari",
+      "C) Ustozlari",
+      "D) Jamoa shaxslari"
+     ],
+     "TO'G'RI_JAVOB": "C) Ustozlari",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Oydin tunning atmosferasi matni bo'yicha qanday atrof-muhit bilan boshlanadi?",
+     "variantlar": [
+      "A) Voqea va xavfi bilan",
+      "B) Shamoli va shovqini bilan",
+      "C) Shamolsiz, tinch va issiq bilan",
+      "D) Sovuq va unyonli bilan"
+     ],
+     "TO'G'RI_JAVOB": "C) Shamolsiz, tinch va issiq bilan",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Rassom ijodida eng alohida o'rin tutadigan asarlar qaysi?",
+     "variantlar": [
+      "A) Shaharlar ko'rinishi",
+      "B) Portretlar",
+      "C) Monumentlar",
+      "D) Etudlar"
+     ],
+     "TO'G'RI_JAVOB": "D) Etudlar",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Matndagi oyning shu'lasi suv yuzasiga qanday ta'sir ko'rsatadi?",
+     "variantlar": [
+      "A) Baliq uyqu botadi",
+      "B) Suv to'shiklab ketadi",
+      "C) Suv usti xavfli bo'lib ketadi",
+      "D) Ko'lni ko'kish, sariq, oltin rangga bo'yab jilvalanish ko'rsatadi"
+     ],
+     "TO'G'RI_JAVOB": "D) Ko'lni ko'kish, sariq, oltin rangga bo'yab jilvalanish ko'rsatadi",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Rassom tabiiy manzaradagi asosiy elementlar qanday bo'lishi kerak?",
+     "variantlar": [
+      "A) Ehtiyoj bo'lsa olib tashlangan",
+      "B) O'z o'rnini topib, havo va bo'shliqni e'tiborga olgan",
+      "C) Qo'lda sunnatga binoan qo'yilgan",
+      "D) Tasodifiy joylashgan"
+     ],
+     "TO'G'RI_JAVOB": "B) O'z o'rnini topib, havo va bo'shliqni e'tiborga olgan",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Oydin tunning tasviri qanday ranglari kombinatsiyasida hilatli ko'rinadi?",
+     "variantlar": [
+      "A) Faqat sariq rang",
+      "B) Ko'kish, sariq va qizil-qo'ng'ir ranglarning birlashtirishi",
+      "C) Faqat ko'k rang",
+      "D) Yalniz qora va oq"
+     ],
+     "TO'G'RI_JAVOB": "B) Ko'kish, sariq va qizil-qo'ng'ir ranglarning birlashtirishi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "G'. Abdurahmonov Toshkent Teatr va rassomchilik institutida kimning dozorida o'qigan?",
+     "variantlar": [
+      "A) Professor M. Nabiyev",
+      "B) Professor R. Ahmedov",
+      "C) Professor H. Rahmonov",
+      "D) Professor T. Oganesov"
+     ],
+     "TO'G'RI_JAVOB": "B) Professor R. Ahmedov",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Tabiatdagi tuslanish va o'zgarishlarni tasvirlash uchun rassomda nima bo'lishi kerak?",
+     "variantlar": [
+      "A) Qimmatli bo'yoqlar",
+      "B) Iste'dod va qobiliyat",
+      "C) Turli xil cho'pi",
+      "D) Katta do'kon"
+     ],
+     "TO'G'RI_JAVOB": "B) Iste'dod va qobiliyat",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Rassom naturalning cheksiz imkoniyatlarini to'la o'zlashtirish uchun nima qilishi kerak?",
+     "variantlar": [
+      "A) Faqat butun rasm chizish",
+      "B) Faqat kitoblarni o'qish",
+      "C) Har kuni etudlar tuzing, tabiatni diqqat bilan o'rganish",
+      "D) O'ziga oxshash rassomlarning asarlarini nusxalash"
+     ],
+     "TO'G'RI_JAVOB": "C) Har kuni etudlar tuzing, tabiatni diqqat bilan o'rganish",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Bulut orasidan chiqqan oy qaysi elementi bilan bog'liq?",
+     "variantlar": [
+      "A) Yulduzlarning pozitsiyasiga",
+      "B) Suv haroratiga",
+      "C) Shamolning kuchiga",
+      "D) Yorug' shu'laga va uning suv yuzasiga tasiriiga"
+     ],
+     "TO'G'RI_JAVOB": "D) Yorug' shu'laga va uning suv yuzasiga tasiriiga",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Matni bo'yicha ko'l, oy va daraxtzor qanday butun tashkil etadi?",
+     "variantlar": [
+      "A) Butun ko'rinish, bir butalik kompozitsiya",
+      "B) Bir-biridan o'ziga xos tasvir",
+      "C) Turli xil predmetlar",
+      "D) Alohida-alohida manzaralar"
+     ],
+     "TO'G'RI_JAVOB": "A) Butun ko'rinish, bir butalik kompozitsiya",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Rasm tasvirlashda 'havo, bo'shliq, makon' alohida e'tibor bilan ko'rsatilishi nima anglatadi?",
+     "variantlar": [
+      "A) Makonning chuqurligi, perspektiva va balansi bilan ifodalash",
+      "B) Chiziqlarni to'g'ri qo'lirish",
+      "C) Chiziqlarni suni qiyish",
+      "D) Faqat bo'yoq miqdorini ortirish"
+     ],
+     "TO'G'RI_JAVOB": "A) Makonning chuqurligi, perspektiva va balansi bilan ifodalash",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Jonlantirish jarayoni qanday natijalanadi?",
+     "variantlar": [
+      "A) Chiziq rang bo'lib ketadi",
+      "B) Tabiat ko'rinmasi o'zgarishi",
+      "C) Chiziqning jonli, harakatlangan, yasalayli tasvir ko'rinishi",
+      "D) Ranglar o'zgarib ketadi"
+     ],
+     "TO'G'RI_JAVOB": "C) Chiziqning jonli, harakatlangan, yasalayli tasvir ko'rinishi",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ko'rinishni qog'ozga tasvirlamoqchi bo'lganida avvali nima qilish kerak?",
+     "variantlar": [
+      "A) Qirg'oqlardan boshlab chizishni boshlash",
+      "B) Eng ko'payti rangli element chizish",
+      "C) To'g'ridan-to'g'ri ranglash",
+      "D) Asosiy tasvir yechimini topish va rasm tuzilmasini aniqlash"
+     ],
+     "TO'G'RI_JAVOB": "D) Asosiy tasvir yechimini topish va rasm tuzilmasini aniqlash",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Matndagi 'bulut orasidan chiqqan oy suv yuzasiga yorug' shu'la sochib' ifodasi qanday chizish texnikasini ifodalaydi?",
+     "variantlar": [
+      "A) Faqat chiziqlar chizish",
+      "B) Nur va soyaning har kuni ta'siri, isiqning suv yuzasiga to'g'ri ta'sir qilishi",
+      "C) Faqat rang aralashish",
+      "D) Geometrik shakllar"
+     ],
+     "TO'G'RI_JAVOB": "B) Nur va soyaning har kuni ta'siri, isiqning suv yuzasiga to'g'ri ta'sir qilishi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Rassom tabiatdagi bir holatdan ikkinchi holatga o'tish jarayonini tasvirlash uchun asosan nima o'rganishi kerak?",
+     "variantlar": [
+      "A) Yorug'-soya ta'sirini va uning harakatini, nozik farqlarni",
+      "B) Faqat alifboni",
+      "C) Geometrik shakllarning nomlarini",
+      "D) Faqat ranglarning nomlarini"
+     ],
+     "TO'G'RI_JAVOB": "A) Yorug'-soya ta'sirini va uning harakatini, nozik farqlarni",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Guash va akvarel bo'yoqlari bilan tabiat manzarasini 'go'zal va mazmunli' qilib chizish uchun nima talab etiladi?",
+     "variantlar": [
+      "A) Ko'p miqdordagi cho'pi",
+      "B) Ranglarning chuqurligi, bo'yoqlarning xususiyati va texnikani bilish",
+      "C) Faqat to'y ranglari",
+      "D) Yuqori narxli bo'yoqlar"
+     ],
+     "TO'G'RI_JAVOB": "B) Ranglarning chuqurligi, bo'yoqlarning xususiyati va texnikani bilish",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "G'. Abdurahmonov ijodining xususiyati asosan nima bilan ifodalanadi?",
+     "variantlar": [
+      "A) Faqat qora rang ishlatilishi",
+      "B) Naturaning cheksiz imkoniyatlarini to'la o'zlashtirish va jarayonlarni jonlantirish",
+      "C) Geometrik shakllar",
+      "D) Faqat oq rengli oraqalar"
+     ],
+     "TO'G'RI_JAVOB": "B) Naturaning cheksiz imkoniyatlarini to'la o'zlashtirish va jarayonlarni jonlantirish",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Nozik farqlarni ilg'ab, tasvirda jonlantirish jarayoni nima uchun qiyin?",
+     "variantlar": [
+      "A) Musavvirning ko'z sinchovi, iste'dodi, qobiliyati kerak",
+      "B) Bo'yoqlar qimmatli",
+      "C) Qog'oz topish qiyin",
+      "D) Payt sarka yo'q"
+     ],
+     "TO'G'RI_JAVOB": "A) Musavvirning ko'z sinchovi, iste'dodi, qobiliyati kerak",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Oydin tunning tasviri va quyosh botish chog'idagi manzaraning asosiy tabiiy farqi nima?",
+     "variantlar": [
+      "A) Nur manbasining, nur sifatining, poyasidagi rang va atmosferaning farqi",
+      "B) Daraxt soni",
+      "C) Shamol kuchi",
+      "D) Suv miqdori"
+     ],
+     "TO'G'RI_JAVOB": "A) Nur manbasining, nur sifatining, poyasidagi rang va atmosferaning farqi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Rassom tabiatda kecha-yotgan jarayonlarni tasvirlash orqali asosan nima erisha olmoqchi?",
+     "variantlar": [
+      "A) Haqiqiy tabiatning dinamikasi, go'zal tasviri, jonlangan butunlikni ifodalash",
+      "B) Rasm soni orttirilgan",
+      "C) Shovq olish",
+      "D) Faqat vaqt o'tkazish"
+     ],
+     "TO'G'RI_JAVOB": "A) Haqiqiy tabiatning dinamikasi, go'zal tasviri, jonlangan butunlikni ifodalash",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Matndagi takrorlangan elementlar (oyning nur, soya, daraxtning pichirlashi) rasm tuzilmasida qanday rol o'ynaydi?",
+     "variantlar": [
+      "A) Faqat rangli qilish",
+      "B) Faqat masofa to'ldirish",
+      "C) Hech qanday rol",
+      "D) Harmoniya, balansi, ritmni yaratish va diqqatni yo'naltirish"
+     ],
+     "TO'G'RI_JAVOB": "D) Harmoniya, balansi, ritmni yaratish va diqqatni yo'naltirish",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Rassomning 'iste'dod va qobiliyat' talab etilishi qaysi nisbatan aytiladi?",
+     "variantlar": [
+      "A) Shaharni sayohat qilish",
+      "B) Qalam sotish",
+      "C) Etud va rasm ishini, jarayonlarni jonlantirish, nozik farqlarni tasvirga o'tkazish",
+      "D) Do'stlar topish"
+     ],
+     "TO'G'RI_JAVOB": "C) Etud va rasm ishini, jarayonlarni jonlantirish, nozik farqlarni tasvirga o'tkazish",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "5-sinf",
+   "kitob": "5-sinf 5-Sinf Tasviriy san’at",
+   "mavzu": "8, 9-darslar. Rangtasvir xususiyatlari",
+   "savollar": [
+    {
+     "savol": "Abu Rayhon Beruniy 'Kitob al-Javohir – ma'rifat al-Javohir' asarida nechta rangning nomini sanab o'tgan?",
+     "variantlar": [
+      "A) 50 ga yaqin",
+      "B) 300 dan ortiq",
+      "C) 100 ga yaqin",
+      "D) 200 dan ortiq"
+     ],
+     "TO'G'RI_JAVOB": "D) 200 dan ortiq",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Spektr ranglar qancha va ularning nomlarining to'g'ri ketma-ketligi qaysi?",
+     "variantlar": [
+      "A) Altita: qizil, sariq, yashil, havorang, ko'k, binafsha",
+      "B) To'qqiz: qizil, zarg'aldoq, sariq, oq, yashil, havorang, ko'k, binafsha, qora",
+      "C) Yetti: qizil, zarg'aldoq, sariq, yashil, havorang, ko'k, binafsha",
+      "D) Besh: qizil, sariq, yashil, ko'k, binafsha"
+     ],
+     "TO'G'RI_JAVOB": "C) Yetti: qizil, zarg'aldoq, sariq, yashil, havorang, ko'k, binafsha",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Iliq ranglarga qaysi ranglar kiradi?",
+     "variantlar": [
+      "A) Ko'k, havorang, yashil",
+      "B) Qizil, sariq, zarg'aldoq",
+      "C) Qora, oq, qo'ng'ir",
+      "D) Binafsha, ko'k-yashil, ko'k-binafsha"
+     ],
+     "TO'G'RI_JAVOB": "B) Qizil, sariq, zarg'aldoq",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Sovuq ranglarga qaysi ranglar kiradi?",
+     "variantlar": [
+      "A) Ko'k, havorang, yashil va ularning aralashmasidan hosil bo'lgan ranglar",
+      "B) Qizil, sariq, zarg'aldoq",
+      "C) Qora, oq, qumrang",
+      "D) Sariq, zarg'aldoq, qora"
+     ],
+     "TO'G'RI_JAVOB": "A) Ko'k, havorang, yashil va ularning aralashmasidan hosil bo'lgan ranglar",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Rangning asosiy xususiyatlari nimalar?",
+     "variantlar": [
+      "A) Yuqoriligi va pastligi",
+      "B) Tusi, och-to'qligi va to'yinganligi",
+      "C) Qolupligi va to'rtburchaklilik",
+      "D) Uzunligi va kengigi"
+     ],
+     "TO'G'RI_JAVOB": "B) Tusi, och-to'qligi va to'yinganligi",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Buyumlarning lokal rangi deyilganda nima tushuniladi?",
+     "variantlar": [
+      "A) Buyumning asl rangi",
+      "B) Rang qo'shimcha toifasi",
+      "C) Rangni o'zgartiradigan jarayon",
+      "D) Rang tezligining o'lchami"
+     ],
+     "TO'G'RI_JAVOB": "A) Buyumning asl rangi",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Nyuton spektr ranglarini qancha bo'lakka bo'lib, uni doira shaklida joylashtirdi?",
+     "variantlar": [
+      "A) Yetti bo'lakka",
+      "B) Besh bo'lakka",
+      "C) To'qqiz bo'lakka",
+      "D) Olti bo'lakka"
+     ],
+     "TO'G'RI_JAVOB": "A) Yetti bo'lakka",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ranglarning nomini ifodalovchi belgi nima deb ataymiz?",
+     "variantlar": [
+      "A) Tusi indeksi",
+      "B) Spektr nomi",
+      "C) Rang doirasi",
+      "D) Rang tusi"
+     ],
+     "TO'G'RI_JAVOB": "D) Rang tusi",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "I. Gyote nima o'rgangan?",
+     "variantlar": [
+      "A) Spektr ranglarining tuzilishini",
+      "B) Oq yorug'likni bo'linishini",
+      "C) Ranglarning ta'sirini, ranglar orqali inson rangni qanday idrok etishini",
+      "D) Buyumlarning ranglarini almashtirish usullari"
+     ],
+     "TO'G'RI_JAVOB": "C) Ranglarning ta'sirini, ranglar orqali inson rangni qanday idrok etishini",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Inson ko'zi kunduzgi tabiiy yorug'likda nechta rang tusini ajrata oladi?",
+     "variantlar": [
+      "A) 250 dan ortiq",
+      "B) 180 ga yaqin",
+      "C) 50 ga yaqin",
+      "D) 100 ga yaqin"
+     ],
+     "TO'G'RI_JAVOB": "B) 180 ga yaqin",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Agarda biron-bir rangga kulrang bo'yoqni qo'shsak, uning rangi va to'yinganligi qanday o'zgaradi?",
+     "variantlar": [
+      "A) Rang oyog'lanadi, to'yinganligi ortadi",
+      "B) Rang xiralanadi, to'yinganligi o'zgaradi",
+      "C) Rang quyoshlanadi, to'yinganligi sust bo'ladi",
+      "D) Rang deyarli o'zgarib qolmaydi"
+     ],
+     "TO'G'RI_JAVOB": "B) Rang xiralanadi, to'yinganligi o'zgaradi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ranglarning ko'pgina nomlari qayerdan to'g'ridan to'g'ri olingan?",
+     "variantlar": [
+      "A) Tabiatdagi narsalarning ranglaridan",
+      "B) Kitoblardan",
+      "C) Ilmiy tadqiqotlardan",
+      "D) Kompyuterdan"
+     ],
+     "TO'G'RI_JAVOB": "A) Tabiatdagi narsalarning ranglaridan",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Qumrang, dengiz to'lqini rangi, zumradrang, shokoladrang kabi nomlar nima uchun berilgan?",
+     "variantlar": [
+      "A) Spektr ranglarini belgilash uchun",
+      "B) Tasodifiy ravishda",
+      "C) San'at qoidalari bo'yicha",
+      "D) Tabiatdagi konkret narsalarning ranglarini taqlid qilish orqali"
+     ],
+     "TO'G'RI_JAVOB": "D) Tabiatdagi konkret narsalarning ranglarini taqlid qilish orqali",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Iliq ranglar (qizil, sariq, zarg'aldoq) tabiatda nimani ko'rsatavchi ranglar hisoblanadi?",
+     "variantlar": [
+      "A) Qor va muzni",
+      "B) Sovuq va shirin narsalarni",
+      "C) Suv va tengizni",
+      "D) Quyosh va olovga o'xshab tabiatda iliqlikni"
+     ],
+     "TO'G'RI_JAVOB": "D) Quyosh va olovga o'xshab tabiatda iliqlikni",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Nyuton optik prizmadan foydalanib nima isbotladi?",
+     "variantlar": [
+      "A) Manzaralarning turlari ko'p ekanligini",
+      "B) Yorug'likni rangga aylanganligini",
+      "C) Spektr ranglarini sanoq bo'yicha bo'lishni",
+      "D) Oq yorug'likni"
+     ],
+     "TO'G'RI_JAVOB": "B) Yorug'likni rangga aylanganligini",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Rivojlangan inson ko'zi nechta rang tusini maksimal farqlashi mumkin?",
+     "variantlar": [
+      "A) 200 dan ortiq",
+      "B) 500 dan ortiq",
+      "C) 180 ga yaqin",
+      "D) 360 ga yaqin"
+     ],
+     "TO'G'RI_JAVOB": "D) 360 ga yaqin",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Rangning to'yinganligi nima bilan ifodalanadi?",
+     "variantlar": [
+      "A) Rang ta'sirining kuchidan",
+      "B) Rang nomidan",
+      "C) Kulrangning och-to'qlik darajasi va rang bilan teng bo'lgan farqidan",
+      "D) Rang uzunligidan"
+     ],
+     "TO'G'RI_JAVOB": "C) Kulrangning och-to'qlik darajasi va rang bilan teng bo'lgan farqidan",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Sharqda olimlar va shoirlar nechta rang turi ajrata olganlar?",
+     "variantlar": [
+      "A) Yuzdan ortiq",
+      "B) 50 ga yaqin",
+      "C) 300 ga yaqin",
+      "D) 200 dan ortiq"
+     ],
+     "TO'G'RI_JAVOB": "A) Yuzdan ortiq",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Nyutonning spektr ranglarini yetti bo'lakka bo'lib, doira shaklida joylashtirish ixtirosi ilmiy jihatdan nima berdi?",
+     "variantlar": [
+      "A) Ranglarning fizik tabiati haqida aniq tasavvurga ega qildi",
+      "B) San'atda rangdan foydalanish usullarini",
+      "C) Faqat ranglarni nomlamak uchun",
+      "D) Tabiatdagi ranglarni hisoblash uchun"
+     ],
+     "TO'G'RI_JAVOB": "A) Ranglarning fizik tabiati haqida aniq tasavvurga ega qildi",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Abu Rayhon Beruniy, Nyuton va sharq olimlarining ranglar haqidagi tadqiqotlarining asosiy maqsadi nima bo'lgan deb o'ylaysiz?",
+     "variantlar": [
+      "A) Faqat ranglarni sanash",
+      "B) Faqat spektr rang to'g'rida bilim berish",
+      "C) Ranglarning turlari, ma'nolari, fizik tabiati hamda inson sog'lig'iga ta'sirini to'liq o'rganish",
+      "D) Ranglarning san'atdagi foydalanish usullarini o'rgatish"
+     ],
+     "TO'G'RI_JAVOB": "C) Ranglarning turlari, ma'nolari, fizik tabiati hamda inson sog'lig'iga ta'sirini to'liq o'rganish",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Iliq ranglar (olovga o'xshab) va sovuq ranglar (muzga o'xshab) insonning tasavvuri va his-tuyg'ularida nima uchun farq qiladi?",
+     "variantlar": [
+      "A) Ranglarning nomli bo'lmasidan",
+      "B) Nyutonning ixtiroasidan",
+      "C) Spektr ranglarining sonidan",
+      "D) Tabiatda inson tajribasi tufayli konkret narsalarga mos keladigan ranglar rangning tusi bilan assotsiatsiyalashadi"
+     ],
+     "TO'G'RI_JAVOB": "D) Tabiatda inson tajribasi tufayli konkret narsalarga mos keladigan ranglar rangning tusi bilan assotsiatsiyalashadi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Nima uchun inson ko'zi 180 ga yaqin rang tusini ajrata oladi, ammo rivojlangan inson ko'zi 360 ga yaqin rangni farqlay oladi?",
+     "variantlar": [
+      "A) Inson vaqt davomida ko'rang ko'rgani tufayli",
+      "B) Kozi almashtirilgan tufayli",
+      "C) Spektr ranglar ko'paygan tufayli",
+      "D) Rivojlangan inson ko'zi o'qitilish va tarbiya tufayli rang farqini to'liq idroki mumkin bo'ladi"
+     ],
+     "TO'G'RI_JAVOB": "D) Rivojlangan inson ko'zi o'qitilish va tarbiya tufayli rang farqini to'liq idroki mumkin bo'ladi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Rangning tusi, och-to'qligi va to'yinganligi o'zaro qanday munosabatda bo'ladi?",
+     "variantlar": [
+      "A) Hech qanday bog'liqligi yo'q",
+      "B) Faqat to'yinganligi muhim",
+      "C) Faqat tusi rang haqida bilim beradi",
+      "D) Tusi buyumni nomlaydi, och-to'qligi yorug'likni ifodalaydi, to'yinganligi esa rangdagi tozalik darajasini ko'rsatadi hamda ular birga rang xususiyatlarini to'liq tuzadi"
+     ],
+     "TO'G'RI_JAVOB": "D) Tusi buyumni nomlaydi, och-to'qligi yorug'likni ifodalaydi, to'yinganligi esa rangdagi tozalik darajasini ko'rsatadi hamda ular birga rang xususiyatlarini to'liq tuzadi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Sovuq ranglar (ko'k, havorang, yashil) insonning tasavvurida sovuq narsalarni (muz, qor, suv, oy nuri) uyg'otishi nima asosida sodir bo'ladi?",
+     "variantlar": [
+      "A) Nyutonning formulalari asosida",
+      "B) Rang nomlarining uzunligi asosida",
+      "C) Tabiatdagi narsalar va ranglar o'rtasidagi sog'landirilgan bog'lanish va inson ongidagi assotsiatsiyalari asosida",
+      "D) Spektr ranglari ketma-ketligi asosida"
+     ],
+     "TO'G'RI_JAVOB": "C) Tabiatdagi narsalar va ranglar o'rtasidagi sog'landirilgan bog'lanish va inson ongidagi assotsiatsiyalari asosida",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "I. Gyote nima uchun rangli shishalar orqali bitta manzarani turlicha ko'rish tajribasini olib borgan?",
+     "variantlar": [
+      "A) Faqat o'yin uchun",
+      "B) Rang ta'sirini va ranglarning inson tasavvuri, fikrlari va idrokiga qanday ta'sir qilishini o'rganish uchun",
+      "C) Shishalarga rasm chizish uchun",
+      "D) Yoritgichni o'zgartirishni o'rganish uchun"
+     ],
+     "TO'G'RI_JAVOB": "B) Rang ta'sirini va ranglarning inson tasavvuri, fikrlari va idrokiga qanday ta'sir qilishini o'rganish uchun",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Agarda biron-bir rangga kulrang bo'yoqni qo'shilsa, rang xiralanadi va to'yinganligi o'zgaradi - bu nima bo'lganligini to'g'ri tushuntiring?",
+     "variantlar": [
+      "A) Rangning tuzilishiga rang bo'lmagan kulrang aralashti, shuning uchun rangning och-to'qligi va to'yinganligi o'zgaradi",
+      "B) Shisha bo'yoq yangi rangga o'zgartirildi",
+      "C) Rangning tuzilishi tubdan o'zgardi va yangi rang paydo bo'ldi",
+      "D) Rang to'liq yo'q bo'lib ketdi"
+     ],
+     "TO'G'RI_JAVOB": "A) Rangning tuzilishiga rang bo'lmagan kulrang aralashti, shuning uchun rangning och-to'qligi va to'yinganligi o'zgaradi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Abu Rayhon Beruniy 200 dan ortiq rang nomasini sanab o'tib, ularning kelib chiqishini o'rgangan bo'lsa, Nyuton esa spektr ranglarini yetti bo'lakka bo'lib fizik tabiati haqida aniq tasavvur berilsa, bu ikki olimning tadqiqotlari bir-biriga qanday munosabatda?",
+     "variantlar": [
+      "A) Hech qanday bog'liqligi yo'q",
+      "B) Beruniy to'g'ri aytmagan",
+      "C) Nyuton oldingi bo'lgan",
+      "D) Beruniy ranglarning nomli, praktik jihatlari bo'lsa, Nyuton ranglarning ilmiy, fizik tabiati haqidagi tajriba berdi hamda ular bir-birini to'ldiradi"
+     ],
+     "TO'G'RI_JAVOB": "D) Beruniy ranglarning nomli, praktik jihatlari bo'lsa, Nyuton ranglarning ilmiy, fizik tabiati haqidagi tajriba berdi hamda ular bir-birini to'ldiradi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Agar manzarani yashil shisha orqali ko'rsak, u boshqacha ko'rinadi. Buning sababini aniqlantirib, inson manzaraning idrokida qanday o'zgarish sodir bo'ladi?",
+     "variantlar": [
+      "A) Manzara mutlaqo o'zgarib ketadi",
+      "B) Yashil shisha orqali ko'rilsa manzaradagi yashil ranglar ko'proq, qizil-sariq ranglar kam ko'rinadi, ranglarning assotsiatsiyasi o'zgarib sovuq, shirin tuyg'ular ustunlik qiladi va manzara idrokining kayfiyati o'zgaradi",
+      "C) Yashil rang asosiy rang bo'lib chiqadi",
+      "D) Manzara qora-oq bo'lib ketadi"
+     ],
+     "TO'G'RI_JAVOB": "B) Yashil shisha orqali ko'rilsa manzaradagi yashil ranglar ko'proq, qizil-sariq ranglar kam ko'rinadi, ranglarning assotsiatsiyasi o'zgarib sovuq, shirin tuyg'ular ustunlik qiladi va manzara idrokining kayfiyati o'zgaradi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Matanda Abu Rayhon Beruniy, Abu Ali ibn Sino, Kamoliddin Behzod kabi sharq allomalarining ranglar haqidagi ilmiy asarlar yozishlari nimani ko'rsatadi?",
+     "variantlar": [
+      "A) Faqat tiling to'g'risi muhim edi",
+      "B) Ranglar faqat tasvir qilish uchun kerak",
+      "C) Sharq xalqlari ranglarni bilmagan",
+      "D) Sharq ilmi, san'ati va madaniyatida ranglar juda muhim o'rin tutib, olimlar va xonandalar ranglarni chuqur o'rganib, ularni amaliyotda qo'llagan"
+     ],
+     "TO'G'RI_JAVOB": "D) Sharq ilmi, san'ati va madaniyatida ranglar juda muhim o'rin tutib, olimlar va xonandalar ranglarni chuqur o'rganib, ularni amaliyotda qo'llagan",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "5-sinf",
+   "kitob": "5-sinf 5-Sinf Tasviriy san’at",
+   "mavzu": "10-dars. Rangtasvir va grafikada manzara",
+   "savollar": [
+    {
+     "savol": "Rangtasvir san'atida o'zaro bog'liqlik va tuzilishni bildiruvchi shuning nomi nima?",
+     "variantlar": [
+      "A) Ritm",
+      "B) Perspektiva",
+      "C) Kompozitsiya",
+      "D) Kolorit"
+     ],
+     "TO'G'RI_JAVOB": "C) Kompozitsiya",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Quyidagilardan qaysi bo'yoq rangtasvir asarlarini yaratishda ishlatilmaydi?",
+     "variantlar": [
+      "A) Moybo'yoq",
+      "B) Ko'mir",
+      "C) Guash",
+      "D) Akvarel"
+     ],
+     "TO'G'RI_JAVOB": "B) Ko'mir",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Grafika san'ati asarlarida asosan qanday bo'yoqlar yordamida aks ettiriladi?",
+     "variantlar": [
+      "A) Turli rangli bo'yoqlar",
+      "B) Qarang bo'yoqlar",
+      "C) Shaffof bo'yoqlar",
+      "D) Oq-qora bo'yoqlar yoki chiziqlar"
+     ],
+     "TO'G'RI_JAVOB": "D) Oq-qora bo'yoqlar yoki chiziqlar",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Grafika san'ati turlariga quyidagilardan qaysi kiradi?",
+     "variantlar": [
+      "A) Manzara va miniatyura",
+      "B) Etud va etyud",
+      "C) Dastgohli grafika, plakat, gazeta-jurnal grafika",
+      "D) Portret va naturmort"
+     ],
+     "TO'G'RI_JAVOB": "C) Dastgohli grafika, plakat, gazeta-jurnal grafika",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Manzara nima?",
+     "variantlar": [
+      "A) Amaliy san'atning turi",
+      "B) Turli buyumlarning jihatini tasvirlash",
+      "C) Ma'lum bir joyning ko'rinishi yoki tasviri",
+      "D) Insonning portretini tasvirlash san'ati"
+     ],
+     "TO'G'RI_JAVOB": "C) Ma'lum bir joyning ko'rinishi yoki tasviri",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "O'zbekistonda manzara janriga asos solgan mashhur rassom kim?",
+     "variantlar": [
+      "A) R.Ahmedov",
+      "B) N.G.Karaxan",
+      "C) P.P.Benkov",
+      "D) O'.Tansiqboyev"
+     ],
+     "TO'G'RI_JAVOB": "D) O'.Tansiqboyev",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Plakat usta N.Tenning asarlarida qanday mavzular yoritiladi?",
+     "variantlar": [
+      "A) Hayotiy va ekologik mavzular",
+      "B) Faqat tarixi mavzular",
+      "C) Faqat tabiat manzaralari",
+      "D) Faqat xalq san'ati"
+     ],
+     "TO'G'RI_JAVOB": "A) Hayotiy va ekologik mavzular",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Dastgohli grafika asarlari qaysi asboblarda ishlanadi?",
+     "variantlar": [
+      "A) Faqat kompyuterlarda",
+      "B) Faqat foto kamerasi orqali",
+      "C) Molbertlarda qalam, ko'mir, tush, akvarel, tempera kabi vositalar bilan",
+      "D) Faqat to'g'ri qalamda"
+     ],
+     "TO'G'RI_JAVOB": "C) Molbertlarda qalam, ko'mir, tush, akvarel, tempera kabi vositalar bilan",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Manzara o'rta asrlarda qaysi mamlakatlarida rivoj topdi?",
+     "variantlar": [
+      "A) Xitoy va Yaponiyada",
+      "B) Faqat Italiyada",
+      "C) Faqat Germaniyada",
+      "D) Faqat Arabistonda"
+     ],
+     "TO'G'RI_JAVOB": "A) Xitoy va Yaponiyada",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Tabiatning obrazli manzarasini chizishda nima qoidalariga rioya qilish lozim?",
+     "variantlar": [
+      "A) Faqat ritm qoidasiga",
+      "B) Faqat ranglar qoidasiga",
+      "C) Chiziqli va fazoviy perspektiva qoidalariga",
+      "D) Faqat rang perspektivasiga"
+     ],
+     "TO'G'RI_JAVOB": "C) Chiziqli va fazoviy perspektiva qoidalariga",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Rangtasvir asarini yaratishda kolorit deb nimani aytadi?",
+     "variantlar": [
+      "A) Chiziqlar tekis takrorlanishi",
+      "B) Ranglarning uyg'unligi va harmoniyasi",
+      "C) Rang kontrasti",
+      "D) Asardagi narsalarning shakli"
+     ],
+     "TO'G'RI_JAVOB": "B) Ranglarning uyg'unligi va harmoniyasi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "T.Yu.Muhamedov o'zbek xalq ertaklari ga chizgan miniatura suratlarida nimani tasvirlamoqda?",
+     "variantlar": [
+      "A) Sharqona hayot tarzi, manzara, binolar, liboslar va muhitni yengil chiziqlarda",
+      "B) Shahar hayoti",
+      "C) O'zbek dinastiyasi",
+      "D) Faqat xalq muzikal instrumentlari"
+     ],
+     "TO'G'RI_JAVOB": "A) Sharqona hayot tarzi, manzara, binolar, liboslar va muhitni yengil chiziqlarda",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Rassom N.G.Karaxan chizgan tabiat manzaralarini qanday hususiyat bilan tavsif qilish mumkin?",
+     "variantlar": [
+      "A) Qora va oq ranglarini faqat",
+      "B) Qora rangning ustunligi bilan",
+      "C) Dekorativligi, sharqqa xos jilvasi va yorqinligi",
+      "D) Faqat sodda chiziqlari bilan"
+     ],
+     "TO'G'RI_JAVOB": "C) Dekorativligi, sharqqa xos jilvasi va yorqinligi",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "O'.Tansiqboyevning \"Issiqko'l oqshomi\" asari qanday yaratilgan?",
+     "variantlar": [
+      "A) Mo'yqalam yordamida",
+      "B) Akvarel bilan",
+      "C) Rangli qalamda",
+      "D) Guash bilan"
+     ],
+     "TO'G'RI_JAVOB": "A) Mo'yqalam yordamida",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ertalabki manzarani chizishda rassom qanday tasvir etishi kerak?",
+     "variantlar": [
+      "A) Faqat oq-qora ranglarni",
+      "B) Orqa ko'rinish xiralashgan, oldida joylashgan narsalar aniqroq",
+      "C) Barcha narsalar teng aniqlik bilan",
+      "D) Barcha narsalarni bitta rang bilan"
+     ],
+     "TO'G'RI_JAVOB": "B) Orqa ko'rinish xiralashgan, oldida joylashgan narsalar aniqroq",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Kechqurun manzarasida osmon va narsalar qanday ko'rinadi?",
+     "variantlar": [
+      "A) Faqat qora rang",
+      "B) Osmon tusida barliq aniqroq ko'rinadi",
+      "C) Juda yorug'",
+      "D) Xiralashgan"
+     ],
+     "TO'G'RI_JAVOB": "B) Osmon tusida barliq aniqroq ko'rinadi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "G'ofur Abduraxmnovning \"Qo'shiq\" asariga nazar tashlasak, unda nimani kuzatishimiz mumkin?",
+     "variantlar": [
+      "A) Tabiatning jozibali ohanglari va inson qalbidagi tuyg'ularning hamohang jaranglashini",
+      "B) Faqat tog'larni",
+      "C) Faqat kichik hayvonlarni",
+      "D) Faqat daraxtzorlarni"
+     ],
+     "TO'G'RI_JAVOB": "A) Tabiatning jozibali ohanglari va inson qalbidagi tuyg'ularning hamohang jaranglashini",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Manzarani tasvirlashda kontrastli yoki mayin tarzda bajarish nima maqsadida qilinadi?",
+     "variantlar": [
+      "A) Asarning hajmini ko'paytirish",
+      "B) Tabiat obrazi ta'sirchanligini oshirish va uning aniq holatini ifoda etish",
+      "C) Rang sonini kamaytirish",
+      "D) Rassom mehnatini taqlillashtirish"
+     ],
+     "TO'G'RI_JAVOB": "B) Tabiat obrazi ta'sirchanligini oshirish va uning aniq holatini ifoda etish",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "P.P.Benkov o'z suratlarida qanday ko'rinishlarni tasvirlamoqda?",
+     "variantlar": [
+      "A) O'zbek respublikasining go'zal tabiyati, o'zbek xalqining hayoti va mehnati",
+      "B) Faqat xayvonlar",
+      "C) Faqat ko'kalamni",
+      "D) Faqat shaharni"
+     ],
+     "TO'G'RI_JAVOB": "A) O'zbek respublikasining go'zal tabiyati, o'zbek xalqining hayoti va mehnati",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Manzara etudlari nima uchun tayyorlanadi?",
+     "variantlar": [
+      "A) Kitob bezoshini uchun",
+      "B) Vaqt o'tkazish uchun",
+      "C) Faqat savdo uchun",
+      "D) Tabiatning alohida qismlari va vaqtdagi holatlarini o'rganish uchun"
+     ],
+     "TO'G'RI_JAVOB": "D) Tabiatning alohida qismlari va vaqtdagi holatlarini o'rganish uchun",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Rangtasvir san'atining tasvirlash vositalariga kompozitsiya, kolorit, ritm va rang kontrasti kiradi. Ushbu vositalardan qaysi biri asardagi narsalarning bir xil rangni o'z atrofi dagi ranglarga mos idrok qilinishini bildiradi?",
+     "variantlar": [
+      "A) Ritm",
+      "B) Rang kontrasti",
+      "C) Rang perspektivasi",
+      "D) Kolorit"
+     ],
+     "TO'G'RI_JAVOB": "B) Rang kontrasti",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Agar rassom ertalabki manzarani chizmoqchi bo'lsa va orqa ko'rinish xiralashib tasvirlangan bo'lsa, bu qanday sabaga asoslanadi?",
+     "variantlar": [
+      "A) Qog'ozning sifatisiga",
+      "B) Rassom yoshi",
+      "C) Rassom tajribasiga",
+      "D) Ertalabda atmosfera tutun bilan qoplangan bo'lagi"
+     ],
+     "TO'G'RI_JAVOB": "D) Ertalabda atmosfera tutun bilan qoplangan bo'lagi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Manzara san'atining O'zbekistonda shakllanishi va cho'qqiga ko'tarilishida O'.Tansiqboyev erishgan daraja nima sababli muhim qolib qolmoqda?",
+     "variantlar": [
+      "A) U faqat qora qalamda chizgan",
+      "B) U faqat moybo'yoq ishlamoqchi",
+      "C) U faqat xalq ertaklari chizgan",
+      "D) Uning ijodi klassik tasviriy san'at tarixiga aylangan va ibrat namunalaridan biri"
+     ],
+     "TO'G'RI_JAVOB": "D) Uning ijodi klassik tasviriy san'at tarixiga aylangan va ibrat namunalaridan biri",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Tabiatda yangilanayotgan holat (bahor, bahori yangilikov) rassom tomonidan qanday ifodalanish mumkin?",
+     "variantlar": [
+      "A) Faqat tekst orqali",
+      "B) Faqat qora chiziqlar orqali",
+      "C) Yorug'lik, ranglar o'zgarishi, narsalar jonlanishi orqali",
+      "D) Faqat raqamlar orqali"
+     ],
+     "TO'G'RI_JAVOB": "C) Yorug'lik, ranglar o'zgarishi, narsalar jonlanishi orqali",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "N.Ten rassom \"Orol\" plakati orqali qanday muhim muammoni yoritmoqda?",
+     "variantlar": [
+      "A) Tabiatni muhofaza qilish, hayvonot olamini asrash va Orol dengizi muammosi",
+      "B) Qahva ishlab chiqarish",
+      "C) O'zbek xalq san'ati",
+      "D) Automobil industriyasi"
+     ],
+     "TO'G'RI_JAVOB": "A) Tabiatni muhofaza qilish, hayvonot olamini asrash va Orol dengizi muammosi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Dastgohli grafika, gazeta-jurnal grafika, plakat va amaliy grafikaning hammasida qanday umumiy xususiyat bor?",
+     "variantlar": [
+      "A) Barcha ular rang qo'llanadi",
+      "B) Barcha ular oq-qora yoki chiziqlar yordamida ifodalanadi",
+      "C) Barcha ular faqat qog'ozga ishlanadi",
+      "D) Barcha ular kitobga chiziladi"
+     ],
+     "TO'G'RI_JAVOB": "B) Barcha ular oq-qora yoki chiziqlar yordamida ifodalanadi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Agar rassom manzara tasvirida \"iliq\" va \"sovuq\" ranglarni birga qo'llasa, bu qanday ta'sir ko'rsatadi?",
+     "variantlar": [
+      "A) Tabiat obrazi ta'sirchanligini va emosional ta'sirini oshiradi",
+      "B) Asarning hajmiga ta'sir etmaydi",
+      "C) Rasm narxiga ta'sir etadi",
+      "D) Rassom mehnatining samaradorligiga ta'sir etmaydi"
+     ],
+     "TO'G'RI_JAVOB": "A) Tabiat obrazi ta'sirchanligini va emosional ta'sirini oshiradi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Rassom A.Mo'minovning \"Bo'ronli kun\" asarida tabiat obrazi qanday ifodalangan bo'ladi?",
+     "variantlar": [
+      "A) Harakat, bulutlar, shamol va tabiatning kuchli holatiga uymali",
+      "B) Faqat ranglar",
+      "C) Faqat daraxtzor",
+      "D) Faqat osmon"
+     ],
+     "TO'G'RI_JAVOB": "A) Harakat, bulutlar, shamol va tabiatning kuchli holatiga uymali",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Tabiatning obrazli manzarasini chizishda uzoqlashgan narsalar qanday ko'rinadi va nima sodir bo'ladi?",
+     "variantlar": [
+      "A) Kattaroq va aniqroq ko'rinadi",
+      "B) Kichrayib, xiralashib boradi, ularning ko'rinishi va rangi o'zgaradi",
+      "C) Rang ko'paytadi",
+      "D) O'chib ketib boradi"
+     ],
+     "TO'G'RI_JAVOB": "B) Kichrayib, xiralashib boradi, ularning ko'rinishi va rangi o'zgaradi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Tabiatning obrazli manzarasini chizishda jonli tabiatni his qilish, uning ko'rkamligini ilg'ay olish va qiziquvchanlik nima uchun muhim?",
+     "variantlar": [
+      "A) Faqat o'qituvchini mamnun qilish uchun",
+      "B) Vaqt o'tkazish uchun",
+      "C) Pul ishlash uchun",
+      "D) Har bir tabiat obrazi manzarasini tasvirlashning yechimiga mezon bo'ladi"
+     ],
+     "TO'G'RI_JAVOB": "D) Har bir tabiat obrazi manzarasini tasvirlashning yechimiga mezon bo'ladi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "5-sinf",
+   "kitob": "5-sinf 5-Sinf Tasviriy san’at",
+   "mavzu": "12-dars. Sharqona shahar tasvirining eskizini ishlash",
+   "savollar": [
+    {
+     "savol": "Samarqanddagi qaysi madrasasi sharqona uslubda ishlangan tarixiy inshoot hisoblanadi?",
+     "variantlar": [
+      "A) Ulug'bek madrasasi",
+      "B) Masjidi Kalon",
+      "C) Ko'kaldosh madrasasi",
+      "D) Hastimom madrasasi"
+     ],
+     "TO'G'RI_JAVOB": "A) Ulug'bek madrasasi",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Buxorodagi qaysi inshoot sharqona uslubda qurilgan?",
+     "variantlar": [
+      "A) Ichan qal'a burji",
+      "B) Ulug'bek madrasasi",
+      "C) Ko'kaldosh madrasasi",
+      "D) Masjidi Kalon"
+     ],
+     "TO'G'RI_JAVOB": "D) Masjidi Kalon",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Xivadagi qaysi inshoot sharqona uslubda ishlangan?",
+     "variantlar": [
+      "A) Masjidi Kalon",
+      "B) Ko'kaldosh madrasasi",
+      "C) Hastimom madrasasi",
+      "D) Ichan qal'a burji"
+     ],
+     "TO'G'RI_JAVOB": "D) Ichan qal'a burji",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Toshkent shahridagi qaysi madrasasi sharqona uslubda qurilgan?",
+     "variantlar": [
+      "A) Ulug'bek madrasasi",
+      "B) Hastimom madrasasi",
+      "C) Ko'kaldosh madrasasi",
+      "D) Masjidi Kalon"
+     ],
+     "TO'G'RI_JAVOB": "C) Ko'kaldosh madrasasi",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Hastimom madrasasi qayda joylashgan?",
+     "variantlar": [
+      "A) Toshkentda",
+      "B) Samarqandda",
+      "C) Xivada",
+      "D) Buxoroda"
+     ],
+     "TO'G'RI_JAVOB": "A) Toshkentda",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Sharqona uslubda ishlangan tarixiy inshootlar necha ta?",
+     "variantlar": [
+      "A) 6 ta",
+      "B) 3 ta",
+      "C) 5 ta",
+      "D) 4 ta"
+     ],
+     "TO'G'RI_JAVOB": "C) 5 ta",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Sharqona shahar chizishdan oldin nima qilish kerak?",
+     "variantlar": [
+      "A) Faqat qora chiziq bilan chizish",
+      "B) Rang varietasini tanlash",
+      "C) Alohida binolar ko'rinishini tasvirlab, biron-bir kompozitsiya tuzish",
+      "D) Darhol ranglar bilan ishlash"
+     ],
+     "TO'G'RI_JAVOB": "C) Alohida binolar ko'rinishini tasvirlab, biron-bir kompozitsiya tuzish",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Shahar kompozitsiyasini chizishda taassurotlarning umumiy joylashuvi qanday tushiriladi?",
+     "variantlar": [
+      "A) Chiziqlar bilan qog'ozga",
+      "B) Ranglar orqali",
+      "C) Faqat qalamda",
+      "D) Qalamda bo'yoq bilan"
+     ],
+     "TO'G'RI_JAVOB": "A) Chiziqlar bilan qog'ozga",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Sharqona shahar ko'rinishini ishlashda iliq yoki sovuq ranglar qanday ishlatiladi?",
+     "variantlar": [
+      "A) Asosiy ranglar dog'i va tusi",
+      "B) Faqat sovuq ranglar",
+      "C) Faqat iliq ranglar",
+      "D) Faqat qizil va ko'k ranglar"
+     ],
+     "TO'G'RI_JAVOB": "A) Asosiy ranglar dog'i va tusi",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Sharqona shahar eskizini ishlashda eng oxirgi bosqich nima?",
+     "variantlar": [
+      "A) Qalamda chizish",
+      "B) Umumlashtirib tugallash",
+      "C) Binolar ko'rinishini tasvirlab chiqish",
+      "D) Ranglarni qo'llash"
+     ],
+     "TO'G'RI_JAVOB": "B) Umumlashtirib tugallash",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Sharqona shahar eskizini ishlashda qanday ketma-ketlikni qo'llash kerak?",
+     "variantlar": [
+      "A) Ranglar va chizishni bir vaqtda",
+      "B) Avval ranglar, keyin qalamda chizish",
+      "C) Faqat qalamda chizish",
+      "D) Avval qalamda chizish, keyin ranglar, mayda ishlovlar, umumlashtirib tugallash"
+     ],
+     "TO'G'RI_JAVOB": "D) Avval qalamda chizish, keyin ranglar, mayda ishlovlar, umumlashtirib tugallash",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Shahar kompozitsiyasi tuziladigan asosiy manba nima?",
+     "variantlar": [
+      "A) Erkin tasavvur va taassurotlar",
+      "B) Boshqa rassomning asari",
+      "C) Fotosurat",
+      "D) Matndan"
+     ],
+     "TO'G'RI_JAVOB": "A) Erkin tasavvur va taassurotlar",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Mayda qismlari aniqlanadi, deb aytilganda nima nazarda tutilmoqda?",
+     "variantlar": [
+      "A) Ranglarni qayta o'zgartirish",
+      "B) Qalamni o'zgartirish",
+      "C) Inshootlarning kichik tafsilotlari va detalyalari",
+      "D) Biroq biroq binolar"
+     ],
+     "TO'G'RI_JAVOB": "C) Inshootlarning kichik tafsilotlari va detalyalari",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Sharqona uslubda qurilgan inshootlar qanday xususiyatga ega?",
+     "variantlar": [
+      "A) Surxondar'ya shaharining",
+      "B) Hamma davlatning",
+      "C) Tarixiy va o'ziga xos ko'rinishga ega",
+      "D) Zamonaviy"
+     ],
+     "TO'G'RI_JAVOB": "C) Tarixiy va o'ziga xos ko'rinishga ega",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Shahar va zamonaviy binolar orasida qanday farq mavjud?",
+     "variantlar": [
+      "A) Hechqanday farq yo'q",
+      "B) Katta farq mavjud",
+      "C) Faqat rang jihatidan",
+      "D) Sharqona uslub ko'p qadimiy"
+     ],
+     "TO'G'RI_JAVOB": "B) Katta farq mavjud",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Sharqona shaharning eskizini chizishdan oldin nima o'rganish kerak?",
+     "variantlar": [
+      "A) Geografiyani",
+      "B) Faqat ranglarni",
+      "C) Rassom kimligini",
+      "D) Tarixiy inshootlarning ko'rinishi va strukturasini"
+     ],
+     "TO'G'RI_JAVOB": "D) Tarixiy inshootlarning ko'rinishi va strukturasini",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ranglash bosqichida asosiy rol nimasi hisoblanadi?",
+     "variantlar": [
+      "A) Asosiy ranglar dog'i va tusi",
+      "B) Faqat siyoh va oq",
+      "C) Faqat ko'k ranglar",
+      "D) Faqat qizil va sariq"
+     ],
+     "TO'G'RI_JAVOB": "A) Asosiy ranglar dog'i va tusi",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Sharqona shahar tasvirida detallari qanday bajariladi?",
+     "variantlar": [
+      "A) Umumiy ko'rinish uchun forakatsiz",
+      "B) Hech qachon tasvir qilinmaydi",
+      "C) Faqat qalamda",
+      "D) Rang qo'llashda va mayda ishlovlar berilganda"
+     ],
+     "TO'G'RI_JAVOB": "D) Rang qo'llashda va mayda ishlovlar berilganda",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Erkin tasavvurda chizish nimani anglatadi?",
+     "variantlar": [
+      "A) O'quvchining xayoli va ijodiy fikrlariga asoslangan tasavvur",
+      "B) Ixtiyoriy rasmni chizish",
+      "C) Fotografiyani taqlid qilish",
+      "D) Boshqaning asarini nusxalash"
+     ],
+     "TO'G'RI_JAVOB": "A) O'quvchining xayoli va ijodiy fikrlariga asoslangan tasavvur",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Shahar tasligi olinishdan keyin qanday ishlar bajariladi?",
+     "variantlar": [
+      "A) Hechnarsa qilinmaydi",
+      "B) Asosiy ranglar dog'i bilan bo'yoqlar orqali tasvirlanadi",
+      "C) Faqat ranglar qo'llaniladi",
+      "D) Qalamda qayta chizish"
+     ],
+     "TO'G'RI_JAVOB": "B) Asosiy ranglar dog'i bilan bo'yoqlar orqali tasvirlanadi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Iliq va sovuq ranglar sharqona shahar tasvirida qanday rol o'ynaydi?",
+     "variantlar": [
+      "A) Faqat dekorasiya",
+      "B) Shaharning taassurot va atmosferasini yaratadi",
+      "C) Hech qanday rol o'ynamaydi",
+      "D) Savolning javobsiz"
+     ],
+     "TO'G'RI_JAVOB": "B) Shaharning taassurot va atmosferasini yaratadi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Sharqona va zamonaviy inshootlar orasidagi farqni nima tushuntiryapti?",
+     "variantlar": [
+      "A) Sharqona uslub ko'p qadim",
+      "B) Tarixiy va madaniy shaklning o'zgaruvchanligini",
+      "C) Hechqanday tafavuti yo'q",
+      "D) Zamonavoy binolar ko'p yangi"
+     ],
+     "TO'G'RI_JAVOB": "B) Tarixiy va madaniy shaklning o'zgaruvchanligini",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Nima sababli alohida binolar ko'rinishini avval tasvirlab chiqish kerak?",
+     "variantlar": [
+      "A) Rang tanlashi uchun",
+      "B) Butun shaharning kompozitsiyasini to'g'ri tuzish uchun",
+      "C) Qalamni tekshirish uchun",
+      "D) Vaqtni o'ldirish uchun"
+     ],
+     "TO'G'RI_JAVOB": "B) Butun shaharning kompozitsiyasini to'g'ri tuzish uchun",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Mayda qismlari aniqlanadi va rangda ishlovlar beriladi desak, bu qanday maqsadda bajariladi?",
+     "variantlar": [
+      "A) Rang test qilish uchun",
+      "B) Vaqt o'tishi uchun",
+      "C) Faqat rasm chiroyi uchun",
+      "D) Shaharning detallari va o'ziga xos xususiyatlarini ta'kidlash uchun"
+     ],
+     "TO'G'RI_JAVOB": "D) Shaharning detallari va o'ziga xos xususiyatlarini ta'kidlash uchun",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Umumlashtirib tugallash jarayonida nima amalga oshadi?",
+     "variantlar": [
+      "A) Butun tasvir ichida harmoniya, birlik yaratib, asosiy tassavvur hosil qilish",
+      "B) Barcha ranglarni aralash qilish",
+      "C) Rasm chizishni to'xtatish",
+      "D) Rasm o'chirib tashlash"
+     ],
+     "TO'G'RI_JAVOB": "A) Butun tasvir ichida harmoniya, birlik yaratib, asosiy tassavvur hosil qilish",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Taassurotlarning umumiy joylashuvi chiziqlar bilan qog'ozga tushirilishining ahamiyati nima?",
+     "variantlar": [
+      "A) Qalamni tekshirish uchun",
+      "B) Faqat vaqt o'tishi uchun",
+      "C) Chiziq qo'llashni o'rganish uchun",
+      "D) Shaharning har bir elementin joyini va nisbatini aniq qilish uchun"
+     ],
+     "TO'G'RI_JAVOB": "D) Shaharning har bir elementin joyini va nisbatini aniq qilish uchun",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Sharqona shahar tasviriyada ijodiy xayol nima rol o'ynaydi?",
+     "variantlar": [
+      "A) Rassom xayoli va ijodiy fikrini ifodalash, shaharning ma'naviy ko'rinishini tasvir qilish",
+      "B) Boshqa davlatlardan nusxa olish",
+      "C) Hech qanday rol",
+      "D) Fotosurat ishlatish"
+     ],
+     "TO'G'RI_JAVOB": "A) Rassom xayoli va ijodiy fikrini ifodalash, shaharning ma'naviy ko'rinishini tasvir qilish",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Asosiy ranglar dog'i nimani anglatadi?",
+     "variantlar": [
+      "A) Rasm uchun tanlangan ranglar majmui, ularning tusi va to'ydagi farqlari",
+      "B) Faqat bitta rang",
+      "C) Barcha mavjud ranglar",
+      "D) Faqat uch rangni ishlatish"
+     ],
+     "TO'G'RI_JAVOB": "A) Rasm uchun tanlangan ranglar majmui, ularning tusi va to'ydagi farqlari",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Erkin tasavvurda shahar chizishning fotosuratdek chizishdan farqi nima?",
+     "variantlar": [
+      "A) Rassom ijodiy xayoli va shaharning ma'naviy o'ziga xosligini ko'rsatadi",
+      "B) Fotosurat ko'proq to'g'ri",
+      "C) Fotosuratni ishlatish taqiqlangan",
+      "D) Vaqt tejash uchun"
+     ],
+     "TO'G'RI_JAVOB": "A) Rassom ijodiy xayoli va shaharning ma'naviy o'ziga xosligini ko'rsatadi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Qalamda chizishdan ranglar bilan bojaytirish bosqichiga o'tishning sababi nima?",
+     "variantlar": [
+      "A) Oddiydan murakkabga, umumiydan xususiyga rivojlantirishga",
+      "B) Tasodifiy jarayon",
+      "C) Qaramaqarshi tartibga",
+      "D) Matematikaga asoslandi"
+     ],
+     "TO'G'RI_JAVOB": "A) Oddiydan murakkabga, umumiydan xususiyga rivojlantirishga",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "5-sinf",
+   "kitob": "5-sinf 5-Sinf Tasviriy san’at",
+   "mavzu": "17-dars. Rangtasvirda naturmort",
+   "savollar": [
+    {
+     "savol": "\"Naturmort\" so'zi qaysi tildan kelib chiqqan?",
+     "variantlar": [
+      "A) Fransuz tilidan",
+      "B) German tilidan",
+      "C) Italyan tilidan",
+      "D) Ingliz tilidan"
+     ],
+     "TO'G'RI_JAVOB": "A) Fransuz tilidan",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "\"Naturmort\" so'zi qanday ma'noni anglatadi?",
+     "variantlar": [
+      "A) Jonli tabiat",
+      "B) Rang sanati",
+      "C) Qalamda chizish",
+      "D) Jonsiz tabiat"
+     ],
+     "TO'G'RI_JAVOB": "D) Jonsiz tabiat",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Naturmort janri qaysi davlatda va qaysi asrning boshlarida paydo bo'lgan?",
+     "variantlar": [
+      "A) Gollandiyada XVII asrning boshlarida",
+      "B) Frantsiyada XVIII asrda",
+      "C) Italiyada XVI asrda",
+      "D) Germaniyada XIX asrda"
+     ],
+     "TO'G'RI_JAVOB": "A) Gollandiyada XVII asrning boshlarida",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Naturmort san'atida ko'pincha nima tasvirlanadi?",
+     "variantlar": [
+      "A) Faqat tog'lar va daraxtlar",
+      "B) Faqat odam va hayvonlar",
+      "C) Mehnat qurollari, sabzavot, mevalar, gullar",
+      "D) Faqat binolar"
+     ],
+     "TO'G'RI_JAVOB": "C) Mehnat qurollari, sabzavot, mevalar, gullar",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Fransiyalik rassom Jan-Batist Simeon Shardenning tanilgan asarining nomi qanday?",
+     "variantlar": [
+      "A) \"San'at atributlari\"",
+      "B) \"Tavuz\"",
+      "C) \"Mevali naturmort\"",
+      "D) \"Gullarning barikasi\""
+     ],
+     "TO'G'RI_JAVOB": "A) \"San'at atributlari\"",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "O'zbekiston tasviriy san'atida naturmort janrining ustalari qaysilari?",
+     "variantlar": [
+      "A) N. Kashina",
+      "B) Shokirjon Alimov",
+      "C) Azimjon Abdullayev",
+      "D) Abdullayev Mirbek"
+     ],
+     "TO'G'RI_JAVOB": "A) N. Kashina",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Naturmort mustaqil janr bo'lishdan tashqari, u mavzuli suratlarda qanday xizmat qiladi?",
+     "variantlar": [
+      "A) Fon bo'lib xizmat qiladi",
+      "B) Kontekstni to'ldiruvchi vasita bo'lib xizmat qiladi",
+      "C) Rangni o'zgartirib turadi",
+      "D) Shaklni almashtiradi"
+     ],
+     "TO'G'RI_JAVOB": "B) Kontekstni to'ldiruvchi vasita bo'lib xizmat qiladi",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "G'. Abdurahmonov \"Tarvuzli naturmort\" asarida nima tasvirlagani?",
+     "variantlar": [
+      "A) Mehnat qurollari",
+      "B) Turli mevalar va poliz ekinlar",
+      "C) Faqat tarvuz",
+      "D) Faqat gullar"
+     ],
+     "TO'G'RI_JAVOB": "B) Turli mevalar va poliz ekinlar",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Naturmort ko'pincha ufq chizig'iga nisbatan qanday joylashtiriladi?",
+     "variantlar": [
+      "A) Yon tomonda",
+      "B) Ufq chizig'ida",
+      "C) Ufq chizig'ining ustida",
+      "D) Ufq chizig'ining pastida"
+     ],
+     "TO'G'RI_JAVOB": "D) Ufq chizig'ining pastida",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Naturmort chizishda qog'ozdan yasalgan maxsus asbob nima deyiladi?",
+     "variantlar": [
+      "A) Shtonkul",
+      "B) Perspektograf",
+      "C) Arkshanosh",
+      "D) Videoiskatel"
+     ],
+     "TO'G'RI_JAVOB": "D) Videoiskatel",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Naturmortda narsalarning joylashtirilishida qaysi asosiy qoida bajariladi?",
+     "variantlar": [
+      "A) Rang bo'yicha joylashtiriladi",
+      "B) Kattalari oldinda joylashtiriladi",
+      "C) Kichiklari oldinda, yiriklari orqa ko'rinishda joylashtiriladi",
+      "D) Hamma bir xil joylashtiriladi"
+     ],
+     "TO'G'RI_JAVOB": "C) Kichiklari oldinda, yiriklari orqa ko'rinishda joylashtiriladi",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Naturmort kompozitsiyasini qog'ozga joylashtirish jarayonida qaysi bosqichlar bajariladi?",
+     "variantlar": [
+      "A) Faqat karandashga chiziladi",
+      "B) Darhol katta o'lchamda chiziladi",
+      "C) Rangli qalamga chiziladi",
+      "D) Kichik o'lchamda xomakilikda chizib ko'riladi, keyin katta o'lchamda bajarilinadi"
+     ],
+     "TO'G'RI_JAVOB": "D) Kichik o'lchamda xomakilikda chizib ko'riladi, keyin katta o'lchamda bajarilinadi",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Naturmort chizishda qaysi prinsipga amal qilinadi?",
+     "variantlar": [
+      "A) Xususiydan umumiyga",
+      "B) Tasodifiy tartibda",
+      "C) Umumiydan xususiyga",
+      "D) Umumiydan xususiyga va xususiydan yana umumiyga"
+     ],
+     "TO'G'RI_JAVOB": "D) Umumiydan xususiyga va xususiydan yana umumiyga",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Naturmortni tasvirlashda qalamni bosmagan holda dastlab nima belgilab olinadi?",
+     "variantlar": [
+      "A) Yorug'lik",
+      "B) Soya",
+      "C) Ranglar",
+      "D) Tasvir o'rni"
+     ],
+     "TO'G'RI_JAVOB": "D) Tasvir o'rni",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Tushuvchi soya narsalarda qanday ma'lumot beradi?",
+     "variantlar": [
+      "A) Faqat shakl",
+      "B) Faqat o'lcham",
+      "C) Faqat rang",
+      "D) Fazoviyligi va materialdan ishlanganligini"
+     ],
+     "TO'G'RI_JAVOB": "D) Fazoviyligi va materialdan ishlanganligini",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Naturmort chizishda yorug'lik manbayi aniqlanishi nima bilan bog'liq?",
+     "variantlar": [
+      "A) Faqat rangli qog'oz bilan",
+      "B) Faqat o'lcham bilan",
+      "C) Tasvir muvozanatining soyaga bog'liqligiga",
+      "D) Karandashlarning sifati bilan"
+     ],
+     "TO'G'RI_JAVOB": "C) Tasvir muvozanatining soyaga bog'liqligiga",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Biror mavzudagi naturmort asarini yaratishda ijodkor birinchi navbatda nima bajaradi?",
+     "variantlar": [
+      "A) Ranglarni sotib oladi",
+      "B) Naturmort yaxlitligicha gavdalanib, xomaki eskizlar chizadi",
+      "C) Rang tanlab oladi",
+      "D) Darhol qog'ozga chizadi"
+     ],
+     "TO'G'RI_JAVOB": "B) Naturmort yaxlitligicha gavdalanib, xomaki eskizlar chizadi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Naturmort kompozitsiyasining asosiy talablari qaysilari?",
+     "variantlar": [
+      "A) Yaxlitlik, simmetriya va ritm",
+      "B) Faqat o'lcham",
+      "C) Faqat rang",
+      "D) Faqat yorug'lik"
+     ],
+     "TO'G'RI_JAVOB": "A) Yaxlitlik, simmetriya va ritm",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Naturmort uchun narsalarni qanday tanlab olinishi kerak?",
+     "variantlar": [
+      "A) Eng ko'pi bo'yicha narsalar",
+      "B) Har xilcha turli narsalar",
+      "C) Tasodifan terilib qolgan narsalar",
+      "D) Yagona mavzudagi va bir-biriga mos narsalar"
+     ],
+     "TO'G'RI_JAVOB": "D) Yagona mavzudagi va bir-biriga mos narsalar",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Naturmort kuzatilish nuqtasi qanday tanlanishi kerak?",
+     "variantlar": [
+      "A) Istalgan joydan",
+      "B) Faqat pastidan",
+      "C) Qiziqarli ko'rish nuqtasidan",
+      "D) Faqat yuqoridan"
+     ],
+     "TO'G'RI_JAVOB": "C) Qiziqarli ko'rish nuqtasidan",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Y. Yelizarovning \"Naturmort\" asarida rassom qaysi texnikani qo'llagan?",
+     "variantlar": [
+      "A) Faqat oq rang bilan",
+      "B) Faqat qoraytirib chizish",
+      "C) Faqat qora soya bilan",
+      "D) Iliq sarg'ish va to'q qizil ranglarni yashiltob kabi turli-tuman ranglar bilan uyg'unlashtirib tasvirish"
+     ],
+     "TO'G'RI_JAVOB": "D) Iliq sarg'ish va to'q qizil ranglarni yashiltob kabi turli-tuman ranglar bilan uyg'unlashtirib tasvirish",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Naturmort compositsiyasining ta'sirchanligiga qaysi omillar ta'sir qiladi?",
+     "variantlar": [
+      "A) Narsalarning o'z soyasi, yorug' qismi va tushuvchi soya",
+      "B) Faqat o'lcham",
+      "C) Faqat rang",
+      "D) Faqat shakl"
+     ],
+     "TO'G'RI_JAVOB": "A) Narsalarning o'z soyasi, yorug' qismi va tushuvchi soya",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Naturmort chizishda \"umumiydan xususiyga\" o'tish jarayoni nima anglatadi?",
+     "variantlar": [
+      "A) Darhol detallarni chizish",
+      "B) Kichikroq detallarni chizishdan avval umumiy tuzilishni chizish",
+      "C) Faqat soya qo'lish",
+      "D) Rang bilan boshlash"
+     ],
+     "TO'G'RI_JAVOB": "B) Kichikroq detallarni chizishdan avval umumiy tuzilishni chizish",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Tasviriy san'atda \"kompozitsiya\" tushunchasi nima?",
+     "variantlar": [
+      "A) Faqat soya qo'lish",
+      "B) Faqat rang chizish",
+      "C) Badiiy asarning mazmuni, xarakteri va maqsadi bilan bog'liq holdagi qurilishi, qismlarning asar g'oyasiga muvofi joylashtiriluishi",
+      "D) Faqat o'lcham belgilash"
+     ],
+     "TO'G'RI_JAVOB": "C) Badiiy asarning mazmuni, xarakteri va maqsadi bilan bog'liq holdagi qurilishi, qismlarning asar g'oyasiga muvofi joylashtiriluishi",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Naturmort compositsiyasida \"simmetriya va asimmetriya\" nima uchun muhim?",
+     "variantlar": [
+      "A) Faqat o'lcham uchun",
+      "B) Naturmortning taqqoslanishi va muvozanatligi yaratish uchun",
+      "C) Faqat soya uchun",
+      "D) Faqat rang uchun"
+     ],
+     "TO'G'RI_JAVOB": "B) Naturmortning taqqoslanishi va muvozanatligi yaratish uchun",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Naturmort compositsiyasini turli ko'rish nuqtalaridan kuzatishda qanday shart bajarilishi kerak?",
+     "variantlar": [
+      "A) Yaxlit bir butun ko'rinishga ega bo'lishi zarur",
+      "B) Rangi o'zgaradi",
+      "C) Soyasi o'zgaradi",
+      "D) Faqat rang ko'rinadi"
+     ],
+     "TO'G'RI_JAVOB": "A) Yaxlit bir butun ko'rinishga ega bo'lishi zarur",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Naturmort chizishda \"perspektiv qisqarishlari\" hisobga olinishi nima uchun zarur?",
+     "variantlar": [
+      "A) Faqat soya uchun",
+      "B) Faqat rang uchun",
+      "C) Narsalarning to'g'ri fazoviyligi va 3D ta'sirini yaratish uchun",
+      "D) Faqat o'lcham uchun"
+     ],
+     "TO'G'RI_JAVOB": "C) Narsalarning to'g'ri fazoviyligi va 3D ta'sirini yaratish uchun",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Naturmort san'atida badiiy obrazni yaratish uchun eng muhimi nima?",
+     "variantlar": [
+      "A) Kompozitsiya",
+      "B) Faqat o'lcham",
+      "C) Faqat rang",
+      "D) Faqat soya"
+     ],
+     "TO'G'RI_JAVOB": "A) Kompozitsiya",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Naturmort chizishdagi \"ritm\" degan tushuncha nima?",
+     "variantlar": [
+      "A) Faqat chiziq",
+      "B) Faqat rang takrorlanishi",
+      "C) Narsalarning takrorlanishi, o'lcham va ranglarning munosib farqi",
+      "D) Faqat soya takrorlanishi"
+     ],
+     "TO'G'RI_JAVOB": "C) Narsalarning takrorlanishi, o'lcham va ranglarning munosib farqi",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Naturmort compositsiyasida \"ikkinchi darajali narsalarga bo'ysunish\" nima anglatadi?",
+     "variantlar": [
+      "A) Faqat rang muhim",
+      "B) Faqat soya muhim",
+      "C) Barcha narsalar tengdir",
+      "D) Muhim narsalar asosiy bo'lib turadi, muhim bo'lmaganlar esa ularni kuchaytiraydi"
+     ],
+     "TO'G'RI_JAVOB": "D) Muhim narsalar asosiy bo'lib turadi, muhim bo'lmaganlar esa ularni kuchaytiraydi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "5-sinf",
+   "kitob": "5-sinf 5-Sinf Tasviriy san’at",
+   "mavzu": "18, 19-darslar. Milliy idishlardan tuzilgan mavzuli naturmort",
+   "savollar": [
+    {
+     "savol": "Akvarel bo'yog'ida milliy idishlardan tuzilgan mavzuli naturmortni bajarish uchun nechta narsadan iborat bo'lgan buyumlar bo'lishi kerak?",
+     "variantlar": [
+      "A) 1-2 ta",
+      "B) 4-5 ta",
+      "C) 3-4 ta",
+      "D) 2-3 ta"
+     ],
+     "TO'G'RI_JAVOB": "D) 2-3 ta",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Naturmortni akvarel bo'yoqlari bilan tasvir qilishda rang munosabatlaridagi mutanasiblikni qachon saqlab borish kerak?",
+     "variantlar": [
+      "A) Yakuniy bosqichda",
+      "B) Tarkibiy qismlari tayinlagach",
+      "C) Eng oxirgi qatlamda",
+      "D) Bo'yoqning dastlabki qatlamini qo'yishdan boshlab"
+     ],
+     "TO'G'RI_JAVOB": "D) Bo'yoqning dastlabki qatlamini qo'yishdan boshlab",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Akvarel bo'yoqlari qurigan paytda ularning rangi qanday o'zgaradi?",
+     "variantlar": [
+      "A) Soyalanadi",
+      "B) Oqaradi",
+      "C) Ko'karoq bo'ladi",
+      "D) To'qaradi"
+     ],
+     "TO'G'RI_JAVOB": "B) Oqaradi",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Har bir narsaning hajmdor shaklini yorug'-soyaning tuslanishi bilan bog'liq bo'lgan nima o'zgaradi?",
+     "variantlar": [
+      "A) Rang o'zgarishlari",
+      "B) Shakli",
+      "C) Joylanishi",
+      "D) Hajmi"
+     ],
+     "TO'G'RI_JAVOB": "A) Rang o'zgarishlari",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Jigarrang idish yarimsoyada va yorug'likda qanday rang turiga ega?",
+     "variantlar": [
+      "A) Xilma-xil rang turiga",
+      "B) Xora rangga",
+      "C) Bir xil rang turiga",
+      "D) Terang rangga"
+     ],
+     "TO'G'RI_JAVOB": "A) Xilma-xil rang turiga",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Fondan tushayotgan reflekslar qanday rangda bo'ladi?",
+     "variantlar": [
+      "A) Siyohrang",
+      "B) Ko'k",
+      "C) Oq",
+      "D) Jigarrang"
+     ],
+     "TO'G'RI_JAVOB": "A) Siyohrang",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Naturmortni tasvirlashda oldida turgan narsani qanday joylashtirish kerak?",
+     "variantlar": [
+      "A) Chetda",
+      "B) Ortada",
+      "C) Tepada",
+      "D) Yaqinroq"
+     ],
+     "TO'G'RI_JAVOB": "D) Yaqinroq",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Uzoqda turgan narsalarning ranglari qanday olinadi?",
+     "variantlar": [
+      "A) Terangdoq va tuyaqqalar",
+      "B) Soyadoroq va chetroq",
+      "C) Yengilroq va xiraroq",
+      "D) To'qroq va osharroq"
+     ],
+     "TO'G'RI_JAVOB": "C) Yengilroq va xiraroq",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ishni boshlashdan oldin qog'ozni nima bilan ho'llanish kerak?",
+     "variantlar": [
+      "A) Rang eritmasi bilan",
+      "B) Toza suv bilan",
+      "C) Issiq suv bilan",
+      "D) Akvarel bilan"
+     ],
+     "TO'G'RI_JAVOB": "B) Toza suv bilan",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Akvarel bo'yoqlari bilan ishlash jarayonida soya-yorug'dagi nozik o'tishlarni qanday qilish kerak?",
+     "variantlar": [
+      "A) Qayin chiziqlar bilan",
+      "B) Ochiq ranglar bilan",
+      "C) Silliqlab borish kerak emas",
+      "D) To'qlashtirib"
+     ],
+     "TO'G'RI_JAVOB": "C) Silliqlab borish kerak emas",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Sodda narsalardan tuzilgan qo'yilmalarni astoydil ishlab natijalarga erishmagunicha, keying qadam nima bo'ladi?",
+     "variantlar": [
+      "A) Murakkab natura qo'yilmalarini bajarishga o'tish",
+      "B) Boshqa mavzu tanlash",
+      "C) Dastlabki sketchni tasdiqlash",
+      "D) Murakkab rengli buyumlarni tanlash"
+     ],
+     "TO'G'RI_JAVOB": "A) Murakkab natura qo'yilmalarini bajarishga o'tish",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Akvarel bo'yoqning birinchi qatlamini to'qroq olish uchun nimaga amal qilish kerak?",
+     "variantlar": [
+      "A) Qo'rishtirilgan ranglarni ishlatish",
+      "B) Ko'proq suv ishlatish",
+      "C) Dastlabki sketchni kuchaytirish",
+      "D) Akvarel bo'yoqlari qurigach oqaradi degan haqiqatga"
+     ],
+     "TO'G'RI_JAVOB": "D) Akvarel bo'yoqlari qurigach oqaradi degan haqiqatga",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ranglar birdaniga olinib kerakli joyga surtilsa, uning yonidagi tuslar bilan nima sodir bo'ladi?",
+     "variantlar": [
+      "A) Ular o'z joyida qoladi",
+      "B) Butun rang o'zgaradi",
+      "C) Ularni topish yengil ko'chadi",
+      "D) Ular to'liq o'chadi"
+     ],
+     "TO'G'RI_JAVOB": "C) Ularni topish yengil ko'chadi",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Soyalar to'qlashtirilsa qanday natija hosil bo'ladi?",
+     "variantlar": [
+      "A) Barchasi bir xil ko'rinadi",
+      "B) Yanada ko'karoq bo'ladi",
+      "C) Yorug' bo'lib, yanada yorqinlashadi",
+      "D) Yanada qaragli bo'ladi"
+     ],
+     "TO'G'RI_JAVOB": "C) Yorug' bo'lib, yanada yorqinlashadi",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Yaqindagi narsalar bilan uzoqdagi narsalarning ko'rinishi o'rtasidagi farq nimada?",
+     "variantlar": [
+      "A) Farq yo'q",
+      "B) Yaqindagi narsalar yorqinroq ko'rinadi",
+      "C) Uzoqdagi narsalar yorqinroq ko'rinadi",
+      "D) Ularning ranglari teng bo'ladi"
+     ],
+     "TO'G'RI_JAVOB": "B) Yaqindagi narsalar yorqinroq ko'rinadi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Namligicha ishlash usulini qo'llash nima uchun to'g'ri?",
+     "variantlar": [
+      "A) Qog'ozni saqlab qolish uchun",
+      "B) Ishlash tezligini oshirish uchun",
+      "C) Tasvirni nozik va jozibali ko'rsatishga imkon tug'diradi",
+      "D) Bo'yoqni tejash uchun"
+     ],
+     "TO'G'RI_JAVOB": "C) Tasvirni nozik va jozibali ko'rsatishga imkon tug'diradi",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Namlangan qog'oz biror-bir joyni ajratish lozim bo'lganda nima qilish kerak?",
+     "variantlar": [
+      "A) Boshqa qog'oz ishlatish",
+      "B) Qayta ishlashni boshlash",
+      "C) Qog'ozni quritib, kerakli bo'yoq surtmasi berish yoki quruq mo'yqalamda aniq rangli chegaraning talab etilgan joylari to'qlashtiriladi",
+      "D) Qayta nam qilish"
+     ],
+     "TO'G'RI_JAVOB": "C) Qog'ozni quritib, kerakli bo'yoq surtmasi berish yoki quruq mo'yqalamda aniq rangli chegaraning talab etilgan joylari to'qlashtiriladi",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Kuroniragan bo'yoqni naqtai nazer qanday joyga surtish kerak?",
+     "variantlar": [
+      "A) Faqat foriga",
+      "B) Hamma joyga",
+      "C) Faqat soya qismlarga",
+      "D) Yoritilgan joylarga harakat qilmasdan"
+     ],
+     "TO'G'RI_JAVOB": "D) Yoritilgan joylarga harakat qilmasdan",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Qog'ozni toza suv bilan ho'llangandan keying necha daqiqadan so'ng akvarel bilan ishni boshlash mumkin?",
+     "variantlar": [
+      "A) Ikki-uch daqiqadan so'ng",
+      "B) O'n daqiqadan so'ng",
+      "C) Yarim daqiqadan so'ng",
+      "D) Besh daqiqadan so'ng"
+     ],
+     "TO'G'RI_JAVOB": "A) Ikki-uch daqiqadan so'ng",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Mevalarning aniq rangini tasvirlashda nima qilish kerak va nima uchun?",
+     "variantlar": [
+      "A) Hamma rang munosabatlarini e'tibor bermay",
+      "B) Rang munosabatlariga qat'iy amal qilish kerak, chunki bu to'g'ri ifodalashga xizmat qiladi",
+      "C) Faqat eng terang ranglarni tanlash",
+      "D) Barcha ranglarni bir xil qilish"
+     ],
+     "TO'G'RI_JAVOB": "B) Rang munosabatlariga qat'iy amal qilish kerak, chunki bu to'g'ri ifodalashga xizmat qiladi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Nima uchun mashqlarni muntazam ravishda bajarish va asta-sekin murakkablashtirib borish maqsadga muvofi?",
+     "variantlar": [
+      "A) Vaqtni tejash uchun",
+      "B) Tezroq tugatish uchun",
+      "C) Bo'yoqlarni kam ishlatish uchun",
+      "D) Sodda narsalardan tuzilgan qo'yilmalarni astoydil ishlab ijobiy natijalarga erishmasdan, murakkab natura qo'yilmalarini bajarishga o'tmaslik uchun"
+     ],
+     "TO'G'RI_JAVOB": "D) Sodda narsalardan tuzilgan qo'yilmalarni astoydil ishlab ijobiy natijalarga erishmasdan, murakkab natura qo'yilmalarini bajarishga o'tmaslik uchun",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Har bir narsaning hajmdor shaklini ishlaganda qanday rang turlarini diqqat bilan kuzatish lozim va nega?",
+     "variantlar": [
+      "A) Iliq va sovuq rang turlarini, chunki rang o'zgarishlari bilan bog'liq",
+      "B) Tangi qizgil ranglarni, chunki ular osongina ko'rinadi",
+      "C) Faqat to'q ranglarni, chunki ular yanada aniq",
+      "D) Hamma ranglarni, lekin tartibni hisobga olmay"
+     ],
+     "TO'G'RI_JAVOB": "A) Iliq va sovuq rang turlarini, chunki rang o'zgarishlari bilan bog'liq",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Buyumlarning och-to'qligi va rangdorligi nimaga bog'liq bo'ladi?",
+     "variantlar": [
+      "A) Fon bilan atrofdagi narsalar rangiga bog'liq",
+      "B) Yo'lka va haroratga bog'liq",
+      "C) Faqat shaklga bog'liq",
+      "D) Texnik vositalariga bog'liq"
+     ],
+     "TO'G'RI_JAVOB": "A) Fon bilan atrofdagi narsalar rangiga bog'liq",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Naturmortda narsalar bir-biridan turli masofada joylashganda, bu tasvirdagi buyumlarning old va orqa ko'rinishlari orasidagi kenglikni qanday ifoda qilish mumkin?",
+     "variantlar": [
+      "A) Shunga e'tibor bermasdan",
+      "B) Rang, soyaning tuslanishi, aniqlik va zichligini o'zgartirib",
+      "C) Faqat raqamlar orqali",
+      "D) Safsatali chiziqlar orqali"
+     ],
+     "TO'G'RI_JAVOB": "B) Rang, soyaning tuslanishi, aniqlik va zichligini o'zgartirib",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Havo perspektivasining ta'sirini naturmortda yengil sezish qiyin ekaniga qaramay, qalam bilan tasvirlashda nima qilish kerak?",
+     "variantlar": [
+      "A) Perspektiva qonuniyati asosida oldida turgan narsani yaqinroq joylashtirish, boshqasini uzoqlashtirib tasvirlash kerak",
+      "B) Faqat rang o'zgartiriladi",
+      "C) Harorat o'zgarishini ko'rsatish",
+      "D) Hamma narsalarni bir xil ko'rinishda chizish"
+     ],
+     "TO'G'RI_JAVOB": "A) Perspektiva qonuniyati asosida oldida turgan narsani yaqinroq joylashtirish, boshqasini uzoqlashtirib tasvirlash kerak",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Nima uchun rangtasvirdagi yo'ltirilgan yuzaga ega idishda reflekslar mavjud bo'ladi?",
+     "variantlar": [
+      "A) Faqat qo'yilmaning xatosi",
+      "B) Nur idishdan qayta to'lqinlanadi, bu esa idishning shilliq yuzasini ko'rsatadi",
+      "C) Rangtasvirda zaruri emas",
+      "D) Tasodifiy voqea"
+     ],
+     "TO'G'RI_JAVOB": "B) Nur idishdan qayta to'lqinlanadi, bu esa idishning shilliq yuzasini ko'rsatadi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Soya va uzoq ko'rinishdagi tus va rang kontrastlari nima uchun sustroq bo'ladi?",
+     "variantlar": [
+      "A) Rasm yaroqsiz ekan",
+      "B) Bu xato",
+      "C) Bo'yoq sifatining kamchiligi",
+      "D) Havo perspektivasi ta'sirida turli masofada turgan buyumlar shu yo'l bilan ifodalanadi"
+     ],
+     "TO'G'RI_JAVOB": "D) Havo perspektivasi ta'sirida turli masofada turgan buyumlar shu yo'l bilan ifodalanadi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Soya va orqa ko'rinishdagi narsalarning tasviri nima uchun umumlashtirilgan holda bo'ladi?",
+     "variantlar": [
+      "A) Namligicha ishlash usulini qo'llashga va tasvirni nozik ko'rsatishga imkon tug'diradi",
+      "B) Xato ishlash usuli",
+      "C) Bu majburiy qoida",
+      "D) Vaqt tejash uchun"
+     ],
+     "TO'G'RI_JAVOB": "A) Namligicha ishlash usulini qo'llashga va tasvirni nozik ko'rsatishga imkon tug'diradi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Naturmortda buyumlarni yakka kuzatmasdan, aksincha, to'plamni yaxlit ko'rishga harakat qilish nima uchun muhim?",
+     "variantlar": [
+      "A) Har bir buyumning och-to'qligi, rangdorligi va to'yinganligini to'g'ri taqqoslash uchun va yaxlit tasvir yaratish uchun",
+      "B) Ish qiyin degan uchun",
+      "C) Vaqtni tejash uchun",
+      "D) Rasm qiymati oshadi degan uchun"
+     ],
+     "TO'G'RI_JAVOB": "A) Har bir buyumning och-to'qligi, rangdorligi va to'yinganligini to'g'ri taqqoslash uchun va yaxlit tasvir yaratish uchun",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "5-sinf",
+   "kitob": "5-sinf 5-Sinf Tasviriy san’at",
+   "mavzu": "20-dars. Rang-tuslari jihatidan kontrast buyumlardan tashkil topgan naturmort",
+   "savollar": [
+    {
+     "savol": "Naturmortni ishlashda qaysi rangdagi kastrulkadan foydalaniladi?",
+     "variantlar": [
+      "A) Qizil yoki zarg'aldoq",
+      "B) Och pushti yoki musht",
+      "C) Sariq yoki jigarrang",
+      "D) Havorang yoki yashil sirlangan"
+     ],
+     "TO'G'RI_JAVOB": "D) Havorang yoki yashil sirlangan",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Naturmortdagi narsalar soni qancha donadan iborat?",
+     "variantlar": [
+      "A) 4 yoki 5 dona",
+      "B) 6 va undan ko'p",
+      "C) 2 yoki 3 dona",
+      "D) 1 dona"
+     ],
+     "TO'G'RI_JAVOB": "C) 2 yoki 3 dona",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Lessirovka deb nima ataladi?",
+     "variantlar": [
+      "A) Rasm chizmoqni piyolaga yozish",
+      "B) Naturmortni qag'ozga chizish",
+      "C) Soyalarni qoraytirib tasvirash",
+      "D) Bo'yoq qatlamlarini ustma-ust qo'yish"
+     ],
+     "TO'G'RI_JAVOB": "D) Bo'yoq qatlamlarini ustma-ust qo'yish",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Akvarel bo'yog'i bilan ishlashni boshlashda birinchi navbatda nima qilinadi?",
+     "variantlar": [
+      "A) Bo'yoq tayyorlanadi",
+      "B) Qora rangli chiziqlar chiziladi",
+      "C) Qalam olinadi",
+      "D) Oppoq joylar belgilanadi"
+     ],
+     "TO'G'RI_JAVOB": "D) Oppoq joylar belgilanadi",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Naturmortning muhim tomonlaridan biri nima?",
+     "variantlar": [
+      "A) Narsalarning shakli",
+      "B) Narsalarning miqdori",
+      "C) Narsalarning fazoviy joylashishi",
+      "D) Narsalarning rangi"
+     ],
+     "TO'G'RI_JAVOB": "C) Narsalarning fazoviy joylashishi",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Buyumlarning kattaroqlarini qayda joylashtirib, maydalarini qayda joylashtiriladi?",
+     "variantlar": [
+      "A) Kattalarini oldinroqda, maydalarini orqada",
+      "B) Hammasi birday joylashtiriladi",
+      "C) Kattalarini orqada, maydalarini oldinroqda",
+      "D) Kattalarini yonida, maydalarini pastda"
+     ],
+     "TO'G'RI_JAVOB": "C) Kattalarini orqada, maydalarini oldinroqda",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Soyalarni bo'yashda qaysi usul qo'llaniladi?",
+     "variantlar": [
+      "A) Asta-sekinlik bilan qatlam qo'yish",
+      "B) Bir vaqtada qoraytirib tasvirash",
+      "C) Bir cizib tasvirash",
+      "D) Faqat qara rangdan foydalanish"
+     ],
+     "TO'G'RI_JAVOB": "A) Asta-sekinlik bilan qatlam qo'yish",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Qog'oz yuzasida naturmortning o'lcham mutanosibliklarini belgilashda qaysi chiziqlar ishlatiladi?",
+     "variantlar": [
+      "A) Nuqtalangan chiziqlar",
+      "B) Qalin chiziqlar",
+      "C) Yengil chiziqlar",
+      "D) Qora chiziqlar"
+     ],
+     "TO'G'RI_JAVOB": "C) Yengil chiziqlar",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Naturmort tasviri qanday o'lchamda xomaki rasm chizma lavhalar orqali bajariladi?",
+     "variantlar": [
+      "A) Faqat real o'lchamda",
+      "B) Bir nechta kichik o'lchamda",
+      "C) Faqat katta o'lchamda",
+      "D) Faqat millimetr o'lchamda"
+     ],
+     "TO'G'RI_JAVOB": "B) Bir nechta kichik o'lchamda",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Buyumlarning asoslari yonidagi soyalarni qanday qilinadi?",
+     "variantlar": [
+      "A) Biroz to'qlashtiriladi",
+      "B) Tushiriladi",
+      "C) Qora bo'yaladi",
+      "D) To'liq ochariladi"
+     ],
+     "TO'G'RI_JAVOB": "A) Biroz to'qlashtiriladi",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Agar naturmortdagi kastrulka havorang bo'lsa, unga kontrast bo'lgan narsalar qaysi rangda bo'lishi kerak?",
+     "variantlar": [
+      "A) Qora",
+      "B) Qizil yoki zarg'aldoq",
+      "C) Havorang",
+      "D) Och pushti"
+     ],
+     "TO'G'RI_JAVOB": "B) Qizil yoki zarg'aldoq",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Naturmortni tasvirashdan oldin eng avvalo nima qilish kerak?",
+     "variantlar": [
+      "A) Rangarang chizmoq",
+      "B) Qag'ozni tayyorlamoq",
+      "C) Uni kuzatib, eng yaxshi qarash nuqtasini topmoq",
+      "D) Narsalarni joylashtirmoq"
+     ],
+     "TO'G'RI_JAVOB": "C) Uni kuzatib, eng yaxshi qarash nuqtasini topmoq",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Buyumlarning \"muallaq\" holatda bo'lishining sababi nima?",
+     "variantlar": [
+      "A) Asoslarni to'liq chizmagan",
+      "B) Rangarang bo'yagan",
+      "C) Soyalarni qoraytirmagan",
+      "D) Qalam ishlatmagan"
+     ],
+     "TO'G'RI_JAVOB": "A) Asoslarni to'liq chizmagan",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Lessirovka usulida bo'yoq qatlamlarini surtishda oldingi qatlam qanday bo'lishi kerak?",
+     "variantlar": [
+      "A) Qurigan",
+      "B) Suyuq",
+      "C) Qora",
+      "D) Turib qolgan"
+     ],
+     "TO'G'RI_JAVOB": "A) Qurigan",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Naturmortdagi qarama-qarshi buyumlar nima bilan ajralib turishi kerak?",
+     "variantlar": [
+      "A) Rangi, tusi va shakli bilan",
+      "B) Hajmi bilan",
+      "C) Shakli bilan",
+      "D) Faqat rangi bilan"
+     ],
+     "TO'G'RI_JAVOB": "A) Rangi, tusi va shakli bilan",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Naturmortning fazoviy holatini yaqqolroq tasvirlash uchun oldingi qatorda qanday buyum qo'yiladi?",
+     "variantlar": [
+      "A) Kichik va yoritgan",
+      "B) Katta va qora",
+      "C) Katta va oppoq",
+      "D) Kichik va qizil"
+     ],
+     "TO'G'RI_JAVOB": "A) Kichik va yoritgan",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Yorug'lik nurlari qaydan yo'nalgani uchun narsalarning hajmdorligi aniq ko'rinib turadi?",
+     "variantlar": [
+      "A) Faqat yuqoridan",
+      "B) Faqat pastdan",
+      "C) Faqat yonidan",
+      "D) Old tomondan va yonidan"
+     ],
+     "TO'G'RI_JAVOB": "D) Old tomondan va yonidan",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Naturmort tasvirida har bir narsaning umumiy shakli nima orqali topiladi?",
+     "variantlar": [
+      "A) Soni bilan",
+      "B) Faqat rangasiga qarab",
+      "C) Turi bilan",
+      "D) Nisbiy o'lchamlari va alohida qismlarini tahlil qilib"
+     ],
+     "TO'G'RI_JAVOB": "D) Nisbiy o'lchamlari va alohida qismlarini tahlil qilib",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Akvarel bo'yog'i bilan ishlashda suyuq bo'yoq eritmasi qog'ozga qatlam tarzida surtilib, tagida qog'oz qanday bo'ladi?",
+     "variantlar": [
+      "A) Qora bo'lib ketadi",
+      "B) Yo'qolib ketadi",
+      "C) Mos'qotiladi",
+      "D) Tovlanib turadi"
+     ],
+     "TO'G'RI_JAVOB": "D) Tovlanib turadi",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Naturmort tasviri qalamda ishlab bo'lgach, keyingi bosqich nima?",
+     "variantlar": [
+      "A) Faqat soyalarni qoraytiriladi",
+      "B) Rang berishga o'tiladi",
+      "C) Narsalar qo'shiladi",
+      "D) Rasm to'liq bajarildi"
+     ],
+     "TO'G'RI_JAVOB": "B) Rang berishga o'tiladi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Naturmortdagi rang-tusi jihatidan qarama-qarshi buyumlar nima bilan erishiladi va ularning ahamiyati nimada?",
+     "variantlar": [
+      "A) Qarama-qarshi ranglar bilan; kompozitsiya markazini tashkil qilish",
+      "B) Hajm bilan; stabillik berish",
+      "C) Nur bilan; yoritish",
+      "D) Faqat shakl bilan; diqqat oq'dirish"
+     ],
+     "TO'G'RI_JAVOB": "A) Qarama-qarshi ranglar bilan; kompozitsiya markazini tashkil qilish",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Naturmort ichidagi narsalarning fakti va perspektiv qisqarishlarini to'g'ri chizish uchun nima qilish kerak?",
+     "variantlar": [
+      "A) Hech narsasi qilinmaydi",
+      "B) Faqat rangarang bo'yash",
+      "C) Har narsaning tuzilishi tahlil qilinadi, sinchiklab kuzatiladi va perspektiv qisqarishlar aks ettiriladi",
+      "D) Faqat soyalarni qoraytirib tasvirash"
+     ],
+     "TO'G'RI_JAVOB": "C) Har narsaning tuzilishi tahlil qilinadi, sinchiklab kuzatiladi va perspektiv qisqarishlar aks ettiriladi",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Lessirovka usulida rang-tus bo'yotishda qatlamlar sonini ko'paytirganda nima sodir bo'ladi?",
+     "variantlar": [
+      "A) Rang yo'qoladi",
+      "B) Rang aniqroq bo'ladi, ammo ta'sirchanligi kamayadi",
+      "C) Rang tobora boyib, ta'sirchanligi kuchayib boradi",
+      "D) Rang opqin bo'ladi"
+     ],
+     "TO'G'RI_JAVOB": "C) Rang tobora boyib, ta'sirchanligi kuchayib boradi",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Naturmort tasviri uchun muvaffaqiyatli komposition qaysi bosqichda tanlab olinadi?",
+     "variantlar": [
+      "A) Xomaki rasm chizma lavhalar bajarilgandan keyin, ulardan eng yaxshi chiqqani tanlab olinadi",
+      "B) Faqat qog'ozga chizishdan oldin",
+      "C) Narsalarni joylashtirganlardan so'ng darhol",
+      "D) Rangarang bo'yashdan keyin"
+     ],
+     "TO'G'RI_JAVOB": "A) Xomaki rasm chizma lavhalar bajarilgandan keyin, ulardan eng yaxshi chiqqani tanlab olinadi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Naturmortning komposition jihatdan chiroyili va yaxlit bo'lish uchun narsalar o'rtasida qanday bog'lanish bo'lishi kerak?",
+     "variantlar": [
+      "A) Hammasi qator-qator joylashtiriladi",
+      "B) Biri ikkinchisini ozroq berkitib turadigan holatda joylashtiriladi",
+      "C) Hammasi aralash joylashtiriladi",
+      "D) Hammasi bir-biriga bog'lanmagan"
+     ],
+     "TO'G'RI_JAVOB": "B) Biri ikkinchisini ozroq berkitib turadigan holatda joylashtiriladi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Akvarel bo'yog'i bilan ishlashda oppoq joylarni nega belgilash zarur?",
+     "variantlar": [
+      "A) Faqat rang belgilash uchun",
+      "B) Faqat dekoratsiya uchun",
+      "C) Hech foyda emas",
+      "D) Qolgan hammasi suyuq bo'yoq eritmasi bilan qoplab chiqilgani uchun, oppoq joylar saqlanadi"
+     ],
+     "TO'G'RI_JAVOB": "D) Qolgan hammasi suyuq bo'yoq eritmasi bilan qoplab chiqilgani uchun, oppoq joylar saqlanadi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Naturmort tasviri qog'oz yuzasida qanday korrekt bo'ladi?",
+     "variantlar": [
+      "A) Faqat yuqoridagi qismlari chiziladi",
+      "B) Har bir narsaning umumiy shakli va o'lchamlari topiladi, ularning asoslarini ham to'liq chizish kerak",
+      "C) Soni muhim emas",
+      "D) Yo'lga ko'ra chiziladi"
+     ],
+     "TO'G'RI_JAVOB": "B) Har bir narsaning umumiy shakli va o'lchamlari topiladi, ularning asoslarini ham to'liq chizish kerak",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ufq chizig'i belgilashning naturmortni tasvirashda o'rni qanday?",
+     "variantlar": [
+      "A) Naturmortni tasvirashdan oldin eng yaxshi qarash nuqtasini topgandan keyin belgilanadi",
+      "B) Muhim emas",
+      "C) Oxirida belgilanadi",
+      "D) Faqat chizmada bo'ladi"
+     ],
+     "TO'G'RI_JAVOB": "A) Naturmortni tasvirashdan oldin eng yaxshi qarash nuqtasini topgandan keyin belgilanadi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Naturmortning yaxlit va hamohang ko'rinishiga erishilish uchun oxirgi bosqichda nima qilinadi?",
+     "variantlar": [
+      "A) Ingichka mo'yqalam bilan bo'laklarni ishlab chiqish, narsalarning asoslari yonidagi soyalarni biroz to'qlashtirib tasvirlash",
+      "B) Qalamdan foydalanilmaydi",
+      "C) Faqat rangarang bo'yash",
+      "D) Hammasi qora bo'yoq bilan o'chiriladi"
+     ],
+     "TO'G'RI_JAVOB": "A) Ingichka mo'yqalam bilan bo'laklarni ishlab chiqish, narsalarning asoslari yonidagi soyalarni biroz to'qlashtirib tasvirlash",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Naturmort tasviri uchun tanlab olingan narsalardagi qarama-qarshilikdan foydalanishning maqsadi nima?",
+     "variantlar": [
+      "A) Faqat rang foydalanish",
+      "B) Naturmortning estetik qiymatini oshirish, diqqatni markaziy buyumga oq'dirish va komposition dinamikasini yaratish",
+      "C) Hech narsaning foydasini yo'q",
+      "D) Faqat rasm chizish"
+     ],
+     "TO'G'RI_JAVOB": "B) Naturmortning estetik qiymatini oshirish, diqqatni markaziy buyumga oq'dirish va komposition dinamikasini yaratish",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "5-sinf",
+   "kitob": "5-sinf 5-Sinf Tasviriy san’at",
+   "mavzu": "21-dars. Xotiradan naturmort kompozitsiyasini ishlash",
+   "savollar": [
+    {
+     "savol": "I.Repin qaysi asarining dastlabki eskizini xotiradan ishlagani ko'rsatilgan?",
+     "variantlar": [
+      "A) Suratchi",
+      "B) Kazaklar",
+      "C) Volgadagi burlaklari",
+      "D) Grozniy oraliq"
+     ],
+     "TO'G'RI_JAVOB": "C) Volgadagi burlaklari",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Xotiradan naturmort chizishning asosiy maqsadi nima?",
+     "variantlar": [
+      "A) Rang tushuvlarini o'rganish",
+      "B) Svetskiy san'at usulini o'rganish",
+      "C) Qalamning usulini o'rganish",
+      "D) Buyumlarning shakli, o'lchami, tuzilishi va rangini xotirada eslab qolish"
+     ],
+     "TO'G'RI_JAVOB": "D) Buyumlarning shakli, o'lchami, tuzilishi va rangini xotirada eslab qolish",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "A.Ikromjonov qanday asarni yarataganlar?",
+     "variantlar": [
+      "A) Bahor naturmorti",
+      "B) Sharqona naturmort",
+      "C) Yovuzlik naturmorti",
+      "D) Qorong'i naturmort"
+     ],
+     "TO'G'RI_JAVOB": "B) Sharqona naturmort",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "O'zbek rassomlaridan kim xotiradan naturmort yaratgani ko'rsatilgan?",
+     "variantlar": [
+      "A) Pikkasso, Mondrian, Matiss",
+      "B) O'.Tansiqboyev, R.Ahmedov, M.Nabiyev, A.Ikromjonov",
+      "C) Van-Gog, Levitan, Repin",
+      "D) Hamambekov, Shodmanov, Normatov"
+     ],
+     "TO'G'RI_JAVOB": "B) O'.Tansiqboyev, R.Ahmedov, M.Nabiyev, A.Ikromjonov",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Naturmortni o'rgangandan so'ng nima qilinadi?",
+     "variantlar": [
+      "A) Qayta o'rganiladi",
+      "B) Darhol chizishga kirishiladi",
+      "C) Suratga olinadi",
+      "D) Ma'lum daqiqalardan keyin biron-bir mato bilan qoplanadi"
+     ],
+     "TO'G'RI_JAVOB": "D) Ma'lum daqiqalardan keyin biron-bir mato bilan qoplanadi",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Mashhur rassomlardan qaysi biri xotiradan asarlar yaratgani ko'rsatilgan?",
+     "variantlar": [
+      "A) Hamambekov, Shodmanov, Qabayev",
+      "B) I.Levitan, K.Bryullov, I.Repin, I.Ayvazovskiy",
+      "C) Van-Gog, Levitan, Repin, Matveyev",
+      "D) Tansiqboyev, Ahmedov, Nabiyev, Safarqulov"
+     ],
+     "TO'G'RI_JAVOB": "B) I.Levitan, K.Bryullov, I.Repin, I.Ayvazovskiy",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "M.Nuriddinov qanday asarni yarataganlar?",
+     "variantlar": [
+      "A) Abstraktiv",
+      "B) Portret",
+      "C) Naturmort",
+      "D) Manzara"
+     ],
+     "TO'G'RI_JAVOB": "C) Naturmort",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Xotirada naturmort ishlash qanday asosida amalga oshiriladi?",
+     "variantlar": [
+      "A) Tashvishsiz",
+      "B) Dastlabki etud eskizlariga tayangan holda",
+      "C) Boshqa chizmalarni ko'rib",
+      "D) Kitob yordamida"
+     ],
+     "TO'G'RI_JAVOB": "B) Dastlabki etud eskizlariga tayangan holda",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Uy-ro'zg'or buyumlaridan tashkil topgan naturmort qanday bo'ladi?",
+     "variantlar": [
+      "A) Qora-oq",
+      "B) Faqat sodda",
+      "C) Faqat rangatsiz",
+      "D) Nihoyatda qiziqarli"
+     ],
+     "TO'G'RI_JAVOB": "D) Nihoyatda qiziqarli",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Xotiradan naturmort chizishda asosiy e'tibor nimada?",
+     "variantlar": [
+      "A) Faqat o'lchamni",
+      "B) Faqat ranggani",
+      "C) Buyumlarning barcha xususiyatlarini sinchiklab o'rganish",
+      "D) Faqat shaklni"
+     ],
+     "TO'G'RI_JAVOB": "C) Buyumlarning barcha xususiyatlarini sinchiklab o'rganish",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Agar naturmortni o'rgangandan keyin darhol chizmasa, nima bo'ladi?",
+     "variantlar": [
+      "A) Xotira juda toza bo'ladi",
+      "B) Rang hammasi ko'k bo'ladi",
+      "C) Rasm juda yaxshi chiqadi",
+      "D) Xotirada tasvir noto'liq bo'ladi"
+     ],
+     "TO'G'RI_JAVOB": "D) Xotirada tasvir noto'liq bo'ladi",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Xotirada naturmort ishlashda uy-ro'zg'or buyumlarini tanlashning sababi nima?",
+     "variantlar": [
+      "A) Ular nihoyatda qiziqarli naturmort bo'ladi",
+      "B) Ular arzonga",
+      "C) Ularni topish oson",
+      "D) Ularning turi ko'p"
+     ],
+     "TO'G'RI_JAVOB": "A) Ular nihoyatda qiziqarli naturmort bo'ladi",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Naturmortning mazmu'i qanday bo'lishi lozim?",
+     "variantlar": [
+      "A) Faqat o'rtacha",
+      "B) Har qanday bo'ladi",
+      "C) Faqat qora-oq bo'ladi",
+      "D) Ma'lum mazmunga ega bo'lgan qiziqarli va chiroyli"
+     ],
+     "TO'G'RI_JAVOB": "D) Ma'lum mazmunga ega bo'lgan qiziqarli va chiroyli",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Xotirada naturmort yaratishda rassomlarning qanday xususiyati muhim?",
+     "variantlar": [
+      "A) Ko'z sog'lom bo'lishi",
+      "B) Balandligi o'rtacha bo'lishi",
+      "C) Eslab qolish qobiliyati yuqori darajada bo'lishi",
+      "D) Yosh"
+     ],
+     "TO'G'RI_JAVOB": "C) Eslab qolish qobiliyati yuqori darajada bo'lishi",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Dastlabki etud eskizlar nima uchun zarur?",
+     "variantlar": [
+      "A) Shaxsi foyda uchun",
+      "B) Xotiradan san'at asarlarini yaratish uchun taylanch bo'ladi",
+      "C) Vaqtni o'tkazish uchun",
+      "D) Qog'ozni isrof qilish uchun"
+     ],
+     "TO'G'RI_JAVOB": "B) Xotiradan san'at asarlarini yaratish uchun taylanch bo'ladi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Naturmortni mato bilan qoplamoning sababi nima?",
+     "variantlar": [
+      "A) Haroratni boshqarish uchun",
+      "B) Qo'ng'iroqni cheklash uchun",
+      "C) Rangni saqlash uchun",
+      "D) Xotiradagi tasvir aniqligini sinash imkonini beradi"
+     ],
+     "TO'G'RI_JAVOB": "D) Xotiradagi tasvir aniqligini sinash imkonini beradi",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Xotirada naturmort ishlashda qanday buyumlardan foydalanish maqsadga muvofi?",
+     "variantlar": [
+      "A) Faqat buyuk o'lchamli buyumlardan",
+      "B) Faqat rangsiz buyumlardan",
+      "C) Faqat kvadrat shaklidagilardan",
+      "D) Turli-tuman shakli va rangli uy-ro'zg'or buyumlaridan"
+     ],
+     "TO'G'RI_JAVOB": "D) Turli-tuman shakli va rangli uy-ro'zg'or buyumlaridan",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Mashhur rassomlarning dastlabki eskizlari nima uchun muhim?",
+     "variantlar": [
+      "A) Vaqtni o'tkazadi",
+      "B) Rasm sotiladi",
+      "C) Xotirada san'at asarlarini yaratishning asosini yasadi",
+      "D) Daftar o'tadi"
+     ],
+     "TO'G'RI_JAVOB": "C) Xotirada san'at asarlarini yaratishning asosini yasadi",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Xotirada naturmort chizishda buyumlarning qanday xususiyatlari eslab qolishi zarur?",
+     "variantlar": [
+      "A) Faqat ranggani",
+      "B) Faqat shaklni",
+      "C) Faqat o'lchamni",
+      "D) Shakli, o'lchami, tuzilishi va rangini"
+     ],
+     "TO'G'RI_JAVOB": "D) Shakli, o'lchami, tuzilishi va rangini",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Xotiradan naturmort chizishda nimalarga e'tibor berish kerak?",
+     "variantlar": [
+      "A) Faqat ranggani",
+      "B) Buyumlarning shakli, o'lchami, tuzilishi va xilma-xil rangini",
+      "C) Faqat o'lchamni",
+      "D) Faqat shaklni"
+     ],
+     "TO'G'RI_JAVOB": "B) Buyumlarning shakli, o'lchami, tuzilishi va xilma-xil rangini",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Nima uchun mashhur rassomlar dastlabki eskizlarni xotiradan ishlaganlar?",
+     "variantlar": [
+      "A) Yosh o'tmaydi uchun",
+      "B) Kitob yozish uchun",
+      "C) Ularning eslab qolish qobiliyatini rivojlantirish va xotirada san'at asarlarini yaratish uchun",
+      "D) Vaqtni o'tkazish uchun"
+     ],
+     "TO'G'RI_JAVOB": "C) Ularning eslab qolish qobiliyatini rivojlantirish va xotirada san'at asarlarini yaratish uchun",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Xotirada naturmort yaratish jarayonida qanday malakalar rivojlanadi?",
+     "variantlar": [
+      "A) Kuzatish, xotirada eslab qolish va tasviriy san'at qobiliyatlari",
+      "B) Faqat rasm chizish",
+      "C) Faqat boshqarish",
+      "D) Faqat rang tanlash"
+     ],
+     "TO'G'RI_JAVOB": "A) Kuzatish, xotirada eslab qolish va tasviriy san'at qobiliyatlari",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Uy-ro'zg'or buyumlaridan qiziqarli va chiroyli naturmort tuzishda qanday bilimlarni birlashtirish zarur?",
+     "variantlar": [
+      "A) Faqat shaklni bilimi",
+      "B) Faqat o'lcham bilimi",
+      "C) Faqat rang tanlash",
+      "D) Turli-tuman mavjud narsa, buyumlarning shakli, o'lchami, tuzilishi va rangini bilish"
+     ],
+     "TO'G'RI_JAVOB": "D) Turli-tuman mavjud narsa, buyumlarning shakli, o'lchami, tuzilishi va rangini bilish",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Dastlabki etud eskizlarining roli va ahamiyati qanday?",
+     "variantlar": [
+      "A) Xotiradan san'at asarlarini yaratishning asosiy muqaddasi",
+      "B) Vaqtni o'tkazish",
+      "C) Qog'ozni isrof qilish",
+      "D) Odam ila o'tkazish"
+     ],
+     "TO'G'RI_JAVOB": "A) Xotiradan san'at asarlarini yaratishning asosiy muqaddasi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Nima uchun naturmortni o'rgangandan so'ng ma'lum daqiqalar o'tkaziladi?",
+     "variantlar": [
+      "A) Qo'lni tinch berish uchun",
+      "B) Gul sulab berish uchun",
+      "C) Xotiradagi tasvir aniqligini sinab ko'rish uchun",
+      "D) Oqqaroq sunish uchun"
+     ],
+     "TO'G'RI_JAVOB": "C) Xotiradagi tasvir aniqligini sinab ko'rish uchun",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Xotirada naturmort chizishda diqqat-e'tibor qo'yilgan naturmort bilan nima farq qiladi?",
+     "variantlar": [
+      "A) Butunlik, aniqlik va mazmuning aniqroq bo'ladi",
+      "B) Faqat o'lchami farq qiladi",
+      "C) Faqat rang farq qiladi",
+      "D) Faqat shakl farq qiladi"
+     ],
+     "TO'G'RI_JAVOB": "A) Butunlik, aniqlik va mazmuning aniqroq bo'ladi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Xotirada naturmort yaratishda to'g'ri ketma-ketlik qaysi?",
+     "variantlar": [
+      "A) Faqat shaklni chizish",
+      "B) Darhol chizishga kirishish",
+      "C) Naturmort tuzish → sinchiklab o'rganish → mato bilan qoplay → xotiradan chizish",
+      "D) Faqat ranggani chizish"
+     ],
+     "TO'G'RI_JAVOB": "C) Naturmort tuzish → sinchiklab o'rganish → mato bilan qoplay → xotiradan chizish",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Buyumlarning shakli, o'lchami va tuzilishini xotirada eslab qolishdagi ahamiyati nima?",
+     "variantlar": [
+      "A) Ularning xususiyatlari turli-tuman va ko'plar ekanligini anglash",
+      "B) Vaqt o'tkazish",
+      "C) Rasm qulomoy",
+      "D) Xotira zaif"
+     ],
+     "TO'G'RI_JAVOB": "A) Ularning xususiyatlari turli-tuman va ko'plar ekanligini anglash",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Mashhur rassomlarning xotirada naturmort ishlashda muvaffaq bo'lishlarining asosiy sababi nima?",
+     "variantlar": [
+      "A) Ko'p mashq qilish orqali eslab qolish qobiliyatini rivojlantirishgan",
+      "B) Ular yosh bo'lganlar",
+      "C) Ularning o'qituvchilari yaxshi",
+      "D) Ularning ko'zlari go'zal"
+     ],
+     "TO'G'RI_JAVOB": "A) Ko'p mashq qilish orqali eslab qolish qobiliyatini rivojlantirishgan",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Xotirada naturmort chizishda o'rganilgandan so'ng mato bilan qoplashning ma'nosi qanday?",
+     "variantlar": [
+      "A) Rangni saqlash",
+      "B) Haroratni o'zgartirishuchun",
+      "C) Bulaklarni yopish",
+      "D) Xotiradagi tasvir aniqligini sinash va fikrlash imkonini beradi"
+     ],
+     "TO'G'RI_JAVOB": "D) Xotiradagi tasvir aniqligini sinash va fikrlash imkonini beradi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "5-sinf",
+   "kitob": "5-sinf 5-Sinf Tasviriy san’at",
+   "mavzu": "27-dars. Tasviriy san'atda portret",
+   "savollar": [
+    {
+     "savol": "Portret san'ati nima?",
+     "variantlar": [
+      "A) Tabiatning tasviri",
+      "B) Inson obrazining yaratilishi",
+      "C) Hayvonlarning rasmi",
+      "D) Binolarning chizmasi"
+     ],
+     "TO'G'RI_JAVOB": "B) Inson obrazining yaratilishi",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Portret qanday asosiy turlarga bo'linadi?",
+     "variantlar": [
+      "A) Yakka, ikkilik va guruhli",
+      "B) Katta, o'rta va kichik",
+      "C) Qo'pol va nozik",
+      "D) Rang va rang bo'lmasin"
+     ],
+     "TO'G'RI_JAVOB": "A) Yakka, ikkilik va guruhli",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Avtoportret nima?",
+     "variantlar": [
+      "A) Avtomat tasvirla",
+      "B) Rassomning o'zini o'zi tasvirlaması",
+      "C) Mashina rasmi",
+      "D) Boshqa rassomning asari"
+     ],
+     "TO'G'RI_JAVOB": "B) Rassomning o'zini o'zi tasvirlaması",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Malik Nabiyev qanday rassomdir?",
+     "variantlar": [
+      "A) Aqliy rassomi",
+      "B) O'zbekiston xalq rassomi, akademik",
+      "C) Chigal rassomi",
+      "D) Talqiniy rassomi"
+     ],
+     "TO'G'RI_JAVOB": "B) O'zbekiston xalq rassomi, akademik",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Chiziqli rasm qanday xususiyatga ega?",
+     "variantlar": [
+      "A) Qalin, qat'i va xom",
+      "B) Rangli, yorug' va tafsilot",
+      "C) Och, yengil va umumlashtirilgan",
+      "D) Qora, og'ir va aniq"
+     ],
+     "TO'G'RI_JAVOB": "C) Och, yengil va umumlashtirilgan",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Siluet deb nimani aytamiz?",
+     "variantlar": [
+      "A) Qora chiziqlar bilan chizilgan rasm",
+      "B) Bir xil tekis tus bilan qoplanib tashqi ko'rinish chizig'i orqali bajarilgan tasvir",
+      "C) Rang orqali yaratilgan ko'rinish",
+      "D) Qanoat bilan toldirilgan shakl"
+     ],
+     "TO'G'RI_JAVOB": "B) Bir xil tekis tus bilan qoplanib tashqi ko'rinish chizig'i orqali bajarilgan tasvir",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Xalq maqolida ko'z qanday nomlanadi?",
+     "variantlar": [
+      "A) Ko'z – tirik asrori",
+      "B) Ko'z – odam yuzining oynasi",
+      "C) Ko'z – ruh derqasi",
+      "D) Ko'z – qalb ko'zgusi"
+     ],
+     "TO'G'RI_JAVOB": "D) Ko'z – qalb ko'zgusi",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Illustratsiya nima?",
+     "variantlar": [
+      "A) Kitob mazmuni bilan bog'liq bo'lgan rasmdir",
+      "B) Sahifaning orta qismiga joylashtirilgan tasvir",
+      "C) Rangli bo'lgan rasmlar",
+      "D) Kitobni bezaydigan har qanday chizma"
+     ],
+     "TO'G'RI_JAVOB": "A) Kitob mazmuni bilan bog'liq bo'lgan rasmdir",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Haykaltaroshlik uchun qanday xomashyolardan foydalaniladi?",
+     "variantlar": [
+      "A) To'qima va iplar",
+      "B) Qag'oz va kartona",
+      "C) Loy va plastilin",
+      "D) Bo'yoq va qalam"
+     ],
+     "TO'G'RI_JAVOB": "C) Loy va plastilin",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Portret ishlashning eng asosiy qoidasi nima?",
+     "variantlar": [
+      "A) Qorni darhol yopish",
+      "B) Umumiylikdan xususiylikka va xususiylikdan yana umumiylikka o'tish",
+      "C) Ortadan chizishni boshlab ketish",
+      "D) Har doim soraydan boshlash"
+     ],
+     "TO'G'RI_JAVOB": "B) Umumiylikdan xususiylikka va xususiylikdan yana umumiylikka o'tish",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Malik Nabiyevning \"Abu Rayhon Beruniy\" portretida neler ifodalangan?",
+     "variantlar": [
+      "A) Beruniy kitob yozayotgan paytni",
+      "B) Beruniyning qilich olib o'tirgan holati",
+      "C) Beruniyning tayida karavon bor",
+      "D) Ulug' siymoning kamtar va sodda ko'rinishi, ko'zlarida donolik va ijodiy g'ayrat"
+     ],
+     "TO'G'RI_JAVOB": "D) Ulug' siymoning kamtar va sodda ko'rinishi, ko'zlarida donolik va ijodiy g'ayrat",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Portret dastgohli turlarining qanday ko'rinishlari bor?",
+     "variantlar": [
+      "A) Tog'lar, daryolar, o'rmonlar",
+      "B) Samolyotlar, mashinalar, parovozlar",
+      "C) Minaretlar, palatalar, devorlar",
+      "D) Kartinalar, byustlar, grafik asarlar"
+     ],
+     "TO'G'RI_JAVOB": "D) Kartinalar, byustlar, grafik asarlar",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Portret mahobatli turlarining qanday ko'rinishlari bor?",
+     "variantlar": [
+      "A) Soch, po'st, suyak",
+      "B) Vino, pivo, qahva",
+      "C) Naqsh, koshin, haykal",
+      "D) Kitob, qalam, daftar"
+     ],
+     "TO'G'RI_JAVOB": "C) Naqsh, koshin, haykal",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Portretning samimiy va tantanavor turlari o'rtasida qanday asosiy farq bor?",
+     "variantlar": [
+      "A) Samimiyda mehnati ko'rinadi, tantanavorida balansi",
+      "B) Samimiyda rangi ko'p, tantanavorida rang kam",
+      "C) Samimiyda kattalik, tantanavorida kichiklik",
+      "D) Samimiyda shaxs o'ziga xos xususiyatlari bo'rttiriladi, tantanavorida mashhur kishilar ommaviy joylarga mo'ljallangan"
+     ],
+     "TO'G'RI_JAVOB": "D) Samimiyda shaxs o'ziga xos xususiyatlari bo'rttiriladi, tantanavorida mashhur kishilar ommaviy joylarga mo'ljallangan",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "G'afur G'ulomning \"Shum bola\" asarining illustratsiyalarida qanday muhim voqealar tasvirlangan?",
+     "variantlar": [
+      "A) Shum bola yana yanada shumlig qilayotgan voqea",
+      "B) Shum bolaning onasini aldab yog' olib ketishi, o'y uyiga kirib yashirinib qolishi, qoqib turishi va shuningdan sevinnib olmasligi",
+      "C) Shum bola otasidan xavf qo'rqgan",
+      "D) Shum bola madrasa o'qiyotgan vaqti"
+     ],
+     "TO'G'RI_JAVOB": "B) Shum bolaning onasini aldab yog' olib ketishi, o'y uyiga kirib yashirinib qolishi, qoqib turishi va shuningdan sevinnib olmasligi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Portret ishlashda asosiy bosqichlar nima?",
+     "variantlar": [
+      "A) Faqat chizish va bo'yash",
+      "B) Faqat qo'lni chizish kerak",
+      "C) Bosh umumiy shakli, mushaklarning umumiy shaklini chizish, soch va tafsilotlar",
+      "D) Eng avval rasmni bo'yash kerak"
+     ],
+     "TO'G'RI_JAVOB": "C) Bosh umumiy shakli, mushaklarning umumiy shaklini chizish, soch va tafsilotlar",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Yon tomondan tasvirlangan portretda perspektiva qoidasiga ko'ra nima o'zgaradi?",
+     "variantlar": [
+      "A) Yon tomondagi jismlar katta bo'ladi",
+      "B) Oldingi jismlar kichikroq ko'rinadi",
+      "C) Barcha jismlar bir xil o'lchamda qoladi",
+      "D) Keyingi ko'rinishdagi ko'z yoki quloq yaqinroqda joylashib kichikroq bo'ladi"
+     ],
+     "TO'G'RI_JAVOB": "D) Keyingi ko'rinishdagi ko'z yoki quloq yaqinroqda joylashib kichikroq bo'ladi",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Steklar portret ishlashda qanday maqsadda ishlatiladi?",
+     "variantlar": [
+      "A) Portretni bo'yashda ishlatiladigan asbob",
+      "B) Portretni rang beradigan usuli",
+      "C) Portretni qattiqlashtirish uchun",
+      "D) Tayyor portretning sirti suvda namlangan latta yoki barmoq bilan silliqlab chiqilganda"
+     ],
+     "TO'G'RI_JAVOB": "D) Tayyor portretning sirti suvda namlangan latta yoki barmoq bilan silliqlab chiqilganda",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Sim karkasi portret ishlashda qanday tayyorlanadi?",
+     "variantlar": [
+      "A) Qo'lda bo'yoq solib simni bo'yash kerak",
+      "B) Karkasa faqat temir ishlatiladi",
+      "C) Sim to'g'ridan-to'g'ri loyga yopishtiriladi",
+      "D) Simdan boshning nisbatlari hisobga olinib sxematik karkasi tayyorlab, temir ushlagichga mahkamlanadi"
+     ],
+     "TO'G'RI_JAVOB": "D) Simdan boshning nisbatlari hisobga olinib sxematik karkasi tayyorlab, temir ushlagichga mahkamlanadi",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Portret ishlashda qog'ozga bosh qanday joylashtiriladi?",
+     "variantlar": [
+      "A) Pozitsiyasi muhim emas",
+      "B) Boshning oldingi va pastki tomonlaridan boshqa tomonlariga nisbatan ko'proq joy qoldiriladi",
+      "C) Boshni qog'ozning chetiga joylash lozim",
+      "D) Boshni markaziga qo'yish kerak"
+     ],
+     "TO'G'RI_JAVOB": "B) Boshning oldingi va pastki tomonlaridan boshqa tomonlariga nisbatan ko'proq joy qoldiriladi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Portretda inson anatomik tuzilishi, ruhiy holati, tashqi ko'rinishi qanday birlashtirilib tasvirlanadi?",
+     "variantlar": [
+      "A) Barcha jihatlar – ichki ruhiy, ma'naviy holati va tashqi ko'rinishdagi barcha jihatlar – aks ettiriladi",
+      "B) Anatomikasi aniqlanib, qolgan narsalar tashlab qo'yiladi",
+      "C) Faqat ruhiy holati ifodalanadi",
+      "D) Faqat tashqi ko'rinish tasvirlanadi"
+     ],
+     "TO'G'RI_JAVOB": "A) Barcha jihatlar – ichki ruhiy, ma'naviy holati va tashqi ko'rinishdagi barcha jihatlar – aks ettiriladi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Malik Nabiyev \"Abu Rayhon Beruniy\" portretini yaratishda qanday katta izlanishlar o'tkazdi?",
+     "variantlar": [
+      "A) Sharqshunos olimlarning fikr-mulohazalariga tayanib, X–XI asr Xorazm tangalaridagi shohlar rasmi bilan tanishib, tarixiy davrni chuqur o'rgandi",
+      "B) Boshqa rassomlarning tasvirtaryishiga amal qildi",
+      "C) Faqat Beruniyning kitoblarini o'qidi",
+      "D) Shaharni aylanib fotosurat oldi"
+     ],
+     "TO'G'RI_JAVOB": "A) Sharqshunos olimlarning fikr-mulohazalariga tayanib, X–XI asr Xorazm tangalaridagi shohlar rasmi bilan tanishib, tarixiy davrni chuqur o'rgandi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Illustratsiya ishlashga kirishishdan avval rassom asarni qanday o'rganiyganligi kerak?",
+     "variantlar": [
+      "A) Faqat asarning sarlavhasini o'qishi",
+      "B) Daftarni ochish va chizishni boshlashi",
+      "C) Asarni yaxshilab o'rganishi, davr materiallarini to'plashi, o'sha davrning madaniyati, turmushi va tabiatini bilib olishi",
+      "D) Rasm materiallarini tayyorlashi"
+     ],
+     "TO'G'RI_JAVOB": "C) Asarni yaxshilab o'rganishi, davr materiallarini to'plashi, o'sha davrning madaniyati, turmushi va tabiatini bilib olishi",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Bosh nisbatlarining asosiy o'lcham qoidasi qanday?",
+     "variantlar": [
+      "A) Boshning ko'ndalangi yetti burun eniga teng, bosh uzunligi uch yarim burun uzunligiga teng",
+      "B) Burun bosh uzunligining chorak qismi",
+      "C) Bosh har doim burundan beshta katta",
+      "D) Bosh va burun bir xil o'lchamda bo'ladi"
+     ],
+     "TO'G'RI_JAVOB": "A) Boshning ko'ndalangi yetti burun eniga teng, bosh uzunligi uch yarim burun uzunligiga teng",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Portret ishlashda xususiydan umumiyga va umumiydan xususiyga o'tish jarayoni nima degan masalan ifodalanadi?",
+     "variantlar": [
+      "A) Umumiyga e'tibor bermasa bo'ladi",
+      "B) Har doim xususiydan boshlash kerak",
+      "C) Faqat oldindan keyingi tartibda borish kerak",
+      "D) Birinchi bosqichda umumiydan xususiyga, uchinchi bosqichda aksincha xususiydan umumiyga o'tiladi"
+     ],
+     "TO'G'RI_JAVOB": "D) Birinchi bosqichda umumiydan xususiyga, uchinchi bosqichda aksincha xususiydan umumiyga o'tiladi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ko'z tasvirining portret san'atida qanday muhim ahamiyati bor?",
+     "variantlar": [
+      "A) Ko'z orqali insonning ichki dunyosi va yosh xususiyatlari ifodalanadi, rasmdagi tasvir tabiiy ko'rinishga o'xshashligi ko'z mohirona tasvirlanishiga bog'liq",
+      "B) Ko'z faqat rang berish uchun muhim",
+      "C) Ko'z tasvirining ahamiyati kam",
+      "D) Ko'z bo'lmasa portret yaratish mumkin"
+     ],
+     "TO'G'RI_JAVOB": "A) Ko'z orqali insonning ichki dunyosi va yosh xususiyatlari ifodalanadi, rasmdagi tasvir tabiiy ko'rinishga o'xshashligi ko'z mohirona tasvirlanishiga bog'liq",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Shtrix yo'nalishi va soya-yorug'lik portret ishlashda qanday rol o'ynaydi?",
+     "variantlar": [
+      "A) Shtrixlar sochning tabiiyligini ko'rsatadi, soya-yorug'lari bosh mushaklarining umumiy shaklini belgilab badiiy rasmi beradi",
+      "B) Barcha jismlarga bir xil shtrix yuritiladi",
+      "C) Shtrix faqat ornamant uchun",
+      "D) Soya-yorug'likning portretda ahamiyati yo'q"
+     ],
+     "TO'G'RI_JAVOB": "A) Shtrixlar sochning tabiiyligini ko'rsatadi, soya-yorug'lari bosh mushaklarining umumiy shaklini belgilab badiiy rasmi beradi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Loydan yasalgan portretni bo'yashning qanday imkoniyatlari bor?",
+     "variantlar": [
+      "A) Faqat qora rangda bo'yash mumkin",
+      "B) Guash bo'yog'ida xohlagan rangda bo'yash mumkin, loy qayishqoqligi va bo'yash imkoniyati bolalar uchun qiziqarli",
+      "C) Loyni bo'yash mumkin emas",
+      "D) Faqat yuqoridagi qismi bo'yash mumkin"
+     ],
+     "TO'G'RI_JAVOB": "B) Guash bo'yog'ida xohlagan rangda bo'yash mumkin, loy qayishqoqligi va bo'yash imkoniyati bolalar uchun qiziqarli",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Kamoliddin Behzod, Leonardo da Vinchi, Rembrandt va o'zbek rassomlar portret san'atida qanday o'rni bor?",
+     "variantlar": [
+      "A) Metall bilan ishlovchi hunarmandlar",
+      "B) Faqat bino yasaydigan ustalar",
+      "C) Faqat yozuvchilar sifatida",
+      "D) Inson obrazini mohirona ko'rsata olgan buyuk rassomlar sifatida"
+     ],
+     "TO'G'RI_JAVOB": "D) Inson obrazini mohirona ko'rsata olgan buyuk rassomlar sifatida",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Miniaturachilar Kamoliddin Behzod va boshqalarning kitob bezashda qanday yutuqi bor edi?",
+     "variantlar": [
+      "A) Faqat qora chiziqlar chizganlar",
+      "B) Hechqanday ahamiyati yo'q edi",
+      "C) Faqat rang ishlatgan",
+      "D) Kitob mazmunini aniqroq hamda tezroq tushunib olishga yordam beruvchi bezaklar va illustratsiyalar yaratdi"
+     ],
+     "TO'G'RI_JAVOB": "D) Kitob mazmunini aniqroq hamda tezroq tushunib olishga yordam beruvchi bezaklar va illustratsiyalar yaratdi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  }
+ ]
+}

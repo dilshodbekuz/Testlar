@@ -1,0 +1,5794 @@
+{
+ "sinf": "7-sinf",
+ "kitob": "7-sinf 7-Sinf Informatika",
+ "mavzular": [
+  {
+   "sinf": "7-sinf",
+   "kitob": "7-sinf 7-Sinf Informatika",
+   "mavzu": "1-dars. Axborot tushunchasi va bilish haqida",
+   "savollar": [
+    {
+     "savol": "Klod Shenon axborotni qanday e'tirof etadi?",
+     "variantlar": [
+      "A) Moddiy boyliklar yig'indisi",
+      "B) Faqat kompyuterdagi ma'lumotlar",
+      "C) Narsa haqidagi bilimlarimizdagi noaniqlikning bartaraf etilishi",
+      "D) Tashqi olamga moslashuv mazmuni"
+     ],
+     "TO'G'RI_JAVOB": "C) Narsa haqidagi bilimlarimizdagi noaniqlikning bartaraf etilishi",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Kibernetika fanining asoschisi kim?",
+     "variantlar": [
+      "A) Klod Shenon",
+      "B) D. Martin",
+      "C) Norbert Viner",
+      "D) Forobiy"
+     ],
+     "TO'G'RI_JAVOB": "C) Norbert Viner",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Informatika atamasi qaysi tildagi so'z negizida hosil bo'lgan?",
+     "variantlar": [
+      "A) Fransuzcha",
+      "B) Arabcha",
+      "C) Inglizcha",
+      "D) Nemischa"
+     ],
+     "TO'G'RI_JAVOB": "A) Fransuzcha",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Informatikaning inglizcha varianti qanday ataladi?",
+     "variantlar": [
+      "A) Hardware",
+      "B) Software",
+      "C) Computer science",
+      "D) Brainware"
+     ],
+     "TO'G'RI_JAVOB": "C) Computer science",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Hardware so'zi mazmunan nimani anglatadi?",
+     "variantlar": [
+      "A) Qattiq mahsulotlar",
+      "B) Algoritmlar",
+      "C) Aql-idrok",
+      "D) Yumshoq mahsulotlar"
+     ],
+     "TO'G'RI_JAVOB": "A) Qattiq mahsulotlar",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Brainware so'zi informatikaning qaysi yo'nalishi uchun tanlangan?",
+     "variantlar": [
+      "A) Tarmoq vositalari",
+      "B) Algoritmik vositalar",
+      "C) Dasturiy vositalar",
+      "D) Texnik vositalar"
+     ],
+     "TO'G'RI_JAVOB": "B) Algoritmik vositalar",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Matnga ko'ra, informatika fani qaysi asrda asos solingan?",
+     "variantlar": [
+      "A) XX asr 70-yillarida",
+      "B) XXI asr boshida",
+      "C) XIX asr 50-yillarida",
+      "D) XX asr 50-yillarida"
+     ],
+     "TO'G'RI_JAVOB": "D) XX asr 50-yillarida",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Algoritmlar nima?",
+     "variantlar": [
+      "A) Axborotning moddiy shakli",
+      "B) Sezgi a'zolari orqali olingan ma'lumot",
+      "C) Masala yechimiga olib keluvchi amallar bajarilish ketma-ketligini ko'rsatuvchi qoidalar",
+      "D) Kompyuter qurilmalari majmui"
+     ],
+     "TO'G'RI_JAVOB": "C) Masala yechimiga olib keluvchi amallar bajarilish ketma-ketligini ko'rsatuvchi qoidalar",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Axborotlar ustida bajariladigan amallar bilan bog'liq barcha jarayonlar nima deb ataladi?",
+     "variantlar": [
+      "A) Axborotli jarayonlar",
+      "B) Axborot portlashi",
+      "C) Axborot nazariyasi",
+      "D) Hujjat yuritish"
+     ],
+     "TO'G'RI_JAVOB": "A) Axborotli jarayonlar",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Informatikada narsa, jarayon va hodisalar ularning axborot berish xususiyatlaridan kelib chiqib nima deb ataladi?",
+     "variantlar": [
+      "A) Dasturlar",
+      "B) Algoritmlar",
+      "C) Xabarlar",
+      "D) Axborot obyektlari"
+     ],
+     "TO'G'RI_JAVOB": "D) Axborot obyektlari",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Inson qo'li orqali qaysi axborotni oladi?",
+     "variantlar": [
+      "A) Jismning qattiq va tekisligini",
+      "B) Turli hidlarni",
+      "C) Oziq ta'mini",
+      "D) Tovushlarni"
+     ],
+     "TO'G'RI_JAVOB": "A) Jismning qattiq va tekisligini",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Quyidagilardan qaysi biri burun orqali olinadigan axborotga misol bo'ladi?",
+     "variantlar": [
+      "A) Qo'shiq ovozi",
+      "B) Atirgulning hidi",
+      "C) Qorning rangi",
+      "D) Muzqaymoqning sovuqligi"
+     ],
+     "TO'G'RI_JAVOB": "B) Atirgulning hidi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Daftarga yozib qo'yilgan axborot axborotli jarayonlarning qaysi amaliga misol bo'ladi?",
+     "variantlar": [
+      "A) Saqlash",
+      "B) Bo'laklarga ajratish",
+      "C) Hosil qilish",
+      "D) Buzish"
+     ],
+     "TO'G'RI_JAVOB": "A) Saqlash",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Paint dasturida rasm chizish axborot ustida bajariladigan qaysi amalga misol?",
+     "variantlar": [
+      "A) Axborotni o'lchash",
+      "B) Axborot hosil qilish",
+      "C) Axborotni buzish",
+      "D) Axborotni uzatish"
+     ],
+     "TO'G'RI_JAVOB": "B) Axborot hosil qilish",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Matnga ko'ra, dehqon uchun axborot nima?",
+     "variantlar": [
+      "A) Fanlardan olingan ma'lumotlar",
+      "B) Yerning ozuqa bilan to'yinganligi yoki mahsulotning bozordagi narxi",
+      "C) Kompyuter dasturlari",
+      "D) Texnika va texnologiyalar"
+     ],
+     "TO'G'RI_JAVOB": "B) Yerning ozuqa bilan to'yinganligi yoki mahsulotning bozordagi narxi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Bir shakl yoki tovush ikki insonda ikki xil mazmun hosil qilishi mumkin. Bunda shakl yoki tovush nima hisoblanadi?",
+     "variantlar": [
+      "A) Xabar",
+      "B) Algoritm",
+      "C) Bilim",
+      "D) Axborot"
+     ],
+     "TO'G'RI_JAVOB": "A) Xabar",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Inson o'zidagi og'riq, qizish yoki charchash haqida ma'lumot olishi nimani ko'rsatadi?",
+     "variantlar": [
+      "A) Faqat kompyuter axborot beradi",
+      "B) Bu faqat xabar bo'ladi",
+      "C) Inson borliqning bir qismi bo'lgani uchun o'zi haqida ham axborot oladi",
+      "D) Bu axborot emas"
+     ],
+     "TO'G'RI_JAVOB": "C) Inson borliqning bir qismi bo'lgani uchun o'zi haqida ham axborot oladi",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Dasturiy ta'minot nima?",
+     "variantlar": [
+      "A) Global tarmoq",
+      "B) Algoritmlar to'plami faqat",
+      "C) Kompyuterda foydalaniladigan barcha dasturlar majmui hamda ularni ishlab chiqish va qo'llash sohasi",
+      "D) Kompyuterning qurilmalari"
+     ],
+     "TO'G'RI_JAVOB": "C) Kompyuterda foydalaniladigan barcha dasturlar majmui hamda ularni ishlab chiqish va qo'llash sohasi",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Kompyuterlar davrigacha axborotlarni izlash, to'plash, saqlash va qayta ishlash bilan shug'ullanish hozir nima deb ataladi?",
+     "variantlar": [
+      "A) Axborot portlashi",
+      "B) Kibernetika",
+      "C) Hujjat yuritish (dokumentalistika)",
+      "D) Informatika"
+     ],
+     "TO'G'RI_JAVOB": "C) Hujjat yuritish (dokumentalistika)",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "D. Martinga ko'ra, insoniyat bilimlari yig'indisi 2 baravar ortishi uchun 1800-yilga kelib 50 yil kerak bo'lgan. 1950-yilga kelib bu muddat 1800-yildagiga nisbatan necha marta qisqargan?",
+     "variantlar": [
+      "A) 5 marta",
+      "B) 10 marta",
+      "C) 2 marta",
+      "D) 50 marta"
+     ],
+     "TO'G'RI_JAVOB": "A) 5 marta",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "D. Martinga ko'ra, 1970-yilga kelib bilimlar 2 baravar ortishi uchun 5 yil kerak bo'lgan. Bu 1950-yildagi muddatdan (10 yil) necha yilga kam?",
+     "variantlar": [
+      "A) 5 yil",
+      "B) 2 yil",
+      "C) 45 yil",
+      "D) 10 yil"
+     ],
+     "TO'G'RI_JAVOB": "A) 5 yil",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Bolalikda «muzqaymoq» so'zi faqat «mazali shirinlik» edi, keyin esa uning tarkibi va tayyorlash usullari bilan to'ldi. Bu misol axborot haqida nimani ko'rsatadi?",
+     "variantlar": [
+      "A) So'zning ma'nosi hech qachon o'zgarmaydi",
+      "B) Inson ma'lumotlarni bir-biri bilan bog'lab to'ldirib boradi va bilim kengayadi",
+      "C) Axborot o'zgarmas bo'ladi",
+      "D) Axborot faqat maktabda olinadi"
+     ],
+     "TO'G'RI_JAVOB": "B) Inson ma'lumotlarni bir-biri bilan bog'lab to'ldirib boradi va bilim kengayadi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Nima uchun axborot tushunchasiga har tomonlama ilmiy asoslangan yagona ta'rif berib bo'lmaydi?",
+     "variantlar": [
+      "A) Chunki olimlar bu haqda o'ylamagan",
+      "B) Chunki axborot informatikaning asos tushunchasi bo'lib, juda ko'p ma'noni o'z ichiga oladi",
+      "C) Chunki axborot faqat kompyuterda bo'ladi",
+      "D) Chunki axborot moddiy narsa"
+     ],
+     "TO'G'RI_JAVOB": "B) Chunki axborot informatikaning asos tushunchasi bo'lib, juda ko'p ma'noni o'z ichiga oladi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Nima uchun informatikaning asosiy tushunchalari axborot, axborotli model, algoritm va kompyuterlar deb ataladi?",
+     "variantlar": [
+      "A) Chunki informatika faqat matn yozishni o'rgatadi",
+      "B) Chunki informatika faqat qurilmalarni o'rganadi",
+      "C) Chunki informatika faqat o'yinlarni o'rganadi",
+      "D) Chunki informatika kompyuter texnikasi asosida axborotlar ustida bajariladigan amallar va ularni qo'llash usullarini o'rganadi"
+     ],
+     "TO'G'RI_JAVOB": "D) Chunki informatika kompyuter texnikasi asosida axborotlar ustida bajariladigan amallar va ularni qo'llash usullarini o'rganadi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikki kishi bir xil tovushni eshitib, turlicha mazmun oldi. Matnga ko'ra bu holat qanday izohlanadi?",
+     "variantlar": [
+      "A) Tovush ikkalasi uchun ham bir xil axborot bo'ladi",
+      "B) Axborot moddiy shaklga ega",
+      "C) Tovush xabar, ular hosil qilgan mazmun esa nomoddiy axborot bo'lib, u turlicha bo'lishi mumkin",
+      "D) Ulardan biri xato eshitgan"
+     ],
+     "TO'G'RI_JAVOB": "C) Tovush xabar, ular hosil qilgan mazmun esa nomoddiy axborot bo'lib, u turlicha bo'lishi mumkin",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Kompyuterda matnni yozib, keyin uni ikki qismga bo'lib, bir qismini nusxalab saqlash uchun necha xil axborot amali ishlatildi?",
+     "variantlar": [
+      "A) To'rtta",
+      "B) Hech qaysi",
+      "C) Ikkita",
+      "D) Faqat bitta"
+     ],
+     "TO'G'RI_JAVOB": "A) To'rtta",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Informatikaning uch yo'nalishi (Hardware, Software, Brainware) ni to'g'ri moslashtirilgan variantni tanlang.",
+     "variantlar": [
+      "A) Hardware – tarmoq, Software – algoritmlar, Brainware – qurilmalar",
+      "B) Hardware – algoritmlar, Software – qurilmalar, Brainware – dasturlar",
+      "C) Hardware – qurilmalar, Software – dasturlar, Brainware – algoritmlar",
+      "D) Hardware – dasturlar, Software – qurilmalar, Brainware – tarmoq"
+     ],
+     "TO'G'RI_JAVOB": "C) Hardware – qurilmalar, Software – dasturlar, Brainware – algoritmlar",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Axborot portlashi holati nimaga olib kelgan edi?",
+     "variantlar": [
+      "A) Odamlar axborotdan foydalanmay qo'ygan",
+      "B) Odamlar axborot ummonida kerakli axborotni izlab topish uchun ham sezilarli kuch sarflashga majbur bo'lgan",
+      "C) Kompyuterlar ishlamay qolgan",
+      "D) Axborot butunlay yo'qolgan"
+     ],
+     "TO'G'RI_JAVOB": "B) Odamlar axborot ummonida kerakli axborotni izlab topish uchun ham sezilarli kuch sarflashga majbur bo'lgan",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Informatika fanining paydo bo'lishiga qanday shart-sharoit sabab bo'lgan?",
+     "variantlar": [
+      "A) Faqat kitoblarning ko'payishi",
+      "B) Axborotning mislsiz ortishi va elektron hisoblash qurilmalarining paydo bo'lishi",
+      "C) Faqat sanoatning pasayishi",
+      "D) Faqat televizorlarning chiqishi"
+     ],
+     "TO'G'RI_JAVOB": "B) Axborotning mislsiz ortishi va elektron hisoblash qurilmalarining paydo bo'lishi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "7-sinf",
+   "kitob": "7-sinf 7-Sinf Informatika",
+   "mavzu": "2-dars. Axborotlar ustida bajariladigan amallar",
+   "savollar": [
+    {
+     "savol": "Axborotga qo'yiladigan asosiy uchta xususiyat qaysi qatorda to'g'ri berilgan?",
+     "variantlar": [
+      "A) Qimmatli, to'liq, ishonchli",
+      "B) Ishonchli, tez, katta",
+      "C) Qisqa, qimmatli, rangli",
+      "D) To'liq, uzluksiz, uzlukli"
+     ],
+     "TO'G'RI_JAVOB": "A) Qimmatli, to'liq, ishonchli",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Inson xotirasidan tashqari axborot saqlanadigan kitob, gazeta, magnitli tasma va shu kabi vositalar nima deb ataladi?",
+     "variantlar": [
+      "A) Axborotni buzish vositalari",
+      "B) Axborot manbalari",
+      "C) Axborot qabul qilish vositalari",
+      "D) Axborot tashuvchi vositalar"
+     ],
+     "TO'G'RI_JAVOB": "D) Axborot tashuvchi vositalar",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Axborotni qayta ishlash nima?",
+     "variantlar": [
+      "A) Bir axborot obyekti ustida zarur amallarni bajarib, boshqa axborot obyektini hosil qilish",
+      "B) Axborotni faqat xotirada saqlash",
+      "C) Axborotni faqat bir joydan boshqa joyga olib borish",
+      "D) Axborotni faqat o'chirib tashlash"
+     ],
+     "TO'G'RI_JAVOB": "A) Bir axborot obyekti ustida zarur amallarni bajarib, boshqa axborot obyektini hosil qilish",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Insonga uzluksiz ta'sir etib turuvchi axborotlar qanday ataladi?",
+     "variantlar": [
+      "A) Uzlukli axborotlar",
+      "B) Analog axborotlar",
+      "C) Raqamli axborotlar",
+      "D) Diskret axborotlar"
+     ],
+     "TO'G'RI_JAVOB": "B) Analog axborotlar",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Axborotlarning uzlukli ko'rinishi qanday ataladi?",
+     "variantlar": [
+      "A) Ortiqcha axborotlar",
+      "B) Diskret axborotlar",
+      "C) Uzluksiz axborotlar",
+      "D) Analog axborotlar"
+     ],
+     "TO'G'RI_JAVOB": "B) Diskret axborotlar",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Diskret axborotlardan eng ko'p tarqalgani qaysi?",
+     "variantlar": [
+      "A) Raqamli axborotlar",
+      "B) Tovushli axborotlar",
+      "C) Yorug'lik axborotlari",
+      "D) Nerv axborotlari"
+     ],
+     "TO'G'RI_JAVOB": "A) Raqamli axborotlar",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Quyidagilardan qaysi biri analog qurilma hisoblanadi?",
+     "variantlar": [
+      "A) Shaxsiy kompyuter",
+      "B) Radio",
+      "C) Raqamli telefon",
+      "D) Raqamli fotoapparat"
+     ],
+     "TO'G'RI_JAVOB": "B) Radio",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Axborotlar ustida bajariladigan asosiy amallar qaysi qatorda to'g'ri ko'rsatilgan?",
+     "variantlar": [
+      "A) Ko'rish, eshitish, tatib ko'rish",
+      "B) Chizish, o'chirish, yozish",
+      "C) To'plash, qayta ishlash, uzatish",
+      "D) Sotish, sotib olish, yo'qotish"
+     ],
+     "TO'G'RI_JAVOB": "C) To'plash, qayta ishlash, uzatish",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Axborotni qayta ishlashning qaysi ikki turi mavjud?",
+     "variantlar": [
+      "A) Mazmunini o'zgartirish va mazmunini o'zgartirmay ko'rinishini o'zgartirish",
+      "B) Yozma va og'zaki qayta ishlash",
+      "C) Tez va sekin qayta ishlash",
+      "D) Analog va raqamli qayta ishlash"
+     ],
+     "TO'G'RI_JAVOB": "A) Mazmunini o'zgartirish va mazmunini o'zgartirmay ko'rinishini o'zgartirish",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Axborotni qayta ishlashning eng asosiy va samarali vositasi qaysi?",
+     "variantlar": [
+      "A) Gazeta",
+      "B) Kompyuter",
+      "C) Magnitli tasma",
+      "D) Kitob"
+     ],
+     "TO'G'RI_JAVOB": "B) Kompyuter",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "«30-sentyabr kuni tantana o'tkaziladi» degan axborot 1-noyabrda axborotning qaysi xususiyatini yo'qotadi?",
+     "variantlar": [
+      "A) To'liqlik",
+      "B) Tushunarlilik",
+      "C) Ishonchlilik",
+      "D) Qimmatlilik"
+     ],
+     "TO'G'RI_JAVOB": "D) Qimmatlilik",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Sinf rahbarining «Yakshanba kuni barchamiz teatrga boramiz, hamma teatr binosi oldida yig'ilsin» degan axborotida qaysi xususiyat yetishmaydi?",
+     "variantlar": [
+      "A) Uzluksizlik",
+      "B) Ishonchlilik",
+      "C) To'liqlik",
+      "D) Qimmatlilik"
+     ],
+     "TO'G'RI_JAVOB": "C) To'liqlik",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Hazilkash sinfdoshingizning «Matematikadan nazorat ishi qoldirildi» degan axboroti qaysi xususiyatga ega emas?",
+     "variantlar": [
+      "A) Ishonchlilik",
+      "B) Tushunarlilik",
+      "C) Qimmatlilik",
+      "D) To'liqlik"
+     ],
+     "TO'G'RI_JAVOB": "A) Ishonchlilik",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "«2008-yilda daftarga tomoni 5 katak bo'lgan kvadrat qizil rangda chizilgan. Uning yuzini hisoblang» masalasida qaysi axborotlar ortiqcha?",
+     "variantlar": [
+      "A) «kvadrat» va «yuzini»",
+      "B) «tomoni 5 katak»",
+      "C) Hech qaysi axborot ortiqcha emas",
+      "D) «2008-yilda» va «qizil rangda»"
+     ],
+     "TO'G'RI_JAVOB": "D) «2008-yilda» va «qizil rangda»",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Atrofdagi buyumlarning nur yordamida ta'siri inson ongiga qaysi yo'l orqali yetib boradi?",
+     "variantlar": [
+      "A) Ko'z retseptorlari va nerv kanallari",
+      "B) Quloq retseptorlari va nerv kanallari",
+      "C) Burun retseptorlari",
+      "D) Til retseptorlari"
+     ],
+     "TO'G'RI_JAVOB": "A) Ko'z retseptorlari va nerv kanallari",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Axborot manbayi sifatida faqat barabanning tovushi qaralsa, inson ongiga qanday axborot yetib keladi?",
+     "variantlar": [
+      "A) Ortiqcha axborot",
+      "B) Ishonchsiz axborot",
+      "C) Uzluksiz axborot",
+      "D) Uzlukli axborot"
+     ],
+     "TO'G'RI_JAVOB": "D) Uzlukli axborot",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Nota belgilari nimani ifodalaydi?",
+     "variantlar": [
+      "A) Musiqiy tovushlarni",
+      "B) Ob-havo haroratini",
+      "C) Insonga tushunarli nutq tovushlarini",
+      "D) Raqamlarni"
+     ],
+     "TO'G'RI_JAVOB": "A) Musiqiy tovushlarni",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Faqat soat va minutlarni ko'rsatadigan soat yordamida lahzalarni bilish mumkin emas. Bu soat qanday axborot beradi?",
+     "variantlar": [
+      "A) Uzlukli axborot",
+      "B) Uzluksiz axborot",
+      "C) Analog axborot",
+      "D) Ishonchsiz axborot"
+     ],
+     "TO'G'RI_JAVOB": "A) Uzlukli axborot",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Quyidagilardan qaysi biri uzlukli axborotga misol bo'ladi?",
+     "variantlar": [
+      "A) Vaqt",
+      "B) Yurak urishi",
+      "C) Inson hayoti",
+      "D) Ob-havo holati"
+     ],
+     "TO'G'RI_JAVOB": "B) Yurak urishi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Dehqonlar nima uchun ob-havo ma'lumotlariga katta e'tibor qaratadi?",
+     "variantlar": [
+      "A) Ob-havoni o'zgartirish uchun",
+      "B) Televizor ko'rish uchun",
+      "C) Yerni qachon shudgorlash va sug'orishni aniq bilib, to'g'ri qaror qabul qilish uchun",
+      "D) Faqat qiziqish uchun"
+     ],
+     "TO'G'RI_JAVOB": "C) Yerni qachon shudgorlash va sug'orishni aniq bilib, to'g'ri qaror qabul qilish uchun",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Qaysi qatorda faqat raqamli qurilmalar keltirilgan?",
+     "variantlar": [
+      "A) Telefon, radio, shaxsiy kompyuter",
+      "B) Televizor, radio, fotoapparat",
+      "C) Videokamera, televizor, raqamli fotoapparat",
+      "D) Shaxsiy kompyuter, raqamli telefon, raqamli videokamera"
+     ],
+     "TO'G'RI_JAVOB": "D) Shaxsiy kompyuter, raqamli telefon, raqamli videokamera",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Uch kishi «ha» yoki «yo'q» deb ovoz berdi. Ovoz berishning barcha mumkin bo'lgan natijalari nechta?",
+     "variantlar": [
+      "A) 4",
+      "B) 6",
+      "C) 9",
+      "D) 8"
+     ],
+     "TO'G'RI_JAVOB": "D) 8",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "1, 2, 3, 5, ..., ..., 21 qatorda (har keyingi son oldingi ikkitasining yig'indisiga teng) yetishmayotgan ikki sonning yig'indisi nechaga teng?",
+     "variantlar": [
+      "A) 19",
+      "B) 23",
+      "C) 17",
+      "D) 21"
+     ],
+     "TO'G'RI_JAVOB": "D) 21",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "1, 2, 6, ..., 120 qatorda yetishmayotgan son nechaga teng (qoidani toping)?",
+     "variantlar": [
+      "A) 30",
+      "B) 24",
+      "C) 12",
+      "D) 18"
+     ],
+     "TO'G'RI_JAVOB": "B) 24",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Tomoni 5 katak bo'lgan kvadratning yuzi va «2008-yilda», «qizil rangda» kabi ortiqcha axborotlar soni qaysi javobda to'g'ri berilgan?",
+     "variantlar": [
+      "A) Yuzi 20 katak, ortiqcha axborot 2 ta",
+      "B) Yuzi 25 katak, ortiqcha axborot 2 ta",
+      "C) Yuzi 10 katak, ortiqcha axborot 1 ta",
+      "D) Yuzi 25 katak, ortiqcha axborot 3 ta"
+     ],
+     "TO'G'RI_JAVOB": "B) Yuzi 25 katak, ortiqcha axborot 2 ta",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Uch kishi «ha» yoki «yo'q» deb ovoz berdi. Kamida ikki kishi «ha» degan natijalar nechta?",
+     "variantlar": [
+      "A) 4",
+      "B) 5",
+      "C) 6",
+      "D) 3"
+     ],
+     "TO'G'RI_JAVOB": "A) 4",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "«Yakshanba kuni barchamiz teatrga boramiz» axborotida noma'lum bo'lgan narsalar nechta (qaysi teatr, qaysi yakshanba, soat nechada)?",
+     "variantlar": [
+      "A) 3 ta",
+      "B) 1 ta",
+      "C) 4 ta",
+      "D) 2 ta"
+     ],
+     "TO'G'RI_JAVOB": "A) 3 ta",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "O'quvchi sinfdoshining hazilini haqiqat deb o'ylab nazorat ishiga tayyorlanmadi. Bu holat axborotning qaysi xususiyati yetishmasligining oqibati va natijasi nima?",
+     "variantlar": [
+      "A) Ishonchlilik yetishmagan, xato qaror va noxush natija",
+      "B) Hech qanday xususiyat yetishmagan, natija yaxshi bo'ladi",
+      "C) Qimmatlilik yetishmagan, axborot eskirgan",
+      "D) To'liqlik yetishmagan, ortiqcha axborot olingan"
+     ],
+     "TO'G'RI_JAVOB": "A) Ishonchlilik yetishmagan, xato qaror va noxush natija",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Baraban tovushini eshitish jarayonida axborot manbayi, aloqa vositasi va qabul qilish vositasi qaysi javobda to'g'ri ketma-ketlikda berilgan?",
+     "variantlar": [
+      "A) Inson ongi, quloq retseptorlari va nerv kanallari, baraban tovushi",
+      "B) Baraban tovushi, quloq retseptorlari va nerv kanallari, inson ongi",
+      "C) Quloq retseptorlari, baraban tovushi, inson ongi",
+      "D) Baraban tovushi, inson ongi, ko'z retseptorlari"
+     ],
+     "TO'G'RI_JAVOB": "B) Baraban tovushi, quloq retseptorlari va nerv kanallari, inson ongi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "1, 2, 4, ..., 16 qatordagi yetishmayotgan son va 1, 4, 9, ..., 25 qatordagi yetishmayotgan son yig'indisi nechaga teng?",
+     "variantlar": [
+      "A) 26",
+      "B) 20",
+      "C) 24",
+      "D) 22"
+     ],
+     "TO'G'RI_JAVOB": "C) 24",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "7-sinf",
+   "kitob": "7-sinf 7-Sinf Informatika",
+   "mavzu": "3-dars. Axborotlarni kodlash usullari",
+   "savollar": [
+    {
+     "savol": "Kodlash nima?",
+     "variantlar": [
+      "A) Axborotni faqat qog'ozga yozish",
+      "B) Axborotni bir kompyuterdan boshqasiga ko'chirish",
+      "C) Axborotni o'chirib tashlash",
+      "D) Axborotlar ustida amallar bajarish qulay bo'lishi uchun ularni aniq qoidalar asosida boshqa ko'rinishga o'tkazish"
+     ],
+     "TO'G'RI_JAVOB": "D) Axborotlar ustida amallar bajarish qulay bo'lishi uchun ularni aniq qoidalar asosida boshqa ko'rinishga o'tkazish",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Kodlangan axborotni birlamchi ko'rinishiga o'tkazish nima deb ataladi?",
+     "variantlar": [
+      "A) Dekodlash",
+      "B) Shifrlash",
+      "C) Kodlash",
+      "D) Belgilash"
+     ],
+     "TO'G'RI_JAVOB": "A) Dekodlash",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Axborotni sir saqlash uchun kodlash nima deb ataladi?",
+     "variantlar": [
+      "A) Piktogramma",
+      "B) Shifrlash",
+      "C) Tekis kodlash",
+      "D) Dekodlash"
+     ],
+     "TO'G'RI_JAVOB": "B) Shifrlash",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Axborotni kodlashni birinchi bo'lib qo'llagan inson kim hisoblanadi?",
+     "variantlar": [
+      "A) Yuliy Sezar",
+      "B) Lisandro",
+      "C) Arximed",
+      "D) Semyuel Morze"
+     ],
+     "TO'G'RI_JAVOB": "B) Lisandro",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Semyuel Morze telegraf kodini qaysi yilda ishlab chiqqan?",
+     "variantlar": [
+      "A) 1738-yilda",
+      "B) 1837-yilda",
+      "C) 1900-yilda",
+      "D) 1838-yilda"
+     ],
+     "TO'G'RI_JAVOB": "D) 1838-yilda",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Qaysi kodlash usulida belgiga mos qo'yilgan kod uzunligi bir xil bo'ladi?",
+     "variantlar": [
+      "A) Deshifrlash",
+      "B) Tekis kodlash",
+      "C) Notekis kodlash",
+      "D) Piktogramma"
+     ],
+     "TO'G'RI_JAVOB": "B) Tekis kodlash",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ko'rinishi orqali mazmunini fahmlash mumkin bo'lgan belgilar (tasviriy yozuvlar) nima deb ataladi?",
+     "variantlar": [
+      "A) Shifrlar",
+      "B) Ramzlar",
+      "C) Piktogrammalar",
+      "D) Kodlar"
+     ],
+     "TO'G'RI_JAVOB": "C) Piktogrammalar",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Morze kodlash usuli qaysi kodlash usuliga misol bo'ladi?",
+     "variantlar": [
+      "A) Notekis kodlash usuliga",
+      "B) O'rin almashtirish usuliga",
+      "C) Tekis kodlash usuliga",
+      "D) Alifboni surish usuliga"
+     ],
+     "TO'G'RI_JAVOB": "A) Notekis kodlash usuliga",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "«Sezar shifri»da matndagi harf alifboda o'zidan keyin kelgan nechanchi harfga almashtiriladi?",
+     "variantlar": [
+      "A) Ikkinchi",
+      "B) To'rtinchi",
+      "C) Uchinchi",
+      "D) Birinchi"
+     ],
+     "TO'G'RI_JAVOB": "C) Uchinchi",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Lisandroning «Ssital» tayoqchasi yordamidagi kodlash usuli qanday ataladi?",
+     "variantlar": [
+      "A) O'rin almashtirish usuli",
+      "B) Tartiblangan alifbo usuli",
+      "C) Alifboni surish usuli",
+      "D) Aralashtirilgan alifbo usuli"
+     ],
+     "TO'G'RI_JAVOB": "A) O'rin almashtirish usuli",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Tartiblangan alifbo usulida «BUG» so'zi qanday kodlanadi? (B – 02, U – 20, G – 06)",
+     "variantlar": [
+      "A) 02 20 06",
+      "B) 03 18 14",
+      "C) 20 02 06",
+      "D) 02 06 20"
+     ],
+     "TO'G'RI_JAVOB": "A) 02 20 06",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Morze usulida A harfi qanday ifodalanadi?",
+     "variantlar": [
+      "A) –",
+      "B) • –",
+      "C) •• –",
+      "D) – •"
+     ],
+     "TO'G'RI_JAVOB": "B) • –",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Aralashtirilgan alifbo usulida (S – 28, O – 17, L – 19) «SOL» so'zi qanday kodlanadi?",
+     "variantlar": [
+      "A) 28 19 17",
+      "B) 19 17 28",
+      "C) 17 28 19",
+      "D) 28 17 19"
+     ],
+     "TO'G'RI_JAVOB": "D) 28 17 19",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Morze usulida L harfi 4 ta, O harfi 3 ta, T harfi 1 ta belgi bilan ifodalanadi. «LOT» so'zi kodida nechta belgi bor?",
+     "variantlar": [
+      "A) 7",
+      "B) 8",
+      "C) 9",
+      "D) 10"
+     ],
+     "TO'G'RI_JAVOB": "B) 8",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Tartiblangan alifbo usulida 8 harfdan iborat so'z nechta belgi (raqam) bilan kodlanadi?",
+     "variantlar": [
+      "A) 10",
+      "B) 8",
+      "C) 24",
+      "D) 16"
+     ],
+     "TO'G'RI_JAVOB": "D) 16",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Quyidagilardan qaysi biri tekis kodlash usuliga misol bo'ladi?",
+     "variantlar": [
+      "A) Morze usuli",
+      "B) Hech biri",
+      "C) Sezar usuli",
+      "D) Ularning barchasi notekis"
+     ],
+     "TO'G'RI_JAVOB": "C) Sezar usuli",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "H harfi lotin va kirill alifbosida ikki xil ma'noda tushuniladi. Bu belgi qaysi turga kiradi?",
+     "variantlar": [
+      "A) Ramz (simvol)",
+      "B) Shifr",
+      "C) Dekod",
+      "D) Piktogramma"
+     ],
+     "TO'G'RI_JAVOB": "A) Ramz (simvol)",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Tartiblangan alifbo usulida «07 01 21 14» kodi qaysi so'zni bildiradi? (H – 07, A – 01, V – 21, O – 14)",
+     "variantlar": [
+      "A) HOVA",
+      "B) VAHO",
+      "C) HAOV",
+      "D) HAVO"
+     ],
+     "TO'G'RI_JAVOB": "D) HAVO",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Aralashtirilgan alifbo usulida (B – 03, U – 18, G – 14) «03 18 14» kodi qaysi so'zga mos keladi?",
+     "variantlar": [
+      "A) BGU",
+      "B) UBG",
+      "C) BUG",
+      "D) GUB"
+     ],
+     "TO'G'RI_JAVOB": "C) BUG",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Morze jadvalida quyidagi harflardan qaysi biri eng qisqa kodga (1 ta belgi) ega?",
+     "variantlar": [
+      "A) K",
+      "B) L",
+      "C) O",
+      "D) T"
+     ],
+     "TO'G'RI_JAVOB": "D) T",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Tartiblangan alifbo usulida «TOG'» so'zi kodlandi (T – 19, O – 14, G' – 28). Hosil bo'lgan uchta sonning yig'indisi nechaga teng?",
+     "variantlar": [
+      "A) 63",
+      "B) 61",
+      "C) 47",
+      "D) 59"
+     ],
+     "TO'G'RI_JAVOB": "B) 61",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Nima uchun aralashtirilgan alifbo usulida kodlangan matnni jadvalni bilmasdan dekodlash juda murakkab?",
+     "variantlar": [
+      "A) Chunki kodlar harflarning alifbodagi tartibiga mos kelmaydi, jadval kerak bo'ladi",
+      "B) Chunki bunda faqat bitta harf kodlanadi",
+      "C) Chunki har bir harfga turli uzunlikdagi kod beriladi",
+      "D) Chunki matn faqat nuqta va tirelardan iborat bo'ladi"
+     ],
+     "TO'G'RI_JAVOB": "A) Chunki kodlar harflarning alifbodagi tartibiga mos kelmaydi, jadval kerak bo'ladi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Morze usulida K – 3, A – 2, R – 3, T – 1 ta belgi bilan ifodalanadi. «KARTA» so'zi Morze usulida tartiblangan alifbo usuliga qaraganda nechta belgi ko'p bilan yoziladi?",
+     "variantlar": [
+      "A) 3",
+      "B) 0",
+      "C) 1",
+      "D) 2"
+     ],
+     "TO'G'RI_JAVOB": "C) 1",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Tartiblangan alifbo jadvalida kodi 14 bo'lgan harfdan keyin va kodi 17 bo'lgan harfdan oldin qaysi harflar keladi? (14 – O, 17 – R)",
+     "variantlar": [
+      "A) O va P",
+      "B) N va P",
+      "C) Q va R",
+      "D) P va Q"
+     ],
+     "TO'G'RI_JAVOB": "D) P va Q",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Aralashtirilgan alifbo usulida «24 12 22 10 12» kodi qaysi so'zni bildiradi? (K – 24, A – 12, R – 22, T – 10)",
+     "variantlar": [
+      "A) KARAT",
+      "B) KARTA",
+      "C) KORTA",
+      "D) TARKA"
+     ],
+     "TO'G'RI_JAVOB": "B) KARTA",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "«12» kodi tartiblangan alifbo usulida va aralashtirilgan alifbo usulida mos ravishda qaysi harfni bildiradi? (Tartiblangan: M – 12; aralashtirilgan: A – 12)",
+     "variantlar": [
+      "A) A va M",
+      "B) A va A",
+      "C) M va M",
+      "D) M va A"
+     ],
+     "TO'G'RI_JAVOB": "D) M va A",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "«HAVO» so'zining birinchi harfi H tartiblangan alifbo usulida 07, aralashtirilgan alifbo usulida 34 bilan kodlanadi. Bu ikki kod orasidagi farq nechaga teng?",
+     "variantlar": [
+      "A) 41",
+      "B) 27",
+      "C) 28",
+      "D) 26"
+     ],
+     "TO'G'RI_JAVOB": "B) 27",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Morze usuli haqidagi qaysi gap to'g'ri?",
+     "variantlar": [
+      "A) U tekis kodlash usuli, chunki faqat ikki belgi ishlatiladi",
+      "B) U shifrlash usuli bo'lib, harflarni alifboda suradi",
+      "C) U notekis kodlash usuli va texnik vositalarda qo'llab bo'lmaydi",
+      "D) U notekis kodlash usuli, faqat ikki belgidan (nuqta va tire) iborat bo'lgani uchun texnik vositalarda qo'llash mumkin"
+     ],
+     "TO'G'RI_JAVOB": "D) U notekis kodlash usuli, faqat ikki belgidan (nuqta va tire) iborat bo'lgani uchun texnik vositalarda qo'llash mumkin",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "«Bugun havo issiq» matni (bo'shliqlarsiz 14 ta harf) tartiblangan alifbo usulida kodlanganda jami nechta raqam hosil bo'ladi?",
+     "variantlar": [
+      "A) 26",
+      "B) 28",
+      "C) 30",
+      "D) 14"
+     ],
+     "TO'G'RI_JAVOB": "B) 28",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "«ISSIQ» so'zi aralashtirilgan alifbo usulida (I – 11, S – 28, Q – 21), tartiblangan alifbo usulida (I – 08, S – 18, Q – 16) kodlandi. Har bir usulda hosil bo'lgan kodlar yig'indisi orasidagi farq nechaga teng?",
+     "variantlar": [
+      "A) 30",
+      "B) 33",
+      "C) 29",
+      "D) 31"
+     ],
+     "TO'G'RI_JAVOB": "D) 31",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "7-sinf",
+   "kitob": "7-sinf 7-Sinf Informatika",
+   "mavzu": "4-dars. Sanoq sistemalari haqida",
+   "savollar": [
+    {
+     "savol": "Muhammad al-Xorazmiy o'nlik sanoq sistemasiga qaysi raqamni kiritgan?",
+     "variantlar": [
+      "A) 5",
+      "B) 1",
+      "C) 9",
+      "D) 0"
+     ],
+     "TO'G'RI_JAVOB": "D) 0",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Sanoq sistemasining asosi (quvvati) nima?",
+     "variantlar": [
+      "A) Sistemadagi raqamlar soni",
+      "B) Sonning xonalar soni",
+      "C) Eng kichik son",
+      "D) Eng katta raqam"
+     ],
+     "TO'G'RI_JAVOB": "A) Sistemadagi raqamlar soni",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Quyidagilardan qaysi biri pozitsiyali bo'lmagan sanoq sistemasiga misol bo'ladi?",
+     "variantlar": [
+      "A) Ikkilik sanoq sistemasi",
+      "B) O'n oltilik sanoq sistemasi",
+      "C) Rim sanoq sistemasi",
+      "D) O'nlik sanoq sistemasi"
+     ],
+     "TO'G'RI_JAVOB": "C) Rim sanoq sistemasi",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Qadimgi Misr o'nlik sanoq sistemasida har bir raqam ketma-ket necha martadan ortiq takrorlanmagan?",
+     "variantlar": [
+      "A) 10 martadan",
+      "B) 5 martadan",
+      "C) 9 martadan",
+      "D) 12 martadan"
+     ],
+     "TO'G'RI_JAVOB": "C) 9 martadan",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Mayya sanoq sistemasida nechta raqam ishlatilgan?",
+     "variantlar": [
+      "A) 10 ta",
+      "B) 12 ta",
+      "C) 20 ta",
+      "D) 60 ta"
+     ],
+     "TO'G'RI_JAVOB": "C) 20 ta",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Al-Xorazmiy qaysi yilda Xorazmda tug'ilgan?",
+     "variantlar": [
+      "A) 1120-yilda",
+      "B) 783-yilda",
+      "C) 632-yilda",
+      "D) 1991-yilda"
+     ],
+     "TO'G'RI_JAVOB": "B) 783-yilda",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida qanday raqamlar mavjud?",
+     "variantlar": [
+      "A) 1 va 2",
+      "B) 0 va 1",
+      "C) 0, 1 va 2",
+      "D) faqat 1"
+     ],
+     "TO'G'RI_JAVOB": "B) 0 va 1",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Har qanday pozitsiyali sanoq sistemasining asosi shu sistemada qaysi son ko'rinishida yoziladi?",
+     "variantlar": [
+      "A) 0",
+      "B) 1",
+      "C) 10",
+      "D) 2"
+     ],
+     "TO'G'RI_JAVOB": "C) 10",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "O'nlik sanoq sistemasida 568 nima hisoblanadi?",
+     "variantlar": [
+      "A) Asos",
+      "B) Son",
+      "C) Alifbo",
+      "D) Raqam"
+     ],
+     "TO'G'RI_JAVOB": "B) Son",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "«Algoritm» atamasi al-Xorazmiy risolasining lotincha tarjimasidagi qaysi ibora asosida tarqalgan?",
+     "variantlar": [
+      "A) Kitob surat ul-arz",
+      "B) Dixit Algorizmi",
+      "C) Hisob al-Hind",
+      "D) Zij"
+     ],
+     "TO'G'RI_JAVOB": "B) Dixit Algorizmi",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "O'n oltilik sanoq sistemasida F raqamidan keyin qaysi son keladi?",
+     "variantlar": [
+      "A) G",
+      "B) 10",
+      "C) A0",
+      "D) F1"
+     ],
+     "TO'G'RI_JAVOB": "B) 10",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "7 lik sanoq sistemasida 16 sonidan keyin qaysi son keladi?",
+     "variantlar": [
+      "A) 10",
+      "B) 26",
+      "C) 20",
+      "D) 17"
+     ],
+     "TO'G'RI_JAVOB": "C) 20",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 111 sonidan keyin qaysi son keladi?",
+     "variantlar": [
+      "A) 1000",
+      "B) 1001",
+      "C) 1010",
+      "D) 112"
+     ],
+     "TO'G'RI_JAVOB": "A) 1000",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "5 lik sanoq sistemasida 44 sonidan keyin qaysi son keladi?",
+     "variantlar": [
+      "A) 100",
+      "B) 55",
+      "C) 50",
+      "D) 45"
+     ],
+     "TO'G'RI_JAVOB": "A) 100",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "100101 sonining ikkilik sistemadagi sodda yoyiq ko'rinishi qaysi?",
+     "variantlar": [
+      "A) 1·2^6 + 1·2^3 + 1·2^1",
+      "B) 1·2^5 + 1·2^2 + 1·2^0",
+      "C) 1·2^4 + 1·2^2 + 1·2^1",
+      "D) 1·2^5 + 1·2^3 + 1·2^0"
+     ],
+     "TO'G'RI_JAVOB": "B) 1·2^5 + 1·2^2 + 1·2^0",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "To'rtlik sanoq sistemasidagi 2301 sonini diada usulida kodlang (4: 0→00, 1→01, 2→10, 3→11).",
+     "variantlar": [
+      "A) 10110001",
+      "B) 11010001",
+      "C) 10110010",
+      "D) 01110001"
+     ],
+     "TO'G'RI_JAVOB": "A) 10110001",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Sakkizlik sanoq sistemasidagi 2017 sonini triada usulida kodlang.",
+     "variantlar": [
+      "A) 010001000111",
+      "B) 010000001111",
+      "C) 001000001111",
+      "D) 010000011111"
+     ],
+     "TO'G'RI_JAVOB": "B) 010000001111",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Quyidagi sonlardan qaysi biri 6 lik sanoq sistemasida yozilishi mumkin emas?",
+     "variantlar": [
+      "A) 3405",
+      "B) 5320",
+      "C) 2016",
+      "D) 1425"
+     ],
+     "TO'G'RI_JAVOB": "C) 2016",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Mayya sanoq sistemasida 1·20² + 0·20 + 7 yig'indisi bilan berilgan son qaysi (o'nlikda)?",
+     "variantlar": [
+      "A) 147",
+      "B) 407",
+      "C) 47",
+      "D) 427"
+     ],
+     "TO'G'RI_JAVOB": "B) 407",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "1011 ikkilik sonining o'nlik sanoq sistemasidagi qiymati nechaga teng?",
+     "variantlar": [
+      "A) 9",
+      "B) 13",
+      "C) 11",
+      "D) 10"
+     ],
+     "TO'G'RI_JAVOB": "C) 11",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Sakkizlik sanoq sistemasidagi 100 sonining o'nlik sanoq sistemasidagi qiymati nechaga teng?",
+     "variantlar": [
+      "A) 80",
+      "B) 100",
+      "C) 8",
+      "D) 64"
+     ],
+     "TO'G'RI_JAVOB": "D) 64",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "11100001 diada kodini to'rtlik sanoq sistemasiga dekodlang (00→0, 01→1, 10→2, 11→3).",
+     "variantlar": [
+      "A) 3021",
+      "B) 3201",
+      "C) 3210",
+      "D) 2301"
+     ],
+     "TO'G'RI_JAVOB": "B) 3201",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "100101011100 triada kodini sakkizlik sanoq sistemasiga dekodlang.",
+     "variantlar": [
+      "A) 4553",
+      "B) 5434",
+      "C) 4534",
+      "D) 4543"
+     ],
+     "TO'G'RI_JAVOB": "C) 4534",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "10101111 tetrada kodi o'n oltilik sanoq sistemasida qaysi songa mos keladi?",
+     "variantlar": [
+      "A) AE",
+      "B) AF",
+      "C) FA",
+      "D) BE"
+     ],
+     "TO'G'RI_JAVOB": "B) AF",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "O'n oltilik sanoq sistemasidagi ADA sonining o'nlik sanoq sistemasidagi qiymati nechaga teng?",
+     "variantlar": [
+      "A) 2788",
+      "B) 2778",
+      "C) 2768",
+      "D) 2678"
+     ],
+     "TO'G'RI_JAVOB": "B) 2778",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "7 lik sanoq sistemasida 20 dan 30 gacha (20 va 30 ham kiradi) nechta son bor?",
+     "variantlar": [
+      "A) 8",
+      "B) 11",
+      "C) 7",
+      "D) 10"
+     ],
+     "TO'G'RI_JAVOB": "A) 8",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Qaysi sanoq sistemasida 13 sonidan keyin darrov 20 soni keladi?",
+     "variantlar": [
+      "A) 4 lik",
+      "B) 8 lik",
+      "C) 3 lik",
+      "D) 5 lik"
+     ],
+     "TO'G'RI_JAVOB": "A) 4 lik",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "O'n oltilik sanoq sistemasidagi 7 xonali ADADADA sonini tetrada usulida kodlasak, ikkilik kod necha raqamdan iborat bo'ladi?",
+     "variantlar": [
+      "A) 21",
+      "B) 28",
+      "C) 32",
+      "D) 24"
+     ],
+     "TO'G'RI_JAVOB": "B) 28",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "100101 ikkilik sonining o'nlik sanoq sistemasidagi qiymati (yoyiq ko'rinish orqali) nechaga teng?",
+     "variantlar": [
+      "A) 21",
+      "B) 41",
+      "C) 35",
+      "D) 37"
+     ],
+     "TO'G'RI_JAVOB": "D) 37",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "7-sinf",
+   "kitob": "7-sinf 7-Sinf Informatika",
+   "mavzu": "5-dars. IKKILIK SANOQ SISTEMASIDA AMALLAR BAJARISH",
+   "savollar": [
+    {
+     "savol": "Ikkilik sanoq sistemasi qanday raqamlardan tashkil topgan?",
+     "variantlar": [
+      "A) 0, 1 va 2",
+      "B) 0 dan 9 gacha",
+      "C) 1 va 2",
+      "D) 0 va 1"
+     ],
+     "TO'G'RI_JAVOB": "D) 0 va 1",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 1 + 1 nimaga teng?",
+     "variantlar": [
+      "A) 2",
+      "B) 0",
+      "C) 11",
+      "D) 10"
+     ],
+     "TO'G'RI_JAVOB": "D) 10",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 10 – 1 nimaga teng?",
+     "variantlar": [
+      "A) 1",
+      "B) 10",
+      "C) 11",
+      "D) 0"
+     ],
+     "TO'G'RI_JAVOB": "A) 1",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 1 • 1 nimaga teng?",
+     "variantlar": [
+      "A) 1",
+      "B) 0",
+      "C) 11",
+      "D) 10"
+     ],
+     "TO'G'RI_JAVOB": "A) 1",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Biror razryad sonlarini qo'shganda natija sanoq sistemasi asosidan katta chiqsa, nima qilish kerak?",
+     "variantlar": [
+      "A) Natijani ikkiga bo'lish kerak",
+      "B) Amalni ayirish bilan almashtirish kerak",
+      "C) Natijani o'chirib tashlash kerak",
+      "D) Yig'indining asosdan katta qismini keyingi razryadga o'tkazish kerak"
+     ],
+     "TO'G'RI_JAVOB": "D) Yig'indining asosdan katta qismini keyingi razryadga o'tkazish kerak",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Pozitsiyali sanoq sistemalarida qo'shish amali qaysi razryaddan boshlanadi?",
+     "variantlar": [
+      "A) Istalgan razryaddan",
+      "B) Birliklar razryadidan",
+      "C) Eng katta razryaddan",
+      "D) O'rtadagi razryaddan"
+     ],
+     "TO'G'RI_JAVOB": "B) Birliklar razryadidan",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "O'nlik sanoq sistemasidagi arifmetik amallarni bajarish usullari qaysi sanoq sistemalari uchun o'rinli?",
+     "variantlar": [
+      "A) Faqat o'nlik uchun",
+      "B) Faqat sakkizlik uchun",
+      "C) Barcha pozitsiyali sanoq sistemalari uchun",
+      "D) Faqat ikkilik uchun"
+     ],
+     "TO'G'RI_JAVOB": "C) Barcha pozitsiyali sanoq sistemalari uchun",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Darslikka ko'ra, ikkilik sanoq sistemasida amallar qanday bajarilishini bilish nima uchun maqsadga muvofiq?",
+     "variantlar": [
+      "A) Faqat matematika fanini o'rganish uchun",
+      "B) Rasm chizish uchun",
+      "C) Kompyuterlarning ishlash prinsipini o'rganish uchun",
+      "D) O'nlik sanoq sistemasini unutish uchun"
+     ],
+     "TO'G'RI_JAVOB": "C) Kompyuterlarning ishlash prinsipini o'rganish uchun",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 0 • 1 nimaga teng?",
+     "variantlar": [
+      "A) 10",
+      "B) 11",
+      "C) 1",
+      "D) 0"
+     ],
+     "TO'G'RI_JAVOB": "D) 0",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasidagi ayirish jadvaliga ko'ra, 10 – 0 nimaga teng?",
+     "variantlar": [
+      "A) 11",
+      "B) 10",
+      "C) 0",
+      "D) 1"
+     ],
+     "TO'G'RI_JAVOB": "B) 10",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 101 + 111 nimaga teng?",
+     "variantlar": [
+      "A) 1100",
+      "B) 1000",
+      "C) 1110",
+      "D) 1010"
+     ],
+     "TO'G'RI_JAVOB": "A) 1100",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 1101 + 110 nimaga teng?",
+     "variantlar": [
+      "A) 1111",
+      "B) 10011",
+      "C) 10001",
+      "D) 10101"
+     ],
+     "TO'G'RI_JAVOB": "B) 10011",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 1010 – 110 nimaga teng?",
+     "variantlar": [
+      "A) 110",
+      "B) 100",
+      "C) 10",
+      "D) 101"
+     ],
+     "TO'G'RI_JAVOB": "B) 100",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 1100 – 11 nimaga teng?",
+     "variantlar": [
+      "A) 1010",
+      "B) 1000",
+      "C) 1001",
+      "D) 111"
+     ],
+     "TO'G'RI_JAVOB": "C) 1001",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 101 • 11 nimaga teng?",
+     "variantlar": [
+      "A) 10101",
+      "B) 1111",
+      "C) 111",
+      "D) 1011"
+     ],
+     "TO'G'RI_JAVOB": "B) 1111",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 110 • 101 nimaga teng?",
+     "variantlar": [
+      "A) 10110",
+      "B) 11111",
+      "C) 11110",
+      "D) 11100"
+     ],
+     "TO'G'RI_JAVOB": "C) 11110",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 1111 + 1011 nimaga teng?",
+     "variantlar": [
+      "A) 11100",
+      "B) 11010",
+      "C) 10110",
+      "D) 11001"
+     ],
+     "TO'G'RI_JAVOB": "B) 11010",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 111 • 11 nimaga teng?",
+     "variantlar": [
+      "A) 11001",
+      "B) 10011",
+      "C) 10101",
+      "D) 10111"
+     ],
+     "TO'G'RI_JAVOB": "C) 10101",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 1011 + 110 nimaga teng?",
+     "variantlar": [
+      "A) 10101",
+      "B) 10011",
+      "C) 1111",
+      "D) 10001"
+     ],
+     "TO'G'RI_JAVOB": "D) 10001",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 1010 + 1111 nimaga teng?",
+     "variantlar": [
+      "A) 10111",
+      "B) 10101",
+      "C) 11001",
+      "D) 11011"
+     ],
+     "TO'G'RI_JAVOB": "C) 11001",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 1001 • 101 – 1110 + 111 ifodani hisoblang.",
+     "variantlar": [
+      "A) 110110",
+      "B) 100100",
+      "C) 100110",
+      "D) 101110"
+     ],
+     "TO'G'RI_JAVOB": "C) 100110",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 100 + 111 + 1111 yig'indisini hisoblang (o'nlikda 4 + 7 + 15).",
+     "variantlar": [
+      "A) 10110",
+      "B) 11100",
+      "C) 11010",
+      "D) 11000"
+     ],
+     "TO'G'RI_JAVOB": "C) 11010",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 11,011 + 101,01 nimaga teng?",
+     "variantlar": [
+      "A) 111,101",
+      "B) 1001,101",
+      "C) 1000,101",
+      "D) 1000,011"
+     ],
+     "TO'G'RI_JAVOB": "C) 1000,101",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 1011 – 101,11 nimaga teng?",
+     "variantlar": [
+      "A) 100,01",
+      "B) 101,01",
+      "C) 110,01",
+      "D) 101,11"
+     ],
+     "TO'G'RI_JAVOB": "B) 101,01",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 11011,11 – 101,01 nimaga teng?",
+     "variantlar": [
+      "A) 10101,1",
+      "B) 10111,1",
+      "C) 10110,01",
+      "D) 10110,1"
+     ],
+     "TO'G'RI_JAVOB": "D) 10110,1",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 1111 – 10,11 nimaga teng?",
+     "variantlar": [
+      "A) 1100,01",
+      "B) 1101,01",
+      "C) 1011,01",
+      "D) 1100,11"
+     ],
+     "TO'G'RI_JAVOB": "A) 1100,01",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 1101,101 – 1001,01 nimaga teng?",
+     "variantlar": [
+      "A) 100,011",
+      "B) 11,011",
+      "C) 101,011",
+      "D) 100,101"
+     ],
+     "TO'G'RI_JAVOB": "A) 100,011",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 101,11 • 11,01 nimaga teng?",
+     "variantlar": [
+      "A) 10010,1011",
+      "B) 10011,1011",
+      "C) 10010,1101",
+      "D) 1010,1011"
+     ],
+     "TO'G'RI_JAVOB": "A) 10010,1011",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 1011 • 11,01 nimaga teng?",
+     "variantlar": [
+      "A) 100111,11",
+      "B) 100011,01",
+      "C) 10011,11",
+      "D) 100011,11"
+     ],
+     "TO'G'RI_JAVOB": "D) 100011,11",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 1111,01 • 101 nimaga teng?",
+     "variantlar": [
+      "A) 1000100,01",
+      "B) 1011100,01",
+      "C) 1001100,11",
+      "D) 1001100,01"
+     ],
+     "TO'G'RI_JAVOB": "D) 1001100,01",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "7-sinf",
+   "kitob": "7-sinf 7-Sinf Informatika",
+   "mavzu": "6-dars. AMALIY MASHG'ULOT",
+   "savollar": [
+    {
+     "savol": "Ikkilik sanoq sistemasida 1+1 nimaga teng?",
+     "variantlar": [
+      "A) 10",
+      "B) 11",
+      "C) 0",
+      "D) 2"
+     ],
+     "TO'G'RI_JAVOB": "A) 10",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 10+11 yig'indisini toping.",
+     "variantlar": [
+      "A) 111",
+      "B) 100",
+      "C) 101",
+      "D) 110"
+     ],
+     "TO'G'RI_JAVOB": "C) 101",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Kompyuter bilan bog'liq sanoq sistemalari qaysilar?",
+     "variantlar": [
+      "A) Beshlik va o'nlik",
+      "B) Ikkilik, sakkizlik va o'n oltilik",
+      "C) Faqat ikkilik",
+      "D) Ikkilik va uchlik"
+     ],
+     "TO'G'RI_JAVOB": "B) Ikkilik, sakkizlik va o'n oltilik",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Triada necha ikkilik razryaddan iborat?",
+     "variantlar": [
+      "A) 3",
+      "B) 8",
+      "C) 4",
+      "D) 2"
+     ],
+     "TO'G'RI_JAVOB": "A) 3",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Tetrada necha ikkilik razryaddan iborat?",
+     "variantlar": [
+      "A) 4",
+      "B) 8",
+      "C) 3",
+      "D) 16"
+     ],
+     "TO'G'RI_JAVOB": "A) 4",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Sakkizlik sanoq sistemasida qaysi raqamlar ishlatiladi?",
+     "variantlar": [
+      "A) 0 dan 9 gacha",
+      "B) 0 dan 7 gacha",
+      "C) 1 dan 8 gacha",
+      "D) 0 dan 8 gacha"
+     ],
+     "TO'G'RI_JAVOB": "B) 0 dan 7 gacha",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Asosi o'n bo'lmagan pozitsiyali sanoq sistemasidagi manfiymas butun sonni o'nlik sanoq sistemasiga o'tkazish uchun nima qilinadi?",
+     "variantlar": [
+      "A) Son 10 ga bo'linadi",
+      "B) Son ixcham ko'rinishdan yoyiq ko'rinishga o'tkaziladi va yig'indi hisoblanadi",
+      "C) Son 2 ga ko'paytiriladi",
+      "D) Sonning raqamlari teskari tartibda yoziladi"
+     ],
+     "TO'G'RI_JAVOB": "B) Son ixcham ko'rinishdan yoyiq ko'rinishga o'tkaziladi va yig'indi hisoblanadi",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 11 · 11 ko'paytmasi nimaga teng?",
+     "variantlar": [
+      "A) 110",
+      "B) 1001",
+      "C) 101",
+      "D) 1111"
+     ],
+     "TO'G'RI_JAVOB": "B) 1001",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "O'n oltilik sanoq sistemasidagi F raqami o'nlik sanoq sistemasida nechaga teng?",
+     "variantlar": [
+      "A) 17",
+      "B) 16",
+      "C) 14",
+      "D) 15"
+     ],
+     "TO'G'RI_JAVOB": "D) 15",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 101–11 ayirmasi nimaga teng?",
+     "variantlar": [
+      "A) 1",
+      "B) 10",
+      "C) 11",
+      "D) 100"
+     ],
+     "TO'G'RI_JAVOB": "B) 10",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 10,101+11,111 yig'indisini toping.",
+     "variantlar": [
+      "A) 101,11",
+      "B) 111,01",
+      "C) 110,01",
+      "D) 110,1"
+     ],
+     "TO'G'RI_JAVOB": "D) 110,1",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 110001–11,01 ayirmasini toping.",
+     "variantlar": [
+      "A) 110101,11",
+      "B) 101101,01",
+      "C) 101011,11",
+      "D) 101101,11"
+     ],
+     "TO'G'RI_JAVOB": "D) 101101,11",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 10000–100,11 ayirmasini toping.",
+     "variantlar": [
+      "A) 1010,01",
+      "B) 1011,11",
+      "C) 1011,01",
+      "D) 1100,01"
+     ],
+     "TO'G'RI_JAVOB": "C) 1011,01",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 111 · 11,101 ko'paytmasini toping.",
+     "variantlar": [
+      "A) 11001,011",
+      "B) 11000,011",
+      "C) 11001,101",
+      "D) 10111,011"
+     ],
+     "TO'G'RI_JAVOB": "A) 11001,011",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Quyidagi ikkilik amallardan qaysi biri xato bajarilgan?",
+     "variantlar": [
+      "A) 11100+11=100111",
+      "B) 11 · 11=1001",
+      "C) 111010+10=111100",
+      "D) 11111 · 1010=100110110"
+     ],
+     "TO'G'RI_JAVOB": "A) 11100+11=100111",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 1110–1101+1011–111 ifodasining natijasini toping.",
+     "variantlar": [
+      "A) 101",
+      "B) 100",
+      "C) 110",
+      "D) 11"
+     ],
+     "TO'G'RI_JAVOB": "A) 101",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "O'n oltilik sanoq sistemasidagi A5 soni o'nlik sanoq sistemasida nechaga teng?",
+     "variantlar": [
+      "A) 175",
+      "B) 165",
+      "C) 105",
+      "D) 155"
+     ],
+     "TO'G'RI_JAVOB": "B) 165",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Sakkizlik sanoq sistemasidagi 143 soni o'nlik sanoq sistemasida nechaga teng?",
+     "variantlar": [
+      "A) 99",
+      "B) 83",
+      "C) 143",
+      "D) 67"
+     ],
+     "TO'G'RI_JAVOB": "A) 99",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Sakkizlik sanoq sistemasida 143+57 yig'indisini toping.",
+     "variantlar": [
+      "A) 222",
+      "B) 212",
+      "C) 221",
+      "D) 232"
+     ],
+     "TO'G'RI_JAVOB": "A) 222",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Sakkizlik sanoq sistemasidagi 143 sonining triada kodi qaysi javobda to'g'ri berilgan?",
+     "variantlar": [
+      "A) 001 100 111",
+      "B) 001 010 011",
+      "C) 001 100 011",
+      "D) 011 100 001"
+     ],
+     "TO'G'RI_JAVOB": "C) 001 100 011",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Sakkizlik sanoq sistemasida 143–57 ayirmasini toping.",
+     "variantlar": [
+      "A) 74",
+      "B) 66",
+      "C) 54",
+      "D) 64"
+     ],
+     "TO'G'RI_JAVOB": "D) 64",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Sakkizlik sanoq sistemasida 143 · 57 ko'paytmasini toping.",
+     "variantlar": [
+      "A) 11155",
+      "B) 11065",
+      "C) 10555",
+      "D) 11055"
+     ],
+     "TO'G'RI_JAVOB": "D) 11055",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "O'n oltilik sanoq sistemasida A5+F yig'indisini toping.",
+     "variantlar": [
+      "A) B4",
+      "B) A4",
+      "C) B5",
+      "D) C4"
+     ],
+     "TO'G'RI_JAVOB": "A) B4",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "O'n oltilik sanoq sistemasida A5–F ayirmasini toping.",
+     "variantlar": [
+      "A) A6",
+      "B) 9A",
+      "C) 96",
+      "D) 86"
+     ],
+     "TO'G'RI_JAVOB": "C) 96",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "O'n oltilik sanoq sistemasida A5 · F ko'paytmasini toping.",
+     "variantlar": [
+      "A) 98B",
+      "B) 9BA",
+      "C) 9AB",
+      "D) A9B"
+     ],
+     "TO'G'RI_JAVOB": "C) 9AB",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 110001101+11001111–111000111 ifodasining natijasini toping.",
+     "variantlar": [
+      "A) 10010011",
+      "B) 10011101",
+      "C) 10110101",
+      "D) 10010101"
+     ],
+     "TO'G'RI_JAVOB": "D) 10010101",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 11 · 101+110 · 111 ifodasining natijasini toping.",
+     "variantlar": [
+      "A) 111011",
+      "B) 110101",
+      "C) 111001",
+      "D) 101101"
+     ],
+     "TO'G'RI_JAVOB": "C) 111001",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 1001 · 101–1110+111 ifodasining natijasini toping.",
+     "variantlar": [
+      "A) 101010",
+      "B) 110110",
+      "C) 100100",
+      "D) 100110"
+     ],
+     "TO'G'RI_JAVOB": "D) 100110",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 100101 · 101,011 ko'paytmasini toping.",
+     "variantlar": [
+      "A) 11000110,111",
+      "B) 11001110,111",
+      "C) 10100110,111",
+      "D) 11000110,101"
+     ],
+     "TO'G'RI_JAVOB": "A) 11000110,111",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 11010,11 · 10,01 ko'paytmasini toping.",
+     "variantlar": [
+      "A) 111100,0101",
+      "B) 111100,0011",
+      "C) 111010,0011",
+      "D) 111100,0111"
+     ],
+     "TO'G'RI_JAVOB": "B) 111100,0011",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "7-sinf",
+   "kitob": "7-sinf 7-Sinf Informatika",
+   "mavzu": "7-dars. Bir sanoq sistemasidagi sonlarni boshqa sanoq sistemasida tasvirlash",
+   "savollar": [
+    {
+     "savol": "O'nlik sanoq sistemasidagi manfiymas butun sonni p asosli sistemaga o'tkazishda ketma-ket bo'lish qachon to'xtatiladi?",
+     "variantlar": [
+      "A) Qoldiq 0 bo'lganda",
+      "B) Bo'linma 10 bo'lganda",
+      "C) Qoldiq p ga teng bo'lganda",
+      "D) Bo'linma p dan kichik bo'lganda"
+     ],
+     "TO'G'RI_JAVOB": "D) Bo'linma p dan kichik bo'lganda",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "O'nlik sanoq sistemasidagi sonni p asosli sistemaga o'tkazishda hosil bo'lgan qoldiqlar qanday tartibda yoziladi?",
+     "variantlar": [
+      "A) Tasodifiy tartibda",
+      "B) Chapdan o'ngga qarab",
+      "C) O'ngdan chapga qarab",
+      "D) Kattasidan kichigiga qarab"
+     ],
+     "TO'G'RI_JAVOB": "C) O'ngdan chapga qarab",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Sonni ixtiyoriy p asosli sistemadan q asosli sistemaga o'tkazishda «ko'prik» vazifasini qaysi sanoq sistemasi o'taydi?",
+     "variantlar": [
+      "A) O'n oltilik",
+      "B) Sakkizlik",
+      "C) O'nlik",
+      "D) Ikkilik"
+     ],
+     "TO'G'RI_JAVOB": "C) O'nlik",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Diada, triada va tetrada usullarida «ko'prik» vazifasini qaysi sanoq sistemasi o'taydi?",
+     "variantlar": [
+      "A) O'nlik",
+      "B) O'n oltilik",
+      "C) Ikkilik",
+      "D) Sakkizlik"
+     ],
+     "TO'G'RI_JAVOB": "C) Ikkilik",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Triada usulida sakkizlik sanoq sistemasining bitta raqami nechta ikkilik raqam bilan almashtiriladi?",
+     "variantlar": [
+      "A) 4 ta",
+      "B) 8 ta",
+      "C) 2 ta",
+      "D) 3 ta"
+     ],
+     "TO'G'RI_JAVOB": "D) 3 ta",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Tetrada usuli qaysi sanoq sistemalari orasida o'tkazish uchun qulay?",
+     "variantlar": [
+      "A) Beshlik va o'nlik",
+      "B) Uchlik va to'qqizlik",
+      "C) Ikkilik va o'n oltilik",
+      "D) O'nlik va yettilik"
+     ],
+     "TO'G'RI_JAVOB": "C) Ikkilik va o'n oltilik",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Diada usulida to'rtlik sanoq sistemasining bitta raqami nechta ikkilik raqam bilan almashtiriladi?",
+     "variantlar": [
+      "A) 3 ta",
+      "B) 2 ta",
+      "C) 4 ta",
+      "D) 1 ta"
+     ],
+     "TO'G'RI_JAVOB": "B) 2 ta",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "O'n ikkilik sanoq sistemasida B raqami o'nlik sanoq sistemasida qaysi qiymatga teng?",
+     "variantlar": [
+      "A) 11",
+      "B) 12",
+      "C) 13",
+      "D) 10"
+     ],
+     "TO'G'RI_JAVOB": "A) 11",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Butun son oldiga yozilgan 0 raqamlari son qiymatiga qanday ta'sir qiladi?",
+     "variantlar": [
+      "A) Qiymatini kamaytiradi",
+      "B) Ta'sir etmaydi",
+      "C) Qiymatini ikki barobar oshiradi",
+      "D) Sonni manfiy qiladi"
+     ],
+     "TO'G'RI_JAVOB": "B) Ta'sir etmaydi",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "1101 ikkilik sonning o'nlik sanoq sistemasidagi qiymati nechaga teng?",
+     "variantlar": [
+      "A) 11",
+      "B) 15",
+      "C) 13",
+      "D) 12"
+     ],
+     "TO'G'RI_JAVOB": "C) 13",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "1011 ikkilik sonini o'nlik sanoq sistemasiga o'tkazing.",
+     "variantlar": [
+      "A) 10",
+      "B) 9",
+      "C) 11",
+      "D) 13"
+     ],
+     "TO'G'RI_JAVOB": "C) 11",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "103 to'rtlik sonini o'nlik sanoq sistemasiga o'tkazing.",
+     "variantlar": [
+      "A) 19",
+      "B) 13",
+      "C) 31",
+      "D) 16"
+     ],
+     "TO'G'RI_JAVOB": "A) 19",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "25 o'nlik sonini uchlik sanoq sistemasiga o'tkazing.",
+     "variantlar": [
+      "A) 122",
+      "B) 212",
+      "C) 221",
+      "D) 211"
+     ],
+     "TO'G'RI_JAVOB": "C) 221",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "100 o'nlik sonini yettilik sanoq sistemasiga o'tkazing.",
+     "variantlar": [
+      "A) 220",
+      "B) 112",
+      "C) 202",
+      "D) 121"
+     ],
+     "TO'G'RI_JAVOB": "C) 202",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Triada usulidan foydalanib, 10111101 ikkilik sonini sakkizlik sanoq sistemasiga o'tkazing.",
+     "variantlar": [
+      "A) 745",
+      "B) 257",
+      "C) 573",
+      "D) 275"
+     ],
+     "TO'G'RI_JAVOB": "D) 275",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Triada usulidan foydalanib, 70 sakkizlik sonini ikkilik sanoq sistemasiga o'tkazing.",
+     "variantlar": [
+      "A) 111000",
+      "B) 000111",
+      "C) 111111",
+      "D) 110001"
+     ],
+     "TO'G'RI_JAVOB": "A) 111000",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Tetrada usulidan foydalanib, 1110001110 ikkilik sonini o'n oltilik sanoq sistemasiga o'tkazing.",
+     "variantlar": [
+      "A) E83",
+      "B) 3E8",
+      "C) 38E",
+      "D) 8E3"
+     ],
+     "TO'G'RI_JAVOB": "C) 38E",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Tetrada usulidan foydalanib, 1ADA o'n oltilik sonini ikkilik sanoq sistemasiga o'tkazing (boshidagi nollarni yozmang).",
+     "variantlar": [
+      "A) 110101101101",
+      "B) 1101011011010",
+      "C) 11010110110100",
+      "D) 1010110110101"
+     ],
+     "TO'G'RI_JAVOB": "B) 1101011011010",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "2B o'n oltilik sonini o'nlik sanoq sistemasiga o'tkazing.",
+     "variantlar": [
+      "A) 28",
+      "B) 33",
+      "C) 43",
+      "D) 46"
+     ],
+     "TO'G'RI_JAVOB": "C) 43",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "50 o'nlik sonini sakkizlik sanoq sistemasiga o'tkazing.",
+     "variantlar": [
+      "A) 72",
+      "B) 26",
+      "C) 62",
+      "D) 65"
+     ],
+     "TO'G'RI_JAVOB": "C) 62",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "1101 ikkilik sonini o'nlik sanoq sistemasi orqali uchlik sanoq sistemasiga o'tkazing.",
+     "variantlar": [
+      "A) 111",
+      "B) 211",
+      "C) 101",
+      "D) 121"
+     ],
+     "TO'G'RI_JAVOB": "A) 111",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "1A o'n oltilik sonini o'nlik sanoq sistemasi orqali beshlik sanoq sistemasiga o'tkazing.",
+     "variantlar": [
+      "A) 44",
+      "B) 101",
+      "C) 110",
+      "D) 111"
+     ],
+     "TO'G'RI_JAVOB": "B) 101",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "123 to'rtlik sonini o'nlik sanoq sistemasi orqali sakkizlik sanoq sistemasiga o'tkazing.",
+     "variantlar": [
+      "A) 33",
+      "B) 34",
+      "C) 43",
+      "D) 27"
+     ],
+     "TO'G'RI_JAVOB": "A) 33",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 11 · 101 ko'paytmani hisoblang.",
+     "variantlar": [
+      "A) 1011",
+      "B) 1111",
+      "C) 10001",
+      "D) 1101"
+     ],
+     "TO'G'RI_JAVOB": "B) 1111",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Sakkizlik sanoq sistemasida 72 · 5 ko'paytmani hisoblang.",
+     "variantlar": [
+      "A) 362",
+      "B) 432",
+      "C) 442",
+      "D) 452"
+     ],
+     "TO'G'RI_JAVOB": "C) 442",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "5 xonali 74213 sakkizlik sonini triada usulida ikkilik sanoq sistemasiga o'tkazganda (boshidagi nollarsiz) necha xonali son hosil bo'ladi?",
+     "variantlar": [
+      "A) 16",
+      "B) 12",
+      "C) 14",
+      "D) 15"
+     ],
+     "TO'G'RI_JAVOB": "D) 15",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "11 ikkilik, 11 uchlik va 11 to'rtlik sonlarining yig'indisi o'nlik sanoq sistemasida nechaga teng?",
+     "variantlar": [
+      "A) 13",
+      "B) 15",
+      "C) 9",
+      "D) 12"
+     ],
+     "TO'G'RI_JAVOB": "D) 12",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Quyidagi sonlardan qaysi biri eng katta qiymatga ega?",
+     "variantlar": [
+      "A) 1E (o'n oltilik)",
+      "B) 36 (sakkizlik)",
+      "C) 11111 (ikkilik)",
+      "D) 101 (beshlik)"
+     ],
+     "TO'G'RI_JAVOB": "C) 11111 (ikkilik)",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "1FB9 o'n oltilik sonini ikkilik sanoq sistemasi orqali sakkizlik sanoq sistemasiga o'tkazing.",
+     "variantlar": [
+      "A) 17761",
+      "B) 15671",
+      "C) 17671",
+      "D) 76171"
+     ],
+     "TO'G'RI_JAVOB": "C) 17671",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 110 · 11 ko'paytmani hisoblab, natijani uchlik sanoq sistemasiga o'tkazing.",
+     "variantlar": [
+      "A) 200",
+      "B) 112",
+      "C) 1000",
+      "D) 120"
+     ],
+     "TO'G'RI_JAVOB": "A) 200",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "7-sinf",
+   "kitob": "7-sinf 7-Sinf Informatika",
+   "mavzu": "9-dars. Axborotlarning kompyuterda tasvirlanishi",
+   "savollar": [
+    {
+     "savol": "Ikkilik kodida m ta razryadli bir-biridan farqli variantlar soni qaysi formula bilan hisoblanadi?",
+     "variantlar": [
+      "A) N = m^2 + 2",
+      "B) N = 2^m",
+      "C) N = m²",
+      "D) N = 2m"
+     ],
+     "TO'G'RI_JAVOB": "B) N = 2^m",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "8 razryadli ikkilik kodi yordamida nechta turli belgini kodlash mumkin?",
+     "variantlar": [
+      "A) 256",
+      "B) 64",
+      "C) 128",
+      "D) 8"
+     ],
+     "TO'G'RI_JAVOB": "A) 256",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "ASCII so'zi qaysi ibora bosh harflaridan hosil bo'lgan?",
+     "variantlar": [
+      "A) Automatic Standard Code for Internet Interchange",
+      "B) American Standard Code for Information Interchange",
+      "C) American Symbol Code for Information Input",
+      "D) Advanced System Code for Internet Information"
+     ],
+     "TO'G'RI_JAVOB": "B) American Standard Code for Information Interchange",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "1 bayt necha bitga teng?",
+     "variantlar": [
+      "A) 10 bit",
+      "B) 8 bit",
+      "C) 4 bit",
+      "D) 2 bit"
+     ],
+     "TO'G'RI_JAVOB": "B) 8 bit",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "1 kilobayt necha baytga teng?",
+     "variantlar": [
+      "A) 512 bayt",
+      "B) 1000 bayt",
+      "C) 1024 bayt",
+      "D) 1048576 bayt"
+     ],
+     "TO'G'RI_JAVOB": "C) 1024 bayt",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "«Bit» atamasi qaysi inglizcha ibora asosida hosil qilingan?",
+     "variantlar": [
+      "A) big table",
+      "B) binary digit",
+      "C) basic item",
+      "D) byte digit"
+     ],
+     "TO'G'RI_JAVOB": "B) binary digit",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Axborot uzatish tezligining eng kichik birligi nima va u nimaga teng?",
+     "variantlar": [
+      "A) bod, 1 bayt/sekund",
+      "B) bod, 1 bit/sekund",
+      "C) bayt, 1 bayt/minut",
+      "D) kilobit, 1 bit/minut"
+     ],
+     "TO'G'RI_JAVOB": "B) bod, 1 bit/sekund",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Piksel nima?",
+     "variantlar": [
+      "A) Rasmni chizish dasturi",
+      "B) Ekrandagi tasvirni tashkil etuvchi juda mayda kvadrat (rasm elementi)",
+      "C) Axborot hajmining o'lchov birligi",
+      "D) Tovushni kodlash usuli"
+     ],
+     "TO'G'RI_JAVOB": "B) Ekrandagi tasvirni tashkil etuvchi juda mayda kvadrat (rasm elementi)",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Oq-qora rasmni kodlashda qora rangga qaysi raqam mos qo'yiladi?",
+     "variantlar": [
+      "A) 11",
+      "B) 2",
+      "C) 1",
+      "D) 0"
+     ],
+     "TO'G'RI_JAVOB": "C) 1",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Kompyuterda ixtiyoriy rangni hosil qiluvchi RGB modelida qaysi uchta rang asos qilib olingan?",
+     "variantlar": [
+      "A) Yashil, sariq, oq",
+      "B) Qizil, sariq, ko'k",
+      "C) Qora, oq, qizil",
+      "D) Qizil, yashil, ko'k"
+     ],
+     "TO'G'RI_JAVOB": "D) Qizil, yashil, ko'k",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "1011010100100011 yozuvida necha bayt axborot bor?",
+     "variantlar": [
+      "A) 4 bayt",
+      "B) 16 bayt",
+      "C) 2 bayt",
+      "D) 1 bayt"
+     ],
+     "TO'G'RI_JAVOB": "C) 2 bayt",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "123 ta ismni ikkilikda kodlash uchun kod uzunligi kamida necha razryad bo'lishi kerak?",
+     "variantlar": [
+      "A) 8",
+      "B) 7",
+      "C) 5",
+      "D) 6"
+     ],
+     "TO'G'RI_JAVOB": "B) 7",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "ASCII bo'yicha «VATAN» so'zi necha bayt axborot hajmiga ega?",
+     "variantlar": [
+      "A) 8 bayt",
+      "B) 40 bayt",
+      "C) 5 bayt",
+      "D) 4 bayt"
+     ],
+     "TO'G'RI_JAVOB": "C) 5 bayt",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "5 xil rangni kodlash uchun rang chuqurligi r nechaga teng bo'ladi?",
+     "variantlar": [
+      "A) 3",
+      "B) 5",
+      "C) 4",
+      "D) 2"
+     ],
+     "TO'G'RI_JAVOB": "A) 3",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "2 Kb necha baytga teng?",
+     "variantlar": [
+      "A) 2000 bayt",
+      "B) 2048 bayt",
+      "C) 4096 bayt",
+      "D) 1024 bayt"
+     ],
+     "TO'G'RI_JAVOB": "B) 2048 bayt",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "3 Mb necha Kb ga teng?",
+     "variantlar": [
+      "A) 3000 Kb",
+      "B) 3 · 8 Kb",
+      "C) 3072 Kb",
+      "D) 1024 Kb"
+     ],
+     "TO'G'RI_JAVOB": "C) 3072 Kb",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "ASCII kodlashda «MAKTAB» so'zi necha bit axborot hajmiga ega?",
+     "variantlar": [
+      "A) 48 bit",
+      "B) 6 bit",
+      "C) 36 bit",
+      "D) 64 bit"
+     ],
+     "TO'G'RI_JAVOB": "A) 48 bit",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "200 xil rangni kodlash uchun rang chuqurligi r nechaga teng?",
+     "variantlar": [
+      "A) 16",
+      "B) 7",
+      "C) 9",
+      "D) 8"
+     ],
+     "TO'G'RI_JAVOB": "D) 8",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ekran o'lchami 100 × 50 piksel bo'lib, unda faqat 2 xil rang aks etadi. Tasvirning axborot hajmi necha bit?",
+     "variantlar": [
+      "A) 10000 bit",
+      "B) 2500 bit",
+      "C) 5000 bit",
+      "D) 100 bit"
+     ],
+     "TO'G'RI_JAVOB": "C) 5000 bit",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "64 xil rangni kodlash uchun rang chuqurligi r nechaga teng?",
+     "variantlar": [
+      "A) 6",
+      "B) 8",
+      "C) 5",
+      "D) 7"
+     ],
+     "TO'G'RI_JAVOB": "A) 6",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "2 Kb hajmli axborotda necha bit bor?",
+     "variantlar": [
+      "A) 8192 bit",
+      "B) 32768 bit",
+      "C) 2048 bit",
+      "D) 16384 bit"
+     ],
+     "TO'G'RI_JAVOB": "D) 16384 bit",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "60 kilobayt hajmli axborot 1 minutda (60 sekundda) uzatilgan. Uzatish tezligi necha bodga teng?",
+     "variantlar": [
+      "A) 61440 bod",
+      "B) 480 bod",
+      "C) 8192 bod",
+      "D) 1024 bod"
+     ],
+     "TO'G'RI_JAVOB": "C) 8192 bod",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "10 × 10 piksel o'lchamli tasvir 16 xil rangga ega. Tasvirning axborot hajmi necha bayt?",
+     "variantlar": [
+      "A) 50 bayt",
+      "B) 1600 bayt",
+      "C) 100 bayt",
+      "D) 400 bayt"
+     ],
+     "TO'G'RI_JAVOB": "A) 50 bayt",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "500 ta belgini ikkilikda kodlash uchun kod uzunligi kamida necha razryad bo'lishi kerak?",
+     "variantlar": [
+      "A) 10",
+      "B) 8",
+      "C) 7",
+      "D) 9"
+     ],
+     "TO'G'RI_JAVOB": "D) 9",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ekran o'lchami 800 × 600 piksel bo'lib, 256 xil rang ishlatiladi. Ekrandagi tasvirning axborot hajmi necha bayt?",
+     "variantlar": [
+      "A) 60000 bayt",
+      "B) 3840000 bayt",
+      "C) 480000 bayt",
+      "D) 240000 bayt"
+     ],
+     "TO'G'RI_JAVOB": "C) 480000 bayt",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "9 Kb hajmli matnni nechta «kompyuter» so'zi bilan almashtirish mumkin (har bir belgi 1 bayt)?",
+     "variantlar": [
+      "A) 9216",
+      "B) 8192",
+      "C) 1152",
+      "D) 1024"
+     ],
+     "TO'G'RI_JAVOB": "D) 1024",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "1 Mb necha bitga teng?",
+     "variantlar": [
+      "A) 1024 bit",
+      "B) 8388608 bit",
+      "C) 1073741824 bit",
+      "D) 1048576 bit"
+     ],
+     "TO'G'RI_JAVOB": "B) 8388608 bit",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "1 Kb hajmli axborot 8 sekundda uzatildi. Uzatish tezligi necha bodga teng?",
+     "variantlar": [
+      "A) 512 bod",
+      "B) 8192 bod",
+      "C) 128 bod",
+      "D) 1024 bod"
+     ],
+     "TO'G'RI_JAVOB": "D) 1024 bod",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "RGB jadvaliga ko'ra, oq rang (111) dan ko'k rang ishtiroki o'chirilsa, qaysi rang va qaysi kod hosil bo'ladi?",
+     "variantlar": [
+      "A) qirmizi, 101",
+      "B) havorang, 011",
+      "C) qizil, 100",
+      "D) sariq, 110"
+     ],
+     "TO'G'RI_JAVOB": "D) sariq, 110",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "1366 × 768 o'lchamli ekranda 2 xil rang o'rniga 4 xil rang ishlatilsa, tasvirning axborot hajmi necha bayt bo'ladi? (2 xil rangda u 131136 bayt edi)",
+     "variantlar": [
+      "A) 131136 bayt",
+      "B) 262272 bayt",
+      "C) 1049088 bayt",
+      "D) 524544 bayt"
+     ],
+     "TO'G'RI_JAVOB": "B) 262272 bayt",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "7-sinf",
+   "kitob": "7-sinf 7-Sinf Informatika",
+   "mavzu": "10-dars. AMALIY MASHG'ULOT",
+   "savollar": [
+    {
+     "savol": "1 bayt necha bitga teng?",
+     "variantlar": [
+      "A) 1024 bit",
+      "B) 8 bit",
+      "C) 16 bit",
+      "D) 4 bit"
+     ],
+     "TO'G'RI_JAVOB": "B) 8 bit",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "1 Kb necha baytga teng?",
+     "variantlar": [
+      "A) 100 bayt",
+      "B) 1000 bayt",
+      "C) 1024 bayt",
+      "D) 8 bayt"
+     ],
+     "TO'G'RI_JAVOB": "C) 1024 bayt",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "1 Gb necha Mb ga teng?",
+     "variantlar": [
+      "A) 8 Mb",
+      "B) 512 Mb",
+      "C) 1024 Mb",
+      "D) 1000 Mb"
+     ],
+     "TO'G'RI_JAVOB": "C) 1024 Mb",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Triada kodlash jadvalida sakkizlik sanoq sistemasining bitta raqami ikkilik sanoq sistemasida nechta raqam bilan ifodalanadi?",
+     "variantlar": [
+      "A) 4 ta",
+      "B) 8 ta",
+      "C) 2 ta",
+      "D) 3 ta"
+     ],
+     "TO'G'RI_JAVOB": "D) 3 ta",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Tetrada kodlash jadvalida o'n oltilik sanoq sistemasining bitta raqami ikkilik sanoq sistemasida nechta raqam bilan ifodalanadi?",
+     "variantlar": [
+      "A) 8 ta",
+      "B) 3 ta",
+      "C) 4 ta",
+      "D) 16 ta"
+     ],
+     "TO'G'RI_JAVOB": "C) 4 ta",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Bir sahifada 30 ta satr bo'lib, har bir satrda 75 ta belgi bor. Bitta sahifada nechta belgi bor?",
+     "variantlar": [
+      "A) 22500",
+      "B) 2250",
+      "C) 105",
+      "D) 2050"
+     ],
+     "TO'G'RI_JAVOB": "B) 2250",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasidagi 1101 sonini o'nlik sanoq sistemasiga o'tkazing.",
+     "variantlar": [
+      "A) 11",
+      "B) 15",
+      "C) 12",
+      "D) 13"
+     ],
+     "TO'G'RI_JAVOB": "D) 13",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "O'n oltilik sanoq sistemasidagi F raqami tetrada jadvali bo'yicha ikkilikda qanday yoziladi?",
+     "variantlar": [
+      "A) 1110",
+      "B) 1010",
+      "C) 1000",
+      "D) 1111"
+     ],
+     "TO'G'RI_JAVOB": "D) 1111",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Sakkizlik sanoq sistemasidagi 7 raqami triada jadvali bo'yicha ikkilikda qanday yoziladi?",
+     "variantlar": [
+      "A) 110",
+      "B) 101",
+      "C) 111",
+      "D) 011"
+     ],
+     "TO'G'RI_JAVOB": "C) 111",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Matndagi bitta belgining axborot hajmi qancha?",
+     "variantlar": [
+      "A) 8 Kb",
+      "B) 1024 bit",
+      "C) 1 bit",
+      "D) 8 bit"
+     ],
+     "TO'G'RI_JAVOB": "D) 8 bit",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasidagi 111001 sonining o'nlik sanoq sistemasidagi qiymatini toping.",
+     "variantlar": [
+      "A) 59",
+      "B) 57",
+      "C) 56",
+      "D) 55"
+     ],
+     "TO'G'RI_JAVOB": "B) 57",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasidagi 101011 sonini o'nlik sanoq sistemasiga o'tkazing.",
+     "variantlar": [
+      "A) 45",
+      "B) 43",
+      "C) 47",
+      "D) 41"
+     ],
+     "TO'G'RI_JAVOB": "B) 43",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 1101+11 va 1111+10 ifodalarining qiymatlarini taqqoslang.",
+     "variantlar": [
+      "A) Birinchisi kattaroq",
+      "B) Ular teng",
+      "C) Taqqoslab bo'lmaydi",
+      "D) Ikkinchisi kattaroq"
+     ],
+     "TO'G'RI_JAVOB": "D) Ikkinchisi kattaroq",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Triada kodlash jadvalidan foydalanib, 101010001101 (ikkilik) sonini sakkizlik sanoq sistemasiga o'tkazing.",
+     "variantlar": [
+      "A) 5225",
+      "B) 5215",
+      "C) 2515",
+      "D) 5125"
+     ],
+     "TO'G'RI_JAVOB": "B) 5215",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Triada kodlash jadvalidan foydalanib, sakkizlik sanoq sistemasidagi 32104 sonini ikkilik sanoq sistemasiga o'tkazing.",
+     "variantlar": [
+      "A) 11010011000100",
+      "B) 11001001000100",
+      "C) 11010001000100",
+      "D) 11010001001100"
+     ],
+     "TO'G'RI_JAVOB": "C) 11010001000100",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Tetrada kodlash jadvalidan foydalanib, o'n oltilik sanoq sistemasidagi 3DADA sonini ikkilik sanoq sistemasiga o'tkazing.",
+     "variantlar": [
+      "A) 111101100011011010",
+      "B) 111101101011011010",
+      "C) 111001101011011010",
+      "D) 111101101011011011"
+     ],
+     "TO'G'RI_JAVOB": "B) 111101101011011010",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Har bir sahifada 30 ta satr, har bir satrda 75 ta belgi bo'lsa, 4 ta sahifadagi axborot hajmi necha bayt bo'ladi?",
+     "variantlar": [
+      "A) 9000 bayt",
+      "B) 2250 bayt",
+      "C) 4500 bayt",
+      "D) 18000 bayt"
+     ],
+     "TO'G'RI_JAVOB": "A) 9000 bayt",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "1 dan 16 gacha bo'lgan natural sonlarni kodlash uchun necha bit kerak bo'ladi?",
+     "variantlar": [
+      "A) 16 bit",
+      "B) 4 bit",
+      "C) 3 bit",
+      "D) 5 bit"
+     ],
+     "TO'G'RI_JAVOB": "B) 4 bit",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "1024 Mbt axborot 512 sekundda uzatilgan bo'lsa, axborot uzatish tezligi qancha?",
+     "variantlar": [
+      "A) 2 Mbt/sek",
+      "B) 4 Mbt/sek",
+      "C) 512 Mbt/sek",
+      "D) 1 Mbt/sek"
+     ],
+     "TO'G'RI_JAVOB": "A) 2 Mbt/sek",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 1001 + 110011 amalini bajarib, natijani o'nlik sanoq sistemasida yozing.",
+     "variantlar": [
+      "A) 59",
+      "B) 58",
+      "C) 61",
+      "D) 60"
+     ],
+     "TO'G'RI_JAVOB": "D) 60",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "1 Gbt axborot 64 Kbt/sek tezlikda necha sekundda uzatiladi?",
+     "variantlar": [
+      "A) 8192 sekund",
+      "B) 32768 sekund",
+      "C) 16384 sekund",
+      "D) 65536 sekund"
+     ],
+     "TO'G'RI_JAVOB": "C) 16384 sekund",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Bir kitobda 750 ta sahifa bo'lib, har bir sahifada 32 ta satr, har bir satrda 72 ta belgi bor. Kitobdagi axborot 24 Kbt/sek tezlik bilan uzatilsa, qancha vaqt sarflanadi?",
+     "variantlar": [
+      "A) 68,75 sekund",
+      "B) 70,3125 sekund",
+      "C) 72 sekund",
+      "D) 75 sekund"
+     ],
+     "TO'G'RI_JAVOB": "B) 70,3125 sekund",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 1101 · 1101 va 1011 · 1011 ifodalarining qiymatlarini taqqoslang.",
+     "variantlar": [
+      "A) Birinchisi kattaroq",
+      "B) Ular teng",
+      "C) Ikkinchisi kattaroq",
+      "D) Ikkalasi ham 100 dan kichik"
+     ],
+     "TO'G'RI_JAVOB": "A) Birinchisi kattaroq",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 1101,011 – 11,01 va 1011,001 ifodalarining qiymatlarini taqqoslang.",
+     "variantlar": [
+      "A) Ular teng",
+      "B) Birinchisi kattaroq",
+      "C) Ikkinchisi kattaroq",
+      "D) Birinchisi ikkinchisidan ikki marta katta"
+     ],
+     "TO'G'RI_JAVOB": "C) Ikkinchisi kattaroq",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida 1001,11 + 101,01 va 1101,01 – 101,11 ifodalarining o'nlik sanoq sistemasidagi qiymatlari uchun qaysi fikr to'g'ri?",
+     "variantlar": [
+      "A) Ikkinchisi birinchisidan katta",
+      "B) Birinchisi ikkinchisidan 3 marta katta",
+      "C) Birinchisi ikkinchisidan 2 marta katta",
+      "D) Ikkalasi teng"
+     ],
+     "TO'G'RI_JAVOB": "C) Birinchisi ikkinchisidan 2 marta katta",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "11010111 – (1 · 2^5 + 1 · 2^3 + 1 · 2^1) amalini bajarib, natijani o'nlik sanoq sistemasida yozing.",
+     "variantlar": [
+      "A) 171",
+      "B) 172",
+      "C) 175",
+      "D) 173"
+     ],
+     "TO'G'RI_JAVOB": "D) 173",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "1 · 2^5 + 1 · 2^0 + 111100011 amalini bajarib, natijani o'nlik sanoq sistemasida yozing.",
+     "variantlar": [
+      "A) 515",
+      "B) 517",
+      "C) 516",
+      "D) 514"
+     ],
+     "TO'G'RI_JAVOB": "C) 516",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "10101 · (1 · 2^6 + 1 · 2^4 + 1 · 2^1 + 1 · 2^0) amalini bajarib, natijani o'nlik sanoq sistemasida yozing.",
+     "variantlar": [
+      "A) 1683",
+      "B) 1741",
+      "C) 1823",
+      "D) 1743"
+     ],
+     "TO'G'RI_JAVOB": "D) 1743",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Kitobda 500 ta sahifa bo'lib, har bir sahifa 30 ta satrdan, har bir satr 75 ta belgidan iborat bo'lsa, kitobdagi axborot hajmi necha baytga teng?",
+     "variantlar": [
+      "A) 1125000 bayt",
+      "B) 1250000 bayt",
+      "C) 562500 bayt",
+      "D) 9000000 bayt"
+     ],
+     "TO'G'RI_JAVOB": "A) 1125000 bayt",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "1101001100011100110100110001110001010111 ikkilik ma'lumotda baytlarda ifodalangan belgilar soni nechta?",
+     "variantlar": [
+      "A) 4 ta",
+      "B) 40 ta",
+      "C) 8 ta",
+      "D) 5 ta"
+     ],
+     "TO'G'RI_JAVOB": "D) 5 ta",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "7-sinf",
+   "kitob": "7-sinf 7-Sinf Informatika",
+   "mavzu": "11-dars. AXBOROT TEXNOLOGIYALARI",
+   "savollar": [
+    {
+     "savol": "\"Texnologiya\" so'zi qaysi tildan olingan?",
+     "variantlar": [
+      "A) Arab tilidan",
+      "B) Ingliz tilidan",
+      "C) Lotin tilidan",
+      "D) Yunon (grek) tilidan"
+     ],
+     "TO'G'RI_JAVOB": "D) Yunon (grek) tilidan",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "\"Techne\" so'zi yunoncha nimani anglatadi?",
+     "variantlar": [
+      "A) Axborot",
+      "B) San'at, mohirlik, hunar",
+      "C) Tarmoq",
+      "D) Fan"
+     ],
+     "TO'G'RI_JAVOB": "B) San'at, mohirlik, hunar",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Insoniyat tomonidan axborotlarni izlash, to'plash, saqlash, qayta ishlash va undan foydalanish usullari va vositalari nima deb yuritiladi?",
+     "variantlar": [
+      "A) Lokal tarmoq",
+      "B) Axborot texnologiyasi",
+      "C) Modem",
+      "D) Axborot tizimi"
+     ],
+     "TO'G'RI_JAVOB": "B) Axborot texnologiyasi",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Axborot texnologiyasining ichki omillariga nima kiradi?",
+     "variantlar": [
+      "A) Vositalar",
+      "B) Kabellar",
+      "C) Kompyuterlar",
+      "D) Usullar"
+     ],
+     "TO'G'RI_JAVOB": "D) Usullar",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Axborot texnologiyasining tashqi omillariga nima kiradi?",
+     "variantlar": [
+      "A) Faqat dasturlar",
+      "B) Faqat qoidalar",
+      "C) Usullar",
+      "D) Vositalar"
+     ],
+     "TO'G'RI_JAVOB": "D) Vositalar",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Bitta xonada yoki bir bino ichida tashkil qilingan tarmoq qanday ataladi?",
+     "variantlar": [
+      "A) Lokal (mahalliy) tarmoq",
+      "B) Mintaqaviy tarmoq",
+      "C) Xalqaro tarmoq",
+      "D) Global tarmoq"
+     ],
+     "TO'G'RI_JAVOB": "A) Lokal (mahalliy) tarmoq",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Lokal tarmoqda asosiy kompyuter qanday nomlanadi?",
+     "variantlar": [
+      "A) Server",
+      "B) Plata",
+      "C) Mijoz",
+      "D) Modem"
+     ],
+     "TO'G'RI_JAVOB": "A) Server",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Signalni raqamli ko'rinishdan analog ko'rinishga o'tkazuvchi qurilma nima deyiladi?",
+     "variantlar": [
+      "A) Modulyator",
+      "B) Server",
+      "C) Demodulyator",
+      "D) Printer"
+     ],
+     "TO'G'RI_JAVOB": "A) Modulyator",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Signalni analog ko'rinishdan raqamli ko'rinishga o'tkazuvchi qurilma nima deyiladi?",
+     "variantlar": [
+      "A) Proyektor",
+      "B) Demodulyator",
+      "C) Mijoz",
+      "D) Modulyator"
+     ],
+     "TO'G'RI_JAVOB": "B) Demodulyator",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ikkala amalni (modulyatsiya va demodulyatsiya) birgalikda bajaruvchi qurilma nima deb ataladi?",
+     "variantlar": [
+      "A) Modem",
+      "B) Kodoskop",
+      "C) Teletayp",
+      "D) Server"
+     ],
+     "TO'G'RI_JAVOB": "A) Modem",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Quyidagilardan qaysi biri axborot texnologiyasining texnik vositasi hisoblanadi?",
+     "variantlar": [
+      "A) Bo'r",
+      "B) Telefaks",
+      "C) Daftar",
+      "D) Ruchka"
+     ],
+     "TO'G'RI_JAVOB": "B) Telefaks",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Kompyuterlar tarmoqqa birlashtirilmasa, axborot qanday almashiladi?",
+     "variantlar": [
+      "A) Avtomatik tarzda",
+      "B) Faqat radio orqali",
+      "C) Modemsiz telefon orqali",
+      "D) Tashqi axborot tashuvchi vositalar (disketa, CD-disk) orqali"
+     ],
+     "TO'G'RI_JAVOB": "D) Tashqi axborot tashuvchi vositalar (disketa, CD-disk) orqali",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Qaysi tarmoq ulangan kompyuterlar orasidagi masofa bir necha yuz kilometrni tashkil etishi mumkin bo'lgan, bir mamlakat hududidagi foydalanuvchilarni birlashtiradi?",
+     "variantlar": [
+      "A) Global tarmoq",
+      "B) Lokal tarmoq",
+      "C) Modem tarmog'i",
+      "D) Mintaqaviy tarmoq"
+     ],
+     "TO'G'RI_JAVOB": "D) Mintaqaviy tarmoq",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Kompyuterda ma'lumotlar qanday signal ko'rinishida saqlanadi?",
+     "variantlar": [
+      "A) Analog",
+      "B) Raqamli",
+      "C) Faqat radio",
+      "D) Faqat yorug'lik"
+     ],
+     "TO'G'RI_JAVOB": "B) Raqamli",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Telefon tarmog'i orqali qanday signallar o'tadi?",
+     "variantlar": [
+      "A) Analog",
+      "B) Xotira signali",
+      "C) Raqamli",
+      "D) Ikkilik kod"
+     ],
+     "TO'G'RI_JAVOB": "A) Analog",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ichki modem qanday ko'rinishda bo'ladi?",
+     "variantlar": [
+      "A) Kompyuter ichiga joylashtiriladigan plata",
+      "B) Maxsus kabel",
+      "C) Telefon apparati",
+      "D) Alohida qobiqli qurilma"
+     ],
+     "TO'G'RI_JAVOB": "A) Kompyuter ichiga joylashtiriladigan plata",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Lokal tarmoqda serverdan boshqa kompyuterlar qanday nomlanadi?",
+     "variantlar": [
+      "A) Modemlar",
+      "B) Mijozlar",
+      "C) Kabellar",
+      "D) Platalar"
+     ],
+     "TO'G'RI_JAVOB": "B) Mijozlar",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Mintaqaviy va global tarmoqlarda kompyuterlarni alohida kabellar bilan ulash nima uchun o'rinsiz?",
+     "variantlar": [
+      "A) Signal o'tmaydi",
+      "B) Modem kerak emas",
+      "C) Server yo'qoladi",
+      "D) Qimmatga tushadi"
+     ],
+     "TO'G'RI_JAVOB": "D) Qimmatga tushadi",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Axborot tizimlariga qaysi tarmoq misol bo'la oladi?",
+     "variantlar": [
+      "A) Kodoskop",
+      "B) Internet",
+      "C) Bo'r",
+      "D) Plakat"
+     ],
+     "TO'G'RI_JAVOB": "B) Internet",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Axborot tizimi nima uchun mo'ljallangan?",
+     "variantlar": [
+      "A) Faqat kompyuter ta'mirlash uchun",
+      "B) Katta hajmdagi axborotni qabul qilish, uzatish, saqlash va tez izlab topish uchun",
+      "C) Faqat telefon suhbati uchun",
+      "D) Faqat matn chop etish uchun"
+     ],
+     "TO'G'RI_JAVOB": "B) Katta hajmdagi axborotni qabul qilish, uzatish, saqlash va tez izlab topish uchun",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Quyidagi ro'yxatning qaysi birida faqat axborot texnologiyasining tashqi omillari (vositalar) keltirilgan?",
+     "variantlar": [
+      "A) Dars o'tish metodikasi, suhbat jarayoni",
+      "B) Suhbat jarayoni, savol-javob jarayoni",
+      "C) Dars o'tish usuli, test o'tkazish jarayoni",
+      "D) Qalam, daftar, proyektor"
+     ],
+     "TO'G'RI_JAVOB": "D) Qalam, daftar, proyektor",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Nima uchun kompyuterlarni tarmoqqa birlashtirish zarurati paydo bo'lgan?",
+     "variantlar": [
+      "A) Modemlar ishlamagani uchun",
+      "B) Telefon tarmog'i yo'qligi uchun",
+      "C) Kompyuter xotirasi qanchalik katta bo'lmasin, barcha axborotni sig'dirib bo'lmaydi, tashqi tashuvchilar esa ko'p vaqt va xarajat talab qiladi",
+      "D) Kompyuterlar juda arzon bo'lgani uchun"
+     ],
+     "TO'G'RI_JAVOB": "C) Kompyuter xotirasi qanchalik katta bo'lmasin, barcha axborotni sig'dirib bo'lmaydi, tashqi tashuvchilar esa ko'p vaqt va xarajat talab qiladi",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "\"MODEM\" nomi qanday hosil qilingan?",
+     "variantlar": [
+      "A) MOnitor + DEMo",
+      "B) MOdul + DEMon",
+      "C) MOdulyator + DEModulyator",
+      "D) MOtor + DEModul"
+     ],
+     "TO'G'RI_JAVOB": "C) MOdulyator + DEModulyator",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Bir kompyuterdan ikkinchisiga telefon tarmog'i orqali ma'lumot yuborilganda signal qanday o'zgaradi?",
+     "variantlar": [
+      "A) Analog → raqamli → analog",
+      "B) Analog → analog → raqamli",
+      "C) Raqamli → analog (modem) → telefon tarmog'i → analog → raqamli (modem)",
+      "D) Raqamli → raqamli → raqamli"
+     ],
+     "TO'G'RI_JAVOB": "C) Raqamli → analog (modem) → telefon tarmog'i → analog → raqamli (modem)",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Lokal tarmoqda ixtiyoriy kompyuter nimaga murojaat qila oladi?",
+     "variantlar": [
+      "A) Faqat o'z diskiga",
+      "B) Faqat modemga",
+      "C) Faqat serverning monitoriga",
+      "D) Boshqa kompyuterning diskiga, printeriga va tashqi qurilmalariga"
+     ],
+     "TO'G'RI_JAVOB": "D) Boshqa kompyuterning diskiga, printeriga va tashqi qurilmalariga",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Quyidagi fikrlardan qaysi biri matnga ko'ra to'g'ri?",
+     "variantlar": [
+      "A) Axborot texnologiyalari radio va televideniyeni o'z ichiga olmaydi",
+      "B) Informatika va axborot texnologiyalari bir-birini to'ldiruvchi qismlar sifatida qaraladi",
+      "C) Axborot texnologiyalari faqat kompyuterni o'z ichiga oladi",
+      "D) Axborot texnologiyalari faqat sanoatda qo'llaniladi"
+     ],
+     "TO'G'RI_JAVOB": "B) Informatika va axborot texnologiyalari bir-birini to'ldiruvchi qismlar sifatida qaraladi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Hozirgi kunda mintaqaviy va xalqaro tarmoqlarda kompyuterlar qaysi vositalar orqali axborot almashadi?",
+     "variantlar": [
+      "A) Telefon tarmoqlari, radio va sun'iy yo'ldoshlar",
+      "B) Faqat disketa orqali",
+      "C) Faqat maxsus kabel orqali",
+      "D) Faqat printer orqali"
+     ],
+     "TO'G'RI_JAVOB": "A) Telefon tarmoqlari, radio va sun'iy yo'ldoshlar",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Bugungi axborot tizimlari avvalgi avlodlaridan nimasi bilan tubdan farq qiladi?",
+     "variantlar": [
+      "A) Faqat hajmining kichikligi bilan",
+      "B) Faqat narxi bilan",
+      "C) Texnik, dasturiy jihatdan va katta miqdordagi axborotni qayta ishlay olishi bilan",
+      "D) Faqat rangi bilan"
+     ],
+     "TO'G'RI_JAVOB": "C) Texnik, dasturiy jihatdan va katta miqdordagi axborotni qayta ishlay olishi bilan",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Axborot tizimining tashkil etuvchilariga qaysilar kiradi?",
+     "variantlar": [
+      "A) Kompyuterlar, kompyuter tarmoqlari, dasturiy ta'minot, ma'lumotlar ombori, insonlar",
+      "B) Faqat kompyuterlar",
+      "C) Faqat insonlar",
+      "D) Faqat ma'lumotlar ombori"
+     ],
+     "TO'G'RI_JAVOB": "A) Kompyuterlar, kompyuter tarmoqlari, dasturiy ta'minot, ma'lumotlar ombori, insonlar",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "7-sinf",
+   "kitob": "7-sinf 7-Sinf Informatika",
+   "mavzu": "12-dars. Axborotli olam muammolari va internet",
+   "savollar": [
+    {
+     "savol": "Internet so'zi ingliz tilidagi qaysi iboraning qisqartmasi?",
+     "variantlar": [
+      "A) international net",
+      "B) internal network",
+      "C) interconnected network",
+      "D) interactive network"
+     ],
+     "TO'G'RI_JAVOB": "C) interconnected network",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Internetning asosi bo'lgan ARPANet aloqa tarmog'ini kim ishlab chiqqan?",
+     "variantlar": [
+      "A) Tim Berners-Li",
+      "B) Stenford universiteti",
+      "C) Yevropa Yadroviy Tadqiqotlar Kengashi",
+      "D) AQSH Mudofaa Vazirligi"
+     ],
+     "TO'G'RI_JAVOB": "D) AQSH Mudofaa Vazirligi",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "ARPANet tarmog'i birinchi marta qachon ishga tushirilgan?",
+     "variantlar": [
+      "A) 1973-yil",
+      "B) 1969-yil 29-oktyabr",
+      "C) 1992-yil",
+      "D) 1989-yil"
+     ],
+     "TO'G'RI_JAVOB": "B) 1969-yil 29-oktyabr",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Internetda ma'lumotlarni uzatish qoidalari nima deb ataladi?",
+     "variantlar": [
+      "A) Brauzerlar",
+      "B) Serverlar",
+      "C) Protokollar",
+      "D) Provayderlar"
+     ],
+     "TO'G'RI_JAVOB": "C) Protokollar",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Real vaqtda ma'lumot almashish imkoniyatini beruvchi Internet xizmati qaysi?",
+     "variantlar": [
+      "A) Gipermatn",
+      "B) Chat",
+      "C) Telekonferensiya",
+      "D) Elektron pochta"
+     ],
+     "TO'G'RI_JAVOB": "B) Chat",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "World Wide Web so'zining ma'nosi nima?",
+     "variantlar": [
+      "A) Yagona axborot ombori",
+      "B) Global telefon aloqasi",
+      "C) Xalqaro kompyuter tarmog'i",
+      "D) Xalqaro o'rgimchak to'ri"
+     ],
+     "TO'G'RI_JAVOB": "D) Xalqaro o'rgimchak to'ri",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Web-sahifaga bog'liqlikni ko'rsatuvchi, so'z yoki rasm bo'lishi mumkin bo'lgan ilova nima deyiladi?",
+     "variantlar": [
+      "A) Provayder",
+      "B) Gipermatn",
+      "C) Modem",
+      "D) Protokol"
+     ],
+     "TO'G'RI_JAVOB": "B) Gipermatn",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Bitta tashkilot yoki shaxsga tegishli, mazmunan o'zaro bog'langan bir nechta Web-sahifalar majmui nima deyiladi?",
+     "variantlar": [
+      "A) Web-sayt",
+      "B) URL",
+      "C) Web-brauzer",
+      "D) Web-server"
+     ],
+     "TO'G'RI_JAVOB": "A) Web-sayt",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "URL nimani anglatadi?",
+     "variantlar": [
+      "A) Axborotni uzatish qoidasi",
+      "B) Axborot zahirasining takrorlanmas manzili",
+      "C) Web-sahifa yaratish dasturi",
+      "D) Internetga ulangan kompyuter"
+     ],
+     "TO'G'RI_JAVOB": "B) Axborot zahirasining takrorlanmas manzili",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Web-brauzer nima uchun mo'ljallangan?",
+     "variantlar": [
+      "A) Grafik tasvir chizish uchun",
+      "B) Hisob-kitob qilish uchun",
+      "C) Matn bilan ishlash uchun",
+      "D) Internetning WWW xizmatidan foydalanish uchun"
+     ],
+     "TO'G'RI_JAVOB": "D) Internetning WWW xizmatidan foydalanish uchun",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Kompyuterlarning axborotni telefon tarmoqlari orqali yuborishiga imkon beruvchi qurilma qaysi?",
+     "variantlar": [
+      "A) Server",
+      "B) Provayder",
+      "C) Brauzer",
+      "D) Modem"
+     ],
+     "TO'G'RI_JAVOB": "D) Modem",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "http://www.eduportal.uz/webmaktab.html manzilida \"webmaktab.html\" qismi nimani bildiradi?",
+     "variantlar": [
+      "A) Brauzer nomini",
+      "B) Sayt (fayl) nomini",
+      "C) Provayder (server) nomini",
+      "D) Bog'lanish protokolini"
+     ],
+     "TO'G'RI_JAVOB": "B) Sayt (fayl) nomini",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "http://www.eduportal.uz/webmaktab.html manzilida \"http\" nimani bildiradi?",
+     "variantlar": [
+      "A) Fayl nomini",
+      "B) Bog'lanish protokolini",
+      "C) Sayt hajmini",
+      "D) Server nomini"
+     ],
+     "TO'G'RI_JAVOB": "B) Bog'lanish protokolini",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Web-saytni kitobga o'xshatsak, web-sahifa nimaga o'xshaydi?",
+     "variantlar": [
+      "A) Kitob muallifiga",
+      "B) Kitob muqovasiga",
+      "C) Kitob kutubxonasiga",
+      "D) Kitobning sahifasiga"
+     ],
+     "TO'G'RI_JAVOB": "D) Kitobning sahifasiga",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "TCP/IP protokolida axborotni paketlarga ajratish vazifasini qaysi protokol bajaradi?",
+     "variantlar": [
+      "A) TCP",
+      "B) HTTP",
+      "C) URL",
+      "D) IP"
+     ],
+     "TO'G'RI_JAVOB": "A) TCP",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "TCP/IP protokolida qabul qiluvchiga boradigan yo'lni qaysi protokol aniqlaydi?",
+     "variantlar": [
+      "A) IP",
+      "B) Modem",
+      "C) TCP",
+      "D) WWW"
+     ],
+     "TO'G'RI_JAVOB": "A) IP",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ko'plab foydalanuvchilarga xizmat ko'rsatish uchun yuqori tezlikdagi aloqa kanallaridan foydalanadigan, Internetdan foydalanish imkonini beruvchi firmalar qanday ataladi?",
+     "variantlar": [
+      "A) Brauzerlar",
+      "B) Gipermurojaatlar",
+      "C) Provayderlar",
+      "D) Protokollar"
+     ],
+     "TO'G'RI_JAVOB": "C) Provayderlar",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Birinchi Web-brauzerni 1990-yilda kim ishlab chiqqan?",
+     "variantlar": [
+      "A) Mark Sukerberg",
+      "B) Stiv Djobs",
+      "C) Tim Berners-Li",
+      "D) Bill Geyts"
+     ],
+     "TO'G'RI_JAVOB": "C) Tim Berners-Li",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "ZiyoNET jamoat axborot ta'lim tarmog'i qaysi yilda tashkil etilgan?",
+     "variantlar": [
+      "A) 2006-yil",
+      "B) 1992-yil",
+      "C) 2002-yil",
+      "D) 2005-yil"
+     ],
+     "TO'G'RI_JAVOB": "A) 2006-yil",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "ARPANetdagi birinchi axborot almashinuv qaysi ikki joy orasida bo'lgan?",
+     "variantlar": [
+      "A) Yuta va Santa-Barbara",
+      "B) Los-Anjeles universiteti va Stenford tadqiqot markazi",
+      "C) Stenford va Yevropa universitetlari",
+      "D) Santa-Barbara va Los-Anjeles"
+     ],
+     "TO'G'RI_JAVOB": "B) Los-Anjeles universiteti va Stenford tadqiqot markazi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Nima uchun ARPANet keyinchalik Internet tarmog'iga aylandi?",
+     "variantlar": [
+      "A) Unda faqat bitta kompyuter bo'lgan",
+      "B) U maxfiy bo'lib qolgan",
+      "C) Unga faqat harbiylar ulangan",
+      "D) Unga AQSHdan tashqari Yevropa o'quv yurtlari va tashkilotlari ham ulangan"
+     ],
+     "TO'G'RI_JAVOB": "D) Unga AQSHdan tashqari Yevropa o'quv yurtlari va tashkilotlari ham ulangan",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Internet biror tashkilotga bo'ysunmasa ham, qanday boshqariladi va moliyalashtiriladi?",
+     "variantlar": [
+      "A) Faqat AQSH Mudofaa Vazirligi boshqaradi va moliyalashtiradi",
+      "B) Faqat Yevropa kengashi boshqaradi, ZiyoNET moliyalashtiradi",
+      "C) Faqat provayderlar boshqaradi va moliyalashtiradi",
+      "D) Ko'ngillilar kengashi boshqaradi, davlatlar, muassasalar va xususiy shaxslar moliyalashtiradi"
+     ],
+     "TO'G'RI_JAVOB": "D) Ko'ngillilar kengashi boshqaradi, davlatlar, muassasalar va xususiy shaxslar moliyalashtiradi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Internetning oddiy kompyuterlardan muhim farqi nimada?",
+     "variantlar": [
+      "A) U o'zi haqidagi ma'lumotlarni ham o'zida saqlay oladi",
+      "B) U hisob-kitob bajarmaydi",
+      "C) U faqat telefon orqali ishlaydi",
+      "D) U faqat matn saqlaydi"
+     ],
+     "TO'G'RI_JAVOB": "A) U o'zi haqidagi ma'lumotlarni ham o'zida saqlay oladi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Foydalanuvchi web-sahifadagi rasm ustiga bosganda yangi sahifa ochildi. Bu qanday hodisa?",
+     "variantlar": [
+      "A) Gipermurojaat",
+      "B) Modem ulanishi",
+      "C) Paketlarga ajratish",
+      "D) Provayder tanlash"
+     ],
+     "TO'G'RI_JAVOB": "A) Gipermurojaat",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "World Wide Web nima uchun foydalanuvchilar e'tiborini juda tez qozondi?",
+     "variantlar": [
+      "A) Multimedia imkoniyatlariga ega bo'lgani uchun",
+      "B) Faqat harbiylar uchun bo'lgani uchun",
+      "C) Faqat matn uzatgani uchun",
+      "D) Kompyuterni almashtirgani uchun"
+     ],
+     "TO'G'RI_JAVOB": "A) Multimedia imkoniyatlariga ega bo'lgani uchun",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Internet orqali 1 ta katta fayl yuborilganda TCP/IP protokollari ishi qaysi ketma-ketlikda bo'ladi?",
+     "variantlar": [
+      "A) Yo'l aniqlash (IP), yig'ish (TCP), paketlarga ajratish (TCP)",
+      "B) Tekshirish (TCP), paketlarga ajratish (IP), yo'l aniqlash (TCP)",
+      "C) Paketlarga ajratish (TCP), yo'l aniqlash (IP), tekshirish va yig'ish (TCP)",
+      "D) Yig'ish (IP), yo'l aniqlash (TCP), paketlarga ajratish (IP)"
+     ],
+     "TO'G'RI_JAVOB": "C) Paketlarga ajratish (TCP), yo'l aniqlash (IP), tekshirish va yig'ish (TCP)",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "O'zbekistonda xalqaro kanallar o'tkazuvchanligi 2002-yilda 8,5 Mb/s bo'lgan, hozir esa 2,5 Gb/s dan oshgan. Bu nimani anglatadi?",
+     "variantlar": [
+      "A) Ma'lumot uzatish tezligi kamaygan",
+      "B) Tezlik o'zgarmagan",
+      "C) Ma'lumot uzatish tezligi sezilarli darajada oshgan",
+      "D) Internet faqat maxfiy bo'lgan"
+     ],
+     "TO'G'RI_JAVOB": "C) Ma'lumot uzatish tezligi sezilarli darajada oshgan",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Yevropa Yadroviy Tadqiqotlar Kengashining 1989-yilgi loyihasi nimaga asos bo'ldi va maqsadi nima edi?",
+     "variantlar": [
+      "A) World Wide Web yaratilishiga; Internetda axborot tarqatishning samarali usullarini izlash",
+      "B) ZiyoNET yaratilishiga; o'quvchilarni o'qitish",
+      "C) Modem yaratilishiga; telefon aloqasini yaxshilash",
+      "D) ARPANet yaratilishiga; harbiy aloqani yaxshilash"
+     ],
+     "TO'G'RI_JAVOB": "A) World Wide Web yaratilishiga; Internetda axborot tarqatishning samarali usullarini izlash",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "http://www.eduportal.uz/webmaktab.html manzilida server (provayder) nomi va fayl nomi qaysilar?",
+     "variantlar": [
+      "A) eduportal va http",
+      "B) www.eduportal.uz va webmaktab.html",
+      "C) http va www.eduportal.uz",
+      "D) webmaktab.html va http"
+     ],
+     "TO'G'RI_JAVOB": "B) www.eduportal.uz va webmaktab.html",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "7-sinf",
+   "kitob": "7-sinf 7-Sinf Informatika",
+   "mavzu": "13-dars. Internetda ishlashni ta'minlovchi dasturlar",
+   "savollar": [
+    {
+     "savol": "Internet Explorer oynasining sarlavha satrida nima aks etib turadi?",
+     "variantlar": [
+      "A) Faqat web-sahifa manzili",
+      "B) Dastur nomi va joriy hujjat nomi",
+      "C) Uskunalar paneli tugmalari",
+      "D) Faqat menyular ro'yxati"
+     ],
+     "TO'G'RI_JAVOB": "B) Dastur nomi va joriy hujjat nomi",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Web-sahifani qog'ozga chop etish, dasturdan chiqish amallari qaysi menyu orqali bajariladi?",
+     "variantlar": [
+      "A) Tahrir",
+      "B) Fayl",
+      "C) Servis",
+      "D) Ma'lumot"
+     ],
+     "TO'G'RI_JAVOB": "B) Fayl",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Qirqib olish, nusxa olish, joylashtirish, izlash amallari qaysi menyuda joylashgan?",
+     "variantlar": [
+      "A) Ko'rinish",
+      "B) Fayl",
+      "C) Tahrir",
+      "D) Tanlangan"
+     ],
+     "TO'G'RI_JAVOB": "C) Tahrir",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Internet Explorer dasturidan foydalanish haqida ma'lumot olish uchun qaysi menyudan foydalaniladi?",
+     "variantlar": [
+      "A) Ma'lumot",
+      "B) Ko'rinish",
+      "C) Servis",
+      "D) Fayl"
+     ],
+     "TO'G'RI_JAVOB": "A) Ma'lumot",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Uskunalar paneli nimalardan iborat?",
+     "variantlar": [
+      "A) Faqat matn maydonidan",
+      "B) Tugmalar majmuidan, har biri ma'lum amalni bajaradi",
+      "C) Web-sahifalar ro'yxatidan",
+      "D) Rasmlar to'plamidan"
+     ],
+     "TO'G'RI_JAVOB": "B) Tugmalar majmuidan, har biri ma'lum amalni bajaradi",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Birinchi web-brauzer qaysi yili Tim Berners-Li tomonidan ishlab chiqilgan?",
+     "variantlar": [
+      "A) 2000-yil",
+      "B) 1990-yil",
+      "C) 1995-yil",
+      "D) 1985-yil"
+     ],
+     "TO'G'RI_JAVOB": "B) 1990-yil",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Web-sahifani ochish uchun manzil yozilgach qaysi klavish bosiladi?",
+     "variantlar": [
+      "A) DELETE",
+      "B) ENTER",
+      "C) ESC",
+      "D) TAB"
+     ],
+     "TO'G'RI_JAVOB": "B) ENTER",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Tez-tez murojaat qilinadigan web-sahifalar qaysi papkaga qo'shib qo'yiladi?",
+     "variantlar": [
+      "A) Tanlangan",
+      "B) Izlash",
+      "C) Jurnal",
+      "D) Pochta"
+     ],
+     "TO'G'RI_JAVOB": "A) Tanlangan",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Qidiruv tizimi nima?",
+     "variantlar": [
+      "A) Faqat manzillar chop etilgan kitob",
+      "B) Maxsus web-sahifa bo'lib, Internetdan kerakli axborotni izlab topish uchun xizmat qiladi",
+      "C) Kompyuter xotirasini tozalovchi dastur",
+      "D) Web-sahifalarni chop etuvchi qurilma"
+     ],
+     "TO'G'RI_JAVOB": "B) Maxsus web-sahifa bo'lib, Internetdan kerakli axborotni izlab topish uchun xizmat qiladi",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Web-brauzerlar nimani ko'rsatishni ta'minlovchi dastur?",
+     "variantlar": [
+      "A) Kompyuter qurilmalarini",
+      "B) Faqat rasmlarni",
+      "C) Faqat elektron pochtani",
+      "D) Web-sahifani"
+     ],
+     "TO'G'RI_JAVOB": "D) Web-sahifani",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Foydalanuvchi web-sahifadagi shrift o'lchamini o'zgartirmoqchi. Qaysi menyudan foydalanadi?",
+     "variantlar": [
+      "A) Ko'rinish",
+      "B) Fayl",
+      "C) Tanlangan",
+      "D) Ma'lumot"
+     ],
+     "TO'G'RI_JAVOB": "A) Ko'rinish",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Dastur ishga tushganda avtomatik yuklanadigan web-sahifani tanlash uchun qaysi menyudan foydalaniladi?",
+     "variantlar": [
+      "A) Tahrir",
+      "B) Servis",
+      "C) Fayl",
+      "D) Tanlangan"
+     ],
+     "TO'G'RI_JAVOB": "B) Servis",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Web-sahifa juda sekin ochilmoqda va o'quvchi yuklashni to'xtatmoqchi. Qaysi tugmani bosadi?",
+     "variantlar": [
+      "A) To'xtatish",
+      "B) Oldinga",
+      "C) Bosh sahifaga",
+      "D) Yangilash"
+     ],
+     "TO'G'RI_JAVOB": "A) To'xtatish",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "«To'xtatish» tugmasi bosilsa, ma'lumotlar oynasida nima qoladi?",
+     "variantlar": [
+      "A) Bosh sahifa",
+      "B) Oldingi web-sahifa",
+      "C) Oyna bo'sh bo'ladi",
+      "D) Web-sahifaning o'qib ulgurilgan qismi"
+     ],
+     "TO'G'RI_JAVOB": "D) Web-sahifaning o'qib ulgurilgan qismi",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Oldin ochilgan web-sahifaga qaytish uchun uskunalar panelidagi qaysi tugmadan foydalaniladi?",
+     "variantlar": [
+      "A) Pochta",
+      "B) Oldinga",
+      "C) Jurnal",
+      "D) Orqaga"
+     ],
+     "TO'G'RI_JAVOB": "D) Orqaga",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Manzillar satriga www.google.ru yozib ENTER bosilsa nima sodir bo'ladi?",
+     "variantlar": [
+      "A) Sahifa Tanlangan papkasiga qo'shiladi",
+      "B) Dastur yopiladi",
+      "C) Sahifa chop etiladi",
+      "D) Bir necha soniyadan keyin google.ru web-sahifasi ma'lumotlar oynasida paydo bo'ladi"
+     ],
+     "TO'G'RI_JAVOB": "D) Bir necha soniyadan keyin google.ru web-sahifasi ma'lumotlar oynasida paydo bo'ladi",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ko'rinish menyusidagi qaysi amal dasturning ekrandagi ko'rinishiga ta'sir qiladi?",
+     "variantlar": [
+      "A) Web-sahifani qog'ozga chop etish",
+      "B) Nusxa olish",
+      "C) Uskunalar panelini ekrandan olib qo'yish",
+      "D) Web-sahifani boshqa nom bilan saqlash"
+     ],
+     "TO'G'RI_JAVOB": "C) Uskunalar panelini ekrandan olib qo'yish",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ma'lumotlar oynasidagi web-sahifani qog'ozga chiqarish uchun uskunalar panelidagi qaysi tugma bosiladi?",
+     "variantlar": [
+      "A) Yangilash",
+      "B) Chop etish",
+      "C) Jurnal",
+      "D) Izlash"
+     ],
+     "TO'G'RI_JAVOB": "B) Chop etish",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Web-sahifadagi audio, video va animatsiyalarni ko'rsatish yoki ko'rsatmaslikni sozlash uchun qaysi menyu ishlatiladi?",
+     "variantlar": [
+      "A) Fayl",
+      "B) Ma'lumot",
+      "C) Servis",
+      "D) Tahrir"
+     ],
+     "TO'G'RI_JAVOB": "C) Servis",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Web-sahifani «Tanlangan» papkasiga qo'shish uchun to'g'ri ketma-ketlikni toping.",
+     "variantlar": [
+      "A) «Yangilash» → «Ok» → «Tanlangan»",
+      "B) «Qo'shish…» → «Tanlangan» tugmasi → «Orqaga»",
+      "C) «Chop etish» → «Ok» → «Qo'shish…»",
+      "D) «Tanlangan» tugmasi → «Qo'shish…» → «Ok»"
+     ],
+     "TO'G'RI_JAVOB": "D) «Tanlangan» tugmasi → «Qo'shish…» → «Ok»",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "O'quvchi web-sahifani boshqa nom bilan saqlamoqchi, so'ngra uni chop etmoqchi. Qaysi menyu ikkala amalni ham bajarishga imkon beradi?",
+     "variantlar": [
+      "A) Ko'rinish",
+      "B) Fayl",
+      "C) Servis",
+      "D) Tahrir"
+     ],
+     "TO'G'RI_JAVOB": "B) Fayl",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Nima uchun barcha web-sahifa manzillarini kitobga chop etib qo'yish muammoni hal etmaydi?",
+     "variantlar": [
+      "A) Manzillarni o'qib bo'lmaydi",
+      "B) Manzillar faqat rasmlardan iborat",
+      "C) Manzillar Internetda o'zgarib turadi va kitob juda katta hajmli bo'ladi",
+      "D) Kitoblar Internetga ulanmaydi"
+     ],
+     "TO'G'RI_JAVOB": "C) Manzillar Internetda o'zgarib turadi va kitob juda katta hajmli bo'ladi",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Foydalanuvchi ketma-ket uchta web-sahifani ochdi, so'ng ikkinchisiga qaytmoqchi. Qaysi amallar yordam beradi?",
+     "variantlar": [
+      "A) «Chop etish» tugmasi ikkinchisiga o'tkazadi",
+      "B) «Oldinga» tugmasi uchinchidan ikkinchisiga o'tkazadi",
+      "C) «To'xtatish» tugmasi ikkinchisiga o'tkazadi",
+      "D) «Orqaga» tugmasi uchinchidan ikkinchisiga o'tkazadi"
+     ],
+     "TO'G'RI_JAVOB": "D) «Orqaga» tugmasi uchinchidan ikkinchisiga o'tkazadi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Foydalanuvchi ikki marta «Orqaga» tugmasini bosib, keyin bir marta «Oldinga» tugmasini bossa, qaysi sahifada bo'ladi? (Ochilish tartibi: 1, 2, 3, 4-sahifa, hozir 4-sahifada.)",
+     "variantlar": [
+      "A) 1-sahifada",
+      "B) 2-sahifada",
+      "C) 3-sahifada",
+      "D) 4-sahifada"
+     ],
+     "TO'G'RI_JAVOB": "C) 3-sahifada",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Menyular va uskunalar paneli o'rtasidagi bog'liqlik haqida qaysi fikr matnga mos?",
+     "variantlar": [
+      "A) Uskunalar paneli ko'p qo'llaniladigan menyu amallarini osonlashtirish uchun tashkil etilgan",
+      "B) Menyular faqat uskunalar paneli tugmalaridan iborat",
+      "C) Uskunalar paneli menyularni butunlay almashtiradi va menyular kerak emas",
+      "D) Uskunalar paneliga yangi amal qo'shib bo'lmaydi"
+     ],
+     "TO'G'RI_JAVOB": "A) Uskunalar paneli ko'p qo'llaniladigan menyu amallarini osonlashtirish uchun tashkil etilgan",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Qaysi holatda foydalanuvchi web-sahifa manzilini bilmasa ham kerakli axborotni topa oladi?",
+     "variantlar": [
+      "A) Qidiruv tizimidan foydalansa",
+      "B) Faqat «Orqaga» tugmasini bossa",
+      "C) «Chop etish» tugmasini bossa",
+      "D) Dasturni yopib qayta ochsa"
+     ],
+     "TO'G'RI_JAVOB": "A) Qidiruv tizimidan foydalansa",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Foydalanuvchi ilgari «Tanlangan» papkasiga qo'shgan web-sahifani qayta ochmoqchi. Qanday qiladi?",
+     "variantlar": [
+      "A) Faqat manzilni yod bilishi shart",
+      "B) Sahifani qayta chop etadi",
+      "C) «Tanlangan» papkasiga kirib, ro'yxatdan sahifa nomini tanlaydi",
+      "D) Servis menyusidan audio sozlaydi"
+     ],
+     "TO'G'RI_JAVOB": "C) «Tanlangan» papkasiga kirib, ro'yxatdan sahifa nomini tanlaydi",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Internetdagi ma'lumotlarni to'liq ma'lumotnomada chop etib bo'lmasligining asosiy sabablaridan qaysi biri matnda keltirilgan?",
+     "variantlar": [
+      "A) Internet soat sayin yangi axborotlar bilan boyib boradi, eskirganlari chiqarib tashlanadi",
+      "B) Internetda web-sahifalar juda kam",
+      "C) Manzillar hech qachon o'zgarmaydi",
+      "D) Ma'lumotnomalar faqat chet tilida chop etiladi"
+     ],
+     "TO'G'RI_JAVOB": "A) Internet soat sayin yangi axborotlar bilan boyib boradi, eskirganlari chiqarib tashlanadi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Web-sahifa ochilayotganda uning qismlari ekranda qanday paydo bo'ladi va bu holatda nima qilish mumkin?",
+     "variantlar": [
+      "A) Birdaniga to'liq paydo bo'ladi; hech narsa qilib bo'lmaydi",
+      "B) Faqat matn ko'rinadi; sahifani o'chirish kerak",
+      "C) Rasm ko'rinmaydi; dasturni qayta o'rnatish kerak",
+      "D) Asta-sekin ko'rinib boradi; xohlansa «To'xtatish» bosiladi"
+     ],
+     "TO'G'RI_JAVOB": "D) Asta-sekin ko'rinib boradi; xohlansa «To'xtatish» bosiladi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "7-sinf",
+   "kitob": "7-sinf 7-Sinf Informatika",
+   "mavzu": "14-dars. Internetda ma'lumotlarni izlash",
+   "savollar": [
+    {
+     "savol": "Quyidagi qidiruv tizimlaridan qaysi biri matnda ko'p qo'llaniladiganlar qatorida keltirilmagan?",
+     "variantlar": [
+      "A) Ziyonet",
+      "B) Yahoo",
+      "C) Rambler",
+      "D) Aport"
+     ],
+     "TO'G'RI_JAVOB": "A) Ziyonet",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Rambler qidiruv tizimi qaysi manzilga ega?",
+     "variantlar": [
+      "A) www.google.uz",
+      "B) www.aport.ru",
+      "C) www.rambler.ru",
+      "D) www.yahoo.com"
+     ],
+     "TO'G'RI_JAVOB": "C) www.rambler.ru",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "O'zbekistonning milliy axborot-qidiruv tizimi qanday nomlanadi?",
+     "variantlar": [
+      "A) HAQIDA.UZ",
+      "B) REFERATLAR.UZ",
+      "C) WWW.UZ",
+      "D) ZIYONET.UZ"
+     ],
+     "TO'G'RI_JAVOB": "C) WWW.UZ",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "WWW.UZ milliy axborot-qidiruv tizimi qaysi yilning oktyabr oyida ishga tushirilgan?",
+     "variantlar": [
+      "A) 2006-yil",
+      "B) 2010-yil",
+      "C) 2002-yil",
+      "D) 2015-yil"
+     ],
+     "TO'G'RI_JAVOB": "A) 2006-yil",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "WWW.UZ milliy qidiruv tizimi interfeysi qaysi tillarda tashkil etilgan?",
+     "variantlar": [
+      "A) O'zbek va rus tillarida",
+      "B) O'zbek va ingliz tillarida",
+      "C) Faqat o'zbek tilida",
+      "D) Rus va ingliz tillarida"
+     ],
+     "TO'G'RI_JAVOB": "A) O'zbek va rus tillarida",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Qidiruv tizimi qaysi dastur orqali ishga tushiriladi?",
+     "variantlar": [
+      "A) Grafik muharrir",
+      "B) Web-brauzer",
+      "C) Elektron jadval",
+      "D) Matn muharriri"
+     ],
+     "TO'G'RI_JAVOB": "B) Web-brauzer",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Qidiruv satriga kiritiladigan, maqolada uchrashi mumkin bo'lgan so'z yoki jumla nima deb ataladi?",
+     "variantlar": [
+      "A) Katalog",
+      "B) Interfeys",
+      "C) Kalit so'z",
+      "D) Drayver"
+     ],
+     "TO'G'RI_JAVOB": "C) Kalit so'z",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Qidiruv tizimi manzili brauzerning qaysi qismiga kiritiladi?",
+     "variantlar": [
+      "A) Bo'limlar ro'yxatiga",
+      "B) Menyu satriga",
+      "C) Manzillar satriga",
+      "D) Qidiruv tugmasiga"
+     ],
+     "TO'G'RI_JAVOB": "C) Manzillar satriga",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Matnga ko'ra, Google qidiruv tizimining o'ziga xos xususiyati qaysi?",
+     "variantlar": [
+      "A) Juda ko'p tillarda izlash imkonini beradi",
+      "B) Faqat o'zbek tilida ishlaydi",
+      "C) Faqat rasmlarni izlaydi",
+      "D) Faqat sport yangiliklarini topadi"
+     ],
+     "TO'G'RI_JAVOB": "A) Juda ko'p tillarda izlash imkonini beradi",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Web-sahifani ko'rsatishni ta'minlovchi dastur qanday ataladi?",
+     "variantlar": [
+      "A) Qidiruv tizimi",
+      "B) Drayver",
+      "C) Web-brauzer",
+      "D) Tahrir menyusi"
+     ],
+     "TO'G'RI_JAVOB": "C) Web-brauzer",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "WWW.UZ ning rus tilidagi interfeysini ochish uchun brauzer manzillar satriga nima kiritiladi?",
+     "variantlar": [
+      "A) www.uz.ru",
+      "B) www.uz/ru",
+      "C) www.ru/uz",
+      "D) www.uz/uz"
+     ],
+     "TO'G'RI_JAVOB": "B) www.uz/ru",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Google qidiruv tizimini ishga tushirish uchun brauzer manzillar satriga nima yoziladi va qaysi klavish bosiladi?",
+     "variantlar": [
+      "A) google.uz va Enter",
+      "B) google.uz va Esc",
+      "C) google.uz va Tab",
+      "D) www.uz va Enter"
+     ],
+     "TO'G'RI_JAVOB": "A) google.uz va Enter",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Informatikadan referatlarni izlash uchun qidiruv satriga qaysi kalit so'z kiritiladi?",
+     "variantlar": [
+      "A) kompyuter drayveri",
+      "B) informatikadan referatlar",
+      "C) Toshkent 2200 yillik",
+      "D) o'yin dasturi"
+     ],
+     "TO'G'RI_JAVOB": "B) informatikadan referatlar",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Maqola nomi ma'lum bo'lsa, Izlash xususiyatlaridan qaysi tugma tanlanadi?",
+     "variantlar": [
+      "A) «Nomi va tavsif bo'yicha»",
+      "B) «Tahrir»",
+      "C) «Bosh sahifa»",
+      "D) «Bo'limlar ro'yxati»"
+     ],
+     "TO'G'RI_JAVOB": "A) «Nomi va tavsif bo'yicha»",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ramblerda sport yangiliklarini tez topish uchun nima qilish maqsadga muvofiq?",
+     "variantlar": [
+      "A) Faqat «O'yinlar» mavzusini tanlash",
+      "B) «Kino va musiqa» mavzusini tanlash",
+      "C) Mavzu tanlamasdan qidirish",
+      "D) «Sport» mavzusini tanlab, so'ng qidirish"
+     ],
+     "TO'G'RI_JAVOB": "D) «Sport» mavzusini tanlab, so'ng qidirish",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Qidiruv natijasida qidiruv tizimi sahifasida odatda nimalar aks etadi?",
+     "variantlar": [
+      "A) Faqat manbalar soni",
+      "B) Foydalanuvchi parollari",
+      "C) Faqat rasmlar",
+      "D) Manbalar soni, saytlar manzili va nomlari"
+     ],
+     "TO'G'RI_JAVOB": "D) Manbalar soni, saytlar manzili va nomlari",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Kalit so'zni kiritish jarayonida qidiruv tizimi nima qilishi mumkin?",
+     "variantlar": [
+      "A) Brauzerni yopib qo'yadi",
+      "B) Sahifani o'chiradi",
+      "C) Qidiruvni to'xtatadi",
+      "D) Turlicha kalit so'zlarni taklif etishi mumkin"
+     ],
+     "TO'G'RI_JAVOB": "D) Turlicha kalit so'zlarni taklif etishi mumkin",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ertangi kun ob-havosi haqida ma'lumot olish uchun matndagi topshiriqqa ko'ra qaysi saytga kiriladi?",
+     "variantlar": [
+      "A) Referatlar.uz",
+      "B) Ob-havo.uz",
+      "C) Ziyonet.uz",
+      "D) Haqida.uz"
+     ],
+     "TO'G'RI_JAVOB": "B) Ob-havo.uz",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Mavzu bo'yicha izlashning asosiy maqsadi nima?",
+     "variantlar": [
+      "A) Brauzerni almashtirish",
+      "B) Izlash vaqtini kamaytirish",
+      "C) Internetni tezlashtirish",
+      "D) Saytlarni o'chirish"
+     ],
+     "TO'G'RI_JAVOB": "B) Izlash vaqtini kamaytirish",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Qidiruv tizimlari orasida www.google.uz manzili qaysi tizimga tegishli ekanini aniqlang.",
+     "variantlar": [
+      "A) Google",
+      "B) Rambler",
+      "C) Aport",
+      "D) Yahoo"
+     ],
+     "TO'G'RI_JAVOB": "A) Google",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Milliy qidiruv tizimi katalogidagi saytlarni qaysi ma'lumotlar bo'yicha izlash mumkin?",
+     "variantlar": [
+      "A) Faqat yaratilgan sanasi bo'yicha",
+      "B) Faqat rangi bo'yicha",
+      "C) Faqat hajmi bo'yicha",
+      "D) Nomi va tavsifi bo'yicha"
+     ],
+     "TO'G'RI_JAVOB": "D) Nomi va tavsifi bo'yicha",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "O'quvchi WWW.UZ da maqolani izlamoqchi, ammo aniq nomini bilmaydi. Matnga ko'ra u qanday harakat qilishi mumkin?",
+     "variantlar": [
+      "A) Maqolada uchrashi mumkin bo'lgan so'z yoki jumlani kalit so'z sifatida kiritadi",
+      "B) Faqat saytlar manzilini kiritadi",
+      "C) Qidiruv satrini bo'sh qoldirib Enter bosadi",
+      "D) Brauzerni o'chirib qayta yoqadi"
+     ],
+     "TO'G'RI_JAVOB": "A) Maqolada uchrashi mumkin bo'lgan so'z yoki jumlani kalit so'z sifatida kiritadi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "WWW.UZ yangi talqini 2015-yil 11-fevralda ishga tushirilgan. Tizim dastlab ishga tushirilganidan (2006-yil oktyabr) necha yil o'tib yangilangan (taxminan, to'liq yillarda)?",
+     "variantlar": [
+      "A) 5 yil",
+      "B) 9 yil",
+      "C) 8 yil",
+      "D) 10 yil"
+     ],
+     "TO'G'RI_JAVOB": "B) 9 yil",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Qidiruv tizimlari turli ko'rinishga ega bo'lsa-da, nima uchun bittasini o'rganish boshqalarida ham ishlashga yordam beradi?",
+     "variantlar": [
+      "A) Chunki ularning barchasida faqat bitta til bor",
+      "B) Chunki ularning barchasi bir kompaniyaniki",
+      "C) Chunki ularning manzillari bir xil",
+      "D) Chunki ularning ishlashi deyarli bir xil"
+     ],
+     "TO'G'RI_JAVOB": "D) Chunki ularning ishlashi deyarli bir xil",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Foydalanuvchi Ramblerda «Sport» mavzusini tanlab, qidiruv satriga so'z kiritdi. Izlash qayerda amalga oshiriladi?",
+     "variantlar": [
+      "A) Faqat foydalanuvchi kompyuterida",
+      "B) Internetning barcha hujjatlari ichida",
+      "C) Faqat «O'yinlar» bo'limida",
+      "D) Internetning faqat «Sport» bo'limiga tegishli hujjatlari ichida"
+     ],
+     "TO'G'RI_JAVOB": "D) Internetning faqat «Sport» bo'limiga tegishli hujjatlari ichida",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Internetdan axborot izlashda birinchi navbatda nima qilish lozim?",
+     "variantlar": [
+      "A) Barcha saytlarni ochib chiqish",
+      "B) Qanday axborotni izlashni aniq bilish",
+      "C) Faqat rasmlarni qidirish",
+      "D) Tasodifiy kalit so'z kiritish"
+     ],
+     "TO'G'RI_JAVOB": "B) Qanday axborotni izlashni aniq bilish",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Foydalanuvchi WWW.UZ ni ishga tushirish uchun qaysi ketma-ketlik to'g'ri?",
+     "variantlar": [
+      "A) Bo'limlar ro'yxatini tanlash, brauzerni ishga tushirish",
+      "B) Brauzerni ishga tushirish, manzillar satriga www.uz/uz kiritish, Enter bosish",
+      "C) Enter bosish, brauzerni ishga tushirish, manzil kiritish",
+      "D) Qidiruv satriga www.uz/uz yozish, brauzerni yopish"
+     ],
+     "TO'G'RI_JAVOB": "B) Brauzerni ishga tushirish, manzillar satriga www.uz/uz kiritish, Enter bosish",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Qidiruv tizimi qanday kalit so'z bilan «web-brauzerlar» haqida ma'lumot topishga misol sifatida Google da ko'rsatilgan?",
+     "variantlar": [
+      "A) «Toshkentning 2200 yilligi»",
+      "B) «Sport»",
+      "C) «informatikadan referatlar»",
+      "D) «web-brauzerlar»"
+     ],
+     "TO'G'RI_JAVOB": "D) «web-brauzerlar»",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Qidiruv tizimi va web-brauzer o'rtasidagi to'g'ri munosabat qaysi?",
+     "variantlar": [
+      "A) Qidiruv tizimi brauzersiz ishlaydi",
+      "B) Qidiruv tizimi web-brauzer orqali ishga tushiriladi",
+      "C) Ular bir xil narsa",
+      "D) Web-brauzer qidiruv tizimi orqali ishga tushiriladi"
+     ],
+     "TO'G'RI_JAVOB": "B) Qidiruv tizimi web-brauzer orqali ishga tushiriladi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Matnga ko'ra, qidiruv tizimi qanday web-sahifa hisoblanadi?",
+     "variantlar": [
+      "A) Internetdan kerakli axborotni izlab topish uchun xizmat qiluvchi maxsus web-sahifa",
+      "B) Rasm chizish uchun sahifa",
+      "C) Faqat xat yuborish uchun sahifa",
+      "D) Dasturlarni o'chirish uchun sahifa"
+     ],
+     "TO'G'RI_JAVOB": "A) Internetdan kerakli axborotni izlab topish uchun xizmat qiluvchi maxsus web-sahifa",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "7-sinf",
+   "kitob": "7-sinf 7-Sinf Informatika",
+   "mavzu": "15-dars. Elektron pochta",
+   "savollar": [
+    {
+     "savol": "Elektron pochta manzili qanday ko'rinishda yoziladi?",
+     "variantlar": [
+      "A) <pochta serveri nomi>@<foydalanuvchi nomi>",
+      "B) <foydalanuvchi nomi>#<pochta serveri nomi>",
+      "C) <foydalanuvchi nomi>@<pochta serveri nomi>",
+      "D) www.<foydalanuvchi nomi>.uz"
+     ],
+     "TO'G'RI_JAVOB": "C) <foydalanuvchi nomi>@<pochta serveri nomi>",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Elektron pochta manzilida albatta qatnashadigan belgi qaysi?",
+     "variantlar": [
+      "A) @",
+      "B) #",
+      "C) %",
+      "D) &"
+     ],
+     "TO'G'RI_JAVOB": "A) @",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "«@» belgisining boshqacha nomi qaysi?",
+     "variantlar": [
+      "A) Kuchukcha",
+      "B) Mushukcha",
+      "C) Qo'ng'iroq",
+      "D) Yulduzcha"
+     ],
+     "TO'G'RI_JAVOB": "A) Kuchukcha",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Pochta qutisi nima?",
+     "variantlar": [
+      "A) Uyingizdagi xat solinadigan quti",
+      "B) Brauzer dasturi",
+      "C) Kompyuterning klaviaturasi",
+      "D) Internet tizimidagi maxsus server diskida siz uchun ajratilgan joy"
+     ],
+     "TO'G'RI_JAVOB": "D) Internet tizimidagi maxsus server diskida siz uchun ajratilgan joy",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Pochta qutisi va elektron manzil bilan abonentlarni kim ta'minlaydi?",
+     "variantlar": [
+      "A) Klaviatura",
+      "B) Brauzer",
+      "C) Provayder",
+      "D) Modem"
+     ],
+     "TO'G'RI_JAVOB": "C) Provayder",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Quyidagilardan qaysi biri elektron pochta xabarlarini qabul qilish va jo'natish uchun ishlatiladigan dastur?",
+     "variantlar": [
+      "A) Outlook Express",
+      "B) Rambler.ru",
+      "C) Inbox.uz",
+      "D) Mail.ru"
+     ],
+     "TO'G'RI_JAVOB": "A) Outlook Express",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Quyidagi saytlardan qaysi biri ham qidiruv tizimi, ham elektron pochta xizmatini taklif etadi?",
+     "variantlar": [
+      "A) Rambler.ru",
+      "B) uMail.uz",
+      "C) Windows Live Mail",
+      "D) Inbox.uz"
+     ],
+     "TO'G'RI_JAVOB": "A) Rambler.ru",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Saytlardagi pochta qutisidan odatda qancha vaqt foydalanilmasa, u Internet tizimidan olib tashlanadi?",
+     "variantlar": [
+      "A) 3 oy",
+      "B) 1 hafta",
+      "C) 1 oy",
+      "D) 1 yil"
+     ],
+     "TO'G'RI_JAVOB": "A) 3 oy",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ro'yxatdan o'tish oynasida (*) belgisi bilan belgilangan maydonlar haqida qaysi fikr to'g'ri?",
+     "variantlar": [
+      "A) Ularga ma'lumot kiritish shart",
+      "B) Ularni to'ldirish shart emas",
+      "C) Ular faqat rasm uchun",
+      "D) Ular parolni ko'rsatadi"
+     ],
+     "TO'G'RI_JAVOB": "A) Ularga ma'lumot kiritish shart",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Bitta serverda ikkita bir xil elektron pochta manzili bo'lishi mumkinmi?",
+     "variantlar": [
+      "A) Yo'q, mumkin emas",
+      "B) Ha, doimo mumkin",
+      "C) Faqat ism boshqa bo'lsa mumkin",
+      "D) Faqat parol boshqa bo'lsa mumkin"
+     ],
+     "TO'G'RI_JAVOB": "A) Yo'q, mumkin emas",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Saytdagi elektron pochtaning afzalligi qaysi?",
+     "variantlar": [
+      "A) Dunyoning ixtiyoriy chekkasidan foydalanish mumkin",
+      "B) Faqat bitta kompyuterda ishlaydi",
+      "C) Parol talab qilinmaydi",
+      "D) Internetsiz ishlaydi"
+     ],
+     "TO'G'RI_JAVOB": "A) Dunyoning ixtiyoriy chekkasidan foydalanish mumkin",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Nima uchun saytdagi pochta qutisini ochish uchun o'z shaxsiy kompyuteringiz bo'lishi shart emas?",
+     "variantlar": [
+      "A) Chunki pochta qutisi qog'ozda bo'ladi",
+      "B) Chunki dastur o'rnatish shart",
+      "C) Chunki Internetga ulangan istalgan kompyuterdan foydalanish mumkin",
+      "D) Chunki pochta qutisi telefon raqamida saqlanadi"
+     ],
+     "TO'G'RI_JAVOB": "C) Chunki Internetga ulangan istalgan kompyuterdan foydalanish mumkin",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Foydalanuvchi ro'yxatdan o'tishda tanlagan login band bo'lsa, nima qilish kerak?",
+     "variantlar": [
+      "A) Parolni o'zgartirish kerak",
+      "B) Boshqa login kiritish kerak",
+      "C) Xuddi shu loginni qayta kiritish kerak",
+      "D) Kompyuterni o'chirish kerak"
+     ],
+     "TO'G'RI_JAVOB": "B) Boshqa login kiritish kerak",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Inbox.uz da pochta qutisi nomi (login) uchun qaysi biri talabga mos keladi?",
+     "variantlar": [
+      "A) maktab@15",
+      "B) maktab uzun nom bilan yozilgan 20 belgili",
+      "C) maktab_15",
+      "D) abc"
+     ],
+     "TO'G'RI_JAVOB": "C) maktab_15",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Inbox.uz da login ko'pi bilan nechta belgidan iborat bo'lishi mumkin?",
+     "variantlar": [
+      "A) 5",
+      "B) 10",
+      "C) 16",
+      "D) 20"
+     ],
+     "TO'G'RI_JAVOB": "C) 16",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Inbox.uz da login kamida nechta belgidan iborat bo'lishi kerak?",
+     "variantlar": [
+      "A) 8",
+      "B) 3",
+      "C) 1",
+      "D) 5"
+     ],
+     "TO'G'RI_JAVOB": "D) 5",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Inbox.uz da parol kiritishda qaysi harflarni qatnashtirmaslik kerak?",
+     "variantlar": [
+      "A) Kichik harflarni",
+      "B) Kirill harflarini",
+      "C) Raqamlarni",
+      "D) Lotin harflarini"
+     ],
+     "TO'G'RI_JAVOB": "B) Kirill harflarini",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Inbox.uz da parolni ikki marta kiritishdan maqsad nima?",
+     "variantlar": [
+      "A) Rasmni kiritish",
+      "B) Parolni uzunroq qilish",
+      "C) Parol to'g'ri kiritilganini tekshirish",
+      "D) Loginni almashtirish"
+     ],
+     "TO'G'RI_JAVOB": "C) Parol to'g'ri kiritilganini tekshirish",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Maxfiy savol va unga javob nima uchun kerak?",
+     "variantlar": [
+      "A) Xabar yuborish uchun",
+      "B) Esdan chiqarilgan parolni eslash yoki almashtirish uchun",
+      "C) Login tanlash uchun",
+      "D) Rasm yuklash uchun"
+     ],
+     "TO'G'RI_JAVOB": "B) Esdan chiqarilgan parolni eslash yoki almashtirish uchun",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ro'yxatdan o'tishda rasmdagi belgilarni kiritish maydoni nima uchun mavjud?",
+     "variantlar": [
+      "A) Parolni yashirish uchun",
+      "B) Xabarni tezlashtirish uchun",
+      "C) Pochta manzilini o'zgartirish uchun",
+      "D) Avtomatik ro'yxatdan o'tishni cheklash uchun"
+     ],
+     "TO'G'RI_JAVOB": "D) Avtomatik ro'yxatdan o'tishni cheklash uchun",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Foydalanuvchi uMail.uz da ro'yxatdan o'tmadi. Quyidagilardan qaysi biri sabab bo'lishi MUMKIN EMAS?",
+     "variantlar": [
+      "A) Login band bo'lishi",
+      "B) Parol juda sodda bo'lishi",
+      "C) Tekshiruv belgilari xato kiritilgani",
+      "D) Klaviatura rangi boshqacha bo'lgani"
+     ],
+     "TO'G'RI_JAVOB": "D) Klaviatura rangi boshqacha bo'lgani",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ali «ali_2010» loginini Inbox.uz da tanladi. Uning manzili qanday bo'ladi?",
+     "variantlar": [
+      "A) inbox.uz@ali_2010",
+      "B) www.ali_2010@inbox.uz",
+      "C) ali_2010.inbox.uz",
+      "D) ali_2010@inbox.uz"
+     ],
+     "TO'G'RI_JAVOB": "D) ali_2010@inbox.uz",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Qaysi manzil elektron pochta manzili, web-sahifa manzili emas?",
+     "variantlar": [
+      "A) rtm@xtv.uz",
+      "B) http://xtv.uz",
+      "C) www.xtv.uz",
+      "D) xtv.uz/rtm"
+     ],
+     "TO'G'RI_JAVOB": "A) rtm@xtv.uz",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Vali kompyuteri o'chiq paytida unga xat yuborildi. Xat qayerda saqlanadi va qachongacha?",
+     "variantlar": [
+      "A) Server diskidagi pochta qutisida, u qabul qilib olinmaguncha",
+      "B) Xat yo'qoladi",
+      "C) Vali brauzerida vaqtincha",
+      "D) Yuboruvchi kompyuterida abadiy"
+     ],
+     "TO'G'RI_JAVOB": "A) Server diskidagi pochta qutisida, u qabul qilib olinmaguncha",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Nima uchun elektron pochta xizmatidan foydalanish uchun faqat pochta qutisi va manzilga ega bo'lish yetarli emas?",
+     "variantlar": [
+      "A) Chunki parol bo'lmaydi",
+      "B) Xabarlarni qabul qilish va jo'natish uchun maxsus dasturlar (yoki sayt) ham kerak",
+      "C) Chunki provayder yo'q",
+      "D) Chunki manzilda @ belgisi yo'q"
+     ],
+     "TO'G'RI_JAVOB": "B) Xabarlarni qabul qilish va jo'natish uchun maxsus dasturlar (yoki sayt) ham kerak",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Foydalanuvchi pochta qutisini ochdi, lekin 3 oydan ortiq kirmadi. Nima bo'lishi mumkin?",
+     "variantlar": [
+      "A) Hech narsa o'zgarmaydi",
+      "B) Pochta qutisi ikki barobar kattalashadi",
+      "C) Parol avtomatik o'zgaradi",
+      "D) Pochta qutisi Internet tizimidan olib tashlanadi"
+     ],
+     "TO'G'RI_JAVOB": "D) Pochta qutisi Internet tizimidan olib tashlanadi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Inbox.uz da ro'yxatdan o'tish jarayonida qaysi tartib to'g'ri?",
+     "variantlar": [
+      "A) Tugma, login, mamlakat, parol",
+      "B) Login, parol, ism-familiya, tug'ilgan kun, jins, mamlakat, maxfiy savol, rasmdagi belgilar, tugma",
+      "C) Parol, tugma, login, jins",
+      "D) Rasmdagi belgilar, login, tugma, parol"
+     ],
+     "TO'G'RI_JAVOB": "B) Login, parol, ism-familiya, tug'ilgan kun, jins, mamlakat, maxfiy savol, rasmdagi belgilar, tugma",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Nima uchun uMail.uz da «Login» va «Asosiy pochta qutisi» maydonlariga kiritilgan ma'lumotlar takrorlanmas bo'lishi shart?",
+     "variantlar": [
+      "A) Chunki ular rasm bo'ladi",
+      "B) Chunki serverda ikkita bir xil manzil bo'lishi mumkin emas",
+      "C) Chunki ular faqat raqam bo'ladi",
+      "D) Chunki ular parol bilan bir xil bo'lishi kerak"
+     ],
+     "TO'G'RI_JAVOB": "B) Chunki serverda ikkita bir xil manzil bo'lishi mumkin emas",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Quyidagi tasdiqlardan qaysi biri to'g'ri?",
+     "variantlar": [
+      "A) Elektron pochta orqali matn bilan birga tovushli va video xabarlar ham yuborish mumkin",
+      "B) Elektron pochta manzilida @ bo'lmaydi",
+      "C) Elektron pochta faqat matn yuboradi",
+      "D) Pochta qutisi kompyuteringiz diskida joylashadi"
+     ],
+     "TO'G'RI_JAVOB": "A) Elektron pochta orqali matn bilan birga tovushli va video xabarlar ham yuborish mumkin",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "7-sinf",
+   "kitob": "7-sinf 7-Sinf Informatika",
+   "mavzu": "16-dars. Axborotlarni himoyalash va antiviruslar haqida",
+   "savollar": [
+    {
+     "savol": "Media-savodxonlik nima?",
+     "variantlar": [
+      "A) Kompyuter yig'ish malakasi",
+      "B) Faqat televizor ko'rish malakasi",
+      "C) Olinayotgan va yuborilayotgan ma'lumotlarning axloqiy va huquqiy me'yorlarga mosligini aniqlay olish savodxonligi",
+      "D) Antivirus dasturini yozish malakasi"
+     ],
+     "TO'G'RI_JAVOB": "C) Olinayotgan va yuborilayotgan ma'lumotlarning axloqiy va huquqiy me'yorlarga mosligini aniqlay olish savodxonligi",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Kompyuter virusi nima?",
+     "variantlar": [
+      "A) Faqat monitorning nosozligi",
+      "B) Ma'lumotlarni o'chirish yoki o'zgartirish kabi ishlarni bajaruvchi va boshqa dastur tarkibiga qo'shilib olish xususiyatiga ega maxsus dastur",
+      "C) Internet tezligini oshiruvchi dastur",
+      "D) Elektron pochta manzili"
+     ],
+     "TO'G'RI_JAVOB": "B) Ma'lumotlarni o'chirish yoki o'zgartirish kabi ishlarni bajaruvchi va boshqa dastur tarkibiga qo'shilib olish xususiyatiga ega maxsus dastur",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Kompyuterlarda eng ko'p tarqalgan viruslar qaysilar?",
+     "variantlar": [
+      "A) Boot-viruslar",
+      "B) Fayl viruslari",
+      "C) Tarmoq viruslari",
+      "D) Makroviruslar"
+     ],
+     "TO'G'RI_JAVOB": "B) Fayl viruslari",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Fayl viruslari barcha viruslarning taxminan necha foizini tashkil etadi?",
+     "variantlar": [
+      "A) 80 %",
+      "B) 50 %",
+      "C) 60 %",
+      "D) 20 %"
+     ],
+     "TO'G'RI_JAVOB": "A) 80 %",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Kriptografiya nima?",
+     "variantlar": [
+      "A) Kompyuter tarmog'i turi",
+      "B) Virusni o'chirish dasturi",
+      "C) Web-sahifa yaratish tili",
+      "D) Axborotni kodlash usuli"
+     ],
+     "TO'G'RI_JAVOB": "D) Axborotni kodlash usuli",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Kompyuter viruslarining yaratilishiga turtki bergan dastur muallifi kim?",
+     "variantlar": [
+      "A) Islom Karimov",
+      "B) Morris",
+      "C) Fred Koen",
+      "D) Bill Geyts"
+     ],
+     "TO'G'RI_JAVOB": "C) Fred Koen",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Quyidagilardan qaysi biri antivirus dasturi hisoblanadi?",
+     "variantlar": [
+      "A) Kaspersky Anti-Virus",
+      "B) Excel",
+      "C) Microsoft Word",
+      "D) Black Friday"
+     ],
+     "TO'G'RI_JAVOB": "A) Kaspersky Anti-Virus",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Tarmoqqa zarar keltiruvchi viruslar qanday nom bilan ataladi?",
+     "variantlar": [
+      "A) Protokollar",
+      "B) Replikatorlar",
+      "C) Makrolar",
+      "D) Sektorlar"
+     ],
+     "TO'G'RI_JAVOB": "B) Replikatorlar",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ma'lumotlarga ko'ra, 1971-yilda AQSHning temir yo'l kompaniyasida nechta vagon yo'qolgani payqalgan?",
+     "variantlar": [
+      "A) 13 ta",
+      "B) 6 000 ta",
+      "C) 200 ta",
+      "D) 30 000 ta"
+     ],
+     "TO'G'RI_JAVOB": "C) 200 ta",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Boot-viruslar diskning qaysi qismiga o'zini yozib oladi?",
+     "variantlar": [
+      "A) Elektron jadvalga",
+      "B) Web-sahifaga",
+      "C) Matn muharririga",
+      "D) Operatsion sistemani yuklovchi 0-trakiga"
+     ],
+     "TO'G'RI_JAVOB": "D) Operatsion sistemani yuklovchi 0-trakiga",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "«Black Friday» virusi qanday ish bajaradi?",
+     "variantlar": [
+      "A) Kompyuter ishini yuz marta sekinlashtiradi",
+      "B) Ekranning chap burchagidan qora tuynuk ochadi",
+      "C) Juma kunlari ishlanayotgan fayllarni o'chiradi",
+      "D) Elektron pochta manzillarini o'g'irlaydi"
+     ],
+     "TO'G'RI_JAVOB": "C) Juma kunlari ishlanayotgan fayllarni o'chiradi",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Foydalanuvchi Microsoft Word hujjatini ochganda kompyuteri zararlandi va boshqa Word fayllari ham zararlana boshladi. Bu qaysi turdagi virus bo'lishi mumkin?",
+     "variantlar": [
+      "A) Makrovirus",
+      "B) Boot-virus",
+      "C) Replikator",
+      "D) Fayl virusi (EXE)"
+     ],
+     "TO'G'RI_JAVOB": "A) Makrovirus",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Qaysi virus antivirus dasturi ishga tushishidan oldin, operatsion sistema yuklanishidayoq faollashadi?",
+     "variantlar": [
+      "A) Boot-virus",
+      "B) Pochta virusi",
+      "C) Troyan",
+      "D) Makrovirus"
+     ],
+     "TO'G'RI_JAVOB": "A) Boot-virus",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Internetda uzatilayotgan axborotni yo'lda ushlab olishdan himoyalanish uchun qaysi usul mos keladi?",
+     "variantlar": [
+      "A) Sichqonchani almashtirish",
+      "B) Fayllar nomini qisqartirish",
+      "C) Monitor yorqinligini kamaytirish",
+      "D) Kriptografiya (axborotni kodlash) dan foydalanish"
+     ],
+     "TO'G'RI_JAVOB": "D) Kriptografiya (axborotni kodlash) dan foydalanish",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Quyidagilardan qaysi biri matnga ko'ra yot, buzg'unchi g'oyalarga kiradi?",
+     "variantlar": [
+      "A) Dars jadvali",
+      "B) Diniy ekstremizm",
+      "C) Ilmiy maqola",
+      "D) Ob-havo ma'lumoti"
+     ],
+     "TO'G'RI_JAVOB": "B) Diniy ekstremizm",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Morris nomli tarmoq virusi 1988-yilda 30 000 ta kompyuterdan 6 000 tasiga zarar keltirgan. Zarar ko'rgan kompyuterlar ulushi qancha?",
+     "variantlar": [
+      "A) 30 %",
+      "B) 10 %",
+      "C) 60 %",
+      "D) 20 %"
+     ],
+     "TO'G'RI_JAVOB": "D) 20 %",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Internetdan ma'lumot olayotganda matnga ko'ra qanday chora ko'rish kerak?",
+     "variantlar": [
+      "A) Barcha manbalarga ishonish",
+      "B) Faqat ishonchli manbalardan olish va asl nusxaga mosligini tekshirish",
+      "C) Antivirusni o'chirib qo'yish",
+      "D) Ma'lumotni tekshirmasdan tarqatish"
+     ],
+     "TO'G'RI_JAVOB": "B) Faqat ishonchli manbalardan olish va asl nusxaga mosligini tekshirish",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Matnga ko'ra, «yosh dasturchilar» nima uchun ko'proq zarar yetkazadi?",
+     "variantlar": [
+      "A) Ular eng kuchli dasturlarni yozadi",
+      "B) Ular faqat davlat tashkilotlariga hujum qiladi",
+      "C) Ular antivirus ishlab chiqaradi",
+      "D) Ular juda ko'pchilikni tashkil qiladi"
+     ],
+     "TO'G'RI_JAVOB": "D) Ular juda ko'pchilikni tashkil qiladi",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Quyidagi virus nomlaridan qaysi biri kompyuter ishini sun'iy ravishda sekinlashtirib yuboradi?",
+     "variantlar": [
+      "A) Black Hole",
+      "B) Ierusalem",
+      "C) Sekin ta'sir qiluvchi virus",
+      "D) Friday 13"
+     ],
+     "TO'G'RI_JAVOB": "C) Sekin ta'sir qiluvchi virus",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Fayl viruslari haqidagi qaysi fikr matnga mos keladi?",
+     "variantlar": [
+      "A) Ular faqat elektron jadvallarda uchraydi",
+      "B) Ular COM, EXE va DLL fayllarini zararlaydi va o'z vaqtida chora ko'rilmasa, epidemiyaga aylanadi",
+      "C) Ular faqat disket yuklovchi sektorini zararlaydi",
+      "D) Ular soni jihatdan eng kam viruslardir"
+     ],
+     "TO'G'RI_JAVOB": "B) Ular COM, EXE va DLL fayllarini zararlaydi va o'z vaqtida chora ko'rilmasa, epidemiyaga aylanadi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Fred Koen yaratgan dastur dastlab qanday maqsadda tuzilgan edi va u keyin nimaga olib keldi?",
+     "variantlar": [
+      "A) Elektron pochta uchun; tarmoq protokollariga",
+      "B) Noqonuniy nusxa ko'chirishdan himoya qilish uchun; viruslar yaratilishiga turtki bo'ldi",
+      "C) Internet tezligini oshirish uchun; antivirus yaratilishiga",
+      "D) O'yin yaratish uchun; yangi operatsion sistemaga"
+     ],
+     "TO'G'RI_JAVOB": "B) Noqonuniy nusxa ko'chirishdan himoya qilish uchun; viruslar yaratilishiga turtki bo'ldi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Nima uchun boot-viruslar fayl viruslaridan tubdan farq qiladi?",
+     "variantlar": [
+      "A) Ular yuklash sektoriga joylashadi, soni kam va sekinroq tarqaladi",
+      "B) Ular faqat tarmoq orqali tarqaladi",
+      "C) Ular faqat Excelda ishlaydi",
+      "D) Ular eng ko'p tarqalgan viruslardir"
+     ],
+     "TO'G'RI_JAVOB": "A) Ular yuklash sektoriga joylashadi, soni kam va sekinroq tarqaladi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "1971-yilgi vagonlar yo'qolishi holatida jinoyat qanday amalga oshirilgan va u nima deb qayd etilgan?",
+     "variantlar": [
+      "A) Kompyuterga atayin noto'g'ri manzil kiritilgan; birinchi rasmiy «elektron jinoyat»",
+      "B) Virus tarmoqqa tarqalgan; birinchi makrovirus",
+      "C) Vagonlar o'g'irlangan; oddiy o'g'rilik",
+      "D) Temir yo'l buzilgan; diversiya"
+     ],
+     "TO'G'RI_JAVOB": "A) Kompyuterga atayin noto'g'ri manzil kiritilgan; birinchi rasmiy «elektron jinoyat»",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Foydalanuvchi shaxsiy kompyuterida o'g'irlashga arziydigan qimmatli axborot yo'q, deb antivirus o'rnatmadi. Matnga ko'ra bu fikr nima uchun noto'g'ri?",
+     "variantlar": [
+      "A) Chunki viruslar faqat qimmatli axborotga zarar yetkazadi",
+      "B) Chunki antivirus majburiy qonun talabi",
+      "C) Chunki antivirus kompyuterni tezlashtiradi",
+      "D) Chunki axborot o'g'irlanmasa ham, viruslar uni o'chirib yuborishi yoki foydalanib bo'lmaydigan qilib o'zgartirishi mumkin"
+     ],
+     "TO'G'RI_JAVOB": "D) Chunki axborot o'g'irlanmasa ham, viruslar uni o'chirib yuborishi yoki foydalanib bo'lmaydigan qilib o'zgartirishi mumkin",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Quyidagi holatlardan qaysi biri Internet orqali yetkaziladigan zararga kirmaydi?",
+     "variantlar": [
+      "A) Uzatilayotgan axborotdan nusxa olish yoki uni o'zgartirish",
+      "B) Virusni web-sahifaga yashirib qo'yish",
+      "C) Antivirus dasturini yangilash",
+      "D) Kompyuterga ruxsatsiz kirib, masofadan boshqarish"
+     ],
+     "TO'G'RI_JAVOB": "C) Antivirus dasturini yangilash",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Makroviruslar nima uchun nafaqat alohida kompyuterlarni, balki tarmoqdagi kompyuterlarni ham zararlantiradi?",
+     "variantlar": [
+      "A) Chunki ular Word va Excel kabi dasturlar o'rnatilgan tarmoqdagi zararlangan fayllar ishga tushganda faollashib, shu turdagi fayllarni zararlaydi",
+      "B) Chunki ular boot-sektorga yoziladi",
+      "C) Chunki ular antivirus tarkibida bo'ladi",
+      "D) Chunki ular faqat DLL fayllarni zararlaydi"
+     ],
+     "TO'G'RI_JAVOB": "A) Chunki ular Word va Excel kabi dasturlar o'rnatilgan tarmoqdagi zararlangan fayllar ishga tushganda faollashib, shu turdagi fayllarni zararlaydi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Quyidagi chora-tadbirlardan qaysi biri matnga ko'ra xavfni butunlay bartaraf etmasa-da, sezilarli kamaytiradi?",
+     "variantlar": [
+      "A) Faqat kompyuterni o'chirib qo'yish",
+      "B) Faqat parolni oddiy so'z qilib qo'yish",
+      "C) Tashqaridan kirishni cheklovchi vositalar, ishonchli manbalar, kriptografiya va antivirus dasturlarini birgalikda qo'llash",
+      "D) Barcha fayllarni ochiq qoldirish"
+     ],
+     "TO'G'RI_JAVOB": "C) Tashqaridan kirishni cheklovchi vositalar, ishonchli manbalar, kriptografiya va antivirus dasturlarini birgalikda qo'llash",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Quyidagi mos juftliklardan qaysi biri to'g'ri?",
+     "variantlar": [
+      "A) Replikator – faqat matn muharrirlarini zararlaydi",
+      "B) Boot-virus – MBR (Master Boot Record) yuklovchi sohani zararlaydi",
+      "C) Troyan va pochta virusi (cherv) – fayl viruslari guruhiga kiradi",
+      "D) Makrovirus – faqat disketlarni zararlaydi"
+     ],
+     "TO'G'RI_JAVOB": "B) Boot-virus – MBR (Master Boot Record) yuklovchi sohani zararlaydi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Matnga ko'ra, «elektron jinoyatchilar»ga yangi imkoniyatlar ochilishining asosiy sababi qaysi?",
+     "variantlar": [
+      "A) Kompyuterlar va aloqa tizimlari beqiyos darajada rivojlanib ketgani",
+      "B) Antivirus dasturlari yo'qligi",
+      "C) Kompyuterlar arzonlashgani",
+      "D) Maktablarda informatika o'qitilmagani"
+     ],
+     "TO'G'RI_JAVOB": "A) Kompyuterlar va aloqa tizimlari beqiyos darajada rivojlanib ketgani",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "7-sinf",
+   "kitob": "7-sinf 7-Sinf Informatika",
+   "mavzu": "17-dars. TAKRORLASHGA DOIR TOPSHIRIQLAR",
+   "savollar": [
+    {
+     "savol": "“Texnologiya” so‘zining ma’nosi nima?",
+     "variantlar": [
+      "A) Faqat mohirlik",
+      "B) Hunar, san’at va mohirlik (barchasi to‘g‘ri)",
+      "C) Faqat san’at",
+      "D) Faqat hunar"
+     ],
+     "TO'G'RI_JAVOB": "B) Hunar, san’at va mohirlik (barchasi to‘g‘ri)",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Internetda ma’lumotlarni uzatish qoidalari nima deb ataladi?",
+     "variantlar": [
+      "A) Modemlar",
+      "B) Protokollar",
+      "C) Web-saytlar",
+      "D) Provayderlar"
+     ],
+     "TO'G'RI_JAVOB": "B) Protokollar",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Web-sahifalarni ko‘rsatishni ta’minlovchi dasturlar qanday ataladi?",
+     "variantlar": [
+      "A) Web-protokol",
+      "B) Web-modem",
+      "C) Web-brauzer",
+      "D) Web-provayder"
+     ],
+     "TO'G'RI_JAVOB": "C) Web-brauzer",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Elektron pochta manzili web-saytdan qaysi belgi bilan farqlanadi?",
+     "variantlar": [
+      "A) $",
+      "B) #",
+      "C) @",
+      "D) &"
+     ],
+     "TO'G'RI_JAVOB": "C) @",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Internetga asos bo‘lgan tarmoq qaysi?",
+     "variantlar": [
+      "A) ARPANet",
+      "B) LOKALNet",
+      "C) GLOBALNet",
+      "D) SERVERNet"
+     ],
+     "TO'G'RI_JAVOB": "A) ARPANet",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Kompyuter tarmoqlarining qaysi turlari mavjud?",
+     "variantlar": [
+      "A) Lokal, mintaqaviy va global",
+      "B) Faqat lokal",
+      "C) Faqat global",
+      "D) Faqat mintaqaviy"
+     ],
+     "TO'G'RI_JAVOB": "A) Lokal, mintaqaviy va global",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Viruslarning qaysi guruhlari mavjud?",
+     "variantlar": [
+      "A) Faqat fayl viruslari",
+      "B) Faqat boot-viruslar",
+      "C) Fayl viruslari, boot-viruslar va tarmoq viruslari",
+      "D) Faqat tarmoq viruslari"
+     ],
+     "TO'G'RI_JAVOB": "C) Fayl viruslari, boot-viruslar va tarmoq viruslari",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Faqat qidiruv tizimlari ko‘rsatilgan javobni toping.",
+     "variantlar": [
+      "A) Netscape Navigator",
+      "B) Aport, Yahoo",
+      "C) Mosaic, AdWiper",
+      "D) Opera, Rambler"
+     ],
+     "TO'G'RI_JAVOB": "B) Aport, Yahoo",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Quyidagilardan qaysi biri web-brauzer?",
+     "variantlar": [
+      "A) Rambler",
+      "B) MS Word",
+      "C) MS Paint",
+      "D) Opera"
+     ],
+     "TO'G'RI_JAVOB": "D) Opera",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Quyidagilardan qaysi biri virus hisoblanadi?",
+     "variantlar": [
+      "A) Protokol",
+      "B) Troyan",
+      "C) Provayder",
+      "D) Brauzer"
+     ],
+     "TO'G'RI_JAVOB": "B) Troyan",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida qo‘shing: 1011 + 1010 = ?",
+     "variantlar": [
+      "A) 10101",
+      "B) 11001",
+      "C) 10111",
+      "D) 10011"
+     ],
+     "TO'G'RI_JAVOB": "A) 10101",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida ko‘paytiring: 1101 · 1101 = ?",
+     "variantlar": [
+      "A) 10101001",
+      "B) 11001001",
+      "C) 10011001",
+      "D) 10100101"
+     ],
+     "TO'G'RI_JAVOB": "A) 10101001",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "O‘nlik sanoq sistemasidagi 87 sonini ikkilik sanoq sistemasiga o‘tkazing.",
+     "variantlar": [
+      "A) 10110110",
+      "B) 1010111",
+      "C) 1001011",
+      "D) 1011111"
+     ],
+     "TO'G'RI_JAVOB": "B) 1010111",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasidagi 10001010 sonini o‘nlik sanoq sistemasiga o‘tkazing.",
+     "variantlar": [
+      "A) 238",
+      "B) 158",
+      "C) 138",
+      "D) 258"
+     ],
+     "TO'G'RI_JAVOB": "C) 138",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "3,5 Mb necha Kb bo‘ladi?",
+     "variantlar": [
+      "A) 3600",
+      "B) 3500",
+      "C) 3520",
+      "D) 3584"
+     ],
+     "TO'G'RI_JAVOB": "D) 3584",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "O‘nlik sanoq sistemasidagi 90 sonini ikkilik sanoq sistemasiga o‘tkazing.",
+     "variantlar": [
+      "A) 1110101",
+      "B) 1111010",
+      "C) 1011010",
+      "D) 1010101"
+     ],
+     "TO'G'RI_JAVOB": "C) 1011010",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida ayiring: 101111 – 1111 = ?",
+     "variantlar": [
+      "A) 11111",
+      "B) 100000",
+      "C) 100001",
+      "D) 101000"
+     ],
+     "TO'G'RI_JAVOB": "B) 100000",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasidagi 101010101 sonini sakkizlik sanoq sistemasiga o‘tkazing.",
+     "variantlar": [
+      "A) 523",
+      "B) 255",
+      "C) 525",
+      "D) 552"
+     ],
+     "TO'G'RI_JAVOB": "C) 525",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "O‘nlik sanoq sistemasidagi 1909 sonini o‘n oltilik sanoq sistemasiga o‘tkazing.",
+     "variantlar": [
+      "A) 7D5",
+      "B) 775",
+      "C) 757",
+      "D) 577"
+     ],
+     "TO'G'RI_JAVOB": "B) 775",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasidagi 1100110 sonini o‘nlik sanoq sistemasidagi 2 soniga bo‘lganda hosil bo‘lgan sonni sakkizlik sanoq sistemasida toping.",
+     "variantlar": [
+      "A) 62",
+      "B) 66",
+      "C) 51",
+      "D) 63"
+     ],
+     "TO'G'RI_JAVOB": "D) 63",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "512 Mb axborot 256 sekundda uzatildi. Axborot uzatish tezligi necha bayt/sek?",
+     "variantlar": [
+      "A) 2097152",
+      "B) 16777216",
+      "C) 262144",
+      "D) 363737"
+     ],
+     "TO'G'RI_JAVOB": "A) 2097152",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Kitobda 500 ta sahifa bor, har bir sahifada 35 ta satr, har bir satrda 60 ta belgi bo‘lsa, kitobda necha bayt axborot bor?",
+     "variantlar": [
+      "A) 5050000 bayt",
+      "B) 1050000 bayt",
+      "C) 1500000 bayt",
+      "D) 10500 bayt"
+     ],
+     "TO'G'RI_JAVOB": "B) 1050000 bayt",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ichma-ich joylashish tartibida ko‘rsating (1 – web-sahifa; 2 – web-server; 3 – web-sayt):",
+     "variantlar": [
+      "A) 1, 2, 3",
+      "B) 2, 3, 1",
+      "C) 3, 2, 1",
+      "D) 1, 3, 2"
+     ],
+     "TO'G'RI_JAVOB": "B) 2, 3, 1",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "“ASCII kodlash usuli tekis kodlash turiga kiradi” jumlasida (qo‘shtirnoqsiz, probellar bilan, har bir belgi 1 bayt) qancha axborot bor?",
+     "variantlar": [
+      "A) 384 bit",
+      "B) 47 bayt",
+      "C) 377 bit",
+      "D) 48 bayt"
+     ],
+     "TO'G'RI_JAVOB": "B) 47 bayt",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida ayiring: 10101011101 – 11101 = ?",
+     "variantlar": [
+      "A) 1101001010",
+      "B) 101100100010",
+      "C) 10101000000",
+      "D) 10101101000"
+     ],
+     "TO'G'RI_JAVOB": "C) 10101000000",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida ko‘paytiring: 110110110 · 1001 = ?",
+     "variantlar": [
+      "A) 111101100110",
+      "B) 1100010011",
+      "C) 1000010011",
+      "D) 1000010001100"
+     ],
+     "TO'G'RI_JAVOB": "A) 111101100110",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida qo‘shing: 1010101101 + 11101 = ?",
+     "variantlar": [
+      "A) 1101001010",
+      "B) 101011010",
+      "C) 1011001010",
+      "D) 1001001010"
+     ],
+     "TO'G'RI_JAVOB": "C) 1011001010",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasidagi 1111110010 sonining o‘nlik va sakkizlik sanoq sistemasidagi yozuvi qaysi javobda to‘g‘ri berilgan?",
+     "variantlar": [
+      "A) 1010 va 1652",
+      "B) 1010 va 1762",
+      "C) 1000 va 1762",
+      "D) 1012 va 1672"
+     ],
+     "TO'G'RI_JAVOB": "B) 1010 va 1762",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "O‘nlik sanoq sistemasidagi 1234 sonini ikkilik sanoq sistemasiga (10011010010) o‘tkazib, so‘ng o‘n oltilik sanoq sistemasida yozing.",
+     "variantlar": [
+      "A) 4E2",
+      "B) 5D2",
+      "C) 4D2",
+      "D) 4C2"
+     ],
+     "TO'G'RI_JAVOB": "C) 4D2",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Ikkilik sanoq sistemasida qo‘shing: 10111101 + 111 = ?",
+     "variantlar": [
+      "A) 11001100",
+      "B) 11000100",
+      "C) 10111111",
+      "D) 11000010"
+     ],
+     "TO'G'RI_JAVOB": "B) 11000100",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  }
+ ]
+}

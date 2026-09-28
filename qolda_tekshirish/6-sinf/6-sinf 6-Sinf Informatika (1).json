@@ -1,0 +1,4386 @@
+{
+ "sinf": "6-sinf",
+ "kitob": "6-sinf 6-Sinf Informatika (1)",
+ "mavzular": [
+  {
+   "sinf": "6-sinf",
+   "kitob": "6-sinf 6-Sinf Informatika (1)",
+   "mavzu": "Matn muharrirlari",
+   "savollar": [
+    {
+     "savol": "\"Matn muharrirlari\" darsida asosiy qanday mavzularni o'rganamiz?",
+     "variantlar": [
+      "A) Internet xizmatlari",
+      "B) Dastur yozish tili",
+      "C) Kompyuternning aparatnik tuzilishi",
+      "D) Matnni yozish tarixi va kompyuter texnikasining yozuvga qo'shgan hissasi"
+     ],
+     "TO'G'RI_JAVOB": "D) Matnni yozish tarixi va kompyuter texnikasining yozuvga qo'shgan hissasi",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Matnlarni saqlashning qadimiy usullaridan qaysi edi?",
+     "variantlar": [
+      "A) Qog'ozga yozish",
+      "B) Kompyuterda yozish",
+      "C) Tosh devorga rasm va yozuv",
+      "D) Radiodan uzatish"
+     ],
+     "TO'G'RI_JAVOB": "C) Tosh devorga rasm va yozuv",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Yurgich matn muharrirlari interfeysi qismida nima vazifasini bajaradi?",
+     "variantlar": [
+      "A) Matnni chop etadi",
+      "B) Shrift turini o'zgartiradi",
+      "C) Matnni saqlaydi",
+      "D) Kiritilayotgan belgi ish sohasining qayerida aks etishini ko'rsatadi"
+     ],
+     "TO'G'RI_JAVOB": "D) Kiritilayotgan belgi ish sohasining qayerida aks etishini ko'rsatadi",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ish sohasi matn muharririda qanday vazifani bajaradi?",
+     "variantlar": [
+      "A) Kompyuternni boshqarish",
+      "B) Rasmlari joylashtirish",
+      "C) Matn yozish uchun sahifa vazifasini",
+      "D) Menyu buyruqlarini saqlash"
+     ],
+     "TO'G'RI_JAVOB": "C) Matn yozish uchun sahifa vazifasini",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Menyu satri matn muharrirlarda qanday amallarni o'z ichiga oladi?",
+     "variantlar": [
+      "A) Faqat yozish buyrug'i",
+      "B) Rasm tanlash",
+      "C) Maxsus buyruqlar va amallar majmuyi",
+      "D) Musiqa fayllari"
+     ],
+     "TO'G'RI_JAVOB": "C) Maxsus buyruqlar va amallar majmuyi",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Windows operatsion sistemasida qaysi matn muharrirlari mavjud?",
+     "variantlar": [
+      "A) Блокнот va WordPad",
+      "B) Photoshop va Corel",
+      "C) Internet Explorer va Chrome",
+      "D) Paint va Калькулятор"
+     ],
+     "TO'G'RI_JAVOB": "A) Блокнот va WordPad",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Matn muharrirlari interfeysi asosiy elementlari qanday nomlanadi?",
+     "variantlar": [
+      "A) Ish sohasi, yurgich va menyu satri",
+      "B) Satr, ustun va hujayra",
+      "C) Papka, fayl va katalog",
+      "D) Diskketa, monitor va klaviatura"
+     ],
+     "TO'G'RI_JAVOB": "A) Ish sohasi, yurgich va menyu satri",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Shriftga oid xususiyatlar qaysi menyu orqali tanlanadi?",
+     "variantlar": [
+      "A) Ko'rish (Вид) menyusida",
+      "B) Tahrir (Редактирование) menyusida",
+      "C) Format (Формат) menyusining Shrift (Шрифт) bo'limida",
+      "D) Файл (Fayl) menyusida"
+     ],
+     "TO'G'RI_JAVOB": "C) Format (Формат) menyusining Shrift (Шрифт) bo'limida",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Yozuv tarixida qog'oz va pero kiritilishidan oldin qanday vositalar ishlatilgan?",
+     "variantlar": [
+      "A) Faqat qog'oz",
+      "B) Faqat mashina",
+      "C) Tosh devor, terilar va papirus",
+      "D) Faqat ruchka"
+     ],
+     "TO'G'RI_JAVOB": "C) Tosh devor, terilar va papirus",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Barcha matn muharrirlari nechta asosiy vazifani bajaradilari ko'rsatilgan?",
+     "variantlar": [
+      "A) Sakkizta",
+      "B) Beshta",
+      "C) O'ntata",
+      "D) Uchtata"
+     ],
+     "TO'G'RI_JAVOB": "B) Beshta",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Yozuv tarixida tosh devordan qog'ozga o'tish nima uchun muhim edi?",
+     "variantlar": [
+      "A) Shahar qurishni boshlashi uchun",
+      "B) Rang ishlatish uchun",
+      "C) Kitob chop etish uchun",
+      "D) Matnni osonroq o'zgartirish, saqlash va uzatish mumkin bo'ldi"
+     ],
+     "TO'G'RI_JAVOB": "D) Matnni osonroq o'zgartirish, saqlash va uzatish mumkin bo'ldi",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Kompyuterlar qo'lga kirgani shu bilan yozuv san'atida qanday tubdan o'zgarish bo'ldi?",
+     "variantlar": [
+      "A) Faqat kompyuterda yozish mumkin bo'ldi",
+      "B) Yozuv to'laligicha tugadi",
+      "C) Matnlarni yozish, saqlash, qayta ishlash va chop etish dasturlar ishlab chiqildi",
+      "D) Yozuv san'ati butunlay o'zgardi"
+     ],
+     "TO'G'RI_JAVOB": "C) Matnlarni yozish, saqlash, qayta ishlash va chop etish dasturlar ishlab chiqildi",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Matn muharrirlari va matn protsessorlari orasidagi asosiy farq qanday?",
+     "variantlar": [
+      "A) Matn protsessorlari rasmlari, jadvallari, turli ranglar va bezaklardan foydalana oladi",
+      "B) Ular hech farq qilmaydi",
+      "C) Faqat nomi farq qiladi",
+      "D) Matn muharrirlari ko'proq imkoniyatlarga ega"
+     ],
+     "TO'G'RI_JAVOB": "A) Matn protsessorlari rasmlari, jadvallari, turli ranglar va bezaklardan foydalana oladi",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ish sohasi va Windows ish stoli orasidagi asosiy farq nima?",
+     "variantlar": [
+      "A) Ular bir xil vazifani bajaradi",
+      "B) Ish sohasi matn yozish uchun joy, Windows ish stoli butun kompyuternni boshqarish uchun",
+      "C) Windows ish stoli faqat rasmlari joylashtiradi",
+      "D) Ish stoli yanroq"
+     ],
+     "TO'G'RI_JAVOB": "B) Ish sohasi matn yozish uchun joy, Windows ish stoli butun kompyuternni boshqarish uchun",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Menyu satri orqali qanday muhim operatsiyalar amalga oshiriladi?",
+     "variantlar": [
+      "A) Matnlarni xotiradan o'qish, xotirada saqlash, chop etish",
+      "B) Videofilmlarni ko'rish",
+      "C) Rasmlari fayl qilish",
+      "D) Kompyuternni o'chish"
+     ],
+     "TO'G'RI_JAVOB": "A) Matnlarni xotiradan o'qish, xotirada saqlash, chop etish",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Shrift o'lchamini o'zgartirish qaysi path orqali amalga oshiriladi?",
+     "variantlar": [
+      "A) Tahrir (Redaktirovanie) menyusida",
+      "B) Файл (Fayl) menyusida",
+      "C) Format → Shrift bo'limida",
+      "D) Qidirish (Поиск) menyusida"
+     ],
+     "TO'G'RI_JAVOB": "C) Format → Shrift bo'limida",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Yozuv vositalari evolyutsiyasining to'g'ri tartibini aniqlang:",
+     "variantlar": [
+      "A) Ruchka → Pero → Papirus → Tosh devor",
+      "B) Pero → Papirus → Tosh devor → Mashnika",
+      "C) Tosh devor → Papirus → Pero → Ruchka → Mashnika",
+      "D) Papirus → Tosh devor → Pero → Ruchka"
+     ],
+     "TO'G'RI_JAVOB": "C) Tosh devor → Papirus → Pero → Ruchka → Mashnika",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Matn muharrirlaring imkoniyatlari nima bilan to'g'ridan-to'g'ri belgilanadi?",
+     "variantlar": [
+      "A) Kompyuternning tezligiga",
+      "B) Monitor o'lchamiga",
+      "C) Xotira miqdoriga",
+      "D) Menyudagi buyruq va amallarning ko'pligiga"
+     ],
+     "TO'G'RI_JAVOB": "D) Menyudagi buyruq va amallarning ko'pligiga",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Darslikka nisbatan Блокнот va MS Word o'rtasidagi asosiy farq qanday tuzilganiga ko'ra?",
+     "variantlar": [
+      "A) Ularning vazifalari bir xil",
+      "B) Darslik Bloknot-da yozilishi kerak edi",
+      "C) Блокнот ko'proq imkoniyatga ega",
+      "D) Darslik MS Word-da rasmlari, jadvallari va bezaklari bilan yozilishi"
+     ],
+     "TO'G'RI_JAVOB": "D) Darslik MS Word-da rasmlari, jadvallari va bezaklari bilan yozilishi",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Matnni tahrirlash amali qaysi operatsiyalarga kiradi?",
+     "variantlar": [
+      "A) Faqat chop etish",
+      "B) Faqat matni yozish",
+      "C) Faqat rang o'zgartirish",
+      "D) Belgilar, so'zlar, satrlar va abzaslar o'rnini almashtirish yoki o'chirish"
+     ],
+     "TO'G'RI_JAVOB": "D) Belgilar, so'zlar, satrlar va abzaslar o'rnini almashtirish yoki o'chirish",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Tosh devorga yozilgan matnni nima uchun o'zgartirish juda qiyin va mexnatli edi?",
+     "variantlar": [
+      "A) Pero etishmadi",
+      "B) O'zgartirish faqat yangi yozish bilan mumkin edi, bu ko'p vaqt va mexnat sarf qilardi",
+      "C) Tosh qimatli edi",
+      "D) Yozuvchilar ko'proq to'lanmadi"
+     ],
+     "TO'G'RI_JAVOB": "B) O'zgartirish faqat yangi yozish bilan mumkin edi, bu ko'p vaqt va mexnat sarf qilardi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Nima uchun har xil operatsion sistemalar uchun alohida matn muharrirlari ishlab chiqilgan?",
+     "variantlar": [
+      "A) Har xil kompyuter rusumlarining texnik xususiyatlari turli bo'lgani va mahsulot talabiga ko'ra",
+      "B) Kompyuterlarni boshqa qilish uchun",
+      "C) Dasturchilar ko'proq ish ko'rishi uchun",
+      "D) Kompaniyalar ko'proq foyda olish uchun"
+     ],
+     "TO'G'RI_JAVOB": "A) Har xil kompyuter rusumlarining texnik xususiyatlari turli bo'lgani va mahsulot talabiga ko'ra",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Yozuv tarixida takomillashuvning chuqur sababini tushuntiring:",
+     "variantlar": [
+      "A) Savdo faydasi uchun",
+      "B) Kitoblar rangli bo'lishi uchun",
+      "C) Insonlarning matnlarni saqlash, o'zgartirish va tez uzatish zaruratiga ko'ra",
+      "D) Hunarmandchilik rivojlanishi uchun"
+     ],
+     "TO'G'RI_JAVOB": "C) Insonlarning matnlarni saqlash, o'zgartirish va tez uzatish zaruratiga ko'ra",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Matn muharrirlari menyu tuzilishining asosiy tamomi nima?",
+     "variantlar": [
+      "A) Menyu tezlikni oshiradi",
+      "B) Menyudagi buyruqlar imkoniyatlarni belgilaydi; buyruq ko'p bo'lsa, imkoniyatlar yuqori bo'ladi",
+      "C) Menyu faqat dizayn uchun",
+      "D) Menyu faqat yozishni osonlashtiradi"
+     ],
+     "TO'G'RI_JAVOB": "B) Menyudagi buyruqlar imkoniyatlarni belgilaydi; buyruq ko'p bo'lsa, imkoniyatlar yuqori bo'ladi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Interfeys komponentlari (ish sohasi, yurgich, menyu) qanday koordinatsiyada ishlaydi?",
+     "variantlar": [
+      "A) Ular alohida ishlaydi",
+      "B) Faqat yurgich muhim",
+      "C) Faqat menyu muhim",
+      "D) Ish sohasi fazo, yurgich o'rinni ko'rsatadi, menyu buyruqlarni uzatadi – birgalikda yozish jarayonini tashkil qiladi"
+     ],
+     "TO'G'RI_JAVOB": "D) Ish sohasi fazo, yurgich o'rinni ko'rsatadi, menyu buyruqlarni uzatadi – birgalikda yozish jarayonini tashkil qiladi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Nima uchun murakkab darslik MS Word-da yoziladi, Bloknot-da emas?",
+     "variantlar": [
+      "A) MS Word rasmlari, jadvallari, turli ranglar va bezaklardan foydalana oladi, bu darslikka kerak",
+      "B) MS Word qimatli",
+      "C) Блокнот yanroq",
+      "D) Faqat MS Word-da saqlash mumkin"
+     ],
+     "TO'G'RI_JAVOB": "A) MS Word rasmlari, jadvallari, turli ranglar va bezaklardan foydalana oladi, bu darslikka kerak",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Shrift xususiyatlarini o'zgartirishning asosiy maqsadi nima?",
+     "variantlar": [
+      "A) Satr sonini oshirish",
+      "B) Matnni o'qishga yoqqin qilish, tur bilan farqlash, xabar uslubini o'z oladi",
+      "C) Matnni o'chirish",
+      "D) Faqat rangi o'zgartirish"
+     ],
+     "TO'G'RI_JAVOB": "B) Matnni o'qishga yoqqin qilish, tur bilan farqlash, xabar uslubini o'z oladi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Qadimgi yozuv usullaridan kompyuterga o'tish jarayonidagi iqtisodiy va vraimaiy foyda qanday?",
+     "variantlar": [
+      "A) Hech farq yo'q",
+      "B) O'zgartirish, saqlash, uzatish, chop etish masalalarisini hal qilindi, vaqt va mexnat sarf kamaytdi",
+      "C) Faqat kelajagi yakshhilandi",
+      "D) Faqat xarajat ortdi"
+     ],
+     "TO'G'RI_JAVOB": "B) O'zgartirish, saqlash, uzatish, chop etish masalalarisini hal qilindi, vaqt va mexnat sarf kamaytdi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Interfeys dastur va foydalanuvchi orasida qanday va'zifani bajaradi?",
+     "variantlar": [
+      "A) Hisob-kitoblarni bajaradi",
+      "B) Faqat bezak",
+      "C) Faqat yozish uchun",
+      "D) Dasturning imkoniyatlarini ko'rsatadi va foydalanuvchining dastur bilan munosabatini tashkil qiladi"
+     ],
+     "TO'G'RI_JAVOB": "D) Dasturning imkoniyatlarini ko'rsatadi va foydalanuvchining dastur bilan munosabatini tashkil qiladi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Matn muharrirlari bilan ishning ona tili bilimiga qanday bog'lanishini izohlang:",
+     "variantlar": [
+      "A) Faqat o'qish kerak",
+      "B) Faqat yozish kerak",
+      "C) Harflarni so'zlarga, so'zlarni jumlalarga, jumlalarni gaplarga qanday to'plash, abzaslar tuzilishi kerak degan bilim zarur",
+      "D) Faqat hisob-kitob"
+     ],
+     "TO'G'RI_JAVOB": "C) Harflarni so'zlarga, so'zlarni jumlalarga, jumlalarni gaplarga qanday to'plash, abzaslar tuzilishi kerak degan bilim zarur",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "6-sinf",
+   "kitob": "6-sinf 6-Sinf Informatika (1)",
+   "mavzu": "Matn protsessorlari haqida",
+   "savollar": [
+    {
+     "savol": "Matn protsessorlari asosan qanday vaqtlarda ko'llaniladi?",
+     "variantlar": [
+      "A) Faqat qisqa elektron xatlari yozishda",
+      "B) Matnning ham mazmuni, ham tashqi ko'rinishiga ahamiyat berilganda, turli rasm va jadvallarni joylashtirish zarur bo'lganda",
+      "C) Faqat o'zbek tilida matnlarni yozishda",
+      "D) Faqat matematik hisoblashlarni bajarish uchun"
+     ],
+     "TO'G'RI_JAVOB": "B) Matnning ham mazmuni, ham tashqi ko'rinishiga ahamiyat berilganda, turli rasm va jadvallarni joylashtirish zarur bo'lganda",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Microsoft Word 2010 dasturi nima?",
+     "variantlar": [
+      "A) Grafik rasmlar tayyorlashning dasturi",
+      "B) Video montajsi vositasi",
+      "C) Kompyuter o'yinlari platformasi",
+      "D) Matn protsessori"
+     ],
+     "TO'G'RI_JAVOB": "D) Matn protsessori",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "MS Word dasturini kompyuterdan yopish uchun qanday tugmalarni birga bosish mumkin?",
+     "variantlar": [
+      "A) Ctrl + Q",
+      "B) Shift + Delete",
+      "C) Alt + F4",
+      "D) Ctrl + Home"
+     ],
+     "TO'G'RI_JAVOB": "C) Alt + F4",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "So'z qanday belgilar bilan bir-biridan ajralib turadi?",
+     "variantlar": [
+      "A) Faqat raqamlar bilan",
+      "B) Probel, nuqta, vergul, nuqtali vergul, ikki nuqta, qavs, tire, uzun tire yoki qo'shtirnoq kabi belgilar bilan",
+      "C) Faqat katta harflar bilan",
+      "D) Faqat matnning oxiri bilan"
+     ],
+     "TO'G'RI_JAVOB": "B) Probel, nuqta, vergul, nuqtali vergul, ikki nuqta, qavs, tire, uzun tire yoki qo'shtirnoq kabi belgilar bilan",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Hoshiya nima?",
+     "variantlar": [
+      "A) Sahifa chetidagi toza saqlanadigan qism",
+      "B) Matnning eng muhim qismi",
+      "C) Rasm o'ramining cheti",
+      "D) Shrift xususiyatlarining biri"
+     ],
+     "TO'G'RI_JAVOB": "A) Sahifa chetidagi toza saqlanadigan qism",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Satr qanday ta'riflanadi?",
+     "variantlar": [
+      "A) Jadval qatorining bir qismi",
+      "B) Bitta chiziqda yozilgan so'zlar, harflar yoki belgilar ketma-ketligi",
+      "C) Rasm va matn kombinatsiyasi",
+      "D) Bir nechta abzaslar to'plami"
+     ],
+     "TO'G'RI_JAVOB": "B) Bitta chiziqda yozilgan so'zlar, harflar yoki belgilar ketma-ketligi",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Yangi abzasga o'tish uchun qanday klavishi bosiladi?",
+     "variantlar": [
+      "A) Shift",
+      "B) Enter",
+      "C) Space (probel)",
+      "D) Tab"
+     ],
+     "TO'G'RI_JAVOB": "B) Enter",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Abzas qanday ta'riflanadi?",
+     "variantlar": [
+      "A) Bitta so'z",
+      "B) Sahifaning oxirgi qitori",
+      "C) Bosh satri bo'lgan satrlar ketma-ketligi",
+      "D) Bitta jumla"
+     ],
+     "TO'G'RI_JAVOB": "C) Bosh satri bo'lgan satrlar ketma-ketligi",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Matn nima?",
+     "variantlar": [
+      "A) Faqat raqamlar ketma-ketligi",
+      "B) Bitta harfi",
+      "C) Abzaslar to'plami",
+      "D) Bitta jumla"
+     ],
+     "TO'G'RI_JAVOB": "C) Abzaslar to'plami",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Format qanday ta'riflanadi?",
+     "variantlar": [
+      "A) Jadvalning turli xillari",
+      "B) Matnni qisqartirish usuli",
+      "C) O'lcham, shrift shakli, chizma ko'rinishi, interval va boshqa ko'rinish berish",
+      "D) Faqat rasm ko'rinishlari"
+     ],
+     "TO'G'RI_JAVOB": "C) O'lcham, shrift shakli, chizma ko'rinishi, interval va boshqa ko'rinish berish",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Word dasturini ishga tushirish uchun nechta turli usul mavjud?",
+     "variantlar": [
+      "A) Faqat ikkita usul",
+      "B) Faqat bitta usul - piktogrammadan",
+      "C) Uch usul: piktogramma, Windows ish stoli yorlig'i yoki Пуск → Programmaalar → Microsoft Office → Word",
+      "D) Faqat klaviatura yordamida"
+     ],
+     "TO'G'RI_JAVOB": "C) Uch usul: piktogramma, Windows ish stoli yorlig'i yoki Пуск → Programmaalar → Microsoft Office → Word",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "MS Word interfeysi qanday asosiy qismlardan tashkil topgan?",
+     "variantlar": [
+      "A) Menyu, tezkor panel va matn",
+      "B) Faqat ish sohasi va tasma",
+      "C) Sarlavha satri, menyu satri, tasma, ish sohasi va holat satri",
+      "D) Faqat menyu satri va ish sohasi"
+     ],
+     "TO'G'RI_JAVOB": "C) Sarlavha satri, menyu satri, tasma, ish sohasi va holat satri",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Matn protsessorlari va matn muharrirlari orasidagi asosiy farq nima?",
+     "variantlar": [
+      "A) Matn protsessorlari yanada arzon",
+      "B) Ular o'rtasida hech qanday farq yo'q",
+      "C) Matn muharrirlari yanada ko'p xususiyatga ega",
+      "D) Matn protsessorlari matnning tashqi ko'rinishi bilan ishlash, rasm va jadval joylashtirish imkoniyatini beradi"
+     ],
+     "TO'G'RI_JAVOB": "D) Matn protsessorlari matnning tashqi ko'rinishi bilan ishlash, rasm va jadval joylashtirish imkoniyatini beradi",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Bosh satr qanday ta'riflanadi?",
+     "variantlar": [
+      "A) Satrlarning eng uzuni",
+      "B) Hoshiyadan chekinishi bo'lgan satr",
+      "C) Abzasning birinchi satri",
+      "D) Matnning oxirgi qatori"
+     ],
+     "TO'G'RI_JAVOB": "B) Hoshiyadan chekinishi bo'lgan satr",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Word interfeysi tasmalarining bosh vazifasi nima?",
+     "variantlar": [
+      "A) Faqat shriftlarni o'zgartirish",
+      "B) Faqat hujjatni ochish va yopish",
+      "C) Faqat rasmlash usullari",
+      "D) Qo'llanadigan obyektiga va vazifasiga mos tugmalarni mantiqiy guruhlar shaklida joylashtirish"
+     ],
+     "TO'G'RI_JAVOB": "D) Qo'llanadigan obyektiga va vazifasiga mos tugmalarni mantiqiy guruhlar shaklida joylashtirish",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Microsoft Word dasturining vorislik xususiyati nima?",
+     "variantlar": [
+      "A) Eski hujjatlarni avtomatik o'chirib yuborish",
+      "B) Yangi hujjatlar oldgi hujjatlarga o'rnini o'zgartirish",
+      "C) Barcha matnlar bir xil formatga aylanish",
+      "D) Keyingi shrift avvalgi shriftni, keyingi abzas avvalgi abzasni formatlarini o'zida to'liq saqlab qolish"
+     ],
+     "TO'G'RI_JAVOB": "D) Keyingi shrift avvalgi shriftni, keyingi abzas avvalgi abzasni formatlarini o'zida to'liq saqlab qolish",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Word dasturida saqlangan hujjatlar odatda qaysi papkada joylashadi?",
+     "variantlar": [
+      "A) Hujjatlarim (Мои документы) papkasida",
+      "B) Windows papkasida",
+      "C) Program Files papkasida",
+      "D) C: drive-ning ildizida"
+     ],
+     "TO'G'RI_JAVOB": "A) Hujjatlarim (Мои документы) papkasida",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Sarlavha satri qanday ma'lumotlarni o'z ichiga oladi?",
+     "variantlar": [
+      "A) Hujjatning nomi, tezkor panel va muhim tugmalar",
+      "B) Faqat menyu moslari",
+      "C) Faqat hujjatning nomini",
+      "D) Faqat holat ma'lumoti"
+     ],
+     "TO'G'RI_JAVOB": "A) Hujjatning nomi, tezkor panel va muhim tugmalar",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Satr oxirida o'rnini o'ziga yetmagan so'z yoki belgiga qanday bo'ladi?",
+     "variantlar": [
+      "A) O'lcham oshib ketadi",
+      "B) Keyingi satrga avtomatik o'tkaziladi",
+      "C) Rang o'zgaradi",
+      "D) O'chirib yuboriladi"
+     ],
+     "TO'G'RI_JAVOB": "B) Keyingi satrga avtomatik o'tkaziladi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Fragment (matnning bo'lagi) qanday ta'riflanadi?",
+     "variantlar": [
+      "A) Rasm faylining bir qismi",
+      "B) Jadval qatorining bo'lagi",
+      "C) Bitta so'z",
+      "D) San'at asari yoki matnning bo'lagi"
+     ],
+     "TO'G'RI_JAVOB": "D) San'at asari yoki matnning bo'lagi",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Turli matn protsessorlarida formatlangan matnli hujjatlarni bir dasturdan boshqasiga olib o'tishning asosiy muammosi nima?",
+     "variantlar": [
+      "A) Hujjat fayli yetarli katta bo'lib qolib ketadi",
+      "B) Turli matn protsessorlarida turli kodlar qo'llaniladi shuning uchun har doim ham imkoniyati bo'lmaydi",
+      "C) Rasm faillarining xavfsizligi buziladi",
+      "D) Faqat internetning tezligi sezilarli darajada sekin bo'lib qolib ketadi"
+     ],
+     "TO'G'RI_JAVOB": "B) Turli matn protsessorlarida turli kodlar qo'llaniladi shuning uchun har doim ham imkoniyati bo'lmaydi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "MS Word dasturining Bosh (Главная) menyusi tasmasi qanday mantiqiy guruhlardan iborat?",
+     "variantlar": [
+      "A) Faqat Вставка va Разметка страницы",
+      "B) Буфер обмена, Шрифт, Абзац, Стили va Редактирование",
+      "C) Faqat Шрифт va Абзац",
+      "D) Faqat Файл, Редактирование va Стили"
+     ],
+     "TO'G'RI_JAVOB": "B) Буфер обмена, Шрифт, Абзац, Стили va Редактирование",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Holat satri foydalanuvchiga qanday muhim ma'lumotlarni beradi?",
+     "variantlar": [
+      "A) Faqat qancha rasm joylashtirilib ketganini",
+      "B) Joriy sahifa, jami sahifalar soni, matndagi so'zlar miqdori, yozish tili va boshqalar",
+      "C) Faqat o'zbek tilida atamalarni",
+      "D) Faqat hujjatning nomini"
+     ],
+     "TO'G'RI_JAVOB": "B) Joriy sahifa, jami sahifalar soni, matndagi so'zlar miqdori, yozish tili va boshqalar",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "MS Word interfeysi tasmani \"yig'ib\" ko'rinmay qo'yish (yashirish) uchun qanday tugmadan foydalanish mumkin?",
+     "variantlar": [
+      "A) 7 tugma",
+      "B) 5 tugma",
+      "C) 1 tugma",
+      "D) 3 tugma"
+     ],
+     "TO'G'RI_JAVOB": "A) 7 tugma",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Matn protsessorlari nima uchun boshqa dasturlardan afzal bo'lib turadi?",
+     "variantlar": [
+      "A) Faqat kitoblar yozish uchun",
+      "B) Matnning ham mazmuni, ham tashqi ko'rinishi muhim bo'lganda, turli rasm va jadvallarni joylashtirish, belgilarning o'lchami va rangini o'zgartirish imkoniyati berilganda",
+      "C) Faqat qisqa xabarlar yozish uchun",
+      "D) Faqat rasm ko'rsatish imkoniyati"
+     ],
+     "TO'G'RI_JAVOB": "B) Matnning ham mazmuni, ham tashqi ko'rinishi muhim bo'lganda, turli rasm va jadvallarni joylashtirish, belgilarning o'lchami va rangini o'zgartirish imkoniyati berilganda",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Matn protsessorlari asosan qanday hujjatlarni tayyorlashda ko'llaniladi?",
+     "variantlar": [
+      "A) Faqat kompyuter kodlari uchun",
+      "B) Faqat o'yinlarni o'ynash uchun",
+      "C) Faqat shaxsiy yozishmalar uchun",
+      "D) Rasmiy hujjatlar - CV, ariza, shartnomalar, jadvallar va hokazo"
+     ],
+     "TO'G'RI_JAVOB": "D) Rasmiy hujjatlar - CV, ariza, shartnomalar, jadvallar va hokazo",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Bitta fikr yoki mavzu haqidagi bir nechta gap qanday ko'rinishda ifodalanadi?",
+     "variantlar": [
+      "A) Bitta sahifaga qayta-qayta yoziladi",
+      "B) Faqat bitta gap sifatida",
+      "C) Bitta qatorda, probel bilan ajratilgan",
+      "D) Alohida abzas ko'rinishida"
+     ],
+     "TO'G'RI_JAVOB": "D) Alohida abzas ko'rinishida",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Abzaslar boshqalaridan qanday qiymatlari bilan farq qilib ko'rsatilishi mumkin?",
+     "variantlar": [
+      "A) Faqat rangi yoki shrifti bilan",
+      "B) Chekinishi, yozuv stili (oddiy, asosiy, Sarlavha1), intervali (satrlar orasining kengligi) bilan",
+      "C) Faqat sahifa raqamiga qarab",
+      "D) Faqat abzas raqami bilan"
+     ],
+     "TO'G'RI_JAVOB": "B) Chekinishi, yozuv stili (oddiy, asosiy, Sarlavha1), intervali (satrlar orasining kengligi) bilan",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Microsoft Word dasturining o'zbek tilidagi variantiga doir hozirgi holatni qanday izohlash mumkin?",
+     "variantlar": [
+      "A) O'zbek tilidagi varianti hozircha mavjud emas, shuning uchun ba'zi buyruqlar bilan rus tilidagi ifodalarini bilish zarur",
+      "B) O'zbek tilidagi varianti hali ham mahduddur",
+      "C) O'zbek tilidagi varianti juda yangi va kamchiliklari bor",
+      "D) O'zbek tilidagi varianti eng qiymatliroq"
+     ],
+     "TO'G'RI_JAVOB": "A) O'zbek tilidagi varianti hozircha mavjud emas, shuning uchun ba'zi buyruqlar bilan rus tilidagi ifodalarini bilish zarur",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Paint dasturi orqali tanish bo'lgan amallarning Microsoft Word dasturida ham qo'llanilishining sababi nima?",
+     "variantlar": [
+      "A) Paint dasturi Word dasturining asosiy komponenti",
+      "B) Word dasturi Paintdan yanada takomillashgan",
+      "C) Matn protsessoridagi ba'zi amallar Paint dasturi bilan o'xshash bo'lib, shuning uchun hech bir qiyinchiliksiz qo'llaniladi",
+      "D) Ikki dastur bir xil kompaniya tomonidan yaratilgan"
+     ],
+     "TO'G'RI_JAVOB": "C) Matn protsessoridagi ba'zi amallar Paint dasturi bilan o'xshash bo'lib, shuning uchun hech bir qiyinchiliksiz qo'llaniladi",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "6-sinf",
+   "kitob": "6-sinf 6-Sinf Informatika (1)",
+   "mavzu": "Hujjat hosil qilish",
+   "savollar": [
+    {
+     "savol": "Microsoft Word dasturida yangi hujjat hosil qilishning birinchi usuli nima?",
+     "variantlar": [
+      "A) Dastur ishga tushirilganda yangi hujjat taklif qiladi",
+      "B) Fayl menyusidan o'chiriladi",
+      "C) Shift klavishi bosish orqali",
+      "D) Sichqoncha tugmasini bosish orqali"
+     ],
+     "TO'G'RI_JAVOB": "A) Dastur ishga tushirilganda yangi hujjat taklif qiladi",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Hujjat hosil qilish uchun Fayl menyusidan qaysi buyrug'i tanlanadi?",
+     "variantlar": [
+      "A) Saqlash (Сохранить)",
+      "B) Yopish (Закрыть)",
+      "C) Hosil qilish (Создать)",
+      "D) O'chirish (Удалить)"
+     ],
+     "TO'G'RI_JAVOB": "C) Hosil qilish (Создать)",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Matn qaylardan tashkil topadi?",
+     "variantlar": [
+      "A) Faqat tinish belgilaridan",
+      "B) Faqat harflardan",
+      "C) Faqat so'zlardan",
+      "D) Gaplardan, gaplar so'zlardan, so'zlar harflardan"
+     ],
+     "TO'G'RI_JAVOB": "D) Gaplardan, gaplar so'zlardan, so'zlar harflardan",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Klaviatura qanday holatlardan birida bo'ladi?",
+     "variantlar": [
+      "A) Faqat til holatida",
+      "B) Faqat Caps Lock holatida",
+      "C) Quyi registr yoki yuqori registr holatlaridan birida",
+      "D) Faqat quyi registrda"
+     ],
+     "TO'G'RI_JAVOB": "C) Quyi registr yoki yuqori registr holatlaridan birida",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Caps Lock indikatori qayerda joylashgan?",
+     "variantlar": [
+      "A) Klaviaturaning chap yuqori qismida",
+      "B) Klaviaturaning markazi qismida",
+      "C) Klaviaturaning o'ng yuqori qismida",
+      "D) Klaviaturaning chap pastki qismida"
+     ],
+     "TO'G'RI_JAVOB": "C) Klaviaturaning o'ng yuqori qismida",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Quyi registrda yozilgan belgi nima?",
+     "variantlar": [
+      "A) Faqat tinish belgilari",
+      "B) Faqat raqamlar",
+      "C) Kichik harflar yoki klavishning quyi qismidagi belgilar",
+      "D) Faqat bosh harflar"
+     ],
+     "TO'G'RI_JAVOB": "C) Kichik harflar yoki klavishning quyi qismidagi belgilar",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Yuqori registrda yozilgan belgi nima?",
+     "variantlar": [
+      "A) Bosh harflar yoki klavishlarning yuqori qismidagi belgilar",
+      "B) Faqat maxsus belgilar",
+      "C) Faqat kichik harflar",
+      "D) Faqat klavishning quyi qismidagi belgilar"
+     ],
+     "TO'G'RI_JAVOB": "A) Bosh harflar yoki klavishlarning yuqori qismidagi belgilar",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Till paneli qayerda joylashgan?",
+     "variantlar": [
+      "A) Ekranning chap tomonida",
+      "B) Ekranning o'ng tomonida",
+      "C) Ekranning yuqorida",
+      "D) Masalalar panelining o'ng tomonida"
+     ],
+     "TO'G'RI_JAVOB": "D) Masalalar panelining o'ng tomonida",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Till panelida nechta till holatiga mos tugma ko'rsatiladi?",
+     "variantlar": [
+      "A) 3 ta",
+      "B) 2 ta",
+      "C) 1 ta",
+      "D) 4 ta"
+     ],
+     "TO'G'RI_JAVOB": "A) 3 ta",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Hujjat saqlash nima uchun kerak?",
+     "variantlar": [
+      "A) Dasturni yopish uchun",
+      "B) Hujjatni xotirada saqlab qo'yish uchun",
+      "C) Matn o'chirish uchun",
+      "D) Kompyuterni tezlatirish uchun"
+     ],
+     "TO'G'RI_JAVOB": "B) Hujjatni xotirada saqlab qo'yish uchun",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Quyi registrda lotin alifbosida 'a' tugmasini bosishda ekranga qaysi belgi chiqadi?",
+     "variantlar": [
+      "A) Hech qanday belgi",
+      "B) A (bosh harf)",
+      "C) a (kichik harf)",
+      "D) @ belgisi"
+     ],
+     "TO'G'RI_JAVOB": "C) a (kichik harf)",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Yuqori registrda lotin alifbosida 'b' tugmasini bosishda ekranga qaysi belgi chiqadi?",
+     "variantlar": [
+      "A) b",
+      "B) 8",
+      "C) {}",
+      "D) B"
+     ],
+     "TO'G'RI_JAVOB": "D) B",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "O'zbek tilidagi 'bo'g'in' so'zini Word-da to'g'ri yozsangiz nechta so'zga aylanadi?",
+     "variantlar": [
+      "A) 3 ta",
+      "B) 4 ta",
+      "C) 2 ta",
+      "D) 1 ta"
+     ],
+     "TO'G'RI_JAVOB": "A) 3 ta",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Shift klavishi tanlangan klavishga birga bosilganda nima bo'ladi?",
+     "variantlar": [
+      "A) Yuqori registrga o'tiladi",
+      "B) Till holati o'zgaradi",
+      "C) Hujjat saqlanaladi",
+      "D) Hujjat o'chiriladi"
+     ],
+     "TO'G'RI_JAVOB": "A) Yuqori registrga o'tiladi",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Birinchi marta hujjat saqlashda Fayl menyusidan qaysi buyrug'i tanlanadi?",
+     "variantlar": [
+      "A) 'Saqlash' yoki '...kabi saqlash' buyrug'isi tanlanadi",
+      "B) Faqat 'Saqlash' buyrug'i",
+      "C) Faqat '...kabi saqlash' buyrug'i",
+      "D) 'O'chirish' buyrug'i"
+     ],
+     "TO'G'RI_JAVOB": "A) 'Saqlash' yoki '...kabi saqlash' buyrug'isi tanlanadi",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Till panelida tugma tanlanganda hosil bo'lgan ro'yxatdan kerakli tugma qanday tanlanadi?",
+     "variantlar": [
+      "A) Sichqoncha orqali",
+      "B) Faqat Caps Lock orqali",
+      "C) Faqat Shift tugmasi orqali",
+      "D) Faqat klaviatura orqali"
+     ],
+     "TO'G'RI_JAVOB": "A) Sichqoncha orqali",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "O'zbek tilidagi O', o', G' va g' harflarini yozish uchun birinchi qadamda nima kerak?",
+     "variantlar": [
+      "A) Shift bosish kerak",
+      "B) Caps Lock yonaladi",
+      "C) O, o, G, g harflaridan keragi yoziladi",
+      "D) Probel bosiladi"
+     ],
+     "TO'G'RI_JAVOB": "C) O, o, G, g harflaridan keragi yoziladi",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Kerakli till holatiga o'tish uchun Klavishlar usulida qanday amalga oshiriladi?",
+     "variantlar": [
+      "A) Alt yoki Ctrl ni bosib turgan holda Shift takrorlanadi",
+      "B) Faqat Shift bosish",
+      "C) Faqat Alt bosish",
+      "D) Faqat Ctrl bosish"
+     ],
+     "TO'G'RI_JAVOB": "A) Alt yoki Ctrl ni bosib turgan holda Shift takrorlanadi",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Hujjat saqlashda kerakli papka tanlashdan so'ng nima qilinadi?",
+     "variantlar": [
+      "A) Hujjat o'chiriladi",
+      "B) Faqat tugmani bosish kerak",
+      "C) Dastur avtomatik saqlanadi",
+      "D) Fayl nomi yoziladi va Saqlash tugmasi bosiladi"
+     ],
+     "TO'G'RI_JAVOB": "D) Fayl nomi yoziladi va Saqlash tugmasi bosiladi",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Hujjatga nom berishda qaysi nomlardan foydalanish tavsiya etiladi?",
+     "variantlar": [
+      "A) Faqat qisqacha nomlar",
+      "B) Faqat 'Dokument1'",
+      "C) Faqat matn qismi",
+      "D) Hujjat mazmuniga mos yoki dastur tavsiya etgan nomlar"
+     ],
+     "TO'G'RI_JAVOB": "D) Hujjat mazmuniga mos yoki dastur tavsiya etgan nomlar",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Quyi registr holatida ish boshlanadi. Shift tugmasi qo'yib yuborilsa nima bo'ladi?",
+     "variantlar": [
+      "A) Till holati o'zgaradi",
+      "B) Quyi registr holatiga qaytadi",
+      "C) Hujjat o'chiriladi",
+      "D) Yuqori registr holatida qoladi"
+     ],
+     "TO'G'RI_JAVOB": "B) Quyi registr holatiga qaytadi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Caps Lock va Shift klavishlarining orasidagi farq nima?",
+     "variantlar": [
+      "A) Caps Lock barcha harflarni bosh harfga o'zgartiradi, Shift faqat bir belgi uchun",
+      "B) Shift barcha harflarni o'zgartiradi, Caps Lock faqat bir belgi uchun",
+      "C) Ular bir xil",
+      "D) Caps Lock faqat songa ta'sir qiladi"
+     ],
+     "TO'G'RI_JAVOB": "A) Caps Lock barcha harflarni bosh harfga o'zgartiradi, Shift faqat bir belgi uchun",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Microsoft Word dasturi vaqti-vaqti bilan hujjatni nima sababli avtomatik saqlaydi?",
+     "variantlar": [
+      "A) Foydalanuvchi so'ramasligi sababli",
+      "B) Kompyuter turli sabablar uchun o'chib qolishi mumkin bo'lgani sababli",
+      "C) Dastur qoidasi bo'lgan sababli",
+      "D) Boshqa dasturlar o'chirilgani sababli"
+     ],
+     "TO'G'RI_JAVOB": "B) Kompyuter turli sabablar uchun o'chib qolishi mumkin bo'lgani sababli",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Avval saqlangan faylni boshqa nom bilan saqlash kerak bo'lsa Fayl menyusidan qaysi buyrug'i tanlanadi?",
+     "variantlar": [
+      "A) 'Saqlash' buyrug'i",
+      "B) Caps Lock yonalish kerak",
+      "C) Till panelidan tanlash kerak",
+      "D) Faqatgina '...kabi saqlash' buyrug'i"
+     ],
+     "TO'G'RI_JAVOB": "D) Faqatgina '...kabi saqlash' buyrug'i",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "O'zbek tilidagi 'bo'g'in' so'zini notog'ri yozib Word unga qiyola qo'ysa bu nima anglatadi?",
+     "variantlar": [
+      "A) Hujjat o'chirilishi kerak",
+      "B) So'z noto'g'ri yozilgan va Word uni 3 ta so'zga ajratgan",
+      "C) So'z to'g'ri yozilgan",
+      "D) So'z ortiqcha"
+     ],
+     "TO'G'RI_JAVOB": "B) So'z noto'g'ri yozilgan va Word uni 3 ta so'zga ajratgan",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "O'zbek alifbosida O', o', G', g' harflarini yozish jarayoni nima?",
+     "variantlar": [
+      "A) Kirill alifbosi to'liq emas",
+      "B) Lotin alifbosi kifoya emas",
+      "C) Harfni yozib, probel bosib, ' belgisi qo'shib, probel o'chirish kerak",
+      "D) Till paneli noto'g'ri ishlaydi"
+     ],
+     "TO'G'RI_JAVOB": "C) Harfni yozib, probel bosib, ' belgisi qo'shib, probel o'chirish kerak",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Hujjat nomini tanlashda qanday fikr yuritilishi kerak?",
+     "variantlar": [
+      "A) Hujjatlar uchun maxsus nomlar bo'lishi kerak",
+      "B) Mazmuniga mos, mavzuya yoki qo'llash sohasiga oid nomlar",
+      "C) Faqat qisqacha nomlar",
+      "D) Faqat raqamlar bilan nomlar"
+     ],
+     "TO'G'RI_JAVOB": "B) Mazmuniga mos, mavzuya yoki qo'llash sohasiga oid nomlar",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Till holati nima uchun kerak va uning rolı nima?",
+     "variantlar": [
+      "A) Dasturni tezlatirish uchun",
+      "B) Hujjatni o'chirish uchun",
+      "C) Qaysi alifboni va belgini ekranga chiqarish masalasini hal qilish uchun",
+      "D) Saqlashni tezlashtirish uchun"
+     ],
+     "TO'G'RI_JAVOB": "C) Qaysi alifboni va belgini ekranga chiqarish masalasini hal qilish uchun",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Agar avval saqlangan faylga boshqa nom berib 'Almashtrilsin' taklifi qabul qilinsa nima bo'ladi?",
+     "variantlar": [
+      "A) Avvalgi fayl o'chib ketadi va o'rniga yangi fayl yoziladi",
+      "B) Yangi fayl o'chiriladi",
+      "C) Hujjat yuklanib kelmaydi",
+      "D) Ikkala fayl qoladi"
+     ],
+     "TO'G'RI_JAVOB": "A) Avvalgi fayl o'chib ketadi va o'rniga yangi fayl yoziladi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Till panelida till holatlarini o'zgartirishning qanday usullari bor?",
+     "variantlar": [
+      "A) Faqat Shift va Ctrl",
+      "B) Faqat sichqoncha va Enter",
+      "C) Sichqoncha va Klavishlar (Alt yoki Ctrl + Shift)",
+      "D) Faqat Home va End tugmalari"
+     ],
+     "TO'G'RI_JAVOB": "C) Sichqoncha va Klavishlar (Alt yoki Ctrl + Shift)",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "6-sinf",
+   "kitob": "6-sinf 6-Sinf Informatika (1)",
+   "mavzu": "Hujjat parametrlari",
+   "savollar": [
+    {
+     "savol": "Hujjat parametrlari nima deb ataladi?",
+     "variantlar": [
+      "A) Shrift turi",
+      "B) Matn protsessorida tayyorlanayotgan hujjatning xususiyatlari",
+      "C) Qog'ozning o'lchami",
+      "D) Satrlar orasidagi masofa"
+     ],
+     "TO'G'RI_JAVOB": "B) Matn protsessorida tayyorlanayotgan hujjatning xususiyatlari",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Sahifa parametrlarini tanlash uchun qaysi tasma ishlatiladi?",
+     "variantlar": [
+      "A) Ko'rinish tasma",
+      "B) Sahifani belgilash tasma",
+      "C) Bosh tasma",
+      "D) Format tasma"
+     ],
+     "TO'G'RI_JAVOB": "B) Sahifani belgilash tasma",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Sahifa parametrlarining asosiy manbai nima?",
+     "variantlar": [
+      "A) Qog'oz turi",
+      "B) Hujjatni chop etish maqsadi",
+      "C) Matnning uzunligi",
+      "D) Foydalanuvchining istami"
+     ],
+     "TO'G'RI_JAVOB": "B) Hujjatni chop etish maqsadi",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Hoshiya nima?",
+     "variantlar": [
+      "A) Satrlar orasidagi masofa",
+      "B) Matnning o'lchami",
+      "C) Sahifaning rang",
+      "D) Sahifaning chap, o'ng, yuqori va pastki qismidan qoldirilgan masofa"
+     ],
+     "TO'G'RI_JAVOB": "D) Sahifaning chap, o'ng, yuqori va pastki qismidan qoldirilgan masofa",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Sahifa orientatsiyasining nechta asosiy turi bor?",
+     "variantlar": [
+      "A) Ikkisi",
+      "B) Bittasi",
+      "C) Uchisi",
+      "D) To'rtasi"
+     ],
+     "TO'G'RI_JAVOB": "A) Ikkisi",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Chizg'ichlar qaysi tasma orqali aks etadi?",
+     "variantlar": [
+      "A) Sahifani belgilash tasmasida",
+      "B) Ko'rinish tasmasining Aks ettirish bo'limida",
+      "C) Bosh tasmasida",
+      "D) Format tasmasida"
+     ],
+     "TO'G'RI_JAVOB": "B) Ko'rinish tasmasining Aks ettirish bo'limida",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Shrift parametrlarini tanlash uchun qaysi tasmaning Shrift mantiqiy guruhiga murojaat qilish kerak?",
+     "variantlar": [
+      "A) Format tasma",
+      "B) Sahifani belgilash tasma",
+      "C) Bosh tasma",
+      "D) Ko'rinish tasma"
+     ],
+     "TO'G'RI_JAVOB": "C) Bosh tasma",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Abzas parametrlari qaysi tasmaning Abzas mantiqiy guruhida joylashgan?",
+     "variantlar": [
+      "A) Format tasmasida",
+      "B) Bosh tasmasida",
+      "C) Sahifani belgilash tasmasida",
+      "D) Ko'rinish tasmasida"
+     ],
+     "TO'G'RI_JAVOB": "B) Bosh tasmasida",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Sahifa foni o'zgartirishning asosiy maqsadi nima?",
+     "variantlar": [
+      "A) Matnni ozroq qilish",
+      "B) Sahifani yanada go'zal va qiziqarli ko'rsatish",
+      "C) Satrlar orasidagi masofani o'zgartirgish",
+      "D) Hujjatni chetdan chop etish"
+     ],
+     "TO'G'RI_JAVOB": "B) Sahifani yanada go'zal va qiziqarli ko'rsatish",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Sahifa chegaralarida qanday chiziqlardan foydalaniladi?",
+     "variantlar": [
+      "A) Faqat qora chiziqlar",
+      "B) Faqat sirt chiziqlar",
+      "C) Turli turdagi, rangdagi va qalinlikdagi chiziqlar",
+      "D) Faqat to'q chiziqlar"
+     ],
+     "TO'G'RI_JAVOB": "C) Turli turdagi, rangdagi va qalinlikdagi chiziqlar",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Hoshiya o'lchamlarini belgilash uchun qaysi tanlov ro'yxatidan foydalaniladi?",
+     "variantlar": [
+      "A) Ustunlar",
+      "B) O'lcham",
+      "C) Hoshiyalar",
+      "D) Oriyentatsiya"
+     ],
+     "TO'G'RI_JAVOB": "C) Hoshiyalar",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Qog'oz o'lchamlarini belgilash uchun qaysi tanlov ro'yxatidan foydalaniladi?",
+     "variantlar": [
+      "A) Ustunlar",
+      "B) Hoshiyalar",
+      "C) Oriyentatsiya",
+      "D) O'lcham"
+     ],
+     "TO'G'RI_JAVOB": "D) O'lcham",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Sahifadagi ustunlar sonini qaysi tanlov ro'yxatidan belgilash mumkin?",
+     "variantlar": [
+      "A) Oriyentatsiya",
+      "B) Ustunlar",
+      "C) Hoshiyalar",
+      "D) O'lcham"
+     ],
+     "TO'G'RI_JAVOB": "B) Ustunlar",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Sahifa parametrlarining to'liq muloqot oynasini ochish uchun qaysi tugma tanlash kerak?",
+     "variantlar": [
+      "A) Bekor qilish tugmasi",
+      "B) OK tugmasi",
+      "C) Qo'llash tugmasi",
+      "D) Sahifa parametrlari mantiqiy guruhidagi tugmasi"
+     ],
+     "TO'G'RI_JAVOB": "D) Sahifa parametrlari mantiqiy guruhidagi tugmasi",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Hoshiya kengligini o'zgartirishning qaysi usuli mavjud?",
+     "variantlar": [
+      "A) Faqat chizg'ich orqali",
+      "B) Gorizontal va vertikal chizg'ich yordamida",
+      "C) Faqat o'ng bosmani orqali",
+      "D) Faqat tanlov ro'yxati orqali"
+     ],
+     "TO'G'RI_JAVOB": "B) Gorizontal va vertikal chizg'ich yordamida",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "MS Wordda sahifa foniga qanday usullar qo'llanishi mumkin?",
+     "variantlar": [
+      "A) Sidirg'a rang yoki turli Bo'yash usullari",
+      "B) Faqat qora rang",
+      "C) Faqat to'q ranglar",
+      "D) Faqat bitta rang"
+     ],
+     "TO'G'RI_JAVOB": "A) Sidirg'a rang yoki turli Bo'yash usullari",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Abzas tekislanishining qanday turlari mavjud?",
+     "variantlar": [
+      "A) Chapdan, o'rtadan, o'ngdan",
+      "B) Faqat o'rtadan",
+      "C) Faqat chapdan va o'ngdan",
+      "D) Chapdan, o'rtadan, o'ngdan, sahifa kengligi bo'yicha"
+     ],
+     "TO'G'RI_JAVOB": "D) Chapdan, o'rtadan, o'ngdan, sahifa kengligi bo'yicha",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Abzas satrlari oralig'i nechta variant bilan belgilanishi mumkin?",
+     "variantlar": [
+      "A) Uchta: bir, ikki va uch",
+      "B) Ikkita: bir va ikki",
+      "C) Oltita: bir, bir yarim, ikki, minimum, aniq, ko'proq",
+      "D) To'rtasi: bir, ikki, uch va ko'proq"
+     ],
+     "TO'G'RI_JAVOB": "C) Oltita: bir, bir yarim, ikki, minimum, aniq, ko'proq",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Abzas chekinishini o'rnatishning qulay usuli nima?",
+     "variantlar": [
+      "A) Faqat o'ng bosmani orqali",
+      "B) Faqat tastatura orqali",
+      "C) Faqat tanlov ro'yxati orqali",
+      "D) Gorizontal chizg'ich ko'rsatkichlaridan foydalanib"
+     ],
+     "TO'G'RI_JAVOB": "D) Gorizontal chizg'ich ko'rsatkichlaridan foydalanib",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Hujjatda shrift turi, o'lchami va yozuv shakli qaysi bo'limda tanlanadi?",
+     "variantlar": [
+      "A) Shrift mantiqiy guruhi",
+      "B) O'lcham bo'limi",
+      "C) Abzas bo'limi",
+      "D) Format bo'limi"
+     ],
+     "TO'G'RI_JAVOB": "A) Shrift mantiqiy guruhi",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Turli hujjatlar turli o'lchamdagi qog'ozga yoziladi. Agar siz rasmiy hujjat tayyorlasangiz, uning parametrlarini qaysi asosda belgilaysiz?",
+     "variantlar": [
+      "A) Tavakkaliga istalgan parametr tanlash",
+      "B) Hujjat turiga qarab sahifa parametrlarini tanlash",
+      "C) Faqat shrift parametrlarini o'zgartirish",
+      "D) Hojjatning o'lchami muhim emas"
+     ],
+     "TO'G'RI_JAVOB": "B) Hujjat turiga qarab sahifa parametrlarini tanlash",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Matn protsessorida hujjat tayyorlanayotganda, qaylar parametrlar belgilab olinadi?",
+     "variantlar": [
+      "A) Faqat sahifa parametrlari",
+      "B) Sahifa parametrlari va matn parametrlari (shrift, abzas)",
+      "C) Faqat matn parametrlari",
+      "D) Faqat rang parametrlari"
+     ],
+     "TO'G'RI_JAVOB": "B) Sahifa parametrlari va matn parametrlari (shrift, abzas)",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Agar sahife fonini to'q rang bilan belgilasangiz va matnni qora rangda yozsangiz, qanday muammo yuzaga keladi?",
+     "variantlar": [
+      "A) Matnning o'lchami o'zgarsdi",
+      "B) Matnni o'qish qiyin bo'ladi",
+      "C) Shrift turi o'zgaradi",
+      "D) Hujjat yanada go'zal ko'rinadi"
+     ],
+     "TO'G'RI_JAVOB": "B) Matnni o'qish qiyin bo'ladi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Abzas parametrlari va shrift parametrlarining asosiy farqi nima?",
+     "variantlar": [
+      "A) Ular o'zaro hech farqi yo'q",
+      "B) Shrift parametrlari alohida harflarning, abzas parametrlari esa abzaslar to'plamining xususiyatlarini belgilaydi",
+      "C) Abzas parametrlari faqat raqamni, shrift parametrlari esa matnni o'zgartirgish",
+      "D) Abzas parametrlari rang, shrift parametrlari esa mazmun o'zgartirgish"
+     ],
+     "TO'G'RI_JAVOB": "B) Shrift parametrlari alohida harflarning, abzas parametrlari esa abzaslar to'plamining xususiyatlarini belgilaydi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Agar siz \"Mening vatanim – O'zbekiston\" haqida to'plamli matn tayyorlanayotgan bo'lsangiz, matnning to'plamini uchun qaylar parametrlardan foydalanishingiz zarur?",
+     "variantlar": [
+      "A) Faqat shrift parametrlari",
+      "B) Faqat hoshiya parametrlari",
+      "C) Sahifa parametrlari, abzas parametrlari va shrift parametrlari",
+      "D) Faqat sahifa parametrlari"
+     ],
+     "TO'G'RI_JAVOB": "C) Sahifa parametrlari, abzas parametrlari va shrift parametrlari",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Hoshiya, sahifa foni va chegaralar o'zgartirilganda, hujjatning ta'siri qanday bo'ladi?",
+     "variantlar": [
+      "A) Hujjat chetdan chop etilmaydi",
+      "B) Hujjat yanada professional va go'zal ko'rinish imkoniyati bor",
+      "C) Hujjat noto'g'ri ko'rinadi",
+      "D) Hujjat ma'nosi o'zgaradi"
+     ],
+     "TO'G'RI_JAVOB": "B) Hujjat yanada professional va go'zal ko'rinish imkoniyati bor",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Agar siz birorta abzasda satrlar orasidagi masofani \"ikki\" belgilasangiz, boshqa abzasda \"bir\" belgilasangiz, matnning ko'rinishi qanday bo'ladi?",
+     "variantlar": [
+      "A) Matn butunlay o'zgarib ketadi",
+      "B) Turli abzaslarda turli satrlar oralig'i bo'ladi",
+      "C) Hamma bir xil bo'ladi",
+      "D) Ikkala abzas ayni bir ko'rinishda bo'ladi"
+     ],
+     "TO'G'RI_JAVOB": "B) Turli abzaslarda turli satrlar oralig'i bo'ladi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Gorizontal chizg'ichni sichqoncha bilan surish orqali qaylar parametrlarni o'zgartirib bo'ladi?",
+     "variantlar": [
+      "A) Abzas chekinishini va bosh satr chekinishini",
+      "B) Faqat bosh satr chekinishini",
+      "C) Faqat sahifa o'lchamini",
+      "D) Faqat abzas chekinishini"
+     ],
+     "TO'G'RI_JAVOB": "A) Abzas chekinishini va bosh satr chekinishini",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "MS Wordda \"Mening oilam\" nomli hujjatda albom orientatsiyasini tanlab, har bir abzas uchun turli satrlar oralig'i va turli chekinishni belgilasangiz, natija qanday bo'ladi?",
+     "variantlar": [
+      "A) Matn ichidagi ma'lumot o'zgaradi",
+      "B) Shriftning turi o'zgaradi",
+      "C) Hujjat noto'g'ri bo'ladi",
+      "D) Hujjat yanada dinamik va ifodaviy ko'rinadi"
+     ],
+     "TO'G'RI_JAVOB": "D) Hujjat yanada dinamik va ifodaviy ko'rinadi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Abzas parametrlarida markerlash, tartiblash va tabaqalashtirish imkoniyatlari nima uchun foydalidir?",
+     "variantlar": [
+      "A) Matnning o'lchamini o'zgartirgish uchun",
+      "B) Abzaslarni turli shaklda ko'rsatish va ro'yxatlarni tuzish uchun",
+      "C) Hoshiyani o'zgartirgish uchun",
+      "D) Matnning rangini o'zgartirgish uchun"
+     ],
+     "TO'G'RI_JAVOB": "B) Abzaslarni turli shaklda ko'rsatish va ro'yxatlarni tuzish uchun",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "6-sinf",
+   "kitob": "6-sinf 6-Sinf Informatika (1)",
+   "mavzu": "Hujjatlarni tahrir qilish",
+   "savollar": [
+    {
+     "savol": "Hujjatni tahrir qilish deganda nimani tushunasiz?",
+     "variantlar": [
+      "A) Hujjatni saqlash",
+      "B) Hujjatni chop etish",
+      "C) Hujjatni o'qish",
+      "D) Matnli hujjatga ixtiyoriy tuzatishlar kiritish"
+     ],
+     "TO'G'RI_JAVOB": "D) Matnli hujjatga ixtiyoriy tuzatishlar kiritish",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Yurgich nima?",
+     "variantlar": [
+      "A) Klaviaturadagi tugma",
+      "B) Sichqonchaning ko'rsatkichi",
+      "C) Matnni yozadigan mashinaning qismi",
+      "D) Matn yozilayotgan joyni ko'rsatuvchi belgi"
+     ],
+     "TO'G'RI_JAVOB": "D) Matn yozilayotgan joyni ko'rsatuvchi belgi",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Blok deganda nimani tushunasiz?",
+     "variantlar": [
+      "A) Hujjatning butun matni",
+      "B) Bitta so'z",
+      "C) Bir satrli matn",
+      "D) Matnning ixtiyoriy belgilangan qismi"
+     ],
+     "TO'G'RI_JAVOB": "D) Matnning ixtiyoriy belgilangan qismi",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Delete klavishi yurgichdan qanday joyda turgan belgini o'chiradi?",
+     "variantlar": [
+      "A) Butun satrni",
+      "B) Yurgich joydagi belgini",
+      "C) Yurgichdan oldin turgan belgini",
+      "D) Yurgichdan keyin turgan belgini"
+     ],
+     "TO'G'RI_JAVOB": "D) Yurgichdan keyin turgan belgini",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Backspace klavishi yurgichdan qanday joyda turgan belgini o'chiradi?",
+     "variantlar": [
+      "A) Yurgichdan keyin turgan belgini",
+      "B) Yurgich joydagi belgini",
+      "C) Yurgichdan oldin turgan belgini",
+      "D) Butun abzasni"
+     ],
+     "TO'G'RI_JAVOB": "C) Yurgichdan oldin turgan belgini",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ctrl+A klavishlari qanday buyruq beradi?",
+     "variantlar": [
+      "A) Hujjatni chop etish",
+      "B) Hujjatni butunlay belgilash",
+      "C) Hujjatni yopish",
+      "D) Hujjatni saqlash"
+     ],
+     "TO'G'RI_JAVOB": "B) Hujjatni butunlay belgilash",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Nusxa ko'chirish nima?",
+     "variantlar": [
+      "A) Matn qismining nusxasini boshqa joyga joylashtirish",
+      "B) Matnga yangi matn qo'shish",
+      "C) Matn qismini ko'chirib o'tkazish",
+      "D) Matn qismini o'chirish"
+     ],
+     "TO'G'RI_JAVOB": "A) Matn qismining nusxasini boshqa joyga joylashtirish",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Almashtirish bufer nima?",
+     "variantlar": [
+      "A) Hujjatni saqlayotgan joy",
+      "B) Yordamchi xotirada nusxalangan yoki qirqib olingan matn saqlanadigan joy",
+      "C) Klaviaturadagi tugma",
+      "D) Bosh tasmasidagi guruh"
+     ],
+     "TO'G'RI_JAVOB": "B) Yordamchi xotirada nusxalangan yoki qirqib olingan matn saqlanadigan joy",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Sichqoncha bilan so'z belgilanishi uchun nechta marta bosish kerak?",
+     "variantlar": [
+      "A) 2 marta",
+      "B) 1 marta",
+      "C) 3 marta",
+      "D) 4 marta"
+     ],
+     "TO'G'RI_JAVOB": "A) 2 marta",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ctrl+F tezkor klavishlari qanday muloqotni ochadi?",
+     "variantlar": [
+      "A) Format muloqoti",
+      "B) Chop etish muloqoti",
+      "C) Izlash va almashtirish muloqoti",
+      "D) Saqlash muloqoti"
+     ],
+     "TO'G'RI_JAVOB": "C) Izlash va almashtirish muloqoti",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Matnga tushib qolgan belgilar qanday kiritiladi?",
+     "variantlar": [
+      "A) Sichqoncha bilan belgini drag qilish",
+      "B) Backspace tugmasini bosish",
+      "C) Yurgichni kerakli joyga o'rnatib, belgilar klaviaturada teriladi",
+      "D) Delete tugmasini bosish"
+     ],
+     "TO'G'RI_JAVOB": "C) Yurgichni kerakli joyga o'rnatib, belgilar klaviaturada teriladi",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Shift+yo'nalish klavishlari bilan blok ajratishdan oldin eng avval nima qilish kerak?",
+     "variantlar": [
+      "A) So'zni belgilash",
+      "B) Delete tugmasini bosish",
+      "C) Yurgichni kerakli qismning birinchi belgisi oldiga joylash",
+      "D) Nusxalash tugmasini bosish"
+     ],
+     "TO'G'RI_JAVOB": "C) Yurgichni kerakli qismning birinchi belgisi oldiga joylash",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Sichqoncha bilan abzas belgilanishi uchun nechta marta bosish kerak?",
+     "variantlar": [
+      "A) 3 marta",
+      "B) 2 marta",
+      "C) 4 marta",
+      "D) 1 marta"
+     ],
+     "TO'G'RI_JAVOB": "A) 3 marta",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Qirqib olish operatsiyasining birinchi bosqichi qanday?",
+     "variantlar": [
+      "A) Kerakli qismni blokka olish",
+      "B) Joylashtirish tugmasini bosish",
+      "C) Qirqib olish tugmasini bosish",
+      "D) Matn yozish"
+     ],
+     "TO'G'RI_JAVOB": "A) Kerakli qismni blokka olish",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Nusxa ko'chirishning oxirgi bosqichi qanday?",
+     "variantlar": [
+      "A) Matnni o'chirish",
+      "B) Kerakli qismni blokka olish",
+      "C) Joylashtirish tugmasini bosish",
+      "D) Nusxalash tugmasini bosish"
+     ],
+     "TO'G'RI_JAVOB": "C) Joylashtirish tugmasini bosish",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Matn qismini qanday ikkita usul bilan ko'chirish mumkin?",
+     "variantlar": [
+      "A) Izlash yoki almashtirish",
+      "B) Nusxalash yoki o'chirish",
+      "C) Qirqib olish yoki sichqoncha drag qilish",
+      "D) Joylashtirish yoki belgilash"
+     ],
+     "TO'G'RI_JAVOB": "C) Qirqib olish yoki sichqoncha drag qilish",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Sichqoncha bilan gap belgilanishi uchun qanday harakatlar amalga oshadi?",
+     "variantlar": [
+      "A) Drag qilish",
+      "B) Ctrl bosib turgan holda 1 marta bosish",
+      "C) 3 marta bosish",
+      "D) 2 marta bosish"
+     ],
+     "TO'G'RI_JAVOB": "B) Ctrl bosib turgan holda 1 marta bosish",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ctrl+F tezkor klavishlardan tashqari izlash muloqotini qanday ochish mumkin?",
+     "variantlar": [
+      "A) Delete tugmasini bosish",
+      "B) F1 tugmasini bosish",
+      "C) Sichqoncha o'ng tugmasini bosish",
+      "D) Bosh menyu Tahrirlash guruhidagi Almashtirish tugmasini tanlash"
+     ],
+     "TO'G'RI_JAVOB": "D) Bosh menyu Tahrirlash guruhidagi Almashtirish tugmasini tanlash",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Matndagi jadvalga asosan, nusxa joylashtirilishning nechta turli varianti ko'rsatilgan?",
+     "variantlar": [
+      "A) 4 usul",
+      "B) 1 usul",
+      "C) 2 usul",
+      "D) 3 usul"
+     ],
+     "TO'G'RI_JAVOB": "A) 4 usul",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Hujjatda xato belgisini tuzatishning asosiy bosqichlari ketma-ketligi qanday?",
+     "variantlar": [
+      "A) Yurgichni joyga o'rnatish → o'chirish → yangi belgi kiritish",
+      "B) Yurgichni joyga o'rnatish → belgilash → o'chirish",
+      "C) Belgilarni o'chirish → yangi belgilarni qo'shish → saqlash",
+      "D) Belgilash → nusxalash → joylashtirish"
+     ],
+     "TO'G'RI_JAVOB": "A) Yurgichni joyga o'rnatish → o'chirish → yangi belgi kiritish",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Agar matning bir qismini o'chirib, o'rniga boshqa matn qo'yish kerak bo'lsa, eng samarali usul qaysi?",
+     "variantlar": [
+      "A) Nusxalash → o'chirish → yozish",
+      "B) Belgilash → qirqib olish → boshqa joyga joylashtirish",
+      "C) Delete va Backspace javima ishlatish",
+      "D) Faqat o'chirish, keyin yozish"
+     ],
+     "TO'G'RI_JAVOB": "B) Belgilash → qirqib olish → boshqa joyga joylashtirish",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "MS Word dasturida matn qismini ko'chirish va nusxa ko'chirishning asosiy farqi nima?",
+     "variantlar": [
+      "A) Nusxalash qirqib olishga teng",
+      "B) Ularning hech qanday farqi yo'q",
+      "C) Ko'chirish faqat sichqoncha bilan mumkin",
+      "D) Ko'chirish asl matnni o'chirib tashlaydi, nusxalash esa saqlab qoladi"
+     ],
+     "TO'G'RI_JAVOB": "D) Ko'chirish asl matnni o'chirib tashlaydi, nusxalash esa saqlab qoladi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Matnning biror qismiga bir nechta xatolar kiritilgan bo'lsa, eng samarali hal usuli qaysi?",
+     "variantlar": [
+      "A) Izlash va almashtirish muloqotini ochish",
+      "B) Butun qismni belgilash, o'chirish va qayta yozish",
+      "C) Har bir belgini alohida o'chirish",
+      "D) Delete va Backspace javima bosish"
+     ],
+     "TO'G'RI_JAVOB": "B) Butun qismni belgilash, o'chirish va qayta yozish",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Qirqib olish (Cut) va nusxalash (Copy) operatsiyalaridan keyin qanday bosqich majburiy?",
+     "variantlar": [
+      "A) O'chirish",
+      "B) Joylashtirish (Paste)",
+      "C) Belgilash",
+      "D) Saqlash"
+     ],
+     "TO'G'RI_JAVOB": "B) Joylashtirish (Paste)",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Agar matning bir joyidagi so'z butun matn bo'ylab necha marta uchraydi bo'lsa, uni almashtirishning eng samarali usuli qaysi?",
+     "variantlar": [
+      "A) Har bir so'zni alohida belgilash va o'chirish",
+      "B) Qirqib olish",
+      "C) Izlash va almashtirish muloqotidan foydalanish",
+      "D) Nusxa ko'chirish"
+     ],
+     "TO'G'RI_JAVOB": "C) Izlash va almashtirish muloqotidan foydalanish",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Matn blokini belgilashda sichqoncha drag usuli va Shift+arrow klavishlarining asosiy farqi nima?",
+     "variantlar": [
+      "A) Shift+arrow klavishlar aniqroq va tezroq",
+      "B) Sichqoncha drag usuli aniqroq",
+      "C) Farqi yo'q",
+      "D) Shift+arrow klavishlar faqat butun so'zlarni belgilaydi"
+     ],
+     "TO'G'RI_JAVOB": "A) Shift+arrow klavishlar aniqroq va tezroq",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Matnda xatolar to'g'rilash jarayonida blok ajratish va o'chirishni birlashtirish qanday manfa'at beradi?",
+     "variantlar": [
+      "A) Butun qismni bir vaqtda o'chirish mumkin",
+      "B) Faqat Delete tugmasini bosish mumkin",
+      "C) Faqat sichqonchani foydalanish mumkin",
+      "D) Hech qanday manfa'at bermaydi"
+     ],
+     "TO'G'RI_JAVOB": "A) Butun qismni bir vaqtda o'chirish mumkin",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Matnning belgilangan qismiga qirqib olingan qism va nusxa ko'chirlgan qism bilan nusxa ko'chirish jarayoni qanday farq qiladi?",
+     "variantlar": [
+      "A) Farqi yo'q",
+      "B) Qirqib olingan qism almashtirish buferda mavjud bo'ladi, nusxalangan qism esa saqlanib qoladi",
+      "C) Nusxalash faqat bitta joyga mumkin",
+      "D) Qirqib olish butun hujjatni o'chirib tashlaydi"
+     ],
+     "TO'G'RI_JAVOB": "B) Qirqib olingan qism almashtirish buferda mavjud bo'ladi, nusxalangan qism esa saqlanib qoladi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Hujjatda bir nechta belgilangan bloklar bo'lsa, ularni bir vaqtda boshqa joyga ko'chirish qanday amalga oshadi?",
+     "variantlar": [
+      "A) Almashtirish buferi faqat bitta blokni saqlaganligi uchun birma-bir ko'chiriladi",
+      "B) Sichqoncha bilan bir vaqtda ko'chiriladi",
+      "C) Ctrl+A bilan barchasi belgilanadi va ko'chiriladi",
+      "D) Har bir blok alohida ko'chiriladi"
+     ],
+     "TO'G'RI_JAVOB": "A) Almashtirish buferi faqat bitta blokni saqlaganligi uchun birma-bir ko'chiriladi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "6-sinf",
+   "kitob": "6-sinf 6-Sinf Informatika (1)",
+   "mavzu": "Hujjatni formatlash",
+   "savollar": [
+    {
+     "savol": "Hujjatni formatlash deganda nima tushuniladi?",
+     "variantlar": [
+      "A) Hujjatni saqlash",
+      "B) Hujjatni chop etish",
+      "C) Matnga rang qo'shish",
+      "D) Matnning tashqi ko'rinishini go'zal qilish uchun shrift, o'lcham, abzas kabi bezaklar bilan boyitish"
+     ],
+     "TO'G'RI_JAVOB": "D) Matnning tashqi ko'rinishini go'zal qilish uchun shrift, o'lcham, abzas kabi bezaklar bilan boyitish",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Matnning belgilangan qismi qanday aytiladi?",
+     "variantlar": [
+      "A) Blok",
+      "B) Abzas",
+      "C) Qism",
+      "D) Bosh satr"
+     ],
+     "TO'G'RI_JAVOB": "A) Blok",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Matnni formatlash uchun birinchi qadam nima?",
+     "variantlar": [
+      "A) Formatlanishi kerak bo'lgan qism belgilanadi, ya'ni blokka olinadi",
+      "B) Menyu ochish",
+      "C) Fayl saqlash",
+      "D) Shrift rangini tanlash"
+     ],
+     "TO'G'RI_JAVOB": "A) Formatlanishi kerak bo'lgan qism belgilanadi, ya'ni blokka olinadi",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Shrift parametrlari nechta turga bo'linadi?",
+     "variantlar": [
+      "A) 8 ta",
+      "B) 7 ta",
+      "C) 5 ta",
+      "D) 6 ta"
+     ],
+     "TO'G'RI_JAVOB": "A) 8 ta",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Abzasni formatlash uchun birinchi qadam nima?",
+     "variantlar": [
+      "A) Yurgich shu abzasga joylashtiriladi",
+      "B) Shrift parametrlarini o'zgartirish",
+      "C) Abzasning barcha matnini belgilash",
+      "D) Sahifa formatini o'zgartirish"
+     ],
+     "TO'G'RI_JAVOB": "A) Yurgich shu abzasga joylashtiriladi",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Sahifa tartib raqami odatda qaerga joylashtiriladi?",
+     "variantlar": [
+      "A) Sahifa quyisiga",
+      "B) Sahifa tepasiga",
+      "C) Sahifa o'ng tarafiga",
+      "D) Sahifa o'rtasiga"
+     ],
+     "TO'G'RI_JAVOB": "A) Sahifa quyisiga",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Masshtab parametri nima uchun ishlatiladi?",
+     "variantlar": [
+      "A) Belgilarni yuqoriga yoki quyiga siljitadi",
+      "B) Belgilar rangi o'zgaradi",
+      "C) Belgilar orasidagi bo'shliqni oshiradi",
+      "D) Belgilarning sahifada aks etadigan ko'lamini oshiradi yoki kamaytiradi"
+     ],
+     "TO'G'RI_JAVOB": "D) Belgilarning sahifada aks etadigan ko'lamini oshiradi yoki kamaytiradi",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Oraliq punkti qanday o'zgarish kiritadi?",
+     "variantlar": [
+      "A) Shrift o'lchami o'zgaradi",
+      "B) Belgilarni satrga nisbatan siljitadi",
+      "C) Belgilar orasidagi bo'shliqni oshiradi yoki kamaytiradi",
+      "D) Sahifada ko'rniladigan ko'lamni o'zgartiradi"
+     ],
+     "TO'G'RI_JAVOB": "C) Belgilar orasidagi bo'shliqni oshiradi yoki kamaytiradi",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Siljish punkti qanday amalni bajaradi?",
+     "variantlar": [
+      "A) Belgilar rangini o'zgartiradi",
+      "B) Belgilarni satrga nisbatan yuqoriga yoki quyiga siljitadi",
+      "C) Belgilar orasidagi bo'shliqni o'zgartiradi",
+      "D) Belgilarning o'lchami oshiradi"
+     ],
+     "TO'G'RI_JAVOB": "B) Belgilarni satrga nisbatan yuqoriga yoki quyiga siljitadi",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Shrift parametrlari muloqot oynasi qancha qatlamdan iborat?",
+     "variantlar": [
+      "A) Uchta",
+      "B) To'rtta",
+      "C) Ikkita - Shrift va Qo'shimcha",
+      "D) Bitta"
+     ],
+     "TO'G'RI_JAVOB": "C) Ikkita - Shrift va Qo'shimcha",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Matnni formatlash uchun qancha turli usul mavjud?",
+     "variantlar": [
+      "A) Faqat Bosh menyu orqali",
+      "B) Faqat muloqot oynasi orqali",
+      "C) Bosh menyu yoki muloqot oynasi orqali",
+      "D) Faqat tugmalar orqali"
+     ],
+     "TO'G'RI_JAVOB": "C) Bosh menyu yoki muloqot oynasi orqali",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Abzas tekislanish usullari qancha turni o'z ichiga oladi?",
+     "variantlar": [
+      "A) Uchta - chap, o'rtada, o'ng",
+      "B) To'rtta - chapdan, o'rtadan, o'ngdan, sahifa kengligi bo'yicha",
+      "C) Ikkita - chap va o'ng",
+      "D) Beshta"
+     ],
+     "TO'G'RI_JAVOB": "B) To'rtta - chapdan, o'rtadan, o'ngdan, sahifa kengligi bo'yicha",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Matn darajasini o'zgartirish uchun qanday imkoniyatlar mavjud?",
+     "variantlar": [
+      "A) Asosiy matn yoki turli sarlavha darajalarini tanlash",
+      "B) Faqat turli sarlavha darajalarini tanlash",
+      "C) Oddiy matn yoki asosiy matn",
+      "D) Faqat oddiy matn"
+     ],
+     "TO'G'RI_JAVOB": "A) Asosiy matn yoki turli sarlavha darajalarini tanlash",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Sahifa tartib raqami berish uchun qaysi tasmasi tanlanadi?",
+     "variantlar": [
+      "A) Tahrir tasmasi",
+      "B) Joylashtirish tasmasi",
+      "C) Rasm tasmasi",
+      "D) Sahifa tasmasi"
+     ],
+     "TO'G'RI_JAVOB": "B) Joylashtirish tasmasi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Abzas parametrlari muloqot oynasi nechta qatlamdan tashkil topgan?",
+     "variantlar": [
+      "A) To'rtta qatlam",
+      "B) Ikkita qatlam - Chekinishlar va oraliqlar; Sahifadagi holati",
+      "C) Bitta qatlam",
+      "D) Uchta qatlam"
+     ],
+     "TO'G'RI_JAVOB": "B) Ikkita qatlam - Chekinishlar va oraliqlar; Sahifadagi holati",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Bosh satrni abzasning qolgan satrlariga nisbatan chetlanish masofasini tanlash uchun nima ishlatiladi?",
+     "variantlar": [
+      "A) Tugma",
+      "B) Chizg'ich",
+      "C) Muloqot oynasi",
+      "D) Menyu"
+     ],
+     "TO'G'RI_JAVOB": "B) Chizg'ich",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Abzasdan avval tashlanadigan oraliq qanday o'lchanadi?",
+     "variantlar": [
+      "A) Punkt hisobida",
+      "B) Pikselda",
+      "C) Santimetrda",
+      "D) Millimetrda"
+     ],
+     "TO'G'RI_JAVOB": "A) Punkt hisobida",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Abzas satrlari orasidagi masofani tanlash uchun qanday tanlov mavjud?",
+     "variantlar": [
+      "A) Istalgan son",
+      "B) Faqat bir yoki ikki",
+      "C) Bir, ikki yoki minimum",
+      "D) Bir, bir yarim, ikki, minimum, aniq, ko'proq"
+     ],
+     "TO'G'RI_JAVOB": "D) Bir, bir yarim, ikki, minimum, aniq, ko'proq",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Matnning tashqi ko'rinishini go'zal qilish uchun qaysi elementlar ishlatiladi?",
+     "variantlar": [
+      "A) Faqat shrift turi",
+      "B) Faqat chegara chizish",
+      "C) Shrift turi, o'lcham, rang, abzas tekislanishi, chegara chizish va boshqa bezaklar",
+      "D) Faqat o'lcham va rang"
+     ],
+     "TO'G'RI_JAVOB": "C) Shrift turi, o'lcham, rang, abzas tekislanishi, chegara chizish va boshqa bezaklar",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Sahifa xususiyatlarini to'liq bilish uchun matnning qaysi bo'limiga murojaat etish kerak?",
+     "variantlar": [
+      "A) Faqat oxirgi bo'limga",
+      "B) Faqat birinchi bo'limga",
+      "C) Rasm bilan berilgan bo'limga",
+      "D) Avval ko'rilgan bo'limlarga"
+     ],
+     "TO'G'RI_JAVOB": "D) Avval ko'rilgan bo'limlarga",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Agar matnda belgilangan qismga masshtab 200% qo'llanilsa, shrift o'lchami qanday o'zgaradi?",
+     "variantlar": [
+      "A) Shrift o'lchami 2 marta kattalashadi",
+      "B) Shrift o'lchami o'zgarmasligi hozil, faqat sahifada aks etadigan ko'lam 2 marta kattalashadi",
+      "C) Shrift o'lchami va sahifada aks etadigan ko'lam ikkalasi 2 marta kattalashadi",
+      "D) Shrift o'lchami 2 marta kichiklaşadi"
+     ],
+     "TO'G'RI_JAVOB": "B) Shrift o'lchami o'zgarmasligi hozil, faqat sahifada aks etadigan ko'lam 2 marta kattalashadi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Matnda belgilangan qismga 'tagchiziq', 'rang', 'yozuv shakli' kabi xususiyatlarni qo'llay olasiz. Bu qaysi turdagi formatlash?",
+     "variantlar": [
+      "A) Faqat abzas formatlashi",
+      "B) Faqat sahifa formatlashi",
+      "C) Matnni formatlash",
+      "D) Abzasni formatlash"
+     ],
+     "TO'G'RI_JAVOB": "C) Matnni formatlash",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Shrift parametrlari muloqot oynasining Qo'shimcha qatlamida qancha tanlov maydonchasi mavjud?",
+     "variantlar": [
+      "A) 2 ta - Masshtab, Oraliq",
+      "B) 5 ta",
+      "C) 3 ta - Masshtab, Oraliq, Siljish",
+      "D) 4 ta - Masshtab, Oraliq, Siljish, Rang"
+     ],
+     "TO'G'RI_JAVOB": "C) 3 ta - Masshtab, Oraliq, Siljish",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Agar abzasga 'Masshtab: birinchi so'z 200%, ikkinchi so'z 100%' qo'llanilsa, qanday natija bo'ladi?",
+     "variantlar": [
+      "A) Ikkala so'z ham kichiklaşadi",
+      "B) Birinchi so'z kichikroq bo'ladi",
+      "C) Birinchi so'z kattaroq bo'ladi, ikkinchi so'z oddiy bo'ladi",
+      "D) Ikkala so'z ham kattalaşadi"
+     ],
+     "TO'G'RI_JAVOB": "C) Birinchi so'z kattaroq bo'ladi, ikkinchi so'z oddiy bo'ladi",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Abzas parametrlari muloqot oynasi qaysi ikki qatlamni o'z ichiga oladi?",
+     "variantlar": [
+      "A) Bosh satr va Qolgan satrlar",
+      "B) Chekinishlar va oraliqlar; Sahifadagi holati",
+      "C) Shrift va Qo'shimcha",
+      "D) Matn va Abzas"
+     ],
+     "TO'G'RI_JAVOB": "B) Chekinishlar va oraliqlar; Sahifadagi holati",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Matnda 'Oraliq: Siyrak 3 punkt' qo'llanilsa, qanday natija bo'ladi?",
+     "variantlar": [
+      "A) Belgilar orasidagi bo'shliq 3 punktga ortiqlashadi",
+      "B) Hech qanday o'zgarish bo'lmaydi",
+      "C) Belgilar siyrak ko'rinishga olinadi va oraliq 3 punktga ortiqlashadi",
+      "D) Belgilar o'lchami 3 punktga ortiqlashadi"
+     ],
+     "TO'G'RI_JAVOB": "C) Belgilar siyrak ko'rinishga olinadi va oraliq 3 punktga ortiqlashadi",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "'Blokka olish' va 'yurgich joylashtrish' orasida qanday farq?",
+     "variantlar": [
+      "A) Blokka olish matnni tanlash, yurgich joylashtrish abzasni belgilash uchun ishlatiladi",
+      "B) Blokka olish hujjatni, yurgich joylashtrish satrni belgilaydi",
+      "C) Hech farq yo'q",
+      "D) Blokka olish faqat shrift o'zgartirishini, yurgich joylashtrish faqat abzas o'zgartirishini ta'minlaydi"
+     ],
+     "TO'G'RI_JAVOB": "A) Blokka olish matnni tanlash, yurgich joylashtrish abzasni belgilash uchun ishlatiladi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Matn protsessorida matnni formatlash uchun qanday asosiy qadamlar bajariladi?",
+     "variantlar": [
+      "A) Faqat menyu ochiladi",
+      "B) Formatlanishi kerak bo'lgan qism belgilanadi, keyin xususiyatlar tanlanadi",
+      "C) Butun hujjat belgilanadi va oxirida saqlashni bosish",
+      "D) Faqat shrift parametrlarini tanlash"
+     ],
+     "TO'G'RI_JAVOB": "B) Formatlanishi kerak bo'lgan qism belgilanadi, keyin xususiyatlar tanlanadi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Sahifanga tartib raqami berish uchun qaysi menyudan foydalaniladi?",
+     "variantlar": [
+      "A) Bosh menyu",
+      "B) Sahifa menyu",
+      "C) Joylashtirish menyu ichidagi Kolontitullar guruhi",
+      "D) Tahrir menyu"
+     ],
+     "TO'G'RI_JAVOB": "C) Joylashtirish menyu ichidagi Kolontitullar guruhi",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Matnning belgilangan qismiga qo'llanilayotgan formatlashlar 'shrift', 'abzas' va 'sahifa' ning qaysi-qaysilarini o'z ichiga oladi?",
+     "variantlar": [
+      "A) Faqat shriftni",
+      "B) Shrift, abzas va sahifani",
+      "C) Faqat abzasni",
+      "D) Shrift va abzasni"
+     ],
+     "TO'G'RI_JAVOB": "D) Shrift va abzasni",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "6-sinf",
+   "kitob": "6-sinf 6-Sinf Informatika (1)",
+   "mavzu": "Hujjatlarda rasmlar bilan ishlash",
+   "savollar": [
+    {
+     "savol": "Hujjatlarda rasmlar nima uchun foydalanadiladi?",
+     "variantlar": [
+      "A) Matn hajmini orttiriladi",
+      "B) Shrift turini o'zgartiradi",
+      "C) Ko'rgazmali, qiziqarli va tushunarli bo'lish uchun",
+      "D) Hujjatning o'lchami kichraytirladi"
+     ],
+     "TO'G'RI_JAVOB": "C) Ko'rgazmali, qiziqarli va tushunarli bo'lish uchun",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Hujjatlarga rasmlar joylashtirilishida qaysi tasmadan foydalaniladi?",
+     "variantlar": [
+      "A) Sahifa tasmasi",
+      "B) Ko'rish tasmasi",
+      "C) Muharrir tasmasi",
+      "D) Joylashtirish tasmasi"
+     ],
+     "TO'G'RI_JAVOB": "D) Joylashtirish tasmasi",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Word kolleksiyasidan rasm joylashtirish uchun qaysi tugma bosiladi?",
+     "variantlar": [
+      "A) Surat tugmasi",
+      "B) Fayl tugmasi",
+      "C) Media tugmasi",
+      "D) Rasm tugmasi"
+     ],
+     "TO'G'RI_JAVOB": "A) Surat tugmasi",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Rasm fayldan joylashtirish uchun Illustratsiyalar guruhining qaysi tugmasi ishlatiladi?",
+     "variantlar": [
+      "A) Media tugmasi",
+      "B) Surat tugmasi",
+      "C) Rasm tugmasi",
+      "D) Kolleksiya tugmasi"
+     ],
+     "TO'G'RI_JAVOB": "C) Rasm tugmasi",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "MS Word dasturida hujjatlarga rasmlar qancha manbadan joylashtiriladi?",
+     "variantlar": [
+      "A) Ikki manbadan",
+      "B) Uch manbadan",
+      "C) To'rt manbadan",
+      "D) Bitta manba"
+     ],
+     "TO'G'RI_JAVOB": "A) Ikki manbadan",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Rasm tanlanganida uning atrofi qanday ko'rinadi?",
+     "variantlar": [
+      "A) Rangga bo'yalgan ramka",
+      "B) Qora chiziq",
+      "C) Chiziq bilan o'ralgan to'g'ri to'rtburchak",
+      "D) Punktir chiziq"
+     ],
+     "TO'G'RI_JAVOB": "C) Chiziq bilan o'ralgan to'g'ri to'rtburchak",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Tanlanish rasm atrofidagi nuqtalar nima uchun kerak?",
+     "variantlar": [
+      "A) Rasmning rangini o'zgartirmish uchun",
+      "B) Rasmni o'chirmish uchun",
+      "C) Rasmni ko'chiritmish uchun",
+      "D) Rasm o'lchamini o'zgartirmish uchun"
+     ],
+     "TO'G'RI_JAVOB": "D) Rasm o'lchamini o'zgartirmish uchun",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Hujjatdagi rasmdan nusxa ko'chirish qanday amalga oshiriladi?",
+     "variantlar": [
+      "A) Belgilangan rasmlarni nusxalash kabi",
+      "B) Faqat kesib olish uchun",
+      "C) Rasm tugmasini bosilsa bo'ladi",
+      "D) Faqat Ctrl+X orqali"
+     ],
+     "TO'G'RI_JAVOB": "A) Belgilangan rasmlarni nusxalash kabi",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Rasm bilan ishlash kontekst-menyusi qancha mantiqiy guruhdan iborat?",
+     "variantlar": [
+      "A) To'rt guruh",
+      "B) Uch guruh",
+      "C) Ikki guruh",
+      "D) Besh guruh"
+     ],
+     "TO'G'RI_JAVOB": "A) To'rt guruh",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Matn orasida holatida rasm qanday joylashadi?",
+     "variantlar": [
+      "A) Matnning ajralmas qismi sifatida",
+      "B) Matnning oldida",
+      "C) Matnning orqasida",
+      "D) Sahifaning chegarasida"
+     ],
+     "TO'G'RI_JAVOB": "A) Matnning ajralmas qismi sifatida",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "MS Word dasturida hujjatga rasm joylashtirmish uchun qaysi ketma-ketlik to'g'ri?",
+     "variantlar": [
+      "A) Joyga o'rnat - Joylashtirish - Illustratsiyalar - Surat/Rasm",
+      "B) Rasm tanla - Joylashtirish - Illustratsiyalar - Surat",
+      "C) Surat - Joylashtirish - Illustratsiyalar - rasm tanla",
+      "D) Illustratsiyalar - Joylashtirish - Surat - rasm tanla"
+     ],
+     "TO'G'RI_JAVOB": "A) Joyga o'rnat - Joylashtirish - Illustratsiyalar - Surat/Rasm",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Vazifalar sohasida rasmlarni mavzu bo'yicha qidirmish uchun qaysi tanlov maydonchasi ishlatiladi?",
+     "variantlar": [
+      "A) Fayllarni qidirish",
+      "B) Obyektlarni qidirish",
+      "C) Rasmlar qidirish",
+      "D) Dastur qidirish"
+     ],
+     "TO'G'RI_JAVOB": "B) Obyektlarni qidirish",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Hujjatdagi rasm o'lchamlarini o'zgartirmish uchun qanday amallar bajariladi?",
+     "variantlar": [
+      "A) Faqat O'lcham guruhi orqali",
+      "B) Rasm tanla - atrofidagi nuqtalarga sichqoncha qo'yib, tomonga siljit",
+      "C) Joylashtirish menyu orqali",
+      "D) Faqat klaviatura orqali"
+     ],
+     "TO'G'RI_JAVOB": "B) Rasm tanla - atrofidagi nuqtalarga sichqoncha qo'yib, tomonga siljit",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "O'zgarishlar guruhida rasmning qaysi xususiyatlari o'zgartiriladi?",
+     "variantlar": [
+      "A) Sahifada joylashishi",
+      "B) Fon, rang, ravshanligi va to'yinganlik",
+      "C) Chegara va aks ettirish uslublari",
+      "D) Burish va akslantirish"
+     ],
+     "TO'G'RI_JAVOB": "B) Fon, rang, ravshanligi va to'yinganlik",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Rasmlar uslublari guruhida qanday o'zgartirishlar mumkin?",
+     "variantlar": [
+      "A) Rasm fonining rangi",
+      "B) Rasm burishi",
+      "C) Rasm chegara va aks ettirish uslublari",
+      "D) Rasm o'lchamlari"
+     ],
+     "TO'G'RI_JAVOB": "C) Rasm chegara va aks ettirish uslublari",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Quyidagilardan qaysi holatida rasm matnning ajralmas qismi bo'ladi?",
+     "variantlar": [
+      "A) Matn ramka atrofida",
+      "B) Matn orasida",
+      "C) Matn rasm konturi bo'ylab",
+      "D) Rasm matnning orqasida"
+     ],
+     "TO'G'RI_JAVOB": "B) Matn orasida",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Tartiblash guruhining asosiy vazifasi nima?",
+     "variantlar": [
+      "A) Rasmning rangini o'zgartirmish",
+      "B) Rasmdan nusxa ko'chiritmish",
+      "C) Rasmni sahifada matnga nisbatan bog'lanishini va joylashishini tanlash",
+      "D) Rasm o'lchamini o'zgartirmish"
+     ],
+     "TO'G'RI_JAVOB": "C) Rasmni sahifada matnga nisbatan bog'lanishini va joylashishini tanlash",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Rasm fayli tanlangandan keyin muloqot oynasida qanday tugmani bosish kerak?",
+     "variantlar": [
+      "A) Tanlash tugmasini",
+      "B) Bekor qilish tugmasini",
+      "C) Joylashtirilsin tugmasini",
+      "D) Yoping tugmasini"
+     ],
+     "TO'G'RI_JAVOB": "C) Joylashtirilsin tugmasini",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Kolleksiyadagi rasmlarni mavzular bo'yicha guruhlash nima uchun foydali?",
+     "variantlar": [
+      "A) Biror mavzu bo'yicha rasmlarni tezda izlash imkoniyatini bermish uchun",
+      "B) Rasmni o'chirmish uchun",
+      "C) Hujjat o'lchami kichik qilib tashlamish uchun",
+      "D) Rasmning rangini o'zgartirmish uchun"
+     ],
+     "TO'G'RI_JAVOB": "A) Biror mavzu bo'yicha rasmlarni tezda izlash imkoniyatini bermish uchun",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Rasmning sahifadagi turli holatlarini belgilash uchun Matn bilan uyg'unligi tugmasi qaysi guruhda joylashgan?",
+     "variantlar": [
+      "A) Rasmlar uslublari guruhi",
+      "B) Tartiblash guruhi",
+      "C) O'lcham guruhi",
+      "D) O'zgarishlar guruhi"
+     ],
+     "TO'G'RI_JAVOB": "B) Tartiblash guruhi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Agar hujjatda ko'p rasmlar va turli o'lchamlarda bo'lsa, va barchasi matn bilan mos tushishi kerak bo'lsa, qanday usulni qo'llash maqsadga muvofi?",
+     "variantlar": [
+      "A) Faqat Tartiblash guruhi ishlatamiz",
+      "B) Rasmlarni faqat kolleksiyadan olamiz",
+      "C) Har bir rasm uchun alohida O'lcham o'zgartirsh va Matn bilan uyg'unligi turini tanlash",
+      "D) Faqat O'zgarishlar guruhi ishlatamiz"
+     ],
+     "TO'G'RI_JAVOB": "C) Har bir rasm uchun alohida O'lcham o'zgartirsh va Matn bilan uyg'unligi turini tanlash",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Rasm matn bilan uyg'unlashtirilganda 'Matn rasm konturi bo'ylab' holatini tanlasak, rasm o'lchamini o'zgartirish qanday ta'sir ko'rsatadi?",
+     "variantlar": [
+      "A) Hech qanday ta'sir ko'rsatmaydi",
+      "B) Rasm o'chira bulib ketadi",
+      "C) Matn rasmning tagiga ko'chadi",
+      "D) Rasm chegaralari matnni tomonlardan ham o'raladi va matn konturga bo'ysunadi"
+     ],
+     "TO'G'RI_JAVOB": "D) Rasm chegaralari matnni tomonlardan ham o'raladi va matn konturga bo'ysunadi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Hujjatda rasm avval 'Rasm matn orasida' holatida joylashtirilgan bo'lib, keyin uni 'Matn ramka atrofida' holatiga o'tkazsak, rasm sahifada qanday harakat qiladi?",
+     "variantlar": [
+      "A) Hujjatdan o'chib ketadi",
+      "B) Matndan alohida bo'lib, sahifaning istalgan yeriga ko'chish imkoniyati paydo bo'ladi",
+      "C) O'z joyida qoladi",
+      "D) Matnning boshiga ko'chadi"
+     ],
+     "TO'G'RI_JAVOB": "B) Matndan alohida bo'lib, sahifaning istalgan yeriga ko'chish imkoniyati paydo bo'ladi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Tartiblash guruhida rasmni burish va akslantirish mumkinligi, rasmning matn bilan uyg'unlashiga qanday ta'sir ko'rsatadi?",
+     "variantlar": [
+      "A) Bog'lanmagan - istalgan holatda burish/akslantirish mumkin",
+      "B) Akslantirish faqat 'Rasm matnning oldida' holatida mumkin",
+      "C) 'Matn orasida' holatida ko'p cheklanadi, boshqa holatlarda rasmning turli yo'nalishdan qaralishi keng imkoniyatga ega",
+      "D) Faqat 'Rasm matn orasida' holatida mumkin"
+     ],
+     "TO'G'RI_JAVOB": "C) 'Matn orasida' holatida ko'p cheklanadi, boshqa holatlarda rasmning turli yo'nalishdan qaralishi keng imkoniyatga ega",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Agar hujjatda bir nechta rasm bo'lib, Tartiblash guruhining imkoniyatlari yordamida ularni birlashtirmish kerak bo'lsa, qanday natija hosil bo'ladi?",
+     "variantlar": [
+      "A) Faqat rasmlarning rangi o'zgaradi",
+      "B) Rasmlar o'chib ketadi",
+      "C) Rasmlar bir-biriga bog'lanib, ularning joylashishi va burishi birga o'zgaradi",
+      "D) Rasmlar avtomatik ravishda birlashib, bitta rasmga aylanadi"
+     ],
+     "TO'G'RI_JAVOB": "C) Rasmlar bir-biriga bog'lanib, ularning joylashishi va burishi birga o'zgaradi",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Kolleksiyadagi rasmlarni izayotganda, 'Kasb' mavzusi bo'yicha izlash uchun qanday qadamlar bajariladi?",
+     "variantlar": [
+      "A) 'Barcha multimedia fayllari' o'rniga 'Kasb' mavzusini Obyektlarni qidirish maydonchasi yordamida tanlash kerak",
+      "B) Word dasturini qayta o'rnatish kerak",
+      "C) Faqat rasm tugmasini bosish kerak",
+      "D) 'Barcha multimedia fayllari' tanlangan holatda qidirish yetarli"
+     ],
+     "TO'G'RI_JAVOB": "A) 'Barcha multimedia fayllari' o'rniga 'Kasb' mavzusini Obyektlarni qidirish maydonchasi yordamida tanlash kerak",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Rasm matnning 'Yuqorisida va quyisida' holatida rasm joyini boshqa joyga ko'chirganda, matn qanday o'zgaradi?",
+     "variantlar": [
+      "A) Matn rasmning yuqorisiga ko'chadi",
+      "B) Hech qanday o'zgarish bo'lmaydi",
+      "C) Matn rasmning yuqorida va quyida bo'lgan o'z joyiga qaytadi",
+      "D) Matn rasmni tomonlardan o'radi"
+     ],
+     "TO'G'RI_JAVOB": "C) Matn rasmning yuqorida va quyida bo'lgan o'z joyiga qaytadi",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Hujjatda rasm belgisi o'chir qilib tashlamsa, bu rasm 'Matn orasida' holatida edi. Undo (Ctrl+Z) tugmasini bostiganda, rasm qayda ko'rinadi?",
+     "variantlar": [
+      "A) 'Rasm matnning oldida' holatida",
+      "B) Tasodifiy holatda",
+      "C) Hujjatga qaytarmaydi",
+      "D) Faqat 'Matn orasida' holatida"
+     ],
+     "TO'G'RI_JAVOB": "D) Faqat 'Matn orasida' holatida",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "O'zgarishlar va Rasmlar uslublari guruhlari orqali rasm formatini to'liq o'zgartirganda (rang, chegara, fon), Tartiblash guruhi orqali matn bilan uyg'unlashtirilishi o'zgaradimi?",
+     "variantlar": [
+      "A) Ha, hamasi o'zgaradi",
+      "B) Faqat chegara o'zgarsa, uyg'unlanish o'zgaradi",
+      "C) Faqat rang o'zgarsa, uyg'unlanish o'zgaradi",
+      "D) Yo'q, Tartiblash guruhi o'zgarishlari mustaqil"
+     ],
+     "TO'G'RI_JAVOB": "D) Yo'q, Tartiblash guruhi o'zgarishlari mustaqil",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Hujjatda 3 ta rasm bor: birinchisi 'Matn orasida', ikkinchisi 'Matn ramka atrofida', uchinchisi 'Rasm matnning orqasida' holatida. Agar matn sichqoncha bilan ko'chirilsa, qaysi rasmlar matn bilan birga ko'chiriladi?",
+     "variantlar": [
+      "A) Faqat uchinchisi",
+      "B) Hammasi",
+      "C) Faqat birinchisi",
+      "D) Birinchi va ikkinchisi"
+     ],
+     "TO'G'RI_JAVOB": "B) Hammasi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "6-sinf",
+   "kitob": "6-sinf 6-Sinf Informatika (1)",
+   "mavzu": "Hujjatlarda shakllar va chizmalar",
+   "savollar": [
+    {
+     "savol": "Wordda shakllar chizish uchun qaysi tasmadan foydalaniladi?",
+     "variantlar": [
+      "A) Joylashtiirish",
+      "B) Shakllar",
+      "C) Ko'rina",
+      "D) Bosh sahifa"
+     ],
+     "TO'G'RI_JAVOB": "A) Joylashtiirish",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Wordda shakllar chizish uchun Joylashtiirish tasmasining qaysi guruhida Shakllar bo'limi joylashgan?",
+     "variantlar": [
+      "A) O'yin",
+      "B) Jadval",
+      "C) Format",
+      "D) Illustratsiyalar"
+     ],
+     "TO'G'RI_JAVOB": "D) Illustratsiyalar",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Wordda quyidagilarning qaysi biri shakl turi emas?",
+     "variantlar": [
+      "A) Sifat",
+      "B) Oy",
+      "C) Chiziq",
+      "D) To'g'ri to'rtburchak"
+     ],
+     "TO'G'RI_JAVOB": "A) Sifat",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Paint dasturi va Word dasturi uchun qaysi mulohaza to'g'ri?",
+     "variantlar": [
+      "A) Faqat Word shakl chizishi mumkin",
+      "B) Faqat Paint shakl chizishi mumkin",
+      "C) Ikkala dastur ham shakl chizishi mumkin",
+      "D) Hech biri shakl chizishi mumkin emas"
+     ],
+     "TO'G'RI_JAVOB": "C) Ikkala dastur ham shakl chizishi mumkin",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Wordda shakl chizilganda yoki belgilanganda qaysi kontekst-menyu faollashadi?",
+     "variantlar": [
+      "A) Jadval-Format",
+      "B) Chizish vositalari-Format",
+      "C) Bosh sahifa-Format",
+      "D) Ko'rina-Format"
+     ],
+     "TO'G'RI_JAVOB": "B) Chizish vositalari-Format",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Wordda Shakllar uslublari guruhi qaysi ishni bajaradi?",
+     "variantlar": [
+      "A) Faqat matnni bo'yaydi",
+      "B) Faqat chegarani bo'yaydi",
+      "C) Shakl va ichidagi matnning aks etish uslublarini o'zgartiradi",
+      "D) Shaklning o'lchamini o'zgartiradi"
+     ],
+     "TO'G'RI_JAVOB": "C) Shakl va ichidagi matnning aks etish uslublarini o'zgartiradi",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "WordArt uslublari guruhi qaysi maqsadda ishlatiladi?",
+     "variantlar": [
+      "A) Matnni manzarali rasm ko'rinishida aks ettirish",
+      "B) Rasim joylashtiirish",
+      "C) Chiziq chizish",
+      "D) Jadval yaratish"
+     ],
+     "TO'G'RI_JAVOB": "A) Matnni manzarali rasm ko'rinishida aks ettirish",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Shakl ichiga matnni yozish va uning yo'nalishini o'zgartirish uchun qaysi guruh ishlatiladi?",
+     "variantlar": [
+      "A) Shakllar uslublari",
+      "B) Shakl joylashtirish",
+      "C) Tartiblash",
+      "D) Matn (Текст)"
+     ],
+     "TO'G'RI_JAVOB": "D) Matn (Текст)",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Matnga shakl joylashtirish qanday qadamlarni o'z ichiga oladi?",
+     "variantlar": [
+      "A) Faqat sichqoncha tugmasini bosish",
+      "B) Faqat bo'yash",
+      "C) Faqat chizish",
+      "D) Shakl tanlash, chizish va formatini o'zgartirish"
+     ],
+     "TO'G'RI_JAVOB": "D) Shakl tanlash, chizish va formatini o'zgartirish",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Wordda shakl effektlarida Relyef (Рельеф) tugmasida Burchak ko'rinishi qaysi variantida mavjud?",
+     "variantlar": [
+      "A) Burchak",
+      "B) Og'ish",
+      "C) Ar deko",
+      "D) Yaltiratish"
+     ],
+     "TO'G'RI_JAVOB": "A) Burchak",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Sichqoncha ko'rsatkichi shakl chizishning boshi kerak bo'lgan nuqtaga yo'naltirilgach, chizishni boshlash uchun qaysi harakat qilinishi kerak?",
+     "variantlar": [
+      "A) Ctrl tugmasini bosish",
+      "B) Sichqoncha chap tugmasini bosib turish",
+      "C) Shift tugmasini bosish",
+      "D) Sichqoncha o'ng tugmasini bosish"
+     ],
+     "TO'G'RI_JAVOB": "B) Sichqoncha chap tugmasini bosib turish",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Shakl o'lchamini o'zgartirish uchun qaysi belgi ishlatiladi?",
+     "variantlar": [
+      "A) Qora romb markeri",
+      "B) Qizil romb markeri",
+      "C) Sariq romb markeri",
+      "D) Yashil romb markeri"
+     ],
+     "TO'G'RI_JAVOB": "C) Sariq romb markeri",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Shaklning kengligi va balandligini o'zgartirishda chapga va o'ngga siljitish qanday ta'sir ko'rsatadi?",
+     "variantlar": [
+      "A) Shaklning pozitsiyasini o'zgartiradi",
+      "B) Shaklning vertikal o'lchamini o'zgartiradi",
+      "C) Shaklning rangini o'zgartiradi",
+      "D) Shaklning gorizontal o'lchamini o'zgartiradi"
+     ],
+     "TO'G'RI_JAVOB": "D) Shaklning gorizontal o'lchamini o'zgartiradi",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Shakl ni qoplash (Заливка фигуры) tugmasi qaysi asosiy variantlarni taqdim etadi?",
+     "variantlar": [
+      "A) Faqat chiziqlar",
+      "B) Faqat rasm",
+      "C) Rang, Rasm, Tekstura va Gradiyent",
+      "D) Faqat rang"
+     ],
+     "TO'G'RI_JAVOB": "C) Rang, Rasm, Tekstura va Gradiyent",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Gradiyent (Градиентная) variantida Markazdan (Из центра) tugmasi qaysi effektni beradi?",
+     "variantlar": [
+      "A) Diagonali gradiyenti",
+      "B) Markazdan boshlab gradiyenti",
+      "C) Tekst gradiyenti",
+      "D) To'g'ri chiziq gradiyenti"
+     ],
+     "TO'G'RI_JAVOB": "B) Markazdan boshlab gradiyenti",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Tekstura bo'limi yordamida Suv tomchilari (Водяные капли) variantini tanlash qaysi shakl ni qoplash shaklini beradi?",
+     "variantlar": [
+      "A) Rasm to'ldirish",
+      "B) Rang to'ldirish",
+      "C) Gradiyent to'ldirish",
+      "D) Suvli cho'ziqlar to'ldirishi"
+     ],
+     "TO'G'RI_JAVOB": "D) Suvli cho'ziqlar to'ldirishi",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Uy chizmasini yaratishda birinchi qo'llanilgan asosiy shakllar qaysisi?",
+     "variantlar": [
+      "A) Uchburchak va yulduz",
+      "B) Chiziq va yulduz",
+      "C) To'g'ri to'rtburchak va uchburchak",
+      "D) Chiziq va oy"
+     ],
+     "TO'G'RI_JAVOB": "C) To'g'ri to'rtburchak va uchburchak",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "To'g'ri to'rtburchak va uchburchak shakllarni belgilashda bir vaqtning o'zida tanlash uchun qaysi klavish ishlatiladi?",
+     "variantlar": [
+      "A) Shift",
+      "B) Ctrl",
+      "C) Tab",
+      "D) Alt"
+     ],
+     "TO'G'RI_JAVOB": "A) Shift",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Shakllarni birlashtrish (guruhlash) uchun Guruhlash (Группировать) tugmasi qaysi guruhda joylashgan?",
+     "variantlar": [
+      "A) Shakl joylashtirish",
+      "B) Shakllar uslublari",
+      "C) Matn",
+      "D) Tartiblash"
+     ],
+     "TO'G'RI_JAVOB": "D) Tartiblash",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Shaklning ichiga rasim joylashtirilganda bu rasim qaysi tugma yordamida joylashtirilib?",
+     "variantlar": [
+      "A) WordArt uslublari",
+      "B) Shakl joylashtirish",
+      "C) Shakl ni qoplash yordamida Rasm variantini tanlash",
+      "D) Tartiblash"
+     ],
+     "TO'G'RI_JAVOB": "C) Shakl ni qoplash yordamida Rasm variantini tanlash",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Wordda Oy (Месяц) shaklining gorizontal o'lchamini 1-rasmi chapga siljitib kichraytirish uchun qaysi usul qo'llaniladi?",
+     "variantlar": [
+      "A) Shaklni to'liq o'chirish",
+      "B) Shaklning rangini o'zgartirish",
+      "C) Romb markerini chapga siljitish",
+      "D) Romb markerini o'ngga siljitish"
+     ],
+     "TO'G'RI_JAVOB": "C) Romb markerini chapga siljitish",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "To'g'ri to'rtburchak va uchburchak shakllarni yaxlit chizmalarga birlashtirishda Shift tugmasini bosgan holda tanlashdan keyin qaysi bosqich amalga oshirilishi kerak?",
+     "variantlar": [
+      "A) Shaklning rangini o'zgartirish",
+      "B) Shaklga rasm joylashtiirish",
+      "C) Tartiblash guruhidan Guruhlash tugmasini tanlash",
+      "D) Shaklni o'chirish"
+     ],
+     "TO'G'RI_JAVOB": "C) Tartiblash guruhidan Guruhlash tugmasini tanlash",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Shakllarni yaxlit chizmaga birlashtirishda shakllarning matnga nisbatan qaysi holatida bo'lishi to'g'ri?",
+     "variantlar": [
+      "A) Matn orasida bo'lmasligi shart",
+      "B) Faqat matn ostida",
+      "C) Faqat matn ustida",
+      "D) Matn orasida"
+     ],
+     "TO'G'RI_JAVOB": "A) Matn orasida bo'lmasligi shart",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Oy (Месяц) shaklining uchta nusxasiga turli shakl effektlari qo'llash uchun har bir nusxa bilan qanday harakat bajarilishi kerak?",
+     "variantlar": [
+      "A) Ikkala ko'zgu bo'lmasa, bittasini o'chirib tashlash",
+      "B) Har bir shaklni alohida tanlash va o'ziga xos effekt qo'llash",
+      "C) Faqat birinchi shaklga effekt qo'llash",
+      "D) Ikkala shaklni tanlash va bir vaqtning o'zida effekt qo'llash"
+     ],
+     "TO'G'RI_JAVOB": "B) Har bir shaklni alohida tanlash va o'ziga xos effekt qo'llash",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Wordda Ar deko (Ар деко) effektini 2-rasm Oy (Месяц) shaklining qaysi qismiga ko'rinib turadi?",
+     "variantlar": [
+      "A) Faqat chegarasiga",
+      "B) Shaklning butun ko'rinishiga",
+      "C) Faqat o'rta qismiga",
+      "D) Faqat chuqqasiga"
+     ],
+     "TO'G'RI_JAVOB": "B) Shaklning butun ko'rinishiga",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Og'ish (Наклон) effektini 3-rasm Oy (Месяц) shaklining teksturasiga (Suv tomchilari) birlashtirganda natija qanday bo'ladi?",
+     "variantlar": [
+      "A) Og'ib ketadi va suv tomchilari teksturasi qo'llaniladi",
+      "B) Faqat og'ib ketadi",
+      "C) Hech narsa o'zgarishi bo'lmaydi",
+      "D) Faqat tekstura qo'llaniladi"
+     ],
+     "TO'G'RI_JAVOB": "A) Og'ib ketadi va suv tomchilari teksturasi qo'llaniladi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Tartiblash (Упорядочить) guruhida Guruhlash (Группировать) tugmasini tanlashdan maqsad nima?",
+     "variantlar": [
+      "A) Shakllarni faqat bo'yash",
+      "B) Shakllarning o'lchamini o'zgartirish",
+      "C) Shakllarni o'chirish",
+      "D) Shakllarni yaxlit chizma sifatida birlashtirish"
+     ],
+     "TO'G'RI_JAVOB": "D) Shakllarni yaxlit chizma sifatida birlashtirish",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Paint dasturida chizilgan murakkab bo'lmagan chizmalarni Word dasturining Joylashtiirish tasmasidagi Shakllar bo'limi yordamida qayta chizishning afzalligi nima?",
+     "variantlar": [
+      "A) Faqat qora-oq shakllar chizish mumkin",
+      "B) Faqat tez chizish mumkin",
+      "C) Hujjatning o'zi bilan shakllar bilan ishlay olish va formatini Word imkoniyatlarida o'zgartirish",
+      "D) Faqat katta shakllar chizish mumkin"
+     ],
+     "TO'G'RI_JAVOB": "C) Hujjatning o'zi bilan shakllar bilan ishlay olish va formatini Word imkoniyatlarida o'zgartirish",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Hujjatda \"Uy\" chizmasi yaratilganda to'g'ri to'rtburchak va uchburchak shakllarning matnga nisbatan qaysi holati saqlanishi kerak edi?",
+     "variantlar": [
+      "A) Matn o'ng tomonida",
+      "B) Matn ostida",
+      "C) Matn orasida",
+      "D) Matn bilan birga"
+     ],
+     "TO'G'RI_JAVOB": "B) Matn ostida",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Shakl uslublari, Shakl effektlari, Shakl ni qoplash va Matn guruhlaridan foydalanib shakl va matnning to'la formatini o'zgartirishning ketma-ketligi qanday bo'lishi mumkin?",
+     "variantlar": [
+      "A) Faqat bir tartibda",
+      "B) Istalgan tartibda amalga oshirilishi mumkin",
+      "C) Istalgan tartibda, lekin shakl effektlari birinchi bo'lishi kerak",
+      "D) Faqat Matn guruhidan boshlanishi kerak"
+     ],
+     "TO'G'RI_JAVOB": "B) Istalgan tartibda amalga oshirilishi mumkin",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "6-sinf",
+   "kitob": "6-sinf 6-Sinf Informatika (1)",
+   "mavzu": "Jadvallar",
+   "savollar": [
+    {
+     "savol": "Jadvalning asosiy elementi nima?",
+     "variantlar": [
+      "A) ustun",
+      "B) satr",
+      "C) chega",
+      "D) katak"
+     ],
+     "TO'G'RI_JAVOB": "D) katak",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Ixtiyoriy jadval qanday elementlardan tashkil topan?",
+     "variantlar": [
+      "A) kataklardan va chegalardan",
+      "B) faqat satrlardan",
+      "C) faqat ustunlardan",
+      "D) satrlar va ustunlardan"
+     ],
+     "TO'G'RI_JAVOB": "D) satrlar va ustunlardan",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Katakka qanday ma'lumotlar joylashtirish mumkin?",
+     "variantlar": [
+      "A) matn va rasm",
+      "B) faqat jadval",
+      "C) faqat matn",
+      "D) faqat rasm"
+     ],
+     "TO'G'RI_JAVOB": "A) matn va rasm",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Wordda jadval joylashtirish uchun qaysi tasma ishlatiladi?",
+     "variantlar": [
+      "A) Joylashtirish",
+      "B) Maket",
+      "C) Ko'rinish",
+      "D) Bosh sahifa"
+     ],
+     "TO'G'RI_JAVOB": "A) Joylashtirish",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Jadval katagini o'z navbatida qanday deyish mumkin?",
+     "variantlar": [
+      "A) satr",
+      "B) blokka",
+      "C) mikrohujjat",
+      "D) o'lchami"
+     ],
+     "TO'G'RI_JAVOB": "C) mikrohujjat",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "3x4 jadvalda nechta katak bo'ladi?",
+     "variantlar": [
+      "A) 12",
+      "B) 4",
+      "C) 7",
+      "D) 3"
+     ],
+     "TO'G'RI_JAVOB": "A) 12",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Birinchi satrdagi katakchalarida odatda nima yoziladi?",
+     "variantlar": [
+      "A) sarlavhalar",
+      "B) ma'lumotlar",
+      "C) rasm",
+      "D) tartib raqamlari"
+     ],
+     "TO'G'RI_JAVOB": "A) sarlavhalar",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Birinchi ustunga odatda nima yoziladi?",
+     "variantlar": [
+      "A) rasm",
+      "B) sarlavha",
+      "C) tartib raqamlari",
+      "D) matn"
+     ],
+     "TO'G'RI_JAVOB": "C) tartib raqamlari",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Jadval ustunlarining kengligi qanday o'zgartiriladi?",
+     "variantlar": [
+      "A) Tab klavishi yordamida",
+      "B) Ctrl klavishi yordamida",
+      "C) sichqoncha ko'rsatkichi ustunlarning chegara chizig'iga olib kelganida",
+      "D) Enter klavishi yordamida"
+     ],
+     "TO'G'RI_JAVOB": "C) sichqoncha ko'rsatkichi ustunlarning chegara chizig'iga olib kelganida",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Jadvalda matn qanday yo'nalishlarda yozilishi mumkin?",
+     "variantlar": [
+      "A) faqat yuqoridan pastga",
+      "B) faqat chapdan o'ngga",
+      "C) diagonalda",
+      "D) gorizontal yoki vertikal"
+     ],
+     "TO'G'RI_JAVOB": "D) gorizontal yoki vertikal",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "4x5 jadvalda nechta katak bo'ladi?",
+     "variantlar": [
+      "A) 20",
+      "B) 9",
+      "C) 15",
+      "D) 25"
+     ],
+     "TO'G'RI_JAVOB": "A) 20",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Jadvalga satr qo'shish uchun qaysi tasma va guruh ishlatiladi?",
+     "variantlar": [
+      "A) Konstruktor > Jadval uslublari",
+      "B) Joylashtirish > Ozbargular",
+      "C) Maket > Satrlar va ustunlar",
+      "D) Bosh sahifa > Shriftlar"
+     ],
+     "TO'G'RI_JAVOB": "C) Maket > Satrlar va ustunlar",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Jadval kataklarini birlashtirish uchun qaysi guruh ishlatiladi?",
+     "variantlar": [
+      "A) Satrlar va ustunlar",
+      "B) Tekislash",
+      "C) Jadval uslublari",
+      "D) Birlashtirish"
+     ],
+     "TO'G'RI_JAVOB": "D) Birlashtirish",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Jadvaldan satr o'chirish uchun qaysi amallar ketma-ket bajariladi?",
+     "variantlar": [
+      "A) Satrni tanlash va Ctrl+V",
+      "B) Satrni tanlash va Ctrl+C",
+      "C) Satrni tanlash va O'chirilsin tugmasini bosish",
+      "D) Satrni bosib, sichqonchani sulsib o'chirish"
+     ],
+     "TO'G'RI_JAVOB": "C) Satrni tanlash va O'chirilsin tugmasini bosish",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Kataklarni birlashtirish uchun avval ular qanday olinishi kerak?",
+     "variantlar": [
+      "A) ustunlarni tanlash kerak",
+      "B) blokka olinishi kerak",
+      "C) satrlarga ayrish kerak",
+      "D) alohida-alohida"
+     ],
+     "TO'G'RI_JAVOB": "B) blokka olinishi kerak",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Kataklarni bo'lish uchun qaysi tugma tanlanadi?",
+     "variantlar": [
+      "A) Satrlar qo'shilsin",
+      "B) Kataklar birlashtirilsin",
+      "C) Kataklar bo'linsin",
+      "D) Ustunlar o'chirilsin"
+     ],
+     "TO'G'RI_JAVOB": "C) Kataklar bo'linsin",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Matn yo'nalishini o'zgartirish uchun qaysi guruh ishlatiladi?",
+     "variantlar": [
+      "A) Ma'lumotlar",
+      "B) Tekislash",
+      "C) Birlashtirish",
+      "D) Satrlar va ustunlar"
+     ],
+     "TO'G'RI_JAVOB": "B) Tekislash",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "2x3 jadval va 3x4 jadvalda jami nechta katak bo'ladi?",
+     "variantlar": [
+      "A) 24",
+      "B) 18",
+      "C) 12",
+      "D) 6"
+     ],
+     "TO'G'RI_JAVOB": "B) 18",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Jadvalga yangi ustun chapga qo'shish uchun qaysi tugma tanlanadi?",
+     "variantlar": [
+      "A) Pastga joylashtirilsin",
+      "B) Yuqoriga joylashtirilsin",
+      "C) O'ngga joylashtirilsin",
+      "D) Chapga joylashtirilsin"
+     ],
+     "TO'G'RI_JAVOB": "D) Chapga joylashtirilsin",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Jadval bilan ishlash kontekst-menyusi qaysi 2 ta tasmasi bilan bog'langan?",
+     "variantlar": [
+      "A) Konstruktor va Maket",
+      "B) Bosh sahifa va Maket",
+      "C) Maket va Ko'rinish",
+      "D) Bosh sahifa va Joylashtirish"
+     ],
+     "TO'G'RI_JAVOB": "A) Konstruktor va Maket",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "5x6 jadval hosil qilindi, keyin yuqoriga 2 ta satr qo'shildi. Endi nechta katak bo'ladi?",
+     "variantlar": [
+      "A) 40",
+      "B) 48",
+      "C) 38",
+      "D) 30"
+     ],
+     "TO'G'RI_JAVOB": "A) 40",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Jadvalda 8 ta satr va 3 ta ustun bo'lsa, keyin 2 ta satrni olib tashlay, nechta katak qoladi?",
+     "variantlar": [
+      "A) 18",
+      "B) 20",
+      "C) 24",
+      "D) 22"
+     ],
+     "TO'G'RI_JAVOB": "A) 18",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "6x4 jadvalning 2x3 shaklida kataklar birlashtiray, nechta katak qoladi?",
+     "variantlar": [
+      "A) 19",
+      "B) 24",
+      "C) 18",
+      "D) 20"
+     ],
+     "TO'G'RI_JAVOB": "A) 19",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "4x3 jadvalga 3 ta satr qo'shildi. Nechta katak bo'ladi?",
+     "variantlar": [
+      "A) 24",
+      "B) 20",
+      "C) 12",
+      "D) 18"
+     ],
+     "TO'G'RI_JAVOB": "A) 24",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Jadvalga sarlavha qo'shish uchun birinchi satriga yangi satr qo'shiladi. Agar asosiy jadval 5x4 bo'lsa, yangi jadval nechta katakka ega bo'ladi?",
+     "variantlar": [
+      "A) 25",
+      "B) 24",
+      "C) 20",
+      "D) 30"
+     ],
+     "TO'G'RI_JAVOB": "B) 24",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Birlashtirilishi mumkin bo'lgan kataklar to'g'ri to'rtburchak shaklida qanday olinishi kerak?",
+     "variantlar": [
+      "A) sichqoncha yordamida blokka olinishi kerak",
+      "B) Tab klavishi yordamida",
+      "C) avtomatik ravishda",
+      "D) alohida-alohida"
+     ],
+     "TO'G'RI_JAVOB": "A) sichqoncha yordamida blokka olinishi kerak",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "3 ta satrli va 4 ta ustunli jadvalga 2 ta ustun qo'shildi va 1 ta satr o'chirildi. Nechta katak qoladi?",
+     "variantlar": [
+      "A) 20",
+      "B) 24",
+      "C) 18",
+      "D) 12"
+     ],
+     "TO'G'RI_JAVOB": "D) 12",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Jadval kataklarini turli rangda bo'yash uchun qaysi tasma ishlatiladi?",
+     "variantlar": [
+      "A) Joylashtirish tasma",
+      "B) Maket tasma",
+      "C) Konstruktor tasma",
+      "D) Bosh sahifa tasma"
+     ],
+     "TO'G'RI_JAVOB": "C) Konstruktor tasma",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "2x5 jadvalga 3 ta satr qo'shildi, keyin 1 ta ustun o'chirildi. Nechta katak qoladi?",
+     "variantlar": [
+      "A) 20",
+      "B) 25",
+      "C) 10",
+      "D) 30"
+     ],
+     "TO'G'RI_JAVOB": "A) 20",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Jadvalning satrlar va ustunlarini dinamik o'zgartirishda Maket tasmasining qaysi guruhidan foydalaniladi?",
+     "variantlar": [
+      "A) Tekislash",
+      "B) Ma'lumotlar",
+      "C) Satrlar va ustunlar",
+      "D) Jadval uslublari"
+     ],
+     "TO'G'RI_JAVOB": "C) Satrlar va ustunlar",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "6-sinf",
+   "kitob": "6-sinf 6-Sinf Informatika (1)",
+   "mavzu": "WordART kolleksiyasi",
+   "savollar": [
+    {
+     "savol": "WordArt objekti qanday ko'rinishda bo'ladi?",
+     "variantlar": [
+      "A) Jadvalning bir turi",
+      "B) Biror shapka ko'rinishidagi data",
+      "C) Manzarali rasm ko'rinishidagi matn",
+      "D) Grafikaning nomdosh turi"
+     ],
+     "TO'G'RI_JAVOB": "C) Manzarali rasm ko'rinishidagi matn",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "WordArt yordamida qanday effektlarni qo'llash mumkin?",
+     "variantlar": [
+      "A) Faqat matnni qo'shish",
+      "B) Matnni og'dirish, cho'zish, biror shakl ko'rinishida joylashtirish yoki turli usullarda bo'yash",
+      "C) Matnni o'chib tashlash",
+      "D) Faqat shrift o'lcamini o'zgartirish"
+     ],
+     "TO'G'RI_JAVOB": "B) Matnni og'dirish, cho'zish, biror shakl ko'rinishida joylashtirish yoki turli usullarda bo'yash",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "WordArt ni joylashtirish uchun qayerga o'tish kerak?",
+     "variantlar": [
+      "A) Bosh tasmaga",
+      "B) Tahrir tasmasiga",
+      "C) Saqlash tasmasiga",
+      "D) Joylashtirish tasmasining Matn guruhi"
+     ],
+     "TO'G'RI_JAVOB": "D) Joylashtirish tasmasining Matn guruhi",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "WordArt objektini qayerga siljitish mumkin?",
+     "variantlar": [
+      "A) Faqat jadvalga",
+      "B) Hech yerga siljitish mumkin emas",
+      "C) Faqat bosh sahifaga",
+      "D) Matnning kerakli joyiga"
+     ],
+     "TO'G'RI_JAVOB": "D) Matnning kerakli joyiga",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "WordArt objektining o'lchamini o'zgartirish qanday yo'l bilan amalga oshiriladi?",
+     "variantlar": [
+      "A) Ctrl+Z tugmasi orqali",
+      "B) Shriftni tanlash orqali",
+      "C) Faqat 'Bossa' tugmasini bosish orqali",
+      "D) Siljitish yoki o'lchamlarini bevosita o'zgartirish orqali"
+     ],
+     "TO'G'RI_JAVOB": "D) Siljitish yoki o'lchamlarini bevosita o'zgartirish orqali",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Matn kiritish uchun qanday amalga oshiriladi?",
+     "variantlar": [
+      "A) Avtomatik ravishda belgilanadi",
+      "B) Faqat diktofon yordamida",
+      "C) Bo'yalib turgan matn maydoni o'rniga yangi matn kiritiladi",
+      "D) Faqat Shift tugmasi orqali"
+     ],
+     "TO'G'RI_JAVOB": "C) Bo'yalib turgan matn maydoni o'rniga yangi matn kiritiladi",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "WordArt formatiga formatlashlar qanday qo'llaniladi?",
+     "variantlar": [
+      "A) Maydon menyusi orqali",
+      "B) Ctrl kombinatsiyasi orqali",
+      "C) Faqat klaviatura kombinatsiyasi orqali",
+      "D) Chizish vositalari-Format kontekst-menyu tasmasining imkoniyatlari"
+     ],
+     "TO'G'RI_JAVOB": "D) Chizish vositalari-Format kontekst-menyu tasmasining imkoniyatlari",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Matn yo'nalishini qanday o'zgartirish mumkin?",
+     "variantlar": [
+      "A) Matn yo'nalishi formatlashi orqali",
+      "B) Faqat Shift tugmasi orqali",
+      "C) Faqat shumlata bilan",
+      "D) Qo'lda yozish orqali"
+     ],
+     "TO'G'RI_JAVOB": "A) Matn yo'nalishi formatlashi orqali",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Matn rangini o'zgartirish uchun qaysi formatlar ishlatiladi?",
+     "variantlar": [
+      "A) Aks etish shakli",
+      "B) Matn rangi",
+      "C) Bo'yash usuli",
+      "D) Kattalik o'lcham"
+     ],
+     "TO'G'RI_JAVOB": "B) Matn rangi",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "WordArt bo'yash usuli nimaga xizmat qiladi?",
+     "variantlar": [
+      "A) Matnning rangini o'zgartirish",
+      "B) Matnni o'chirib tashlash",
+      "C) Matnning shaklini bukmalar",
+      "D) Matn o'lchamini oshirish"
+     ],
+     "TO'G'RI_JAVOB": "A) Matnning rangini o'zgartirish",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "WordArt objekti yaratishni boshlash uchun birinchi qadamda qanday qilish kerak?",
+     "variantlar": [
+      "A) Ranguoq usulini tanlash",
+      "B) Matnni yozib, keyin WordArt tugmasini bosish",
+      "C) Formatlarni tanlash",
+      "D) Joylashtirish tasmasining Matn guruhi (WordArt) tugmasini bosish"
+     ],
+     "TO'G'RI_JAVOB": "D) Joylashtirish tasmasining Matn guruhi (WordArt) tugmasini bosish",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "WordArt uslublari ro'yxatidan uslub tanlagandan keyin, qanday ko'rinishda oyna ko'rinadi?",
+     "variantlar": [
+      "A) Matn kiritish uchun maydoni",
+      "B) Rasm yuklanish uchun",
+      "C) Jadval yaratish uchun",
+      "D) Filtrlashni qo'llash uchun"
+     ],
+     "TO'G'RI_JAVOB": "A) Matn kiritish uchun maydoni",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Aks etish shakli o'zgartirish uchun qaysi tasmasiga o'tish kerak?",
+     "variantlar": [
+      "A) Joylashtirish tasmasiga",
+      "B) Chizish vositalari-Format tasmasining WordArt uslublari guruhiga",
+      "C) Tahrir tasmasiga",
+      "D) Sahifani ranglashtirish menyusiga"
+     ],
+     "TO'G'RI_JAVOB": "B) Chizish vositalari-Format tasmasining WordArt uslublari guruhiga",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Halqa shakli tanlab olingandan keyin, objektni kattalashtirish uchun qanday qilish kerak?",
+     "variantlar": [
+      "A) Darhol saqlash",
+      "B) Formatlarni tanlash",
+      "C) O'lchamlarini oshirish",
+      "D) Qayqoq ishora bilan drag qilish"
+     ],
+     "TO'G'RI_JAVOB": "C) O'lchamlarini oshirish",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "WordArt objektiga e'tiborni jalb etish uchun qanday usullar mavjud?",
+     "variantlar": [
+      "A) Faqat shumlata bilan",
+      "B) Faqat harakat o'tishi",
+      "C) Faqat xat yozish",
+      "D) Siljitish yoki o'lchamlarini o'zgartirish"
+     ],
+     "TO'G'RI_JAVOB": "D) Siljitish yoki o'lchamlarini o'zgartirish",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Matnni og'dirish va cho'zish effektlarini qo'llash qayerida amalga oshiriladi?",
+     "variantlar": [
+      "A) Format menyusida",
+      "B) Chizish vositalari-Format tasmasida",
+      "C) Joylashtirish tasmasida",
+      "D) Tahrir tasmasida"
+     ],
+     "TO'G'RI_JAVOB": "B) Chizish vositalari-Format tasmasida",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Bo'yalib turgan matn maydoni o'rniga yangi matn kiritish uchun birinchi narsani qanday qilish kerak?",
+     "variantlar": [
+      "A) Yangi matn kiritish uchun maydonda bosish",
+      "B) Satrni o'chirib tashlash",
+      "C) Backspace tugmasi bosish",
+      "D) Ctrl+A tugmasi bosish"
+     ],
+     "TO'G'RI_JAVOB": "A) Yangi matn kiritish uchun maydonda bosish",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "WordArt matnini ranglab va shakl ko'rinishida joylashtirish uchun qaysi jarayonda qadamni bajarish kerak?",
+     "variantlar": [
+      "A) Asosiy amallardan keyin",
+      "B) Faqat 1-qadamda",
+      "C) Istalgan vaqtda",
+      "D) Faqat 2-qadamda"
+     ],
+     "TO'G'RI_JAVOB": "C) Istalgan vaqtda",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Gradientnaya заливка – черная, konturu – белый, seni snaruzi ifodasiga asoslanib, bu nimaning ta'riyi?",
+     "variantlar": [
+      "A) Shumlata parametrlari",
+      "B) Sahifa ranglashtirishi",
+      "C) Jadval rasmlanishi",
+      "D) WordArt bo'yash usuli va uslubi"
+     ],
+     "TO'G'RI_JAVOB": "D) WordArt bo'yash usuli va uslubi",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Matn o'lcamini o'zgartirish uchun Chizish vositalari-Format tasmasida qaysi guruha o'tish kerak?",
+     "variantlar": [
+      "A) Matn guruhi",
+      "B) Bo'yash guruhi",
+      "C) WordArt uslublari guruhi",
+      "D) Animatsiya guruhi"
+     ],
+     "TO'G'RI_JAVOB": "A) Matn guruhi",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Agar siz WordArt bilan 'O'zbekiston marhamat!' matnli obyekt yaratib, uni Halqa shaklida aks etib, keyin o'lchamlarini kattalashtirsangiz, jami nechta asosiy operatsiya bajara bo'lasiz?",
+     "variantlar": [
+      "A) 1 ta",
+      "B) 2 ta",
+      "C) 3 ta",
+      "D) 4 ta"
+     ],
+     "TO'G'RI_JAVOB": "C) 3 ta",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "WordArt uslublari guruhi imkoniyatlarini foydalanib bir-biriga o'xshamagan bir necha WordArt yaratmoqchi bo'lsangiz, qanday formatlar kombinatsiyasini qo'llashingiz kerak?",
+     "variantlar": [
+      "A) Matn yo'nalishi, o'lcam, rangi, bo'yash usuli va aks etish shakli kombinatsiyalari",
+      "B) Faqat Matn yo'nalishi",
+      "C) Faqat bo'yash usuli",
+      "D) Faqat Animatsiya guruhi"
+     ],
+     "TO'G'RI_JAVOB": "A) Matn yo'nalishi, o'lcam, rangi, bo'yash usuli va aks etish shakli kombinatsiyalari",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "WordArt bilan matning aks etish shaklini o'zgartirish uchun to'g'ri ketma-ketlik qaysi?",
+     "variantlar": [
+      "A) Tahrir → Format → WordArt",
+      "B) Faqat WordArt tugmasini bosish",
+      "C) Joylashtirish → Matn → WordArt",
+      "D) Chizish vositalari-Format → WordArt uslublari → Animatsiya → O'zgartirilsin → Halqa"
+     ],
+     "TO'G'RI_JAVOB": "D) Chizish vositalari-Format → WordArt uslublari → Animatsiya → O'zgartirilsin → Halqa",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "WordArt objektiga bir qancha formatlar qo'llanganidan keyin, uni boshqa joyga siljitsangiz, barcha formatlar saqlanib qoladimi?",
+     "variantlar": [
+      "A) Faqat o'lcam saqlanib qoladi",
+      "B) Faqat rangi saqlanib qoladi",
+      "C) Ha, barcha formatlar saqlanib qoladi",
+      "D) Yo'q, formatlar yo'qoladi"
+     ],
+     "TO'G'RI_JAVOB": "C) Ha, barcha formatlar saqlanib qoladi",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "'Maktabimiz faxrimiz!' matnli WordArt yaratib, uni Halqa shaklida joylashtirdiysiz. Keyin o'lcamlarini kattalashtirib, rangini o'zgartirsangiz, bu jarayonda nechta asosiy operatsiya bajara bo'lasiz?",
+     "variantlar": [
+      "A) 5 ta",
+      "B) 4 ta",
+      "C) 2 ta",
+      "D) 3 ta"
+     ],
+     "TO'G'RI_JAVOB": "D) 3 ta",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "WordArt bilan turli matnlar bilan 3 xil uslub tanlasangiz va har biriga turli formatlar (matn yo'nalishi, rangi, o'lcami, bo'yash) qo'llasangiz, jami nechta formatlar kombinatsiyasini qo'llash kerak?",
+     "variantlar": [
+      "A) 3 ta formatning 4 xil kombinatsiyasi",
+      "B) 4 ta formatning 1 xil kombinatsiyasi",
+      "C) 2 ta formatning 3 xil kombinatsiyasi",
+      "D) 4 ta formatning 3 xil kombinatsiyasi"
+     ],
+     "TO'G'RI_JAVOB": "D) 4 ta formatning 3 xil kombinatsiyasi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Agar WordArt yo'nalishi gorizontal bo'lgan matn yaratib, keyin uni vertikal qilmoqchi bo'lsangiz, qaysi formatlar qo'llanishi kerak?",
+     "variantlar": [
+      "A) Matn rangini o'zgartirish",
+      "B) Aks etish shaklini tanlash",
+      "C) Matn yo'nalishi formatini o'zgartirish",
+      "D) Bo'yash usulin tanlash"
+     ],
+     "TO'G'RI_JAVOB": "C) Matn yo'nalishi formatini o'zgartirish",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "'Ona vatan O'zbekistonim! Yashna O'zbekiston!' matni WordArt da ishlatilgan. Bu matnni boshqa matn bilan almashtirilganda, qaysi formatlar o'chib ketadi?",
+     "variantlar": [
+      "A) Barcha formatlar o'chib ketadi",
+      "B) Faqat rangi o'chib ketadi",
+      "C) Faqat o'lcami o'chib ketadi",
+      "D) Hech qanday format o'chib ketmaydi, faqat matn o'zgaradi"
+     ],
+     "TO'G'RI_JAVOB": "D) Hech qanday format o'chib ketmaydi, faqat matn o'zgaradi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "WordArt objektini Gradientnaya заливка – черная, konturu – белый, seni snaruzi usulida bo'yasangiz va keyin Halqa shaklini tanlab, o'lcamlarini oshirsangiz, bo'yash usuli qo'llanilib qoladimi?",
+     "variantlar": [
+      "A) Faqat teni qoladi",
+      "B) Faqat kontori qoladi",
+      "C) Yo'q, bo'yash usuli yo'qoladi",
+      "D) Ha, bo'yash usuli qolib qoladi"
+     ],
+     "TO'G'RI_JAVOB": "D) Ha, bo'yash usuli qolib qoladi",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "WordArt bilan yaratilgan matnni turli formatlardan foydalanib (matn yo'nalishi, rangi, o'lcam, bo'yash usuli va aks etish shakli) jami 5 ta nusxasini turli usullarda tayyorlasangiz, siz qancha marta 'Joylashtirish → WordArt' jarayonini takrorlashingiz kerak?",
+     "variantlar": [
+      "A) 3 marta",
+      "B) 1 marta",
+      "C) 5 marta",
+      "D) 2 marta"
+     ],
+     "TO'G'RI_JAVOB": "C) 5 marta",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "6-sinf",
+   "kitob": "6-sinf 6-Sinf Informatika (1)",
+   "mavzu": "Wordda formulalar yozish",
+   "savollar": [
+    {
+     "savol": "Word dasturida formulalar yozish uchun qanday imkoniyatdan foydalaniladi?",
+     "variantlar": [
+      "A) Word dasturining formulalar muharriri imkoniyati",
+      "B) Tasma",
+      "C) Menyu",
+      "D) Simvollar guruh"
+     ],
+     "TO'G'RI_JAVOB": "A) Word dasturining formulalar muharriri imkoniyati",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Formulalar muharririni ishga tushirish uchun qaysi tugmani bosish kerak?",
+     "variantlar": [
+      "A) Formula tugmasi",
+      "B) Sarlavha tugmasi",
+      "C) Joylashtirish tugmasi",
+      "D) Konstruktor tugmasi"
+     ],
+     "TO'G'RI_JAVOB": "A) Formula tugmasi",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Word dasturida formula muharriri nima?",
+     "variantlar": [
+      "A) Formulalarni yozish va tahrirlash uchun maxsus imkoniyat",
+      "B) Jadval yaratish uchun asbob",
+      "C) Matn muharriri",
+      "D) Shakl yozish uchun imkoniyat"
+     ],
+     "TO'G'RI_JAVOB": "A) Formulalarni yozish va tahrirlash uchun maxsus imkoniyat",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Formulalar muharrijidan chiqish uchun nima qilish kerak?",
+     "variantlar": [
+      "A) Sichqoncha ko'rsatkichini bo'sh joyga olib kelib, chap tugmasi bir marta bosish",
+      "B) Delete tugmasini bosish",
+      "C) Shift tugmasini bosish",
+      "D) Escape tugmasini bosish"
+     ],
+     "TO'G'RI_JAVOB": "A) Sichqoncha ko'rsatkichini bo'sh joyga olib kelib, chap tugmasi bir marta bosish",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Formulalar muharrijining Simvollar guruhi nima uchun ishlatiladi?",
+     "variantlar": [
+      "A) Munosabat belgilari, kasrlar, radikallar va boshqa belgilari yozish uchun",
+      "B) Kasrlar yozish uchun",
+      "C) Radikallar yozish uchun",
+      "D) Munosabat belgilari yozish uchun"
+     ],
+     "TO'G'RI_JAVOB": "A) Munosabat belgilari, kasrlar, radikallar va boshqa belgilari yozish uchun",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Formulalar muharrijida munosabat belgilari qaysi guruhi ichiga kiradi?",
+     "variantlar": [
+      "A) Strukturalar",
+      "B) Yangi",
+      "C) Konstruktor",
+      "D) Simvollar"
+     ],
+     "TO'G'RI_JAVOB": "D) Simvollar",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Formulada xatolik bo'lsa, uni tuzatish uchun nima qilish kerak?",
+     "variantlar": [
+      "A) Formulani nusxa ko'chirish",
+      "B) Formula o'chirib, yangisini yozish",
+      "C) Hujjatni saqlash",
+      "D) Sichqoncha ko'rsatkichini formulaga olib kelib, chap tugmasi bosish"
+     ],
+     "TO'G'RI_JAVOB": "D) Sichqoncha ko'rsatkichini formulaga olib kelib, chap tugmasi bosish",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Matndagi formulani tahrirlash uchun nima kerak?",
+     "variantlar": [
+      "A) Faqat sichqonchani ishlatish",
+      "B) Hammasi yuqoridagi usullarni ishlatish",
+      "C) Yo'nalish klavishlari ishlatish",
+      "D) Yurgichni formula lavhasi ichiga joylash"
+     ],
+     "TO'G'RI_JAVOB": "B) Hammasi yuqoridagi usullarni ishlatish",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Word dasturining qaysi menyu qismiga Formula tugmasi joylashgan?",
+     "variantlar": [
+      "A) O'zgarish menyu",
+      "B) Yosh menyu",
+      "C) Joylashtirish menyu",
+      "D) Asosiy menyu"
+     ],
+     "TO'G'RI_JAVOB": "C) Joylashtirish menyu",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Formulalar muharrijida formulani yozish uchun birinchi nima qilish kerak?",
+     "variantlar": [
+      "A) Jadval yaratish",
+      "B) Sarlavha yozish",
+      "C) Formulalar muharrijini ochish",
+      "D) Yurgichni formula joylashtirilishi lozim bo'lgan satrga o'rnatish"
+     ],
+     "TO'G'RI_JAVOB": "D) Yurgichni formula joylashtirilishi lozim bo'lgan satrga o'rnatish",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Word dasturida murakkab formulalar yozish uchun qaysi imkoniyatdan foydalaniladi?",
+     "variantlar": [
+      "A) Shakllar",
+      "B) Jadvallar",
+      "C) Sodda belgilar",
+      "D) Formulalar muharriji"
+     ],
+     "TO'G'RI_JAVOB": "D) Formulalar muharriji",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Formula lavhasiga kiritilgan yurgich bilan harakatlanish uchun qanday usullardan foydalanish mumkin?",
+     "variantlar": [
+      "A) Qiziqta tugmalar",
+      "B) Faqat yo'nalish klavishlari",
+      "C) Faqat sichqoncha",
+      "D) Sichqoncha yoki yo'nalish klavishlari"
+     ],
+     "TO'G'RI_JAVOB": "D) Sichqoncha yoki yo'nalish klavishlari",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Formulalar muharrijini ishga tushirgandan so'ng, menyular satrida nima ko'rinadi?",
+     "variantlar": [
+      "A) Yangi tasma",
+      "B) Formula bilan ishlash-Konstruktor kontekst-menyusi va unga mos tasma",
+      "C) Joylashtirish tasma",
+      "D) Bosh tasma"
+     ],
+     "TO'G'RI_JAVOB": "B) Formula bilan ishlash-Konstruktor kontekst-menyusi va unga mos tasma",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Matndagi sodda formulalar yozish uchun qanday usullardan foydalanish mumkin?",
+     "variantlar": [
+      "A) Faqat tastaturada yozish",
+      "B) Jadvallar",
+      "C) Faqat formulalar muharriji",
+      "D) Maxsus belgilar joylashtirish va formatlash imkoniyatlari"
+     ],
+     "TO'G'RI_JAVOB": "D) Maxsus belgilar joylashtirish va formatlash imkoniyatlari",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Formuladagi xatoni tuzatish jarayonida yurgichni kerakli joyga joylash uchun qanday usul ishlatiladi?",
+     "variantlar": [
+      "A) Faqat sichqoncha",
+      "B) Sarlavha o'zgartirish",
+      "C) Faqat yo'nalish klavishlari",
+      "D) Sichqoncha yoki yo'nalish klavishlari"
+     ],
+     "TO'G'RI_JAVOB": "D) Sichqoncha yoki yo'nalish klavishlari",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Formulalar muharrijining imkoniyatlari necha guruhdan iborat?",
+     "variantlar": [
+      "A) 3 ta",
+      "B) 5 ta",
+      "C) 2 ta",
+      "D) Bir necha"
+     ],
+     "TO'G'RI_JAVOB": "D) Bir necha",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Formulalar muharrijida kasrlar va radikallar belgilari qaysi guruhi ichiga kiradi?",
+     "variantlar": [
+      "A) Yangi",
+      "B) Konstruktor",
+      "C) Simvollar",
+      "D) Strukturalar"
+     ],
+     "TO'G'RI_JAVOB": "D) Strukturalar",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Word dasturida formulalar yozish uchun asosiy imkoniyat qanday nomlanadi?",
+     "variantlar": [
+      "A) Jadval",
+      "B) Sarlavhalar",
+      "C) Formulalar muharriji",
+      "D) Shakllar"
+     ],
+     "TO'G'RI_JAVOB": "C) Formulalar muharriji",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Formulalar muharrijining Strukturalar guruhi qanday belgilarni o'z ichiga oladi?",
+     "variantlar": [
+      "A) Faqat simvollar",
+      "B) Kasrlar, radikallar, qavslar shablonlari va boshqa belgilar",
+      "C) Munosabat belgilari",
+      "D) Faqat qavslar"
+     ],
+     "TO'G'RI_JAVOB": "B) Kasrlar, radikallar, qavslar shablonlari va boshqa belgilar",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Formulalar muharrijida bir necha qadamli formula yozish uchun qanday bosqichlar bo'lishi kerak?",
+     "variantlar": [
+      "A) Formulani ochish, kerakli belgilarni tanlash, kiritish",
+      "B) Formulani ochib, belgilar tanlab, yurgichni bilan harakatlanib kiritish",
+      "C) Faqat belgilar tanlab, kiritish",
+      "D) Hujjatni saqlash"
+     ],
+     "TO'G'RI_JAVOB": "B) Formulani ochib, belgilar tanlab, yurgichni bilan harakatlanib kiritish",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Word dasturida murakkab formulalarni yozish uchun qaysi imkoniyatlardan foydalanish kerak?",
+     "variantlar": [
+      "A) Faqat jadvallar",
+      "B) Faqat shakllar",
+      "C) Formulalar muharriji va uning guruhlari (Simvollar, Strukturalar)",
+      "D) Sodda belgilar va simvollar"
+     ],
+     "TO'G'RI_JAVOB": "C) Formulalar muharriji va uning guruhlari (Simvollar, Strukturalar)",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Formulada xatolik bo'lsa va uni tuzatish kerak bo'lsa, qanday tartibi asosida amalga oshiriladi?",
+     "variantlar": [
+      "A) Formulani o'chirish, yangi yozish",
+      "B) Javob faylini qayta saqlash",
+      "C) Formulaga bosish, formulani tahrirlashni boshlash, xatoni tuzatish",
+      "D) Hujjatni qayta ochish"
+     ],
+     "TO'G'RI_JAVOB": "C) Formulaga bosish, formulani tahrirlashni boshlash, xatoni tuzatish",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Formulalar muharriji imkoniyatlarining ko'pligi nima sababdan?",
+     "variantlar": [
+      "A) Faqat qaysidur bitta tizim",
+      "B) Tasmalardagi tugmalar soni",
+      "C) Bir necha guruhlarga bo'linishi va har bir guruh ayrivaldicha belgilarni saqlashi",
+      "D) Menyular soni"
+     ],
+     "TO'G'RI_JAVOB": "C) Bir necha guruhlarga bo'linishi va har bir guruh ayrivaldicha belgilarni saqlashi",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Matndagi formulani o'zgartirishda yurgichni joylashturish uchun qanday usul eng samarali?",
+     "variantlar": [
+      "A) Faqat sichqoncha bilan",
+      "B) Sichqoncha yoki yo'nalish klavishlari kombinatsiyasi",
+      "C) Shift tugmasi",
+      "D) Faqat klaviatura bilan"
+     ],
+     "TO'G'RI_JAVOB": "B) Sichqoncha yoki yo'nalish klavishlari kombinatsiyasi",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Formulalar muharrijida radikallar belgilarini yozish uchun qaysi guruhdan foydalanish kerak?",
+     "variantlar": [
+      "A) Strukturalar guruhi",
+      "B) Simvollar guruhi",
+      "C) Yangi guruh",
+      "D) Konstruktor guruhi"
+     ],
+     "TO'G'RI_JAVOB": "A) Strukturalar guruhi",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Word dasturida sodda va murakkab formulalarni yozish uchun qanday farq bor?",
+     "variantlar": [
+      "A) Soddalari uchun belgilar va formatlash, murakkab uchun formulalar muharriji zarur",
+      "B) Sodda formulalarni nusxa ko'chirish kerak",
+      "C) Murakkab formulalarni o'chirish oson",
+      "D) Farqi yo'q"
+     ],
+     "TO'G'RI_JAVOB": "A) Soddalari uchun belgilar va formatlash, murakkab uchun formulalar muharriji zarur",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Formulalar muharrijida formulani tahrirlashda yurgichni joyida saqlash va harakatlantirish uchun qanday texnika ishlatiladi?",
+     "variantlar": [
+      "A) Yo'nalish klavishlari va sichqoncha yordamida",
+      "B) Yo'nalish klavishlari yordamida",
+      "C) Sichqoncha yordamida",
+      "D) Shift+Tab bosish"
+     ],
+     "TO'G'RI_JAVOB": "A) Yo'nalish klavishlari va sichqoncha yordamida",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Word dasturida formula lavhasiga kiritilgan yurgichni saqlash va harakat qilish uchun qanday usullar mavjud?",
+     "variantlar": [
+      "A) Yo'nalish klavishlari va sichqoncha yordamida",
+      "B) Delete tugmasi",
+      "C) Faqat yo'nalish klavishlari",
+      "D) Faqat sichqoncha"
+     ],
+     "TO'G'RI_JAVOB": "A) Yo'nalish klavishlari va sichqoncha yordamida",
+     "togri": 0,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Formulalar muharrijida murakkab formulalarni yozish uchun bir necha guruhlarda joylashgan belgilardan foydalanish kerak bo'ladi, bu nima uchun muhim?",
+     "variantlar": [
+      "A) Sarlavhalarni boshqarish uchun",
+      "B) Matnni juda uzun qilish uchun",
+      "C) Turli ko'rinishdagi formulalarni to'liq va to'g'ri yozish uchun",
+      "D) Faqat jadvallarni yaratish uchun"
+     ],
+     "TO'G'RI_JAVOB": "C) Turli ko'rinishdagi formulalarni to'liq va to'g'ri yozish uchun",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  },
+  {
+   "sinf": "6-sinf",
+   "kitob": "6-sinf 6-Sinf Informatika (1)",
+   "mavzu": "Wordda hujjatni chop etish",
+   "savollar": [
+    {
+     "savol": "Wordda hujjatni chop etish uchun qaysi menyudan foydalaniladi?",
+     "variantlar": [
+      "A) Fayl menyusi",
+      "B) Vositalar menyusi",
+      "C) Tahrir menyusi",
+      "D) Koʻrish menyusi"
+     ],
+     "TO'G'RI_JAVOB": "A) Fayl menyusi",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Chop etish lavhasining asosiy bandlari qaysi uchta band bilan boshlanadi?",
+     "variantlar": [
+      "A) Masshtab, Qamrov, Chop etish",
+      "B) Fayl, Tahrir, Koʻrish",
+      "C) Formatlab, Joylash, Rasm",
+      "D) Printer, Sahifalar, Nusxalar"
+     ],
+     "TO'G'RI_JAVOB": "D) Printer, Sahifalar, Nusxalar",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "«Barchasi» koʻrsatmasi tanlansa, qanday natija boʻladi?",
+     "variantlar": [
+      "A) Faqat birinchi sahifa chop etiladi",
+      "B) Belgilangan qism chop etiladi",
+      "C) Hujjatning barcha sahifasi toʻligʻicha chop etiladi",
+      "D) Faqat joriy sahifa chop etiladi"
+     ],
+     "TO'G'RI_JAVOB": "C) Hujjatning barcha sahifasi toʻligʻicha chop etiladi",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "«Joriy» koʻrsatmasida qaysi sahifa chop etiladi?",
+     "variantlar": [
+      "A) Birinchi sahifa",
+      "B) Belgilangan sahifa",
+      "C) Oxirgi sahifa",
+      "D) Yurgich turgan sahifa"
+     ],
+     "TO'G'RI_JAVOB": "D) Yurgich turgan sahifa",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Nusxalar bandida qanday asosiy koʻrsatmalar mavjud?",
+     "variantlar": [
+      "A) Faqat raqam",
+      "B) Raqam va ajratish",
+      "C) Raqam va vaqti",
+      "D) Raqam va tartibi"
+     ],
+     "TO'G'RI_JAVOB": "B) Raqam va ajratish",
+     "togri": 1,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Masshtab bandida qanday oʻzgarish beriladi?",
+     "variantlar": [
+      "A) Qogʻozning bir tomoniga nechta sahifa",
+      "B) Nusxalar soni",
+      "C) Chop etish vaqti",
+      "D) Sahifalar soni"
+     ],
+     "TO'G'RI_JAVOB": "A) Qogʻozning bir tomoniga nechta sahifa",
+     "togri": 0,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Qamrov bandida qanday koʻrsatmalar takliflashtiriladi?",
+     "variantlar": [
+      "A) Birlamchi, Ikkilamchi, Uchinchi",
+      "B) Sadd, Oʻz, Yoʻq",
+      "C) 1, 2, 3, 4",
+      "D) Barcha, Toq, Juft"
+     ],
+     "TO'G'RI_JAVOB": "D) Barcha, Toq, Juft",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Printer bandida qanday asosiy element joylashgan?",
+     "variantlar": [
+      "A) Fayl roʻyxati",
+      "B) Kalkalyator",
+      "C) Printer haqida maʼlumot va Xususiyatlar tugmasi",
+      "D) Jadval"
+     ],
+     "TO'G'RI_JAVOB": "C) Printer haqida maʼlumot va Xususiyatlar tugmasi",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "«Ajratilgan qism» koʻrsatmasini qachon ishlatish mumkin?",
+     "variantlar": [
+      "A) Hech vaqt",
+      "B) Hujjat boʻylab",
+      "C) Doim",
+      "D) Matn belgilangandagina"
+     ],
+     "TO'G'RI_JAVOB": "D) Matn belgilangandagina",
+     "togri": 3,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Hujjatni kitob shaklida chop etish uchun qaysi xususiyat kerak?",
+     "variantlar": [
+      "A) Qamrov",
+      "B) Masshtab",
+      "C) Yakuniy ishlov",
+      "D) Sahifalar"
+     ],
+     "TO'G'RI_JAVOB": "C) Yakuniy ishlov",
+     "togri": 2,
+     "qiyinlik": "oson"
+    },
+    {
+     "savol": "Agar 1, 3, 5–12 raqamlari yozilsa, qanday sahifalar chop etiladi?",
+     "variantlar": [
+      "A) Faqat 1, 3, 12",
+      "B) Boshqa sahifalar",
+      "C) Birinchi, uchinchi, 5-12 sahifalar",
+      "D) 1 dan 12 gacha hammasini"
+     ],
+     "TO'G'RI_JAVOB": "C) Birinchi, uchinchi, 5-12 sahifalar",
+     "togri": 2,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "«Nusxalar boʻyicha ajratish» belgilangan boʻlsa, qay tartibda chop etiladi?",
+     "variantlar": [
+      "A) Tasodifiy tartibda",
+      "B) Birinchi nusxa, soʻng ikkinchi, uchinchi",
+      "C) Aralashtirib",
+      "D) Birinchi sahifa 3 nusxada"
+     ],
+     "TO'G'RI_JAVOB": "B) Birinchi nusxa, soʻng ikkinchi, uchinchi",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Ajratish belgilanmagan boʻlsa, nusxalar qay tartibda chop etiladi?",
+     "variantlar": [
+      "A) Oxirgi sahifadan boshlansa",
+      "B) Birinchi sahifa 3 nusxada, soʻng ikkinchi sahifa 3 nusxada",
+      "C) Tasodifiy",
+      "D) Har nusxa alohida chop etiladi"
+     ],
+     "TO'G'RI_JAVOB": "B) Birinchi sahifa 3 nusxada, soʻng ikkinchi sahifa 3 nusxada",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "4 sahifani bir qogʻozga chop etish uchun Masshtab bandida nima tanlanadi?",
+     "variantlar": [
+      "A) 4 sahifa",
+      "B) 2 sahifa",
+      "C) 1 sahifa",
+      "D) 8 sahifa"
+     ],
+     "TO'G'RI_JAVOB": "A) 4 sahifa",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Faqat toq tartib raqamli sahifalarni chop etish uchun Qamrov bandida nima tanlash kerak?",
+     "variantlar": [
+      "A) Barcha",
+      "B) Toq tartib raqamli",
+      "C) Juft tartib raqamli",
+      "D) Belgilangan"
+     ],
+     "TO'G'RI_JAVOB": "B) Toq tartib raqamli",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "«Ikkala tomoniga chop etish» xususiyati qaysi boʻlimda joylashgan?",
+     "variantlar": [
+      "A) Qamrov bandida",
+      "B) Printer bandida",
+      "C) Masshtab bandida",
+      "D) Hujjat parametrlari bandida"
+     ],
+     "TO'G'RI_JAVOB": "D) Hujjat parametrlari bandida",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "«Chap tomondan muqovalash» buklet maketida nima anglatadi?",
+     "variantlar": [
+      "A) Chap tomoni bukletning muqovasi",
+      "B) Faqat oʻng sahifa",
+      "C) Oʻngdan muqovalash",
+      "D) Tekislash"
+     ],
+     "TO'G'RI_JAVOB": "A) Chap tomoni bukletning muqovasi",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Kitob shakliga chop etishda birinchi bosqichda nima chop etiladi?",
+     "variantlar": [
+      "A) Yarmi qogʻozning bir tomoniga",
+      "B) Barcha sahifalar",
+      "C) Muqova",
+      "D) Oxirgi sahifa"
+     ],
+     "TO'G'RI_JAVOB": "A) Yarmi qogʻozning bir tomoniga",
+     "togri": 0,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Kitobcha hosil qilish uchun qogʻozlarni qanday amalga oshirish kerak?",
+     "variantlar": [
+      "A) Ochib",
+      "B) Qayta printerga joylashib",
+      "C) Kesib",
+      "D) Yoqib"
+     ],
+     "TO'G'RI_JAVOB": "B) Qayta printerga joylashib",
+     "togri": 1,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "Belgilangan matn uchun qaysi koʻrsatmani tanlash kerak?",
+     "variantlar": [
+      "A) Joriy",
+      "B) Barchasi",
+      "C) Tartib raqami",
+      "D) Ajratilgan qism"
+     ],
+     "TO'G'RI_JAVOB": "D) Ajratilgan qism",
+     "togri": 3,
+     "qiyinlik": "o'rtacha"
+    },
+    {
+     "savol": "10 sahifalik hujjatning 2, 4, 6, 8, 10-sahifalarini chop etish uchun Tartib raqami oynasiga nima yozasiz?",
+     "variantlar": [
+      "A) 2-10",
+      "B) Joriy",
+      "C) Barcha",
+      "D) 2, 4, 6, 8, 10"
+     ],
+     "TO'G'RI_JAVOB": "D) 2, 4, 6, 8, 10",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "5 sahifalik hujjatni 3 nusxada, ajratish belgilangan holda chop etsa, jami nechta sahifa chop etiladi?",
+     "variantlar": [
+      "A) 10 ta",
+      "B) 15 ta",
+      "C) 5 ta",
+      "D) 25 ta"
+     ],
+     "TO'G'RI_JAVOB": "B) 15 ta",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "5 sahifalik hujjatni 3 nusxada, ajratish belgilanmagan holda chop etsa, jami nechta sahifa chop etiladi?",
+     "variantlar": [
+      "A) 10 ta",
+      "B) 15 ta",
+      "C) 30 ta",
+      "D) 5 ta"
+     ],
+     "TO'G'RI_JAVOB": "B) 15 ta",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "8 sahifali hujjatni 2 qogʻozga chop etish uchun Masshtab bandida nima tanlanadi?",
+     "variantlar": [
+      "A) 8 sahifa",
+      "B) 4 sahifa",
+      "C) 1 sahifa",
+      "D) 2 sahifa"
+     ],
+     "TO'G'RI_JAVOB": "B) 4 sahifa",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Nusxalar boʻyicha ajratish belgilansa, qaysi nusxadan boshlanadi?",
+     "variantlar": [
+      "A) Oʻrtasidan",
+      "B) Tasodifiy nusxadan",
+      "C) Birinchi nusxadan",
+      "D) Oxirgi nusxadan"
+     ],
+     "TO'G'RI_JAVOB": "C) Birinchi nusxadan",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Matn belgilanmagan boʻlsa, Ajratilgan qism koʻrsatmasini tanlash mumkinmi?",
+     "variantlar": [
+      "A) Ha, agar printer bor boʻlsa",
+      "B) Ha, rasm bor boʻlsa",
+      "C) Ha, doim",
+      "D) Yoʻq, faqat matn belgilangan boʻlsa"
+     ],
+     "TO'G'RI_JAVOB": "D) Yoʻq, faqat matn belgilangan boʻlsa",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Printerlarning xususiyatlari turli-tuman boʻlishining sababi nima?",
+     "variantlar": [
+      "A) Printerlar kichik",
+      "B) Printerlar kuʻp",
+      "C) Printerlar qimmat",
+      "D) Printerning turi boʻyicha xususiyatlar har xil"
+     ],
+     "TO'G'RI_JAVOB": "D) Printerning turi boʻyicha xususiyatlar har xil",
+     "togri": 3,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Buklet yoki kitobcha shaklida chop etishdan oldin qanday sozlanadi?",
+     "variantlar": [
+      "A) Shrift tanlab",
+      "B) Ikkala tomoniga chop etish va muqovalash",
+      "C) Rasm joylash",
+      "D) Rang oʻzgartirish"
+     ],
+     "TO'G'RI_JAVOB": "B) Ikkala tomoniga chop etish va muqovalash",
+     "togri": 1,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "HP LaserJet 1300 da kitob shak li chop etish uchun qaysi boʻlimga kiriladi?",
+     "variantlar": [
+      "A) Qamrov",
+      "B) Sahifalar",
+      "C) Yakuniy ishlov",
+      "D) Masshtab"
+     ],
+     "TO'G'RI_JAVOB": "C) Yakuniy ishlov",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    },
+    {
+     "savol": "Hujjat parametrlari bandida kitob shaklida chop etish uchun qanday koʻrsatma tanlanadi?",
+     "variantlar": [
+      "A) Ikkinchi tomoniga",
+      "B) Birinchi tomoniga",
+      "C) Ikkala tomoniga",
+      "D) Oʻngga"
+     ],
+     "TO'G'RI_JAVOB": "C) Ikkala tomoniga",
+     "togri": 2,
+     "qiyinlik": "qiyin"
+    }
+   ]
+  }
+ ]
+}
