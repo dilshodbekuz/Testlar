@@ -1,0 +1,337 @@
+{
+ "sinf": "3-sinf",
+ "kitob": "3-sinf 3-Sinf Musiqa",
+ "mavzu": "Pauzalar",
+ "savollar": [
+  {
+   "savol": "Pauza nima?",
+   "variantlar": [
+    "Tovushning to'xtashi yoki tinishi",
+    "Notaning nomi",
+    "Tovushning balandligi",
+    "Kuyning boshlanishi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Pauzalardan qachon foydalaniladi?",
+   "variantlar": [
+    "Qo'shiq yoki kuyning biron yerida tovush to'xtashi zarur bo'lganda",
+    "Kuyni tezlashtirishda",
+    "Qo'shiq boshlanganda",
+    "Nota balandligini oshirishda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Notalar cho'zimi qanday bo'ladi?",
+   "variantlar": [
+    "Doim bir xil",
+    "Faqat qisqa",
+    "Faqat uzun",
+    "Har xil"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Pauzalar cho'zimi haqida matnda nima deyilgan?",
+   "variantlar": [
+    "Pauzalar faqat qisqa bo'ladi",
+    "Pauzalar doim bir xil cho'zimda bo'ladi",
+    "Pauzalar ham har xil cho'zimda bo'ladi",
+    "Pauzalarning cho'zimi yo'q"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Butun pauza nimaga teng?",
+   "variantlar": [
+    "Chorak notaga",
+    "Sakkizdan bir notaga",
+    "Butun notaga",
+    "Yarim notaga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yarimtalik pauza nimaga teng?",
+   "variantlar": [
+    "Chorak notaga",
+    "Yarimtalik notaga",
+    "Butun notaga",
+    "Ikki butun notaga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Pauza boshqacha qanday ataladi?",
+   "variantlar": [
+    "Tinish belgisi",
+    "Kalit belgisi",
+    "Ohang belgisi",
+    "Takt chizig'i"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda qaysi ikki xil pauza haqida ma'lumot berilgan?",
+   "variantlar": [
+    "Butun va chorak pauza",
+    "Chorak va sakkizlik pauza",
+    "Yarimtalik va sakkizlik pauza",
+    "Butun va yarimtalik pauza"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Pauza vaqtida nima yuz beradi?",
+   "variantlar": [
+    "Tovush tezlashadi",
+    "Tovush balandlashadi",
+    "Tovush pastlashadi",
+    "Tovush to'xtaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mashqda qaysi pauzalarga rioya qilish so'ralgan?",
+   "variantlar": [
+    "Yarimtalik pauzalarga",
+    "Butun pauzalarga",
+    "Chorak pauzalarga",
+    "Sakkizlik pauzalarga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mashqda yarimtalik pauzaga rioya qilib sanashda qanday hisoblanadi?",
+   "variantlar": [
+    "Bir, ikki, uch, to'rt",
+    "Bir, ikki, uch",
+    "Bir, ikki",
+    "Bir, ikki, uch, to'rt, besh"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mashqda nechta nota nomi ishlatilgan?",
+   "variantlar": [
+    "7 ta",
+    "5 ta",
+    "8 ta",
+    "6 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mashqdagi notalar qanday tartibda berilgan?",
+   "variantlar": [
+    "re, mi, fa, sol, lya, si, do",
+    "si, lya, sol, fa, mi, re, do",
+    "do, mi, sol, si, re, fa, lya",
+    "do, re, mi, fa, sol, lya, si"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Butun pauza bilan yarimtalik pauza orasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Cho'zim muddatida",
+    "Tovush balandligida",
+    "Kuy tezligida",
+    "Nota nomida"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar notaning cho'zimi uzaytirilsa, unga mos pauza cho'zimi qanday bo'ladi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Yo'qoladi",
+    "U ham uzayadi",
+    "U qisqaradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mashqni aytishda o'quvchi nimaga amal qilishi kerak?",
+   "variantlar": [
+    "Notalarni tushirib qoldirish",
+    "Yarimtalik pauzalarga rioya qilish",
+    "Tezroq aytish",
+    "Ovozni balandlashtirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matn bo'yicha pauza yozilishi uchun nima ishlatiladi?",
+   "variantlar": [
+    "Kalit belgisi",
+    "Takt chizig'i",
+    "Nota belgisi",
+    "Maxsus tinish belgisi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matndagi sanashga ko'ra, yarimtalik pauza necha hisobga to'g'ri keladi?",
+   "variantlar": [
+    "Uch hisobga",
+    "Bir hisobga",
+    "Ikki hisobga",
+    "To'rt hisobga"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnda 'bir, ikki, uch, to'rt' sanog'i necha marta takrorlangan?",
+   "variantlar": [
+    "Bir marta",
+    "To'rt marta",
+    "Uch marta",
+    "Ikki marta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mashqdagi oxirgi nota qaysi?",
+   "variantlar": [
+    "Si",
+    "Sol",
+    "Lya",
+    "Do"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar yarimtalik pauza 4 hisobga teng bo'lsa, butun pauza necha hisobga teng bo'ladi?",
+   "variantlar": [
+    "4 hisobga",
+    "8 hisobga",
+    "16 hisobga",
+    "2 hisobga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Butun pauza yarimtalik pauzadan necha marta uzoq cho'ziladi?",
+   "variantlar": [
+    "3 marta",
+    "4 marta",
+    "Teng cho'ziladi",
+    "2 marta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mashqda 7 ta nota bor. Agar har bir notadan keyin bittadan yarimtalik pauza qilinsa, jami nechta pauza kerak bo'ladi?",
+   "variantlar": [
+    "6 ta",
+    "7 ta",
+    "5 ta",
+    "8 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar yarimtalik pauza 2 soniya cho'zilsa, shu nisbatda butun pauza necha soniya cho'ziladi?",
+   "variantlar": [
+    "6 soniya",
+    "8 soniya",
+    "2 soniya",
+    "4 soniya"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Pauzalar va notalar o'rtasidagi umumiy qonuniyat nimada?",
+   "variantlar": [
+    "Ikkisi doim bir xil cho'zimda bo'ladi",
+    "Notalar faqat pauzalardan qisqa bo'ladi",
+    "Pauzalar faqat notalardan qisqa bo'ladi",
+    "Ikkisining ham cho'zimi har xil bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matn mazmuniga ko'ra, pauzalar musiqada nima uchun zarur?",
+   "variantlar": [
+    "Kuyda tovush to'xtashi kerak bo'lgan joylarni ifodalash uchun",
+    "Notalarni almashtirish uchun",
+    "Kuyni tezlashtirish uchun",
+    "Ovoz balandligini oshirish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mashqdagi 7 ta notadan har biri aytilgandan keyin 'bir, ikki, uch, to'rt' deb sanalsa, jami nechta son aytiladi?",
+   "variantlar": [
+    "28 ta",
+    "7 ta",
+    "21 ta",
+    "14 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yarimtalik pauzaga rioya qilib mashq aytilganda, har bir notadan so'ng necha marta sanaladi?",
+   "variantlar": [
+    "Uch marta",
+    "To'rt marta",
+    "Bir marta",
+    "Ikki marta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Butun va yarimtalik pauzalarning umumiy xususiyati nima?",
+   "variantlar": [
+    "Ikkisi ham kuyni tezlashtiradi",
+    "Ikkisi ham notalarni almashtiradi",
+    "Ikkisi ham tovushni balandlashtiradi",
+    "Ikkisi ham mos notaga teng cho'zimda tovushni to'xtatadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar o'quvchi mashqni yarimtalik pauza o'rniga butun pauza bilan aytsa, tovush to'xtash vaqtida qanday farq yuzaga keladi?",
+   "variantlar": [
+    "Hech qanday farq bo'lmaydi",
+    "Pauza vaqti ikki marta uzunroq bo'ladi",
+    "Notalar o'zgaradi",
+    "Kuy tezlashadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}
