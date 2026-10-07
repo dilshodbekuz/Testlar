@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Fizika",
+ "mavzu": "Energiya va ish. Energiyaning saqlanish qonuni",
+ "savollar": [
+  {
+   "savol": "\"Energiya\" so'zi qaysi tildan olingan?",
+   "variantlar": [
+    "grekcha",
+    "inglizcha",
+    "lotincha",
+    "arabcha"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mexanik ish qanday formula bilan ifodalanadi?",
+   "variantlar": [
+    "A = F·s·cosα",
+    "A = F + s",
+    "A = F/s",
+    "A = F·s²"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishning SI dagi birligi qanday ataladi?",
+   "variantlar": [
+    "Nyuton",
+    "Vatt",
+    "Joul",
+    "Paskal"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qanday shartda kuchning bajargan ishi musbat bo'ladi?",
+   "variantlar": [
+    "α > 90° bo'lganda",
+    "α < 90° bo'lganda",
+    "α = 90° bo'lganda",
+    "kuch nolga teng bo'lganda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qanday shartda kuchning bajargan ishi manfiy bo'ladi?",
+   "variantlar": [
+    "α = 90°",
+    "α > 90°",
+    "α = 0°",
+    "α < 90°"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kuch ko'chish yo'nalishiga tik (perpendikulyar) bo'lganda bajarilgan ish qanday bo'ladi?",
+   "variantlar": [
+    "nolga teng",
+    "musbat",
+    "manfiy",
+    "cheksiz"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Og'irlik kuchi ta'sirida bajarilgan ish asosan nimaga bog'liq?",
+   "variantlar": [
+    "harakat tezligiga",
+    "vaqtga",
+    "tushish balandligiga",
+    "trayektoriya shakliga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Potensial (konservativ) kuch deb qanday kuchga aytiladi?",
+   "variantlar": [
+    "ishi faqat yo'l shakliga bog'liq bo'lgan kuch",
+    "ishqalanish kuchi",
+    "ishi boshlang'ich va oxirgi holatga bog'liq, yo'l shakliga bog'liq bo'lmagan kuch",
+    "doim manfiy ish bajaradigan kuch"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sistemaning to'la mexanik energiyasi deb nimaga aytiladi?",
+   "variantlar": [
+    "faqat kinetik energiyaga",
+    "kinetik va potensial energiyalar yig'indisiga",
+    "faqat potensial energiyaga",
+    "ish va quvvat yig'indisiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "FIK (foydali ish koeffitsiyenti) deb nimaga aytiladi?",
+   "variantlar": [
+    "foydali ishning to'la ishga nisbatiga",
+    "foydali ish va to'la ish yig'indisiga",
+    "foydali ish va to'la ish ko'paytmasiga",
+    "to'la ishning foydali ishga nisbatiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ish additiv kattalik ekanligi nimani bildiradi?",
+   "variantlar": [
+    "ish doimo o'zgarmas kattalik ekanligini",
+    "ish manfiy bo'la olmasligini",
+    "umumiy ish tashkil etuvchi ishlar yig'indisiga teng ekanligini",
+    "ish faqat bir kuch tomonidan bajarilishini"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 Joul necha N·m ga teng?",
+   "variantlar": [
+    "100 N·m",
+    "0,1 N·m",
+    "10 N·m",
+    "1 N·m"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jism og'irlik kuchi ta'sirida ko'chib, yana boshlang'ich holatiga qaytganda umumiy ish nechaga teng bo'ladi?",
+   "variantlar": [
+    "ikki marta ortadi",
+    "musbat bo'ladi",
+    "manfiy bo'ladi",
+    "nolga teng bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mexanikaning \"oltin qoidasi\"ga ko'ra nima to'g'ri?",
+   "variantlar": [
+    "ish doim ikki marta ortadi",
+    "FIK doim 100% ga teng bo'ladi",
+    "kuch va yo'l bir vaqtda ortadi",
+    "kuchdan necha marta yutilsa, yo'ldan shuncha marta yutqiziladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qiya tekislik yordamida yukni ko'tarishda bajariladigan ish haqida qanday xulosa to'g'ri?",
+   "variantlar": [
+    "qiya tekislikda ish ikki marta ortadi",
+    "qiya tekislikda ish har doim nolga teng bo'ladi",
+    "qiya tekislik ishdan yutuq beradi, ya'ni kamroq ish bajariladi",
+    "qiya tekislik ishdan yutuq bermaydi, bajarilgan ish o'zgarmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "FIK qiymati qaysi chegarada bo'lishi mumkin?",
+   "variantlar": [
+    "manfiy bo'lishi mumkin",
+    "har doim aynan 100% ga teng",
+    "0% dan 200% gacha",
+    "0% dan 100% gacha, lekin 100% dan oshmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun mashina va dvigatellarning FIK ko'rsatkichi har doim 100% dan kichik bo'ladi?",
+   "variantlar": [
+    "chunki ishqalanish kuchi tufayli energiyaning bir qismi isrof bo'ladi",
+    "chunki kinetik energiya doim nolga teng bo'ladi",
+    "chunki potensial energiya hisobga olinmaydi",
+    "chunki energiya yo'qdan paydo bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jism pastga harakatlanganda og'irlik kuchining bajargan ishi qanday belgiga ega bo'ladi?",
+   "variantlar": [
+    "musbat",
+    "nolga teng",
+    "manfiy",
+    "belgisi aniqlanmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Energiya saqlanish qonuni fizikada yana qanday nomlanadi?",
+   "variantlar": [
+    "Arximed qonuni",
+    "impuls saqlanish qonuni",
+    "energiyaning saqlanish va aylanish qonuni",
+    "Nyutonning uchinchi qonuni"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qiya tekislikda ishqalanish kuchi hisobga olinmaganda, yukni h balandlikka ko'tarishda bajarilgan ish qanday ifodalanadi?",
+   "variantlar": [
+    "As = mgl",
+    "As = mg·ctgα",
+    "As = mg/h",
+    "As = mgh"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qiyalik burchagini kamaytirib yukni ko'tarish uchun sarflanadigan kuch kamayadi, biroq ko'chish masofasi ortadi. Bu holat nimani ko'rsatadi?",
+   "variantlar": [
+    "ish kamayadi",
+    "ish ortadi",
+    "kuch va yo'l orasida bog'lanish yo'q",
+    "bajarilgan ish o'zgarmay qoladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishqalanish kuchi hisobga olingan holda qiya tekislikda bajarilgan to'la ish (A_t) qanday kattaliklarga bog'liq?",
+   "variantlar": [
+    "massa, balandlik, ishqalanish koeffitsiyenti va qiyalik burchagiga",
+    "faqat qiyalik uzunligiga",
+    "faqat jism massasi va balandlikka",
+    "faqat ishqalanish koeffitsiyentiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yer sirtidan h balandlikdagi B nuqtadan h2 balandlikdagi C nuqtaga o'tishda og'irlik kuchining bajargan ishi qanday hosil bo'ladi?",
+   "variantlar": [
+    "A = mgh·h2",
+    "A = mg(h + h2)",
+    "A = mg(h - h2)",
+    "A = mgh2 - mgh"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Energiyaning saqlanish qonuni qaysi sistemalar uchun o'rinli?",
+   "variantlar": [
+    "faqat makroskopik jismlar uchun",
+    "ham makroskopik, ham mikrojismlar sistemasi uchun",
+    "faqat mikrojismlar uchun",
+    "faqat yopiq bo'lmagan sistemalar uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Energiya saqlanish qonuniga \"saqlanish va aylanish qonuni\" deb nom berilishining sababi nimada?",
+   "variantlar": [
+    "energiya hech qachon bir turdan boshqasiga aylanmaydi",
+    "energiya faqat yopiq sistemada mavjud bo'ladi",
+    "energiya faqat yo'qoladi",
+    "tabiatda energiyaning bir turdan boshqa turga aylanishi mumkin, lekin umumiy miqdori saqlanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qiya tekislikda ishqalanish mavjud bo'lganda FIK formulasi asosan qaysi kattalikka teskari proporsional bog'liqlikda bo'ladi?",
+   "variantlar": [
+    "jism massasiga",
+    "balandlikka",
+    "ishqalanish koeffitsiyentiga",
+    "erkin tushish tezlanishiga"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jismga bir nechta kuch ta'sir etayotganda, bu kuchlarning umumiy bajargan ishi qanday aniqlanadi?",
+   "variantlar": [
+    "faqat teng ta'sir etuvchi kuch ishiga teng, boshqa kuchlar hisobga olinmaydi",
+    "kuchlar ishlarining ko'paytmasiga teng",
+    "kuchlar ichidan eng kattasining ishiga teng",
+    "har bir kuch bajargan ishlarning yig'indisiga teng"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ishqalanish koeffitsiyenti (μ) ortishi qiya tekislikdagi FIK qiymatiga qanday ta'sir qiladi?",
+   "variantlar": [
+    "FIK kamayadi",
+    "FIK o'zgarmaydi",
+    "FIK 100% ga teng bo'lib qoladi",
+    "FIK ortadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qiyalik burchagi α kichraysa (tekislik deyarli gorizontal bo'lib qolsa), ctgα qanday o'zgaradi va bu ishqalanish ishiga qanday ta'sir qiladi?",
+   "variantlar": [
+    "ctgα ortadi, ishqalanish ishi ortadi",
+    "ctgα nolga teng bo'lib qoladi",
+    "ctgα kamayadi, ishqalanish ishi kamayadi",
+    "ctgα o'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qiya tekislikda yukka ta'sir etadigan tortish kuchi formulasi asosan qaysi kattaliklar orasidagi bog'lanishni ifodalaydi?",
+   "variantlar": [
+    "faqat jism massasi va erkin tushish tezlanishi orasidagi bog'lanishni",
+    "jismning og'irligi, ishqalanish koeffitsiyenti va qiyalik burchagi orasidagi bog'lanishni",
+    "faqat qiyalik uzunligi va balandligini",
+    "faqat ko'chish va vaqt orasidagi bog'lanishni"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

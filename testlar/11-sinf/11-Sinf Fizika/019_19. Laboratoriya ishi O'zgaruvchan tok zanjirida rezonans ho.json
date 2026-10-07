@@ -1,0 +1,326 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Fizika",
+ "mavzu": "19. Laboratoriya ishi: O'zgaruvchan tok zanjirida rezonans hodisasini o'rganish",
+ "savollar": [
+  {
+   "savol": "Ushbu laboratoriya ishining maqsadi nima?",
+   "variantlar": [
+    "Kondensatorning sig'imini o'lchash",
+    "O'zgarmas tok zanjirida Om qonunini tekshirish",
+    "O'zgaruvchan tok zanjirida kuchlanishlar rezonansi hodisasini o'rganish",
+    "G'altakning aktiv qarshiligini aniqlash"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kuchlanishlar rezonansida qaysi tenglik bajariladi?",
+   "variantlar": [
+    "ωL = 1/(ωC)",
+    "ωL = ωC",
+    "ωL = R",
+    "ωC = R"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rezonans paytida o'zgaruvchan tokning amplitudaviy qiymati va umumiy kuchlanish amplitudasi qanday tebranadi?",
+   "variantlar": [
+    "Faza farqi doimiy o'zgarib turadi",
+    "Bir xil fazada",
+    "π/2 faza farqi bilan",
+    "Qarama-qarshi fazada"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Radiopriyomniklarda rezonans hodisasidan nima uchun foydalaniladi?",
+   "variantlar": [
+    "Tok kuchini kamaytirish uchun",
+    "Kondensatorni zaryadlash uchun",
+    "Kerakli radiostansiya signalini ajratib olish uchun",
+    "Zanjirni elektr teshilishidan saqlash uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rezonans paytida g'altak yoki kondensatorda kuchlanishning ortib ketishi nimaga olib kelishi mumkin?",
+   "variantlar": [
+    "Elektr teshilishiga (proboyga)",
+    "Aktiv qarshilikning yo'qolishiga",
+    "Tokning to'xtashiga",
+    "Chastotaning kamayishiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Laboratoriya ishida ishlatiladigan ferromagnit o'zakli induktiv g'altakning induktivligi qancha?",
+   "variantlar": [
+    "100 mH",
+    "1 H",
+    "10 mH",
+    "1 mH"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishda kondensatorlar batareyasining sig'imi qaysi qiymatgacha o'zgaradi?",
+   "variantlar": [
+    "100 μF",
+    "1 μF",
+    "10 μF",
+    "1 mF"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Multimetrlar kondensator va g'altakka qanday ulanadi?",
+   "variantlar": [
+    "Faqat generatorga",
+    "Aralash",
+    "Parallel",
+    "Ketma-ket"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tajribaning boshida tovush generatori chiqishida qanday chastota va kuchlanish o'rnatiladi?",
+   "variantlar": [
+    "50 Hz va 20 V",
+    "10 Hz va 100 V",
+    "100 Hz va 20 V",
+    "100 Hz va 10 V"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aktiv qarshilikning katta qiymatlarida rezonans hodisasi qanday kuzatiladi?",
+   "variantlar": [
+    "Faqat kondensatorda kuzatiladi",
+    "Eng yaqqol kuzatiladi",
+    "Faqat g'altakda kuzatiladi",
+    "Amalda kuzatilmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zanjirning rezonans chastotasi qaysi formula bilan hisoblanadi?",
+   "variantlar": [
+    "v = 1/(2πLC)",
+    "v = 1/(2π√(LC))",
+    "v = 2π√(LC)",
+    "v = √(LC)/(2π)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "L = 1 H va C = 1 μF bo'lgan zanjirning rezonans chastotasi taxminan qancha?",
+   "variantlar": [
+    "50 Hz",
+    "1000 Hz",
+    "159 Hz",
+    "15,9 Hz"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tajriba qaysi shart bajarilganda to'xtatiladi?",
+   "variantlar": [
+    "UC = UL",
+    "UL = 0",
+    "Chastota 100 Hz ga yetganda",
+    "UC = 0"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Chastota o'zgarmas bo'lib, g'altak induktivligi 4 marta orttirilsa, rezonans uchun kondensator sig'imi qanday o'zgarishi kerak?",
+   "variantlar": [
+    "4 marta ortishi kerak",
+    "4 marta kamayishi kerak",
+    "O'zgarmasligi kerak",
+    "2 marta kamayishi kerak"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Radiopriyomnik konturini yuqoriroq chastotali stansiyaga sozlash uchun kondensator sig'imini qanday o'zgartirish kerak (L o'zgarmaydi)?",
+   "variantlar": [
+    "O'zgartirish kerak emas",
+    "Avval ko'paytirib, so'ng kamaytirish kerak",
+    "Kamaytirish kerak",
+    "Ko'paytirish kerak"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Rezonans paytida aktiv qarshilik R kamaytirilsa, g'altak va kondensatordagi kuchlanishlar qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Ortadi",
+    "Nolga teng bo'ladi",
+    "Kamayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Rezonans chastotasi formulasiga ko'ra, kondensator sig'imi 4 marta oshirilsa, rezonans chastotasi qanday o'zgaradi?",
+   "variantlar": [
+    "4 marta kamayadi",
+    "2 marta ortadi",
+    "2 marta kamayadi",
+    "4 marta ortadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun ishda multimetrlarning o'lchash diapazoni generator kuchlanishi (10 V) dan kattaroq, ya'ni 20 V qilib olinadi?",
+   "variantlar": [
+    "Chastota ikki marta oshadi",
+    "Multimetr faqat 20 V da ishlaydi",
+    "G'altak va kondensatordagi kuchlanish zanjirga qo'yilgan kuchlanishdan ortiq bo'lishi mumkin",
+    "Generator kuchlanishi ortib ketadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Chastotasi 50 Hz bo'lgan tokning siklik chastotasi ω taxminan qancha?",
+   "variantlar": [
+    "314 rad/s",
+    "628 rad/s",
+    "50 rad/s",
+    "157 rad/s"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "L = 1 H va C = 10 μF bo'lgan zanjirda rezonans paytida g'altakning induktiv qarshiligi taxminan qancha?",
+   "variantlar": [
+    "3160 Ω",
+    "100 Ω",
+    "316 Ω",
+    "31,6 Ω"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "L = 1 H, C = 10 μF, R = 100 Ω bo'lgan zanjirga rezonans chastotasida 10 V (effektiv) kuchlanish berilgan. G'altakdagi kuchlanish taxminan qancha?",
+   "variantlar": [
+    "31,6 V",
+    "100 V",
+    "10 V",
+    "3,16 V"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Generator chastotasi rezonans chastotasidan kichik bo'lganda kondensator va g'altakdagi kuchlanishlar uchun qaysi munosabat to'g'ri?",
+   "variantlar": [
+    "UL > UC",
+    "UC = UL",
+    "UC = UL = 0",
+    "UC > UL"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Generator chastotasi rezonans chastotasidan katta bo'lganda qaysi munosabat to'g'ri?",
+   "variantlar": [
+    "UL = 0",
+    "UC > UL",
+    "UL > UC",
+    "UC = UL"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Chastotasi 50 Hz bo'lgan zanjirda induktivligi 0,2 H bo'lgan g'altak bor. Rezonans bo'lishi uchun kondensator sig'imi taxminan qancha bo'lishi kerak?",
+   "variantlar": [
+    "101,4 μF",
+    "25,3 μF",
+    "50,7 μF",
+    "5,07 μF"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Konturda induktivlik 4 marta orttirilib, sig'im 4 marta kamaytirilsa, rezonans chastotasi qanday o'zgaradi?",
+   "variantlar": [
+    "4 marta ortadi",
+    "4 marta kamayadi",
+    "O'zgarmaydi",
+    "16 marta ortadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ideal tebranish konturida (R = 0) rezonans paytida tok kuchining amplitudaviy qiymati nimaga teng bo'ladi?",
+   "variantlar": [
+    "Cheksiz katta qiymatga intiladi",
+    "Rezonansgacha bo'lgan qiymatiga",
+    "Generator kuchlanishiga",
+    "Nolga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rezonans paytida g'altak va kondensatordagi kuchlanishlar amplitudalari teng va qarama-qarshi fazada bo'lsa, generator kuchlanishi zanjirning qayerida to'liq tushadi?",
+   "variantlar": [
+    "Faqat kondensatorda",
+    "Faqat g'altakda",
+    "Aktiv qarshilikda",
+    "G'altak va kondensatorda teng bo'linadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Radiopriyomnik konturida L = 1 mH. Chastotasi 100 kHz bo'lgan signalni qabul qilish uchun sig'im taxminan qancha bo'lishi kerak?",
+   "variantlar": [
+    "253 nF",
+    "2,53 nF",
+    "25,3 nF",
+    "0,253 nF"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "L = 1 H, C = 4 μF bo'lgan zanjirning rezonans chastotasi taxminan qancha?",
+   "variantlar": [
+    "79,6 Hz",
+    "159 Hz",
+    "39,8 Hz",
+    "25,2 Hz"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

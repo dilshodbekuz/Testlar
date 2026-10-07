@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "57-dars. Memo boshqarish obyekti",
+ "savollar": [
+  {
+   "savol": "57-dars qanday nomlanadi?",
+   "variantlar": [
+    "Memo boshqarish obyekti",
+    "ListBox va ComboBox obyektlari",
+    "Delphida grafika bilan ishlash",
+    "Timer obyekti va undan foydalanish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "Memo nomi qaysi so‘zning qisqartirilgan ko‘rinishi?",
+   "variantlar": [
+    "Method",
+    "Memorandum",
+    "Memory",
+    "Message"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "Memo obyekti obyektlar panelining qaysi jildida joylashgan?",
+   "variantlar": [
+    "Win32 jildida",
+    "Samples jildida",
+    "Standart jildida",
+    "Additional jildida"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "Memo obyektiga nechta harf va belgi sig‘adi (ko‘pi bilan)?",
+   "variantlar": [
+    "1000 ta",
+    "100 ta",
+    "10000 ta",
+    "65536 ta (2¹⁶)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "Memoga matn kiritilishini taqiqlash uchun qaysi xossa True ga o‘tkaziladi?",
+   "variantlar": [
+    "ReadOnly",
+    "Visible",
+    "Enabled",
+    "AutoSize"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "Memoga kiritilgan matn qaysi xossada saqlanadi?",
+   "variantlar": [
+    "Items",
+    "Text",
+    "Caption",
+    "Lines faqat"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "Memo matnining ko‘plab satrli ko‘rinishi bilan ishlash uchun qaysi xossa qulayroq?",
+   "variantlar": [
+    "Caption",
+    "Font",
+    "Lines",
+    "Text"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "Matn bo‘lagini nusxalash uchun qaysi tugmalar kombinatsiyasi ishlatiladi?",
+   "variantlar": [
+    "Ctrl+Z",
+    "Ctrl+S",
+    "Ctrl+N",
+    "Ctrl+C"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "Memo1.Lines.Clear nima qiladi?",
+   "variantlar": [
+    "Barcha satrlarni o‘chirib tashlaydi",
+    "Yangi satr qo‘shadi",
+    "Faylga saqlaydi",
+    "Faylni yuklaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "Memo1.Lines.Count nimani ko‘rsatadi?",
+   "variantlar": [
+    "Matnning shriftini",
+    "Matnda nechta satr borligini",
+    "Matnning uzunligini",
+    "Matnning rangini"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "Memo1.Text:='1-satr'+#13+#10+'2-satr'; operatorida #13 va #10 nima uchun ishlatiladi?",
+   "variantlar": [
+    "Shriftni o‘zgartirish uchun",
+    "Matnni o‘chirish uchun",
+    "Satr oxiri va satr boshiga o‘tish belgilarini qo‘yish uchun",
+    "Rangni o‘zgartirish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "Memo1.Lines.Add('Oxirgi satr') nima qiladi?",
+   "variantlar": [
+    "Birinchi satrni o‘chiradi",
+    "Barcha satrlarni o‘chiradi",
+    "Faylni saqlaydi",
+    "Matn oxiriga yangi satr qo‘shadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "Memo1.Lines.Insert(4, 'yangi 5-satr'); operatori nima qiladi?",
+   "variantlar": [
+    "Beshinchi satrdan oldin yangi satr qo‘shadi",
+    "Beshinchi satrni o‘chiradi",
+    "Oxirgi satrni o‘zgartiradi",
+    "Birinchi satrni o‘chiradi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "Memo1.Lines.SaveTo('d:\\a1.txt'); operatori nima qiladi?",
+   "variantlar": [
+    "Matnni chop etadi",
+    "Memo matnini faylga saqlaydi",
+    "Fayldan matnni yuklaydi",
+    "Matnni o‘chiradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "Memo1.Lines.LoadFrom('d:\\a1.txt'); operatori nima qiladi?",
+   "variantlar": [
+    "Faylni o‘chiradi",
+    "Faylni chop etadi",
+    "Saqlangan faylni Memoga yuklaydi",
+    "Faylga matn saqlaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "Satrlarni raqamlash Lines da nechadan boshlanadi?",
+   "variantlar": [
+    "1 dan",
+    "-1 dan",
+    "10 dan",
+    "0 dan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "Tub son ilovasi qaysi matematik ta’rifga asoslanadi?",
+   "variantlar": [
+    "Faqat o‘ziga va 1 ga qoldiqsiz bo‘linadigan natural son",
+    "Faqat juft sonlar",
+    "Faqat manfiy sonlar",
+    "Faqat katta sonlar"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "Sonning tub ekanligini tekshirish uchun uni qancha oraliqdagi sonlarga bo‘linishini tekshirish yetarli?",
+   "variantlar": [
+    "2n gacha",
+    "√n gacha",
+    "n gacha",
+    "n/2 gacha"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "Tub sonlar ilovasida natijalar qaysi obyektga qo‘shiladi?",
+   "variantlar": [
+    "Label1 ga",
+    "ListBox1 ga",
+    "Memo1.Lines.Add orqali Memo1 ga",
+    "Edit1 ga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "Tub sonlar ilovasida a:=round(sqrt(i)); qatori nimani hisoblaydi?",
+   "variantlar": [
+    "i sonining kvadratini hisoblaydi",
+    "i sonini matn satriga o‘tkazadi",
+    "i sonini o‘chiradi",
+    "i sonining kvadrat ildizini yaxlitlab a ga beradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "Natural sonlar kvadratini topuvchi ilovada i2:=i*i; qatori nimani hisoblaydi?",
+   "variantlar": [
+    "i sonining kvadratini",
+    "i sonining kubini",
+    "i sonining ildizini",
+    "i sonining yarmini"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "n:=StrToInt(Edit1.Text); qatori nima uchun kerak?",
+   "variantlar": [
+    "Memo1 ni tozalash uchun",
+    "Edit1 ga kiritilgan matnni butun songa o‘tkazib n ga berish uchun",
+    "Edit1 ni o‘chirish uchun",
+    "n ni matnga o‘tkazish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Tub sonlar protsedurasida b o‘zgaruvchisi qanday turda e’lon qilingan?",
+   "variantlar": [
+    "string (matn)",
+    "real (haqiqiy)",
+    "boolean (mantiqiy)",
+    "integer (butun)"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "while b and (j<=a) do sikli qachon to‘xtaydi?",
+   "variantlar": [
+    "Faqat j nolga teng bo‘lganda",
+    "Hech qachon to‘xtamaydi",
+    "Faqat a manfiy bo‘lganda",
+    "b yolg‘on bo‘lganda yoki j a dan katta bo‘lganda"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "if i mod j = 0 then b:=false; qatori nimani tekshiradi?",
+   "variantlar": [
+    "i soni j ga qoldiqsiz bo‘linishini (demak tub emasligini)",
+    "i va j tengligini",
+    "i manfiy ekanligini",
+    "j nolga tengligini"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Savol-topshiriqda Edit maydonchasiga kiritilgan matn Memoga qanday qilib chiqarilishi so‘raladi?",
+   "variantlar": [
+    "Faqat bosh harflar bilan",
+    "Har bir harfi alohida qatorda",
+    "Bitta qatorda",
+    "Teskari tartibda"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Savol-topshiriqda Memoga nechta satrdan iborat matn kiritish so‘raladi?",
+   "variantlar": [
+    "100 ta satr",
+    "5 ta satr",
+    "50 ta satr",
+    "10 ta satr"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "Savol-topshiriqda Memodan qaysi satrlar olib tashlanishi so‘raladi?",
+   "variantlar": [
+    "Toq nomerli satrlar",
+    "Barcha satrlar",
+    "Faqat birinchi satr",
+    "Juft nomerli satrlar"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "Uyga vazifada Memo obyektining Lines elementi haqida nima so‘raladi?",
+   "variantlar": [
+    "Matn bilan qanday ishlashi",
+    "Qanday rangda bo‘lishi",
+    "Qancha joy egallashi",
+    "Qaysi tilda ishlashi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "Memo obyekti ma’lumotlarni chiqarish uchun mo‘ljallanganda, foydalanuvchi ma’lumot kiritishining oldi qanday olinadi?",
+   "variantlar": [
+    "Memo obyektini butunlay olib tashlash orqali",
+    "ReadOnly xossasini True qilib o‘rnatish orqali",
+    "Visible xossasini False qilish orqali",
+    "Text xossasini o‘chirish orqali"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

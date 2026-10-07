@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Matematika",
+ "mavzu": "Sodda ko'rsatkichli tenglamalar va ularning sistemalari",
+ "savollar": [
+  {
+   "savol": "O'zgaruvchisi darajada qatnashgan tenglama nima deyiladi?",
+   "variantlar": [
+    "Ko'rsatkichli tenglama",
+    "Logarifmik tenglama",
+    "Trigonometrik tenglama",
+    "Ratsional tenglama"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a^x=a^y tenglik (a>0, a≠1) qachon o'rinli bo'ladi?",
+   "variantlar": [
+    "x≠y bo'lganda",
+    "x=y bo'lganda",
+    "a=1 bo'lganda",
+    "Har doim"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a^x·a^y ifodasi nimaga teng?",
+   "variantlar": [
+    "a^(x-y)",
+    "a^(xy)",
+    "a^(x+y)",
+    "(a^x)^y"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a^x/a^y ifodasi nimaga teng?",
+   "variantlar": [
+    "a^(x+y)",
+    "a^(xy)",
+    "(a/a)^(x-y)",
+    "a^(x-y)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a^x·b^x ifodasi nimaga teng?",
+   "variantlar": [
+    "(ab)^x",
+    "(a+b)^x",
+    "a^x+b^x",
+    "(a/b)^x"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(a^x)^y ifodasi nimaga teng?",
+   "variantlar": [
+    "a^(x+y)",
+    "a^(xy)",
+    "a^(x-y)",
+    "a^(x/y)"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a^0 nimaga teng (a>0)?",
+   "variantlar": [
+    "0",
+    "a",
+    "1",
+    "Aniqlanmagan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a^f(x)=a^g(x) ko'rinishidagi tenglama (bir xil asosga keltirish usulida) qanday tenglamaga keltiriladi?",
+   "variantlar": [
+    "f(x)·g(x)=0",
+    "f(x)+g(x)=0",
+    "f(x)-g(x)=1",
+    "f(x)=g(x)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'rsatkichli tenglamalarni yechishda a^x=t almashtirish kiritilganda t qanday shartni qanoatlantirishi kerak?",
+   "variantlar": [
+    "t>0",
+    "t<0",
+    "t=0",
+    "t har qanday son"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Eng sodda ko'rsatkichli tenglamalar sistemasini yechishda qanday usullardan foydalaniladi?",
+   "variantlar": [
+    "Faqat integrallash",
+    "Daraja xossalari va chiziqli sistemalarga keltirish",
+    "Faqat differensiallash",
+    "Faqat grafik usul"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(3/7)^(3x-7)=(7/3)^(7x-3) tenglamani yeching.",
+   "variantlar": [
+    "x=0",
+    "x=-1",
+    "x=1",
+    "x=2"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "5^(2x-1)+5^(x+1)=250 tenglamada 5^x=t almashtirish kiritilsa, hosil bo'lgan tenglamani tanlang.",
+   "variantlar": [
+    "t²+5t-250=0",
+    "5t²+t-250=0",
+    "t²-5t+250=0",
+    "(1/5)t²+5t-250=0"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi tenglamaning ildizlari t1=-50 va t2=25 dan qaysi biri t>0 shartini qanoatlantiradi?",
+   "variantlar": [
+    "t=25",
+    "t=-50",
+    "Ikkalasi ham",
+    "Hech biri"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "5^x=25 tenglamadan x ni toping.",
+   "variantlar": [
+    "x=5",
+    "x=2",
+    "x=1",
+    "x=25"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "9^x+6^x=2·4^x tenglamada (3/2)^x=t almashtirish natijasida hosil bo'ladigan tenglamani tanlang.",
+   "variantlar": [
+    "t²-t-2=0",
+    "t²+2t-1=0",
+    "t²+t-2=0",
+    "2t²+t-1=0"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "t²+t-2=0 tenglamaning musbat ildizini toping.",
+   "variantlar": [
+    "t=-2",
+    "t=-1",
+    "t=0",
+    "t=1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(3/2)^x=1 tenglamadan x ni toping.",
+   "variantlar": [
+    "x=0",
+    "x=1",
+    "x=-1",
+    "x=2"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "6^x+6^(x+1)=2^x+2^(x+1)+2^(x+2) tenglamani umumiy ko'paytuvchini qavsdan chiqarib yechganda hosil bo'ladigan tenglamani tanlang.",
+   "variantlar": [
+    "6^x=3^x",
+    "6^x=2^x",
+    "3^x=2^x",
+    "6^x=1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "6^x=2^x tenglamani yeching.",
+   "variantlar": [
+    "x=1",
+    "x=-1",
+    "x=0",
+    "Yechimi yo'q"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "{3^(x+y)=27, 2^(5x-y)=8} sistemasini yechish uchun avval nima qilinadi?",
+   "variantlar": [
+    "Logarifm olinadi",
+    "Tenglamalar ko'paytiriladi",
+    "Tenglamalar ayiriladi",
+    "Har ikkala tenglama bir xil asosdagi darajalarga (3³ va 2³) keltiriladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "{3^(x+y)=27, 2^(5x-y)=8} sistemasini yeching.",
+   "variantlar": [
+    "x=1, y=2",
+    "x=2, y=1",
+    "x=3, y=0",
+    "x=0, y=3"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "{3^(5x+6y)=9, 2^(7x+3y)=8} sistemasini chiziqli sistemaga keltirganda qanday sistema hosil bo'ladi?",
+   "variantlar": [
+    "{5x+6y=3, 7x+3y=2}",
+    "{5x+6y=2, 7x+3y=3}",
+    "{5x-6y=2, 7x-3y=3}",
+    "{5x+6y=9, 7x+3y=8}"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "{5x+6y=2, 7x+3y=3} sistemasini yechib x ni toping.",
+   "variantlar": [
+    "x=1",
+    "x=2/9",
+    "x=4/9",
+    "x=-4/9"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "{4^x+5^y=9, 4^x-5^y=-1} sistemasida u=4^x, v=5^y almashtirilsa, hosil bo'lgan sistemani tanlang.",
+   "variantlar": [
+    "{u-v=9, u+v=-1}",
+    "{uv=9, u/v=-1}",
+    "{u²+v²=9, u-v=-1}",
+    "{u+v=9, u-v=-1}"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "{u+v=9, u-v=-1} sistemasini yechib u va v ni toping.",
+   "variantlar": [
+    "u=4, v=5",
+    "u=5, v=4",
+    "u=9, v=0",
+    "u=0, v=9"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "4^x=4 va 5^y=5 tenglamalardan x va y ni toping.",
+   "variantlar": [
+    "x=4, y=5",
+    "x=1, y=1",
+    "x=0, y=0",
+    "x=2, y=2"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "0,125·4^(2x-8)=(0,25/√2)^(-x) tenglamani 2 asosiga keltirib yechsak, x ning qiymati nechaga teng bo'ladi?",
+   "variantlar": [
+    "x=19/2",
+    "x=4",
+    "x=38/3",
+    "x=3/38"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(√(2-√3))^x+(√(2+√3))^x=4 tenglamada (√(2+√3))^x=t almashtirish natijasida hosil bo'ladigan tenglamani tanlang.",
+   "variantlar": [
+    "t²+4t-1=0",
+    "t²-t+4=0",
+    "t²+t-4=0",
+    "t²-4t+1=0"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "t²-4t+1=0 tenglamaning ildizlari t=2±√3 bo'lganda, berilgan tenglamaning yechimlarini toping.",
+   "variantlar": [
+    "x=-2 va x=2",
+    "x=2 va x=4",
+    "x=-4 va x=-2",
+    "x=0 va x=2"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mijoz 100 000 000 so'mni bankka yillik 22% foiz stavkasi bilan ma'lum muddatga qo'ydi va muddat oxirida 221 533 456 so'm oldi. Bu masala qaysi tenglama turi yordamida yechiladi?",
+   "variantlar": [
+    "Chiziqli tenglama",
+    "Ko'rsatkichli tenglama (murakkab foiz formulasi asosida)",
+    "Irratsional tenglama",
+    "Trigonometrik tenglama"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

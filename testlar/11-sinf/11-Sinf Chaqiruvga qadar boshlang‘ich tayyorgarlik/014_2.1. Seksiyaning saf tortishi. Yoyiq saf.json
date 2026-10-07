@@ -1,0 +1,326 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Chaqiruvga qadar boshlang‘ich tayyorgarlik",
+ "mavzu": "2.1. Seksiyaning saf tortishi. Yoyiq saf",
+ "savollar": [
+  {
+   "savol": "Seksiyaning yoyiq safi nechta sherengali bo'lishi mumkin?",
+   "variantlar": [
+    "Faqat bir sherengali",
+    "Uch sherengali",
+    "Bir yoki ikki sherengali",
+    "Faqat ikki sherengali"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Seksiya qaysi komanda bo'yicha bir (ikki) sherengaga tizilishadi?",
+   "variantlar": [
+    "«Seksiya, JIPSLAN»",
+    "«Seksiya, bir (ikki) sherengaga SAFLAN»",
+    "«Seksiya, TARQAL»",
+    "«Seksiya, OLDIMGA»"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Seksiya saf tortganda kimning chap yonidan tizilishadi?",
+   "variantlar": [
+    "Seksiya komandirining",
+    "Chap qanotdagi harbiy xizmatchining",
+    "Eng baland harbiy xizmatchining",
+    "Ong qanotdagi harbiy xizmatchining"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Seksiyada odamlar soni nechta va undan kam bo'lganda hamisha bir sherengaga saflaniladi?",
+   "variantlar": [
+    "Uch",
+    "Ikki",
+    "To'rt",
+    "Besh"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "«TEKISLAN» komandasi berilganda harbiy xizmatchilar boshini qaysi tomonga buradi?",
+   "variantlar": [
+    "Chap tomonga",
+    "Orqaga",
+    "O'ng tomonga",
+    "Pastga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tekislanib bo'lgach, harbiy xizmatchilar boshini to'g'ri tutishi uchun qaysi komanda beriladi?",
+   "variantlar": [
+    "«TOXTA»",
+    "«ROSTLAN»",
+    "«SANA»",
+    "«ERKIN»"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Seksiyani yig'ish uchun qaysi komanda beriladi?",
+   "variantlar": [
+    "«Seksiya, TARQAL»",
+    "«Seksiya, OLDIMGA»",
+    "«Seksiya, TEKISLAN»",
+    "«Seksiya, qadam BOS»"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Seksiyani harakatdan to'xtatish uchun qanday komanda beriladi?",
+   "variantlar": [
+    "«ERKIN»",
+    "«Seksiya, TOXTA»",
+    "«ROSTLAN»",
+    "«Seksiya, TARQAL»"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ortada qoladigan harbiy xizmatchi o'z familiyasini eshitganda nima qiladi?",
+   "variantlar": [
+    "Boshini chapga buradi",
+    "Safdan chiqib ketadi",
+    "«Men» deb, chap qo'lini oldinga cho'zib, pastga tushiradi",
+    "Bir qadam oldinga chiqadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Umumiy sanash uchun qaysi komanda beriladi?",
+   "variantlar": [
+    "«Seksiya, tekislan»",
+    "«Seksiya, bir-ikki deb SANA»",
+    "«Seksiya, jipslan»",
+    "«Seksiya, tartib bilan SANA»"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "«Chapga qarab TEKISLAN» komandasi berilganda kim boshini burmaydi?",
+   "variantlar": [
+    "O'ng qanotdagi birinchi harbiy xizmatchi",
+    "Ikkinchi sherengadagilar",
+    "Chap qanotda birinchi bo'lib turgan harbiy xizmatchi",
+    "Seksiya komandiri"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tekislanishda har bir harbiy xizmatchi o'zidan boshlab sanaganda nechanchi harbiy xizmatchining ko'kragini ko'rishi kerak?",
+   "variantlar": [
+    "To'rtinchi",
+    "Ikkinchi",
+    "Uchinchi",
+    "Beshinchi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«TEKISLAN» komandasida o'ng quloq va chap quloq holati qanday bo'ladi?",
+   "variantlar": [
+    "Chap quloq o'ng quloqdan balandroq",
+    "O'ng quloq chap quloqdan balandroq, iyak biroz ko'tarilgan",
+    "O'ng quloq chap quloqdan pastroq, iyak tushirilgan",
+    "Ikkala quloq teng"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Seksiya ikki sherengali safda o'ng tomonga burilgandan keyin seksiya komandiri nima qiladi?",
+   "variantlar": [
+    "Oldinga bir qadam tashlaydi",
+    "Chapga bir qadam tashlaydi",
+    "Joyida qoladi",
+    "O'ngga yarim qadam tashlaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki sherengali safda seksiya ortga burilganda komandir nima qiladi?",
+   "variantlar": [
+    "Yarim qadam o'ngga yuradi",
+    "Orqaga bir qadam tashlaydi",
+    "Yarim qadam chapga yuradi",
+    "Oldinga bir qadam tashlaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar tekislanish tomoni aytilmagan bo'lsa, tekislanish qanday amalga oshiriladi?",
+   "variantlar": [
+    "Boshni burmasdan chap tomonga qarab",
+    "Tekislanish bajarilmaydi",
+    "Boshni chapga burib",
+    "Boshni burmasdan o'ng tomonga qarab"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "«Bir-ikki deb SANA» komandasida sanash qaysi qanotdan boshlanadi?",
+   "variantlar": [
+    "O'rtadan",
+    "O'ng qanotdan",
+    "Ikkinchi sherengadan",
+    "Chap qanotdan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki sherengali safda umumiy sanash tugagach, kim «To'liq» yoki «To'liqsiz» deb ma'lum qiladi?",
+   "variantlar": [
+    "Seksiya komandiri",
+    "Ikkinchi sherenganing chap qanotidagi xizmatchi",
+    "Birinchi sherenganing o'ng qanotidagi xizmatchi",
+    "Ikkinchi sherenganing o'ng qanotidagi xizmatchi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'ngga, chapga va ortga qadam bosganda qo'llar qanday holatda bo'ladi?",
+   "variantlar": [
+    "Oldinga cho'ziladi",
+    "Harakatlantirilmaydi",
+    "Erkin harakatlantiriladi",
+    "Belga qo'yiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir sherengadan ikki sherengaga darrov bajariladigan komanda bo'yicha ikkinchi raqamlilar birinchi navbatda nima qiladi?",
+   "variantlar": [
+    "O'ng oyoq bilan bir qadam chapga tashlaydi",
+    "Chap oyoq bilan bir qadam orqaga tashlaydi",
+    "Chap oyoq bilan bir qadam oldinga tashlaydi",
+    "Joyida burilib turadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki sherengali safga qayta tizishda ikkinchi raqamlilar o'ng oyoq bilan o'ng tomonga qadam tashlab, qayerda turadi?",
+   "variantlar": [
+    "Birinchi raqamlilarning orqasida",
+    "Birinchi raqamlilarning chap yonida",
+    "Birinchi raqamlilarning oldida",
+    "Birinchi raqamlilarning o'ng yonida"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zich ikki sherengali safdan bir sherengali safga o'tishda avval nima qilinadi va keyin qaysi komanda beriladi?",
+   "variantlar": [
+    "Bir qadam yoyiladi, keyin «Seksiya, bir sherengaga SAFLAN»",
+    "Ortga burilinadi, keyin «Seksiya, OLDIMGA»",
+    "Sanaladi, keyin «Seksiya, JIPSLAN»",
+    "Bir qadam jipslanadi, keyin «Seksiya, TARQAL»"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki sherengadan bir sherengaga darrov bajariladigan komanda bo'yicha ikkinchi raqamlilar harakatlari tartibi qaysi javobda to'g'ri?",
+   "variantlar": [
+    "Chap oyoq bilan chapga bir qadam, o'ng oyoq bilan oldinga bir qadam, chap oyoqni o'ng oyoq yoniga oladi",
+    "Chap oyoq bilan orqaga bir qadam, o'ng oyoq bilan o'ngga bir qadam",
+    "O'ng oyoq bilan chapga, chap oyoq bilan oldinga, so'ng oyoqlarni juftlaydi",
+    "O'ng oyoq bilan bir qadam orqaga, chap oyoqni yoniga oladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Seksiya, oralar o'ngga kengay» komandasi (darrov bajariladigan) berilganda harbiy xizmatchilar qanday harakat qiladi?",
+   "variantlar": [
+    "Joyida turib qo'llarini yoyadi",
+    "Barchasi bir vaqtda to'xtab qoladi",
+    "Orqaga burilib, sekin yuradi",
+    "Ko'rsatilgan tomonga burilib, orqasidan kelayotgan kishiga yelkasi osha qarab, undan uzoqlashmasdan tez yuradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yoyilgandan keyin seksiya tekislanayotganda oraliq masofa (interval) qanday bo'ladi?",
+   "variantlar": [
+    "Ikki baravar kamayadi",
+    "Yoyilish vaqtida belgilangan masofa saqlanib qoladi",
+    "Har safar qayta o'zgaradi",
+    "Nolga tenglashadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Seksiya, o'ngga JIPSLAN» (darrov bajariladigan) komandasida kim boshqalardan farq qiladi?",
+   "variantlar": [
+    "O'ziga qarab jipslanishi kerak bo'lgan harbiy xizmatchi burilmaydi, boshqalar u tomonga buriladi",
+    "O'ng qanotdagi birinchi xizmatchi orqaga buriladi",
+    "Seksiya komandiri safdan chiqib ketadi",
+    "Hamma jipslanuvchi tomonga buriladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Seksiya, chap yelka OLDINGA» komandasida qimirlamaydigan qanotda turgan kishi nima qiladi?",
+   "variantlar": [
+    "Orqaga qarab yuradi",
+    "Joyida qotib turadi va burilmaydi",
+    "Joyida qadam tashlab, oldinga chiqayotganlarga mos ravishda asta-sekin burila boshlaydi",
+    "To'liq qadam bilan oldinga yuradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yelkani burish paytida oldinga chiqayotgan qanotda turgan kishi qanday harakat qiladi?",
+   "variantlar": [
+    "Orqaga qarab yuradi",
+    "Boshini yon tomonga burib, kichik qadam tashlaydi",
+    "Joyida qadam tashlaydi",
+    "Boshini old tomonga burib, to'liq qadam tashlaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yelkani burishda o'rtadagi harbiy xizmatchilar qanday qadam tashlaydi?",
+   "variantlar": [
+    "Hammasi bir xil qadam tashlaydi",
+    "Yurmayotgan qanotga qancha yaqin bo'lsa, shuncha kichik qadam tashlaydi",
+    "Yurmayotgan qanotga qancha yaqin bo'lsa, shuncha katta qadam tashlaydi",
+    "Hammasi joyida turadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

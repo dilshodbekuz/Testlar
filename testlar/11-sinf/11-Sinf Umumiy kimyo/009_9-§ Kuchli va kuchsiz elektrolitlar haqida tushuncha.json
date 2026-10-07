@@ -1,0 +1,337 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-sinf 11-Sinf Umumiy kimyo",
+ "mavzu": "9-§ Kuchli va kuchsiz elektrolitlar haqida tushuncha",
+ "savollar": [
+  {
+   "savol": "Elektrolit deb qanday moddaga aytiladi?",
+   "variantlar": [
+    "Elektr tokini hech qachon o'tkazmaydigan modda",
+    "Organik modda",
+    "Faqat gaz holatidagi modda",
+    "Eritmasi yoki suyuqlanmasi elektr tokini o'tkazadigan modda"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi moddalardan qaysi biri noelektrolit?",
+   "variantlar": [
+    "CH4 (metan)",
+    "NaCl",
+    "HCl",
+    "KOH"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi kislotalardan qaysi biri kuchli kislota hisoblanadi?",
+   "variantlar": [
+    "H2CO3",
+    "H2S",
+    "HNO2",
+    "HCl"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi kislotalardan qaysi biri kuchsiz kislota hisoblanadi?",
+   "variantlar": [
+    "HCl",
+    "H2SO4",
+    "HBr",
+    "HF"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi asoslardan qaysi biri kuchli asos (ishqor) hisoblanadi?",
+   "variantlar": [
+    "NH4OH",
+    "Mg(OH)2",
+    "NaOH",
+    "Fe(OH)3"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi asoslardan qaysi biri kuchsiz asos hisoblanadi?",
+   "variantlar": [
+    "NaOH",
+    "KOH",
+    "NH4OH",
+    "Ca(OH)2"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri noelektrolit hisoblanadi?",
+   "variantlar": [
+    "NaCl",
+    "HCl",
+    "Shakar (C12H22O11)",
+    "KOH"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi tuzlardan qaysi biri suvda yaxshi eriydi?",
+   "variantlar": [
+    "BaSO4",
+    "AgCl",
+    "NaCl",
+    "CaCO3"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi tuzlardan qaysi biri suvda yomon eriydi?",
+   "variantlar": [
+    "NaCl",
+    "K2SO4",
+    "KClO3",
+    "BaSO4"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Eritmada elektrolit elektr tokini nima sababli o'tkazadi?",
+   "variantlar": [
+    "Ionlarning mavjudligi (dissotsiatsiyalanish) tufayli",
+    "Molekulalar bog'lanishi tufayli",
+    "Atomlar tufayli",
+    "Elektronlar faqat metallar kabi harakatlanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kislorodli kislotada (HnEOm) kuchli kislota uchun qaysi shart bajariladi?",
+   "variantlar": [
+    "m - n < 2",
+    "m = 0",
+    "n = 0",
+    "m - n ≥ 2"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "HNO2 kuchli yoki kuchsiz kislota? (m = 2, n = 1)",
+   "variantlar": [
+    "Kuchsiz",
+    "Kuchli",
+    "Noelektrolit",
+    "Ishqor"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "H2SO4 kuchli yoki kuchsiz kislota? (m = 4, n = 2)",
+   "variantlar": [
+    "Kuchsiz",
+    "Amfoter",
+    "Noelektrolit",
+    "Kuchli"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi qatorda faqat kuchli elektrolitlar keltirilgan?",
+   "variantlar": [
+    "CH3COOH, NH4OH, HNO2",
+    "NaCl, HF, Zn(OH)2",
+    "KCl, Na2SO4, KOH",
+    "H2S, NH4OH, H2CO3"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qaysi qatorda faqat kuchsiz elektrolitlar keltirilgan?",
+   "variantlar": [
+    "KCl, NaOH",
+    "HF, NH4OH, H2S",
+    "HCl, H2SO4",
+    "NaCl, KOH"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi asoslardan qaysi biri kuchsiz asoslar qatoriga kiradi?",
+   "variantlar": [
+    "NaOH",
+    "KOH",
+    "Mg(OH)2",
+    "Ca(OH)2"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Elektr toki ta'sirida manfiy ionlar (anionlar) qaysi elektrodga harakatlanadi?",
+   "variantlar": [
+    "Katodga",
+    "Anodga",
+    "Hech qayerga",
+    "Ikkala elektrodga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Distillangan suv qaysi turga kiradi?",
+   "variantlar": [
+    "Kuchli elektrolit",
+    "Kuchsiz elektrolit",
+    "Noelektrolit",
+    "Ishqor"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Suvli eritmada to'liq dissotsiatsiyalanadigan (kuchli elektrolit) modda qaysi?",
+   "variantlar": [
+    "CH3COOH",
+    "HCl",
+    "H2S",
+    "NH4OH"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir molekula ammoniy dixromat va 3 molekula vismut(III) nitrat tuzlari dissotsiatsiyalanganda hosil bo'ladigan umumiy ionlar soni nechaga teng? ((NH4)2Cr2O7 → 3 ion; Bi(NO3)3 → 4 ion)",
+   "variantlar": [
+    "15",
+    "12",
+    "9",
+    "18"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "H2SO4 molekulasida m - n ayirma nechaga teng? (m = 4, n = 2)",
+   "variantlar": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "HClO4 molekulasida m - n ayirma nechaga teng? (m = 4, n = 1)",
+   "variantlar": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "H2CO3 kuchsiz kislota, chunki uning m - n ayirmasi nechaga teng? (m = 3, n = 2)",
+   "variantlar": [
+    "1",
+    "2",
+    "3",
+    "0"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "HNO3 molekulasida m - n ayirma nechaga teng? (m = 3, n = 1)",
+   "variantlar": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi moddalardan qaysi biri kuchli asos (ishqor) qatoriga kiradi, Be va Mg dan tashqari IIA guruh gidroksidlari sifatida?",
+   "variantlar": [
+    "Be(OH)2",
+    "Ca(OH)2",
+    "Mg(OH)2",
+    "Fe(OH)2"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi tuzlardan qaysi biri suvda yaxshi eriydigan tuz hisoblanadi?",
+   "variantlar": [
+    "AgCl",
+    "CH3COONH4",
+    "BaSO4",
+    "CaCO3"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ba(OH)2 + (NH4)2SO4 reaksiyasida cho'kma sifatida qaysi modda hosil bo'ladi?",
+   "variantlar": [
+    "NH3",
+    "H2O",
+    "BaSO4",
+    "SO2"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ba(OH)2 + (NH4)2SO4 reaksiyasida gaz holatidagi modda qaysi?",
+   "variantlar": [
+    "NH3",
+    "BaSO4",
+    "H2O",
+    "CO2"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Fe(OH)3 qaysi turga kiradi?",
+   "variantlar": [
+    "Kuchli asos",
+    "Kuchsiz asos",
+    "Noelektrolit",
+    "Kuchli kislota"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Distillangan suvning elektr o'tkazuvchanligi qanday?",
+   "variantlar": [
+    "Juda yaxshi",
+    "Juda kam (deyarli o'tkazmaydi)",
+    "Metallar kabi",
+    "Kuchli elektrolit kabi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

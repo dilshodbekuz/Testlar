@@ -1,0 +1,179 @@
+63-dars qanday nomlanadi?
++A) Rasmga boshqa obyektlarni joylash
+B) Delphida grafika bilan ishlash
+C) Grafik va animatsion ilovalarga misollar
+D) Timer obyekti va undan foydalanish
+
+Rasmga matn joylash uchun Canvasning qaysi usulidan foydalaniladi?
+A) Pixels
++B) TextOut
+C) Rectangle
+D) Ellips
+
+TextOut usuli nechta argumentga ega?
+A) To‘rtta
+B) Beshta
++C) Uchta
+D) Ikkita
+
+TextOut usulining dastlabki ikki argumenti nimani bildiradi?
+A) Matnning rangini
+B) Matnning shriftini
+C) Matnning uzunligini
++D) Matn chiqariladigan sohaning chap yuqori burchagi koordinatalarini
+
+TextOut usulining uchinchi argumenti nima?
++A) Ekranga chiqariladigan matn satri
+B) Shrift o‘lchami
+C) Rang kodi
+D) Koordinata
+
+Rasmga qo‘yiladigan yozuvning shriftini qaysi xossa belgilaydi?
+A) Canvas.Pixels
++B) Canvas.Font
+C) Canvas.Pen
+D) Canvas.Brush
+
+Shrift o‘lchamini belgilash uchun qaysi xossa ishlatiladi?
+A) Font.Name
+B) Font.Style
++C) Font.Size
+D) Font.Color
+
+Shrift rangini belgilash uchun qaysi xossa ishlatiladi?
+A) Font.Size
+B) Font.Name
+C) Pen.Width
++D) Font.Color
+
+Ellips yoyini rasmga qo‘shish uchun qaysi usul ishlatiladi?
++A) arc
+B) Chord
+C) pie
+D) TextOut
+
+Ellips sektorini rasmga qo‘shish uchun qaysi usul ishlatiladi?
+A) TextOut
++B) pie
+C) arc
+D) Chord
+
+Ellips segmentini rasmga qo‘shish uchun qaysi usul ishlatiladi?
+A) pie
+B) TextOut
++C) Chord
+D) arc
+
+Arc, Chord, Pie usullari nechta argumentga ega?
+A) To‘rtta
+B) Ikkita
+C) O‘nta
++D) Sakkizta (x1,y1,x2,y2,x3,y3,x4,y4)
+
+Arc usulida (x1,y1) va (x2,y2) nuqtalar nimani bildiradi?
++A) Ellips ichki chizilgan to‘g‘ri to‘rtburchak uchlarini
+B) Yoy boshlanish nuqtasini
+C) Yoy tugash nuqtasini
+D) Markazni
+
+Arc usulida (x3,y3) va (x4,y4) nuqtalar nimani bildiradi?
+A) Shrift o‘lchamini
++B) Markazni kesilgan nuqtalar bilan birlashtiruvchi chiziqlarni aniqlaydi
+C) Ellipsning o‘lchamini
+D) Chiziq rangini
+
+Arc usulida uchinchi nuqtadan to‘rtinchi nuqtaga qanday yo‘nalishda harakatlanadi?
+A) Chapdan o‘ngga to‘g‘ri chiziq bo‘ylab
+B) Pastdan yuqoriga
++C) Soat miliga teskari yo‘nalishda
+D) Soat mili yo‘nalishida
+
+Image1.Canvas.TextOut(10,20, 'Salom!'); operatori qanday natija beradi?
+A) Rasmni o‘chiradi
+B) Rasmni kattalashtiradi
+C) Rangni o‘zgartiradi
++D) (10,20) nuqtadan boshlab “Salom!” yozuvini chiqaradi
+
+Shriftni Times New Roman ga almashtirganda nima yaxshilanadi (matnga ko‘ra)?
++A) Ekrandagi matn sifati
+B) Shrift rangi
+C) Oyna o‘lchami
+D) Dastur tezligi
+
+Savol-topshiriqda rasmga nechta matn satri kiritadigan ilova yaratish so‘raladi?
+A) Hech qanday satr
++B) Bir nechta matn satri
+C) Faqat bitta satr
+D) Faqat ikkita satr
+
+Savol-topshiriqda rasmga nechta geometrik shakl kiritadigan ilova yaratish so‘raladi?
+A) Faqat ikkita shakl
+B) Hech qanday shakl
++C) Bir nechta geometrik shakl
+D) Faqat bitta shakl
+
+Uyga vazifada rasmga qanday obyekt qo‘yish so‘raladi (1-band)?
+A) Diagramma
+B) Jadval
+C) Fayl
++D) Matn
+
+Uyga vazifada rasmga qanday obyekt qo‘yish so‘raladi (2-band)?
++A) Ellips yoyi
+B) To‘g‘ri to‘rtburchak
+C) Matn
+D) Rasm fayli
+
+YODDA SAQLANGga ko‘ra rasmga nimalar joylash mumkin?
+A) Faqat ranglar
++B) Matn va geometrik shakllar
+C) Faqat matn
+D) Faqat shakllar
+
+Matnda keltirilgan misolda shrift o‘lchami 8 dan 50 gacha necha marta o‘zgartiriladi?
+A) Uch marta
+B) To‘rt marta
++C) Oltita marta (8,14,20,30,40,50)
+D) Ikki marta
+
+Image1.Canvas.Font.Color:=RGB(255,0,255); operatori qanday rangni belgilaydi?
+A) Qizil rangni
+B) Yashil rangni
+C) Ko‘k rangni
++D) Pushti (magenta) rangni
+
+Arc va Chord usullari o‘rtasidagi asosiy farq nimada?
++A) Chord nuqtalarni to‘g‘ri chiziq bilan ham birlashtiradi, Arc esa faqat yoyni chizadi
+B) Ikkalasi bir xil natija beradi
+C) Arc faqat to‘g‘ri chiziq chizadi
+D) Chord faqat matn chiqaradi
+
+Pie usuli chizgan shakl qanday ko‘rinishga ega bo‘ladi?
+A) To‘rtburchak
++B) Ellips sektori (pirog bo‘lagiga o‘xshash)
+C) To‘liq ellips
+D) To‘g‘ri chiziq
+
+Rasmga matn va shakllarni birga joylash orqali qanday ilovalar yaratish mumkin?
+A) Faqat ovozli ilovalar
+B) Faqat tarmoq ilovalari
++C) Vizual jihatdan boy va tushunarli ilovalar
+D) Faqat matnli ilovalar
+
+Image1.Canvas.Font.Name:='Times New Roman'; operatori nimani o‘zgartiradi?
+A) Shrift rangini
+B) Shrift o‘lchamini
+C) Matn pozitsiyasini
++D) Shrift turini
+
+Ellips yoyi, segmenti va sektorini chizish usullari (Arc, Chord, Pie) qaysi obyektning qismi hisoblanadi?
++A) Canvas obyektining
+B) Font obyektining
+C) Pen obyektining
+D) Brush obyektining
+
+Rasmga matn joylashda shrift o‘lchamini o‘zgartirish uchun qanday operator yoziladi?
+A) Image1.Width:=14;
++B) Image1.Canvas.Font.Size:=14;
+C) Image1.Canvas.Font.Color:=14;
+D) Image1.Canvas.TextOut:=14;

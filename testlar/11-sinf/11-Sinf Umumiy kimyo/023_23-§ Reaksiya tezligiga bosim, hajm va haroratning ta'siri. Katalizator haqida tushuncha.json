@@ -1,0 +1,337 @@
+{
+  "sinf": "11-sinf",
+  "kitob": "11-sinf 11-Sinf Umumiy kimyo",
+  "mavzu": "23-§ Reaksiya tezligiga bosim, hajm va haroratning ta'siri. Katalizator haqida tushuncha",
+  "savollar": [
+    {
+      "savol": "Bosim o'zgarishi reaksiya tezligiga qaysi reaksiyalarda ta'sir qiladi?",
+      "variantlar": [
+        "Qattiq moddalar ishtirokidagi reaksiyalarda",
+        "Suyuq moddalar ishtirokidagi reaksiyalarda",
+        "Barcha reaksiyalarda bir xil",
+        "Faqat yopiq sistemada, gaz moddalar ishtirokidagi reaksiyalarda"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Hajm kamaysa, gaz moddalarning konsentratsiyasi qanday o'zgaradi?",
+      "variantlar": [
+        "Ortadi",
+        "Kamayadi",
+        "O'zgarmaydi",
+        "Nolga teng bo'ladi"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Haroratning har 10 °C ga oshishi reaksiya tezligini qanday o'zgartiradi?",
+      "variantlar": [
+        "Doim 10 marta ortadi",
+        "γ marta (odatda 2–4 marta) ortadi",
+        "Doim kamayadi",
+        "Hech qanday o'zgarish bo'lmaydi"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Vant-Goff qoidasining formulasi qaysi?",
+      "variantlar": [
+        "v2 = v1 × γ^(10 / (t2 − t1))",
+        "v2 = v1 / γ^((t2 − t1) / 10)",
+        "v2 = v1 × γ^((t2 − t1) / 10)",
+        "v2 = v1 + γ × (t2 − t1)"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Katalizator nima?",
+      "variantlar": [
+        "Reaksiya davomida to'liq sarflanadigan modda",
+        "Faqat gaz holatidagi modda",
+        "Reaksiya mahsuloti",
+        "Reaksiya tezligini o'zgartiradi, lekin reaksiya davomida sarflanmaydigan modda"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Katalizator ishtirokida boradigan reaksiyalar qanday ataladi?",
+      "variantlar": [
+        "Katalitik reaksiyalar",
+        "Qaytar reaksiyalar",
+        "Qaytmas reaksiyalar",
+        "Neytrallanish reaksiyalari"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Reaksiya tezligini sekinlashtiruvchi moddalar qanday ataladi?",
+      "variantlar": [
+        "Katalizatorlar",
+        "Ingibitorlar",
+        "Fermentlar",
+        "Oksidlovchilar"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Biologik katalizatorlar qanday ataladi?",
+      "variantlar": [
+        "Ingibitorlar",
+        "Ingredientlar",
+        "Fermentlar",
+        "Oksidlar"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Katalizator reaksiyaning qaysi energiyasini kamaytiradi?",
+      "variantlar": [
+        "Ichki energiyasini",
+        "Issiqlik sig'imini",
+        "Kinetik energiyasini",
+        "Faollanish energiyasini"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Vodorod peroksidning parchalanish reaksiyasida katalizator sifatida qaysi modda ishlatiladi?",
+      "variantlar": [
+        "Marganets(IV) oksidi (MnO2)",
+        "Kaliy xlorid (KCl)",
+        "Natriy xlorid (NaCl)",
+        "Kalsiy karbonat (CaCO3)"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Idishda 6 l hajm, 12 mol CO va 18 mol O2 bo'lsa, 2CO + O2 = 2CO2 reaksiyasida (k = 1) tezlik necha bo'ladi?",
+      "variantlar": [
+        "324",
+        "12",
+        "27",
+        "6"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "12 mol CO va 18 mol O2 6 l idishda bo'lsa, hajm 2 l ga kamaytirilganda reaksiya tezligi necha marta ortadi?",
+      "variantlar": [
+        "3 marta",
+        "9 marta",
+        "27 marta",
+        "81 marta"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Harorat 50 °C dan 70 °C gacha oshirilganda, γ = 4 bo'lsa, reaksiya tezligi 3 mol/(l·min) dan necha mol/(l·min) bo'ladi?",
+      "variantlar": [
+        "12 mol/(l·min)",
+        "24 mol/(l·min)",
+        "16 mol/(l·min)",
+        "48 mol/(l·min)"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Harorat 60 °C dan 90 °C gacha oshirilganda, γ = 2 va dastlabki tezlik 1,5 mol/(l·min) bo'lsa, yangi tezlik necha mol/(l·min) bo'ladi?",
+      "variantlar": [
+        "12 mol/(l·min)",
+        "3 mol/(l·min)",
+        "6 mol/(l·min)",
+        "24 mol/(l·min)"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Ammiakning sintezi uchun tezlik ifodasida 4NH3 + 3O2 ... bosim 2 marta oshirilsa, tezlik necha marta ortadi?",
+      "variantlar": [
+        "8 marta",
+        "128 marta",
+        "16 marta",
+        "2 marta"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Harorat 20 °C dan 40 °C gacha oshirilganda, γ = 2 bo'lsa, reaksiya tezligi necha marta ortadi?",
+      "variantlar": [
+        "2 marta",
+        "8 marta",
+        "4 marta",
+        "16 marta"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Harorat 10 °C dan 40 °C gacha oshirilganda, γ = 3 bo'lsa, reaksiya tezligi necha marta ortadi?",
+      "variantlar": [
+        "9 marta",
+        "81 marta",
+        "3 marta",
+        "27 marta"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Reaksiya tezligi 30 °C da 0,4 mol/(l·min), γ = 2 bo'lsa, 50 °C da tezlik necha mol/(l·min) bo'ladi?",
+      "variantlar": [
+        "1,6 mol/(l·min)",
+        "0,8 mol/(l·min)",
+        "3,2 mol/(l·min)",
+        "0,2 mol/(l·min)"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Harorat 60 °C dan 80 °C gacha oshirilganda, γ = 3 bo'lsa, reaksiya tezligi necha marta ortadi?",
+      "variantlar": [
+        "3 marta",
+        "9 marta",
+        "6 marta",
+        "27 marta"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Harorat 30 °C dan 50 °C gacha oshirilganda, γ = 3 bo'lsa, reaksiya tezligi necha marta ortadi?",
+      "variantlar": [
+        "3 marta",
+        "6 marta",
+        "9 marta",
+        "27 marta"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Reaksiya tezligi v = k[CO]²[O2] (k = 1) ko'rinishida, [CO] = 6 mol/l va [O2] = 9 mol/l bo'lsa, v necha mol/(l·min) bo'ladi?",
+      "variantlar": [
+        "54",
+        "12",
+        "162",
+        "324"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Propan yonish reaksiyasida (k = 2), bosim 3 marta oshirilganda reaksiya tezligi necha marta ortadi? (boshlang'ich [C3H8] = 1, [O2] = 1 mol/l)",
+      "variantlar": [
+        "729 marta",
+        "3 marta",
+        "243 marta",
+        "27 marta"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Harorat 10 °C dan 80 °C gacha oshirilganda, γ = 3 bo'lsa, reaksiya tezligi necha marta ortadi?",
+      "variantlar": [
+        "27 marta",
+        "729 marta",
+        "243 marta",
+        "9 marta"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Harorat 30 °C dan 70 °C gacha oshirilganda, γ = 2 bo'lsa, 0,25 mol/(l·min) tezlik necha mol/(l·min) bo'ladi?",
+      "variantlar": [
+        "0,5 mol/(l·min)",
+        "8 mol/(l·min)",
+        "4 mol/(l·min)",
+        "16 mol/(l·min)"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Harorat 40 °C da reaksiya tezligi 5 mol/(l·min), γ = 5 bo'lsa, 20 °C da tezlik necha mol/(l·min) bo'ladi?",
+      "variantlar": [
+        "1 mol/(l·min)",
+        "25 mol/(l·min)",
+        "0,04 mol/(l·min)",
+        "0,2 mol/(l·min)"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Harorat 10 °C dan 50 °C gacha oshirilganda, γ = 2 bo'lsa, reaksiya tezligi necha marta ortadi?",
+      "variantlar": [
+        "16 marta",
+        "8 marta",
+        "4 marta",
+        "32 marta"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "v = k[A]²[B] (k = 2, [A] = 3 mol/l, [B] = 2 mol/l) bo'lsa, reaksiya tezligi necha mol/(l·s) bo'ladi?",
+      "variantlar": [
+        "12",
+        "36",
+        "18",
+        "72"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "A(g) + B(g) reaksiyasida v = k[A][B]. [A] va [B] ikki marta oshirilsa, tezlik necha marta ortadi?",
+      "variantlar": [
+        "2 marta",
+        "8 marta",
+        "4 marta",
+        "16 marta"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Harorat 20 °C dan 50 °C gacha oshirilganda, γ = 2 bo'lsa, reaksiya tezligi necha marta ortadi?",
+      "variantlar": [
+        "6 marta",
+        "4 marta",
+        "16 marta",
+        "8 marta"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "v = k[A]³ tenglamali reaksiyada [A] ikki marta oshirilsa, tezlik necha marta ortadi?",
+      "variantlar": [
+        "8 marta",
+        "6 marta",
+        "4 marta",
+        "2 marta"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    }
+  ]
+}

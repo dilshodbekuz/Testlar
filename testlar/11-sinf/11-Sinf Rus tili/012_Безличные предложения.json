@@ -1,0 +1,326 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Rus tili",
+ "mavzu": "Безличные предложения",
+ "savollar": [
+  {
+   "savol": "Matnga ko'ra, nima uchun bezlichnye predlojeniyalarda 'не было, не будет, нет' so'zlari qo'llanadi?",
+   "variantlar": [
+    "Harakatning mavjud emasligini (yo'qligini) bildirish uchun",
+    "Zarurlikni bildirish uchun",
+    "Imkoniyatni bildirish uchun",
+    "Xohishni bildirish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jadvalga ko'ra, 'нужно, можно, необходимо, нельзя' so'zlari qaysi so'z turkumiga kiritilgan?",
+   "variantlar": [
+    "Olmoshlar",
+    "Ravishlar (наречия)",
+    "Sifatlar",
+    "Ko'makchilar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jadvalga ko'ra, 'хватит, придётся, требуется, следует' qaysi guruhga kiradi?",
+   "variantlar": [
+    "Shaxssiz fe'llar",
+    "Bog'lovchilar",
+    "Shaxsli fe'llarning shaxssiz ma'noda qo'llanishi",
+    "Ravishlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, bir jinsli bo'laklar qanday bog'lanish bilan birlashadi?",
+   "variantlar": [
+    "Tenglik (sochinitelnaya) bog'lanish",
+    "Tobe bog'lanish",
+    "Moslashuv",
+    "Boshqaruv"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir jinsli bo'laklar haqida qaysi fikr matnga mos keladi?",
+   "variantlar": [
+    "Faqat ikkinchi darajali bo'laklar bir jinsli bo'ladi",
+    "Faqat ega va kesim bir jinsli bo'ladi",
+    "Bir jinsli bo'laklar bir-biriga tobe bo'ladi",
+    "Bosh ham, ikkinchi darajali bo'laklar ham bir jinsli bo'lishi mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, bir jinsli bo'laklar qanday xususiyatga ega?",
+   "variantlar": [
+    "Bir-biriga bog'liq, turli savollarga javob beradi",
+    "Doim bog'lovchisiz keladi",
+    "Faqat ravishlar bilan ifodalanadi",
+    "Bir-biriga bog'liq emas, bir savolga javob beradi va bitta so'zga taalluqli"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi so'zlar bilan bog'liq bir jinsli bo'laklar 'yoyiq (распространённые)' deyiladi?",
+   "variantlar": [
+    "Faqat ikkita bo'lakdan iborat qatorlar",
+    "Gap boshida kelgan bo'laklar",
+    "Bog'lovchisiz bir jinsli bo'laklar",
+    "Tobe so'zlari bo'lgan bir jinsli bo'laklar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ruscha 7-mashqda aforizmlarni tiklash uchun gaplar qanday shaklga o'tkaziladi?",
+   "variantlar": [
+    "Shaxssiz inkor gaplarga",
+    "Shaxsli so'roq gaplarga",
+    "Murakkab qo'shma gaplarga",
+    "Undov gaplarga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "7-mashqdagi namunaga ko'ra 'Сильнее кошки есть зверь' gapi qanday o'zgaradi?",
+   "variantlar": [
+    "Сильнее кошки зверя нет",
+    "Сильнее кошки зверь не есть",
+    "Кошки сильнее зверь нет",
+    "Сильнее кошки зверь был"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'Звёзды то мигали слабым светом, то исчезали' gapida bir jinsli bo'laklar qaysi bog'lovchi so'zlar bilan bog'langan?",
+   "variantlar": [
+    "да ... да",
+    "то ... то",
+    "и ... и",
+    "не только ... но и"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'Град побил клубнику' gapini shaxssiz gapga to'g'ri aylantirish variantini toping.",
+   "variantlar": [
+    "Град побил бы клубнику",
+    "Град клубнику побьёт",
+    "Клубника побита градом был",
+    "Градом побило клубнику"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Ветер свалил дерево' gapining shaxssiz shakli qaysi?",
+   "variantlar": [
+    "Дерево свалил ветер",
+    "Ветром свалило дерево",
+    "Ветер свалит дерево",
+    "Ветер свалился дерево"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Бабушка нездорова' gapini shaxssiz qilib qaysi variantda to'g'ri yozilgan?",
+   "variantlar": [
+    "Бабушку нездорово",
+    "Бабушки нездоровится",
+    "Бабушка нездоровится",
+    "Бабушке нездоровится"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Хасан не сидит на месте' gapining shaxssiz shakli qaysi?",
+   "variantlar": [
+    "Хасан не сидится на месте",
+    "Хасана не сидит на месте",
+    "Хасану не сидел на месте",
+    "Хасану не сидится на месте"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi gaplardan qaysi biri shaxssiz gap?",
+   "variantlar": [
+    "Идёт – по деревьям шагает",
+    "От барсука тянуло грибами и мёдом",
+    "Яков наслаждался своей победой",
+    "Мересьев прочитал эту заметку раз, другой, третий"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri shaxssiz gap hisoblanadi?",
+   "variantlar": [
+    "Яков наслаждался победой",
+    "Бензина оставалось минуты на три-четыре",
+    "Мересьев прочитал заметку",
+    "Всё лицо его преобразилось"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'И было сердцу моему легко, не знаю почему' gapi qaysi turga kiradi?",
+   "variantlar": [
+    "Undov gap",
+    "Bir tarkibli aniq shaxsli gap",
+    "Bir jinsli ega qatnashgan gap",
+    "Shaxssiz gap"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Вдруг в воздухе раздался тонкий, свистящий, прерывистый звук' gapida bir jinsli bo'laklar qaysi?",
+   "variantlar": [
+    "вдруг, раздался",
+    "в воздухе, звук",
+    "раздался, звук",
+    "тонкий, свистящий, прерывистый"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Проказница Мартышка, Осёл, Козёл да косолапый Мишка затеяли сыграть квартет' gapida bir jinsli bo'laklar qaysi gap bo'lagi vazifasida kelgan?",
+   "variantlar": [
+    "Aniqlovchi",
+    "Kesim",
+    "To'ldiruvchi",
+    "Ega"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Отпустил он рыбку золотую и сказал ей ласковое слово' gapida bir jinsli bo'laklar qaysi?",
+   "variantlar": [
+    "Kesimlar: отпустил va сказал",
+    "To'ldiruvchilar: рыбку va слово",
+    "Aniqlovchilar: золотую va ласковое",
+    "Egalar: он va рыбку"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Звёзды то мигали слабым светом, то исчезали' gapida qaysi bir jinsli bo'lak yoyiq hisoblanadi va nima uchun?",
+   "variantlar": [
+    "'исчезали' – chunki unda tobe so'z bor",
+    "Hech biri yoyiq emas",
+    "'мигали' – chunki 'слабым светом' tobe so'zlari bor",
+    "'Звёзды' – chunki ega"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Всё лицо его было невелико, худо, в веснушках' gapida bir jinsli kesimlar qanday ifodalangan?",
+   "variantlar": [
+    "Faqat ravishlar bilan",
+    "Qisqa sifatlar va predlogli ot bilan",
+    "Faqat fe'llar bilan",
+    "Faqat otlar bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Всё лицо его было невелико, худо, в веснушках' gapida nechta bir jinsli kesim bor?",
+   "variantlar": [
+    "1 ta",
+    "2 ta",
+    "4 ta",
+    "3 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Жутко одному-то в лесу' gapi nima uchun shaxssiz gap hisoblanadi?",
+   "variantlar": [
+    "Unda ega yo'q va ega bo'lishi ham mumkin emas; holat ravish bilan ifodalangan",
+    "Unda to'ldiruvchi yo'q",
+    "Unda ega ham, kesim ham bor",
+    "Unda bir jinsli bo'laklar bor"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "7-mashqdagi 'Есть дым без огня' gapini namunaga ko'ra shaxssiz inkor gapga aylantirsak, qaysi variant to'g'ri?",
+   "variantlar": [
+    "Нет дыма без огня",
+    "Дым без огня не есть",
+    "Дыма без огня есть",
+    "Есть дым без огня нет"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "7-mashqdagi 'Без муки есть наука' gapini shaxssiz inkor gapga to'g'ri aylantiring.",
+   "variantlar": [
+    "Без муки наука нет",
+    "Без муки науки есть",
+    "Без муки нет наука",
+    "Без муки науки нет"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Ложась спать, он укрывался с головой. Было жарко, душно.' parchasida nechta shaxssiz gap bor (faqat shu ikki gapdan)?",
+   "variantlar": [
+    "0 ta",
+    "2 ta",
+    "3 ta",
+    "1 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Его в степи без чувств нашли и вновь в обитель принесли' gapi haqida qaysi fikr to'g'ri?",
+   "variantlar": [
+    "Bu bir jinsli egali gap",
+    "Bu shaxssiz gap, chunki ega yo'q",
+    "Bu shaxssiz gap emas, kesimlar noaniq shaxsli fe'llar bilan ifodalangan va ular bir jinsli",
+    "Bu shaxssiz inkor gap"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Всё лицо его преобразилось; особенно его глаза так и сияли счастьем' – bu gapdagi 'сияли счастьем' ifodasi haqida qaysi fikr to'g'ri?",
+   "variantlar": [
+    "Bir jinsli kesimlar qatori",
+    "Shaxssiz gap, chunki ega yo'q",
+    "Shaxssiz inkor gap",
+    "Shaxsli gap, chunki ega 'глаза' bor"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

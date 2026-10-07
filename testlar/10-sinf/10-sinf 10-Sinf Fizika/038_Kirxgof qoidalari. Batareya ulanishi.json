@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Fizika",
+ "mavzu": "Kirxgof qoidalari. Batareya ulanishi",
+ "savollar": [
+  {
+   "savol": "Daniel elementining elektr yurituvchi kuchi (EYuK) necha voltga teng?",
+   "variantlar": [
+    "1,4 V",
+    "2,7 V",
+    "1,11 V",
+    "1,3 V"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Leklanshe elementining EYuK qiymati qanchaga teng?",
+   "variantlar": [
+    "1,11 V",
+    "1,3 V",
+    "1,4 V",
+    "2,7 V"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zaryadlangan kislotali akkumulyatorning EYuK qiymati nechaga teng?",
+   "variantlar": [
+    "2,7 V",
+    "1,3 V",
+    "1,4 V",
+    "1,11 V"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishqorli akkumulyatorning EYuK qiymati qanchaga teng?",
+   "variantlar": [
+    "2,7 V",
+    "1,3 V",
+    "1,11 V",
+    "1,4 V"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Avtomobil motorini ishga tushirish uchun qancha kuchlanishli o'zgarmas tok manbayi talab qilinadi?",
+   "variantlar": [
+    "12 V",
+    "6 V",
+    "9 V",
+    "24 V"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr zanjirida kamida uchta o'tkazgich uchrashadigan nuqta nima deb ataladi?",
+   "variantlar": [
+    "Qisqa tutashuv",
+    "Kontur",
+    "Chet kuch",
+    "Tugun"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kirxgof qoidalariga ko'ra tugunga kiruvchi tok yo'nalishi qanday ishora bilan olinadi?",
+   "variantlar": [
+    "Musbat",
+    "Manfiy",
+    "Nol",
+    "Vaziyatga qarab o'zgaradi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tarmoqlangan zanjirda tok yo'nalishi bo'yicha ajratib olingan berk yo'l nima deb ataladi?",
+   "variantlar": [
+    "Qarshilik",
+    "Kontur",
+    "Tugun",
+    "Element"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kirxgofning birinchi qoidasiga ko'ra tugunga ulangan o'tkazgichlardagi toklarning algebraik yig'indisi nimaga teng?",
+   "variantlar": [
+    "Birga",
+    "Qarshilikka",
+    "Nolga",
+    "EYuKga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "n ta bir xil elementni ketma-ket ulab batareya tuzilganda, umumiy EYuK qanday o'zgaradi?",
+   "variantlar": [
+    "n marta kamayadi",
+    "n² marta ortadi",
+    "O'zgarmaydi",
+    "n marta ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "EYuKi 3 V bo'lgan bitta elementdan 4 tasi ketma-ket ulansa, hosil bo'lgan batareyaning umumiy EYuKi necha voltga teng bo'ladi?",
+   "variantlar": [
+    "24 V",
+    "3 V",
+    "12 V",
+    "6 V"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ichki qarshiligi 0,6 Ω bo'lgan bitta elementdan 3 tasi parallel ulansa, batareyaning umumiy ichki qarshiligi nechaga teng bo'ladi?",
+   "variantlar": [
+    "0,3 Ω",
+    "0,2 Ω",
+    "0,6 Ω",
+    "1,8 Ω"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tashqi qarshilik ichki qarshilikdan ko'p marta katta bo'lgan holatda (R>>nr), tok manbalarini qanday ulash ko'proq samara beradi?",
+   "variantlar": [
+    "Ketma-ket ulash",
+    "Hech biri samarali emas",
+    "Parallel ulash",
+    "Ikkisi bir xil samara beradi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tashqi qarshilik ichki qarshilikdan ko'p marta kichik bo'lgan holatda (R<<r), tok manbalarini qanday ulash samarali hisoblanadi?",
+   "variantlar": [
+    "Ikkisi bir xil samara beradi",
+    "Parallel ulash",
+    "Ketma-ket ulash",
+    "Hech biri samarali emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "R>>nr shart bajarilganda, n ta ketma-ket ulangan bir xil elementlardan hosil bo'lgan zanjirdagi tok kuchi qanday ifodalanadi?",
+   "variantlar": [
+    "I≈nE/R",
+    "I≈E/(nR)",
+    "I≈E/r",
+    "I≈E/R"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "R<<r shart bajarilganda, n ta parallel ulangan elementlardan hosil bo'lgan zanjirdagi umumiy tok kuchi, har bir elementdan o'tadigan tokka nisbatan qanday bo'ladi?",
+   "variantlar": [
+    "n marta kichik",
+    "n² marta katta",
+    "O'zgarmaydi",
+    "n marta katta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar ikkita manbaning EYuKlari E2>E1 bo'lib, ular qarama-qarshi ulangan bo'lsa, zanjirdagi tok qaysi manba EYuKi yo'nalishi bo'yicha oqadi?",
+   "variantlar": [
+    "Katta EYuKli manba bo'yicha",
+    "Tok umuman oqmaydi",
+    "Ikkala manba yig'indisi bo'yicha",
+    "Kichik EYuKli manba bo'yicha"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kirxgofning ikkinchi qoidasini qo'llashda, tok manbalaridagi chet kuchlarning yo'nalishi qanday ishora bilan olinadi?",
+   "variantlar": [
+    "Musbat",
+    "Qarshilikka bog'liq",
+    "Nolga teng",
+    "Manfiy"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tugunga ikkita tok kirib (I1 va I2), ikkita tok chiqsa (I3 va I4), Kirxgofning birinchi qoidasiga ko'ra qaysi tenglama to'g'ri?",
+   "variantlar": [
+    "I1+I2+I3+I4=0",
+    "I1-I2+I3-I4=0",
+    "I1+I2=I3-I4",
+    "I1+I2-I3-I4=0"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tugunga ikkita tok kirib (I1=2 A va I2=3 A), bitta tok chiqadi (I3). Kirxgofning birinchi qoidasiga asosan I3 ni toping.",
+   "variantlar": [
+    "6 A",
+    "5 A",
+    "3 A",
+    "1 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "EYuKi 1,5 V, ichki qarshiligi 0,25 Ω bo'lgan 4 ta bir xil element ketma-ket ulanib, R=5 Ω li tashqi qarshilikka ulandi. Zanjirdagi tok kuchini toping.",
+   "variantlar": [
+    "1 A",
+    "0,5 A",
+    "2 A",
+    "1,5 A"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "EYuKi 2 V, ichki qarshiligi 0,8 Ω bo'lgan 4 ta bir xil element parallel ulanib, R=0,2 Ω li tashqi qarshilikka ulandi. Zanjirdagi umumiy tok kuchini toping.",
+   "variantlar": [
+    "8 A",
+    "5 A",
+    "4 A",
+    "2 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ichki qarshiliklari teng (r1=r2=0,5 Ω) bo'lgan ikkita manba qarama-qarshi ulangan (E1=3 V, E2=5 V). Zanjirdagi tok kuchini toping.",
+   "variantlar": [
+    "1 A",
+    "2 A",
+    "4 A",
+    "8 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi masaladagi shart bo'yicha (r1=r2=0,5 Ω, E1=3 V, E2=5 V) zanjirning a va b nuqtalari orasidagi kuchlanishni (voltmetr ko'rsatishini) toping.",
+   "variantlar": [
+    "3 V",
+    "2 V",
+    "4 V",
+    "5 V"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ichki qarshiliklari r1=0,4 Ω va r2=0,6 Ω, EYuKlari E1=2 V va E2=1,5 V bo'lgan ikkita manba qarama-qarshi ulangan. a va b nuqtalar orasidagi kuchlanishni toping.",
+   "variantlar": [
+    "1,7 V",
+    "1,5 V",
+    "1,8 V",
+    "2 V"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bitta elementning EYuKi E=1,2 V, ichki qarshiligi r=0,3 Ω. Shunday 3 ta element ketma-ket ulanib, R=2,7 Ω li tashqi qarshilikka ulansa, zanjirdagi tok kuchini toping.",
+   "variantlar": [
+    "1,5 A",
+    "0,5 A",
+    "1 A",
+    "2 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ichki qarshiligi r=1 Ω bo'lgan 10 ta bir xil element (EYuKi E=1,5 V) parallel ulanib, tashqi qarshilik R=0,1 Ω ga ulandi. Zanjirdagi umumiy tok kuchini toping.",
+   "variantlar": [
+    "6 A",
+    "5 A",
+    "7,5 A",
+    "10 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "EYuKi 1 V, ichki qarshiligi 0,5 Ω bo'lgan 6 ta bir xil elementni ketma-ket va parallel ulash natijalarini solishtirganda qanday xulosaga kelish mumkin?",
+   "variantlar": [
+    "Ketma-ket ulashda EYuK ortadi, parallel ulashda ichki qarshilik kamayadi",
+    "Ketma-ket ulashda ichki qarshilik ortadi, parallel ulashda EYuK kamayadi",
+    "Ikkala usulda ham EYuK bir xil ortadi",
+    "Ikkala usulda ham ichki qarshilik bir xil kamayadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ichki qarshiliklari teng (r1=r2=1 Ω) bo'lgan ikkita manba qarama-qarshi ulangan (E1=4 V, E2=6 V). Zanjirdagi tok kuchi (I) va voltmetr ko'rsatishi (U) qanday bo'ladi?",
+   "variantlar": [
+    "I=1 A, U=4 V",
+    "I=1 A, U=5 V",
+    "I=2 A, U=4 V",
+    "I=2 A, U=5 V"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bitta elementning EYuKi 2 V, ichki qarshiligi 0,2 Ω. Tashqi qarshilik R=9 Ω bo'lgan zanjirda 1 A tok kuchini hosil qilish uchun shunday elementlardan nechtasini ketma-ket ulash kerak?",
+   "variantlar": [
+    "4 ta",
+    "3 ta",
+    "5 ta",
+    "6 ta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

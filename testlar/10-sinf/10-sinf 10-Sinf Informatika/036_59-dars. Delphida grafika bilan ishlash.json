@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "59-dars. Delphida grafika bilan ishlash",
+ "savollar": [
+  {
+   "savol": "59-dars qanday nomlanadi?",
+   "variantlar": [
+    "Delphida grafika bilan ishlash",
+    "Memo boshqarish obyekti",
+    "Timer obyekti va undan foydalanish",
+    "Rasmga boshqa obyektlarni joylash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "Delphida grafika bilan ishlash uchun obyektlarning qaysi xossasi ishlatiladi?",
+   "variantlar": [
+    "Width",
+    "Canvas (polotno)",
+    "Caption",
+    "Font"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "Image va Shape obyektlari obyektlar panelining qaysi jildida joylashgan?",
+   "variantlar": [
+    "System jildida",
+    "Samples jildida",
+    "Additional (qo‘shimcha) jildida",
+    "Standart jildida"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "Canvasning chiziqlar chizishga mo‘ljallangan asosiy vositasi qaysi?",
+   "variantlar": [
+    "Brush (mo‘yqalam)",
+    "Pixels",
+    "Image",
+    "Pen (qalam)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "Canvasning sohalarni bo‘yashga mo‘ljallangan vositasi qaysi?",
+   "variantlar": [
+    "Brush (mo‘yqalam)",
+    "Pen (qalam)",
+    "MoveTo",
+    "LineTo"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "Pen obyektining chiziq kengligini belgilaydigan xossasi qaysi?",
+   "variantlar": [
+    "Height",
+    "Width",
+    "Style",
+    "Color"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "Pen obyektining chiziq ko‘rinishini (uzluksiz, shtrix va h.k.) belgilaydigan xossasi qaysi?",
+   "variantlar": [
+    "Color",
+    "Height",
+    "Style",
+    "Width"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "Pen obyektining rangini belgilaydigan xossasi qaysi?",
+   "variantlar": [
+    "Width",
+    "Style",
+    "Height",
+    "Color"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "RGB funksiyasi nechta argumentga ega?",
+   "variantlar": [
+    "Uchta (qizil, yashil, ko‘k)",
+    "Ikkita",
+    "Bitta",
+    "To‘rtta"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "RGB funksiyasi argumentlarining qiymatlari qaysi oraliqda bo‘lishi mumkin?",
+   "variantlar": [
+    "0 dan 16 gacha",
+    "0 dan 255 gacha",
+    "0 dan 100 gacha",
+    "1 dan 10 gacha"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "To‘g‘ri to‘rtburchak chizish uchun qaysi usul ishlatiladi?",
+   "variantlar": [
+    "MoveTo",
+    "LineTo",
+    "Rectangle",
+    "Ellips"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "Ellips chizish uchun qaysi usul ishlatiladi?",
+   "variantlar": [
+    "Rectangle",
+    "Pixels",
+    "Pen",
+    "Ellips"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "Form1.Canvas.Rectangle(10, 20, 200, 100); operatorida sanoq sistemasining boshi qayerda olingan?",
+   "variantlar": [
+    "Obyektning chap yuqori burchagida",
+    "Obyektning markazida",
+    "Obyektning o‘ng pastki burchagida",
+    "Ekranning markazida"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "psSolid stili qanday chiziqni bildiradi?",
+   "variantlar": [
+    "Ko‘rinmas chiziq",
+    "Uzluksiz chiziq",
+    "Shtrix chiziq",
+    "Nuqtali chiziq"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "psClear stili qanday chiziqni bildiradi?",
+   "variantlar": [
+    "Nuqtali chiziq",
+    "Kesma va nuqtali chiziq",
+    "Ko‘rinmas chiziq",
+    "Uzluksiz chiziq"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "RGB(255,255,255) qanday rangni beradi?",
+   "variantlar": [
+    "Qora rang",
+    "Qizil rang",
+    "Ko‘k rang",
+    "Oq rang"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "RGB(0,0,0) qanday rangni beradi?",
+   "variantlar": [
+    "Qora rang",
+    "Oq rang",
+    "Yashil rang",
+    "Sariq rang"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "Canvasning Pixels xossasi nimaga mo‘ljallangan?",
+   "variantlar": [
+    "Oynani kattalashtirish uchun",
+    "Har bir nuqta (piksel) rangini boshqarish uchun",
+    "Chiziq eni uchun",
+    "Shriftni o‘zgartirish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "MoveTo usuli nima qiladi?",
+   "variantlar": [
+    "Rangni o‘zgartiradi",
+    "Oynani tozalaydi",
+    "Grafik kursorni ko‘rsatilgan nuqtaga o‘tkazadi (chizmasdan)",
+    "Chiziqni chizadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "LineTo usuli nima qiladi?",
+   "variantlar": [
+    "Faqat nuqtaga o‘tadi, chizmaydi",
+    "Rangni o‘zgartiradi",
+    "Shaklni o‘chiradi",
+    "Joriy nuqtadan ko‘rsatilgan nuqtagacha chiziq chizadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "Muntazam N burchak diagonallari ilovasida SpinEdit ning MaxValue qiymati nechaga teng?",
+   "variantlar": [
+    "40",
+    "3",
+    "7",
+    "500"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Muntazam N burchak diagonallari ilovasida SpinEdit ning MinValue qiymati nechaga teng?",
+   "variantlar": [
+    "500",
+    "3",
+    "40",
+    "7"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Muntazam N burchak diagonallari ilovasida Image ning bo‘yi va eni nechaga teng qilinadi?",
+   "variantlar": [
+    "100 ga 100",
+    "1000 ga 1000",
+    "500 ga 500",
+    "40 ga 40"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "diagonallar protsedurasida r o‘zgaruvchisi nimani bildiradi?",
+   "variantlar": [
+    "Burchaklar sonini",
+    "Rangning kodini",
+    "Chiziq kengligini",
+    "Tashqi chizilgan aylananing radiusini"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "diagonallar protsedurasida n o‘zgaruvchisi nimani bildiradi?",
+   "variantlar": [
+    "Ko‘pburchakning burchaklari sonini",
+    "Aylana radiusini",
+    "Rang kodini",
+    "Chiziq uzunligini"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "x va y massivlarida nima saqlanadi?",
+   "variantlar": [
+    "Chiziq uzunliklari",
+    "Ko‘pburchak uchlarining koordinatalari",
+    "Ranglar ro‘yxati",
+    "Burchaklar nomi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Protsedura tanasidagi uchinchi qismda nima bajariladi?",
+   "variantlar": [
+    "Faqat aylana chiziladi",
+    "Faqat matn chiqariladi",
+    "Ko‘pburchakning tomonlari va diagonallari chiziladi",
+    "Faqat ranglar o‘rnatiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "Ilova ishga tushirilganda avval nechta burchakli shakl, so‘ng nechta burchakli shakl chiziladi (matndagi misolda)?",
+   "variantlar": [
+    "Avval 3 burchak, so‘ng 40 burchak",
+    "Avval 4 burchak, so‘ng 8 burchak",
+    "Avval 10 burchak, so‘ng 20 burchak",
+    "Avval 7 burchak, so‘ng 28 burchak"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "Savol-topshiriqda ekranga qizil, yashil va qora rangli nechta to‘g‘ri to‘rtburchak chizish so‘raladi?",
+   "variantlar": [
+    "Uchta",
+    "Ikkita",
+    "Bitta",
+    "To‘rtta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "Uyga vazifada qaysi ikkita obyektning xossalari so‘raladi?",
+   "variantlar": [
+    "ListBox va ComboBox",
+    "Qalam (Pen) va Cho‘tka (Brush)",
+    "Label va Edit",
+    "Button va Timer"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

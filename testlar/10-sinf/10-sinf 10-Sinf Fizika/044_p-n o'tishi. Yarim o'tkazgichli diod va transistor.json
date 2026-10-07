@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Fizika",
+ "mavzu": "p-n o'tishi. Yarim o'tkazgichli diod va transistor",
+ "savollar": [
+  {
+   "savol": "Ikkita p–n o'tishga ega bo'lgan yarimo'tkazgichli sistema qanday ataladi?",
+   "variantlar": [
+    "Rezistor",
+    "Diod",
+    "Tranzistor",
+    "Kondensator"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bitta p–n o'tishga ega bo'lgan yarimo'tkazgichli asbob qanday ataladi?",
+   "variantlar": [
+    "Baza",
+    "Mikrosxema",
+    "Diod",
+    "Tranzistor"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yarimo'tkazgich kristalining zaryad tashuvchilardan xoli bo'lgan, dielektrikka xos xususiyatga ega o'rta qismi qanday ataladi?",
+   "variantlar": [
+    "Kollektor",
+    "Baza",
+    "Emitter",
+    "Berkituvchi qatlam"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tranzistorning juda yupqa (bir necha mikrometr) qalinlikdagi o'rta qatlami qanday ataladi?",
+   "variantlar": [
+    "Diod",
+    "Baza",
+    "Emitter",
+    "Kollektor"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p-sohaga manbaning manfiy qutbi, n-sohaga musbat qutbi ulanganda hosil bo'ladigan holat qanday ataladi?",
+   "variantlar": [
+    "Teskari p-n o'tish",
+    "To'g'ri p-n o'tish",
+    "Donor o'tish",
+    "Akseptor o'tish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p-sohaga manbaning musbat qutbi, n-sohaga manfiy qutbi ulanganda hosil bo'ladigan holat qanday ataladi?",
+   "variantlar": [
+    "Akseptor o'tish",
+    "Teskari p-n o'tish",
+    "Berkituvchi o'tish",
+    "To'g'ri p-n o'tish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tranzistorning kovakli o'tkazuvchanlikka ega sohalaridan kovaklar tranzistorga kirib keladigan uchi qanday ataladi?",
+   "variantlar": [
+    "Baza",
+    "Diod",
+    "Kollektor",
+    "Emitter"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tranzistorda kovaklar tortilib, kollektor tokini hosil qiladigan uchi qanday ataladi?",
+   "variantlar": [
+    "Kollektor",
+    "Baza",
+    "Emitter",
+    "Berkituvchi qatlam"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Diod tayyorlashda donor aralashmali germaniy monokristali yuzasiga qaysi element kavsharlanadi?",
+   "variantlar": [
+    "Fosfor",
+    "Indiy",
+    "Mishyak",
+    "Surma"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tangadek keladigan yuzada minglab tranzistor, diod, kondensator va rezistorlar joylashtirilgan sxema qanday ataladi?",
+   "variantlar": [
+    "Integral mikrosxema",
+    "Tranzistor paneli",
+    "Mikrochip",
+    "Nanosxema"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Teskari p-n o'tishda elektronlar qaysi qutbga, kovaklar qaysi qutbga tortiladi?",
+   "variantlar": [
+    "Ikkalasi ham manfiy qutbga",
+    "Elektronlar manbaning musbat qutbiga, kovaklar manfiy qutbiga",
+    "Elektronlar manfiy qutbga, kovaklar musbat qutbga",
+    "Ikkalasi ham musbat qutbga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "To'g'ri p-n o'tishda berkituvchi qatlam qanday o'zgaradi?",
+   "variantlar": [
+    "Kengayadi",
+    "Torayadi",
+    "O'zgarmaydi",
+    "Yo'qoladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "To'g'ri p-n o'tishdagi elektr qarshilik teskari p-n o'tishga nisbatan qanday bo'ladi?",
+   "variantlar": [
+    "Bir necha marta katta",
+    "Cheksiz katta",
+    "Teng",
+    "Bir necha marta kichik"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tranzistorda emitter-baza oralig'iga ulangan B1 batareya qanday p-n o'tish hosil qiladi?",
+   "variantlar": [
+    "Hech qanday",
+    "Teskari",
+    "To'g'ri",
+    "Aralash"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tranzistorda kollektor-baza oralig'idagi B2 batareya qanday p-n o'tish hosil qiladi?",
+   "variantlar": [
+    "Akseptor o'tish",
+    "Teskari",
+    "To'g'ri",
+    "Nol o'tish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Emitter-baza yo'nalishidagi tok kuchi o'zgarsa, emitter-kollektor yo'nalishidagi tok nima bo'ladi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Nolga tushadi",
+    "Ham o'zgaradi",
+    "Teskari yo'nalishga o'tadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p-n-p tranzistorga nisbatan n-p-n tranzistorda tok yo'nalishi qanday bo'ladi?",
+   "variantlar": [
+    "Faqat bazadan tashqariga",
+    "Xuddi shunday, emitterdan kollektorga",
+    "Kollektordan emitterga tomon",
+    "Umuman tok o'tmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 nanometr necha metrga teng?",
+   "variantlar": [
+    "10^-9 m",
+    "10^-6 m",
+    "10^-12 m",
+    "10^-3 m"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tranzistorning emitter sohasidagi kovaklar konsentratsiyasi bazadagi elektronlar konsentratsiyasiga nisbatan qanday bo'ladi?",
+   "variantlar": [
+    "Bir necha marta kichik",
+    "Nolga teng",
+    "Teng",
+    "Bir necha marta katta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Germaniy kristali nima sababdan germetik berk metall qobiqqa joylashtiriladi?",
+   "variantlar": [
+    "Issiqlik o'tkazuvchanligini oshirish uchun",
+    "Tokni kuchaytirish uchun",
+    "Og'irligini oshirish uchun",
+    "Yorug'lik, havo va tashqi maydonlar ta'sirini kamaytirish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tranzistorning bazasi juda yupqa va unda elektronlar konsentratsiyasi kam bo'lgani uchun emitterdan bazaga kirgan kovaklarning aksariyat qismi qayerga o'tib ketadi?",
+   "variantlar": [
+    "Kollektor sohasiga o'tadi",
+    "Bazada qolib ketadi",
+    "Berkituvchi qatlamda yo'qoladi",
+    "Emitterga qaytadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar tranzistor bazasining qalinligi sezilarli darajada oshirilsa, bu kollektor tokiga qanday ta'sir qiladi?",
+   "variantlar": [
+    "Kollektor toki nolga tushadi, tranzistor butunlay ishdan chiqadi",
+    "Kollektor toki o'zgarmaydi",
+    "Kollektor toki kamayadi, chunki ko'proq kovak elektronlar bilan birikib ketadi",
+    "Kollektor toki ortadi, chunki ko'proq kovak o'tadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yarimo'tkazgichli diodning faqat bir yo'nalishda tok o'tkazish xususiyati nimaga asoslangan?",
+   "variantlar": [
+    "Diod ichidagi metall qobiqqa",
+    "To'g'ri ulanishda qarshilik katta, teskari ulanishda kichik bo'lishiga",
+    "Faqat germaniyning kimyoviy xossasiga",
+    "To'g'ri ulanishda berkituvchi qatlam torayib qarshilik kamayishiga, teskari ulanishda kengayib qarshilik ortishiga"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Diodning p-qismi manbaning musbat qutbiga ulangan holatda berkituvchi qatlam va tok oqimiga nima bo'ladi?",
+   "variantlar": [
+    "Berkituvchi qatlam kengayadi, tok o'tmaydi",
+    "Berkituvchi qatlam o'zgarmaydi, tok o'tmaydi",
+    "Berkituvchi qatlam torayadi, tok o'tadi",
+    "Berkituvchi qatlam butunlay yo'qoladi va qisqa tutashuv yuz beradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nega tayyor p va n turdagi yarimo'tkazgichlarni shunchaki mexanik ravishda ulash orqali sifatli p-n o'tish hosil qilib bo'lmaydi?",
+   "variantlar": [
+    "Chunki mexanik ulashda faqat teskari p-n o'tish hosil bo'ladi",
+    "Chunki p va n turdagi yarimo'tkazgichlar bir-biriga mos kelmaydi",
+    "Chunki bunda oraliq juda katta bo'lib qoladi, p-n o'tish qalinligi atomlararo masofaga teng bo'lishi kerak",
+    "Chunki mexanik ulashda elektr toki umuman o'tmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Emitter-baza tokining kichik o'zgarishi natijasida emitter-kollektor tokining ham o'zgarishi tranzistorning qaysi amaliy xususiyatiga asos bo'ladi?",
+   "variantlar": [
+    "Elektr signallarini kuchaytirish",
+    "Tok yo'nalishini o'zgartirish",
+    "Issiqlik ishlab chiqarish",
+    "Zaryadni saqlash"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "n-p-n tranzistorda baza p-turdagi, emitter va kollektor n-turdagi yarimo'tkazgichdan tayyorlanadi. Bunda tok yo'nalishi p-n-p tranzistordan farq qilishining sababi nimada?",
+   "variantlar": [
+    "Baza qalinligi boshqacha bo'lgani uchun",
+    "n-p-n tranzistorda berkituvchi qatlam bo'lmaydi",
+    "n-turdagi sohalarda tok umuman o'tmaydi",
+    "n-turdagi sohalarda asosiy tok tashuvchilar kovaklar emas, elektronlar bo'lgani uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tangadek keladigan mikrochipda yuz millionlab tranzistor va radioelement joylashtirilishi, radioelementning taxminiy chiziqli o'lchami qanday tartibda bo'lishini bildiradi?",
+   "variantlar": [
+    "≈10^-3 m (millimetr)",
+    "≈10^-9 m (nanometr)",
+    "≈10^-12 m (pikometr)",
+    "≈10^-6 m (mikrometr)"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar tranzistorning emitter sohasidagi kovaklar konsentratsiyasi bazadagi elektronlar konsentratsiyasiga yaqinlashsa (farq kamaysa), bu kollektor tokiga qanday ta'sir qiladi?",
+   "variantlar": [
+    "Tranzistor diodga aylanadi",
+    "O'zgarish bo'lmaydi",
+    "Kollektor toki ortadi, chunki ko'proq kovak o'tadi",
+    "Kollektor toki kamayadi, chunki ko'proq kovak elektronlar bilan rekombinatsiyalanib, bazada yo'qolib ketadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kollektor-baza oralig'idagi B2 batareya teskari p-n o'tish hosil qilsa-da, kollektorda tok nima sababdan hosil bo'ladi?",
+   "variantlar": [
+    "Chunki teskari p-n o'tishda ham tok erkin o'tadi",
+    "Chunki emitterdan bazaga o'tgan kovaklarning ko'pchiligi bazadan kollektorga o'tib, B2 manfiy qutbiga tortiladi",
+    "Chunki B2 batareyasi mustaqil ravishda tok hosil qiladi",
+    "Chunki baza o'zi tok manbai vazifasini bajaradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

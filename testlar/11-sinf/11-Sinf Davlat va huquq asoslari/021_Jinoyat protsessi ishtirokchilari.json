@@ -1,0 +1,326 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Davlat va huquq asoslari",
+ "mavzu": "Jinoyat protsessi ishtirokchilari",
+ "savollar": [
+  {
+   "savol": "Jinoyat protsessida quyidagilardan qaysi biri ishtirok etuvchi boshqa shaxslar qatoriga kiradi?",
+   "variantlar": [
+    "Ayblanuvchi",
+    "Sudya",
+    "Guvoh",
+    "Prokuror"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, jinoyat protsessida quyidagilardan qaysi biri ishtirok etadi?",
+   "variantlar": [
+    "Faqat guvoh",
+    "Surishtiruvchi",
+    "Faqat tarjimon",
+    "Faqat xolis"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri o'z manfaatlarini himoya qiladigan shaxslarga kiradi?",
+   "variantlar": [
+    "Sud majlisi kotibi",
+    "Jabrlanuvchi",
+    "Ekspert",
+    "Tarjimon"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri jinoyat protsessida ishtirok etuvchi boshqa shaxs hisoblanmaydi?",
+   "variantlar": [
+    "Xolis",
+    "Tergovchi",
+    "Ekspert",
+    "Mutaxassis"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jinoyat protsessi ishtirokchilarining huquq va majburiyatlari qayerda alohida qayd etilgan?",
+   "variantlar": [
+    "Fuqarolik kodeksida",
+    "Faqat Mehnat kodeksida",
+    "Oila kodeksida",
+    "O'zbekiston Respublikasi Jinoyat-protsessual kodeksida"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri jinoyat protsessining bosqichlarini tavsiflovchi belgi hisoblanadi?",
+   "variantlar": [
+    "Ishtirokchilarning alohida tarkibi",
+    "Ishtirokchilarning yoshi",
+    "Ish yuritish tili",
+    "Sud binosining joylashuvi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jinoyat protsessining har bir bosqichi qanday hujjatlar bilan yakunlanadi?",
+   "variantlar": [
+    "Faqat og'zaki bayonot bilan",
+    "O'ziga xos hujjatlar bilan",
+    "Faqat gazeta xabari bilan",
+    "Hech qanday hujjatsiz"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri jinoyat protsessida ishtirok etuvchi boshqa shaxslarga kiradi?",
+   "variantlar": [
+    "Guvohning advokati",
+    "Fuqaroviy da'vogar",
+    "Gumon qilinuvchi",
+    "Fuqaroviy javobgar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jinoyat ishini yuritishda ishtirok etishi mumkin bo'lgan tashkilotlar matnda qanday nomlanadi?",
+   "variantlar": [
+    "Faqat banklar",
+    "Faqat xususiy kompaniyalar",
+    "Faqat xalqaro tashkilotlar",
+    "Jamoalar va ularning vakillari"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri ishtirokchining ishda qatnashishga haqli emasligi va rad qilinishi lozim bo'lgan holat hisoblanadi?",
+   "variantlar": [
+    "U shu shahar aholisi ekanligi",
+    "U yuqori malakaga egaligi",
+    "Uning xolisligiga shubha tug'diradigan holatlar mavjudligi",
+    "U ish vaqtida band ekanligi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sudya ilgari shu ishda tergovchi sifatida ishtirok etgan. U o'sha ishni sudda ko'rishda qatnasha oladimi?",
+   "variantlar": [
+    "Faqat prokuror ruxsati bilan qatnasha oladi",
+    "Faqat apellatsiyada qatnasha oladi",
+    "Ha, har doim qatnasha oladi",
+    "Yo'q, qatnasha olmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tergovchi shu ish bo'yicha ilgari guvoh sifatida ishtirok etgan. Uning ishni yuritishdagi holati qanday?",
+   "variantlar": [
+    "Ishni yuritishni davom ettiradi",
+    "Ishni yuritishda ishtirok etishga haqli emas va rad qilinishi lozim",
+    "Faqat himoyachi bo'lib qatnashadi",
+    "Faqat sudda qatnashadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Prokurorning qarindoshi ish bo'yicha ayblanuvchi bo'lsa, matnga ko'ra qanday qaror qabul qilinadi?",
+   "variantlar": [
+    "Ayblanuvchi almashtiriladi",
+    "Prokuror rad qilinishi lozim",
+    "Ish yopiladi",
+    "Prokuror ishni yuritishda davom etadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Birinchi instansiya sudida ishni ko'rgan sudya quyidagilardan qaysi birida ishtirok eta olmaydi?",
+   "variantlar": [
+    "Birinchi instansiyaning shu majlisida",
+    "Hech qaysi birida",
+    "Faqat shu sudning keyingi majlisida",
+    "Apellatsiya instansiyasida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Apellatsiya instansiyasida ishni ko'rgan sudya quyidagilardan qaysi birida ishtirok eta olmaydi?",
+   "variantlar": [
+    "Kassatsiya instansiyasida",
+    "Hech qaysi birida",
+    "Faqat sud majlisi kotibi sifatida",
+    "Faqat apellatsiyaning shu majlisida"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sudya nazorat tartibida ishni ko'rishda ishtirok etgan. U keyin qaysi instansiyada shu ishni ko'rishda ishtirok eta olmaydi?",
+   "variantlar": [
+    "Faqat kassatsiyada",
+    "Hech qaysi birida",
+    "Birinchi instansiya, apellatsiya yoki kassatsiyada",
+    "Faqat birinchi instansiyada"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tergovga qadar tekshiruvni amalga oshiruvchi organ mansabdor shaxsi o'zini o'zi rad etmasa, uni rad qilish masalasini kim hal qiladi?",
+   "variantlar": [
+    "Faqat jabrlanuvchi",
+    "Faqat sudlanuvchi",
+    "Organ boshlig'i yoki prokuror",
+    "Faqat guvoh"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Rad qilish masalasi hal etilganda qanday hujjat chiqariladi?",
+   "variantlar": [
+    "Rad qilishni qanoatlantirish yoki qanoatlantirmaslik haqida qaror",
+    "Faqat jarima to'g'risida hukm",
+    "Faqat og'zaki ogohlantirish",
+    "Hech qanday hujjat chiqarilmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ish qo'shimcha tergov uchun yuborilsa, surishtiruvchi va tergovchining ishtiroki haqida matn nima deydi?",
+   "variantlar": [
+    "Ular albatta almashtiriladi",
+    "Ular ishdan chetlatiladi",
+    "Ular faqat guvoh bo'ladi",
+    "Ularning o'z majburiyatini bajarishiga monelik qilmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sudya ilgari shu ishda sud majlisi kotibi bo'lgan, keyin esa uni apellatsiyada ko'rmoqchi. Bu holatda qanday xulosa to'g'ri?",
+   "variantlar": [
+    "U faqat rais bo'lib qatnasha oladi",
+    "U qatnasha oladi, chunki kotib sudya emas",
+    "U ishni ko'rishda qatnasha olmaydi",
+    "U faqat nazorat tartibida qatnasha oladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sudya birinchi instansiyada ishni ko'rgan. Keyin hukm bekor qilinib, ish qayta ko'rilmoqda. Matnga ko'ra, u qayerda ishtirok etishi mumkin emas?",
+   "variantlar": [
+    "Faqat kassatsiyada",
+    "Apellatsiya, kassatsiya va nazorat tartibida",
+    "Faqat nazorat tartibida",
+    "Hech qaysi birida"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sudya kassatsiya instansiyasida ishni ko'rgan. Quyidagi instansiyalarning qaysi birida u shu ishni ko'rishda qatnasha olmaydi?",
+   "variantlar": [
+    "Birinchi instansiya, apellatsiya va nazorat tartibida",
+    "Faqat sud majlisi kotibi sifatida",
+    "Faqat apellatsiyada",
+    "Faqat birinchi instansiyada"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ekspert sifatida ishtirok etgan shaxs keyinchalik shu ish bo'yicha prokuror lavozimida ishlamoqchi. Matnga asoslanib, nima deyish mumkin?",
+   "variantlar": [
+    "U ishda ishtirok etishga haqli emas va rad qilinishi lozim",
+    "U faqat sudyaga murojaat qiladi",
+    "U faqat tergovchi bo'la oladi",
+    "U erkin ishtirok etadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tergovchining akasi ish bo'yicha jabrlanuvchi. Quyidagi mulohazalardan qaysi biri matnga mos?",
+   "variantlar": [
+    "Tergovchi ishni yuritishda davom etadi",
+    "Jabrlanuvchi o'zgartiriladi",
+    "Faqat guvoh ishdan chetlatiladi",
+    "Tergovchi qarindoshlik asosida ishda ishtirok etishga haqli emas va rad qilinishi lozim"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sud majlisi kotibi ilgari shu ishda tarjimon bo'lgan. Uning holatini matnga ko'ra baholang.",
+   "variantlar": [
+    "U kotib sifatida ishtirok etishga haqli emas va rad qilinishi lozim",
+    "U sudya bo'ladi",
+    "U faqat hukm chiqaradi",
+    "U kotib sifatida qatnashadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi hukmlardan qaysi biri matnga mos keladi?",
+   "variantlar": [
+    "Sudya ilgari prokuror bo'lsa ham ishni ko'ra oladi",
+    "Kotib hech qachon rad qilinmaydi",
+    "Sudya ilgari prokuror bo'lgan bo'lsa, o'sha ishni ko'rishda qatnasha olmaydi",
+    "Prokuror faqat apellatsiyada rad qilinadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi holatda rad qilishning uchala asosi birdan to'g'ri tavsiflangan?",
+   "variantlar": [
+    "Faqat ish tajribasi",
+    "Faqat yoshi, jinsi, millati",
+    "Ilgari ishtirok etgan, qarindoshlik, xolislikka shubha",
+    "Faqat yashash joyi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Apellatsiya sudida ishtirok etgan sudya hukm bekor qilingach, ish nazorat tartibida ko'rilmoqda. U nazorat tartibida qatnasha oladimi?",
+   "variantlar": [
+    "Faqat rais sifatida",
+    "Yo'q, qatnasha olmaydi",
+    "Faqat prokuror ruxsati bilan",
+    "Ha, qatnasha oladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gumon qilinuvchining qonuniy vakili sifatida ishtirok etgan shaxs keyinchalik shu ishda xolis bo'lishi mumkinmi?",
+   "variantlar": [
+    "Yo'q, bunday shaxs rad qilinishi lozim",
+    "Faqat apellatsiyada mumkin",
+    "Faqat sud majlisida mumkin",
+    "Ha, har doim mumkin"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

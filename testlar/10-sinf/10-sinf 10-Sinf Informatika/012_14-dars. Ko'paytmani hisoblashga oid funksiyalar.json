@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "14-dars. Ko'paytmani hisoblashga oid funksiyalar",
+ "savollar": [
+  {
+   "savol": "14-dars qanday nomlanadi?",
+   "variantlar": [
+    "Ko‘paytmani hisoblashga oid funksiyalar",
+    "Statistik funksiyalar",
+    "Matnli funksiyalar",
+    "Mantiqiy funksiyalar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "Ko‘paytma qatnashgan hisoblashlarni bajarishning nechta usuli bor?",
+   "variantlar": [
+    "To‘rt usul",
+    "Ikki usul",
+    "Bitta usul",
+    "Uch usul"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "Birinchi usulda ko‘paytma qanday hisoblanadi?",
+   "variantlar": [
+    "Faqat qo‘lda hisoblanadi",
+    "Printer orqali chop etiladi",
+    "Katakka = belgi qo‘yilib ifodalar ko‘paytiriladi",
+    "Faqat funksiya orqali"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "Ikkinchi usulda ko‘paytma qanday hisoblanadi?",
+   "variantlar": [
+    "Faqat = belgisi bilan",
+    "Faqat qo‘lda yozib",
+    "Diagramma orqali",
+    "Ko‘paytmani hisoblash funksiyasidan foydalanib"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "Berilgan sonlarning ko‘paytmasini hisoblash uchun qaysi funksiya ishlatiladi?",
+   "variantlar": [
+    "ПРОИЗВЕД",
+    "СУММ",
+    "СРЗНАЧ",
+    "МАКС"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "1-mashqda C ustunga nima hisoblanadi?",
+   "variantlar": [
+    "B ustundagi sonlarning ildizi",
+    "A va B ustundagi sonlarning ko‘paytmasi",
+    "A va B ustundagi sonlarning yig‘indisi",
+    "A ustundagi sonlarning kvadrati"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "1-mashqda D ustunga nima hisoblanadi?",
+   "variantlar": [
+    "C ustundagi sonlarning kvadrati",
+    "A ustundagi sonlarning ildizi",
+    "A va B ustundagi sonlarning yig‘indisi",
+    "A va B ustundagi sonlarning ko‘paytmasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "1-mashqda C1 katagiga qanday formula kiritiladi?",
+   "variantlar": [
+    "=СУММ(A1:B1)",
+    "=A1+B1",
+    "=A1-B1",
+    "=ПРОИЗВЕД(A1:B1)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "1-mashqda D1 katagiga qanday formula kiritiladi?",
+   "variantlar": [
+    "=A1+B1",
+    "=ПРОИЗВЕД(A1:B1)",
+    "=A1*B1",
+    "=A1/B1"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "1-mashqda A ustunidagi sonlar qanday qadam bilan o‘sadi?",
+   "variantlar": [
+    "10 qadam bilan",
+    "0,3 qadam bilan (0; 0,3; 0,6...)",
+    "1 qadam bilan",
+    "0,1 qadam bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "1-mashqda E1 katagiga qanday formula kiritiladi?",
+   "variantlar": [
+    "=A1*B1*C1*D1*E1",
+    "=ПРОИЗВЕД(A1:B1)",
+    "=ПРОИЗВЕД(A1:D1)",
+    "=СУММ(A1:D1)"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "1-mashqda F1 katagiga qanday formula kiritiladi?",
+   "variantlar": [
+    "=ПРОИЗВЕД(A1:E1)",
+    "=A1+E1",
+    "=СУММ(A1:D1)",
+    "=СУММ(A1:E1)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "1-mashqda E ustunga nima hisoblanadi?",
+   "variantlar": [
+    "A, B, C, D ustundagi sonlarning ko‘paytmasi",
+    "A, B, C, D ustundagi sonlarning yig‘indisi",
+    "Faqat C ustundagi sonlar",
+    "Faqat D ustundagi sonlar"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "1-mashqda F ustunga nima hisoblanadi?",
+   "variantlar": [
+    "B ustundagi sonlarning kvadrati",
+    "A, B, C, D, E ustundagi sonlarning yig‘indisi",
+    "A, B, C, D, E ustundagi sonlarning ko‘paytmasi",
+    "Faqat E ustundagi son"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "1-mashq jadvalining birinchi qatorida A=0, B=10 bo‘lganda C (ko‘paytma) nechaga teng?",
+   "variantlar": [
+    "20",
+    "100",
+    "0",
+    "10"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "1-mashq jadvalining birinchi qatorida A=0, B=10 bo‘lganda D (yig‘indi) nechaga teng?",
+   "variantlar": [
+    "0",
+    "20",
+    "100",
+    "10"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "1-mashq jadvalining birinchi qatorida F ustunidagi natija nechaga teng?",
+   "variantlar": [
+    "20",
+    "10",
+    "0",
+    "30"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "C1:F1 dagi formulalar qolgan qatorlarga qanday usulda tarqatiladi?",
+   "variantlar": [
+    "Formuladan foydalanmay",
+    "Nusxa ko‘chirish orqali",
+    "Qo‘lda qayta yozib",
+    "Faylni qayta ochib"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "1-mashqda B ustunidagi sonlar qanday o‘zgaradi?",
+   "variantlar": [
+    "Doim 10 ga teng qoladi",
+    "Kamayib boradi",
+    "10 dan 19 gacha birma-bir ortadi",
+    "10 dan 100 gacha o‘nlik qadam bilan ortadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "1-mashqda jadval nechta qatordan iborat?",
+   "variantlar": [
+    "Beshta qator",
+    "Yigirmata qator",
+    "Uchta qator",
+    "O‘nta qator"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "Savol-topshiriqda berilgan 20 ta sonning ko‘paytmasi qanday usul bilan hisoblanishi so‘raladi?",
+   "variantlar": [
+    "ПРОИЗВЕД funksiyasidan foydalanmay",
+    "Faqat ПРОИЗВЕД funksiyasi bilan",
+    "Faqat СУММ funksiyasi bilan",
+    "Diagramma yordamida"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Savol-topshiriqda 10,20,40,80,160 sonlarining yig‘indisi nechaga bo‘linishi so‘raladi?",
+   "variantlar": [
+    "80 soniga",
+    "40 soniga",
+    "20 soniga",
+    "10 soniga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "10,20,40,80,160 sonlarining yig‘indisi nechaga teng?",
+   "variantlar": [
+    "320",
+    "280",
+    "310",
+    "300"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Uyga vazifada 10,20,40,80,160 sonlarining ko‘paytmasidan nechta son ayirilishi so‘raladi?",
+   "variantlar": [
+    "40 soni",
+    "20 soni",
+    "100 soni",
+    "56 soni"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Uyga vazifada A,B,C ustunlarga nechta ixtiyoriy son kiritish so‘raladi?",
+   "variantlar": [
+    "20 ta son",
+    "10 ta son",
+    "5 ta son",
+    "30 ta son"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Uyga vazifada D ustunida qanday amal bajarilishi so‘raladi?",
+   "variantlar": [
+    "B ustunini kvadratga ko‘tarish",
+    "A va C ko‘paytmasidan B va C ayirmasini ayirish",
+    "A va B yig‘indisini hisoblash",
+    "C ustunini ikki barobarlash"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Agar ПРОИЗВЕД(A1:D1) funksiyasida A1:D1 blokidagi bironta katak 0 bo‘lsa, natija qanday bo‘ladi?",
+   "variantlar": [
+    "Xatolik chiqadi",
+    "Cheksizlikka teng bo‘ladi",
+    "0 ga teng bo‘ladi",
+    "O‘zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "=ПРОИЗВЕД(A1:D1) va =A1*B1*C1*D1 formulalarining natijasi o‘zaro qanday munosabatda?",
+   "variantlar": [
+    "Birinchisi har doim kattaroq bo‘ladi",
+    "Ikkinchisi har doim kattaroq bo‘ladi",
+    "Hech qachon teng bo‘lmaydi",
+    "Ikkalasi bir xil natija beradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "F ustunidagi =СУММ(A1:E1) formulasi necha ta katak qiymatini qo‘shadi?",
+   "variantlar": [
+    "Beshta katak (A,B,C,D,E)",
+    "To‘rtta katak",
+    "Oltita katak",
+    "Ikkita katak"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "Ko‘paytma va yig‘indini hisoblash funksiyalaridan foydalanishning afzalligi nimada?",
+   "variantlar": [
+    "Rangni o‘zgartiradi",
+    "Uzun ifodalarni tez va xatosiz hisoblash imkonini beradi",
+    "Faylni kichraytiradi",
+    "Internetga ulaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

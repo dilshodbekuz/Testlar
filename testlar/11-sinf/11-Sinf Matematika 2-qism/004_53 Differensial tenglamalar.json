@@ -1,0 +1,326 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Matematika 2-qism",
+ "mavzu": "53 Differensial tenglamalar",
+ "savollar": [
+  {
+   "savol": "y'=ky differensial tenglamaning y(0)=y0 shartni qanoatlantiruvchi yechimi qaysi?",
+   "variantlar": [
+    "y=y0·ln(kt)",
+    "y=k·e^(y0·t)",
+    "y=y0·e^(kt)",
+    "y=y0+kt"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "y'=k(y–a) tenglamaning y(0)=y0 shartdagi yechimi qaysi?",
+   "variantlar": [
+    "y=y0·e^(kt)",
+    "y=a–(y0+a)·e^(kt)",
+    "y=a+(y0–a)·e^(kt)",
+    "y=(y0–a)+a·e^(kt)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "y'=k(y–a) tenglamani yechishda z=y–a belgilash kiritilsa, tenglama qanday ko'rinishga keladi?",
+   "variantlar": [
+    "z'=z+a",
+    "z'=k(z–a)",
+    "z'=kz",
+    "z'=k"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Egri chiziqqa o'tkazilgan urinmaning koordinata o'qlari orasidagi kesmasi urinish nuqtasida teng ikkiga bo'linsa, egri chiziq qaysi differensial tenglamani qanoatlantiradi?",
+   "variantlar": [
+    "y'=y/x",
+    "y'=–x/y",
+    "y'=xy",
+    "y'=–y/x"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Urinmasining o'qlar orasidagi kesmasi urinish nuqtasida teng ikkiga bo'linadigan va M(a; b) nuqtadan o'tuvchi egri chiziq tenglamasi qaysi?",
+   "variantlar": [
+    "y=ab·x²",
+    "y=ab/x",
+    "y=a·b·x",
+    "y=(a+b)/x"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Garmonik tebranishning differensial tenglamasi qaysi? (ω – berilgan musbat son)",
+   "variantlar": [
+    "y''+ω²y=0",
+    "y'=ωy",
+    "y'+ωy=0",
+    "y''–ω²y=0"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "y''+3y'–4y=5·e^x differensial tenglama nechanchi tartibli?",
+   "variantlar": [
+    "Ikkinchi",
+    "Birinchi",
+    "Nolinchi",
+    "Uchinchi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "dy/y=k·dt tenglikni integrallash natijasida qanday tenglik hosil bo'ladi?",
+   "variantlar": [
+    "y=kt+C",
+    "ln y=kt+ln C",
+    "ln y=k/t+ln C",
+    "y=ln(kt)+C"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "y'=ky tenglamada y=C·e^(kt) yechim uchun y(0)=y0 shartdan C nimaga teng bo'ladi?",
+   "variantlar": [
+    "C=0",
+    "C=k",
+    "C=y0",
+    "C=1/y0"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Idishdagi aralashma haqidagi masalada (8-masala) jarayon boshida idishda necha litr azot bo'lgan?",
+   "variantlar": [
+    "50 litr",
+    "35 litr",
+    "15 litr",
+    "30 litr"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "y'=3y, y(0)=2 masalaning yechimini toping.",
+   "variantlar": [
+    "y=2e^(3t)",
+    "y=6e^t",
+    "y=2+3t",
+    "y=3e^(2t)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y'=2(y–5), y(0)=7 masalaning yechimini toping.",
+   "variantlar": [
+    "y=5+2e^(2t)",
+    "y=2+5e^(2t)",
+    "y=5+7e^(2t)",
+    "y=7+5e^(2t)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y=x²+x funksiya uchun xy' ifoda nimaga teng?",
+   "variantlar": [
+    "2x+1",
+    "x²+x",
+    "x²+2x",
+    "2x²+x"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y=sin3x funksiya y''+k·y=0 tenglamani qanoatlantirsa, k nechaga teng?",
+   "variantlar": [
+    "3",
+    "6",
+    "9",
+    "–9"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y'=7cos x differensial tenglamaning y(π/2)=1 shartni qanoatlantiruvchi yechimini toping.",
+   "variantlar": [
+    "y=7sin x–6",
+    "y=7sin x+1",
+    "y=–7sin x+8",
+    "y=7sin x–7"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y'=e^(–x) tenglamaning y(1)=2 shartni qanoatlantiruvchi yechimini toping.",
+   "variantlar": [
+    "y=–e^(–x)+2",
+    "y=e^(–x)+2–e^(–1)",
+    "y=e^(–x)+2+e^(–1)",
+    "y=–e^(–x)+2+e^(–1)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Radioaktiv moddaning yarim parchalanish davri 1000 yil. Dastlabki miqdori m0 bo'lsa, 2000 yildan so'ng qancha qoladi?",
+   "variantlar": [
+    "m0/8",
+    "m0/16",
+    "m0/4",
+    "m0/2"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y'=2y/x tenglamaning y(1)=2 shartni qanoatlantiruvchi yechimini toping.",
+   "variantlar": [
+    "y=2/x²",
+    "y=x²+1",
+    "y=2x²",
+    "y=2x"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Urinmasining o'qlar orasidagi kesmasi urinish nuqtasida teng ikkiga bo'linadigan egri chiziq M(2; 3) nuqtadan o'tsa, uning tenglamasi qaysi?",
+   "variantlar": [
+    "y=6/x",
+    "y=5/x",
+    "y=3/(2x)",
+    "y=6x"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "8-masalada 99% azot bo'lgan paytda idishda necha litr azot bo'ladi?",
+   "variantlar": [
+    "49 litr",
+    "35,5 litr",
+    "0,99 litr",
+    "49,5 litr"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Xonadagi havo temperaturasi 20°C. Qaynoq suv 20 minutda 100°C dan 60°C gacha sovidi. Sovish tezligi suv va havo temperaturalari ayirmasiga proporsional bo'lsa, suv necha minutda 30°C gacha soviydi (boshidan hisoblaganda)?",
+   "variantlar": [
+    "80 minut",
+    "40 minut",
+    "50 minut",
+    "60 minut"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Xonadagi havo temperaturasi 20°C. Qaynoq suv 20 minutda 100°C dan 60°C gacha sovidi. Sovish tezligi suv va havo temperaturalari ayirmasiga proporsional bo'lsa, suv boshidan necha minutdan so'ng 40°C bo'ladi?",
+   "variantlar": [
+    "30 minut",
+    "45 minut",
+    "40 minut",
+    "50 minut"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Radioaktiv moddaning yarim parchalanish davri 1000 yil, dastlabki miqdori m0. 500 yildan so'ng modda qancha qoladi?",
+   "variantlar": [
+    "m0·√2/2 dan kam emas, ya'ni 3m0/4",
+    "m0/√2",
+    "m0/2",
+    "m0/4"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "y=x·e^x funksiya uchun y''+3y'–4y ifoda nimaga teng?",
+   "variantlar": [
+    "0",
+    "5e^x",
+    "5x·e^x",
+    "e^x"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "y''+25y=0 tenglamaning y=C1cos5x+C2sin5x ko'rinishdagi yechimi y(0)=2 va y'(0)=10 shartlarni qanoatlantirsa, u qaysi?",
+   "variantlar": [
+    "y=10cos5x+2sin5x",
+    "y=2cos5x+sin5x",
+    "y=2cos5x+2sin5x",
+    "y=2cos5x+10sin5x"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "y'=k(y–a) tenglamada boshlang'ich shart y(0)=a bo'lsa, yechim qanday bo'ladi?",
+   "variantlar": [
+    "y=a (o'zgarmas)",
+    "y=a·e^(kt)",
+    "y=a+e^(kt)",
+    "y=a–e^(kt)"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "y'=k(y–4) tenglamaning yechimi y(0)=10 va y(1)=7 shartlarni qanoatlantiradi. y(3) nimaga teng?",
+   "variantlar": [
+    "5,5",
+    "4,25",
+    "4,75",
+    "5"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "8-masaladagi y=50–15·e^(–0,004t) yechimga ko'ra idishda 85% azot bo'lishi uchun qancha vaqt (sekund) o'tishi kerak?",
+   "variantlar": [
+    "ln2/0,004",
+    "ln1,5/0,004",
+    "ln3/0,004",
+    "ln30/0,004"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Idishda 10 litr suv bor. Har minutda 2 litr 0,3 kg/l tuzli eritma quyiladi va shuncha aralashma oqib chiqadi. Idishdagi tuz miqdori y(t) uchun to'g'ri formulani toping.",
+   "variantlar": [
+    "y=0,6t",
+    "y=3–3e^(0,2t)",
+    "y=3+3e^(–0,2t)",
+    "y=3–3e^(–0,2t)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

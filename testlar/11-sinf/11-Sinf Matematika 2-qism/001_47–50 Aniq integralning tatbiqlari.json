@@ -1,0 +1,337 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Matematika 2-qism",
+ "mavzu": "47–50 Aniq integralning tatbiqlari",
+ "savollar": [
+  {
+   "savol": "Ikki egri chiziq bilan chegaralangan shakl yuzini S=∫(f₂(x)−f₁(x))dx formula bilan hisoblash qaysi shartda to'g'ri bo'ladi?",
+   "variantlar": [
+    "f₂(x) ≤ f₁(x) bo'lgan har qanday funksiyalar uchun",
+    "f₂(x) ≥ f₁(x) bo'lgan uzluksiz funksiyalar uchun",
+    "faqat f₁(x)=0 bo'lganda",
+    "faqat chiziqli funksiyalar uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Egri chiziqli trapetsiyani Ox o'qi atrofida aylantirishdan hosil bo'lgan jism hajmi qaysi formula bilan topiladi?",
+   "variantlar": [
+    "V=2π∫ₐᵇ x·f(x)dx",
+    "V=π∫ₐᵇ f²(x)dx",
+    "V=∫ₐᵇ f²(x)dx",
+    "V=π∫ₐᵇ f(x)dx"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Egri chiziqli trapetsiyani Oy o'qi atrofida aylantirishdan hosil bo'lgan jism hajmi qaysi formula bilan hisoblanadi?",
+   "variantlar": [
+    "V=2π∫ₐᵇ x·f(x)dx",
+    "V=2π∫ₐᵇ f(x)dx",
+    "V=π∫ₐᵇ x·f(x)dx",
+    "V=π∫ₐᵇ f²(x)dx"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'zgaruvchi F(x) kuchning [a; b] oraliqda bajargan ishi qaysi formula bilan topiladi?",
+   "variantlar": [
+    "A=∫ₐᵇ F²(x)dx",
+    "A=F(b)−F(a)",
+    "A=∫ₐᵇ F(x)dx",
+    "A=F(x)·(b−a)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Guk qonuniga ko'ra prujinaning siqilishi x va unga ta'sir etuvchi F kuch orasidagi bog'lanish qanday?",
+   "variantlar": [
+    "F=k·x",
+    "F=k+x",
+    "F=k·x²",
+    "F=k/x"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Asosining radiusi R, balandligi H bo'lgan konusning hajmi qaysi formula bilan topiladi?",
+   "variantlar": [
+    "V=(1/3)πRH²",
+    "V=πR²H",
+    "V=(4/3)πR³",
+    "V=(1/3)πR²H"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Radiusi R bo'lgan sharning hajmi formulasini ko'rsating.",
+   "variantlar": [
+    "V=(4/3)πR³",
+    "V=(2/3)πR³",
+    "V=4πR²",
+    "V=πR³"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ox o'qiga parallel y=R to'g'ri chiziq kesmasi (x∈[0; H]) Ox o'qi atrofida aylantirilganda hosil bo'ladigan jismning hajmi qanday?",
+   "variantlar": [
+    "V=(1/3)πR²H",
+    "V=2πRH",
+    "V=πR²H",
+    "V=πRH²"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kesik konus hajmi V=(πH/3)(R²+Rr+r²) formulasida r=0 desak, qanday jism hajmi formulasi hosil bo'ladi?",
+   "variantlar": [
+    "shar segmenti",
+    "silindr",
+    "shar",
+    "konus"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Balandligi H, shar radiusi R bo'lgan shar segmentining hajmi qaysi formula bilan ifodalanadi?",
+   "variantlar": [
+    "V=(π/3)·H(3R−H²)",
+    "V=(π/3)·R²(3H−R)",
+    "V=π·H²(R−H)",
+    "V=(π/3)·H²(3R−H)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "y=x va y=x² chiziqlar bilan chegaralangan shakl yuzini toping.",
+   "variantlar": [
+    "1/6",
+    "1/3",
+    "1/2",
+    "1/4"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y=4 va y=x² chiziqlar bilan chegaralangan shakl yuzini toping.",
+   "variantlar": [
+    "8",
+    "64/3",
+    "32/3",
+    "16/3"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y=x chiziqning x∈[0; 3] kesmadagi qismi Ox o'qi atrofida aylantirilganda hosil bo'lgan jismning hajmini toping.",
+   "variantlar": [
+    "6π",
+    "9π",
+    "27π",
+    "3π"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y=2 to'g'ri chiziqning x∈[0; 3] kesmadagi qismi Ox o'qi atrofida aylantirilganda hosil bo'lgan jismning hajmini toping.",
+   "variantlar": [
+    "18π",
+    "6π",
+    "4π",
+    "12π"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Prujinani 0,01 m siqish uchun 10 N kuch kerak bo'lsa (k=1000 N/m), uni 0,02 m siqish uchun bajarilgan ishni toping.",
+   "variantlar": [
+    "0,4 J",
+    "20 J",
+    "0,1 J",
+    "0,2 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "F(x)=4x kuch ta'sirida nuqta x=0 dan x=3 gacha ko'chdi. Kuchning bajargan ishini toping.",
+   "variantlar": [
+    "36",
+    "12",
+    "18",
+    "9"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Prujinani 0,02 m siqish uchun 6 N kuch kerak bo'lsa, prujinaning k koeffitsiyenti nimaga teng?",
+   "variantlar": [
+    "120 N/m",
+    "300 N/m",
+    "3 N/m",
+    "0,12 N/m"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y=√x, x=1, x=4 chiziqlar va Ox o'qi bilan chegaralangan shaklning Ox o'qi atrofida aylanishidan hosil bo'lgan jism hajmini toping.",
+   "variantlar": [
+    "7π/3",
+    "9π/2",
+    "15π/2",
+    "15π"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y=x chiziq, Ox o'qi va x=1 to'g'ri chiziq bilan chegaralangan shaklning Oy o'qi atrofida aylanishidan hosil bo'lgan jism hajmini (V=2π∫x·f(x)dx formula bilan) toping.",
+   "variantlar": [
+    "2π",
+    "π/3",
+    "2π/3",
+    "π"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Asosining radiusi R=3, balandligi H=4 bo'lgan konus hajmini toping.",
+   "variantlar": [
+    "36π",
+    "12π",
+    "48π",
+    "24π"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "y=x² parabola va y=2x to'g'ri chiziq bilan chegaralangan shakl yuzini toping.",
+   "variantlar": [
+    "4/3",
+    "8/3",
+    "2",
+    "4"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "y=−x²+4x parabola hamda (4; 0) va (0; 4) nuqtalar orqali o'tuvchi to'g'ri chiziq bilan chegaralangan shakl yuzini toping.",
+   "variantlar": [
+    "4,5",
+    "9",
+    "3,5",
+    "27/4"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x)=2x−2 funksiya grafigi va uning F(0)=1 shartni qanoatlantiruvchi boshlang'ich funksiyasi grafigi bilan chegaralangan shakl yuzini toping.",
+   "variantlar": [
+    "4/3",
+    "2/3",
+    "8/3",
+    "2"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sharning radiusi R=5 bo'lsa, balandligi H=2 bo'lgan shar segmentining hajmini toping.",
+   "variantlar": [
+    "26π/3",
+    "20π",
+    "104π/3",
+    "52π/3"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kesik konusning asoslari radiuslari R=3 va r=1, balandligi H=3 bo'lsa, uning hajmini toping.",
+   "variantlar": [
+    "26π",
+    "39π",
+    "13π",
+    "9π"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2 N kuch prujinani 1 cm ga siqsa, prujinani 3 cm siqish uchun sarflanadigan ishni toping.",
+   "variantlar": [
+    "0,09 J",
+    "0,18 J",
+    "0,06 J",
+    "9 J"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "y=sin x, x∈[0; π] funksiya grafigining Ox o'qi atrofida aylanishidan hosil bo'lgan jismning hajmini toping.",
+   "variantlar": [
+    "π²",
+    "π²/2",
+    "π/2",
+    "2π"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "y=−x²+4, 0≤x≤2 va x=0 chiziqlar bilan chegaralangan shaklning Ox o'qi atrofida aylanishidan hosil bo'lgan jism hajmini toping.",
+   "variantlar": [
+    "128π/15",
+    "16π/3",
+    "32π/3",
+    "256π/15"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "y=−x²+1, 0≤x≤1 va Oy o'qi bilan chegaralangan shaklning Oy o'qi atrofida aylanishidan hosil bo'lgan jism hajmini toping.",
+   "variantlar": [
+    "π/2",
+    "π",
+    "2π/3",
+    "π/4"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Prujina uchun k=1000 N/m. Uni 0,01 m siqilgan holatdan 0,03 m siqilgan holatgacha siqish uchun bajarilgan ishni toping.",
+   "variantlar": [
+    "0,5 J",
+    "0,4 J",
+    "0,45 J",
+    "0,8 J"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

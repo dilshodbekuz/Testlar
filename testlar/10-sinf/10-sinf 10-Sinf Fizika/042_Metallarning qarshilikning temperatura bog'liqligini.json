@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Fizika",
+ "mavzu": "Metallarning qarshilikning temperatura bog'liqligini",
+ "savollar": [
+  {
+   "savol": "Metall o'tkazgich qizdirilganda uning qarshiligi qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Avval kamayib, keyin ortadi",
+    "Ortadi",
+    "Kamayadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "α kattaligi fizikada qanday nomlanadi?",
+   "variantlar": [
+    "Issiqlik sig'imi koeffitsiyenti",
+    "Solishtirma qarshilik",
+    "Qarshilikning temperatura koeffitsiyenti",
+    "Karnot koeffitsiyenti"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "R = R0(1 + αΔt) formulasida R0 nimani bildiradi?",
+   "variantlar": [
+    "O'tkazgich uzunligi",
+    "O'tkazgichning 0°C dagi qarshiligi",
+    "O'tkazgichning t temperaturadagi qarshiligi",
+    "O'tkazgichning solishtirma qarshiligi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kamerling-Onnes qaysi yilda suyuq geliyni olishga erishdi?",
+   "variantlar": [
+    "1900-yilda",
+    "1911-yilda",
+    "1908-yilda",
+    "1957-yilda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'ta o'tkazuvchanlik hodisasini kim kashf etgan?",
+   "variantlar": [
+    "Kamerling-Onnes",
+    "Bogolyubov",
+    "Kuper",
+    "Kollinz"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Simobda o'ta o'tkazuvchanlik taxminan qaysi temperaturada kuzatilgan?",
+   "variantlar": [
+    "25 K",
+    "273 K",
+    "4,15 K",
+    "100 K"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qarshilikli termometrlar qaysi xususiyatga asoslanib ishlaydi?",
+   "variantlar": [
+    "Metall solishtirma qarshiligining temperaturaga bog'liqligiga",
+    "Metall massasining o'zgarishiga",
+    "Metallning rangi o'zgarishiga",
+    "Metall hajmining kengayishiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Platinali termometrlar yordamida qaysi temperatura diapazonini o'lchash mumkin?",
+   "variantlar": [
+    "-200°C dan +600°C gacha",
+    "-273°C dan 0°C gacha",
+    "0°C dan +100°C gacha",
+    "+600°C dan +1000°C gacha"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1957-yilda o'ta o'tkazuvchanlik hodisasini kimlar nazariy jihatdan asoslagan?",
+   "variantlar": [
+    "Faradey va Maksvell",
+    "Kuper va Bogolyubov",
+    "Kamerling-Onnes va Kollinz",
+    "Edison va Tesla"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1986-yilda yuqori temperaturali (100 K) o'ta o'tkazuvchanlik qanday materiallarda kuzatilgan?",
+   "variantlar": [
+    "Metallokeramika materiallarida",
+    "Toza metallarda",
+    "Yarimo'tkazgichlarda",
+    "Dielektriklarda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jadvalga ko'ra berilgan metallar ichida qarshilikning temperatura koeffitsiyenti eng katta bo'lgani qaysi?",
+   "variantlar": [
+    "Mis",
+    "Nikel",
+    "Qo'rg'oshin",
+    "Kumush"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jadvalga ko'ra qaysi qotishmaning temperatura koeffitsiyenti eng kichik (nolga yaqin)?",
+   "variantlar": [
+    "Nixrom",
+    "Xromal",
+    "Neyzilber",
+    "Nikelin"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mis simning 0°C dagi qarshiligi 50 Ω. Sim 100°C gacha qizdirilsa, qarshiligi qancha bo'ladi? (α=0,0039 1/°C)",
+   "variantlar": [
+    "69,5 Ω",
+    "55,5 Ω",
+    "89,5 Ω",
+    "50 Ω"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Oltin simning 0°C dagi qarshiligi 50 Ω edi. Uni 100°C gacha qizdirilganda qarshiligi necha Ω ga ortadi? (α=0,0040 1/°C)",
+   "variantlar": [
+    "20 Ω",
+    "30 Ω",
+    "40 Ω",
+    "10 Ω"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Temir spiralning 0°C dagi qarshiligi 20 Ω. 50°C dagi qarshiligi qancha bo'ladi? (α=0,0062 1/°C)",
+   "variantlar": [
+    "26,2 Ω",
+    "31 Ω",
+    "23,1 Ω",
+    "20 Ω"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qalay simining 0°C dagi qarshiligi 25 Ω edi. Sim 20°C ga qizdirilganda qarshiligi necha Ω ga ortadi? (α=0,0044 1/°C)",
+   "variantlar": [
+    "4,4 Ω",
+    "5,5 Ω",
+    "1,1 Ω",
+    "2,2 Ω"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nixromdan isitish elementlari (masalan, dazmol spirali) yasalishining asosiy sababi nima?",
+   "variantlar": [
+    "Uning α qiymati juda katta bo'lgani uchun",
+    "Uning α qiymati juda kichik bo'lgani uchun, qarshilik temperaturaga kam bog'liq",
+    "Uning erish temperaturasi past bo'lgani uchun",
+    "Uning solishtirma qarshiligi nolga teng bo'lgani uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Molibden simining 0°C dagi qarshiligi 40 Ω. 80°C dagi qarshiligi qancha bo'ladi? (α=0,0050 1/°C)",
+   "variantlar": [
+    "60 Ω",
+    "56 Ω",
+    "48 Ω",
+    "42 Ω"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jadvalga ko'ra qaysi metallning qarshiligi temperatura o'zgarishiga eng kam sezgir?",
+   "variantlar": [
+    "Nikel",
+    "Temir",
+    "Nikelin",
+    "Mis"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Platina simining 0°C dagi qarshiligi 10 Ω. 50°C dagi qarshiligi qancha bo'ladi? (α=0,0039 1/°C)",
+   "variantlar": [
+    "10,5 Ω",
+    "11,95 Ω",
+    "12,5 Ω",
+    "11,2 Ω"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Metall qizdirilganda birlik hajmdagi erkin elektronlar soni ortishiga qaramay, qarshilik baribir ortishining asosiy sababi nima?",
+   "variantlar": [
+    "Metallning hajmi keskin kengayadi",
+    "Elektronlar soni kamayib ketadi",
+    "Elektronlar umuman harakatlanmay qoladi",
+    "Ionlarning tebranish amplitudasi va to'qnashuvlar sonining ortishi ta'siri ustun keladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nikel simning 0°C dagi qarshiligi 30 Ω, ma'lum temperaturada esa 41,7 Ω bo'ldi. Shu temperaturani toping. (α=0,0065 1/°C)",
+   "variantlar": [
+    "40°C",
+    "50°C",
+    "60°C",
+    "70°C"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Molibden simning 0°C dagi qarshiligi 20 Ω edi. Qaysi temperaturada uning qarshiligi 25 Ω ga yetadi? (α=0,0050 1/°C)",
+   "variantlar": [
+    "30°C",
+    "50°C",
+    "60°C",
+    "40°C"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir xil R0 ga ega mis (α=0,0039) va nikel (α=0,0065) simlari bir xil 100°C gacha qizdirildi. Qaysi simning qarshiligi ko'proq ortadi?",
+   "variantlar": [
+    "Nikel simi",
+    "Ikkisi bir xil ortadi",
+    "Hech biri o'zgarmaydi",
+    "Mis simi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Noma'lum metall simning 0°C dagi qarshiligi 15 Ω, 40°C dagi qarshiligi esa 18,72 Ω. Hisoblangan α qiymati jadvaldagi qaysi metallga mos keladi?",
+   "variantlar": [
+    "Temir",
+    "Nikelin",
+    "Mis",
+    "Xromal"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qo'rg'oshin simning 0°C dagi qarshiligi 50 Ω edi. Qarshilikni 60,5 Ω ga yetkazish uchun simni necha gradusga qizdirish kerak? (α=0,0042 1/°C)",
+   "variantlar": [
+    "50°C",
+    "60°C",
+    "30°C",
+    "40°C"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Absolyut nol temperaturaga yaqinlashganda metall qarshiligi haqida ikki xil nazariy bashorat (nolga intilish va cheksizlikka intilish) paydo bo'lgan edi. Bu ziddiyat qanday hal qilindi?",
+   "variantlar": [
+    "Yangi formula kiritish orqali",
+    "Matematik hisob-kitoblar bilan",
+    "Bu ziddiyat hali ham hal qilinmagan",
+    "Kamerling-Onnesning tajribasi - o'ta o'tkazuvchanlik kashfiyoti orqali"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kollinz tajribasida berk zanjirda tok manbasiz holda 2,5 yil davomida to'xtovsiz oqib turgani nimani isbotlaydi?",
+   "variantlar": [
+    "Tokning vaqt o'tishi bilan kuchayishini",
+    "O'tkazgich qarshiligi juda katta bo'lganini",
+    "O'ta o'tkazuvchanlik holatida qarshilik amalda nolga teng ekanini",
+    "Zanjirda yashirin quvvat manbasi borligini"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Niobiy simining 0°C dagi qarshiligi 12 Ω. 100°C gacha qizdirilganda qarshiligi qancha bo'ladi? (α=0,003 1/°C)",
+   "variantlar": [
+    "16,2 Ω",
+    "13,8 Ω",
+    "15,6 Ω",
+    "12,6 Ω"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Xrom (α=0,0059) va Xromal (α=0,000065) qotishmalaridan bir xil R0 va Δt=100°C uchun qarshilik ortishi necha marta farq qiladi?",
+   "variantlar": [
+    "Taxminan 91 marta",
+    "Taxminan 9 marta",
+    "Taxminan 590 marta",
+    "Taxminan 45 marta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

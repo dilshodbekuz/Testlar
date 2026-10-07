@@ -1,0 +1,6013 @@
+[
+ {
+  "sinf": "11-sinf",
+  "kitob": "11-Sinf Matematika 2-qism",
+  "mavzu": "47–50 Aniq integralning tatbiqlari",
+  "savollar": [
+   {
+    "savol": "Ikki egri chiziq bilan chegaralangan shakl yuzini S=∫(f₂(x)−f₁(x))dx formula bilan hisoblash qaysi shartda to'g'ri bo'ladi?",
+    "variantlar": [
+     "f₂(x) ≤ f₁(x) bo'lgan har qanday funksiyalar uchun",
+     "f₂(x) ≥ f₁(x) bo'lgan uzluksiz funksiyalar uchun",
+     "faqat f₁(x)=0 bo'lganda",
+     "faqat chiziqli funksiyalar uchun"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Egri chiziqli trapetsiyani Ox o'qi atrofida aylantirishdan hosil bo'lgan jism hajmi qaysi formula bilan topiladi?",
+    "variantlar": [
+     "V=2π∫ₐᵇ x·f(x)dx",
+     "V=π∫ₐᵇ f²(x)dx",
+     "V=∫ₐᵇ f²(x)dx",
+     "V=π∫ₐᵇ f(x)dx"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Egri chiziqli trapetsiyani Oy o'qi atrofida aylantirishdan hosil bo'lgan jism hajmi qaysi formula bilan hisoblanadi?",
+    "variantlar": [
+     "V=2π∫ₐᵇ x·f(x)dx",
+     "V=2π∫ₐᵇ f(x)dx",
+     "V=π∫ₐᵇ x·f(x)dx",
+     "V=π∫ₐᵇ f²(x)dx"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "O'zgaruvchi F(x) kuchning [a; b] oraliqda bajargan ishi qaysi formula bilan topiladi?",
+    "variantlar": [
+     "A=∫ₐᵇ F²(x)dx",
+     "A=F(b)−F(a)",
+     "A=∫ₐᵇ F(x)dx",
+     "A=F(x)·(b−a)"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Guk qonuniga ko'ra prujinaning siqilishi x va unga ta'sir etuvchi F kuch orasidagi bog'lanish qanday?",
+    "variantlar": [
+     "F=k·x",
+     "F=k+x",
+     "F=k·x²",
+     "F=k/x"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Asosining radiusi R, balandligi H bo'lgan konusning hajmi qaysi formula bilan topiladi?",
+    "variantlar": [
+     "V=(1/3)πRH²",
+     "V=πR²H",
+     "V=(4/3)πR³",
+     "V=(1/3)πR²H"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Radiusi R bo'lgan sharning hajmi formulasini ko'rsating.",
+    "variantlar": [
+     "V=(4/3)πR³",
+     "V=(2/3)πR³",
+     "V=4πR²",
+     "V=πR³"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ox o'qiga parallel y=R to'g'ri chiziq kesmasi (x∈[0; H]) Ox o'qi atrofida aylantirilganda hosil bo'ladigan jismning hajmi qanday?",
+    "variantlar": [
+     "V=(1/3)πR²H",
+     "V=2πRH",
+     "V=πR²H",
+     "V=πRH²"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Kesik konus hajmi V=(πH/3)(R²+Rr+r²) formulasida r=0 desak, qanday jism hajmi formulasi hosil bo'ladi?",
+    "variantlar": [
+     "shar segmenti",
+     "silindr",
+     "shar",
+     "konus"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Balandligi H, shar radiusi R bo'lgan shar segmentining hajmi qaysi formula bilan ifodalanadi?",
+    "variantlar": [
+     "V=(π/3)·H(3R−H²)",
+     "V=(π/3)·R²(3H−R)",
+     "V=π·H²(R−H)",
+     "V=(π/3)·H²(3R−H)"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "y=x va y=x² chiziqlar bilan chegaralangan shakl yuzini toping.",
+    "variantlar": [
+     "1/6",
+     "1/3",
+     "1/2",
+     "1/4"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "y=4 va y=x² chiziqlar bilan chegaralangan shakl yuzini toping.",
+    "variantlar": [
+     "8",
+     "64/3",
+     "32/3",
+     "16/3"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "y=x chiziqning x∈[0; 3] kesmadagi qismi Ox o'qi atrofida aylantirilganda hosil bo'lgan jismning hajmini toping.",
+    "variantlar": [
+     "6π",
+     "9π",
+     "27π",
+     "3π"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "y=2 to'g'ri chiziqning x∈[0; 3] kesmadagi qismi Ox o'qi atrofida aylantirilganda hosil bo'lgan jismning hajmini toping.",
+    "variantlar": [
+     "18π",
+     "6π",
+     "4π",
+     "12π"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Prujinani 0,01 m siqish uchun 10 N kuch kerak bo'lsa (k=1000 N/m), uni 0,02 m siqish uchun bajarilgan ishni toping.",
+    "variantlar": [
+     "0,4 J",
+     "20 J",
+     "0,1 J",
+     "0,2 J"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "F(x)=4x kuch ta'sirida nuqta x=0 dan x=3 gacha ko'chdi. Kuchning bajargan ishini toping.",
+    "variantlar": [
+     "36",
+     "12",
+     "18",
+     "9"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Prujinani 0,02 m siqish uchun 6 N kuch kerak bo'lsa, prujinaning k koeffitsiyenti nimaga teng?",
+    "variantlar": [
+     "120 N/m",
+     "300 N/m",
+     "3 N/m",
+     "0,12 N/m"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "y=√x, x=1, x=4 chiziqlar va Ox o'qi bilan chegaralangan shaklning Ox o'qi atrofida aylanishidan hosil bo'lgan jism hajmini toping.",
+    "variantlar": [
+     "7π/3",
+     "9π/2",
+     "15π/2",
+     "15π"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "y=x chiziq, Ox o'qi va x=1 to'g'ri chiziq bilan chegaralangan shaklning Oy o'qi atrofida aylanishidan hosil bo'lgan jism hajmini (V=2π∫x·f(x)dx formula bilan) toping.",
+    "variantlar": [
+     "2π",
+     "π/3",
+     "2π/3",
+     "π"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Asosining radiusi R=3, balandligi H=4 bo'lgan konus hajmini toping.",
+    "variantlar": [
+     "36π",
+     "12π",
+     "48π",
+     "24π"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "y=x² parabola va y=2x to'g'ri chiziq bilan chegaralangan shakl yuzini toping.",
+    "variantlar": [
+     "4/3",
+     "8/3",
+     "2",
+     "4"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "y=−x²+4x parabola hamda (4; 0) va (0; 4) nuqtalar orqali o'tuvchi to'g'ri chiziq bilan chegaralangan shakl yuzini toping.",
+    "variantlar": [
+     "4,5",
+     "9",
+     "3,5",
+     "27/4"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "f(x)=2x−2 funksiya grafigi va uning F(0)=1 shartni qanoatlantiruvchi boshlang'ich funksiyasi grafigi bilan chegaralangan shakl yuzini toping.",
+    "variantlar": [
+     "4/3",
+     "2/3",
+     "8/3",
+     "2"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Sharning radiusi R=5 bo'lsa, balandligi H=2 bo'lgan shar segmentining hajmini toping.",
+    "variantlar": [
+     "26π/3",
+     "20π",
+     "104π/3",
+     "52π/3"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Kesik konusning asoslari radiuslari R=3 va r=1, balandligi H=3 bo'lsa, uning hajmini toping.",
+    "variantlar": [
+     "26π",
+     "39π",
+     "13π",
+     "9π"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "2 N kuch prujinani 1 cm ga siqsa, prujinani 3 cm siqish uchun sarflanadigan ishni toping.",
+    "variantlar": [
+     "0,09 J",
+     "0,18 J",
+     "0,06 J",
+     "9 J"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "y=sin x, x∈[0; π] funksiya grafigining Ox o'qi atrofida aylanishidan hosil bo'lgan jismning hajmini toping.",
+    "variantlar": [
+     "π²",
+     "π²/2",
+     "π/2",
+     "2π"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "y=−x²+4, 0≤x≤2 va x=0 chiziqlar bilan chegaralangan shaklning Ox o'qi atrofida aylanishidan hosil bo'lgan jism hajmini toping.",
+    "variantlar": [
+     "128π/15",
+     "16π/3",
+     "32π/3",
+     "256π/15"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "y=−x²+1, 0≤x≤1 va Oy o'qi bilan chegaralangan shaklning Oy o'qi atrofida aylanishidan hosil bo'lgan jism hajmini toping.",
+    "variantlar": [
+     "π/2",
+     "π",
+     "2π/3",
+     "π/4"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Prujina uchun k=1000 N/m. Uni 0,01 m siqilgan holatdan 0,03 m siqilgan holatgacha siqish uchun bajarilgan ishni toping.",
+    "variantlar": [
+     "0,5 J",
+     "0,4 J",
+     "0,45 J",
+     "0,8 J"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "11-sinf",
+  "kitob": "11-Sinf Matematika 2-qism",
+  "mavzu": "51 Taqribiy integrallash",
+  "savollar": [
+   {
+    "savol": "Aniq integralni taqribiy hisoblash masalasi qachon qo‘yiladi?",
+    "variantlar": [
+     "f(x) funksiya uzluksiz bo‘lsa",
+     "integral chegaralari butun sonlar bo‘lsa",
+     "f(x) funksiyaning boshlang‘ich funksiyasi topilmasa",
+     "f(x) funksiyaning hosilasi mavjud bo‘lsa"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "[a; b] kesma n ta teng bo‘lakka bo‘linganda har bir bo‘lakning uzunligi Δx nimaga teng?",
+    "variantlar": [
+     "(b − a)/n",
+     "n/(b − a)",
+     "(b − a)·n",
+     "(b + a)/n"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "To‘g‘ri to‘rtburchaklar (1) formulasida to‘g‘ri to‘rtburchakning balandligi sifatida nima olinadi?",
+    "variantlar": [
+     "f(x) ning [xk; xk+1] kesma o‘ng uchi xk+1 dagi qiymati",
+     "f(x) ning eng katta qiymati",
+     "f(x) ning [xk; xk+1] kesma chap uchi xk dagi qiymati f(xk)",
+     "f(x) ning [xk; xk+1] kesma o‘rtasidagi qiymati"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "(1a) formulada to‘g‘ri to‘rtburchakning balandligi sifatida nima olinadi?",
+    "variantlar": [
+     "kesma uzunligi",
+     "kesma o‘ng uchidagi f(xk+1) qiymat",
+     "kesma chap uchidagi f(xk) qiymat",
+     "kesma o‘rtasidagi qiymat"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "(1b) formulada to‘g‘ri to‘rtburchakning balandligi sifatida nima olinadi?",
+    "variantlar": [
+     "kesma chap uchidagi qiymat",
+     "kesma o‘ng uchidagi qiymat",
+     "kesma o‘rtasidagi nuqtada f(x) ning qiymati",
+     "f(a) va f(b) ning yig‘indisi"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "[a; b] kesma n ta teng bo‘lakka bo‘linsa, x0, x1, ..., xn bo‘linish nuqtalari nechta bo‘ladi?",
+    "variantlar": [
+     "n + 2",
+     "n",
+     "n − 1",
+     "n + 1"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Trapetsiyalar formulasida har bir kichik egri chiziqli trapetsiya qanday shaklga almashtiriladi?",
+    "variantlar": [
+     "uchburchak bilan",
+     "asosi Δx, balandligi f(xk) bo‘lgan to‘g‘ri to‘rtburchak bilan",
+     "asoslari f(xk) va f(xk+1), balandligi Δx bo‘lgan trapetsiya bilan",
+     "doira sektori bilan"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Trapetsiyalar formulasi (2) qaysi ko‘rinishda yoziladi?",
+    "variantlar": [
+     "(b − a)/n · ((f(a) + f(b))/2 + f(x1) + ... + f(xn−1))",
+     "(b − a)/n · (f(x1) + f(x2) + ... + f(xn))",
+     "(b − a)/n · (f(a) − f(b))",
+     "(b − a) · (f(a) + f(b))"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Matndagi 1-misolda e^(−x²) integrali uchun qaysi formula aniqroq natija bergan?",
+    "variantlar": [
+     "to‘g‘ri to‘rtburchaklar formulasi",
+     "trapetsiyalar formulasi",
+     "Nyuton–Leybnis formulasi",
+     "ikkala formula bir xil aniqlikda"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Taqribiy integrallash formulalarida bo‘linish nuqtalaridan grafik bilan kesishguncha qanday to‘g‘ri chiziqlar o‘tkaziladi?",
+    "variantlar": [
+     "Ox o‘qiga parallel chiziqlar",
+     "Oy o‘qiga perpendikulyar chiziqlar",
+     "y = x to‘g‘ri chiziqqa parallel chiziqlar",
+     "Ox o‘qiga perpendikulyar vertikal chiziqlar"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "[0; 1] kesma 5 ta teng qismga bo‘linsa, Δx nimaga teng?",
+    "variantlar": [
+     "5",
+     "0,2",
+     "0,5",
+     "0,1"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "[2; 8] kesma 3 ta teng qismga bo‘linsa, Δx nimaga teng?",
+    "variantlar": [
+     "2",
+     "3",
+     "6",
+     "10/3"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "[0; 1] kesma 10 ta teng qismga bo‘linganda [x4; x5] kesmaning o‘rtasi x4,5 nimaga teng?",
+    "variantlar": [
+     "0,45",
+     "0,4",
+     "0,5",
+     "0,55"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "f(x) = 1/(1 + x²) bo‘lsa, f(0,75) nimaga teng?",
+    "variantlar": [
+     "0,64",
+     "1,5625",
+     "0,75",
+     "0,5625"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "∫₀¹ dx/(1 + x²) integralning aniq qiymati nimaga teng?",
+    "variantlar": [
+     "π/4",
+     "π/2",
+     "π",
+     "1"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "∫₀² x² dx integralni trapetsiyalar formulasi bilan n = 1 da hisoblang.",
+    "variantlar": [
+     "8/3",
+     "2",
+     "4",
+     "8"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "∫₀⁴ x dx integralni (1) formula (chap uchlar) bilan n = 4 da hisoblang.",
+    "variantlar": [
+     "8",
+     "10",
+     "4",
+     "6"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "∫₀⁴ x dx integralni (1a) formula (o‘ng uchlar) bilan n = 4 da hisoblang.",
+    "variantlar": [
+     "8",
+     "10",
+     "12",
+     "6"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "∫₀⁴ x dx integralni (1b) formula (o‘rtalar) bilan n = 4 da hisoblang.",
+    "variantlar": [
+     "6",
+     "7",
+     "8",
+     "10"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "1-misolda trapetsiyalar formulasi bo‘yicha qavs ichidagi yig‘indi 3,72184 va Δx = 0,2 bo‘lsa, A taqriban nimaga teng?",
+    "variantlar": [
+     "3,7218",
+     "0,8872",
+     "0,7444",
+     "0,3722"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "2-misolda f(x₁/₂) + f(x₃/₂) + ... + f(x₁₉/₂) = 7,8561 va Δx = 0,1 bo‘lsa, B = ∫₀¹ dx/(1 + x²) taqriban nimaga teng?",
+    "variantlar": [
+     "7,8561",
+     "0,7856",
+     "0,7854",
+     "0,0002"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "∫₀² x² dx integralni (1b) formula bilan n = 2 da hisoblang.",
+    "variantlar": [
+     "3",
+     "2,5",
+     "8/3",
+     "2"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "∫₀³ (2x + 1) dx integralni trapetsiyalar formulasi bilan n = 3 da hisoblang.",
+    "variantlar": [
+     "15",
+     "9",
+     "10,5",
+     "12"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "∫₀² x² dx integralni (1) formula (chap uchlar) bilan n = 2 da hisoblang.",
+    "variantlar": [
+     "3",
+     "2",
+     "1",
+     "5"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "∫₀¹ dx/(1 + x²) integralni (1b) formula bilan n = 2 da hisoblang (f(0,25) ≈ 0,9412, f(0,75) = 0,64).",
+    "variantlar": [
+     "0,8824",
+     "0,7906",
+     "0,7854",
+     "1,5812"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "∫₀¹ dx/(1 + x²) integralni trapetsiyalar formulasi bilan n = 2 da hisoblang (f(0) = 1, f(0,5) = 0,8, f(1) = 0,5).",
+    "variantlar": [
+     "0,75",
+     "0,775",
+     "1,55",
+     "0,65"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "2-misolda B ≈ 0,7856 topildi va B = π/4 ekanligi ma’lum. Bu natijadan π ning qanday taqribiy qiymati kelib chiqadi?",
+    "variantlar": [
+     "3,1856",
+     "3,1424",
+     "3,1416",
+     "3,1400"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "∫₀¹ dx/(1 + x²) integralni (1a) formula (o‘ng uchlar) bilan n = 2 da hisoblang (f(0,5) = 0,8, f(1) = 0,5).",
+    "variantlar": [
+     "1,3",
+     "0,9",
+     "0,65",
+     "0,775"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "f(x) = e^(−x²) kamayuvchi funksiya. Shu sababli (1) formula (chap uchlar) bo‘yicha hisoblangan yig‘indi aniq integraldan qanday farq qiladi?",
+    "variantlar": [
+     "funksiya kamayishi natijaga ta’sir qilmaydi",
+     "aniq integraldan katta bo‘ladi, chunki chap uchdagi qiymat kesmadagi eng katta qiymat",
+     "har doim aniq integralga teng bo‘ladi",
+     "aniq integraldan kichik bo‘ladi"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "[0; 1] kesma 10 ta teng qismga bo‘lingan. Trapetsiyalar formulasida f(a) va f(b) dan tashqari nechta oraliq qiymat f(x₁), ..., f(xₙ₋₁) qo‘shiladi?",
+    "variantlar": [
+     "9",
+     "10",
+     "8",
+     "11"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "11-sinf",
+  "kitob": "11-Sinf Matematika 2-qism",
+  "mavzu": "52 Boshlang'ich funksiya",
+  "savollar": [
+   {
+    "savol": "Hosilasi bo'yicha funksiyaning o'zini topish nimani anglatadi?",
+    "variantlar": [
+     "Funksiyaning eng katta qiymatini topishni",
+     "Funksiyaning nollarini topishni",
+     "Funksiyaning ikkinchi tartibli hosilasini topishni",
+     "Funksiyaning boshlang'ich funksiyasini topishni"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "5–3t funksiyaning boshlang'ich funksiyasi qaysi javobda to'g'ri berilgan (C – ixtiyoriy o'zgarmas son)?",
+    "variantlar": [
+     "–3 + C",
+     "5t – 3t²/2 + C",
+     "5 – 3t²/2 + C",
+     "5t + 3t²/2 + C"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Boshlang'ich funksiyadagi C nima?",
+    "variantlar": [
+     "Ixtiyoriy o'zgarmas son",
+     "Funksiyaning hosilasi",
+     "Proporsionallik koeffitsiyenti",
+     "Argumentning qiymati"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "y' = 3x² – 1 differensial tenglamaning umumiy yechimi qaysi?",
+    "variantlar": [
+     "y = x³ – x + C",
+     "y = 6x + C",
+     "y = x³ + x + C",
+     "y = 3x³ – x + C"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "y' = 3x² – 1 differensial tenglamaning nechta yechimi bor?",
+    "variantlar": [
+     "Yechimi yo'q",
+     "Faqat ikkita",
+     "Cheksiz ko'p",
+     "Faqat bitta"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Differensial tenglama yechimidagi o'zgarmas son C ni topish uchun nima qilish kerak?",
+    "variantlar": [
+     "Qo'shimcha shart qo'yish",
+     "Tenglamaning ikkala tomonini nolga tenglash",
+     "Hosilani o'zgarmas songa ko'paytirish",
+     "Tenglamani ikki marta differensiallash"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Miqdorning o'zgarish tezligi shu miqdorning ayni momentdagi qiymatiga proporsional bo'lsa, qanday differensial tenglama hosil bo'ladi?",
+    "variantlar": [
+     "y' = k/y",
+     "y' = ky",
+     "y' = y²",
+     "y' = k + y"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "y' = ky tenglamadagi k nima?",
+    "variantlar": [
+     "Ixtiyoriy o'zgarmas son C",
+     "Proporsionallik koeffitsiyenti",
+     "Boshlang'ich qiymat",
+     "Vaqt momenti"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "y' = sinx + cosx differensial tenglamaning umumiy yechimi qaysi?",
+    "variantlar": [
+     "y = –cosx + sinx + C",
+     "y = cosx + sinx + C",
+     "y = cosx – sinx + C",
+     "y = –cosx – sinx + C"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "4-masalada y(2) = 9 sharti nimani bildiradi?",
+    "variantlar": [
+     "x = 2 bo'lganda y = 9",
+     "x = 9 bo'lganda y = 2",
+     "Hosila 9 ga teng",
+     "C = 9 ga teng"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "y' = 4x³ differensial tenglamaning umumiy yechimi qaysi?",
+    "variantlar": [
+     "y = x³ + C",
+     "y = x⁴ + C",
+     "y = 4x⁴ + C",
+     "y = 12x² + C"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "y' = cosx tenglamaning y(0) = 3 shartni qanoatlantiruvchi yechimini toping.",
+    "variantlar": [
+     "y = cosx + 3",
+     "y = sinx + 3",
+     "y = sinx + 0",
+     "y = –sinx + 3"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "y' = 2x + 1 tenglamaning y(1) = 5 shartni qanoatlantiruvchi yechimini toping.",
+    "variantlar": [
+     "y = x² + x + 5",
+     "y = x² + x + 3",
+     "y = x² + x + 2",
+     "y = x² + x + 4"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Tezlik s' = 6t bo'lib, s(0) = 2 bo'lsa, s(t) funksiyani toping.",
+    "variantlar": [
+     "s = 6t + 2",
+     "s = 6t² + 2",
+     "s = 3t² + 2",
+     "s = 3t² + 6"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "s' = 5 – 3t va s(0) = 1 bo'lsa, s(2) ning qiymati nechaga teng?",
+    "variantlar": [
+     "3",
+     "5",
+     "4",
+     "6"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "y' = 3x² – 1 tenglamaning y(1) = 4 shartni qanoatlantiruvchi yechimini toping.",
+    "variantlar": [
+     "y = x³ + x + 4",
+     "y = x³ – x + 1",
+     "y = x³ – x + 4",
+     "y = x³ – x + 3"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "y' = 1 + 2x tenglamaning y(0) = 7 shartni qanoatlantiruvchi yechimini toping.",
+    "variantlar": [
+     "y = x + x² – 7",
+     "y = x + 2x² + 7",
+     "y = 2x + x² + 7",
+     "y = x + x² + 7"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Quyidagi funksiyalardan qaysi biri y' = sinx + cosx tenglamaning yechimi bo'ladi?",
+    "variantlar": [
+     "y = sinx + cosx",
+     "y = cosx – sinx + 1",
+     "y = –cosx – sinx",
+     "y = –cosx + sinx + 1"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "y' = 3x² + 2x tenglamaning y(1) = 0 shartni qanoatlantiruvchi yechimini toping.",
+    "variantlar": [
+     "y = x³ + x² + 2",
+     "y = x³ + x²",
+     "y = x³ + x² – 1",
+     "y = x³ + x² – 2"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "y = x³ – x + C funksiya y(2) = 10 shartni qanoatlantirsa, C nechaga teng?",
+    "variantlar": [
+     "16",
+     "2",
+     "4",
+     "6"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "y' = 1 + 2x + 3x² – 4x³ tenglamaning y(2) = 9 shartni qanoatlantiruvchi yechimi uchun y(1) nechaga teng?",
+    "variantlar": [
+     "14",
+     "12",
+     "11",
+     "13"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "y' = sinx + cosx tenglamaning y(π/2) = 5 shartni qanoatlantiruvchi yechimi uchun y(π) nechaga teng?",
+    "variantlar": [
+     "6",
+     "3",
+     "5",
+     "4"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "y' = sinx + cosx tenglamaning y(π/2) = 5 shartni qanoatlantiruvchi yechimi uchun y(0) nechaga teng?",
+    "variantlar": [
+     "2",
+     "5",
+     "4",
+     "3"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "y' = 3x² – 1 tenglamaning ikkita turli yechimi y₁(x) va y₂(x) bo'lsa, ularning y₁(x) – y₂(x) ayirmasi qanday bo'ladi?",
+    "variantlar": [
+     "x ga bog'liq chiziqli funksiya",
+     "Doim nolga teng",
+     "x³ ga teng",
+     "O'zgarmas son"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Nuqtaning tezligi s' = 5 – 3t, s(0) = 0 bo'lsa, t > 0 da s(t) = 0 bo'ladigan t ning qiymatini toping.",
+    "variantlar": [
+     "5/3",
+     "10/3",
+     "3/10",
+     "2"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "y' = 3x² – 1 tenglamaning y(2) = 10 shartni qanoatlantiruvchi yechimi uchun y(3) nechaga teng?",
+    "variantlar": [
+     "27",
+     "24",
+     "28",
+     "30"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Miqdorning o'zgarish tezligi y' = ky qonuniga bo'ysunadi, k = 3. Miqdor y = 4 ga teng bo'lgan momentda o'zgarish tezligi nechaga teng?",
+    "variantlar": [
+     "7",
+     "3/4",
+     "4/3",
+     "12"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "y' = 1 + 2x + 3x² – 4x³ tenglamaning yechimi y = x + x² + x³ – x⁴ + C. Agar y(2) = 5 bo'lsa, C nechaga teng?",
+    "variantlar": [
+     "9",
+     "5",
+     "7",
+     "11"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "y' = sinx + cosx tenglamaning y(0) = 5 shartni qanoatlantiruvchi yechimi uchun y(π/2) nechaga teng?",
+    "variantlar": [
+     "7",
+     "8",
+     "6",
+     "5"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "y' = 2(3x² – 1) tenglamaning y(0) = 1 shartni qanoatlantiruvchi yechimi uchun y(1) nechaga teng?",
+    "variantlar": [
+     "3",
+     "0",
+     "1",
+     "2"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "11-sinf",
+  "kitob": "11-Sinf Matematika 2-qism",
+  "mavzu": "53 Differensial tenglamalar",
+  "savollar": [
+   {
+    "savol": "y'=ky differensial tenglamaning y(0)=y0 shartni qanoatlantiruvchi yechimi qaysi?",
+    "variantlar": [
+     "y=y0·ln(kt)",
+     "y=k·e^(y0·t)",
+     "y=y0·e^(kt)",
+     "y=y0+kt"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "y'=k(y–a) tenglamaning y(0)=y0 shartdagi yechimi qaysi?",
+    "variantlar": [
+     "y=y0·e^(kt)",
+     "y=a–(y0+a)·e^(kt)",
+     "y=a+(y0–a)·e^(kt)",
+     "y=(y0–a)+a·e^(kt)"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "y'=k(y–a) tenglamani yechishda z=y–a belgilash kiritilsa, tenglama qanday ko'rinishga keladi?",
+    "variantlar": [
+     "z'=z+a",
+     "z'=k(z–a)",
+     "z'=kz",
+     "z'=k"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Egri chiziqqa o'tkazilgan urinmaning koordinata o'qlari orasidagi kesmasi urinish nuqtasida teng ikkiga bo'linsa, egri chiziq qaysi differensial tenglamani qanoatlantiradi?",
+    "variantlar": [
+     "y'=y/x",
+     "y'=–x/y",
+     "y'=xy",
+     "y'=–y/x"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Urinmasining o'qlar orasidagi kesmasi urinish nuqtasida teng ikkiga bo'linadigan va M(a; b) nuqtadan o'tuvchi egri chiziq tenglamasi qaysi?",
+    "variantlar": [
+     "y=ab·x²",
+     "y=ab/x",
+     "y=a·b·x",
+     "y=(a+b)/x"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Garmonik tebranishning differensial tenglamasi qaysi? (ω – berilgan musbat son)",
+    "variantlar": [
+     "y''+ω²y=0",
+     "y'=ωy",
+     "y'+ωy=0",
+     "y''–ω²y=0"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "y''+3y'–4y=5·e^x differensial tenglama nechanchi tartibli?",
+    "variantlar": [
+     "Ikkinchi",
+     "Birinchi",
+     "Nolinchi",
+     "Uchinchi"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "dy/y=k·dt tenglikni integrallash natijasida qanday tenglik hosil bo'ladi?",
+    "variantlar": [
+     "y=kt+C",
+     "ln y=kt+ln C",
+     "ln y=k/t+ln C",
+     "y=ln(kt)+C"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "y'=ky tenglamada y=C·e^(kt) yechim uchun y(0)=y0 shartdan C nimaga teng bo'ladi?",
+    "variantlar": [
+     "C=0",
+     "C=k",
+     "C=y0",
+     "C=1/y0"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Idishdagi aralashma haqidagi masalada (8-masala) jarayon boshida idishda necha litr azot bo'lgan?",
+    "variantlar": [
+     "50 litr",
+     "35 litr",
+     "15 litr",
+     "30 litr"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "y'=3y, y(0)=2 masalaning yechimini toping.",
+    "variantlar": [
+     "y=2e^(3t)",
+     "y=6e^t",
+     "y=2+3t",
+     "y=3e^(2t)"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "y'=2(y–5), y(0)=7 masalaning yechimini toping.",
+    "variantlar": [
+     "y=5+2e^(2t)",
+     "y=2+5e^(2t)",
+     "y=5+7e^(2t)",
+     "y=7+5e^(2t)"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "y=x²+x funksiya uchun xy' ifoda nimaga teng?",
+    "variantlar": [
+     "2x+1",
+     "x²+x",
+     "x²+2x",
+     "2x²+x"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "y=sin3x funksiya y''+k·y=0 tenglamani qanoatlantirsa, k nechaga teng?",
+    "variantlar": [
+     "3",
+     "6",
+     "9",
+     "–9"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "y'=7cos x differensial tenglamaning y(π/2)=1 shartni qanoatlantiruvchi yechimini toping.",
+    "variantlar": [
+     "y=7sin x–6",
+     "y=7sin x+1",
+     "y=–7sin x+8",
+     "y=7sin x–7"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "y'=e^(–x) tenglamaning y(1)=2 shartni qanoatlantiruvchi yechimini toping.",
+    "variantlar": [
+     "y=–e^(–x)+2",
+     "y=e^(–x)+2–e^(–1)",
+     "y=e^(–x)+2+e^(–1)",
+     "y=–e^(–x)+2+e^(–1)"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Radioaktiv moddaning yarim parchalanish davri 1000 yil. Dastlabki miqdori m0 bo'lsa, 2000 yildan so'ng qancha qoladi?",
+    "variantlar": [
+     "m0/8",
+     "m0/16",
+     "m0/4",
+     "m0/2"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "y'=2y/x tenglamaning y(1)=2 shartni qanoatlantiruvchi yechimini toping.",
+    "variantlar": [
+     "y=2/x²",
+     "y=x²+1",
+     "y=2x²",
+     "y=2x"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Urinmasining o'qlar orasidagi kesmasi urinish nuqtasida teng ikkiga bo'linadigan egri chiziq M(2; 3) nuqtadan o'tsa, uning tenglamasi qaysi?",
+    "variantlar": [
+     "y=6/x",
+     "y=5/x",
+     "y=3/(2x)",
+     "y=6x"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "8-masalada 99% azot bo'lgan paytda idishda necha litr azot bo'ladi?",
+    "variantlar": [
+     "49 litr",
+     "35,5 litr",
+     "0,99 litr",
+     "49,5 litr"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Xonadagi havo temperaturasi 20°C. Qaynoq suv 20 minutda 100°C dan 60°C gacha sovidi. Sovish tezligi suv va havo temperaturalari ayirmasiga proporsional bo'lsa, suv necha minutda 30°C gacha soviydi (boshidan hisoblaganda)?",
+    "variantlar": [
+     "80 minut",
+     "40 minut",
+     "50 minut",
+     "60 minut"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Xonadagi havo temperaturasi 20°C. Qaynoq suv 20 minutda 100°C dan 60°C gacha sovidi. Sovish tezligi suv va havo temperaturalari ayirmasiga proporsional bo'lsa, suv boshidan necha minutdan so'ng 40°C bo'ladi?",
+    "variantlar": [
+     "30 minut",
+     "45 minut",
+     "40 minut",
+     "50 minut"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Radioaktiv moddaning yarim parchalanish davri 1000 yil, dastlabki miqdori m0. 500 yildan so'ng modda qancha qoladi?",
+    "variantlar": [
+     "m0·√2/2 dan kam emas, ya'ni 3m0/4",
+     "m0/√2",
+     "m0/2",
+     "m0/4"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "y=x·e^x funksiya uchun y''+3y'–4y ifoda nimaga teng?",
+    "variantlar": [
+     "0",
+     "5e^x",
+     "5x·e^x",
+     "e^x"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "y''+25y=0 tenglamaning y=C1cos5x+C2sin5x ko'rinishdagi yechimi y(0)=2 va y'(0)=10 shartlarni qanoatlantirsa, u qaysi?",
+    "variantlar": [
+     "y=10cos5x+2sin5x",
+     "y=2cos5x+sin5x",
+     "y=2cos5x+2sin5x",
+     "y=2cos5x+10sin5x"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "y'=k(y–a) tenglamada boshlang'ich shart y(0)=a bo'lsa, yechim qanday bo'ladi?",
+    "variantlar": [
+     "y=a (o'zgarmas)",
+     "y=a·e^(kt)",
+     "y=a+e^(kt)",
+     "y=a–e^(kt)"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "y'=k(y–4) tenglamaning yechimi y(0)=10 va y(1)=7 shartlarni qanoatlantiradi. y(3) nimaga teng?",
+    "variantlar": [
+     "5,5",
+     "4,25",
+     "4,75",
+     "5"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "8-masaladagi y=50–15·e^(–0,004t) yechimga ko'ra idishda 85% azot bo'lishi uchun qancha vaqt (sekund) o'tishi kerak?",
+    "variantlar": [
+     "ln2/0,004",
+     "ln1,5/0,004",
+     "ln3/0,004",
+     "ln30/0,004"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Idishda 10 litr suv bor. Har minutda 2 litr 0,3 kg/l tuzli eritma quyiladi va shuncha aralashma oqib chiqadi. Idishdagi tuz miqdori y(t) uchun to'g'ri formulani toping.",
+    "variantlar": [
+     "y=0,6t",
+     "y=3–3e^(0,2t)",
+     "y=3+3e^(–0,2t)",
+     "y=3–3e^(–0,2t)"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "11-sinf",
+  "kitob": "11-Sinf Matematika 2-qism",
+  "mavzu": "55–56 Statistik ma'lumotlar",
+  "savollar": [
+   {
+    "savol": "O'rganilishi kerak bo'lgan barcha obyektlar to'plami nima deyiladi?",
+    "variantlar": [
+     "Tanlanma to'plam",
+     "Bosh to'plam",
+     "Chastotalar poligoni",
+     "Variatsion qator"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Bosh to'plamdan ajratib olingan obyektlar to'plami nima deb ataladi?",
+    "variantlar": [
+     "Moda",
+     "Tanlanma to'plam",
+     "Parametr",
+     "Gistogramma"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Tabiati sonli bo'lmagan statistik ma'lumotlar qanday ataladi?",
+    "variantlar": [
+     "Kvantitativ",
+     "Kvalitativ",
+     "Nisbiy",
+     "Variatsion"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ma'lumotlar qatorida eng ko'p uchraydigan varianta nima deyiladi?",
+    "variantlar": [
+     "Mediana",
+     "O'rta qiymat",
+     "Moda",
+     "O'zgarish kengligi"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "O'zgarish kengligi nima?",
+    "variantlar": [
+     "Eng katta varianta bilan eng kichik variantaning ayirmasi",
+     "Eng ko'p uchraydigan varianta",
+     "Variatsion qatorning o'rtasida turgan son",
+     "Eng katta va eng kichik variantalarning yig'indisi"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Bosh to'plamning barcha elementlarini xarakterlovchi sifat yoki miqdor belgisi nima deyiladi?",
+    "variantlar": [
+     "Statistika",
+     "Chastota",
+     "Varianta",
+     "Parametr"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Tanlanma to'plamning funksiyasi nima deb ataladi?",
+    "variantlar": [
+     "Bosh to'plam",
+     "Parametr",
+     "Poligon",
+     "Statistika"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Tanlanma hajmi n, xi variantaning chastotasi ni bo'lsa, nisbiy chastota qaysi formula bilan topiladi?",
+    "variantlar": [
+     "ni / n",
+     "ni · n",
+     "n − ni",
+     "ni + n"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Gistogrammada to'g'ri to'rtburchaklarning asoslari va balandliklari nimaga teng bo'ladi?",
+    "variantlar": [
+     "Asoslari chastotalarga, balandliklari oraliqlarga",
+     "Asoslari o'rta qiymat, balandliklari hajm",
+     "Asoslari oraliqlarga, balandliklari chastotalarga",
+     "Asoslari moda, balandliklari mediana"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Variantalar soni n toq bo'lsa, mediana variatsion qatorning nechanchi hadiga teng bo'ladi?",
+    "variantlar": [
+     "(n+1)/2-hadiga",
+     "n-hadiga",
+     "n/2-hadiga",
+     "(n−1)/2-hadiga"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Tanlanma hajmi 20 ta, biror variantaning chastotasi 5 ga teng. Uning nisbiy chastotasi necha foiz?",
+    "variantlar": [
+     "25%",
+     "30%",
+     "15%",
+     "20%"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "12, 7, 19, 3, 15 qatorning o'zgarish kengligi nechaga teng?",
+    "variantlar": [
+     "16",
+     "22",
+     "9",
+     "12"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "2, 4, 6, 8 sonlarning o'rta qiymati nechaga teng?",
+    "variantlar": [
+     "20",
+     "5",
+     "4",
+     "6"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "4, 8, 6, 10, 2, 12 ma'lumotlar qatorining medianasi nechaga teng?",
+    "variantlar": [
+     "7",
+     "8",
+     "9",
+     "6"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "3, 6, 5, 6, 4, 5, 5, 6, 7 qatorda nechta moda bor?",
+    "variantlar": [
+     "Bitta",
+     "Uchta",
+     "Moda yo'q",
+     "Ikkita"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Tanlanma hajmi n = 55 bo'lsa, mediana variatsion qatorning nechanchi hadiga teng bo'ladi?",
+    "variantlar": [
+     "27-hadiga",
+     "55-hadiga",
+     "27,5-hadiga",
+     "28-hadiga"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Oraliqlar bo'yicha guruhlangan ma'lumotlarda o'rta qiymatni taqriban topishda 26–30 oraliqning o'rtasi sifatida qaysi son olinadi?",
+    "variantlar": [
+     "29",
+     "28",
+     "30",
+     "26"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "To'rt o'yinda basketbolchi 43, 55, 41 va 37 ochko to'plagan. Beshinchi o'yinda necha ochko to'plasa, o'rtacha ochko o'zgarmaydi?",
+    "variantlar": [
+     "41",
+     "44",
+     "43",
+     "46"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "1, 2, 3 qiymatlar mos ravishda 2, 5, 3 chastotalarga ega. Tanlanmaning o'rta qiymati nechaga teng?",
+    "variantlar": [
+     "6",
+     "2,3",
+     "2,1",
+     "2"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "1 va 5 sonlardan iborat qatorning standart chetlanishi nechaga teng?",
+    "variantlar": [
+     "4",
+     "1",
+     "8",
+     "2"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "A: 3, 4, 4, 5, 6, 6, 7, 7, 7, 8, 8, 9, 10 va B: 3, 4, 4, 5, 6, 6, 7, 7, 7, 8, 8, 9, 15 qatorlar berilgan. Qaysi fikr to'g'ri?",
+    "variantlar": [
+     "A ning o'rta qiymati katta, chunki unda 10 bor",
+     "B ning o'rta qiymati katta, medianalari teng, chunki o'rta qiymat chetdagi katta qiymatga sezgir",
+     "Medianalari ham, o'rta qiymatlari ham teng",
+     "B ning medianasi katta, chunki unda 15 bor"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ishchilar yoshi jadvali: 21–25 oraliqda 2 ta, 26–30 oraliqda 5 ta, 31–35 oraliqda 3 ta ishchi bor. O'rtacha yoshning taqribiy qiymati qancha?",
+    "variantlar": [
+     "27,5",
+     "28,5",
+     "28",
+     "29"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "5 ta o'yinda o'rtacha ochko 20 bo'lgan. Oltinchi o'yinda 32 ochko to'plansa, 6 ta o'yindagi o'rtacha ochko nechaga teng bo'ladi?",
+    "variantlar": [
+     "23",
+     "22",
+     "26",
+     "21"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Jamoa 4 ta o'yinda o'rtacha 44 ochko to'pladi (jami 176). Beshinchi o'yinda 25 ochko to'plansa, 5 ta o'yindagi o'rtacha ochko qancha bo'ladi?",
+    "variantlar": [
+     "35",
+     "41",
+     "40,2",
+     "39,8"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "2, 5, 4, 6, 7, 5, 6 qatorning o'rta qiymati 5 ga teng. Chetlanishlar kvadratlari yig'indisi (xi − x)² ning yig'indisi nechaga teng?",
+    "variantlar": [
+     "20",
+     "16",
+     "18",
+     "14"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "1, 2, 3, 4 qiymatlar mos ravishda 3, 4, 5, 4 chastotalarga ega. Mediana nechaga teng?",
+    "variantlar": [
+     "2",
+     "2,5",
+     "3",
+     "4"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "n = 40 hajmli tanlanmada 6 gacha (6 ni qo'shgan holda) yig'ma chastota 12 ga, 7 gacha esa 27 ga teng. Mediana nechaga teng?",
+    "variantlar": [
+     "7,5",
+     "7",
+     "6,5",
+     "6"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "1, 2, 3, 4, 100 qatorning o'rta qiymati 22, medianasi 3 ga teng. Qaysi xulosa to'g'ri?",
+    "variantlar": [
+     "Bu qatorda moda 100 ga teng",
+     "Qatorning markazi sifatida mediana yaxshiroq, chunki 100 qiymat o'rta qiymatni haddan ortiq oshirib yuborgan",
+     "Qatorning markazi sifatida o'rta qiymat yaxshiroq, chunki u 100 ni hisobga oladi",
+     "Mediana va o'rta qiymat har doim teng bo'ladi"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Tanlanma hajmi 50 ta. Bir oraliqning nisbiy chastotasi 0,16, boshqasiniki 0,30. Bu ikki oraliqdagi chastotalar yig'indisi nechaga teng?",
+    "variantlar": [
+     "46",
+     "23",
+     "25",
+     "21"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Sotsiolog tasodifan olingan 1320 nafar qizdan 145 nafari sport bilan shug'ullanishini aniqladi (taxminan 11%). Qaysi fikr to'g'ri?",
+    "variantlar": [
+     "11% — bosh to'plam hajmi",
+     "11% — statistika, hududdagi barcha qizlar orasidagi ulush (parametr) esa aniq noma'lum",
+     "11% — tanlanma hajmi",
+     "11% — parametr, uni aniq bilamiz"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "11-sinf",
+  "kitob": "11-Sinf Matematika 2-qism",
+  "mavzu": "57–58 Kombinatorika masalalari",
+  "savollar": [
+   {
+    "savol": "Kombinatorikaning asosiy savoli qanday?",
+    "variantlar": [
+     "Kim?",
+     "Qancha?",
+     "Qachon?",
+     "Nima uchun?"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Variantlarni birma-bir qarab chiqishda kombinatsiyalarni qanday tartibda yozish maqsadga muvofiq?",
+    "variantlar": [
+     "Alifbo tartibida yoki sonlarni o'sish tartibida",
+     "Faqat kamayish tartibida",
+     "Eng katta variantdan boshlab tartibsiz",
+     "Tasodifiy tartibda"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Qo'shish qoidasiga ko'ra, A obyekt m ta usul bilan, B obyekt esa boshqa n ta usul bilan tanlanishi mumkin bo'lsa, (A yoki B) nechta usul bilan tanlanadi?",
+    "variantlar": [
+     "m + n",
+     "m / n",
+     "m · n",
+     "m − n"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ko'paytirish qoidasiga ko'ra, A obyekt m ta usul bilan tanlanib, so'ng B obyekt n ta usul bilan tanlanishi mumkin bo'lsa, (A va B) nechta usul bilan tanlanadi?",
+    "variantlar": [
+     "m² + n²",
+     "m · n",
+     "m + n",
+     "m − n"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "n elementli to'plamning barcha qism to'plamlari soni nechta?",
+    "variantlar": [
+     "2ⁿ",
+     "n²",
+     "2n",
+     "n!"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "n! (\"en faktorial\") nimani anglatadi?",
+    "variantlar": [
+     "1 dan n gacha barcha natural sonlar yig'indisini",
+     "n ni n ga ko'paytmasini",
+     "1 dan n gacha barcha natural sonlar ko'paytmasini",
+     "n ning ikkiga ko'paytmasini"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "n! nimaga teng?",
+    "variantlar": [
+     "n elementli to'plamdagi juftliklar yig'indisiga",
+     "n elementli to'plam elementlarining o'rin almashtirishlari soniga",
+     "n elementdan 2 tadan o'rinlashtirishlar soniga",
+     "n elementli to'plamning qism to'plamlari soniga"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "n ta elementdan k tadan takrorli o'rinlashtirishlar soni qaysi formula bilan topiladi?",
+    "variantlar": [
+     "n! / k!",
+     "kⁿ − 1",
+     "n · k",
+     "nᵏ"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "n ta elementdan k tadan takrorsiz o'rinlashtirishlar soni A(n,k) uchun qaysi ifoda to'g'ri?",
+    "variantlar": [
+     "n·n·...·n (k marta)",
+     "n·(n−1)·...·(n−k+1)",
+     "n·(n−1)·...·1 faqat k = n bo'lganda",
+     "n·(n+1)·...·(n+k−1)"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Madina olma, nok va mandarinni ketma-ket yemoqchi. Buni necha usulda bajarishi mumkin?",
+    "variantlar": [
+     "9",
+     "6",
+     "8",
+     "3"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Savatda 5 ta olma va 3 ta nok bor. Savatdan 1 ta meva necha usulda tanlanadi?",
+    "variantlar": [
+     "53",
+     "2",
+     "8",
+     "15"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Do'konda 5 ta turli piyola va 3 ta turli likopcha bor. Piyola va likopcha juftligi necha usulda xarid qilinishi mumkin?",
+    "variantlar": [
+     "125",
+     "15",
+     "10",
+     "8"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Do'konda 5 ta piyola, 3 ta likopcha va 4 ta choy qoshig'i bor. Piyola, likopcha va qoshiqdan iborat uchlik necha usulda xarid qilinadi?",
+    "variantlar": [
+     "35",
+     "47",
+     "12",
+     "60"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Futbol jamoasida 11 nafar o'yinchi bor. Sardor va uning yordamchisi necha usulda tayinlanadi?",
+    "variantlar": [
+     "110",
+     "55",
+     "121",
+     "22"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "7 nafar o'quvchi navbatga necha usul bilan turishi mumkin?",
+    "variantlar": [
+     "720",
+     "49",
+     "40320",
+     "5040"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "1, 2, 3 raqamlaridan ularni takrorlamasdan tuzilgan uch xonali sonlar nechta?",
+    "variantlar": [
+     "27",
+     "6",
+     "3",
+     "9"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Xonada beshta chiroq bor, har biri yo yonadi, yo yonmaydi. Xonani necha usulda yoritish mumkin (hammasi o'chiq holat ham hisobga olinadi)?",
+    "variantlar": [
+     "32",
+     "25 dan 5 ta",
+     "10",
+     "16"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Toqqa 7 ta yo'l olib boradi. Sayyoh chiqish va tushishda yo'llarni cheklovsiz tanlasa, bu ishni necha usulda bajarishi mumkin?",
+    "variantlar": [
+     "7",
+     "14",
+     "42",
+     "49"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "A shahardan B shaharga 6 ta, B shahardan C shaharga 4 ta yo'l boradi. A dan C ga B orqali necha usulda borish mumkin?",
+    "variantlar": [
+     "64",
+     "2",
+     "10",
+     "24"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Uzunligi 4 bo'lgan, 5 ta belgidan iborat alifbodagi barcha belgilari turlicha so'zlar nechta?",
+    "variantlar": [
+     "5",
+     "20",
+     "625",
+     "120"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Toqqa 7 ta yo'l olib boradi. Sayyoh chiqish va tushishda har xil yo'llardan foydalansa, necha usulda bajarishi mumkin?",
+    "variantlar": [
+     "14",
+     "21",
+     "49",
+     "42"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Barcha raqamlari juft bo'lgan besh xonali sonlar nechta?",
+    "variantlar": [
+     "2500",
+     "2000",
+     "3125",
+     "5000"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Faqat toq raqamlardan iborat (\"chiroyli\") to'rt xonali sonlar nechta?",
+    "variantlar": [
+     "625",
+     "900",
+     "256",
+     "500"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Barcha raqamlari turlicha bo'lgan yetti raqamli telefon nomerlari (0 dan boshlanishi mumkin) nechta?",
+    "variantlar": [
+     "10⁷",
+     "9·9·8·7·6·5·4",
+     "10·9·8·7·6·5·4",
+     "10·9·8·7·6·5·4·3"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "3 ta tovuq, 4 ta o'rdak va 2 ta g'ozdan tanlanmoqda, tanlanganlar orasida har uchala turdan kamida bittadan bo'lishi shart. Variantlar soni nechta?",
+    "variantlar": [
+     "315",
+     "512",
+     "1024",
+     "24"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Raqamlari yig'indisi 4 dan kichik bo'lgan to'rt xonali sonlar nechta?",
+    "variantlar": [
+     "10",
+     "12",
+     "15",
+     "20"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Birinchi raqami 2 bo'lgan va 1, 2, 3, 4, 5 raqamlaridan tuzilgan (takrorlanishi mumkin) uch xonali sonlar nechta?",
+    "variantlar": [
+     "125",
+     "15",
+     "20",
+     "25"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Do'konda 5 ta piyola, 3 ta likopcha va 4 ta choy qoshig'i bor. Turli nomdagi ikkita idishdan iborat juftlik necha usulda xarid qilinishi mumkin?",
+    "variantlar": [
+     "12",
+     "47",
+     "60",
+     "35"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Maktabda beshta 11-sinf bor. Ikki nafar navbatchi har xil sinflardan tanlanadi va juftlikda tartib ahamiyatsiz (masalan, (1,2) va (2,1) bir xil). Necha usul bor?",
+    "variantlar": [
+     "25",
+     "20",
+     "10",
+     "5"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Futbol jamoasida 11 nafar o'yinchi bor. Sardor, birinchi yordamchi va ikkinchi yordamchi necha usulda tayinlanadi?",
+    "variantlar": [
+     "990",
+     "1331",
+     "165",
+     "110"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "11-sinf",
+  "kitob": "11-Sinf Matematika 2-qism",
+  "mavzu": "59–60 Nyuton binomi",
+  "savollar": [
+   {
+    "savol": "n elementli to'plamning elementlaridan hosil bo'lgan juftliklar soni qaysi formula bilan topiladi?",
+    "variantlar": [
+     "n(n−1)",
+     "n(n−1)/2",
+     "n²/2",
+     "n(n+1)/2"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Qavariq n-burchakdagi diagonallar soni qaysi formula bilan topiladi?",
+    "variantlar": [
+     "n(n−3)/2",
+     "n(n−3)",
+     "n(n−2)/2",
+     "n(n−1)/2"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "n elementdan k tadan olingan guruhlashlar soni C_n^k ning formulasi qaysi?",
+    "variantlar": [
+     "n!/(n−k)!",
+     "k!/(n!(n−k)!)",
+     "n!/(k!(n−k)!)",
+     "n!/k!"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Barcha binomial koeffitsiyentlar C_n^0 + C_n^1 + ... + C_n^n yig'indisi nimaga teng?",
+    "variantlar": [
+     "2^n",
+     "2n",
+     "n!",
+     "n²"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "n elementli to'plamning barcha qism to'plamlari soni nechaga teng?",
+    "variantlar": [
+     "n!",
+     "n²",
+     "2^n",
+     "2n"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ikki son yig'indisining kvadrati (a+b)² qaysi ifodaga teng?",
+    "variantlar": [
+     "a²+2ab+b²",
+     "a²+ab+b²",
+     "a²−2ab+b²",
+     "a²+b²"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Binomial koeffitsiyentlarning 2-xossasi nimani bildiradi?",
+    "variantlar": [
+     "Juft o'rinlardagi koeffitsiyentlar yig'indisi toq o'rinlardagidan katta",
+     "Toq o'rinlarda turgan koeffitsiyentlar yig'indisi juft o'rinlardagilar yig'indisiga teng",
+     "Barcha koeffitsiyentlar yig'indisi nolga teng",
+     "Toq o'rinlardagi koeffitsiyentlar yig'indisi juft o'rinlardagidan katta"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Toq o'rinlarda turgan binomial koeffitsiyentlar yig'indisi (C_n^1 + C_n^3 + ...) nimaga teng?",
+    "variantlar": [
+     "n·2^(n−1)",
+     "2^n",
+     "2^(n+1)",
+     "2^(n−1)"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "(a+b)⁴ yoyilmasida a²b² oldidagi koeffitsiyent nechaga teng?",
+    "variantlar": [
+     "4",
+     "12",
+     "6",
+     "8"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Sinfda 30 nafar o'quvchi bor. Olimpiadada qatnashish uchun 2 nafar o'quvchini necha usulda tanlash mumkin?",
+    "variantlar": [
+     "870",
+     "425",
+     "435",
+     "450"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Shaxmat musobaqasida 18 ishtirokchi bor va har biri qolganlarning har biri bilan bittadan o'yin o'ynaydi. Jami nechta o'yin o'ynaladi?",
+    "variantlar": [
+     "306",
+     "171",
+     "153",
+     "136"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "7 ta turli rangli bo'yoqdan 4 tasini necha usulda tanlash mumkin?",
+    "variantlar": [
+     "21",
+     "840",
+     "28",
+     "35"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Qavariq 10-burchakda nechta diagonal bor?",
+    "variantlar": [
+     "35",
+     "25",
+     "45",
+     "70"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "6 nafar ishchidan 3 nafarini necha usulda tanlash mumkin?",
+    "variantlar": [
+     "20",
+     "120",
+     "18",
+     "40"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "(a+b)⁵ yoyilmasida a³b² oldidagi koeffitsiyent nechaga teng?",
+    "variantlar": [
+     "10",
+     "20",
+     "5",
+     "15"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "8 elementli to'plamning barcha qism to'plamlari soni nechta?",
+    "variantlar": [
+     "128",
+     "256",
+     "512",
+     "64"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "C_n^0 + C_n^1 + ... + C_n^n = 1024 bo'lsa, n nechaga teng?",
+    "variantlar": [
+     "11",
+     "12",
+     "9",
+     "10"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "100 elementli to'plamning 40 elementli qism to'plamlari soni bilan 60 elementli qism to'plamlari sonini solishtiring.",
+    "variantlar": [
+     "Solishtirib bo'lmaydi",
+     "60 elementlilar soni ko'p",
+     "Ular o'zaro teng",
+     "40 elementlilar soni ko'p"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "7 nafar kishidan 3 nafarlik ishchi guruh tanlanib, guruh a'zolaridan biri rahbar etib belgilanadi. Buni necha usulda amalga oshirish mumkin?",
+    "variantlar": [
+     "210",
+     "70",
+     "105",
+     "35"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Qavariq ko'pburchakda 54 ta diagonal bor. Uning tomonlari soni nechta?",
+    "variantlar": [
+     "11",
+     "14",
+     "12",
+     "13"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Nyuton binomi yoyilmasida juft o'rinlarda turgan binomial koeffitsiyentlar yig'indisi 512 ga teng. n nechaga teng?",
+    "variantlar": [
+     "8",
+     "10",
+     "11",
+     "9"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Qavariq ko'pburchakdagi diagonallar soni uning tomonlari sonidan 4 marta ko'p. Bu ko'pburchak necha burchakli?",
+    "variantlar": [
+     "9",
+     "12",
+     "11",
+     "10"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Sinfda 10 nafar o'quvchi bor. 3 nafar o'quvchidan iborat jamoa tanlanib, jamoa a'zolaridan biri sardor etib belgilanadi. Buni necha usulda amalga oshirish mumkin?",
+    "variantlar": [
+     "120",
+     "180",
+     "720",
+     "360"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "C_8^1 + C_8^3 + C_8^5 + C_8^7 yig'indisi nechaga teng?",
+    "variantlar": [
+     "256",
+     "128",
+     "127",
+     "64"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "(x+2)⁵ yoyilmasida x³ oldidagi koeffitsiyent nechaga teng?",
+    "variantlar": [
+     "10",
+     "80",
+     "40",
+     "20"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "(3x−1)⁴ ko'phad yoyilmasidagi barcha koeffitsiyentlar yig'indisi nechaga teng?",
+    "variantlar": [
+     "81",
+     "1",
+     "0",
+     "16"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "(a−2)⁶ binom yoyilmasining 3-hadi qaysi ko'rinishda bo'ladi?",
+    "variantlar": [
+     "15a⁴",
+     "−60a⁴",
+     "60a⁴",
+     "30a⁴"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Sinfdagi n nafar o'quvchidan 2 nafarini tanlash usullari soni 45 ga teng. Shu sinfdagi o'quvchilardan tuzish mumkin bo'lgan barcha guruhlar (qism to'plamlar, bo'sh to'plam ham kiradi) soni nechta?",
+    "variantlar": [
+     "2048",
+     "100",
+     "512",
+     "1024"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "5 elementli to'plamning juft sondagi elementlardan iborat qism to'plamlari (bo'sh to'plam ham hisobga olinadi) soni nechta?",
+    "variantlar": [
+     "32",
+     "10",
+     "8",
+     "16"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Bir to'g'ri chiziqda 10 ta nuqta, unga parallel boshqa to'g'ri chiziqda 11 ta nuqta belgilangan. Uchlari shu nuqtalarda bo'lgan nechta uchburchak mavjud?",
+    "variantlar": [
+     "1330",
+     "495",
+     "1045",
+     "1050"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "11-sinf",
+  "kitob": "11-Sinf Matematika 2-qism",
+  "mavzu": "61–64 Tasodifiy hodisalar va ehtimollik",
+  "savollar": [
+   {
+    "savol": "Bosh to'plam deb nimaga aytiladi?",
+    "variantlar": [
+     "Bosh to'plamdan ajratib olingan obyektlar to'plamiga",
+     "O'rganilishi kerak bo'lgan barcha obyektlar to'plamiga",
+     "Faqat sonli ma'lumotlar to'plamiga",
+     "Eng katta variantalar to'plamiga"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Tanlanma to'plam deb nimaga aytiladi?",
+    "variantlar": [
+     "Chastotalar yig'indisiga",
+     "Bosh to'plamdan ajratib olingan obyektlar to'plamiga",
+     "Faqat bir xil variantalar to'plamiga",
+     "O'rganilishi kerak bo'lgan barcha obyektlar to'plamiga"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Tabiati sonli bo'lmagan statistik ma'lumotlar qanday ataladi?",
+    "variantlar": [
+     "Musbat",
+     "Kvantitativ",
+     "Chiziqli",
+     "Kvalitativ"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ma'lumotlar qatorida eng ko'p uchraydigan varianta nima deyiladi?",
+    "variantlar": [
+     "Mediana",
+     "Moda",
+     "O'zgarish kengligi",
+     "O'rta qiymat"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "O'zgarish kengligi nima?",
+    "variantlar": [
+     "Barcha variantalar yig'indisi",
+     "Eng katta va eng kichik variantalar ayirmasi",
+     "Qatorning o'rtasida turgan son",
+     "Eng ko'p uchragan varianta"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Korrelyatsiya koeffitsiyenti r qaysi kesmaga tegishli qiymatlar qabul qiladi?",
+    "variantlar": [
+     "[0; 1]",
+     "[–1; 0]",
+     "[–1; 1]",
+     "[0; 100]"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Bosh to'plamning barcha elementlarini xarakterlovchi sifat yoki miqdor belgisi nima deyiladi?",
+    "variantlar": [
+     "Moda",
+     "Varianta",
+     "Statistika",
+     "Parametr"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Tanlanma to'plamning funksiyasi nima deyiladi?",
+    "variantlar": [
+     "Parametr",
+     "Gistogramma",
+     "Statistika",
+     "Mediana"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Musbat bog'lanishda qanday holat kuzatiladi?",
+    "variantlar": [
+     "Ikkala belgi doimo o'zgarmaydi",
+     "Birinchi belgi o'ssa, ikkinchi belgi ham o'sadi",
+     "Belgilar orasida hech qanday bog'lanish bo'lmaydi",
+     "Birinchi belgi o'ssa, ikkinchi belgi kamayadi"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Hajmi n bo'lgan tanlanmada x_i variantaning chastotasi n_i bo'lsa, uning nisbiy chastotasi nimaga teng?",
+    "variantlar": [
+     "n / n_i",
+     "n_i / n",
+     "n – n_i",
+     "n_i · n"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "2, 4, 6, 8, 10 ma'lumotlar qatorining o'rta qiymati nechaga teng?",
+    "variantlar": [
+     "5",
+     "8",
+     "7",
+     "6"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "3, 7, 5, 9, 1 ma'lumotlar qatorining medianasini toping.",
+    "variantlar": [
+     "3",
+     "9",
+     "7",
+     "5"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "2, 4, 6, 10 ma'lumotlar qatorining medianasi nechaga teng?",
+    "variantlar": [
+     "4",
+     "5",
+     "5,5",
+     "6"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Tanlanma hajmi n = 21 bo'lsa, mediana variatsion qatorning nechanchi hadiga teng bo'ladi?",
+    "variantlar": [
+     "11-hadiga",
+     "12-hadiga",
+     "10,5-hadiga",
+     "10-hadiga"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Tanlanma hajmi 40 ga teng. Biror variantaning chastotasi 8 bo'lsa, uning nisbiy chastotasi nechaga teng?",
+    "variantlar": [
+     "0,2",
+     "0,05",
+     "0,8",
+     "0,25"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Guruhlangan ma'lumotlarda o'rta qiymatni taqriban topishda 31–35 oraliqning o'rtasi sifatida qaysi son olinadi?",
+    "variantlar": [
+     "33",
+     "34",
+     "31",
+     "35"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "12, 7, 19, 3, 15 ma'lumotlar qatorining o'zgarish kengligi nechaga teng?",
+    "variantlar": [
+     "12",
+     "15",
+     "16",
+     "22"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "1 va 5 sonlaridan iborat tanlanmaning standart chetlanishi nechaga teng?",
+    "variantlar": [
+     "2",
+     "4",
+     "1",
+     "3"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "3, 5, 5, 2, 5, 3, 4 ma'lumotlar qatorining modasi nechaga teng?",
+    "variantlar": [
+     "4",
+     "5",
+     "3",
+     "2"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Korrelyatsiya koeffitsiyenti r ≈ 0,969 bo'lsa, ma'lumotlar qatorlari orasidagi bog'lanish haqida nima deyish mumkin?",
+    "variantlar": [
+     "Bog'lanish yo'q",
+     "Juda kuchli musbat bog'lanish",
+     "Kuchli manfiy bog'lanish",
+     "Sust musbat bog'lanish"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Maktab basketbol jamoasi 4 ta o'yinda savatga 43, 55, 41 va 37 ochkoli to'p tushirdi. Beshinchi o'yinda 25 ochkoli to'p tushirilsa, besh o'yindagi o'rtacha ochkolar soni nechaga teng bo'ladi?",
+    "variantlar": [
+     "44",
+     "42,5",
+     "41",
+     "40,2"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Tanlanmada 1, 2, 3 qiymatlar mos ravishda 2, 3, 5 chastotalarga ega. Tanlanmaning o'rta qiymatini toping.",
+    "variantlar": [
+     "2,5",
+     "3",
+     "2,3",
+     "2"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Tanlanmada 1, 2, 3, 4 qiymatlar mos ravishda 3, 5, 4, 2 chastotalarga ega. Tanlanmaning medianasini toping.",
+    "variantlar": [
+     "3",
+     "1,5",
+     "2",
+     "2,5"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Yoshi bo'yicha guruhlangan ishchilardan 21–25 yoshdagilar 3 nafar, 26–30 yoshdagilar 2 nafar. Oraliq o'rtalaridan foydalanib, o'rtacha yoshning taqribiy qiymatini toping.",
+    "variantlar": [
+     "25",
+     "26",
+     "24",
+     "25,5"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "2, 3, 3, 4, 8 qatorda o'rta qiymat va mediana orasidagi munosabat qanday?",
+    "variantlar": [
+     "O'rta qiymat medianadan 1 ga kichik",
+     "O'rta qiymat medianadan 2 ga katta",
+     "O'rta qiymat va mediana teng",
+     "O'rta qiymat medianadan 1 ga katta"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "A: 3, 4, 4, 5, 6, 6, 7, 7, 7, 8, 8, 9, 10 va B: 3, 4, 4, 5, 6, 6, 7, 7, 7, 8, 8, 9, 15 qatorlarda faqat oxirgi had farq qiladi. Nega B ning o'rta qiymati kattaroq, medianalari esa teng?",
+    "variantlar": [
+     "Chunki mediana har doim o'rta qiymatga teng",
+     "Chunki o'rta qiymat chetki qiymatga sezgir, mediana esa o'rtadagi hadga bog'liq",
+     "Chunki B da moda o'zgargan",
+     "Chunki qatorlarning hajmi har xil"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Tanlanmada 0 va 4 qiymatlar har biri 3 martadan kuzatilgan. Standart chetlanishni toping.",
+    "variantlar": [
+     "2",
+     "4",
+     "√2",
+     "1"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Quyidagi qiymatlardan qaysi biri korrelyatsiya koeffitsiyenti bo'la olmaydi?",
+    "variantlar": [
+     "0,5",
+     "0",
+     "1,2",
+     "–0,95"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ishchilarning malaka toifalari 2, 3, 4, 5, 6 bo'lib, ularning chastotalari mos ravishda 3, 5, 6, 5, 1 ga teng. Necha ishchining toifasi o'rtacha toifadan yuqori?",
+    "variantlar": [
+     "6",
+     "7",
+     "11",
+     "12"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Besh sonning o'rta qiymati 6 ga teng. Ulardan biri 10 ga teng bo'lib, uni olib tashlasak, qolgan to'rt sonning o'rta qiymati nechaga teng bo'ladi?",
+    "variantlar": [
+     "5,5",
+     "5",
+     "6",
+     "4"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "11-sinf",
+  "kitob": "11-Sinf Matematika 2-qism",
+  "mavzu": "68–70 Ikkita tur ma'lumotlar o'rtasidagi bog'liqlikni tadqiq qilish",
+  "savollar": [
+   {
+    "savol": "Ikki tur ma'lumotlar qatori orasidagi bog'liqlikni aniqlashda qanday diagramma yordam beradi?",
+    "variantlar": [
+     "Sochilish diagrammasi",
+     "Doiraviy diagramma",
+     "Ustunli diagramma",
+     "Chiziqli (chastota) diagrammasi"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Birinchi ma'lumotlar qatoridagi belgi o'ssa, ikkinchi qatordagi belgi ham o'ssa, bunday bog'lanish qanday ataladi?",
+    "variantlar": [
+     "Musbat bog'lanish",
+     "Bog'lanish yo'q",
+     "Chiziqsiz bog'lanish",
+     "Manfiy bog'lanish"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Birinchi ma'lumotlar qatoridagi belgi o'ssa, ikkinchi qatordagi belgi kamaysa, bunday bog'lanish qanday ataladi?",
+    "variantlar": [
+     "Sust bog'lanish",
+     "Manfiy bog'lanish",
+     "Turg'un bog'lanish",
+     "Musbat bog'lanish"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Korrelyatsiya koeffitsiyenti r qiymatlari qaysi kesmaga tegishli?",
+    "variantlar": [
+     "[–1; 1]",
+     "[0; 100]",
+     "[–10; 10]",
+     "[0; 1]"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Agar r = 0 bo'lsa, ma'lumotlar qatorlari haqida nima deyish mumkin?",
+    "variantlar": [
+     "Chiziqli bog'langan",
+     "Chiziqli bog'lanmagan",
+     "Kuchli manfiy bog'langan",
+     "Kuchli musbat bog'langan"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Agar r = ±1 bo'lsa, ma'lumotlar qatorlari qanday bo'ladi?",
+    "variantlar": [
+     "Chiziqli bog'langan",
+     "Chiziqli bog'lanmagan",
+     "Bog'lanishsiz",
+     "Sust bog'langan"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Insonning bo'yi va vazni orasidagi bog'lanish haqida (1-misol) qanday xulosaga kelindi?",
+    "variantlar": [
+     "Ular orasida mutlaqo hech qanday bog'lanish yo'q",
+     "Qat'iy manfiy bog'lanish bor",
+     "Bo'y oshsa, vazn albatta kamayadi",
+     "Qat'iy bog'lanish yo'q, lekin umuman bo'y oshsa vazn ham oshadi"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Tana temperaturasi va arterial qon bosimi sochilish diagrammasi (3-misol) qanday bog'lanishni ko'rsatdi?",
+    "variantlar": [
+     "Kuchli manfiy bog'lanish",
+     "Kuchli musbat bog'lanish",
+     "Hech qanday bog'lanish yo'q",
+     "To'g'ri chiziqli bog'lanish"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Excel jadvalida korrelyatsiya koeffitsiyentini hisoblash uchun qaysi funksiyadan foydalaniladi?",
+    "variantlar": [
+     "СУММ",
+     "КОРРЕЛ",
+     "МЕДИАНА",
+     "СРЗНАЧ"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Korrelyatsiya koeffitsiyentining ishorasi nimani belgilaydi?",
+    "variantlar": [
+     "Moda qiymatini",
+     "Bog'lanishning yo'nalishini",
+     "Ma'lumotlar sonini",
+     "O'rtacha qiymatni"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "8-misolda r ≈ –0,813 va –0,87 < r ≤ –0,5 bo'lgani uchun sportchilar vazni va maksimal tezligi qanday bog'lanishda?",
+    "variantlar": [
+     "Sust manfiy",
+     "O'rtacha musbat",
+     "O'rtacha manfiy",
+     "Bog'lanish yo'q"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "7-misolda g'o'zalarga solingan o'g'it miqdorlari 1, 2, 4, 5 g bo'lsa, ularning o'rtacha qiymati qancha?",
+    "variantlar": [
+     "2",
+     "4",
+     "3",
+     "3,5"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "2-misolda ikkita bosqichda g'alaba qozonganlarning o'rtacha ochkosi taxminan 68, bitta bosqichda g'alaba qozonganlarniki taxminan 52. Ular orasidagi farq taxminan qancha?",
+    "variantlar": [
+     "16",
+     "20",
+     "10",
+     "14"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "7-misolda Σ(x–x̄)(y–ȳ) = 13, Σ(x–x̄)² = 10, Σ(y–ȳ)² = 18 bo'lsa, r taxminan nechaga teng?",
+    "variantlar": [
+     "1,3",
+     "0,5",
+     "0,969",
+     "0,722"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "4-misolda (granata uloqtirish) sportchilarning yoshi va natijasi orasida qanday bog'lanish kuzatildi?",
+    "variantlar": [
+     "Musbat bog'lanish",
+     "Manfiy bog'lanish",
+     "Bog'lanish yo'q",
+     "Faqat qat'iy funksional bog'lanish"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "8-misolda sportchining vazni oshgani sari uning maksimal tezligi umuman qanday o'zgaradi?",
+    "variantlar": [
+     "Kamayadi",
+     "Avval oshadi, keyin o'zgarmaydi",
+     "Oshadi",
+     "O'zgarmaydi"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "4-misolda eng yosh sportchi (10 yosh, 15 m) va eng katta sportchi (20 yosh, 50 m) natijalari orasidagi farq necha metr?",
+    "variantlar": [
+     "38",
+     "32",
+     "30",
+     "35"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Yozma nazorat ishidagi jadvalda maosh X oshgani sari ishdan bo'shaganlar soni Y 60, 35, 20, 20, 15 tarzda kamaymoqda. Bu qanday bog'lanish?",
+    "variantlar": [
+     "Musbat bog'lanish",
+     "Manfiy bog'lanish",
+     "Aniq funksional bog'lanish, r = 0",
+     "Bog'lanish yo'q"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "2-misol jadvalidagi sakkiz poygachining ochkolari (93, 91, 82, 65, 58, 55, 51, 12) yig'indisi nechaga teng?",
+    "variantlar": [
+     "527",
+     "507",
+     "517",
+     "497"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Quyidagi qiymatlardan qaysi biri korrelyatsiya koeffitsiyenti bo'la olmaydi?",
+    "variantlar": [
+     "1,05",
+     "0,45",
+     "0",
+     "–0,9"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Yozma nazorat ishida: maosh 1000, 1500, 2000, 2500, 3000 ming so'm bo'lgan firmalarda ishdan bo'shaganlar mos ravishda 60, 35, 20, 20, 15 nafar. Ishdan bo'shagan xodimlarning o'rtacha maoshi necha ming so'm?",
+    "variantlar": [
+     "1500",
+     "1750",
+     "2000",
+     "1650"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "58-mashqda yoshlar 2, 5, 7, 5, 8, shifokor tashriflari 10, 6, 5, 4, 3. Σ(x–x̄)(y–ȳ) nechaga teng?",
+    "variantlar": [
+     "–29,2",
+     "–22,2",
+     "–15,4",
+     "22,2"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "4-misolda 13 yashar ikki sportchining (27 m va 20 m) o'rtacha natijasi bilan 16 yashar ikki sportchining (35 m va 23 m) o'rtacha natijasi orasidagi farq necha metr?",
+    "variantlar": [
+     "5",
+     "5,5",
+     "6",
+     "4,5"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "8-misolda vazni 100 kg, tezligi 17 km/h bo'lgan sportchi uchun (x–x̄)(y–ȳ) ko'paytma nechaga teng? (x̄ = 77, ȳ = 24,3)",
+    "variantlar": [
+     "–167,9",
+     "–175,1",
+     "–160,1",
+     "167,9"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Raykonen faqat bitta bosqichda g'alaba qozonib, 91 ochko to'plagan. Bu holat nimani ko'rsatadi va qanday xulosa to'g'ri?",
+    "variantlar": [
+     "G'alabalar soni ochkolarga umuman ta'sir qilmaydi, r = 0",
+     "G'alabalar soni va ochkolar orasida albatta manfiy bog'lanish bor",
+     "Bog'lanish qat'iy funksional, r = 1",
+     "Bog'lanish bor bo'lishi mumkin, lekin jadval asosida qat'iy xulosa qilib bo'lmaydi"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Barcha nuqtalar y = –3x + 2 to'g'ri chizig'ida yotsa, korrelyatsiya koeffitsiyenti nechaga teng bo'ladi?",
+    "variantlar": [
+     "–3",
+     "0",
+     "1",
+     "–1"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "7-misolda Σ(x–x̄)(y–ȳ) ishorasi teskari bo'lib –13 bo'lsa (Σ(x–x̄)² = 10, Σ(y–ȳ)² = 18 o'zgarmasa), r va bog'lanish yo'nalishi qanday bo'ladi?",
+    "variantlar": [
+     "r ≈ –0,969, manfiy",
+     "r ≈ –0,5, manfiy",
+     "r = 0, bog'lanish yo'q",
+     "r ≈ 0,969, musbat"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "7-misolda x̄ = 3, ȳ = 5. A g'oza (x = 1, y = 3) va D g'oza (x = 5, y = 8) uchun (x–x̄)(y–ȳ) ko'paytmalar yig'indisi nechaga teng?",
+    "variantlar": [
+     "10",
+     "8",
+     "13",
+     "12"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "1-misolda bo'yi 178 cm va undan baland yigitlarning (bo'yi 179, 178, 181, 180, 178 cm; vazni mos ravishda 70, 72, 80, 75, 74 kg) o'rtacha vazni qancha?",
+    "variantlar": [
+     "74,2 kg",
+     "73,8 kg",
+     "75 kg",
+     "74,8 kg"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Yozma nazorat ishida maosh 1000 ming so'mdan 3000 ming so'mga oshganda ishdan bo'shaganlar soni 60 nafardan 15 nafarga tushgan. Necha marta kamaygan?",
+    "variantlar": [
+     "5 marta",
+     "45 marta",
+     "4 marta",
+     "3 marta"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "11-sinf",
+  "kitob": "11-Sinf Matematika 2-qism",
+  "mavzu": "71–72 Tasodifiy hodisalar haqida qo'shimcha tushunchalar",
+  "savollar": [
+   {
+    "savol": "Tajriba natijasida ro'y berishi ham, ro'y bermasligi ham mumkin bo'lgan hodisa qanday hodisa deyiladi?",
+    "variantlar": [
+     "Tasodifiy hodisa",
+     "Teng imkoniyatli hodisa",
+     "Ro'y berishi mumkin bo'lmagan hodisa",
+     "Muqarrar hodisa"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Tajriba natijasida har gal albatta ro'y beradigan hodisa qanday ataladi va qaysi harf bilan belgilanadi?",
+    "variantlar": [
+     "Muqarrar hodisa, U",
+     "Ro'y berishi mumkin bo'lmagan hodisa, U",
+     "Muqarrar hodisa, V",
+     "Tasodifiy hodisa, A"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ro'y berishi mumkin bo'lmagan hodisa qaysi harf bilan belgilanadi?",
+    "variantlar": [
+     "V",
+     "A",
+     "U",
+     "P"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ehtimollikning klassik ta'rifiga ko'ra, A hodisaning ehtimolligi P(A) qanday topiladi (k – qulaylik tug'diruvchi imkoniyatlar soni, n – barcha imkoniyatlar soni)?",
+    "variantlar": [
+     "P(A) = k / n",
+     "P(A) = k · n",
+     "P(A) = n − k",
+     "P(A) = n / k"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Tanga tashlanganda gerbli tomon chiqishi ehtimolligi nimaga teng?",
+    "variantlar": [
+     "0",
+     "1/3",
+     "1",
+     "1/2"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Muqarrar hodisaning ehtimolligi nimaga teng?",
+    "variantlar": [
+     "1/2",
+     "0",
+     "n",
+     "1"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ro'y berishi mumkin bo'lmagan hodisaning ehtimolligi nimaga teng?",
+    "variantlar": [
+     "k",
+     "0",
+     "1",
+     "1/2"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Quyidagi hodisalardan qaysi biri o'yin kubi tashlanganda ro'y berishi mumkin bo'lmagan hodisa?",
+    "variantlar": [
+     "7 raqamining chiqishi",
+     "5 raqamining chiqishi",
+     "1 dan 6 gacha qandaydir raqamning chiqishi",
+     "Juft raqamning chiqishi"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ehtimollikni belgilovchi P harfi qaysi inglizcha so'zning bosh harfi?",
+    "variantlar": [
+     "percent",
+     "property",
+     "probability",
+     "point"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Tajribalar n ta o'tkazilib, A hodisa µ marta ro'y bergan bo'lsa, µ/n nisbat nima deyiladi?",
+    "variantlar": [
+     "Muqarrar hodisa",
+     "A hodisasining ro'y berish chastotasi",
+     "Klassik ehtimollik",
+     "Teng imkoniyatlar soni"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "1000 ta mahsulotdan 20 tasi yaroqsiz. Tavakkaliga olingan mahsulotning yaroqsiz bo'lish ehtimolligi protsentlarda qancha?",
+    "variantlar": [
+     "20%",
+     "5%",
+     "2%",
+     "0,2%"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Maktabda 800 ta bola o'qiydi, ulardan 80 tasi a'lochi. Tasodifiy tanlangan o'quvchining a'lochi bo'lish ehtimolligi qancha?",
+    "variantlar": [
+     "8%",
+     "1%",
+     "80%",
+     "10%"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Savatda 30 ta qizil olma va 20 ta nashvati nok bor. Tavakkaliga olingan mevaning nok bo'lish ehtimolligi qancha?",
+    "variantlar": [
+     "3/5",
+     "2/3",
+     "2/5",
+     "1/2"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Idishda 10 ta oq va 20 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligi qancha?",
+    "variantlar": [
+     "1/10",
+     "2/3",
+     "1/3",
+     "1/2"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Idishda 1 dan 15 gacha sonlar yozilgan 15 ta shar bor. Tasodifiy olingan sharda yozilgan sonning 5 ga bo'linish ehtimolligi qancha?",
+    "variantlar": [
+     "1/15",
+     "2/15",
+     "1/3",
+     "1/5"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Hamidulla 50 ta yozma ish variantidan 5 tasini yechishni bilmaydi. Unga berilgan variantni bilish ehtimolligi qancha?",
+    "variantlar": [
+     "10%",
+     "90%",
+     "5%",
+     "45%"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "100 000 ta lotereya chiptasidan 25 000 tasi yutuqli. Tavakkaliga olingan chiptaning yutuqli emas bo'lish ehtimolligi qancha?",
+    "variantlar": [
+     "75%",
+     "50%",
+     "25%",
+     "7,5%"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Tanga 200 marta tashlanganda gerbli tomon 96 marta chiqdi. Gerb chiqish chastotasi qancha?",
+    "variantlar": [
+     "0,48",
+     "0,96",
+     "0,5",
+     "0,52"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Idishda 18 ta ko'k, 15 ta qora va 17 ta qizil qalam bor. Tavakkaliga olingan qalamning qizil bo'lish ehtimolligi qancha?",
+    "variantlar": [
+     "1/3",
+     "15/50",
+     "17/33",
+     "17/50"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Kubning yoqlari oq yoki yashil rangga bo'yalgan. Oq yoq chiqish ehtimolligi 1/3, yashil yoq chiqish ehtimolligi 2/3. Kubning nechta yog'i yashil?",
+    "variantlar": [
+     "2 ta",
+     "5 ta",
+     "4 ta",
+     "3 ta"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Idishda o'lchamlari bir xil 10 ta ko'k, 25 ta yashil, 15 ta qora qalam bor. Ko'k qalam albatta chiqishi uchun idishdan bir yo'la eng kamida nechta qalam olish kerak?",
+    "variantlar": [
+     "40",
+     "50",
+     "11",
+     "41"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Idishdagi sharlarning 40% i oq, 1/3 qismi qora, qolganlari qizil. Qaysi rangdagi shar olinish ehtimolligi eng kam?",
+    "variantlar": [
+     "Qora",
+     "Qizil",
+     "Oq",
+     "Hammasining ehtimolligi teng"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ikkita kub baravar tashlandi. Yuqori yoqlardagi raqamlar yig'indisi 7 bo'lish ehtimolligi qancha?",
+    "variantlar": [
+     "1/6",
+     "1/12",
+     "1/7",
+     "7/36"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "6, 7, 8 raqamlaridan ularni takrorlamasdan 3 xonali sonlar tuzildi. Juft raqamlarning yonma-yon joylashish ehtimolligi qancha?",
+    "variantlar": [
+     "1/6",
+     "1/2",
+     "1/3",
+     "2/3"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ikkita tanga baravar tashlandi. Kamida bitta gerbli tomon chiqish ehtimolligi qancha?",
+    "variantlar": [
+     "3/4",
+     "1/2",
+     "2/3",
+     "1/4"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "5 ta idishda sharlar: 1-da 20 yashil va 60 oq; 2-da 30 yashil va 90 oq; 3-da 18 yashil va 32 oq; 4-da 25 yashil va 75 oq; 5-da oq, yashil, qora sharlar teng miqdorda. Yashil shar olish ehtimolligi eng katta bo'lishi uchun qaysi idish tanlanadi?",
+    "variantlar": [
+     "4-idish",
+     "5-idish",
+     "1-idish",
+     "3-idish"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Idishda 21 dan 100 gacha (100 ham kiradi) natural sonlar yozilgan bir xil qog'ozchalar bor. Tavakkaliga olingan qog'ozchadagi sonning 7 ga bo'linish ehtimolligi qancha?",
+    "variantlar": [
+     "1/7",
+     "3/20",
+     "11/80",
+     "12/79"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Idishda 251 dan 1000 gacha natural sonlar yozilgan bir xil qog'ozchalar bor. Tavakkaliga olingan qog'ozchadagi sonning 25 ga bo'linish ehtimolligi qancha?",
+    "variantlar": [
+     "4/100",
+     "1/30",
+     "1/25",
+     "3/75"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Tanga 3 marta tashlandi. Aynan 2 marta gerbli tomon chiqish ehtimolligi qancha?",
+    "variantlar": [
+     "1/2",
+     "3/8",
+     "1/4",
+     "1/8"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "11-sinf",
+  "kitob": "11-Sinf Matematika 2-qism",
+  "mavzu": "74–77 Qarama-qarshi hodisalar. Hodisalar ustida amallar",
+  "savollar": [
+   {
+    "savol": "A hodisa ro‘y berganda B hodisa ham albatta ro‘y bersa, A hodisa B hodisaga nisbatan qanday deyiladi?",
+    "variantlar": [
+     "A va B qarama-qarshi hodisalar",
+     "A va B hodisalar birgalikda emas",
+     "A hodisa B hodisani ergashtiradi",
+     "A hodisa elementar hodisa"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "A va B hodisalar tengkuchli deyiladi, agar:",
+    "variantlar": [
+     "A + B = U bo‘lsa",
+     "P(A) + P(B) = 1 bo‘lsa",
+     "AB = V bo‘lsa",
+     "A hodisa B ni va B hodisa A ni ergashtirsa"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "A va B hodisalarning ko‘paytmasi AB nimani bildiradi?",
+    "variantlar": [
+     "A va B ning ikkalasi ham ro‘y bermasligini",
+     "A ning ro‘y berib, B ning ro‘y bermasligini",
+     "A va B ning ikkalasi bir vaqtda ro‘y berishini",
+     "A va B dan hech bo‘lmaganda bittasining ro‘y berishini"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "A va B hodisalarning yig‘indisi A + B nimani bildiradi?",
+    "variantlar": [
+     "Faqat A ning ro‘y berishini",
+     "Hech biri ro‘y bermasligini",
+     "Ikkalasining bir vaqtda ro‘y berishini",
+     "Hech bo‘lmaganda bittasining ro‘y berishini"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "A – B ayirma hodisasi qachon ro‘y bergan hisoblanadi?",
+    "variantlar": [
+     "A ham, B ham ro‘y bersa",
+     "B ro‘y berib, A ro‘y bermasa",
+     "A ro‘y bersa-yu, B ro‘y bermasa",
+     "A va B ning hech biri ro‘y bermasa"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "A va Ā hodisalar qarama-qarshi hodisalar deyilishi uchun qaysi shartlar bajarilishi kerak?",
+    "variantlar": [
+     "A + Ā = U va AĀ = V",
+     "A + Ā = A va AĀ = Ā",
+     "A + Ā = V va AĀ = U",
+     "A + Ā = V va AĀ = V"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "A va B hodisalar birgalikda emas deyiladi, agar:",
+    "variantlar": [
+     "P(A) = P(B) bo‘lsa",
+     "A + B = U bo‘lsa",
+     "AB = V bo‘lsa",
+     "A = B bo‘lsa"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Qarama-qarshi hodisalar ehtimolliklari orasidagi to‘g‘ri munosabat qaysi?",
+    "variantlar": [
+     "P(Ā) = 1 + P(A)",
+     "P(Ā) = P(A) – 1",
+     "P(Ā) = 1 – P(A)",
+     "P(Ā) = P(A)"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "n elementli elementar hodisalar fazosi U ning barcha qism to‘plamlari soni nechta?",
+    "variantlar": [
+     "n²",
+     "2n",
+     "n!",
+     "2ⁿ"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Tanga tashlash tajribasida elementar hodisalar fazosi U qanday yoziladi?",
+    "variantlar": [
+     "U = {G, R}",
+     "U = {1, 2, 3, 4, 5, 6}",
+     "U = {G, R, V}",
+     "U = {G}"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "A = {kub tashlanganda 2, 3, 4 sonlaridan birining chiqishi}, B = {kub tashlanganda juft sonning chiqishi} bo‘lsa, AB hodisasi nechta elementar natijadan iborat?",
+    "variantlar": [
+     "1 ta",
+     "4 ta",
+     "3 ta",
+     "2 ta"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "A = {1, 3}, B = {1, 2, 6} (kub tashlanganda chiqadigan sonlar) bo‘lsa, A + B hodisasi nechta natijadan iborat?",
+    "variantlar": [
+     "4 ta",
+     "5 ta",
+     "6 ta",
+     "3 ta"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "A = {1, 4, 6}, B = {1, 3, 4, 5} (kub tashlanganda chiqadigan sonlar) bo‘lsa, A – B hodisasi qaysi?",
+    "variantlar": [
+     "{6}",
+     "{1, 3, 4, 5, 6}",
+     "{1, 4}",
+     "{3, 5}"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "P(A) = 0,35 bo‘lsa, qarama-qarshi hodisaning ehtimolligi P(Ā) nechaga teng?",
+    "variantlar": [
+     "0,35",
+     "0,55",
+     "0,75",
+     "0,65"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Kub bir marta tashlanganda barcha elementar hodisalar teng imkoniyatli bo‘lsa, har bir elementar hodisaning ehtimolligi nechaga teng?",
+    "variantlar": [
+     "1/6",
+     "1/36",
+     "1/3",
+     "1/2"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "A va B birgalikda bo‘lmagan hodisalar, P(A) = 0,4 va P(B) = 0,3 bo‘lsa, P(A + B) nechaga teng?",
+    "variantlar": [
+     "0,3",
+     "0,1",
+     "0,7",
+     "0,12"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "P(A) = 0,5, P(B) = 0,4 va P(AB) = 0,2 bo‘lsa, P(A + B) nechaga teng?",
+    "variantlar": [
+     "0,5",
+     "0,7",
+     "0,2",
+     "0,9"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Elementar hodisalar fazosi 4 ta elementdan iborat bo‘lsa, uning barcha qism to‘plamlari soni nechta?",
+    "variantlar": [
+     "4",
+     "16",
+     "8",
+     "12"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "1000 ta suv nasosidan 5 tasi nosoz. Tavakkaliga olingan nasosning soz bo‘lishi ehtimolligi qancha?",
+    "variantlar": [
+     "0,995",
+     "0,5",
+     "0,005",
+     "0,95"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Musobaqada 20 musiqachi qatnashmoqda: 8 nafari O‘zbekistondan, 7 nafari AQSHdan, qolgani Xitoydan. Sahnaga birinchi bo‘lib xitoylik musiqachining chiqishi ehtimolligi qancha?",
+    "variantlar": [
+     "7/20",
+     "2/5",
+     "1/4",
+     "3/4"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Vertolyot har uchishda 6 nafar odamni olib ketadi. 30 nafar sayyoh tasodifiy tartibda o‘tiradi. Muayyan bir sayyohning birinchi reysda uchishi ehtimolligi qancha?",
+    "variantlar": [
+     "6/30 dan kichik, 1/10",
+     "1/5",
+     "1/30",
+     "1/6"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "10, 11, ..., 199 sonlaridan tavakkaliga bitta son tanlanganda, uning 3 ga karrali bo‘lishi ehtimolligi qancha?",
+    "variantlar": [
+     "66/190",
+     "21/63",
+     "1/3",
+     "63/190"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Tanga uch marta tashlanganda raqam tomoni aynan bir marta tushishi ehtimolligi qancha?",
+    "variantlar": [
+     "1/8",
+     "3/8",
+     "1/2",
+     "7/8"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Tanga uch marta tashlanganda raqam tomoni kamida bir marta tushishi ehtimolligi qancha? (Qarama-qarshi hodisadan foydalaning.)",
+    "variantlar": [
+     "1/2",
+     "1/8",
+     "7/8",
+     "3/8"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "P(A) = 0,6, P(B) = 0,5 va P(AB) = 0,3 bo‘lsa, A + B hodisaga qarama-qarshi hodisaning ehtimolligi qancha?",
+    "variantlar": [
+     "0,1",
+     "0,8",
+     "0,2",
+     "0,3"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Ikkita signalizator mustaqil ishlaydi. Avariyada birinchisi 0,9, ikkinchisi 0,95 ehtimollik bilan ishlaydi. Avariya ro‘y berganda ikkala signalizatorning bir vaqtda xabar berishi ehtimolligi qancha?",
+    "variantlar": [
+     "0,95",
+     "0,92",
+     "0,855",
+     "0,985"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Yuqoridagi signalizatorlar (0,9 va 0,95, mustaqil) uchun avariyada faqat birinchi signalizatorning xabar berishi ehtimolligi qancha?",
+    "variantlar": [
+     "0,9",
+     "0,855",
+     "0,045",
+     "0,095"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Yuqoridagi signalizatorlar (0,9 va 0,95, mustaqil) uchun avariyada faqat ikkinchi signalizatorning xabar berishi ehtimolligi qancha?",
+    "variantlar": [
+     "0,95",
+     "0,005",
+     "0,095",
+     "0,045"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Yuqoridagi signalizatorlar (0,9 va 0,95, mustaqil) uchun avariyada aynan bitta signalizatorning xabar berishi ehtimolligi qancha?",
+    "variantlar": [
+     "0,14",
+     "0,005",
+     "0,995",
+     "0,855"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "11-sinf",
+  "kitob": "11-Sinf Matematika 2-qism",
+  "mavzu": "78–80 Ehtimolliklarni qo'shish va ko'paytirish",
+  "savollar": [
+   {
+    "savol": "Ixtiyoriy A va B hodisalar uchun ehtimolliklarni qo'shish qoidasi qaysi tenglik bilan ifodalanadi?",
+    "variantlar": [
+     "P(A ∪ B) = P(A) − P(B)",
+     "P(A ∪ B) = P(A) + P(B) + P(A ∩ B)",
+     "P(A ∪ B) = P(A) · P(B)",
+     "P(A ∪ B) = P(A) + P(B) − P(A ∩ B)"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Birgalikda bo'lmagan A va B hodisalar uchun qaysi tenglik o'rinli?",
+    "variantlar": [
+     "P(A ∪ B) = P(A) · P(B)",
+     "P(A ∪ B) = 1 − P(A)",
+     "P(A ∪ B) = P(A) + P(B)",
+     "P(A ∪ B) = P(A) − P(B)"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Shartli ehtimollik P(A|B) qaysi formula yordamida topiladi (P(B) ≠ 0)?",
+    "variantlar": [
+     "P(A|B) = P(A) + P(B)",
+     "P(A|B) = P(A ∩ B) / P(A)",
+     "P(A|B) = P(A) · P(B)",
+     "P(A|B) = P(A ∩ B) / P(B)"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ehtimollikni ko'paytirish formulasi qaysi javobda to'g'ri yozilgan?",
+    "variantlar": [
+     "P(A ∩ B) = P(A) + P(B|A)",
+     "P(A ∩ B) = P(B) / P(A|B)",
+     "P(A ∩ B) = P(A) − P(B)",
+     "P(A ∩ B) = P(B) · P(A|B)"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Qaysi shart bajarilganda A hodisa B hodisaga bog'liq emas deyiladi?",
+    "variantlar": [
+     "P(A|B) = P(A)",
+     "P(A|B) = P(B)",
+     "P(A|B) = 0",
+     "P(A|B) = 1"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "A va B hodisalar o'zaro bog'liq bo'lmasa, ularning birgalikda ro'y berish ehtimolligi qanday topiladi?",
+    "variantlar": [
+     "P(AB) = P(A) + P(B)",
+     "P(AB) = P(A) · P(B)",
+     "P(AB) = P(A) − P(B)",
+     "P(AB) = P(A) / P(B)"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "A|B yozuv nimani bildiradi?",
+    "variantlar": [
+     "B hodisaning ro'y berganligi aniq bo'lganida A hodisaning ro'y berishini",
+     "A yoki B hodisaning ro'y berishini",
+     "A va B hodisalarning birgalikda ro'y berishini",
+     "A hodisaning ro'y bermasligini"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "A va B hodisalar birgalikda bo'lmasa, P(A ∩ B) nimaga teng?",
+    "variantlar": [
+     "P(A) · P(B)",
+     "1",
+     "P(A) + P(B)",
+     "0"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "A₁, A₂, ..., Aₙ o'zaro bog'liq bo'lmagan hodisalarning har birining ehtimolligi p bo'lsa, ulardan kamida bittasining ro'y berish ehtimolligi qaysi formula bilan topiladi?",
+    "variantlar": [
+     "pⁿ",
+     "1 − pⁿ",
+     "n · p",
+     "1 − (1 − p)ⁿ"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "A va B hodisalar o'zaro bog'liq bo'lmasa, quyidagilardan qaysi biri to'g'ri?",
+    "variantlar": [
+     "A va B̄ hodisalarning ehtimolliklari yig'indisi 1 ga teng",
+     "A va B̄ hodisalar albatta bog'liq bo'ladi",
+     "A va B̄ hodisalar birgalikda bo'lmaydi",
+     "A va B̄ hodisalar ham o'zaro bog'liq bo'lmaydi"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "P(A) = 0,4, P(A ∪ B) = 0,9, P(A ∩ B) = 0,1 bo'lsa, P(B) nimaga teng?",
+    "variantlar": [
+     "0,6",
+     "0,5",
+     "0,4",
+     "0,7"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "P(A) = 0,6, P(B) = 0,5, P(A ∪ B) = 0,9 bo'lsa, P(A ∩ B) nimaga teng?",
+    "variantlar": [
+     "0,2",
+     "0,3",
+     "0,1",
+     "0,4"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "A va B hodisalar birgalikda bo'lmasin. P(A) = 0,45, P(A ∪ B) = 0,8 bo'lsa, P(B) nimaga teng?",
+    "variantlar": [
+     "0,25",
+     "0,45",
+     "0,36",
+     "0,35"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "1, 2, ..., 15 sonlari bilan nomerlangan chiptalardan biri ixtiyoriy tanlanmoqda. Chiptadagi nomer 11 dan katta bo'lishi ehtimolligi nimaga teng?",
+    "variantlar": [
+     "1/3",
+     "4/15",
+     "11/15",
+     "3/15"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Gulzorda 20 ta qizil, 30 ta binafsha va 40 ta oq gul ochilgan. Tavakkaliga uzilgan gulning qizil yoki binafsha bo'lish ehtimolligi nimaga teng?",
+    "variantlar": [
+     "1/3",
+     "2/9",
+     "5/9",
+     "4/9"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "X va Y hodisalar o'zaro bog'liq emas, P(X) = 0,5, P(Y) = 0,7. X va Y hodisalarning ikkalasi ham ro'y berish ehtimolligi nimaga teng?",
+    "variantlar": [
+     "0,7",
+     "0,2",
+     "1,2",
+     "0,35"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "P(A) = 1/2, P(B) = 1/3 va A, B birgalikda bo'lmagan hodisalar bo'lsa, P(A ∪ B) nimaga teng?",
+    "variantlar": [
+     "1/5",
+     "2/5",
+     "1/6",
+     "5/6"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "P(A) = 0,5 va P(B|A) = 0,4 bo'lsa, P(A ∩ B) nimaga teng?",
+    "variantlar": [
+     "0,1",
+     "0,9",
+     "0,2",
+     "0,8"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Tanga va kub bir vaqtda tashlandi. «Gerb» tushishi va kubda «3» soni tushishi hodisalarining birgalikda ro'y berish ehtimolligi nimaga teng?",
+    "variantlar": [
+     "1/8",
+     "1/6",
+     "1/12",
+     "2/3"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ish vaqti davomida bitta dastgohni ta'mirlash ehtimolligi 0,2, ikkita dastgohni ta'mirlash ehtimolligi 0,13, ikkitadan ortiq dastgohni ta'mirlash ehtimolligi 0,07 ga teng. Hech bo'lmaganda bitta dastgohni ta'mirlash talab etilishi ehtimolligi nimaga teng?",
+    "variantlar": [
+     "0,6",
+     "0,3",
+     "0,0182",
+     "0,4"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikki ovchi bo'riga qarata bittadan o'q uzdi. Birinchisining o'qni tekkizish ehtimolligi 0,7, ikkinchisiniki 0,8. Hech bo'lmaganda bitta o'qning bo'riga tegishi ehtimolligi nimaga teng?",
+    "variantlar": [
+     "0,86",
+     "1,5",
+     "0,94",
+     "0,56"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Idishda 10 ta qizil va 6 ta ko'k shar bor. Tavakkaliga 2 ta shar olinadi. Ikkala sharning bir xil rangli bo'lish ehtimolligi nimaga teng?",
+    "variantlar": [
+     "3/8",
+     "15/16",
+     "5/8",
+     "1/2"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Firmada 7 ta erkak va 3 ta ayol ishchi ishlaydi. Tavakkaliga 3 kishi ajratildi. Ularning barchasi erkak bo'lish ehtimolligi nimaga teng?",
+    "variantlar": [
+     "7/24",
+     "1/3",
+     "343/1000",
+     "7/10"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Obyektga tushish ehtimolliklari mos ravishda 0,3; 0,4; 0,6; 0,7 bo'lgan 4 ta bomba tashlandi. Obyekt yakson bo'lishi uchun bitta bomba tushishi kifoya. Obyektning yakson bo'lish ehtimolligi nimaga teng?",
+    "variantlar": [
+     "0,0504",
+     "0,9496",
+     "0,5504",
+     "0,7"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "40 nafar o'quvchidan 34 nafari banan, 22 nafari olma yoqtiradi, 2 nafari ikkala mevani ham yoqtirmaydi. Olmani yoqtirishi aniq bo'lganida o'quvchining bananni ham yoqtirish ehtimolligi nimaga teng?",
+    "variantlar": [
+     "8/17",
+     "9/20",
+     "9/11",
+     "19/20"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "P(A) = 1/2, P(B) = 1/3 va A, B o'zaro bog'liq bo'lmagan hodisalar bo'lsa, P(A ∪ B) nimaga teng?",
+    "variantlar": [
+     "5/6",
+     "1/2",
+     "1/6",
+     "2/3"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "25 nafar o'quvchidan 14 nafari palovni, 16 nafari mantini yoqtiradi, 1 nafari ikkala taomni ham yoqtirmaydi, 6 nafari ikkalasini ham yoqtiradi. Mantini yoqtirishi aniq bo'lganida o'quvchining palovni ham yoqtirish ehtimolligi nimaga teng?",
+    "variantlar": [
+     "3/7",
+     "14/25",
+     "6/25",
+     "3/8"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "X va Y o'zaro bog'liq bo'lmagan hodisalar, P(X) = 0,5 va P(Y) = 0,7. Na X, na Y hodisasi ro'y bermasligi ehtimolligi nimaga teng?",
+    "variantlar": [
+     "0,15",
+     "0,85",
+     "0,2",
+     "0,35"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Har bir o'qning nishonga tegish ehtimolligi 0,2 ga teng bo'lgan o'qchi o'zaro bog'liq bo'lmagan 3 ta o'q uzdi. Kamida bitta o'qning nishonga tegish ehtimolligi nimaga teng?",
+    "variantlar": [
+     "0,008",
+     "0,488",
+     "0,512",
+     "0,6"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "P(R) = 0,4, P(S) = 0,5 va P(R ∪ S) = 0,7 bo'lsa, R va S hodisalar haqida qaysi xulosa to'g'ri?",
+    "variantlar": [
+     "P(R ∩ S) = 0,2 ≠ P(R) · P(S), shuning uchun R va S bog'liq",
+     "P(R ∩ S) = 0,1, shuning uchun R va S bog'liq emas",
+     "P(R ∩ S) = 0, shuning uchun R va S bog'liq emas",
+     "P(R ∩ S) = 0,2 = P(R) · P(S), shuning uchun R va S o'zaro bog'liq emas"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "11-sinf",
+  "kitob": "11-Sinf Matematika 2-qism",
+  "mavzu": "81–85 Binomial va normal taqsimot haqida tushuncha",
+  "savollar": [
+   {
+    "savol": "Bernulli sxemasi deb nimaga aytiladi?",
+    "variantlar": [
+     "n ta o'zaro bog'liq bo'lmagan sinashlar ketma-ketligi bo'lib, har birida A hodisaning ro'y berish ehtimolligi p bir xil bo'ladi",
+     "Ehtimolligi har bir sinashda o'zgarib boradigan sinashlar ketma-ketligi",
+     "n ta o'zaro bog'liq sinashlar ketma-ketligi",
+     "Faqat tanga tashlash tajribalari ketma-ketligi"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "3 ta sinashdan iborat Bernulli sxemasida nechta elementar hodisa bo'ladi?",
+    "variantlar": [
+     "9",
+     "6",
+     "3",
+     "8"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "n ta sinashdan iborat Bernulli sxemasida elementar hodisalar soni nechta?",
+    "variantlar": [
+     "n!",
+     "2n",
+     "n²",
+     "2ⁿ"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Bernulli sxemasida A hodisaning ro'y berish ehtimolligi p bo'lsa, ro'y bermaslik ehtimolligi q nimaga teng?",
+    "variantlar": [
+     "p − 1",
+     "1/p",
+     "1 − p",
+     "1 + p"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Tanga uch marta tashlanganda har bir elementar hodisaning ehtimolligi qancha?",
+    "variantlar": [
+     "1/6",
+     "1/4",
+     "1/2",
+     "1/8"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "n ta sinashdan iborat Bernulli sxemasida A hodisaning roppa-rosa m marta ro'y berish ehtimolligi formulasi qaysi?",
+    "variantlar": [
+     "P(n,m) = m · p · q",
+     "P(n,m) = pᵐ · qᵐ",
+     "P(n,m) = Cₙᵐ · pⁿ · qᵐ",
+     "P(n,m) = Cₙᵐ · pᵐ · qⁿ⁻ᵐ"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Tajriba natijasida u yoki bu qiymatni qabul qiladigan miqdor nima deyiladi?",
+    "variantlar": [
+     "Doimiy miqdor",
+     "Tasodifiy miqdor",
+     "Binomial koeffitsiyent",
+     "Elementar hodisa"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Normal taqsimlangan tasodifiy miqdor tushunchasini kim kiritgan va nomlagan?",
+    "variantlar": [
+     "Gauss",
+     "Laplas",
+     "Bernulli",
+     "Muavr"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Normal taqsimot funksiyasidagi a va σ parametrlar nimani bildiradi?",
+    "variantlar": [
+     "a – sinashlar soni, σ – ehtimollik",
+     "a – eng kichik qiymat, σ – eng katta qiymat",
+     "a – qiymatlar to'plamining o'rtasi, σ – standart chetlanish",
+     "a – standart chetlanish, σ – o'rta qiymat"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Sinashlar soni n yetarlicha katta bo'lganda binomial taqsimot qanday taqsimotga yaqinlashadi?",
+    "variantlar": [
+     "Bernulli sxemasiga teskari taqsimotga",
+     "Tekis taqsimotga",
+     "Normal taqsimotga",
+     "Hech qanday taqsimotga yaqinlashmaydi"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Har bir sinashda A hodisaning ehtimolligi p = 0,3 bo'lsa, 3 ta sinashda 110 kodga mos hodisaning ehtimolligi qancha?",
+    "variantlar": [
+     "0,09",
+     "0,189",
+     "0,147",
+     "0,063"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "6 ta sinashdan iborat Bernulli sxemasida nechta elementar hodisa mavjud?",
+    "variantlar": [
+     "12",
+     "64",
+     "32",
+     "36"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Tanga 4 marta tashlanganda roppa-rosa 2 marta gerb tushish ehtimolligi qancha?",
+    "variantlar": [
+     "1/4",
+     "3/8",
+     "5/16",
+     "1/2"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Tanga 5 marta tashlanganda roppa-rosa 1 marta gerb tushish ehtimolligi qancha?",
+    "variantlar": [
+     "1/5",
+     "5/16",
+     "1/32",
+     "5/32"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Qutida 3 ta qizil va 5 ta ko'k qalam bor. Qalam tavakkal olinib, joyiga qaytariladi. Qizil qalam olish ehtimolligi p qancha?",
+    "variantlar": [
+     "5/8",
+     "3/5",
+     "3/8",
+     "1/8"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Tanga 3 marta tashlanganda roppa-rosa 2 marta gerb tushish ehtimolligi qancha?",
+    "variantlar": [
+     "3/8",
+     "1/2",
+     "1/8",
+     "1/4"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Har bir sinashda p = 0,1 bo'lsa, 2 ta sinashda A hodisa hech ro'y bermasligi ehtimolligi qancha?",
+    "variantlar": [
+     "0,09",
+     "0,18",
+     "0,81",
+     "0,01"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Quyidagilardan qaysi biri normal taqsimlangan tasodifiy miqdorga misol bo'ladi?",
+    "variantlar": [
+     "O'yin kubi tashlanganda tushgan ochkolar soni",
+     "Kvadratning tomonlari soni",
+     "O'lchashlardagi xatoliklar",
+     "Tanga tashlanganda gerb tushishlar soni"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "3 ta sinashli Bernulli sxemasida p = 0,2 va binomial taqsimot jadvali: P(3,0)=0,512; P(3,1)=0,384; P(3,2)=0,096; P(3,3)=0,008. A hodisa kamida 2 marta ro'y berishi ehtimolligi qancha?",
+    "variantlar": [
+     "0,008",
+     "0,480",
+     "0,104",
+     "0,096"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "16 ta sinashli, p = 0,5 bo'lgan binomial taqsimot jadvaliga ko'ra, qaysi m da ehtimollik eng katta?",
+    "variantlar": [
+     "m = 16",
+     "m = 8",
+     "m = 6",
+     "m = 7"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Tanga 4 marta tashlanganda kamida 1 marta gerb tushish ehtimolligi qancha?",
+    "variantlar": [
+     "15/16",
+     "7/8",
+     "1/2",
+     "1/16"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "3 ta sinashli Bernulli sxemasida p = 0,2. A hodisa kamida bir marta ro'y berish ehtimolligi qancha?",
+    "variantlar": [
+     "0,200",
+     "0,384",
+     "0,488",
+     "0,512"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "16 ta sinashli, p = 0,5 jadvalda P(16,7)=0,175, P(16,8)=0,196, P(16,9)=0,175. A hodisa 7 dan 9 martagacha (7 va 9 ham kiradi) ro'y berishi ehtimolligi taqriban qancha?",
+    "variantlar": [
+     "0,196",
+     "0,371",
+     "0,546",
+     "0,350"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Tanga 4 marta tashlanganda gerb roppa-rosa 1 marta yoki roppa-rosa 3 marta tushishi ehtimolligi qancha?",
+    "variantlar": [
+     "5/8",
+     "1/4",
+     "1/2",
+     "3/8"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Har bir sinashda p = 1/3 bo'lsa, 4 ta sinashda A hodisa roppa-rosa 1 marta ro'y berishi ehtimolligi qancha?",
+    "variantlar": [
+     "32/243",
+     "8/81",
+     "32/81",
+     "16/81"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Qutida 3 ta qizil va 5 ta ko'k qalam bor, qalam qaytarib qo'yiladi. 4 ta sinashda ketma-ket: ko'k, qizil, qizil, ko'k qalam olish ehtimolligi qancha?",
+    "variantlar": [
+     "15/64",
+     "135/4096",
+     "75/4096",
+     "225/4096"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "3 ta sinashli Bernulli sxemasida p = 0,3. A hodisa 0 marta yoki 3 marta ro'y berishi ehtimolligi qancha?",
+    "variantlar": [
+     "0,370",
+     "0,027",
+     "0,630",
+     "0,343"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "5 ta sinashli Bernulli sxemasida p = 0,5. A hodisa kamida 4 marta ro'y berishi ehtimolligi qancha?",
+    "variantlar": [
+     "1/4",
+     "5/32",
+     "1/32",
+     "3/16"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Normal taqsimot zichlik funksiyasida a parametr o'zgartirilib, σ o'zgarishsiz qoldirilsa, grafik qanday o'zgaradi?",
+    "variantlar": [
+     "Grafik to'g'ri chiziqqa aylanadi",
+     "Grafik o'zgarmaydi",
+     "Grafik shakli saqlanib, uning markazi (o'rtasi) siljiydi",
+     "Grafik simmetrikligini yo'qotadi"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Mahsulotning sifatsiz bo'lish ehtimolligi 0,01. Tavakkal tanlangan 100 mahsulotdan 3 ta dan kam sifatsiz chiqish ehtimolligi taqriban 0,9816 bo'lsa, 3 ta yoki undan ko'p sifatsiz chiqish ehtimolligi taqriban qancha?",
+    "variantlar": [
+     "0,0816",
+     "0,9816",
+     "0,0184",
+     "0,1816"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "11-sinf",
+  "kitob": "11-Sinf Matematika 2-qism",
+  "mavzu": "10 Piramida va kesik piramida",
+  "savollar": [
+   {
+    "savol": "Piramida deb qanday ko'pyoqqa aytiladi?",
+    "variantlar": [
+     "Barcha yoqlari teng uchburchaklardan iborat ko'pyoq",
+     "Ikkita yog'i parallel ko'pburchaklardan, qolganlari parallelogrammlardan iborat ko'pyoq",
+     "Barcha yoqlari to'rtburchaklardan iborat ko'pyoq",
+     "Bitta yog'i ko'pburchak, qolgan yoqlari umumiy uchga ega uchburchaklardan iborat ko'pyoq"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Uchburchakli piramida yana qanday nom bilan ataladi?",
+    "variantlar": [
+     "Geksaedr",
+     "Oktaedr",
+     "Prizma",
+     "Tetraedr"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Piramidaning balandligi deb nimaga aytiladi?",
+    "variantlar": [
+     "Yon qirraning uzunligiga",
+     "Piramida uchidan asos tekisligiga tushirilgan perpendikulyarga",
+     "Asosning eng katta diagonaliga",
+     "Yon yoqning asosiga tushirilgan medianasiga"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Piramida to'la sirtining yuzi qaysi formula bilan topiladi?",
+    "variantlar": [
+     "S_to'la = S_yon − S_asos",
+     "S_to'la = S_yon · S_asos",
+     "S_to'la = S_yon + S_asos",
+     "S_to'la = S_yon : S_asos"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Muntazam piramidada apofema deb nimaga aytiladi?",
+    "variantlar": [
+     "Piramida balandligiga",
+     "Piramidaning yon qirrasiga",
+     "Yon yog'ining piramida uchidan tushirilgan balandligiga",
+     "Asosining diagonaliga"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Muntazam piramida yon sirtining yuzi qaysi formula bilan topiladi (P – asos perimetri, l – apofema)?",
+    "variantlar": [
+     "S_yon = (1/2) P · l",
+     "S_yon = (1/3) P · l",
+     "S_yon = P · l",
+     "S_yon = 2 P · l"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Kesik piramidaning yon yoqlari qanday shakldan iborat?",
+    "variantlar": [
+     "Trapetsiyalar",
+     "To'g'ri to'rtburchaklar",
+     "Parallelogrammlar",
+     "Uchburchaklar"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ixtiyoriy piramidaning hajmi qaysi formula bilan topiladi?",
+    "variantlar": [
+     "V = (1/3) S_asos · H",
+     "V = S_asos · H",
+     "V = (1/2) S_asos · H",
+     "V = (2/3) S_asos · H"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ikki o'xshash jismning hajmlari nisbati ularning mos chiziqli o'lchamlari nisbatiga qanday bog'liq?",
+    "variantlar": [
+     "O'zining o'ziga teng",
+     "Kvadrat ildiziga teng",
+     "Kubiga teng",
+     "Kvadratiga teng"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Kesik piramidaning balandligi nimaga teng?",
+    "variantlar": [
+     "Uning ikki asosi orasidagi masofaga",
+     "Apofemaning uzunligiga",
+     "Asoslarning diagonallari ayirmasiga",
+     "Yon qirraning uzunligiga"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "To'rtburchakli muntazam piramida asosining tomoni 10 cm, apofemasi 6 cm. Uning yon sirti yuzi necha cm² ga teng?",
+    "variantlar": [
+     "60",
+     "240",
+     "100",
+     "120"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Piramida asosidagi barcha ikki yoqli burchaklar 60° ga, asosining yuzi 48 cm² ga teng. Piramidaning yon sirti yuzi necha cm² ga teng?",
+    "variantlar": [
+     "144",
+     "96",
+     "48√3",
+     "24"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "To'rtburchakli muntazam kesik piramida asoslarining tomonlari 12 cm va 36 cm, apofemasi 6 cm. Uning yon sirti yuzi necha cm² ga teng?",
+    "variantlar": [
+     "1152",
+     "288",
+     "576",
+     "864"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Piramida asosining yuzi 30 cm², balandligi 7 cm. Piramidaning hajmi necha cm³ ga teng?",
+    "variantlar": [
+     "70",
+     "105",
+     "35",
+     "210"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Piramida balandligining o'rtasidan asosiga parallel tekislik o'tkazildi. Hosil bo'lgan kichik piramida hajmining berilgan piramida hajmiga nisbati nimaga teng?",
+    "variantlar": [
+     "1/4",
+     "1/6",
+     "1/2",
+     "1/8"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Piramida asosining yuzi 360 cm². Yon qirrasi uchta teng qismga bo'linib, uchiga yaqin bo'linish nuqtasidan asosga parallel tekislik o'tkazildi. Hosil bo'lgan kesimning yuzi necha cm² ga teng?",
+    "variantlar": [
+     "120",
+     "160",
+     "40",
+     "90"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Kesik piramida asoslarining yuzlari 18 dm² va 8 dm², balandligi 6 dm. Uning hajmi necha dm³ ga teng?",
+    "variantlar": [
+     "76",
+     "38",
+     "52",
+     "156"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikki o'xshash piramidaning o'xshashlik koeffitsiyenti 2 ga teng. Kichik piramidaning hajmi 5 ga teng bo'lsa, katta piramidaning hajmi nimaga teng?",
+    "variantlar": [
+     "25",
+     "40",
+     "10",
+     "20"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "To'rtburchakli muntazam piramida asosining tomoni 6 cm, balandligi 4 cm. Uning apofemasi necha cm ga teng?",
+    "variantlar": [
+     "√52",
+     "√13",
+     "5",
+     "7"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "ABCA₁B₁C₁ prizmaning hajmi 48 ga teng. Uchi C₁ nuqtada, asosi ABC uchburchak bo'lgan piramidaning hajmi nimaga teng?",
+    "variantlar": [
+     "24",
+     "32",
+     "16",
+     "12"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Uchburchakli piramida asosining tomonlari 6, 8 va 10 ga teng, barcha yon qirralari asos tekisligi bilan bir xil burchak hosil qiladi. Piramidaning balandligi 4 ga teng. Yon qirra uzunligi nimaga teng?",
+    "variantlar": [
+     "5",
+     "√34",
+     "√52",
+     "√41"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "To'rtburchakli muntazam piramida asosining tomoni 6 cm, yon sirtining yuzi 60 cm². Piramidaning hajmi necha cm³ ga teng?",
+    "variantlar": [
+     "60",
+     "36",
+     "48",
+     "72"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Muntazam to'rtburchakli piramidaning balandligi 3, yon qirrasi 5 ga teng. Piramidaning hajmi nimaga teng?",
+    "variantlar": [
+     "48",
+     "32",
+     "16",
+     "96"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Piramidaning asosi tomonlari 6 cm va 8 cm bo'lgan to'g'ri to'rtburchak. Piramidaning har bir qirrasi 13 cm. Piramidaning balandligi necha cm ga teng?",
+    "variantlar": [
+     "√120",
+     "5",
+     "10",
+     "12"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Tetraedrning barcha yon yoqlari asos tekisligi bilan 60° li burchak tashkil qiladi. Asosining tomonlari 7, 24 va 25 ga teng. Tetraedr yon sirtining yuzi nimaga teng?",
+    "variantlar": [
+     "84",
+     "168",
+     "84√3",
+     "336"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "To'rtburchakli muntazam kesik piramida asoslarining tomonlari 8 cm va 2 cm, balandligi 4 cm. Uning hajmi necha cm³ ga teng?",
+    "variantlar": [
+     "168",
+     "336",
+     "84",
+     "112"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Piramida asosining yuzi 40 cm². Asosiga parallel tekislik bilan kesilganda kesim yuzi 10 cm² bo'ldi, piramidaning balandligi 8 cm. Hosil bo'lgan kesik piramidaning balandligi necha cm ga teng?",
+    "variantlar": [
+     "4",
+     "2",
+     "6",
+     "4√2"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Piramida asosining yuzi 144 cm² ga teng. Asosiga parallel tekislik bilan kesilganda hosil bo'lgan kesik piramidaning yuqori asosi yuzi 16 cm², balandligi 4 cm bo'ldi. Butun piramidaning balandligi necha cm ga teng?",
+    "variantlar": [
+     "6",
+     "5",
+     "8",
+     "12"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "To'rtburchakli muntazam kesik piramida asoslarining tomonlari 4 cm va 10 cm, balandligi 4 cm. Uning yon sirti yuzi necha cm² ga teng?",
+    "variantlar": [
+     "140",
+     "280",
+     "70",
+     "112"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Piramidaning yon qirrasida uchidan boshlab qirra uzunligining 2/3 qismiga teng masofada nuqta olindi va shu nuqtadan asosga parallel tekislik o'tkazildi. Uch tomondagi hosil bo'lgan kichik piramida hajmi butun piramida hajmining qaysi qismini tashkil qiladi?",
+    "variantlar": [
+     "2/3",
+     "8/27",
+     "4/27",
+     "4/9"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "11-sinf",
+  "kitob": "11-Sinf Matematika 2-qism",
+  "mavzu": "11 Konus va kesik konus",
+  "savollar": [
+   {
+    "savol": "Konus qanday jismni aylantirishdan hosil bo'ladi?",
+    "variantlar": [
+     "To'g'ri burchakli uchburchakni bir kateti atrofida aylantirishdan",
+     "To'g'ri to'rtburchakni bir tomoni atrofida aylantirishdan",
+     "Teng yonli uchburchakni asosi atrofida aylantirishdan",
+     "To'g'ri burchakli uchburchakni gipotenuzasi atrofida aylantirishdan"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Konusning yasovchisi nima?",
+    "variantlar": [
+     "Konus uchidan asos tekisligiga tushirilgan perpendikular",
+     "Aylantirishda gipotenuzaning o'zi",
+     "Aylantirishda hosil bo'lgan doiraning radiusi",
+     "Konus asosining diametri"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Konus yon sirtining yuzi formulasi qaysi (r – asos radiusi, l – yasovchi)?",
+    "variantlar": [
+     "πl²",
+     "2πrl",
+     "πr²",
+     "πrl"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Konusning hajmi qaysi formula bilan topiladi?",
+    "variantlar": [
+     "V = ½ S_asos · H",
+     "V = ⅔ S_asos · H",
+     "V = S_asos · H",
+     "V = ⅓ S_asos · H"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Konusning barcha o'q kesimlari qanday shaklda bo'ladi?",
+    "variantlar": [
+     "Teng tomonli uchburchak",
+     "To'g'ri burchakli uchburchak",
+     "Teng yonli uchburchak",
+     "Trapetsiya"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Konusning simmetriya markazi haqida qaysi fikr to'g'ri?",
+    "variantlar": [
+     "Simmetriya markazi konus uchida bo'ladi",
+     "Konusning simmetriya markazi yo'q",
+     "Simmetriya markazi asosning markazida bo'ladi",
+     "Simmetriya markazi balandlikning o'rtasida bo'ladi"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Konusning to'la sirti formulasi qaysi?",
+    "variantlar": [
+     "πr² + l",
+     "2πr(r + l)",
+     "πr(r + l)",
+     "πrl"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Kesik konus yon sirtining yuzi qaysi formula bilan hisoblanadi (l – yasovchi, r₁ va r₂ – asoslar radiuslari)?",
+    "variantlar": [
+     "2π l (r₁ + r₂)",
+     "π (r₁² + r₂²)",
+     "π l (r₁ + r₂)",
+     "π l (r₁ − r₂)"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Kesik konusning balandligi nimaga teng?",
+    "variantlar": [
+     "Ikki asosi orasidagi masofaga",
+     "Asoslari radiuslarining ayirmasiga",
+     "Yasovchisiga",
+     "Katta asosining radiusiga"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Kesik konusni qaysi shaklni aylantirishdan hosil bo'lgan jism sifatida qarash mumkin?",
+    "variantlar": [
+     "Teng yonli trapetsiyani katta asosi atrofida",
+     "To'g'ri burchakli trapetsiyaning katta yon tomoni atrofida",
+     "Parallelogrammni bir tomoni atrofida",
+     "To'g'ri burchakli trapetsiyaning kichik yon tomoni atrofida"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Konusning yasovchisi 13 cm, asosi aylanasining diametri 10 cm. Konusning balandligini toping.",
+    "variantlar": [
+     "12 cm",
+     "8 cm",
+     "√69 cm",
+     "10 cm"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Konus asosining radiusi 4 cm, balandligi 6 cm. Konusning yasovchisini toping.",
+    "variantlar": [
+     "10 cm",
+     "√20 cm",
+     "2√13 cm",
+     "2√5 cm"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Konus asosi aylanasining diametri 9,6 cm, yasovchisi 5,2 cm. Konusning balandligini toping.",
+    "variantlar": [
+     "4 cm",
+     "2,4 cm",
+     "2 cm",
+     "3 cm"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Konus asosining radiusi 6 cm, yasovchisi 10 cm. Konus yon sirtining yuzini toping.",
+    "variantlar": [
+     "120π cm²",
+     "96π cm²",
+     "36π cm²",
+     "60π cm²"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Konus asosining radiusi 3 cm, balandligi 4 cm. Konusning hajmini toping.",
+    "variantlar": [
+     "24π cm³",
+     "15π cm³",
+     "36π cm³",
+     "12π cm³"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Konus asosining radiusi 16 cm, balandligi 12 cm. Konus yon sirtining yuzini toping.",
+    "variantlar": [
+     "576π cm²",
+     "256π cm²",
+     "192π cm²",
+     "320π cm²"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Konus asosining diametri 12 cm, yasovchisi 10 cm. Konus to'la sirtining yuzini toping.",
+    "variantlar": [
+     "120π cm²",
+     "132π cm²",
+     "96π cm²",
+     "60π cm²"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Kesik konus asoslarining radiuslari 8 cm va 5 cm, yasovchisi 10 cm. Kesik konus yon sirtining yuzini toping.",
+    "variantlar": [
+     "130π cm²",
+     "100π cm²",
+     "260π cm²",
+     "80π cm²"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Kesik konus asoslarining radiuslari 4 cm va 2 cm, balandligi 3 cm. Kesik konusning hajmini toping.",
+    "variantlar": [
+     "56π cm³",
+     "20π cm³",
+     "28π cm³",
+     "36π cm³"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Hajmi 80 bo'lgan konus asosiga parallel tekislik bilan kesilib, o'xshashlik koeffitsiyenti k = 1/2 bo'lgan konus ajratildi. Ajratilgan konusning hajmini toping.",
+    "variantlar": [
+     "20",
+     "40",
+     "10",
+     "5"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Konus asosining radiusi 6, balandligi 8. Konus yon sirti yoyilmasining uchidagi burchakni toping.",
+    "variantlar": [
+     "270°",
+     "180°",
+     "216°",
+     "240°"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Konusning yasovchisi 12 ga teng va asos tekisligi bilan 60° li burchak hosil qiladi. Konusning hajmini toping.",
+    "variantlar": [
+     "36√3π",
+     "144π",
+     "72π",
+     "72√3π"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Konusning o'q kesimi yuzi 16√3 ga teng teng tomonli uchburchakdan iborat. Konusning to'la sirtini toping.",
+    "variantlar": [
+     "96π",
+     "32π",
+     "48π",
+     "64π"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Konus yon sirtining yuzi 32π ga teng, yasovchisi asos tekisligiga 60° li burchak ostida og'gan. Konusning hajmini toping.",
+    "variantlar": [
+     "32√3π",
+     "64π/3",
+     "128π/3",
+     "64√3π/3"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Tomoni 6 ga teng bo'lgan teng tomonli uchburchak o'zining bir tomoni atrofida aylantirildi. Hosil bo'lgan jismning hajmini toping.",
+    "variantlar": [
+     "108π",
+     "81π",
+     "54π",
+     "27π"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Konus o'q kesimining perimetri 24 cm, yon sirti yoyilmasining burchagi 120° ga teng. Konus to'la sirtining yuzini toping.",
+    "variantlar": [
+     "36π cm²",
+     "27π cm²",
+     "54π cm²",
+     "48π cm²"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Kesik konus asoslarining radiuslari 8 cm va 5 cm, yasovchisi asos tekisligiga 45° li burchak ostida og'gan. Kesik konusning hajmini toping.",
+    "variantlar": [
+     "129π cm³",
+     "387π cm³",
+     "43π cm³",
+     "117π cm³"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Kesik konus asoslarining radiuslari 12 cm va 8 cm, yasovchisi katta asos tekisligiga 60° li burchak ostida og'gan. Kesik konus yon sirtining yuzini toping.",
+    "variantlar": [
+     "240π cm²",
+     "160π cm²",
+     "80π cm²",
+     "320π cm²"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Yasovchisi 5 ga, balandligi 4 ga teng konus asosidan 2 ga teng masofada shu asosga parallel tekislik bilan kesildi. Hosil bo'lgan kesimning yuzini toping.",
+    "variantlar": [
+     "2,25π",
+     "1,81π",
+     "3,16π",
+     "2,64π"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "11-sinf",
+  "kitob": "11-Sinf Matematika 2-qism",
+  "mavzu": "13 Shar va uning elementlari",
+  "savollar": [
+   {
+    "savol": "Fazoning berilgan nuqtadan berilgan masofadan katta bo'lmagan uzoqlikda yotgan hamma nuqtalaridan iborat jism nima deb ataladi?",
+    "variantlar": [
+     "Sfera",
+     "Konus",
+     "Shar",
+     "Silindr"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Markazi koordinatalar boshida va radiusi R bo'lgan sferaning tenglamasi qaysi?",
+    "variantlar": [
+     "x² + y² + z² = R²",
+     "x² + y² + z² ≤ R²",
+     "x² + y² + z² = R",
+     "x + y + z = R²"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Shar sirtining ikki nuqtasini tutashtiruvchi va sharning markazidan o'tuvchi kesma nima deyiladi?",
+    "variantlar": [
+     "Vatar",
+     "Radius",
+     "Urinma",
+     "Diametr"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Radiusi R bo'lgan shar markazidan tekislikkacha masofa d bo'lsin. d > R bo'lsa, tekislik va shar o'zaro qanday joylashadi?",
+    "variantlar": [
+     "Aylana bo'ylab kesishadi",
+     "Faqat bitta umumiy nuqtaga ega",
+     "Umumiy nuqtaga ega emas",
+     "Doira bo'ylab kesishadi"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Radiusi R bo'lgan shar markazidan tekislikkacha masofa d = R bo'lsa, tekislik sharga nisbatan qanday bo'ladi?",
+    "variantlar": [
+     "Sharni katta doira bo'ylab kesadi",
+     "Sharni kesmaydi",
+     "Sharga urinadi",
+     "Sharning diametr tekisligi bo'ladi"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Shar qaysi shaklni aylantirishdan hosil bo'ladi?",
+    "variantlar": [
+     "To'g'ri to'rtburchakni tomoni atrofida aylantirishdan",
+     "Yarim doirani diametri atrofida aylantirishdan",
+     "To'g'ri burchakli uchburchakni kateti atrofida aylantirishdan",
+     "Yarim aylanani radiusi atrofida aylantirishdan"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Sharning markazidan o'tuvchi tekislik bilan kesimi nima deb ataladi?",
+    "variantlar": [
+     "Urinma doira",
+     "Katta doira",
+     "Kichik doira",
+     "Katta aylana"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Sharning simmetriya markazi qaysi nuqta?",
+    "variantlar": [
+     "Sharning markazi",
+     "Urinish nuqtasi",
+     "Diametrning uchi",
+     "Sirtning istalgan nuqtasi"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Ikkita sferaning kesishishidan qanday figura hosil bo'ladi?",
+    "variantlar": [
+     "Kesma",
+     "Doira",
+     "Ellips",
+     "Aylana"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Sferaning tenglamasi (x + 1)² + (y − 2)² + (z − 1)² = 25 berilgan. Uning markazi va radiusi qaysi javobda to'g'ri ko'rsatilgan?",
+    "variantlar": [
+     "Markaz (1; −2; −1), R = 25",
+     "Markaz (1; −2; −1), R = 5",
+     "Markaz (−1; 2; 1), R = 5",
+     "Markaz (−1; 2; 1), R = 25"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Sferaning radiusi 13 dm. Sfera markazidan 5 dm masofada tekislik o'tkazilgan. Hosil bo'lgan kesimning yuzi nimaga teng?",
+    "variantlar": [
+     "144π dm²",
+     "12π dm²",
+     "25π dm²",
+     "169π dm²"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Markazi C(5; −2; 7) nuqtada, radiusi R = 2 bo'lgan sferaning tenglamasi qaysi?",
+    "variantlar": [
+     "(x − 5)² + (y + 2)² + (z − 7)² = 4",
+     "(x − 5)² + (y + 2)² + (z − 7)² = 2",
+     "(x + 5)² + (y − 2)² + (z + 7)² = 4",
+     "(x − 5)² + (y − 2)² + (z − 7)² = 4"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "K nuqtadan sferagacha eng qisqa masofa 6 cm, eng uzoq masofa 16 cm. Sfera bilan chegaralangan shar katta doirasining yuzi nimaga teng?",
+    "variantlar": [
+     "100π cm²",
+     "121π cm²",
+     "64π cm²",
+     "25π cm²"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Sharning radiusi 10 dm, uning tekislik bilan kesimining yuzi 64π dm². Sharning markazidan kesim tekisligigacha masofa qancha?",
+    "variantlar": [
+     "6 dm",
+     "4 dm",
+     "8 dm",
+     "2 dm"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Tekislik radiusi 20 cm bo'lgan sharga B nuqtada urinadi. Tekislikdagi A nuqta sharning markazidan 25 cm uzoqlikda. AB masofa qancha?",
+    "variantlar": [
+     "45 cm",
+     "15 cm",
+     "20 cm",
+     "5 cm"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Sferaning markazi C(3; −2; 1) nuqtada va K(2; −1; −3) nuqta unga tegishli. Sfera tenglamasi qaysi?",
+    "variantlar": [
+     "(x − 3)² + (y + 2)² + (z − 1)² = 18",
+     "(x + 3)² + (y − 2)² + (z + 1)² = 18",
+     "(x − 3)² + (y + 2)² + (z − 1)² = 6",
+     "(x − 3)² + (y + 2)² + (z − 1)² = 4"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Birlik sharga (R = 1) tashqi chizilgan kubning hajmi qancha?",
+    "variantlar": [
+     "4",
+     "1",
+     "2",
+     "8"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Sferaga tashqi chizilgan kubning hajmi 216 ga teng. Sferaning radiusi qancha?",
+    "variantlar": [
+     "3",
+     "9",
+     "6",
+     "2"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Shar katta doirasining yuzi 25π. Sharning markazidan qanday masofada o'tkazilgan tekislik yuzi 9π bo'lgan kesim ajratadi?",
+    "variantlar": [
+     "5",
+     "3",
+     "4",
+     "2"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Qirrasi 8 ga teng kubning barcha uchlaridan o'tuvchi sferaning radiusi qancha?",
+    "variantlar": [
+     "4√3",
+     "8√3",
+     "4√2",
+     "4"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Shar radiusining to'rtdan biriga teng masofada, unga perpendikular tekislik o'tkazilgan (markazdan R/4 masofada). Hosil bo'lgan kesim yuzining katta doira yuziga nisbati qancha?",
+    "variantlar": [
+     "15/16",
+     "1/16",
+     "3/4",
+     "1/4"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Shardan tashqaridagi M nuqtadan sharning sirtigacha eng qisqa masofa 6, sharning markazigacha masofa 15. M nuqtadan sharga o'tkazilgan MN urinmaning uzunligi qancha?",
+    "variantlar": [
+     "√306",
+     "14",
+     "9",
+     "12"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Sferaning radiusi 60% uzaytirilsa, sfera o'q kesimining yuzi necha foizga ko'payadi?",
+    "variantlar": [
+     "60%",
+     "256%",
+     "156%",
+     "120%"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Radiusi 4 ga teng ikkita teng shar shunday joylashganki, birining markazi ikkinchisining sirtida yotadi. Sharlar sirtlari kesishgan chiziqning uzunligi qancha?",
+    "variantlar": [
+     "4π√3",
+     "8π√3",
+     "8π",
+     "2π√3"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Radiuslari 15 va 20 bo'lgan ikki shar markazlari orasidagi masofa 25. Shar sirtlari kesishishidan hosil bo'lgan aylananing uzunligi qancha?",
+    "variantlar": [
+     "24π",
+     "25π",
+     "12π",
+     "48π"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Tomonlari 10, 10 va 12 bo'lgan uchburchakning tomonlari shar sirtiga urinadi. Uchburchak tekisligidan shar markazigacha masofa 4 bo'lsa, sharning radiusi qancha?",
+    "variantlar": [
+     "4",
+     "3",
+     "5",
+     "√7"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Radiusi 13 bo'lgan shar sirtiga diagonallari 30 va 40 bo'lgan rombning tomonlari urinadi. Romb tekisligidan shar markazigacha masofa qancha?",
+    "variantlar": [
+     "5",
+     "1",
+     "12",
+     "√313"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Radiusi 2 ga teng shar tomoni 6 ga teng muntazam uchburchakning hamma tomonlariga urinadi. Shar markazidan uchburchak tekisligigacha masofa qancha?",
+    "variantlar": [
+     "1",
+     "√7",
+     "2",
+     "√3"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Sharga tashqi chizilgan kesik konusning yasovchilari o'rtalaridan o'tuvchi tekislik bilan kesimining yuzi 9π ga teng. Kesik konusning yasovchisi qancha?",
+    "variantlar": [
+     "9",
+     "6",
+     "12",
+     "3"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Sharga ichki chizilgan konusning balandligi 3 ga, asosining radiusi 3√3 ga teng. Sharning radiusi qancha?",
+    "variantlar": [
+     "3√3",
+     "6",
+     "4,5",
+     "9"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "11-sinf",
+  "kitob": "11-Sinf Matematika 2-qism",
+  "mavzu": "14 Shar va uning bo'laklari hajmi",
+  "savollar": [
+   {
+    "savol": "Kavalyeri prinsipiga ko'ra, fazodagi F1 va F2 jismlarni bitta tekislikka parallel tekisliklar bilan kesganda qanday shartda ularning hajmlari teng bo'ladi?",
+    "variantlar": [
+     "Kesimlarning perimetrlari teng bo'lsa",
+     "Jismlarning balandliklari teng bo'lsa",
+     "Kesimlarda teng yuzali shakllar hosil bo'lsa",
+     "Jismlarning sirtlari yuzlari teng bo'lsa"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Radiusi R bo'lgan sharning hajmi qaysi formula bilan topiladi?",
+    "variantlar": [
+     "V = (4/3)πR³",
+     "V = πR³",
+     "V = 4πR²",
+     "V = (2/3)πR³"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Shar segmenti deb nimaga aytiladi?",
+    "variantlar": [
+     "Sharning ikki parallel tekislik orasidagi bo'lagiga",
+     "Umumiy markazli ikki shar sirti orasidagi jismga",
+     "Sharni markazidan o'tmaydigan tekislik bilan kesganda hosil bo'lgan bo'laklariga",
+     "Sharni markazidan o'tuvchi tekislik bilan kesganda hosil bo'lgan bo'lagiga"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Shar sektorining hajmi qaysi formula bilan topiladi (R – shar radiusi, h – segment balandligi)?",
+    "variantlar": [
+     "V = (1/3)πh²(3R − h)",
+     "V = (4/3)πR³",
+     "V = (2/3)πR²h",
+     "V = πR²h"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Radiusi R bo'lgan sferaning yuzi qaysi formula bilan hisoblanadi?",
+    "variantlar": [
+     "S = 4πR²",
+     "S = (4/3)πR²",
+     "S = πR²",
+     "S = 2πR²"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Shar segmentining hajmi qaysi formula bilan topiladi (R – shar radiusi, h – segment balandligi)?",
+    "variantlar": [
+     "V = (2/3)πR²h",
+     "V = πh²(R − h)",
+     "V = (1/3)πR²h",
+     "V = (1/3)πh²(3R − h)"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Shar halqasi deb nimaga aytiladi?",
+    "variantlar": [
+     "Umumiy markazga ega ikkita shar sirtlari orasidagi jismga",
+     "Sharning ikki parallel tekislik orasidagi bo'lagiga",
+     "Shar segmenti va konusdan tashkil topgan jismga",
+     "Sharni diametri bo'ylab teshib hosil qilingan jismga"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Sharning ikki parallel kesuvchi tekislik orasidagi bo'lagi nima deb ataladi?",
+    "variantlar": [
+     "Shar sektori",
+     "Shar halqasi",
+     "Shar segmenti",
+     "Shar kamari"
+    ],
+    "togri": 3,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Sferik segmentning (shar sektori sirtining sferik qismining) yuzi qaysi formula bilan topiladi (R – shar radiusi, h – segment balandligi)?",
+    "variantlar": [
+     "S = 2πR²h",
+     "S = 2πRh",
+     "S = πRh",
+     "S = 4πR²"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Radiusi R bo'lgan sharning hajmi shar sirtining yuzi S orqali qanday ifodalanadi?",
+    "variantlar": [
+     "V = (1/3)SR",
+     "V = (4/3)SR",
+     "V = SR",
+     "V = (1/2)SR"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Radiusi 3 cm bo'lgan sharning hajmini toping.",
+    "variantlar": [
+     "36π cm³",
+     "27π cm³",
+     "108π cm³",
+     "12π cm³"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Shar diametri 2 marta kattalashtirilsa, uning hajmi necha marta kattalashadi?",
+    "variantlar": [
+     "8 marta",
+     "6 marta",
+     "4 marta",
+     "2 marta"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ichki radiusi 5 cm, tashqi radiusi 7 cm bo'lgan shar halqasining hajmini toping.",
+    "variantlar": [
+     "(218π) cm³",
+     "(344π/3) cm³",
+     "(8π/3) cm³",
+     "(872π/3) cm³"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Radiusi 5 cm va balandligi 3 cm bo'lgan shar segmentining hajmini toping.",
+    "variantlar": [
+     "12π cm³",
+     "30π cm³",
+     "45π cm³",
+     "36π cm³"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Radiusi 3 cm va segment balandligi 1 cm bo'lgan shar sektorining hajmini toping.",
+    "variantlar": [
+     "18π cm³",
+     "9π cm³",
+     "3π cm³",
+     "6π cm³"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Radiusi 5 cm bo'lgan sferaning yuzini toping.",
+    "variantlar": [
+     "500π/3 cm²",
+     "50π cm²",
+     "100π cm²",
+     "25π cm²"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Sharning katta doirasi yuzi 3 ga teng. Shar sirtining yuzini toping.",
+    "variantlar": [
+     "12",
+     "3π",
+     "6",
+     "9"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Sferaning yuzi 36π cm² bo'lsa, uning radiusi nimaga teng?",
+    "variantlar": [
+     "3 cm",
+     "6 cm",
+     "18 cm",
+     "9 cm"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Hajmi 8 m³ bo'lgan kubga ichki chizilgan sharning hajmini toping.",
+    "variantlar": [
+     "(32π/3) m³",
+     "(4π/3) m³",
+     "(8π/3) m³",
+     "4π m³"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Radiusi 2 cm bo'lgan sharlarning nechtasidan radiusi 6 cm bo'lgan shar hosil qilish mumkin (hajm saqlanadi deb oling)?",
+    "variantlar": [
+     "27 ta",
+     "18 ta",
+     "3 ta",
+     "9 ta"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Sharning markazidan 6 cm masofadagi kesimning yuzi 64π cm² bo'lsa, sharning hajmini toping.",
+    "variantlar": [
+     "(800π/3) cm³",
+     "(2304π) cm³",
+     "(500π/3) cm³",
+     "(4000π/3) cm³"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Qirrasi a ga teng bo'lgan kubga tashqi chizilgan sharning hajmi nimaga teng?",
+    "variantlar": [
+     "(πa³)/6",
+     "(4πa³)/3",
+     "(√3πa³)/6",
+     "(√3πa³)/2"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Sharga ichki chizilgan kubning hajmi shar hajmidan necha marta kichik?",
+    "variantlar": [
+     "π√3 marta",
+     "π√3/2 marta",
+     "π/2 marta",
+     "2π/3 marta"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Birinchi shar hajmi ikkinchisinikidan 27 marta katta. Birinchi shar sirtining yuzi ikkinchisinikidan necha marta katta?",
+    "variantlar": [
+     "27 marta",
+     "9 marta",
+     "3 marta",
+     "81 marta"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Sharni chegaralovchi sfera tenglamasi x² + y² + z² − 6x + 4y − 6z = 3 ko'rinishda bo'lsa, shar hajmini toping.",
+    "variantlar": [
+     "(256π/3)",
+     "(100π/3)",
+     "(125π/3)",
+     "(500π/3)"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Shar tekislik bilan hajmlari 720π cm³ va 252π cm³ bo'lgan bo'laklarga bo'lingan. Shar sirtining yuzini toping.",
+    "variantlar": [
+     "81π cm²",
+     "729π cm²",
+     "144π cm²",
+     "324π cm²"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Radiuslari 3 cm, 4 cm va 5 cm bo'lgan mis sharlar eritilib bitta shar quyildi. Hosil bo'lgan sharning radiusi qancha?",
+    "variantlar": [
+     "4 cm",
+     "5,5 cm",
+     "12 cm",
+     "6 cm"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Shar sektori asosining radiusi 60 cm, sharning radiusi 75 cm bo'lsa, shar sektorining hajmini toping.",
+    "variantlar": [
+     "168750π cm³",
+     "56250π cm³",
+     "112500π cm³",
+     "225000π cm³"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Kovak shar devorining hajmi 252π cm³, devorning qalinligi 3 cm. Tashqi sharning radiusini toping.",
+    "variantlar": [
+     "6 cm",
+     "7 cm",
+     "5 cm",
+     "9 cm"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ },
+ {
+  "sinf": "11-sinf",
+  "kitob": "11-Sinf Matematika 2-qism",
+  "mavzu": "16 Bobni takrorlashga doir amaliy mashqlar",
+  "savollar": [
+   {
+    "savol": "Shar sirtining yuzi qaysi formula bilan hisoblanadi (R – shar radiusi)?",
+    "variantlar": [
+     "πR²",
+     "(4/3)πR³",
+     "4πR²",
+     "2πR²"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Shar hajmi qaysi formula bilan hisoblanadi (R – shar radiusi)?",
+    "variantlar": [
+     "4πR²",
+     "(1/3)πR³",
+     "(4/3)πR³",
+     "2πR³"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Qirrasi a ga teng kubga ichki chizilgan sharning radiusi nimaga teng?",
+    "variantlar": [
+     "a/2",
+     "a",
+     "a√2/2",
+     "a√3/2"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Qirrasi a ga teng kubga tashqi chizilgan sharning radiusi nimaga teng?",
+    "variantlar": [
+     "a√2/2",
+     "a√3/2",
+     "a√3",
+     "a/2"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "O‘q kesimi kvadratdan iborat silindrga shar ichki chizilgan. Silindrning balandligi shar uchun nimaga teng bo‘ladi?",
+    "variantlar": [
+     "sharning radiusidan ikki marta kichik",
+     "sharning diametriga",
+     "sharning diametridan ikki marta katta",
+     "sharning radiusiga"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Shar tekislik bilan kesilganda kesimda qanday shakl hosil bo‘ladi?",
+    "variantlar": [
+     "uchburchak",
+     "ellips",
+     "doira",
+     "kvadrat"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Kesik konusga shar ichki chizilishi mumkin bo‘lsa, kesik konusning yasovchisi nimaga teng bo‘ladi?",
+    "variantlar": [
+     "kesik konus balandligiga",
+     "asoslari radiuslarining yig‘indisiga",
+     "asoslari radiuslarining ayirmasiga",
+     "asoslari radiuslarining ko‘paytmasiga"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Sharga tashqi chizilgan kubning qirrasi sharning qaysi kattaligiga teng bo‘ladi?",
+    "variantlar": [
+     "radiusiga",
+     "diametriga",
+     "radiusining yarmiga",
+     "diametridan √3 marta kattasiga"
+    ],
+    "togri": 1,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Piramidaning hajmi V, to‘la sirti S, unga ichki chizilgan sharning radiusi r bo‘lsa, ular orasidagi bog‘lanish qaysi?",
+    "variantlar": [
+     "V = (1/2)·S·r",
+     "V = S·r",
+     "V = (1/3)·S·r",
+     "V = (4/3)πr³"
+    ],
+    "togri": 2,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Konusga ichki chizilgan sharning markazi qayerda yotadi?",
+    "variantlar": [
+     "konusning balandligida",
+     "konus asosining aylanasida",
+     "konusdan tashqarida",
+     "konusning yasovchisida"
+    ],
+    "togri": 0,
+    "qiyinlik": "oson"
+   },
+   {
+    "savol": "Agar sferaning radiusi 50% orttirilsa, sfera sirtining yuzi necha foizga ko‘payadi?",
+    "variantlar": [
+     "100%",
+     "150%",
+     "75%",
+     "125%"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Radiusi 13 ga teng bo‘lgan shar tekislik bilan kesilgan. Shar markazidan kesimgacha masofa 10 ga teng bo‘lsa, kesimning yuzini toping.",
+    "variantlar": [
+     "100π",
+     "3π",
+     "69π",
+     "36π"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Sharni bo‘yash uchun 100 gramm bo‘yoq ishlatildi. Sharning diametri uch marta orttirilsa, uni bo‘yash uchun necha gramm bo‘yoq kerak bo‘ladi?",
+    "variantlar": [
+     "300",
+     "450",
+     "600",
+     "900"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Hajmi 125 bo‘lgan kubga ichki chizilgan shar sirtining yuzini toping.",
+    "variantlar": [
+     "105π",
+     "25π",
+     "125π",
+     "24,5π"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Ikkita qo‘shni yoqlarining markazlari orasidagi masofa 2√2 ga teng bo‘lgan kubga tashqi chizilgan shar sirtining yuzini toping.",
+    "variantlar": [
+     "36π",
+     "18√2π",
+     "28π",
+     "48π"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Radiuslari 2, 3 va 4 ga teng bo‘lgan metall sharlar eritilib, bitta shar quyildi. Shu sharning hajmini toping.",
+    "variantlar": [
+     "144π",
+     "132π",
+     "99π",
+     "396π"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Hajmi 9π/16 ga teng bo‘lgan shar sirtining yuzini toping.",
+    "variantlar": [
+     "9π/16",
+     "9π/2",
+     "9π/4",
+     "3π/4"
+    ],
+    "togri": 2,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Radiusi 5 ga teng bo‘lgan shar markazidan 3 ga teng masofada tekislik bilan ikkita jismga ajratildi. Shu jismlardan kichigining hajmini toping.",
+    "variantlar": [
+     "(52/3)π",
+     "(47/3)π",
+     "(53/3)π",
+     "(49/3)π"
+    ],
+    "togri": 0,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Silindrga shar ichki chizilgan. Silindrning hajmi 16π ga teng bo‘lsa, sharning hajmini toping.",
+    "variantlar": [
+     "64π/3",
+     "32π/3",
+     "16π/3",
+     "16π"
+    ],
+    "togri": 1,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "Kesik konusga shar ichki chizilgan. Kesik konus asoslarining yuzlari π va 4π ga teng bo‘lsa, uning yon sirtining yuzini toping.",
+    "variantlar": [
+     "7π",
+     "6π",
+     "8π",
+     "9π"
+    ],
+    "togri": 3,
+    "qiyinlik": "o'rtacha"
+   },
+   {
+    "savol": "O‘q kesimi kvadratdan iborat silindrga radiusi 3 ga teng bo‘lgan shar ichki chizilgan. Silindr va shar sirtlari orasidagi jismning hajmini toping.",
+    "variantlar": [
+     "27π",
+     "12π",
+     "18π",
+     "24π"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "O‘q kesimi kvadratdan iborat silindrga radiusi 2 ga teng bo‘lgan shar tashqi chizilgan. Silindrning hajmini toping.",
+    "variantlar": [
+     "2√2π",
+     "3√2π",
+     "8π",
+     "4√2π"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Kesik konusga shar ichki chizilgan. Kesik konus ustki asosining yuzi 36π ga, ostki asosining yuzi 64π ga teng. Shar sirtining yuzini toping.",
+    "variantlar": [
+     "144π",
+     "172π",
+     "100π",
+     "192π"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Radiusi 2 ga teng shar konusga ichki chizilgan. Konus yasovchisi va balandligi orasidagi burchak 30° ga teng. Konus yon sirtining yuzini toping.",
+    "variantlar": [
+     "4π",
+     "24π",
+     "18π",
+     "16π"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Radiusi 10 ga teng bo‘lgan sferaga balandligi 18 ga teng bo‘lgan konus ichki chizilgan. Konusning hajmini toping.",
+    "variantlar": [
+     "228π",
+     "216π",
+     "220π",
+     "210π"
+    ],
+    "togri": 1,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Sharga konus shunday ichki chizilganki, konusning yasovchisi asosining diametriga teng. Konusning to‘la sirti shar sirti yuzining necha foizini tashkil etadi?",
+    "variantlar": [
+     "56,25",
+     "62",
+     "54,5",
+     "60,75"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Uchburchakli muntazam piramidaga tashqi chizilgan sharning markazi uning balandligini 6 va 3 ga teng qismlarga ajratadi (uchidan boshlab 6, asosidan 3). Piramidaning hajmini toping.",
+    "variantlar": [
+     "243√3/4",
+     "729√3/4",
+     "81√3/2",
+     "25√3/4"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Kubning bir uchidan chiqqan uchta qirrasining o‘rtalari orqali o‘tkazilgan kesimning yuzi 16√3 ga teng. Shu kubga ichki chizilgan shar sirtining yuzini toping.",
+    "variantlar": [
+     "144π",
+     "256π",
+     "96π",
+     "128π"
+    ],
+    "togri": 3,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Kubga ichki chizilgan silindrning hajmi unga ichki chizilgan konusning hajmidan π ga ortiq (konus ham, silindr ham asosi kubning asosiga ichki chizilgan, balandligi kub qirrasiga teng). Kubning hajmini toping.",
+    "variantlar": [
+     "6",
+     "8",
+     "4",
+     "12"
+    ],
+    "togri": 0,
+    "qiyinlik": "qiyin"
+   },
+   {
+    "savol": "Sfera sirtidagi uchta nuqta orasidagi masofalar 26, 24 va 10 ga, sfera sirtining yuzi esa 900π ga teng. Shu uchta nuqta orqali o‘tgan tekislikdan sferaning markazigacha bo‘lgan masofani toping.",
+    "variantlar": [
+     "4√14",
+     "2π√14",
+     "2√14",
+     "56π"
+    ],
+    "togri": 2,
+    "qiyinlik": "qiyin"
+   }
+  ]
+ }
+]

@@ -1,0 +1,179 @@
+53-dars qanday nomlanadi?
++A) Ilovada radiotugmalar guruhidan foydalanish
+B) Ilovada bayroqchalardan foydalanish
+C) ListBox va ComboBox obyektlari
+D) Ma’lumot turini o‘zgartirish
+
+Bir nechta variantdan faqat bittasini tanlash uchun qaysi obyektdan foydalaniladi?
+A) Edit
++B) RadioGroup
+C) CheckBox
+D) Label
+
+Pascal tilida bir necha variantdan birini tanlash qaysi operator yordamida bajarilgan?
+A) For
+B) While
++C) Case
+D) If
+
+RadioGroup obyekti obyektlar panelining qaysi jildida joylashgan?
+A) Additional jildida
+B) Win32 jildida
+C) System jildida
++D) Standart jildida, o‘ngdan uchinchisi
+
+RadioGroup obyektida variantlar ro‘yxati qaysi xossada kiritiladi?
++A) Items
+B) Caption
+C) Columns
+D) ItemIndex
+
+Tanlangan variantning tartib raqami qaysi xossada saqlanadi?
+A) Caption
++B) ItemIndex
+C) Items
+D) Columns
+
+Hech bir variant tanlanmagan bo‘lsa, ItemIndex qiymati nechaga teng bo‘ladi?
+A) 1
+B) Noma’lum
++C) -1
+D) 0
+
+RadioGroup ro‘yxati nechta ustun bo‘lib joylashishini qaysi xossa ko‘rsatadi?
+A) Items
+B) ItemIndex
+C) Caption
++D) Columns
+
+Muloqot oynasida kiritilgan variantlarni bekor qilish uchun qaysi tugma bosiladi?
++A) Cancel
+B) OK
+C) Delete
+D) Save
+
+Eng qiziqarli fan ilovasida nechta radiotugma ishlatiladi?
+A) Beshta
++B) To‘rtta
+C) Ikkita
+D) Uchta
+
+Matnda keltirilgan misolda ro‘yxatdagi birinchi variant matematika emas, balki ikkinchi bo‘lib turgan fizika nega tanlangan?
+A) Chunki fizika birinchi kiritilgan
+B) Bu xato, hech qanday sabab yo‘q
++C) Chunki ItemIndex 1 ga teng qilib o‘rnatilgan va hisob 0 dan boshlanadi
+D) Chunki matematika ro‘yxatdan o‘chirilgan
+
+RadioGroup uchun ajratilgan joy eni ustunlar orasida qanday taqsimlanadi?
+A) Tasodifiy taqsimlanadi
+B) Faqat birinchi ustunga beriladi
+C) Taqsimlanmaydi
++D) Teng taqsimlanadi
+
+Tugmalar soni ustunlar soniga bo‘linganda kasr son chiqsa, nima qilinadi?
++A) Katta butun songacha butunlashtiriladi
+B) Kichik butun songacha kesiladi
+C) Xatolik chiqadi
+D) O‘zgarishsiz qoladi
+
+Oxirgi ustunlardan biri yoki bir nechtasi bo‘sh bo‘lib qolsa, bu ustunlar uchun joy ajratiladimi?
+A) Faqat oxirgi ustunga joy ajratiladi
++B) Ha, bo‘sh ustunlar uchun ham joy ajratiladi
+C) Yo‘q, joy ajratilmaydi
+D) Faqat birinchi ustunga joy ajratiladi
+
+Eng qiziqarli fan ilovasida eski CheckBox obyektlarini olib tashlash uchun qanday amal bajariladi?
+A) Ularni ko‘rinmas qilinadi
+B) Ularni nusxalanadi
++C) Ularni tanlab, Delete tugmasi bosiladi
+D) Ularni rangsiz qilinadi
+
+i:= Radiogroup1.Itemindex; operatori nima qiladi?
+A) Yangi variant qo‘shadi
+B) Variantni o‘chiradi
+C) Ilovani yopadi
++D) Tanlangan variant raqamini i o‘zgaruvchisiga beradi
+
+if i>=0 then n[i+1]:=n[i+1]+1; qatori nimani tekshiradi?
++A) Biror variant tanlanganligini
+B) Ilova ochilganligini
+C) Fayl saqlanganligini
+D) Tugma mavjudligini
+
+Protsedura oxirida Radiogroup1.Itemindex:=-1; nima uchun yoziladi?
+A) Ro‘yxatni o‘chirish uchun
++B) Variantlarni tanlanmagan holatga qaytarish uchun
+C) Ilovani yopish uchun
+D) Xato chiqarish uchun
+
+n[0]:=n[0]+1; qatori nimani hisoblaydi?
+A) Fizikaga ovoz berganlar sonini
+B) Hech narsani
++C) So‘rovda qatnashganlar sonini
+D) Matematikaga ovoz berganlar sonini
+
+RadioGroup obyektining Caption xossasi nimani bildiradi?
+A) Faqat birinchi variant nomini
+B) Variantlar sonini
+C) Ustunlar sonini
++D) Butun guruhning sarlavhasini
+
+Savol-topshiriqda sinfdoshlaringiz ismlari joylashtirilgan radiotugmalar guruhi yordamida qanday ilova yaratish so‘raladi?
++A) Tanlangan o‘quvchiga ismini aytib salom beruvchi ilova
+B) Ro‘yxatni o‘chiruvchi ilova
+C) Rasm chizuvchi ilova
+D) Fayl saqlovchi ilova
+
+Savol-topshiriqda oldingi ilovaga yana nechta radiotugmalar guruhi qo‘shish so‘raladi?
+A) To‘rtta
++B) Ikkita (fanlar va baholar ro‘yxati)
+C) Bitta
+D) Uchta
+
+Qo‘shimcha radiotugmalar guruhlari yordamida nima ekranga chiqarilishi so‘raladi?
+A) Faqat fan nomi
+B) Faqat sana
++C) Tanlangan o‘quvchining tanlangan fan bo‘yicha bahosi
+D) Faqat o‘quvchi ismi
+
+Uyga vazifada radio tugmalar guruhi kerak bo‘ladigan qanday vaziyatlarga misol keltirish so‘raladi?
+A) Faqat matn kiritish vaziyatlari
+B) Faqat rasm tanlash vaziyatlari
+C) Faqat fayl saqlash vaziyatlari
++D) Faqat bitta variant tanlanadigan real hayotiy vaziyatlar
+
+Uyga vazifada RadioGroup obyekti obyektlar panelining qayerida joylashganligi so‘raladi?
++A) Aniq joylashuvi (standart jildda, o‘ngdan uchinchi)
+B) Faqat nomi
+C) Faqat rangi
+D) Faqat xossalari
+
+RadioGroup va CheckBox obyektlari orasidagi asosiy farq nimada?
+A) CheckBox faqat bitta marta ishlatiladi
++B) RadioGroup faqat bitta variant tanlashga, CheckBox bir nechta variant tanlashga mo‘ljallangan
+C) Ikkalasi bir xil ishlaydi
+D) RadioGroup faqat matn uchun, CheckBox faqat son uchun
+
+Agar RadioGroup.Columns=0 bo‘lsa, ro‘yxat qanday joylashadi?
+A) Avtomatik ko‘p ustunga bo‘linadi
+B) Xatolik chiqadi
++C) Ustunlarga bo‘linmaydi (bitta ustunda)
+D) Ikkita ustunga bo‘linadi
+
+Ilovada so‘rov tugagach, nega ItemIndex qayta -1 ga o‘rnatiladi?
+A) Chunki bu majburiy xato
+B) Ilovani yopish uchun
+C) Hisoblashni to‘xtatish uchun
++D) Keyingi foydalanuvchi uchun tanlovni tozalash maqsadida
+
+RadioGroup muloqot oynasidagi variantlar ro‘yxatiga nechta qiymat (matematika, fizika, kimyo, informatika) kiritilgan?
++A) To‘rtta
+B) Uchta
+C) Ikkita
+D) Beshta
+
+RadioGroup obyektining Items muloqot oynasida OK tugmasi bosilsa nima sodir bo‘ladi?
+A) Xatolik chiqadi
++B) Kiritilgan variantlar saqlanib, ilova oynasida darhol aks etadi
+C) Variantlar o‘chiriladi
+D) Oyna yopiladi, lekin hech narsa saqlanmaydi

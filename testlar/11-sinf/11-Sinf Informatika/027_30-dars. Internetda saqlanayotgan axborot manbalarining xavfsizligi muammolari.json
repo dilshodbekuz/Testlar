@@ -1,0 +1,337 @@
+{
+  "sinf": "11-sinf",
+  "kitob": "11-sinf 11-Sinf Informatika",
+  "mavzu": "30-dars. Internetda saqlanayotgan axborot manbalarining xavfsizligi muammolari",
+  "savollar": [
+    {
+      "savol": "Internet tarqatilayotgan ma'lumotlarga qanday tahdidlar bo'lishi mumkin?",
+      "variantlar": [
+        "Axborot yaxlitligi va daxlsizligiga tashqi tahdidlar",
+        "Faqat ob-havo tahdidi",
+        "Faqat elektr uzilishi",
+        "Faqat printer nosozligi"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Kriptografiya usullari yordamida nima ta'minlanadi?",
+      "variantlar": [
+        "Ma'lumotlarni butunlay o'chirish",
+        "Foydalanuvchilar imkoniyatlarini cheklamay ma'lumotlarni himoya qilish",
+        "Internetni o'chirish",
+        "Kompyuterni sovutish"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Simmetrik shifrlash algoritmi kimga ma'lum hisoblanadi?",
+      "variantlar": [
+        "Faqat dasturchilarga",
+        "Faqat printerlarga",
+        "Foydalanuvchilarga",
+        "Hech kimga"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Simmetrik yopiq kalit bilan shifrlashning asosiy kamchiligi nimada?",
+      "variantlar": [
+        "Shifrlash juda tez bo'lishi",
+        "Kalit juda katta bo'lishi kerakligi",
+        "Shifrlash umuman bo'lmasligi",
+        "Kalitlarni hosil qilish, saqlash va kerakli manzilga yetkazish murakkabligi"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Asimmetrik kalit usulida ma'lumot jo'natuvchi qaysi kalit bilan shifrlaydi?",
+      "variantlar": [
+        "Ochiq kalit bilan",
+        "Yopiq kalit bilan",
+        "Parol bilan",
+        "Ekran kodi bilan"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Asimmetrik kalit usulida qabul qiluvchi faylni qaysi kalit yordamida deshifrlaydi?",
+      "variantlar": [
+        "Ochiq kalit",
+        "Yopiq kalit",
+        "Har ikki kalit",
+        "Kalitsiz"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "RSA shifrlash usulini kim kashf etgan?",
+      "variantlar": [
+        "Gay Yuliy Sezar",
+        "Djerolamo Kardano",
+        "R. Rivest, A. Shamir va L. Adelman",
+        "V. Levin"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "RSA kalitlarini hosil qilishda p va q qanday sonlar bo'lishi kerak?",
+      "variantlar": [
+        "Har doim juft sonlar",
+        "Har doim nol",
+        "Har doim bir xil sonlar",
+        "O'zaro teng bo'lmagan tub sonlar"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Elektron raqamli imzo (ERI) nima?",
+      "variantlar": [
+        "Yopiq kalitining egasini identifikatsiya qilish imkoniyatini beradigan imzo",
+        "Qog'oz hujjatga chizilgan rasm",
+        "Monitor ekranidagi belgi",
+        "Printer chop etgan muhr"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "ERI olish uchun qaysi vazirlik huzuridagi agentlikka murojaat qilinadi?",
+      "variantlar": [
+        "Oliy ta'lim vazirligi",
+        "Adliya vazirligi",
+        "Moliya vazirligi",
+        "Sog'liqni saqlash vazirligi"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "ERI ro'yxatdan o'tgan paytdan boshlab odatda qancha muddatga beriladi?",
+      "variantlar": [
+        "Bir oy",
+        "Bir hafta",
+        "Besh yil",
+        "Bir yil"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "RSA algoritmida n soni qanday hisoblanadi?",
+      "variantlar": [
+        "n = p*q",
+        "n = p+q",
+        "n = p-q",
+        "n = p/q"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "RSA da yashirin d soni qaysi shartni qanoatlantirishi kerak?",
+      "variantlar": [
+        "(d+e) mod n = 0",
+        "(d*e) mod n = 1",
+        "(d*e) mod n = 0",
+        "(d-e) mod n = 2"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "RSA algoritmida d sonining qanday shartlaridan biri to'g'ri?",
+      "variantlar": [
+        "d > n",
+        "d = 0",
+        "1 < d < n",
+        "d = n"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "1-mashqda p=3 va q=11 bo'lsa, n necha teng bo'ladi?",
+      "variantlar": [
+        "14",
+        "22",
+        "44",
+        "33"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "1-mashqda (p-1)(q-1) qanchaga teng?",
+      "variantlar": [
+        "20",
+        "33",
+        "28",
+        "10"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "1-mashqda e=7 bo'lsa, (d*7) mod 20 = 1 shartini qanoatlantiruvchi d soni nechaga teng?",
+      "variantlar": [
+        "5",
+        "3",
+        "7",
+        "9"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Matnni (7,33) ochiq kalit bilan shifrlashda C(1) = (37) mod 33 nechaga teng?",
+      "variantlar": [
+        "1",
+        "29",
+        "9",
+        "3"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Yopiq (3,33) kalit bilan M(1) = (93) mod 33 = 3 ni qaysi harf ifodalaydi?",
+      "variantlar": [
+        "A",
+        "V",
+        "M",
+        "S"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Martin Gardner 'Oshkor etish uchun million yil ketuvchi mutlaqo yangi shifr' risolasini qaysi jurnalda e'lon qilgan?",
+      "variantlar": [
+        "Scientific American",
+        "Nature",
+        "Time",
+        "Newsweek"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "n sonni tub sonlarga ajratgan insonlarga qanday mukofot e'lon qilingan?",
+      "variantlar": [
+        "Oltin medal",
+        "Avtomobil",
+        "Pul mukofoti",
+        "Uy"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Tub ko'paytuvchilarga ajratish muammosini hal qilish uchun nechta kishi necha yil ishlagan?",
+      "variantlar": [
+        "60 kishi, 7 yil",
+        "6 kishi, 1 yil",
+        "1000 kishi, 30 yil",
+        "600 kishi, 17 yil"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "RSA usulining kriptoustuvorligi qanday tub sonlar bilan ta'minlanadi?",
+      "variantlar": [
+        "64 va 65 xonali juda katta tub sonlar bilan",
+        "Bir xonali tub sonlar bilan",
+        "Ikki xonali tub sonlar bilan",
+        "Juft sonlar bilan"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Yopiq kalitning eng muhim talabi nima?",
+      "variantlar": [
+        "Har kuni o'zgartirilishi",
+        "Maxfiy saqlanishi",
+        "Internetda e'lon qilinishi",
+        "Printerda chop etilishi"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "RSA usulida odatda e soni sifatida qaysi Ferma tub soni olinadi?",
+      "variantlar": [
+        "65538",
+        "1024",
+        "65537",
+        "100"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Elektron raqamli imzo xatari ayniqsa qaysi tizimda xavflidir?",
+      "variantlar": [
+        "O'yin tizimida",
+        "Ta'lim platformasida",
+        "Ob-havo tizimida",
+        "Bank tizimida"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "RSA da tanlanadigan ikkita katta tub son odatda necha bitdan iborat bo'ladi (misol sifatida)?",
+      "variantlar": [
+        "1024 bitdan",
+        "8 bitdan",
+        "16 bitdan",
+        "32 bitdan"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Elektron raqamli imzo qonunda talab qilingan shartlarga rioya qilinganda qanday ahamiyatga ega?",
+      "variantlar": [
+        "Hech qanday ahamiyatga ega emas",
+        "Qog'oz hujjatga shaxsan qo'yilgan imzo bilan bir xil ahamiyatga",
+        "Faqat ichki hujjatlar uchun",
+        "Faqat rasmiy bo'lmagan xatlar uchun"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Shifrlangan n sonini ko'paytuvchilarga ajratishda topilgan p va q sonlari qanday turdagi sonlar?",
+      "variantlar": [
+        "Juft sonlar",
+        "Manfiy sonlar",
+        "Tub sonlar",
+        "Kasr sonlar"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Simmetrik shifrlash usullarining maxfiylik mezoni nimadan iborat?",
+      "variantlar": [
+        "Ekran o'lchami",
+        "Printer modeli",
+        "Fayl nomi uzunligi",
+        "Berilgan shifrlash algoritmi uchun kalitning variantlari soni"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    }
+  ]
+}

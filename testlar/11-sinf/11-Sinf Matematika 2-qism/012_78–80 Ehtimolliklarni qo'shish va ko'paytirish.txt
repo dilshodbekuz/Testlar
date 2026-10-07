@@ -1,0 +1,187 @@
+78–80 Ehtimolliklarni qo'shish va ko'paytirish
+
+--- OSON ---
+
+1. Ixtiyoriy A va B hodisalar uchun ehtimolliklarni qo'shish qoidasi qaysi tenglik bilan ifodalanadi?
+A) P(A ∪ B) = P(A) − P(B)
+B) P(A ∪ B) = P(A) + P(B) + P(A ∩ B)
+C) P(A ∪ B) = P(A) · P(B)
++D) P(A ∪ B) = P(A) + P(B) − P(A ∩ B)
+
+2. Birgalikda bo'lmagan A va B hodisalar uchun qaysi tenglik o'rinli?
+A) P(A ∪ B) = P(A) · P(B)
+B) P(A ∪ B) = 1 − P(A)
++C) P(A ∪ B) = P(A) + P(B)
+D) P(A ∪ B) = P(A) − P(B)
+
+3. Shartli ehtimollik P(A|B) qaysi formula yordamida topiladi (P(B) ≠ 0)?
+A) P(A|B) = P(A) + P(B)
+B) P(A|B) = P(A ∩ B) / P(A)
+C) P(A|B) = P(A) · P(B)
++D) P(A|B) = P(A ∩ B) / P(B)
+
+4. Ehtimollikni ko'paytirish formulasi qaysi javobda to'g'ri yozilgan?
+A) P(A ∩ B) = P(A) + P(B|A)
+B) P(A ∩ B) = P(B) / P(A|B)
+C) P(A ∩ B) = P(A) − P(B)
++D) P(A ∩ B) = P(B) · P(A|B)
+
+5. Qaysi shart bajarilganda A hodisa B hodisaga bog'liq emas deyiladi?
++A) P(A|B) = P(A)
+B) P(A|B) = P(B)
+C) P(A|B) = 0
+D) P(A|B) = 1
+
+6. A va B hodisalar o'zaro bog'liq bo'lmasa, ularning birgalikda ro'y berish ehtimolligi qanday topiladi?
+A) P(AB) = P(A) + P(B)
++B) P(AB) = P(A) · P(B)
+C) P(AB) = P(A) − P(B)
+D) P(AB) = P(A) / P(B)
+
+7. A|B yozuv nimani bildiradi?
++A) B hodisaning ro'y berganligi aniq bo'lganida A hodisaning ro'y berishini
+B) A yoki B hodisaning ro'y berishini
+C) A va B hodisalarning birgalikda ro'y berishini
+D) A hodisaning ro'y bermasligini
+
+8. A va B hodisalar birgalikda bo'lmasa, P(A ∩ B) nimaga teng?
+A) P(A) · P(B)
+B) 1
+C) P(A) + P(B)
++D) 0
+
+9. A₁, A₂, ..., Aₙ o'zaro bog'liq bo'lmagan hodisalarning har birining ehtimolligi p bo'lsa, ulardan kamida bittasining ro'y berish ehtimolligi qaysi formula bilan topiladi?
+A) pⁿ
+B) 1 − pⁿ
+C) n · p
++D) 1 − (1 − p)ⁿ
+
+10. A va B hodisalar o'zaro bog'liq bo'lmasa, quyidagilardan qaysi biri to'g'ri?
+A) A va B̄ hodisalarning ehtimolliklari yig'indisi 1 ga teng
+B) A va B̄ hodisalar albatta bog'liq bo'ladi
+C) A va B̄ hodisalar birgalikda bo'lmaydi
++D) A va B̄ hodisalar ham o'zaro bog'liq bo'lmaydi
+
+--- O'RTACHA ---
+
+11. P(A) = 0,4, P(A ∪ B) = 0,9, P(A ∩ B) = 0,1 bo'lsa, P(B) nimaga teng?
++A) 0,6
+B) 0,5
+C) 0,4
+D) 0,7
+
+12. P(A) = 0,6, P(B) = 0,5, P(A ∪ B) = 0,9 bo'lsa, P(A ∩ B) nimaga teng?
++A) 0,2
+B) 0,3
+C) 0,1
+D) 0,4
+
+13. A va B hodisalar birgalikda bo'lmasin. P(A) = 0,45, P(A ∪ B) = 0,8 bo'lsa, P(B) nimaga teng?
+A) 0,25
+B) 0,45
+C) 0,36
++D) 0,35
+
+14. 1, 2, ..., 15 sonlari bilan nomerlangan chiptalardan biri ixtiyoriy tanlanmoqda. Chiptadagi nomer 11 dan katta bo'lishi ehtimolligi nimaga teng?
+A) 1/3
++B) 4/15
+C) 11/15
+D) 3/15
+
+15. Gulzorda 20 ta qizil, 30 ta binafsha va 40 ta oq gul ochilgan. Tavakkaliga uzilgan gulning qizil yoki binafsha bo'lish ehtimolligi nimaga teng?
+A) 1/3
+B) 2/9
++C) 5/9
+D) 4/9
+
+16. X va Y hodisalar o'zaro bog'liq emas, P(X) = 0,5, P(Y) = 0,7. X va Y hodisalarning ikkalasi ham ro'y berish ehtimolligi nimaga teng?
+A) 0,7
+B) 0,2
+C) 1,2
++D) 0,35
+
+17. P(A) = 1/2, P(B) = 1/3 va A, B birgalikda bo'lmagan hodisalar bo'lsa, P(A ∪ B) nimaga teng?
+A) 1/5
+B) 2/5
+C) 1/6
++D) 5/6
+
+18. P(A) = 0,5 va P(B|A) = 0,4 bo'lsa, P(A ∩ B) nimaga teng?
+A) 0,1
+B) 0,9
++C) 0,2
+D) 0,8
+
+19. Tanga va kub bir vaqtda tashlandi. «Gerb» tushishi va kubda «3» soni tushishi hodisalarining birgalikda ro'y berish ehtimolligi nimaga teng?
+A) 1/8
+B) 1/6
++C) 1/12
+D) 2/3
+
+20. Ish vaqti davomida bitta dastgohni ta'mirlash ehtimolligi 0,2, ikkita dastgohni ta'mirlash ehtimolligi 0,13, ikkitadan ortiq dastgohni ta'mirlash ehtimolligi 0,07 ga teng. Hech bo'lmaganda bitta dastgohni ta'mirlash talab etilishi ehtimolligi nimaga teng?
+A) 0,6
+B) 0,3
+C) 0,0182
++D) 0,4
+
+--- QIYIN ---
+
+21. Ikki ovchi bo'riga qarata bittadan o'q uzdi. Birinchisining o'qni tekkizish ehtimolligi 0,7, ikkinchisiniki 0,8. Hech bo'lmaganda bitta o'qning bo'riga tegishi ehtimolligi nimaga teng?
+A) 0,86
+B) 1,5
++C) 0,94
+D) 0,56
+
+22. Idishda 10 ta qizil va 6 ta ko'k shar bor. Tavakkaliga 2 ta shar olinadi. Ikkala sharning bir xil rangli bo'lish ehtimolligi nimaga teng?
+A) 3/8
+B) 15/16
+C) 5/8
++D) 1/2
+
+23. Firmada 7 ta erkak va 3 ta ayol ishchi ishlaydi. Tavakkaliga 3 kishi ajratildi. Ularning barchasi erkak bo'lish ehtimolligi nimaga teng?
++A) 7/24
+B) 1/3
+C) 343/1000
+D) 7/10
+
+24. Obyektga tushish ehtimolliklari mos ravishda 0,3; 0,4; 0,6; 0,7 bo'lgan 4 ta bomba tashlandi. Obyekt yakson bo'lishi uchun bitta bomba tushishi kifoya. Obyektning yakson bo'lish ehtimolligi nimaga teng?
+A) 0,0504
++B) 0,9496
+C) 0,5504
+D) 0,7
+
+25. 40 nafar o'quvchidan 34 nafari banan, 22 nafari olma yoqtiradi, 2 nafari ikkala mevani ham yoqtirmaydi. Olmani yoqtirishi aniq bo'lganida o'quvchining bananni ham yoqtirish ehtimolligi nimaga teng?
+A) 8/17
+B) 9/20
++C) 9/11
+D) 19/20
+
+26. P(A) = 1/2, P(B) = 1/3 va A, B o'zaro bog'liq bo'lmagan hodisalar bo'lsa, P(A ∪ B) nimaga teng?
+A) 5/6
+B) 1/2
+C) 1/6
++D) 2/3
+
+27. 25 nafar o'quvchidan 14 nafari palovni, 16 nafari mantini yoqtiradi, 1 nafari ikkala taomni ham yoqtirmaydi, 6 nafari ikkalasini ham yoqtiradi. Mantini yoqtirishi aniq bo'lganida o'quvchining palovni ham yoqtirish ehtimolligi nimaga teng?
+A) 3/7
+B) 14/25
+C) 6/25
++D) 3/8
+
+28. X va Y o'zaro bog'liq bo'lmagan hodisalar, P(X) = 0,5 va P(Y) = 0,7. Na X, na Y hodisasi ro'y bermasligi ehtimolligi nimaga teng?
++A) 0,15
+B) 0,85
+C) 0,2
+D) 0,35
+
+29. Har bir o'qning nishonga tegish ehtimolligi 0,2 ga teng bo'lgan o'qchi o'zaro bog'liq bo'lmagan 3 ta o'q uzdi. Kamida bitta o'qning nishonga tegish ehtimolligi nimaga teng?
+A) 0,008
++B) 0,488
+C) 0,512
+D) 0,6
+
+30. P(R) = 0,4, P(S) = 0,5 va P(R ∪ S) = 0,7 bo'lsa, R va S hodisalar haqida qaysi xulosa to'g'ri?
+A) P(R ∩ S) = 0,2 ≠ P(R) · P(S), shuning uchun R va S bog'liq
+B) P(R ∩ S) = 0,1, shuning uchun R va S bog'liq emas
+C) P(R ∩ S) = 0, shuning uchun R va S bog'liq emas
++D) P(R ∩ S) = 0,2 = P(R) · P(S), shuning uchun R va S o'zaro bog'liq emas

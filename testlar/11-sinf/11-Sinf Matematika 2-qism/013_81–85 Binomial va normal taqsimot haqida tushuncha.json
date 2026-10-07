@@ -1,0 +1,337 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Matematika 2-qism",
+ "mavzu": "81–85 Binomial va normal taqsimot haqida tushuncha",
+ "savollar": [
+  {
+   "savol": "Bernulli sxemasi deb nimaga aytiladi?",
+   "variantlar": [
+    "n ta o'zaro bog'liq bo'lmagan sinashlar ketma-ketligi bo'lib, har birida A hodisaning ro'y berish ehtimolligi p bir xil bo'ladi",
+    "Ehtimolligi har bir sinashda o'zgarib boradigan sinashlar ketma-ketligi",
+    "n ta o'zaro bog'liq sinashlar ketma-ketligi",
+    "Faqat tanga tashlash tajribalari ketma-ketligi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "3 ta sinashdan iborat Bernulli sxemasida nechta elementar hodisa bo'ladi?",
+   "variantlar": [
+    "9",
+    "6",
+    "3",
+    "8"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "n ta sinashdan iborat Bernulli sxemasida elementar hodisalar soni nechta?",
+   "variantlar": [
+    "n!",
+    "2n",
+    "n²",
+    "2ⁿ"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bernulli sxemasida A hodisaning ro'y berish ehtimolligi p bo'lsa, ro'y bermaslik ehtimolligi q nimaga teng?",
+   "variantlar": [
+    "p − 1",
+    "1/p",
+    "1 − p",
+    "1 + p"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tanga uch marta tashlanganda har bir elementar hodisaning ehtimolligi qancha?",
+   "variantlar": [
+    "1/6",
+    "1/4",
+    "1/2",
+    "1/8"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "n ta sinashdan iborat Bernulli sxemasida A hodisaning roppa-rosa m marta ro'y berish ehtimolligi formulasi qaysi?",
+   "variantlar": [
+    "P(n,m) = m · p · q",
+    "P(n,m) = pᵐ · qᵐ",
+    "P(n,m) = Cₙᵐ · pⁿ · qᵐ",
+    "P(n,m) = Cₙᵐ · pᵐ · qⁿ⁻ᵐ"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tajriba natijasida u yoki bu qiymatni qabul qiladigan miqdor nima deyiladi?",
+   "variantlar": [
+    "Doimiy miqdor",
+    "Tasodifiy miqdor",
+    "Binomial koeffitsiyent",
+    "Elementar hodisa"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Normal taqsimlangan tasodifiy miqdor tushunchasini kim kiritgan va nomlagan?",
+   "variantlar": [
+    "Gauss",
+    "Laplas",
+    "Bernulli",
+    "Muavr"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Normal taqsimot funksiyasidagi a va σ parametrlar nimani bildiradi?",
+   "variantlar": [
+    "a – sinashlar soni, σ – ehtimollik",
+    "a – eng kichik qiymat, σ – eng katta qiymat",
+    "a – qiymatlar to'plamining o'rtasi, σ – standart chetlanish",
+    "a – standart chetlanish, σ – o'rta qiymat"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sinashlar soni n yetarlicha katta bo'lganda binomial taqsimot qanday taqsimotga yaqinlashadi?",
+   "variantlar": [
+    "Bernulli sxemasiga teskari taqsimotga",
+    "Tekis taqsimotga",
+    "Normal taqsimotga",
+    "Hech qanday taqsimotga yaqinlashmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Har bir sinashda A hodisaning ehtimolligi p = 0,3 bo'lsa, 3 ta sinashda 110 kodga mos hodisaning ehtimolligi qancha?",
+   "variantlar": [
+    "0,09",
+    "0,189",
+    "0,147",
+    "0,063"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "6 ta sinashdan iborat Bernulli sxemasida nechta elementar hodisa mavjud?",
+   "variantlar": [
+    "12",
+    "64",
+    "32",
+    "36"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tanga 4 marta tashlanganda roppa-rosa 2 marta gerb tushish ehtimolligi qancha?",
+   "variantlar": [
+    "1/4",
+    "3/8",
+    "5/16",
+    "1/2"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tanga 5 marta tashlanganda roppa-rosa 1 marta gerb tushish ehtimolligi qancha?",
+   "variantlar": [
+    "1/5",
+    "5/16",
+    "1/32",
+    "5/32"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qutida 3 ta qizil va 5 ta ko'k qalam bor. Qalam tavakkal olinib, joyiga qaytariladi. Qizil qalam olish ehtimolligi p qancha?",
+   "variantlar": [
+    "5/8",
+    "3/5",
+    "3/8",
+    "1/8"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tanga 3 marta tashlanganda roppa-rosa 2 marta gerb tushish ehtimolligi qancha?",
+   "variantlar": [
+    "3/8",
+    "1/2",
+    "1/8",
+    "1/4"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Har bir sinashda p = 0,1 bo'lsa, 2 ta sinashda A hodisa hech ro'y bermasligi ehtimolligi qancha?",
+   "variantlar": [
+    "0,09",
+    "0,18",
+    "0,81",
+    "0,01"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri normal taqsimlangan tasodifiy miqdorga misol bo'ladi?",
+   "variantlar": [
+    "O'yin kubi tashlanganda tushgan ochkolar soni",
+    "Kvadratning tomonlari soni",
+    "O'lchashlardagi xatoliklar",
+    "Tanga tashlanganda gerb tushishlar soni"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3 ta sinashli Bernulli sxemasida p = 0,2 va binomial taqsimot jadvali: P(3,0)=0,512; P(3,1)=0,384; P(3,2)=0,096; P(3,3)=0,008. A hodisa kamida 2 marta ro'y berishi ehtimolligi qancha?",
+   "variantlar": [
+    "0,008",
+    "0,480",
+    "0,104",
+    "0,096"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "16 ta sinashli, p = 0,5 bo'lgan binomial taqsimot jadvaliga ko'ra, qaysi m da ehtimollik eng katta?",
+   "variantlar": [
+    "m = 16",
+    "m = 8",
+    "m = 6",
+    "m = 7"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tanga 4 marta tashlanganda kamida 1 marta gerb tushish ehtimolligi qancha?",
+   "variantlar": [
+    "15/16",
+    "7/8",
+    "1/2",
+    "1/16"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3 ta sinashli Bernulli sxemasida p = 0,2. A hodisa kamida bir marta ro'y berish ehtimolligi qancha?",
+   "variantlar": [
+    "0,200",
+    "0,384",
+    "0,488",
+    "0,512"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "16 ta sinashli, p = 0,5 jadvalda P(16,7)=0,175, P(16,8)=0,196, P(16,9)=0,175. A hodisa 7 dan 9 martagacha (7 va 9 ham kiradi) ro'y berishi ehtimolligi taqriban qancha?",
+   "variantlar": [
+    "0,196",
+    "0,371",
+    "0,546",
+    "0,350"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tanga 4 marta tashlanganda gerb roppa-rosa 1 marta yoki roppa-rosa 3 marta tushishi ehtimolligi qancha?",
+   "variantlar": [
+    "5/8",
+    "1/4",
+    "1/2",
+    "3/8"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Har bir sinashda p = 1/3 bo'lsa, 4 ta sinashda A hodisa roppa-rosa 1 marta ro'y berishi ehtimolligi qancha?",
+   "variantlar": [
+    "32/243",
+    "8/81",
+    "32/81",
+    "16/81"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qutida 3 ta qizil va 5 ta ko'k qalam bor, qalam qaytarib qo'yiladi. 4 ta sinashda ketma-ket: ko'k, qizil, qizil, ko'k qalam olish ehtimolligi qancha?",
+   "variantlar": [
+    "15/64",
+    "135/4096",
+    "75/4096",
+    "225/4096"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3 ta sinashli Bernulli sxemasida p = 0,3. A hodisa 0 marta yoki 3 marta ro'y berishi ehtimolligi qancha?",
+   "variantlar": [
+    "0,370",
+    "0,027",
+    "0,630",
+    "0,343"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "5 ta sinashli Bernulli sxemasida p = 0,5. A hodisa kamida 4 marta ro'y berishi ehtimolligi qancha?",
+   "variantlar": [
+    "1/4",
+    "5/32",
+    "1/32",
+    "3/16"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Normal taqsimot zichlik funksiyasida a parametr o'zgartirilib, σ o'zgarishsiz qoldirilsa, grafik qanday o'zgaradi?",
+   "variantlar": [
+    "Grafik to'g'ri chiziqqa aylanadi",
+    "Grafik o'zgarmaydi",
+    "Grafik shakli saqlanib, uning markazi (o'rtasi) siljiydi",
+    "Grafik simmetrikligini yo'qotadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mahsulotning sifatsiz bo'lish ehtimolligi 0,01. Tavakkal tanlangan 100 mahsulotdan 3 ta dan kam sifatsiz chiqish ehtimolligi taqriban 0,9816 bo'lsa, 3 ta yoki undan ko'p sifatsiz chiqish ehtimolligi taqriban qancha?",
+   "variantlar": [
+    "0,0816",
+    "0,9816",
+    "0,0184",
+    "0,1816"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

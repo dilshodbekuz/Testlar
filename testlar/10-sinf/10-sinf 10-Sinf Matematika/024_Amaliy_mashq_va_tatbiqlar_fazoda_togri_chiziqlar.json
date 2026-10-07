@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Matematika",
+ "mavzu": "Amaliy mashq va tatbiqlar (fazoda to'g'ri chiziqlar, tekisliklar va ko'pyoqlar)",
+ "savollar": [
+  {
+   "savol": "Agar ikki tekislik umumiy to'g'ri chiziqqa ega bo'lsa, ular qanday kesishadi?",
+   "variantlar": [
+    "Shu to'g'ri chiziq bo'yicha",
+    "Bitta nuqtada",
+    "Ikkita nuqtada",
+    "Umuman kesishmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Fazoning biror to'g'ri chizig'idan nechta tekislik o'tkazish mumkin?",
+   "variantlar": [
+    "Faqat bitta",
+    "Cheksiz ko'p",
+    "Ikkita",
+    "Hech qanday"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tekislikda yotmagan to'g'ri chiziq orqali berilgan tekislikka nechta parallel tekislik o'tkazish mumkin?",
+   "variantlar": [
+    "Cheksiz ko'p",
+    "Ikkita",
+    "Bitta va faqat bitta",
+    "Hech qanday"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bitta to'g'ri chiziqqa parallel to'g'ri chiziqlar o'zaro qanday bo'ladi?",
+   "variantlar": [
+    "Ayqash",
+    "Kesishuvchi",
+    "Perpendikulyar",
+    "O'zaro parallel"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bitta tekislikka parallel tekisliklar o'zaro qanday bo'ladi?",
+   "variantlar": [
+    "O'zaro parallel",
+    "O'zaro kesishuvchi",
+    "O'zaro perpendikulyar",
+    "Ustma-ust tushadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Imorat uchun o'ra qazishdan oldin belgilash ishlari nima yordamida bajariladi?",
+   "variantlar": [
+    "Faqat ko'z bilan taxminlab",
+    "Tarang tortilgan ip yordamida",
+    "Faqat uzoqdan kuzatib",
+    "Faqat xarita yordamida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tarang tortilgan ip yordamida belgilash ishlari qanday geometrik faktga asoslangan?",
+   "variantlar": [
+    "Ikki parallel chiziqning kesishmasligiga",
+    "Uchburchak burchaklari yig'indisiga",
+    "Ikkita tekislik kesishmasi to'g'ri chiziqdan iborat bo'lishiga",
+    "Aylananing markaziy burchagiga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Uch oyoqli mototsikl ikki oyoqlisiga nisbatan nega ancha turg'un bo'ladi?",
+   "variantlar": [
+    "Faqat og'irligi kamligi uchun",
+    "Faqat tezligi pastligi uchun",
+    "Tasodifiy sabablarga ko'ra",
+    "Bir to'g'ri chiziqda yotmagan uchta nuqtadan faqat bitta tekislik o'tadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ochiq eshiklar yelvizakda nega o'z holicha harakatga keladi?",
+   "variantlar": [
+    "To'g'ri chiziq va unda yotmagan nuqtadan faqat bitta tekislik o'tkazish mumkin",
+    "Eshik juda yengil bo'lgani uchun",
+    "Eshik faqat bitta nuqtaga tayangani uchun",
+    "Shamol kuchli bo'lgani uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Fotoapparatni o'rnatish uchun tag moslama nima sababdan uch oyoqli qilib yasaladi?",
+   "variantlar": [
+    "Faqat chiroyli ko'rinishi uchun",
+    "Uchta nuqta (oyoq uchi) bitta tekislikni aniq belgilaydi",
+    "Faqat arzon bo'lgani uchun",
+    "Faqat yengil bo'lgani uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Duradgorlar yasalgan stulning oyoqlari bir tekislikda yotganligini tekshirish uchun stulning qarama-qarshi oyoqlariga ip tortib tekshiradi. Bu usul nimaga asoslangan?",
+   "variantlar": [
+    "Faqat ko'z bilan taxminlashga",
+    "Og'irlik kuchiga",
+    "Ikki kesishuvchi to'g'ri chiziq yagona tekislikni aniqlashiga",
+    "Faqat tajribaga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Duradgor yog'och taxtani arralayotganda arralash sirtining tekis bo'lishiga qanday erishadi?",
+   "variantlar": [
+    "Faqat ko'z bilan mo'ljallab",
+    "Faqat tasodifan",
+    "Faqat kuch bilan bosib",
+    "Taxtaning ikki qo'shni yog'iga kesmalar chizib, arrani shu kesmalardan o'tkazib"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yog'och taxtaning arralash sirti nega tekis chiqadi (geometrik asos)?",
+   "variantlar": [
+    "Ikki kesishuvchi to'g'ri chiziqlardan o'tuvchi tekislik yagona bo'lgani uchun",
+    "Taxta yumshoq bo'lgani uchun",
+    "Arra o'tkir bo'lgani uchun",
+    "Tasodifiy natija"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Duradgor taxta sirtining tekisligini qanday tekshiradi?",
+   "variantlar": [
+    "Faqat rangiga qarab",
+    "To'g'ri chiziqning ikki nuqtasi taxta sirtiga tegib turishini kuzatib",
+    "Faqat og'irligini o'lchab",
+    "Faqat hidiga qarab"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar to'g'ri chiziqning ikki nuqtasi tekislikda yotsa, bu to'g'ri chiziq haqida nima deyish mumkin?",
+   "variantlar": [
+    "U tekislikdan tashqarida qoladi",
+    "Faqat bitta nuqtasi tekislikda yotadi",
+    "Uning o'zi ham butunligicha shu tekislikda yotadi",
+    "Aniqlab bo'lmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Silindr yon sirtining yuzi 90π sm², yasovchisi 5 sm bo'lsa, silindrning to'la sirtini toping.",
+   "variantlar": [
+    "90π sm²",
+    "162π sm²",
+    "200π sm²",
+    "252π sm²"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Silindr asosining diametri 1 m, yasovchisi asos aylana uzunligiga teng bo'lsa, silindr yon sirtini toping.",
+   "variantlar": [
+    "π² m²",
+    "2π m²",
+    "π m²",
+    "4π² m²"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Konus asosining radiusi 12 mm, konus uchini asos markazi bilan tutashtiruvchi kesma 35 mm ga teng bo'lsa, konusning yasovchisini toping.",
+   "variantlar": [
+    "47 mm",
+    "37 mm",
+    "23 mm",
+    "35 mm"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Konus asosining diametri 32 sm, uchini asos markazi bilan tutashtiruvchi kesma 63 sm ga teng bo'lsa, konus yon sirtini toping.",
+   "variantlar": [
+    "520π sm²",
+    "2080π sm²",
+    "1040π sm²",
+    "630π sm²"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Konus asosining radiusi 11 sm, yasovchisi 8 sm bo'lsa, konus yon sirtini toping.",
+   "variantlar": [
+    "19π sm²",
+    "44π sm²",
+    "176π sm²",
+    "88π sm²"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Konus asosining radiusi 2,7 m, yasovchisi 1,2 m bo'lsa, konus yon sirtini toping.",
+   "variantlar": [
+    "3,24π m²",
+    "1,62π m²",
+    "6,48π m²",
+    "3,9π m²"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "ABC uchburchakda AB ga parallel tekislik AC ni A1 da, BC ni B1 da kesadi. AB=15 sm, AA1:AC=2:3 bo'lsa, A1B1 ni toping.",
+   "variantlar": [
+    "10 sm",
+    "5 sm",
+    "15 sm",
+    "7,5 sm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi masalada CA1:CA nisbati nechaga teng?",
+   "variantlar": [
+    "2:3",
+    "3:1",
+    "1:3",
+    "1:2"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A1B1 // AB bo'lgani uchun CA1B1 va CAB uchburchaklar o'zaro qanday uchburchaklar hisoblanadi?",
+   "variantlar": [
+    "Teng uchburchaklar",
+    "Teng yonli uchburchaklar",
+    "To'g'ri burchakli uchburchaklar",
+    "O'xshash uchburchaklar"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar ikkita tekislik ikkita parallel to'g'ri chiziqdan birini kesib o'tsa, u holda ikkinchisini ham kesib o'tishini isbotlash qanday usulga asoslanadi?",
+   "variantlar": [
+    "Parallellik va kesishish xossalariga (teskarisini faraz qilish usuli)",
+    "Faqat o'lchashga",
+    "Faqat chizmaga",
+    "Faqat tajribaga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita ayqash to'g'ri chiziqdan istalgan biri orqali ikkinchisiga parallel tekislik o'tkazish mumkinligini isbotlash nimaga asoslanadi?",
+   "variantlar": [
+    "Faqat taxminga",
+    "To'g'ri chiziq va unda yotmagan nuqta orqali yagona tekislik o'tishi haqidagi teoremaga",
+    "Faqat o'lchashga",
+    "Faqat rasmga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir to'g'ri chiziqda yotmaydigan uchta nuqtadan tekislik o'tkazish mumkinligini isbotlashda nechta tekislik mavjudligi ko'rsatiladi?",
+   "variantlar": [
+    "Ikkita",
+    "Cheksiz ko'p",
+    "Faqat bitta",
+    "Hech qanday"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A, B, C nuqtalar ikkita turli tekislikning har birida (ikkala tekislikka ham) yotadi. Bu nuqtalar haqida qanday xulosa chiqariladi?",
+   "variantlar": [
+    "Ular turli to'g'ri chiziqlarda yotadi",
+    "Ular hech qanday chiziqda yotmaydi",
+    "Ular uchburchak hosil qiladi",
+    "Ular bitta to'g'ri chiziqda yotadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Berilgan ikki to'g'ri chiziqning kesishgan nuqtasidan bu to'g'ri chiziqlar bilan bir tekislikda yotmaydigan to'g'ri chiziq o'tkazish mumkinmi?",
+   "variantlar": [
+    "Yo'q, mumkin emas",
+    "Ha, har doim mumkin",
+    "Faqat ayrim hollarda mumkin",
+    "Aniqlab bo'lmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kesimi tomoni 7 dm bo'lgan kvadratdan iborat, balandligi 4 m bo'lgan ustunlarni qurish uchun g'isht miqdorini hisoblash masalasi qanday amaliy sohaga oid?",
+   "variantlar": [
+    "Faqat moliyaviy hisob-kitoblarga",
+    "Qurilish ishlarida hajm va sirt yuzasini hisoblashga",
+    "Faqat statistikaga",
+    "Faqat dizaynga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

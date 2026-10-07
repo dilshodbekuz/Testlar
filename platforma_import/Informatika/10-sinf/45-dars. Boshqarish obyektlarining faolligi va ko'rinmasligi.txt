@@ -1,0 +1,179 @@
+45-dars qanday nomlanadi?
++A) Boshqarish obyektlarining faolligi va ko‘rinmasligi
+B) Ilova oynasiga ma’lumot joylash
+C) Ilovaga ma’lumotlar kiritish
+D) ShowMessage oynasi
+
+Obyektning ko‘rinishini boshqaruvchi xossasi qaysi?
+A) Width
++B) Visible
+C) Enabled
+D) Caption
+
+Obyektning faolligini boshqaruvchi xossasi qaysi?
+A) Font
+B) Color
++C) Enabled
+D) Visible
+
+Visible xossasi qanday turdagi qiymatlarni qabul qiladi?
+A) Faqat sonli
+B) Faqat matnli
+C) Faqat rangli
++D) Mantiqiy (True yoki False)
+
+Visible xossasi dastlab qanday qiymatga ega bo‘ladi?
++A) True (Rost)
+B) False (Yolg‘on)
+C) Noma’lum
+D) 0
+
+Enabled xossasi dastlab qanday qiymatga ega bo‘ladi?
+A) 1
++B) True (Rost)
+C) False (Yolg‘on)
+D) Noma’lum
+
+Agar obyektning Visible xossasi False bo‘lsa, nima sodir bo‘ladi?
+A) Obyekt o‘chadi
+B) Obyekt rangi o‘zgaradi
++C) Obyekt oynada ko‘rinmay qoladi
+D) Obyekt xira tortadi, lekin ko‘rinadi
+
+Agar obyektning Enabled xossasi False bo‘lsa, nima sodir bo‘ladi?
+A) Obyekt butunlay yo‘qoladi
+B) Obyekt rangi qoraradi
+C) Hech narsa o‘zgarmaydi
++D) Obyekt ko‘rinadi, lekin xira tortib, undan foydalanib bo‘lmaydi
+
+Kompyuter viruslarini topish nega qiyin (matn misolida)?
++A) Ularning o‘z oynasi yo‘q, ya’ni ko‘rinmas
+B) Ular juda kichik hajmda
+C) Ular doim rangsiz
+D) Ular faqat tunda ishlaydi
+
+Delphi 7 asosiy menyusining Edit bo‘limidagi xira bandlar nimani bildiradi?
+A) Ular yashiringanini
++B) Ular faol emasligini
+C) Ular ishlatib bo‘lmasligi mumkin emasligini
+D) Ular o‘chirilganini
+
+Copy bandidan foydalanish uchun avval nima qilinishi kerak?
+A) Dasturni qayta ishga tushirish
+B) Printer ulanishi
++C) Matnning biror bo‘lagi ajratib olinishi
+D) Faylni saqlash
+
+Ikkita obyektdan bir vaqtda foydalanilmasa, ulardan qanday foydalanish tavsiya etiladi?
+A) Ikkalasini ham doim ko‘rinadigan qilish
+B) Ikkalasini ham o‘chirish
+C) Ikkalasini bir xil joyga qo‘yish, lekin faollik o‘zgartirmaslik
++D) Faqat bittasining Visible xossasini rost, qolganlarini yolg‘on qilib o‘rnatish
+
+Oyna kengligi 600 dan oshganda Button1.Enabled qanday qiymatga o‘rnatiladi?
++A) False
+B) True
+C) 0
+D) 1
+
+Oyna kengligi 600 dan oshganda Button2.Visible qanday qiymatga o‘rnatiladi?
+A) Noma’lum
++B) True
+C) False
+D) 0
+
+Oyna kengligi 400 dan kamayib ketganda Button2 nima bo‘ladi?
+A) Rangi o‘zgaradi
+B) Faol bo‘lib qoladi
++C) G‘oyib bo‘ladi (Visible:=False)
+D) Kattalashadi
+
+Oyna kengligi 600 dan kamayganda Button1 qanday holatga o‘tadi?
+A) Ko‘rinmas bo‘ladi
+B) O‘chadi
+C) Rangi o‘zgaradi
++D) Yana faol holatga o‘tadi (Enabled:=True)
+
+Dastlab Button2 ilova oynasida qanday holatda bo‘ladi?
++A) Ko‘rinmaydi (Visible:=False)
+B) Ko‘rinadi, lekin faol emas
+C) To‘liq faol va ko‘rinadigan
+D) Rangsiz
+
+Birinchi tugma bosilganda oyna kengayishi uchun qanday formula ishlatiladi?
+A) Form1.Width:=Form1.Width*2;
++B) Form1.Width:=Form1.Width+16;
+C) Form1.Width:=Form1.Width-16;
+D) Form1.Width:=600;
+
+Ikkinchi tugma bosilganda oyna kichrayishi uchun qanday formula ishlatiladi?
+A) Form1.Width:=400;
+B) Form1.Width:=0;
++C) Form1.Width:=Form1.Width-16;
+D) Form1.Width:=Form1.Width+16;
+
+Enabled va Visible xossalaridan birgalikda foydalanishning maqsadi nima?
+A) Faylni kichraytirish
+B) Internetga ulanish
+C) Printer sozlash
++D) Ilova ishlashini foydalanuvchiga qulay va mantiqiy qilib boshqarish
+
+Savol-topshiriqda beshinchi ilova oynasi bo‘yi va eni qanday qadam bilan o‘zgartirilishi so‘raladi?
++A) 5 va 8 qadam bilan
+B) 16 va 9 qadam bilan
+C) 1 va 1 qadam bilan
+D) 10 va 20 qadam bilan
+
+Savol-topshiriqda beshinchi ilova oynasi enining qiymati qaysi oraliqda bo‘lishi so‘raladi?
+A) 600 dan 1200 gacha
++B) 500 dan 800 gacha
+C) 0 dan 100 gacha
+D) 100 dan 300 gacha
+
+Savol-topshiriqda tugmalardagi yozuvlarni qanday o‘zgartirish so‘raladi?
+A) Ha va Yo‘q ga
+B) 1 va 0 ga
++C) a->A va A->a ga
+D) ++ va -- ga
+
+Uyga vazifada Visible xossasi haqida nima so‘raladi?
+A) Qanday rangda ko‘rinishi
+B) Qancha vaqt faol bo‘lishi
+C) Qaysi tilda yozilgani
++D) Qaysi obyektlarda uchrashi
+
+Uyga vazifada Enabled xossasi haqida nima so‘raladi?
++A) Qanday vazifa bajarishi
+B) Qaysi rangda bo‘lishi
+C) Qancha hajm egallashi
+D) Qaysi tilda yozilgani
+
+Visible va Enabled xossalari qaysi turdagi obyektlarda uchraydi?
+A) Faqat Form obyektida
++B) Barcha vizual boshqarish obyektlarida (jumladan ilova oynasida)
+C) Faqat Button obyektida
+D) Faqat Label obyektida
+
+Agar obyekt Enabled:=False bo‘lsa-yu Visible:=True bo‘lsa, obyekt qanday ko‘rinadi?
+A) To‘liq faol ko‘rinadi
+B) Rangi qizil bo‘lib qoladi
++C) Ko‘rinadi, lekin xira tortib, ishlatib bo‘lmaydi
+D) Umuman ko‘rinmaydi
+
+Vizual dasturlashda joy tejash uchun qanday usul tavsiya etiladi?
+A) Barcha obyektlarni kichraytirish
+B) Barcha obyektlarni rangsiz qilish
+C) Obyektlar sonini cheklash
++D) Bir vaqtning o‘zida foydalanilmaydigan obyektlarni bitta joyga qo‘yib, Visible xossasi bilan almashtirib turish
+
+Ikkinchi tugma protsedurasida “if Form1.Width<600 then Button1.Enabled:=True;” qatori nimaga xizmat qiladi?
++A) Oyna kengligi 600 dan kichik bo‘lsa, birinchi tugmani qayta faollashtirishga
+B) Oynani yopishga
+C) Ikkinchi tugmani o‘chirishga
+D) Oynani kattalashtirishga
+
+Beshinchi ilovada ikkinchi tugma orqali oyna kichraytirilganda, qaysi ikki xossa birgalikda tekshirilib boshqariladi?
+A) Top va Left
++B) Width va Height
+C) Caption va Font
+D) Color va Name

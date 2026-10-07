@@ -1,0 +1,179 @@
+55-dars qanday nomlanadi?
++A) ListBox va ComboBox obyektlari
+B) Ilovada radiotugmalar guruhidan foydalanish
+C) Memo boshqarish obyekti
+D) Timer obyekti va undan foydalanish
+
+RadioGroup obyektining asosiy kamchiligi nimada?
+A) Rangini o‘zgartirib bo‘lmaydi
++B) Uzun ro‘yxat ekranda ko‘p joy egallaydi
+C) Variant qo‘shib bo‘lmaydi
+D) Faqat bitta variant bo‘ladi
+
+ListBox obyekti nima vazifa bajaradi?
+A) Rasm ko‘rsatadi
+B) Faylni saqlaydi
++C) Ekranga variantlar ro‘yxatini chiqaradi
+D) Matn kiritadi
+
+Agar ListBox ro‘yxati obyektga sig‘masa, nima paydo bo‘ladi?
+A) Ro‘yxat yo‘qoladi
+B) Xatolik chiqadi
+C) Obyekt kattalashadi
++D) O‘ng tomonida vertikal surgich
+
+ComboBox obyekti boshqacha qanday ataladi?
++A) Yashirin ro‘yxat qutisi
+B) Ochiq ro‘yxat qutisi
+C) Tekshirish qutisi
+D) Kiritish maydonchasi
+
+ComboBox ning afzalligi nimada (Edit bilan solishtirganda)?
+A) Hech qanday farqi yo‘q
++B) Kam joy olib, yashirin ro‘yxatni ko‘rsatadi
+C) Faqat rasm ko‘rsatadi
+D) Faqat sonlarni qabul qiladi
+
+SpinEdit obyekti nima uchun mo‘ljallangan?
+A) Rasm tanlash uchun
+B) Fayl tanlash uchun
++C) Butun sonlarni kiritish uchun
+D) Matn kiritish uchun
+
+SpinEdit obyekti obyektlar panelining qaysi jildida joylashgan?
+A) Standart jildida
+B) Additional jildida
+C) Win32 jildida
++D) Samples (Namunalar) jildida
+
+SpinEdit ga kiritilgan sonning qiymati qaysi xossada saqlanadi?
++A) Value
+B) MinValue
+C) MaxValue
+D) Increment
+
+SpinEdit da son qiymatining o‘sish qadami qaysi xossada ko‘rsatiladi?
+A) MaxValue
++B) Increment
+C) Value
+D) MinValue
+
+ListBox va ComboBox obyektlarining qaysi xossalari ko‘pincha bir xil nomga ega?
+A) Width, Height, Left
+B) Checked, Enabled, Visible
++C) Items, ItemIndex, Columns
+D) Caption, Font, Color
+
+ListBox ning Columns xossasi qiymati 0 bo‘lsa, nima bo‘ladi?
+A) Ro‘yxat o‘chadi
+B) Ro‘yxat ikki ustunga bo‘linadi
+C) Xatolik chiqadi
++D) Ro‘yxat ustunlarga bo‘linmaydi
+
+SpinEdit da MinValue va MaxValue qiymati 0 ga teng bo‘lsa, nima bo‘ladi?
++A) Sonning qiymatiga chegara qo‘yilmaydi
+B) Son faqat 0 bo‘lishi mumkin
+C) Xatolik chiqadi
+D) Son manfiy bo‘lmaydi
+
+Eng yaxshi futbolchi ilovasida nechta ListBox, ComboBox, SpinEdit va Button obyekti ishlatiladi?
+A) To‘rttadan har biri
++B) Bittadan har biri
+C) Ikkitadan har biri
+D) Uchtadan har biri
+
+Futbolchi ilovasida SpinEdit ning MaxValue, MinValue va Value xossalari qanday o‘rnatiladi?
+A) MaxValue=100, MinValue=1, Value=50
+B) MaxValue=1, MinValue=5, Value=1
++C) MaxValue=5, MinValue=1, Value=5
+D) MaxValue=10, MinValue=0, Value=0
+
+i:=ListBox1.ItemIndex; operatori nimani bajaradi?
+A) Yangi futbolchi qo‘shadi
+B) Futbolchini o‘chiradi
+C) Ro‘yxatni tartiblaydi
++D) Tanlangan futbolchining ro‘yxatdagi raqamini i ga beradi
+
+j:=StrToInt(ComboBox1.Items[i]); operatori nimani bajaradi?
++A) ComboBox1 dagi i-satrdagi matnni songa o‘tkazib j ga beradi
+B) Yangi son qo‘shadi
+C) Ro‘yxatni o‘chiradi
+D) Xatolik chiqaradi
+
+ComboBox1.Items[i]:=IntToStr(j+SpinEdit1.Value); operatori nima qiladi?
+A) SpinEdit ni o‘chiradi
++B) Yangi ballni qo‘shib, ComboBox ro‘yxatini yangilaydi
+C) Ro‘yxatni o‘chiradi
+D) Yangi futbolchi qo‘shadi
+
+Natijada ComboBox1 dagi ro‘yxatda nima yig‘ilib boradi?
+A) Ovoz berganlar ismi
+B) Vaqt ma’lumoti
++C) Har bir futbolchi to‘plagan ballar
+D) Futbolchilar soni
+
+Natijalarni ko‘rish uchun qaysi tugma bosiladi?
+A) Faqat Button1
+B) Faqat ListBox1
+C) Enter tugmasi
++D) ComboBox1 ning o‘ng tomonidagi uchburchak tugma
+
+Futbolchi ilovasida ListBox ga nechta futbolchi nomi kiritilgan?
++A) 8 ta
+B) 5 ta
+C) 10 ta
+D) 6 ta
+
+if i>=0 then begin...end; sharti nima uchun tekshiriladi?
+A) Oyna o‘lchamini tekshirish uchun
++B) Biror futbolchi ro‘yxatdan tanlanganligini tekshirish uchun
+C) SpinEdit qiymatini tekshirish uchun
+D) Button bosilganligini tekshirish uchun
+
+Savol-topshiriqda ListBox obyekti Asaka zavodi mahsulotlariga mos qanday qilib sozlanishi so‘raladi?
+A) Hajmini kichraytirib
+B) Yo‘q qilib
++C) Avtomashinalardan birini tanlaydigan qilib
+D) Rangini o‘zgartirib
+
+Savol-topshiriqda ComboBox obyektiga qanday ro‘yxat kiritish so‘raladi?
+A) Fanlar ro‘yxati
+B) O‘quvchilar ro‘yxati
+C) Kitoblar ro‘yxati
++D) Viloyatlar ro‘yxati
+
+Uyga vazifada ListBox obyekti qayerda joylashganligi so‘raladi?
++A) Obyektlar panelida
+B) Object Inspectorda
+C) Dastur kodi oynasida
+D) Sarlavha satrida
+
+Uyga vazifada ComboBox obyektining vazifasi haqida nima so‘raladi?
+A) Qaysi tilda ishlashi
++B) Qanday vazifani bajarishi
+C) Qaysi rangda bo‘lishi
+D) Qancha joy egallashi
+
+ComboBox obyektining o‘ng tomonidagi qanday shaklidagi tugma yashirin ro‘yxatni ochadi?
+A) Kvadrat shaklidagi tugma
+B) Yulduzcha shaklidagi tugma
++C) Uchburchak shaklidagi tugma
+D) Doira shaklidagi tugma
+
+SpinEdit da sonni o‘zgartirishning nechta usuli bor (maydonchaga yozish va tugmalar orqali)?
+A) Bitta usul
+B) Uch usul
+C) To‘rt usul
++D) Ikki usul
+
+Edit obyekti orqali son kiritishda qanday xato yuz berishi mumkin edi (SpinEdit bilan solishtirganda)?
++A) Noto‘g‘ri belgi (masalan harf) kiritilsa, ilova to‘xtab xato beradi
+B) Hech qanday xato bo‘lmaydi
+C) Faqat manfiy son kiritilsa xato beradi
+D) Faqat katta son kiritilsa xato beradi
+
+Futbolchi ilovasida natijalarni ko‘rish uchun bir necha marta ovoz berilgach, qaysi obyektdagi sonlar o‘zgarib boradi?
+A) Button1 ning Caption xossasi
++B) ComboBox1 ro‘yxatidagi sonlar
+C) ListBox1 ro‘yxatidagi nomlar
+D) SpinEdit1 ning MinValue xossasi

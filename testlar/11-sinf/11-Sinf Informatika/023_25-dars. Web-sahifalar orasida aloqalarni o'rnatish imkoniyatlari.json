@@ -1,0 +1,337 @@
+{
+  "sinf": "11-sinf",
+  "kitob": "11-sinf 11-Sinf Informatika",
+  "mavzu": "25-dars. Web-sahifalar orasida aloqalarni o'rnatish imkoniyatlari",
+  "savollar": [
+    {
+      "savol": "Macromedia Flash 8 da web-sahifalar orasida aloqa o'rnatishning qaysi usullari bor?",
+      "variantlar": [
+        "Gipermatnli bog'lanish va getURL operatori",
+        "Faqat rasm joylashtirish",
+        "Faqat ovozli fayl joylashtirish",
+        "Faqat jadval yaratish"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Web-sahifalar orasida bog'lanish o'rnatilgan faylni qaysi kengaytma bilan saqlash kerak?",
+      "variantlar": [
+        ".html",
+        ".exe",
+        ".swf",
+        ".doc"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Qo'shimcha sahifalar qaysi kengaytma bilan yaratiladi?",
+      "variantlar": [
+        ".exe",
+        ".mp3",
+        ".html",
+        ".avi"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Matn yozish uchun qaysi jihoz tanlanadi?",
+      "variantlar": [
+        "Rectangle Tool (R)",
+        "Pencil Tool (Y)",
+        "Oval Tool (O)",
+        "Text tool (T)"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Yozilgan matnga fayl manzilini kiritish uchun Properties bo'limining qaysi maydoni ishlatiladi?",
+      "variantlar": [
+        "URL Link",
+        "Fill Color",
+        "Size",
+        "Background"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Fayl alohida oynada ochilishi uchun Target bandidan qaysi qiymat tanlanadi?",
+      "variantlar": [
+        "_self",
+        "_blank",
+        "_top",
+        "_parent"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Hosil bo'lgan oynadan fayl formatini belgilab qaysi tugma bosiladi?",
+      "variantlar": [
+        "Save",
+        "Print",
+        "Publish",
+        "Close"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "getURL operatori nima uchun ishlatiladi?",
+      "variantlar": [
+        "Ranglarni o'zgartirish uchun",
+        "Jadval yaratish uchun",
+        "Fayl formatini o'zgartirish uchun",
+        "Internetda joylashgan saytlarga murojaat qilish uchun"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Ziyonet axborot ta'lim portaliga murojaat qilish uchun qaysi manzil yoziladi?",
+      "variantlar": [
+        "http://www.ziyonet.uz",
+        "http://www.uzedu.uz",
+        "http://www.google.uz",
+        "http://www.mail.uz"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Darslikda yaratilgan Xalq ta'limi vazirligi web-sayti qanday web-sayt hisoblanadi?",
+      "variantlar": [
+        "Dinamik web-sayt",
+        "Statik web-sayt",
+        "Faqat matnli fayl",
+        "Faqat multimedia fayl"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Tugmaga maktab.html faylini yangi oynada ochish uchun qaysi kod yoziladi?",
+      "variantlar": [
+        "on (release) { gotoAndStop(2); }",
+        "on (release) { stop(); }",
+        "on (release) { play(); }",
+        "on (release) { getURL(\"d:\\maktab.html\", \"_blank\"); }"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Ziyonet portaliga murojaat qilish uchun qaysi kod kiritiladi?",
+      "variantlar": [
+        "getURL(\"http://www.ziyonet.uz\", \"_blank\");",
+        "gotoAndStop(3);",
+        "stop();",
+        "play();"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "3-mashqda qaysi sahifalar o'zaro bog'lanadi?",
+      "variantlar": [
+        "Faqat 1-mashqdagi fayl",
+        "20-darsda yaratilgan Xalq ta'limi web-saytining bosh sahifasi bilan 21-darsda yaratilgan web-sahifalar",
+        "Faqat rasm sahifasi",
+        "Faqat tovushli sahifa"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Virtual qabulxona so'zini belgilab, qaysi bo'lim orqali URL Link kiritiladi?",
+      "variantlar": [
+        "Tools",
+        "Colors",
+        "Properties",
+        "Timeline"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Virtual qabulxona sahifasining fayl manzili qaysi ko'rinishda kiritiladi?",
+      "variantlar": [
+        "Virtual qabulxona.exe",
+        "http://Virtual.uz",
+        "C:\\Windows\\Virtual.swf",
+        "d:\\Virtual qabulxona sahifasi.html"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Yuqorida darslarda yaratilgan barcha web-sahifalar qanday tartibda birlashtiriladi?",
+      "variantlar": [
+        "Ketma-ket bir-biriga bog'lab, yagona web-sayt hosil qilinadi",
+        "Har biri alohida faylga chop etiladi",
+        "Har biri o'chirib tashlanadi",
+        "Har biri boshqa dasturga ko'chiriladi"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Tugma joylashtirish uchun Flash ishchi oynasida qaysi menyu ishlatiladi?",
+      "variantlar": [
+        "File",
+        "Windows",
+        "Edit",
+        "Help"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Publish Settings oynasini ochish uchun qaysi tugmalar kombinatsiyasi ishlatiladi?",
+      "variantlar": [
+        "Ctrl+S",
+        "Ctrl+P",
+        "Ctrl+Shift+F12",
+        "F1"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Web-sahifa yaratib, uni getURL bilan boshqa web-saytga bog'lash uyga vazifasi nima talab qiladi?",
+      "variantlar": [
+        "Faqat rasm chizish",
+        "Faqat matnni chop etish",
+        "Faqat fayl o'chirish",
+        "Web-sahifa tayyorlash va uni getURL operatori yordamida boshqa web-saytga bog'lash"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Uyga vazifada 'uchta oyna' hosil qilish talab qilinadi. Birinchi oynaga nechta tugma joylashtiriladi?",
+      "variantlar": [
+        "Ikkita",
+        "Bitta",
+        "Uchta",
+        "To'rtta"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Statik web-sayt nimani anglatadi?",
+      "variantlar": [
+        "Faqat video fayllardan iborat sayt",
+        "Faqat audio fayllardan iborat sayt",
+        "HTML da yozilgan, ma'lumotlari o'zgarmas web-sayt",
+        "Faqat matnli fayl"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "2-mashqdagi tugma kodida _blank parametri nimani bildiradi?",
+      "variantlar": [
+        "Fayl o'chiriladi",
+        "Fayl chop etiladi",
+        "Fayl shifrlanadi",
+        "Fayl alohida oynada ochiladi"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "getURL(\"d:\\maktab.html\", \"_blank\") kodi bajarilganda nima ro'y beradi?",
+      "variantlar": [
+        "maktab.html fayli alohida oynada ochiladi",
+        "Dastur o'chadi",
+        "Ekran qora bo'ladi",
+        "Kompyuter qayta ishga tushadi"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Virtual qabulxona sahifasi tayyorlashda birinchi bajariladigan ish nima?",
+      "variantlar": [
+        "Fayl o'chiriladi",
+        "Yaratilgan web-sahifa yuklanadi",
+        "Rang tanlanadi",
+        "Dastur yopiladi"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Macromedia Flash 8 da web-sayt bosh sahifasining bog'lanishlari qaysi formada saqlanadi?",
+      "variantlar": [
+        ".mp3 kengaytmali fayl sifatida",
+        ".avi kengaytmali fayl sifatida",
+        ".exe kengaytmali fayl sifatida",
+        ".jpg kengaytmali fayl sifatida"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Web-sahifalar o'zaro bog'lanishida fayl nomi va manzili qaysi bo'limda kiritiladi?",
+      "variantlar": [
+        "Timeline bo'limida",
+        "Tools panelida",
+        "Colors panelida",
+        "Properties bo'limidagi URL Link maydonida"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Ziyonet portali manzili getURL kodida qaysi qavs ichida yoziladi?",
+      "variantlar": [
+        "Qo'shtirnoq ichida, birinchi parametr sifatida",
+        "Kvadrat qavs ichida",
+        "Burchakli qavs ichida",
+        "Hech qanday qavsda emas"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Maktabingiz web-saytini tayyorlashda getURL bilan qaysi asosiy vazifa bajariladi?",
+      "variantlar": [
+        "Rasmlarni o'chirish",
+        "Web-sahifalarni bir-biriga bog'lash",
+        "Matnni shifrlash",
+        "Fayl hajmini oshirish"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Macromedia Flash 8 da yaratilgan web-sahifaga bog'lanish o'rnatilgandan so'ng, Publish tugmasi bosilishidan oldin nima tanlanadi?",
+      "variantlar": [
+        ".mp3 bo'limi",
+        ".avi bo'limi",
+        ".exe bo'limi",
+        ".jpg bo'limi"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Yakunda hosil bo'lgan Xalq ta'limi web-saytining bosh sahifasida qaysi tugma bo'limlari ko'rsatilgan?",
+      "variantlar": [
+        "Fayl, Tahrirlash, Ko'rish, Yordam",
+        "Kirish, Chiqish, Sozlamalar, Yangilash",
+        "Rasm, Matn, Jadval, Video",
+        "Virtual qabulxona, Ochiq vazirlik, Murojaat yuborish, Yagona oyna"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    }
+  ]
+}

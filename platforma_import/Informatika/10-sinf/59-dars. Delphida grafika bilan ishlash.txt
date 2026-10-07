@@ -1,0 +1,179 @@
+59-dars qanday nomlanadi?
++A) Delphida grafika bilan ishlash
+B) Memo boshqarish obyekti
+C) Timer obyekti va undan foydalanish
+D) Rasmga boshqa obyektlarni joylash
+
+Delphida grafika bilan ishlash uchun obyektlarning qaysi xossasi ishlatiladi?
+A) Width
++B) Canvas (polotno)
+C) Caption
+D) Font
+
+Image va Shape obyektlari obyektlar panelining qaysi jildida joylashgan?
+A) System jildida
+B) Samples jildida
++C) Additional (qo‘shimcha) jildida
+D) Standart jildida
+
+Canvasning chiziqlar chizishga mo‘ljallangan asosiy vositasi qaysi?
+A) Brush (mo‘yqalam)
+B) Pixels
+C) Image
++D) Pen (qalam)
+
+Canvasning sohalarni bo‘yashga mo‘ljallangan vositasi qaysi?
++A) Brush (mo‘yqalam)
+B) Pen (qalam)
+C) MoveTo
+D) LineTo
+
+Pen obyektining chiziq kengligini belgilaydigan xossasi qaysi?
+A) Height
++B) Width
+C) Style
+D) Color
+
+Pen obyektining chiziq ko‘rinishini (uzluksiz, shtrix va h.k.) belgilaydigan xossasi qaysi?
+A) Color
+B) Height
++C) Style
+D) Width
+
+Pen obyektining rangini belgilaydigan xossasi qaysi?
+A) Width
+B) Style
+C) Height
++D) Color
+
+RGB funksiyasi nechta argumentga ega?
++A) Uchta (qizil, yashil, ko‘k)
+B) Ikkita
+C) Bitta
+D) To‘rtta
+
+RGB funksiyasi argumentlarining qiymatlari qaysi oraliqda bo‘lishi mumkin?
+A) 0 dan 16 gacha
++B) 0 dan 255 gacha
+C) 0 dan 100 gacha
+D) 1 dan 10 gacha
+
+To‘g‘ri to‘rtburchak chizish uchun qaysi usul ishlatiladi?
+A) MoveTo
+B) LineTo
++C) Rectangle
+D) Ellips
+
+Ellips chizish uchun qaysi usul ishlatiladi?
+A) Rectangle
+B) Pixels
+C) Pen
++D) Ellips
+
+Form1.Canvas.Rectangle(10, 20, 200, 100); operatorida sanoq sistemasining boshi qayerda olingan?
++A) Obyektning chap yuqori burchagida
+B) Obyektning markazida
+C) Obyektning o‘ng pastki burchagida
+D) Ekranning markazida
+
+psSolid stili qanday chiziqni bildiradi?
+A) Ko‘rinmas chiziq
++B) Uzluksiz chiziq
+C) Shtrix chiziq
+D) Nuqtali chiziq
+
+psClear stili qanday chiziqni bildiradi?
+A) Nuqtali chiziq
+B) Kesma va nuqtali chiziq
++C) Ko‘rinmas chiziq
+D) Uzluksiz chiziq
+
+RGB(255,255,255) qanday rangni beradi?
+A) Qora rang
+B) Qizil rang
+C) Ko‘k rang
++D) Oq rang
+
+RGB(0,0,0) qanday rangni beradi?
++A) Qora rang
+B) Oq rang
+C) Yashil rang
+D) Sariq rang
+
+Canvasning Pixels xossasi nimaga mo‘ljallangan?
+A) Oynani kattalashtirish uchun
++B) Har bir nuqta (piksel) rangini boshqarish uchun
+C) Chiziq eni uchun
+D) Shriftni o‘zgartirish uchun
+
+MoveTo usuli nima qiladi?
+A) Rangni o‘zgartiradi
+B) Oynani tozalaydi
++C) Grafik kursorni ko‘rsatilgan nuqtaga o‘tkazadi (chizmasdan)
+D) Chiziqni chizadi
+
+LineTo usuli nima qiladi?
+A) Faqat nuqtaga o‘tadi, chizmaydi
+B) Rangni o‘zgartiradi
+C) Shaklni o‘chiradi
++D) Joriy nuqtadan ko‘rsatilgan nuqtagacha chiziq chizadi
+
+Muntazam N burchak diagonallari ilovasida SpinEdit ning MaxValue qiymati nechaga teng?
++A) 40
+B) 3
+C) 7
+D) 500
+
+Muntazam N burchak diagonallari ilovasida SpinEdit ning MinValue qiymati nechaga teng?
+A) 500
++B) 3
+C) 40
+D) 7
+
+Muntazam N burchak diagonallari ilovasida Image ning bo‘yi va eni nechaga teng qilinadi?
+A) 100 ga 100
+B) 1000 ga 1000
++C) 500 ga 500
+D) 40 ga 40
+
+diagonallar protsedurasida r o‘zgaruvchisi nimani bildiradi?
+A) Burchaklar sonini
+B) Rangning kodini
+C) Chiziq kengligini
++D) Tashqi chizilgan aylananing radiusini
+
+diagonallar protsedurasida n o‘zgaruvchisi nimani bildiradi?
++A) Ko‘pburchakning burchaklari sonini
+B) Aylana radiusini
+C) Rang kodini
+D) Chiziq uzunligini
+
+x va y massivlarida nima saqlanadi?
+A) Chiziq uzunliklari
++B) Ko‘pburchak uchlarining koordinatalari
+C) Ranglar ro‘yxati
+D) Burchaklar nomi
+
+Protsedura tanasidagi uchinchi qismda nima bajariladi?
+A) Faqat aylana chiziladi
+B) Faqat matn chiqariladi
++C) Ko‘pburchakning tomonlari va diagonallari chiziladi
+D) Faqat ranglar o‘rnatiladi
+
+Ilova ishga tushirilganda avval nechta burchakli shakl, so‘ng nechta burchakli shakl chiziladi (matndagi misolda)?
+A) Avval 3 burchak, so‘ng 40 burchak
+B) Avval 4 burchak, so‘ng 8 burchak
+C) Avval 10 burchak, so‘ng 20 burchak
++D) Avval 7 burchak, so‘ng 28 burchak
+
+Savol-topshiriqda ekranga qizil, yashil va qora rangli nechta to‘g‘ri to‘rtburchak chizish so‘raladi?
++A) Uchta
+B) Ikkita
+C) Bitta
+D) To‘rtta
+
+Uyga vazifada qaysi ikkita obyektning xossalari so‘raladi?
+A) ListBox va ComboBox
++B) Qalam (Pen) va Cho‘tka (Brush)
+C) Label va Edit
+D) Button va Timer

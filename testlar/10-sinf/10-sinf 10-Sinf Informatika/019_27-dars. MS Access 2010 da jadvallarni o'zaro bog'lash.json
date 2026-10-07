@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "27-dars. MS Access 2010 da jadvallarni o'zaro bog'lash",
+ "savollar": [
+  {
+   "savol": "27-dars qanday nomlanadi?",
+   "variantlar": [
+    "MS Access 2010 da jadvallarni o‘zaro bog‘lash",
+    "MS Access 2010 da ma’lumotlar omborini tashkil etish",
+    "MS Access 2010 ning asosiy elementlari",
+    "Ma’lumotlarni shablon bo‘yicha izlash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "MS Access 2010 da jadvallarni bog‘lash uchun qaysi menyu bo‘limi ishlatiladi?",
+   "variantlar": [
+    "Вставка menyusi",
+    "Работа с базами данных menyusining Схема данных bo‘limi",
+    "Главная menyusi",
+    "Файл menyusi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "Jadvallarni so‘rovlar yordamida bitta jadvalga birlashtirish uchun qaysi bo‘lim ishlatiladi?",
+   "variantlar": [
+    "Печать bo‘limi",
+    "Фильтр bo‘limi",
+    "Создание menyusining Конструктор запросов bo‘limi",
+    "Данные menyusi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "1-mashqda nechta jadval bog‘lanadi?",
+   "variantlar": [
+    "Ikkita jadval",
+    "To‘rtta jadval",
+    "Beshta jadval",
+    "Uchta jadval"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "Jadvallarni bog‘lash uchun qaysi oyna ochiladi?",
+   "variantlar": [
+    "Изменить связи oynasi",
+    "Печать oynasi",
+    "Фильтр oynasi",
+    "Сортировка oynasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "2-mashqda birinchi jadvalga qanday ma’lumotlar kiritiladi?",
+   "variantlar": [
+    "Sinfi va yoshi",
+    "Familiyasi, ismi, otasining ismi",
+    "Yashash manzili, telefon raqami",
+    "Informatika, matematika, fizika baholari"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "2-mashqda ikkinchi jadvalga qanday ma’lumotlar kiritiladi?",
+   "variantlar": [
+    "Fanlardan olgan baholar",
+    "Tug‘ilgan yili",
+    "Yashash manzili, telefon raqami, sinfi",
+    "Familiyasi, ismi, otasining ismi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "2-mashqda uchinchi jadvalga qanday ma’lumotlar kiritiladi?",
+   "variantlar": [
+    "Familiyasi va ismi",
+    "Telefon raqami",
+    "Yashash manzili",
+    "Informatika, matematika, fizika fanidan olgan baholari"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "2-mashqda birinchi jadval qanday nom bilan saqlanadi?",
+   "variantlar": [
+    "“FISH”",
+    "“Ma’lumot”",
+    "“Fanlar”",
+    "“Jadval1”"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "2-mashqda uchinchi jadval qanday nom bilan saqlanadi?",
+   "variantlar": [
+    "“Baho”",
+    "“Fanlar”",
+    "“FISH”",
+    "“Ma’lumot”"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "1-mashqda uchta jadval qanday nomlar bilan saqlanadi?",
+   "variantlar": [
+    "“FISH”, “Ma’lumot”, “Fanlar”",
+    "“Jadval1”, “Jadval2”, “Jadval3”",
+    "“1-jadval”, “2-jadval”, “3-jadval”",
+    "“A”, “B”, “C”"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "Jadvallarni bog‘lashda “Левая таблица” va “Правая таблица” qatorlariga qaysi jadvallar tanlanadi?",
+   "variantlar": [
+    "Faqat bitta jadval",
+    "Barcha jadvallar",
+    "Hech qanday jadval",
+    "Bog‘lanadigan ikkita jadval"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "1-mashqda jadvallarni bog‘lashda “Левый столбец” va “Правый столбец” qatoriga qaysi maydon tanlanadi?",
+   "variantlar": [
+    "“Kod”",
+    "“Familiyasi”",
+    "“Ismi”",
+    "“Telefon”"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "2-mashqda “Ma’lumot” jadvalida Telefon raqami uchun qanday maydon turi tanlangan?",
+   "variantlar": [
+    "Логический (Mantiqiy)",
+    "Числовой (Raqamli)",
+    "Текстовый (Matnli)",
+    "Дата/время (Vaqt)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "2-mashqda “Fanlar” jadvalidagi Informatika, Matematika, Fizika maydonlari qanday turda?",
+   "variantlar": [
+    "Дата/время (Vaqt)",
+    "OLE obyekt",
+    "Числовой (Raqamli)",
+    "Текстовый (Matnli)"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "Uchta jadval bog‘langandan so‘ng, tegishli maydon va shartlarni tanlash uchun qaysi bo‘limga murojaat qilinadi?",
+   "variantlar": [
+    "Печать bo‘limi",
+    "Экспорт bo‘limi",
+    "Импорт bo‘limi",
+    "Поле bo‘limi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "So‘rovni ishga tushirish uchun menyudan qaysi buyruq tanlanadi?",
+   "variantlar": [
+    "Выполнить",
+    "Отмена",
+    "Закрыть",
+    "Сохранить"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "Natijaviy birlashtirilgan jadvalda Nazarov Ismoil Maxmudovichning informatika bahosi nechaga teng?",
+   "variantlar": [
+    "2",
+    "5",
+    "4",
+    "3"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "Natijaviy birlashtirilgan jadvalda Xoshimov Vali Alimovichning yashash manzili qayerda ko‘rsatilgan?",
+   "variantlar": [
+    "Toshkent",
+    "Buxoro",
+    "Samarqand",
+    "Navoiy"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "Uchta jadvaldagi ma’lumotlar nima yordamida bitta jadvalga birlashtirildi?",
+   "variantlar": [
+    "Faqat nusxalash orqali",
+    "Faqat chop etish orqali",
+    "Faqat formula orqali",
+    "So‘rovlar (Конструктор запросов) yordamida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "Jadvallarni hosil qilish bosqichida “Добавление таблицы” oynasidan qaysi tugma bosiladi?",
+   "variantlar": [
+    "Добавить",
+    "Удалить",
+    "Закрыть",
+    "Печать"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Изменить связи bo‘limida yangi bog‘lanish yaratish uchun qaysi tugma bosiladi?",
+   "variantlar": [
+    "Удалить",
+    "Новое",
+    "Отмена",
+    "Закрыть"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Yangi bog‘lanish oynasida (Создание) nechta jadval maydoni tanlanadi (Левая va Правая)?",
+   "variantlar": [
+    "Bitta jadval",
+    "To‘rtta jadval",
+    "Ikkita jadval",
+    "Uchta jadval"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Bog‘lanishni tasdiqlash uchun oxirida qaysi tugma bosiladi?",
+   "variantlar": [
+    "Отмена",
+    "Закрыть",
+    "Обновить",
+    "Создать"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Savol-topshiriqda so‘rovlar yordamida hosil qilingan jadvaldagi ma’lumotlarni o‘zgartirish mumkinligi haqida savol beriladi — bu savol nimaga qaratilgan?",
+   "variantlar": [
+    "So‘rov natijaviy jadvalining tahrirlanish imkoniyatiga",
+    "Faqat chop etishga",
+    "Faqat eksport qilishga",
+    "Faqat o‘chirishga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Uyga vazifada nechta jadval Схема данных bo‘limi orqali bog‘lanadi?",
+   "variantlar": [
+    "Beshta jadval",
+    "To‘rtta jadval",
+    "Ikkita jadval",
+    "Uchta jadval"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Uyga vazifada o‘quvchilar haqidagi ma’lumotlar nechta jadvalda hosil qilinadi?",
+   "variantlar": [
+    "Uchta jadvalda",
+    "Beshta jadvalda",
+    "To‘rtta jadvalda",
+    "Ikkita jadvalda"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "Jadvallarni bog‘lashning asosiy maqsadi nima?",
+   "variantlar": [
+    "Jadvallarni o‘chirish",
+    "Jadvallarni rangga bo‘yash",
+    "Jadvallarni chop etish",
+    "Turli jadvallardagi tegishli ma’lumotlarni bir joyga jamlash"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "Jadvallar orasidagi bog‘lanish odatda qaysi umumiy maydon orqali amalga oshiriladi?",
+   "variantlar": [
+    "“Kod” maydoni orqali",
+    "“Familiyasi” maydoni orqali",
+    "“Telefon” maydoni orqali",
+    "“Sinfi” maydoni orqali"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "MOBT da bir nechta jadval hosil qilish nima uchun zarur?",
+   "variantlar": [
+    "Hech qanday sabab yo‘q",
+    "Kerakli ma’lumotlarni tartibli va takrorlanmasdan saqlash uchun",
+    "Faylni kattalashtirish uchun",
+    "Dasturni sekinlashtirish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

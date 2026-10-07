@@ -1,0 +1,337 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Fizika",
+ "mavzu": "16. O'zgaruvchan tok zanjiridagi induktiv g'altak",
+ "savollar": [
+  {
+   "savol": "Tajribada lampochka va induktiv g'altak avval o'zgarmas tok manbayiga, so'ngra effektiv kuchlanishi o'zgarmas kuchlanishga teng bo'lgan o'zgaruvchan tok manbayiga ulandi. Lampochka ravshanligi qanday bo'ldi?",
+   "variantlar": [
+    "O'zgaruvchan tokda lampochka umuman yonmadi",
+    "O'zgaruvchan tokda ravshanlik ko'proq bo'ldi",
+    "O'zgaruvchan tokda ravshanlik kamroq bo'ldi",
+    "Ikkala holda ham bir xil bo'ldi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Induktiv qarshilik qaysi formula bilan aniqlanadi?",
+   "variantlar": [
+    "XL = ωL",
+    "XL = ω/L",
+    "XL = 1/(ωL)",
+    "XL = L/ω"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Induktiv qarshilik qanday birlikda o'lchanadi?",
+   "variantlar": [
+    "Farada",
+    "Genri",
+    "Om",
+    "Gers"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Induktiv qarshilik yana qanday nom bilan ataladi?",
+   "variantlar": [
+    "Solishtirma qarshilik",
+    "Reaktiv qarshilik",
+    "Ichki qarshilik",
+    "Aktiv qarshilik"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Faqat induktiv g'altak ulangan zanjirda g'altak uchlaridagi kuchlanish tebranishlari tok kuchi tebranishlaridan faza bo'yicha qancha oldinga ketadi?",
+   "variantlar": [
+    "2π",
+    "π",
+    "π/4",
+    "π/2"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'zinduksiya EYuKning oniy qiymati qaysi ifoda bilan aniqlanadi?",
+   "variantlar": [
+    "E = L/i´",
+    "E = L i",
+    "E = i´/L",
+    "E = –L i´"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Induktiv g'altakli zanjirda tok kuchining amplituda qiymati qaysi ifodadan topiladi?",
+   "variantlar": [
+    "Im = Um · XL",
+    "Im = Um/XL",
+    "Im = XL/Um",
+    "Im = Um + XL"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "G'altakdan o'tayotgan tok i = Im cos ωt qonuniyat bilan o'zgarsa, uning vaqt bo'yicha birinchi tartibli hosilasi i´ nimaga teng?",
+   "variantlar": [
+    "Im ω sin ωt",
+    "Im sin ωt",
+    "–Im ω sin ωt",
+    "Im ω cos ωt"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aktiv qarshilik R = 0 bo'lganda zanjirdagi EYuK, g'altak uchlaridagi kuchlanish va qarshilikdagi potensial tushuvi munosabati (iR = E + u) qanday ko'rinishga keladi?",
+   "variantlar": [
+    "E = 0",
+    "u = – E",
+    "u = 0",
+    "u = E"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Induktiv qarshilik qaysi kattaliklarga bog'liq?",
+   "variantlar": [
+    "Faqat kuchlanishga",
+    "Kondensator sig'imiga",
+    "G'altak induktivligiga va o'zgaruvchan tok chastotasiga",
+    "Faqat tok kuchiga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Induktivligi 0,1 H bo'lgan g'altak chastotasi 50 Hz li zanjirga ulangan. Induktiv qarshilik nimaga teng? (π = 3,14)",
+   "variantlar": [
+    "3,14 Ω",
+    "314 Ω",
+    "31,4 Ω",
+    "15,7 Ω"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Induktiv qarshiligi 40 Ω bo'lgan g'altak uchlaridagi kuchlanish amplitudasi 200 V. Tok kuchining amplitudasi nimaga teng?",
+   "variantlar": [
+    "5 A",
+    "8000 A",
+    "0,2 A",
+    "160 A"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zanjirdagi o'zgaruvchan tok chastotasi 2 marta oshirilsa, induktiv qarshilik qanday o'zgaradi?",
+   "variantlar": [
+    "2 marta kamayadi",
+    "2 marta ortadi",
+    "O'zgarmaydi",
+    "4 marta ortadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Siklik chastota ω = 100 rad/s, g'altak induktivligi L = 0,5 H. Induktiv qarshilik nimaga teng?",
+   "variantlar": [
+    "200 Ω",
+    "50 Ω",
+    "0,005 Ω",
+    "500 Ω"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "G'altakdan o'tayotgan tok kuchining amplitudasi 2 A, induktiv qarshilik 30 Ω. Kuchlanishning amplituda qiymati nimaga teng?",
+   "variantlar": [
+    "32 V",
+    "60 V",
+    "15 V",
+    "28 V"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kuchlanish va chastota o'zgarmas bo'lib, g'altak induktivligi 3 marta kamaytirilsa, tok kuchining amplitudasi qanday o'zgaradi?",
+   "variantlar": [
+    "3 marta kamayadi",
+    "9 marta ortadi",
+    "O'zgarmaydi",
+    "3 marta ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Induktivligi 0,2 H bo'lgan g'altak chastotasi 50 Hz li zanjirga ulangan. Induktiv qarshilik nimaga teng? (π = 3,14)",
+   "variantlar": [
+    "6,28 Ω",
+    "628 Ω",
+    "62,8 Ω",
+    "31,4 Ω"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tok kuchining amplitudasi 0,5 A, siklik chastota 200 rad/s, induktivlik 0,1 H. Kuchlanish amplitudasi nimaga teng?",
+   "variantlar": [
+    "10 V",
+    "20 V",
+    "1 V",
+    "100 V"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "G'altak induktivligi 0,1 H, induktiv qarshiligi 62,8 Ω. Tok chastotasi nimaga teng? (π = 3,14)",
+   "variantlar": [
+    "10 Hz",
+    "100 Hz",
+    "50 Hz",
+    "200 Hz"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "O'zgarmas tok (chastotasi nolga teng) uchun ideal g'altakning induktiv qarshiligi nimaga teng?",
+   "variantlar": [
+    "Cheksiz katta",
+    "1 Ω ga",
+    "Induktivlikka teng",
+    "Nolga"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ideal g'altakning induktivligi 0,1 H, kuchlanish amplitudasi 62,8 V, chastotasi 100 Hz. Tok kuchining amplitudasi nimaga teng? (π = 3,14)",
+   "variantlar": [
+    "10 A",
+    "2 A",
+    "0,5 A",
+    "1 A"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ideal g'altakdan o'tayotgan tok i = 4cos(100t) A qonun bilan o'zgaradi, g'altak induktivligi 0,2 H. Kuchlanish amplitudasi nimaga teng?",
+   "variantlar": [
+    "8 V",
+    "800 V",
+    "80 V",
+    "20 V"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Chastota 3 marta oshirilib, induktivlik 2 marta kamaytirilsa, induktiv qarshilik qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "6 marta ortadi",
+    "1,5 marta ortadi",
+    "1,5 marta kamayadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun o'zgaruvchan tok zanjiridagi lampochka, xuddi shunday kuchlanishli o'zgarmas tok zanjiridagiga qaraganda xiraroq yonadi?",
+   "variantlar": [
+    "O'zgaruvchan tokning kuchlanishi doimo kichik bo'ladi",
+    "O'zgaruvchan tok zanjirida o'zinduksiya EYuK tufayli g'altak qo'shimcha induktiv qarshilik hosil qiladi",
+    "G'altakning aktiv qarshiligi o'zgaruvchan tokda ortadi",
+    "G'altak o'zgaruvchan tokda kondensator vazifasini bajaradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ideal g'altakda tok i = Im cos ωt qonun bilan o'zgaradi. t = 0 paytda g'altak uchlaridagi kuchlanishning oniy qiymati nimaga teng?",
+   "variantlar": [
+    "Um/2",
+    "–Um",
+    "Um",
+    "0"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ideal g'altakda tok i = 2cos(50t) A qonun bilan o'zgaradi, induktivligi 0,1 H. t = T/4 paytda o'zinduksiya EYuKning oniy qiymati qanday? (E = –Im ωL sin ωt)",
+   "variantlar": [
+    "–10 V",
+    "10 V",
+    "–20 V",
+    "0"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "G'altakka qo'yilgan kuchlanish amplitudasi o'zgarmaydi. Induktivlik 2 marta va chastota 2 marta oshirilsa, tok kuchining amplitudasi qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "4 marta kamayadi",
+    "2 marta kamayadi",
+    "4 marta ortadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ideal g'altak uchlaridagi kuchlanish amplitudasi 100 V, tok amplitudasi 2 A, chastotasi 50 Hz. G'altak induktivligi taxminan nimaga teng? (π = 3,14)",
+   "variantlar": [
+    "0,5 H",
+    "0,016 H",
+    "0,16 H",
+    "1,6 H"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "XL = ωL ifodada ω birligi 1/s, XL birligi esa Om. Bundan induktivlik birligi Genri qaysi birliklar orqali ifodalanadi?",
+   "variantlar": [
+    "1 H = 1 Ω · s²",
+    "1 H = 1 Ω · s",
+    "1 H = 1 Ω / s",
+    "1 H = 1 s / Ω"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ideal g'altakli zanjirda tok kuchi i = Im cos ωt bo'lsa, kuchlanish va EYuK uchun to'g'ri tasdiq qaysi?",
+   "variantlar": [
+    "Kuchlanish tokdan π/2 ga oldinda, u = –E bo'ladi",
+    "Kuchlanish tok bilan bir xil fazada o'zgaradi",
+    "Kuchlanish EYuK bilan bir xil fazada o'zgaradi",
+    "Kuchlanish tokdan π/2 ga orqada, u = E bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

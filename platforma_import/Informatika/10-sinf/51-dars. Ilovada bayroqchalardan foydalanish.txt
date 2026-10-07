@@ -1,0 +1,179 @@
+51-dars qanday nomlanadi?
++A) Ilovada bayroqchalardan foydalanish
+B) Ma’lumot turini o‘zgartirish
+C) Ilovada radiotugmalar guruhidan foydalanish
+D) ListBox va ComboBox obyektlari
+
+Delphida bayroqcha obyekti qanday ataladi?
+A) Edit
++B) CheckBox
+C) RadioGroup
+D) Label
+
+CheckBox obyekti obyektlar panelining qaysi jildida joylashgan?
+A) Win32 jildida
+B) System jildida
++C) Standart jildida, to‘qqizinchi bo‘lib
+D) Additional jildida
+
+CheckBox obyektining asosiy xossasi qaysi?
+A) Caption
+B) Width
+C) Height
++D) Checked
+
+Checked xossasi qanday qiymatlarni qabul qiladi?
++A) Rost va yolg‘on
+B) Faqat matn
+C) Faqat son
+D) Faqat rang
+
+Bayroqcha haqida uning yonida qisqa yozuv yaratish uchun qaysi xossa ishlatiladi?
+A) Left
++B) Caption
+C) Checked
+D) Width
+
+Lokal (mahalliy) o‘zgaruvchilar qayerda yaratiladi?
+A) Faqat Form1 da
+B) Faqat CheckBox ichida
++C) Protsedura ichida
+D) Dastur boshida
+
+Global (umumiy) o‘zgaruvchilardan qayerdan foydalanish mumkin?
+A) Faqat bitta protseduradan
+B) Faqat Button1 dan
+C) Hech qayerdan
++D) Dasturning ixtiyoriy joyidan
+
+Global o‘zgaruvchilar qayerda tavsiflanadi?
++A) Dastur (ilova) boshida, var so‘zidan keyin
+B) Faqat protsedura oxirida
+C) Faqat Object Inspectorda
+D) Faqat Caption xossasida
+
+Qiziqarli fanlar ilovasida nechta CheckBox obyekti ishlatiladi?
+A) Beshta
++B) To‘rtta
+C) Ikkita
+D) Uchta
+
+n: array[0..4] of integer; operatori nimani tavsiflaydi?
+A) Bitta butun sonni
+B) Bitta matn satrini
++C) Besh elementli butun son massivini
+D) Besh elementli matn massivini
+
+Massiv elementlariga boshlang‘ich qiymat berish uchun qaysi hodisa ishlatiladi?
+A) OnClick
+B) OnChange
+C) OnClose
++D) OnCreate
+
+TForm1.FormCreate protsedurasi qachon ishga tushadi?
++A) Ilova oynasi yaratilayotganda
+B) Tugma bosilganda
+C) Ilova yopilganda
+D) Har safar sikl ishlaganda
+
+for i:=0 to 4 do n[i]:=0; operatori nima qiladi?
+A) Massivni teskari tartiblaydi
++B) Massivning barcha elementlariga 0 qiymatini beradi
+C) Massivni o‘chiradi
+D) Massivni ko‘paytiradi
+
+n[0]:=n[0]+1; operatori nimani hisoblaydi?
+A) Fizikaga ovoz berganlar sonini
+B) Kimyoga ovoz berganlar sonini
++C) Ovoz berishda qatnashganlar sonini
+D) Matematikaga ovoz berganlar sonini
+
+if Checkbox1.Checked then n[1]:=n[1]+1; qatori nimani tekshiradi?
+A) Ikkinchi bayroqcha o‘rnatilganligini
+B) Tugma bosilganligini
+C) Oyna ochilganligini
++D) Birinchi bayroqcha o‘rnatilganligini
+
+Ovoz berish tugagandan so‘ng CheckBoxlarda bayroqchalar nima bo‘ladi?
++A) Olib tashlanadi (Checked:=False)
+B) O‘rnatilgan holda qoladi
+C) O‘chadi
+D) Rangi o‘zgaradi
+
+Natijalar tugmasi bosilganda Label1.Caption orqali nima ko‘rsatiladi?
+A) Hech narsa ko‘rsatilmaydi
++B) Qatnashchilar soni va har bir fanga berilgan ovozlar soni
+C) Faqat qatnashchilar soni
+D) Faqat fanlar nomi
+
+Natijalarni ko‘rsatishda Inttostr funksiyasi nega ishlatiladi?
+A) Sonni o‘chirish uchun
+B) Rangni o‘zgartirish uchun
++C) Butun sonni matn satriga o‘tkazish uchun
+D) Matnni songa o‘tkazish uchun
+
+Word matn muharriridagi abzats oynasida nechta bayroqcha misol sifatida keltirilgan?
+A) To‘rtta
+B) Beshta
+C) Uchta
++D) Oltita
+
+“Bu chorasizlik alomati” deb nima haqida aytilgan (matnga ko‘ra)?
++A) Alohida obyekt eni orqali sonlarni saqlash usuli
+B) Global o‘zgaruvchidan foydalanish
+C) Massivdan foydalanish
+D) CheckBox ishlatish
+
+Savol-topshiriqda nechanchi turdagi o‘quvchilar so‘rovnomasini o‘tkazuvchi ilova yaratish so‘raladi (6-band)?
+A) Yangi o‘quvchilar so‘rovnomasi
++B) Faol o‘quvchilar so‘rovnomasi
+C) Sust o‘quvchilar so‘rovnomasi
+D) A’lochi o‘quvchilar so‘rovnomasi
+
+Savol-topshiriqda 7-bandda qanday ilova yaratish so‘raladi?
+A) Ota-onalar so‘rovnomasi
+B) Direktor so‘rovnomasi
++C) Mohir o‘qituvchilar so‘rovnomasini o‘tkazuvchi ilova
+D) Eng yaxshi maktab so‘rovnomasi
+
+Uyga vazifada global va lokal o‘zgaruvchilar haqida nima so‘raladi?
+A) Ularning rangi
+B) Ularning hajmi
+C) Ularning nomi
++D) Ular bir-biridan nima bilan farq qilishi
+
+Lokal o‘zgaruvchidan protseduradan tashqarida foydalanish mumkinmi?
++A) Yo‘q, mumkin emas
+B) Ha, har doim mumkin
+C) Faqat Form1 orqali mumkin
+D) Faqat CheckBox orqali mumkin
+
+Massiv elementiga murojaat qilish uchun qanday yozuvdan foydalaniladi?
+A) indeks.n ko‘rinishida
++B) n[indeks] ko‘rinishida
+C) n.indeks ko‘rinishida
+D) n(indeks) ko‘rinishida
+
+Agar foydalanuvchi hech qaysi CheckBoxni belgilamay OK tugmasini bossa, nima bo‘ladi?
+A) Barcha n elementlari oshadi
+B) Ilova yopiladi
++C) Faqat n[0] (qatnashchilar soni) oshadi, boshqalari o‘zgarmaydi
+D) Xatolik chiqadi
+
+Bayroqchalar (CheckBox) qaysi turdagi ilovalarda ayniqsa foydali?
+A) Faqat bitta variant tanlanadigan ilovalarda
+B) Faqat matn kiritiladigan ilovalarda
+C) Faqat rasm ko‘rsatiladigan ilovalarda
++D) Bir nechta variantni bir vaqtda tanlash kerak bo‘lgan ilovalarda
+
+Massivga boshlang‘ich qiymat berish protsedurasida qaysi qo‘shimcha o‘zgaruvchi lokal tarzda e’lon qilinadi?
++A) i (sikl o‘zgaruvchisi)
+B) n (massiv)
+C) Form1
+D) CheckBox1
+
+Qiziqarli fanlar ilovasida Button1 (OK) va ikkinchi tugma (Natijalar) o‘rtasidagi vazifa farqi nimada?
+A) Ikkinchisi ilovani yopadi
++B) Birinchisi ovozni hisoblaydi, ikkinchisi natijani ko‘rsatadi
+C) Ikkalasi bir xil vazifani bajaradi
+D) Birinchisi faylni saqlaydi

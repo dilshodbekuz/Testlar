@@ -1,0 +1,337 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-sinf 11-Sinf Matematika 1-qism",
+ "mavzu": "Limit haqida tushuncha",
+ "savollar": [
+  {
+   "savol": "lim (x→2) x² ning qiymatini toping.",
+   "variantlar": [
+    "2",
+    "4",
+    "6",
+    "8"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "lim (x→5) 5 ning qiymatini toping (c o'zgarmas son bo'lsa, lim c = ?).",
+   "variantlar": [
+    "5",
+    "10",
+    "25",
+    "0"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "lim (x→0) (x² + 3x)/x ning qiymatini toping.",
+   "variantlar": [
+    "3",
+    "x",
+    "0",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "lim (x→3) (x² - 9)/(x - 3) ning qiymatini toping.",
+   "variantlar": [
+    "9",
+    "6",
+    "0",
+    "3"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "lim (x→3) (x + 4) ning qiymatini toping.",
+   "variantlar": [
+    "3",
+    "4",
+    "7",
+    "12"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "lim (x→-1) (5 - 2x) ning qiymatini toping.",
+   "variantlar": [
+    "7",
+    "-3",
+    "12",
+    "5"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "lim (h→0) h²(1 - h) ning qiymatini toping.",
+   "variantlar": [
+    "-1",
+    "h²",
+    "0",
+    "1"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "lim (x→4) (3x - 1) ning qiymatini toping.",
+   "variantlar": [
+    "3",
+    "7",
+    "11",
+    "12"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "lim (x→0) c ning qiymatini toping, bu yerda c - o'zgarmas son.",
+   "variantlar": [
+    "0",
+    "c",
+    "1",
+    "x"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "lim (x→1) (x² - 3x)/x ning qiymatini toping.",
+   "variantlar": [
+    "-2",
+    "0",
+    "-3",
+    "2"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "lim (x→0) (x² - 3x)/x ning qiymatini toping.",
+   "variantlar": [
+    "0",
+    "x",
+    "-3",
+    "3"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "lim (x→0) (x² - 5x)/x ning qiymatini toping.",
+   "variantlar": [
+    "1",
+    "5",
+    "-5",
+    "0"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "lim (h→0) (2h² + 6h)/h ning qiymatini toping.",
+   "variantlar": [
+    "2",
+    "6",
+    "8",
+    "0"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "lim (h→0) (3h² - 4h)/h ning qiymatini toping.",
+   "variantlar": [
+    "-4",
+    "4",
+    "0",
+    "3"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "lim (h→0) (h³ - 8h)/h ning qiymatini toping.",
+   "variantlar": [
+    "0",
+    "h³",
+    "8",
+    "-8"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "lim (x→1) (x² - x)/(x - 1) ning qiymatini toping.",
+   "variantlar": [
+    "-1",
+    "0",
+    "2",
+    "1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "lim (x→2) (x² - 2x)/(x - 2) ning qiymatini toping.",
+   "variantlar": [
+    "0",
+    "4",
+    "2",
+    "-2"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "lim (x→3) (x² - x - 6)/(x - 3) ning qiymatini toping.",
+   "variantlar": [
+    "3",
+    "-6",
+    "6",
+    "5"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = (5x + x²)/x (x ≠ 0) funksiya uchun lim (x→0) f(x) nechaga teng?",
+   "variantlar": [
+    "1",
+    "x",
+    "0",
+    "5"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "lim (x→0) (x - 1)/(x + 1) ning qiymatini toping.",
+   "variantlar": [
+    "2",
+    "1",
+    "-1",
+    "0"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "lim (x→2) (x³ - 8)/(x - 2) ning qiymatini toping.",
+   "variantlar": [
+    "8",
+    "12",
+    "4",
+    "6"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "lim (x→1) (x³ - 1)/(x - 1) ning qiymatini toping.",
+   "variantlar": [
+    "2",
+    "3",
+    "4",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "lim (x→2) (x² - 4)/(x - 2) ning qiymatini toping.",
+   "variantlar": [
+    "4",
+    "-4",
+    "0",
+    "2"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "lim (x→-2) (x² - 4)/(x + 2) ning qiymatini toping.",
+   "variantlar": [
+    "2",
+    "4",
+    "-4",
+    "0"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "lim (h→0) ((2 + h)² - 4)/h ning qiymatini toping.",
+   "variantlar": [
+    "0",
+    "2",
+    "4",
+    "8"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "lim (x→3) (x² + x)/(x + 1) ning qiymatini toping.",
+   "variantlar": [
+    "4",
+    "12",
+    "2",
+    "3"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "lim (x→1) (2x² - x - 1)/(x - 1) ning qiymatini toping.",
+   "variantlar": [
+    "3",
+    "-1",
+    "1",
+    "2"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "lim (x→2) 1/x ning qiymatini toping.",
+   "variantlar": [
+    "-2",
+    "2",
+    "1/2",
+    "0"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "lim (x→1) (x² + x - 2)/(x - 1) ning qiymatini toping.",
+   "variantlar": [
+    "-3",
+    "3",
+    "1",
+    "2"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = (5x + x²)/x funksiyaning grafigida (0; 5) nuqta nima deyiladi?",
+   "variantlar": [
+    "(5; 0) - ildiz",
+    "(0; 0) - koordinata boshi",
+    "(1; 5) - ekstremum",
+    "(0; 5) - uzilish nuqtasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

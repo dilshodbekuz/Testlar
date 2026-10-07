@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "36-dars. Delphi dasturlash muhiti",
+ "savollar": [
+  {
+   "savol": "36-dars qanday nomlanadi?",
+   "variantlar": [
+    "Delphi dasturlash muhiti",
+    "Ilova va uning oynasi",
+    "Ilovalar yaratishning zamonaviy usullari",
+    "Delphida grafika bilan ishlash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "Delphi interfeysi nechta bo‘limdan iborat?",
+   "variantlar": [
+    "Oltita",
+    "Sakkizta",
+    "Beshta",
+    "O‘nta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "Delphi ning asosiy menyusi nechta bo‘limdan iborat?",
+   "variantlar": [
+    "To‘qqizta",
+    "O‘n ikkita",
+    "O‘n birta",
+    "O‘nta"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "Delphi asosiy menyusidagi File bo‘limi o‘zbekchada nimani bildiradi?",
+   "variantlar": [
+    "Tahrirlash",
+    "Qidiruv",
+    "Ko‘rinish",
+    "Fayl"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "Delphi asosiy menyusidagi Run bo‘limi o‘zbekchada nimani bildiradi?",
+   "variantlar": [
+    "Ishga tushirish",
+    "Yordam",
+    "Loyiha",
+    "Oynalar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "Komponenta deganda nima tushuniladi?",
+   "variantlar": [
+    "Faqat printer drayveri",
+    "Ilovaga joylash uchun mo‘ljallangan boshqarish elementi (obyekt)",
+    "Faqat rang kodi",
+    "Faqat matn fayli"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "Yaratilayotgan ilovaning asosiy oynasi ko‘rinishi aks etadigan oyna qanday ataladi?",
+   "variantlar": [
+    "Obyekt inspektori",
+    "Uskunalar paneli",
+    "Forma oynasi",
+    "Dastur kodi oynasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "Obyektning barcha xossalari aks etadigan oyna qanday ataladi?",
+   "variantlar": [
+    "Forma oynasi",
+    "Dastur kodi oynasi",
+    "Sarlavha satri",
+    "Obyekt inspektori"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "Obyektlarning daraxtsimon ro‘yxati qanday oyna deb ataladi?",
+   "variantlar": [
+    "Object TreeView (Obyektlar brauzeri)",
+    "Object Inspector",
+    "Форма1",
+    "Dastur kodi oynasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "Delphida yaratiladigan ilovalar qanday ataladi?",
+   "variantlar": [
+    "Skriptlar",
+    "Proyektlar (loyihalar)",
+    "Modullar",
+    "Drayverlar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "Delphi muhiti bosh oynasining sarlavha satrida nechta asosiy tugma joylashgan?",
+   "variantlar": [
+    "Beshta",
+    "To‘rtta",
+    "Uchta",
+    "Ikkita"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "Uskunalar panelidan foydalanishning afzalligi nimada?",
+   "variantlar": [
+    "Faylni kichraytiradi",
+    "Internetga ulanadi",
+    "Printerni sozlaydi",
+    "Ko‘p ishlatiladigan buyruqlarni asosiy menyuga kirmasdan bajarish imkonini beradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "Komponentalar panelida boshqarish elementlari qanday tashkil etilgan?",
+   "variantlar": [
+    "Yigirmadan ortiq jildlarga joylangan",
+    "Bitta ro‘yxatda, tartibsiz",
+    "Faqat ikkita bo‘limda",
+    "Alifbo tartibida, jildlarsiz"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "Forma oynasining o‘lchamlarini o‘zgartirish nimaga ta’sir qiladi?",
+   "variantlar": [
+    "Hech narsaga ta’sir qilmaydi",
+    "Yaratilayotgan ilova oynasining o‘lchamlariga",
+    "Faqat ekran o‘lchamiga",
+    "Faqat shrift o‘lchamiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "Dastur kodi oynasida ilova oynasidagi o‘zgarishlar qanday aks etadi?",
+   "variantlar": [
+    "Hech qachon aks etmaydi",
+    "Faqat Save bosilganda",
+    "Avtomatik tarzda",
+    "Faqat qo‘lda kiritilganda"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "Dastur kodi oynasida har bir hodisa uchun nima yaratiladi?",
+   "variantlar": [
+    "Bitta fayl",
+    "Bitta forma",
+    "Bitta komponenta",
+    "Bitta protsedura"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "Vizual dasturlashda dasturchining asosiy vazifasi nimadan iborat?",
+   "variantlar": [
+    "Obyektlarning kerakli xossalari va usullaridan foydalanish",
+    "Mashina kodini qo‘lda yozish",
+    "Faqat rasm chizish",
+    "Faqat matn terish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "Delphida yaratilgan loyihalar qayerda saqlanadi?",
+   "variantlar": [
+    "Hech qayerda saqlanmaydi",
+    "Maxsus Projects papkasida",
+    "Faqat Desktopda",
+    "Faqat C diskida"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "Pascal da yaratilgan dasturni saqlash uchun nechta fayl yetarli?",
+   "variantlar": [
+    "O‘nta fayl",
+    "Ikkita fayl",
+    "Bitta fayl",
+    "Bir nechta fayl"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "Delphi oynalaridan birini bosh oyna ichida joylashishini o‘zgartirish, yashirish, ekranga chiqarish va o‘lchamini o‘zgartirish mumkinmi?",
+   "variantlar": [
+    "Yo‘q, mumkin emas",
+    "Faqat o‘lchamini o‘zgartirish mumkin",
+    "Faqat yashirish mumkin",
+    "Ha, mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "Delphida nega bir xil nomli fayllarni bitta papkada saqlab bo‘lmaydi?",
+   "variantlar": [
+    "Turli loyihalarning bir xil nomli fayllari bir-birining o‘rnini bosib, nizolar kelib chiqishi mumkin",
+    "Chunki Delphi papkalarni qo‘llab-quvvatlamaydi",
+    "Chunki fayl nomlari faqat raqamlardan iborat bo‘lishi kerak",
+    "Hech qanday sabab yo‘q, mumkin"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Mavjud loyiha asosida yangi loyiha yaratishda nima qilish tavsiya etiladi?",
+   "variantlar": [
+    "Yangi kompyuterga o‘tish",
+    "Mavjud loyihani yangi nomli boshqa papkaga ko‘chirib olish",
+    "Hech narsa qilmaslik",
+    "Mavjud loyihani o‘chirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Loyihaga kiritilgan o‘zgarishlar qanday saqlanadi?",
+   "variantlar": [
+    "Hech qachon saqlanmaydi",
+    "Faqat internetga ulanganda",
+    "Loyiha fayllarida avtomatik tarzda",
+    "Faqat qo‘lda Save bosilganda"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Delphi loyihalarini boshqacha qanday atash kelishib olingan?",
+   "variantlar": [
+    "Modullar",
+    "Skriptlar",
+    "Drayverlar",
+    "Ilovalar"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Obyektlardan biri ikkinchisini o‘z ichiga olishi mumkinligi sababli qanday ro‘yxat eng qulay hisoblanadi?",
+   "variantlar": [
+    "Daraxtsimon (shoxlovchi) ro‘yxat",
+    "Chiziqli ro‘yxat",
+    "Tasodifiy ro‘yxat",
+    "Alifbo ro‘yxati"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Savol-topshiriqda Delphi ilovalari Pascaldagi dasturlardan nimasi bilan farq qilishi so‘raladi?",
+   "variantlar": [
+    "Hajmi har doim kichikligi bilan",
+    "Murakkabligi va saqlash uchun bir nechta fayl talab qilishi",
+    "Rangi bilan",
+    "Narxi bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Uyga vazifada Delphi interfeysi bo‘limlari bo‘yicha nima so‘raladi?",
+   "variantlar": [
+    "Ularni o‘zgartirish",
+    "Ularni chop etish",
+    "Ularni yozib olish",
+    "Ularni o‘chirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "Savol-topshiriqda Turbo Pascal da qanday dasturlar tuzish so‘raladi (4-band)?",
+   "variantlar": [
+    "Faqat matn chiqaruvchi dastur",
+    "Faqat rasm chizuvchi dastur",
+    "Faqat fayl o‘chiruvchi dastur",
+    "Standart funksiya va protsedura qatnashgan dasturlar"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "Delphida “yuzlab tayyor boshqarish obyektlari mavjud” degan fikr qaysi qismda keltirilgan?",
+   "variantlar": [
+    "Yodda saqlang bo‘limida",
+    "Uyga vazifada",
+    "Savol-topshiriqlarda",
+    "Kirish qismida"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "Delphining bosh oynasidan tashqari yana qanday oynalar mavjud?",
+   "variantlar": [
+    "Faqat printer oynasi",
+    "Forma oynasi va dastur kodi oynasi kabi bir qator oynalar",
+    "Faqat bitta qo‘shimcha oyna",
+    "Hech qanday qo‘shimcha oyna yo‘q"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "2-dars. Katakka murojaat: nisbiy, absolut va aralash murojaat",
+ "savollar": [
+  {
+   "savol": "Excel’da katakka murojaat qilishning necha xil turi bor?",
+   "variantlar": [
+    "Uch xil: nisbiy, absolut, aralash",
+    "Ikki xil",
+    "To‘rt xil",
+    "Bitta"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "Formulada $B$4 yozuvi qaysi murojaat turini bildiradi?",
+   "variantlar": [
+    "Absolut murojaat",
+    "Aralash murojaat",
+    "Murojaat yo‘q",
+    "Nisbiy murojaat"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "Nisbiy murojaat formula nusxalanganda nima bo‘ladi?",
+   "variantlar": [
+    "Formula o‘chadi",
+    "Katak bloklanadi",
+    "Manzil o‘zgarmaydi",
+    "Manzil nisbatan siljiydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "Absolut murojaat qaysi belgi bilan yoziladi?",
+   "variantlar": [
+    "@",
+    "&",
+    "$",
+    "#"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "Birinchi satr kataklarini birlashtirish uchun qaysi tugma ishlatiladi?",
+   "variantlar": [
+    "Объединить и поместить в центре",
+    "Сумма",
+    "Заливка",
+    "Формат"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "Excel tasmasida yig‘indi (Σ) tugmasi qaysi katakni hisoblashda ishlatildi?",
+   "variantlar": [
+    "A1 da sarlavha",
+    "H4 da matn",
+    "C3 da fan nomi",
+    "B7 da o‘quvchilar umumiy soni"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "Sinflar jadvalida “O‘quvchilar soni” yozuvi qaysi kataklarni birlashtirish natijasida joylashtirildi?",
+   "variantlar": [
+    "C2:G2",
+    "H2:L2",
+    "B2:B3",
+    "A2:A3"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "“Fanlar” yozuvi qaysi kataklar birlashtirilib joylashtirildi?",
+   "variantlar": [
+    "A2:A3",
+    "C2:G2",
+    "B2:B3",
+    "H2:L2"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "Sinfda fanlardan o‘zlashtirish ko‘rsatkichi qanday formula bilan hisoblanadi?",
+   "variantlar": [
+    "Sinf bo‘yicha o‘zlashtirgan o‘quvchilar soni / o‘quvchilar umumiy soni × 100",
+    "Har bir sinf qo‘shiladi",
+    "Faqat yig‘indi",
+    "Ayirma"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "Nisbiy murojaat qayerda ishlatiladi?",
+   "variantlar": [
+    "Doim bitta katakka murojaat qilishda",
+    "Faqat matn yozishda",
+    "Diagrammada",
+    "Formulani nusxalashda manzil o‘zgarishi kerak bo‘lganda"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "H4 katakdagi “=” belgisidan keyin 10-a sinfning ona tili o‘zlashtirish ko‘rsatkichi uchun nima kiritiladi?",
+   "variantlar": [
+    "B4 o‘chiriladi",
+    "Matn yoziladi",
+    "C4 ni sinfdagi o‘quvchilar umumiy soni B4 ga bo‘lib, 100 ga ko‘paytiriladi",
+    "Faqat C4 yoziladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "Nima uchun B4 katakka murojaat $B$4 ko‘rinishida yoziladi?",
+   "variantlar": [
+    "Matnni qalin qilish uchun",
+    "Formula nusxalanganda murojaat o‘zgarmasligi uchun",
+    "Katak rangini o‘zgartirish uchun",
+    "Ustun kengligi uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "Aralash murojaat qanday ko‘rinishda bo‘ladi?",
+   "variantlar": [
+    "$B4 yoki B$4",
+    "$B$4",
+    "B4",
+    "B:4"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "B4 katakni ajratib olib, Σ tugmasini bosganda nima hosil bo‘ladi?",
+   "variantlar": [
+    "Diagramma",
+    "Yangi varaq",
+    "Matn",
+    "B7 da o‘quvchilar umumiy soni"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "Sichqonchaning chap tugmasi bilan B ustun va 7 satrni siljitish natijasida nima bo‘ladi?",
+   "variantlar": [
+    "Fayl yopiladi",
+    "Ustun yashiriladi",
+    "Qolgan sinflar va fanlar uchun ko‘rsatkichlar avtomatik hisoblanadi",
+    "Jadval o‘chadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "“Nisbiy va absolut murojaat” usullari qanday maqsadda qo‘llangan?",
+   "variantlar": [
+    "Matnni yashirish uchun",
+    "Bir xil formulani ko‘p katakka tez nusxalash uchun",
+    "Jadvalni o‘chirish uchun",
+    "Rangni o‘zgartirish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "10-a sinfda ona tili bo‘yicha o‘zlashtirgan o‘quvchilar soni 27 va sinfdagi umumiy soni 32 bo‘lsa, ko‘rsatkich nechaga teng?",
+   "variantlar": [
+    "84,4",
+    "27",
+    "32",
+    "100"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "Jadvaldagi 10-a sinf uchun ona tili ko‘rsatkichi 84,4 bo‘lishi nimani anglatadi?",
+   "variantlar": [
+    "Sinf 84,4 ta o‘quvchidan iborat",
+    "Ona tili 84,4 ball",
+    "Jadval xato",
+    "O‘quvchilarning 84,4 foizi o‘zlashtirgan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "Katakka formula kiritishda formulalar satridan nima ko‘rinadi?",
+   "variantlar": [
+    "Printer nomi",
+    "Katakdagi formula ifodasi",
+    "Sahifa raqami",
+    "Fayl hajmi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "Jadvalda B7 katak nima uchun ishlatiladi?",
+   "variantlar": [
+    "O‘quvchilarning umumiy sonini saqlash uchun",
+    "Rasm joylash uchun",
+    "Varaq nomini saqlash uchun",
+    "Tilni tanlash uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "Absolut murojaat ustun va satrni o‘zgartirmaydi. Bu nimani anglatadi?",
+   "variantlar": [
+    "Manzil har safar oshadi",
+    "Manzil nol bo‘ladi",
+    "Manzil yo‘qoladi",
+    "Manzil nusxalanganda ham aynan bir xil qoladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Aralash murojaat $B4 ko‘rinishida bo‘lsa, nusxalashda nima o‘zgaradi?",
+   "variantlar": [
+    "Hech narsa o‘zgarmaydi",
+    "Katak o‘chadi",
+    "Satr raqami o‘zgaradi, ustun B bo‘lib qoladi",
+    "Ustun o‘zgaradi, satr qoladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "B$4 murojaatida nusxalanganda qaysi qism o‘zgaradi?",
+   "variantlar": [
+    "Ikkalasi ham o‘zgarmaydi",
+    "Ustun harfi (B) o‘zgaradi, satr (4) o‘zgarmaydi",
+    "Satr o‘zgaradi, ustun o‘zgarmaydi",
+    "Ikkalasi ham o‘zgaradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Nima uchun C7:G7 kataklarida o‘zlashtirish ko‘rsatkichlarini hisoblashda B7 katakka murojaat absolut bo‘lishi kerak?",
+   "variantlar": [
+    "Barcha sinflar uchun bitta umumiy o‘quvchilar soniga bo‘lish kerak bo‘lgani uchun",
+    "Ustun kengligi o‘zgarmasligi uchun",
+    "Rangni saqlash uchun",
+    "Fayl hajmini kamaytirish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Aralash murojaat qachon eng qulay?",
+   "variantlar": [
+    "Faqat matn yozilganda",
+    "Faqat yig‘indi hisoblanganda",
+    "Rasm qo‘shilganda",
+    "Bir qator yoki bir ustun bo‘yicha formula nusxalanganda"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Jadvalda 10-a sinf uchun 100 ga ko‘paytirish nima uchun kerak?",
+   "variantlar": [
+    "Natijani matn qilish uchun",
+    "Natijani yashirish uchun",
+    "Natijani foizda ko‘rsatish uchun",
+    "Natijani kamaytirish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Formulaga $B$4 yozib, C4 ni bo‘lganda B4 o‘zgarmasa, nima bo‘ladi?",
+   "variantlar": [
+    "Natija nol bo‘ladi",
+    "Har bir fan uchun bir xil o‘quvchilar soni ishlatiladi",
+    "Formula xato bo‘ladi",
+    "Katak o‘chadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "Jadvalda qaysi kataklar birlashtirilganda “Sinflar” yozuvi katak o‘rtasiga joylashadi?",
+   "variantlar": [
+    "A2:A3",
+    "B2:B3",
+    "C2:G2",
+    "H2:L2"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "Nisbiy, absolut va aralash murojaatlarning umumiy farqi nimada?",
+   "variantlar": [
+    "Katak rangida",
+    "Shrift hajmida",
+    "Varaq nomida",
+    "Nusxalashda qaysi qismi o‘zgarishi bilan farq qiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "Formulada =B4/$B$7*100 yozuvi nimani bildiradi?",
+   "variantlar": [
+    "B7 ni nusxalash",
+    "Matn chiqarish",
+    "B4 ni B7 ga bo‘lib 100 ga ko‘paytirish, B7 o‘zgarmaydi",
+    "B4 ni 100 ga bo‘lish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

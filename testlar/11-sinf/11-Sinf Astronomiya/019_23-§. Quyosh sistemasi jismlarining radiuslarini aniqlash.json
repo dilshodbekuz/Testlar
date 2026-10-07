@@ -1,0 +1,337 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Astronomiya",
+ "mavzu": "23-§. Quyosh sistemasi jismlarining radiuslarini aniqlash",
+ "savollar": [
+  {
+   "savol": "Quyosh sistemasidagi osmon jismigacha bo'lgan masofani aniqlashda ishlatiladigan burchak qanday ataladi?",
+   "variantlar": [
+    "Ekliptika burchagi",
+    "Azimut",
+    "Parallaks burchagi",
+    "Ko'rinma radius"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jismning Yerdan turib ko'rilgan radiusi qanday nom bilan ataladi?",
+   "variantlar": [
+    "Ko'rinma radius",
+    "Ekvatorial radius",
+    "Haqiqiy radius",
+    "Qutb radiusi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "r = L·sinρ formulasida \"L\" harfi nimani bildiradi?",
+   "variantlar": [
+    "Jismgacha bo'lgan masofa",
+    "Jism radiusi",
+    "Parallaks burchagi",
+    "Yer radiusi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Planetaning sutkalik gorizontal parallaksi odatda qaysi belgi bilan ifodalanadi?",
+   "variantlar": [
+    "L",
+    "r",
+    "ρ",
+    "p0"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "R⊕ belgisi astronomiyada nimani ifodalaydi?",
+   "variantlar": [
+    "Quyosh radiusi",
+    "Yer radiusi",
+    "Astronomik birlik",
+    "Oy radiusi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda keltirilgan OPO′ uchburchagi qanday turdagi uchburchak?",
+   "variantlar": [
+    "Teng tomonli",
+    "O'tmas burchakli",
+    "To'g'ri burchakli",
+    "Teng yonli"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, ko'rinma radiusi (ρ) yetarlicha katta bo'lgan osmon jismi sifatida qaysi jism keltirilgan?",
+   "variantlar": [
+    "Yupiter",
+    "Mars",
+    "Oy",
+    "Venera"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "206265 soni qaysi burchak o'lchovi bilan bog'liq?",
+   "variantlar": [
+    "Steradian",
+    "Gradus",
+    "Daqiqa",
+    "Radian ichidagi burchak sekundlari soni"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Radiolokatsion metod yordamida osmon jismlarigacha bo'lgan masofa nimaga asoslanib topiladi?",
+   "variantlar": [
+    "Yulduz kattaligiga",
+    "Jismning ko'rinma radiusiga",
+    "Jismning massasiga",
+    "Yorug'lik tezligi va signalning qaytib kelish vaqtiga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Planeta radiusini hisoblash uchun dastlab qaysi ikki kattalik aniqlanishi zarur?",
+   "variantlar": [
+    "Massa va zichlik",
+    "Harorat va bosim",
+    "Gorizontal parallaks va ko'rinma radius",
+    "Tezlik va tezlanish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sinρ = r/L tengligidan planeta radiusi (r) qanday ifodalanadi?",
+   "variantlar": [
+    "r = L/sinρ",
+    "r = sinρ/L",
+    "r = L+sinρ",
+    "r = L·sinρ"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ko'rinma radiusi kichik bo'lgan oddiy planetalar uchun radiusni Yer radiusida ifodalash formulasi qaysi?",
+   "variantlar": [
+    "r/R⊕ = p0/ρ",
+    "r/R⊕ = ρ/p0",
+    "r/R⊕ = ρ+p0",
+    "r/R⊕ = ρ·p0"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Planetaning ko'rinma radiusi ρ=12″ va gorizontal parallaksi p0=4″ bo'lsa, uning radiusi Yer radiusida necha marta katta?",
+   "variantlar": [
+    "48",
+    "3",
+    "2",
+    "4"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Planetaning ko'rinma radiusi ρ=9″ va gorizontal parallaksi p0=3″ bo'lsa, r/R⊕ nimaga teng?",
+   "variantlar": [
+    "6",
+    "3",
+    "12",
+    "27"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Oy kabi ko'rinma radiusi katta jismlar uchun formulada kichik planetalarga nisbatan nima o'zgaradi?",
+   "variantlar": [
+    "Formula butunlay bir xil qoladi",
+    "ρ kichik burchak sifatida emas, haqiqiy sinus qiymati bilan olinadi",
+    "p0 inobatga olinmaydi",
+    "R⊕ ishtirok etmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sinp0″=p0·sin1″ tengligi nimani ko'rsatadi?",
+   "variantlar": [
+    "p0 burchagi juda katta bo'lganini",
+    "p0 Yer radiusiga bog'liq emasligini",
+    "p0 doim 1″ ga teng ekanligini",
+    "p0 kichik burchak bo'lgani uchun sinusi burchak qiymatiga proportsional ekanligini"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "r=L·sinρ formulasidagi L kattalikni topish uchun qaysi oldingi bilimdan foydalaniladi?",
+   "variantlar": [
+    "Jismning harorati",
+    "Jismning yorqinligi",
+    "Yulduz kattaligi tizimi",
+    "Parallaks metodi orqali topilgan masofa"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Planeta radiusining R⊕ birligida r/R⊕=ρ″/p0″ ko'rinishida ifodalanishi nimaga asoslangan?",
+   "variantlar": [
+    "Ikkala burchak teng bo'lgani uchun",
+    "Ikkala burchak ham kichik bo'lgani uchun sin1″ ko'paytuvchisi qisqarishiga",
+    "R⊕ ning qiymati o'zgarmasligiga",
+    "L ning doim bitta qiymat olishiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "30-rasmda ko'rsatilgan OPO′ uchburchagida to'g'ri burchak qaysi uchda joylashgan?",
+   "variantlar": [
+    "O′ uchida",
+    "Uchburchakda to'g'ri burchak yo'q",
+    "O uchida",
+    "P uchida"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnga ko'ra, Quyosh sistemasidagi jismlarning radiuslarini aniqlash uchun ularning qaysi ikkita bog'liq kattaligi o'lchanadi?",
+   "variantlar": [
+    "Tezligi va yo'nalishi",
+    "Massasi va hajmi",
+    "Yorqinligi va rangi",
+    "Gorizontal parallaksi va ko'rinma radiusi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir planetaning gorizontal parallaksi p0=2″ bo'lib, ko'rinma radiusi ikkinchi planetanikidan 5 marta katta (p0 ikkalasida bir xil deb olinsa). Birinchi planetaning radiusi ikkinchisidan necha marta katta bo'ladi?",
+   "variantlar": [
+    "10 marta",
+    "5 marta",
+    "2 marta",
+    "2,5 marta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki planeta uchun gorizontal parallaks mos ravishda p0(1)=8″ va p0(2)=4″ bo'lib, ko'rinma radiuslari ikkalasida ham bir xil ρ. Qaysi planetaning haqiqiy radiusi katta bo'ladi?",
+   "variantlar": [
+    "Birinchi planeta (p0=8″)",
+    "Aniqlab bo'lmaydi",
+    "Ikkalasi teng",
+    "Ikkinchi planeta (p0=4″)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Planetaning ko'rinma radiusi ρ=18″ va gorizontal parallaksi p0=6″. R⊕≈6400 km bo'lsa, planeta radiusi taxminan necha km bo'ladi?",
+   "variantlar": [
+    "19200 km",
+    "1066 km",
+    "38400 km",
+    "6400 km"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar p0 ikki marta kattalashsa (ρ o'zgarmasa), planeta radiusi kichik burchakli formula bo'yicha qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "4 marta ortadi",
+    "2 marta kamayadi",
+    "2 marta ortadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar ρ ikki marta kattalashsa (p0 o'zgarmasa), planeta radiusi qanday o'zgaradi?",
+   "variantlar": [
+    "4 marta kamayadi",
+    "O'zgarmaydi",
+    "2 marta ortadi",
+    "2 marta kamayadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Oy uchun qo'llaniladigan r/R⊕=206265·sinρ/p0 formulasi bilan kichik planetalar uchun qo'llaniladigan r/R⊕=ρ/p0 formulasi orasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Birinchi formulada R⊕ ishtirok etmaydi",
+    "Birinchi formulada ρ burchagi kichik burchak sifatida emas, haqiqiy sinus qiymati orqali hisoblanadi, chunki ρ katta",
+    "Ular bir xil formula, faqat belgilar farqli",
+    "Ikkinchi formulada p0 umuman kerak emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Planetaning L (masofasi) parallaks orqali, ρ esa teleskopik kuzatish orqali topilgan bo'lsa, r=L·sinρ formulasidan foydalanib radiusni topish uchun qaysi kattalikni alohida bilish shart emas?",
+   "variantlar": [
+    "ρ ni bilish shart emas",
+    "L ni bilish shart emas",
+    "Hech qaysi kattalikni bilish kerak emas",
+    "p0 ni alohida bilish shart emas, chunki L allaqachon topilgan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi fikrlashga ko'ra, nega planetaning haqiqiy radiusini bevosita o'lchab bo'lmaydi, balki burchak o'lchovlari orqali hisoblanadi?",
+   "variantlar": [
+    "Planetalar juda uzoqda joylashgani va ularning yoniga borib o'lchash imkoni yo'qligi uchun",
+    "Planetalar doimo harakatda bo'lgani uchun",
+    "Planetalar ko'rinmas jismlar bo'lgani uchun",
+    "Planetalarning shakli noma'lum bo'lgani uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar bir xil planeta uchun turlicha kuzatuvlarda L (masofa) qiymati har xil olingan, lekin ρ o'zgarmagan bo'lsa, hisoblangan radius (r) qanday o'zgaradi?",
+   "variantlar": [
+    "r faqat ρ ga bog'liq, L ahamiyatsiz",
+    "r L ga bog'liq emas",
+    "L ortishi bilan r kamayadi",
+    "L qanchalik katta bo'lsa, r shunchalik katta chiqadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyosh sistemasidagi jism radiusini aniqlashning to'g'ri mantiqiy ketma-ketligini ko'rsating: 1) r=L·sinρ formulasi bilan radiusni hisoblash; 2) parallaks orqali L masofani topish; 3) jismning ko'rinma radiusi ρ ni kuzatish orqali o'lchash.",
+   "variantlar": [
+    "2→1→3",
+    "3→2→1",
+    "1→2→3",
+    "2→3→1"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

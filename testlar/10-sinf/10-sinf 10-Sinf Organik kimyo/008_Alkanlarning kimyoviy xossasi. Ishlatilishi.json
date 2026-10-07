@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Organik kimyo",
+ "mavzu": "Alkanlarning kimyoviy xossasi. Ishlatilishi",
+ "savollar": [
+  {
+   "savol": "Alkanlar boshqa uglevodorodlarga qaraganda kimyoviy faolligi qanday?",
+   "variantlar": [
+    "pastroq",
+    "yuqori",
+    "o'rtacha",
+    "eng yuqori"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Alkanlar oddiy sharoitda reaksiyalarga kirishadimi?",
+   "variantlar": [
+    "ha, faol kirishadi",
+    "yo'q, kirishmaydi",
+    "faqat suvda kirishadi",
+    "faqat sovuqda kirishadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Uglevodorodlar yuqori haroratda yonib, qanday moddalar hosil qiladi?",
+   "variantlar": [
+    "CO va H2",
+    "C va H2",
+    "CO2 va H2O",
+    "CO2 va O2"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Metan yuqori haroratda (1500°C) qizdirilsa, qaysi gazlar hosil bo'ladi?",
+   "variantlar": [
+    "etan va vodorod",
+    "etilen va kislorod",
+    "propan va metan",
+    "atsetilen va vodorod"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yuqori haroratda to'yingan uglevodorodlarning uglerod bog'lari uzilib, kam uglerodli alkan va alkenlar aralashmasi hosil bo'lishi jarayoni qanday ataladi?",
+   "variantlar": [
+    "termik kreking",
+    "degidrogenlash",
+    "galogenlash",
+    "izomerlanish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Katalizator ishtirokida boradigan kreking qanday ataladi?",
+   "variantlar": [
+    "termik kreking",
+    "katalitik kreking",
+    "fotokreking",
+    "elektrokreking"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Metan bilan xlorning yorug'lik ta'sirida reaksiyaga kirishishi qaysi reaksiya turi hisoblanadi?",
+   "variantlar": [
+    "birikish reaksiyasi",
+    "ajralish reaksiyasi",
+    "galogenlash (almashinish) reaksiyasi",
+    "izomerlanish reaksiyasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "CH4 + Cl2 reaksiyasidan birinchi bosqichda qanday modda hosil bo'ladi?",
+   "variantlar": [
+    "metilen xlorid",
+    "xloroform",
+    "uglerod(IV)xlorid",
+    "metil xlorid"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Alkanlardan tegishli to'yinmagan uglevodorodlar hosil qilish reaksiyasi qanday ataladi?",
+   "variantlar": [
+    "degidrogenlash",
+    "galogenlash",
+    "gidrogenlash",
+    "gidratatsiya"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tabiiy gazning asosi bo'lgan metan asosan nima sifatida ishlatiladi?",
+   "variantlar": [
+    "erituvchi sifatida",
+    "yoqilg'i sifatida",
+    "bo'yoq sifatida",
+    "kislota sifatida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "C3H8 + 5O2 -> 3CO2 + 4H2O reaksiyasi qaysi moddaning yonish reaksiyasi?",
+   "variantlar": [
+    "metan",
+    "butan",
+    "propan",
+    "etan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Alkanlarning umumiy yonish formulasi CnH2n+2 + (1,5n+0,5)O2 -> nCO2 + (n+1)H2O da (n+1) koeffitsiyenti nimani ko'rsatadi?",
+   "variantlar": [
+    "hosil bo'lgan CO2 miqdorini",
+    "sarflangan kislorod miqdorini",
+    "boshlang'ich alkan miqdorini",
+    "hosil bo'lgan H2O miqdorini"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "n-geksanning termik krekingida qaysi mahsulotlar juftligi hosil bo'lmaydi?",
+   "variantlar": [
+    "geksan va vodorod",
+    "metan va penten-1",
+    "etan va buten-1",
+    "propan va propen"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Katalitik kreking yordamida n-pentandan qanday mahsulotlar olinishi mumkin?",
+   "variantlar": [
+    "faqat metan va butan",
+    "2-metilbutan va 2,2-dimetilpropan kabi tarmoqlangan hosilalar",
+    "faqat benzol",
+    "faqat etan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tarmoqlangan uglevodorodlarni galogenlashda avval qaysi uglerod atomidagi vodorod almashinadi?",
+   "variantlar": [
+    "birlamchi uglerod atomidagi",
+    "ikkilamchi uglerod atomidagi",
+    "uchlamchi uglerod atomidagi",
+    "to'rtlamchi uglerod atomidagi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tarmoqlangan uglevodorodlarni galogenlashda oxirida qaysi uglerod atomidagi vodorod o'z o'rnini galogenga beradi?",
+   "variantlar": [
+    "uchlamchi uglerod atomidagi",
+    "ikkilamchi uglerod atomidagi",
+    "to'rtlamchi uglerod atomidagi",
+    "birlamchi uglerod atomidagi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Metandan xloroform (CHCl3) hosil bo'lishi uchun nechta Cl2 molekulasi ketma-ket reaksiyaga kirishishi kerak?",
+   "variantlar": [
+    "3 ta",
+    "1 ta",
+    "2 ta",
+    "4 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Etandan degidrogenlash natijasida qaysi modda hosil bo'ladi?",
+   "variantlar": [
+    "etan",
+    "etilen",
+    "atsetilen",
+    "propan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Metandan qanday moddalar sanoatda olinadi (matnga ko'ra)?",
+   "variantlar": [
+    "faqat benzol",
+    "faqat shakar",
+    "metil spirt, sirka kislota, etil spirt, sintetik kauchuk, mochevina",
+    "faqat oqsil"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dixloretan, xloroform va tetraxlormetanlar sanoatda qanday maqsadda ishlatiladi?",
+   "variantlar": [
+    "yoqilg'i sifatida",
+    "o'g'it sifatida",
+    "oziq-ovqat sifatida",
+    "erituvchi sifatida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Alkanlar nima uchun oddiy sharoitda reaksiyalarga kirishmaydi, lekin katalizator, harorat yoki yorug'lik ta'sirida kirishadi?",
+   "variantlar": [
+    "chunki ularda faqat kuchli sigma bog'lar mavjud va past faollikka ega",
+    "chunki ular ion birikmalar",
+    "chunki ular suvda erimaydi",
+    "chunki ular gaz holatida"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Termik kreking va katalitik krekingning asosiy farqi nimada?",
+   "variantlar": [
+    "termik kreking faqat metanga, katalitik faqat etanga tegishli",
+    "termik kreking faqat harorat bilan, katalitik esa katalizator ishtirokida tarmoqlangan mahsulot beradi",
+    "ular orasida farq yo'q",
+    "termik kreking faqat laboratoriyada amalga oshiriladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Metandan atsetilen olish reaksiyasi (2CH4 -> C2H2 + 3H2) qaysi reaksiya turiga misol bo'ladi?",
+   "variantlar": [
+    "birikish reaksiyasi",
+    "almashinish reaksiyasi",
+    "ajralish (degidrogenlanish) reaksiyasi",
+    "polimerlanish reaksiyasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tarmoqlangan uglevodorodlarni galogenlashda reaksiya tezligining uchlamchi > ikkilamchi > birlamchi uglerod tartibida borishi nimaga bog'liq?",
+   "variantlar": [
+    "faqat uglerod atomlari soniga",
+    "faqat molekula massasiga",
+    "faqat haroratga",
+    "uchlamchi uglerod atomidagi C-H bog'ning nisbatan oson uzilishiga"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Alkanlarning yonish reaksiyasi qanday reaksiya turiga mansub?",
+   "variantlar": [
+    "oksidlanish reaksiyasi",
+    "qaytarilish reaksiyasi",
+    "neytrallanish reaksiyasi",
+    "gidroliz reaksiyasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Metandan ketma-ket xlorlash mahsulotlari (CH3Cl, CH2Cl2, CHCl3, CCl4) hosil bo'lishi qanday mexanizmni ko'rsatadi?",
+   "variantlar": [
+    "bir martalik to'liq almashinish",
+    "bosqichma-bosqich, har safar bitta vodorod almashinishi",
+    "faqat oxirgi bosqichda almashinish",
+    "tasodifiy, tartibsiz almashinish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Alkanlarning kam reaksiyaga kirishishi ularning qaysi sinf nomi bilan ham bog'liq (lotincha \"affinis\" - qarindosh emas)?",
+   "variantlar": [
+    "olefinlar",
+    "aromatik birikmalar",
+    "parafinlar (lotincha \"parum affinis\" - kam moyillik)",
+    "galogenidlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Degidrogenlash reaksiyasida alkandan vodorod ajralib chiqishi natijasida molekulada qanday bog' hosil bo'ladi?",
+   "variantlar": [
+    "yagona (sigma) bog'",
+    "ion bog'",
+    "vodorod bog'",
+    "qo'shbog' (pi bog')"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sanoatda alkanlarning kreking jarayoni asosan qaysi maqsadda qo'llaniladi?",
+   "variantlar": [
+    "og'ir uglevodorodlardan yengil (benzin kabi) mahsulotlar olish uchun",
+    "faqat gaz hidini yo'qotish uchun",
+    "faqat rang berish uchun",
+    "faqat suvni tozalash uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Alkanlarning yoqilg'i sifatida ishlatilishi ularning qaysi kimyoviy xossasiga asoslangan?",
+   "variantlar": [
+    "galogenlash reaksiyasiga",
+    "yonish (oksidlanish) reaksiyasiga",
+    "izomerlanish reaksiyasiga",
+    "degidrogenlash reaksiyasiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

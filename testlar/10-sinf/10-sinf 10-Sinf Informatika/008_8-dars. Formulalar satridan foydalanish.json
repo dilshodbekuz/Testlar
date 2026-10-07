@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "8-dars. Formulalar satridan foydalanish",
+ "savollar": [
+  {
+   "savol": "8-dars qanday nomlanadi?",
+   "variantlar": [
+    "Formulalar satridan foydalanish",
+    "Funksiya argumenti oynasi",
+    "Matnli funksiyalar",
+    "Mantiqiy funksiyalar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "Formulalar satri nima uchun mo‘ljallangan?",
+   "variantlar": [
+    "Faylni yopish uchun",
+    "Joriy katakdagi qiymat formulasini ko‘rish yoki kiritish uchun",
+    "Faylni chop etish uchun",
+    "Diagramma chizish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "Formulalar satridagi X (krestik) tugmasi qanday vazifa bajaradi?",
+   "variantlar": [
+    "Kutubxonaga murojaat qilish",
+    "Faylni saqlash",
+    "Amalni inkor qilish",
+    "Amalni bajarish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "Formulalar satridagi galochka (belgi) tugmasi qanday vazifa bajaradi?",
+   "variantlar": [
+    "Amalni inkor qilish",
+    "Faylni ochish",
+    "Printer sozlash",
+    "Amalni bajarish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "Formulalar satridagi fx tugmasi qanday vazifa bajaradi?",
+   "variantlar": [
+    "Funksiyalar kutubxonasiga murojaat qilish",
+    "Faylni saqlash",
+    "Matnni o‘chirish",
+    "Katakni bo‘yash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "1-mashqdagi jadval nima haqida?",
+   "variantlar": [
+    "Oylik maosh hisobi",
+    "Korxonaning xizmat safari xarajatlari",
+    "O‘quvchilar baholari",
+    "Savdo shoxobchalari"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "Faylni saqlash uchun Fayl bo‘limidan qaysi band tanlanadi?",
+   "variantlar": [
+    "Печать",
+    "Закрыть",
+    "Сохранить как",
+    "Открыть"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "Diskdan jadvalni yuklash uchun Fayl bo‘limidan qaysi band tanlanadi?",
+   "variantlar": [
+    "Сохранить как",
+    "Печать",
+    "Выход",
+    "Открыть"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "1-mashqda fayl qanday nom bilan saqlanadi?",
+   "variantlar": [
+    "comras.xlsx",
+    "safar.xlsx",
+    "hisob.xlsx",
+    "jadval.xlsx"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "“Jami xarajat” formulasida nechta ko‘paytuvchi ishtirok etadi (umumiy ko‘rinishda)?",
+   "variantlar": [
+    "Uchta son bo‘linadi",
+    "Ikkita asosiy qism ko‘paytiriladi",
+    "Beshta qism qo‘shiladi",
+    "Faqat bitta son"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "“Jami xarajat” formulasi qanday ko‘rinishda beriladi?",
+   "variantlar": [
+    "“yo‘l narxi”/“Kunlar soni”",
+    "“Kunlik xarajat”*“Kishilar soni”-“yo‘l narxi”",
+    "(2*“yo‘l narxi”+“Kunlar soni”*“Kunlik xarajat”)*“Kishilar soni”",
+    "“yo‘l narxi”+“Kunlar soni”+“Kunlik xarajat”+“Kishilar soni”"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "G2 katakka kiritilgan formula qanday ko‘rinishda?",
+   "variantlar": [
+    "=C2+D2+E2+F2",
+    "=(C2*D2)/E2",
+    "=C2-D2*E2+F2",
+    "=(2*C2+D2*E2)*F2"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "Toshkentga safar uchun (yo‘l narxi=80, kunlar=5, kunlik xarajat=80, kishilar=4) jami xarajat nechaga teng?",
+   "variantlar": [
+    "2240",
+    "2200",
+    "2440",
+    "2040"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "Buxoroga safar uchun (yo‘l narxi=86, kunlar=4, kunlik xarajat=50, kishilar=5) jami xarajat nechaga teng?",
+   "variantlar": [
+    "1660",
+    "1860",
+    "1760",
+    "1960"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "Kiyevga safar uchun (yo‘l narxi=1860, kunlar=12, kunlik xarajat=160, kishilar=4) jami xarajat nechaga teng?",
+   "variantlar": [
+    "23560",
+    "22460",
+    "22560",
+    "21560"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "Moskvaga safar uchun (yo‘l narxi=1780, kunlar=10, kunlik xarajat=400, kishilar=6) jami xarajat nechaga teng?",
+   "variantlar": [
+    "44360",
+    "46360",
+    "43360",
+    "45360"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "1-mashqda nechta shahar (boriladigan joy) uchun hisob-kitob qilinadi?",
+   "variantlar": [
+    "To‘rtta (Toshkent, Buxoro, Kiyev, Moskva)",
+    "Ikkita",
+    "Beshta",
+    "Uchta"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "Jadval ustun va satrlari kengligi yetarli bo‘lmasa, nima qilinadi?",
+   "variantlar": [
+    "Hech narsa qilinmaydi",
+    "Kerakli miqdorda o‘zgartiriladi",
+    "Jadval o‘chiriladi",
+    "Fayl qayta yaratiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "G2 dagi formula qolgan satrlar uchun qanday kiritiladi?",
+   "variantlar": [
+    "Qo‘lda hisoblab yoziladi",
+    "Formuladan foydalanilmaydi",
+    "Xuddi shunday (mos ravishda) har bir satrga kiritiladi",
+    "Faqat bir marta, boshqa satrlarga tarqalmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "Файл ro‘yxatidan kerakli fayl qanday tanlanadi?",
+   "variantlar": [
+    "Faqat klaviaturadan",
+    "Printer orqali",
+    "Internet orqali",
+    "Sichqoncha tugmasi bosilib"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "Savol-topshiriqda formulalar satridan foydalanib nechta katakdagi sonlarning kublari yig‘indisi hisoblanadi?",
+   "variantlar": [
+    "Uchta katak",
+    "Ikkita katak",
+    "Beshta katak",
+    "Bitta katak"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Savol-topshiriqda formulalar satriga qanday ifoda kiritish so‘raladi?",
+   "variantlar": [
+    "=Лист2!F2*C3",
+    "=(2*C3+D4*E2)*Лист2!F2",
+    "=C3+D4+E2+F2",
+    "=(C3-D4)/E2"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Uyga vazifada formulalar satridan foydalanib nechta sonning ko‘paytmasi hisoblanadi?",
+   "variantlar": [
+    "Beshta son",
+    "Uchta son",
+    "To‘rtta son",
+    "Ikkita son"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Uyga vazifada qanday formula yozish so‘raladi?",
+   "variantlar": [
+    "=A3+B2+D4+C3+D2",
+    "=A3*B2*D4*C3*D2",
+    "=A3/B2/D4/C3/D2",
+    "=A3-B2*D4+(C3/D2)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Formulalar satridan to‘g‘ridan-to‘g‘ri formula kiritish amaliyoti nimaga xizmat qiladi?",
+   "variantlar": [
+    "Hisob-kitoblarni tezroq va qulay bajarishga",
+    "Faylni kichraytirishga",
+    "Internetga ulanishga",
+    "Printer sozlashga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Jami xarajat formulasida “2*yo‘l narxi” nimani anglatadi?",
+   "variantlar": [
+    "Kishilar sonini ikkilantirishni",
+    "Borish va qaytish yo‘l xarajatini (ikki tomonlama)",
+    "Faqat borish xarajatini",
+    "Kunlik xarajatni ikki barobarlashni"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Agar bironta jadvaldagi “Kishilar soni” noto‘g‘ri kiritilsa, “Jami xarajat” natijasiga qanday ta’sir qiladi?",
+   "variantlar": [
+    "Faqat matn o‘zgaradi",
+    "Fayl ochilmay qoladi",
+    "Natija noto‘g‘ri hisoblanadi, chunki formulada ko‘paytuvchi sifatida ishtirok etadi",
+    "Hech qanday ta’sir qilmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "“Comras.xlsx” fayli diskdan qayta yuklanganda, formulalar va natijalar nima bo‘ladi?",
+   "variantlar": [
+    "Barchasi o‘chib ketadi",
+    "Faqat matnlar qoladi",
+    "Fayl ochilmaydi",
+    "Saqlangan holicha ko‘rinadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "Formulalar satridan foydalanishning klaviaturadan to‘g‘ridan-to‘g‘ri katakka yozishdan afzalligi nimada?",
+   "variantlar": [
+    "Uzun formulani aniqroq ko‘rish va tahrirlash imkonini beradi",
+    "Tezroq hisoblaydi",
+    "Faylni kichraytiradi",
+    "Rangni o‘zgartiradi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "1-mashqdagi jadvalda nechta asosiy ustun mavjud (T/r, Boriladigan joy, Yo‘l narxi, Kunlar soni, Kunlik xarajat, Kishilar soni, Jami xarajat)?",
+   "variantlar": [
+    "Sakkizta",
+    "Yettita",
+    "Beshta",
+    "Oltita"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

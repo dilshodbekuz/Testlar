@@ -1,0 +1,179 @@
+57-dars qanday nomlanadi?
++A) Memo boshqarish obyekti
+B) ListBox va ComboBox obyektlari
+C) Delphida grafika bilan ishlash
+D) Timer obyekti va undan foydalanish
+
+Memo nomi qaysi so‘zning qisqartirilgan ko‘rinishi?
+A) Method
++B) Memorandum
+C) Memory
+D) Message
+
+Memo obyekti obyektlar panelining qaysi jildida joylashgan?
+A) Win32 jildida
+B) Samples jildida
++C) Standart jildida
+D) Additional jildida
+
+Memo obyektiga nechta harf va belgi sig‘adi (ko‘pi bilan)?
+A) 1000 ta
+B) 100 ta
+C) 10000 ta
++D) 65536 ta (2¹⁶)
+
+Memoga matn kiritilishini taqiqlash uchun qaysi xossa True ga o‘tkaziladi?
++A) ReadOnly
+B) Visible
+C) Enabled
+D) AutoSize
+
+Memoga kiritilgan matn qaysi xossada saqlanadi?
+A) Items
++B) Text
+C) Caption
+D) Lines faqat
+
+Memo matnining ko‘plab satrli ko‘rinishi bilan ishlash uchun qaysi xossa qulayroq?
+A) Caption
+B) Font
++C) Lines
+D) Text
+
+Matn bo‘lagini nusxalash uchun qaysi tugmalar kombinatsiyasi ishlatiladi?
+A) Ctrl+Z
+B) Ctrl+S
+C) Ctrl+N
++D) Ctrl+C
+
+Memo1.Lines.Clear nima qiladi?
++A) Barcha satrlarni o‘chirib tashlaydi
+B) Yangi satr qo‘shadi
+C) Faylga saqlaydi
+D) Faylni yuklaydi
+
+Memo1.Lines.Count nimani ko‘rsatadi?
+A) Matnning shriftini
++B) Matnda nechta satr borligini
+C) Matnning uzunligini
+D) Matnning rangini
+
+Memo1.Text:='1-satr'+#13+#10+'2-satr'; operatorida #13 va #10 nima uchun ishlatiladi?
+A) Shriftni o‘zgartirish uchun
+B) Matnni o‘chirish uchun
++C) Satr oxiri va satr boshiga o‘tish belgilarini qo‘yish uchun
+D) Rangni o‘zgartirish uchun
+
+Memo1.Lines.Add('Oxirgi satr') nima qiladi?
+A) Birinchi satrni o‘chiradi
+B) Barcha satrlarni o‘chiradi
+C) Faylni saqlaydi
++D) Matn oxiriga yangi satr qo‘shadi
+
+Memo1.Lines.Insert(4, 'yangi 5-satr'); operatori nima qiladi?
++A) Beshinchi satrdan oldin yangi satr qo‘shadi
+B) Beshinchi satrni o‘chiradi
+C) Oxirgi satrni o‘zgartiradi
+D) Birinchi satrni o‘chiradi
+
+Memo1.Lines.SaveTo('d:\a1.txt'); operatori nima qiladi?
+A) Matnni chop etadi
++B) Memo matnini faylga saqlaydi
+C) Fayldan matnni yuklaydi
+D) Matnni o‘chiradi
+
+Memo1.Lines.LoadFrom('d:\a1.txt'); operatori nima qiladi?
+A) Faylni o‘chiradi
+B) Faylni chop etadi
++C) Saqlangan faylni Memoga yuklaydi
+D) Faylga matn saqlaydi
+
+Satrlarni raqamlash Lines da nechadan boshlanadi?
+A) 1 dan
+B) -1 dan
+C) 10 dan
++D) 0 dan
+
+Tub son ilovasi qaysi matematik ta’rifga asoslanadi?
++A) Faqat o‘ziga va 1 ga qoldiqsiz bo‘linadigan natural son
+B) Faqat juft sonlar
+C) Faqat manfiy sonlar
+D) Faqat katta sonlar
+
+Sonning tub ekanligini tekshirish uchun uni qancha oraliqdagi sonlarga bo‘linishini tekshirish yetarli?
+A) 2n gacha
++B) √n gacha
+C) n gacha
+D) n/2 gacha
+
+Tub sonlar ilovasida natijalar qaysi obyektga qo‘shiladi?
+A) Label1 ga
+B) ListBox1 ga
++C) Memo1.Lines.Add orqali Memo1 ga
+D) Edit1 ga
+
+Tub sonlar ilovasida a:=round(sqrt(i)); qatori nimani hisoblaydi?
+A) i sonining kvadratini hisoblaydi
+B) i sonini matn satriga o‘tkazadi
+C) i sonini o‘chiradi
++D) i sonining kvadrat ildizini yaxlitlab a ga beradi
+
+Natural sonlar kvadratini topuvchi ilovada i2:=i*i; qatori nimani hisoblaydi?
++A) i sonining kvadratini
+B) i sonining kubini
+C) i sonining ildizini
+D) i sonining yarmini
+
+n:=StrToInt(Edit1.Text); qatori nima uchun kerak?
+A) Memo1 ni tozalash uchun
++B) Edit1 ga kiritilgan matnni butun songa o‘tkazib n ga berish uchun
+C) Edit1 ni o‘chirish uchun
+D) n ni matnga o‘tkazish uchun
+
+Tub sonlar protsedurasida b o‘zgaruvchisi qanday turda e’lon qilingan?
+A) string (matn)
+B) real (haqiqiy)
++C) boolean (mantiqiy)
+D) integer (butun)
+
+while b and (j<=a) do sikli qachon to‘xtaydi?
+A) Faqat j nolga teng bo‘lganda
+B) Hech qachon to‘xtamaydi
+C) Faqat a manfiy bo‘lganda
++D) b yolg‘on bo‘lganda yoki j a dan katta bo‘lganda
+
+if i mod j = 0 then b:=false; qatori nimani tekshiradi?
++A) i soni j ga qoldiqsiz bo‘linishini (demak tub emasligini)
+B) i va j tengligini
+C) i manfiy ekanligini
+D) j nolga tengligini
+
+Savol-topshiriqda Edit maydonchasiga kiritilgan matn Memoga qanday qilib chiqarilishi so‘raladi?
+A) Faqat bosh harflar bilan
++B) Har bir harfi alohida qatorda
+C) Bitta qatorda
+D) Teskari tartibda
+
+Savol-topshiriqda Memoga nechta satrdan iborat matn kiritish so‘raladi?
+A) 100 ta satr
+B) 5 ta satr
++C) 50 ta satr
+D) 10 ta satr
+
+Savol-topshiriqda Memodan qaysi satrlar olib tashlanishi so‘raladi?
+A) Toq nomerli satrlar
+B) Barcha satrlar
+C) Faqat birinchi satr
++D) Juft nomerli satrlar
+
+Uyga vazifada Memo obyektining Lines elementi haqida nima so‘raladi?
++A) Matn bilan qanday ishlashi
+B) Qanday rangda bo‘lishi
+C) Qancha joy egallashi
+D) Qaysi tilda ishlashi
+
+Memo obyekti ma’lumotlarni chiqarish uchun mo‘ljallanganda, foydalanuvchi ma’lumot kiritishining oldi qanday olinadi?
+A) Memo obyektini butunlay olib tashlash orqali
++B) ReadOnly xossasini True qilib o‘rnatish orqali
+C) Visible xossasini False qilish orqali
+D) Text xossasini o‘chirish orqali

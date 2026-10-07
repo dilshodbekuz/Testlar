@@ -1,0 +1,179 @@
+O'zgaruvchi qatnashib, unga aniq qiymat qo'yilganda rost-yolg'onligi aniq bo'ladigan mulohaza nima deyiladi?
++A) Predikat
+B) Tenglama
+C) Funksiya
+D) Argument
+
+∀ belgisi nima deyiladi?
+A) Mavjudlik kvantori
++B) Umumiylik kvantori
+C) Inkor belgisi
+D) Implikatsiya belgisi
+
+∃ belgisi nima deyiladi?
+A) Umumiylik kvantori
+B) Inkor belgisi
++C) Mavjudlik kvantori
+D) Konyunksiya belgisi
+
+∀xP(x) ifodasi qanday o'qiladi?
+A) Shunday x mavjudki, P(x)
+B) P(x) har doim yolg'on
+C) x mavjud emas
++D) x ning barcha qiymatlari uchun P(x) o'rinli
+
+∃xP(x) ifodasi qanday o'qiladi?
++A) Shunday x mavjudki, P(x) o'rinli
+B) Barcha x uchun P(x) o'rinli
+C) Hech qanday x uchun P(x) o'rinli emas
+D) P(x) doim rost
+
+x ning ∀xP(x) mulohazaning yolg'onligini ko'rsatuvchi qiymati nima deyiladi?
+A) Argument
++B) Kontrmisol
+C) Natija
+D) Asos
+
+¬(∃xP(x)) qaysi ifodaga tengkuchli?
+A) ∃x(¬P(x))
+B) ∀xP(x)
++C) ∀x(¬P(x))
+D) ∃xP(x)
+
+¬(∀xP(x)) qaysi ifodaga tengkuchli?
+A) ∀x(¬P(x))
+B) ∀xP(x)
+C) ∃xP(x)
++D) ∃x(¬P(x))
+
+P(x,y) kabi ikki o'zgaruvchili mulohaza nima deyiladi?
++A) Predikat
+B) Funksiya
+C) Tenglama
+D) Vektor
+
+Predikatda nechta o'zgaruvchi qatnashishi mumkin?
+A) Faqat bitta
++B) Bir yoki bir nechta
+C) Faqat ikkita
+D) Hech qanday
+
+P(x): "x² > x" bo'lsa, P(2) ning rost-yolg'onligini aniqlang.
+A) Yolg'on
+B) Aniqlanmagan
++C) Rost
+D) Predikat emas
+
+P(x): "x² > x" bo'lsa, P(1/2) ning rost-yolg'onligini aniqlang.
+A) Rost
+B) Aniqlanmagan
+C) Predikat emas
++D) Yolg'on
+
+P(x): "x² > x" bo'lsa, P(−1/2) ning rost-yolg'onligini aniqlang.
++A) Rost
+B) Yolg'on
+C) Aniqlanmagan
+D) Predikat emas
+
+D = {1, 2, 3, 4, 5} bo'lsa, ∀x∈D, x² ≥ x mulohaza rostmi?
+A) Yolg'on
++B) Rost
+C) Aniqlanmagan
+D) Predikat emas
+
+∀x∈R, x² ≥ x mulohaza rostmi?
+A) Rost
+B) Aniqlanmagan
++C) Yolg'on, x=1/2 kontrmisol bo'ladi
+D) Predikat emas
+
+∀xP(x) mulohazaning yolg'onligini ko'rsatish uchun nima yetarli?
+A) Barcha x larni tekshirish
+B) Faqat musbat x larni tekshirish
+C) P(x) ni isbotlash
++D) Bitta kontrmisol topish
+
+P(x,y): "y inson x ning sinfdoshining otasi". ∀x∃yP(x,y) mulohaza qanday o'qiladi?
++A) "Ixtiyoriy sinfdoshning otasi bor"
+B) "Hech kimning otasi yo'q"
+C) "Faqat bitta sinfdoshning otasi bor"
+D) "Barcha otalar bir xil"
+
+∃y∀xP(x,y) mulohaza (yuqoridagi P(x,y) uchun) qanday o'qiladi?
+A) "Hech qanday inson otasi yo'q"
++B) "Shunday inson borki, u barcha sinfdoshlarning otasi bo'ladi"
+C) "Har bir sinfdoshning o'z otasi bor"
+D) "Otalar soni cheksiz"
+
+∀x∃yP(x,y) va ∃y∀xP(x,y) mulohazalar o'zaro mantiqiy tengkuchlimi?
+A) Ha, har doim tengkuchli
+B) Faqat x=y bo'lganda tengkuchli
++C) Yo'q, umuman olganda tengkuchli emas
+D) Faqat P(x,y) rost bo'lganda tengkuchli
+
+∀x∀yP(x,y) va ∀y∀xP(x,y) mulohazalar o'zaro mantiqiy tengkuchlimi?
+A) Yo'q, hech qachon tengkuchli emas
+B) Faqat bitta qiymatda tengkuchli
+C) Aniqlab bo'lmaydi
++D) Ha, tengkuchli
+
+P(x): "x Toshkentda tug'ilgan". ¬(∃xP(x)) mulohaza qanday o'qiladi?
++A) "Hech kim Toshkentda tug'ilmagan"
+B) "Hamma Toshkentda tug'ilgan"
+C) "Kimdir Toshkentda tug'ilgan"
+D) "Ba'zilar Toshkentda tug'ilmagan"
+
+P(x): "x sinfdoshim a'lochi". ¬(∃xP(x)) qaysi mulohazaga tengkuchli?
+A) ∃x(¬P(x))
++B) ∀x(¬P(x)), ya'ni "hamma sinfdoshlarim a'lochi emas"
+C) ∀xP(x)
+D) ∃xP(x)
+
+¬(∀xP(x)) qaysi mulohazaga tengkuchli?
+A) ∀x(¬P(x))
+B) ∀xP(x)
++C) ∃x(¬P(x))
+D) ∃xP(x)
+
+"Hamma sinfdoshlarim a'lochi ekanligi noto'g'ri" mulohaza qaysi kvantorli ifodaga mos keladi?
+A) ∀xP(x)
+B) ∀x(¬P(x))
+C) ∃xP(x)
++D) ∃x(¬P(x))
+
+D(m,n): "n soni m soniga qoldiqsiz bo'linadi" predikat berilgan. ∀m∀nD(m,n) mulohaza rostmi?
++A) Yolg'on, chunki ixtiyoriy n ixtiyoriy m ga bo'linavermaydi
+B) Rost
+C) Aniqlanmagan
+D) Predikat emas
+
+D(m,n) yuqoridagi kabi. ∃m∀nD(m,n) mulohaza rostmi?
+A) Yolg'on
++B) Rost, chunki m=1 bo'lganda istalgan n soni 1 ga qoldiqsiz bo'linadi
+C) Aniqlanmagan
+D) Predikat emas
+
+D(m,n) yuqoridagi kabi. ∀n∃mD(m,n) mulohaza rostmi?
+A) Yolg'on
+B) Aniqlanmagan
++C) Rost, chunki istalgan n uchun m=n tanlansa, n soni m ga bo'linadi
+D) Predikat emas
+
+∀x∈R, ∃y∈R, x<y mulohaza rostmi?
+A) Yolg'on
+B) Aniqlanmagan
+C) Predikat emas
++D) Rost, chunki har qanday x uchun undan katta y topish mumkin
+
+∃y∈R shundayki, barcha x∈R uchun x<y mulohaza rostmi?
++A) Yolg'on, chunki barcha haqiqiy sonlardan katta bitta y mavjud emas
+B) Rost
+C) Aniqlanmagan
+D) Predikat emas
+
+Agar ∀x∃yP(x,y) mulohaza rost bo'lsa, ∃y∀xP(x,y) mulohaza ham albatta rost bo'ladimi?
+A) Ha, har doim
++B) Yo'q, albatta rost bo'lavermaydi
+C) Faqat P(x,y) chiziqli bo'lsa
+D) Faqat x,y natural son bo'lsa

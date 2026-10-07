@@ -1,0 +1,179 @@
+15-dars qanday nomlanadi?
++A) Statistik funksiyalar
+B) Matematik funksiyalar
+C) Matnli funksiyalar
+D) Mantiqiy funksiyalar
+
+Statistik funksiyalardan foydalanish nechta usulda amalga oshiriladi?
+A) To‘rt usulda
++B) Ikki usulda
+C) Bitta usulda
+D) Uch usulda
+
+Birinchi usulda statistik funksiyalar qanday kiritiladi?
+A) Faqat sichqoncha bilan
+B) Printer orqali
++C) Katakka to‘g‘ridan-to‘g‘ri kiritish orqali
+D) Faqat menyudan
+
+Ikkinchi usulda statistik funksiyalar qanday kiritiladi?
+A) Faqat klaviaturadan
+B) Faqat Fayl bo‘limidan
+C) Diagramma orqali
++D) Formulalar satridagi fx bandi orqali
+
+МАКС funksiyasi nimani hisoblaydi?
++A) Berilgan sonlarning eng kattasini
+B) Berilgan sonlarning eng kichigini
+C) Sonlarning o‘rtachasini
+D) Sonlar sonini
+
+МИН funksiyasi nimani hisoblaydi?
+A) Sonlarning ko‘paytmasini
++B) Berilgan sonlarning eng kichigini
+C) Berilgan sonlarning eng kattasini
+D) Sonlarning yig‘indisini
+
+СРЗНАЧ funksiyasi nimani hisoblaydi?
+A) Berilgan sonlarning eng kattasini
+B) Berilgan sonlarning ko‘paytmasini
++C) Berilgan sonlarning o‘rta arifmetigini
+D) Berilgan sonlarning yig‘indisini
+
+СЧЁТЕСЛИ funksiyasi nimani bajaradi?
+A) Kataklarni o‘chiradi
+B) Kataklarni bo‘yaydi
+C) Kataklarni birlashtiradi
++D) Shartni qanoatlantiruvchi bo‘sh bo‘lmagan kataklar sonini sanaydi
+
+1-mashqda D8 katakda nima hisoblanishi so‘raladi?
++A) Eng katta va eng kichik sonning o‘rta arifmetigi
+B) Barcha sonlarning yig‘indisi
+C) Faqat eng katta son
+D) Faqat eng kichik son
+
+1-mashqda sonlar qaysi blokka kiritiladi?
+A) B1:C1
++B) A1:C5
+C) A1:A5
+D) D1:D5
+
+1-mashqda D6 katakka qanday formula kiritiladi?
+A) =СРЗНАЧ(A1:C5)
+B) =СУММ(A1:C5)
++C) =МАКС(A1:C5)
+D) =МИН(A1:C5)
+
+1-mashqda D7 katakka qanday formula kiritiladi?
+A) =МАКС(A1:C5)
+B) =СРЗНАЧ(A1:C5)
+C) =СЧЁТЕСЛИ(A1:C5)
++D) =МИН(A1:C5)
+
+1-mashqda D8 katakka qanday formula kiritiladi?
++A) =СРЗНАЧ(D6:D7)
+B) =МАКС(D6:D7)
+C) =СУММ(D6:D7)
+D) =МИН(D6:D7)
+
+1-mashq jadvalida D6 (eng katta son) nechaga teng?
+A) 12
++B) 100
+C) 44
+D) 33
+
+1-mashq jadvalida D7 (eng kichik son) nechaga teng?
+A) 1
+B) 3
++C) -22
+D) -8
+
+1-mashq jadvalida D8 (o‘rta arifmetik) nechaga teng?
+A) 78
+B) 61
+C) 22
++D) 39
+
+Ikkinchi usulda fx tugmasi bosilganda qanday oyna ochiladi?
++A) Мастер функций oynasi
+B) Formatlash oynasi
+C) Chop etish oynasi
+D) Saqlash oynasi
+
+Мастер функций oynasida statistik funksiyalar qaysi kategoriya ostida joylashgan?
+A) Логические
++B) Статистические
+C) Математические
+D) Текстовые
+
+Statistik funksiyalar ro‘yxatida МАКС bilan birga qanday funksiyalar ham ko‘rsatilgan (oynadagi ro‘yxatda)?
+A) ЕСЛИ, И, ИЛИ
+B) ФАКТР, ABS, LN
++C) МАКСА, МЕДИАНА, МИН, МИНА
+D) СЦЕПИТЬ, ПОВТОР
+
+D8=СРЗНАЧ(D6:D7) formulasi nechta katakning o‘rtachasini hisoblaydi?
+A) Besh katak
+B) O‘n katak
+C) Bitta katak
++D) Ikkita katak (D6 va D7)
+
+Savol-topshiriqda МАКС funksiyasini tanlash ketma-ketligini tushuntirish qaysi oyna orqali ko‘rsatiladi?
++A) Мастер функций oynasi orqali
+B) Fayl bo‘limi orqali
+C) Chop etish oynasi orqali
+D) Diagramma oynasi orqali
+
+Savol-topshiriqda berilgan 10 ta son ichidan eng katta son nechta usulda topilishi so‘raladi?
+A) To‘rt usulda
++B) Ikki usulda
+C) Bitta usulda
+D) Uch usulda
+
+Uyga vazifada 4,6,8,9,10 sonlarining nimasi hisoblanadi?
+A) Yig‘indisi
+B) Ko‘paytmasi
++C) O‘rta geometrigi
+D) O‘rta arifmetigi
+
+Uyga vazifada mustaqil ravishda qaysi funksiyaga mashq o‘ylab, bajarish so‘raladi?
+A) МАКС
+B) МИН
+C) СРЗНАЧ
++D) СЧЁТЕСЛИ
+
+СЧЁТЕСЛИ funksiyasi argumentida nimalar ko‘rsatiladi?
++A) Kataklar bloki va tekshiriladigan shart
+B) Faqat bitta son
+C) Faqat matn
+D) Faqat rang kodi
+
+Agar A1:C5 blokida 15 ta katak bo‘lib, ularning barchasi to‘ldirilgan bo‘lsa, МАКС(A1:C5) nechta katak orasidan eng kattasini tanlaydi?
+A) 1 ta katak orasidan
++B) 15 ta katak orasidan
+C) 5 ta katak orasidan
+D) 3 ta katak orasidan
+
+Statistik funksiyalardan foydalanishning amaliy ahamiyati nimada?
+A) Internetga ulaydi
+B) Printerni sozlaydi
++C) Katta hajmdagi ma’lumotlarni tezda tahlil qilish imkonini beradi
+D) Faylni kichraytiradi
+
+D6 va D7 kataklaridagi natijalar (МАКС va МИН) qaysi funksiyaga argument sifatida beriladi?
+A) МАКС funksiyasiga
+B) СЧЁТЕСЛИ funksiyasiga
+C) ЕСЛИ funksiyasiga
++D) СРЗНАЧ funksiyasiga
+
+Agar blokdagi sonlar orasida manfiy sonlar ham bo‘lsa, МИН funksiyasi natijasiga qanday ta’sir qiladi?
++A) Eng kichik (eng manfiy) sonni to‘g‘ri topadi
+B) Manfiy sonlarni e’tiborga olmaydi
+C) Xatolik chiqaradi
+D) Natijani 0 qiladi
+
+СРЗНАЧ funksiyasi matematik jihatdan qanday amalga mos keladi?
+A) Eng katta sonni topish
++B) Sonlar yig‘indisini sonlar soniga bo‘lish
+C) Sonlarni ko‘paytirish
+D) Sonlarni ayirish

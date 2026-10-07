@@ -1,0 +1,337 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Matematika 2-qism",
+ "mavzu": "51 Taqribiy integrallash",
+ "savollar": [
+  {
+   "savol": "Aniq integralni taqribiy hisoblash masalasi qachon qo‘yiladi?",
+   "variantlar": [
+    "f(x) funksiya uzluksiz bo‘lsa",
+    "integral chegaralari butun sonlar bo‘lsa",
+    "f(x) funksiyaning boshlang‘ich funksiyasi topilmasa",
+    "f(x) funksiyaning hosilasi mavjud bo‘lsa"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "[a; b] kesma n ta teng bo‘lakka bo‘linganda har bir bo‘lakning uzunligi Δx nimaga teng?",
+   "variantlar": [
+    "(b − a)/n",
+    "n/(b − a)",
+    "(b − a)·n",
+    "(b + a)/n"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To‘g‘ri to‘rtburchaklar (1) formulasida to‘g‘ri to‘rtburchakning balandligi sifatida nima olinadi?",
+   "variantlar": [
+    "f(x) ning [xk; xk+1] kesma o‘ng uchi xk+1 dagi qiymati",
+    "f(x) ning eng katta qiymati",
+    "f(x) ning [xk; xk+1] kesma chap uchi xk dagi qiymati f(xk)",
+    "f(x) ning [xk; xk+1] kesma o‘rtasidagi qiymati"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(1a) formulada to‘g‘ri to‘rtburchakning balandligi sifatida nima olinadi?",
+   "variantlar": [
+    "kesma uzunligi",
+    "kesma o‘ng uchidagi f(xk+1) qiymat",
+    "kesma chap uchidagi f(xk) qiymat",
+    "kesma o‘rtasidagi qiymat"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(1b) formulada to‘g‘ri to‘rtburchakning balandligi sifatida nima olinadi?",
+   "variantlar": [
+    "kesma chap uchidagi qiymat",
+    "kesma o‘ng uchidagi qiymat",
+    "kesma o‘rtasidagi nuqtada f(x) ning qiymati",
+    "f(a) va f(b) ning yig‘indisi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "[a; b] kesma n ta teng bo‘lakka bo‘linsa, x0, x1, ..., xn bo‘linish nuqtalari nechta bo‘ladi?",
+   "variantlar": [
+    "n + 2",
+    "n",
+    "n − 1",
+    "n + 1"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Trapetsiyalar formulasida har bir kichik egri chiziqli trapetsiya qanday shaklga almashtiriladi?",
+   "variantlar": [
+    "uchburchak bilan",
+    "asosi Δx, balandligi f(xk) bo‘lgan to‘g‘ri to‘rtburchak bilan",
+    "asoslari f(xk) va f(xk+1), balandligi Δx bo‘lgan trapetsiya bilan",
+    "doira sektori bilan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Trapetsiyalar formulasi (2) qaysi ko‘rinishda yoziladi?",
+   "variantlar": [
+    "(b − a)/n · ((f(a) + f(b))/2 + f(x1) + ... + f(xn−1))",
+    "(b − a)/n · (f(x1) + f(x2) + ... + f(xn))",
+    "(b − a)/n · (f(a) − f(b))",
+    "(b − a) · (f(a) + f(b))"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matndagi 1-misolda e^(−x²) integrali uchun qaysi formula aniqroq natija bergan?",
+   "variantlar": [
+    "to‘g‘ri to‘rtburchaklar formulasi",
+    "trapetsiyalar formulasi",
+    "Nyuton–Leybnis formulasi",
+    "ikkala formula bir xil aniqlikda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Taqribiy integrallash formulalarida bo‘linish nuqtalaridan grafik bilan kesishguncha qanday to‘g‘ri chiziqlar o‘tkaziladi?",
+   "variantlar": [
+    "Ox o‘qiga parallel chiziqlar",
+    "Oy o‘qiga perpendikulyar chiziqlar",
+    "y = x to‘g‘ri chiziqqa parallel chiziqlar",
+    "Ox o‘qiga perpendikulyar vertikal chiziqlar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "[0; 1] kesma 5 ta teng qismga bo‘linsa, Δx nimaga teng?",
+   "variantlar": [
+    "5",
+    "0,2",
+    "0,5",
+    "0,1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "[2; 8] kesma 3 ta teng qismga bo‘linsa, Δx nimaga teng?",
+   "variantlar": [
+    "2",
+    "3",
+    "6",
+    "10/3"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "[0; 1] kesma 10 ta teng qismga bo‘linganda [x4; x5] kesmaning o‘rtasi x4,5 nimaga teng?",
+   "variantlar": [
+    "0,45",
+    "0,4",
+    "0,5",
+    "0,55"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = 1/(1 + x²) bo‘lsa, f(0,75) nimaga teng?",
+   "variantlar": [
+    "0,64",
+    "1,5625",
+    "0,75",
+    "0,5625"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "∫₀¹ dx/(1 + x²) integralning aniq qiymati nimaga teng?",
+   "variantlar": [
+    "π/4",
+    "π/2",
+    "π",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "∫₀² x² dx integralni trapetsiyalar formulasi bilan n = 1 da hisoblang.",
+   "variantlar": [
+    "8/3",
+    "2",
+    "4",
+    "8"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "∫₀⁴ x dx integralni (1) formula (chap uchlar) bilan n = 4 da hisoblang.",
+   "variantlar": [
+    "8",
+    "10",
+    "4",
+    "6"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "∫₀⁴ x dx integralni (1a) formula (o‘ng uchlar) bilan n = 4 da hisoblang.",
+   "variantlar": [
+    "8",
+    "10",
+    "12",
+    "6"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "∫₀⁴ x dx integralni (1b) formula (o‘rtalar) bilan n = 4 da hisoblang.",
+   "variantlar": [
+    "6",
+    "7",
+    "8",
+    "10"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1-misolda trapetsiyalar formulasi bo‘yicha qavs ichidagi yig‘indi 3,72184 va Δx = 0,2 bo‘lsa, A taqriban nimaga teng?",
+   "variantlar": [
+    "3,7218",
+    "0,8872",
+    "0,7444",
+    "0,3722"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2-misolda f(x₁/₂) + f(x₃/₂) + ... + f(x₁₉/₂) = 7,8561 va Δx = 0,1 bo‘lsa, B = ∫₀¹ dx/(1 + x²) taqriban nimaga teng?",
+   "variantlar": [
+    "7,8561",
+    "0,7856",
+    "0,7854",
+    "0,0002"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "∫₀² x² dx integralni (1b) formula bilan n = 2 da hisoblang.",
+   "variantlar": [
+    "3",
+    "2,5",
+    "8/3",
+    "2"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "∫₀³ (2x + 1) dx integralni trapetsiyalar formulasi bilan n = 3 da hisoblang.",
+   "variantlar": [
+    "15",
+    "9",
+    "10,5",
+    "12"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "∫₀² x² dx integralni (1) formula (chap uchlar) bilan n = 2 da hisoblang.",
+   "variantlar": [
+    "3",
+    "2",
+    "1",
+    "5"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "∫₀¹ dx/(1 + x²) integralni (1b) formula bilan n = 2 da hisoblang (f(0,25) ≈ 0,9412, f(0,75) = 0,64).",
+   "variantlar": [
+    "0,8824",
+    "0,7906",
+    "0,7854",
+    "1,5812"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "∫₀¹ dx/(1 + x²) integralni trapetsiyalar formulasi bilan n = 2 da hisoblang (f(0) = 1, f(0,5) = 0,8, f(1) = 0,5).",
+   "variantlar": [
+    "0,75",
+    "0,775",
+    "1,55",
+    "0,65"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2-misolda B ≈ 0,7856 topildi va B = π/4 ekanligi ma’lum. Bu natijadan π ning qanday taqribiy qiymati kelib chiqadi?",
+   "variantlar": [
+    "3,1856",
+    "3,1424",
+    "3,1416",
+    "3,1400"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "∫₀¹ dx/(1 + x²) integralni (1a) formula (o‘ng uchlar) bilan n = 2 da hisoblang (f(0,5) = 0,8, f(1) = 0,5).",
+   "variantlar": [
+    "1,3",
+    "0,9",
+    "0,65",
+    "0,775"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = e^(−x²) kamayuvchi funksiya. Shu sababli (1) formula (chap uchlar) bo‘yicha hisoblangan yig‘indi aniq integraldan qanday farq qiladi?",
+   "variantlar": [
+    "funksiya kamayishi natijaga ta’sir qilmaydi",
+    "aniq integraldan katta bo‘ladi, chunki chap uchdagi qiymat kesmadagi eng katta qiymat",
+    "har doim aniq integralga teng bo‘ladi",
+    "aniq integraldan kichik bo‘ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "[0; 1] kesma 10 ta teng qismga bo‘lingan. Trapetsiyalar formulasida f(a) va f(b) dan tashqari nechta oraliq qiymat f(x₁), ..., f(xₙ₋₁) qo‘shiladi?",
+   "variantlar": [
+    "9",
+    "10",
+    "8",
+    "11"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

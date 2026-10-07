@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "6-dars. MS Excelning funksiyalar kutubxonasi",
+ "savollar": [
+  {
+   "savol": "6-dars qanday nomlanadi?",
+   "variantlar": [
+    "MS Excelning funksiyalar kutubxonasi",
+    "Formulalar satridan foydalanish",
+    "Matnli funksiyalar",
+    "Mantiqiy funksiyalar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "Funksiyalar kutubxonasiga murojaat qilish uchun qaysi tasma bo‘limi ishlatiladi?",
+   "variantlar": [
+    "Данные",
+    "Формулы",
+    "Главная",
+    "Вставка"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "ФАКТР funksiyasi nimani hisoblaydi?",
+   "variantlar": [
+    "Sonning natural logarifmini",
+    "Sonning kvadrat ildizini",
+    "Argument sifatida berilgan butun son faktorialini",
+    "Sonning sinusini"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "ABS funksiyasi nimani hisoblaydi?",
+   "variantlar": [
+    "Sonning eksponentasini",
+    "Sonning kosinusini",
+    "Sonning tangensini",
+    "Argument qiymatining modulini"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "LN funksiyasi nimani hisoblaydi?",
+   "variantlar": [
+    "Sonning natural logarifmini",
+    "Sonning kvadrat ildizini",
+    "Sonning faktorialini",
+    "Sonning modulini"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "НОД funksiyasi nimani hisoblaydi?",
+   "variantlar": [
+    "Sonning tangensini",
+    "Ikki va undan ortiq butun sonlarning eng katta umumiy bo‘luvchisini",
+    "Ikki va undan ortiq sonlarning yig‘indisini",
+    "Sonning kvadrat ildizini"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "НОК funksiyasi nimani hisoblaydi?",
+   "variantlar": [
+    "Sonning modulini",
+    "Sonning faktorialini",
+    "Ikki va undan ortiq butun sonlarning eng kichik umumiy bo‘linuvchisini",
+    "Sonlarning ko‘paytmasini"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "ОКРУГЛ funksiyasi nimani bajaradi?",
+   "variantlar": [
+    "Sonni manfiyga aylantiradi",
+    "Sonni matnga aylantiradi",
+    "Sonni o‘chiradi",
+    "Haqiqiy sonni yaxlitlaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "СУММ funksiyasi nimani hisoblaydi?",
+   "variantlar": [
+    "Ikki va undan ortiq sonlarning yig‘indisini",
+    "Ikki va undan ortiq sonlarning ayirmasini",
+    "Sonning ildizini",
+    "Sonning darajasini"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "ПРОИЗВЕД funksiyasi nimani hisoblaydi?",
+   "variantlar": [
+    "Sonlar eng kattasini",
+    "Ikki va undan ortiq sonlar ko‘paytmasini",
+    "Sonlar yig‘indisini",
+    "Sonlar o‘rtacha qiymatini"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "ЗНАК funksiyasi son manfiy bo‘lganda qanday qiymat chiqaradi?",
+   "variantlar": [
+    "1",
+    "2",
+    "-1",
+    "0"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "ЗНАК funksiyasi son nolga teng bo‘lganda qanday qiymat chiqaradi?",
+   "variantlar": [
+    "1",
+    "-1",
+    "Xato beradi",
+    "0"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "КОРЕНЬ funksiyasi nimani hisoblaydi?",
+   "variantlar": [
+    "Sonning kvadrat ildizini",
+    "Sonning kubini",
+    "Sonning faktorialini",
+    "Sonning modulini"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "EXP funksiyasi nimani hisoblaydi?",
+   "variantlar": [
+    "Sonning tangensini",
+    "Sonning eksponentasini",
+    "Sonning logarifmini",
+    "Sonning ildizini"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "1-mashqda qaysi sonlarning eng katta umumiy bo‘luvchisi hisoblanadi?",
+   "variantlar": [
+    "2, 4, 6, 8",
+    "12, 24, 36, 48",
+    "6, 10, 30, 60",
+    "5, 15, 25, 35"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "1-mashqda C4 katakka qanday formula kiritiladi?",
+   "variantlar": [
+    "=НОК(A1:B2)",
+    "=СУММ(A1:B2)",
+    "=ABS(A1:B2)",
+    "=НОД(A1:B2)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "1-mashqda formulaning natijasi nechaga teng?",
+   "variantlar": [
+    "2",
+    "6",
+    "10",
+    "30"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "MS Excel 2010 da ko‘paytirish amali qaysi belgi bilan bajariladi?",
+   "variantlar": [
+    "&",
+    "*",
+    "x",
+    "×"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "MS Excel 2010 da darajaga ko‘tarish amali qaysi belgi bilan bajariladi?",
+   "variantlar": [
+    "#",
+    "%",
+    "^",
+    "**"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "MS Excel 2010 da bo‘lish amali qaysi belgi bilan bajariladi?",
+   "variantlar": [
+    "\\",
+    "÷",
+    ":",
+    "/"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "1-mashqda A1, B1, A2, B2 kataklariga mos ravishda qanday sonlar kiritiladi?",
+   "variantlar": [
+    "6, 10, 30, 60",
+    "10, 6, 60, 30",
+    "1, 2, 3, 4",
+    "60, 30, 10, 6"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Savol-topshiriqda СУММПРОИЗ funksiyasi yordamida qaysi sonlar juftliklarining ko‘paytmalari yig‘indisi hisoblanadi?",
+   "variantlar": [
+    "(2;3), (4;5), (6;7)",
+    "(5;10), (15;20), (25;30)",
+    "(1;2), (3;4), (5;6)",
+    "(10;20), (30;40)"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Savol-topshiriqda berilgan sonlar ichidan nima topilib, ularning yig‘indisi va ko‘paytmasi hisoblanishi so‘raladi?",
+   "variantlar": [
+    "O‘rtacha qiymat",
+    "Faqat musbat sonlar",
+    "Eng katta va eng kichik son",
+    "Eng ko‘p takrorlangan son"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Savol-topshiriqdagi -7,8; -9,67865; -4,6; -3,8; 7,8 sonlarining ko‘paytmasi necha raqamgacha yaxlitlanishi so‘raladi?",
+   "variantlar": [
+    "1 ta raqamgacha",
+    "3 ta raqamgacha",
+    "4 ta raqamgacha",
+    "2 ta raqamgacha"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Uyga vazifada 1,2,3,4,5,6,8,9 sonlari ustida qaysi amal bajarilib, natijalar yig‘indisi topiladi?",
+   "variantlar": [
+    "Kvadrat ildiz olish",
+    "Kublash",
+    "Faktorial hisoblash",
+    "Logarifm olish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Uyga vazifada 15,20,45,62,94,112 sonlarining nimasi topiladi?",
+   "variantlar": [
+    "O‘rtacha qiymati",
+    "Eng kichik umumiy bo‘linuvchisi",
+    "Eng katta umumiy bo‘luvchisi",
+    "Yig‘indisi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Uyga vazifada 4 va 10 sonlarining nimasi hisoblanadi?",
+   "variantlar": [
+    "Logarifmi",
+    "Modullari",
+    "Faktoriali",
+    "Kvadrat ildizi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "Funksiyalar kutubxonasidagi funksiyalar nechta sonni argument sifatida qabul qila oladi (НОД, НОК, СУММ, ПРОИЗВЕД kabi)?",
+   "variantlar": [
+    "Faqat bitta sonni",
+    "Faqat ikkita sonni",
+    "Umuman son qabul qilmaydi",
+    "Ikki va undan ortiq sonlarni"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "Matematik funksiyalar jadvalida jami nechta funksiya keltirilgan (ФАКТР dan КОРЕНЬ gacha)?",
+   "variantlar": [
+    "14 ta",
+    "10 ta",
+    "12 ta",
+    "16 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "SIN, COS, TAN funksiyalari qaysi turdagi hisoblashlarni bajaradi?",
+   "variantlar": [
+    "Mantiqiy tekshiruvlarni",
+    "Trigonometrik hisoblashlarni",
+    "Statistik hisoblashlarni",
+    "Matnli amallarni"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

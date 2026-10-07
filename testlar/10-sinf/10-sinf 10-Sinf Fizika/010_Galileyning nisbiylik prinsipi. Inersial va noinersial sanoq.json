@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Fizika",
+ "mavzu": "Galileyning nisbiylik prinsipi. Inersial va noinersial sanoq sistemalari",
+ "savollar": [
+  {
+   "savol": "Tinch holatda turgan yoki to'g'ri chiziqli tekis harakatlanayotgan sanoq sistemalari qanday ataladi?",
+   "variantlar": [
+    "Nisbiy sanoq sistema",
+    "Inersial sanoq sistema",
+    "Absolyut sanoq sistema",
+    "Noinersial sanoq sistema"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Egri chiziqli yoki tezlanish bilan harakatlanayotgan sanoq sistemalari qanday ataladi?",
+   "variantlar": [
+    "Inersial sanoq sistema",
+    "Noinersial sanoq sistema",
+    "Absolyut sanoq sistema",
+    "Statik sanoq sistema"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Galileyning nisbiylik prinsipiga ko'ra nima to'g'ri?",
+   "variantlar": [
+    "Har bir sanoq sistemasida mexanik jarayonlar har xil kechadi",
+    "Barcha inersial sanoq sistemalarida hamma mexanik jarayonlar bir xilda kechadi",
+    "Mexanik jarayonlar faqat tinch turgan sistemada kechadi",
+    "Mexanik jarayonlar noinersial sistemada bir xil kechadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'g'ri chiziqli tekis harakatlanayotgan kema ichidagi mexanik jarayonlar tinch turgandagidek kechishiga birinchi bo'lib e'tibor qaratgan olim kim?",
+   "variantlar": [
+    "Galiley",
+    "Nyuton",
+    "Olovuddin Ali al-Qushchi",
+    "Nikolay Orema"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yerning aylanishi uning ustida o'tkazilgan tajribalarga ta'sir qilmaydi, degan xulosaga kelgan o'rta asr olimlari kimlar?",
+   "variantlar": [
+    "Nikolay Orema va Olovuddin Ali al-Qushchi",
+    "Kopernik va Galiley",
+    "Arximed va Nyuton",
+    "Nyuton va Galiley"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Inersial sanoq sistemalarida qaysi kattaliklar invariant (o'zgarmas) bo'ladi?",
+   "variantlar": [
+    "Vaqt, massa, tezlanish va kuch",
+    "Faqat massa",
+    "Faqat tezlik",
+    "Faqat kuch"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Galileyning tezliklarni qo'shish qoidasi nimaga tegishli?",
+   "variantlar": [
+    "Kuchlarni ayirishga",
+    "Inersial sistemalarda jismlarning nisbiy va absolyut tezliklarini qo'shishga",
+    "Faqat vaqtni qo'shishga",
+    "Faqat massalarni qo'shishga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yerni nima uchun amalda inersial sanoq sistema deb qaraymiz?",
+   "variantlar": [
+    "Chunki u umuman aylanmaydi",
+    "Chunki uning aylanishidan hosil bo'lgan tezlanish juda kichik",
+    "Chunki u tezlanish bilan harakatlanadi",
+    "Chunki Quyosh atrofida tekis harakatlanmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yerning ekvatorda o'z o'qi atrofida aylanishidan hosil bo'lgan tezlanish qanchaga teng?",
+   "variantlar": [
+    "0,035 m/s2",
+    "9,8 m/s2",
+    "3,5 m/s2",
+    "35 m/s2"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Noinersial sanoq sistemalarida Nyuton qonunlaridan foydalanish uchun qo'shimcha nima kiritiladi?",
+   "variantlar": [
+    "Qo'shimcha massa",
+    "Tortishish kuchi",
+    "Inersiya kuchi",
+    "Ishqalanish kuchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ulkan kema ichida o'tkazilgan tajribada tepadan tashlangan buyum tik holda bir joyga tushdi. Bu nimani bildiradi?",
+   "variantlar": [
+    "Kema tezlanish bilan harakatlanayotgan edi",
+    "Kema tinch yoki to'g'ri chiziqli tekis harakatda edi",
+    "Tajriba noto'g'ri o'tkazilgan",
+    "Kema aylanayotgan edi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Poyezd vagonida odam vagonning harakat yo'nalishi bilan bir xil yo'nalishda yursa, uning Yerga nisbatan tezligi qanday topiladi?",
+   "variantlar": [
+    "u − v",
+    "Faqat u",
+    "u + v",
+    "Faqat v"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Odam poyezd harakat yo'nalishiga qarama-qarshi tomonga yursa, uning Yerga nisbatan tezligi qanday ifodalanadi?",
+   "variantlar": [
+    "u − v",
+    "u·v",
+    "u/v",
+    "u + v"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bir tekis oqayotgan daryoda oqim bo'ylab suzayotgan kema uchun sanoq sistemasi sifatida nimalarni olish mumkin?",
+   "variantlar": [
+    "Faqat kemaning o'zini",
+    "Faqat suvni",
+    "Faqat qirg'oqni",
+    "Qirg'oqni yoki suvni"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Aravachadagi mayatnik aravachaga nisbatan qo'zg'almas bo'lsa (anis = 0), Nyuton qonuni bajarilishi uchun qanday qo'shimcha kuch kiritiladi?",
+   "variantlar": [
+    "Ip taranglik kuchi",
+    "Tortishish kuchi",
+    "Inersiya kuchi",
+    "Ishqalanish kuchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yer o'z o'qi va Quyosh atrofida aylanishiga qaramay, nima sababdan amalda inersial sanoq sistemasiga kiritiladi?",
+   "variantlar": [
+    "Aylanishdan hosil bo'lgan tezlanishlar erkin tushish tezlanishiga nisbatan juda kichik bo'lgani uchun",
+    "Chunki Yer umuman harakatlanmaydi",
+    "Chunki Yer to'g'ri chiziqli harakatlanadi",
+    "Chunki Quyosh harakatsiz"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tinch turgan sistemada kuch F, massa m, tezlanish a bo'lsa, to'g'ri chiziqli tekis harakatlanayotgan sistemada F', m', a' qanday munosabatda bo'ladi?",
+   "variantlar": [
+    "F≠F', m≠m'",
+    "Faqat a = a'",
+    "F = F', m = m', a = a'",
+    "Faqat F = F'"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Harakatlanayotgan vagon ichidagi odamning ko'chishi nega Yerga nisbatan ko'chishidan farq qiladi?",
+   "variantlar": [
+    "Chunki massa o'zgaradi",
+    "Chunki vagon noinersial bo'ladi",
+    "Chunki vaqt o'zgaradi",
+    "Chunki vagon harakati tufayli ko'chishlar qo'shiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Inersiya kuchining ifodasi qaysi ikki kattalik ayirmasi orqali topiladi?",
+   "variantlar": [
+    "Absolyut va nisbiy tezlanish",
+    "Vaqt va kuch",
+    "Massa va tezlik",
+    "Tezlik va vaqt"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Egri chiziqli yoki tezlanish bilan harakatlanayotgan poyezd qanday sanoq sistemasi hisoblanadi?",
+   "variantlar": [
+    "Inersial",
+    "Noinersial",
+    "Statik",
+    "Absolyut"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Aravacha tezlanish bilan harakatlanayotganda mayatnik aravachaga nisbatan qo'zg'almas bo'lib qolsa, og'irlik kuchi, ip taranglik kuchi va inersiya kuchining yig'indisi nimaga teng bo'ladi?",
+   "variantlar": [
+    "Nolga",
+    "Cheksizlikka",
+    "Faqat og'irlik kuchiga",
+    "Musbat songa"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yer aslida aylanma harakat qilib, tezlanishga ega bo'lsa-da, uni inersial sanoq sistema deb olishning to'g'ri izohi qaysi?",
+   "variantlar": [
+    "Yerning aylanishidan hosil bo'lgan tezlanishlar juda kichik bo'lgani uchun harakatni tekis deb qarash mumkin",
+    "Yer Quyosh atrofida tezlanishsiz aylanadi",
+    "Yerda inersiya kuchi mavjud emas",
+    "Yer umuman aylanmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi holatda poyezd ichidagi jismlarga Nyuton qonunlarini inersiya kuchisiz to'g'ridan-to'g'ri qo'llash mumkin?",
+   "variantlar": [
+    "Ikkalasida ham bir xil",
+    "Faqat egri chiziqli harakatda",
+    "Faqat to'g'ri chiziqli tekis harakatlanganda",
+    "Faqat tezlanish bilan harakatlanganda"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun matnda inersial sanoq sistemalari \"juda kam mavjud\" deb ta'kidlangan?",
+   "variantlar": [
+    "Chunki massa doim o'zgaradi",
+    "Chunki kuch doim nolga teng bo'ladi",
+    "Chunki vaqt o'zgarmas emas",
+    "Chunki to'g'ri chiziqli tekis harakat kamdan kam uchraydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tezlanish bilan harakatlanayotgan vagonda, vagonga nisbatan tinch turgan jismga Nyuton ikkinchi qonunini qo'llash uchun qanday kuch(lar) hisobga olinishi kerak?",
+   "variantlar": [
+    "Hech qanday kuch ta'sir qilmaydi",
+    "Faqat tashqi kuchlar",
+    "Tashqi kuchlar bilan birgalikda inersiya kuchi",
+    "Faqat og'irlik kuchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir tekis oqayotgan daryoda sanoq sistema sifatida suvni yoki qirg'oqni olish mumkin. Bu haqida qanday to'g'ri xulosa chiqarish mumkin?",
+   "variantlar": [
+    "Kema tezligi hech qachon aniqlanmaydi",
+    "Faqat qirg'oq sanoq sistema bo'la oladi",
+    "Ikkala holatda kema tezligi hisoblashda bir xil son chiqadi",
+    "Sanoq sistemasiga ko'ra kemaning hisoblangan tezligi farqlanishi mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Vagon tezligi u = 10 m/s, odam vagon bo'ylab vagon harakatiga qarshi v = 3 m/s tezlik bilan yursa, odamning Yerga nisbatan tezligi qancha va yo'nalishi qanday bo'ladi?",
+   "variantlar": [
+    "7 m/s, vagonga teskari yo'nalishda",
+    "13 m/s, vagonga teskari yo'nalishda",
+    "13 m/s, vagon yo'nalishida",
+    "7 m/s, vagon yo'nalishida"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mayatnikli aravacha misolida aravachaning tezlanishi ab ortganda, inersiya kuchi formulasiga asosan nima o'zgaradi va bu mayatnikning og'ish burchagiga qanday ta'sir qiladi?",
+   "variantlar": [
+    "Mayatnik umuman og'maydi",
+    "Inersiya kuchi kamayadi, burchak kamayadi",
+    "Inersiya kuchi o'zgarmaydi",
+    "Inersiya kuchi ortadi, burchak ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yerni inersial sanoq sistema deb olish bilan tezlanish bilan harakatlanayotgan liftni noinersial deb olish orasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Lift doim inersial bo'ladi",
+    "Yerda umuman tezlanish yo'q, liftda bor",
+    "Ikkisi orasida farq yo'q",
+    "Yerning tezlanishi juda kichik, liftning tezlanishi sezilarli darajada katta bo'lgani uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar kema to'satdan tezlanish bilan harakatlansa, tepadan tashlangan buyum qanday tushishi kutiladi va bu nimani ko'rsatadi?",
+   "variantlar": [
+    "Tushmaydi",
+    "Og'ib tushadi, kema noinersial harakatda ekanini ko'rsatadi",
+    "Tik tushadi, kema tinch ekanini ko'rsatadi",
+    "Tezlanadi, kema inersial ekanini ko'rsatadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

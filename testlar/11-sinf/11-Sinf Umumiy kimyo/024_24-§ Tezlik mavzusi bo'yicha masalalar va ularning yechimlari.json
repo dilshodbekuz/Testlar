@@ -1,0 +1,337 @@
+{
+  "sinf": "11-sinf",
+  "kitob": "11-sinf 11-Sinf Umumiy kimyo",
+  "mavzu": "24-§ Tezlik mavzusi bo'yicha masalalar va ularning yechimlari",
+  "savollar": [
+    {
+      "savol": "1 minut necha sekundga teng?",
+      "variantlar": [
+        "60 s",
+        "30 s",
+        "100 s",
+        "6 s"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "1 soat necha minutga teng?",
+      "variantlar": [
+        "30 min",
+        "60 min",
+        "100 min",
+        "6 min"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Tezlikni mol/(l·s) dan mol/(l·min) ga o'tkazish uchun uni nimaga ko'paytiriladi?",
+      "variantlar": [
+        "10 ga",
+        "100 ga",
+        "60 ga",
+        "1000 ga"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "15 sekund necha minutga teng?",
+      "variantlar": [
+        "0,15 min",
+        "1,5 min",
+        "15 min",
+        "0,25 min"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Modda miqdorining o'zgarishi Δn qanday topiladi?",
+      "variantlar": [
+        "Boshlang'ich miqdor − oxirgi miqdor",
+        "Oxirgi miqdor − boshlang'ich miqdor + vaqt",
+        "Boshlang'ich miqdor + oxirgi miqdor",
+        "Hajm × vaqt"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Reaksiya vaqtini v = Δn / (V·v) orqali topish formulasi qaysi?",
+      "variantlar": [
+        "t = V·v / Δn",
+        "t = Δn / (V·v)",
+        "t = Δn·V / v",
+        "t = v / (Δn·V)"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Massa va modda miqdori orasidagi bog'lanish formulasi qaysi?",
+      "variantlar": [
+        "n = m × M",
+        "n = M / m",
+        "n = m / M",
+        "n = m + M"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Δm nima?",
+      "variantlar": [
+        "Moddaning hajmi",
+        "Moddaning zichligi",
+        "Moddaning molar massasi",
+        "Moddaning massa o'zgarishi (boshlang'ich massa − oxirgi massa)"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Qattiq moddalarning konsentratsiyasi reaksiya tezligi formulasida hisobga olinadimi?",
+      "variantlar": [
+        "Yo'q, hisobga olinmaydi",
+        "Ha, to'liq hisobga olinadi",
+        "Faqat yarmi hisobga olinadi",
+        "Faqat harorat ortganda"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Gazlar uchun bosim ortsa, reaksiya tezligi qanday o'zgaradi?",
+      "variantlar": [
+        "Kamayadi",
+        "Ortadi",
+        "O'zgarmaydi",
+        "Nolga teng bo'ladi"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Reaksiya tezligi formulasi v = k[CO]^3 bo'lsa, [CO] 4 marta kamaysa, tezlik necha marta kamayadi?",
+      "variantlar": [
+        "4 marta",
+        "16 marta",
+        "64 marta",
+        "12 marta"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 2 l idishda 12 mol modda 4 min davomida 4 mol gacha kamaydi. O'rtacha tezlik necha mol/(l·min)?",
+      "variantlar": [
+        "2 mol/(l·min)",
+        "0,5 mol/(l·min)",
+        "4 mol/(l·min)",
+        "1 mol/(l·min)"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 6 l idishda azot(II) oksid va kislorod reaksiyasida O2 miqdori 14 mol dan 6,5 mol gacha 15 s da kamaydi. O'rtacha tezlik necha mol/(l·min)?",
+      "variantlar": [
+        "5 mol/(l·min)",
+        "7,5 mol/(l·min)",
+        "2,5 mol/(l·min)",
+        "1 mol/(l·min)"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 6 l idishda vodorodning sarflanish tezligi 2,5 mol/(l·min). Vodorod massasi 100 g dan 10 g gacha kamaysa, davomiylik necha minut?",
+      "variantlar": [
+        "1,8 min",
+        "3 min",
+        "5 min",
+        "0,3 min"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 6 l idishda vodorodning sarflanish tezligi 2,5 mol/(l·min). Vodorod massasi 100 g dan 10 g gacha kamaysa, davomiylik necha sekund?",
+      "variantlar": [
+        "90 s",
+        "300 s",
+        "180 s",
+        "60 s"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Metanning sarflanish tezligi 2,2 mol/(l·min) bo'lib, 30 s davomida massasi 102,8 g dan 50 g gacha kamaydi. Reaktor hajmi necha litr?",
+      "variantlar": [
+        "2 l",
+        "6 l",
+        "1,5 l",
+        "3 l"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 3 l idishda tezlik 2 mol/(l·min) bo'lsa, 90 s davomida necha mol modda sarflanadi?",
+      "variantlar": [
+        "9 mol",
+        "6 mol",
+        "18 mol",
+        "3 mol"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 4 l idishda 12 mol modda 1,5 min davomida o'zgarib, tezlik 2 mol/(l·min) bo'lsa, Δn necha mol?",
+      "variantlar": [
+        "6 mol",
+        "12 mol",
+        "24 mol",
+        "3 mol"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Tezlik 0,5 mol/(l·s), hajm 2 l bo'lsa, 10 s davomida necha mol modda sarflanadi?",
+      "variantlar": [
+        "5 mol",
+        "20 mol",
+        "10 mol",
+        "2,5 mol"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Tezlik 0,3 mol/(l·s), hajm 2 l, vaqt 5 s bo'lsa, Δn necha mol?",
+      "variantlar": [
+        "1,5 mol",
+        "30 mol",
+        "0,3 mol",
+        "3 mol"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Reaksiyada 2 mol/(l·min) tezlikda Fe2O3 + 3CO reaksiyasi ... [CO] = 1 mol/l da tezlik 8 bo'lsa, bosim 4 marta kamaysa, tezlik necha bo'ladi? (v = k[CO]³)",
+      "variantlar": [
+        "0,125",
+        "8",
+        "2",
+        "0,5"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Hajmi noma'lum reaktorda osh tuzining sarflanish tezligi 1,25 mol/(l·min). 120 s davomida tuz massasi 1 kg dan 268,75 g gacha kamaydi. Reaktor hajmi necha litr? (M(NaCl) = 58,5 g/mol)",
+      "variantlar": [
+        "2,5 l",
+        "5 l",
+        "10 l",
+        "1 l"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Etanning sarflanish tezligi 1,6 mol/(l·min). 240 s davomida massasi 584 g dan 200 g gacha kamaydi. Reaktor hajmi necha litr? (M(C2H6) = 30 g/mol)",
+      "variantlar": [
+        "1 l",
+        "4 l",
+        "2 l",
+        "8 l"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Hajmi 2 l idishda tezlik 0,5 mol/(l·s) bo'lib, 4 s davom etdi. Δn necha mol?",
+      "variantlar": [
+        "2 mol",
+        "8 mol",
+        "1 mol",
+        "4 mol"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 3 l idishda 2 mol/(l·min) tezlik bilan 1,5 min davomida necha mol modda sarflanadi?",
+      "variantlar": [
+        "9 mol",
+        "6 mol",
+        "4,5 mol",
+        "12 mol"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "v = k[NO]²[O2] (k = 2, [NO] = 0,5 mol/l, [O2] = 4 mol/l) bo'lsa, reaksiya tezligi necha mol/(l·s)?",
+      "variantlar": [
+        "1",
+        "2",
+        "4",
+        "0,5"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Bosim 3 marta kamaysa, ikkinchi tartibli (v = k[A]²) reaksiya tezligi necha marta kamayadi?",
+      "variantlar": [
+        "3 marta",
+        "6 marta",
+        "9 marta",
+        "27 marta"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Fe2O3 + 3CO reaksiyasida (v = k[CO]³) [CO] 1 mol/l dan 2 mol/l gacha oshsa, tezlik necha marta ortadi?",
+      "variantlar": [
+        "2 marta",
+        "4 marta",
+        "64 marta",
+        "8 marta"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Hajmi 0,1 m³ (100 l) idishda tezlik 0,2 mol/(l·min) bo'lib, 2 min davom etgan reaksiyada Δn necha mol?",
+      "variantlar": [
+        "40 mol",
+        "20 mol",
+        "80 mol",
+        "4 mol"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Hajmi 5 l idishda tezlik 1 mol/(l·min) bo'lib, 3 min davom etgan reaksiyada sarflangan modda necha mol?",
+      "variantlar": [
+        "5 mol",
+        "15 mol",
+        "3 mol",
+        "30 mol"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    }
+  ]
+}

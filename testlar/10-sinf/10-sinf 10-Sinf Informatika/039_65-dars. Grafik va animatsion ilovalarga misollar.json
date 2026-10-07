@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "65-dars. Grafik va animatsion ilovalarga misollar",
+ "savollar": [
+  {
+   "savol": "65-dars qanday nomlanadi?",
+   "variantlar": [
+    "Grafik va animatsion ilovalarga misollar",
+    "Rasmga boshqa obyektlarni joylash",
+    "Delphida grafika bilan ishlash",
+    "Timer obyekti va undan foydalanish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "Piksellar ilovasida Image obyekti qanday o‘lchamda olinadi?",
+   "variantlar": [
+    "1000×1000",
+    "256×256",
+    "100×100",
+    "500×500"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "Piksellar ilovasida jami nechta rangli piksel tasvirlanadi?",
+   "variantlar": [
+    "256 ta",
+    "100000 ta",
+    "65536 ta",
+    "1000 ta"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "rang:=RGB(i,j,0); operatorida qaysi ikkita rang aralashtiriladi?",
+   "variantlar": [
+    "Qizil va ko‘k",
+    "Yashil va ko‘k",
+    "Barcha uchta rang",
+    "Qizil va yashil"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "Qizil va yashil ranglar aralashganda qanday rang hosil bo‘ladi?",
+   "variantlar": [
+    "Sariq rang",
+    "Pushti rang",
+    "Havo rang",
+    "Kulrang"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "Qizil va ko‘k ranglar aralashganda qanday rang hosil bo‘ladi?",
+   "variantlar": [
+    "Yashil rang",
+    "Pushti rang",
+    "Sariq rang",
+    "Havo rang"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "Yashil va ko‘k ranglar aralashganda qanday rang hosil bo‘ladi?",
+   "variantlar": [
+    "Pushti rang",
+    "Qizil rang",
+    "Havo rang",
+    "Sariq rang"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "Koptok ilovasida animatsiya yaratish uchun qaysi obyektdan foydalaniladi?",
+   "variantlar": [
+    "Button",
+    "Label",
+    "Edit",
+    "Timer"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "Koptok ilovasida harakat tezligi qaysi obyekt orqali belgilanadi?",
+   "variantlar": [
+    "SpinEdit",
+    "CheckBox",
+    "Label",
+    "Edit"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "Koptok ilovasida CheckBox nima uchun ishlatiladi?",
+   "variantlar": [
+    "Ilovani yopish uchun",
+    "Koptok izining ko‘rinish-ko‘rinmasligini belgilash uchun",
+    "Koptok rangini o‘zgartirish uchun",
+    "Koptok tezligini belgilash uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "Koptok ilovasida Timer ning Interval xossasi nechaga teng qilib o‘rnatiladi?",
+   "variantlar": [
+    "1000",
+    "10",
+    "50",
+    "100"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "Koptok holati sekundiga necha marta yangilanadi?",
+   "variantlar": [
+    "10 marta",
+    "50 marta",
+    "100 marta",
+    "20 marta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "Koptokning joriy holatini saqlash uchun qaysi o‘zgaruvchilar ishlatiladi?",
+   "variantlar": [
+    "x va y",
+    "dx va dy",
+    "i va j",
+    "n va m"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "Koptok harakatining yo‘nalishini saqlash uchun qaysi o‘zgaruvchilar ishlatiladi?",
+   "variantlar": [
+    "n va rang",
+    "dx va dy",
+    "x va y",
+    "i va j"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "x,y,dx,dy o‘zgaruvchilari qanday turda tavsiflanishi kerak?",
+   "variantlar": [
+    "Faqat matn turida",
+    "Faqat mantiqiy turda",
+    "Global o‘zgaruvchi sifatida (integer)",
+    "Faqat lokal o‘zgaruvchi sifatida"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "TForm1.FormCreate protsedurasida x,y,dx,dy ga qanday boshlang‘ich qiymatlar beriladi?",
+   "variantlar": [
+    "x:=1;y:=1;dx:=0;dy:=0;",
+    "x:=10;y:=10;dx:=5;dy:=5;",
+    "Qiymat berilmaydi",
+    "x:=0;y:=0;dx:=2;dy:=1;"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "Timer1Timer protsedurasida n o‘zgaruvchisiga qanday qiymat beriladi?",
+   "variantlar": [
+    "SpinEdit1.Value",
+    "CheckBox1.Checked",
+    "Image1.Width",
+    "0"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "if not CheckBox1.Checked then Image1.Canvas.Rectangle(...); qatori nima qiladi?",
+   "variantlar": [
+    "Rangni o‘zgartiradi",
+    "Bayroqcha o‘rnatilmagan bo‘lsa, oldingi holatni o‘chiradi",
+    "Bayroqchani o‘rnatadi",
+    "Koptokni to‘xtatadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "Koptok rasmning o‘ng chegarasidan o‘tib ketsa, nima sodir bo‘ladi?",
+   "variantlar": [
+    "Ilova to‘xtaydi",
+    "Rang o‘zgaradi",
+    "x qayta hisoblanib, dx teskarisiga o‘zgartiriladi",
+    "Koptok yo‘qoladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "Koptokning yangi holati qaysi usul bilan chiziladi?",
+   "variantlar": [
+    "Image1.Canvas.Rectangle",
+    "Image1.Canvas.Arc",
+    "Image1.Canvas.TextOut",
+    "Image1.Canvas.Ellipse"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "Delphi da necha milliondan ortiq rang mavjud (Yodda saqlang)?",
+   "variantlar": [
+    "16 milliondan ortiq",
+    "1 milliondan ortiq",
+    "100 milliondan ortiq",
+    "10 milliondan ortiq"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Barcha ranglar qaysi uchta asosiy rangni turli nisbatda qo‘shish bilan yaratiladi?",
+   "variantlar": [
+    "Yashil, sariq, pushti",
+    "Qizil, yashil, ko‘k",
+    "Qizil, sariq, ko‘k",
+    "Oq, qora, kulrang"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Savol-topshiriqda Piksellar ilovasida nechta pikselning rangi o‘zgarishi so‘raladi?",
+   "variantlar": [
+    "Faqat 256 ta piksel",
+    "Faqat 100 ta piksel",
+    "Nechta pikselning rangi o‘zgarishi aniqlanishi so‘raladi (65536 ta)",
+    "Faqat bitta piksel"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Savol-topshiriqda koptok tezligi qanday o‘zgartirilishi so‘raladi?",
+   "variantlar": [
+    "CheckBox orqali",
+    "Label orqali",
+    "Ilovani qayta yozish orqali",
+    "SpinEdit orqali"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Savol-topshiriqning 6-bandida dx va dy boshlang‘ich qiymatlarini necha xil kombinatsiyasi sinab ko‘rish so‘raladi?",
+   "variantlar": [
+    "To‘rtta kombinatsiya",
+    "Ikkita kombinatsiya",
+    "Beshta kombinatsiya",
+    "Bitta kombinatsiya"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Uyga vazifada Piksellar ilovasida kvadratning uchlari haqida nima so‘raladi?",
+   "variantlar": [
+    "Nechta uchga ega bo‘lishi",
+    "Qanday rangda va qaysi ranglar aralashishidan hosil bo‘lishi",
+    "Qancha hajm egallashi",
+    "Qaysi burchakda joylashishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Koptok rasmning yuqori yoki pastki chegarasidan o‘tib ketsa, qaysi o‘zgaruvchi teskarisiga o‘zgaradi?",
+   "variantlar": [
+    "x",
+    "y faqat",
+    "dy",
+    "dx"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "Agar CheckBox1.Checked rost bo‘lsa (“izi bilan” belgilangan bo‘lsa), koptokning oldingi holati nima bo‘ladi?",
+   "variantlar": [
+    "Darhol o‘chiriladi",
+    "Qizil rangga o‘zgaradi",
+    "Ilova to‘xtaydi",
+    "O‘chirilmaydi, iz sifatida qolib ketadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "n:=SpinEdit1.Value; qatorida olingan qiymat protsedurada nimaga ta’sir qiladi?",
+   "variantlar": [
+    "Koptokning har bir qadamdagi siljish miqdoriga (tezligiga)",
+    "Koptok rangiga",
+    "Koptok shakliga",
+    "Timer intervaliga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "Koptok ilovasida ellips qaysi o‘lchamda chiziladi (Ellipse(x-10,y-10,x+10,y+10))?",
+   "variantlar": [
+    "Kvadrat shakl",
+    "Markazi (x,y) bo‘lgan, radiusi taxminan 10 ga teng ellips",
+    "Butun ekranni egallagan ellips",
+    "Faqat bitta nuqta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Matematika 2-qism",
+ "mavzu": "71–72 Tasodifiy hodisalar haqida qo'shimcha tushunchalar",
+ "savollar": [
+  {
+   "savol": "Tajriba natijasida ro'y berishi ham, ro'y bermasligi ham mumkin bo'lgan hodisa qanday hodisa deyiladi?",
+   "variantlar": [
+    "Tasodifiy hodisa",
+    "Teng imkoniyatli hodisa",
+    "Ro'y berishi mumkin bo'lmagan hodisa",
+    "Muqarrar hodisa"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tajriba natijasida har gal albatta ro'y beradigan hodisa qanday ataladi va qaysi harf bilan belgilanadi?",
+   "variantlar": [
+    "Muqarrar hodisa, U",
+    "Ro'y berishi mumkin bo'lmagan hodisa, U",
+    "Muqarrar hodisa, V",
+    "Tasodifiy hodisa, A"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ro'y berishi mumkin bo'lmagan hodisa qaysi harf bilan belgilanadi?",
+   "variantlar": [
+    "V",
+    "A",
+    "U",
+    "P"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ehtimollikning klassik ta'rifiga ko'ra, A hodisaning ehtimolligi P(A) qanday topiladi (k – qulaylik tug'diruvchi imkoniyatlar soni, n – barcha imkoniyatlar soni)?",
+   "variantlar": [
+    "P(A) = k / n",
+    "P(A) = k · n",
+    "P(A) = n − k",
+    "P(A) = n / k"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tanga tashlanganda gerbli tomon chiqishi ehtimolligi nimaga teng?",
+   "variantlar": [
+    "0",
+    "1/3",
+    "1",
+    "1/2"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Muqarrar hodisaning ehtimolligi nimaga teng?",
+   "variantlar": [
+    "1/2",
+    "0",
+    "n",
+    "1"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ro'y berishi mumkin bo'lmagan hodisaning ehtimolligi nimaga teng?",
+   "variantlar": [
+    "k",
+    "0",
+    "1",
+    "1/2"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi hodisalardan qaysi biri o'yin kubi tashlanganda ro'y berishi mumkin bo'lmagan hodisa?",
+   "variantlar": [
+    "7 raqamining chiqishi",
+    "5 raqamining chiqishi",
+    "1 dan 6 gacha qandaydir raqamning chiqishi",
+    "Juft raqamning chiqishi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ehtimollikni belgilovchi P harfi qaysi inglizcha so'zning bosh harfi?",
+   "variantlar": [
+    "percent",
+    "property",
+    "probability",
+    "point"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tajribalar n ta o'tkazilib, A hodisa µ marta ro'y bergan bo'lsa, µ/n nisbat nima deyiladi?",
+   "variantlar": [
+    "Muqarrar hodisa",
+    "A hodisasining ro'y berish chastotasi",
+    "Klassik ehtimollik",
+    "Teng imkoniyatlar soni"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1000 ta mahsulotdan 20 tasi yaroqsiz. Tavakkaliga olingan mahsulotning yaroqsiz bo'lish ehtimolligi protsentlarda qancha?",
+   "variantlar": [
+    "20%",
+    "5%",
+    "2%",
+    "0,2%"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Maktabda 800 ta bola o'qiydi, ulardan 80 tasi a'lochi. Tasodifiy tanlangan o'quvchining a'lochi bo'lish ehtimolligi qancha?",
+   "variantlar": [
+    "8%",
+    "1%",
+    "80%",
+    "10%"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Savatda 30 ta qizil olma va 20 ta nashvati nok bor. Tavakkaliga olingan mevaning nok bo'lish ehtimolligi qancha?",
+   "variantlar": [
+    "3/5",
+    "2/3",
+    "2/5",
+    "1/2"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Idishda 10 ta oq va 20 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligi qancha?",
+   "variantlar": [
+    "1/10",
+    "2/3",
+    "1/3",
+    "1/2"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Idishda 1 dan 15 gacha sonlar yozilgan 15 ta shar bor. Tasodifiy olingan sharda yozilgan sonning 5 ga bo'linish ehtimolligi qancha?",
+   "variantlar": [
+    "1/15",
+    "2/15",
+    "1/3",
+    "1/5"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hamidulla 50 ta yozma ish variantidan 5 tasini yechishni bilmaydi. Unga berilgan variantni bilish ehtimolligi qancha?",
+   "variantlar": [
+    "10%",
+    "90%",
+    "5%",
+    "45%"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "100 000 ta lotereya chiptasidan 25 000 tasi yutuqli. Tavakkaliga olingan chiptaning yutuqli emas bo'lish ehtimolligi qancha?",
+   "variantlar": [
+    "75%",
+    "50%",
+    "25%",
+    "7,5%"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tanga 200 marta tashlanganda gerbli tomon 96 marta chiqdi. Gerb chiqish chastotasi qancha?",
+   "variantlar": [
+    "0,48",
+    "0,96",
+    "0,5",
+    "0,52"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Idishda 18 ta ko'k, 15 ta qora va 17 ta qizil qalam bor. Tavakkaliga olingan qalamning qizil bo'lish ehtimolligi qancha?",
+   "variantlar": [
+    "1/3",
+    "15/50",
+    "17/33",
+    "17/50"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kubning yoqlari oq yoki yashil rangga bo'yalgan. Oq yoq chiqish ehtimolligi 1/3, yashil yoq chiqish ehtimolligi 2/3. Kubning nechta yog'i yashil?",
+   "variantlar": [
+    "2 ta",
+    "5 ta",
+    "4 ta",
+    "3 ta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Idishda o'lchamlari bir xil 10 ta ko'k, 25 ta yashil, 15 ta qora qalam bor. Ko'k qalam albatta chiqishi uchun idishdan bir yo'la eng kamida nechta qalam olish kerak?",
+   "variantlar": [
+    "40",
+    "50",
+    "11",
+    "41"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Idishdagi sharlarning 40% i oq, 1/3 qismi qora, qolganlari qizil. Qaysi rangdagi shar olinish ehtimolligi eng kam?",
+   "variantlar": [
+    "Qora",
+    "Qizil",
+    "Oq",
+    "Hammasining ehtimolligi teng"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita kub baravar tashlandi. Yuqori yoqlardagi raqamlar yig'indisi 7 bo'lish ehtimolligi qancha?",
+   "variantlar": [
+    "1/6",
+    "1/12",
+    "1/7",
+    "7/36"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "6, 7, 8 raqamlaridan ularni takrorlamasdan 3 xonali sonlar tuzildi. Juft raqamlarning yonma-yon joylashish ehtimolligi qancha?",
+   "variantlar": [
+    "1/6",
+    "1/2",
+    "1/3",
+    "2/3"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita tanga baravar tashlandi. Kamida bitta gerbli tomon chiqish ehtimolligi qancha?",
+   "variantlar": [
+    "3/4",
+    "1/2",
+    "2/3",
+    "1/4"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "5 ta idishda sharlar: 1-da 20 yashil va 60 oq; 2-da 30 yashil va 90 oq; 3-da 18 yashil va 32 oq; 4-da 25 yashil va 75 oq; 5-da oq, yashil, qora sharlar teng miqdorda. Yashil shar olish ehtimolligi eng katta bo'lishi uchun qaysi idish tanlanadi?",
+   "variantlar": [
+    "4-idish",
+    "5-idish",
+    "1-idish",
+    "3-idish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Idishda 21 dan 100 gacha (100 ham kiradi) natural sonlar yozilgan bir xil qog'ozchalar bor. Tavakkaliga olingan qog'ozchadagi sonning 7 ga bo'linish ehtimolligi qancha?",
+   "variantlar": [
+    "1/7",
+    "3/20",
+    "11/80",
+    "12/79"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Idishda 251 dan 1000 gacha natural sonlar yozilgan bir xil qog'ozchalar bor. Tavakkaliga olingan qog'ozchadagi sonning 25 ga bo'linish ehtimolligi qancha?",
+   "variantlar": [
+    "4/100",
+    "1/30",
+    "1/25",
+    "3/75"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tanga 3 marta tashlandi. Aynan 2 marta gerbli tomon chiqish ehtimolligi qancha?",
+   "variantlar": [
+    "1/2",
+    "3/8",
+    "1/4",
+    "1/8"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

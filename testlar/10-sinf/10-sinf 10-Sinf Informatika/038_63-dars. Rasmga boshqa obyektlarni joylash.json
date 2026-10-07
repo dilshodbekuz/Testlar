@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "63-dars. Rasmga boshqa obyektlarni joylash",
+ "savollar": [
+  {
+   "savol": "63-dars qanday nomlanadi?",
+   "variantlar": [
+    "Rasmga boshqa obyektlarni joylash",
+    "Delphida grafika bilan ishlash",
+    "Grafik va animatsion ilovalarga misollar",
+    "Timer obyekti va undan foydalanish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "Rasmga matn joylash uchun Canvasning qaysi usulidan foydalaniladi?",
+   "variantlar": [
+    "Pixels",
+    "TextOut",
+    "Rectangle",
+    "Ellips"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "TextOut usuli nechta argumentga ega?",
+   "variantlar": [
+    "To‘rtta",
+    "Beshta",
+    "Uchta",
+    "Ikkita"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "TextOut usulining dastlabki ikki argumenti nimani bildiradi?",
+   "variantlar": [
+    "Matnning rangini",
+    "Matnning shriftini",
+    "Matnning uzunligini",
+    "Matn chiqariladigan sohaning chap yuqori burchagi koordinatalarini"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "TextOut usulining uchinchi argumenti nima?",
+   "variantlar": [
+    "Ekranga chiqariladigan matn satri",
+    "Shrift o‘lchami",
+    "Rang kodi",
+    "Koordinata"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "Rasmga qo‘yiladigan yozuvning shriftini qaysi xossa belgilaydi?",
+   "variantlar": [
+    "Canvas.Pixels",
+    "Canvas.Font",
+    "Canvas.Pen",
+    "Canvas.Brush"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "Shrift o‘lchamini belgilash uchun qaysi xossa ishlatiladi?",
+   "variantlar": [
+    "Font.Name",
+    "Font.Style",
+    "Font.Size",
+    "Font.Color"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "Shrift rangini belgilash uchun qaysi xossa ishlatiladi?",
+   "variantlar": [
+    "Font.Size",
+    "Font.Name",
+    "Pen.Width",
+    "Font.Color"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "Ellips yoyini rasmga qo‘shish uchun qaysi usul ishlatiladi?",
+   "variantlar": [
+    "arc",
+    "Chord",
+    "pie",
+    "TextOut"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "Ellips sektorini rasmga qo‘shish uchun qaysi usul ishlatiladi?",
+   "variantlar": [
+    "TextOut",
+    "pie",
+    "arc",
+    "Chord"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "Ellips segmentini rasmga qo‘shish uchun qaysi usul ishlatiladi?",
+   "variantlar": [
+    "pie",
+    "TextOut",
+    "Chord",
+    "arc"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "Arc, Chord, Pie usullari nechta argumentga ega?",
+   "variantlar": [
+    "To‘rtta",
+    "Ikkita",
+    "O‘nta",
+    "Sakkizta (x1,y1,x2,y2,x3,y3,x4,y4)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "Arc usulida (x1,y1) va (x2,y2) nuqtalar nimani bildiradi?",
+   "variantlar": [
+    "Ellips ichki chizilgan to‘g‘ri to‘rtburchak uchlarini",
+    "Yoy boshlanish nuqtasini",
+    "Yoy tugash nuqtasini",
+    "Markazni"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "Arc usulida (x3,y3) va (x4,y4) nuqtalar nimani bildiradi?",
+   "variantlar": [
+    "Shrift o‘lchamini",
+    "Markazni kesilgan nuqtalar bilan birlashtiruvchi chiziqlarni aniqlaydi",
+    "Ellipsning o‘lchamini",
+    "Chiziq rangini"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "Arc usulida uchinchi nuqtadan to‘rtinchi nuqtaga qanday yo‘nalishda harakatlanadi?",
+   "variantlar": [
+    "Chapdan o‘ngga to‘g‘ri chiziq bo‘ylab",
+    "Pastdan yuqoriga",
+    "Soat miliga teskari yo‘nalishda",
+    "Soat mili yo‘nalishida"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "Image1.Canvas.TextOut(10,20, 'Salom!'); operatori qanday natija beradi?",
+   "variantlar": [
+    "Rasmni o‘chiradi",
+    "Rasmni kattalashtiradi",
+    "Rangni o‘zgartiradi",
+    "(10,20) nuqtadan boshlab “Salom!” yozuvini chiqaradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "Shriftni Times New Roman ga almashtirganda nima yaxshilanadi (matnga ko‘ra)?",
+   "variantlar": [
+    "Ekrandagi matn sifati",
+    "Shrift rangi",
+    "Oyna o‘lchami",
+    "Dastur tezligi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "Savol-topshiriqda rasmga nechta matn satri kiritadigan ilova yaratish so‘raladi?",
+   "variantlar": [
+    "Hech qanday satr",
+    "Bir nechta matn satri",
+    "Faqat bitta satr",
+    "Faqat ikkita satr"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "Savol-topshiriqda rasmga nechta geometrik shakl kiritadigan ilova yaratish so‘raladi?",
+   "variantlar": [
+    "Faqat ikkita shakl",
+    "Hech qanday shakl",
+    "Bir nechta geometrik shakl",
+    "Faqat bitta shakl"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "Uyga vazifada rasmga qanday obyekt qo‘yish so‘raladi (1-band)?",
+   "variantlar": [
+    "Diagramma",
+    "Jadval",
+    "Fayl",
+    "Matn"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "Uyga vazifada rasmga qanday obyekt qo‘yish so‘raladi (2-band)?",
+   "variantlar": [
+    "Ellips yoyi",
+    "To‘g‘ri to‘rtburchak",
+    "Matn",
+    "Rasm fayli"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "YODDA SAQLANGga ko‘ra rasmga nimalar joylash mumkin?",
+   "variantlar": [
+    "Faqat ranglar",
+    "Matn va geometrik shakllar",
+    "Faqat matn",
+    "Faqat shakllar"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Matnda keltirilgan misolda shrift o‘lchami 8 dan 50 gacha necha marta o‘zgartiriladi?",
+   "variantlar": [
+    "Uch marta",
+    "To‘rt marta",
+    "Oltita marta (8,14,20,30,40,50)",
+    "Ikki marta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Image1.Canvas.Font.Color:=RGB(255,0,255); operatori qanday rangni belgilaydi?",
+   "variantlar": [
+    "Qizil rangni",
+    "Yashil rangni",
+    "Ko‘k rangni",
+    "Pushti (magenta) rangni"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Arc va Chord usullari o‘rtasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Chord nuqtalarni to‘g‘ri chiziq bilan ham birlashtiradi, Arc esa faqat yoyni chizadi",
+    "Ikkalasi bir xil natija beradi",
+    "Arc faqat to‘g‘ri chiziq chizadi",
+    "Chord faqat matn chiqaradi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Pie usuli chizgan shakl qanday ko‘rinishga ega bo‘ladi?",
+   "variantlar": [
+    "To‘rtburchak",
+    "Ellips sektori (pirog bo‘lagiga o‘xshash)",
+    "To‘liq ellips",
+    "To‘g‘ri chiziq"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Rasmga matn va shakllarni birga joylash orqali qanday ilovalar yaratish mumkin?",
+   "variantlar": [
+    "Faqat ovozli ilovalar",
+    "Faqat tarmoq ilovalari",
+    "Vizual jihatdan boy va tushunarli ilovalar",
+    "Faqat matnli ilovalar"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "Image1.Canvas.Font.Name:='Times New Roman'; operatori nimani o‘zgartiradi?",
+   "variantlar": [
+    "Shrift rangini",
+    "Shrift o‘lchamini",
+    "Matn pozitsiyasini",
+    "Shrift turini"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "Ellips yoyi, segmenti va sektorini chizish usullari (Arc, Chord, Pie) qaysi obyektning qismi hisoblanadi?",
+   "variantlar": [
+    "Canvas obyektining",
+    "Font obyektining",
+    "Pen obyektining",
+    "Brush obyektining"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "Rasmga matn joylashda shrift o‘lchamini o‘zgartirish uchun qanday operator yoziladi?",
+   "variantlar": [
+    "Image1.Width:=14;",
+    "Image1.Canvas.Font.Size:=14;",
+    "Image1.Canvas.Font.Color:=14;",
+    "Image1.Canvas.TextOut:=14;"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

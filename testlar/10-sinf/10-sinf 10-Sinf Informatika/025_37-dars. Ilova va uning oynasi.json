@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "37-dars. Ilova va uning oynasi",
+ "savollar": [
+  {
+   "savol": "37-dars qanday nomlanadi?",
+   "variantlar": [
+    "Ilova va uning oynasi",
+    "Delphi dasturlash muhiti",
+    "Boshqarish tugmasidan foydalanish",
+    "ShowMessage oynasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "Delphini ishga tushirish uchun Windows ish stolida qaysi tugma bosiladi?",
+   "variantlar": [
+    "Tab",
+    "Пуск (Boshlash)",
+    "Enter",
+    "Esc"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "Delphida yangi ilova yaratish uchun asosiy menyuning qaysi bo‘limi tanlanadi?",
+   "variantlar": [
+    "View – Toolbar",
+    "Help – About",
+    "File – New – Application",
+    "Edit – Copy"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "Ilovani joriy nomi bilan saqlash uchun qaysi buyruq ishlatiladi?",
+   "variantlar": [
+    "Save as",
+    "Save Project as",
+    "Save All",
+    "Save"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "Ilovani yangi nomda saqlash uchun qaysi buyruq ishlatiladi?",
+   "variantlar": [
+    "Save as",
+    "Save",
+    "Save All",
+    "Open"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "Ilovaning barcha fayllarini saqlash uchun qaysi buyruq ishlatiladi?",
+   "variantlar": [
+    "Save Project as",
+    "Save All",
+    "Save",
+    "Save as"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "Ilova oynasining asosiy xossalari nimalardan iborat?",
+   "variantlar": [
+    "Faqat shrifti",
+    "Faqat nomi",
+    "O‘lchamlari va ekrandagi o‘rni",
+    "Faqat rangi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "Obyekt xossalarini o‘zgartirish uchun qaysi oyna ishlatiladi?",
+   "variantlar": [
+    "Dastur kodi oynasi",
+    "Uskunalar paneli",
+    "Sarlavha satri",
+    "Object Inspector (Obyekt inspektori)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "Ilova oynasi kengligi qaysi xossa bilan belgilanadi?",
+   "variantlar": [
+    "Width",
+    "Height",
+    "Caption",
+    "Color"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "Ilova oynasi balandligi qaysi xossa bilan belgilanadi?",
+   "variantlar": [
+    "Top",
+    "Height",
+    "Width",
+    "Left"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "Ilova oynasi sarlavhasi qaysi xossa bilan belgilanadi?",
+   "variantlar": [
+    "Height",
+    "Color",
+    "Caption",
+    "Width"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "Ilova oynasi foni rangi qaysi xossa bilan belgilanadi?",
+   "variantlar": [
+    "Caption",
+    "Font",
+    "Border",
+    "Color"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "Ilova oynasining chap tomonidan qoladigan joy qaysi xossa bilan belgilanadi?",
+   "variantlar": [
+    "Left",
+    "Top",
+    "Width",
+    "Height"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "Ilova oynasining tepasidan qoladigan joy qaysi xossa bilan belgilanadi?",
+   "variantlar": [
+    "Height",
+    "Top",
+    "Left",
+    "Width"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "Matnda Form1.Width:=400; qanday natija beradi?",
+   "variantlar": [
+    "Ilova oynasi rangi o‘zgaradi",
+    "Ilova yopiladi",
+    "Ilova oynasi kengligi 400 ga teng bo‘ladi",
+    "Ilova oynasi balandligi 400 ga teng bo‘ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "Matnda Form1.Caption:= 'Mening birinchi ilovam'; nima qiladi?",
+   "variantlar": [
+    "Ilova oynasi rangini o‘zgartiradi",
+    "Ilovani o‘chiradi",
+    "Ilovani saqlaydi",
+    "Ilova oynasi sarlavhasini o‘zgartiradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "Form1.Color:='ClAqua'; buyrug‘i natijasida ilova oynasi foni qanday rangga o‘zgaradi?",
+   "variantlar": [
+    "Havorang",
+    "Qizil",
+    "Sariq",
+    "Yashil"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "Ilovani ishga tushirishning nechta usuli bor?",
+   "variantlar": [
+    "To‘rt xil usul",
+    "Uch xil usul",
+    "Ikki xil usul",
+    "Bitta usul"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "Ilovani klaviaturadan qaysi tugma bilan ishga tushirish mumkin?",
+   "variantlar": [
+    "Enter",
+    "Esc",
+    "F9",
+    "F5"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "Ilova bilan ishlashni tugatish uchun qaysi tugma bosiladi?",
+   "variantlar": [
+    "F9 tugmasi",
+    "Enter tugmasi",
+    "Save tugmasi",
+    "Oynaning o‘ng yuqori burchagidagi X tugmasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "Object Inspector oynasida nechtadan ortiq xossa alifbo tartibida keltirilgan?",
+   "variantlar": [
+    "50 dan ortiq",
+    "10 dan ortiq",
+    "5 ta",
+    "100 dan ortiq"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Agar kerakli xossa Object Inspector oynasida ko‘rinmasa, uni qanday topish mumkin?",
+   "variantlar": [
+    "Internetdan qidirib",
+    "O‘ng tomondagi vertikal surgichni surib",
+    "Dasturni qayta o‘rnatib",
+    "Kompyuterni qayta ishga tushirib"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Delphi 7 ni Boshlash menyusiga yoki masalalar paneliga joylash uchun qanday amal bajariladi?",
+   "variantlar": [
+    "Faqat qayta yuklab olinadi",
+    "Imkoni yo‘q",
+    "Sichqonchaning o‘ng tugmasi bilan mavzubop menyudan tegishli band tanlanadi",
+    "Faqat qayta o‘rnatiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Agar oldingi ilova saqlanmagan bo‘lsa, yangi ilova yaratishda Delphi nima qiladi?",
+   "variantlar": [
+    "Avtomatik o‘chiradi",
+    "Hech narsa demaydi",
+    "Darhol yopiladi",
+    "Saqlash haqida ogohlantiradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Savol-topshiriqda o‘lchamlari qanday bo‘lgan ilova oynasi yaratish so‘raladi?",
+   "variantlar": [
+    "600 ga 800",
+    "400 ga 300",
+    "100 ga 50",
+    "1000 ga 1000"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Savol-topshiriqda fonning qanday rangda bo‘lgan ilova oynasi yaratish so‘raladi?",
+   "variantlar": [
+    "Kulrang",
+    "Och sariq",
+    "Qizil",
+    "Qora"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Uyga vazifada ilovani saqlashning nechta usuli borligi so‘raladi?",
+   "variantlar": [
+    "Faqat 2 usul",
+    "Umuman usul yo‘qligi",
+    "Necha xil usul borligi (4 ta)",
+    "Faqat 1 usul"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "Ilova oynasini sichqoncha yordamida o‘lchamini o‘zgartirish uchun qaysi joyini surish kerak?",
+   "variantlar": [
+    "Chap yuqori burchagini",
+    "Markazini",
+    "Sarlavha satrini",
+    "O‘ng quyi burchagini"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "Yodda saqlangga ko‘ra Form1 obyekti nechta xossaga ega?",
+   "variantlar": [
+    "50 dan ortiq",
+    "10 dan kam",
+    "Faqat 5 ta",
+    "100 dan ortiq"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "Delphi 7 yorlig‘ini ish stoliga olib chiqish uchun qanday amal bajariladi?",
+   "variantlar": [
+    "Faqat Enter bosish",
+    "Menyudagi bandni sichqoncha bilan ish stoliga sudrab olib borish",
+    "Faqat Save tugmasi bosish",
+    "Faqat F9 tugmasi bosish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

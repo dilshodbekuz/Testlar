@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Fizika",
+ "mavzu": "Inson hayotida issiqlik dvigatellarining ahamiyati. Issiqlik dvigatellari va ekologiya",
+ "savollar": [
+  {
+   "savol": "Issiqlik dvigatellariga qaysi qurilmalar kiradi?",
+   "variantlar": [
+    "Faqat yadro reaktorlari",
+    "Faqat elektr dvigatellari",
+    "Bug' mashinasi, bug' turbinasi, ichki yonuv dvigateli, reaktiv dvigatel",
+    "Faqat shamol generatorlari"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bug' mashinasi va bug' turbinasida isitkich vazifasini nima bajaradi?",
+   "variantlar": [
+    "Porshen",
+    "Bug' qozoni",
+    "Atmosfera",
+    "Kondensator"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bug' mashinasida sovitkich vazifasini nima bajaradi?",
+   "variantlar": [
+    "Silindr",
+    "Bug' qozoni",
+    "Atmosfera yoki kondensator",
+    "Forsunka"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ichki yonuv dvigatelida isitkich va ishchi modda vazifasini nima bajaradi?",
+   "variantlar": [
+    "Bug'",
+    "Yonilg'i",
+    "Havo",
+    "Suv"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ichki yonuv dvigatelida sovitkich vazifasini nima bajaradi?",
+   "variantlar": [
+    "Karburator",
+    "Kondensator",
+    "Atmosfera",
+    "Bug' qozoni"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Karburator qanday vazifani bajaradi?",
+   "variantlar": [
+    "Bug'ni siqadi",
+    "Yonilg'i va havo aralashmasini tayyorlaydi",
+    "Elektr toki hosil qiladi",
+    "Gazni sovitadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Amalda ichki yonuv dvigatellarining FIK qancha foizni tashkil etadi?",
+   "variantlar": [
+    "80-90%",
+    "5-10%",
+    "20-30%",
+    "50-60%"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dizel dvigatelining FIK taxminan necha foizni tashkil qiladi?",
+   "variantlar": [
+    "20%",
+    "70%",
+    "10%",
+    "40%"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Reaktiv dvigatellarning FIK necha foizgacha yetishi mumkin?",
+   "variantlar": [
+    "20%",
+    "40%",
+    "60%",
+    "90%"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yuqori FIK ga ega va ancha arzon yoqilg'ida ishlaydigan dvigatelni kim yaratgan?",
+   "variantlar": [
+    "Jeyms Uott",
+    "Isaak Nyuton",
+    "Nemis muhandisi Dizel",
+    "Sadi Karno"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'rt taktli karburatorli dvigatelning birinchi takti (so'rish) grafikda qaysi jarayon bilan ifodalanadi?",
+   "variantlar": [
+    "Adiabatik (1-2)",
+    "Izobarik (0-1)",
+    "Izoxorik (2-3)",
+    "Izotermik"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkinchi takt (siqish) qanday termodinamik jarayonga mos keladi?",
+   "variantlar": [
+    "Izobarik",
+    "Izoxorik",
+    "Izotermik",
+    "Adiabatik (1-2)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Uchinchi takt (chaqnab yonish) boshida gaz bosimining keskin ortishi grafikda qaysi jarayonga mos keladi?",
+   "variantlar": [
+    "Izoxorik (2-3)",
+    "Adiabatik (3-4)",
+    "Adiabatik (1-2)",
+    "Izobarik (0-1)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "To'rtinchi takt (chiqarish) qaysi jarayonga mos keladi?",
+   "variantlar": [
+    "Izobarik",
+    "Izotermik",
+    "Adiabatik",
+    "Izoxorik (4-1)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ichki yonuv dvigatelining FIK ni oshirish uchun nima qilish kerak?",
+   "variantlar": [
+    "Silindr hajmini kamaytirish",
+    "Klapanlarni kattalashtirish",
+    "Yonilg'i aralashmasini ko'proq siqish",
+    "Porshenni yengillashtirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun ichki yonuv dvigatellarida yonilg'i aralashmasini juda qattiq siqib bo'lmaydi?",
+   "variantlar": [
+    "Klapanlar yopilmay qoladi",
+    "Silindr yorilib ketadi",
+    "Porshen harakatlanmay qoladi",
+    "Siqilgan aralashma qizib, o'z-o'zidan yonib ketishi mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dizel dvigatelida yoqilg'ining yonish jarayoni qanday sharoitda ro'y beradi?",
+   "variantlar": [
+    "O'zgarmas hajmda",
+    "Vakuumda",
+    "O'zgarmas bosimda",
+    "O'zgarmas temperaturada"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Karburatorli dvigatelda yonish jarayoni qanday sharoitda ro'y beradi?",
+   "variantlar": [
+    "O'zgarmas zichlikda",
+    "O'zgarmas bosimda",
+    "O'zgarmas temperaturada",
+    "O'zgarmas hajmda"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Reaktiv dvigatelda tortish kuchi qaysi fizik qonunga asosan vujudga keladi?",
+   "variantlar": [
+    "Impulsning saqlanish qonuni",
+    "Energiyaning saqlanish qonuni",
+    "Nyutonning birinchi qonuni",
+    "Arximed qonuni"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hisob-kitoblarga ko'ra, Yer yuzida har yili qancha ko'mir yoqiladi?",
+   "variantlar": [
+    "2 milliard tonna",
+    "500 million tonna",
+    "5 milliard tonna",
+    "1 milliard tonna"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Karburatorli dvigatel diagrammasida nega 3-4 qismdagi kengayish 1-2 qismdagi siqilishdan kattaroq bosimda ro'y berishi dvigatelning foydali ish bajarishiga olib keladi?",
+   "variantlar": [
+    "Chunki klapanlar yopiq qoladi",
+    "Chunki hajm o'zgarmay qoladi",
+    "Chunki bu holda kengayishdagi musbat ish siqilishdagi manfiy ishdan katta bo'ladi",
+    "Chunki bosim farqi temperaturani pasaytiradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nega 3-2 va 4-1 izoxorik jarayonlarda gaz bajargan ish nolga teng bo'ladi?",
+   "variantlar": [
+    "Chunki hajm o'zgarmaydi (V=const)",
+    "Chunki temperatura o'zgarmaydi",
+    "Chunki bosim o'zgarmaydi",
+    "Chunki issiqlik almashinuvi yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dizel dvigatelining karburatorli dvigatelga nisbatan qanday afzalliklari bor?",
+   "variantlar": [
+    "FIK past, lekin tezroq ishlaydi",
+    "Faqat kichik quvvatli bo'ladi",
+    "FIK yuqori, tejamkorroq va arzon yoqilg'ida ishlaydi",
+    "Faqat avtomobillarda ishlatiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Reaktiv dvigatelda soplodan chiqadigan gaz tezligi dvigatelga kirayotgan havo tezligidan ancha katta bo'lishi nimaga olib keladi?",
+   "variantlar": [
+    "Yonish kamerasi kengayadi",
+    "Yoqilg'i sarfi kamayadi",
+    "Dvigatel sovib qoladi",
+    "Tezliklar farqi natijasida reaktiv tortish kuchi vujudga keladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Issiqlik dvigatellarining ko'p ishlatilishi natijasida Yer temperaturasining ko'tarilishi qanday ekologik oqibatga olib kelishi mumkin?",
+   "variantlar": [
+    "Muzliklar erib, okeanlardagi suv sathi ko'tariladi",
+    "Atmosferadagi kislorod miqdori ortadi",
+    "Yer magnit maydoni kuchayadi",
+    "Yer aylanish tezligi ortadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Atmosferaning ifloslanishidan saqlanishning bevosita usullariga nimalar kiradi?",
+   "variantlar": [
+    "Chiqindi manbalarining balandligini oshirish",
+    "Aralashmalarni havoga sochib yuborish",
+    "Tutun va gazlarni tozalab chiqarish, toza yoqilg'i ishlatish, benzinsiz dvigatel yaratish",
+    "Meteorologik sharoitni hisobga olish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Atmosfera ifloslanishidan saqlanishning bilvosita usullariga nimalar kiradi?",
+   "variantlar": [
+    "Tutun va gazlarni tozalab chiqarish",
+    "Benzinsiz avtomobil yaratish",
+    "Chiqindi chiquvchi manbalarning balandligini orttirish va meteorologik sharoitni hisobga olish",
+    "Oltingugurtsiz neftdan foydalanish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dizel dvigatelida yonilg'ining o'z-o'zidan yonishi nega dvigatel ishini buzmaydi, karburatorli dvigatelda esa bu nosozlik hisoblanadi?",
+   "variantlar": [
+    "Chunki dizelda yonilg'i umuman yonmaydi",
+    "Chunki dizelda yonish o'zgarmas hajmda ro'y beradi",
+    "Chunki dizelda sovitkich yo'q",
+    "Chunki dizel aynan shu prinsipga - siqish natijasida o'z-o'zidan yonishga mo'ljallangan, karburatorlida esa yonish svecha uchquni bilan boshqariladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ichki yonuv dvigatellarining soni ortib borishi bilan havo tarkibida qaysi moddalarning ko'payishi bog'liq?",
+   "variantlar": [
+    "Vodorod va geliy",
+    "Uglerod (II) oksid, azot va uglevodorodlar",
+    "Kislorod va azot",
+    "Suv bug'lari va argon"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Issiqlik va atom elektr stansiyalari quvvatining ortishi nima sababdan suv havzalarining ifloslanishi muammosini kuchaytiradi?",
+   "variantlar": [
+    "Chunki stansiyalar ko'proq kul chiqaradi",
+    "Chunki stansiyalar ko'proq yoqilg'i yoqadi",
+    "Chunki stansiyalarning suvga bo'lgan ehtiyoji ortib boradi",
+    "Chunki stansiyalar havoni ifloslaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

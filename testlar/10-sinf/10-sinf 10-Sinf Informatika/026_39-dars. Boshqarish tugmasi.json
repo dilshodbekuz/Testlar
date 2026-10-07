@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "39-dars. Boshqarish tugmasi",
+ "savollar": [
+  {
+   "savol": "39-dars qanday nomlanadi?",
+   "variantlar": [
+    "Boshqarish tugmasi",
+    "ShowMessage oynasi",
+    "Ilova va uning oynasi",
+    "Delphida grafika bilan ishlash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "39-darsda yaratiladigan yangi ilovaning o‘lchamlari qanday o‘rnatiladi?",
+   "variantlar": [
+    "300 ga 400",
+    "225 ga 400",
+    "100 ga 50",
+    "600 ga 800"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "39-darsda ilova sarlavhasi qanday matnga o‘zgartiriladi?",
+   "variantlar": [
+    "“uchinchi ilova”",
+    "“mening ilovam”",
+    "“ikkinchi dastur”",
+    "“birinchi dastur”"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "Boshqarish tugmasi qaysi paneldan tanlanadi?",
+   "variantlar": [
+    "Obyekt inspektoridan",
+    "Dastur kodi oynasidan",
+    "Sarlavha satridan",
+    "Uskunalar panelining standart jildidan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "Boshqarish tugmasining sarlavhasi qaysi xossa orqali o‘zgartiriladi?",
+   "variantlar": [
+    "Caption",
+    "Width",
+    "Height",
+    "Left"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "Tugma shriftini kattalashtirish uchun qaysi xossadan foydalaniladi?",
+   "variantlar": [
+    "Width",
+    "Font",
+    "Caption",
+    "Color"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "39-darsda Button1.Caption qanday qiymatga o‘zgartiriladi?",
+   "variantlar": [
+    "‘Boshlash’",
+    "‘Tugma1’",
+    "‘++’",
+    "‘OK’"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "Obyektlar ro‘yxati qaysi oynada ko‘rinadi (obyekt ajralib turadi)?",
+   "variantlar": [
+    "Dastur kodi oynasi",
+    "Sarlavha satri",
+    "Printer oynasi",
+    "Object TreeView (Obyektlar dispetcheri)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "Button1 tugmasi bosilganda qaysi protsedura ishga tushadi?",
+   "variantlar": [
+    "TForm1.Button1Click",
+    "TForm1.Create",
+    "TForm1.Close",
+    "TForm1.Paint"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "Tugma sarlavhasi shriftini o‘zgartirishda ochiladigan oyna qanday nomlanadi?",
+   "variantlar": [
+    "Chop etish oynasi",
+    "Шрифт muloqot oynasi",
+    "Rang oynasi",
+    "Fayl oynasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "Shrift oynasining Размер maydonchasidan qaysi son tanlanadi?",
+   "variantlar": [
+    "20",
+    "12",
+    "14",
+    "10"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "39-darsda Button1 tugmasi bosilganda ilova oynasi qancha kattalashishi kerak?",
+   "variantlar": [
+    "Eni 9, bo‘yi 16 ga",
+    "Eni 100, bo‘yi 50 ga",
+    "Eni va bo‘yi 2 barobar",
+    "Eni 16, bo‘yi 9 ga"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "Button1 tugmasiga hodisa bog‘lash qanday boshlanadi?",
+   "variantlar": [
+    "Tugmani ikki marta sichqoncha bilan bosish",
+    "Tugmani bir marta bosish",
+    "Tugmani o‘chirish",
+    "Tugmani surish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "Tugma bosilganda bajariladigan kod qaysi oynada yoziladi?",
+   "variantlar": [
+    "Uskunalar panelida",
+    "Dastur kodi oynasida",
+    "Obyekt inspektorida",
+    "Forma oynasida"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "Form1.Width:=Form1.Width+16; operatori nimani bajaradi?",
+   "variantlar": [
+    "Ilova oynasini yopadi",
+    "Tugmani o‘chiradi",
+    "Ilova oynasi eniga 16 birlik qo‘shadi",
+    "Ilova oynasi bo‘yini 16 ga kamaytiradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "Form1.Height:=Form1.Height+9; operatori nimani bajaradi?",
+   "variantlar": [
+    "Ilova oynasi eniga 9 birlik qo‘shadi",
+    "Ilova oynasini kichraytiradi",
+    "Tugmani yangilaydi",
+    "Ilova oynasi bo‘yiga 9 birlik qo‘shadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "Kiritilgan kod ishlashini tekshirish uchun qaysi tugma bosiladi?",
+   "variantlar": [
+    "F9",
+    "F5",
+    "F2",
+    "Esc"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "Ilova oynasi va boshqarish tugmasining ko‘pgina xossalari bir xil bo‘lishi nimani osonlashtiradi?",
+   "variantlar": [
+    "Internetga ulanishni",
+    "Xossalarni o‘rganish va o‘zgartirish ishini",
+    "Faylni saqlashni",
+    "Dasturni o‘chirishni"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "Boshqarish tugmasining joyini o‘zgartirish uchun nima qilinadi?",
+   "variantlar": [
+    "Faqat Caption o‘zgartiriladi",
+    "Imkoni yo‘q",
+    "Sichqoncha bilan surib boshqa joyga o‘tkaziladi",
+    "Faqat Delete bosiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "Savol-topshiriqda nechta boshqarish tugmasi kiritilgan yangi ilova yaratish so‘raladi?",
+   "variantlar": [
+    "Ikkita tugma",
+    "Uchta tugma",
+    "Beshta tugma",
+    "To‘rtta tugma"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 20
+  },
+  {
+   "savol": "Savol-topshiriqda tugmalarga qanday yozuvlar berilishi so‘raladi?",
+   "variantlar": [
+    "Yarat, Yukla, Saqla, Tugat",
+    "Ochish, Yopish, Nusxalash, O‘chirish",
+    "Boshlash, Davom etish, To‘xtatish, Chiqish",
+    "Ha, Yo‘q, Bekor qilish, OK"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Uyga vazifada nima yozib olish so‘raladi?",
+   "variantlar": [
+    "MS Access funksiyalari",
+    "Boshqarish tugmasining asosiy xossalari",
+    "Delphi tarixi",
+    "Pascal operatorlari"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Boshqarish tugmasi tanlanganida uning nima ish qilishi qayerda ko‘rsatiladi (savol-topshiriqqa ko‘ra)?",
+   "variantlar": [
+    "Faqat Font xossasida",
+    "Faqat sarlavha satrida",
+    "Dastur kodi oynasida (Button1Click protsedurasida)",
+    "Faqat Caption xossasida"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Button1.Caption:=’++’ yozuvi qanday qoidaga ko‘ra yozilgan?",
+   "variantlar": [
+    "Tasodifiy tartibda",
+    "Faqat katta harflar bilan",
+    "Faqat raqamlar bilan",
+    "Oldingi darsda qabul qilingan kelishuvga ko‘ra (xossa:=qiymat;)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Agar Button1 tugmasiga kod yozilmasa, tugma bosilganda nima sodir bo‘ladi?",
+   "variantlar": [
+    "Hech qanday vazifa bajarilmaydi",
+    "Ilova yopiladi",
+    "Xatolik chiqadi",
+    "Kompyuter o‘chadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Ilova oynasi va unga joylangan obyektning (tugmaning) xossalari qanday o‘rnatiladi?",
+   "variantlar": [
+    "Faqat klaviaturadan matn kiritib",
+    "Object Inspector oynasida tegishli xossani tanlab, qiymatini kiritish orqali",
+    "Faqat dastur kodi yozib",
+    "Faqat sichqoncha bilan surib"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Boshqarish tugmasi (Button) obyekti qaysi toifaga mansub?",
+   "variantlar": [
+    "Fayl obyekti",
+    "Tarmoq obyekti",
+    "Vizual boshqarish obyekti (komponenta)",
+    "Ma’lumotlar bazasi obyekti"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "39-dars davomida ikkinchi ilovaning asosiy maqsadi nima edi?",
+   "variantlar": [
+    "Internetga ulanish",
+    "Rasm chizish",
+    "Musiqa ijro etish",
+    "Birinchi ilovaning hech qanday vazifa bajarmaslik kamchiligini bartaraf etish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "Ilova oynasi va unga joylangan tugmaning xossalari o‘rtasida qanday umumiylik bor?",
+   "variantlar": [
+    "Ikkalasida ham ko‘pgina bir xil nomli xossalar (Width, Height, Caption kabi) mavjud",
+    "Hech qanday umumiylik yo‘q",
+    "Faqat rang xossasi umumiy",
+    "Faqat nom xossasi umumiy"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 29
+  },
+  {
+   "savol": "Button1 obyektining xossalari ro‘yxati qaysi oynada ko‘rinadi?",
+   "variantlar": [
+    "Uskunalar paneli",
+    "Object Inspector (Obyekt inspektori)",
+    "Object TreeView",
+    "Dastur kodi oynasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-sinf 11-Sinf Matematika 1-qism",
+ "mavzu": "Funksiya grafigiga o'tkazilgan urinma va normal tenglamalari",
+ "savollar": [
+  {
+   "savol": "Funksiya grafigiga (x0; f(x0)) nuqtada o'tkazilgan urinma tenglamasi qaysi ko'rinishda yoziladi?",
+   "variantlar": [
+    "y - f(x0) = f'(x0)(x - x0)",
+    "y - f(x0) = -f'(x0)(x - x0)",
+    "y = f'(x0)·x",
+    "y - f(x0) = (x - x0)/f'(x0)"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Funksiya grafigiga (x0; f(x0)) nuqtada o'tkazilgan normal tenglamasi qaysi ko'rinishda yoziladi?",
+   "variantlar": [
+    "y - f(x0) = -(1/f'(x0))(x - x0)",
+    "y = f(x0)",
+    "y - x0 = f'(x0)(x - f(x0))",
+    "y - f(x0) = f'(x0)(x - x0)"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Urinmaning burchak koeffitsiyenti k = tg α ga nima teng?",
+   "variantlar": [
+    "1/f'(x0)",
+    "f''(x0)",
+    "f'(x0)",
+    "f(x0)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Urinma y = kx + b to'g'ri chiziqqa parallel bo'lishi uchun qaysi shart bajarilishi kerak?",
+   "variantlar": [
+    "f'(x0) = k",
+    "f(x0) = k",
+    "f''(x0) = k",
+    "f'(x0) = -k"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(x) = x⁵ funksiyaga x0 = 1 nuqtada o'tkazilgan urinma tenglamasi qaysi?",
+   "variantlar": [
+    "y = 5x + 4",
+    "y = 5x - 4",
+    "y = x - 4",
+    "y = x + 5"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(x) = x² - 5x funksiya grafigiga x0 = 2 abssissali nuqtada o'tkazilgan urinma tenglamasi qaysi?",
+   "variantlar": [
+    "y = x - 4",
+    "y = -x + 4",
+    "y = -3x - 4",
+    "y = -x - 4"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(x) = x³ - 2x² funksiya grafigiga x0 = 1 nuqtada o'tkazilgan urinma tenglamasi qaysi?",
+   "variantlar": [
+    "y = -x",
+    "y = -x + 1",
+    "y = x",
+    "y = 2x - 1"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(x) = x⁵ funksiya grafigiga x0 = 1 nuqtada o'tkazilgan normal tenglamasi qaysi?",
+   "variantlar": [
+    "y = -5x + 6",
+    "y = -x/5 + 6/5",
+    "y = 5x - 4",
+    "y = x/5 + 6/5"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(x) = x² parabolaga x0 = 4 abssissali nuqtada o'tkazilgan urinma Ox o'qini qaysi nuqtada kesadi?",
+   "variantlar": [
+    "x = 2",
+    "x = 4",
+    "x = 0",
+    "x = 8"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(x) = x² - 3x + 4 funksiya grafigiga y = 2x - 1 to'g'ri chiziqqa parallel urinma o'tkazilgan. Urinma nuqtasining abssissasi nechaga teng?",
+   "variantlar": [
+    "2",
+    "3",
+    "1,5",
+    "2,5"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(x) = x² - 3x + 4 funksiya grafigiga y = 2x - 1 ga parallel urinma tenglamasi qaysi?",
+   "variantlar": [
+    "y = 2x - 2,75",
+    "y = 2x - 2,25",
+    "y = 2x - 1",
+    "y = 2x + 2,25"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = 3x - 4 funksiya grafigiga x0 = 1 nuqtada o'tkazilgan urinma tenglamasi qaysi?",
+   "variantlar": [
+    "y = x - 4",
+    "y = 3x - 4",
+    "y = 3x - 1",
+    "y = -3x + 4"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = 2^x funksiya grafigiga x0 = 0 nuqtada o'tkazilgan urinma tenglamasi qaysi?",
+   "variantlar": [
+    "y = x + 1",
+    "y = 2x + 1",
+    "y = x·ln2",
+    "y = x·ln2 + 1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = sin x funksiya grafigiga x0 = 0 nuqtada o'tkazilgan urinma tenglamasi qaysi?",
+   "variantlar": [
+    "y = 0",
+    "y = x + 1",
+    "y = x",
+    "y = -x"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = cos x funksiya grafigiga x0 = 0 nuqtada o'tkazilgan urinma tenglamasi qaysi?",
+   "variantlar": [
+    "y = 1",
+    "y = -x + 1",
+    "y = 0",
+    "y = x"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = sin x funksiya grafigiga x0 = 0 nuqtada o'tkazilgan normal tenglamasi qaysi?",
+   "variantlar": [
+    "y = -x + 1",
+    "y = x",
+    "y = 0",
+    "y = -x"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = 3x² - 5x + 1 funksiya grafigiga x0 = 1 nuqtada o'tkazilgan normal tenglamasi qaysi?",
+   "variantlar": [
+    "y = x - 2",
+    "y = -x - 2",
+    "y = x",
+    "y = -x"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Funksiya grafigiga o'tkazilgan urinma va normalning burchak koeffitsiyentlari ko'paytmasi nechaga teng?",
+   "variantlar": [
+    "5",
+    "1",
+    "-1",
+    "0"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = x² funksiya grafigiga x0 = 3 nuqtada o'tkazilgan urinma tenglamasi qaysi?",
+   "variantlar": [
+    "y = 6x + 9",
+    "y = 6x - 9",
+    "y = 3x - 9",
+    "y = 9x - 6"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = x² funksiya grafigiga x0 = 3 nuqtada o'tkazilgan normal tenglamasi qaysi?",
+   "variantlar": [
+    "y = -x/6 + 9,5",
+    "y = x/6 + 9",
+    "y = -6x + 27",
+    "y = -x/6 + 9"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = x² funksiya grafigiga x0 = 6 nuqtada o'tkazilgan urinma Ox o'qini qaysi nuqtada kesadi?",
+   "variantlar": [
+    "6",
+    "0",
+    "12",
+    "3"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = x³ funksiya grafigiga x0 = -1 nuqtada o'tkazilgan normal tenglamasi qaysi?",
+   "variantlar": [
+    "y = x/3 - 4/3",
+    "y = -x/3 + 4/3",
+    "y = -x/3 - 4/3",
+    "y = 3x + 2"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = x⁴ funksiya grafigiga x0 = 1 nuqtada o'tkazilgan urinma tenglamasi qaysi?",
+   "variantlar": [
+    "y = 4x + 3",
+    "y = 4x - 3",
+    "y = x - 3",
+    "y = 4x"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = 3x² - 5x + 4 va g(x) = 4x - 5 funksiyalarning urinmalari parallel bo'lishi uchun f funksiya urinmasi nuqtasining abssissasi nechaga teng?",
+   "variantlar": [
+    "1,5",
+    "1",
+    "2",
+    "0,5"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = x³ + x² funksiya urinmasi y = 5x - 7 to'g'ri chiziqqa parallel bo'lgan nuqtalarining abssissalari qaysi?",
+   "variantlar": [
+    "1 va 5/3",
+    "2 va -5/3",
+    "-1 va 5/3",
+    "1 va -5/3"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = x² funksiya grafigiga o'tkazilgan urinma y = 6x + 1 to'g'ri chiziqqa parallel bo'lsa, urinish nuqtasining abssissasi nechaga teng?",
+   "variantlar": [
+    "1",
+    "2",
+    "3",
+    "6"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = (x + 2)³ funksiya grafigiga x0 = -1 nuqtada o'tkazilgan urinma tenglamasi qaysi?",
+   "variantlar": [
+    "y = x + 4",
+    "y = 3x + 4",
+    "y = 3x - 2",
+    "y = 3x + 1"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = 2x² - 5x + 1 funksiya grafigiga x0 = -2 nuqtada o'tkazilgan urinma tenglamasi qaysi?",
+   "variantlar": [
+    "y = -13x - 7",
+    "y = 13x - 7",
+    "y = -13x + 19",
+    "y = -13x + 7"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = x² funksiya grafigiga x0 = -2 nuqtada o'tkazilgan normal tenglamasi qaysi?",
+   "variantlar": [
+    "y = 4x + 4,5",
+    "y = x/4 + 4",
+    "y = -x/4 + 4,5",
+    "y = x/4 + 4,5"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = x³ funksiya grafigiga x0 = 2 nuqtada o'tkazilgan urinma Ox o'qini qaysi nuqtada kesadi?",
+   "variantlar": [
+    "8/3",
+    "-4/3",
+    "4/3",
+    "2"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

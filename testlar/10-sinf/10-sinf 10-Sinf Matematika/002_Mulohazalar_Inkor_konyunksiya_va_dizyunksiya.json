@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Matematika",
+ "mavzu": "Mulohazalar. Inkor, konyunksiya va dizyunksiya",
+ "savollar": [
+  {
+   "savol": "Rost yoki yolg'on bo'lgan darak gap nima deyiladi?",
+   "variantlar": [
+    "Mulohaza",
+    "Tenglama",
+    "Ifoda",
+    "Formula"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Yashil rang yoqimlidir\" jumlasi haqida to'g'ri xulosani tanlang.",
+   "variantlar": [
+    "Bu mulohaza va u rost",
+    "Bu mulohaza bo'la olmaydi, chunki shaxsiy fikrni bildiradi",
+    "Bu mulohaza va u yolg'on",
+    "Bu tenglama"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "¬p belgisi nimani anglatadi?",
+   "variantlar": [
+    "p ning konyunksiyasi",
+    "p ning dizyunksiyasi",
+    "p ning inkori",
+    "p ning implikatsiyasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikki mulohaza \"va\" so'zi bilan bog'lansa, hosil bo'lgan yangi mulohaza nima deyiladi?",
+   "variantlar": [
+    "Inkor",
+    "Dizyunksiya",
+    "Implikatsiya",
+    "Konyunksiya"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikki mulohaza \"yoki\" so'zi bilan bog'lansa, hosil bo'lgan yangi mulohaza nima deyiladi?",
+   "variantlar": [
+    "Dizyunksiya",
+    "Konyunksiya",
+    "Inkor",
+    "Ekvivalensiya"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p∧q mulohaza qachon rost bo'ladi?",
+   "variantlar": [
+    "p va q dan biri rost bo'lganda",
+    "p va q ikkalasi ham rost bo'lganda",
+    "p va q ikkalasi ham yolg'on bo'lganda",
+    "Har doim"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p∨q mulohaza qachon yolg'on bo'ladi?",
+   "variantlar": [
+    "p rost, q yolg'on bo'lganda",
+    "p yolg'on, q rost bo'lganda",
+    "p va q ikkalasi ham yolg'on bo'lganda",
+    "p va q ikkalasi ham rost bo'lganda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p mulohaza rost bo'lsa, ¬p qanday bo'ladi?",
+   "variantlar": [
+    "Rost",
+    "Aniqlanmagan",
+    "Ham rost, ham yolg'on",
+    "Yolg'on"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rostlik jadvalida \"rost\" va \"yolg'on\" qiymatlar odatda qaysi harflar bilan belgilanadi?",
+   "variantlar": [
+    "T va F",
+    "R va Y",
+    "A va B",
+    "1 va 0"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Savol shaklidagi gap mulohaza bo'ladimi?",
+   "variantlar": [
+    "Ha, har doim",
+    "Yo'q, chunki uning rost-yolg'onligini aytib bo'lmaydi",
+    "Faqat matematik savollar mulohaza bo'ladi",
+    "Ha, agar qisqa bo'lsa"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p: \"20:4=80\" mulohazaning rost-yolg'onligini aniqlang.",
+   "variantlar": [
+    "Rost",
+    "Aniqlanmagan",
+    "Yolg'on",
+    "Mulohaza emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p: \"5 - toq son\" mulohazasi rostmi?",
+   "variantlar": [
+    "Yolg'on",
+    "Aniqlanmagan",
+    "Mulohaza emas",
+    "Rost"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "q: \"5 - tub son\" mulohazasi rostmi?",
+   "variantlar": [
+    "Rost",
+    "Yolg'on",
+    "Aniqlanmagan",
+    "Mulohaza emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p: \"12 soni 3 ga bo'linadi\", q: \"12 soni 4 ga bo'linadi\" bo'lsa, p∧q ning rost-yolg'onligini aniqlang.",
+   "variantlar": [
+    "Yolg'on",
+    "Rost",
+    "Aniqlanmagan",
+    "Mulohaza emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p: \"39 < 27\" mulohazasi rostmi?",
+   "variantlar": [
+    "Rost",
+    "Aniqlanmagan",
+    "Yolg'on",
+    "Mulohaza emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p: \"16 > 23\" mulohazasining rost-yolg'onligini aniqlang.",
+   "variantlar": [
+    "Rost",
+    "Aniqlanmagan",
+    "Mulohaza emas",
+    "Yolg'on"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p: \"5+8=12\", q: \"6+9=15\" bo'lsa, p∧q ning qiymatini toping.",
+   "variantlar": [
+    "Yolg'on",
+    "Rost",
+    "Aniqlanmagan",
+    "Mulohaza emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p: \"24 soni 4 ga bo'linadi\", q: \"24 soni 6 ga bo'linadi\" bo'lsa, p∨q ning qiymatini toping.",
+   "variantlar": [
+    "Yolg'on",
+    "Rost",
+    "Aniqlanmagan",
+    "Mulohaza emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p: \"−8 > −5\", q: \"5 < 0\" bo'lsa, p∨q ning qiymatini toping.",
+   "variantlar": [
+    "Rost",
+    "Aniqlanmagan",
+    "Yolg'on",
+    "Mulohaza emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p: \"5 va 9 sonlarining o'rta arifmetigi 7 ga teng\", q: \"8 va 14 sonlarining o'rta arifmetigi 10 ga teng\" bo'lsa, p∨q ning qiymatini toping.",
+   "variantlar": [
+    "Yolg'on",
+    "Aniqlanmagan",
+    "Mulohaza emas",
+    "Rost"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = F, q = T bo'lsa, ¬p∧q ning qiymatini toping.",
+   "variantlar": [
+    "Rost",
+    "Yolg'on",
+    "Aniqlanmagan",
+    "Mulohaza emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p∨¬p mulohaza qanday mulohaza deyiladi?",
+   "variantlar": [
+    "Ziddiyat",
+    "Tavtologiya",
+    "Implikatsiya",
+    "Ekvivalensiya"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p∧¬p mulohaza doim qanday qiymat qabul qiladi?",
+   "variantlar": [
+    "Doim rost",
+    "Aniqlanmagan",
+    "Doim yolg'on",
+    "p ga bog'liq"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p = T, q = F bo'lsa, p∧q ning qiymatini toping.",
+   "variantlar": [
+    "T",
+    "Aniqlanmagan",
+    "Mulohaza emas",
+    "F"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p = F, q = F bo'lsa, p∨q ning qiymatini toping.",
+   "variantlar": [
+    "F",
+    "T",
+    "Aniqlanmagan",
+    "Mulohaza emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "¬(p∧q) mulohaza qaysi ifodaga mantiqiy tengkuchli?",
+   "variantlar": [
+    "p∧q",
+    "¬p∨¬q",
+    "p∨q",
+    "¬p∧¬q"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Har doim rost bo'lgan mulohaza nima deyiladi?",
+   "variantlar": [
+    "Ziddiyat",
+    "Implikatsiya",
+    "Mantiqiy qonun (tavtologiya)",
+    "Konyunksiya"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita mulohaza qachon mantiqiy tengkuchli deyiladi?",
+   "variantlar": [
+    "Ikkalasi ham rost bo'lsa",
+    "Biri rost, biri yolg'on bo'lsa",
+    "Ikkalasi ham yolg'on bo'lsa",
+    "Rostlik jadvallaridagi mos ustunlar bir xil bo'lsa"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "U = {x | 1 ≤ x ≤ 20}, p: \"x soni 3 ga karrali\", q: \"x - tub son\". x = 3 bo'lganda p∧q ning qiymatini toping.",
+   "variantlar": [
+    "Rost",
+    "Yolg'on",
+    "Aniqlanmagan",
+    "Mulohaza emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p: \"x - tub son\", q: \"x soni 12 ning bo'luvchisi\". x = 2 bo'lganda p∧q ning qiymatini toping.",
+   "variantlar": [
+    "Yolg'on",
+    "Rost",
+    "Aniqlanmagan",
+    "Mulohaza emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

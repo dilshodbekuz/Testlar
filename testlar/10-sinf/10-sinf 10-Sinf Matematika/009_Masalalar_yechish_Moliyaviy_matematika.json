@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Matematika",
+ "mavzu": "Masalalar yechish (moliyaviy matematika va sodda ratsional tenglamalar)",
+ "savollar": [
+  {
+   "savol": "Amortizatsiya formulasi A=C(1-r/100)^n da r nimani bildiradi?",
+   "variantlar": [
+    "Yillik amortizatsiya normasi",
+    "Dastlabki narx",
+    "Davr qismlari soni",
+    "Yakuniy qiymat"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Amortizatsiya formulasida C nima?",
+   "variantlar": [
+    "Amortizatsiya normasi",
+    "Dastlabki narx",
+    "Davrlar soni",
+    "Foiz to'lovi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Iste'mol tovarlari yoki uy-joy sotib olish uchun olinadigan kreditlar odatda qanday muddatga rasmiylashtiriladi?",
+   "variantlar": [
+    "Faqat uzoq muddatga",
+    "Faqat 50 yilga",
+    "Qisqa muddatlarga",
+    "Muddatsiz"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kredit to'lovi jadvali (1000 pul birligiga nisbatan tuzilgan) nima uchun xizmat qiladi?",
+   "variantlar": [
+    "Foizlarni oshirish uchun",
+    "Valyuta kursini hisoblash uchun",
+    "Soliqni hisoblash uchun",
+    "Formulalarsiz tezkor hisob-kitoblar uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "n ta davr qismidan keyingi amortizatsiya qiymati qanday harf bilan belgilanadi?",
+   "variantlar": [
+    "A",
+    "C",
+    "I",
+    "r"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qurilish uskunasi 2400 funt sterling narxda, amortizatsiya normasi 15%, n=6 yil bo'lsa, formulada qanday ko'paytuvchi qatnashadi?",
+   "variantlar": [
+    "(1+0,15)^6",
+    "(1-0,15)^6",
+    "(0,15)^6",
+    "(1-0,15)×6"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir tenglamaning barcha yechimlari ikkinchi tenglamaning ham yechimi bo'lsa, ikkinchi tenglama birinchisining nimasi deyiladi?",
+   "variantlar": [
+    "Tengkuchlisi",
+    "Aksi",
+    "Natijasi",
+    "Ildizi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikkita tenglamaning yechimlari to'plamlari ustma-ust tushsa, bunday tenglamalar qanday deyiladi?",
+   "variantlar": [
+    "Natija",
+    "Aks",
+    "Bog'liqsiz",
+    "Tengkuchli"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "P(x)/Q(x) ko'rinishidagi ifoda nima deyiladi?",
+   "variantlar": [
+    "Ratsional ifoda",
+    "Kvadrat ifoda",
+    "Chiziqli ifoda",
+    "Trigonometrik ifoda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A(x)=B(x) ko'rinishidagi tenglama (A,B ratsional ifodalar) nima deyiladi?",
+   "variantlar": [
+    "Chiziqli tenglama",
+    "Ratsional tenglama",
+    "Irratsional tenglama",
+    "Trigonometrik tenglama"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qurilish uskunasi 2400 funt sterling narxda, amortizatsiya normasi 15%, n=6 yil bo'lsa, uning 6 yildan keyingi qiymati (narxi) taxminan nechaga teng?",
+   "variantlar": [
+    "905,16",
+    "2400,00",
+    "1494,84",
+    "2040,00"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi masalada 6 yil davomida amortizatsiya qiymati (narx pasayishi) taxminan qancha?",
+   "variantlar": [
+    "1494,84",
+    "360,00",
+    "2400,00",
+    "905,16"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "P(x)/Q(x)=0 tenglamasi qachon yechimga ega bo'ladi?",
+   "variantlar": [
+    "P(x)=0 va Q(x)≠0 shartlari bir vaqtda bajarilganda",
+    "Q(x)=0 bo'lganda",
+    "P(x) va Q(x) ikkalasi ham 0 bo'lganda",
+    "Har doim yechimga ega"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(x²-2x+1)/(x-7)=0 tenglamani yeching.",
+   "variantlar": [
+    "x=7",
+    "x=1",
+    "x=-1",
+    "Ildizi yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(x²-2x+3)/(x-7)=0 tenglama necha ildizga ega?",
+   "variantlar": [
+    "2 ta ildizga ega",
+    "1 ta ildizga ega",
+    "Ildizga ega emas, chunki diskriminant manfiy",
+    "Cheksiz ko'p ildizga ega"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(2x²-5x+3)/(9x-13,5)=0 tenglamaning ildizini toping.",
+   "variantlar": [
+    "x=1,5",
+    "x=1 va x=1,5 ikkalasi ham",
+    "Ildizi yo'q",
+    "Faqat x=1 (x=1,5 maxrajni nolga aylantiradi)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "((x-1)²(x+2))/(x-1)=0 tenglamani yeching.",
+   "variantlar": [
+    "x=-2",
+    "x=1",
+    "x=1 va x=-2",
+    "Ildizi yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2/(2-x) + 1/2 = 4/(x(2-x)) tenglamani yechganda hosil bo'ladigan kvadrat tenglamani tanlang.",
+   "variantlar": [
+    "x²+6x+8=0",
+    "x²-6x+8=0",
+    "x²-6x-8=0",
+    "x²-8x+6=0"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x²-6x+8=0 tenglamaning ildizlarini toping.",
+   "variantlar": [
+    "x1=1, x2=8",
+    "x1=-2, x2=-4",
+    "x1=2, x2=4",
+    "x1=0, x2=6"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi misolda (2/(2-x)+1/2=4/(x(2-x))) x=2 qiymati berilgan tenglamaning ildizi bo'ladimi?",
+   "variantlar": [
+    "Ha, bo'ladi",
+    "Aniqlab bo'lmaydi",
+    "Ikkalasi ham ildiz",
+    "Yo'q, chunki x=2 da maxraj nolga aylanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(x-2)/(x+2) = (x+3)/(x-4) tenglamani yechish natijasida hosil bo'lgan x qiymatini toping.",
+   "variantlar": [
+    "x=2/11",
+    "x=11/2",
+    "x=-2/11",
+    "x=0"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "a/b=c/d proporsiyaning asosiy xossasiga ko'ra bu tenglik qanday ko'rinishga keltiriladi?",
+   "variantlar": [
+    "a+d=b+c",
+    "ad=bc",
+    "a-b=c-d",
+    "ab=cd"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x)/g(x) = p(x)/q(x) ko'rinishidagi ratsional tenglamani yechishning 1-qadamida nima bajariladi?",
+   "variantlar": [
+    "g(x),q(x) maxrajlar nolga aylantiriladi",
+    "Tenglama ikkiga bo'linadi",
+    "f(x)q(x)=p(x)g(x) tenglama ildizlari topiladi",
+    "x o'rniga 0 qo'yiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ratsional tenglamani yechishning oxirgi qadamida nima bajariladi (umumiy maxrajga asoslangan usulda)?",
+   "variantlar": [
+    "Ildizlar kvadratga ko'tariladi",
+    "Ildizlar yig'indisi topiladi",
+    "Tenglama qayta tuziladi",
+    "Topilgan ildizlardan umumiy maxrajni nolga aylantiradiganlari olib tashlanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Fuqaro 9200 yevro kredit oldi, 12% yillik foiz to'lovi, 3,5 yillik (42 oy) to'lov muddati belgilangan. Jami bo'lib to'lanadigan summa taxminan qancha?",
+   "variantlar": [
+    "€11314,80",
+    "€9200,00",
+    "€10000,00",
+    "€12500,00"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi masalada bir oyga to'lanadigan miqdor taxminan qancha?",
+   "variantlar": [
+    "€220,00",
+    "€269,40",
+    "€300,00",
+    "€195,50"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tadbirkor bankdan olgan qarzini va foiz to'loviga qo'shimcha 16 000 000 so'mni 5 yil ichida to'lab qarzdan qutuldi. Bu holda I=Crn/100 formulasidagi I qiymati nechaga teng?",
+   "variantlar": [
+    "5",
+    "14",
+    "16 000 000",
+    "Noma'lum"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi masalada (I=16 000 000, r=14%, n=5 yil) dastlabki qarz miqdori C ni taqribiy toping.",
+   "variantlar": [
+    "11 200 000",
+    "16 000 000",
+    "30 000 000",
+    "≈22 857 143"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uskuna 45000 AQSh dollariga sotib olindi va 2 yil 3 oydan so'ng uning narxi 28500 AQSh dollariga tushdi. Bu holatda yillik normani topish uchun qaysi formuladan foydalanish kerak?",
+   "variantlar": [
+    "Amortizatsiya formulasi A=C(1-r/100)^n",
+    "Oddiy foiz formulasi I=Crn/100",
+    "Murakkab foiz formulasi A=C(1+r/100)^n",
+    "Proporsiya formulasi ad=bc"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ratsional tenglamalar tengkuchli bo'lishi uchun ularning nimasi ustma-ust tushishi kerak?",
+   "variantlar": [
+    "Koeffitsientlari",
+    "Yechimlar to'plami",
+    "Darajalari",
+    "Maxrajlari"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

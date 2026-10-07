@@ -1,0 +1,337 @@
+{
+  "sinf": "11-sinf",
+  "kitob": "11-sinf 11-Sinf Informatika",
+  "mavzu": "27-dars. Axborot xavfsizligi tushunchasi va samaradorligi ko'rsatkichlari",
+  "savollar": [
+    {
+      "savol": "Axborotni muhofazalash deganda nima tushuniladi?",
+      "variantlar": [
+        "Ma'lumotlarni o'g'irlash, yo'qotish, soxtalashtirish va ruxsatsiz foydalanishning oldini olishga yo'naltirilgan tadbirlar majmuasi",
+        "Kompyuterni yangi dasturlar bilan to'ldirish",
+        "Ekranning yorqinligini sozlash",
+        "Tarmoq kabelini almashtirish"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Axborot xavfsizligi ta'rifi qaysi javobda to'g'ri berilgan?",
+      "variantlar": [
+        "Faqat ma'lumotlarni chop etish",
+        "Foydalanish talablari asosida ma'lumotning yashirinligi, yaxlitligi va foydalanuvchanligini ta'minlash",
+        "Faqat kompyuter tezligini oshirish",
+        "Faqat tarmoqqa ulanish"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Axborotga tahdid qanday ikki xil bo'lishi mumkin?",
+      "variantlar": [
+        "Ma'lumotni nusxalash yoki chop etish",
+        "Ma'lumotni siqish yoki kengaytirish",
+        "Ma'lumotni ochish yoki uning mazmunini o'zgartirish",
+        "Ma'lumotni yangilash yoki o'chirish"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Ma'lumotni ochish nima?",
+      "variantlar": [
+        "Ma'lumotning arxivga joylanishi",
+        "Ma'lumotning nusxasini olish",
+        "Ma'lumotning o'chirib tashlanishi",
+        "Tasodifan yoki xususiy harakatlar natijasida begona shaxsga axborot mazmunining ruxsatsiz oshkor etilishi"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "2015-yilda jahonda yashirin ma'lumotlarning oshkor bo'lishi necha ming ta bo'lgan?",
+      "variantlar": [
+        "1,5 mingdan ziyod",
+        "500 mingdan ziyod",
+        "10 mingdan ziyod",
+        "50 mingdan ziyod"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Ma'lumotlar oshkor bo'lishining asosiy sababi sifatida nimalar ko'rsatilgan?",
+      "variantlar": [
+        "Faqat ob-havo sharoiti",
+        "Inson omili va tashqi tajovuzlar",
+        "Faqat elektr uzilishi",
+        "Faqat ekran o'lchami"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Bank amaliyotida qaysi xususiyat asosiy shart hisoblanadi?",
+      "variantlar": [
+        "Ma'lumotning rangi",
+        "Ma'lumotning hajmi",
+        "Ma'lumotning yaxlitligi",
+        "Ma'lumotning formati"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Ma'lumotlarni ruxsatsiz o'zgartirishdan saqlash qaysi xususiyatga tegishli?",
+      "variantlar": [
+        "Yashirinlik",
+        "Foydalanuvchanlik",
+        "Tezlik",
+        "Yaxlitlik"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Ma'lumotning yashirinlik xususiyati nimani anglatadi?",
+      "variantlar": [
+        "Ma'lumotni ruxsat etilmagan shaxslar uchun tushunarsiz holatda saqlash",
+        "Ma'lumotni barchaga ochiq e'lon qilish",
+        "Ma'lumotni o'chirib tashlash",
+        "Ma'lumotni faqat printerga chiqarish"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Axborot xavfsizligi qaysi asosiy jihatlarni ta'minlaydi?",
+      "variantlar": [
+        "Tezlik, hajm va rang",
+        "Yashirinlik, yaxlitlik va foydalanuvchanlik",
+        "Narx, sifat va dizayn",
+        "Format, nom va kengaytma"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Foydalanuvchanlik xususiyati nimani bildiradi?",
+      "variantlar": [
+        "Ma'lumotni ochish uchun parol kiritish",
+        "Ma'lumotni chop etish tezligi",
+        "Ma'lumot hajmining kattaligi",
+        "Ma'lumotdan istalgancha, to'siqlarsiz foydalanish imkoniyati"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Identifikatsiya nima?",
+      "variantlar": [
+        "Foydalanuvchining tizimga o'zini tanitish jarayoni",
+        "Foydalanuvchining huquqlarini berish jarayoni",
+        "Foydalanuvchi faoliyatini to'xtatish jarayoni",
+        "Foydalanuvchini tizimdan chiqarish jarayoni"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Autentifikatsiya jarayonida nima belgilanadi?",
+      "variantlar": [
+        "Ma'lumot rangi tanlanadi",
+        "Foydalanuvchining to'g'riligi tekshiriladi va tizimda faoliyat imkoniyati belgilanadi",
+        "Fayl hajmi o'lchanadi",
+        "Tarmoq tezligi sinaladi"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Avtorizatsiya nima?",
+      "variantlar": [
+        "Foydalanuvchining tizimga kirish paroli",
+        "Foydalanuvchining barmoq izi",
+        "Foydalanuvchiga tizim tomonidan berilgan huquqlar majmuasi",
+        "Foydalanuvchining elektron pochtasi"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Quyidagilardan qaysi biri biometrik belgilarga kiradi?",
+      "variantlar": [
+        "Parol",
+        "SMS kod",
+        "Elektron pochta manzili",
+        "Ko'z qorachig'i tahlili"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Axborot xavfsizligi bosqichlaridan biri qaysi?",
+      "variantlar": [
+        "Himoyalash zarur axborot va texnik resurslarni aniqlash",
+        "Ekran o'lchamini tanlash",
+        "Rang palitrasini tanlash",
+        "Printer modelini tanlash"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Axborot xavfsizligida zaiflik va xatarlarning darajasini nima bilan aniqlanadi?",
+      "variantlar": [
+        "Monitor yorqinligini o'lchash",
+        "Axborot xavfsizligining zaifligi va xatarlarning darajasini baholash",
+        "Klaviatura tugmalarini sanash",
+        "Qog'oz o'lchamini aniqlash"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "1994-yilda V. Levin nima qildi?",
+      "variantlar": [
+        "Yangi operatsion tizim yaratdi",
+        "Internetda foydali sayt ochdi",
+        "London shahridagi bank muhofaza tizimini buzib, 10 million dollarni noqonuniy o'zlashtirdi",
+        "Kompyuter uchun antivirus ishlab chiqdi"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "AQSH federal qidiruv byurosi tezkor harakatlari natijasida jinoyatchilar necha ming dollarni bank hisobiga qaytarishgan?",
+      "variantlar": [
+        "40 ming dollar",
+        "4 million dollar",
+        "10 million dollar",
+        "400 ming dollar"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "2015-yilda AQSHda nechta yashirin ma'lumot oshkor bo'lgan?",
+      "variantlar": [
+        "859 ta",
+        "118 ta",
+        "112 ta",
+        "1,5 ming ta"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Diagrammaga ko'ra, eng ko'p ma'lumot yo'qotilgan sohalar qaysilar?",
+      "variantlar": [
+        "Ta'lim va bank-moliya",
+        "Qishloq xo'jaligi va turizm",
+        "Yuqori texnologiyalar va sanoat-transport",
+        "Sport va madaniyat"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Ta'lim, moliya va bank sohalarida ma'lumotlar oshkor bo'lishida inson omilining ulushi qancha?",
+      "variantlar": [
+        "5 – 10 foiz",
+        "50 – 60 foiz",
+        "70 – 80 foiz",
+        "25 – 30 foiz"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Axborot xavfsizligini ta'minlash tarkibiga nimalar kiradi?",
+      "variantlar": [
+        "Ma'lumotlar resurslari barqarorligi va qonuniy huquqlarning ta'minlanishi",
+        "Faqat kompyuter korpusi",
+        "Faqat printer modeli",
+        "Faqat monitor o'lchami"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Simsiz mobil aloqa tizimida ruxsatsiz kirish imkoniyati qaysi qismda mavjud?",
+      "variantlar": [
+        "Faqat asosiy to'rda",
+        "Aloqa tizimining ixtiyoriy qismida",
+        "Faqat Internet portalida",
+        "Faqat printerda"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Rasmda 1 raqami bilan ko'rsatilgan ruxsatsiz foydalanish kanali qaysi?",
+      "variantlar": [
+        "Parametrik to'lqin",
+        "Tebranma tovush",
+        "Elektromagnit to'lqin",
+        "Elektr signali"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Rasmda 4 raqami bilan ko'rsatilgan kanal qaysi?",
+      "variantlar": [
+        "Elektromagnit to'lqin",
+        "Parametrik to'lqin",
+        "Tebranma tovush",
+        "Elektr signali"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Shaxs manfaati asosida qasddan ma'lumot soxtalashtirilsa, nima bo'ladi?",
+      "variantlar": [
+        "Banklar va tashkilotlarga katta zarar keladi",
+        "Hech qanday zarar bo'lmaydi",
+        "Faqat foydalanuvchi zarar ko'radi",
+        "Faqat printer ishdan chiqadi"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Axborot xavfsizligi bosqichlarida 'muhofaza tizimining yaxlitligi va barqarorligini nazoratga olish' qaysi jarayon?",
+      "variantlar": [
+        "Dasturni o'chirish jarayoni",
+        "Axborot xavfsizligi bosqichlaridan biri",
+        "Ekranni tozalash jarayoni",
+        "Fayl nomini o'zgartirish"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "2015-yilda yashirin ma'lumotlarning oshkor bo'lishi oldingi yilga nisbatan necha foizga ko'paygan?",
+      "variantlar": [
+        "1,5 foiz",
+        "25 foiz",
+        "7,8 foiz",
+        "90 foiz"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Bank hisobotlarini soxtalashtirish qaysi tahdid turiga kiradi?",
+      "variantlar": [
+        "Ma'lumotni ochish",
+        "Ma'lumotni nusxalash",
+        "Ma'lumotni chop etish",
+        "Ma'lumotning mazmunini o'zgartirish"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    }
+  ]
+}

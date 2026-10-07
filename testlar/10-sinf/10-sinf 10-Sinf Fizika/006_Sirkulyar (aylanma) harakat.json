@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Fizika",
+ "mavzu": "Sirkulyar (aylanma) harakat",
+ "savollar": [
+  {
+   "savol": "Aylanma harakat deb nimaga aytiladi?",
+   "variantlar": [
+    "Jismning tezlanish bilan tushishi",
+    "Jismning to'g'ri chiziq bo'ylab harakatlanishi",
+    "Jismning aylana chizig'i bo'ylab harakatlanishi",
+    "Jismning tinch holatda turishi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Davr (T) deb nimaga aytiladi?",
+   "variantlar": [
+    "Jismning chiziqli tezligi",
+    "Markazga intilma kuch",
+    "Jism bir marta aylanish uchun ketgan vaqt",
+    "Birlik vaqtdagi aylanishlar soni"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chastota (ν) deb nimaga aytiladi?",
+   "variantlar": [
+    "Birlik vaqtda bajarilgan aylanishlar soni",
+    "Aylana radiusi",
+    "Bir marta aylanish uchun ketgan vaqt",
+    "Burchak tezlik"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Burchak tezlik (ω) deb nimaga aytiladi?",
+   "variantlar": [
+    "Jismning chiziqli tezligi",
+    "Aylana radiusi",
+    "Markazga intilma tezlanish",
+    "Vaqt birligida burilgan burchak"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chastotaning SI tizimidagi birligi qaysi?",
+   "variantlar": [
+    "metr (m)",
+    "Gers (Hz)",
+    "sekund (s)",
+    "radian (rad)"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Davrning SI tizimidagi birligi qaysi?",
+   "variantlar": [
+    "Gers (Hz)",
+    "rad/s",
+    "m/s",
+    "sekund (s)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Burchak tezlikning SI tizimidagi birligi qaysi?",
+   "variantlar": [
+    "rad/s",
+    "m/s",
+    "Hz",
+    "m/s2"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aylanma harakatdagi markazga intilma tezlanish qayerga yo'nalgan?",
+   "variantlar": [
+    "Yer markaziga qarab",
+    "Aylana markaziga qarab",
+    "Aylana markazidan tashqariga",
+    "Harakat yo'nalishi bo'ylab"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Friksion uzatish qanday prinsipga asoslangan?",
+   "variantlar": [
+    "Tishlarning bir-biriga kirishishi",
+    "Magnit kuchi",
+    "Tasmaning tortilishi",
+    "Ishqalanish kuchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tishli uzatishning asosiy afzalligi nimada?",
+   "variantlar": [
+    "Arzon tannarx",
+    "Sirpanishsiz aniq uzatish",
+    "Shovqinsiz ishlashi",
+    "Yengil vazn"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aylanish chastotasi ν=4 Hz bo'lsa, davr T qanchaga teng?",
+   "variantlar": [
+    "1 s",
+    "2 s",
+    "4 s",
+    "0,25 s"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Davr T=0,5 s bo'lsa, burchak tezlik ω qanchaga teng? (π≈3,14)",
+   "variantlar": [
+    "6,28 rad/s",
+    "1,57 rad/s",
+    "3,14 rad/s",
+    "12,56 rad/s"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Burchak tezlik ω=4 rad/s, radius R=0,5 m bo'lsa, chiziqli tezlik v qanchaga teng?",
+   "variantlar": [
+    "4 m/s",
+    "2 m/s",
+    "8 m/s",
+    "0,5 m/s"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Chiziqli tezlik v=4 m/s, radius R=2 m bo'lsa, markazga intilma tezlanish a qanchaga teng?",
+   "variantlar": [
+    "2 m/s2",
+    "4 m/s2",
+    "16 m/s2",
+    "8 m/s2"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Massa m=1 kg, tezlik v=3 m/s, radius R=3 m bo'lgan jismga ta'sir etuvchi markazga intilma kuch F qancha?",
+   "variantlar": [
+    "27 N",
+    "1 N",
+    "9 N",
+    "3 N"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tasmali uzatish ko'pincha qayerda qo'llaniladi?",
+   "variantlar": [
+    "Soat mexanizmida",
+    "Velosiped zanjirida",
+    "Konveyer tasmasida",
+    "Shestyorna uzatishda"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tishli uzatish ko'pincha qayerda qo'llaniladi?",
+   "variantlar": [
+    "Yelkan harakatida",
+    "Suv nasosida",
+    "Soat mexanizmida",
+    "Konveyerda"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Friksion uzatishning asosiy kamchiligi nima?",
+   "variantlar": [
+    "Qimmat narx",
+    "Og'irligi katta",
+    "Shovqinli ishlashi",
+    "Sirpanish yuzaga kelishi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Davr va chastota orasida qanday bog'lanish mavjud?",
+   "variantlar": [
+    "Kvadratik bog'lanish",
+    "Teskari proporsional",
+    "Bog'liq emas",
+    "To'g'ri proporsional"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Chastota ν=2 Hz bo'lsa, burchak tezlik ω qanchaga teng? (π≈3,14)",
+   "variantlar": [
+    "12,56 rad/s",
+    "6,28 rad/s",
+    "3,14 rad/s",
+    "25,12 rad/s"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Aylana radiusi R=1 m, davri T=2 s bo'lgan jismning chiziqli tezligi qanchaga teng? (π≈3,14)",
+   "variantlar": [
+    "1,57 m/s",
+    "3,14 m/s",
+    "0,5 m/s",
+    "6,28 m/s"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Aylana radiusi R=3 m, chastotasi ν=1 Hz bo'lgan jismning markazga intilma tezlanishini toping. (π≈3,14)",
+   "variantlar": [
+    "118,3 m/s2",
+    "354,9 m/s2",
+    "18,84 m/s2",
+    "59,2 m/s2"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Aylana radiusi 2 marta oshirilsa, davr o'zgarmasa, chiziqli tezlik qanday o'zgaradi?",
+   "variantlar": [
+    "4 marta ortadi",
+    "O'zgarmaydi",
+    "2 marta kamayadi",
+    "2 marta ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Chastota 3 marta oshirilsa, burchak tezlik necha marta o'zgaradi?",
+   "variantlar": [
+    "9 marta ortadi",
+    "2 marta ortadi",
+    "O'zgarmaydi",
+    "3 marta ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Radius o'zgarmas holda davr 2 marta kamaytirilsa, markazga intilma tezlanish necha marta o'zgaradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "2 marta kamayadi",
+    "4 marta ortadi",
+    "2 marta ortadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki jism bir xil burchak tezlik bilan aylanmoqda. Birinchi jism radiusi 2 m, ikkinchisi 6 m. Ikkinchi jismning chiziqli tezligi birinchisidan necha marta katta?",
+   "variantlar": [
+    "2 marta",
+    "6 marta",
+    "3 marta",
+    "4 marta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Massa m=2 kg, tezlik v=6 m/s, radius R=3 m bo'lgan jismga ta'sir etuvchi markazga intilma kuchni toping.",
+   "variantlar": [
+    "18 N",
+    "24 N",
+    "36 N",
+    "12 N"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Radius R=4 m, chiziqli tezlik v=8 m/s bo'lgan jismning markazga intilma tezlanishini toping.",
+   "variantlar": [
+    "8 m/s2",
+    "2 m/s2",
+    "16 m/s2",
+    "32 m/s2"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Aylana radiusi R=1 m, chastotasi ν=2 Hz bo'lgan jismning chiziqli tezligini toping. (π≈3,14)",
+   "variantlar": [
+    "6,28 m/s",
+    "12,56 m/s",
+    "25,12 m/s",
+    "3,14 m/s"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Avtomobil dvigatelidan g'ildiraklarga aniq va sirpanishsiz quvvat uzatish talab etilganda, qaysi uzatish turi afzal va nega?",
+   "variantlar": [
+    "Friksion uzatish, chunki u arzon",
+    "Hammasi bir xil natija beradi",
+    "Tishli uzatish, chunki tishlar bir-biriga kirib sirpanishsiz ishlaydi",
+    "Tasmali uzatish, chunki u uzoq masofaga ishlaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

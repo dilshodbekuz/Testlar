@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Ona tili",
+ "mavzu": "9-mavzu. Qanday so'zlar o'zaro bog'lanmaydi?",
+ "savollar": [
+  {
+   "savol": "So'zlar bog'lanishi uchun ular orasida nechta jihatdan moslik bo'lishi kerak?",
+   "variantlar": [
+    "To'rt",
+    "Uch",
+    "Ikki",
+    "Besh"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'Qarg'a sayradi' birikmasida qanday nomoslik mavjud?",
+   "variantlar": [
+    "Grammatik nomoslik",
+    "Uslubiy nomoslik",
+    "Nomoslik yo'q",
+    "Mantiqiy nomoslik"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'Otasini suyandi' birikmasida qanday nomoslik mavjud?",
+   "variantlar": [
+    "Nomoslik yo'q",
+    "Uslubiy nomoslik",
+    "Grammatik nomoslik",
+    "Mantiqiy nomoslik"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'Shomda oy bo'zardi' birikmasida qanday nomoslik mavjud?",
+   "variantlar": [
+    "Mantiqiy nomoslik",
+    "Grammatik nomoslik",
+    "Uslubiy nomoslik",
+    "Nomoslik yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi birikmalardan qaysi biri to'g'ri (moslashgan) hisoblanadi?",
+   "variantlar": [
+    "Qarg'a sayradi",
+    "Qarg'a kuyladi",
+    "Qarg'a sotti",
+    "Qarg'a qag'illadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi birikmalardan qaysi biri grammatik jihatdan to'g'ri moslashgan?",
+   "variantlar": [
+    "Otasidan suyandi",
+    "Otasiga suyandi",
+    "Otasini suyandi",
+    "Otasini suyanmoq"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi gaplardan qaysi biri mantiqiy jihatdan to'g'ri?",
+   "variantlar": [
+    "Tunda oy bo'zardi",
+    "Tongda oy bo'zardi",
+    "Kechqurun oy bo'zardi",
+    "Shomda oy bo'zardi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'Umr shunday kechadi' matnida ulfatlar mehmonxonaning nechanchi qavatiga joylashgan edi?",
+   "variantlar": [
+    "Sakson birinchi",
+    "Ellik beshinchi",
+    "Yetmish beshinchi",
+    "Oltmishinchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, mehmonxonada lift qaysi soatlar oralig'ida ishlamaydi?",
+   "variantlar": [
+    "Kechki soat 11dan ertalab 7gacha",
+    "Kechki soat 12dan ertalab 6gacha",
+    "Kechki soat 9dan ertalab 8gacha",
+    "Kechki soat 10dan ertalab 6gacha"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'Vaqt qadri' hikoyasida olim nimani ixtiro qilgan edi?",
+   "variantlar": [
+    "Quyosh soati",
+    "Qum soati",
+    "Mexanik soat",
+    "Suv soati"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'Kuzdagi boychechak' birikmasida qanday nomuvofiqlik mavjud?",
+   "variantlar": [
+    "Grammatik nomuvofiqlik",
+    "Uslubiy nomuvofiqlik",
+    "Mantiqiy nomuvofiqlik",
+    "Nomuvofiqlik yo'q"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Gulni barglari' birikmasida qanday nomuvofiqlik mavjud?",
+   "variantlar": [
+    "Mantiqiy nomuvofiqlik",
+    "Grammatik nomuvofiqlik",
+    "Nomuvofiqlik yo'q",
+    "Uslubiy nomuvofiqlik"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Uyga dam olmoq' birikmasida qanday nomuvofiqlik mavjud?",
+   "variantlar": [
+    "Grammatik nomuvofiqlik",
+    "Uslubiy nomuvofiqlik",
+    "Mantiqiy nomuvofiqlik",
+    "Nomuvofiqlik yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Mevani ekmoq' birikmasida qanday nomuvofiqlik mavjud?",
+   "variantlar": [
+    "Grammatik nomuvofiqlik",
+    "Mantiqiy nomuvofiqlik",
+    "Uslubiy nomuvofiqlik",
+    "Nomuvofiqlik yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Odimlayotgan ilon' birikmasida qanday nomuvofiqlik mavjud?",
+   "variantlar": [
+    "Grammatik nomuvofiqlik",
+    "Nomuvofiqlik yo'q",
+    "Mantiqiy nomuvofiqlik",
+    "Uslubiy nomuvofiqlik"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Vaqt qadri' hikoyasida gumbaz qurilgach, quyosh soati nima sababdan ishlamay qoldi?",
+   "variantlar": [
+    "Olim vafot etgani uchun",
+    "Odamlar undan foydalanishni unutgani uchun",
+    "Gumbaz ostiga quyosh nuri tushmagani uchun",
+    "Soat eskirib qolgani uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "9.6-mashqdagi gapda bo'sh joylarga qo'shimchalar to'g'ri qo'yilgan variantni aniqlang: 'Kichkina qora sherst ro'moli… dahani… bog'lab olgan ayol ostona… kira solib ko'rishdi'",
+   "variantlar": [
+    "-ga, -ni, -dan",
+    "-ni, -dan, -dan",
+    "-ning, -ni, -dan",
+    "-ni, -ga, -dan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Belkurak bilan chopmoq' birikmasida qanday nomuvofiqlik mavjud?",
+   "variantlar": [
+    "Mantiqiy nomuvofiqlik",
+    "Uslubiy nomuvofiqlik",
+    "Nomuvofiqlik yo'q",
+    "Grammatik nomuvofiqlik"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Suv ichida cho'milmoq' birikmasida qanday nomuvofiqlik mavjud?",
+   "variantlar": [
+    "Mantiqiy nomuvofiqlik",
+    "Nomuvofiqlik yo'q",
+    "Grammatik nomuvofiqlik",
+    "Uslubiy nomuvofiqlik"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Samolyotda yelmoq' birikmasida qanday nomuvofiqlik mavjud?",
+   "variantlar": [
+    "Mantiqiy nomuvofiqlik",
+    "Grammatik nomuvofiqlik",
+    "Uslubiy nomuvofiqlik",
+    "Nomuvofiqlik yo'q"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "9.6-mashqdagi quyidagi gaplardan qaysi birida so'zlar bog'lanishidagi moslik buzilgan?",
+   "variantlar": [
+    "U o'ziga kelganida mashinaning qizil chiroqlari uzoqlashgan, odamlar allaqachon tarqalib ketgandi.",
+    "Momoqiz o'rog'ini yerga qadab, ro'molini boshiga yelvagay qilib o'radi.",
+    "Zarkosani etaklari ancha tekis, yilqilarni yozda boqish uchun juda bop yaylov edi.",
+    "Titroqni bosishga chiranganidan peshanasi va yuzlarida sovuq ter tomchilari paydo bo'ldi."
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "9.7-mashqdagi hikmatlardan qaysi biri mazmunan boshqalaridan farqli bo'lib, vaqtni qadrlash mavzusiga bevosita aloqador emas?",
+   "variantlar": [
+    "O'zingni o'zgartirish qanchalar mushkul ekanini o'ylab ko'r, shunda boshqalarni o'zgartirishga shunchalar ojiz ekaningni anglaysan. (Volter)",
+    "Sen uchun bir kunning ketishi bir qismingning ketishi demakdir. (Hasan Basriy)",
+    "Bir xil yilni 75 marta yashab qo'yib, uni umr deb atamang. (Robin Sharma)",
+    "\"Ertaga\" degan so'z ikkilanuvchan odamlar va bolalar uchun o'ylab topilgan. (I. Turgenev)"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Vaqt qadri' hikoyasining asosiy g'oyasi nimadan iborat?",
+   "variantlar": [
+    "Olimlarni hurmat qilish kerakligi",
+    "Vaqtning qadriga yetib, undan unumli foydalanish kerakligi",
+    "Chiroyli gumbaz qurish muhimligi",
+    "Quyosh soatini qayta ixtiro qilish zarurligi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Uch kundan oldin ketmoq' birikmasida qanday nomuvofiqlik mavjud?",
+   "variantlar": [
+    "Uslubiy nomuvofiqlik",
+    "Nomuvofiqlik yo'q",
+    "Grammatik nomuvofiqlik",
+    "Mantiqiy nomuvofiqlik"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "So'z ma'nosi bilan voqelikdagi haqiqat o'rtasidagi ziddiyatga asoslangan nomuvofiqlik turi qaysi?",
+   "variantlar": [
+    "Grammatik nomuvofiqlik",
+    "Fonetik nomuvofiqlik",
+    "Mantiqiy nomuvofiqlik",
+    "Uslubiy nomuvofiqlik"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "So'z shaklidagi (qo'shimcha qo'llashdagi) xatoga asoslangan nomuvofiqlik turi qaysi?",
+   "variantlar": [
+    "Leksik nomuvofiqlik",
+    "Grammatik nomuvofiqlik",
+    "Uslubiy nomuvofiqlik",
+    "Mantiqiy nomuvofiqlik"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nutq uslubiga mos kelmaslik bilan bog'liq nomuvofiqlik turi qaysi?",
+   "variantlar": [
+    "Uslubiy nomuvofiqlik",
+    "Sintaktik nomuvofiqlik",
+    "Grammatik nomuvofiqlik",
+    "Mantiqiy nomuvofiqlik"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Umr shunday kechadi' matnida ulfatlar dastlabki yigirma besh qavatni bosib o'tishda nima bilan shug'ullanishgan?",
+   "variantlar": [
+    "Jim bo'lib ketishgan",
+    "Qo'rqinchli voqealar so'zlashgan",
+    "G'amgin hikoyalar aytishgan",
+    "Latifa va askiya aytib, hazil-huzul qilishgan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ulfatlar ikkinchi yigirma besh qavatda nima haqida gaplashishgan?",
+   "variantlar": [
+    "Oilaviy xotiralar",
+    "Hazil-mutoyiba",
+    "Kundalik tashvishlar",
+    "Qo'rqinchli voqea va mardlik qissalari"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ulfatlar so'nggi yigirma besh qavatni bosib o'tib, eshik oldiga yetganlarida qanday musibatli holat yuz bergani ma'lum bo'ldi?",
+   "variantlar": [
+    "Liftning butunlay buzilgani",
+    "Mehmonxona yonib ketgani",
+    "Xonaning band bo'lib qolgani",
+    "Kalitning pastda qolib ketgani"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

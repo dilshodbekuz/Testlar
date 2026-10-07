@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Fizika",
+ "mavzu": "Jismning vertikal harakat qonuniyatlari. Gorizontga qiya otilgan jism harakati",
+ "savollar": [
+  {
+   "savol": "Yuqoriga vertikal otilgan jismning harakati qanday turdagi harakatdan iborat?",
+   "variantlar": [
+    "Tekis tezlanuvchan harakat",
+    "Bir tekis to'g'ri chiziqli harakat",
+    "Notekis harakat",
+    "Tekis sekinlanuvchan harakat"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Pastga vertikal otilgan jismning harakati qanday turdagi harakatdan iborat?",
+   "variantlar": [
+    "Tekis sekinlanuvchan harakat",
+    "Tekis tezlanuvchan harakat",
+    "Notekis harakat",
+    "Bir tekis to'g'ri chiziqli harakat"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jismning vertikal harakat qonuniyatlarini birinchi bo'lib kim tajribalar asosida o'rgangan?",
+   "variantlar": [
+    "Johannes Kepler",
+    "Isaac Newton",
+    "G. Galiley",
+    "Albert Einstein"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Galiley o'tkazgan tajribalar asosida jismlarning vertikal tushishida nechta qonuniyat aniqlangan?",
+   "variantlar": [
+    "Bitta",
+    "To'rtta",
+    "Uchta",
+    "Ikkita"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Erkin tushish vaqtida barcha jismlar qanday tezlanish bilan harakatlanadi?",
+   "variantlar": [
+    "Tezlanish nolga teng",
+    "Faqat katta jismlar tezlanadi",
+    "Har xil, massaga bog'liq tezlanish bilan",
+    "Doimiy, bir xil tezlanish bilan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yuqoriga tik otilgan jism eng baland ko'tarilish nuqtasiga yetganda uning tezligi nimaga teng bo'ladi?",
+   "variantlar": [
+    "Boshlang'ich tezlikka teng",
+    "Ikkilanadi",
+    "O'zgarmaydi",
+    "Nolga teng"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aylana bo'ylab tekis harakatlanayotgan moddiy nuqtaning vaqt birligida yoy bo'ylab bosib o'tgan yo'liga son jihatdan teng kattalik qanday ataladi?",
+   "variantlar": [
+    "Chiziqli tezlik",
+    "Normal tezlanish",
+    "Burchak tezlik",
+    "Tangensial tezlanish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Burchak tezlik vektorining yo'nalishi qaysi qoida asosida aniqlanadi?",
+   "variantlar": [
+    "Lens qoidasi",
+    "O'ng vint (parma) qoidasi",
+    "Nyutonning uchinchi qonuni",
+    "Chap qo'l qoidasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Burchak tezligi vaqt davomida o'zgarib turadigan aylanma harakat qanday nomlanadi?",
+   "variantlar": [
+    "Bir tekis to'g'ri chiziqli harakat",
+    "Erkin tushish harakati",
+    "Tekis aylanma harakat",
+    "O'zgaruvchan aylanma harakat"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Chiziqli tezlikning son qiymati o'zgarishi bilan bog'liq bo'lgan va yo'nalishi tezlik yo'nalishi bilan mos keladigan tezlanish qanday ataladi?",
+   "variantlar": [
+    "Markazga intilma tezlanish",
+    "Burchak tezlanish",
+    "Normal tezlanish",
+    "Tangensial (urinma) tezlanish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yuqoriga tik otilgan jismning ko'tarilish vaqti (tk) qaysi formula bilan hisoblanadi?",
+   "variantlar": [
+    "tk = υ0 · g",
+    "tk = 2υ0/g",
+    "tk = υ0/g",
+    "tk = g/υ0"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Burchak tezlanish ε > 0 bo'lganda aylanma harakat qanday bo'ladi?",
+   "variantlar": [
+    "To'xtagan",
+    "Tekis sekinlanuvchan",
+    "Tekis (o'zgarmas tezlikli)",
+    "Tekis tezlanuvchan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Burchak tezlanish ε < 0 bo'lganda aylanma harakat qanday bo'ladi?",
+   "variantlar": [
+    "Tekis tezlanuvchan",
+    "Tekis (o'zgarmas tezlikli)",
+    "Tekis sekinlanuvchan",
+    "Tezlashuvchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar boshlang'ich burchak tezlik ω0 = 0 bo'lsa, ixtiyoriy vaqtdagi burchak tezlik qanday formula bilan topiladi?",
+   "variantlar": [
+    "ω = ε · t",
+    "ω = ε/t",
+    "ω = ε + t",
+    "ω = ε²·t"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Havo qarshiligi hisobga olinmaganda, yuqoriga tik otilgan jismning ko'tarilish vaqti (tk) uning tushish vaqtiga (tt) nisbatan qanday bo'ladi?",
+   "variantlar": [
+    "tk har doim tt dan katta",
+    "tk = tt",
+    "Ular orasida bog'liqlik yo'q",
+    "tk har doim tt dan kichik"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jism qanday tezlik bilan yuqoriga tik otilsa, u otilgan joyiga qaytib tushganda qanday tezlikka ega bo'ladi?",
+   "variantlar": [
+    "Boshlang'ich tezlikdan kichik tezlik bilan",
+    "Xuddi shu (boshlang'ich) tezlik bilan",
+    "Boshlang'ich tezlikdan katta tezlik bilan",
+    "Tezligi nolga teng bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tekis o'zgaruvchan to'g'ri chiziqli harakatdagi bosib o'tilgan yo'l (s) kattaligiga tekis o'zgaruvchan aylanma harakatda qaysi kattalik mos keladi?",
+   "variantlar": [
+    "Chiziqli tezlik (υ)",
+    "Burchak tezlanish (ε)",
+    "Burilish burchagi (φ)",
+    "Burchak tezlik (ω)"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Erkin tushayotgan jismning o'rtacha tezligi qaysi ifoda yordamida aniqlanadi?",
+   "variantlar": [
+    "υo'rt = υ0/υ",
+    "υo'rt = υ - υ0",
+    "υo'rt = (υ + υ0)/2",
+    "υo'rt = υ · υ0"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Boshlang'ich tezliksiz (υ0 = 0) erkin tushayotgan jism uchun bosib o'tgan h balandlik qaysi formula bilan topiladi?",
+   "variantlar": [
+    "h = gt²/2",
+    "h = gt",
+    "h = g²t/2",
+    "h = gt/2"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "aτ = εR ifodasida R qaysi kattalikni bildiradi?",
+   "variantlar": [
+    "Burilish burchagini",
+    "Jismning massasini",
+    "Chiziqli tezlikni",
+    "Aylana radiusini"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Balandligi 20 m bo'lgan binodan boshlang'ich tezliksiz (υ0 = 0) erkin tushayotgan jismning yerga urilish paytidagi tezligini toping (g = 10 m/s²).",
+   "variantlar": [
+    "10 m/s",
+    "40 m/s",
+    "20 m/s",
+    "30 m/s"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Boshlang'ich tezligi 20 m/s bo'lgan jism yuqoriga tik otildi. Jismning maksimal ko'tarilish balandligini toping (g = 10 m/s²).",
+   "variantlar": [
+    "25 m",
+    "20 m",
+    "10 m",
+    "15 m"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Boshlang'ich tezligi 30 m/s bilan yuqoriga tik otilgan jismning havoda bo'lgan umumiy vaqtini (ko'tarilib, qaytib tushgunча) toping (g = 10 m/s²).",
+   "variantlar": [
+    "5 s",
+    "3 s",
+    "4 s",
+    "6 s"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "G'ildirak tekis sekinlanuvchan harakat qilib, 1 minut (60 s) davomida chastotasini 300 ayl/min dan 180 ayl/min gacha kamaytirdi. G'ildirakning burchak tezlanishini toping.",
+   "variantlar": [
+    "-2,1 rad/s²",
+    "-4,2 rad/s²",
+    "-0,42 rad/s²",
+    "-0,21 rad/s²"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "G'ildirak 1 minut davomida chastotasini 300 ayl/min dan 180 ayl/min gacha tekis kamaytirdi. Shu vaqt davomida g'ildirakning qancha to'la aylanish qilganini toping.",
+   "variantlar": [
+    "180 marta",
+    "240 marta",
+    "120 marta",
+    "300 marta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Boshlang'ich burchak tezligi 10 rad/s bo'lgan jism ε = 2 rad/s² burchak tezlanish bilan tekis tezlanuvchan aylanma harakat qiladi. 5 soniyadan keyin uning burchak tezligini toping.",
+   "variantlar": [
+    "20 rad/s",
+    "15 rad/s",
+    "30 rad/s",
+    "25 rad/s"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Boshlang'ich tezligi 15 m/s bilan pastga vertikal otilgan jismning 3 soniyadan keyingi tezligini toping (g = 10 m/s²).",
+   "variantlar": [
+    "50 m/s",
+    "35 m/s",
+    "40 m/s",
+    "45 m/s"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Radiusi 2 m bo'lgan aylana bo'ylab harakatlanayotgan jismning burchak tezlanishi 3 rad/s² ga teng. Jismning tangensial tezlanishini toping.",
+   "variantlar": [
+    "3 m/s²",
+    "6 m/s²",
+    "4 m/s²",
+    "5 m/s²"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoriga tik otilgan jism 4 soniyadan so'ng eng baland nuqtaga yetib to'xtadi. Jismning boshlang'ich tezligini toping (g = 10 m/s²).",
+   "variantlar": [
+    "20 m/s",
+    "40 m/s",
+    "30 m/s",
+    "50 m/s"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jism yuqoriga tik otilgan va 4 soniyadan so'ng eng baland nuqtaga yetib to'xtagan (g = 10 m/s²). Jismning maksimal ko'tarilish balandligini toping.",
+   "variantlar": [
+    "70 m",
+    "80 m",
+    "90 m",
+    "60 m"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

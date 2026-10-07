@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "4-dars. Sodda va murakkab funksiyalarning grafiklari",
+ "savollar": [
+  {
+   "savol": "4-dars qanday nomlanadi?",
+   "variantlar": [
+    "Sodda va murakkab funksiyalarning grafiklari",
+    "Matnli funksiyalar",
+    "Mantiqiy funksiyalar",
+    "Statistik funksiyalar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "MS Excel 2010 da funksiya grafiklari qaysi menyu bo‘limi orqali hosil qilinadi?",
+   "variantlar": [
+    "Rezensirovaniye bo‘limi",
+    "Вставка bo‘limining Grafik (Diagrammalar) bandi",
+    "Fayl bo‘limi",
+    "Formulalar bo‘limi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "1-mashqda qaysi funksiyaning grafigi hosil qilinadi?",
+   "variantlar": [
+    "z=log(x)",
+    "z=1/x",
+    "z=a+bx+cx²+dx³",
+    "z=sin(x)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "1-mashqda koeffitsiyentlar a,b,c,d qaysi kataklarga kiritiladi?",
+   "variantlar": [
+    "A1:D4",
+    "B1:B4",
+    "A1:A4",
+    "A1:D1"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "1-mashqda x ning qiymatlari qaysi kataklarga kiritiladi?",
+   "variantlar": [
+    "A2:E2",
+    "A1:E1",
+    "B2:B6",
+    "A3:E3"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "2-mashqda qaysi ikkita funksiyaning grafigi hosil qilinadi?",
+   "variantlar": [
+    "z=ln(x) va z=exp(x)",
+    "z=a+bx+cy va z=ax²+bxy+cy²",
+    "z=sin(x) va z=cos(x)",
+    "z=x² va z=x³"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "Nuqtali (sochilgan) diagramma turi qaysi so‘z bilan ataladi?",
+   "variantlar": [
+    "Krugovaya",
+    "Linеychataya",
+    "To‘chechnaya",
+    "Gistogramma"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "Ikki o‘zgaruvchili funksiya (sirt) grafigini hosil qilish uchun qaysi diagramma turi ishlatiladi?",
+   "variantlar": [
+    "Tochechnaya",
+    "Gistogramma",
+    "Krugovaya",
+    "Poverxnost (Sirt)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "Grafik ustiga x qiymatlarini chiqarish uchun grafik ustida o‘ng tugma bosilib qaysi band tanlanadi?",
+   "variantlar": [
+    "Dobavit podpisi dannix",
+    "Formatirovat os",
+    "Udalit",
+    "Kopirovat"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "MS Excel 2010 da funksiya grafiklarini hosil qilish qaysi bo‘limning qaysi bandida amalga oshiriladi (Yodda saqlang)?",
+   "variantlar": [
+    "Fayl bo‘limining Saqlash bandida",
+    "Вставка bo‘limining Diagrammalar bandida",
+    "Formulalar bo‘limining Kutubxona bandida",
+    "Ma’lumotlar bo‘limining Filtr bandida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "1-mashqda A3 katakka qanday formula kiritiladi (x=0 dagi qiymat uchun)?",
+   "variantlar": [
+    "=$A1*$B1*$C1*$D1",
+    "=A2+B2+C2+D2",
+    "=$A$1+$B$1*A2+$C$1*A2*A2+$D$1*A2*A2*A2",
+    "=A1+B1+C1+D1"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "1-mashqda qolgan nuqtalarga formula qanday usul bilan davom ettiriladi?",
+   "variantlar": [
+    "Har safar qo‘lda qayta yozish orqali",
+    "Faqat Enter tugmasi orqali",
+    "Formulalar o‘chirilib qayta kiritiladi",
+    "Nisbiy murojaat yordamida nusxalash orqali"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "1-mashqda grafik hosil qilish uchun qaysi kataklar bloki ajratib olinadi?",
+   "variantlar": [
+    "A2:E3",
+    "A1:D1",
+    "A1:A10",
+    "B1:B10"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "2-mashqda A1:C1 kataklariga nima kiritiladi?",
+   "variantlar": [
+    "z ning natijalari",
+    "a,b,c koeffitsiyentlarining qiymatlari",
+    "x ning qiymatlari",
+    "y ning qiymatlari"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "2-mashqda y ning qiymatlari qaysi kataklarga kiritiladi?",
+   "variantlar": [
+    "B1:B6",
+    "C2:C6",
+    "A2:A6",
+    "A2:E2"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "2-mashqda A3 katakka qanday formula kiritiladi?",
+   "variantlar": [
+    "=A1+A2+A4",
+    "=$A1+$B1+$C1",
+    "=A2*A4",
+    "=$A1*A2*A2+$B1*A2*A4+$C1*A4*A4"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "2-mashqda formulada $ belgisi nimani bildiradi?",
+   "variantlar": [
+    "Ushbu katakka absolut (qo‘zg‘almas) murojaatni",
+    "Ushbu katakka nisbiy murojaatni",
+    "Katakning bo‘shligini",
+    "Formulaning xatoligini"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "2-mashqda kataklar belgilab olingandan so‘ng grafik hosil qilish uchun panelning qaysi tugmasi bosiladi?",
+   "variantlar": [
+    "Gistogramma",
+    "Poverxnost (Sirt)",
+    "Diagramma Krugovaya",
+    "Tochechnaya"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "1-mashqda A1:D1 kataklariga qanday namunaviy qiymatlar kiritilgan?",
+   "variantlar": [
+    "0, 0, 0, 0",
+    "10, 20, 30, 40",
+    "-1, 5, -35, 65",
+    "1, 2, 3, 4"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "1-mashqda x ning qiymatlari qanday qadam bilan beriladi?",
+   "variantlar": [
+    "0; 1; 2; 3; 4",
+    "1; 2; 3; 4; 5",
+    "0,5; 1; 1,5; 2; 2,5",
+    "0; 0,1; 0,2; 0,3; 0,4"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "2-mashqda chap tomondagi chizma uchun A1:C1 kataklariga qanday qiymatlar kiritilgan?",
+   "variantlar": [
+    "-1, 2, 3",
+    "1, -2, 1",
+    "0, 0, 0",
+    "5, 10, 15"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "2-mashqda o‘ng tomondagi chizma uchun A1:C1 kataklariga qanday qiymatlar kiritilgan?",
+   "variantlar": [
+    "0, 1, 0",
+    "1, -2, 1",
+    "-1, 2, 3",
+    "2, 4, 6"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "2-mashqda grafik hosil qilish uchun qaysi kataklar bloki ajratib olinadi?",
+   "variantlar": [
+    "A2:E2",
+    "A2:A6",
+    "A3:E7",
+    "A1:C1"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "1-mashqdagi formulada A2 katagi nimani bildiradi?",
+   "variantlar": [
+    "a koeffitsiyentini",
+    "Natija z ni",
+    "d koeffitsiyentini",
+    "x ning joriy qiymatini"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Uyga vazifada qaysi funksiyaning grafigini hosil qilish so‘raladi?",
+   "variantlar": [
+    "y=3x+4",
+    "y=x²",
+    "y=sin(x)",
+    "y=cos(x)"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Uyga vazifada sinfingiz o‘quvchilarining qaysi fandan o‘zlashtirish ko‘rsatkichini grafik shaklda hosil qilish so‘raladi?",
+   "variantlar": [
+    "Tarix",
+    "Matematika",
+    "Fizika",
+    "Kimyo"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Savol-topshiriqda funksiya grafiklarini qanday qilib silliqlash so‘raladi?",
+   "variantlar": [
+    "Grafikni o‘chirish so‘raladi",
+    "Jadvalni saralash so‘raladi",
+    "Silliqlash uchun maxsus usuldan foydalanish so‘raladi",
+    "Grafikni rangini o‘zgartirish so‘raladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "1-mashqda funksiyaning darajasi nechaga teng (x ning eng katta darajasi)?",
+   "variantlar": [
+    "2 (kvadrat)",
+    "1 (chiziqli)",
+    "4 (to‘rtinchi daraja)",
+    "3 (kub, dx³ hadi bor)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "2-mashqdagi ikkinchi funksiya z=ax²+bxy+cy² necha o‘zgaruvchiga bog‘liq?",
+   "variantlar": [
+    "Ikkita (x va y)",
+    "Bitta (x)",
+    "Uchta (x, y, z)",
+    "O‘zgaruvchisiz"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "Grafikni hosil qilishdan oldin nima bajarilishi shart?",
+   "variantlar": [
+    "Internetga ulanish",
+    "Kerakli kataklar bloki belgilab ajratib olinishi",
+    "Fayl albatta saqlanishi",
+    "Printer ulanishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Fizika",
+ "mavzu": "17. Serial (ketma-ket) to'liq zanjir",
+ "savollar": [
+  {
+   "savol": "Aktiv qarshilik, induktiv g'altak va kondensator ketma-ket ulangan zanjirda iste'molchilardan o'tuvchi tok kuchlari qanday bo'ladi?",
+   "variantlar": [
+    "Qarshiligiga qarab turlicha bo'ladi",
+    "Kondensatorda eng kichik bo'ladi",
+    "Barchasida bir xil bo'ladi",
+    "Faqat g'altakda eng katta bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aktiv qarshilikdagi kuchlanish tebranishlari fazasi tok kuchi tebranishlari fazasiga nisbatan qanday bo'ladi?",
+   "variantlar": [
+    "π/2 ga oldinda bo'ladi",
+    "Mos keladi",
+    "π/2 ga orqada bo'ladi",
+    "π ga farq qiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kondensatordagi kuchlanish tebranishlari tok kuchi tebranishlaridan faza jihatidan qanday farq qiladi?",
+   "variantlar": [
+    "Fazasi mos keladi",
+    "π/4 ga orqada bo'ladi",
+    "π/2 ga orqada bo'ladi",
+    "π/2 ga oldinda bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "G'altakdagi kuchlanish tebranishi tok kuchi tebranishidan faza jihatidan qanday farq qiladi?",
+   "variantlar": [
+    "π/2 ga oldinda bo'ladi",
+    "π/2 ga orqada bo'ladi",
+    "Fazasi mos keladi",
+    "π ga orqada bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "XL − XC ayirma qanday qarshilik deb ataladi?",
+   "variantlar": [
+    "Aktiv qarshilik",
+    "Reaktiv qarshilik",
+    "Solishtirma qarshilik",
+    "To'la qarshilik"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Z = √(R² + (XL − XC)²) ifoda nima deyiladi?",
+   "variantlar": [
+    "Sig'im qarshiligi",
+    "O'zgaruvchan tok zanjirining to'la qarshiligi",
+    "Induktiv qarshilik",
+    "Reaktiv qarshilik"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'zgaruvchan tok zanjirida generatordan olinadigan energiya issiqlik energiyasi sifatida qayerda ajralib chiqadi?",
+   "variantlar": [
+    "Kondensatorda",
+    "Faqat aktiv qarshilikda",
+    "G'altakda",
+    "Reaktiv qarshilikda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ketma-ket ulangan zanjirda umumiy kuchlanish qanday aniqlanadi?",
+   "variantlar": [
+    "Iste'molchilardagi kuchlanishlarning arifmetik ko'paytmasiga teng",
+    "Faqat rezistordagi kuchlanishga teng",
+    "Kuchlanishlar tushuvi vektorlarining yig'indisiga teng",
+    "Faqat g'altak va kondensator kuchlanishlari ayirmasiga teng"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Induktiv qarshilik qaysi formula bilan hisoblanadi?",
+   "variantlar": [
+    "XL = L/ω",
+    "XL = 1/(ωL)",
+    "XL = ω/L",
+    "XL = ωL"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zanjir chastotasi ortganda g'altakning induktiv qarshiligi qanday o'zgaradi?",
+   "variantlar": [
+    "Nolga teng bo'ladi",
+    "O'zgarmaydi",
+    "Ortadi",
+    "Kamayadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ketma-ket zanjirda R = 3 Ω, XL = 7 Ω, XC = 3 Ω bo'lsa, to'la qarshilik Z nimaga teng?",
+   "variantlar": [
+    "5 Ω",
+    "7 Ω",
+    "4 Ω",
+    "13 Ω"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ketma-ket zanjirda R = 6 Ω, XL = 10 Ω, XC = 2 Ω bo'lsa, to'la qarshilik Z nimaga teng?",
+   "variantlar": [
+    "14 Ω",
+    "8 Ω",
+    "18 Ω",
+    "10 Ω"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zanjirning to'la qarshiligi Z = 20 Ω, kuchlanish amplitudasi Um = 100 V bo'lsa, tok kuchi amplitudasi Imax qancha?",
+   "variantlar": [
+    "120 A",
+    "5 A",
+    "2000 A",
+    "0,2 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "R = 8 Ω, XL = 10 Ω, XC = 2 Ω bo'lsa, tgφ qanchaga teng?",
+   "variantlar": [
+    "1,25",
+    "0,5",
+    "0,8",
+    "1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Siklik chastota ω = 100 rad/s, induktivlik L = 0,2 H bo'lsa, induktiv qarshilik XL nimaga teng?",
+   "variantlar": [
+    "500 Ω",
+    "200 Ω",
+    "0,002 Ω",
+    "20 Ω"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Siklik chastota ω = 1000 rad/s, sig'im C = 50 μF bo'lsa, kondensatorning qarshiligi XC = 1/(ωC) nimaga teng?",
+   "variantlar": [
+    "20 Ω",
+    "5 Ω",
+    "50 Ω",
+    "0,05 Ω"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tok kuchi amplitudasi Imax = 2 A, rezistor qarshiligi R = 15 Ω bo'lsa, rezistordagi kuchlanish amplitudasi UR qancha?",
+   "variantlar": [
+    "7,5 V",
+    "13 V",
+    "30 V",
+    "17 V"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "G'altakning induktiv qarshiligi XL = 40 Ω, tok kuchi amplitudasi Imax = 0,5 A bo'lsa, g'altakdagi kuchlanish amplitudasi UL qancha?",
+   "variantlar": [
+    "80 V",
+    "20 V",
+    "40,5 V",
+    "0,0125 V"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Amplitudaviy kuchlanishlar UR = 40 V, UL = 40 V, UC = 10 V bo'lsa, zanjirdagi umumiy kuchlanishning maksimal qiymati Um qancha?",
+   "variantlar": [
+    "50 V",
+    "90 V",
+    "70 V",
+    "30 V"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "XL = 25 Ω va XC = 40 Ω bo'lsa, reaktiv qarshilik XL − XC nimaga teng?",
+   "variantlar": [
+    "15 Ω",
+    "65 Ω",
+    "1000 Ω",
+    "−15 Ω"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zanjirda R = 8 Ω, XL = 15 Ω, XC = 9 Ω. Zanjirga Um = 60 V amplitudali kuchlanish berilsa, tok kuchi amplitudasi Imax qancha bo'ladi?",
+   "variantlar": [
+    "6 A",
+    "2,5 A",
+    "4 A",
+    "7,5 A"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zanjirda R = 12 Ω, tok kuchi amplitudasi 2 A, XL = 25 Ω, XC = 9 Ω. Umumiy kuchlanishning maksimal qiymati Um qancha?",
+   "variantlar": [
+    "24 V",
+    "32 V",
+    "40 V",
+    "56 V"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zanjirda R = 5 Ω, XL = 20 Ω, to'la qarshilik Z = 13 Ω va XC < XL. Kondensatorning qarshiligi XC nimaga teng?",
+   "variantlar": [
+    "15 Ω",
+    "32 Ω",
+    "8 Ω",
+    "12 Ω"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ketma-ket zanjirda XL < XC bo'lsa, tgφ = (XL − XC)/R ifodaga ko'ra tok va kuchlanish orasidagi munosabat qanday bo'ladi?",
+   "variantlar": [
+    "Tok kuchi kuchlanishdan faza jihatidan orqada bo'ladi",
+    "Tok va kuchlanish fazalari mos keladi",
+    "Tok kuchi nolga teng bo'ladi",
+    "Tok kuchi kuchlanishdan faza jihatidan oldinda bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zanjirda R = 6 Ω, reaktiv qarshilik XL − XC = 8 Ω, tok kuchi amplitudasi Imax = 2 A. Umumiy kuchlanish amplitudasi Um va tgφ qanday?",
+   "variantlar": [
+    "Um = 28 V, tgφ = 4/3",
+    "Um = 20 V, tgφ = 3/4",
+    "Um = 14 V, tgφ = 4/3",
+    "Um = 20 V, tgφ = 4/3"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zanjirda R = 30 Ω, XL = 70 Ω, XC = 30 Ω, Um = 100 V. G'altakdagi kuchlanish amplitudasi UL qancha?",
+   "variantlar": [
+    "210 V",
+    "100 V",
+    "60 V",
+    "140 V"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zanjirda R = 30 Ω, XL = 20 Ω, XC = 40 Ω. Kuchlanish chastotasi ikki marta orttirilsa, to'la qarshilik Z qanday o'zgaradi?",
+   "variantlar": [
+    "Nolga teng bo'ladi",
+    "Ikki marta ortadi",
+    "Ikki marta kamayadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zanjirda R = 30 Ω, XL = 80 Ω, XC = 40 Ω bo'lsa, tok va kuchlanish orasidagi faza farqi uchun tgφ nimaga teng?",
+   "variantlar": [
+    "3/4",
+    "3/8",
+    "4/3",
+    "1/4"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Aktiv qarshiligi bo'lmagan (R = 0) zanjirda XL = 45 Ω, XC = 20 Ω, Um = 50 V. Tok kuchi amplitudasi Imax qancha va issiqlik ajraladimi?",
+   "variantlar": [
+    "Imax = 2 A, issiqlik ajraladi",
+    "Imax = 1,25 A, issiqlik ajralmaydi",
+    "Imax = 0,77 A, issiqlik ajraladi",
+    "Imax = 2 A, issiqlik ajralmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zanjirda R = 10 Ω, XL = XC, Um = 80 V bo'lsa, tok kuchi amplitudasi Imax va faza farqi φ qanday?",
+   "variantlar": [
+    "Imax = 80 A, φ = π/2",
+    "Imax = 8 A, φ = π/2",
+    "Imax = 8 A, φ = 0",
+    "Imax = 4 A, φ = 0"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

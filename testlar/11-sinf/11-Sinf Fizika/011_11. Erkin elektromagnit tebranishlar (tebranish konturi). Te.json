@@ -1,0 +1,326 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Fizika",
+ "mavzu": "11. Erkin elektromagnit tebranishlar (tebranish konturi). Tebranish konturida energiyaning o'zgarishi",
+ "savollar": [
+  {
+   "savol": "Tebranish konturi qaysi elementlardan iborat berk zanjir?",
+   "variantlar": [
+    "Rezistor va induktiv g'altak",
+    "Induktiv g'altak va kondensator",
+    "Tok manbayi va rezistor",
+    "Rezistor va kondensator"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "So'z, tovush, tasvir yoki boshqa axborotlarni uzoq masofalarga elektromagnit signallari ko'rinishida uzatish nima deb ataladi?",
+   "variantlar": [
+    "Difraksiya",
+    "Rezonans",
+    "Telekommunikatsiya",
+    "Induksiya"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tebranish konturidagi elektromagnit tebranishlar davrini aniqlash uchun Tomson formulasi qaysi?",
+   "variantlar": [
+    "T = 2π·L/C",
+    "T = LC/2π",
+    "T = 2π√(LC)",
+    "T = 1/√(LC)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ideal tebranish konturida tebranishlar nima uchun so'nmaydi?",
+   "variantlar": [
+    "G'altakning induktivligi nolga teng bo'lgani uchun",
+    "Energiya sarfi bo'lmagani uchun",
+    "Zanjirda doimo tok manbayi ulangan bo'lgani uchun",
+    "Kondensator sig'imi juda katta bo'lgani uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tebranishlar chastotasi qaysi birlikda o'lchanadi?",
+   "variantlar": [
+    "Genri (H)",
+    "Gerts (Hz)",
+    "Sekund (s)",
+    "Farad (F)"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "G'altak atrofidagi magnit maydon energiyasining maksimal qiymati qaysi formula bilan ifodalanadi?",
+   "variantlar": [
+    "W = CU",
+    "W = LIm²/2",
+    "W = q²/(2C)",
+    "W = qm/C"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mexanik va elektr tebranishlar parametrlari o'xshashligiga ko'ra, massa (m) ga qaysi elektr kattalik mos keladi?",
+   "variantlar": [
+    "Tok kuchi i",
+    "Sig'im C",
+    "Induktivlik L",
+    "Zaryad q"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mexanik tebranishlardagi x koordinataga elektr tebranishlarda qaysi kattalik mos keladi?",
+   "variantlar": [
+    "Induktivlik L",
+    "Sig'im C",
+    "Zaryad q",
+    "Tok kuchi i"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Telefonni 1876-yilda kim ixtiro qilgan?",
+   "variantlar": [
+    "A.G. Bell",
+    "U. Kuk",
+    "U. Tomson",
+    "S. Morze"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kondensator qoplamalari orasidagi elektr maydon energiyasi qaysi ifoda bilan topiladi?",
+   "variantlar": [
+    "mu²/2",
+    "q²/(2C)",
+    "Li²/2",
+    "kx²/2"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tebranish konturida L = 0,1 H, C = 10 µF (10⁻⁵ F). Xususiy tebranishlar davri taxminan qancha? (π = 3,14)",
+   "variantlar": [
+    "6,28·10⁻³ s",
+    "6,28·10⁻⁴ s",
+    "3,14·10⁻³ s",
+    "6,28·10⁻² s"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tebranish konturidagi kondensator sig'imi 4 marta orttirilsa, tebranishlar davri qanday o'zgaradi?",
+   "variantlar": [
+    "2 marta ortadi",
+    "2 marta kamayadi",
+    "4 marta ortadi",
+    "4 marta kamayadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "G'altakning induktivligi 9 marta kamaytirilsa, konturdagi tebranishlar chastotasi qanday o'zgaradi?",
+   "variantlar": [
+    "9 marta kamayadi",
+    "9 marta ortadi",
+    "3 marta ortadi",
+    "3 marta kamayadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sig'imi 2 µF bo'lgan kondensator 10 V kuchlanishgacha zaryadlandi. Kondensatordagi maksimal elektr maydon energiyasi qancha?",
+   "variantlar": [
+    "10 µJ",
+    "20 µJ",
+    "100 µJ",
+    "200 µJ"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Induktivligi 0,5 H bo'lgan g'altakdagi maksimal tok kuchi 2 A. Magnit maydonning maksimal energiyasi qancha?",
+   "variantlar": [
+    "0,5 J",
+    "2 J",
+    "4 J",
+    "1 J"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ideal konturda to'la energiya 8 mJ. Biror paytda elektr maydon energiyasi 3 mJ bo'lsa, shu paytda magnit maydon energiyasi qancha?",
+   "variantlar": [
+    "24 mJ",
+    "11 mJ",
+    "3 mJ",
+    "5 mJ"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tebranish davri 0,02 s bo'lsa, tebranishlar chastotasi qancha?",
+   "variantlar": [
+    "200 Hz",
+    "50 Hz",
+    "5 Hz",
+    "0,02 Hz"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ideal konturda kondensatordagi zaryad maksimal bo'lgan paytda g'altakdagi tok kuchi qanday bo'ladi?",
+   "variantlar": [
+    "Cheksiz katta",
+    "Maksimalning yarmiga teng",
+    "Maksimal",
+    "Nolga teng"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ideal konturda g'altakdagi tok kuchi maksimal bo'lgan paytda kondensatordagi elektr maydon energiyasi qanday bo'ladi?",
+   "variantlar": [
+    "Maksimal",
+    "To'la energiyaning yarmiga teng",
+    "To'la energiyaning to'rtdan biriga teng",
+    "Nolga teng"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mexanik va elektr tebranishlar o'xshashligida prujinaning bikrligi k ga qaysi elektr kattalik mos keladi?",
+   "variantlar": [
+    "Sig'imga teskari kattalik 1/C",
+    "Tok kuchi i",
+    "Sig'im C",
+    "Induktivlik L"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ideal konturda L = 0,2 H, g'altakdagi maksimal tok 0,1 A, kondensator sig'imi C = 5 µF. Kondensatordagi maksimal zaryad qm qancha?",
+   "variantlar": [
+    "10⁻³ C",
+    "2·10⁻⁴ C",
+    "10⁻⁵ C",
+    "10⁻⁴ C"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ideal konturda to'la energiya 4 mJ. Biror paytda tok kuchi maksimal qiymatining yarmiga teng. Shu paytda kondensatordagi elektr maydon energiyasi qancha?",
+   "variantlar": [
+    "1 mJ",
+    "3 mJ",
+    "3,5 mJ",
+    "2 mJ"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ideal konturda to'la energiya 8 µJ. Kondensatordagi zaryad maksimal qiymatining yarmiga teng bo'lgan paytda g'altakdagi magnit maydon energiyasi qancha?",
+   "variantlar": [
+    "2 µJ",
+    "4 µJ",
+    "6 µJ",
+    "7 µJ"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Konturda g'altakning induktivligi ham, kondensator sig'imi ham 4 martadan orttirildi. Tebranishlar davri qanday o'zgaradi?",
+   "variantlar": [
+    "4 marta ortadi",
+    "16 marta ortadi",
+    "2 marta ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Konturda induktivlik 2 marta orttirilib, kondensator sig'imi 8 marta kamaytirildi. Tebranishlar davri qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "2 marta kamayadi",
+    "2 marta ortadi",
+    "4 marta kamayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Konturda C = 10⁻⁵ F, L = 0,4 H, kondensatordagi maksimal kuchlanish 2 V. Konturdagi maksimal tok kuchi qancha?",
+   "variantlar": [
+    "0,02 A",
+    "0,01 A",
+    "0,1 A",
+    "0,001 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tebranish davri 0,04 s bo'lgan ideal konturda kondensator t = 0 da to'liq zaryadlangan va g'altak bilan ulandi. t = 0,02 s paytda energiya qayerda va kondensator qoplamalarining ishorasi dastlabkiga nisbatan qanday?",
+   "variantlar": [
+    "Magnit maydonda; ishorasi teskari",
+    "Elektr maydonda; ishorasi teskari",
+    "Magnit maydonda; ishorasi o'zgarmagan",
+    "Elektr maydonda; ishorasi o'zgarmagan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ideal konturda elektr maydon energiyasi magnit maydon energiyasiga teng bo'lgan paytda kondensatordagi zaryad q maksimal zaryad qm ning qancha qismini tashkil qiladi?",
+   "variantlar": [
+    "qm/√2",
+    "qm/4",
+    "qm/2",
+    "qm·√2"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Prujinali mayatnikda davr T = 2π√(m/k) formula bilan topiladi. Mexanik va elektr tebranishlar parametrlari o'xshashligidan (m ↔ L, k ↔ 1/C) foydalanib, konturdagi davr formulasini toping.",
+   "variantlar": [
+    "T = 2π√(LC)",
+    "T = 2π√(C/L)",
+    "T = 2π√(L/C)",
+    "T = 2π/√(LC)"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

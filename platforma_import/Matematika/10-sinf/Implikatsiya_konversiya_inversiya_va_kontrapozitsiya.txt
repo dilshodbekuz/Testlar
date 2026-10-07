@@ -1,0 +1,179 @@
+"Agar p bo'lsa, u holda q" shaklidagi mulohaza nima deyiladi?
++A) Implikatsiya
+B) Konyunksiya
+C) Dizyunksiya
+D) Ekvivalensiya
+
+p⇒q implikatsiyada p nima deb ataladi?
+A) Zaruriy shart
++B) Yetarli shart
+C) Inkor
+D) Natija
+
+p⇒q implikatsiyada q nima deb ataladi?
+A) Yetarli shart
+B) Sabab
++C) Zaruriy shart
+D) Inkor
+
+p⇒q qachon yolg'on bo'ladi?
+A) p va q ikkalasi ham rost bo'lganda
+B) p va q ikkalasi ham yolg'on bo'lganda
+C) p yolg'on, q rost bo'lganda
++D) p rost, q yolg'on bo'lganda
+
+p⇒q mulohazaning konversiyasini tanlang.
++A) q⇒p
+B) ¬p⇒¬q
+C) ¬q⇒¬p
+D) ¬p∧¬q
+
+p⇒q mulohazaning inversiyasini tanlang.
+A) q⇒p
++B) ¬p⇒¬q
+C) ¬q⇒¬p
+D) p∧q
+
+p⇒q mulohazaning kontrapozitsiyasini tanlang.
+A) q⇒p
+B) ¬p⇒¬q
++C) ¬q⇒¬p
+D) p∨q
+
+p⇒q mulohaza qaysi mulohaza bilan mantiqiy tengkuchli?
+A) O'zining konversiyasi bilan
+B) O'zining inversiyasi bilan
+C) ¬p∧q bilan
++D) O'zining kontrapozitsiyasi bilan
+
+(p⇒q)∧(q⇒p) mulohaza nima deyiladi?
++A) Ekvivalensiya
+B) Konversiya
+C) Inversiya
+D) Kontrapozitsiya
+
+p⇔q mulohaza qachon rost bo'ladi?
+A) Faqat p rost bo'lganda
++B) p va q bir xil qiymatga ega bo'lganda
+C) Faqat q rost bo'lganda
+D) p va q har xil qiymatga ega bo'lganda
+
+p = T, q = F bo'lsa, p⇒q ning qiymatini toping.
+A) T
+B) Aniqlanmagan
++C) F
+D) Mulohaza emas
+
+p = F, q = T bo'lsa, p⇒q ning qiymatini toping.
+A) F
+B) Aniqlanmagan
+C) Mulohaza emas
++D) T
+
+p = F, q = F bo'lsa, p⇒q ning qiymatini toping.
++A) T
+B) F
+C) Aniqlanmagan
+D) Mulohaza emas
+
+p = T, q = T bo'lsa, p⇒q ning qiymatini toping.
+A) F
++B) T
+C) Aniqlanmagan
+D) Mulohaza emas
+
+p = T, q = F bo'lsa, q⇒p (konversiya) ning qiymatini toping.
+A) F
+B) Aniqlanmagan
++C) T
+D) Mulohaza emas
+
+p = F, q = T bo'lsa, q⇒p (konversiya) ning qiymatini toping.
+A) T
+B) Aniqlanmagan
+C) Mulohaza emas
++D) F
+
+p = T, q = F bo'lsa, ¬p⇒¬q (inversiya) ning qiymatini toping.
++A) T
+B) F
+C) Aniqlanmagan
+D) Mulohaza emas
+
+p = F, q = T bo'lsa, ¬p⇒¬q (inversiya) ning qiymatini toping.
+A) T
++B) F
+C) Aniqlanmagan
+D) Mulohaza emas
+
+p = T, q = F bo'lsa, ¬q⇒¬p (kontrapozitsiya) ning qiymatini toping.
+A) T
+B) Aniqlanmagan
++C) F
+D) Mulohaza emas
+
+p = F, q = T bo'lsa, ¬q⇒¬p (kontrapozitsiya) ning qiymatini toping.
+A) F
+B) Aniqlanmagan
+C) Mulohaza emas
++D) T
+
+"Agar x > 20 bo'lsa, u holda x > 10 bo'ladi" mulohazaning konversiyasini tanlang.
++A) "Agar x > 10 bo'lsa, u holda x > 20 bo'ladi"
+B) "Agar x ≤ 20 bo'lsa, u holda x ≤ 10 bo'ladi"
+C) "Agar x ≤ 10 bo'lsa, u holda x ≤ 20 bo'ladi"
+D) "Agar x > 20 bo'lmasa, x > 10 bo'lmaydi"
+
+"Agar uchburchak teng yonli bo'lsa, uning ikkita burchagi teng" mulohazaning kontrapozitsiyasini tanlang.
+A) "Agar uchburchakning ikkita burchagi teng bo'lsa, u teng yonli bo'ladi"
++B) "Agar uchburchakning ikkita burchagi teng bo'lmasa, u teng yonli emas"
+C) "Agar uchburchak teng yonli bo'lmasa, uning ikkita burchagi teng emas"
+D) "Uchburchak teng yonli va ikkita burchagi teng"
+
+Implikatsiya va uning kontrapozitsiyasi haqida to'g'ri fikrni tanlang.
+A) Ular hech qachon bir xil qiymat qabul qilmaydi
+B) Ular faqat p = T bo'lganda bir xil
++C) Ular mantiqiy tengkuchli
+D) Ular bog'liq emas
+
+Implikatsiya va uning konversiyasi haqida to'g'ri fikrni tanlang.
+A) Ular har doim mantiqiy tengkuchli
+B) Ular hech qachon rost bo'lmaydi
+C) Ular faqat q = F bo'lganda tengkuchli
++D) Ular umuman olganda mantiqiy tengkuchli emas
+
+Inversiya va konversiya mulohazalari haqida to'g'ri fikrni tanlang.
++A) Ular mantiqiy tengkuchli
+B) Ular hech qachon bir xil qiymat olmaydi
+C) Inversiya har doim rost
+D) Konversiya har doim yolg'on
+
+p: "x son 6 ga bo'linadi", q: "x - juft son". x = 6 bo'lganda p⇒q ning qiymatini toping.
+A) F
++B) T
+C) Aniqlanmagan
+D) Mulohaza emas
+
+p: "x son 6 ga bo'linadi", q: "x - juft son". x = 3 bo'lganda p⇒q ning qiymatini toping.
+A) F
+B) Aniqlanmagan
++C) T
+D) Mulohaza emas
+
+p: "ABCD - to'g'ri to'rtburchak", q: "AB||CD va AD||BC". p⇒q implikatsiyasi rostmi?
+A) Yolg'on
+B) Aniqlanmagan
+C) Mulohaza emas
++D) Rost, chunki to'g'ri to'rtburchakda qarama-qarshi tomonlar parallel
+
+p⇒q rost va q⇒p ham rost bo'lsa, p va q haqida nima deyish mumkin?
++A) p va q ekvivalent (bir xil qiymatga ega)
+B) p va q bog'liq emas
+C) p doim rost
+D) q doim yolg'on
+
+∀x(A(x)⇒B(x)) ⇒ ∀x(¬B(x)⇒¬A(x)) mantiqiy qonuni nimaga asoslangan?
+A) Konyunksiya qoidasiga
++B) Implikatsiya va uning kontrapozitsiyasining mantiqiy tengkuchliligiga
+C) Dizyunksiya qoidasiga
+D) To'ldiruvchi to'plam qoidasiga

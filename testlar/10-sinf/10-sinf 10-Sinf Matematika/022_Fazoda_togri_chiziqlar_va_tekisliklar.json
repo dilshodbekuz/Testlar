@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Matematika",
+ "mavzu": "Fazoda to'g'ri chiziqlar va tekisliklar",
+ "savollar": [
+  {
+   "savol": "Fazoda bir tekislikda yotmaydigan ikki to'g'ri chiziq nima deyiladi?",
+   "variantlar": [
+    "Ayqash to'g'ri chiziqlar",
+    "Kesishuvchi to'g'ri chiziqlar",
+    "Parallel to'g'ri chiziqlar",
+    "Perpendikulyar to'g'ri chiziqlar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bitta tekislikda yotgan va faqat bitta umumiy nuqtaga ega bo'lgan to'g'ri chiziqlar nima deyiladi?",
+   "variantlar": [
+    "Ayqash to'g'ri chiziqlar",
+    "Kesishuvchi to'g'ri chiziqlar",
+    "Parallel to'g'ri chiziqlar",
+    "Ustma-ust tushuvchi to'g'ri chiziqlar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bitta tekislikda yotgan va o'zaro kesishmaydigan to'g'ri chiziqlar nima deyiladi?",
+   "variantlar": [
+    "Ayqash to'g'ri chiziqlar",
+    "Kesishuvchi to'g'ri chiziqlar",
+    "Parallel to'g'ri chiziqlar",
+    "Perpendikulyar to'g'ri chiziqlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'g'ri chiziq tekislik bilan umumiy nuqtaga ega bo'lmasa, bu holat qanday ataladi?",
+   "variantlar": [
+    "To'g'ri chiziq tekislikda yotadi",
+    "To'g'ri chiziq tekislikni kesib o'tadi",
+    "To'g'ri chiziq va tekislik ustma-ust tushadi",
+    "To'g'ri chiziq tekislikka parallel"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikki tekislik biror to'g'ri chiziq bo'ylab kesishishi yoki umumiy nuqtaga ega bo'lmasligi mumkin. Bu ikki holat qanday ataladi?",
+   "variantlar": [
+    "Kesishuvchi yoki parallel tekisliklar",
+    "Faqat kesishuvchi tekisliklar",
+    "Faqat parallel tekisliklar",
+    "Ustma-ust tushuvchi tekisliklar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Parallellik belgisi \"//\" nimalarni belgilashda ishlatiladi?",
+   "variantlar": [
+    "Faqat sonlarni",
+    "Parallel to'g'ri chiziqlarni, to'g'ri chiziqning tekislikka parallelligini va parallel tekisliklarni",
+    "Faqat burchaklarni",
+    "Faqat kesishuvchi to'g'ri chiziqlarni"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "S1 aksiomasiga ko'ra, bitta to'g'ri chiziqda yotmagan uchta nuqta orqali nechta tekislik o'tkazish mumkin?",
+   "variantlar": [
+    "Ikkita",
+    "Cheksiz ko'p",
+    "Yagona",
+    "Hech qanday"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "S2 aksiomasiga ko'ra, to'g'ri chiziqning ikkita nuqtasi bitta tekislikda yotsa, nima bo'ladi?",
+   "variantlar": [
+    "Uning hech bir nuqtasi shu tekislikda yotmaydi",
+    "Faqat bitta nuqtasi yotadi",
+    "Aniqlab bo'lmaydi",
+    "Uning barcha nuqtalari shu tekislikda yotadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "S3 aksiomasiga ko'ra, ikki tekislik umumiy nuqtaga ega bo'lsa, ular yana nimaga ega bo'ladi?",
+   "variantlar": [
+    "Shu nuqtadan o'tuvchi umumiy to'g'ri chiziqqa",
+    "Umumiy aylanaga",
+    "Umumiy burchakka",
+    "Hech nimaga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Fazodagi asosiy geometrik shakllar qaysilar?",
+   "variantlar": [
+    "Faqat to'g'ri chiziq va tekislik",
+    "Nuqta, to'g'ri chiziq va tekislik",
+    "Faqat nuqta va aylana",
+    "Faqat kesma va burchak"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "2.1-teoremaga ko'ra, to'g'ri chiziq va unda yotmaydigan nuqta orqali nechta tekislik o'tkazish mumkin?",
+   "variantlar": [
+    "Ikkita",
+    "Cheksiz ko'p",
+    "Bitta va faqat bitta",
+    "Hech qanday"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2.1-teoremani isbotlashda qaysi aksiomadan foydalanib tekislikning mavjudligi ko'rsatiladi?",
+   "variantlar": [
+    "S2 aksiomasidan",
+    "S3 aksiomasidan",
+    "2.2-teoremadan",
+    "S1 aksiomasidan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2.1-teoremani isbotlashda tekislikning yagonaligi qanday usul bilan ko'rsatiladi?",
+   "variantlar": [
+    "Teskarisini faraz qilish usuli bilan",
+    "To'g'ridan-to'g'ri o'lchash bilan",
+    "Faqat chizma bilan",
+    "Tajriba bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2.2-teoremaga ko'ra, berilgan kesishuvchi ikkita to'g'ri chiziq orqali nechta tekislik o'tkazish mumkin?",
+   "variantlar": [
+    "Ikkita",
+    "Yagona",
+    "Cheksiz ko'p",
+    "Hech qanday"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2.2-teoremani isbotlashda qaysi teoremadan foydalaniladi?",
+   "variantlar": [
+    "S3 aksiomasidan",
+    "S2 aksiomasidan",
+    "2.1-teoremadan (to'g'ri chiziq va unda yotmagan nuqta orqali tekislik)",
+    "Pifagor teoremasidan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Parallelepipedning qarama-qarshi bo'lmagan yon qirralari (masalan MN va L1M1) odatda qanday joylashgan bo'ladi?",
+   "variantlar": [
+    "Kesishuvchi",
+    "Parallel",
+    "Ustma-ust tushuvchi",
+    "Ayqash"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Parallelepipedning qarama-qarshi yon yoqlari (masalan pastki va ustki asoslari) qanday tekisliklar hosil qiladi?",
+   "variantlar": [
+    "Parallel tekisliklar",
+    "Kesishuvchi tekisliklar",
+    "Perpendikulyar tekisliklar",
+    "Ustma-ust tushuvchi tekisliklar"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Parallelepipedning qo'shni (kesishuvchi) yon yoqlari qanday tekisliklar hosil qiladi?",
+   "variantlar": [
+    "Parallel tekisliklar",
+    "Kesishuvchi tekisliklar",
+    "Ayqash tekisliklar",
+    "Ustma-ust tushuvchi tekisliklar"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Stol ustida yotgan qalam qanday holatni ifodalaydi?",
+   "variantlar": [
+    "Tekislikni kesib o'tuvchi to'g'ri chiziq",
+    "Tekislikka parallel to'g'ri chiziq",
+    "Tekislikda yotuvchi to'g'ri chiziq",
+    "Ayqash to'g'ri chiziq"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Polda turgan gimnastika yog'ochi devor tekisligiga nisbatan qanday joylashgan bo'ladi (agar kesishmasa)?",
+   "variantlar": [
+    "Tekislikda yotadi",
+    "Tekislikni kesib o'tadi",
+    "Ayqash bo'ladi",
+    "Tekislikka parallel"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2.1-teoremani teskarisini faraz qilib isbotlashda qanday ziddiyatga kelinadi?",
+   "variantlar": [
+    "Uchta nuqta orqali ikkita xil tekislik o'tishi S2 aksiomasiga zid bo'ladi",
+    "Hech qanday ziddiyat kelib chiqmaydi",
+    "Uchta nuqta bir chiziqda yotib qoladi",
+    "Tekislik umuman mavjud bo'lmay qoladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar ikki to'g'ri chiziq kesishsa, ular orqali nechta tekislik o'tkazish mumkinligini 2.2-teorema asosida aniqlang.",
+   "variantlar": [
+    "Ikkita",
+    "Faqat bitta (yagona)",
+    "Cheksiz ko'p",
+    "Hech qanday"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "2.2-teoremani isbotlashda, a to'g'ri chiziqda C dan farqli D nuqta olinadi, so'ngra qanday tekislik quriladi?",
+   "variantlar": [
+    "Faqat chizma chiziladi",
+    "Hech narsa qurilmaydi",
+    "b to'g'ri chiziq va unda yotmagan D nuqta orqali yagona α tekislik",
+    "Faqat uchburchak quriladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "S2 aksiomasidan foydalanib, α tekislik nima uchun a to'g'ri chiziqdan ham o'tadi deb xulosa chiqariladi?",
+   "variantlar": [
+    "Chunki D nuqta C ga teng",
+    "Chunki a va b parallel",
+    "Tasodifan",
+    "Chunki a to'g'ri chiziqning ikkita nuqtasi (C va D) α tekislikda yotadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Fazoda uchta aksioma (S1, S2, S3) planimetriya aksiomalari bilan birga nimani tashkil qiladi?",
+   "variantlar": [
+    "Stereometriyaning asosini",
+    "Faqat algebraning asosini",
+    "Faqat trigonometriyaning asosini",
+    "Hech qanday asosni tashkil qilmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Stereometriyada planimetriyadagi kabi bitta emas, balki qanday son tekisliklar mavjud deb qaraladi?",
+   "variantlar": [
+    "Faqat bitta tekislik",
+    "Cheksiz ko'p tekislik",
+    "Faqat ikkita tekislik",
+    "Faqat uchta tekislik"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ayqash to'g'ri chiziqlarga turmushdan qanday misol keltirilgan?",
+   "variantlar": [
+    "Ikki parallel yo'l",
+    "Ikki kesishuvchi yo'l",
+    "Ko'prikdan o'tuvchi yo'l va ko'prik ostidan o'tuvchi yo'l",
+    "Bir xil yo'l"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Xonaning poli va shifti qanday tekisliklar haqida tasavvur beradi?",
+   "variantlar": [
+    "Kesishuvchi tekisliklar",
+    "Ayqash tekisliklar",
+    "Perpendikulyar tekisliklar",
+    "Parallel tekisliklar"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Stolning ustki sirti va yon yog'i qanday tekisliklar haqida tasavvur beradi?",
+   "variantlar": [
+    "Kesishuvchi tekisliklar",
+    "Parallel tekisliklar",
+    "Ayqash tekisliklar",
+    "Ustma-ust tushuvchi tekisliklar"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar to'g'ri chiziq tekislikda yotmasa va uni kesib ham o'tmasa, bu qanday holat deyiladi?",
+   "variantlar": [
+    "To'g'ri chiziq tekislikda yotadi",
+    "To'g'ri chiziq tekislikka parallel",
+    "To'g'ri chiziq tekislikni kesib o'tadi",
+    "To'g'ri chiziq va tekislik ustma-ust tushadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

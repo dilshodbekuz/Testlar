@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "53-dars. Ilovada radiotugmalar guruhidan foydalanish",
+ "savollar": [
+  {
+   "savol": "53-dars qanday nomlanadi?",
+   "variantlar": [
+    "Ilovada radiotugmalar guruhidan foydalanish",
+    "Ilovada bayroqchalardan foydalanish",
+    "ListBox va ComboBox obyektlari",
+    "Ma’lumot turini o‘zgartirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "Bir nechta variantdan faqat bittasini tanlash uchun qaysi obyektdan foydalaniladi?",
+   "variantlar": [
+    "Edit",
+    "RadioGroup",
+    "CheckBox",
+    "Label"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "Pascal tilida bir necha variantdan birini tanlash qaysi operator yordamida bajarilgan?",
+   "variantlar": [
+    "For",
+    "While",
+    "Case",
+    "If"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "RadioGroup obyekti obyektlar panelining qaysi jildida joylashgan?",
+   "variantlar": [
+    "Additional jildida",
+    "Win32 jildida",
+    "System jildida",
+    "Standart jildida, o‘ngdan uchinchisi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "RadioGroup obyektida variantlar ro‘yxati qaysi xossada kiritiladi?",
+   "variantlar": [
+    "Items",
+    "Caption",
+    "Columns",
+    "ItemIndex"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "Tanlangan variantning tartib raqami qaysi xossada saqlanadi?",
+   "variantlar": [
+    "Caption",
+    "ItemIndex",
+    "Items",
+    "Columns"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "Hech bir variant tanlanmagan bo‘lsa, ItemIndex qiymati nechaga teng bo‘ladi?",
+   "variantlar": [
+    "1",
+    "Noma’lum",
+    "-1",
+    "0"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "RadioGroup ro‘yxati nechta ustun bo‘lib joylashishini qaysi xossa ko‘rsatadi?",
+   "variantlar": [
+    "Items",
+    "ItemIndex",
+    "Caption",
+    "Columns"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "Muloqot oynasida kiritilgan variantlarni bekor qilish uchun qaysi tugma bosiladi?",
+   "variantlar": [
+    "Cancel",
+    "OK",
+    "Delete",
+    "Save"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "Eng qiziqarli fan ilovasida nechta radiotugma ishlatiladi?",
+   "variantlar": [
+    "Beshta",
+    "To‘rtta",
+    "Ikkita",
+    "Uchta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "Matnda keltirilgan misolda ro‘yxatdagi birinchi variant matematika emas, balki ikkinchi bo‘lib turgan fizika nega tanlangan?",
+   "variantlar": [
+    "Chunki fizika birinchi kiritilgan",
+    "Bu xato, hech qanday sabab yo‘q",
+    "Chunki ItemIndex 1 ga teng qilib o‘rnatilgan va hisob 0 dan boshlanadi",
+    "Chunki matematika ro‘yxatdan o‘chirilgan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "RadioGroup uchun ajratilgan joy eni ustunlar orasida qanday taqsimlanadi?",
+   "variantlar": [
+    "Tasodifiy taqsimlanadi",
+    "Faqat birinchi ustunga beriladi",
+    "Taqsimlanmaydi",
+    "Teng taqsimlanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "Tugmalar soni ustunlar soniga bo‘linganda kasr son chiqsa, nima qilinadi?",
+   "variantlar": [
+    "Katta butun songacha butunlashtiriladi",
+    "Kichik butun songacha kesiladi",
+    "Xatolik chiqadi",
+    "O‘zgarishsiz qoladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "Oxirgi ustunlardan biri yoki bir nechtasi bo‘sh bo‘lib qolsa, bu ustunlar uchun joy ajratiladimi?",
+   "variantlar": [
+    "Faqat oxirgi ustunga joy ajratiladi",
+    "Ha, bo‘sh ustunlar uchun ham joy ajratiladi",
+    "Yo‘q, joy ajratilmaydi",
+    "Faqat birinchi ustunga joy ajratiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "Eng qiziqarli fan ilovasida eski CheckBox obyektlarini olib tashlash uchun qanday amal bajariladi?",
+   "variantlar": [
+    "Ularni ko‘rinmas qilinadi",
+    "Ularni nusxalanadi",
+    "Ularni tanlab, Delete tugmasi bosiladi",
+    "Ularni rangsiz qilinadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "i:= Radiogroup1.Itemindex; operatori nima qiladi?",
+   "variantlar": [
+    "Yangi variant qo‘shadi",
+    "Variantni o‘chiradi",
+    "Ilovani yopadi",
+    "Tanlangan variant raqamini i o‘zgaruvchisiga beradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "if i>=0 then n[i+1]:=n[i+1]+1; qatori nimani tekshiradi?",
+   "variantlar": [
+    "Biror variant tanlanganligini",
+    "Ilova ochilganligini",
+    "Fayl saqlanganligini",
+    "Tugma mavjudligini"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "Protsedura oxirida Radiogroup1.Itemindex:=-1; nima uchun yoziladi?",
+   "variantlar": [
+    "Ro‘yxatni o‘chirish uchun",
+    "Variantlarni tanlanmagan holatga qaytarish uchun",
+    "Ilovani yopish uchun",
+    "Xato chiqarish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "n[0]:=n[0]+1; qatori nimani hisoblaydi?",
+   "variantlar": [
+    "Fizikaga ovoz berganlar sonini",
+    "Hech narsani",
+    "So‘rovda qatnashganlar sonini",
+    "Matematikaga ovoz berganlar sonini"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "RadioGroup obyektining Caption xossasi nimani bildiradi?",
+   "variantlar": [
+    "Faqat birinchi variant nomini",
+    "Variantlar sonini",
+    "Ustunlar sonini",
+    "Butun guruhning sarlavhasini"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "Savol-topshiriqda sinfdoshlaringiz ismlari joylashtirilgan radiotugmalar guruhi yordamida qanday ilova yaratish so‘raladi?",
+   "variantlar": [
+    "Tanlangan o‘quvchiga ismini aytib salom beruvchi ilova",
+    "Ro‘yxatni o‘chiruvchi ilova",
+    "Rasm chizuvchi ilova",
+    "Fayl saqlovchi ilova"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Savol-topshiriqda oldingi ilovaga yana nechta radiotugmalar guruhi qo‘shish so‘raladi?",
+   "variantlar": [
+    "To‘rtta",
+    "Ikkita (fanlar va baholar ro‘yxati)",
+    "Bitta",
+    "Uchta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Qo‘shimcha radiotugmalar guruhlari yordamida nima ekranga chiqarilishi so‘raladi?",
+   "variantlar": [
+    "Faqat fan nomi",
+    "Faqat sana",
+    "Tanlangan o‘quvchining tanlangan fan bo‘yicha bahosi",
+    "Faqat o‘quvchi ismi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Uyga vazifada radio tugmalar guruhi kerak bo‘ladigan qanday vaziyatlarga misol keltirish so‘raladi?",
+   "variantlar": [
+    "Faqat matn kiritish vaziyatlari",
+    "Faqat rasm tanlash vaziyatlari",
+    "Faqat fayl saqlash vaziyatlari",
+    "Faqat bitta variant tanlanadigan real hayotiy vaziyatlar"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Uyga vazifada RadioGroup obyekti obyektlar panelining qayerida joylashganligi so‘raladi?",
+   "variantlar": [
+    "Aniq joylashuvi (standart jildda, o‘ngdan uchinchi)",
+    "Faqat nomi",
+    "Faqat rangi",
+    "Faqat xossalari"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "RadioGroup va CheckBox obyektlari orasidagi asosiy farq nimada?",
+   "variantlar": [
+    "CheckBox faqat bitta marta ishlatiladi",
+    "RadioGroup faqat bitta variant tanlashga, CheckBox bir nechta variant tanlashga mo‘ljallangan",
+    "Ikkalasi bir xil ishlaydi",
+    "RadioGroup faqat matn uchun, CheckBox faqat son uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Agar RadioGroup.Columns=0 bo‘lsa, ro‘yxat qanday joylashadi?",
+   "variantlar": [
+    "Avtomatik ko‘p ustunga bo‘linadi",
+    "Xatolik chiqadi",
+    "Ustunlarga bo‘linmaydi (bitta ustunda)",
+    "Ikkita ustunga bo‘linadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "Ilovada so‘rov tugagach, nega ItemIndex qayta -1 ga o‘rnatiladi?",
+   "variantlar": [
+    "Chunki bu majburiy xato",
+    "Ilovani yopish uchun",
+    "Hisoblashni to‘xtatish uchun",
+    "Keyingi foydalanuvchi uchun tanlovni tozalash maqsadida"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "RadioGroup muloqot oynasidagi variantlar ro‘yxatiga nechta qiymat (matematika, fizika, kimyo, informatika) kiritilgan?",
+   "variantlar": [
+    "To‘rtta",
+    "Uchta",
+    "Ikkita",
+    "Beshta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "RadioGroup obyektining Items muloqot oynasida OK tugmasi bosilsa nima sodir bo‘ladi?",
+   "variantlar": [
+    "Xatolik chiqadi",
+    "Kiritilgan variantlar saqlanib, ilova oynasida darhol aks etadi",
+    "Variantlar o‘chiriladi",
+    "Oyna yopiladi, lekin hech narsa saqlanmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

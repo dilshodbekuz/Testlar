@@ -1,0 +1,326 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Matematika 2-qism",
+ "mavzu": "11 Konus va kesik konus",
+ "savollar": [
+  {
+   "savol": "Konus qanday jismni aylantirishdan hosil bo'ladi?",
+   "variantlar": [
+    "To'g'ri burchakli uchburchakni bir kateti atrofida aylantirishdan",
+    "To'g'ri to'rtburchakni bir tomoni atrofida aylantirishdan",
+    "Teng yonli uchburchakni asosi atrofida aylantirishdan",
+    "To'g'ri burchakli uchburchakni gipotenuzasi atrofida aylantirishdan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Konusning yasovchisi nima?",
+   "variantlar": [
+    "Konus uchidan asos tekisligiga tushirilgan perpendikular",
+    "Aylantirishda gipotenuzaning o'zi",
+    "Aylantirishda hosil bo'lgan doiraning radiusi",
+    "Konus asosining diametri"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Konus yon sirtining yuzi formulasi qaysi (r – asos radiusi, l – yasovchi)?",
+   "variantlar": [
+    "πl²",
+    "2πrl",
+    "πr²",
+    "πrl"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Konusning hajmi qaysi formula bilan topiladi?",
+   "variantlar": [
+    "V = ½ S_asos · H",
+    "V = ⅔ S_asos · H",
+    "V = S_asos · H",
+    "V = ⅓ S_asos · H"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Konusning barcha o'q kesimlari qanday shaklda bo'ladi?",
+   "variantlar": [
+    "Teng tomonli uchburchak",
+    "To'g'ri burchakli uchburchak",
+    "Teng yonli uchburchak",
+    "Trapetsiya"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Konusning simmetriya markazi haqida qaysi fikr to'g'ri?",
+   "variantlar": [
+    "Simmetriya markazi konus uchida bo'ladi",
+    "Konusning simmetriya markazi yo'q",
+    "Simmetriya markazi asosning markazida bo'ladi",
+    "Simmetriya markazi balandlikning o'rtasida bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Konusning to'la sirti formulasi qaysi?",
+   "variantlar": [
+    "πr² + l",
+    "2πr(r + l)",
+    "πr(r + l)",
+    "πrl"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kesik konus yon sirtining yuzi qaysi formula bilan hisoblanadi (l – yasovchi, r₁ va r₂ – asoslar radiuslari)?",
+   "variantlar": [
+    "2π l (r₁ + r₂)",
+    "π (r₁² + r₂²)",
+    "π l (r₁ + r₂)",
+    "π l (r₁ − r₂)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kesik konusning balandligi nimaga teng?",
+   "variantlar": [
+    "Ikki asosi orasidagi masofaga",
+    "Asoslari radiuslarining ayirmasiga",
+    "Yasovchisiga",
+    "Katta asosining radiusiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kesik konusni qaysi shaklni aylantirishdan hosil bo'lgan jism sifatida qarash mumkin?",
+   "variantlar": [
+    "Teng yonli trapetsiyani katta asosi atrofida",
+    "To'g'ri burchakli trapetsiyaning katta yon tomoni atrofida",
+    "Parallelogrammni bir tomoni atrofida",
+    "To'g'ri burchakli trapetsiyaning kichik yon tomoni atrofida"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Konusning yasovchisi 13 cm, asosi aylanasining diametri 10 cm. Konusning balandligini toping.",
+   "variantlar": [
+    "12 cm",
+    "8 cm",
+    "√69 cm",
+    "10 cm"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Konus asosining radiusi 4 cm, balandligi 6 cm. Konusning yasovchisini toping.",
+   "variantlar": [
+    "10 cm",
+    "√20 cm",
+    "2√13 cm",
+    "2√5 cm"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Konus asosi aylanasining diametri 9,6 cm, yasovchisi 5,2 cm. Konusning balandligini toping.",
+   "variantlar": [
+    "4 cm",
+    "2,4 cm",
+    "2 cm",
+    "3 cm"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Konus asosining radiusi 6 cm, yasovchisi 10 cm. Konus yon sirtining yuzini toping.",
+   "variantlar": [
+    "120π cm²",
+    "96π cm²",
+    "36π cm²",
+    "60π cm²"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Konus asosining radiusi 3 cm, balandligi 4 cm. Konusning hajmini toping.",
+   "variantlar": [
+    "24π cm³",
+    "15π cm³",
+    "36π cm³",
+    "12π cm³"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Konus asosining radiusi 16 cm, balandligi 12 cm. Konus yon sirtining yuzini toping.",
+   "variantlar": [
+    "576π cm²",
+    "256π cm²",
+    "192π cm²",
+    "320π cm²"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Konus asosining diametri 12 cm, yasovchisi 10 cm. Konus to'la sirtining yuzini toping.",
+   "variantlar": [
+    "120π cm²",
+    "132π cm²",
+    "96π cm²",
+    "60π cm²"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kesik konus asoslarining radiuslari 8 cm va 5 cm, yasovchisi 10 cm. Kesik konus yon sirtining yuzini toping.",
+   "variantlar": [
+    "130π cm²",
+    "100π cm²",
+    "260π cm²",
+    "80π cm²"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kesik konus asoslarining radiuslari 4 cm va 2 cm, balandligi 3 cm. Kesik konusning hajmini toping.",
+   "variantlar": [
+    "56π cm³",
+    "20π cm³",
+    "28π cm³",
+    "36π cm³"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Hajmi 80 bo'lgan konus asosiga parallel tekislik bilan kesilib, o'xshashlik koeffitsiyenti k = 1/2 bo'lgan konus ajratildi. Ajratilgan konusning hajmini toping.",
+   "variantlar": [
+    "20",
+    "40",
+    "10",
+    "5"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Konus asosining radiusi 6, balandligi 8. Konus yon sirti yoyilmasining uchidagi burchakni toping.",
+   "variantlar": [
+    "270°",
+    "180°",
+    "216°",
+    "240°"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Konusning yasovchisi 12 ga teng va asos tekisligi bilan 60° li burchak hosil qiladi. Konusning hajmini toping.",
+   "variantlar": [
+    "36√3π",
+    "144π",
+    "72π",
+    "72√3π"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Konusning o'q kesimi yuzi 16√3 ga teng teng tomonli uchburchakdan iborat. Konusning to'la sirtini toping.",
+   "variantlar": [
+    "96π",
+    "32π",
+    "48π",
+    "64π"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Konus yon sirtining yuzi 32π ga teng, yasovchisi asos tekisligiga 60° li burchak ostida og'gan. Konusning hajmini toping.",
+   "variantlar": [
+    "32√3π",
+    "64π/3",
+    "128π/3",
+    "64√3π/3"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tomoni 6 ga teng bo'lgan teng tomonli uchburchak o'zining bir tomoni atrofida aylantirildi. Hosil bo'lgan jismning hajmini toping.",
+   "variantlar": [
+    "108π",
+    "81π",
+    "54π",
+    "27π"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Konus o'q kesimining perimetri 24 cm, yon sirti yoyilmasining burchagi 120° ga teng. Konus to'la sirtining yuzini toping.",
+   "variantlar": [
+    "36π cm²",
+    "27π cm²",
+    "54π cm²",
+    "48π cm²"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kesik konus asoslarining radiuslari 8 cm va 5 cm, yasovchisi asos tekisligiga 45° li burchak ostida og'gan. Kesik konusning hajmini toping.",
+   "variantlar": [
+    "129π cm³",
+    "387π cm³",
+    "43π cm³",
+    "117π cm³"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kesik konus asoslarining radiuslari 12 cm va 8 cm, yasovchisi katta asos tekisligiga 60° li burchak ostida og'gan. Kesik konus yon sirtining yuzini toping.",
+   "variantlar": [
+    "240π cm²",
+    "160π cm²",
+    "80π cm²",
+    "320π cm²"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yasovchisi 5 ga, balandligi 4 ga teng konus asosidan 2 ga teng masofada shu asosga parallel tekislik bilan kesildi. Hosil bo'lgan kesimning yuzini toping.",
+   "variantlar": [
+    "2,25π",
+    "1,81π",
+    "3,16π",
+    "2,64π"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

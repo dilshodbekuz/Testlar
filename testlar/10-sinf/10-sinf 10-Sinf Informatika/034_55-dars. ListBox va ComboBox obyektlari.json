@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "55-dars. ListBox va ComboBox obyektlari",
+ "savollar": [
+  {
+   "savol": "55-dars qanday nomlanadi?",
+   "variantlar": [
+    "ListBox va ComboBox obyektlari",
+    "Ilovada radiotugmalar guruhidan foydalanish",
+    "Memo boshqarish obyekti",
+    "Timer obyekti va undan foydalanish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "RadioGroup obyektining asosiy kamchiligi nimada?",
+   "variantlar": [
+    "Rangini o‘zgartirib bo‘lmaydi",
+    "Uzun ro‘yxat ekranda ko‘p joy egallaydi",
+    "Variant qo‘shib bo‘lmaydi",
+    "Faqat bitta variant bo‘ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "ListBox obyekti nima vazifa bajaradi?",
+   "variantlar": [
+    "Rasm ko‘rsatadi",
+    "Faylni saqlaydi",
+    "Ekranga variantlar ro‘yxatini chiqaradi",
+    "Matn kiritadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "Agar ListBox ro‘yxati obyektga sig‘masa, nima paydo bo‘ladi?",
+   "variantlar": [
+    "Ro‘yxat yo‘qoladi",
+    "Xatolik chiqadi",
+    "Obyekt kattalashadi",
+    "O‘ng tomonida vertikal surgich"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "ComboBox obyekti boshqacha qanday ataladi?",
+   "variantlar": [
+    "Yashirin ro‘yxat qutisi",
+    "Ochiq ro‘yxat qutisi",
+    "Tekshirish qutisi",
+    "Kiritish maydonchasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "ComboBox ning afzalligi nimada (Edit bilan solishtirganda)?",
+   "variantlar": [
+    "Hech qanday farqi yo‘q",
+    "Kam joy olib, yashirin ro‘yxatni ko‘rsatadi",
+    "Faqat rasm ko‘rsatadi",
+    "Faqat sonlarni qabul qiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "SpinEdit obyekti nima uchun mo‘ljallangan?",
+   "variantlar": [
+    "Rasm tanlash uchun",
+    "Fayl tanlash uchun",
+    "Butun sonlarni kiritish uchun",
+    "Matn kiritish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "SpinEdit obyekti obyektlar panelining qaysi jildida joylashgan?",
+   "variantlar": [
+    "Standart jildida",
+    "Additional jildida",
+    "Win32 jildida",
+    "Samples (Namunalar) jildida"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "SpinEdit ga kiritilgan sonning qiymati qaysi xossada saqlanadi?",
+   "variantlar": [
+    "Value",
+    "MinValue",
+    "MaxValue",
+    "Increment"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "SpinEdit da son qiymatining o‘sish qadami qaysi xossada ko‘rsatiladi?",
+   "variantlar": [
+    "MaxValue",
+    "Increment",
+    "Value",
+    "MinValue"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "ListBox va ComboBox obyektlarining qaysi xossalari ko‘pincha bir xil nomga ega?",
+   "variantlar": [
+    "Width, Height, Left",
+    "Checked, Enabled, Visible",
+    "Items, ItemIndex, Columns",
+    "Caption, Font, Color"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "ListBox ning Columns xossasi qiymati 0 bo‘lsa, nima bo‘ladi?",
+   "variantlar": [
+    "Ro‘yxat o‘chadi",
+    "Ro‘yxat ikki ustunga bo‘linadi",
+    "Xatolik chiqadi",
+    "Ro‘yxat ustunlarga bo‘linmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "SpinEdit da MinValue va MaxValue qiymati 0 ga teng bo‘lsa, nima bo‘ladi?",
+   "variantlar": [
+    "Sonning qiymatiga chegara qo‘yilmaydi",
+    "Son faqat 0 bo‘lishi mumkin",
+    "Xatolik chiqadi",
+    "Son manfiy bo‘lmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "Eng yaxshi futbolchi ilovasida nechta ListBox, ComboBox, SpinEdit va Button obyekti ishlatiladi?",
+   "variantlar": [
+    "To‘rttadan har biri",
+    "Bittadan har biri",
+    "Ikkitadan har biri",
+    "Uchtadan har biri"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "Futbolchi ilovasida SpinEdit ning MaxValue, MinValue va Value xossalari qanday o‘rnatiladi?",
+   "variantlar": [
+    "MaxValue=100, MinValue=1, Value=50",
+    "MaxValue=1, MinValue=5, Value=1",
+    "MaxValue=5, MinValue=1, Value=5",
+    "MaxValue=10, MinValue=0, Value=0"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "i:=ListBox1.ItemIndex; operatori nimani bajaradi?",
+   "variantlar": [
+    "Yangi futbolchi qo‘shadi",
+    "Futbolchini o‘chiradi",
+    "Ro‘yxatni tartiblaydi",
+    "Tanlangan futbolchining ro‘yxatdagi raqamini i ga beradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "j:=StrToInt(ComboBox1.Items[i]); operatori nimani bajaradi?",
+   "variantlar": [
+    "ComboBox1 dagi i-satrdagi matnni songa o‘tkazib j ga beradi",
+    "Yangi son qo‘shadi",
+    "Ro‘yxatni o‘chiradi",
+    "Xatolik chiqaradi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "ComboBox1.Items[i]:=IntToStr(j+SpinEdit1.Value); operatori nima qiladi?",
+   "variantlar": [
+    "SpinEdit ni o‘chiradi",
+    "Yangi ballni qo‘shib, ComboBox ro‘yxatini yangilaydi",
+    "Ro‘yxatni o‘chiradi",
+    "Yangi futbolchi qo‘shadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "Natijada ComboBox1 dagi ro‘yxatda nima yig‘ilib boradi?",
+   "variantlar": [
+    "Ovoz berganlar ismi",
+    "Vaqt ma’lumoti",
+    "Har bir futbolchi to‘plagan ballar",
+    "Futbolchilar soni"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "Natijalarni ko‘rish uchun qaysi tugma bosiladi?",
+   "variantlar": [
+    "Faqat Button1",
+    "Faqat ListBox1",
+    "Enter tugmasi",
+    "ComboBox1 ning o‘ng tomonidagi uchburchak tugma"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "Futbolchi ilovasida ListBox ga nechta futbolchi nomi kiritilgan?",
+   "variantlar": [
+    "8 ta",
+    "5 ta",
+    "10 ta",
+    "6 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "if i>=0 then begin...end; sharti nima uchun tekshiriladi?",
+   "variantlar": [
+    "Oyna o‘lchamini tekshirish uchun",
+    "Biror futbolchi ro‘yxatdan tanlanganligini tekshirish uchun",
+    "SpinEdit qiymatini tekshirish uchun",
+    "Button bosilganligini tekshirish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Savol-topshiriqda ListBox obyekti Asaka zavodi mahsulotlariga mos qanday qilib sozlanishi so‘raladi?",
+   "variantlar": [
+    "Hajmini kichraytirib",
+    "Yo‘q qilib",
+    "Avtomashinalardan birini tanlaydigan qilib",
+    "Rangini o‘zgartirib"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Savol-topshiriqda ComboBox obyektiga qanday ro‘yxat kiritish so‘raladi?",
+   "variantlar": [
+    "Fanlar ro‘yxati",
+    "O‘quvchilar ro‘yxati",
+    "Kitoblar ro‘yxati",
+    "Viloyatlar ro‘yxati"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Uyga vazifada ListBox obyekti qayerda joylashganligi so‘raladi?",
+   "variantlar": [
+    "Obyektlar panelida",
+    "Object Inspectorda",
+    "Dastur kodi oynasida",
+    "Sarlavha satrida"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Uyga vazifada ComboBox obyektining vazifasi haqida nima so‘raladi?",
+   "variantlar": [
+    "Qaysi tilda ishlashi",
+    "Qanday vazifani bajarishi",
+    "Qaysi rangda bo‘lishi",
+    "Qancha joy egallashi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "ComboBox obyektining o‘ng tomonidagi qanday shaklidagi tugma yashirin ro‘yxatni ochadi?",
+   "variantlar": [
+    "Kvadrat shaklidagi tugma",
+    "Yulduzcha shaklidagi tugma",
+    "Uchburchak shaklidagi tugma",
+    "Doira shaklidagi tugma"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "SpinEdit da sonni o‘zgartirishning nechta usuli bor (maydonchaga yozish va tugmalar orqali)?",
+   "variantlar": [
+    "Bitta usul",
+    "Uch usul",
+    "To‘rt usul",
+    "Ikki usul"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "Edit obyekti orqali son kiritishda qanday xato yuz berishi mumkin edi (SpinEdit bilan solishtirganda)?",
+   "variantlar": [
+    "Noto‘g‘ri belgi (masalan harf) kiritilsa, ilova to‘xtab xato beradi",
+    "Hech qanday xato bo‘lmaydi",
+    "Faqat manfiy son kiritilsa xato beradi",
+    "Faqat katta son kiritilsa xato beradi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "Futbolchi ilovasida natijalarni ko‘rish uchun bir necha marta ovoz berilgach, qaysi obyektdagi sonlar o‘zgarib boradi?",
+   "variantlar": [
+    "Button1 ning Caption xossasi",
+    "ComboBox1 ro‘yxatidagi sonlar",
+    "ListBox1 ro‘yxatidagi nomlar",
+    "SpinEdit1 ning MinValue xossasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

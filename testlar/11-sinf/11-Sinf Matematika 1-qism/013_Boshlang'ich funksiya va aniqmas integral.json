@@ -1,0 +1,337 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-sinf 11-Sinf Matematika 1-qism",
+ "mavzu": "Boshlang'ich funksiya va aniqmas integral",
+ "savollar": [
+  {
+   "savol": "∫ x^k dx (k ≠ -1) integrali nimaga teng?",
+   "variantlar": [
+    "x^(k+1)/(k+1) + C",
+    "x^k·ln x + C",
+    "x^(k-1)/(k-1) + C",
+    "k·x^(k-1) + C"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "∫ dx/x integrali nimaga teng?",
+   "variantlar": [
+    "1/x² + C",
+    "x·ln x + C",
+    "-1/x + C",
+    "ln|x| + C"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "∫ sin x dx integrali nimaga teng?",
+   "variantlar": [
+    "sin x + C",
+    "-sin x + C",
+    "-cos x + C",
+    "cos x + C"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "∫ cos x dx integrali nimaga teng?",
+   "variantlar": [
+    "-cos x + C",
+    "sin x + C",
+    "-sin x + C",
+    "cos x + C"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "∫ e^x dx integrali nimaga teng?",
+   "variantlar": [
+    "e^x + C",
+    "x·e^(x-1) + C",
+    "e^x·ln x + C",
+    "ln e^x + C"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "F(x) funksiya f(x) ning boshlang'ich funksiyasi bo'lishi uchun qaysi shart bajarilishi kerak?",
+   "variantlar": [
+    "F(x) = f(x)",
+    "F''(x) = f(x)",
+    "F(x) = ∫f(x)dx",
+    "F'(x) = f(x)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "∫ f(x) dx ifodada f(x) nima deb ataladi?",
+   "variantlar": [
+    "Integrallash o'zgarmasi",
+    "Integral chegarasi",
+    "Integral ostidagi funksiya",
+    "Boshlang'ich funksiya"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(x) = x² funksiyaning C = 0 dagi boshlang'ich funksiyasi qaysi?",
+   "variantlar": [
+    "x³",
+    "x³/3",
+    "x²/2",
+    "2x"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(x) = 2x + 3 funksiyaning A(1; 5) nuqtadan o'tuvchi boshlang'ich funksiyasi qaysi?",
+   "variantlar": [
+    "x² + 3x",
+    "x + 3 + C",
+    "x² + 3x + 5",
+    "x² + 3x + 1"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(x) = x² funksiyaning A(3; 10) nuqtadan o'tuvchi boshlang'ich funksiyasi qaysi?",
+   "variantlar": [
+    "x³/3",
+    "x³/3 + 10",
+    "x³/3 + 1",
+    "x³ + 1"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(x) = ∛x funksiyaning A(8; 15) nuqtadan o'tuvchi boshlang'ich funksiyasi qaysi?",
+   "variantlar": [
+    "(3/4)∛x⁴",
+    "(3/4)x∛x + 3",
+    "x∛x + 3",
+    "(3/4)x∛x"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = sin x funksiyaning A(0; 3) nuqtadan o'tuvchi boshlang'ich funksiyasi qaysi?",
+   "variantlar": [
+    "-cos x + 4",
+    "cos x + 3",
+    "-cos x + 3",
+    "sin x + 3"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = 5/(x - 2) funksiyaning A(3; 7) nuqtadan o'tuvchi boshlang'ich funksiyasi qaysi?",
+   "variantlar": [
+    "5/(x - 2)² + 7",
+    "ln|x - 2| + 7",
+    "5ln|x - 2|",
+    "5ln|x - 2| + 7"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = 3/(x + 1) funksiyaning A(0; 1) nuqtadan o'tuvchi boshlang'ich funksiyasi qaysi?",
+   "variantlar": [
+    "3/(x + 1)² + 1",
+    "3ln|x + 1| + 1",
+    "3ln|x + 1|",
+    "ln|x + 1| + 1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = sin 3x funksiyaning A(π/3; 1/3) nuqtadan o'tuvchi boshlang'ich funksiyasi qaysi?",
+   "variantlar": [
+    "-cos3x/3 + 1/3",
+    "-cos3x/3",
+    "cos3x/3",
+    "-cos3x"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = cos 5x funksiyaning A(π/2; 4/5) nuqtadan o'tuvchi boshlang'ich funksiyasi qaysi?",
+   "variantlar": [
+    "sin5x/5 + 3/5",
+    "sin5x + 4/5",
+    "sin5x/5",
+    "sin5x/5 + 4/5"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "∫ dx/(2x + 3) integrali nimaga teng?",
+   "variantlar": [
+    "ln|2x + 3| + C",
+    "2ln|2x + 3| + C",
+    "1/(2x + 3)² + C",
+    "(1/2)ln|2x + 3| + C"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "∫ sin 3x dx integrali nimaga teng?",
+   "variantlar": [
+    "-cos3x + C",
+    "sin3x/3 + C",
+    "-cos3x/3 + C",
+    "cos3x/3 + C"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "∫ e^(2x+1) dx integrali nimaga teng?",
+   "variantlar": [
+    "e^(2x+1)/2 + C",
+    "e^(2x+1)/(2x+1) + C",
+    "e^(2x+1) + C",
+    "2e^(2x+1) + C"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "∫ (3x + 2)² dx integrali nimaga teng?",
+   "variantlar": [
+    "(3x + 2)³/9 + C",
+    "(3x + 2)³ + C",
+    "(3x + 2)³/3 + C",
+    "2(3x + 2) + C"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "∫ (8x⁷ + 2cos 2x) dx integrali nimaga teng?",
+   "variantlar": [
+    "x⁸ - sin2x + C",
+    "8x⁸ + sin2x + C",
+    "x⁸ + 2sin2x + C",
+    "x⁸ + sin2x + C"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "∫ 5sin(3x + 2) dx integrali nimaga teng?",
+   "variantlar": [
+    "(5/3)cos(3x + 2) + C",
+    "-(5/3)sin(3x + 2) + C",
+    "-(5/3)cos(3x + 2) + C",
+    "-5cos(3x + 2) + C"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "∫ x/(x² + 8) dx integrali nimaga teng?",
+   "variantlar": [
+    "(1/2)ln(x² + 8) + C",
+    "1/(x² + 8) + C",
+    "ln(x² + 8) + C",
+    "x²/2 + C"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "∫ e^(sin x)·cos x dx integrali nimaga teng?",
+   "variantlar": [
+    "e^(sin x)·cos x + C",
+    "cos x·e^(sin x) + C",
+    "sin x·e^(sin x) + C",
+    "e^(sin x) + C"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x < 0 bo'lganda ∫ dx/x integrali nimaga teng?",
+   "variantlar": [
+    "-ln x + C",
+    "1/x + C",
+    "ln x + C",
+    "ln(-x) + C"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = 1/x² funksiyaning boshlang'ich funksiyasi qaysi?",
+   "variantlar": [
+    "-2/x³ + C",
+    "ln|x| + C",
+    "-1/x + C",
+    "1/x + C"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "∫ (2x - 1)³ dx integrali nimaga teng?",
+   "variantlar": [
+    "(2x - 1)³/6 + C",
+    "(2x - 1)⁴/8 + C",
+    "(2x - 1)⁴ + C",
+    "(2x - 1)⁴/4 + C"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "∫ x¹⁰ dx integrali nimaga teng?",
+   "variantlar": [
+    "x¹¹/11 + C",
+    "x¹⁰/10 + C",
+    "10x⁹ + C",
+    "x¹¹ + C"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "∫ 6x⁵ dx integrali nimaga teng?",
+   "variantlar": [
+    "6x⁶ + C",
+    "x⁶/6 + C",
+    "30x⁴ + C",
+    "x⁶ + C"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "∫ 4^x dx integrali nimaga teng?",
+   "variantlar": [
+    "4^x·ln4 + C",
+    "x·4^(x-1) + C",
+    "4^x/ln4 + C",
+    "4^x + C"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

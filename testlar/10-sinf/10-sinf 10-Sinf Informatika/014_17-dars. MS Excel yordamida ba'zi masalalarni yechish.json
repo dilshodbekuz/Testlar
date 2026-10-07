@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "17-dars. MS Excel yordamida ba'zi masalalarni yechish",
+ "savollar": [
+  {
+   "savol": "17-dars qanday nomlanadi?",
+   "variantlar": [
+    "MS Excel yordamida ba’zi masalalarni yechish",
+    "Statistik funksiyalar",
+    "Matematik funksiyalar",
+    "Mantiqiy funksiyalar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "MS Excel 2010 yordamida tenglamalarni qanday usulda yechish mumkin?",
+   "variantlar": [
+    "Faqat geometrik chizish orqali",
+    "Grafik usulda",
+    "Faqat og‘zaki usulda",
+    "Faqat algebraik usulda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "Tenglamani grafik usulda yechish uchun avval nima qilinadi?",
+   "variantlar": [
+    "Tenglama matnga aylantiriladi",
+    "Tenglama rangga bo‘yaladi",
+    "Tenglama funksiya ko‘rinishiga keltiriladi",
+    "Tenglama o‘chiriladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "1-mashqda qaysi tenglamaning yechimlari yotgan oralig‘i topiladi?",
+   "variantlar": [
+    "x²-4=0",
+    "2x+3=0",
+    "x³-1=0",
+    "x⁴-2x³-3x²+1=0"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "1-mashqda A1 katakka nima kiritiladi?",
+   "variantlar": [
+    "x",
+    "f(x)",
+    "Son",
+    "Sarlavha"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "1-mashqda A2 katakka nima kiritiladi?",
+   "variantlar": [
+    "z",
+    "f(x)",
+    "x",
+    "y"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "2-mashqda nechta tenglamadan iborat sistema yechiladi?",
+   "variantlar": [
+    "Uchta tenglama",
+    "To‘rtta tenglama",
+    "Ikkita tenglama",
+    "Bitta tenglama"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "2-mashqdagi tenglamalar sistemasi qanday ko‘rinishda berilgan?",
+   "variantlar": [
+    "x+y=0 va x-y=0",
+    "x²+y²=1",
+    "x/y=2",
+    "x-2y-1=0 va 2x-y+1=0"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "Tenglamalar sistemasini grafik usulda yechishda nima izlanadi?",
+   "variantlar": [
+    "Funksiyalar grafigining kesishish nuqtasi",
+    "Funksiyaning eng katta qiymati",
+    "Funksiyaning hosilasi",
+    "Funksiyaning integrali"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "MS Excelda tenglamani grafik usulda yechish imkoniyati haqida Yodda saqlangda nima deyilgan?",
+   "variantlar": [
+    "Tenglamalar yechilmaydi",
+    "Tenglama va tenglamalar sistemasini taqribiy yechish mumkin",
+    "Faqat chiziqli tenglamalar yechiladi",
+    "Faqat butun sonli yechimlar topiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "1-mashqda B1:F1 kataklariga qanday qiymatlar kiritiladi?",
+   "variantlar": [
+    "-2, -1, 0, 1, 2",
+    "0, 0,5, 1, 1,5, 2",
+    "0, 1, 2, 3, 4",
+    "1, 2, 3, 4, 5"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "1-mashqda B2 katakka qanday formula kiritiladi?",
+   "variantlar": [
+    "=B1^2-2*B1+1",
+    "=B1*4-2*B1*3",
+    "=B1+B1^2+B1^3+B1^4",
+    "=B1^4-2*B1^3-3*B1^2+1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "1-mashqda B2 dagi formula qanday qilib qolgan kataklarga tarqatiladi?",
+   "variantlar": [
+    "Nusxa ko‘chirish orqali C2:F2 ga",
+    "Qo‘lda qayta yozib",
+    "Fayl qayta ochilib",
+    "Formuladan voz kechib"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "1-mashq natijasida x=0 bo‘lganda f(x) nechaga teng?",
+   "variantlar": [
+    "81",
+    "1",
+    "-3",
+    "-11"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "1-mashq natijasida x=1 bo‘lganda f(x) nechaga teng?",
+   "variantlar": [
+    "-11",
+    "81",
+    "-3",
+    "1"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "1-mashq natijasida x=2 bo‘lganda f(x) nechaga teng?",
+   "variantlar": [
+    "1",
+    "-3",
+    "81",
+    "-11"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "1-mashq natijasida x=3 bo‘lganda f(x) nechaga teng?",
+   "variantlar": [
+    "1",
+    "-11",
+    "-3",
+    "81"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "1-mashq natijasida x=4 bo‘lganda f(x) nechaga teng?",
+   "variantlar": [
+    "-11",
+    "81",
+    "1",
+    "-3"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "2-mashqda tenglamalar sistemasi qaysi ikkita funksiyaga keltiriladi?",
+   "variantlar": [
+    "y=x+2 va y=x-2",
+    "y=x² va y=2x",
+    "y=(x-1)/2 va y=2x+1",
+    "y=x-1 va y=2x"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "1-mashq jadvalida f(x) ishorasi x=0 dan x=1 gacha qanday o‘zgaradi?",
+   "variantlar": [
+    "Manfiydan musbatga o‘tadi",
+    "O‘zgarmay qoladi",
+    "Nolga teng bo‘lib qoladi",
+    "Musbatdan manfiyga o‘tadi (1 dan -3 ga)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "1-mashq natijasiga ko‘ra tenglamaning yechimlari qaysi oraliqlarda yotadi?",
+   "variantlar": [
+    "(0;1) va (2;3) oraliqlarda",
+    "(1;2) va (3;4) oraliqlarda",
+    "(-1;0) va (4;5) oraliqlarda",
+    "Faqat (0;1) oraliqda"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Yechim oralig‘ini aniqroq topish uchun nima qilish tavsiya etiladi?",
+   "variantlar": [
+    "Jadvalni bo‘yash",
+    "Oraliqni yanada maydalash",
+    "Oraliqni kengaytirish",
+    "Formulani o‘chirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "2-mashqda grafiklar kesishgan nuqtada x va y qanday qiymatlarga ega bo‘ladi?",
+   "variantlar": [
+    "x=2, y=1",
+    "x=1, y=1",
+    "x=1, y=0",
+    "x=0, y=1"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "2-mashqda tenglamalar sistemasini yechish uchun funksiyalarning qaysi xususiyati tekshiriladi?",
+   "variantlar": [
+    "Funksiyalarning hosilasi",
+    "Funksiyalarning davri",
+    "Funksiyalarning juft-toqligi",
+    "Ordinatalari (y qiymatlari) teng bo‘lgan x nuqtasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Savol-topshiriqda qaysi turdagi tenglamani yechish so‘raladi?",
+   "variantlar": [
+    "Kvadrat tenglama",
+    "Chiziqli tenglama",
+    "Logarifmik tenglama",
+    "Trigonometrik tenglama"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Savol-topshiriqda qanday jadval yaratish so‘raladi?",
+   "variantlar": [
+    "Valyuta kursi jadvali",
+    "Inson yashagan kunni hisoblovchi jadval",
+    "Sinf jurnalini hisoblovchi jadval",
+    "Ob-havo jadvali"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Uyga vazifada sinf o‘quvchilarining qaysi fandan o‘zlashtirish ko‘rsatkichi diagramma ko‘rinishida tasvirlanishi so‘raladi?",
+   "variantlar": [
+    "Fizika",
+    "Tarix",
+    "Informatika va axborot texnologiyalari",
+    "Matematika"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "Uyga vazifada qanday jadval yaratish so‘raladi?",
+   "variantlar": [
+    "Haftalik dars jadvali",
+    "Sinf o‘quvchilari ro‘yxati",
+    "Bayram tadbirlari rejasi",
+    "Bir yillik xarajatlarni hisoblovchi jadval"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "Tenglamani grafik usulda yechishda olingan natija qanday xususiyatga ega?",
+   "variantlar": [
+    "Taqribiy (aniq bo‘lmagan) yechim",
+    "Har doim mutlaqo aniq yechim",
+    "Faqat butun sonli yechim",
+    "Yechim umuman topilmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "1-mashqda qo‘llanilgan usul boshqa qanday masalalarni yechishda ham foydali bo‘ladi?",
+   "variantlar": [
+    "Faqat fayl nomini o‘zgartirishda",
+    "Yuqori darajali tenglamalarning ildizlari joylashgan oraliqni aniqlashda",
+    "Faqat matnni tahrirlashda",
+    "Faqat rasm chizishda"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Tadbirkorlik asoslari",
+ "mavzu": "Bank kreditlari",
+ "savollar": [
+  {
+   "savol": "Bank krediti nima?",
+   "variantlar": [
+    "Davlat tomonidan tadbirkorlarga beriladigan qaytarilmaydigan yordam",
+    "Banklar va maxsus kredit muassasalari tomonidan tadbirkorlar yoki boshqa shaxslarga beriladigan pul shaklidagi qarz",
+    "Banklarga qo'yilgan omonat",
+    "Korxonaning o'z foydasidan ajratilgan jamg'arma"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri kredit berish tamoyillariga kirmaydi?",
+   "variantlar": [
+    "Maqsadlilik",
+    "Qaytarilishi",
+    "Muddatlilik",
+    "Bepullik"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xo'jaliklararo kredit muayyan tovarlarning to'lovini kechiktirish shaklida amalga oshirilsa, u qanday ataladi?",
+   "variantlar": [
+    "Iste'mol krediti",
+    "Tijorat krediti",
+    "Ipoteka krediti",
+    "Bank krediti"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'chmas mulkni garovga qo'yish hisobiga uzoq muddatli qarz shaklida beriladigan kredit qanday ataladi?",
+   "variantlar": [
+    "Ipoteka krediti",
+    "Iste'mol krediti",
+    "Xo'jaliklararo kredit",
+    "Tijorat krediti"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Iste'mol krediti kimlarga beriladi?",
+   "variantlar": [
+    "Faqat chet el kompaniyalariga",
+    "Faqat banklarga",
+    "Faqat davlat korxonalariga",
+    "Xususiy shaxslarga, asosan uzoq muddat foydalaniladigan iste'mol tovarlarini sotib olish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Foiz stavkasi nima?",
+   "variantlar": [
+    "Garov qiymatining kredit miqdoriga nisbati",
+    "Kredit oluvchi to'laydigan to'lov miqdorining kredit miqdoriga nisbatining foizdagi ifodasi",
+    "Bank xodimlarining oylik maoshi",
+    "Kredit muddatining oylardagi ifodasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kredit ta'minoti nima?",
+   "variantlar": [
+    "Kredit bo'yicha kelishuvning qarz oluvchi tomonidan uni belgilangan muddatda qaytarish imkoniyatini oshiruvchi qo'shimcha sharti",
+    "Kredit olish uchun to'lanadigan davlat bojи",
+    "Bankning o'z mijoziga beradigan sovg'asi",
+    "Kredit uchun to'lanadigan foiz"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sof daromad (SD) qaysi formula bo'yicha aniqlanadi?",
+   "variantlar": [
+    "SD = OD - DS",
+    "SD = OD + DS",
+    "SD = DS - OD",
+    "SD = OD : DS"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kredit olish layoqati koeffitsiyenti (KLK) qanday hisoblanadi?",
+   "variantlar": [
+    "Doimiy sarflarni olingan daromadga qo'shish orqali",
+    "Kredit miqdorini muddatga ko'paytirish orqali",
+    "Har oylik to'lovlarni sof daromadga ko'paytirish orqali",
+    "Sof daromadni har oylik to'lovlarga bo'lish orqali"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kredit berishda kafolat ko'pincha qanday shaklda taqdim etiladi?",
+   "variantlar": [
+    "Pasport nusxasi orqali",
+    "Og'zaki va'da orqali",
+    "Kredit summasidan kam qiymatdagi garov ta'minoti orqali",
+    "Kredit summasidan ko'proq qiymatdagi garov ta'minoti orqali"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Siz bankdan 200 ming so'm kreditni yiliga 30 ming so'm to'lash sharti bilan oldingiz. Kredit foiz stavkasi qancha?",
+   "variantlar": [
+    "15%",
+    "30%",
+    "20%",
+    "10%"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bankdan 500 ming so'm kredit olindi va har oy uchun 10 ming so'm to'lov to'lanadi. Oylik foiz stavkasi qancha?",
+   "variantlar": [
+    "1%",
+    "5%",
+    "2%",
+    "10%"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tadbirkorning olingan daromadi 2 mln so'm, doimiy sarflari 800 ming so'm. Uning sof daromadi qancha?",
+   "variantlar": [
+    "2 800 000 so'm",
+    "1 200 000 so'm",
+    "800 000 so'm",
+    "1 600 000 so'm"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mijozning sof daromadi 900 ming so'm, kredit bo'yicha har oylik to'lovi 300 ming so'm. Uning kredit olish layoqati koeffitsiyenti qancha?",
+   "variantlar": [
+    "3",
+    "1 200 000",
+    "600 000",
+    "0,33"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "120 mln so'm kredit 1 yil muddatga olindi. Asosiy qarz kamayib borishi tamoyilida har oy qaytariladigan asosiy to'lov miqdori qancha?",
+   "variantlar": [
+    "6 mln so'm",
+    "8 mln so'm",
+    "10 mln so'm",
+    "12 mln so'm"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mijozning kredit olish layoqati koeffitsiyenti 2 ga teng. Bu nimani anglatadi?",
+   "variantlar": [
+    "Foiz stavkasi 2% ga teng",
+    "Kredit 2 yilga beriladi",
+    "Garov qiymati kreditdan 2 baravar kam",
+    "Sof daromad har oylik to'lovlarni 2 baravar qoplaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Fuqaro uy-ro'zg'or uchun mebel sotib olish maqsadida bankdan ma'lum muddatga qarz oldi. Bu qaysi kredit turiga kiradi?",
+   "variantlar": [
+    "Tijorat krediti",
+    "Xo'jaliklararo kredit",
+    "Iste'mol krediti",
+    "Ipoteka krediti"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tadbirkor o'ziga tegishli binoni garovga qo'yib, bankdan uzoq muddatli qarz oldi. Bu qanday kredit?",
+   "variantlar": [
+    "Maqsadsiz kredit",
+    "Tijorat krediti",
+    "Ipoteka krediti",
+    "Iste'mol krediti"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tadbirkorning kreditini qaytarilishiga uning do'sti shaxsan javobgarlikni o'z zimmasiga oldi. Bu kredit ta'minotining qaysi turi?",
+   "variantlar": [
+    "Ko'chmas mulk garovi",
+    "Sug'urta polisi",
+    "Zargarlik buyumlari garovi",
+    "Uchinchi shaxs kafilligi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Asosiy qarzning kamayib borishi tamoyilida kredit to'lovlari amalga oshirilganda har oyda foiz to'lovi miqdori qanday o'zgaradi?",
+   "variantlar": [
+    "Avval kamayadi, keyin oshadi",
+    "Oshib boradi",
+    "Kamayib boradi, chunki kreditning qoldig'i kamayadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tadbirkorning ushlanmalardan keyingi oylik daromadi 1,5 mln so'm, doimiy sarflari 600 ming so'm, kredit bo'yicha har oylik to'lovi 300 ming so'm. Uning kredit olish layoqati koeffitsiyenti qancha?",
+   "variantlar": [
+    "3",
+    "2",
+    "5",
+    "1,5"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mijozning oylik daromadi 2 mln so'm, doimiy sarflari 1 100 000 so'm, kredit bo'yicha har oylik to'lovi 450 000 so'm. Uning KLK qancha?",
+   "variantlar": [
+    "4,4",
+    "1,5",
+    "2",
+    "0,5"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mijozning KLK 1,5 ga, kredit bo'yicha har oylik to'lovi 400 ming so'mga, doimiy sarflari 300 ming so'mga teng. Uning oylik olingan daromadi qancha?",
+   "variantlar": [
+    "900 000 so'm",
+    "1 000 000 so'm",
+    "600 000 so'm",
+    "700 000 so'm"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tadbirkor bankdan 500 ming so'm kredit oldi va bir yil ichida jami 600 ming so'm qaytardi. Kredit bo'yicha yillik foiz stavkasi qancha?",
+   "variantlar": [
+    "20%",
+    "120%",
+    "10%",
+    "16,7%"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "60 mln so'm kredit 10 oy muddatga olingan va asosiy qarz teng qismlarda to'lanadi. 3-oyning boshida kreditning qoldig'i qancha bo'ladi?",
+   "variantlar": [
+    "50 mln so'm",
+    "48 mln so'm",
+    "42 mln so'm",
+    "54 mln so'm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "120 mln so'm kredit 12 oy muddatga olingan va asosiy qarz har oy teng qismlarda qaytariladi. 4-oyning boshida kreditning qoldig'i qancha bo'ladi?",
+   "variantlar": [
+    "80 mln so'm",
+    "90 mln so'm",
+    "100 mln so'm",
+    "110 mln so'm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tadbirkor bankdan 80 mln so'm kredit oladi va garov ta'minoti taklif qilmoqchi. Garov ta'minoti kredit summasidan ko'proq qiymatda bo'lishi talab etilsa, quyidagi garovlardan qaysi biri mos keladi?",
+   "variantlar": [
+    "80 mln so'mdan 1 so'm kam",
+    "40 mln so'mlik",
+    "70 mln so'mlik",
+    "95 mln so'mlik"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "90 mln so'm kredit 12 oyga olingan. Oylik asosiy to'lov 7,5 mln so'm, 12 oy davomida foiz to'lovlari jami 11,7 mln so'm. Bank oldidagi umumiy to'lovlar miqdori va u kredit miqdoridan qancha ortiq?",
+   "variantlar": [
+    "101,7 mln so'm; 7,5 mln so'm ortiq",
+    "11,7 mln so'm; 90 mln so'm ortiq",
+    "101,7 mln so'm; 11,7 mln so'm ortiq",
+    "90 mln so'm; 0 so'm ortiq"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bank kredit olish layoqati koeffitsiyenti kamida 1,8 bo'lishini talab qiladi. Qaysi mijoz bu me'yorni qondiradi?",
+   "variantlar": [
+    "Daromadi 1 mln, doimiy sarflari 500 ming, oylik to'lovi 250 ming so'm",
+    "Sof daromadi 450 ming, oylik to'lovi 300 ming so'm",
+    "Sof daromadi 500 ming, oylik to'lovi 300 ming so'm",
+    "Daromadi 900 ming, doimiy sarflari 600 ming, oylik to'lovi 200 ming so'm"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tadbirkorning ushlanmalardan keyingi oylik daromadi 1,2 mln so'm. Kommunal to'lovlari 200 ming, ijara haqi 300 ming so'm, kredit bo'yicha har oylik to'lovi 250 ming so'm. Uning kredit olish layoqati koeffitsiyenti qancha?",
+   "variantlar": [
+    "4,8",
+    "2",
+    "3,4",
+    "2,8"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

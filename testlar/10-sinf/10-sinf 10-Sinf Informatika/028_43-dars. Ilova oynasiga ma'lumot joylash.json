@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "43-dars. Ilova oynasiga ma'lumot joylash",
+ "savollar": [
+  {
+   "savol": "43-dars qanday nomlanadi?",
+   "variantlar": [
+    "Ilova oynasiga ma’lumot joylash",
+    "ShowMessage oynasi",
+    "Boshqarish obyektlarining faolligi",
+    "Boshqarish tugmasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "Ma’lumot chiqarish uchun eng sodda boshqarish obyekti qaysi?",
+   "variantlar": [
+    "Timer",
+    "Label",
+    "Button",
+    "Form"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "Label obyekti obyektlar panelining qaysi jildida joylashgan?",
+   "variantlar": [
+    "Win32 jildida",
+    "System jildida",
+    "Standart jildida, beshinchi bo‘lib",
+    "Additional jildida"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "Label obyekti qaysi obyektdan ko‘plab xossalarni meros qilib olgan?",
+   "variantlar": [
+    "Button",
+    "Timer",
+    "Memo",
+    "Form (ilova oynasi)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "Label ning asosiy xossasi qaysi?",
+   "variantlar": [
+    "Caption",
+    "Width",
+    "Height",
+    "Name"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "Label obyektining nomi qaysi xossada saqlanadi?",
+   "variantlar": [
+    "Color",
+    "Name",
+    "Caption",
+    "Font"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "Obyektning Name xossasi qachon o‘zgartiriladi?",
+   "variantlar": [
+    "Hech qachon o‘zgartirilmaydi",
+    "Faqat dastur yopilganda",
+    "Faqat obyekt ilova oynasiga qo‘yilayotgan paytda",
+    "Ilova ishlayotgan har qanday paytda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "Ilovaga qo‘yilgan birinchi, ikkinchi, uchinchi Label obyektlariga qanday nomlar avtomatik beriladi?",
+   "variantlar": [
+    "A, B, C",
+    "Label_1, Label_2, Label_3",
+    "Text1, Text2, Text3",
+    "Label1, Label2, Label3"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "Obyekt xossasiga murojaat qilish uchun qanday yozuv ishlatiladi?",
+   "variantlar": [
+    "obyekt_nomi.xossa_nomi",
+    "xossa_nomi.obyekt_nomi",
+    "obyekt_nomi-xossa_nomi",
+    "xossa_nomi/obyekt_nomi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "Label obyektining Width, Height, Left, Top xossalari nimani aniqlaydi?",
+   "variantlar": [
+    "Obyektning shriftini",
+    "Obyekt egallagan joyning o‘lchamlari va joylashuvini",
+    "Obyektning rangini",
+    "Obyektning nomini"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "4-ilovada Form1.Caption qanday matnga o‘rnatiladi?",
+   "variantlar": [
+    "‘Ikkinchi ilova’",
+    "‘Mening ilovam’",
+    "‘To‘rtinchi ilova’",
+    "‘Uchinchi ilova’"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "4-ilovada Form1.Height va Form1.Width qanday qiymatlarga o‘rnatiladi?",
+   "variantlar": [
+    "100 va 50",
+    "600 va 800",
+    "300 va 200",
+    "225 va 400"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "4-ilovada nechta Button va nechta Label obyekti ishlatiladi?",
+   "variantlar": [
+    "Ikkita Button va ikkita Label",
+    "Bitta Button va bitta Label",
+    "Uchta Button va uchta Label",
+    "To‘rtta Button va bitta Label"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "4-ilovada Label1.Caption qanday matnga o‘rnatiladi?",
+   "variantlar": [
+    "‘--’",
+    "‘Oynaning bo‘yi: ’",
+    "‘Oynaning eni: ’",
+    "‘++’"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "4-ilovada Label2.Caption qanday matnga o‘rnatiladi?",
+   "variantlar": [
+    "‘++’",
+    "‘--’",
+    "‘Oynaning eni: ’",
+    "‘Oynaning bo‘yi: ’"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "4-ilovada Button1.Caption qanday belgiga o‘rnatiladi?",
+   "variantlar": [
+    "‘--’",
+    "‘OK’",
+    "‘Tugma1’",
+    "‘++’"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "4-ilovada Button2.Caption qanday belgiga o‘rnatiladi?",
+   "variantlar": [
+    "‘--’",
+    "‘++’",
+    "‘OK’",
+    "‘Tugma2’"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "Button1 bosilganda Label1.Caption qanday yangilanadi?",
+   "variantlar": [
+    "Label1 o‘chadi",
+    "‘Oynaning_bo‘yi:’+IntToStr(Form1.Height) ko‘rinishida",
+    "Faqat ‘Oynaning_bo‘yi’ matni bilan",
+    "O‘zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "Button1 bosilganda Label2.Caption qanday yangilanadi?",
+   "variantlar": [
+    "O‘zgarmaydi",
+    "Label2 o‘chadi",
+    "‘Oynaning_eni:’+IntToStr(Form1.Width) ko‘rinishida",
+    "Faqat ‘Oynaning_eni’ matni bilan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "Label1 va Label2 obyektlari matn chiqarishda qaysi funksiyadan foydalanadi?",
+   "variantlar": [
+    "ShowMessage",
+    "StrToInt",
+    "Random",
+    "IntToStr"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "Savol-topshiriqda oyna bo‘yi va eni mos ravishda qanday qadam bilan o‘zgartirilishi so‘raladi?",
+   "variantlar": [
+    "5 va 8 qadam bilan",
+    "16 va 9 qadam bilan",
+    "1 va 1 qadam bilan",
+    "10 va 10 qadam bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Savol-topshiriqda oyna enining qiymati qaysi oraliqda bo‘lishi so‘raladi?",
+   "variantlar": [
+    "600 dan 1000 gacha",
+    "500 dan 800 gacha",
+    "0 dan 100 gacha",
+    "100 dan 200 gacha"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Savol-topshiriqda tugmalardagi yozuvlarni qanday o‘zgartirish so‘raladi?",
+   "variantlar": [
+    "Ha va Yo‘q ga",
+    "Boshlash va Tugatish ga",
+    "a->A va A->a ga",
+    "++ va -- ga"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Uyga vazifada Label obyekti haqida nimalar so‘raladi?",
+   "variantlar": [
+    "Faqat rangi",
+    "Faqat shrifti",
+    "Faqat nomi",
+    "Vazifasi va asosiy xossalari"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Agar Name xossasini ilova ishlayotgan vaqtda o‘zgartirsak, nima yuz berishi mumkin?",
+   "variantlar": [
+    "Muammolar yuzaga kelishi mumkin",
+    "Hech narsa bo‘lmaydi",
+    "Ilova tezlashadi",
+    "Ilova ravshanlashadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Obyekt_nomi.xossa_nomi yozuvidan qachon foydalaniladi?",
+   "variantlar": [
+    "Faqat papka yaratishda",
+    "Obyektga va uning xossalariga dasturdan murojaat qilishda",
+    "Faqat fayl nomlashda",
+    "Faqat rang tanlashda"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Label obyektining Caption xossasi o‘zgarishi natijasida nima sodir bo‘ladi?",
+   "variantlar": [
+    "Obyekt o‘chadi",
+    "Ilova yopiladi",
+    "Ekranda chiqadigan matn o‘zgaradi",
+    "Obyektning joylashuvi o‘zgaradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "Nega hozircha faqat avtomatik berilgan obyekt nomlaridan foydalanish tavsiya etiladi?",
+   "variantlar": [
+    "Chunki boshqa nom qo‘yib bo‘lmaydi",
+    "Chunki bu majburiy qoida",
+    "Chunki avtomatik nomlar qisqaroq",
+    "Muammolarga uchramaslik uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "4-ilovada ikkita tugma (Button1 va Button2) umumiy nechta boshqarish obyekti bilan birga ishlatiladi (Label1, Label2 bilan)?",
+   "variantlar": [
+    "To‘rtta obyekt",
+    "Ikkita obyekt",
+    "Uchta obyekt",
+    "Beshta obyekt"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "Label obyektini ilova oynasiga joylashning asosiy maqsadi nima?",
+   "variantlar": [
+    "Ma’lumotlar bazasini yaratish",
+    "Foydalanuvchiga matn ko‘rinishida ma’lumot ko‘rsatish",
+    "Fayl saqlash",
+    "Internetga ulanish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

@@ -1,0 +1,179 @@
+47-dars qanday nomlanadi?
++A) Ilovaga ma’lumotlar kiritish
+B) Boshqarish obyektlarining faolligi
+C) Ma’lumot turini o‘zgartirish
+D) Ilova oynasiga ma’lumot joylash
+
+Ilovaga matn kiritishning eng sodda usuli qaysi obyekt orqali amalga oshiriladi?
+A) Timer
++B) Edit
+C) Label
+D) Button
+
+Edit obyekti boshqarish obyektlarining standart panelida nechanchi bo‘lib joylashgan?
+A) Birinchi
+B) O‘ninchi
++C) Oltinchi
+D) Beshinchi
+
+Edit obyektining asosiy xossasi qaysi?
+A) Caption
+B) Width
+C) Font
++D) Text
+
+Edit obyektida Caption xossasi bormi?
++A) Yo‘q
+B) Ha, bor
+C) Faqat ReadOnly bo‘lsa bor
+D) Faqat MaxLength bilan bor
+
+ReadOnly xossasi qanday turdagi qiymat qabul qiladi?
+A) Rangli
++B) Mantiqiy (True/False)
+C) Matnli
+D) Sonli
+
+ReadOnly xossasi dastlab qanday qiymatga ega?
+A) Noma’lum
+B) Bo‘sh
++C) False (yolg‘on)
+D) True (rost)
+
+MaxLength xossasi nima uchun ishlatiladi?
+A) Matn rangini o‘zgartirish uchun
+B) Matnni o‘chirish uchun
+C) Matnni nusxalash uchun
++D) Kiritiladigan matn uzunligini chegaralash uchun
+
+PasswordChar xossasi nima uchun ishlatiladi?
++A) Kiritilgan harflarni boshqa belgi bilan almashtirish uchun (parolni yashirish)
+B) Matn uzunligini chegaralash uchun
+C) Matn shriftini o‘zgartirish uchun
+D) Obyektni o‘chirish uchun
+
+AutoSize xossasi nima uchun ishlatiladi?
+A) Nomni avtomatik o‘zgartirish uchun
++B) Maydoncha o‘lchamini matn uzunligiga qarab avtomatik o‘zgartirish uchun
+C) Rangni avtomatik o‘zgartirish uchun
+D) Shriftni avtomatik o‘zgartirish uchun
+
+Agar ReadOnly xossasi True ga o‘zgartirilsa, nima sodir bo‘ladi?
+A) Maydoncha ko‘rinmay qoladi
+B) Hech narsa o‘zgarmaydi
++C) Foydalanuvchi ma’lumot kirita olmaydi, lekin ilova o‘zgartira oladi
+D) Maydoncha butunlay o‘chadi
+
+Edit obyekti Labeldan qanday farq qiladi (ko‘rinish jihatidan)?
+A) Rangi doim qizil bo‘ladi
+B) Hajmi doim kichik bo‘ladi
+C) Faqat raqam qabul qiladi
++D) Ramkaga olingan va kiritilgan ma’lumot chiroyliroq ko‘rinadi
+
+Shriftni ilova oynasi uchun o‘rnatsak, bu nimaga ta’sir qiladi?
++A) Ilova oynasidagi barcha obyektlarga
+B) Faqat bitta obyektga
+C) Hech narsaga ta’sir qilmaydi
+D) Faqat Edit obyektiga
+
+Shriftning obyektlarga ta’sirini bekor qilish uchun qaysi xossa yolg‘onga o‘tkaziladi?
+A) MaxLength
++B) ParentFont
+C) AutoSize
+D) ReadOnly
+
+PasswordChar xossasi qiymati #0 bo‘lsa, nima sodir bo‘ladi?
+A) Maydoncha o‘chadi
+B) Xatolik chiqadi
++C) Kiritilgan harf boshqasiga almashtirilmaydi
+D) Harflar yashiriladi
+
+PasswordChar qiymati #42 bo‘lsa, kiritilgan harflar o‘rniga qanday belgi chiqadi?
+A) “*” belgisi
+B) “#” belgisi
+C) “-” belgisi
++D) “x” harfi
+
+6-ilovada umumiy parol sifatida qanday qiymat belgilangan?
++A) “12345”
+B) “qwerty”
+C) “parol”
+D) “0000”
+
+6-ilovada nechta Edit obyekti ishlatiladi?
+A) To‘rtta
++B) Uchta
+C) Ikkita
+D) Bitta
+
+6-ilovada Edit2.Passwordchar qanday qiymatga o‘rnatiladi?
+A) #32
+B) #127
++C) #42
+D) #0
+
+6-ilovada parol to‘g‘ri kiritilsa, Edit3.Text ga qanday matn chiqadi?
+A) ‘Parol xato, qayta tering.’
+B) Bo‘sh qoladi
+C) ‘Noto‘g‘ri login’
++D) ‘Salom,’+Edit1.Text+’!Xush kelibsiz!’
+
+6-ilovada parol noto‘g‘ri kiritilsa, Edit3.Text ga qanday matn chiqadi?
++A) ‘Parol xato, qayta tering.’
+B) ‘Salom, Xush kelibsiz!’
+C) Bo‘sh qoladi
+D) Ilova yopiladi
+
+6-ilovada parol to‘g‘ri bo‘lganda qaysi obyektlar ko‘rinmas qilib qo‘yiladi?
+A) Hech biri o‘zgarmaydi
++B) Label1, Label2, Edit1, Edit2, Button1
+C) Faqat Edit3
+D) Faqat Button1
+
+Savol-topshiriqda oltinchi ilovada parolni qanday qiymatlarga almashtirish so‘raladi?
+A) “parol” va “parol2”
+B) “admin” va “user”
++C) “I7:7200U” va “123-12-20”
+D) “12345” va “54321”
+
+Savol-topshiriqda Edit3 o‘rniga qaysi buyruqdan foydalanish so‘raladi?
+A) IntToStr
+B) StrToInt
+C) Random
++D) ShowMessage
+
+Uyga vazifada MaxLength xossasi haqida nima so‘raladi?
++A) Qanday vazifa bajarishi
+B) Qanday rangda bo‘lishi
+C) Qancha vaqt faol bo‘lishi
+D) Qaysi tilda ishlashi
+
+Uyga vazifada PasswordChar xossasi haqida nima so‘raladi?
+A) Qancha hajm egallashi
++B) Qanday vazifa bajarishi
+C) Qaysi rangda ko‘rinishi
+D) Qaysi obyektda yo‘qligi
+
+Nega Edit obyektidan ma’lumot chiqarish uchun foydalanilsa, foydalanuvchi uni o‘zgartira olmasligini ta’minlash kerak?
+A) Chunki bu majburiy qoida emas, ixtiyoriy
+B) Chunki Label buni avtomatik qiladi
++C) Chiqarilayotgan ma’lumotning buzilib ketmasligi uchun
+D) Chunki Edit umuman matn chiqara olmaydi
+
+Edit obyekti odatda qaysi obyekt bilan birga ishlatiladi (chunki Caption xossasi yo‘q)?
+A) Button
+B) Timer
+C) Memo
++D) Label
+
+MaxLength=4 qilib o‘rnatilsa, bu odatda qanday ma’lumotni kiritishda foydali bo‘ladi?
++A) Tug‘ilgan yil kabi 4 xonali sonni kiritishda
+B) Ism kiritishda
+C) Uzun matn kiritishda
+D) Rasm yuklashda
+
+AutoSize xossasi True bo‘lganda qanday muammo yuzaga kelishi mumkin?
+A) Ilova ishlamay qoladi
++B) Maydoncha kattalashib, yonidagi boshqa obyektlarni berkitib qo‘yishi mumkin
+C) Maydoncha butunlay yo‘qolib qoladi
+D) Matn kiritib bo‘lmay qoladi

@@ -1,0 +1,179 @@
+39-dars qanday nomlanadi?
++A) Boshqarish tugmasi
+B) ShowMessage oynasi
+C) Ilova va uning oynasi
+D) Delphida grafika bilan ishlash
+
+39-darsda yaratiladigan yangi ilovaning o‘lchamlari qanday o‘rnatiladi?
+A) 300 ga 400
++B) 225 ga 400
+C) 100 ga 50
+D) 600 ga 800
+
+39-darsda ilova sarlavhasi qanday matnga o‘zgartiriladi?
+A) “uchinchi ilova”
+B) “mening ilovam”
++C) “ikkinchi dastur”
+D) “birinchi dastur”
+
+Boshqarish tugmasi qaysi paneldan tanlanadi?
+A) Obyekt inspektoridan
+B) Dastur kodi oynasidan
+C) Sarlavha satridan
++D) Uskunalar panelining standart jildidan
+
+Boshqarish tugmasining sarlavhasi qaysi xossa orqali o‘zgartiriladi?
++A) Caption
+B) Width
+C) Height
+D) Left
+
+Tugma shriftini kattalashtirish uchun qaysi xossadan foydalaniladi?
+A) Width
++B) Font
+C) Caption
+D) Color
+
+39-darsda Button1.Caption qanday qiymatga o‘zgartiriladi?
+A) ‘Boshlash’
+B) ‘Tugma1’
++C) ‘++’
+D) ‘OK’
+
+Obyektlar ro‘yxati qaysi oynada ko‘rinadi (obyekt ajralib turadi)?
+A) Dastur kodi oynasi
+B) Sarlavha satri
+C) Printer oynasi
++D) Object TreeView (Obyektlar dispetcheri)
+
+Button1 tugmasi bosilganda qaysi protsedura ishga tushadi?
++A) TForm1.Button1Click
+B) TForm1.Create
+C) TForm1.Close
+D) TForm1.Paint
+
+Tugma sarlavhasi shriftini o‘zgartirishda ochiladigan oyna qanday nomlanadi?
+A) Chop etish oynasi
++B) Шрифт muloqot oynasi
+C) Rang oynasi
+D) Fayl oynasi
+
+Shrift oynasining Размер maydonchasidan qaysi son tanlanadi?
+A) 20
+B) 12
++C) 14
+D) 10
+
+39-darsda Button1 tugmasi bosilganda ilova oynasi qancha kattalashishi kerak?
+A) Eni 9, bo‘yi 16 ga
+B) Eni 100, bo‘yi 50 ga
+C) Eni va bo‘yi 2 barobar
++D) Eni 16, bo‘yi 9 ga
+
+Button1 tugmasiga hodisa bog‘lash qanday boshlanadi?
++A) Tugmani ikki marta sichqoncha bilan bosish
+B) Tugmani bir marta bosish
+C) Tugmani o‘chirish
+D) Tugmani surish
+
+Tugma bosilganda bajariladigan kod qaysi oynada yoziladi?
+A) Uskunalar panelida
++B) Dastur kodi oynasida
+C) Obyekt inspektorida
+D) Forma oynasida
+
+Form1.Width:=Form1.Width+16; operatori nimani bajaradi?
+A) Ilova oynasini yopadi
+B) Tugmani o‘chiradi
++C) Ilova oynasi eniga 16 birlik qo‘shadi
+D) Ilova oynasi bo‘yini 16 ga kamaytiradi
+
+Form1.Height:=Form1.Height+9; operatori nimani bajaradi?
+A) Ilova oynasi eniga 9 birlik qo‘shadi
+B) Ilova oynasini kichraytiradi
+C) Tugmani yangilaydi
++D) Ilova oynasi bo‘yiga 9 birlik qo‘shadi
+
+Kiritilgan kod ishlashini tekshirish uchun qaysi tugma bosiladi?
++A) F9
+B) F5
+C) F2
+D) Esc
+
+Ilova oynasi va boshqarish tugmasining ko‘pgina xossalari bir xil bo‘lishi nimani osonlashtiradi?
+A) Internetga ulanishni
++B) Xossalarni o‘rganish va o‘zgartirish ishini
+C) Faylni saqlashni
+D) Dasturni o‘chirishni
+
+Boshqarish tugmasining joyini o‘zgartirish uchun nima qilinadi?
+A) Faqat Caption o‘zgartiriladi
+B) Imkoni yo‘q
++C) Sichqoncha bilan surib boshqa joyga o‘tkaziladi
+D) Faqat Delete bosiladi
+
+Savol-topshiriqda nechta boshqarish tugmasi kiritilgan yangi ilova yaratish so‘raladi?
+A) Ikkita tugma
+B) Uchta tugma
+C) Beshta tugma
++D) To‘rtta tugma
+
+Savol-topshiriqda tugmalarga qanday yozuvlar berilishi so‘raladi?
++A) Yarat, Yukla, Saqla, Tugat
+B) Ochish, Yopish, Nusxalash, O‘chirish
+C) Boshlash, Davom etish, To‘xtatish, Chiqish
+D) Ha, Yo‘q, Bekor qilish, OK
+
+Uyga vazifada nima yozib olish so‘raladi?
+A) MS Access funksiyalari
++B) Boshqarish tugmasining asosiy xossalari
+C) Delphi tarixi
+D) Pascal operatorlari
+
+Boshqarish tugmasi tanlanganida uning nima ish qilishi qayerda ko‘rsatiladi (savol-topshiriqqa ko‘ra)?
+A) Faqat Font xossasida
+B) Faqat sarlavha satrida
++C) Dastur kodi oynasida (Button1Click protsedurasida)
+D) Faqat Caption xossasida
+
+Button1.Caption:=’++’ yozuvi qanday qoidaga ko‘ra yozilgan?
+A) Tasodifiy tartibda
+B) Faqat katta harflar bilan
+C) Faqat raqamlar bilan
++D) Oldingi darsda qabul qilingan kelishuvga ko‘ra (xossa:=qiymat;)
+
+Agar Button1 tugmasiga kod yozilmasa, tugma bosilganda nima sodir bo‘ladi?
++A) Hech qanday vazifa bajarilmaydi
+B) Ilova yopiladi
+C) Xatolik chiqadi
+D) Kompyuter o‘chadi
+
+Ilova oynasi va unga joylangan obyektning (tugmaning) xossalari qanday o‘rnatiladi?
+A) Faqat klaviaturadan matn kiritib
++B) Object Inspector oynasida tegishli xossani tanlab, qiymatini kiritish orqali
+C) Faqat dastur kodi yozib
+D) Faqat sichqoncha bilan surib
+
+Boshqarish tugmasi (Button) obyekti qaysi toifaga mansub?
+A) Fayl obyekti
+B) Tarmoq obyekti
++C) Vizual boshqarish obyekti (komponenta)
+D) Ma’lumotlar bazasi obyekti
+
+39-dars davomida ikkinchi ilovaning asosiy maqsadi nima edi?
+A) Internetga ulanish
+B) Rasm chizish
+C) Musiqa ijro etish
++D) Birinchi ilovaning hech qanday vazifa bajarmaslik kamchiligini bartaraf etish
+
+Ilova oynasi va unga joylangan tugmaning xossalari o‘rtasida qanday umumiylik bor?
++A) Ikkalasida ham ko‘pgina bir xil nomli xossalar (Width, Height, Caption kabi) mavjud
+B) Hech qanday umumiylik yo‘q
+C) Faqat rang xossasi umumiy
+D) Faqat nom xossasi umumiy
+
+Button1 obyektining xossalari ro‘yxati qaysi oynada ko‘rinadi?
+A) Uskunalar paneli
++B) Object Inspector (Obyekt inspektori)
+C) Object TreeView
+D) Dastur kodi oynasi

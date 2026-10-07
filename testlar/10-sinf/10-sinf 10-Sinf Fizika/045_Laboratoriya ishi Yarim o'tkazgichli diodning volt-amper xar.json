@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Fizika",
+ "mavzu": "Laboratoriya ishi: Yarim o'tkazgichli diodning volt-amper xarakteristikasini o'rganish",
+ "savollar": [
+  {
+   "savol": "Laboratoriya ishining maqsadi nima?",
+   "variantlar": [
+    "Yarim o'tkazgichli dioddan o'tuvchi tok kuchining qo'yilgan kuchlanishga bog'liqligini o'rganish",
+    "Metallarning solishtirma qarshiligini o'lchash",
+    "Transformatorning ishlash prinsipini o'rganish",
+    "Kondensatorning sig'imini aniqlash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tajriba uchun kerakli o'zgarmas tok manbaining kuchlanishi necha volt bo'lishi kerak?",
+   "variantlar": [
+    "100-150 V",
+    "36-42 V",
+    "12-24 V",
+    "220 V"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dioddan o'tayotgan tok kuchini o'lchash uchun qaysi asbobdan foydalaniladi?",
+   "variantlar": [
+    "Milliampermetr",
+    "Ommetr",
+    "Voltmetr",
+    "Vattmetr"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Diod uchlaridagi kuchlanishni o'lchash uchun qaysi asbobdan foydalaniladi?",
+   "variantlar": [
+    "Ampermetr",
+    "Milliampermetr",
+    "Reostat",
+    "Voltmetr"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zanjirga beriladigan kuchlanishni asta-sekin o'zgartirish uchun qaysi asbobdan foydalaniladi?",
+   "variantlar": [
+    "Reostat",
+    "Transformator",
+    "Uzib-ulagich",
+    "Diod"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zanjirni ulash va uzish uchun ishlatiladigan asbob qanday nomlanadi?",
+   "variantlar": [
+    "Voltmetr",
+    "Reostat",
+    "Milliampermetr",
+    "Uzib-ulagich"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tajriba boshlanishidan oldin reostat jildirgichi qanday holatga qo'yiladi?",
+   "variantlar": [
+    "Zanjirda kuchlanish 0 V bo'ladigan holatga",
+    "Zanjirda maksimal kuchlanish beriladigan holatga",
+    "O'rtacha holatga",
+    "Istalgan tasodifiy holatga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tajribani qayta bajarishda nima o'zgartiriladi?",
+   "variantlar": [
+    "Diod boshqasiga almashtiriladi",
+    "Tok manbaining qutblari almashtiriladi",
+    "Milliampermetr almashtiriladi",
+    "Reostat zanjirdan olib tashlanadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Diodga teskari yo'nalishda kuchlanish qo'yilganda nimaga alohida e'tibor berish kerak?",
+   "variantlar": [
+    "Reostat eng past holatga qo'yilishiga",
+    "Diod pasportida ko'rsatilgan qiymatdan katta kuchlanish berilmasligiga",
+    "Kuchlanish doim 220 V bo'lishiga",
+    "Milliampermetr o'chirib qo'yilishiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'lchash natijalari dastlab qayerga kiritiladi?",
+   "variantlar": [
+    "To'g'ridan-to'g'ri grafikka",
+    "Diod ichiga",
+    "Reostatga",
+    "Jadvalga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zanjirda milliampermetr diodga nisbatan qanday ulanishi kerak?",
+   "variantlar": [
+    "Umuman ulanmaydi",
+    "Diagonal",
+    "Parallel",
+    "Ketma-ket"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zanjirda voltmetr diodga nisbatan qanday ulanishi kerak?",
+   "variantlar": [
+    "Ketma-ket",
+    "Qarshilikka teskari",
+    "Parallel",
+    "Umuman ulanmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Grafikda to'g'ri yo'nalishda kuchlanish 0,1 V dan 0,7 V gacha ortganda tok kuchi qanday o'zgaradi?",
+   "variantlar": [
+    "Keskin (tezlashib) ortadi",
+    "O'zgarmaydi",
+    "Kamayadi",
+    "Chiziqli ravishda ortadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Grafikda teskari yo'nalishda kuchlanish -20 V dan 0 V gacha o'zgarganda tok kuchi haqida nima deyish mumkin?",
+   "variantlar": [
+    "Juda katta bo'lib, keskin o'zgaradi",
+    "Manfiydan musbatga o'tadi",
+    "Deyarli o'zgarmay, juda kichik qoladi",
+    "Chiziqli ravishda ortadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qutblar almashtirilgandan keyin olingan o'lchov natijalari nimani aniqlashga xizmat qiladi?",
+   "variantlar": [
+    "Diodning teskari yo'nalishdagi xarakteristikasini",
+    "Transformatorning kuchlanishini",
+    "Tok manbaining quvvatini",
+    "Reostatning qarshiligini"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Diodning to'g'ri va teskari yo'nalishdagi elektr qarshiliklarini hisoblash uchun qaysi qonundan foydalaniladi?",
+   "variantlar": [
+    "Joul-Lens qonuni",
+    "Faradey qonuni",
+    "Om qonuni (R=U/I)",
+    "Kulon qonuni"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Diod to'g'ri ulangan holda va kuchlanish orttirilganda, tok p-n o'tish orqali qaysi yo'nalishda o'tadi?",
+   "variantlar": [
+    "Faqat bir marta o'tadi",
+    "To'g'ri yo'nalishda",
+    "Teskari yo'nalishda",
+    "Umuman o'tmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tajriba davomida reostat nima maqsadda ishlatiladi?",
+   "variantlar": [
+    "Zanjirga beriladigan kuchlanishni asta-sekin orttirish uchun",
+    "Diodni doim maksimal holatda himoya qilish uchun",
+    "Tokni o'lchash uchun",
+    "Kuchlanishni o'lchash uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Grafikdagi \"I to'g'ri\" va \"I teskari\" o'qlari nimani ifodalaydi?",
+   "variantlar": [
+    "Ikki xil diodning tok qiymatlarini",
+    "Kuchlanish manbaining ikki xil holatini",
+    "Reostatning ikki xil qiymatini",
+    "Diodga to'g'ri va teskari ulanganda o'tadigan tok kuchlarini"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tajriba natijalariga ko'ra chiziladigan grafik nimani ifodalaydi?",
+   "variantlar": [
+    "Tok manbai quvvatining vaqtga bog'liqligini",
+    "Diod temperaturasining vaqtga bog'liqligini",
+    "Reostat qarshiligining uzunlikka bog'liqligini",
+    "Dioddan o'tuvchi tok kuchining qo'yilgan kuchlanishga bog'liqligini"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Diod to'g'ri ulangan holda tok kuchining kuchlanishga bog'liqligi to'g'ri chiziqdan iborat emas. Bu nimani bildiradi?",
+   "variantlar": [
+    "Diodning qarshiligi kuchlanishga qarab o'zgaradi, Om qonuni to'liq bajarilmaydi",
+    "Diod butunlay ishlamay qolgan",
+    "Milliampermetr noto'g'ri ulangan",
+    "Kuchlanish manbai nosoz"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima sababdan teskari yo'nalishda qo'yilgan kuchlanishda ham dioddan juda kichik tok o'tadi?",
+   "variantlar": [
+    "Milliampermetr xato ko'rsatgani uchun",
+    "Kuchlanish manbai nosoz bo'lgani uchun",
+    "p-n o'tishda ozgina erkin zaryad tashuvchilar mavjudligi sababli",
+    "Diod butunlay izolyator bo'lgani uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar diodning pasportida ko'rsatilgan maksimal teskari kuchlanish 15 V bo'lsa, tajribada diodga -20 V qo'yish mumkinmi?",
+   "variantlar": [
+    "Yo'q, chunki milliampermetr buziladi",
+    "Yo'q, chunki bu diodni buzib qo'yishi mumkin",
+    "Ha, chunki teskari yo'nalishda tok juda kichik",
+    "Ha, agar reostat ishlatilsa"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "To'g'ri ulangan diodda kuchlanish 0,1 V dan 0,7 V ga oshganda tok kuchi keskin ortadi. Bu esa qarshilikning qanday o'zgarishini bildiradi?",
+   "variantlar": [
+    "Qarshilik o'zgarmaydi",
+    "Qarshilik ortib boradi",
+    "Qarshilik kamayib boradi",
+    "Qarshilik manfiy bo'lib qoladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Diodning teskari yo'nalishdagi elektr qarshiligi to'g'ri yo'nalishdagi qarshiligiga nisbatan qanday bo'ladi?",
+   "variantlar": [
+    "Aniqlab bo'lmaydi",
+    "Teng",
+    "Ancha katta",
+    "Ancha kichik"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir xil kattalikdagi kuchlanish qo'yilganda to'g'ri p-n o'tishdagi tok teskari o'tishdagi tokdan ancha katta bo'ladi. Buning sababi nima?",
+   "variantlar": [
+    "Teskari yo'nalishda milliampermetr ishlamaydi",
+    "To'g'ri yo'nalishda diod juda qiziydi",
+    "To'g'ri yo'nalishda kuchlanish manbai kuchliroq ishlaydi",
+    "To'g'ri yo'nalishda p-n o'tish qarshiligi kamayadi, teskari yo'nalishda esa ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Grafikning turli nuqtalarida hisoblangan R=U/I qiymatlari bir xil chiqmasligining asosiy sababi nima?",
+   "variantlar": [
+    "Voltmetr buzilgani uchun",
+    "O'lchash xatosi tufayli",
+    "Reostat noto'g'ri ishlatilgani uchun",
+    "Diod chiziqli element emasligi, qarshiligi kuchlanishga bog'liq ravishda o'zgarishi tufayli"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tok manbaining qutblari almashtirilganda qaysi asbob ko'rsatkichi deyarli o'zgarmay, juda kichik qiymatda qolishi kutiladi?",
+   "variantlar": [
+    "Voltmetr",
+    "Uzib-ulagich",
+    "Milliampermetr",
+    "Reostat"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "To'g'ri va teskari yo'nalish uchun olingan qarshilik qiymatlarini solishtirish natijasida diod haqida qanday xulosaga kelish mumkin?",
+   "variantlar": [
+    "Diod ikki yo'nalishda bir xil o'tkazuvchanlikka ega",
+    "Diod umuman tok o'tkazmaydi",
+    "Diod asosan faqat bir yo'nalishda yaxshi o'tkazadi, bu uning tokni to'g'rilash xususiyati",
+    "Diod qarshiligi doim o'zgarmas qoladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "To'g'ri yo'nalishdagi VAXda kichik kuchlanishlarda tok deyarli oshmaydi, ma'lum chegaradan keyin esa keskin ortadi. Bu xususiyat nima bilan izohlanadi?",
+   "variantlar": [
+    "Kichik kuchlanishlarda diod sovuq bo'lgani uchun tok o'tmaydi",
+    "Reostat kichik kuchlanishlarda ishlamagani uchun",
+    "Kichik kuchlanishlarda p-n o'tish to'liq ochilmagan, bo'sag'a kuchlanishidan keyin tok keskin ortadi",
+    "Milliampermetr kichik tokni o'lchay olmagani uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

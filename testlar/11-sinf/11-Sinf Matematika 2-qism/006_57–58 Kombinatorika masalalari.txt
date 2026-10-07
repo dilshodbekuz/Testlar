@@ -1,0 +1,187 @@
+57–58 Kombinatorika masalalari
+
+--- OSON ---
+
+1. Kombinatorikaning asosiy savoli qanday?
+A) Kim?
++B) Qancha?
+C) Qachon?
+D) Nima uchun?
+
+2. Variantlarni birma-bir qarab chiqishda kombinatsiyalarni qanday tartibda yozish maqsadga muvofiq?
++A) Alifbo tartibida yoki sonlarni o'sish tartibida
+B) Faqat kamayish tartibida
+C) Eng katta variantdan boshlab tartibsiz
+D) Tasodifiy tartibda
+
+3. Qo'shish qoidasiga ko'ra, A obyekt m ta usul bilan, B obyekt esa boshqa n ta usul bilan tanlanishi mumkin bo'lsa, (A yoki B) nechta usul bilan tanlanadi?
++A) m + n
+B) m / n
+C) m · n
+D) m − n
+
+4. Ko'paytirish qoidasiga ko'ra, A obyekt m ta usul bilan tanlanib, so'ng B obyekt n ta usul bilan tanlanishi mumkin bo'lsa, (A va B) nechta usul bilan tanlanadi?
+A) m² + n²
++B) m · n
+C) m + n
+D) m − n
+
+5. n elementli to'plamning barcha qism to'plamlari soni nechta?
++A) 2ⁿ
+B) n²
+C) 2n
+D) n!
+
+6. n! ("en faktorial") nimani anglatadi?
+A) 1 dan n gacha barcha natural sonlar yig'indisini
+B) n ni n ga ko'paytmasini
++C) 1 dan n gacha barcha natural sonlar ko'paytmasini
+D) n ning ikkiga ko'paytmasini
+
+7. n! nimaga teng?
+A) n elementli to'plamdagi juftliklar yig'indisiga
++B) n elementli to'plam elementlarining o'rin almashtirishlari soniga
+C) n elementdan 2 tadan o'rinlashtirishlar soniga
+D) n elementli to'plamning qism to'plamlari soniga
+
+8. n ta elementdan k tadan takrorli o'rinlashtirishlar soni qaysi formula bilan topiladi?
+A) n! / k!
+B) kⁿ − 1
+C) n · k
++D) nᵏ
+
+9. n ta elementdan k tadan takrorsiz o'rinlashtirishlar soni A(n,k) uchun qaysi ifoda to'g'ri?
+A) n·n·...·n (k marta)
++B) n·(n−1)·...·(n−k+1)
+C) n·(n−1)·...·1 faqat k = n bo'lganda
+D) n·(n+1)·...·(n+k−1)
+
+10. Madina olma, nok va mandarinni ketma-ket yemoqchi. Buni necha usulda bajarishi mumkin?
+A) 9
++B) 6
+C) 8
+D) 3
+
+--- O'RTACHA ---
+
+11. Savatda 5 ta olma va 3 ta nok bor. Savatdan 1 ta meva necha usulda tanlanadi?
+A) 53
+B) 2
++C) 8
+D) 15
+
+12. Do'konda 5 ta turli piyola va 3 ta turli likopcha bor. Piyola va likopcha juftligi necha usulda xarid qilinishi mumkin?
+A) 125
++B) 15
+C) 10
+D) 8
+
+13. Do'konda 5 ta piyola, 3 ta likopcha va 4 ta choy qoshig'i bor. Piyola, likopcha va qoshiqdan iborat uchlik necha usulda xarid qilinadi?
+A) 35
+B) 47
+C) 12
++D) 60
+
+14. Futbol jamoasida 11 nafar o'yinchi bor. Sardor va uning yordamchisi necha usulda tayinlanadi?
++A) 110
+B) 55
+C) 121
+D) 22
+
+15. 7 nafar o'quvchi navbatga necha usul bilan turishi mumkin?
+A) 720
+B) 49
+C) 40320
++D) 5040
+
+16. 1, 2, 3 raqamlaridan ularni takrorlamasdan tuzilgan uch xonali sonlar nechta?
+A) 27
++B) 6
+C) 3
+D) 9
+
+17. Xonada beshta chiroq bor, har biri yo yonadi, yo yonmaydi. Xonani necha usulda yoritish mumkin (hammasi o'chiq holat ham hisobga olinadi)?
++A) 32
+B) 25 dan 5 ta
+C) 10
+D) 16
+
+18. Toqqa 7 ta yo'l olib boradi. Sayyoh chiqish va tushishda yo'llarni cheklovsiz tanlasa, bu ishni necha usulda bajarishi mumkin?
+A) 7
+B) 14
+C) 42
++D) 49
+
+19. A shahardan B shaharga 6 ta, B shahardan C shaharga 4 ta yo'l boradi. A dan C ga B orqali necha usulda borish mumkin?
+A) 64
+B) 2
+C) 10
++D) 24
+
+20. Uzunligi 4 bo'lgan, 5 ta belgidan iborat alifbodagi barcha belgilari turlicha so'zlar nechta?
+A) 5
+B) 20
+C) 625
++D) 120
+
+--- QIYIN ---
+
+21. Toqqa 7 ta yo'l olib boradi. Sayyoh chiqish va tushishda har xil yo'llardan foydalansa, necha usulda bajarishi mumkin?
+A) 14
+B) 21
+C) 49
++D) 42
+
+22. Barcha raqamlari juft bo'lgan besh xonali sonlar nechta?
++A) 2500
+B) 2000
+C) 3125
+D) 5000
+
+23. Faqat toq raqamlardan iborat ("chiroyli") to'rt xonali sonlar nechta?
++A) 625
+B) 900
+C) 256
+D) 500
+
+24. Barcha raqamlari turlicha bo'lgan yetti raqamli telefon nomerlari (0 dan boshlanishi mumkin) nechta?
+A) 10⁷
+B) 9·9·8·7·6·5·4
++C) 10·9·8·7·6·5·4
+D) 10·9·8·7·6·5·4·3
+
+25. 3 ta tovuq, 4 ta o'rdak va 2 ta g'ozdan tanlanmoqda, tanlanganlar orasida har uchala turdan kamida bittadan bo'lishi shart. Variantlar soni nechta?
++A) 315
+B) 512
+C) 1024
+D) 24
+
+26. Raqamlari yig'indisi 4 dan kichik bo'lgan to'rt xonali sonlar nechta?
+A) 10
+B) 12
++C) 15
+D) 20
+
+27. Birinchi raqami 2 bo'lgan va 1, 2, 3, 4, 5 raqamlaridan tuzilgan (takrorlanishi mumkin) uch xonali sonlar nechta?
+A) 125
+B) 15
+C) 20
++D) 25
+
+28. Do'konda 5 ta piyola, 3 ta likopcha va 4 ta choy qoshig'i bor. Turli nomdagi ikkita idishdan iborat juftlik necha usulda xarid qilinishi mumkin?
+A) 12
++B) 47
+C) 60
+D) 35
+
+29. Maktabda beshta 11-sinf bor. Ikki nafar navbatchi har xil sinflardan tanlanadi va juftlikda tartib ahamiyatsiz (masalan, (1,2) va (2,1) bir xil). Necha usul bor?
+A) 25
+B) 20
++C) 10
+D) 5
+
+30. Futbol jamoasida 11 nafar o'yinchi bor. Sardor, birinchi yordamchi va ikkinchi yordamchi necha usulda tayinlanadi?
++A) 990
+B) 1331
+C) 165
+D) 110

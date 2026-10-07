@@ -1,0 +1,337 @@
+{
+  "sinf": "11-sinf",
+  "kitob": "11-sinf 11-Sinf Informatika",
+  "mavzu": "14-dars. Mo'yqalam va qalam bilan ishlash",
+  "savollar": [
+    {
+      "savol": "Mo'yqalam va qalam uskunalari uskunalar panelida qayerda joylashgan?",
+      "variantlar": [
+        "Birinchi qatorda",
+        "To'rtinchi qatorning ikkinchi ustunida",
+        "Oxirgi qatorda",
+        "Ikkinchi qatorda"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Mo'yqalam uskunasini chaqirish uchun klaviaturadagi qaysi lotin harfi bosiladi?",
+      "variantlar": [
+        "B",
+        "C",
+        "D",
+        "A"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Mo'yqalam birinchi navbatda nima uchun ishlatiladi?",
+      "variantlar": [
+        "Ramka chizish uchun",
+        "Palitra ochish uchun",
+        "Matn yozish uchun",
+        "Bo'yash uchun"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Qalam yordamida qanday chiziqlar chiziladi?",
+      "variantlar": [
+        "Filtrlangan rasmlar",
+        "Yumshoq bo'yoqli chiziqlar",
+        "Chetlari aniq chiziqlar",
+        "Matnlar"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Qalam uskunasi yordamida asosan nima chiziladi?",
+      "variantlar": [
+        "Matn",
+        "Chiziqlar",
+        "Filtrlar",
+        "Fayllar"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Qalam bilan chizilgan chiziqning chetlari qanday bo'ladi?",
+      "variantlar": [
+        "Aniq ajralib turadi",
+        "Yo'qoladi",
+        "O'zgaradi",
+        "Xira bo'ladi"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Qalam bilan chizishda Shift tugmasi bosib turilib sichqoncha harakatlantirilsa nima hosil bo'ladi?",
+      "variantlar": [
+        "Egri chiziq",
+        "Nuqta",
+        "Doira",
+        "To'g'ri gorizontal yoki vertikal kesmalar"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Ctrl tugmasi bosilganda nima bo'ladi?",
+      "variantlar": [
+        "Tasvir saqlanadi",
+        "Chiziq o'chadi",
+        "Chizilgan chiziqni siljitish mumkin bo'ladi",
+        "Rang o'zgaradi"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Alt tugmasi bosilib tasvirning biror joyiga sichqoncha olib kelinib bosilsa nima bo'ladi?",
+      "variantlar": [
+        "Ranglar o'chadi",
+        "Shu nuqtaning rangi asosiy rang sifatida tanlanadi",
+        "Fayl ochiladi",
+        "Matn yoziladi"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Qalamning qattiqligini o'zgartirish uchun parametrlar panelidagi qaysi surgich ishlatiladi?",
+      "variantlar": [
+        "Ikkinchi surgich",
+        "Uchinchi surgich",
+        "To'rtinchi surgich",
+        "Birinchi surgich"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Mo'yqalam palitrasidagi A harfi nimani bildiradi?",
+      "variantlar": [
+        "Rang palitrasini",
+        "Shaffoflikni",
+        "Mo'yqalam diametrini",
+        "Tayyor mo'yqalamlar to'plamini"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Mo'yqalam parametrlar panelidagi B tugmasi nimaga xizmat qiladi?",
+      "variantlar": [
+        "Palitrani yopishga",
+        "Shaffoflikni o'zgartirishga",
+        "Mo'yqalam diametrini va ko'rinishini tanlashga",
+        "Rangni tanlashga"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Mo'yqalam parametrlar panelidagi C tugmasi nima qiladi?",
+      "variantlar": [
+        "Diametrni o'zgartiradi",
+        "Mo'yqalam palitrasini ekranga chaqiradi",
+        "Rangni almashtiradi",
+        "Shaffoflikni kamaytiradi"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Mo'yqalam parametrlarida E harfi nimani bildiradi?",
+      "variantlar": [
+        "Mo'yqalamda chizilgan tasvirning shaffofmasligini",
+        "Mo'yqalam diametrini",
+        "Mo'yqalam burchagini",
+        "Mo'yqalam rangini"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Mo'yqalam parametrlarida H harfi (aerograf) nimani bildiradi?",
+      "variantlar": [
+        "Rangni",
+        "Palitrani",
+        "Diametrni",
+        "Bo'yoqni surkash tartibidan purkash tartibiga o'tkazishni"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Mo'yqalam izini vertikal o'girish parametri qaysi harf bilan belgilangan?",
+      "variantlar": [
+        "H",
+        "E",
+        "F",
+        "G"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Qalamning qattiqlik surgichi o'ngga surilsa nima bo'ladi?",
+      "variantlar": [
+        "Qalam qattiqroq bo'ladi",
+        "Qalam yumshoqroq bo'ladi",
+        "Qalam o'chadi",
+        "Qalam rangli bo'ladi"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Mo'yqalam va qalamning asosiy farqi nimada?",
+      "variantlar": [
+        "Mo'yqalam bo'yash uchun, qalam chiziq chizish uchun",
+        "Qalam bo'yash uchun, mo'yqalam chizish uchun",
+        "Ikkalasi faqat matn uchun",
+        "Ikkalasi bir xil ishlaydi"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Mo'yqalam palitrasidagi barg shaklidagi mo'yqalamdan foydalanib tasvirni nima bilan to'ldirish mumkin?",
+      "variantlar": [
+        "Ranglar bilan",
+        "Filtrlar bilan",
+        "Matn bilan",
+        "Maysalar va barglar bilan"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Mo'yqalam palitrasida qaysi parametrlar o'zgartirilishi mumkin?",
+      "variantlar": [
+        "Faqat matn shrifti",
+        "Faqat rangi",
+        "Mo'yqalam shakli, kattaligi, burchagi, eni va izi",
+        "Faqat fayl hajmi"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Alt tugmasi qaysi uskunani vaqtincha ishga tushiradi?",
+      "variantlar": [
+        "Ramka",
+        "Tomizg'ich uskunasi",
+        "Lasso",
+        "Matn"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Mo'yqalam tolalarining qattiqligi kamaygan sari nima ortadi?",
+      "variantlar": [
+        "Shaffoflik",
+        "Diametr",
+        "Rang soni",
+        "Bo'yalgan sohaning bo'yoq bilan qoplanish foizi"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Shaffoflik ortgan sari bo'yalgan soha ostidagi tasvir qanday ko'rinadi?",
+      "variantlar": [
+        "Rang o'zgaradi",
+        "Kattalashadi",
+        "Tasvir o'chadi",
+        "Tasvir ko'proq ko'rinib turadi"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Mo'yqalam palitrasining vertikal surgichi pastga surilsa, nima paydo bo'ladi?",
+      "variantlar": [
+        "Fayl saqlanadi",
+        "Qalam o'chadi",
+        "Qalamning yangi shakllari paydo bo'ladi",
+        "Rang o'zgaradi"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Qalamning qalinligini o'zgartirish uchun ikkinchi tugma (B) bosilganda hosil bo'lgan oynaning birinchi surgichi nima qiladi?",
+      "variantlar": [
+        "Qattiqlikni o'zgartiradi",
+        "Qalinlikni o'zgartiradi",
+        "Rangni o'zgartiradi",
+        "Shaffoflikni o'zgartiradi"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Mo'yqalamning parametrlarini o'rnatish va u bilan ishlashda qaysi palitradan foydalanish qulayroq?",
+      "variantlar": [
+        "Кисть (Mo'yqalam) palitrasi",
+        "Navigator",
+        "Gistogramma",
+        "Rang palitrasi"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Taniqli kinoaktyor suratida mo'yqalam bilan nima qilish topshirilgan?",
+      "variantlar": [
+        "Rasmni chop etish",
+        "Ramka chizish",
+        "Matn yozish",
+        "Yuzini ajratib, mo'yqalam bilan terisi rangini to'qlashtirish"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Qalam uskunasi bilan uchburchak, medianalar, balandliklar va bissektrisalarni chizish nimaga xizmat qiladi?",
+      "variantlar": [
+        "Shriftlarni o'zgartirishga",
+        "Matn yozishga",
+        "Geometrik chizmalar yasashga",
+        "Fon yaratishga"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Uyga vazifa sifatida qalamning qanday ishi tavsiya etilgan?",
+      "variantlar": [
+        "Faylni o'chirish",
+        "Parametrlarni o'zgartirib chiziqning o'zgarishini kuzatish",
+        "Matn yozish",
+        "Rangni o'zgartirish"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Mo'yqalam uskunasini klaviaturada qaysi lotin harfi tanlaydi?",
+      "variantlar": [
+        "B",
+        "A",
+        "C",
+        "K"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    }
+  ]
+}

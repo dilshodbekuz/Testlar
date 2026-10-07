@@ -1,0 +1,337 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-sinf 11-Sinf Matematika 1-qism",
+ "mavzu": "Hosila yordamida funksiyani tekshirish va grafiklarni yasash",
+ "savollar": [
+  {
+   "savol": "Hosilasi musbat bo'lgan oraliqda funksiya qanday o'zgaradi?",
+   "variantlar": [
+    "O'sadi",
+    "Kamayadi",
+    "O'zgarmaydi",
+    "Nolga teng bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hosilasi manfiy bo'lgan oraliqda funksiya qanday o'zgaradi?",
+   "variantlar": [
+    "Maksimumga erishadi",
+    "Kamayadi",
+    "Minimumga erishadi",
+    "O'sadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Funksiyaning statsionar nuqtalari deb nimaga aytiladi?",
+   "variantlar": [
+    "Limit mavjud bo'lmagan nuqtalarga",
+    "Grafigi uzilgan nuqtalarga",
+    "Hosilasi nolga teng bo'lgan nuqtalarga",
+    "Funksiyasi nolga teng bo'lgan nuqtalarga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(x) = 2x³ - 3x² - 12x + 3 funksiyaning statsionar nuqtalari qaysilar?",
+   "variantlar": [
+    "x = -1 va x = 2",
+    "x = 1 va x = -2",
+    "x = 0 va x = 3",
+    "x = -1 va x = -2"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(x) = 2x³ - 3x² - 12x + 3 funksiyaning o'sish oraliqlari qaysilar?",
+   "variantlar": [
+    "(-1; 2)",
+    "(-∞; 2)",
+    "(-1; +∞)",
+    "(-∞; -1) va (2; +∞)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(x) = 2x³ - 3x² - 12x + 3 funksiyaning kamayish oraliqlari qaysilar?",
+   "variantlar": [
+    "(2; +∞)",
+    "(-∞; 2)",
+    "(-1; 2)",
+    "(-∞; -1)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(x) = x³ - 3x funksiyaning lokal maksimum qiymati nechaga teng (x = -1 nuqtada)?",
+   "variantlar": [
+    "-2",
+    "2",
+    "0",
+    "3"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(x) = x³ - 3x funksiyaning lokal minimum qiymati nechaga teng (x = 1 nuqtada)?",
+   "variantlar": [
+    "-2",
+    "2",
+    "0",
+    "-1"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(x) = x³ - 3x funksiya grafigining Ox o'qi bilan kesishish nuqtalari abssissalari qaysilar?",
+   "variantlar": [
+    "±1",
+    "0, ±3",
+    "0 va 3",
+    "0, ±√3"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Funksiya grafigini hosila yordamida yasashning birinchi bosqichi nima?",
+   "variantlar": [
+    "Lokal ekstremumlarni topish",
+    "Hosilani topish",
+    "Aniqlanish sohasini topish",
+    "Grafikni chizish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(x) = x³ + 4,5x² - 9 funksiyaning [-4; 2] kesmadagi eng katta qiymati nechaga teng?",
+   "variantlar": [
+    "17",
+    "-9",
+    "4,5",
+    "-1"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = x³ + 4,5x² - 9 funksiyaning [-4; 2] kesmadagi eng kichik qiymati nechaga teng?",
+   "variantlar": [
+    "17",
+    "-1",
+    "-9",
+    "4,5"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = x³ + 4,5x² - 9 funksiyaning f(-3) qiymati nechaga teng?",
+   "variantlar": [
+    "-9",
+    "17",
+    "-1",
+    "4,5"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = x³ + 4,5x² - 9 funksiyaning statsionar nuqtalari qaysilar?",
+   "variantlar": [
+    "-2 va 0",
+    "1 va -3",
+    "0 va -3",
+    "0 va 3"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = x⁴ - 8x² + 3 funksiyaning [-4; 1] kesmadagi eng katta qiymati nechaga teng?",
+   "variantlar": [
+    "-4",
+    "131",
+    "3",
+    "-13"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = x⁴ - 8x² + 3 funksiyaning [-4; 1] kesmadagi eng kichik qiymati nechaga teng?",
+   "variantlar": [
+    "-13",
+    "131",
+    "3",
+    "-4"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = x³ - 6x² + 9x - 2 funksiyaning lokal maksimum qiymati nechaga teng?",
+   "variantlar": [
+    "6",
+    "-4",
+    "-2",
+    "2"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = x³ - 6x² + 9x - 2 funksiyaning lokal minimum qiymati nechaga teng?",
+   "variantlar": [
+    "-4",
+    "2",
+    "-2",
+    "0"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = x³ - 6x² + 9x - 2 funksiyaning statsionar nuqtalari qaysilar?",
+   "variantlar": [
+    "x = -1 va x = 3",
+    "x = 1 va x = 3",
+    "x = 2 va x = 3",
+    "x = 1 va x = -3"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = 8x³ + 5x funksiyaning hosilasi 24x² + 5 bo'lsa, funksiya haqida nima to'g'ri?",
+   "variantlar": [
+    "Statsionar nuqtasi bor",
+    "Doim o'sadi",
+    "Doim kamayadi",
+    "x = 0 da maksimumga ega"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "f(x) = 2x³ - 3x² - 12x + 3 funksiyaning x = -1 nuqtadagi qiymati nechaga teng?",
+   "variantlar": [
+    "2",
+    "-2",
+    "-10",
+    "10"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = 2x³ - 3x² - 12x + 3 funksiyaning x = 2 nuqtadagi qiymati nechaga teng?",
+   "variantlar": [
+    "-10",
+    "-1",
+    "-17",
+    "17"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = x⁴ - 2x² funksiyaning kamayish oraliqlari qaysilar?",
+   "variantlar": [
+    "(-∞; 0)",
+    "(-∞; -1) va (0; 1)",
+    "(-1; 0) va (1; +∞)",
+    "(0; 1)"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = x² - 2x + 4 funksiyaning o'sish oraliqi qaysi?",
+   "variantlar": [
+    "(1; +∞)",
+    "(-∞; 1)",
+    "(-1; +∞)",
+    "(-∞; +∞)"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = 2x³ + 3x² - 6 funksiyaning statsionar nuqtalari qaysilar?",
+   "variantlar": [
+    "1 va -1",
+    "0 va -2",
+    "0 va 1",
+    "0 va -1"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = x + 1/x funksiyaning o'sish oraliqlari qaysilar?",
+   "variantlar": [
+    "(0; +∞)",
+    "(-1; 0) va (0; 1)",
+    "(-∞; -1) va (1; +∞)",
+    "(-1; 1)"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = x + 1/x funksiyaning kamayish oraliqlari qaysilar?",
+   "variantlar": [
+    "(-∞; -1)",
+    "(-1; 0) va (0; 1)",
+    "(0; +∞)",
+    "(-1; 1)"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = x + 1/x funksiyada x = 1 nuqta haqida nima to'g'ri?",
+   "variantlar": [
+    "x = 1 lokal minimum, f(1) = 2",
+    "x = 1 lokal maksimum, f(1) = -2",
+    "x = 1 ekstremum emas",
+    "x = 1 lokal maksimum, f(1) = 2"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = 2x² - 3x + 1 funksiyaning statsionar nuqtasi qaysi?",
+   "variantlar": [
+    "3/4",
+    "3/2",
+    "-3/4",
+    "1/2"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(x) = x³ - 3x funksiyaning [0; 2] kesmadagi eng kichik qiymati nechaga teng?",
+   "variantlar": [
+    "0",
+    "-2",
+    "1",
+    "2"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,326 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Chaqiruvga qadar boshlang‘ich tayyorgarlik",
+ "mavzu": "1.1. Joyda turganda va qurolsiz harakat qilganda harbiycha salom berish",
+ "savollar": [
+  {
+   "savol": "Harbiycha salom berish qanday bajarilishi kerak?",
+   "variantlar": [
+    "Faqat safda turganda",
+    "Shoshilib, erkin holatda",
+    "Faqat bosh kiyim kiyilganda",
+    "Aniq, mardona, qad rostlash va harakat qilish qoidalariga rioya qilgan holda"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bosh kiyimsiz, safdan tashqarida joyda turib salom berish uchun boshliqdan qancha masofada turgan bo'lish kerak?",
+   "variantlar": [
+    "Bir qadam narida",
+    "Uch-to'rt qadam narida",
+    "Yigirma qadam narida",
+    "O'n qadam narida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bosh kiyim kiyilganda salom berishda qaysi qo'l bosh kiyimga tekkiziladi?",
+   "variantlar": [
+    "Chap qo'l",
+    "Ikkala qo'l",
+    "O'ng qo'l",
+    "Istalgan qo'l"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bosh kiyim kiyilganda salom berishda barmoqlar qanday bo'lishi kerak?",
+   "variantlar": [
+    "Jips, kaft to'g'ri",
+    "Faqat ko'rsatkich barmoq cho'zilgan",
+    "Ochiq va tarang",
+    "Musht qilingan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Salom berishda tirsak qanday holatda bo'ladi?",
+   "variantlar": [
+    "Belga taqalgan",
+    "Yelkadan pastda",
+    "Yelka chizig'i va balandligida",
+    "Yelkadan baland"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Salom berishda o'rta barmoq bosh kiyimning qaysi qismiga tegadi?",
+   "variantlar": [
+    "Tepa qismiga",
+    "Kokardaga",
+    "Orqa qismiga",
+    "Quyi qismiga (soyabon yoniga)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Safdan chiqish uchun qaysi komanda beriladi?",
+   "variantlar": [
+    "«Safga turing»",
+    "«Oddiy askar Ahmedov, safdan falon qadam chiqing»",
+    "«Orqaga»",
+    "«Tinch turing»"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'z familiyasini eshitgan harbiy xizmatchi nima deb javob beradi?",
+   "variantlar": [
+    "«Men»",
+    "«Xop bo'ladi»",
+    "«Keldim»",
+    "«Tushunarli»"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Safdan chiqish haqida buyruq berilgach, harbiy xizmatchi nima deb javob beradi?",
+   "variantlar": [
+    "«Men»",
+    "«Xop bo'ladi»",
+    "«Yo'q»",
+    "«Xizmat qilaman»"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Birinchi sherengada turgan xizmatchi safdan chiqqanda uning o'rnini kim egallaydi?",
+   "variantlar": [
+    "Yonidagi xizmatchi",
+    "Hech kim",
+    "Boshliq tayinlagan shaxs",
+    "Ikkinchi sherengada, uning orqasida turgan xizmatchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bosh kiyimsiz harakat chog'ida boshliqqa uch-to'rt qadam qolganda nima qilinadi?",
+   "variantlar": [
+    "O'ng qo'l chakkaga qo'yiladi",
+    "Oyoq yerga qo'yilishi bilan qo'llar harakati to'xtatiladi, bosh boshliq tomon buriladi",
+    "Yugurib o'tiladi",
+    "To'xtab, qo'l tushiriladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bosh kiyimsiz harakat chog'ida boshliqning yonidan o'tib bo'lgandan so'ng nima qilinadi?",
+   "variantlar": [
+    "To'xtab orqaga qaraladi",
+    "Bosh boshliq tomon burilgan holda qoladi",
+    "Qo'llar yonboshda qotib turadi",
+    "Bosh to'g'ri tutilib, qo'llar harakati davom ettiriladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bosh kiyim kiyilgan paytda harakat chog'ida chap qo'l qanday holatda bo'ladi?",
+   "variantlar": [
+    "Yonboshga tekkizilib, harakatsiz ushlab turiladi",
+    "Belga qo'yiladi",
+    "Bosh kiyimga tekkiziladi",
+    "Harakat qiladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bosh kiyim kiyilgan paytda harakat chog'ida boshliqning yonidan o'tib bo'lgach, o'ng qo'l qachon tushiriladi?",
+   "variantlar": [
+    "O'ng oyoq yerga tegishi bilan, bosh burilgan holda",
+    "Besh qadamdan keyin",
+    "Chap oyoq yerga tegishi bilan, bosh to'g'ri tutilib",
+    "To'xtagandan keyin"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Boshliqni quvib o'tishga to'g'ri kelganda salom qachon beriladi?",
+   "variantlar": [
+    "Undan bir qadam o'zish bilanoq",
+    "Undan ikki qadam o'zgach",
+    "Undan besh qadam orqada",
+    "O'tib bo'lgandan keyin"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Boshliqni quvib o'tishda qo'l qachon tushiriladi?",
+   "variantlar": [
+    "Darhol",
+    "Bir qadam o'zgach",
+    "Ikki qadam o'zgach, bosh to'g'ri tutilib",
+    "Uch qadam o'zgach"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qo'llari yuk bilan band harbiy xizmatchi qanday salom beradi?",
+   "variantlar": [
+    "Yukni chap qo'lga olib salom beradi",
+    "Boshni boshliq tomon burish bilan",
+    "Yukni tashlab salom beradi",
+    "Salom bermaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkinchi komanda («Oldimga») bo'yicha harbiy xizmatchi qanday harakat qiladi?",
+   "variantlar": [
+    "Safda qoladi",
+    "Eng qisqa yo'ldan shaxdam qadam bilan (yugurib) boshliq oldiga boradi",
+    "Sekin yurib boradi",
+    "Joyida turadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Boshliqning oldiga borganda, unga necha qadam qolganda to'xtab, yetib kelganini ma'lum qiladi?",
+   "variantlar": [
+    "Yetti-sakkiz qadam",
+    "Besh-olti qadam",
+    "Ikki-uch qadam",
+    "Bir qadam"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Safga qaytish uchun qaysi komanda beriladi?",
+   "variantlar": [
+    "«Safga turing»",
+    "«Orqaga»",
+    "«Safdan chiqing»",
+    "«Oldimga»"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Bosh kiyim kiyilgan va boshliq o'tib ketayotganda bosh boshliq tomon burilsa, qo'lning holati qanday bo'ladi?",
+   "variantlar": [
+    "Qo'l yuqoriga ko'tariladi",
+    "Qo'lning bosh kiyim yonidagi holati o'zgarmaydi",
+    "Qo'l tushiriladi",
+    "Qo'l chap tomonga o'tadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Harbiy xizmatchi ikkinchi sherengadan chiqmoqchi. Qaysi tartib to'g'ri?",
+   "variantlar": [
+    "Oldindagi xizmatchini itarib o'tadi",
+    "Oldindagi xizmatchi chap tomonga ikki qadam tashlaydi",
+    "Chap qo'lini oldindagi xizmatchining yelkasiga qo'yadi, u oldinga chap oyoq bilan qadam tashlab, o'ng tomonga yana bir qadam tashlab o'tkazib yuboradi",
+    "O'ng qo'lini yelkasiga qo'yadi, oldindagi xizmatchi orqaga chekinadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkinchi sherengadan chiqish jarayonida oldindagi xizmatchi o'ng oyog'ini qanday tashlaydi?",
+   "variantlar": [
+    "Joyida turadi",
+    "Orqaga qadam tashlaydi",
+    "Chap oyog'i yoniga qo'yib, to'xtaydi",
+    "Chap oyog'i yoniga qo'ymasdan o'ng tomonga yana bir qadam tashlaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki, uch (to'rt) nafardan kolonnadan chiqayotgan harbiy xizmatchi dastlab nima qiladi?",
+   "variantlar": [
+    "Oldinga yuguradi",
+    "Orqaga qaytadi",
+    "O'ngga (chapga) bir qadam qo'yib, eng yaqin qanotga chiqadi",
+    "Ikki qadam orqaga chekinadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kolonnada chiqayotgan xizmatchining yonida boshqa xizmatchi turgan bo'lsa, u qanday harakat qiladi?",
+   "variantlar": [
+    "Oldinga yuguradi",
+    "Yonga qadam tashlab, oyog'ini yoniga qo'ymay orqaga bir qadam tashlab, chiqayotganni o'tkazib yuboradi",
+    "Joyidan qimirlamaydi",
+    "Safdan chiqib ketadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qurolsiz yoki «orqaga» holatidagi qurol bilan turgan xizmatchiga «Safga turing» komandasi berilganda u qanday javob beradi?",
+   "variantlar": [
+    "Faqat «Men» deydi",
+    "Chap qo'lini ko'tarib «Men» deydi",
+    "O'ng qo'lini bosh kiyimiga taqab «Xop bo'ladi» deydi",
+    "Jim turib harakat qiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "«Safga turing» komandasidan so'ng xizmatchi qo'lini qachon tushiradi?",
+   "variantlar": [
+    "Harakat qilishi kerak bo'lgan yo'nalishga burilib, bir qadam yurishi bilan",
+    "Safga yetgach",
+    "Javob berishi bilan",
+    "Besh qadamdan so'ng"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Safda turmagan xizmatchi boshliq yoniga borayotib, qachon shaxdam qadam tashlay boshlaydi va qachon to'xtaydi?",
+   "variantlar": [
+    "Ikki-uch qadam qolganda boshlaydi, bir qadamda to'xtaydi",
+    "O'n qadam qolganda boshlaydi, besh qadamda to'xtaydi",
+    "Besh-olti qadam qolganda boshlaydi, ikki-uch qadam yaqinda to'xtaydi",
+    "Boshidan boshlab shaxdam yuradi, yonida to'xtaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Safga qaytayotganda faqat «Safga turing» komandasi berilsa, xizmatchi qanday harakat qiladi?",
+   "variantlar": [
+    "Boshliqdan ruxsat so'raydi",
+    "Joyida qoladi",
+    "Boshliq tomon burilmay, safga qaytadi",
+    "Boshliq tomon burilib, salom beradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

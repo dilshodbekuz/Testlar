@@ -1,0 +1,179 @@
+65-dars qanday nomlanadi?
++A) Grafik va animatsion ilovalarga misollar
+B) Rasmga boshqa obyektlarni joylash
+C) Delphida grafika bilan ishlash
+D) Timer obyekti va undan foydalanish
+
+Piksellar ilovasida Image obyekti qanday o‘lchamda olinadi?
+A) 1000×1000
++B) 256×256
+C) 100×100
+D) 500×500
+
+Piksellar ilovasida jami nechta rangli piksel tasvirlanadi?
+A) 256 ta
+B) 100000 ta
++C) 65536 ta
+D) 1000 ta
+
+rang:=RGB(i,j,0); operatorida qaysi ikkita rang aralashtiriladi?
+A) Qizil va ko‘k
+B) Yashil va ko‘k
+C) Barcha uchta rang
++D) Qizil va yashil
+
+Qizil va yashil ranglar aralashganda qanday rang hosil bo‘ladi?
++A) Sariq rang
+B) Pushti rang
+C) Havo rang
+D) Kulrang
+
+Qizil va ko‘k ranglar aralashganda qanday rang hosil bo‘ladi?
+A) Yashil rang
++B) Pushti rang
+C) Sariq rang
+D) Havo rang
+
+Yashil va ko‘k ranglar aralashganda qanday rang hosil bo‘ladi?
+A) Pushti rang
+B) Qizil rang
++C) Havo rang
+D) Sariq rang
+
+Koptok ilovasida animatsiya yaratish uchun qaysi obyektdan foydalaniladi?
+A) Button
+B) Label
+C) Edit
++D) Timer
+
+Koptok ilovasida harakat tezligi qaysi obyekt orqali belgilanadi?
++A) SpinEdit
+B) CheckBox
+C) Label
+D) Edit
+
+Koptok ilovasida CheckBox nima uchun ishlatiladi?
+A) Ilovani yopish uchun
++B) Koptok izining ko‘rinish-ko‘rinmasligini belgilash uchun
+C) Koptok rangini o‘zgartirish uchun
+D) Koptok tezligini belgilash uchun
+
+Koptok ilovasida Timer ning Interval xossasi nechaga teng qilib o‘rnatiladi?
+A) 1000
+B) 10
++C) 50
+D) 100
+
+Koptok holati sekundiga necha marta yangilanadi?
+A) 10 marta
+B) 50 marta
+C) 100 marta
++D) 20 marta
+
+Koptokning joriy holatini saqlash uchun qaysi o‘zgaruvchilar ishlatiladi?
++A) x va y
+B) dx va dy
+C) i va j
+D) n va m
+
+Koptok harakatining yo‘nalishini saqlash uchun qaysi o‘zgaruvchilar ishlatiladi?
+A) n va rang
++B) dx va dy
+C) x va y
+D) i va j
+
+x,y,dx,dy o‘zgaruvchilari qanday turda tavsiflanishi kerak?
+A) Faqat matn turida
+B) Faqat mantiqiy turda
++C) Global o‘zgaruvchi sifatida (integer)
+D) Faqat lokal o‘zgaruvchi sifatida
+
+TForm1.FormCreate protsedurasida x,y,dx,dy ga qanday boshlang‘ich qiymatlar beriladi?
+A) x:=1;y:=1;dx:=0;dy:=0;
+B) x:=10;y:=10;dx:=5;dy:=5;
+C) Qiymat berilmaydi
++D) x:=0;y:=0;dx:=2;dy:=1;
+
+Timer1Timer protsedurasida n o‘zgaruvchisiga qanday qiymat beriladi?
++A) SpinEdit1.Value
+B) CheckBox1.Checked
+C) Image1.Width
+D) 0
+
+if not CheckBox1.Checked then Image1.Canvas.Rectangle(...); qatori nima qiladi?
+A) Rangni o‘zgartiradi
++B) Bayroqcha o‘rnatilmagan bo‘lsa, oldingi holatni o‘chiradi
+C) Bayroqchani o‘rnatadi
+D) Koptokni to‘xtatadi
+
+Koptok rasmning o‘ng chegarasidan o‘tib ketsa, nima sodir bo‘ladi?
+A) Ilova to‘xtaydi
+B) Rang o‘zgaradi
++C) x qayta hisoblanib, dx teskarisiga o‘zgartiriladi
+D) Koptok yo‘qoladi
+
+Koptokning yangi holati qaysi usul bilan chiziladi?
+A) Image1.Canvas.Rectangle
+B) Image1.Canvas.Arc
+C) Image1.Canvas.TextOut
++D) Image1.Canvas.Ellipse
+
+Delphi da necha milliondan ortiq rang mavjud (Yodda saqlang)?
++A) 16 milliondan ortiq
+B) 1 milliondan ortiq
+C) 100 milliondan ortiq
+D) 10 milliondan ortiq
+
+Barcha ranglar qaysi uchta asosiy rangni turli nisbatda qo‘shish bilan yaratiladi?
+A) Yashil, sariq, pushti
++B) Qizil, yashil, ko‘k
+C) Qizil, sariq, ko‘k
+D) Oq, qora, kulrang
+
+Savol-topshiriqda Piksellar ilovasida nechta pikselning rangi o‘zgarishi so‘raladi?
+A) Faqat 256 ta piksel
+B) Faqat 100 ta piksel
++C) Nechta pikselning rangi o‘zgarishi aniqlanishi so‘raladi (65536 ta)
+D) Faqat bitta piksel
+
+Savol-topshiriqda koptok tezligi qanday o‘zgartirilishi so‘raladi?
+A) CheckBox orqali
+B) Label orqali
+C) Ilovani qayta yozish orqali
++D) SpinEdit orqali
+
+Savol-topshiriqning 6-bandida dx va dy boshlang‘ich qiymatlarini necha xil kombinatsiyasi sinab ko‘rish so‘raladi?
++A) To‘rtta kombinatsiya
+B) Ikkita kombinatsiya
+C) Beshta kombinatsiya
+D) Bitta kombinatsiya
+
+Uyga vazifada Piksellar ilovasida kvadratning uchlari haqida nima so‘raladi?
+A) Nechta uchga ega bo‘lishi
++B) Qanday rangda va qaysi ranglar aralashishidan hosil bo‘lishi
+C) Qancha hajm egallashi
+D) Qaysi burchakda joylashishi
+
+Koptok rasmning yuqori yoki pastki chegarasidan o‘tib ketsa, qaysi o‘zgaruvchi teskarisiga o‘zgaradi?
+A) x
+B) y faqat
++C) dy
+D) dx
+
+Agar CheckBox1.Checked rost bo‘lsa (“izi bilan” belgilangan bo‘lsa), koptokning oldingi holati nima bo‘ladi?
+A) Darhol o‘chiriladi
+B) Qizil rangga o‘zgaradi
+C) Ilova to‘xtaydi
++D) O‘chirilmaydi, iz sifatida qolib ketadi
+
+n:=SpinEdit1.Value; qatorida olingan qiymat protsedurada nimaga ta’sir qiladi?
++A) Koptokning har bir qadamdagi siljish miqdoriga (tezligiga)
+B) Koptok rangiga
+C) Koptok shakliga
+D) Timer intervaliga
+
+Koptok ilovasida ellips qaysi o‘lchamda chiziladi (Ellipse(x-10,y-10,x+10,y+10))?
+A) Kvadrat shakl
++B) Markazi (x,y) bo‘lgan, radiusi taxminan 10 ga teng ellips
+C) Butun ekranni egallagan ellips
+D) Faqat bitta nuqta

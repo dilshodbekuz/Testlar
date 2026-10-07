@@ -1,0 +1,326 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Matematika 2-qism",
+ "mavzu": "74–77 Qarama-qarshi hodisalar. Hodisalar ustida amallar",
+ "savollar": [
+  {
+   "savol": "A hodisa ro‘y berganda B hodisa ham albatta ro‘y bersa, A hodisa B hodisaga nisbatan qanday deyiladi?",
+   "variantlar": [
+    "A va B qarama-qarshi hodisalar",
+    "A va B hodisalar birgalikda emas",
+    "A hodisa B hodisani ergashtiradi",
+    "A hodisa elementar hodisa"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A va B hodisalar tengkuchli deyiladi, agar:",
+   "variantlar": [
+    "A + B = U bo‘lsa",
+    "P(A) + P(B) = 1 bo‘lsa",
+    "AB = V bo‘lsa",
+    "A hodisa B ni va B hodisa A ni ergashtirsa"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A va B hodisalarning ko‘paytmasi AB nimani bildiradi?",
+   "variantlar": [
+    "A va B ning ikkalasi ham ro‘y bermasligini",
+    "A ning ro‘y berib, B ning ro‘y bermasligini",
+    "A va B ning ikkalasi bir vaqtda ro‘y berishini",
+    "A va B dan hech bo‘lmaganda bittasining ro‘y berishini"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A va B hodisalarning yig‘indisi A + B nimani bildiradi?",
+   "variantlar": [
+    "Faqat A ning ro‘y berishini",
+    "Hech biri ro‘y bermasligini",
+    "Ikkalasining bir vaqtda ro‘y berishini",
+    "Hech bo‘lmaganda bittasining ro‘y berishini"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A – B ayirma hodisasi qachon ro‘y bergan hisoblanadi?",
+   "variantlar": [
+    "A ham, B ham ro‘y bersa",
+    "B ro‘y berib, A ro‘y bermasa",
+    "A ro‘y bersa-yu, B ro‘y bermasa",
+    "A va B ning hech biri ro‘y bermasa"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A va Ā hodisalar qarama-qarshi hodisalar deyilishi uchun qaysi shartlar bajarilishi kerak?",
+   "variantlar": [
+    "A + Ā = U va AĀ = V",
+    "A + Ā = A va AĀ = Ā",
+    "A + Ā = V va AĀ = U",
+    "A + Ā = V va AĀ = V"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A va B hodisalar birgalikda emas deyiladi, agar:",
+   "variantlar": [
+    "P(A) = P(B) bo‘lsa",
+    "A + B = U bo‘lsa",
+    "AB = V bo‘lsa",
+    "A = B bo‘lsa"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qarama-qarshi hodisalar ehtimolliklari orasidagi to‘g‘ri munosabat qaysi?",
+   "variantlar": [
+    "P(Ā) = 1 + P(A)",
+    "P(Ā) = P(A) – 1",
+    "P(Ā) = 1 – P(A)",
+    "P(Ā) = P(A)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "n elementli elementar hodisalar fazosi U ning barcha qism to‘plamlari soni nechta?",
+   "variantlar": [
+    "n²",
+    "2n",
+    "n!",
+    "2ⁿ"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tanga tashlash tajribasida elementar hodisalar fazosi U qanday yoziladi?",
+   "variantlar": [
+    "U = {G, R}",
+    "U = {1, 2, 3, 4, 5, 6}",
+    "U = {G, R, V}",
+    "U = {G}"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A = {kub tashlanganda 2, 3, 4 sonlaridan birining chiqishi}, B = {kub tashlanganda juft sonning chiqishi} bo‘lsa, AB hodisasi nechta elementar natijadan iborat?",
+   "variantlar": [
+    "1 ta",
+    "4 ta",
+    "3 ta",
+    "2 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A = {1, 3}, B = {1, 2, 6} (kub tashlanganda chiqadigan sonlar) bo‘lsa, A + B hodisasi nechta natijadan iborat?",
+   "variantlar": [
+    "4 ta",
+    "5 ta",
+    "6 ta",
+    "3 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A = {1, 4, 6}, B = {1, 3, 4, 5} (kub tashlanganda chiqadigan sonlar) bo‘lsa, A – B hodisasi qaysi?",
+   "variantlar": [
+    "{6}",
+    "{1, 3, 4, 5, 6}",
+    "{1, 4}",
+    "{3, 5}"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "P(A) = 0,35 bo‘lsa, qarama-qarshi hodisaning ehtimolligi P(Ā) nechaga teng?",
+   "variantlar": [
+    "0,35",
+    "0,55",
+    "0,75",
+    "0,65"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kub bir marta tashlanganda barcha elementar hodisalar teng imkoniyatli bo‘lsa, har bir elementar hodisaning ehtimolligi nechaga teng?",
+   "variantlar": [
+    "1/6",
+    "1/36",
+    "1/3",
+    "1/2"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A va B birgalikda bo‘lmagan hodisalar, P(A) = 0,4 va P(B) = 0,3 bo‘lsa, P(A + B) nechaga teng?",
+   "variantlar": [
+    "0,3",
+    "0,1",
+    "0,7",
+    "0,12"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "P(A) = 0,5, P(B) = 0,4 va P(AB) = 0,2 bo‘lsa, P(A + B) nechaga teng?",
+   "variantlar": [
+    "0,5",
+    "0,7",
+    "0,2",
+    "0,9"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Elementar hodisalar fazosi 4 ta elementdan iborat bo‘lsa, uning barcha qism to‘plamlari soni nechta?",
+   "variantlar": [
+    "4",
+    "16",
+    "8",
+    "12"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1000 ta suv nasosidan 5 tasi nosoz. Tavakkaliga olingan nasosning soz bo‘lishi ehtimolligi qancha?",
+   "variantlar": [
+    "0,995",
+    "0,5",
+    "0,005",
+    "0,95"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Musobaqada 20 musiqachi qatnashmoqda: 8 nafari O‘zbekistondan, 7 nafari AQSHdan, qolgani Xitoydan. Sahnaga birinchi bo‘lib xitoylik musiqachining chiqishi ehtimolligi qancha?",
+   "variantlar": [
+    "7/20",
+    "2/5",
+    "1/4",
+    "3/4"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Vertolyot har uchishda 6 nafar odamni olib ketadi. 30 nafar sayyoh tasodifiy tartibda o‘tiradi. Muayyan bir sayyohning birinchi reysda uchishi ehtimolligi qancha?",
+   "variantlar": [
+    "6/30 dan kichik, 1/10",
+    "1/5",
+    "1/30",
+    "1/6"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "10, 11, ..., 199 sonlaridan tavakkaliga bitta son tanlanganda, uning 3 ga karrali bo‘lishi ehtimolligi qancha?",
+   "variantlar": [
+    "66/190",
+    "21/63",
+    "1/3",
+    "63/190"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tanga uch marta tashlanganda raqam tomoni aynan bir marta tushishi ehtimolligi qancha?",
+   "variantlar": [
+    "1/8",
+    "3/8",
+    "1/2",
+    "7/8"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tanga uch marta tashlanganda raqam tomoni kamida bir marta tushishi ehtimolligi qancha? (Qarama-qarshi hodisadan foydalaning.)",
+   "variantlar": [
+    "1/2",
+    "1/8",
+    "7/8",
+    "3/8"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "P(A) = 0,6, P(B) = 0,5 va P(AB) = 0,3 bo‘lsa, A + B hodisaga qarama-qarshi hodisaning ehtimolligi qancha?",
+   "variantlar": [
+    "0,1",
+    "0,8",
+    "0,2",
+    "0,3"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita signalizator mustaqil ishlaydi. Avariyada birinchisi 0,9, ikkinchisi 0,95 ehtimollik bilan ishlaydi. Avariya ro‘y berganda ikkala signalizatorning bir vaqtda xabar berishi ehtimolligi qancha?",
+   "variantlar": [
+    "0,95",
+    "0,92",
+    "0,855",
+    "0,985"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi signalizatorlar (0,9 va 0,95, mustaqil) uchun avariyada faqat birinchi signalizatorning xabar berishi ehtimolligi qancha?",
+   "variantlar": [
+    "0,9",
+    "0,855",
+    "0,045",
+    "0,095"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi signalizatorlar (0,9 va 0,95, mustaqil) uchun avariyada faqat ikkinchi signalizatorning xabar berishi ehtimolligi qancha?",
+   "variantlar": [
+    "0,95",
+    "0,005",
+    "0,095",
+    "0,045"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi signalizatorlar (0,9 va 0,95, mustaqil) uchun avariyada aynan bitta signalizatorning xabar berishi ehtimolligi qancha?",
+   "variantlar": [
+    "0,14",
+    "0,005",
+    "0,995",
+    "0,855"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

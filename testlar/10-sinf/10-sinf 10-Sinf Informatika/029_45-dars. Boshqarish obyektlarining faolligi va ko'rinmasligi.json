@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "45-dars. Boshqarish obyektlarining faolligi va ko'rinmasligi",
+ "savollar": [
+  {
+   "savol": "45-dars qanday nomlanadi?",
+   "variantlar": [
+    "Boshqarish obyektlarining faolligi va ko‘rinmasligi",
+    "Ilova oynasiga ma’lumot joylash",
+    "Ilovaga ma’lumotlar kiritish",
+    "ShowMessage oynasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "Obyektning ko‘rinishini boshqaruvchi xossasi qaysi?",
+   "variantlar": [
+    "Width",
+    "Visible",
+    "Enabled",
+    "Caption"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "Obyektning faolligini boshqaruvchi xossasi qaysi?",
+   "variantlar": [
+    "Font",
+    "Color",
+    "Enabled",
+    "Visible"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "Visible xossasi qanday turdagi qiymatlarni qabul qiladi?",
+   "variantlar": [
+    "Faqat sonli",
+    "Faqat matnli",
+    "Faqat rangli",
+    "Mantiqiy (True yoki False)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "Visible xossasi dastlab qanday qiymatga ega bo‘ladi?",
+   "variantlar": [
+    "True (Rost)",
+    "False (Yolg‘on)",
+    "Noma’lum",
+    "0"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "Enabled xossasi dastlab qanday qiymatga ega bo‘ladi?",
+   "variantlar": [
+    "1",
+    "True (Rost)",
+    "False (Yolg‘on)",
+    "Noma’lum"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "Agar obyektning Visible xossasi False bo‘lsa, nima sodir bo‘ladi?",
+   "variantlar": [
+    "Obyekt o‘chadi",
+    "Obyekt rangi o‘zgaradi",
+    "Obyekt oynada ko‘rinmay qoladi",
+    "Obyekt xira tortadi, lekin ko‘rinadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "Agar obyektning Enabled xossasi False bo‘lsa, nima sodir bo‘ladi?",
+   "variantlar": [
+    "Obyekt butunlay yo‘qoladi",
+    "Obyekt rangi qoraradi",
+    "Hech narsa o‘zgarmaydi",
+    "Obyekt ko‘rinadi, lekin xira tortib, undan foydalanib bo‘lmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "Kompyuter viruslarini topish nega qiyin (matn misolida)?",
+   "variantlar": [
+    "Ularning o‘z oynasi yo‘q, ya’ni ko‘rinmas",
+    "Ular juda kichik hajmda",
+    "Ular doim rangsiz",
+    "Ular faqat tunda ishlaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "Delphi 7 asosiy menyusining Edit bo‘limidagi xira bandlar nimani bildiradi?",
+   "variantlar": [
+    "Ular yashiringanini",
+    "Ular faol emasligini",
+    "Ular ishlatib bo‘lmasligi mumkin emasligini",
+    "Ular o‘chirilganini"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 10
+  },
+  {
+   "savol": "Copy bandidan foydalanish uchun avval nima qilinishi kerak?",
+   "variantlar": [
+    "Dasturni qayta ishga tushirish",
+    "Printer ulanishi",
+    "Matnning biror bo‘lagi ajratib olinishi",
+    "Faylni saqlash"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "Ikkita obyektdan bir vaqtda foydalanilmasa, ulardan qanday foydalanish tavsiya etiladi?",
+   "variantlar": [
+    "Ikkalasini ham doim ko‘rinadigan qilish",
+    "Ikkalasini ham o‘chirish",
+    "Ikkalasini bir xil joyga qo‘yish, lekin faollik o‘zgartirmaslik",
+    "Faqat bittasining Visible xossasini rost, qolganlarini yolg‘on qilib o‘rnatish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "Oyna kengligi 600 dan oshganda Button1.Enabled qanday qiymatga o‘rnatiladi?",
+   "variantlar": [
+    "False",
+    "True",
+    "0",
+    "1"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 13
+  },
+  {
+   "savol": "Oyna kengligi 600 dan oshganda Button2.Visible qanday qiymatga o‘rnatiladi?",
+   "variantlar": [
+    "Noma’lum",
+    "True",
+    "False",
+    "0"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "Oyna kengligi 400 dan kamayib ketganda Button2 nima bo‘ladi?",
+   "variantlar": [
+    "Rangi o‘zgaradi",
+    "Faol bo‘lib qoladi",
+    "G‘oyib bo‘ladi (Visible:=False)",
+    "Kattalashadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "Oyna kengligi 600 dan kamayganda Button1 qanday holatga o‘tadi?",
+   "variantlar": [
+    "Ko‘rinmas bo‘ladi",
+    "O‘chadi",
+    "Rangi o‘zgaradi",
+    "Yana faol holatga o‘tadi (Enabled:=True)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "Dastlab Button2 ilova oynasida qanday holatda bo‘ladi?",
+   "variantlar": [
+    "Ko‘rinmaydi (Visible:=False)",
+    "Ko‘rinadi, lekin faol emas",
+    "To‘liq faol va ko‘rinadigan",
+    "Rangsiz"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "Birinchi tugma bosilganda oyna kengayishi uchun qanday formula ishlatiladi?",
+   "variantlar": [
+    "Form1.Width:=Form1.Width*2;",
+    "Form1.Width:=Form1.Width+16;",
+    "Form1.Width:=Form1.Width-16;",
+    "Form1.Width:=600;"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "Ikkinchi tugma bosilganda oyna kichrayishi uchun qanday formula ishlatiladi?",
+   "variantlar": [
+    "Form1.Width:=400;",
+    "Form1.Width:=0;",
+    "Form1.Width:=Form1.Width-16;",
+    "Form1.Width:=Form1.Width+16;"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "Enabled va Visible xossalaridan birgalikda foydalanishning maqsadi nima?",
+   "variantlar": [
+    "Faylni kichraytirish",
+    "Internetga ulanish",
+    "Printer sozlash",
+    "Ilova ishlashini foydalanuvchiga qulay va mantiqiy qilib boshqarish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "Savol-topshiriqda beshinchi ilova oynasi bo‘yi va eni qanday qadam bilan o‘zgartirilishi so‘raladi?",
+   "variantlar": [
+    "5 va 8 qadam bilan",
+    "16 va 9 qadam bilan",
+    "1 va 1 qadam bilan",
+    "10 va 20 qadam bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Savol-topshiriqda beshinchi ilova oynasi enining qiymati qaysi oraliqda bo‘lishi so‘raladi?",
+   "variantlar": [
+    "600 dan 1200 gacha",
+    "500 dan 800 gacha",
+    "0 dan 100 gacha",
+    "100 dan 300 gacha"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Savol-topshiriqda tugmalardagi yozuvlarni qanday o‘zgartirish so‘raladi?",
+   "variantlar": [
+    "Ha va Yo‘q ga",
+    "1 va 0 ga",
+    "a->A va A->a ga",
+    "++ va -- ga"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Uyga vazifada Visible xossasi haqida nima so‘raladi?",
+   "variantlar": [
+    "Qanday rangda ko‘rinishi",
+    "Qancha vaqt faol bo‘lishi",
+    "Qaysi tilda yozilgani",
+    "Qaysi obyektlarda uchrashi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Uyga vazifada Enabled xossasi haqida nima so‘raladi?",
+   "variantlar": [
+    "Qanday vazifa bajarishi",
+    "Qaysi rangda bo‘lishi",
+    "Qancha hajm egallashi",
+    "Qaysi tilda yozilgani"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Visible va Enabled xossalari qaysi turdagi obyektlarda uchraydi?",
+   "variantlar": [
+    "Faqat Form obyektida",
+    "Barcha vizual boshqarish obyektlarida (jumladan ilova oynasida)",
+    "Faqat Button obyektida",
+    "Faqat Label obyektida"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Agar obyekt Enabled:=False bo‘lsa-yu Visible:=True bo‘lsa, obyekt qanday ko‘rinadi?",
+   "variantlar": [
+    "To‘liq faol ko‘rinadi",
+    "Rangi qizil bo‘lib qoladi",
+    "Ko‘rinadi, lekin xira tortib, ishlatib bo‘lmaydi",
+    "Umuman ko‘rinmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "Vizual dasturlashda joy tejash uchun qanday usul tavsiya etiladi?",
+   "variantlar": [
+    "Barcha obyektlarni kichraytirish",
+    "Barcha obyektlarni rangsiz qilish",
+    "Obyektlar sonini cheklash",
+    "Bir vaqtning o‘zida foydalanilmaydigan obyektlarni bitta joyga qo‘yib, Visible xossasi bilan almashtirib turish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "Ikkinchi tugma protsedurasida “if Form1.Width<600 then Button1.Enabled:=True;” qatori nimaga xizmat qiladi?",
+   "variantlar": [
+    "Oyna kengligi 600 dan kichik bo‘lsa, birinchi tugmani qayta faollashtirishga",
+    "Oynani yopishga",
+    "Ikkinchi tugmani o‘chirishga",
+    "Oynani kattalashtirishga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "Beshinchi ilovada ikkinchi tugma orqali oyna kichraytirilganda, qaysi ikki xossa birgalikda tekshirilib boshqariladi?",
+   "variantlar": [
+    "Top va Left",
+    "Width va Height",
+    "Caption va Font",
+    "Color va Name"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

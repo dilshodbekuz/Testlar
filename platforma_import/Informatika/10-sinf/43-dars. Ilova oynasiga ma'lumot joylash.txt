@@ -1,0 +1,179 @@
+43-dars qanday nomlanadi?
++A) Ilova oynasiga ma’lumot joylash
+B) ShowMessage oynasi
+C) Boshqarish obyektlarining faolligi
+D) Boshqarish tugmasi
+
+Ma’lumot chiqarish uchun eng sodda boshqarish obyekti qaysi?
+A) Timer
++B) Label
+C) Button
+D) Form
+
+Label obyekti obyektlar panelining qaysi jildida joylashgan?
+A) Win32 jildida
+B) System jildida
++C) Standart jildida, beshinchi bo‘lib
+D) Additional jildida
+
+Label obyekti qaysi obyektdan ko‘plab xossalarni meros qilib olgan?
+A) Button
+B) Timer
+C) Memo
++D) Form (ilova oynasi)
+
+Label ning asosiy xossasi qaysi?
++A) Caption
+B) Width
+C) Height
+D) Name
+
+Label obyektining nomi qaysi xossada saqlanadi?
+A) Color
++B) Name
+C) Caption
+D) Font
+
+Obyektning Name xossasi qachon o‘zgartiriladi?
+A) Hech qachon o‘zgartirilmaydi
+B) Faqat dastur yopilganda
++C) Faqat obyekt ilova oynasiga qo‘yilayotgan paytda
+D) Ilova ishlayotgan har qanday paytda
+
+Ilovaga qo‘yilgan birinchi, ikkinchi, uchinchi Label obyektlariga qanday nomlar avtomatik beriladi?
+A) A, B, C
+B) Label_1, Label_2, Label_3
+C) Text1, Text2, Text3
++D) Label1, Label2, Label3
+
+Obyekt xossasiga murojaat qilish uchun qanday yozuv ishlatiladi?
++A) obyekt_nomi.xossa_nomi
+B) xossa_nomi.obyekt_nomi
+C) obyekt_nomi-xossa_nomi
+D) xossa_nomi/obyekt_nomi
+
+Label obyektining Width, Height, Left, Top xossalari nimani aniqlaydi?
+A) Obyektning shriftini
++B) Obyekt egallagan joyning o‘lchamlari va joylashuvini
+C) Obyektning rangini
+D) Obyektning nomini
+
+4-ilovada Form1.Caption qanday matnga o‘rnatiladi?
+A) ‘Ikkinchi ilova’
+B) ‘Mening ilovam’
++C) ‘To‘rtinchi ilova’
+D) ‘Uchinchi ilova’
+
+4-ilovada Form1.Height va Form1.Width qanday qiymatlarga o‘rnatiladi?
+A) 100 va 50
+B) 600 va 800
+C) 300 va 200
++D) 225 va 400
+
+4-ilovada nechta Button va nechta Label obyekti ishlatiladi?
++A) Ikkita Button va ikkita Label
+B) Bitta Button va bitta Label
+C) Uchta Button va uchta Label
+D) To‘rtta Button va bitta Label
+
+4-ilovada Label1.Caption qanday matnga o‘rnatiladi?
+A) ‘--’
++B) ‘Oynaning bo‘yi: ’
+C) ‘Oynaning eni: ’
+D) ‘++’
+
+4-ilovada Label2.Caption qanday matnga o‘rnatiladi?
+A) ‘++’
+B) ‘--’
++C) ‘Oynaning eni: ’
+D) ‘Oynaning bo‘yi: ’
+
+4-ilovada Button1.Caption qanday belgiga o‘rnatiladi?
+A) ‘--’
+B) ‘OK’
+C) ‘Tugma1’
++D) ‘++’
+
+4-ilovada Button2.Caption qanday belgiga o‘rnatiladi?
++A) ‘--’
+B) ‘++’
+C) ‘OK’
+D) ‘Tugma2’
+
+Button1 bosilganda Label1.Caption qanday yangilanadi?
+A) Label1 o‘chadi
++B) ‘Oynaning_bo‘yi:’+IntToStr(Form1.Height) ko‘rinishida
+C) Faqat ‘Oynaning_bo‘yi’ matni bilan
+D) O‘zgarmaydi
+
+Button1 bosilganda Label2.Caption qanday yangilanadi?
+A) O‘zgarmaydi
+B) Label2 o‘chadi
++C) ‘Oynaning_eni:’+IntToStr(Form1.Width) ko‘rinishida
+D) Faqat ‘Oynaning_eni’ matni bilan
+
+Label1 va Label2 obyektlari matn chiqarishda qaysi funksiyadan foydalanadi?
+A) ShowMessage
+B) StrToInt
+C) Random
++D) IntToStr
+
+Savol-topshiriqda oyna bo‘yi va eni mos ravishda qanday qadam bilan o‘zgartirilishi so‘raladi?
++A) 5 va 8 qadam bilan
+B) 16 va 9 qadam bilan
+C) 1 va 1 qadam bilan
+D) 10 va 10 qadam bilan
+
+Savol-topshiriqda oyna enining qiymati qaysi oraliqda bo‘lishi so‘raladi?
+A) 600 dan 1000 gacha
++B) 500 dan 800 gacha
+C) 0 dan 100 gacha
+D) 100 dan 200 gacha
+
+Savol-topshiriqda tugmalardagi yozuvlarni qanday o‘zgartirish so‘raladi?
+A) Ha va Yo‘q ga
+B) Boshlash va Tugatish ga
++C) a->A va A->a ga
+D) ++ va -- ga
+
+Uyga vazifada Label obyekti haqida nimalar so‘raladi?
+A) Faqat rangi
+B) Faqat shrifti
+C) Faqat nomi
++D) Vazifasi va asosiy xossalari
+
+Agar Name xossasini ilova ishlayotgan vaqtda o‘zgartirsak, nima yuz berishi mumkin?
++A) Muammolar yuzaga kelishi mumkin
+B) Hech narsa bo‘lmaydi
+C) Ilova tezlashadi
+D) Ilova ravshanlashadi
+
+Obyekt_nomi.xossa_nomi yozuvidan qachon foydalaniladi?
+A) Faqat papka yaratishda
++B) Obyektga va uning xossalariga dasturdan murojaat qilishda
+C) Faqat fayl nomlashda
+D) Faqat rang tanlashda
+
+Label obyektining Caption xossasi o‘zgarishi natijasida nima sodir bo‘ladi?
+A) Obyekt o‘chadi
+B) Ilova yopiladi
++C) Ekranda chiqadigan matn o‘zgaradi
+D) Obyektning joylashuvi o‘zgaradi
+
+Nega hozircha faqat avtomatik berilgan obyekt nomlaridan foydalanish tavsiya etiladi?
+A) Chunki boshqa nom qo‘yib bo‘lmaydi
+B) Chunki bu majburiy qoida
+C) Chunki avtomatik nomlar qisqaroq
++D) Muammolarga uchramaslik uchun
+
+4-ilovada ikkita tugma (Button1 va Button2) umumiy nechta boshqarish obyekti bilan birga ishlatiladi (Label1, Label2 bilan)?
++A) To‘rtta obyekt
+B) Ikkita obyekt
+C) Uchta obyekt
+D) Beshta obyekt
+
+Label obyektini ilova oynasiga joylashning asosiy maqsadi nima?
+A) Ma’lumotlar bazasini yaratish
++B) Foydalanuvchiga matn ko‘rinishida ma’lumot ko‘rsatish
+C) Fayl saqlash
+D) Internetga ulanish

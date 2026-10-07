@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "29-dars. MS Access 2010 da ma'lumotlarni berilgan shablon bo'yicha izlash va qayta ishlash",
+ "savollar": [
+  {
+   "savol": "29-dars qanday nomlanadi?",
+   "variantlar": [
+    "MS Access 2010 da ma’lumotlarni berilgan shablon bo‘yicha izlash va qayta ishlash",
+    "MS Access 2010 da jadvallarni o‘zaro bog‘lash",
+    "Formalardan foydalanish",
+    "Ma’lumotlar omborini tashkil etish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "Ma’lumotlarni berilgan shablon bo‘yicha izlash uchun qaysi menyu bandidan foydalaniladi?",
+   "variantlar": [
+    "Данные menyusidan Фильтр",
+    "Главная menyusidan Выделение bandi",
+    "Файл menyusidan Печать bandi",
+    "Создание menyusidan Таблица bandi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "Izlab topilgan ma’lumotlarni bekor qilish uchun qaysi bo‘lim tanlanadi?",
+   "variantlar": [
+    "Вставка menyusining Jadval bo‘limi",
+    "Данные menyusining Saralash bo‘limi",
+    "Главная menyusining Фильтр bo‘limi",
+    "Файл menyusining Chop etish bo‘limi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "1-mashqda nechta parametr bo‘yicha o‘quvchilar ma’lumotlar ombori yaratiladi?",
+   "variantlar": [
+    "Ikkita",
+    "Uchta",
+    "O‘nta",
+    "Beshta (familiyasi, ismi, manzili, telefon, tug‘ilgan yili)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "“Ali” ismli o‘quvchilarni izlash uchun qaysi ketma-ketlik bajariladi?",
+   "variantlar": [
+    "Выделение – Равно – Ali",
+    "Фильтр – Удалить",
+    "Печать – Экспорт",
+    "Сортировка – Фильтр"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "So‘rovlar yordamida ma’lumot izlash qaysi menyu bo‘limi orqali amalga oshiriladi?",
+   "variantlar": [
+    "Данные menyusining Диаграмма bo‘limi",
+    "Создание menyusining Конструктор запрос bo‘limi",
+    "Главная menyusining Шрифт bo‘limi",
+    "Файл menyusining Печать bo‘limi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "Bitta jadvaldan bir nechta har xil so‘rovlarni nima yordamida tashkil qilish mumkin?",
+   "variantlar": [
+    "Схема данных",
+    "Выделение",
+    "Конструктор запрос",
+    "Режим-Конструктор"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "So‘rovning ishlashi natijasida qanday jadval hosil bo‘ladi?",
+   "variantlar": [
+    "Asl jadval o‘zgaradi",
+    "Yangi ma’lumotlar ombori",
+    "Hech qanday jadval hosil bo‘lmaydi",
+    "Natijaviy jadval"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "So‘rov ishlashi jarayonida asosiy jadvallardagi ma’lumotlar nima bo‘ladi?",
+   "variantlar": [
+    "O‘zgarmaydi",
+    "Butunlay o‘chadi",
+    "Ikki barobarlanadi",
+    "Shifrlanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "MS Access 2010 da eng keng tarqalgan so‘rov turi qaysi?",
+   "variantlar": [
+    "Avtomatik so‘rov",
+    "Tanlov asosidagi so‘rov",
+    "Parametrli so‘rov",
+    "Namuna asosidagi so‘rov"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "“Ali va Vali” ismli o‘quvchilarni izlash uchun qaysi ketma-ketlik ishlatiladi?",
+   "variantlar": [
+    "Сортировка – По возрастанию",
+    "Печать – Предпросмотр",
+    "Текстовый фильтры – Заканчивается на..",
+    "Выделение – Равно"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "Настраиваемый фильтр qatoriga “Ali va Vali” ismlarini izlash uchun qanday jumla kiritiladi?",
+   "variantlar": [
+    "“Ali and Vali”",
+    "“Ali, Vali”",
+    "“Ali=Vali”",
+    "“Ali or Vali”"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "2-mashqda so‘rov orqali qidirish uchun avval qaysi bo‘lim tanlanadi?",
+   "variantlar": [
+    "Создание menyusidan Конструктор запрос",
+    "Главная menyusidan Выделение",
+    "Файл menyusidan Открыть",
+    "Данные menyusidan Импорт"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "2-mashqda Добавление таблицы oynasidan qaysi tugma bosiladi?",
+   "variantlar": [
+    "Отмена",
+    "Добавить",
+    "Удалить",
+    "Печать"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "Parametrli qidiruv yaratish uchun ustunning Условие отбора qatoriga nima kiritiladi?",
+   "variantlar": [
+    "Faqat rang kodi",
+    "Hech narsa kiritilmaydi",
+    "Qavs ichida jumla, masalan “[Qidirish]”",
+    "Faqat son"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "So‘rovni ishga tushirish uchun menyudan qaysi buyruq tanlanadi?",
+   "variantlar": [
+    "Отмена",
+    "Закрыть",
+    "Удалить",
+    "Выполнить"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "2-mashqda “Введите значение параметра” oynasiga nima kiritiladi?",
+   "variantlar": [
+    "Qidirilayotgan o‘quvchining ismi",
+    "Jadval nomi",
+    "Fayl yo‘li",
+    "Printer nomi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "So‘rov natijasida berilganlar ustida qanday amallar bajarilishi mumkin?",
+   "variantlar": [
+    "Faqat chop etilishi",
+    "Tartiblanishi, filtrlanishi, qo‘shilishi, bo‘linishi, o‘zgarishi",
+    "Faqat o‘chirilishi",
+    "Faqat nusxalanishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "So‘rovlarning yana bir muhim xossasi nima (matnga ko‘ra)?",
+   "variantlar": [
+    "Faqat musiqa ijro etishi",
+    "Faqat fayl o‘chirishi",
+    "Natijaviy hisob-kitob ishlarini bajarishi",
+    "Faqat rasm ko‘rsatishi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "1-mashq jadvalida Quvondiqov Farxodning sinfi qaysi?",
+   "variantlar": [
+    "10 B",
+    "9 A",
+    "11 A",
+    "10 A"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "Savol-topshiriqda jadvaldan bir vaqtda nechta familiyani qidirib saralash so‘raladi?",
+   "variantlar": [
+    "Uchta familiya",
+    "Ikkita familiya",
+    "Bitta familiya",
+    "Beshta familiya"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Savol-topshiriqning 4-bandida nechta turli parametr bo‘yicha qidiruvchi MO yaratish so‘raladi?",
+   "variantlar": [
+    "Bitta",
+    "Uchta (familiyasi, telefon raqami, sinfi)",
+    "Ikkita",
+    "Beshta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Uyga vazifada 10-sinf darsliklarining ma’lumotlar ombori qaysi parametr bo‘yicha qidiriladi?",
+   "variantlar": [
+    "Faqat sahifa soni orqali",
+    "Faqat rangi orqali",
+    "Mualliflari orqali",
+    "Faqat narxi orqali"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Uyga vazifada qidirish uchun qaysi buyruq ishlatiladi?",
+   "variantlar": [
+    "Удалить",
+    "Печать",
+    "Экспорт",
+    "Найти"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Uyga vazifada darsliklar jadvalidan qaysi ma’lumotlar bo‘yicha qidirish so‘raladi?",
+   "variantlar": [
+    "Darslik nomi, yaratilgan yili, mualliflari",
+    "Faqat narxi",
+    "Faqat muqova rangi",
+    "Faqat sahifa soni"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Tanlov asosidagi so‘rovni qo‘llashdan maqsad nima?",
+   "variantlar": [
+    "Faylni siqish",
+    "So‘rov sharti bo‘yicha tasvirlanadigan natijaviy jadvalni hosil qilish",
+    "Jadvalni butunlay o‘chirish",
+    "Jadvalni rangga bo‘yash"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Agar Условие отбора qatoriga hech narsa kiritilmasa, so‘rov natijasi qanday bo‘ladi?",
+   "variantlar": [
+    "Dastur ishlamay qoladi",
+    "Fayl o‘chadi",
+    "Barcha ma’lumotlar (filtrlanmagan holda) chiqadi",
+    "Hech qanday natija chiqmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "Shablon bo‘yicha izlash va so‘rov orqali izlashning asosiy farqi nimada?",
+   "variantlar": [
+    "Ikkalasi bir xil narsa",
+    "Shablon faqat rasm uchun, so‘rov faqat matn uchun",
+    "Shablon faqat sonlar uchun ishlaydi",
+    "Shablon tezkor filtrlash, so‘rov esa murakkabroq va qayta ishlatiladigan izlash imkonini beradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "Parametrli so‘rovning afzalligi nimada?",
+   "variantlar": [
+    "Har safar yangi qiymat kiritib, qayta-qayta qidirish imkonini beradi",
+    "Faqat bir marta ishlatish mumkin",
+    "Faqat administratorlar foydalana oladi",
+    "Internetga ulanishni talab qiladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "MS Access 2010 da so‘rovlarning nechta asosiy turi sanab o‘tilgan (tanlov, namuna, parametrli)?",
+   "variantlar": [
+    "Beshta",
+    "Uchta",
+    "Ikkita",
+    "To‘rtta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+  "sinf": "11-sinf",
+  "kitob": "11-sinf 11-Sinf Umumiy kimyo",
+  "mavzu": "31-§ Elektroliz tushunchasi. Eritma va suyuqlanma elektrolizi",
+  "savollar": [
+    {
+      "savol": "Elektrolizda katod qaysi qutbga ulanadi?",
+      "variantlar": [
+        "Musbat qutbga",
+        "Neytral qutbga",
+        "Ikkala qutbga birdaniga",
+        "Manfiy qutbga"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Elektrolizda anod qaysi qutbga ulanadi?",
+      "variantlar": [
+        "Musbat qutbga",
+        "Manfiy qutbga",
+        "Neytral qutbga",
+        "Ikkala qutbga birdaniga"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Katodda qaysi jarayon sodir bo'ladi?",
+      "variantlar": [
+        "Oksidlanish",
+        "Qaytarilish",
+        "Neytrallanish",
+        "Parchalanish"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Anodda qaysi jarayon sodir bo'ladi?",
+      "variantlar": [
+        "Qaytarilish",
+        "Neytrallanish",
+        "Oksidlanish",
+        "Erish"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "CuCl2 eritmasi elektrolizida katodda qanday modda hosil bo'ladi?",
+      "variantlar": [
+        "Cl2",
+        "H2",
+        "O2",
+        "Cu (mis)"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "CuCl2 eritmasi elektrolizida anodda qanday modda hosil bo'ladi?",
+      "variantlar": [
+        "Cl2 (xlor)",
+        "Cu",
+        "H2",
+        "O2"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "NaCl suyuqlanmasi elektrolizida katodda qanday modda hosil bo'ladi?",
+      "variantlar": [
+        "Cl2",
+        "Na (natriy)",
+        "H2",
+        "O2"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "NaCl suyuqlanmasi elektrolizida anodda qanday modda hosil bo'ladi?",
+      "variantlar": [
+        "Na",
+        "H2",
+        "Cl2 (xlor)",
+        "O2"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Elektroliz jarayonida elektr energiyasi hisobiga qanday jarayon sodir bo'ladi?",
+      "variantlar": [
+        "Faqat neytrallanish",
+        "Faqat almashinish reaksiyasi",
+        "Faqat yonish",
+        "Oksidlanish-qaytarilish reaksiyasi"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Aktiv metall tuzining suvli eritmasi elektrolizida katodda qanday gaz ajraladi?",
+      "variantlar": [
+        "Vodorod (H2)",
+        "Kislorod (O2)",
+        "Xlor (Cl2)",
+        "Azot (N2)"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "K2CO3 + 2H2O elektrolizida (aktiv metall + kislorodli kislota) anodda qaysi gaz ajraladi?",
+      "variantlar": [
+        "Cl2",
+        "O2 (kislorod)",
+        "H2",
+        "CO2"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "2KCl + 2H2O elektrolizida (aktiv metall + kislorodsiz kislota) anodda qanday modda ajraladi?",
+      "variantlar": [
+        "H2",
+        "O2",
+        "Cl2 (xlor)",
+        "K"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "MnSO4 + 2H2O elektrolizida (o'rtacha aktiv metall + kislorodli kislota) katodda qanday modda ajraladi?",
+      "variantlar": [
+        "Faqat O2",
+        "Faqat Cl2",
+        "Faqat H2SO4",
+        "Mn va H2"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "2MnCl2 + 2H2O elektrolizida (o'rtacha aktiv metall + kislorodsiz kislota) anodda qanday modda ajraladi?",
+      "variantlar": [
+        "Cl2 (xlor)",
+        "O2",
+        "H2",
+        "Mn"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "2CuSO4 + 2H2O elektrolizida (passiv metall + kislorodli kislota) katodda qanday modda hosil bo'ladi?",
+      "variantlar": [
+        "H2",
+        "Cu (mis)",
+        "O2",
+        "H2SO4"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "CuCl2 + H2O elektrolizida (passiv metall + kislorodsiz kislota) anodda qanday modda hosil bo'ladi?",
+      "variantlar": [
+        "O2",
+        "H2",
+        "Cl2 (xlor)",
+        "Cu"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "2KCl + 2H2O elektrolizida eritmada qanday modda hosil bo'ladi?",
+      "variantlar": [
+        "HCl",
+        "H2SO4",
+        "KClO3",
+        "KOH"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Buyumlarni nikellashda anod qaysi metalldan tayyorlanadi?",
+      "variantlar": [
+        "Nikel (Ni) metalldan",
+        "Buyum metalldan",
+        "Oltindan",
+        "Temirdan"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Metall qoplashda katod sifatida qaysi buyum ishlatiladi?",
+      "variantlar": [
+        "Anodga o'xshash nikel plastinka",
+        "Qoplanadigan buyum",
+        "Grafit tayoqcha",
+        "Platina sim"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Suvli eritmada elektroliz qilinganda suv qaysi jarayonda ishtirok etadi?",
+      "variantlar": [
+        "Hech qanday jarayonda ishtirok etmaydi",
+        "Faqat katodda Cl2 hosil qilishda",
+        "Katodda H2 va anodda O2 hosil bo'lishida",
+        "Faqat metallni eritishda"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "2NaCl suyuqlanmasi elektrolizida 2 mol NaCl dan necha mol Cl2 hosil bo'ladi?",
+      "variantlar": [
+        "2 mol",
+        "0,5 mol",
+        "4 mol",
+        "1 mol"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Ag⁺ ionini katodda to'liq qaytarish uchun necha elektron kerak?",
+      "variantlar": [
+        "1",
+        "2",
+        "3",
+        "0,5"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Elektroliz so'zi nimani bildiradi?",
+      "variantlar": [
+        "Elektr toki ta'sirida birikish",
+        "Elektr toki ta'sirida parchalanish",
+        "Elektr toki ta'sirida eritilish",
+        "Elektr toki ta'sirida neytrallanish"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Suvli eritmada elektroliz qilinganda katodda metall atomi ajralmasa, katodda nima ajraladi?",
+      "variantlar": [
+        "Kislorod",
+        "Xlor",
+        "H2 gazi",
+        "Azot"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Cu2+ ionini katodda to'liq qaytarish uchun necha elektron kerak?",
+      "variantlar": [
+        "1",
+        "3",
+        "4",
+        "2"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Xlor molekulasi (Cl2) hosil qilish uchun 2 ta Cl⁻ ion necha elektron beradi?",
+      "variantlar": [
+        "2",
+        "1",
+        "4",
+        "6"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Qaysi tuz suvli eritmasi elektrolizida katodda faqat metall, anodda O2 ajraladi?",
+      "variantlar": [
+        "KCl (aktiv metall + kislorodsiz kislota)",
+        "CuSO4 (passiv metall + kislorodli kislota)",
+        "K2CO3 (aktiv metall + kislorodli kislota)",
+        "NaCl suyuqlanmasi"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "CuCl2 eritmasi elektrolizida suv qanday o'zgaradi?",
+      "variantlar": [
+        "Suv katodda H2 gacha parchalanadi",
+        "Suv anodda O2 gacha parchalanadi",
+        "Suv elektrolizga qatnashmaydi, o'zgarmaydi",
+        "Suv to'liq bug'lanadi"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "KBr eritmasi elektrolizida anodda hosil bo'ladigan modda qaysi?",
+      "variantlar": [
+        "O2 (kislorod)",
+        "H2 (vodorod)",
+        "K (kaliy)",
+        "Br2 (brom)"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Nikellashda elektrolit eritmasidagi nikel tuzi konsentratsiyasi elektroliz davomida qanday o'zgaradi?",
+      "variantlar": [
+        "O'zgarmaydi (anod nikel eriydi, katodda qoplanadi)",
+        "Kamayadi, chunki nikel anodda ajraladi",
+        "Ortadi, chunki nikel katodda eriydi",
+        "Nol bo'ladi"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    }
+  ]
+}

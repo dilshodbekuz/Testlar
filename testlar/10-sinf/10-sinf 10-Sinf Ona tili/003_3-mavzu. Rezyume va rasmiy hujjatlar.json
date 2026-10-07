@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Ona tili",
+ "mavzu": "3-mavzu. Rezyume va rasmiy hujjatlar",
+ "savollar": [
+  {
+   "savol": "Matnga ko'ra, rezyume-ma'lumotnoma nima hisoblanadi?",
+   "variantlar": [
+    "So'zlashuv uslubiga oid matn",
+    "Badiiy uslubga oid asar",
+    "Publitsistik maqola turi",
+    "Ish qog'ozlaridan, rasmiy uslub janrlaridan biri"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rezyume-ma'lumotnomaning birinchi sahifasida quyidagilardan qaysi biri berilmaydi?",
+   "variantlar": [
+    "Ta'lim olgan joyi",
+    "Yaqin qarindoshlari haqida ma'lumot",
+    "Shaxsning surati va ismi",
+    "Qaysi chet tillarini bilishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rezyume-ma'lumotnomaning orqa sahifasida asosan nima haqida ma'lumot beriladi?",
+   "variantlar": [
+    "Ta'lim darajasi haqida",
+    "Olingan mukofotlar haqida",
+    "Yaqin qarindoshlari haqida",
+    "Ish joyi haqida"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, rezyume-ma'lumotnomada ma'lumotlar qanday berilishi shart?",
+   "variantlar": [
+    "Badiiy bezatilgan holda",
+    "Qisqa va chiroyli",
+    "Aniq va to'g'ri",
+    "Ixtiyoriy tartibda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, rezyume-ma'lumotnomada soxta ma'lumot berish qanday baholanadi?",
+   "variantlar": [
+    "To'liq ruxsat etiladi",
+    "Qonunga zid harakat sifatida",
+    "Faqat ogohlantirish beriladi",
+    "Odatiy holat sifatida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "G'ulomova Shahnoza Qahramon qizining millati qaysi qatorda ko'rsatilgan?",
+   "variantlar": [
+    "Rus",
+    "Tojik",
+    "Qozoq",
+    "O'zbek"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ma'lumotnomaga ko'ra, Shahnoza Qahramon qizi qaysi chet tillarini biladi?",
+   "variantlar": [
+    "Arab, fors tillari",
+    "Ingliz, rus tillari",
+    "Fransuz, nemis tillari",
+    "Koreys, xitoy tillari"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shahnoza Qahramon qizining ma'lumoti bo'yicha mutaxassisligi nima deb ko'rsatilgan?",
+   "variantlar": [
+    "Huquqshunoslik",
+    "Lingvistika (o'zbek tili)",
+    "Tarixshunoslik",
+    "Iqtisodiyot"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Berilgan ma'lumotnomani xodimlar bo'limi boshlig'i sifatida kim imzolagan?",
+   "variantlar": [
+    "Teshayeva Lola",
+    "N. G. Nusratova",
+    "G'ulomova Shahnoza",
+    "Burhonov Jasurjon"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ma'lumotnomaga ko'ra, Shahnoza Qahramon qizi qachon tug'ilgan?",
+   "variantlar": [
+    "19.11.1991",
+    "19.11.1990",
+    "19.11.1993",
+    "19.11.1992"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qarindoshlar jadvaliga ko'ra, Shahnozaning otasi nafaqaga chiqishidan oldin qaysi lavozimda ishlagan?",
+   "variantlar": [
+    "Fermer xo'jaligi rahbari",
+    "Universitet dekani",
+    "Maktab o'qituvchisi",
+    "Buxoro shahar Ichki ishlar mayori"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qarindoshlar jadvaliga ko'ra, Shahnozaning onasi qayerda ishlaydi?",
+   "variantlar": [
+    "32-maktabda o'qituvchi",
+    "Pulmonologiya markazida",
+    "Tibbiyot institutida talaba",
+    "Buxoro davlat universitetida"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jadvalga ko'ra, Shahnozaning turmush o'rtog'i qayerda faoliyat yuritadi?",
+   "variantlar": [
+    "Buxoro shahrida",
+    "Moskva davlat universitetida",
+    "Seul Milliy universitetida",
+    "Toshkent shahrida"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qarindoshlar jadvaliga ko'ra, Shahnozaning opasi qaysi muassasada ishlaydi?",
+   "variantlar": [
+    "Pulmonologiya va ftiziatriya markazida",
+    "Buxoro davlat universitetida",
+    "46-maktabgacha ta'lim muassasasida",
+    "32-maktabda"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mehnat faoliyati jadvaliga ko'ra, Shahnoza 2016–2017-yillarda qaysi kafedrada o'qituvchi bo'lgan?",
+   "variantlar": [
+    "O'zbek tilshunosligi kafedrasi",
+    "Pedagogika kafedrasi",
+    "Jahon tillari kafedrasi",
+    "O'zbek tili va adabiyoti kafedrasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qarindoshlar jadvaliga ko'ra, Shahnozaning qaynatasi kim?",
+   "variantlar": [
+    "G'ulomov Askar Qahramon o'g'li",
+    "G'ulomov Qahramon Asqar o'g'li",
+    "Burhonov Jasurjon Jamshid o'g'li",
+    "Burhonov Jamshid Ne'mat o'g'li"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3.6-mashqdagi I-matnda tasvirlangan voqeada, 300 nafar adib va san'atkor imzolagan hujjat qanday nomlanadi?",
+   "variantlar": [
+    "Norozilik bayonoti",
+    "Madhiya",
+    "Tashakkurnoma",
+    "Ayblov xati"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mustahkamlash savollariga ko'ra, \"petitsiya\" so'zi nimani bildiradi?",
+   "variantlar": [
+    "Norozilik bildirish, shikoyat xati",
+    "Tashakkur xati",
+    "Rozilik bildirish xati",
+    "Taklifnoma"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "3.6-mashqdagi II-matnda berilgan birliklardan qaysi biri rasmiy uslubda ham qo'llanishi mumkin?",
+   "variantlar": [
+    "O'g'il va qiz bolalar",
+    "Bolalar darsga boradi",
+    "Maxsus qonun qabul qilingan",
+    "Tadbirkorlik kurslariga qatnashi shart"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qarindoshlar jadvaliga ko'ra, Shahnozaning singlisi qayerda tahsil oladi?",
+   "variantlar": [
+    "Buxoro davlat tibbiyot institutida",
+    "O'zbekiston Milliy universitetida",
+    "Seul Milliy universitetida",
+    "Buxoro davlat universitetida"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qarindoshlar jadvalidagi manzillarni solishtirsak, Shahnozaning otasi, onasi, singlisi va ukasi qaysi manzilda birga yashaydi?",
+   "variantlar": [
+    "Beruniy ko'chasi 48-uy",
+    "Turon ko'chasi 1-muyulish 11-uy",
+    "A. Temur ko'chasi 19-uy",
+    "Navoiy ko'chasi 5-uy"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ma'lumotnoma va mehnat faoliyati jadvalini solishtirsak, Shahnoza 2014-yilda oliy ta'limni tamomlagandan so'ng darhol nima qilgan?",
+   "variantlar": [
+    "O'zMUda magistraturaga o'qishga kirgan",
+    "Buxoro DU kafedrasida o'qituvchi bo'lgan",
+    "Nafaqaga chiqqan",
+    "Tayanch doktorant bo'lgan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mehnat faoliyati jadvaliga asoslanib, Shahnoza jami necha yil davomida (2016–2019) kafedra o'qituvchisi bo'lib ishlagan?",
+   "variantlar": [
+    "4 yil",
+    "3 yil",
+    "1 yil",
+    "2 yil"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qarindoshlar jadvaliga ko'ra, o'g'li Javohir 2018-yilda tug'ilgan. 2026-yilda u taxminan necha yoshda bo'ladi?",
+   "variantlar": [
+    "9 yosh",
+    "7 yosh",
+    "8 yosh",
+    "6 yosh"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qarindoshlar jadvaliga ko'ra, qizi Jasmina 2015-yilda tug'ilgan. 2026-yilda u taxminan necha yoshda bo'ladi?",
+   "variantlar": [
+    "12 yosh",
+    "10 yosh",
+    "11 yosh",
+    "9 yosh"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qarindoshlar jadvalidagi 10 kishidan nechtasi Buxoro shahrida tug'ilgan (turmush o'rtog'idan tashqari)?",
+   "variantlar": [
+    "8 kishi",
+    "10 kishi",
+    "9 kishi",
+    "7 kishi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rezyume-ma'lumotnoma tuzilishiga ko'ra, quyidagi ma'lumotlardan qaysi biri birinchi sahifada emas, orqa sahifada beriladi?",
+   "variantlar": [
+    "Qaynata-qaynana haqida ma'lumot",
+    "Tug'ilgan joyi",
+    "Chet tillarni bilishi",
+    "Olingan mukofotlar"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3.6-mashqdagi I va II matnlarni solishtirsak, ularning asosiy farqi nimada?",
+   "variantlar": [
+    "Ikkalasi ham xalqaro tashkilotlarga oid",
+    "I-matn hujjat nomini, II-matn rasmiy uslub birliklarini so'raydi",
+    "Ikkalasi ham oilaviy ma'lumotga oid",
+    "Ikkalasi ham faqat hujjat nomini so'raydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Shahnozaning ta'lim va mehnat faoliyati jadvallarini solishtirsak, u 2010-yildan 2019-yilgacha uzluksiz jami necha yil o'qish va ishlash bilan band bo'lgan?",
+   "variantlar": [
+    "8 yil",
+    "10 yil",
+    "9 yil",
+    "7 yil"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qarindoshlar jadvalidagi qaynata va qaynana haqidagi ma'lumotlarni solishtirsak, qaysi xulosa to'g'ri?",
+   "variantlar": [
+    "Ikkisi ham nafaqada",
+    "Qaynatasi fermer xo'jaligi rahbari, qaynanasi uy bekasi",
+    "Ikkisi ham fermer xo'jaligida ishlaydi",
+    "Ikkisi ham o'qituvchi bo'lib ishlaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

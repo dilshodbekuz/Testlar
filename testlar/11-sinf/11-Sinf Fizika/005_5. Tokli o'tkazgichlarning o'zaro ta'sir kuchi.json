@@ -1,0 +1,326 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Fizika",
+ "mavzu": "5. Tokli o'tkazgichlarning o'zaro ta'sir kuchi",
+ "savollar": [
+  {
+   "savol": "Tokli o'tkazgichlar orasida o'zaro ta'sir kuchlari mavjud bo'ladimi?",
+   "variantlar": [
+    "Faqat ferromagnit o'tkazgichlar ta'sirlashadi",
+    "Yo'q, faqat zaryadlar o'zaro ta'sirlashadi",
+    "Ha, xuddi elektr zaryadlari kabi o'zaro ta'sir kuchlari mavjud bo'ladi",
+    "Faqat bir xil yo'nalishdagi toklar ta'sirlashadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikki parallel o'tkazgichdan qarama-qarshi yo'nalishda tok oqsa, ular qanday harakat qiladi?",
+   "variantlar": [
+    "Bir-biridan itariladi",
+    "Bir-biriga tortiladi",
+    "Bir-biriga perpendikulyar bo'lib qoladi",
+    "Bir-biriga ta'sir qilmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikki parallel o'tkazgichdan bir xil yo'nalishda tok oqsa, ular qanday harakat qiladi?",
+   "variantlar": [
+    "Bir-biriga tortiladi",
+    "Bir-biridan itariladi",
+    "Aylana bo'ylab harakatlanadi",
+    "O'z holatini o'zgartirmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'g'ri tokli o'tkazgich magnit maydonining induksiya chiziqlari qanday shaklga ega?",
+   "variantlar": [
+    "Parabolalar",
+    "Konsentrik aylanalar",
+    "To'g'ri chiziqlar",
+    "Spirallar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'g'ri tokning magnit induksiya vektori yo'nalishi qaysi qoida bo'yicha aniqlanadi?",
+   "variantlar": [
+    "Lens qoidasi",
+    "Parma qoidasi",
+    "Om qonuni",
+    "Arximed qonuni"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Birinchi tokning magnit maydoni tomonidan ikkinchi tokka ko'rsatiladigan ta'sir kuchi qaysi qonunga muvofiq topiladi?",
+   "variantlar": [
+    "Nyutonning butun olam tortishish qonuni",
+    "Joul-Lens qonuni",
+    "Amper qonuni",
+    "Kulon qonuni"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Xalqaro birliklar sistemasida tok kuchining birligi qaysi?",
+   "variantlar": [
+    "Amper",
+    "Om",
+    "Volt",
+    "Veber"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Amperning ta'rifida parallel o'tkazgichlar orasidagi masofa qancha deb olinadi?",
+   "variantlar": [
+    "1 mm",
+    "10 m",
+    "1 sm",
+    "1 m"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Amper ta'rifiga ko'ra, o'tkazgichlarning har bir metr uzunligida qanday o'zaro ta'sir kuchi hosil bo'ladi?",
+   "variantlar": [
+    "1 N",
+    "4π·10⁻⁷ N",
+    "2·10⁻⁷ N",
+    "2·10⁷ N"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Cheksiz uzun parallel tokli o'tkazgichlarning birlik uzunligiga ta'sir qiluvchi kuch ular orasidagi masofaga qanday bog'liq?",
+   "variantlar": [
+    "To'g'ri proporsional",
+    "Kvadratiga to'g'ri proporsional",
+    "Bog'liq emas",
+    "Teskari proporsional"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vakuumda bir-biridan 1 m masofada joylashgan ikki uzun parallel o'tkazgichdan 10 A dan tok o'tmoqda. Ularning har bir metr uzunligiga ta'sir qiluvchi kuchni toping.",
+   "variantlar": [
+    "2·10⁻⁶ N",
+    "4·10⁻⁵ N",
+    "2·10⁻⁷ N",
+    "2·10⁻⁵ N"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Toklar o'zgarmas bo'lib, o'tkazgichlar orasidagi masofa 2 marta oshirilsa, o'zaro ta'sir kuchi qanday o'zgaradi?",
+   "variantlar": [
+    "2 marta ortadi",
+    "2 marta kamayadi",
+    "4 marta kamayadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Boshqa kattaliklar o'zgarmas bo'lib, birinchi o'tkazgichdagi tok kuchi 2 marta oshirilsa, o'zaro ta'sir kuchi qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "2 marta kamayadi",
+    "2 marta ortadi",
+    "4 marta ortadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Vakuumda 5 A tok o'tayotgan to'g'ri o'tkazgichdan 0,1 m masofadagi nuqtada magnit induksiya qancha? (B = μ₀I/(2πd), μ₀ = 4π·10⁻⁷ N/A²)",
+   "variantlar": [
+    "2·10⁻⁵ T",
+    "5·10⁻⁶ T",
+    "10⁻⁶ T",
+    "10⁻⁵ T"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki parallel o'tkazgichdan 1 A dan tok o'tmoqda, orasidagi masofa 1 m. O'tkazgichlarning 3 m uzunligiga ta'sir qiluvchi kuch qancha?",
+   "variantlar": [
+    "6·10⁻⁶ N",
+    "2·10⁻⁷ N",
+    "3·10⁻⁷ N",
+    "6·10⁻⁷ N"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Birinchi tokning ikkinchi o'tkazgich joylashgan joydagi magnit induksiyasi 2·10⁻⁵ T. Ikkinchi o'tkazgichdagi tok 10 A, uning maydondagi qismi uzunligi 0,5 m bo'lsa, unga ta'sir qiluvchi kuch qancha? (F = B·I·Δl)",
+   "variantlar": [
+    "10⁻⁴ N",
+    "10⁻⁵ N",
+    "4·10⁻⁵ N",
+    "2·10⁻⁴ N"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Parallel o'tkazgichlarda toklar 20 A va 5 A, orasidagi masofa 0,5 m. Har bir metr uzunlikka ta'sir qiluvchi kuch qancha?",
+   "variantlar": [
+    "8·10⁻⁵ N",
+    "2·10⁻⁵ N",
+    "4·10⁻⁵ N",
+    "4·10⁻⁶ N"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikkala o'tkazgichdagi tok kuchi ham 2 marta oshirilsa (masofa o'zgarmas), o'zaro ta'sir kuchi necha marta o'zgaradi?",
+   "variantlar": [
+    "4 marta ortadi",
+    "2 marta ortadi",
+    "8 marta ortadi",
+    "4 marta kamayadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki parallel o'tkazgichdan bir xil I tok o'tadi, orasidagi masofa 2 m. Har bir metr uzunlikka ta'sir qiluvchi kuch 4·10⁻⁵ N bo'lsa, tok kuchi qancha?",
+   "variantlar": [
+    "40 A",
+    "10 A",
+    "20 A",
+    "200 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Parallel o'tkazgichlarda ikkala tok kuchi 2 marta oshirildi va orasidagi masofa ham 2 marta oshirildi. Har metr uzunlikdagi ta'sir kuchi qanday o'zgaradi?",
+   "variantlar": [
+    "2 marta kamayadi",
+    "4 marta ortadi",
+    "2 marta ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Birinchi o'tkazgichdagi tok 3 marta, orasidagi masofa ham 3 marta oshirildi (ikkinchi tok o'zgarmadi). Ta'sir kuchi qanday o'zgaradi?",
+   "variantlar": [
+    "3 marta kamayadi",
+    "9 marta ortadi",
+    "O'zgarmaydi",
+    "3 marta ortadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Parallel o'tkazgichlarda I₁ = 10 A va I₂ = 1 A tok oqmoqda. Ularning o'zaro ta'sir kuchlari haqida qaysi fikr to'g'ri?",
+   "variantlar": [
+    "Kuchlar kattalik jihatdan teng, yo'nalishlari qarama-qarshi",
+    "Kuchlar teng va bir xil yo'nalishda",
+    "Ikkinchi o'tkazgichga ta'sir qiluvchi kuch 10 marta katta",
+    "Birinchi o'tkazgichga ta'sir qiluvchi kuch 10 marta katta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Orasidagi masofa 0,8 m, har birida 40 A tok oqayotgan ikki simli liniyaning har bir metr uzunligiga ta'sir qiluvchi kuch qancha? (masofa 1,6 m bo'lgandagi kuch 2·10⁻⁴ N ekani ma'lum)",
+   "variantlar": [
+    "8·10⁻⁴ N",
+    "1·10⁻⁴ N",
+    "2·10⁻⁴ N",
+    "4·10⁻⁴ N"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Orasi 1,6 m bo'lgan, har birida 40 A tok oqayotgan ikki simli liniyaning 25 m uzunlikdagi qismiga ta'sir qiluvchi kuch qancha? (1 m ga 2·10⁻⁴ N to'g'ri keladi)",
+   "variantlar": [
+    "2·10⁻³ N",
+    "5·10⁻³ N",
+    "8·10⁻³ N",
+    "5·10⁻⁴ N"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Birinchi o'tkazgichdagi tok 50 A. Undan 0,2 m masofadagi ikkinchi o'tkazgichdan 4 A tok o'tmoqda. Ikkinchi o'tkazgichning 2 m uzunlikka ega qismiga ta'sir qiluvchi kuch qancha? (μ₀ = 4π·10⁻⁷ N/A²)",
+   "variantlar": [
+    "4·10⁻⁵ N",
+    "2·10⁻⁴ N",
+    "4·10⁻⁴ N",
+    "8·10⁻⁴ N"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir xil yo'nalishdagi toklardan birining yo'nalishi qarama-qarshiga o'zgartirilsa, nima o'zgaradi?",
+   "variantlar": [
+    "Kuch kattaligi o'zgarmaydi, tortishish itarilishga almashadi",
+    "Kuch nolga teng bo'ladi",
+    "Kuch kattaligi ikki marta kamayadi, tortishish saqlanadi",
+    "Kuch kattaligi ikki marta ortadi, tortishish saqlanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "F = μ₀·I₁·I₂·Δl/(2π·d) formulada kuch nyutonda chiqishi uchun μ₀ ning o'lchov birligi qanday bo'lishi kerak?",
+   "variantlar": [
+    "N/A",
+    "A/N",
+    "N·A²",
+    "N/A²"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Parallel o'tkazgichlarning birinchisidagi tok 2 marta kamaytirildi, orasidagi masofa esa 4 marta kamaytirildi. Ta'sir kuchi qanday o'zgaradi?",
+   "variantlar": [
+    "8 marta ortadi",
+    "2 marta kamayadi",
+    "O'zgarmaydi",
+    "2 marta ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Vakuumdagi ikki uzun parallel o'tkazgichdan 50 A va 20 A tok o'tmoqda. Har bir metr uzunlikka ta'sir qiluvchi kuch 2·10⁻⁴ N bo'lsa, ular orasidagi masofa qancha?",
+   "variantlar": [
+    "0,5 m",
+    "2 m",
+    "1 m",
+    "0,1 m"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

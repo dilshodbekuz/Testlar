@@ -1,0 +1,337 @@
+{
+  "sinf": "11-sinf",
+  "kitob": "11-sinf 11-Sinf Informatika",
+  "mavzu": "13-dars. Kanallar va filtrlar haqida ma'lumot",
+  "savollar": [
+    {
+      "savol": "RGB tizimida nechta kanal bor?",
+      "variantlar": [
+        "2 ta",
+        "3 ta",
+        "4 ta",
+        "5 ta"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "CMYK tizimida nechta kanal bor?",
+      "variantlar": [
+        "4 ta",
+        "5 ta",
+        "6 ta",
+        "3 ta"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "RGB tizimidagi umumiy kanalni chaqirish uchun qaysi tugmalar bosiladi?",
+      "variantlar": [
+        "Ctrl+3",
+        "Ctrl+4",
+        "Ctrl+1",
+        "Ctrl+2"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Qizil kanalga mos keladigan tugmalar qaysi?",
+      "variantlar": [
+        "Ctrl+5",
+        "Ctrl+2",
+        "Ctrl+3",
+        "Ctrl+4"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Yashil kanalga mos keladigan tugmalar qaysi?",
+      "variantlar": [
+        "Ctrl+3",
+        "Ctrl+4",
+        "Ctrl+5",
+        "Ctrl+2"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Ko'k kanalga mos keladigan tugmalar qaysi?",
+      "variantlar": [
+        "Ctrl+3",
+        "Ctrl+4",
+        "Ctrl+5",
+        "Ctrl+2"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Kanallar palitrasini ochish uchun asosiy menyudan qaysi bo'lim ishlatiladi?",
+      "variantlar": [
+        "Filtr",
+        "Tasvir",
+        "Fayl",
+        "Okno (Oyna)"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Tasvirning ranglar tizimini CMYK ga o'zgartirish uchun qaysi buyruq tanlanadi?",
+      "variantlar": [
+        "Oyna > CMYK",
+        "Fayl > CMYK",
+        "Tasvir > Rejim > CMYK",
+        "Filtr > CMYK"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Alfa kanal nima uchun ishlatiladi?",
+      "variantlar": [
+        "Rangni o'chirish uchun",
+        "Tasvirning bir qismini ajratib olish uchun",
+        "Faylni saqlash uchun",
+        "Chop etish uchun"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Filtr deb nimaga aytiladi?",
+      "variantlar": [
+        "Oldindan belgilangan algoritm bo'yicha tasvirni qayta ishlashga",
+        "Matnni yozishga",
+        "Faylni ochishga",
+        "Tasvirni o'chirishga"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Filtrlar asosiy menyuning qaysi bo'limida yig'ilgan?",
+      "variantlar": [
+        "Окно (Oyna)",
+        "Matn",
+        "Fayl",
+        "Фильтр (Filtr)"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Filtr bo'limining ikkinchi yarmida qolgan filtrlar nechta guruhga bo'lingan?",
+      "variantlar": [
+        "12 ta",
+        "5 ta",
+        "8 ta",
+        "10 ta"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Filtr bo'limining oxirgi bandi yordamida nima qilish mumkin?",
+      "variantlar": [
+        "Yangi fayl yaratish",
+        "Internetdan yangi filtrlarni yuklab olish",
+        "Tasvirni chop etish",
+        "Matnni o'chirish"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Stilizatsiya guruhiga qaysi filtrlar kiradi?",
+      "variantlar": [
+        "Distorsiya va Zigzag",
+        "Volna va Smeshchenie",
+        "Polyarnye koordinaty va Rybi",
+        "Chetini ajratish (Выделение края) va O'yib chiqish (Тиснение)"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Iskazheniya (buzilish) guruhidagi filtrlar qaysilar?",
+      "variantlar": [
+        "Rendering va Shum",
+        "Video va Boshqa",
+        "Chetini ajratish va O'yib chiqish",
+        "Distorsiya (egrilash) va Zigzag (egri-bugri)"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Distorsiya filtri nimani qiladi?",
+      "variantlar": [
+        "Chop etadi",
+        "Tasvirni o'chiradi",
+        "Tasvirni egrilaydi",
+        "Rangini o'zgartiradi"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Zigzag filtri tasvirni qanday o'zgartiradi?",
+      "variantlar": [
+        "Kengaytiradi",
+        "Egri-bugri qiladi",
+        "Ranglarni o'zgartiradi",
+        "Kulrang qiladi"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Rasmda faqat bitta tashkil etuvchini qoldirish uchun nima qilinadi?",
+      "variantlar": [
+        "Unga mos kanal qoldirilib, qolganlari yopiladi",
+        "Rasm chop etiladi",
+        "Fayl yopiladi",
+        "Barcha kanallar o'chiriladi"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Filtrlarni qo'llash uchun asosiy usul qaysi?",
+      "variantlar": [
+        "Faqat sichqoncha bilan",
+        "Faqat palitradan",
+        "Faqat klaviatura bilan",
+        "Filtr menyusidan tanlash orqali"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "RGB va CMYK tizimlaridagi kanallar soni qanday?",
+      "variantlar": [
+        "3 va 5",
+        "2 va 3",
+        "3 va 4",
+        "4 va 5"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Yodda saqlang: filtrlar orqali nimani tez amalga oshirish mumkin?",
+      "variantlar": [
+        "Faylni o'chirish",
+        "Tasvirlarni tez qaytarib ishlash",
+        "Ranglarni yo'q qilish",
+        "Shriftni o'zgartirish"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Rangli tashkil etuvchilarni aniqlashda qiynalganda PhotoShop nima qiladi?",
+      "variantlar": [
+        "Yordamga keladi",
+        "Chiqarib yuboradi",
+        "Yopib qo'yadi",
+        "Tasvirni o'chiradi"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Kanallar palitrasi qaysi maqsadda xizmat qiladi?",
+      "variantlar": [
+        "Chop etish uchun",
+        "Matn yozish uchun",
+        "Faylni ochish uchun",
+        "Har bir pikselning rangli tashkil etuvchilarini ko'rish va ajratish uchun"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Tasvirning ranglar tizimini o'zgartirish uchun qaysi bo'lim va band ishlatiladi?",
+      "variantlar": [
+        "Oyna bo'limining Palitra bandi",
+        "Fayl bo'limining Saqlash bandi",
+        "Tasvir bo'limining Rejim bandi",
+        "Filtr bo'limining Stilizatsiya bandi"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Kanallarga qo'shiladigan alfa kanal qanday qo'shiladi?",
+      "variantlar": [
+        "Kanallar mavjud emas",
+        "Yangi kanal sifatida qo'shiladi",
+        "Faylga qo'shiladi",
+        "Matnga qo'shiladi"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Kuchukcha yoki jo'ja rasmini yuklab, filtrlarni qo'llab ko'rishdan keyin nima qilinadi?",
+      "variantlar": [
+        "Muvaffaqiyatli chiqqan suratlar yangi nom bilan saqlanadi",
+        "Oyna yopiladi",
+        "Rasm chop etiladi",
+        "Fayl o'chiriladi"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Fotosuratni rassom chizgan surat ko'rinishiga o'tkazish uchun qaysi amaldan foydalaniladi?",
+      "variantlar": [
+        "Palitra",
+        "Fayl",
+        "Kanallar",
+        "Filtrlar"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Stilizatsiya guruhidagi 'Tisnenie' filtri ta'sirida tasvir qanday ko'rinadi?",
+      "variantlar": [
+        "Kattalashadi",
+        "Egrilanadi",
+        "O'yib chiqqandek ko'rinadi",
+        "Rangsizlanadi"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Filtr bo'limining ikkinchi qismidagi filtrlar bo'yicha uyga vazifa nima?",
+      "variantlar": [
+        "Matn yozish",
+        "Bir nechta filtrni qo'llab yangi tasvirlar hosil qilish",
+        "Ranglarni o'chirish",
+        "Fayl nomini o'zgartirish"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "PhotoShop filtrlarining ikkinchi yarmida qolgan filtrlar necha guruhga bo'lib chiqilgan?",
+      "variantlar": [
+        "10 ta guruhga",
+        "5 ta guruhga",
+        "3 ta guruhga",
+        "15 ta guruhga"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    }
+  ]
+}

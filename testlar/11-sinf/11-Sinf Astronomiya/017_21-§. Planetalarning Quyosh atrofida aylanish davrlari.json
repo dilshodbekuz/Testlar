@@ -1,0 +1,337 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Astronomiya",
+ "mavzu": "21-§. Planetalarning Quyosh atrofida aylanish davrlari",
+ "savollar": [
+  {
+   "savol": "Barcha planetalar Quyosh atrofida qaysi yo'nalishda aylanadi?",
+   "variantlar": [
+    "Janubdan shimolga",
+    "G'arbdan sharqqa",
+    "Shimoldan janubga",
+    "Sharqdan g'arbga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyoshga eng yaqin joylashgan planeta qaysi?",
+   "variantlar": [
+    "Mars",
+    "Yer",
+    "Venera",
+    "Merkuriy"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Merkuriyning Quyosh atrofida aylanish davri taxminan necha kunga teng?",
+   "variantlar": [
+    "88 kun",
+    "365 kun",
+    "225 kun",
+    "687 kun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Neptunning Quyosh atrofida aylanish davri taxminan necha yilga teng?",
+   "variantlar": [
+    "165 yil",
+    "29 yil",
+    "248 yil",
+    "84 yil"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Planetaning siderik davri deb nimaga aytiladi?",
+   "variantlar": [
+    "Yerning konfiguratsion holatlari orasidagi vaqtga",
+    "Planetaning o'z o'qi atrofida aylanish vaqtiga",
+    "Planetaning Yerga eng yaqinlashgan vaqtiga",
+    "Planetaning ma'lum bir yulduzga nisbatan to'la aylanib chiqish vaqtiga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Planetaning sinodik davri deb nimaga aytiladi?",
+   "variantlar": [
+    "Planetaning o'qi atrofida aylanish davriga",
+    "Yerning konfiguratsion holatlaridan ixtiyoriy birining ikki marta ketma-ket takrorlanishi uchun zarur vaqtga",
+    "Quyoshning o'z o'qi atrofida aylanish davriga",
+    "Planetaning yulduzga nisbatan aylanish vaqtiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Barcha planetalar orbitalari qaysi tekislikka yaqin joylashgan?",
+   "variantlar": [
+    "Gorizont tekisligiga",
+    "Ekliptika tekisligiga",
+    "Meridian tekisligiga",
+    "Ekvator tekisligiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyoshdan uzoq masofada aylanadigan planetalar yaqin masofadagilarga nisbatan qanday tezlik bilan harakatlanadi?",
+   "variantlar": [
+    "Bir xil tezlik bilan",
+    "Kichikroq tezlik bilan",
+    "Tezlik nolga teng",
+    "Kattaroq tezlik bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Siderik davr matnda qaysi belgi bilan ifodalanadi?",
+   "variantlar": [
+    "Spl",
+    "T⊕",
+    "p0",
+    "Tpl"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sinodik davr matnda qaysi belgi bilan ifodalanadi?",
+   "variantlar": [
+    "p0",
+    "Spl",
+    "Tpl",
+    "T⊕"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yerning siderik davri qaysi belgi bilan ifodalanadi?",
+   "variantlar": [
+    "S⊕",
+    "Tpl",
+    "T⊕",
+    "Spl"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ichki planetalar uchun 1/Spl qanday ifodalanadi?",
+   "variantlar": [
+    "1/Tpl − 1/T⊕",
+    "1/Tpl + 1/T⊕",
+    "1/T⊕ + 1/Tpl",
+    "1/T⊕ − 1/Tpl"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tashqi planetalar uchun 1/Spl qanday ifodalanadi?",
+   "variantlar": [
+    "1/T⊕ + 1/Tpl",
+    "1/Tpl − 1/T⊕",
+    "1/Tpl ⋅ 1/T⊕",
+    "1/T⊕ − 1/Tpl"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ichki planetalar uchun siderik davr (Tpl) formulasi qaysi?",
+   "variantlar": [
+    "Tpl = Spl⋅T⊕/(Spl−T⊕)",
+    "Tpl = Spl−T⊕",
+    "Tpl = Spl⋅T⊕/(Spl+T⊕)",
+    "Tpl = Spl+T⊕"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tashqi planetalar uchun siderik davr (Tpl) formulasi qaysi?",
+   "variantlar": [
+    "Tpl = Spl+T⊕",
+    "Tpl = Spl−T⊕",
+    "Tpl = Spl⋅T⊕/(Spl+T⊕)",
+    "Tpl = Spl⋅T⊕/(Spl−T⊕)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar planeta orbitasi Yer orbitasidan Quyoshga yaqinroq joylashgan bo'lsa, u qanday planeta deyiladi?",
+   "variantlar": [
+    "Tashqi planeta",
+    "Ichki planeta",
+    "Mayda planeta",
+    "O'rta planeta"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar planeta orbitasi Yer orbitasidan Quyoshdan uzoqroq joylashgan bo'lsa, u qanday planeta deyiladi?",
+   "variantlar": [
+    "Ichki planeta",
+    "Yoritgich",
+    "Mayda planeta",
+    "Tashqi planeta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Merkuriy va Neptunning aylanish davrlarini solishtirganda, qaysi biri Quyosh atrofida tezroq aylanadi?",
+   "variantlar": [
+    "Taqqoslab bo'lmaydi",
+    "Neptun",
+    "Ikkisi teng tezlikda",
+    "Merkuriy"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyoshga yaqin va uzoq joylashgan planetalarning aylanish davrlari orasidagi bog'liqlik qanday?",
+   "variantlar": [
+    "Bog'liqlik yo'q",
+    "Yaqin planetalar kichik, uzoq planetalar katta davrga ega",
+    "Yaqin planetalar katta, uzoq planetalar kichik davrga ega",
+    "Barcha planetalar bir xil davrga ega"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Planetaning sinodik davri aniqlanishida nimaning konfiguratsion holatlari asos qilib olinadi?",
+   "variantlar": [
+    "Yulduzning",
+    "Oyning",
+    "Quyoshning",
+    "Yerning"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Venera uchun sinodik davr Spl=584 kun va Yerning siderik davri T⊕=365 kun bo'lsa, ichki planeta formulasiga ko'ra Veneraning siderik davri (Tpl) taxminan nechaga teng?",
+   "variantlar": [
+    "310,2 kun",
+    "260,4 kun",
+    "224,6 kun",
+    "180,5 kun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mars uchun sinodik davr Spl=780 kun va T⊕=365 kun bo'lsa, tashqi planeta formulasiga ko'ra Marsning siderik davri (Tpl) taxminan nechaga teng?",
+   "variantlar": [
+    "686 kun",
+    "650 kun",
+    "780 kun",
+    "720 kun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ichki planetaning sinodik davri juda katta qiymatga ega bo'lsa (Spl cheksizlikka yaqinlashsa), bu holda planetaning siderik davri (Tpl) nimaga yaqinlashadi?",
+   "variantlar": [
+    "Cheksizlikka",
+    "Spl ning yarmiga",
+    "Nolga",
+    "Yerning siderik davriga (T⊕)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ichki va tashqi planetalar uchun siderik davr formulalarining maxrajlari orasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Maxrajda farq yo'q, faqat suratda farq bor",
+    "Ichki planetada maxraj ayirma, tashqida yig'indi",
+    "Ichki planetada maxraj yig'indi (Spl+T⊕), tashqida ayirma (Spl−T⊕)",
+    "Ikkisida ham maxraj bir xil"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar tashqi planetaning siderik davri Yerning siderik davriga juda yaqinlashsa (Tpl→T⊕), formula bo'yicha sinodik davr (Spl) qanday o'zgaradi?",
+   "variantlar": [
+    "Spl manfiy bo'ladi",
+    "Spl cheksiz katta bo'lib ketadi",
+    "Spl nolga yaqinlashadi",
+    "Spl o'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yupiter uchun sinodik davr Spl=399 kun va T⊕=365 kun bo'lsa (1 yil=365 kun), tashqi planeta formulasiga ko'ra Yupiterning siderik davri taxminan necha yilga teng?",
+   "variantlar": [
+    "9,8 yil",
+    "13,5 yil",
+    "11,73 yil",
+    "10,2 yil"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Saturn uchun sinodik davr Spl=378 kun va T⊕=365 kun bo'lsa (1 yil=365 kun), tashqi planeta formulasiga ko'ra Saturnning siderik davri taxminan necha yilga teng?",
+   "variantlar": [
+    "29,08 yil",
+    "25,8 yil",
+    "31,2 yil",
+    "27,5 yil"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ichki planeta formulasi Tpl = Spl⋅T⊕/(Spl+T⊕) dan foydalanib, agar Spl = T⊕ bo'lsa, Tpl qanchaga teng bo'ladi?",
+   "variantlar": [
+    "2T⊕",
+    "T⊕/4",
+    "T⊕",
+    "T⊕/2"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar bir planetaning Quyoshga nisbatan uzoqligi ortib borsa, matn ma'lumotlariga ko'ra uning harakat tezligi va aylanish davri qanday o'zgaradi?",
+   "variantlar": [
+    "Tezlik ortadi, davr ham ortadi",
+    "Tezlik ortadi, davr kamayadi",
+    "Tezlik kamayadi, davr ortadi",
+    "Tezlik va davr o'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ichki planeta formulasi Tpl = Spl⋅T⊕/(Spl+T⊕) da, agar Spl juda kichik qiymatga (nolga) yaqinlashsa, Tpl qanday qiymatga yaqinlashadi?",
+   "variantlar": [
+    "T⊕/2 ga",
+    "Nolga",
+    "T⊕ ga",
+    "Cheksizlikka"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

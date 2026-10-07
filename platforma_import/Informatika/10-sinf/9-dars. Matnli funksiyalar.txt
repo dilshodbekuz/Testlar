@@ -1,0 +1,179 @@
+9-dars qanday nomlanadi?
++A) Matnli funksiyalar
+B) Mantiqiy funksiyalar
+C) Statistik funksiyalar
+D) Matematik funksiyalar
+
+БАТТЕКСТ funksiyasi nimani bajaradi?
+A) Matnni takrorlaydi
++B) Sonni matnga almashtiradi
+C) Matnni songa almashtiradi
+D) Matnni o‘chiradi
+
+ДЛСТР funksiyasi nimani aniqlaydi?
+A) Matnning rangini
+B) Katakning joylashuvini
++C) Matnli satrdagi belgilar sonini
+D) Sonning qiymatini
+
+ЗАМЕНИТЬ funksiyasi nima qiladi?
+A) Matnni o‘chiradi
+B) Matnni nusxalaydi
+C) Matnni tarjima qiladi
++D) Matnning belgilangan joyini yangi matnga almashtiradi
+
+ЗНАЧЕН funksiyasi nimani bajaradi?
++A) Matn ko‘rinishidagi sonni songa o‘tkazadi
+B) Sonni matnga o‘tkazadi
+C) Matnni katakdan o‘chiradi
+D) Matnni formatlaydi
+
+ПОВТОР funksiyasi nima qiladi?
+A) Matnni tarjima qiladi
++B) Matnni n marta takrorlaydi
+C) Matnni bir marta chiqaradi
+D) Matnni o‘chiradi
+
+СЦЕПИТЬ funksiyasi nima qiladi?
+A) Matnni o‘chiradi
+B) Matnni sonlashtiradi
++C) Bir nechta matnni bitta matnga o‘tkazadi
+D) Matnni bo‘laklarga ajratadi
+
+1-mashqda nechta katakdagi ma’lumot bitta katakka birlashtiriladi?
+A) Ikkita
+B) To‘rtta
+C) Beshta
++D) Uchta (familiya, ism, otasining ismi)
+
+1-mashqni yechishning nechta usuli bor?
++A) Ikki xil usul
+B) Bitta usul
+C) Uch xil usul
+D) To‘rt xil usul
+
+Birinchi usulda E1 katakka qanday formula kiritiladi?
+A) =ЗНАЧЕН(B1;C1;D1)
++B) =СЦЕПИТЬ(B1;" ";C1;" ";D1)
+C) =B1+C1+D1
+D) =СУММ(B1:D1)
+
+Ikkinchi usulda E1 katakka qanday formula kiritiladi?
+A) =B1*C1*D1
+B) =ДЛСТР(B1)
++C) =B1&" "&C1&" "&D1
+D) =СЦЕПИТЬ(B1,C1,D1)
+
+Birinchi usulda B, C, D ustunlariga mos ravishda nima kiritiladi?
+A) Fan nomi, baho, sana
+B) Shahar, viloyat, mamlakat
+C) Sinf, guruh, raqam
++D) Familiya, ism, otasining ismi
+
+Agar familiya Лист1!B1, ism Лист2!B1, otasining ismi Лист3!B1 da bo‘lsa, ularni birlashtirish uchun qanday formula ishlatiladi?
++A) =СЦЕПИТЬ(Лист1!B1;" ";Лист2!B1;" ";Лист3!B1)
+B) =СУММ(Лист1!B1:Лист3!B1)
+C) =B1+B1+B1
+D) =Лист1!B1*Лист2!B1
+
+B2:C5 ifodasi MS Excelda nimani bildiradi?
+A) Butun varaqni
++B) Kataklar blokini (8 ta katak)
+C) Faqat bitta katakni
+D) Ikki ta katakni
+
+B2:C5 blokida nechta katak mavjud?
+A) 6 ta katak
+B) 10 ta katak
++C) 8 ta katak
+D) 4 ta katak
+
+B2;C5 (nuqtali vergul bilan) yozilsa, nechta katak belgilanadi?
+A) 8 ta katak
+B) 4 ta katak
+C) 1 ta katak
++D) 2 ta katak (B2 va C5)
+
+Formula nusxalanganda E1 dagi formula qolgan kataklarga qanday ko‘chiriladi?
++A) Nusxa ko‘chirish (siljitish) orqali
+B) Qo‘lda qayta yozib
+C) Faylni qayta ochib
+D) Formuladan foydalanmay
+
+Savol-topshiriqda C ustunida familiya, ism, otasining ismi, D ustunida esa nima berilgan?
+A) O‘quvchilarning telefon raqami
++B) O‘quvchilarning tug‘ilgan yili
+C) O‘quvchilarning bahosi
+D) O‘quvchilarning manzili
+
+Savol-topshiriqda C va D ustunlaridagi ma’lumotlar qaysi ustunga birlashtiriladi?
+A) F ustunga
+B) B ustunga
++C) E ustunga
+D) A ustunga
+
+СЦЕПИТЬ formulasida qatorlar orasiga qo‘yilgan " " nima vazifani bajaradi?
+A) Matnni ajratadi va o‘chiradi
+B) Sonlarni formatlaydi
+C) Faylni saqlaydi
++D) So‘zlar orasiga bo‘sh joy qo‘yadi
+
+Uyga vazifada ДЛСТР funksiyasi yordamida qaysi matndagi belgilar soni aniqlanadi?
++A) “O‘zbekiston – mustaqil Vatan”
+B) “Informatika va axborot texnologiyalari”
+C) “MS Excel 2010”
+D) “10-sinf o‘quvchilari”
+
+Uyga vazifada qaysi funksiyaga mustaqil masala tuzish so‘raladi?
+A) ЗНАЧЕН
++B) ЗАМЕНИТЬ
+C) СЦЕПИТЬ
+D) ПОВТОР
+
+Ikkinchi usulda (&) belgisi qanday vazifa bajaradi?
+A) Matnlarni ko‘paytiradi
+B) Matnlarni o‘chiradi
++C) Matnlarni birlashtiradi (СЦЕПИТЬ ga o‘xshash)
+D) Matnlarni ayiradi
+
+Agar СЦЕПИТЬ formulasida bo‘sh joy belgisi (" ") qo‘shilmasa, natija qanday bo‘ladi?
+A) Formulada xatolik chiqadi
+B) Natija bo‘sh bo‘ladi
+C) Fayl ochilmaydi
++D) So‘zlar bir-biriga yopishib qoladi
+
+ЗНАЧЕН funksiyasi qachon foydali bo‘ladi?
++A) Matn ko‘rinishidagi sonlar bilan matematik amal bajarish kerak bo‘lganda
+B) Rasm qo‘shishda
+C) Diagramma chizishda
+D) Faylni saqlashda
+
+ПОВТОР funksiyasi argumentlarida nimalar ko‘rsatiladi?
+A) Katak manzili va rang
++B) Takrorlanadigan matn va takrorlanish soni
+C) Faqat matn
+D) Faqat son
+
+Matnli funksiyalar kutubxonasi MS Excel tasmasidagi qaysi bo‘limda joylashgan?
+A) Данные bo‘limida
+B) Рецензирование bo‘limida
++C) Формулы bo‘limida (Текстовые funksiyalar guruhida)
+D) Вставка bo‘limida
+
+Lист1, Лист2, Лист3 va Лист4 so‘zlari nimani bildiradi?
+A) Turli fayllarni
+B) Turli papkalarni
+C) Turli printerlarni
++D) Ishchi kitobdagi turli varaqlarni
+
+Matnli funksiyalardan foydalanishning asosiy maqsadi nima?
++A) Kataklardagi matnlar ustida turli amallarni bajarish
+B) Faqat sonlarni hisoblash
+C) Diagramma yaratish
+D) Faylni himoyalash
+
+Jadvalda nechta matnli funksiya sanab o‘tilgan (БАТТЕКСТ dan СЦЕПИТЬgacha)?
+A) 5 ta
++B) 6 ta
+C) 4 ta
+D) 8 ta

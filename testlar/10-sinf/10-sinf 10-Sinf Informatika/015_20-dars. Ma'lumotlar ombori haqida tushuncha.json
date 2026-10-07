@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "20-dars. Ma'lumotlar ombori haqida tushuncha",
+ "savollar": [
+  {
+   "savol": "20-dars qanday nomlanadi?",
+   "variantlar": [
+    "Ma’lumotlar ombori haqida tushuncha",
+    "MS Access 2010 ning asosiy elementlari",
+    "Ma’lumotlar omborini boshqarish tizimlari",
+    "Jadvallarni o‘zaro bog‘lash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "Ma’lumotlar ombori (MO) qanday ta’riflanadi?",
+   "variantlar": [
+    "Faqat matnli fayl",
+    "Kompyuter xotirasiga kiritilgan ma’lum strukturaga ega, o‘zaro bog‘langan va tartiblangan ma’lumotlar majmuasi",
+    "Faqat kompyuter dasturi",
+    "Faqat internet sayti"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "Ma’lumotlardan foydalanishda nimalar muhim masala hisoblanadi?",
+   "variantlar": [
+    "Faqat o‘chirish",
+    "Faqat nusxalash",
+    "Yig‘ish, saqlash, qayta ishlash va uzatish",
+    "Faqat chop etish"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "Texnologiyaning asosini nima tashkil etadi (matnga ko‘ra)?",
+   "variantlar": [
+    "Faqat printerlar",
+    "Faqat internet tezligi",
+    "Faqat dasturiy ta’minot narxi",
+    "Ma’lumotlar ombori va banklari"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "Ma’lumotlar modeli nima?",
+   "variantlar": [
+    "Ma’lumotlarning o‘zaro bog‘langan tuzilishlari va ular ustida bajariladigan operatsiyalar to‘plami",
+    "Faqat jadval rangi",
+    "Faqat fayl nomi",
+    "Faqat printer turi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "MO tuzishning nechta asosiy usuli keltirilgan?",
+   "variantlar": [
+    "Oltita",
+    "Uchta (ierarxik, tarmoq, relyatsion)",
+    "Ikkita",
+    "Beshta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "Ierarxik (shajara) modelda ma’lumotlar qanday ko‘rinishda saqlanadi?",
+   "variantlar": [
+    "Tarmoq ko‘rinishda",
+    "Doira ko‘rinishda",
+    "Daraxtsimon ko‘rinishda",
+    "Jadval ko‘rinishda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "Relyatsion (o‘zaro bog‘langan) modelda ma’lumotlar qanday saqlanadi?",
+   "variantlar": [
+    "Daraxt ko‘rinishida",
+    "Ro‘yxat ko‘rinishida",
+    "Matn ko‘rinishida",
+    "Jadval ko‘rinishida"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "Ma’lumotlarni olishning nechta usuli bor (tuzilmalashtirilgan/tuzilmalashtirilmagan)?",
+   "variantlar": [
+    "Ikki xil usul",
+    "Bitta usul",
+    "Uch xil usul",
+    "To‘rt xil usul"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "Tuzilmalashtirilmagan ma’lumot qanday bo‘ladi?",
+   "variantlar": [
+    "Kompyuterda saqlanmasa",
+    "Ularni tasvirlash usuli haqida kelishuv bo‘lmasa",
+    "Jadval ko‘rinishida bo‘lsa",
+    "Rang berilgan bo‘lsa"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "Tuzilmalashtirilgan ma’lumot qanday bo‘ladi?",
+   "variantlar": [
+    "Faqat rasm bo‘lsa",
+    "Faqat ovozli fayl bo‘lsa",
+    "Ularni tasvirlash usullari haqida kelishuv bo‘lsa",
+    "Hech qanday tartibga ega bo‘lmasa"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "Tarmoq modelida ierarxik modeldan farqli ravishda nima mavjud?",
+   "variantlar": [
+    "Ma’lumotlar jadval ko‘rinishida saqlanadi",
+    "Daraxt umuman bo‘lmaydi",
+    "Faqat bitta tugun bo‘ladi",
+    "Tugunlardagi tarmoqlanishlarga cheklanish yo‘q"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "Matnda keltirilgan misolda Nazarov Nodirning yashash manzili sifatida nima ko‘rsatilgan?",
+   "variantlar": [
+    "Navoiy shahar",
+    "Toshkent shahar",
+    "Buxoro shahar",
+    "Samarqand shahar"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "Matndagi misolda o‘quvchi haqidagi ma’lumot jadval ko‘rinishiga keltirilsa, u qanday ma’lumotga aylanadi?",
+   "variantlar": [
+    "Shifrlangan ma’lumotga",
+    "Tuzilmalashtirilgan ma’lumotga",
+    "Tuzilmalashtirilmagan ma’lumotga",
+    "O‘chirilgan ma’lumotga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "MO ni qaysi model asosida tashkil etish, kimning zimmasiga yuklatilgan?",
+   "variantlar": [
+    "Faqat davlat idorasining",
+    "Faqat o‘qituvchining",
+    "MO yaratayotgan foydalanuvchining",
+    "Faqat dastur ishlab chiquvchining"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "Ierarxik modelda ishlash birligi nima hisoblanadi?",
+   "variantlar": [
+    "Jadval",
+    "Ustun",
+    "Fayl",
+    "Yozuv"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "Matnga ko‘ra, ma’lumotlarni ishlash jarayonidagi yangicha yondashish nimani keltirib chiqardi?",
+   "variantlar": [
+    "Yangi texnologiyani",
+    "Yangi tilni",
+    "Yangi davlatni",
+    "Yangi valyutani"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "Savol-topshiriqda sinfingiz o‘quvchilarining qaysi ma’lumotlari bo‘yicha tuzilmalashtirilmagan ma’lumot shakllantirish so‘raladi?",
+   "variantlar": [
+    "Faqat sinf raqami",
+    "Familiyasi, ismi, tug‘ilgan yili, telefon raqami, fanlardan olgan baholari",
+    "Faqat uy manzili",
+    "Faqat telefon raqami"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "Matndagi misolda telefon raqami qanday ko‘rsatilgan?",
+   "variantlar": [
+    "+998933334455",
+    "+998971234567",
+    "+998947777777",
+    "+998901112233"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "Jadval ko‘rinishiga keltirilgan ma’lumotda nechta ustun (T/r, Familiyasi, Ismi, Otasining ismi, Yashash manzili, Telefon raqami) mavjud?",
+   "variantlar": [
+    "To‘rtta",
+    "Beshta",
+    "Yettita",
+    "Oltita"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "Uyga vazifada 10-sinf darsliklarining qaysi ma’lumotlari bo‘yicha tuzilmalashtirilmagan ma’lumot shakllantirish so‘raladi?",
+   "variantlar": [
+    "Mualliflari va chiqqan yili",
+    "Narxi va sahifalar soni",
+    "Nashriyoti va tiraji",
+    "Mundarijasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Uyga vazifada sinfingiz o‘quvchilarining qaysi ma’lumotlari bo‘yicha tuzilmalashtirilgan ma’lumot shakllantirish so‘raladi?",
+   "variantlar": [
+    "Sport yutuqlari",
+    "Familiyasi, ismi, tug‘ilgan yili",
+    "Uy manzili va telefon raqami",
+    "Fanlardan olgan baholari"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Nega ma’lumotlarni tanlash uchun turli modellardan foydalanish mumkin?",
+   "variantlar": [
+    "Chunki foydalanuvchilar yosh jihatdan farq qiladi",
+    "Chunki internet tezligi turlicha",
+    "Aynan bir axborotni kompyuterda joylashtirishning turli usullari mavjudligi uchun",
+    "Chunki kompyuterlar turlicha bo‘ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Ma’lumotlar resurslarini tashkil etishda asosiy maqsad nima?",
+   "variantlar": [
+    "Faylni kichraytirish",
+    "Printer xarajatini kamaytirish",
+    "Internetni tezlashtirish",
+    "Undan foydalanishda maksimal qulaylik va foyda ta’minlash"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Relyatsion model boshqa modellarga nisbatan qanday afzalligi bilan ajralib turadi (matn mazmuniga ko‘ra, jadval shaklidagi saqlash)?",
+   "variantlar": [
+    "Ma’lumotlarni tushunarli jadval ko‘rinishida saqlaydi",
+    "Faqat matn saqlaydi",
+    "Faqat rasm saqlaydi",
+    "Hech qanday ma’lumot saqlamaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "MOning ta’rifida “o‘zaro bog‘langan” so‘zi nimani anglatadi?",
+   "variantlar": [
+    "Ma’lumotlar shifrlangan ekanligini",
+    "Ma’lumotlar bir-biri bilan munosabatda (bog‘liqlikda) ekanligini",
+    "Ma’lumotlar alohida-alohida, bog‘liqsiz ekanligini",
+    "Ma’lumotlar faqat bitta joyda saqlanishini"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Agar o‘quvchi haqidagi ma’lumot erkin matn shaklida (tartibsiz) yozilsa, bu qanday ma’lumot turiga kiradi?",
+   "variantlar": [
+    "Relyatsion ma’lumot",
+    "Ierarxik ma’lumot",
+    "Tuzilmalashtirilmagan ma’lumot",
+    "Tuzilmalashtirilgan ma’lumot"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "Ma’lumotlar ombori tushunchasi qaysi sohalarda keng qo‘llaniladi?",
+   "variantlar": [
+    "Faqat sport musobaqalarida",
+    "Faqat oshxona menyusida",
+    "Faqat bayram tadbirlarida",
+    "Turli tashkilot va muassasalarda ma’lumotlarni saqlash va boshqarishda"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "MO modeli tanlanganda nimalarga e’tibor qaratish lozim (matn mazmuniga ko‘ra, ko‘plab omillarga bog‘liqligi)?",
+   "variantlar": [
+    "Ma’lumotning turi, hajmi va undan foydalanish maqsadiga",
+    "Faqat kompyuter rangiga",
+    "Faqat ekran o‘lchamiga",
+    "Faqat sichqoncha turiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "Daraxtsimon bog‘lanishga ega, lekin tugunlar tarmoqlanishiga cheklanish bo‘lmagan model qanday nomlanadi?",
+   "variantlar": [
+    "Chiziqli model",
+    "Tarmoq model",
+    "Ierarxik model",
+    "Relyatsion model"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

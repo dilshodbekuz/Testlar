@@ -1,0 +1,337 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Astronomiya",
+ "mavzu": "30-§. Spektral analiz",
+ "savollar": [
+  {
+   "savol": "Teleskopning xususiyatini xarakterlovchi ikki asosiy parametr nima?",
+   "variantlar": [
+    "Obyektivning diametri va fokus oraligi",
+    "Ajrata olish kuchi va kattalashtirish",
+    "Ko'zguning radiusi va yorug'lik kuchi",
+    "Okularning diametri va fokus oraligi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "F=ES formulada E qaysi kattalikni bildiradi?",
+   "variantlar": [
+    "Obyektivning radiusini",
+    "Obyektivning yuzasini",
+    "Obyektivning diametrini",
+    "Obyektivning yoritilganligini"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Teleskopning nisbiy teshigi (yorug'lik kuchi) qanday formula bilan ifodalanadi?",
+   "variantlar": [
+    "A=D·F",
+    "A=D²/F",
+    "A=D/F",
+    "A=F/D"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Reflektor turidagi teleskoplarda nisbiy teshikni necha gachagina olish mumkin?",
+   "variantlar": [
+    "0,2 gacha",
+    "0,33 gacha",
+    "1 gacha",
+    "0,1 gacha"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'zguli-linzali teleskoplarda nisbiy teshikni necha gachagina olish mumkin?",
+   "variantlar": [
+    "0,33 gacha",
+    "2 gacha",
+    "1 gacha",
+    "0,5 gacha"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Teleskopning kattalashtirishi qanday formula bilan topiladi?",
+   "variantlar": [
+    "k=F/f",
+    "k=F−f",
+    "k=F+f",
+    "k=F·f"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Teleskop kattalashtirishi formulasidagi f harfi nimani bildiradi?",
+   "variantlar": [
+    "Obyektivning fokus oraligini",
+    "Nisbiy teshikni",
+    "Obyektivning diametrini",
+    "Okularning fokus oraligini"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "δ=λ/D ifodasi nimani bildiradi?",
+   "variantlar": [
+    "Obyektiv yuzasini",
+    "Difraksion dog'chaning burchak diametrini",
+    "Nisbiy teshikni",
+    "Teleskop kattalashtirishini"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Teleskopda nurlanishni ko'z qayd qilayotganda, ajrata olish kuchini hisoblashda to'lqin uzunligi sifatida qaysi qiymat olinadi?",
+   "variantlar": [
+    "4000 Å",
+    "5500 Å",
+    "6500 Å",
+    "7000 Å"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "AQSHda qurilgan dunyodagi eng yirik refraktor obyektivining diametri qancha?",
+   "variantlar": [
+    "1,5 metr",
+    "40 santimetr",
+    "1 metr",
+    "6 metr"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'zbekistondagi eng yirik reflektor (Maydanak tog'laridagi) diametri AQSHdagi eng yirik refraktor diametridan necha marta katta?",
+   "variantlar": [
+    "1 marta",
+    "1,5 marta",
+    "6 marta",
+    "3 marta"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kitob shahri yaqinidagi qo'shaloq astrografning obyektiv diametri (40 sm) Maydanak reflektoridan (1,5 m) necha marta kichik?",
+   "variantlar": [
+    "3,75 marta",
+    "4,5 marta",
+    "2,5 marta",
+    "15 marta"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Obyektivning diametri 200 mm, fokus oraligi 2000 mm bo'lgan teleskopning nisbiy teshigi (A) qancha?",
+   "variantlar": [
+    "0,5",
+    "1",
+    "0,01",
+    "0,1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Obyektivning fokus oraligi 1500 mm, okularning fokus oraligi 15 mm bo'lgan teleskop necha marta kattalashtiradi?",
+   "variantlar": [
+    "15 marta",
+    "10 marta",
+    "100 marta",
+    "150 marta"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Obyektiv diametri 100 mm bo'lgan teleskopning maksimal foydali kattalashtirishi (obyektiv diametridan ≈2 marta katta qoidasiga ko'ra) taxminan necha marta bo'ladi?",
+   "variantlar": [
+    "400 marta",
+    "200 marta",
+    "50 marta",
+    "100 marta"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Obyekt tasvirining yoritilganligi (Ek) teleskopning qaysi kattaligiga proporsional?",
+   "variantlar": [
+    "Nisbiy teshikning kvadratiga",
+    "Obyektiv diametriga",
+    "Kattalashtirishga",
+    "Fokus oraligiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Teleskop obyektivi yig'adigan yorug'lik oqimi qanday formula bilan ifodalanadi?",
+   "variantlar": [
+    "F=EπR²",
+    "F=E/πR²",
+    "F=E−πR²",
+    "F=E+πR²"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "30 marta kattalashtiruvchi teleskopda, diametri 32′ bo'lgan Oy qanday ko'rinadi?",
+   "variantlar": [
+    "Faqat yarmi ko'rinadi",
+    "Butunlay ko'rinadi",
+    "Faqat mayda bir qismi ko'rinadi",
+    "Umuman ko'rinmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "300 marta kattalashtiruvchi teleskopda Oy nima uchun butunlay ko'rinmay qoladi?",
+   "variantlar": [
+    "Obyektiv diametri yetarli emasligi uchun",
+    "Ko'rish maydoni tasvir uchun torlik qilib qolgani uchun",
+    "Nisbiy teshik juda kichik bo'lgani uchun",
+    "Fokus oraligi juda qisqa bo'lgani uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nurlanish fotografik yo'l bilan qayd qilinganda, λ o'rniga qaysi kattalik olinadi?",
+   "variantlar": [
+    "Fotografik emulsiyaning spektral sezgirligi maksimumiga to'g'ri kelgan to'lqin uzunligi",
+    "Fotokuchaytirgich katodining spektral sezgirligi maksimumiga to'g'ri kelgan to'lqin uzunligi",
+    "Har doim 5500 Å qiymati",
+    "Ko'zning spektral sezgirligi maksimumiga to'g'ri kelgan to'lqin uzunligi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Obyektiv diametri D=120 mm, to'lqin uzunligi λ=5500 Å bo'lgan teleskopning difraksion dog'chasining burchak diametri (δ) taxminan necha radianga teng?",
+   "variantlar": [
+    "4,58×10⁻⁴ radian",
+    "2,29×10⁻⁶ radian",
+    "4,58×10⁻⁸ radian",
+    "4,58×10⁻⁶ radian"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nega teleskopning nisbiy teshigini istalgancha katta qilib bo'lmaydi?",
+   "variantlar": [
+    "Fokus oraligi doim o'zgarmas bo'lgani uchun",
+    "Yorug'lik tezligi cheklangani uchun",
+    "Obyektiv diametri cheklangani uchun",
+    "Bosh optik o'qdan tashqari aberratsiya vujudga kelgani uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nega ma'lum bir obyektivli teleskopda istalgancha kichik fokus oraliqli okular qo'llab, xohlagancha katta kattalashtirishga erishib bo'lmaydi?",
+   "variantlar": [
+    "Obyektiv diametri yetarli bo'lmay qoladi",
+    "Nisbiy teshik manfiy bo'lib qoladi",
+    "Okularning narxi oshib ketadi",
+    "Kattalashtirish ortgani sayin ko'rish maydoni tasvir uchun torlik qilib qoladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Shimoliy Kavkazdagi diametri 6 m bo'lgan reflektor uchun maksimal foydali kattalashtirish (obyektiv diametridan ≈2 marta katta qoidasiga ko'ra) taxminan necha marta bo'ladi?",
+   "variantlar": [
+    "6000 marta",
+    "9000 marta",
+    "18000 marta",
+    "12000 marta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Maydanak tog'laridagi reflektorning (D=1,5 m) nisbiy teshigi maksimal ruxsat etilgan qiymat (0,33)ga teng bo'lsa, uning fokus oraligi taxminan necha metr bo'ladi?",
+   "variantlar": [
+    "9 metr",
+    "4,5 metr",
+    "0,5 metr",
+    "1,5 metr"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nuqtaviy obyektning tasviri teleskopning fokal tekisligida qanday ko'rinishda hosil bo'ladi va bu nima bilan izohlanadi?",
+   "variantlar": [
+    "Difraksion halqalar bilan o'ralgan dumaloq dog'cha ko'rinishida, difraksiya hodisasi tufayli",
+    "Chiziq ko'rinishida, aberratsiya tufayli",
+    "Kvadrat ko'rinishida, obyektiv shakli tufayli",
+    "Aniq nuqta ko'rinishida, chunki teleskop ideal optik qurilma"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir xil to'lqin uzunligida ishlaydigan ikki teleskopdan birining obyektiv diametri ikkinchisidan 2 marta katta bo'lsa, qaysi teleskopning ajrata olish kuchi yaxshiroq va necha marta?",
+   "variantlar": [
+    "Diametri katta teleskopniki, 2 marta yaxshi",
+    "Diametri katta teleskopniki, 4 marta yaxshi",
+    "Ikkisi bir xil",
+    "Diametri kichik teleskopniki, 2 marta yaxshi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Teleskopning nisbiy teshigi (A) 2 marta oshirilsa, obyekt tasvirining yoritilganligi (Ek) necha marta oshadi?",
+   "variantlar": [
+    "3 marta",
+    "2 marta",
+    "4 marta",
+    "8 marta"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Maydanak tog'laridagi observatoriya taxminan 3000 metr balandlikka qurilgan. Bu balandlikning tanlanishini qanday izohlash mumkin?",
+   "variantlar": [
+    "Quyosh nuriga yaqinroq bo'lish uchun",
+    "Yerning tortishish kuchi kamligi uchun",
+    "Atmosferaning zichligi va uning kuzatishga salbiy ta'siri kamayishi uchun",
+    "Yer sathidan uzoqlashtirib, teleskop og'irligini kamaytirish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Obyektiv diametri D=150 mm bo'lgan teleskopda, maksimal foydali kattalashtirish qoidasiga ko'ra, okular yordamida 400 marta kattalashtirish qo'llanilsa, bu amaliy jihatdan qanday baholanadi?",
+   "variantlar": [
+    "Faqat yulduzlarni kuzatish uchun maqsadga muvofiq",
+    "Faqat Oyni kuzatish uchun maqsadga muvofiq",
+    "Foydasiz, chunki maksimal foydali kattalashtirishdan (≈300 marta) oshib ketgan",
+    "Maqsadga muvofiq, chunki kattalashtirish qancha katta bo'lsa shuncha yaxshi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

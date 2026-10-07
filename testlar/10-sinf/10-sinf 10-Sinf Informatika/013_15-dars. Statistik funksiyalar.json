@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "15-dars. Statistik funksiyalar",
+ "savollar": [
+  {
+   "savol": "15-dars qanday nomlanadi?",
+   "variantlar": [
+    "Statistik funksiyalar",
+    "Matematik funksiyalar",
+    "Matnli funksiyalar",
+    "Mantiqiy funksiyalar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "Statistik funksiyalardan foydalanish nechta usulda amalga oshiriladi?",
+   "variantlar": [
+    "To‘rt usulda",
+    "Ikki usulda",
+    "Bitta usulda",
+    "Uch usulda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "Birinchi usulda statistik funksiyalar qanday kiritiladi?",
+   "variantlar": [
+    "Faqat sichqoncha bilan",
+    "Printer orqali",
+    "Katakka to‘g‘ridan-to‘g‘ri kiritish orqali",
+    "Faqat menyudan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "Ikkinchi usulda statistik funksiyalar qanday kiritiladi?",
+   "variantlar": [
+    "Faqat klaviaturadan",
+    "Faqat Fayl bo‘limidan",
+    "Diagramma orqali",
+    "Formulalar satridagi fx bandi orqali"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "МАКС funksiyasi nimani hisoblaydi?",
+   "variantlar": [
+    "Berilgan sonlarning eng kattasini",
+    "Berilgan sonlarning eng kichigini",
+    "Sonlarning o‘rtachasini",
+    "Sonlar sonini"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "МИН funksiyasi nimani hisoblaydi?",
+   "variantlar": [
+    "Sonlarning ko‘paytmasini",
+    "Berilgan sonlarning eng kichigini",
+    "Berilgan sonlarning eng kattasini",
+    "Sonlarning yig‘indisini"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "СРЗНАЧ funksiyasi nimani hisoblaydi?",
+   "variantlar": [
+    "Berilgan sonlarning eng kattasini",
+    "Berilgan sonlarning ko‘paytmasini",
+    "Berilgan sonlarning o‘rta arifmetigini",
+    "Berilgan sonlarning yig‘indisini"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "СЧЁТЕСЛИ funksiyasi nimani bajaradi?",
+   "variantlar": [
+    "Kataklarni o‘chiradi",
+    "Kataklarni bo‘yaydi",
+    "Kataklarni birlashtiradi",
+    "Shartni qanoatlantiruvchi bo‘sh bo‘lmagan kataklar sonini sanaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "1-mashqda D8 katakda nima hisoblanishi so‘raladi?",
+   "variantlar": [
+    "Eng katta va eng kichik sonning o‘rta arifmetigi",
+    "Barcha sonlarning yig‘indisi",
+    "Faqat eng katta son",
+    "Faqat eng kichik son"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "1-mashqda sonlar qaysi blokka kiritiladi?",
+   "variantlar": [
+    "B1:C1",
+    "A1:C5",
+    "A1:A5",
+    "D1:D5"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "1-mashqda D6 katakka qanday formula kiritiladi?",
+   "variantlar": [
+    "=СРЗНАЧ(A1:C5)",
+    "=СУММ(A1:C5)",
+    "=МАКС(A1:C5)",
+    "=МИН(A1:C5)"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "1-mashqda D7 katakka qanday formula kiritiladi?",
+   "variantlar": [
+    "=МАКС(A1:C5)",
+    "=СРЗНАЧ(A1:C5)",
+    "=СЧЁТЕСЛИ(A1:C5)",
+    "=МИН(A1:C5)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "1-mashqda D8 katakka qanday formula kiritiladi?",
+   "variantlar": [
+    "=СРЗНАЧ(D6:D7)",
+    "=МАКС(D6:D7)",
+    "=СУММ(D6:D7)",
+    "=МИН(D6:D7)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "1-mashq jadvalida D6 (eng katta son) nechaga teng?",
+   "variantlar": [
+    "12",
+    "100",
+    "44",
+    "33"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "1-mashq jadvalida D7 (eng kichik son) nechaga teng?",
+   "variantlar": [
+    "1",
+    "3",
+    "-22",
+    "-8"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "1-mashq jadvalida D8 (o‘rta arifmetik) nechaga teng?",
+   "variantlar": [
+    "78",
+    "61",
+    "22",
+    "39"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "Ikkinchi usulda fx tugmasi bosilganda qanday oyna ochiladi?",
+   "variantlar": [
+    "Мастер функций oynasi",
+    "Formatlash oynasi",
+    "Chop etish oynasi",
+    "Saqlash oynasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "Мастер функций oynasida statistik funksiyalar qaysi kategoriya ostida joylashgan?",
+   "variantlar": [
+    "Логические",
+    "Статистические",
+    "Математические",
+    "Текстовые"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "Statistik funksiyalar ro‘yxatida МАКС bilan birga qanday funksiyalar ham ko‘rsatilgan (oynadagi ro‘yxatda)?",
+   "variantlar": [
+    "ЕСЛИ, И, ИЛИ",
+    "ФАКТР, ABS, LN",
+    "МАКСА, МЕДИАНА, МИН, МИНА",
+    "СЦЕПИТЬ, ПОВТОР"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "D8=СРЗНАЧ(D6:D7) formulasi nechta katakning o‘rtachasini hisoblaydi?",
+   "variantlar": [
+    "Besh katak",
+    "O‘n katak",
+    "Bitta katak",
+    "Ikkita katak (D6 va D7)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "Savol-topshiriqda МАКС funksiyasini tanlash ketma-ketligini tushuntirish qaysi oyna orqali ko‘rsatiladi?",
+   "variantlar": [
+    "Мастер функций oynasi orqali",
+    "Fayl bo‘limi orqali",
+    "Chop etish oynasi orqali",
+    "Diagramma oynasi orqali"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Savol-topshiriqda berilgan 10 ta son ichidan eng katta son nechta usulda topilishi so‘raladi?",
+   "variantlar": [
+    "To‘rt usulda",
+    "Ikki usulda",
+    "Bitta usulda",
+    "Uch usulda"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Uyga vazifada 4,6,8,9,10 sonlarining nimasi hisoblanadi?",
+   "variantlar": [
+    "Yig‘indisi",
+    "Ko‘paytmasi",
+    "O‘rta geometrigi",
+    "O‘rta arifmetigi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Uyga vazifada mustaqil ravishda qaysi funksiyaga mashq o‘ylab, bajarish so‘raladi?",
+   "variantlar": [
+    "МАКС",
+    "МИН",
+    "СРЗНАЧ",
+    "СЧЁТЕСЛИ"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "СЧЁТЕСЛИ funksiyasi argumentida nimalar ko‘rsatiladi?",
+   "variantlar": [
+    "Kataklar bloki va tekshiriladigan shart",
+    "Faqat bitta son",
+    "Faqat matn",
+    "Faqat rang kodi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Agar A1:C5 blokida 15 ta katak bo‘lib, ularning barchasi to‘ldirilgan bo‘lsa, МАКС(A1:C5) nechta katak orasidan eng kattasini tanlaydi?",
+   "variantlar": [
+    "1 ta katak orasidan",
+    "15 ta katak orasidan",
+    "5 ta katak orasidan",
+    "3 ta katak orasidan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Statistik funksiyalardan foydalanishning amaliy ahamiyati nimada?",
+   "variantlar": [
+    "Internetga ulaydi",
+    "Printerni sozlaydi",
+    "Katta hajmdagi ma’lumotlarni tezda tahlil qilish imkonini beradi",
+    "Faylni kichraytiradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "D6 va D7 kataklaridagi natijalar (МАКС va МИН) qaysi funksiyaga argument sifatida beriladi?",
+   "variantlar": [
+    "МАКС funksiyasiga",
+    "СЧЁТЕСЛИ funksiyasiga",
+    "ЕСЛИ funksiyasiga",
+    "СРЗНАЧ funksiyasiga"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "Agar blokdagi sonlar orasida manfiy sonlar ham bo‘lsa, МИН funksiyasi natijasiga qanday ta’sir qiladi?",
+   "variantlar": [
+    "Eng kichik (eng manfiy) sonni to‘g‘ri topadi",
+    "Manfiy sonlarni e’tiborga olmaydi",
+    "Xatolik chiqaradi",
+    "Natijani 0 qiladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "СРЗНАЧ funksiyasi matematik jihatdan qanday amalga mos keladi?",
+   "variantlar": [
+    "Eng katta sonni topish",
+    "Sonlar yig‘indisini sonlar soniga bo‘lish",
+    "Sonlarni ko‘paytirish",
+    "Sonlarni ayirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

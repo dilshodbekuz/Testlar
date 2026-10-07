@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Fizika",
+ "mavzu": "Laboratoriya ishi: Tok manbayining EYuK va ichki qarshiligi",
+ "savollar": [
+  {
+   "savol": "Laboratoriya ishining maqsadi nima?",
+   "variantlar": [
+    "Tashqi qarshilikni aniqlash",
+    "Faqat ichki qarshilikni aniqlash",
+    "EYuK va ichki qarshilikni aniqlash",
+    "Faqat EYuKni aniqlash"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Lab ishi uchun kerakli asboblar qatorini ko'rsating.",
+   "variantlar": [
+    "Faqat galvanometr va shunt",
+    "Faqat ampermetr va EYuK manbai",
+    "Faqat voltmetr va reostat",
+    "Tok manbayi, ampermetr, voltmetr, uzib-ulagich, simlar, qarshiliklar"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Uzib-ulagich ochiq holatda voltmetr ko'rsatishi nimaga teng deb olinadi?",
+   "variantlar": [
+    "Tashqi qarshilikka",
+    "Ichki qarshilikka",
+    "Tok kuchiga",
+    "Manbaning EYuKiga (E)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Lab ishida zanjirga ketma-ket nechta har xil qarshilik ulab tajriba o'tkaziladi?",
+   "variantlar": [
+    "2 ta",
+    "1 ta",
+    "4 ta",
+    "3 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Lab ishida ishlatiladigan qarshiliklarning qiymatlari qanday?",
+   "variantlar": [
+    "10 Ω va 20 Ω",
+    "20 Ω va 40 Ω",
+    "5 Ω va 15 Ω",
+    "15 Ω va 25 Ω"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tok manbayining ichki qarshiligi nima hisobiga hosil bo'ladi?",
+   "variantlar": [
+    "Tashqi simlarning qarshiligi hisobiga",
+    "Manba ichidagi moddaning qarshiligi hisobiga",
+    "Ampermetrning qarshiligi hisobiga",
+    "Voltmetrning qarshiligi hisobiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektr zanjirining manba ichidagi qismi qanday ataladi?",
+   "variantlar": [
+    "Tashqi zanjir",
+    "Berk zanjir",
+    "Ochiq zanjir",
+    "Ichki zanjir"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Manbaning EYuK deganda nima tushuniladi?",
+   "variantlar": [
+    "Manbadagi tok kuchi",
+    "Birlik zaryadni ko'chirishda chet kuchlarning bajargan ishi",
+    "Manbaning tashqi qarshiligi",
+    "Manbadan o'tgan zaryad miqdori"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Galvanometrga shunt qanday ulanadi?",
+   "variantlar": [
+    "Ketma-ket",
+    "Diagonal shaklda",
+    "Na ketma-ket, na parallel",
+    "Parallel"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Galvanometrni voltmetr sifatida ishlatish uchun qo'shimcha qarshilik qanday ulanadi?",
+   "variantlar": [
+    "Parallel",
+    "Qarama-qarshi",
+    "Ketma-ket",
+    "Aylana shaklda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Lab ishida 1-tajribada 10 Ω, 2-tajribada 20 Ω qarshilik ulanishining maqsadi nima?",
+   "variantlar": [
+    "EYuKni ikki marta oshirish",
+    "Voltmetrni kalibrlash",
+    "Topilgan ichki qarshiliklarni solishtirish",
+    "Ampermetrni sinash"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "n = I / I_A nisbati nimani ko'rsatadi?",
+   "variantlar": [
+    "EYuK qiymatini",
+    "Ampermetr xatosini",
+    "Shunt ulangandan keyin o'lchash chegarasining necha marta ortganini",
+    "Ichki qarshilikni"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Galvanometrga shunt ulanganda asbob shkalasining bo'linish darajasi necha marta ortadi?",
+   "variantlar": [
+    "n marta",
+    "O'zgarmaydi",
+    "(n+1) marta",
+    "(n-1) marta"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Voltmetrga qo'shimcha qarshilik ulanganda uning kuchlanishni o'lchash chegarasi qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Ikki marta kamayadi",
+    "n marta kamayadi",
+    "n marta ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shunt qarshiligi r = R_A/(n-1) formulasida R_A nimani bildiradi?",
+   "variantlar": [
+    "Voltmetr qarshiligini",
+    "Tashqi zanjir qarshiligini",
+    "Shunt qarshiligini",
+    "Ampermetrning ichki qarshiligini"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Masala yechish namunasidagi kabi, ampermetrning ichki qarshiligi 0,12 Ω, shunt qarshiligi 0,04 Ω bo'lsa, n qiymati nechaga teng?",
+   "variantlar": [
+    "2",
+    "4",
+    "5",
+    "3"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi shartda ampermetr 5 A ko'rsatganda, zanjirning tarmoqlanmagan qismidagi tok kuchi nechaga teng?",
+   "variantlar": [
+    "20 A",
+    "15 A",
+    "10 A",
+    "25 A"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Voltmetr uchun qo'shimcha qarshilik formulasi r = R(n-1) da R nimani bildiradi?",
+   "variantlar": [
+    "Tashqi qarshilikni",
+    "Qo'shimcha qarshilikni",
+    "Galvanometrning qarshiligini",
+    "Manba ichki qarshiligini"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Galvanometrning qarshiligi 200 Ω bo'lib, unga ketma-ket 600 Ω qo'shimcha qarshilik ulansa, o'lchash chegarasi necha marta ortadi (n)?",
+   "variantlar": [
+    "4",
+    "5",
+    "2",
+    "3"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Lab ishida r = (U_V - U_2)/I_A formulasi yordamida nima hisoblanadi?",
+   "variantlar": [
+    "Manbaning ichki qarshiligi",
+    "Tashqi qarshilik",
+    "Ampermetr qarshiligi",
+    "EYuK"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Lab ishida uzib-ulagich ochiq holatda voltmetr 1,6 V ko'rsatdi. Ulagich ulangandan keyin voltmetr ko'rsatishi (U2) 1,5 V ga, ampermetr esa 0,5 A ga teng bo'ldi. Manbaning ichki qarshiligi nechaga teng?",
+   "variantlar": [
+    "0,4 Ω",
+    "0,2 Ω",
+    "0,1 Ω",
+    "0,3 Ω"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi tajribada 20 Ω li qarshilik ulanganda ham xuddi shu manba uchun ichki qarshilik qanday natija berishi kutiladi?",
+   "variantlar": [
+    "Deyarli bir xil (taxminan 0,2 Ω atrofida) bo'ladi",
+    "2 marta kichik bo'ladi",
+    "2 marta katta bo'ladi",
+    "Nolga teng bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar lab ishida 1-tajribada r1 va 2-tajribada r2 bir-biriga juda yaqin chiqsa, bu natija nimani tasdiqlaydi?",
+   "variantlar": [
+    "Voltmetr noto'g'ri ulanganini",
+    "EYuK o'zgarganini",
+    "Ampermetr buzilganini",
+    "Ichki qarshilikning tashqi qarshilikka bog'liq emasligini"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Batareyaning EYuK 1,55 V. Uni qarshiligi 3 Ω bo'lgan tashqi qarshilikka ulanganda qisqichlardagi kuchlanish 0,95 V bo'ldi. Batareyaning ichki qarshiligi taxminan nechaga teng?",
+   "variantlar": [
+    "2,9 Ω",
+    "1,9 Ω",
+    "0,9 Ω",
+    "3,9 Ω"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "EYuK 30 V bo'lgan batareya ulangan zanjirdagi tok kuchi 3 A, qisqichlardagi kuchlanish 18 V. Batareyaning ichki qarshiligi nechaga teng?",
+   "variantlar": [
+    "6 Ω",
+    "2 Ω",
+    "3 Ω",
+    "4 Ω"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi masala shartida tashqi zanjir qarshiligi nechaga teng?",
+   "variantlar": [
+    "4 Ω",
+    "8 Ω",
+    "5 Ω",
+    "6 Ω"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Manbani 5 Ω li qarshilikka ulanganda zanjirdagi tok kuchi 5 A, 2 Ω li qarshilikka ulanganda 8 A bo'ldi. Manbaning ichki qarshiligi nechaga teng?",
+   "variantlar": [
+    "5 Ω",
+    "2 Ω",
+    "3 Ω",
+    "4 Ω"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi masala shartida manbaning EYuKi nechaga teng?",
+   "variantlar": [
+    "30 V",
+    "45 V",
+    "35 V",
+    "40 V"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tok manbai elementining EYuKi 1,5 V, qisqa tutashuv toki 30 A. Elementning ichki qarshiligi nechaga teng?",
+   "variantlar": [
+    "0,05 Ω",
+    "0,5 Ω",
+    "0,02 Ω",
+    "0,1 Ω"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi elementni qarshiligi 1 Ω bo'lgan g'altakka ulansa, element qutblaridagi kuchlanish taxminan nechaga teng bo'ladi?",
+   "variantlar": [
+    "1,2 V",
+    "1,43 V",
+    "1,0 V",
+    "1,5 V"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

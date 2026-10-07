@@ -1,0 +1,337 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Astronomiya",
+ "mavzu": "22-§. Planetagacha bo'lgan masofalarni aniqlash",
+ "savollar": [
+  {
+   "savol": "Sutkalik parallaks burchagi deb nimaga aytiladi?",
+   "variantlar": [
+    "Ikki yulduz orasidagi burchak masofa",
+    "Planetaning o'z o'qi atrofida aylanish burchagi",
+    "Yerning Quyosh atrofida aylanish burchagi",
+    "Osmon jismidan va kuzatuvchidan o'tgan Yer radiusi uchlariga tortilgan to'g'ri chiziqlar orasidagi burchak"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yoritgich kuzatuvchiga nisbatan gorizontda joylashganda hosil bo'ladigan parallaks qanday ataladi?",
+   "variantlar": [
+    "Sinodik parallaks",
+    "Yillik parallaks",
+    "Siderik parallaks",
+    "Sutkalik gorizontal parallaks"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Parallaks burchagi qanday birliklarda o'lchanadi?",
+   "variantlar": [
+    "Metrlarda",
+    "Graduslarda",
+    "Radianlarda",
+    "Yoy sekundlarida"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Planetaning sutkalik parallaks burchagini topish uchun Yerni bir vaqtning o'zida necha nuqtadan kuzatish kerak?",
+   "variantlar": [
+    "Uch nuqtadan",
+    "To'rt nuqtadan",
+    "Bitta nuqtadan",
+    "Ikki nuqtadan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Radiolokatsion metodda Quyosh sistemasi jismlarigacha bo'lgan masofani aniqlash uchun nima yuboriladi?",
+   "variantlar": [
+    "Yorug'lik nuri",
+    "Tovush to'lqini",
+    "Radiosignal (elektromagnit to'lqin)",
+    "Lazer nuri"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Radioto'lqinning tarqalish tezligi nimaga teng?",
+   "variantlar": [
+    "Yer aylanish tezligiga",
+    "Yorug'lik tezligiga",
+    "Planeta aylanish tezligiga",
+    "Tovush tezligiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "1 astronomik birlik necha kilometrga teng?",
+   "variantlar": [
+    "300000 km",
+    "6371 km",
+    "149598500 km",
+    "384400 km"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Radiolokatsion metod bo'yicha osmon jismigacha bo'lgan masofa (L) qaysi formula bilan topiladi?",
+   "variantlar": [
+    "L = c/t",
+    "L = c·t",
+    "L = 2c·t",
+    "L = c·t/2"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Planeta radiusini aniqlashda qanday uchburchaklardan foydalaniladi?",
+   "variantlar": [
+    "Ixtiyoriy uchburchaklardan",
+    "To'g'ri burchakli uchburchaklardan",
+    "Teng tomonli uchburchaklardan",
+    "Teng yonli uchburchaklardan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "sin1″ qancha deb olinadi?",
+   "variantlar": [
+    "1/3600",
+    "1/360",
+    "1/57,3",
+    "1/206265"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sutkalik gorizontal parallaks p0″ Yer radiusi R⊕ va planetagacha masofa L orqali qanday formula bilan ifodalanadi?",
+   "variantlar": [
+    "sin p0″ = R⊕·L",
+    "sin p0″ = L/R⊕",
+    "sin p0″ = R⊕/L",
+    "sin p0″ = R⊕ + L"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sin p0″ = R⊕/L formulasidan L ni ifodalang.",
+   "variantlar": [
+    "L = R⊕/sin p0″",
+    "L = R⊕ + sin p0″",
+    "L = R⊕·sin p0″",
+    "L = sin p0″/R⊕"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "OPO′ uchburchakdan planetaning ko'rinma radiusi ρ qanday formula bilan aniqlanadi?",
+   "variantlar": [
+    "sinρ = r + L",
+    "sinρ = L/r",
+    "sinρ = r·L",
+    "sinρ = r/L"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sinρ = r/L formulasidan planeta radiusi r ni ifodalang.",
+   "variantlar": [
+    "r = L/sinρ",
+    "r = L + sinρ",
+    "r = sinρ/L",
+    "r = L·sinρ"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "sin p0″ = p0″·sin1″ tengligi nima uchun qo'llaniladi?",
+   "variantlar": [
+    "Yer radiusini hisoblash uchun",
+    "Kichik burchaklar uchun sinus funksiyasini soddalashtirish (approksimatsiya) uchun",
+    "Burchakni gradusga aylantirish uchun",
+    "Katta burchaklarni aniq hisoblash uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "OEP to'g'ri burchakli uchburchakda to'g'ri burchak qaysi nuqtada joylashgan?",
+   "variantlar": [
+    "P nuqtasida",
+    "Uchburchakda to'g'ri burchak yo'q",
+    "O nuqtasida",
+    "E nuqtasida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "OPO′ uchburchakda OP′ tomoni nimaga teng?",
+   "variantlar": [
+    "Planetagacha masofa L ga",
+    "Yer radiusi R⊕ ga",
+    "Planeta radiusi r ga",
+    "Parallaks burchagi p0 ga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Oy kabi ko'rinma radiusi (ρ) katta bo'lgan jismlar uchun hisoblashda nega sinρ approksimatsiyasiz (to'g'ridan-to'g'ri) ishlatiladi?",
+   "variantlar": [
+    "Chunki Oyning parallaksi nolga teng",
+    "Chunki Oy Yerga juda yaqin va ρ burchagi katta bo'lib, kichik burchak approksimatsiyasi noto'g'ri natija beradi",
+    "Chunki Oy radiusi noma'lum",
+    "Chunki Oy Yerdan juda uzoq"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Planeta radiusi (r) ni Yer radiusi (R⊕) birligida ifodalovchi formula qaysi?",
+   "variantlar": [
+    "r/R⊕ = ρ″ + p0″",
+    "r/R⊕ = p0″/ρ″",
+    "r/R⊕ = ρ″/p0″",
+    "r/R⊕ = ρ″·p0″"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Radiolokatsion metodda t vaqti nimani bildiradi?",
+   "variantlar": [
+    "Yorug'likning Quyoshdan Yerga yetib kelish vaqtini",
+    "Yerning o'z o'qi atrofida aylanish vaqtini",
+    "Planetaning Quyosh atrofida bir marta aylanish vaqtini",
+    "Radiosignalning Yerdan chiqib, planetaga borib, qaytib kelgunga qadar ketgan vaqtini"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yer radiusi R⊕=6400 km, planetaning sutkalik gorizontal parallaksi p0″=10″ bo'lsa, planetagacha bo'lgan masofa (L) taxminan nechaga teng? (sin1″=1/206265)",
+   "variantlar": [
+    "L ≈ 1,32·10^7 km",
+    "L ≈ 1,32·10^8 km",
+    "L ≈ 2,64·10^8 km",
+    "L ≈ 6,4·10^7 km"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Radiolokatsion usulda signal planetaga borib-qaytib kelishi uchun t=1000 s vaqt ketgan bo'lsa, yorug'lik tezligi c=3·10^5 km/s bo'lganda planetagacha masofa (L) qancha?",
+   "variantlar": [
+    "L = 3·10^8 km",
+    "L = 1,5·10^8 km",
+    "L = 7,5·10^7 km",
+    "L = 1,5·10^7 km"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir planetaning sutkalik gorizontal parallaksi p0″=8″, ko'rinma radiusi ρ″=16″, Yer radiusi R⊕=6400 km bo'lsa, planeta radiusi (r) qancha?",
+   "variantlar": [
+    "r = 25600 km",
+    "r = 3200 km",
+    "r = 6400 km",
+    "r = 12800 km"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar planetaning sutkalik gorizontal parallaksi (p0″) 2 marta kamaysa, unga qadar bo'lgan masofa (L) qanday o'zgaradi?",
+   "variantlar": [
+    "4 marta ortadi",
+    "2 marta kamayadi",
+    "O'zgarmaydi",
+    "2 marta ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Radiolokatsiyada signalning borib-qaytib kelish vaqti (t) 2 marta ortsa, hisoblangan masofa (L) qanday o'zgaradi?",
+   "variantlar": [
+    "2 marta kamayadi",
+    "2 marta ortadi",
+    "4 marta ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nega planetaning sutkalik parallaks burchagini aniqlash uchun Yerni bitta emas, balki ikki nuqtadan (bir vaqtning o'zida) kuzatish zarur?",
+   "variantlar": [
+    "Chunki Yer aylanmaydi",
+    "Chunki bitta kuzatuvchi charchab qoladi",
+    "Chunki planeta faqat kechasi ko'rinadi",
+    "Chunki bitta nuqtadan kuzatishda planeta yulduzlar fonida siljishi kuzatilmaydi va parallaktik burchakni aniqlab bo'lmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "L = R⊕/sin p0″ formulasiga ko'ra, boshqa shartlar o'zgarmas holda Yer radiusi (R⊕) kattaroq olinsa, hisoblangan L qanday o'zgaradi?",
+   "variantlar": [
+    "L nolga aylanadi",
+    "L kattalashadi",
+    "L o'zgarmaydi",
+    "L kichrayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Parallaks metodi va radiolokatsion metod bilan topilgan masofa natijalarining bir-biriga mos kelishi nimani tasdiqlaydi?",
+   "variantlar": [
+    "Planetalarning aylanmasligini",
+    "Quyoshning harakatsiz ekanini",
+    "Yerning tekis ekanini",
+    "Ikkala metodning ham to'g'ri va ishonchli ekanini"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "L = R⊕·206265/p0″ formulasiga ko'ra, L kattaligi qaysi parametrlarga bog'liq?",
+   "variantlar": [
+    "Hech qaysisiga bog'liq emas",
+    "R⊕ va p0″ ikkisiga ham",
+    "Faqat R⊕ ga",
+    "Faqat p0″ ga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yer radiusi R⊕=6400 km, planetaning ko'rinma radiusi ρ″=20″, sutkalik gorizontal parallaksi p0″=5″ bo'lsa, planeta radiusi (r) qancha?",
+   "variantlar": [
+    "r = 6400 km",
+    "r = 25600 km",
+    "r = 12800 km",
+    "r = 51200 km"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

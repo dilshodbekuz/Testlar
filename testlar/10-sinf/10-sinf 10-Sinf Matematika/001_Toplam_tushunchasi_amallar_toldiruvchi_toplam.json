@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Matematika",
+ "mavzu": "To'plam tushunchasi, to'plamlar ustida amallar. To'ldiruvchi to'plam",
+ "savollar": [
+  {
+   "savol": "To'plam tushunchasiga eng mos ta'rifni tanlang (G.Kantor bo'yicha).",
+   "variantlar": [
+    "Fikrda bir butun deb qaraluvchi ko'plik",
+    "Faqat sonlardan iborat ro'yxat",
+    "Tartiblangan juftliklar yig'indisi",
+    "Faqat harflardan tashkil topgan ro'yxat"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "{6, 11} to'plami nechta elementga ega?",
+   "variantlar": [
+    "1",
+    "2",
+    "3",
+    "0"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A = {1, 2, 3, 4, 5, 6, 7} bo'lsa, quyidagilardan qaysi biri to'g'ri?",
+   "variantlar": [
+    "9 ∈ A",
+    "4 ∉ A",
+    "4 ∈ A",
+    "8 ∈ A"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bo'sh to'plam qanday belgilanadi?",
+   "variantlar": [
+    "{0}",
+    "U",
+    "A'",
+    "∅"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A = {2, 3, 5, 8, 13, 21} to'plam haqida to'g'ri fikrni tanlang.",
+   "variantlar": [
+    "To'plam chekli, n(A) = 6",
+    "To'plam cheksiz",
+    "n(A) = 5",
+    "Bu bo'sh to'plam"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "n(∅) nimaga teng?",
+   "variantlar": [
+    "1",
+    "0",
+    "∞",
+    "Aniqlanmagan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A to'plamning barcha elementlari B to'plamga tegishli bo'lsa, bu munosabat qanday yoziladi?",
+   "variantlar": [
+    "A = B",
+    "B ⊆ A",
+    "A ⊆ B",
+    "A ∩ B = ∅"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A va B to'plamlarning kamida bittasiga tegishli elementlardan tashkil topgan to'plam nima deyiladi?",
+   "variantlar": [
+    "Kesishma",
+    "To'ldiruvchi",
+    "Qism to'plam",
+    "Birlashma"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A va B to'plamlarning umumiy elementlaridan tashkil topgan to'plam qanday ataladi?",
+   "variantlar": [
+    "Kesishma",
+    "Birlashma",
+    "To'ldiruvchi",
+    "Universal to'plam"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "U universal to'plamning A to'plamga tegishli bo'lmagan barcha elementlari to'plami nima deyiladi?",
+   "variantlar": [
+    "Qism to'plam",
+    "To'ldiruvchi",
+    "Kesishma",
+    "Bo'sh to'plam"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A = {1, 3, 4}, B = {2, 3, 5} bo'lsa, A ∩ B ni toping.",
+   "variantlar": [
+    "{1, 2}",
+    "{3, 4, 5}",
+    "{3}",
+    "∅"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A = {1, 3, 4}, B = {2, 3, 5} bo'lsa, A ∪ B ni toping.",
+   "variantlar": [
+    "{3}",
+    "{1, 3, 4}",
+    "{1, 3, 4, 2}",
+    "{1, 2, 3, 4, 5}"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "U = {1, 2, 3, 4, 5, 6, 7, 8}, A = {1, 3, 5, 7} bo'lsa, A' ni toping.",
+   "variantlar": [
+    "{2, 4, 6, 8}",
+    "{1, 3, 5, 7}",
+    "{1, 2, 3, 4, 5, 6, 7, 8}",
+    "∅"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A = {2, 4, 6, 8, 10} to'plamning elementlar soni n(A) nechaga teng?",
+   "variantlar": [
+    "4",
+    "5",
+    "6",
+    "10"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "U = {1, 2, ..., 10}, A = {2, 4, 6, 8, 10} bo'lsa, A' ni toping.",
+   "variantlar": [
+    "{2, 4, 6, 8, 10}",
+    "∅",
+    "{1, 3, 5, 7, 9}",
+    "{1, 2, ..., 10}"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "n(A) = 6, n(B) = 8, n(A ∩ B) = 3 bo'lsa, n(A ∪ B) ni toping.",
+   "variantlar": [
+    "17",
+    "14",
+    "3",
+    "11"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A = {3, 5, 7, 8, 10}, B = {4, 6, 9, 10} to'plamlar haqida to'g'ri fikrni tanlang.",
+   "variantlar": [
+    "A ∩ B = {10}, ular o'zaro kesishadi",
+    "A ∩ B = ∅",
+    "A ⊆ B",
+    "B ⊆ A"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "{a, b} to'plamning barcha qism to'plamlari sonini toping.",
+   "variantlar": [
+    "2",
+    "4",
+    "3",
+    "8"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A = {x | 2 ≤ x ≤ 7, x ∈ Z} to'plamning elementlari sonini toping.",
+   "variantlar": [
+    "5",
+    "7",
+    "6",
+    "8"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "n(U) = 15, n(A) = 6 bo'lsa, n(A') ni toping.",
+   "variantlar": [
+    "6",
+    "15",
+    "21",
+    "9"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "n(A) = 10, n(B) = 12, n(A ∩ B) = 4 bo'lsa, n(A ∪ B) ni toping.",
+   "variantlar": [
+    "18",
+    "22",
+    "26",
+    "4"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A = {4 soning 40 dan kichik karralilari}, B = {6 soning 40 dan kichik karralilari}. A ∩ B nechta elementga ega?",
+   "variantlar": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "U = N, P = {12 ning bo'luvchilari}, Q = {18 ning bo'luvchilari} bo'lsa, P ∩ Q ni toping.",
+   "variantlar": [
+    "{1, 2, 3}",
+    "{2, 3, 6}",
+    "{1, 2, 3, 6}",
+    "{1, 2, 3, 4, 6}"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Uchta to'plam uchun n(A ∪ B ∪ C) ni hisoblash formulasini tanlang.",
+   "variantlar": [
+    "n(A)+n(B)+n(C)",
+    "n(A)+n(B)+n(C)-n(A∩B)",
+    "n(A)+n(B)+n(C)-n(A∩B)-n(B∩C)-n(A∩C)",
+    "n(A)+n(B)+n(C)-n(A∩B)-n(B∩C)-n(A∩C)+n(A∩B∩C)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A = {6 soning 31 dan kichik karralilari}, B = {30 ning bo'luvchilari}. A ∩ B ni toping.",
+   "variantlar": [
+    "{6, 30}",
+    "{6}",
+    "{30}",
+    "∅"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "U = {x | 0 < x ≤ 12, x ∈ Z}, A = {x | 2 ≤ x ≤ 7, x ∈ Z}, B = {x | 3 ≤ x ≤ 9, x ∈ Z}. A ∩ B ni toping.",
+   "variantlar": [
+    "{2,3,4,5,6,7,8,9}",
+    "{3,4,5,6,7}",
+    "{2,3}",
+    "{8,9}"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "n(A) = 20, n(B) = 15, n(A ∩ B) = 5 bo'lsa, n(A ∪ B) ni toping.",
+   "variantlar": [
+    "35",
+    "40",
+    "30",
+    "5"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A = {12 ning bo'luvchilari}, B = {27 ning bo'luvchilari}. A ∩ B ni toping.",
+   "variantlar": [
+    "{1}",
+    "{3}",
+    "{1, 2, 3}",
+    "{1, 3}"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "U = N, P = {25 dan kichik tub sonlar}, Q = {2, 4, 5, 11, 12, 15}. P ∩ Q ni toping.",
+   "variantlar": [
+    "{2, 5, 11}",
+    "{2, 4, 5}",
+    "{5, 11, 15}",
+    "{2, 4, 11, 12}"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "n(U) = 15, n(P) = 6, n(Q') = 4 bo'lsa (demak n(Q) = 11), n(P') ni toping.",
+   "variantlar": [
+    "6",
+    "9",
+    "11",
+    "4"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

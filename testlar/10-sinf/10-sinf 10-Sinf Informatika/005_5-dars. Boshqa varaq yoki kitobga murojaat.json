@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "5-dars. Boshqa varaq yoki kitobga murojaat",
+ "savollar": [
+  {
+   "savol": "5-dars qanday nomlanadi?",
+   "variantlar": [
+    "Boshqa varaq yoki kitobga murojaat",
+    "Mantiqiy funksiyalar",
+    "Formulalar satridan foydalanish",
+    "Matnli funksiyalar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "1-mashqda nechta savdo shoxobchasi (Market) ma’lumotlari birlashtiriladi?",
+   "variantlar": [
+    "Beshta",
+    "Uchta",
+    "Ikkita",
+    "To‘rtta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "1-mashqda har bir Market ma’lumoti qayerga kiritiladi?",
+   "variantlar": [
+    "Bitta katakka",
+    "Diagrammaga",
+    "Alohida varaqqa",
+    "Alohida faylga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "4-varaqda umumlashtirilgan ma’lumot hosil qilish uchun B3 katakka qanday formula kiritiladi?",
+   "variantlar": [
+    "=B3+B3+B3",
+    "=СУММ(B1:B3)",
+    "=B1*B2*B3",
+    "=Лист1!B3+Лист2!B3+Лист3!B3"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "2-mashqda o‘quvchilarning qaysi uchta fandan olgan baholari alohida kitoblarda hosil qilinadi?",
+   "variantlar": [
+    "Matematika, fizika, informatika",
+    "Tarix, geografiya, biologiya",
+    "Ona tili, adabiyot, chet tili",
+    "Kimyo, fizika, matematika"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "Alohida fayllardagi ma’lumotlarni umumiy kitobga bog‘lash uchun qaysi bo‘lim ishlatiladi?",
+   "variantlar": [
+    "Diagrammalar",
+    "Maxsus qo‘yish (Специальная вставка)",
+    "Formulalar kutubxonasi",
+    "Saralash va filtr"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "Maxsus qo‘yish oynasida bog‘lanishni qo‘yish uchun qaysi tugma bosiladi?",
+   "variantlar": [
+    "Закрыть (yopish)",
+    "Очистить (tozalash)",
+    "Вставить связь (bog‘lanishni qo‘yish)",
+    "Отмена (bekor qilish)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "Bog‘lanishlarni yangilash uchun qaysi menyu bo‘limi tanlanadi?",
+   "variantlar": [
+    "Главная (Bosh)",
+    "Вставка",
+    "Файл",
+    "Данные (Ma’lumotlar)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "Данные bo‘limida bog‘lanishlarni o‘zgartirish uchun qaysi band tanlanadi?",
+   "variantlar": [
+    "Подключения – изменить связи",
+    "Сортировка",
+    "Фильтр",
+    "Очистка"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "Hosil bo‘lgan oynadan ma’lumotlarni yangilash uchun qaysi tugma bosiladi?",
+   "variantlar": [
+    "Печать (Chop etish)",
+    "Обновить (Yangilash)",
+    "Удалить (O‘chirish)",
+    "Сохранить (Saqlash)"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "1-mashqda B3 katakka formula kiritilayotganda, “=” belgisidan so‘ng avval nima bosiladi?",
+   "variantlar": [
+    "Ctrl tugmasi",
+    "Enter tugmasi",
+    "1-varaqdagi B3 katagi",
+    "4-varaqdagi D3 katagi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "1-mashqda B3 dagi formula qaysi kataklarga nusxa ko‘chiriladi?",
+   "variantlar": [
+    "Faqat B4 katakka",
+    "A1:A10 kataklariga",
+    "Butun varaqqa",
+    "B4, B5, B6, C3–C6, D3–D7"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "1-mashqdagi natijaviy jadval qanday nomlanadi?",
+   "variantlar": [
+    "Firma orgtexnika savdosi",
+    "Umumiy fanlar",
+    "Xizmat safari xarajatlari",
+    "Baholash jadvali"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "2-mashqda uchta fan jadvali qaysi umumiy faylga birlashtiriladi?",
+   "variantlar": [
+    "Baho.xlsx",
+    "Umumiy fanlar.xlsx",
+    "Natija.xlsx",
+    "Jadval.xlsx"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "2-mashqda alohida fan faylidagi baholar kataklari qanday amal bilan olinadi?",
+   "variantlar": [
+    "Formatlanadi",
+    "Bo‘yaladi",
+    "Belgilanib nusxalanadi (Копировать)",
+    "O‘chiriladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "Natijada hosil bo‘lgan bog‘lanish formulasi qanday ko‘rinishda bo‘ladi?",
+   "variantlar": [
+    "=Matematika!C2",
+    "=C2*Matematika",
+    "=Lisr1!C2",
+    "=[Matematika.xlsx]Matematika!C2"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "Bog‘lanishlar oynasidan ishni tugatish uchun qaysi tugma bosiladi?",
+   "variantlar": [
+    "Закрыть (Yopish)",
+    "Удалить (O‘chirish)",
+    "Сохранить как (Nusxa saqlash)",
+    "Отмена (Bekor qilish)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "Boshqa varaqqa murojaat formulasida varaq nomi va katak manzili qaysi belgi bilan ajratiladi?",
+   "variantlar": [
+    "Ikki nuqta (:)",
+    "Undov belgisi (!)",
+    "Nuqta (.)",
+    "Vergul (,)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "1-mashqda qaysi tovarlar ro‘yxati jadvalda keltirilgan?",
+   "variantlar": [
+    "Stol, stul, shkaf, javon",
+    "Qalam, daftar, kitob, ruchka",
+    "Monitor, protsessor, klaviatura, vinchester",
+    "Printer, skaner, noutbuk, planshet"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "2-mashqda nechta ishchi kitob (fayl) umumiy faylga bog‘lanadi?",
+   "variantlar": [
+    "Ikkita",
+    "Beshta",
+    "Oltita",
+    "Uchta (Matematika, Fizika, Informatika)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "Uyga vazifada uchinchi varaqning B4 katagida qanday amal bajarilishi so‘raladi?",
+   "variantlar": [
+    "Birinchi varaqning C3 va ikkinchi varaqning D6 katakdagi sonlar yig‘indisini hisoblash",
+    "Barcha kataklarni o‘chirish",
+    "Jadvalni saralash",
+    "Diagramma yaratish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Uyga vazifada qaysi to‘rtta fandan baholar alohida fayllarga saqlanib, “Umumiy” nomli faylga birlashtiriladi?",
+   "variantlar": [
+    "Chet tili, adabiyot, tarix, geografiya",
+    "Tarix, kimyo, fizika, matematika",
+    "Matematika, fizika, informatika, ona tili",
+    "Geografiya, biologiya, kimyo, tarix"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Savol-topshiriqda nechanchi sinf o‘quvchilarining barcha fanlardan olgan baholarini birlashtirish so‘raladi?",
+   "variantlar": [
+    "11-sinf",
+    "7-sinf",
+    "10-sinf",
+    "9-sinf"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Agar 1-mashqdagi B3 formulasi =Лист1!B3+Лист2!B3+Лист3!B3 bo‘lsa, bu qanday operatsiyani bildiradi?",
+   "variantlar": [
+    "Uchta varaqdagi B3 kataklarining ko‘paytmasini olish",
+    "B3 katakni o‘chirish",
+    "B3 katakni nusxalash",
+    "Uchta varaqdagi B3 kataklarining yig‘indisini olish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Boshqa kitobga (fayl) murojaat qilishda fayl nomi formulada qanday belgilar orasida yoziladi?",
+   "variantlar": [
+    "Kvadrat qavs ichida [ ]",
+    "Qo‘shtirnoq ichida \" \"",
+    "Figurali qavs ichida { }",
+    "Oddiy qavs ichida ( )"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Ishchi kitoblar o‘rtasidagi bog‘lanishni nazorat qilish va yangilash qaysi oyna orqali amalga oshiriladi?",
+   "variantlar": [
+    "Sahifa parametrlari oynasi",
+    "Изменение связей (Bog‘lanishlarni o‘zgartirish) oynasi",
+    "Formulalar kutubxonasi oynasi",
+    "Diagramma yaratish oynasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "2-mashqda umumiy jadvalga qaysi uchta fan ustuni qo‘shiladi?",
+   "variantlar": [
+    "Fizika, Biologiya, Geografiya",
+    "Informatika, Adabiyot, Ona tili",
+    "Matematika, Fizika, Informatika",
+    "Matematika, Tarix, Kimyo"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "1-mashqda nusxa ko‘chirish amali B3 katakning qaysi joyidan sichqoncha bilan bajariladi?",
+   "variantlar": [
+    "Katakning chap yuqori burchagidan",
+    "Katakning markazidan",
+    "Katakning tashqarisidan",
+    "Katakning o‘ng pastki burchagidan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "Bir nechta varaq yoki kitobdagi ma’lumotlarni bog‘lashning asosiy maqsadi nima?",
+   "variantlar": [
+    "Turli manbalardagi ma’lumotlarni umumlashtirib, bitta joyda ko‘rish",
+    "Fayl hajmini kichraytirish",
+    "Dasturni tezlashtirish",
+    "Parolni himoyalash"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "1-mashqda 4-varaqdagi “Firma orgtexnika savdosi” jadvalida summalar qanday hosil bo‘ladi?",
+   "variantlar": [
+    "Faqat 1-varaqdan ko‘chiriladi",
+    "Uchta varaqdagi mos summalarning yig‘indisi sifatida",
+    "Har doim 0 ga teng bo‘lib qoladi",
+    "Qo‘lda alohida kiritiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

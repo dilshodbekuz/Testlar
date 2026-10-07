@@ -1,0 +1,337 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Fizika",
+ "mavzu": "20. O'zgaruvchan tok zanjiridagi quvvat",
+ "savollar": [
+  {
+   "savol": "8-sinfdan ma'lumki, o'zgarmas tokning bajargan ishi qaysi formula bilan aniqlanadi?",
+   "variantlar": [
+    "A = I·t/U",
+    "A = U·I/t",
+    "A = U·I·t",
+    "A = U/(I·t)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quvvat deb nimaga aytiladi?",
+   "variantlar": [
+    "Tok kuchining kuchlanishga nisbatiga",
+    "Kuchlanishning tok kuchiga nisbatiga",
+    "Vaqt birligi ichida bajarilgan ishga",
+    "Butun vaqt davomida bajarilgan ishga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'zgaruvchan tok quvvatining oniy qiymati qaysi formula bilan yoziladi?",
+   "variantlar": [
+    "p = i / u",
+    "p = u / i",
+    "p = u·i",
+    "p = u + i"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "P = U·I·cosφ formuladagi cosφ ko'paytma nima deb ataladi?",
+   "variantlar": [
+    "Aktiv qarshilik",
+    "Quvvat koeffitsiyenti",
+    "Reaktiv qarshilik",
+    "Zanjirning to'la qarshiligi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zanjirda reaktiv qarshilik bo'lmasa, o'zgaruvchan tok quvvati qanday bo'ladi?",
+   "variantlar": [
+    "P = 0",
+    "P = U·I, ya'ni o'zgarmas tok quvvatiga teng",
+    "P = U·I/2",
+    "P = U·I·t"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Faqat reaktiv qarshilikka ega zanjirda ajraladigan o'rtacha quvvat nimaga teng?",
+   "variantlar": [
+    "U·I/2 ga",
+    "Cheksizga",
+    "U·I ga",
+    "Nolga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kuchlanishning effektiv qiymati amplituda qiymati bilan qanday bog'langan?",
+   "variantlar": [
+    "Uef = Um/√2",
+    "Uef = Um/2",
+    "Uef = Um·√2",
+    "Uef = 2Um"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quvvat ifodasining cos(2ωt+φ) qo'shiluvchisining bir davr davomidagi o'rtacha qiymati nimaga teng?",
+   "variantlar": [
+    "1 ga",
+    "cosφ ga",
+    "U·I ga",
+    "Nolga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'zgaruvchan tokning bajargan ishi qaysi formula bilan aniqlanadi?",
+   "variantlar": [
+    "A = U·I·t",
+    "A = U·I·t·sinφ",
+    "A = U·I·t·cosφ",
+    "A = U·I·cosφ/t"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sanoat va maishiy xizmatda keng qo'llaniladigan elektr dvigatellari qanday qarshiliklarga ega?",
+   "variantlar": [
+    "Faqat sig'im qarshiligiga",
+    "Qarshilikka ega emas",
+    "Katta induktiv va kichik aktiv qarshilikka",
+    "Katta aktiv va kichik induktiv qarshilikka"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zanjirning bir qismida U = 220 V, I = 5 A va cosφ = 0,5 bo'lsa, o'zgaruvchan tok quvvati qancha?",
+   "variantlar": [
+    "550 W",
+    "440 W",
+    "1100 W",
+    "220 W"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zanjirda P = 400 W, U = 200 V, I = 4 A bo'lsa, quvvat koeffitsiyenti qancha?",
+   "variantlar": [
+    "1",
+    "0,25",
+    "0,5",
+    "0,8"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kuchlanishning amplituda qiymati Um = 100√2 V bo'lsa, uning effektiv qiymati qancha?",
+   "variantlar": [
+    "100 V",
+    "141 V",
+    "200 V",
+    "50 V"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "U = 100 V, I = 2 A, cosφ = 0,8 bo'lgan zanjirda tok 10 s davomida qancha ish bajaradi?",
+   "variantlar": [
+    "1000 J",
+    "1600 J",
+    "160 J",
+    "2000 J"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zanjirda reaktiv qarshilik yo'q, U = 220 V, I = 2 A. Quvvat qancha?",
+   "variantlar": [
+    "440 W",
+    "220 W",
+    "110 W",
+    "0 W"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "cosα·cosβ = ½(cos(α–β) + cos(α+β)) formulada α = ωt, β = ωt + φ bo'lsa, quvvat ifodasining vaqtga bog'liq bo'lmagan hadi qaysi kosinusdan hosil bo'ladi?",
+   "variantlar": [
+    "cos(ωt + φ)",
+    "cos(2ωt + φ)",
+    "cos(ωt)",
+    "cosφ"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quvvatning oniy qiymati p > 0 bo'lsa, bu nimani bildiradi?",
+   "variantlar": [
+    "Energiya zanjirga beriladi",
+    "Zanjirda energiya o'zgarmaydi",
+    "Zanjirda tok yo'q",
+    "Energiya tarmoqqa qaytariladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Faqat induktiv g'altakli zanjirda faza siljishi φ = π/2 bo'lsa, o'rtacha quvvat qancha bo'ladi?",
+   "variantlar": [
+    "U·I",
+    "U·I/2",
+    "0",
+    "Um·Im"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Um = 20 V, Im = 10 A va cosφ = 0,5 bo'lsa, o'rtacha quvvat P = (Um·Im/2)·cosφ formula bo'yicha qancha?",
+   "variantlar": [
+    "25 W",
+    "100 W",
+    "200 W",
+    "50 W"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "φ = π/2 bo'lganda davrning to'rtdan bir qismida zanjirga berilgan energiya qayerda to'planadi?",
+   "variantlar": [
+    "Aktiv qarshilikda issiqlik sifatida",
+    "Tokning magnit maydonida",
+    "Kuchlanish manbaida",
+    "Tokning elektr maydonida"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Iste'molchi bir xil U kuchlanishda bir xil P quvvat olishi kerak. Birinchi holda cosφ = 1, ikkinchi holda cosφ = 0,5 bo'lsa, ikkinchi holda tok kuchi birinchisiga nisbatan necha marta farq qiladi?",
+   "variantlar": [
+    "2 marta katta",
+    "4 marta katta",
+    "O'zgarmaydi",
+    "2 marta kichik"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir xil quvvat va kuchlanishda cosφ 1 dan 0,5 gacha kamaysa, aktiv qarshilikka ega ulash simlarida ajraladigan issiqlik (Q = I²R) qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "2 marta ortadi",
+    "2 marta kamayadi",
+    "4 marta ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zanjirda Um = 40√2 V, Im = 10√2 A va cosφ = 0,5 bo'lsa, o'rtacha quvvat qancha?",
+   "variantlar": [
+    "400 W",
+    "200 W",
+    "800 W",
+    "100 W"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "P = 600 W, U = 200 V va cosφ = 0,75 bo'lgan zanjirdagi tok kuchi qancha?",
+   "variantlar": [
+    "6 A",
+    "3 A",
+    "4 A",
+    "2,25 A"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun elektr zanjirlarini loyihalashda cosφ ning katta bo'lishiga e'tibor qaratiladi?",
+   "variantlar": [
+    "Aks holda energiyaning bir qismi generator va zanjir orasida aylanib, simlarni qizdirishga sarflanadi",
+    "Aks holda simlarning aktiv qarshiligi yo'qoladi",
+    "Aks holda tokning chastotasi kamayib ketadi",
+    "Aks holda zanjirdagi kuchlanish nolga tenglashadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektr dvigatellarida cosφ kichik bo'lishi nima uchun noqulay?",
+   "variantlar": [
+    "Chunki katta induktiv qarshilik tufayli energiyaning katta qismi tarmoq bilan dvigatel orasida aylanib, simlarni qizdiradi",
+    "Chunki dvigatelda tok umuman o'tmaydi",
+    "Chunki kuchlanish effektiv qiymatga ega bo'lmay qoladi",
+    "Chunki dvigatelning aktiv qarshiligi nolga teng bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Faqat reaktiv qarshilikli zanjirda bir davr davomida zanjirga berilgan va tarmoqqa qaytarilgan energiya orasidagi munosabat qanday va bundan qanday xulosa kelib chiqadi?",
+   "variantlar": [
+    "Berilgan energiya ko'p, shuning uchun o'rtacha quvvat musbat",
+    "Ikkalasi nolga teng, chunki tok o'tmaydi",
+    "Qaytarilgan energiya ko'p, shuning uchun o'rtacha quvvat manfiy",
+    "Ikkalasi teng, shuning uchun o'rtacha quvvat nolga teng"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tok va kuchlanish chastotasi 50 Hz bo'lsa, p = (UmIm/2)cosφ + (UmIm/2)cos(2ωt+φ) ifodadagi o'zgaruvchan qo'shiluvchi qanday chastotada tebranadi?",
+   "variantlar": [
+    "25 Hz",
+    "100 Hz",
+    "200 Hz",
+    "50 Hz"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zanjirda U = 120 V, I = 1 A bo'lib, tok 120 s davomida 7200 J ish bajargan bo'lsa, quvvat koeffitsiyenti qancha?",
+   "variantlar": [
+    "1",
+    "0,25",
+    "0,6",
+    "0,5"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "φ = 0 bo'lganda zanjirdagi quvvat 1000 W ga teng. Xuddi shu U va I da faza siljishi φ = 60° (cos60° = 0,5) bo'lsa, quvvat qanday bo'ladi?",
+   "variantlar": [
+    "2000 W",
+    "1000 W",
+    "250 W",
+    "500 W"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

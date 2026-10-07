@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Matematika",
+ "mavzu": "Planimetriyaning mantiqiy tuzilishi",
+ "savollar": [
+  {
+   "savol": "Geometriya so'zi yunoncha bo'lib, nima degan ma'noni bildiradi?",
+   "variantlar": [
+    "Yer o'lchash",
+    "Shakl chizish",
+    "Son hisoblash",
+    "Fazoni o'rganish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Geometriya necha qismdan iborat?",
+   "variantlar": [
+    "Uch qismdan",
+    "Ikki qismdan (planimetriya va stereometriya)",
+    "Bitta qismdan",
+    "To'rt qismdan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Planimetriya nimani o'rganadi?",
+   "variantlar": [
+    "Fazodagi shakllarni",
+    "Faqat uchburchaklarni",
+    "Tekislikdagi geometrik shakllarning xossalarini",
+    "Faqat doiralarni"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Stereometriya nimani o'rganadi?",
+   "variantlar": [
+    "Faqat tekislikni",
+    "Faqat chiziqlarni",
+    "Faqat sonlarni",
+    "Fazodagi geometrik shakllarning xossalarini"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ta'riflanmaydigan geometrik shakllar nima deb ataladi?",
+   "variantlar": [
+    "Boshlang'ich (asosiy) geometrik shakllar",
+    "Teorema",
+    "Aksioma",
+    "Isbot"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'g'riligi isbotsiz qabul qilinadigan xossa nima deyiladi?",
+   "variantlar": [
+    "Teorema",
+    "Aksioma",
+    "Ta'rif",
+    "Postulat"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Biror tasdiqning to'g'riligini mantiqiy mulohazalar yordamida keltirib chiqarish nima deyiladi?",
+   "variantlar": [
+    "Ta'rif",
+    "Aksioma",
+    "Isbot",
+    "Tajriba"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "To'g'riligi isbotlash yo'li bilan asoslanadigan tasdiq nima deyiladi?",
+   "variantlar": [
+    "Aksioma",
+    "Postulat",
+    "Ta'rif",
+    "Teorema"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Maktabda o'rganiladigan geometriya qaysi olim nomi bilan ataladi?",
+   "variantlar": [
+    "Evklid geometriyasi",
+    "Lobachevskiy geometriyasi",
+    "Riman geometriyasi",
+    "Dekart geometriyasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Evklidning asosiy asari qanday nomlanadi?",
+   "variantlar": [
+    "\"Almagest\"",
+    "\"Negizlar\"",
+    "\"Elementlar nazariyasi\"",
+    "\"Geometriya asoslari\""
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Negizlar\" asari nechta kitobdan iborat?",
+   "variantlar": [
+    "9 ta",
+    "5 ta",
+    "13 ta",
+    "23 ta"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Negizlar\" asarida nechta ta'rif berilgan?",
+   "variantlar": [
+    "5 ta",
+    "9 ta",
+    "13 ta",
+    "23 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Negizlar\" asarida nechta postulat berilgan?",
+   "variantlar": [
+    "5 ta",
+    "9 ta",
+    "13 ta",
+    "23 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Negizlar\" asarida nechta aksioma berilgan?",
+   "variantlar": [
+    "5 ta",
+    "9 ta",
+    "13 ta",
+    "23 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tegishlilik aksiomalari guruhiga ko'ra, har qanday ikki nuqtadan nechta to'g'ri chiziq o'tadi?",
+   "variantlar": [
+    "Cheksiz ko'p",
+    "Ikkita",
+    "Faqat bitta",
+    "Hech qanday"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tartib aksiomalari guruhiga ko'ra, har bir to'g'ri chiziq tekislikni necha qismga ajratadi?",
+   "variantlar": [
+    "To'rtta qismga",
+    "Uchta qismga",
+    "Bitta qismga",
+    "Ikkita yarimtekislikka"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yoyiq burchakning gradus o'lchovi necha gradusga teng?",
+   "variantlar": [
+    "180°",
+    "90°",
+    "360°",
+    "60°"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Parallellik aksiomasiga ko'ra, to'g'ri chiziqdan tashqarida olingan nuqtadan shu to'g'ri chiziqqa nechta parallel to'g'ri chiziq o'tkazish mumkin?",
+   "variantlar": [
+    "Ikkita",
+    "Faqat bitta",
+    "Cheksiz ko'p",
+    "Hech qanday"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Teng shaklni qo'yish aksiomalari guruhiga ko'ra, ixtiyoriy nurga uning uchidan boshlab, berilgan kesmaga teng nechta kesma qo'yish mumkin?",
+   "variantlar": [
+    "Ikkita",
+    "Cheksiz ko'p",
+    "Yagona",
+    "Hech qanday"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yan Pleyfer (1748-1819) ning qanday aksiomasi mashhur?",
+   "variantlar": [
+    "O'lchash aksiomasi",
+    "Tartib aksiomasi",
+    "Teng shaklni qo'yish aksiomasi",
+    "Parallellik aksiomasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Evklidning beshinchi postulatini (\"V postulat\") isbotlashga urinishlar natijasida qaysi yangi geometriya yaratildi?",
+   "variantlar": [
+    "Noevklid (Lobachevskiy) geometriyasi",
+    "Analitik geometriya",
+    "Proyektiv geometriya",
+    "Sferik trigonometriya"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Noevklid geometriyasini kim yaratdi?",
+   "variantlar": [
+    "Evklid",
+    "N.I. Lobachevskiy",
+    "Umar Hayyom",
+    "Yan Pleyfer"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Lobachevskiy geometriyasida uchburchak ichki burchaklarining yig'indisi qanday bo'ladi?",
+   "variantlar": [
+    "π ga teng",
+    "π dan katta",
+    "π dan kichik bo'ladi",
+    "Har doim 180°"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Umar Hayyom qaysi masala bilan shug'ullangan?",
+   "variantlar": [
+    "O'lchash aksiomasi bilan",
+    "Teng shaklni qo'yish bilan",
+    "Tartib aksiomasi bilan",
+    "Evklidning V postulati (parallellik) masalasi bilan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Hayyom-Sakkeri to'rtburchagi\" nomini olgan geometrik shakl bilan qaysi ikki olim bog'liq?",
+   "variantlar": [
+    "Umar Hayyom va J. Sakkeri",
+    "Evklid va Lobachevskiy",
+    "Gauss va Riman",
+    "Bolyai va Beltrami"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Noevklid geometriyasini yaratishga qaysi venger matematigi ham hissa qo'shgan?",
+   "variantlar": [
+    "Karl Fridrix Gauss",
+    "Yanosh Bolyai",
+    "David Gilbert",
+    "Veniamin Kagan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Fanning aksiomalarga asoslangan tuzilishi qanday nomlanadi?",
+   "variantlar": [
+    "Empirik tuzilish",
+    "Eksperimental tuzilish",
+    "Aksiomatik tuzilish",
+    "Induktiv tuzilish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Teorema odatda nechta qismdan iborat bo'ladi?",
+   "variantlar": [
+    "Uch qismdan",
+    "To'rt qismdan",
+    "Bitta qismdan",
+    "Ikki qismdan (shart va xulosa)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mulohaza yuritish jarayonida nimadan foydalanish taqiqlangan?",
+   "variantlar": [
+    "Isbotlanmagan xossalardan (garchi to'g'riligi ko'rinib tursa ham)",
+    "Aksiomalardan",
+    "Teoremalardan",
+    "Ta'riflardan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'lchash aksiomalari guruhiga ko'ra, kesma uzunligi nimaga teng?",
+   "variantlar": [
+    "Faqat uning uzunligiga",
+    "Uning ixtiyoriy nuqtasi ajratgan bo'laklari uzunliklari yig'indisiga",
+    "Faqat burchaklarga",
+    "Faqat yuzaga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "41-dars. ShowMessage oynasi",
+ "savollar": [
+  {
+   "savol": "41-dars qanday nomlanadi?",
+   "variantlar": [
+    "ShowMessage oynasi",
+    "Boshqarish tugmasi",
+    "Ilova oynasiga ma’lumot joylash",
+    "Boshqarish obyektlarining faolligi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "Ikkinchi ilovaning kamchiligi nimada edi?",
+   "variantlar": [
+    "Ilova rangsiz bo‘ladi",
+    "“++” tugmasi ming marta bosilsa, oyna cheksiz kengayib ketaveradi",
+    "Tugma umuman ishlamaydi",
+    "Ilova ochilmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "Ilova oynasi eni necha pikseldan oshsa kattalashtirmaslik kelishib olinadi?",
+   "variantlar": [
+    "400 piksel",
+    "800 piksel",
+    "600 piksel",
+    "1000 piksel"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "ShowMessage nima uchun ishlatiladi?",
+   "variantlar": [
+    "Faylni saqlash uchun",
+    "Ilovani yopish uchun",
+    "Ranglarni o‘zgartirish uchun",
+    "Ekranga xabar oynasini chiqarish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "ShowMessage(‘Oyna boshqa kengaymaydi’); qachon ishga tushadi?",
+   "variantlar": [
+    "Oyna eni 600 dan oshganda (else sharti bajarilganda)",
+    "Ilova ochilganda",
+    "Ilova yopilganda",
+    "Har doim"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "IntToStr funksiyasi nimani bajaradi?",
+   "variantlar": [
+    "Matnni o‘chiradi",
+    "Butun sonni matn satriga o‘tkazadi",
+    "Matnni songa o‘tkazadi",
+    "Sonni kvadratga ko‘taradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "IntToStr nomi qaysi ingliz iborasidan olingan?",
+   "variantlar": [
+    "Integer to Start",
+    "Input to String",
+    "Integer to String",
+    "Internal to String"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "ShowMessage oynasi ochilganda ilova nima qiladi?",
+   "variantlar": [
+    "Ishini davom ettiraveradi",
+    "Avtomatik yopiladi",
+    "Qayta ishga tushadi",
+    "Oyna yopilmaguncha ishini to‘xtatib turadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "Form1.Caption:=Form1.Height+'*'+Form1.Wide; operatori nega xato beradi?",
+   "variantlar": [
+    "Butun son turidagi qiymat matn turidagi xossaga to‘g‘ridan-to‘g‘ri qo‘shilayotgani uchun",
+    "Chunki Caption xossasi mavjud emas",
+    "Chunki Height manfiy bo‘lishi mumkin",
+    "Chunki Wide noto‘g‘ri yozilgan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "ShowMessage oynasidagi xabarni yopish uchun qaysi tugma bosiladi?",
+   "variantlar": [
+    "Esc",
+    "OK",
+    "Cancel",
+    "Close"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "If Form1.Width<600 then begin...end else... operatorining vazifasi nima?",
+   "variantlar": [
+    "Dasturni to‘xtatish",
+    "Faylni saqlash",
+    "Shart bo‘yicha ikki xil amaldan birini bajarish",
+    "Doim bitta amalni bajarish"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "Form1.Caption:='('+IntToStr(Form1.Height)+'*'+IntToStr(Form1.Wide)+')'; nima qiladi?",
+   "variantlar": [
+    "Oynani kichraytiradi",
+    "Oynani yashiradi",
+    "Tugmani o‘chiradi",
+    "Oyna balandligi va eni qiymatlarini sarlavhaga matn ko‘rinishida chiqaradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "Form1.Caption:='Uchinchi ilova'+ Form1.Caption; operatori nimaga xizmat qiladi?",
+   "variantlar": [
+    "Ilovaning nomini avvalgi sarlavha oldiga qo‘shish uchun",
+    "Sarlavhani butunlay o‘chirish uchun",
+    "Oyna rangini o‘zgartirish uchun",
+    "Tugmani yashirish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "Dastur kodi oynasini chaqirish uchun tugma ustida nima qilinadi?",
+   "variantlar": [
+    "Surib olib boriladi",
+    "Ikki marta sichqoncha bilan bosiladi",
+    "Bir marta bosiladi",
+    "O‘ng tugma bosiladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "Ilovani ishga tushirib o‘zgarishlarni kuzatish uchun nima qilinadi?",
+   "variantlar": [
+    "Faqat Save bosiladi",
+    "Kompyuter qayta ishga tushiriladi",
+    "Ilova ishga tushirilib tugma bir necha marta bosiladi",
+    "Faqat kod o‘qiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "ShowMessage funksiyasi parametr sifatida nima qabul qiladi?",
+   "variantlar": [
+    "Faqat son qiymatini",
+    "Faqat rang kodini",
+    "Hech narsa qabul qilmaydi",
+    "Matn (satr) qiymatini"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "If...then...else operatorida “else” qismi qachon bajariladi?",
+   "variantlar": [
+    "Shart yolg‘on bo‘lganda",
+    "Shart rost bo‘lganda",
+    "Har doim",
+    "Hech qachon"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "Ilova oynasining kengayishi uchun Width xossasiga qancha qo‘shiladi?",
+   "variantlar": [
+    "100",
+    "16",
+    "9",
+    "600"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "Ilova oynasining balandligi kengayishi uchun Height xossasiga qancha qo‘shiladi?",
+   "variantlar": [
+    "600",
+    "100",
+    "9",
+    "16"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "Ikkinchi va uchinchi ilovalarning asosiy farqi nimada?",
+   "variantlar": [
+    "Uchinchi ilovada tugma yo‘q",
+    "Ikkinchi ilovada rang yo‘q",
+    "Hech qanday farq yo‘q",
+    "Uchinchi ilovada oyna o‘lchamlari sarlavhada ko‘rsatiladi va chegaralash kiritilgan"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "Savol-topshiriqda uchinchi ilovani qaysi shartlar bilan o‘zgartirish so‘raladi?",
+   "variantlar": [
+    "Eni 800 dan, bo‘yi 450 dan oshsa ogohlantirish chiqishi",
+    "Eni 100 dan, bo‘yi 50 dan oshsa ogohlantirish chiqishi",
+    "Faqat rangini o‘zgartirish",
+    "Faqat sarlavhasini o‘zgartirish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Nega Delphida Form1.Caption:=Form1.Height+'*'+Form1.Wide; kabi yozuv xatoga olib keladi?",
+   "variantlar": [
+    "Chunki Caption faqat raqam qabul qiladi",
+    "Turli tipdagi (son va matn) qiymatlarni to‘g‘ridan-to‘g‘ri birlashtirib bo‘lmaydi",
+    "Chunki Form1 obyekti mavjud emas",
+    "Chunki ‘*’ belgisi noto‘g‘ri"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Agar foydalanuvchi tugmani bossa-yu hech qanday o‘zgarish ko‘rinmasa, bu nimaga shubha tug‘dirishi mumkin?",
+   "variantlar": [
+    "Internetning ulanganligiga",
+    "Printerning ishlayotganiga",
+    "Dasturning to‘g‘ri ishlayotganiga",
+    "Kompyuterning ishlayotganiga"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Uchinchi ilovada sarlavhaga nechta ma’lumot (son) chiqariladi?",
+   "variantlar": [
+    "Bitta",
+    "Uchta",
+    "To‘rtta",
+    "Ikkita (balandlik va eni)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "ShowMessage yangi oyna yaratishi ilova ishiga qanday ta’sir qiladi?",
+   "variantlar": [
+    "Oyna yopilmaguncha ilova to‘xtab turadi",
+    "Ilova ishini davom ettiradi",
+    "Ilova avtomatik yopiladi",
+    "Hech qanday ta’sir qilmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "IntToStr funksiyasisiz son qiymatini Caption xossasiga to‘g‘ridan-to‘g‘ri yozishga urinilsa, nima bo‘ladi?",
+   "variantlar": [
+    "Caption bo‘sh qoladi",
+    "Tip mos kelmasligi xatosi yuzaga keladi",
+    "Hammasi normal ishlaydi",
+    "Dastur o‘zi tuzatib oladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Uyga vazifada nimani esga olib, daftarga ko‘chirish so‘raladi?",
+   "variantlar": [
+    "Pascal operatorlarini",
+    "MS Access funksiyalarini",
+    "Ilova oynasining asosiy xossalarini",
+    "Delphi tarixini"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "Oyna o‘lchamlari sarlavhaga chiqarilishi foydalanuvchiga nima haqida ma’lumot beradi?",
+   "variantlar": [
+    "Dastur versiyasi haqida",
+    "Kompyuter nomi haqida",
+    "Fayl hajmi haqida",
+    "Oynaning joriy eni va balandligi haqida"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "Button1 tugmasiga yozilgan kod qayerda saqlanadi?",
+   "variantlar": [
+    "Dastur kodi faylida (protsedura ichida)",
+    "Faqat Object Inspectorda",
+    "Faqat sarlavha satrida",
+    "Hech qayerda saqlanmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "ShowMessage protsedurasi qaysi turdagi dasturlash uchun xos (matn kontekstiga ko‘ra)?",
+   "variantlar": [
+    "Faqat tarmoq dasturlash uchun",
+    "Foydalanuvchiga xabar beruvchi vizual dasturlash uchun",
+    "Faqat matematik hisob-kitob uchun",
+    "Faqat fayl bilan ishlash uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

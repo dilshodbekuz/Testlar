@@ -1,0 +1,326 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Fizika",
+ "mavzu": "15. O'zgaruvchan tok zanjiridagi kondensator",
+ "savollar": [
+  {
+   "savol": "O'zgarmas tok zanjiriga kondensator ulansa, zanjirda nima kuzatiladi?",
+   "variantlar": [
+    "Tok maksimal bo'ladi",
+    "Tok o'zgaruvchan bo'lib qoladi",
+    "Kondensator qisqa tutashuv vazifasini bajaradi",
+    "Tok o'tmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "O'zgarmas tok zanjiridan kondensator orqali tok nima uchun o'tmaydi?",
+   "variantlar": [
+    "Qoplamalar orasi dielektrik bilan ajratilgan",
+    "Qoplamalar bir-biriga tegib turadi",
+    "Kondensatorning massasi katta",
+    "Simlarning qarshiligi cheksiz katta"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kondensator o'zgaruvchan tok zanjiriga ulansa, nima bo'ladi?",
+   "variantlar": [
+    "Zanjirdan tok o'tmaydi",
+    "Zanjirdan tok o'tadi",
+    "Kondensator darhol teshiladi",
+    "Kuchlanish nolga teng bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Faqat kondensator ulangan o'zgaruvchan tok zanjirida tok kuchi tebranishlari kuchlanish tebranishlaridan faza bo'yicha qanday farq qiladi?",
+   "variantlar": [
+    "π ga oldinga ketadi",
+    "π/2 ga orqada qoladi",
+    "Faza bo'yicha mos tushadi",
+    "π/2 ga oldinga ketadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kondensatorning sig'im qarshiligi formulasi qaysi?",
+   "variantlar": [
+    "Xc = ωC",
+    "Xc = C/ω",
+    "Xc = ω/C",
+    "Xc = 1/(ωC)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kondensatorli zanjirda tok kuchining amplituda qiymati qaysi formula bilan topiladi?",
+   "variantlar": [
+    "Im = Um/Xc",
+    "Im = Xc/Um",
+    "Im = Um + Xc",
+    "Im = Um·Xc"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kondensatordan o'tuvchi tok kuchining maksimal qiymati qanday ifodalanadi?",
+   "variantlar": [
+    "Im = C·ω/Um",
+    "Im = Um·C/ω",
+    "Im = Um·C·ω",
+    "Im = Um/(C·ω)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda kondensatorga qo'yilgan kuchlanish qanday qonuniyat bo'yicha o'zgaradi deb olingan?",
+   "variantlar": [
+    "u = const",
+    "u = Um cosωt",
+    "u = Um sinωt",
+    "u = Um cos(ωt + π/2)"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kondensator qoplamalaridagi zaryad uchun matnda qaysi ifoda olingan?",
+   "variantlar": [
+    "q = C/Um·cosωt",
+    "q = C·Um·sinωt",
+    "q = Um/(C)·cosωt",
+    "q = C·Um·cosωt"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zanjirdagi tok kuchining oniy qiymatini topish uchun zaryaddan qanday amal bajariladi?",
+   "variantlar": [
+    "Vaqt bo'yicha birinchi tartibli hosila olinadi",
+    "Zaryad C ga bo'linadi",
+    "Zaryad kvadratga oshiriladi",
+    "Zaryad vaqtga ko'paytiriladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Siklik chastotasi ω = 100 rad/s bo'lgan zanjirda sig'imi C = 100 µF bo'lgan kondensatorning sig'im qarshiligini toping.",
+   "variantlar": [
+    "0,01 Ω",
+    "10 Ω",
+    "1000 Ω",
+    "100 Ω"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kondensator sig'imi 25 µF, o'zgaruvchan tokning siklik chastotasi 200 rad/s. Sig'im qarshiligi qancha?",
+   "variantlar": [
+    "20 Ω",
+    "500 Ω",
+    "200 Ω",
+    "5 Ω"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kondensatorga qo'yilgan kuchlanish amplitudasi 100 V, sig'im qarshiligi 50 Ω. Tok kuchining amplitudasi qancha?",
+   "variantlar": [
+    "0,5 A",
+    "2 A",
+    "150 A",
+    "5000 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Boshqa sharoitlar o'zgarmay, tok chastotasi 2 marta oshirilsa, kondensatorning sig'im qarshiligi qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "2 marta kamayadi",
+    "4 marta kamayadi",
+    "2 marta ortadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kondensator sig'imi 4 marta oshirilsa, sig'im qarshiligi qanday o'zgaradi (chastota o'zgarmaydi)?",
+   "variantlar": [
+    "4 marta kamayadi",
+    "4 marta ortadi",
+    "2 marta kamayadi",
+    "16 marta ortadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kondensatorga qo'yilgan kuchlanish amplitudasi 60 V, sig'im qarshiligi 20 Ω. Tok kuchining amplitudasi nimaga teng?",
+   "variantlar": [
+    "0,33 A",
+    "3 A",
+    "80 A",
+    "1200 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Um = 10 V, C = 50 µF, ω = 1000 rad/s bo'lsa, Im = Um·C·ω formulasi bo'yicha tok amplitudasini toping.",
+   "variantlar": [
+    "500 A",
+    "0,05 A",
+    "5 A",
+    "0,5 A"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "i = –Um·C·ω·sinωt ifodani kosinus orqali yozsak, qaysi tenglama hosil bo'ladi?",
+   "variantlar": [
+    "i = Um·C·ω·cos(ωt + π/2)",
+    "i = Um·C·ω·cos(ωt)",
+    "i = Um·C·ω·cos(ωt + π)",
+    "i = Um·C·ω·cos(ωt – π/2)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Chastotasi 50 Hz (ω ≈ 314 rad/s) bo'lgan tok zanjiriga C = 100 µF kondensator ulangan. Sig'im qarshiligi taxminan qancha?",
+   "variantlar": [
+    "31,8 Ω",
+    "0,0314 Ω",
+    "3,18 Ω",
+    "318 Ω"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Amplituda qiymati 40 V bo'lgan o'zgaruvchan tok zanjiriga rezistor ulanganda undan amplitudasi 3 A tok o'tdi. Rezistorda ajralgan o'rtacha quvvatni toping (P = Im·Um/2).",
+   "variantlar": [
+    "120 W",
+    "60 W",
+    "43 W",
+    "30 W"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tok chastotasi 2 marta oshirilib, kondensator sig'imi 4 marta oshirilsa, sig'im qarshiligi qanday o'zgaradi?",
+   "variantlar": [
+    "2 marta kamayadi",
+    "8 marta ortadi",
+    "6 marta kamayadi",
+    "8 marta kamayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kuchlanish amplitudasi o'zgarmay, chastota 2 marta oshirilib, sig'im 3 marta oshirilsa, kondensatordan o'tuvchi tokning amplitudasi qanday o'zgaradi?",
+   "variantlar": [
+    "1,5 marta ortadi",
+    "5 marta ortadi",
+    "6 marta ortadi",
+    "6 marta kamayadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kondensatorga amplitudasi 100 V kuchlanish qo'yilganda amplitudasi 0,5 A tok o'tadi. ω = 1000 rad/s bo'lsa, kondensator sig'imi qancha?",
+   "variantlar": [
+    "50 µF",
+    "5 µF",
+    "200 µF",
+    "0,5 µF"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kondensatorga u = 50cos(400t) V kuchlanish qo'yilgan, sig'imi 25 µF. Zanjirdagi tok kuchining tenglamasi qaysi?",
+   "variantlar": [
+    "i = 0,5cos(400t + π/2) A",
+    "i = 0,05cos(400t) A",
+    "i = 0,5cos(400t – π/2) A",
+    "i = 5cos(400t + π/2) A"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kondensatorga qo'yilgan kuchlanish amplitudasi 100 V, sig'im qarshiligi 50 Ω. Tok kuchining effektiv qiymati taxminan qancha (Ief = Im/√2)?",
+   "variantlar": [
+    "1,41 A",
+    "0,71 A",
+    "2,83 A",
+    "2 A"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kondensatordagi kuchlanishning effektiv qiymati 100 V, sig'im qarshiligi 50 Ω. Tok kuchining effektiv qiymati qancha?",
+   "variantlar": [
+    "2 A",
+    "1,41 A",
+    "0,5 A",
+    "2,83 A"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zanjirda kuchlanish u = Um cosωt qonuni bilan o'zgaradi. Kuchlanish maksimal qiymatga yetgan paytda kondensatordan o'tayotgan tok kuchi nimaga teng?",
+   "variantlar": [
+    "Nolga",
+    "Maksimal qiymatga",
+    "Um·C·ω/√2 ga",
+    "Maksimal qiymatning yarmiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tok chastotasi nolga intilganda (o'zgarmas tokka yaqinlashganda) kondensatorning sig'im qarshiligi va tok qanday bo'ladi?",
+   "variantlar": [
+    "Qarshilik nolga intiladi, tok nolga intiladi",
+    "Qarshilik o'zgarmaydi, tok o'zgarmaydi",
+    "Qarshilik nolga intiladi, tok ortadi",
+    "Qarshilik cheksiz ortadi, tok nolga intiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kondensatorli zanjirda tok chastotasi 50 Hz. Tok kuchi kuchlanishdan π/2 ga oldinda bo'lsa, tok o'zining maksimumiga kuchlanishdan qancha vaqt oldin erishadi?",
+   "variantlar": [
+    "5 ms",
+    "2,5 ms",
+    "10 ms",
+    "20 ms"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

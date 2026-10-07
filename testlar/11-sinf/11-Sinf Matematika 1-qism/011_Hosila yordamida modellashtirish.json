@@ -1,0 +1,337 @@
+{
+  "sinf": "11-sinf",
+  "kitob": "11-sinf 11-Sinf Matematika 1-qism",
+  "mavzu": "Hosila yordamida modellashtirish",
+  "savollar": [
+    {
+      "savol": "b'(t) = k·b(t) munosabat qanday nomlanadi?",
+      "variantlar": [
+        "Integral tenglama",
+        "Differensial tenglama",
+        "Algebraik tenglama",
+        "Trigonometrik tenglama"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Bakteriyalar populyatsiyasi modelida b0 nimani bildiradi?",
+      "variantlar": [
+        "Bir soatdagi populyatsiya soni",
+        "Proporsionallik koeffitsiyenti",
+        "Eng katta populyatsiya soni",
+        "t = 0 vaqtdagi populyatsiya soni"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Boshlang'ich populyatsiya b0 = 10 mln, 1 soatdan keyin 20 mln bo'lsa, k = ? (b(t) = b0·e^(kt))",
+      "variantlar": [
+        "ln 10",
+        "1/2",
+        "2",
+        "ln 2"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "b0 = 10 mln va k = ln 2 bo'lsa, b(t) = ? mln",
+      "variantlar": [
+        "10·2ᵗ",
+        "2·10ᵗ",
+        "10·t²",
+        "10 + 2t"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "b(t) = 10·2ᵗ mln bo'lsa, t = 3 da bakteriyalar soni necha mln?",
+      "variantlar": [
+        "30",
+        "20",
+        "80",
+        "60"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Tomas Maltus modeli N'(t) = kN(t) qanday o'sishni ifodalaydi?",
+      "variantlar": [
+        "Logarifmik o'sish",
+        "Chiziqli o'sish",
+        "Eksponensial o'sish",
+        "Doimiy o'sish"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "N(t) = N0·e^(k(t - t0)) funksiyada N(t0) nimaga teng?",
+      "variantlar": [
+        "1",
+        "N0",
+        "N0·k",
+        "0"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Logistik egri chiziqda populyatsiya soni vaqt o'tishi bilan qaysi songa yaqinlashadi?",
+      "variantlar": [
+        "a/b",
+        "N0",
+        "0",
+        "∞"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Differensial tenglamaning yechimi deb nimaga aytiladi?",
+      "variantlar": [
+        "Tenglamaning ildiziga",
+        "Funksiyaning hosilasiga",
+        "Shu tenglamani qanoatlantiradigan funksiyaga",
+        "Boshlang'ich shartga"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Bakteriyalar soni bir soatdan keyin ikki karra ortsa, e^k nimaga teng?",
+      "variantlar": [
+        "1/2",
+        "2",
+        "k",
+        "e"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Sotiladigan mahsulot haqida xabardor xaridorlar modelida N nima bildiradi?",
+      "variantlar": [
+        "Reklama narxi",
+        "Barcha xaridorlar soni",
+        "Proporsionallik koeffitsiyenti",
+        "Sotilgan mahsulot miqdori"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Jismning sovish qonuni T(t) = τ + (T0 - τ)·e^(-kt/(mc)) da τ nimani bildiradi?",
+      "variantlar": [
+        "Issiqlik sig'imi",
+        "Boshlang'ich temperatura",
+        "Jism massasi",
+        "Havo temperaturasi"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Tandirdan olingan nonning temperaturasi 20 minutda 100° dan 60° gacha pasaygan, muhit 25°. a koeffitsiyent uchun qaysi tenglik to'g'ri?",
+      "variantlar": [
+        "e^(20a) = 15/7",
+        "e^(20a) = 3/5",
+        "e^(20a) = 7/15",
+        "e^(20a) = 5/7"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Nonning temperaturasi taxminan necha daqiqadan keyin 30° gacha pasayadi (5-masala)?",
+      "variantlar": [
+        "20 daqiqa",
+        "40 daqiqa",
+        "71 daqiqa",
+        "100 daqiqa"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Qayiqning harakati uchun Nyuton qonuniga ko'ra qaysi differensial tenglama hosil bo'ladi (F = -kv, F = mv'(t))?",
+      "variantlar": [
+        "mv'(t) = -kv",
+        "v'(t) = kv",
+        "mv'(t) = kv",
+        "mv(t) = -kv'"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Qayiq tezligi v(t) = Ce^(-kt/m) tenglamasida t = 0 da v = 20 bo'lsa, C nechaga teng?",
+      "variantlar": [
+        "1",
+        "8",
+        "20",
+        "0"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Qayiq tezligi v(t) = 20·e^(-rt/m) bo'lib, t = 40 s da 8 km/soat bo'lsa, e^(-40r/m) nechaga teng?",
+      "variantlar": [
+        "2/5",
+        "5/2",
+        "1/2",
+        "4/5"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Radioaktiv yemirilish tezligi massaga qanday bog'liq deb faraz qilinadi?",
+      "variantlar": [
+        "Teskari proporsional",
+        "Proporsional",
+        "Kvadratga proporsional",
+        "O'zgarmas"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "m'(t) = -αm(t) tenglamaning boshlang'ich shart m(t0) = m0 dagi yechimi qaysi?",
+      "variantlar": [
+        "m0 + αt",
+        "m0·e^(-α(t - t0))",
+        "m0·αt",
+        "m0·e^(α(t - t0))"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Narx p = (p0 - 10)·e^(-t/10) + 10 qonuniyati bo'yicha t → ∞ da narx qaysi songa yaqinlashadi?",
+      "variantlar": [
+        "10",
+        "∞",
+        "0",
+        "p0"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Investitsiya normasi m qanday oraliqda bo'ladi?",
+      "variantlar": [
+        "m > 1",
+        "m < 0",
+        "m = 0",
+        "0 < m < 1"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Q' = kQ differensial tenglamaning umumiy yechimi qaysi?",
+      "variantlar": [
+        "Q = C·kt",
+        "Q = C·e^(kt)",
+        "Q = C + kt",
+        "Q = C/t"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Bakteriyalar populyatsiyasi b(t) = 10·2ᵗ mln bo'lsa, t = 5 soatdan keyin nechaga teng bo'ladi?",
+      "variantlar": [
+        "640",
+        "100",
+        "160",
+        "320"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "b(t) = 10·2ᵗ mln bo'lsa, bakteriyalar soni 1000 mln ga yetishi uchun taxminan qancha vaqt kerak?",
+      "variantlar": [
+        "100 soat",
+        "10 soat",
+        "6,64 soat",
+        "5 soat"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Sovish qonuni T(t) = τ + (T0 - τ)e^(-kt/(mc)) da t → ∞ bo'lganda T(t) nimaga intiladi?",
+      "variantlar": [
+        "T0",
+        "τ",
+        "T0 - τ",
+        "0"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Sovish qonunida boshlang'ich shart T(0) = T0 bo'lsa, C = ? (T(t) = τ + Ce^(-kt/(mc)))",
+      "variantlar": [
+        "τ",
+        "τ - T0",
+        "T0 - τ",
+        "T0"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Qayiq tezligi v(t) = 20·e^(-rt/m) (40 s da 8 km/soat) bo'lsa, t = 2 min da tezlik taxminan nechaga teng (5-jadval ko'rsatkichi bo'yicha)?",
+      "variantlar": [
+        "20",
+        "0,5",
+        "8",
+        "1,28"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Xaridorlar modelida x(t) = N/(1 + P·e^(-Nkt)) funksiyaning t → ∞ dagi limiti nechaga teng?",
+      "variantlar": [
+        "N",
+        "0",
+        "∞",
+        "1"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Ishlab chiqarish modelida Q' = kQ, k = lmp bo'lsa, k nimaga teng (I = mpQ, Q' = l·I)?",
+      "variantlar": [
+        "lmp",
+        "l + m + p",
+        "lm/p",
+        "l/(mp)"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Narx p(t) = (p0 - 10)·e^(-t/10) + 10 da p0 = 30 bo'lsa, p(10) taxminan nechaga teng?",
+      "variantlar": [
+        "20",
+        "10",
+        "30",
+        "17,36"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    }
+  ]
+}

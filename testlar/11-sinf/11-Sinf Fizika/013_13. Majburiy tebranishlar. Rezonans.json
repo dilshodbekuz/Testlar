@@ -1,0 +1,326 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Fizika",
+ "mavzu": "13. Majburiy tebranishlar. Rezonans",
+ "savollar": [
+  {
+   "savol": "Tranzistorning baza – emitter zanjiri nima deb ataladi?",
+   "variantlar": [
+    "Chiqish zanjiri",
+    "Kirish zanjiri",
+    "Teskari zanjir",
+    "Kontur zanjiri"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tranzistorning kollektor – emitter zanjiri nima deb ataladi?",
+   "variantlar": [
+    "Kirish zanjiri",
+    "Chiqish zanjiri",
+    "Teskari bog'lanish zanjiri",
+    "Boshqaruv zanjiri"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tranzistorli generatorda chiqishdagi (konturdagi) kuchlanishning kirishdagi kuchlanishni boshqarishi qanday nomlanadi?",
+   "variantlar": [
+    "Teskari bog'lanish",
+    "Interferensiya",
+    "Rezonans",
+    "Majburiy tebranish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Teskari bog'lanish tebranishlarning so'nmasligini ta'minlashi uchun kirish va chiqish zanjiridagi kuchlanishlar faza jihatidan qancha farq qilishi kerak?",
+   "variantlar": [
+    "360°",
+    "180°",
+    "0°",
+    "90°"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Generator ishlab chiqarayotgan elektromagnit tebranishlar chastotasi qaysi formula bilan ifodalanadi?",
+   "variantlar": [
+    "Nyuton formulasi",
+    "Kulon formulasi",
+    "Tomson formulasi",
+    "Om formulasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "So'nmas tebranishlarning ikkinchi turi qaysi?",
+   "variantlar": [
+    "Avtotebranishlar",
+    "So'nuvchi tebranishlar",
+    "Erkin tebranishlar",
+    "Garmonik tebranishlar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Avtotebranishlarning majburiy tebranishlardan asosiy farqi nimada?",
+   "variantlar": [
+    "Ular tezda so'nadi",
+    "Ularga tashqi davriy ta'sir kerak emas",
+    "Ularning chastotasi doimo kichik",
+    "Ularga energiya manbayi kerak emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Har qanday avtotebranish tizimi qaysi qismlardan iborat?",
+   "variantlar": [
+    "Energiya manbayi, tebranish tizimi va elektron kalit",
+    "Faqat kondensator va g'altak",
+    "Antenna, kuchaytirgich va dinamik",
+    "Rezistor, diod va transformator"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Inson organizmidagi har bir a'zo haqida matnda nima deyiladi?",
+   "variantlar": [
+    "O'ziga xos rezonans chastotaga ega",
+    "Faqat yurak rezonans chastotaga ega",
+    "Hech qanday chastotaga ega emas",
+    "Barcha a'zolar bir xil chastotaga ega"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tibbiyotda UB-nurlar qaysi diapazondagi elektromagnit nurlanishlarga kiradi?",
+   "variantlar": [
+    "Tovush diapazoni",
+    "Mexanik diapazon",
+    "Radiodiapazon",
+    "Optik diapazon"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tranzistor odatda qanday vazifani bajaradi?",
+   "variantlar": [
+    "Faqat kuchlanishni o'zgarmas saqlaydi",
+    "Chiqish toki kirish kuchlanishini boshqaradi",
+    "Zanjirni doimo uzib turadi",
+    "Kirish qismiga qo'yilgan kuchlanish (tok) chiqish tokini boshqaradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tebranish konturidagi kondensator qoplamasi musbat zaryadlangan vaqtdagina musbat qutbga ulansa, nima sodir bo'ladi?",
+   "variantlar": [
+    "Kontur qisqa tutashadi",
+    "Kondensator uzluksiz zaryadlanib turadi va tebranishlar so'nmaydi",
+    "Tebranishlar yuzaga kelmaydi",
+    "Tebranishlar butunlay to'xtaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar kondensator qoplamasi musbat qutbga noto'g'ri vaqtda ulansa, matnga ko'ra nima bo'ladi?",
+   "variantlar": [
+    "Tebranishlar yuzaga kelmaydi",
+    "Faza 90° ga siljiydi",
+    "Chastota ikki marta ortadi",
+    "Tebranishlar kuchayadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tranzistorning ochilib-yopilishini nima boshqarishi kerak?",
+   "variantlar": [
+    "Tashqi generator",
+    "Konturdagi tebranishlarning o'zi",
+    "Inson qo'li",
+    "Batareya kuchlanishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Avtotebranish tizimida sarflangan energiya o'rnini to'ldiradigan energiyaning berilishini nima tartibga soladi?",
+   "variantlar": [
+    "Tizimning o'zi",
+    "Operator",
+    "Tashqi davriy kuch",
+    "Atrof-muhit harorati"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Avtotebranish tizimida energiya manbayi qayerda joylashgan?",
+   "variantlar": [
+    "Faqat antennada",
+    "Tizimning o'zida",
+    "Tizimdan tashqarida, alohida",
+    "Faqat yerda"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Teskari bog'lanish tufayli kontur energiyasi qanday ta'minlanib turadi?",
+   "variantlar": [
+    "Bir marta",
+    "Tasodifiy",
+    "Hech qachon",
+    "Davriy ravishda"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tashqi tebranma ta'sirning chastotasi a'zoning rezonans chastotasiga tenglashganda ta'sir qanday bo'ladi?",
+   "variantlar": [
+    "Kuchli bo'ladi",
+    "Kuchsiz bo'ladi",
+    "Nolga teng bo'ladi",
+    "O'zgarmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Avtotebranishlar qaysi sohalarda ishlatiladi?",
+   "variantlar": [
+    "Radioaloqa, televideniye, EHM",
+    "Faqat qishloq xo'jaligida",
+    "Faqat og'ir sanoatda",
+    "Faqat qurilishda"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi fikrlardan qaysi biri matnga ko'ra to'g'ri?",
+   "variantlar": [
+    "Avtotebranishlar faqat past chastotada bo'ladi",
+    "Avtotebranishlar chastotasi faqat bitta qiymatga ega",
+    "Avtotebranishlar faqat tibbiyotda qo'llaniladi",
+    "Avtotebranishlar chastotalari juda keng diapazonda o'zgaradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Generatorda teskari bog'lanish bo'lmasa, kontur tebranishlari nima uchun so'nadi?",
+   "variantlar": [
+    "Chastota cheksiz ortadi",
+    "Faza 180° ga farq qiladi",
+    "Konturga sarflangan energiya o'rni to'ldirilmaydi",
+    "Tranzistor doimo ochiq qoladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri avtotebranishlarni majburiy tebranishlardan farqlaydi va shu bilan birga ularning ishlash mexanizmini to'g'ri ifodalaydi?",
+   "variantlar": [
+    "Tashqi davriy ta'sir kerak emas, energiya berilishini tizimning o'zi teskari bog'lanish orqali boshqaradi",
+    "Tebranish chastotasini tashqi generator belgilaydi",
+    "Tashqi davriy kuch chastotasi doimo o'zgarib turadi",
+    "Energiya faqat boshlang'ich turtkidan olinadi va so'nadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tranzistorli generatorda tebranishlar so'nmasligi uchun qaysi shartlar birgalikda bajarilishi kerak?",
+   "variantlar": [
+    "Kirish zanjiri uzilgan bo'lishi va faza farqi 90° bo'lishi",
+    "Tranzistor doimo ochiq turishi va faza farqi 0° bo'lishi",
+    "Kondensator musbat zaryadlangan paytda musbat qutbga ulanishi va kirish-chiqish kuchlanishlari faza bo'yicha 180° farq qilishi",
+    "Tranzistor doimo yopiq turishi va tashqi kuch qo'yilishi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tranzistorli generatorda tranzistor odatdagi rejimdan qanday farq qiladi?",
+   "variantlar": [
+    "Chiqishdagi kuchlanish kirishdagi kuchlanishni boshqaradi (teskari bog'lanish)",
+    "Kirish toki chiqish tokini boshqarmaydi va tranzistor ishlamaydi",
+    "Tranzistor faqat kondensator vazifasini bajaradi",
+    "Baza–emitter zanjiri butunlay olib tashlanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun tranzistorning ochilib-yopilishini konturdagi tebranishlarning o'zi boshqarishi kerak?",
+   "variantlar": [
+    "Kondensator aynan to'g'ri paytda zaryadlanib, energiya davriy to'ldirilib turishi uchun",
+    "Tebranish chastotasini kamaytirish uchun",
+    "Tranzistorni sovitish uchun",
+    "Faza farqini 0° ga keltirish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Avtotebranish tizimidagi elektron kalit vazifasini matn mazmuniga ko'ra qaysi element bajaradi va u nimani ta'minlaydi?",
+   "variantlar": [
+    "G'altak; tashqi kuchni uzatishni",
+    "Antenna; chastotani oshirishni",
+    "Tranzistor; energiya manbayidan konturga energiyani to'g'ri paytda berilishini",
+    "Kondensator; faza farqini 0° qilishni"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Inson a'zosining rezonans chastotasi 8 Hz bo'lsa, qaysi tashqi tebranma ta'sir unga eng kuchli ta'sir qiladi?",
+   "variantlar": [
+    "Chastotasi 80 Hz bo'lgan ta'sir",
+    "Chastotasi 16 Hz bo'lgan ta'sir",
+    "Chastotasi 4 Hz bo'lgan ta'sir",
+    "Chastotasi 8 Hz bo'lgan ta'sir"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga ko'ra, elektromagnit tebranishlarning tirik organizmlarga ta'siri haqida qaysi xulosa to'g'ri?",
+   "variantlar": [
+    "Ular ham foydali, ham zararli bo'lishi mumkin; ta'sir rezonans chastotada kuchayadi",
+    "Ular hech qanday ta'sir qilmaydi",
+    "Ular faqat foydali, rezonansga bog'liq emas",
+    "Ular faqat zararli, tibbiyotda ishlatilmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Generator chastotasini aniqlash va uning so'nmasligini ta'minlash uchun qaysi juftlik to'g'ri keltirilgan?",
+   "variantlar": [
+    "Chastota Tomson formulasi bilan topiladi; so'nmaslik teskari bog'lanish bilan ta'minlanadi",
+    "Chastota Nyuton qonuni bilan topiladi; so'nmaslik faza 0° bilan ta'minlanadi",
+    "Chastota Kulon qonuni bilan topiladi; so'nmaslik rezonans bilan ta'minlanadi",
+    "Chastota Om qonuni bilan topiladi; so'nmaslik tashqi kuch bilan ta'minlanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

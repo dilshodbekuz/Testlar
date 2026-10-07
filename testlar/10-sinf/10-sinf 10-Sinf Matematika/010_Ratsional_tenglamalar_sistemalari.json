@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Matematika",
+ "mavzu": "Ratsional tenglamalar sistemalari",
+ "savollar": [
+  {
+   "savol": "Ratsional tenglamalar sistemalarini yechishda qanday usullardan foydalaniladi?",
+   "variantlar": [
+    "Qo'shish, o'rniga qo'yish va h.k. usullar",
+    "Faqat grafik usul",
+    "Faqat differensial usul",
+    "Tasodifiy tanlash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ratsional tenglamalar sistemasini yechishda ishtirok etgan ifodalarning maxrajlari qanday bo'lishi kerak?",
+   "variantlar": [
+    "Musbat bo'lishi kerak",
+    "Nolga teng bo'lmasligi kerak",
+    "Butun son bo'lishi kerak",
+    "Manfiy bo'lishi kerak"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x/y = t bo'lsa, y/x nimaga teng?",
+   "variantlar": [
+    "t",
+    "-t",
+    "1/t",
+    "t²"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(2x/(x+1))² = t almashtirish kiritilganda t qanday shartni qanoatlantirishi kerak?",
+   "variantlar": [
+    "t < 0",
+    "t = 0",
+    "t har qanday son",
+    "t ≥ 0"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "t²+5t-36=0 tenglamaning ildizlari t=-9 va t=4. Qaysi biri t≥0 shartini qanoatlantiradi?",
+   "variantlar": [
+    "t=4",
+    "t=-9",
+    "Ikkalasi ham",
+    "Hech biri"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "z = x + 2/x - 2 kabi almashtirish kiritilganda, asl murakkab tenglama nimaga aylanadi?",
+   "variantlar": [
+    "Yanada murakkablashadi",
+    "Yangi o'zgaruvchili soddaroq tenglamaga",
+    "Kvadrat tenglamaga aylanmaydi",
+    "Yechimsiz bo'lib qoladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tengkuchli tenglamalar sistemasi deganda nima tushuniladi?",
+   "variantlar": [
+    "Koeffitsientlari bir xil sistemalar",
+    "Bir xil sondagi tenglamalardan iborat sistemalar",
+    "Yechimlari bir xil bo'lgan sistemalar",
+    "Faqat chiziqli sistemalar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "a=xy, b=x/y belgilash kiritilganda ba'zi ratsional sistemalar qanday sistemaga keltiriladi?",
+   "variantlar": [
+    "Kvadrat sistemaga",
+    "Irratsional sistemaga",
+    "Trigonometrik sistemaga",
+    "Chiziqli sistemaga"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ratsional tenglamaga ta'rif berilganda unda qanday ifodalar ishtirok etadi?",
+   "variantlar": [
+    "Ratsional ifodalar (ko'phadlar nisbati)",
+    "Faqat darajali ifodalar",
+    "Faqat trigonometrik ifodalar",
+    "Faqat logarifmik ifodalar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ratsional tenglamalar sistemasining yechimini topgandan so'ng nima qilish kerak?",
+   "variantlar": [
+    "Hech narsa qilish shart emas",
+    "Topilgan yechimni asl tenglamalarga qo'yib tekshirish (maxrajlar nolga aylanmasligini)",
+    "Yechimni kvadratga ko'tarish",
+    "Yechimni yumaloqlash"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(2x/(x+1))²+5(2x/(x+1))-36=0 tenglamada t=4 bo'lganda, 2x/(x+1)=2 tenglama yechimga egami?",
+   "variantlar": [
+    "Ha, x=0,5",
+    "Ha, x=1",
+    "Yo'q, yechimga ega emas",
+    "Ha, cheksiz ko'p yechimga ega"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi misolda 2x/(x+1)=-2 tenglamani yeching.",
+   "variantlar": [
+    "x=0,5",
+    "x=2",
+    "x=-2",
+    "x=-0,5"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sistema {x/y-y/x=5/6, x²-y²=5} da t=x/y almashtirish kiritilsa, 6t²-5t-6=0 tenglamaning ildizlarini toping.",
+   "variantlar": [
+    "t=3/2 va t=-2/3",
+    "t=2/3 va t=-3/2",
+    "t=5 va t=6",
+    "t=1 va t=-1"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi sistemada t=3/2 bo'lganda x va y orasidagi bog'lanishni toping.",
+   "variantlar": [
+    "x=(2/3)y",
+    "x=(3/2)y",
+    "x=y",
+    "x=-y"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "{x=(3/2)y, x²-y²=5} sistemasining yechimlarini toping.",
+   "variantlar": [
+    "(2,3) va (-2,-3)",
+    "Yechimga ega emas",
+    "(3,2) va (-3,-2)",
+    "(5,0) va (-5,0)"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "{x=-(3/2)y, x²-y²=-5} sistemasi yechimga egami?",
+   "variantlar": [
+    "Ha, (3,2)",
+    "Ha, cheksiz ko'p yechimga ega",
+    "Ha, (0,0)",
+    "Yo'q, yechimga ega emas"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sistema {2xy-2x/y=15, xy+x/y=15} da a=xy, b=x/y belgilansa, hosil bo'lgan chiziqli sistemani toping.",
+   "variantlar": [
+    "{2a-3b=15, a+b=15}",
+    "{2a+3b=15, a-b=15}",
+    "{a-b=15, 2a+b=15}",
+    "{a+3b=15, 2a-b=15}"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "{2a-3b=15, a+b=15} sistemasini yechib, a va b ni toping.",
+   "variantlar": [
+    "a=15, b=0",
+    "a=12, b=3",
+    "a=10, b=5",
+    "a=9, b=6"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "a=xy=12, b=x/y=3 bo'lsa, x=3y almashtirish bilan y·3y=12 tenglamani yechib, y ni toping.",
+   "variantlar": [
+    "y=4",
+    "y=12",
+    "y=±2",
+    "y=±4"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi natijada sistemaning yechimlari qanday juftliklar bo'ladi?",
+   "variantlar": [
+    "(3,1) va (-3,-1)",
+    "(2,6) va (-2,-6)",
+    "(12,3) va (-12,-3)",
+    "(6,2) va (-6,-2)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Murakkab ratsional tenglamalar sistemasini yechishda nisbatlar (masalan x/(2y+3)) qatnashsa, odatda qanday usul qo'llaniladi?",
+   "variantlar": [
+    "O'zgaruvchini almashtirish usuli",
+    "Faqat grafik usul",
+    "Faqat integrallash",
+    "Faqat differensiallash"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "{3/x+5/y=2, 5/x+3/y=2} sistemasini yechishda qanday almashtirish qulay?",
+   "variantlar": [
+    "u=x, v=y",
+    "u=1/x, v=1/y",
+    "u=x², v=y²",
+    "u=xy, v=x/y"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "{12/x+25/y=7, 6/x+5/y=2} sistemasini yechishda ham qanday almashtirish qulay?",
+   "variantlar": [
+    "u=x², v=y²",
+    "u=xy, v=x/y",
+    "u=1/x, v=1/y",
+    "u=x+y, v=x-y"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "{5x/8y=8y/5x, 5x-8y=20} sistemada birinchi tenglamadan qanday tenglik kelib chiqadi?",
+   "variantlar": [
+    "5x+8y=0",
+    "x=y",
+    "x²=y²",
+    "(5x)²=(8y)²"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "{(x+1)(x-8)=0, (y-3)/(x+y-2)=5} sistemada birinchi tenglamadan x ning qanday qiymatlari topiladi?",
+   "variantlar": [
+    "x=-1 yoki x=8",
+    "x=1 yoki x=-8",
+    "x=0 yoki x=8",
+    "x=-1 yoki x=-8"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "{1/x²=4/y², xy=-8} sistemada birinchi tenglamadan qanday bog'lanish kelib chiqadi?",
+   "variantlar": [
+    "y=x",
+    "y²=4x², ya'ni y=±2x",
+    "y=4x",
+    "x²=4y²"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Klubning zalida 320 ta o'rin bo'lib, qatorlar bo'yicha bir xil taqsimlangan. Har bir qatordagi o'rinlar sonini 4 taga orttirib, yana bir qator qo'yilgandan so'ng zalda 420 ta o'rin bo'ldi. Bu masala qanday matematik vosita yordamida yechiladi?",
+   "variantlar": [
+    "Faqat chizma yordamida",
+    "Ratsional tenglama (noma'lum - qatorlar soni) yordamida",
+    "Faqat statistik baho bilan",
+    "Yechib bo'lmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "108 imtihon topshiruvchiga 480 varaq qog'oz tarqatildi, har bir qiz har bir o'g'il bolaga qaraganda bir varaq ortiq qog'oz oldi. Bu masalada nechta asosiy noma'lum miqdor bor?",
+   "variantlar": [
+    "1 ta",
+    "4 ta",
+    "3 ta",
+    "2 ta (qizlar va o'g'il bolalar soni)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sodda ratsional tenglamalar sistemasini yechishda almashtirish usuli ayniqsa qachon qulay bo'ladi?",
+   "variantlar": [
+    "Murakkab ifodalar (masalan x/y, xy) sistemada takrorlanganda",
+    "Faqat sistemada bitta tenglama bo'lsa",
+    "Faqat koeffitsientlar teng bo'lsa",
+    "Hech qachon qulay emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ratsional tenglamalar sistemasi yechimini tekshirishda nimaga alohida e'tibor berish kerak?",
+   "variantlar": [
+    "Yechim musbat ekanligiga",
+    "Topilgan juftlik asl tenglamalarning maxrajlarini nolga aylantirmasligiga",
+    "Yechim butun son ekanligiga",
+    "Yechim kichik son ekanligiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

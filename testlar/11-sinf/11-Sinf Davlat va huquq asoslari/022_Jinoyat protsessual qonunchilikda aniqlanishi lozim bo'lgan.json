@@ -1,0 +1,337 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Davlat va huquq asoslari",
+ "mavzu": "Jinoyat protsessual qonunchilikda aniqlanishi lozim bo'lgan holatlar",
+ "savollar": [
+  {
+   "savol": "Matnga ko'ra, isbot qilish nimadan iborat?",
+   "variantlar": [
+    "Dalillarni to'plash, tekshirish va baholashdan",
+    "Faqat guvohlarni chaqirishdan",
+    "Jazo tayinlashdan",
+    "Faqat ayblov xulosasini yozishdan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tungi vaqt tergov harakatlari uchun qaysi oraliqda hisoblanadi?",
+   "variantlar": [
+    "21-00 dan 5-00 gacha",
+    "20-00 dan 4-00 gacha",
+    "22-00 dan 6-00 gacha",
+    "23-00 dan 7-00 gacha"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "So'roqning umumiy davom etish vaqti bir kunda necha soatdan oshmasligi lozim (dam olish va ovqatlanish tanaffusi hisobga kirmaydi)?",
+   "variantlar": [
+    "O'n soat",
+    "To'rt soat",
+    "Sakkiz soat",
+    "Olti soat"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Voyaga yetmagan gumon qilinuvchini so'roq qilishga ketgan umumiy vaqt kun davomida necha soatdan oshmasligi kerak?",
+   "variantlar": [
+    "Uch soat",
+    "Sakkiz soat",
+    "Besh soat",
+    "Olti soat"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Voyaga yetmagan gumon qilinuvchi va ayblanuvchi kimning ishtirokida so'roq qilinadi?",
+   "variantlar": [
+    "Faqat qo'shnilari ishtirokida",
+    "Faqat tergovchi yolg'iz o'zi",
+    "Himoyachi ishtirokida",
+    "Faqat jabrlanuvchi ishtirokida"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, jinoyat ishi bo'yicha dalil deb nima hisoblanadi?",
+   "variantlar": [
+    "Faqat ashyoviy dalillar",
+    "Qonunda belgilangan tartibda holatlarni aniqlashga asos bo'ladigan har qanday haqiqiy ma'lumotlar",
+    "Faqat ekspert xulosasi",
+    "Faqat sudlanuvchining ko'rsatuvi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri dalillar turiga kiradi?",
+   "variantlar": [
+    "Taxmin va faraz",
+    "Mish-mish gaplar",
+    "Ekspertning xulosasi",
+    "Noma'lum manbadan olingan xabar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ma'lumotlar va narsalardan dalil sifatida qachon foydalanish mumkin?",
+   "variantlar": [
+    "Ular topilgan zahoti",
+    "Tergov harakati yoki sud majlisi bayonnomasida qayd etilgandan keyingina",
+    "Faqat guvoh ko'rsatgandan keyin",
+    "Faqat jabrlanuvchi so'raganda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "So'roq qilinuvchining shaxsi aniqlangandan keyin unga nima tushuntiriladi?",
+   "variantlar": [
+    "Jazo muddati",
+    "Jinoyat-protsessual kodeksida nazarda tutilgan huquq va majburiyatlari",
+    "Sudyaning shaxsiy ma'lumotlari",
+    "Ayblov xulosasining matni"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ishga aloqasi bo'lmagan narsa va hujjatlar bilan nima qilinadi?",
+   "variantlar": [
+    "Qonuniy egasiga darhol qaytariladi",
+    "Tergovchida qoldiriladi",
+    "Yo'q qilinadi",
+    "Tergov tugaguncha saqlanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tergovchi kechki soat 23-00 da oddiy tergov harakatini o'tkazmoqchi, bunda hech qanday istisno holat yo'q. Bu harakat qanday baholanadi?",
+   "variantlar": [
+    "Faqat guvoh roziligi bilan ruxsat etiladi",
+    "Taqiqlanadi, chunki tungi vaqtga to'g'ri keladi",
+    "Faqat kunduzgi soat hisobida ruxsat etiladi",
+    "Ruxsat etiladi, chunki tergovchi vakolatli"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gumon qilinuvchining qochib ketishiga yo'l qo'ymaslik zarur bo'lsa, tungi vaqtda tergov harakati o'tkazish mumkinmi?",
+   "variantlar": [
+    "Faqat voyaga yetmaganlar uchun",
+    "Yo'q, hech qachon mumkin emas",
+    "Faqat sudning ruxsati bilan",
+    "Ha, bu istisno hol hisoblanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "12 yoshli guvohni so'roq qilish kimning ishtirokida va qanday o'tkaziladi?",
+   "variantlar": [
+    "Qonuniy vakili, yaqin qarindoshi yoki pedagog ishtirokida, ularning roziligi bilan",
+    "Faqat tergovchi yolg'iz o'zi",
+    "Faqat gumon qilinuvchi ishtirokida",
+    "Faqat qo'shnilar ishtirokida"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tergovchi so'roqni 15 yoshli ayblanuvchi bilan 7 soat (tanaffusdan tashqari) davom ettirdi. Bu qoidaga muvofiqmi?",
+   "variantlar": [
+    "Ha, chunki sakkiz soatdan oshmagan",
+    "Yo'q, chunki voyaga yetmaganlar uchun olti soatdan oshmasligi kerak",
+    "Yo'q, chunki so'roq umuman mumkin emas",
+    "Ha, chunki tanaffus berilgan"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "So'roq qilinuvchining ko'rsatuvlari murakkab raqamlarga taalluqli bo'lsa, u nima qilishi mumkin?",
+   "variantlar": [
+    "O'zidagi yoki ishga qo'shilgan hujjat va yozuvlardan foydalanishi mumkin",
+    "Faqat xotiradan javob berishi shart",
+    "Boshqa shaxsni almashtirishi kerak",
+    "So'roqni rad etishi shart"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "So'roq qilinuvchi o'zida bor hujjatlardan foydalansa, so'roq qiluvchi nima qilishi mumkin?",
+   "variantlar": [
+    "Ularni o'zida doimiy saqlashi",
+    "Ularni talab qilib, keyin qaytarib berishi yoki ishga qo'shib qo'yishi",
+    "Ularga e'tibor bermasligi",
+    "Ularni yo'q qilishi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tergov davomida olib qo'yilgan narsa egasiga nima topshiriladi va undan nima olinadi?",
+   "variantlar": [
+    "Hech narsa topshirilmaydi",
+    "Ayblov xulosasi, kafolat",
+    "Qaror nusxasi, guvohnoma",
+    "Bayonnoma nusxasi yoki ko'chirmasi, tilxat"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Fuqarolar saqlashi taqiqlangan narsa va hujjatlar bilan nima qilinadi?",
+   "variantlar": [
+    "Egasiga qaytariladi",
+    "Tergovchining shaxsiy saqlovida qoladi",
+    "Sotiladi",
+    "Yo'q qilinadi yoki saqlashga vakolatli muassasalarga beriladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tezkor-qidiruv tadbirlari natijalari qachon dalil deb e'tirof etilishi mumkin?",
+   "variantlar": [
+    "Darhol, hech qanday tekshiruvsiz",
+    "Faqat jabrlanuvchi so'rasa",
+    "Faqat guvoh tasdiqlasa",
+    "Qonunga rioya qilib o'tkazilib, JPKga muvofiq tekshirilgan va baholangandan so'ng"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tergovchi gumon qilinuvchiga huquqlarini tushuntirmay, uni chalg'itib ko'rsatuv oldi. Bu ko'rsatuv haqida nima deyish mumkin?",
+   "variantlar": [
+    "U faqat ekspert tasdiqlasa dalil bo'ladi",
+    "U faqat sud uchun dalil bo'ladi",
+    "U dalil sifatida foydalanishga yo'l qo'yiladi",
+    "U dalil sifatida foydalanishga yo'l qo'yilmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Dastlabki tergovda guvoh bergan ko'rsatuv sudda mavjud dalillar majmuyi bilan tasdiqlanmadi. Farmonga ko'ra bu ko'rsatuv haqida nima deyish to'g'ri?",
+   "variantlar": [
+    "Faqat ekspert baholasa foydalaniladi",
+    "Dalil sifatida foydalaniladi, chunki tergovda berilgan",
+    "Dalil sifatida foydalanishga yo'l qo'yilmaydi",
+    "Faqat jabrlanuvchi tasdiqlasa foydalaniladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tergovchi guvohning mish-mishga asoslangan ko'rsatuvini oldi, u boshqa dalillar bilan tasdiqlanmagan. Bu ko'rsatuvdan foydalanish mumkinmi?",
+   "variantlar": [
+    "Ha, agar guvoh qasam ichsa",
+    "Yo'q, mavjud dalillar bilan tasdiqlanmagan taxmin va mish-mishlar dalil bo'la olmaydi",
+    "Faqat voyaga yetmaganlar ishida mumkin",
+    "Ha, har doim mumkin"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ish yuritish huquqiga ega bo'lmagan shaxs so'roq o'tkazib, ko'rsatuv oldi. Bu holatda qaysi xulosa to'g'ri?",
+   "variantlar": [
+    "Ko'rsatuv to'liq dalil hisoblanadi",
+    "Ko'rsatuv faqat tungi vaqtda dalil bo'ladi",
+    "Ko'rsatuv dalil sifatida foydalanishga yo'l qo'yilmaydi, chunki vakolatsiz shaxs tomonidan olingan",
+    "Ko'rsatuv faqat sudlanuvchi roziligi bilan dalil bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gumon qilinuvchi o'zbek tilini bilmaydi, unga tarjimon berilmadi va ko'rsatuv olindi. Bu ko'rsatuv nima uchun dalil bo'la olmaydi?",
+   "variantlar": [
+    "Chunki ko'rsatuv juda uzun bo'lgan",
+    "Chunki himoyachi qatnashgan",
+    "Chunki so'roq kunduz o'tkazilgan",
+    "Chunki tarjimon xizmatidan foydalanish huquqi buzilgan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "14 yoshli Z. narkotik moddasini olib o'tishda qo'lga tushdi. Uning aybini isbotlashda qaysi harakatlar to'g'ri bo'ladi?",
+   "variantlar": [
+    "Qiynoq orqali tan olishga majburlash",
+    "Himoyachi ishtirokisiz tungi soat 23-00 da so'roq qilish",
+    "So'roqni himoyachi ishtirokida, kuniga olti soatdan oshirmay o'tkazish va dalillarni bayonnomada qayd etish",
+    "Faqat mish-mishlarga tayanish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi holatda ko'rsatuv olishda quyidagi taqiqlar buzilgan hisoblanadi: tergovchi gumon qilinuvchini po'pisa qilib, ko'rsatuv berishga majbur qildi?",
+   "variantlar": [
+    "Faqat tungi vaqt taqiqi buzilgan",
+    "Faqat bayonnoma qoidasi buzilgan",
+    "Hech qanday taqiq buzilmagan",
+    "Zo'rlik, po'pisa va aldash yo'li bilan ko'rsatuv olish taqiqlanganligi buzilgan"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "15 yoshli ayblanuvchini so'roq qilishda qaysi to'plam qoidalarga to'liq mos keladi?",
+   "variantlar": [
+    "Faqat qo'shni ishtirokida, 8 soat",
+    "Himoyachi ishtirokida, tanaffusdan tashqari 5 soat, kunduzi, huquqlari tushuntirilib bayonnomada qayd etilgan",
+    "Himoyachi yo'q, 4 soat, huquqlar tushuntirilmagan",
+    "Himoyachi yo'q, 7 soat, tungi vaqt"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "So'roq qilish joyi haqidagi qoidaga ko'ra, tergovchi guvohni qayerda so'roq qilishi mumkin?",
+   "variantlar": [
+    "Faqat tergovchining uyida",
+    "Faqat jabrlanuvchining uyida",
+    "Dastlabki tergov o'tkaziladigan joyda yoki so'roq qilinuvchi qayerda bo'lsa, o'sha joyda",
+    "Faqat sud binosida"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi holatlardan qaysi birida olingan ma'lumotdan dalil sifatida foydalanishga yo'l qo'yiladi?",
+   "variantlar": [
+    "Qiynoq ostida olingan ko'rsatuv",
+    "Huquqlari tushuntirilmay olingan ko'rsatuv",
+    "Qonuniy tartibda o'tkazilgan so'roq bayonnomasida qayd etilgan, himoya huquqi buzilmagan holda olingan ko'rsatuv",
+    "Noma'lum manbadan olingan ma'lumot"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "16 yoshgacha bo'lgan jabrlanuvchini so'roq qilish va unga savol berish tartibi haqida qaysi fikr to'g'ri?",
+   "variantlar": [
+    "So'roqda hech kim ishtirok etmasligi shart",
+    "So'roq qonuniy vakili, yaqin qarindoshi yoki pedagog ishtirokida, ularning roziligi bilan o'tadi va ular so'roq qiluvchining ruxsati bilan savol berishlari mumkin",
+    "Savollarni faqat gumon qilinuvchi beradi",
+    "So'roq faqat tergovchi bilan yakka tartibda o'tadi, savol berish mumkin emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

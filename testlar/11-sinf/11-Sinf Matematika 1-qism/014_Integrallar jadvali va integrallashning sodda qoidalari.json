@@ -1,0 +1,337 @@
+{
+  "sinf": "11-sinf",
+  "kitob": "11-sinf 11-Sinf Matematika 1-qism",
+  "mavzu": "Integrallar jadvali va integrallashning sodda qoidalari",
+  "savollar": [
+    {
+      "savol": "∫ x⁴ dx integrali nimaga teng?",
+      "variantlar": [
+        "x⁴/4 + C",
+        "4x³ + C",
+        "x⁵/5 + C",
+        "x⁵ + C"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "∫ dx/x (x > 0) integrali nimaga teng?",
+      "variantlar": [
+        "1/x² + C",
+        "ln|x| + C",
+        "x + C",
+        "-1/x + C"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "∫ e^x dx integrali nimaga teng?",
+      "variantlar": [
+        "e^(x-1) + C",
+        "ln e^x + C",
+        "e^x + C",
+        "x·e^x + C"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "∫ sin x dx integrali nimaga teng?",
+      "variantlar": [
+        "-sin x + C",
+        "-cos x + C",
+        "cos x + C",
+        "sin x + C"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "∫ cos x dx integrali nimaga teng?",
+      "variantlar": [
+        "-sin x + C",
+        "sin x + C",
+        "cos x + C",
+        "-cos x + C"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "∫ (2x + 1)³ dx integrali nimaga teng?",
+      "variantlar": [
+        "(2x + 1)⁴/4 + C",
+        "(2x + 1)⁴ + C",
+        "(2x + 1)³/6 + C",
+        "(2x + 1)⁴/8 + C"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "∫ dx/(4x - 5) integrali nimaga teng?",
+      "variantlar": [
+        "(1/4)ln|4x - 5| + C",
+        "4ln|4x - 5| + C",
+        "1/(4x - 5)² + C",
+        "ln|4x - 5| + C"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "∫ e^(4x - 1) dx integrali nimaga teng?",
+      "variantlar": [
+        "e^(4x - 1)/(4x - 1) + C",
+        "e^(4x - 1) + C",
+        "4e^(4x - 1) + C",
+        "e^(4x - 1)/4 + C"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "∫ sin(7x - 6) dx integrali nimaga teng?",
+      "variantlar": [
+        "cos(7x - 6)/7 + C",
+        "-cos(7x - 6)/7 + C",
+        "-cos(7x - 6) + C",
+        "sin(7x - 6)/7 + C"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "∫ cos(5x + 3) dx integrali nimaga teng?",
+      "variantlar": [
+        "-sin(5x + 3)/5 + C",
+        "sin(5x + 3) + C",
+        "-cos(5x + 3)/5 + C",
+        "sin(5x + 3)/5 + C"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "∫ dx/cos²x integrali nimaga teng?",
+      "variantlar": [
+        "-tg x + C",
+        "ctg x + C",
+        "tg x + C",
+        "-ctg x + C"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "∫ dx/sin²x integrali nimaga teng?",
+      "variantlar": [
+        "ctg x + C",
+        "tg x + C",
+        "-tg x + C",
+        "-ctg x + C"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "∫ 3^x dx integrali nimaga teng?",
+      "variantlar": [
+        "3^x·ln3 + C",
+        "3^x + C",
+        "x·3^(x-1) + C",
+        "3^x/ln3 + C"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "∫ dx/(1 + x²) integrali nimaga teng?",
+      "variantlar": [
+        "arcsin x + C",
+        "ln(1 + x²) + C",
+        "arctg x + C",
+        "1/(1 + x²) + C"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "∫ (x³ - sin 2x - 3) dx integrali nimaga teng?",
+      "variantlar": [
+        "3x² - 2cos 2x + C",
+        "x⁴/4 + cos 2x/2 - 3 + C",
+        "x⁴/4 + cos 2x/2 - 3x + C",
+        "x⁴/4 - cos 2x/2 - 3x + C"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "∫ (x⁴ + cos 3x + 4) dx integrali nimaga teng?",
+      "variantlar": [
+        "x⁵/5 + sin 3x/3 + 4x + C",
+        "x⁵/5 + sin 3x + 4x + C",
+        "x⁵/5 - sin 3x/3 + 4x + C",
+        "4x³ + sin 3x + C"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "∫ (5cos x - 3sin x) dx integrali nimaga teng?",
+      "variantlar": [
+        "5sin x - 3cos x + C",
+        "5sin x + 3cos x + C",
+        "-5sin x + 3cos x + C",
+        "5cos x + 3sin x + C"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "∫ (5e^x + 2cos x + 1) dx integrali nimaga teng?",
+      "variantlar": [
+        "5e^x - 2sin x + x + C",
+        "5e^x + 2sin x + C",
+        "5e^x + 2sin x + x + C",
+        "5e^x + 2sin x + 1 + C"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "∫ 4/cos²x dx integrali nimaga teng?",
+      "variantlar": [
+        "4/cos x + C",
+        "4tg x + C",
+        "tg x/4 + C",
+        "-4ctg x + C"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "∫ 3/cos²4x dx integrali nimaga teng?",
+      "variantlar": [
+        "(3/4)tg 4x + C",
+        "(3/4)tg x + C",
+        "3tg 4x + C",
+        "-(3/4)ctg 4x + C"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "x > 1,6 bo'lganda ∫ dx/(5x - 8) integrali nimaga teng?",
+      "variantlar": [
+        "ln(5x - 8) + C",
+        "5ln(5x - 8) + C",
+        "1/(5x - 8)² + C",
+        "(1/5)ln(5x - 8) + C"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "∫ (x² - 1)(x + 2) dx integrali nimaga teng?",
+      "variantlar": [
+        "x⁴/4 + 2x³/3 - x²/2 - 2x + C",
+        "x⁴/4 + 2x³/3 - x²/2 + C",
+        "x³/3 + x² - x + C",
+        "x⁴/4 + 2x³/3 + x²/2 - 2x + C"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "∫ (x + 2)(x² - 9) dx integrali nimaga teng?",
+      "variantlar": [
+        "x³ + 2x² - 9x + C",
+        "x⁴/4 - 2x³/3 - 9x²/2 - 18x + C",
+        "x⁴/4 + 2x³/3 - 9x²/2 - 18x + C",
+        "x⁴/4 + 2x³/3 - 9x + C"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "∫ (e^(3x + 2) + 10^x) dx integrali nimaga teng?",
+      "variantlar": [
+        "3e^(3x + 2) + 10^x/ln10 + C",
+        "e^(3x + 2) + 10^x·ln10 + C",
+        "e^(3x + 2)/3 + 10^x/ln10 + C",
+        "e^(3x + 2)/3 + 10^x + C"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "∫ dx/(x² + 6x + 10) integrali nimaga teng?",
+      "variantlar": [
+        "arctg(x + 6) + C",
+        "ln(x² + 6x + 10) + C",
+        "arctg(x) + C",
+        "arctg(x + 3) + C"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "∫ dx/(x² - 4x + 5) integrali nimaga teng?",
+      "variantlar": [
+        "arctg(x + 2) + C",
+        "ln(x² - 4x + 5) + C",
+        "arctg(x - 4) + C",
+        "arctg(x - 2) + C"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "∫ (1 - 2sin²5x) dx integrali nimaga teng?",
+      "variantlar": [
+        "cos 10x/10 + C",
+        "sin 10x/10 + C",
+        "sin 10x + C",
+        "-sin 10x/10 + C"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "∫ dx/(1 + cos x) integrali nimaga teng?",
+      "variantlar": [
+        "2tg(x/2) + C",
+        "tg(x/2) + C",
+        "ctg(x/2) + C",
+        "tg x + C"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "∫ sin 5x · cos 3x dx integrali nimaga teng?",
+      "variantlar": [
+        "−cos8x/16 − cos2x/4 + C",
+        "cos8x/16 + cos2x/4 + C",
+        "−cos8x/4 − cos2x/16 + C",
+        "(1/2)(cos8x + cos2x) + C"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "x > 3 bo'lganda ∫ dx/(x² − 5x + 6) integrali nimaga teng?",
+      "variantlar": [
+        "ln|(x−3)/(x−2)| + C",
+        "ln|(x−2)/(x−3)| + C",
+        "ln|(x−3)(x−2)| + C",
+        "ln|x² − 5x + 6| + C"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    }
+  ]
+}

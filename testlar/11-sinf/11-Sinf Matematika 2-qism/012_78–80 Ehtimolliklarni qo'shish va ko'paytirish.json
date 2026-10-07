@@ -1,0 +1,337 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Matematika 2-qism",
+ "mavzu": "78–80 Ehtimolliklarni qo'shish va ko'paytirish",
+ "savollar": [
+  {
+   "savol": "Ixtiyoriy A va B hodisalar uchun ehtimolliklarni qo'shish qoidasi qaysi tenglik bilan ifodalanadi?",
+   "variantlar": [
+    "P(A ∪ B) = P(A) − P(B)",
+    "P(A ∪ B) = P(A) + P(B) + P(A ∩ B)",
+    "P(A ∪ B) = P(A) · P(B)",
+    "P(A ∪ B) = P(A) + P(B) − P(A ∩ B)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Birgalikda bo'lmagan A va B hodisalar uchun qaysi tenglik o'rinli?",
+   "variantlar": [
+    "P(A ∪ B) = P(A) · P(B)",
+    "P(A ∪ B) = 1 − P(A)",
+    "P(A ∪ B) = P(A) + P(B)",
+    "P(A ∪ B) = P(A) − P(B)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Shartli ehtimollik P(A|B) qaysi formula yordamida topiladi (P(B) ≠ 0)?",
+   "variantlar": [
+    "P(A|B) = P(A) + P(B)",
+    "P(A|B) = P(A ∩ B) / P(A)",
+    "P(A|B) = P(A) · P(B)",
+    "P(A|B) = P(A ∩ B) / P(B)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ehtimollikni ko'paytirish formulasi qaysi javobda to'g'ri yozilgan?",
+   "variantlar": [
+    "P(A ∩ B) = P(A) + P(B|A)",
+    "P(A ∩ B) = P(B) / P(A|B)",
+    "P(A ∩ B) = P(A) − P(B)",
+    "P(A ∩ B) = P(B) · P(A|B)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaysi shart bajarilganda A hodisa B hodisaga bog'liq emas deyiladi?",
+   "variantlar": [
+    "P(A|B) = P(A)",
+    "P(A|B) = P(B)",
+    "P(A|B) = 0",
+    "P(A|B) = 1"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A va B hodisalar o'zaro bog'liq bo'lmasa, ularning birgalikda ro'y berish ehtimolligi qanday topiladi?",
+   "variantlar": [
+    "P(AB) = P(A) + P(B)",
+    "P(AB) = P(A) · P(B)",
+    "P(AB) = P(A) − P(B)",
+    "P(AB) = P(A) / P(B)"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A|B yozuv nimani bildiradi?",
+   "variantlar": [
+    "B hodisaning ro'y berganligi aniq bo'lganida A hodisaning ro'y berishini",
+    "A yoki B hodisaning ro'y berishini",
+    "A va B hodisalarning birgalikda ro'y berishini",
+    "A hodisaning ro'y bermasligini"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A va B hodisalar birgalikda bo'lmasa, P(A ∩ B) nimaga teng?",
+   "variantlar": [
+    "P(A) · P(B)",
+    "1",
+    "P(A) + P(B)",
+    "0"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A₁, A₂, ..., Aₙ o'zaro bog'liq bo'lmagan hodisalarning har birining ehtimolligi p bo'lsa, ulardan kamida bittasining ro'y berish ehtimolligi qaysi formula bilan topiladi?",
+   "variantlar": [
+    "pⁿ",
+    "1 − pⁿ",
+    "n · p",
+    "1 − (1 − p)ⁿ"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "A va B hodisalar o'zaro bog'liq bo'lmasa, quyidagilardan qaysi biri to'g'ri?",
+   "variantlar": [
+    "A va B̄ hodisalarning ehtimolliklari yig'indisi 1 ga teng",
+    "A va B̄ hodisalar albatta bog'liq bo'ladi",
+    "A va B̄ hodisalar birgalikda bo'lmaydi",
+    "A va B̄ hodisalar ham o'zaro bog'liq bo'lmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "P(A) = 0,4, P(A ∪ B) = 0,9, P(A ∩ B) = 0,1 bo'lsa, P(B) nimaga teng?",
+   "variantlar": [
+    "0,6",
+    "0,5",
+    "0,4",
+    "0,7"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "P(A) = 0,6, P(B) = 0,5, P(A ∪ B) = 0,9 bo'lsa, P(A ∩ B) nimaga teng?",
+   "variantlar": [
+    "0,2",
+    "0,3",
+    "0,1",
+    "0,4"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A va B hodisalar birgalikda bo'lmasin. P(A) = 0,45, P(A ∪ B) = 0,8 bo'lsa, P(B) nimaga teng?",
+   "variantlar": [
+    "0,25",
+    "0,45",
+    "0,36",
+    "0,35"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1, 2, ..., 15 sonlari bilan nomerlangan chiptalardan biri ixtiyoriy tanlanmoqda. Chiptadagi nomer 11 dan katta bo'lishi ehtimolligi nimaga teng?",
+   "variantlar": [
+    "1/3",
+    "4/15",
+    "11/15",
+    "3/15"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gulzorda 20 ta qizil, 30 ta binafsha va 40 ta oq gul ochilgan. Tavakkaliga uzilgan gulning qizil yoki binafsha bo'lish ehtimolligi nimaga teng?",
+   "variantlar": [
+    "1/3",
+    "2/9",
+    "5/9",
+    "4/9"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "X va Y hodisalar o'zaro bog'liq emas, P(X) = 0,5, P(Y) = 0,7. X va Y hodisalarning ikkalasi ham ro'y berish ehtimolligi nimaga teng?",
+   "variantlar": [
+    "0,7",
+    "0,2",
+    "1,2",
+    "0,35"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "P(A) = 1/2, P(B) = 1/3 va A, B birgalikda bo'lmagan hodisalar bo'lsa, P(A ∪ B) nimaga teng?",
+   "variantlar": [
+    "1/5",
+    "2/5",
+    "1/6",
+    "5/6"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "P(A) = 0,5 va P(B|A) = 0,4 bo'lsa, P(A ∩ B) nimaga teng?",
+   "variantlar": [
+    "0,1",
+    "0,9",
+    "0,2",
+    "0,8"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tanga va kub bir vaqtda tashlandi. «Gerb» tushishi va kubda «3» soni tushishi hodisalarining birgalikda ro'y berish ehtimolligi nimaga teng?",
+   "variantlar": [
+    "1/8",
+    "1/6",
+    "1/12",
+    "2/3"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ish vaqti davomida bitta dastgohni ta'mirlash ehtimolligi 0,2, ikkita dastgohni ta'mirlash ehtimolligi 0,13, ikkitadan ortiq dastgohni ta'mirlash ehtimolligi 0,07 ga teng. Hech bo'lmaganda bitta dastgohni ta'mirlash talab etilishi ehtimolligi nimaga teng?",
+   "variantlar": [
+    "0,6",
+    "0,3",
+    "0,0182",
+    "0,4"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ikki ovchi bo'riga qarata bittadan o'q uzdi. Birinchisining o'qni tekkizish ehtimolligi 0,7, ikkinchisiniki 0,8. Hech bo'lmaganda bitta o'qning bo'riga tegishi ehtimolligi nimaga teng?",
+   "variantlar": [
+    "0,86",
+    "1,5",
+    "0,94",
+    "0,56"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Idishda 10 ta qizil va 6 ta ko'k shar bor. Tavakkaliga 2 ta shar olinadi. Ikkala sharning bir xil rangli bo'lish ehtimolligi nimaga teng?",
+   "variantlar": [
+    "3/8",
+    "15/16",
+    "5/8",
+    "1/2"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Firmada 7 ta erkak va 3 ta ayol ishchi ishlaydi. Tavakkaliga 3 kishi ajratildi. Ularning barchasi erkak bo'lish ehtimolligi nimaga teng?",
+   "variantlar": [
+    "7/24",
+    "1/3",
+    "343/1000",
+    "7/10"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Obyektga tushish ehtimolliklari mos ravishda 0,3; 0,4; 0,6; 0,7 bo'lgan 4 ta bomba tashlandi. Obyekt yakson bo'lishi uchun bitta bomba tushishi kifoya. Obyektning yakson bo'lish ehtimolligi nimaga teng?",
+   "variantlar": [
+    "0,0504",
+    "0,9496",
+    "0,5504",
+    "0,7"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "40 nafar o'quvchidan 34 nafari banan, 22 nafari olma yoqtiradi, 2 nafari ikkala mevani ham yoqtirmaydi. Olmani yoqtirishi aniq bo'lganida o'quvchining bananni ham yoqtirish ehtimolligi nimaga teng?",
+   "variantlar": [
+    "8/17",
+    "9/20",
+    "9/11",
+    "19/20"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "P(A) = 1/2, P(B) = 1/3 va A, B o'zaro bog'liq bo'lmagan hodisalar bo'lsa, P(A ∪ B) nimaga teng?",
+   "variantlar": [
+    "5/6",
+    "1/2",
+    "1/6",
+    "2/3"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "25 nafar o'quvchidan 14 nafari palovni, 16 nafari mantini yoqtiradi, 1 nafari ikkala taomni ham yoqtirmaydi, 6 nafari ikkalasini ham yoqtiradi. Mantini yoqtirishi aniq bo'lganida o'quvchining palovni ham yoqtirish ehtimolligi nimaga teng?",
+   "variantlar": [
+    "3/7",
+    "14/25",
+    "6/25",
+    "3/8"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "X va Y o'zaro bog'liq bo'lmagan hodisalar, P(X) = 0,5 va P(Y) = 0,7. Na X, na Y hodisasi ro'y bermasligi ehtimolligi nimaga teng?",
+   "variantlar": [
+    "0,15",
+    "0,85",
+    "0,2",
+    "0,35"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Har bir o'qning nishonga tegish ehtimolligi 0,2 ga teng bo'lgan o'qchi o'zaro bog'liq bo'lmagan 3 ta o'q uzdi. Kamida bitta o'qning nishonga tegish ehtimolligi nimaga teng?",
+   "variantlar": [
+    "0,008",
+    "0,488",
+    "0,512",
+    "0,6"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "P(R) = 0,4, P(S) = 0,5 va P(R ∪ S) = 0,7 bo'lsa, R va S hodisalar haqida qaysi xulosa to'g'ri?",
+   "variantlar": [
+    "P(R ∩ S) = 0,2 ≠ P(R) · P(S), shuning uchun R va S bog'liq",
+    "P(R ∩ S) = 0,1, shuning uchun R va S bog'liq emas",
+    "P(R ∩ S) = 0, shuning uchun R va S bog'liq emas",
+    "P(R ∩ S) = 0,2 = P(R) · P(S), shuning uchun R va S o'zaro bog'liq emas"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

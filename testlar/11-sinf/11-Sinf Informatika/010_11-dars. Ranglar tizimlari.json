@@ -1,0 +1,337 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-sinf 11-Sinf Informatika",
+ "mavzu": "11-dars. Ranglar tizimlari",
+ "savollar": [
+  {
+   "savol": "Qo'shiluvchi ranglar tizimi qaysi ranglarni asos qilib oladi?",
+   "variantlar": [
+    "Qizil, yashil, ko'k",
+    "Qizil, sariq, qora",
+    "Ko'k, pushti, oq",
+    "Sariq, havorang, qora"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "RGB tizimi nomi qaysi ranglarning ingliz tilidagi nomlaridan olingan?",
+   "variantlar": [
+    "Red, Green, Blue",
+    "Rose, Gold, Brown",
+    "Red, Grey, Blue",
+    "Red, Gray, Black"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "RGB tizimida har bir rangning yorqinligi qanday qiymatlar oralig'ida bo'lishi mumkin?",
+   "variantlar": [
+    "1 dan 10 gacha",
+    "0 dan 1000 gacha",
+    "0 dan 100 gacha",
+    "0 dan 255 gacha"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "RGB tizimi bilan qancha rang hosil qilish mumkin?",
+   "variantlar": [
+    "1000 ta",
+    "256 ta",
+    "65 536 ta",
+    "256*256*256 ta (o'n olti milliondan ko'proq)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ayiriluvchi ranglar tizimi qanday nomlanadi?",
+   "variantlar": [
+    "RGB",
+    "CMYK",
+    "HSB",
+    "Lab"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "CMYK tizimi asosan qaysi qurilmalarda ishlatiladi?",
+   "variantlar": [
+    "Rangli printer, plotter va nashriyot bosma mashinalari",
+    "Klaviatura",
+    "Sichqoncha",
+    "Televizor va telefon"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "PhotoShopda asosan dizaynerlar uchun qulay ranglar tizimi qaysi?",
+   "variantlar": [
+    "HSB",
+    "Lab",
+    "RGB",
+    "CMYK"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "HSB tizimida H (Hue) nimani bildiradi?",
+   "variantlar": [
+    "Shaffoflikni",
+    "Rang yorqinligini",
+    "Rang turini",
+    "Rang to'yinganligini"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "HSB tizimida S (Saturation) nimani bildiradi?",
+   "variantlar": [
+    "Rang turini",
+    "Rang yorqinligini",
+    "Rang to'yinganligini",
+    "Rang hajmini"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "HSB tizimida B (Brightness) nimani bildiradi?",
+   "variantlar": [
+    "Rang turini",
+    "Rang to'yinganligini",
+    "Fonni",
+    "Rang yorqinligini"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "HSB rang doirasida qizil rang qaysi gradusga mos keladi?",
+   "variantlar": [
+    "240°",
+    "300°",
+    "0°",
+    "120°"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "HSB rang doirasida yashil rang qaysi gradusga mos keladi?",
+   "variantlar": [
+    "180°",
+    "60°",
+    "120°",
+    "240°"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "HSB rang doirasida ko'k rang qaysi gradusga mos keladi?",
+   "variantlar": [
+    "120°",
+    "180°",
+    "240°",
+    "300°"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "HSB rang doirasida sariq (ikkilamchi) rang qaysi gradusda joylashgan?",
+   "variantlar": [
+    "0°",
+    "300°",
+    "180°",
+    "60°"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ko'k (240°) va pushti (300°) ranglar orasida qaysi rang joylashgan?",
+   "variantlar": [
+    "Sariq (60°)",
+    "Qizil (0°)",
+    "Yashil (120°)",
+    "Siyohrang (270°)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Rangning yorqinligi 100% ga teng bo'lsa, u qaysi rangga aylanadi?",
+   "variantlar": [
+    "Qizil",
+    "Qora",
+    "Oq",
+    "Kul"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Rangning yorqinligi 0 ga teng qilib olinsa, rang qanday bo'ladi?",
+   "variantlar": [
+    "Oq",
+    "Qora",
+    "Kul",
+    "Sariq"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yorqinlik 50 ga teng bo'lsa, rang qanday bo'ladi?",
+   "variantlar": [
+    "Qora rang",
+    "Oq rang",
+    "Sariq rang",
+    "Kul rang"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Iliq ranglarga qaysi ranglar kiradi?",
+   "variantlar": [
+    "Yashil va binafsha",
+    "Qora va kul",
+    "Ko'k va siyohrang",
+    "Qizil va sariq"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Sovuq ranglarga qaysi ranglar kiradi?",
+   "variantlar": [
+    "Sariq va pushti",
+    "Qizil va sariq",
+    "Ko'k va siyohrang",
+    "Qora va kul"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Iliq va sovuq ranglar orasidagi yashil va binafsha ranglar qanday hisoblanadi?",
+   "variantlar": [
+    "Iliq",
+    "Sovuq",
+    "Neytral",
+    "Asosiy"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qora va kul ranglar aralashtirilsa, aralashma qanday bo'ladi?",
+   "variantlar": [
+    "Yanada sovuqlashadi",
+    "O'zgarmaydi",
+    "Qizillashadi",
+    "Yanada issiqlashadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Iliq ranglar odam kayfiyatiga qanday ta'sir qiladi?",
+   "variantlar": [
+    "Ta'sir qilmaydi",
+    "Uyquni keltiradi",
+    "Kayfiyatni yomonlashtiradi",
+    "Kayfiyatni ko'taradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sovuq ranglar odam ruhiyatiga qanday ta'sir qiladi?",
+   "variantlar": [
+    "Faqat ruhiyatni oshiradi",
+    "Yaxshi ta'sir qiladi",
+    "Yomon ta'sir qiladi",
+    "Ta'sir qilmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qo'shiluvchi ranglarda qizil, yashil va ko'k ranglar aralashtirilsa, qanday rang hosil bo'ladi?",
+   "variantlar": [
+    "Qora",
+    "Oq",
+    "Kul",
+    "Sariq"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ayiriluvchi tizimda Cyan, Magenta va Yellow oq qog'ozga surtilsa, qog'oz qanday rangga kiradi?",
+   "variantlar": [
+    "Qora",
+    "Kul",
+    "Sariq",
+    "Oq"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "CMYK tizimidagi K harfi qaysi rangni bildiradi?",
+   "variantlar": [
+    "Oq",
+    "Yashil",
+    "Kul",
+    "Qora (black)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dizayn bilan jiddiy shug'ullanishni istaganlar qaysi ranglarni bilishi kerak?",
+   "variantlar": [
+    "Faqat qora rangni",
+    "Faqat qizil rangni",
+    "Faqat ko'k rangni",
+    "Iliq, sovuq va neytral ranglarni"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Televizor va kompyuter monitorida ranglar qaysi tizim asosida hosil qilinadi?",
+   "variantlar": [
+    "Ayiriluvchi ranglar tizimi",
+    "Qo'shiluvchi ranglar tizimi",
+    "HSB tizimi",
+    "Lab tizimi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yashil va ko'k ranglar qo'shilganda qanday rang hosil bo'ladi?",
+   "variantlar": [
+    "Pushti (magenta)",
+    "Sariq (yellow)",
+    "Qora",
+    "Havorang (cyan)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

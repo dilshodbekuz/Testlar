@@ -1,0 +1,337 @@
+{
+  "sinf": "11-sinf",
+  "kitob": "11-sinf 11-Sinf Umumiy kimyo",
+  "mavzu": "17-§ Foiz konsentratsiya, eritma massasi, hajmi va zichligi orasidagi bog'lanish",
+  "savollar": [
+    {
+      "savol": "Eritma zichligi formulasi qaysi?",
+      "variantlar": [
+        "ρ = V / m2",
+        "ρ = m2 / V",
+        "ρ = m2 × V",
+        "ρ = m2 − V"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Eritma massasi formulasi qaysi?",
+      "variantlar": [
+        "m2 = V / ρ",
+        "m2 = ρ / V",
+        "m2 = V × ρ",
+        "m2 = V − ρ"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Eritma hajmi formulasi qaysi?",
+      "variantlar": [
+        "V = m2 × ρ",
+        "V = ρ / m2",
+        "V = m2 + ρ",
+        "V = m2 / ρ"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Eritma zichligi odatda qaysi birliklarda ifodalanadi?",
+      "variantlar": [
+        "g/ml yoki kg/l",
+        "mol/l yoki M",
+        "%",
+        "ml yoki l"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Eritma hajmi odatda qaysi birliklarda ifodalanadi?",
+      "variantlar": [
+        "g yoki kg",
+        "ml yoki l",
+        "g/ml",
+        "%"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Zichligi 1,12 g/ml bo'lgan eritmaning 1 ml massasi necha gramm?",
+      "variantlar": [
+        "1 g",
+        "112 g",
+        "1,12 g",
+        "0,112 g"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Hajmi 200 ml, zichligi 1,12 g/ml bo'lgan eritmaning massasi necha gramm?",
+      "variantlar": [
+        "200 g",
+        "112 g",
+        "178,6 g",
+        "224 g"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Massasi 224 g, zichligi 1,12 g/ml bo'lgan eritmaning hajmi necha ml?",
+      "variantlar": [
+        "200 ml",
+        "224 ml",
+        "112 ml",
+        "250 ml"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Massasi 100 g bo'lgan 25 % li eritmada erigan modda massasi necha gramm?",
+      "variantlar": [
+        "75 g",
+        "25 g",
+        "100 g",
+        "4 g"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Hajmi 1 l, zichligi 1,2 g/ml bo'lgan eritmaning massasi necha gramm?",
+      "variantlar": [
+        "1,2 g",
+        "120 g",
+        "1200 g",
+        "12 g"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Tarkibida 44,8 g KOH bo'lgan 200 ml (ρ = 1,12 g/ml) eritmaning foiz konsentratsiyasi necha %?",
+      "variantlar": [
+        "22,4 %",
+        "44,8 %",
+        "17,9 %",
+        "20 %"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 177,5 ml, zichligi 1,2 g/ml bo'lgan 40 % li Na2SO4 eritmasida necha gramm Na2SO4 bor?",
+      "variantlar": [
+        "85,2 g",
+        "71 g",
+        "213 g",
+        "42,6 g"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 300 ml, zichligi 1,12 g/ml bo'lgan eritmada 80 g NaOH bor. Eritmaning foiz konsentratsiyasi necha %?",
+      "variantlar": [
+        "26,7 %",
+        "23,8 %",
+        "80 %",
+        "33,3 %"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Tarkibida 49 g H2SO4 bo'lgan 160 ml (ρ = 1,15 g/ml) eritmaning foiz konsentratsiyasi necha %?",
+      "variantlar": [
+        "30,6 %",
+        "49 %",
+        "26,6 %",
+        "21,3 %"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 200 ml, zichligi 1,25 g/ml bo'lgan 25 % li AgNO3 eritmasida necha gramm AgNO3 bor?",
+      "variantlar": [
+        "50 g",
+        "25 g",
+        "250 g",
+        "62,5 g"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 240 ml, zichligi 1,125 g/ml bo'lgan 15 % li (NH4)2SO4 eritmasida necha gramm modda bor?",
+      "variantlar": [
+        "40,5 g",
+        "36 g",
+        "270 g",
+        "45 g"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 1 l, zichligi 1,2 g/ml bo'lgan 30 % li eritmada necha gramm erigan modda bor?",
+      "variantlar": [
+        "300 g",
+        "360 g",
+        "1200 g",
+        "120 g"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 500 ml, zichligi 1,1 g/ml bo'lgan 10 % li eritmada necha gramm erigan modda bor?",
+      "variantlar": [
+        "50 g",
+        "5,5 g",
+        "55 g",
+        "110 g"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Massasi 120 g, zichligi 1,2 g/ml bo'lgan eritmaning hajmi necha ml?",
+      "variantlar": [
+        "120 ml",
+        "144 ml",
+        "83,3 ml",
+        "100 ml"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 250 ml, zichligi 1,4 g/ml bo'lgan eritmaning massasi necha gramm?",
+      "variantlar": [
+        "350 g",
+        "250 g",
+        "175 g",
+        "357 g"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 500 ml, zichligi 1,2 g/ml, foiz konsentratsiyasi 15 % bo'lgan eritmada erigan modda massasi necha gramm?",
+      "variantlar": [
+        "75 g",
+        "90 g",
+        "600 g",
+        "108 g"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "100 ml eritmaning zichligi 1,2 g/ml, tarkibida 24 g modda bor. Foiz konsentratsiyasi necha %?",
+      "variantlar": [
+        "24 %",
+        "12 %",
+        "20 %",
+        "30 %"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Hajmi 2 l, zichligi 1,1 g/ml bo'lgan 20 % li eritmada necha gramm erigan modda bor?",
+      "variantlar": [
+        "220 g",
+        "2200 g",
+        "400 g",
+        "440 g"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Hajmi 350 ml, zichligi 1,3 g/ml bo'lgan 40 % li eritmada necha gramm erigan modda bor?",
+      "variantlar": [
+        "182 g",
+        "140 g",
+        "455 g",
+        "160 g"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Massasi 456 g, zichligi 1,14 g/ml bo'lgan 10 % li eritmada necha gramm erigan modda bor?",
+      "variantlar": [
+        "456 g",
+        "45,6 g",
+        "11,4 g",
+        "4,56 g"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Hajmi 1,5 l, zichligi 1,05 g/ml bo'lgan 8 % li eritmada necha gramm erigan modda bor?",
+      "variantlar": [
+        "120 g",
+        "12,6 g",
+        "126 g",
+        "1575 g"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Massasi 1000 g, zichligi 1,05 g/ml bo'lgan eritmaning hajmi necha ml? (≈ hisoblang)",
+      "variantlar": [
+        "1050 ml",
+        "1000 ml",
+        "850 ml",
+        "952 ml"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Hajmi 125 ml, zichligi 1,25 g/ml bo'lgan 40 % li eritmada necha gramm erigan modda bor?",
+      "variantlar": [
+        "62,5 g",
+        "50 g",
+        "40 g",
+        "125 g"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Hajmi 1,5 l, zichligi 1,2 g/ml bo'lgan 25 % li eritmada necha gramm erigan modda bor?",
+      "variantlar": [
+        "300 g",
+        "450 g",
+        "360 g",
+        "375 g"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Hajmi 200 ml, zichligi 1,2 g/ml bo'lgan eritmada 60 g erigan modda bor. Foiz konsentratsiyasi necha %?",
+      "variantlar": [
+        "30 %",
+        "20 %",
+        "25 %",
+        "50 %"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    }
+  ]
+}

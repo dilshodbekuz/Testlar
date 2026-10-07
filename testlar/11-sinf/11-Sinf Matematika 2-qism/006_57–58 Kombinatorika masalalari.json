@@ -1,0 +1,337 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Matematika 2-qism",
+ "mavzu": "57–58 Kombinatorika masalalari",
+ "savollar": [
+  {
+   "savol": "Kombinatorikaning asosiy savoli qanday?",
+   "variantlar": [
+    "Kim?",
+    "Qancha?",
+    "Qachon?",
+    "Nima uchun?"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Variantlarni birma-bir qarab chiqishda kombinatsiyalarni qanday tartibda yozish maqsadga muvofiq?",
+   "variantlar": [
+    "Alifbo tartibida yoki sonlarni o'sish tartibida",
+    "Faqat kamayish tartibida",
+    "Eng katta variantdan boshlab tartibsiz",
+    "Tasodifiy tartibda"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qo'shish qoidasiga ko'ra, A obyekt m ta usul bilan, B obyekt esa boshqa n ta usul bilan tanlanishi mumkin bo'lsa, (A yoki B) nechta usul bilan tanlanadi?",
+   "variantlar": [
+    "m + n",
+    "m / n",
+    "m · n",
+    "m − n"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ko'paytirish qoidasiga ko'ra, A obyekt m ta usul bilan tanlanib, so'ng B obyekt n ta usul bilan tanlanishi mumkin bo'lsa, (A va B) nechta usul bilan tanlanadi?",
+   "variantlar": [
+    "m² + n²",
+    "m · n",
+    "m + n",
+    "m − n"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "n elementli to'plamning barcha qism to'plamlari soni nechta?",
+   "variantlar": [
+    "2ⁿ",
+    "n²",
+    "2n",
+    "n!"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "n! (\"en faktorial\") nimani anglatadi?",
+   "variantlar": [
+    "1 dan n gacha barcha natural sonlar yig'indisini",
+    "n ni n ga ko'paytmasini",
+    "1 dan n gacha barcha natural sonlar ko'paytmasini",
+    "n ning ikkiga ko'paytmasini"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "n! nimaga teng?",
+   "variantlar": [
+    "n elementli to'plamdagi juftliklar yig'indisiga",
+    "n elementli to'plam elementlarining o'rin almashtirishlari soniga",
+    "n elementdan 2 tadan o'rinlashtirishlar soniga",
+    "n elementli to'plamning qism to'plamlari soniga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "n ta elementdan k tadan takrorli o'rinlashtirishlar soni qaysi formula bilan topiladi?",
+   "variantlar": [
+    "n! / k!",
+    "kⁿ − 1",
+    "n · k",
+    "nᵏ"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "n ta elementdan k tadan takrorsiz o'rinlashtirishlar soni A(n,k) uchun qaysi ifoda to'g'ri?",
+   "variantlar": [
+    "n·n·...·n (k marta)",
+    "n·(n−1)·...·(n−k+1)",
+    "n·(n−1)·...·1 faqat k = n bo'lganda",
+    "n·(n+1)·...·(n+k−1)"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Madina olma, nok va mandarinni ketma-ket yemoqchi. Buni necha usulda bajarishi mumkin?",
+   "variantlar": [
+    "9",
+    "6",
+    "8",
+    "3"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Savatda 5 ta olma va 3 ta nok bor. Savatdan 1 ta meva necha usulda tanlanadi?",
+   "variantlar": [
+    "53",
+    "2",
+    "8",
+    "15"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Do'konda 5 ta turli piyola va 3 ta turli likopcha bor. Piyola va likopcha juftligi necha usulda xarid qilinishi mumkin?",
+   "variantlar": [
+    "125",
+    "15",
+    "10",
+    "8"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Do'konda 5 ta piyola, 3 ta likopcha va 4 ta choy qoshig'i bor. Piyola, likopcha va qoshiqdan iborat uchlik necha usulda xarid qilinadi?",
+   "variantlar": [
+    "35",
+    "47",
+    "12",
+    "60"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Futbol jamoasida 11 nafar o'yinchi bor. Sardor va uning yordamchisi necha usulda tayinlanadi?",
+   "variantlar": [
+    "110",
+    "55",
+    "121",
+    "22"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "7 nafar o'quvchi navbatga necha usul bilan turishi mumkin?",
+   "variantlar": [
+    "720",
+    "49",
+    "40320",
+    "5040"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1, 2, 3 raqamlaridan ularni takrorlamasdan tuzilgan uch xonali sonlar nechta?",
+   "variantlar": [
+    "27",
+    "6",
+    "3",
+    "9"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Xonada beshta chiroq bor, har biri yo yonadi, yo yonmaydi. Xonani necha usulda yoritish mumkin (hammasi o'chiq holat ham hisobga olinadi)?",
+   "variantlar": [
+    "32",
+    "25 dan 5 ta",
+    "10",
+    "16"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Toqqa 7 ta yo'l olib boradi. Sayyoh chiqish va tushishda yo'llarni cheklovsiz tanlasa, bu ishni necha usulda bajarishi mumkin?",
+   "variantlar": [
+    "7",
+    "14",
+    "42",
+    "49"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "A shahardan B shaharga 6 ta, B shahardan C shaharga 4 ta yo'l boradi. A dan C ga B orqali necha usulda borish mumkin?",
+   "variantlar": [
+    "64",
+    "2",
+    "10",
+    "24"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Uzunligi 4 bo'lgan, 5 ta belgidan iborat alifbodagi barcha belgilari turlicha so'zlar nechta?",
+   "variantlar": [
+    "5",
+    "20",
+    "625",
+    "120"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Toqqa 7 ta yo'l olib boradi. Sayyoh chiqish va tushishda har xil yo'llardan foydalansa, necha usulda bajarishi mumkin?",
+   "variantlar": [
+    "14",
+    "21",
+    "49",
+    "42"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Barcha raqamlari juft bo'lgan besh xonali sonlar nechta?",
+   "variantlar": [
+    "2500",
+    "2000",
+    "3125",
+    "5000"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Faqat toq raqamlardan iborat (\"chiroyli\") to'rt xonali sonlar nechta?",
+   "variantlar": [
+    "625",
+    "900",
+    "256",
+    "500"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Barcha raqamlari turlicha bo'lgan yetti raqamli telefon nomerlari (0 dan boshlanishi mumkin) nechta?",
+   "variantlar": [
+    "10⁷",
+    "9·9·8·7·6·5·4",
+    "10·9·8·7·6·5·4",
+    "10·9·8·7·6·5·4·3"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3 ta tovuq, 4 ta o'rdak va 2 ta g'ozdan tanlanmoqda, tanlanganlar orasida har uchala turdan kamida bittadan bo'lishi shart. Variantlar soni nechta?",
+   "variantlar": [
+    "315",
+    "512",
+    "1024",
+    "24"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Raqamlari yig'indisi 4 dan kichik bo'lgan to'rt xonali sonlar nechta?",
+   "variantlar": [
+    "10",
+    "12",
+    "15",
+    "20"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Birinchi raqami 2 bo'lgan va 1, 2, 3, 4, 5 raqamlaridan tuzilgan (takrorlanishi mumkin) uch xonali sonlar nechta?",
+   "variantlar": [
+    "125",
+    "15",
+    "20",
+    "25"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Do'konda 5 ta piyola, 3 ta likopcha va 4 ta choy qoshig'i bor. Turli nomdagi ikkita idishdan iborat juftlik necha usulda xarid qilinishi mumkin?",
+   "variantlar": [
+    "12",
+    "47",
+    "60",
+    "35"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Maktabda beshta 11-sinf bor. Ikki nafar navbatchi har xil sinflardan tanlanadi va juftlikda tartib ahamiyatsiz (masalan, (1,2) va (2,1) bir xil). Necha usul bor?",
+   "variantlar": [
+    "25",
+    "20",
+    "10",
+    "5"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Futbol jamoasida 11 nafar o'yinchi bor. Sardor, birinchi yordamchi va ikkinchi yordamchi necha usulda tayinlanadi?",
+   "variantlar": [
+    "990",
+    "1331",
+    "165",
+    "110"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

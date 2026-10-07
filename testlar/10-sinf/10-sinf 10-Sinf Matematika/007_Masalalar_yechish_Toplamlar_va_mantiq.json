@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Matematika",
+ "mavzu": "Masalalar yechish (to'plamlar va mantiq bo'yicha I bob mashqlari)",
+ "savollar": [
+  {
+   "savol": "n(A∪B) ni hisoblash formulasini to'g'ri tanlang.",
+   "variantlar": [
+    "n(A)+n(B)-n(A∩B)",
+    "n(A)+n(B)",
+    "n(A)+n(B)+n(A∩B)",
+    "n(A)-n(B)"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "n(A∪B∪C) formulasida nechta ayiriladigan (minus ishorali) had bor?",
+   "variantlar": [
+    "2",
+    "3",
+    "4",
+    "1"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Venn diagrammasida A ga tegishli, ammo B ga tegishli bo'lmagan elementlar soni qaysi formula bilan topiladi?",
+   "variantlar": [
+    "n(A)+n(B)",
+    "n(A∩B)",
+    "n(A)-n(A∩B)",
+    "n(B)-n(A∩B)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "n(A∩B') ifodasi nimaga teng?",
+   "variantlar": [
+    "n(A)+n(B)",
+    "n(B)-n(A∩B)",
+    "n(A∩B)",
+    "n(A)-n(A∩B)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Barcha delfinlar - sut emizuvchi. Birorta ham baliq sut emizuvchi emas. Demak, birorta ham baliq delfin emas.\" xulosasi mantiqiy jihatdan qanday?",
+   "variantlar": [
+    "To'g'ri xulosa",
+    "Noto'g'ri xulosa",
+    "Aniqlab bo'lmaydi",
+    "Mulohaza emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rostlik jadvali yordamida hukmning to'g'riligi qanday tekshiriladi?",
+   "variantlar": [
+    "Tasodifiy tanlab",
+    "Uning tavtologiya ekanligini tekshirib",
+    "Faqat tajriba orqali",
+    "Tekshirib bo'lmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikkita kesishuvchi to'plam uchun Venn diagrammasida nechta soha (qism) hosil bo'ladi?",
+   "variantlar": [
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Uchta kesishuvchi to'plam uchun Venn diagrammasida nechta soha hosil bo'ladi?",
+   "variantlar": [
+    "4",
+    "6",
+    "7",
+    "8"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Men yoki maktabga boraman, yoki meni onam uradi\" mulohazasi qanday mantiqiy bog'lovchi bilan tuzilgan?",
+   "variantlar": [
+    "Dizyunksiya",
+    "Konyunksiya",
+    "Implikatsiya",
+    "Inkor"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Bir nechta to'plamlar bilan bog'liq masalalarni yechishda odatda qaysi grafik vosita qo'llaniladi?",
+   "variantlar": [
+    "Koordinata tekisligi",
+    "Venn diagrammasi",
+    "Grafik",
+    "Gistogramma"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "n(U)=30, n(A)=14, n(B)=17, n(A∩B)=6 bo'lsa, n(A∪B) ni toping.",
+   "variantlar": [
+    "31",
+    "37",
+    "25",
+    "6"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "n(U)=26, n(A)=11, n(B)=12, n(A∩B)=8 bo'lsa, n(A∪B) ni toping.",
+   "variantlar": [
+    "23",
+    "31",
+    "8",
+    "15"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "n(U)=26, n(A)=11, n(B)=12, n(A∩B)=8 bo'lsa, B ga tegishli, ammo A ga tegishli bo'lmagan elementlar sonini toping.",
+   "variantlar": [
+    "4",
+    "8",
+    "11",
+    "3"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "n(U)=32, n(M)=13, n(M∪N)=26, n(M∩N)=5 bo'lsa, n(N) ni toping.",
+   "variantlar": [
+    "8",
+    "18",
+    "31",
+    "13"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "n(U)=50, n(S)=30, n(R)=25, n(R∪S)=48 bo'lsa, n(R∩S) ni toping.",
+   "variantlar": [
+    "5",
+    "55",
+    "7",
+    "48"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "27 o'quvchidan 19 nafari qora sochli, 14 nafari qora ko'zli, 11 nafari ham qora sochli, ham qora ko'zli. Yo qora sochli, yo qora ko'zli o'quvchilar sonini toping.",
+   "variantlar": [
+    "33",
+    "25",
+    "11",
+    "22"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi masalada qora sochli, ammo qora ko'zli emas o'quvchilar sonini toping.",
+   "variantlar": [
+    "8",
+    "11",
+    "14",
+    "3"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Badminton klubida 41 nafar qatnashchidan 31 nafari yakka tartibda, 16 nafari juftlikda o'ynaydi va har bir qatnashchi kamida bitta turda o'ynaydi. Ham yakka, ham juftlikda o'ynaganlar sonini toping.",
+   "variantlar": [
+    "47",
+    "6",
+    "15",
+    "25"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Korxonada 56 ishchidan 47 nafari kunduzgi, 29 nafari kechki smenada ishlagan va har bir ishchi kamida bitta smenada ishlagan. Ham kunduzgi, ham kechki smenada ishlaganlar sonini toping.",
+   "variantlar": [
+    "76",
+    "18",
+    "20",
+    "9"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "50 talabadan 40 tasi ingliz, 25 tasi nemis tilini o'rganadi va har bir talaba kamida bitta tilni o'rganadi. Ikkala tilni ham o'rganayotganlar sonini toping.",
+   "variantlar": [
+    "65",
+    "10",
+    "40",
+    "15"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "n(A∪B∪C)=n(A)+n(B)+n(C)-n(A∩B)-n(B∩C)-n(A∩C)+n(A∩B∩C) formulasida nechta musbat ishorali had bor?",
+   "variantlar": [
+    "4",
+    "3",
+    "5",
+    "6"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A,B,C to'plamlar uchun n(A)=20, n(B)=24, n(C)=28, n(A∩B)=4, n(A∩C)=5, n(B∩C)=6, n(A∩B∩C)=1 bo'lsa, n(A∪B∪C) ni toping.",
+   "variantlar": [
+    "48",
+    "58",
+    "68",
+    "72"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "27 o'quvchidan 19 nafari qora sochli, 14 nafari qora ko'zli, 11 nafari ham qora sochli, ham qora ko'zli. Na qora sochli, na qora ko'zli o'quvchilar sonini toping.",
+   "variantlar": [
+    "22",
+    "8",
+    "5",
+    "11"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Barcha metallar qattiq shaklda. Simob - metall. Demak, simob qattiq shaklda.\" xulosasining mantiqiy shakli to'g'rimi (silлогизм qonuni bo'yicha)?",
+   "variantlar": [
+    "Yo'q, mantiqiy shakl noto'g'ri",
+    "Aniqlab bo'lmaydi",
+    "Mulohaza emas",
+    "Ha, mantiqiy shakl to'g'ri (garchi asos haqiqatda noto'g'ri bo'lsa ham)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Hech qanday metall gaz emas. Ayrim moddalar metallar. Demak, ayrim moddalar gaz emas.\" xulosasi mantiqiy jihatdan to'g'rimi?",
+   "variantlar": [
+    "Ha, to'g'ri",
+    "Yo'q, noto'g'ri",
+    "Aniqlab bo'lmaydi",
+    "Mulohaza emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Ayrim erkaklar matematiklardir. Ayrim matematiklar - faylasuflardir. Demak, ayrim faylasuflar erkaklardir.\" xulosasi mantiqiy jihatdan to'g'rimi?",
+   "variantlar": [
+    "Ha, to'g'ri",
+    "Yo'q, bu xato xulosa, chunki ikkita \"ayrim\" asosidan qat'iy xulosa chiqmaydi",
+    "Aniqlab bo'lmaydi",
+    "Mulohaza emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Barcha alpinistlar dovyurak. Ayrim alpinistlar erkaklar. Demak, ayrim erkaklar dovyurak bo'ladi.\" xulosasi mantiqiy jihatdan to'g'rimi?",
+   "variantlar": [
+    "Yo'q, noto'g'ri",
+    "Aniqlab bo'lmaydi",
+    "Ha, to'g'ri",
+    "Mulohaza emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Epimenid paradoksida (\"Krit faylasufi Epimenid barcha kritliklar yolg'onchi ekanligini tasdiqladi\") qanday ziddiyat kelib chiqadi?",
+   "variantlar": [
+    "Hech qanday ziddiyat yo'q",
+    "Epimenid chet ellik bo'lgani uchun ziddiyat yo'q",
+    "Bu oddiy rost mulohaza",
+    "Epimenid o'zi ham kritlik bo'lgani uchun uning gapi o'z-o'ziga zid bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Darslikdagi nazorat topshiriqlarida to'plamlar va mulohazalar mavzusi bo'yicha bilim qanday ikkita asosiy vosita yordamida tekshiriladi?",
+   "variantlar": [
+    "Venn diagrammasi va rostlik jadvali",
+    "Faqat grafik",
+    "Faqat tenglama",
+    "Faqat formulalar ro'yxati"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p va q mulohazalar asosida tuzilgan rostlik jadvalida kamida nechta ustun bo'ladi (p, q va natija mulohaza uchun)?",
+   "variantlar": [
+    "2",
+    "3",
+    "5",
+    "6"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

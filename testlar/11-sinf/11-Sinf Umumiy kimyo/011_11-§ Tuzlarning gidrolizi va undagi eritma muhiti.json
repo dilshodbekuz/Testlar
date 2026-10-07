@@ -1,0 +1,337 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-sinf 11-Sinf Umumiy kimyo",
+ "mavzu": "11-§ Tuzlarning gidrolizi va undagi eritma muhiti",
+ "savollar": [
+  {
+   "savol": "Tuzlarning gidrolizi nima?",
+   "variantlar": [
+    "Tuzning eriydigan holatga o'tishi",
+    "Tuzning kristallanishi",
+    "Tuzning qizdirilishi",
+    "Tuz ionlarining suv bilan o'zaro ta'sirlashuvi natijasida kuchsiz elektrolit hosil bo'lishi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gidroliz so'zidagi 'gidro' nimani bildiradi?",
+   "variantlar": [
+    "Suv",
+    "Ajralish",
+    "Tuz",
+    "Kislota"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi tuzlardan qaysi biri kation bo'yicha gidrolizga uchraydi? (kuchsiz asos va kuchli kislotadan hosil bo'lgan)",
+   "variantlar": [
+    "NaCl",
+    "Na2SO4",
+    "KNO3",
+    "NH4Cl"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyidagi tuzlardan qaysi biri anion bo'yicha gidrolizga uchraydi? (kuchli asos va kuchsiz kislotadan hosil bo'lgan)",
+   "variantlar": [
+    "KNO3",
+    "NaCl",
+    "NH4Cl",
+    "CH3COONa"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kation ham, anion ham bo'yicha gidrolizga uchraydigan tuz qaysi?",
+   "variantlar": [
+    "CH3COONH4",
+    "NH4Cl",
+    "NaCl",
+    "KNO3"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kuchli kislota va kuchli asos tuzi (NaCl) gidrolizga qanday uchraydi?",
+   "variantlar": [
+    "Ha, kislotali muhit hosil qiladi",
+    "Ha, ishqoriy muhit hosil qiladi",
+    "Ha, kuchli kislotali muhit hosil qiladi",
+    "Uchramaydi, eritma neytral bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gidroliz harorat ko'tarilganda qanday o'zgaradi?",
+   "variantlar": [
+    "Tezlashadi",
+    "Sekinlashadi",
+    "O'zgarmaydi",
+    "To'xtaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Eritmaga suv qo'shish (suyultirish) gidrolizga qanday ta'sir qiladi?",
+   "variantlar": [
+    "Tezlashtiradi",
+    "Sekinlashtiradi",
+    "O'zgartirmaydi",
+    "To'xtatadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gidrolizni sekinlashtirish uchun harorat qanday o'zgartiriladi?",
+   "variantlar": [
+    "Ko'tariladi",
+    "Suv qo'shiladi",
+    "O'zgartirilmaydi",
+    "Pasaytiriladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Alyuminiy nitrat (pH < 7) eritmasiga lakmus qo'shilsa, rangi qanday o'zgaradi?",
+   "variantlar": [
+    "Qizaradi",
+    "Ko'karadi",
+    "Sariq bo'ladi",
+    "Rangsiz qoladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Natriy karbonat (pH > 7) eritmasiga lakmus qo'shilsa, rangi qanday bo'ladi?",
+   "variantlar": [
+    "Qizaradi",
+    "Sariq",
+    "Ko'karadi",
+    "Rangsiz"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Natriy karbonat eritmasiga fenolftalein qo'shilsa, rangi qanday bo'ladi?",
+   "variantlar": [
+    "To'q qizil",
+    "Sariq",
+    "Rangsiz",
+    "Ko'k"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Alyuminiy nitrat eritmasiga metil zarg'aldoq qo'shilsa, rangi qanday bo'ladi?",
+   "variantlar": [
+    "Ko'k",
+    "Sariq",
+    "Pushti",
+    "To'q qizil"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kaliy nitrat (pH = 7) eritmasiga fenolftalein qo'shilsa, rang qanday o'zgaradi?",
+   "variantlar": [
+    "Qizaradi",
+    "Sariq",
+    "Ko'karadi",
+    "Rangi o'zgarmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kation bo'yicha gidrolizda eritma muhiti qanday bo'ladi?",
+   "variantlar": [
+    "Ishqoriy",
+    "Kislotali",
+    "Neytral",
+    "Amfoter"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Anion bo'yicha gidrolizda eritma muhiti qanday bo'ladi?",
+   "variantlar": [
+    "Kislotali",
+    "Neytral",
+    "Ishqoriy",
+    "Gaz"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kuchsiz asos va kuchsiz kislota tuzi (CH3COONH4) eritmasining muhiti qanday?",
+   "variantlar": [
+    "Kislotali",
+    "Ishqoriy",
+    "Neytral",
+    "Kuchli kislotali"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "CH3COONa tuzi qaysi ion bo'yicha gidrolizga uchraydi?",
+   "variantlar": [
+    "Kation",
+    "Anion",
+    "Ikkala ham",
+    "Hech biri"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "CH3COONH4 tuzi qaysi ionlar bo'yicha gidrolizga uchraydi?",
+   "variantlar": [
+    "Faqat kation",
+    "Faqat anion",
+    "Ikkala ham (kation va anion)",
+    "Hech biri"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "CaCO3 gidrolizga uchraydimi?",
+   "variantlar": [
+    "Ha, ishqoriy muhit hosil qiladi",
+    "Ha, kislotali muhit hosil qiladi",
+    "Yo'q, uchramaydi (cho'kma, suv bilan ta'sirlashmaydi)",
+    "Ha, neytral muhit hosil qiladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "CH3COONa eritmasi gidrolizini tezlashtirish uchun eritmaga qaysi modda qo'shiladi?",
+   "variantlar": [
+    "NaOH eritmasi",
+    "Sirka kislota (CH3COOH)",
+    "Na2CO3",
+    "Kaliy nitrat"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "CH3COONa gidrolizini sekinlashtirish uchun eritmaga qaysi modda qo'shiladi?",
+   "variantlar": [
+    "Sirka kislota",
+    "NaOH (ishqor)",
+    "Suv",
+    "CuCl2"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Natriy karbonat eritmasining pH qiymati qanday oraliqda bo'ladi?",
+   "variantlar": [
+    "pH < 7",
+    "pH = 7",
+    "pH > 7",
+    "pH = 0"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "NH4Cl gidrolizida hosil bo'ladigan kuchsiz elektrolit qaysi?",
+   "variantlar": [
+    "HCl",
+    "NH4OH",
+    "NaOH",
+    "Cl2"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "MgCl2 gidrolizida hosil bo'ladigan kuchsiz elektrolit qaysi?",
+   "variantlar": [
+    "NaOH",
+    "Mg(OH)2",
+    "KOH",
+    "Cl2"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "CH3COO- + HOH ⇄ CH3COOH + OH- ionli tenglamasiga ko'ra eritma muhiti qanday?",
+   "variantlar": [
+    "Kislotali",
+    "Neytral",
+    "Ishqoriy",
+    "Amfoter"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "NH4+ + HOH ⇄ NH4OH + H+ ionli tenglamasiga ko'ra eritma pH qiymati qanday?",
+   "variantlar": [
+    "pH > 7",
+    "pH < 7",
+    "pH = 7",
+    "pH = 14"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi tuzlardan qaysi biri neytral muhit (pH = 7) hosil qiladi?",
+   "variantlar": [
+    "NH4Cl",
+    "CH3COONa",
+    "KNO3",
+    "Al(NO3)3"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gidroliz tezligini sekinlashtirish uchun eritmani bug'latib konsentratsiyani oshirish natijasida gidroliz qanday o'zgaradi?",
+   "variantlar": [
+    "Tezlashadi",
+    "Sekinlashadi",
+    "O'zgarmaydi",
+    "Yo'qoladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gidroliz so'zidagi 'lizis' so'zi nimani bildiradi?",
+   "variantlar": [
+    "Suv",
+    "Ajralish",
+    "Tuz",
+    "Kislota"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

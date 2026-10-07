@@ -1,0 +1,179 @@
+49-dars qanday nomlanadi?
++A) Ma’lumot turini o‘zgartirish
+B) Ilovaga ma’lumotlar kiritish
+C) Ilovada bayroqchalardan foydalanish
+D) ListBox va ComboBox obyektlari
+
+StrToInt funksiyasi nimani bajaradi?
+A) Haqiqiy sonni matn satriga o‘tkazadi
++B) Matn satrini butun songa o‘tkazadi
+C) Butun sonni matn satriga o‘tkazadi
+D) Matn satrini haqiqiy songa o‘tkazadi
+
+IntToStr funksiyasi nimani bajaradi?
+A) Matn satrini haqiqiy songa o‘tkazadi
+B) Haqiqiy sonni butun songa o‘tkazadi
++C) Butun sonni matn satriga o‘tkazadi
+D) Matn satrini butun songa o‘tkazadi
+
+StrToFloat funksiyasi nimani bajaradi?
+A) Haqiqiy sonni matn satriga o‘tkazadi
+B) Matn satrini butun songa o‘tkazadi
+C) Butun sonni haqiqiy songa o‘tkazadi
++D) Matn satrini haqiqiy songa o‘tkazadi
+
+FloatToStr funksiyasi nimani bajaradi?
++A) Haqiqiy sonni matn satriga o‘tkazadi
+B) Matn satrini haqiqiy songa o‘tkazadi
+C) Butun sonni matn satriga o‘tkazadi
+D) Matn satrini butun songa o‘tkazadi
+
+Pascal dasturlash tilida bir turdagi o‘zgaruvchiga ikkinchi turdagi ifoda qiymatini berish mumkinmi?
+A) Faqat matnlar uchun mumkin
++B) Yo‘q, bu taqiqlangan
+C) Ha, har doim mumkin
+D) Faqat sonlar uchun mumkin
+
+Button1.Width:=Edit1.Text; operatori nega xato beradi?
+A) Chunki Edit1.Text bo‘sh
+B) Chunki Width manfiy bo‘lishi mumkin emas
++C) Matn turi bevosita butun son turiga berilayotgani uchun
+D) Chunki Button1 obyekti mavjud emas
+
+Shar hajmi va sfera yuzasi ilovasida nechta Edit obyekti ishlatiladi?
+A) Ikkita
+B) Uchta
+C) To‘rtta
++D) Bitta
+
+Butun sonlar yig‘indisi ilovasida nechta Edit obyekti ishlatiladi?
++A) Ikkita
+B) Bitta
+C) Uchta
+D) To‘rtta
+
+var operatori nima uchun ishlatiladi?
+A) Rangni o‘zgartirish uchun
++B) O‘zgaruvchilarni tavsiflash (e’lon qilish) uchun
+C) Faylni saqlash uchun
+D) Oynani yopish uchun
+
+Shar hajmini hisoblash uchun Label2.Caption formulasida qaysi funksiyalar ishlatilgan?
+A) ShowMessage va Random
+B) Caption va Font
++C) FloatToStr va StrToFloat
+D) IntToStr va StrToInt
+
+Sfera yuzasi formulasi S=4πr² ilovada qanday ifodalangan?
+A) 4/3*pi*sqr(Edit1.Text)
+B) pi*Edit1.Text
+C) 4*Edit1.Text*pi
++D) 4*pi*sqr(StrToFloat(Edit1.Text))
+
+Nega ilovada qo‘shimcha o‘zgaruvchilardan foydalanish tavsiya etiladi?
++A) Murakkab formulalarni soddalashtirish va xatolarni kamaytirish uchun
+B) Faylni kichraytirish uchun
+C) Dasturni tezlashtirish uchun
+D) Rangni o‘zgartirish uchun
+
+Lokal (mahalliy) o‘zgaruvchilar qayerda yaratilgan bo‘lsa, faqat o‘sha joyda ishlatiladi?
+A) Faqat Button1 da
++B) Protsedura ichida
+C) Butun dastur bo‘ylab
+D) Faqat Form1 da
+
+Global o‘zgaruvchilar qayerda tavsiflanadi?
+A) Faqat Button ichida
+B) Hech qayerda
++C) Dastur (ilova) boshida
+D) Faqat protsedura ichida
+
+Butun sonlar yig‘indisi protsedurasida m va n o‘zgaruvchilariga qiymat qanday beriladi?
+A) To‘g‘ridan-to‘g‘ri sonlar yozib qo‘yiladi
+B) ShowMessage orqali so‘raladi
+C) Qiymat berilmaydi
++D) Strtoint(Edit1.Text) va Strtoint(Edit2.Text) orqali
+
+Butun sonlar yig‘indisi protsedurasida s o‘zgaruvchisiga boshlang‘ich qanday qiymat beriladi?
++A) 0
+B) 1
+C) m
+D) n
+
+Yig‘indi natijasi qaysi obyekt orqali ekranga chiqariladi?
+A) Form1
++B) Label3
+C) Edit1
+D) Button1
+
+for i:=m to n do s:=s+i; operatori nima vazifani bajaradi?
+A) Faqat n ni s ga qo‘shadi
+B) Hech narsa qilmaydi
++C) m dan n gacha bo‘lgan sonlarni s ga qo‘shib boradi
+D) Faqat m ni s ga qo‘shadi
+
+TForm1.Button1Click protsedurasi qachon ishga tushadi?
+A) Forma ochilganda
+B) Ilova yopilganda
+C) Har 1 soniyada
++D) Button1 tugmasi bosilganda
+
+Agar radius 1 ga teng bo‘lsa, shar hajmi ilovada taxminan nechaga teng chiqadi (rasmga ko‘ra)?
++A) 4,18879020478639
+B) 12,5663706143592
+C) 113,097335529233
+D) 1
+
+Agar radius 3 ga teng bo‘lsa, sfera yuzasi ilovada taxminan nechaga teng chiqadi (rasmga ko‘ra)?
+A) 9
++B) 113,097335529233
+C) 4,18879020478639
+D) 12,5663706143592
+
+Butun sonlar yig‘indisi ilovasida M=1, N=20 bo‘lganda yig‘indi nechaga teng (rasmga ko‘ra)?
+A) 190
+B) 220
++C) 210
+D) 200
+
+Butun sonlar yig‘indisi ilovasida M=10001, N=20000 bo‘lganda yig‘indi nechaga teng (rasmga ko‘ra)?
+A) 100000000
+B) 200000000
+C) 15000000
++D) 150005000
+
+Savol-topshiriqda kvadrat va to‘g‘ri to‘rtburchakning qaysi ko‘rsatkichlarini hisoblovchi ilova yaratish so‘raladi?
++A) Perimetri va yuzasini
+B) Faqat perimetrini
+C) Faqat yuzasini
+D) Faqat diagonalini
+
+Savol-topshiriqda m dan n gacha bo‘lgan sonlarning qaysi ko‘rsatkichlari yig‘indisini hisoblash so‘raladi?
+A) Logarifmlari
++B) Kvadratlari va kvadrat ildizlari
+C) Kublari va kub ildizlari
+D) Faktoriallari
+
+Uyga vazifada nima yozib olish so‘raladi?
+A) Pascal operatorlari
+B) MS Access funksiyalari
++C) Ma’lumot turini o‘zgartiruvchi funksiyalar
+D) Delphi tarixi
+
+Protsedura tanasi qaysi kalit so‘zdan boshlanadi?
+A) var
+B) procedure
+C) end
++D) begin
+
+Protsedura qaysi kalit so‘z bilan tugaydi?
++A) end;
+B) begin;
+C) var;
+D) stop;
+
+YODDA SAQLANGga ko‘ra, qiymat berish operatorida o‘zgaruvchi va ifoda turlari farq qilsa, nima bo‘ladi?
+A) Fayl o‘chadi
++B) Dasturda xato yuz beradi
+C) Hech narsa bo‘lmaydi
+D) Dastur tezlashadi

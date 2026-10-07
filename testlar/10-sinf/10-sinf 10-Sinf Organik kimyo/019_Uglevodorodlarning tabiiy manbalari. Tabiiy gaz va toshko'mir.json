@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Organik kimyo",
+ "mavzu": "Uglevodorodlarning tabiiy manbalari. Tabiiy gaz va toshko'mir",
+ "savollar": [
+  {
+   "savol": "Tabiiy gaz tarkibida eng ko'p miqdorda qaysi uglevodorod bo'ladi?",
+   "variantlar": [
+    "metan",
+    "etan",
+    "propan",
+    "butan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tabiiy gaz tarkibida metan taxminan necha foiz (hajm jihatdan) bo'ladi?",
+   "variantlar": [
+    "10-20%",
+    "90-98%",
+    "50-60%",
+    "30-40%"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Neft qazib olishda ajralib chiqadigan gazlar qanday nomlanadi?",
+   "variantlar": [
+    "sintez gaz",
+    "koks gazi",
+    "yo'ldosh gazlar",
+    "quruq gaz"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yo'ldosh gazlar tarkibida metan tabiiy gazga nisbatan qanday bo'ladi?",
+   "variantlar": [
+    "ko'proq",
+    "teng miqdorda",
+    "umuman yo'q",
+    "kamroq"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tabiiy gaz yonishidan qanday moddalar hosil bo'ladi?",
+   "variantlar": [
+    "CO2 va H2O",
+    "CO va H2",
+    "C va H2O",
+    "CO2 va O2"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Metanni 1500°C gacha qizdirib qaysi modda olinadi?",
+   "variantlar": [
+    "etilen",
+    "atsetilen",
+    "propan",
+    "benzol"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Metanni suv bilan yuqori haroratda katalizator ishtirokida qizdirib hosil qilingan CO va H2 aralashmasi qanday ataladi?",
+   "variantlar": [
+    "tabiiy gaz",
+    "koks gazi",
+    "sintez gaz",
+    "yo'ldosh gaz"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Toshko'mirni maxsus koks pechlarida havosiz sharoitda qizdirish jarayoni qanday ataladi?",
+   "variantlar": [
+    "gazlanish",
+    "parchalanish",
+    "eritilish",
+    "kokslanish"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Toshko'mirni kokslashdan hosil bo'ladigan qattiq modda qanday ataladi?",
+   "variantlar": [
+    "koks",
+    "smola",
+    "ammiak suvi",
+    "gudron"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Koks metallurgiya sanoatida nima uchun ishlatiladi?",
+   "variantlar": [
+    "azotli o'g'it olish uchun",
+    "rudalardan temirni suyuqlantirib olish uchun",
+    "plastmassa olish uchun",
+    "shisha olish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Toshko'mir smolasi tarkibida asosan qanday birikmalar bo'ladi?",
+   "variantlar": [
+    "faqat alkanlar",
+    "faqat alkenlar",
+    "aromatik va geterotsiklik birikmalar",
+    "faqat spirtlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Toshko'mir smolasi necha xil fraksiyaga bo'linadi (matnga ko'ra)?",
+   "variantlar": [
+    "4 ta",
+    "8 ta",
+    "10 ta",
+    "6 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ammiak suvi tarkibida qanday moddalar bo'ladi?",
+   "variantlar": [
+    "ammiak, ammoniy xlorid va karbonat",
+    "faqat ammiak",
+    "faqat vodorod sulfid",
+    "faqat azot"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ammiak suvidan nima ishlab chiqarishda foydalaniladi?",
+   "variantlar": [
+    "fosforli o'g'itlar",
+    "azotli o'g'itlar",
+    "kaliyli o'g'itlar",
+    "organik erituvchilar"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Koks gazi tarkibida qanday moddalar bo'ladi?",
+   "variantlar": [
+    "faqat metan",
+    "faqat vodorod",
+    "benzol, toluol, ksilollar, fenol, ammiak, vodorod sulfid",
+    "faqat kislorod"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Koks gazidan ammiak va vodorod sulfid ajratib olingach, yana qanday qimmatbaho moddalar olinadi?",
+   "variantlar": [
+    "faqat suv",
+    "faqat azot",
+    "faqat vodorod",
+    "benzol va boshqa aromatik moddalar"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yo'ldosh gazlardan propan va butanni degidrogenlash orqali qanday moddalar olinadi?",
+   "variantlar": [
+    "propilen va butilen",
+    "metan va etan",
+    "benzol va toluol",
+    "atsetilen va etilen"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yo'ldosh gazlardan olingan propilen, butilen va butadiyendan nima sintez qilinadi?",
+   "variantlar": [
+    "faqat yoqilg'i",
+    "kauchuk va plastmassalar",
+    "faqat o'g'it",
+    "faqat spirt"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gazdan polimer materiallar sifatida qanday moddalar olinishi mumkin?",
+   "variantlar": [
+    "faqat benzin",
+    "faqat kerosin",
+    "polietilen va polivinilxloridlar",
+    "faqat mazut"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tabiiy gazning boshqa yoqilg'ilardan farqli afzalligi nimada?",
+   "variantlar": [
+    "qimmatligi",
+    "rangliligi",
+    "og'irligi",
+    "to'liq yonib, katta issiqlik berishi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yo'ldosh gazlar nega tabiiy gazdan tarkibi jihatidan farq qiladi?",
+   "variantlar": [
+    "chunki ular neft bilan birga erigan holda bo'lib, og'irroq uglevodorodlarga boy",
+    "chunki ular boshqa sayyoradan keladi",
+    "chunki ularda uglevodorod umuman yo'q",
+    "chunki ular faqat azotdan iborat"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Toshko'mirni havosiz sharoitda qizdirish (kokslash) natijasida nega turli mahsulotlar (koks, smola, ammiak suvi, gaz) hosil bo'ladi?",
+   "variantlar": [
+    "chunki toshko'mir faqat uglerod atomidan iborat",
+    "chunki toshko'mir murakkab tarkibli organik birikmalar aralashmasi bo'lib, qizdirilganda parchalanadi",
+    "chunki toshko'mir suvda eriydi",
+    "chunki toshko'mir gaz holatida"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yo'ldosh gazlarni past temperaturalarda haydash yo'li bilan nima maqsadda ishlov beriladi?",
+   "variantlar": [
+    "faqat rangini o'zgartirish uchun",
+    "faqat hidini yo'qotish uchun",
+    "alohida-alohida uglevodorodlarni ajratib olish uchun",
+    "faqat haroratini oshirish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Metandan sintez gaz (CO+3H2) olish reaksiyasi qaysi reaksiya turiga kiradi?",
+   "variantlar": [
+    "faqat almashinish reaksiyasi",
+    "faqat neytrallanish reaksiyasi",
+    "polimerlanish reaksiyasi",
+    "oksidlanish-qaytarilish (bug' bilan konversiya) reaksiyasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Toshko'mir smolasining fraksiyalarga bo'linishi nimaga asoslangan?",
+   "variantlar": [
+    "ularning qaynash haroratiga (bir-biridan harorat bilan farq qiladi)",
+    "ularning rangiga",
+    "ularning hidiga",
+    "ularning zichligiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektrkimyo kombinatlarida atsetilendan qanday moddalar olinishi mumkin?",
+   "variantlar": [
+    "faqat metan",
+    "sirka aldegid, benzol, sirka kislota, etil spirt, kauchuk",
+    "faqat suv",
+    "faqat kislorod"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Toshko'mirdan olinadigan uchta asosiy mahsulot (koks, toshko'mir smolasi, gazlar) ichida qaysi biri metallurgiyada eng ko'p ishlatiladi?",
+   "variantlar": [
+    "toshko'mir smolasi",
+    "ammiak suvi",
+    "koks",
+    "koks gazi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tabiiy gazning kimyo sanoatida sintetik va organik birikmalar olishdagi ahamiyati nimada?",
+   "variantlar": [
+    "u faqat yoqilg'i bo'lib, boshqa ahamiyati yo'q",
+    "u faqat gaz quvurlarida saqlanadi",
+    "uning kimyoviy ahamiyati yo'q",
+    "u asosiy xomashyo bo'lib xizmat qiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Metanning suv bug'i bilan reaksiyasidan olingan sintez gaz (CO va H2) qaysi sohada muhim ahamiyatga ega?",
+   "variantlar": [
+    "kimyoviy sintezlarda (masalan metanol va boshqa moddalar olishda)",
+    "faqat oziq-ovqat sanoatida",
+    "faqat tekstil sanoatida",
+    "faqat qishloq xo'jaligida"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yo'ldosh gazlardan olingan polietilen va polivinilxlorid kabi polimerlar qaysi sanoat sohasida keng qo'llaniladi?",
+   "variantlar": [
+    "faqat oziq-ovqat sanoatida",
+    "plastmassa va sintetik material ishlab chiqarishda",
+    "faqat to'qimachilikda",
+    "faqat qurilishda beton sifatida"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

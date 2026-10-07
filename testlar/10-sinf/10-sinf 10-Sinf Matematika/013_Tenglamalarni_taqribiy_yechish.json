@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Matematika",
+ "mavzu": "Tenglamalarni taqribiy yechish",
+ "savollar": [
+  {
+   "savol": "f(a)·f(b)<0 bo'lsa, [a,b] kesmada nima haqida xulosa chiqariladi?",
+   "variantlar": [
+    "f(x)=0 tenglamaning kamida bitta yechimi mavjud",
+    "Tenglama yechimga ega emas",
+    "f(x) doim musbat",
+    "f(x) doim manfiy"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(ξ)=0 shartni qanoatlantiruvchi ξ nuqta qanday nomlanadi?",
+   "variantlar": [
+    "Kesma chegarasi",
+    "Tenglamaning ildizi ([a,b] dagi)",
+    "Funksiya maksimumi",
+    "Funksiya minimumi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kesmani teng ikkiga bo'lish usuli nimaga asoslangan?",
+   "variantlar": [
+    "Kesmani cheksiz kengaytirishga",
+    "Kesmani uchga bo'lishga",
+    "Kesmani berilgan aniqlikdan kichik bo'lgunicha teng ikkiga bo'lishga",
+    "Kesmani butunlay bekor qilishga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kesmani teng ikkiga bo'lish usulida x=(b-a)/2 nimani bildiradi?",
+   "variantlar": [
+    "Kesma uzunligini",
+    "Kesma boshini",
+    "Kesma oxirini",
+    "Kesma o'rtasini"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar f_a·f_x>0 shart bajarilsa, yangi kesmaning qaysi chegarasi o'zgartiriladi?",
+   "variantlar": [
+    "Chap chegarasi (a=x qilib olinadi)",
+    "O'ng chegarasi",
+    "Ikkala chegara ham",
+    "Hech qaysi chegara"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar f_a·f_x>0 shart bajarilmasa, yangi kesmaning qaysi chegarasi o'zgartiriladi?",
+   "variantlar": [
+    "Chap chegarasi",
+    "O'ng chegarasi (b=x qilib olinadi)",
+    "Ikkala chegara ham",
+    "Hech qaysi chegara"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hisoblashlar qachon to'xtatiladi (kesmani teng ikkiga bo'lish usulida)?",
+   "variantlar": [
+    "a=b bo'lganda",
+    "f(x)=1 bo'lganda",
+    "b-a<ε shart bajarilganda",
+    "x=0 bo'lganda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(x)=x³+ax²+bx+c=0 tenglama ildizi yotgan oraliqni topishda A va B qanday hisoblanadi?",
+   "variantlar": [
+    "A=min{a,b,c}, B=min{1/c,a/c,b/c}",
+    "A=a+b+c, B=abc",
+    "A=a², B=b²",
+    "A=max{a,b,c}, B=max{1/c,a/c,b/c}"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Berilgan tenglamaning ildizi uchun qaysi tengsizlik o'rinli?",
+   "variantlar": [
+    "1/(1+B)<|x|<1+A",
+    "A<|x|<B",
+    "|x|<A+B",
+    "|x|>A·B"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "ε aniqlikdagi yechim nimani bildiradi?",
+   "variantlar": [
+    "Tenglamaning aniq yechimi",
+    "Tenglamaning taqribiy yechimi berilgan aniqlikda",
+    "Tenglamaning koeffitsienti",
+    "Tenglamaning darajasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(x) ko'phad [a,b] kesma uchlarida turli ishorali qiymat qabul qilsa (f(a)·f(b)<0), bu nimani bildiradi?",
+   "variantlar": [
+    "Tenglama yechimga ega emas",
+    "[a,b] da ildiz yo'q",
+    "[a,b] da kamida bitta ξ mavjudki f(ξ)=0",
+    "f(x) har doim musbat"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "2x³+3x²+5x+1=0 tenglamani sodda ko'rinishga keltirgach (ikki qismini 2 ga bo'lib) hosil bo'lgan a,b,c koeffitsientlarini toping.",
+   "variantlar": [
+    "a=3, b=5, c=1",
+    "a=3/2, b=1/2, c=5/2",
+    "a=1/2, b=5/2, c=3/2",
+    "a=3/2, b=5/2, c=1/2"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi misolda A=max{3/2, 5/2, 1/2} nimaga teng?",
+   "variantlar": [
+    "A=2,5",
+    "A=1,5",
+    "A=0,5",
+    "A=4,5"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ildiz uchun topilgan (-2,5; 2,5) oraliqda tenglama (0; 2,5) qismida ildizga ega emasligi qanday tekshiriladi?",
+   "variantlar": [
+    "Grafik chizib",
+    "x0∈(0;2,5) uchun f(x0)>0 ekanligini ko'rsatib",
+    "Kalkulyator bilan taxminlab",
+    "Tekshirish shart emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Shu misolda (2x³+3x²+5x+1=0) tenglamaning ildizi qaysi oraliqda ekani aniqlandi?",
+   "variantlar": [
+    "(0; 2,5)",
+    "(2,5; +∞)",
+    "(-2,5; 0)",
+    "(-∞; -2,5)"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "d1=-2, d2=-1, d3=0 qiymatlari tekshirilganda, qaysi ikki qo'shni nuqtada funksiya ishorasi almashadi?",
+   "variantlar": [
+    "d1 va d2 orasida",
+    "Hech qaysi oraliqda almashmaydi",
+    "Barcha oraliqlarda almashadi",
+    "d2=-1 va d3=0 orasida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x³+1,5x²+2,5x+0,5=0 tenglamaning ildizi (-1;0) oraliqda ekani aniqlangach, γ=(α+β)/2 formulasi nima uchun ishlatiladi?",
+   "variantlar": [
+    "Kesma o'rtasini topish uchun",
+    "Funksiya hosilasini topish uchun",
+    "Funksiya maksimumini topish uchun",
+    "Koeffitsientlarni topish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi misolda γ=-0,5 da funksiya qiymati manfiy bo'lsa, ildiz qaysi yangi oraliqqa torayadi?",
+   "variantlar": [
+    "(-1; -0,5)",
+    "(-0,5; 0)",
+    "(0; 1)",
+    "(-2; -1)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "γ=-0,25 nuqtada |f(γ)|<0,1 bo'lsa, bu nimani anglatadi?",
+   "variantlar": [
+    "Tenglama yechimga ega emas",
+    "Bu nuqta ildiz emas",
+    "x=-0,25 tenglamaning 0,1 aniqlikdagi yechimi",
+    "Hisoblash xato ketgan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kesmani teng ikkiga bo'lish usuli har bir qadamda kesma uzunligini necha marta kamaytiradi?",
+   "variantlar": [
+    "3 marta",
+    "4 marta",
+    "O'zgartirmaydi",
+    "2 marta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x³+3x²+5x+1=0 tenglama ildizi yotgan oraliqni topish uchun A,B qiymatlarini toping.",
+   "variantlar": [
+    "A=5, B=5",
+    "A=3, B=1",
+    "A=1, B=3",
+    "A=9, B=9"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi natijaga ko'ra (A=5, B=5) tenglamaning ildizi qaysi tengsizlikni qanoatlantiradi?",
+   "variantlar": [
+    "5<|x|<6",
+    "1/6<|x|<6",
+    "|x|<5",
+    "|x|>5"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tenglamaning ildizini ε=0,1 aniqlikda topish jarayoni nima bilan tugaydi?",
+   "variantlar": [
+    "a=0 bo'lganda",
+    "f(x)=0,1 bo'lganda",
+    "b-a<0,1 shart bajarilganda, x ning oxirgi hisoblangan qiymati olinadi",
+    "Hisoblashlar hech qachon tugamaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kesmani teng ikkiga bo'lish usulida f_a·f_x>0 shartni tekshirishning maqsadi nima?",
+   "variantlar": [
+    "Funksiya darajasini aniqlash",
+    "Koeffitsientlarni hisoblash",
+    "Kesma uzunligini oshirish",
+    "Ildiz qaysi yarim kesmada qolganini aniqlash"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "x³+x²+x+19=0 tenglama uchun barcha koeffitsientlar musbat bo'lsa, ildiz manfiy sohada bo'lishi mumkinmi?",
+   "variantlar": [
+    "Ha, mumkin, chunki kub funksiya manfiy cheksizlikda manfiy qiymat oladi",
+    "Yo'q, hech qachon",
+    "Faqat musbat sohada bo'ladi",
+    "Ildiz umuman mavjud emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Taqribiy yechish usulida aniqlik ε qancha kichik tanlansa, natija qanday bo'ladi?",
+   "variantlar": [
+    "Noaniqroq bo'ladi",
+    "Aniqroq bo'ladi, lekin hisoblashlar soni ko'proq kerak",
+    "Natijaga ta'sir qilmaydi",
+    "Tenglama yechimsiz bo'lib qoladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(d1)·f(d2)<0 shart ikkita butun son uchun bajarilsa, bu nimani bildiradi?",
+   "variantlar": [
+    "Ildiz mavjud emas",
+    "d1 va d2 teng",
+    "Ildiz d1 va d2 oralig'ida joylashgan",
+    "Funksiya o'zgarmas"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tenglamaning ildizi yotgan oraliqni toraytirish uchun odatda qanday sonlar birinchi bo'lib tekshiriladi?",
+   "variantlar": [
+    "Kasr sonlar darhol",
+    "Faqat manfiy sonlar",
+    "Faqat tub sonlar",
+    "Butun sonlar (keyin kerakli aniqlikdagi kasr sonlar)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Kesmani teng ikkiga bo'lish usuli qaysi turdagi tenglamalar uchun ayniqsa qulay?",
+   "variantlar": [
+    "Aniq formulada yechilmaydigan yuqori darajali tenglamalar uchun",
+    "Faqat chiziqli tenglamalar uchun",
+    "Faqat kvadrat tenglamalar uchun",
+    "Faqat bir hadli tenglamalar uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "f(γ)·f(β)<0 yoki f(γ)·f(α)<0 shartlaridan foydalanib ildiz tegishli yarim oraliqda ekanligini aniqlash qaysi matematik tamoyilga asoslangan?",
+   "variantlar": [
+    "Pifagor teoremasiga",
+    "Oraliq qiymat teoremasiga (uzluksiz funksiya chetlarda ishoralari har xil bo'lsa, orada ildiz bor)",
+    "Vyet teoremasiga",
+    "Taлес teoremasiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

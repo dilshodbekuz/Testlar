@@ -1,0 +1,179 @@
+41-dars qanday nomlanadi?
++A) ShowMessage oynasi
+B) Boshqarish tugmasi
+C) Ilova oynasiga ma’lumot joylash
+D) Boshqarish obyektlarining faolligi
+
+Ikkinchi ilovaning kamchiligi nimada edi?
+A) Ilova rangsiz bo‘ladi
++B) “++” tugmasi ming marta bosilsa, oyna cheksiz kengayib ketaveradi
+C) Tugma umuman ishlamaydi
+D) Ilova ochilmaydi
+
+Ilova oynasi eni necha pikseldan oshsa kattalashtirmaslik kelishib olinadi?
+A) 400 piksel
+B) 800 piksel
++C) 600 piksel
+D) 1000 piksel
+
+ShowMessage nima uchun ishlatiladi?
+A) Faylni saqlash uchun
+B) Ilovani yopish uchun
+C) Ranglarni o‘zgartirish uchun
++D) Ekranga xabar oynasini chiqarish uchun
+
+ShowMessage(‘Oyna boshqa kengaymaydi’); qachon ishga tushadi?
++A) Oyna eni 600 dan oshganda (else sharti bajarilganda)
+B) Ilova ochilganda
+C) Ilova yopilganda
+D) Har doim
+
+IntToStr funksiyasi nimani bajaradi?
+A) Matnni o‘chiradi
++B) Butun sonni matn satriga o‘tkazadi
+C) Matnni songa o‘tkazadi
+D) Sonni kvadratga ko‘taradi
+
+IntToStr nomi qaysi ingliz iborasidan olingan?
+A) Integer to Start
+B) Input to String
++C) Integer to String
+D) Internal to String
+
+ShowMessage oynasi ochilganda ilova nima qiladi?
+A) Ishini davom ettiraveradi
+B) Avtomatik yopiladi
+C) Qayta ishga tushadi
++D) Oyna yopilmaguncha ishini to‘xtatib turadi
+
+Form1.Caption:=Form1.Height+'*'+Form1.Wide; operatori nega xato beradi?
++A) Butun son turidagi qiymat matn turidagi xossaga to‘g‘ridan-to‘g‘ri qo‘shilayotgani uchun
+B) Chunki Caption xossasi mavjud emas
+C) Chunki Height manfiy bo‘lishi mumkin
+D) Chunki Wide noto‘g‘ri yozilgan
+
+ShowMessage oynasidagi xabarni yopish uchun qaysi tugma bosiladi?
+A) Esc
++B) OK
+C) Cancel
+D) Close
+
+If Form1.Width<600 then begin...end else... operatorining vazifasi nima?
+A) Dasturni to‘xtatish
+B) Faylni saqlash
++C) Shart bo‘yicha ikki xil amaldan birini bajarish
+D) Doim bitta amalni bajarish
+
+Form1.Caption:='('+IntToStr(Form1.Height)+'*'+IntToStr(Form1.Wide)+')'; nima qiladi?
+A) Oynani kichraytiradi
+B) Oynani yashiradi
+C) Tugmani o‘chiradi
++D) Oyna balandligi va eni qiymatlarini sarlavhaga matn ko‘rinishida chiqaradi
+
+Form1.Caption:='Uchinchi ilova'+ Form1.Caption; operatori nimaga xizmat qiladi?
++A) Ilovaning nomini avvalgi sarlavha oldiga qo‘shish uchun
+B) Sarlavhani butunlay o‘chirish uchun
+C) Oyna rangini o‘zgartirish uchun
+D) Tugmani yashirish uchun
+
+Dastur kodi oynasini chaqirish uchun tugma ustida nima qilinadi?
+A) Surib olib boriladi
++B) Ikki marta sichqoncha bilan bosiladi
+C) Bir marta bosiladi
+D) O‘ng tugma bosiladi
+
+Ilovani ishga tushirib o‘zgarishlarni kuzatish uchun nima qilinadi?
+A) Faqat Save bosiladi
+B) Kompyuter qayta ishga tushiriladi
++C) Ilova ishga tushirilib tugma bir necha marta bosiladi
+D) Faqat kod o‘qiladi
+
+ShowMessage funksiyasi parametr sifatida nima qabul qiladi?
+A) Faqat son qiymatini
+B) Faqat rang kodini
+C) Hech narsa qabul qilmaydi
++D) Matn (satr) qiymatini
+
+If...then...else operatorida “else” qismi qachon bajariladi?
++A) Shart yolg‘on bo‘lganda
+B) Shart rost bo‘lganda
+C) Har doim
+D) Hech qachon
+
+Ilova oynasining kengayishi uchun Width xossasiga qancha qo‘shiladi?
+A) 100
++B) 16
+C) 9
+D) 600
+
+Ilova oynasining balandligi kengayishi uchun Height xossasiga qancha qo‘shiladi?
+A) 600
+B) 100
++C) 9
+D) 16
+
+Ikkinchi va uchinchi ilovalarning asosiy farqi nimada?
+A) Uchinchi ilovada tugma yo‘q
+B) Ikkinchi ilovada rang yo‘q
+C) Hech qanday farq yo‘q
++D) Uchinchi ilovada oyna o‘lchamlari sarlavhada ko‘rsatiladi va chegaralash kiritilgan
+
+Savol-topshiriqda uchinchi ilovani qaysi shartlar bilan o‘zgartirish so‘raladi?
++A) Eni 800 dan, bo‘yi 450 dan oshsa ogohlantirish chiqishi
+B) Eni 100 dan, bo‘yi 50 dan oshsa ogohlantirish chiqishi
+C) Faqat rangini o‘zgartirish
+D) Faqat sarlavhasini o‘zgartirish
+
+Nega Delphida Form1.Caption:=Form1.Height+'*'+Form1.Wide; kabi yozuv xatoga olib keladi?
+A) Chunki Caption faqat raqam qabul qiladi
++B) Turli tipdagi (son va matn) qiymatlarni to‘g‘ridan-to‘g‘ri birlashtirib bo‘lmaydi
+C) Chunki Form1 obyekti mavjud emas
+D) Chunki ‘*’ belgisi noto‘g‘ri
+
+Agar foydalanuvchi tugmani bossa-yu hech qanday o‘zgarish ko‘rinmasa, bu nimaga shubha tug‘dirishi mumkin?
+A) Internetning ulanganligiga
+B) Printerning ishlayotganiga
++C) Dasturning to‘g‘ri ishlayotganiga
+D) Kompyuterning ishlayotganiga
+
+Uchinchi ilovada sarlavhaga nechta ma’lumot (son) chiqariladi?
+A) Bitta
+B) Uchta
+C) To‘rtta
++D) Ikkita (balandlik va eni)
+
+ShowMessage yangi oyna yaratishi ilova ishiga qanday ta’sir qiladi?
++A) Oyna yopilmaguncha ilova to‘xtab turadi
+B) Ilova ishini davom ettiradi
+C) Ilova avtomatik yopiladi
+D) Hech qanday ta’sir qilmaydi
+
+IntToStr funksiyasisiz son qiymatini Caption xossasiga to‘g‘ridan-to‘g‘ri yozishga urinilsa, nima bo‘ladi?
+A) Caption bo‘sh qoladi
++B) Tip mos kelmasligi xatosi yuzaga keladi
+C) Hammasi normal ishlaydi
+D) Dastur o‘zi tuzatib oladi
+
+Uyga vazifada nimani esga olib, daftarga ko‘chirish so‘raladi?
+A) Pascal operatorlarini
+B) MS Access funksiyalarini
++C) Ilova oynasining asosiy xossalarini
+D) Delphi tarixini
+
+Oyna o‘lchamlari sarlavhaga chiqarilishi foydalanuvchiga nima haqida ma’lumot beradi?
+A) Dastur versiyasi haqida
+B) Kompyuter nomi haqida
+C) Fayl hajmi haqida
++D) Oynaning joriy eni va balandligi haqida
+
+Button1 tugmasiga yozilgan kod qayerda saqlanadi?
++A) Dastur kodi faylida (protsedura ichida)
+B) Faqat Object Inspectorda
+C) Faqat sarlavha satrida
+D) Hech qayerda saqlanmaydi
+
+ShowMessage protsedurasi qaysi turdagi dasturlash uchun xos (matn kontekstiga ko‘ra)?
+A) Faqat tarmoq dasturlash uchun
++B) Foydalanuvchiga xabar beruvchi vizual dasturlash uchun
+C) Faqat matematik hisob-kitob uchun
+D) Faqat fayl bilan ishlash uchun

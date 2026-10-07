@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "13-dars. Matematik funksiyalar",
+ "savollar": [
+  {
+   "savol": "13-dars qanday nomlanadi?",
+   "variantlar": [
+    "Matematik funksiyalar",
+    "Matnli funksiyalar",
+    "Mantiqiy funksiyalar",
+    "Statistik funksiyalar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "Matematik funksiyalar qaysi turdagi masalalarni yechishda keng qo‘llaniladi?",
+   "variantlar": [
+    "Faqat geografiya masalalarida",
+    "Iqtisodiyot va muhandislik masalalarida",
+    "Faqat tarix masalalarida",
+    "Faqat adabiyot masalalarida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "1-mashqda qaysi funksiyalar argumentning turli qiymatlarida hisoblanadi?",
+   "variantlar": [
+    "y=lgx, y=lnx",
+    "y=x², y=x³",
+    "y=arccosx, y=cosx, y=eˣ, y=coseˣ",
+    "y=sinx, y=tgx"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "1-mashqda A1:C1 kataklariga qanday qiymatlar kiritiladi?",
+   "variantlar": [
+    "1; 2; 3",
+    "0; 0; 0",
+    "5; 10; 15",
+    "-0,9; 0,2; -0,9"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "2-mashqda x ning qiymatlari qanday oraliqda beriladi?",
+   "variantlar": [
+    "0 dan 1 gacha, 0,1 qadam bilan",
+    "0 dan 100 gacha",
+    "-1 dan 1 gacha",
+    "1 dan 10 gacha"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "3-mashqda qaysi funksiyaga mos tasvir hosil qilinadi?",
+   "variantlar": [
+    "z=x/y",
+    "z=cosx·cosy",
+    "z=sinx+cosy",
+    "z=x²+y²"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "Funksiya grafiklarini hosil qilish qaysi bo‘lim orqali amalga oshiriladi (Yodda saqlang)?",
+   "variantlar": [
+    "Fayl bo‘limi orqali",
+    "Rezensirovaniye bo‘limi orqali",
+    "Вставка bo‘limining Grafik qismi orqali",
+    "Formulalar bo‘limi orqali"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "Matematik funksiyalar MS Excel tasmasining qaysi bo‘limida joylashgan?",
+   "variantlar": [
+    "Вставка bo‘limida",
+    "Данные bo‘limida",
+    "Главная bo‘limida",
+    "Формулы bo‘limining Математические qismida"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "3-mashqda grafik turi sifatida qaysi bo‘lim tanlanadi?",
+   "variantlar": [
+    "Вставка-Другие-Поверхность",
+    "Вставка-Диаграммы-Гистограмма",
+    "Вставка-Таблица",
+    "Данные-Фильтр"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "2-mashqda nechta funksiyaning grafigi bitta oynada hosil qilinadi?",
+   "variantlar": [
+    "Bitta",
+    "To‘rtta (cosx, eˣ, coseˣ, cos(cosx))",
+    "Ikkita",
+    "Beshta"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "1-mashqda A4 katakka qanday formula kiritiladi?",
+   "variantlar": [
+    "=ACOS(A1)",
+    "=COS(A4)",
+    "=EXP(A1)",
+    "=COS(A1)"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "1-mashqda A5 katakka qanday formula kiritiladi?",
+   "variantlar": [
+    "=EXP(A4)",
+    "=ACOS(A4)",
+    "=COS(A1)",
+    "=COS(A4)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "cose^x nega murakkab funksiya deb ataladi?",
+   "variantlar": [
+    "Chunki u ikkita funksiyaning (cos va exp) birikmasidan iborat",
+    "Chunki u faqat manfiy sonlarda ishlaydi",
+    "Chunki uning natijasi doim nolga teng",
+    "Chunki u faqat butun sonlarda ishlaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "2-mashqda x ning qiymatlari qaysi kataklarga kiritiladi?",
+   "variantlar": [
+    "F1:P1",
+    "F3:P3",
+    "A1:A10",
+    "B1:B10"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "2-mashqda F4 katagida qaysi funksiyaning argumentiga F3 katak murojaat qilinadi?",
+   "variantlar": [
+    "sin funksiyasiga",
+    "ln funksiyasiga",
+    "cos funksiyasiga",
+    "exp funksiyasiga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "2-mashqda F6 katagiga qanday ifoda kiritiladi?",
+   "variantlar": [
+    "exp(cos(F3))",
+    "cos(F3)",
+    "exp(F3)",
+    "cos(exp(F3))"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "2-mashqda F7 katagiga qanday ifoda kiritiladi?",
+   "variantlar": [
+    "cos(cos(F3))",
+    "cos(exp(F3))",
+    "exp(exp(F3))",
+    "sin(cos(F3))"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "3-mashqda B2 katagiga qanday formula yoziladi?",
+   "variantlar": [
+    "=SIN($A$1)*SIN(B1)",
+    "=COS($A$1)*COS(B1)",
+    "=COS(A1)+COS(B1)",
+    "=COS($A1)*COS($B1)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "3-mashqdagi B2 formulasida $A$1 qaysi murojaat turiga misol bo‘ladi?",
+   "variantlar": [
+    "Aralash murojaat",
+    "Murojaat emas",
+    "Absolut murojaat",
+    "Nisbiy murojaat"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "3-mashqda B2 dan B10 va B10 dan J10 gacha formula qaysi murojaat turi yordamida hosil qilinadi?",
+   "variantlar": [
+    "Faqat nisbiy murojaat",
+    "Faqat absolut murojaat",
+    "Murojaatsiz, qo‘lda yoziladi",
+    "Aralash murojaat"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 20
+  },
+  {
+   "savol": "3-mashqda grafik hosil qilish uchun qaysi kataklar bloki ajratib olinadi?",
+   "variantlar": [
+    "B2:J10",
+    "A1:J1",
+    "A2:A10",
+    "B1:J1"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 21
+  },
+  {
+   "savol": "1-mashqda natijaviy jadvalning 2-qatorida (A2,B2,C2) qanday qiymatlar hosil bo‘ladi (taxminan)?",
+   "variantlar": [
+    "1; 1; 1",
+    "2,690566; 1,369438; 2,690566",
+    "0,62161; 0,980067; 0,62161",
+    "0,918483; 0,342328; 0,918483"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "1-mashqda natijaviy jadvalning 5-qatorida (A5,B5,C5) qanday qiymatlar hosil bo‘ladi (taxminan)?",
+   "variantlar": [
+    "0,40657; 1,221403; 0,40657",
+    "0,62161; 0,980067; 0,62161",
+    "0,918483; 0,342328; 0,918483",
+    "2,690566; 1,369438; 2,690566"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Savol-topshiriqda y=cos²x funksiyasining grafigini hosil qilish uchun avval nima kiritiladi?",
+   "variantlar": [
+    "Faqat rang",
+    "Faqat sarlavha matni",
+    "Hech narsa kiritilmaydi",
+    "Kataklarga funksiya qiymatlari"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Uyga vazifada qaysi funksiyaning grafigi hosil qilinishi so‘raladi?",
+   "variantlar": [
+    "y=sin²x",
+    "y=cos²x",
+    "y=tg²x",
+    "y=ctg²x"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Uyga vazifada qaysi ikkita funksiya bitta oynada hosil qilinishi so‘raladi?",
+   "variantlar": [
+    "y=x va y=1/x",
+    "y=x² va y=x³",
+    "y=sinx va y=cosx",
+    "y=eˣ va y=lnx"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "3-mashqda hosil bo‘lgan grafikdan nima olib tashlanadi?",
+   "variantlar": [
+    "Rang sxemasi",
+    "Katak chegaralari",
+    "Muhim bo‘lmagan yozuvlar",
+    "Barcha ma’lumotlar"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "1-mashq va 2-mashq o‘rtasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Ikkalasi ham bir xil ishni bajaradi",
+    "1-mashqda grafik, 2-mashqda jadval yo‘q",
+    "2-mashqda faqat matn ishlatiladi",
+    "1-mashq faqat qiymatlarni hisoblaydi, 2-mashq esa grafik ham chizadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "Nisbiy murojaat yordamida formulani “davom ettirish” nimani anglatadi?",
+   "variantlar": [
+    "Formulani qolgan kataklarga nusxalab, manzillarni mos ravishda siljitish",
+    "Formulani butunlay o‘chirish",
+    "Formulani qo‘lda qayta yozish",
+    "Formulani faqat bitta marta ishlatish"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "Ikki o‘zgaruvchili z=cosx·cosy funksiyasining grafigi qanday turdagi diagramma bilan tasvirlanadi?",
+   "variantlar": [
+    "Chiziqli (Линейчатая) diagramma bilan",
+    "Sirt (Поверхность) diagrammasi bilan",
+    "Doira (Круговая) diagrammasi bilan",
+    "Ustunli (Гистограмма) diagramma bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

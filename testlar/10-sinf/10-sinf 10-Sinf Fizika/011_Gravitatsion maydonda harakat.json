@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Fizika",
+ "mavzu": "Gravitatsion maydonda harakat",
+ "savollar": [
+  {
+   "savol": "Yer o'z atrofida nima hosil qiladi va shu orqali jismlarni o'ziga tortib turadi?",
+   "variantlar": [
+    "Yorug'lik maydoni",
+    "Tortishish (gravitatsion) maydon",
+    "Magnit maydon",
+    "Elektr maydon"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tog' cho'qqisidan gorizontal yo'nalishda uloqtirilgan jism qachon Yerning sun'iy yo'ldoshiga aylanadi?",
+   "variantlar": [
+    "Tezligi nolga teng bo'lganda",
+    "Tezligi juda kichik bo'lganda",
+    "Tezligi ma'lum bir qiymatga yetganda",
+    "Faqat vertikal tashlanganda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sun'iy yo'ldoshning harakati qanday harakat deb ataladi?",
+   "variantlar": [
+    "Erkin tushish harakati",
+    "Inersial harakat",
+    "Tekis to'g'ri chiziqli harakat",
+    "Tortishish maydonidagi harakat"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yer yuzasidan qancha balandlikda havoning qarshiligi deyarli yo'q bo'lib qoladi?",
+   "variantlar": [
+    "100-200 km",
+    "1000-1200 km",
+    "500-600 km",
+    "300-400 km"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda birinchi kosmik tezlik qanday qiymatga teng deb ko'rsatilgan?",
+   "variantlar": [
+    "9,91 km/s",
+    "8,91 km/s",
+    "6,91 km/s",
+    "7,91 km/s"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hisoblashlarda Yer radiusi qanday qiymatda olingan?",
+   "variantlar": [
+    "5400 km",
+    "6400 km",
+    "7400 km",
+    "6000 km"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hisoblashlarda erkin tushish tezlanishi g qanday qiymatda olingan?",
+   "variantlar": [
+    "9,6 m/s²",
+    "10 m/s²",
+    "9,81 m/s²",
+    "9,8 m/s²"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Birinchi kosmik tezlik bilan harakatlangan yo'ldosh Yer atrofini bir marta aylanib chiqishi uchun qancha vaqt ketadi?",
+   "variantlar": [
+    "100 min",
+    "60 min",
+    "84 min 12 s",
+    "90 min"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yo'ldoshga doimo ta'sir etib turadigan asosiy kuch qaysi?",
+   "variantlar": [
+    "Yerning tortish kuchi",
+    "Magnit kuchi",
+    "Ishqalanish kuchi",
+    "Elektr kuchi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Katta radiusli orbitada harakatlanuvchi yo'ldoshning tezligi Yer sirtiga yaqin orbitadagi yo'ldoshning tezligiga nisbatan qanday bo'ladi?",
+   "variantlar": [
+    "Teng bo'ladi",
+    "Katta bo'ladi",
+    "Kichik bo'ladi",
+    "O'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "v² = g(R+h) formulasida h ni Yer radiusi R ga nisbatan hisobga olmasak, formula qanday ko'rinishga keladi?",
+   "variantlar": [
+    "v² = gh",
+    "v² = 2gR",
+    "v² = g(R-h)",
+    "v² = gR"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yo'ldoshga ta'sir etayotgan Yerning tortish kuchini qanday kuch kompensatsiyalaydi?",
+   "variantlar": [
+    "Markazga intilma kuch",
+    "Ishqalanish kuchi",
+    "Markazdan qochma kuch",
+    "Elastiklik kuchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jismga berilgan dastlabki tezlik A, B, C nuqtalarga ketma-ket oshirib borilsa, jism qanday o'zgarish bilan tushadi?",
+   "variantlar": [
+    "A dan C tomon uzoqroqqa tushadi",
+    "Hamma vaqt bir xil nuqtaga tushadi",
+    "Umuman Yerga tushmaydi",
+    "C dan A tomon uzoqroqqa tushadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yo'ldosh Yer sirtiga juda yaqin balandlikda (h<<R) harakatlansa, uning tezligini topish uchun qaysi formuladan foydalaniladi?",
+   "variantlar": [
+    "v² = gh",
+    "v² = g(R+h)",
+    "v² = g²R",
+    "v² = gR"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Amalda yo'ldoshning bir marta aylanib chiqish vaqti hisoblangan vaqtdan nega katta bo'ladi?",
+   "variantlar": [
+    "Yer o'z o'qi atrofida aylanmagani uchun",
+    "Yo'ldosh orbitasi radiusi Yer radiusidan farq qilgani uchun",
+    "Tortishish kuchi o'zgarmagani uchun",
+    "Havo qarshiligi ko'p bo'lgani uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yo'ldoshning aylanish davri 24 soatga teng bo'lishi uchun u qanday holatda bo'lishi kerak?",
+   "variantlar": [
+    "Tezligi nolga teng bo'lishi kerak",
+    "Ma'lum bir balandlikda, Yerga nisbatan 'qimirlamasdan' turishi kerak",
+    "Yer sirtida harakatlanishi kerak",
+    "Faqat qutblar ustida aylanishi kerak"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "v² = g·Ryer formulasida Ryer nimani ifodalaydi?",
+   "variantlar": [
+    "Yo'ldoshning balandligini",
+    "Yerning diametrini",
+    "Yerning radiusini",
+    "Orbitaning uzunligini"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yo'ldoshga ta'sir etuvchi kuchlar unga tezlanish berishi Nyutonning qaysi qonuniga bog'liq?",
+   "variantlar": [
+    "Uchinchi qonuniga",
+    "Birinchi qonuniga",
+    "Ikkinchi qonuniga",
+    "Gravitatsiya qonuniga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(2.6)-formulada T1 nimani ifodalaydi?",
+   "variantlar": [
+    "Yerning o'z o'qi atrofida aylanish davrini",
+    "Oyning aylanish davrini",
+    "24 soatlik davrni",
+    "Yer sirtiga yaqin orbitadagi yo'ldoshning aylanish davrini"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nima uchun yo'ldoshni kuzatish uchun atmosferaning eng yuqori qatlamlariga olib chiqish kerak?",
+   "variantlar": [
+    "Havoning qarshilik kuchini kamaytirish uchun",
+    "Bosimni oshirish uchun",
+    "Haroratni kamaytirish uchun",
+    "Tortishish kuchini kamaytirish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "g=9,8 m/s² va R=6400 km qiymatlarida v²=gR formulasi bo'yicha birinchi kosmik tezlik taxminan necha m/s ga teng?",
+   "variantlar": [
+    "≈ 790 m/s",
+    "≈ 11200 m/s",
+    "≈ 79000 m/s",
+    "≈ 7900 m/s"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yo'ldosh orbitasining radiusi Yer radiusidan ancha katta bo'lsa, uning tezligi Yer sirtidagi yo'ldoshning tezligiga nisbatan qanday o'zgaradi?",
+   "variantlar": [
+    "Ortadi",
+    "Kamayadi",
+    "Ikki marta ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yo'ldosh Yer atrofida doimiy aylana orbitada harakatlanishi uchun kuchlar nuqtai nazaridan qaysi shart bajarilishi kerak?",
+   "variantlar": [
+    "Havo qarshiligi tortish kuchidan katta bo'lishi kerak",
+    "Tortish kuchi markazdan qochma kuchdan katta bo'lishi kerak",
+    "Yo'ldoshga umuman kuch ta'sir qilmasligi kerak",
+    "Tortish kuchi markazdan qochma kuchni to'liq kompensatsiyalashi kerak"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikki yo'ldoshdan biri past orbitada, ikkinchisi yuqori orbitada aylansa, qaysi birining tezligi kattaroq bo'ladi va nega?",
+   "variantlar": [
+    "Aniqlab bo'lmaydi",
+    "Ikkisining tezligi teng bo'ladi",
+    "Yuqori orbitadagi, chunki uzoq orbitada tezlik katta bo'ladi",
+    "Past orbitadagi, chunki Yerga yaqin orbitalarda tezlik katta bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yo'ldosh balandligi ortib borsa, uning Yer atrofini bir marta aylanib chiqish vaqti (davri) qanday o'zgaradi?",
+   "variantlar": [
+    "Uzayadi",
+    "Qisqaradi",
+    "O'zgarmaydi",
+    "Nolga teng bo'lib qoladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar g qiymati 9,8 m/s² o'rniga 4,9 m/s² bo'lganda edi (R o'zgarmas holda), birinchi kosmik tezlik qanday o'zgargan bo'lardi?",
+   "variantlar": [
+    "√2 marta kamaygan bo'lardi",
+    "O'zgarmagan bo'lardi",
+    "Ortgan bo'lardi",
+    "Ikki marta ortgan bo'lardi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar Yer radiusi R o'rniga 2R bo'lganda edi (g o'zgarmas holda), birinchi kosmik tezlik necha marta o'zgargan bo'lardi?",
+   "variantlar": [
+    "2 marta ortgan bo'lardi",
+    "O'zgarmagan bo'lardi",
+    "2 marta kamaygan bo'lardi",
+    "√2 marta ortgan bo'lardi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nyutonning ikkinchi qonuniga ko'ra, yo'ldoshga ta'sir etuvchi kuchlar yig'indisi uni qanday harakatga keltiradi?",
+   "variantlar": [
+    "Tebranma harakatga",
+    "Markazga intilma tezlanish bilan aylana harakatga",
+    "Tekis to'g'ri chiziqli harakatga",
+    "Tinch holatga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matndagi ma'lumotlarga ko'ra, nega yo'ldoshni 300-400 km dan past balandlikda uchirish maqsadga muvofiq emas?",
+   "variantlar": [
+    "Havoning qarshilik kuchi sezilarli bo'lib, yo'ldoshni sekinlashtiradi",
+    "Harorat juda past bo'lib ketadi",
+    "Tortishish kuchi yo'qolib qoladi",
+    "Yorug'lik yetib bormaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Aylanish davri 24 soat bo'lgan yo'ldosh bilan Yer sirtiga yaqin orbitadagi yo'ldosh (davri ~84 min) solishtirilsa, qaysi birining orbitasi balandroq?",
+   "variantlar": [
+    "84 minutlik yo'ldoshning orbitasi balandroq",
+    "24 soatlik yo'ldoshning orbitasi balandroq, chunki uzoq orbitada aylanish davri ortadi",
+    "Ikkisining orbitasi bir xil balandlikda",
+    "Aniqlab bo'lmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

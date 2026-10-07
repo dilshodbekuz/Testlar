@@ -1,0 +1,337 @@
+{
+  "sinf": "11-sinf",
+  "kitob": "11-sinf 11-Sinf Umumiy kimyo",
+  "mavzu": "26-§ Kimyoviy muvozanat va unga ta'sir etuvchi omillar",
+  "savollar": [
+    {
+      "savol": "Le Shatelye prinsipining mohiyati nimada?",
+      "variantlar": [
+        "Muvozanat tashqi ta'sirni kuchaytiruvchi tomonga siljiydi",
+        "Muvozanat doim to'xtaydi",
+        "Muvozanat tashqi ta'sirni kamaytiruvchi tomonga siljiydi",
+        "Muvozanat faqat katalizatorga bog'liq"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Bosim ortganda muvozanat qaysi tomonga siljiydi?",
+      "variantlar": [
+        "Molekulalar soni ko'p bo'lgan tomonga",
+        "Hech qayerga siljimaydi",
+        "Faqat chapga",
+        "Molekulalar soni kam bo'lgan tomonga"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Bosim kamaytirilganda muvozanat qaysi tomonga siljiydi?",
+      "variantlar": [
+        "Molekulalar soni ko'p bo'lgan tomonga",
+        "Molekulalar soni kam bo'lgan tomonga",
+        "Hech qayerga siljimaydi",
+        "Faqat o'ngga"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Reaksiya tenglamasining ikkala tomonidagi gaz molekulalari soni teng bo'lsa, bosim o'zgarishi muvozanatga ta'sir qiladimi?",
+      "variantlar": [
+        "Ha, faqat o'ngga siljitadi",
+        "Yo'q, ta'sir qilmaydi",
+        "Ha, faqat chapga siljitadi",
+        "Ha, muvozanatni butunlay buzadi"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Katalizator muvozanatga qanday ta'sir qiladi?",
+      "variantlar": [
+        "Muvozanatni o'ngga siljitadi",
+        "Muvozanatni chapga siljitadi",
+        "Muvozanat holatini o'zgartirmaydi, faqat tez qaror topishiga yordam beradi",
+        "Muvozanat konstantasini ikki marta oshiradi"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Ekzotermik reaksiyada harorat ortsa, muvozanat qaysi tomonga siljiydi?",
+      "variantlar": [
+        "To'g'ri (ekzotermik) reaksiya tomoniga, ya'ni o'ngga",
+        "Muvozanat o'zgarmaydi",
+        "Muvozanat butunlay to'xtaydi",
+        "Teskari (endotermik) reaksiya tomoniga, ya'ni chapga"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Endotermik reaksiyada harorat ortsa, muvozanat qaysi tomonga siljiydi?",
+      "variantlar": [
+        "To'g'ri (endotermik) reaksiya tomoniga, ya'ni o'ngga",
+        "Teskari tomonga, ya'ni chapga",
+        "Muvozanat o'zgarmaydi",
+        "Muvozanat butunlay to'xtaydi"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Ekzotermik reaksiyada harorat pasaytirilsa, muvozanat qaysi tomonga siljiydi?",
+      "variantlar": [
+        "Chapga",
+        "O'ngga (issiqlik ajraladigan to'g'ri reaksiya tomoniga)",
+        "Muvozanat o'zgarmaydi",
+        "Muvozanat butunlay to'xtaydi"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Muvozanat sistemasidan reaksiya mahsuloti chiqarib yuborilsa, muvozanat qaysi tomonga siljiydi?",
+      "variantlar": [
+        "Teskari reaksiya tomoniga (chapga)",
+        "Muvozanat o'zgarmaydi",
+        "To'g'ri reaksiya tomoniga (o'ngga)",
+        "Muvozanat butunlay to'xtaydi"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Muvozanat sistemasiga reaksiya mahsuloti qo'shilsa, muvozanat qaysi tomonga siljiydi?",
+      "variantlar": [
+        "To'g'ri reaksiya tomoniga (o'ngga)",
+        "Muvozanat o'zgarmaydi",
+        "Muvozanat butunlay to'xtaydi",
+        "Teskari reaksiya tomoniga (chapga)"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "2NO2 ⇌ N2O4 sistemasida bosim oshirilsa, muvozanat qaysi tomonga siljiydi?",
+      "variantlar": [
+        "N2O4 hosil bo'ladigan (o'ngga) tomonga",
+        "NO2 hosil bo'ladigan (chapga) tomonga",
+        "Muvozanat o'zgarmaydi",
+        "Muvozanat butunlay to'xtaydi"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "2SO2 + O2 ⇌ 2SO3 + Q (ekzotermik) sistemada harorat ortsa, muvozanat qaysi tomonga siljiydi?",
+      "variantlar": [
+        "O'ngga",
+        "Chapga (SO2 va O2 hosil bo'ladigan tomonga)",
+        "Muvozanat o'zgarmaydi",
+        "Muvozanat butunlay to'xtaydi"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "N2 + 3H2 ⇌ 2NH3 + Q sistemada bosim kamaytirilsa, muvozanat qaysi tomonga siljiydi?",
+      "variantlar": [
+        "O'ngga (ammiak hosil bo'ladigan tomonga)",
+        "Muvozanat o'zgarmaydi",
+        "Chapga (ko'p molekulali tomonga)",
+        "Muvozanat butunlay to'xtaydi"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Cl2 + H2 ⇌ 2HCl reaksiyasida bosim o'zgarishi muvozanatga qanday ta'sir qiladi?",
+      "variantlar": [
+        "Muvozanat o'ngga siljiydi",
+        "Muvozanat chapga siljiydi",
+        "Muvozanat to'xtaydi",
+        "Ta'sir qilmaydi, chunki ikkala tomonda molekulalar soni teng"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Fe3O4 + 4CO ⇌ 3Fe + 4CO2 reaksiyasida bosim o'zgarishi muvozanatga qanday ta'sir qiladi?",
+      "variantlar": [
+        "Ta'sir qilmaydi (qattiq moddalar va gazlarning molekulalari teng)",
+        "O'ngga siljiydi",
+        "Chapga siljiydi",
+        "Muvozanat to'xtaydi"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "CH3COOH + CH3OH ⇌ CH3COOCH3 + H2O reaksiyasida muvozanatni o'ngga siljitish uchun sistemaga nima yutadigan modda qo'shiladi?",
+      "variantlar": [
+        "Suvni chiqaradigan modda",
+        "Suvni yutadigan sulfat kislota",
+        "Kislorodni ajratadigan modda",
+        "Vodorodni chiqaradigan modda"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "SO2 + O2 ⇌ SO3 (ekzotermik) reaksiyasida oltingugurt(VI) oksid unumini oshirish uchun harorat qanday o'zgartiriladi?",
+      "variantlar": [
+        "Oshiriladi",
+        "O'zgarmaydi",
+        "Pasaytiriladi",
+        "Nolga teng qilinadi"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "2SO3 ⇌ 2SO2 + O2 − Q (endotermik teskari) reaksiyada harorat ortsa, muvozanat qaysi tomonga siljiydi?",
+      "variantlar": [
+        "To'g'ri tomonga, ya'ni SO3 hosil bo'ladigan tomonga",
+        "Muvozanat o'zgarmaydi",
+        "Muvozanat butunlay to'xtaydi",
+        "Teskari (endotermik) tomonga, ya'ni SO2 va O2 hosil bo'ladigan tomonga"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "CO + H2O ⇌ CO2 + H2 reaksiyasida sistemaga CO konsentratsiyasi oshirilsa, muvozanat qaysi tomonga siljiydi?",
+      "variantlar": [
+        "To'g'ri reaksiya tomoniga (CO2 va H2 hosil bo'ladigan tomonga)",
+        "Teskari reaksiya tomoniga",
+        "Muvozanat o'zgarmaydi",
+        "Muvozanat butunlay to'xtaydi"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "2NO + O2 ⇌ 2NO2 reaksiyasida bosim oshirilsa, muvozanat qaysi tomonga siljiydi?",
+      "variantlar": [
+        "Chapga (NO va O2 hosil bo'ladigan tomonga)",
+        "O'ngga (NO2 hosil bo'ladigan tomonga)",
+        "Muvozanat o'zgarmaydi",
+        "Muvozanat butunlay to'xtaydi"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "CO + O2 ⇌ CO2 reaksiyasida bosim kamaytirilsa, muvozanat qaysi tomonga siljiydi?",
+      "variantlar": [
+        "O'ngga (kam molekulali tomonga)",
+        "Muvozanat o'zgarmaydi",
+        "Chapga (ko'p molekulali tomonga)",
+        "Muvozanat butunlay to'xtaydi"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "2NO2 ⇌ N2O4 + 13 kkal reaksiyasida harorat ortsa, muvozanat qaysi tomonga siljiydi?",
+      "variantlar": [
+        "O'ngga (N2O4 hosil bo'ladigan tomonga)",
+        "Muvozanat o'zgarmaydi",
+        "Muvozanat butunlay to'xtaydi",
+        "Chapga (NO2 hosil bo'ladigan tomonga)"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Fe3O4 + 4CO ⇌ 3Fe + 4CO2, ΔH = −43,7 kJ reaksiyasida harorat pasaytirilsa, muvozanat qaysi tomonga siljiydi?",
+      "variantlar": [
+        "O'ngga (to'g'ri ekzotermik reaksiya tomoniga)",
+        "Chapga (teskari tomonga)",
+        "Muvozanat o'zgarmaydi",
+        "Muvozanat butunlay to'xtaydi"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "HBr + O2 ⇌ H2O + Br2 + Q reaksiyasida muvozanatni o'ngga siljitish uchun qanday o'zgarish kerak?",
+      "variantlar": [
+        "Harorat oshirilishi kerak",
+        "Harorat pasaytirilishi kerak",
+        "Bosim kamaytirilishi kerak",
+        "Katalizator qo'shilishi kerak"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Quyidagi sistemalardan qaysi birida bosim o'zgarishi muvozanatga ta'sir qilmaydi?",
+      "variantlar": [
+        "CO + O2 ⇌ CO2",
+        "2SO2 + O2 ⇌ 2SO3",
+        "Cl2 + H2 ⇌ 2HCl",
+        "N2 + 3H2 ⇌ 2NH3"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "CO + H2O ⇌ CO2 + H2 reaksiyasida sistemaga H2O qo'shilsa, muvozanat qaysi tomonga siljiydi?",
+      "variantlar": [
+        "Chapga (teskari reaksiya tomoniga)",
+        "Muvozanat o'zgarmaydi",
+        "Muvozanat butunlay to'xtaydi",
+        "O'ngga (to'g'ri reaksiya tomoniga)"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "PCl5 ⇌ PCl3 + Cl2 reaksiyasida bosim oshirilsa, muvozanat qaysi tomonga siljiydi?",
+      "variantlar": [
+        "Chapga (PCl5 hosil bo'ladigan tomonga)",
+        "O'ngga (PCl3 va Cl2 hosil bo'ladigan tomonga)",
+        "Muvozanat o'zgarmaydi",
+        "Muvozanat butunlay to'xtaydi"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "NOCl2 hosil bo'lishi NO + Cl2 ⇌ NOCl2 + Q ekzotermik bo'lsa, harorat ortsa muvozanat qaysi tomonga siljiydi?",
+      "variantlar": [
+        "O'ngga (NOCl2 hosil bo'ladigan tomonga)",
+        "Chapga (NO va Cl2 hosil bo'ladigan tomonga)",
+        "Muvozanat o'zgarmaydi",
+        "Muvozanat butunlay to'xtaydi"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "N2 + O2 ⇌ 2NO − Q (endotermik to'g'ri reaksiya) sistemada harorat ortsa, muvozanat qaysi tomonga siljiydi?",
+      "variantlar": [
+        "Chapga (N2 va O2 hosil bo'ladigan tomonga)",
+        "Muvozanat o'zgarmaydi",
+        "O'ngga (NO hosil bo'ladigan tomonga)",
+        "Muvozanat butunlay to'xtaydi"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Ekzotermik muvozanat sistemasiga katalizator qo'shilsa, muvozanat holati qanday o'zgaradi?",
+      "variantlar": [
+        "O'ngga siljiydi",
+        "Chapga siljiydi",
+        "Muvozanat konstantasi nolga teng bo'ladi",
+        "O'zgarmaydi, faqat tez qaror topadi"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "61-dars. Timer obyekti va undan foydalanish",
+ "savollar": [
+  {
+   "savol": "61-dars qanday nomlanadi?",
+   "variantlar": [
+    "Timer obyekti va undan foydalanish",
+    "Delphida grafika bilan ishlash",
+    "Rasmga boshqa obyektlarni joylash",
+    "Memo boshqarish obyekti"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "Timer obyekti obyektlar panelining qaysi jildida joylashgan?",
+   "variantlar": [
+    "Samples jildida",
+    "System (Tizim) jildida",
+    "Standart jildida",
+    "Additional jildida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "Timer obyektining o‘ziga xos xususiyati nimada?",
+   "variantlar": [
+    "Faqat matn chiqarishida",
+    "Faqat rasm chizishida",
+    "Ekranda ko‘rinmasligida",
+    "Faqat qizil rangda ko‘rinishida"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "Timer obyektining nechta xossasi bor?",
+   "variantlar": [
+    "Bitta",
+    "Uchta",
+    "Beshta",
+    "Ikkita (Enabled va Interval)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "Timer ishga tushishi uchun Enabled xossasi qanday qiymatga ega bo‘lishi kerak?",
+   "variantlar": [
+    "True (rost)",
+    "False (yolg‘on)",
+    "0",
+    "Bo‘sh"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "Interval xossasida nima ko‘rsatiladi?",
+   "variantlar": [
+    "Timer nomi",
+    "Timer keyingi marta qancha vaqtdan keyin ishga tushishi",
+    "Timer rangi",
+    "Timer hajmi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "Interval xossasi qanday birlikda o‘lchanadi?",
+   "variantlar": [
+    "Daqiqalarda",
+    "Soatlarda",
+    "Millisekundlarda",
+    "Sekundlarda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "Interval xossasining dastlabki (boshlang‘ich) qiymati nechaga teng?",
+   "variantlar": [
+    "100",
+    "2000",
+    "500",
+    "1000"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "Now funksiyasi nimani qaytaradi?",
+   "variantlar": [
+    "Kompyuterning joriy vaqtini",
+    "Ekran o‘lchamini",
+    "Faylning hajmini",
+    "Internet tezligini"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "TimeToStr funksiyasi nimani bajaradi?",
+   "variantlar": [
+    "Vaqtni o‘chiradi",
+    "Vaqt turini matn satri turiga o‘tkazadi",
+    "Matn satrini songa o‘tkazadi",
+    "Sonni vaqtga o‘tkazadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "Timer har ikki sekundda bir ishga tushishi uchun Interval qanday qiymatga o‘rnatiladi?",
+   "variantlar": [
+    "20",
+    "20000",
+    "2000",
+    "200"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "Timer protsedurasi qachon bajariladi?",
+   "variantlar": [
+    "Faqat tugma bosilganda",
+    "Faqat ilova ochilganda",
+    "Faqat ilova yopilganda",
+    "Berilgan vaqt oralig‘i o‘tgach"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "Elektron soat ilovasida Label1.Caption:=TimeToStr(Now); operatori qaysi obyekt protsedurasiga kiritiladi?",
+   "variantlar": [
+    "Timer",
+    "Button",
+    "Edit",
+    "SpinEdit"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "Timer ilovasida SpinEdit1.MaxValue qanday qiymatga o‘rnatiladi?",
+   "variantlar": [
+    "1000",
+    "100",
+    "30",
+    "0"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "Timer ilovasida SpinEdit1.Value boshlang‘ich qanday qiymatga o‘rnatiladi?",
+   "variantlar": [
+    "0",
+    "1",
+    "30",
+    "100"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "Timer ilovasida Button tugmasi bosilganda qanday operator ishga tushadi?",
+   "variantlar": [
+    "Timer1.Enabled:=False;",
+    "Form1.Close;",
+    "SpinEdit1.Value:=0;",
+    "Timer1.Enabled:=True;"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "Timer protsedurasida SpinEdit1.Value=0 bo‘lganda nima sodir bo‘ladi?",
+   "variantlar": [
+    "Timer to‘xtaydi, xabar chiqadi va ilova yopiladi",
+    "Timer qayta ishga tushadi",
+    "Hech narsa bo‘lmaydi",
+    "SpinEdit qiymati 30 ga qaytadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "Ko‘pburchak diagonallari ilovasini avtomatlashtirishda Form1.Timer1.Enabled:=not Form1.Timer1.Enabled; operatori nima qiladi?",
+   "variantlar": [
+    "Timer rangini o‘zgartiradi",
+    "Timer holatini teskarisiga o‘zgartiradi",
+    "Timerni butunlay o‘chiradi",
+    "Timer intervalini oshiradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "Avtomatlashtirilgan ilovada tugma bosilganda Caption “Stop” yoki “Start” bo‘lib o‘zgarishi nimaga bog‘liq?",
+   "variantlar": [
+    "Ilova rangiga",
+    "Oyna o‘lchamiga",
+    "Timer1.Enabled qiymatiga",
+    "SpinEdit1.Value qiymatiga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "Timer protsedurasida SpinEdit1.Value 40 dan oshib ketsa, u qanday qiymatga qaytariladi?",
+   "variantlar": [
+    "0",
+    "40",
+    "1",
+    "3"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "Animatsiya yaratish uchun qaysi obyektdan foydalaniladi (Yodda saqlang)?",
+   "variantlar": [
+    "Timer",
+    "Label",
+    "Edit",
+    "Button"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Savol-topshiriqda Timer ishlatiladigan qanday holatlarga misol keltirish so‘raladi?",
+   "variantlar": [
+    "Faqat fayl saqlash holatlari",
+    "Soat, test vaqti, taqdimot, animatsiya kabi vaqtga bog‘liq holatlar",
+    "Faqat matn tahrirlash holatlari",
+    "Faqat rasm chizish holatlari"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Savol-topshiriqda ShowMessage o‘rniga qaysi obyektdan foydalanib ilovani qayta yaratish so‘raladi?",
+   "variantlar": [
+    "Memo",
+    "ListBox",
+    "Label",
+    "Edit"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Savol-topshiriqda elektron soat ilovasi qanday o‘zgartirilishi so‘raladi?",
+   "variantlar": [
+    "Rangini o‘zgartirishi uchun",
+    "Hajmini kattalashtirishi uchun",
+    "O‘chirilishi uchun",
+    "Har sekundda qisqa ovoz signali berishi uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Test dasturida Timer qanday maqsadda ishlatiladi (matnga ko‘ra)?",
+   "variantlar": [
+    "Topshiriqni bajarish uchun ajratilgan vaqtni nazorat qilish uchun",
+    "Faqat rasm ko‘rsatish uchun",
+    "Faqat ovoz chiqarish uchun",
+    "Faqat ranglarni o‘zgartirish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Taqdimotlarda Timer qanday maqsadda ishlatilishi mumkin (matnga ko‘ra)?",
+   "variantlar": [
+    "Faqat matnni o‘chirish uchun",
+    "Har o‘n yoki yigirma sekunddan keyin yangi varaq chiqarish uchun",
+    "Faqat ranglarni o‘zgartirish uchun",
+    "Faqat shriftni o‘zgartirish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Timer1 protsedurasida SpinEdit1.Value:=form1.SpinEdit1.Value+1; operatori nima qiladi?",
+   "variantlar": [
+    "Rangni o‘zgartiradi",
+    "Oynani yopadi",
+    "Burchaklar sonini bittaga oshiradi",
+    "Burchaklar sonini bittaga kamaytiradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "Timer1 protsedurasi oxirida chaqiriladigan “diagonallar;” nima qiladi?",
+   "variantlar": [
+    "Timerni to‘xtatadi",
+    "SpinEditni o‘chiradi",
+    "Oynani yopadi",
+    "Berilgan ko‘pburchakning tomonlari va diagonallarini chizadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "Timer ilovasida “QOLGAN VAQT:” va “START” yozuvlari qaysi obyektlarga tegishli?",
+   "variantlar": [
+    "Label va Button",
+    "Edit va SpinEdit",
+    "Memo va ListBox",
+    "Image va Shape"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "Timer protsedurasi birinchi marta chaqirilganda SpinEdit qiymati qanday o‘zgaradi?",
+   "variantlar": [
+    "Nolga tenglashadi",
+    "Bittaga kamayadi",
+    "Bittaga ko‘payadi",
+    "O‘zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

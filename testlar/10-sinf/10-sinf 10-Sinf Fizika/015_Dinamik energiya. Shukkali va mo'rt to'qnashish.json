@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Fizika",
+ "mavzu": "Dinamik energiya. Shukkali va mo'rt to'qnashish",
+ "savollar": [
+  {
+   "savol": "Energiyaning saqlanish qonuniga ko'ra energiya haqida qaysi fikr to'g'ri?",
+   "variantlar": [
+    "Energiya faqat issiqlik shaklida saqlanadi",
+    "Energiya yo'qdan paydo bo'lishi mumkin",
+    "Energiya doimo yo'qoladi",
+    "Energiya hech qachon yo'qolmaydi va yo'qdan paydo bo'lmaydi, faqat bir turdan ikkinchi turga aylanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yopiq sistemada qanday qonuniyat amal qiladi?",
+   "variantlar": [
+    "To'la energiya ortib boradi",
+    "To'la energiya saqlanadi",
+    "Energiya turlari o'zgarmaydi",
+    "To'la energiya kamayib boradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "h balandlikdan tushayotgan jismning potensial energiyasi tajriba o'tkazilgan vaqtga bog'liqmi?",
+   "variantlar": [
+    "Yo'q, mutlaqo bog'liq emas",
+    "Faqat issiq havoda bog'liq",
+    "Ha, vaqt o'tishi bilan ortadi",
+    "Faqat kunduzi bog'liq"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Foydali ish koeffitsiyenti (FIK) nimani ko'rsatadi?",
+   "variantlar": [
+    "Sarflanayotgan energiyaning qancha qismi foydali ishga aylanishini",
+    "Jismning massasini",
+    "Jismning tezligini",
+    "Ishqalanish kuchini"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Foydali ish koeffitsiyenti qaysi harf bilan belgilanadi?",
+   "variantlar": [
+    "μ",
+    "λ",
+    "α",
+    "η"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "FIK formulasi quyidagilardan qaysi biri to'g'ri?",
+   "variantlar": [
+    "η = At/Af · 100%",
+    "η = Af + At",
+    "η = Af · At",
+    "η = Af/At · 100%"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "FIK eng ko'pi bilan nechaga teng bo'lishi mumkin?",
+   "variantlar": [
+    "75%",
+    "50%",
+    "100%",
+    "200%"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nima uchun FIK har doim birdan (100% dan) kichik bo'ladi?",
+   "variantlar": [
+    "Vaqt o'tishi bilan energiya ko'payadi",
+    "Jism og'irligi ortadi",
+    "Kuch yo'nalishi o'zgaradi",
+    "Ishqalanish kuchining ishi tufayli energiyaning bir qismi isrof bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mexanikaning oltin qoidasiga ko'ra nima bo'ladi?",
+   "variantlar": [
+    "Ish doimo kamayadi",
+    "Energiya yo'qoladi",
+    "Kuchdan necha marta yutilsa, yo'ldan shuncha marta yutqiziladi",
+    "Kuch va yo'l birga ortadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qiya tekislikda FIK aniqlash laboratoriya ishida jism vaznini o'lchash uchun qaysi asbobdan foydalaniladi?",
+   "variantlar": [
+    "Dinamometr",
+    "Shtativ",
+    "Brusok",
+    "Taxta"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qiya tekislikning qiyalik burchagi kamaytirilsa, yukni ko'tarishga sarflanadigan kuch va bosib o'tiladigan yo'l qanday o'zgaradi?",
+   "variantlar": [
+    "Kuch ortadi, yo'l kamayadi",
+    "Ikkisi ham o'zgarmaydi",
+    "Kuch kamayadi, yo'l ortadi",
+    "Ikkisi ham ortadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qiya tekislikning burchagi kamaytirilganda bajarilgan ish qanday o'zgaradi?",
+   "variantlar": [
+    "Nolga teng bo'ladi",
+    "Kamayadi",
+    "Ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishqalanish kuchi hisobga olinmaganda qiya tekislik bo'ylab bajarilgan ish (As) qaysi formula orqali hisoblanadi?",
+   "variantlar": [
+    "As = mgh",
+    "As = mg·l",
+    "As = mgh·ctgα",
+    "As = μmgl"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "At = A1 + A2 formulasida A1 nimani ifodalaydi?",
+   "variantlar": [
+    "Jismni balandlikka ko'tarishga sarflangan foydali ish (mgh)",
+    "To'la ishning yarmini",
+    "Reaksiya kuchi ishini",
+    "Ishqalanishga qarshi bajarilgan ish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishqalanishni yengishga sarflangan A2 ish qanday formula bilan ifodalanadi?",
+   "variantlar": [
+    "A2 = mgh",
+    "A2 = Fish/l",
+    "A2 = N/l",
+    "A2 = μN·l"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qiya tekislikka perpendikulyar yo'nalgan va tekislik tomonidan jismga ta'sir etuvchi kuch qanday ataladi?",
+   "variantlar": [
+    "Ishqalanish kuchi",
+    "Tekislikning reaksiya kuchi (N)",
+    "Tortuvchi kuch",
+    "Og'irlik kuchi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qiya tekislikka parallel bo'lib, jismni yuqoriga tortuvchi kuch qanday belgilanadi?",
+   "variantlar": [
+    "P┴",
+    "Ft",
+    "Fish",
+    "N"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ishqalanish koeffitsiyenti (μ) ortsa, η=1/(1+μ·ctgα) formulasiga ko'ra FIK qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Kamayadi",
+    "Ortadi",
+    "Doimo 100% bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Laboratoriya ishining maqsadlaridan biri sifatida qaysi ko'nikma shakllantiriladi?",
+   "variantlar": [
+    "Mikroskopdan foydalanish",
+    "Dinamometrda jismlar vaznini o'lchash",
+    "Elektr zanjirini yig'ish",
+    "Haroratni o'lchash"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "At = mgh(1+μ·ctgα) formulasida qaysi kattalik qiya tekislik burchagiga bog'liq holda o'zgaradi?",
+   "variantlar": [
+    "ctgα",
+    "g",
+    "m",
+    "h"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar ishqalanish koeffitsiyenti μ=0 bo'lsa, η=1/(1+μ·ctgα) formulasiga asosan FIK qanchaga teng bo'ladi?",
+   "variantlar": [
+    "50%",
+    "Aniqlab bo'lmaydi",
+    "0%",
+    "100%"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qiyalik burchagi α ortib borsa (tekislik tikroq bo'lsa), ctgα qiymati kamayadi. Bu holda η=1/(1+μ·ctgα) qanday o'zgaradi?",
+   "variantlar": [
+    "Ortadi",
+    "Nolga tushadi",
+    "O'zgarmaydi",
+    "Kamayadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "At = mgh(1+μctgα) va As=mgh ekanligini bilsak, A2 ning A1 ga nisbati (A2/A1) nimaga teng?",
+   "variantlar": [
+    "ctgα/μ",
+    "1+μ·ctgα",
+    "μ/ctgα",
+    "μ·ctgα"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qiya tekislikda ishqalanish mavjud bo'lganda, foydali ish koeffitsiyentini oshirish uchun quyidagilardan qaysi chora maqsadga muvofiq?",
+   "variantlar": [
+    "Ishqalanish koeffitsiyentini oshirish",
+    "Balandlikni oshirish",
+    "Qiyalik burchagini kamaytirish va ishqalanishni kamaytirish",
+    "Jism massasini oshirish"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mexanikaning oltin qoidasiga asosan, agar kuchdan 3 marta yutilsa, yo'ldan necha marta yutqiziladi?",
+   "variantlar": [
+    "1 marta",
+    "9 marta",
+    "2 marta",
+    "3 marta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qiya tekislik yordamida yukni ko'tarishda kuchdan yutilsa-da, bajarilgan ish nega o'zgarmaydi?",
+   "variantlar": [
+    "Chunki kuch ortadi",
+    "Chunki ishqalanish yo'qoladi",
+    "Chunki balandlik kamayadi",
+    "Chunki ko'chish masofasi ortib, kuch-masofa ko'paytmasi o'zgarmay qoladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar qiya tekislikda ishqalanish koeffitsiyenti μ juda katta qiymatga ega bo'lsa, η=1/(1+μ·ctgα) formulasiga ko'ra FIK qanday qiymatga yaqinlashadi?",
+   "variantlar": [
+    "100%ga",
+    "50%ga",
+    "O'zgarmaydi",
+    "0%ga"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun real mashinalarda to'la energiyaning bir qismi 'yo'qolgan' kabi ko'rinadi, aslida esa energiyaning saqlanish qonuniga ko'ra yo'qolmaydi?",
+   "variantlar": [
+    "Energiya ishqalanish tufayli issiqlikka aylanib, foydali ishga aylanmaydi, lekin umumiy miqdori saqlanadi",
+    "Energiya haqiqatan yo'qoladi",
+    "Energiya to'xtab qoladi",
+    "Energiya massaga aylanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A2=μmg·cosα·l ifodasi nima uchun A2=μmgh·ctgα ko'rinishiga aylantirilishi mumkin?",
+   "variantlar": [
+    "sinα=1 deb olingani uchun",
+    "l=h/sinα va cosα/sinα=ctgα ekanligidan foydalanilgani uchun",
+    "μ qiymati o'zgargani uchun",
+    "cosα=h/l deb almashtirilgani uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qiya tekislikda FIKni aniqlash laboratoriya ishida o'lchangan amaliy FIK nazariy η=1/(1+μctgα) formulasidan natijadan farq qilsa, bu farqning asosiy sababi nima bo'lishi mumkin?",
+   "variantlar": [
+    "Balandlikning noto'g'ri tanlangani",
+    "Energiyaning saqlanish qonuni buzilgani",
+    "Massaning o'zgarib ketgani",
+    "O'lchashdagi xatoliklar va hisobga olinmagan qo'shimcha qarshiliklar"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

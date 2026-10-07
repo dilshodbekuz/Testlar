@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Rus tili",
+ "mavzu": "§ 22-23. Спряжение и виды глагола",
+ "savollar": [
+  {
+   "savol": "Nomukammal (несовершенный) vid fe'llari qaysi savollarga javob beradi?",
+   "variantlar": [
+    "кто? что?",
+    "что делать? что делает? что делал? что будет делать?",
+    "что сделать? что сделал? что сделает?",
+    "какой? какая? какое?"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nomukammal vid fe'llari nechta zamon shakliga ega?",
+   "variantlar": [
+    "Uch",
+    "To'rt",
+    "Ikki",
+    "Bitta"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mukammal (совершенный) vid fe'llari qaysi savollarga javob beradi?",
+   "variantlar": [
+    "какой? чей?",
+    "где? куда?",
+    "что делать? что делает?",
+    "что сделать? что сделал? что сделает?"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mukammal vid fe'llari qaysi zamon shakllariga ega?",
+   "variantlar": [
+    "Faqat hozirgi zamon",
+    "O'tgan va kelasi zamon",
+    "Faqat kelasi zamon",
+    "Uchala zamon"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Nomukammal vid fe'li qanday harakatni ifodalaydi?",
+   "variantlar": [
+    "Faqat o'tmishda bo'lgan harakatni",
+    "Tugallangan harakatni",
+    "Tugallanmagan, davom etadigan yoki takrorlanadigan harakatni",
+    "Faqat kelajakda bo'ladigan harakatni"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Mukammal vid fe'li qanday harakatni ifodalaydi?",
+   "variantlar": [
+    "Takrorlanadigan harakatni",
+    "Doimiy harakatni",
+    "Davom etayotgan harakatni",
+    "Tugallangan harakatni"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Делать – сделать, решать – решить kabi bir xil ma'noli, lekin turli vidga oid fe'llar jufti nima deyiladi?",
+   "variantlar": [
+    "O'timli fe'llar",
+    "Sinonim fe'llar",
+    "Vid jufti (видовая пара)",
+    "Antonim fe'llar"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Причастие (sifatdosh) nima?",
+   "variantlar": [
+    "Fe'lning harakatga ko'ra predmet belgisini bildiruvchi alohida shakli",
+    "Harakatning holatini bildiruvchi ravish",
+    "Predmetning nomini bildiruvchi so'z turkumi",
+    "Predmet miqdorini bildiruvchi son"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sifatdosh (причастие) qaysi savolga javob beradi?",
+   "variantlar": [
+    "Kim? Nima?",
+    "Qachon?",
+    "Qanday? (какой?)",
+    "Qayerda?"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Страдательные причастия (majhul sifatdoshlar) qanday fe'llardan hosil bo'ladi?",
+   "variantlar": [
+    "O'timsiz fe'llardan",
+    "Faqat mukammal vid fe'llardan",
+    "Faqat qaytar fe'llardan",
+    "O'timli fe'llardan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "'Решать' fe'lining mukammal vid jufti qaysi so'z?",
+   "variantlar": [
+    "решено",
+    "решить",
+    "решающий",
+    "решал"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Изучать' fe'lidan mukammal vid fe'li qanday hosil bo'ladi?",
+   "variantlar": [
+    "изучить",
+    "изучивать",
+    "изучен",
+    "изучающий"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Защищать' fe'lidan mukammal vid fe'li hosil bo'lganda qaysi tovush almashinuvi yuz beradi?",
+   "variantlar": [
+    "т-ч",
+    "т-щ",
+    "к-ч",
+    "д-жд"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Брать' fe'lining mukammal vid jufti qaysi so'z?",
+   "variantlar": [
+    "беря",
+    "взять",
+    "бравший",
+    "брал"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Искать' fe'lining mukammal vid jufti qaysi so'z?",
+   "variantlar": [
+    "искал",
+    "искавший",
+    "найти",
+    "ищущий"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Учёный вчера делал опыты' jumlasidagi 'делал' fe'li qaysi vidga oid?",
+   "variantlar": [
+    "Nomukammal vid",
+    "Mukammal vid",
+    "Shaxssiz fe'l",
+    "Qaytar fe'l"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Учёный сделал опыты' jumlasidagi 'сделал' fe'li qaysi vidga oid?",
+   "variantlar": [
+    "Mukammal vid",
+    "Nomukammal vid",
+    "Aniq sifatdosh",
+    "Majhul sifatdosh"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'Переписать' fe'lining nomukammal vid jufti qaysi so'z?",
+   "variantlar": [
+    "списывать",
+    "переписывать",
+    "писать",
+    "подписывать"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'читающий' sifatdoshi qaysi turga va zamonga oid?",
+   "variantlar": [
+    "Majhul sifatdosh, o'tgan zamon",
+    "Aniq sifatdosh, o'tgan zamon",
+    "Majhul sifatdosh, hozirgi zamon",
+    "Aniq sifatdosh, hozirgi zamon"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "'решённый' sifatdoshi qaysi turga va zamonga oid?",
+   "variantlar": [
+    "Aniq sifatdosh, hozirgi zamon",
+    "Aniq sifatdosh, o'tgan zamon",
+    "Majhul sifatdosh, hozirgi zamon",
+    "Majhul sifatdosh, o'tgan zamon"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matndagi 'На заводе постоянно испытывают разные модели автомобилей. Через месяц здесь испытают последнее изобретение' jumlalarida fe'llarning vidi qanday farqlanadi?",
+   "variantlar": [
+    "'испытывают' – mukammal, 'испытают' – nomukammal",
+    "'испытывают' – nomukammal (doimiy harakat), 'испытают' – mukammal (bir martalik harakat)",
+    "Ikkisi ham nomukammal vid",
+    "Ikkisi ham mukammal vid"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nega 'переписать, дописать, подписать' kabi fe'llar 'писать' fe'li bilan vid jufti hisoblanmaydi?",
+   "variantlar": [
+    "Chunki ular prefiks orqali yangi mustaqil ma'no olib, o'zlarining alohida nomukammal juftiga ega bo'ladi",
+    "Chunki ular fe'l emas, sifatdosh hisoblanadi",
+    "Chunki ular faqat kelasi zamonda qo'llanadi",
+    "Chunki ular qaytar fe'llar hisoblanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga ko'ra, Hakimboy Egamberganov necha yil ketma-ket xalqaro olimpiadalarda birinchi o'rinlarni qo'lga kiritdi?",
+   "variantlar": [
+    "To'rt yil",
+    "Besh yil",
+    "Uch yil",
+    "Ikki yil"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Hakamlar nega combinatorika bo'yicha masalaga avval nol ball qo'yib, keyin fikrini o'zgartirdilar?",
+   "variantlar": [
+    "Chunki yechimda mutlaqo yangi, g'ayrioddiy yondashuv qo'llanilgan va keyin u to'g'ri ekani aniqlandi",
+    "Chunki talaba masalani umuman yechmagan edi",
+    "Chunki talaba vaqtida topshirmagan edi",
+    "Chunki masala noto'g'ri tuzilgan edi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Beruni 'Kanon Maʼsудi' asarini yaratishda qaysi tildagi manbalarni chuqur o'rganishi unga yordam berdi?",
+   "variantlar": [
+    "Yunon tilidagi",
+    "Sanskrit tilidagi",
+    "Fors tilidagi",
+    "Arab tilidagi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Algebraga mustaqil fan sifatida asos solgan olim kim bo'lgan va bu uning qaysi sohadagi xizmati bilan bog'liq?",
+   "variantlar": [
+    "Ulug'bek – astronomiya sohasida",
+    "Al-Xorazmiy – matematika sohasida",
+    "Omar Hayyom – adabiyot sohasida",
+    "Beruni – geografiya sohasida"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sifatdosh fe'lning qaysi xususiyatlarini o'zida birgalikda saqlaydi?",
+   "variantlar": [
+    "Vid, o'timlilik, qaytimlilik va zamonni",
+    "Faqat o'timlilikni",
+    "Faqat qaytimlilikni",
+    "Faqat zamonni"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "'Побеждать – победить' juftligidagi tovush almashinuvi (д-жд) qaysi boshqa fe'l juftligida ham uchraydi?",
+   "variantlar": [
+    "Отвечать – ответить",
+    "Убеждать – убедить",
+    "Защищать – защитить",
+    "Замечать – заметить"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Doimiylik yoki takrorlanishni bildiruvchi 'всегда, каждый день, обычно' kabi ravishlar qaysi vid bilan, bir martalik harakatni bildiruvchi 'вдруг, наконец-то' kabi ravishlar esa qaysi vid bilan ishlatiladi?",
+   "variantlar": [
+    "Birinchisi nomukammal, ikkinchisi mukammal vid bilan",
+    "Ikkisi ham faqat mukammal vid bilan",
+    "Ikkisi ham faqat nomukammal vid bilan",
+    "Birinchisi mukammal, ikkinchisi nomukammal vid bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Страдательные причастия nega faqat o'timli fe'llardan hosil bo'ladi?",
+   "variantlar": [
+    "Chunki o'timli fe'llar boshqa predmetga ta'sir ko'rsatadi va shu ta'sir natijasida predmetda belgi hosil bo'ladi",
+    "Chunki o'timsiz fe'llar sifat bo'la olmaydi",
+    "Chunki o'timsiz fe'llar zamon shakliga ega emas",
+    "Chunki o'timli fe'llar faqat kelasi zamonda qo'llanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Fizika",
+ "mavzu": "Vertikal tekislikda jism harakati",
+ "savollar": [
+  {
+   "savol": "Gorizontga burchak ostida otilgan jismning harakat trayektoriyasi qanday shaklda bo'ladi?",
+   "variantlar": [
+    "To'g'ri chiziq",
+    "Giperbola",
+    "Parabola",
+    "Aylana"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hisoblarni soddalashtirish uchun bu mavzuda nima hisobga olinmaydi?",
+   "variantlar": [
+    "Yer tortishish kuchi",
+    "Jismning massasi",
+    "Havoning qarshiligi",
+    "Otilish burchagi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gorizontga qiya otilgan jismning gorizontal yo'nalishdagi tezlik tashkil etuvchisi harakat davomida qanday o'zgaradi?",
+   "variantlar": [
+    "Tekis kamayadi",
+    "O'zgarmas qoladi",
+    "Avval ortib, keyin kamayadi",
+    "Tekis ortadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jism trayektoriyasining eng yuqori nuqtasida vertikal tezlik tashkil etuvchisi (vy) qanday qiymatga ega bo'ladi?",
+   "variantlar": [
+    "O'zgarmas",
+    "Minimal, lekin noldan katta",
+    "Nolga teng",
+    "Maksimal"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jism trayektoriyasining eng yuqori nuqtasida u qanday tezlikka ega bo'ladi?",
+   "variantlar": [
+    "Minimal tezlik",
+    "Maksimal tezlik",
+    "Boshlang'ich tezlikka teng",
+    "Nolga teng tezlik"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Jismning ko'tarilish vaqti (t_k) va tushish vaqti (t_t) orasida qanday bog'lanish mavjud?",
+   "variantlar": [
+    "t_k = 2t_t",
+    "t_k = t_t",
+    "Ular orasida bog'lanish yo'q",
+    "t_k = t_t/2"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Gorizontga burchak ostida otilgan jismning uchish uzoqligi qaysi burchak qiymatida maksimal bo'ladi?",
+   "variantlar": [
+    "90°",
+    "60°",
+    "30°",
+    "45°"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Trayektoriya tenglamasida x² oldidagi koeffitsiyentning manfiy ishoraga ega bo'lishi nimani anglatadi?",
+   "variantlar": [
+    "Parabola shoxlari yuqoriga yo'nalgan",
+    "Trayektoriya to'g'ri chiziq",
+    "Parabola shoxlari pastga yo'nalgan",
+    "Jism gorizontal harakat qilmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Boshlang'ich tezlik v0 qaysi ikki tashkil etuvchiga ajratiladi?",
+   "variantlar": [
+    "Gorizontal (ox) va vertikal (oy) tashkil etuvchilarga",
+    "Faqat gorizontal tashkil etuvchiga",
+    "Radial va tangensial tashkil etuvchilarga",
+    "Faqat vertikal tashkil etuvchiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnda keltirilgan tajribalarga ko'ra, real sharoitda (havo qarshiligi hisobga olinganda) jism eng uzoq masofaga qaysi burchak oralig'ida otilganda boradi?",
+   "variantlar": [
+    "30-40°",
+    "60-70°",
+    "80-90°",
+    "10-20°"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "v0=20 m/s, α=30° bo'lsa (cos30°≈0,87), boshlang'ich tezlikning gorizontal tashkil etuvchisi (v0x) taqriban nechaga teng?",
+   "variantlar": [
+    "20 m/s",
+    "17,3 m/s",
+    "5,8 m/s",
+    "10 m/s"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar jism gorizontga nisbatan α=0° burchak ostida (ya'ni gorizontal) otilsa, uning harakati qanday bo'ladi?",
+   "variantlar": [
+    "Harakatlanmaydi",
+    "Faqat vertikal yuqoriga ko'tariladi",
+    "Gorizontal otilgan jism kabi harakat qiladi",
+    "Parabola bo'ylab yuqoriga ko'tariladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "vy = v0 sinα - gt formulasiga ko'ra, t=0 bo'lganda vy qanday qiymatga ega bo'ladi?",
+   "variantlar": [
+    "0",
+    "v0 cosα",
+    "g",
+    "v0 sinα"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Otilish burchagi 0° dan 45°gacha ortib borishi bilan jismning ko'tarilish balandligi qanday o'zgaradi?",
+   "variantlar": [
+    "Avval ortib, keyin kamayadi",
+    "O'zgarmaydi",
+    "Kamayadi",
+    "Ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Otilish burchagi 45° dan 90°gacha ortib borishi bilan jismning uchish uzoqligi qanday o'zgaradi?",
+   "variantlar": [
+    "Avval kamayib, keyin ortadi",
+    "Kamayadi",
+    "Ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Matnda keltirilgan misolga ko'ra, 100 m/s tezlik bilan otilgan snaryad vakuumda 1000 m ga uchsa, havoda (qarshilik hisobga olinganda) qancha masofaga boradi?",
+   "variantlar": [
+    "1000 m",
+    "700 m",
+    "850 m",
+    "500 m"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jismning maksimal ko'tarilish balandligini hisoblash uchun boshlang'ich tezlikning qaysi tashkil etuvchisi ishtirok etadi?",
+   "variantlar": [
+    "Hech qaysisi kerak emas",
+    "Faqat gorizontal tashkil etuvchi (v0x)",
+    "Faqat vertikal tashkil etuvchi (v0y)",
+    "Ikkisi ham teng darajada"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Jismning uchish uzoqligi (sx) qaysi tezlik tashkil etuvchisiga bog'liq bo'ladi?",
+   "variantlar": [
+    "Ikkisiga teng darajada",
+    "Faqat gorizontal tashkil etuvchiga",
+    "Hech qaysisiga bog'liq emas",
+    "Faqat vertikal tashkil etuvchiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "v0=10 m/s, α=90° (tik yuqoriga otish) holatida jismning gorizontal tezlik tashkil etuvchisi (vx) nechaga teng bo'ladi?",
+   "variantlar": [
+    "5 m/s",
+    "10 m/s",
+    "Aniqlab bo'lmaydi",
+    "0 m/s"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Trayektoriya tenglamasi y = x·tgα - gx²/(2v0²cos²α) ga ko'ra, x=0 bo'lganda y qanday qiymatga ega bo'ladi?",
+   "variantlar": [
+    "y = v0",
+    "y = 0",
+    "y = g",
+    "y = tgα"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "v0=20 m/s, α=30°, g=10 m/s² qabul qilinsa, jismning ko'tarilish balandligi (hmax) qancha bo'ladi? (sin30°=0,5)",
+   "variantlar": [
+    "20 m",
+    "2,5 m",
+    "10 m",
+    "5 m"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "v0=20 m/s, α=30°, g=10 m/s² bo'lsa, jismning umumiy uchish vaqti qancha bo'ladi? (sin30°=0,5)",
+   "variantlar": [
+    "4 s",
+    "1 s",
+    "0,5 s",
+    "2 s"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "v0=20 m/s, α=30°, g=10 m/s² bo'lsa, jismning uchish uzoqligi (sx) taqriban qancha bo'ladi? (sin60°≈0,87)",
+   "variantlar": [
+    "20 m",
+    "40 m",
+    "17,3 m",
+    "34,6 m"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "v0=14 m/s, α=45°, g=9,8 m/s² bo'lsa, jismning ko'tarilish balandligi qancha bo'ladi? (sin45°≈0,71)",
+   "variantlar": [
+    "7 m",
+    "2,5 m",
+    "10 m",
+    "5 m"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Boshqa shartlar o'zgarmasa, boshlang'ich tezlik (v0) ikki marta oshirilsa, jismning ko'tarilish balandligi (hmax) necha marta ortadi?",
+   "variantlar": [
+    "8 marta",
+    "4 marta",
+    "O'zgarmaydi",
+    "2 marta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Boshqa shartlar o'zgarmasa, erkin tushish tezlanishi (g) ikki marta kamaysa (masalan, Oyda), jismning ko'tarilish balandligi (hmax) qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "4 marta ortadi",
+    "2 marta kamayadi",
+    "2 marta ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "v0=10 m/s, α=60°, g=10 m/s² bo'lsa, harakatning t=0,5 s dagi vertikal tezlik tashkil etuvchisi (vy) taqriban qancha bo'ladi? (sin60°≈0,87)",
+   "variantlar": [
+    "8,7 m/s",
+    "3,7 m/s",
+    "1,7 m/s",
+    "5,0 m/s"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Bir xil boshlang'ich tezlik bilan α1=30° va α2=60° burchaklar ostida otilgan ikki jismning uchish uzoqliklari o'zaro qanday nisbatda bo'ladi?",
+   "variantlar": [
+    "α2 dagi masofa 2 marta katta",
+    "Ikkisi bir-biriga teng bo'ladi",
+    "α1 dagi masofa 2 marta katta",
+    "Taqqoslab bo'lmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "v0=10 m/s, α=30°, g=9,81 m/s² bo'lsa, jismning ko'tarilish vaqti (t_k) taqriban qancha bo'ladi? (sin30°=0,5)",
+   "variantlar": [
+    "0,51 s",
+    "0,25 s",
+    "1,02 s",
+    "2,04 s"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "v0=10 m/s, α=45°, g=10 m/s² bo'lsa, trayektoriya tenglamasidan foydalanib, x=5 m masofada jismning balandligi (y) qancha bo'lishini toping. (tg45°=1, cos45°≈0,71)",
+   "variantlar": [
+    "2,5 m",
+    "5,0 m",
+    "3,5 m",
+    "1,5 m"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

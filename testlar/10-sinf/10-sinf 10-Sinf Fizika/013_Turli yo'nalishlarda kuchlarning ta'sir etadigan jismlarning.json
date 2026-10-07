@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Fizika",
+ "mavzu": "Turli yo'nalishlarda kuchlarning ta'sir etadigan jismlarning harakati",
+ "savollar": [
+  {
+   "savol": "Teng ta'sir etuvchi kuch deyilganda nima tushuniladi?",
+   "variantlar": [
+    "Jismning ishqalanish kuchi",
+    "Jismga qo'yilgan barcha kuchlarning geometrik yig'indisi",
+    "Jismning og'irlik kuchi",
+    "Jismga qo'yilgan eng katta kuch"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dinamikaning birinchi qonuniga Galiley bergan ta'rifiga ko'ra, jismga boshqa hech qanday jism ta'sir etmasa, jism qanday holatda bo'ladi?",
+   "variantlar": [
+    "Doim tezlanish bilan harakatlanadi",
+    "Aylanma harakat qiladi",
+    "To'xtab qoladi",
+    "O'zining tinch holatini yoki to'g'ri chiziqli tekis harakatini saqlaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Inersial sanoq sistemalari qanday sanoq sistemalari deb ataladi?",
+   "variantlar": [
+    "Egri chiziqli harakatlanayotgan sistemalar",
+    "Tinch holatda turgan yoki to'g'ri chiziqli tekis harakatlanayotgan sistemalar",
+    "Tezlanish bilan harakatlanayotgan sistemalar",
+    "Faqat Yerga bog'liq sistemalar"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Noinersial sanoq sistemalari qanday ta'riflanadi?",
+   "variantlar": [
+    "Egri chiziqli yoki tezlanish bilan harakatlanayotgan sistemalar",
+    "Tinch holatdagi sistemalar",
+    "Tekis harakatlanayotgan sistemalar",
+    "Faqat kosmosdagi sistemalar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vaznsizlik holati deb nimaga aytiladi?",
+   "variantlar": [
+    "Jismning tayanchga yoki osmaga ko'rsatadigan kuchi nolga teng bo'lgan holat",
+    "Jism doim tezlanish bilan tushayotgan holat",
+    "Jism og'irligi maksimal bo'lgan holat",
+    "Jism tinch holatda turgan holat"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Yerning sun'iy yo'ldoshi bo'lib qolishi uchun jism ega bo'lishi kerak bo'lgan tezlik (birinchi kosmik tezlik) qanchaga teng?",
+   "variantlar": [
+    "11,2 km/s",
+    "7,91 km/s",
+    "16,7 km/s",
+    "9,8 km/s"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Quyosh sistemasiga kiruvchi sayyoralarga borish uchun kerak bo'lgan tezlik (ikkinchi kosmik tezlik) qanchaga teng?",
+   "variantlar": [
+    "11,2 km/s",
+    "3,2 km/s",
+    "16,7 km/s",
+    "7,91 km/s"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qiya tekislikka qo'yilgan taxtachaga qanday kuchlar ta'sir qiladi?",
+   "variantlar": [
+    "Faqat og'irlik kuchi",
+    "Og'irlik kuchi va normal reaksiya kuchi",
+    "Faqat ishqalanish kuchi",
+    "Og'irlik kuchi, normal reaksiya kuchi va ishqalanish kuchi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Blok va ipning massasi hamda ishqalanishni hisobga olmaslik haqidagi talab nimani anglatadi?",
+   "variantlar": [
+    "Yuklar tezlanishsiz harakatlanadi",
+    "Ipning ikki tomonidagi taranglik bir xil bo'ladi",
+    "Ipning ikki tomonidagi taranglik har xil bo'ladi",
+    "Yuklar massasi teng bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Dinamikaning ikkinchi qonuniga ko'ra jismning olgan tezlanishi qanday ifodalanadi?",
+   "variantlar": [
+    "F=ma",
+    "a=F+m",
+    "a=mF",
+    "F=m/a"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qiya tekislikda turgan jism muvozanatda qolishi uchun qanday shart bajarilishi kerak?",
+   "variantlar": [
+    "tgα=0",
+    "μ=0",
+    "tgα≤μ",
+    "tgα≥μ"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar qiya tekislikda tgα>μ bo'lsa, jism qanday harakat qiladi?",
+   "variantlar": [
+    "Qiya tekislik bo'ylab pastga tezlanish bilan harakatlanadi",
+    "Harakatsiz qoladi",
+    "Qiya tekislik bo'ylab yuqoriga ko'tariladi",
+    "Muvozanatda qoladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qiya tekislikda pastga qarab tushayotgan jismning tezlanishi qaysi formula bilan aniqlanadi?",
+   "variantlar": [
+    "a=g/sinα",
+    "a=g·μ·sinα",
+    "a=g(cosα-μsinα)",
+    "a=g(sinα-μcosα)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ko'chmas blokka m1 va m2 (m2>m1) massali yuklar osilganda ularning tezlanishi qaysi formula bilan topiladi?",
+   "variantlar": [
+    "a=g(m2+m1)/(m2-m1)",
+    "a=g(m2-m1)/(m2+m1)",
+    "a=g/(m1+m2)",
+    "a=g·m1·m2"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Blokka osilgan yuklar uchun ipning taranglik kuchi qaysi formula bilan topiladi?",
+   "variantlar": [
+    "T=(m1+m2)g/2",
+    "T=m1m2g/(m1-m2)",
+    "T=2m1m2g/(m1+m2)",
+    "T=m1g-m2g"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qiya tekislikda muvozanat sharti uchun x o'qi bo'yicha tenglama mg·sinα-Fish=0 dan ishqalanish kuchi Fish qanday ifodalanadi?",
+   "variantlar": [
+    "Fish=mg·cosα",
+    "Fish=mg/sinα",
+    "Fish=mg·tgα",
+    "Fish=mg·sinα"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qiya tekislikda y o'qi bo'yicha tenglama -mg·cosα+N=0 dan normal reaksiya kuchi N qanday aniqlanadi?",
+   "variantlar": [
+    "N=mg/cosα",
+    "N=mg·cosα",
+    "N=mg·sinα",
+    "N=mg·tgα"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tom gorizontga nisbatan 30° burchak tashkil etadi. Odam sirpanmasdan yurishi uchun oyoq kiyimi bilan tom orasidagi ishqalanish koeffitsiyenti kamida qanchaga teng bo'lishi kerak?",
+   "variantlar": [
+    "1,73",
+    "0,58",
+    "0,33",
+    "0,87"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gorizontal taxtachadagi yuk va taxtacha orasidagi ishqalanish koeffitsiyenti 0,1. Taxtachaga qanday tezlanish berilsa, ustidagi yuk sirpanib tushadi? (g=10 m/s2)",
+   "variantlar": [
+    "0,01 m/s2 dan katta",
+    "0,1 m/s2 dan katta",
+    "10 m/s2 dan katta",
+    "1 m/s2 dan katta"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "1 m/s2 tezlanish bilan yuqoriga ko'tarilayotgan liftda turgan 50 kg massali odamning og'irligi necha N ga teng? (g=10 m/s2)",
+   "variantlar": [
+    "450 N",
+    "550 N",
+    "500 N",
+    "50 N"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ko'chmas blokka osilgan yuklarning massalari teng (m1=m2) bo'lsa, ularning tezlanishi qanday bo'ladi?",
+   "variantlar": [
+    "a=0",
+    "a=2g",
+    "a=g",
+    "a=g/2"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Blokka osilgan m1 va m2 (m2>m1) massali yuklarning og'irligi harakat davrida nega bir-biriga teng bo'lib qoladi?",
+   "variantlar": [
+    "Chunki ularning massalari teng",
+    "Chunki ular tezlanishsiz harakatlanadi",
+    "Chunki ishqalanish kuchi ularni tenglashtiradi",
+    "Chunki ikkalasi bitta umumiy T taranglik kuchi orqali bog'langan va bir xil tezlanish bilan harakatlanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jism gorizontal yo'nalishda tezlanuvchan harakatlansa, uning og'irligi o'zgaradimi?",
+   "variantlar": [
+    "Ha, nolga teng bo'ladi",
+    "Ha, kamayadi",
+    "Yo'q, chunki og'irlik vertikal yo'nalgan kuch bo'lib, gorizontal tezlanishga bog'liq emas",
+    "Ha, ortadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Parashutchi samolyotdan sakrab, parashut ochilgunga qadar erkin tushish paytida qanday holatda bo'ladi?",
+   "variantlar": [
+    "O'zgarmas tezlikda tushish holatida",
+    "Yuklama holatida",
+    "Vaznsizlik holatida",
+    "Og'irligi ikki marta ortgan holatda"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoriga ko'tarilayotgan lift tormozlana boshlasa, undagi odamning og'irligi qanday o'zgaradi?",
+   "variantlar": [
+    "Nolga teng bo'ladi",
+    "Ortadi",
+    "O'zgarmaydi",
+    "Kamayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "6 t massali yuk ortilmagan avtomobil 0,6 m/s2 tezlanish bilan harakatlana boshladi. O'sha tortish kuchida yuk ortilgandan so'ng avtomobil 0,4 m/s2 tezlanish bilan qo'zg'aldi. Ortilgan yukning massasi qancha?",
+   "variantlar": [
+    "3 t",
+    "9 t",
+    "2 t",
+    "4 t"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'zgarmas kuch ta'sirida harakat boshlagan 25 kg massali jism birinchi sekundda 0,5 m yo'l bosdi. Ta'sir etuvchi kuch nimaga teng?",
+   "variantlar": [
+    "25 N",
+    "50 N",
+    "12,5 N",
+    "5 N"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "O'zgarmas kuch ta'sirida harakat boshlagan 50 g massali jism 2 sekundda 1 m yo'l bosdi. Ta'sir etuvchi kuch nimaga teng?",
+   "variantlar": [
+    "0,025 N",
+    "0,05 N",
+    "0,25 N",
+    "0,5 N"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Dinamometr uchlariga ikkita 60 N dan bo'lgan qarama-qarshi kuchlar qo'yilsa, dinamometr necha nyutonni ko'rsatadi?",
+   "variantlar": [
+    "60 N",
+    "15 N",
+    "30 N",
+    "120 N"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "3 N va 4 N kuchlar bir nuqtaga qo'yilgan bo'lib, ular orasidagi burchak 90° ga teng. Teng ta'sir etuvchi kuchning moduli qancha?",
+   "variantlar": [
+    "7 N",
+    "12 N",
+    "1 N",
+    "5 N"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

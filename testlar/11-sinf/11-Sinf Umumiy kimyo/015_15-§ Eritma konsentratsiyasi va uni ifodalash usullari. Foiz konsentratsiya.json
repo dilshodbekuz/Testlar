@@ -1,0 +1,337 @@
+{
+  "sinf": "11-sinf",
+  "kitob": "11-sinf 11-Sinf Umumiy kimyo",
+  "mavzu": "15-§ Eritma konsentratsiyasi va uni ifodalash usullari. Foiz konsentratsiya",
+  "savollar": [
+    {
+      "savol": "Ma'lum massadagi yoki hajmdagi eritmada erigan moddaning massasini yoki miqdorini ifodalovchi tushuncha nima deyiladi?",
+      "variantlar": [
+        "Eritma zichligi",
+        "Eritma harorati",
+        "Eritma bosimi",
+        "Eritma konsentratsiyasi"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Foiz konsentratsiya formulasi qaysi?",
+      "variantlar": [
+        "C% = (erigan modda massasi / eritma massasi) × 100",
+        "C% = (erituvchi massasi / erigan modda massasi) × 100",
+        "C% = erigan modda massasi × eritma massasi",
+        "C% = eritma massasi / erigan modda massasi"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Foiz konsentratsiya qanday birlikda ifodalanadi?",
+      "variantlar": [
+        "g/mol",
+        "%",
+        "mol/l",
+        "g/ml"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Eritmada erigan modda miqdori ko'p bo'lsa, u qanday eritma deyiladi?",
+      "variantlar": [
+        "Suyultirilgan eritma",
+        "Gomogen eritma",
+        "Konsentrlangan eritma",
+        "Geterogen eritma"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Eritmada erigan modda miqdori kam bo'lsa, u qanday eritma deyiladi?",
+      "variantlar": [
+        "Konsentrlangan eritma",
+        "To'yingan eritma",
+        "O'ta to'yingan eritma",
+        "Suyultirilgan eritma"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "15 % li shakar eritmasining 100 g idagi shakar massasi qancha?",
+      "variantlar": [
+        "15 g",
+        "85 g",
+        "115 g",
+        "1,5 g"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "15 % li shakar eritmasining 100 g idagi suv massasi qancha?",
+      "variantlar": [
+        "15 g",
+        "85 g",
+        "100 g",
+        "115 g"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Eritma massasi (m2) qanday hisoblanadi?",
+      "variantlar": [
+        "Erigan modda massasi − erituvchi massasi",
+        "Erigan modda massasi × erituvchi massasi",
+        "Erigan modda massasi (m1) + erituvchi massasi",
+        "Erituvchi massasi / erigan modda massasi"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Foiz konsentratsiya formulasini 100 % ga ko'paytirishdan maqsad nima?",
+      "variantlar": [
+        "Eritma zichligini topish",
+        "Erigan modda hajmini topish",
+        "Eritma haroratini o'zgartirish",
+        "Natijani foizda ifodalash"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Foiz konsentratsiya formulasidagi m1 nimani bildiradi?",
+      "variantlar": [
+        "Erigan modda massasi",
+        "Erituvchi massasi",
+        "Eritma massasi",
+        "Eritma hajmi"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "30 g KCl 100 g suvda eritilganda hosil bo'lgan eritmaning foiz konsentratsiyasi necha %?",
+      "variantlar": [
+        "30 %",
+        "23 %",
+        "70 %",
+        "130 %"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Massa ulushi 40 % bo'lgan KNO3 eritmasi uchun 40 g KNO3 ga 60 g suv to'g'ri keladi. 50 g KNO3 uchun necha gramm suv kerak bo'ladi?",
+      "variantlar": [
+        "60 g",
+        "50 g",
+        "75 g",
+        "100 g"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "25 % li NaNO3 eritmasini tayyorlash uchun 150 g suvda necha gramm NaNO3 eritish kerak?",
+      "variantlar": [
+        "25 g",
+        "37,5 g",
+        "75 g",
+        "50 g"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "30 % li KBr eritmasidan 500 g tayyorlash uchun necha gramm KBr va necha gramm suv kerak bo'ladi?",
+      "variantlar": [
+        "150 g KBr; 350 g suv",
+        "350 g KBr; 150 g suv",
+        "250 g KBr; 250 g suv",
+        "100 g KBr; 400 g suv"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "20 % li eritmaning 300 g idagi erigan modda massasi qancha?",
+      "variantlar": [
+        "240 g",
+        "60 g",
+        "20 g",
+        "300 g"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Massasi 12 g bo'lgan modda 20 % li eritma hosil qilsa, eritma massasi necha gramm bo'ladi?",
+      "variantlar": [
+        "12 g",
+        "240 g",
+        "60 g",
+        "72 g"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "10 % li KNO3 eritmasidan 250 g olinsa, uning tarkibida necha gramm tuz bo'ladi?",
+      "variantlar": [
+        "225 g",
+        "250 g",
+        "10 g",
+        "25 g"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "15 % li NaNO3 eritmasining 150 g idagi suv massasi qancha?",
+      "variantlar": [
+        "127,5 g",
+        "22,5 g",
+        "150 g",
+        "135 g"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "20 % li eritmaning 300 g idagi suv massasi qancha?",
+      "variantlar": [
+        "60 g",
+        "240 g",
+        "300 g",
+        "280 g"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Massa ulushi 25 % bo'lgan tuz eritmasi uchun 1 kg eritmada necha gramm suv bo'ladi?",
+      "variantlar": [
+        "250 g",
+        "1000 g",
+        "750 g",
+        "500 g"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "0,25 mol Na2SO4 (M = 142 g/mol) 164,5 g suvda eritilsa hosil bo'lgan eritmaning foiz konsentratsiyasi necha %?",
+      "variantlar": [
+        "35,5 %",
+        "14,2 %",
+        "25 %",
+        "17,75 %"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "0,4 mol KCl (M = 74,5 g/mol) 120,2 g suvda eritilsa hosil bo'lgan eritmaning foiz konsentratsiyasi necha %?",
+      "variantlar": [
+        "19,9 %",
+        "29,8 %",
+        "10,0 %",
+        "24,8 %"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "36 g NaCl ni necha gramm suvda eritganda 25 % li eritma hosil bo'ladi?",
+      "variantlar": [
+        "36 g",
+        "108 g",
+        "144 g",
+        "180 g"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "80 g NH4NO3 dan 20 % li eritma tayyorlash uchun necha gramm suv kerak?",
+      "variantlar": [
+        "80 g",
+        "320 g",
+        "240 g",
+        "400 g"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "450 g suvda necha gramm K2SO4 eritilsa 10 % li eritma hosil bo'ladi?",
+      "variantlar": [
+        "45 g",
+        "500 g",
+        "450 g",
+        "50 g"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "280 g suvda necha gramm KBr eritilsa 30 % li eritma hosil bo'ladi?",
+      "variantlar": [
+        "120 g",
+        "84 g",
+        "280 g",
+        "400 g"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "20 % li 100 g eritmaga 100 g suv qo'shildi. Yangi eritmaning foiz konsentratsiyasi necha %?",
+      "variantlar": [
+        "20 %",
+        "10 %",
+        "15 %",
+        "5 %"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "15 % li 200 g eritmaga 50 g suv va 10 g tuz qo'shildi. Yangi eritmaning foiz konsentratsiyasi necha %?",
+      "variantlar": [
+        "15 %",
+        "40 %",
+        "15,4 %",
+        "20 %"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "10 % li 300 g eritmadan 100 g suv bug'latildi. Qolgan eritmaning foiz konsentratsiyasi necha %?",
+      "variantlar": [
+        "10 %",
+        "20 %",
+        "13,3 %",
+        "15 %"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Massasi 250 g bo'lgan 12 % li eritmaga 6 g tuz qo'shildi. Yangi eritmaning foiz konsentratsiyasi necha %?",
+      "variantlar": [
+        "14,06 %",
+        "12 %",
+        "18 %",
+        "15 %"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    }
+  ]
+}

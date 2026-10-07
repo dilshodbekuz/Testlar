@@ -1,0 +1,337 @@
+{
+  "sinf": "11-sinf",
+  "kitob": "11-sinf 11-Sinf Informatika",
+  "mavzu": "29-dars. Mintaqaviy va global kompyuter tarmog'i va uni himoyalash",
+  "savollar": [
+    {
+      "savol": "LAN (Local Area Network) nima?",
+      "variantlar": [
+        "Lokal kompyuter tarmoqlari",
+        "Global kompyuter tarmog'i",
+        "Hududiy tarmoq",
+        "Telefon tarmog'i"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Global hisoblash to'ri (GHT) qanday hududlarni birlashtiradi?",
+      "variantlar": [
+        "Faqat bitta xonani",
+        "Bir necha 10 va 100 kv. km maydonli hududlarni",
+        "Faqat bitta binoni",
+        "Faqat bitta kompyuterni"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Modem nima vazifani bajaradi?",
+      "variantlar": [
+        "Ma'lumotlarni chop etadi",
+        "Ma'lumotlarni o'chirib tashlaydi",
+        "Ma'lumotlarni elektr signallariga aylantirib, aksincha qaytaradi",
+        "Ma'lumotlarni rasm qilib chizadi"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Optik tolali kabelda signal tezligi qancha?",
+      "variantlar": [
+        "100 bit/s",
+        "1 Mbit/s",
+        "10 Mbit/s",
+        "3 Gbit/s"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "IP manzil nimadan iborat?",
+      "variantlar": [
+        "32 bitli takrorlanmas manzil",
+        "8 bitli o'zgaruvchan kod",
+        "64 bitli rang kodi",
+        "16 bitli parol"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "SMTP protokoli nimani tartibga soladi?",
+      "variantlar": [
+        "Ovozli qo'ng'iroqlarni",
+        "Internet tizimida pochta uzatish mexanizmlarini",
+        "Video oqimlarini",
+        "Rasm formatlarini"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Internet nimani birlashtiradi?",
+      "variantlar": [
+        "Faqat bitta kompyuterni",
+        "Faqat printerlarni",
+        "Millionlab kompyuterlarni lokal, hududiy va korporativ tarmoqlarni",
+        "Faqat kalkulyatorlarni"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Brandmauer nima?",
+      "variantlar": [
+        "Kompyuter korpusining himoya qatlami",
+        "Monitorning himoya ekrani",
+        "Klaviaturaning himoya qopqog'i",
+        "Ikki va undan ortiq qismlarga ajratilgan tarmoqdagi qismlar orasida axborot paketini o'tish qoidalarini yaratilgan majmuaviy tizim"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Kriptologiya so'zi qaysi tillardan olingan?",
+      "variantlar": [
+        "Yunoncha: kriptos – yashirin, logos – fan",
+        "Lotincha: kripto – sovuq, logo – suv",
+        "Inglizcha: crypt – kod, log – yozuv",
+        "Ruscha: krip – qattiq, log – tosh"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Gay Yuliy Sezar shifrlash alifbosida harflar necha o'ringa o'ngga surilgan?",
+      "variantlar": [
+        "5 ta harf",
+        "3 ta harf",
+        "7 ta harf",
+        "9 ta harf"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "TCP protokoli qanday vazifani bajaradi?",
+      "variantlar": [
+        "Faqat pochta xabarlarini o'chiradi",
+        "Faqat rasmlarni siqadi",
+        "Faqat tarmoq tezligini o'lchaydi",
+        "Virtual bog'lanish hosil qilib, axborot kerakli manzilga aniq yetib borishini ta'minlaydi"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "UDP protokoli qanday ishlaydi?",
+      "variantlar": [
+        "Qabulni tasdiqlamagan holda ma'lumot paketlarini jo'natadi",
+        "Har bir paketni tasdiqlab jo'natadi",
+        "Faqat fayllarni arxivlaydi",
+        "Faqat pochta manzillarini saqlaydi"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Telnet protokoli nima imkon beradi?",
+      "variantlar": [
+        "Faqat printerni ulash imkonini",
+        "Internet tizimidagi ixtiyoriy kompyuter bilan ishlash imkonini",
+        "Faqat video yozish imkonini",
+        "Faqat matn tahrirlash imkonini"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Internet Protokol (IP) nimani tartibga soladi?",
+      "variantlar": [
+        "Faqat ekran o'lchamlarini",
+        "Faqat klaviatura tillarini",
+        "O'zaro munosabatni va aloqa uzatishdagi yagona muloqot tili standartini",
+        "Faqat printer drayverlarini"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Kriptografiya nimani o'rganadi?",
+      "variantlar": [
+        "Ekran rangini sozlash usullarini",
+        "Printer tezligini oshirish usullarini",
+        "Disk hajmini kengaytirish usullarini",
+        "Matnni shifrlash orqali maxfiy ko'rinishga keltirish usullarini"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Kriptotahlil nimani o'rganadi?",
+      "variantlar": [
+        "Maxfiy ma'lumotlarni ruxsat etilmagan vaziyatlarda ochish imkoniyatlarini",
+        "Ekran o'lchamini o'zgartirishni",
+        "Dasturni o'rnatish tartibini",
+        "Fayl nomini tanlashni"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Mashhur 'vine vide vice' iborasi qanday ma'noni anglatadi?",
+      "variantlar": [
+        "Kel, o'qi, yoz",
+        "Keldim, ko'rdim, yengdim",
+        "Ko'p ishla, kam dam ol",
+        "Bilim – kuch"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "1550-yilda 'De subtilitate libri xxi' risolasida trafaret nomli shifrlash usulini kim e'lon qildi?",
+      "variantlar": [
+        "Gay Yuliy Sezar",
+        "V. Levin",
+        "Djerolamo Kardano",
+        "Ptolemey"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Simmetrik yopiq kalitlar usulida kalit kimga ma'lum bo'ladi?",
+      "variantlar": [
+        "Barcha foydalanuvchilarga",
+        "Faqat tizim administratoriga",
+        "Faqat printerga",
+        "Faqat uzatuvchi va qabul qiluvchiga"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Mintaqaviy kompyuter tarmog'i (MKT) qaysi miqyosda hamkorlikda aloqa o'rnatishga xizmat qiladi?",
+      "variantlar": [
+        "Shahar yoki viloyat miqyosida",
+        "Faqat bitta xonada",
+        "Faqat bitta kompyuterda",
+        "Faqat bitta qavatda"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Kriptologiya fanining asosiy qismlari qaysilar?",
+      "variantlar": [
+        "Grafika va animatsiya",
+        "Matn va jadval",
+        "Kriptografiya va kriptotahlil",
+        "Rang va shrift"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Ansj, anij, anpj kabi shifrogrammani ochish uchun qabul qiluvchida qaysi kalit raqam bo'ladi?",
+      "variantlar": [
+        "3",
+        "7",
+        "9",
+        "5"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Eng sodda shifrlash usulida kalit noma'lum bo'lsa, qabul qiluvchi nechta variantni sinab ko'rishi mumkin?",
+      "variantlar": [
+        "25 ta",
+        "5 ta",
+        "10 ta",
+        "100 ta"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Zamonaviy kriptografik usullarda shifrlangan ma'lumot qachon ochilishi mumkin?",
+      "variantlar": [
+        "Har doim, kalitsiz",
+        "Faqat kalit ma'lum bo'lganda",
+        "Faqat kompyuter o'chirilganda",
+        "Faqat printer bilan"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Zamonaviy kriptografik usullarda shifrlangan matn uzunligi boshlang'ich matn uzunligiga qanday bo'lishi kerak?",
+      "variantlar": [
+        "Doim ikki barobar kichik",
+        "Doim ikki barobar katta",
+        "Teng bo'lishi kerak",
+        "Ahamiyatsiz"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Global hisoblash to'ri (GHT) dan nima maqsadda foydalaniladi?",
+      "variantlar": [
+        "Faqat o'yin o'ynash uchun",
+        "Faqat musiqa tinglash uchun",
+        "Faqat printer bilan ishlash uchun",
+        "Dunyo bilim manbaalaridan va ilm-fan yangiliklaridan tezkor xabardor bo'lish uchun"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Telekommunikatsiya so'zi qaysi ma'noni anglatadi?",
+      "variantlar": [
+        "Uzoq va aloqa",
+        "Yaqin va ish",
+        "Tez va kuch",
+        "Katta va kichik"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Tekislikdagi radioto'lqinlarni 50 km masofada kuchaytirish uchun nima ishlatiladi?",
+      "variantlar": [
+        "Printerlar",
+        "Retranslyatsiya stansiyalari",
+        "Klaviaturalar",
+        "Monitorlar"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Optik tolali kabellarda elektr signallari qanday o'zgartiriladi?",
+      "variantlar": [
+        "Suvga aylantiriladi",
+        "Tovushga aylantiriladi",
+        "Nurga aylantiriladi",
+        "Rangga aylantiriladi"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Lokal tarmoq bilan Internet orasida ma'lumotlarni o'tkazish yoki o'tkazmaslikni hal qiluvchi tizim qaysi?",
+      "variantlar": [
+        "Printer",
+        "Monitor",
+        "Klaviatura",
+        "Brandmauer"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    }
+  ]
+}

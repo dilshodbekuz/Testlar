@@ -1,0 +1,326 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Tadbirkorlik asoslari",
+ "mavzu": "Mahsulotni eksportga chiqarish",
+ "savollar": [
+  {
+   "savol": "Tashqi bozor nima?",
+   "variantlar": [
+    "Mamlakat ichidagi viloyatlar bozori",
+    "Faqat xizmatlar sotiladigan ichki bozor",
+    "Faqat xom ashyo sotiladigan bozor",
+    "Muayyan mamlakat uchun xorijdagi davlatlar bozori"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Eksport nima?",
+   "variantlar": [
+    "Mahsulot va xizmatlarni mamlakatdan tashqaridagi xaridorlarga sotish",
+    "Mahsulot va xizmatlarni xorijiy sotuvchilardan sotib olish",
+    "Mahsulotni mamlakat ichida tashish",
+    "Mahsulotni omborda saqlash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Import nima?",
+   "variantlar": [
+    "Mahsulot va xizmatlarni mamlakatdan tashqaridagi sotuvchilardan sotib olish",
+    "Mahsulotga narx belgilash",
+    "Mahsulotni qadoqlash",
+    "Mahsulotni xorijga sotish"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tashqi savdo nimalardan iborat?",
+   "variantlar": [
+    "Mahsulot va xizmatlar eksporti hamda importidan",
+    "Faqat xizmatlar eksportidan",
+    "Faqat ichki bozordagi savdodan",
+    "Faqat tovarlar importidan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tashqi savdo ko'pincha qanday hujjatlar bilan rasmiylashtiriladigan bitimlar orqali amalga oshiriladi?",
+   "variantlar": [
+    "Tashqi savdo shartnomalari",
+    "Ijara shartnomalari",
+    "Mehnat shartnomalari",
+    "Sug'urta polislari"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Korxona tashqi iqtisodiy faoliyati qanday valutalar asosida amalga oshiriladi?",
+   "variantlar": [
+    "Faqat milliy valuta asosida",
+    "Erkin konvertatsiyalanadigan qat'iy valutalar asosida",
+    "Faqat kriptovalyuta asosida",
+    "Faqat natura almashinuvi asosida"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tovarni eksport qilish uchun tadbirkor nimadan o'tishi talab qilinadi?",
+   "variantlar": [
+    "Faqat reklama qilishdan",
+    "Vakolatxona ochishdan",
+    "Bojxona ro'yxatidan o'tkazishdan",
+    "Soliq imtiyozi olishdan"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tovarlarning ayrim turlarini eksport va import qilish faqat qanday hujjat olinganidan keyin amalga oshiriladi?",
+   "variantlar": [
+    "Kafolat xati",
+    "Ruxsatnoma (litsenziya)",
+    "Deklaratsiya",
+    "Pasport"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Kvota nima?",
+   "variantlar": [
+    "Tovar eksporti yoki importiga belgilanadigan miqdoriy cheklov",
+    "Yukni sug'urta qilish usuli",
+    "Bojxona to'lovining bir turi",
+    "Mahsulot qadoqlash qoidasi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, Prezident ta'kidlagan asosiy maqsadlardan biri qaysi?",
+   "variantlar": [
+    "Tadbirkorlar sonini kamaytirish",
+    "Tashqi bozorga sifatli va sertifikatlangan mahsulotlarni «o'zbek brendi» nomi bilan olib chiqish",
+    "Faqat xom ashyo eksport qilish",
+    "Importni to'liq to'xtatish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tadbirkor raqobatchilar mahsulotlarining narxlarini tahlil qilsa, nimani aniqlay oladi?",
+   "variantlar": [
+    "Raqobatchilarning ish haqi miqdorini",
+    "O'z mahsuloti uchun belgilangan narxning raqobatbardoshlik darajasini",
+    "Bojxona to'lovlari miqdorini",
+    "Kvotalar sonini"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tadbirkor raqobatchilarning asosiy sotish bozorlarini tahlil qilib nimani aniqlashi mumkin?",
+   "variantlar": [
+    "Soliq stavkalarini",
+    "Raqobatchilarning xodimlari sonini",
+    "O'z mahsuloti uchun qaysi mamlakat bozori qulayligini",
+    "Mahsulotning ishlab chiqarish texnologiyasini"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Raqobatchilar taklif etayotgan xizmatlar majmuyini o'rganish nimaga yordam beradi?",
+   "variantlar": [
+    "Narxni oshirishga",
+    "Kvota olishga",
+    "Bojxonadan o'tmaslikka",
+    "Mahsulotning raqobatga qay darajada tayyorligini baholashga"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri eksport tufayli paydo bo'ladigan qo'shimcha xarajatga kiradi?",
+   "variantlar": [
+    "Ishlab chiqarish uskunasi narxi",
+    "Xomashyo narxi",
+    "Ko'rgazmalarda ishtirok etish",
+    "Ishchilarning asosiy maoshi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Eksport narxini shakllantirishda ishlab chiqarish xarajatlaridan tashqari qaysi xarajat hisobga olinadi?",
+   "variantlar": [
+    "Yukni sug'urta qilish",
+    "Maktab ta'limi xarajati",
+    "Kommunal soliq imtiyozi",
+    "Dividend to'lovi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri bojxona ro'yxatidan o'tkazish uchun zarur hujjat hisoblanadi?",
+   "variantlar": [
+    "O'quv rejasi",
+    "Mehnat daftarchasi",
+    "Litsenziya arizasi namunasi",
+    "Yuk bojxona deklaratsiyasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagi maqsadlardan qaysi biri tovarlar eksporti va importini taqiqlash yoki cheklash uchun asos bo'ladi?",
+   "variantlar": [
+    "Reklama xarajatini oshirish",
+    "Madaniy merosni saqlash",
+    "Raqobatchilarni ko'paytirish",
+    "Narxni pasaytirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Kvotalar qoida tariqasida qanday asosda taqsimlanadi?",
+   "variantlar": [
+    "Qur'a tashlash asosida",
+    "Yoshi bo'yicha",
+    "Faqat bepul berish asosida",
+    "Tanlov yoki kimoshdi savdosi asosida"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Quyidagilardan qaysi biri tashqi iqtisodiy faoliyat bilan shug'ullanishga haqli?",
+   "variantlar": [
+    "Ro'yxatdan o'tmagan shaxslar",
+    "Faqat xorijiy fuqarolar",
+    "O'zbekistonda ro'yxatga olingan yuridik shaxslar",
+    "Faqat davlat idoralari xodimlari"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tadbirkorning tashqi bozorga chiqishi uchun matnda ko'rsatilgan ikki yo'ldan biri qaysi?",
+   "variantlar": [
+    "Mamlakat ichida faoliyatni barqaror yo'lga qo'ygach tashqi bozorga chiqish",
+    "Faoliyatni to'xtatib turish",
+    "Faqat import qilishdan boshlash",
+    "Faqat davlat buyurtmasini kutish"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Tadbirkor tashqi bozorga chiqishni kechiktirdi, chunki raqobatchilarning xizmatlari majmuyi uning mahsulotidan ancha keng ekanini aniqladi. U qaysi bosqich natijasidan foydalangan?",
+   "variantlar": [
+    "Eksport narxini sug'urtalash",
+    "Raqobatbardoshlikni baholash",
+    "Bojxona ro'yxatidan o'tkazish",
+    "Kvotalarni taqsimlash"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tadbirkor mahsulotni eksport qilmoqchi. Ishlab chiqarish xarajati 100 birlik, qadoqlash 5, transport 10, sug'urta 3, bojxona to'lovlari 7 birlik. Eksport narxini belgilashda ushbu xarajatlar yig'indisi qancha bo'ladi?",
+   "variantlar": [
+    "110",
+    "115",
+    "120",
+    "125"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi holatlardan qaysi biri tashqi iqtisodiy faoliyatning ichki xo'jalik faoliyatidan farqini to'g'ri ifodalaydi?",
+   "variantlar": [
+    "U erkin konvertatsiyalanadigan valutalar asosida bo'lib, davlatning maxsus vositalari orqali tartibga solinadi",
+    "U faqat xizmatlarni o'z ichiga oladi",
+    "U faqat milliy valutada amalga oshiriladi va tartibga solinmaydi",
+    "U faqat jismoniy shaxslar uchun mo'ljallangan"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Davlat xavfli kimyoviy moddalar eksportini litsenziya bilan cheklashi matnda keltirilgan qaysi maqsadlarga eng mos keladi?",
+   "variantlar": [
+    "Kvotalarni kimoshdiga qo'yish",
+    "Aholi hayoti va sog'lig'ini hamda atrof-muhitni muhofaza qilish",
+    "Reklama xarajatlarini kamaytirish",
+    "Madaniy merosni saqlash"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaysi tadbirkor tashqi iqtisodiy faoliyat bilan shug'ullanishga huqiqiy jihatdan haqli?",
+   "variantlar": [
+    "Doimiy yashash joyi bo'lmagan, ro'yxatdan o'tmagan shaxs",
+    "O'zbekistonda doimiy yashaydigan va yakka tartibdagi tadbirkor sifatida ro'yxatga olingan fuqaro",
+    "Ro'yxatdan o'tmagan yuridik shaxs",
+    "Xorijda yashovchi, O'zbekistonda ro'yxatdan o'tmagan shaxs"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tadbirkor eksport uchun quyidagi ishlarni bajardi: transport korxonasi bilan shartnoma tuzdi, hisob-kitob shaklini belgiladi, mahsulot pasportini tayyorladi. Bu qaysi bosqichga mansub?",
+   "variantlar": [
+    "Raqobatchilar tahlili",
+    "Kvotalarni taqsimlash",
+    "Importni taqiqlash",
+    "Mahsulotni eksportga sotishga tayyorlash"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tadbirkor raqobatchilar mahsulotini taqqoslamoqchi. Matndagi jadvalga ko'ra, qaysi to'rtlik taqqoslash ko'rsatkichlarini to'g'ri keltiradi?",
+   "variantlar": [
+    "Texnik ko'rsatkichlar, narx, mahsulot bo'yicha xizmatlar, asosiy sotish bozorlari",
+    "Soliq, kvota, litsenziya, deklaratsiya",
+    "Rang, narx, ish haqi, reklama",
+    "Qadoq, transport, sug'urta, bank operatsiyalari"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun tashqi bozordagi ishtirok tadbirkorlik faoliyatining yuqori darajada rivojlanganligini bildiradi va davlat nima uchun bunday tadbirkorlarni qo'llab-quvvatlaydi?",
+   "variantlar": [
+    "Chunki u soliq to'lashdan ozod qiladi",
+    "Chunki ichki bozor yopiladi",
+    "Chunki u chet ellik tadbirkorlar bilan raqobatlashishga tayyorlikni bildiradi va davlat uchun ham manfaatli",
+    "Chunki importni to'xtatadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Quyidagi holatlardan qaysi biri eksport narxida hisobga olinadigan xarajat emas, balki eksportni tashkil etishdagi qo'shimcha xarajat (narx tarkibidan tashqari tayyorgarlik xarajati) sifatida matnda alohida ko'rsatilgan?",
+   "variantlar": [
+    "Yukni sug'urta qilish",
+    "Bojxona to'lovlari",
+    "Qadoqlash",
+    "Vakolatxona ochish"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

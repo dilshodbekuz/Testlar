@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "10-dars. Mantiqiy funksiyalar",
+ "savollar": [
+  {
+   "savol": "10-dars qanday nomlanadi?",
+   "variantlar": [
+    "Mantiqiy funksiyalar",
+    "Matnli funksiyalar",
+    "Statistik funksiyalar",
+    "Matematik funksiyalar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "ЕСЛИ funksiyasi qanday ishlaydi?",
+   "variantlar": [
+    "Hech qanday shartni tekshirmaydi",
+    "Mantiqiy ifoda ROST bo‘lsa birinchi shart, aks holda ikkinchi shart bajariladi",
+    "Doim birinchi shartni bajaradi",
+    "Doim ikkinchi shartni bajaradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "И funksiyasi qachon ROST qiymat beradi?",
+   "variantlar": [
+    "Hech qaysi ifoda rost bo‘lmaganda",
+    "Har doim",
+    "Barcha mantiqiy ifodalar rost bo‘lganda",
+    "Birorta ifoda rost bo‘lganda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "ИЛИ funksiyasi qachon ROST qiymat beradi?",
+   "variantlar": [
+    "Barcha ifodalar rost bo‘lgandagina",
+    "Hech qachon",
+    "Faqat ifodalar yolg‘on bo‘lganda",
+    "Ifodalarning birortasi rost bo‘lganda"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "НЕ funksiyasi nima qiladi?",
+   "variantlar": [
+    "Rost qiymatni yolg‘onga, yolg‘onni rostga aylantiradi",
+    "Qiymatni ikki barobarlaydi",
+    "Qiymatni o‘chiradi",
+    "Qiymatni nolga tenglaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "1-mashqda nechta fandan baholash ko‘rsatkichi tahlil qilinadi?",
+   "variantlar": [
+    "Oltita fan",
+    "Beshta fan",
+    "Uchta fan",
+    "To‘rtta fan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "1-mashqda baholash necha ballik tizimda olib boriladi?",
+   "variantlar": [
+    "5 ballik tizimda",
+    "100 ballik tizimda",
+    "20 ballik tizimda",
+    "10 ballik tizimda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "1-mashqda B ustuniga nima kiritiladi?",
+   "variantlar": [
+    "Fanlar nomi",
+    "Sanalar",
+    "Xonalar raqami",
+    "Sinf o‘quvchilarining familiyasi va ismi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "1-mashqda H ustunida nima hisoblanadi?",
+   "variantlar": [
+    "Olgan ballarning yig‘indisi",
+    "Eng yuqori ball",
+    "Eng past ball",
+    "O‘rtacha ball"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "Mantiqiy shartli funksiyalardan qachon foydalaniladi?",
+   "variantlar": [
+    "Faylni saqlaganda",
+    "Hisoblashlar u yoki bu shartga bog‘liq bo‘lganda",
+    "Faqat matn bilan ishlaganda",
+    "Faqat diagramma chizganda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "1-mashqda I3 katakka kiritilgan formula qanday ko‘rinishda?",
+   "variantlar": [
+    "=МАКС(C17)",
+    "=И(C17<55;C17<71)",
+    "=ЕСЛИ(C17<55;\"qoniqarsiz\";ЕСЛИ(C17<71;\"qoniqarli\";ЕСЛИ(C17<86;\"yaxshi\";\"a'lo\")))",
+    "=СУММ(C1:C17)"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "Formulaga ko‘ra, C17<55 bo‘lsa natija qanday chiqadi?",
+   "variantlar": [
+    "“qoniqarli”",
+    "“yaxshi”",
+    "“a’lo”",
+    "“qoniqarsiz”"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "Formulaga ko‘ra, C17 qiymati 55 dan katta, lekin 71 dan kichik bo‘lsa natija qanday chiqadi?",
+   "variantlar": [
+    "“qoniqarli”",
+    "“qoniqarsiz”",
+    "“yaxshi”",
+    "“a’lo”"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "Formulaga ko‘ra, C17 qiymati 71 dan katta, lekin 86 dan kichik bo‘lsa natija qanday chiqadi?",
+   "variantlar": [
+    "“a’lo”",
+    "“yaxshi”",
+    "“qoniqarli”",
+    "“qoniqarsiz”"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "Formulaga ko‘ra, C17 qiymati 86 dan katta yoki teng bo‘lsa natija qanday chiqadi?",
+   "variantlar": [
+    "“qoniqarli”",
+    "“qoniqarsiz”",
+    "“a’lo”",
+    "“yaxshi”"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "1-mashq jadvalida Azimov S ning jami bali 87 bo‘lsa, tahlil ustunida nima chiqadi?",
+   "variantlar": [
+    "yaxshi",
+    "qoniqarli",
+    "qoniqarsiz",
+    "a’lo"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "1-mashq jadvalida Axmedov N ning jami bali 27 bo‘lsa, tahlil ustunida nima chiqadi?",
+   "variantlar": [
+    "qoniqarsiz",
+    "qoniqarli",
+    "yaxshi",
+    "a’lo"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "1-mashq jadvalida Vaxobov A ning jami bali 74 bo‘lsa, tahlil ustunida nima chiqadi?",
+   "variantlar": [
+    "qoniqarsiz",
+    "yaxshi",
+    "a’lo",
+    "qoniqarli"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "1-mashq jadvalida Muxsumov X ning jami bali 70 bo‘lsa, tahlil ustunida nima chiqadi?",
+   "variantlar": [
+    "a’lo",
+    "qoniqarsiz",
+    "qoniqarli",
+    "yaxshi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "1-mashq jadvalida Nurimov X ning jami bali 67 bo‘lsa, tahlil ustunida nima chiqadi?",
+   "variantlar": [
+    "yaxshi",
+    "a’lo",
+    "qoniqarsiz",
+    "qoniqarli"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "ЕСЛИ funksiyasi formuladagi kabi bir nechta marta ichma-ich (nested) ishlatilishi mumkinmi?",
+   "variantlar": [
+    "Ha, bir nechta shartlarni tekshirish uchun ichma-ich qo‘llash mumkin",
+    "Yo‘q, faqat bitta marta ishlatiladi",
+    "Yo‘q, u umuman ichma-ich bo‘lmaydi",
+    "Faqat ikki marta ishlatish mumkin"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Savol-topshiriqdagi savdo shartida eng kam ish haqining 5 barobari miqdorida savdo qilgan sotuvchi necha foiz ustamaga ega bo‘ladi?",
+   "variantlar": [
+    "12%",
+    "5%",
+    "7,5%",
+    "10%"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Savol-topshiriqdagi savdo shartida eng kam ish haqining 10 barobari miqdorida savdo qilgan sotuvchi necha foiz ustamaga ega bo‘ladi?",
+   "variantlar": [
+    "10%",
+    "12%",
+    "7,5%",
+    "5%"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Savol-topshiriqdagi savdo shartida eng kam ish haqining 20 barobari miqdorida savdo qilgan sotuvchi necha foiz ustamaga ega bo‘ladi?",
+   "variantlar": [
+    "7,5%",
+    "5%",
+    "12%",
+    "10%"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Savol-topshiriqdagi savdo shartida eng kam ish haqining 20 barobaridan ortiq savdo qilgan sotuvchi necha foiz ustamaga ega bo‘ladi?",
+   "variantlar": [
+    "12%",
+    "10%",
+    "7,5%",
+    "5%"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Uyga vazifada nechta fandan 10 ballik tizimda baholash jadvali yaratish so‘raladi?",
+   "variantlar": [
+    "3 ta fandan",
+    "10 ta fandan",
+    "5 ta fandan",
+    "20 ta fandan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Uyga vazifada qaysi funksiyaga doir mustaqil masala tuzish so‘raladi?",
+   "variantlar": [
+    "НЕ",
+    "ЕСЛИ",
+    "ИЛИ",
+    "И"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "Nested ЕСЛИ formulasida nechta shart tekshiriladi (berilgan misoldagi formula asosida)?",
+   "variantlar": [
+    "Ikkita shart",
+    "Bitta shart",
+    "To‘rtta shart",
+    "Uchta shart (55, 71, 86 chegaralari)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "И va ИЛИ funksiyalarining asosiy farqi nimada?",
+   "variantlar": [
+    "И barcha shartlar rost bo‘lishini, ИЛИ esa birorta shart rost bo‘lishini talab qiladi",
+    "Ikkalasi ham bir xil natija beradi",
+    "И faqat matn bilan, ИЛИ faqat son bilan ishlaydi",
+    "И ikki argument, ИЛИ bitta argument qabul qiladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "НЕ funksiyasi odatda qaysi funksiyalar bilan birgalikda ishlatiladi?",
+   "variantlar": [
+    "MAKC, MIH kabi statistik funksiyalar bilan",
+    "ЕСЛИ, И, ИЛИ kabi mantiqiy funksiyalar bilan",
+    "СУММ, ПРОИЗВЕД kabi matematik funksiyalar bilan",
+    "СЦЕПИТЬ, ПОВТОР kabi matnli funksiyalar bilan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

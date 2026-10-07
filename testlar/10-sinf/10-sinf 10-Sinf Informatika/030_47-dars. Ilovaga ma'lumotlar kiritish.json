@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "47-dars. Ilovaga ma'lumotlar kiritish",
+ "savollar": [
+  {
+   "savol": "47-dars qanday nomlanadi?",
+   "variantlar": [
+    "Ilovaga ma’lumotlar kiritish",
+    "Boshqarish obyektlarining faolligi",
+    "Ma’lumot turini o‘zgartirish",
+    "Ilova oynasiga ma’lumot joylash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "Ilovaga matn kiritishning eng sodda usuli qaysi obyekt orqali amalga oshiriladi?",
+   "variantlar": [
+    "Timer",
+    "Edit",
+    "Label",
+    "Button"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "Edit obyekti boshqarish obyektlarining standart panelida nechanchi bo‘lib joylashgan?",
+   "variantlar": [
+    "Birinchi",
+    "O‘ninchi",
+    "Oltinchi",
+    "Beshinchi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "Edit obyektining asosiy xossasi qaysi?",
+   "variantlar": [
+    "Caption",
+    "Width",
+    "Font",
+    "Text"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "Edit obyektida Caption xossasi bormi?",
+   "variantlar": [
+    "Yo‘q",
+    "Ha, bor",
+    "Faqat ReadOnly bo‘lsa bor",
+    "Faqat MaxLength bilan bor"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "ReadOnly xossasi qanday turdagi qiymat qabul qiladi?",
+   "variantlar": [
+    "Rangli",
+    "Mantiqiy (True/False)",
+    "Matnli",
+    "Sonli"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "ReadOnly xossasi dastlab qanday qiymatga ega?",
+   "variantlar": [
+    "Noma’lum",
+    "Bo‘sh",
+    "False (yolg‘on)",
+    "True (rost)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "MaxLength xossasi nima uchun ishlatiladi?",
+   "variantlar": [
+    "Matn rangini o‘zgartirish uchun",
+    "Matnni o‘chirish uchun",
+    "Matnni nusxalash uchun",
+    "Kiritiladigan matn uzunligini chegaralash uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "PasswordChar xossasi nima uchun ishlatiladi?",
+   "variantlar": [
+    "Kiritilgan harflarni boshqa belgi bilan almashtirish uchun (parolni yashirish)",
+    "Matn uzunligini chegaralash uchun",
+    "Matn shriftini o‘zgartirish uchun",
+    "Obyektni o‘chirish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "AutoSize xossasi nima uchun ishlatiladi?",
+   "variantlar": [
+    "Nomni avtomatik o‘zgartirish uchun",
+    "Maydoncha o‘lchamini matn uzunligiga qarab avtomatik o‘zgartirish uchun",
+    "Rangni avtomatik o‘zgartirish uchun",
+    "Shriftni avtomatik o‘zgartirish uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "Agar ReadOnly xossasi True ga o‘zgartirilsa, nima sodir bo‘ladi?",
+   "variantlar": [
+    "Maydoncha ko‘rinmay qoladi",
+    "Hech narsa o‘zgarmaydi",
+    "Foydalanuvchi ma’lumot kirita olmaydi, lekin ilova o‘zgartira oladi",
+    "Maydoncha butunlay o‘chadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "Edit obyekti Labeldan qanday farq qiladi (ko‘rinish jihatidan)?",
+   "variantlar": [
+    "Rangi doim qizil bo‘ladi",
+    "Hajmi doim kichik bo‘ladi",
+    "Faqat raqam qabul qiladi",
+    "Ramkaga olingan va kiritilgan ma’lumot chiroyliroq ko‘rinadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "Shriftni ilova oynasi uchun o‘rnatsak, bu nimaga ta’sir qiladi?",
+   "variantlar": [
+    "Ilova oynasidagi barcha obyektlarga",
+    "Faqat bitta obyektga",
+    "Hech narsaga ta’sir qilmaydi",
+    "Faqat Edit obyektiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "Shriftning obyektlarga ta’sirini bekor qilish uchun qaysi xossa yolg‘onga o‘tkaziladi?",
+   "variantlar": [
+    "MaxLength",
+    "ParentFont",
+    "AutoSize",
+    "ReadOnly"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "PasswordChar xossasi qiymati #0 bo‘lsa, nima sodir bo‘ladi?",
+   "variantlar": [
+    "Maydoncha o‘chadi",
+    "Xatolik chiqadi",
+    "Kiritilgan harf boshqasiga almashtirilmaydi",
+    "Harflar yashiriladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "PasswordChar qiymati #42 bo‘lsa, kiritilgan harflar o‘rniga qanday belgi chiqadi?",
+   "variantlar": [
+    "“*” belgisi",
+    "“#” belgisi",
+    "“-” belgisi",
+    "“x” harfi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "6-ilovada umumiy parol sifatida qanday qiymat belgilangan?",
+   "variantlar": [
+    "“12345”",
+    "“qwerty”",
+    "“parol”",
+    "“0000”"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "6-ilovada nechta Edit obyekti ishlatiladi?",
+   "variantlar": [
+    "To‘rtta",
+    "Uchta",
+    "Ikkita",
+    "Bitta"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "6-ilovada Edit2.Passwordchar qanday qiymatga o‘rnatiladi?",
+   "variantlar": [
+    "#32",
+    "#127",
+    "#42",
+    "#0"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "6-ilovada parol to‘g‘ri kiritilsa, Edit3.Text ga qanday matn chiqadi?",
+   "variantlar": [
+    "‘Parol xato, qayta tering.’",
+    "Bo‘sh qoladi",
+    "‘Noto‘g‘ri login’",
+    "‘Salom,’+Edit1.Text+’!Xush kelibsiz!’"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "6-ilovada parol noto‘g‘ri kiritilsa, Edit3.Text ga qanday matn chiqadi?",
+   "variantlar": [
+    "‘Parol xato, qayta tering.’",
+    "‘Salom, Xush kelibsiz!’",
+    "Bo‘sh qoladi",
+    "Ilova yopiladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "6-ilovada parol to‘g‘ri bo‘lganda qaysi obyektlar ko‘rinmas qilib qo‘yiladi?",
+   "variantlar": [
+    "Hech biri o‘zgarmaydi",
+    "Label1, Label2, Edit1, Edit2, Button1",
+    "Faqat Edit3",
+    "Faqat Button1"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Savol-topshiriqda oltinchi ilovada parolni qanday qiymatlarga almashtirish so‘raladi?",
+   "variantlar": [
+    "“parol” va “parol2”",
+    "“admin” va “user”",
+    "“I7:7200U” va “123-12-20”",
+    "“12345” va “54321”"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Savol-topshiriqda Edit3 o‘rniga qaysi buyruqdan foydalanish so‘raladi?",
+   "variantlar": [
+    "IntToStr",
+    "StrToInt",
+    "Random",
+    "ShowMessage"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Uyga vazifada MaxLength xossasi haqida nima so‘raladi?",
+   "variantlar": [
+    "Qanday vazifa bajarishi",
+    "Qanday rangda bo‘lishi",
+    "Qancha vaqt faol bo‘lishi",
+    "Qaysi tilda ishlashi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Uyga vazifada PasswordChar xossasi haqida nima so‘raladi?",
+   "variantlar": [
+    "Qancha hajm egallashi",
+    "Qanday vazifa bajarishi",
+    "Qaysi rangda ko‘rinishi",
+    "Qaysi obyektda yo‘qligi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Nega Edit obyektidan ma’lumot chiqarish uchun foydalanilsa, foydalanuvchi uni o‘zgartira olmasligini ta’minlash kerak?",
+   "variantlar": [
+    "Chunki bu majburiy qoida emas, ixtiyoriy",
+    "Chunki Label buni avtomatik qiladi",
+    "Chiqarilayotgan ma’lumotning buzilib ketmasligi uchun",
+    "Chunki Edit umuman matn chiqara olmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "Edit obyekti odatda qaysi obyekt bilan birga ishlatiladi (chunki Caption xossasi yo‘q)?",
+   "variantlar": [
+    "Button",
+    "Timer",
+    "Memo",
+    "Label"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "MaxLength=4 qilib o‘rnatilsa, bu odatda qanday ma’lumotni kiritishda foydali bo‘ladi?",
+   "variantlar": [
+    "Tug‘ilgan yil kabi 4 xonali sonni kiritishda",
+    "Ism kiritishda",
+    "Uzun matn kiritishda",
+    "Rasm yuklashda"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "AutoSize xossasi True bo‘lganda qanday muammo yuzaga kelishi mumkin?",
+   "variantlar": [
+    "Ilova ishlamay qoladi",
+    "Maydoncha kattalashib, yonidagi boshqa obyektlarni berkitib qo‘yishi mumkin",
+    "Maydoncha butunlay yo‘qolib qoladi",
+    "Matn kiritib bo‘lmay qoladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

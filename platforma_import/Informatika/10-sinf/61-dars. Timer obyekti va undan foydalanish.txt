@@ -1,0 +1,179 @@
+61-dars qanday nomlanadi?
++A) Timer obyekti va undan foydalanish
+B) Delphida grafika bilan ishlash
+C) Rasmga boshqa obyektlarni joylash
+D) Memo boshqarish obyekti
+
+Timer obyekti obyektlar panelining qaysi jildida joylashgan?
+A) Samples jildida
++B) System (Tizim) jildida
+C) Standart jildida
+D) Additional jildida
+
+Timer obyektining o‘ziga xos xususiyati nimada?
+A) Faqat matn chiqarishida
+B) Faqat rasm chizishida
++C) Ekranda ko‘rinmasligida
+D) Faqat qizil rangda ko‘rinishida
+
+Timer obyektining nechta xossasi bor?
+A) Bitta
+B) Uchta
+C) Beshta
++D) Ikkita (Enabled va Interval)
+
+Timer ishga tushishi uchun Enabled xossasi qanday qiymatga ega bo‘lishi kerak?
++A) True (rost)
+B) False (yolg‘on)
+C) 0
+D) Bo‘sh
+
+Interval xossasida nima ko‘rsatiladi?
+A) Timer nomi
++B) Timer keyingi marta qancha vaqtdan keyin ishga tushishi
+C) Timer rangi
+D) Timer hajmi
+
+Interval xossasi qanday birlikda o‘lchanadi?
+A) Daqiqalarda
+B) Soatlarda
++C) Millisekundlarda
+D) Sekundlarda
+
+Interval xossasining dastlabki (boshlang‘ich) qiymati nechaga teng?
+A) 100
+B) 2000
+C) 500
++D) 1000
+
+Now funksiyasi nimani qaytaradi?
++A) Kompyuterning joriy vaqtini
+B) Ekran o‘lchamini
+C) Faylning hajmini
+D) Internet tezligini
+
+TimeToStr funksiyasi nimani bajaradi?
+A) Vaqtni o‘chiradi
++B) Vaqt turini matn satri turiga o‘tkazadi
+C) Matn satrini songa o‘tkazadi
+D) Sonni vaqtga o‘tkazadi
+
+Timer har ikki sekundda bir ishga tushishi uchun Interval qanday qiymatga o‘rnatiladi?
+A) 20
+B) 20000
++C) 2000
+D) 200
+
+Timer protsedurasi qachon bajariladi?
+A) Faqat tugma bosilganda
+B) Faqat ilova ochilganda
+C) Faqat ilova yopilganda
++D) Berilgan vaqt oralig‘i o‘tgach
+
+Elektron soat ilovasida Label1.Caption:=TimeToStr(Now); operatori qaysi obyekt protsedurasiga kiritiladi?
++A) Timer
+B) Button
+C) Edit
+D) SpinEdit
+
+Timer ilovasida SpinEdit1.MaxValue qanday qiymatga o‘rnatiladi?
+A) 1000
++B) 100
+C) 30
+D) 0
+
+Timer ilovasida SpinEdit1.Value boshlang‘ich qanday qiymatga o‘rnatiladi?
+A) 0
+B) 1
++C) 30
+D) 100
+
+Timer ilovasida Button tugmasi bosilganda qanday operator ishga tushadi?
+A) Timer1.Enabled:=False;
+B) Form1.Close;
+C) SpinEdit1.Value:=0;
++D) Timer1.Enabled:=True;
+
+Timer protsedurasida SpinEdit1.Value=0 bo‘lganda nima sodir bo‘ladi?
++A) Timer to‘xtaydi, xabar chiqadi va ilova yopiladi
+B) Timer qayta ishga tushadi
+C) Hech narsa bo‘lmaydi
+D) SpinEdit qiymati 30 ga qaytadi
+
+Ko‘pburchak diagonallari ilovasini avtomatlashtirishda Form1.Timer1.Enabled:=not Form1.Timer1.Enabled; operatori nima qiladi?
+A) Timer rangini o‘zgartiradi
++B) Timer holatini teskarisiga o‘zgartiradi
+C) Timerni butunlay o‘chiradi
+D) Timer intervalini oshiradi
+
+Avtomatlashtirilgan ilovada tugma bosilganda Caption “Stop” yoki “Start” bo‘lib o‘zgarishi nimaga bog‘liq?
+A) Ilova rangiga
+B) Oyna o‘lchamiga
++C) Timer1.Enabled qiymatiga
+D) SpinEdit1.Value qiymatiga
+
+Timer protsedurasida SpinEdit1.Value 40 dan oshib ketsa, u qanday qiymatga qaytariladi?
+A) 0
+B) 40
+C) 1
++D) 3
+
+Animatsiya yaratish uchun qaysi obyektdan foydalaniladi (Yodda saqlang)?
++A) Timer
+B) Label
+C) Edit
+D) Button
+
+Savol-topshiriqda Timer ishlatiladigan qanday holatlarga misol keltirish so‘raladi?
+A) Faqat fayl saqlash holatlari
++B) Soat, test vaqti, taqdimot, animatsiya kabi vaqtga bog‘liq holatlar
+C) Faqat matn tahrirlash holatlari
+D) Faqat rasm chizish holatlari
+
+Savol-topshiriqda ShowMessage o‘rniga qaysi obyektdan foydalanib ilovani qayta yaratish so‘raladi?
+A) Memo
+B) ListBox
++C) Label
+D) Edit
+
+Savol-topshiriqda elektron soat ilovasi qanday o‘zgartirilishi so‘raladi?
+A) Rangini o‘zgartirishi uchun
+B) Hajmini kattalashtirishi uchun
+C) O‘chirilishi uchun
++D) Har sekundda qisqa ovoz signali berishi uchun
+
+Test dasturida Timer qanday maqsadda ishlatiladi (matnga ko‘ra)?
++A) Topshiriqni bajarish uchun ajratilgan vaqtni nazorat qilish uchun
+B) Faqat rasm ko‘rsatish uchun
+C) Faqat ovoz chiqarish uchun
+D) Faqat ranglarni o‘zgartirish uchun
+
+Taqdimotlarda Timer qanday maqsadda ishlatilishi mumkin (matnga ko‘ra)?
+A) Faqat matnni o‘chirish uchun
++B) Har o‘n yoki yigirma sekunddan keyin yangi varaq chiqarish uchun
+C) Faqat ranglarni o‘zgartirish uchun
+D) Faqat shriftni o‘zgartirish uchun
+
+Timer1 protsedurasida SpinEdit1.Value:=form1.SpinEdit1.Value+1; operatori nima qiladi?
+A) Rangni o‘zgartiradi
+B) Oynani yopadi
++C) Burchaklar sonini bittaga oshiradi
+D) Burchaklar sonini bittaga kamaytiradi
+
+Timer1 protsedurasi oxirida chaqiriladigan “diagonallar;” nima qiladi?
+A) Timerni to‘xtatadi
+B) SpinEditni o‘chiradi
+C) Oynani yopadi
++D) Berilgan ko‘pburchakning tomonlari va diagonallarini chizadi
+
+Timer ilovasida “QOLGAN VAQT:” va “START” yozuvlari qaysi obyektlarga tegishli?
++A) Label va Button
+B) Edit va SpinEdit
+C) Memo va ListBox
+D) Image va Shape
+
+Timer protsedurasi birinchi marta chaqirilganda SpinEdit qiymati qanday o‘zgaradi?
+A) Nolga tenglashadi
++B) Bittaga kamayadi
+C) Bittaga ko‘payadi
+D) O‘zgarmaydi

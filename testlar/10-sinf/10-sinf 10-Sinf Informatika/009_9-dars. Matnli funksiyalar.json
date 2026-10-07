@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "9-dars. Matnli funksiyalar",
+ "savollar": [
+  {
+   "savol": "9-dars qanday nomlanadi?",
+   "variantlar": [
+    "Matnli funksiyalar",
+    "Mantiqiy funksiyalar",
+    "Statistik funksiyalar",
+    "Matematik funksiyalar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "БАТТЕКСТ funksiyasi nimani bajaradi?",
+   "variantlar": [
+    "Matnni takrorlaydi",
+    "Sonni matnga almashtiradi",
+    "Matnni songa almashtiradi",
+    "Matnni o‘chiradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "ДЛСТР funksiyasi nimani aniqlaydi?",
+   "variantlar": [
+    "Matnning rangini",
+    "Katakning joylashuvini",
+    "Matnli satrdagi belgilar sonini",
+    "Sonning qiymatini"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "ЗАМЕНИТЬ funksiyasi nima qiladi?",
+   "variantlar": [
+    "Matnni o‘chiradi",
+    "Matnni nusxalaydi",
+    "Matnni tarjima qiladi",
+    "Matnning belgilangan joyini yangi matnga almashtiradi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "ЗНАЧЕН funksiyasi nimani bajaradi?",
+   "variantlar": [
+    "Matn ko‘rinishidagi sonni songa o‘tkazadi",
+    "Sonni matnga o‘tkazadi",
+    "Matnni katakdan o‘chiradi",
+    "Matnni formatlaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "ПОВТОР funksiyasi nima qiladi?",
+   "variantlar": [
+    "Matnni tarjima qiladi",
+    "Matnni n marta takrorlaydi",
+    "Matnni bir marta chiqaradi",
+    "Matnni o‘chiradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "СЦЕПИТЬ funksiyasi nima qiladi?",
+   "variantlar": [
+    "Matnni o‘chiradi",
+    "Matnni sonlashtiradi",
+    "Bir nechta matnni bitta matnga o‘tkazadi",
+    "Matnni bo‘laklarga ajratadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "1-mashqda nechta katakdagi ma’lumot bitta katakka birlashtiriladi?",
+   "variantlar": [
+    "Ikkita",
+    "To‘rtta",
+    "Beshta",
+    "Uchta (familiya, ism, otasining ismi)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "1-mashqni yechishning nechta usuli bor?",
+   "variantlar": [
+    "Ikki xil usul",
+    "Bitta usul",
+    "Uch xil usul",
+    "To‘rt xil usul"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "Birinchi usulda E1 katakka qanday formula kiritiladi?",
+   "variantlar": [
+    "=ЗНАЧЕН(B1;C1;D1)",
+    "=СЦЕПИТЬ(B1;\" \";C1;\" \";D1)",
+    "=B1+C1+D1",
+    "=СУММ(B1:D1)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 10
+  },
+  {
+   "savol": "Ikkinchi usulda E1 katakka qanday formula kiritiladi?",
+   "variantlar": [
+    "=B1*C1*D1",
+    "=ДЛСТР(B1)",
+    "=B1&\" \"&C1&\" \"&D1",
+    "=СЦЕПИТЬ(B1,C1,D1)"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "Birinchi usulda B, C, D ustunlariga mos ravishda nima kiritiladi?",
+   "variantlar": [
+    "Fan nomi, baho, sana",
+    "Shahar, viloyat, mamlakat",
+    "Sinf, guruh, raqam",
+    "Familiya, ism, otasining ismi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "Agar familiya Лист1!B1, ism Лист2!B1, otasining ismi Лист3!B1 da bo‘lsa, ularni birlashtirish uchun qanday formula ishlatiladi?",
+   "variantlar": [
+    "=СЦЕПИТЬ(Лист1!B1;\" \";Лист2!B1;\" \";Лист3!B1)",
+    "=СУММ(Лист1!B1:Лист3!B1)",
+    "=B1+B1+B1",
+    "=Лист1!B1*Лист2!B1"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "B2:C5 ifodasi MS Excelda nimani bildiradi?",
+   "variantlar": [
+    "Butun varaqni",
+    "Kataklar blokini (8 ta katak)",
+    "Faqat bitta katakni",
+    "Ikki ta katakni"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "B2:C5 blokida nechta katak mavjud?",
+   "variantlar": [
+    "6 ta katak",
+    "10 ta katak",
+    "8 ta katak",
+    "4 ta katak"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "B2;C5 (nuqtali vergul bilan) yozilsa, nechta katak belgilanadi?",
+   "variantlar": [
+    "8 ta katak",
+    "4 ta katak",
+    "1 ta katak",
+    "2 ta katak (B2 va C5)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "Formula nusxalanganda E1 dagi formula qolgan kataklarga qanday ko‘chiriladi?",
+   "variantlar": [
+    "Nusxa ko‘chirish (siljitish) orqali",
+    "Qo‘lda qayta yozib",
+    "Faylni qayta ochib",
+    "Formuladan foydalanmay"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "Savol-topshiriqda C ustunida familiya, ism, otasining ismi, D ustunida esa nima berilgan?",
+   "variantlar": [
+    "O‘quvchilarning telefon raqami",
+    "O‘quvchilarning tug‘ilgan yili",
+    "O‘quvchilarning bahosi",
+    "O‘quvchilarning manzili"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "Savol-topshiriqda C va D ustunlaridagi ma’lumotlar qaysi ustunga birlashtiriladi?",
+   "variantlar": [
+    "F ustunga",
+    "B ustunga",
+    "E ustunga",
+    "A ustunga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "СЦЕПИТЬ formulasida qatorlar orasiga qo‘yilgan \" \" nima vazifani bajaradi?",
+   "variantlar": [
+    "Matnni ajratadi va o‘chiradi",
+    "Sonlarni formatlaydi",
+    "Faylni saqlaydi",
+    "So‘zlar orasiga bo‘sh joy qo‘yadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 20
+  },
+  {
+   "savol": "Uyga vazifada ДЛСТР funksiyasi yordamida qaysi matndagi belgilar soni aniqlanadi?",
+   "variantlar": [
+    "“O‘zbekiston – mustaqil Vatan”",
+    "“Informatika va axborot texnologiyalari”",
+    "“MS Excel 2010”",
+    "“10-sinf o‘quvchilari”"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Uyga vazifada qaysi funksiyaga mustaqil masala tuzish so‘raladi?",
+   "variantlar": [
+    "ЗНАЧЕН",
+    "ЗАМЕНИТЬ",
+    "СЦЕПИТЬ",
+    "ПОВТОР"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Ikkinchi usulda (&) belgisi qanday vazifa bajaradi?",
+   "variantlar": [
+    "Matnlarni ko‘paytiradi",
+    "Matnlarni o‘chiradi",
+    "Matnlarni birlashtiradi (СЦЕПИТЬ ga o‘xshash)",
+    "Matnlarni ayiradi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Agar СЦЕПИТЬ formulasida bo‘sh joy belgisi (\" \") qo‘shilmasa, natija qanday bo‘ladi?",
+   "variantlar": [
+    "Formulada xatolik chiqadi",
+    "Natija bo‘sh bo‘ladi",
+    "Fayl ochilmaydi",
+    "So‘zlar bir-biriga yopishib qoladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "ЗНАЧЕН funksiyasi qachon foydali bo‘ladi?",
+   "variantlar": [
+    "Matn ko‘rinishidagi sonlar bilan matematik amal bajarish kerak bo‘lganda",
+    "Rasm qo‘shishda",
+    "Diagramma chizishda",
+    "Faylni saqlashda"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "ПОВТОР funksiyasi argumentlarida nimalar ko‘rsatiladi?",
+   "variantlar": [
+    "Katak manzili va rang",
+    "Takrorlanadigan matn va takrorlanish soni",
+    "Faqat matn",
+    "Faqat son"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Matnli funksiyalar kutubxonasi MS Excel tasmasidagi qaysi bo‘limda joylashgan?",
+   "variantlar": [
+    "Данные bo‘limida",
+    "Рецензирование bo‘limida",
+    "Формулы bo‘limida (Текстовые funksiyalar guruhida)",
+    "Вставка bo‘limida"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "Lист1, Лист2, Лист3 va Лист4 so‘zlari nimani bildiradi?",
+   "variantlar": [
+    "Turli fayllarni",
+    "Turli papkalarni",
+    "Turli printerlarni",
+    "Ishchi kitobdagi turli varaqlarni"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 28
+  },
+  {
+   "savol": "Matnli funksiyalardan foydalanishning asosiy maqsadi nima?",
+   "variantlar": [
+    "Kataklardagi matnlar ustida turli amallarni bajarish",
+    "Faqat sonlarni hisoblash",
+    "Diagramma yaratish",
+    "Faylni himoyalash"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "Jadvalda nechta matnli funksiya sanab o‘tilgan (БАТТЕКСТ dan СЦЕПИТЬgacha)?",
+   "variantlar": [
+    "5 ta",
+    "6 ta",
+    "4 ta",
+    "8 ta"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

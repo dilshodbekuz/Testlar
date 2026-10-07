@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "23-dars. MS Access 2010 ning asosiy elementlari va maydonlar xususiyati",
+ "savollar": [
+  {
+   "savol": "23-dars qanday nomlanadi?",
+   "variantlar": [
+    "MS Access 2010 ning asosiy elementlari va maydonlar xususiyati",
+    "Ma’lumotlar ombori haqida tushuncha",
+    "MS Access 2010 da ma’lumotlar omborini tashkil etish",
+    "Jadvallarni o‘zaro bog‘lash"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "MS Access 2010 ning fayllari qanday kengaytmaga ega?",
+   "variantlar": [
+    ".pptx",
+    ".accdb",
+    ".xlsx",
+    ".docx"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "Таблицы (Jadvallar) elementi qanday vazifani bajaradi?",
+   "variantlar": [
+    "Ma’lumotlarni o‘chiradi",
+    "Diagramma chizadi",
+    "Ma’lumotlarni saqlash uchun xizmat qiladi",
+    "Ma’lumotlarni chop etadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "Запросы (So‘rovlar) elementi qanday vazifani bajaradi?",
+   "variantlar": [
+    "Faqat rasm saqlash uchun",
+    "Faqat video ko‘rsatish uchun",
+    "Faqat ovoz yozish uchun",
+    "Ma’lumotlarni tanlash shartlarini berish va o‘zgartirish uchun xizmat qiladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "Формы (Formalar) elementi qanday vazifani bajaradi?",
+   "variantlar": [
+    "Ma’lumotlarni ko‘rish va tahrirlash uchun xizmat qiladi",
+    "Faqat chop etish uchun",
+    "Faqat arxivlash uchun",
+    "Faqat o‘chirish uchun"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "Отчеты (Hisobotlar) elementi qanday vazifani bajaradi?",
+   "variantlar": [
+    "Internetga ulaydi",
+    "Ma’lumotlarni umumlashtirish va chop qilish imkonini beradi",
+    "Ma’lumotlarni shifrlaydi",
+    "Ma’lumotlarni o‘chiradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "Макрос elementi nima qiladi?",
+   "variantlar": [
+    "Faqat rasm chizadi",
+    "Faqat ovoz chiqaradi",
+    "Bir yoki bir qancha amallarni avtomatik ravishda bajaradi",
+    "Faqat matn yozadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "Страницы elementi qaysi formatdagi fayllardan iborat?",
+   "variantlar": [
+    "PDF formatida",
+    "DOCX formatida",
+    "JPG formatida",
+    "HTML (gipermatn) formatida"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "MS Access dagi maydonlar nimaning elementar birligi hisoblanadi?",
+   "variantlar": [
+    "Ma’lumotlarni mantiqiy tashkil etishning",
+    "Faylni siqishning",
+    "Diagramma chizishning",
+    "Faylni chop etishning"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "Matnli (Текстовый) maydon turining uzunligi necha belgidan oshmasligi kerak?",
+   "variantlar": [
+    "8 belgidan",
+    "255 belgidan",
+    "65535 belgidan",
+    "100 belgidan"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "MEMO maydonida hajmi necha belgidan ko‘p bo‘lmagan ma’lumotlar saqlanadi?",
+   "variantlar": [
+    "1000 belgidan",
+    "15 belgidan",
+    "65535 belgidan",
+    "255 belgidan"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "Raqamli (Числовой) maydon turi nimani saqlaydi?",
+   "variantlar": [
+    "Faqat matnlarni",
+    "Faqat sana va vaqtni",
+    "Faqat rasmlarni",
+    "Raqamli qiymatlarni"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "Sana/vaqt (Дата/время) maydoni necha baytni egallaydi?",
+   "variantlar": [
+    "8 bayt",
+    "4 bayt",
+    "2 bayt",
+    "16 bayt"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "Sana/vaqt maydonida qaysi yillar diapazonini kiritish mumkin?",
+   "variantlar": [
+    "0 dan 1000 gacha",
+    "100 dan 9999 gacha",
+    "1 dan 100 gacha",
+    "1900 dan 2100 gacha"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "Pullik (Денежный) maydon turida butun nuqtasidan chapda necha razryad saqlanishi mumkin?",
+   "variantlar": [
+    "8 razryad",
+    "255 razryad",
+    "15 razryad",
+    "4 razryad"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "Pullik (Денежный) maydon turida butun nuqtasidan o‘ngda necha razryad saqlanishi mumkin?",
+   "variantlar": [
+    "15 razryad",
+    "8 razryad",
+    "2 razryad",
+    "4 razryad"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "Hisoblagich (Счетчик) maydoni qanday ishlaydi?",
+   "variantlar": [
+    "Jadvalga yangi ma’lumot qo‘shilganda avtomatik bir qiymatga oshadi",
+    "Har doim nolga teng bo‘lib qoladi",
+    "Qo‘lda kiritiladi",
+    "Faqat matn saqlaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "Mantiqiy (Логический) maydon qanday qiymatlarni saqlaydi?",
+   "variantlar": [
+    "Faqat rasmlarni",
+    "“Ha” yoki “Yo‘q”",
+    "Faqat sonlarni",
+    "Faqat sanalarni"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "MS Access da Mantiqiy maydonda “1” qanday holatni bildiradi?",
+   "variantlar": [
+    "Bo‘sh",
+    "Xato",
+    "“Ha”",
+    "“Yo‘q”"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "MS Access da Mantiqiy maydonda “0” qanday holatni bildiradi?",
+   "variantlar": [
+    "“Ha”",
+    "Bo‘sh",
+    "Xato",
+    "“Yo‘q”"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "OLE obyekt maydoniga (Поле объекта OLE) nima joylashtiriladi?",
+   "variantlar": [
+    "OLE-server tomonidan qayta ishlangan obyektlar",
+    "Faqat matn",
+    "Faqat raqamlar",
+    "Faqat sana"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "Gipermurojaat (Гиперссылка) maydoni nima hosil qiladi?",
+   "variantlar": [
+    "Faqat jadval chizish",
+    "Qattiq diskdagi boshqa fayliga giperbog‘lanish",
+    "Faqat rasm ko‘rsatish",
+    "Faqat musiqa ijro etish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "Qo‘shish (Вложение) maydoni qanday imkoniyat yaratadi?",
+   "variantlar": [
+    "Faqat video qo‘shish imkoniyati",
+    "Faqat ovoz qo‘shish imkoniyati",
+    "Matematik funksiyalar bilan ishlash imkoniyati",
+    "Faqat rasm qo‘shish imkoniyati"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "Jami nechta maydon turi keltirilgan (Matnlidan Qo‘shishgacha)?",
+   "variantlar": [
+    "6 ta",
+    "8 ta",
+    "12 ta",
+    "10 ta"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "Savol-topshiriqda MS Access 2010 MOBTning qaysi turga mansubligi so‘raladi?",
+   "variantlar": [
+    "Relyatsion turga mansubligi",
+    "Ierarxik turga mansubligi",
+    "Tarmoq turga mansubligi",
+    "Aralash turga mansubligi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "Uyga vazifada yangi ma’lumotlar ombori qanday nom bilan saqlanishi so‘raladi?",
+   "variantlar": [
+    "“Jadval”",
+    "“O‘quvchilar”",
+    "“Fanlar”",
+    "“Baholar”"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Uyga vazifada yangi ma’lumotlar ombori qaysi diskka saqlanishi so‘raladi?",
+   "variantlar": [
+    "E diskka",
+    "A diskka",
+    "D diskka",
+    "C diskka"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "Agar bir o‘quvchining shaxsiy ma’lumotlariga yoshi (butun son, kichik diapazon) kiritilishi kerak bo‘lsa, qaysi maydon turi eng mos keladi?",
+   "variantlar": [
+    "Matnli (Текстовый)",
+    "OLE obyekt",
+    "Gipermurojaat",
+    "Raqamli (Числовой)"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "Agar jadvalga har bir yangi yozuv uchun avtomatik tartib raqami kerak bo‘lsa, qaysi maydon turi ishlatiladi?",
+   "variantlar": [
+    "Hisoblagich (Счетчик)",
+    "Mantiqiy (Логический)",
+    "Sana/vaqt (Дата/время)",
+    "Qo‘shish (Вложение)"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "Agar o‘quvchi haqidagi “sport bilan shug‘ullanadimi” degan ma’lumot faqat ha/yo‘q ko‘rinishida bo‘lsa, qaysi maydon turi tanlanadi?",
+   "variantlar": [
+    "Pullik (Денежный)",
+    "Mantiqiy (Логический)",
+    "Raqamli (Числовой)",
+    "MEMO"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}

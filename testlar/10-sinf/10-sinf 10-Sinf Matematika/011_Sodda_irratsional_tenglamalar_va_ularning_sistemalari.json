@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Matematika",
+ "mavzu": "Sodda irratsional tenglamalar va ularning sistemalari",
+ "savollar": [
+  {
+   "savol": "O'zgaruvchisi ildiz ostida qatnashgan tenglama nima deyiladi?",
+   "variantlar": [
+    "Irratsional tenglama",
+    "Ratsional tenglama",
+    "Chiziqli tenglama",
+    "Trigonometrik tenglama"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "√f(x)=g(x) tenglamani yechish qaysi sistemaga tengkuchli?",
+   "variantlar": [
+    "{f(x)≥0, g(x)=f²(x)}",
+    "{g(x)≥0, f(x)=g²(x)}",
+    "{f(x)=0, g(x)=0}",
+    "{f(x)≥0, g(x)≥0}"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "f(x)·√g(x)=0 tenglama qaysi ikki holatda o'rinli bo'ladi?",
+   "variantlar": [
+    "Faqat f(x)=0 bo'lganda",
+    "Faqat g(x)=0 bo'lganda",
+    "f(x)=0 (g(x)≥0 shartida) yoki g(x)=0 bo'lganda",
+    "Hech qachon o'rinli emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "ⁿ√f(x)=ⁿ√g(x) (n-toq son) tenglama qanday tenglamaga tengkuchli?",
+   "variantlar": [
+    "f(x)=0",
+    "g(x)=0",
+    "f(x)≥g(x)",
+    "f(x)=g(x)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "²ᵏ√f(x)=²ᵏ√g(x) (juft daraja) tenglama qaysi sistemaga tengkuchli?",
+   "variantlar": [
+    "{f(x)=g(x), f(x)≥0}",
+    "{f(x)=g(x), f(x)<0}",
+    "{f(x)=-g(x)}",
+    "{f(x)=0}"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Irratsional tenglamalar sistemasini yechishda qanday usullardan foydalaniladi?",
+   "variantlar": [
+    "Faqat differensiallash",
+    "Qo'shish, o'rniga qo'yish va h.k.",
+    "Faqat grafik usul",
+    "Faqat integrallash"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Irratsional tenglamalar sistemasini yechishda nimani inobatga olish zarur?",
+   "variantlar": [
+    "Faqat koeffitsientlarni",
+    "Faqat musbat sonlarni",
+    "Ifodalarning mavjudlik sohalarini",
+    "Hech narsani inobatga olish shart emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ikki nuqta orasidagi masofa formulasidan foydalanilgan masalalarda odatda qanday tenglama hosil bo'ladi?",
+   "variantlar": [
+    "Chiziqli tenglama",
+    "Ko'rsatkichli tenglama",
+    "Trigonometrik tenglama",
+    "Irratsional tenglama"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Tengkuchli irratsional tenglama deganda nima tushuniladi?",
+   "variantlar": [
+    "Yechimlari bir xil bo'lgan tenglama",
+    "Koeffitsientlari bir xil tenglama",
+    "Darajasi bir xil tenglama",
+    "Ildiz ostidagi ifodasi bir xil tenglama"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "∛x+∛y=3 kabi tenglamada qanday almashtirish qulay?",
+   "variantlar": [
+    "u=x, v=y",
+    "u=∛x, v=∛y",
+    "u=x², v=y²",
+    "u=x+y"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "√(4+2x-x²)=x-2 tenglamani yechishda hosil bo'lgan tenglamani toping.",
+   "variantlar": [
+    "x²-4x=0",
+    "x²+4x=0",
+    "2x(x-3)=0",
+    "x²-2x-3=0"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yuqoridagi tenglamaning ildizlari x=0 va x=3 dan qaysi biri x>2 shartini qanoatlantirib, berilgan tenglamaning yechimi bo'ladi?",
+   "variantlar": [
+    "x=0",
+    "Ikkalasi ham",
+    "Hech biri",
+    "x=3"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(x²+3x-10)√(x+4)=0 tenglamani yeching.",
+   "variantlar": [
+    "x=-4 va x=2",
+    "x=5 va x=-2",
+    "Faqat x=-4",
+    "Faqat x=2"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(x-3)√(x²-5x+4)=2x-6 tenglamani yeching.",
+   "variantlar": [
+    "x=3 va x=4",
+    "x=0 va x=5",
+    "Faqat x=3",
+    "Yechimi yo'q"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "∛(x²+8x-8)=∛(2x-1) tenglamani yeching.",
+   "variantlar": [
+    "x=1 va x=7",
+    "x=-1 va x=-7",
+    "x=1 va x=-7",
+    "Yechimi yo'q"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "⁶√(x²-2)=⁶√x tenglamani yeching.",
+   "variantlar": [
+    "x=-1",
+    "x=-1 va x=2",
+    "Yechimi yo'q",
+    "x=2"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "√((3-x)/(x-1))+3√((x-1)/(3-x))=4 tenglamada u=√((3-x)/(x-1)) almashtirish kiritilsa, u+3/u=4 tenglamaning musbat ildizlarini toping.",
+   "variantlar": [
+    "u=1 va u=3",
+    "u=2 va u=4",
+    "u=-1 va u=-3",
+    "u=0 va u=4"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "x²+3x+√(x²+3x)=6 tenglamada z=√(x²+3x) almashtirish kiritilsa, z²+z-6=0 tenglamaning musbat ildizini toping.",
+   "variantlar": [
+    "z=3",
+    "z=2",
+    "z=-3",
+    "z=1"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "√(x²+3x)=2 tenglamani yechsak, x²+3x=4 tenglama hosil bo'ladi. Bu tenglamaning ildizlarini toping.",
+   "variantlar": [
+    "x=4 va x=-1",
+    "x=-2 va x=2",
+    "x=-4 va x=1",
+    "x=0 va x=-3"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "√(x²+3x)=2 tenglamani yechishdan topilgan x=-4 va x=1 qiymatlar asl tenglamaning ildizlari bo'ladimi?",
+   "variantlar": [
+    "Yo'q, ikkalasi ham mos kelmaydi",
+    "Faqat x=1 mos keladi",
+    "Faqat x=-4 mos keladi",
+    "Ha, ikkalasi ham mos keladi, chunki x²+3x≥0 sharti bajariladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "{√x+√y=5, √(xy)=6} sistemasini yeching.",
+   "variantlar": [
+    "(4,9) va (9,4)",
+    "(5,6) va (6,5)",
+    "(2,3) va (3,2)",
+    "(1,36) va (36,1)"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "{∛x+∛y=3, x+y=9} sistemasini yechishda u=∛x, v=∛y almashtirilsa, hosil bo'lgan sistemani tanlang.",
+   "variantlar": [
+    "{u-v=3, u³-v³=9}",
+    "{u+v=3, u³+v³=9}",
+    "{uv=3, u+v=9}",
+    "{u²+v²=3, u+v=9}"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "u+v=3, u³+v³=9 sistemasidan uv ni toping.",
+   "variantlar": [
+    "uv=3",
+    "uv=1",
+    "uv=2",
+    "uv=4"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "u+v=3, uv=2 sistemasining yechimlarini toping.",
+   "variantlar": [
+    "u=3,v=0 va u=0,v=3",
+    "u=-1,v=4 va u=4,v=-1",
+    "u=1,v=1 va u=2,v=2",
+    "u=1,v=2 va u=2,v=1"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tekislikda A(3,4) va B(-2,5) nuqtalardan teng uzoqlikda joylashgan C(x,0) nuqtani topish uchun qaysi shart ishlatiladi?",
+   "variantlar": [
+    "AC=BC",
+    "AC=2BC",
+    "AB=BC",
+    "AC+BC=const"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A(3,4), B(-2,5) nuqtalardan teng uzoqlikda joylashgan C(x,0) nuqtaning x koordinatasini toping.",
+   "variantlar": [
+    "x=0,4",
+    "x=-0,4",
+    "x=4",
+    "x=-4"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "A(-1,2) va B(3,-4) nuqtalardan teng uzoqlikda va y=3x to'g'ri chiziqda yotuvchi nuqtaning x koordinatasini toping.",
+   "variantlar": [
+    "x=5/7",
+    "x=-15/7",
+    "x=-5/7",
+    "x=7/5"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "√(3x+5)=-8 tenglama nega yechimga ega emas?",
+   "variantlar": [
+    "Chunki x manfiy bo'lishi kerak",
+    "Chunki 3x+5 har doim manfiy",
+    "Chunki tenglama kvadrat tenglama emas",
+    "Chunki kvadrat ildiz (arifmetik ildiz) manfiy songa teng bo'la olmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "√(x-1)+√(x+2)=3 kabi tenglamani yechishda odatda qanday usul qo'llaniladi?",
+   "variantlar": [
+    "Ikkala qismini kvadratga ko'tarish va natijani tekshirish",
+    "Ikkala qismini kub darajaga ko'tarish",
+    "Logarifmlash",
+    "Differensiallash"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Irratsional tenglamani yechgandan so'ng olingan ildizlarni nega albatta tekshirish kerak?",
+   "variantlar": [
+    "Chunki ildizlar har doim manfiy bo'ladi",
+    "Chunki kvadratga ko'tarish natijasida yot (keraksiz) ildizlar paydo bo'lishi mumkin",
+    "Chunki tekshirish shart emas",
+    "Chunki ildizlar har doim butun son bo'lishi kerak"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

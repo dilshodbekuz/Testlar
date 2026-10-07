@@ -1,0 +1,337 @@
+{
+  "sinf": "11-sinf",
+  "kitob": "11-sinf 11-Sinf Informatika",
+  "mavzu": "33-dars. Kompyuter viruslari va virusdan himoyalash usullari",
+  "savollar": [
+    {
+      "savol": "Kompyuter viruslari nima?",
+      "variantlar": [
+        "O'zini-o'zi ko'paytirib, dasturlar va xotiraning tizimli sohalariga kira oluvchi buzg'unchi dasturlar",
+        "Faqat rasm chizuvchi dasturlar",
+        "Faqat matn yozuvchi dasturlar",
+        "Faqat printerni boshqaruvchi dasturlar"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Birinchi viruslar qaysi kompyuter uchun 1981-yilda yaratilgan?",
+      "variantlar": [
+        "IBM PC",
+        "Apple II",
+        "Commodore 64",
+        "Atari 800"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Viruslarning asosiy maqsadi nimadan iborat?",
+      "variantlar": [
+        "Kompyuterni yangi dastur bilan ta'minlash",
+        "Kompyuter xotirasini kengaytirish",
+        "Kompyuterlarni bir maromda ishlash tizimiga zarar yetkazish",
+        "Kompyuter ekranini yoritish"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Kompyuter viruslar bilan zararlanganini bildiruvchi belgilardan biri qaysi?",
+      "variantlar": [
+        "Klaviaturaning yorishi",
+        "Printerning chiroqlari yonishi",
+        "Monitor o'chib yonishi",
+        "Ekranda kutilmagan xabar, tovush yoki tasvir paydo bo'lishi"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Fayl-viruslar qaysi kengaytmali fayllarning boshlang'ich qismlariga joylashadi?",
+      "variantlar": [
+        ".exe",
+        ".txt",
+        ".jpg",
+        ".mp3"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Troyan virusi qanday ko'rinishda kompyuterga kiradi?",
+      "variantlar": [
+        "Rasm faylining ko'rinishida",
+        "Ma'lum dasturiy ta'minot ko'rinishida",
+        "Ekran yorqinligi ko'rinishida",
+        "Printer drayveri ko'rinishida"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Antivirus dasturlarining nechta asosiy turi ko'rsatilgan?",
+      "variantlar": [
+        "Ikkita",
+        "Uchta",
+        "To'rtta",
+        "Beshta"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Kompyuter viruslarini aniqlash va yo'qotish, ulardan himoyalash uchun yaratilgan maxsus dasturlar nima deb ataladi?",
+      "variantlar": [
+        "Brauzerlar",
+        "Arxivatorlar",
+        "Tahrirlovchilar",
+        "Antiviruslar"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Windows uchun birinchi virus qaysi yilda yaratilgan?",
+      "variantlar": [
+        "1996-yilda",
+        "1981-yilda",
+        "1951-yilda",
+        "2001-yilda"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Windows uchun birinchi virus nomi qanday?",
+      "variantlar": [
+        "Virus 1,2,3",
+        "Win95.Boza",
+        "Elk cloner",
+        "Apple II"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Ko'payuvchi dasturlar mexanizmi nazariyasini kim taklif qilgan?",
+      "variantlar": [
+        "Gay Yuliy Sezar",
+        "Djerolamo Kardano",
+        "R. Rivest",
+        "Djon fon Neyman"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hozirgi paytda ijtimoiy axborot texnologiyalarida keng tarqalgan viruslar qaysilar?",
+      "variantlar": [
+        "Spam va fishing viruslari",
+        "Faqat printer viruslari",
+        "Faqat monitor viruslari",
+        "Faqat klaviatura viruslari"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Viruslarni kompyuter xotirasiga kirishini istisno qilish uchun nima qilmaslik kerak?",
+      "variantlar": [
+        "Antivirus dasturini yangilash",
+        "Shubhali manbalardan kelgan noma'lum fayllarni ishga tushirmaslik",
+        "Kompyuterni o'chirib yoqish",
+        "Parolni o'zgartirish"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Antiviruslar ichida eng ishonchli himoya vositasi qaysi?",
+      "variantlar": [
+        "Detektor",
+        "Doktor",
+        "Revizor",
+        "Filtr"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Detektor dasturlari nimani tahlil qilish orqali ishlaydi?",
+      "variantlar": [
+        "Foydalanuvchi ismini",
+        "Ekran rangini",
+        "Printer tezligini",
+        "Oldindan ma'lum bo'lgan virus belgilarini"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Ko'p turli viruslarni topish va yo'qotishga qodir doktor dasturlar qanday nomlanadi?",
+      "variantlar": [
+        "Polifagi",
+        "Monofagi",
+        "Detektori",
+        "Revizori"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Doktor turidagi eng mashhur antivirus dasturlaridan biri qaysi?",
+      "variantlar": [
+        "Microsoft Excel",
+        "Kaspersky Antivirus",
+        "Adobe Reader",
+        "Google Chrome"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Filtr dasturi qanday harakatlarni nazorat qiladi?",
+      "variantlar": [
+        "Ekran yorqinligini o'zgartirish",
+        "Klaviatura tilini almashtirish",
+        ".com va .exe kengaytmalarni o'zgartirishga urinishlar",
+        "Printerni o'chirish"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Revizor turidagi dasturga misol qaysi?",
+      "variantlar": [
+        "Microsoft Word",
+        "Paint",
+        "Notepad",
+        "Kaspersky Monitor"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Filtr dasturi kompyuterda qanday xususiyatga ega?",
+      "variantlar": [
+        "Ixcham rezident fayllar bo'lib, shubhali harakatlarni tekshiradi",
+        "Katta hajmli o'yin fayllari bo'lib, ekranni yoritadi",
+        "Faqat printerda ishlaydigan drayver",
+        "Faqat matnlarni formatlovchi dastur"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "ESET ENDPOINT Antivirusda 'состояние защиты' bandi nimani aks ettiradi?",
+      "variantlar": [
+        "Kompyuter rangini",
+        "Printer holatini",
+        "Kompyuterning viruslardan himoyalanish holatini",
+        "Klaviatura tilini"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "ESET ENDPOINT Antivirusda 'обновление' bandi nimani bildiradi?",
+      "variantlar": [
+        "Kompyuter korpusini yangilash",
+        "Ekran o'lchamini o'zgartirish",
+        "Parolni o'chirish",
+        "Antivirus dasturlari bazasini yangilash"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Kaspersky antivirusda 'полная проверка' nima qiladi?",
+      "variantlar": [
+        "Kompyuterning barcha qismlarini to'la tekshiradi",
+        "Faqat bitta faylni o'chiradi",
+        "Faqat ekranni tozalaydi",
+        "Faqat printerni tekshiradi"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Kaspersky antivirusda 'быстрая проверка' nima qiladi?",
+      "variantlar": [
+        "Butun diskni formatlaydi",
+        "Operatsion tizim faollashtirilishida boshlang'ich fayllarni tezkor tekshiradi",
+        "Barcha dasturlarni o'chiradi",
+        "Kompyuterni qayta ishga tushiradi"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Internetga ulangan kompyuterda antivirus bazasini qancha muddatda yangilab turish zarur?",
+      "variantlar": [
+        "Yiliga bir marta",
+        "Haftada bir marta",
+        "Kamida bir oyda bir marta",
+        "Hech qachon"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "ESET ENDPOINT Antivirusning 'Sozlash' qismi nimani amalga oshiradi?",
+      "variantlar": [
+        "Faqat rasm chizadi",
+        "Faqat matn yozadi",
+        "Faqat printerni ulaydi",
+        "Kompyuterni himoyalash rejasini amalga oshiradi, statistikasini olib boradi"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Kaspersky antivirusning 'выборочная проверка' bandi nima qiladi?",
+      "variantlar": [
+        "Tanlangan obyektlarni tekshiradi",
+        "Kompyuterni o'chirib qo'yadi",
+        "Barcha fayllarni nusxalaydi",
+        "Ekranni yopadi"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Fayl-viruslar qanday zarar yetkazadi?",
+      "variantlar": [
+        "Faqat ekran rangini o'zgartiradi",
+        "Zararlangan faylni vaqt-soati kelganda ishlatib, .exe fayllar orqali halokatli vaziyat hosil qiladi",
+        "Faqat printerni to'xtatadi",
+        "Faqat klaviaturani bloklaydi"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Virus tarqalishida hozirgi paytda asosiy omil bo'lib qolgan vositalar qaysilar?",
+      "variantlar": [
+        "Faqat qog'oz hujjatlar",
+        "Faqat kalkulyatorlar",
+        "Fleshkalar, raqamli fotoapparatlar, mobil telefon va smartfonlar",
+        "Faqat soatlar"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Revizor dasturi antivirus ichida nimani yodda saqlaydi?",
+      "variantlar": [
+        "Foydalanuvchi parolini",
+        "Ekran o'lchamini",
+        "Printer sozlamalarini",
+        "Fayllarning zararlanmagan dastlabki holatini"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    }
+  ]
+}

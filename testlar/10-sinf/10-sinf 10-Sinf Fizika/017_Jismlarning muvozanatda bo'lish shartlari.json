@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Fizika",
+ "mavzu": "Jismlarning muvozanatda bo'lish shartlari",
+ "savollar": [
+  {
+   "savol": "Massa markazi deb nimaga aytiladi?",
+   "variantlar": [
+    "Jismning aylanish o'qi",
+    "Jismning geometrik markazi",
+    "Jismning eng og'ir qismi",
+    "Jismning barcha massasi mujassam bo'lgan xayoliy nuqta"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aylanish o'qiga ega bo'lmagan jism muvozanatda bo'lishi uchun qanday shart bajarilishi kerak?",
+   "variantlar": [
+    "Unga ta'sir etuvchi kuchlardan biri eng katta bo'lishi kerak",
+    "Unga faqat og'irlik kuchi ta'sir qilishi kerak",
+    "Unga ta'sir etuvchi kuchlar soni juft bo'lishi kerak",
+    "Unga ta'sir etuvchi barcha kuchlarning vektor yig'indisi nolga teng bo'lishi kerak"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Turg'un muvozanat qanday aniqlanadi?",
+   "variantlar": [
+    "Jism chetga chiqarilganda hech qanday kuch hosil bo'lmaydi",
+    "Jism chetga chiqarilganda uni uzoqlashtiruvchi kuch hosil bo'ladi",
+    "Jism chetga chiqarilganda uni dastlabki holatiga qaytaruvchi kuch hosil bo'ladi",
+    "Jism umuman harakatlanmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Turg'unmas muvozanat ta'rifini ko'rsating.",
+   "variantlar": [
+    "Jismni dastlabki holatiga qaytaruvchi kuch hosil bo'ladi",
+    "Jismni dastlabki holatidan uzoqlashtiruvchi kuch hosil bo'ladi",
+    "Jism holatini o'zgartiruvchi kuch hosil bo'lmaydi",
+    "Jismga hech qanday tashqi kuch ta'sir etmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Farqsiz muvozanat qanday holatda yuzaga keladi?",
+   "variantlar": [
+    "Jism chetlashtirilganda uni qaytaruvchi kuch paydo bo'ladi",
+    "Jism chetlashtirilganda aylanish boshlanadi",
+    "Jism chetlashtirilganda uni uzoqlashtiruvchi kuch paydo bo'ladi",
+    "Jism chetlashtirilganda uning holatini o'zgartiradigan hech qanday kuch hosil bo'lmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qandilni tutib turgan ipda hosil bo'ladigan kuch qanday nomlanadi?",
+   "variantlar": [
+    "Taranglik kuchi",
+    "Reaksiya kuchi",
+    "Arximed kuchi",
+    "Ishqalanish kuchi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qiya tekislikda turgan jismga og'irlik kuchidan tashqari yana qanday kuchlar ta'sir qiladi?",
+   "variantlar": [
+    "Faqat ishqalanish kuchi",
+    "Faqat Arximed kuchi",
+    "Reaksiya kuchi va ishqalanish kuchi",
+    "Faqat markazga intilma kuch"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qiya tekislikda jismga ta'sir etuvchi ishqalanish kuchi qaysi yo'nalishda bo'ladi?",
+   "variantlar": [
+    "Har doim gorizontal yo'nalishda",
+    "Jism sirpanishiga bir xil yo'nalishda",
+    "Jism sirpanishiga qarama-qarshi yo'nalishda",
+    "Har doim vertikal yo'nalishda"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, qiya tekislik yuzasidan jismga reaksiya kuchi N qanday hosil bo'ladi?",
+   "variantlar": [
+    "Og'irlik kuchining tashkil etuvchisi yuzaga bosim berishi natijasida",
+    "Taranglik kuchi natijasida",
+    "Ishqalanish kuchi natijasida",
+    "Tashqi turtki natijasida"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, jismning turg'unligi (barqarorligi) nimalarga bog'liq?",
+   "variantlar": [
+    "Faqat jism haroratiga",
+    "Faqat jism rangiga",
+    "Jism og'irligi, asos yuzi kattaligi va ag'daruvchi kuch qo'yilish balandligiga",
+    "Faqat jism hajmiga"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qandil misolida ip taranglik kuchi bilan og'irlik kuchi orasidagi bog'lanish qanday?",
+   "variantlar": [
+    "Taranglik kuchi son qiymati jihatidan og'irlik kuchiga teng, yo'nalishi qarama-qarshi",
+    "Ular orasida bog'lanish yo'q",
+    "Taranglik kuchi og'irlik kuchidan katta",
+    "Taranglik kuchi og'irlik kuchidan kichik"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qiya tekislikda og'irlik kuchi mg necha ta tashkil etuvchiga ajratiladi?",
+   "variantlar": [
+    "4",
+    "2",
+    "1",
+    "3"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qiya tekislikdagi tashkil etuvchilardan qaysi biri jismni tekislik bo'ylab pastga sirpantirishga harakat qiladi?",
+   "variantlar": [
+    "F1",
+    "N",
+    "F2",
+    "F3"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qiya tekislikdagi F2 tashkil etuvchi kuch nimani vujudga keltiradi?",
+   "variantlar": [
+    "Taranglik kuchini",
+    "Markazga intilma kuchni",
+    "Ishqalanish kuchini",
+    "Tekislik yuzasiga bosim kuchini"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yarim sfera ichiga qo'yilgan sharcha qaysi muvozanat turiga misol bo'la oladi?",
+   "variantlar": [
+    "Farqsiz muvozanat",
+    "Turg'un muvozanat",
+    "Muvozanatda emas",
+    "Turg'unmas muvozanat"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yarim sfera ustiga qo'yilgan sharcha qaysi muvozanat turiga misol bo'ladi?",
+   "variantlar": [
+    "Turg'unmas muvozanat",
+    "Farqsiz muvozanat",
+    "Muvozanatda emas",
+    "Turg'un muvozanat"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gorizontal tekis sirt ustidagi sharchaga tashqi turtki berilganda nima sodir bo'ladi?",
+   "variantlar": [
+    "U dastlabki holatiga qaytadi",
+    "U joyidan siljiydi, lekin kuchlarning teng ta'sir etuvchisi nolga teng bo'ladi",
+    "U aylana boshlaydi va to'xtamaydi",
+    "U yanada uzoqlashadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "4.5-rasmdagi jism qachon ag'darila boshlaydi?",
+   "variantlar": [
+    "Og'irlik kuchi G vektori jism asosi konturi ichida qolganda",
+    "G vektor jism asosini chegaralovchi kontur ichidan chiqib ketganda",
+    "Ishqalanish kuchi ortganda",
+    "F1 kuch B nuqtaga qo'yilganda"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "4.5-rasmda F1 kuch og'irlik markazidan pastdagi B nuqtaga qo'yilib, F1 > Fishq. bo'lsa, jism qanday harakatga keladi?",
+   "variantlar": [
+    "Ag'dariladi",
+    "Aylanma harakatga keladi",
+    "Qiyshayadi",
+    "Ilgarilanma harakatga keladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "F1 kuch kattaligini o'zgartirmay og'irlik markazidan yuqoridagi A nuqtaga ko'chirilsa, jism qanday holatga keladi?",
+   "variantlar": [
+    "Qiyshaya boshlaydi",
+    "Muvozanatda qoladi, o'zgarish bo'lmaydi",
+    "Tezda to'xtaydi",
+    "Ilgarilanma harakat qiladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nega jism og'irligi katta bo'lgan sayin uning turg'unligi (barqarorligi) ortadi deb tushunish mumkin?",
+   "variantlar": [
+    "Og'ir jismlarga ishqalanish kuchi ta'sir etmaydi",
+    "Og'irlik umuman turg'unlikka bog'liq emas",
+    "Og'ir jismni ag'darish uchun og'irlik markazini ko'proq siljitish talab qilinadi",
+    "Og'ir jismning asosi avtomatik kattalashadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Asos yuzi kattaroq bo'lgan jism nima uchun ko'proq turg'un bo'ladi?",
+   "variantlar": [
+    "Katta yuzali asosda ishqalanish kuchi yo'qoladi",
+    "Katta yuzali asosda og'irlik markazidan tushirilgan chiziq konturdan chiqishi uchun jism ko'proq qiyshayishi talab qilinadi",
+    "Katta yuzali asos og'irlik kuchini kamaytiradi",
+    "Bu asosning massasiga bog'liq emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "4.5-rasmga ko'ra, F1 kuchning qo'yilish nuqtasi og'irlik markazidan pastga (B nuqtadan A nuqtaga) ko'chirilganda, G vektor bilan asos konturining chetki nuqtasi orasidagi l masofa qanday o'zgaradi?",
+   "variantlar": [
+    "l ortadi",
+    "l o'zgarmaydi",
+    "l nolga teng bo'ladi darhol",
+    "l kamayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Massasi 10 kg bo'lgan jism ikkita bir xil cho'zilmas arqonga osilgan, ular o'zaro 60° burchak hosil qilib simmetrik joylashgan (g=10 m/s2). Har bir arqondagi taranglik kuchini hisoblang.",
+   "variantlar": [
+    "57,7 N",
+    "50 N",
+    "100 N",
+    "86,6 N"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Oldingi masaladagi shartda arqonlar orasidagi burchak 60°dan 90°ga kattalashtirilsa (massa o'zgarmasa), har bir arqondagi taranglik kuchi qanday o'zgaradi?",
+   "variantlar": [
+    "Nolga teng bo'ladi",
+    "Kamayadi",
+    "O'zgarmaydi",
+    "Ortadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita arqonga osilgan jism massasi 2 marta oshirilsa (arqonlar orasidagi burchak o'zgarmasa), har bir arqondagi taranglik kuchi necha marta o'zgaradi?",
+   "variantlar": [
+    "4 marta ortadi",
+    "2 marta kamayadi",
+    "2 marta ortadi",
+    "O'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar xuddi shu 10 kg massali jism ikkita arqon o'rniga faqat bitta vertikal arqonga osilsa, bu holatdagi arqon kuchi ikkita arqonli (60° burchakli) holatdagi har bir arqon kuchidan qanday farq qiladi?",
+   "variantlar": [
+    "Bitta arqondagi kuch kichikroq bo'ladi",
+    "Bitta arqondagi kuch kattaroq bo'ladi (100 N, har biri 57,7 N dan katta)",
+    "Ular teng bo'ladi",
+    "Bitta arqon holatida kuch nolga teng bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yarim sfera ichidagi sharcha va tog' tepasidagi (yarim sfera ustidagi) sharchani solishtirsak, qaysi birining muvozanati barqarorroq?",
+   "variantlar": [
+    "Yarim sfera ichidagi sharcha (turg'un muvozanat)",
+    "Tog' tepasidagi sharcha (turg'unmas muvozanat)",
+    "Ikkisi bir xil barqaror",
+    "Hech biri muvozanatda emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Matnga ko'ra, nima uchun real sharoitda jismni tashqi turtkilardan to'liq xoli qilish mumkin emas deyiladi?",
+   "variantlar": [
+    "Chunki barcha jismlar doimo harakatda bo'ladi",
+    "Chunki massa markazi doimo o'zgarib turadi",
+    "Chunki tabiatda doimo tasodifiy tashqi ta'sirlar (turtkilar) mavjud",
+    "Chunki ishqalanish kuchi doimo nolga teng"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Jism muvozanatda turganda unga ta'sir etuvchi kuchlar sistemasi haqidagi xulosalardan qaysi biri to'g'ri?",
+   "variantlar": [
+    "Kuchlar yig'indisi har doim musbat bo'ladi",
+    "Kuchlar doimo teng vaqt oralig'ida ta'sir qiladi",
+    "Faqat bitta kuch ta'sir qilishi kerak",
+    "Kuchlarning vektor yig'indisi nolga teng bo'lib, jism tezlanishsiz holatda qoladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

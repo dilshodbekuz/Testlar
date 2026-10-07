@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Matematika",
+ "mavzu": "Mantiqiy tengkuchlilik. Mantiqiy qonunlar",
+ "savollar": [
+  {
+   "savol": "p va q mulohazalarning rostlik jadvallaridagi mos ustunlari bir xil bo'lsa, ular qanday deyiladi?",
+   "variantlar": [
+    "Mantiqiy tengkuchli",
+    "Konyunksiya",
+    "Dizyunksiya",
+    "Implikatsiya"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Salim uyda emas\" mulohazaning simvolik shaklini tanlang.",
+   "variantlar": [
+    "S",
+    "¬S",
+    "S∧¬S",
+    "S∨¬S"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Akmal va Sunnat ikkalasi ham o'qituvchi\" mulohazada qaysi mantiqiy bog'lovchi ishlatilgan?",
+   "variantlar": [
+    "Inkor",
+    "Dizyunksiya",
+    "Konyunksiya",
+    "Implikatsiya"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "\"Ra'no yoki metroda, yoki avtobusda keladi\" mulohazada qaysi mantiqiy bog'lovchi ishlatilgan?",
+   "variantlar": [
+    "Inkor",
+    "Konyunksiya",
+    "Implikatsiya",
+    "Dizyunksiya"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p = T, q = T bo'lsa, p∧q ning qiymatini toping.",
+   "variantlar": [
+    "T",
+    "F",
+    "Aniqlanmagan",
+    "Mulohaza emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p = F, q = F bo'lsa, p∨q ning qiymatini toping.",
+   "variantlar": [
+    "T",
+    "F",
+    "Aniqlanmagan",
+    "Mulohaza emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Har doim rost bo'lgan mulohaza nima deyiladi?",
+   "variantlar": [
+    "Ziddiyat",
+    "Konyunksiya",
+    "Tavtologiya",
+    "Inversiya"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p∨¬p mulohaza nima deyiladi?",
+   "variantlar": [
+    "Ziddiyat",
+    "Konversiya",
+    "Konyunksiya",
+    "Tavtologiya"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "¬(p∧q) va ¬p∨¬q mulohazalar bir-biriga nisbatan qanday?",
+   "variantlar": [
+    "Mantiqiy tengkuchli",
+    "Ziddiyat",
+    "Bog'liq emas",
+    "Har doim har xil"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "¬(¬p) ifodasi nimaga teng?",
+   "variantlar": [
+    "¬p",
+    "p",
+    "Doim rost",
+    "Doim yolg'on"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p = T, q = F bo'lsa, ¬p ning qiymatini toping.",
+   "variantlar": [
+    "T",
+    "Aniqlanmagan",
+    "F",
+    "Mulohaza emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = T, q = F bo'lsa, ¬q ning qiymatini toping.",
+   "variantlar": [
+    "F",
+    "Aniqlanmagan",
+    "Mulohaza emas",
+    "T"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = T, q = F bo'lsa, p∨¬q ning qiymatini toping.",
+   "variantlar": [
+    "T",
+    "F",
+    "Aniqlanmagan",
+    "Mulohaza emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = F, q = T bo'lsa, ¬p∧q ning qiymatini toping.",
+   "variantlar": [
+    "F",
+    "T",
+    "Aniqlanmagan",
+    "Mulohaza emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = F, q = F bo'lsa, ¬p∨¬q ning qiymatini toping.",
+   "variantlar": [
+    "F",
+    "Aniqlanmagan",
+    "T",
+    "Mulohaza emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = T, q = T bo'lsa, ¬p∧¬q ning qiymatini toping.",
+   "variantlar": [
+    "T",
+    "Aniqlanmagan",
+    "Mulohaza emas",
+    "F"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = T, q = T bo'lsa, ¬p∧q ning qiymatini toping.",
+   "variantlar": [
+    "F",
+    "T",
+    "Aniqlanmagan",
+    "Mulohaza emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = F, q = T bo'lsa, p∨¬q ning qiymatini toping.",
+   "variantlar": [
+    "T",
+    "F",
+    "Aniqlanmagan",
+    "Mulohaza emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = T, q = F bo'lsa, ¬p∨q ning qiymatini toping.",
+   "variantlar": [
+    "T",
+    "Aniqlanmagan",
+    "F",
+    "Mulohaza emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = F, q = F bo'lsa, ¬p∧¬q ning qiymatini toping.",
+   "variantlar": [
+    "F",
+    "Aniqlanmagan",
+    "Mulohaza emas",
+    "T"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "De Morgan qonuniga ko'ra ¬(p∧q) ifodasi qaysi ifodaga tengkuchli?",
+   "variantlar": [
+    "¬p∨¬q",
+    "¬p∧¬q",
+    "p∨q",
+    "p∧q"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "De Morgan qonuniga ko'ra ¬(p∨q) ifodasi qaysi ifodaga tengkuchli?",
+   "variantlar": [
+    "¬p∨¬q",
+    "¬p∧¬q",
+    "p∧q",
+    "p∨q"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p = T, q = F bo'lsa, ¬(p∧q) ning qiymatini toping.",
+   "variantlar": [
+    "F",
+    "Aniqlanmagan",
+    "T",
+    "Mulohaza emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p = T, q = T bo'lsa, ¬(p∨q) ning qiymatini toping.",
+   "variantlar": [
+    "T",
+    "Aniqlanmagan",
+    "Mulohaza emas",
+    "F"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "¬(p∧q) va ¬p∨¬q mulohazalarning rostlik jadvallari o'zaro mos keladimi?",
+   "variantlar": [
+    "Ha, barcha qiymatlarda mos keladi",
+    "Yo'q, hech qachon mos kelmaydi",
+    "Faqat p = T bo'lganda mos keladi",
+    "Faqat q = F bo'lganda mos keladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p∧¬p mulohaza qanday mulohaza hisoblanadi?",
+   "variantlar": [
+    "Tavtologiya",
+    "Doim yolg'on (ziddiyat)",
+    "p ga bog'liq",
+    "Aniqlanmagan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p = F, q = T bo'lsa, (p∧q)∨(¬p∧¬q) ning qiymatini toping.",
+   "variantlar": [
+    "T",
+    "Aniqlanmagan",
+    "F",
+    "Mulohaza emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p = T, q = T bo'lsa, (p∧q)∨(¬p∧¬q) ning qiymatini toping.",
+   "variantlar": [
+    "F",
+    "Aniqlanmagan",
+    "Mulohaza emas",
+    "T"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "¬¬p ifodasi qaysi mulohazaga mantiqiy tengkuchli?",
+   "variantlar": [
+    "p",
+    "¬p",
+    "Doim rost",
+    "Doim yolg'on"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ikkita oddiy mulohazadan (p va q) tuzilgan rostlik jadvalida nechta qator bo'ladi?",
+   "variantlar": [
+    "2",
+    "4",
+    "6",
+    "8"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

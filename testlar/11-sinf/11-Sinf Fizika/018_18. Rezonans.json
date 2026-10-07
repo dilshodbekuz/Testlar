@@ -1,0 +1,326 @@
+{
+ "sinf": "11-sinf",
+ "kitob": "11-Sinf Fizika",
+ "mavzu": "18. Rezonans",
+ "savollar": [
+  {
+   "savol": "O'zgaruvchan tok zanjirida R, L va C ketma-ket ulangan. Rezonans vaqtida zanjirning to'la qarshiligi nimaga teng bo'ladi?",
+   "variantlar": [
+    "Z = R",
+    "Z = XL + XC",
+    "Z = 0",
+    "Z = XL − XC"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Ketma-ket ulangan R, L, C zanjirida rezonans yuz berishi uchun qaysi shart bajarilishi kerak?",
+   "variantlar": [
+    "R = XL",
+    "XL = XC",
+    "R = XC",
+    "XL = 2XC"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rezonans chastotasi ω_rez qaysi formula bilan aniqlanadi?",
+   "variantlar": [
+    "ω_rez = LC",
+    "ω_rez = 1/√(LC)",
+    "ω_rez = 1/(LC)",
+    "ω_rez = √(LC)"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zanjirdagi tok kuchi amplitudasi I_m ning tashqi kuchlanish chastotasiga bog'liqlik grafigi nima deb ataladi?",
+   "variantlar": [
+    "Rezonans egri chizig'i",
+    "Faza egri chizig'i",
+    "Garmonik egri chiziq",
+    "Sinusoida"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zanjirdagi rezonans nima uchun kuchlanishlar rezonansi deb ataladi?",
+   "variantlar": [
+    "Chunki aktiv qarshilikdagi kuchlanish nolga tushadi",
+    "Chunki zanjirga qo'yilgan kuchlanish nolga tenglashadi",
+    "Chunki rezonansda g'altak va kondensatordagi kuchlanishlar keskin ortadi",
+    "Chunki kuchlanish chastotasi o'zgarmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rezonans vaqtida zanjirdagi tok kuchining amplitudasi qaysi formula bilan topiladi?",
+   "variantlar": [
+    "I_m = U_m/R",
+    "I_m = U_m·R",
+    "I_m = U_m·Z",
+    "I_m = U_m/(XL + XC)"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Aktiv qarshiligi nolga teng bo'lgan tebranish konturida erkin tebranishlar chastotasi (xususiy chastota) ω0 qanday aniqlanadi?",
+   "variantlar": [
+    "ω0 = √(LC)",
+    "ω0 = 1/√(LC)",
+    "ω0 = L/C",
+    "ω0 = C/L"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "R, L, C ketma-ket ulangan zanjirning to'la qarshiligi qaysi ifoda bilan aniqlanadi?",
+   "variantlar": [
+    "Z = R + XL + XC",
+    "Z = √(R² + (XL − XC)²)",
+    "Z = R + (XL − XC)",
+    "Z = √(R² + (XL + XC)²)"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zanjirda rezonans vujudga kelishi uchun tashqi davriy kuchlanish chastotasi qanday bo'lishi kerak?",
+   "variantlar": [
+    "Zanjirning xususiy chastotasiga teng",
+    "Xususiy chastotadan juda kichik",
+    "Nolga teng",
+    "Zanjirning xususiy chastotasidan ikki marta katta"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Rezonans vaqtida g'altak va kondensatordagi kuchlanish tebranishlari amplitudasi haqida qaysi fikr to'g'ri?",
+   "variantlar": [
+    "U doim tashqi kuchlanishga teng bo'ladi",
+    "U har doim tashqi kuchlanishdan kichik bo'ladi",
+    "U tashqi kuchlanishdan ham katta bo'lishi mumkin",
+    "U doim nolga teng bo'ladi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "R = 50 Ω bo'lgan zanjirda rezonans yuz bergan. Kuchlanish amplitudasi U_m = 100 V bo'lsa, tok kuchi amplitudasi qancha?",
+   "variantlar": [
+    "5 A",
+    "2 A",
+    "0,5 A",
+    "50 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zanjirda L = 0,1 H va C = 10 µF (10⁻⁵ F). Rezonans uchun burchak chastota ω_rez qancha?",
+   "variantlar": [
+    "100 rad/s",
+    "10 000 rad/s",
+    "1000 rad/s",
+    "31,4 rad/s"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ketma-ket zanjirda R = 10 Ω, XL = 30 Ω, XC = 30 Ω, U_m = 50 V. Tok kuchi amplitudasi qancha?",
+   "variantlar": [
+    "0,83 A",
+    "5 A",
+    "2,5 A",
+    "1,25 A"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Rezonans vaqtida XL = XC = 40 Ω va I_m = 0,5 A. G'altakdagi kuchlanish amplitudasi qancha?",
+   "variantlar": [
+    "80 V",
+    "20 V",
+    "40 V",
+    "0,0125 V"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Konturdagi g'altak induktivligi L 4 marta oshirilsa (C o'zgarmasa), rezonans chastotasi qanday o'zgaradi?",
+   "variantlar": [
+    "2 marta ortadi",
+    "4 marta kamayadi",
+    "2 marta kamayadi",
+    "4 marta ortadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Konturdagi kondensator sig'imi C 9 marta kamaytirilsa (L o'zgarmasa), rezonans chastotasi qanday o'zgaradi?",
+   "variantlar": [
+    "3 marta ortadi",
+    "3 marta kamayadi",
+    "9 marta ortadi",
+    "9 marta kamayadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Aktiv qarshilik R kamaytirilsa, rezonans egri chizig'ining maksimumi qanday o'zgaradi?",
+   "variantlar": [
+    "Yo'qoladi",
+    "Pasayadi",
+    "O'zgarmaydi",
+    "Balandlashadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zanjirda R = 20 Ω, XL = 40 Ω, XC = 25 Ω. To'la qarshilik Z qancha?",
+   "variantlar": [
+    "35 Ω",
+    "25 Ω",
+    "15 Ω",
+    "85 Ω"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zanjirdagi L = 0,2 H. Rezonans chastotasi ω0 = 1000 rad/s bo'lishi uchun kondensator sig'imi qancha bo'lishi kerak?",
+   "variantlar": [
+    "2·10⁻⁶ F",
+    "5·10⁻³ F",
+    "0,2·10⁻³ F",
+    "5·10⁻⁶ F"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Rezonansda U_m = 10 V, R = 5 Ω, L = 0,1 H, C = 10⁻⁵ F. U_L = (U_m/R)·√(L/C) formula bo'yicha g'altakdagi kuchlanish amplitudasi qancha?",
+   "variantlar": [
+    "100 V",
+    "2 V",
+    "200 V",
+    "20 V"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ketma-ket zanjirda R = 10 Ω, L = 0,1 H, C = 10⁻⁵ F, U_m = 20 V. Rezonans chastotasida kondensatordagi kuchlanish amplitudasi qancha?",
+   "variantlar": [
+    "20 V",
+    "200 V",
+    "100 V",
+    "2000 V"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rezonansda R = 30 Ω, XL = XC = 90 Ω. Kondensatordagi kuchlanish amplitudasi tashqi kuchlanish amplitudasidan necha marta katta?",
+   "variantlar": [
+    "3 marta",
+    "9 marta",
+    "1 marta (teng)",
+    "30 marta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tashqi kuchlanish chastotasi ω0 dan kichik hollarda ham, katta hollarda ham tok amplitudasi ω_rez = ω0 dagiga nisbatan qanday bo'ladi?",
+   "variantlar": [
+    "Har ikki holda ham katta bo'ladi",
+    "Chastotaga bog'liq bo'lmaydi",
+    "Faqat kichik chastotalarda kichik bo'ladi",
+    "Har ikki holda ham kichik bo'ladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Zanjirda L = 0,4 H va C = 5·10⁻⁶ F. Rezonans bo'lishi uchun manba chastotasi v taxminan qancha bo'lishi kerak? (ω = 2πv)",
+   "variantlar": [
+    "112,5 Hz",
+    "100 Hz",
+    "707 Hz",
+    "450 Hz"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "R = 200 Ω, L = 0,4 H, C = 5·10⁻⁶ F va U_m = 120 V bo'lgan zanjirda manba chastotasi rezonans chastotasiga tenglashtirilsa, tok amplitudasi qancha bo'ladi?",
+   "variantlar": [
+    "0,6 A",
+    "1,2 A",
+    "0,57 A",
+    "0,3 A"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Konturda sig'im 4 marta oshirilib, induktivlik 4 marta kamaytirilsa, rezonans chastotasi qanday o'zgaradi?",
+   "variantlar": [
+    "16 marta ortadi",
+    "O'zgarmaydi",
+    "4 marta ortadi",
+    "4 marta kamayadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rezonansdagi zanjirda aktiv qarshilik R oshirilsa (L, C va chastota o'zgarmaydi) qaysi fikr to'g'ri?",
+   "variantlar": [
+    "Rezonans chastotasi ham, tok amplitudasi ham ortadi",
+    "Rezonans chastotasi kamayadi, tok amplitudasi ortadi",
+    "Rezonans chastotasi ortadi, tok amplitudasi o'zgarmaydi",
+    "Rezonans chastotasi o'zgarmaydi, tok amplitudasi kamayadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Rezonansda U_m = 50 V, R = 100 Ω, L = 0,5 H, C = 2·10⁻⁶ F. G'altakdagi kuchlanish amplitudasi tashqi kuchlanishdan necha marta katta?",
+   "variantlar": [
+    "5 marta",
+    "10 marta",
+    "2 marta",
+    "500 marta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Ketma-ket zanjirda R = 30 Ω, XL = 100 Ω, XC = 60 Ω, U_m = 100 V. Tok kuchi amplitudasi qancha? Rezonans bo'lganda u qancha bo'lar edi?",
+   "variantlar": [
+    "2 A; rezonansda 3,33 A",
+    "1 A; rezonansda 3,33 A",
+    "3,33 A; rezonansda 2 A",
+    "2 A; rezonansda 1 A"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

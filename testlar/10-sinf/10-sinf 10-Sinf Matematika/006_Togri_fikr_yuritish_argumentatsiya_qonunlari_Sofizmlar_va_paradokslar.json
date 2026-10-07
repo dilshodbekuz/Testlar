@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Matematika",
+ "mavzu": "To'g'ri fikr yuritish (argumentatsiya) qonunlari. Sofizmlar va paradokslar",
+ "savollar": [
+  {
+   "savol": "Argumentatsiya (to'g'ri fikr yuritish) qonunlari nimaga asoslanadi?",
+   "variantlar": [
+    "Tafakkur qonunlariga",
+    "Geometrik aksiomalarga",
+    "Fizika qonunlariga",
+    "Statistik ma'lumotlarga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hukmda asos va xulosa qanday bog'lovchi so'z bilan bog'lanadi?",
+   "variantlar": [
+    "\"Yoki\"",
+    "\"Demak\"",
+    "\"Va\"",
+    "\"Agar\""
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "S⇒R mantiqiy shaklidagi hukmda S nima deb ataladi?",
+   "variantlar": [
+    "Xulosa",
+    "Natija",
+    "Asos",
+    "Argument"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "S⇒R mantiqiy shaklidagi hukmda R nima deb ataladi?",
+   "variantlar": [
+    "Asos",
+    "Sabab",
+    "Shart",
+    "Xulosa"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(p⇒q)∧p ifodasidan \"demak q\" xulosasi chiqarilishi qanday qonun deyiladi?",
+   "variantlar": [
+    "To'g'ri argumentatsiya qonuni",
+    "Sofizm",
+    "Paradoks",
+    "Kontrapozitsiya"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hukmning to'g'riligini qanday tekshirish mumkin?",
+   "variantlar": [
+    "Faqat tajriba orqali",
+    "Rostlik jadvali yordamida, uning tavtologiya ekanligini tekshirib",
+    "Faqat chizma orqali",
+    "Tekshirib bo'lmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sofizm nima?",
+   "variantlar": [
+    "Har doim rost mulohaza",
+    "Tasodifiy xato",
+    "Ataylab chiqariladigan noto'g'ri xulosa, tasdiqning noto'g'ri isboti",
+    "To'g'ri argumentatsiya qonuni"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Paradoks nima?",
+   "variantlar": [
+    "Oddiy tenglama",
+    "Har doim yolg'on mulohaza",
+    "To'g'ri argumentatsiya",
+    "An'anaviy fikrga zid, kutilmagan mulohaza"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Zenon paradoksi (Axilles va toshbaqa) nimaga bog'liq?",
+   "variantlar": [
+    "Cheksizlik va harakat tushunchalariga",
+    "Faqat geometriyaga",
+    "Faqat statistikaga",
+    "Faqat ehtimollar nazariyasiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Hukmning mantiqiy shakli tavtologiya bo'lsa, bu nimani bildiradi?",
+   "variantlar": [
+    "Hukm noto'g'ri",
+    "Hukmning to'g'riligini",
+    "Hukm mulohaza emasligini",
+    "Hech narsani bildirmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p⇒q va p mulohazalardan q xulosa chiqarilishi (p⇒q, p / demak q) qanday mantiqiy shaklga ega?",
+   "variantlar": [
+    "(p⇒q)∧q⇒p",
+    "(p∨q)∧¬p⇒q",
+    "(p⇒q)∧p⇒q",
+    "(p⇒q)∧(q⇒r)⇒(p⇒r)"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p⇒q va ¬p mulohazalardan ¬q xulosa chiqarish to'g'rimi?",
+   "variantlar": [
+    "Ha, har doim to'g'ri",
+    "Faqat p rost bo'lganda to'g'ri",
+    "Faqat q yolg'on bo'lganda to'g'ri",
+    "Yo'q, bu xato argumentatsiya"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p⇒q va q mulohazalardan p xulosa chiqarish to'g'rimi?",
+   "variantlar": [
+    "Yo'q, bu xato argumentatsiya",
+    "Ha, har doim to'g'ri",
+    "Faqat q yolg'on bo'lganda to'g'ri",
+    "Faqat p va q teng bo'lganda to'g'ri"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p⇒q va ¬q mulohazalardan ¬p xulosa chiqarish to'g'rimi?",
+   "variantlar": [
+    "Yo'q, bu xato",
+    "Ha, to'g'ri argumentatsiya qonuni",
+    "Faqat p rost bo'lganda to'g'ri",
+    "Aniqlab bo'lmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p∨q va ¬p mulohazalardan q xulosa chiqarish to'g'rimi?",
+   "variantlar": [
+    "Yo'q, bu xato",
+    "Faqat q yolg'on bo'lganda to'g'ri",
+    "Ha, to'g'ri argumentatsiya qonuni",
+    "Aniqlab bo'lmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Agar uchburchak uchta tomonga ega bo'lsa, u holda 2+4=7. 2+4=7. Demak, uchburchak uchta tomonga ega.\" hukmi to'g'rimi?",
+   "variantlar": [
+    "Ha, to'g'ri",
+    "Faqat qisman to'g'ri",
+    "Aniqlab bo'lmaydi",
+    "Yo'q, noto'g'ri, chunki (p⇒q)∧q⇒p shakli tavtologiya emas"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Agar darslikni o'qisam, a'lo baho olaman. Darslikni o'qidim. Demak, a'lo baho olaman.\" hukmi qaysi argumentatsiya qonuniga mos keladi?",
+   "variantlar": [
+    "(p⇒q)∧p⇒q qonuniga",
+    "(p⇒q)∧q⇒p qonuniga",
+    "(p∨q)∧¬p⇒q qonuniga",
+    "(p⇒q)∧(q⇒r)⇒(p⇒r) qonuniga"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Agar kitob o'qisam, a'lo baho olaman. A'lo baho olmadim. Demak, kitob o'qimadim.\" hukmi qaysi qonunga mos keladi?",
+   "variantlar": [
+    "(p⇒q)∧p⇒q qonuniga",
+    "(p⇒q)∧¬q⇒¬p qonuniga",
+    "(p∨q)∧¬p⇒q qonuniga",
+    "(p⇒q)∧(q⇒r)⇒(p⇒r) qonuniga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Men yoki kitob o'qiyman, yoki kino ko'raman. Men kitob o'qimadim. Demak, men kino ko'rdim.\" hukmi qaysi qonunga mos keladi?",
+   "variantlar": [
+    "(p⇒q)∧p⇒q qonuniga",
+    "(p⇒q)∧¬q⇒¬p qonuniga",
+    "(p∨q)∧¬p⇒q qonuniga",
+    "(p⇒q)∧(q⇒r)⇒(p⇒r) qonuniga"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Agar havo ochiq bo'lsa, men sport maydonchaga boraman. Agar men sport maydonchaga borsam, futbol o'ynayman. Demak, agar havo ochiq bo'lsa, men futbol o'ynayman.\" hukmi qaysi qonunga mos keladi?",
+   "variantlar": [
+    "(p⇒q)∧p⇒q qonuniga",
+    "(p⇒q)∧¬q⇒¬p qonuniga",
+    "(p∨q)∧¬p⇒q qonuniga",
+    "(p⇒q)∧(q⇒r)⇒(p⇒r) qonuniga"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Zenon paradoksida Axilles va toshbaqa orasidagi masofa haqida qanday noto'g'ri xulosa chiqariladi?",
+   "variantlar": [
+    "Masofa doim qisqarib boradi, lekin hech qachon nolga aylanmaydi, deb \"isbotlanadi\"",
+    "Masofa doim oshib boradi",
+    "Masofa darhol nolga teng bo'ladi",
+    "Axilles orqaga qaytadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"2·2=5\" sofizmida qaysi amal matematik jihatdan noto'g'ri bajarilgan?",
+   "variantlar": [
+    "Ko'paytirish noto'g'ri bajarilgan",
+    "Tenglikning ikki tomonini nolga teng bo'lgan ko'paytuvchiga qisqartirish",
+    "Qo'shish noto'g'ri bajarilgan",
+    "Bo'lish noto'g'ri bajarilgan, manfiy songa bo'lingan"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"1000 so'm qayerga ketdi?\" sofizmida asosiy xatolik nimada?",
+   "variantlar": [
+    "Pul noto'g'ri sanalgan",
+    "Xizmatchi pulni o'g'irlagan",
+    "Hisoblashning noto'g'ri qilinganida — 2000 so'm allaqachon 27000 so'mning ichida",
+    "Do'stlar pulni yo'qotishgan"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Men tasdiqlayotgan barcha narsa yolg'on\" mulohazasi qanday nomlanadi?",
+   "variantlar": [
+    "Zenon paradoksi",
+    "Refleksivlik paradoksi",
+    "Sofizm",
+    "Yolg'onchi paradoksi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yolg'onchi paradoksida mulohaza nega ziddiyatga olib keladi?",
+   "variantlar": [
+    "U rost bo'lsa yolg'on, yolg'on bo'lsa rost bo'lib chiqadi",
+    "U har doim rost",
+    "U har doim yolg'on",
+    "U mulohaza emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Norefleksiv\" so'zining o'zi refleksivmi?\" mulohazasi qaysi paradoksga tegishli?",
+   "variantlar": [
+    "Zenon paradoksi",
+    "Refleksivlik paradoksi",
+    "Yolg'onchi paradoksi",
+    "Sofizm"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Modus ponens qonuni ((p⇒q)∧p⇒q) rostlik jadvali bo'yicha nimani hosil qiladi?",
+   "variantlar": [
+    "Ziddiyat",
+    "Noaniqlik",
+    "Tavtologiya",
+    "Hech narsa hosil bo'lmaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "(p⇒q)∧q⇒p mantiqiy shakli rostlik jadvali bo'yicha nimani hosil qiladi?",
+   "variantlar": [
+    "Tavtologiya",
+    "Ziddiyat",
+    "Faqat p=T da rost bo'ladi",
+    "Tavtologiya hosil bo'lmaydi, demak bu noto'g'ri argumentatsiya"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Darslikda to'g'ri argumentatsiya qonunlarining nechta asosiy ko'rinishi keltirilgan?",
+   "variantlar": [
+    "4 ta",
+    "2 ta",
+    "6 ta",
+    "10 ta"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Sofizmlar qaysi fanlar rivojida katta ahamiyatga ega bo'lgan (Zenon masalalari misolida)?",
+   "variantlar": [
+    "Faqat tilshunoslik",
+    "Matematika va fizika",
+    "Faqat tarix",
+    "Faqat biologiya"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

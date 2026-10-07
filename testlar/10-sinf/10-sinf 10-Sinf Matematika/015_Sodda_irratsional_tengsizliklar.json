@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Matematika",
+ "mavzu": "Sodda irratsional tengsizliklar",
+ "savollar": [
+  {
+   "savol": "Noma'lum ildiz belgisi ostida bo'lgan tengsizlik nima deyiladi?",
+   "variantlar": [
+    "Irratsional tengsizlik",
+    "Ratsional tengsizlik",
+    "Ko'rsatkichli tengsizlik",
+    "Chiziqli tengsizlik"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "√A(x) < B(x) irratsional tengsizlik qaysi sistemaga tengkuchli?",
+   "variantlar": [
+    "{A(x)>B²(x), B(x)≥0}",
+    "{A(x)<B²(x), A(x)≥0, B(x)>0}",
+    "{A(x)=B²(x)}",
+    "{A(x)≥0, B(x)≥0}"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "√A(x) > B(x) irratsional tengsizlikni yechish uchun qanday ikki holat ko'riladi?",
+   "variantlar": [
+    "{A(x)<B²(x)} yagona holat",
+    "Faqat B(x)≥0 holat",
+    "{A(x)>B²(x), B(x)≥0} yoki {A(x)≥0, B(x)<0}",
+    "Faqat A(x)≥0 holat"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "√A(x) > √B(x) irratsional tengsizlik qaysi sistemaga tengkuchli?",
+   "variantlar": [
+    "{A(x)<B(x), B(x)≥0}",
+    "{A(x)=B(x)}",
+    "{A(x)≥0, B(x)≥0}",
+    "{A(x)>B(x), B(x)≥0}"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "√(10x+5) < -3 tengsizlik nega yechimga ega emas?",
+   "variantlar": [
+    "Chunki kvadrat ildiz manfiy songa teng yoki undan kichik bo'la olmaydi",
+    "Chunki 10x+5 har doim manfiy",
+    "Chunki tengsizlik chiziqli emas",
+    "Chunki x aniqlanmagan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "√(3x-9) > -5 tengsizlikning yechimi nimaga bog'liq?",
+   "variantlar": [
+    "Hech nimaga bog'liq emas, yechimi yo'q",
+    "Faqat chap qismning aniqlanish (mavjudlik) shartiga, ya'ni x≥3",
+    "Faqat o'ng qismning qiymatiga",
+    "Faqat x ning manfiyligiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Irratsional tengsizlikni yechishda tengsizlikning ikkala qismini qachon juft darajaga ko'tarish mumkin?",
+   "variantlar": [
+    "Har doim mumkin",
+    "Hech qachon mumkin emas",
+    "Faqat ikkala qism manfiymas bo'lsa",
+    "Faqat ikkala qism manfiy bo'lsa"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Irratsional tengsizliklarni yechishda yangi o'zgaruvchi kiritish usuli qanday tenglamalar uchun ham ilgari qo'llanilgan edi?",
+   "variantlar": [
+    "Ko'rsatkichli tenglamalar uchun",
+    "Chiziqli tenglamalar uchun",
+    "Logarifmik tenglamalar uchun",
+    "Irratsional tenglamalar uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "√(2x-3) < 1 tengsizlikni yechishda B(x)=1≥0 sharti qanday ahamiyatga ega?",
+   "variantlar": [
+    "U barcha x lar uchun bajarilgani uchun alohida yozish shart emas",
+    "U tengsizlikni yechimsiz qiladi",
+    "U faqat x=1 da bajariladi",
+    "U hech qachon bajarilmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Irratsional tengsizlikni yechishning asosiy usullaridan biri nima?",
+   "variantlar": [
+    "Faqat grafik chizish",
+    "Tengkuchli ratsional tengsizliklar sistemasiga keltirish",
+    "Faqat sonlarni sanab chiqish",
+    "Faqat taxmin qilish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "√(2x-3) < 1 tengsizlikni yeching.",
+   "variantlar": [
+    "(-∞;3/2)",
+    "[2;+∞)",
+    "[3/2;2)",
+    "(3/2;+∞)"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "√(4x-3) > 1 tengsizlikni yeching.",
+   "variantlar": [
+    "x<1",
+    "x≤1",
+    "x≥1",
+    "x>1"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "√(x+18) < 2-x tengsizlikni yeching.",
+   "variantlar": [
+    "x∈[-18;-2)",
+    "x∈(-2;2)",
+    "x∈[2;+∞)",
+    "x∈(-∞;-18)"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "√(x²+x-2) > x tengsizlikni yeching.",
+   "variantlar": [
+    "x∈(-2;2)",
+    "x∈(-∞;-2]∪(2;+∞)",
+    "x∈[-2;2]",
+    "x∈(-∞;2)"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "√(2x+1) > √(2-3x) tengsizlikni yeching.",
+   "variantlar": [
+    "1/5<x<2/3",
+    "x≤1/5",
+    "1/5<x≤2/3",
+    "x>2/3"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(√(x²-25))/(x+6) < 1 tengsizlikni yechishda avval nima aniqlanadi?",
+   "variantlar": [
+    "Tengsizlikning javobi",
+    "Koeffitsientlar",
+    "Grafik ko'rinishi",
+    "Noma'lum x ning tengsizlik ma'noga ega bo'ladigan qiymatlari to'plami (mavjudlik sohasi)"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "-9∜x+√x+18≥0 tengsizlikda t=∜x almashtirish kiritilsa, hosil bo'lgan tengsizlikni tanlang.",
+   "variantlar": [
+    "-9t+t²+18≥0",
+    "9t+t²-18≥0",
+    "t²-9t-18≥0",
+    "-9t²+t+18≥0"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "-9t+t²+18≥0 tengsizlikning yechimini toping.",
+   "variantlar": [
+    "3≤t≤6",
+    "t≤3 yoki t≥6",
+    "t≤6",
+    "t≥3"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "0≤t≤3 va t≥0 shartlaridan kelib chiqib, x ning mos qiymatlari oralig'ini toping (t=∜x).",
+   "variantlar": [
+    "0≤x≤3",
+    "x≥81",
+    "0≤x≤81",
+    "x≤0"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(3-x)/√(15-x) < 1 tengsizlikda √(15-x)=t almashtirish kiritilsa, x qanday ifodalanadi?",
+   "variantlar": [
+    "x=t²-15",
+    "x=15+t²",
+    "x=t-15",
+    "x=15-t²"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "(3-x)/√(15-x) < 1 tengsizlikni t o'zgaruvchisi orqali yechganda hosil bo'lgan ratsional tengsizlikni tanlang.",
+   "variantlar": [
+    "(t-4)(t+3)/t<0",
+    "(t+4)(t-3)/t>0",
+    "(t-4)(t+3)/t>0",
+    "t²-t-12>0"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Yuqoridagi tengsizlikning t bo'yicha yechimini toping (t>0 shartida).",
+   "variantlar": [
+    "t>4",
+    "0<t<4",
+    "-3<t<0",
+    "t<-3"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "0<√(15-x)<4 shartidan x ning qiymatlar oralig'ini toping.",
+   "variantlar": [
+    "0<x<15",
+    "x<-1",
+    "-1<x<15",
+    "x>15"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "√(2x-1) < x+2 tengsizlikni yechishda qaysi sistema qo'llaniladi?",
+   "variantlar": [
+    "{2x-1>(x+2)², 2x-1≥0}",
+    "{2x-1=(x+2)²}",
+    "{x+2<0, 2x-1≥0}",
+    "{2x-1<(x+2)², 2x-1≥0}"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Tekislikda A(9,4), B(-4,5) nuqtalar berilgan. AC>BC shartini qanoatlantiruvchi C(x,y) sohani topish uchun qanday tengsizlik tuziladi?",
+   "variantlar": [
+    "(x-9)²+(y-4)²>(x+4)²+(y-5)²",
+    "(x-9)²+(y-4)²<(x+4)²+(y-5)²",
+    "(x-9)+(y-4)>(x+4)+(y-5)",
+    "x²+y²=25"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "√(x-3)+√(1-x) ifodaning aniqlanish sohasini topish uchun qanday shartlar birgalikda yechiladi?",
+   "variantlar": [
+    "x-3<0 va 1-x<0",
+    "x-3≥0 va 1-x≥0 birgalikda",
+    "x-3=0 yoki 1-x=0",
+    "x>3 yoki x<1"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "√(x-3)+√(1-x) > √(8x-5) tengsizlikning aniqlanish sohasi (x≥3 va x≤1 shartlari) haqida nima deyish mumkin?",
+   "variantlar": [
+    "Aniqlanish sohasi barcha haqiqiy sonlar",
+    "Aniqlanish sohasi faqat x=3",
+    "Bu shartlar bir vaqtda bajarilmaydi, demak tengsizlik yechimga ega emas",
+    "Aniqlanish sohasi faqat x=1"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "√(x+3)/√(4-x) ≥ 2 tengsizlikni yechishda qanday shartlar albatta talab qilinadi?",
+   "variantlar": [
+    "x+3<0 va 4-x<0",
+    "x=4",
+    "x+3=4-x",
+    "x+3≥0 va 4-x>0"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "∛(x+1) ≤ ∛(5x) tengsizlik qanday tengsizlikka tengkuchli (toq darajali ildiz uchun)?",
+   "variantlar": [
+    "x+1≤5x",
+    "x+1≥5x",
+    "x+1=5x",
+    "(x+1)²≤(5x)²"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nazorat test misolida √(x²-13x+12) ≤ 5-x tengsizlikning butun yechimlari sonini topish uchun qanday yondashuv qo'llaniladi?",
+   "variantlar": [
+    "Faqat taxmin qilish",
+    "Tengsizlikni mos sistemaga keltirib, yechim oralig'idagi butun sonlarni sanab",
+    "Faqat grafik chizib taxmin qilish",
+    "Tengsizlikni e'tiborsiz qoldirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

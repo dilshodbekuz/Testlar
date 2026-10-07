@@ -1,0 +1,337 @@
+{
+  "sinf": "11-sinf",
+  "kitob": "11-sinf 11-Sinf Umumiy kimyo",
+  "mavzu": "20-§ Foiz va molar konsentratsiya o'rtasidagi bog'lanish",
+  "savollar": [
+    {
+      "savol": "Foiz konsentratsiyadan molar konsentratsiyaga o'tish formulasi qaysi?",
+      "variantlar": [
+        "CM = C% × 10 × ρ / M",
+        "CM = C% × M / (10 × ρ)",
+        "CM = C% × ρ / (10 × M)",
+        "CM = 10 × M / (C% × ρ)"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Molar konsentratsiyadan foiz konsentratsiyaga o'tish formulasi qaysi?",
+      "variantlar": [
+        "C% = CM × ρ / (M × 10)",
+        "C% = CM × M / (ρ × 10)",
+        "C% = CM × 10 / (M × ρ)",
+        "C% = M × ρ / (CM × 10)"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Molar konsentratsiyani foiz konsentratsiyaga o'tkazishda qaysi kattalik zichlik bilan ko'paytiriladi yoki bo'linadi?",
+      "variantlar": [
+        "Erigan modda hajmi",
+        "Reaksiya tezligi",
+        "Eritma zichligi (ρ)",
+        "Erituvchi massasi"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Eritma zichligi formulasi (CM va M berilganda) qaysi?",
+      "variantlar": [
+        "ρ = C% × 10 / (CM × M)",
+        "ρ = CM × 10 / (C% × M)",
+        "ρ = M / (CM × C%)",
+        "ρ = CM × M / (C% × 10)"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Erigan moddaning molar massasi formulasi (C%, ρ, CM berilganda) qaysi?",
+      "variantlar": [
+        "M = C% × 10 × ρ / CM",
+        "M = CM × 10 / (C% × ρ)",
+        "M = C% × ρ / (CM × 10)",
+        "M = CM × C% × ρ"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Formulada 10 koeffitsiyenti nima uchun ishlatiladi?",
+      "variantlar": [
+        "Zichlikni ikki baravar oshirish uchun",
+        "Foiz va g/ml birliklarini molar hisobga moslashtirish uchun (1 l = 1000 ml, foiz hisobi)",
+        "Erigan modda massasini 10 marta kamaytirish uchun",
+        "Reaksiya tezligini hisoblash uchun"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Foiz konsentratsiya (C%) qaysi kattaliklar orqali molar konsentratsiyaga o'tkaziladi?",
+      "variantlar": [
+        "Faqat erituvchi hajmi",
+        "Faqat reaksiya vaqti",
+        "Zichlik (ρ) va erigan moddaning molar massasi (M)",
+        "Faqat erigan modda miqdori"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Molar konsentratsiyani foiz konsentratsiyaga o'tkazish uchun qaysi kattaliklar kerak?",
+      "variantlar": [
+        "Faqat CM va erigan modda massasi",
+        "Faqat hajm va vaqt",
+        "Faqat erituvchi massasi",
+        "CM, M va zichlik (ρ)"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Molar konsentratsiya CM birligi qaysi?",
+      "variantlar": [
+        "mol/l yoki M",
+        "g/ml",
+        "%",
+        "g/ekv"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Molar konsentratsiyali eritmadan foiz konsentratsiyaga o'tishda qaysi formula ishlatiladi?",
+      "variantlar": [
+        "C% = CM / (ρ × 10)",
+        "C% = CM × M / (ρ × 10)",
+        "C% = ρ × 10 / CM",
+        "C% = CM × M × ρ"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "20 % li KOH eritmasi (ρ = 1,25 g/ml) ning molar konsentratsiyasi necha M? (M = 56 g/mol)",
+      "variantlar": [
+        "2,5 M",
+        "0,2 M",
+        "4,46 M",
+        "20 M"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "1,5 M li HNO3 eritmasi (ρ = 1,26 g/ml) ning foiz konsentratsiyasi necha %? (M = 63 g/mol)",
+      "variantlar": [
+        "50 %",
+        "30 %",
+        "7,5 %",
+        "75 %"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "20,2 % li KNO3 eritmasining molar konsentratsiyasi 2,5 M bo'lsa, eritmaning zichligi necha g/ml? (M(KNO3) = 101 g/mol)",
+      "variantlar": [
+        "1,25 g/ml",
+        "1,5 g/ml",
+        "1,01 g/ml",
+        "2,5 g/ml"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "16 % li noma'lum modda eritmasining zichligi 1,4 g/ml, molar konsentratsiyasi 4 M. Modda molar massasi necha g/mol?",
+      "variantlar": [
+        "40 g/mol",
+        "56 g/mol (KOH)",
+        "98 g/mol",
+        "16 g/mol"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "5 % li HNO3 eritmasi (ρ = 1,26 g/ml) ning molar konsentratsiyasi necha M? (M = 63 g/mol)",
+      "variantlar": [
+        "0,5 M",
+        "5 M",
+        "1 M",
+        "2 M"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "40 % li H2SO4 eritmasi (ρ = 1,225 g/ml) ning molar konsentratsiyasi necha M? (M = 98 g/mol)",
+      "variantlar": [
+        "4 M",
+        "2,5 M",
+        "10 M",
+        "5 M"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "3 M li NaNO3 eritmasi (ρ = 1,275 g/ml) ning foiz konsentratsiyasi necha %? (M = 85 g/mol)",
+      "variantlar": [
+        "20 %",
+        "15 %",
+        "25 %",
+        "30 %"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "0,5 M li KBr eritmasi (ρ = 1,19 g/ml) ning foiz konsentratsiyasi necha %? (M = 119 g/mol)",
+      "variantlar": [
+        "10 %",
+        "5 %",
+        "2,5 %",
+        "11,9 %"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "17 % li NaNO3 eritmasining molar konsentratsiyasi 2,5 M bo'lsa, eritmaning zichligi necha g/ml? (M = 85 g/mol)",
+      "variantlar": [
+        "1,5 g/ml",
+        "0,85 g/ml",
+        "1,25 g/ml",
+        "2,5 g/ml"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "55,5 % li CaCl2 eritmasining molar konsentratsiyasi 6 M bo'lsa, eritmaning zichligi necha g/ml? (M = 111 g/mol)",
+      "variantlar": [
+        "1,11 g/ml",
+        "0,6 g/ml",
+        "2 g/ml",
+        "1,2 g/ml"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "25 % li (ρ = 1,176 g/ml) noma'lum modda eritmasining molar konsentratsiyasi 3 M. Modda molar massasi necha g/mol?",
+      "variantlar": [
+        "98 g/mol",
+        "49 g/mol",
+        "196 g/mol",
+        "25 g/mol"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "16 % li (ρ = 1,2 g/ml) noma'lum modda eritmasining molar konsentratsiyasi 4,8 M. Modda molar massasi necha g/mol?",
+      "variantlar": [
+        "20 g/mol",
+        "40 g/mol",
+        "80 g/mol",
+        "16 g/mol"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "50 % li (ρ = 1,2 g/ml) noma'lum modda eritmasining molar konsentratsiyasi 3 M. Modda molar massasi necha g/mol?",
+      "variantlar": [
+        "100 g/mol",
+        "400 g/mol",
+        "200 g/mol",
+        "50 g/mol"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "10 % li (ρ = 1,15 g/ml) H2SO4 eritmasining molar konsentratsiyasi necha M? (M = 98 g/mol)",
+      "variantlar": [
+        "0,98 M",
+        "2,3 M",
+        "10 M",
+        "1,17 M"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "3 M li K2CrO4 eritmasi (ρ = 1,455 g/ml) ning foiz konsentratsiyasi necha %? (M = 194 g/mol)",
+      "variantlar": [
+        "40 %",
+        "20 %",
+        "80 %",
+        "3 %"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "2 M li NaOH eritmasi (ρ = 1,08 g/ml) ning foiz konsentratsiyasi necha %? (M = 40 g/mol)",
+      "variantlar": [
+        "8 %",
+        "7,4 %",
+        "3,7 %",
+        "14,8 %"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "1 M li HCl eritmasi (ρ = 1,02 g/ml) ning foiz konsentratsiyasi necha %? (M = 36,5 g/mol)",
+      "variantlar": [
+        "1 %",
+        "7,2 %",
+        "3,6 %",
+        "36,5 %"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "0,5 M li KNO3 eritmasi (ρ = 1,03 g/ml) ning foiz konsentratsiyasi necha %? (M = 101 g/mol)",
+      "variantlar": [
+        "0,5 %",
+        "9,8 %",
+        "50 %",
+        "4,9 %"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "40 % li NaOH eritmasi (ρ = 1,43 g/ml) ning molar konsentratsiyasi necha M? (M = 40 g/mol)",
+      "variantlar": [
+        "14,3 M",
+        "40 M",
+        "1,43 M",
+        "4 M"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "6 M li HNO3 eritmasi (ρ = 1,2 g/ml) ning foiz konsentratsiyasi necha %? (M = 63 g/mol)",
+      "variantlar": [
+        "63 %",
+        "31,5 %",
+        "6 %",
+        "12 %"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    }
+  ]
+}

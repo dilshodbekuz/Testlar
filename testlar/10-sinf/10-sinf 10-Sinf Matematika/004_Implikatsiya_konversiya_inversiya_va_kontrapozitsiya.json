@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Matematika",
+ "mavzu": "Implikatsiya, konversiya, inversiya va kontrapozitsiya",
+ "savollar": [
+  {
+   "savol": "\"Agar p bo'lsa, u holda q\" shaklidagi mulohaza nima deyiladi?",
+   "variantlar": [
+    "Implikatsiya",
+    "Konyunksiya",
+    "Dizyunksiya",
+    "Ekvivalensiya"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p⇒q implikatsiyada p nima deb ataladi?",
+   "variantlar": [
+    "Zaruriy shart",
+    "Yetarli shart",
+    "Inkor",
+    "Natija"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p⇒q implikatsiyada q nima deb ataladi?",
+   "variantlar": [
+    "Yetarli shart",
+    "Sabab",
+    "Zaruriy shart",
+    "Inkor"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p⇒q qachon yolg'on bo'ladi?",
+   "variantlar": [
+    "p va q ikkalasi ham rost bo'lganda",
+    "p va q ikkalasi ham yolg'on bo'lganda",
+    "p yolg'on, q rost bo'lganda",
+    "p rost, q yolg'on bo'lganda"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p⇒q mulohazaning konversiyasini tanlang.",
+   "variantlar": [
+    "q⇒p",
+    "¬p⇒¬q",
+    "¬q⇒¬p",
+    "¬p∧¬q"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p⇒q mulohazaning inversiyasini tanlang.",
+   "variantlar": [
+    "q⇒p",
+    "¬p⇒¬q",
+    "¬q⇒¬p",
+    "p∧q"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p⇒q mulohazaning kontrapozitsiyasini tanlang.",
+   "variantlar": [
+    "q⇒p",
+    "¬p⇒¬q",
+    "¬q⇒¬p",
+    "p∨q"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p⇒q mulohaza qaysi mulohaza bilan mantiqiy tengkuchli?",
+   "variantlar": [
+    "O'zining konversiyasi bilan",
+    "O'zining inversiyasi bilan",
+    "¬p∧q bilan",
+    "O'zining kontrapozitsiyasi bilan"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "(p⇒q)∧(q⇒p) mulohaza nima deyiladi?",
+   "variantlar": [
+    "Ekvivalensiya",
+    "Konversiya",
+    "Inversiya",
+    "Kontrapozitsiya"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p⇔q mulohaza qachon rost bo'ladi?",
+   "variantlar": [
+    "Faqat p rost bo'lganda",
+    "p va q bir xil qiymatga ega bo'lganda",
+    "Faqat q rost bo'lganda",
+    "p va q har xil qiymatga ega bo'lganda"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "p = T, q = F bo'lsa, p⇒q ning qiymatini toping.",
+   "variantlar": [
+    "T",
+    "Aniqlanmagan",
+    "F",
+    "Mulohaza emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = F, q = T bo'lsa, p⇒q ning qiymatini toping.",
+   "variantlar": [
+    "F",
+    "Aniqlanmagan",
+    "Mulohaza emas",
+    "T"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = F, q = F bo'lsa, p⇒q ning qiymatini toping.",
+   "variantlar": [
+    "T",
+    "F",
+    "Aniqlanmagan",
+    "Mulohaza emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = T, q = T bo'lsa, p⇒q ning qiymatini toping.",
+   "variantlar": [
+    "F",
+    "T",
+    "Aniqlanmagan",
+    "Mulohaza emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = T, q = F bo'lsa, q⇒p (konversiya) ning qiymatini toping.",
+   "variantlar": [
+    "F",
+    "Aniqlanmagan",
+    "T",
+    "Mulohaza emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = F, q = T bo'lsa, q⇒p (konversiya) ning qiymatini toping.",
+   "variantlar": [
+    "T",
+    "Aniqlanmagan",
+    "Mulohaza emas",
+    "F"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = T, q = F bo'lsa, ¬p⇒¬q (inversiya) ning qiymatini toping.",
+   "variantlar": [
+    "T",
+    "F",
+    "Aniqlanmagan",
+    "Mulohaza emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = F, q = T bo'lsa, ¬p⇒¬q (inversiya) ning qiymatini toping.",
+   "variantlar": [
+    "T",
+    "F",
+    "Aniqlanmagan",
+    "Mulohaza emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = T, q = F bo'lsa, ¬q⇒¬p (kontrapozitsiya) ning qiymatini toping.",
+   "variantlar": [
+    "T",
+    "Aniqlanmagan",
+    "F",
+    "Mulohaza emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "p = F, q = T bo'lsa, ¬q⇒¬p (kontrapozitsiya) ning qiymatini toping.",
+   "variantlar": [
+    "F",
+    "Aniqlanmagan",
+    "Mulohaza emas",
+    "T"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "\"Agar x > 20 bo'lsa, u holda x > 10 bo'ladi\" mulohazaning konversiyasini tanlang.",
+   "variantlar": [
+    "\"Agar x > 10 bo'lsa, u holda x > 20 bo'ladi\"",
+    "\"Agar x ≤ 20 bo'lsa, u holda x ≤ 10 bo'ladi\"",
+    "\"Agar x ≤ 10 bo'lsa, u holda x ≤ 20 bo'ladi\"",
+    "\"Agar x > 20 bo'lmasa, x > 10 bo'lmaydi\""
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Agar uchburchak teng yonli bo'lsa, uning ikkita burchagi teng\" mulohazaning kontrapozitsiyasini tanlang.",
+   "variantlar": [
+    "\"Agar uchburchakning ikkita burchagi teng bo'lsa, u teng yonli bo'ladi\"",
+    "\"Agar uchburchakning ikkita burchagi teng bo'lmasa, u teng yonli emas\"",
+    "\"Agar uchburchak teng yonli bo'lmasa, uning ikkita burchagi teng emas\"",
+    "\"Uchburchak teng yonli va ikkita burchagi teng\""
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Implikatsiya va uning kontrapozitsiyasi haqida to'g'ri fikrni tanlang.",
+   "variantlar": [
+    "Ular hech qachon bir xil qiymat qabul qilmaydi",
+    "Ular faqat p = T bo'lganda bir xil",
+    "Ular mantiqiy tengkuchli",
+    "Ular bog'liq emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Implikatsiya va uning konversiyasi haqida to'g'ri fikrni tanlang.",
+   "variantlar": [
+    "Ular har doim mantiqiy tengkuchli",
+    "Ular hech qachon rost bo'lmaydi",
+    "Ular faqat q = F bo'lganda tengkuchli",
+    "Ular umuman olganda mantiqiy tengkuchli emas"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Inversiya va konversiya mulohazalari haqida to'g'ri fikrni tanlang.",
+   "variantlar": [
+    "Ular mantiqiy tengkuchli",
+    "Ular hech qachon bir xil qiymat olmaydi",
+    "Inversiya har doim rost",
+    "Konversiya har doim yolg'on"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p: \"x son 6 ga bo'linadi\", q: \"x - juft son\". x = 6 bo'lganda p⇒q ning qiymatini toping.",
+   "variantlar": [
+    "F",
+    "T",
+    "Aniqlanmagan",
+    "Mulohaza emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p: \"x son 6 ga bo'linadi\", q: \"x - juft son\". x = 3 bo'lganda p⇒q ning qiymatini toping.",
+   "variantlar": [
+    "F",
+    "Aniqlanmagan",
+    "T",
+    "Mulohaza emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p: \"ABCD - to'g'ri to'rtburchak\", q: \"AB||CD va AD||BC\". p⇒q implikatsiyasi rostmi?",
+   "variantlar": [
+    "Yolg'on",
+    "Aniqlanmagan",
+    "Mulohaza emas",
+    "Rost, chunki to'g'ri to'rtburchakda qarama-qarshi tomonlar parallel"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "p⇒q rost va q⇒p ham rost bo'lsa, p va q haqida nima deyish mumkin?",
+   "variantlar": [
+    "p va q ekvivalent (bir xil qiymatga ega)",
+    "p va q bog'liq emas",
+    "p doim rost",
+    "q doim yolg'on"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "∀x(A(x)⇒B(x)) ⇒ ∀x(¬B(x)⇒¬A(x)) mantiqiy qonuni nimaga asoslangan?",
+   "variantlar": [
+    "Konyunksiya qoidasiga",
+    "Implikatsiya va uning kontrapozitsiyasining mantiqiy tengkuchliligiga",
+    "Dizyunksiya qoidasiga",
+    "To'ldiruvchi to'plam qoidasiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

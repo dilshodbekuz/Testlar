@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Matematika",
+ "mavzu": "Predikatlar va kvantorlar",
+ "savollar": [
+  {
+   "savol": "O'zgaruvchi qatnashib, unga aniq qiymat qo'yilganda rost-yolg'onligi aniq bo'ladigan mulohaza nima deyiladi?",
+   "variantlar": [
+    "Predikat",
+    "Tenglama",
+    "Funksiya",
+    "Argument"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "∀ belgisi nima deyiladi?",
+   "variantlar": [
+    "Mavjudlik kvantori",
+    "Umumiylik kvantori",
+    "Inkor belgisi",
+    "Implikatsiya belgisi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "∃ belgisi nima deyiladi?",
+   "variantlar": [
+    "Umumiylik kvantori",
+    "Inkor belgisi",
+    "Mavjudlik kvantori",
+    "Konyunksiya belgisi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "∀xP(x) ifodasi qanday o'qiladi?",
+   "variantlar": [
+    "Shunday x mavjudki, P(x)",
+    "P(x) har doim yolg'on",
+    "x mavjud emas",
+    "x ning barcha qiymatlari uchun P(x) o'rinli"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "∃xP(x) ifodasi qanday o'qiladi?",
+   "variantlar": [
+    "Shunday x mavjudki, P(x) o'rinli",
+    "Barcha x uchun P(x) o'rinli",
+    "Hech qanday x uchun P(x) o'rinli emas",
+    "P(x) doim rost"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "x ning ∀xP(x) mulohazaning yolg'onligini ko'rsatuvchi qiymati nima deyiladi?",
+   "variantlar": [
+    "Argument",
+    "Kontrmisol",
+    "Natija",
+    "Asos"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "¬(∃xP(x)) qaysi ifodaga tengkuchli?",
+   "variantlar": [
+    "∃x(¬P(x))",
+    "∀xP(x)",
+    "∀x(¬P(x))",
+    "∃xP(x)"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "¬(∀xP(x)) qaysi ifodaga tengkuchli?",
+   "variantlar": [
+    "∀x(¬P(x))",
+    "∀xP(x)",
+    "∃xP(x)",
+    "∃x(¬P(x))"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "P(x,y) kabi ikki o'zgaruvchili mulohaza nima deyiladi?",
+   "variantlar": [
+    "Predikat",
+    "Funksiya",
+    "Tenglama",
+    "Vektor"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Predikatda nechta o'zgaruvchi qatnashishi mumkin?",
+   "variantlar": [
+    "Faqat bitta",
+    "Bir yoki bir nechta",
+    "Faqat ikkita",
+    "Hech qanday"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "P(x): \"x² > x\" bo'lsa, P(2) ning rost-yolg'onligini aniqlang.",
+   "variantlar": [
+    "Yolg'on",
+    "Aniqlanmagan",
+    "Rost",
+    "Predikat emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "P(x): \"x² > x\" bo'lsa, P(1/2) ning rost-yolg'onligini aniqlang.",
+   "variantlar": [
+    "Rost",
+    "Aniqlanmagan",
+    "Predikat emas",
+    "Yolg'on"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "P(x): \"x² > x\" bo'lsa, P(−1/2) ning rost-yolg'onligini aniqlang.",
+   "variantlar": [
+    "Rost",
+    "Yolg'on",
+    "Aniqlanmagan",
+    "Predikat emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "D = {1, 2, 3, 4, 5} bo'lsa, ∀x∈D, x² ≥ x mulohaza rostmi?",
+   "variantlar": [
+    "Yolg'on",
+    "Rost",
+    "Aniqlanmagan",
+    "Predikat emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "∀x∈R, x² ≥ x mulohaza rostmi?",
+   "variantlar": [
+    "Rost",
+    "Aniqlanmagan",
+    "Yolg'on, x=1/2 kontrmisol bo'ladi",
+    "Predikat emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "∀xP(x) mulohazaning yolg'onligini ko'rsatish uchun nima yetarli?",
+   "variantlar": [
+    "Barcha x larni tekshirish",
+    "Faqat musbat x larni tekshirish",
+    "P(x) ni isbotlash",
+    "Bitta kontrmisol topish"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "P(x,y): \"y inson x ning sinfdoshining otasi\". ∀x∃yP(x,y) mulohaza qanday o'qiladi?",
+   "variantlar": [
+    "\"Ixtiyoriy sinfdoshning otasi bor\"",
+    "\"Hech kimning otasi yo'q\"",
+    "\"Faqat bitta sinfdoshning otasi bor\"",
+    "\"Barcha otalar bir xil\""
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "∃y∀xP(x,y) mulohaza (yuqoridagi P(x,y) uchun) qanday o'qiladi?",
+   "variantlar": [
+    "\"Hech qanday inson otasi yo'q\"",
+    "\"Shunday inson borki, u barcha sinfdoshlarning otasi bo'ladi\"",
+    "\"Har bir sinfdoshning o'z otasi bor\"",
+    "\"Otalar soni cheksiz\""
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "∀x∃yP(x,y) va ∃y∀xP(x,y) mulohazalar o'zaro mantiqiy tengkuchlimi?",
+   "variantlar": [
+    "Ha, har doim tengkuchli",
+    "Faqat x=y bo'lganda tengkuchli",
+    "Yo'q, umuman olganda tengkuchli emas",
+    "Faqat P(x,y) rost bo'lganda tengkuchli"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "∀x∀yP(x,y) va ∀y∀xP(x,y) mulohazalar o'zaro mantiqiy tengkuchlimi?",
+   "variantlar": [
+    "Yo'q, hech qachon tengkuchli emas",
+    "Faqat bitta qiymatda tengkuchli",
+    "Aniqlab bo'lmaydi",
+    "Ha, tengkuchli"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "P(x): \"x Toshkentda tug'ilgan\". ¬(∃xP(x)) mulohaza qanday o'qiladi?",
+   "variantlar": [
+    "\"Hech kim Toshkentda tug'ilmagan\"",
+    "\"Hamma Toshkentda tug'ilgan\"",
+    "\"Kimdir Toshkentda tug'ilgan\"",
+    "\"Ba'zilar Toshkentda tug'ilmagan\""
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "P(x): \"x sinfdoshim a'lochi\". ¬(∃xP(x)) qaysi mulohazaga tengkuchli?",
+   "variantlar": [
+    "∃x(¬P(x))",
+    "∀x(¬P(x)), ya'ni \"hamma sinfdoshlarim a'lochi emas\"",
+    "∀xP(x)",
+    "∃xP(x)"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "¬(∀xP(x)) qaysi mulohazaga tengkuchli?",
+   "variantlar": [
+    "∀x(¬P(x))",
+    "∀xP(x)",
+    "∃x(¬P(x))",
+    "∃xP(x)"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "\"Hamma sinfdoshlarim a'lochi ekanligi noto'g'ri\" mulohaza qaysi kvantorli ifodaga mos keladi?",
+   "variantlar": [
+    "∀xP(x)",
+    "∀x(¬P(x))",
+    "∃xP(x)",
+    "∃x(¬P(x))"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "D(m,n): \"n soni m soniga qoldiqsiz bo'linadi\" predikat berilgan. ∀m∀nD(m,n) mulohaza rostmi?",
+   "variantlar": [
+    "Yolg'on, chunki ixtiyoriy n ixtiyoriy m ga bo'linavermaydi",
+    "Rost",
+    "Aniqlanmagan",
+    "Predikat emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "D(m,n) yuqoridagi kabi. ∃m∀nD(m,n) mulohaza rostmi?",
+   "variantlar": [
+    "Yolg'on",
+    "Rost, chunki m=1 bo'lganda istalgan n soni 1 ga qoldiqsiz bo'linadi",
+    "Aniqlanmagan",
+    "Predikat emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "D(m,n) yuqoridagi kabi. ∀n∃mD(m,n) mulohaza rostmi?",
+   "variantlar": [
+    "Yolg'on",
+    "Aniqlanmagan",
+    "Rost, chunki istalgan n uchun m=n tanlansa, n soni m ga bo'linadi",
+    "Predikat emas"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "∀x∈R, ∃y∈R, x<y mulohaza rostmi?",
+   "variantlar": [
+    "Yolg'on",
+    "Aniqlanmagan",
+    "Predikat emas",
+    "Rost, chunki har qanday x uchun undan katta y topish mumkin"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "∃y∈R shundayki, barcha x∈R uchun x<y mulohaza rostmi?",
+   "variantlar": [
+    "Yolg'on, chunki barcha haqiqiy sonlardan katta bitta y mavjud emas",
+    "Rost",
+    "Aniqlanmagan",
+    "Predikat emas"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Agar ∀x∃yP(x,y) mulohaza rost bo'lsa, ∃y∀xP(x,y) mulohaza ham albatta rost bo'ladimi?",
+   "variantlar": [
+    "Ha, har doim",
+    "Yo'q, albatta rost bo'lavermaydi",
+    "Faqat P(x,y) chiziqli bo'lsa",
+    "Faqat x,y natural son bo'lsa"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

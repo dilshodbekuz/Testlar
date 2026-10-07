@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Fizika",
+ "mavzu": "Issiqlik jarayonlarining qaytmasligi. Termodinamika qonunlari",
+ "savollar": [
+  {
+   "savol": "Qaytar jarayon deb nimaga aytiladi?",
+   "variantlar": [
+    "Sistema faqat bir yo'nalishda harakatlanishi",
+    "Issiqlik miqdori issiq jismdan sovuq jismga o'tishi",
+    "Sistema oxirgi holatdan boshlang'ich holatga o'sha oraliq holatlar orqali teskari ketma-ketlikda o'tishi",
+    "Sistemaning ichki energiyasi o'zgarmasligi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Qaytmas jarayon haqida qaysi ta'rif to'g'ri?",
+   "variantlar": [
+    "Faqat gazlarda kuzatiladigan jarayon",
+    "Sistema boshlang'ich holatiga aynan o'sha yo'l bilan qaytadigan jarayon",
+    "Ishqalanishsiz bo'ladigan sof mexanik jarayon",
+    "Ma'lum qarshilikka uchraydigan yoki issiqlik uzatish bilan ro'y beradigan jarayon"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Matnga ko'ra, amalda barcha real jarayonlar qanday jarayonlardir?",
+   "variantlar": [
+    "Izotermik",
+    "Qaytmas",
+    "Qaytar",
+    "Adiabatik"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Termodinamik sistemaning ichki energiyasi deb nimaga aytiladi?",
+   "variantlar": [
+    "Faqat molekulalarning potensial energiyasi",
+    "Molekulalarning tartibsiz harakat kinetik energiyasi va o'zaro ta'sir potensial energiyasining yig'indisi",
+    "Faqat molekulalarning kinetik energiyasi",
+    "Sistemaning tashqi jismlarga nisbatan harakat energiyasi"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Odatda sistemaning ichki energiyasi qanday haroratda nolga teng deb hisoblanadi?",
+   "variantlar": [
+    "T = 273 K",
+    "T = 0 K",
+    "T = 0 °C",
+    "T = 100 K"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Termodinamikaning birinchi qonuni qanday tenglama bilan ifodalanadi?",
+   "variantlar": [
+    "Q = ΔU + A",
+    "ΔU = Q · A",
+    "A = Q / ΔU",
+    "Q = ΔU - A"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Sistemaga issiqlik miqdori berilayotgan bo'lsa, Q qanday ishora bilan olinadi?",
+   "variantlar": [
+    "Ishorasi aniqlanmaydi",
+    "Musbat",
+    "Nolga teng",
+    "Manfiy"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Agar sistema tashqi kuchlarga qarshi ish bajarayotgan bo'lsa, A ish qanday bo'ladi?",
+   "variantlar": [
+    "Musbat",
+    "Nolga teng",
+    "Cheksiz katta",
+    "Manfiy"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Termodinamikaning ikkinchi qonuni (Klauzius ta'rifi) qanday ta'riflanadi?",
+   "variantlar": [
+    "Issiqlik o'z-o'zidan past temperaturali jismdan yuqori temperaturali jismga o'tmaydi",
+    "Energiya yo'qolmaydi, faqat shaklini o'zgartiradi",
+    "Ichki energiya har doim ortib boradi",
+    "Issiqlik faqat yuqori temperaturadan pastga o'tadi va qaytmaydi degan ma'noni bildirmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Birinchi tur \"perpetuum mobile\" haqida qanday fikr yuritiladi?",
+   "variantlar": [
+    "Energiya sarflamasdan ish bajara oladigan mashina",
+    "Faqat sovutish uchun ishlatiladigan mashina",
+    "Tebranish energiyasini saqlovchi mashina",
+    "Issiqlikni to'liq ishga aylantiruvchi mashina"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Uzun ilgakka osilgan og'ir mayatnik tebranishi nima uchun qaytmas jarayon hisoblanadi?",
+   "variantlar": [
+    "Chunki mayatnikning massasi juda katta",
+    "Chunki havo bosimi o'zgaradi",
+    "Chunki ip cho'ziladi",
+    "Chunki ishqalanishni yo'qotib bo'lmaydi va mexanik energiyaning bir qismi issiqlikka aylanadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Issiq jismdan sovuq jismga issiqlik uzatilishi nega qaytmas jarayon hisoblanadi?",
+   "variantlar": [
+    "Chunki issiqlik o'z-o'zidan teskari yo'nalishda (sovuqdan issiqqa) o'ta olmaydi",
+    "Chunki ikkala jism harorati bir xil bo'lib qoladi",
+    "Chunki issiqlik energiyasi yo'qoladi",
+    "Chunki issiqlik miqdori saqlanib qolmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gaz qizdirilganda molekulalarning tezligi ortadi. Bu holat nimaga olib keladi?",
+   "variantlar": [
+    "Molekulalar orasidagi masofaning kamayishiga",
+    "Ichki energiyaning ortishiga",
+    "Ichki energiyaning kamayishiga",
+    "Mexanik energiyaning o'zgarmasligiga"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Gazning bosimi yoki solishtirma hajmi o'zgartirilsa, ichki energiya nega o'zgaradi?",
+   "variantlar": [
+    "Molekulalarning massasi o'zgargani uchun",
+    "Molekulalar orasidagi masofa o'zgarib, o'zaro ta'sir potensial energiyasi o'zgargani uchun",
+    "Molekulalar soni o'zgargani uchun",
+    "Harorat doimo o'zgarmas qolgani uchun"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qizdirilayotgan choynak misolida olingan issiqlik miqdori Q nimalarga sarflanadi?",
+   "variantlar": [
+    "Suvning ichki energiyasi ortishiga va tashqi kuchlarga qarshi bajariladigan ishga",
+    "Faqat qopqoqni ko'tarish ishiga",
+    "Faqat suvning ichki energiyasini oshirishga",
+    "Faqat choynakning qizishiga"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Mexanik energiya bilan ichki energiya o'rtasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Ikkalasi ham bir xil fizik kattalik",
+    "Ichki energiya harakatga bog'liq emas",
+    "Mexanik energiya faqat gazlarda, ichki energiya faqat qattiq jismlarda mavjud",
+    "Mexanik energiya jismning boshqa jismlarga nisbatan harakati va joylashuviga, ichki energiya esa jismni tashkil etuvchi zarralarning harakati va o'zaro joylashuviga bog'liq"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar sistemadan issiqlik miqdori olinayotgan bo'lsa, Q qanday ishora bilan olinadi?",
+   "variantlar": [
+    "Manfiy",
+    "Cheksiz",
+    "Musbat",
+    "Nolga teng"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Agar tashqi kuchlar sistema ustida ish bajarayotgan bo'lsa, A ish qanday bo'ladi?",
+   "variantlar": [
+    "Musbat",
+    "Aniqlanmaydi",
+    "Nolga teng",
+    "Manfiy"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "ΔU = Q + A' formulasida A' nimani anglatadi?",
+   "variantlar": [
+    "Tashqi kuchlarning ishi",
+    "Ichki energiyaning o'zgarishi",
+    "Issiqlik miqdori",
+    "Sistemaning bajargan ishi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Ichki energiyaning \"bir qiymatli funksiya\" ekanligi nimani anglatadi?",
+   "variantlar": [
+    "Har bir holatga ichki energiyaning aniq bir qiymati to'g'ri keladi va bu sistema o'sha holatga qanday kelganiga bog'liq emas",
+    "Ichki energiya har doim bitta songa teng bo'ladi",
+    "Ichki energiya vaqt bo'yicha o'zgarmaydi",
+    "Ichki energiya faqat bitta jarayonda hisoblanadi"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Nega tabiatda mutlaqo qaytar jarayon mavjud emas?",
+   "variantlar": [
+    "Chunki barcha real jarayonlarda ishqalanish yoki issiqlik uzatish kabi qarshiliklar mavjud bo'lib, ular energiyaning qaytmas tarzda tarqalishiga olib keladi",
+    "Chunki energiya har doim yo'qoladi",
+    "Chunki qaytar jarayonlar faqat gazlarda sodir bo'ladi",
+    "Chunki barcha jismlar harakatsiz holatda bo'ladi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Termodinamikaning birinchi va ikkinchi qonunlari o'rtasidagi asosiy farq nimada?",
+   "variantlar": [
+    "Birinchi qonun faqat gazlar uchun, ikkinchisi faqat qattiq jismlar uchun",
+    "Birinchi qonun energiyaning saqlanishini ifodalaydi, lekin jarayon yo'nalishini ko'rsatmaydi, ikkinchi qonun esa jarayonning qaysi yo'nalishda o'z-o'zidan borishini ko'rsatadi",
+    "Ikkala qonun ham faqat energiya miqdorini hisoblaydi",
+    "Ikkinchi qonun energiyaning saqlanishini, birinchisi yo'nalishini ko'rsatadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Okean suvlari misolida issiqlik o'z-o'zidan qanday yo'nalishda o'tishi mumkin?",
+   "variantlar": [
+    "Har qanday jismga, temperaturasidan qat'i nazar",
+    "Faqat temperaturasi suvnikidan pastroq bo'lgan jismga",
+    "Faqat temperaturasi suvnikidan yuqori bo'lgan jismga",
+    "Faqat o'zidan-o'ziga"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Issiqlikni temperaturasi past jismdan yuqori jismga o'tkazish uchun nima talab qilinadi?",
+   "variantlar": [
+    "Hech qanday qo'shimcha shart kerak emas, bu o'z-o'zidan sodir bo'ladi",
+    "Jismlarning massasini kamaytirish kerak",
+    "Qo'shimcha ish bajarish kerak",
+    "Faqat vaqt o'tishi kerak"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Mayatnik tebranishida kinetik energiya amalda to'la potensial energiyaga aylanadi, lekin jarayon baribir nega qaytmas hisoblanadi?",
+   "variantlar": [
+    "Chunki ip uzunligi o'zgaradi",
+    "Chunki sharcha massasi o'zgaradi",
+    "Chunki potensial energiya kinetik energiyadan katta bo'ladi",
+    "Chunki ishqalanishni to'liq yo'qotib bo'lmaydi va mexanik energiyaning bir qismi doimo issiqlikka aylanib, qaytmas tarzda atrof-muhitga tarqaladi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Gaz bir holatdan ikkinchi holatga turli yo'llar (jarayonlar) orqali o'tganda, ichki energiyaning o'zgarishi ΔU qanday bo'ladi?",
+   "variantlar": [
+    "Doimo nolga teng bo'ladi",
+    "Faqat boshlang'ich va oxirgi holatlarga bog'liq bo'lib, yo'lga bog'liq emas",
+    "Faqat bajarilgan ishga bog'liq bo'ladi",
+    "Har bir yo'l uchun har xil bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Termodinamikaning birinchi qonuni qanday umumiy qonunni ifodalaydi va bu nimani anglatadi?",
+   "variantlar": [
+    "Faqat issiqlik miqdorining saqlanishini ifodalaydi",
+    "Faqat mexanik energiyaning saqlanishini ifodalaydi va abadiy dvigatel yasash mumkinligini ko'rsatadi",
+    "Entropiyaning doimo ortib borishini ifodalaydi",
+    "Energiyaning saqlanish va aylanish qonunini ifodalaydi hamda birinchi tur \"perpetuum mobile\" yasab bo'lmasligini ko'rsatadi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qaytar jarayonga misol sifatida matnda qanday holat keltirilgan?",
+   "variantlar": [
+    "Gazning erkin kengayishi",
+    "Qattiq jismning erishi",
+    "Issiq jismdan sovuq jismga issiqlik uzatilishi",
+    "Ishqalanishsiz bo'ladigan sof mexanik jarayonlar, masalan, uzun ilgakka osilgan og'ir mayatnikning tebranishi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nega amaliy jarayonlarda mexanik energiyaning bir qismi doim issiqlikka aylanadi?",
+   "variantlar": [
+    "Chunki jismlarning massasi kamayadi",
+    "Chunki harorat doimo nolga teng bo'ladi",
+    "Chunki energiya umuman saqlanmaydi",
+    "Chunki ishqalanish kuchini to'liq yo'qotib bo'lmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Termodinamikaning ikkinchi qonuniga ko'ra, issiqlik o'z-o'zidan qaysi yo'nalishda o'tadi va bu qanday xulosaga olib keladi?",
+   "variantlar": [
+    "Issiqlik ikkala yo'nalishda ham bab-baravar erkin o'tadi",
+    "Issiqlik o'z-o'zidan yuqori temperaturali jismdan past temperaturali jismga o'tadi, aksincha yo'nalish uchun qo'shimcha ish talab etiladi, demak jarayonlar ma'lum yo'nalishda qaytmas tarzda sodir bo'ladi",
+    "Issiqlik faqat past temperaturadan yuqoriga o'tadi",
+    "Issiqlik o'tishi haroratga bog'liq emas"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

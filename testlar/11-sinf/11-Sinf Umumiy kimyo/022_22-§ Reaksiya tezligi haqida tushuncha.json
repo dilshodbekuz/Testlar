@@ -1,0 +1,337 @@
+{
+  "sinf": "11-sinf",
+  "kitob": "11-sinf 11-Sinf Umumiy kimyo",
+  "mavzu": "22-§ Reaksiya tezligi haqida tushuncha",
+  "savollar": [
+    {
+      "savol": "Reaksiyaning o'rtacha tezligi formulasi (konsentratsiya bo'yicha) qaysi?",
+      "variantlar": [
+        "v = (t1 − t2) / (C1 − C2)",
+        "v = (C1 + C2) / (t1 + t2)",
+        "v = (C1 − C2) / (t1 − t2)",
+        "v = C1 × C2 / (t1 − t2)"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Reaksiyaning o'rtacha tezligi birligi qaysi?",
+      "variantlar": [
+        "mol/l",
+        "g/mol",
+        "%",
+        "mol/(l·min) yoki mol/(l·s)"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Reaksiya tezligi v = Δn / (V·Δt) formulasida Δn nima?",
+      "variantlar": [
+        "Modda miqdorining o'zgarishi (mol)",
+        "Modda massasining o'zgarishi (g)",
+        "Idish hajmi (l)",
+        "Reaksiya harorati"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Reaksiya tezligi v = Δn / (V·Δt) formulasida V nima?",
+      "variantlar": [
+        "Moddaning molar massasi",
+        "Reaksiya o'tkaziladigan idish hajmi (l)",
+        "Reaksiya vaqti",
+        "Eritma zichligi"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Reaksiya o'rtacha tezligini aniqlash uchun qaysi ma'lumotlar kerak?",
+      "variantlar": [
+        "Faqat reaksiya harorati",
+        "Faqat moddaning massasi",
+        "Hosil bo'lgan yoki sarflangan modda miqdori, reaksiya vaqti va idish hajmi",
+        "Faqat idish shakli"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "BaCl2 + H2SO4 = BaSO4↓ + 2HCl reaksiyasi qanday tezlikda boradi?",
+      "variantlar": [
+        "Juda sekin",
+        "Bir necha kun davomida",
+        "Bir necha yil davomida",
+        "Juda tez"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Temirning korroziyasi qanday tezlikda boradi?",
+      "variantlar": [
+        "Juda sekin",
+        "Juda tez",
+        "Portlash bilan",
+        "Bir zumda"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Poroxning yonishi qanday tezlikda boradi?",
+      "variantlar": [
+        "Juda sekin",
+        "Juda tez (portlash bilan)",
+        "Bir necha yil",
+        "Bir necha oy"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Reaksiya tezligi formulasida Δt nimani bildiradi?",
+      "variantlar": [
+        "Eritma harorati",
+        "Idish hajmi",
+        "Reaksiya o'tkazilgan vaqt oralig'i",
+        "Modda massasi"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Reaksiya tezligi v = ΔC / Δt formulasida ΔC nimani bildiradi?",
+      "variantlar": [
+        "Modda massasi (g)",
+        "Modda hajmi (l)",
+        "Reaksiya harorati",
+        "Ma'lum vaqt oralig'idagi konsentratsiyalar farqi (mol/l)"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Hajmi 3 l, 11,5 mol NH3 bo'lgan idishda 90 s dan so'ng 2,5 mol NH3 qolgan (ammiak miqdori kamaygan). Reaksiyaning o'rtacha tezligi necha mol/(l·min)?",
+      "variantlar": [
+        "2 mol/(l·min)",
+        "9 mol/(l·min)",
+        "0,5 mol/(l·min)",
+        "1,5 mol/(l·min)"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 5 l bo'lgan idishda reaksiya 0,1 min davom etdi va moddaning miqdori 80 mol dan 5 mol ga kamaydi. O'rtacha tezlik necha mol/(l·s)?",
+      "variantlar": [
+        "75 mol/(l·s)",
+        "2,5 mol/(l·s)",
+        "0,5 mol/(l·s)",
+        "15 mol/(l·s)"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 8 l bo'lgan reaktorda 3 mol/(l·min) tezlik bilan reaksiya borganda 104 mol dan 8 mol ga kamaygan modda uchun reaksiya necha minut davom etadi?",
+      "variantlar": [
+        "2 min",
+        "8 min",
+        "4 min",
+        "12 min"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 2 l idishda 0,6 mol modda 3 min davomida hosil bo'ldi. O'rtacha tezlik necha mol/(l·min)?",
+      "variantlar": [
+        "0,3 mol/(l·min)",
+        "0,9 mol/(l·min)",
+        "1,2 mol/(l·min)",
+        "0,1 mol/(l·min)"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 4 l idishda 8 mol modda 20 s davomida sarflandi. O'rtacha tezlik necha mol/(l·s)?",
+      "variantlar": [
+        "0,1 mol/(l·s)",
+        "0,4 mol/(l·s)",
+        "2 mol/(l·s)",
+        "0,2 mol/(l·s)"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 2 l idishda 0,5 mol/(l·min) tezlik bilan reaksiya 4 min davom etdi. Sarflangan modda miqdori necha mol?",
+      "variantlar": [
+        "2 mol",
+        "4 mol",
+        "0,25 mol",
+        "8 mol"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Konsentratsiya 2 mol/l dan 0,5 mol/l gacha kamaygan, reaksiya 3 min davom etgan. O'rtacha tezlik necha mol/(l·min)?",
+      "variantlar": [
+        "0,25 mol/(l·min)",
+        "1,5 mol/(l·min)",
+        "0,5 mol/(l·min)",
+        "2 mol/(l·min)"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Konsentratsiya 3 mol/l dan 1 mol/l gacha kamaygan, reaksiya 4 s davom etgan. O'rtacha tezlik necha mol/(l·s)?",
+      "variantlar": [
+        "2 mol/(l·s)",
+        "0,25 mol/(l·s)",
+        "1 mol/(l·s)",
+        "0,5 mol/(l·s)"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 10 l idishda 20 mol modda 5 min davomida hosil bo'ldi. O'rtacha tezlik necha mol/(l·min)?",
+      "variantlar": [
+        "0,4 mol/(l·min)",
+        "2 mol/(l·min)",
+        "0,2 mol/(l·min)",
+        "4 mol/(l·min)"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 5 l idishda tezlik 0,2 mol/(l·min) bo'lib, 2 min davom etdi. Shu vaqt ichida hosil bo'lgan modda miqdori necha mol?",
+      "variantlar": [
+        "0,5 mol",
+        "2 mol",
+        "1 mol",
+        "4 mol"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Hajmi 4 l idishda 18 mol gaz bo'lib, 75 s dan so'ng 8 mol qoldi. O'rtacha tezlik necha mol/(l·min)?",
+      "variantlar": [
+        "0,033 mol/(l·min)",
+        "10 mol/(l·min)",
+        "2 mol/(l·min)",
+        "1,25 mol/(l·min)"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Hajmi 2 l idishda tezlik 0,8 mol/(l·s) bo'lib, 15 s davom etdi. Δn necha mol?",
+      "variantlar": [
+        "12 mol",
+        "0,8 mol",
+        "48 mol",
+        "24 mol"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Konsentratsiya 4 mol/l dan 1 mol/l gacha kamaydi va bu 1,5 min davom etdi. O'rtacha tezlik necha mol/(l·min)?",
+      "variantlar": [
+        "2 mol/(l·min)",
+        "0,5 mol/(l·min)",
+        "3 mol/(l·min)",
+        "6 mol/(l·min)"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Hajmi 3 l idishda modda miqdori 60 mol dan 30 mol gacha 2 min davomida kamaydi. O'rtacha tezlik necha mol/(l·min)?",
+      "variantlar": [
+        "10 mol/(l·min)",
+        "5 mol/(l·min)",
+        "2,5 mol/(l·min)",
+        "15 mol/(l·min)"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Hajmi 10 l idishda 60 mol modda 40 s davomida sarflandi. O'rtacha tezlik necha mol/(l·min)?",
+      "variantlar": [
+        "0,15 mol/(l·min)",
+        "6 mol/(l·min)",
+        "9 mol/(l·min)",
+        "24 mol/(l·min)"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Hajmi 5 l idishda 5 mol metan 120 s davomida 3 mol ga kamaygan. O'rtacha tezlik necha mol/(l·min)?",
+      "variantlar": [
+        "0,4 mol/(l·min)",
+        "0,1 mol/(l·min)",
+        "2 mol/(l·min)",
+        "0,2 mol/(l·min)"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Hajmi 0,25 l idishda 22 mol HCl bo'lib, 30 s dan so'ng 7 mol qoldi. O'rtacha tezlik necha mol/(l·min)?",
+      "variantlar": [
+        "120 mol/(l·min)",
+        "15 mol/(l·min)",
+        "60 mol/(l·min)",
+        "30 mol/(l·min)"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Hajmi 7 l idishda 30 mol H2 bo'lib, 20 s davomida 2 mol gacha kamaydi. O'rtacha tezlik necha mol/(l·min)?",
+      "variantlar": [
+        "28 mol/(l·min)",
+        "12 mol/(l·min)",
+        "1,6 mol/(l·min)",
+        "24 mol/(l·min)"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Hajmi 9 l idishda metan 45 s davomida 25 mol dan 4,75 mol gacha kamaydi (0,009 m³ idish). O'rtacha tezlik necha mol/(l·min)?",
+      "variantlar": [
+        "1 mol/(l·min)",
+        "6 mol/(l·min)",
+        "3 mol/(l·min)",
+        "0,5 mol/(l·min)"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Hajmi 5 l idishda metan 90 s davomida 9 mol dan 3 mol gacha kamaydi. O'rtacha tezlik necha mol/(l·min)?",
+      "variantlar": [
+        "0,4 mol/(l·min)",
+        "1,6 mol/(l·min)",
+        "6 mol/(l·min)",
+        "0,8 mol/(l·min)"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    }
+  ]
+}

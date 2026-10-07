@@ -1,0 +1,337 @@
+{
+  "sinf": "11-sinf",
+  "kitob": "11-sinf 11-Sinf Informatika",
+  "mavzu": "32-dars. Elektron pochta xizmati tuzilmasi",
+  "savollar": [
+    {
+      "savol": "Elektron pochta o'z faoliyatini qaysi yillardan boshlagan?",
+      "variantlar": [
+        "O'tgan asrning 70-yillaridan",
+        "50-yillaridan",
+        "80-yillaridan",
+        "90-yillaridan"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "MUA (Mail User Agent) nima?",
+      "variantlar": [
+        "Lokal tarmoq yetkazuvchi agentligi",
+        "Foydalanuvchining agenti sifatida xatlarni tayyorlash, uzatish va qabul qilish",
+        "Internetdagi DNS serveri",
+        "Xabar jo'natish agentligi"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "MSA (Message Submission Agent) nima?",
+      "variantlar": [
+        "Foydalanuvchi agenti",
+        "Lokal yetkazuvchi agent",
+        "Xabar jo'natish agentligi",
+        "Internet serveri"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "MTA (Mail Transfer Agent) nima?",
+      "variantlar": [
+        "Foydalanuvchi kompyuterining ekrani",
+        "Pochta qutisining paroli",
+        "Kompyuter virusi",
+        "Pochta serveri, elektron xabarlarni Internet tizimidan o'tkazib boruvchi tugun"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "LDA (Local Delivery Agent) nima?",
+      "variantlar": [
+        "Lokal tarmoq orqali yetkazuvchi agentlik",
+        "Internet xavfsizlik devori",
+        "Xabar jo'natuvchi server",
+        "Foydalanuvchi o'yini"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Elektron pochta tuzilmasida DNS nima sifatida ko'rsatilgan?",
+      "variantlar": [
+        "Foydalanuvchi kompyuteri",
+        "Internet server",
+        "Xotira diski",
+        "Printer"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "yandex.ru foydalanuvchisiga server diskidan qancha xotira ajratiladi?",
+      "variantlar": [
+        "8 GB",
+        "15 GB",
+        "10 GB",
+        "5 GB"
+      ],
+      "togri": 2,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "gmail.com foydalanuvchisiga qancha xotira ajratiladi?",
+      "variantlar": [
+        "10 GB",
+        "8 GB",
+        "20 GB",
+        "15 GB"
+      ],
+      "togri": 3,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "O'zbekistonda .uz domenida xat olish va yuborishga ommalashgan web-saytlardan biri qaysi?",
+      "variantlar": [
+        "umail.uz",
+        "gmail.com",
+        "yandex.ru",
+        "mail.ru"
+      ],
+      "togri": 0,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "Elektron pochta manzilining umumiy tuzilmasi qaysi ko'rinishda?",
+      "variantlar": [
+        "sayt_nomi/pochta_nomi.html",
+        "pochta_nomi@sayt_nomi.domen",
+        "pochta_nomi#sayt_nomi.exe",
+        "sayt_nomi:pochta_nomi.doc"
+      ],
+      "togri": 1,
+      "qiyinlik": "oson"
+    },
+    {
+      "savol": "MTA uzatilayotgan xabarlarni qayta ishlab, nimaga tekshiradi?",
+      "variantlar": [
+        "Ekran yorqinligiga",
+        "Klaviatura tilini",
+        "Printer modeliga",
+        "Virusga va anonim xat (spam) larga"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "MTA vazifalarini bajaruvchi dasturlardan biri qaysi?",
+      "variantlar": [
+        "Postfix",
+        "Microsoft Word",
+        "Adobe Photoshop",
+        "Paint"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "MUA sifatida ishlatiladigan dasturlardan biri qaysi?",
+      "variantlar": [
+        "Microsoft Excel",
+        "Microsoft Outlook",
+        "Adobe Photoshop",
+        "Notepad"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Elektron pochta orqali qanday fayllarni jo'natish mumkin?",
+      "variantlar": [
+        "Faqat matnli fayllarni",
+        "Faqat rasmlarni",
+        "Matn, jadval, chizma, tovush va video fayllarni",
+        "Hech narsani"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Shaxsiy pochta qutisi nimaga mo'ljallangan?",
+      "variantlar": [
+        "Kompyuterning ichki xotirasini oshirishga",
+        "Dasturlarni o'chirishga",
+        "Printerni boshqarishga",
+        "Kiruvchi va chiquvchi xatlarni saqlashga"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "umail.uz da pochta ochish uchun ID.uz saytiga kirilgach qaysi yozuv tanlanadi?",
+      "variantlar": [
+        "Ro'yxatdan o'tish Parolni qayta tiklash",
+        "Dasturni o'chirish",
+        "Oynani yopish",
+        "Tilni o'zgartirish"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Ro'yxatdan o'tishda kiritilgan telefon raqamiga nima yuboriladi?",
+      "variantlar": [
+        "Yangi dastur",
+        "Tasdiqlash kodi",
+        "Virus",
+        "Rasm fayli"
+      ],
+      "togri": 1,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Internetda elektron manzilni yaratish uchun nima qilish kerak?",
+      "variantlar": [
+        "Kompyuterni o'chirish",
+        "Printerni ulash",
+        "Pochta yaratiladigan saytdan ro'yxatdan o'tish",
+        "Klaviaturani almashtirish"
+      ],
+      "togri": 2,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Elektron pochta orqali nima qilish mumkin?",
+      "variantlar": [
+        "Faqat o'yin o'ynash",
+        "Faqat kompyuterni sovutish",
+        "Faqat ekran rangini o'zgartirish",
+        "Ma'lumotlarni jo'natish va qabul qilish"
+      ],
+      "togri": 3,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Pochta ochishda foydalanuvchining qaysi ma'lumotlari kiritiladi?",
+      "variantlar": [
+        "Login, familiya, ism, otasining ismi",
+        "Faqat rasmi",
+        "Faqat tug'ilgan joyi",
+        "Faqat ish joyi"
+      ],
+      "togri": 0,
+      "qiyinlik": "o'rtacha"
+    },
+    {
+      "savol": "Ro'yxatdan o'tish oynasidagi qatorlar to'ldirilgach, qaysi tugma bosiladi?",
+      "variantlar": [
+        "O'chirish",
+        "Yopish",
+        "Jo'natish",
+        "Ortga qaytish"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Elektron pochta xizmati uchun .uz domenida umail.uz bilan birga ko'rsatilgan boshqa sayt qaysi?",
+      "variantlar": [
+        "gmail.com",
+        "yandex.ru",
+        "mail.ru",
+        "inbox.uz"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "MTA manzillarni tahlil qilib qanday vazifani bajaradi?",
+      "variantlar": [
+        "Xabar marshrutini aniqlaydi",
+        "Printerni yoqadi",
+        "Klaviaturani bo'yaydi",
+        "Monitorni o'chiradi"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Server diskidagi maydon nimani ko'rsatadi?",
+      "variantlar": [
+        "Monitor o'lchamini",
+        "Foydalanuvchiga ajratilgan xotira hajmini",
+        "Klaviatura tilini",
+        "Printer tezligini"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "MTA va DNS o'rtasida qanday bog'lanish ko'rsatilgan?",
+      "variantlar": [
+        "Hech qanday bog'lanish yo'q",
+        "Faqat bir tomonlama bog'lanish",
+        "Ikki tomonlama bog'lanish",
+        "Faqat simsiz bog'lanish"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "CGI interfeysi va HTTPS protokollari asosida nima amalga oshiriladi?",
+      "variantlar": [
+        "Kompyuter korpusini yig'ish",
+        "Printer drayverini o'rnatish",
+        "Klaviatura tilini almashtirish",
+        "Web-brauzer yordamida faoliyat yuritadigan agentlar"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "MSA qaysi bosqichda ishlaydi?",
+      "variantlar": [
+        "Xabar jo'natish bosqichida",
+        "Xabarni o'chirish bosqichida",
+        "Xabarni chop etish bosqichida",
+        "Ekranni yangilash bosqichida"
+      ],
+      "togri": 0,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Elektron pochta tizimidagi \"Xabar saqlash\" diski nima uchun ishlatiladi?",
+      "variantlar": [
+        "Monitor yorqinligini sozlash uchun",
+        "Kiruvchi va chiquvchi xabarlarni saqlash uchun",
+        "Klaviatura tugmalarini almashtirish uchun",
+        "Printer qog'ozini boshqarish uchun"
+      ],
+      "togri": 1,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Elektron pochta manzilini ro'yxatdan o'tkazish uchun qaysi sayt yordamida tasdiqlash kodi olinadi?",
+      "variantlar": [
+        "Google.com",
+        "Wikipedia.org",
+        "ID.uz",
+        "YouTube.com"
+      ],
+      "togri": 2,
+      "qiyinlik": "qiyin"
+    },
+    {
+      "savol": "Elektron pochta serverida xabarlar qaysi usul bilan qabul qilinadi?",
+      "variantlar": [
+        "Faqat printer orqali",
+        "Faqat klaviatura orqali",
+        "Faqat disk yordamida",
+        "MTA va LDA orqali"
+      ],
+      "togri": 3,
+      "qiyinlik": "qiyin"
+    }
+  ]
+}

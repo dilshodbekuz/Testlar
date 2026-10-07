@@ -1,0 +1,337 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Fizika",
+ "mavzu": "Vakuumda elektr toki",
+ "savollar": [
+  {
+   "savol": "Vakuumda elektr toki nima?",
+   "variantlar": [
+    "Protonlar oqimining tartibli harakati",
+    "Elektronlar oqimining tartibli harakati",
+    "Molekulalar oqimining tartibsiz harakati",
+    "Ionlar oqimining tartibsiz harakati"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektron lampada manbaning musbat qutbiga ulangan elektrod qanday ataladi?",
+   "variantlar": [
+    "Qizdirgich",
+    "Galvanometr",
+    "Katod",
+    "Anod"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Elektron lampada manbaning manfiy qutbiga ulangan elektrod qanday ataladi?",
+   "variantlar": [
+    "Anod",
+    "Diod",
+    "Katod",
+    "Qizdirgich"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Metallarning qizishi tufayli ulardan elektron uchib chiqish hodisasi qanday ataladi?",
+   "variantlar": [
+    "Induktsiya",
+    "Fotoeffekt",
+    "Termoelektron emissiya",
+    "Elektroliz"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Anod va katoddan iborat vakuumli lampa qanday ataladi?",
+   "variantlar": [
+    "Diod",
+    "Triod",
+    "Transistor",
+    "Tetrod"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Istalgan elektron asbobning xossasi nima bilan belgilanadi?",
+   "variantlar": [
+    "Volt-amper xarakteristikasi bilan",
+    "Rangi bilan",
+    "Og'irligi bilan",
+    "Shakli bilan"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Diod volt-amper xarakteristikasidagi 2-sohada o'zgarmay qolgan tok qanday nomlanadi?",
+   "variantlar": [
+    "Boshlang'ich tok",
+    "To'yinish toki",
+    "Minimal tok",
+    "Qisqa tutashuv toki"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Vakuumli lampa ichidagi bosim qanday darajada bo'lishi kerak?",
+   "variantlar": [
+    "p = 760 mm sim.ust.",
+    "p = 1 mm sim.ust.",
+    "p >> 10 mm sim.ust.",
+    "p << 10^-13 mm sim.ust."
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Katodni qizdirish uchun ishlatiladigan maxsus elementning nomi nima?",
+   "variantlar": [
+    "Rezistor",
+    "Shunt",
+    "Qizdirgich",
+    "Anod"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Boguslavskiy-Lengmyur formulasi (I_a=kU^3/2) qaysi bog'liqlikni ifodalaydi?",
+   "variantlar": [
+    "Tok kuchining temperaturaga bog'liqligini",
+    "Qarshilikning uzunlikka bog'liqligini",
+    "EYuKning ichki qarshilikka bog'liqligini",
+    "Anod tokining anod kuchlanishiga bog'liqligini (1-sohada)"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson"
+  },
+  {
+   "savol": "Katod qizdirilmagan holda anod va katod oralig'iga kuchlanish qo'yilsa, galvanometr nimani ko'rsatadi?",
+   "variantlar": [
+    "O'zgaruvchan tok",
+    "Katta tok",
+    "To'yinish tokini",
+    "Tok yo'qligini"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Anod manbaning manfiy qutbiga, katod esa musbat qutbga ulansa, zanjirda nima sodir bo'ladi?",
+   "variantlar": [
+    "Tok ikki marta ortadi",
+    "To'yinish toki hosil bo'ladi",
+    "Tok o'tadi",
+    "Tok o'tmaydi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Anod va katod oralig'idagi kuchlanish nolga teng bo'lganda katod atrofida nima hosil bo'ladi?",
+   "variantlar": [
+    "Magnit maydon",
+    "To'yinish toki",
+    "Issiqlik maydoni",
+    "Elektron bulut"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Diodning volt-amper xarakteristikasi 1-sohasida kuchlanish ortishi bilan anod toki qanday o'zgaradi?",
+   "variantlar": [
+    "Kamayadi",
+    "Ortadi",
+    "Nolga teng bo'ladi",
+    "O'zgarmaydi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Diodning volt-amper xarakteristikasi 2-sohasida kuchlanishning ortishi anod tokiga qanday ta'sir qiladi?",
+   "variantlar": [
+    "Nolga tushiradi",
+    "Sezilarli ta'sir ko'rsatmaydi",
+    "Sezilarli ortiradi",
+    "Kamaytiradi"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qizdirgich kuchlanishi 4V dan 6V ga oshirilib, temperatura T1 dan T2 ga (T2>T1) ko'tarilsa, to'yinish tokining qiymati qanday o'zgaradi?",
+   "variantlar": [
+    "O'zgarmaydi",
+    "Nolga tushadi",
+    "Ortadi",
+    "Kamayadi"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qalpoq ichidagi havoni nima uchun so'rib olish kerak?",
+   "variantlar": [
+    "Galvanometr buzilmasligi uchun",
+    "Elektrodlar sovib qolmasligi uchun",
+    "Anod qizib ketmasligi uchun",
+    "Molekulalar elektronlar bilan to'qnashmasligi uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Diod necha ta elektroddan iborat?",
+   "variantlar": [
+    "Bitta",
+    "Ikkita",
+    "To'rtta",
+    "Uchta"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "To'yinish toki vaqtida katoddan uchib chiqqan elektronlarning qanchasi anodga yetib boradi?",
+   "variantlar": [
+    "Yarmi",
+    "Juda kam qismi",
+    "Hech biri",
+    "Barchasi"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Yarim o'tkazgichli diodlar ishlab chiqarilmasidan oldin vakuumli diodlardan qaysi maqsadda foydalanilgan?",
+   "variantlar": [
+    "Tok kuchini o'lchash uchun",
+    "Issiqlik ishlab chiqarish uchun",
+    "Kuchlanishni oshirish uchun",
+    "O'zgaruvchan tokni to'g'rilash uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha"
+  },
+  {
+   "savol": "Qizdirgich kuchlanishi oshirilib temperatura T1 dan T2 ga (T2>T1) ko'tarilganda, to'yinish tokining ortishiga asosiy sabab nima?",
+   "variantlar": [
+    "Vakuum darajasi yaxshilanadi",
+    "Katoddan vaqt birligida uchib chiqadigan elektronlar soni ortadi",
+    "Elektronlar massasi kamayadi",
+    "Anod kuchlanishi avtomatik ortadi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Diod xarakteristikasining to'yinish sohasida kuchlanish ortishi tokka sezilarli ta'sir ko'rsatmasligining sababi nima?",
+   "variantlar": [
+    "Berilgan temperaturada emissiya qilingan barcha elektronlar allaqachon anodga yetib bo'lgan, ortiqcha elektron yo'q",
+    "Katod sovib qoladi",
+    "Qarshilik cheksiz ortib ketadi",
+    "Elektronlar anodga yetishga ulgurmaydi"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Anod-katod oralig'iga kuchlanish qo'yilgan, lekin katod qizdirilmagan tajribada galvanometr tok yo'qligini ko'rsatishi nimani isbotlaydi?",
+   "variantlar": [
+    "Galvanometr buzuq ekanligini",
+    "Vakuumda erkin tok tashuvchi zaryadli zarralar mavjud emasligini",
+    "Elektrodlar orasida qisqa tutashuv borligini",
+    "Manbada EYuK yo'qligini"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Nima uchun qizdirgich anod zanjiridan alohida, mustaqil elektr toki bilan ta'minlanadi?",
+   "variantlar": [
+    "Galvanometrni himoyalash uchun",
+    "Qizdirgichni sovutish uchun",
+    "Anod tokini kamaytirish uchun",
+    "Qizdirgich temperaturasini anod kuchlanishidan mustaqil boshqarish uchun"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Elektronlar katoddan anod tomon qanday sabab bilan tezlanish bilan harakatlanadi?",
+   "variantlar": [
+    "Og'irlik kuchi ta'sirida",
+    "Anod va katod oralig'iga qo'yilgan elektr maydon ta'sirida",
+    "Issiqlik tarqalishi natijasida",
+    "Magnit maydon ta'sirida"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Qalpoq ichidagi bosim talab darajadan (p<<10^-13 mm sim.ust.) ancha yuqori qolib ketsa, nima sodir bo'ladi?",
+   "variantlar": [
+    "Anod qizib ketadi",
+    "Elektronlar molekulalar bilan to'qnashib, erkin harakatlana olmaydi",
+    "To'yinish toki cheksiz ortadi",
+    "Katod sovib qoladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Diodning volt-amper xarakteristikasi nima uchun to'g'ri chiziqli (Om qonuniga mos) emas?",
+   "variantlar": [
+    "Anod materiali o'zgaruvchi bo'lgani uchun",
+    "Galvanometr noto'g'ri ishlagani uchun",
+    "Kuchlanish ortishi bilan tok avval I_a=kU^3/2 qonuni bo'yicha ortadi, so'ng to'yinishga chiqib o'zgarmay qoladi",
+    "Katodda qarshilik nol bo'lgani uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "T1 va T2 (T2>T1) temperaturalardagi ikki xarakteristikani solishtirganda, qaysi xulosaga kelish mumkin?",
+   "variantlar": [
+    "Temperatura to'yinish tokiga ta'sir qilmaydi",
+    "Yuqori temperaturada to'yinish toki kattaroq, chunki ko'proq elektron emissiya qilinadi",
+    "Ikki holatda ham to'yinish toki bir xil bo'ladi",
+    "Yuqori temperaturada to'yinish toki kichikroq bo'ladi"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Anod musbat, katod manfiy qutbga ulanganda tok o'tadi, lekin teskari ulanganda tok o'tmaydi. Bu diodning qaysi xususiyatini ko'rsatadi?",
+   "variantlar": [
+    "Diod ikki tomonlama tok o'tkazadi",
+    "Diod tokni kuchaytiradi",
+    "Diod faqat bir yo'nalishda tok o'tkazadi (bir tomonlama o'tkazuvchanlik)",
+    "Diod faqat o'zgaruvchan tokda ishlamaydi"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin"
+  },
+  {
+   "savol": "Vakuumli diodning bir tomonlama o'tkazuvchanlik xususiyati asosida uning qaysi amaliy qo'llanilishi kelib chiqadi?",
+   "variantlar": [
+    "Kuchlanishni kamaytirish",
+    "O'zgaruvchan tokni o'zgarmas tokka aylantirish (to'g'rilash)",
+    "Qarshilikni o'lchash",
+    "Magnit maydon hosil qilish"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin"
+  }
+ ]
+}

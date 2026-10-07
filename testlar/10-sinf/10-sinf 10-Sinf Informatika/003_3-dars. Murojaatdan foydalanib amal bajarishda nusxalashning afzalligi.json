@@ -1,0 +1,367 @@
+{
+ "sinf": "10-sinf",
+ "kitob": "10-sinf 10-Sinf Informatika",
+ "mavzu": "3-dars. Murojaatdan foydalanib amal bajarishda nusxalashning afzalligi",
+ "savollar": [
+  {
+   "savol": "3-dars qanday nomlanadi?",
+   "variantlar": [
+    "Murojaatdan foydalanib amal bajarishda nusxalashning afzalligi",
+    "Katakka murojaat turlari",
+    "Formulalar satridan foydalanish",
+    "Statistik funksiyalar"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 1
+  },
+  {
+   "savol": "Murojaatlardan foydalanib nusxalashning asosiy afzalligi nima?",
+   "variantlar": [
+    "Xotirani tozalash",
+    "Bajariladigan amallarni bir munchaga osonlashtirish",
+    "Faylni kichraytirish",
+    "Dasturni tezlashtirish"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 2
+  },
+  {
+   "savol": "1-mashqda nechta ustun va nechta satrli jadval hosil qilinadi?",
+   "variantlar": [
+    "O‘nta ustun va beshta satr",
+    "Uchta ustun va ikkita satr",
+    "To‘qqizta ustun va oltita satr",
+    "Beshta ustun va to‘rtta satr"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 3
+  },
+  {
+   "savol": "1-mashqda nima hisoblanadi?",
+   "variantlar": [
+    "a sonining logarifmini hisoblash",
+    "a sonining kosinusini hisoblash",
+    "a sonining faktorialini hisoblash",
+    "a sonini 9-darajasigacha hisoblash"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 4
+  },
+  {
+   "savol": "A ustunga nima kiritiladi?",
+   "variantlar": [
+    "a sonining qiymatlari",
+    "Darajalar nomi",
+    "Formulalar ro‘yxati",
+    "Natijalar jami"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 5
+  },
+  {
+   "savol": "Ikkinchi satr kataklari birlashtirilib qanday matn yoziladi?",
+   "variantlar": [
+    "“Nusxalash natijasi”",
+    "“Berilgan sonning darajalarini hisoblash”",
+    "“Jami natija”",
+    "“Formulalar jadvali”"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 6
+  },
+  {
+   "savol": "Ikkinchi satr kataklarini birlashtirish uchun qaysi tugmadan foydalaniladi?",
+   "variantlar": [
+    "Filtr tugmasi",
+    "Diagramma tugmasi",
+    "Birlashtirib markazga joylashtirish tugmasi",
+    "Saralash tugmasi"
+   ],
+   "togri": 2,
+   "qiyinlik": "oson",
+   "n": 7
+  },
+  {
+   "savol": "B4 katakka qanday formula kiritiladi?",
+   "variantlar": [
+    "=A4+A4",
+    "=A4/A4",
+    "=A4^A4",
+    "=$A4*A4"
+   ],
+   "togri": 3,
+   "qiyinlik": "oson",
+   "n": 8
+  },
+  {
+   "savol": "B4 katakdagi formula nimani hisoblaydi?",
+   "variantlar": [
+    "Berilgan sonning kvadratini",
+    "Berilgan sonning kubini",
+    "Berilgan sonning ildizini",
+    "Berilgan sonning yarmini"
+   ],
+   "togri": 0,
+   "qiyinlik": "oson",
+   "n": 9
+  },
+  {
+   "savol": "Kiritilgan matn katakka sig‘may qolsa, qaysi tugmadan foydalaniladi?",
+   "variantlar": [
+    "Maxsus qo‘yish",
+    "Perenos teksta (matnni ko‘chirish)",
+    "Formulalar satri",
+    "Mastеr funksiy"
+   ],
+   "togri": 1,
+   "qiyinlik": "oson",
+   "n": 10
+  },
+  {
+   "savol": "B4 katakdagi formula qaysi katakkacha pastga nusxalanadi?",
+   "variantlar": [
+    "B5 katakkacha",
+    "B20 katakkacha",
+    "B7 katakkacha",
+    "B10 katakkacha"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 11
+  },
+  {
+   "savol": "B7 katakdagi formula keyin qayerga nusxalanadi?",
+   "variantlar": [
+    "A1:A10 oraliqqa, pastga qarab",
+    "C1 katakkagina",
+    "Boshqa varaqqa",
+    "B7:I7 oraliqqa, o‘ngga qarab"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 12
+  },
+  {
+   "savol": "Nusxalash amali qanday bajariladi?",
+   "variantlar": [
+    "Katak o‘ng pastki burchagiga sichqoncha ko‘rsatkichini keltirib, chap tugmani bosib siljitish orqali",
+    "Klaviaturada faqat Enter bosish orqali",
+    "Katakni o‘chirib qayta yozish orqali",
+    "Faqat menyudan Saqlash tugmasi orqali"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 13
+  },
+  {
+   "savol": "1-mashqda A ustunida qanday sonlar berilgan?",
+   "variantlar": [
+    "0, 1, 2, 3",
+    "2, 3, 4, 5",
+    "1, 2, 3, 4",
+    "5, 10, 15, 20"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 14
+  },
+  {
+   "savol": "a=2 bo‘lganda jadvaldagi a⁹ (9-daraja) qiymati nechaga teng?",
+   "variantlar": [
+    "1024",
+    "128",
+    "512",
+    "256"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 15
+  },
+  {
+   "savol": "a=3 bo‘lganda a⁵ (5-daraja) qiymati nechaga teng?",
+   "variantlar": [
+    "81",
+    "729",
+    "27",
+    "243"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 16
+  },
+  {
+   "savol": "a=4 bo‘lganda a² (kvadrati) qiymati nechaga teng?",
+   "variantlar": [
+    "16",
+    "8",
+    "64",
+    "12"
+   ],
+   "togri": 0,
+   "qiyinlik": "o'rtacha",
+   "n": 17
+  },
+  {
+   "savol": "a=5 bo‘lganda a⁹ (9-daraja) qiymati nechaga teng?",
+   "variantlar": [
+    "9765625",
+    "1953125",
+    "390625",
+    "78125"
+   ],
+   "togri": 1,
+   "qiyinlik": "o'rtacha",
+   "n": 18
+  },
+  {
+   "savol": "=$A4*A4 formulasida $ belgisi nima uchun ishlatiladi?",
+   "variantlar": [
+    "Formulani yashirish uchun",
+    "Katakni bo‘yash uchun",
+    "A ustunini absolut (o‘zgarmas) qilib belgilash uchun",
+    "Qatorni o‘chirish uchun"
+   ],
+   "togri": 2,
+   "qiyinlik": "o'rtacha",
+   "n": 19
+  },
+  {
+   "savol": "Nusxalash jarayonida qaysi murojaat turi natijada ustun yoki qator raqamining o‘zgarishiga olib keladi?",
+   "variantlar": [
+    "Absolut murojaat",
+    "Aralash murojaat (ikkalasi ham qotgan)",
+    "Hech biri",
+    "Nisbiy murojaat"
+   ],
+   "togri": 3,
+   "qiyinlik": "o'rtacha",
+   "n": 20
+  },
+  {
+   "savol": "a=3 bo‘lganda a⁸ (8-daraja) qiymati nechaga teng?",
+   "variantlar": [
+    "6561",
+    "2187",
+    "19683",
+    "729"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 21
+  },
+  {
+   "savol": "a=4 bo‘lganda a⁷ (7-daraja) qiymati nechaga teng?",
+   "variantlar": [
+    "1024",
+    "16384",
+    "4096",
+    "65536"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 22
+  },
+  {
+   "savol": "a=5 bo‘lganda a⁶ (6-daraja) qiymati nechaga teng?",
+   "variantlar": [
+    "78125",
+    "625",
+    "15625",
+    "3125"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 23
+  },
+  {
+   "savol": "a=2 bo‘lganda a⁸ (8-daraja) qiymati nechaga teng?",
+   "variantlar": [
+    "128",
+    "512",
+    "64",
+    "256"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 24
+  },
+  {
+   "savol": "B4 katakdagi =$A4*A4 formulasi I4 katakka (B dan I gacha, ya’ni a² dan a⁹ gacha ustunlar) nusxalansa, u yerda qaysi daraja hosil bo‘ladi?",
+   "variantlar": [
+    "a⁹ (9-daraja)",
+    "a² (kvadrat)",
+    "a⁵ (5-daraja)",
+    "a³ (kub)"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 25
+  },
+  {
+   "savol": "3 sonining 10-darajasigacha hisoblovchi jadval (uyga vazifa) nechta ustundan iborat bo‘ladi (A ustun + 10 ta daraja)?",
+   "variantlar": [
+    "12 ta ustun",
+    "11 ta ustun",
+    "10 ta ustun",
+    "9 ta ustun"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 26
+  },
+  {
+   "savol": "Uyga vazifadagi 1+2²+3³+4⁴ ifodaning qiymati nechaga teng?",
+   "variantlar": [
+    "64",
+    "256",
+    "288",
+    "100"
+   ],
+   "togri": 2,
+   "qiyinlik": "qiyin",
+   "n": 27
+  },
+  {
+   "savol": "B4=$A4*A4 formulasi B5 katakka nusxalansa, qanday formula hosil bo‘ladi?",
+   "variantlar": [
+    "=$A4*A5",
+    "=A4*$A4",
+    "=$A4*A4",
+    "=$A5*A5"
+   ],
+   "togri": 3,
+   "qiyinlik": "qiyin",
+   "n": 28
+  },
+  {
+   "savol": "a=4 bo‘lganda jadvaldagi eng katta qiymat (a⁹) nechaga teng?",
+   "variantlar": [
+    "262144",
+    "65536",
+    "131072",
+    "524288"
+   ],
+   "togri": 0,
+   "qiyinlik": "qiyin",
+   "n": 29
+  },
+  {
+   "savol": "Jadvalda a=2,3,4,5 uchun a⁹ qiymatlari yig‘indisi (512+19683+262144+1953125) taxminan nechaga teng?",
+   "variantlar": [
+    "2335464",
+    "2235464",
+    "2135464",
+    "2235364"
+   ],
+   "togri": 1,
+   "qiyinlik": "qiyin",
+   "n": 30
+  }
+ ]
+}
